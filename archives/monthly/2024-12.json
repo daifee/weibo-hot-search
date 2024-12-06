@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733480764088,
+  "endTime": 1733481838775,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 895635,
+      "num": 510532,
+      "word": "邓超粉丝抵制邓超追私行为",
+      "onboard_time": 1733476822,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 888582,
       "num": 1142173,
       "word": "福宝检查后在洞口张望",
@@ -2377,14 +2385,6 @@
       "onboard_time": 1733404758,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 643650,
-      "num": 510532,
-      "word": "邓超粉丝抵制邓超追私行为",
-      "onboard_time": 1733476822,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 642410,
@@ -3723,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457592,
+      "num": 457592,
+      "word": "窦骁何超莲撒狗粮现场",
+      "onboard_time": 1733480659,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 457210,
       "num": 457210,
       "word": "27岁上海交大博导让大家别焦虑",
@@ -4875,6 +4883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 359596,
+      "num": 359596,
+      "word": "国乒今晚迎战日本队",
+      "onboard_time": 1733476702,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359076,
       "num": 359076,
       "word": "突然理解了在网上买银杏叶的人",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1733286622,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348511,
+      "num": 348511,
+      "word": "九重紫",
+      "onboard_time": 1733127678,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 347561,
@@ -5867,6 +5891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283096,
+      "num": 394033,
+      "word": "韩国国会被全面管制",
+      "onboard_time": 1733478919,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 282829,
       "num": 507671,
       "word": "外交部回应美国3.85亿美元对台军售",
@@ -6553,14 +6585,6 @@
       "onboard_time": 1733136918,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246429,
-      "num": 246429,
-      "word": "韩国国会被全面管制",
-      "onboard_time": 1733478919,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 246054,
@@ -7433,14 +7457,6 @@
       "onboard_time": 1733367321,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219488,
-      "num": 338459,
-      "word": "国乒今晚迎战日本队",
-      "onboard_time": 1733476702,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 219216,
@@ -8731,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195119,
+      "num": 281340,
+      "word": "丁禹兮登顶11月微博演员热度报告",
+      "onboard_time": 1733481499,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194939,
       "num": 194939,
       "word": "司机作弊欺骗智驾系统在高速睡觉",
@@ -8857,6 +8881,14 @@
       "onboard_time": 1733459904,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192382,
+      "num": 192382,
+      "word": "女孩用吹风机吹两小时救活受冻小猫",
+      "onboard_time": 1733481260,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 192294,
@@ -9507,6 +9539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183132,
+      "num": 398467,
+      "word": "课间一刻钟快乐900秒",
+      "onboard_time": 1733479880,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 183123,
       "num": 192249,
       "word": "王楚钦说问题有点多记不住",
@@ -9875,6 +9915,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 176582,
+      "num": 176582,
+      "word": "福宝由2位奶爸轮流24小时照顾",
+      "onboard_time": 1733480659,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176530,
       "num": 176530,
       "word": "黄老板杭州抢票",
@@ -9937,6 +9985,14 @@
       "onboard_time": 1733387478,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175754,
+      "num": 243115,
+      "word": "白夜破晓",
+      "onboard_time": 1733071036,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 175634,
@@ -10169,6 +10225,14 @@
       "onboard_time": 1733103917,
       "rank": 19,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 171148,
+      "num": 171148,
+      "word": "黄杨钿甜17岁就有五部待播剧",
+      "onboard_time": 1733481499,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 171137,
@@ -10563,14 +10627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 166058,
-      "num": 166058,
-      "word": "窦骁何超莲撒狗粮现场",
-      "onboard_time": 1733480659,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166035,
       "num": 166035,
       "word": "北京地铁大爷向年轻人花式发射快乐",
@@ -10883,14 +10939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161372,
-      "num": 398467,
-      "word": "课间一刻钟快乐900秒",
-      "onboard_time": 1733479880,
-      "rank": 9,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 161351,
       "num": 390076,
       "word": "为什么有的人会搞砸每一段关系",
@@ -11137,14 +11185,6 @@
       "onboard_time": 1733410460,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157760,
-      "num": 157760,
-      "word": "福宝由2位奶爸轮流24小时照顾",
-      "onboard_time": 1733480659,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157733,
@@ -11595,6 +11635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152873,
+      "num": 152873,
+      "word": "又一个考教资考疯了的",
+      "onboard_time": 1733479582,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "无限暖暖 晕3D",
@@ -11833,6 +11881,14 @@
       "onboard_time": 1733315362,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149413,
+      "num": 376304,
+      "word": "国乒vs日本",
+      "onboard_time": 1733481260,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 148858,
@@ -12193,6 +12249,14 @@
       "onboard_time": 1733123238,
       "rank": 18,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 143851,
+      "num": 275039,
+      "word": "武艺 今年闹的笑话",
+      "onboard_time": 1733479880,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 143845,
@@ -12811,6 +12875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136047,
+      "num": 136047,
+      "word": "今日起气温零下将成为北方常态",
+      "onboard_time": 1733481619,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135682,
       "num": 135682,
       "word": "田小娟ins更新",
@@ -13073,14 +13145,6 @@
       "onboard_time": 1732995131,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131663,
-      "num": 131663,
-      "word": "九重紫",
-      "onboard_time": 1733127678,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 131649,
@@ -15667,6 +15731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88052,
+      "num": 317937,
+      "word": "律师称AI生成接吻视频或涉嫌违法",
+      "onboard_time": 1733479760,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 87880,
       "num": 87880,
       "word": "央行将启用新修订的M1统计口径",
@@ -16259,6 +16331,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77225,
+      "num": 183147,
+      "word": "江苏卫视跨年有一手阵容线索",
+      "onboard_time": 1733481140,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77062,
       "num": 321534,
       "word": "市监局回应思念水饺疑吃出烟头",
@@ -16313,14 +16393,6 @@
       "onboard_time": 1733058019,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 75691,
-      "num": 317937,
-      "word": "律师称AI生成接吻视频或涉嫌违法",
-      "onboard_time": 1733479760,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75507,
@@ -17699,6 +17771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53019,
+      "num": 187018,
+      "word": "无限暖暖流水",
+      "onboard_time": 1733480479,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52948,
       "num": 699961,
       "word": "人民币汇率为什么大幅波动",
@@ -17753,14 +17833,6 @@
       "onboard_time": 1733161933,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52249,
-      "num": 243115,
-      "word": "白夜破晓",
-      "onboard_time": 1733071036,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 52249,
@@ -18891,14 +18963,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 36256,
-      "num": 150840,
-      "word": "无限暖暖流水",
-      "onboard_time": 1733480479,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 36249,
       "num": 266313,
       "word": "常园说有自己的外貌焦虑",
@@ -19323,14 +19387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31985,
-      "num": 275039,
-      "word": "武艺 今年闹的笑话",
-      "onboard_time": 1733479880,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31960,
       "num": 198821,
       "word": "郑钦文入围2024社媒最受关注运动员",
@@ -19673,6 +19729,14 @@
       "onboard_time": 1733150902,
       "rank": 49,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 28624,
+      "num": 371283,
+      "word": "恋爱脑被唾弃的时代我们如何看琼瑶",
+      "onboard_time": 1733481380,
+      "rank": 13,
+      "category": "读书作家"
     },
     {
       "raw_hot": 28495,
@@ -21083,6 +21147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14127,
+      "num": 274943,
+      "word": "范德法特称C罗有些自私",
+      "onboard_time": 1733476822,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14057,
       "num": 151123,
       "word": "香奈儿高级手工坊绝美细节图",
@@ -21217,6 +21289,14 @@
       "onboard_time": 1733427252,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12685,
+      "num": 287879,
+      "word": "莎头组合vs川上流星面手凛",
+      "onboard_time": 1733481682,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 12530,
@@ -21369,14 +21449,6 @@
       "onboard_time": 1733412859,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 9522,
-      "num": 274943,
-      "word": "范德法特称C罗有些自私",
-      "onboard_time": 1733476822,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 9408,
@@ -21595,6 +21667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 6521,
+      "num": 213219,
+      "word": "马龙离台球迷高呼龙队欢迎再来",
+      "onboard_time": 1733481799,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6442,
       "num": 20125,
       "word": "苏新皓橙色的小苏大放送",
@@ -21665,6 +21745,14 @@
       "onboard_time": 1733196199,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5428,
+      "num": 289208,
+      "word": "王源 我的舞蹈排第二",
+      "onboard_time": 1733481799,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 5396,
