@@ -1,0 +1,410 @@
+{
+  "runTime": 1733484006394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098763,
+        "num": 1175802,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 833506,
+        "num": 833506,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75298,
+        "num": 822452,
+        "word": "大雪一落地就成了诗",
+        "onboard_time": 1733472621,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 817004,
+        "num": 817004,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 554667,
+        "num": 554667,
+        "word": "课间延长到15分钟学生在干啥",
+        "onboard_time": 1733477779,
+        "rank": 4,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 539110,
+        "num": 539110,
+        "word": "韩国国会被全面管制",
+        "onboard_time": 1733478919,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530058,
+        "num": 530058,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324277,
+        "num": 526527,
+        "word": "国乒vs日本",
+        "onboard_time": 1733481260,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202192,
+        "num": 490025,
+        "word": "莎头组合vs川上流星面手凛",
+        "onboard_time": 1733481682,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111730,
+        "num": 475506,
+        "word": "福宝1600天健康平安",
+        "onboard_time": 1733483300,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951462,
+        "num": 447371,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 569246,
+        "num": 431578,
+        "word": "窦骁何超莲撒狗粮现场",
+        "onboard_time": 1733480659,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426141,
+        "num": 426141,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382174,
+        "num": 382174,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358325,
+        "num": 358325,
+        "word": "白夜追凶给了七年一个结局",
+        "onboard_time": 1733476220,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354181,
+        "num": 354181,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228244,
+        "num": 308736,
+        "word": "向佐穿女装带货首场卖出5千万",
+        "onboard_time": 1733472139,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294278,
+        "num": 294278,
+        "word": "毕业后才懂英语四六级有多重要",
+        "onboard_time": 1733472260,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40650,
+        "num": 278867,
+        "word": "F1中国大奖赛续约至2030年",
+        "onboard_time": 1733482099,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189090,
+        "num": 266717,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 859424,
+        "num": 246297,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336085,
+        "num": 240301,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 227611,
+        "num": 227611,
+        "word": "黄杨钿甜17岁就有五部待播剧",
+        "onboard_time": 1733481499,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68411,
+        "num": 227443,
+        "word": "EDG新赛季阵容公布",
+        "onboard_time": 1733483660,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133750,
+        "num": 227360,
+        "word": "丁禹兮登顶11月微博演员热度报告",
+        "onboard_time": 1733481499,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227291,
+        "num": 227291,
+        "word": "虞书欣墨镜双马尾",
+        "onboard_time": 1733482099,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215698,
+        "num": 215698,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190707,
+        "num": 190707,
+        "word": "王源 我的舞蹈排第二",
+        "onboard_time": 1733481799,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183238,
+        "num": 183238,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 180492,
+        "word": "南柱赫退伍后首现身",
+        "onboard_time": 1733483838,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180201,
+        "num": 180201,
+        "word": "莎头再合体",
+        "onboard_time": 1733482400,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171520,
+        "num": 171520,
+        "word": "吴磊赵今麦2024云合现偶TOP1",
+        "onboard_time": 1733483598,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171329,
+        "num": 171329,
+        "word": "花3.75元做了两荤一素的午餐",
+        "onboard_time": 1733479219,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165818,
+        "num": 165818,
+        "word": "国乒今晚迎战日本队",
+        "onboard_time": 1733476702,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167235,
+        "num": 161434,
+        "word": "跳青海摇8天瘦了10斤",
+        "onboard_time": 1733470039,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156441,
+        "num": 156441,
+        "word": "又一个考教资考疯了的",
+        "onboard_time": 1733479582,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135271,
+        "num": 155445,
+        "word": "猎罪图鉴原汁原罪回归",
+        "onboard_time": 1733482579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155244,
+        "num": 155244,
+        "word": "成都混团中国vs日本阵容安排",
+        "onboard_time": 1733483959,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154740,
+        "num": 154740,
+        "word": "张真源跑男最忠实的观众",
+        "onboard_time": 1733483719,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153285,
+        "num": 153285,
+        "word": "朴彩英吻戏",
+        "onboard_time": 1733468180,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144505,
+        "num": 144505,
+        "word": "医生称超80%直肠癌最初被当痔疮",
+        "onboard_time": 1733475740,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143536,
+        "num": 143536,
+        "word": "物业发通知禁止住户养宠物否则捕杀",
+        "onboard_time": 1733470519,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142285,
+        "num": 142285,
+        "word": "妈妈按天给大学生女儿发50元生活费",
+        "onboard_time": 1733465599,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140139,
+        "num": 140139,
+        "word": "许多加沙儿童无麻醉被截肢",
+        "onboard_time": 1733481919,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135937,
+        "num": 135937,
+        "word": "正豪大大鸡排关闭中国大陆所有门店",
+        "onboard_time": 1733467520,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135554,
+        "num": 135554,
+        "word": "福宝由2位奶爸轮流24小时照顾",
+        "onboard_time": 1733480659,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126236,
+        "num": 126236,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1733465899,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 125435,
+        "word": "课间一刻钟快乐900秒",
+        "onboard_time": 1733479880,
+        "rank": 47,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 120635,
+        "num": 120635,
+        "word": "A股放量2902亿",
+        "onboard_time": 1733483959,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119511,
+        "num": 119511,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
