@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733512790465,
+  "endTime": 1733513779937,
   "band_list": [
     {
       "raw_hot": 1542594,
@@ -227,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121862,
+      "num": 121862,
+      "word": "刚果金因不明原因疾病拉响最高警报",
+      "onboard_time": 1733510593,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120767,
       "num": 120767,
       "word": "上海月租3000房子的楼梯",
       "onboard_time": 1733501059,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 118555,
-      "num": 118555,
-      "word": "刚果金因不明原因疾病拉响最高警报",
-      "onboard_time": 1733510593,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114759,
@@ -539,7 +539,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18319,
+      "raw_hot": 18547,
       "num": 68452,
       "word": "叙利亚军方称政府军仍部署在哈马市郊",
       "onboard_time": 1733511853,
@@ -553,6 +553,22 @@
       "onboard_time": 1733505674,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 15733,
+      "num": 19868,
+      "word": "周深南宁演唱会彩排场外氛围拉满",
+      "onboard_time": 1733513651,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 55947,
+      "word": "韩国议长称决不接受二次戒严",
+      "onboard_time": 1733511792,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14138,
