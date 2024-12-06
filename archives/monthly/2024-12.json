@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733459330444,
+  "endTime": 1733460244552,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -203,20 +203,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 2763420,
+      "num": 2763420,
+      "word": "楚乔传2开机",
+      "onboard_time": 1733457379,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2720304,
       "num": 2720304,
       "word": "哥伦比亚一机库发现约2万具尸体",
       "onboard_time": 1733441718,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2556255,
-      "num": 2556255,
-      "word": "楚乔传2开机",
-      "onboard_time": 1733457379,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2541717,
@@ -627,6 +627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1469254,
+      "num": 1469254,
+      "word": "韩媒说中国春节已延续数千年",
+      "onboard_time": 1733455759,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1430890,
       "num": 1430890,
       "word": "韩国演员朴敏宰去世",
@@ -953,14 +961,6 @@
       "onboard_time": 1733239286,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1112239,
-      "num": 1112239,
-      "word": "韩媒说中国春节已延续数千年",
-      "onboard_time": 1733455759,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1108218,
@@ -3115,6 +3115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 491343,
+      "num": 491343,
+      "word": "孟子义 我不接受任何身材PUA",
+      "onboard_time": 1733456299,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490379,
       "num": 490379,
       "word": "看似正常实则伤牙的行为",
@@ -3212,11 +3220,19 @@
     },
     {
       "raw_hot": 481657,
-      "num": 258953,
+      "num": 297660,
       "word": "妈妈按天给大学生女儿发50元",
       "onboard_time": 1733444840,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481567,
+      "num": 481567,
+      "word": "NewJeans新立场",
+      "onboard_time": 1733458762,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 481490,
@@ -3281,6 +3297,14 @@
       "onboard_time": 1733207600,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 473963,
+      "num": 473963,
+      "word": "白夜破晓大结局",
+      "onboard_time": 1733459180,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 471982,
@@ -4113,14 +4137,6 @@
       "onboard_time": 1733060960,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 399733,
-      "num": 399733,
-      "word": "孟子义 我不接受任何身材PUA",
-      "onboard_time": 1733456299,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 398569,
@@ -5123,6 +5139,14 @@
       "category": "电影,读书作家"
     },
     {
+      "raw_hot": 315109,
+      "num": 315109,
+      "word": "内蒙古3岁女童被虐案一审宣判",
+      "onboard_time": 1733455878,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314174,
       "num": 314174,
       "word": "星穹铁道",
@@ -5281,22 +5305,6 @@
       "onboard_time": 1733311881,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298904,
-      "num": 298904,
-      "word": "NewJeans新立场",
-      "onboard_time": 1733458762,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 298744,
-      "num": 298744,
-      "word": "内蒙古3岁女童被虐案一审宣判",
-      "onboard_time": 1733455878,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296872,
@@ -5971,6 +5979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 257207,
+      "num": 257207,
+      "word": "哥伦比亚大量人口失踪后无从寻觅",
+      "onboard_time": 1733459600,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 257016,
       "num": 340345,
       "word": "研究证明有饥饿感会启动长寿基因",
@@ -6027,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253977,
+      "num": 253977,
+      "word": "世界之外",
+      "onboard_time": 1733277499,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253895,
       "num": 253895,
       "word": "大爷哪天出现哪天就是快乐星期几",
@@ -6065,6 +6089,14 @@
       "onboard_time": 1733028918,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252708,
+      "num": 252708,
+      "word": "林志颖带儿子Jenson看周杰伦演唱会",
+      "onboard_time": 1733459421,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 252442,
@@ -6161,6 +6193,14 @@
       "onboard_time": 1733110878,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 246794,
+      "num": 246794,
+      "word": "尹锡悦宣布戒严影响一波又一波",
+      "onboard_time": 1733458880,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 246748,
@@ -7835,6 +7875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201149,
+      "num": 321373,
+      "word": "时代峰峻江苏公司注销",
+      "onboard_time": 1733459421,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200979,
       "num": 200979,
       "word": "德国大众汽车工人罢工",
@@ -7939,14 +7987,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198327,
-      "num": 198327,
-      "word": "世界之外",
-      "onboard_time": 1733277499,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198176,
       "num": 144556,
       "word": "丁禹兮南部档案上班路透",
@@ -8025,6 +8065,14 @@
       "onboard_time": 1733404821,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196960,
+      "num": 196960,
+      "word": "易烊千玺灵蛇外套",
+      "onboard_time": 1733459961,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196850,
@@ -8297,6 +8345,14 @@
       "onboard_time": 1733206819,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192550,
+      "num": 192550,
+      "word": "张韶涵为不吃老本选择精进唱功",
+      "onboard_time": 1733459904,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 192294,
@@ -8683,6 +8739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186432,
+      "num": 186432,
+      "word": "消费降级用螺蛳粉做了四菜一汤",
+      "onboard_time": 1733451979,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186418,
       "num": 320137,
       "word": "马龙和杨倩pk射击一发未中",
@@ -8769,14 +8833,6 @@
       "onboard_time": 1733194998,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185599,
-      "num": 185599,
-      "word": "消费降级用螺蛳粉做了四菜一汤",
-      "onboard_time": 1733451979,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 185456,
@@ -9065,6 +9121,14 @@
       "onboard_time": 1733370861,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179809,
+      "num": 179809,
+      "word": "沧元图2开播",
+      "onboard_time": 1733459840,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 179685,
@@ -9635,6 +9699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 169224,
+      "num": 169224,
+      "word": "胖东来正研究过度代购解决方法",
+      "onboard_time": 1733457860,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169175,
       "num": 169175,
       "word": "现在拨打的电话",
@@ -9680,6 +9752,14 @@
       "word": "我是刑警 没有一个镜头是浪费的",
       "onboard_time": 1733314341,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168164,
+      "num": 168164,
+      "word": "宇文玥还是泡着吧",
+      "onboard_time": 1733460141,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -9961,6 +10041,14 @@
       "onboard_time": 1733203120,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164499,
+      "num": 164499,
+      "word": "楚乔传",
+      "onboard_time": 1733460020,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 164207,
@@ -10259,14 +10347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 158862,
-      "num": 158862,
-      "word": "白夜破晓大结局",
-      "onboard_time": 1733459180,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158855,
       "num": 152380,
       "word": "粉云直播",
@@ -10329,14 +10409,6 @@
       "onboard_time": 1733288901,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158121,
-      "num": 158121,
-      "word": "尹锡悦宣布戒严影响一波又一波",
-      "onboard_time": 1733458880,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157778,
@@ -11352,14 +11424,6 @@
       "word": "孩子兜里揣龙眼家长质疑超市定性偷盗",
       "onboard_time": 1733098157,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144260,
-      "num": 144260,
-      "word": "胖东来正研究过度代购解决方法",
-      "onboard_time": 1733457860,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -12417,6 +12481,14 @@
       "onboard_time": 1733367799,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127519,
+      "num": 187691,
+      "word": "刘亦菲连续10年为唐嫣庆生",
+      "onboard_time": 1733460141,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127404,
@@ -13539,6 +13611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109698,
+      "num": 477419,
+      "word": "韩国成立紧急戒严事件特别调查本部",
+      "onboard_time": 1733458640,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109599,
       "num": 110016,
       "word": "为鼓励学生早起学校供应免费早餐",
@@ -14579,14 +14659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89582,
-      "num": 434942,
-      "word": "韩国成立紧急戒严事件特别调查本部",
-      "onboard_time": 1733458640,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 89488,
       "num": 267172,
       "word": "共享单车被丢河里每月可捞数百辆",
@@ -15619,6 +15691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68308,
+      "num": 316660,
+      "word": "消毒级卫生巾vs普通级卫生巾",
+      "onboard_time": 1733458460,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68215,
       "num": 352440,
       "word": "当事人讲述杀熊救妻经过",
@@ -15977,6 +16057,14 @@
       "onboard_time": 1733181915,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61354,
+      "num": 405822,
+      "word": "付费自习室野蛮生长至近7万家",
+      "onboard_time": 1733459781,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61212,
@@ -17643,14 +17731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37057,
-      "num": 239577,
-      "word": "消毒级卫生巾vs普通级卫生巾",
-      "onboard_time": 1733458460,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 37002,
       "num": 403810,
       "word": "为啥飞机上不能用充电宝",
@@ -18857,6 +18937,14 @@
       "onboard_time": 1733030001,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 24260,
+      "num": 405865,
+      "word": "我是刑警既朴实无华也与时俱进",
+      "onboard_time": 1733459482,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 24252,
