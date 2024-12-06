@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733484963375,
+  "endTime": 1733489171746,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -417,6 +417,14 @@
       "onboard_time": 1733112380,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1795259,
+      "num": 1795259,
+      "word": "断糖60天的面部变化",
+      "onboard_time": 1733484200,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 1712298,
@@ -1403,6 +1411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 939434,
+      "num": 939434,
+      "word": "孟子义 妈妈低声点难道光彩吗",
+      "onboard_time": 1733484080,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 938268,
       "num": 938268,
       "word": "12岁女孩以为月经不调竟是癌症晚期",
@@ -1480,6 +1496,14 @@
       "word": "黄子韬朋友圈 语录推荐",
       "onboard_time": 1733215881,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915789,
+      "num": 915789,
+      "word": "赵丽颖新加坡红毯",
+      "onboard_time": 1733484681,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -2979,6 +3003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 548318,
+      "num": 548318,
+      "word": "巴拉圭",
+      "onboard_time": 1733486840,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 548249,
       "num": 548249,
       "word": "教育局介入废弃小学信箱发现举报信",
@@ -3275,14 +3307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 509452,
-      "num": 355924,
-      "word": "孟子义 妈妈低声点难道光彩吗",
-      "onboard_time": 1733484080,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 508702,
       "num": 508702,
       "word": "男子自称烟草局主管安排入职需陪睡",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1733041338,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497022,
+      "num": 497022,
+      "word": "九重紫热度",
+      "onboard_time": 1733486601,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 497001,
@@ -3441,6 +3473,14 @@
       "onboard_time": 1733307203,
       "rank": 16,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 487078,
+      "num": 1288418,
+      "word": "莎头组合2比1日本",
+      "onboard_time": 1733484498,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 486924,
@@ -5563,6 +5603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311445,
+      "num": 311445,
+      "word": "吴磊赵今麦2024云合现偶TOP1",
+      "onboard_time": 1733483598,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311357,
       "num": 829202,
       "word": "菲律宾公务船恶意擦碰中国海警船",
@@ -5811,14 +5859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290840,
-      "num": 290840,
-      "word": "断糖60天的面部变化",
-      "onboard_time": 1733484200,
-      "rank": 29,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 290776,
       "num": 290776,
       "word": "花生十三来了都得掉层花生皮",
@@ -6003,12 +6043,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 280671,
+      "num": 280671,
+      "word": "绝区零",
+      "onboard_time": 1733233340,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280585,
       "num": 501027,
       "word": "我妈果然偏爱谭松韵",
       "onboard_time": 1733279299,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280221,
+      "num": 280221,
+      "word": "香港4胞胎家庭月租60000的房子",
+      "onboard_time": 1733484019,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 280111,
@@ -6195,12 +6251,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270997,
-      "num": 299596,
-      "word": "吴磊赵今麦2024云合现偶TOP1",
-      "onboard_time": 1733483598,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 271198,
+      "num": 271198,
+      "word": "李秀满新女团vocal实力",
+      "onboard_time": 1733487978,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 270392,
@@ -6409,6 +6465,14 @@
       "onboard_time": 1732977081,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259523,
+      "num": 336303,
+      "word": "南柱赫退伍后首现身",
+      "onboard_time": 1733483838,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 259254,
@@ -6747,14 +6811,6 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 242790,
-      "num": 242790,
-      "word": "香港4胞胎家庭月租60000的房子",
-      "onboard_time": 1733484019,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242786,
       "num": 463330,
       "word": "美图卖了所有加密货币净赚5亿多元",
@@ -6769,6 +6825,14 @@
       "onboard_time": 1733133080,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242544,
+      "num": 262531,
+      "word": "于正 只剩下心发慌",
+      "onboard_time": 1733484320,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 242495,
@@ -7587,6 +7651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218035,
+      "num": 280644,
+      "word": "招商银行崩了",
+      "onboard_time": 1733484859,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217886,
       "num": 204106,
       "word": "杭州到达好多明星",
@@ -8379,6 +8451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202244,
+      "num": 202244,
+      "word": "赵丽颖盘发闪钻流苏西装裙",
+      "onboard_time": 1733488760,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 202213,
       "num": 187441,
       "word": "关宏峰到底死没死",
@@ -8529,14 +8609,6 @@
       "onboard_time": 1733229921,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199337,
-      "num": 336303,
-      "word": "南柱赫退伍后首现身",
-      "onboard_time": 1733483838,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 198913,
@@ -8913,6 +8985,14 @@
       "onboard_time": 1733203041,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194174,
+      "num": 249955,
+      "word": "孟子义新剧拿了品如剧本",
+      "onboard_time": 1733487919,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 194074,
@@ -9763,6 +9843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181573,
+      "num": 181573,
+      "word": "周巡说给关宏峰的最后一句话",
+      "onboard_time": 1733486659,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181378,
       "num": 181378,
       "word": "斗罗2听劝重剪第一集",
@@ -10027,14 +10115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177164,
-      "num": 177164,
-      "word": "赵丽颖新加坡红毯",
-      "onboard_time": 1733484681,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176916,
       "num": 176916,
       "word": "为什么咖啡店的桌子都这么矮",
@@ -10193,14 +10273,6 @@
       "onboard_time": 1733212280,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174597,
-      "num": 262531,
-      "word": "于正 只剩下心发慌",
-      "onboard_time": 1733484320,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 174503,
@@ -10683,6 +10755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167203,
+      "num": 167203,
+      "word": "许多加沙儿童无麻醉被截肢",
+      "onboard_time": 1733481919,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167141,
       "num": 303447,
       "word": "刘宇宁又双叒要在江苏卫视跨年了",
@@ -10785,6 +10865,14 @@
       "onboard_time": 1733302945,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165926,
+      "num": 241951,
+      "word": "婚内婚外",
+      "onboard_time": 1733488820,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 165919,
@@ -11169,6 +11257,14 @@
       "onboard_time": 1733240606,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160119,
+      "num": 160119,
+      "word": "王楚钦孙颖莎11比3川上流星面手凛",
+      "onboard_time": 1733486060,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 160112,
@@ -11883,6 +11979,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151082,
+      "num": 151082,
+      "word": "何瑞贤短发好帅",
+      "onboard_time": 1733486659,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150943,
       "num": 221398,
       "word": "清华学生在外校与人发生冲突被处分",
@@ -12025,6 +12129,14 @@
       "onboard_time": 1733315362,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149068,
+      "num": 149068,
+      "word": "白夜破晓 指纹",
+      "onboard_time": 1733486777,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148858,
@@ -12643,14 +12755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140139,
-      "num": 140139,
-      "word": "许多加沙儿童无麻醉被截肢",
-      "onboard_time": 1733481919,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 140071,
       "num": 140071,
       "word": "花生十三 变化是一种机会",
@@ -12769,6 +12873,14 @@
       "onboard_time": 1733380819,
       "rank": 41,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 138907,
+      "num": 241641,
+      "word": "孙颖莎王艺迪vs笹尾明日香赤江夏星",
+      "onboard_time": 1733487860,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 138854,
@@ -13051,20 +13163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135555,
+      "num": 172015,
+      "word": "花费几万元的南极之旅却没到南极",
+      "onboard_time": 1733487079,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135434,
       "num": 296493,
       "word": "赵丽颖有两部作品获五个一工程奖",
       "onboard_time": 1733307564,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135395,
-      "num": 149164,
-      "word": "绝区零",
-      "onboard_time": 1733233340,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 135368,
@@ -13209,14 +13321,6 @@
       "onboard_time": 1733473101,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 133572,
-      "num": 133572,
-      "word": "招商银行崩了",
-      "onboard_time": 1733484859,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133490,
@@ -13449,14 +13553,6 @@
       "onboard_time": 1733438534,
       "rank": 34,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 129935,
-      "num": 342916,
-      "word": "莎头组合2比1日本",
-      "onboard_time": 1733484498,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 129894,
@@ -14289,6 +14385,14 @@
       "onboard_time": 1733306244,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117446,
+      "num": 505386,
+      "word": "国乒8比2胜日本",
+      "onboard_time": 1733488398,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 117299,
@@ -15851,6 +15955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89473,
+      "num": 202291,
+      "word": "林诗栋2比1日本队",
+      "onboard_time": 1733487799,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89428,
       "num": 89428,
       "word": "云南省司法厅原一级巡视员泄露案情被查",
@@ -15961,6 +16073,14 @@
       "onboard_time": 1733065760,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87522,
+      "num": 280482,
+      "word": "巴黎偶遇张小斐逛街",
+      "onboard_time": 1733488100,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 87457,
@@ -16939,6 +17059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67823,
+      "num": 282568,
+      "word": "为什么感冒后护嗓很重要",
+      "onboard_time": 1733486419,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67496,
       "num": 247298,
       "word": "周冠宇期待下一个篇章",
@@ -17449,6 +17577,14 @@
       "onboard_time": 1733293580,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59438,
+      "num": 317951,
+      "word": "国乒混团7连胜",
+      "onboard_time": 1733488398,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 59354,
@@ -18171,6 +18307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50392,
+      "num": 280431,
+      "word": "杨倩发文告别台湾行",
+      "onboard_time": 1733487259,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50259,
       "num": 460540,
       "word": "工业原料摇身一变成正品农药",
@@ -18435,6 +18579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45898,
+      "num": 182274,
+      "word": "成毅11月微博演员全站讨论量破2亿",
+      "onboard_time": 1733488879,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45836,
       "num": 389199,
       "word": "网红祁天道夫妇名下多家公司已注销",
@@ -18601,6 +18753,14 @@
       "onboard_time": 1733213179,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43820,
+      "num": 290517,
+      "word": "这届年轻人买钻戒只为应付求婚",
+      "onboard_time": 1733488820,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43791,
@@ -18809,6 +18969,14 @@
       "onboard_time": 1733482099,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40644,
+      "num": 380229,
+      "word": "外交部回应当前叙利亚局势",
+      "onboard_time": 1733488338,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40614,
@@ -19241,6 +19409,14 @@
       "onboard_time": 1733215160,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35794,
+      "num": 1013303,
+      "word": "大雪来一场好逛又好吃的citywalk",
+      "onboard_time": 1733471779,
+      "rank": 2,
+      "category": "旅游"
     },
     {
       "raw_hot": 35684,
@@ -20843,6 +21019,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 19153,
+      "num": 280266,
+      "word": "黄子弘凡学了一半发现练错歌",
+      "onboard_time": 1733488100,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19016,
       "num": 103175,
       "word": "春节是中华文化最重要的传统节日",
@@ -21264,6 +21448,14 @@
       "word": "孙颖莎称混团世界杯会全力以赴",
       "onboard_time": 1733244080,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15071,
+      "num": 262977,
+      "word": "马龙离台球迷高呼龙队欢迎再来",
+      "onboard_time": 1733481799,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -21881,14 +22073,6 @@
       "onboard_time": 1733079491,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6521,
-      "num": 213219,
-      "word": "马龙离台球迷高呼龙队欢迎再来",
-      "onboard_time": 1733481799,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 6442,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1733489171746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1795259,
+        "num": 1795259,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 487078,
+        "num": 1288418,
+        "word": "莎头组合2比1日本",
+        "onboard_time": 1733484498,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35794,
+        "num": 1013303,
+        "word": "大雪来一场好逛又好吃的citywalk",
+        "onboard_time": 1733471779,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 939434,
+        "num": 939434,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 915789,
+        "num": 915789,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 4,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 548318,
+        "num": 548318,
+        "word": "巴拉圭",
+        "onboard_time": 1733486840,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 634713,
+        "num": 543461,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117446,
+        "num": 505386,
+        "word": "国乒8比2胜日本",
+        "onboard_time": 1733488398,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497022,
+        "num": 497022,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40644,
+        "num": 380229,
+        "word": "外交部回应当前叙利亚局势",
+        "onboard_time": 1733488338,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335509,
+        "num": 335509,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59438,
+        "num": 317951,
+        "word": "国乒混团7连胜",
+        "onboard_time": 1733488398,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311445,
+        "num": 311445,
+        "word": "吴磊赵今麦2024云合现偶TOP1",
+        "onboard_time": 1733483598,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43820,
+        "num": 290517,
+        "word": "这届年轻人买钻戒只为应付求婚",
+        "onboard_time": 1733488820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67823,
+        "num": 282568,
+        "word": "为什么感冒后护嗓很重要",
+        "onboard_time": 1733486419,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280671,
+        "num": 280671,
+        "word": "绝区零",
+        "onboard_time": 1733487919,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218035,
+        "num": 280644,
+        "word": "招商银行崩了",
+        "onboard_time": 1733484859,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87522,
+        "num": 280482,
+        "word": "巴黎偶遇张小斐逛街",
+        "onboard_time": 1733488100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50392,
+        "num": 280431,
+        "word": "杨倩发文告别台湾行",
+        "onboard_time": 1733487259,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19153,
+        "num": 280266,
+        "word": "黄子弘凡学了一半发现练错歌",
+        "onboard_time": 1733488100,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280221,
+        "num": 280221,
+        "word": "香港4胞胎家庭月租60000的房子",
+        "onboard_time": 1733484019,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244116,
+        "num": 279431,
+        "word": "韩国国会被全面管制",
+        "onboard_time": 1733478919,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279246,
+        "num": 279246,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271198,
+        "num": 271198,
+        "word": "李秀满新女团vocal实力",
+        "onboard_time": 1733487978,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15071,
+        "num": 262977,
+        "word": "马龙离台球迷高呼龙队欢迎再来",
+        "onboard_time": 1733481799,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259523,
+        "num": 259523,
+        "word": "南柱赫退伍后首现身",
+        "onboard_time": 1733483838,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194174,
+        "num": 249955,
+        "word": "孟子义新剧拿了品如剧本",
+        "onboard_time": 1733487919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245352,
+        "num": 245352,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242544,
+        "num": 242544,
+        "word": "于正 只剩下心发慌",
+        "onboard_time": 1733484320,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165926,
+        "num": 241951,
+        "word": "婚内婚外",
+        "onboard_time": 1733488820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213965,
+        "num": 241724,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138907,
+        "num": 241641,
+        "word": "孙颖莎王艺迪vs笹尾明日香赤江夏星",
+        "onboard_time": 1733487860,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241622,
+        "num": 241622,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223107,
+        "num": 223107,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219504,
+        "num": 219504,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "莎头组合vs川上流星面手凛",
+        "onboard_time": 1733481682,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89473,
+        "num": 202291,
+        "word": "林诗栋2比1日本队",
+        "onboard_time": 1733487799,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202244,
+        "num": 202244,
+        "word": "赵丽颖盘发闪钻流苏西装裙",
+        "onboard_time": 1733488760,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 184160,
+        "num": 184160,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45898,
+        "num": 182274,
+        "word": "成毅11月微博演员全站讨论量破2亿",
+        "onboard_time": 1733488879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181573,
+        "num": 181573,
+        "word": "周巡说给关宏峰的最后一句话",
+        "onboard_time": 1733486659,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175883,
+        "num": 175883,
+        "word": "窦骁何超莲撒狗粮现场",
+        "onboard_time": 1733480659,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135555,
+        "num": 172015,
+        "word": "花费几万元的南极之旅却没到南极",
+        "onboard_time": 1733487079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170445,
+        "num": 170445,
+        "word": "课间延长到15分钟学生在干啥",
+        "onboard_time": 1733477779,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 167341,
+        "num": 167341,
+        "word": "大冰含金量还在上升",
+        "onboard_time": 1733483419,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167203,
+        "num": 167203,
+        "word": "许多加沙儿童无麻醉被截肢",
+        "onboard_time": 1733481919,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165281,
+        "num": 165281,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 160119,
+        "num": 160119,
+        "word": "王楚钦孙颖莎11比3川上流星面手凛",
+        "onboard_time": 1733486060,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151082,
+        "num": 151082,
+        "word": "何瑞贤短发好帅",
+        "onboard_time": 1733486659,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149068,
+        "num": 149068,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设一支强大的现代化信息支援部队#"
+    }
+  }
+}
