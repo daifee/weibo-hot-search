@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733454348643,
+  "endTime": 1733454918552,
   "band_list": [
     {
       "raw_hot": 2720304,
@@ -75,6 +75,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 864856,
+      "num": 864856,
+      "word": "特朗普提名下任驻华大使",
+      "onboard_time": 1733452758,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 838495,
+      "num": 838495,
+      "word": "叙利亚首都仅剩最后一道重要防线",
+      "onboard_time": 1733452039,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 816988,
       "num": 816988,
       "word": "挖呀挖黄老师疑开豪车引热议",
@@ -99,14 +115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 621106,
-      "num": 621106,
-      "word": "特朗普提名下任驻华大使",
-      "onboard_time": 1733452758,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 609033,
       "num": 128167,
       "word": "朴彩英自曝恋爱",
@@ -121,14 +129,6 @@
       "onboard_time": 1733452157,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 608351,
-      "num": 608351,
-      "word": "叙利亚首都仅剩最后一道重要防线",
-      "onboard_time": 1733452039,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 562215,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479294,
+      "num": 479294,
+      "word": "韩媒关注中国春节申遗成功",
+      "onboard_time": 1733454078,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 455216,
       "num": 329303,
       "word": "虞书欣 为了爱我的你们我也会加油的",
@@ -187,7 +195,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448699,
+      "raw_hot": 450601,
       "num": 307506,
       "word": "三十年前的羽绒服比我穿的潮",
       "onboard_time": 1733450959,
@@ -227,6 +235,22 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 377637,
+      "num": 507919,
+      "word": "公司回应撞脸蔚来logo被判赔30万",
+      "onboard_time": 1733449519,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374754,
+      "num": 374754,
+      "word": "大爷遇电信诈骗反赚骗子5万元",
+      "onboard_time": 1733451199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 373760,
       "num": 373760,
       "word": "莎头",
@@ -243,14 +267,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 353351,
-      "num": 507919,
-      "word": "公司回应撞脸蔚来logo被判赔30万",
-      "onboard_time": 1733449519,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 340176,
       "num": 340176,
       "word": "韩国警方调查韩国总统涉内乱罪",
@@ -265,14 +281,6 @@
       "onboard_time": 1733453719,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 317008,
-      "num": 317008,
-      "word": "大爷遇电信诈骗反赚骗子5万元",
-      "onboard_time": 1733451199,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306805,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213454,
+      "num": 213454,
+      "word": "国家烟草专卖局原副局长徐㼆被逮捕",
+      "onboard_time": 1733453298,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211835,
       "num": 211835,
       "word": "糖小幽为Doinb鸣不平",
@@ -419,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201683,
-      "num": 201683,
-      "word": "韩媒关注中国春节申遗成功",
-      "onboard_time": 1733454078,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 198913,
       "num": 1013890,
       "word": "网红祁天道被拘账号被封禁",
@@ -443,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187137,
-      "num": 187137,
-      "word": "国家烟草专卖局原副局长徐㼆被逮捕",
-      "onboard_time": 1733453298,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 193120,
+      "num": 193120,
+      "word": "四六级准考证",
+      "onboard_time": 1733453960,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 185599,
+      "num": 185599,
+      "word": "消费降级用螺蛳粉做了四菜一汤",
+      "onboard_time": 1733451979,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 185504,
@@ -465,6 +481,22 @@
       "onboard_time": 1733442497,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181904,
+      "num": 193030,
+      "word": "肖战递耳机",
+      "onboard_time": 1733454617,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 181007,
+      "num": 192552,
+      "word": "双轨导演",
+      "onboard_time": 1733454617,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 176376,
@@ -513,14 +545,6 @@
       "onboard_time": 1733439555,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164989,
-      "num": 164989,
-      "word": "四六级准考证",
-      "onboard_time": 1733453960,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 162460,
@@ -579,20 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153567,
-      "num": 153567,
-      "word": "消费降级用螺蛳粉做了四菜一汤",
-      "onboard_time": 1733451979,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151623,
       "num": 151623,
       "word": "警惕境外间谍诱导未成年人窃密",
       "onboard_time": 1733452819,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "徐艺洋追星成功",
+      "onboard_time": 1733454799,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145976,
@@ -624,6 +648,14 @@
       "word": "卢昱晓预制朋友圈",
       "onboard_time": 1733442798,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "时代少年团雪的约定",
+      "onboard_time": 1733454501,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1067,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55950,
+      "num": 315798,
+      "word": "沪指重新站上3400点",
+      "onboard_time": 1733453660,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 52406,
       "num": 52406,
       "word": "麦子阿姨纪录片",
@@ -1099,14 +1139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 44832,
-      "num": 315798,
-      "word": "沪指重新站上3400点",
-      "onboard_time": 1733453660,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 38934,
       "num": 628688,
       "word": "文化中国行感受春节年俗",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1733411540,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36226,
+      "num": 148581,
+      "word": "华为MateX6再现抢购热潮",
+      "onboard_time": 1733454558,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 35684,
@@ -1164,7 +1204,7 @@
     },
     {
       "raw_hot": 31835,
-      "num": 314175,
+      "num": 379436,
       "word": "华为MateX6强得飞起",
       "onboard_time": 1733450598,
       "rank": 36,
@@ -1267,7 +1307,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12100,
+      "raw_hot": 12118,
       "num": 309446,
       "word": "A股",
       "onboard_time": 1733367621,
