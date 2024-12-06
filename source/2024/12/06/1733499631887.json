@@ -1,0 +1,410 @@
+{
+  "runTime": 1733499631887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182570,
+        "num": 1189211,
+        "word": "李行亮承诺离婚后不会怀恨在心",
+        "onboard_time": 1733495301,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1087396,
+        "num": 1087396,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32561,
+        "num": 941270,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 863641,
+        "num": 863641,
+        "word": "陈丽云被查",
+        "onboard_time": 1733497040,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450723,
+        "num": 450723,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419484,
+        "num": 419484,
+        "word": "尹锡悦的政治生涯或只剩不到一天",
+        "onboard_time": 1733493020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 555816,
+        "num": 418660,
+        "word": "白敬亭 他拍的",
+        "onboard_time": 1733494699,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410624,
+        "num": 410624,
+        "word": "武汉理工给太瘦学生充400元饭卡",
+        "onboard_time": 1733493620,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388280,
+        "num": 388280,
+        "word": "双轨",
+        "onboard_time": 1733498359,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263993,
+        "num": 263993,
+        "word": "男子连喝8包板蓝根被送医抢救",
+        "onboard_time": 1733497642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364853,
+        "num": 263245,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347980,
+        "num": 262537,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301378,
+        "num": 260629,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 12,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 292644,
+        "num": 258882,
+        "word": "韩安冉韩亿合照",
+        "onboard_time": 1733498778,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258734,
+        "num": 258734,
+        "word": "韩国选手回应看莎头训练被惊讶到了",
+        "onboard_time": 1733494100,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285422,
+        "num": 255589,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241810,
+        "num": 241810,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 228802,
+        "num": 228802,
+        "word": "绿地",
+        "onboard_time": 1733495960,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7467,
+        "num": 228325,
+        "word": "喜综史上第一个满分作品",
+        "onboard_time": 1733499440,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28499,
+        "num": 222607,
+        "word": "男子机票改签一度要补万元差价",
+        "onboard_time": 1733499559,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91352,
+        "num": 219071,
+        "word": "将猪肉充当牛肉卖泰来椰总部被举报",
+        "onboard_time": 1733497700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620027,
+        "num": 209582,
+        "word": "怀孕32周女子被丈夫踢肚警方已介入",
+        "onboard_time": 1733496260,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266338,
+        "num": 207338,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246880,
+        "num": 203989,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46273,
+        "num": 198306,
+        "word": "莎头配合好丝滑",
+        "onboard_time": 1733495840,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140894,
+        "num": 190737,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190135,
+        "num": 190135,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733496801,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83896,
+        "num": 187371,
+        "word": "外界多认为尹锡悦弹劾通过已无大悬念",
+        "onboard_time": 1733496020,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17331,
+        "num": 184167,
+        "word": "于正 恩怨缠绕着不肯放",
+        "onboard_time": 1733498660,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37190,
+        "num": 180884,
+        "word": "加拿大从民间收缴枪支捐给乌克兰",
+        "onboard_time": 1733498542,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51748,
+        "num": 178863,
+        "word": "潘粤明穿帮镜头收割机",
+        "onboard_time": 1733497700,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203324,
+        "num": 172825,
+        "word": "贾玲为67岁冯巩庆生",
+        "onboard_time": 1733499081,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172024,
+        "num": 172024,
+        "word": "黄冠亨回应热搜",
+        "onboard_time": 1733493081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152698,
+        "num": 152698,
+        "word": "朴彩英梦女",
+        "onboard_time": 1733490441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151649,
+        "num": 151649,
+        "word": "周笔畅 人在尴尬的时候会假装很忙",
+        "onboard_time": 1733498600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149401,
+        "num": 149401,
+        "word": "肖战黑西装深V真空",
+        "onboard_time": 1733494762,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127837,
+        "num": 127837,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126526,
+        "num": 126526,
+        "word": "李昀锐淡颜帅",
+        "onboard_time": 1733492541,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121947,
+        "num": 121947,
+        "word": "徐州一学校宿舍厕所装防欺凌报警器",
+        "onboard_time": 1733493861,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138828,
+        "num": 121701,
+        "word": "周笔畅回应戴墨鏡拿奖",
+        "onboard_time": 1733498179,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116307,
+        "num": 116307,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114376,
+        "num": 114376,
+        "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+        "onboard_time": 1733490199,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110183,
+        "num": 110183,
+        "word": "排队13小时仅为抢一台手机",
+        "onboard_time": 1733499199,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105318,
+        "num": 105318,
+        "word": "周鸿祎感谢马化腾上线单删好友功能",
+        "onboard_time": 1733494880,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "虞书欣出发尖叫之夜机场路透",
+        "onboard_time": 1733490681,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 98524,
+        "num": 98524,
+        "word": "复习太早考研后期会疲惫",
+        "onboard_time": 1733494519,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96851,
+        "num": 96851,
+        "word": "孙颖莎控球好稳",
+        "onboard_time": 1733492722,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96071,
+        "num": 96071,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95901,
+        "num": 95901,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95016,
+        "num": 95016,
+        "word": "王楚钦说一上来战术打得很顺利",
+        "onboard_time": 1733496381,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}
