@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733502527799,
+  "endTime": 1733503543428,
   "band_list": [
     {
       "raw_hot": 1542594,
@@ -9,6 +9,14 @@
       "onboard_time": 1733500519,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841152,
+      "num": 841152,
+      "word": "双轨剧组开除泄密工作人员",
+      "onboard_time": 1733501180,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 770758,
@@ -51,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526410,
+      "num": 526410,
+      "word": "哥伦比亚回应2万具机库尸体事件",
+      "onboard_time": 1733500039,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 491912,
       "num": 491912,
       "word": "陈丽云被查",
@@ -59,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411720,
-      "num": 411720,
-      "word": "哥伦比亚回应2万具机库尸体事件",
-      "onboard_time": 1733500039,
-      "rank": 8,
-      "category": "海外新闻"
+      "raw_hot": 424723,
+      "num": 424723,
+      "word": "喜综史上第一个满分作品",
+      "onboard_time": 1733499440,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 357843,
@@ -83,14 +99,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355006,
-      "num": 355006,
-      "word": "双轨剧组开除泄密工作人员",
-      "onboard_time": 1733501180,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304455,
       "num": 304455,
       "word": "尹锡悦的政治生涯或只剩不到一天",
@@ -99,16 +107,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 299393,
-      "num": 299393,
-      "word": "喜综史上第一个满分作品",
-      "onboard_time": 1733499440,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 297550,
-      "num": 146322,
+      "num": 263111,
       "word": "小林是李昀锐的红包",
       "onboard_time": 1733499919,
       "rank": 21,
@@ -219,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120767,
+      "num": 120767,
+      "word": "上海月租3000房子的楼梯",
+      "onboard_time": 1733501059,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114759,
       "num": 114759,
       "word": "交警再回应服务区休息被开罚单",
       "onboard_time": 1733490441,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110049,
+      "num": 109605,
+      "word": "白夜破晓 指纹",
+      "onboard_time": 1733486777,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 109889,
@@ -243,22 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109605,
-      "num": 109605,
-      "word": "白夜破晓 指纹",
-      "onboard_time": 1733486777,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 106182,
-      "num": 110371,
-      "word": "上海月租3000房子的楼梯",
-      "onboard_time": 1733501059,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95880,
       "num": 95880,
       "word": "孙颖莎说都还不错",
@@ -267,7 +267,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94127,
+      "raw_hot": 94435,
       "num": 94127,
       "word": "于正 恩怨缠绕着不肯放",
       "onboard_time": 1733498660,
@@ -307,8 +307,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77624,
-      "num": 77624,
+      "raw_hot": 82769,
+      "num": 82769,
+      "word": "男子机票改签一度要补万元差价",
+      "onboard_time": 1733499559,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79982,
+      "num": 79982,
       "word": "哥伦比亚",
       "onboard_time": 1733479519,
       "rank": 43,
@@ -321,6 +329,14 @@
       "onboard_time": 1733499678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74636,
+      "num": 77434,
+      "word": "韩国",
+      "onboard_time": 1733488219,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72155,
@@ -347,22 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67071,
-      "num": 77434,
-      "word": "韩国",
-      "onboard_time": 1733488219,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 60808,
-      "num": 77424,
-      "word": "男子机票改签一度要补万元差价",
-      "onboard_time": 1733499559,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42052,
       "num": 144981,
       "word": "郑云龙喻恩泰花式造句",
@@ -372,11 +372,43 @@
     },
     {
       "raw_hot": 29349,
-      "num": 583268,
+      "num": 719542,
       "word": "古人也会互赠日历表达祝福",
       "onboard_time": 1733491638,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23008,
+      "num": 131820,
+      "word": "王源新片动作戏爆破戏没用替身",
+      "onboard_time": 1733503277,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22910,
+      "num": 148308,
+      "word": "林允四个季度拍了四个题材",
+      "onboard_time": 1733502378,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21999,
+      "num": 143351,
+      "word": "世界之外西幻",
+      "onboard_time": 1733502137,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 20432,
+      "num": 359619,
+      "word": "福宝咔哧咔哧干饭太香了",
+      "onboard_time": 1733503217,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14138,
@@ -387,18 +419,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11616,
-      "num": 143351,
-      "word": "世界之外西幻",
-      "onboard_time": 1733502137,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 9747,
-      "num": 148308,
-      "word": "林允四个季度拍了四个题材",
-      "onboard_time": 1733502378,
+      "raw_hot": 12289,
+      "num": 129766,
+      "word": "杨和苏直播大漏勺",
+      "onboard_time": 1733503397,
       "rank": 19,
       "category": "艺人"
     }
