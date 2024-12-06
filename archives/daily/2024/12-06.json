@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733477152796,
+  "endTime": 1733477982727,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 966752,
+      "num": 749005,
+      "word": "被虐致死女童曾两天不吃不睡",
+      "onboard_time": 1733472379,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 961072,
       "num": 961072,
       "word": "哥伦比亚",
@@ -168,14 +176,6 @@
       "word": "疑照片被曝光女孩屡次放火骚扰邻居",
       "onboard_time": 1733469678,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 889614,
-      "num": 749005,
-      "word": "被虐致死女童曾两天不吃不睡",
-      "onboard_time": 1733472379,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 776396,
+      "num": 420821,
+      "word": "字节8位数年薪挖走阿里大模型人才",
+      "onboard_time": 1733473461,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 691571,
       "num": 390054,
       "word": "世界上怀孕时间最长的动物排行",
@@ -265,14 +273,6 @@
       "onboard_time": 1733446639,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 633920,
-      "num": 420821,
-      "word": "字节8位数年薪挖走阿里大模型人才",
-      "onboard_time": 1733473461,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 627200,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380498,
+      "num": 348917,
+      "word": "向佐穿女装带货首场卖出5千万",
+      "onboard_time": 1733472139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377637,
       "num": 507919,
       "word": "公司回应撞脸蔚来logo被判赔30万",
@@ -577,14 +585,6 @@
       "onboard_time": 1733447958,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371471,
-      "num": 327135,
-      "word": "向佐穿女装带货首场卖出5千万",
-      "onboard_time": 1733472139,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 367723,
@@ -651,6 +651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 311570,
+      "num": 311570,
+      "word": "白夜追凶给了七年一个结局",
+      "onboard_time": 1733476220,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306805,
       "num": 306805,
       "word": "新大鹿合体",
@@ -689,6 +697,14 @@
       "onboard_time": 1733452398,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 286838,
+      "num": 377839,
+      "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+      "onboard_time": 1733476999,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284207,
@@ -795,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234920,
+      "num": 343784,
+      "word": "明星出发尖叫之夜",
+      "onboard_time": 1733473940,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234326,
       "num": 234326,
       "word": "尹锡悦暂时不会前往国会",
@@ -843,6 +867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 219488,
+      "num": 338459,
+      "word": "国乒今晚迎战日本队",
+      "onboard_time": 1733476702,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216754,
       "num": 427819,
       "word": "人人网到底收藏了多少明星黑历史",
@@ -857,6 +889,14 @@
       "onboard_time": 1733463858,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213794,
+      "num": 319954,
+      "word": "中山美穗昨天发文称心情低落",
+      "onboard_time": 1733476339,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 213454,
@@ -979,12 +1019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199659,
-      "num": 343784,
-      "word": "明星出发尖叫之夜",
-      "onboard_time": 1733473940,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 199896,
+      "num": 208951,
+      "word": "你好吗 我很好",
+      "onboard_time": 1733475261,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 198913,
@@ -995,20 +1035,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 197077,
+      "num": 423831,
+      "word": "世间再无藤井树小姐",
+      "onboard_time": 1733473159,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196960,
       "num": 196960,
       "word": "易烊千玺灵蛇外套",
       "onboard_time": 1733459961,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196424,
-      "num": 196424,
-      "word": "白夜追凶给了七年一个结局",
-      "onboard_time": 1733476220,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 196352,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1733466259,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191721,
+      "num": 274006,
+      "word": "光遇",
+      "onboard_time": 1733477480,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 191678,
@@ -1169,22 +1217,6 @@
       "onboard_time": 1733460800,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180677,
-      "num": 423831,
-      "word": "世间再无藤井树小姐",
-      "onboard_time": 1733473159,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 180453,
-      "num": 208951,
-      "word": "你好吗 我很好",
-      "onboard_time": 1733475261,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 180310,
@@ -1467,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149824,
-      "num": 149824,
-      "word": "160斤小伙因胖被分手怒减30斤变帅哥",
-      "onboard_time": 1733476999,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145976,
       "num": 145976,
       "word": "花少6总导演道歉",
@@ -1595,12 +1619,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 132144,
-      "num": 338459,
-      "word": "国乒今晚迎战日本队",
-      "onboard_time": 1733476702,
-      "rank": 17,
-      "category": "体育"
+      "raw_hot": 132456,
+      "num": 132456,
+      "word": "蘑菇头周洁琼",
+      "onboard_time": 1733477360,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 131663,
@@ -1923,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92103,
+      "num": 333158,
+      "word": "NewJeans 谁也分不开我们",
+      "onboard_time": 1733476940,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91384,
       "num": 377696,
       "word": "哥伦比亚超12万人因武装冲突失踪",
@@ -2155,14 +2187,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 64256,
-      "num": 333158,
-      "word": "NewJeans 谁也分不开我们",
-      "onboard_time": 1733476940,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1733459781,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60780,
-      "num": 319954,
-      "word": "中山美穗昨天发文称心情低落",
-      "onboard_time": 1733476339,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 59851,
@@ -2235,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56682,
+      "num": 316310,
+      "word": "房贷利率创新低提前还贷还划算吗",
+      "onboard_time": 1733477179,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56643,
       "num": 313130,
       "word": "今晚看国乒对战日本",
@@ -2264,6 +2288,14 @@
       "word": "麦子阿姨纪录片",
       "onboard_time": 1733419334,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51613,
+      "num": 334529,
+      "word": "官方回应一公司被举报疑用发霉西梅",
+      "onboard_time": 1733476158,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2344,14 +2376,6 @@
       "word": "律师解读一烤炉通风孔撞脸蔚来logo",
       "onboard_time": 1733468598,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42931,
-      "num": 334529,
-      "word": "官方回应一公司被举报疑用发霉西梅",
-      "onboard_time": 1733476158,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2491,6 +2515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30067,
+      "num": 236585,
+      "word": "张译亮相海南岛电影节",
+      "onboard_time": 1733476400,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29688,
       "num": 216584,
       "word": "vivoS20有自己的金色美学",
@@ -2515,20 +2547,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 25041,
+      "num": 146710,
+      "word": "FILA如何引领复古运动文化回潮",
+      "onboard_time": 1733477899,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24260,
       "num": 405865,
       "word": "我是刑警既朴实无华也与时俱进",
       "onboard_time": 1733459482,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24185,
-      "num": 236585,
-      "word": "张译亮相海南岛电影节",
-      "onboard_time": 1733476400,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 23839,
@@ -2593,6 +2625,14 @@
       "onboard_time": 1733419933,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18425,
+      "num": 132175,
+      "word": "打卡香奈儿宣传片里的杭州风景",
+      "onboard_time": 1733477899,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 17203,
