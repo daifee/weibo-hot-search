@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733494941362,
+  "endTime": 1733496128485,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784454,
+      "num": 784454,
+      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+      "onboard_time": 1733490681,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783314,
       "num": 783314,
       "word": "毕业后才懂英语四六级有多重要",
@@ -329,6 +337,14 @@
       "onboard_time": 1733477779,
       "rank": 3,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 711573,
+      "num": 711573,
+      "word": "尹锡悦的政治生涯或只剩不到一天",
+      "onboard_time": 1733493020,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 691571,
@@ -376,14 +392,6 @@
       "word": "彩虹夫妇决定结扎",
       "onboard_time": 1733446639,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 637119,
-      "num": 637119,
-      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
-      "onboard_time": 1733490681,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -651,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 452628,
-      "num": 452628,
-      "word": "尹锡悦的政治生涯或只剩不到一天",
-      "onboard_time": 1733493020,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 450601,
       "num": 307506,
       "word": "三十年前的羽绒服比我穿的潮",
@@ -667,12 +667,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 450101,
+      "num": 181011,
+      "word": "白敬亭 他拍的",
+      "onboard_time": 1733494699,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447626,
       "num": 447626,
       "word": "叙利亚政府军失去对哈马控制",
       "onboard_time": 1733439555,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 443600,
+      "num": 416335,
+      "word": "李行亮承诺离婚后不会怀恨在心",
+      "onboard_time": 1733495301,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 438381,
@@ -713,6 +729,14 @@
       "onboard_time": 1733482400,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416815,
+      "num": 416815,
+      "word": "武汉理工给太瘦学生充400元饭卡",
+      "onboard_time": 1733493620,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416120,
@@ -851,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346752,
+      "num": 325449,
+      "word": "黄冠亨回应热搜",
+      "onboard_time": 1733493081,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342845,
       "num": 382984,
       "word": "李行亮说杨子很不真诚",
@@ -897,14 +929,6 @@
       "onboard_time": 1733483480,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 325449,
-      "num": 325449,
-      "word": "黄冠亨回应热搜",
-      "onboard_time": 1733493081,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 322406,
@@ -1001,6 +1025,14 @@
       "onboard_time": 1733460141,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277274,
+      "num": 277274,
+      "word": "孙颖莎控球好稳",
+      "onboard_time": 1733492722,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 274119,
@@ -1211,12 +1243,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 221486,
-      "num": 221486,
-      "word": "孙颖莎控球好稳",
-      "onboard_time": 1733492722,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 222552,
+      "num": 193639,
+      "word": "肖战黑西装深V真空",
+      "onboard_time": 1733494762,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218035,
@@ -1240,14 +1272,6 @@
       "word": "骗子公司跑路员工落下身份证",
       "onboard_time": 1733463858,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214778,
-      "num": 214778,
-      "word": "武汉理工给太瘦学生充400元饭卡",
-      "onboard_time": 1733493620,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1515,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193639,
-      "num": 193639,
-      "word": "肖战黑西装深V真空",
-      "onboard_time": 1733494762,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 193120,
       "num": 193120,
       "word": "四六级准考证",
@@ -1699,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181011,
-      "num": 181011,
-      "word": "白敬亭 他拍的",
-      "onboard_time": 1733494699,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180939,
       "num": 180939,
       "word": "指纹前女友",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1733460800,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 180830,
+      "num": 180830,
+      "word": "韩国选手回应看莎头训练被惊讶到了",
+      "onboard_time": 1733494100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 180502,
@@ -1993,14 +2009,6 @@
       "onboard_time": 1733460920,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 160160,
-      "num": 160160,
-      "word": "韩国选手回应看莎头训练被惊讶到了",
-      "onboard_time": 1733494100,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 160119,
@@ -2363,6 +2371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130941,
+      "num": 447884,
+      "word": "徐州一学校宿舍厕所装防欺凌报警器",
+      "onboard_time": 1733493861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130917,
       "num": 130917,
       "word": "在叙中国公民尽快回国或离境",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1733450779,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121231,
+      "num": 121231,
+      "word": "周鸿祎感谢马化腾上线单删好友功能",
+      "onboard_time": 1733494880,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 120810,
@@ -2531,12 +2555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112748,
-      "num": 112748,
-      "word": "周鸿祎感谢马化腾上线单删好友功能",
-      "onboard_time": 1733494880,
-      "rank": 49,
-      "category": "互联网"
+      "raw_hot": 114002,
+      "num": 114002,
+      "word": "莎头配合好丝滑",
+      "onboard_time": 1733495840,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 112016,
@@ -2723,6 +2747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91704,
+      "num": 91704,
+      "word": "绿地",
+      "onboard_time": 1733495960,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91384,
       "num": 377696,
       "word": "哥伦比亚超12万人因武装冲突失踪",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1733456179,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90302,
+      "num": 144570,
+      "word": "外界多认为尹锡悦弹劾通过已无大悬念",
+      "onboard_time": 1733496020,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90270,
@@ -2955,14 +2995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 68124,
-      "num": 447884,
-      "word": "徐州一学校宿舍厕所装防欺凌报警器",
-      "onboard_time": 1733493861,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67926,
       "num": 338465,
       "word": "王亚飞给周也化的冬日暖调妆",
@@ -3155,6 +3187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53415,
+      "num": 194434,
+      "word": "吉利银河星舰7上市9.98万元起",
+      "onboard_time": 1733492120,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53019,
       "num": 187018,
       "word": "无限暖暖流水",
@@ -3291,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43443,
+      "num": 327126,
+      "word": "谁懂大湾仔合唱无间道的含金量",
+      "onboard_time": 1733494401,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43163,
       "num": 223069,
       "word": "王赫野的卡祖笛全是东北味",
@@ -3305,6 +3353,14 @@
       "onboard_time": 1733471779,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 42404,
+      "num": 326087,
+      "word": "那些热泪盈眶的道别",
+      "onboard_time": 1733493620,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 40919,
@@ -3347,14 +3403,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 38624,
-      "num": 194434,
-      "word": "吉利银河星舰7上市9.98万元起",
-      "onboard_time": 1733492120,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 36907,
       "num": 36907,
       "word": "张晚意新歌万分之一",
@@ -3379,7 +3427,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 36166,
+      "raw_hot": 36217,
       "num": 1390769,
       "word": "古人也会互赠日历表达祝福",
       "onboard_time": 1733491638,
@@ -3531,14 +3579,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 25561,
-      "num": 326087,
-      "word": "那些热泪盈眶的道别",
-      "onboard_time": 1733493620,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24260,
       "num": 405865,
       "word": "我是刑警既朴实无华也与时俱进",
@@ -3555,12 +3595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23383,
+      "num": 128119,
+      "word": "罗琦回应被指侵权",
+      "onboard_time": 1733494581,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23197,
       "num": 30756,
       "word": "姑娘把中国剪纸穿到了米兰街头",
       "onboard_time": 1733425571,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22914,
+      "num": 145606,
+      "word": "周也的野生厨房",
+      "onboard_time": 1733492301,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 22135,
@@ -3635,14 +3691,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 19138,
-      "num": 327126,
-      "word": "谁懂大湾仔合唱无间道的含金量",
-      "onboard_time": 1733494401,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19016,
       "num": 103175,
       "word": "春节是中华文化最重要的传统节日",
@@ -3665,6 +3713,14 @@
       "onboard_time": 1733400859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16571,
+      "num": 180609,
+      "word": "我是刑警 0.02秒步差锁定嫌疑人",
+      "onboard_time": 1733495421,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 16549,
