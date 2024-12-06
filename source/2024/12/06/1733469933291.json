@@ -1,0 +1,410 @@
+{
+  "runTime": 1733469933291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2645457,
+        "num": 2645457,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1042781,
+        "num": 1042781,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50014,
+        "num": 987002,
+        "word": "文化中国行看ChinaTravel有多火",
+        "onboard_time": 1733446879,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1262944,
+        "num": 982702,
+        "word": "情书女主中山美穗去世",
+        "onboard_time": 1733466379,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 960046,
+        "num": 960046,
+        "word": "正豪大大鸡排关闭中国大陆所有门店",
+        "onboard_time": 1733467520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566677,
+        "num": 566677,
+        "word": "韩媒说中国春节已延续数千年",
+        "onboard_time": 1733455759,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 828971,
+        "num": 566635,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786628,
+        "num": 566559,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566209,
+        "num": 566209,
+        "word": "妈妈按天给大学生女儿发50元生活费",
+        "onboard_time": 1733465599,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100819,
+        "num": 549824,
+        "word": "韩国会议长称将尽全力守护国会",
+        "onboard_time": 1733468541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 706870,
+        "num": 548738,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544080,
+        "num": 544080,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 661714,
+        "num": 528539,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482675,
+        "num": 482675,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1733465899,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108629,
+        "num": 423300,
+        "word": "男子拍下1元起拍海景房称看不到海",
+        "onboard_time": 1733468721,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401952,
+        "num": 401952,
+        "word": "官方通报货车司机遇检跳桥身亡",
+        "onboard_time": 1733468060,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383073,
+        "num": 383073,
+        "word": "杜小华已前往无锡采血认亲",
+        "onboard_time": 1733463259,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120001,
+        "num": 382984,
+        "word": "李行亮说杨子很不真诚",
+        "onboard_time": 1733469440,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328749,
+        "num": 380976,
+        "word": "迪丽热巴好像装了躲避雷达",
+        "onboard_time": 1733468901,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44856,
+        "num": 378726,
+        "word": "律师解读一烤炉通风孔撞脸蔚来logo",
+        "onboard_time": 1733468598,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568811,
+        "num": 377184,
+        "word": "icon怒喷麦琳",
+        "onboard_time": 1733463561,
+        "rank": 20,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 463784,
+        "num": 374759,
+        "word": "朴彩英吻戏",
+        "onboard_time": 1733468180,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 397089,
+        "num": 372381,
+        "word": "杨和苏 离谱",
+        "onboard_time": 1733468479,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371439,
+        "num": 371439,
+        "word": "杨子哭了",
+        "onboard_time": 1733464578,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50662,
+        "num": 349646,
+        "word": "九尾厨艺出师了",
+        "onboard_time": 1733469260,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 347561,
+        "num": 347561,
+        "word": "太缺女导演 太缺女主角故事",
+        "onboard_time": 1733465058,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234326,
+        "num": 234326,
+        "word": "尹锡悦暂时不会前往国会",
+        "onboard_time": 1733468662,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232559,
+        "num": 232559,
+        "word": "藤井树",
+        "onboard_time": 1733468240,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214965,
+        "num": 214965,
+        "word": "骗子公司跑路员工落下身份证",
+        "onboard_time": 1733463858,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32151,
+        "num": 210913,
+        "word": "韩国议长呼吁尹锡悦勿访国会",
+        "onboard_time": 1733468960,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210835,
+        "num": 210835,
+        "word": "关宏峰以关宏宇的身份下线",
+        "onboard_time": 1733460260,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206090,
+        "num": 206090,
+        "word": "丁禹兮追着给虞书欣打伞",
+        "onboard_time": 1733468598,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203921,
+        "num": 203921,
+        "word": "爱奇艺腾讯视频平番",
+        "onboard_time": 1733467999,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174144,
+        "num": 174144,
+        "word": "情书",
+        "onboard_time": 1733466618,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171047,
+        "num": 171047,
+        "word": "尹锡悦宣布戒严影响一波又一波",
+        "onboard_time": 1733458880,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170867,
+        "num": 170867,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 166738,
+        "num": 166738,
+        "word": "女主播被禁后写道举报我的替我挡灾",
+        "onboard_time": 1733454980,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20034,
+        "num": 161693,
+        "word": "郑钦文入围2024社媒最受关注运动员",
+        "onboard_time": 1733466439,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9873,
+        "num": 161431,
+        "word": "香奈儿大秀里的盘扣元素",
+        "onboard_time": 1733468359,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161342,
+        "num": 161342,
+        "word": "秋冬无意识变瘦的行为",
+        "onboard_time": 1733466800,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158562,
+        "num": 158562,
+        "word": "叙利亚首都仅剩最后一道重要防线",
+        "onboard_time": 1733452039,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154681,
+        "num": 154681,
+        "word": "韩国国会被管制禁止出入",
+        "onboard_time": 1733465659,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "中介用租房优惠价骗走600多万",
+        "onboard_time": 1733468780,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148956,
+        "num": 148956,
+        "word": "光遇维护",
+        "onboard_time": 1733453719,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146283,
+        "num": 146283,
+        "word": "疑照片被曝光女孩屡次放火骚扰邻居",
+        "onboard_time": 1733469678,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142892,
+        "num": 142892,
+        "word": "为什么咖啡店的桌子都这么矮",
+        "onboard_time": 1733466199,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140841,
+        "num": 140841,
+        "word": "虐童致死案一审生父无期女友死刑",
+        "onboard_time": 1733465481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140361,
+        "num": 140361,
+        "word": "朴彩英手写中文上上签",
+        "onboard_time": 1733466259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131312,
+        "num": 131312,
+        "word": "邓超 谁还没有偶像包袱了",
+        "onboard_time": 1733464700,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126624,
+        "num": 126624,
+        "word": "警方正调查中山美穗死因",
+        "onboard_time": 1733468300,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动我军网络信息体系建设跨越发展#"
+    }
+  }
+}
