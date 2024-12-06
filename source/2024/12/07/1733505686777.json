@@ -1,0 +1,410 @@
+{
+  "runTime": 1733505686777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021461,
+        "num": 1021461,
+        "word": "江西9胞胎女子开始考虑追责",
+        "onboard_time": 1733500519,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746904,
+        "num": 746904,
+        "word": "双轨剧组开除泄密工作人员",
+        "onboard_time": 1733501180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21407,
+        "num": 572338,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 517013,
+        "num": 517013,
+        "word": "哥伦比亚回应2万具机库尸体事件",
+        "onboard_time": 1733500039,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 390285,
+        "num": 390285,
+        "word": "李行亮承诺离婚后不会怀恨在心",
+        "onboard_time": 1733495301,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300826,
+        "num": 300826,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352403,
+        "num": 271034,
+        "word": "喜综史上第一个满分作品",
+        "onboard_time": 1733499440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344775,
+        "num": 248928,
+        "word": "韩安冉韩亿合照",
+        "onboard_time": 1733498778,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179781,
+        "num": 179781,
+        "word": "尹锡悦的政治生涯或只剩不到一天",
+        "onboard_time": 1733493020,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54300,
+        "num": 177608,
+        "word": "闪电引爆炸药致12名越南士兵遇难",
+        "onboard_time": 1733502738,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202000,
+        "num": 177538,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 10,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 177122,
+        "num": 177122,
+        "word": "双轨",
+        "onboard_time": 1733498359,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167038,
+        "num": 167038,
+        "word": "白敬亭 他拍的",
+        "onboard_time": 1733494699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163666,
+        "num": 163666,
+        "word": "男子连喝8包板蓝根被送医抢救",
+        "onboard_time": 1733497642,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157588,
+        "num": 157588,
+        "word": "小林是李昀锐的红包",
+        "onboard_time": 1733499919,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121251,
+        "num": 121251,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100650,
+        "num": 100650,
+        "word": "武汉理工给太瘦学生充400元饭卡",
+        "onboard_time": 1733493620,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87298,
+        "num": 87298,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81378,
+        "num": 81378,
+        "word": "男子机票改签一度要补万元差价",
+        "onboard_time": 1733499559,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29588,
+        "num": 81290,
+        "word": "费沁源退团原因",
+        "onboard_time": 1733504776,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151786,
+        "num": 81281,
+        "word": "贾玲为67岁冯巩庆生",
+        "onboard_time": 1733499081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81224,
+        "num": 81224,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 144140,
+        "num": 81016,
+        "word": "陈丽云被查",
+        "onboard_time": 1733497040,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137595,
+        "num": 80191,
+        "word": "排队13小时仅为抢一台手机",
+        "onboard_time": 1733499199,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13204,
+        "num": 79558,
+        "word": "李书福为世界冠军黄雨婷送祝福",
+        "onboard_time": 1733505015,
+        "rank": 24,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 134192,
+        "num": 78939,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111886,
+        "num": 78581,
+        "word": "上海月租3000房子的楼梯",
+        "onboard_time": 1733501059,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121649,
+        "num": 78100,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95348,
+        "num": 77564,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85211,
+        "num": 76633,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82075,
+        "num": 76066,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75862,
+        "num": 75862,
+        "word": "现在拨打的电话",
+        "onboard_time": 1733496801,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71960,
+        "num": 71960,
+        "word": "朴彩英梦女",
+        "onboard_time": 1733490441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66041,
+        "num": 66041,
+        "word": "孙颖莎说都还不错",
+        "onboard_time": 1733500639,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63772,
+        "num": 63772,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66530,
+        "num": 63487,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62869,
+        "num": 62869,
+        "word": "于正 恩怨缠绕着不肯放",
+        "onboard_time": 1733498660,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60166,
+        "num": 60166,
+        "word": "福宝咔哧咔哧干饭太香了",
+        "onboard_time": 1733503217,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59519,
+        "num": 59519,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59280,
+        "num": 59280,
+        "word": "最好的生活状态在这3句话里",
+        "onboard_time": 1733500400,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55073,
+        "num": 55073,
+        "word": "苏菲玛索回忆参加中国春晚",
+        "onboard_time": 1733504295,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53788,
+        "num": 53788,
+        "word": "绿地",
+        "onboard_time": 1733495960,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50962,
+        "num": 50962,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46021,
+        "num": 50961,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44774,
+        "num": 50961,
+        "word": "黄冠亨回应热搜",
+        "onboard_time": 1733493081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43095,
+        "num": 50961,
+        "word": "汪苏泷演唱会DJ是戚薇",
+        "onboard_time": 1733505015,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41327,
+        "num": 50959,
+        "word": "韩国选手回应看莎头训练被惊讶到了",
+        "onboard_time": 1733494100,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40832,
+        "num": 50959,
+        "word": "虞书欣出发尖叫之夜机场路透",
+        "onboard_time": 1733490681,
+        "rank": 47,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 44364,
+        "num": 50959,
+        "word": "孟子义发红包",
+        "onboard_time": 1733490260,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39825,
+        "num": 50957,
+        "word": "复习太早考研后期会疲惫",
+        "onboard_time": 1733494519,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}
