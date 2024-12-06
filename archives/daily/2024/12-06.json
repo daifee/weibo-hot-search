@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733474695269,
+  "endTime": 1733477152796,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 990952,
+      "num": 990952,
+      "word": "物业发通知禁止住户养宠物否则捕杀",
+      "onboard_time": 1733470519,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 982089,
       "num": 982089,
       "word": "间谍诱骗中学生拍军事设施",
@@ -160,6 +168,14 @@
       "word": "疑照片被曝光女孩屡次放火骚扰邻居",
       "onboard_time": 1733469678,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889614,
+      "num": 749005,
+      "word": "被虐致死女童曾两天不吃不睡",
+      "onboard_time": 1733472379,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -203,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 709473,
-      "num": 709473,
-      "word": "物业发通知禁止住户养宠物否则捕杀",
-      "onboard_time": 1733470519,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 783314,
+      "num": 783314,
+      "word": "毕业后才懂英语四六级有多重要",
+      "onboard_time": 1733472260,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 691571,
@@ -249,6 +265,14 @@
       "onboard_time": 1733446639,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633920,
+      "num": 420821,
+      "word": "字节8位数年薪挖走阿里大模型人才",
+      "onboard_time": 1733473461,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 627200,
@@ -491,14 +515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 410859,
-      "num": 431083,
-      "word": "被虐致死女童曾两天不吃不睡",
-      "onboard_time": 1733472379,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 402036,
       "num": 184541,
       "word": "网红祁天道造成极其恶劣影响",
@@ -563,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371471,
+      "num": 327135,
+      "word": "向佐穿女装带货首场卖出5千万",
+      "onboard_time": 1733472139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367723,
       "num": 367723,
       "word": "双轨导演",
       "onboard_time": 1733454617,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363436,
+      "num": 316256,
+      "word": "医生称超80%直肠癌最初被当痔疮",
+      "onboard_time": 1733475740,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 361392,
@@ -619,14 +651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 311844,
-      "num": 311844,
-      "word": "向佐穿女装带货首场卖出5千万",
-      "onboard_time": 1733472139,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306805,
       "num": 306805,
       "word": "新大鹿合体",
@@ -659,28 +683,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 296111,
-      "num": 296111,
-      "word": "字节8位数年薪挖走阿里大模型人才",
-      "onboard_time": 1733473461,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 288526,
       "num": 288526,
       "word": "原来化妆的尽头是极简",
       "onboard_time": 1733452398,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 286532,
-      "num": 286532,
-      "word": "毕业后才懂英语四六级有多重要",
-      "onboard_time": 1733472260,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 284207,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207125,
+      "num": 207125,
+      "word": "现在拨打的电话本周停播",
+      "onboard_time": 1733476702,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207080,
       "num": 207080,
       "word": "爱奇艺腾讯视频平番",
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 199659,
-      "num": 199659,
+      "num": 343784,
       "word": "明星出发尖叫之夜",
       "onboard_time": 1733473940,
       "rank": 40,
@@ -985,6 +1001,14 @@
       "onboard_time": 1733459961,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196424,
+      "num": 196424,
+      "word": "白夜追凶给了七年一个结局",
+      "onboard_time": 1733476220,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 196352,
@@ -1148,10 +1172,18 @@
     },
     {
       "raw_hot": 180677,
-      "num": 180677,
+      "num": 423831,
       "word": "世间再无藤井树小姐",
       "onboard_time": 1733473159,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180453,
+      "num": 208951,
+      "word": "你好吗 我很好",
+      "onboard_time": 1733475261,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1265,6 +1297,14 @@
       "onboard_time": 1733468419,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168223,
+      "num": 168223,
+      "word": "李梦新角色 婉宁公主升级版",
+      "onboard_time": 1733475859,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 166311,
@@ -1427,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149824,
+      "num": 149824,
+      "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+      "onboard_time": 1733476999,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145976,
       "num": 145976,
       "word": "花少6总导演道歉",
@@ -1547,6 +1595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132144,
+      "num": 338459,
+      "word": "国乒今晚迎战日本队",
+      "onboard_time": 1733476702,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131663,
       "num": 131663,
       "word": "九重紫",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1733446879,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127598,
+      "num": 127598,
+      "word": "白鹿王星越宣传九重紫",
+      "onboard_time": 1733475380,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 127115,
@@ -1859,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91384,
+      "num": 377696,
+      "word": "哥伦比亚超12万人因武装冲突失踪",
+      "onboard_time": 1733476158,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90335,
       "num": 338394,
       "word": "专业消失之后高校老师怎么办",
@@ -2083,6 +2155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64256,
+      "num": 333158,
+      "word": "NewJeans 谁也分不开我们",
+      "onboard_time": 1733476940,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -2097,6 +2177,14 @@
       "onboard_time": 1733459781,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60780,
+      "num": 319954,
+      "word": "中山美穗昨天发文称心情低落",
+      "onboard_time": 1733476339,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 59851,
@@ -2243,11 +2331,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45280,
+      "num": 274411,
+      "word": "DOU5对战成都GG",
+      "onboard_time": 1733476220,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44868,
       "num": 378726,
       "word": "律师解读一烤炉通风孔撞脸蔚来logo",
       "onboard_time": 1733468598,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42931,
+      "num": 334529,
+      "word": "官方回应一公司被举报疑用发霉西梅",
+      "onboard_time": 1733476158,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2419,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24185,
+      "num": 236585,
+      "word": "张译亮相海南岛电影节",
+      "onboard_time": 1733476400,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23839,
       "num": 68760,
       "word": "广州公布26个电子眼抓拍电鸡",
@@ -2561,6 +2673,22 @@
       "onboard_time": 1733430492,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9522,
+      "num": 274943,
+      "word": "范德法特称C罗有些自私",
+      "onboard_time": 1733476822,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8397,
+      "num": 274393,
+      "word": "莎头组合拿下奥运后首胜",
+      "onboard_time": 1733476940,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 7343,
