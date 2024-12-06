@@ -1,0 +1,410 @@
+{
+  "runTime": 1733467662576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2245142,
+        "num": 2245142,
+        "word": "情书女主中山美穗去世",
+        "onboard_time": 1733466379,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1040099,
+        "num": 1040099,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51552,
+        "num": 880880,
+        "word": "文化中国行看ChinaTravel有多火",
+        "onboard_time": 1733446879,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1046457,
+        "num": 880616,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788692,
+        "num": 788692,
+        "word": "杜小华已前往无锡采血认亲",
+        "onboard_time": 1733463259,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762337,
+        "num": 762337,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1021003,
+        "num": 746504,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1012871,
+        "num": 742056,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730022,
+        "num": 730022,
+        "word": "韩媒说中国春节已延续数千年",
+        "onboard_time": 1733455759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312651,
+        "num": 594691,
+        "word": "妈妈按天给大学生女儿发50元生活费",
+        "onboard_time": 1733465599,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806597,
+        "num": 575351,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517279,
+        "num": 517279,
+        "word": "杨子哭了",
+        "onboard_time": 1733464578,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419514,
+        "num": 419514,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1733465899,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338321,
+        "num": 338321,
+        "word": "关宏峰以关宏宇的身份下线",
+        "onboard_time": 1733460260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335443,
+        "num": 335443,
+        "word": "太缺女导演 太缺女主角故事",
+        "onboard_time": 1733465058,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271499,
+        "num": 271499,
+        "word": "女主播被禁后写道举报我的替我挡灾",
+        "onboard_time": 1733454980,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246791,
+        "num": 246791,
+        "word": "叙利亚首都仅剩最后一道重要防线",
+        "onboard_time": 1733452039,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87391,
+        "num": 220946,
+        "word": "再见爱人 谁是卧底",
+        "onboard_time": 1733466981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49667,
+        "num": 204426,
+        "word": "姑娘跟红娘共情付完15800就后悔",
+        "onboard_time": 1733466800,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203352,
+        "num": 203352,
+        "word": "骗子公司跑路员工落下身份证",
+        "onboard_time": 1733463858,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294137,
+        "num": 202687,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836364,
+        "num": 202068,
+        "word": "icon怒喷麦琳",
+        "onboard_time": 1733463561,
+        "rank": 21,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 219387,
+        "num": 202003,
+        "word": "宋仲基首尔发布会状态",
+        "onboard_time": 1733461581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201408,
+        "num": 201408,
+        "word": "白夜破防",
+        "onboard_time": 1733464520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99501,
+        "num": 199134,
+        "word": "库明加33分",
+        "onboard_time": 1733467099,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197395,
+        "num": 197395,
+        "word": "尹锡悦宣布戒严影响一波又一波",
+        "onboard_time": 1733458880,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191984,
+        "num": 191984,
+        "word": "朴彩英手写中文上上签",
+        "onboard_time": 1733466259,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111543,
+        "num": 187492,
+        "word": "指纹编剧",
+        "onboard_time": 1733463141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185464,
+        "num": 185464,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30598,
+        "num": 185463,
+        "word": "郑钦文入围2024社媒最受关注运动员",
+        "onboard_time": 1733466439,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155233,
+        "num": 185247,
+        "word": "韩国国会被管制禁止出入",
+        "onboard_time": 1733465659,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192710,
+        "num": 184982,
+        "word": "情书",
+        "onboard_time": 1733466618,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 184962,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 184800,
+        "num": 184800,
+        "word": "虐童致死案一审生父无期女友死刑",
+        "onboard_time": 1733465481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182827,
+        "num": 182827,
+        "word": "光遇维护",
+        "onboard_time": 1733453719,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176916,
+        "num": 176916,
+        "word": "为什么咖啡店的桌子都这么矮",
+        "onboard_time": 1733466199,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176530,
+        "num": 176530,
+        "word": "黄老板杭州抢票",
+        "onboard_time": 1733467160,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175903,
+        "num": 175903,
+        "word": "指纹前女友",
+        "onboard_time": 1733465240,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "内蒙古3岁女童被虐案一审宣判",
+        "onboard_time": 1733455878,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157301,
+        "num": 157301,
+        "word": "楚乔传2 诸葛玥",
+        "onboard_time": 1733465659,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145717,
+        "num": 145717,
+        "word": "TWICE回归",
+        "onboard_time": 1733462599,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145543,
+        "num": 145543,
+        "word": "NewJeans新立场",
+        "onboard_time": 1733458762,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142256,
+        "num": 142256,
+        "word": "李昀锐领衔主演冰湖重生",
+        "onboard_time": 1733467459,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140285,
+        "num": 140285,
+        "word": "秋冬无意识变瘦的行为",
+        "onboard_time": 1733466800,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137993,
+        "num": 137993,
+        "word": "正豪大大鸡排关闭中国大陆所有门店",
+        "onboard_time": 1733467520,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125154,
+        "num": 125154,
+        "word": "何与双轨",
+        "onboard_time": 1733452157,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123049,
+        "num": 123049,
+        "word": "韩媒关注中国春节申遗成功",
+        "onboard_time": 1733454078,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117665,
+        "num": 117665,
+        "word": "小小的老子哄老老的小子",
+        "onboard_time": 1733460800,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107035,
+        "num": 107035,
+        "word": "北体说肯定不会扣马龙分的",
+        "onboard_time": 1733465838,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106102,
+        "num": 106102,
+        "word": "因醉驾免职村支书被举报扶植儿子继任",
+        "onboard_time": 1733467400,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创我军网络信息体系建设新局面#"
+    }
+  }
+}

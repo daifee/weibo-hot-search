@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733466830925,
+  "endTime": 1733467662576,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -24,6 +24,14 @@
       "word": "黄子韬鹿晗",
       "onboard_time": 1733414479,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2245142,
+      "num": 2245142,
+      "word": "情书女主中山美穗去世",
+      "onboard_time": 1733466379,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1027059,
-      "num": 793760,
+      "raw_hot": 1046457,
+      "num": 880616,
       "word": "花少从9.3到3.9",
       "onboard_time": 1733463919,
       "rank": 6,
@@ -163,20 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 775231,
+      "raw_hot": 806597,
       "num": 775231,
       "word": "小楚乔长大演了大楚乔",
       "onboard_time": 1733463919,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 692646,
-      "num": 692646,
-      "word": "情书女主中山美穗去世",
-      "onboard_time": 1733466379,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 675472,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419514,
+      "num": 419514,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1733465899,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416120,
       "num": 416120,
       "word": "原来上午10点喝咖啡效果更好",
@@ -451,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 335443,
+      "num": 335443,
+      "word": "太缺女导演 太缺女主角故事",
+      "onboard_time": 1733465058,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327164,
       "num": 327164,
       "word": "光遇维护",
@@ -467,12 +483,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 321505,
-      "num": 321505,
-      "word": "湖南卫视跨年晚会官宣",
-      "onboard_time": 1733465899,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 312651,
+      "num": 594691,
+      "word": "妈妈按天给大学生女儿发50元生活费",
+      "onboard_time": 1733465599,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306805,
@@ -497,6 +513,14 @@
       "onboard_time": 1733397560,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 294137,
+      "num": 202687,
+      "word": "中山美穗在浴缸中去世",
+      "onboard_time": 1733467160,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 288526,
@@ -635,22 +659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 224660,
-      "num": 224660,
-      "word": "太缺女导演 太缺女主角故事",
-      "onboard_time": 1733465058,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 222922,
-      "num": 222922,
-      "word": "妈妈按天给大学生女儿发50元生活费",
-      "onboard_time": 1733465599,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213454,
       "num": 213454,
       "word": "国家烟草专卖局原副局长徐㼆被逮捕",
@@ -704,6 +712,14 @@
       "word": "女子听到朋友患肠癌一查自己也有",
       "onboard_time": 1733386399,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203352,
+      "num": 203352,
+      "word": "骗子公司跑路员工落下身份证",
+      "onboard_time": 1733463858,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -803,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191984,
+      "num": 198892,
+      "word": "朴彩英手写中文上上签",
+      "onboard_time": 1733466259,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191678,
       "num": 193030,
       "word": "肖战递耳机",
@@ -828,7 +852,7 @@
     },
     {
       "raw_hot": 186626,
-      "num": 186626,
+      "num": 187492,
       "word": "指纹编剧",
       "onboard_time": 1733463141,
       "rank": 35,
@@ -857,6 +881,14 @@
       "onboard_time": 1733461581,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184800,
+      "num": 184800,
+      "word": "虐童致死案一审生父无期女友死刑",
+      "onboard_time": 1733465481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183123,
@@ -907,20 +939,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 178853,
-      "num": 178853,
-      "word": "骗子公司跑路员工落下身份证",
-      "onboard_time": 1733463858,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178300,
       "num": 178300,
       "word": "白夜追了7年的真凶有线索了",
       "onboard_time": 1733461640,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176916,
+      "num": 176916,
+      "word": "为什么咖啡店的桌子都这么矮",
+      "onboard_time": 1733466199,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176530,
+      "num": 176530,
+      "word": "黄老板杭州抢票",
+      "onboard_time": 1733467160,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 176376,
@@ -945,14 +985,6 @@
       "onboard_time": 1733448859,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 173734,
-      "num": 173734,
-      "word": "虐童致死案一审生父无期女友死刑",
-      "onboard_time": 1733465481,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170978,
@@ -1051,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157486,
-      "num": 157486,
-      "word": "为什么咖啡店的桌子都这么矮",
-      "onboard_time": 1733466199,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156523,
       "num": 156523,
       "word": "祁天道曾获刑4年当时粉丝竟称等他",
@@ -1088,6 +1112,14 @@
       "word": "叙利亚",
       "onboard_time": 1733406620,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155233,
+      "num": 717467,
+      "word": "韩国国会被管制禁止出入",
+      "onboard_time": 1733465659,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142256,
+      "num": 142256,
+      "word": "李昀锐领衔主演冰湖重生",
+      "onboard_time": 1733467459,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142050,
       "num": 142050,
       "word": "哈尔滨 冰雕辽宁舰",
@@ -1163,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140285,
+      "num": 140285,
+      "word": "秋冬无意识变瘦的行为",
+      "onboard_time": 1733466800,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 139590,
       "num": 139590,
       "word": "TWICE新歌Strategy",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1733442798,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137993,
+      "num": 137993,
+      "word": "正豪大大鸡排关闭中国大陆所有门店",
+      "onboard_time": 1733467520,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137799,
@@ -1291,14 +1347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127173,
-      "num": 135219,
-      "word": "秋冬无意识变瘦的行为",
-      "onboard_time": 1733466800,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 127115,
       "num": 202876,
       "word": "声生不息用15部电影开场",
@@ -1411,14 +1459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109543,
-      "num": 717467,
-      "word": "韩国国会被管制禁止出入",
-      "onboard_time": 1733465659,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108044,
       "num": 223276,
       "word": "北体说肯定不会扣马龙分的",
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106102,
+      "num": 106102,
+      "word": "因醉驾免职村支书被举报扶植儿子继任",
+      "onboard_time": 1733467400,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101347,
       "num": 101347,
       "word": "黎族传统纺染织绣技艺成人类非遗代表作",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1733441718,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99501,
+      "num": 199134,
+      "word": "库明加33分",
+      "onboard_time": 1733467099,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99280,
@@ -1531,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87391,
+      "num": 220946,
+      "word": "再见爱人 谁是卧底",
+      "onboard_time": 1733466981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87231,
       "num": 87231,
       "word": "上海一男子花300多万买到凶宅",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1733441356,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 75413,
-      "num": 198892,
-      "word": "朴彩英手写中文上上签",
-      "onboard_time": 1733466259,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 75279,
@@ -1768,6 +1824,14 @@
       "word": "皮草公司操作不当致宁夏一地水污染",
       "onboard_time": 1733465058,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49667,
+      "num": 224474,
+      "word": "姑娘跟红娘共情付完15800就后悔",
+      "onboard_time": 1733466800,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2041,14 +2105,6 @@
       "onboard_time": 1733430492,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 7515,
-      "num": 224474,
-      "word": "姑娘跟红娘共情付完15800就后悔",
-      "onboard_time": 1733466800,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7343,
