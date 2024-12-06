@@ -1,0 +1,410 @@
+{
+  "runTime": 1733474695269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988422,
+        "num": 1988422,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903689,
+        "num": 903689,
+        "word": "疑照片被曝光女孩屡次放火骚扰邻居",
+        "onboard_time": 1733469678,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51778,
+        "num": 888135,
+        "word": "大雪一落地就成了诗",
+        "onboard_time": 1733472621,
+        "rank": 2,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 875804,
+        "num": 875804,
+        "word": "正豪大大鸡排关闭中国大陆所有门店",
+        "onboard_time": 1733467520,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742343,
+        "num": 742343,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709473,
+        "num": 709473,
+        "word": "物业发通知禁止住户养宠物否则捕杀",
+        "onboard_time": 1733470519,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 675873,
+        "num": 675873,
+        "word": "孟子义人脉",
+        "onboard_time": 1733471601,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670434,
+        "num": 670434,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431569,
+        "num": 431569,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103743,
+        "num": 431277,
+        "word": "作协致唁电悼念琼瑶",
+        "onboard_time": 1733474360,
+        "rank": 9,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 646998,
+        "num": 428506,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599165,
+        "num": 427129,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529122,
+        "num": 424453,
+        "word": "孙悦公开和科比往事",
+        "onboard_time": 1733469979,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423615,
+        "num": 423615,
+        "word": "妈妈按天给大学生女儿发50元生活费",
+        "onboard_time": 1733465599,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216754,
+        "num": 411874,
+        "word": "人人网到底收藏了多少明星黑历史",
+        "onboard_time": 1733470519,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410859,
+        "num": 410859,
+        "word": "被虐致死女童曾两天不吃不睡",
+        "onboard_time": 1733472379,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22179,
+        "num": 406724,
+        "word": "陈小春黄子弘凡林智乐蝶变",
+        "onboard_time": 1733473220,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34765,
+        "num": 401777,
+        "word": "琼瑶65年完成70多部作品",
+        "onboard_time": 1733473461,
+        "rank": 17,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 39290,
+        "num": 398903,
+        "word": "上班途中被口头辞退员工获赔2万元",
+        "onboard_time": 1733473581,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65366,
+        "num": 392817,
+        "word": "反复咳嗽怎样才能好得快",
+        "onboard_time": 1733472321,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 691571,
+        "num": 390054,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 487587,
+        "num": 382522,
+        "word": "跳青海摇8天瘦了10斤",
+        "onboard_time": 1733470039,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 382409,
+        "num": 382409,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380877,
+        "num": 380877,
+        "word": "朴彩英吻戏",
+        "onboard_time": 1733468180,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133700,
+        "num": 367359,
+        "word": "代号鸢 我以为他睡着了",
+        "onboard_time": 1733473101,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366064,
+        "num": 366064,
+        "word": "白夜破晓 be",
+        "onboard_time": 1733468479,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336067,
+        "num": 336067,
+        "word": "杨和苏 离谱",
+        "onboard_time": 1733468479,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334620,
+        "num": 334620,
+        "word": "迪丽热巴好像装了躲避雷达",
+        "onboard_time": 1733468901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296111,
+        "num": 296111,
+        "word": "字节8位数年薪挖走阿里大模型人才",
+        "onboard_time": 1733473461,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 287327,
+        "word": "旅拍百分百出片经验分享",
+        "onboard_time": 1733472321,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 286532,
+        "num": 286532,
+        "word": "毕业后才懂英语四六级有多重要",
+        "onboard_time": 1733472260,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284241,
+        "num": 284241,
+        "word": "向佐穿女装带货首场卖出5千万",
+        "onboard_time": 1733472139,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276378,
+        "num": 276378,
+        "word": "藤井树",
+        "onboard_time": 1733468240,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256977,
+        "num": 256977,
+        "word": "icon怒喷麦琳",
+        "onboard_time": 1733463561,
+        "rank": 33,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 21533,
+        "num": 247171,
+        "word": "尚雯婕最后一页把be修复成he",
+        "onboard_time": 1733474540,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241656,
+        "num": 241656,
+        "word": "韩媒说中国春节已延续数千年",
+        "onboard_time": 1733455759,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232744,
+        "num": 232744,
+        "word": "大奉打更人上星央8",
+        "onboard_time": 1733474120,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228658,
+        "num": 228658,
+        "word": "警方正调查中山美穗死因",
+        "onboard_time": 1733468300,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215732,
+        "num": 215732,
+        "word": "江秋莲发布谭斌道歉信和保证书",
+        "onboard_time": 1733472558,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15790,
+        "num": 202573,
+        "word": "我的阿勒泰冬季版",
+        "onboard_time": 1733474479,
+        "rank": 39,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 199659,
+        "num": 199659,
+        "word": "明星出发尖叫之夜",
+        "onboard_time": 1733473940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197227,
+        "num": 197227,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1733465899,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186183,
+        "num": 186183,
+        "word": "儿媳悼念琼瑶",
+        "onboard_time": 1733471840,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171447,
+        "num": 171447,
+        "word": "李行亮说杨子很不真诚",
+        "onboard_time": 1733469440,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170780,
+        "num": 170780,
+        "word": "世间再无藤井树小姐",
+        "onboard_time": 1733473159,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151916,
+        "num": 151916,
+        "word": "尹锡悦暂时不会前往国会",
+        "onboard_time": 1733468662,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 143446,
+        "word": "隋文静复出",
+        "onboard_time": 1733471300,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142738,
+        "num": 142738,
+        "word": "国家明确不得传播暴饮暴食直播",
+        "onboard_time": 1733468419,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139586,
+        "num": 139586,
+        "word": "韩国首都防卫司令官被停职",
+        "onboard_time": 1733471962,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108631,
+        "num": 138842,
+        "word": "雷军送金米兔祝贺王晓雁入职5周年",
+        "onboard_time": 1733474660,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733473854128,
+  "endTime": 1733474695269,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -155,20 +155,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 903689,
+      "num": 903689,
+      "word": "疑照片被曝光女孩屡次放火骚扰邻居",
+      "onboard_time": 1733469678,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 853412,
       "num": 377184,
       "word": "icon怒喷麦琳",
       "onboard_time": 1733463561,
       "rank": 25,
       "category": "作品衍生,电竞"
-    },
-    {
-      "raw_hot": 847658,
-      "num": 847658,
-      "word": "疑照片被曝光女孩屡次放火骚扰邻居",
-      "onboard_time": 1733469678,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 838495,
@@ -203,20 +203,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709473,
+      "num": 709473,
+      "word": "物业发通知禁止住户养宠物否则捕杀",
+      "onboard_time": 1733470519,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691571,
+      "num": 390054,
+      "word": "世界上怀孕时间最长的动物排行",
+      "onboard_time": 1733473699,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 675873,
+      "num": 675873,
+      "word": "孟子义人脉",
+      "onboard_time": 1733471601,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675472,
       "num": 675472,
       "word": "女主播被禁后写道举报我的替我挡灾",
       "onboard_time": 1733454980,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 664127,
-      "num": 567961,
-      "word": "孟子义人脉",
-      "onboard_time": 1733471601,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 647502,
@@ -257,14 +273,6 @@
       "onboard_time": 1733452157,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 594717,
-      "num": 387129,
-      "word": "世界上怀孕时间最长的动物排行",
-      "onboard_time": 1733473699,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 562215,
@@ -483,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 410859,
+      "num": 431083,
+      "word": "被虐致死女童曾两天不吃不睡",
+      "onboard_time": 1733472379,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 402036,
       "num": 184541,
       "word": "网红祁天道造成极其恶劣影响",
@@ -536,14 +552,6 @@
       "word": "公司回应撞脸蔚来logo被判赔30万",
       "onboard_time": 1733449519,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376862,
-      "num": 376862,
-      "word": "物业发通知禁止住户养宠物否则捕杀",
-      "onboard_time": 1733470519,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -651,12 +659,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 296111,
+      "num": 296111,
+      "word": "字节8位数年薪挖走阿里大模型人才",
+      "onboard_time": 1733473461,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 288526,
       "num": 288526,
       "word": "原来化妆的尽头是极简",
       "onboard_time": 1733452398,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 286532,
+      "num": 286532,
+      "word": "毕业后才懂英语四六级有多重要",
+      "onboard_time": 1733472260,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 284207,
@@ -681,14 +705,6 @@
       "onboard_time": 1733436853,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 266626,
-      "num": 431083,
-      "word": "被虐致死女童曾两天不吃不睡",
-      "onboard_time": 1733472379,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266079,
@@ -755,14 +771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 244519,
-      "num": 244519,
-      "word": "毕业后才懂英语四六级有多重要",
-      "onboard_time": 1733472260,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -785,6 +793,14 @@
       "onboard_time": 1733468662,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 232744,
+      "num": 232744,
+      "word": "大奉打更人上星央8",
+      "onboard_time": 1733474120,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 232512,
@@ -817,6 +833,14 @@
       "onboard_time": 1733462780,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216754,
+      "num": 427819,
+      "word": "人人网到底收藏了多少明星黑历史",
+      "onboard_time": 1733470519,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214965,
@@ -939,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199659,
+      "num": 199659,
+      "word": "明星出发尖叫之夜",
+      "onboard_time": 1733473940,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198913,
       "num": 1013890,
       "word": "网红祁天道被拘账号被封禁",
@@ -993,14 +1025,6 @@
       "onboard_time": 1733453960,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 193110,
-      "num": 193110,
-      "word": "字节8位数年薪挖走阿里大模型人才",
-      "onboard_time": 1733473461,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 192550,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1733460800,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 180723,
-      "num": 427819,
-      "word": "人人网到底收藏了多少明星黑历史",
-      "onboard_time": 1733470519,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180677,
@@ -1523,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133700,
+      "num": 392322,
+      "word": "代号鸢 我以为他睡着了",
+      "onboard_time": 1733473101,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131663,
       "num": 131663,
       "word": "九重紫",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1733446879,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 127391,
-      "num": 392322,
-      "word": "代号鸢 我以为他睡着了",
-      "onboard_time": 1733473101,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 127115,
@@ -1723,6 +1739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108631,
+      "num": 138842,
+      "word": "雷军送金米兔祝贺王晓雁入职5周年",
+      "onboard_time": 1733474660,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108044,
       "num": 223276,
       "word": "北体说肯定不会扣马龙分的",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1733467400,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103743,
+      "num": 431277,
+      "word": "作协致唁电悼念琼瑶",
+      "onboard_time": 1733474360,
+      "rank": 9,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 101347,
@@ -1804,7 +1836,7 @@
     },
     {
       "raw_hot": 97967,
-      "num": 882860,
+      "num": 888135,
       "word": "大雪一落地就成了诗",
       "onboard_time": 1733472621,
       "rank": 2,
@@ -2043,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65366,
+      "num": 409944,
+      "word": "反复咳嗽怎样才能好得快",
+      "onboard_time": 1733472321,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -2121,14 +2161,6 @@
       "onboard_time": 1733453660,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55871,
-      "num": 409944,
-      "word": "反复咳嗽怎样才能好得快",
-      "onboard_time": 1733472321,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 53630,
@@ -2227,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39290,
+      "num": 413169,
+      "word": "上班途中被口头辞退员工获赔2万元",
+      "onboard_time": 1733473581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38934,
       "num": 628688,
       "word": "文化中国行感受春节年俗",
@@ -2273,6 +2313,14 @@
       "onboard_time": 1733421674,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34765,
+      "num": 419876,
+      "word": "琼瑶65年完成70多部作品",
+      "onboard_time": 1733473461,
+      "rank": 16,
+      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 33185,
@@ -2348,19 +2396,11 @@
     },
     {
       "raw_hot": 29349,
-      "num": 390417,
+      "num": 406724,
       "word": "陈小春黄子弘凡林智乐蝶变",
       "onboard_time": 1733473220,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 28079,
-      "num": 413169,
-      "word": "上班途中被口头辞退员工获赔2万元",
-      "onboard_time": 1733473581,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27082,
@@ -2403,6 +2443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21533,
+      "num": 247171,
+      "word": "尚雯婕最后一页把be修复成he",
+      "onboard_time": 1733474540,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21432,
       "num": 191308,
       "word": "2024花样滑冰总决赛",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1733453179,
       "rank": 24,
       "category": "其它,旅游"
-    },
-    {
-      "raw_hot": 19040,
-      "num": 419876,
-      "word": "琼瑶65年完成70多部作品",
-      "onboard_time": 1733473461,
-      "rank": 16,
-      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 19016,
@@ -2467,6 +2507,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15790,
+      "num": 202573,
+      "word": "我的阿勒泰冬季版",
+      "onboard_time": 1733474479,
+      "rank": 39,
+      "category": "运动健身,其它"
+    },
+    {
+      "raw_hot": 13993,
+      "num": 388485,
+      "word": "旅拍百分百出片经验分享",
+      "onboard_time": 1733472321,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 13117,
       "num": 161973,
       "word": "香奈儿大秀里的盘扣元素",
@@ -2481,14 +2537,6 @@
       "onboard_time": 1733427252,
       "rank": 24,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12623,
-      "num": 388485,
-      "word": "旅拍百分百出片经验分享",
-      "onboard_time": 1733472321,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 12517,
@@ -2551,6 +2599,9 @@
     },
     {
       "word": "#推动我军网络信息体系建设跨越发展#"
+    },
+    {
+      "word": "#信息支援部队首先是一个战斗队#"
     }
   ]
 }
