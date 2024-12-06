@@ -1,0 +1,410 @@
+{
+  "runTime": 1733490151468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792456,
+        "num": 1792456,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410378,
+        "num": 1055171,
+        "word": "莎头组合2比1日本",
+        "onboard_time": 1733484498,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37844,
+        "num": 923659,
+        "word": "大雪来一场好逛又好吃的citywalk",
+        "onboard_time": 1733471779,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 869061,
+        "num": 869061,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835179,
+        "num": 835179,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 4,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 266107,
+        "num": 657958,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620680,
+        "num": 620680,
+        "word": "巴拉圭",
+        "onboard_time": 1733486840,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604946,
+        "num": 604946,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527221,
+        "num": 527221,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60921,
+        "num": 516060,
+        "word": "外交部回应当前叙利亚局势",
+        "onboard_time": 1733488338,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515082,
+        "num": 515082,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 412907,
+        "num": 412907,
+        "word": "赵丽颖盘发闪钻流苏西装裙",
+        "onboard_time": 1733488760,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 383910,
+        "num": 383910,
+        "word": "李秀满新女团vocal实力",
+        "onboard_time": 1733487978,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65848,
+        "num": 308117,
+        "word": "这届年轻人买钻戒只为应付求婚",
+        "onboard_time": 1733488820,
+        "rank": 13,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 54711,
+        "num": 306305,
+        "word": "莎头组合总结比赛",
+        "onboard_time": 1733489418,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304746,
+        "num": 304746,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237865,
+        "num": 237865,
+        "word": "遇检跳桥坠亡司机所驾货车超百吨",
+        "onboard_time": 1733489299,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233091,
+        "num": 233091,
+        "word": "绝区零",
+        "onboard_time": 1733487919,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181021,
+        "num": 232581,
+        "word": "婚内婚外",
+        "onboard_time": 1733488820,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115576,
+        "num": 231300,
+        "word": "巴黎偶遇张小斐逛街",
+        "onboard_time": 1733488100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303733,
+        "num": 230561,
+        "word": "于正 只剩下心发慌",
+        "onboard_time": 1733484320,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296145,
+        "num": 228306,
+        "word": "吴磊赵今麦2024云合现偶TOP1",
+        "onboard_time": 1733483598,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260950,
+        "num": 227017,
+        "word": "香港4胞胎家庭月租60000的房子",
+        "onboard_time": 1733484019,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226895,
+        "num": 226895,
+        "word": "南柱赫退伍后首现身",
+        "onboard_time": 1733483838,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208683,
+        "num": 223397,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 221908,
+        "num": 221908,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70807,
+        "num": 218295,
+        "word": "为什么感冒后护嗓很重要",
+        "onboard_time": 1733486419,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216795,
+        "num": 216795,
+        "word": "警方回应怀孕32周女子被丈夫踢肚",
+        "onboard_time": 1733489660,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211978,
+        "num": 211978,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194112,
+        "num": 204654,
+        "word": "国乒8比2胜日本",
+        "onboard_time": 1733488398,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203483,
+        "num": 203483,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199775,
+        "num": 199775,
+        "word": "招商银行崩了",
+        "onboard_time": 1733484859,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195810,
+        "num": 195810,
+        "word": "咖啡喝太多对神经系统造成伤害",
+        "onboard_time": 1733489299,
+        "rank": 32,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 193039,
+        "num": 193039,
+        "word": "孙颖莎王艺迪vs笹尾明日香赤江夏星",
+        "onboard_time": 1733487860,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188347,
+        "num": 188347,
+        "word": "孟子义新剧拿了品如剧本",
+        "onboard_time": 1733487919,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182306,
+        "num": 182306,
+        "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
+        "onboard_time": 1733489958,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180514,
+        "num": 180514,
+        "word": "韩国国会被全面管制",
+        "onboard_time": 1733478919,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178514,
+        "num": 178514,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158903,
+        "num": 158903,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156072,
+        "num": 156072,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149921,
+        "num": 149921,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118428,
+        "num": 148900,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33737,
+        "num": 148548,
+        "word": "黄子弘凡学了一半发现练错歌",
+        "onboard_time": 1733488100,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148387,
+        "num": 148387,
+        "word": "国乒8比2日本",
+        "onboard_time": 1733489780,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142418,
+        "num": 142418,
+        "word": "周巡说给关宏峰的最后一句话",
+        "onboard_time": 1733486659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135987,
+        "num": 135987,
+        "word": "许多加沙儿童无麻醉被截肢",
+        "onboard_time": 1733481919,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131478,
+        "num": 131478,
+        "word": "窦骁何超莲撒狗粮现场",
+        "onboard_time": 1733480659,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 125248,
+        "word": "网传哪吒张勇离职转投大力牛魔王",
+        "onboard_time": 1733487498,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121943,
+        "num": 121943,
+        "word": "何瑞贤短发好帅",
+        "onboard_time": 1733486659,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120987,
+        "num": 120987,
+        "word": "王楚钦孙颖莎11比3川上流星面手凛",
+        "onboard_time": 1733486060,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
