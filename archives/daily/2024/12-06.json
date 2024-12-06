@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733490151468,
+  "endTime": 1733491961758,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -59,6 +59,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1778941,
+      "num": 1778941,
+      "word": "警方回应怀孕32周女子被丈夫踢肚",
+      "onboard_time": 1733489660,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1664514,
       "num": 1664514,
       "word": "当地机场回应2万具尸体事件",
@@ -72,6 +80,14 @@
       "word": "韩媒说中国春节已延续数千年",
       "onboard_time": 1733455759,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1433283,
+      "num": 1433283,
+      "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
+      "onboard_time": 1733489958,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -283,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 779468,
+      "num": 779468,
+      "word": "韩国",
+      "onboard_time": 1733488219,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 776396,
       "num": 420821,
       "word": "字节8位数年薪挖走阿里大模型人才",
@@ -337,6 +361,14 @@
       "onboard_time": 1733446639,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643058,
+      "num": 414825,
+      "word": "包文婧疑似怀二胎",
+      "onboard_time": 1733489958,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 627200,
@@ -489,14 +521,6 @@
       "onboard_time": 1733468901,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515082,
-      "num": 515082,
-      "word": "韩国",
-      "onboard_time": 1733488219,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 513680,
@@ -811,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336110,
+      "num": 336110,
+      "word": "孟子义发红包",
+      "onboard_time": 1733490260,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327164,
       "num": 327164,
       "word": "光遇维护",
@@ -849,6 +881,14 @@
       "onboard_time": 1733407101,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306056,
+      "num": 245998,
+      "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+      "onboard_time": 1733490199,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 304458,
@@ -1019,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241105,
+      "num": 241105,
+      "word": "朴彩英梦女",
+      "onboard_time": 1733490441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -1120,14 +1168,6 @@
       "word": "招商银行崩了",
       "onboard_time": 1733484859,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216795,
-      "num": 216795,
-      "word": "警方回应怀孕32周女子被丈夫踢肚",
-      "onboard_time": 1733489660,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1315,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 196825,
+      "num": 196825,
+      "word": "侯明昊金发",
+      "onboard_time": 1733491522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196352,
       "num": 187325,
       "word": "情书",
@@ -1411,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191795,
+      "num": 191795,
+      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+      "onboard_time": 1733490681,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191721,
       "num": 274006,
       "word": "光遇",
@@ -1465,6 +1521,22 @@
       "onboard_time": 1733471840,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188915,
+      "num": 332363,
+      "word": "交警再回应服务区休息被开罚单",
+      "onboard_time": 1733490441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187733,
+      "num": 306305,
+      "word": "莎头组合总结比赛",
+      "onboard_time": 1733489418,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 187719,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1733442497,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182306,
-      "num": 182306,
-      "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
-      "onboard_time": 1733489958,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181573,
@@ -1939,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150199,
+      "num": 186484,
+      "word": "李昀锐解锁人生镜头",
+      "onboard_time": 1733488159,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150141,
       "num": 150141,
       "word": "奔跑吧送全员小卡",
@@ -2211,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125657,
+      "num": 125657,
+      "word": "美国众议院禁止跨性别者使用厕所",
+      "onboard_time": 1733490380,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125248,
       "num": 125248,
       "word": "网传哪吒张勇离职转投大力牛魔王",
@@ -2257,14 +2337,6 @@
       "onboard_time": 1733450179,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118428,
-      "num": 148900,
-      "word": "包文婧疑似怀二胎",
-      "onboard_time": 1733489958,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 117140,
@@ -2403,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105138,
+      "num": 105138,
+      "word": "刘诗雯观战国乒vs日本",
+      "onboard_time": 1733491820,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103743,
       "num": 431277,
       "word": "作协致唁电悼念琼瑶",
@@ -2489,6 +2569,14 @@
       "onboard_time": 1733472499,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92178,
+      "num": 192382,
+      "word": "鞠婧祎开年刊",
+      "onboard_time": 1733490919,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 92103,
@@ -2875,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56370,
+      "num": 258523,
+      "word": "中方反对巴拉圭毫无道理的指责",
+      "onboard_time": 1733490860,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55950,
       "num": 315798,
       "word": "沪指重新站上3400点",
@@ -2883,12 +2979,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54711,
-      "num": 306305,
-      "word": "莎头组合总结比赛",
-      "onboard_time": 1733489418,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 55603,
+      "num": 244499,
+      "word": "我是刑警枕边人是逃犯",
+      "onboard_time": 1733491761,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 54615,
@@ -3035,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42582,
+      "num": 1013303,
+      "word": "大雪来一场好逛又好吃的citywalk",
+      "onboard_time": 1733471779,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 40919,
       "num": 389920,
       "word": "酒店经理厕所强吻猥亵女下属被判刑",
@@ -3049,6 +3153,14 @@
       "onboard_time": 1733482099,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40461,
+      "num": 191807,
+      "word": "雷佳音回应窝囊废界的天花板称号",
+      "onboard_time": 1733490199,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 39290,
@@ -3067,12 +3179,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 37844,
-      "num": 1013303,
-      "word": "大雪来一场好逛又好吃的citywalk",
-      "onboard_time": 1733471779,
-      "rank": 2,
-      "category": "旅游"
+      "raw_hot": 37833,
+      "num": 191819,
+      "word": "王赫野的卡祖笛全是东北味",
+      "onboard_time": 1733491942,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 36907,
@@ -3184,6 +3296,14 @@
       "word": "摊贩没钱交罚款被城管要求去借钱",
       "onboard_time": 1733400259,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30696,
+      "num": 416202,
+      "word": "购房家庭累计减免契税84亿元",
+      "onboard_time": 1733491221,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3323,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18718,
+      "num": 253952,
+      "word": "看再见爱人隔空确诊NPD",
+      "onboard_time": 1733490619,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17203,
       "num": 398123,
       "word": "超声治疗仪适用范围删除整形美容科",
@@ -3417,6 +3545,14 @@
       "onboard_time": 1733367621,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11270,
+      "num": 1498085,
+      "word": "新丝路上的百宝箱",
+      "onboard_time": 1733491820,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 11194,
