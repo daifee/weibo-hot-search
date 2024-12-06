@@ -1,0 +1,410 @@
+{
+  "runTime": 1733454348643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2080659,
+        "num": 2080659,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1054775,
+        "num": 1054775,
+        "word": "要不让艺洋跟你说两句",
+        "onboard_time": 1733451199,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137060,
+        "num": 771971,
+        "word": "网红祁天道被拘账号被封禁",
+        "onboard_time": 1733447719,
+        "rank": 2,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1790361,
+        "num": 729085,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621106,
+        "num": 621106,
+        "word": "特朗普提名下任驻华大使",
+        "onboard_time": 1733452758,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543965,
+        "num": 614143,
+        "word": "哥伦比亚称检查27个机库没有尸体",
+        "onboard_time": 1733450659,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 629324,
+        "num": 612729,
+        "word": "双轨",
+        "onboard_time": 1733441956,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608351,
+        "num": 608351,
+        "word": "叙利亚首都仅剩最后一道重要防线",
+        "onboard_time": 1733452039,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 608525,
+        "num": 556947,
+        "word": "何与双轨",
+        "onboard_time": 1733452157,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353351,
+        "num": 507919,
+        "word": "公司回应撞脸蔚来logo被判赔30万",
+        "onboard_time": 1733449519,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498853,
+        "num": 498853,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327164,
+        "num": 327164,
+        "word": "光遇维护",
+        "onboard_time": 1733453719,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317008,
+        "num": 317008,
+        "word": "大爷遇电信诈骗反赚骗子5万元",
+        "onboard_time": 1733451199,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258264,
+        "num": 316309,
+        "word": "肖战实体专辑预售",
+        "onboard_time": 1733449578,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44832,
+        "num": 315798,
+        "word": "沪指重新站上3400点",
+        "onboard_time": 1733453660,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22449,
+        "num": 314175,
+        "word": "华为MateX6强得飞起",
+        "onboard_time": 1733450598,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34392,
+        "num": 313602,
+        "word": "原生鸿蒙碰一碰问一问玩出花了",
+        "onboard_time": 1733450598,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 312806,
+        "num": 312806,
+        "word": "间谍诱骗中学生拍军事设施",
+        "onboard_time": 1733444840,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 311426,
+        "word": "孟子义妈妈说李昀锐是爱干净的男孩",
+        "onboard_time": 1733453059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12100,
+        "num": 309446,
+        "word": "A股",
+        "onboard_time": 1733367621,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 448699,
+        "num": 307506,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 358415,
+        "num": 303801,
+        "word": "黄圣依开了七个小时的车",
+        "onboard_time": 1733433130,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302933,
+        "num": 302933,
+        "word": "原来上午10点喝咖啡效果更好",
+        "onboard_time": 1733445980,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 288526,
+        "num": 288526,
+        "word": "原来化妆的尽头是极简",
+        "onboard_time": 1733452398,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20427,
+        "num": 269000,
+        "word": "上海2h可达的避世野奢酒店",
+        "onboard_time": 1733453179,
+        "rank": 24,
+        "category": "其它,旅游"
+      },
+      {
+        "raw_hot": 258953,
+        "num": 258953,
+        "word": "妈妈按天给大学生女儿发50元",
+        "onboard_time": 1733444840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258413,
+        "num": 258413,
+        "word": "哥伦比亚",
+        "onboard_time": 1733447419,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229336,
+        "num": 253658,
+        "word": "秦川刚做完手术妈妈去世",
+        "onboard_time": 1733453359,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188608,
+        "num": 252825,
+        "word": "费沁源退团",
+        "onboard_time": 1733440936,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134638,
+        "num": 252290,
+        "word": "哈利波特剧版选角",
+        "onboard_time": 1733452460,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252206,
+        "num": 252206,
+        "word": "莎头",
+        "onboard_time": 1733447958,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250853,
+        "num": 250853,
+        "word": "Zoom怒喷乐言",
+        "onboard_time": 1733452639,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203314,
+        "num": 203314,
+        "word": "彩虹夫妇决定结扎",
+        "onboard_time": 1733446639,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201683,
+        "num": 201683,
+        "word": "韩媒关注中国春节申遗成功",
+        "onboard_time": 1733454078,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187137,
+        "num": 187137,
+        "word": "国家烟草专卖局原副局长徐㼆被逮捕",
+        "onboard_time": 1733453298,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186472,
+        "num": 186472,
+        "word": "孕妇快生遇自家车更新系统只得打车",
+        "onboard_time": 1733444239,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184838,
+        "num": 184838,
+        "word": "糖小幽为Doinb鸣不平",
+        "onboard_time": 1733450539,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176376,
+        "num": 176376,
+        "word": "明日之后快开门",
+        "onboard_time": 1733453719,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168343,
+        "num": 168343,
+        "word": "联合国回应哥伦比亚2万具尸体事件",
+        "onboard_time": 1733449938,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167526,
+        "num": 167526,
+        "word": "叙利亚政府军失去对哈马控制",
+        "onboard_time": 1733439555,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164989,
+        "num": 164989,
+        "word": "四六级准考证",
+        "onboard_time": 1733453960,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156421,
+        "num": 156421,
+        "word": "恋与制作人",
+        "onboard_time": 1733452698,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156219,
+        "num": 156219,
+        "word": "猫 扔下她一个人在这哭有点残忍",
+        "onboard_time": 1733448859,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153567,
+        "num": 153567,
+        "word": "消费降级用螺蛳粉做了四菜一汤",
+        "onboard_time": 1733451979,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151623,
+        "num": 151623,
+        "word": "警惕境外间谍诱导未成年人窃密",
+        "onboard_time": 1733452819,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129916,
+        "num": 129916,
+        "word": "韩国执政党党首称尹锡悦须尽早停职",
+        "onboard_time": 1733446099,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125039,
+        "num": 125039,
+        "word": "icon想复出但被弹幕质疑",
+        "onboard_time": 1733453359,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124841,
+        "num": 124841,
+        "word": "哥伦比亚过去存在大量人口贩运案例",
+        "onboard_time": 1733449938,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110723,
+        "num": 120659,
+        "word": "九重紫",
+        "onboard_time": 1733446998,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120068,
+        "num": 120068,
+        "word": "妈妈问被欺负的女儿为什么就她被打",
+        "onboard_time": 1733440575,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设一支强大的现代化信息支援部队#"
+    }
+  }
+}

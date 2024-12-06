@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733451217447,
+  "endTime": 1733454348643,
   "band_list": [
     {
       "raw_hot": 2720304,
@@ -41,6 +41,14 @@
       "onboard_time": 1733411959,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1054775,
+      "num": 1054775,
+      "word": "要不让艺洋跟你说两句",
+      "onboard_time": 1733451199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1003406,
@@ -91,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 621106,
+      "num": 621106,
+      "word": "特朗普提名下任驻华大使",
+      "onboard_time": 1733452758,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 609033,
       "num": 128167,
       "word": "朴彩英自曝恋爱",
@@ -99,12 +115,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608525,
+      "num": 556947,
+      "word": "何与双轨",
+      "onboard_time": 1733452157,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 608351,
+      "num": 608351,
+      "word": "叙利亚首都仅剩最后一道重要防线",
+      "onboard_time": 1733452039,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 562215,
       "num": 195838,
       "word": "黄子韬婚后状态",
       "onboard_time": 1733406741,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543965,
+      "num": 614143,
+      "word": "哥伦比亚称检查27个机库没有尸体",
+      "onboard_time": 1733450659,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 540229,
@@ -132,7 +172,7 @@
     },
     {
       "raw_hot": 481657,
-      "num": 211271,
+      "num": 258953,
       "word": "妈妈按天给大学生女儿发50元",
       "onboard_time": 1733444840,
       "rank": 20,
@@ -145,6 +185,14 @@
       "onboard_time": 1733441656,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 448699,
+      "num": 307506,
+      "word": "三十年前的羽绒服比我穿的潮",
+      "onboard_time": 1733450959,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 447626,
@@ -195,12 +243,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 353351,
+      "num": 507919,
+      "word": "公司回应撞脸蔚来logo被判赔30万",
+      "onboard_time": 1733449519,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340176,
       "num": 340176,
       "word": "韩国警方调查韩国总统涉内乱罪",
       "onboard_time": 1733415018,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327164,
+      "num": 327164,
+      "word": "光遇维护",
+      "onboard_time": 1733453719,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 317008,
+      "num": 317008,
+      "word": "大爷遇电信诈骗反赚骗子5万元",
+      "onboard_time": 1733451199,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306805,
@@ -225,6 +297,14 @@
       "onboard_time": 1733397560,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 288526,
+      "num": 288526,
+      "word": "原来化妆的尽头是极简",
+      "onboard_time": 1733452398,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 284207,
@@ -259,20 +339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253636,
-      "num": 253636,
-      "word": "公司回应撞脸蔚来logo被判赔30万",
-      "onboard_time": 1733449519,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252335,
       "num": 221774,
       "word": "李行亮被活动除名",
       "onboard_time": 1733394199,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250853,
+      "num": 250853,
+      "word": "Zoom怒喷乐言",
+      "onboard_time": 1733452639,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 245837,
@@ -307,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229336,
+      "num": 253658,
+      "word": "秦川刚做完手术妈妈去世",
+      "onboard_time": 1733453359,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211835,
       "num": 211835,
       "word": "糖小幽为Doinb鸣不平",
@@ -331,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201683,
+      "num": 201683,
+      "word": "韩媒关注中国春节申遗成功",
+      "onboard_time": 1733454078,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198913,
       "num": 1013890,
       "word": "网红祁天道被拘账号被封禁",
@@ -344,6 +440,14 @@
       "word": "妈妈问被欺负的女儿为什么就她被打",
       "onboard_time": 1733440575,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187137,
+      "num": 187137,
+      "word": "国家烟草专卖局原副局长徐㼆被逮捕",
+      "onboard_time": 1733453298,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -363,20 +467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182334,
-      "num": 182334,
-      "word": "哥伦比亚称检查27个机库没有尸体",
-      "onboard_time": 1733450659,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 179422,
-      "num": 179422,
-      "word": "三十年前的羽绒服比我穿的潮",
-      "onboard_time": 1733450959,
-      "rank": 28,
-      "category": "时尚"
+      "raw_hot": 176376,
+      "num": 176376,
+      "word": "明日之后快开门",
+      "onboard_time": 1733453719,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 175270,
@@ -393,14 +489,6 @@
       "onboard_time": 1733448859,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174999,
-      "num": 174999,
-      "word": "要不让艺洋跟你说两句",
-      "onboard_time": 1733451199,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 170978,
@@ -427,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164989,
+      "num": 164989,
+      "word": "四六级准考证",
+      "onboard_time": 1733453960,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162460,
       "num": 162460,
       "word": "文化中国行看大雪节气",
@@ -451,6 +547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 156421,
+      "num": 156421,
+      "word": "恋与制作人",
+      "onboard_time": 1733452698,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155596,
       "num": 172235,
       "word": "美国加州近海7.0级地震",
@@ -472,6 +576,22 @@
       "word": "广东潮州一医院天花板掉落",
       "onboard_time": 1733445018,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153567,
+      "num": 153567,
+      "word": "消费降级用螺蛳粉做了四菜一汤",
+      "onboard_time": 1733451979,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 151623,
+      "num": 151623,
+      "word": "警惕境外间谍诱导未成年人窃密",
+      "onboard_time": 1733452819,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -521,6 +641,22 @@
       "onboard_time": 1733384000,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135586,
+      "num": 311426,
+      "word": "孟子义妈妈说李昀锐是爱干净的男孩",
+      "onboard_time": 1733453059,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 252290,
+      "word": "哈利波特剧版选角",
+      "onboard_time": 1733452460,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 133799,
@@ -579,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125039,
+      "num": 125039,
+      "word": "icon想复出但被弹幕质疑",
+      "onboard_time": 1733453359,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121492,
       "num": 121492,
       "word": "一建成绩",
@@ -633,14 +777,6 @@
       "onboard_time": 1733406500,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112063,
-      "num": 112063,
-      "word": "大爷遇电信诈骗反赚骗子5万元",
-      "onboard_time": 1733451199,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112016,
@@ -963,6 +1099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44832,
+      "num": 315798,
+      "word": "沪指重新站上3400点",
+      "onboard_time": 1733453660,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 38934,
       "num": 628688,
       "word": "文化中国行感受春节年俗",
@@ -988,7 +1132,7 @@
     },
     {
       "raw_hot": 35684,
-      "num": 175085,
+      "num": 313602,
       "word": "原生鸿蒙碰一碰问一问玩出花了",
       "onboard_time": 1733450598,
       "rank": 30,
@@ -1020,7 +1164,7 @@
     },
     {
       "raw_hot": 31835,
-      "num": 153301,
+      "num": 314175,
       "word": "华为MateX6强得飞起",
       "onboard_time": 1733450598,
       "rank": 36,
@@ -1075,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20427,
+      "num": 269000,
+      "word": "上海2h可达的避世野奢酒店",
+      "onboard_time": 1733453179,
+      "rank": 24,
+      "category": "其它,旅游"
+    },
+    {
       "raw_hot": 19016,
       "num": 103175,
       "word": "春节是中华文化最重要的传统节日",
@@ -1113,6 +1265,14 @@
       "onboard_time": 1733418794,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12100,
+      "num": 309446,
+      "word": "A股",
+      "onboard_time": 1733367621,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 11194,
