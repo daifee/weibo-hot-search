@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733496128485,
+  "endTime": 1733498750200,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -121,6 +121,14 @@
       "onboard_time": 1733481260,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1184819,
+      "num": 1184819,
+      "word": "李行亮承诺离婚后不会怀恨在心",
+      "onboard_time": 1733495301,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1123216,
@@ -331,6 +339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 736199,
+      "num": 736199,
+      "word": "陈丽云被查",
+      "onboard_time": 1733497040,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 714199,
       "num": 714199,
       "word": "课间延长到15分钟学生在干啥",
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 637229,
+      "num": 540730,
+      "word": "白敬亭 他拍的",
+      "onboard_time": 1733494699,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 627200,
       "num": 627200,
       "word": "肖战实体专辑预售",
@@ -449,6 +473,14 @@
       "onboard_time": 1733464578,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 547123,
+      "num": 547123,
+      "word": "武汉理工给太瘦学生充400元饭卡",
+      "onboard_time": 1733493620,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545033,
@@ -667,28 +699,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 450101,
-      "num": 181011,
-      "word": "白敬亭 他拍的",
-      "onboard_time": 1733494699,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 447626,
       "num": 447626,
       "word": "叙利亚政府军失去对哈马控制",
       "onboard_time": 1733439555,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 443600,
-      "num": 416335,
-      "word": "李行亮承诺离婚后不会怀恨在心",
-      "onboard_time": 1733495301,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 438381,
@@ -729,14 +745,6 @@
       "onboard_time": 1733482400,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416815,
-      "num": 416815,
-      "word": "武汉理工给太瘦学生充400元饭卡",
-      "onboard_time": 1733493620,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 416120,
@@ -824,6 +832,14 @@
       "word": "公司回应撞脸蔚来logo被判赔30万",
       "onboard_time": 1733449519,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375969,
+      "num": 307260,
+      "word": "怀孕32周女子被丈夫踢肚警方已介入",
+      "onboard_time": 1733496260,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1025,6 +1041,14 @@
       "onboard_time": 1733460141,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278382,
+      "num": 278382,
+      "word": "韩国选手回应看莎头训练被惊讶到了",
+      "onboard_time": 1733494100,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 277274,
@@ -1243,6 +1267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222809,
+      "num": 222809,
+      "word": "绿地",
+      "onboard_time": 1733495960,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222552,
       "num": 193639,
       "word": "肖战黑西装深V真空",
@@ -1441,6 +1473,14 @@
       "onboard_time": 1733483959,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200385,
+      "num": 200385,
+      "word": "现在拨打的电话",
+      "onboard_time": 1733496801,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 198913,
@@ -1731,14 +1771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 180830,
-      "num": 180830,
-      "word": "韩国选手回应看莎头训练被惊讶到了",
-      "onboard_time": 1733494100,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 180502,
       "num": 180502,
       "word": "张真源支持李昀锐新剧",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1733448859,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173052,
+      "num": 286370,
+      "word": "男子连喝8包板蓝根被送医抢救",
+      "onboard_time": 1733497642,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171462,
@@ -2011,6 +2051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 160443,
+      "num": 447884,
+      "word": "徐州一学校宿舍厕所装防欺凌报警器",
+      "onboard_time": 1733493861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160119,
       "num": 160119,
       "word": "王楚钦孙颖莎11比3川上流星面手凛",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1733456779,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152941,
+      "num": 152941,
+      "word": "周笔畅 人在尴尬的时候会假装很忙",
+      "onboard_time": 1733498600,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 151623,
@@ -2371,14 +2427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130941,
-      "num": 447884,
-      "word": "徐州一学校宿舍厕所装防欺凌报警器",
-      "onboard_time": 1733493861,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130917,
       "num": 130917,
       "word": "在叙中国公民尽快回国或离境",
@@ -2475,6 +2523,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 120733,
+      "num": 120733,
+      "word": "九重紫慢镜头",
+      "onboard_time": 1733496201,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120635,
       "num": 120635,
       "word": "A股放量2902亿",
@@ -2547,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115174,
+      "num": 195593,
+      "word": "复习太早考研后期会疲惫",
+      "onboard_time": 1733494519,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114763,
       "num": 114763,
       "word": "没办法这是莎头啊",
@@ -2559,6 +2623,14 @@
       "num": 114002,
       "word": "莎头配合好丝滑",
       "onboard_time": 1733495840,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113887,
+      "num": 113887,
+      "word": "2024年成都混合团体世界杯",
+      "onboard_time": 1733497761,
       "rank": 45,
       "category": "体育"
     },
@@ -2617,6 +2689,14 @@
       "onboard_time": 1733442560,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 106193,
+      "num": 113887,
+      "word": "周琦手感",
+      "onboard_time": 1733496980,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 106170,
@@ -2739,20 +2819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92649,
+      "num": 356823,
+      "word": "将猪肉充当牛肉卖泰来椰总部被举报",
+      "onboard_time": 1733497700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92434,
+      "num": 112503,
+      "word": "林诗栋说想着一分一分追",
+      "onboard_time": 1733496980,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92103,
       "num": 333158,
       "word": "NewJeans 谁也分不开我们",
       "onboard_time": 1733476940,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91704,
-      "num": 91704,
-      "word": "绿地",
-      "onboard_time": 1733495960,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91384,
@@ -3051,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64162,
+      "num": 202428,
+      "word": "王楚钦说一上来战术打得很顺利",
+      "onboard_time": 1733496381,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -3283,6 +3379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46271,
+      "num": 216832,
+      "word": "潘粤明穿帮镜头收割机",
+      "onboard_time": 1733497700,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45985,
       "num": 52030,
       "word": "黑白森林",
@@ -3344,6 +3448,14 @@
       "word": "王赫野的卡祖笛全是东北味",
       "onboard_time": 1733491942,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43069,
+      "num": 222473,
+      "word": "周笔畅回应戴墨鏡拿奖",
+      "onboard_time": 1733498179,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -3523,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31118,
+      "num": 162509,
+      "word": "加拿大从民间收缴枪支捐给乌克兰",
+      "onboard_time": 1733498542,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30431,
       "num": 30623,
       "word": "中国剪纸美得外国人咔咔拍照",
@@ -3675,14 +3795,6 @@
       "category": "其它,旅游"
     },
     {
-      "raw_hot": 20102,
-      "num": 195593,
-      "word": "复习太早考研后期会疲惫",
-      "onboard_time": 1733494519,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 19252,
       "num": 1498085,
       "word": "新丝路上的百宝箱",
@@ -3795,6 +3907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12341,
+      "num": 204721,
+      "word": "于正 恩怨缠绕着不肯放",
+      "onboard_time": 1733498660,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12118,
       "num": 309446,
       "word": "A股",
@@ -3861,6 +3981,9 @@
     },
     {
       "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    },
+    {
+      "word": "#关于粮食安全总书记这样要求#"
     }
   ]
 }
