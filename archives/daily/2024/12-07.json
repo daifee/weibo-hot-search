@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733505686777,
+  "endTime": 1733506790940,
   "band_list": [
     {
       "raw_hot": 1542594,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109188,
+      "num": 109188,
+      "word": "韩国",
+      "onboard_time": 1733488219,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95880,
       "num": 95880,
       "word": "孙颖莎说都还不错",
@@ -291,14 +299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 87298,
-      "num": 87298,
-      "word": "韩国",
-      "onboard_time": 1733488219,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 86112,
       "num": 86112,
       "word": "黄冠亨回应热搜",
@@ -307,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83083,
+      "num": 83083,
+      "word": "男子机票改签一度要补万元差价",
+      "onboard_time": 1733499559,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82817,
       "num": 373120,
       "word": "最好的生活状态在这3句话里",
       "onboard_time": 1733500400,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 82769,
-      "num": 82769,
-      "word": "男子机票改签一度要补万元差价",
-      "onboard_time": 1733499559,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79982,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61835,
+      "num": 81290,
+      "word": "费沁源退团原因",
+      "onboard_time": 1733504776,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60166,
       "num": 359619,
       "word": "福宝咔哧咔哧干饭太香了",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 43095,
-      "num": 50961,
+      "num": 53044,
       "word": "汪苏泷演唱会DJ是戚薇",
       "onboard_time": 1733505015,
       "rank": 45,
@@ -412,19 +420,19 @@
     },
     {
       "raw_hot": 40832,
-      "num": 50959,
+      "num": 52990,
       "word": "虞书欣出发尖叫之夜机场路透",
       "onboard_time": 1733490681,
       "rank": 47,
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 29588,
-      "num": 81290,
-      "word": "费沁源退团原因",
-      "onboard_time": 1733504776,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 32207,
+      "num": 52981,
+      "word": "周深南宁演唱会",
+      "onboard_time": 1733506753,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 29349,
@@ -433,6 +441,14 @@
       "onboard_time": 1733491638,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 29029,
+      "num": 130762,
+      "word": "民进党当局把美国当主子必成弃子",
+      "onboard_time": 1733505795,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23008,
