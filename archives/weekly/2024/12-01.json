@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733449832717,
+  "endTime": 1733451217447,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -203,6 +203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 2720304,
+      "num": 2720304,
+      "word": "哥伦比亚一机库发现约2万具尸体",
+      "onboard_time": 1733441718,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2541717,
       "num": 145662,
       "word": "黄子韬鹿晗",
@@ -243,20 +251,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 2324106,
-      "num": 2324106,
-      "word": "哥伦比亚一机库发现约2万具尸体",
-      "onboard_time": 1733441718,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 2289559,
       "num": 2759645,
       "word": "韩娱活动因戒严令接连取消",
       "onboard_time": 1733237365,
       "rank": 3,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2242210,
+      "num": 1008541,
+      "word": "虞书欣怎么了",
+      "onboard_time": 1733447719,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2230797,
@@ -289,14 +297,6 @@
       "onboard_time": 1733383399,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2102511,
-      "num": 1008541,
-      "word": "虞书欣怎么了",
-      "onboard_time": 1733447719,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2084296,
@@ -441,6 +441,14 @@
       "onboard_time": 1733321663,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1664514,
+      "num": 1664514,
+      "word": "当地机场回应2万具尸体事件",
+      "onboard_time": 1733448018,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1644599,
@@ -753,14 +761,6 @@
       "onboard_time": 1733274441,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1282295,
-      "num": 1282295,
-      "word": "当地机场回应2万具尸体事件",
-      "onboard_time": 1733448018,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1268857,
@@ -1147,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003406,
+      "num": 1003406,
+      "word": "双轨",
+      "onboard_time": 1733441956,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 984864,
       "num": 984864,
       "word": "前体操冠军张宏涛回应擦边争议",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1733286202,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 961072,
+      "num": 961072,
+      "word": "哥伦比亚",
+      "onboard_time": 1733447419,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 959572,
@@ -2123,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 646574,
+      "num": 426713,
+      "word": "彩虹夫妇决定结扎",
+      "onboard_time": 1733446639,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646197,
       "num": 646197,
       "word": "刺杀小说家",
@@ -2241,6 +2265,14 @@
       "onboard_time": 1733239106,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 627200,
+      "num": 627200,
+      "word": "肖战实体专辑预售",
+      "onboard_time": 1733449578,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 624533,
@@ -2707,14 +2739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 545741,
-      "num": 545741,
-      "word": "双轨",
-      "onboard_time": 1733441956,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 545075,
       "num": 545075,
       "word": "湖南卫视播出又见一帘幽梦",
@@ -2833,14 +2857,6 @@
       "onboard_time": 1733379619,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521801,
-      "num": 376103,
-      "word": "彩虹夫妇决定结扎",
-      "onboard_time": 1733446639,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519174,
@@ -3108,7 +3124,7 @@
     },
     {
       "raw_hot": 481657,
-      "num": 181788,
+      "num": 211271,
       "word": "妈妈按天给大学生女儿发50元",
       "onboard_time": 1733444840,
       "rank": 20,
@@ -3795,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416120,
+      "num": 416120,
+      "word": "原来上午10点喝咖啡效果更好",
+      "onboard_time": 1733445980,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 415594,
       "num": 5476933,
       "word": "外媒关注中国发现世界最大金矿",
@@ -4209,14 +4233,6 @@
       "onboard_time": 1733130858,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376384,
-      "num": 376384,
-      "word": "原来上午10点喝咖啡效果更好",
-      "onboard_time": 1733445980,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 375639,
@@ -5331,6 +5347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284207,
+      "num": 284207,
+      "word": "费沁源退团",
+      "onboard_time": 1733440936,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283870,
       "num": 283870,
       "word": "沈腾王安宇情头",
@@ -5867,6 +5891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253636,
+      "num": 253636,
+      "word": "公司回应撞脸蔚来logo被判赔30万",
+      "onboard_time": 1733449519,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252936,
       "num": 252936,
       "word": "王楚钦凌空杀球",
@@ -5947,14 +5979,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 248978,
-      "num": 248978,
-      "word": "费沁源退团",
-      "onboard_time": 1733440936,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248731,
       "num": 390396,
       "word": "井柏然记录刘雯走秀",
@@ -6001,6 +6025,14 @@
       "onboard_time": 1733221280,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245837,
+      "num": 432247,
+      "word": "哥伦比亚过去存在大量人口贩运案例",
+      "onboard_time": 1733449938,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 245829,
@@ -6196,7 +6228,7 @@
     },
     {
       "raw_hot": 236599,
-      "num": 180482,
+      "num": 208893,
       "word": "孕妇快生遇自家车更新系统只得打车",
       "onboard_time": 1733444239,
       "rank": 21,
@@ -6425,6 +6457,14 @@
       "onboard_time": 1733392641,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229492,
+      "num": 229492,
+      "word": "如果下雪了你最想做什么",
+      "onboard_time": 1733439496,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 229192,
@@ -6947,14 +6987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214357,
-      "num": 214357,
-      "word": "如果下雪了你最想做什么",
-      "onboard_time": 1733439496,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214052,
       "num": 283247,
       "word": "国产老剧被AI爆改得像中毒了",
@@ -7051,6 +7083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211835,
+      "num": 211835,
+      "word": "糖小幽为Doinb鸣不平",
+      "onboard_time": 1733450539,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211581,
       "num": 211581,
       "word": "导师看到我的论文查重率是0%时",
@@ -7081,14 +7121,6 @@
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210640,
-      "num": 210640,
-      "word": "哥伦比亚",
-      "onboard_time": 1733447419,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210543,
@@ -7297,6 +7329,14 @@
       "onboard_time": 1733137999,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205932,
+      "num": 205932,
+      "word": "联合国回应哥伦比亚2万具尸体事件",
+      "onboard_time": 1733449938,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 205882,
@@ -7643,6 +7683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198913,
+      "num": 1013890,
+      "word": "网红祁天道被拘账号被封禁",
+      "onboard_time": 1733447719,
+      "rank": 2,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 198894,
       "num": 198894,
       "word": "吴泽林 爸爸妈妈这就是月底的我",
@@ -7904,6 +7952,14 @@
       "word": "福宝初步检查无异常",
       "onboard_time": 1733227460,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195328,
+      "num": 195328,
+      "word": "妈妈问被欺负的女儿为什么就她被打",
+      "onboard_time": 1733440575,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -8611,14 +8667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182636,
-      "num": 1013890,
-      "word": "网红祁天道被拘账号被封禁",
-      "onboard_time": 1733447719,
-      "rank": 2,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 182521,
       "num": 182521,
       "word": "琼瑶成都故居依旧保存完好",
@@ -8633,6 +8681,14 @@
       "onboard_time": 1733118440,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182334,
+      "num": 182334,
+      "word": "哥伦比亚称检查27个机库没有尸体",
+      "onboard_time": 1733450659,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 182233,
@@ -8811,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179422,
+      "num": 179422,
+      "word": "三十年前的羽绒服比我穿的潮",
+      "onboard_time": 1733450959,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 179341,
       "num": 179341,
       "word": "泽连斯基称考虑先加入北约再收回领土",
@@ -8889,14 +8953,6 @@
       "onboard_time": 1733290222,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176754,
-      "num": 176754,
-      "word": "妈妈问被欺负的女儿为什么就她被打",
-      "onboard_time": 1733440575,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176703,
@@ -9003,12 +9059,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175204,
+      "num": 175204,
+      "word": "猫 扔下她一个人在这哭有点残忍",
+      "onboard_time": 1733448859,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "56.9%的大学生不想谈恋爱",
       "onboard_time": 1733212280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174999,
+      "num": 174999,
+      "word": "要不让艺洋跟你说两句",
+      "onboard_time": 1733451199,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 174503,
@@ -9193,6 +9265,14 @@
       "onboard_time": 1733316622,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170978,
+      "num": 137131,
+      "word": "黄子韬 我关注列表只有我老婆一个人",
+      "onboard_time": 1733450838,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 170904,
@@ -10139,6 +10219,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 156523,
+      "num": 156523,
+      "word": "祁天道曾获刑4年当时粉丝竟称等他",
+      "onboard_time": 1733449818,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 156363,
       "num": 156363,
       "word": "医学博士称压力大到有躯体化症状",
@@ -10281,6 +10369,14 @@
       "onboard_time": 1733324543,
       "rank": 39,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 155023,
+      "num": 155023,
+      "word": "广东潮州一医院天花板掉落",
+      "onboard_time": 1733445018,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154917,
@@ -10817,14 +10913,6 @@
       "onboard_time": 1733322503,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146265,
-      "num": 146265,
-      "word": "肖战实体专辑预售",
-      "onboard_time": 1733449578,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 146241,
@@ -11371,6 +11459,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 138492,
+      "num": 138492,
+      "word": "卢昱晓预制朋友圈",
+      "onboard_time": 1733442798,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138470,
       "num": 138470,
       "word": "婚内婚外把婚姻茧房拍出来了",
@@ -11409,14 +11505,6 @@
       "onboard_time": 1733068038,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138162,
-      "num": 138162,
-      "word": "猫 扔下她一个人在这哭有点残忍",
-      "onboard_time": 1733448859,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 138128,
@@ -11739,14 +11827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 133312,
-      "num": 133312,
-      "word": "卢昱晓预制朋友圈",
-      "onboard_time": 1733442798,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133218,
       "num": 133218,
       "word": "张杰说我们不会再错过了",
@@ -11809,6 +11889,14 @@
       "onboard_time": 1732995131,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131663,
+      "num": 131663,
+      "word": "九重紫",
+      "onboard_time": 1733127678,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131649,
@@ -11977,14 +12065,6 @@
       "onboard_time": 1733109257,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128412,
-      "num": 128412,
-      "word": "九重紫",
-      "onboard_time": 1733127678,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 128393,
@@ -12491,6 +12571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121492,
+      "num": 121492,
+      "word": "一建成绩",
+      "onboard_time": 1733450779,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121487,
       "num": 121487,
       "word": "90后运动员因伤退役摆摊卖水果",
@@ -12600,6 +12688,14 @@
       "word": "0羊绒的羊绒衫店铺月销售额近500万",
       "onboard_time": 1733400318,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119745,
+      "num": 119745,
+      "word": "大雪标志着仲冬时节正式开始",
+      "onboard_time": 1733450179,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -12793,6 +12889,14 @@
       "onboard_time": 1733022377,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116312,
+      "num": 120579,
+      "word": "中国山河迎来了冰雪妆",
+      "onboard_time": 1733450060,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116302,
@@ -13011,6 +13115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112063,
+      "num": 112063,
+      "word": "大爷遇电信诈骗反赚骗子5万元",
+      "onboard_time": 1733451199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111727,
       "num": 111727,
       "word": "6岁才站起的罕见病孩子要研究飞机",
@@ -13104,14 +13216,6 @@
       "word": "为鼓励学生早起学校供应免费早餐",
       "onboard_time": 1733016616,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109568,
-      "num": 109568,
-      "word": "公司回应撞脸蔚来logo被判赔30万",
-      "onboard_time": 1733449519,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -13225,14 +13329,6 @@
       "onboard_time": 1733146642,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107730,
-      "num": 107730,
-      "word": "广东潮州一医院天花板掉落",
-      "onboard_time": 1733445018,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107520,
@@ -14433,14 +14529,6 @@
       "onboard_time": 1733202800,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83350,
-      "num": 83350,
-      "word": "祁天道曾获刑4年当时粉丝竟称等他",
-      "onboard_time": 1733449818,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 83326,
@@ -17323,6 +17411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35684,
+      "num": 175085,
+      "word": "原生鸿蒙碰一碰问一问玩出花了",
+      "onboard_time": 1733450598,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 35571,
       "num": 41270,
       "word": "为什么说新疆棉是世界顶级",
@@ -17665,6 +17761,14 @@
       "onboard_time": 1733117238,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31835,
+      "num": 153301,
+      "word": "华为MateX6强得飞起",
+      "onboard_time": 1733450598,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 31804,

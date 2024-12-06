@@ -1,0 +1,410 @@
+{
+  "runTime": 1733451217447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2720304,
+        "num": 2720304,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1664514,
+        "num": 1664514,
+        "word": "当地机场回应2万具尸体事件",
+        "onboard_time": 1733448018,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198913,
+        "num": 1010593,
+        "word": "网红祁天道被拘账号被封禁",
+        "onboard_time": 1733447719,
+        "rank": 2,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2242210,
+        "num": 1008332,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1003406,
+        "num": 1003406,
+        "word": "双轨",
+        "onboard_time": 1733441956,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 961072,
+        "num": 961072,
+        "word": "哥伦比亚",
+        "onboard_time": 1733447419,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 718977,
+        "num": 718977,
+        "word": "间谍诱骗中学生拍军事设施",
+        "onboard_time": 1733444840,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627200,
+        "num": 627200,
+        "word": "肖战实体专辑预售",
+        "onboard_time": 1733449578,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 494568,
+        "num": 494568,
+        "word": "黄圣依开了七个小时的车",
+        "onboard_time": 1733433130,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245837,
+        "num": 432247,
+        "word": "哥伦比亚过去存在大量人口贩运案例",
+        "onboard_time": 1733449938,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 646574,
+        "num": 426713,
+        "word": "彩虹夫妇决定结扎",
+        "onboard_time": 1733446639,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416120,
+        "num": 416120,
+        "word": "原来上午10点喝咖啡效果更好",
+        "onboard_time": 1733445980,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 398338,
+        "num": 398338,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317202,
+        "num": 317202,
+        "word": "莎头",
+        "onboard_time": 1733447958,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304011,
+        "num": 304011,
+        "word": "韩国执政党党首称尹锡悦须尽早停职",
+        "onboard_time": 1733446099,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284207,
+        "num": 284207,
+        "word": "费沁源退团",
+        "onboard_time": 1733440936,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263060,
+        "num": 263060,
+        "word": "解清帅回应拒绝富翁爸爸3房1车",
+        "onboard_time": 1733444059,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253636,
+        "num": 253636,
+        "word": "公司回应撞脸蔚来logo被判赔30万",
+        "onboard_time": 1733449519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229492,
+        "num": 229492,
+        "word": "如果下雪了你最想做什么",
+        "onboard_time": 1733439496,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211835,
+        "num": 211835,
+        "word": "糖小幽为Doinb鸣不平",
+        "onboard_time": 1733450539,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 400755,
+        "num": 211271,
+        "word": "妈妈按天给大学生女儿发50元",
+        "onboard_time": 1733444840,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224703,
+        "num": 208893,
+        "word": "孕妇快生遇自家车更新系统只得打车",
+        "onboard_time": 1733444239,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205932,
+        "num": 205932,
+        "word": "联合国回应哥伦比亚2万具尸体事件",
+        "onboard_time": 1733449938,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190125,
+        "num": 201065,
+        "word": "徐梦洁 大漏勺",
+        "onboard_time": 1733440575,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190489,
+        "num": 200334,
+        "word": "虞书欣 为了爱我的你们我也会加油的",
+        "onboard_time": 1733441656,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200075,
+        "num": 200075,
+        "word": "男子年付房租房东却只收到1个月的",
+        "onboard_time": 1733410098,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195328,
+        "num": 195328,
+        "word": "妈妈问被欺负的女儿为什么就她被打",
+        "onboard_time": 1733440575,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182334,
+        "num": 182334,
+        "word": "哥伦比亚称检查27个机库没有尸体",
+        "onboard_time": 1733450659,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 179422,
+        "num": 179422,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175204,
+        "num": 175204,
+        "word": "猫 扔下她一个人在这哭有点残忍",
+        "onboard_time": 1733448859,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35684,
+        "num": 175085,
+        "word": "原生鸿蒙碰一碰问一问玩出花了",
+        "onboard_time": 1733450598,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174999,
+        "num": 174999,
+        "word": "要不让艺洋跟你说两句",
+        "onboard_time": 1733451199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 160369,
+        "word": "唐嫣粉色生日大片",
+        "onboard_time": 1733445139,
+        "rank": 32,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "祁天道曾获刑4年当时粉丝竟称等他",
+        "onboard_time": 1733449818,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155761,
+        "num": 155761,
+        "word": "李行亮 杨子留几手哪个脑袋被驴踢了",
+        "onboard_time": 1733408361,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155023,
+        "num": 155023,
+        "word": "广东潮州一医院天花板掉落",
+        "onboard_time": 1733445018,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31835,
+        "num": 153301,
+        "word": "华为MateX6强得飞起",
+        "onboard_time": 1733450598,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153161,
+        "num": 153161,
+        "word": "大雪",
+        "onboard_time": 1733442497,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141492,
+        "num": 141492,
+        "word": "叙利亚政府军失去对哈马控制",
+        "onboard_time": 1733439555,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138492,
+        "num": 138492,
+        "word": "卢昱晓预制朋友圈",
+        "onboard_time": 1733442798,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170978,
+        "num": 137131,
+        "word": "黄子韬 我关注列表只有我老婆一个人",
+        "onboard_time": 1733450838,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131663,
+        "num": 131663,
+        "word": "九重紫",
+        "onboard_time": 1733446998,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121492,
+        "num": 121492,
+        "word": "一建成绩",
+        "onboard_time": 1733450779,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120728,
+        "num": 120728,
+        "word": "文化中国行看大雪节气",
+        "onboard_time": 1733444481,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116312,
+        "num": 120579,
+        "word": "中国山河迎来了冰雪妆",
+        "onboard_time": 1733450060,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120488,
+        "num": 120488,
+        "word": "男子吃7天汉堡后抽出牛奶血",
+        "onboard_time": 1733442497,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119745,
+        "num": 119745,
+        "word": "大雪标志着仲冬时节正式开始",
+        "onboard_time": 1733450179,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113533,
+        "num": 113533,
+        "word": "叙利亚反政府武装攻入哈马市区",
+        "onboard_time": 1733439555,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112063,
+        "num": 112063,
+        "word": "大爷遇电信诈骗反赚骗子5万元",
+        "onboard_time": 1733451199,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111495,
+        "num": 111495,
+        "word": "2024年倒数第二个节气",
+        "onboard_time": 1733438534,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设一支强大的现代化信息支援部队#"
+    }
+  }
+}
