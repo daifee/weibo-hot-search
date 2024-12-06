@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733470669861,
+  "endTime": 1733473854128,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992157,
+      "num": 992157,
+      "word": "正豪大大鸡排关闭中国大陆所有门店",
+      "onboard_time": 1733467520,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 982089,
       "num": 982089,
       "word": "间谍诱骗中学生拍军事设施",
@@ -139,14 +147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 960046,
-      "num": 960046,
-      "word": "正豪大大鸡排关闭中国大陆所有门店",
-      "onboard_time": 1733467520,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 940002,
       "num": 864856,
       "word": "特朗普提名下任驻华大使",
@@ -161,6 +161,14 @@
       "onboard_time": 1733463561,
       "rank": 25,
       "category": "作品衍生,电竞"
+    },
+    {
+      "raw_hot": 847658,
+      "num": 847658,
+      "word": "疑照片被曝光女孩屡次放火骚扰邻居",
+      "onboard_time": 1733469678,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838495,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664127,
+      "num": 567961,
+      "word": "孟子义人脉",
+      "onboard_time": 1733471601,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647502,
       "num": 647502,
       "word": "妈妈按天给大学生女儿发50元生活费",
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594717,
+      "num": 387129,
+      "word": "世界上怀孕时间最长的动物排行",
+      "onboard_time": 1733473699,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 562215,
       "num": 195838,
       "word": "黄子韬婚后状态",
@@ -259,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 545033,
+      "num": 406019,
+      "word": "跳青海摇8天瘦了10斤",
+      "onboard_time": 1733470039,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 543965,
       "num": 614143,
       "word": "哥伦比亚称检查27个机库没有尸体",
       "onboard_time": 1733450659,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 541501,
+      "num": 437649,
+      "word": "孙悦公开和科比往事",
+      "onboard_time": 1733469979,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 540229,
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 517067,
-      "num": 378556,
+      "num": 401632,
       "word": "杨和苏 离谱",
       "onboard_time": 1733468479,
       "rank": 22,
@@ -467,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 392228,
+      "num": 392228,
+      "word": "白夜破晓 be",
+      "onboard_time": 1733468479,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391159,
       "num": 467457,
       "word": "尹锡悦宣布戒严影响一波又一波",
@@ -475,11 +523,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386656,
+      "num": 386656,
+      "word": "藤井树",
+      "onboard_time": 1733468240,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377637,
       "num": 507919,
       "word": "公司回应撞脸蔚来logo被判赔30万",
       "onboard_time": 1733449519,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376862,
+      "num": 376862,
+      "word": "物业发通知禁止住户养宠物否则捕杀",
+      "onboard_time": 1733470519,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -505,14 +569,6 @@
       "onboard_time": 1733446099,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 350101,
-      "num": 311220,
-      "word": "藤井树",
-      "onboard_time": 1733468240,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 347561,
@@ -555,12 +611,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 314076,
-      "num": 314076,
-      "word": "跳青海摇8天瘦了10斤",
-      "onboard_time": 1733470039,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 311844,
+      "num": 311844,
+      "word": "向佐穿女装带货首场卖出5千万",
+      "onboard_time": 1733472139,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 306805,
@@ -577,6 +633,14 @@
       "onboard_time": 1733408361,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303026,
+      "num": 332141,
+      "word": "警方正调查中山美穗死因",
+      "onboard_time": 1733468300,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 300817,
@@ -619,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266626,
+      "num": 431083,
+      "word": "被虐致死女童曾两天不吃不睡",
+      "onboard_time": 1733472379,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266079,
       "num": 266079,
       "word": "男子年付房租房东却只收到1个月的",
@@ -633,6 +705,14 @@
       "onboard_time": 1733464520,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257351,
+      "num": 257351,
+      "word": "江秋莲发布谭斌道歉信和保证书",
+      "onboard_time": 1733472558,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254538,
@@ -675,20 +755,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244519,
+      "num": 244519,
+      "word": "毕业后才懂英语四六级有多重要",
+      "onboard_time": 1733472260,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
       "onboard_time": 1733458460,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236764,
-      "num": 322259,
-      "word": "疑照片被曝光女孩屡次放火骚扰邻居",
-      "onboard_time": 1733469678,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236599,
@@ -777,6 +857,14 @@
       "onboard_time": 1733467999,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206857,
+      "num": 206857,
+      "word": "徐明浩 收听5907",
+      "onboard_time": 1733472919,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 206254,
@@ -907,6 +995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193110,
+      "num": 193110,
+      "word": "字节8位数年薪挖走阿里大模型人才",
+      "onboard_time": 1733473461,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 192550,
       "num": 192550,
       "word": "张韶涵为不吃老本选择精进唱功",
@@ -921,14 +1017,6 @@
       "onboard_time": 1733466259,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191684,
-      "num": 304833,
-      "word": "孙悦公开和科比往事",
-      "onboard_time": 1733469979,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 191678,
@@ -953,6 +1041,14 @@
       "onboard_time": 1733465659,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190055,
+      "num": 190055,
+      "word": "儿媳悼念琼瑶",
+      "onboard_time": 1733471840,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 186626,
@@ -1027,6 +1123,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180723,
+      "num": 427819,
+      "word": "人人网到底收藏了多少明星黑历史",
+      "onboard_time": 1733470519,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180677,
+      "num": 180677,
+      "word": "世间再无藤井树小姐",
+      "onboard_time": 1733473159,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180310,
       "num": 187322,
       "word": "易烊千玺清扫心上的垢尘",
@@ -1091,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171462,
+      "num": 171462,
+      "word": "隋文静复出",
+      "onboard_time": 1733471300,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170978,
       "num": 137131,
       "word": "黄子韬 我关注列表只有我老婆一个人",
@@ -1120,6 +1240,14 @@
       "word": "胖东来正研究过度代购解决方法",
       "onboard_time": 1733457860,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168813,
+      "num": 168813,
+      "word": "国家明确不得传播暴饮暴食直播",
+      "onboard_time": 1733468419,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1169,6 +1297,14 @@
       "onboard_time": 1733466800,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161109,
+      "num": 391276,
+      "word": "韩国首都防卫司令官被停职",
+      "onboard_time": 1733471962,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 160682,
@@ -1331,14 +1467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139426,
-      "num": 139426,
-      "word": "物业发通知禁止住户养宠物否则捕杀",
-      "onboard_time": 1733470519,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138492,
       "num": 138492,
       "word": "卢昱晓预制朋友圈",
@@ -1385,22 +1513,6 @@
       "onboard_time": 1733452460,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134486,
-      "num": 134486,
-      "word": "人人网到底收藏了多少明星黑历史",
-      "onboard_time": 1733470519,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134208,
-      "num": 134208,
-      "word": "国家明确不得传播暴饮暴食直播",
-      "onboard_time": 1733468419,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133799,
@@ -1483,20 +1595,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127391,
+      "num": 392322,
+      "word": "代号鸢 我以为他睡着了",
+      "onboard_time": 1733473101,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127115,
       "num": 202876,
       "word": "声生不息用15部电影开场",
       "onboard_time": 1733465838,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126624,
-      "num": 332141,
-      "word": "警方正调查中山美穗死因",
-      "onboard_time": 1733468300,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 125039,
@@ -1691,12 +1803,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97967,
+      "num": 882860,
+      "word": "大雪一落地就成了诗",
+      "onboard_time": 1733472621,
+      "rank": 2,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94788,
       "num": 94788,
       "word": "Gemini当爸爸了",
       "onboard_time": 1733397019,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93271,
+      "num": 415561,
+      "word": "甘肃高三女生酒后被强奸案今日开庭",
+      "onboard_time": 1733472499,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90335,
@@ -1795,6 +1923,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 79346,
+      "num": 402479,
+      "word": "李宇春清唱春风十里",
+      "onboard_time": 1733472558,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78259,
       "num": 78259,
       "word": "韩国政坛现实中的大戏还在进行",
@@ -1873,6 +2009,14 @@
       "onboard_time": 1733458460,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 67926,
+      "num": 338465,
+      "word": "王亚飞给周也化的冬日暖调妆",
+      "onboard_time": 1733471541,
+      "rank": 33,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 65900,
@@ -1979,6 +2123,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55871,
+      "num": 409944,
+      "word": "反复咳嗽怎样才能好得快",
+      "onboard_time": 1733472321,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 53630,
+      "num": 445455,
+      "word": "中方今年已8次反制美对台军售",
+      "onboard_time": 1733472081,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52406,
       "num": 52406,
       "word": "麦子阿姨纪录片",
@@ -2056,6 +2216,14 @@
       "word": "律师解读一烤炉通风孔撞脸蔚来logo",
       "onboard_time": 1733468598,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40919,
+      "num": 389920,
+      "word": "酒店经理厕所强吻猥亵女下属被判刑",
+      "onboard_time": 1733472558,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2179,6 +2347,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29349,
+      "num": 390417,
+      "word": "陈小春黄子弘凡林智乐蝶变",
+      "onboard_time": 1733473220,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28079,
+      "num": 413169,
+      "word": "上班途中被口头辞退员工获赔2万元",
+      "onboard_time": 1733473581,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27082,
       "num": 253520,
       "word": "藏在香奈儿秀场里的细节",
@@ -2243,6 +2427,14 @@
       "category": "其它,旅游"
     },
     {
+      "raw_hot": 19040,
+      "num": 419876,
+      "word": "琼瑶65年完成70多部作品",
+      "onboard_time": 1733473461,
+      "rank": 16,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 19016,
       "num": 103175,
       "word": "春节是中华文化最重要的传统节日",
@@ -2289,6 +2481,14 @@
       "onboard_time": 1733427252,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12623,
+      "num": 388485,
+      "word": "旅拍百分百出片经验分享",
+      "onboard_time": 1733472321,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 12517,
