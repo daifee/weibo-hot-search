@@ -1,0 +1,410 @@
+{
+  "runTime": 1733484963375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 988309,
+        "num": 1158129,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944428,
+        "num": 944428,
+        "word": "莎头组合vs川上流星面手凛",
+        "onboard_time": 1733481682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67644,
+        "num": 729840,
+        "word": "大雪一落地就成了诗",
+        "onboard_time": 1733472621,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 679284,
+        "num": 679284,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 527640,
+        "num": 527640,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481424,
+        "num": 481424,
+        "word": "韩国国会被全面管制",
+        "onboard_time": 1733478919,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 431929,
+        "num": 431929,
+        "word": "国乒vs日本",
+        "onboard_time": 1733481260,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429455,
+        "num": 429455,
+        "word": "课间延长到15分钟学生在干啥",
+        "onboard_time": 1733477779,
+        "rank": 7,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 418309,
+        "num": 418309,
+        "word": "莎头再合体",
+        "onboard_time": 1733482400,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103258,
+        "num": 388022,
+        "word": "尹锡悦暂时不会前往国会",
+        "onboard_time": 1733468662,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1236267,
+        "num": 382504,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 369067,
+        "num": 369067,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 842545,
+        "num": 359541,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509452,
+        "num": 355924,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129935,
+        "num": 342916,
+        "word": "莎头组合2比1日本",
+        "onboard_time": 1733484498,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199337,
+        "num": 336303,
+        "word": "南柱赫退伍后首现身",
+        "onboard_time": 1733483838,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326882,
+        "num": 326882,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129144,
+        "num": 326745,
+        "word": "王曼昱vs赤江夏星",
+        "onboard_time": 1733484681,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54615,
+        "num": 325891,
+        "word": "莎头连续两天出战",
+        "onboard_time": 1733484139,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10599,
+        "num": 325138,
+        "word": "老两口互不打扰刷剧到深夜",
+        "onboard_time": 1733484681,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480297,
+        "num": 324397,
+        "word": "窦骁何超莲撒狗粮现场",
+        "onboard_time": 1733480659,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323925,
+        "num": 323925,
+        "word": "白夜追凶给了七年一个结局",
+        "onboard_time": 1733476220,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527666,
+        "num": 323395,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376539,
+        "num": 319262,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46459,
+        "num": 315966,
+        "word": "黑神话入选时代杂志2024最佳游戏",
+        "onboard_time": 1733484859,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112304,
+        "num": 313023,
+        "word": "猎罪图鉴原汁原罪回归",
+        "onboard_time": 1733482579,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309659,
+        "num": 309659,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 270997,
+        "num": 299596,
+        "word": "吴磊赵今麦2024云合现偶TOP1",
+        "onboard_time": 1733483598,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208758,
+        "num": 292941,
+        "word": "向佐穿女装带货首场卖出5千万",
+        "onboard_time": 1733472139,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290840,
+        "num": 290840,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 276649,
+        "num": 276649,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 263286,
+        "num": 263286,
+        "word": "福宝1600天健康平安",
+        "onboard_time": 1733483300,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174597,
+        "num": 262531,
+        "word": "于正 只剩下心发慌",
+        "onboard_time": 1733484320,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262449,
+        "num": 262449,
+        "word": "毕业后才懂英语四六级有多重要",
+        "onboard_time": 1733472260,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98251,
+        "num": 251874,
+        "word": "EDG新赛季阵容公布",
+        "onboard_time": 1733483660,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242790,
+        "num": 242790,
+        "word": "香港4胞胎家庭月租60000的房子",
+        "onboard_time": 1733484019,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200498,
+        "num": 200498,
+        "word": "成都混团中国vs日本阵容安排",
+        "onboard_time": 1733483959,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196856,
+        "num": 196856,
+        "word": "花3.75元做了两荤一素的午餐",
+        "onboard_time": 1733479219,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191666,
+        "num": 191666,
+        "word": "张真源跑男最忠实的观众",
+        "onboard_time": 1733483719,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183452,
+        "num": 183452,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180596,
+        "num": 180596,
+        "word": "虞书欣墨镜双马尾",
+        "onboard_time": 1733482099,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177164,
+        "num": 177164,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168715,
+        "num": 168715,
+        "word": "大冰含金量还在上升",
+        "onboard_time": 1733483419,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163063,
+        "num": 163063,
+        "word": "张峻豪Vlog",
+        "onboard_time": 1733484379,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158174,
+        "num": 158174,
+        "word": "王源 我的舞蹈排第二",
+        "onboard_time": 1733481799,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156933,
+        "num": 156933,
+        "word": "黄杨钿甜17岁就有五部待播剧",
+        "onboard_time": 1733481499,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155783,
+        "num": 155783,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153488,
+        "num": 153488,
+        "word": "跳青海摇8天瘦了10斤",
+        "onboard_time": 1733470039,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151744,
+        "num": 151744,
+        "word": "又一个考教资考疯了的",
+        "onboard_time": 1733479582,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133572,
+        "num": 133572,
+        "word": "招商银行崩了",
+        "onboard_time": 1733484859,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
