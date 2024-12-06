@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733462604758,
+  "endTime": 1733463671168,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535592,
+      "num": 535592,
+      "word": "TWICE回归",
+      "onboard_time": 1733462599,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 513680,
       "num": 513680,
       "word": "白夜破晓大结局",
@@ -264,6 +272,14 @@
       "word": "NewJeans新立场",
       "onboard_time": 1733458762,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 476433,
+      "num": 476433,
+      "word": "宋仲基首尔发布会状态",
+      "onboard_time": 1733461581,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1733455878,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391159,
+      "num": 467457,
+      "word": "尹锡悦宣布戒严影响一波又一波",
+      "onboard_time": 1733458880,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 377637,
@@ -451,22 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270032,
-      "num": 270032,
-      "word": "尹锡悦宣布戒严影响一波又一波",
-      "onboard_time": 1733458880,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 269711,
-      "num": 191619,
-      "word": "宋仲基首尔发布会状态",
-      "onboard_time": 1733461581,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266079,
       "num": 266079,
       "word": "男子年付房租房东却只收到1个月的",
@@ -515,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242465,
+      "num": 191852,
+      "word": "icon怒喷麦琳",
+      "onboard_time": 1733463561,
+      "rank": 25,
+      "category": "作品衍生,电竞"
+    },
+    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225178,
+      "num": 191187,
+      "word": "朴彩英主打曲MV",
+      "onboard_time": 1733462780,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213454,
       "num": 213454,
       "word": "国家烟草专卖局原副局长徐㼆被逮捕",
@@ -577,6 +601,14 @@
       "onboard_time": 1733455098,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206254,
+      "num": 189042,
+      "word": "汪苏泷大娱乐家新年限定演唱会",
+      "onboard_time": 1733463080,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 205932,
@@ -611,11 +643,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202213,
+      "num": 187441,
+      "word": "关宏峰到底死没死",
+      "onboard_time": 1733462900,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201149,
       "num": 321373,
       "word": "时代峰峻江苏公司注销",
       "onboard_time": 1733459421,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201125,
+      "num": 190936,
+      "word": "宋茜 挥手告别祝福就好",
+      "onboard_time": 1733461880,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -635,12 +683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196168,
+      "num": 196168,
+      "word": "世界之外此间即无间",
+      "onboard_time": 1733462660,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195328,
       "num": 195328,
       "word": "妈妈问被欺负的女儿为什么就她被打",
       "onboard_time": 1733440575,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194001,
+      "num": 194001,
+      "word": "声生不息",
+      "onboard_time": 1733462599,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 193120,
@@ -675,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186626,
+      "num": 186626,
+      "word": "指纹编剧",
+      "onboard_time": 1733463141,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186432,
       "num": 186432,
       "word": "消费降级用螺蛳粉做了四菜一汤",
@@ -691,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185411,
+      "num": 185411,
+      "word": "杜小华已前往无锡采血认亲",
+      "onboard_time": 1733463259,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185006,
       "num": 185006,
       "word": "白百何裸妆",
@@ -700,7 +780,7 @@
     },
     {
       "raw_hot": 183123,
-      "num": 183123,
+      "num": 192249,
       "word": "王楚钦说问题有点多记不住",
       "onboard_time": 1733455759,
       "rank": 33,
@@ -713,6 +793,22 @@
       "onboard_time": 1733442497,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180866,
+      "num": 180866,
+      "word": "小小的老子哄老老的小子",
+      "onboard_time": 1733460800,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 180310,
+      "num": 187322,
+      "word": "易烊千玺清扫心上的垢尘",
+      "onboard_time": 1733462839,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 179809,
@@ -763,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170852,
-      "num": 190749,
-      "word": "宋茜 挥手告别祝福就好",
-      "onboard_time": 1733461880,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170689,
       "num": 237541,
       "word": "唐嫣粉色生日大片",
@@ -801,14 +889,6 @@
       "onboard_time": 1733460381,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165035,
-      "num": 165035,
-      "word": "小小的老子哄老老的小子",
-      "onboard_time": 1733460800,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 164873,
@@ -923,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150141,
+      "num": 150141,
+      "word": "奔跑吧送全员小卡",
+      "onboard_time": 1733462660,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145976,
       "num": 145976,
       "word": "花少6总导演道歉",
@@ -945,6 +1033,14 @@
       "onboard_time": 1733442497,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142050,
+      "num": 142050,
+      "word": "哈尔滨 冰雕辽宁舰",
+      "onboard_time": 1733462540,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 141903,
@@ -1009,14 +1105,6 @@
       "onboard_time": 1733396659,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133301,
-      "num": 133301,
-      "word": "哈尔滨 冰雕辽宁舰",
-      "onboard_time": 1733462540,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 131663,
@@ -1483,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57383,
+      "num": 191129,
+      "word": "海贼王1133话泪崩",
+      "onboard_time": 1733462299,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 55950,
       "num": 315798,
       "word": "沪指重新站上3400点",
@@ -1507,6 +1603,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 46397,
+      "num": 130048,
+      "word": "只有中国人才懂的金色浪漫",
+      "onboard_time": 1733463619,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45985,
       "num": 52030,
       "word": "黑白森林",
@@ -1529,14 +1633,6 @@
       "onboard_time": 1733458041,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44219,
-      "num": 191129,
-      "word": "海贼王1133话泪崩",
-      "onboard_time": 1733462299,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 38934,
@@ -1601,6 +1697,14 @@
       "onboard_time": 1733429292,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 31922,
+      "num": 193711,
+      "word": "刘雨昕时装十二月封面",
+      "onboard_time": 1733463320,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 31835,

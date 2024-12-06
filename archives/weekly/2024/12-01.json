@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733462604758,
+  "endTime": 1733463671168,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2891,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535592,
+      "num": 535592,
+      "word": "TWICE回归",
+      "onboard_time": 1733462599,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 533023,
       "num": 533023,
       "word": "网红公司盯上在校大学生",
@@ -3297,6 +3305,14 @@
       "onboard_time": 1733049440,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 476433,
+      "num": 476433,
+      "word": "宋仲基首尔发布会状态",
+      "onboard_time": 1733461581,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 475411,
@@ -4241,6 +4257,14 @@
       "onboard_time": 1733275580,
       "rank": 11,
       "category": "网红,舆论监督"
+    },
+    {
+      "raw_hot": 391159,
+      "num": 467457,
+      "word": "尹锡悦宣布戒严影响一波又一波",
+      "onboard_time": 1733458880,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 390278,
@@ -5819,27 +5843,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270032,
-      "num": 270032,
-      "word": "尹锡悦宣布戒严影响一波又一波",
-      "onboard_time": 1733458880,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 269995,
       "num": 236794,
       "word": "杨紫直播",
       "onboard_time": 1733389818,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269711,
-      "num": 191619,
-      "word": "宋仲基首尔发布会状态",
-      "onboard_time": 1733461581,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -6355,6 +6363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242465,
+      "num": 191852,
+      "word": "icon怒喷麦琳",
+      "onboard_time": 1733463561,
+      "rank": 25,
+      "category": "作品衍生,电竞"
+    },
+    {
       "raw_hot": 242399,
       "num": 819449,
       "word": "国乒vs德国",
@@ -6857,6 +6873,14 @@
       "onboard_time": 1733400081,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225178,
+      "num": 191187,
+      "word": "朴彩英主打曲MV",
+      "onboard_time": 1733462780,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 224641,
@@ -7595,6 +7619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 206254,
+      "num": 189042,
+      "word": "汪苏泷大娱乐家新年限定演唱会",
+      "onboard_time": 1733463080,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205932,
       "num": 205932,
       "word": "联合国回应哥伦比亚2万具尸体事件",
@@ -7843,6 +7875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202213,
+      "num": 187441,
+      "word": "关宏峰到底死没死",
+      "onboard_time": 1733462900,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "成都混团世界杯",
@@ -7912,6 +7952,14 @@
       "word": "时代峰峻江苏公司注销",
       "onboard_time": 1733459421,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201125,
+      "num": 190936,
+      "word": "宋茜 挥手告别祝福就好",
+      "onboard_time": 1733461880,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -8163,6 +8211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196168,
+      "num": 196168,
+      "word": "世界之外此间即无间",
+      "onboard_time": 1733462660,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195788,
       "num": 195788,
       "word": "收拾收拾准备投胎吧",
@@ -8313,6 +8369,14 @@
       "onboard_time": 1733122817,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194001,
+      "num": 194001,
+      "word": "声生不息",
+      "onboard_time": 1733462599,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 193685,
@@ -8779,6 +8843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186626,
+      "num": 186626,
+      "word": "指纹编剧",
+      "onboard_time": 1733463141,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186432,
       "num": 186432,
       "word": "消费降级用螺蛳粉做了四菜一汤",
@@ -8883,6 +8955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185411,
+      "num": 185411,
+      "word": "杜小华已前往无锡采血认亲",
+      "onboard_time": 1733463259,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185231,
       "num": 185231,
       "word": "张艺谋一家参加巴黎名媛舞会",
@@ -8980,7 +9060,7 @@
     },
     {
       "raw_hot": 183123,
-      "num": 183123,
+      "num": 192249,
       "word": "王楚钦说问题有点多记不住",
       "onboard_time": 1733455759,
       "rank": 33,
@@ -9107,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180866,
+      "num": 180866,
+      "word": "小小的老子哄老老的小子",
+      "onboard_time": 1733460800,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -9152,6 +9240,14 @@
       "word": "西湖被王一博粉丝包围了",
       "onboard_time": 1733305582,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180310,
+      "num": 187322,
+      "word": "易烊千玺清扫心上的垢尘",
+      "onboard_time": 1733462839,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -9635,14 +9731,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 170852,
-      "num": 190749,
-      "word": "宋茜 挥手告别祝福就好",
-      "onboard_time": 1733461880,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170818,
       "num": 170818,
       "word": "叙利亚或再次沦为大国博弈的沙盘",
@@ -10049,14 +10137,6 @@
       "onboard_time": 1733404459,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 165035,
-      "num": 165035,
-      "word": "小小的老子哄老老的小子",
-      "onboard_time": 1733460800,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 165030,
@@ -11107,6 +11187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150141,
+      "num": 150141,
+      "word": "奔跑吧送全员小卡",
+      "onboard_time": 1733462660,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150119,
       "num": 150119,
       "word": "全家去日本旅行我爸非要用英文交流",
@@ -11625,6 +11713,14 @@
       "onboard_time": 1733124319,
       "rank": 49,
       "category": "舆论监督,民生新闻"
+    },
+    {
+      "raw_hot": 142050,
+      "num": 142050,
+      "word": "哈尔滨 冰雕辽宁舰",
+      "onboard_time": 1733462540,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 142000,
@@ -12297,14 +12393,6 @@
       "onboard_time": 1733032878,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133301,
-      "num": 133301,
-      "word": "哈尔滨 冰雕辽宁舰",
-      "onboard_time": 1733462540,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 133218,
@@ -16459,6 +16547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57383,
+      "num": 191129,
+      "word": "海贼王1133话泪崩",
+      "onboard_time": 1733462299,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 57370,
       "num": 57370,
       "word": "也门胡塞武装宣布袭击了美军舰",
@@ -17179,6 +17275,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 46397,
+      "num": 130048,
+      "word": "只有中国人才懂的金色浪漫",
+      "onboard_time": 1733463619,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46384,
       "num": 431722,
       "word": "2024年宪法宣传周",
@@ -17337,14 +17441,6 @@
       "onboard_time": 1733235202,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 44219,
-      "num": 191129,
-      "word": "海贼王1133话泪崩",
-      "onboard_time": 1733462299,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 44066,
@@ -18321,6 +18417,14 @@
       "onboard_time": 1733067199,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31922,
+      "num": 193711,
+      "word": "刘雨昕时装十二月封面",
+      "onboard_time": 1733463320,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 31877,

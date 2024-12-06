@@ -1,0 +1,410 @@
+{
+  "runTime": 1733463671168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100489,
+        "num": 2100489,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1417157,
+        "num": 1417157,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68420,
+        "num": 1151337,
+        "word": "文化中国行看ChinaTravel有多火",
+        "onboard_time": 1733446879,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1440972,
+        "num": 1149269,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1116239,
+        "num": 1116239,
+        "word": "韩媒说中国春节已延续数千年",
+        "onboard_time": 1733455759,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115414,
+        "num": 1115414,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 566736,
+        "num": 566736,
+        "word": "女主播被禁后写道举报我的替我挡灾",
+        "onboard_time": 1733454980,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535592,
+        "num": 535592,
+        "word": "TWICE回归",
+        "onboard_time": 1733462599,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 476433,
+        "num": 476433,
+        "word": "宋仲基首尔发布会状态",
+        "onboard_time": 1733461581,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391159,
+        "num": 467457,
+        "word": "尹锡悦宣布戒严影响一波又一波",
+        "onboard_time": 1733458880,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466711,
+        "num": 466711,
+        "word": "孟子义 我不接受任何身材PUA",
+        "onboard_time": 1733456299,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462563,
+        "num": 462563,
+        "word": "白夜破晓大结局",
+        "onboard_time": 1733459180,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459122,
+        "num": 459122,
+        "word": "宇文玥还是泡着吧",
+        "onboard_time": 1733460141,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433359,
+        "num": 433359,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383880,
+        "num": 383880,
+        "word": "NewJeans新立场",
+        "onboard_time": 1733458762,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296102,
+        "num": 296102,
+        "word": "内蒙古3岁女童被虐案一审宣判",
+        "onboard_time": 1733455878,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285894,
+        "num": 285894,
+        "word": "叙利亚首都仅剩最后一道重要防线",
+        "onboard_time": 1733452039,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196168,
+        "num": 196168,
+        "word": "世界之外此间即无间",
+        "onboard_time": 1733462660,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194001,
+        "num": 194001,
+        "word": "声生不息",
+        "onboard_time": 1733462599,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31922,
+        "num": 193711,
+        "word": "刘雨昕时装十二月封面",
+        "onboard_time": 1733463320,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 378866,
+        "num": 193414,
+        "word": "关宏峰以关宏宇的身份下线",
+        "onboard_time": 1733460260,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260919,
+        "num": 192982,
+        "word": "刘亦菲祝亲爱滴糖生日快乐",
+        "onboard_time": 1733455940,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248974,
+        "num": 192869,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 194912,
+        "num": 192589,
+        "word": "韩媒关注中国春节申遗成功",
+        "onboard_time": 1733454078,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80976,
+        "num": 192249,
+        "word": "王楚钦说问题有点多记不住",
+        "onboard_time": 1733455759,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242465,
+        "num": 191852,
+        "word": "icon怒喷麦琳",
+        "onboard_time": 1733463561,
+        "rank": 25,
+        "category": "作品衍生,电竞"
+      },
+      {
+        "raw_hot": 232682,
+        "num": 191349,
+        "word": "妈妈按天给大学生女儿发50元",
+        "onboard_time": 1733444840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225178,
+        "num": 191187,
+        "word": "朴彩英主打曲MV",
+        "onboard_time": 1733462780,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201125,
+        "num": 190936,
+        "word": "宋茜 挥手告别祝福就好",
+        "onboard_time": 1733461880,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190595,
+        "num": 190595,
+        "word": "原来化妆的尽头是极简",
+        "onboard_time": 1733452398,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224667,
+        "num": 190184,
+        "word": "何与双轨",
+        "onboard_time": 1733452157,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206254,
+        "num": 189042,
+        "word": "汪苏泷大娱乐家新年限定演唱会",
+        "onboard_time": 1733463080,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202305,
+        "num": 188912,
+        "word": "刘亦菲连续10年为唐嫣庆生",
+        "onboard_time": 1733460141,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202213,
+        "num": 187441,
+        "word": "关宏峰到底死没死",
+        "onboard_time": 1733462900,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180310,
+        "num": 187322,
+        "word": "易烊千玺清扫心上的垢尘",
+        "onboard_time": 1733462839,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186626,
+        "num": 186626,
+        "word": "指纹编剧",
+        "onboard_time": 1733463141,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185411,
+        "num": 185411,
+        "word": "杜小华已前往无锡采血认亲",
+        "onboard_time": 1733463259,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180866,
+        "num": 180866,
+        "word": "小小的老子哄老老的小子",
+        "onboard_time": 1733460800,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57383,
+        "num": 159911,
+        "word": "海贼王1133话泪崩",
+        "onboard_time": 1733462299,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 158405,
+        "num": 158405,
+        "word": "特朗普提名下任驻华大使",
+        "onboard_time": 1733452758,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156576,
+        "num": 156576,
+        "word": "大爷遇电信诈骗反赚骗子5万元",
+        "onboard_time": 1733451199,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "光遇维护",
+        "onboard_time": 1733453719,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152637,
+        "num": 152637,
+        "word": "林志颖带儿子Jenson看周杰伦演唱会",
+        "onboard_time": 1733459421,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152005,
+        "num": 152005,
+        "word": "黄明昊内娱管培生",
+        "onboard_time": 1733460381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150141,
+        "num": 150141,
+        "word": "奔跑吧送全员小卡",
+        "onboard_time": 1733462660,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142050,
+        "num": 142050,
+        "word": "哈尔滨 冰雕辽宁舰",
+        "onboard_time": 1733462540,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140608,
+        "num": 140608,
+        "word": "世界之外",
+        "onboard_time": 1733459239,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139700,
+        "num": 139700,
+        "word": "哥伦比亚称检查27个机库没有尸体",
+        "onboard_time": 1733450659,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134726,
+        "num": 134726,
+        "word": "会长是女仆大人 伟大的告白",
+        "onboard_time": 1733460920,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 46397,
+        "num": 130048,
+        "word": "只有中国人才懂的金色浪漫",
+        "onboard_time": 1733463619,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#开创我军网络信息体系建设新局面#"
+    }
+  }
+}
