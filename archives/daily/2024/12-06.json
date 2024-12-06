@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733457011284,
+  "endTime": 1733459330444,
   "band_list": [
     {
       "raw_hot": 2720304,
@@ -9,6 +9,14 @@
       "onboard_time": 1733441718,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2556255,
+      "num": 2556255,
+      "word": "楚乔传2开机",
+      "onboard_time": 1733457379,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2541717,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2242210,
-      "num": 1046628,
+      "num": 1772456,
       "word": "虞书欣怎么了",
       "onboard_time": 1733447719,
       "rank": 3,
@@ -41,6 +49,14 @@
       "onboard_time": 1733454078,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1112239,
+      "num": 1112239,
+      "word": "韩媒说中国春节已延续数千年",
+      "onboard_time": 1733455759,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1091351,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 675472,
+      "num": 675472,
+      "word": "女主播被禁后写道举报我的替我挡灾",
+      "onboard_time": 1733454980,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646574,
       "num": 426713,
       "word": "彩虹夫妇决定结扎",
@@ -171,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511716,
-      "num": 398624,
-      "word": "女主播被禁后写道举报我的替我挡灾",
-      "onboard_time": 1733454980,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500852,
       "num": 500852,
       "word": "黄圣依开了七个小时的车",
@@ -215,6 +231,14 @@
       "num": 329303,
       "word": "虞书欣 为了爱我的你们我也会加油的",
       "onboard_time": 1733441656,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 453305,
+      "num": 453305,
+      "word": "刘亦菲祝亲爱滴糖生日快乐",
+      "onboard_time": 1733455940,
       "rank": 11,
       "category": "艺人"
     },
@@ -259,11 +283,11 @@
       "category": "舆论监督,网红"
     },
     {
-      "raw_hot": 387901,
-      "num": 387901,
-      "word": "刘亦菲祝亲爱滴糖生日快乐",
-      "onboard_time": 1733455940,
-      "rank": 11,
+      "raw_hot": 399733,
+      "num": 399733,
+      "word": "孟子义 我不接受任何身材PUA",
+      "onboard_time": 1733456299,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -307,14 +331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 338265,
-      "num": 338265,
-      "word": "韩媒说中国春节已延续数千年",
-      "onboard_time": 1733455759,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327164,
       "num": 327164,
       "word": "光遇维护",
@@ -353,6 +369,14 @@
       "onboard_time": 1733397560,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 298904,
+      "num": 298904,
+      "word": "NewJeans新立场",
+      "onboard_time": 1733458762,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 298744,
@@ -419,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240640,
+      "num": 240640,
+      "word": "丁禹兮璀璨如星",
+      "onboard_time": 1733458460,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236599,
       "num": 208893,
       "word": "孕妇快生遇自家车更新系统只得打车",
@@ -451,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220340,
-      "num": 314160,
-      "word": "孟子义 我不接受任何身材PUA",
-      "onboard_time": 1733456299,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213454,
       "num": 213454,
       "word": "国家烟草专卖局原副局长徐㼆被逮捕",
@@ -475,6 +499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210537,
+      "num": 306917,
+      "word": "00后裸辞20次最爱工作是保安",
+      "onboard_time": 1733455098,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205932,
       "num": 205932,
       "word": "联合国回应哥伦比亚2万具尸体事件",
@@ -483,11 +515,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205486,
+      "num": 205486,
+      "word": "王珞丹 中女困境不属于我一个人",
+      "onboard_time": 1733456179,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "女子听到朋友患肠癌一查自己也有",
       "onboard_time": 1733386399,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203345,
+      "num": 203345,
+      "word": "非遗春节意味着什么",
+      "onboard_time": 1733456719,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -504,14 +552,6 @@
       "word": "妈妈问被欺负的女儿为什么就她被打",
       "onboard_time": 1733440575,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194845,
-      "num": 194845,
-      "word": "非遗春节意味着什么",
-      "onboard_time": 1733456719,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -596,7 +636,7 @@
     },
     {
       "raw_hot": 170689,
-      "num": 170689,
+      "num": 237541,
       "word": "唐嫣粉色生日大片",
       "onboard_time": 1733445139,
       "rank": 24,
@@ -611,12 +651,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 169792,
-      "num": 169792,
-      "word": "王珞丹 中女困境不属于我一个人",
-      "onboard_time": 1733456179,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 164873,
+      "num": 164873,
+      "word": "人类第11次成功预警小行星撞击",
+      "onboard_time": 1733455161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162460,
@@ -635,20 +675,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160395,
-      "num": 306917,
-      "word": "00后裸辞20次最爱工作是保安",
-      "onboard_time": 1733455098,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 158862,
+      "num": 158862,
+      "word": "白夜破晓大结局",
+      "onboard_time": 1733459180,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 158235,
-      "num": 158235,
-      "word": "人类第11次成功预警小行星撞击",
-      "onboard_time": 1733455161,
+      "raw_hot": 158121,
+      "num": 158121,
+      "word": "尹锡悦宣布戒严影响一波又一波",
+      "onboard_time": 1733458880,
       "rank": 43,
-      "category": "民生新闻"
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157733,
+      "num": 157733,
+      "word": "孟子义李昀锐两年二搭",
+      "onboard_time": 1733457200,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 156523,
@@ -707,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148381,
+      "num": 148381,
+      "word": "世界之外",
+      "onboard_time": 1733459239,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145976,
       "num": 145976,
       "word": "花少6总导演道歉",
@@ -721,6 +777,14 @@
       "onboard_time": 1733403980,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144260,
+      "num": 144260,
+      "word": "胖东来正研究过度代购解决方法",
+      "onboard_time": 1733457860,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143584,
@@ -836,7 +900,7 @@
     },
     {
       "raw_hot": 128988,
-      "num": 1074846,
+      "num": 1831901,
       "word": "文化中国行看ChinaTravel有多火",
       "onboard_time": 1733446879,
       "rank": 37,
@@ -873,6 +937,14 @@
       "onboard_time": 1733450179,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117140,
+      "num": 221108,
+      "word": "赵丽颖乔妍的新事碎片",
+      "onboard_time": 1733457801,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 116707,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1733397199,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89582,
+      "num": 434942,
+      "word": "韩国成立紧急戒严事件特别调查本部",
+      "onboard_time": 1733458640,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89428,
@@ -1243,12 +1323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45350,
+      "num": 236839,
+      "word": "出题吧北江群众",
+      "onboard_time": 1733458041,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38934,
       "num": 628688,
       "word": "文化中国行感受春节年俗",
       "onboard_time": 1733406741,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 37057,
+      "num": 239577,
+      "word": "消毒级卫生巾vs普通级卫生巾",
+      "onboard_time": 1733458460,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36907,
@@ -1332,15 +1428,15 @@
     },
     {
       "raw_hot": 29688,
-      "num": 203392,
+      "num": 216584,
       "word": "vivoS20有自己的金色美学",
       "onboard_time": 1733456239,
       "rank": 29,
       "category": "数码"
     },
     {
-      "raw_hot": 26931,
-      "num": 160673,
+      "raw_hot": 27082,
+      "num": 253520,
       "word": "藏在香奈儿秀场里的细节",
       "onboard_time": 1733456239,
       "rank": 40,
@@ -1476,6 +1572,9 @@
     },
     {
       "word": "#开创我军网络信息体系建设新局面#"
+    },
+    {
+      "word": "#推动我军网络信息体系建设跨越发展#"
     }
   ]
 }
