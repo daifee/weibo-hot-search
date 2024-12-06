@@ -1,0 +1,410 @@
+{
+  "runTime": 1733510780120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 359186,
+        "num": 359186,
+        "word": "江西9胞胎女子开始考虑追责",
+        "onboard_time": 1733500519,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245226,
+        "num": 245226,
+        "word": "双轨剧组开除泄密工作人员",
+        "onboard_time": 1733501180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14975,
+        "num": 202826,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 192788,
+        "num": 192788,
+        "word": "哥伦比亚回应2万具机库尸体事件",
+        "onboard_time": 1733500039,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141227,
+        "num": 141227,
+        "word": "李行亮承诺离婚后不会怀恨在心",
+        "onboard_time": 1733495301,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139946,
+        "num": 93016,
+        "word": "喜综史上第一个满分作品",
+        "onboard_time": 1733499440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119964,
+        "num": 87596,
+        "word": "警方回应中山美穗死因",
+        "onboard_time": 1733507353,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76374,
+        "num": 76374,
+        "word": "尹锡悦的政治生涯或只剩不到一天",
+        "onboard_time": 1733493020,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72926,
+        "num": 72926,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118660,
+        "num": 68435,
+        "word": "韩安冉韩亿合照",
+        "onboard_time": 1733498778,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93715,
+        "num": 64882,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 11,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 73813,
+        "num": 63321,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57662,
+        "num": 57662,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57468,
+        "num": 57468,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56306,
+        "num": 56306,
+        "word": "男子机票改签一度要补万元差价",
+        "onboard_time": 1733499559,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52805,
+        "num": 52805,
+        "word": "男子连喝8包板蓝根被送医抢救",
+        "onboard_time": 1733497642,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49989,
+        "num": 49989,
+        "word": "民进党当局把美国当主子必成弃子",
+        "onboard_time": 1733505795,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16087,
+        "num": 49835,
+        "word": "刚果金因不明原因疾病拉响最高警报",
+        "onboard_time": 1733510593,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20367,
+        "num": 49506,
+        "word": "夏之光光头造型要准备5小时",
+        "onboard_time": 1733509573,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56184,
+        "num": 49304,
+        "word": "双轨",
+        "onboard_time": 1733498359,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51696,
+        "num": 49205,
+        "word": "白敬亭 他拍的",
+        "onboard_time": 1733494699,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51157,
+        "num": 48703,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48702,
+        "num": 48702,
+        "word": "邮轮公司回应南极之旅因故障取消",
+        "onboard_time": 1733508673,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39028,
+        "num": 45942,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43727,
+        "num": 43727,
+        "word": "小林是李昀锐的红包",
+        "onboard_time": 1733499919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15965,
+        "num": 42103,
+        "word": "9件小事提升冬日幸福感",
+        "onboard_time": 1733505674,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40700,
+        "num": 40700,
+        "word": "贾玲为67岁冯巩庆生",
+        "onboard_time": 1733499081,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38766,
+        "num": 38766,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32153,
+        "num": 32153,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50653,
+        "num": 31894,
+        "word": "绿地集团回应董事长不雅照传言",
+        "onboard_time": 1733509273,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38437,
+        "num": 31814,
+        "word": "陈丽云被查",
+        "onboard_time": 1733497040,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32429,
+        "num": 31400,
+        "word": "费沁源退团原因",
+        "onboard_time": 1733504776,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32195,
+        "num": 31250,
+        "word": "赵露思陈伟霆双人手势舞花絮",
+        "onboard_time": 1733508253,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31005,
+        "num": 31005,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30284,
+        "num": 30284,
+        "word": "上海月租3000房子的楼梯",
+        "onboard_time": 1733501059,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29310,
+        "num": 29310,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29165,
+        "num": 29165,
+        "word": "刘浩存珠光白色长裙",
+        "onboard_time": 1733483480,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28883,
+        "num": 28883,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27164,
+        "num": 28368,
+        "word": "排队13小时仅为抢一台手机",
+        "onboard_time": 1733499199,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28058,
+        "num": 28058,
+        "word": "朴彩英梦女",
+        "onboard_time": 1733490441,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27482,
+        "num": 27482,
+        "word": "苏菲玛索回忆参加中国春晚",
+        "onboard_time": 1733504295,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27388,
+        "num": 27388,
+        "word": "汪苏泷演唱会DJ是戚薇",
+        "onboard_time": 1733505015,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26916,
+        "num": 26916,
+        "word": "绿地",
+        "onboard_time": 1733495960,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 25339,
+        "num": 26910,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24861,
+        "num": 26887,
+        "word": "外界多认为尹锡悦弹劾通过已无大悬念",
+        "onboard_time": 1733496020,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24630,
+        "num": 26873,
+        "word": "周鸿祎感谢马化腾上线单删好友功能",
+        "onboard_time": 1733494880,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24477,
+        "num": 26860,
+        "word": "王源清唱别丢了你的勇敢",
+        "onboard_time": 1733510652,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24007,
+        "num": 26842,
+        "word": "武汉理工给太瘦学生充400元饭卡",
+        "onboard_time": 1733493620,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22662,
+        "num": 26821,
+        "word": "孙颖莎说都还不错",
+        "onboard_time": 1733500639,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}
