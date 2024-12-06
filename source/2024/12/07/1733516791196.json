@@ -1,0 +1,410 @@
+{
+  "runTime": 1733516791196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 191897,
+        "num": 191897,
+        "word": "江西9胞胎女子开始考虑追责",
+        "onboard_time": 1733500519,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104643,
+        "num": 104643,
+        "word": "双轨剧组开除泄密工作人员",
+        "onboard_time": 1733501180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10883,
+        "num": 97722,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93324,
+        "num": 93324,
+        "word": "哥伦比亚回应2万具机库尸体事件",
+        "onboard_time": 1733500039,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85244,
+        "num": 85244,
+        "word": "刚果金因不明原因疾病拉响最高警报",
+        "onboard_time": 1733510593,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74747,
+        "num": 74747,
+        "word": "喜综史上第一个满分作品",
+        "onboard_time": 1733499440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71539,
+        "num": 71539,
+        "word": "李行亮承诺离婚后不会怀恨在心",
+        "onboard_time": 1733495301,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51373,
+        "num": 51373,
+        "word": "韩安冉韩亿合照",
+        "onboard_time": 1733498778,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43270,
+        "num": 43270,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42737,
+        "num": 42737,
+        "word": "尹锡悦的政治生涯或只剩不到一天",
+        "onboard_time": 1733493020,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38962,
+        "num": 38962,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38590,
+        "num": 38590,
+        "word": "男子连喝8包板蓝根被送医抢救",
+        "onboard_time": 1733497642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38428,
+        "num": 38428,
+        "word": "韩国议长称决不接受二次戒严",
+        "onboard_time": 1733511792,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37941,
+        "num": 37941,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33969,
+        "num": 33969,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 14,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 33384,
+        "num": 33384,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32422,
+        "num": 32422,
+        "word": "警方回应中山美穗死因",
+        "onboard_time": 1733507353,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32348,
+        "num": 32348,
+        "word": "男子机票改签一度要补万元差价",
+        "onboard_time": 1733499559,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23411,
+        "num": 23411,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23131,
+        "num": 23131,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28022,
+        "num": 23109,
+        "word": "双轨",
+        "onboard_time": 1733498359,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27555,
+        "num": 22829,
+        "word": "贾玲为67岁冯巩庆生",
+        "onboard_time": 1733499081,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23369,
+        "num": 22660,
+        "word": "白敬亭 他拍的",
+        "onboard_time": 1733494699,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22287,
+        "num": 22287,
+        "word": "陈丽云被查",
+        "onboard_time": 1733497040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13133,
+        "num": 22138,
+        "word": "拜登或提前赦免多人以防特朗普报复",
+        "onboard_time": 1733516652,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22109,
+        "num": 22109,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21576,
+        "num": 21576,
+        "word": "赵露思陈伟霆双人手势舞花絮",
+        "onboard_time": 1733508253,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20329,
+        "num": 20329,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19479,
+        "num": 19479,
+        "word": "闪电引爆炸药致12名越南士兵遇难",
+        "onboard_time": 1733502738,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19360,
+        "num": 19360,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19082,
+        "num": 19310,
+        "word": "专家建议沿用春节翻译Spring Festival",
+        "onboard_time": 1733514250,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37227,
+        "num": 19306,
+        "word": "绿地集团回应董事长不雅照传言",
+        "onboard_time": 1733509273,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19291,
+        "num": 19291,
+        "word": "叙反对派武装闪电式进攻取得重大胜利",
+        "onboard_time": 1733514191,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18948,
+        "num": 18948,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18776,
+        "num": 18776,
+        "word": "绿地",
+        "onboard_time": 1733495960,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18774,
+        "num": 18774,
+        "word": "上海月租3000房子的楼梯",
+        "onboard_time": 1733501059,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 18356,
+        "word": "苏菲玛索回忆参加中国春晚",
+        "onboard_time": 1733504295,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18261,
+        "num": 18261,
+        "word": "外界多认为尹锡悦弹劾通过已无大悬念",
+        "onboard_time": 1733496020,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18217,
+        "num": 18217,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18181,
+        "num": 18181,
+        "word": "周鸿祎感谢马化腾上线单删好友功能",
+        "onboard_time": 1733494880,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17575,
+        "num": 17575,
+        "word": "最好的生活状态在这3句话里",
+        "onboard_time": 1733500400,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17564,
+        "num": 17564,
+        "word": "排队13小时仅为抢一台手机",
+        "onboard_time": 1733499199,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16879,
+        "num": 16879,
+        "word": "叙利亚军方称政府军仍部署在哈马市郊",
+        "onboard_time": 1733511853,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15958,
+        "num": 15958,
+        "word": "民进党当局把美国当主子必成弃子",
+        "onboard_time": 1733505795,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 15924,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15762,
+        "num": 15923,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12503,
+        "num": 15922,
+        "word": "扫码鉴别剑南春弹出不雅网站",
+        "onboard_time": 1733514792,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15423,
+        "num": 15922,
+        "word": "孙颖莎说都还不错",
+        "onboard_time": 1733500639,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14108,
+        "num": 15921,
+        "word": "9件小事提升冬日幸福感",
+        "onboard_time": 1733505674,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13347,
+        "num": 15920,
+        "word": "李在明呼吁逮捕总统",
+        "onboard_time": 1733514613,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}
