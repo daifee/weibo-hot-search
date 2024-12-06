@@ -1,0 +1,410 @@
+{
+  "runTime": 1733462604758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2366644,
+        "num": 2366644,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1530006,
+        "num": 1530006,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61807,
+        "num": 1341367,
+        "word": "文化中国行看ChinaTravel有多火",
+        "onboard_time": 1733446879,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1560856,
+        "num": 1334096,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1195227,
+        "num": 1195227,
+        "word": "韩媒说中国春节已延续数千年",
+        "onboard_time": 1733455759,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1123216,
+        "num": 1123216,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 583992,
+        "num": 583992,
+        "word": "女主播被禁后写道举报我的替我挡灾",
+        "onboard_time": 1733454980,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513680,
+        "num": 513680,
+        "word": "白夜破晓大结局",
+        "onboard_time": 1733459180,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489903,
+        "num": 489903,
+        "word": "宇文玥还是泡着吧",
+        "onboard_time": 1733460141,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412360,
+        "num": 412360,
+        "word": "因蛋糕放鲜花20多家店被同一人举报",
+        "onboard_time": 1733411959,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459243,
+        "num": 411647,
+        "word": "孟子义 我不接受任何身材PUA",
+        "onboard_time": 1733456299,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437987,
+        "num": 408239,
+        "word": "关宏峰以关宏宇的身份下线",
+        "onboard_time": 1733460260,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396654,
+        "num": 396654,
+        "word": "NewJeans新立场",
+        "onboard_time": 1733458762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396024,
+        "num": 396024,
+        "word": "内蒙古3岁女童被虐案一审宣判",
+        "onboard_time": 1733455878,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329757,
+        "num": 329757,
+        "word": "刘亦菲祝亲爱滴糖生日快乐",
+        "onboard_time": 1733455940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317153,
+        "num": 317153,
+        "word": "叙利亚首都仅剩最后一道重要防线",
+        "onboard_time": 1733452039,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270032,
+        "num": 270032,
+        "word": "尹锡悦宣布戒严影响一波又一波",
+        "onboard_time": 1733458880,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227033,
+        "num": 227033,
+        "word": "韩媒关注中国春节申遗成功",
+        "onboard_time": 1733454078,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159248,
+        "num": 195865,
+        "word": "檀健次出了两百道题",
+        "onboard_time": 1733461160,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191788,
+        "num": 191788,
+        "word": "大爷遇电信诈骗反赚骗子5万元",
+        "onboard_time": 1733451199,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287132,
+        "num": 191764,
+        "word": "何与双轨",
+        "onboard_time": 1733452157,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280111,
+        "num": 191655,
+        "word": "刘亦菲连续10年为唐嫣庆生",
+        "onboard_time": 1733460141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269711,
+        "num": 191619,
+        "word": "宋仲基首尔发布会状态",
+        "onboard_time": 1733461581,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279949,
+        "num": 191547,
+        "word": "三十年前的羽绒服比我穿的潮",
+        "onboard_time": 1733450959,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 237935,
+        "num": 191483,
+        "word": "妈妈按天给大学生女儿发50元",
+        "onboard_time": 1733444840,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100293,
+        "num": 191383,
+        "word": "赵丽颖乔妍的新事碎片",
+        "onboard_time": 1733457801,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21432,
+        "num": 191308,
+        "word": "2024花样滑冰总决赛",
+        "onboard_time": 1733462540,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70027,
+        "num": 191256,
+        "word": "唐嫣粉色生日大片",
+        "onboard_time": 1733445139,
+        "rank": 27,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 44219,
+        "num": 191129,
+        "word": "海贼王1133话泪崩",
+        "onboard_time": 1733462299,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65749,
+        "num": 191085,
+        "word": "再见爱人多个片段惹争议",
+        "onboard_time": 1733460980,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213834,
+        "num": 191032,
+        "word": "原来化妆的尽头是极简",
+        "onboard_time": 1733452398,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 59684,
+        "num": 190906,
+        "word": "消毒级卫生巾vs普通级卫生巾",
+        "onboard_time": 1733458460,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210529,
+        "num": 190871,
+        "word": "林志颖带儿子Jenson看周杰伦演唱会",
+        "onboard_time": 1733459421,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170852,
+        "num": 190749,
+        "word": "宋茜 挥手告别祝福就好",
+        "onboard_time": 1733461880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205241,
+        "num": 190684,
+        "word": "特朗普提名下任驻华大使",
+        "onboard_time": 1733452758,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190671,
+        "num": 190671,
+        "word": "猎罪图鉴2的海报是套测试题",
+        "onboard_time": 1733462059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "白百何裸妆",
+        "onboard_time": 1733461581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178892,
+        "num": 178892,
+        "word": "哥伦比亚称检查27个机库没有尸体",
+        "onboard_time": 1733450659,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178300,
+        "num": 178300,
+        "word": "白夜追了7年的真凶有线索了",
+        "onboard_time": 1733461640,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176221,
+        "num": 176221,
+        "word": "世界之外",
+        "onboard_time": 1733459239,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170953,
+        "num": 170953,
+        "word": "易烊千玺灵蛇外套",
+        "onboard_time": 1733459961,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166311,
+        "num": 166311,
+        "word": "黄明昊内娱管培生",
+        "onboard_time": 1733460381,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165035,
+        "num": 165035,
+        "word": "小小的老子哄老老的小子",
+        "onboard_time": 1733460800,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160682,
+        "num": 160682,
+        "word": "会长是女仆大人 伟大的告白",
+        "onboard_time": 1733460920,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 151408,
+        "num": 151408,
+        "word": "莎头",
+        "onboard_time": 1733447958,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150567,
+        "num": 150567,
+        "word": "胖东来正研究过度代购解决方法",
+        "onboard_time": 1733457860,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144975,
+        "num": 144975,
+        "word": "光遇维护",
+        "onboard_time": 1733453719,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133301,
+        "num": 133301,
+        "word": "哈尔滨 冰雕辽宁舰",
+        "onboard_time": 1733462540,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131083,
+        "num": 131083,
+        "word": "原来大熊猫的眼妆都不一样",
+        "onboard_time": 1733460561,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 131000,
+        "word": "大熊猫璨璨的芒果眼谁顶得住",
+        "onboard_time": 1733459360,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动我军网络信息体系建设跨越发展#"
+    }
+  }
+}
