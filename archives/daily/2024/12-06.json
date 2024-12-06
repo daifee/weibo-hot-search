@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733463671168,
+  "endTime": 1733466830925,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1027059,
+      "num": 793760,
+      "word": "花少从9.3到3.9",
+      "onboard_time": 1733463919,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1003406,
       "num": 1003406,
       "word": "双轨",
@@ -123,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 853412,
+      "num": 223836,
+      "word": "icon怒喷麦琳",
+      "onboard_time": 1733463561,
+      "rank": 25,
+      "category": "作品衍生,电竞"
+    },
+    {
       "raw_hot": 838495,
       "num": 838495,
       "word": "叙利亚首都仅剩最后一道重要防线",
@@ -131,12 +147,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 817113,
+      "num": 817113,
+      "word": "杜小华已前往无锡采血认亲",
+      "onboard_time": 1733463259,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816988,
       "num": 816988,
       "word": "挖呀挖黄老师疑开豪车引热议",
       "onboard_time": 1733401820,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 775231,
+      "num": 775231,
+      "word": "小楚乔长大演了大楚乔",
+      "onboard_time": 1733463919,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 692646,
+      "num": 692646,
+      "word": "情书女主中山美穗去世",
+      "onboard_time": 1733466379,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 675472,
@@ -185,6 +225,14 @@
       "onboard_time": 1733406741,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 551786,
+      "num": 551786,
+      "word": "杨子哭了",
+      "onboard_time": 1733464578,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 543965,
@@ -419,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321505,
+      "num": 321505,
+      "word": "湖南卫视跨年晚会官宣",
+      "onboard_time": 1733465899,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306805,
       "num": 306805,
       "word": "新大鹿合体",
@@ -483,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262088,
+      "num": 223380,
+      "word": "白夜破防",
+      "onboard_time": 1733464520,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254538,
       "num": 178746,
       "word": "黄子韬鹿晗连麦",
@@ -521,14 +585,6 @@
       "onboard_time": 1733449938,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 242465,
-      "num": 191852,
-      "word": "icon怒喷麦琳",
-      "onboard_time": 1733463561,
-      "rank": 25,
-      "category": "作品衍生,电竞"
     },
     {
       "raw_hot": 240640,
@@ -577,6 +633,22 @@
       "onboard_time": 1733462780,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 224660,
+      "num": 224660,
+      "word": "太缺女导演 太缺女主角故事",
+      "onboard_time": 1733465058,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 222922,
+      "num": 222922,
+      "word": "妈妈按天给大学生女儿发50元生活费",
+      "onboard_time": 1733465599,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213454,
@@ -683,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196352,
+      "num": 187325,
+      "word": "情书",
+      "onboard_time": 1733466618,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196168,
       "num": 196168,
       "word": "世界之外此间即无间",
@@ -739,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190200,
+      "num": 185867,
+      "word": "楚乔传2 诸葛玥",
+      "onboard_time": 1733465659,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186626,
       "num": 186626,
       "word": "指纹编剧",
@@ -760,14 +848,6 @@
       "word": "六旬老人尝试高危性行为感染艾滋病",
       "onboard_time": 1733392460,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185411,
-      "num": 185411,
-      "word": "杜小华已前往无锡采血认亲",
-      "onboard_time": 1733463259,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -795,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180939,
+      "num": 180939,
+      "word": "指纹前女友",
+      "onboard_time": 1733465240,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180866,
       "num": 180866,
       "word": "小小的老子哄老老的小子",
@@ -817,6 +905,14 @@
       "onboard_time": 1733459840,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178853,
+      "num": 178853,
+      "word": "骗子公司跑路员工落下身份证",
+      "onboard_time": 1733463858,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178300,
@@ -849,6 +945,14 @@
       "onboard_time": 1733448859,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173734,
+      "num": 173734,
+      "word": "虐童致死案一审生父无期女友死刑",
+      "onboard_time": 1733465481,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170978,
@@ -945,6 +1049,14 @@
       "onboard_time": 1733457200,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157486,
+      "num": 157486,
+      "word": "为什么咖啡店的桌子都这么矮",
+      "onboard_time": 1733466199,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 156523,
@@ -1049,6 +1161,14 @@
       "onboard_time": 1733455578,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139590,
+      "num": 139590,
+      "word": "TWICE新歌Strategy",
+      "onboard_time": 1733466558,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 138492,
@@ -1171,6 +1291,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127173,
+      "num": 135219,
+      "word": "秋冬无意识变瘦的行为",
+      "onboard_time": 1733466800,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 127115,
+      "num": 202876,
+      "word": "声生不息用15部电影开场",
+      "onboard_time": 1733465838,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "icon想复出但被弹幕质疑",
@@ -1273,6 +1409,22 @@
       "onboard_time": 1733458640,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109543,
+      "num": 717467,
+      "word": "韩国国会被管制禁止出入",
+      "onboard_time": 1733465659,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108044,
+      "num": 223276,
+      "word": "北体说肯定不会扣马龙分的",
+      "onboard_time": 1733465838,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 106833,
@@ -1443,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75413,
+      "num": 198892,
+      "word": "朴彩英手写中文上上签",
+      "onboard_time": 1733466259,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75279,
       "num": 75279,
       "word": "倪妮 每次走红毯都不自信",
@@ -1579,6 +1739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 56815,
+      "num": 223081,
+      "word": "云南一村地面开裂174位村民避险安置",
+      "onboard_time": 1733464940,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55950,
       "num": 315798,
       "word": "沪指重新站上3400点",
@@ -1595,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50835,
+      "num": 224384,
+      "word": "皮草公司操作不当致宁夏一地水污染",
+      "onboard_time": 1733465058,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48448,
       "num": 90825,
       "word": "美国发布海啸警报",
@@ -1604,7 +1780,7 @@
     },
     {
       "raw_hot": 46397,
-      "num": 130048,
+      "num": 224238,
       "word": "只有中国人才懂的金色浪漫",
       "onboard_time": 1733463619,
       "rank": 49,
@@ -1697,6 +1873,14 @@
       "onboard_time": 1733429292,
       "rank": 9,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 31960,
+      "num": 198821,
+      "word": "郑钦文入围2024社媒最受关注运动员",
+      "onboard_time": 1733466439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 31922,
@@ -1857,6 +2041,14 @@
       "onboard_time": 1733430492,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 7515,
+      "num": 224474,
+      "word": "姑娘跟红娘共情付完15800就后悔",
+      "onboard_time": 1733466800,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7343,
