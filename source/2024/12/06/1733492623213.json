@@ -1,0 +1,410 @@
+{
+  "runTime": 1733492623213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845208,
+        "num": 1845208,
+        "word": "警方回应怀孕32周女子被丈夫踢肚",
+        "onboard_time": 1733489660,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1482900,
+        "num": 1482900,
+        "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
+        "onboard_time": 1733489958,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27258,
+        "num": 1390769,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1364010,
+        "num": 1364010,
+        "word": "断糖60天的面部变化",
+        "onboard_time": 1733484200,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 747641,
+        "num": 747641,
+        "word": "韩国",
+        "onboard_time": 1733488219,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 662476,
+        "num": 662476,
+        "word": "赵丽颖新加坡红毯",
+        "onboard_time": 1733484681,
+        "rank": 5,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 556544,
+        "num": 556544,
+        "word": "孟子义 妈妈低声点难道光彩吗",
+        "onboard_time": 1733484080,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476231,
+        "num": 476231,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439491,
+        "num": 439491,
+        "word": "九重紫热度",
+        "onboard_time": 1733486601,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48314,
+        "num": 397819,
+        "word": "购房家庭累计减免契税84亿元",
+        "onboard_time": 1733491221,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669820,
+        "num": 394992,
+        "word": "包文婧疑似怀二胎",
+        "onboard_time": 1733489958,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386793,
+        "num": 386793,
+        "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+        "onboard_time": 1733490199,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366885,
+        "num": 366885,
+        "word": "巴拉圭",
+        "onboard_time": 1733486840,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347115,
+        "num": 347115,
+        "word": "赵丽颖盘发闪钻流苏西装裙",
+        "onboard_time": 1733488760,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 319365,
+        "num": 319365,
+        "word": "李秀满新女团vocal实力",
+        "onboard_time": 1733487978,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 239701,
+        "num": 239701,
+        "word": "莎头组合2比1日本",
+        "onboard_time": 1733484498,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228865,
+        "num": 228865,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139071,
+        "num": 228711,
+        "word": "我是刑警枕边人是逃犯",
+        "onboard_time": 1733491761,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60110,
+        "num": 228669,
+        "word": "中方反对巴拉圭毫无道理的指责",
+        "onboard_time": 1733490860,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 228429,
+        "word": "鞠婧祎开年刊",
+        "onboard_time": 1733490919,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290274,
+        "num": 228295,
+        "word": "孟子义发红包",
+        "onboard_time": 1733490260,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228171,
+        "num": 228171,
+        "word": "朴彩英梦女",
+        "onboard_time": 1733490441,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223645,
+        "num": 223645,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217073,
+        "num": 217073,
+        "word": "女孩用吹风机吹两小时救活受冻小猫",
+        "onboard_time": 1733481260,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 89772,
+        "num": 207821,
+        "word": "张镇麟复出",
+        "onboard_time": 1733490619,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 206104,
+        "word": "交警再回应服务区休息被开罚单",
+        "onboard_time": 1733490441,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218606,
+        "num": 206060,
+        "word": "九重紫",
+        "onboard_time": 1733481440,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205443,
+        "num": 205443,
+        "word": "侯明昊金发",
+        "onboard_time": 1733491522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203407,
+        "num": 203407,
+        "word": "黄冠亨直播",
+        "onboard_time": 1733492000,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200370,
+        "num": 200370,
+        "word": "香港4胞胎家庭月租60000的房子",
+        "onboard_time": 1733484019,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19252,
+        "num": 190715,
+        "word": "新丝路上的百宝箱",
+        "onboard_time": 1733491820,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 189597,
+        "num": 189597,
+        "word": "莎头组合总结比赛",
+        "onboard_time": 1733489418,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170759,
+        "num": 170759,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170616,
+        "num": 170616,
+        "word": "咖啡喝太多对神经系统造成伤害",
+        "onboard_time": 1733489299,
+        "rank": 33,
+        "category": "综艺,健康医疗"
+      },
+      {
+        "raw_hot": 165499,
+        "num": 165499,
+        "word": "李昀锐淡颜帅",
+        "onboard_time": 1733492541,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155712,
+        "num": 155712,
+        "word": "于正 只剩下心发慌",
+        "onboard_time": 1733484320,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22135,
+        "num": 152625,
+        "word": "看再见爱人隔空确诊NPD",
+        "onboard_time": 1733490619,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151053,
+        "num": 151053,
+        "word": "白夜破晓 指纹",
+        "onboard_time": 1733486777,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148002,
+        "num": 148002,
+        "word": "国乒8比2胜日本",
+        "onboard_time": 1733488398,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156336,
+        "num": 147294,
+        "word": "李昀锐解锁人生镜头",
+        "onboard_time": 1733488159,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146229,
+        "num": 146229,
+        "word": "美国众议院禁止跨性别者使用厕所",
+        "onboard_time": 1733490380,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34815,
+        "num": 141631,
+        "word": "吉利银河星舰7上市9.98万元起",
+        "onboard_time": 1733492120,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43163,
+        "num": 141583,
+        "word": "王赫野的卡祖笛全是东北味",
+        "onboard_time": 1733491942,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21707,
+        "num": 141573,
+        "word": "成毅11月微博演员全站讨论量破2亿",
+        "onboard_time": 1733488879,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141571,
+        "num": 141571,
+        "word": "南柱赫退伍后首现身",
+        "onboard_time": 1733483838,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29627,
+        "num": 139405,
+        "word": "成都混团中国vs日本阵容安排",
+        "onboard_time": 1733483959,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139024,
+        "num": 139024,
+        "word": "吴磊赵今麦2024云合现偶TOP1",
+        "onboard_time": 1733483598,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137528,
+        "num": 137528,
+        "word": "虞书欣出发尖叫之夜机场路透",
+        "onboard_time": 1733490681,
+        "rank": 47,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 133711,
+        "num": 133711,
+        "word": "孙颖莎王艺迪vs笹尾明日香赤江夏星",
+        "onboard_time": 1733487860,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 131684,
+        "word": "暖暖演唱With you",
+        "onboard_time": 1733492599,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}

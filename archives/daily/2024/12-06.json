@@ -1,6 +1,6 @@
 {
   "startTime": 1733416260011,
-  "endTime": 1733491961758,
+  "endTime": 1733492623213,
   "band_list": [
     {
       "raw_hot": 2763420,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1845208,
+      "num": 1845208,
+      "word": "警方回应怀孕32周女子被丈夫踢肚",
+      "onboard_time": 1733489660,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1795259,
       "num": 1795259,
       "word": "断糖60天的面部变化",
       "onboard_time": 1733484200,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1778941,
-      "num": 1778941,
-      "word": "警方回应怀孕32周女子被丈夫踢肚",
-      "onboard_time": 1733489660,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1664514,
@@ -75,19 +75,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1482900,
+      "num": 1482900,
+      "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
+      "onboard_time": 1733489958,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1469254,
       "num": 1469254,
       "word": "韩媒说中国春节已延续数千年",
       "onboard_time": 1733455759,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1433283,
-      "num": 1433283,
-      "word": "85岁富豪住院立遗嘱22岁女友病房跳舞",
-      "onboard_time": 1733489958,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 669820,
+      "num": 414825,
+      "word": "包文婧疑似怀二胎",
+      "onboard_time": 1733489958,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647502,
       "num": 647502,
       "word": "妈妈按天给大学生女儿发50元生活费",
@@ -361,14 +369,6 @@
       "onboard_time": 1733446639,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 643058,
-      "num": 414825,
-      "word": "包文婧疑似怀二胎",
-      "onboard_time": 1733489958,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 627200,
@@ -739,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 386793,
+      "num": 386793,
+      "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
+      "onboard_time": 1733490199,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 386656,
       "num": 386656,
       "word": "藤井树",
@@ -881,14 +889,6 @@
       "onboard_time": 1733407101,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306056,
-      "num": 245998,
-      "word": "张踩铃 不是所有的死亡都需要潇洒浪漫",
-      "onboard_time": 1733490199,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 304458,
@@ -1139,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228865,
+      "num": 228865,
+      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+      "onboard_time": 1733490681,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227611,
       "num": 227611,
       "word": "黄杨钿甜17岁就有五部待播剧",
@@ -1275,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205443,
+      "num": 205443,
+      "word": "侯明昊金发",
+      "onboard_time": 1733491522,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203577,
       "num": 203577,
       "word": "女子听到朋友患肠癌一查自己也有",
       "onboard_time": 1733386399,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203407,
+      "num": 203407,
+      "word": "黄冠亨直播",
+      "onboard_time": 1733492000,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 203345,
@@ -1313,6 +1337,14 @@
       "onboard_time": 1733461880,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201024,
+      "num": 332363,
+      "word": "交警再回应服务区休息被开罚单",
+      "onboard_time": 1733490441,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200498,
@@ -1353,14 +1385,6 @@
       "onboard_time": 1733479219,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 196825,
-      "num": 196825,
-      "word": "侯明昊金发",
-      "onboard_time": 1733491522,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 196352,
@@ -1459,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191795,
-      "num": 191795,
-      "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
-      "onboard_time": 1733490681,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191721,
       "num": 274006,
       "word": "光遇",
@@ -1523,15 +1539,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188915,
-      "num": 332363,
-      "word": "交警再回应服务区休息被开罚单",
-      "onboard_time": 1733490441,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187733,
+      "raw_hot": 189597,
       "num": 306305,
       "word": "莎头组合总结比赛",
       "onboard_time": 1733489418,
@@ -1819,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165499,
+      "num": 165499,
+      "word": "李昀锐淡颜帅",
+      "onboard_time": 1733492541,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164873,
       "num": 164873,
       "word": "人类第11次成功预警小行星撞击",
@@ -1939,6 +1955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156336,
+      "num": 186484,
+      "word": "李昀锐解锁人生镜头",
+      "onboard_time": 1733488159,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155596,
       "num": 172235,
       "word": "美国加州近海7.0级地震",
@@ -2003,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150199,
-      "num": 186484,
-      "word": "李昀锐解锁人生镜头",
-      "onboard_time": 1733488159,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150141,
       "num": 150141,
       "word": "奔跑吧送全员小卡",
@@ -2025,6 +2041,14 @@
       "onboard_time": 1733489780,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146229,
+      "num": 146229,
+      "word": "美国众议院禁止跨性别者使用厕所",
+      "onboard_time": 1733490380,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 145976,
@@ -2091,6 +2115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139071,
+      "num": 244499,
+      "word": "我是刑警枕边人是逃犯",
+      "onboard_time": 1733491761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138751,
       "num": 263223,
       "word": "登陆少年成团百日直播",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1733454501,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137528,
+      "num": 137528,
+      "word": "虞书欣出发尖叫之夜机场路透",
+      "onboard_time": 1733490681,
+      "rank": 47,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 136611,
@@ -2193,6 +2233,14 @@
       "onboard_time": 1733477360,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131684,
+      "num": 131684,
+      "word": "暖暖演唱With you",
+      "onboard_time": 1733492599,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 131346,
@@ -2281,14 +2329,6 @@
       "onboard_time": 1733465838,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125657,
-      "num": 125657,
-      "word": "美国众议院禁止跨性别者使用厕所",
-      "onboard_time": 1733490380,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 125248,
@@ -2491,6 +2531,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 102595,
+      "num": 228429,
+      "word": "鞠婧祎开年刊",
+      "onboard_time": 1733490919,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101347,
       "num": 101347,
       "word": "黎族传统纺染织绣技艺成人类非遗代表作",
@@ -2571,14 +2619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92178,
-      "num": 192382,
-      "word": "鞠婧祎开年刊",
-      "onboard_time": 1733490919,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 92103,
       "num": 333158,
       "word": "NewJeans 谁也分不开我们",
@@ -2609,6 +2649,14 @@
       "onboard_time": 1733397199,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89772,
+      "num": 207821,
+      "word": "张镇麟复出",
+      "onboard_time": 1733490619,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 89473,
@@ -2891,6 +2939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60110,
+      "num": 258523,
+      "word": "中方反对巴拉圭毫无道理的指责",
+      "onboard_time": 1733490860,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59851,
       "num": 59851,
       "word": "周雨彤感激自己没有停止生长",
@@ -2963,28 +3019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56370,
-      "num": 258523,
-      "word": "中方反对巴拉圭毫无道理的指责",
-      "onboard_time": 1733490860,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55950,
       "num": 315798,
       "word": "沪指重新站上3400点",
       "onboard_time": 1733453660,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55603,
-      "num": 244499,
-      "word": "我是刑警枕边人是逃犯",
-      "onboard_time": 1733491761,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 54615,
@@ -3067,6 +3107,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 48314,
+      "num": 416202,
+      "word": "购房家庭累计减免契税84亿元",
+      "onboard_time": 1733491221,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46459,
       "num": 315966,
       "word": "黑神话入选时代杂志2024最佳游戏",
@@ -3131,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43163,
+      "num": 191819,
+      "word": "王赫野的卡祖笛全是东北味",
+      "onboard_time": 1733491942,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42582,
       "num": 1013303,
       "word": "大雪来一场好逛又好吃的citywalk",
@@ -3179,14 +3235,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 37833,
-      "num": 191819,
-      "word": "王赫野的卡祖笛全是东北味",
-      "onboard_time": 1733491942,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36907,
       "num": 36907,
       "word": "张晚意新歌万分之一",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1733421674,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34815,
+      "num": 141631,
+      "word": "吉利银河星舰7上市9.98万元起",
+      "onboard_time": 1733492120,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 34765,
@@ -3299,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30696,
-      "num": 416202,
-      "word": "购房家庭累计减免契税84亿元",
-      "onboard_time": 1733491221,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30431,
       "num": 30623,
       "word": "中国剪纸美得外国人咔咔拍照",
@@ -3355,6 +3403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 27258,
+      "num": 1390769,
+      "word": "古人也会互赠日历表达祝福",
+      "onboard_time": 1733491638,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 27082,
       "num": 253520,
       "word": "藏在香奈儿秀场里的细节",
@@ -3385,6 +3441,14 @@
       "onboard_time": 1733425571,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22135,
+      "num": 253952,
+      "word": "看再见爱人隔空确诊NPD",
+      "onboard_time": 1733490619,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 21968,
@@ -3435,20 +3499,20 @@
       "category": "其它,旅游"
     },
     {
+      "raw_hot": 19252,
+      "num": 1498085,
+      "word": "新丝路上的百宝箱",
+      "onboard_time": 1733491820,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19016,
       "num": 103175,
       "word": "春节是中华文化最重要的传统节日",
       "onboard_time": 1733419933,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18718,
-      "num": 253952,
-      "word": "看再见爱人隔空确诊NPD",
-      "onboard_time": 1733490619,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 17203,
@@ -3547,14 +3611,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 11270,
-      "num": 1498085,
-      "word": "新丝路上的百宝箱",
-      "onboard_time": 1733491820,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 11194,
       "num": 22920,
       "word": "志愿者往往是说谢谢最多的人",
@@ -3610,6 +3666,9 @@
     },
     {
       "word": "#信息支援部队首先是一个战斗队#"
+    },
+    {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
     }
   ]
 }
