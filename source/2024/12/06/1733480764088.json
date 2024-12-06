@@ -1,0 +1,410 @@
+{
+  "runTime": 1733480764088,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535018,
+        "num": 1535018,
+        "word": "中山美穗在浴缸中去世",
+        "onboard_time": 1733467160,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1317728,
+        "num": 1317728,
+        "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+        "onboard_time": 1733476999,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70092,
+        "num": 746501,
+        "word": "大雪一落地就成了诗",
+        "onboard_time": 1733472621,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 714199,
+        "num": 714199,
+        "word": "课间延长到15分钟学生在干啥",
+        "onboard_time": 1733477779,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 513935,
+        "num": 513935,
+        "word": "毕业后才懂英语四六级有多重要",
+        "onboard_time": 1733472260,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 643650,
+        "num": 510532,
+        "word": "邓超粉丝抵制邓超追私行为",
+        "onboard_time": 1733476822,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 529038,
+        "num": 502408,
+        "word": "白夜追凶给了七年一个结局",
+        "onboard_time": 1733476220,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438381,
+        "num": 438381,
+        "word": "你好吗 我很好",
+        "onboard_time": 1733475261,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402860,
+        "num": 402860,
+        "word": "小楚乔长大演了大楚乔",
+        "onboard_time": 1733463919,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161372,
+        "num": 398467,
+        "word": "课间一刻钟快乐900秒",
+        "onboard_time": 1733479880,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 650955,
+        "num": 396783,
+        "word": "虞书欣怎么了",
+        "onboard_time": 1733447719,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394492,
+        "num": 394492,
+        "word": "物业发通知禁止住户养宠物否则捕杀",
+        "onboard_time": 1733470519,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388996,
+        "num": 388996,
+        "word": "哥伦比亚一机库发现约2万具尸体",
+        "onboard_time": 1733441718,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333881,
+        "num": 333881,
+        "word": "向佐穿女装带货首场卖出5千万",
+        "onboard_time": 1733472139,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75691,
+        "num": 317937,
+        "word": "律师称AI生成接吻视频或涉嫌违法",
+        "onboard_time": 1733479760,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 317445,
+        "num": 317445,
+        "word": "花少从9.3到3.9",
+        "onboard_time": 1733463919,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302771,
+        "num": 302771,
+        "word": "哥伦比亚",
+        "onboard_time": 1733479519,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280724,
+        "num": 280724,
+        "word": "正豪大大鸡排关闭中国大陆所有门店",
+        "onboard_time": 1733467520,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31985,
+        "num": 275039,
+        "word": "武艺 今年闹的笑话",
+        "onboard_time": 1733479880,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 274862,
+        "word": "FILA如何引领复古运动文化回潮",
+        "onboard_time": 1733477899,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 356988,
+        "num": 264220,
+        "word": "世界上怀孕时间最长的动物排行",
+        "onboard_time": 1733473699,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 263223,
+        "word": "登陆少年成团百日直播",
+        "onboard_time": 1733480179,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315497,
+        "num": 255469,
+        "word": "医生称超80%直肠癌最初被当痔疮",
+        "onboard_time": 1733475740,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252170,
+        "num": 252170,
+        "word": "孟子义人脉",
+        "onboard_time": 1733471601,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16549,
+        "num": 246874,
+        "word": "莎头组合拿下奥运后首胜",
+        "onboard_time": 1733476940,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246429,
+        "num": 246429,
+        "word": "韩国国会被全面管制",
+        "onboard_time": 1733478919,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244237,
+        "num": 244237,
+        "word": "何超莲高马尾女大造型",
+        "onboard_time": 1733478499,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115244,
+        "num": 240569,
+        "word": "六公主悼念中山美穗",
+        "onboard_time": 1733479699,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20774,
+        "num": 240247,
+        "word": "打卡香奈儿宣传片里的杭州风景",
+        "onboard_time": 1733477899,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 240033,
+        "num": 240033,
+        "word": "妈妈按天给大学生女儿发50元生活费",
+        "onboard_time": 1733465599,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238120,
+        "num": 238120,
+        "word": "朴彩英吻戏",
+        "onboard_time": 1733468180,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221443,
+        "num": 221443,
+        "word": "跳青海摇8天瘦了10斤",
+        "onboard_time": 1733470039,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200056,
+        "num": 200056,
+        "word": "哥伦比亚大量人口失踪后无从寻觅",
+        "onboard_time": 1733459600,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187719,
+        "num": 187719,
+        "word": "WayV三大初一位",
+        "onboard_time": 1733480659,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180502,
+        "num": 180502,
+        "word": "张真源支持李昀锐新剧",
+        "onboard_time": 1733479519,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169598,
+        "num": 169598,
+        "word": "花3.75元做了两荤一素的午餐",
+        "onboard_time": 1733479219,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166472,
+        "num": 166472,
+        "word": "湖南卫视跨年晚会官宣",
+        "onboard_time": 1733465899,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166058,
+        "num": 166058,
+        "word": "窦骁何超莲撒狗粮现场",
+        "onboard_time": 1733480659,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162867,
+        "num": 162867,
+        "word": "迪丽热巴好像装了躲避雷达",
+        "onboard_time": 1733468901,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64342,
+        "num": 162564,
+        "word": "买一送一的咖啡要让同事付钱吗",
+        "onboard_time": 1733478020,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162494,
+        "num": 162494,
+        "word": "何与为孟子义九重紫包场",
+        "onboard_time": 1733479339,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160600,
+        "num": 160600,
+        "word": "国乒今晚迎战日本队",
+        "onboard_time": 1733476702,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157764,
+        "num": 157764,
+        "word": "楚乔传2开机",
+        "onboard_time": 1733457379,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157760,
+        "num": 157760,
+        "word": "福宝由2位奶爸轮流24小时照顾",
+        "onboard_time": 1733480659,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154971,
+        "num": 154971,
+        "word": "icon怒喷麦琳",
+        "onboard_time": 1733463561,
+        "rank": 44,
+        "category": "电竞,作品衍生"
+      },
+      {
+        "raw_hot": 151147,
+        "num": 151147,
+        "word": "现在拨打的电话本周停播",
+        "onboard_time": 1733476702,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660639,
+        "num": 151054,
+        "word": "字节8位数年薪挖走阿里大模型人才",
+        "onboard_time": 1733473461,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36256,
+        "num": 150840,
+        "word": "无限暖暖流水",
+        "onboard_time": 1733480479,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150814,
+        "num": 150814,
+        "word": "大奉打更人上星央8",
+        "onboard_time": 1733474120,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146008,
+        "num": 146008,
+        "word": "中山美穗昨天发文称心情低落",
+        "onboard_time": 1733476339,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}

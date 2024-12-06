@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733477982727,
+  "endTime": 1733480764088,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -753,6 +753,14 @@
       "onboard_time": 1733302345,
       "rank": 6,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 1317728,
+      "num": 1317728,
+      "word": "160斤小伙因胖被分手怒减30斤变帅哥",
+      "onboard_time": 1733476999,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1316252,
@@ -2011,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 714199,
+      "num": 714199,
+      "word": "课间延长到15分钟学生在干啥",
+      "onboard_time": 1733477779,
+      "rank": 3,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 713130,
       "num": 713130,
       "word": "刚果金近百人死于不明疾病",
@@ -2361,6 +2377,14 @@
       "onboard_time": 1733404758,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 643650,
+      "num": 510532,
+      "word": "邓超粉丝抵制邓超追私行为",
+      "onboard_time": 1733476822,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 642410,
@@ -3065,6 +3089,14 @@
       "onboard_time": 1733054238,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 529038,
+      "num": 502408,
+      "word": "白夜追凶给了七年一个结局",
+      "onboard_time": 1733476220,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 528511,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1733039299,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 438381,
+      "num": 438381,
+      "word": "你好吗 我很好",
+      "onboard_time": 1733475261,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 437987,
@@ -5443,14 +5483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311570,
-      "num": 311570,
-      "word": "白夜追凶给了七年一个结局",
-      "onboard_time": 1733476220,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 311357,
       "num": 829202,
       "word": "菲律宾公务船恶意擦碰中国海警船",
@@ -5793,14 +5825,6 @@
       "onboard_time": 1733318422,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286838,
-      "num": 377839,
-      "word": "160斤小伙因胖被分手怒减30斤变帅哥",
-      "onboard_time": 1733476999,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 286716,
@@ -6531,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246429,
+      "num": 246429,
+      "word": "韩国国会被全面管制",
+      "onboard_time": 1733478919,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246054,
       "num": 246054,
       "word": "崩坏星穹铁道 抄袭",
@@ -6585,6 +6617,14 @@
       "onboard_time": 1733142685,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244237,
+      "num": 244237,
+      "word": "何超莲高马尾女大造型",
+      "onboard_time": 1733478499,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 243587,
@@ -8363,14 +8403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199896,
-      "num": 208951,
-      "word": "你好吗 我很好",
-      "onboard_time": 1733475261,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199447,
       "num": 178833,
       "word": "新音",
@@ -9147,6 +9179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187719,
+      "num": 187719,
+      "word": "WayV三大初一位",
+      "onboard_time": 1733480659,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187688,
       "num": 187688,
       "word": "广西砂糖橘又去东北了",
@@ -9641,6 +9681,14 @@
       "onboard_time": 1733275760,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180502,
+      "num": 180502,
+      "word": "张真源支持李昀锐新剧",
+      "onboard_time": 1733479519,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 180400,
@@ -10283,6 +10331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169598,
+      "num": 169598,
+      "word": "花3.75元做了两荤一素的午餐",
+      "onboard_time": 1733479219,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169432,
       "num": 169432,
       "word": "祁天道夫妇诈骗期间负责团伙宣传",
@@ -10505,6 +10561,14 @@
       "onboard_time": 1733145083,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 166058,
+      "num": 166058,
+      "word": "窦骁何超莲撒狗粮现场",
+      "onboard_time": 1733480659,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 166035,
@@ -10755,6 +10819,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 162494,
+      "num": 162494,
+      "word": "何与为孟子义九重紫包场",
+      "onboard_time": 1733479339,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162460,
       "num": 162460,
       "word": "文化中国行看大雪节气",
@@ -10809,6 +10881,14 @@
       "onboard_time": 1732983019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161372,
+      "num": 398467,
+      "word": "课间一刻钟快乐900秒",
+      "onboard_time": 1733479880,
+      "rank": 9,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 161351,
@@ -11057,6 +11137,14 @@
       "onboard_time": 1733410460,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157760,
+      "num": 157760,
+      "word": "福宝由2位奶爸轮流24小时照顾",
+      "onboard_time": 1733480659,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157733,
@@ -12481,6 +12569,14 @@
       "onboard_time": 1733371641,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138751,
+      "num": 263223,
+      "word": "登陆少年成团百日直播",
+      "onboard_time": 1733480179,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 138666,
@@ -14113,6 +14209,14 @@
       "onboard_time": 1733271682,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115244,
+      "num": 240569,
+      "word": "六公主悼念中山美穗",
+      "onboard_time": 1733479699,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 114897,
@@ -16211,6 +16315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 75691,
+      "num": 317937,
+      "word": "律师称AI生成接吻视频或涉嫌违法",
+      "onboard_time": 1733479760,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 75507,
       "num": 175927,
       "word": "叙利亚阿勒颇人再次踏上逃难路",
@@ -16793,6 +16905,14 @@
       "onboard_time": 1733111179,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64342,
+      "num": 162564,
+      "word": "买一送一的咖啡要让同事付钱吗",
+      "onboard_time": 1733478020,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 64143,
@@ -18771,6 +18891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 36256,
+      "num": 150840,
+      "word": "无限暖暖流水",
+      "onboard_time": 1733480479,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 36249,
       "num": 266313,
       "word": "常园说有自己的外貌焦虑",
@@ -19195,6 +19323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31985,
+      "num": 275039,
+      "word": "武艺 今年闹的笑话",
+      "onboard_time": 1733479880,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31960,
       "num": 198821,
       "word": "郑钦文入围2024社媒最受关注运动员",
@@ -19571,6 +19707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28063,
+      "num": 274862,
+      "word": "FILA如何引领复古运动文化回潮",
+      "onboard_time": 1733477899,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 27746,
       "num": 334314,
       "word": "长安航空回应飞机上惊现老鼠",
@@ -19905,14 +20049,6 @@
       "onboard_time": 1733344460,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25041,
-      "num": 146710,
-      "word": "FILA如何引领复古运动文化回潮",
-      "onboard_time": 1733477899,
-      "rank": 44,
-      "category": "时尚"
     },
     {
       "raw_hot": 24984,
@@ -20299,6 +20435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20774,
+      "num": 240247,
+      "word": "打卡香奈儿宣传片里的杭州风景",
+      "onboard_time": 1733477899,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 20587,
       "num": 192894,
       "word": "香奈儿大秀里的刺绣工艺",
@@ -20491,14 +20635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 18425,
-      "num": 132175,
-      "word": "打卡香奈儿宣传片里的杭州风景",
-      "onboard_time": 1733477899,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 18271,
       "num": 18271,
       "word": "郭敬明晒月鳞绮纪服装细节图",
@@ -20657,6 +20793,14 @@
       "onboard_time": 1733179214,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16549,
+      "num": 274393,
+      "word": "莎头组合拿下奥运后首胜",
+      "onboard_time": 1733476940,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 16539,
@@ -21265,14 +21409,6 @@
       "onboard_time": 1733256071,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8397,
-      "num": 274393,
-      "word": "莎头组合拿下奥运后首胜",
-      "onboard_time": 1733476940,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 8318,
