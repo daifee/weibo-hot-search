@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733540641962,
+  "endTime": 1733541244569,
   "band_list": [
     {
       "raw_hot": 1672187,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1107116,
+      "num": 362510,
+      "word": "女硕士",
+      "onboard_time": 1733539159,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841152,
       "num": 841152,
       "word": "双轨剧组开除泄密工作人员",
@@ -49,14 +57,6 @@
       "onboard_time": 1733495301,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643198,
-      "num": 362510,
-      "word": "女硕士",
-      "onboard_time": 1733539159,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 613070,
@@ -123,12 +123,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 506476,
+      "num": 314435,
+      "word": "谷爱凌第一跳89.50分",
+      "onboard_time": 1733539099,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491912,
       "num": 491912,
       "word": "陈丽云被查",
       "onboard_time": 1733497040,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480217,
+      "num": 1076834,
+      "word": "凭1个苹果核破获23年前出租屋杀人案",
+      "onboard_time": 1733538918,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470537,
@@ -139,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436843,
+      "raw_hot": 454642,
       "num": 381298,
       "word": "女子面瘫从香港跑河南针灸",
       "onboard_time": 1733535857,
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371756,
-      "num": 314435,
-      "word": "谷爱凌第一跳89.50分",
-      "onboard_time": 1733539099,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370747,
       "num": 203172,
       "word": "婆婆过度节省婚房住成垃圾堆",
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349557,
+      "num": 349557,
+      "word": "狐妖小红娘竹业篇改名",
+      "onboard_time": 1733538978,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348622,
       "num": 348622,
       "word": "江西文旅厅确认取消李行亮商演活动",
@@ -251,19 +267,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325853,
+      "num": 325853,
+      "word": "驻蒙古使馆深夜发安全提醒",
+      "onboard_time": 1733539639,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324680,
       "num": 324680,
       "word": "女子被探店博主拍到出镜获赔1万元",
       "onboard_time": 1733528655,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317068,
-      "num": 317068,
-      "word": "凭1个苹果核破获23年前出租屋杀人案",
-      "onboard_time": 1733538918,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1733493020,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 299264,
-      "num": 299264,
-      "word": "狐妖小红娘竹业篇改名",
-      "onboard_time": 1733538978,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 297550,
@@ -345,14 +353,6 @@
       "onboard_time": 1733527335,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228519,
-      "num": 314513,
-      "word": "驻蒙古使馆深夜发安全提醒",
-      "onboard_time": 1733539639,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 220577,
@@ -425,6 +425,14 @@
       "onboard_time": 1733534897,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188386,
+      "num": 232674,
+      "word": "有中国公民在蒙古国死伤",
+      "onboard_time": 1733540659,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185832,
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150207,
+      "num": 193667,
+      "word": "张伟丽世界综合格斗最佳女选手",
+      "onboard_time": 1733540417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150138,
       "num": 150138,
       "word": "交警再回应服务区休息被开罚单",
@@ -571,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144441,
+      "num": 144441,
+      "word": "紫燕百味鸡回应大肠杆菌超百倍",
+      "onboard_time": 1733541020,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 143297,
       "num": 143297,
       "word": "无限暖暖被指收入不及预期",
@@ -585,14 +609,6 @@
       "onboard_time": 1733467160,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139725,
-      "num": 193667,
-      "word": "张伟丽世界综合格斗最佳女选手",
-      "onboard_time": 1733540417,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 139132,
@@ -611,8 +627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128504,
-      "num": 128504,
+      "raw_hot": 132394,
+      "num": 183387,
       "word": "星宝买了小蛋糕",
       "onboard_time": 1733537898,
       "rank": 42,
@@ -625,6 +641,14 @@
       "onboard_time": 1733533040,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126504,
+      "num": 126504,
+      "word": "孙颖莎王楚钦回应混双比赛起伏",
+      "onboard_time": 1733540238,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125603,
@@ -675,20 +699,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119765,
-      "num": 119765,
+      "raw_hot": 119827,
+      "num": 119827,
       "word": "化妆前一定要知道的冷知识",
       "onboard_time": 1733539639,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 119652,
-      "num": 119652,
-      "word": "孙颖莎王楚钦回应混双比赛起伏",
-      "onboard_time": 1733540238,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 119245,
@@ -731,6 +747,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111229,
+      "num": 111229,
+      "word": "服务区被罚司机6次触发疲劳驾驶预警",
+      "onboard_time": 1733538379,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110452,
+      "num": 110452,
+      "word": "院方回应女子做彩超时男工程师闯入",
+      "onboard_time": 1733541137,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110049,
       "num": 109605,
       "word": "白夜破晓 指纹",
@@ -763,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109671,
+      "num": 109671,
+      "word": "谷爱凌晋级世界杯云顶站决赛",
+      "onboard_time": 1733540777,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109188,
       "num": 109188,
       "word": "韩国",
@@ -779,12 +819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107084,
+      "num": 107084,
+      "word": "小俞道歉",
+      "onboard_time": 1733540719,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103093,
       "num": 103093,
       "word": "黄仁勋被曝避税80亿美元",
       "onboard_time": 1733535919,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102075,
+      "num": 102075,
+      "word": "江西交警通报货车司机在服务区被罚",
+      "onboard_time": 1733541199,
+      "rank": 48,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 102033,
@@ -1083,20 +1139,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36557,
+      "num": 203781,
+      "word": "韩国总统弹劾案或将提前表决",
+      "onboard_time": 1733539159,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 35835,
       "num": 63731,
       "word": "团伙把恶意扣费代码写进老人机主板",
       "onboard_time": 1733522713,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34492,
-      "num": 203781,
-      "word": "韩国总统弹劾案或将提前表决",
-      "onboard_time": 1733539159,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32207,
