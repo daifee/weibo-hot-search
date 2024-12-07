@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733536167475,
+  "endTime": 1733537535764,
   "band_list": [
     {
       "raw_hot": 1672187,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1205076,
-      "num": 1205076,
+      "raw_hot": 1520370,
+      "num": 1520370,
       "word": "尹锡悦公开致歉",
       "onboard_time": 1733533880,
       "rank": 0,
@@ -41,6 +41,14 @@
       "onboard_time": 1733495301,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 613070,
+      "num": 613070,
+      "word": "杜小华与男孩DNA对比失败",
+      "onboard_time": 1733533218,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 580253,
@@ -107,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473715,
-      "num": 473715,
-      "word": "杜小华与男孩DNA对比失败",
-      "onboard_time": 1733533218,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 470537,
       "num": 355470,
       "word": "绿地集团回应董事长不雅照传言",
@@ -129,6 +129,14 @@
       "onboard_time": 1733499440,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412527,
+      "num": 412527,
+      "word": "韩执政党称尹锡悦已不能正常履职",
+      "onboard_time": 1733535739,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406754,
@@ -147,8 +155,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381298,
+      "num": 381298,
+      "word": "女子面瘫从香港跑河南针灸",
+      "onboard_time": 1733535857,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370747,
-      "num": 193221,
+      "num": 203172,
       "word": "婆婆过度节省婚房住成垃圾堆",
       "onboard_time": 1733528055,
       "rank": 30,
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356918,
+      "num": 356918,
+      "word": "孟子义回应摇人宣新剧",
+      "onboard_time": 1733533158,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348622,
       "num": 348622,
       "word": "江西文旅厅确认取消李行亮商演活动",
@@ -179,8 +203,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 328183,
+      "num": 328183,
+      "word": "周杰伦演唱会瘦回20年前",
+      "onboard_time": 1733533520,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 326361,
-      "num": 191855,
+      "num": 203058,
       "word": "真的建议喝咖啡时加点牛奶",
       "onboard_time": 1733525112,
       "rank": 20,
@@ -219,20 +251,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 300200,
-      "num": 300200,
-      "word": "孟子义回应摇人宣新剧",
-      "onboard_time": 1733533158,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297550,
       "num": 263111,
       "word": "小林是李昀锐的红包",
       "onboard_time": 1733499919,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296318,
+      "num": 296318,
+      "word": "教资面试真题",
+      "onboard_time": 1733532199,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 288678,
@@ -243,20 +275,20 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 287114,
-      "num": 287114,
-      "word": "教资面试真题",
-      "onboard_time": 1733532199,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 262854,
       "num": 184717,
       "word": "韩国总统向国民道歉",
       "onboard_time": 1733534301,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255586,
+      "num": 197516,
+      "word": "大学生花15万全款买房后的生活",
+      "onboard_time": 1733529496,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 248442,
@@ -267,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240009,
-      "num": 188038,
-      "word": "大学生花15万全款买房后的生活",
-      "onboard_time": 1733529496,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 220577,
+      "num": 220577,
+      "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
+      "onboard_time": 1733536099,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 219161,
@@ -299,20 +331,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197624,
-      "num": 197624,
-      "word": "周杰伦演唱会瘦回20年前",
-      "onboard_time": 1733533520,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 203408,
+      "num": 203408,
+      "word": "美法院拒绝驳回TikTok不卖就禁法案",
+      "onboard_time": 1733535801,
+      "rank": 45,
+      "category": "互联网"
     },
     {
-      "raw_hot": 193883,
-      "num": 193883,
-      "word": "韩执政党称尹锡悦已不能正常履职",
-      "onboard_time": 1733535739,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 202709,
+      "num": 202709,
+      "word": "杨幂北京出发",
+      "onboard_time": 1733527814,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189985,
@@ -329,14 +361,6 @@
       "onboard_time": 1733534897,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187532,
-      "num": 185388,
-      "word": "杨幂北京出发",
-      "onboard_time": 1733527814,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 185832,
@@ -361,6 +385,14 @@
       "onboard_time": 1733534598,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167845,
+      "num": 167845,
+      "word": "赵露思说即使害怕仍要不畏前行",
+      "onboard_time": 1733536939,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 162381,
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144572,
+      "num": 309333,
+      "word": "尹锡悦称将由所属党派决定总统任期",
+      "onboard_time": 1733535739,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141462,
       "num": 112710,
       "word": "中山美穗在浴缸中去世",
@@ -531,20 +571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "女子面瘫从香港跑河南针灸",
-      "onboard_time": 1733535857,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 119490,
+      "num": 119490,
+      "word": "晚上太饿可以吃5种宵夜",
+      "onboard_time": 1733536939,
+      "rank": 38,
+      "category": "美食,健康医疗"
     },
     {
-      "raw_hot": 116245,
-      "num": 116245,
-      "word": "美法院拒绝驳回TikTok不卖就禁法案",
-      "onboard_time": 1733535801,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 119245,
+      "num": 119245,
+      "word": "冬游四川直播",
+      "onboard_time": 1733536877,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115080,
@@ -603,12 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104420,
-      "num": 309333,
-      "word": "尹锡悦称将由所属党派决定总统任期",
-      "onboard_time": 1733535739,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 103093,
+      "num": 103093,
+      "word": "黄仁勋被曝避税80亿美元",
+      "onboard_time": 1733535919,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 102033,
@@ -619,12 +659,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101565,
+      "num": 101565,
+      "word": "马龙回应被称为六边形战士",
+      "onboard_time": 1733536398,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101172,
       "num": 101172,
       "word": "98万部老人机每月被偷偷扣话费",
       "onboard_time": 1733518752,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98895,
+      "num": 98895,
+      "word": "湖人vs老鹰",
+      "onboard_time": 1733536339,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95880,
@@ -761,14 +817,6 @@
       "onboard_time": 1733503217,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59186,
-      "num": 183342,
-      "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
-      "onboard_time": 1733536099,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 55073,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1733513651,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15688,
+      "num": 103419,
+      "word": "国乒队员谈战胜日本队",
+      "onboard_time": 1733530037,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 14138,

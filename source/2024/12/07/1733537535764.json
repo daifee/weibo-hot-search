@@ -1,0 +1,410 @@
+{
+  "runTime": 1733537535764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520370,
+        "num": 1520370,
+        "word": "尹锡悦公开致歉",
+        "onboard_time": 1733533880,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 613070,
+        "num": 613070,
+        "word": "杜小华与男孩DNA对比失败",
+        "onboard_time": 1733533218,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27491,
+        "num": 473361,
+        "word": "古人也会互赠日历表达祝福",
+        "onboard_time": 1733491638,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 442683,
+        "num": 442683,
+        "word": "孕妈称吃到发霉百草味面包宫缩入院",
+        "onboard_time": 1733530817,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412527,
+        "num": 412527,
+        "word": "韩执政党称尹锡悦已不能正常履职",
+        "onboard_time": 1733535739,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383117,
+        "num": 383117,
+        "word": "李行亮承诺离婚后不会怀恨在心",
+        "onboard_time": 1733495301,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381298,
+        "num": 381298,
+        "word": "女子面瘫从香港跑河南针灸",
+        "onboard_time": 1733535857,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356918,
+        "num": 356918,
+        "word": "孟子义回应摇人宣新剧",
+        "onboard_time": 1733533158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337554,
+        "num": 337554,
+        "word": "韩国国会今天表决尹锡悦弹劾案",
+        "onboard_time": 1733528896,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328183,
+        "num": 328183,
+        "word": "周杰伦演唱会瘦回20年前",
+        "onboard_time": 1733533520,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423758,
+        "num": 327091,
+        "word": "绿地集团回应董事长不雅照传言",
+        "onboard_time": 1733509273,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329421,
+        "num": 326564,
+        "word": "江西文旅厅确认取消李行亮商演活动",
+        "onboard_time": 1733531780,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 325128,
+        "num": 325128,
+        "word": "山航一航班大雪硬核飞行提前抵达",
+        "onboard_time": 1733529256,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296318,
+        "num": 296318,
+        "word": "教资面试真题",
+        "onboard_time": 1733532199,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144572,
+        "num": 296250,
+        "word": "尹锡悦称将由所属党派决定总统任期",
+        "onboard_time": 1733535739,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296218,
+        "num": 296218,
+        "word": "赵丽颖 我觉得今天很nice",
+        "onboard_time": 1733530697,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271171,
+        "num": 271171,
+        "word": "女子被探店博主拍到出镜获赔1万元",
+        "onboard_time": 1733528655,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269206,
+        "num": 269206,
+        "word": "韩安冉为晒和韩亿合照道歉",
+        "onboard_time": 1733529856,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 220577,
+        "num": 220577,
+        "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
+        "onboard_time": 1733536099,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203408,
+        "num": 203408,
+        "word": "美法院拒绝驳回TikTok不卖就禁法案",
+        "onboard_time": 1733535801,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1658769,
+        "num": 203340,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332703,
+        "num": 203172,
+        "word": "婆婆过度节省婚房住成垃圾堆",
+        "onboard_time": 1733528055,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322195,
+        "num": 203058,
+        "word": "真的建议喝咖啡时加点牛奶",
+        "onboard_time": 1733525112,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202709,
+        "num": 202709,
+        "word": "杨幂北京出发",
+        "onboard_time": 1733527814,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255586,
+        "num": 197516,
+        "word": "大学生花15万全款买房后的生活",
+        "onboard_time": 1733529496,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236797,
+        "num": 194465,
+        "word": "江西9胞胎女子开始考虑追责",
+        "onboard_time": 1733500519,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190227,
+        "num": 190227,
+        "word": "哥伦比亚回应2万具机库尸体事件",
+        "onboard_time": 1733500039,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 169533,
+        "word": "双轨剧组开除泄密工作人员",
+        "onboard_time": 1733501180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167845,
+        "num": 167845,
+        "word": "赵露思说即使害怕仍要不畏前行",
+        "onboard_time": 1733536939,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147729,
+        "num": 147729,
+        "word": "男子连喝8包板蓝根被送医抢救",
+        "onboard_time": 1733497642,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173035,
+        "num": 147320,
+        "word": "姚明说超越不了孙悦了",
+        "onboard_time": 1733534897,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146829,
+        "num": 146829,
+        "word": "孕32周女子阻止丈夫刷礼物被踢孕肚",
+        "onboard_time": 1733490681,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141877,
+        "num": 141877,
+        "word": "尹锡悦称绝不会有第2次戒严",
+        "onboard_time": 1733534598,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140869,
+        "num": 140869,
+        "word": "教资面试",
+        "onboard_time": 1733530158,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133702,
+        "num": 133702,
+        "word": "杜小华含泪发声",
+        "onboard_time": 1733533338,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128371,
+        "num": 128371,
+        "word": "工人上门修雪茄柜拿走两根高希霸",
+        "onboard_time": 1733528539,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122616,
+        "num": 122616,
+        "word": "琼瑶到底留下了多少钱",
+        "onboard_time": 1733528356,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121300,
+        "num": 121300,
+        "word": "李娜与马龙参加晚宴担任主持人",
+        "onboard_time": 1733535138,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119490,
+        "num": 119490,
+        "word": "晚上太饿可以吃5种宵夜",
+        "onboard_time": 1733536939,
+        "rank": 38,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 119245,
+        "num": 119245,
+        "word": "冬游四川直播",
+        "onboard_time": 1733536877,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106135,
+        "num": 106135,
+        "word": "哈尔滨冰雪大世界惊艳建造",
+        "onboard_time": 1733530218,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104381,
+        "num": 104381,
+        "word": "韩国朝野两党党首均强调尹锡悦须停职",
+        "onboard_time": 1733534060,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103961,
+        "num": 103961,
+        "word": "白鹿给翟子路的见面礼是撕名牌",
+        "onboard_time": 1733533040,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15688,
+        "num": 103419,
+        "word": "国乒队员谈战胜日本队",
+        "onboard_time": 1733530037,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103165,
+        "num": 103165,
+        "word": "贾玲为67岁冯巩庆生",
+        "onboard_time": 1733499081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103093,
+        "num": 103093,
+        "word": "黄仁勋被曝避税80亿美元",
+        "onboard_time": 1733535919,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102155,
+        "num": 102155,
+        "word": "孙颖莎说混双第3局和王楚钦有些松懈",
+        "onboard_time": 1733530158,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101565,
+        "num": 101565,
+        "word": "马龙回应被称为六边形战士",
+        "onboard_time": 1733536398,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100217,
+        "num": 100217,
+        "word": "中山美穗昨日发文称心被压垮",
+        "onboard_time": 1733527694,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98895,
+        "num": 98895,
+        "word": "湖人vs老鹰",
+        "onboard_time": 1733536339,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}

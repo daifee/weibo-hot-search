@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733536167475,
+  "endTime": 1733537535764,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -627,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1520370,
+      "num": 1520370,
+      "word": "尹锡悦公开致歉",
+      "onboard_time": 1733533880,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1511610,
       "num": 1511610,
       "word": "于正删除了对琼瑶的道歉函",
@@ -961,14 +969,6 @@
       "onboard_time": 1733186959,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1205076,
-      "num": 1205076,
-      "word": "尹锡悦公开致歉",
-      "onboard_time": 1733533880,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1199058,
@@ -2707,6 +2707,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 613070,
+      "num": 613070,
+      "word": "杜小华与男孩DNA对比失败",
+      "onboard_time": 1733533218,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612583,
       "num": 477110,
       "word": "宋慧乔 痛苦只是流经我",
@@ -3803,14 +3811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 473715,
-      "num": 473715,
-      "word": "杜小华与男孩DNA对比失败",
-      "onboard_time": 1733533218,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 471982,
       "num": 471982,
       "word": "警方介入华中农大一学生被指虐猫",
@@ -4547,6 +4547,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 412527,
+      "num": 412527,
+      "word": "韩执政党称尹锡悦已不能正常履职",
+      "onboard_time": 1733535739,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411854,
       "num": 216743,
       "word": "永夜星河逆跌",
@@ -4931,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381298,
+      "num": 381298,
+      "word": "女子面瘫从香港跑河南针灸",
+      "onboard_time": 1733535857,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381130,
       "num": 381130,
       "word": "大侦探10首发阵容",
@@ -5084,7 +5100,7 @@
     },
     {
       "raw_hot": 370747,
-      "num": 193221,
+      "num": 203172,
       "word": "婆婆过度节省婚房住成垃圾堆",
       "onboard_time": 1733528055,
       "rank": 30,
@@ -5241,6 +5257,14 @@
       "onboard_time": 1733499081,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 356918,
+      "num": 356918,
+      "word": "孟子义回应摇人宣新剧",
+      "onboard_time": 1733533158,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 356663,
@@ -5699,6 +5723,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 328183,
+      "num": 328183,
+      "word": "周杰伦演唱会瘦回20年前",
+      "onboard_time": 1733533520,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327813,
       "num": 315985,
       "word": "李在明要求韩国国会外军警撤退",
@@ -5732,7 +5764,7 @@
     },
     {
       "raw_hot": 326361,
-      "num": 191855,
+      "num": 203058,
       "word": "真的建议喝咖啡时加点牛奶",
       "onboard_time": 1733525112,
       "rank": 20,
@@ -6067,14 +6099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 300200,
-      "num": 300200,
-      "word": "孟子义回应摇人宣新剧",
-      "onboard_time": 1733533158,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299191,
       "num": 277825,
       "word": "汪苏泷突然第一名",
@@ -6105,6 +6129,14 @@
       "onboard_time": 1733305224,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 296318,
+      "num": 296318,
+      "word": "教资面试真题",
+      "onboard_time": 1733532199,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 296120,
@@ -6281,14 +6313,6 @@
       "onboard_time": 1733318422,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287114,
-      "num": 287114,
-      "word": "教资面试真题",
-      "onboard_time": 1733532199,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 286716,
@@ -6867,6 +6891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255586,
+      "num": 197516,
+      "word": "大学生花15万全款买房后的生活",
+      "onboard_time": 1733529496,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254538,
       "num": 178746,
       "word": "黄子韬鹿晗连麦",
@@ -7265,14 +7297,6 @@
       "onboard_time": 1733458460,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240009,
-      "num": 188038,
-      "word": "大学生花15万全款买房后的生活",
-      "onboard_time": 1733529496,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 240006,
@@ -7985,6 +8009,14 @@
       "onboard_time": 1733129779,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220577,
+      "num": 220577,
+      "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
+      "onboard_time": 1733536099,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 220428,
@@ -8747,6 +8779,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 203408,
+      "num": 203408,
+      "word": "美法院拒绝驳回TikTok不卖就禁法案",
+      "onboard_time": 1733535801,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203407,
       "num": 203407,
       "word": "黄冠亨直播",
@@ -8825,6 +8865,14 @@
       "onboard_time": 1733283740,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202709,
+      "num": 202709,
+      "word": "杨幂北京出发",
+      "onboard_time": 1733527814,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 202699,
@@ -9137,14 +9185,6 @@
       "onboard_time": 1733327000,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197624,
-      "num": 197624,
-      "word": "周杰伦演唱会瘦回20年前",
-      "onboard_time": 1733533520,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 197471,
@@ -9465,14 +9505,6 @@
       "onboard_time": 1733462599,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193883,
-      "num": 193883,
-      "word": "韩执政党称尹锡悦已不能正常履职",
-      "onboard_time": 1733535739,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 193685,
@@ -9928,14 +9960,6 @@
       "word": "宋亚轩无框眼镜",
       "onboard_time": 1733193799,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187532,
-      "num": 185388,
-      "word": "杨幂北京出发",
-      "onboard_time": 1733527814,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -11233,6 +11257,14 @@
       "onboard_time": 1733032277,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167845,
+      "num": 167845,
+      "word": "赵露思说即使害怕仍要不畏前行",
+      "onboard_time": 1733536939,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 167758,
@@ -13065,6 +13097,14 @@
       "onboard_time": 1733050519,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144572,
+      "num": 309333,
+      "word": "尹锡悦称将由所属党派决定总统任期",
+      "onboard_time": 1733535739,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144398,
@@ -14979,14 +15019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "女子面瘫从香港跑河南针灸",
-      "onboard_time": 1733535857,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119745,
       "num": 119745,
       "word": "大雪标志着仲冬时节正式开始",
@@ -15003,6 +15035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119490,
+      "num": 119490,
+      "word": "晚上太饿可以吃5种宵夜",
+      "onboard_time": 1733536939,
+      "rank": 38,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 119437,
       "num": 184556,
       "word": "王曼昱对手右手残疾曾参加残奥会",
@@ -15017,6 +15057,14 @@
       "onboard_time": 1733144185,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119245,
+      "num": 119245,
+      "word": "冬游四川直播",
+      "onboard_time": 1733536877,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119180,
@@ -15217,14 +15265,6 @@
       "onboard_time": 1733221699,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116245,
-      "num": 116245,
-      "word": "美法院拒绝驳回TikTok不卖就禁法案",
-      "onboard_time": 1733535801,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 116166,
@@ -15955,14 +15995,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 104420,
-      "num": 309333,
-      "word": "尹锡悦称将由所属党派决定总统任期",
-      "onboard_time": 1733535739,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104406,
       "num": 413200,
       "word": "吴柳芳曾说想自己沉淀",
@@ -16019,6 +16051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103093,
+      "num": 103093,
+      "word": "黄仁勋被曝避税80亿美元",
+      "onboard_time": 1733535919,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102924,
       "num": 380432,
       "word": "幸福航空飞行员因被欠薪送外卖",
@@ -16073,6 +16113,14 @@
       "onboard_time": 1733065459,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101565,
+      "num": 101565,
+      "word": "马龙回应被称为六边形战士",
+      "onboard_time": 1733536398,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 101435,
@@ -16297,6 +16345,14 @@
       "onboard_time": 1733104397,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 98895,
+      "num": 98895,
+      "word": "湖人vs老鹰",
+      "onboard_time": 1733536339,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98550,
@@ -18585,14 +18641,6 @@
       "onboard_time": 1733324425,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59186,
-      "num": 183342,
-      "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
-      "onboard_time": 1733536099,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 58850,
@@ -22649,6 +22697,14 @@
       "onboard_time": 1733513651,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15688,
+      "num": 103419,
+      "word": "国乒队员谈战胜日本队",
+      "onboard_time": 1733530037,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 15589,
