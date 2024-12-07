@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733545702844,
+  "endTime": 1733546582274,
   "band_list": [
     {
       "raw_hot": 1855490,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1052236,
+      "num": 184645,
+      "word": "安眠药防自杀设计",
+      "onboard_time": 1733544320,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 968030,
       "num": 968030,
       "word": "麦琳说离婚后不要李行亮承担自己",
       "onboard_time": 1733541739,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 866917,
+      "num": 425923,
+      "word": "美国男子钻行李箱被女友关拉链致死",
+      "onboard_time": 1733544679,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 861110,
@@ -81,14 +97,6 @@
       "onboard_time": 1733495301,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 758109,
-      "num": 184645,
-      "word": "安眠药防自杀设计",
-      "onboard_time": 1733544320,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 613070,
@@ -171,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496831,
+      "num": 496831,
+      "word": "尖叫之夜出图速度",
+      "onboard_time": 1733542939,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491912,
       "num": 491912,
       "word": "陈丽云被查",
@@ -185,14 +201,6 @@
       "onboard_time": 1733543960,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 478998,
-      "num": 478998,
-      "word": "尖叫之夜出图速度",
-      "onboard_time": 1733542939,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 470537,
@@ -227,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425923,
-      "num": 425923,
-      "word": "美国男子钻行李箱被女友关拉链致死",
-      "onboard_time": 1733544679,
-      "rank": 11,
-      "category": "海外新闻"
+      "raw_hot": 432839,
+      "num": 432839,
+      "word": "男子300多万买俩路虎提车被拒",
+      "onboard_time": 1733544800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424723,
@@ -296,6 +304,14 @@
       "word": "婆婆过度节省婚房住成垃圾堆",
       "onboard_time": 1733528055,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362590,
+      "num": 362590,
+      "word": "紫燕百味鸡事件",
+      "onboard_time": 1733545158,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318206,
+      "num": 318206,
+      "word": "大冰好有饭缩力",
+      "onboard_time": 1733545221,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 307867,
       "num": 183607,
       "word": "尹锡悦今天将发表国民谈话",
@@ -411,12 +435,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 292669,
+      "num": 292669,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733544139,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289962,
+      "num": 289962,
+      "word": "尖叫之夜路透",
+      "onboard_time": 1733543419,
+      "rank": 27,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 288678,
       "num": 177538,
       "word": "赵丽颖新加坡红毯",
       "onboard_time": 1733484681,
       "rank": 20,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 279810,
+      "num": 279810,
+      "word": "易烊千玺 我爱洗澡",
+      "onboard_time": 1733545698,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 262854,
@@ -435,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 254131,
-      "num": 254131,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1733544139,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 251042,
+      "num": 169031,
+      "word": "胖东来购物需凭会员结账",
+      "onboard_time": 1733545520,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248442,
@@ -467,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225144,
+      "num": 225144,
+      "word": "TikTok周受资称将上诉到最高法院",
+      "onboard_time": 1733544619,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 220577,
       "num": 220577,
       "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
@@ -481,6 +537,14 @@
       "onboard_time": 1733536939,
       "rank": 38,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 219306,
+      "num": 219306,
+      "word": "中国春节走向世界宣传片",
+      "onboard_time": 1733545941,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 219161,
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204641,
+      "num": 434554,
+      "word": "尹锡悦称宣布戒严出于绝望",
+      "onboard_time": 1733544619,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 202709,
       "num": 202709,
       "word": "杨幂北京出发",
@@ -523,44 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192567,
-      "num": 207996,
-      "word": "男子300多万买俩路虎提车被拒",
-      "onboard_time": 1733544800,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191520,
-      "num": 191520,
-      "word": "TikTok周受资称将上诉到最高法院",
-      "onboard_time": 1733544619,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 189985,
       "num": 142164,
       "word": "排队13小时仅为抢一台手机",
       "onboard_time": 1733499199,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189314,
-      "num": 189314,
-      "word": "紫燕百味鸡事件",
-      "onboard_time": 1733545158,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188653,
-      "num": 188653,
-      "word": "尖叫之夜路透",
-      "onboard_time": 1733543419,
-      "rank": 27,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 188419,
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173780,
+      "num": 185628,
+      "word": "张艺兴谢幕眼眶湿润",
+      "onboard_time": 1733545579,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173507,
       "num": 361517,
       "word": "尹锡悦称绝不会有第2次戒严",
@@ -619,12 +667,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169197,
+      "num": 169197,
+      "word": "谷爱凌决赛摔倒",
+      "onboard_time": 1733546297,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168870,
+      "num": 168870,
+      "word": "丈夫待业在家被抱怨只给几百生活费",
+      "onboard_time": 1733545819,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167845,
       "num": 167845,
       "word": "赵露思说即使害怕仍要不畏前行",
       "onboard_time": 1733536939,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164379,
+      "num": 164379,
+      "word": "田曦薇捧着花来的",
+      "onboard_time": 1733546420,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 162381,
@@ -787,20 +859,28 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 142452,
+      "num": 142452,
+      "word": "成都混团",
+      "onboard_time": 1733546297,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141658,
+      "num": 141658,
+      "word": "李子柒又营业了",
+      "onboard_time": 1733546420,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 141462,
       "num": 112710,
       "word": "中山美穗在浴缸中去世",
       "onboard_time": 1733467160,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140296,
-      "num": 208962,
-      "word": "大冰好有饭缩力",
-      "onboard_time": 1733545221,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 139132,
@@ -825,14 +905,6 @@
       "onboard_time": 1733544320,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 133569,
-      "num": 133569,
-      "word": "胖东来购物需凭会员结账",
-      "onboard_time": 1733545520,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132394,
@@ -867,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124700,
+      "num": 124700,
+      "word": "券商员工偷看基金持仓获利23万",
+      "onboard_time": 1733546180,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123937,
       "num": 123937,
       "word": "刚果金因不明原因疾病拉响最高警报",
@@ -889,14 +969,6 @@
       "onboard_time": 1733520251,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120847,
-      "num": 434554,
-      "word": "尹锡悦称宣布戒严出于绝望",
-      "onboard_time": 1733544619,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120767,
@@ -1052,7 +1124,7 @@
     },
     {
       "raw_hot": 107084,
-      "num": 107084,
+      "num": 199516,
       "word": "小俞道歉",
       "onboard_time": 1733540719,
       "rank": 47,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1733483480,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89996,
-      "num": 185628,
-      "word": "张艺兴谢幕眼眶湿润",
-      "onboard_time": 1733545579,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 87858,
@@ -1315,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43395,
+      "num": 731612,
+      "word": "看中国的非遗惊艳世界",
+      "onboard_time": 1733544379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43368,
       "num": 43368,
       "word": "石凯新歌",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1733516652,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26739,
-      "num": 731612,
-      "word": "看中国的非遗惊艳世界",
-      "onboard_time": 1733544379,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24477,
