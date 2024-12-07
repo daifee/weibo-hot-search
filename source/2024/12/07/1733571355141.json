@@ -1,0 +1,410 @@
+{
+  "runTime": 1733571355141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2841825,
+        "num": 2841825,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601602,
+        "num": 601602,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52591,
+        "num": 430495,
+        "word": "中国春节走向世界宣传片",
+        "onboard_time": 1733545941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1470271,
+        "num": 371424,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303279,
+        "num": 303279,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346767,
+        "num": 297555,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1045917,
+        "num": 290967,
+        "word": "刘诗诗竹绿高定",
+        "onboard_time": 1733569582,
+        "rank": 6,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 725326,
+        "num": 288621,
+        "word": "虞书欣 雅典女神",
+        "onboard_time": 1733553018,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280710,
+        "num": 280710,
+        "word": "广东培育中国黑猪品种有重大突破",
+        "onboard_time": 1733567118,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12728,
+        "num": 280593,
+        "word": "孙龙1金1铜",
+        "onboard_time": 1733571021,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796085,
+        "num": 274678,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684081,
+        "num": 271007,
+        "word": "白鹿妆造",
+        "onboard_time": 1733568561,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 645851,
+        "num": 269710,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1733552479,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517781,
+        "num": 265197,
+        "word": "虞书欣牵着小月亮走红毯",
+        "onboard_time": 1733569582,
+        "rank": 13,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 314860,
+        "num": 260841,
+        "word": "韩国会在场议员人数不够通过弹劾案",
+        "onboard_time": 1733563340,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 384123,
+        "num": 257079,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256863,
+        "num": 256863,
+        "word": "内蒙古沙漠下有个大水库",
+        "onboard_time": 1733567721,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223643,
+        "num": 256857,
+        "word": "韩国国会否决金建希特检法",
+        "onboard_time": 1733561480,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180699,
+        "num": 255883,
+        "word": "听泉鉴宝深夜看舞被妈妈抓包",
+        "onboard_time": 1733568861,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69347,
+        "num": 254521,
+        "word": "林诗栋蒯曼vs伊斯特拉特迪亚科努",
+        "onboard_time": 1733568202,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470952,
+        "num": 253836,
+        "word": "尖叫之夜",
+        "onboard_time": 1733570301,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446254,
+        "num": 253093,
+        "word": "秦岚 既是姐姐又是妈妈",
+        "onboard_time": 1733564302,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413450,
+        "num": 252826,
+        "word": "黄景瑜孙千牵手走红毯",
+        "onboard_time": 1733564898,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9516,
+        "num": 251467,
+        "word": "久酷缺席首发",
+        "onboard_time": 1733571202,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140798,
+        "num": 250971,
+        "word": "上万人在地摊免费学急救",
+        "onboard_time": 1733570360,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 383555,
+        "num": 249849,
+        "word": "易梦玲 大梦归离剧组",
+        "onboard_time": 1733562560,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372667,
+        "num": 249407,
+        "word": "周芯竹一个月暴瘦十斤",
+        "onboard_time": 1733561541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357695,
+        "num": 248496,
+        "word": "尖叫之夜座位安排",
+        "onboard_time": 1733570541,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294471,
+        "num": 248044,
+        "word": "迪丽热巴解锁6套郭培高定",
+        "onboard_time": 1733567900,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266551,
+        "num": 246664,
+        "word": "直观感受瘦了20斤后的面部变化",
+        "onboard_time": 1733564419,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157276,
+        "num": 246309,
+        "word": "羽生结弦echoes of life",
+        "onboard_time": 1733565319,
+        "rank": 30,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 273549,
+        "num": 245261,
+        "word": "成毅 男大",
+        "onboard_time": 1733570781,
+        "rank": 31,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 268098,
+        "num": 244504,
+        "word": "双轨首发概念海报",
+        "onboard_time": 1733567184,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244116,
+        "num": 244116,
+        "word": "钟楚曦 赫本风",
+        "onboard_time": 1733564778,
+        "rank": 33,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 232774,
+        "num": 232774,
+        "word": "王勉把五哈穿身上了",
+        "onboard_time": 1733568802,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230581,
+        "num": 230581,
+        "word": "白敬亭肌肉",
+        "onboard_time": 1733568619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207015,
+        "num": 207015,
+        "word": "双轨",
+        "onboard_time": 1733568802,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183731,
+        "num": 183731,
+        "word": "真正让你长痘的食物",
+        "onboard_time": 1733560157,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175460,
+        "num": 175460,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145320,
+        "num": 145320,
+        "word": "iG四人现身机场",
+        "onboard_time": 1733567184,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202691,
+        "num": 144665,
+        "word": "孟子义演技",
+        "onboard_time": 1733570360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12001,
+        "num": 143753,
+        "word": "梁永安 年轻人不要追求完美",
+        "onboard_time": 1733563520,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193772,
+        "num": 143052,
+        "word": "田曦薇黑长直的神",
+        "onboard_time": 1733569641,
+        "rank": 42,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 192206,
+        "num": 142030,
+        "word": "周密的精神状态",
+        "onboard_time": 1733567841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183685,
+        "num": 140736,
+        "word": "李沁 女王气场",
+        "onboard_time": 1733567001,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 155450,
+        "num": 139725,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139625,
+        "num": 139625,
+        "word": "西安惊现00后版杨贵妃现场被挤爆",
+        "onboard_time": 1733565200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136875,
+        "num": 136875,
+        "word": "国乒vs罗马尼亚",
+        "onboard_time": 1733568020,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136321,
+        "num": 136321,
+        "word": "飞机撞到鸟群机头血迹清晰可见",
+        "onboard_time": 1733551939,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119656,
+        "num": 134170,
+        "word": "Gumayusi说JackeyLove总想搞事",
+        "onboard_time": 1733568619,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}
