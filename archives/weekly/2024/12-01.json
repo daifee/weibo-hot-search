@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733578776239,
+  "endTime": 1733581223100,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3687348,
+      "num": 3687348,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1733570240,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3656778,
       "num": 3656778,
       "word": "韩国",
@@ -193,14 +201,6 @@
       "onboard_time": 1733401820,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2841825,
-      "num": 2841825,
-      "word": "尖叫之夜内场",
-      "onboard_time": 1733570240,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 2795082,
@@ -289,6 +289,14 @@
       "onboard_time": 1733237365,
       "rank": 3,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2257814,
+      "num": 744299,
+      "word": "尖叫女神竟是iejj",
+      "onboard_time": 1733578040,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 2245142,
@@ -1723,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 921572,
+      "num": 759126,
+      "word": "姜妍在台下笑意盈盈地看着她",
+      "onboard_time": 1733577141,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 918498,
       "num": 836323,
       "word": "黄子韬朋友圈 语录推荐",
@@ -2259,14 +2275,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 759126,
-      "num": 759126,
-      "word": "姜妍在台下笑意盈盈地看着她",
-      "onboard_time": 1733577141,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 758595,
       "num": 372962,
       "word": "黄景瑜孙千牵手走红毯",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1733045481,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 744299,
-      "num": 744299,
-      "word": "尖叫女神竟是iejj",
-      "onboard_time": 1733578040,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 739829,
@@ -4379,6 +4379,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 461635,
+      "num": 271173,
+      "word": "香港13平三室一厅一厨一卫的房子",
+      "onboard_time": 1733577323,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461516,
       "num": 461516,
       "word": "王亚飞给迪丽热巴画的薰衣草眼妆",
@@ -4723,6 +4731,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 439858,
+      "num": 409011,
+      "word": "黄景瑜 导播太爱我怎么办",
+      "onboard_time": 1733578160,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438773,
       "num": 438773,
       "word": "骗子1小时内快递礼物引诱受害者",
@@ -4761,14 +4777,6 @@
       "onboard_time": 1733280737,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 435790,
-      "num": 271173,
-      "word": "香港13平三室一厅一厨一卫的房子",
-      "onboard_time": 1733577323,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 435454,
@@ -4904,6 +4912,14 @@
       "word": "宋亚轩自曝体重",
       "onboard_time": 1733117479,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 427678,
+      "num": 407883,
+      "word": "聂远秦岚帝后CP复活",
+      "onboard_time": 1733578822,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -5483,6 +5499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387222,
+      "num": 256169,
+      "word": "虞书欣发言",
+      "onboard_time": 1733579542,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386805,
       "num": 386805,
       "word": "范丞丞唇钉",
@@ -5939,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357851,
+      "num": 255729,
+      "word": "尖叫之夜串烧 难听",
+      "onboard_time": 1733580082,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357843,
       "num": 357843,
       "word": "贾玲为67岁冯巩庆生",
@@ -6137,6 +6169,14 @@
       "onboard_time": 1733550019,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 344823,
+      "num": 344823,
+      "word": "周五下班韩国飞中国说走就走",
+      "onboard_time": 1733578343,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 344586,
@@ -7251,6 +7291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281245,
+      "num": 254668,
+      "word": "秦岚嗓子还没好",
+      "onboard_time": 1733578942,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281167,
       "num": 281167,
       "word": "网红祁天道犯诈骗罪获刑细节",
@@ -7321,6 +7369,14 @@
       "onboard_time": 1733199921,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278180,
+      "num": 254221,
+      "word": "向涵之庄达菲坐一起",
+      "onboard_time": 1733580621,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 277914,
@@ -7600,14 +7656,6 @@
       "word": "快乐再出发制片人报销并提供门票",
       "onboard_time": 1733183239,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 266276,
-      "num": 266276,
-      "word": "黄景瑜 导播太爱我怎么办",
-      "onboard_time": 1733578160,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -8017,6 +8065,14 @@
       "onboard_time": 1733527335,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247839,
+      "num": 239600,
+      "word": "小水全中文领奖词",
+      "onboard_time": 1733579602,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 247382,
@@ -9803,6 +9859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205377,
+      "num": 171596,
+      "word": "大梦归离小诗句",
+      "onboard_time": 1733579062,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205334,
       "num": 205334,
       "word": "祖父母拒与非婚生孙女分亡父赔偿金",
@@ -10489,6 +10553,14 @@
       "onboard_time": 1733462660,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195872,
+      "num": 167334,
+      "word": "展信佳",
+      "onboard_time": 1733581042,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 195810,
@@ -12137,6 +12209,14 @@
       "onboard_time": 1733196499,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175485,
+      "num": 255025,
+      "word": "我是刑警 张克寒案",
+      "onboard_time": 1733579843,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 175416,
@@ -14225,6 +14305,14 @@
       "onboard_time": 1733139205,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149973,
+      "num": 149973,
+      "word": "熊猫幼崽出逃被当场抓住搓澡",
+      "onboard_time": 1733576780,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149940,
@@ -16491,14 +16579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123167,
-      "num": 123167,
-      "word": "周五下班韩国飞中国说走就走",
-      "onboard_time": 1733578343,
-      "rank": 47,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 123151,
       "num": 162007,
       "word": "国乒vs中国香港对阵名单",
@@ -17843,6 +17923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106159,
+      "num": 545333,
+      "word": "农村公路可以有多美",
+      "onboard_time": 1733579362,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106102,
       "num": 106102,
       "word": "因醉驾免职村支书被举报扶植儿子继任",
@@ -18961,6 +19049,14 @@
       "onboard_time": 1733479760,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 87885,
+      "num": 410278,
+      "word": "韩国在野党11日将再提尹锡悦弹劾案",
+      "onboard_time": 1733579420,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87880,
@@ -20547,6 +20643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61280,
+      "num": 270353,
+      "word": "DNF嘉年华让蛇口变猴口",
+      "onboard_time": 1733578702,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61212,
       "num": 61212,
       "word": "丁禹兮缝缝补补破破烂烂的剧本",
@@ -20777,14 +20881,6 @@
       "onboard_time": 1733563520,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 58932,
-      "num": 270353,
-      "word": "DNF嘉年华让蛇口变猴口",
-      "onboard_time": 1733578702,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 58850,
@@ -21105,6 +21201,14 @@
       "onboard_time": 1733026938,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54915,
+      "num": 256441,
+      "word": "有拖延症的人更易抑郁",
+      "onboard_time": 1733580203,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 54877,
@@ -21863,6 +21967,14 @@
       "num": 431722,
       "word": "2024年宪法宣传周",
       "onboard_time": 1733317223,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46201,
+      "num": 407842,
+      "word": "年轻人买铁皮要等200天",
+      "onboard_time": 1733580443,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -24035,6 +24147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25022,
+      "num": 256611,
+      "word": "孙颖莎邱贻可坐前后排也聊上了",
+      "onboard_time": 1733580621,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24984,
       "num": 24984,
       "word": "好运来",
@@ -25633,6 +25753,14 @@
       "onboard_time": 1733563939,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8668,
+      "num": 254756,
+      "word": "夏鸣星来日繁花",
+      "onboard_time": 1733577442,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 8500,

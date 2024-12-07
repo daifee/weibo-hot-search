@@ -1,0 +1,410 @@
+{
+  "runTime": 1733581223100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3687348,
+        "num": 3687348,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665952,
+        "num": 665952,
+        "word": "女子收骗子礼物后立即删了骗子",
+        "onboard_time": 1733573361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106159,
+        "num": 545333,
+        "word": "农村公路可以有多美",
+        "onboard_time": 1733579362,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2257814,
+        "num": 516764,
+        "word": "尖叫女神竟是iejj",
+        "onboard_time": 1733578040,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470466,
+        "num": 470466,
+        "word": "为突发疾病同事垫付24万医疗费被赖账",
+        "onboard_time": 1733576002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421162,
+        "num": 421162,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 921572,
+        "num": 417366,
+        "word": "姜妍在台下笑意盈盈地看着她",
+        "onboard_time": 1733577141,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 619364,
+        "num": 414631,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410842,
+        "num": 410842,
+        "word": "骗子1小时内快递礼物引诱受害者",
+        "onboard_time": 1733574920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87885,
+        "num": 410278,
+        "word": "韩国在野党11日将再提尹锡悦弹劾案",
+        "onboard_time": 1733579420,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 608638,
+        "num": 409971,
+        "word": "虞书欣张凌赫邓为 三人自拍",
+        "onboard_time": 1733575700,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461974,
+        "num": 409587,
+        "word": "尹锡悦弹劾案未获通过",
+        "onboard_time": 1733575221,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 439858,
+        "num": 409011,
+        "word": "黄景瑜 导播太爱我怎么办",
+        "onboard_time": 1733578160,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427678,
+        "num": 407883,
+        "word": "聂远秦岚帝后CP复活",
+        "onboard_time": 1733578822,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46201,
+        "num": 407842,
+        "word": "年轻人买铁皮要等200天",
+        "onboard_time": 1733580443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407254,
+        "num": 407254,
+        "word": "白鹿妆造",
+        "onboard_time": 1733568561,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344823,
+        "num": 344823,
+        "word": "周五下班韩国飞中国说走就走",
+        "onboard_time": 1733578343,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 256775,
+        "num": 256775,
+        "word": "王楚钦杂志",
+        "onboard_time": 1733573842,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25022,
+        "num": 256611,
+        "word": "孙颖莎邱贻可坐前后排也聊上了",
+        "onboard_time": 1733580621,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54915,
+        "num": 256441,
+        "word": "有拖延症的人更易抑郁",
+        "onboard_time": 1733580203,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461635,
+        "num": 256334,
+        "word": "香港13平三室一厅一厨一卫的房子",
+        "onboard_time": 1733577323,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387222,
+        "num": 256169,
+        "word": "虞书欣发言",
+        "onboard_time": 1733579542,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363970,
+        "num": 255880,
+        "word": "刘诗诗竹绿高定",
+        "onboard_time": 1733569582,
+        "rank": 22,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 357851,
+        "num": 255729,
+        "word": "尖叫之夜串烧 难听",
+        "onboard_time": 1733580082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352009,
+        "num": 255652,
+        "word": "谁给陈哲远田曦薇递个本",
+        "onboard_time": 1733575761,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332406,
+        "num": 255406,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292386,
+        "num": 255257,
+        "word": "尖叫之夜",
+        "onboard_time": 1733570301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255118,
+        "num": 255118,
+        "word": "英国夫妇纯素食饿死3岁儿子",
+        "onboard_time": 1733571740,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175485,
+        "num": 255025,
+        "word": "我是刑警 张克寒案",
+        "onboard_time": 1733579843,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8668,
+        "num": 254756,
+        "word": "夏鸣星来日繁花",
+        "onboard_time": 1733577442,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281245,
+        "num": 254668,
+        "word": "秦岚嗓子还没好",
+        "onboard_time": 1733578942,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278180,
+        "num": 254221,
+        "word": "向涵之庄达菲坐一起",
+        "onboard_time": 1733580621,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254221,
+        "num": 254220,
+        "word": "九重紫 导演炫技",
+        "onboard_time": 1733572400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245192,
+        "num": 245192,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61280,
+        "num": 239933,
+        "word": "DNF嘉年华让蛇口变猴口",
+        "onboard_time": 1733578702,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247839,
+        "num": 239600,
+        "word": "小水全中文领奖词",
+        "onboard_time": 1733579602,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238287,
+        "num": 238287,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222117,
+        "num": 222117,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220847,
+        "num": 220847,
+        "word": "欣诚则凌",
+        "onboard_time": 1733573780,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176779,
+        "num": 176779,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205377,
+        "num": 171596,
+        "word": "大梦归离小诗句",
+        "onboard_time": 1733579062,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202133,
+        "num": 168618,
+        "word": "迪丽热巴解锁6套郭培高定",
+        "onboard_time": 1733567900,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195872,
+        "num": 167334,
+        "word": "展信佳",
+        "onboard_time": 1733581042,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164180,
+        "num": 164180,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190899,
+        "num": 157343,
+        "word": "周杰伦演唱会",
+        "onboard_time": 1733577803,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149973,
+        "num": 149973,
+        "word": "熊猫幼崽出逃被当场抓住搓澡",
+        "onboard_time": 1733576780,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132093,
+        "num": 132093,
+        "word": "直观感受瘦了20斤后的面部变化",
+        "onboard_time": 1733564419,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126956,
+        "num": 126956,
+        "word": "淄博舰原地掉头引来现场一片惊呼",
+        "onboard_time": 1733576661,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 92725,
+        "num": 126897,
+        "word": "中国香港8比7日本",
+        "onboard_time": 1733572700,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87300,
+        "num": 126733,
+        "word": "KPL",
+        "onboard_time": 1733579062,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
