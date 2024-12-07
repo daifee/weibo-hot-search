@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733543391329,
+  "endTime": 1733545702844,
   "band_list": [
     {
       "raw_hot": 1855490,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1420732,
+      "num": 1420732,
+      "word": "紫燕百味鸡回应大肠杆菌超百倍",
+      "onboard_time": 1733541020,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1245165,
       "num": 148019,
       "word": "女生醉酒遭强奸致死案一审择期宣判",
@@ -43,12 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1077165,
-      "num": 1172346,
-      "word": "紫燕百味鸡回应大肠杆菌超百倍",
-      "onboard_time": 1733541020,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 968030,
+      "num": 968030,
+      "word": "麦琳说离婚后不要李行亮承担自己",
+      "onboard_time": 1733541739,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 861110,
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 836721,
-      "num": 836721,
-      "word": "麦琳说离婚后不要李行亮承担自己",
-      "onboard_time": 1733541739,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 770758,
       "num": 770758,
       "word": "李行亮承诺离婚后不会怀恨在心",
@@ -83,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 758109,
+      "num": 184645,
+      "word": "安眠药防自杀设计",
+      "onboard_time": 1733544320,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 613070,
       "num": 613070,
       "word": "杜小华与男孩DNA对比失败",
       "onboard_time": 1733533218,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 592705,
+      "num": 592705,
+      "word": "易烊千玺浴池音乐会",
+      "onboard_time": 1733543658,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 580253,
@@ -163,11 +179,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 479480,
+      "num": 479480,
+      "word": "王楚钦孙颖莎vs多尔扎里夫",
+      "onboard_time": 1733543960,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 478998,
+      "num": 478998,
+      "word": "尖叫之夜出图速度",
+      "onboard_time": 1733542939,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470537,
       "num": 355470,
       "word": "绿地集团回应董事长不雅照传言",
       "onboard_time": 1733509273,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460620,
+      "num": 460620,
+      "word": "院方回应女子做彩超时男工程师闯入",
+      "onboard_time": 1733541137,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -177,6 +217,22 @@
       "onboard_time": 1733535857,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434430,
+      "num": 434430,
+      "word": "大英博物馆偶遇王宝强刘昊然",
+      "onboard_time": 1733542219,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 425923,
+      "num": 425923,
+      "word": "美国男子钻行李箱被女友关拉链致死",
+      "onboard_time": 1733544679,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 424723,
@@ -371,20 +427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262056,
-      "num": 341020,
-      "word": "院方回应女子做彩超时男工程师闯入",
-      "onboard_time": 1733541137,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 255586,
       "num": 197516,
       "word": "大学生花15万全款买房后的生活",
       "onboard_time": 1733529496,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254131,
+      "num": 254131,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733544139,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 248442,
@@ -435,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209100,
+      "num": 209100,
+      "word": "国乒vs法国",
+      "onboard_time": 1733542879,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207105,
       "num": 207105,
       "word": "绿地",
@@ -459,20 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194962,
-      "num": 235866,
-      "word": "尖叫之夜出图速度",
-      "onboard_time": 1733542939,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 192567,
+      "num": 207996,
+      "word": "男子300多万买俩路虎提车被拒",
+      "onboard_time": 1733544800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 190822,
-      "num": 190822,
-      "word": "国乒vs法国",
-      "onboard_time": 1733542879,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 191520,
+      "num": 191520,
+      "word": "TikTok周受资称将上诉到最高法院",
+      "onboard_time": 1733544619,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 189985,
@@ -481,6 +545,22 @@
       "onboard_time": 1733499199,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189314,
+      "num": 189314,
+      "word": "紫燕百味鸡事件",
+      "onboard_time": 1733545158,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188653,
+      "num": 188653,
+      "word": "尖叫之夜路透",
+      "onboard_time": 1733543419,
+      "rank": 27,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 188419,
@@ -529,6 +609,14 @@
       "onboard_time": 1733542759,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170760,
+      "num": 170760,
+      "word": "你吃的夫妻肺片大肠杆菌或超标",
+      "onboard_time": 1733544379,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167845,
@@ -635,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149161,
+      "num": 149161,
+      "word": "江西交警通报货车司机在服务区被罚",
+      "onboard_time": 1733541199,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 148737,
       "num": 148737,
       "word": "女孩用吹风机吹两小时救活受冻小猫",
@@ -659,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144666,
+      "num": 151284,
+      "word": "白鹿粉黛纱幕",
+      "onboard_time": 1733543179,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144572,
       "num": 309333,
       "word": "尹锡悦称将由所属党派决定总统任期",
@@ -673,14 +777,6 @@
       "onboard_time": 1733540238,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143723,
-      "num": 143723,
-      "word": "白鹿粉黛纱幕",
-      "onboard_time": 1733543179,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 143297,
@@ -699,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140296,
+      "num": 208962,
+      "word": "大冰好有饭缩力",
+      "onboard_time": 1733545221,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139132,
       "num": 139132,
       "word": "韩国选手回应看莎头训练被惊讶到了",
@@ -713,6 +817,22 @@
       "onboard_time": 1733530158,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135021,
+      "num": 135021,
+      "word": "央行增持黄金16万盎司",
+      "onboard_time": 1733544320,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 133569,
+      "num": 133569,
+      "word": "胖东来购物需凭会员结账",
+      "onboard_time": 1733545520,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132394,
@@ -771,20 +891,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120847,
+      "num": 434554,
+      "word": "尹锡悦称宣布戒严出于绝望",
+      "onboard_time": 1733544619,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120767,
       "num": 120767,
       "word": "上海月租3000房子的楼梯",
       "onboard_time": 1733501059,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120566,
-      "num": 233659,
-      "word": "大英博物馆偶遇王宝强刘昊然",
-      "onboard_time": 1733542219,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 119827,
@@ -795,12 +915,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 119289,
+      "num": 119289,
+      "word": "詹姆斯生涯41000分",
+      "onboard_time": 1733545399,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119245,
       "num": 119245,
       "word": "冬游四川直播",
       "onboard_time": 1733536877,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116780,
+      "num": 116780,
+      "word": "2024年世界羽联总决赛抽签",
+      "onboard_time": 1733544859,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115080,
@@ -931,14 +1067,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102075,
-      "num": 102075,
-      "word": "江西交警通报货车司机在服务区被罚",
-      "onboard_time": 1733541199,
-      "rank": 48,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 102033,
       "num": 102033,
       "word": "哥伦比亚",
@@ -993,6 +1121,14 @@
       "onboard_time": 1733483480,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 89996,
+      "num": 185628,
+      "word": "张艺兴谢幕眼眶湿润",
+      "onboard_time": 1733545579,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 87858,
@@ -1057,6 +1193,14 @@
       "onboard_time": 1733476999,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72684,
+      "num": 191846,
+      "word": "王楚钦称赞对手搏出好球",
+      "onboard_time": 1733545099,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 71174,
@@ -1281,6 +1425,14 @@
       "onboard_time": 1733516652,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26739,
+      "num": 731612,
+      "word": "看中国的非遗惊艳世界",
+      "onboard_time": 1733544379,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24477,
