@@ -1,7 +1,15 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733528259104,
+  "endTime": 1733536167475,
   "band_list": [
+    {
+      "raw_hot": 1672187,
+      "num": 514038,
+      "word": "赵丽颖澄清微博是自己发的",
+      "onboard_time": 1733529676,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1542594,
       "num": 1542594,
@@ -9,6 +17,14 @@
       "onboard_time": 1733500519,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1205076,
+      "num": 1205076,
+      "word": "尹锡悦公开致歉",
+      "onboard_time": 1733533880,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 841152,
@@ -25,6 +41,22 @@
       "onboard_time": 1733495301,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 580253,
+      "num": 580253,
+      "word": "孕妈称吃到发霉百草味面包宫缩入院",
+      "onboard_time": 1733530817,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575636,
+      "num": 383628,
+      "word": "赵丽颖 我觉得今天很nice",
+      "onboard_time": 1733530697,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 575565,
@@ -75,12 +107,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473715,
+      "num": 473715,
+      "word": "杜小华与男孩DNA对比失败",
+      "onboard_time": 1733533218,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470537,
+      "num": 355470,
+      "word": "绿地集团回应董事长不雅照传言",
+      "onboard_time": 1733509273,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424723,
       "num": 424723,
       "word": "喜综史上第一个满分作品",
       "onboard_time": 1733499440,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406754,
+      "num": 406754,
+      "word": "韩国国会今天表决尹锡悦弹劾案",
+      "onboard_time": 1733528896,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 386155,
+      "num": 386155,
+      "word": "山航一航班大雪硬核飞行提前抵达",
+      "onboard_time": 1733529256,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370747,
+      "num": 193221,
+      "word": "婆婆过度节省婚房住成垃圾堆",
+      "onboard_time": 1733528055,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357843,
@@ -99,12 +171,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348622,
+      "num": 348622,
+      "word": "江西文旅厅确认取消李行亮商演活动",
+      "onboard_time": 1733531780,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 326361,
+      "num": 191855,
+      "word": "真的建议喝咖啡时加点牛奶",
+      "onboard_time": 1733525112,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324680,
+      "num": 324680,
+      "word": "女子被探店博主拍到出镜获赔1万元",
+      "onboard_time": 1733528655,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307867,
+      "num": 183607,
+      "word": "尹锡悦今天将发表国民谈话",
+      "onboard_time": 1733531238,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 304839,
+      "num": 304839,
+      "word": "韩安冉为晒和韩亿合照道歉",
+      "onboard_time": 1733529856,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 304455,
       "num": 304455,
       "word": "尹锡悦的政治生涯或只剩不到一天",
       "onboard_time": 1733493020,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 300200,
+      "num": 300200,
+      "word": "孟子义回应摇人宣新剧",
+      "onboard_time": 1733533158,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 297550,
@@ -123,6 +243,22 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 287114,
+      "num": 287114,
+      "word": "教资面试真题",
+      "onboard_time": 1733532199,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 262854,
+      "num": 184717,
+      "word": "韩国总统向国民道歉",
+      "onboard_time": 1733534301,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248442,
       "num": 148648,
       "word": "赵丽颖",
@@ -131,20 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247748,
-      "num": 52393,
-      "word": "婆婆过度节省婚房住成垃圾堆",
-      "onboard_time": 1733528055,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227744,
-      "num": 92098,
-      "word": "真的建议喝咖啡时加点牛奶",
-      "onboard_time": 1733525112,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 240009,
+      "num": 188038,
+      "word": "大学生花15万全款买房后的生活",
+      "onboard_time": 1733529496,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 219161,
@@ -171,12 +299,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197624,
+      "num": 197624,
+      "word": "周杰伦演唱会瘦回20年前",
+      "onboard_time": 1733533520,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "韩执政党称尹锡悦已不能正常履职",
+      "onboard_time": 1733535739,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189985,
       "num": 142164,
       "word": "排队13小时仅为抢一台手机",
       "onboard_time": 1733499199,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188419,
+      "num": 181797,
+      "word": "姚明说超越不了孙悦了",
+      "onboard_time": 1733534897,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187532,
+      "num": 185388,
+      "word": "杨幂北京出发",
+      "onboard_time": 1733527814,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185832,
+      "num": 185832,
+      "word": "教资面试",
+      "onboard_time": 1733530158,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 176503,
@@ -187,12 +355,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173507,
+      "num": 361517,
+      "word": "尹锡悦称绝不会有第2次戒严",
+      "onboard_time": 1733534598,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162381,
       "num": 140166,
       "word": "孟子义 妈妈低声点难道光彩吗",
       "onboard_time": 1733484080,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159400,
+      "num": 159400,
+      "word": "杜小华含泪发声",
+      "onboard_time": 1733533338,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156239,
+      "num": 156239,
+      "word": "哥伦比亚政府拒绝承认联合国报告",
+      "onboard_time": 1733530037,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154391,
@@ -203,11 +395,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153988,
-      "num": 52042,
-      "word": "绿地集团回应董事长不雅照传言",
-      "onboard_time": 1733509273,
-      "rank": 30,
+      "raw_hot": 153899,
+      "num": 153899,
+      "word": "工人上门修雪茄柜拿走两根高希霸",
+      "onboard_time": 1733528539,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -243,6 +435,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 147806,
+      "num": 147806,
+      "word": "韩国朝野两党党首均强调尹锡悦须停职",
+      "onboard_time": 1733534060,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146050,
+      "num": 146050,
+      "word": "李娜与马龙参加晚宴担任主持人",
+      "onboard_time": 1733535138,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141462,
       "num": 112710,
       "word": "中山美穗在浴缸中去世",
@@ -257,6 +465,30 @@
       "onboard_time": 1733494100,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135860,
+      "num": 135860,
+      "word": "孙颖莎说混双第3局和王楚钦有些松懈",
+      "onboard_time": 1733530158,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127596,
+      "num": 127596,
+      "word": "白鹿给翟子路的见面礼是撕名牌",
+      "onboard_time": 1733533040,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125603,
+      "num": 125603,
+      "word": "琼瑶到底留下了多少钱",
+      "onboard_time": 1733528356,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125185,
@@ -275,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123772,
+      "num": 123772,
+      "word": "陈奕迅 大家不要yellow cow",
+      "onboard_time": 1733528055,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122073,
       "num": 122073,
       "word": "网友回应于东来16元麦片代购卖29元",
@@ -289,6 +529,38 @@
       "onboard_time": 1733501059,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "女子面瘫从香港跑河南针灸",
+      "onboard_time": 1733535857,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116245,
+      "num": 116245,
+      "word": "美法院拒绝驳回TikTok不卖就禁法案",
+      "onboard_time": 1733535801,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 115080,
+      "num": 115080,
+      "word": "哈尔滨冰雪大世界惊艳建造",
+      "onboard_time": 1733530218,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 112520,
+      "num": 112520,
+      "word": "韩国总统尹锡悦向国民道歉",
+      "onboard_time": 1733534060,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110049,
@@ -321,6 +593,30 @@
       "onboard_time": 1733488219,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107616,
+      "num": 122041,
+      "word": "中山美穗昨日发文称心被压垮",
+      "onboard_time": 1733527694,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104420,
+      "num": 309333,
+      "word": "尹锡悦称将由所属党派决定总统任期",
+      "onboard_time": 1733535739,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 102033,
+      "num": 102033,
+      "word": "哥伦比亚",
+      "onboard_time": 1733479519,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101172,
@@ -395,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79982,
-      "num": 79982,
-      "word": "哥伦比亚",
-      "onboard_time": 1733479519,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 77457,
       "num": 77457,
       "word": "杨子哭了但没有眼泪",
@@ -459,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60497,
+      "num": 186320,
+      "word": "C罗916球",
+      "onboard_time": 1733534897,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60166,
       "num": 359619,
       "word": "福宝咔哧咔哧干饭太香了",
       "onboard_time": 1733503217,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59186,
+      "num": 183342,
+      "word": "太好了是吴彦祖陈伟霆丞磊三代男神",
+      "onboard_time": 1733536099,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 55073,
@@ -483,14 +787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 54031,
-      "num": 54031,
-      "word": "杨幂北京出发",
-      "onboard_time": 1733527814,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48702,
       "num": 48702,
       "word": "邮轮公司回应南极之旅因故障取消",
@@ -505,14 +801,6 @@
       "onboard_time": 1733514191,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 44817,
-      "num": 44817,
-      "word": "陈奕迅 大家不要yellow cow",
-      "onboard_time": 1733528055,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 44364,
@@ -603,7 +891,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29349,
+      "raw_hot": 31589,
       "num": 719542,
       "word": "古人也会互赠日历表达祝福",
       "onboard_time": 1733491638,
@@ -713,14 +1001,6 @@
       "onboard_time": 1733513651,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15658,
-      "num": 122041,
-      "word": "中山美穗昨日发文称心被压垮",
-      "onboard_time": 1733527694,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 14138,
