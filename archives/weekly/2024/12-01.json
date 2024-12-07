@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733550005979,
+  "endTime": 1733553096940,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1011,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1177395,
+      "num": 1188383,
+      "word": "双轨 脱轨",
+      "onboard_time": 1733551280,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1175527,
       "num": 475050,
       "word": "周密发歌diss周芯竹",
@@ -1224,6 +1232,14 @@
       "word": "花少从9.3到3.9",
       "onboard_time": 1733463919,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1042780,
+      "num": 810550,
+      "word": "尖叫之夜节目单",
+      "onboard_time": 1733547860,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -1979,14 +1995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 810550,
-      "num": 810550,
-      "word": "尖叫之夜节目单",
-      "onboard_time": 1733547860,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 810020,
       "num": 481713,
       "word": "男子花38万娶妻崩溃发现儿子非亲生",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1733041818,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 652036,
+      "num": 486262,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1733552479,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 647969,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1733222360,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558895,
+      "num": 480907,
+      "word": "尖叫之夜海报站位",
+      "onboard_time": 1733548700,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 557997,
@@ -3963,6 +3987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 473017,
+      "num": 473017,
+      "word": "宋亚轩演马龙",
+      "onboard_time": 1733552298,
+      "rank": 8,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 471982,
       "num": 471982,
       "word": "警方介入华中农大一学生被指虐猫",
@@ -4483,12 +4515,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 432396,
-      "num": 432396,
-      "word": "尖叫之夜海报站位",
-      "onboard_time": 1733548700,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 432074,
+      "num": 432074,
+      "word": "叶祖新演技",
+      "onboard_time": 1733550079,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 431929,
@@ -4657,6 +4689,14 @@
       "onboard_time": 1733146342,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 418827,
+      "num": 322470,
+      "word": "杨超越大波浪",
+      "onboard_time": 1733548820,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 418309,
@@ -5659,6 +5699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344890,
+      "num": 273217,
+      "word": "我是刑警38集拍35年15个大案",
+      "onboard_time": 1733550019,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344586,
       "num": 344586,
       "word": "蔡文静问冯绍峰怎么撕渣男",
@@ -6003,6 +6051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325991,
+      "num": 325991,
+      "word": "飞机撞到鸟群机头血迹清晰可见",
+      "onboard_time": 1733551939,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325896,
       "num": 710004,
       "word": "95后清华博士研发从空气中榨饮用水",
@@ -6169,14 +6225,6 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313234,
-      "num": 313234,
-      "word": "杨超越大波浪",
-      "onboard_time": 1733548820,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 311803,
@@ -8667,6 +8715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 211699,
+      "num": 211699,
+      "word": "业余志豪 我被双轨剧组坑了",
+      "onboard_time": 1733550498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211581,
       "num": 211581,
       "word": "导师看到我的论文查重率是0%时",
@@ -9432,6 +9488,14 @@
       "word": "新音",
       "onboard_time": 1733229921,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199038,
+      "num": 199038,
+      "word": "王源别丢了你的勇敢好六舞台",
+      "onboard_time": 1733552360,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -10531,6 +10595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184956,
+      "num": 184956,
+      "word": "有人恶评杨妞花称她该感谢余华英",
+      "onboard_time": 1733546659,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184952,
       "num": 184952,
       "word": "美国芯片产品不再可靠安全",
@@ -11081,6 +11153,14 @@
       "onboard_time": 1733223620,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176187,
+      "num": 176187,
+      "word": "李一桐穿喜欢的裙子运动",
+      "onboard_time": 1733552118,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 176007,
@@ -12819,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154534,
+      "num": 154534,
+      "word": "虞书欣 雅典女神",
+      "onboard_time": 1733553018,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154263,
       "num": 154263,
       "word": "孙颖莎无法实现的座位自由",
@@ -13121,14 +13209,6 @@
       "onboard_time": 1733042478,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150090,
-      "num": 150090,
-      "word": "有人恶评杨妞花称她该感谢余华英",
-      "onboard_time": 1733546659,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150089,
@@ -13555,6 +13635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144692,
+      "num": 141171,
+      "word": "白鹿蝴蝶兰大片",
+      "onboard_time": 1733552539,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144666,
       "num": 151284,
       "word": "白鹿粉黛纱幕",
@@ -13819,6 +13907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141388,
+      "num": 141388,
+      "word": "网传是小米奇男孩称已辞职",
+      "onboard_time": 1733550619,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141137,
       "num": 168381,
       "word": "国考 罚球双脚可以离地",
@@ -14049,6 +14145,14 @@
       "onboard_time": 1733391201,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138530,
+      "num": 138530,
+      "word": "邓为 黑马王子",
+      "onboard_time": 1733550558,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138524,
@@ -14971,6 +15075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126351,
+      "num": 466002,
+      "word": "患者挂不到专家号为何陪诊师能",
+      "onboard_time": 1733551699,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126089,
       "num": 325904,
       "word": "严浩翔电影杀青",
@@ -15571,6 +15683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119930,
+      "num": 119930,
+      "word": "65岁男子操纵股票倒亏2.17亿",
+      "onboard_time": 1733552899,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119827,
       "num": 119827,
       "word": "化妆前一定要知道的冷知识",
@@ -15585,6 +15705,14 @@
       "onboard_time": 1733450179,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119734,
+      "num": 119734,
+      "word": "代号鸢新剪影",
+      "onboard_time": 1733550679,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 119626,
@@ -15715,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117428,
+      "num": 117428,
+      "word": "尖叫之夜直播",
+      "onboard_time": 1733553018,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117299,
       "num": 395201,
       "word": "香港97年卡拉OK纵火案嫌犯内地落网",
@@ -15745,6 +15881,14 @@
       "onboard_time": 1733457801,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117112,
+      "num": 117112,
+      "word": "Viper说中国菜最好吃",
+      "onboard_time": 1733551337,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 117072,
@@ -16137,6 +16281,14 @@
       "onboard_time": 1733193138,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111447,
+      "num": 274652,
+      "word": "国乒混团世界杯8连胜",
+      "onboard_time": 1733552298,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 111415,
@@ -19043,6 +19195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61909,
+      "num": 420328,
+      "word": "国乒提前晋级混团世界杯第三阶段",
+      "onboard_time": 1733551100,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61835,
       "num": 81290,
       "word": "费沁源退团原因",
@@ -19969,6 +20129,14 @@
       "onboard_time": 1733391078,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51283,
+      "num": 325188,
+      "word": "星闪少年二公舞台",
+      "onboard_time": 1733552057,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 51215,
@@ -21433,6 +21601,14 @@
       "onboard_time": 1733198421,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33751,
+      "num": 323788,
+      "word": "这是吃邓紫棋长大的声音吗",
+      "onboard_time": 1733551457,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 33737,
