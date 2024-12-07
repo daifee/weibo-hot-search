@@ -1,0 +1,410 @@
+{
+  "runTime": 1733591955699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2204795,
+        "num": 2204795,
+        "word": "檀健次舞台吐痰",
+        "onboard_time": 1733585182,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 502717,
+        "num": 502717,
+        "word": "中国留学生涉嫌非法禁锢15岁女孩",
+        "onboard_time": 1733585122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32514,
+        "num": 271160,
+        "word": "春节申遗副标题有哪些内涵",
+        "onboard_time": 1733578401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785893,
+        "num": 260986,
+        "word": "腾讯和芒果纷纷来添乱",
+        "onboard_time": 1733586742,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203489,
+        "num": 203489,
+        "word": "俄不能接受叙利亚被恐怖组织控制",
+        "onboard_time": 1733585662,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165595,
+        "num": 165595,
+        "word": "官方回应男孩疑推智障老人下水",
+        "onboard_time": 1733585303,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640173,
+        "num": 162928,
+        "word": "爱奇艺导播吃豆橛子了",
+        "onboard_time": 1733587400,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158752,
+        "num": 158752,
+        "word": "女子收骗子礼物后立即删了骗子",
+        "onboard_time": 1733573361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106416,
+        "num": 158318,
+        "word": "骗子1小时内快递礼物引诱受害者",
+        "onboard_time": 1733574920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38106,
+        "num": 156731,
+        "word": "琼瑶花葬将开放粉丝参加",
+        "onboard_time": 1733573120,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432937,
+        "num": 155610,
+        "word": "刘宇宁压轴",
+        "onboard_time": 1733587221,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403352,
+        "num": 154221,
+        "word": "展信佳",
+        "onboard_time": 1733581042,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399848,
+        "num": 153269,
+        "word": "刘诗诗尖叫女演员",
+        "onboard_time": 1733585122,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322211,
+        "num": 151650,
+        "word": "成毅尖叫男演员",
+        "onboard_time": 1733584942,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105111,
+        "num": 150493,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299735,
+        "num": 149726,
+        "word": "王源状态",
+        "onboard_time": 1733585482,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124044,
+        "num": 148216,
+        "word": "雷军回应小米被指贴牌",
+        "onboard_time": 1733584641,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109352,
+        "num": 147280,
+        "word": "为什么体力工作者不喝咖啡",
+        "onboard_time": 1733581341,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88827,
+        "num": 146011,
+        "word": "尹锡悦弹劾案未获通过",
+        "onboard_time": 1733575221,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73281,
+        "num": 144257,
+        "word": "这四种人遇到了请好好珍惜",
+        "onboard_time": 1733586201,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294008,
+        "num": 142711,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259111,
+        "num": 142090,
+        "word": "iejj是谁",
+        "onboard_time": 1733586621,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190907,
+        "num": 140624,
+        "word": "阿里高管内网致歉",
+        "onboard_time": 1733584223,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98821,
+        "num": 139085,
+        "word": "英国夫妇纯素食饿死3岁儿子",
+        "onboard_time": 1733571740,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13609,
+        "num": 137928,
+        "word": "电影好东西票房破5亿",
+        "onboard_time": 1733591836,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248722,
+        "num": 136358,
+        "word": "只有付航是真来吃席的",
+        "onboard_time": 1733582662,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176782,
+        "num": 136151,
+        "word": "尖叫女神竟是iejj",
+        "onboard_time": 1733578040,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 134982,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69525,
+        "num": 134445,
+        "word": "女明星尖叫之夜怼脸生图",
+        "onboard_time": 1733590638,
+        "rank": 28,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 69860,
+        "num": 134264,
+        "word": "国债安排得明明白白效果也会实实在在",
+        "onboard_time": 1733589439,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140042,
+        "num": 134234,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134182,
+        "num": 134182,
+        "word": "姜妍在台下笑意盈盈地看着她",
+        "onboard_time": 1733577141,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131638,
+        "num": 131638,
+        "word": "虞书欣张凌赫邓为 三人自拍",
+        "onboard_time": 1733575700,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88815,
+        "num": 124592,
+        "word": "香港13平三室一厅一厨一卫的房子",
+        "onboard_time": 1733577323,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65778,
+        "num": 119820,
+        "word": "尹锡悦下台前不履行职务",
+        "onboard_time": 1733584042,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117747,
+        "num": 117747,
+        "word": "白鹿妆造",
+        "onboard_time": 1733568561,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65233,
+        "num": 117519,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62708,
+        "num": 116621,
+        "word": "为突发疾病同事垫付24万医疗费被赖账",
+        "onboard_time": 1733576002,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61073,
+        "num": 116044,
+        "word": "周五下班韩国飞中国说走就走",
+        "onboard_time": 1733578343,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 56361,
+        "num": 115297,
+        "word": "亚洲杯",
+        "onboard_time": 1733585182,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114979,
+        "num": 114979,
+        "word": "九重紫 导演炫技",
+        "onboard_time": 1733572400,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102323,
+        "num": 102323,
+        "word": "尖叫之夜现场灯牌",
+        "onboard_time": 1733587819,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94097,
+        "num": 94097,
+        "word": "白鹿和北上导演拥抱",
+        "onboard_time": 1733582545,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88124,
+        "num": 88124,
+        "word": "现在拨打的电话 以爱为营",
+        "onboard_time": 1733585363,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85982,
+        "num": 85982,
+        "word": "邓为紫海",
+        "onboard_time": 1733586802,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55987,
+        "num": 85941,
+        "word": "你不必小心翼翼地快乐",
+        "onboard_time": 1733590280,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54501,
+        "num": 85885,
+        "word": "王楚钦杂志",
+        "onboard_time": 1733573842,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53154,
+        "num": 85837,
+        "word": "央视新闻夜读",
+        "onboard_time": 1733587221,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 49401,
+        "num": 85825,
+        "word": "李子柒头戴非遗漆珠发卡亮相九寨沟",
+        "onboard_time": 1733581462,
+        "rank": 48,
+        "category": "旅游,网红"
+      },
+      {
+        "raw_hot": 44984,
+        "num": 85755,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
