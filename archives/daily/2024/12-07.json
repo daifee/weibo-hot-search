@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733576330371,
+  "endTime": 1733578102141,
   "band_list": [
     {
       "raw_hot": 3852903,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1481909,
-      "num": 522043,
+      "num": 525410,
       "word": "谁给杨超越选的裙子",
       "onboard_time": 1733563999,
       "rank": 34,
@@ -139,16 +139,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1119500,
-      "num": 1119500,
+      "raw_hot": 1157052,
+      "num": 1157052,
       "word": "女子收骗子礼物后立即删了骗子",
       "onboard_time": 1733573361,
       "rank": 1,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1107938,
+      "num": 1107938,
+      "word": "虞书欣张凌赫邓为 三人自拍",
+      "onboard_time": 1733575700,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1085895,
-      "num": 404175,
+      "num": 563226,
       "word": "尹锡悦弹劾案未获通过",
       "onboard_time": 1733575221,
       "rank": 35,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 739829,
-      "num": 528290,
+      "num": 549325,
       "word": "尖叫之夜座位安排",
       "onboard_time": 1733570541,
       "rank": 27,
@@ -273,14 +281,6 @@
       "onboard_time": 1733552298,
       "rank": 8,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 722799,
-      "num": 459517,
-      "word": "虞书欣张凌赫邓为 三人自拍",
-      "onboard_time": 1733575700,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 686195,
@@ -329,6 +329,14 @@
       "onboard_time": 1733564720,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 625764,
+      "num": 519167,
+      "word": "谁给陈哲远田曦薇递个本",
+      "onboard_time": 1733575761,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 617927,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512053,
+      "num": 512053,
+      "word": "为突发疾病同事垫付24万医疗费被赖账",
+      "onboard_time": 1733576002,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 508006,
       "num": 508006,
       "word": "王一珩感谢现在的爸爸教会他处世之道",
@@ -553,6 +569,14 @@
       "onboard_time": 1733543960,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474540,
+      "num": 337473,
+      "word": "姜妍在台下笑意盈盈地看着她",
+      "onboard_time": 1733577141,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 470537,
@@ -867,6 +891,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 347372,
+      "num": 347372,
+      "word": "骗子1小时内快递礼物引诱受害者",
+      "onboard_time": 1733574920,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344890,
       "num": 273217,
       "word": "我是刑警38集拍35年15个大案",
@@ -881,6 +913,14 @@
       "onboard_time": 1733554577,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332353,
+      "num": 249482,
+      "word": "香港13平三室一厅一厨一卫的房子",
+      "onboard_time": 1733577323,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 331825,
@@ -1203,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247150,
-      "num": 247150,
-      "word": "谁给陈哲远田曦薇递个本",
-      "onboard_time": 1733575761,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246684,
       "num": 246684,
       "word": "尹锡悦夫人牵涉多起案件",
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 238297,
-      "num": 1012780,
+      "num": 1128989,
       "word": "中国春节走向世界宣传片",
       "onboard_time": 1733545941,
       "rank": 19,
@@ -1336,6 +1368,14 @@
       "word": "十个勤天穿的一模一样",
       "onboard_time": 1733559319,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214118,
+      "num": 214118,
+      "word": "张凌赫单手插兜上台领奖",
+      "onboard_time": 1733577260,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1523,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189782,
+      "num": 189782,
+      "word": "叶祖新有效出场",
+      "onboard_time": 1733575462,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189442,
       "num": 203327,
       "word": "西安惊现00后版杨贵妃现场被挤爆",
@@ -1587,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184777,
+      "num": 184777,
+      "word": "尖叫女神竟是iejj",
+      "onboard_time": 1733578040,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183819,
       "num": 183819,
       "word": "林依晨红毯",
@@ -1611,12 +1667,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 180888,
-      "num": 180888,
-      "word": "为突发疾病同事垫付24万医疗费被赖账",
-      "onboard_time": 1733576002,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 181481,
+      "num": 181481,
+      "word": "我是刑警",
+      "onboard_time": 1733576481,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 180699,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1733534598,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 173335,
-      "num": 173335,
-      "word": "叶祖新有效出场",
-      "onboard_time": 1733575462,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 172803,
@@ -1793,6 +1841,14 @@
       "onboard_time": 1733530037,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156075,
+      "num": 156075,
+      "word": "淄博舰原地掉头引来现场一片惊呼",
+      "onboard_time": 1733576661,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 155465,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1733566161,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139417,
+      "num": 252284,
+      "word": "朱志鑫苏新皓是最萌兔子宝宝",
+      "onboard_time": 1733576541,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 139328,
@@ -2387,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114370,
+      "num": 321961,
+      "word": "Fly 老兵回归",
+      "onboard_time": 1733576962,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114364,
       "num": 114364,
       "word": "马斯克成美大选史上最大赞助人之一",
@@ -2587,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96156,
-      "num": 247184,
-      "word": "骗子1小时内快递礼物引诱受害者",
-      "onboard_time": 1733574920,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95880,
       "num": 95880,
       "word": "孙颖莎说都还不错",
@@ -2691,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81111,
+      "num": 190689,
+      "word": "LPL纪录片S14篇",
+      "onboard_time": 1733576661,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78086,
       "num": 351054,
       "word": "警察叔叔信箱不应让小学生失望",
@@ -2755,11 +2827,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70715,
+      "num": 340426,
+      "word": "3000元干货被吐槽包装占460元",
+      "onboard_time": 1733576900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69347,
       "num": 358490,
       "word": "林诗栋蒯曼vs伊斯特拉特迪亚科努",
       "onboard_time": 1733568202,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69231,
+      "num": 544565,
+      "word": "国乒混团又一个8比0",
+      "onboard_time": 1733576240,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2875,6 +2963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56271,
+      "num": 534046,
+      "word": "机场称与鸟群相撞飞机正常降落",
+      "onboard_time": 1733577021,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 55423,
       "num": 537458,
       "word": "王曼昱3比0胜德拉戈曼",
@@ -2921,6 +3017,14 @@
       "onboard_time": 1733560220,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 52597,
+      "num": 324517,
+      "word": "张极模仿奶龙",
+      "onboard_time": 1733577382,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 51996,
@@ -3281,14 +3385,6 @@
       "onboard_time": 1733505674,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16174,
-      "num": 247239,
-      "word": "国乒混团又一个8比0",
-      "onboard_time": 1733576240,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 16142,
