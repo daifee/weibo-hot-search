@@ -1,0 +1,410 @@
+{
+  "runTime": 1733575361253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2412624,
+        "num": 2412624,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 935787,
+        "num": 935787,
+        "word": "女子收骗子礼物后立即删了骗子",
+        "onboard_time": 1733573361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39575,
+        "num": 615999,
+        "word": "中国春节走向世界宣传片",
+        "onboard_time": 1733545941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 955497,
+        "num": 579776,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543290,
+        "num": 543290,
+        "word": "王楚钦杂志",
+        "onboard_time": 1733573842,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8624,
+        "num": 541582,
+        "word": "国乒8比0罗马尼亚队",
+        "onboard_time": 1733575221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54372,
+        "num": 540443,
+        "word": "韩国国会未通过尹锡悦弹劾案",
+        "onboard_time": 1733575102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55423,
+        "num": 537458,
+        "word": "王曼昱3比0胜德拉戈曼",
+        "onboard_time": 1733574621,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58424,
+        "num": 536899,
+        "word": "梁靖崑vs莫维利亚努",
+        "onboard_time": 1733571501,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52647,
+        "num": 534593,
+        "word": "山东荣成一冷库起火9人失联",
+        "onboard_time": 1733574439,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194853,
+        "num": 533010,
+        "word": "欣诚则凌",
+        "onboard_time": 1733573780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 704596,
+        "num": 530519,
+        "word": "刘诗诗竹绿高定",
+        "onboard_time": 1733569582,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 693646,
+        "num": 528290,
+        "word": "尖叫之夜座位安排",
+        "onboard_time": 1733570541,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7632,
+        "num": 526161,
+        "word": "国乒混团9连胜",
+        "onboard_time": 1733575221,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26435,
+        "num": 525196,
+        "word": "王曼昱打出11比1",
+        "onboard_time": 1733574621,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657240,
+        "num": 522043,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641707,
+        "num": 520535,
+        "word": "白鹿妆造",
+        "onboard_time": 1733568561,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635189,
+        "num": 517452,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198792,
+        "num": 516405,
+        "word": "短剧导演拍长剧",
+        "onboard_time": 1733572761,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515369,
+        "num": 515369,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485767,
+        "num": 485767,
+        "word": "虞书欣说跟双轨两位导演合作很愉快",
+        "onboard_time": 1733572220,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461301,
+        "num": 461301,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439182,
+        "num": 439182,
+        "word": "秦岚 既是姐姐又是妈妈",
+        "onboard_time": 1733564302,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307160,
+        "num": 425594,
+        "word": "福宝一边看镜头一边吃饭",
+        "onboard_time": 1733571920,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85101,
+        "num": 421240,
+        "word": "Gumayusi说收拾了LPL所有卡莎",
+        "onboard_time": 1733572400,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 417914,
+        "num": 417914,
+        "word": "成毅 男大",
+        "onboard_time": 1733570781,
+        "rank": 25,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 414664,
+        "num": 414664,
+        "word": "九重紫 导演炫技",
+        "onboard_time": 1733572400,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397113,
+        "num": 397113,
+        "word": "英国夫妇纯素食饿死3岁儿子",
+        "onboard_time": 1733571740,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365000,
+        "num": 365000,
+        "word": "尖叫之夜",
+        "onboard_time": 1733570301,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299473,
+        "num": 299473,
+        "word": "中国香港8比7日本",
+        "onboard_time": 1733572700,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298041,
+        "num": 298041,
+        "word": "田曦薇黑长直的神",
+        "onboard_time": 1733569641,
+        "rank": 30,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 95673,
+        "num": 288785,
+        "word": "25岁抗癌女网红去世前左眼失明",
+        "onboard_time": 1733556979,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284767,
+        "num": 284767,
+        "word": "周芯竹一个月暴瘦十斤",
+        "onboard_time": 1733561541,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283403,
+        "num": 283403,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250044,
+        "num": 250044,
+        "word": "李恩 都美竹你能不能别坑品牌方了",
+        "onboard_time": 1733571021,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 211545,
+        "num": 243349,
+        "word": "尹锡悦弹劾案未获通过",
+        "onboard_time": 1733575221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145560,
+        "num": 239865,
+        "word": "中国体育杂志",
+        "onboard_time": 1733573842,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238895,
+        "num": 238895,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234454,
+        "num": 234454,
+        "word": "孟子义演技",
+        "onboard_time": 1733570360,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226067,
+        "num": 226067,
+        "word": "琼瑶花葬将开放粉丝参加",
+        "onboard_time": 1733573120,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225432,
+        "num": 225432,
+        "word": "易梦玲 大梦归离剧组",
+        "onboard_time": 1733562560,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96156,
+        "num": 212077,
+        "word": "骗子1小时内快递礼物引诱受害者",
+        "onboard_time": 1733574920,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211907,
+        "num": 211907,
+        "word": "王曼昱vs德拉戈曼",
+        "onboard_time": 1733574561,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208185,
+        "num": 208185,
+        "word": "直观感受瘦了20斤后的面部变化",
+        "onboard_time": 1733564419,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196763,
+        "num": 196763,
+        "word": "爱奇艺副总裁介绍双轨",
+        "onboard_time": 1733574621,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193983,
+        "num": 193983,
+        "word": "迪丽热巴解锁6套郭培高定",
+        "onboard_time": 1733567900,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186972,
+        "num": 186972,
+        "word": "黄景瑜孙千牵手走红毯",
+        "onboard_time": 1733564898,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174074,
+        "num": 174074,
+        "word": "白敬亭肌肉",
+        "onboard_time": 1733568619,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172602,
+        "num": 172602,
+        "word": "杨旭文眼下痣",
+        "onboard_time": 1733575221,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165588,
+        "num": 165588,
+        "word": "钟楚曦 赫本风",
+        "onboard_time": 1733564778,
+        "rank": 49,
+        "category": "综艺,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733571355141,
+  "endTime": 1733575361253,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1481909,
-      "num": 350774,
+      "num": 522043,
       "word": "谁给杨超越选的裙子",
       "onboard_time": 1733563999,
       "rank": 34,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 1392525,
-      "num": 360354,
+      "num": 530519,
       "word": "刘诗诗竹绿高定",
       "onboard_time": 1733569582,
       "rank": 6,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1733193198,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1194853,
+      "num": 533010,
+      "word": "欣诚则凌",
+      "onboard_time": 1733573780,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1184819,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1733036417,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 935787,
+      "num": 935787,
+      "word": "女子收骗子礼物后立即删了骗子",
+      "onboard_time": 1733573361,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 935155,
@@ -2483,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 693646,
+      "num": 528290,
+      "word": "尖叫之夜座位安排",
+      "onboard_time": 1733570541,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 693374,
       "num": 626382,
       "word": "陈少熙说有喜欢的人了",
@@ -2516,7 +2540,7 @@
     },
     {
       "raw_hot": 686195,
-      "num": 328986,
+      "num": 439182,
       "word": "秦岚 既是姐姐又是妈妈",
       "onboard_time": 1733564302,
       "rank": 7,
@@ -2540,7 +2564,7 @@
     },
     {
       "raw_hot": 684081,
-      "num": 338447,
+      "num": 520535,
       "word": "白鹿妆造",
       "onboard_time": 1733568561,
       "rank": 13,
@@ -2793,6 +2817,14 @@
       "onboard_time": 1733403980,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635189,
+      "num": 517452,
+      "word": "尹锡悦弹劾案",
+      "onboard_time": 1733564720,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 634100,
@@ -3452,7 +3484,7 @@
     },
     {
       "raw_hot": 547876,
-      "num": 280708,
+      "num": 365000,
       "word": "尖叫之夜",
       "onboard_time": 1733570301,
       "rank": 21,
@@ -3513,6 +3545,14 @@
       "onboard_time": 1733450659,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 543290,
+      "num": 543290,
+      "word": "王楚钦杂志",
+      "onboard_time": 1733573842,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 541501,
@@ -3745,6 +3785,14 @@
       "onboard_time": 1733244200,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 515369,
+      "num": 515369,
+      "word": "34岁女子健身4年爆改金刚芭比",
+      "onboard_time": 1733570959,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 514940,
@@ -4032,6 +4080,14 @@
       "word": "鞠婧祎月鳞绮纪出妆",
       "onboard_time": 1733125098,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485767,
+      "num": 485767,
+      "word": "虞书欣说跟双轨两位导演合作很愉快",
+      "onboard_time": 1733572220,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -4931,6 +4987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417914,
+      "num": 417914,
+      "word": "成毅 男大",
+      "onboard_time": 1733570781,
+      "rank": 31,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 417515,
       "num": 164503,
       "word": "南韩汪峰",
@@ -4961,6 +5025,14 @@
       "onboard_time": 1733057719,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414664,
+      "num": 414664,
+      "word": "九重紫 导演炫技",
+      "onboard_time": 1733572400,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 413632,
@@ -5219,6 +5291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 397113,
+      "num": 397113,
+      "word": "英国夫妇纯素食饿死3岁儿子",
+      "onboard_time": 1733571740,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 396711,
       "num": 361715,
       "word": "十个勤天合体",
@@ -5417,14 +5497,6 @@
       "onboard_time": 1733149401,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382913,
-      "num": 382913,
-      "word": "尹锡悦弹劾案",
-      "onboard_time": 1733564720,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 381559,
@@ -5809,14 +5881,6 @@
       "onboard_time": 1733499081,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 357695,
-      "num": 248496,
-      "word": "尖叫之夜座位安排",
-      "onboard_time": 1733570541,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 356918,
@@ -6603,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307160,
+      "num": 425594,
+      "word": "福宝一边看镜头一边吃饭",
+      "onboard_time": 1733571920,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306994,
       "num": 306994,
       "word": "为蟑螂正名",
@@ -6724,7 +6796,7 @@
     },
     {
       "raw_hot": 301274,
-      "num": 267767,
+      "num": 288785,
       "word": "25岁抗癌女网红去世前左眼失明",
       "onboard_time": 1733556979,
       "rank": 48,
@@ -6755,12 +6827,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 299473,
+      "num": 299473,
+      "word": "中国香港8比7日本",
+      "onboard_time": 1733572700,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299191,
       "num": 277825,
       "word": "汪苏泷突然第一名",
       "onboard_time": 1733311881,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298041,
+      "num": 298041,
+      "word": "田曦薇黑长直的神",
+      "onboard_time": 1733569641,
+      "rank": 41,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 297550,
@@ -7291,14 +7379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273549,
-      "num": 245261,
-      "word": "成毅 男大",
-      "onboard_time": 1733570781,
-      "rank": 31,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 271981,
       "num": 300032,
       "word": "光与夜之恋",
@@ -7787,6 +7867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250044,
+      "num": 250044,
+      "word": "李恩 都美竹你能不能别坑品牌方了",
+      "onboard_time": 1733571021,
+      "rank": 34,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 249719,
       "num": 249719,
       "word": "朱志鑫剪头发",
@@ -8193,6 +8281,14 @@
       "onboard_time": 1733325142,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 234454,
+      "num": 234454,
+      "word": "孟子义演技",
+      "onboard_time": 1733570360,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 234326,
@@ -8609,6 +8705,14 @@
       "onboard_time": 1733282298,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 226067,
+      "num": 226067,
+      "word": "琼瑶花葬将开放粉丝参加",
+      "onboard_time": 1733573120,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 226050,
@@ -9187,6 +9291,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211907,
+      "num": 211907,
+      "word": "王曼昱vs德拉戈曼",
+      "onboard_time": 1733574561,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211835,
       "num": 211835,
       "word": "糖小幽为Doinb鸣不平",
@@ -9209,6 +9321,14 @@
       "onboard_time": 1733138844,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 211545,
+      "num": 243349,
+      "word": "尹锡悦弹劾案未获通过",
+      "onboard_time": 1733575221,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211423,
@@ -9795,14 +9915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202691,
-      "num": 144665,
-      "word": "孟子义演技",
-      "onboard_time": 1733570360,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202654,
       "num": 199116,
       "word": "曾舜晞月鳞绮纪开机出妆路透",
@@ -10043,6 +10155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198792,
+      "num": 516405,
+      "word": "短剧导演拍长剧",
+      "onboard_time": 1733572761,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198712,
       "num": 198712,
       "word": "叙利亚首都大马士革传来连续枪炮声",
@@ -10193,6 +10313,14 @@
       "onboard_time": 1733314641,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196763,
+      "num": 196763,
+      "word": "爱奇艺副总裁介绍双轨",
+      "onboard_time": 1733574621,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 196679,
@@ -10457,14 +10585,6 @@
       "onboard_time": 1733462599,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193772,
-      "num": 148613,
-      "word": "田曦薇黑长直的神",
-      "onboard_time": 1733569641,
-      "rank": 41,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 193685,
@@ -11883,14 +12003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175460,
-      "num": 175460,
-      "word": "34岁女子健身4年爆改金刚芭比",
-      "onboard_time": 1733570959,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175416,
       "num": 175416,
       "word": "王一博旁观者入围亚洲流行音乐大奖",
@@ -12017,6 +12129,14 @@
       "onboard_time": 1733383880,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172602,
+      "num": 172602,
+      "word": "杨旭文眼下痣",
+      "onboard_time": 1733575221,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 172434,
@@ -14321,6 +14441,14 @@
       "onboard_time": 1733313022,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145560,
+      "num": 239865,
+      "word": "中国体育杂志",
+      "onboard_time": 1733573842,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 145510,
@@ -18171,6 +18299,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 96156,
+      "num": 212077,
+      "word": "骗子1小时内快递礼物引诱受害者",
+      "onboard_time": 1733574920,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96108,
       "num": 184038,
       "word": "樊振东解锁新身份",
@@ -18761,6 +18897,14 @@
       "onboard_time": 1733444239,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85101,
+      "num": 421240,
+      "word": "Gumayusi说收拾了LPL所有卡莎",
+      "onboard_time": 1733572400,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 84826,
@@ -20459,6 +20603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58424,
+      "num": 536899,
+      "word": "梁靖崑vs莫维利亚努",
+      "onboard_time": 1733571501,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58383,
       "num": 324033,
       "word": "郑钦文入围年度最佳击球",
@@ -20651,6 +20803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55423,
+      "num": 537458,
+      "word": "王曼昱3比0胜德拉戈曼",
+      "onboard_time": 1733574621,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55335,
       "num": 274221,
       "word": "旅客带53枚古钱币出境被查",
@@ -20785,6 +20945,14 @@
       "onboard_time": 1733315122,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54372,
+      "num": 540443,
+      "word": "韩国国会未通过尹锡悦弹劾案",
+      "onboard_time": 1733575102,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54311,
@@ -20993,6 +21161,14 @@
       "onboard_time": 1733306184,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52647,
+      "num": 534593,
+      "word": "山东荣成一冷库起火9人失联",
+      "onboard_time": 1733574439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52579,
@@ -23459,6 +23635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26435,
+      "num": 525196,
+      "word": "王曼昱打出11比1",
+      "onboard_time": 1733574621,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26406,
       "num": 339384,
       "word": "冬日智驾追雪buff叠满",
@@ -25219,6 +25403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8624,
+      "num": 541582,
+      "word": "国乒8比0罗马尼亚队",
+      "onboard_time": 1733575221,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8500,
       "num": 28460,
       "word": "邓超 我可以拍一套吗",
@@ -25257,6 +25449,14 @@
       "onboard_time": 1733082910,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7632,
+      "num": 526161,
+      "word": "国乒混团9连胜",
+      "onboard_time": 1733575221,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 7629,
