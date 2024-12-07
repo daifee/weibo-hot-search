@@ -1,0 +1,410 @@
+{
+  "runTime": 1733560115423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3852903,
+        "num": 3852903,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1733552479,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 790457,
+        "num": 790457,
+        "word": "飞机撞到鸟群机头血迹清晰可见",
+        "onboard_time": 1733551939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 746399,
+        "word": "看中国的非遗惊艳世界",
+        "onboard_time": 1733544379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966704,
+        "num": 743138,
+        "word": "小水好漂亮",
+        "onboard_time": 1733557039,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736324,
+        "num": 736324,
+        "word": "女硕士走失13年收留者家属发声",
+        "onboard_time": 1733557399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458441,
+        "num": 458441,
+        "word": "紫燕百味鸡声明",
+        "onboard_time": 1733555901,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 944442,
+        "num": 444425,
+        "word": "虞书欣 雅典女神",
+        "onboard_time": 1733553018,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29843,
+        "num": 430568,
+        "word": "国乒第4个8比0",
+        "onboard_time": 1733559378,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199756,
+        "num": 424722,
+        "word": "韩国执政党反对弹劾总统尹锡悦",
+        "onboard_time": 1733558779,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93934,
+        "num": 403391,
+        "word": "境外间谍装好人策反学生非法窃密",
+        "onboard_time": 1733558840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 750995,
+        "num": 398507,
+        "word": "双轨 脱轨",
+        "onboard_time": 1733551280,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540878,
+        "num": 377884,
+        "word": "惠英红血观音 吃掉自己孩子的母狮",
+        "onboard_time": 1733557278,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537444,
+        "num": 369769,
+        "word": "向佐 玛丽猫",
+        "onboard_time": 1733557699,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360046,
+        "num": 360046,
+        "word": "双轨男主",
+        "onboard_time": 1733555240,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67266,
+        "num": 351054,
+        "word": "警察叔叔信箱不应让小学生失望",
+        "onboard_time": 1733558779,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 343583,
+        "num": 343583,
+        "word": "华中农业大学回应虐猫事件",
+        "onboard_time": 1733554577,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297719,
+        "num": 297719,
+        "word": "紫燕百味鸡回应大肠杆菌超百倍",
+        "onboard_time": 1733541020,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 268551,
+        "num": 268551,
+        "word": "65岁男子操纵股票倒亏2.17亿",
+        "onboard_time": 1733552899,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25579,
+        "num": 268524,
+        "word": "听泉邀请等什么君合唱",
+        "onboard_time": 1733558599,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126470,
+        "num": 268115,
+        "word": "华中农业大学通报虐猫事件",
+        "onboard_time": 1733559019,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 428410,
+        "num": 267936,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301274,
+        "num": 267767,
+        "word": "25岁抗癌女网红去世前左眼失明",
+        "onboard_time": 1733556979,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 269919,
+        "num": 267491,
+        "word": "杨超越大波浪",
+        "onboard_time": 1733548820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267383,
+        "num": 267383,
+        "word": "紫燕百味鸡被指大肠杆菌超标290倍",
+        "onboard_time": 1733558059,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60352,
+        "num": 266937,
+        "word": "孙颖莎说专注在比赛中的每一分",
+        "onboard_time": 1733554999,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266646,
+        "num": 266646,
+        "word": "紫燕百味鸡",
+        "onboard_time": 1733558178,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116883,
+        "num": 262251,
+        "word": "国乒回应8比0胜法国队",
+        "onboard_time": 1733553858,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259006,
+        "num": 259006,
+        "word": "男子300多万买俩路虎提车被拒",
+        "onboard_time": 1733544800,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237497,
+        "num": 237497,
+        "word": "韩国执政党最新立场",
+        "onboard_time": 1733558360,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74102,
+        "num": 236187,
+        "word": "平次和叶 天降和竹马都是你",
+        "onboard_time": 1733559019,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 235965,
+        "num": 235965,
+        "word": "肖战祝张艺兴音乐话剧演出顺利",
+        "onboard_time": 1733556259,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234851,
+        "num": 234851,
+        "word": "在日本捡到了韩国人的手机",
+        "onboard_time": 1733553799,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226773,
+        "num": 226773,
+        "word": "迈克尔杰克逊女儿宣布订婚",
+        "onboard_time": 1733557340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224532,
+        "num": 224532,
+        "word": "动车黄景瑜",
+        "onboard_time": 1733558718,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212194,
+        "num": 212194,
+        "word": "美国男子钻行李箱被女友关拉链致死",
+        "onboard_time": 1733544679,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208785,
+        "num": 208785,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1733547860,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205497,
+        "num": 205497,
+        "word": "麦琳说离婚后不要李行亮承担自己",
+        "onboard_time": 1733541739,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200494,
+        "num": 200494,
+        "word": "十个勤天穿的一模一样",
+        "onboard_time": 1733559319,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197466,
+        "num": 197466,
+        "word": "陈都灵暗夜精灵",
+        "onboard_time": 1733559800,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196246,
+        "num": 196246,
+        "word": "双轨原车戏导演发文",
+        "onboard_time": 1733558360,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173759,
+        "num": 173759,
+        "word": "韩国历史上还有2位总统曾遭弹劾",
+        "onboard_time": 1733558899,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195869,
+        "num": 167508,
+        "word": "十个勤天合体",
+        "onboard_time": 1733554459,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160052,
+        "num": 160052,
+        "word": "谷爱凌决赛摔倒",
+        "onboard_time": 1733546297,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155574,
+        "num": 155574,
+        "word": "田曦薇捧着花来的",
+        "onboard_time": 1733546420,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154264,
+        "num": 154264,
+        "word": "莎头再现神仙球肖指导起立鼓掌",
+        "onboard_time": 1733553380,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151862,
+        "num": 151862,
+        "word": "儿子能真正共情母亲吗",
+        "onboard_time": 1733557819,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "韩国国会今天表决尹锡悦弹劾案",
+        "onboard_time": 1733528896,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "尖叫之夜海报站位",
+        "onboard_time": 1733548700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135003,
+        "num": 135003,
+        "word": "伊朗军事外交人员开始撤离叙利亚",
+        "onboard_time": 1733557640,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133942,
+        "num": 133942,
+        "word": "陈龙用三年做了一档亲子节目",
+        "onboard_time": 1733558120,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}
