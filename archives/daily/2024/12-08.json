@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733599105552,
+  "endTime": 1733600150474,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29974,
+      "num": 28472,
+      "word": "血观音",
+      "onboard_time": 1733599393,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27143,
       "num": 117463,
       "word": "微博网友喜爱剧集深潜",
@@ -547,20 +555,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22834,
+      "num": 51453,
+      "word": "巴黎圣母院今天重新开放",
+      "onboard_time": 1733598132,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22811,
       "num": 24635,
       "word": "周深开花车在体育场环游",
       "onboard_time": 1733598552,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17872,
-      "num": 51453,
-      "word": "巴黎圣母院今天重新开放",
-      "onboard_time": 1733598132,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14867,
@@ -579,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14303,
+      "num": 39296,
+      "word": "29岁退伍军人跳河救人全身冻通红",
+      "onboard_time": 1733599932,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 13209,
       "num": 24637,
       "word": "男生无声家庭长大如今直博清华",
       "onboard_time": 1733598852,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12195,
+      "num": 28576,
+      "word": "巴黎圣母院失火原因仍未有定论",
+      "onboard_time": 1733599452,
+      "rank": 28,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
