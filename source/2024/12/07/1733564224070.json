@@ -1,0 +1,410 @@
+{
+  "runTime": 1733564224070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3484239,
+        "num": 3484239,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1733552479,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617927,
+        "num": 617927,
+        "word": "韩国国会否决金建希特检法",
+        "onboard_time": 1733561480,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48494,
+        "num": 617553,
+        "word": "中国春节走向世界宣传片",
+        "onboard_time": 1733545941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1007530,
+        "num": 616189,
+        "word": "虞书欣 雅典女神",
+        "onboard_time": 1733553018,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408800,
+        "num": 614918,
+        "word": "紫燕百味鸡",
+        "onboard_time": 1733558178,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396422,
+        "num": 613771,
+        "word": "韩执政党议员退场抵制总统弹劾案",
+        "onboard_time": 1733560340,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 970759,
+        "num": 612134,
+        "word": "周芯竹一个月暴瘦十斤",
+        "onboard_time": 1733561541,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177374,
+        "num": 611594,
+        "word": "孙龙500米金牌",
+        "onboard_time": 1733562499,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188683,
+        "num": 610723,
+        "word": "韩国会在场议员人数不够通过弹劾案",
+        "onboard_time": 1733563340,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155465,
+        "num": 609281,
+        "word": "韩国民主党喊执政党议员回来投票",
+        "onboard_time": 1733562738,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 798764,
+        "num": 608334,
+        "word": "小水好漂亮",
+        "onboard_time": 1733557039,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 638869,
+        "num": 606998,
+        "word": "孙千短发",
+        "onboard_time": 1733560880,
+        "rank": 11,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 53821,
+        "num": 604904,
+        "word": "国乒今晚对阵罗马尼亚",
+        "onboard_time": 1733563279,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33374,
+        "num": 604333,
+        "word": "一条视频了解韩国弹劾总统流程",
+        "onboard_time": 1733563340,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55229,
+        "num": 603335,
+        "word": "专家建议将医院划分为禁止直播区域",
+        "onboard_time": 1733562560,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602459,
+        "num": 602459,
+        "word": "易梦玲 大梦归离剧组",
+        "onboard_time": 1733562560,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591580,
+        "num": 591580,
+        "word": "飞机撞到鸟群机头血迹清晰可见",
+        "onboard_time": 1733551939,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110453,
+        "num": 455783,
+        "word": "小S那些年送过的搞笑花篮",
+        "onboard_time": 1733562738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227697,
+        "num": 438298,
+        "word": "杨笠松弛",
+        "onboard_time": 1733562919,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430285,
+        "num": 430285,
+        "word": "真正让你长痘的食物",
+        "onboard_time": 1733560157,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348087,
+        "num": 348087,
+        "word": "田嘉瑞给程潇提裙摆",
+        "onboard_time": 1733562679,
+        "rank": 20,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 8899,
+        "num": 337134,
+        "word": "中国风电创下全球多项纪录",
+        "onboard_time": 1733563939,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336059,
+        "num": 336059,
+        "word": "双轨 脱轨",
+        "onboard_time": 1733551280,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299349,
+        "num": 299349,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287996,
+        "num": 287996,
+        "word": "李宛妲下车镜头",
+        "onboard_time": 1733563579,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286802,
+        "num": 286802,
+        "word": "大梦归离剧组 养眼",
+        "onboard_time": 1733561959,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280589,
+        "num": 280589,
+        "word": "向佐 玛丽猫",
+        "onboard_time": 1733557699,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279516,
+        "num": 279516,
+        "word": "惠英红血观音 吃掉自己孩子的母狮",
+        "onboard_time": 1733557278,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68533,
+        "num": 271547,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16016,
+        "num": 270235,
+        "word": "谭秦东说只想好好活下去",
+        "onboard_time": 1733562738,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46004,
+        "num": 269879,
+        "word": "男子看直播太上头8万买俩康熙赏瓶",
+        "onboard_time": 1733562319,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269768,
+        "num": 269768,
+        "word": "韩国执政党反对弹劾总统尹锡悦",
+        "onboard_time": 1733558779,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46948,
+        "num": 264245,
+        "word": "看中国的非遗惊艳世界",
+        "onboard_time": 1733544379,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259170,
+        "num": 259170,
+        "word": "韩国国会全体会议举行",
+        "onboard_time": 1733563579,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236797,
+        "num": 236797,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59004,
+        "num": 219151,
+        "word": "梁永安 年轻人不要追求完美",
+        "onboard_time": 1733563520,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204277,
+        "num": 204277,
+        "word": "邓为银发撕漫男",
+        "onboard_time": 1733560820,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 203654,
+        "num": 203654,
+        "word": "紫燕百味鸡声明",
+        "onboard_time": 1733555901,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 192548,
+        "num": 192548,
+        "word": "25岁还在做留学梦边打工边考雅思",
+        "onboard_time": 1733561299,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22542,
+        "num": 191390,
+        "word": "刘雨昕 有一颗清醒的心比什么都重要",
+        "onboard_time": 1733558120,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190644,
+        "num": 190644,
+        "word": "紫燕百味鸡被指大肠杆菌超标290倍",
+        "onboard_time": 1733558059,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43610,
+        "num": 187787,
+        "word": "短道速滑世界巡回赛",
+        "onboard_time": 1733561480,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187728,
+        "num": 187728,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183189,
+        "num": 183189,
+        "word": "华中农业大学通报虐猫事件",
+        "onboard_time": 1733559019,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 181691,
+        "num": 181691,
+        "word": "林依晨红毯",
+        "onboard_time": 1733560880,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 181181,
+        "num": 181181,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1733547860,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176447,
+        "num": 176447,
+        "word": "25岁抗癌女网红去世前左眼失明",
+        "onboard_time": 1733556979,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174835,
+        "num": 174835,
+        "word": "双轨男主",
+        "onboard_time": 1733555240,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165963,
+        "num": 165963,
+        "word": "紫燕百味鸡回应大肠杆菌超百倍",
+        "onboard_time": 1733541020,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 153591,
+        "num": 153591,
+        "word": "杨超越大波浪",
+        "onboard_time": 1733548820,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}
