@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733560951219,
+  "endTime": 1733563381607,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -915,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1252349,
+      "num": 736324,
+      "word": "女硕士走失13年收留者家属发声",
+      "onboard_time": 1733557399,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1248540,
       "num": 1248540,
       "word": "韩媒关注中国春节申遗成功",
@@ -1363,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1013064,
-      "num": 736324,
-      "word": "女硕士走失13年收留者家属发声",
-      "onboard_time": 1733557399,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1011676,
       "num": 4951531,
       "word": "TWICE",
@@ -1417,6 +1417,14 @@
       "onboard_time": 1733470519,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 985318,
+      "num": 570703,
+      "word": "周芯竹一个月暴瘦十斤",
+      "onboard_time": 1733561541,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 984864,
@@ -3027,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 590171,
+      "num": 365490,
+      "word": "孙千短发",
+      "onboard_time": 1733560880,
+      "rank": 48,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 589434,
       "num": 589434,
       "word": "向佐 玛丽猫",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1733545520,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562278,
+      "num": 562278,
+      "word": "韩国国会否决金建希特检法",
+      "onboard_time": 1733561480,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 561144,
@@ -4699,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423737,
+      "num": 364576,
+      "word": "易梦玲 大梦归离剧组",
+      "onboard_time": 1733562560,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 423638,
       "num": 423638,
       "word": "申论处女作",
@@ -4792,6 +4824,14 @@
       "word": "原来上午10点喝咖啡效果更好",
       "onboard_time": 1733445980,
       "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 415911,
+      "num": 415911,
+      "word": "真正让你长痘的食物",
+      "onboard_time": 1733560157,
+      "rank": 38,
       "category": "健康医疗"
     },
     {
@@ -5363,6 +5403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 375366,
+      "num": 424722,
+      "word": "韩国执政党反对弹劾总统尹锡悦",
+      "onboard_time": 1733558779,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375282,
       "num": 369233,
       "word": "感觉章若楠香香的",
@@ -5601,6 +5649,14 @@
       "onboard_time": 1733154859,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358093,
+      "num": 358093,
+      "word": "大梦归离剧组 养眼",
+      "onboard_time": 1733561959,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 357843,
@@ -5961,6 +6017,14 @@
       "onboard_time": 1733490260,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335816,
+      "num": 719470,
+      "word": "韩执政党议员退场抵制总统弹劾案",
+      "onboard_time": 1733560340,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 335382,
@@ -6777,14 +6841,6 @@
       "onboard_time": 1733440936,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284064,
-      "num": 424722,
-      "word": "韩国执政党反对弹劾总统尹锡悦",
-      "onboard_time": 1733558779,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 283870,
@@ -7995,6 +8051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232947,
+      "num": 232947,
+      "word": "邓为银发撕漫男",
+      "onboard_time": 1733560820,
+      "rank": 43,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 232914,
       "num": 223174,
       "word": "宋威龙赵今麦按姓氏首字母排序",
@@ -8113,6 +8177,14 @@
       "onboard_time": 1733383938,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229871,
+      "num": 229871,
+      "word": "田嘉瑞给程潇提裙摆",
+      "onboard_time": 1733562679,
+      "rank": 36,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 229656,
@@ -10491,6 +10563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "韩国历史上还有2位总统曾遭弹劾",
+      "onboard_time": 1733558899,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188419,
       "num": 181797,
       "word": "姚明说超越不了孙悦了",
@@ -10899,6 +10979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183819,
+      "num": 183819,
+      "word": "林依晨红毯",
+      "onboard_time": 1733560880,
+      "rank": 46,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 183755,
       "num": 183755,
       "word": "白鹿蝴蝶兰大片",
@@ -11009,6 +11097,14 @@
       "onboard_time": 1733218699,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181608,
+      "num": 181608,
+      "word": "25岁还在做留学梦边打工边考雅思",
+      "onboard_time": 1733561299,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 181573,
@@ -11395,14 +11491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175972,
-      "num": 175972,
-      "word": "真正让你长痘的食物",
-      "onboard_time": 1733560157,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175840,
       "num": 175840,
       "word": "呼吁国内企业审慎选择采购美国芯片",
@@ -11553,14 +11641,6 @@
       "onboard_time": 1733545579,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173759,
-      "num": 173759,
-      "word": "韩国历史上还有2位总统曾遭弹劾",
-      "onboard_time": 1733558899,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173663,
@@ -11931,6 +12011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168302,
+      "num": 168302,
+      "word": "孙龙500米金牌",
+      "onboard_time": 1733562499,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168249,
       "num": 466002,
       "word": "患者挂不到专家号为何陪诊师能",
@@ -11985,6 +12073,14 @@
       "onboard_time": 1733360660,
       "rank": 30,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 167718,
+      "num": 268115,
+      "word": "华中农业大学通报虐猫事件",
+      "onboard_time": 1733559019,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167629,
@@ -12353,14 +12449,6 @@
       "onboard_time": 1733369120,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 163328,
-      "num": 163328,
-      "word": "邓为银发撕漫男",
-      "onboard_time": 1733560820,
-      "rank": 43,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 163261,
@@ -13011,14 +13099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155699,
-      "num": 155699,
-      "word": "林依晨红毯",
-      "onboard_time": 1733560880,
-      "rank": 46,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 155678,
       "num": 377469,
       "word": "游戏装备也能被法院强制执行",
@@ -13483,14 +13563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150239,
-      "num": 150239,
-      "word": "孙千短发",
-      "onboard_time": 1733560880,
-      "rank": 48,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 150236,
       "num": 150236,
       "word": "河野华cos希格雯",
@@ -13713,6 +13785,14 @@
       "onboard_time": 1733283500,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147545,
+      "num": 237126,
+      "word": "韩国乒乓球选手看变脸吓出表情包",
+      "onboard_time": 1733560580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 147346,
@@ -14571,6 +14651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137690,
+      "num": 366570,
+      "word": "杨笠松弛",
+      "onboard_time": 1733562919,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137277,
       "num": 137277,
       "word": "光与夜之恋 陆沉",
@@ -14649,14 +14737,6 @@
       "onboard_time": 1733388080,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136360,
-      "num": 268115,
-      "word": "华中农业大学通报虐猫事件",
-      "onboard_time": 1733559019,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 136355,
@@ -14977,14 +15057,6 @@
       "onboard_time": 1733111478,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133110,
-      "num": 719470,
-      "word": "韩执政党议员退场抵制总统弹劾案",
-      "onboard_time": 1733560340,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133079,
@@ -16065,6 +16137,14 @@
       "onboard_time": 1733539639,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 119826,
+      "num": 367877,
+      "word": "燕云十六声公测定档",
+      "onboard_time": 1733562319,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 119745,
@@ -17665,6 +17745,14 @@
       "onboard_time": 1733066000,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96042,
+      "num": 364286,
+      "word": "小S那些年送过的搞笑花篮",
+      "onboard_time": 1733562738,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 95880,
@@ -19571,6 +19659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62721,
+      "num": 368320,
+      "word": "韩国民主党喊执政党议员回来投票",
+      "onboard_time": 1733562738,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62719,
       "num": 247492,
       "word": "土耳其总统表态支持叙反政府武装",
@@ -19905,6 +20001,14 @@
       "onboard_time": 1733052197,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58715,
+      "num": 368773,
+      "word": "韩国会在场议员人数不够通过弹劾案",
+      "onboard_time": 1733563340,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58671,
@@ -20411,6 +20515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52909,
+      "num": 357293,
+      "word": "张哲华不排斥龙傲天标签",
+      "onboard_time": 1733560220,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 52778,
       "num": 223166,
       "word": "上海一开发商为增加车位破环承重柱",
@@ -20505,6 +20617,14 @@
       "onboard_time": 1733206760,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 51996,
+      "num": 365887,
+      "word": "短道速滑世界巡回赛",
+      "onboard_time": 1733561480,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 51897,
@@ -21131,6 +21251,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 43583,
+      "num": 350245,
+      "word": "鼓鼓疑似未通过解说考核",
+      "onboard_time": 1733561840,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 43569,
       "num": 159350,
       "word": "什么是猎祖猎宗",
@@ -21440,6 +21568,14 @@
       "word": "文森特首发",
       "onboard_time": 1733134159,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40297,
+      "num": 367661,
+      "word": "国乒今晚对阵罗马尼亚",
+      "onboard_time": 1733563279,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -21755,6 +21891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36847,
+      "num": 365676,
+      "word": "男子看直播太上头8万买俩康熙赏瓶",
+      "onboard_time": 1733562319,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36831,
       "num": 274434,
       "word": "郑钦文今年大赛积分第五",
@@ -21785,6 +21929,14 @@
       "onboard_time": 1733293999,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36690,
+      "num": 354093,
+      "word": "女鹅出圈级美貌",
+      "onboard_time": 1733563340,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 36653,
@@ -21889,14 +22041,6 @@
       "onboard_time": 1733522713,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35786,
-      "num": 174564,
-      "word": "张哲华不排斥龙傲天标签",
-      "onboard_time": 1733560220,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35684,
@@ -22011,14 +22155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34537,
-      "num": 237126,
-      "word": "韩国乒乓球选手看变脸吓出表情包",
-      "onboard_time": 1733560580,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34372,
       "num": 34372,
       "word": "曹璐带韩国爱豆游成都vlog",
@@ -22105,6 +22241,14 @@
       "onboard_time": 1733403019,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33326,
+      "num": 366979,
+      "word": "专家建议将医院划分为禁止直播区域",
+      "onboard_time": 1733562560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33221,
@@ -23035,6 +23179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25044,
+      "num": 367275,
+      "word": "一条视频了解韩国弹劾总统流程",
+      "onboard_time": 1733563340,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24984,
       "num": 24984,
       "word": "好运来",
@@ -23681,6 +23833,14 @@
       "onboard_time": 1733339771,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18747,
+      "num": 353141,
+      "word": "谭秦东说只想好好活下去",
+      "onboard_time": 1733562738,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18735,

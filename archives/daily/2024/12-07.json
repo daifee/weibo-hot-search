@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733560951219,
+  "endTime": 1733563381607,
   "band_list": [
     {
       "raw_hot": 3852903,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1252349,
+      "num": 736324,
+      "word": "女硕士走失13年收留者家属发声",
+      "onboard_time": 1733557399,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1245165,
       "num": 148019,
       "word": "女生醉酒遭强奸致死案一审择期宣判",
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1013064,
-      "num": 736324,
-      "word": "女硕士走失13年收留者家属发声",
-      "onboard_time": 1733557399,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 985318,
+      "num": 570703,
+      "word": "周芯竹一个月暴瘦十斤",
+      "onboard_time": 1733561541,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 968030,
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 590171,
+      "num": 365490,
+      "word": "孙千短发",
+      "onboard_time": 1733560880,
+      "rank": 48,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 589434,
       "num": 589434,
       "word": "向佐 玛丽猫",
@@ -265,6 +281,14 @@
       "onboard_time": 1733545520,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562278,
+      "num": 562278,
+      "word": "韩国国会否决金建希特检法",
+      "onboard_time": 1733561480,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 558895,
@@ -427,12 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423737,
+      "num": 364576,
+      "word": "易梦玲 大梦归离剧组",
+      "onboard_time": 1733562560,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418827,
       "num": 367242,
       "word": "杨超越大波浪",
       "onboard_time": 1733548820,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415911,
+      "num": 415911,
+      "word": "真正让你长痘的食物",
+      "onboard_time": 1733560157,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 413632,
@@ -507,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375366,
+      "num": 424722,
+      "word": "韩国执政党反对弹劾总统尹锡悦",
+      "onboard_time": 1733558779,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 371778,
       "num": 622341,
       "word": "王楚钦孙颖莎3比0多尔扎里夫",
@@ -528,6 +576,14 @@
       "word": "狐妖小红娘竹业篇改名",
       "onboard_time": 1733538978,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 358093,
+      "num": 358093,
+      "word": "大梦归离剧组 养眼",
+      "onboard_time": 1733561959,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -577,6 +633,14 @@
       "onboard_time": 1733554577,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335816,
+      "num": 719470,
+      "word": "韩执政党议员退场抵制总统弹劾案",
+      "onboard_time": 1733560340,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 330690,
@@ -723,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 284064,
-      "num": 424722,
-      "word": "韩国执政党反对弹劾总统尹锡悦",
-      "onboard_time": 1733558779,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 282810,
       "num": 282810,
       "word": "肖战祝张艺兴音乐话剧演出顺利",
@@ -825,6 +881,22 @@
       "onboard_time": 1733541320,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232947,
+      "num": 232947,
+      "word": "邓为银发撕漫男",
+      "onboard_time": 1733560820,
+      "rank": 43,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 229871,
+      "num": 229871,
+      "word": "田嘉瑞给程潇提裙摆",
+      "onboard_time": 1733562679,
+      "rank": 36,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 226795,
@@ -995,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "韩国历史上还有2位总统曾遭弹劾",
+      "onboard_time": 1733558899,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188419,
       "num": 181797,
       "word": "姚明说超越不了孙悦了",
@@ -1027,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183819,
+      "num": 183819,
+      "word": "林依晨红毯",
+      "onboard_time": 1733560880,
+      "rank": 46,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 183755,
       "num": 183755,
       "word": "白鹿蝴蝶兰大片",
       "onboard_time": 1733552539,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181608,
+      "num": 181608,
+      "word": "25岁还在做留学梦边打工边考雅思",
+      "onboard_time": 1733561299,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 180682,
@@ -1067,28 +1163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175972,
-      "num": 175972,
-      "word": "真正让你长痘的食物",
-      "onboard_time": 1733560157,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173780,
       "num": 185628,
       "word": "张艺兴谢幕眼眶湿润",
       "onboard_time": 1733545579,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173759,
-      "num": 173759,
-      "word": "韩国历史上还有2位总统曾遭弹劾",
-      "onboard_time": 1733558899,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173507,
@@ -1115,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168302,
+      "num": 168302,
+      "word": "孙龙500米金牌",
+      "onboard_time": 1733562499,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168249,
       "num": 466002,
       "word": "患者挂不到专家号为何陪诊师能",
@@ -1129,6 +1217,14 @@
       "onboard_time": 1733536939,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167718,
+      "num": 268115,
+      "word": "华中农业大学通报虐猫事件",
+      "onboard_time": 1733559019,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167493,
@@ -1153,14 +1249,6 @@
       "onboard_time": 1733546839,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163328,
-      "num": 163328,
-      "word": "邓为银发撕漫男",
-      "onboard_time": 1733560820,
-      "rank": 43,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 162381,
@@ -1201,14 +1289,6 @@
       "onboard_time": 1733530037,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155699,
-      "num": 155699,
-      "word": "林依晨红毯",
-      "onboard_time": 1733560880,
-      "rank": 46,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 155439,
@@ -1283,14 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150239,
-      "num": 150239,
-      "word": "孙千短发",
-      "onboard_time": 1733560880,
-      "rank": 48,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 150207,
       "num": 193667,
       "word": "张伟丽世界综合格斗最佳女选手",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1733534060,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147545,
+      "num": 237126,
+      "word": "韩国乒乓球选手看变脸吓出表情包",
+      "onboard_time": 1733560580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 146050,
@@ -1427,20 +1507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137690,
+      "num": 366570,
+      "word": "杨笠松弛",
+      "onboard_time": 1733562919,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137260,
       "num": 137260,
       "word": "现在就出发",
       "onboard_time": 1733546719,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136360,
-      "num": 268115,
-      "word": "华中农业大学通报虐猫事件",
-      "onboard_time": 1733559019,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 135860,
@@ -1505,14 +1585,6 @@
       "onboard_time": 1733549119,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 133110,
-      "num": 719470,
-      "word": "韩执政党议员退场抵制总统弹劾案",
-      "onboard_time": 1733560340,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133023,
@@ -1657,6 +1729,14 @@
       "onboard_time": 1733539639,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 119826,
+      "num": 367877,
+      "word": "燕云十六声公测定档",
+      "onboard_time": 1733562319,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 119734,
@@ -1875,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96042,
+      "num": 364286,
+      "word": "小S那些年送过的搞笑花篮",
+      "onboard_time": 1733562738,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95880,
       "num": 95880,
       "word": "孙颖莎说都还不错",
@@ -2059,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62721,
+      "num": 368320,
+      "word": "韩国民主党喊执政党议员回来投票",
+      "onboard_time": 1733562738,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62719,
       "num": 247492,
       "word": "土耳其总统表态支持叙反政府武装",
@@ -2099,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58715,
+      "num": 368773,
+      "word": "韩国会在场议员人数不够通过弹劾案",
+      "onboard_time": 1733563340,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57387,
       "num": 638111,
       "word": "国乒第4个8比0",
@@ -2121,6 +2225,22 @@
       "onboard_time": 1733502738,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 52909,
+      "num": 357293,
+      "word": "张哲华不排斥龙傲天标签",
+      "onboard_time": 1733560220,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51996,
+      "num": 365887,
+      "word": "短道速滑世界巡回赛",
+      "onboard_time": 1733561480,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 51283,
@@ -2179,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43583,
+      "num": 350245,
+      "word": "鼓鼓疑似未通过解说考核",
+      "onboard_time": 1733561840,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 43368,
       "num": 43368,
       "word": "石凯新歌",
@@ -2235,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40297,
+      "num": 367661,
+      "word": "国乒今晚对阵罗马尼亚",
+      "onboard_time": 1733563279,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40044,
       "num": 55947,
       "word": "韩国议长称决不接受二次戒严",
@@ -2259,12 +2395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36847,
+      "num": 365676,
+      "word": "男子看直播太上头8万买俩康熙赏瓶",
+      "onboard_time": 1733562319,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36716,
       "num": 132367,
       "word": "如何逼自己20天极限考研",
       "onboard_time": 1733539340,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 36690,
+      "num": 354093,
+      "word": "女鹅出圈级美貌",
+      "onboard_time": 1733563340,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 36557,
@@ -2283,22 +2435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35786,
-      "num": 174564,
-      "word": "张哲华不排斥龙傲天标签",
-      "onboard_time": 1733560220,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 34537,
-      "num": 237126,
-      "word": "韩国乒乓球选手看变脸吓出表情包",
-      "onboard_time": 1733560580,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33977,
       "num": 268524,
       "word": "听泉邀请等什么君合唱",
@@ -2313,6 +2449,14 @@
       "onboard_time": 1733551457,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33326,
+      "num": 366979,
+      "word": "专家建议将医院划分为禁止直播区域",
+      "onboard_time": 1733562560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32207,
@@ -2336,6 +2480,14 @@
       "word": "拜登或提前赦免多人以防特朗普报复",
       "onboard_time": 1733516652,
       "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25044,
+      "num": 367275,
+      "word": "一条视频了解韩国弹劾总统流程",
+      "onboard_time": 1733563340,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -2401,6 +2553,14 @@
       "onboard_time": 1733509573,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18747,
+      "num": 353141,
+      "word": "谭秦东说只想好好活下去",
+      "onboard_time": 1733562738,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18547,
