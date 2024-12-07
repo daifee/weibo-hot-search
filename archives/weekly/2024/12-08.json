@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733611206013,
+  "endTime": 1733613733417,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 680414,
-      "num": 680414,
+      "num": 763096,
       "word": "中国留学生涉嫌非法禁锢15岁女孩",
       "onboard_time": 1733585122,
       "rank": 1,
@@ -113,6 +113,14 @@
       "onboard_time": 1733578040,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314009,
+      "num": 314009,
+      "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
+      "onboard_time": 1733610552,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282473,
@@ -259,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133179,
+      "num": 114152,
+      "word": "赵丽颖",
+      "onboard_time": 1733613493,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132438,
       "num": 110293,
       "word": "邓为紫海",
@@ -273,6 +289,14 @@
       "onboard_time": 1733588899,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130818,
+      "num": 130818,
+      "word": "荆门男子田间挖出战国时期青铜剑",
+      "onboard_time": 1733608812,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124160,
@@ -345,6 +369,14 @@
       "onboard_time": 1733581462,
       "rank": 39,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 104182,
+      "num": 104182,
+      "word": "虞书欣这句拜拜",
+      "onboard_time": 1733612713,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 98863,
@@ -427,20 +459,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64273,
-      "num": 64273,
-      "word": "荆门男子田间挖出战国时期青铜剑",
-      "onboard_time": 1733608812,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
       "onboard_time": 1733593994,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59580,
+      "num": 119159,
+      "word": "长期久坐的3个自救方法",
+      "onboard_time": 1733612534,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 55987,
@@ -459,12 +491,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53941,
+      "num": 53941,
+      "word": "李沁王阳获年度品质演员",
+      "onboard_time": 1733607612,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53154,
       "num": 85837,
       "word": "央视新闻夜读",
       "onboard_time": 1733587221,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 51098,
+      "num": 51098,
+      "word": "一念关山",
+      "onboard_time": 1733613074,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50876,
+      "num": 50876,
+      "word": "29岁退伍军人跳河救人全身冻通红",
+      "onboard_time": 1733599932,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 45194,
@@ -481,6 +537,14 @@
       "onboard_time": 1733573120,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37889,
+      "num": 46638,
+      "word": "叙反政府武装逼近首都大马士革",
+      "onboard_time": 1733596932,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36782,
@@ -508,7 +572,7 @@
     },
     {
       "raw_hot": 34947,
-      "num": 34947,
+      "num": 36019,
       "word": "湖南有个专门教救人的地摊",
       "onboard_time": 1733604251,
       "rank": 15,
@@ -547,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33495,
-      "num": 46638,
-      "word": "叙反政府武装逼近首都大马士革",
-      "onboard_time": 1733596932,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32107,
       "num": 34006,
       "word": "姚晓峰 年度优秀导演",
@@ -563,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29052,
-      "num": 29052,
-      "word": "李沁王阳获年度品质演员",
-      "onboard_time": 1733607612,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 31010,
+      "num": 36021,
+      "word": "中俄双方官兵互登军舰参观交流",
+      "onboard_time": 1733606172,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27143,
@@ -585,22 +641,6 @@
       "onboard_time": 1733606472,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23452,
-      "num": 39296,
-      "word": "29岁退伍军人跳河救人全身冻通红",
-      "onboard_time": 1733599932,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 23030,
-      "num": 23030,
-      "word": "中俄双方官兵互登军舰参观交流",
-      "onboard_time": 1733606172,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22834,
@@ -633,14 +673,6 @@
       "onboard_time": 1733598852,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 16821,
-      "num": 59796,
-      "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
-      "onboard_time": 1733610552,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15383,
