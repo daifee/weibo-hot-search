@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733548937389,
+  "endTime": 1733550005979,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1163,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1060517,
+      "num": 1169682,
+      "word": "男子300多万买俩路虎提车被拒",
+      "onboard_time": 1733544800,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1054775,
       "num": 1054775,
       "word": "要不让艺洋跟你说两句",
@@ -1249,6 +1257,14 @@
       "onboard_time": 1733397560,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1029232,
+      "num": 1029232,
+      "word": "紫燕百味鸡事件",
+      "onboard_time": 1733545158,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1027681,
@@ -1707,14 +1723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 869513,
-      "num": 1139122,
-      "word": "男子300多万买俩路虎提车被拒",
-      "onboard_time": 1733544800,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 867533,
       "num": 867533,
       "word": "豪士1批次面包霉菌超标近6倍",
@@ -1971,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 810550,
+      "num": 810550,
+      "word": "尖叫之夜节目单",
+      "onboard_time": 1733547860,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810020,
       "num": 481713,
       "word": "男子花38万娶妻崩溃发现儿子非亲生",
@@ -2003,20 +2019,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 800796,
+      "num": 800796,
+      "word": "谷爱凌决赛摔倒",
+      "onboard_time": 1733546297,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 793817,
       "num": 1127010,
       "word": "央视曝光学生体育用品中的增塑剂",
       "onboard_time": 1733058919,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 792810,
-      "num": 792810,
-      "word": "谷爱凌决赛摔倒",
-      "onboard_time": 1733546297,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 788291,
@@ -2379,14 +2395,6 @@
       "category": "网红,体育"
     },
     {
-      "raw_hot": 690335,
-      "num": 690335,
-      "word": "尖叫之夜节目单",
-      "onboard_time": 1733547860,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 688709,
       "num": 688709,
       "word": "马龙笑看台湾绿媒造谣",
@@ -2408,14 +2416,6 @@
       "word": "清华大学通报一学生在外校与人冲突",
       "onboard_time": 1733129839,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 684275,
-      "num": 684275,
-      "word": "紫燕百味鸡事件",
-      "onboard_time": 1733545158,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -3059,6 +3059,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 571025,
+      "num": 571025,
+      "word": "我家那小子",
+      "onboard_time": 1733547439,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569246,
       "num": 457592,
       "word": "窦骁何超莲撒狗粮现场",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1733111659,
       "rank": 5,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 562330,
+      "num": 562330,
+      "word": "胖东来购物需凭会员结账",
+      "onboard_time": 1733545520,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561144,
@@ -3169,14 +3185,6 @@
       "onboard_time": 1733241568,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 556132,
-      "num": 556132,
-      "word": "胖东来购物需凭会员结账",
-      "onboard_time": 1733545520,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 555899,
@@ -3723,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 492413,
+      "num": 492413,
+      "word": "谷爱凌夺冠",
+      "onboard_time": 1733548279,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491343,
       "num": 491343,
       "word": "孟子义 我不接受任何身材PUA",
@@ -3929,14 +3945,6 @@
       "onboard_time": 1733317103,
       "rank": 34,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 474808,
-      "num": 478914,
-      "word": "我家那小子",
-      "onboard_time": 1733547439,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 474501,
@@ -4473,6 +4481,14 @@
       "onboard_time": 1733374281,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 432396,
+      "num": 432396,
+      "word": "尖叫之夜海报站位",
+      "onboard_time": 1733548700,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 431929,
@@ -5273,6 +5289,14 @@
       "onboard_time": 1733288782,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371778,
+      "num": 622341,
+      "word": "王楚钦孙颖莎3比0多尔扎里夫",
+      "onboard_time": 1733548457,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 371075,
@@ -6145,6 +6169,14 @@
       "onboard_time": 1733008153,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313234,
+      "num": 313234,
+      "word": "杨超越大波浪",
+      "onboard_time": 1733548820,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 311803,
@@ -7075,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260459,
+      "num": 392138,
+      "word": "丈夫待业在家被抱怨只给几百生活费",
+      "onboard_time": 1733545819,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259690,
       "num": 365624,
       "word": "女推 偷拍",
@@ -7785,14 +7825,6 @@
       "onboard_time": 1733165171,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231413,
-      "num": 231413,
-      "word": "谷爱凌夺冠",
-      "onboard_time": 1733548279,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 231336,
@@ -8843,6 +8875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207787,
+      "num": 207787,
+      "word": "恋与深空",
+      "onboard_time": 1733102478,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207445,
       "num": 211887,
       "word": "人人影视将二十年数据开源分享",
@@ -9025,6 +9065,14 @@
       "onboard_time": 1733408780,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204322,
+      "num": 228011,
+      "word": "马嘉祺彼此陪伴互相理解一起耍二",
+      "onboard_time": 1733548820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204229,
@@ -9395,14 +9443,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 198900,
-      "num": 392138,
-      "word": "丈夫待业在家被抱怨只给几百生活费",
-      "onboard_time": 1733545819,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198894,
       "num": 198894,
       "word": "吴泽林 爸爸妈妈这就是月底的我",
@@ -9769,6 +9809,14 @@
       "onboard_time": 1733222120,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194516,
+      "num": 194516,
+      "word": "易烊千玺边泡脚边唱",
+      "onboard_time": 1733549538,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 194183,
@@ -10411,14 +10459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186052,
-      "num": 186052,
-      "word": "恋与深空",
-      "onboard_time": 1733102478,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 186044,
       "num": 186044,
       "word": "WTT",
@@ -10715,14 +10755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181134,
-      "num": 181134,
-      "word": "尖叫之夜海报站位",
-      "onboard_time": 1733548700,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181021,
       "num": 241951,
       "word": "婚内婚外",
@@ -10849,6 +10881,14 @@
       "onboard_time": 1733459840,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 179786,
+      "num": 179786,
+      "word": "你吃的夫妻肺片大肠杆菌或超标",
+      "onboard_time": 1733544379,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179685,
@@ -11089,14 +11129,6 @@
       "onboard_time": 1733230940,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175559,
-      "num": 175559,
-      "word": "马嘉祺彼此陪伴互相理解一起耍二",
-      "onboard_time": 1733548820,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 175554,
@@ -11393,14 +11425,6 @@
       "onboard_time": 1733374580,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170760,
-      "num": 170760,
-      "word": "你吃的夫妻肺片大肠杆菌或超标",
-      "onboard_time": 1733544379,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170713,
@@ -12377,6 +12401,14 @@
       "onboard_time": 1733288901,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158148,
+      "num": 620388,
+      "word": "券商员工偷看基金持仓获利23万",
+      "onboard_time": 1733546180,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157778,
@@ -13571,14 +13603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144285,
-      "num": 144285,
-      "word": "杨超越大波浪",
-      "onboard_time": 1733548820,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144019,
       "num": 144019,
       "word": "宋亚轩智性恋男友",
@@ -13947,6 +13971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139328,
+      "num": 263214,
+      "word": "莎头组合连续三日出战",
+      "onboard_time": 1733549001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139315,
       "num": 178812,
       "word": "宁悦配享离婚证",
@@ -14291,6 +14323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135573,
+      "num": 135573,
+      "word": "白月梵星12月爱奇艺待播剧",
+      "onboard_time": 1733549298,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135555,
       "num": 172015,
       "word": "花费几万元的南极之旅却没到南极",
@@ -14441,6 +14481,14 @@
       "onboard_time": 1733109979,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 133763,
+      "num": 133763,
+      "word": "吞噬星空剧场版上线",
+      "onboard_time": 1733549119,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 133732,
@@ -14707,14 +14755,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 129905,
-      "num": 620388,
-      "word": "券商员工偷看基金持仓获利23万",
-      "onboard_time": 1733546180,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129894,
       "num": 359244,
       "word": "第十一个国家公祭日",
@@ -14729,6 +14769,14 @@
       "onboard_time": 1733018598,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129285,
+      "num": 129285,
+      "word": "王源说00后不是垮掉的一代",
+      "onboard_time": 1733549840,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 129144,
@@ -14761,6 +14809,14 @@
       "onboard_time": 1733269219,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128540,
+      "num": 530731,
+      "word": "王曼昱vs卢茨",
+      "onboard_time": 1733548580,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 128529,
@@ -15121,6 +15177,14 @@
       "onboard_time": 1733032277,
       "rank": 37,
       "category": "网红"
+    },
+    {
+      "raw_hot": 124307,
+      "num": 124307,
+      "word": "王楚钦孙颖莎赢下首局",
+      "onboard_time": 1733549899,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124237,
@@ -16817,14 +16881,6 @@
       "onboard_time": 1733191337,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99833,
-      "num": 622341,
-      "word": "王楚钦孙颖莎3比0多尔扎里夫",
-      "onboard_time": 1733548457,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 99610,
@@ -20091,6 +20147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48177,
+      "num": 875594,
+      "word": "看中国的非遗惊艳世界",
+      "onboard_time": 1733544379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47972,
       "num": 398584,
       "word": "坍塌铁路施工方6月曾宣誓安全生产",
@@ -20475,14 +20539,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 43590,
-      "num": 747828,
-      "word": "看中国的非遗惊艳世界",
-      "onboard_time": 1733544379,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43569,
       "num": 159350,
       "word": "什么是猎祖猎宗",
@@ -20683,14 +20739,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 41039,
-      "num": 530731,
-      "word": "王曼昱vs卢茨",
-      "onboard_time": 1733548580,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41023,
       "num": 316491,
       "word": "对大牌彩妆祛魅了",
@@ -20769,6 +20817,14 @@
       "onboard_time": 1733283380,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40349,
+      "num": 519198,
+      "word": "花1万多买的AI学习机却有讲解错误",
+      "onboard_time": 1733548220,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40322,
@@ -22073,14 +22129,6 @@
       "onboard_time": 1733210658,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27088,
-      "num": 519198,
-      "word": "花1万多买的AI学习机却有讲解错误",
-      "onboard_time": 1733548220,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27082,
@@ -24280,6 +24328,9 @@
     },
     {
       "word": "#关于粮食安全总书记这样要求#"
+    },
+    {
+      "word": "#讲好中华优秀传统文化故事#"
     }
   ]
 }

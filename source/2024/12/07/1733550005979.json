@@ -1,0 +1,410 @@
+{
+  "runTime": 1733550005979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1060517,
+        "num": 1169682,
+        "word": "男子300多万买俩路虎提车被拒",
+        "onboard_time": 1733544800,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029232,
+        "num": 1029232,
+        "word": "紫燕百味鸡事件",
+        "onboard_time": 1733545158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48177,
+        "num": 875594,
+        "word": "看中国的非遗惊艳世界",
+        "onboard_time": 1733544379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810550,
+        "num": 810550,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1733547860,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800796,
+        "num": 800796,
+        "word": "谷爱凌决赛摔倒",
+        "onboard_time": 1733546297,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 641630,
+        "num": 641630,
+        "word": "麦琳说离婚后不要李行亮承担自己",
+        "onboard_time": 1733541739,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615958,
+        "num": 615958,
+        "word": "紫燕百味鸡回应大肠杆菌超百倍",
+        "onboard_time": 1733541020,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 571025,
+        "num": 571025,
+        "word": "我家那小子",
+        "onboard_time": 1733547439,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562330,
+        "num": 562330,
+        "word": "胖东来购物需凭会员结账",
+        "onboard_time": 1733545520,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399545,
+        "num": 557501,
+        "word": "李子柒又营业了",
+        "onboard_time": 1733546420,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 994298,
+        "num": 557240,
+        "word": "安眠药防自杀设计",
+        "onboard_time": 1733544320,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 554983,
+        "num": 554983,
+        "word": "美国男子钻行李箱被女友关拉链致死",
+        "onboard_time": 1733544679,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 492413,
+        "num": 492413,
+        "word": "谷爱凌夺冠",
+        "onboard_time": 1733548279,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484227,
+        "num": 484227,
+        "word": "王一珩感谢现在的爸爸教会他处世之道",
+        "onboard_time": 1733547739,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40349,
+        "num": 454667,
+        "word": "花1万多买的AI学习机却有讲解错误",
+        "onboard_time": 1733548220,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432396,
+        "num": 432396,
+        "word": "尖叫之夜海报站位",
+        "onboard_time": 1733548700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371778,
+        "num": 371778,
+        "word": "王楚钦孙颖莎3比0多尔扎里夫",
+        "onboard_time": 1733548457,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347288,
+        "num": 347288,
+        "word": "田曦薇捧着花来的",
+        "onboard_time": 1733546420,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313234,
+        "num": 313234,
+        "word": "杨超越大波浪",
+        "onboard_time": 1733548820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260459,
+        "num": 312179,
+        "word": "丈夫待业在家被抱怨只给几百生活费",
+        "onboard_time": 1733545819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1000198,
+        "num": 312148,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311712,
+        "num": 311712,
+        "word": "大英博物馆偶遇王宝强刘昊然",
+        "onboard_time": 1733542219,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309916,
+        "num": 309916,
+        "word": "尹锡悦公开致歉",
+        "onboard_time": 1733533880,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299459,
+        "num": 299459,
+        "word": "易烊千玺 我爱洗澡",
+        "onboard_time": 1733545698,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139328,
+        "num": 263214,
+        "word": "莎头组合连续三日出战",
+        "onboard_time": 1733549001,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255052,
+        "num": 255052,
+        "word": "王楚钦孙颖莎vs多尔扎里夫",
+        "onboard_time": 1733543960,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245013,
+        "num": 245013,
+        "word": "双轨剧组否认霸凌演员",
+        "onboard_time": 1733538319,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158148,
+        "num": 236645,
+        "word": "券商员工偷看基金持仓获利23万",
+        "onboard_time": 1733546180,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233289,
+        "num": 233289,
+        "word": "尖叫之夜出图速度",
+        "onboard_time": 1733542939,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204322,
+        "num": 228011,
+        "word": "马嘉祺彼此陪伴互相理解一起耍二",
+        "onboard_time": 1733548820,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227831,
+        "num": 227831,
+        "word": "TikTok周受资称将上诉到最高法院",
+        "onboard_time": 1733544619,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217261,
+        "num": 217261,
+        "word": "女子面瘫从香港跑河南针灸",
+        "onboard_time": 1733535857,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207787,
+        "num": 207787,
+        "word": "恋与深空",
+        "onboard_time": 1733549178,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194516,
+        "num": 194516,
+        "word": "易烊千玺边泡脚边唱",
+        "onboard_time": 1733549538,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733544139,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179786,
+        "num": 179786,
+        "word": "你吃的夫妻肺片大肠杆菌或超标",
+        "onboard_time": 1733544379,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158481,
+        "num": 158481,
+        "word": "尖叫之夜路透",
+        "onboard_time": 1733543419,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 154161,
+        "num": 154161,
+        "word": "JDG官宣Peyz加入",
+        "onboard_time": 1733547499,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142268,
+        "num": 142268,
+        "word": "尹锡悦称宣布戒严出于绝望",
+        "onboard_time": 1733544619,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142237,
+        "num": 142237,
+        "word": "有人恶评杨妞花称她该感谢余华英",
+        "onboard_time": 1733546659,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137053,
+        "num": 137053,
+        "word": "大冰好有饭缩力",
+        "onboard_time": 1733545221,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135573,
+        "num": 135573,
+        "word": "白月梵星12月爱奇艺待播剧",
+        "onboard_time": 1733549298,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133763,
+        "num": 133763,
+        "word": "吞噬星空剧场版上线",
+        "onboard_time": 1733549119,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131990,
+        "num": 131990,
+        "word": "婆婆过度节省婚房住成垃圾堆",
+        "onboard_time": 1733528055,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129285,
+        "num": 129285,
+        "word": "王源说00后不是垮掉的一代",
+        "onboard_time": 1733549840,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128540,
+        "num": 128540,
+        "word": "王曼昱vs卢茨",
+        "onboard_time": 1733548580,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127074,
+        "num": 127074,
+        "word": "现在就出发",
+        "onboard_time": 1733546719,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124609,
+        "num": 124609,
+        "word": "凭1个苹果核破获23年前出租屋杀人案",
+        "onboard_time": 1733538918,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124307,
+        "num": 124307,
+        "word": "王楚钦孙颖莎赢下首局",
+        "onboard_time": 1733549899,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123148,
+        "num": 123148,
+        "word": "光与夜之恋 线条小狗",
+        "onboard_time": 1733546719,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#讲好中华优秀传统文化故事#"
+    }
+  }
+}
