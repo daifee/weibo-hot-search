@@ -1,0 +1,410 @@
+{
+  "runTime": 1733568150887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2136892,
+        "num": 2136892,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1733552479,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864256,
+        "num": 864256,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64007,
+        "num": 605257,
+        "word": "中国春节走向世界宣传片",
+        "onboard_time": 1733545941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997644,
+        "num": 593253,
+        "word": "虞书欣 雅典女神",
+        "onboard_time": 1733553018,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477383,
+        "num": 477383,
+        "word": "韩国国会否决金建希特检法",
+        "onboard_time": 1733561480,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377185,
+        "num": 377185,
+        "word": "韩国会在场议员人数不够通过弹劾案",
+        "onboard_time": 1733563340,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 744676,
+        "num": 372962,
+        "word": "黄景瑜孙千牵手走红毯",
+        "onboard_time": 1733564898,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580701,
+        "num": 351183,
+        "word": "易梦玲 大梦归离剧组",
+        "onboard_time": 1733562560,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323927,
+        "num": 323927,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100190,
+        "num": 322541,
+        "word": "国乒迎战罗马尼亚队阵容公布",
+        "onboard_time": 1733567239,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1481909,
+        "num": 321222,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537183,
+        "num": 317430,
+        "word": "秦岚 既是姐姐又是妈妈",
+        "onboard_time": 1733564302,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497014,
+        "num": 314461,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467997,
+        "num": 312125,
+        "word": "陈妍希悼念父亲",
+        "onboard_time": 1733565379,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5757,
+        "num": 310839,
+        "word": "国乒vs罗马尼亚",
+        "onboard_time": 1733568020,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421785,
+        "num": 306925,
+        "word": "双轨首发概念海报",
+        "onboard_time": 1733567184,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306525,
+        "num": 306525,
+        "word": "广东培育中国黑猪品种有重大突破",
+        "onboard_time": 1733567118,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252017,
+        "num": 252017,
+        "word": "真正让你长痘的食物",
+        "onboard_time": 1733560157,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58676,
+        "num": 211769,
+        "word": "迪丽热巴解锁6套郭培高定",
+        "onboard_time": 1733567900,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206660,
+        "num": 206660,
+        "word": "iG四人现身机场",
+        "onboard_time": 1733567184,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 758773,
+        "num": 206629,
+        "word": "周芯竹一个月暴瘦十斤",
+        "onboard_time": 1733561541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375236,
+        "num": 206608,
+        "word": "钟楚曦 赫本风",
+        "onboard_time": 1733564778,
+        "rank": 21,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 351733,
+        "num": 206588,
+        "word": "小水好漂亮",
+        "onboard_time": 1733557039,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322106,
+        "num": 206539,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336830,
+        "num": 206524,
+        "word": "孙千短发",
+        "onboard_time": 1733560880,
+        "rank": 24,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 314386,
+        "num": 206500,
+        "word": "直观感受瘦了20斤后的面部变化",
+        "onboard_time": 1733564419,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229546,
+        "num": 206453,
+        "word": "李沁 女王气场",
+        "onboard_time": 1733567001,
+        "rank": 26,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 206442,
+        "num": 206442,
+        "word": "尹锡悦夫人牵涉多起案件",
+        "onboard_time": 1733563822,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189442,
+        "num": 203327,
+        "word": "西安惊现00后版杨贵妃现场被挤爆",
+        "onboard_time": 1733565200,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93467,
+        "num": 201655,
+        "word": "Letme力挺iG新阵容",
+        "onboard_time": 1733566820,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201304,
+        "num": 201304,
+        "word": "双轨 脱轨",
+        "onboard_time": 1733551280,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189563,
+        "num": 189563,
+        "word": "迈克尔杰克逊女儿宣布订婚",
+        "onboard_time": 1733557340,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188247,
+        "num": 188247,
+        "word": "王楚钦孙颖莎回应国乒八连胜",
+        "onboard_time": 1733565020,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186683,
+        "num": 186683,
+        "word": "李宛妲下车镜头",
+        "onboard_time": 1733563579,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186214,
+        "num": 186214,
+        "word": "韩执政党议员退场抵制总统弹劾案",
+        "onboard_time": 1733560340,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186169,
+        "num": 186169,
+        "word": "张颂文小熊老师本熊",
+        "onboard_time": 1733567059,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 186064,
+        "num": 186064,
+        "word": "赵丽颖澄清微博是自己发的",
+        "onboard_time": 1733529676,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177290,
+        "num": 177290,
+        "word": "田嘉瑞给程潇提裙摆",
+        "onboard_time": 1733562679,
+        "rank": 37,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 176192,
+        "num": 176192,
+        "word": "尖叫之夜红毯主持人嘴瓢",
+        "onboard_time": 1733566760,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "羽生结弦echoes of life",
+        "onboard_time": 1733565319,
+        "rank": 39,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 155993,
+        "num": 155993,
+        "word": "飞机撞到鸟群机头血迹清晰可见",
+        "onboard_time": 1733551939,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148097,
+        "num": 148097,
+        "word": "内蒙古沙漠下有个大水库",
+        "onboard_time": 1733567721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "华中农业大学通报虐猫事件",
+        "onboard_time": 1733559019,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 137191,
+        "num": 137191,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1733547860,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 136894,
+        "word": "韩国国会全体会议举行",
+        "onboard_time": 1733563579,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135653,
+        "num": 135653,
+        "word": "张杰跨年演唱会四面八方台",
+        "onboard_time": 1733566641,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135459,
+        "num": 135459,
+        "word": "邓为银发撕漫男",
+        "onboard_time": 1733560820,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 131189,
+        "num": 131189,
+        "word": "杨笠松弛",
+        "onboard_time": 1733562919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121960,
+        "num": 121960,
+        "word": "陈哲远聂远你俩跳双人舞呢",
+        "onboard_time": 1733565561,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111337,
+        "num": 111337,
+        "word": "25岁抗癌女网红去世前左眼失明",
+        "onboard_time": 1733556979,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}

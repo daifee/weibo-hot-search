@@ -1,6 +1,6 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733567095567,
+  "endTime": 1733568150887,
   "band_list": [
     {
       "raw_hot": 3852903,
@@ -51,8 +51,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1453706,
-      "num": 316378,
+      "raw_hot": 1481909,
+      "num": 321222,
       "word": "谁给杨超越选的裙子",
       "onboard_time": 1733563999,
       "rank": 34,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 864256,
+      "num": 864256,
+      "word": "小伙在美国卖三蹦子仨月赚了100万",
+      "onboard_time": 1733563939,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 861110,
       "num": 1076834,
       "word": "凭1个苹果核破获23年前出租屋杀人案",
@@ -177,14 +185,6 @@
       "onboard_time": 1733501180,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 818913,
-      "num": 818913,
-      "word": "小伙在美国卖三蹦子仨月赚了100万",
-      "onboard_time": 1733563939,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 800796,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 758595,
-      "num": 336892,
+      "num": 372962,
       "word": "黄景瑜孙千牵手走红毯",
       "onboard_time": 1733564898,
       "rank": 6,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497014,
+      "num": 314461,
+      "word": "谷爱凌摔倒后换了歌单",
+      "onboard_time": 1733564120,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496831,
       "num": 496831,
       "word": "尖叫之夜出图速度",
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467997,
+      "num": 312125,
+      "word": "陈妍希悼念父亲",
+      "onboard_time": 1733565379,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460620,
       "num": 460620,
       "word": "院方回应女子做彩超时男工程师闯入",
@@ -449,14 +465,6 @@
       "onboard_time": 1733555901,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 455833,
-      "num": 305522,
-      "word": "陈妍希悼念父亲",
-      "onboard_time": 1733565379,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 454642,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421785,
+      "num": 306925,
+      "word": "双轨首发概念海报",
+      "onboard_time": 1733567184,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418827,
       "num": 367242,
       "word": "杨超越大波浪",
@@ -553,14 +569,6 @@
       "onboard_time": 1733528896,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 401374,
-      "num": 300612,
-      "word": "谷爱凌摔倒后换了歌单",
-      "onboard_time": 1733564120,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 398769,
@@ -609,6 +617,14 @@
       "onboard_time": 1733538319,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 377185,
+      "num": 610723,
+      "word": "韩国会在场议员人数不够通过弹劾案",
+      "onboard_time": 1733563340,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 375366,
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337430,
-      "num": 610723,
-      "word": "韩国会在场议员人数不够通过弹劾案",
-      "onboard_time": 1733563340,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330690,
       "num": 330690,
       "word": "TikTok周受资称将上诉到最高法院",
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323927,
+      "num": 323927,
+      "word": "尹锡悦弹劾案",
+      "onboard_time": 1733564720,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323169,
       "num": 323169,
       "word": "有中国公民在蒙古国死伤",
@@ -755,12 +771,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 322106,
+      "num": 206539,
+      "word": "九重紫",
+      "onboard_time": 1733481440,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318206,
       "num": 318206,
       "word": "大冰好有饭缩力",
       "onboard_time": 1733545221,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 314386,
+      "num": 236138,
+      "word": "直观感受瘦了20斤后的面部变化",
+      "onboard_time": 1733564419,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 311803,
@@ -777,6 +809,14 @@
       "onboard_time": 1733531238,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306525,
+      "num": 306525,
+      "word": "广东培育中国黑猪品种有重大突破",
+      "onboard_time": 1733567118,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305480,
@@ -923,14 +963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 253328,
-      "num": 236138,
-      "word": "直观感受瘦了20斤后的面部变化",
-      "onboard_time": 1733564419,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 252311,
       "num": 252311,
       "word": "十个勤天果敢开场",
@@ -992,6 +1024,14 @@
       "word": "邓为银发撕漫男",
       "onboard_time": 1733560820,
       "rank": 43,
+      "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 229546,
+      "num": 206453,
+      "word": "李沁 女王气场",
+      "onboard_time": 1733567001,
+      "rank": 34,
       "category": "综艺,时尚"
     },
     {
@@ -1091,6 +1131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 206660,
+      "num": 206660,
+      "word": "iG四人现身机场",
+      "onboard_time": 1733567184,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204691,
       "num": 143777,
       "word": "九重紫热度",
@@ -1179,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189442,
+      "num": 203327,
+      "word": "西安惊现00后版杨贵妃现场被挤爆",
+      "onboard_time": 1733565200,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188475,
       "num": 188475,
       "word": "韩国历史上还有2位总统曾遭弹劾",
@@ -1195,12 +1251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188247,
+      "num": 328212,
+      "word": "王楚钦孙颖莎回应国乒八连胜",
+      "onboard_time": 1733565020,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187286,
       "num": 187286,
       "word": "男明星尖叫之夜出图",
       "onboard_time": 1733556499,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186169,
+      "num": 186169,
+      "word": "张颂文小熊老师本熊",
+      "onboard_time": 1733567059,
+      "rank": 49,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 185832,
@@ -1267,20 +1339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177249,
-      "num": 177249,
-      "word": "西安惊现00后版杨贵妃现场被挤爆",
-      "onboard_time": 1733565200,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176503,
-      "num": 141150,
-      "word": "九重紫",
-      "onboard_time": 1733481440,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 176192,
+      "num": 176192,
+      "word": "尖叫之夜红毯主持人嘴瓢",
+      "onboard_time": 1733566760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 176187,
@@ -1323,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168353,
+      "num": 168353,
+      "word": "羽生结弦echoes of life",
+      "onboard_time": 1733565319,
+      "rank": 41,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 168249,
       "num": 466002,
       "word": "患者挂不到专家号为何陪诊师能",
@@ -1339,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167529,
-      "num": 167529,
-      "word": "李沁 女王气场",
-      "onboard_time": 1733567001,
-      "rank": 34,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 167493,
       "num": 318666,
       "word": "JDG官宣Peyz加入",
@@ -1361,14 +1425,6 @@
       "onboard_time": 1733553380,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166675,
-      "num": 166675,
-      "word": "尹锡悦弹劾案",
-      "onboard_time": 1733564720,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 165613,
@@ -1411,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157278,
-      "num": 157278,
-      "word": "尖叫之夜红毯主持人嘴瓢",
-      "onboard_time": 1733566760,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156239,
       "num": 156239,
       "word": "哥伦比亚政府拒绝承认联合国报告",
@@ -1443,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155329,
-      "num": 328212,
-      "word": "王楚钦孙颖莎回应国乒八连胜",
-      "onboard_time": 1733565020,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155234,
       "num": 155234,
       "word": "张杰跨年演唱会四面八方台",
@@ -1473,14 +1513,6 @@
       "onboard_time": 1733493620,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153944,
-      "num": 153944,
-      "word": "羽生结弦echoes of life",
-      "onboard_time": 1733565319,
-      "rank": 41,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 153930,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1733481260,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 148097,
+      "num": 148097,
+      "word": "内蒙古沙漠下有个大水库",
+      "onboard_time": 1733567721,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147806,
@@ -1939,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118840,
-      "num": 118840,
-      "word": "张颂文小熊老师本熊",
-      "onboard_time": 1733567059,
-      "rank": 49,
-      "category": "综艺,时尚"
-    },
-    {
       "raw_hot": 118545,
       "num": 229326,
       "word": "Letme力挺iG新阵容",
@@ -2153,6 +2185,14 @@
       "onboard_time": 1733558840,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100190,
+      "num": 322541,
+      "word": "国乒迎战罗马尼亚队阵容公布",
+      "onboard_time": 1733567239,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 98895,
@@ -2401,6 +2441,14 @@
       "onboard_time": 1733563520,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58676,
+      "num": 211769,
+      "word": "迪丽热巴解锁6套郭培高定",
+      "onboard_time": 1733567900,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 57387,
@@ -2889,6 +2937,14 @@
       "onboard_time": 1733527394,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5757,
+      "num": 310839,
+      "word": "国乒vs罗马尼亚",
+      "onboard_time": 1733568020,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
