@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733613733417,
+  "endTime": 1733614585931,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 718720,
-      "num": 210485,
+      "num": 245221,
       "word": "爱奇艺导播吃豆橛子了",
       "onboard_time": 1733587400,
       "rank": 15,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 680414,
-      "num": 763096,
+      "num": 875012,
       "word": "中国留学生涉嫌非法禁锢15岁女孩",
       "onboard_time": 1733585122,
       "rank": 1,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394117,
+      "num": 394117,
+      "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
+      "onboard_time": 1733610552,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 348209,
       "num": 140624,
       "word": "阿里高管内网致歉",
@@ -113,14 +121,6 @@
       "onboard_time": 1733578040,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 314009,
-      "num": 314009,
-      "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
-      "onboard_time": 1733610552,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282473,
@@ -235,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170821,
+      "num": 144194,
+      "word": "在鹤岗全款5万50平米的小家",
+      "onboard_time": 1733614094,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165595,
       "num": 165595,
       "word": "官方回应男孩疑推智障老人下水",
@@ -243,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161485,
+      "num": 161485,
+      "word": "长期久坐的3个自救方法",
+      "onboard_time": 1733612534,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 158572,
       "num": 114979,
       "word": "九重紫 导演炫技",
       "onboard_time": 1733572400,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149983,
+      "num": 149983,
+      "word": "荆门男子田间挖出战国时期青铜剑",
+      "onboard_time": 1733608812,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141186,
@@ -265,6 +289,14 @@
       "onboard_time": 1733575221,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136535,
+      "num": 136535,
+      "word": "虞书欣这句拜拜",
+      "onboard_time": 1733612713,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 133179,
@@ -291,14 +323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130818,
-      "num": 130818,
-      "word": "荆门男子田间挖出战国时期青铜剑",
-      "onboard_time": 1733608812,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124160,
       "num": 124160,
       "word": "尹锡悦下台前不履行职务",
@@ -323,20 +347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116275,
+      "num": 118679,
+      "word": "为突发疾病同事垫付24万医疗费被赖账",
+      "onboard_time": 1733576002,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113007,
+      "num": 113007,
+      "word": "一念关山",
+      "onboard_time": 1733613074,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112369,
       "num": 116044,
       "word": "周五下班韩国飞中国说走就走",
       "onboard_time": 1733578343,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 112275,
-      "num": 118679,
-      "word": "为突发疾病同事垫付24万医疗费被赖账",
-      "onboard_time": 1733576002,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111359,
@@ -371,11 +403,11 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 104182,
-      "num": 104182,
-      "word": "虞书欣这句拜拜",
-      "onboard_time": 1733612713,
-      "rank": 15,
+      "raw_hot": 99014,
+      "num": 99014,
+      "word": "白鹿被抓到偷玩手机的反应",
+      "onboard_time": 1733614034,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -417,6 +449,14 @@
       "onboard_time": 1733579362,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 80205,
+      "num": 80205,
+      "word": "郑晓龙希望合作成毅",
+      "onboard_time": 1733614034,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 78162,
@@ -467,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59580,
-      "num": 119159,
-      "word": "长期久坐的3个自救方法",
-      "onboard_time": 1733612534,
-      "rank": 9,
-      "category": "健康医疗"
+      "raw_hot": 62568,
+      "num": 62568,
+      "word": "李沁王阳获年度品质演员",
+      "onboard_time": 1733607612,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57276,
+      "num": 57276,
+      "word": "29岁退伍军人跳河救人全身冻通红",
+      "onboard_time": 1733599932,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 55987,
@@ -491,36 +539,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 53941,
-      "num": 53941,
-      "word": "李沁王阳获年度品质演员",
-      "onboard_time": 1733607612,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53154,
       "num": 85837,
       "word": "央视新闻夜读",
       "onboard_time": 1733587221,
       "rank": 47,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 51098,
-      "num": 51098,
-      "word": "一念关山",
-      "onboard_time": 1733613074,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 50876,
-      "num": 50876,
-      "word": "29岁退伍军人跳河救人全身冻通红",
-      "onboard_time": 1733599932,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 45194,
@@ -531,20 +555,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43572,
+      "num": 46638,
+      "word": "叙反政府武装逼近首都大马士革",
+      "onboard_time": 1733596932,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 41329,
+      "num": 41329,
+      "word": "被东北冻饺子现场震惊到了",
+      "onboard_time": 1733614335,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 39697,
+      "num": 39697,
+      "word": "花花被妹妹按住了后脖颈",
+      "onboard_time": 1733614274,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38106,
       "num": 156731,
       "word": "琼瑶花葬将开放粉丝参加",
       "onboard_time": 1733573120,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37889,
-      "num": 46638,
-      "word": "叙反政府武装逼近首都大马士革",
-      "onboard_time": 1733596932,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36782,
@@ -697,6 +737,14 @@
       "onboard_time": 1733588899,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12144,
+      "num": 148280,
+      "word": "机场回应飞机降落时撞到鸟群",
+      "onboard_time": 1733614094,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10275,
