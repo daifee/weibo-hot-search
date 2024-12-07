@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733546582274,
+  "endTime": 1733548937389,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1196,7 +1196,7 @@
     },
     {
       "raw_hot": 1052236,
-      "num": 184645,
+      "num": 614086,
       "word": "安眠药防自杀设计",
       "onboard_time": 1733544320,
       "rank": 30,
@@ -1707,6 +1707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 869513,
+      "num": 1139122,
+      "word": "男子300多万买俩路虎提车被拒",
+      "onboard_time": 1733544800,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 867533,
       "num": 867533,
       "word": "豪士1批次面包霉菌超标近6倍",
@@ -1724,7 +1732,7 @@
     },
     {
       "raw_hot": 866917,
-      "num": 425923,
+      "num": 614069,
       "word": "美国男子钻行李箱被女友关拉链致死",
       "onboard_time": 1733544679,
       "rank": 11,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1733058919,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 792810,
+      "num": 792810,
+      "word": "谷爱凌决赛摔倒",
+      "onboard_time": 1733546297,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 788291,
@@ -2363,6 +2379,14 @@
       "category": "网红,体育"
     },
     {
+      "raw_hot": 690335,
+      "num": 690335,
+      "word": "尖叫之夜节目单",
+      "onboard_time": 1733547860,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688709,
       "num": 688709,
       "word": "马龙笑看台湾绿媒造谣",
@@ -2384,6 +2408,14 @@
       "word": "清华大学通报一学生在外校与人冲突",
       "onboard_time": 1733129839,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684275,
+      "num": 684275,
+      "word": "紫燕百味鸡事件",
+      "onboard_time": 1733545158,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -3139,6 +3171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 556132,
+      "num": 556132,
+      "word": "胖东来购物需凭会员结账",
+      "onboard_time": 1733545520,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555899,
       "num": 555899,
       "word": "人人网已停止服务",
@@ -3491,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515716,
+      "num": 626554,
+      "word": "李子柒又营业了",
+      "onboard_time": 1733546420,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 515654,
       "num": 5396093,
       "word": "进入韩国国会主楼的军人全部撤出",
@@ -3553,6 +3601,14 @@
       "onboard_time": 1733125638,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508006,
+      "num": 508006,
+      "word": "王一珩感谢现在的爸爸教会他处世之道",
+      "onboard_time": 1733547739,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 507507,
@@ -3873,6 +3929,14 @@
       "onboard_time": 1733317103,
       "rank": 34,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 474808,
+      "num": 478914,
+      "word": "我家那小子",
+      "onboard_time": 1733547439,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 474501,
@@ -4395,14 +4459,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 432839,
-      "num": 432839,
-      "word": "男子300多万买俩路虎提车被拒",
-      "onboard_time": 1733544800,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432739,
       "num": 432739,
       "word": "大爷瞒着孩子偷贷20万种虫草花",
@@ -4841,6 +4897,14 @@
       "onboard_time": 1733060960,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 398769,
+      "num": 480482,
+      "word": "田曦薇捧着花来的",
+      "onboard_time": 1733546420,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 398569,
@@ -5347,14 +5411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 362590,
-      "num": 362590,
-      "word": "紫燕百味鸡事件",
-      "onboard_time": 1733545158,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 361392,
       "num": 361392,
       "word": "韩国执政党党首称尹锡悦须尽早停职",
@@ -5803,6 +5859,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 330690,
+      "num": 330690,
+      "word": "TikTok周受资称将上诉到最高法院",
+      "onboard_time": 1733544619,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 330436,
       "num": 330436,
       "word": "福宝今日最新视频",
@@ -6083,6 +6147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311803,
+      "num": 311803,
+      "word": "易烊千玺 我爱洗澡",
+      "onboard_time": 1733545698,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 311445,
       "num": 311445,
       "word": "吴磊赵今麦2024云合现偶TOP1",
@@ -6161,6 +6233,14 @@
       "onboard_time": 1733407101,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305480,
+      "num": 305480,
+      "word": "光与夜之恋 线条小狗",
+      "onboard_time": 1733546719,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 304839,
@@ -6609,14 +6689,6 @@
       "onboard_time": 1733320163,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279810,
-      "num": 279810,
-      "word": "易烊千玺 我爱洗澡",
-      "onboard_time": 1733545698,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 279432,
@@ -7195,14 +7267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251042,
-      "num": 169031,
-      "word": "胖东来购物需凭会员结账",
-      "onboard_time": 1733545520,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250948,
       "num": 208437,
       "word": "范丞丞希望粉丝对工作室嘴下留情",
@@ -7723,6 +7787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231413,
+      "num": 231413,
+      "word": "谷爱凌夺冠",
+      "onboard_time": 1733548279,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231336,
       "num": 231336,
       "word": "韩国资产全线跳水",
@@ -8009,14 +8081,6 @@
       "onboard_time": 1733462780,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 225144,
-      "num": 225144,
-      "word": "TikTok周受资称将上诉到最高法院",
-      "onboard_time": 1733544619,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 224641,
@@ -9331,6 +9395,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 198900,
+      "num": 392138,
+      "word": "丈夫待业在家被抱怨只给几百生活费",
+      "onboard_time": 1733545819,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198894,
       "num": 198894,
       "word": "吴泽林 爸爸妈妈这就是月底的我",
@@ -10643,6 +10715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181134,
+      "num": 181134,
+      "word": "尖叫之夜海报站位",
+      "onboard_time": 1733548700,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181021,
       "num": 241951,
       "word": "婚内婚外",
@@ -11009,6 +11089,14 @@
       "onboard_time": 1733230940,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175559,
+      "num": 175559,
+      "word": "马嘉祺彼此陪伴互相理解一起耍二",
+      "onboard_time": 1733548820,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 175554,
@@ -11443,28 +11531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169197,
-      "num": 169197,
-      "word": "谷爱凌决赛摔倒",
-      "onboard_time": 1733546297,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168913,
       "num": 168913,
       "word": "虞书欣丁禹兮幕后打闹",
       "onboard_time": 1733115380,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168870,
-      "num": 168870,
-      "word": "丈夫待业在家被抱怨只给几百生活费",
-      "onboard_time": 1733545819,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168813,
@@ -11561,6 +11633,14 @@
       "onboard_time": 1733057358,
       "rank": 44,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 167493,
+      "num": 318666,
+      "word": "JDG官宣Peyz加入",
+      "onboard_time": 1733547499,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 167435,
@@ -11747,6 +11827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165613,
+      "num": 165613,
+      "word": "如鸢 徐庶",
+      "onboard_time": 1733546839,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165565,
       "num": 185023,
       "word": "我是刑警眼睛看废了",
@@ -11841,14 +11929,6 @@
       "onboard_time": 1733460020,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164379,
-      "num": 164379,
-      "word": "田曦薇捧着花来的",
-      "onboard_time": 1733546420,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 164207,
@@ -13011,6 +13091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150090,
+      "num": 150090,
+      "word": "有人恶评杨妞花称她该感谢余华英",
+      "onboard_time": 1733546659,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150089,
       "num": 150089,
       "word": "张杰成都演唱会",
@@ -13387,6 +13475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145073,
+      "num": 145073,
+      "word": "张杰三亚抢票",
+      "onboard_time": 1733548340,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145019,
       "num": 145019,
       "word": "检查结果互认致HIV感染者被拒诊",
@@ -13473,6 +13569,14 @@
       "onboard_time": 1733098157,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144285,
+      "num": 144285,
+      "word": "杨超越大波浪",
+      "onboard_time": 1733548820,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144019,
@@ -13665,14 +13769,6 @@
       "onboard_time": 1733075952,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141658,
-      "num": 141658,
-      "word": "李子柒又营业了",
-      "onboard_time": 1733546420,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 141624,
@@ -14049,6 +14145,14 @@
       "onboard_time": 1733361623,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137260,
+      "num": 137260,
+      "word": "现在就出发",
+      "onboard_time": 1733546719,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 137236,
@@ -14603,6 +14707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 129905,
+      "num": 620388,
+      "word": "券商员工偷看基金持仓获利23万",
+      "onboard_time": 1733546180,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129894,
       "num": 359244,
       "word": "第十一个国家公祭日",
@@ -14953,14 +15065,6 @@
       "onboard_time": 1733366479,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 124700,
-      "num": 124700,
-      "word": "券商员工偷看基金持仓获利23万",
-      "onboard_time": 1733546180,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124682,
@@ -16715,6 +16819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99833,
+      "num": 622341,
+      "word": "王楚钦孙颖莎3比0多尔扎里夫",
+      "onboard_time": 1733548457,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99610,
       "num": 402182,
       "word": "汪顺现身海洋奇缘2首映礼",
@@ -18043,6 +18155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77415,
+      "num": 249274,
+      "word": "白鹿打卡浪漫大理",
+      "onboard_time": 1733548640,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77406,
       "num": 149154,
       "word": "马龙笑得比奶茶还甜",
@@ -18825,6 +18945,14 @@
       "onboard_time": 1733127258,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62719,
+      "num": 247492,
+      "word": "土耳其总统表态支持叙反政府武装",
+      "onboard_time": 1733548040,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 62231,
@@ -20347,6 +20475,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 43590,
+      "num": 747828,
+      "word": "看中国的非遗惊艳世界",
+      "onboard_time": 1733544379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43569,
       "num": 159350,
       "word": "什么是猎祖猎宗",
@@ -20369,14 +20505,6 @@
       "onboard_time": 1733494401,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43395,
-      "num": 731612,
-      "word": "看中国的非遗惊艳世界",
-      "onboard_time": 1733544379,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43394,
@@ -20553,6 +20681,14 @@
       "onboard_time": 1733129120,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41039,
+      "num": 530731,
+      "word": "王曼昱vs卢茨",
+      "onboard_time": 1733548580,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 41023,
@@ -21937,6 +22073,14 @@
       "onboard_time": 1733210658,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27088,
+      "num": 519198,
+      "word": "花1万多买的AI学习机却有讲解错误",
+      "onboard_time": 1733548220,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27082,
