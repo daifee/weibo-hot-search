@@ -1,7 +1,15 @@
 {
   "startTime": 1733502527799,
-  "endTime": 1733541244569,
+  "endTime": 1733543391329,
   "band_list": [
+    {
+      "raw_hot": 1855490,
+      "num": 425265,
+      "word": "女硕士",
+      "onboard_time": 1733539159,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1672187,
       "num": 514038,
@@ -35,11 +43,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1107116,
-      "num": 362510,
-      "word": "女硕士",
-      "onboard_time": 1733539159,
-      "rank": 3,
+      "raw_hot": 1077165,
+      "num": 1172346,
+      "word": "紫燕百味鸡回应大肠杆菌超百倍",
+      "onboard_time": 1733541020,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 861110,
+      "num": 1076834,
+      "word": "凭1个苹果核破获23年前出租屋杀人案",
+      "onboard_time": 1733538918,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -49,6 +65,14 @@
       "onboard_time": 1733501180,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 836721,
+      "num": 836721,
+      "word": "麦琳说离婚后不要李行亮承担自己",
+      "onboard_time": 1733541739,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 770758,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 506476,
-      "num": 314435,
+      "num": 446715,
       "word": "谷爱凌第一跳89.50分",
       "onboard_time": 1733539099,
       "rank": 11,
@@ -137,14 +161,6 @@
       "onboard_time": 1733497040,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480217,
-      "num": 1076834,
-      "word": "凭1个苹果核破获23年前出租屋杀人案",
-      "onboard_time": 1733538918,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 470537,
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413632,
+      "num": 340011,
+      "word": "美法院拒绝驳回TikTok不卖就禁法案",
+      "onboard_time": 1733535801,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 412527,
       "num": 412527,
       "word": "韩执政党称尹锡悦已不能正常履职",
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 379047,
+      "num": 379047,
+      "word": "驻蒙古使馆深夜发安全提醒",
+      "onboard_time": 1733539639,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 377837,
       "num": 377837,
       "word": "双轨剧组否认霸凌演员",
@@ -209,6 +241,14 @@
       "onboard_time": 1733528055,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361020,
+      "num": 361020,
+      "word": "狐妖小红娘竹业篇改名",
+      "onboard_time": 1733538978,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 357843,
@@ -235,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349557,
-      "num": 349557,
-      "word": "狐妖小红娘竹业篇改名",
-      "onboard_time": 1733538978,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 348622,
       "num": 348622,
       "word": "江西文旅厅确认取消李行亮商演活动",
@@ -260,19 +292,11 @@
     },
     {
       "raw_hot": 326361,
-      "num": 203058,
+      "num": 207922,
       "word": "真的建议喝咖啡时加点牛奶",
       "onboard_time": 1733525112,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 325853,
-      "num": 325853,
-      "word": "驻蒙古使馆深夜发安全提醒",
-      "onboard_time": 1733539639,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 324680,
@@ -281,6 +305,14 @@
       "onboard_time": 1733528655,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323169,
+      "num": 323169,
+      "word": "有中国公民在蒙古国死伤",
+      "onboard_time": 1733540659,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 307867,
@@ -339,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262056,
+      "num": 341020,
+      "word": "院方回应女子做彩超时男工程师闯入",
+      "onboard_time": 1733541137,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255586,
       "num": 197516,
       "word": "大学生花15万全款买房后的生活",
@@ -353,6 +393,22 @@
       "onboard_time": 1733527335,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235612,
+      "num": 237391,
+      "word": "爱奇艺12月待播剧综",
+      "onboard_time": 1733541320,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226795,
+      "num": 226795,
+      "word": "特雷杨绝杀湖人",
+      "onboard_time": 1733542578,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 220577,
@@ -395,20 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203408,
-      "num": 203408,
-      "word": "美法院拒绝驳回TikTok不卖就禁法案",
-      "onboard_time": 1733535801,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 202709,
       "num": 202709,
       "word": "杨幂北京出发",
       "onboard_time": 1733527814,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194962,
+      "num": 235866,
+      "word": "尖叫之夜出图速度",
+      "onboard_time": 1733542939,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190822,
+      "num": 190822,
+      "word": "国乒vs法国",
+      "onboard_time": 1733542879,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 189985,
@@ -427,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188386,
-      "num": 232674,
-      "word": "有中国公民在蒙古国死伤",
-      "onboard_time": 1733540659,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185832,
       "num": 185832,
       "word": "教资面试",
       "onboard_time": 1733530158,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180682,
+      "num": 182260,
+      "word": "你好星期六全员好运锦鲤",
+      "onboard_time": 1733542099,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 176503,
@@ -457,6 +521,14 @@
       "onboard_time": 1733534598,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172803,
+      "num": 182192,
+      "word": "宋亚轩练习小提琴",
+      "onboard_time": 1733542759,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 167845,
@@ -497,6 +569,14 @@
       "onboard_time": 1733530037,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155153,
+      "num": 211918,
+      "word": "Doinb透露明年将取消解说杯",
+      "onboard_time": 1733542639,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 154391,
@@ -587,12 +667,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144441,
-      "num": 144441,
-      "word": "紫燕百味鸡回应大肠杆菌超百倍",
-      "onboard_time": 1733541020,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 144406,
+      "num": 144406,
+      "word": "孙颖莎王楚钦回应混双比赛起伏",
+      "onboard_time": 1733540238,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143723,
+      "num": 143723,
+      "word": "白鹿粉黛纱幕",
+      "onboard_time": 1733543179,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 143297,
@@ -643,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126504,
-      "num": 126504,
-      "word": "孙颖莎王楚钦回应混双比赛起伏",
-      "onboard_time": 1733540238,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125603,
       "num": 125603,
       "word": "琼瑶到底留下了多少钱",
@@ -699,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120566,
+      "num": 233659,
+      "word": "大英博物馆偶遇王宝强刘昊然",
+      "onboard_time": 1733542219,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119827,
       "num": 119827,
       "word": "化妆前一定要知道的冷知识",
@@ -721,6 +809,14 @@
       "onboard_time": 1733530218,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 114975,
+      "num": 114975,
+      "word": "丁彦雨航加盟广州龙狮",
+      "onboard_time": 1733543119,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 114364,
@@ -752,14 +848,6 @@
       "word": "服务区被罚司机6次触发疲劳驾驶预警",
       "onboard_time": 1733538379,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110452,
-      "num": 110452,
-      "word": "院方回应女子做彩超时男工程师闯入",
-      "onboard_time": 1733541137,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -809,6 +897,14 @@
       "onboard_time": 1733488219,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108243,
+      "num": 108243,
+      "word": "杨妞花寻亲成功第三年",
+      "onboard_time": 1733539099,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107616,
@@ -1035,6 +1131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51195,
+      "num": 245770,
+      "word": "涉事公司回应停用AI接吻功能",
+      "onboard_time": 1733542939,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 48702,
       "num": 48702,
       "word": "邮轮公司回应南极之旅因故障取消",
@@ -1164,7 +1268,7 @@
     },
     {
       "raw_hot": 31589,
-      "num": 719542,
+      "num": 840820,
       "word": "古人也会互赠日历表达祝福",
       "onboard_time": 1733491638,
       "rank": 2,
