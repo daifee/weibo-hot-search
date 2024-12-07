@@ -1,0 +1,410 @@
+{
+  "runTime": 1733576330371,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1923573,
+        "num": 1923573,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1119500,
+        "num": 1119500,
+        "word": "女子收骗子礼物后立即删了骗子",
+        "onboard_time": 1733573361,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36639,
+        "num": 1012780,
+        "word": "中国春节走向世界宣传片",
+        "onboard_time": 1733545941,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965508,
+        "num": 965508,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 659585,
+        "num": 659585,
+        "word": "王楚钦杂志",
+        "onboard_time": 1733573842,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 637348,
+        "word": "国乒8比0罗马尼亚队",
+        "onboard_time": 1733575221,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268011,
+        "num": 591136,
+        "word": "韩国国会未通过尹锡悦弹劾案",
+        "onboard_time": 1733575102,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 739829,
+        "num": 488177,
+        "word": "尖叫之夜座位安排",
+        "onboard_time": 1733570541,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722799,
+        "num": 459517,
+        "word": "虞书欣张凌赫邓为 三人自拍",
+        "onboard_time": 1733575700,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412668,
+        "num": 412668,
+        "word": "小伙在美国卖三蹦子仨月赚了100万",
+        "onboard_time": 1733563939,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1269417,
+        "num": 410841,
+        "word": "欣诚则凌",
+        "onboard_time": 1733573780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1085895,
+        "num": 404175,
+        "word": "尹锡悦弹劾案未获通过",
+        "onboard_time": 1733575221,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 660468,
+        "num": 392181,
+        "word": "谁给杨超越选的裙子",
+        "onboard_time": 1733563999,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60124,
+        "num": 386991,
+        "word": "国乒混团9连胜",
+        "onboard_time": 1733575221,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628018,
+        "num": 374165,
+        "word": "刘诗诗竹绿高定",
+        "onboard_time": 1733569582,
+        "rank": 14,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 589819,
+        "num": 372085,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 555481,
+        "num": 365140,
+        "word": "白鹿妆造",
+        "onboard_time": 1733568561,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358126,
+        "num": 358126,
+        "word": "成毅 男大",
+        "onboard_time": 1733570781,
+        "rank": 17,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 97830,
+        "num": 258039,
+        "word": "山东荣成一冷库起火9人失联",
+        "onboard_time": 1733574439,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247298,
+        "num": 247298,
+        "word": "福宝一边看镜头一边吃饭",
+        "onboard_time": 1733571920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514791,
+        "num": 247297,
+        "word": "虞书欣说跟双轨两位导演合作很愉快",
+        "onboard_time": 1733572220,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429257,
+        "num": 247284,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427328,
+        "num": 247268,
+        "word": "九重紫 导演炫技",
+        "onboard_time": 1733572400,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346130,
+        "num": 247258,
+        "word": "秦岚 既是姐姐又是妈妈",
+        "onboard_time": 1733564302,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16174,
+        "num": 247239,
+        "word": "国乒混团又一个8比0",
+        "onboard_time": 1733576240,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337853,
+        "num": 247229,
+        "word": "英国夫妇纯素食饿死3岁儿子",
+        "onboard_time": 1733571740,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334887,
+        "num": 247219,
+        "word": "尖叫之夜",
+        "onboard_time": 1733570301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331825,
+        "num": 247205,
+        "word": "短剧导演拍长剧",
+        "onboard_time": 1733572761,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273284,
+        "num": 247196,
+        "word": "杨旭文眼下痣",
+        "onboard_time": 1733575221,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93159,
+        "num": 247184,
+        "word": "骗子1小时内快递礼物引诱受害者",
+        "onboard_time": 1733574920,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271387,
+        "num": 247164,
+        "word": "周芯竹一个月暴瘦十斤",
+        "onboard_time": 1733561541,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253226,
+        "num": 247151,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247150,
+        "num": 247150,
+        "word": "谁给陈哲远田曦薇递个本",
+        "onboard_time": 1733575761,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224203,
+        "num": 224203,
+        "word": "琼瑶花葬将开放粉丝参加",
+        "onboard_time": 1733573120,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15682,
+        "num": 223733,
+        "word": "久酷缺席首发",
+        "onboard_time": 1733571202,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223719,
+        "num": 223719,
+        "word": "中国香港8比7日本",
+        "onboard_time": 1733572700,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238277,
+        "num": 220829,
+        "word": "田曦薇黑长直的神",
+        "onboard_time": 1733569641,
+        "rank": 36,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 216390,
+        "num": 216390,
+        "word": "谷爱凌摔倒后换了歌单",
+        "onboard_time": 1733564120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206941,
+        "num": 206941,
+        "word": "孟子义演技",
+        "onboard_time": 1733570360,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202508,
+        "num": 202508,
+        "word": "易梦玲 大梦归离剧组",
+        "onboard_time": 1733562560,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200099,
+        "num": 200099,
+        "word": "登陆少年Challenge",
+        "onboard_time": 1733575882,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193181,
+        "num": 193181,
+        "word": "向佐特意换了身衣服跟粉丝打招呼",
+        "onboard_time": 1733575521,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189998,
+        "num": 189998,
+        "word": "迪丽热巴解锁6套郭培高定",
+        "onboard_time": 1733567900,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181884,
+        "num": 181884,
+        "word": "黄景瑜孙千牵手走红毯",
+        "onboard_time": 1733564898,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180888,
+        "num": 180888,
+        "word": "为突发疾病同事垫付24万医疗费被赖账",
+        "onboard_time": 1733576002,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180161,
+        "num": 180161,
+        "word": "直观感受瘦了20斤后的面部变化",
+        "onboard_time": 1733564419,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41381,
+        "num": 177427,
+        "word": "梁靖崑vs莫维利亚努",
+        "onboard_time": 1733571501,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177115,
+        "num": 177115,
+        "word": "爱奇艺副总裁介绍双轨",
+        "onboard_time": 1733574621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173335,
+        "num": 173335,
+        "word": "叶祖新有效出场",
+        "onboard_time": 1733575462,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172621,
+        "num": 172621,
+        "word": "李恩 都美竹你能不能别坑品牌方了",
+        "onboard_time": 1733571021,
+        "rank": 49,
+        "category": "艺人,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#关于粮食安全总书记这样要求#"
+    }
+  }
+}
