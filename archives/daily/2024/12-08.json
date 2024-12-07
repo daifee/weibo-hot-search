@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733610102929,
+  "endTime": 1733611206013,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64273,
+      "num": 64273,
+      "word": "荆门男子田间挖出战国时期青铜剑",
+      "onboard_time": 1733608812,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29052,
+      "num": 29052,
+      "word": "李沁王阳获年度品质演员",
+      "onboard_time": 1733607612,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27143,
       "num": 117463,
       "word": "微博网友喜爱剧集深潜",
@@ -563,20 +579,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25717,
-      "num": 48030,
-      "word": "荆门男子田间挖出战国时期青铜剑",
-      "onboard_time": 1733608812,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24390,
       "num": 24390,
       "word": "官方公布福宝最新视频",
       "onboard_time": 1733606472,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23452,
+      "num": 39296,
+      "word": "29岁退伍军人跳河救人全身冻通红",
+      "onboard_time": 1733599932,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 23030,
+      "num": 23030,
+      "word": "中俄双方官兵互登军舰参观交流",
+      "onboard_time": 1733606172,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22834,
@@ -595,30 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21681,
-      "num": 22290,
-      "word": "中俄双方官兵互登军舰参观交流",
-      "onboard_time": 1733606172,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 21476,
-      "num": 21476,
-      "word": "李沁王阳获年度品质演员",
-      "onboard_time": 1733607612,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21052,
-      "num": 39296,
-      "word": "29岁退伍军人跳河救人全身冻通红",
-      "onboard_time": 1733599932,
-      "rank": 14,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 20261,
       "num": 28576,
       "word": "巴黎圣母院失火原因仍未有定论",
@@ -633,6 +633,14 @@
       "onboard_time": 1733598852,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 16821,
+      "num": 59796,
+      "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
+      "onboard_time": 1733610552,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15383,

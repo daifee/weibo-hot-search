@@ -1,0 +1,410 @@
+{
+  "runTime": 1733611206013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 328214,
+        "num": 491420,
+        "word": "檀健次舞台吐痰",
+        "onboard_time": 1733585182,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "中国留学生涉嫌非法禁锢15岁女孩",
+        "onboard_time": 1733585122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20093,
+        "num": 144058,
+        "word": "春节申遗副标题有哪些内涵",
+        "onboard_time": 1733578401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131764,
+        "num": 131764,
+        "word": "爱奇艺导播吃豆橛子了",
+        "onboard_time": 1733587400,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71568,
+        "num": 71568,
+        "word": "俄不能接受叙利亚被恐怖组织控制",
+        "onboard_time": 1733585662,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66849,
+        "num": 66849,
+        "word": "女子收骗子礼物后立即删了骗子",
+        "onboard_time": 1733573361,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120047,
+        "num": 66845,
+        "word": "腾讯和芒果纷纷来添乱",
+        "onboard_time": 1733586742,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103584,
+        "num": 65880,
+        "word": "展信佳",
+        "onboard_time": 1733581042,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64273,
+        "num": 64273,
+        "word": "荆门男子田间挖出战国时期青铜剑",
+        "onboard_time": 1733608812,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16821,
+        "num": 59796,
+        "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
+        "onboard_time": 1733610552,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89605,
+        "num": 59784,
+        "word": "刘宇宁压轴",
+        "onboard_time": 1733587221,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82350,
+        "num": 59751,
+        "word": "刘诗诗尖叫女演员",
+        "onboard_time": 1733585122,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59692,
+        "num": 59692,
+        "word": "为突发疾病同事垫付24万医疗费被赖账",
+        "onboard_time": 1733576002,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59229,
+        "num": 59229,
+        "word": "成毅尖叫男演员",
+        "onboard_time": 1733584942,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54093,
+        "num": 54093,
+        "word": "雷军回应小米被指贴牌",
+        "onboard_time": 1733584641,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49775,
+        "num": 49775,
+        "word": "尹锡悦下台前不履行职务",
+        "onboard_time": 1733584042,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44268,
+        "num": 44268,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41311,
+        "num": 41311,
+        "word": "为什么体力工作者不喝咖啡",
+        "onboard_time": 1733581341,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40364,
+        "num": 40364,
+        "word": "尖叫女神竟是iejj",
+        "onboard_time": 1733578040,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38047,
+        "num": 38047,
+        "word": "官方回应男孩疑推智障老人下水",
+        "onboard_time": 1733585303,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46340,
+        "num": 37994,
+        "word": "英国夫妇纯素食饿死3岁儿子",
+        "onboard_time": 1733571740,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37663,
+        "num": 37663,
+        "word": "李子柒头戴非遗漆珠发卡亮相九寨沟",
+        "onboard_time": 1733581462,
+        "rank": 21,
+        "category": "旅游,网红"
+      },
+      {
+        "raw_hot": 36845,
+        "num": 36845,
+        "word": "血观音",
+        "onboard_time": 1733599393,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35073,
+        "num": 35073,
+        "word": "只有付航是真来吃席的",
+        "onboard_time": 1733582662,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32766,
+        "num": 32766,
+        "word": "骗子1小时内快递礼物引诱受害者",
+        "onboard_time": 1733574920,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32619,
+        "num": 32619,
+        "word": "双轨官宣",
+        "onboard_time": 1733568561,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31967,
+        "num": 31967,
+        "word": "湖南有个专门教救人的地摊",
+        "onboard_time": 1733604251,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 31006,
+        "num": 31006,
+        "word": "iejj是谁",
+        "onboard_time": 1733586621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31006,
+        "num": 31006,
+        "word": "阿里高管内网致歉",
+        "onboard_time": 1733584223,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30281,
+        "num": 30281,
+        "word": "张艺兴此身分明了",
+        "onboard_time": 1733592076,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 29597,
+        "word": "34岁女子健身4年爆改金刚芭比",
+        "onboard_time": 1733570959,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29052,
+        "num": 29052,
+        "word": "李沁王阳获年度品质演员",
+        "onboard_time": 1733607612,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28254,
+        "num": 28254,
+        "word": "邓为紫海",
+        "onboard_time": 1733586802,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28064,
+        "num": 28064,
+        "word": "周五下班韩国飞中国说走就走",
+        "onboard_time": 1733578343,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27808,
+        "num": 27808,
+        "word": "王楚钦杂志",
+        "onboard_time": 1733573842,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27760,
+        "num": 27760,
+        "word": "姜妍在台下笑意盈盈地看着她",
+        "onboard_time": 1733577141,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27404,
+        "num": 27404,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1733570240,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25821,
+        "num": 25821,
+        "word": "香港13平三室一厅一厨一卫的房子",
+        "onboard_time": 1733577323,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24364,
+        "num": 24364,
+        "word": "尹锡悦弹劾案未获通过",
+        "onboard_time": 1733575221,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24130,
+        "num": 24130,
+        "word": "九重紫",
+        "onboard_time": 1733567363,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23452,
+        "num": 23452,
+        "word": "29岁退伍军人跳河救人全身冻通红",
+        "onboard_time": 1733599932,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 23030,
+        "num": 23030,
+        "word": "中俄双方官兵互登军舰参观交流",
+        "onboard_time": 1733606172,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22270,
+        "num": 22270,
+        "word": "叙利亚安全局势进一步恶化",
+        "onboard_time": 1733595674,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20981,
+        "num": 20981,
+        "word": "叙反政府武装逼近首都大马士革",
+        "onboard_time": 1733596932,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20972,
+        "num": 20972,
+        "word": "俄罗斯使馆敦促俄公民离开叙利亚",
+        "onboard_time": 1733591597,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20887,
+        "num": 20887,
+        "word": "尖叫之夜现场灯牌",
+        "onboard_time": 1733587819,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20516,
+        "num": 20516,
+        "word": "尹锡悦弹劾案",
+        "onboard_time": 1733564720,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20494,
+        "num": 20494,
+        "word": "官方公布福宝最新视频",
+        "onboard_time": 1733606472,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20427,
+        "num": 20427,
+        "word": "王源状态",
+        "onboard_time": 1733585482,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18387,
+        "num": 20427,
+        "word": "这四种人遇到了请好好珍惜",
+        "onboard_time": 1733586201,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
