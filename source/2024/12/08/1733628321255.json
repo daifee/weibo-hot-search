@@ -1,0 +1,410 @@
+{
+  "runTime": 1733628321255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392753,
+        "num": 1392753,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1080324,
+        "num": 1080324,
+        "word": "马丽 才过半啊",
+        "onboard_time": 1733626639,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53481,
+        "num": 810222,
+        "word": "春节申遗副标题有哪些内涵",
+        "onboard_time": 1733578401,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723281,
+        "num": 723281,
+        "word": "大马士革",
+        "onboard_time": 1733624541,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 603840,
+        "num": 603840,
+        "word": "山东省考",
+        "onboard_time": 1733619318,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1390457,
+        "num": 597379,
+        "word": "女生遭诱导拍私密写真被碰隐私处",
+        "onboard_time": 1733622139,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816749,
+        "num": 588038,
+        "word": "秦岚一把搂住虞书欣",
+        "onboard_time": 1733620519,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563623,
+        "num": 563623,
+        "word": "江苏省考",
+        "onboard_time": 1733627778,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 499142,
+        "num": 499142,
+        "word": "省考",
+        "onboard_time": 1733617157,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 447631,
+        "num": 447631,
+        "word": "包贝尔二胎叫面条",
+        "onboard_time": 1733621898,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561942,
+        "num": 445523,
+        "word": "马克龙与特朗普握手笑容逐渐消失",
+        "onboard_time": 1733624296,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422520,
+        "num": 422520,
+        "word": "俄土沙伊等八国发表联合声明",
+        "onboard_time": 1733623459,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344893,
+        "num": 344893,
+        "word": "尹锡悦下台前将不插手韩国国政",
+        "onboard_time": 1733624418,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 341640,
+        "num": 341640,
+        "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
+        "onboard_time": 1733610552,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17244,
+        "num": 337668,
+        "word": "国乒10连胜",
+        "onboard_time": 1733628077,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336003,
+        "num": 336003,
+        "word": "山东威海一冷库火灾9人遇难",
+        "onboard_time": 1733621838,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 331390,
+        "num": 331390,
+        "word": "阿萨德",
+        "onboard_time": 1733626818,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299626,
+        "num": 328750,
+        "word": "谢娜听易烊千玺音乐会",
+        "onboard_time": 1733622679,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296104,
+        "num": 326520,
+        "word": "高天佐否认和周芯竹谈过",
+        "onboard_time": 1733623881,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229330,
+        "num": 324010,
+        "word": "庄达菲红毯签名一笔一画",
+        "onboard_time": 1733621598,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1096492,
+        "num": 320192,
+        "word": "檀健次舞台吐痰",
+        "onboard_time": 1733585182,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 699301,
+        "num": 318621,
+        "word": "何与 双轨",
+        "onboard_time": 1733618478,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378650,
+        "num": 315982,
+        "word": "4000万粉丝网红白冰停更",
+        "onboard_time": 1733627058,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 314511,
+        "num": 314511,
+        "word": "浙江省考",
+        "onboard_time": 1733628020,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96269,
+        "num": 289015,
+        "word": "小草包谈TheShy复出",
+        "onboard_time": 1733624959,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 279668,
+        "num": 279668,
+        "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
+        "onboard_time": 1733623639,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241910,
+        "num": 241910,
+        "word": "长期久坐的3个自救方法",
+        "onboard_time": 1733612534,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232592,
+        "num": 232592,
+        "word": "四川省考",
+        "onboard_time": 1733628077,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223905,
+        "num": 223905,
+        "word": "狐妖月红篇商业价值",
+        "onboard_time": 1733625017,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222711,
+        "num": 222711,
+        "word": "展信佳",
+        "onboard_time": 1733581042,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206740,
+        "num": 206740,
+        "word": "5年前的噩梦终于结束了",
+        "onboard_time": 1733617878,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202657,
+        "num": 202657,
+        "word": "不要一直坐坐坐坐坐",
+        "onboard_time": 1733626878,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187794,
+        "num": 187794,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184711,
+        "num": 184711,
+        "word": "梁伟铿说身体不适遗憾未能跑广马",
+        "onboard_time": 1733626218,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182666,
+        "num": 182666,
+        "word": "看把曾舜晞饿的",
+        "onboard_time": 1733627179,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134065,
+        "num": 175317,
+        "word": "叙利亚总统离开首都大马士革",
+        "onboard_time": 1733627179,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171221,
+        "num": 171221,
+        "word": "网传火车站内一女子掌掴工作人员",
+        "onboard_time": 1733625917,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170930,
+        "num": 170930,
+        "word": "白鹿被抓到偷玩手机的反应",
+        "onboard_time": 1733614034,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167033,
+        "num": 167033,
+        "word": "抗癌网红卜娜娜去世妈妈发声",
+        "onboard_time": 1733617937,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 158730,
+        "num": 158730,
+        "word": "腾讯和芒果纷纷来添乱",
+        "onboard_time": 1733586742,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157299,
+        "num": 157299,
+        "word": "九重紫男女主先蛐蛐后亲亲",
+        "onboard_time": 1733624360,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147446,
+        "num": 147446,
+        "word": "约基奇56分",
+        "onboard_time": 1733626818,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143967,
+        "num": 143967,
+        "word": "刘诗诗尖叫女演员",
+        "onboard_time": 1733585122,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136856,
+        "num": 136856,
+        "word": "成毅尖叫男演员",
+        "onboard_time": 1733584942,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133435,
+        "num": 133435,
+        "word": "张颂文喊刘宇宁过来聊天",
+        "onboard_time": 1733622319,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131391,
+        "num": 131391,
+        "word": "上班后朋友圈数据都变差了",
+        "onboard_time": 1733616376,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130159,
+        "num": 130159,
+        "word": "媒体称大马士革市心传出密集枪声",
+        "onboard_time": 1733625560,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130151,
+        "num": 130151,
+        "word": "喝咖啡加牛奶可增加抗炎效果",
+        "onboard_time": 1733628199,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128561,
+        "num": 128561,
+        "word": "特朗普称美国不应卷入叙利亚冲突",
+        "onboard_time": 1733626579,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126324,
+        "num": 126324,
+        "word": "中国留学生涉嫌非法禁锢15岁女孩",
+        "onboard_time": 1733585122,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#信息支援部队首先是一个战斗队#"
+    }
+  }
+}
