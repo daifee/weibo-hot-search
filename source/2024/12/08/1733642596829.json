@@ -1,0 +1,410 @@
+{
+  "runTime": 1733642596829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158655,
+        "num": 1185384,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946059,
+        "num": 946059,
+        "word": "多邻国裂了",
+        "onboard_time": 1733638279,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82038,
+        "num": 857044,
+        "word": "2024这些精美文物成了网红爆款",
+        "onboard_time": 1733617937,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 793868,
+        "num": 793868,
+        "word": "周杰伦回复陈冠希",
+        "onboard_time": 1733640019,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 669713,
+        "num": 669713,
+        "word": "叙利亚反对派称已推翻阿萨德政权",
+        "onboard_time": 1733638338,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 614701,
+        "num": 614701,
+        "word": "教育局回应晚自习不允许上厕所",
+        "onboard_time": 1733630418,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534545,
+        "num": 534545,
+        "word": "王阳 十个勤天值得",
+        "onboard_time": 1733637680,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522493,
+        "num": 522493,
+        "word": "虞书欣尖叫之夜状态对比",
+        "onboard_time": 1733639900,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407857,
+        "num": 407857,
+        "word": "叙军方称巴沙尔阿萨德的统治已结束",
+        "onboard_time": 1733636540,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264557,
+        "num": 264557,
+        "word": "阿萨德",
+        "onboard_time": 1733626818,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 692284,
+        "num": 264203,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 480427,
+        "num": 263895,
+        "word": "一架从大马士革起飞的飞机疑似坠毁",
+        "onboard_time": 1733630720,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310946,
+        "num": 263735,
+        "word": "姜妍拍的宋亚轩",
+        "onboard_time": 1733635038,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425556,
+        "num": 263400,
+        "word": "叙利亚总统",
+        "onboard_time": 1733640619,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93862,
+        "num": 263072,
+        "word": "巴黎圣母院大火后重开仪式拉满",
+        "onboard_time": 1733641340,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270989,
+        "num": 262476,
+        "word": "九重紫小孩姐 天赋型选手",
+        "onboard_time": 1733638817,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285170,
+        "num": 262165,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156548,
+        "num": 261715,
+        "word": "中国短道速滑混接夺冠",
+        "onboard_time": 1733641699,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67528,
+        "num": 261467,
+        "word": "叙利亚局势升级时间线",
+        "onboard_time": 1733640679,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91613,
+        "num": 261325,
+        "word": "男子碰瓷后坐进车主副驾驶谈钱",
+        "onboard_time": 1733641399,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183479,
+        "num": 260741,
+        "word": "于晓光为秋瓷炫做卤鸡爪",
+        "onboard_time": 1733639598,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538264,
+        "num": 260313,
+        "word": "男子花23万18天闪婚发现孩子非亲生",
+        "onboard_time": 1733637680,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378114,
+        "num": 260219,
+        "word": "孟子义一年级哪有这么好的条件",
+        "onboard_time": 1733639660,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289014,
+        "num": 259716,
+        "word": "秦岚一把搂住虞书欣",
+        "onboard_time": 1733620519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268853,
+        "num": 259210,
+        "word": "频繁早醒的人可能是病了",
+        "onboard_time": 1733641519,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259197,
+        "num": 259197,
+        "word": "檀健次舞台吐痰",
+        "onboard_time": 1733585182,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253465,
+        "num": 253465,
+        "word": "马丽 才过半啊",
+        "onboard_time": 1733626639,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199535,
+        "num": 218304,
+        "word": "上海交大小鹿疑似被动物攻击",
+        "onboard_time": 1733634018,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72063,
+        "num": 213583,
+        "word": "李多寅晒女儿背影照",
+        "onboard_time": 1733640501,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212660,
+        "num": 212660,
+        "word": "向佐上台的5分钟没1秒是浪费的",
+        "onboard_time": 1733638880,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203851,
+        "num": 203851,
+        "word": "何与 双轨",
+        "onboard_time": 1733618478,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196822,
+        "num": 196822,
+        "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+        "onboard_time": 1733640259,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196761,
+        "num": 196761,
+        "word": "小小的我",
+        "onboard_time": 1733641820,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192195,
+        "num": 192195,
+        "word": "叙利亚局势最新情况",
+        "onboard_time": 1733637740,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177727,
+        "num": 177727,
+        "word": "白鹿曾舜晞丞磊合照",
+        "onboard_time": 1733641399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176006,
+        "num": 176006,
+        "word": "秦海璐小说里重生文都这样",
+        "onboard_time": 1733638640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170903,
+        "num": 170903,
+        "word": "真假米饭仙人",
+        "onboard_time": 1733636600,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165817,
+        "num": 165817,
+        "word": "王楚钦自己预告今晚决赛会上场",
+        "onboard_time": 1733637262,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164137,
+        "num": 164137,
+        "word": "iG全神班首秀",
+        "onboard_time": 1733640438,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157398,
+        "num": 157398,
+        "word": "疑有人领到大冰免费羽绒服后转卖",
+        "onboard_time": 1733641459,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154912,
+        "num": 154912,
+        "word": "大马士革国际机场发生混乱",
+        "onboard_time": 1733630897,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151262,
+        "num": 151262,
+        "word": "4000万粉丝网红白冰停更",
+        "onboard_time": 1733627058,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145201,
+        "num": 145201,
+        "word": "叙反对派称释放所有政府监狱囚犯",
+        "onboard_time": 1733642060,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144015,
+        "num": 144015,
+        "word": "女子三金丢失准嫂嫂被刑拘",
+        "onboard_time": 1733630298,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143867,
+        "num": 143867,
+        "word": "周杰伦演唱会再澄清父亲家暴传闻",
+        "onboard_time": 1733631018,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134199,
+        "num": 134199,
+        "word": "中国队夺得混合团体接力冠军",
+        "onboard_time": 1733642179,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133495,
+        "num": 133495,
+        "word": "郭旭晒求婚vlog",
+        "onboard_time": 1733639298,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132270,
+        "num": 132270,
+        "word": "张继科直播夸王曼昱",
+        "onboard_time": 1733628620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131414,
+        "num": 131414,
+        "word": "白鹿2024最开心的瞬间",
+        "onboard_time": 1733638159,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130140,
+        "num": 130140,
+        "word": "高校学生买7件演出服穿完集体退货",
+        "onboard_time": 1733642539,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇于担当作为拓展共赢发展新空间#"
+    }
+  }
+}

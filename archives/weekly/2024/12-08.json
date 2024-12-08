@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733640318783,
+  "endTime": 1733642596829,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946059,
+      "num": 946059,
+      "word": "多邻国裂了",
+      "onboard_time": 1733638279,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 899444,
       "num": 1143911,
       "word": "秦岚一把搂住虞书欣",
@@ -129,6 +137,14 @@
       "onboard_time": 1733637680,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 793868,
+      "num": 793868,
+      "word": "周杰伦回复陈冠希",
+      "onboard_time": 1733640019,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 777844,
@@ -211,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 669713,
+      "num": 669713,
+      "word": "叙利亚反对派称已推翻阿萨德政权",
+      "onboard_time": 1733638338,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 625834,
       "num": 482681,
       "word": "包贝尔二胎叫面条",
       "onboard_time": 1733621898,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 620497,
-      "num": 620497,
-      "word": "叙利亚反对派称已推翻阿萨德政权",
-      "onboard_time": 1733638338,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 570839,
@@ -275,12 +291,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 538264,
+      "num": 372827,
+      "word": "男子花23万18天闪婚发现孩子非亲生",
+      "onboard_time": 1733637680,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
       "onboard_time": 1733634018,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 522493,
+      "num": 522493,
+      "word": "虞书欣尖叫之夜状态对比",
+      "onboard_time": 1733639900,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 518058,
@@ -379,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 425556,
+      "num": 263400,
+      "word": "叙利亚总统",
+      "onboard_time": 1733640619,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 418171,
       "num": 484199,
       "word": "喝咖啡加牛奶可增加抗炎效果",
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388477,
-      "num": 388477,
-      "word": "多邻国裂了",
-      "onboard_time": 1733638279,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 384319,
       "num": 384319,
       "word": "抗癌网红卜娜娜去世妈妈发声",
@@ -443,12 +475,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372827,
-      "num": 372827,
-      "word": "男子花23万18天闪婚发现孩子非亲生",
-      "onboard_time": 1733637680,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 378114,
+      "num": 260219,
+      "word": "孟子义一年级哪有这么好的条件",
+      "onboard_time": 1733639660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 365955,
@@ -563,12 +595,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 270989,
+      "num": 262476,
+      "word": "九重紫小孩姐 天赋型选手",
+      "onboard_time": 1733638817,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269555,
       "num": 269555,
       "word": "女子收骗子礼物后立即删了骗子",
       "onboard_time": 1733573361,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268853,
+      "num": 259210,
+      "word": "频繁早醒的人可能是病了",
+      "onboard_time": 1733641519,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 257066,
@@ -593,14 +641,6 @@
       "onboard_time": 1733631800,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250311,
-      "num": 250311,
-      "word": "虞书欣尖叫之夜状态对比",
-      "onboard_time": 1733639900,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 249012,
@@ -723,12 +763,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 195224,
-      "num": 195224,
-      "word": "孟子义一年级哪有这么好的条件",
-      "onboard_time": 1733639660,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 196822,
+      "num": 196822,
+      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+      "onboard_time": 1733640259,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196761,
+      "num": 196761,
+      "word": "小小的我",
+      "onboard_time": 1733641820,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 195028,
@@ -859,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182393,
-      "num": 202606,
-      "word": "九重紫小孩姐 天赋型选手",
-      "onboard_time": 1733638817,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 183479,
+      "num": 260741,
+      "word": "于晓光为秋瓷炫做卤鸡爪",
+      "onboard_time": 1733639598,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179030,
@@ -873,6 +921,14 @@
       "onboard_time": 1733623698,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 177727,
+      "num": 177727,
+      "word": "白鹿曾舜晞丞磊合照",
+      "onboard_time": 1733641399,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 176527,
@@ -889,14 +945,6 @@
       "onboard_time": 1733622319,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174531,
-      "num": 174531,
-      "word": "周杰伦回复陈冠希",
-      "onboard_time": 1733640019,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 171264,
@@ -979,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164137,
+      "num": 164137,
+      "word": "iG全神班首秀",
+      "onboard_time": 1733640438,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162606,
       "num": 162606,
       "word": "Faker回应如何忘记前任",
@@ -1009,6 +1065,22 @@
       "onboard_time": 1733572400,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157398,
+      "num": 157398,
+      "word": "疑有人领到大冰免费羽绒服后转卖",
+      "onboard_time": 1733641459,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156548,
+      "num": 261715,
+      "word": "中国短道速滑混接夺冠",
+      "onboard_time": 1733641699,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 155709,
@@ -1107,6 +1179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145201,
+      "num": 145201,
+      "word": "叙反对派称释放所有政府监狱囚犯",
+      "onboard_time": 1733642060,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141321,
       "num": 141321,
       "word": "丁禹兮对镜自拍照",
@@ -1203,12 +1283,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135418,
-      "num": 135418,
-      "word": "于晓光为秋瓷炫做卤鸡爪",
-      "onboard_time": 1733639598,
+      "raw_hot": 134199,
+      "num": 134199,
+      "word": "中国队夺得混合团体接力冠军",
+      "onboard_time": 1733642179,
       "rank": 45,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 133179,
@@ -1233,6 +1313,14 @@
       "onboard_time": 1733588899,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130140,
+      "num": 130140,
+      "word": "高校学生买7件演出服穿完集体退货",
+      "onboard_time": 1733642539,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129767,
@@ -1411,14 +1499,6 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 106806,
-      "num": 128556,
-      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
-      "onboard_time": 1733640259,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104529,
       "num": 127413,
       "word": "国乒决赛对阵韩国",
@@ -1449,6 +1529,22 @@
       "onboard_time": 1733624959,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93862,
+      "num": 263072,
+      "word": "巴黎圣母院大火后重开仪式拉满",
+      "onboard_time": 1733641340,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 91613,
+      "num": 261325,
+      "word": "男子碰瓷后坐进车主副驾驶谈钱",
+      "onboard_time": 1733641399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91166,
@@ -1531,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72063,
+      "num": 213583,
+      "word": "李多寅晒女儿背影照",
+      "onboard_time": 1733640501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69860,
       "num": 181122,
       "word": "国债安排得明明白白效果也会实实在在",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1733582545,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67528,
+      "num": 261467,
+      "word": "叙利亚局势升级时间线",
+      "onboard_time": 1733640679,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63403,
