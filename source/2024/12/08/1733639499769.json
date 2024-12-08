@@ -1,0 +1,410 @@
+{
+  "runTime": 1733639499769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224361,
+        "num": 1224361,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830446,
+        "num": 830446,
+        "word": "教育局回应晚自习不允许上厕所",
+        "onboard_time": 1733630418,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81479,
+        "num": 815323,
+        "word": "2024这些精美文物成了网红爆款",
+        "onboard_time": 1733617937,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 803148,
+        "num": 803148,
+        "word": "王阳 十个勤天值得",
+        "onboard_time": 1733637680,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 692105,
+        "num": 692105,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586536,
+        "num": 586536,
+        "word": "一架从大马士革起飞的飞机疑似坠毁",
+        "onboard_time": 1733630720,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 561261,
+        "num": 561261,
+        "word": "姜妍拍的宋亚轩",
+        "onboard_time": 1733635038,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494220,
+        "num": 516513,
+        "word": "上海交大小鹿疑似被动物攻击",
+        "onboard_time": 1733634018,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479194,
+        "num": 514369,
+        "word": "叙利亚反对派称已推翻阿萨德政权",
+        "onboard_time": 1733638338,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262445,
+        "num": 512736,
+        "word": "叙利亚局势最新情况",
+        "onboard_time": 1733637740,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 512255,
+        "num": 512255,
+        "word": "叙军方称巴沙尔阿萨德的统治已结束",
+        "onboard_time": 1733636540,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423208,
+        "num": 423208,
+        "word": "马丽 才过半啊",
+        "onboard_time": 1733626639,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410775,
+        "num": 410775,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382937,
+        "num": 382937,
+        "word": "真假米饭仙人",
+        "onboard_time": 1733636600,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39342,
+        "num": 332424,
+        "word": "食品安全别等网友来监督",
+        "onboard_time": 1733637980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320004,
+        "num": 320004,
+        "word": "女子三金丢失准嫂嫂被刑拘",
+        "onboard_time": 1733630298,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307129,
+        "num": 307129,
+        "word": "阿萨德",
+        "onboard_time": 1733626818,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294556,
+        "num": 294556,
+        "word": "男子花23万18天闪婚发现孩子非亲生",
+        "onboard_time": 1733637680,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111344,
+        "num": 285323,
+        "word": "郭旭晒求婚vlog",
+        "onboard_time": 1733639298,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280129,
+        "num": 280129,
+        "word": "周杰伦演唱会再澄清父亲家暴传闻",
+        "onboard_time": 1733631018,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373705,
+        "num": 277840,
+        "word": "檀健次舞台吐痰",
+        "onboard_time": 1733585182,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345661,
+        "num": 268055,
+        "word": "秦岚一把搂住虞书欣",
+        "onboard_time": 1733620519,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297794,
+        "num": 263398,
+        "word": "何与 双轨",
+        "onboard_time": 1733618478,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256633,
+        "num": 256633,
+        "word": "多邻国裂了",
+        "onboard_time": 1733638279,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26622,
+        "num": 233100,
+        "word": "国乒混合团体冲击决赛",
+        "onboard_time": 1733632280,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231847,
+        "num": 231847,
+        "word": "尹锡悦被立案调查",
+        "onboard_time": 1733634140,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219527,
+        "num": 219527,
+        "word": "大马士革国际机场发生混乱",
+        "onboard_time": 1733630897,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216186,
+        "num": 216186,
+        "word": "尖叫之夜导播别嗑了",
+        "onboard_time": 1733631438,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200763,
+        "num": 200763,
+        "word": "秦海璐小说里重生文都这样",
+        "onboard_time": 1733638640,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190507,
+        "num": 199163,
+        "word": "马嘉祺梦女视角",
+        "onboard_time": 1733638460,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197908,
+        "num": 197908,
+        "word": "张继科直播夸王曼昱",
+        "onboard_time": 1733628620,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195463,
+        "num": 195463,
+        "word": "刘耀文过了今天也会想我吗",
+        "onboard_time": 1733639360,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194148,
+        "num": 194148,
+        "word": "王楚钦自己预告今晚决赛会上场",
+        "onboard_time": 1733637262,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189846,
+        "num": 189846,
+        "word": "4000万粉丝网红白冰停更",
+        "onboard_time": 1733627058,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189649,
+        "num": 189649,
+        "word": "第一次看到女儿的男友",
+        "onboard_time": 1733632220,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189226,
+        "num": 189226,
+        "word": "老婆临盆遇车辆升级当事人回应质疑",
+        "onboard_time": 1733628860,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186100,
+        "num": 186100,
+        "word": "李佳颖曝孕期曾大出血",
+        "onboard_time": 1733636417,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185571,
+        "num": 185571,
+        "word": "虞书欣的预告好像连续剧",
+        "onboard_time": 1733637198,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175200,
+        "num": 175200,
+        "word": "向佐上台的5分钟没1秒是浪费的",
+        "onboard_time": 1733638880,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165242,
+        "num": 165242,
+        "word": "JDG官宣Scout加入",
+        "onboard_time": 1733637561,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164525,
+        "num": 164525,
+        "word": "白鹿2024最开心的瞬间",
+        "onboard_time": 1733638159,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158009,
+        "num": 158009,
+        "word": "黄景瑜害羞了",
+        "onboard_time": 1733639061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156656,
+        "num": 156656,
+        "word": "年轻人对奢侈品祛魅了",
+        "onboard_time": 1733633717,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156474,
+        "num": 156474,
+        "word": "偷偷给全班男生塞表白信",
+        "onboard_time": 1733631800,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154128,
+        "num": 154128,
+        "word": "九重紫小孩姐 天赋型选手",
+        "onboard_time": 1733638817,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153655,
+        "num": 153655,
+        "word": "Bin阻止队友虐泉",
+        "onboard_time": 1733638219,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1596732,
+        "num": 152876,
+        "word": "灵隐寺",
+        "onboard_time": 1733635641,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150126,
+        "num": 150126,
+        "word": "特朗普称美国不应卷入叙利亚冲突",
+        "onboard_time": 1733626579,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138555,
+        "num": 138555,
+        "word": "俄土沙伊等八国发表联合声明",
+        "onboard_time": 1733623459,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 125251,
+        "word": "反政府武装称已进入大马士革",
+        "onboard_time": 1733635940,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的用典智慧#"
+    }
+  }
+}
