@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733646518954,
+  "endTime": 1733647361206,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 1596732,
-      "num": 532989,
+      "num": 543305,
       "word": "灵隐寺",
       "onboard_time": 1733635641,
       "rank": 23,
@@ -841,6 +841,14 @@
       "onboard_time": 1733541020,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1408846,
+      "num": 522622,
+      "word": "学生把头发扎舌头上写纸条求助",
+      "onboard_time": 1733645059,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1394368,
@@ -1171,6 +1179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1210883,
+      "num": 1210883,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1733646318,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1205199,
       "num": 440881,
       "word": "男子突然高烧确诊艾滋后崩溃痛哭",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1732972639,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1160957,
-      "num": 522622,
-      "word": "学生把头发扎舌头上写纸条求助",
-      "onboard_time": 1733645059,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1157052,
@@ -1625,14 +1633,6 @@
       "onboard_time": 1733444840,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 976691,
-      "num": 1156270,
-      "word": "iG官宣新阵容",
-      "onboard_time": 1733646318,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 976275,
@@ -2891,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 678341,
+      "num": 678341,
+      "word": "母女二人拒不让座被乘警带走",
+      "onboard_time": 1733645478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675873,
       "num": 675873,
       "word": "孟子义人脉",
@@ -3736,6 +3744,14 @@
       "word": "尖叫之夜海报站位",
       "onboard_time": 1733548700,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 558760,
+      "num": 558760,
+      "word": "孙滢皓退赛",
+      "onboard_time": 1733646618,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -5859,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401619,
+      "num": 401619,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401177,
       "num": 337713,
       "word": "张艺谋父女任达华父女 交换舞伴",
@@ -6731,6 +6755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347456,
+      "num": 347456,
+      "word": "尖叫之夜获奖全名单",
+      "onboard_time": 1733643559,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347284,
       "num": 206998,
       "word": "程潇闫桉跳双人舞",
@@ -7027,14 +7059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329712,
-      "num": 527126,
-      "word": "母女二人拒不让座被乘警带走",
-      "onboard_time": 1733645478,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329516,
       "num": 329516,
       "word": "韩国多家大型企业劝导员工居家办公",
@@ -7156,7 +7180,7 @@
     },
     {
       "raw_hot": 325323,
-      "num": 279090,
+      "num": 301816,
       "word": "频繁早醒的人可能是病了",
       "onboard_time": 1733641519,
       "rank": 24,
@@ -7459,14 +7483,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 304683,
-      "num": 304683,
-      "word": "尖叫之夜获奖全名单",
-      "onboard_time": 1733643559,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304680,
       "num": 304680,
       "word": "王源再现十年前双手合十",
@@ -7665,6 +7681,14 @@
       "onboard_time": 1733209160,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295951,
+      "num": 295951,
+      "word": "王者荣耀",
+      "onboard_time": 1733645298,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 295925,
@@ -7907,14 +7931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286516,
-      "num": 278594,
-      "word": "徐艺洋带头模仿黄子韬",
-      "onboard_time": 1733645059,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286413,
       "num": 286413,
       "word": "在日本捡到了韩国人的手机",
@@ -8032,14 +8048,6 @@
       "word": "绝区零",
       "onboard_time": 1733233340,
       "rank": 29,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 280602,
-      "num": 280602,
-      "word": "王者荣耀",
-      "onboard_time": 1733645298,
-      "rank": 20,
       "category": "游戏"
     },
     {
@@ -8897,6 +8905,14 @@
       "onboard_time": 1733563822,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246228,
+      "num": 246228,
+      "word": "白鹿李一桐李沁合照",
+      "onboard_time": 1733646560,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 246054,
@@ -11617,6 +11633,14 @@
       "onboard_time": 1733549538,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194456,
+      "num": 194456,
+      "word": "沈翊上了三年班终于疯了",
+      "onboard_time": 1733646860,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194183,
@@ -15275,6 +15299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "反对派进入叙利亚总统府",
+      "onboard_time": 1733647159,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152846,
       "num": 152846,
       "word": "无限暖暖 晕3D",
@@ -17401,6 +17433,14 @@
       "onboard_time": 1733126479,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130283,
+      "num": 130283,
+      "word": "叙利亚局势为何反转这么快",
+      "onboard_time": 1733646618,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130211,
@@ -20131,6 +20171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96737,
+      "num": 352862,
+      "word": "大城市里是千千万万的阿娟",
+      "onboard_time": 1733645958,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96663,
       "num": 488210,
       "word": "混团世界杯八强出炉",
@@ -20361,14 +20409,6 @@
       "onboard_time": 1732978822,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93545,
-      "num": 279872,
-      "word": "大城市里是千千万万的阿娟",
-      "onboard_time": 1733645958,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 93511,
@@ -21275,6 +21315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78644,
+      "num": 527443,
+      "word": "官方回应母女二人霸座被乘警带走",
+      "onboard_time": 1733646920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78303,
       "num": 448785,
       "word": "大多数HIV感染者选择隐瞒病情",
@@ -21585,6 +21633,14 @@
       "onboard_time": 1733385198,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73279,
+      "num": 261545,
+      "word": "无限暖暖 塞尔达",
+      "onboard_time": 1733646860,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 73017,
@@ -25745,6 +25801,14 @@
       "onboard_time": 1733389519,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27538,
+      "num": 122102,
+      "word": "建议冬天旅行前先去趟波司登",
+      "onboard_time": 1733647279,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 27533,

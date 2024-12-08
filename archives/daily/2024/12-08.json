@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733646518954,
+  "endTime": 1733647361206,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1596732,
-      "num": 532989,
+      "num": 543305,
       "word": "灵隐寺",
       "onboard_time": 1733635641,
       "rank": 23,
@@ -49,6 +49,14 @@
       "onboard_time": 1733585122,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1408846,
+      "num": 522622,
+      "word": "学生把头发扎舌头上写纸条求助",
+      "onboard_time": 1733645059,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1394368,
@@ -75,12 +83,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1160957,
-      "num": 522622,
-      "word": "学生把头发扎舌头上写纸条求助",
-      "onboard_time": 1733645059,
-      "rank": 10,
-      "category": "民生新闻"
+      "raw_hot": 1210883,
+      "num": 1210883,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1733646318,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1079435,
@@ -89,14 +97,6 @@
       "onboard_time": 1733638279,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 976691,
-      "num": 1156270,
-      "word": "iG官宣新阵容",
-      "onboard_time": 1733646318,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 976275,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 678341,
+      "num": 678341,
+      "word": "母女二人拒不让座被乘警带走",
+      "onboard_time": 1733645478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 669713,
       "num": 669713,
       "word": "叙利亚反对派称已推翻阿萨德政权",
@@ -313,6 +321,14 @@
       "onboard_time": 1733624296,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 558760,
+      "num": 558760,
+      "word": "孙滢皓退赛",
+      "onboard_time": 1733646618,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 553211,
@@ -507,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 401619,
+      "num": 401619,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394358,
       "num": 189713,
       "word": "只有付航是真来吃席的",
@@ -563,12 +587,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 329712,
-      "num": 527126,
-      "word": "母女二人拒不让座被乘警带走",
-      "onboard_time": 1733645478,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 347456,
+      "num": 347456,
+      "word": "尖叫之夜获奖全名单",
+      "onboard_time": 1733643559,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 326339,
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 325323,
-      "num": 279090,
+      "num": 301816,
       "word": "频繁早醒的人可能是病了",
       "onboard_time": 1733641519,
       "rank": 24,
@@ -593,14 +617,6 @@
       "onboard_time": 1733623639,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304683,
-      "num": 304683,
-      "word": "尖叫之夜获奖全名单",
-      "onboard_time": 1733643559,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 302987,
@@ -635,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295951,
+      "num": 295951,
+      "word": "王者荣耀",
+      "onboard_time": 1733645298,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294500,
       "num": 324010,
       "word": "庄达菲红毯签名一笔一画",
@@ -659,28 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286516,
-      "num": 278594,
-      "word": "徐艺洋带头模仿黄子韬",
-      "onboard_time": 1733645059,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
       "onboard_time": 1733585662,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 280602,
-      "num": 280602,
-      "word": "王者荣耀",
-      "onboard_time": 1733645298,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 277299,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246228,
+      "num": 246228,
+      "word": "白鹿李一桐李沁合照",
+      "onboard_time": 1733646560,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245892,
       "num": 255731,
       "word": "武艺还是拿不明白蛋糕",
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 205684,
-      "num": 134982,
+      "num": 163311,
       "word": "九重紫",
       "onboard_time": 1733567363,
       "rank": 31,
@@ -905,6 +921,14 @@
       "onboard_time": 1733575700,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194456,
+      "num": 194456,
+      "word": "沈翊上了三年班终于疯了",
+      "onboard_time": 1733646860,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194148,
@@ -1235,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152886,
+      "num": 152886,
+      "word": "反对派进入叙利亚总统府",
+      "onboard_time": 1733647159,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151546,
       "num": 151546,
       "word": "虞书欣这句拜拜",
@@ -1459,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130283,
+      "num": 130283,
+      "word": "叙利亚局势为何反转这么快",
+      "onboard_time": 1733646618,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129767,
       "num": 129767,
       "word": "丁禹兮健身房健身vlog",
@@ -1675,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96737,
+      "num": 352862,
+      "word": "大城市里是千千万万的阿娟",
+      "onboard_time": 1733645958,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96269,
       "num": 289015,
       "word": "小草包谈TheShy复出",
@@ -1689,14 +1737,6 @@
       "onboard_time": 1733641340,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93545,
-      "num": 279872,
-      "word": "大城市里是千千万万的阿娟",
-      "onboard_time": 1733645958,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 91613,
@@ -1755,6 +1795,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 78644,
+      "num": 527443,
+      "word": "官方回应母女二人霸座被乘警带走",
+      "onboard_time": 1733646920,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78162,
       "num": 38102,
       "word": "血观音",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1733578401,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73279,
+      "num": 261545,
+      "word": "无限暖暖 塞尔达",
+      "onboard_time": 1733646860,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 72121,
@@ -2033,6 +2089,14 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27538,
+      "num": 122102,
+      "word": "建议冬天旅行前先去趟波司登",
+      "onboard_time": 1733647279,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 27143,

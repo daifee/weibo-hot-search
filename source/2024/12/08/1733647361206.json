@@ -1,0 +1,410 @@
+{
+  "runTime": 1733647361206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1210883,
+        "num": 1210883,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1733646318,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 942843,
+        "num": 942843,
+        "word": "叙利亚总统",
+        "onboard_time": 1733640619,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54802,
+        "num": 767895,
+        "word": "2024这些精美文物成了网红爆款",
+        "onboard_time": 1733617937,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 727227,
+        "num": 727227,
+        "word": "周杰伦回复陈冠希",
+        "onboard_time": 1733640019,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 678341,
+        "num": 678341,
+        "word": "母女二人拒不让座被乘警带走",
+        "onboard_time": 1733645478,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654263,
+        "num": 654263,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593973,
+        "num": 593973,
+        "word": "ELLE 孙颖莎",
+        "onboard_time": 1733642779,
+        "rank": 6,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 558760,
+        "num": 558760,
+        "word": "孙滢皓退赛",
+        "onboard_time": 1733646618,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429287,
+        "num": 543305,
+        "word": "灵隐寺",
+        "onboard_time": 1733646438,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78644,
+        "num": 527443,
+        "word": "官方回应母女二人霸座被乘警带走",
+        "onboard_time": 1733646920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1408846,
+        "num": 510053,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589849,
+        "num": 476217,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472493,
+        "num": 472493,
+        "word": "iG全神班首秀",
+        "onboard_time": 1733640438,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447210,
+        "num": 447210,
+        "word": "高校学生买7件演出服穿完集体退货",
+        "onboard_time": 1733642539,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407141,
+        "num": 407141,
+        "word": "孟子义一年级哪有这么好的条件",
+        "onboard_time": 1733639660,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401619,
+        "num": 401619,
+        "word": "徐艺洋带头模仿黄子韬",
+        "onboard_time": 1733645059,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396750,
+        "num": 396750,
+        "word": "九重紫8集定律",
+        "onboard_time": 1733644401,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369295,
+        "num": 369295,
+        "word": "叙利亚反对派称已推翻阿萨德政权",
+        "onboard_time": 1733638338,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96737,
+        "num": 352862,
+        "word": "大城市里是千千万万的阿娟",
+        "onboard_time": 1733645958,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347456,
+        "num": 347456,
+        "word": "尖叫之夜获奖全名单",
+        "onboard_time": 1733643559,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341934,
+        "num": 341934,
+        "word": "虞书欣尖叫之夜状态对比",
+        "onboard_time": 1733639900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301816,
+        "num": 301816,
+        "word": "频繁早醒的人可能是病了",
+        "onboard_time": 1733641519,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 295951,
+        "num": 295951,
+        "word": "王者荣耀",
+        "onboard_time": 1733645298,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262416,
+        "num": 262416,
+        "word": "sana裙子",
+        "onboard_time": 1733644639,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73279,
+        "num": 261545,
+        "word": "无限暖暖 塞尔达",
+        "onboard_time": 1733646860,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261157,
+        "num": 261157,
+        "word": "多邻国APP 裂了",
+        "onboard_time": 1733638279,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246228,
+        "num": 246228,
+        "word": "白鹿李一桐李沁合照",
+        "onboard_time": 1733646560,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 210357,
+        "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+        "onboard_time": 1733640259,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219412,
+        "num": 209731,
+        "word": "王阳 十个勤天值得",
+        "onboard_time": 1733637680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207727,
+        "num": 207727,
+        "word": "男子花23万18天闪婚发现孩子非亲生",
+        "onboard_time": 1733637680,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198438,
+        "num": 198438,
+        "word": "疑有人领到大冰免费羽绒服后转卖",
+        "onboard_time": 1733641459,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194456,
+        "num": 194456,
+        "word": "沈翊上了三年班终于疯了",
+        "onboard_time": 1733646860,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190842,
+        "num": 190842,
+        "word": "杨旭文一晚上领了3个奖",
+        "onboard_time": 1733645478,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186001,
+        "num": 186001,
+        "word": "一架从大马士革起飞的飞机疑似坠毁",
+        "onboard_time": 1733630720,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163585,
+        "num": 163585,
+        "word": "向佐上台的5分钟没1秒是浪费的",
+        "onboard_time": 1733638880,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169011,
+        "num": 163562,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163366,
+        "num": 163366,
+        "word": "教育局回应晚自习不允许上厕所",
+        "onboard_time": 1733630418,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166040,
+        "num": 163357,
+        "word": "叙利亚局势最新情况",
+        "onboard_time": 1733637740,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163311,
+        "num": 163311,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163421,
+        "num": 162630,
+        "word": "叙利亚国内局势骤然升级",
+        "onboard_time": 1733643799,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157246,
+        "num": 157246,
+        "word": "小小的我",
+        "onboard_time": 1733641820,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152886,
+        "num": 152886,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148231,
+        "num": 148231,
+        "word": "秦岚一把搂住虞书欣",
+        "onboard_time": 1733620519,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131366,
+        "num": 131366,
+        "word": "姜妍拍的宋亚轩",
+        "onboard_time": 1733635038,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130283,
+        "num": 130283,
+        "word": "叙利亚局势为何反转这么快",
+        "onboard_time": 1733646618,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129985,
+        "num": 129985,
+        "word": "肖四出了",
+        "onboard_time": 1733643498,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122893,
+        "num": 122893,
+        "word": "阿萨德",
+        "onboard_time": 1733626818,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27538,
+        "num": 122102,
+        "word": "建议冬天旅行前先去趟波司登",
+        "onboard_time": 1733647279,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 122019,
+        "num": 122019,
+        "word": "刘诗诗我会继续努力哒",
+        "onboard_time": 1733644759,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119556,
+        "num": 119556,
+        "word": "何与 双轨",
+        "onboard_time": 1733618478,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇于担当作为拓展共赢发展新空间#"
+    }
+  }
+}
