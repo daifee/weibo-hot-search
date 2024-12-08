@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733632084565,
+  "endTime": 1733632960366,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -83,20 +83,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 777844,
+      "num": 777844,
+      "word": "阿萨德",
+      "onboard_time": 1733626818,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 763262,
       "num": 763262,
       "word": "5年前的噩梦终于结束了",
       "onboard_time": 1733617878,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 749453,
-      "num": 749453,
-      "word": "阿萨德",
-      "onboard_time": 1733626818,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 743910,
@@ -137,6 +137,14 @@
       "onboard_time": 1733628620,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 690812,
+      "num": 690812,
+      "word": "一架从大马士革起飞的飞机疑似坠毁",
+      "onboard_time": 1733630720,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 685621,
@@ -219,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 483150,
+      "num": 483150,
+      "word": "周杰伦演唱会再澄清父亲家暴传闻",
+      "onboard_time": 1733631018,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 478657,
       "num": 478657,
       "word": "尹锡悦下台前将不插手韩国国政",
@@ -241,6 +257,14 @@
       "onboard_time": 1733586621,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429512,
+      "num": 429512,
+      "word": "教育局回应晚自习不允许上厕所",
+      "onboard_time": 1733630418,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428731,
@@ -267,6 +291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417320,
+      "num": 397586,
+      "word": "尖叫之夜导播别嗑了",
+      "onboard_time": 1733631438,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403906,
       "num": 403906,
       "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
@@ -283,20 +315,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 400322,
+      "num": 421172,
+      "word": "大马士革国际机场发生混乱",
+      "onboard_time": 1733630897,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 394358,
       "num": 189713,
       "word": "只有付航是真来吃席的",
       "onboard_time": 1733582662,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387222,
-      "num": 428318,
-      "word": "一架从大马士革起飞的飞机疑似坠毁",
-      "onboard_time": 1733630720,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 384319,
@@ -331,36 +363,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 339970,
-      "num": 421172,
-      "word": "大马士革国际机场发生混乱",
-      "onboard_time": 1733630897,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 335917,
-      "num": 335917,
-      "word": "周杰伦演唱会再澄清父亲家暴传闻",
-      "onboard_time": 1733631018,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326339,
       "num": 136151,
       "word": "尖叫女神竟是iejj",
       "onboard_time": 1733578040,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 317831,
-      "num": 317831,
-      "word": "教育局回应晚自习不允许上厕所",
-      "onboard_time": 1733630418,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312430,
@@ -377,6 +385,14 @@
       "onboard_time": 1733623881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301978,
+      "num": 301978,
+      "word": "老婆临盆遇车辆升级当事人回应质疑",
+      "onboard_time": 1733628860,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300745,
@@ -427,19 +443,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284505,
+      "num": 284505,
+      "word": "叙利亚",
+      "onboard_time": 1733579002,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
       "onboard_time": 1733585662,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 277137,
-      "num": 277137,
-      "word": "叙利亚",
-      "onboard_time": 1733579002,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -456,14 +472,6 @@
       "word": "女子收骗子礼物后立即删了骗子",
       "onboard_time": 1733573361,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263024,
-      "num": 263024,
-      "word": "老婆临盆遇车辆升级当事人回应质疑",
-      "onboard_time": 1733628860,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -507,14 +515,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 238342,
-      "num": 285022,
-      "word": "尖叫之夜导播别嗑了",
-      "onboard_time": 1733631438,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 238248,
       "num": 117747,
       "word": "白鹿妆造",
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204277,
+      "num": 265110,
+      "word": "申论",
+      "onboard_time": 1733631618,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202657,
       "num": 202657,
       "word": "不要一直坐坐坐坐坐",
@@ -555,20 +563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201460,
-      "num": 201460,
-      "word": "申论",
-      "onboard_time": 1733631618,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 200447,
       "num": 200447,
       "word": "混团世界杯半决赛",
       "onboard_time": 1733623459,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196471,
+      "num": 196471,
+      "word": "第一次看到女儿的男友",
+      "onboard_time": 1733632220,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 195028,
@@ -659,12 +667,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 176527,
+      "num": 176527,
+      "word": "头上的包",
+      "onboard_time": 1733632280,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 174986,
       "num": 174986,
       "word": "张颂文喊刘宇宁过来聊天",
       "onboard_time": 1733622319,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173353,
+      "num": 173353,
+      "word": "偷偷给全班男生塞表白信",
+      "onboard_time": 1733631800,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 171264,
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141291,
+      "num": 252033,
+      "word": "易烊千玺音乐会",
+      "onboard_time": 1733632459,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141186,
       "num": 139085,
       "word": "英国夫妇纯素食饿死3岁儿子",
@@ -859,20 +891,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 139108,
-      "num": 139108,
-      "word": "偷偷给全班男生塞表白信",
-      "onboard_time": 1733631800,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137955,
       "num": 137955,
       "word": "周杰伦唱热带雨林镜头秒切Ella",
       "onboard_time": 1733622077,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137836,
+      "num": 137836,
+      "word": "WTT",
+      "onboard_time": 1733629639,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 136096,
@@ -889,14 +921,6 @@
       "onboard_time": 1733616258,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 133754,
-      "num": 133754,
-      "word": "WTT",
-      "onboard_time": 1733629639,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133179,
@@ -931,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128600,
+      "num": 319514,
+      "word": "叙利亚总理表示向反对派伸出友好之手",
+      "onboard_time": 1733630897,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125066,
       "num": 125066,
       "word": "侯明昊7年前的发言正中眉心",
@@ -945,14 +977,6 @@
       "onboard_time": 1733617218,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124580,
-      "num": 319514,
-      "word": "叙利亚总理表示向反对派伸出友好之手",
-      "onboard_time": 1733630897,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124160,
@@ -1107,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87727,
+      "num": 752042,
+      "word": "2024这些精美文物成了网红爆款",
+      "onboard_time": 1733617937,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 81924,
       "num": 109521,
       "word": "国乒赛后发布会也光速下班了",
@@ -1227,14 +1259,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 51170,
-      "num": 752042,
-      "word": "2024这些精美文物成了网红爆款",
-      "onboard_time": 1733617937,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 45194,
       "num": 118632,
       "word": "俄罗斯使馆敦促俄公民离开叙利亚",
@@ -1251,12 +1275,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39341,
+      "num": 270021,
+      "word": "华晨宇捐赠乐器助力乡村学校组乐队",
+      "onboard_time": 1733632640,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38106,
       "num": 156731,
       "word": "琼瑶花葬将开放粉丝参加",
       "onboard_time": 1733573120,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37556,
+      "num": 254402,
+      "word": "白冰复更讲了资助13个孩子的故事",
+      "onboard_time": 1733632939,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 36782,
@@ -1460,6 +1500,9 @@
     },
     {
       "word": "#勇于担当作为拓展共赢发展新空间#"
+    },
+    {
+      "word": "#总书记的用典智慧#"
     }
   ]
 }
