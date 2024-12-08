@@ -1,0 +1,410 @@
+{
+  "runTime": 1733656735931,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953333,
+        "num": 1152533,
+        "word": "中山美穗死因系意外事故",
+        "onboard_time": 1733649501,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575922,
+        "num": 575922,
+        "word": "央视曝中华口腔医学会给钱就当会员",
+        "onboard_time": 1733655139,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38818,
+        "num": 568831,
+        "word": "神十九乘组在轨工作都忙些啥",
+        "onboard_time": 1733649318,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 586766,
+        "num": 566150,
+        "word": "虞书欣双轨",
+        "onboard_time": 1733652019,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562908,
+        "num": 562908,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 512049,
+        "num": 512049,
+        "word": "感觉整个车厢都是去考公的",
+        "onboard_time": 1733650099,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508632,
+        "num": 508632,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 486147,
+        "num": 486147,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1733646318,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459362,
+        "num": 459362,
+        "word": "中国驻叙利亚使馆仍在坚守",
+        "onboard_time": 1733650699,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 439870,
+        "num": 439870,
+        "word": "何与九重紫演王爷",
+        "onboard_time": 1733653160,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1088488,
+        "num": 439673,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645805,
+        "num": 439463,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184203,
+        "num": 439172,
+        "word": "婴儿出生5天确诊遗传性罕见病",
+        "onboard_time": 1733656519,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192990,
+        "num": 438854,
+        "word": "王楚钦孙颖莎vs赵大成申裕斌",
+        "onboard_time": 1733655800,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559258,
+        "num": 438749,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 438514,
+        "num": 438514,
+        "word": "偶遇赵丽颖看烟花秀",
+        "onboard_time": 1733654358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597264,
+        "num": 434627,
+        "word": "徐艺洋带头模仿黄子韬",
+        "onboard_time": 1733645059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424183,
+        "num": 424183,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421665,
+        "num": 421665,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43729,
+        "num": 391348,
+        "word": "紫燕食品已委托机构对产品进行检测",
+        "onboard_time": 1733655679,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91162,
+        "num": 391253,
+        "word": "国乒vs韩国",
+        "onboard_time": 1733655200,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391178,
+        "num": 391178,
+        "word": "母女二人拒不让座被乘警带走",
+        "onboard_time": 1733645478,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10169,
+        "num": 381689,
+        "word": "又又又在波司登门店偶遇明星了",
+        "onboard_time": 1733652260,
+        "rank": 22,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 296694,
+        "num": 380894,
+        "word": "陈乔恩为老公Alan庆生",
+        "onboard_time": 1733655499,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108993,
+        "num": 380371,
+        "word": "电影误判",
+        "onboard_time": 1733654180,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380364,
+        "num": 380364,
+        "word": "专家表示胃癌是喂出来的癌症",
+        "onboard_time": 1733651359,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241197,
+        "num": 378597,
+        "word": "赵露思明星带货王",
+        "onboard_time": 1733654780,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233801,
+        "num": 372885,
+        "word": "虞书欣回应接双轨的原因",
+        "onboard_time": 1733656220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80556,
+        "num": 367432,
+        "word": "ELLE全球80周年",
+        "onboard_time": 1733654901,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 202834,
+        "num": 358067,
+        "word": "孙滢皓发文",
+        "onboard_time": 1733653820,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169486,
+        "num": 354746,
+        "word": "jiejie 未来继续全力以赴",
+        "onboard_time": 1733656100,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350375,
+        "num": 350375,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261225,
+        "num": 261225,
+        "word": "80%胃癌与幽门螺杆菌有关",
+        "onboard_time": 1733654419,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241024,
+        "num": 241024,
+        "word": "考研最大的意义是认清自己",
+        "onboard_time": 1733651540,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236668,
+        "num": 236668,
+        "word": "年轻人开始给自己去班味了",
+        "onboard_time": 1733654239,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232771,
+        "num": 232771,
+        "word": "莎头出战混团决赛",
+        "onboard_time": 1733653937,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227991,
+        "num": 227991,
+        "word": "王一博奥迪直播",
+        "onboard_time": 1733655679,
+        "rank": 36,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 215017,
+        "num": 215017,
+        "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+        "onboard_time": 1733656340,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203932,
+        "num": 203932,
+        "word": "大冰回应免费发放羽绒济南站取消",
+        "onboard_time": 1733650040,
+        "rank": 38,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 201824,
+        "num": 201824,
+        "word": "孙滢皓方发文",
+        "onboard_time": 1733646618,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168626,
+        "num": 198695,
+        "word": "小水晒与陈哲远合照",
+        "onboard_time": 1733653820,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197553,
+        "num": 197553,
+        "word": "用浏阳烟花打开星际之门",
+        "onboard_time": 1733651359,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193086,
+        "num": 193086,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190643,
+        "num": 190643,
+        "word": "我是刑警不是1个人是16万人",
+        "onboard_time": 1733650342,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189959,
+        "num": 189959,
+        "word": "张雪迎民国白月光",
+        "onboard_time": 1733656279,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183556,
+        "num": 183556,
+        "word": "iG全神班首秀",
+        "onboard_time": 1733640438,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182146,
+        "num": 182146,
+        "word": "Rookie回应加入iG",
+        "onboard_time": 1733656399,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 180641,
+        "word": "叙利亚总统",
+        "onboard_time": 1733640619,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175969,
+        "num": 175969,
+        "word": "中国香港队混团铜牌",
+        "onboard_time": 1733655441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161708,
+        "num": 161708,
+        "word": "孙卓回家3年变回小时候胖胖的样子",
+        "onboard_time": 1733651359,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

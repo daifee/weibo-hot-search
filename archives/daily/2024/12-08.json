@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733654494378,
+  "endTime": 1733656735931,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -363,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 586766,
+      "num": 566150,
+      "word": "虞书欣双轨",
+      "onboard_time": 1733652019,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 575922,
+      "num": 575922,
+      "word": "央视曝中华口腔医学会给钱就当会员",
+      "onboard_time": 1733655139,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570839,
       "num": 570839,
       "word": "叙军方称巴沙尔阿萨德的统治已结束",
@@ -475,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 508632,
+      "num": 508632,
+      "word": "大马士革响起密集枪声",
+      "onboard_time": 1733651661,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 505469,
       "num": 189404,
       "word": "王源状态",
@@ -555,6 +579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 439870,
+      "num": 439870,
+      "word": "何与九重紫演王爷",
+      "onboard_time": 1733653160,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 438514,
+      "num": 438514,
+      "word": "偶遇赵丽颖看烟花秀",
+      "onboard_time": 1733654358,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434618,
       "num": 434618,
       "word": "叙利亚",
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 429898,
-      "num": 371061,
+      "num": 380364,
       "word": "专家表示胃癌是喂出来的癌症",
       "onboard_time": 1733651359,
       "rank": 20,
@@ -619,14 +659,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 397847,
-      "num": 397847,
-      "word": "虞书欣双轨",
-      "onboard_time": 1733652019,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 394358,
       "num": 189713,
       "word": "只有付航是真来吃席的",
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 350375,
+      "num": 350375,
+      "word": "九重紫",
+      "onboard_time": 1733567363,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348893,
       "num": 250544,
       "word": "长期久坐的3个自救方法",
@@ -699,22 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340847,
-      "num": 340847,
-      "word": "大马士革响起密集枪声",
-      "onboard_time": 1733651661,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 335490,
-      "num": 397384,
-      "word": "何与九重紫演王爷",
-      "onboard_time": 1733653160,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326339,
       "num": 136151,
       "word": "尖叫女神竟是iejj",
@@ -729,14 +753,6 @@
       "onboard_time": 1733641519,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 312851,
-      "num": 312851,
-      "word": "九重紫",
-      "onboard_time": 1733567363,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 312430,
@@ -777,6 +793,14 @@
       "onboard_time": 1733628919,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296694,
+      "num": 380894,
+      "word": "陈乔恩为老公Alan庆生",
+      "onboard_time": 1733655499,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 295951,
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261225,
+      "num": 261225,
+      "word": "80%胃癌与幽门螺杆菌有关",
+      "onboard_time": 1733654419,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
@@ -947,6 +979,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241197,
+      "num": 378597,
+      "word": "赵露思明星带货王",
+      "onboard_time": 1733654780,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 241024,
+      "num": 241024,
+      "word": "考研最大的意义是认清自己",
+      "onboard_time": 1733651540,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -961,6 +1009,38 @@
       "onboard_time": 1733568561,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236668,
+      "num": 236668,
+      "word": "年轻人开始给自己去班味了",
+      "onboard_time": 1733654239,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 233801,
+      "num": 372885,
+      "word": "虞书欣回应接双轨的原因",
+      "onboard_time": 1733656220,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232771,
+      "num": 383581,
+      "word": "莎头出战混团决赛",
+      "onboard_time": 1733653937,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 227991,
+      "num": 227991,
+      "word": "王一博奥迪直播",
+      "onboard_time": 1733655679,
+      "rank": 36,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 226412,
@@ -987,20 +1067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215624,
-      "num": 215624,
-      "word": "考研最大的意义是认清自己",
-      "onboard_time": 1733651540,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 215598,
       "num": 215598,
       "word": "沈翊上了三年班终于疯了",
       "onboard_time": 1733646860,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215017,
+      "num": 215017,
+      "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+      "onboard_time": 1733656340,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209553,
@@ -1012,7 +1092,7 @@
     },
     {
       "raw_hot": 207337,
-      "num": 207337,
+      "num": 358067,
       "word": "孙滢皓发文",
       "onboard_time": 1733653820,
       "rank": 39,
@@ -1035,14 +1115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201197,
-      "num": 201197,
-      "word": "年轻人开始给自己去班味了",
-      "onboard_time": 1733654239,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200763,
       "num": 200763,
       "word": "秦海璐小说里重生文都这样",
@@ -1057,6 +1129,14 @@
       "onboard_time": 1733623459,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197553,
+      "num": 433366,
+      "word": "用浏阳烟花打开星际之门",
+      "onboard_time": 1733651359,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 197222,
@@ -1131,6 +1211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192990,
+      "num": 438854,
+      "word": "王楚钦孙颖莎vs赵大成申裕斌",
+      "onboard_time": 1733655800,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191144,
       "num": 285323,
       "word": "郭旭晒求婚vlog",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1733585363,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189959,
+      "num": 189959,
+      "word": "张雪迎民国白月光",
+      "onboard_time": 1733656279,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 189209,
@@ -1219,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185363,
-      "num": 185363,
-      "word": "80%胃癌与幽门螺杆菌有关",
-      "onboard_time": 1733654419,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184711,
       "num": 184711,
       "word": "梁伟铿说身体不适遗憾未能跑广马",
@@ -1240,6 +1328,14 @@
       "word": "骗子1小时内快递礼物引诱受害者",
       "onboard_time": 1733574920,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184203,
+      "num": 439172,
+      "word": "婴儿出生5天确诊遗传性罕见病",
+      "onboard_time": 1733656519,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1267,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182146,
+      "num": 182146,
+      "word": "Rookie回应加入iG",
+      "onboard_time": 1733656399,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179852,
       "num": 179852,
       "word": "白鹿曾舜晞丞磊合照",
@@ -1289,6 +1393,14 @@
       "onboard_time": 1733632280,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175969,
+      "num": 175969,
+      "word": "中国香港队混团铜牌",
+      "onboard_time": 1733655441,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 174986,
@@ -1347,12 +1459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169486,
+      "num": 354746,
+      "word": "jiejie 未来继续全力以赴",
+      "onboard_time": 1733656100,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168787,
       "num": 168787,
       "word": "刘诗诗我会继续努力哒",
       "onboard_time": 1733644759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168626,
+      "num": 198695,
+      "word": "小水晒与陈哲远合照",
+      "onboard_time": 1733653820,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 167815,
@@ -1923,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108993,
+      "num": 380371,
+      "word": "电影误判",
+      "onboard_time": 1733654180,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108323,
       "num": 191006,
       "word": "叙利亚首都大马士革传出爆炸声",
@@ -1937,14 +2073,6 @@
       "onboard_time": 1733635940,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108034,
-      "num": 433366,
-      "word": "用浏阳烟花打开星际之门",
-      "onboard_time": 1733651359,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 107235,
@@ -2027,14 +2155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93795,
-      "num": 346590,
-      "word": "偶遇赵丽颖看烟花秀",
-      "onboard_time": 1733654358,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93012,
       "num": 582399,
       "word": "外交部回应叙利亚局势发展",
@@ -2057,6 +2177,14 @@
       "onboard_time": 1733622918,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91162,
+      "num": 391253,
+      "word": "国乒vs韩国",
+      "onboard_time": 1733655200,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 90997,
@@ -2107,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80556,
+      "num": 367432,
+      "word": "ELLE全球80周年",
+      "onboard_time": 1733654901,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 80462,
       "num": 323505,
       "word": "农村公路可以有多美",
@@ -2153,14 +2289,6 @@
       "onboard_time": 1733646860,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 72675,
-      "num": 383581,
-      "word": "莎头出战混团决赛",
-      "onboard_time": 1733653937,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 72121,
@@ -2291,14 +2419,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 45226,
-      "num": 340887,
-      "word": "电影误判",
-      "onboard_time": 1733654180,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 45194,
       "num": 118632,
       "word": "俄罗斯使馆敦促俄公民离开叙利亚",
@@ -2311,6 +2431,14 @@
       "num": 348274,
       "word": "农村留守老人试着抱团养老",
       "onboard_time": 1733652260,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43729,
+      "num": 391348,
+      "word": "紫燕食品已委托机构对产品进行检测",
+      "onboard_time": 1733655679,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -2484,7 +2612,7 @@
     },
     {
       "raw_hot": 24382,
-      "num": 362237,
+      "num": 381689,
       "word": "又又又在波司登门店偶遇明星了",
       "onboard_time": 1733652260,
       "rank": 23,
