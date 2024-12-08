@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733662769982,
+  "endTime": 1733664536299,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1531741,
-      "num": 644405,
+      "num": 749137,
       "word": "女子因骑手送错餐申请退款后将餐品吃掉",
       "onboard_time": 1733656340,
       "rank": 37,
@@ -107,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1373041,
+      "num": 1373041,
+      "word": "叙利亚总统阿萨德辞职",
+      "onboard_time": 1733661201,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1334686,
       "num": 1334686,
       "word": "中山美穗死因系意外事故",
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1254606,
+      "num": 1254606,
+      "word": "孙颖莎阻止王楚钦继续用丢分球",
+      "onboard_time": 1733662760,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1219352,
       "num": 1219352,
       "word": "申论",
@@ -155,14 +171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1106446,
-      "num": 1106446,
-      "word": "叙利亚总统阿萨德辞职",
-      "onboard_time": 1733661201,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1079435,
       "num": 1172709,
       "word": "多邻国裂了",
@@ -171,8 +179,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1005671,
-      "num": 1005671,
+      "raw_hot": 1059060,
+      "num": 1059060,
       "word": "43岁孕妇吃保胎药后大出血流产",
       "onboard_time": 1733660120,
       "rank": 11,
@@ -259,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 809973,
+      "num": 809973,
+      "word": "国乒11连胜夺冠",
+      "onboard_time": 1733661741,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803148,
       "num": 803148,
       "word": "王阳 十个勤天值得",
@@ -273,6 +289,14 @@
       "onboard_time": 1733645478,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 791029,
+      "num": 791029,
+      "word": "杨仕泽 鸡柳只是冰山一角",
+      "onboard_time": 1733661678,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 785536,
@@ -324,11 +348,19 @@
     },
     {
       "raw_hot": 749490,
-      "num": 749490,
+      "num": 754055,
       "word": "大冰 免费羽绒服",
       "onboard_time": 1733658800,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 748003,
+      "num": 748003,
+      "word": "这就是世一混双和其他人的区别",
+      "onboard_time": 1733662701,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 743910,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 731779,
-      "num": 731779,
+      "num": 745342,
       "word": "虞书欣回应接双轨的原因",
       "onboard_time": 1733656220,
       "rank": 27,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 644428,
-      "num": 644428,
+      "num": 707869,
       "word": "丁禹兮姐夫一号",
       "onboard_time": 1733659221,
       "rank": 6,
@@ -449,6 +481,14 @@
       "onboard_time": 1733621898,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 624006,
+      "num": 749205,
+      "word": "6旬董事长思念亡母燃放特别烟花",
+      "onboard_time": 1733662520,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 599618,
@@ -707,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435816,
+      "num": 435816,
+      "word": "许昕谈莎头组合对阵韩国组合",
+      "onboard_time": 1733662940,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434618,
       "num": 434618,
       "word": "叙利亚",
@@ -811,12 +859,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372265,
-      "num": 652569,
-      "word": "国乒11连胜夺冠",
-      "onboard_time": 1733661741,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 377006,
+      "num": 377006,
+      "word": "国色芳华和难哄档期",
+      "onboard_time": 1733663120,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 365955,
@@ -827,20 +875,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357895,
-      "num": 357895,
-      "word": "这就是世一混双和其他人的区别",
-      "onboard_time": 1733662701,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353645,
       "num": 353645,
       "word": "丁禹兮直播",
       "onboard_time": 1733657119,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351460,
+      "num": 351460,
+      "word": "九重紫 烂人错过",
+      "onboard_time": 1733663662,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 348893,
@@ -899,14 +947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 324790,
-      "num": 324790,
-      "word": "杨仕泽 鸡柳只是冰山一角",
-      "onboard_time": 1733661678,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314143,
       "num": 314143,
       "word": "看颗牙8家诊所给出4个治疗方案",
@@ -929,6 +969,14 @@
       "onboard_time": 1733653820,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308017,
+      "num": 308017,
+      "word": "孙颖莎王楚钦王曼昱林诗栋辛苦了",
+      "onboard_time": 1733663360,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 304060,
@@ -1083,6 +1131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260320,
+      "num": 397083,
+      "word": "九重紫热度",
+      "onboard_time": 1733659882,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1733570240,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256232,
+      "num": 256232,
+      "word": "邵艺辉",
+      "onboard_time": 1733663481,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 255617,
@@ -1235,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235601,
+      "num": 235601,
+      "word": "争议球全过程",
+      "onboard_time": 1733662701,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232771,
       "num": 383581,
       "word": "莎头出战混团决赛",
@@ -1275,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219699,
+      "num": 209117,
+      "word": "叙利亚民众进入阿萨德住宅",
+      "onboard_time": 1733664380,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219331,
       "num": 390076,
       "word": "王楚钦提醒林诗栋挑战",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1733653820,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204874,
+      "num": 204874,
+      "word": "王楚钦 谁还不会用个鹰眼",
+      "onboard_time": 1733664500,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 203741,
@@ -1427,14 +1515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 193458,
-      "num": 193458,
-      "word": "争议球全过程",
-      "onboard_time": 1733662701,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "中国短道队5000米接力金牌",
@@ -1465,14 +1545,6 @@
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190874,
-      "num": 190874,
-      "word": "6旬董事长思念亡母燃放特别烟花",
-      "onboard_time": 1733662520,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190866,
@@ -1547,20 +1619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188536,
+      "num": 392077,
+      "word": "我是刑警演到凯里爆炸案",
+      "onboard_time": 1733663603,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188369,
       "num": 188369,
       "word": "混团世界杯王曼昱连赢21局",
       "onboard_time": 1733661201,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186814,
-      "num": 397083,
-      "word": "九重紫热度",
-      "onboard_time": 1733659882,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 186202,
@@ -1865,6 +1937,14 @@
       "onboard_time": 1733572400,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158539,
+      "num": 199508,
+      "word": "孕妇吃保胎药后流产家属质疑开错药",
+      "onboard_time": 1733663000,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 158308,
@@ -2451,6 +2531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94020,
+      "num": 501893,
+      "word": "今年砂糖橘涨价近三成",
+      "onboard_time": 1733663000,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93012,
       "num": 582399,
       "word": "外交部回应叙利亚局势发展",
@@ -2715,6 +2803,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 51635,
+      "num": 723112,
+      "word": "AI魔改被指小作坊下料就是猛",
+      "onboard_time": 1733663000,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50097,
       "num": 441278,
       "word": "叙利亚反对派武装是何来头",
@@ -2907,6 +3003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30475,
+      "num": 732994,
+      "word": "大马士革将实施宵禁",
+      "onboard_time": 1733664082,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30047,
       "num": 233100,
       "word": "国乒混合团体冲击决赛",
@@ -2929,6 +3033,14 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27730,
+      "num": 1276842,
+      "word": "文化中国行丹青中华",
+      "onboard_time": 1733662340,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27143,
@@ -3003,6 +3115,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 18801,
+      "num": 511577,
+      "word": "朴彩英回忆后台偶遇蕾哈娜",
+      "onboard_time": 1733663783,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17244,
       "num": 337668,
       "word": "国乒10连胜",
@@ -3059,12 +3179,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 10904,
+      "num": 415345,
+      "word": "UFC310",
+      "onboard_time": 1733663903,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10275,
       "num": 22229,
       "word": "文化中国行看春节走向世界",
       "onboard_time": 1733605450,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 8188,
+      "num": 205787,
+      "word": "鸢子你究竟藏了多少彩蛋",
+      "onboard_time": 1733663962,
+      "rank": 45,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
