@@ -1,0 +1,410 @@
+{
+  "runTime": 1733657747950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924287,
+        "num": 1147885,
+        "word": "中山美穗死因系意外事故",
+        "onboard_time": 1733649501,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779800,
+        "num": 779800,
+        "word": "央视曝中华口腔医学会给钱就当会员",
+        "onboard_time": 1733655139,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41898,
+        "num": 764085,
+        "word": "神十九乘组在轨工作都忙些啥",
+        "onboard_time": 1733649318,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 785536,
+        "num": 762605,
+        "word": "虞书欣双轨",
+        "onboard_time": 1733652019,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 757806,
+        "num": 757806,
+        "word": "婴儿出生5天确诊遗传性罕见病",
+        "onboard_time": 1733656519,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663351,
+        "num": 663351,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447686,
+        "num": 447686,
+        "word": "王楚钦孙颖莎vs赵大成申裕斌",
+        "onboard_time": 1733655800,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441437,
+        "num": 441437,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1733646318,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 499481,
+        "num": 441358,
+        "word": "虞书欣回应接双轨的原因",
+        "onboard_time": 1733656220,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50097,
+        "num": 441278,
+        "word": "叙利亚反对派武装是何来头",
+        "onboard_time": 1733657359,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 944100,
+        "num": 441177,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693879,
+        "num": 441099,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406355,
+        "num": 441085,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475385,
+        "num": 440945,
+        "word": "偶遇赵丽颖看烟花秀",
+        "onboard_time": 1733654358,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33385,
+        "num": 440868,
+        "word": "未来叙利亚局势将如何发展",
+        "onboard_time": 1733657181,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 474994,
+        "num": 440785,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394373,
+        "num": 440689,
+        "word": "感觉整个车厢都是去考公的",
+        "onboard_time": 1733650099,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 381531,
+        "num": 440596,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440568,
+        "num": 440568,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223091,
+        "num": 430622,
+        "word": "小水晒与陈哲远合照",
+        "onboard_time": 1733653820,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609307,
+        "num": 428360,
+        "word": "徐艺洋带头模仿黄子韬",
+        "onboard_time": 1733645059,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424588,
+        "num": 424588,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 415526,
+        "num": 415526,
+        "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+        "onboard_time": 1733656340,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355152,
+        "num": 355152,
+        "word": "中国驻叙利亚使馆仍在坚守",
+        "onboard_time": 1733650699,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137142,
+        "num": 354027,
+        "word": "Rookie回应加入iG",
+        "onboard_time": 1733656399,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 353645,
+        "num": 353645,
+        "word": "丁禹兮直播",
+        "onboard_time": 1733657119,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351910,
+        "num": 351910,
+        "word": "何与九重紫演王爷",
+        "onboard_time": 1733653160,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302047,
+        "num": 325280,
+        "word": "母女二人拒不让座被乘警带走",
+        "onboard_time": 1733645478,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 316268,
+        "word": "福宝犬瘟热病毒等抗原快检阴性",
+        "onboard_time": 1733656940,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241666,
+        "num": 315325,
+        "word": "王一博奥迪直播",
+        "onboard_time": 1733655679,
+        "rank": 29,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 315220,
+        "num": 315220,
+        "word": "专家表示胃癌是喂出来的癌症",
+        "onboard_time": 1733651359,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304060,
+        "num": 304060,
+        "word": "陈乔恩为老公Alan庆生",
+        "onboard_time": 1733655499,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272646,
+        "num": 272646,
+        "word": "代号鸢",
+        "onboard_time": 1733657299,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260241,
+        "num": 260241,
+        "word": "80%胃癌与幽门螺杆菌有关",
+        "onboard_time": 1733654419,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212680,
+        "num": 212680,
+        "word": "赵露思明星带货王",
+        "onboard_time": 1733654780,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212563,
+        "num": 212563,
+        "word": "44岁的张柏芝状态",
+        "onboard_time": 1733656759,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200635,
+        "num": 200635,
+        "word": "考研最大的意义是认清自己",
+        "onboard_time": 1733651540,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195507,
+        "num": 195507,
+        "word": "曾舜晞一张照片脑补出30集剧情",
+        "onboard_time": 1733656999,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193097,
+        "num": 193097,
+        "word": "付出型人格男生相亲遭全场灭灯",
+        "onboard_time": 1733657059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181382,
+        "num": 181382,
+        "word": "大冰回应免费发放羽绒济南站取消",
+        "onboard_time": 1733650040,
+        "rank": 39,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 180535,
+        "num": 180535,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179171,
+        "num": 179171,
+        "word": "张雪迎民国白月光",
+        "onboard_time": 1733656279,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171744,
+        "num": 171744,
+        "word": "年轻人开始给自己去班味了",
+        "onboard_time": 1733654239,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171153,
+        "num": 171153,
+        "word": "莎头出战混团决赛",
+        "onboard_time": 1733653937,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170791,
+        "num": 170791,
+        "word": "孙滢皓发文",
+        "onboard_time": 1733653820,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49191,
+        "num": 160521,
+        "word": "紫燕食品已委托机构对产品进行检测",
+        "onboard_time": 1733655679,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153199,
+        "num": 153199,
+        "word": "用浏阳烟花打开星际之门",
+        "onboard_time": 1733651359,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152739,
+        "num": 152739,
+        "word": "iG全神班首秀",
+        "onboard_time": 1733640438,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8098,
+        "num": 152302,
+        "word": "又又又在波司登门店偶遇明星了",
+        "onboard_time": 1733652260,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 151997,
+        "num": 151997,
+        "word": "左航 考验我俩配合度的第一集",
+        "onboard_time": 1733657721,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#勇于担当作为拓展共赢发展新空间#"
+    }
+  }
+}

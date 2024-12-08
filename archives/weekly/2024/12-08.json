@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733656735931,
+  "endTime": 1733657747950,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -227,6 +227,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 785536,
+      "num": 762605,
+      "word": "虞书欣双轨",
+      "onboard_time": 1733652019,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 779800,
+      "num": 779800,
+      "word": "央视曝中华口腔医学会给钱就当会员",
+      "onboard_time": 1733655139,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 777844,
       "num": 777844,
       "word": "阿萨德",
@@ -249,6 +265,14 @@
       "onboard_time": 1733617878,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 757806,
+      "num": 757806,
+      "word": "婴儿出生5天确诊遗传性罕见病",
+      "onboard_time": 1733656519,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 743910,
@@ -360,22 +384,6 @@
       "word": "高校学生买7件演出服穿完集体退货",
       "onboard_time": 1733642539,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 586766,
-      "num": 566150,
-      "word": "虞书欣双轨",
-      "onboard_time": 1733652019,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 575922,
-      "num": 575922,
-      "word": "央视曝中华口腔医学会给钱就当会员",
-      "onboard_time": 1733655139,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -515,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 499481,
+      "num": 441358,
+      "word": "虞书欣回应接双轨的原因",
+      "onboard_time": 1733656220,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 499142,
       "num": 499142,
       "word": "省考",
@@ -547,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 475385,
+      "num": 440945,
+      "word": "偶遇赵丽颖看烟花秀",
+      "onboard_time": 1733654358,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466058,
       "num": 191827,
       "word": "双轨官宣",
@@ -561,6 +585,14 @@
       "onboard_time": 1733586621,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447686,
+      "num": 447686,
+      "word": "王楚钦孙颖莎vs赵大成申裕斌",
+      "onboard_time": 1733655800,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 442322,
@@ -585,14 +617,6 @@
       "onboard_time": 1733653160,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438514,
-      "num": 438514,
-      "word": "偶遇赵丽颖看烟花秀",
-      "onboard_time": 1733654358,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 434618,
@@ -643,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 415526,
+      "num": 415526,
+      "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+      "onboard_time": 1733656340,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403906,
       "num": 403906,
       "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
@@ -683,6 +715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 381531,
+      "num": 440596,
+      "word": "九重紫",
+      "onboard_time": 1733567363,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378553,
       "num": 378553,
       "word": "特朗普马克龙泽连斯基三方会晤",
@@ -699,12 +739,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 350375,
-      "num": 350375,
-      "word": "九重紫",
-      "onboard_time": 1733567363,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 353645,
+      "num": 353645,
+      "word": "丁禹兮直播",
+      "onboard_time": 1733657119,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 348893,
@@ -763,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304060,
+      "num": 380894,
+      "word": "陈乔恩为老公Alan庆生",
+      "onboard_time": 1733655499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302987,
       "num": 335344,
       "word": "高天佐否认和周芯竹谈过",
@@ -793,14 +841,6 @@
       "onboard_time": 1733628919,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 296694,
-      "num": 380894,
-      "word": "陈乔恩为老公Alan庆生",
-      "onboard_time": 1733655499,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 295951,
@@ -865,6 +905,14 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272646,
+      "num": 272646,
+      "word": "代号鸢",
+      "onboard_time": 1733657299,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 269801,
@@ -955,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246952,
+      "num": 316268,
+      "word": "福宝犬瘟热病毒等抗原快检阴性",
+      "onboard_time": 1733656940,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245892,
       "num": 255731,
       "word": "武艺还是拿不明白蛋糕",
@@ -977,6 +1033,14 @@
       "onboard_time": 1733653160,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 241666,
+      "num": 315325,
+      "word": "王一博奥迪直播",
+      "onboard_time": 1733655679,
+      "rank": 36,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 241197,
@@ -1019,14 +1083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233801,
-      "num": 372885,
-      "word": "虞书欣回应接双轨的原因",
-      "onboard_time": 1733656220,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 232771,
       "num": 383581,
       "word": "莎头出战混团决赛",
@@ -1035,20 +1091,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227991,
-      "num": 227991,
-      "word": "王一博奥迪直播",
-      "onboard_time": 1733655679,
-      "rank": 36,
-      "category": "艺人,汽车"
-    },
-    {
       "raw_hot": 226412,
       "num": 111163,
       "word": "白鹿和北上导演拥抱",
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223091,
+      "num": 430622,
+      "word": "小水晒与陈哲远合照",
+      "onboard_time": 1733653820,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 222841,
@@ -1075,12 +1131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215017,
-      "num": 215017,
-      "word": "女子因骑手送错餐申请退款后将餐品吃掉",
-      "onboard_time": 1733656340,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 212563,
+      "num": 212563,
+      "word": "44岁的张柏芝状态",
+      "onboard_time": 1733656759,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209553,
@@ -1163,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195507,
+      "num": 195507,
+      "word": "曾舜晞一张照片脑补出30集剧情",
+      "onboard_time": 1733656999,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195028,
       "num": 111120,
       "word": "尖叫之夜现场灯牌",
@@ -1203,20 +1267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193097,
+      "num": 193097,
+      "word": "付出型人格男生相亲遭全场灭灯",
+      "onboard_time": 1733657059,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193084,
       "num": 315793,
       "word": "叙利亚总统离开首都大马士革",
       "onboard_time": 1733627179,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 192990,
-      "num": 438854,
-      "word": "王楚钦孙颖莎vs赵大成申裕斌",
-      "onboard_time": 1733655800,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 191144,
@@ -1331,14 +1395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184203,
-      "num": 439172,
-      "word": "婴儿出生5天确诊遗传性罕见病",
-      "onboard_time": 1733656519,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183890,
       "num": 231863,
       "word": "袁娅维 给音乐评级这件事很无聊",
@@ -1364,7 +1420,7 @@
     },
     {
       "raw_hot": 182146,
-      "num": 182146,
+      "num": 354027,
       "word": "Rookie回应加入iG",
       "onboard_time": 1733656399,
       "rank": 46,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1733644759,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168626,
-      "num": 198695,
-      "word": "小水晒与陈哲远合照",
-      "onboard_time": 1733653820,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 167815,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1733638219,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151997,
+      "num": 151997,
+      "word": "左航 考验我俩配合度的第一集",
+      "onboard_time": 1733657721,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 151546,
@@ -2419,6 +2475,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 50097,
+      "num": 441278,
+      "word": "叙利亚反对派武装是何来头",
+      "onboard_time": 1733657359,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49191,
+      "num": 391348,
+      "word": "紫燕食品已委托机构对产品进行检测",
+      "onboard_time": 1733655679,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45194,
       "num": 118632,
       "word": "俄罗斯使馆敦促俄公民离开叙利亚",
@@ -2431,14 +2503,6 @@
       "num": 348274,
       "word": "农村留守老人试着抱团养老",
       "onboard_time": 1733652260,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43729,
-      "num": 391348,
-      "word": "紫燕食品已委托机构对产品进行检测",
-      "onboard_time": 1733655679,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -2553,6 +2617,14 @@
       "onboard_time": 1733647279,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33385,
+      "num": 440868,
+      "word": "未来叙利亚局势将如何发展",
+      "onboard_time": 1733657181,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32107,
