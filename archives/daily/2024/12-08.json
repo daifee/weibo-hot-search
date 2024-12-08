@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733647361206,
+  "endTime": 1733649797428,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1596732,
-      "num": 543305,
+      "num": 1074577,
       "word": "灵隐寺",
       "onboard_time": 1733635641,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1582184,
+      "num": 620087,
+      "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+      "onboard_time": 1733647519,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1430286,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1408846,
-      "num": 522622,
+      "num": 598648,
       "word": "学生把头发扎舌头上写纸条求助",
       "onboard_time": 1733645059,
       "rank": 10,
@@ -99,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1025209,
+      "num": 1025209,
+      "word": "申论",
+      "onboard_time": 1733631618,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 976275,
       "num": 387406,
       "word": "腾讯和芒果纷纷来添乱",
@@ -112,6 +128,22 @@
       "word": "叙利亚总统",
       "onboard_time": 1733640619,
       "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 944137,
+      "num": 944137,
+      "word": "孙滢皓退赛",
+      "onboard_time": 1733646618,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 913715,
+      "num": 913715,
+      "word": "反对派进入叙利亚总统府",
+      "onboard_time": 1733647159,
+      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571383,
+      "num": 571383,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570839,
       "num": 570839,
       "word": "叙军方称巴沙尔阿萨德的统治已结束",
@@ -321,14 +361,6 @@
       "onboard_time": 1733624296,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 558760,
-      "num": 558760,
-      "word": "孙滢皓退赛",
-      "onboard_time": 1733646618,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 553211,
@@ -459,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442322,
+      "num": 557623,
+      "word": "白鹿李一桐李沁合照",
+      "onboard_time": 1733646560,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439996,
       "num": 439996,
       "word": "大马士革国际机场发生混乱",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 421218,
-      "num": 421218,
+      "num": 524190,
       "word": "九重紫8集定律",
       "onboard_time": 1733644401,
       "rank": 14,
@@ -516,19 +556,11 @@
     },
     {
       "raw_hot": 403434,
-      "num": 315982,
+      "num": 458979,
       "word": "4000万粉丝网红白冰停更",
       "onboard_time": 1733627058,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 401619,
-      "num": 401619,
-      "word": "徐艺洋带头模仿黄子韬",
-      "onboard_time": 1733645059,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 394358,
@@ -763,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249544,
+      "num": 249544,
+      "word": "中山美穗死因系意外事故",
+      "onboard_time": 1733649501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249012,
       "num": 249012,
       "word": "狐妖月红篇商业价值",
@@ -775,14 +815,6 @@
       "num": 134182,
       "word": "姜妍在台下笑意盈盈地看着她",
       "onboard_time": 1733577141,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 246228,
-      "num": 246228,
-      "word": "白鹿李一桐李沁合照",
-      "onboard_time": 1733646560,
       "rank": 26,
       "category": "综艺"
     },
@@ -803,6 +835,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 238466,
+      "num": 623996,
+      "word": "叙利亚局势为何突然反转",
+      "onboard_time": 1733648239,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 238248,
       "num": 117747,
       "word": "白鹿妆造",
@@ -819,12 +859,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224887,
+      "num": 224887,
+      "word": "九重紫",
+      "onboard_time": 1733567363,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222841,
       "num": 222841,
       "word": "第一次看到女儿的男友",
       "onboard_time": 1733632220,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221409,
+      "num": 221409,
+      "word": "叙利亚国家军队说阿萨德政权已结束",
+      "onboard_time": 1733649260,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 219893,
@@ -841,22 +897,6 @@
       "onboard_time": 1733645478,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205684,
-      "num": 163311,
-      "word": "九重紫",
-      "onboard_time": 1733567363,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 204277,
-      "num": 265110,
-      "word": "申论",
-      "onboard_time": 1733631618,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 203741,
@@ -1139,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166678,
+      "num": 166678,
+      "word": "传奇杯总决赛",
+      "onboard_time": 1733648780,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166505,
       "num": 166505,
       "word": "九重紫男女主先蛐蛐后亲亲",
@@ -1259,14 +1307,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152886,
-      "num": 152886,
-      "word": "反对派进入叙利亚总统府",
-      "onboard_time": 1733647159,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151546,
       "num": 151546,
       "word": "虞书欣这句拜拜",
@@ -1307,6 +1347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147856,
+      "num": 147856,
+      "word": "好东西",
+      "onboard_time": 1733647820,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147446,
       "num": 147446,
       "word": "约基奇56分",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1733618178,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145750,
+      "num": 175945,
+      "word": "京考",
+      "onboard_time": 1733649620,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 145556,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1733588899,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130818,
+      "num": 130818,
+      "word": "王楚钦说最后一局心态有起伏",
+      "onboard_time": 1733648179,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130676,
@@ -1811,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77932,
+      "num": 503920,
+      "word": "以色列向叙利亚边境大幅增兵",
+      "onboard_time": 1733648599,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77315,
       "num": 445496,
       "word": "市监局回应紫燕产品大肠菌群超标",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1733581762,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69250,
+      "num": 118448,
+      "word": "50天后过第一个非遗版春节",
+      "onboard_time": 1733649199,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68619,
@@ -2092,7 +2172,7 @@
     },
     {
       "raw_hot": 27538,
-      "num": 122102,
+      "num": 498314,
       "word": "建议冬天旅行前先去趟波司登",
       "onboard_time": 1733647279,
       "rank": 47,
@@ -2105,6 +2185,14 @@
       "onboard_time": 1733589439,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25340,
+      "num": 1046535,
+      "word": "神十九乘组在轨工作都忙些啥",
+      "onboard_time": 1733649318,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 24390,
@@ -2155,6 +2243,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17422,
+      "num": 274174,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1733649620,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 17244,
       "num": 337668,
       "word": "国乒10连胜",
@@ -2201,6 +2297,14 @@
       "onboard_time": 1733614094,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12032,
+      "num": 179769,
+      "word": "上海申论",
+      "onboard_time": 1733648480,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 10275,
