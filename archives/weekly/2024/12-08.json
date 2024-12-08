@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733667645143,
+  "endTime": 1733668735646,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1345985,
+      "num": 1345985,
+      "word": "侯明昊因飞机改签错过偶像麦迪",
+      "onboard_time": 1733665701,
+      "rank": 1,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1334686,
       "num": 1334686,
       "word": "中山美穗死因系意外事故",
@@ -153,14 +161,6 @@
       "onboard_time": 1733652080,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1222337,
-      "num": 1222337,
-      "word": "侯明昊因飞机改签错过偶像麦迪",
-      "onboard_time": 1733665701,
-      "rank": 1,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1219352,
@@ -203,6 +203,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1055811,
+      "num": 1055811,
+      "word": "赵丽颖带想想看泉州烟花秀",
+      "onboard_time": 1733668161,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 976275,
       "num": 387406,
       "word": "腾讯和芒果纷纷来添乱",
@@ -243,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 901024,
+      "num": 901024,
+      "word": "网曝多名年轻人合伙骗领虐猫",
+      "onboard_time": 1733665341,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 899444,
       "num": 1143911,
       "word": "秦岚一把搂住虞书欣",
@@ -273,6 +289,14 @@
       "onboard_time": 1733664500,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829866,
+      "num": 829866,
+      "word": "韩安冉对网友发火",
+      "onboard_time": 1733667021,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 826188,
@@ -537,6 +561,14 @@
       "onboard_time": 1733636540,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 570394,
+      "num": 570394,
+      "word": "叶祖新 告诉若曦我不是草包",
+      "onboard_time": 1733668161,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 565990,
@@ -923,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353152,
-      "num": 353152,
-      "word": "网曝多名年轻人合伙骗领虐猫",
-      "onboard_time": 1733665341,
-      "rank": 22,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 348893,
       "num": 250544,
       "word": "长期久坐的3个自救方法",
@@ -1035,20 +1059,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307854,
+      "num": 345714,
+      "word": "混团冠军国乒自拍",
+      "onboard_time": 1733666122,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
       "onboard_time": 1733655499,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303382,
-      "num": 345714,
-      "word": "混团冠军国乒自拍",
-      "onboard_time": 1733666122,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 302987,
@@ -1291,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244815,
+      "num": 244815,
+      "word": "马云现场祝福蚂蚁20岁生日",
+      "onboard_time": 1733666481,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 244708,
       "num": 323115,
       "word": "网传火车站内一女子掌掴工作人员",
@@ -1395,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223799,
+      "num": 223799,
+      "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
+      "onboard_time": 1733666901,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222841,
       "num": 222841,
       "word": "第一次看到女儿的男友",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1733661260,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220415,
+      "num": 448989,
+      "word": "杨紫家业大婚路透",
+      "onboard_time": 1733668161,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 219893,
@@ -1435,12 +1483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211912,
-      "num": 211912,
-      "word": "马云现场祝福蚂蚁20岁生日",
-      "onboard_time": 1733666481,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 213426,
+      "num": 537951,
+      "word": "央视曝光低价宠物粮乱象",
+      "onboard_time": 1733667140,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 210005,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1733664203,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204725,
+      "num": 204725,
+      "word": "王楚钦梁靖崑抢座位",
+      "onboard_time": 1733668701,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 203741,
@@ -1619,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193461,
+      "num": 193461,
+      "word": "柳智敏羊毛卷",
+      "onboard_time": 1733668281,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "中国短道队5000米接力金牌",
@@ -1643,12 +1707,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191967,
-      "num": 191967,
-      "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
-      "onboard_time": 1733666901,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 192801,
+      "num": 192801,
+      "word": "曝杨紫成毅合体湖南卫视跨年",
+      "onboard_time": 1733668582,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 191144,
@@ -1777,6 +1841,14 @@
       "onboard_time": 1733637198,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185322,
+      "num": 185322,
+      "word": "汪苏泷2024巡演今日收官",
+      "onboard_time": 1733668462,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 184744,
@@ -1923,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173225,
+      "num": 173225,
+      "word": "eStar对战WB",
+      "onboard_time": 1733668521,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171264,
       "num": 171264,
       "word": "国乒晚上决赛见",
@@ -2044,7 +2124,7 @@
     },
     {
       "raw_hot": 162451,
-      "num": 179339,
+      "num": 270846,
       "word": "球打到王楚钦身上裁判改判",
       "onboard_time": 1733664801,
       "rank": 45,
@@ -2153,14 +2233,6 @@
       "onboard_time": 1733612713,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151462,
-      "num": 453032,
-      "word": "韩安冉对网友发火",
-      "onboard_time": 1733667021,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 149983,
@@ -2611,6 +2683,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 107058,
+      "num": 520214,
+      "word": "私家车挡救护车致老人看病延误",
+      "onboard_time": 1733666604,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106956,
       "num": 110802,
       "word": "李子柒头戴非遗漆珠发卡亮相九寨沟",
@@ -2787,14 +2867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78179,
-      "num": 520214,
-      "word": "私家车挡救护车致老人看病延误",
-      "onboard_time": 1733666604,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78162,
       "num": 38102,
       "word": "血观音",
@@ -2851,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72011,
+      "num": 627170,
+      "word": "患者为举证药王谷愿以身试药",
+      "onboard_time": 1733667081,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69860,
       "num": 181122,
       "word": "国债安排得明明白白效果也会实实在在",
@@ -2889,14 +2969,6 @@
       "onboard_time": 1733640679,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67467,
-      "num": 521655,
-      "word": "央视曝光低价宠物粮乱象",
-      "onboard_time": 1733667140,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 66969,
@@ -3009,14 +3081,6 @@
       "onboard_time": 1733660600,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 46916,
-      "num": 525789,
-      "word": "患者为举证药王谷愿以身试药",
-      "onboard_time": 1733667081,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45194,
@@ -3171,7 +3235,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31611,
+      "raw_hot": 31722,
       "num": 539024,
       "word": "F1",
       "onboard_time": 1733582662,
