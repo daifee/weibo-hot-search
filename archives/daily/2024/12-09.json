@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733678369328,
+  "endTime": 1733679471068,
   "band_list": [
     {
       "raw_hot": 826044,
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177463,
-      "num": 177463,
+      "raw_hot": 189121,
+      "num": 189121,
       "word": "女子湖边打卡遭无人机撞脸",
       "onboard_time": 1733676316,
       "rank": 12,
@@ -403,12 +403,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50942,
+      "num": 155372,
+      "word": "韩国总理及执政党党首发表共同讲话",
+      "onboard_time": 1733678713,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45203,
       "num": 66673,
       "word": "窦昭把邬善收了吧",
       "onboard_time": 1733667741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37552,
+      "num": 49636,
+      "word": "严浩翔新歌今晚记得来听",
+      "onboard_time": 1733679314,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 33842,
+      "num": 49630,
+      "word": "李昀锐谢谢你",
+      "onboard_time": 1733665941,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 21476,
+      "num": 244390,
+      "word": "中国春节的N种打开方式",
+      "onboard_time": 1733662520,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19951,
@@ -433,19 +465,14 @@
       "onboard_time": 1733677515,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12574,
-      "num": 244390,
-      "word": "中国春节的N种打开方式",
-      "onboard_time": 1733662520,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
     }
   ]
 }

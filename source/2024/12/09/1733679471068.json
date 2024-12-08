@@ -1,0 +1,410 @@
+{
+  "runTime": 1733679471068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 327099,
+        "num": 407353,
+        "word": "孙颖莎阻止王楚钦继续用丢分球",
+        "onboard_time": 1733662760,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237977,
+        "num": 237977,
+        "word": "深圳连夜拆除不锈钢盲道",
+        "onboard_time": 1733669302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21476,
+        "num": 213232,
+        "word": "中国春节的N种打开方式",
+        "onboard_time": 1733662520,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281037,
+        "num": 207611,
+        "word": "韩安冉对网友发火",
+        "onboard_time": 1733667021,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189121,
+        "num": 189121,
+        "word": "女子湖边打卡遭无人机撞脸",
+        "onboard_time": 1733676316,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301456,
+        "num": 186331,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182930,
+        "num": 182930,
+        "word": "叶祖新 告诉若曦我不是草包",
+        "onboard_time": 1733668161,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163144,
+        "num": 163144,
+        "word": "特朗普称俄乌立即停火时机已成熟",
+        "onboard_time": 1733672659,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160764,
+        "num": 160764,
+        "word": "低价宠物粮竟多加蒙脱石",
+        "onboard_time": 1733673919,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50942,
+        "num": 155372,
+        "word": "韩国总理及执政党党首发表共同讲话",
+        "onboard_time": 1733678713,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150950,
+        "num": 150950,
+        "word": "虞书欣回应接双轨的原因",
+        "onboard_time": 1733656220,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145003,
+        "num": 145003,
+        "word": "黄子韬携专辑回归",
+        "onboard_time": 1733673799,
+        "rank": 11,
+        "category": "音乐,演出"
+      },
+      {
+        "raw_hot": 131009,
+        "num": 131009,
+        "word": "赵丽颖带想想看泉州烟花秀",
+        "onboard_time": 1733668161,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107373,
+        "num": 107373,
+        "word": "侯明昊因飞机改签错过偶像麦迪",
+        "onboard_time": 1733665701,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 104605,
+        "num": 104605,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95913,
+        "num": 95913,
+        "word": "警方通报某幼教机构卫生间发现摄像头",
+        "onboard_time": 1733670320,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 88939,
+        "num": 88939,
+        "word": "蔡国强泉州烟花秀出意外",
+        "onboard_time": 1733665522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87734,
+        "num": 87734,
+        "word": "叙利亚局势突变意味着什么",
+        "onboard_time": 1733671641,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71671,
+        "num": 71671,
+        "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
+        "onboard_time": 1733666901,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277748,
+        "num": 71503,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70970,
+        "num": 70970,
+        "word": "九重紫 烂人错过",
+        "onboard_time": 1733663662,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66747,
+        "num": 66747,
+        "word": "中国政府已协助有意愿中国公民离叙",
+        "onboard_time": 1733673861,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66108,
+        "num": 66108,
+        "word": "莎头 爆分",
+        "onboard_time": 1733658260,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40954,
+        "num": 65645,
+        "word": "汉密尔顿 法拉利",
+        "onboard_time": 1733672238,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65612,
+        "num": 65612,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64859,
+        "num": 64859,
+        "word": "大冰 免费羽绒服",
+        "onboard_time": 1733658800,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62288,
+        "num": 62288,
+        "word": "福宝正式检测结果将公布",
+        "onboard_time": 1733671462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60165,
+        "num": 60165,
+        "word": "王楚钦说再次打混双挺感慨",
+        "onboard_time": 1733673619,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59251,
+        "num": 59251,
+        "word": "丁禹兮姐夫一号",
+        "onboard_time": 1733659221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57832,
+        "num": 57832,
+        "word": "43岁孕妇吃保胎药后大出血流产",
+        "onboard_time": 1733660120,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56699,
+        "num": 56699,
+        "word": "叙利亚民众进入阿萨德住宅",
+        "onboard_time": 1733664380,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56592,
+        "num": 56592,
+        "word": "白桃星座",
+        "onboard_time": 1733669901,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55668,
+        "num": 55668,
+        "word": "檀健次回应粉丝结婚",
+        "onboard_time": 1733669363,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54426,
+        "num": 54426,
+        "word": "周杰伦演唱会嘉宾是五月天",
+        "onboard_time": 1733666122,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54052,
+        "num": 54052,
+        "word": "阿萨德离开叙利亚",
+        "onboard_time": 1733660661,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53269,
+        "num": 53269,
+        "word": "BL战队传奇杯夺冠",
+        "onboard_time": 1733670800,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52518,
+        "num": 52518,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49649,
+        "num": 49649,
+        "word": "王楚钦说和孙颖莎都做到全力以赴",
+        "onboard_time": 1733671941,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45194,
+        "num": 49649,
+        "word": "婴儿出生5天确诊遗传性罕见病",
+        "onboard_time": 1733656519,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44273,
+        "num": 49646,
+        "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+        "onboard_time": 1733656340,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43154,
+        "num": 49646,
+        "word": "王楚钦用身体接住了韩国队的球",
+        "onboard_time": 1733671999,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41636,
+        "num": 49644,
+        "word": "窦昭把邬善收了吧",
+        "onboard_time": 1733667741,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40629,
+        "num": 49643,
+        "word": "汪苏泷2024巡演今日收官",
+        "onboard_time": 1733668462,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39297,
+        "num": 49640,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38953,
+        "num": 49640,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37552,
+        "num": 49636,
+        "word": "严浩翔新歌今晚记得来听",
+        "onboard_time": 1733679314,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36248,
+        "num": 49635,
+        "word": "王楚钦 谁还不会用个鹰眼",
+        "onboard_time": 1733664500,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34779,
+        "num": 49633,
+        "word": "我是刑警第10个恶性大案",
+        "onboard_time": 1733670021,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34577,
+        "num": 49632,
+        "word": "杨紫家业大婚路透",
+        "onboard_time": 1733668161,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33842,
+        "num": 49630,
+        "word": "李昀锐谢谢你",
+        "onboard_time": 1733665941,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}
