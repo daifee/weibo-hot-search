@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733653414972,
+  "endTime": 1733654494378,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261376,
+      "num": 1261376,
+      "word": "爱艺奇副总裁回应双轨争议",
+      "onboard_time": 1733652080,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1219352,
       "num": 1219352,
       "word": "申论",
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 898881,
-      "num": 595916,
-      "word": "爱艺奇副总裁回应双轨争议",
-      "onboard_time": 1733652080,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 893178,
       "num": 244795,
       "word": "成毅尖叫男演员",
@@ -232,6 +232,14 @@
       "word": "阿萨德",
       "onboard_time": 1733626818,
       "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 764134,
+      "num": 764134,
+      "word": "叙利亚国家军队说阿萨德政权已结束",
+      "onboard_time": 1733649260,
+      "rank": 33,
       "category": "国际时政"
     },
     {
@@ -339,14 +347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 611326,
-      "num": 611326,
-      "word": "叙利亚国家军队说阿萨德政权已结束",
-      "onboard_time": 1733649260,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 599618,
       "num": 557314,
       "word": "虞书欣尖叫之夜状态对比",
@@ -443,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 530208,
+      "num": 559096,
+      "word": "感觉整个车厢都是去考公的",
+      "onboard_time": 1733650099,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
@@ -515,14 +523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 474740,
-      "num": 474740,
-      "word": "感觉整个车厢都是去考公的",
-      "onboard_time": 1733650099,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 466058,
       "num": 191827,
       "word": "双轨官宣",
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 429898,
-      "num": 348129,
+      "num": 371061,
       "word": "专家表示胃癌是喂出来的癌症",
       "onboard_time": 1733651359,
       "rank": 20,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 347776,
-      "num": 347776,
+      "num": 356780,
       "word": "大冰回应免费发放羽绒济南站取消",
       "onboard_time": 1733650040,
       "rank": 44,
@@ -697,6 +697,22 @@
       "onboard_time": 1733643559,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340847,
+      "num": 340847,
+      "word": "大马士革响起密集枪声",
+      "onboard_time": 1733651661,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 335490,
+      "num": 397384,
+      "word": "何与九重紫演王爷",
+      "onboard_time": 1733653160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 326339,
@@ -715,20 +731,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 312851,
+      "num": 312851,
+      "word": "九重紫",
+      "onboard_time": 1733567363,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312430,
       "num": 312430,
       "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
       "onboard_time": 1733623639,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312088,
-      "num": 260830,
-      "word": "大马士革响起密集枪声",
-      "onboard_time": 1733651661,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 302987,
@@ -827,14 +843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 270986,
-      "num": 270986,
-      "word": "九重紫",
-      "onboard_time": 1733567363,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269801,
       "num": 269801,
       "word": "sana裙子",
@@ -931,6 +939,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 243524,
+      "num": 365177,
+      "word": "TheShy LPL我回来了",
+      "onboard_time": 1733653160,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -971,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215624,
+      "num": 215624,
+      "word": "考研最大的意义是认清自己",
+      "onboard_time": 1733651540,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215598,
       "num": 215598,
       "word": "沈翊上了三年班终于疯了",
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207337,
+      "num": 207337,
+      "word": "孙滢皓发文",
+      "onboard_time": 1733653820,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203741,
       "num": 203741,
       "word": "疑有人领到大冰免费羽绒服后转卖",
@@ -995,20 +1027,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202863,
-      "num": 202863,
-      "word": "何与九重紫演王爷",
-      "onboard_time": 1733653160,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202657,
       "num": 202657,
       "word": "不要一直坐坐坐坐坐",
       "onboard_time": 1733626878,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201197,
+      "num": 201197,
+      "word": "年轻人开始给自己去班味了",
+      "onboard_time": 1733654239,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 200763,
@@ -1147,6 +1179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188805,
+      "num": 188805,
+      "word": "广州地铁",
+      "onboard_time": 1733650818,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188758,
       "num": 188758,
       "word": "黄景瑜害羞了",
@@ -1171,20 +1211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185670,
-      "num": 185670,
-      "word": "广州地铁",
-      "onboard_time": 1733650818,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185571,
       "num": 185571,
       "word": "虞书欣的预告好像连续剧",
       "onboard_time": 1733637198,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185363,
+      "num": 185363,
+      "word": "80%胃癌与幽门螺杆菌有关",
+      "onboard_time": 1733654419,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184711,
@@ -1267,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173944,
+      "num": 376344,
+      "word": "陈丽君回应粉丝",
+      "onboard_time": 1733653040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171264,
       "num": 171264,
       "word": "国乒晚上决赛见",
@@ -1299,28 +1347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168998,
-      "num": 168998,
-      "word": "考研最大的意义是认清自己",
-      "onboard_time": 1733651540,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 168787,
       "num": 168787,
       "word": "刘诗诗我会继续努力哒",
       "onboard_time": 1733644759,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168094,
-      "num": 332746,
-      "word": "TheShy LPL我回来了",
-      "onboard_time": 1733653160,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 167815,
@@ -1907,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108034,
+      "num": 433366,
+      "word": "用浏阳烟花打开星际之门",
+      "onboard_time": 1733651359,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 107235,
       "num": 69227,
       "word": "张艺兴此身分明了",
@@ -1987,6 +2027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93795,
+      "num": 346590,
+      "word": "偶遇赵丽颖看烟花秀",
+      "onboard_time": 1733654358,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93012,
       "num": 582399,
       "word": "外交部回应叙利亚局势发展",
@@ -2043,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84222,
+      "num": 341351,
+      "word": "九重紫 心头血变朱砂痣",
+      "onboard_time": 1733654239,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81924,
       "num": 109521,
       "word": "国乒赛后发布会也光速下班了",
@@ -2097,6 +2153,14 @@
       "onboard_time": 1733646860,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 72675,
+      "num": 383581,
+      "word": "莎头出战混团决赛",
+      "onboard_time": 1733653937,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 72121,
@@ -2179,14 +2243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61733,
-      "num": 325623,
-      "word": "陈丽君回应粉丝",
-      "onboard_time": 1733653040,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57276,
       "num": 57276,
       "word": "29岁退伍军人跳河救人全身冻通红",
@@ -2201,6 +2257,14 @@
       "onboard_time": 1733590280,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55023,
+      "num": 389735,
+      "word": "国乒决赛阵容公布",
+      "onboard_time": 1733653937,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 54459,
@@ -2225,6 +2289,14 @@
       "onboard_time": 1733587221,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 45226,
+      "num": 340887,
+      "word": "电影误判",
+      "onboard_time": 1733654180,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 45194,
@@ -2412,7 +2484,7 @@
     },
     {
       "raw_hot": 24382,
-      "num": 340685,
+      "num": 362237,
       "word": "又又又在波司登门店偶遇明星了",
       "onboard_time": 1733652260,
       "rank": 23,
