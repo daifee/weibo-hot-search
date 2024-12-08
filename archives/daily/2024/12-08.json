@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733643370329,
+  "endTime": 1733646518954,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1596732,
-      "num": 287715,
+      "num": 532989,
       "word": "灵隐寺",
       "onboard_time": 1733635641,
       "rank": 23,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1160957,
+      "num": 522622,
+      "word": "学生把头发扎舌头上写纸条求助",
+      "onboard_time": 1733645059,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1079435,
       "num": 1172709,
       "word": "多邻国裂了",
@@ -83,12 +91,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 976691,
+      "num": 1156270,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1733646318,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 976275,
       "num": 387406,
       "word": "腾讯和芒果纷纷来添乱",
       "onboard_time": 1733586742,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 954205,
+      "num": 954205,
+      "word": "叙利亚总统",
+      "onboard_time": 1733640619,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 910968,
+      "num": 910968,
+      "word": "周杰伦回复陈冠希",
+      "onboard_time": 1733640019,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 899444,
@@ -105,14 +137,6 @@
       "onboard_time": 1733584942,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 879091,
-      "num": 879091,
-      "word": "周杰伦回复陈冠希",
-      "onboard_time": 1733640019,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 877002,
@@ -235,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 643975,
+      "num": 643975,
+      "word": "ELLE 孙颖莎",
+      "onboard_time": 1733642779,
+      "rank": 9,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 625834,
       "num": 482681,
       "word": "包贝尔二胎叫面条",
@@ -249,6 +281,14 @@
       "onboard_time": 1733639900,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 591701,
+      "num": 591701,
+      "word": "高校学生买7件演出服穿完集体退货",
+      "onboard_time": 1733642539,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 570839,
@@ -272,14 +312,6 @@
       "word": "马克龙与特朗普握手笑容逐渐消失",
       "onboard_time": 1733624296,
       "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 561884,
-      "num": 561884,
-      "word": "叙利亚总统",
-      "onboard_time": 1733640619,
-      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -315,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 533676,
+      "num": 533676,
+      "word": "多邻国APP 裂了",
+      "onboard_time": 1733638279,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
@@ -329,6 +369,14 @@
       "onboard_time": 1733587221,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513775,
+      "num": 513775,
+      "word": "iG全神班首秀",
+      "onboard_time": 1733640438,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 505469,
@@ -361,6 +409,14 @@
       "onboard_time": 1733634140,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 478679,
+      "num": 478679,
+      "word": "孟子义一年级哪有这么好的条件",
+      "onboard_time": 1733639660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 478657,
@@ -419,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421218,
+      "num": 421218,
+      "word": "九重紫8集定律",
+      "onboard_time": 1733644401,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418171,
       "num": 484199,
       "word": "喝咖啡加牛奶可增加抗炎效果",
@@ -467,14 +531,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 378968,
-      "num": 260219,
-      "word": "孟子义一年级哪有这么好的条件",
-      "onboard_time": 1733639660,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 378553,
       "num": 378553,
       "word": "特朗普马克龙泽连斯基三方会晤",
@@ -489,14 +545,6 @@
       "onboard_time": 1733628860,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353355,
-      "num": 353355,
-      "word": "ELLE 孙颖莎",
-      "onboard_time": 1733642779,
-      "rank": 9,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 348893,
@@ -515,6 +563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 329712,
+      "num": 527126,
+      "word": "母女二人拒不让座被乘警带走",
+      "onboard_time": 1733645478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326339,
       "num": 136151,
       "word": "尖叫女神竟是iejj",
@@ -523,8 +579,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320524,
-      "num": 259210,
+      "raw_hot": 325323,
+      "num": 279090,
       "word": "频繁早醒的人可能是病了",
       "onboard_time": 1733641519,
       "rank": 24,
@@ -537,6 +593,14 @@
       "onboard_time": 1733623639,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304683,
+      "num": 304683,
+      "word": "尖叫之夜获奖全名单",
+      "onboard_time": 1733643559,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 302987,
@@ -595,12 +659,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286516,
+      "num": 278594,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
       "onboard_time": 1733585662,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280602,
+      "num": 280602,
+      "word": "王者荣耀",
+      "onboard_time": 1733645298,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277299,
+      "num": 277299,
+      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+      "onboard_time": 1733640259,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276145,
@@ -617,6 +705,14 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269801,
+      "num": 269801,
+      "word": "sana裙子",
+      "onboard_time": 1733644639,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269555,
@@ -723,12 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209390,
-      "num": 244308,
-      "word": "高校学生买7件演出服穿完集体退货",
-      "onboard_time": 1733642539,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 209553,
+      "num": 209553,
+      "word": "杨旭文一晚上领了3个奖",
+      "onboard_time": 1733645478,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 205684,
@@ -777,14 +873,6 @@
       "onboard_time": 1733623459,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199535,
-      "num": 199535,
-      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
-      "onboard_time": 1733640259,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197222,
@@ -939,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182246,
+      "num": 171125,
+      "word": "叙利亚国内局势骤然升级",
+      "onboard_time": 1733643799,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179852,
       "num": 179852,
       "word": "白鹿曾舜晞丞磊合照",
@@ -1003,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168787,
+      "num": 168787,
+      "word": "刘诗诗我会继续努力哒",
+      "onboard_time": 1733644759,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167815,
       "num": 167815,
       "word": "上班后朋友圈数据都变差了",
@@ -1049,14 +1153,6 @@
       "onboard_time": 1733638159,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164137,
-      "num": 224549,
-      "word": "iG全神班首秀",
-      "onboard_time": 1733640438,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 162606,
@@ -1132,7 +1228,7 @@
     },
     {
       "raw_hot": 153655,
-      "num": 153655,
+      "num": 277564,
       "word": "Bin阻止队友虐泉",
       "onboard_time": 1733638219,
       "rank": 45,
@@ -1323,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134168,
+      "num": 134168,
+      "word": "肖四出了",
+      "onboard_time": 1733643498,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133179,
       "num": 114152,
       "word": "赵丽颖",
@@ -1347,6 +1451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130676,
+      "num": 130676,
+      "word": "成毅正是闯祸的年纪",
+      "onboard_time": 1733643737,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129767,
       "num": 129767,
       "word": "丁禹兮健身房健身vlog",
@@ -1363,6 +1475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126275,
+      "num": 126275,
+      "word": "谭松韵没有台词的眼技",
+      "onboard_time": 1733644879,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125251,
       "num": 487321,
       "word": "反政府武装称已进入大马士革",
@@ -1377,6 +1497,14 @@
       "onboard_time": 1733621419,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124839,
+      "num": 124839,
+      "word": "跑男又给张真源打歌了",
+      "onboard_time": 1733645777,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124768,
@@ -1508,7 +1636,7 @@
     },
     {
       "raw_hot": 107136,
-      "num": 917408,
+      "num": 919329,
       "word": "2024这些精美文物成了网红爆款",
       "onboard_time": 1733617937,
       "rank": 2,
@@ -1561,6 +1689,14 @@
       "onboard_time": 1733641340,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93545,
+      "num": 279872,
+      "word": "大城市里是千千万万的阿娟",
+      "onboard_time": 1733645958,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 91613,
@@ -1691,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66969,
+      "num": 286903,
+      "word": "顶尖舞者",
+      "onboard_time": 1733645659,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -1761,6 +1905,14 @@
       "onboard_time": 1733636117,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42932,
+      "num": 283570,
+      "word": "网红速成班套路有多深",
+      "onboard_time": 1733644940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39342,

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733643370329,
+  "endTime": 1733646518954,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 1596732,
-      "num": 287715,
+      "num": 532989,
       "word": "灵隐寺",
       "onboard_time": 1733635641,
       "rank": 23,
@@ -1211,6 +1211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1160957,
+      "num": 522622,
+      "word": "学生把头发扎舌头上写纸条求助",
+      "onboard_time": 1733645059,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1157052,
       "num": 1157052,
       "word": "女子收骗子礼物后立即删了骗子",
@@ -1619,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 976691,
+      "num": 1156270,
+      "word": "iG官宣新阵容",
+      "onboard_time": 1733646318,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 976275,
       "num": 387406,
       "word": "腾讯和芒果纷纷来添乱",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1733142205,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 954205,
+      "num": 954205,
+      "word": "叙利亚总统",
+      "onboard_time": 1733640619,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 953985,
@@ -1867,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910968,
+      "num": 910968,
+      "word": "周杰伦回复陈冠希",
+      "onboard_time": 1733640019,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 909729,
       "num": 1110361,
       "word": "霍思燕带女儿和朋友聚餐",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1733366898,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 879091,
-      "num": 879091,
-      "word": "周杰伦回复陈冠希",
-      "onboard_time": 1733640019,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 878632,
@@ -3051,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643975,
+      "num": 643975,
+      "word": "ELLE 孙颖莎",
+      "onboard_time": 1733642779,
+      "rank": 9,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 642410,
       "num": 915788,
       "word": "215元存银行19年只剩8元",
@@ -3467,6 +3499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 591701,
+      "num": 591701,
+      "word": "高校学生买7件演出服穿完集体退货",
+      "onboard_time": 1733642539,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -3657,14 +3697,6 @@
       "onboard_time": 1733545520,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 561884,
-      "num": 561884,
-      "word": "叙利亚总统",
-      "onboard_time": 1733640619,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 561144,
@@ -4003,6 +4035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 533676,
+      "num": 533676,
+      "word": "多邻国APP 裂了",
+      "onboard_time": 1733638279,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 533023,
       "num": 533023,
       "word": "网红公司盯上在校大学生",
@@ -4225,6 +4265,14 @@
       "onboard_time": 1733034678,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 513775,
+      "num": 513775,
+      "word": "iG全神班首秀",
+      "onboard_time": 1733640438,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 513680,
@@ -4633,6 +4681,14 @@
       "onboard_time": 1733543960,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 478679,
+      "num": 478679,
+      "word": "孟子义一年级哪有这么好的条件",
+      "onboard_time": 1733639660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 478657,
@@ -5475,6 +5531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421218,
+      "num": 421218,
+      "word": "九重紫8集定律",
+      "onboard_time": 1733644401,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421199,
       "num": 430065,
       "word": "卢昱晓 小香千金",
@@ -6131,14 +6195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 378968,
-      "num": 260219,
-      "word": "孟子义一年级哪有这么好的条件",
-      "onboard_time": 1733639660,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 378609,
       "num": 305758,
       "word": "苏醒晒与武艺聊天记录",
@@ -6571,14 +6627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353355,
-      "num": 353355,
-      "word": "ELLE 孙颖莎",
-      "onboard_time": 1733642779,
-      "rank": 9,
-      "category": "体育,时尚"
-    },
-    {
       "raw_hot": 352600,
       "num": 352600,
       "word": "祝绪丹 自己吓自己",
@@ -6979,6 +7027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329712,
+      "num": 527126,
+      "word": "母女二人拒不让座被乘警带走",
+      "onboard_time": 1733645478,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329516,
       "num": 329516,
       "word": "韩国多家大型企业劝导员工居家办公",
@@ -7099,6 +7155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325323,
+      "num": 279090,
+      "word": "频繁早醒的人可能是病了",
+      "onboard_time": 1733641519,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 324680,
       "num": 324680,
       "word": "女子被探店博主拍到出镜获赔1万元",
@@ -7161,14 +7225,6 @@
       "onboard_time": 1733564419,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320524,
-      "num": 259210,
-      "word": "频繁早醒的人可能是病了",
-      "onboard_time": 1733641519,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 320409,
@@ -7401,6 +7457,14 @@
       "onboard_time": 1733529856,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 304683,
+      "num": 304683,
+      "word": "尖叫之夜获奖全名单",
+      "onboard_time": 1733643559,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 304680,
@@ -7843,6 +7907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286516,
+      "num": 278594,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286413,
       "num": 286413,
       "word": "在日本捡到了韩国人的手机",
@@ -7963,6 +8035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280602,
+      "num": 280602,
+      "word": "王者荣耀",
+      "onboard_time": 1733645298,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280585,
       "num": 501027,
       "word": "我妈果然偏爱谭松韵",
@@ -8033,6 +8113,14 @@
       "onboard_time": 1733313022,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277299,
+      "num": 277299,
+      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+      "onboard_time": 1733640259,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277294,
@@ -8225,6 +8313,14 @@
       "onboard_time": 1733389818,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269801,
+      "num": 269801,
+      "word": "sana裙子",
+      "onboard_time": 1733644639,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269545,
@@ -10291,6 +10387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209553,
+      "num": 209553,
+      "word": "杨旭文一晚上领了3个奖",
+      "onboard_time": 1733645478,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209441,
       "num": 209441,
       "word": "GALA分享iG卡莎",
@@ -10313,14 +10417,6 @@
       "onboard_time": 1733236585,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209390,
-      "num": 244308,
-      "word": "高校学生买7件演出服穿完集体退货",
-      "onboard_time": 1733642539,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209310,
@@ -11057,14 +11153,6 @@
       "onboard_time": 1733569641,
       "rank": 40,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 199535,
-      "num": 199535,
-      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
-      "onboard_time": 1733640259,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199447,
@@ -12611,6 +12699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182246,
+      "num": 171125,
+      "word": "叙利亚国内局势骤然升级",
+      "onboard_time": 1733643799,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182233,
       "num": 182233,
       "word": "A股再现无厘头炒作逻辑",
@@ -13635,6 +13731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168787,
+      "num": 168787,
+      "word": "刘诗诗我会继续努力哒",
+      "onboard_time": 1733644759,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168715,
       "num": 168715,
       "word": "大冰含金量还在上升",
@@ -14097,14 +14201,6 @@
       "onboard_time": 1732980260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164137,
-      "num": 224549,
-      "word": "iG全神班首秀",
-      "onboard_time": 1733640438,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 163769,
@@ -15124,7 +15220,7 @@
     },
     {
       "raw_hot": 153655,
-      "num": 153655,
+      "num": 277564,
       "word": "Bin阻止队友虐泉",
       "onboard_time": 1733638219,
       "rank": 45,
@@ -16987,6 +17083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134168,
+      "num": 134168,
+      "word": "肖四出了",
+      "onboard_time": 1733643498,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134163,
       "num": 134163,
       "word": "Tim带你逛影视飓风",
@@ -17273,6 +17377,14 @@
       "onboard_time": 1732972580,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130676,
+      "num": 130676,
+      "word": "成毅正是闯祸的年纪",
+      "onboard_time": 1733643737,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 130515,
@@ -17603,6 +17715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126275,
+      "num": 126275,
+      "word": "谭松韵没有台词的眼技",
+      "onboard_time": 1733644879,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126089,
       "num": 325904,
       "word": "严浩翔电影杀青",
@@ -17761,6 +17881,14 @@
       "onboard_time": 1733556678,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124839,
+      "num": 124839,
+      "word": "跑男又给张真源打歌了",
+      "onboard_time": 1733645777,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124817,
@@ -19244,7 +19372,7 @@
     },
     {
       "raw_hot": 107136,
-      "num": 917408,
+      "num": 919329,
       "word": "2024这些精美文物成了网红爆款",
       "onboard_time": 1733617937,
       "rank": 2,
@@ -20233,6 +20361,14 @@
       "onboard_time": 1732978822,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93545,
+      "num": 279872,
+      "word": "大城市里是千千万万的阿娟",
+      "onboard_time": 1733645958,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 93511,
@@ -21817,6 +21953,14 @@
       "onboard_time": 1733397081,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66969,
+      "num": 286903,
+      "word": "顶尖舞者",
+      "onboard_time": 1733645659,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 66727,
@@ -23953,6 +24097,14 @@
       "onboard_time": 1733075293,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42932,
+      "num": 283570,
+      "word": "网红速成班套路有多深",
+      "onboard_time": 1733644940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42906,
