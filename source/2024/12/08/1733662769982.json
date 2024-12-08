@@ -1,0 +1,402 @@
+{
+  "runTime": 1733662769982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2774352,
+        "num": 2774352,
+        "word": "莎头 爆分",
+        "onboard_time": 1733658260,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1291552,
+        "num": 1291552,
+        "word": "鹰眼",
+        "onboard_time": 1733658859,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38683,
+        "num": 1240338,
+        "word": "中国春节的N种打开方式",
+        "onboard_time": 1733662520,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1189566,
+        "num": 1189566,
+        "word": "俄称阿萨德已放弃叙利亚总统职位",
+        "onboard_time": 1733658260,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1106446,
+        "num": 1106446,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1005671,
+        "num": 1005671,
+        "word": "43岁孕妇吃保胎药后大出血流产",
+        "onboard_time": 1733660120,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 749490,
+        "num": 749490,
+        "word": "大冰 免费羽绒服",
+        "onboard_time": 1733658800,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 672196,
+        "num": 672196,
+        "word": "虞书欣回应接双轨的原因",
+        "onboard_time": 1733656220,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372265,
+        "num": 652569,
+        "word": "国乒11连胜夺冠",
+        "onboard_time": 1733661741,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 644428,
+        "num": 644428,
+        "word": "丁禹兮姐夫一号",
+        "onboard_time": 1733659221,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1341145,
+        "num": 644405,
+        "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+        "onboard_time": 1733656340,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639001,
+        "num": 639001,
+        "word": "孙颖莎谈混双比赛",
+        "onboard_time": 1733660180,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527551,
+        "num": 527551,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488875,
+        "num": 488875,
+        "word": "这球为什么要挑战",
+        "onboard_time": 1733661020,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429855,
+        "num": 429855,
+        "word": "中山美穗死因系意外事故",
+        "onboard_time": 1733649501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488113,
+        "num": 415591,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171878,
+        "num": 397083,
+        "word": "九重紫热度",
+        "onboard_time": 1733659882,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394657,
+        "num": 394657,
+        "word": "44岁的张柏芝状态",
+        "onboard_time": 1733656759,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219331,
+        "num": 390076,
+        "word": "王楚钦提醒林诗栋挑战",
+        "onboard_time": 1733661799,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415499,
+        "num": 390037,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388737,
+        "num": 388737,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357895,
+        "num": 357895,
+        "word": "这就是世一混双和其他人的区别",
+        "onboard_time": 1733662701,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351365,
+        "num": 351365,
+        "word": "偶遇赵丽颖看烟花秀",
+        "onboard_time": 1733654358,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333270,
+        "num": 333270,
+        "word": "阿萨德离开叙利亚",
+        "onboard_time": 1733660661,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324790,
+        "num": 324790,
+        "word": "杨仕泽 鸡柳只是冰山一角",
+        "onboard_time": 1733661678,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314143,
+        "num": 314143,
+        "word": "看颗牙8家诊所给出4个治疗方案",
+        "onboard_time": 1733659341,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 311552,
+        "num": 311552,
+        "word": "小水晒与陈哲远合照",
+        "onboard_time": 1733653820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299697,
+        "num": 299697,
+        "word": "婴儿出生5天确诊遗传性罕见病",
+        "onboard_time": 1733656519,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31237,
+        "num": 289745,
+        "word": "周冠宇 和大哥搭档的最后一舞",
+        "onboard_time": 1733660781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52994,
+        "num": 287015,
+        "word": "ELLE全球80周年",
+        "onboard_time": 1733654901,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 285160,
+        "num": 285160,
+        "word": "莎头组合2比1韩国组合",
+        "onboard_time": 1733659700,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272043,
+        "num": 272043,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247190,
+        "num": 247190,
+        "word": "代号鸢",
+        "onboard_time": 1733657299,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242050,
+        "num": 242050,
+        "word": "白宇拍的莎头",
+        "onboard_time": 1733662101,
+        "rank": 33,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 240800,
+        "num": 240800,
+        "word": "羊咩咩在荒漠一边吃草一边种草",
+        "onboard_time": 1733661560,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237990,
+        "num": 237990,
+        "word": "专家表示胃癌是喂出来的癌症",
+        "onboard_time": 1733651359,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224547,
+        "num": 224547,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30621,
+        "num": 223055,
+        "word": "陈丽君回应粉丝",
+        "onboard_time": 1733653040,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222032,
+        "num": 222032,
+        "word": "虞书欣观赛look",
+        "onboard_time": 1733661260,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209099,
+        "num": 209099,
+        "word": "徐艺洋带头模仿黄子韬",
+        "onboard_time": 1733645059,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193856,
+        "num": 193856,
+        "word": "泉州的浪漫这一刻具象化了",
+        "onboard_time": 1733661620,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193458,
+        "num": 193458,
+        "word": "争议球全过程",
+        "onboard_time": 1733662701,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190874,
+        "num": 190874,
+        "word": "6旬董事长思念亡母燃放特别烟花",
+        "onboard_time": 1733662520,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184558,
+        "num": 190869,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49038,
+        "num": 190867,
+        "word": "神十九乘组在轨工作都忙些啥",
+        "onboard_time": 1733649318,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 190866,
+        "num": 190866,
+        "word": "张艺兴还是太全面了",
+        "onboard_time": 1733661862,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189360,
+        "num": 189360,
+        "word": "周杰伦大巨蛋演唱会",
+        "onboard_time": 1733661260,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180829,
+        "num": 180829,
+        "word": "福宝犬瘟热病毒等抗原快检阴性",
+        "onboard_time": 1733656940,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176079,
+        "num": 176079,
+        "word": "央视曝中华口腔医学会给钱就当会员",
+        "onboard_time": 1733655139,
+        "rank": 48,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733661795321,
+  "endTime": 1733662769982,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -11,8 +11,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1941249,
-      "num": 1941249,
+      "raw_hot": 2774352,
+      "num": 2774352,
       "word": "莎头 爆分",
       "onboard_time": 1733658260,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1531741,
-      "num": 569876,
+      "num": 644405,
       "word": "女子因骑手送错餐申请退款后将餐品吃掉",
       "onboard_time": 1733656340,
       "rank": 37,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1291552,
+      "num": 1291552,
+      "word": "鹰眼",
+      "onboard_time": 1733658859,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1265294,
       "num": 1265294,
       "word": "包贝尔官宣包文婧怀二胎",
@@ -147,12 +155,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1150603,
-      "num": 1150603,
-      "word": "鹰眼",
-      "onboard_time": 1733658859,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 1106446,
+      "num": 1106446,
+      "word": "叙利亚总统阿萨德辞职",
+      "onboard_time": 1733661201,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1079435,
@@ -163,20 +171,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1005671,
+      "num": 1005671,
+      "word": "43岁孕妇吃保胎药后大出血流产",
+      "onboard_time": 1733660120,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 976275,
       "num": 387406,
       "word": "腾讯和芒果纷纷来添乱",
       "onboard_time": 1733586742,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 960553,
-      "num": 568925,
-      "word": "43岁孕妇吃保胎药后大出血流产",
-      "onboard_time": 1733660120,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 954483,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 749490,
+      "num": 749490,
+      "word": "大冰 免费羽绒服",
+      "onboard_time": 1733658800,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 743910,
       "num": 393862,
       "word": "何与 双轨",
@@ -403,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 644428,
+      "num": 644428,
+      "word": "丁禹兮姐夫一号",
+      "onboard_time": 1733659221,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643975,
       "num": 643975,
       "word": "ELLE 孙颖莎",
@@ -411,12 +435,12 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 631281,
-      "num": 631281,
-      "word": "大冰 免费羽绒服",
-      "onboard_time": 1733658800,
-      "rank": 5,
-      "category": "网红"
+      "raw_hot": 639001,
+      "num": 639001,
+      "word": "孙颖莎谈混双比赛",
+      "onboard_time": 1733660180,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 625834,
@@ -441,14 +465,6 @@
       "onboard_time": 1733642539,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 577051,
-      "num": 577051,
-      "word": "丁禹兮姐夫一号",
-      "onboard_time": 1733659221,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 570839,
@@ -595,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 488875,
+      "num": 488875,
+      "word": "这球为什么要挑战",
+      "onboard_time": 1733661020,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487236,
       "num": 487236,
       "word": "尹锡悦被立案调查",
@@ -691,14 +715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 430446,
-      "num": 430446,
-      "word": "孙颖莎谈混双比赛",
-      "onboard_time": 1733660180,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 429898,
       "num": 380364,
       "word": "专家表示胃癌是喂出来的癌症",
@@ -755,6 +771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 394657,
+      "num": 394657,
+      "word": "44岁的张柏芝状态",
+      "onboard_time": 1733656759,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394358,
       "num": 189713,
       "word": "只有付航是真来吃席的",
@@ -787,12 +811,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 372265,
+      "num": 652569,
+      "word": "国乒11连胜夺冠",
+      "onboard_time": 1733661741,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 365955,
       "num": 365955,
       "word": "老婆临盆遇车辆升级当事人回应质疑",
       "onboard_time": 1733628860,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357895,
+      "num": 357895,
+      "word": "这就是世一混双和其他人的区别",
+      "onboard_time": 1733662701,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 353645,
@@ -835,11 +875,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329529,
-      "num": 572369,
-      "word": "叙利亚总统阿萨德辞职",
-      "onboard_time": 1733661201,
-      "rank": 9,
+      "raw_hot": 333270,
+      "num": 564080,
+      "word": "阿萨德离开叙利亚",
+      "onboard_time": 1733660661,
+      "rank": 13,
       "category": "国际时政"
     },
     {
@@ -859,6 +899,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 324790,
+      "num": 324790,
+      "word": "杨仕泽 鸡柳只是冰山一角",
+      "onboard_time": 1733661678,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 314143,
+      "num": 314143,
+      "word": "看颗牙8家诊所给出4个治疗方案",
+      "onboard_time": 1733659341,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 312430,
       "num": 312430,
       "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
@@ -867,11 +923,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305486,
-      "num": 305486,
-      "word": "44岁的张柏芝状态",
-      "onboard_time": 1733656759,
-      "rank": 35,
+      "raw_hot": 311552,
+      "num": 430622,
+      "word": "小水晒与陈哲远合照",
+      "onboard_time": 1733653820,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -955,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285160,
+      "num": 285160,
+      "word": "莎头组合2比1韩国组合",
+      "onboard_time": 1733659700,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
@@ -1019,14 +1083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 260850,
-      "num": 564080,
-      "word": "阿萨德离开叙利亚",
-      "onboard_time": 1733660661,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
@@ -1049,22 +1105,6 @@
       "onboard_time": 1733638880,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255386,
-      "num": 430622,
-      "word": "小水晒与陈哲远合照",
-      "onboard_time": 1733653820,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 253942,
-      "num": 253942,
-      "word": "看颗牙8家诊所给出4个治疗方案",
-      "onboard_time": 1733659341,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 253274,
@@ -1131,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 242050,
+      "num": 242050,
+      "word": "白宇拍的莎头",
+      "onboard_time": 1733662101,
+      "rank": 33,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 241666,
       "num": 315325,
       "word": "王一博奥迪直播",
@@ -1155,6 +1203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240800,
+      "num": 240800,
+      "word": "羊咩咩在荒漠一边吃草一边种草",
+      "onboard_time": 1733661560,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -1171,28 +1227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237644,
-      "num": 237644,
-      "word": "羊咩咩在荒漠一边吃草一边种草",
-      "onboard_time": 1733661560,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236668,
       "num": 236668,
       "word": "年轻人开始给自己去班味了",
       "onboard_time": 1733654239,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 235579,
-      "num": 235579,
-      "word": "这球为什么要挑战",
-      "onboard_time": 1733661020,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 232771,
@@ -1219,11 +1259,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222032,
+      "num": 222032,
+      "word": "虞书欣观赛look",
+      "onboard_time": 1733661260,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219893,
       "num": 219893,
       "word": "王楚钦再现爆冲",
       "onboard_time": 1733628319,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 219331,
+      "num": 390076,
+      "word": "王楚钦提醒林诗栋挑战",
+      "onboard_time": 1733661799,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1323,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195981,
-      "num": 195981,
-      "word": "虞书欣观赛look",
-      "onboard_time": 1733661260,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "曾舜晞一张照片脑补出30集剧情",
@@ -1371,6 +1419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193856,
+      "num": 193856,
+      "word": "泉州的浪漫这一刻具象化了",
+      "onboard_time": 1733661620,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 193458,
+      "num": 193458,
+      "word": "争议球全过程",
+      "onboard_time": 1733662701,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "中国短道队5000米接力金牌",
@@ -1395,20 +1459,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 191175,
-      "num": 191175,
-      "word": "泉州的浪漫这一刻具象化了",
-      "onboard_time": 1733661620,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 191144,
       "num": 285323,
       "word": "郭旭晒求婚vlog",
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190874,
+      "num": 190874,
+      "word": "6旬董事长思念亡母燃放特别烟花",
+      "onboard_time": 1733662520,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190866,
+      "num": 190866,
+      "word": "张艺兴还是太全面了",
+      "onboard_time": 1733661862,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 190845,
@@ -1432,14 +1504,6 @@
       "word": "李昀锐身材比例",
       "onboard_time": 1733651179,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190386,
-      "num": 190386,
-      "word": "杨仕泽 鸡柳只是冰山一角",
-      "onboard_time": 1733661678,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1492,7 +1556,7 @@
     },
     {
       "raw_hot": 186814,
-      "num": 186814,
+      "num": 397083,
       "word": "九重紫热度",
       "onboard_time": 1733659882,
       "rank": 43,
@@ -2731,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38683,
+      "num": 1240338,
+      "word": "中国春节的N种打开方式",
+      "onboard_time": 1733662520,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38106,
       "num": 156731,
       "word": "琼瑶花葬将开放粉丝参加",
@@ -2819,6 +2891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31237,
+      "num": 289745,
+      "word": "周冠宇 和大哥搭档的最后一舞",
+      "onboard_time": 1733660781,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31010,
       "num": 36021,
       "word": "中俄双方官兵互登军舰参观交流",
@@ -2881,14 +2961,6 @@
       "onboard_time": 1733649620,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23945,
-      "num": 255640,
-      "word": "周冠宇 和大哥搭档的最后一舞",
-      "onboard_time": 1733660781,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 22834,
@@ -2993,14 +3065,6 @@
       "onboard_time": 1733605450,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 5850,
-      "num": 573666,
-      "word": "国乒11连胜夺冠",
-      "onboard_time": 1733661741,
-      "rank": 8,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -3015,6 +3079,9 @@
     },
     {
       "word": "#总书记的用典智慧#"
+    },
+    {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
     }
   ]
 }
