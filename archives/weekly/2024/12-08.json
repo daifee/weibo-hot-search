@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733639499769,
+  "endTime": 1733640318783,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -67,8 +67,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1224361,
-      "num": 1224361,
+      "raw_hot": 1265294,
+      "num": 1265294,
       "word": "包贝尔官宣包文婧怀二胎",
       "onboard_time": 1733636840,
       "rank": 0,
@@ -219,6 +219,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 620497,
+      "num": 620497,
+      "word": "叙利亚反对派称已推翻阿萨德政权",
+      "onboard_time": 1733638338,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 570839,
+      "num": 570839,
+      "word": "叙军方称巴沙尔阿萨德的统治已结束",
+      "onboard_time": 1733636540,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 565990,
       "num": 565990,
       "word": "四川省考",
@@ -275,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 512255,
-      "num": 512255,
-      "word": "叙军方称巴沙尔阿萨德的统治已结束",
-      "onboard_time": 1733636540,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 505469,
       "num": 189404,
       "word": "王源状态",
@@ -312,14 +320,6 @@
       "word": "尹锡悦被立案调查",
       "onboard_time": 1733634140,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 479194,
-      "num": 514369,
-      "word": "叙利亚反对派称已推翻阿萨德政权",
-      "onboard_time": 1733638338,
-      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -355,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 434618,
+      "num": 434618,
+      "word": "叙利亚",
+      "onboard_time": 1733579002,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 428731,
       "num": 317438,
       "word": "在鹤岗全款5万50平米的小家",
@@ -377,14 +385,6 @@
       "onboard_time": 1733628199,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 410775,
-      "num": 410775,
-      "word": "叙利亚",
-      "onboard_time": 1733579002,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 403906,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 388477,
+      "num": 388477,
+      "word": "多邻国裂了",
+      "onboard_time": 1733638279,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 384319,
       "num": 384319,
       "word": "抗癌网红卜娜娜去世妈妈发声",
@@ -433,6 +441,14 @@
       "onboard_time": 1733619138,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 372827,
+      "num": 372827,
+      "word": "男子花23万18天闪婚发现孩子非亲生",
+      "onboard_time": 1733637680,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365955,
@@ -507,20 +523,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 294556,
-      "num": 294556,
-      "word": "男子花23万18天闪婚发现孩子非亲生",
-      "onboard_time": 1733637680,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294500,
       "num": 324010,
       "word": "庄达菲红毯签名一笔一画",
       "onboard_time": 1733621598,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289867,
+      "num": 512736,
+      "word": "叙利亚局势最新情况",
+      "onboard_time": 1733637740,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 288755,
@@ -555,28 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262445,
-      "num": 512736,
-      "word": "叙利亚局势最新情况",
-      "onboard_time": 1733637740,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
       "onboard_time": 1733633659,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256633,
-      "num": 256633,
-      "word": "多邻国裂了",
-      "onboard_time": 1733638279,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 256617,
@@ -593,6 +593,14 @@
       "onboard_time": 1733631800,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250311,
+      "num": 250311,
+      "word": "虞书欣尖叫之夜状态对比",
+      "onboard_time": 1733639900,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 249012,
@@ -632,6 +640,14 @@
       "word": "白鹿妆造",
       "onboard_time": 1733568561,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229233,
+      "num": 229233,
+      "word": "向佐上台的5分钟没1秒是浪费的",
+      "onboard_time": 1733638880,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -699,12 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195463,
-      "num": 195463,
+      "raw_hot": 197222,
+      "num": 197222,
       "word": "刘耀文过了今天也会想我吗",
       "onboard_time": 1733639360,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195224,
+      "num": 195224,
+      "word": "孟子义一年级哪有这么好的条件",
+      "onboard_time": 1733639660,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 195028,
@@ -739,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191144,
+      "num": 285323,
+      "word": "郭旭晒求婚vlog",
+      "onboard_time": 1733639298,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190845,
       "num": 190845,
       "word": "花花被妹妹按住了后脖颈",
@@ -769,6 +801,14 @@
       "onboard_time": 1733581341,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188758,
+      "num": 188758,
+      "word": "黄景瑜害羞了",
+      "onboard_time": 1733639061,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186202,
@@ -819,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182393,
+      "num": 202606,
+      "word": "九重紫小孩姐 天赋型选手",
+      "onboard_time": 1733638817,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179030,
       "num": 179030,
       "word": "广州马拉松",
@@ -835,20 +883,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175200,
-      "num": 175200,
-      "word": "向佐上台的5分钟没1秒是浪费的",
-      "onboard_time": 1733638880,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174986,
       "num": 174986,
       "word": "张颂文喊刘宇宁过来聊天",
       "onboard_time": 1733622319,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174531,
+      "num": 174531,
+      "word": "周杰伦回复陈冠希",
+      "onboard_time": 1733640019,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 171264,
@@ -963,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158009,
-      "num": 158009,
-      "word": "黄景瑜害羞了",
-      "onboard_time": 1733639061,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155709,
       "num": 155709,
       "word": "90岁博士奶奶用猩猩语打招呼",
@@ -987,12 +1027,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154128,
-      "num": 154128,
-      "word": "九重紫小孩姐 天赋型选手",
-      "onboard_time": 1733638817,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 153706,
+      "num": 153706,
+      "word": "特朗普称美国不应卷入叙利亚冲突",
+      "onboard_time": 1733626579,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153655,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1733612713,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150126,
-      "num": 150126,
-      "word": "特朗普称美国不应卷入叙利亚冲突",
-      "onboard_time": 1733626579,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 149983,
@@ -1171,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135418,
+      "num": 135418,
+      "word": "于晓光为秋瓷炫做卤鸡爪",
+      "onboard_time": 1733639598,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133179,
       "num": 114152,
       "word": "赵丽颖",
@@ -1315,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111344,
-      "num": 285323,
-      "word": "郭旭晒求婚vlog",
-      "onboard_time": 1733639298,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110986,
       "num": 110986,
       "word": "安东尼奥车祸",
@@ -1377,6 +1409,22 @@
       "onboard_time": 1733581462,
       "rank": 39,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 106806,
+      "num": 128556,
+      "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
+      "onboard_time": 1733640259,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104529,
+      "num": 127413,
+      "word": "国乒决赛对阵韩国",
+      "onboard_time": 1733637740,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 101227,
@@ -1675,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30047,
+      "num": 233100,
+      "word": "国乒混合团体冲击决赛",
+      "onboard_time": 1733632280,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29479,
       "num": 282751,
       "word": "起底花钱买学历的诈骗陷阱",
@@ -1697,14 +1753,6 @@
       "onboard_time": 1733589439,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26622,
-      "num": 233100,
-      "word": "国乒混合团体冲击决赛",
-      "onboard_time": 1733632280,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 24390,
