@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733696500243,
+  "endTime": 1733697599962,
   "band_list": [
     {
       "raw_hot": 826044,
@@ -128,6 +128,14 @@
       "word": "蔡国强泉州烟花秀出意外",
       "onboard_time": 1733665522,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242097,
+      "num": 477641,
+      "word": "13岁男孩凌晨偷拿钥匙开车上路",
+      "onboard_time": 1733694371,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113211,
-      "num": 113211,
-      "word": "13岁男孩凌晨偷拿钥匙开车上路",
-      "onboard_time": 1733694371,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109806,
       "num": 109806,
       "word": "大冰 免费羽绒服",
@@ -403,6 +403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83982,
+      "num": 79227,
+      "word": "网传叙总理被反对派陪同离开家",
+      "onboard_time": 1733691251,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82227,
+      "num": 82227,
+      "word": "巴黎圣母院大火后第一次坐满了人",
+      "onboard_time": 1733685911,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75482,
       "num": 79755,
       "word": "大马士革响起密集枪声",
@@ -411,27 +427,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 71359,
-      "num": 59714,
-      "word": "网传叙总理被反对派陪同离开家",
-      "onboard_time": 1733691251,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 68343,
       "num": 68343,
       "word": "马克龙请特朗普喝可乐",
       "onboard_time": 1733679912,
       "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 57919,
-      "num": 57919,
-      "word": "巴黎圣母院大火后第一次坐满了人",
-      "onboard_time": 1733685911,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -467,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34226,
+      "num": 60644,
+      "word": "赠港大熊猫安安可可和大家见面了",
+      "onboard_time": 1733695632,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33842,
       "num": 49630,
       "word": "李昀锐谢谢你",
@@ -475,8 +483,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27648,
+      "num": 244390,
+      "word": "中国春节的N种打开方式",
+      "onboard_time": 1733662520,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25665,
+      "num": 33710,
+      "word": "叙总理发视频称没有离开叙利亚",
+      "onboard_time": 1733687591,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23317,
-      "num": 23317,
+      "num": 33699,
       "word": "庆祝澳门回归祖国25年",
       "onboard_time": 1733681112,
       "rank": 37,
@@ -491,23 +515,23 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 22839,
-      "num": 22839,
-      "word": "英国1磅的早午饭",
-      "onboard_time": 1733690051,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 22829,
-      "num": 22829,
+      "raw_hot": 22866,
+      "num": 33705,
       "word": "邬善 洋葱精",
       "onboard_time": 1733683033,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 22407,
+      "raw_hot": 22839,
+      "num": 33702,
+      "word": "英国1磅的早午饭",
+      "onboard_time": 1733690051,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 22449,
       "num": 34295,
       "word": "浙江发现两栖动物新物种",
       "onboard_time": 1733693171,
@@ -521,22 +545,6 @@
       "onboard_time": 1733683511,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21778,
-      "num": 244390,
-      "word": "中国春节的N种打开方式",
-      "onboard_time": 1733662520,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21771,
-      "num": 21771,
-      "word": "叙总理发视频称没有离开叙利亚",
-      "onboard_time": 1733687591,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20780,
@@ -555,8 +563,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18665,
-      "num": 21406,
+      "raw_hot": 19547,
+      "num": 33696,
+      "word": "大马士革将实施宵禁",
+      "onboard_time": 1733664082,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19460,
+      "num": 33694,
       "word": "叙利亚局势突变背后原因何在",
       "onboard_time": 1733689871,
       "rank": 49,
@@ -577,14 +593,6 @@
       "onboard_time": 1733662340,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17337,
-      "num": 21547,
-      "word": "大马士革将实施宵禁",
-      "onboard_time": 1733664082,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17038,
@@ -651,14 +659,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10243,
-      "num": 60644,
-      "word": "赠港大熊猫安安可可和大家见面了",
-      "onboard_time": 1733695632,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9582,
       "num": 28640,
       "word": "老头杯",
@@ -697,6 +697,14 @@
       "onboard_time": 1733686931,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7662,
+      "num": 82528,
+      "word": "哪首歌陪你走过2024",
+      "onboard_time": 1733696832,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 7011,
