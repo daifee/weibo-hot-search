@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733632960366,
+  "endTime": 1733635338937,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -24,6 +24,14 @@
       "word": "女硕士被拐卖",
       "onboard_time": 1733621178,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1586494,
+      "num": 1586494,
+      "word": "教育局回应晚自习不允许上厕所",
+      "onboard_time": 1733630418,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 823747,
+      "num": 823747,
+      "word": "一架从大马士革起飞的飞机疑似坠毁",
+      "onboard_time": 1733630720,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 777844,
       "num": 777844,
       "word": "阿萨德",
@@ -131,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709622,
+      "num": 403138,
+      "word": "女子三金丢失准嫂嫂被刑拘",
+      "onboard_time": 1733630298,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695949,
       "num": 695949,
       "word": "张继科直播夸王曼昱",
       "onboard_time": 1733628620,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 690812,
-      "num": 690812,
-      "word": "一架从大马士革起飞的飞机疑似坠毁",
-      "onboard_time": 1733630720,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 685621,
@@ -187,6 +203,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 553211,
+      "num": 553211,
+      "word": "周杰伦演唱会再澄清父亲家暴传闻",
+      "onboard_time": 1733631018,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 542852,
+      "num": 508831,
+      "word": "尖叫之夜导播别嗑了",
+      "onboard_time": 1733631438,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538955,
       "num": 538955,
       "word": "山东威海一冷库火灾9人遇难",
@@ -227,14 +259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 483150,
-      "num": 483150,
-      "word": "周杰伦演唱会再澄清父亲家暴传闻",
-      "onboard_time": 1733631018,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478657,
       "num": 478657,
       "word": "尹锡悦下台前将不插手韩国国政",
@@ -259,12 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429512,
-      "num": 429512,
-      "word": "教育局回应晚自习不允许上厕所",
-      "onboard_time": 1733630418,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 439996,
+      "num": 439996,
+      "word": "大马士革国际机场发生混乱",
+      "onboard_time": 1733630897,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 428731,
@@ -291,14 +315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 417320,
-      "num": 397586,
-      "word": "尖叫之夜导播别嗑了",
-      "onboard_time": 1733631438,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403906,
       "num": 403906,
       "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
@@ -313,14 +329,6 @@
       "onboard_time": 1733627058,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 400322,
-      "num": 421172,
-      "word": "大马士革国际机场发生混乱",
-      "onboard_time": 1733630897,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 394358,
@@ -347,6 +355,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 365955,
+      "num": 365955,
+      "word": "老婆临盆遇车辆升级当事人回应质疑",
+      "onboard_time": 1733628860,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358916,
+      "num": 403343,
+      "word": "尹锡悦被立案调查",
+      "onboard_time": 1733634140,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 348893,
       "num": 250544,
       "word": "长期久坐的3个自救方法",
@@ -361,6 +385,14 @@
       "onboard_time": 1733584223,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 326357,
+      "num": 326357,
+      "word": "叙利亚",
+      "onboard_time": 1733579002,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 326339,
@@ -385,14 +417,6 @@
       "onboard_time": 1733623881,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301978,
-      "num": 301978,
-      "word": "老婆临盆遇车辆升级当事人回应质疑",
-      "onboard_time": 1733628860,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300745,
@@ -435,28 +459,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286699,
-      "num": 275914,
-      "word": "女子三金丢失准嫂嫂被刑拘",
-      "onboard_time": 1733630298,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284505,
-      "num": 284505,
-      "word": "叙利亚",
-      "onboard_time": 1733579002,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
       "onboard_time": 1733585662,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 281805,
+      "num": 281805,
+      "word": "姜妍拍的宋亚轩",
+      "onboard_time": 1733635038,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 273774,
@@ -481,6 +497,14 @@
       "onboard_time": 1733570240,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251348,
+      "num": 227636,
+      "word": "偷偷给全班男生塞表白信",
+      "onboard_time": 1733631800,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 249012,
@@ -523,12 +547,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232290,
+      "num": 232290,
+      "word": "上海交大小鹿疑似被动物攻击",
+      "onboard_time": 1733634018,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226412,
       "num": 111163,
       "word": "白鹿和北上导演拥抱",
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226265,
+      "num": 226265,
+      "word": "莎头谈半决赛表现",
+      "onboard_time": 1733633659,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221363,
+      "num": 221363,
+      "word": "第一次看到女儿的男友",
+      "onboard_time": 1733632220,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 219893,
@@ -569,14 +617,6 @@
       "onboard_time": 1733623459,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196471,
-      "num": 196471,
-      "word": "第一次看到女儿的男友",
-      "onboard_time": 1733632220,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 195028,
@@ -652,7 +692,7 @@
     },
     {
       "raw_hot": 183890,
-      "num": 183890,
+      "num": 231863,
       "word": "袁娅维 给音乐评级这件事很无聊",
       "onboard_time": 1733629461,
       "rank": 37,
@@ -681,14 +721,6 @@
       "onboard_time": 1733622319,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173353,
-      "num": 173353,
-      "word": "偷偷给全班男生塞表白信",
-      "onboard_time": 1733631800,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 171264,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162606,
+      "num": 162606,
+      "word": "Faker回应如何忘记前任",
+      "onboard_time": 1733633179,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162387,
       "num": 162387,
       "word": "被东北冻饺子现场震惊到了",
@@ -769,6 +809,14 @@
       "onboard_time": 1733572400,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157626,
+      "num": 157626,
+      "word": "年轻人对奢侈品祛魅了",
+      "onboard_time": 1733633717,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155709,
@@ -795,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149803,
+      "num": 226486,
+      "word": "夕阳洒落在易烊千玺脸上",
+      "onboard_time": 1733634197,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148372,
       "num": 194329,
       "word": "媒体称大马士革市心传出密集枪声",
@@ -817,6 +873,14 @@
       "onboard_time": 1733623218,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146096,
+      "num": 146096,
+      "word": "特朗普称美国不应卷入叙利亚冲突",
+      "onboard_time": 1733626579,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145857,
@@ -859,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 141112,
+      "num": 228820,
+      "word": "山东省考数量",
+      "onboard_time": 1733634318,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "郑晓龙希望合作成毅",
@@ -875,20 +947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139262,
-      "num": 139262,
-      "word": "特朗普称美国不应卷入叙利亚冲突",
-      "onboard_time": 1733626579,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139125,
       "num": 146011,
       "word": "尹锡悦弹劾案未获通过",
       "onboard_time": 1733575221,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138492,
+      "num": 254402,
+      "word": "白冰复更讲了资助13个孩子的故事",
+      "onboard_time": 1733632939,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 137955,
@@ -1083,6 +1155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107136,
+      "num": 857886,
+      "word": "2024这些精美文物成了网红爆款",
+      "onboard_time": 1733617937,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 106956,
       "num": 110802,
       "word": "李子柒头戴非遗漆珠发卡亮相九寨沟",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1733573842,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87727,
-      "num": 752042,
-      "word": "2024这些精美文物成了网红爆款",
-      "onboard_time": 1733617937,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 81924,
@@ -1259,6 +1331,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 48309,
+      "num": 231714,
+      "word": "律师谈女生拍私密写真被碰隐私处",
+      "onboard_time": 1733634440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45194,
       "num": 118632,
       "word": "俄罗斯使馆敦促俄公民离开叙利亚",
@@ -1275,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39475,
+      "num": 226989,
+      "word": "中国顶尖舞者推广大使王一博",
+      "onboard_time": 1733635038,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39341,
       "num": 270021,
       "word": "华晨宇捐赠乐器助力乡村学校组乐队",
@@ -1289,14 +1377,6 @@
       "onboard_time": 1733573120,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37556,
-      "num": 254402,
-      "word": "白冰复更讲了资助13个孩子的故事",
-      "onboard_time": 1733632939,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 36782,
@@ -1369,6 +1449,14 @@
       "onboard_time": 1733606172,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29479,
+      "num": 282751,
+      "word": "起底花钱买学历的诈骗陷阱",
+      "onboard_time": 1733634140,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29014,
