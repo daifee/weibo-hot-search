@@ -1,0 +1,410 @@
+{
+  "runTime": 1733700983001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 620741,
+        "num": 901835,
+        "word": "13岁男孩凌晨偷拿钥匙开车上路",
+        "onboard_time": 1733694371,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382998,
+        "num": 382998,
+        "word": "深圳连夜拆除不锈钢盲道",
+        "onboard_time": 1733669302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50286,
+        "num": 349005,
+        "word": "中国春节的N种打开方式",
+        "onboard_time": 1733662520,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1666935,
+        "num": 343940,
+        "word": "阿萨德已到莫斯科",
+        "onboard_time": 1733698874,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334690,
+        "num": 334690,
+        "word": "特朗普称俄乌立即停火时机已成熟",
+        "onboard_time": 1733672659,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297311,
+        "num": 297311,
+        "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
+        "onboard_time": 1733666901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275177,
+        "num": 275177,
+        "word": "孙颖莎阻止王楚钦继续用丢分球",
+        "onboard_time": 1733662760,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211433,
+        "num": 211433,
+        "word": "叶祖新 告诉若曦我不是草包",
+        "onboard_time": 1733668161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188329,
+        "num": 188329,
+        "word": "赵丽颖带想想看泉州烟花秀",
+        "onboard_time": 1733668161,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152188,
+        "num": 152188,
+        "word": "我是刑警 富大龙还没出来",
+        "onboard_time": 1733697793,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 931222,
+        "num": 151380,
+        "word": "鹿晗黄子韬直播",
+        "onboard_time": 1733699476,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400353,
+        "num": 149165,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377625,
+        "num": 145760,
+        "word": "韩安冉对网友发火",
+        "onboard_time": 1733667021,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253959,
+        "num": 143520,
+        "word": "叙利亚局势突变意味着什么",
+        "onboard_time": 1733671641,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141919,
+        "num": 141919,
+        "word": "付出型人格男生相亲遭全场灭灯",
+        "onboard_time": 1733657059,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131352,
+        "num": 131352,
+        "word": "侯明昊因飞机改签错过偶像麦迪",
+        "onboard_time": 1733665701,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127498,
+        "num": 127498,
+        "word": "低价宠物粮竟多加蒙脱石",
+        "onboard_time": 1733673919,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121019,
+        "num": 121019,
+        "word": "婴儿出生5天确诊遗传性罕见病",
+        "onboard_time": 1733656519,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 112575,
+        "word": "网传叙总理被反对派陪同离开家",
+        "onboard_time": 1733691251,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108191,
+        "num": 108191,
+        "word": "檀健次回应粉丝结婚",
+        "onboard_time": 1733669363,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 360607,
+        "num": 107738,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169248,
+        "num": 107543,
+        "word": "员工误开紫光灯致地板寿命减10年",
+        "onboard_time": 1733699836,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147972,
+        "num": 107516,
+        "word": "43岁孕妇吃保胎药后大出血流产",
+        "onboard_time": 1733660120,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107226,
+        "num": 107226,
+        "word": "蔡国强泉州烟花秀出意外",
+        "onboard_time": 1733665522,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103825,
+        "num": 103825,
+        "word": "叙利亚民众进入阿萨德住宅",
+        "onboard_time": 1733664380,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97692,
+        "num": 97692,
+        "word": "阿萨德离开叙利亚",
+        "onboard_time": 1733660661,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96598,
+        "num": 96598,
+        "word": "大冰 免费羽绒服",
+        "onboard_time": 1733658800,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93361,
+        "num": 93361,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88965,
+        "num": 88965,
+        "word": "周深千字长文",
+        "onboard_time": 1733700616,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74175,
+        "num": 87006,
+        "word": "虞书欣回应接双轨的原因",
+        "onboard_time": 1733656220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86775,
+        "num": 86775,
+        "word": "女子花2千换芯片商家竟没给换",
+        "onboard_time": 1733681831,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81485,
+        "num": 81485,
+        "word": "王楚钦说和孙颖莎都做到全力以赴",
+        "onboard_time": 1733671941,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78669,
+        "num": 78669,
+        "word": "无限暖暖",
+        "onboard_time": 1733700136,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74933,
+        "num": 74933,
+        "word": "女子因骑手送错餐申请退款后将餐品吃掉",
+        "onboard_time": 1733656340,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71553,
+        "num": 71553,
+        "word": "中国政府已协助有意愿中国公民离叙",
+        "onboard_time": 1733673861,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68558,
+        "num": 68558,
+        "word": "电影小小的我",
+        "onboard_time": 1733700677,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66666,
+        "num": 66666,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66410,
+        "num": 66410,
+        "word": "蔡国强烟花秀大量无人机坠海",
+        "onboard_time": 1733699836,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63250,
+        "num": 63250,
+        "word": "巴黎圣母院大火后第一次坐满了人",
+        "onboard_time": 1733685911,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59033,
+        "num": 59033,
+        "word": "女子湖边打卡遭无人机撞脸",
+        "onboard_time": 1733676316,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58378,
+        "num": 58378,
+        "word": "马克龙请特朗普喝可乐",
+        "onboard_time": 1733679912,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58164,
+        "num": 58164,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57152,
+        "num": 57152,
+        "word": "周杰伦演唱会嘉宾是五月天",
+        "onboard_time": 1733666122,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50867,
+        "num": 50867,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47501,
+        "num": 47501,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47122,
+        "num": 47122,
+        "word": "BL战队传奇杯夺冠",
+        "onboard_time": 1733670800,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46764,
+        "num": 46764,
+        "word": "江西一幼教机构卫生间发现摄像头",
+        "onboard_time": 1733700136,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46198,
+        "num": 46198,
+        "word": "赠港大熊猫安安可可和大家见面了",
+        "onboard_time": 1733695632,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44697,
+        "num": 44697,
+        "word": "韩国总理及执政党党首发表共同讲话",
+        "onboard_time": 1733678713,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43539,
+        "num": 44695,
+        "word": "叙总理发视频称没有离开叙利亚",
+        "onboard_time": 1733687591,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
