@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733665213930,
+  "endTime": 1733667645143,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -25,6 +25,14 @@
       "onboard_time": 1733658260,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2048513,
+      "num": 1397283,
+      "word": "叙利亚总统阿萨德辞职",
+      "onboard_time": 1733661201,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1746641,
@@ -99,14 +107,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1397283,
-      "num": 1397283,
-      "word": "叙利亚总统阿萨德辞职",
-      "onboard_time": 1733661201,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1394368,
       "num": 1394368,
       "word": "马丽 才过半啊",
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1222337,
+      "num": 1222337,
+      "word": "侯明昊因飞机改签错过偶像麦迪",
+      "onboard_time": 1733665701,
+      "rank": 1,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1219352,
       "num": 1219352,
       "word": "申论",
@@ -169,6 +177,14 @@
       "onboard_time": 1733646318,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1092999,
+      "num": 1092999,
+      "word": "6旬董事长思念亡母燃放特别烟花",
+      "onboard_time": 1733662520,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1079435,
@@ -251,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 851936,
-      "num": 851936,
-      "word": "6旬董事长思念亡母燃放特别烟花",
-      "onboard_time": 1733662520,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 830442,
+      "num": 830442,
+      "word": "王楚钦 谁还不会用个鹰眼",
+      "onboard_time": 1733664500,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 826188,
@@ -409,6 +425,14 @@
       "onboard_time": 1733630298,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 725222,
+      "num": 646689,
+      "word": "叙利亚民众进入阿萨德住宅",
+      "onboard_time": 1733664380,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 723281,
@@ -587,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 530686,
+      "num": 523775,
+      "word": "蔡国强泉州烟花秀出意外",
+      "onboard_time": 1733665522,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530208,
       "num": 559096,
       "word": "感觉整个车厢都是去考公的",
@@ -737,14 +769,6 @@
       "onboard_time": 1733646560,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 441806,
-      "num": 441806,
-      "word": "王楚钦 谁还不会用个鹰眼",
-      "onboard_time": 1733664500,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 439996,
@@ -899,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353152,
+      "num": 353152,
+      "word": "网曝多名年轻人合伙骗领虐猫",
+      "onboard_time": 1733665341,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 348893,
       "num": 250544,
       "word": "长期久坐的3个自救方法",
@@ -931,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 346557,
-      "num": 646689,
-      "word": "叙利亚民众进入阿萨德住宅",
-      "onboard_time": 1733664380,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 344481,
+      "num": 344481,
+      "word": "邵艺辉",
+      "onboard_time": 1733663481,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 333270,
@@ -961,6 +993,14 @@
       "onboard_time": 1733641519,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 315299,
+      "num": 315299,
+      "word": "中国古人21根竹简计算器能算乘方开方",
+      "onboard_time": 1733666061,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314143,
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303382,
+      "num": 345714,
+      "word": "混团冠军国乒自拍",
+      "onboard_time": 1733666122,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302987,
       "num": 335344,
       "word": "高天佐否认和周芯竹谈过",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1733614034,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300045,
+      "num": 300045,
+      "word": "周杰伦演唱会嘉宾是五月天",
+      "onboard_time": 1733666122,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 299626,
@@ -1147,6 +1203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 260519,
+      "num": 503093,
+      "word": "李昀锐谢谢你",
+      "onboard_time": 1733665941,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260320,
       "num": 397083,
       "word": "九重紫热度",
@@ -1161,14 +1225,6 @@
       "onboard_time": 1733633659,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257002,
-      "num": 257002,
-      "word": "邵艺辉",
-      "onboard_time": 1733663481,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 256617,
@@ -1379,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211912,
+      "num": 211912,
+      "word": "马云现场祝福蚂蚁20岁生日",
+      "onboard_time": 1733666481,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210005,
       "num": 210005,
       "word": "徐梦洁生图状态",
@@ -1457,6 +1521,14 @@
       "onboard_time": 1733661260,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198435,
+      "num": 198435,
+      "word": "家业",
+      "onboard_time": 1733666963,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 197553,
@@ -1539,6 +1611,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 193578,
+      "num": 193578,
+      "word": "严浩翔 今晚记得来听",
+      "onboard_time": 1733667021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "中国短道队5000米接力金牌",
@@ -1563,12 +1643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191967,
+      "num": 191967,
+      "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
+      "onboard_time": 1733666901,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191144,
       "num": 285323,
       "word": "郭旭晒求婚vlog",
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190977,
+      "num": 190977,
+      "word": "成都混团颁奖",
+      "onboard_time": 1733666481,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 190866,
@@ -1745,6 +1841,14 @@
       "onboard_time": 1733641399,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179066,
+      "num": 179066,
+      "word": "昭昭墨墨",
+      "onboard_time": 1733666604,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 179030,
@@ -1939,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162451,
+      "num": 179339,
+      "word": "球打到王楚钦身上裁判改判",
+      "onboard_time": 1733664801,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162387,
       "num": 162387,
       "word": "被东北冻饺子现场震惊到了",
@@ -2041,6 +2153,14 @@
       "onboard_time": 1733612713,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151462,
+      "num": 453032,
+      "word": "韩安冉对网友发火",
+      "onboard_time": 1733667021,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 149983,
@@ -2667,6 +2787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78179,
+      "num": 520214,
+      "word": "私家车挡救护车致老人看病延误",
+      "onboard_time": 1733666604,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78162,
       "num": 38102,
       "word": "血观音",
@@ -2761,6 +2889,14 @@
       "onboard_time": 1733640679,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67467,
+      "num": 521655,
+      "word": "央视曝光低价宠物粮乱象",
+      "onboard_time": 1733667140,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 66969,
@@ -2873,6 +3009,14 @@
       "onboard_time": 1733660600,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46916,
+      "num": 525789,
+      "word": "患者为举证药王谷愿以身试药",
+      "onboard_time": 1733667081,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45194,
@@ -3027,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31611,
+      "num": 539024,
+      "word": "F1",
+      "onboard_time": 1733582662,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31237,
       "num": 289745,
       "word": "周冠宇 和大哥搭档的最后一舞",
@@ -3051,6 +3203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29543,
+      "num": 1327745,
+      "word": "文化中国行丹青中华",
+      "onboard_time": 1733662340,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29479,
       "num": 282751,
       "word": "起底花钱买学历的诈骗陷阱",
@@ -3065,14 +3225,6 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27730,
-      "num": 1327745,
-      "word": "文化中国行丹青中华",
-      "onboard_time": 1733662340,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27143,
@@ -3137,14 +3289,6 @@
       "onboard_time": 1733599452,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20099,
-      "num": 539024,
-      "word": "F1",
-      "onboard_time": 1733582662,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 19864,
@@ -3219,6 +3363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 11743,
+      "num": 205787,
+      "word": "鸢子你究竟藏了多少彩蛋",
+      "onboard_time": 1733663962,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10904,
       "num": 415345,
       "word": "UFC310",
@@ -3233,14 +3385,6 @@
       "onboard_time": 1733605450,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10190,
-      "num": 205787,
-      "word": "鸢子你究竟藏了多少彩蛋",
-      "onboard_time": 1733663962,
-      "rank": 45,
-      "category": "游戏"
     }
   ],
   "hotgov_list": [
