@@ -1,0 +1,410 @@
+{
+  "runTime": 1733653414972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334686,
+        "num": 1334686,
+        "word": "中山美穗死因系意外事故",
+        "onboard_time": 1733649501,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611326,
+        "num": 611326,
+        "word": "叙利亚国家军队说阿萨德政权已结束",
+        "onboard_time": 1733649260,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44782,
+        "num": 595949,
+        "word": "神十九乘组在轨工作都忙些啥",
+        "onboard_time": 1733649318,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 898881,
+        "num": 595916,
+        "word": "爱艺奇副总裁回应双轨争议",
+        "onboard_time": 1733652080,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595822,
+        "num": 595822,
+        "word": "iG官宣新阵容",
+        "onboard_time": 1733646318,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 504154,
+        "num": 585803,
+        "word": "母女二人拒不让座被乘警带走",
+        "onboard_time": 1733645478,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577557,
+        "num": 577557,
+        "word": "反对派进入叙利亚总统府",
+        "onboard_time": 1733647159,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 563659,
+        "num": 563659,
+        "word": "孙滢皓方发文",
+        "onboard_time": 1733646618,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455203,
+        "num": 537138,
+        "word": "申论",
+        "onboard_time": 1733648961,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 532831,
+        "num": 532831,
+        "word": "中国驻叙利亚使馆仍在坚守",
+        "onboard_time": 1733650699,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1296522,
+        "num": 532147,
+        "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
+        "onboard_time": 1733647519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949571,
+        "num": 516372,
+        "word": "学生把头发扎舌头上写纸条求助",
+        "onboard_time": 1733645059,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916385,
+        "num": 506314,
+        "word": "灵隐寺",
+        "onboard_time": 1733646438,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 728930,
+        "num": 495950,
+        "word": "徐艺洋带头模仿黄子韬",
+        "onboard_time": 1733645059,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554949,
+        "num": 481998,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 474740,
+        "num": 474740,
+        "word": "感觉整个车厢都是去考公的",
+        "onboard_time": 1733650099,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 453890,
+        "num": 453890,
+        "word": "包贝尔官宣包文婧怀二胎",
+        "onboard_time": 1733636840,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397847,
+        "num": 397847,
+        "word": "虞书欣双轨",
+        "onboard_time": 1733652019,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372326,
+        "num": 372326,
+        "word": "iG全神班首秀",
+        "onboard_time": 1733640438,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44470,
+        "num": 348274,
+        "word": "农村留守老人试着抱团养老",
+        "onboard_time": 1733652260,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429898,
+        "num": 348129,
+        "word": "专家表示胃癌是喂出来的癌症",
+        "onboard_time": 1733651359,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347776,
+        "num": 347776,
+        "word": "大冰回应免费发放羽绒济南站取消",
+        "onboard_time": 1733650040,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276288,
+        "num": 345512,
+        "word": "白鹿李一桐李沁合照",
+        "onboard_time": 1733646560,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24382,
+        "num": 340685,
+        "word": "又又又在波司登门店偶遇明星了",
+        "onboard_time": 1733652260,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168094,
+        "num": 332746,
+        "word": "TheShy LPL我回来了",
+        "onboard_time": 1733653160,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61733,
+        "num": 325623,
+        "word": "陈丽君回应粉丝",
+        "onboard_time": 1733653040,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323193,
+        "num": 323193,
+        "word": "ELLE 孙颖莎",
+        "onboard_time": 1733642779,
+        "rank": 26,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 320141,
+        "num": 320141,
+        "word": "叙利亚总统",
+        "onboard_time": 1733640619,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270986,
+        "num": 270986,
+        "word": "九重紫",
+        "onboard_time": 1733647279,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264001,
+        "num": 264001,
+        "word": "我是刑警不是1个人是16万人",
+        "onboard_time": 1733650342,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312088,
+        "num": 260830,
+        "word": "大马士革响起密集枪声",
+        "onboard_time": 1733651661,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253274,
+        "num": 253274,
+        "word": "孙卓回家3年变回小时候胖胖的样子",
+        "onboard_time": 1733651359,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234134,
+        "num": 234134,
+        "word": "周杰伦回复陈冠希",
+        "onboard_time": 1733640019,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211744,
+        "num": 211744,
+        "word": "高校学生买7件演出服穿完集体退货",
+        "onboard_time": 1733642539,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203966,
+        "num": 203966,
+        "word": "频繁早醒的人可能是病了",
+        "onboard_time": 1733641519,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202863,
+        "num": 202863,
+        "word": "何与九重紫演王爷",
+        "onboard_time": 1733653160,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196736,
+        "num": 196736,
+        "word": "十个勤天永远自由热烈",
+        "onboard_time": 1733653279,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193153,
+        "num": 193153,
+        "word": "中国短道队5000米接力金牌",
+        "onboard_time": 1733651899,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190834,
+        "num": 190834,
+        "word": "叙利亚",
+        "onboard_time": 1733579002,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146742,
+        "num": 190651,
+        "word": "中国短道队北京站3金2铜收官",
+        "onboard_time": 1733652440,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190488,
+        "num": 190488,
+        "word": "李昀锐身材比例",
+        "onboard_time": 1733651179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185670,
+        "num": 185670,
+        "word": "广州地铁",
+        "onboard_time": 1733650818,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178747,
+        "num": 178747,
+        "word": "孟子义一年级哪有这么好的条件",
+        "onboard_time": 1733639660,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174372,
+        "num": 174372,
+        "word": "叙利亚反对派称已推翻阿萨德政权",
+        "onboard_time": 1733638338,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173893,
+        "num": 173893,
+        "word": "九重紫8集定律",
+        "onboard_time": 1733644401,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168998,
+        "num": 168998,
+        "word": "考研最大的意义是认清自己",
+        "onboard_time": 1733651540,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165112,
+        "num": 165112,
+        "word": "王安宇聪明的让我陌生",
+        "onboard_time": 1733652859,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161316,
+        "num": 161316,
+        "word": "尖叫之夜获奖全名单",
+        "onboard_time": 1733643559,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159798,
+        "num": 159798,
+        "word": "sana裙子",
+        "onboard_time": 1733644639,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158308,
+        "num": 158308,
+        "word": "iG对战BL",
+        "onboard_time": 1733651359,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

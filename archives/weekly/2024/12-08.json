@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733650648222,
+  "endTime": 1733653414972,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1334686,
+      "num": 1334686,
+      "word": "中山美穗死因系意外事故",
+      "onboard_time": 1733649501,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1265294,
       "num": 1265294,
       "word": "包贝尔官宣包文婧怀二胎",
@@ -161,6 +169,14 @@
       "onboard_time": 1733620519,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 898881,
+      "num": 595916,
+      "word": "爱艺奇副总裁回应双轨争议",
+      "onboard_time": 1733652080,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 893178,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728930,
+      "num": 574610,
+      "word": "徐艺洋带头模仿黄子韬",
+      "onboard_time": 1733645059,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726791,
       "num": 487314,
       "word": "女子三金丢失准嫂嫂被刑拘",
@@ -315,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 607026,
-      "num": 607026,
-      "word": "中山美穗死因系意外事故",
-      "onboard_time": 1733649501,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 611326,
+      "num": 611326,
+      "word": "叙利亚国家军队说阿萨德政权已结束",
+      "onboard_time": 1733649260,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 599618,
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 574610,
-      "num": 574610,
-      "word": "徐艺洋带头模仿黄子韬",
-      "onboard_time": 1733645059,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 570839,
       "num": 570839,
       "word": "叙军方称巴沙尔阿萨德的统治已结束",
@@ -361,6 +377,14 @@
       "onboard_time": 1733628077,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 563659,
+      "num": 563659,
+      "word": "孙滢皓方发文",
+      "onboard_time": 1733646618,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 562354,
@@ -409,6 +433,14 @@
       "onboard_time": 1733638279,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 532831,
+      "num": 532831,
+      "word": "中国驻叙利亚使馆仍在坚守",
+      "onboard_time": 1733650699,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 523696,
@@ -483,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 474740,
+      "num": 474740,
+      "word": "感觉整个车厢都是去考公的",
+      "onboard_time": 1733650099,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 466058,
       "num": 191827,
       "word": "双轨官宣",
@@ -521,6 +561,14 @@
       "onboard_time": 1733579002,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 429898,
+      "num": 348129,
+      "word": "专家表示胃癌是喂出来的癌症",
+      "onboard_time": 1733651359,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 428731,
@@ -569,6 +617,14 @@
       "onboard_time": 1733627058,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 397847,
+      "num": 397847,
+      "word": "虞书欣双轨",
+      "onboard_time": 1733652019,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 394358,
@@ -627,20 +683,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 347776,
+      "num": 347776,
+      "word": "大冰回应免费发放羽绒济南站取消",
+      "onboard_time": 1733650040,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347456,
       "num": 347456,
       "word": "尖叫之夜获奖全名单",
       "onboard_time": 1733643559,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 333376,
-      "num": 333376,
-      "word": "叙利亚国家军队说阿萨德政权已结束",
-      "onboard_time": 1733649260,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 326339,
@@ -665,6 +721,14 @@
       "onboard_time": 1733623639,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312088,
+      "num": 260830,
+      "word": "大马士革响起密集枪声",
+      "onboard_time": 1733651661,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 302987,
@@ -763,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 270986,
+      "num": 270986,
+      "word": "九重紫",
+      "onboard_time": 1733567363,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269801,
       "num": 269801,
       "word": "sana裙子",
@@ -777,6 +849,14 @@
       "onboard_time": 1733573361,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264001,
+      "num": 431433,
+      "word": "我是刑警不是1个人是16万人",
+      "onboard_time": 1733650342,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 257066,
@@ -801,6 +881,14 @@
       "onboard_time": 1733638880,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253274,
+      "num": 253274,
+      "word": "孙卓回家3年变回小时候胖胖的样子",
+      "onboard_time": 1733651359,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251348,
@@ -867,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224887,
-      "num": 224887,
-      "word": "九重紫",
-      "onboard_time": 1733567363,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222841,
       "num": 222841,
       "word": "第一次看到女儿的男友",
@@ -913,6 +993,14 @@
       "onboard_time": 1733641459,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202863,
+      "num": 202863,
+      "word": "何与九重紫演王爷",
+      "onboard_time": 1733653160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 202657,
@@ -955,12 +1043,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195631,
-      "num": 195631,
-      "word": "感觉整个车厢都是去考公的",
-      "onboard_time": 1733650099,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 196736,
+      "num": 196736,
+      "word": "十个勤天永远自由热烈",
+      "onboard_time": 1733653279,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 195028,
@@ -995,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193153,
+      "num": 193153,
+      "word": "中国短道队5000米接力金牌",
+      "onboard_time": 1733651899,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193084,
       "num": 315793,
       "word": "叙利亚总统离开首都大马士革",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1733638460,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190488,
+      "num": 190488,
+      "word": "李昀锐身材比例",
+      "onboard_time": 1733651179,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 190353,
@@ -1065,6 +1169,14 @@
       "onboard_time": 1733636417,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185670,
+      "num": 185670,
+      "word": "广州地铁",
+      "onboard_time": 1733650818,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185571,
@@ -1187,12 +1299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168998,
+      "num": 168998,
+      "word": "考研最大的意义是认清自己",
+      "onboard_time": 1733651540,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168787,
       "num": 168787,
       "word": "刘诗诗我会继续努力哒",
       "onboard_time": 1733644759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168094,
+      "num": 332746,
+      "word": "TheShy LPL我回来了",
+      "onboard_time": 1733653160,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 167815,
@@ -1233,6 +1361,14 @@
       "onboard_time": 1733637561,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165112,
+      "num": 165112,
+      "word": "王安宇聪明的让我陌生",
+      "onboard_time": 1733652859,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 164698,
@@ -1283,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158308,
+      "num": 158308,
+      "word": "iG对战BL",
+      "onboard_time": 1733651359,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156971,
       "num": 156971,
       "word": "九重紫改命就是改念头",
@@ -1297,14 +1441,6 @@
       "onboard_time": 1733641699,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156526,
-      "num": 156526,
-      "word": "大冰回应免费发放羽绒济南站取消",
-      "onboard_time": 1733650040,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155709,
@@ -1392,6 +1528,14 @@
       "word": "约基奇56分",
       "onboard_time": 1733626818,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146742,
+      "num": 190651,
+      "word": "中国短道队北京站3金2铜收官",
+      "onboard_time": 1733652440,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2035,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61733,
+      "num": 325623,
+      "word": "陈丽君回应粉丝",
+      "onboard_time": 1733653040,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57276,
       "num": 57276,
       "word": "29岁退伍军人跳河救人全身冻通红",
@@ -2075,20 +2227,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 48242,
-      "num": 431433,
-      "word": "我是刑警不是1个人是16万人",
-      "onboard_time": 1733650342,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 45194,
       "num": 118632,
       "word": "俄罗斯使馆敦促俄公民离开叙利亚",
       "onboard_time": 1733591597,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44470,
+      "num": 348274,
+      "word": "农村留守老人试着抱团养老",
+      "onboard_time": 1733652260,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43572,
@@ -2257,6 +2409,14 @@
       "onboard_time": 1733606472,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24382,
+      "num": 340685,
+      "word": "又又又在波司登门店偶遇明星了",
+      "onboard_time": 1733652260,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 24159,
