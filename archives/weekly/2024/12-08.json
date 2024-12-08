@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733671488896,
+  "endTime": 1733672332204,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -707,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 505574,
+      "num": 505574,
+      "word": "深圳连夜拆除不锈钢盲道",
+      "onboard_time": 1733669302,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 505469,
       "num": 189404,
       "word": "王源状态",
@@ -1139,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299560,
-      "num": 387444,
-      "word": "深圳连夜拆除不锈钢盲道",
-      "onboard_time": 1733669302,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297532,
       "num": 297532,
       "word": "天津市考",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1733627179,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288671,
+      "num": 288671,
+      "word": "警方通报某幼教机构卫生间发现摄像头",
+      "onboard_time": 1733670320,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 285160,
@@ -1475,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224305,
-      "num": 224305,
-      "word": "警方通报某幼教机构卫生间发现摄像头",
-      "onboard_time": 1733670320,
-      "rank": 33,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 222841,
       "num": 222841,
       "word": "第一次看到女儿的男友",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1733646860,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214289,
+      "num": 214289,
+      "word": "今年二十二",
+      "onboard_time": 1733671399,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 210325,
@@ -2035,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170284,
+      "num": 294751,
+      "word": "林高远为团队感到骄傲",
+      "onboard_time": 1733671759,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170205,
       "num": 170205,
       "word": "一念关山",
@@ -2081,6 +2097,14 @@
       "onboard_time": 1733616376,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167046,
+      "num": 296086,
+      "word": "我是刑警第10个恶性大案",
+      "onboard_time": 1733670021,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 166678,
@@ -2208,6 +2232,14 @@
       "word": "中国短道速滑混接夺冠",
       "onboard_time": 1733641699,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156483,
+      "num": 156483,
+      "word": "王楚钦说和孙颖莎都做到全力以赴",
+      "onboard_time": 1733671941,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2345,14 +2377,6 @@
       "onboard_time": 1733630778,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 145365,
-      "num": 145365,
-      "word": "今年二十二",
-      "onboard_time": 1733671399,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 145201,
@@ -2507,6 +2531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132765,
+      "num": 132765,
+      "word": "叙利亚局势突变意味着什么",
+      "onboard_time": 1733671641,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132438,
       "num": 110293,
       "word": "邓为紫海",
@@ -2553,6 +2585,14 @@
       "onboard_time": 1733630897,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126348,
+      "num": 126348,
+      "word": "2024成都混团世界杯",
+      "onboard_time": 1733672238,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126275,
@@ -2603,6 +2643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123819,
+      "num": 123819,
+      "word": "王楚钦用身体接住了韩国队的球",
+      "onboard_time": 1733671999,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123511,
       "num": 123511,
       "word": "实探胖东来对代购出手首日",
@@ -2625,6 +2673,22 @@
       "onboard_time": 1733634440,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120514,
+      "num": 512977,
+      "word": "福宝正式检测结果将公布",
+      "onboard_time": 1733671462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119809,
+      "num": 119809,
+      "word": "汉密尔顿 法拉利",
+      "onboard_time": 1733672238,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117446,
@@ -2657,14 +2721,6 @@
       "onboard_time": 1733627000,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113460,
-      "num": 269782,
-      "word": "我是刑警第10个恶性大案",
-      "onboard_time": 1733670021,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 112369,
@@ -2955,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76232,
+      "num": 319700,
+      "word": "BL战队传奇杯夺冠",
+      "onboard_time": 1733670800,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 75120,
       "num": 732994,
       "word": "大马士革将实施宵禁",
@@ -3035,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68273,
-      "num": 319700,
-      "word": "BL战队传奇杯夺冠",
-      "onboard_time": 1733670800,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 67528,
       "num": 261467,
       "word": "叙利亚局势升级时间线",
@@ -3059,6 +3115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64983,
+      "num": 273653,
+      "word": "Rookie说兜兜转转还是你",
+      "onboard_time": 1733671399,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -3073,14 +3137,6 @@
       "onboard_time": 1733607612,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 61637,
-      "num": 273653,
-      "word": "Rookie说兜兜转转还是你",
-      "onboard_time": 1733671399,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 57940,
@@ -3171,12 +3227,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47800,
-      "num": 255224,
-      "word": "福宝正式检测结果将公布",
-      "onboard_time": 1733671462,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 48526,
+      "num": 319587,
+      "word": "周冠宇F1谢幕站第13名完赛",
+      "onboard_time": 1733670620,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 45924,
@@ -3313,14 +3369,6 @@
       "onboard_time": 1733596514,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33646,
-      "num": 319587,
-      "word": "周冠宇F1谢幕站第13名完赛",
-      "onboard_time": 1733670620,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 33466,
