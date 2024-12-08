@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733623094043,
+  "endTime": 1733624470798,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -9,6 +9,14 @@
       "onboard_time": 1733585182,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1746641,
+      "num": 1144687,
+      "word": "女生遭诱导拍私密写真被碰隐私处",
+      "onboard_time": 1733622139,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1620683,
@@ -35,12 +43,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 904299,
-      "num": 1144687,
-      "word": "女生遭诱导拍私密写真被碰隐私处",
-      "onboard_time": 1733622139,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 899444,
+      "num": 1143911,
+      "word": "秦岚一把搂住虞书欣",
+      "onboard_time": 1733620519,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 893178,
@@ -48,14 +56,6 @@
       "word": "成毅尖叫男演员",
       "onboard_time": 1733584942,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 810625,
-      "num": 810625,
-      "word": "秦岚一把搂住虞书欣",
-      "onboard_time": 1733620519,
-      "rank": 1,
       "category": "综艺"
     },
     {
@@ -91,20 +91,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 569047,
-      "num": 322782,
+      "raw_hot": 625834,
+      "num": 481160,
       "word": "包贝尔二胎叫面条",
       "onboard_time": 1733621898,
       "rank": 11,
       "category": "综艺"
     },
     {
-      "raw_hot": 542983,
+      "raw_hot": 623649,
       "num": 393862,
       "word": "何与 双轨",
       "onboard_time": 1733618478,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538955,
+      "num": 538955,
+      "word": "山东威海一冷库火灾9人遇难",
+      "onboard_time": 1733621838,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 518058,
@@ -147,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400030,
-      "num": 400030,
-      "word": "山东威海一冷库火灾9人遇难",
-      "onboard_time": 1733621838,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 394358,
       "num": 189713,
       "word": "只有付航是真来吃席的",
@@ -187,20 +187,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 348893,
+      "num": 250544,
+      "word": "长期久坐的3个自救方法",
+      "onboard_time": 1733612534,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 348209,
       "num": 140624,
       "word": "阿里高管内网致歉",
       "onboard_time": 1733584223,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 330220,
-      "num": 190732,
-      "word": "长期久坐的3个自救方法",
-      "onboard_time": 1733612534,
-      "rank": 9,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 326339,
@@ -216,6 +216,14 @@
       "word": "白鹿被抓到偷玩手机的反应",
       "onboard_time": 1733614034,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294500,
+      "num": 294500,
+      "word": "庄达菲红毯签名一笔一画",
+      "onboard_time": 1733621598,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -235,19 +243,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268260,
+      "num": 268260,
+      "word": "谢娜听易烊千玺音乐会",
+      "onboard_time": 1733622679,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257733,
+      "num": 257733,
+      "word": "俄土沙伊等八国发表联合声明",
+      "onboard_time": 1733623459,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 256617,
       "num": 134234,
       "word": "尖叫之夜内场",
       "onboard_time": 1733570240,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 251611,
-      "num": 251611,
-      "word": "庄达菲红毯签名一笔一画",
-      "onboard_time": 1733621598,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200447,
+      "num": 200447,
+      "word": "混团世界杯半决赛",
+      "onboard_time": 1733623459,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195028,
       "num": 111120,
       "word": "尖叫之夜现场灯牌",
@@ -305,6 +329,14 @@
       "onboard_time": 1733579002,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191855,
+      "num": 271114,
+      "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
+      "onboard_time": 1733623639,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 190845,
@@ -331,6 +363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187470,
+      "num": 254675,
+      "word": "高天佐否认和周芯竹谈过",
+      "onboard_time": 1733623881,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186202,
       "num": 186202,
       "word": "雷军回应小米被指贴牌",
@@ -345,6 +385,30 @@
       "onboard_time": 1733574920,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184362,
+      "num": 174842,
+      "word": "马克龙与特朗普握手笑容逐渐消失",
+      "onboard_time": 1733624296,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "广州马拉松",
+      "onboard_time": 1733623698,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 174986,
+      "num": 174986,
+      "word": "张颂文喊刘宇宁过来聊天",
+      "onboard_time": 1733622319,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 170205,
@@ -403,12 +467,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 152323,
-      "num": 152323,
-      "word": "谢娜听易烊千玺音乐会",
-      "onboard_time": 1733622679,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "90岁博士奶奶用猩猩语打招呼",
+      "onboard_time": 1733620398,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151546,
@@ -424,6 +488,14 @@
       "word": "荆门男子田间挖出战国时期青铜剑",
       "onboard_time": 1733608812,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146329,
+      "num": 146329,
+      "word": "妈妈的鼓励让一个小女孩成科学家",
+      "onboard_time": 1733623218,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -467,20 +539,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136096,
+      "num": 136096,
+      "word": "人怎么可以捅这么大娄子",
+      "onboard_time": 1733619797,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135626,
       "num": 135626,
       "word": "韩国前国防部长官金龙显被逮捕",
       "onboard_time": 1733616258,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135115,
-      "num": 135115,
-      "word": "张颂文喊刘宇宁过来聊天",
-      "onboard_time": 1733622319,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 133179,
@@ -505,22 +577,6 @@
       "onboard_time": 1733588899,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128599,
-      "num": 128599,
-      "word": "90岁博士奶奶用猩猩语打招呼",
-      "onboard_time": 1733620398,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128316,
-      "num": 128316,
-      "word": "人怎么可以捅这么大娄子",
-      "onboard_time": 1733619797,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 125066,
@@ -643,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91166,
+      "num": 302641,
+      "word": "叙反政府武装称占领重镇霍姆斯",
+      "onboard_time": 1733622918,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90997,
       "num": 134445,
       "word": "女明星尖叫之夜怼脸生图",
@@ -737,14 +801,6 @@
       "onboard_time": 1733607612,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58607,
-      "num": 302641,
-      "word": "叙反政府武装称占领重镇霍姆斯",
-      "onboard_time": 1733622918,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57276,
@@ -963,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12808,
+      "num": 185358,
+      "word": "王曼昱打出11比2",
+      "onboard_time": 1733623398,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12144,
       "num": 148280,
       "word": "机场回应飞机降落时撞到鸟群",
@@ -977,6 +1041,14 @@
       "onboard_time": 1733605450,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 7613,
+      "num": 254026,
+      "word": "尹锡悦下台前将不插手韩国国政",
+      "onboard_time": 1733624418,
+      "rank": 19,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
