@@ -1,0 +1,410 @@
+{
+  "runTime": 1733740028994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681841,
+        "num": 1109094,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628554,
+        "num": 628554,
+        "word": "爸妈旅个游却背了10年房贷",
+        "onboard_time": 1733731160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7768,
+        "num": 491267,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1189892,
+        "num": 468773,
+        "word": "叙利亚被释囚犯在街上边跑边笑",
+        "onboard_time": 1733738240,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440884,
+        "num": 440884,
+        "word": "稳住楼市股市",
+        "onboard_time": 1733731700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3083105,
+        "num": 381372,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618836,
+        "num": 302544,
+        "word": "李雪琴问13个人为啥叫seventeen",
+        "onboard_time": 1733737101,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219483,
+        "num": 219483,
+        "word": "为什么说冬天衣服不要穿太紧",
+        "onboard_time": 1733727918,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 297920,
+        "num": 219473,
+        "word": "民办大学倒闭潮要来了吗",
+        "onboard_time": 1733728818,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 50906,
+        "num": 219468,
+        "word": "马丽说演员还是要有好作品",
+        "onboard_time": 1733738482,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1082986,
+        "num": 219459,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 746322,
+        "num": 219443,
+        "word": "碰一下支付莫名欠了1980元花呗",
+        "onboard_time": 1733733379,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416728,
+        "num": 219435,
+        "word": "张若昀随地乱丢烟头",
+        "onboard_time": 1733738001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392108,
+        "num": 219428,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 43578,
+        "num": 219408,
+        "word": "商家称顾客表演完后将演出服退了",
+        "onboard_time": 1733739501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359152,
+        "num": 219397,
+        "word": "山西大学回应一留学生摸女生屁股",
+        "onboard_time": 1733733318,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251571,
+        "num": 219394,
+        "word": "内娱终于等到完颜爱情剧",
+        "onboard_time": 1733738419,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114202,
+        "num": 219382,
+        "word": "高校回应学生演出后集体退衣服",
+        "onboard_time": 1733739441,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 252442,
+        "num": 219367,
+        "word": "周润发1.95亿港元出售香港山顶别墅",
+        "onboard_time": 1733734880,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41644,
+        "num": 219358,
+        "word": "武汉农商银行8万股1元起拍",
+        "onboard_time": 1733739682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220232,
+        "num": 219345,
+        "word": "陈紫函戴向宇婚礼八周年",
+        "onboard_time": 1733737162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209952,
+        "num": 219333,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 650512,
+        "num": 219322,
+        "word": "郑燕姿回应韩安冉",
+        "onboard_time": 1733734038,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358173,
+        "num": 219315,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24255,
+        "num": 219304,
+        "word": "亚冬会倒计时60天",
+        "onboard_time": 1733731820,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358134,
+        "num": 219293,
+        "word": "张柏芝杨紫徐艺洋活动生图",
+        "onboard_time": 1733732718,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257867,
+        "num": 219277,
+        "word": "我家那小子应到4人实到24人",
+        "onboard_time": 1733731278,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255410,
+        "num": 219266,
+        "word": "王楚钦混团夺冠后发文",
+        "onboard_time": 1733739019,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219265,
+        "num": 219265,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 216513,
+        "word": "王曼昱混团赛后发文",
+        "onboard_time": 1733739201,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169834,
+        "num": 215752,
+        "word": "范丞丞直播",
+        "onboard_time": 1733738598,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215687,
+        "num": 215687,
+        "word": "猎罪图鉴2追剧日历",
+        "onboard_time": 1733733920,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205540,
+        "num": 205540,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198628,
+        "num": 198628,
+        "word": "26岁剑桥女博士4小时的心路历程",
+        "onboard_time": 1733738720,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189294,
+        "num": 189294,
+        "word": "孟子义回应收拾收拾升咖",
+        "onboard_time": 1733735483,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184712,
+        "num": 184712,
+        "word": "杨紫说国色芳华马上播出了",
+        "onboard_time": 1733737701,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92738,
+        "num": 175169,
+        "word": "湖南卫视跨年20年了",
+        "onboard_time": 1733736321,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171967,
+        "num": 171967,
+        "word": "黑龙江一检察长被曝嫖娼被抓",
+        "onboard_time": 1733737459,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164755,
+        "num": 164755,
+        "word": "这就是我努力考研的原因",
+        "onboard_time": 1733735901,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170098,
+        "num": 164610,
+        "word": "那孟子义呢",
+        "onboard_time": 1733723479,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523462,
+        "num": 164549,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164332,
+        "num": 164332,
+        "word": "王曼昱说继续奋斗在路上",
+        "onboard_time": 1733739559,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161298,
+        "num": 161298,
+        "word": "苏州工业园区学校实行作业熔断机制",
+        "onboard_time": 1733736140,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160689,
+        "num": 160689,
+        "word": "广州地铁客服回应安检新规",
+        "onboard_time": 1733739501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560423,
+        "num": 159895,
+        "word": "孙颖莎ELLE封面预告",
+        "onboard_time": 1733735659,
+        "rank": 44,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 158527,
+        "num": 158527,
+        "word": "池忆",
+        "onboard_time": 1733734521,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152212,
+        "num": 152212,
+        "word": "小小的我海报字体是易烊千玺写的",
+        "onboard_time": 1733738302,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150478,
+        "num": 150478,
+        "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
+        "onboard_time": 1733739559,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144280,
+        "num": 144280,
+        "word": "孙颖莎已拿下14个世界冠军",
+        "onboard_time": 1733738778,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10255,
+        "num": 140857,
+        "word": "年末第一瓶自制果酒",
+        "onboard_time": 1733739261,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

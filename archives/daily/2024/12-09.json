@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733737296475,
+  "endTime": 1733740028994,
   "band_list": [
     {
       "raw_hot": 3228928,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2481538,
+      "raw_hot": 3083105,
       "num": 2481538,
       "word": "陈晓 陈妍希",
       "onboard_time": 1733735920,
@@ -115,6 +115,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 1189892,
+      "num": 468773,
+      "word": "叙利亚被释囚犯在街上边跑边笑",
+      "onboard_time": 1733738240,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
@@ -128,6 +136,14 @@
       "word": "明知对方是间谍仍泄密获刑10年",
       "onboard_time": 1733706139,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1082986,
+      "num": 219459,
+      "word": "男孩遇开门杀后遭货车碾压",
+      "onboard_time": 1733736980,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -307,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 681841,
+      "num": 1109094,
+      "word": "浙江卫视请来了真cp",
+      "onboard_time": 1733734940,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673931,
       "num": 673931,
       "word": "不给救护车让路私家车车主被拘",
@@ -371,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 618836,
+      "num": 302544,
+      "word": "李雪琴问13个人为啥叫seventeen",
+      "onboard_time": 1733737101,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611490,
       "num": 611490,
       "word": "悍匪周克华情人张某英已出狱",
@@ -417,14 +449,6 @@
       "onboard_time": 1733727918,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 537780,
-      "num": 537780,
-      "word": "浙江卫视请来了真cp",
-      "onboard_time": 1733734940,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 526845,
@@ -571,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416728,
+      "num": 219435,
+      "word": "张若昀随地乱丢烟头",
+      "onboard_time": 1733738001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -643,6 +675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 359152,
+      "num": 612321,
+      "word": "山西大学回应一留学生摸女生屁股",
+      "onboard_time": 1733733318,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359095,
       "num": 359095,
       "word": "年轻人患胃癌概率升高",
@@ -665,14 +705,6 @@
       "onboard_time": 1733726300,
       "rank": 37,
       "category": "民生新闻,游戏"
-    },
-    {
-      "raw_hot": 349179,
-      "num": 612321,
-      "word": "山西大学回应一留学生摸女生屁股",
-      "onboard_time": 1733733318,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334863,
@@ -923,6 +955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255410,
+      "num": 219266,
+      "word": "王楚钦混团夺冠后发文",
+      "onboard_time": 1733739019,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254954,
       "num": 254954,
       "word": "礼仪小姐身穿马面裙在冰场刮起中国风",
@@ -977,6 +1017,14 @@
       "onboard_time": 1733627662,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251571,
+      "num": 219394,
+      "word": "内娱终于等到完颜爱情剧",
+      "onboard_time": 1733738419,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 250675,
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220232,
+      "num": 255014,
+      "word": "陈紫函戴向宇婚礼八周年",
+      "onboard_time": 1733737162,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213479,
       "num": 587981,
       "word": "多家银行采用AI面试进行招聘",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1733733438,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205540,
+      "num": 205540,
+      "word": "双轨群演发声",
+      "onboard_time": 1733739379,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 205171,
@@ -1201,6 +1265,22 @@
       "onboard_time": 1733718621,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198628,
+      "num": 198628,
+      "word": "26岁剑桥女博士4小时的心路历程",
+      "onboard_time": 1733738720,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 198419,
+      "num": 216513,
+      "word": "王曼昱混团赛后发文",
+      "onboard_time": 1733739201,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 198355,
@@ -1331,6 +1411,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 184712,
+      "num": 184712,
+      "word": "杨紫说国色芳华马上播出了",
+      "onboard_time": 1733737701,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181047,
       "num": 326913,
       "word": "泉州文旅再次认证赵丽颖影响力",
@@ -1403,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174062,
-      "num": 174062,
-      "word": "男孩遇开门杀后遭货车碾压",
-      "onboard_time": 1733736980,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173997,
       "num": 173997,
       "word": "小金毛自己吓自己",
@@ -1427,20 +1507,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171967,
+      "num": 171967,
+      "word": "黑龙江一检察长被曝嫖娼被抓",
+      "onboard_time": 1733737459,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "2024中国非遗让中式浪漫具象化了",
       "onboard_time": 1733706258,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 171084,
-      "num": 171084,
-      "word": "李雪琴问13个人为啥叫seventeen",
-      "onboard_time": 1733737101,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 170980,
@@ -1459,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169834,
+      "num": 215752,
+      "word": "范丞丞直播",
+      "onboard_time": 1733738598,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166169,
       "num": 343267,
       "word": "男子借850万高利贷被执行2400万",
@@ -1473,6 +1561,22 @@
       "onboard_time": 1733663662,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164755,
+      "num": 164755,
+      "word": "这就是我努力考研的原因",
+      "onboard_time": 1733735901,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164332,
+      "num": 164332,
+      "word": "王曼昱说继续奋斗在路上",
+      "onboard_time": 1733739559,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 164279,
@@ -1513,6 +1617,14 @@
       "onboard_time": 1733721199,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160689,
+      "num": 160689,
+      "word": "广州地铁客服回应安检新规",
+      "onboard_time": 1733739501,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159947,
@@ -1627,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152212,
+      "num": 152212,
+      "word": "小小的我海报字体是易烊千玺写的",
+      "onboard_time": 1733738302,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "我是刑警 富大龙还没出来",
@@ -1641,6 +1761,14 @@
       "onboard_time": 1733707097,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150478,
+      "num": 150478,
+      "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
+      "onboard_time": 1733739559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149020,
@@ -1681,6 +1809,14 @@
       "onboard_time": 1733664380,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144280,
+      "num": 144280,
+      "word": "孙颖莎已拿下14个世界冠军",
+      "onboard_time": 1733738778,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 144238,
@@ -1923,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114202,
+      "num": 219382,
+      "word": "高校回应学生演出后集体退衣服",
+      "onboard_time": 1733739441,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 113131,
       "num": 113131,
       "word": "费启鸣小侯爷造型返场",
@@ -2091,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92738,
+      "num": 284272,
+      "word": "湖南卫视跨年20年了",
+      "onboard_time": 1733736321,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90537,
       "num": 90537,
       "word": "王楚钦 谁还不会用个鹰眼",
@@ -2185,14 +2337,6 @@
       "onboard_time": 1733728277,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 80434,
-      "num": 284272,
-      "word": "湖南卫视跨年20年了",
-      "onboard_time": 1733736321,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 79468,
@@ -2371,6 +2515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50906,
+      "num": 219468,
+      "word": "马丽说演员还是要有好作品",
+      "onboard_time": 1733738482,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46931,
       "num": 428579,
       "word": "反老登文学有理吗",
@@ -2419,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43578,
+      "num": 219408,
+      "word": "商家称顾客表演完后将演出服退了",
+      "onboard_time": 1733739501,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43539,
       "num": 52555,
       "word": "叙总理发视频称没有离开叙利亚",
@@ -2433,6 +2593,14 @@
       "onboard_time": 1733720962,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41644,
+      "num": 219358,
+      "word": "武汉农商银行8万股1元起拍",
+      "onboard_time": 1733739682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39350,
@@ -2539,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24255,
+      "num": 219304,
+      "word": "亚冬会倒计时60天",
+      "onboard_time": 1733731820,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23317,
       "num": 33699,
       "word": "庆祝澳门回归祖国25年",
@@ -2593,14 +2769,6 @@
       "onboard_time": 1733679734,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20647,
-      "num": 255014,
-      "word": "陈紫函戴向宇婚礼八周年",
-      "onboard_time": 1733737162,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 19951,
@@ -2729,6 +2897,14 @@
       "onboard_time": 1733719341,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10255,
+      "num": 140857,
+      "word": "年末第一瓶自制果酒",
+      "onboard_time": 1733739261,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 9582,
