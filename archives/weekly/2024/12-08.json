@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733772005636,
+  "endTime": 1733772972189,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -5699,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84360,
+      "num": 84360,
+      "word": "志愿者称走失女硕士丈夫在做笔录",
+      "onboard_time": 1733766973,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84222,
       "num": 341351,
       "word": "九重紫 心头血变朱砂痣",
@@ -5737,14 +5745,6 @@
       "onboard_time": 1733585901,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81769,
-      "num": 81769,
-      "word": "志愿者称走失女硕士丈夫在做笔录",
-      "onboard_time": 1733766973,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81073,
@@ -6787,6 +6787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27934,
+      "num": 30693,
+      "word": "蜀锦人家",
+      "onboard_time": 1733771531,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27707,
       "num": 340129,
       "word": "黄牛抢订公共网球场加价卖被拘",
@@ -6817,6 +6825,14 @@
       "onboard_time": 1733729838,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25095,
+      "num": 61008,
+      "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
+      "onboard_time": 1733761276,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25032,
@@ -6883,14 +6899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23701,
-      "num": 26057,
-      "word": "蜀锦人家",
-      "onboard_time": 1733771531,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23317,
       "num": 33699,
       "word": "庆祝澳门回归祖国25年",
@@ -6913,6 +6921,14 @@
       "onboard_time": 1733737040,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 22850,
+      "num": 31902,
+      "word": "特朗普威胁北约成员国",
+      "onboard_time": 1733771111,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22839,
@@ -6979,14 +6995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21098,
-      "num": 61008,
-      "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
-      "onboard_time": 1733761276,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20947,
       "num": 22773,
       "word": "本科专业大洗牌背后的调整逻辑",
@@ -7032,14 +7040,6 @@
       "word": "巴黎圣母院失火原因仍未有定论",
       "onboard_time": 1733599452,
       "rank": 28,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 20020,
-      "num": 20020,
-      "word": "特朗普威胁北约成员国",
-      "onboard_time": 1733771111,
-      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -7169,6 +7169,14 @@
       "onboard_time": 1733603050,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15345,
+      "num": 18943,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15220,
