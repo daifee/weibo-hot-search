@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733726081140,
+  "endTime": 1733726918420,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 856531,
+      "num": 760336,
+      "word": "警方通报私家车不给救护车让路",
+      "onboard_time": 1733722760,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 847134,
       "num": 847134,
       "word": "12306回应母女霸座还持刀威胁乘警",
@@ -515,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 771260,
+      "num": 771260,
+      "word": "那孟子义呢",
+      "onboard_time": 1733723479,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764134,
       "num": 764134,
       "word": "叙利亚国家军队说阿萨德政权已结束",
@@ -529,14 +545,6 @@
       "onboard_time": 1733617878,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 760336,
-      "num": 760336,
-      "word": "警方通报私家车不给救护车让路",
-      "onboard_time": 1733722760,
-      "rank": 27,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 760231,
@@ -633,14 +641,6 @@
       "onboard_time": 1733701157,
       "rank": 5,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 698153,
-      "num": 698153,
-      "word": "那孟子义呢",
-      "onboard_time": 1733723479,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 695949,
@@ -1059,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477639,
+      "num": 477639,
+      "word": "宋浩然回应韩安冉对网友发火",
+      "onboard_time": 1733723778,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 475481,
       "num": 475481,
       "word": "九重紫",
@@ -1275,6 +1283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 379360,
+      "num": 379360,
+      "word": "易烊千玺身材",
+      "onboard_time": 1733725699,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378553,
       "num": 378553,
       "word": "特朗普马克龙泽连斯基三方会晤",
@@ -1289,14 +1305,6 @@
       "onboard_time": 1733663120,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 370501,
-      "num": 444274,
-      "word": "宋浩然回应韩安冉对网友发火",
-      "onboard_time": 1733723778,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 369923,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1733717659,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327663,
+      "num": 376638,
+      "word": "孟子义李昀锐纯正姐狗味",
+      "onboard_time": 1733725101,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 326339,
@@ -1680,6 +1696,14 @@
       "word": "福宝正式检测结果将公布",
       "onboard_time": 1733671462,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289027,
+      "num": 616558,
+      "word": "妇联介入调查女硕士失踪被找回案",
+      "onboard_time": 1733725880,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1963,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245812,
+      "num": 245812,
+      "word": "为了科研他们2天狂吃200斤小龙虾",
+      "onboard_time": 1733722880,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244815,
       "num": 244815,
       "word": "马云现场祝福蚂蚁20岁生日",
@@ -2011,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241027,
+      "num": 241027,
+      "word": "原来被子颜色会影响人的睡眠",
+      "onboard_time": 1733721980,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241024,
       "num": 241024,
       "word": "考研最大的意义是认清自己",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1733568561,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236908,
-      "num": 376638,
-      "word": "孟子义李昀锐纯正姐狗味",
-      "onboard_time": 1733725101,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 236668,
@@ -2083,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227136,
+      "num": 227136,
+      "word": "花70万上港大刚上了1年被清退",
+      "onboard_time": 1733726419,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "98年员工抗议额外增加工作后遭辞退",
@@ -2097,14 +2137,6 @@
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222966,
-      "num": 222966,
-      "word": "为了科研他们2天狂吃200斤小龙虾",
-      "onboard_time": 1733722880,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222841,
@@ -2137,14 +2169,6 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217857,
-      "num": 217857,
-      "word": "原来被子颜色会影响人的睡眠",
-      "onboard_time": 1733721980,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 215598,
@@ -2217,6 +2241,14 @@
       "onboard_time": 1733664203,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 205171,
+      "word": "胖子瘦不下来的原因找到了",
+      "onboard_time": 1733722880,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 204232,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1733715738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198271,
+      "num": 198271,
+      "word": "周克华",
+      "onboard_time": 1733725217,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197553,
@@ -2481,6 +2521,14 @@
       "onboard_time": 1733714480,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192405,
+      "num": 192405,
+      "word": "男子倒卖游戏账号牵出3000万大案",
+      "onboard_time": 1733726300,
+      "rank": 37,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 192240,
@@ -2651,6 +2699,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 186613,
+      "num": 608392,
+      "word": "不给救护车让路私家车车主被拘",
+      "onboard_time": 1733726178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186202,
       "num": 186202,
       "word": "雷军回应小米被指贴牌",
@@ -2715,14 +2771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183088,
-      "num": 226202,
-      "word": "易烊千玺身材",
-      "onboard_time": 1733725699,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 182246,
       "num": 171125,
       "word": "叙利亚国内局势骤然升级",
@@ -2761,14 +2809,6 @@
       "onboard_time": 1733720841,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 180244,
-      "num": 180244,
-      "word": "胖子瘦不下来的原因找到了",
-      "onboard_time": 1733722880,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 179852,
@@ -2971,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168125,
+      "num": 541332,
+      "word": "一件好的羽绒服应该怎么选",
+      "onboard_time": 1733724139,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167815,
       "num": 167815,
       "word": "上班后朋友圈数据都变差了",
@@ -3099,6 +3147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158916,
+      "num": 158916,
+      "word": "男孩被困缅甸全村凑钱送父母出国接人",
+      "onboard_time": 1733726778,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158572,
       "num": 114979,
       "word": "九重紫 导演炫技",
@@ -3171,12 +3227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156069,
+      "num": 614027,
+      "word": "蔡国强回应烟花秀无人机坠海",
+      "onboard_time": 1733725158,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 155709,
       "num": 155709,
       "word": "90岁博士奶奶用猩猩语打招呼",
       "onboard_time": 1733620398,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155046,
+      "num": 155046,
+      "word": "易烊千玺林晓杰演祖孙",
+      "onboard_time": 1733726058,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 154486,
@@ -3201,14 +3273,6 @@
       "onboard_time": 1733710396,
       "rank": 34,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 153891,
-      "num": 582368,
-      "word": "妇联介入调查女硕士失踪被找回案",
-      "onboard_time": 1733725880,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153706,
@@ -3291,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148777,
+      "num": 148777,
+      "word": "什么球啊把孙颖莎逗得哈哈笑",
+      "onboard_time": 1733726839,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148569,
       "num": 165730,
       "word": "李昀锐战损梦回袁善见",
@@ -3329,14 +3401,6 @@
       "onboard_time": 1733671999,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146973,
-      "num": 146973,
-      "word": "周克华",
-      "onboard_time": 1733725217,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146742,
@@ -3393,14 +3457,6 @@
       "onboard_time": 1733716221,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143981,
-      "num": 484468,
-      "word": "一件好的羽绒服应该怎么选",
-      "onboard_time": 1733724139,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143905,
@@ -3473,6 +3529,14 @@
       "onboard_time": 1733629699,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139832,
+      "num": 371809,
+      "word": "孔雪儿扫楼状态",
+      "onboard_time": 1733721858,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 139522,
@@ -3561,14 +3625,6 @@
       "onboard_time": 1733643498,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 133657,
-      "num": 133657,
-      "word": "易烊千玺林晓杰演祖孙",
-      "onboard_time": 1733726058,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 133179,
@@ -3947,14 +4003,6 @@
       "category": "旅游,网红"
     },
     {
-      "raw_hot": 106242,
-      "num": 573790,
-      "word": "蔡国强回应烟花秀无人机坠海",
-      "onboard_time": 1733725158,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 106018,
       "num": 501893,
       "word": "今年砂糖橘涨价近三成",
@@ -3968,6 +4016,14 @@
       "word": "国乒决赛对阵韩国",
       "onboard_time": 1733637740,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101991,
+      "num": 254296,
+      "word": "王楚钦展望乒超联赛",
+      "onboard_time": 1733726178,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -4395,6 +4451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64014,
+      "num": 230950,
+      "word": "肖战诉说不同状态的我",
+      "onboard_time": 1733725340,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -4659,6 +4723,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40522,
+      "num": 168085,
+      "word": "现在1块钱还能买到什么",
+      "onboard_time": 1733724318,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39350,
+      "num": 227146,
+      "word": "潘展乐VogueSports首期封面",
+      "onboard_time": 1733726898,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39342,
       "num": 332424,
       "word": "食品安全别等网友来监督",
@@ -4681,6 +4761,14 @@
       "onboard_time": 1733573120,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37620,
+      "num": 155161,
+      "word": "辛巴徒弟蛋蛋现身山西助农",
+      "onboard_time": 1733726839,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37552,
@@ -4828,7 +4916,7 @@
     },
     {
       "raw_hot": 30574,
-      "num": 488919,
+      "num": 601959,
       "word": "白鹿同款好运汤圆",
       "onboard_time": 1733722699,
       "rank": 44,
@@ -4865,14 +4953,6 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27425,
-      "num": 152658,
-      "word": "现在1块钱还能买到什么",
-      "onboard_time": 1733724318,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27143,
@@ -5027,6 +5107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18865,
+      "num": 225871,
+      "word": "韩国创业板指日内重挫5%",
+      "onboard_time": 1733725638,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 18161,
       "num": 21830,
       "word": "男子组团转赞评被判6年半罚3000万",
@@ -5073,14 +5161,6 @@
       "onboard_time": 1733677515,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15142,
-      "num": 225871,
-      "word": "韩国创业板指日内重挫5%",
-      "onboard_time": 1733725638,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 14948,
