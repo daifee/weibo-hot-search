@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733729928698,
+  "endTime": 1733733183736,
   "band_list": [
     {
       "raw_hot": 3228928,
@@ -73,6 +73,14 @@
       "onboard_time": 1733716759,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1333971,
+      "num": 1333971,
+      "word": "爸妈旅个游却背了10年房贷",
+      "onboard_time": 1733731160,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1311036,
@@ -163,6 +171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838034,
+      "num": 838034,
+      "word": "徐艺洋开工",
+      "onboard_time": 1733729718,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 827220,
+      "num": 827220,
+      "word": "女硕士失踪十余年并育有一对儿女",
+      "onboard_time": 1733728340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826044,
       "num": 927236,
       "word": "孙颖莎阻止王楚钦继续用丢分球",
@@ -179,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 781516,
+      "num": 781516,
+      "word": "杨紫贵气千金",
+      "onboard_time": 1733729898,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 780341,
       "num": 780341,
       "word": "17岁男孩被诱骗至缅甸屡遭毒打",
       "onboard_time": 1733719881,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774231,
+      "num": 774231,
+      "word": "叙利亚",
+      "onboard_time": 1733703920,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 760231,
@@ -299,12 +339,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 554642,
-      "num": 554642,
-      "word": "叙利亚",
-      "onboard_time": 1733703920,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 551286,
+      "num": 551286,
+      "word": "为什么说冬天衣服不要穿太紧",
+      "onboard_time": 1733727918,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 526845,
@@ -419,12 +459,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 451086,
-      "num": 679142,
-      "word": "女硕士失踪十余年并育有一对儿女",
-      "onboard_time": 1733728340,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 451651,
+      "num": 451651,
+      "word": "徐艺洋婚后首亮相",
+      "onboard_time": 1733730798,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 440939,
@@ -507,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352594,
+      "num": 363551,
+      "word": "男子倒卖游戏账号牵出3000万大案",
+      "onboard_time": 1733726300,
+      "rank": 37,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 334863,
       "num": 273399,
       "word": "曹璐内娱可怜初舞台",
@@ -569,6 +617,14 @@
       "onboard_time": 1733673919,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 317145,
+      "num": 440681,
+      "word": "港股",
+      "onboard_time": 1733729358,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 315582,
@@ -659,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289630,
+      "num": 289630,
+      "word": "虞书欣双轨造型团队",
+      "onboard_time": 1733732541,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286277,
       "num": 286277,
       "word": "小杨哥被冻结51万股权",
@@ -683,14 +747,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 275642,
-      "num": 275642,
-      "word": "为什么说冬天衣服不要穿太紧",
-      "onboard_time": 1733727918,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 266199,
       "num": 266199,
       "word": "池忆 对不起所有爱我的人",
@@ -707,6 +763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 263868,
+      "num": 263868,
+      "word": "我家那小子应到4人实到24人",
+      "onboard_time": 1733731278,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263733,
       "num": 344194,
       "word": "大侦探这次是真的万水千山",
@@ -721,14 +785,6 @@
       "onboard_time": 1733727437,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 257790,
-      "num": 363551,
-      "word": "男子倒卖游戏账号牵出3000万大案",
-      "onboard_time": 1733726300,
-      "rank": 37,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 254954,
@@ -779,12 +835,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 250925,
-      "num": 250925,
-      "word": "杨紫贵气千金",
-      "onboard_time": 1733729898,
-      "rank": 28,
-      "category": "艺人,时尚"
+      "raw_hot": 251614,
+      "num": 251614,
+      "word": "大马士革国际机场所有航班已暂停",
+      "onboard_time": 1733627662,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250675,
@@ -811,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246874,
+      "num": 246874,
+      "word": "A50",
+      "onboard_time": 1733731039,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 245812,
       "num": 245812,
       "word": "为了科研他们2天狂吃200斤小龙虾",
@@ -819,12 +883,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243928,
+      "num": 673937,
+      "word": "民办大学倒闭潮要来了吗",
+      "onboard_time": 1733728818,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 243218,
+      "num": 243218,
+      "word": "稳住楼市股市",
+      "onboard_time": 1733731700,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 242865,
       "num": 614027,
       "word": "蔡国强回应烟花秀无人机坠海",
       "onboard_time": 1733725158,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 241569,
+      "num": 241569,
+      "word": "收留女硕士家属称其对社会国家无用",
+      "onboard_time": 1733731341,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 241027,
@@ -859,20 +947,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 230166,
+      "num": 230166,
+      "word": "华伦天奴活动",
+      "onboard_time": 1733730258,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "98年员工抗议额外增加工作后遭辞退",
       "onboard_time": 1733723960,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217213,
-      "num": 217212,
-      "word": "大马士革国际机场所有航班已暂停",
-      "onboard_time": 1733627662,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 213479,
@@ -947,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199703,
+      "num": 199703,
+      "word": "杨洋10秒钟的偶像剧",
+      "onboard_time": 1733732178,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "赵一博遇人不熟开机应援",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1733718141,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193641,
+      "num": 286673,
+      "word": "25年以iG TheShy见面吧",
+      "onboard_time": 1733730379,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 192766,
@@ -1163,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171793,
+      "num": 288664,
+      "word": "孟子义早该上桌了",
+      "onboard_time": 1733732718,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "2024中国非遗让中式浪漫具象化了",
@@ -1179,12 +1291,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166169,
+      "num": 343267,
+      "word": "男子借850万高利贷被执行2400万",
+      "onboard_time": 1733732300,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165790,
       "num": 165790,
       "word": "九重紫 烂人错过",
       "onboard_time": 1733663662,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164279,
+      "num": 284401,
+      "word": "中国天瑞水泥暴跌99%后秒涨1000%",
+      "onboard_time": 1733732121,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "赵丽颖白日焰火记录",
+      "onboard_time": 1733730560,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161816,
@@ -1225,6 +1361,14 @@
       "onboard_time": 1733658260,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157801,
+      "num": 157801,
+      "word": "小小的我",
+      "onboard_time": 1733732659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 157631,
@@ -1291,6 +1435,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 154005,
+      "num": 152695,
+      "word": "杨迪妈妈参演小小的我",
+      "onboard_time": 1733733020,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152188,
       "num": 152188,
       "word": "我是刑警 富大龙还没出来",
@@ -1337,6 +1489,14 @@
       "onboard_time": 1733671999,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "肖战拍诛仙1时努力让角色呆一点",
+      "onboard_time": 1733733020,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 144932,
@@ -1387,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139606,
+      "num": 248084,
+      "word": "与精神病人发生性关系构成强奸罪吗",
+      "onboard_time": 1733731399,
+      "rank": 34,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 139522,
       "num": 139522,
       "word": "张萌说李昀锐是孟姐控",
       "onboard_time": 1733724018,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139151,
+      "num": 139151,
+      "word": "NCT大队合体",
+      "onboard_time": 1733730619,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 135227,
@@ -1627,12 +1803,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100749,
-      "num": 440681,
-      "word": "港股",
-      "onboard_time": 1733729358,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 99260,
+      "num": 284788,
+      "word": "张柏芝杨紫徐艺洋活动生图",
+      "onboard_time": 1733732718,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 96541,
@@ -1667,6 +1843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95957,
+      "num": 288446,
+      "word": "丞磊方取证",
+      "onboard_time": 1733732121,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95571,
       "num": 369880,
       "word": "男子醉驾致2死3伤逃逸亲属带其投案",
@@ -1675,10 +1859,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94694,
+      "num": 286085,
+      "word": "浙江卫视跨年晚会主题官宣",
+      "onboard_time": 1733731880,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93372,
       "num": 93372,
       "word": "蔡国强烟花秀无人机坠海目击者发声",
       "onboard_time": 1733708239,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93063,
+      "num": 340905,
+      "word": "波司登真的在用心做羽绒服",
+      "onboard_time": 1733729599,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -1739,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84168,
+      "num": 500596,
+      "word": "中方回应叙利亚局势发展",
+      "onboard_time": 1733732598,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83439,
       "num": 199038,
       "word": "一建成绩",
@@ -1761,14 +1969,6 @@
       "onboard_time": 1733685911,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 81948,
-      "num": 673937,
-      "word": "民办大学倒闭潮要来了吗",
-      "onboard_time": 1733728818,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 80457,
@@ -1801,14 +2001,6 @@
       "onboard_time": 1733724497,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78114,
-      "num": 396987,
-      "word": "徐艺洋开工",
-      "onboard_time": 1733729718,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 78046,
@@ -1939,6 +2131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 46541,
+      "num": 289502,
+      "word": "人民网评我是刑警",
+      "onboard_time": 1733731700,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46198,
       "num": 60644,
       "word": "赠港大熊猫安安可可和大家见面了",
@@ -2017,14 +2217,6 @@
       "onboard_time": 1733684712,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 32880,
-      "num": 151527,
-      "word": "波司登真的在用心做羽绒服",
-      "onboard_time": 1733729599,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31836,
@@ -2251,6 +2443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 9970,
+      "num": 859870,
+      "word": "文化中国行看简牍里的中国人智慧",
+      "onboard_time": 1733689511,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9582,
       "num": 28640,
       "word": "老头杯",
@@ -2273,14 +2473,6 @@
       "onboard_time": 1733685732,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8530,
-      "num": 26968,
-      "word": "文化中国行看简牍里的中国人智慧",
-      "onboard_time": 1733689511,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8001,
@@ -2332,6 +2524,9 @@
     },
     {
       "word": "#人民城市温情中国#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
