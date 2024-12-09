@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733766036019,
+  "endTime": 1733769222744,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -18627,6 +18627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150015,
+      "num": 150015,
+      "word": "不知南京大屠杀是日本之耻",
+      "onboard_time": 1733765894,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150010,
       "num": 150010,
       "word": "华晨宇炸毛",
@@ -27003,6 +27011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56298,
+      "num": 73443,
+      "word": "日本历史学家为南京大屠杀添铁证",
+      "onboard_time": 1733768112,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55993,
       "num": 433746,
       "word": "潘展乐谈外国选手集体破防",
@@ -28579,6 +28595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42347,
+      "num": 42347,
+      "word": "志愿者称走失女硕士丈夫在做笔录",
+      "onboard_time": 1733766973,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42342,
       "num": 377777,
       "word": "90后牛散操纵23只股票被罚近3500万",
@@ -29545,14 +29569,6 @@
       "onboard_time": 1733488100,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33605,
-      "num": 33605,
-      "word": "不知南京大屠杀是日本之耻",
-      "onboard_time": 1733765894,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33518,
@@ -30731,12 +30747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24841,
+      "num": 24841,
+      "word": "日本人不知南京大屠杀是日本之耻",
+      "onboard_time": 1733768832,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24580,
       "num": 191390,
       "word": "刘雨昕 有一颗清醒的心比什么都重要",
       "onboard_time": 1733558120,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24502,
+      "num": 24502,
+      "word": "华晨宇下次见未来见",
+      "onboard_time": 1733768172,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 24489,
@@ -30793,6 +30825,14 @@
       "onboard_time": 1733652260,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24347,
+      "num": 54968,
+      "word": "张柏芝时隔一年微博营业",
+      "onboard_time": 1733764995,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 24272,
@@ -30891,6 +30931,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 24005,
+      "num": 24506,
+      "word": "易烊千玺肢体表现力",
+      "onboard_time": 1733767812,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23839,
       "num": 68760,
       "word": "广州公布26个电子眼抓拍电鸡",
@@ -30969,6 +31017,14 @@
       "onboard_time": 1733565260,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23095,
+      "num": 23095,
+      "word": "快哉快哉",
+      "onboard_time": 1733767033,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 23057,
@@ -31201,6 +31257,14 @@
       "onboard_time": 1733474540,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21473,
+      "num": 23095,
+      "word": "微博音乐大赏启动",
+      "onboard_time": 1733768533,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 21432,
@@ -32547,14 +32611,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 11645,
-      "num": 54968,
-      "word": "张柏芝时隔一年微博营业",
-      "onboard_time": 1733764995,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11418,
       "num": 209599,
       "word": "丧偶式婚姻的家庭温情课",
@@ -33001,6 +33057,14 @@
       "onboard_time": 1733079491,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6460,
+      "num": 47989,
+      "word": "泉州少林寺偶遇林更新",
+      "onboard_time": 1733768112,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 6442,

@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733766036019,
+  "endTime": 1733769222744,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -177,6 +177,14 @@
       "onboard_time": 1733750660,
       "rank": 21,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 150015,
+      "num": 150015,
+      "word": "不知南京大屠杀是日本之耻",
+      "onboard_time": 1733765894,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142217,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56298,
+      "num": 73443,
+      "word": "日本历史学家为南京大屠杀添铁证",
+      "onboard_time": 1733768112,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54952,
       "num": 227453,
       "word": "官方通报洗浴中心多人出现不适被送医",
@@ -419,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33605,
-      "num": 33605,
-      "word": "不知南京大屠杀是日本之耻",
-      "onboard_time": 1733765894,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 42347,
+      "num": 42347,
+      "word": "志愿者称走失女硕士丈夫在做笔录",
+      "onboard_time": 1733766973,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29810,
@@ -433,6 +449,54 @@
       "onboard_time": 1733754380,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24841,
+      "num": 24841,
+      "word": "日本人不知南京大屠杀是日本之耻",
+      "onboard_time": 1733768832,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 24502,
+      "num": 24502,
+      "word": "华晨宇下次见未来见",
+      "onboard_time": 1733768172,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24347,
+      "num": 54968,
+      "word": "张柏芝时隔一年微博营业",
+      "onboard_time": 1733764995,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24005,
+      "num": 24506,
+      "word": "易烊千玺肢体表现力",
+      "onboard_time": 1733767812,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 23095,
+      "num": 23095,
+      "word": "快哉快哉",
+      "onboard_time": 1733767033,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 21473,
+      "num": 23095,
+      "word": "微博音乐大赏启动",
+      "onboard_time": 1733768533,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 17552,
@@ -459,14 +523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 11645,
-      "num": 54968,
-      "word": "张柏芝时隔一年微博营业",
-      "onboard_time": 1733764995,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 7292,
       "num": 84052,
       "word": "萧逸初雪卡",
@@ -481,6 +537,22 @@
       "onboard_time": 1733765473,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6460,
+      "num": 47989,
+      "word": "泉州少林寺偶遇林更新",
+      "onboard_time": 1733768112,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2035,
+      "num": 153543,
+      "word": "文化中国行看简牍里的中国人智慧",
+      "onboard_time": 1733689511,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
