@@ -1,0 +1,410 @@
+{
+  "runTime": 1733734002540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609405,
+        "num": 1609405,
+        "word": "爸妈旅个游却背了10年房贷",
+        "onboard_time": 1733731160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 907380,
+        "num": 907380,
+        "word": "女硕士失踪十余年并育有一对儿女",
+        "onboard_time": 1733728340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12455,
+        "num": 857008,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844875,
+        "num": 844875,
+        "word": "徐艺洋开工",
+        "onboard_time": 1733729718,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691881,
+        "num": 691881,
+        "word": "杨紫贵气千金",
+        "onboard_time": 1733729898,
+        "rank": 4,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 649064,
+        "num": 649064,
+        "word": "花70万上港大刚上了1年被清退",
+        "onboard_time": 1733726419,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628334,
+        "num": 628334,
+        "word": "那孟子义呢",
+        "onboard_time": 1733723479,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588732,
+        "num": 588732,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 524391,
+        "num": 524391,
+        "word": "为什么说冬天衣服不要穿太紧",
+        "onboard_time": 1733727918,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131312,
+        "num": 487257,
+        "word": "中方回应叙利亚局势发展",
+        "onboard_time": 1733732598,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462852,
+        "num": 462852,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405856,
+        "num": 405856,
+        "word": "虞书欣双轨造型团队",
+        "onboard_time": 1733732541,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355761,
+        "num": 355761,
+        "word": "稳住楼市股市",
+        "onboard_time": 1733731700,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 351535,
+        "num": 351535,
+        "word": "年轻人一年发送了5760000次的接",
+        "onboard_time": 1733717600,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162576,
+        "num": 332471,
+        "word": "男子借850万高利贷被执行2400万",
+        "onboard_time": 1733732300,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329686,
+        "num": 329686,
+        "word": "刘阳老师辞职",
+        "onboard_time": 1733713938,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320537,
+        "num": 320537,
+        "word": "张柏芝杨紫徐艺洋活动生图",
+        "onboard_time": 1733732718,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318193,
+        "num": 318193,
+        "word": "民办大学倒闭潮要来了吗",
+        "onboard_time": 1733728818,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 231300,
+        "num": 312750,
+        "word": "孟子义早该上桌了",
+        "onboard_time": 1733732718,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307495,
+        "num": 307495,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 412858,
+        "num": 307411,
+        "word": "易烊千玺身材",
+        "onboard_time": 1733725699,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369964,
+        "num": 307199,
+        "word": "不给救护车让路私家车车主被拘",
+        "onboard_time": 1733726178,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355502,
+        "num": 307107,
+        "word": "15岁Kimi近照",
+        "onboard_time": 1733710877,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306983,
+        "num": 306983,
+        "word": "碰一下支付莫名欠了1980元花呗",
+        "onboard_time": 1733733379,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315945,
+        "num": 294324,
+        "word": "警方通报私家车不给救护车让路",
+        "onboard_time": 1733722760,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 279414,
+        "num": 279414,
+        "word": "港股",
+        "onboard_time": 1733729358,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104555,
+        "num": 278810,
+        "word": "波司登真的在用心做羽绒服",
+        "onboard_time": 1733729599,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305661,
+        "num": 275550,
+        "word": "疑似唐艺昕怀二胎",
+        "onboard_time": 1733713818,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51890,
+        "num": 273023,
+        "word": "丞磊方取证",
+        "onboard_time": 1733732121,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81073,
+        "num": 270101,
+        "word": "孙颖莎感叹成都国球氛围",
+        "onboard_time": 1733733978,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76657,
+        "num": 266443,
+        "word": "JDG官宣Xun加入",
+        "onboard_time": 1733730200,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 265677,
+        "num": 265677,
+        "word": "男子倒卖游戏账号牵出3000万大案",
+        "onboard_time": 1733726300,
+        "rank": 31,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 296984,
+        "num": 253010,
+        "word": "我家那小子应到4人实到24人",
+        "onboard_time": 1733731278,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234176,
+        "num": 234176,
+        "word": "收留女硕士家属称其对社会国家无用",
+        "onboard_time": 1733731341,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222597,
+        "num": 222597,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219705,
+        "num": 219705,
+        "word": "韩安冉 韩亿",
+        "onboard_time": 1733727319,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217667,
+        "num": 217667,
+        "word": "猎罪图鉴2追剧日历",
+        "onboard_time": 1733733920,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206909,
+        "num": 206909,
+        "word": "张真源 真要当粉丝面如此吗",
+        "onboard_time": 1733733438,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203533,
+        "num": 203533,
+        "word": "杨洋10秒钟的偶像剧",
+        "onboard_time": 1733732178,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197021,
+        "num": 197021,
+        "word": "华伦天奴活动",
+        "onboard_time": 1733730258,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196942,
+        "num": 196942,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196675,
+        "num": 196675,
+        "word": "山西大学回应一留学生摸女生屁股",
+        "onboard_time": 1733733318,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195710,
+        "num": 195710,
+        "word": "与精神病人发生性关系构成强奸罪吗",
+        "onboard_time": 1733731399,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 183586,
+        "num": 183586,
+        "word": "A50",
+        "onboard_time": 1733731039,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178933,
+        "num": 178933,
+        "word": "25年以iG TheShy见面吧",
+        "onboard_time": 1733730379,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161684,
+        "num": 161684,
+        "word": "肖战拍诛仙1时努力让角色呆一点",
+        "onboard_time": 1733733020,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152974,
+        "num": 152974,
+        "word": "杨迪妈妈参演小小的我",
+        "onboard_time": 1733733020,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143251,
+        "num": 143251,
+        "word": "中国天瑞水泥暴跌99%后秒涨1000%",
+        "onboard_time": 1733732121,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142187,
+        "num": 142187,
+        "word": "分析研究2025年经济工作",
+        "onboard_time": 1733730200,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139873,
+        "num": 139873,
+        "word": "伊朗就叙利亚局势表明态度",
+        "onboard_time": 1733718141,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

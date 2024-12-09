@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733733183736,
+  "endTime": 1733734002540,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -96,6 +96,14 @@
       "word": "女硕士被拐卖",
       "onboard_time": 1733621178,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1609405,
+      "num": 1609405,
+      "word": "爸妈旅个游却背了10年房贷",
+      "onboard_time": 1733731160,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -209,14 +217,6 @@
       "onboard_time": 1733649501,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1333971,
-      "num": 1333971,
-      "word": "爸妈旅个游却背了10年房贷",
-      "onboard_time": 1733731160,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1311036,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 907380,
+      "num": 907380,
+      "word": "女硕士失踪十余年并育有一对儿女",
+      "onboard_time": 1733728340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899444,
       "num": 1143911,
       "word": "秦岚一把搂住虞书欣",
@@ -467,8 +475,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 838034,
-      "num": 838034,
+      "raw_hot": 844875,
+      "num": 844875,
       "word": "徐艺洋开工",
       "onboard_time": 1733729718,
       "rank": 19,
@@ -481,14 +489,6 @@
       "onboard_time": 1733664500,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 827220,
-      "num": 827220,
-      "word": "女硕士失踪十余年并育有一对儿女",
-      "onboard_time": 1733728340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 826188,
@@ -1179,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462852,
+      "num": 462852,
+      "word": "徐艺洋婚后首亮相",
+      "onboard_time": 1733730798,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459852,
       "num": 459852,
       "word": "特朗普称俄乌立即停火时机已成熟",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1733586621,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451651,
-      "num": 451651,
-      "word": "徐艺洋婚后首亮相",
-      "onboard_time": 1733730798,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 447686,
@@ -1304,6 +1304,14 @@
       "word": "孟子义李昀锐扫楼",
       "onboard_time": 1733716639,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 405856,
+      "num": 405856,
+      "word": "虞书欣双轨造型团队",
+      "onboard_time": 1733732541,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355761,
+      "num": 355761,
+      "word": "稳住楼市股市",
+      "onboard_time": 1733731700,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 353645,
       "num": 353645,
       "word": "丁禹兮直播",
@@ -1571,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320537,
+      "num": 320537,
+      "word": "张柏芝杨紫徐艺洋活动生图",
+      "onboard_time": 1733732718,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 319927,
       "num": 319927,
       "word": "低价宠物粮竟多加蒙脱石",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1733668161,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318193,
+      "num": 673937,
+      "word": "民办大学倒闭潮要来了吗",
+      "onboard_time": 1733728818,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 317145,
@@ -1683,6 +1715,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307495,
+      "num": 307495,
+      "word": "救救祝绪丹",
+      "onboard_time": 1733733438,
+      "rank": 19,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 306983,
+      "num": 306983,
+      "word": "碰一下支付莫名欠了1980元花呗",
+      "onboard_time": 1733733379,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1733628919,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296984,
+      "num": 263868,
+      "word": "我家那小子应到4人实到24人",
+      "onboard_time": 1733731278,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 296411,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1733671462,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289630,
-      "num": 289630,
-      "word": "虞书欣双轨造型团队",
-      "onboard_time": 1733732541,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 288755,
@@ -1921,14 +1969,6 @@
       "onboard_time": 1733718742,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 263868,
-      "num": 263868,
-      "word": "我家那小子应到4人实到24人",
-      "onboard_time": 1733731278,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 263733,
@@ -2139,28 +2179,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 243928,
-      "num": 673937,
-      "word": "民办大学倒闭潮要来了吗",
-      "onboard_time": 1733728818,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 243524,
       "num": 365177,
       "word": "TheShy LPL我回来了",
       "onboard_time": 1733653160,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 243218,
-      "num": 243218,
-      "word": "稳住楼市股市",
-      "onboard_time": 1733731700,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 242865,
@@ -2283,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231300,
+      "num": 312750,
+      "word": "孟子义早该上桌了",
+      "onboard_time": 1733732718,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230166,
       "num": 230166,
       "word": "华伦天奴活动",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217667,
+      "num": 217667,
+      "word": "猎罪图鉴2追剧日历",
+      "onboard_time": 1733733920,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 215598,
@@ -2419,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206909,
+      "num": 206909,
+      "word": "张真源 真要当粉丝面如此吗",
+      "onboard_time": 1733733438,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205171,
       "num": 205171,
       "word": "胖子瘦不下来的原因找到了",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1733641459,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203533,
+      "num": 203533,
+      "word": "杨洋10秒钟的偶像剧",
+      "onboard_time": 1733732178,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 202657,
@@ -2505,14 +2561,6 @@
       "onboard_time": 1733717479,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199703,
-      "num": 199703,
-      "word": "杨洋10秒钟的偶像剧",
-      "onboard_time": 1733732178,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 199142,
@@ -2601,6 +2649,22 @@
       "onboard_time": 1733653279,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196675,
+      "num": 196675,
+      "word": "山西大学回应一留学生摸女生屁股",
+      "onboard_time": 1733733318,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195710,
+      "num": 248084,
+      "word": "与精神病人发生性关系构成强奸罪吗",
+      "onboard_time": 1733731399,
+      "rank": 34,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 195507,
@@ -3139,14 +3203,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171793,
-      "num": 288664,
-      "word": "孟子义早该上桌了",
-      "onboard_time": 1733732718,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "2024中国非遗让中式浪漫具象化了",
@@ -3355,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161684,
+      "num": 161684,
+      "word": "肖战拍诛仙1时努力让角色呆一点",
+      "onboard_time": 1733733020,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161599,
       "num": 325345,
       "word": "魏晨名侦探的假期vlog",
@@ -3500,7 +3564,7 @@
     },
     {
       "raw_hot": 154005,
-      "num": 152695,
+      "num": 152974,
       "word": "杨迪妈妈参演小小的我",
       "onboard_time": 1733733020,
       "rank": 44,
@@ -3627,14 +3691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147206,
-      "num": 147206,
-      "word": "肖战拍诛仙1时努力让角色呆一点",
-      "onboard_time": 1733733020,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146742,
       "num": 190651,
       "word": "中国短道队北京站3金2铜收官",
@@ -3707,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142187,
+      "num": 142187,
+      "word": "分析研究2025年经济工作",
+      "onboard_time": 1733730200,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141535,
       "num": 673163,
       "word": "当地再回应女硕士走失13年已有儿女",
@@ -3777,14 +3841,6 @@
       "onboard_time": 1733629699,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139606,
-      "num": 248084,
-      "word": "与精神病人发生性关系构成强奸罪吗",
-      "onboard_time": 1733731399,
-      "rank": 34,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 139522,
@@ -3905,6 +3961,14 @@
       "onboard_time": 1733586802,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131312,
+      "num": 500596,
+      "word": "中方回应叙利亚局势发展",
+      "onboard_time": 1733732598,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130820,
@@ -4275,6 +4339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104555,
+      "num": 340905,
+      "word": "波司登真的在用心做羽绒服",
+      "onboard_time": 1733729599,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104529,
       "num": 127413,
       "word": "国乒决赛对阵韩国",
@@ -4297,14 +4369,6 @@
       "onboard_time": 1733636179,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 99260,
-      "num": 284788,
-      "word": "张柏芝杨紫徐艺洋活动生图",
-      "onboard_time": 1733732718,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 99029,
@@ -4399,14 +4463,6 @@
       "num": 93372,
       "word": "蔡国强烟花秀无人机坠海目击者发声",
       "onboard_time": 1733708239,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93063,
-      "num": 340905,
-      "word": "波司登真的在用心做羽绒服",
-      "onboard_time": 1733729599,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -4531,14 +4587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84168,
-      "num": 500596,
-      "word": "中方回应叙利亚局势发展",
-      "onboard_time": 1733732598,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83439,
       "num": 199038,
       "word": "一建成绩",
@@ -4568,6 +4616,14 @@
       "word": "国乒赛后发布会也光速下班了",
       "onboard_time": 1733585901,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81073,
+      "num": 270101,
+      "word": "孙颖莎感叹成都国球氛围",
+      "onboard_time": 1733733978,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -4649,6 +4705,14 @@
       "onboard_time": 1733628559,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76657,
+      "num": 266443,
+      "word": "JDG官宣Xun加入",
+      "onboard_time": 1733730200,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 75120,
@@ -5579,6 +5643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12455,
+      "num": 859870,
+      "word": "文化中国行看简牍里的中国人智慧",
+      "onboard_time": 1733689511,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12337,
       "num": 523542,
       "word": "重案实录刑侦剧的魅力",
@@ -5625,14 +5697,6 @@
       "onboard_time": 1733605450,
       "rank": 26,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 9970,
-      "num": 859870,
-      "word": "文化中国行看简牍里的中国人智慧",
-      "onboard_time": 1733689511,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9582,
