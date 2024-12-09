@@ -1,0 +1,410 @@
+{
+  "runTime": 1733713791486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1201073,
+        "num": 1201073,
+        "word": "小小的我定档",
+        "onboard_time": 1733709858,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 992369,
+        "num": 992369,
+        "word": "南京大屠杀铁证碇泊场照片首次曝光",
+        "onboard_time": 1733709978,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22093,
+        "num": 966597,
+        "word": "青知讲说人",
+        "onboard_time": 1733710396,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1937597,
+        "num": 957114,
+        "word": "15岁Kimi近照",
+        "onboard_time": 1733710877,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946266,
+        "num": 946266,
+        "word": "蔡国强呼吁无人机不要带回家",
+        "onboard_time": 1733704939,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564390,
+        "num": 564390,
+        "word": "三明治穿衣法",
+        "onboard_time": 1733701157,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 983488,
+        "num": 561475,
+        "word": "展信佳",
+        "onboard_time": 1733710520,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 977002,
+        "num": 556161,
+        "word": "误杀3全阵容官宣",
+        "onboard_time": 1733711958,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41596,
+        "num": 545581,
+        "word": "多家银行采用AI面试进行招聘",
+        "onboard_time": 1733713339,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140005,
+        "num": 539750,
+        "word": "9部门明确认定家暴证据标准",
+        "onboard_time": 1733713099,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 662873,
+        "num": 533372,
+        "word": "周深千字长文",
+        "onboard_time": 1733700616,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 511546,
+        "num": 528106,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 521291,
+        "num": 521291,
+        "word": "明知对方是间谍仍泄密获刑10年",
+        "onboard_time": 1733706139,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517667,
+        "num": 517667,
+        "word": "鹿晗录制五哈",
+        "onboard_time": 1733709918,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16996,
+        "num": 476557,
+        "word": "虐猫学生曾伪装成爱猫者进入爱猫群",
+        "onboard_time": 1733713639,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438542,
+        "num": 438542,
+        "word": "阿萨德及家人抵达俄罗斯",
+        "onboard_time": 1733703559,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377607,
+        "num": 377607,
+        "word": "宠物粮里加蒙脱石厂商竟说吃不死",
+        "onboard_time": 1733710217,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359095,
+        "num": 359095,
+        "word": "年轻人患胃癌概率升高",
+        "onboard_time": 1733708959,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302620,
+        "num": 339256,
+        "word": "江苏卫视跨年首波阵容官宣",
+        "onboard_time": 1733712558,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86461,
+        "num": 326913,
+        "word": "泉州文旅再次认证赵丽颖影响力",
+        "onboard_time": 1733712919,
+        "rank": 19,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 435602,
+        "num": 324907,
+        "word": "释小龙大吃一口秦海璐周一围的苦",
+        "onboard_time": 1733707877,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321298,
+        "num": 321298,
+        "word": "普通家庭没必要进行苦难教育",
+        "onboard_time": 1733708478,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316979,
+        "num": 316979,
+        "word": "阿萨德已到莫斯科",
+        "onboard_time": 1733698874,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 440939,
+        "num": 308982,
+        "word": "九部门明确家暴证据标准",
+        "onboard_time": 1733712499,
+        "rank": 23,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 302417,
+        "word": "Mafa 感谢把我召回iG",
+        "onboard_time": 1733712799,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299242,
+        "num": 299242,
+        "word": "员工误开紫光灯致地板寿命减10年",
+        "onboard_time": 1733699836,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270775,
+        "num": 270775,
+        "word": "蔡国强烟花秀大量无人机坠海",
+        "onboard_time": 1733699836,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266199,
+        "num": 266199,
+        "word": "池忆 对不起所有爱我的人",
+        "onboard_time": 1733711117,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254954,
+        "num": 254954,
+        "word": "礼仪小姐身穿马面裙在冰场刮起中国风",
+        "onboard_time": 1733710877,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254759,
+        "num": 254759,
+        "word": "电影小小的我概念预告",
+        "onboard_time": 1733710818,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247931,
+        "num": 247931,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233771,
+        "num": 233771,
+        "word": "韩国警方考虑禁止尹锡悦出境",
+        "onboard_time": 1733710520,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203635,
+        "num": 203635,
+        "word": "医生做完手术才发现脚已肿成馒头",
+        "onboard_time": 1733701755,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "当我把400元的羽绒服剪开后",
+        "onboard_time": 1733701337,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188191,
+        "num": 188191,
+        "word": "特朗普称不会承诺让美国留在北约",
+        "onboard_time": 1733709918,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186824,
+        "num": 186824,
+        "word": "为什么喜欢阅读的人精神更富足",
+        "onboard_time": 1733712799,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 185427,
+        "num": 185427,
+        "word": "2025年贺岁纪念币纪念钞即将发行",
+        "onboard_time": 1733712737,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172237,
+        "num": 172237,
+        "word": "大侦探这次是真的万水千山",
+        "onboard_time": 1733713160,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171789,
+        "num": 171789,
+        "word": "小杨哥被冻结51万股权",
+        "onboard_time": 1733713277,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166356,
+        "num": 166356,
+        "word": "叶祖新 告诉若曦我不是草包",
+        "onboard_time": 1733668161,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160144,
+        "num": 160144,
+        "word": "余额宝收益率跌破历史新低",
+        "onboard_time": 1733701755,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144009,
+        "num": 144009,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140640,
+        "num": 140640,
+        "word": "孟子义李昀锐九重紫热度破28000",
+        "onboard_time": 1733701577,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137338,
+        "num": 137338,
+        "word": "莎头组合和韩国队都乐了",
+        "onboard_time": 1733708597,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126982,
+        "num": 126982,
+        "word": "当地派出所称张某英出狱后在外打工",
+        "onboard_time": 1733710639,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "丁禹兮工作室",
+        "onboard_time": 1733707097,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121392,
+        "num": 121392,
+        "word": "赵丽颖带想想看泉州烟花秀",
+        "onboard_time": 1733668161,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119466,
+        "num": 119466,
+        "word": "曹璐内娱可怜初舞台",
+        "onboard_time": 1733713639,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113560,
+        "num": 113560,
+        "word": "成毅代言祖玛珑",
+        "onboard_time": 1733710396,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 113131,
+        "num": 113131,
+        "word": "费启鸣小侯爷造型返场",
+        "onboard_time": 1733711419,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬奉献友爱互助进步的志愿精神#"
+    }
+  }
+}

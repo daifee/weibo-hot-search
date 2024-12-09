@@ -1,7 +1,15 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733710644189,
+  "endTime": 1733713791486,
   "band_list": [
+    {
+      "raw_hot": 1937597,
+      "num": 957114,
+      "word": "15岁Kimi近照",
+      "onboard_time": 1733710877,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1819130,
       "num": 1819130,
@@ -41,6 +49,30 @@
       "onboard_time": 1733706139,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 992369,
+      "num": 992369,
+      "word": "南京大屠杀铁证碇泊场照片首次曝光",
+      "onboard_time": 1733709978,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 983488,
+      "num": 561475,
+      "word": "展信佳",
+      "onboard_time": 1733710520,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 977002,
+      "num": 556161,
+      "word": "误杀3全阵容官宣",
+      "onboard_time": 1733711958,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 931222,
@@ -139,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 517667,
+      "num": 517667,
+      "word": "鹿晗录制五哈",
+      "onboard_time": 1733709918,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508818,
       "num": 469748,
       "word": "赵丽颖带想想看泉州烟花秀",
@@ -163,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 440939,
+      "num": 308982,
+      "word": "九部门明确家暴证据标准",
+      "onboard_time": 1733712499,
+      "rank": 23,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 419534,
       "num": 419534,
       "word": "蔡国强烟花秀大量无人机坠海",
@@ -177,6 +225,14 @@
       "onboard_time": 1733703920,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 377607,
+      "num": 609237,
+      "word": "宠物粮里加蒙脱石厂商竟说吃不死",
+      "onboard_time": 1733710217,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369923,
@@ -195,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 359095,
+      "num": 359095,
+      "word": "年轻人患胃癌概率升高",
+      "onboard_time": 1733708959,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 330520,
       "num": 330520,
       "word": "侯明昊因飞机改签错过偶像麦迪",
@@ -211,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322962,
-      "num": 322962,
-      "word": "鹿晗录制五哈",
-      "onboard_time": 1733709918,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321769,
       "num": 289051,
       "word": "警方通报某幼教机构卫生间发现摄像头",
       "onboard_time": 1733670320,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 321298,
+      "num": 321298,
+      "word": "普通家庭没必要进行苦难教育",
+      "onboard_time": 1733708478,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 319927,
@@ -241,6 +305,14 @@
       "onboard_time": 1733656220,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302620,
+      "num": 339256,
+      "word": "江苏卫视跨年首波阵容官宣",
+      "onboard_time": 1733712558,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 297311,
@@ -275,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288221,
-      "num": 288221,
-      "word": "普通家庭没必要进行苦难教育",
-      "onboard_time": 1733708478,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 283481,
       "num": 283481,
       "word": "黄子韬携专辑回归",
@@ -299,12 +363,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 267172,
-      "num": 267172,
-      "word": "年轻人患胃癌概率升高",
-      "onboard_time": 1733708959,
-      "rank": 44,
-      "category": "健康医疗"
+      "raw_hot": 266199,
+      "num": 266199,
+      "word": "池忆 对不起所有爱我的人",
+      "onboard_time": 1733711117,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254954,
+      "num": 254954,
+      "word": "礼仪小姐身穿马面裙在冰场刮起中国风",
+      "onboard_time": 1733710877,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254759,
+      "num": 254759,
+      "word": "电影小小的我概念预告",
+      "onboard_time": 1733710818,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 254738,
@@ -329,6 +409,14 @@
       "onboard_time": 1733669901,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233771,
+      "num": 607124,
+      "word": "韩国警方考虑禁止尹锡悦出境",
+      "onboard_time": 1733710520,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208404,
@@ -371,6 +459,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188191,
+      "num": 188191,
+      "word": "特朗普称不会承诺让美国留在北约",
+      "onboard_time": 1733709918,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 186824,
+      "num": 186824,
+      "word": "为什么喜欢阅读的人精神更富足",
+      "onboard_time": 1733712799,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 185427,
+      "num": 185427,
+      "word": "2025年贺岁纪念币纪念钞即将发行",
+      "onboard_time": 1733712737,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175958,
       "num": 175958,
       "word": "王楚钦说和孙颖莎都做到全力以赴",
@@ -385,6 +497,22 @@
       "onboard_time": 1733627662,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172237,
+      "num": 172237,
+      "word": "大侦探这次是真的万水千山",
+      "onboard_time": 1733713160,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171789,
+      "num": 171789,
+      "word": "小杨哥被冻结51万股权",
+      "onboard_time": 1733713277,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171608,
@@ -491,11 +619,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138905,
-      "num": 138905,
-      "word": "南京大屠杀铁证碇泊场照片首次曝光",
-      "onboard_time": 1733709978,
-      "rank": 38,
+      "raw_hot": 140005,
+      "num": 539750,
+      "word": "9部门明确认定家暴证据标准",
+      "onboard_time": 1733713099,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -523,20 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127917,
-      "num": 127917,
-      "word": "特朗普称不会承诺让美国留在北约",
-      "onboard_time": 1733709918,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 127048,
-      "num": 127048,
-      "word": "展信佳",
-      "onboard_time": 1733710520,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 126982,
+      "num": 126982,
+      "word": "当地派出所称张某英出狱后在外打工",
+      "onboard_time": 1733710639,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126002,
@@ -603,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119515,
-      "num": 609237,
-      "word": "宠物粮里加蒙脱石厂商竟说吃不死",
-      "onboard_time": 1733710217,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 119466,
+      "num": 119466,
+      "word": "曹璐内娱可怜初舞台",
+      "onboard_time": 1733713639,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119112,
@@ -675,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113131,
+      "num": 113131,
+      "word": "费启鸣小侯爷造型返场",
+      "onboard_time": 1733711419,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110118,
       "num": 177450,
       "word": "为何身边发烧的人变多了",
@@ -689,6 +817,14 @@
       "onboard_time": 1733658800,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 107445,
+      "num": 302417,
+      "word": "Mafa 感谢把我召回iG",
+      "onboard_time": 1733712799,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 104226,
@@ -769,6 +905,14 @@
       "onboard_time": 1733681831,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86461,
+      "num": 326913,
+      "word": "泉州文旅再次认证赵丽颖影响力",
+      "onboard_time": 1733712919,
+      "rank": 19,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 82227,
@@ -867,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41596,
+      "num": 545581,
+      "word": "多家银行采用AI面试进行招聘",
+      "onboard_time": 1733713339,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37552,
       "num": 49636,
       "word": "严浩翔新歌今晚记得来听",
@@ -931,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22093,
+      "num": 1366769,
+      "word": "青知讲说人",
+      "onboard_time": 1733710396,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20780,
       "num": 21548,
       "word": "黑白森林",
@@ -985,6 +1145,14 @@
       "onboard_time": 1733685013,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16996,
+      "num": 476557,
+      "word": "虐猫学生曾伪装成爱猫者进入爱猫群",
+      "onboard_time": 1733713639,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16884,
@@ -1067,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8745,
-      "num": 607124,
-      "word": "韩国警方考虑禁止尹锡悦出境",
-      "onboard_time": 1733710520,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 8530,
       "num": 26968,
       "word": "文化中国行看简牍里的中国人智慧",
@@ -1105,14 +1265,6 @@
       "onboard_time": 1733696832,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 7538,
-      "num": 1366769,
-      "word": "青知讲说人",
-      "onboard_time": 1733710396,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7011,
