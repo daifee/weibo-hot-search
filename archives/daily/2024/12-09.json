@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733729184612,
+  "endTime": 1733729928698,
   "band_list": [
     {
       "raw_hot": 3228928,
@@ -83,6 +83,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1289068,
+      "num": 1289068,
+      "word": "花70万上港大刚上了1年被清退",
+      "onboard_time": 1733726419,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 958090,
-      "num": 958090,
-      "word": "花70万上港大刚上了1年被清退",
-      "onboard_time": 1733726419,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 931222,
       "num": 216022,
       "word": "鹿晗黄子韬直播",
@@ -139,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 865644,
-      "num": 865644,
+      "raw_hot": 886503,
+      "num": 886503,
       "word": "易烊千玺身材",
       "onboard_time": 1733725699,
       "rank": 28,
@@ -171,8 +171,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 780711,
-      "num": 780711,
+      "raw_hot": 785888,
+      "num": 785888,
       "word": "叙利亚总统阿萨德辞职",
       "onboard_time": 1733661201,
       "rank": 5,
@@ -211,16 +211,16 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 683758,
-      "num": 683758,
+      "raw_hot": 687534,
+      "num": 687534,
       "word": "年轻人一年发送了5760000次的接",
       "onboard_time": 1733717600,
       "rank": 26,
       "category": "互联网"
     },
     {
-      "raw_hot": 673028,
-      "num": 673028,
+      "raw_hot": 673931,
+      "num": 673931,
       "word": "不给救护车让路私家车车主被拘",
       "onboard_time": 1733726178,
       "rank": 9,
@@ -297,6 +297,14 @@
       "onboard_time": 1733701337,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 554642,
+      "num": 554642,
+      "word": "叙利亚",
+      "onboard_time": 1733703920,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 526845,
@@ -411,20 +419,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 451086,
+      "num": 679142,
+      "word": "女硕士失踪十余年并育有一对儿女",
+      "onboard_time": 1733728340,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440939,
       "num": 308982,
       "word": "九部门明确家暴证据标准",
       "onboard_time": 1733712499,
       "rank": 23,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 419865,
-      "num": 419865,
-      "word": "叙利亚",
-      "onboard_time": 1733703920,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 419534,
@@ -443,7 +451,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393493,
+      "raw_hot": 397365,
       "num": 678471,
       "word": "韩安冉 韩亿",
       "onboard_time": 1733727319,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299226,
+      "num": 402377,
+      "word": "我是刑警大盘有救了",
+      "onboard_time": 1733727678,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297311,
       "num": 297311,
       "word": "浙江钓鱼佬钓到有编码的黑鲷鱼",
@@ -667,6 +683,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 275642,
+      "num": 275642,
+      "word": "为什么说冬天衣服不要穿太紧",
+      "onboard_time": 1733727918,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 266199,
       "num": 266199,
       "word": "池忆 对不起所有爱我的人",
@@ -689,6 +713,22 @@
       "onboard_time": 1733713160,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262991,
+      "num": 676878,
+      "word": "尹锡悦被禁止出境",
+      "onboard_time": 1733727437,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 257790,
+      "num": 363551,
+      "word": "男子倒卖游戏账号牵出3000万大案",
+      "onboard_time": 1733726300,
+      "rank": 37,
+      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 254954,
@@ -739,20 +779,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250925,
+      "num": 250925,
+      "word": "杨紫贵气千金",
+      "onboard_time": 1733729898,
+      "rank": 28,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 250675,
       "num": 250675,
       "word": "虞书欣工作室",
       "onboard_time": 1733715380,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250135,
-      "num": 250135,
-      "word": "男子倒卖游戏账号牵出3000万大案",
-      "onboard_time": 1733726300,
-      "rank": 37,
-      "category": "民生新闻,游戏"
     },
     {
       "raw_hot": 249102,
@@ -769,22 +809,6 @@
       "onboard_time": 1733718380,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248185,
-      "num": 248185,
-      "word": "为什么说冬天衣服不要穿太紧",
-      "onboard_time": 1733727918,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 246998,
-      "num": 402377,
-      "word": "我是刑警大盘有救了",
-      "onboard_time": 1733727678,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 245812,
@@ -809,14 +833,6 @@
       "onboard_time": 1733721980,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 239796,
-      "num": 676878,
-      "word": "尹锡悦被禁止出境",
-      "onboard_time": 1733727437,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 236361,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217213,
+      "num": 217212,
+      "word": "大马士革国际机场所有航班已暂停",
+      "onboard_time": 1733627662,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 213479,
       "num": 587981,
       "word": "多家银行采用AI面试进行招聘",
@@ -867,7 +891,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209621,
+      "raw_hot": 209776,
       "num": 675097,
       "word": "一件好的羽绒服应该怎么选",
       "onboard_time": 1733724139,
@@ -1027,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188859,
-      "num": 188859,
-      "word": "大马士革国际机场所有航班已暂停",
-      "onboard_time": 1733627662,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 188428,
       "num": 331861,
       "word": "九重紫微博追剧团",
@@ -1091,6 +1107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179066,
+      "num": 279531,
+      "word": "乒乓球混合团体世界杯",
+      "onboard_time": 1733729299,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177881,
       "num": 177881,
       "word": "32岁男子在幼教机构厕所装摄像头",
@@ -1131,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172447,
+      "num": 172447,
+      "word": "张杰想了半天脚麻吗",
+      "onboard_time": 1733729539,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171608,
       "num": 171608,
       "word": "2024中国非遗让中式浪漫具象化了",
@@ -1152,6 +1184,14 @@
       "word": "九重紫 烂人错过",
       "onboard_time": 1733663662,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161816,
+      "num": 161816,
+      "word": "檀健次想看沈翊14集全勤",
+      "onboard_time": 1733729599,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1227,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154500,
+      "num": 398672,
+      "word": "双非考研报985学校的感觉",
+      "onboard_time": 1733728639,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154432,
       "num": 154432,
       "word": "A股",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1733707097,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149604,
-      "num": 679142,
-      "word": "女硕士失踪十余年并育有一对儿女",
-      "onboard_time": 1733728340,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149020,
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141535,
+      "num": 673163,
+      "word": "当地再回应女硕士走失13年已有儿女",
+      "onboard_time": 1733728038,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140711,
       "num": 371809,
       "word": "孔雪儿扫楼状态",
@@ -1345,14 +1393,6 @@
       "onboard_time": 1733724018,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135534,
-      "num": 673163,
-      "word": "当地再回应女硕士走失13年已有儿女",
-      "onboard_time": 1733728038,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135227,
@@ -1587,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100749,
+      "num": 440681,
+      "word": "港股",
+      "onboard_time": 1733729358,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96541,
       "num": 96541,
       "word": "女子因骑手送错餐申请退款后将餐品吃掉",
@@ -1675,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86868,
+      "num": 676342,
+      "word": "目击者还原母女霸座持刀威胁民警",
+      "onboard_time": 1733727978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86775,
       "num": 86775,
       "word": "女子花2千换芯片商家竟没给换",
@@ -1707,6 +1763,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81948,
+      "num": 673937,
+      "word": "民办大学倒闭潮要来了吗",
+      "onboard_time": 1733728818,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 80457,
+      "num": 677442,
+      "word": "揭秘刘阳老师曾任职的斯尔教育",
+      "onboard_time": 1733728277,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 79468,
       "num": 79468,
       "word": "孙颖莎回应混团世界杯夺冠",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1733724497,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78114,
+      "num": 396987,
+      "word": "徐艺洋开工",
+      "onboard_time": 1733729718,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 78046,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1733679912,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67678,
-      "num": 676342,
-      "word": "目击者还原母女霸座持刀威胁民警",
-      "onboard_time": 1733727978,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64014,
@@ -1849,14 +1921,6 @@
       "onboard_time": 1733678713,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 48366,
-      "num": 677442,
-      "word": "揭秘刘阳老师曾任职的斯尔教育",
-      "onboard_time": 1733728277,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 46931,
@@ -1955,6 +2019,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 32880,
+      "num": 151527,
+      "word": "波司登真的在用心做羽绒服",
+      "onboard_time": 1733729599,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31836,
       "num": 52404,
       "word": "邬善 洋葱精",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1733710396,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25244,
+      "num": 467648,
+      "word": "韩国财长称必要时将采取大胆措施",
+      "onboard_time": 1733729838,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25032,
@@ -2049,14 +2129,6 @@
       "onboard_time": 1733679734,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20325,
-      "num": 398672,
-      "word": "双非考研报985学校的感觉",
-      "onboard_time": 1733728639,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 19951,
@@ -2169,14 +2241,6 @@
       "onboard_time": 1733687111,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 13175,
-      "num": 673937,
-      "word": "民办大学倒闭潮要来了吗",
-      "onboard_time": 1733728818,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 13002,
