@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733776858125,
+  "endTime": 1733779381869,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -5643,6 +5643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88554,
+      "num": 88554,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88534,
       "num": 307843,
       "word": "何炅包场王源新片",
@@ -5841,14 +5849,6 @@
       "onboard_time": 1733717420,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 77663,
-      "num": 77663,
-      "word": "目击者称坠海无人机约600架",
-      "onboard_time": 1733772551,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77315,
@@ -6699,6 +6699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31778,
+      "num": 41840,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31722,
       "num": 539024,
       "word": "F1",
@@ -7251,6 +7259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13461,
+      "num": 14903,
+      "word": "被家暴16次女子谈告诫书有多重要",
+      "onboard_time": 1733777652,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13399,
       "num": 17541,
       "word": "国乒11连胜成功卫冕",
@@ -7283,20 +7299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12410,
-      "num": 41840,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12337,
       "num": 523542,
       "word": "重案实录刑侦剧的魅力",
       "onboard_time": 1733664862,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12236,
+      "num": 20327,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12144,
@@ -7321,6 +7337,14 @@
       "onboard_time": 1733663962,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11571,
+      "num": 31156,
+      "word": "疑似蔡国强表演无人机坠落满地画面",
+      "onboard_time": 1733778911,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10904,
