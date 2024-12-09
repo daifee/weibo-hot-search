@@ -1,0 +1,410 @@
+{
+  "runTime": 1733741131003,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 882485,
+        "num": 1141197,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507226,
+        "num": 507226,
+        "word": "爸妈旅个游却背了10年房贷",
+        "onboard_time": 1733731160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7058,
+        "num": 388813,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353487,
+        "num": 353487,
+        "word": "稳住楼市股市",
+        "onboard_time": 1733731700,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346453,
+        "num": 346453,
+        "word": "王楚钦混团夺冠后发文",
+        "onboard_time": 1733739019,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2421825,
+        "num": 345532,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1448224,
+        "num": 345192,
+        "word": "叙利亚被释囚犯在街上边跑边笑",
+        "onboard_time": 1733738240,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 597065,
+        "num": 343603,
+        "word": "李雪琴问13个人为啥叫seventeen",
+        "onboard_time": 1733737101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189377,
+        "num": 342388,
+        "word": "王曼昱混团赛后发文",
+        "onboard_time": 1733739201,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 900420,
+        "num": 341157,
+        "word": "张若昀随地乱丢烟头",
+        "onboard_time": 1733738001,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1259389,
+        "num": 340659,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596389,
+        "num": 339205,
+        "word": "碰一下支付莫名欠了1980元花呗",
+        "onboard_time": 1733733379,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464614,
+        "num": 337844,
+        "word": "内娱终于等到完颜爱情剧",
+        "onboard_time": 1733738419,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113225,
+        "num": 336642,
+        "word": "花钱进名校别搬起石头砸自己的脚",
+        "onboard_time": 1733737940,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92475,
+        "num": 335585,
+        "word": "商家称顾客表演完后将演出服退了",
+        "onboard_time": 1733739501,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405973,
+        "num": 334898,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41940,
+        "num": 332672,
+        "word": "普京做出向阿萨德提供庇护决定",
+        "onboard_time": 1733740821,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146402,
+        "num": 331899,
+        "word": "高校回应学生演出后集体退衣服",
+        "onboard_time": 1733739441,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 45492,
+        "num": 330793,
+        "word": "九重紫直播",
+        "onboard_time": 1733740339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42316,
+        "num": 329743,
+        "word": "武汉农商银行8万股1元起拍",
+        "onboard_time": 1733739682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250303,
+        "num": 328284,
+        "word": "陈紫函戴向宇婚礼八周年",
+        "onboard_time": 1733737162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554243,
+        "num": 326918,
+        "word": "郑燕姿回应韩安冉",
+        "onboard_time": 1733734038,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 399034,
+        "num": 325847,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352808,
+        "num": 325426,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 14670,
+        "num": 323813,
+        "word": "雅思组合总决赛适应训练",
+        "onboard_time": 1733740399,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323398,
+        "num": 323398,
+        "word": "民办大学倒闭潮要来了吗",
+        "onboard_time": 1733728818,
+        "rank": 25,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 272115,
+        "num": 272115,
+        "word": "山西大学回应一留学生摸女生屁股",
+        "onboard_time": 1733733318,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258600,
+        "num": 258600,
+        "word": "26岁剑桥女博士4小时的心路历程",
+        "onboard_time": 1733738720,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181596,
+        "num": 255910,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164715,
+        "num": 255468,
+        "word": "杨紫布灵布灵的",
+        "onboard_time": 1733740939,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255040,
+        "num": 255040,
+        "word": "张柏芝杨紫徐艺洋活动生图",
+        "onboard_time": 1733732718,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247001,
+        "num": 247001,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224417,
+        "num": 224417,
+        "word": "周润发1.95亿港元出售香港山顶别墅",
+        "onboard_time": 1733734880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262231,
+        "num": 220316,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213562,
+        "num": 213562,
+        "word": "我家那小子应到4人实到24人",
+        "onboard_time": 1733731278,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210938,
+        "num": 210938,
+        "word": "广州地铁客服回应安检新规",
+        "onboard_time": 1733739501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191479,
+        "num": 191479,
+        "word": "孟子义回应收拾收拾升咖",
+        "onboard_time": 1733735483,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188381,
+        "num": 188381,
+        "word": "为什么说冬天衣服不要穿太紧",
+        "onboard_time": 1733727918,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176729,
+        "num": 176729,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 164808,
+        "word": "张若昀为扔烟头道歉",
+        "onboard_time": 1733740879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161200,
+        "num": 161200,
+        "word": "猎罪图鉴2追剧日历",
+        "onboard_time": 1733733920,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160771,
+        "num": 160771,
+        "word": "黑龙江一检察长被曝嫖娼被抓",
+        "onboard_time": 1733737459,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158769,
+        "num": 158769,
+        "word": "赵一博晒报喜斑粉蝶",
+        "onboard_time": 1733740281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154732,
+        "num": 154732,
+        "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
+        "onboard_time": 1733739559,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140961,
+        "num": 140961,
+        "word": "哪吒2",
+        "onboard_time": 1733740939,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28543,
+        "num": 139328,
+        "word": "ET9获中国首个线控转向量产许可",
+        "onboard_time": 1733740760,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139308,
+        "num": 139308,
+        "word": "这就是我努力考研的原因",
+        "onboard_time": 1733735901,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136300,
+        "num": 136300,
+        "word": "范丞丞直播",
+        "onboard_time": 1733738598,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130318,
+        "num": 130318,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126468,
+        "num": 126468,
+        "word": "苏州工业园区学校实行作业熔断机制",
+        "onboard_time": 1733736140,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

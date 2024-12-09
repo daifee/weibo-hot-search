@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733740028994,
+  "endTime": 1733741131003,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1448224,
+      "num": 468773,
+      "word": "叙利亚被释囚犯在街上边跑边笑",
+      "onboard_time": 1733738240,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1430286,
       "num": 320613,
       "word": "刘诗诗尖叫女演员",
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1259389,
+      "num": 340659,
+      "word": "男孩遇开门杀后遭货车碾压",
+      "onboard_time": 1733736980,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1244506,
       "num": 1244506,
       "word": "孙颖莎ELLE封面预告",
@@ -289,14 +305,6 @@
       "onboard_time": 1733646318,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1189892,
-      "num": 468773,
-      "word": "叙利亚被释囚犯在街上边跑边笑",
-      "onboard_time": 1733738240,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1187551,
@@ -328,14 +336,6 @@
       "word": "明知对方是间谍仍泄密获刑10年",
       "onboard_time": 1733706139,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1082986,
-      "num": 219459,
-      "word": "男孩遇开门杀后遭货车碾压",
-      "onboard_time": 1733736980,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 900420,
+      "num": 341157,
+      "word": "张若昀随地乱丢烟头",
+      "onboard_time": 1733738001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899444,
       "num": 1143911,
       "word": "秦岚一把搂住虞书欣",
@@ -481,6 +489,14 @@
       "onboard_time": 1733725699,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 882485,
+      "num": 1141197,
+      "word": "浙江卫视请来了真cp",
+      "onboard_time": 1733734940,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 877002,
@@ -795,14 +811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 681841,
-      "num": 1109094,
-      "word": "浙江卫视请来了真cp",
-      "onboard_time": 1733734940,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 680414,
       "num": 875012,
       "word": "中国留学生涉嫌非法禁锢15岁女孩",
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 618836,
-      "num": 302544,
+      "num": 343603,
       "word": "李雪琴问13个人为啥叫seventeen",
       "onboard_time": 1733737101,
       "rank": 44,
@@ -1283,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 464614,
+      "num": 337844,
+      "word": "内娱终于等到完颜爱情剧",
+      "onboard_time": 1733738419,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463948,
       "num": 538309,
       "word": "上海偶遇郑恺苗苗一家",
@@ -1411,14 +1427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 416728,
-      "num": 219435,
-      "word": "张若昀随地乱丢烟头",
-      "onboard_time": 1733738001,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -1432,6 +1440,14 @@
       "word": "孟子义李昀锐扫楼",
       "onboard_time": 1733716639,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 405973,
+      "num": 334898,
+      "word": "双轨群演发声",
+      "onboard_time": 1733739379,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1641,6 +1657,14 @@
       "onboard_time": 1733643559,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346453,
+      "num": 346453,
+      "word": "王楚钦混团夺冠后发文",
+      "onboard_time": 1733739019,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 344481,
@@ -2131,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258600,
+      "num": 258600,
+      "word": "26岁剑桥女博士4小时的心路历程",
+      "onboard_time": 1733738720,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
@@ -2153,14 +2185,6 @@
       "onboard_time": 1733638880,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255410,
-      "num": 219266,
-      "word": "王楚钦混团夺冠后发文",
-      "onboard_time": 1733739019,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 254954,
@@ -2211,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251571,
-      "num": 219394,
-      "word": "内娱终于等到完颜爱情剧",
-      "onboard_time": 1733738419,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251348,
       "num": 227636,
       "word": "偷偷给全班男生塞表白信",
@@ -2232,6 +2248,14 @@
       "word": "虞书欣工作室",
       "onboard_time": 1733715380,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250303,
+      "num": 328284,
+      "word": "陈紫函戴向宇婚礼八周年",
+      "onboard_time": 1733737162,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -2499,14 +2523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220232,
-      "num": 255014,
-      "word": "陈紫函戴向宇婚礼八周年",
-      "onboard_time": 1733737162,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219893,
       "num": 219893,
       "word": "王楚钦再现爆冲",
@@ -2553,6 +2569,14 @@
       "onboard_time": 1733719701,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210938,
+      "num": 210938,
+      "word": "广州地铁客服回应安检新规",
+      "onboard_time": 1733739501,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210325,
@@ -2609,14 +2633,6 @@
       "onboard_time": 1733733438,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205540,
-      "num": 205540,
-      "word": "双轨群演发声",
-      "onboard_time": 1733739379,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 205171,
@@ -2739,14 +2755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198628,
-      "num": 198628,
-      "word": "26岁剑桥女博士4小时的心路历程",
-      "onboard_time": 1733738720,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 198435,
       "num": 198435,
       "word": "家业",
@@ -2756,7 +2764,7 @@
     },
     {
       "raw_hot": 198419,
-      "num": 216513,
+      "num": 342388,
       "word": "王曼昱混团赛后发文",
       "onboard_time": 1733739201,
       "rank": 29,
@@ -3203,6 +3211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181596,
+      "num": 255910,
+      "word": "广州地铁安检新规引市民争议",
+      "onboard_time": 1733740462,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181047,
       "num": 326913,
       "word": "泉州文旅再次认证赵丽颖影响力",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1733718501,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 176729,
+      "num": 176729,
+      "word": "骑手接100元打赏订单察觉异样果断报警",
+      "onboard_time": 1733740640,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176632,
@@ -3539,12 +3563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164808,
+      "num": 164808,
+      "word": "张若昀为扔烟头道歉",
+      "onboard_time": 1733740879,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164755,
       "num": 164755,
       "word": "这就是我努力考研的原因",
       "onboard_time": 1733735901,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164715,
+      "num": 255468,
+      "word": "杨紫布灵布灵的",
+      "onboard_time": 1733740939,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164698,
@@ -3643,14 +3683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160689,
-      "num": 160689,
-      "word": "广州地铁客服回应安检新规",
-      "onboard_time": 1733739501,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159947,
       "num": 262167,
       "word": "iG全神班参加德杯",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1733722940,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 158769,
+      "num": 158769,
+      "word": "赵一博晒报喜斑粉蝶",
+      "onboard_time": 1733740281,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 158572,
@@ -3763,6 +3803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154732,
+      "num": 154732,
+      "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
+      "onboard_time": 1733739559,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154500,
       "num": 398672,
       "word": "双非考研报985学校的感觉",
@@ -3859,14 +3907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150478,
-      "num": 150478,
-      "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
-      "onboard_time": 1733739559,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149983,
       "num": 149983,
       "word": "荆门男子田间挖出战国时期青铜剑",
@@ -3945,6 +3985,14 @@
       "onboard_time": 1733652440,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146402,
+      "num": 331899,
+      "word": "高校回应学生演出后集体退衣服",
+      "onboard_time": 1733739441,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146329,
@@ -4065,6 +4113,14 @@
       "onboard_time": 1733634318,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140961,
+      "num": 140961,
+      "word": "哪吒2",
+      "onboard_time": 1733740939,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 140711,
@@ -4233,6 +4289,14 @@
       "onboard_time": 1733643737,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130318,
+      "num": 130318,
+      "word": "南京大屠杀真实照片",
+      "onboard_time": 1733740580,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130283,
@@ -4459,12 +4523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114202,
-      "num": 219382,
-      "word": "高校回应学生演出后集体退衣服",
-      "onboard_time": 1733739441,
-      "rank": 17,
-      "category": "辟谣/通报"
+      "raw_hot": 113225,
+      "num": 336642,
+      "word": "花钱进名校别搬起石头砸自己的脚",
+      "onboard_time": 1733737940,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 113131,
@@ -4777,6 +4841,14 @@
       "onboard_time": 1733736321,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92475,
+      "num": 335585,
+      "word": "商家称顾客表演完后将演出服退了",
+      "onboard_time": 1733739501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91613,
@@ -5403,6 +5475,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 45492,
+      "num": 330793,
+      "word": "九重紫直播",
+      "onboard_time": 1733740339,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45203,
       "num": 66673,
       "word": "窦昭把邬善收了吧",
@@ -5432,14 +5512,6 @@
       "word": "人民日报中国经济年度观察",
       "onboard_time": 1733719761,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43578,
-      "num": 219408,
-      "word": "商家称顾客表演完后将演出服退了",
-      "onboard_time": 1733739501,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5483,12 +5555,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41644,
-      "num": 219358,
+      "raw_hot": 42316,
+      "num": 329743,
       "word": "武汉农商银行8万股1元起拍",
       "onboard_time": 1733739682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41940,
+      "num": 332672,
+      "word": "普京做出向阿萨德提供庇护决定",
+      "onboard_time": 1733740821,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39350,
@@ -5721,6 +5801,14 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28543,
+      "num": 139328,
+      "word": "ET9获中国首个线控转向量产许可",
+      "onboard_time": 1733740760,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 27143,
@@ -5975,6 +6063,14 @@
       "num": 117881,
       "word": "莎头组合再出战",
       "onboard_time": 1733587700,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14670,
+      "num": 323813,
+      "word": "雅思组合总决赛适应训练",
+      "onboard_time": 1733740399,
       "rank": 24,
       "category": "体育"
     },
