@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733779381869,
+  "endTime": 1733780292990,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -339,8 +339,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88554,
-      "num": 88554,
+      "raw_hot": 89491,
+      "num": 89491,
       "word": "目击者称坠海无人机约600架",
       "onboard_time": 1733772551,
       "rank": 48,
@@ -459,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35722,
+      "num": 41840,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34845,
       "num": 80373,
       "word": "日本人不知南京大屠杀是日本之耻",
       "onboard_time": 1733768832,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31778,
-      "num": 41840,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29810,
@@ -513,6 +513,14 @@
       "onboard_time": 1733764995,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24091,
+      "num": 35886,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24005,
@@ -611,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 12236,
-      "num": 20327,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11571,
       "num": 31156,
       "word": "疑似蔡国强表演无人机坠落满地画面",
@@ -651,7 +651,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2056,
+      "raw_hot": 2124,
       "num": 153543,
       "word": "文化中国行看简牍里的中国人智慧",
       "onboard_time": 1733689511,

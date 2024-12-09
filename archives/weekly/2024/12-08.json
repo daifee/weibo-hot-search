@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733779381869,
+  "endTime": 1733780292990,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -5643,8 +5643,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88554,
-      "num": 88554,
+      "raw_hot": 89491,
+      "num": 89491,
       "word": "目击者称坠海无人机约600架",
       "onboard_time": 1733772551,
       "rank": 48,
@@ -6595,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35722,
+      "num": 41840,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35671,
       "num": 295942,
       "word": "龚俊确认参加东方卫视跨年",
@@ -6697,14 +6705,6 @@
       "onboard_time": 1733683033,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31778,
-      "num": 41840,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31722,
@@ -6913,6 +6913,14 @@
       "onboard_time": 1733649620,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 24091,
+      "num": 35886,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24005,
@@ -7305,14 +7313,6 @@
       "onboard_time": 1733664862,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12236,
-      "num": 20327,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12144,
