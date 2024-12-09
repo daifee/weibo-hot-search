@@ -1,0 +1,410 @@
+{
+  "runTime": 1733757991428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559462,
+        "num": 1559462,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 915410,
+        "num": 915410,
+        "word": "李昀锐 今年爱上的最后一个男人",
+        "onboard_time": 1733753541,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49194,
+        "num": 622575,
+        "word": "中国超级工程实力让远水解近渴",
+        "onboard_time": 1733754380,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598053,
+        "num": 598053,
+        "word": "邓为工作室",
+        "onboard_time": 1733753780,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556942,
+        "num": 556942,
+        "word": "她是12306背后的最强大脑",
+        "onboard_time": 1733751680,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 476201,
+        "num": 476201,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 447093,
+        "num": 447093,
+        "word": "南方游客刚到漠河就让大家震惊了",
+        "onboard_time": 1733750660,
+        "rank": 6,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 444874,
+        "num": 444874,
+        "word": "小米YU7预计明年六七月上市",
+        "onboard_time": 1733747179,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 434077,
+        "num": 434077,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 357905,
+        "num": 424483,
+        "word": "洗浴中心多人出现不适亲历者发声",
+        "onboard_time": 1733754982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1355732,
+        "num": 423283,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421195,
+        "num": 421195,
+        "word": "范丞丞 看看我还要澄清什么",
+        "onboard_time": 1733750058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385624,
+        "num": 385624,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 283027,
+        "num": 376992,
+        "word": "晓华说向佐像大哥哥一样",
+        "onboard_time": 1733751741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46598,
+        "num": 372228,
+        "word": "70多起家暴案仅6人开具告诫书",
+        "onboard_time": 1733756960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271974,
+        "num": 372159,
+        "word": "新鲜的杨幂",
+        "onboard_time": 1733751321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372138,
+        "num": 372138,
+        "word": "以色列大举空袭叙利亚",
+        "onboard_time": 1733748620,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147703,
+        "num": 369587,
+        "word": "姆巴佩回应涉嫌强奸",
+        "onboard_time": 1733756241,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77436,
+        "num": 365481,
+        "word": "男子被二姨拐卖28年称不恨任何人",
+        "onboard_time": 1733756661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41466,
+        "num": 354694,
+        "word": "巩俐深夜打羽毛球",
+        "onboard_time": 1733755101,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111465,
+        "num": 349633,
+        "word": "陈哲远 每周看再见爱人都要花钱",
+        "onboard_time": 1733757379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823960,
+        "num": 347046,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385942,
+        "num": 338867,
+        "word": "一个25岁女生的微信",
+        "onboard_time": 1733748499,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335033,
+        "num": 335033,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25426,
+        "num": 289261,
+        "word": "石宇奇年度最佳男单",
+        "onboard_time": 1733749820,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246044,
+        "num": 246044,
+        "word": "李昀锐这声老婆叫的好自然",
+        "onboard_time": 1733756058,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239846,
+        "num": 239846,
+        "word": "张若昀为扔烟头道歉",
+        "onboard_time": 1733740879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93221,
+        "num": 239472,
+        "word": "张柏芝杨紫同框合照",
+        "onboard_time": 1733745260,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44773,
+        "num": 238899,
+        "word": "上亿元二手房骗局靠借的100万启动",
+        "onboard_time": 1733756661,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51935,
+        "num": 237616,
+        "word": "志愿者曝光多人合伙骗领养猫咪虐杀",
+        "onboard_time": 1733757859,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270830,
+        "num": 237178,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531508,
+        "num": 236530,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235869,
+        "num": 235869,
+        "word": "张艺兴已经是nextlevel了",
+        "onboard_time": 1733756600,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219001,
+        "num": 219001,
+        "word": "英伟达",
+        "onboard_time": 1733745019,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186799,
+        "num": 186799,
+        "word": "男子嚼槟榔20年变割脸人",
+        "onboard_time": 1733741900,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185288,
+        "num": 185288,
+        "word": "王子奇 客串罚罪2",
+        "onboard_time": 1733756361,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173239,
+        "num": 173239,
+        "word": "雷军回应小米YU7为什么早公示",
+        "onboard_time": 1733753959,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170475,
+        "num": 170475,
+        "word": "粉笔四六级崩了",
+        "onboard_time": 1733752820,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158044,
+        "num": 158044,
+        "word": "金球奖提名名单",
+        "onboard_time": 1733756540,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148103,
+        "num": 148103,
+        "word": "梁王组合获年度最佳男子双打组合",
+        "onboard_time": 1733749459,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145274,
+        "num": 145274,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143012,
+        "num": 143012,
+        "word": "本科专业大洗牌意味着什么",
+        "onboard_time": 1733742380,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141510,
+        "num": 141510,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140627,
+        "num": 140627,
+        "word": "蔡徐坤wink拍立得",
+        "onboard_time": 1733755579,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140135,
+        "num": 140135,
+        "word": "80后爸爸硬控14岁女儿社交",
+        "onboard_time": 1733755041,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24378,
+        "num": 137842,
+        "word": "凤凰组合年度最佳混双",
+        "onboard_time": 1733750720,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136382,
+        "num": 136382,
+        "word": "小米SUV价格",
+        "onboard_time": 1733753359,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134750,
+        "num": 134750,
+        "word": "小米YU7怎么读",
+        "onboard_time": 1733752399,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129617,
+        "num": 129617,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127116,
+        "num": 127116,
+        "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+        "onboard_time": 1733749040,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733755422951,
+  "endTime": 1733757991428,
   "band_list": [
     {
       "raw_hot": 3417617,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 915410,
+      "num": 915410,
+      "word": "李昀锐 今年爱上的最后一个男人",
+      "onboard_time": 1733753541,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 907380,
       "num": 907380,
       "word": "女硕士失踪十余年并育有一对儿女",
@@ -403,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 754242,
-      "num": 754242,
-      "word": "李昀锐 今年爱上的最后一个男人",
-      "onboard_time": 1733753541,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 748612,
       "num": 748612,
       "word": "组建叙利亚过渡政府",
@@ -547,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 598053,
+      "num": 598053,
+      "word": "邓为工作室",
+      "onboard_time": 1733753780,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581379,
       "num": 616558,
       "word": "妇联介入调查女硕士失踪被找回案",
@@ -609,6 +617,14 @@
       "onboard_time": 1733747179,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 531508,
+      "num": 236530,
+      "word": "网红刘大美丽去世",
+      "onboard_time": 1733757618,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 526845,
@@ -755,20 +771,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 447093,
+      "num": 447093,
+      "word": "南方游客刚到漠河就让大家震惊了",
+      "onboard_time": 1733750660,
+      "rank": 46,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 440939,
       "num": 308982,
       "word": "九部门明确家暴证据标准",
       "onboard_time": 1733712499,
       "rank": 23,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 420210,
-      "num": 420210,
-      "word": "邓为工作室",
-      "onboard_time": 1733753780,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 419534,
@@ -881,6 +897,14 @@
       "onboard_time": 1733708959,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 357905,
+      "num": 424483,
+      "word": "洗浴中心多人出现不适亲历者发声",
+      "onboard_time": 1733754982,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356968,
@@ -1307,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250084,
-      "num": 250084,
-      "word": "南方游客刚到漠河就让大家震惊了",
-      "onboard_time": 1733750660,
-      "rank": 46,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 249102,
       "num": 249102,
       "word": "香港中产家庭80平米的精致小家",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1733731039,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 246044,
+      "num": 246044,
+      "word": "李昀锐这声老婆叫的好自然",
+      "onboard_time": 1733756058,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 245812,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1733669901,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235869,
+      "num": 235869,
+      "word": "张艺兴已经是nextlevel了",
+      "onboard_time": 1733756600,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 235768,
@@ -1763,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185288,
+      "num": 185288,
+      "word": "王子奇 客串罚罪2",
+      "onboard_time": 1733756361,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184712,
       "num": 184712,
       "word": "杨紫说国色芳华马上播出了",
@@ -1915,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170475,
+      "num": 170475,
+      "word": "粉笔四六级崩了",
+      "onboard_time": 1733752820,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 170033,
       "num": 170033,
       "word": "苏州工业园区学校实行作业熔断机制",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1733735901,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164747,
-      "num": 164747,
-      "word": "粉笔四六级崩了",
-      "onboard_time": 1733752820,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 164715,
@@ -2073,6 +2113,14 @@
       "onboard_time": 1733740281,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158044,
+      "num": 158044,
+      "word": "金球奖提名名单",
+      "onboard_time": 1733756540,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 157801,
@@ -2259,6 +2307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 147703,
+      "num": 369587,
+      "word": "姆巴佩回应涉嫌强奸",
+      "onboard_time": 1733756241,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147230,
       "num": 147230,
       "word": "王楚钦用身体接住了韩国队的球",
@@ -2347,6 +2403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140627,
+      "num": 140627,
+      "word": "蔡徐坤wink拍立得",
+      "onboard_time": 1733755579,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140135,
+      "num": 140135,
+      "word": "80后爸爸硬控14岁女儿社交",
+      "onboard_time": 1733755041,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139522,
       "num": 139522,
       "word": "张萌说李昀锐是孟姐控",
@@ -2364,7 +2436,7 @@
     },
     {
       "raw_hot": 136399,
-      "num": 136399,
+      "num": 137842,
       "word": "凤凰组合年度最佳混双",
       "onboard_time": 1733750720,
       "rank": 44,
@@ -2372,7 +2444,7 @@
     },
     {
       "raw_hot": 136388,
-      "num": 136388,
+      "num": 289261,
       "word": "石宇奇年度最佳男单",
       "onboard_time": 1733749820,
       "rank": 41,
@@ -2451,14 +2523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129394,
-      "num": 129394,
-      "word": "80后爸爸硬控14岁女儿社交",
-      "onboard_time": 1733755041,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128147,
       "num": 128147,
       "word": "王楚钦说再次打混双挺感慨",
@@ -2476,7 +2540,7 @@
     },
     {
       "raw_hot": 126913,
-      "num": 126913,
+      "num": 239472,
       "word": "张柏芝杨紫同框合照",
       "onboard_time": 1733745260,
       "rank": 42,
@@ -2497,14 +2561,6 @@
       "onboard_time": 1733691251,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124670,
-      "num": 124670,
-      "word": "洗浴中心多人出现不适亲历者发声",
-      "onboard_time": 1733754982,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124247,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1733741660,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111465,
+      "num": 349633,
+      "word": "陈哲远 每周看再见爱人都要花钱",
+      "onboard_time": 1733757379,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 110118,
@@ -3011,6 +3075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77436,
+      "num": 365481,
+      "word": "男子被二姨拐卖28年称不恨任何人",
+      "onboard_time": 1733756661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76657,
       "num": 266443,
       "word": "JDG官宣Xun加入",
@@ -3179,6 +3251,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 51935,
+      "num": 237616,
+      "word": "志愿者曝光多人合伙骗领养猫咪虐杀",
+      "onboard_time": 1733757859,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51400,
       "num": 168085,
       "word": "现在1块钱还能买到什么",
@@ -3219,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49194,
+      "num": 866746,
+      "word": "中国超级工程实力让远水解近渴",
+      "onboard_time": 1733754380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48275,
       "num": 220563,
       "word": "世界羽联名人堂",
@@ -3249,6 +3337,14 @@
       "onboard_time": 1733700136,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 46598,
+      "num": 372228,
+      "word": "70多起家暴案仅6人开具告诫书",
+      "onboard_time": 1733756960,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46541,
@@ -3291,18 +3387,18 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44773,
+      "num": 238899,
+      "word": "上亿元二手房骗局靠借的100万启动",
+      "onboard_time": 1733756661,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44221,
       "num": 958340,
       "word": "人民日报中国经济年度观察",
       "onboard_time": 1733719761,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43678,
-      "num": 866746,
-      "word": "中国超级工程实力让远水解近渴",
-      "onboard_time": 1733754380,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -3329,6 +3425,14 @@
       "onboard_time": 1733739682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41466,
+      "num": 354694,
+      "word": "巩俐深夜打羽毛球",
+      "onboard_time": 1733755101,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 39350,
@@ -3465,14 +3569,6 @@
       "onboard_time": 1733755041,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25652,
-      "num": 144122,
-      "word": "巩俐深夜打羽毛球",
-      "onboard_time": 1733755101,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 25560,
