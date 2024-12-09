@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733718554412,
+  "endTime": 1733719465806,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -11,7 +11,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 3213338,
+      "raw_hot": 3228928,
       "num": 2935450,
       "word": "走失13年女硕士两个孩子成绩优异",
       "onboard_time": 1733713878,
@@ -51,8 +51,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1910709,
-      "num": 1910709,
+      "raw_hot": 1914431,
+      "num": 1914431,
       "word": "刘阳老师辞职",
       "onboard_time": 1733713938,
       "rank": 30,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 847134,
+      "num": 847134,
+      "word": "12306回应母女霸座还持刀威胁乘警",
+      "onboard_time": 1733714660,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 830442,
       "num": 830442,
       "word": "王楚钦 谁还不会用个鹰眼",
@@ -433,14 +441,6 @@
       "onboard_time": 1733630720,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 822656,
-      "num": 822656,
-      "word": "12306回应母女霸座还持刀威胁乘警",
-      "onboard_time": 1733714660,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 809973,
@@ -827,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 526845,
+      "num": 369078,
+      "word": "你以为很干净但实际很脏的东西",
+      "onboard_time": 1733714539,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
@@ -849,14 +857,6 @@
       "onboard_time": 1733587221,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 518051,
-      "num": 369078,
-      "word": "你以为很干净但实际很脏的东西",
-      "onboard_time": 1733714539,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 517667,
@@ -923,6 +923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 502311,
+      "num": 491605,
+      "word": "周雨彤发小小的我定档海报",
+      "onboard_time": 1733714180,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 499142,
       "num": 499142,
       "word": "省考",
@@ -937,14 +945,6 @@
       "onboard_time": 1733714539,
       "rank": 19,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 491605,
-      "num": 491605,
-      "word": "周雨彤发小小的我定档海报",
-      "onboard_time": 1733714180,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 488875,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1733568561,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464165,
+      "num": 464165,
+      "word": "年轻人一年发送了5760000次的接",
+      "onboard_time": 1733717600,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 459852,
@@ -1243,6 +1251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356435,
+      "num": 356435,
+      "word": "孙颖莎告别成都混团",
+      "onboard_time": 1733717899,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353645,
       "num": 353645,
       "word": "丁禹兮直播",
@@ -1387,6 +1403,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 314130,
+      "num": 314130,
+      "word": "祝绪丹仙鹤神女",
+      "onboard_time": 1733717841,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313691,
       "num": 313691,
       "word": "王楚钦被川剧变脸吓到",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1733666122,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304313,
+      "num": 304313,
+      "word": "谢可寅想和虞书欣周也合租",
+      "onboard_time": 1733717659,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 304060,
@@ -1571,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284103,
-      "num": 284103,
-      "word": "年轻人一年发送了5760000次的接",
-      "onboard_time": 1733717600,
-      "rank": 26,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 283481,
       "num": 283481,
       "word": "黄子韬携专辑回归",
@@ -1635,28 +1659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268803,
-      "num": 268803,
-      "word": "谢可寅想和虞书欣周也合租",
-      "onboard_time": 1733717659,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 268567,
       "num": 537951,
       "word": "央视曝光低价宠物粮乱象",
       "onboard_time": 1733667140,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 266372,
-      "num": 266372,
-      "word": "孙颖莎告别成都混团",
-      "onboard_time": 1733717899,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 266199,
@@ -1673,6 +1681,14 @@
       "onboard_time": 1733650342,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263928,
+      "num": 263927,
+      "word": "光与夜之恋",
+      "onboard_time": 1733718742,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 263733,
@@ -1747,6 +1763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253960,
+      "num": 253960,
+      "word": "朱志鑫定6个闹钟给苏新皓煎蛋",
+      "onboard_time": 1733717899,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253959,
       "num": 177147,
       "word": "叙利亚局势突变意味着什么",
@@ -1771,6 +1795,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250675,
+      "num": 250675,
+      "word": "虞书欣工作室",
+      "onboard_time": 1733715380,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249057,
+      "num": 263988,
+      "word": "TFBOYS转发易烊千玺电影",
+      "onboard_time": 1733718380,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249012,
       "num": 249012,
       "word": "狐妖月红篇商业价值",
@@ -1785,14 +1825,6 @@
       "onboard_time": 1733577141,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247358,
-      "num": 247358,
-      "word": "虞书欣工作室",
-      "onboard_time": 1733715380,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 246952,
@@ -1923,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229532,
-      "num": 267229,
-      "word": "祝绪丹仙鹤神女",
-      "onboard_time": 1733717841,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226412,
       "num": 111163,
       "word": "白鹿和北上导演拥抱",
@@ -1945,14 +1969,6 @@
       "onboard_time": 1733632220,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222659,
-      "num": 222659,
-      "word": "朱志鑫定6个闹钟给苏新皓煎蛋",
-      "onboard_time": 1733717899,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 222032,
@@ -2115,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199722,
+      "num": 475239,
+      "word": "男子欠5个月房租反称房东太无情",
+      "onboard_time": 1733718922,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199142,
       "num": 199142,
       "word": "周杰伦大巨蛋演唱会",
@@ -2128,6 +2152,14 @@
       "word": "赵一博遇人不熟开机应援",
       "onboard_time": 1733714238,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198633,
+      "num": 198633,
+      "word": "猎罪图鉴",
+      "onboard_time": 1733718621,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2203,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194745,
+      "num": 194745,
+      "word": "伊朗就叙利亚局势表明态度",
+      "onboard_time": 1733718141,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194467,
       "num": 194467,
       "word": "原来会高反的大部分是男性",
@@ -2217,6 +2257,14 @@
       "onboard_time": 1733637262,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193882,
+      "num": 193882,
+      "word": "悍匪周克华情人张某英已出狱",
+      "onboard_time": 1733719040,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193856,
@@ -2297,6 +2345,14 @@
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190981,
+      "num": 190981,
+      "word": "肖战我们实体专配置",
+      "onboard_time": 1733718800,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 190977,
@@ -2419,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187599,
+      "num": 187599,
+      "word": "鬼灭之刃剧场版2025年上映",
+      "onboard_time": 1733719100,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "为什么喜欢阅读的人精神更富足",
@@ -2505,14 +2569,6 @@
       "onboard_time": 1733656399,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181746,
-      "num": 181746,
-      "word": "伊朗就叙利亚局势表明态度",
-      "onboard_time": 1733718141,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 181047,
@@ -2619,6 +2675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173997,
+      "num": 173997,
+      "word": "小金毛自己吓自己",
+      "onboard_time": 1733719040,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173944,
       "num": 376344,
       "word": "陈丽君回应粉丝",
@@ -2659,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170980,
+      "num": 263928,
+      "word": "九重紫重生逆袭局",
+      "onboard_time": 1733718861,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170284,
       "num": 294751,
       "word": "林高远为团队感到骄傲",
@@ -2689,14 +2761,6 @@
       "onboard_time": 1733629340,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169663,
-      "num": 202926,
-      "word": "TFBOYS转发易烊千玺电影",
-      "onboard_time": 1733718380,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 169486,
@@ -2937,6 +3001,14 @@
       "onboard_time": 1733697793,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152140,
+      "num": 324217,
+      "word": "上海偶遇郑恺苗苗一家",
+      "onboard_time": 1733719161,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 151997,
@@ -3675,6 +3747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95571,
+      "num": 369880,
+      "word": "男子醉驾致2死3伤逃逸亲属带其投案",
+      "onboard_time": 1733717420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95042,
       "num": 209549,
       "word": "肖四",
@@ -3745,14 +3825,6 @@
       "onboard_time": 1733573842,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90394,
-      "num": 369880,
-      "word": "男子醉驾致2死3伤逃逸亲属带其投案",
-      "onboard_time": 1733717420,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87471,
@@ -3875,6 +3947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78046,
+      "num": 443495,
+      "word": "央行时隔半年又买黄金意味着什么",
+      "onboard_time": 1733717420,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77315,
       "num": 445496,
       "word": "市监局回应紫燕产品大肠菌群超标",
@@ -3891,20 +3971,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74544,
+      "num": 199781,
+      "word": "何炅包场王源新片",
+      "onboard_time": 1733719100,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74005,
       "num": 856072,
       "word": "春节申遗副标题有哪些内涵",
       "onboard_time": 1733578401,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73592,
-      "num": 443495,
-      "word": "央行时隔半年又买黄金意味着什么",
-      "onboard_time": 1733717420,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 73279,
@@ -4665,6 +4745,14 @@
       "onboard_time": 1733687111,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13002,
+      "num": 264081,
+      "word": "斯尔教育最新微博仍有刘阳老师",
+      "onboard_time": 1733719341,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 12808,
