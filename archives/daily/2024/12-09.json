@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733741131003,
+  "endTime": 1733743269288,
   "band_list": [
     {
       "raw_hot": 3228928,
@@ -131,6 +131,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 1203384,
+      "num": 341157,
+      "word": "张若昀随地乱丢烟头",
+      "onboard_time": 1733738001,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 940777,
+      "num": 1150524,
+      "word": "骑手接100元打赏订单察觉异样果断报警",
+      "onboard_time": 1733740640,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 931222,
       "num": 216022,
       "word": "鹿晗黄子韬直播",
@@ -193,14 +209,6 @@
       "onboard_time": 1733728340,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 900420,
-      "num": 341157,
-      "word": "张若昀随地乱丢烟头",
-      "onboard_time": 1733738001,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 886503,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721816,
+      "num": 721816,
+      "word": "双轨群演发声",
+      "onboard_time": 1733739379,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 718466,
       "num": 718466,
       "word": "三明治穿衣法",
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 618836,
-      "num": 343603,
+      "num": 364298,
       "word": "李雪琴问13个人为啥叫seventeen",
       "onboard_time": 1733737101,
       "rank": 44,
@@ -449,6 +465,14 @@
       "onboard_time": 1733701337,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 559321,
+      "num": 559321,
+      "word": "广州地铁安检新规引市民争议",
+      "onboard_time": 1733740462,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551286,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414133,
+      "num": 271815,
+      "word": "张若昀为扔烟头道歉",
+      "onboard_time": 1733740879,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -624,14 +656,6 @@
       "word": "孟子义李昀锐扫楼",
       "onboard_time": 1733716639,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 405973,
-      "num": 334898,
-      "word": "双轨群演发声",
-      "onboard_time": 1733739379,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -803,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318050,
+      "num": 270714,
+      "word": "26岁剑桥女博士4小时的心路历程",
+      "onboard_time": 1733738720,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317145,
       "num": 440681,
       "word": "港股",
@@ -931,19 +963,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 275010,
+      "num": 275010,
+      "word": "九重紫",
+      "onboard_time": 1733647279,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274298,
+      "num": 274298,
+      "word": "南京大屠杀真实照片",
+      "onboard_time": 1733740580,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271500,
       "num": 379813,
       "word": "孟子义回应收拾收拾升咖",
       "onboard_time": 1733735483,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 267123,
-      "num": 267123,
-      "word": "九重紫",
-      "onboard_time": 1733647279,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -953,6 +993,14 @@
       "onboard_time": 1733711117,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265065,
+      "num": 265065,
+      "word": "男子嚼槟榔20年变割脸人",
+      "onboard_time": 1733741900,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263928,
@@ -985,14 +1033,6 @@
       "onboard_time": 1733627662,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 258600,
-      "num": 258600,
-      "word": "26岁剑桥女博士4小时的心路历程",
-      "onboard_time": 1733738720,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 254954,
@@ -1323,6 +1363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194410,
+      "num": 247224,
+      "word": "丁禹兮解扣子",
+      "onboard_time": 1733742621,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193641,
       "num": 286673,
       "word": "25年以iG TheShy见面吧",
@@ -1336,6 +1384,14 @@
       "word": "汪顺论文里的200混精英运动员是谁",
       "onboard_time": 1733714480,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192252,
+      "num": 254931,
+      "word": "乒联男女团体注册名单",
+      "onboard_time": 1733742021,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -1411,6 +1467,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 187581,
+      "num": 187581,
+      "word": "时代少年团重生之我在石坝楼当明星",
+      "onboard_time": 1733742080,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187331,
+      "num": 187331,
+      "word": "女硕士",
+      "onboard_time": 1733742919,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "为什么喜欢阅读的人精神更富足",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1733737701,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181596,
-      "num": 255910,
-      "word": "广州地铁安检新规引市民争议",
-      "onboard_time": 1733740462,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181047,
@@ -1467,20 +1531,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178439,
+      "num": 178439,
+      "word": "本科专业大洗牌意味着什么",
+      "onboard_time": 1733742380,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177881,
       "num": 177881,
       "word": "32岁男子在幼教机构厕所装摄像头",
       "onboard_time": 1733718501,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 176729,
-      "num": 176729,
-      "word": "骑手接100元打赏订单察觉异样果断报警",
-      "onboard_time": 1733740640,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176632,
@@ -1555,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170721,
+      "num": 332672,
+      "word": "普京做出向阿萨德提供庇护决定",
+      "onboard_time": 1733740821,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 170033,
       "num": 170033,
       "word": "苏州工业园区学校实行作业熔断机制",
@@ -1587,14 +1659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164808,
-      "num": 164808,
-      "word": "张若昀为扔烟头道歉",
-      "onboard_time": 1733740879,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164755,
       "num": 164755,
       "word": "这就是我努力考研的原因",
@@ -1604,7 +1668,7 @@
     },
     {
       "raw_hot": 164715,
-      "num": 255468,
+      "num": 265233,
       "word": "杨紫布灵布灵的",
       "onboard_time": 1733740939,
       "rank": 29,
@@ -1915,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140296,
+      "num": 140296,
+      "word": "TES官宣Ben加入",
+      "onboard_time": 1733742740,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139522,
       "num": 139522,
       "word": "张萌说李昀锐是孟姐控",
@@ -1960,14 +2032,6 @@
       "word": "中方回应叙利亚局势发展",
       "onboard_time": 1733732598,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 130318,
-      "num": 130318,
-      "word": "南京大屠杀真实照片",
-      "onboard_time": 1733740580,
-      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -2059,6 +2123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118388,
+      "num": 118388,
+      "word": "曹璐带韩国爱豆看福宝vlog",
+      "onboard_time": 1733743161,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118241,
       "num": 118241,
       "word": "杨紫家业大婚路透",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1733724560,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 111738,
+      "num": 111738,
+      "word": "我是刑警收视率11天TOP1",
+      "onboard_time": 1733741660,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110118,
@@ -2579,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51067,
+      "num": 274028,
+      "word": "中国资产迅速拉升",
+      "onboard_time": 1733742141,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50942,
       "num": 155372,
       "word": "韩国总理及执政党党首发表共同讲话",
@@ -2675,14 +2763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41940,
-      "num": 332672,
-      "word": "普京做出向阿萨德提供庇护决定",
-      "onboard_time": 1733740821,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39350,
       "num": 227146,
       "word": "潘展乐VogueSports首期封面",
@@ -2723,6 +2803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 32506,
+      "num": 258010,
+      "word": "36小时回顾猎罪图鉴",
+      "onboard_time": 1733742919,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31836,
       "num": 52404,
       "word": "邬善 洋葱精",
@@ -2747,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30740,
+      "num": 242990,
+      "word": "TES官宣xiye离队",
+      "onboard_time": 1733743100,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30574,
       "num": 601959,
       "word": "白鹿同款好运汤圆",
@@ -2764,7 +2860,7 @@
     },
     {
       "raw_hot": 28543,
-      "num": 139328,
+      "num": 252210,
       "word": "ET9获中国首个线控转向量产许可",
       "onboard_time": 1733740760,
       "rank": 45,
@@ -2969,6 +3065,14 @@
       "onboard_time": 1733680753,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13558,
+      "num": 260047,
+      "word": "绝大多数现代人都在装成熟",
+      "onboard_time": 1733742501,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 13399,
