@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733748573196,
+  "endTime": 1733749487005,
   "band_list": [
     {
       "raw_hot": 3417617,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1425247,
+      "num": 385178,
+      "word": "陈晓没去参加陈妍希父亲葬礼",
+      "onboard_time": 1733743280,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1347145,
       "num": 1347145,
       "word": "唐艺昕否认二胎",
@@ -163,20 +171,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1191813,
-      "num": 284066,
-      "word": "陈晓没去参加陈妍希父亲葬礼",
-      "onboard_time": 1733743280,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
       "onboard_time": 1733709978,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1111926,
+      "num": 1111926,
+      "word": "向佐找晓华剪发",
+      "onboard_time": 1733745739,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1091547,
@@ -280,14 +288,6 @@
       "word": "徐艺洋开工",
       "onboard_time": 1733729718,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 830921,
-      "num": 830921,
-      "word": "向佐找晓华剪发",
-      "onboard_time": 1733745739,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 653048,
+      "num": 653048,
+      "word": "英伟达",
+      "onboard_time": 1733745019,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 642843,
       "num": 901835,
       "word": "13岁男孩凌晨偷拿钥匙开车上路",
@@ -524,19 +532,11 @@
     },
     {
       "raw_hot": 547404,
-      "num": 283338,
+      "num": 320038,
       "word": "张若昀为扔烟头道歉",
       "onboard_time": 1733740879,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543693,
-      "num": 543693,
-      "word": "英伟达",
-      "onboard_time": 1733745019,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 526845,
@@ -633,6 +633,14 @@
       "onboard_time": 1733720779,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479918,
+      "num": 284796,
+      "word": "一个25岁女生的微信",
+      "onboard_time": 1733748499,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 477639,
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334347,
+      "num": 293234,
+      "word": "男子嚼槟榔20年变割脸人",
+      "onboard_time": 1733741900,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330520,
       "num": 330520,
       "word": "侯明昊因飞机改签错过偶像麦迪",
@@ -873,14 +889,6 @@
       "onboard_time": 1733708478,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320818,
-      "num": 283030,
-      "word": "男子嚼槟榔20年变割脸人",
-      "onboard_time": 1733741900,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319927,
@@ -955,11 +963,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307121,
+      "num": 307121,
+      "word": "九重紫",
+      "onboard_time": 1733647279,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299226,
       "num": 402377,
       "word": "我是刑警大盘有救了",
       "onboard_time": 1733727678,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 297695,
+      "num": 297695,
+      "word": "我是刑警叹为观止的测谎逻辑",
+      "onboard_time": 1733747359,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1035,14 +1059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 282243,
-      "num": 282243,
-      "word": "九重紫",
-      "onboard_time": 1733647279,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279103,
       "num": 279103,
       "word": "网曝多名年轻人合伙骗领虐猫",
@@ -1072,6 +1088,14 @@
       "word": "池忆 对不起所有爱我的人",
       "onboard_time": 1733711117,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265870,
+      "num": 287920,
+      "word": "范丞丞屏保是沈腾",
+      "onboard_time": 1733744061,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -1105,14 +1129,6 @@
       "onboard_time": 1733627662,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 257048,
-      "num": 257048,
-      "word": "范丞丞屏保是沈腾",
-      "onboard_time": 1733744061,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 254954,
@@ -1163,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250712,
+      "num": 280542,
+      "word": "王昶金丝边眼镜造型",
+      "onboard_time": 1733747419,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250675,
       "num": 250675,
       "word": "虞书欣工作室",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1733718380,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 247232,
+      "num": 247232,
+      "word": "九重紫11集",
+      "onboard_time": 1733745559,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 246874,
@@ -1243,14 +1275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 238137,
-      "num": 238137,
-      "word": "九重紫11集",
-      "onboard_time": 1733745559,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236361,
       "num": 236361,
       "word": "白桃星座",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1733726778,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234943,
-      "num": 234943,
-      "word": "王昶金丝边眼镜造型",
-      "onboard_time": 1733747419,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 233771,
@@ -1304,6 +1320,14 @@
       "word": "98年员工抗议额外增加工作后遭辞退",
       "onboard_time": 1733723960,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224672,
+      "num": 224672,
+      "word": "洗浴中心多人出现不适晕倒送医",
+      "onboard_time": 1733747721,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1356,7 +1380,7 @@
     },
     {
       "raw_hot": 207180,
-      "num": 207180,
+      "num": 279926,
       "word": "陈好今天是被宠爱的一天",
       "onboard_time": 1733746579,
       "rank": 25,
@@ -1497,6 +1521,14 @@
       "onboard_time": 1733730379,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193210,
+      "num": 193210,
+      "word": "以色列大举空袭叙利亚",
+      "onboard_time": 1733748620,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 192766,
@@ -1803,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162263,
+      "num": 162263,
+      "word": "王源重庆路演偶遇爷爷奶奶",
+      "onboard_time": 1733745921,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161816,
       "num": 161816,
       "word": "檀健次想看沈翊14集全勤",
@@ -1995,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149672,
-      "num": 149672,
-      "word": "洗浴中心多人出现不适晕倒送医",
-      "onboard_time": 1733747721,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149020,
       "num": 149020,
       "word": "窦昭离过婚的人就是不一样",
@@ -2016,6 +2048,14 @@
       "word": "李昀锐战损梦回袁善见",
       "onboard_time": 1733706319,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148418,
+      "num": 148418,
+      "word": "九重紫男主配音",
+      "onboard_time": 1733743942,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2064,14 +2104,6 @@
       "word": "给大家看看过午不食的杀伤力",
       "onboard_time": 1733716221,
       "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 144210,
-      "num": 144210,
-      "word": "一个25岁女生的微信",
-      "onboard_time": 1733748499,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -2131,14 +2163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138988,
-      "num": 138988,
-      "word": "九重紫男主配音",
-      "onboard_time": 1733743942,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136348,
       "num": 136348,
       "word": "曹璐带韩国爱豆看福宝vlog",
@@ -2163,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135045,
+      "num": 135045,
+      "word": "大三外籍留学生猥亵女生被拘",
+      "onboard_time": 1733744479,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "今年二十二",
@@ -2177,14 +2209,6 @@
       "onboard_time": 1733728998,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132377,
-      "num": 132377,
-      "word": "大三外籍留学生猥亵女生被拘",
-      "onboard_time": 1733744479,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131312,
@@ -2211,20 +2235,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127396,
-      "num": 264170,
-      "word": "我是刑警叹为观止的测谎逻辑",
-      "onboard_time": 1733747359,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
       "onboard_time": 1733710639,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126913,
+      "num": 126913,
+      "word": "张柏芝杨紫同框合照",
+      "onboard_time": 1733745260,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 126002,
@@ -2395,28 +2419,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 112033,
-      "num": 112033,
-      "word": "张柏芝杨紫同框合照",
-      "onboard_time": 1733745260,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 111738,
       "num": 111738,
       "word": "我是刑警收视率11天TOP1",
       "onboard_time": 1733741660,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110919,
-      "num": 110919,
-      "word": "王源重庆路演偶遇爷爷奶奶",
-      "onboard_time": 1733745921,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 110118,
@@ -2513,6 +2521,22 @@
       "onboard_time": 1733748438,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99782,
+      "num": 99782,
+      "word": "为啥刷短视频容易停不下来",
+      "onboard_time": 1733749459,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99740,
+      "num": 99740,
+      "word": "梁王组合获年度最佳男子双打组合",
+      "onboard_time": 1733749459,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98758,
@@ -2683,6 +2707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83822,
+      "num": 386022,
+      "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+      "onboard_time": 1733749040,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83439,
       "num": 199038,
       "word": "一建成绩",
@@ -2825,6 +2857,14 @@
       "onboard_time": 1733735300,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 60476,
+      "num": 385185,
+      "word": "网友隔河拍到疑电诈园区体罚现场",
+      "onboard_time": 1733749400,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60116,
@@ -3035,6 +3075,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36089,
+      "num": 292301,
+      "word": "以奋斗为名的猝死险赔偿有多难拿",
+      "onboard_time": 1733747839,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 35671,
+      "num": 295942,
+      "word": "龚俊确认参加东方卫视跨年",
+      "onboard_time": 1733748679,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33842,
       "num": 49630,
       "word": "李昀锐谢谢你",
@@ -3107,12 +3163,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 27262,
-      "num": 247169,
-      "word": "以奋斗为名的猝死险赔偿有多难拿",
-      "onboard_time": 1733747839,
-      "rank": 19,
-      "category": "舆论监督"
+      "raw_hot": 25605,
+      "num": 312311,
+      "word": "专家称缩小收入差距主要是提低",
+      "onboard_time": 1733749400,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25560,
