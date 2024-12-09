@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733713791486,
+  "endTime": 1733714785831,
   "band_list": [
     {
       "raw_hot": 1937597,
@@ -17,6 +17,14 @@
       "onboard_time": 1733704939,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1673433,
+      "num": 540614,
+      "word": "疑似唐艺昕怀二胎",
+      "onboard_time": 1733713818,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1666935,
@@ -43,6 +51,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1183587,
+      "num": 1189374,
+      "word": "南京大屠杀铁证碇泊场照片首次曝光",
+      "onboard_time": 1733709978,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1091547,
       "num": 1091547,
       "word": "明知对方是间谍仍泄密获刑10年",
@@ -51,16 +67,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 992369,
-      "num": 992369,
-      "word": "南京大屠杀铁证碇泊场照片首次曝光",
-      "onboard_time": 1733709978,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 983488,
-      "num": 561475,
+      "raw_hot": 992520,
+      "num": 628096,
       "word": "展信佳",
       "onboard_time": 1733710520,
       "rank": 43,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 977002,
-      "num": 556161,
+      "num": 591247,
       "word": "误杀3全阵容官宣",
       "onboard_time": 1733711958,
       "rank": 7,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 639637,
+      "num": 639637,
+      "word": "走失13年女硕士两个孩子成绩优异",
+      "onboard_time": 1733713878,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 628504,
       "num": 484883,
       "word": "韩安冉对网友发火",
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507412,
+      "num": 609237,
+      "word": "宠物粮里加蒙脱石厂商竟说吃不死",
+      "onboard_time": 1733710217,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483987,
       "num": 483987,
       "word": "深圳连夜拆除不锈钢盲道",
@@ -227,20 +251,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 377607,
-      "num": 609237,
-      "word": "宠物粮里加蒙脱石厂商竟说吃不死",
-      "onboard_time": 1733710217,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369923,
       "num": 369923,
       "word": "广州地铁",
       "onboard_time": 1733703920,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366820,
+      "num": 343254,
+      "word": "江苏卫视跨年首波阵容官宣",
+      "onboard_time": 1733712558,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 362826,
@@ -265,6 +289,14 @@
       "onboard_time": 1733665701,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 326410,
+      "num": 326410,
+      "word": "你以为很干净但实际很脏的东西",
+      "onboard_time": 1733714539,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 323822,
@@ -307,12 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302620,
-      "num": 339256,
-      "word": "江苏卫视跨年首波阵容官宣",
-      "onboard_time": 1733712558,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 314512,
+      "num": 314512,
+      "word": "肖战实体专设计",
+      "onboard_time": 1733714180,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 305766,
+      "num": 252552,
+      "word": "刘阳老师辞职",
+      "onboard_time": 1733713938,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 297311,
@@ -347,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286277,
+      "num": 286277,
+      "word": "小杨哥被冻结51万股权",
+      "onboard_time": 1733713277,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283481,
       "num": 283481,
       "word": "黄子韬携专辑回归",
@@ -369,6 +417,14 @@
       "onboard_time": 1733711117,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260999,
+      "num": 344194,
+      "word": "大侦探这次是真的万水千山",
+      "onboard_time": 1733713160,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 254954,
@@ -403,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253349,
+      "num": 253349,
+      "word": "曹璐内娱可怜初舞台",
+      "onboard_time": 1733713639,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236361,
       "num": 236361,
       "word": "白桃星座",
@@ -419,6 +483,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 233497,
+      "num": 233497,
+      "word": "2025年贺岁纪念币纪念钞即将发行",
+      "onboard_time": 1733712737,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229334,
+      "num": 549242,
+      "word": "9部门明确认定家暴证据标准",
+      "onboard_time": 1733713099,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208404,
       "num": 208404,
       "word": "学生把头发扎舌头上写纸条求助",
@@ -427,12 +507,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "赵一博遇人不熟开机应援",
+      "onboard_time": 1733714238,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "周雨彤发小小的我定档海报",
+      "onboard_time": 1733714180,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196208,
       "num": 196208,
       "word": "九重紫",
       "onboard_time": 1733647279,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192766,
+      "num": 192766,
+      "word": "汪顺论文里的200混精英运动员是谁",
+      "onboard_time": 1733714480,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 191911,
@@ -459,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188428,
+      "num": 188428,
+      "word": "九重紫微博追剧团",
+      "onboard_time": 1733714419,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188191,
       "num": 188191,
       "word": "特朗普称不会承诺让美国留在北约",
@@ -475,12 +587,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 185427,
-      "num": 185427,
-      "word": "2025年贺岁纪念币纪念钞即将发行",
-      "onboard_time": 1733712737,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 181047,
+      "num": 326913,
+      "word": "泉州文旅再次认证赵丽颖影响力",
+      "onboard_time": 1733712919,
+      "rank": 19,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 175958,
@@ -497,22 +609,6 @@
       "onboard_time": 1733627662,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 172237,
-      "num": 172237,
-      "word": "大侦探这次是真的万水千山",
-      "onboard_time": 1733713160,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 171789,
-      "num": 171789,
-      "word": "小杨哥被冻结51万股权",
-      "onboard_time": 1733713277,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171608,
@@ -547,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154414,
+      "num": 154414,
+      "word": "12306回应母女霸座还持刀威胁乘警",
+      "onboard_time": 1733714660,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154246,
       "num": 154246,
       "word": "成毅代言祖玛珑",
@@ -569,6 +673,14 @@
       "onboard_time": 1733707097,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149020,
+      "num": 149020,
+      "word": "窦昭离过婚的人就是不一样",
+      "onboard_time": 1733714660,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148569,
@@ -619,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140005,
-      "num": 539750,
-      "word": "9部门明确认定家暴证据标准",
-      "onboard_time": 1733713099,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135227,
       "num": 131853,
       "word": "阿萨德政权结束当晚发生了什么",
@@ -641,6 +745,14 @@
       "onboard_time": 1733671399,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133008,
+      "num": 587981,
+      "word": "多家银行采用AI面试进行招聘",
+      "onboard_time": 1733713339,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128147,
@@ -723,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119466,
-      "num": 119466,
-      "word": "曹璐内娱可怜初舞台",
-      "onboard_time": 1733713639,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119112,
       "num": 119112,
       "word": "周杰伦演唱会嘉宾是五月天",
@@ -753,6 +857,14 @@
       "onboard_time": 1733706559,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116975,
+      "num": 343307,
+      "word": "向佐今晚找晓华理发",
+      "onboard_time": 1733714539,
+      "rank": 19,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 116959,
@@ -817,6 +929,14 @@
       "onboard_time": 1733658800,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108823,
+      "num": 315524,
+      "word": "莎头一直都是互相鼓励的",
+      "onboard_time": 1733714598,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 107445,
@@ -907,12 +1027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86461,
-      "num": 326913,
-      "word": "泉州文旅再次认证赵丽颖影响力",
-      "onboard_time": 1733712919,
-      "rank": 19,
-      "category": "艺人,旅游"
+      "raw_hot": 83439,
+      "num": 199038,
+      "word": "一建成绩",
+      "onboard_time": 1733714058,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 82227,
@@ -953,6 +1073,14 @@
       "onboard_time": 1733679912,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60116,
+      "num": 476557,
+      "word": "虐猫学生曾伪装成爱猫者进入爱猫群",
+      "onboard_time": 1733713639,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58164,
@@ -1011,14 +1139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41596,
-      "num": 545581,
-      "word": "多家银行采用AI面试进行招聘",
-      "onboard_time": 1733713339,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37552,
       "num": 49636,
       "word": "严浩翔新歌今晚记得来听",
@@ -1051,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25560,
+      "num": 1366769,
+      "word": "青知讲说人",
+      "onboard_time": 1733710396,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23317,
       "num": 33699,
       "word": "庆祝澳门回归祖国25年",
@@ -1080,14 +1208,6 @@
       "word": "埃文凯尔到杭州了",
       "onboard_time": 1733683511,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22093,
-      "num": 1366769,
-      "word": "青知讲说人",
-      "onboard_time": 1733710396,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1139,20 +1259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17173,
+      "num": 207917,
+      "word": "韩安冉再回应合照事件",
+      "onboard_time": 1733712858,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17038,
       "num": 21547,
       "word": "张泽禹锁骨好优越",
       "onboard_time": 1733685013,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16996,
-      "num": 476557,
-      "word": "虐猫学生曾伪装成爱猫者进入爱猫群",
-      "onboard_time": 1733713639,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16884,
