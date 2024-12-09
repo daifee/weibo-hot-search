@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733770041004,
+  "endTime": 1733772005636,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81769,
+      "num": 81769,
+      "word": "志愿者称走失女硕士丈夫在做笔录",
+      "onboard_time": 1733766973,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80214,
       "num": 151136,
       "word": "家暴绝非家务事",
@@ -435,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42495,
-      "num": 42495,
-      "word": "志愿者称走失女硕士丈夫在做笔录",
-      "onboard_time": 1733766973,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34845,
       "num": 80373,
       "word": "日本人不知南京大屠杀是日本之耻",
@@ -483,12 +483,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23701,
+      "num": 26057,
+      "word": "蜀锦人家",
+      "onboard_time": 1733771531,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23095,
       "num": 26976,
       "word": "快哉快哉",
       "onboard_time": 1733767033,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22644,
+      "num": 22644,
+      "word": "外交部就以色列空袭大马士革发声",
+      "onboard_time": 1733769791,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21473,
@@ -499,20 +515,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21098,
+      "num": 61008,
+      "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
+      "onboard_time": 1733761276,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20947,
+      "num": 22773,
+      "word": "本科专业大洗牌背后的调整逻辑",
+      "onboard_time": 1733765773,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 20020,
+      "num": 20020,
+      "word": "特朗普威胁北约成员国",
+      "onboard_time": 1733771111,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17552,
       "num": 101240,
       "word": "麦蒂回复侯明昊",
       "onboard_time": 1733764454,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17518,
-      "num": 26894,
-      "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
-      "onboard_time": 1733761276,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16646,
