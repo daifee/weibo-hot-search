@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733714785831,
+  "endTime": 1733716306771,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -17,6 +17,14 @@
       "onboard_time": 1733662760,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2935450,
+      "num": 2935450,
+      "word": "走失13年女硕士两个孩子成绩优异",
+      "onboard_time": 1733713878,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2774352,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1937597,
-      "num": 957114,
+      "num": 1037418,
       "word": "15岁Kimi近照",
       "onboard_time": 1733710877,
       "rank": 3,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1673433,
-      "num": 540614,
+      "num": 628683,
       "word": "疑似唐艺昕怀二胎",
       "onboard_time": 1733713818,
       "rank": 10,
@@ -283,8 +291,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025514,
+      "num": 1025514,
+      "word": "刘阳老师辞职",
+      "onboard_time": 1733713938,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 992520,
-      "num": 628096,
+      "num": 893406,
       "word": "展信佳",
       "onboard_time": 1733581042,
       "rank": 10,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 977002,
-      "num": 591247,
+      "num": 625938,
       "word": "误杀3全阵容官宣",
       "onboard_time": 1733711958,
       "rank": 7,
@@ -651,14 +667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 639637,
-      "num": 639637,
-      "word": "走失13年女硕士两个孩子成绩优异",
-      "onboard_time": 1733713878,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 639001,
       "num": 639001,
       "word": "孙颖莎谈混双比赛",
@@ -843,6 +851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 512079,
+      "num": 549242,
+      "word": "9部门明确认定家暴证据标准",
+      "onboard_time": 1733713099,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 508632,
       "num": 508632,
       "word": "大马士革响起密集枪声",
@@ -889,6 +905,22 @@
       "onboard_time": 1733617157,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 497481,
+      "num": 326410,
+      "word": "你以为很干净但实际很脏的东西",
+      "onboard_time": 1733714539,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 494271,
+      "num": 494271,
+      "word": "向佐今晚找晓华理发",
+      "onboard_time": 1733714539,
+      "rank": 19,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 488875,
@@ -1067,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 413525,
+      "num": 413525,
+      "word": "周雨彤发小小的我定档海报",
+      "onboard_time": 1733714180,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 403906,
       "num": 403906,
       "word": "草莓蛋糕搪瓷盆厂7天销售额增50倍",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1733636600,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 382368,
+      "num": 629997,
+      "word": "12306回应母女霸座还持刀威胁乘警",
+      "onboard_time": 1733714660,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378553,
@@ -1227,20 +1275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334863,
+      "num": 273399,
+      "word": "曹璐内娱可怜初舞台",
+      "onboard_time": 1733713639,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333270,
       "num": 564080,
       "word": "阿萨德离开叙利亚",
       "onboard_time": 1733660661,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 326410,
-      "num": 326410,
-      "word": "你以为很干净但实际很脏的东西",
-      "onboard_time": 1733714539,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 326339,
@@ -1363,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 305766,
-      "num": 252552,
-      "word": "刘阳老师辞职",
-      "onboard_time": 1733713938,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1733657299,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294810,
+      "num": 294810,
+      "word": "2025年贺岁纪念币纪念钞即将发行",
+      "onboard_time": 1733712737,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294500,
@@ -1579,20 +1627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263733,
+      "num": 344194,
+      "word": "大侦探这次是真的万水千山",
+      "onboard_time": 1733713160,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261225,
       "num": 261225,
       "word": "80%胃癌与幽门螺杆菌有关",
       "onboard_time": 1733654419,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 260999,
-      "num": 344194,
-      "word": "大侦探这次是真的万水千山",
-      "onboard_time": 1733713160,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 260519,
@@ -1657,14 +1705,6 @@
       "onboard_time": 1733671641,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 253349,
-      "num": 253349,
-      "word": "曹璐内娱可怜初舞台",
-      "onboard_time": 1733713639,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 253274,
@@ -1811,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235227,
+      "num": 235227,
+      "word": "虞书欣工作室",
+      "onboard_time": 1733715380,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233771,
       "num": 607124,
       "word": "韩国警方考虑禁止尹锡悦出境",
@@ -1819,28 +1867,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233497,
-      "num": 233497,
-      "word": "2025年贺岁纪念币纪念钞即将发行",
-      "onboard_time": 1733712737,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 232771,
       "num": 383581,
       "word": "莎头出战混团决赛",
       "onboard_time": 1733653937,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229334,
-      "num": 549242,
-      "word": "9部门明确认定家暴证据标准",
-      "onboard_time": 1733713099,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 226412,
@@ -1899,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213479,
+      "num": 587981,
+      "word": "多家银行采用AI面试进行招聘",
+      "onboard_time": 1733713339,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210325,
       "num": 210325,
       "word": "汪苏泷2024巡演今日收官",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1733664203,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204232,
+      "num": 204232,
+      "word": "易烊千玺蒋勤勤合作",
+      "onboard_time": 1733715679,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 203741,
@@ -2011,12 +2059,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198228,
-      "num": 198228,
-      "word": "周雨彤发小小的我定档海报",
-      "onboard_time": 1733714180,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 198355,
+      "num": 274383,
+      "word": "遇人不熟阵容官宣",
+      "onboard_time": 1733715738,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 197553,
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 192766,
-      "num": 192766,
+      "num": 267564,
       "word": "汪顺论文里的200混精英运动员是谁",
       "onboard_time": 1733714480,
       "rank": 43,
@@ -2268,7 +2316,7 @@
     },
     {
       "raw_hot": 188428,
-      "num": 188428,
+      "num": 230987,
       "word": "九重紫微博追剧团",
       "onboard_time": 1733714419,
       "rank": 45,
@@ -2675,6 +2723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157631,
+      "num": 157631,
+      "word": "大侦探",
+      "onboard_time": 1733714839,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157413,
       "num": 183161,
       "word": "檀健次回应粉丝结婚",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1733642899,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156919,
+      "num": 315524,
+      "word": "莎头一直都是互相鼓励的",
+      "onboard_time": 1733714598,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 156548,
@@ -2715,12 +2779,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154414,
-      "num": 154414,
-      "word": "12306回应母女霸座还持刀威胁乘警",
-      "onboard_time": 1733714660,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 154432,
+      "num": 154432,
+      "word": "A股",
+      "onboard_time": 1733711058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 154246,
@@ -2899,6 +2963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144238,
+      "num": 144238,
+      "word": "给大家看看过午不食的杀伤力",
+      "onboard_time": 1733716221,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143905,
       "num": 143905,
       "word": "混团采访",
@@ -3057,14 +3129,6 @@
       "onboard_time": 1733613493,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133008,
-      "num": 587981,
-      "word": "多家银行采用AI面试进行招聘",
-      "onboard_time": 1733713339,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132438,
@@ -3275,14 +3339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116975,
-      "num": 343307,
-      "word": "向佐今晚找晓华理发",
-      "onboard_time": 1733714539,
-      "rank": 19,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 116959,
       "num": 116959,
       "word": "上海龙华寺突现银杏小猫咪",
@@ -3369,14 +3425,6 @@
       "onboard_time": 1733654180,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108823,
-      "num": 315524,
-      "word": "莎头一直都是互相鼓励的",
-      "onboard_time": 1733714598,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 108323,
@@ -4307,6 +4355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21786,
+      "num": 267385,
+      "word": "韩安冉再回应合照事件",
+      "onboard_time": 1733712858,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20780,
       "num": 21548,
       "word": "黑白森林",
@@ -4369,14 +4425,6 @@
       "onboard_time": 1733628077,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17173,
-      "num": 207917,
-      "word": "韩安冉再回应合照事件",
-      "onboard_time": 1733712858,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 17038,
