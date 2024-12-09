@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733722916829,
+  "endTime": 1733726081140,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 780341,
+      "num": 780341,
+      "word": "17岁男孩被诱骗至缅甸屡遭毒打",
+      "onboard_time": 1733719881,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 779800,
       "num": 779800,
       "word": "央视曝中华口腔医学会给钱就当会员",
@@ -521,6 +529,14 @@
       "onboard_time": 1733617878,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 760336,
+      "num": 760336,
+      "word": "警方通报私家车不给救护车让路",
+      "onboard_time": 1733722760,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 760231,
@@ -619,6 +635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 698153,
+      "num": 698153,
+      "word": "那孟子义呢",
+      "onboard_time": 1733723479,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 695949,
       "num": 695949,
       "word": "张继科直播夸王曼昱",
@@ -657,6 +681,14 @@
       "onboard_time": 1733585122,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 670096,
+      "num": 670096,
+      "word": "收留还是拐卖公众定会等到真相",
+      "onboard_time": 1733720481,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 669713,
@@ -1003,6 +1035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 480945,
+      "num": 522615,
+      "word": "终于有剧把三纲五常正解了",
+      "onboard_time": 1733720779,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478679,
       "num": 478679,
       "word": "孟子义一年级哪有这么好的条件",
@@ -1251,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370501,
+      "num": 444274,
+      "word": "宋浩然回应韩安冉对网友发火",
+      "onboard_time": 1733723778,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 369923,
       "num": 369923,
       "word": "广州地铁",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1733628860,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365214,
+      "num": 365214,
+      "word": "我家那小子",
+      "onboard_time": 1733723539,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 362826,
@@ -1435,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314624,
+      "num": 314624,
+      "word": "毛雪汪官宣徐明浩",
+      "onboard_time": 1733722218,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314512,
       "num": 314512,
       "word": "肖战实体专设计",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1733717301,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312507,
-      "num": 606082,
-      "word": "17岁男孩被诱骗至缅甸屡遭毒打",
-      "onboard_time": 1733719881,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312430,
@@ -1627,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 288810,
-      "num": 606456,
-      "word": "收留还是拐卖公众定会等到真相",
-      "onboard_time": 1733720481,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 288755,
       "num": 319493,
       "word": "看把曾舜晞饿的",
@@ -1688,14 +1736,6 @@
       "word": "九重紫小孩姐 天赋型选手",
       "onboard_time": 1733638817,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274967,
-      "num": 522615,
-      "word": "终于有剧把三纲五常正解了",
-      "onboard_time": 1733720779,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1785,14 +1825,6 @@
       "onboard_time": 1733659882,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260275,
-      "num": 260275,
-      "word": "毛雪汪官宣徐明浩",
-      "onboard_time": 1733722218,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 257066,
@@ -2011,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236908,
+      "num": 376638,
+      "word": "孟子义李昀锐纯正姐狗味",
+      "onboard_time": 1733725101,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236668,
       "num": 236668,
       "word": "年轻人开始给自己去班味了",
@@ -2043,12 +2083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226931,
+      "num": 226931,
+      "word": "98年员工抗议额外增加工作后遭辞退",
+      "onboard_time": 1733723960,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226412,
       "num": 111163,
       "word": "白鹿和北上导演拥抱",
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222966,
+      "num": 222966,
+      "word": "为了科研他们2天狂吃200斤小龙虾",
+      "onboard_time": 1733722880,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222841,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217857,
+      "num": 217857,
+      "word": "原来被子颜色会影响人的睡眠",
+      "onboard_time": 1733721980,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215598,
@@ -2651,6 +2715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183088,
+      "num": 226202,
+      "word": "易烊千玺身材",
+      "onboard_time": 1733725699,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182246,
       "num": 171125,
       "word": "叙利亚国内局势骤然升级",
@@ -2689,6 +2761,14 @@
       "onboard_time": 1733720841,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 180244,
+      "num": 180244,
+      "word": "胖子瘦不下来的原因找到了",
+      "onboard_time": 1733722880,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 179852,
@@ -2963,14 +3043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163058,
-      "num": 163058,
-      "word": "原来被子颜色会影响人的睡眠",
-      "onboard_time": 1733721980,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162606,
       "num": 162606,
       "word": "Faker回应如何忘记前任",
@@ -3009,6 +3081,22 @@
       "onboard_time": 1733721199,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159947,
+      "num": 262167,
+      "word": "iG全神班参加德杯",
+      "onboard_time": 1733724860,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 159766,
+      "num": 159766,
+      "word": "SBS阵容",
+      "onboard_time": 1733722940,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 158572,
@@ -3113,6 +3201,14 @@
       "onboard_time": 1733710396,
       "rank": 34,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 153891,
+      "num": 582368,
+      "word": "妇联介入调查女硕士失踪被找回案",
+      "onboard_time": 1733725880,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153706,
@@ -3235,6 +3331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146973,
+      "num": 146973,
+      "word": "周克华",
+      "onboard_time": 1733725217,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146742,
       "num": 190651,
       "word": "中国短道队北京站3金2铜收官",
@@ -3283,14 +3387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144435,
-      "num": 223225,
-      "word": "警方通报私家车不给救护车让路",
-      "onboard_time": 1733722760,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 144238,
       "num": 144238,
       "word": "给大家看看过午不食的杀伤力",
@@ -3299,20 +3395,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143981,
+      "num": 484468,
+      "word": "一件好的羽绒服应该怎么选",
+      "onboard_time": 1733724139,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143905,
       "num": 143905,
       "word": "混团采访",
       "onboard_time": 1733670981,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143234,
-      "num": 143234,
-      "word": "胖子瘦不下来的原因找到了",
-      "onboard_time": 1733722880,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 142408,
@@ -3379,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139522,
+      "num": 139522,
+      "word": "张萌说李昀锐是孟姐控",
+      "onboard_time": 1733724018,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139125,
       "num": 146011,
       "word": "尹锡悦弹劾案未获通过",
@@ -3443,14 +3547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135605,
-      "num": 222593,
-      "word": "为了科研他们2天狂吃200斤小龙虾",
-      "onboard_time": 1733722880,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135227,
       "num": 131853,
       "word": "阿萨德政权结束当晚发生了什么",
@@ -3465,6 +3561,14 @@
       "onboard_time": 1733643498,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133657,
+      "num": 133657,
+      "word": "易烊千玺林晓杰演祖孙",
+      "onboard_time": 1733726058,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 133179,
@@ -3731,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112604,
+      "num": 573659,
+      "word": "社区工作成部分年轻人考公考编跳板",
+      "onboard_time": 1733724560,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 112369,
       "num": 116044,
       "word": "周五下班韩国飞中国说走就走",
@@ -3833,6 +3945,14 @@
       "onboard_time": 1733581462,
       "rank": 39,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 106242,
+      "num": 573790,
+      "word": "蔡国强回应烟花秀无人机坠海",
+      "onboard_time": 1733725158,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106018,
@@ -4120,6 +4240,14 @@
       "word": "官方回应母女二人霸座被乘警带走",
       "onboard_time": 1733646920,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78588,
+      "num": 367079,
+      "word": "6岁男孩滑下40米高悬崖奇迹存活",
+      "onboard_time": 1733724497,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4700,7 +4828,7 @@
     },
     {
       "raw_hot": 30574,
-      "num": 154155,
+      "num": 488919,
       "word": "白鹿同款好运汤圆",
       "onboard_time": 1733722699,
       "rank": 44,
@@ -4737,6 +4865,14 @@
       "onboard_time": 1733621657,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27425,
+      "num": 152658,
+      "word": "现在1块钱还能买到什么",
+      "onboard_time": 1733724318,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27143,
@@ -4937,6 +5073,14 @@
       "onboard_time": 1733677515,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15142,
+      "num": 225871,
+      "word": "韩国创业板指日内重挫5%",
+      "onboard_time": 1733725638,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 14948,
