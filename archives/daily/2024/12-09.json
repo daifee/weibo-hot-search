@@ -1,6 +1,6 @@
 {
   "startTime": 1733675239749,
-  "endTime": 1733754219644,
+  "endTime": 1733755422951,
   "band_list": [
     {
       "raw_hot": 3417617,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1584124,
-      "num": 448056,
+      "num": 480810,
       "word": "陈晓没去参加陈妍希父亲葬礼",
       "onboard_time": 1733743280,
       "rank": 18,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 787285,
+      "num": 787285,
+      "word": "她是12306背后的最强大脑",
+      "onboard_time": 1733751680,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 785888,
       "num": 785888,
       "word": "叙利亚总统阿萨德辞职",
@@ -387,20 +395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 754400,
+      "num": 479805,
+      "word": "走失女硕士嫂子发声",
+      "onboard_time": 1733754560,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 754242,
+      "num": 754242,
+      "word": "李昀锐 今年爱上的最后一个男人",
+      "onboard_time": 1733753541,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 748612,
+      "num": 748612,
+      "word": "组建叙利亚过渡政府",
+      "onboard_time": 1733751321,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 731832,
       "num": 731832,
       "word": "英伟达",
       "onboard_time": 1733745019,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 718988,
-      "num": 546162,
-      "word": "组建叙利亚过渡政府",
-      "onboard_time": 1733751321,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 718466,
@@ -579,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544093,
+      "num": 544093,
+      "word": "小米YU7预计明年六七月上市",
+      "onboard_time": 1733747179,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 526845,
       "num": 386038,
       "word": "你以为很干净但实际很脏的东西",
@@ -667,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484301,
-      "num": 484301,
-      "word": "小米YU7预计明年六七月上市",
-      "onboard_time": 1733747179,
-      "rank": 20,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 483987,
       "num": 483987,
       "word": "深圳连夜拆除不锈钢盲道",
@@ -739,20 +763,20 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 420210,
+      "num": 420210,
+      "word": "邓为工作室",
+      "onboard_time": 1733753780,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419534,
       "num": 419534,
       "word": "蔡国强烟花秀大量无人机坠海",
       "onboard_time": 1733699836,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 416137,
-      "num": 416137,
-      "word": "她是12306背后的最强大脑",
-      "onboard_time": 1733751680,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 410358,
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 376239,
-      "num": 376239,
+      "num": 482621,
       "word": "梁王组合获年度最佳男子双打组合",
       "onboard_time": 1733749459,
       "rank": 49,
@@ -889,6 +913,14 @@
       "onboard_time": 1733739019,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 339959,
+      "num": 419481,
+      "word": "晓华说向佐像大哥哥一样",
+      "onboard_time": 1733751741,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 337467,
@@ -1003,14 +1035,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 316208,
-      "num": 419481,
-      "word": "晓华说向佐像大哥哥一样",
-      "onboard_time": 1733751741,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315582,
       "num": 296755,
       "word": "虞书欣回应接双轨的原因",
@@ -1056,14 +1080,6 @@
       "word": "我是刑警大盘有救了",
       "onboard_time": 1733727678,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 299181,
-      "num": 381369,
-      "word": "李昀锐 今年爱上的最后一个男人",
-      "onboard_time": 1733753541,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1339,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243167,
+      "num": 243167,
+      "word": "小米SUV价格",
+      "onboard_time": 1733753359,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 242865,
       "num": 614027,
       "word": "蔡国强回应烟花秀无人机坠海",
@@ -1441,14 +1465,6 @@
       "onboard_time": 1733743280,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216823,
-      "num": 216823,
-      "word": "小米SUV价格",
-      "onboard_time": 1733753359,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 213479,
@@ -1601,14 +1617,6 @@
       "onboard_time": 1733726839,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 196454,
-      "num": 196454,
-      "word": "邓为工作室",
-      "onboard_time": 1733753780,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 194745,
@@ -1771,6 +1779,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 181002,
+      "num": 181002,
+      "word": "李昀锐的四张表情包",
+      "onboard_time": 1733752879,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180379,
       "num": 180379,
       "word": "董子健感谢刘昊然给新人导演机会",
@@ -1843,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174753,
+      "num": 174753,
+      "word": "雷军回应小米YU7为什么早公示",
+      "onboard_time": 1733753959,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174150,
       "num": 174150,
       "word": "孙颖莎在小学生面前没打到乒乓球",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1733706258,
       "rank": 31,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 171077,
-      "num": 171077,
-      "word": "李昀锐的四张表情包",
-      "onboard_time": 1733752879,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 170980,
@@ -2395,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134899,
+      "num": 134899,
+      "word": "虞书欣机车女孩",
+      "onboard_time": 1733754860,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134520,
       "num": 134520,
       "word": "今年二十二",
@@ -2425,6 +2449,14 @@
       "onboard_time": 1733743339,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129394,
+      "num": 129394,
+      "word": "80后爸爸硬控14岁女儿社交",
+      "onboard_time": 1733755041,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128147,
@@ -2467,12 +2499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124526,
-      "num": 124526,
-      "word": "雷军回应小米YU7为什么早公示",
-      "onboard_time": 1733753959,
+      "raw_hot": 124670,
+      "num": 124670,
+      "word": "洗浴中心多人出现不适亲历者发声",
+      "onboard_time": 1733754982,
       "rank": 49,
-      "category": "汽车"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124247,
@@ -3003,6 +3035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71770,
+      "num": 378497,
+      "word": "业主称小区监控时刻对着自家客厅",
+      "onboard_time": 1733753720,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69735,
       "num": 243228,
       "word": "周翊然张予曦戏里戏外额头贴贴",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1733679912,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67230,
+      "num": 282439,
+      "word": "这一刻国乒团魂具象化了",
+      "onboard_time": 1733750539,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 67169,
@@ -3115,14 +3163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54207,
-      "num": 282439,
-      "word": "这一刻国乒团魂具象化了",
-      "onboard_time": 1733750539,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 52372,
       "num": 373297,
       "word": "任嘉伦再告黑粉侵权",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1733749400,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48275,
+      "num": 220563,
+      "word": "世界羽联名人堂",
+      "onboard_time": 1733754320,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 47964,
@@ -3251,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43678,
+      "num": 866746,
+      "word": "中国超级工程实力让远水解近渴",
+      "onboard_time": 1733754380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43539,
       "num": 52555,
       "word": "叙总理发视频称没有离开叙利亚",
@@ -3271,14 +3327,6 @@
       "num": 329743,
       "word": "武汉农商银行8万股1元起拍",
       "onboard_time": 1733739682,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39676,
-      "num": 378497,
-      "word": "业主称小区监控时刻对着自家客厅",
-      "onboard_time": 1733753720,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -3313,6 +3361,14 @@
       "onboard_time": 1733747839,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 35845,
+      "num": 218905,
+      "word": "溜冰场回应女子被撞成脑震荡",
+      "onboard_time": 1733754380,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35671,
@@ -3401,6 +3457,22 @@
       "onboard_time": 1733740760,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 27707,
+      "num": 340129,
+      "word": "黄牛抢订公共网球场加价卖被拘",
+      "onboard_time": 1733755041,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25652,
+      "num": 144122,
+      "word": "巩俐深夜打羽毛球",
+      "onboard_time": 1733755101,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 25560,
@@ -3585,6 +3657,14 @@
       "onboard_time": 1733687351,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16459,
+      "num": 221655,
+      "word": "孟子义李昀锐情话糖炒地瓜",
+      "onboard_time": 1733754740,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 16254,
