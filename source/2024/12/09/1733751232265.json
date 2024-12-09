@@ -1,0 +1,402 @@
+{
+  "runTime": 1733751232265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2319108,
+        "num": 2319108,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 731832,
+        "num": 731832,
+        "word": "英伟达",
+        "onboard_time": 1733745019,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 542931,
+        "num": 542931,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535367,
+        "num": 535367,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 490269,
+        "num": 490269,
+        "word": "范丞丞 看看我还要澄清什么",
+        "onboard_time": 1733750058,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441459,
+        "num": 441459,
+        "word": "以色列大举空袭叙利亚",
+        "onboard_time": 1733748620,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372052,
+        "num": 372052,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360966,
+        "num": 360966,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155873,
+        "num": 355905,
+        "word": "网友隔河拍到疑电诈园区体罚现场",
+        "onboard_time": 1733749400,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1430122,
+        "num": 355664,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512605,
+        "num": 355549,
+        "word": "张若昀为扔烟头道歉",
+        "onboard_time": 1733740879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355334,
+        "num": 355334,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336010,
+        "num": 336010,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280995,
+        "num": 280995,
+        "word": "本科专业大洗牌意味着什么",
+        "onboard_time": 1733742380,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216868,
+        "num": 280073,
+        "word": "陈好今天是被宠爱的一天",
+        "onboard_time": 1733746579,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6633,
+        "num": 277923,
+        "word": "九重紫前夫哥重生还是渣男",
+        "onboard_time": 1733745381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1483212,
+        "num": 276836,
+        "word": "向佐找晓华剪发",
+        "onboard_time": 1733745739,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33266,
+        "num": 275477,
+        "word": "搜索400电话遇黑救援10升油花700元",
+        "onboard_time": 1733751140,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33362,
+        "num": 273342,
+        "word": "确诊肺癌保险理赔遭拒法院判赔",
+        "onboard_time": 1733749700,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228981,
+        "num": 271605,
+        "word": "范丞丞屏保是沈腾",
+        "onboard_time": 1733744061,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49670,
+        "num": 269843,
+        "word": "专家称缩小收入差距主要是提低",
+        "onboard_time": 1733749400,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1057011,
+        "num": 267999,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526589,
+        "num": 267183,
+        "word": "一个25岁女生的微信",
+        "onboard_time": 1733748499,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46415,
+        "num": 265635,
+        "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
+        "onboard_time": 1733739559,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328946,
+        "num": 263866,
+        "word": "男子嚼槟榔20年变割脸人",
+        "onboard_time": 1733741900,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205696,
+        "num": 262651,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 260508,
+        "word": "水哥说自己没上过班",
+        "onboard_time": 1733750479,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83434,
+        "num": 259100,
+        "word": "王曼昱混团赛后发文",
+        "onboard_time": 1733739201,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7156,
+        "num": 257595,
+        "word": "期末周大学生有自己的名词解释",
+        "onboard_time": 1733751140,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256305,
+        "num": 256305,
+        "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+        "onboard_time": 1733749040,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253606,
+        "num": 253606,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208875,
+        "num": 208875,
+        "word": "普京做出向阿萨德提供庇护决定",
+        "onboard_time": 1733740821,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198282,
+        "num": 198282,
+        "word": "洗浴中心多人出现不适晕倒送医",
+        "onboard_time": 1733747721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186568,
+        "num": 186568,
+        "word": "我是刑警叹为观止的测谎逻辑",
+        "onboard_time": 1733747359,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185843,
+        "num": 185843,
+        "word": "王昶金丝边眼镜造型",
+        "onboard_time": 1733747419,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72447,
+        "num": 171934,
+        "word": "TES官宣Ben加入",
+        "onboard_time": 1733742740,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170741,
+        "num": 170741,
+        "word": "范丞丞说GD是神",
+        "onboard_time": 1733744239,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168347,
+        "num": 168347,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152377,
+        "num": 152377,
+        "word": "当俄罗斯人看到俄罗斯商品馆",
+        "onboard_time": 1733749218,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145814,
+        "num": 145814,
+        "word": "女子怀疑被偷拍男子称如没有砸你手机",
+        "onboard_time": 1733743280,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136388,
+        "num": 136388,
+        "word": "石宇奇年度最佳男单",
+        "onboard_time": 1733749820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132544,
+        "num": 132544,
+        "word": "王源重庆路演偶遇爷爷奶奶",
+        "onboard_time": 1733745921,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128977,
+        "num": 128977,
+        "word": "大三外籍留学生猥亵女生被拘",
+        "onboard_time": 1733744479,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125936,
+        "num": 125936,
+        "word": "凤凰组合年度最佳混双",
+        "onboard_time": 1733750720,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 125666,
+        "word": "央视频直播放王一博的歌",
+        "onboard_time": 1733751140,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125246,
+        "num": 125246,
+        "word": "南方游客刚到漠河就让大家震惊了",
+        "onboard_time": 1733750660,
+        "rank": 46,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 123515,
+        "num": 123515,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 47,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 123050,
+        "num": 123050,
+        "word": "潘宏园区少爷乐乐",
+        "onboard_time": 1733750720,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117623,
+        "num": 117623,
+        "word": "李雪琴问13个人为啥叫seventeen",
+        "onboard_time": 1733737101,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

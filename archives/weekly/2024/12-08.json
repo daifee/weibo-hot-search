@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733749487005,
+  "endTime": 1733751232265,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1483212,
+      "num": 1111926,
+      "word": "向佐找晓华剪发",
+      "onboard_time": 1733745739,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1448224,
       "num": 468773,
       "word": "叙利亚被释囚犯在街上边跑边笑",
@@ -187,20 +195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1430122,
+      "num": 385178,
+      "word": "陈晓没去参加陈妍希父亲葬礼",
+      "onboard_time": 1733743280,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1426826,
       "num": 915348,
       "word": "走失女硕士收留者侄女回应质疑",
       "onboard_time": 1733719941,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1425247,
-      "num": 385178,
-      "word": "陈晓没去参加陈妍希父亲葬礼",
-      "onboard_time": 1733743280,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 1408846,
@@ -361,14 +369,6 @@
       "onboard_time": 1733709978,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1111926,
-      "num": 1111926,
-      "word": "向佐找晓华剪发",
-      "onboard_time": 1733745739,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1092999,
@@ -771,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731832,
+      "num": 731832,
+      "word": "英伟达",
+      "onboard_time": 1733745019,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 731779,
       "num": 745342,
       "word": "虞书欣回应接双轨的原因",
@@ -921,14 +929,6 @@
       "onboard_time": 1733718922,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 653048,
-      "num": 653048,
-      "word": "英伟达",
-      "onboard_time": 1733745019,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 644428,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 547404,
-      "num": 320038,
+      "num": 355549,
       "word": "张若昀为扔烟头道歉",
       "onboard_time": 1733740879,
       "rank": 39,
@@ -1168,6 +1168,14 @@
       "word": "你以为很干净但实际很脏的东西",
       "onboard_time": 1733714539,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 526589,
+      "num": 284796,
+      "word": "一个25岁女生的微信",
+      "onboard_time": 1733748499,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -1299,6 +1307,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 490269,
+      "num": 490269,
+      "word": "范丞丞 看看我还要澄清什么",
+      "onboard_time": 1733750058,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 488875,
       "num": 488875,
       "word": "这球为什么要挑战",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1733720779,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 479918,
-      "num": 284796,
-      "word": "一个25岁女生的微信",
-      "onboard_time": 1733748499,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 478679,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1733646560,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441459,
+      "num": 441459,
+      "word": "以色列大举空袭叙利亚",
+      "onboard_time": 1733748620,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 440939,
@@ -2315,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256305,
+      "num": 386022,
+      "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+      "onboard_time": 1733749040,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255617,
       "num": 255617,
       "word": "向佐上台的5分钟没1秒是浪费的",
@@ -2707,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216868,
+      "num": 280073,
+      "word": "陈好今天是被宠爱的一天",
+      "onboard_time": 1733746579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215598,
       "num": 215598,
       "word": "沈翊上了三年班终于疯了",
@@ -2779,19 +2811,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208875,
+      "num": 332672,
+      "word": "普京做出向阿萨德提供庇护决定",
+      "onboard_time": 1733740821,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 207337,
       "num": 358067,
       "word": "孙滢皓发文",
       "onboard_time": 1733653820,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207180,
-      "num": 279926,
-      "word": "陈好今天是被宠爱的一天",
-      "onboard_time": 1733746579,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2891,14 +2923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200034,
-      "num": 332672,
-      "word": "普京做出向阿萨德提供庇护决定",
-      "onboard_time": 1733740821,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 199932,
       "num": 199932,
       "word": "刘诗诗窦骁掌心下证了",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1733725217,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198165,
+      "num": 260508,
+      "word": "水哥说自己没上过班",
+      "onboard_time": 1733750479,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 197999,
@@ -3097,14 +3129,6 @@
       "onboard_time": 1733668281,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193210,
-      "num": 193210,
-      "word": "以色列大举空袭叙利亚",
-      "onboard_time": 1733748620,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 193153,
@@ -4003,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155873,
+      "num": 385185,
+      "word": "网友隔河拍到疑电诈园区体罚现场",
+      "onboard_time": 1733749400,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155709,
       "num": 155709,
       "word": "90岁博士奶奶用猩猩语打招呼",
@@ -4020,7 +4052,7 @@
     },
     {
       "raw_hot": 154732,
-      "num": 154732,
+      "num": 265635,
       "word": "巴黎奥运阴阳中国健儿的袁某某被处理",
       "onboard_time": 1733739559,
       "rank": 47,
@@ -4076,7 +4108,7 @@
     },
     {
       "raw_hot": 153667,
-      "num": 153667,
+      "num": 171934,
       "word": "TES官宣Ben加入",
       "onboard_time": 1733742740,
       "rank": 42,
@@ -4089,6 +4121,14 @@
       "onboard_time": 1733638219,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152377,
+      "num": 152377,
+      "word": "当俄罗斯人看到俄罗斯商品馆",
+      "onboard_time": 1733749218,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152212,
@@ -4427,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136388,
+      "num": 136388,
+      "word": "石宇奇年度最佳男单",
+      "onboard_time": 1733749820,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136348,
       "num": 136348,
       "word": "曹璐带韩国爱豆看福宝vlog",
@@ -4627,6 +4675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125936,
+      "num": 125936,
+      "word": "凤凰组合年度最佳混双",
+      "onboard_time": 1733750720,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125698,
       "num": 125698,
       "word": "网传叙总理被反对派陪同离开家",
@@ -4635,12 +4691,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125666,
+      "num": 125666,
+      "word": "央视频直播放王一博的歌",
+      "onboard_time": 1733751140,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125251,
       "num": 487321,
       "word": "反政府武装称已进入大马士革",
       "onboard_time": 1733635940,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125246,
+      "num": 125246,
+      "word": "南方游客刚到漠河就让大家震惊了",
+      "onboard_time": 1733750660,
+      "rank": 46,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 125066,
@@ -4697,6 +4769,14 @@
       "onboard_time": 1733578160,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123050,
+      "num": 123050,
+      "word": "潘宏园区少爷乐乐",
+      "onboard_time": 1733750720,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 122951,
@@ -5299,14 +5379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83822,
-      "num": 386022,
-      "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
-      "onboard_time": 1733749040,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 83439,
       "num": 199038,
       "word": "一建成绩",
@@ -5611,14 +5683,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 60476,
-      "num": 385185,
-      "word": "网友隔河拍到疑电诈园区体罚现场",
-      "onboard_time": 1733749400,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60116,
       "num": 476557,
       "word": "虐猫学生曾伪装成爱猫者进入爱猫群",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1733657359,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49670,
+      "num": 312311,
+      "word": "专家称缩小收入差距主要是提低",
+      "onboard_time": 1733749400,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49191,
@@ -6083,6 +6155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33362,
+      "num": 273342,
+      "word": "确诊肺癌保险理赔遭拒法院判赔",
+      "onboard_time": 1733749700,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33266,
+      "num": 275477,
+      "word": "搜索400电话遇黑救援10升油花700元",
+      "onboard_time": 1733751140,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 32107,
       "num": 34006,
       "word": "姚晓峰 年度优秀导演",
@@ -6209,14 +6297,6 @@
       "onboard_time": 1733589439,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25605,
-      "num": 312311,
-      "word": "专家称缩小收入差距主要是提低",
-      "onboard_time": 1733749400,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25560,
@@ -6643,6 +6723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 7156,
+      "num": 257595,
+      "word": "期末周大学生有自己的名词解释",
+      "onboard_time": 1733751140,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 7011,
       "num": 23142,
       "word": "世界乒联恭喜中国香港队夺铜",
@@ -6657,6 +6745,14 @@
       "onboard_time": 1733692451,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6633,
+      "num": 277923,
+      "word": "九重紫前夫哥重生还是渣男",
+      "onboard_time": 1733745381,
+      "rank": 16,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
