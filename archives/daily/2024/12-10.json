@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733762879780,
+  "endTime": 1733764918279,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -49,6 +49,14 @@
       "onboard_time": 1733758579,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 414884,
+      "num": 414884,
+      "word": "从陕西被拐30岁麻省理工博士寻亲",
+      "onboard_time": 1733761038,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334555,
@@ -147,20 +155,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198743,
-      "num": 198743,
-      "word": "从陕西被拐30岁麻省理工博士寻亲",
-      "onboard_time": 1733761038,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182871,
       "num": 182871,
       "word": "九重紫",
       "onboard_time": 1733736019,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165409,
+      "num": 165409,
+      "word": "郑州一洗浴中心多人不适被送医",
+      "onboard_time": 1733759839,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160507,
@@ -251,12 +259,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 105137,
-      "num": 162877,
-      "word": "郑州一洗浴中心多人不适被送医",
-      "onboard_time": 1733759839,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 103325,
+      "num": 161314,
+      "word": "陈哲远 怕你们不专心跟我聊天",
+      "onboard_time": 1733761997,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 100878,
@@ -395,20 +403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 43767,
+      "num": 43767,
+      "word": "误杀3特别出演尹子维",
+      "onboard_time": 1733764454,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43602,
+      "num": 43602,
+      "word": "九重紫预告",
+      "onboard_time": 1733763675,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29810,
       "num": 702276,
       "word": "中国超级工程实力让远水解近渴",
       "onboard_time": 1733754380,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28479,
-      "num": 161314,
-      "word": "陈哲远 怕你们不专心跟我聊天",
-      "onboard_time": 1733761997,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 16182,
@@ -425,11 +441,30 @@
       "onboard_time": 1733761817,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10704,
+      "num": 101240,
+      "word": "麦蒂回复侯明昊",
+      "onboard_time": 1733764454,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7292,
+      "num": 84052,
+      "word": "萧逸初雪卡",
+      "onboard_time": 1733764214,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#中共中央召开党外人士座谈会#"
     }
   ]
 }
