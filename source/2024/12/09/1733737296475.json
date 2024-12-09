@@ -1,0 +1,410 @@
+{
+  "runTime": 1733737296475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2481538,
+        "num": 2481538,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1244506,
+        "num": 1244506,
+        "word": "孙颖莎ELLE封面预告",
+        "onboard_time": 1733735659,
+        "rank": 1,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 12660,
+        "num": 931166,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 920474,
+        "num": 920474,
+        "word": "爸妈旅个游却背了10年房贷",
+        "onboard_time": 1733731160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799250,
+        "num": 799250,
+        "word": "张柏芝杨紫徐艺洋活动生图",
+        "onboard_time": 1733732718,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 685679,
+        "num": 685679,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 742875,
+        "num": 677485,
+        "word": "郑燕姿回应韩安冉",
+        "onboard_time": 1733734038,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58597,
+        "num": 665926,
+        "word": "解读叙利亚国内四方主要势力",
+        "onboard_time": 1733736739,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 660931,
+        "num": 660931,
+        "word": "稳住楼市股市",
+        "onboard_time": 1733731700,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333110,
+        "num": 612321,
+        "word": "山西大学回应一留学生摸女生屁股",
+        "onboard_time": 1733733318,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073701,
+        "num": 608015,
+        "word": "碰一下支付莫名欠了1980元花呗",
+        "onboard_time": 1733733379,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588198,
+        "num": 588198,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 580112,
+        "num": 580112,
+        "word": "与精神病人发生性关系构成强奸罪吗",
+        "onboard_time": 1733731399,
+        "rank": 12,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 537780,
+        "num": 537780,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30407,
+        "num": 436718,
+        "word": "以军占领叙以停火缓冲区意味着什么",
+        "onboard_time": 1733737162,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401961,
+        "num": 401961,
+        "word": "民办大学倒闭潮要来了吗",
+        "onboard_time": 1733728818,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 351685,
+        "num": 351685,
+        "word": "我家那小子应到4人实到24人",
+        "onboard_time": 1733731278,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313810,
+        "num": 313810,
+        "word": "猎罪图鉴2追剧日历",
+        "onboard_time": 1733733920,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61756,
+        "num": 301141,
+        "word": "林诗栋告别成都混团",
+        "onboard_time": 1733737221,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69186,
+        "num": 294196,
+        "word": "六年内基本普及中小学人工智能教育",
+        "onboard_time": 1733735961,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290967,
+        "num": 290967,
+        "word": "徐艺洋开工",
+        "onboard_time": 1733729718,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289562,
+        "num": 289562,
+        "word": "那孟子义呢",
+        "onboard_time": 1733723479,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80434,
+        "num": 284272,
+        "word": "湖南卫视跨年20年了",
+        "onboard_time": 1733736321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283083,
+        "num": 283083,
+        "word": "专家分析叙利亚局势骤然升级原因",
+        "onboard_time": 1733720898,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104688,
+        "num": 282762,
+        "word": "ON辟谣世界赛玩沙威玛",
+        "onboard_time": 1733736739,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23016,
+        "num": 282524,
+        "word": "郑燕姿说韩安然一点都没有做错",
+        "onboard_time": 1733737040,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 282515,
+        "num": 282515,
+        "word": "为什么说冬天衣服不要穿太紧",
+        "onboard_time": 1733727918,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 277598,
+        "num": 277598,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271500,
+        "num": 271500,
+        "word": "孟子义回应收拾收拾升咖",
+        "onboard_time": 1733735483,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96123,
+        "num": 271396,
+        "word": "孙颖莎ELLE2025开年刊封面预告",
+        "onboard_time": 1733737101,
+        "rank": 29,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 94122,
+        "num": 271323,
+        "word": "河北邢台回应低价宠物粮乱象",
+        "onboard_time": 1733735300,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 271322,
+        "num": 271322,
+        "word": "周润发1.95亿港元出售香港山顶别墅",
+        "onboard_time": 1733734880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267123,
+        "num": 267123,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20647,
+        "num": 255014,
+        "word": "陈紫函戴向宇婚礼八周年",
+        "onboard_time": 1733737162,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243134,
+        "num": 243134,
+        "word": "虞书欣双轨造型团队",
+        "onboard_time": 1733732541,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241659,
+        "num": 241659,
+        "word": "分析研究2025年经济工作",
+        "onboard_time": 1733730200,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60814,
+        "num": 232233,
+        "word": "医院周边5元停车费被黄牛卖到15元",
+        "onboard_time": 1733735300,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 222843,
+        "num": 222843,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182577,
+        "num": 182577,
+        "word": "不给救护车让路私家车车主被拘",
+        "onboard_time": 1733726178,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180413,
+        "num": 180413,
+        "word": "花70万上港大刚上了1年被清退",
+        "onboard_time": 1733726419,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179615,
+        "num": 179615,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174062,
+        "num": 174062,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171645,
+        "num": 171645,
+        "word": "易烊千玺身材",
+        "onboard_time": 1733725699,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116422,
+        "num": 171172,
+        "word": "醋莓萱萱",
+        "onboard_time": 1733735179,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171084,
+        "num": 171084,
+        "word": "李雪琴问13个人为啥叫seventeen",
+        "onboard_time": 1733737101,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249829,
+        "num": 169309,
+        "word": "杨紫贵气千金",
+        "onboard_time": 1733729898,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 162904,
+        "num": 162904,
+        "word": "15岁Kimi近照",
+        "onboard_time": 1733710877,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162596,
+        "num": 162596,
+        "word": "疑似唐艺昕怀二胎",
+        "onboard_time": 1733713818,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157020,
+        "num": 157020,
+        "word": "苏州工业园区学校实行作业熔断机制",
+        "onboard_time": 1733736140,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153474,
+        "num": 153474,
+        "word": "池忆",
+        "onboard_time": 1733734521,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
