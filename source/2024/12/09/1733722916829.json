@@ -1,0 +1,410 @@
+{
+  "runTime": 1733722916829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492242,
+        "num": 1492242,
+        "word": "刘阳老师辞职",
+        "onboard_time": 1733713938,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 683758,
+        "num": 683758,
+        "word": "年轻人一年发送了5760000次的接",
+        "onboard_time": 1733717600,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44221,
+        "num": 613735,
+        "word": "人民日报中国经济年度观察",
+        "onboard_time": 1733719761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1064479,
+        "num": 613712,
+        "word": "15岁Kimi近照",
+        "onboard_time": 1733710877,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611490,
+        "num": 611490,
+        "word": "悍匪周克华情人张某英已出狱",
+        "onboard_time": 1733719040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1426826,
+        "num": 595495,
+        "word": "走失女硕士收留者侄女回应质疑",
+        "onboard_time": 1733719941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578235,
+        "num": 578235,
+        "word": "男子欠5个月房租反称房东太无情",
+        "onboard_time": 1733718922,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512523,
+        "num": 512523,
+        "word": "唐艺昕否认二胎",
+        "onboard_time": 1733716759,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288810,
+        "num": 498007,
+        "word": "收留还是拐卖公众定会等到真相",
+        "onboard_time": 1733720481,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 492542,
+        "num": 492542,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 641426,
+        "num": 475734,
+        "word": "疑似唐艺昕怀二胎",
+        "onboard_time": 1733713818,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449638,
+        "num": 449638,
+        "word": "上海偶遇郑恺苗苗一家",
+        "onboard_time": 1733719161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373627,
+        "num": 373627,
+        "word": "9部门明确认定家暴证据标准",
+        "onboard_time": 1733713099,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69273,
+        "num": 370818,
+        "word": "医院通报女子做彩超时陌生男闯入",
+        "onboard_time": 1733722100,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 369997,
+        "num": 369997,
+        "word": "12306回应母女霸座还持刀威胁乘警",
+        "onboard_time": 1733714660,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288255,
+        "num": 302862,
+        "word": "周雨彤发小小的我定档海报",
+        "onboard_time": 1733714180,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298097,
+        "num": 298097,
+        "word": "17岁男孩被诱骗至缅甸屡遭毒打",
+        "onboard_time": 1733719881,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274967,
+        "num": 288461,
+        "word": "终于有剧把三纲五常正解了",
+        "onboard_time": 1733720779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287716,
+        "num": 287716,
+        "word": "蔡国强呼吁无人机不要带回家",
+        "onboard_time": 1733704939,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212168,
+        "num": 277734,
+        "word": "JYP回应虐待美国女团成员KG",
+        "onboard_time": 1733719701,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291345,
+        "num": 276634,
+        "word": "你以为很干净但实际很脏的东西",
+        "onboard_time": 1733714539,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515366,
+        "num": 275989,
+        "word": "医院通报女子裸露做检查遭异性闯入",
+        "onboard_time": 1733721260,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 275141,
+        "num": 275141,
+        "word": "谢可寅想和虞书欣周也合租",
+        "onboard_time": 1733717659,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260275,
+        "num": 260275,
+        "word": "毛雪汪官宣徐明浩",
+        "onboard_time": 1733722218,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54683,
+        "num": 236532,
+        "word": "勇士复仇森林狼",
+        "onboard_time": 1733718621,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226538,
+        "num": 226538,
+        "word": "孟子义李昀锐扫楼",
+        "onboard_time": 1733716639,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113396,
+        "num": 225449,
+        "word": "专家分析叙利亚局势骤然升级原因",
+        "onboard_time": 1733720898,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144435,
+        "num": 223225,
+        "word": "警方通报私家车不给救护车让路",
+        "onboard_time": 1733722760,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135605,
+        "num": 222593,
+        "word": "为了科研他们2天狂吃200斤小龙虾",
+        "onboard_time": 1733722880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192240,
+        "num": 220120,
+        "word": "疑似群演吐槽双轨剧组",
+        "onboard_time": 1733721858,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219840,
+        "num": 219840,
+        "word": "祝绪丹仙鹤神女",
+        "onboard_time": 1733717841,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217154,
+        "num": 217154,
+        "word": "小小的我定档",
+        "onboard_time": 1733709858,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202831,
+        "num": 202831,
+        "word": "孙颖莎告别成都混团",
+        "onboard_time": 1733717899,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201233,
+        "num": 201233,
+        "word": "琼瑶儿媳涉版权相关声明",
+        "onboard_time": 1733716338,
+        "rank": 33,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 199932,
+        "num": 199932,
+        "word": "刘诗诗窦骁掌心下证了",
+        "onboard_time": 1733722580,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25032,
+        "num": 198396,
+        "word": "高空杂技演员的安全绳在哪里",
+        "onboard_time": 1733720898,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197685,
+        "num": 197685,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194342,
+        "num": 194342,
+        "word": "香港中产家庭80平米的精致小家",
+        "onboard_time": 1733720001,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193557,
+        "num": 193557,
+        "word": "向佐今晚找晓华理发",
+        "onboard_time": 1733714539,
+        "rank": 38,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 174150,
+        "num": 174150,
+        "word": "孙颖莎在小学生面前没打到乒乓球",
+        "onboard_time": 1733722400,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173340,
+        "num": 173340,
+        "word": "普通家庭没必要进行苦难教育",
+        "onboard_time": 1733708478,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168824,
+        "num": 168824,
+        "word": "南京大屠杀铁证碇泊场照片首次曝光",
+        "onboard_time": 1733709978,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163058,
+        "num": 163058,
+        "word": "原来被子颜色会影响人的睡眠",
+        "onboard_time": 1733721980,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157453,
+        "num": 157453,
+        "word": "虞书欣工作室",
+        "onboard_time": 1733715380,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30574,
+        "num": 154155,
+        "word": "白鹿同款好运汤圆",
+        "onboard_time": 1733722699,
+        "rank": 44,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 153886,
+        "num": 153886,
+        "word": "王楚钦被川剧变脸吓到",
+        "onboard_time": 1733717301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149338,
+        "num": 149338,
+        "word": "TFBOYS转发易烊千玺电影",
+        "onboard_time": 1733718380,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143292,
+        "num": 143292,
+        "word": "阿萨德及家人抵达俄罗斯",
+        "onboard_time": 1733703559,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78976,
+        "num": 143239,
+        "word": "美多所高校建议留学生尽快返校",
+        "onboard_time": 1733720898,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143234,
+        "num": 143234,
+        "word": "胖子瘦不下来的原因找到了",
+        "onboard_time": 1733722880,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民城市温情中国#"
+    }
+  }
+}
