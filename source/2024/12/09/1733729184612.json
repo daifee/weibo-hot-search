@@ -1,0 +1,410 @@
+{
+  "runTime": 1733729184612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1011226,
+        "num": 1161796,
+        "word": "刘阳老师辞职",
+        "onboard_time": 1733713938,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 967154,
+        "num": 967154,
+        "word": "那孟子义呢",
+        "onboard_time": 1733723479,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43045,
+        "num": 958340,
+        "word": "人民日报中国经济年度观察",
+        "onboard_time": 1733719761,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958090,
+        "num": 958090,
+        "word": "花70万上港大刚上了1年被清退",
+        "onboard_time": 1733726419,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 865644,
+        "num": 865644,
+        "word": "易烊千玺身材",
+        "onboard_time": 1733725699,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 861936,
+        "num": 861936,
+        "word": "警方通报私家车不给救护车让路",
+        "onboard_time": 1733722760,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 707489,
+        "num": 707489,
+        "word": "15岁Kimi近照",
+        "onboard_time": 1733710877,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683733,
+        "num": 683733,
+        "word": "叙利亚总统阿萨德辞职",
+        "onboard_time": 1733661201,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 679729,
+        "num": 679729,
+        "word": "年轻人一年发送了5760000次的接",
+        "onboard_time": 1733717600,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149604,
+        "num": 679142,
+        "word": "女硕士失踪十余年并育有一对儿女",
+        "onboard_time": 1733728340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470922,
+        "num": 678601,
+        "word": "宋浩然回应韩安冉对网友发火",
+        "onboard_time": 1733723778,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393493,
+        "num": 678471,
+        "word": "韩安冉 韩亿",
+        "onboard_time": 1733727319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48366,
+        "num": 677442,
+        "word": "揭秘刘阳老师曾任职的斯尔教育",
+        "onboard_time": 1733728277,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 239796,
+        "num": 676878,
+        "word": "尹锡悦被禁止出境",
+        "onboard_time": 1733727437,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67678,
+        "num": 676342,
+        "word": "目击者还原母女霸座持刀威胁民警",
+        "onboard_time": 1733727978,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21841,
+        "num": 676028,
+        "word": "遇人不熟愿者上船大片",
+        "onboard_time": 1733721619,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209621,
+        "num": 675097,
+        "word": "一件好的羽绒服应该怎么选",
+        "onboard_time": 1733724139,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292684,
+        "num": 674405,
+        "word": "我家那小子",
+        "onboard_time": 1733723539,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13175,
+        "num": 673937,
+        "word": "民办大学倒闭潮要来了吗",
+        "onboard_time": 1733728818,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 135534,
+        "num": 673163,
+        "word": "当地再回应女硕士走失13年已有儿女",
+        "onboard_time": 1733728038,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673028,
+        "num": 673028,
+        "word": "不给救护车让路私家车车主被拘",
+        "onboard_time": 1733726178,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581379,
+        "num": 581379,
+        "word": "妇联介入调查女硕士失踪被找回案",
+        "onboard_time": 1733725880,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484967,
+        "num": 484967,
+        "word": "疑似唐艺昕怀二胎",
+        "onboard_time": 1733713818,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419865,
+        "num": 419865,
+        "word": "叙利亚",
+        "onboard_time": 1733703920,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197999,
+        "num": 418792,
+        "word": "什么球啊把孙颖莎逗得哈哈笑",
+        "onboard_time": 1733726839,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264051,
+        "num": 412805,
+        "word": "孟子义李昀锐纯正姐狗味",
+        "onboard_time": 1733725101,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246998,
+        "num": 402377,
+        "word": "我是刑警大盘有救了",
+        "onboard_time": 1733727678,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 398672,
+        "word": "双非考研报985学校的感觉",
+        "onboard_time": 1733728639,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54632,
+        "num": 390245,
+        "word": "志愿者称走失女硕士严重营养不良",
+        "onboard_time": 1733728398,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21699,
+        "num": 386390,
+        "word": "辛巴徒弟蛋蛋现身山西助农",
+        "onboard_time": 1733726839,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268249,
+        "num": 381084,
+        "word": "终于有剧把三纲五常正解了",
+        "onboard_time": 1733720779,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376250,
+        "num": 376250,
+        "word": "17岁男孩被诱骗至缅甸屡遭毒打",
+        "onboard_time": 1733719881,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250135,
+        "num": 250135,
+        "word": "男子倒卖游戏账号牵出3000万大案",
+        "onboard_time": 1733726300,
+        "rank": 32,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 623833,
+        "num": 249300,
+        "word": "收留还是拐卖公众定会等到真相",
+        "onboard_time": 1733720481,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248185,
+        "num": 248185,
+        "word": "为什么说冬天衣服不要穿太紧",
+        "onboard_time": 1733727918,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 242865,
+        "num": 242865,
+        "word": "蔡国强回应烟花秀无人机坠海",
+        "onboard_time": 1733725158,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 235768,
+        "num": 235768,
+        "word": "男孩被困缅甸全村凑钱送父母出国接人",
+        "onboard_time": 1733726778,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226047,
+        "num": 226047,
+        "word": "原来被子颜色会影响人的睡眠",
+        "onboard_time": 1733721980,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211179,
+        "num": 211179,
+        "word": "为了科研他们2天狂吃200斤小龙虾",
+        "onboard_time": 1733722880,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 195365,
+        "word": "9部门明确认定家暴证据标准",
+        "onboard_time": 1733713099,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191064,
+        "num": 191064,
+        "word": "周克华",
+        "onboard_time": 1733725217,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188859,
+        "num": 188859,
+        "word": "大马士革国际机场所有航班已暂停",
+        "onboard_time": 1733627662,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188634,
+        "num": 188634,
+        "word": "胖子瘦不下来的原因找到了",
+        "onboard_time": 1733722880,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180894,
+        "num": 180894,
+        "word": "悍匪周克华情人张某英已出狱",
+        "onboard_time": 1733719040,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158795,
+        "num": 158795,
+        "word": "伊朗就叙利亚局势表明态度",
+        "onboard_time": 1733718141,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157787,
+        "num": 157787,
+        "word": "98年员工抗议额外增加工作后遭辞退",
+        "onboard_time": 1733723960,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143505,
+        "num": 143505,
+        "word": "你以为很干净但实际很脏的东西",
+        "onboard_time": 1733714539,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51400,
+        "num": 141681,
+        "word": "现在1块钱还能买到什么",
+        "onboard_time": 1733724318,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140711,
+        "num": 140711,
+        "word": "孔雪儿扫楼状态",
+        "onboard_time": 1733721858,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133054,
+        "num": 133054,
+        "word": "乒超深圳大学代表队阵容",
+        "onboard_time": 1733728998,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民城市温情中国#"
+    }
+  }
+}
