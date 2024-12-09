@@ -1,0 +1,402 @@
+{
+  "runTime": 1733748573196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3417617,
+        "num": 3417617,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1725501,
+        "num": 1725501,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 830921,
+        "num": 830921,
+        "word": "向佐找晓华剪发",
+        "onboard_time": 1733745739,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543693,
+        "num": 543693,
+        "word": "英伟达",
+        "onboard_time": 1733745019,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 493456,
+        "num": 493456,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435467,
+        "num": 435467,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398672,
+        "num": 398672,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380413,
+        "num": 380413,
+        "word": "本科专业大洗牌意味着什么",
+        "onboard_time": 1733742380,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284183,
+        "num": 284183,
+        "word": "范丞丞说GD是神",
+        "onboard_time": 1733744239,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1191813,
+        "num": 284066,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511255,
+        "num": 283338,
+        "word": "张若昀为扔烟头道歉",
+        "onboard_time": 1733740879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302560,
+        "num": 283030,
+        "word": "男子嚼槟榔20年变割脸人",
+        "onboard_time": 1733741900,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282243,
+        "num": 282243,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276150,
+        "num": 276150,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276081,
+        "num": 276081,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274148,
+        "num": 274148,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127396,
+        "num": 264170,
+        "word": "我是刑警叹为观止的测谎逻辑",
+        "onboard_time": 1733747359,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257048,
+        "num": 257048,
+        "word": "范丞丞屏保是沈腾",
+        "onboard_time": 1733744061,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27262,
+        "num": 247169,
+        "word": "以奋斗为名的猝死险赔偿有多难拿",
+        "onboard_time": 1733747839,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272616,
+        "num": 246917,
+        "word": "小米YU7预计明年六七月上市",
+        "onboard_time": 1733747179,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 988742,
+        "num": 246011,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238137,
+        "num": 238137,
+        "word": "九重紫11集",
+        "onboard_time": 1733745559,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234943,
+        "num": 234943,
+        "word": "王昶金丝边眼镜造型",
+        "onboard_time": 1733747419,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223675,
+        "num": 223675,
+        "word": "女子怀疑被偷拍男子称如没有砸你手机",
+        "onboard_time": 1733743280,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207180,
+        "num": 207180,
+        "word": "陈好今天是被宠爱的一天",
+        "onboard_time": 1733746579,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200034,
+        "num": 200034,
+        "word": "普京做出向阿萨德提供庇护决定",
+        "onboard_time": 1733740821,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193536,
+        "num": 193536,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172282,
+        "num": 172282,
+        "word": "爸妈旅个游却背了10年房贷",
+        "onboard_time": 1733731160,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87071,
+        "num": 171243,
+        "word": "王曼昱混团赛后发文",
+        "onboard_time": 1733739201,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171221,
+        "num": 171221,
+        "word": "李雪琴问13个人为啥叫seventeen",
+        "onboard_time": 1733737101,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158779,
+        "num": 158779,
+        "word": "英伟达公司被查",
+        "onboard_time": 1733747779,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149672,
+        "num": 149672,
+        "word": "洗浴中心多人出现不适晕倒送医",
+        "onboard_time": 1733747721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145530,
+        "num": 145530,
+        "word": "稳住楼市股市",
+        "onboard_time": 1733731700,
+        "rank": 33,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 144210,
+        "num": 144210,
+        "word": "一个25岁女生的微信",
+        "onboard_time": 1733748499,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 138988,
+        "word": "九重紫男主配音",
+        "onboard_time": 1733743942,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138425,
+        "num": 138425,
+        "word": "Elk说不是我BLG止步十六强",
+        "onboard_time": 1733742560,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135142,
+        "num": 135142,
+        "word": "我是刑警",
+        "onboard_time": 1733746339,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132377,
+        "num": 132377,
+        "word": "大三外籍留学生猥亵女生被拘",
+        "onboard_time": 1733744479,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126966,
+        "num": 126966,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 39,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 122434,
+        "num": 122434,
+        "word": "张若昀随地乱丢烟头",
+        "onboard_time": 1733738001,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115426,
+        "num": 115426,
+        "word": "周润发1.95亿港元出售香港山顶别墅",
+        "onboard_time": 1733734880,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112033,
+        "num": 112033,
+        "word": "张柏芝杨紫同框合照",
+        "onboard_time": 1733745260,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110919,
+        "num": 110919,
+        "word": "王源重庆路演偶遇爷爷奶奶",
+        "onboard_time": 1733745921,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110918,
+        "num": 110918,
+        "word": "郑燕姿回应韩安冉",
+        "onboard_time": 1733734038,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109104,
+        "num": 109104,
+        "word": "TES官宣Ggoong加入",
+        "onboard_time": 1733747779,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103141,
+        "num": 103141,
+        "word": "泰国女星遭遇威胁式诈骗400万",
+        "onboard_time": 1733747058,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101760,
+        "num": 101760,
+        "word": "孟子义训狗",
+        "onboard_time": 1733743401,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100670,
+        "num": 100670,
+        "word": "刘春和拿到驾照了",
+        "onboard_time": 1733748438,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98758,
+        "num": 98758,
+        "word": "2024爱奇艺尖叫之夜微博战报",
+        "onboard_time": 1733744300,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

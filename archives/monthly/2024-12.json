@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733744169971,
+  "endTime": 1733748573196,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -161,6 +161,14 @@
       "onboard_time": 1733297736,
       "rank": 5,
       "category": "舆论监督,网红"
+    },
+    {
+      "raw_hot": 3417617,
+      "num": 3417617,
+      "word": "小米YU7",
+      "onboard_time": 1733747179,
+      "rank": 0,
+      "category": "汽车"
     },
     {
       "raw_hot": 3251986,
@@ -561,6 +569,14 @@
       "onboard_time": 1733622139,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1725501,
+      "num": 1725501,
+      "word": "涉嫌违反反垄断法英伟达被立案调查",
+      "onboard_time": 1733744840,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 1712298,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1733193198,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1191813,
+      "num": 284066,
+      "word": "陈晓没去参加陈妍希父亲葬礼",
+      "onboard_time": 1733743280,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1187551,
@@ -2593,6 +2617,14 @@
       "onboard_time": 1733246176,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 830921,
+      "num": 830921,
+      "word": "向佐找晓华剪发",
+      "onboard_time": 1733745739,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 830883,
@@ -4612,7 +4644,7 @@
     },
     {
       "raw_hot": 547404,
-      "num": 271815,
+      "num": 283338,
       "word": "张若昀为扔烟头道歉",
       "onboard_time": 1733740879,
       "rank": 39,
@@ -4673,6 +4705,14 @@
       "onboard_time": 1733450659,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 543693,
+      "num": 543693,
+      "word": "英伟达",
+      "onboard_time": 1733745019,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 542852,
@@ -7171,6 +7211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380413,
+      "num": 380413,
+      "word": "本科专业大洗牌意味着什么",
+      "onboard_time": 1733742380,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 380199,
       "num": 274618,
       "word": "微信状态你是不是搞得太暧昧了",
@@ -8396,7 +8444,7 @@
     },
     {
       "raw_hot": 320818,
-      "num": 265065,
+      "num": 283030,
       "word": "男子嚼槟榔20年变割脸人",
       "onboard_time": 1733741900,
       "rank": 18,
@@ -8569,14 +8617,6 @@
       "onboard_time": 1733717841,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313983,
-      "num": 240421,
-      "word": "陈晓没去参加陈妍希父亲葬礼",
-      "onboard_time": 1733743280,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 313691,
@@ -9323,6 +9363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284183,
+      "num": 284183,
+      "word": "范丞丞说GD是神",
+      "onboard_time": 1733744239,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283870,
       "num": 283870,
       "word": "沈腾王安宇情头",
@@ -9641,6 +9689,14 @@
       "onboard_time": 1733575221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272616,
+      "num": 246917,
+      "word": "小米YU7预计明年六七月上市",
+      "onboard_time": 1733747179,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 271981,
@@ -10043,6 +10099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257048,
+      "num": 257048,
+      "word": "范丞丞屏保是沈腾",
+      "onboard_time": 1733744061,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257016,
       "num": 340345,
       "word": "研究证明有饥饿感会启动长寿基因",
@@ -10289,14 +10353,6 @@
       "onboard_time": 1733737162,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250283,
-      "num": 250283,
-      "word": "本科专业大洗牌意味着什么",
-      "onboard_time": 1733742380,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 250151,
@@ -10803,6 +10859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238137,
+      "num": 238137,
+      "word": "九重紫11集",
+      "onboard_time": 1733745559,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237903,
       "num": 247039,
       "word": "阴阳师 老铁崩不住了",
@@ -10896,6 +10960,14 @@
       "word": "争议球全过程",
       "onboard_time": 1733662701,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234943,
+      "num": 234943,
+      "word": "王昶金丝边眼镜造型",
+      "onboard_time": 1733747419,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -11505,6 +11577,14 @@
       "onboard_time": 1733148982,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 223675,
+      "num": 223675,
+      "word": "女子怀疑被偷拍男子称如没有砸你手机",
+      "onboard_time": 1733743280,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223658,
@@ -12355,6 +12435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207180,
+      "num": 207180,
+      "word": "陈好今天是被宠爱的一天",
+      "onboard_time": 1733746579,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207125,
       "num": 207125,
       "word": "现在拨打的电话本周停播",
@@ -13001,6 +13089,14 @@
       "onboard_time": 1733575882,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200034,
+      "num": 332672,
+      "word": "普京做出向阿萨德提供庇护决定",
+      "onboard_time": 1733740821,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199941,
@@ -14137,14 +14233,6 @@
       "onboard_time": 1733575462,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189673,
-      "num": 332672,
-      "word": "普京做出向阿萨德提供庇护决定",
-      "onboard_time": 1733740821,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189492,
@@ -17139,6 +17227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158779,
+      "num": 158779,
+      "word": "英伟达公司被查",
+      "onboard_time": 1733747779,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158769,
       "num": 158769,
       "word": "赵一博晒报喜斑粉蝶",
@@ -18259,6 +18355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149672,
+      "num": 149672,
+      "word": "洗浴中心多人出现不适晕倒送医",
+      "onboard_time": 1733747721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149581,
       "num": 212722,
       "word": "潘展乐的奥运金牌已被博物馆收藏",
@@ -18747,14 +18851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144986,
-      "num": 144986,
-      "word": "女子怀疑被偷拍男子称如没有砸你手机",
-      "onboard_time": 1733743280,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144944,
       "num": 144944,
       "word": "单霁翔70岁正是奋斗的年纪",
@@ -18832,6 +18928,14 @@
       "word": "给大家看看过午不食的杀伤力",
       "onboard_time": 1733716221,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 144210,
+      "num": 144210,
+      "word": "一个25岁女生的微信",
+      "onboard_time": 1733748499,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -19371,6 +19475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 138988,
+      "num": 138988,
+      "word": "九重紫男主配音",
+      "onboard_time": 1733743942,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138854,
       "num": 138854,
       "word": "贺峻霖玉龙雪山吸氧",
@@ -19907,14 +20019,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 134371,
-      "num": 134371,
-      "word": "九重紫男主配音",
-      "onboard_time": 1733743942,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "台媒报道琼瑶轻生",
@@ -20105,6 +20209,14 @@
       "onboard_time": 1733537898,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132377,
+      "num": 132377,
+      "word": "大三外籍留学生猥亵女生被拘",
+      "onboard_time": 1733744479,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132139,
@@ -20499,6 +20611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127396,
+      "num": 264170,
+      "word": "我是刑警叹为观止的测谎逻辑",
+      "onboard_time": 1733747359,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127377,
       "num": 97381,
       "word": "鹭卓许愿油渍不再溅到白色套装",
@@ -20713,14 +20833,6 @@
       "onboard_time": 1733097376,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125269,
-      "num": 125269,
-      "word": "范丞丞屏保是沈腾",
-      "onboard_time": 1733744061,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 125251,
@@ -22019,6 +22131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112033,
+      "num": 112033,
+      "word": "张柏芝杨紫同框合照",
+      "onboard_time": 1733745260,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111738,
       "num": 111738,
       "word": "我是刑警收视率11天TOP1",
@@ -22097,6 +22217,14 @@
       "onboard_time": 1733615717,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110919,
+      "num": 110919,
+      "word": "王源重庆路演偶遇爷爷奶奶",
+      "onboard_time": 1733745921,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 110849,
@@ -22209,6 +22337,14 @@
       "onboard_time": 1733015837,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 109104,
+      "num": 109104,
+      "word": "TES官宣Ggoong加入",
+      "onboard_time": 1733747779,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 109053,
@@ -22739,6 +22875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103141,
+      "num": 103141,
+      "word": "泰国女星遭遇威胁式诈骗400万",
+      "onboard_time": 1733747058,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103093,
       "num": 103093,
       "word": "黄仁勋被曝避税80亿美元",
@@ -22809,6 +22953,14 @@
       "onboard_time": 1733065459,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101760,
+      "num": 243501,
+      "word": "孟子义训狗",
+      "onboard_time": 1733743401,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 101565,
@@ -22889,6 +23041,14 @@
       "onboard_time": 1733185759,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100670,
+      "num": 100670,
+      "word": "刘春和拿到驾照了",
+      "onboard_time": 1733748438,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 100644,
@@ -23081,6 +23241,14 @@
       "onboard_time": 1733536339,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "2024爱奇艺尖叫之夜微博战报",
+      "onboard_time": 1733744300,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98550,
@@ -25105,14 +25273,6 @@
       "onboard_time": 1733264232,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70625,
-      "num": 243501,
-      "word": "孟子义训狗",
-      "onboard_time": 1733743401,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 70510,
@@ -29593,6 +29753,14 @@
       "onboard_time": 1733250133,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27262,
+      "num": 247169,
+      "word": "以奋斗为名的猝死险赔偿有多难拿",
+      "onboard_time": 1733747839,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27260,
