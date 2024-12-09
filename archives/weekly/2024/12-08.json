@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733751906387,
+  "endTime": 1733754219644,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1584124,
+      "num": 448056,
+      "word": "陈晓没去参加陈妍希父亲葬礼",
+      "onboard_time": 1733743280,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1582184,
       "num": 620087,
       "word": "夫妻吵架半岁女儿从父亲手中滑落坠亡",
@@ -176,14 +184,6 @@
       "word": "向佐找晓华剪发",
       "onboard_time": 1733745739,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1476274,
-      "num": 385178,
-      "word": "陈晓没去参加陈妍希父亲葬礼",
-      "onboard_time": 1733743280,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1087137,
+      "num": 1087137,
+      "word": "陈晓杭州出发",
+      "onboard_time": 1733754141,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1079435,
       "num": 1172709,
       "word": "多邻国裂了",
@@ -488,6 +496,14 @@
       "word": "鹿晗黄子韬直播",
       "onboard_time": 1733699476,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 927216,
+      "num": 927216,
+      "word": "范丞丞 看看我还要澄清什么",
+      "onboard_time": 1733750058,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -819,12 +835,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 719371,
-      "num": 719371,
-      "word": "范丞丞 看看我还要澄清什么",
-      "onboard_time": 1733750058,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 718988,
+      "num": 546162,
+      "word": "组建叙利亚过渡政府",
+      "onboard_time": 1733751321,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 718720,
@@ -1116,7 +1132,7 @@
     },
     {
       "raw_hot": 548192,
-      "num": 284796,
+      "num": 378451,
       "word": "一个25岁女生的微信",
       "onboard_time": 1733748499,
       "rank": 34,
@@ -1251,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 509963,
-      "num": 340707,
-      "word": "组建叙利亚过渡政府",
-      "onboard_time": 1733751321,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 508632,
       "num": 508632,
       "word": "大马士革响起密集枪声",
@@ -1339,12 +1347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487704,
+      "num": 487704,
+      "word": "新鲜的杨幂",
+      "onboard_time": 1733751321,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487236,
       "num": 487236,
       "word": "尹锡悦被立案调查",
       "onboard_time": 1733634140,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 484301,
+      "num": 484301,
+      "word": "小米YU7预计明年六七月上市",
+      "onboard_time": 1733747179,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 480945,
@@ -1539,6 +1563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 416137,
+      "num": 416137,
+      "word": "她是12306背后的最强大脑",
+      "onboard_time": 1733751680,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1733663120,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376239,
+      "num": 376239,
+      "word": "梁王组合获年度最佳男子双打组合",
+      "onboard_time": 1733749459,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 376212,
@@ -1923,6 +1963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 316208,
+      "num": 419481,
+      "word": "晓华说向佐像大哥哥一样",
+      "onboard_time": 1733751741,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315299,
       "num": 315299,
       "word": "中国古人21根竹简计算器能算乘方开方",
@@ -2056,6 +2104,14 @@
       "word": "我是刑警大盘有救了",
       "onboard_time": 1733727678,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 299181,
+      "num": 381369,
+      "word": "李昀锐 今年爱上的最后一个男人",
+      "onboard_time": 1733753541,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -2217,14 +2273,6 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272616,
-      "num": 340832,
-      "word": "小米YU7预计明年六七月上市",
-      "onboard_time": 1733747179,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 271500,
@@ -2441,6 +2489,14 @@
       "onboard_time": 1733737162,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250084,
+      "num": 250084,
+      "word": "南方游客刚到漠河就让大家震惊了",
+      "onboard_time": 1733750660,
+      "rank": 46,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 249102,
@@ -2707,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223907,
+      "num": 260508,
+      "word": "水哥说自己没上过班",
+      "onboard_time": 1733750479,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223675,
       "num": 223675,
       "word": "女子怀疑被偷拍男子称如没有砸你手机",
@@ -2745,6 +2809,14 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216823,
+      "num": 216823,
+      "word": "小米SUV价格",
+      "onboard_time": 1733753359,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 215598,
@@ -2849,14 +2921,6 @@
       "onboard_time": 1733733438,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205225,
-      "num": 205225,
-      "word": "新鲜的杨幂",
-      "onboard_time": 1733751321,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 205171,
@@ -3011,14 +3075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198165,
-      "num": 260508,
-      "word": "水哥说自己没上过班",
-      "onboard_time": 1733750479,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197999,
       "num": 418792,
       "word": "什么球啊把孙颖莎逗得哈哈笑",
@@ -3057,6 +3113,14 @@
       "onboard_time": 1733653279,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196454,
+      "num": 196454,
+      "word": "邓为工作室",
+      "onboard_time": 1733753780,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 195507,
@@ -3249,14 +3313,6 @@
       "onboard_time": 1733614274,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190782,
-      "num": 190782,
-      "word": "南方游客刚到漠河就让大家震惊了",
-      "onboard_time": 1733750660,
-      "rank": 46,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 190507,
@@ -3707,6 +3763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171077,
+      "num": 171077,
+      "word": "李昀锐的四张表情包",
+      "onboard_time": 1733752879,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170980,
       "num": 263928,
       "word": "九重紫重生逆袭局",
@@ -3857,6 +3921,14 @@
       "onboard_time": 1733735901,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164747,
+      "num": 164747,
+      "word": "粉笔四六级崩了",
+      "onboard_time": 1733752820,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 164715,
@@ -4089,6 +4161,14 @@
       "onboard_time": 1733620398,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155657,
+      "num": 155657,
+      "word": "小米YU7怎么读",
+      "onboard_time": 1733752399,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 155046,
@@ -4667,14 +4747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130608,
-      "num": 130608,
-      "word": "她是12306背后的最强大脑",
-      "onboard_time": 1733751680,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 130283,
       "num": 130283,
       "word": "叙利亚局势为何反转这么快",
@@ -4795,6 +4867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124526,
+      "num": 124526,
+      "word": "雷军回应小米YU7为什么早公示",
+      "onboard_time": 1733753959,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124247,
       "num": 1240338,
       "word": "中国春节的N种打开方式",
@@ -4857,14 +4937,6 @@
       "onboard_time": 1733672238,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118685,
-      "num": 276414,
-      "word": "晓华说向佐像大哥哥一样",
-      "onboard_time": 1733751741,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 118197,
@@ -5161,14 +5233,6 @@
       "onboard_time": 1733749459,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99740,
-      "num": 99740,
-      "word": "梁王组合获年度最佳男子双打组合",
-      "onboard_time": 1733749459,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 99029,
@@ -5563,6 +5627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76065,
+      "num": 454007,
+      "word": "普京暂无正式会见阿萨德计划",
+      "onboard_time": 1733753179,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75120,
       "num": 732994,
       "word": "大马士革将实施宵禁",
@@ -5681,6 +5753,14 @@
       "onboard_time": 1733640679,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67169,
+      "num": 426625,
+      "word": "网传2024车检为史上最严系谣言",
+      "onboard_time": 1733752941,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 66969,
@@ -5825,6 +5905,14 @@
       "onboard_time": 1733595674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54207,
+      "num": 282439,
+      "word": "这一刻国乒团魂具象化了",
+      "onboard_time": 1733750539,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 54148,
@@ -6071,6 +6159,14 @@
       "num": 329743,
       "word": "武汉农商银行8万股1元起拍",
       "onboard_time": 1733739682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39676,
+      "num": 378497,
+      "word": "业主称小区监控时刻对着自家客厅",
+      "onboard_time": 1733753720,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -6564,7 +6660,7 @@
     },
     {
       "raw_hot": 17386,
-      "num": 931166,
+      "num": 952882,
       "word": "文化中国行看简牍里的中国人智慧",
       "onboard_time": 1733689511,
       "rank": 15,
@@ -6840,6 +6936,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#中共中央召开党外人士座谈会#"
     }
   ]
 }

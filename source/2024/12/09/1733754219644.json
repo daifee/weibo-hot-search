@@ -1,0 +1,410 @@
+{
+  "runTime": 1733754219644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775853,
+        "num": 1775853,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1087137,
+        "num": 1087137,
+        "word": "陈晓杭州出发",
+        "onboard_time": 1733754141,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3385,
+        "num": 952882,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927216,
+        "num": 927216,
+        "word": "范丞丞 看看我还要澄清什么",
+        "onboard_time": 1733750058,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553364,
+        "num": 553364,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718988,
+        "num": 546162,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 495085,
+        "num": 495085,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487704,
+        "num": 487704,
+        "word": "新鲜的杨幂",
+        "onboard_time": 1733751321,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484301,
+        "num": 484301,
+        "word": "小米YU7预计明年六七月上市",
+        "onboard_time": 1733747179,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76065,
+        "num": 454007,
+        "word": "普京暂无正式会见阿萨德计划",
+        "onboard_time": 1733753179,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1584124,
+        "num": 448056,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608559,
+        "num": 447472,
+        "word": "以色列大举空袭叙利亚",
+        "onboard_time": 1733748620,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 441872,
+        "num": 441872,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356968,
+        "num": 433198,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67169,
+        "num": 426625,
+        "word": "网传2024车检为史上最严系谣言",
+        "onboard_time": 1733752941,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 425457,
+        "num": 425457,
+        "word": "英伟达",
+        "onboard_time": 1733745019,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316208,
+        "num": 419481,
+        "word": "晓华说向佐像大哥哥一样",
+        "onboard_time": 1733751741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416137,
+        "num": 416137,
+        "word": "她是12306背后的最强大脑",
+        "onboard_time": 1733751680,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 299181,
+        "num": 381369,
+        "word": "李昀锐 今年爱上的最后一个男人",
+        "onboard_time": 1733753541,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39676,
+        "num": 378497,
+        "word": "业主称小区监控时刻对着自家客厅",
+        "onboard_time": 1733753720,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543143,
+        "num": 378451,
+        "word": "一个25岁女生的微信",
+        "onboard_time": 1733748499,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376239,
+        "num": 376239,
+        "word": "梁王组合获年度最佳男子双打组合",
+        "onboard_time": 1733749459,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325024,
+        "num": 325024,
+        "word": "张若昀为扔烟头道歉",
+        "onboard_time": 1733740879,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287994,
+        "num": 287994,
+        "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+        "onboard_time": 1733749040,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54207,
+        "num": 282439,
+        "word": "这一刻国乒团魂具象化了",
+        "onboard_time": 1733750539,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277696,
+        "num": 277696,
+        "word": "双轨群演发声",
+        "onboard_time": 1733739379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250084,
+        "num": 250084,
+        "word": "南方游客刚到漠河就让大家震惊了",
+        "onboard_time": 1733750660,
+        "rank": 26,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 243964,
+        "num": 243964,
+        "word": "浙江卫视请来了真cp",
+        "onboard_time": 1733734940,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223907,
+        "num": 223907,
+        "word": "水哥说自己没上过班",
+        "onboard_time": 1733750479,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217786,
+        "num": 217786,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216823,
+        "num": 216823,
+        "word": "小米SUV价格",
+        "onboard_time": 1733753359,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 215668,
+        "num": 215668,
+        "word": "陈好今天是被宠爱的一天",
+        "onboard_time": 1733746579,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210006,
+        "num": 210006,
+        "word": "本科专业大洗牌意味着什么",
+        "onboard_time": 1733742380,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196454,
+        "num": 196454,
+        "word": "邓为工作室",
+        "onboard_time": 1733753780,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126890,
+        "num": 187692,
+        "word": "潘宏园区少爷乐乐",
+        "onboard_time": 1733750720,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180643,
+        "num": 180643,
+        "word": "男子嚼槟榔20年变割脸人",
+        "onboard_time": 1733741900,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171077,
+        "num": 171077,
+        "word": "李昀锐的四张表情包",
+        "onboard_time": 1733752879,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166133,
+        "num": 166133,
+        "word": "徐艺洋婚后首亮相",
+        "onboard_time": 1733730798,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 164747,
+        "word": "粉笔四六级崩了",
+        "onboard_time": 1733752820,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158360,
+        "num": 158360,
+        "word": "男孩遇开门杀后遭货车碾压",
+        "onboard_time": 1733736980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "小米YU7怎么读",
+        "onboard_time": 1733752399,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153026,
+        "num": 153026,
+        "word": "网友隔河拍到疑电诈园区体罚现场",
+        "onboard_time": 1733749400,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144053,
+        "num": 144053,
+        "word": "范丞丞屏保是沈腾",
+        "onboard_time": 1733744061,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 141805,
+        "word": "当俄罗斯人看到俄罗斯商品馆",
+        "onboard_time": 1733749218,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138918,
+        "num": 138918,
+        "word": "洗浴中心多人出现不适晕倒送医",
+        "onboard_time": 1733747721,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "采黄连神器竟是一条腿的凳子",
+        "onboard_time": 1733751560,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 126524,
+        "word": "普京做出向阿萨德提供庇护决定",
+        "onboard_time": 1733740821,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "女子怀疑被偷拍男子称如没有砸你手机",
+        "onboard_time": 1733743280,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126065,
+        "num": 126065,
+        "word": "救救祝绪丹",
+        "onboard_time": 1733733438,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 124526,
+        "num": 124526,
+        "word": "雷军回应小米YU7为什么早公示",
+        "onboard_time": 1733753959,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}
