@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733758880154,
+  "endTime": 1733761883460,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -555,6 +555,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1774676,
+      "num": 1774676,
+      "word": "网红刘大美丽去世",
+      "onboard_time": 1733757618,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1767037,
       "num": 1767037,
       "word": "双轨官宣",
@@ -569,14 +577,6 @@
       "onboard_time": 1733622139,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1743635,
-      "num": 1743635,
-      "word": "网红刘大美丽去世",
-      "onboard_time": 1733757618,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1725501,
@@ -4907,6 +4907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 534673,
+      "num": 534673,
+      "word": "国色芳华白月梵星 同天播出",
+      "onboard_time": 1733758579,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533676,
       "num": 533676,
       "word": "多邻国APP 裂了",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1733578822,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427511,
+      "num": 427511,
+      "word": "叙利亚被释囚犯询问发生啥事啦",
+      "onboard_time": 1733758579,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 427438,
@@ -11259,6 +11275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233604,
+      "num": 233604,
+      "word": "向佐还想留长发",
+      "onboard_time": 1733758818,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233482,
       "num": 233482,
       "word": "邓超看女儿甄嬛照说小主吉祥",
@@ -11457,14 +11481,6 @@
       "onboard_time": 1733453359,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229266,
-      "num": 229266,
-      "word": "叙利亚被释囚犯询问发生啥事啦",
-      "onboard_time": 1733758579,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 229192,
@@ -12385,6 +12401,14 @@
       "onboard_time": 1733043859,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210553,
+      "num": 210553,
+      "word": "丁禹兮人没到奶茶到了",
+      "onboard_time": 1733760379,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 210543,
@@ -16555,14 +16579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167948,
-      "num": 167948,
-      "word": "国色芳华白月梵星 同天播出",
-      "onboard_time": 1733758579,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167845,
       "num": 167845,
       "word": "赵露思说即使害怕仍要不畏前行",
@@ -19395,6 +19411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142217,
+      "num": 142217,
+      "word": "刘大美丽死亡当天曾到整形医院抽脂",
+      "onboard_time": 1733759119,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142081,
       "num": 142081,
       "word": "500次DNA检测还被害少女公道",
@@ -21907,6 +21931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118649,
+      "num": 118649,
+      "word": "从陕西被拐30岁麻省理工博士寻亲",
+      "onboard_time": 1733761038,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118611,
       "num": 118611,
       "word": "檀健次破防居然是个连续剧",
@@ -22627,6 +22659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109865,
+      "num": 365481,
+      "word": "男子被二姨拐卖28年称不恨任何人",
+      "onboard_time": 1733756661,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109698,
       "num": 477419,
       "word": "韩国成立紧急戒严事件特别调查本部",
@@ -23051,14 +23091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 105525,
-      "num": 365481,
-      "word": "男子被二姨拐卖28年称不恨任何人",
-      "onboard_time": 1733756661,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105289,
       "num": 287910,
       "word": "王曼昱vs杜凯琹",
@@ -23273,14 +23305,6 @@
       "onboard_time": 1733338753,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 102270,
-      "num": 102270,
-      "word": "向佐还想留长发",
-      "onboard_time": 1733758818,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 102207,
@@ -23883,6 +23907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95427,
+      "num": 95427,
+      "word": "郑州一洗浴中心多人不适被送医",
+      "onboard_time": 1733759839,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95402,
       "num": 208474,
       "word": "吉克隽逸回应被骂 好敢说",
@@ -24185,6 +24217,22 @@
       "onboard_time": 1733358681,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 92328,
+      "num": 92328,
+      "word": "向佐回应玛丽猫造型",
+      "onboard_time": 1733760857,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92279,
+      "num": 123829,
+      "word": "卫健委回应网红刘大美丽去世",
+      "onboard_time": 1733759718,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 92103,
@@ -24985,6 +25033,14 @@
       "onboard_time": 1733396480,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80214,
+      "num": 80214,
+      "word": "家暴绝非家务事",
+      "onboard_time": 1733760138,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80071,
@@ -27512,6 +27568,14 @@
       "word": "官方回应一公司被举报疑用发霉西梅",
       "onboard_time": 1733476158,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51609,
+      "num": 227453,
+      "word": "官方通报洗浴中心多人出现不适被送医",
+      "onboard_time": 1733760078,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -31755,6 +31819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16182,
+      "num": 119169,
+      "word": "梁王任何组合训练好欢乐",
+      "onboard_time": 1733760618,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16180,
       "num": 108566,
       "word": "朱开不看好明年BLG",
@@ -32585,6 +32657,14 @@
       "onboard_time": 1733563939,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8830,
+      "num": 123005,
+      "word": "JDG官宣Kanavi离队",
+      "onboard_time": 1733761817,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 8770,
