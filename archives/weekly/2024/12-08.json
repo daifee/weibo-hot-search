@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733783013351,
+  "endTime": 1733784139057,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -3571,6 +3571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184860,
+      "num": 184860,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184744,
       "num": 184744,
       "word": "如鸢",
@@ -4763,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137124,
+      "num": 137124,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136399,
       "num": 137842,
       "word": "凤凰组合年度最佳混双",
@@ -4865,14 +4881,6 @@
       "onboard_time": 1733613493,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133129,
-      "num": 133129,
-      "word": "目击者称坠海无人机约600架",
-      "onboard_time": 1733772551,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133054,
@@ -5435,14 +5443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99693,
-      "num": 99693,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99029,
       "num": 141264,
       "word": "第五人格赛事",
@@ -5707,6 +5707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84644,
+      "num": 84644,
+      "word": "漠河火车站大姐挨个监督游客穿棉裤",
+      "onboard_time": 1733780531,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84441,
       "num": 242529,
       "word": "中国顶尖舞者推广大使王一博",
@@ -5801,6 +5809,14 @@
       "onboard_time": 1733760138,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80123,
+      "num": 80123,
+      "word": "俄罗斯向阿萨德提供避难",
+      "onboard_time": 1733781972,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80085,
@@ -6075,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62829,
-      "num": 62829,
-      "word": "漠河火车站大姐挨个监督游客穿棉裤",
-      "onboard_time": 1733780531,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62568,
       "num": 62568,
       "word": "李沁王阳获年度品质演员",
@@ -6177,6 +6185,14 @@
       "onboard_time": 1733590280,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 55415,
+      "num": 55415,
+      "word": "疑似蔡国强表演无人机坠落满地画面",
+      "onboard_time": 1733778911,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55023,
@@ -6531,11 +6547,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40792,
-      "num": 40792,
-      "word": "疑似蔡国强表演无人机坠落满地画面",
-      "onboard_time": 1733778911,
-      "rank": 14,
+      "raw_hot": 40397,
+      "num": 41840,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6587,12 +6603,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 37093,
-      "num": 41840,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 37393,
+      "num": 80373,
+      "word": "日本人不知南京大屠杀是日本之耻",
+      "onboard_time": 1733768832,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36782,
@@ -6651,14 +6667,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 34845,
-      "num": 80373,
-      "word": "日本人不知南京大屠杀是日本之耻",
-      "onboard_time": 1733768832,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34489,
       "num": 69275,
       "word": "我是刑警破了8年案还有8大案",
@@ -6699,14 +6707,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 33445,
-      "num": 66691,
-      "word": "俄罗斯向阿萨德提供避难",
-      "onboard_time": 1733781972,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33385,
       "num": 440868,
       "word": "未来叙利亚局势将如何发展",
@@ -6721,6 +6721,14 @@
       "onboard_time": 1733749700,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33201,
+      "num": 31297,
+      "word": "外交部就以色列空袭大马士革发声",
+      "onboard_time": 1733769791,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32107,
@@ -6819,6 +6827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29534,
+      "num": 29534,
+      "word": "张云雷分享减肥小妙招",
+      "onboard_time": 1733781671,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29479,
       "num": 282751,
       "word": "起底花钱买学历的诈骗陷阱",
@@ -6867,12 +6883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26216,
-      "num": 26216,
-      "word": "外交部就以色列空袭大马士革发声",
-      "onboard_time": 1733769791,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 26651,
+      "num": 26651,
+      "word": "本科专业大洗牌背后的调整逻辑",
+      "onboard_time": 1733765773,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 25560,
@@ -6881,14 +6897,6 @@
       "onboard_time": 1733710396,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25331,
-      "num": 25331,
-      "word": "本科专业大洗牌背后的调整逻辑",
-      "onboard_time": 1733765773,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 25244,
@@ -7123,20 +7131,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 18631,
+      "num": 68254,
+      "word": "广电总局出手管理AI魔改视频",
+      "onboard_time": 1733782212,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18161,
       "num": 21830,
       "word": "男子组团转赞评被判6年半罚3000万",
       "onboard_time": 1733690231,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17706,
-      "num": 24618,
-      "word": "张云雷分享减肥小妙招",
-      "onboard_time": 1733781671,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 17552,
@@ -7443,20 +7451,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 7616,
+      "num": 40826,
+      "word": "圣坛组合年度最佳女双",
+      "onboard_time": 1733782752,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7292,
       "num": 84052,
       "word": "萧逸初雪卡",
       "onboard_time": 1733764214,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7205,
-      "num": 40826,
-      "word": "圣坛组合年度最佳女双",
-      "onboard_time": 1733782752,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 7011,
