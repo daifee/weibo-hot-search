@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733780292990,
+  "endTime": 1733783013351,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -203,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133129,
+      "num": 133129,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130681,
       "num": 130681,
       "word": "张若昀为扔烟头道歉",
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99693,
+      "num": 99693,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97049,
       "num": 97049,
       "word": "雷军回应小米YU7为什么早公示",
@@ -337,14 +353,6 @@
       "onboard_time": 1733756361,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89491,
-      "num": 89491,
-      "word": "目击者称坠海无人机约600架",
-      "onboard_time": 1733772551,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84360,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62829,
+      "num": 62829,
+      "word": "漠河火车站大姐挨个监督游客穿棉裤",
+      "onboard_time": 1733780531,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59006,
       "num": 59006,
       "word": "李昀锐扫楼送柿子",
@@ -459,7 +475,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35722,
+      "raw_hot": 40792,
+      "num": 40792,
+      "word": "疑似蔡国强表演无人机坠落满地画面",
+      "onboard_time": 1733778911,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37093,
       "num": 41840,
       "word": "云南39只准搜救犬考编失败求领养",
       "onboard_time": 1733776450,
@@ -473,6 +497,14 @@
       "onboard_time": 1733768832,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33445,
+      "num": 66691,
+      "word": "俄罗斯向阿萨德提供避难",
+      "onboard_time": 1733781972,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29810,
@@ -489,6 +521,22 @@
       "onboard_time": 1733771531,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26216,
+      "num": 26216,
+      "word": "外交部就以色列空袭大马士革发声",
+      "onboard_time": 1733769791,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25331,
+      "num": 25331,
+      "word": "本科专业大洗牌背后的调整逻辑",
+      "onboard_time": 1733765773,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 25095,
@@ -515,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24091,
-      "num": 35886,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24005,
       "num": 26875,
       "word": "易烊千玺肢体表现力",
@@ -539,14 +579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22644,
-      "num": 22644,
-      "word": "外交部就以色列空袭大马士革发声",
-      "onboard_time": 1733769791,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21473,
       "num": 23095,
       "word": "微博音乐大赏启动",
@@ -555,12 +587,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 20947,
-      "num": 22773,
-      "word": "本科专业大洗牌背后的调整逻辑",
-      "onboard_time": 1733765773,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 17706,
+      "num": 24618,
+      "word": "张云雷分享减肥小妙招",
+      "onboard_time": 1733781671,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 17552,
@@ -619,20 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11571,
-      "num": 31156,
-      "word": "疑似蔡国强表演无人机坠落满地画面",
-      "onboard_time": 1733778911,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 7292,
       "num": 84052,
       "word": "萧逸初雪卡",
       "onboard_time": 1733764214,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7205,
+      "num": 40826,
+      "word": "圣坛组合年度最佳女双",
+      "onboard_time": 1733782752,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6859,
@@ -651,7 +683,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2124,
+      "raw_hot": 2667,
       "num": 153543,
       "word": "文化中国行看简牍里的中国人智慧",
       "onboard_time": 1733689511,

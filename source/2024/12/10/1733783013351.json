@@ -1,0 +1,410 @@
+{
+  "runTime": 1733783013351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 360462,
+        "num": 412691,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222545,
+        "num": 222545,
+        "word": "洗浴中心多人出现不适亲历者发声",
+        "onboard_time": 1733754982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2667,
+        "num": 141942,
+        "word": "文化中国行看简牍里的中国人智慧",
+        "onboard_time": 1733689511,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133129,
+        "num": 133129,
+        "word": "目击者称坠海无人机约600架",
+        "onboard_time": 1733772551,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99693,
+        "num": 99693,
+        "word": "山西大学一留学生摸女生屁股被行拘",
+        "onboard_time": 1733779330,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90570,
+        "num": 90570,
+        "word": "叙利亚被释囚犯询问发生啥事啦",
+        "onboard_time": 1733758579,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72885,
+        "num": 72885,
+        "word": "骑手接100元打赏订单察觉异样果断报警",
+        "onboard_time": 1733740640,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70989,
+        "num": 70989,
+        "word": "国色芳华白月梵星 同天播出",
+        "onboard_time": 1733758579,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69048,
+        "num": 69048,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33445,
+        "num": 66691,
+        "word": "俄罗斯向阿萨德提供避难",
+        "onboard_time": 1733781972,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136813,
+        "num": 66427,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65799,
+        "num": 65799,
+        "word": "从陕西被拐30岁麻省理工博士寻亲",
+        "onboard_time": 1733761038,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64345,
+        "num": 64345,
+        "word": "她是12306背后的最强大脑",
+        "onboard_time": 1733751680,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 62829,
+        "num": 62829,
+        "word": "漠河火车站大姐挨个监督游客穿棉裤",
+        "onboard_time": 1733780531,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49780,
+        "num": 49780,
+        "word": "郑州一洗浴中心多人不适被送医",
+        "onboard_time": 1733759839,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45789,
+        "num": 45789,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44782,
+        "num": 44782,
+        "word": "英伟达",
+        "onboard_time": 1733745019,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37323,
+        "num": 42856,
+        "word": "张艺兴已经是nextlevel了",
+        "onboard_time": 1733756600,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35552,
+        "num": 42440,
+        "word": "范丞丞 看看我还要澄清什么",
+        "onboard_time": 1733750058,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34088,
+        "num": 42318,
+        "word": "刘大美丽死亡当天曾到整形医院抽脂",
+        "onboard_time": 1733759119,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 42231,
+        "num": 42231,
+        "word": "80后爸爸硬控14岁女儿社交",
+        "onboard_time": 1733755041,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42140,
+        "num": 42140,
+        "word": "向佐回应玛丽猫造型",
+        "onboard_time": 1733760857,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42044,
+        "num": 42044,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32155,
+        "num": 41291,
+        "word": "丁禹兮人没到奶茶到了",
+        "onboard_time": 1733760379,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7205,
+        "num": 40826,
+        "word": "圣坛组合年度最佳女双",
+        "onboard_time": 1733782752,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31856,
+        "num": 40800,
+        "word": "向佐还想留长发",
+        "onboard_time": 1733758818,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40792,
+        "num": 40792,
+        "word": "疑似蔡国强表演无人机坠落满地画面",
+        "onboard_time": 1733778911,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38584,
+        "num": 38584,
+        "word": "以色列大举空袭叙利亚",
+        "onboard_time": 1733748620,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38550,
+        "num": 38550,
+        "word": "南方游客刚到漠河就让大家震惊了",
+        "onboard_time": 1733750660,
+        "rank": 28,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 37093,
+        "num": 37093,
+        "word": "云南39只准搜救犬考编失败求领养",
+        "onboard_time": 1733776450,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36038,
+        "num": 36038,
+        "word": "陈晓 陈妍希",
+        "onboard_time": 1733735920,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31210,
+        "num": 31210,
+        "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
+        "onboard_time": 1733749040,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29582,
+        "num": 29582,
+        "word": "特朗普威胁北约成员国",
+        "onboard_time": 1733771111,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27857,
+        "num": 27857,
+        "word": "男子嚼槟榔20年变割脸人",
+        "onboard_time": 1733741900,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26627,
+        "num": 26627,
+        "word": "不知南京大屠杀是日本之耻",
+        "onboard_time": 1733765894,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26216,
+        "num": 26216,
+        "word": "外交部就以色列空袭大马士革发声",
+        "onboard_time": 1733769791,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25590,
+        "num": 25590,
+        "word": "男子被二姨拐卖28年称不恨任何人",
+        "onboard_time": 1733756661,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25384,
+        "num": 25384,
+        "word": "本科专业大洗牌意味着什么",
+        "onboard_time": 1733742380,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25331,
+        "num": 25331,
+        "word": "本科专业大洗牌背后的调整逻辑",
+        "onboard_time": 1733765773,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24869,
+        "num": 24869,
+        "word": "日本人不知南京大屠杀是日本之耻",
+        "onboard_time": 1733768832,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24804,
+        "num": 24804,
+        "word": "九重紫",
+        "onboard_time": 1733736019,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24618,
+        "num": 24618,
+        "word": "广州地铁安检新规引市民争议",
+        "onboard_time": 1733740462,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22368,
+        "num": 24618,
+        "word": "邓为工作室",
+        "onboard_time": 1733753780,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22190,
+        "num": 24618,
+        "word": "误杀3特别出演尹子维",
+        "onboard_time": 1733764454,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21068,
+        "num": 24618,
+        "word": "家暴绝非家务事",
+        "onboard_time": 1733760138,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20403,
+        "num": 24618,
+        "word": "官方通报洗浴中心多人出现不适被送医",
+        "onboard_time": 1733760078,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19788,
+        "num": 24618,
+        "word": "南京大屠杀真实照片",
+        "onboard_time": 1733740580,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18464,
+        "num": 24618,
+        "word": "日本历史学家为南京大屠杀添铁证",
+        "onboard_time": 1733768112,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18390,
+        "num": 24618,
+        "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
+        "onboard_time": 1733761276,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17706,
+        "num": 24618,
+        "word": "张云雷分享减肥小妙招",
+        "onboard_time": 1733781671,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

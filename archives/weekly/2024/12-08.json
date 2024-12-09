@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733780292990,
+  "endTime": 1733783013351,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -4867,6 +4867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133129,
+      "num": 133129,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133054,
       "num": 133054,
       "word": "乒超深圳大学代表队阵容",
@@ -5427,6 +5435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99693,
+      "num": 99693,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99029,
       "num": 141264,
       "word": "第五人格赛事",
@@ -5641,14 +5657,6 @@
       "onboard_time": 1733720898,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 89491,
-      "num": 89491,
-      "word": "目击者称坠海无人机约600架",
-      "onboard_time": 1733772551,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88534,
@@ -6064,6 +6072,14 @@
       "word": "男子高血压头晕刮痧后瞬间降压",
       "onboard_time": 1733593994,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62829,
+      "num": 62829,
+      "word": "漠河火车站大姐挨个监督游客穿棉裤",
+      "onboard_time": 1733780531,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -6515,6 +6531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40792,
+      "num": 40792,
+      "word": "疑似蔡国强表演无人机坠落满地画面",
+      "onboard_time": 1733778911,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39350,
       "num": 227146,
       "word": "潘展乐VogueSports首期封面",
@@ -6563,6 +6587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37093,
+      "num": 41840,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36782,
       "num": 137928,
       "word": "电影好东西票房破5亿",
@@ -6592,14 +6624,6 @@
       "word": "溜冰场回应女子被撞成脑震荡",
       "onboard_time": 1733754380,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35722,
-      "num": 41840,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6673,6 +6697,14 @@
       "onboard_time": 1733647279,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33445,
+      "num": 66691,
+      "word": "俄罗斯向阿萨德提供避难",
+      "onboard_time": 1733781972,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33385,
@@ -6835,12 +6867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26216,
+      "num": 26216,
+      "word": "外交部就以色列空袭大马士革发声",
+      "onboard_time": 1733769791,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25560,
       "num": 1366769,
       "word": "青知讲说人",
       "onboard_time": 1733710396,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25331,
+      "num": 25331,
+      "word": "本科专业大洗牌背后的调整逻辑",
+      "onboard_time": 1733765773,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 25244,
@@ -6915,14 +6963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24091,
-      "num": 35886,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24005,
       "num": 26875,
       "word": "易烊千玺肢体表现力",
@@ -6979,14 +7019,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22644,
-      "num": 22644,
-      "word": "外交部就以色列空袭大马士革发声",
-      "onboard_time": 1733769791,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22449,
       "num": 34295,
       "word": "浙江发现两栖动物新物种",
@@ -7017,14 +7049,6 @@
       "onboard_time": 1733768533,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20947,
-      "num": 22773,
-      "word": "本科专业大洗牌背后的调整逻辑",
-      "onboard_time": 1733765773,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 20780,
@@ -7105,6 +7129,14 @@
       "onboard_time": 1733690231,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17706,
+      "num": 24618,
+      "word": "张云雷分享减肥小妙招",
+      "onboard_time": 1733781671,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 17552,
@@ -7339,14 +7371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11571,
-      "num": 31156,
-      "word": "疑似蔡国强表演无人机坠落满地画面",
-      "onboard_time": 1733778911,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10904,
       "num": 415345,
       "word": "UFC310",
@@ -7425,6 +7449,14 @@
       "onboard_time": 1733764214,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7205,
+      "num": 40826,
+      "word": "圣坛组合年度最佳女双",
+      "onboard_time": 1733782752,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 7011,
