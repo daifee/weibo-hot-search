@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733786616715,
+  "endTime": 1733787508273,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -1067,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 609711,
+      "num": 609711,
+      "word": "广电总局出手管理AI魔改视频",
+      "onboard_time": 1733782212,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606084,
       "num": 606084,
       "word": "南京大屠杀真实照片",
@@ -1435,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480300,
-      "num": 480300,
-      "word": "广电总局出手管理AI魔改视频",
-      "onboard_time": 1733782212,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 478679,
       "num": 478679,
       "word": "孟子义一年级哪有这么好的条件",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1733750660,
       "rank": 46,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 445780,
+      "num": 445780,
+      "word": "目击者称坠海无人机约600架",
+      "onboard_time": 1733772551,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 442322,
@@ -1721,14 +1729,6 @@
       "onboard_time": 1733582662,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390384,
-      "num": 390384,
-      "word": "目击者称坠海无人机约600架",
-      "onboard_time": 1733772551,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 384319,
@@ -2547,6 +2547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253823,
+      "num": 232974,
+      "word": "D社元旦公布新情侣",
+      "onboard_time": 1733786294,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253274,
       "num": 253274,
       "word": "孙卓回家3年变回小时候胖胖的样子",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1733653160,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243222,
+      "num": 231773,
+      "word": "俄罗斯向阿萨德提供避难",
+      "onboard_time": 1733781972,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243167,
@@ -3539,14 +3555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187227,
-      "num": 187227,
-      "word": "俄罗斯向阿萨德提供避难",
-      "onboard_time": 1733781972,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "为什么喜欢阅读的人精神更富足",
@@ -3571,6 +3579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185967,
+      "num": 185967,
+      "word": "山西大学一留学生摸女生屁股被行拘",
+      "onboard_time": 1733779330,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185805,
       "num": 185805,
       "word": "十个勤天盘了个桃",
@@ -3593,14 +3609,6 @@
       "onboard_time": 1733756361,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184772,
-      "num": 184772,
-      "word": "D社元旦公布新情侣",
-      "onboard_time": 1733786294,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 184744,
@@ -3995,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167003,
+      "num": 167003,
+      "word": "28岁独立女性报复性弥补童年遗憾",
+      "onboard_time": 1733785995,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166678,
       "num": 166678,
       "word": "传奇杯总决赛",
@@ -4177,14 +4193,6 @@
       "onboard_time": 1733721199,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161208,
-      "num": 161208,
-      "word": "山西大学一留学生摸女生屁股被行拘",
-      "onboard_time": 1733779330,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159947,
@@ -5195,6 +5203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115007,
+      "num": 199662,
+      "word": "杨紫白鹿新剧对打",
+      "onboard_time": 1733787076,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114830,
       "num": 226509,
       "word": "ELLE封面的乒乓球运动员们",
@@ -5209,6 +5225,14 @@
       "onboard_time": 1733627000,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114083,
+      "num": 114083,
+      "word": "海信被传大规模裁员3万人",
+      "onboard_time": 1733786415,
+      "rank": 42,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 113225,
@@ -5395,6 +5419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104646,
+      "num": 104646,
+      "word": "日本人不知南京大屠杀是日本之耻",
+      "onboard_time": 1733768832,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104555,
       "num": 340905,
       "word": "波司登真的在用心做羽绒服",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1733747058,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101999,
+      "num": 101999,
+      "word": "准备迎接超长待机的寒冷感了",
+      "onboard_time": 1733784313,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101991,
@@ -5587,6 +5627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94137,
+      "num": 94137,
+      "word": "收留女硕士男子堂哥称曾登寻人启事",
+      "onboard_time": 1733785934,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94122,
       "num": 575358,
       "word": "河北邢台回应低价宠物粮乱象",
@@ -5595,12 +5643,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 93507,
-      "num": 93507,
-      "word": "日本人不知南京大屠杀是日本之耻",
-      "onboard_time": 1733768832,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 94046,
+      "num": 114972,
+      "word": "范丞丞说明星也是人呐",
+      "onboard_time": 1733784974,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 93372,
@@ -5636,7 +5684,7 @@
     },
     {
       "raw_hot": 92328,
-      "num": 92328,
+      "num": 114199,
       "word": "向佐回应玛丽猫造型",
       "onboard_time": 1733760857,
       "rank": 41,
@@ -5707,14 +5755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88420,
-      "num": 88420,
-      "word": "准备迎接超长待机的寒冷感了",
-      "onboard_time": 1733784313,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87471,
       "num": 209662,
       "word": "letme聊TheShy复出",
@@ -5779,11 +5819,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84022,
+      "num": 114398,
+      "word": "张云雷分享减肥小妙招",
+      "onboard_time": 1733781671,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83902,
       "num": 83902,
       "word": "疑似蔡国强表演无人机坠落满地画面",
       "onboard_time": 1733778911,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83565,
+      "num": 83565,
+      "word": "云南39只准搜救犬考编失败求领养",
+      "onboard_time": 1733776450,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5793,14 +5849,6 @@
       "onboard_time": 1733714058,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 82693,
-      "num": 82693,
-      "word": "28岁独立女性报复性弥补童年遗憾",
-      "onboard_time": 1733785995,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 82585,
@@ -5955,19 +6003,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75111,
+      "num": 75111,
+      "word": "北京花300多万买一层送一层的房子",
+      "onboard_time": 1733786596,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74005,
       "num": 856072,
       "word": "春节申遗副标题有哪些内涵",
       "onboard_time": 1733578401,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73831,
-      "num": 73831,
-      "word": "云南39只准搜救犬考编失败求领养",
-      "onboard_time": 1733776450,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6019,12 +6067,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71207,
-      "num": 88475,
-      "word": "张云雷分享减肥小妙招",
-      "onboard_time": 1733781671,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 70190,
+      "num": 70190,
+      "word": "朋友里唯一不抽烟的那个人",
+      "onboard_time": 1733786475,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 69860,
@@ -6073,14 +6121,6 @@
       "onboard_time": 1733735961,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68824,
-      "num": 68824,
-      "word": "范丞丞说明星也是人呐",
-      "onboard_time": 1733784974,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 68621,
@@ -6171,14 +6211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62139,
-      "num": 62139,
-      "word": "朋友里唯一不抽烟的那个人",
-      "onboard_time": 1733786475,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 61756,
       "num": 301141,
       "word": "林诗栋告别成都混团",
@@ -6211,11 +6243,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58846,
+      "num": 236207,
+      "word": "新一股较强冷空气影响将我国大部",
+      "onboard_time": 1733786294,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58597,
       "num": 665926,
       "word": "解读叙利亚国内四方主要势力",
       "onboard_time": 1733736739,
       "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 58014,
+      "num": 58014,
+      "word": "外交部就以色列空袭大马士革发声",
+      "onboard_time": 1733769791,
+      "rank": 36,
       "category": "国际时政"
     },
     {
@@ -6241,14 +6289,6 @@
       "onboard_time": 1733599932,
       "rank": 14,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 57248,
-      "num": 57248,
-      "word": "海信被传大规模裁员3万人",
-      "onboard_time": 1733786415,
-      "rank": 42,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 57199,
@@ -6313,14 +6353,6 @@
       "onboard_time": 1733595674,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54221,
-      "num": 54221,
-      "word": "收留女硕士男子堂哥称曾登寻人启事",
-      "onboard_time": 1733785934,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54148,
@@ -6411,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50696,
+      "num": 196856,
+      "word": "中概股集体狂欢",
+      "onboard_time": 1733787015,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50097,
       "num": 441278,
       "word": "叙利亚反对派武装是何来头",
@@ -6467,14 +6507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48210,
-      "num": 48210,
-      "word": "外交部就以色列空袭大马士革发声",
-      "onboard_time": 1733769791,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47964,
       "num": 292547,
       "word": "搜索400电话遇黑救援10升油花700元",
@@ -6505,14 +6537,6 @@
       "onboard_time": 1733731700,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46377,
-      "num": 46377,
-      "word": "北京花300多万买一层送一层的房子",
-      "onboard_time": 1733786596,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 46198,
@@ -6763,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34462,
+      "num": 168527,
+      "word": "孙颖莎领衔深大俱乐部出战",
+      "onboard_time": 1733787135,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34383,
       "num": 68932,
       "word": "冬季半价或免票的景区了解一下",
@@ -6961,14 +6993,6 @@
       "onboard_time": 1733765773,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 25719,
-      "num": 198477,
-      "word": "新一股较强冷空气影响将我国大部",
-      "onboard_time": 1733786294,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25560,
