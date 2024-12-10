@@ -1,0 +1,402 @@
+{
+  "runTime": 1733796973759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1492063,
+        "num": 1492063,
+        "word": "腾讯视频会员权益调整",
+        "onboard_time": 1733792540,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 679138,
+        "num": 679138,
+        "word": "4部影片定档春节档",
+        "onboard_time": 1733794998,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639942,
+        "num": 639942,
+        "word": "杨紫白鹿新剧对打",
+        "onboard_time": 1733787076,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512931,
+        "num": 512931,
+        "word": "小学校长13年受贿949万",
+        "onboard_time": 1733791580,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 501417,
+        "num": 501417,
+        "word": "英伟达市值一夜蒸发6400亿元",
+        "onboard_time": 1733791157,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 591458,
+        "num": 497084,
+        "word": "小时候很害怕BIGBANG",
+        "onboard_time": 1733789058,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74925,
+        "num": 488563,
+        "word": "毛戈平上市首日高开60%",
+        "onboard_time": 1733796137,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103634,
+        "num": 487759,
+        "word": "A股高开逼近3500点",
+        "onboard_time": 1733795478,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487628,
+        "num": 487628,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 873583,
+        "num": 468096,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 568859,
+        "num": 451131,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404131,
+        "num": 404131,
+        "word": "哪吒2定档大年初一",
+        "onboard_time": 1733794459,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378936,
+        "num": 378936,
+        "word": "丁禹兮耳骨夹",
+        "onboard_time": 1733794577,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105764,
+        "num": 372626,
+        "word": "海信辟谣大规模裁员",
+        "onboard_time": 1733795177,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 680078,
+        "num": 372478,
+        "word": "洗浴中心多人出现不适亲历者发声",
+        "onboard_time": 1733754982,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371866,
+        "num": 371866,
+        "word": "桑坡村要摆脱雪地靴平替标签",
+        "onboard_time": 1733792000,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371119,
+        "num": 371119,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19968,
+        "num": 354742,
+        "word": "港股",
+        "onboard_time": 1733729358,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203601,
+        "num": 352405,
+        "word": "英伟达称乐意回答监管的任何问题",
+        "onboard_time": 1733795959,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 459352,
+        "num": 351616,
+        "word": "戒咖啡一个月身体的变化",
+        "onboard_time": 1733793197,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350575,
+        "num": 350575,
+        "word": "原来年终奖和十三薪的区别这么大",
+        "onboard_time": 1733791520,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 258217,
+        "num": 258217,
+        "word": "叙利亚被释囚犯询问发生啥事啦",
+        "onboard_time": 1733758579,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243678,
+        "num": 243678,
+        "word": "D社元旦公布新情侣",
+        "onboard_time": 1733786294,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245754,
+        "num": 243484,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241050,
+        "num": 241050,
+        "word": "她是12306背后的最强大脑",
+        "onboard_time": 1733751680,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235012,
+        "num": 235012,
+        "word": "范丞丞回跑男要和李晨比肌肉",
+        "onboard_time": 1733790139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224483,
+        "num": 228756,
+        "word": "我是刑警豆瓣7.8分合理吗",
+        "onboard_time": 1733794879,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197538,
+        "num": 225583,
+        "word": "李昀锐演技",
+        "onboard_time": 1733787856,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193355,
+        "num": 225430,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225413,
+        "num": 225413,
+        "word": "45岁以上高血压患病率已近六成",
+        "onboard_time": 1733795478,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205261,
+        "num": 205261,
+        "word": "余华英案12月19日重审二审开庭",
+        "onboard_time": 1733795779,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183149,
+        "num": 183149,
+        "word": "广电总局出手管理AI魔改视频",
+        "onboard_time": 1733782212,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168363,
+        "num": 168363,
+        "word": "股市",
+        "onboard_time": 1733795598,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161088,
+        "num": 161088,
+        "word": "28岁独立女性报复性弥补童年遗憾",
+        "onboard_time": 1733785995,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159875,
+        "num": 159875,
+        "word": "A股今日全线高开",
+        "onboard_time": 1733794637,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150887,
+        "num": 150887,
+        "word": "李昀锐连手都红温了",
+        "onboard_time": 1733791338,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142477,
+        "num": 142477,
+        "word": "国乒领跑四项世界第一",
+        "onboard_time": 1733796377,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135546,
+        "num": 135546,
+        "word": "家长称学校冬季校服内填充物为碎布",
+        "onboard_time": 1733795059,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133053,
+        "num": 133053,
+        "word": "叙利亚总理同意将权力移交给反对派",
+        "onboard_time": 1733787496,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51306,
+        "num": 132274,
+        "word": "开盘10分钟A股放量超2000亿",
+        "onboard_time": 1733795478,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131763,
+        "num": 131763,
+        "word": "小米YU7预计明年六七月上市",
+        "onboard_time": 1733747179,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130813,
+        "num": 130813,
+        "word": "为什么要建黄茅海跨海通道",
+        "onboard_time": 1733796437,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25340,
+        "num": 129145,
+        "word": "百事黑神话",
+        "onboard_time": 1733796857,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 128862,
+        "num": 128862,
+        "word": "冷上加冷模式将开启",
+        "onboard_time": 1733788758,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128077,
+        "num": 128077,
+        "word": "朴综星澄清",
+        "onboard_time": 1733794158,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121604,
+        "num": 121604,
+        "word": "哈工程1600余名师生绘制雪地航母",
+        "onboard_time": 1733791219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "日本人不知南京大屠杀是日本之耻",
+        "onboard_time": 1733768832,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "郑州一洗浴中心多人不适被送医",
+        "onboard_time": 1733759839,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105380,
+        "num": 105380,
+        "word": "OpenAI正式发布Sora",
+        "onboard_time": 1733794938,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

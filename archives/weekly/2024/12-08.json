@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733795587829,
+  "endTime": 1733796973759,
   "band_list": [
     {
       "raw_hot": 4169503,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1492063,
+      "num": 1492063,
+      "word": "腾讯视频会员权益调整",
+      "onboard_time": 1733792540,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1483212,
       "num": 1111926,
       "word": "向佐找晓华剪发",
@@ -305,14 +313,6 @@
       "onboard_time": 1733726419,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1279261,
-      "num": 1279261,
-      "word": "腾讯视频会员权益调整",
-      "onboard_time": 1733792540,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1265294,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679138,
+      "num": 679138,
+      "word": "4部影片定档春节档",
+      "onboard_time": 1733794998,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 673931,
       "num": 673931,
       "word": "不给救护车让路私家车车主被拘",
@@ -1355,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 512931,
+      "num": 512931,
+      "word": "小学校长13年受贿949万",
+      "onboard_time": 1733791580,
+      "rank": 32,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 512079,
       "num": 549242,
       "word": "9部门明确认定家暴证据标准",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1733714180,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 501417,
+      "num": 501417,
+      "word": "英伟达市值一夜蒸发6400亿元",
+      "onboard_time": 1733791157,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 499142,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 462311,
-      "num": 267714,
+      "num": 350575,
       "word": "原来年终奖和十三薪的区别这么大",
       "onboard_time": 1733791520,
       "rank": 21,
@@ -1553,6 +1577,14 @@
       "onboard_time": 1733672659,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 459352,
+      "num": 351616,
+      "word": "戒咖啡一个月身体的变化",
+      "onboard_time": 1733793197,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 454997,
@@ -1699,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414295,
-      "num": 414295,
-      "word": "英伟达市值一夜蒸发6400亿元",
-      "onboard_time": 1733791157,
-      "rank": 12,
-      "category": "财经"
-    },
-    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1733732541,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404131,
+      "num": 404131,
+      "word": "哪吒2定档大年初一",
+      "onboard_time": 1733794459,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 403906,
@@ -1779,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391357,
-      "num": 266910,
-      "word": "戒咖啡一个月身体的变化",
-      "onboard_time": 1733793197,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 384319,
       "num": 384319,
       "word": "抗癌网红卜娜娜去世妈妈发声",
@@ -1809,6 +1833,14 @@
       "onboard_time": 1733742380,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 378936,
+      "num": 378936,
+      "word": "丁禹兮耳骨夹",
+      "onboard_time": 1733794577,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 378553,
@@ -2635,14 +2667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250715,
-      "num": 266762,
-      "word": "丁禹兮耳骨夹",
-      "onboard_time": 1733794577,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250712,
       "num": 280542,
       "word": "王昶金丝边眼镜造型",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1733737162,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249389,
-      "num": 249389,
-      "word": "小学校长13年受贿949万",
-      "onboard_time": 1733791580,
-      "rank": 32,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 249104,
@@ -2883,14 +2899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239773,
-      "num": 265831,
-      "word": "哪吒2定档大年初一",
-      "onboard_time": 1733794459,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -2993,6 +3001,22 @@
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225413,
+      "num": 225413,
+      "word": "45岁以上高血压患病率已近六成",
+      "onboard_time": 1733795478,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 224483,
+      "num": 228756,
+      "word": "我是刑警豆瓣7.8分合理吗",
+      "onboard_time": 1733794879,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 223907,
@@ -3147,6 +3171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205261,
+      "num": 205261,
+      "word": "余华英案12月19日重审二审开庭",
+      "onboard_time": 1733795779,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205171,
       "num": 205171,
       "word": "胖子瘦不下来的原因找到了",
@@ -3169,6 +3201,14 @@
       "onboard_time": 1733641459,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203601,
+      "num": 352405,
+      "word": "英伟达称乐意回答监管的任何问题",
+      "onboard_time": 1733795959,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 203533,
@@ -3347,14 +3387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196302,
-      "num": 264155,
-      "word": "4部影片定档春节档",
-      "onboard_time": 1733794998,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195507,
       "num": 195507,
       "word": "曾舜晞一张照片脑补出30集剧情",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1733668281,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193355,
+      "num": 225430,
+      "word": "向佐找晓华3小时做新发型",
+      "onboard_time": 1733796437,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 193153,
@@ -4131,6 +4171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168363,
+      "num": 168363,
+      "word": "股市",
+      "onboard_time": 1733795598,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167815,
       "num": 167815,
       "word": "上班后朋友圈数据都变差了",
@@ -4523,14 +4571,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 154192,
-      "num": 154192,
-      "word": "我是刑警豆瓣7.8分合理吗",
-      "onboard_time": 1733794879,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154005,
       "num": 152974,
       "word": "杨迪妈妈参演小小的我",
@@ -4577,14 +4617,6 @@
       "onboard_time": 1733749218,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152560,
-      "num": 152560,
-      "word": "45岁以上高血压患病率已近六成",
-      "onboard_time": 1733795478,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152212,
@@ -4835,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142477,
+      "num": 142477,
+      "word": "国乒领跑四项世界第一",
+      "onboard_time": 1733796377,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142408,
       "num": 288321,
       "word": "莎头组合和韩国队都乐了",
@@ -5067,6 +5107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135546,
+      "num": 265409,
+      "word": "家长称学校冬季校服内填充物为碎布",
+      "onboard_time": 1733795059,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135227,
       "num": 131853,
       "word": "阿萨德政权结束当晚发生了什么",
@@ -5145,6 +5193,14 @@
       "onboard_time": 1733588899,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130813,
+      "num": 130813,
+      "word": "为什么要建黄茅海跨海通道",
+      "onboard_time": 1733796437,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130676,
@@ -5627,12 +5683,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105560,
-      "num": 265409,
-      "word": "家长称学校冬季校服内填充物为碎布",
-      "onboard_time": 1733795059,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 105764,
+      "num": 372626,
+      "word": "海信辟谣大规模裁员",
+      "onboard_time": 1733795177,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 105380,
+      "num": 105380,
+      "word": "OpenAI正式发布Sora",
+      "onboard_time": 1733794938,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 104688,
@@ -5657,6 +5721,14 @@
       "onboard_time": 1733637740,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103634,
+      "num": 487759,
+      "word": "A股高开逼近3500点",
+      "onboard_time": 1733795478,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 103325,
@@ -6219,6 +6291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74925,
+      "num": 488563,
+      "word": "毛戈平上市首日高开60%",
+      "onboard_time": 1733796137,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74005,
       "num": 856072,
       "word": "春节申遗副标题有哪些内涵",
@@ -6385,14 +6465,6 @@
       "onboard_time": 1733671399,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 64280,
-      "num": 354416,
-      "word": "海信辟谣大规模裁员",
-      "onboard_time": 1733795177,
-      "rank": 14,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 64014,
@@ -6617,6 +6689,14 @@
       "onboard_time": 1733724318,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51306,
+      "num": 373197,
+      "word": "开盘10分钟A股放量超2000亿",
+      "onboard_time": 1733795478,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 51067,
@@ -7219,6 +7299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25340,
+      "num": 129145,
+      "word": "百事黑神话",
+      "onboard_time": 1733796857,
+      "rank": 43,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -7817,22 +7905,6 @@
       "onboard_time": 1733768112,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5655,
-      "num": 373197,
-      "word": "开盘10分钟A股放量超2000亿",
-      "onboard_time": 1733795478,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 5655,
-      "num": 268714,
-      "word": "A股高开逼近3500点",
-      "onboard_time": 1733795478,
-      "rank": 19,
-      "category": "财经"
     }
   ],
   "hotgov_list": [
