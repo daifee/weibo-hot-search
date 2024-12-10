@@ -1,0 +1,410 @@
+{
+  "runTime": 1733852436591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692220,
+        "num": 692220,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306838,
+        "num": 306838,
+        "word": "猎罪图鉴尺度",
+        "onboard_time": 1733842700,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 250085,
+        "word": "解读2025年经济政策关键词",
+        "onboard_time": 1733838862,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 247390,
+        "num": 247390,
+        "word": "李昀锐大学女友",
+        "onboard_time": 1733837900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237455,
+        "num": 237455,
+        "word": "中国女游客国外火车探身拍摄坠车",
+        "onboard_time": 1733845998,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 177594,
+        "word": "学生称超市老板挤走卖3.5元泡面档口",
+        "onboard_time": 1733846717,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162539,
+        "num": 162539,
+        "word": "真霸总不穿厚底鞋",
+        "onboard_time": 1733847977,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159930,
+        "num": 159930,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148447,
+        "num": 148447,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26300,
+        "num": 145201,
+        "word": "警方回应男子骑摩托车翻下桥身亡",
+        "onboard_time": 1733851454,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299660,
+        "num": 145060,
+        "word": "怀孕三个月女子遭家暴被踢孕肚",
+        "onboard_time": 1733840482,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143079,
+        "num": 143079,
+        "word": "男子酒后殴打怀三胎孕妻致多处受伤",
+        "onboard_time": 1733850256,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109676,
+        "num": 109676,
+        "word": "这部动画每一帧都是宝藏",
+        "onboard_time": 1733839642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97149,
+        "num": 97149,
+        "word": "一万七的小兰吧唧",
+        "onboard_time": 1733839461,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 96110,
+        "num": 96110,
+        "word": "猎罪图鉴2 娱乐圈原型",
+        "onboard_time": 1733832378,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94843,
+        "num": 94843,
+        "word": "虞书欣丁禹兮变装饭太香了",
+        "onboard_time": 1733844501,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94234,
+        "num": 94234,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1733837300,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93012,
+        "num": 93012,
+        "word": "长期使用日本网红眼药水视力仅剩0.1",
+        "onboard_time": 1733839342,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13789,
+        "num": 88267,
+        "word": "九重紫前世今生call back",
+        "onboard_time": 1733851454,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84316,
+        "num": 84316,
+        "word": "学院回应公示学生性别变更信息属实",
+        "onboard_time": 1733844799,
+        "rank": 19,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 90455,
+        "num": 84219,
+        "word": "专访敦煌话剧演员张艺兴",
+        "onboard_time": 1733839342,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83255,
+        "num": 83255,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77676,
+        "num": 77676,
+        "word": "孔雪儿金子涵合影",
+        "onboard_time": 1733838741,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77435,
+        "num": 77435,
+        "word": "李一桐 奶龙",
+        "onboard_time": 1733849235,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72316,
+        "num": 72316,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71191,
+        "num": 71191,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1733830338,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69998,
+        "num": 69998,
+        "word": "猎罪图鉴偶像案 是按番位杀的吗",
+        "onboard_time": 1733830579,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67954,
+        "num": 67954,
+        "word": "范玮琪哽咽谈过去五年经历",
+        "onboard_time": 1733836761,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66436,
+        "num": 66436,
+        "word": "徐海乔真演短剧男主了",
+        "onboard_time": 1733837241,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57982,
+        "num": 65991,
+        "word": "做完近视眼手术后的真实感受",
+        "onboard_time": 1733840962,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65871,
+        "num": 65871,
+        "word": "九重紫好虐",
+        "onboard_time": 1733844022,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60518,
+        "num": 60518,
+        "word": "丁禹兮千字长文告别慕声",
+        "onboard_time": 1733833399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60094,
+        "num": 60094,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37476,
+        "num": 60025,
+        "word": "孟子义小猫耳朵",
+        "onboard_time": 1733851035,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50995,
+        "num": 60009,
+        "word": "长的漂亮但拍照不上镜的人",
+        "onboard_time": 1733833339,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60003,
+        "num": 60003,
+        "word": "向佐 我怎么帅都没有我老婆美",
+        "onboard_time": 1733850075,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51842,
+        "num": 51842,
+        "word": "周子瑜应用心理学硕士",
+        "onboard_time": 1733842640,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51743,
+        "num": 51743,
+        "word": "太好了是猎罪图鉴2 期末没救了",
+        "onboard_time": 1733827159,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47818,
+        "num": 47818,
+        "word": "韩国会惩罚每一个吃不完外卖的人",
+        "onboard_time": 1733831719,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47338,
+        "num": 47338,
+        "word": "台称解放军在台岛周边部署规模超2022年",
+        "onboard_time": 1733822539,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47259,
+        "num": 47259,
+        "word": "青你的金子涵回来了",
+        "onboard_time": 1733833279,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46544,
+        "num": 46544,
+        "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+        "onboard_time": 1733833339,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 45323,
+        "num": 45323,
+        "word": "JDG疑似回应Ruler说伙食差",
+        "onboard_time": 1733840184,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45237,
+        "num": 45237,
+        "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+        "onboard_time": 1733837602,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41939,
+        "num": 45236,
+        "word": "杨仕泽说柳拂衣是职业生涯重要节点",
+        "onboard_time": 1733846778,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37807,
+        "num": 45230,
+        "word": "张本回应藏海传画面",
+        "onboard_time": 1733842101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36633,
+        "num": 45229,
+        "word": "男子称19岁被舅舅安排任办公室副主任",
+        "onboard_time": 1733824941,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35444,
+        "num": 45224,
+        "word": "庆余年里蜷着慢慢活的大宝具象化了",
+        "onboard_time": 1733843959,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33641,
+        "num": 45221,
+        "word": "女子买雪花酥被骂买不起就不要称",
+        "onboard_time": 1733837481,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33598,
+        "num": 45216,
+        "word": "布达佩斯短池世锦赛赛程",
+        "onboard_time": 1733851754,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十八次集体学习#"
+    }
+  }
+}

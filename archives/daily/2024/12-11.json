@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733851298055,
+  "endTime": 1733852436591,
   "band_list": [
     {
       "raw_hot": 1209492,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143079,
+      "num": 150776,
+      "word": "男子酒后殴打怀三胎孕妻致多处受伤",
+      "onboard_time": 1733850256,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138831,
       "num": 138831,
       "word": "专访敦煌话剧演员张艺兴",
@@ -380,11 +388,19 @@
     },
     {
       "raw_hot": 71294,
-      "num": 59436,
+      "num": 60003,
       "word": "向佐 我怎么帅都没有我老婆美",
       "onboard_time": 1733850075,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71191,
+      "num": 71191,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1733830338,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64025,
@@ -395,20 +411,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 51660,
-      "num": 150776,
-      "word": "男子酒后殴打怀三胎孕妻致多处受伤",
-      "onboard_time": 1733850256,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47562,
       "num": 76388,
       "word": "高校公示学生个人性别变更信息申请",
       "onboard_time": 1733838862,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47259,
+      "num": 47259,
+      "word": "青你的金子涵回来了",
+      "onboard_time": 1733833279,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 42769,
@@ -427,6 +443,14 @@
       "category": "正能量,财经"
     },
     {
+      "raw_hot": 37476,
+      "num": 125862,
+      "word": "孟子义小猫耳朵",
+      "onboard_time": 1733851035,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34224,
       "num": 56143,
       "word": "jellycat铁锅炖",
@@ -435,11 +459,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33598,
+      "num": 45216,
+      "word": "布达佩斯短池世锦赛赛程",
+      "onboard_time": 1733851754,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33098,
       "num": 55827,
       "word": "业主在车位停玩具车被物业砸坏",
       "onboard_time": 1733842041,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26300,
+      "num": 145201,
+      "word": "警方回应男子骑摩托车翻下桥身亡",
+      "onboard_time": 1733851454,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -467,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15553,
-      "num": 125862,
-      "word": "孟子义小猫耳朵",
-      "onboard_time": 1733851035,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15425,
       "num": 153258,
       "word": "黄雅琼梁王组合合照好欢乐",
       "onboard_time": 1733848038,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13789,
+      "num": 88267,
+      "word": "九重紫前世今生call back",
+      "onboard_time": 1733851454,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 9254,
