@@ -1,0 +1,402 @@
+{
+  "runTime": 1733801105228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1282194,
+        "num": 1282194,
+        "word": "韩国出土4块千年木简",
+        "onboard_time": 1733798657,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1107650,
+        "num": 1107650,
+        "word": "收留走失女硕士男子发声",
+        "onboard_time": 1733800639,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078573,
+        "num": 1078573,
+        "word": "4部影片定档春节档",
+        "onboard_time": 1733794998,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 754351,
+        "num": 754351,
+        "word": "腾讯视频会员权益调整",
+        "onboard_time": 1733792540,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 734782,
+        "num": 734782,
+        "word": "大妈为捡塑料瓶竟放火烧山",
+        "onboard_time": 1733796978,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516976,
+        "num": 516976,
+        "word": "杨紫白鹿新剧对打",
+        "onboard_time": 1733787076,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504997,
+        "num": 504997,
+        "word": "年轻人开始渴望加入睡门",
+        "onboard_time": 1733799198,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428017,
+        "num": 428017,
+        "word": "小学校长13年受贿949万",
+        "onboard_time": 1733791580,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 167226,
+        "num": 403474,
+        "word": "古偶剧的流量密码为什么失灵了",
+        "onboard_time": 1733799857,
+        "rank": 9,
+        "category": "议题讨论,作品衍生"
+      },
+      {
+        "raw_hot": 721943,
+        "num": 397958,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472256,
+        "num": 394645,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390985,
+        "num": 390985,
+        "word": "小时候很害怕BIGBANG",
+        "onboard_time": 1733789058,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132160,
+        "num": 353805,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 333645,
+        "num": 333645,
+        "word": "猎罪图鉴2今日开播",
+        "onboard_time": 1733799677,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307064,
+        "num": 307064,
+        "word": "英伟达市值一夜蒸发6400亿元",
+        "onboard_time": 1733791157,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75927,
+        "num": 288265,
+        "word": "百事黑神话",
+        "onboard_time": 1733796857,
+        "rank": 16,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 277556,
+        "num": 277556,
+        "word": "丁禹兮耳骨夹",
+        "onboard_time": 1733794577,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45971,
+        "num": 257348,
+        "word": "清明上河图密码",
+        "onboard_time": 1733800758,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247425,
+        "num": 247425,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 531920,
+        "num": 247402,
+        "word": "洗浴中心多人出现不适亲历者发声",
+        "onboard_time": 1733754982,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498084,
+        "num": 247381,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300505,
+        "num": 247348,
+        "word": "戒咖啡一个月身体的变化",
+        "onboard_time": 1733793197,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251831,
+        "num": 247335,
+        "word": "原来年终奖和十三薪的区别这么大",
+        "onboard_time": 1733791520,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 247318,
+        "num": 247318,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249991,
+        "num": 246595,
+        "word": "泰国女歌手3次按摩后瘫痪",
+        "onboard_time": 1733800038,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244708,
+        "num": 244708,
+        "word": "45岁以上高血压患病率已近六成",
+        "onboard_time": 1733795478,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239529,
+        "num": 239529,
+        "word": "深情眼开机",
+        "onboard_time": 1733799739,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214505,
+        "num": 214505,
+        "word": "股市",
+        "onboard_time": 1733795598,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26472,
+        "num": 210189,
+        "word": "大学生和高中生的区别",
+        "onboard_time": 1733800758,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207830,
+        "num": 207830,
+        "word": "叙利亚被释囚犯询问发生啥事啦",
+        "onboard_time": 1733758579,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192118,
+        "num": 192118,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178889,
+        "num": 178889,
+        "word": "李昀锐演技",
+        "onboard_time": 1733787856,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160701,
+        "num": 160701,
+        "word": "电影窗前明月咣定档",
+        "onboard_time": 1733798417,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160161,
+        "num": 160161,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "我是刑警豆瓣7.8分合理吗",
+        "onboard_time": 1733794879,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "D社元旦公布新情侣",
+        "onboard_time": 1733786294,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148004,
+        "num": 148004,
+        "word": "英伟达称乐意回答监管的任何问题",
+        "onboard_time": 1733795959,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143402,
+        "num": 143402,
+        "word": "范丞丞回跑男要和李晨比肌肉",
+        "onboard_time": 1733790139,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128754,
+        "num": 138000,
+        "word": "曝iG与TES同组",
+        "onboard_time": 1733799677,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136184,
+        "num": 136184,
+        "word": "哪吒2定档大年初一",
+        "onboard_time": 1733794459,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 133045,
+        "word": "小猫抱小狗",
+        "onboard_time": 1733800278,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130711,
+        "num": 130711,
+        "word": "老中青三代文艺工作者感悟深扎路",
+        "onboard_time": 1733798417,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127546,
+        "num": 127546,
+        "word": "余华英案12月19日重审二审开庭",
+        "onboard_time": 1733795779,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 124180,
+        "num": 124180,
+        "word": "国产动画 从神到人",
+        "onboard_time": 1733799137,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120685,
+        "num": 120685,
+        "word": "离岸人民币",
+        "onboard_time": 1733798237,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115109,
+        "num": 115109,
+        "word": "踮脚是一个全身器官都爱的动作",
+        "onboard_time": 1733798898,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114697,
+        "num": 114697,
+        "word": "小米YU7正进行大规模路测",
+        "onboard_time": 1733800819,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103835,
+        "num": 103835,
+        "word": "枪杀美医保巨头高管嫌疑人落网",
+        "onboard_time": 1733797457,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103406,
+        "num": 103406,
+        "word": "尊界S800工信部公示",
+        "onboard_time": 1733798359,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央召开党外人士座谈会#"
+    }
+  }
+}

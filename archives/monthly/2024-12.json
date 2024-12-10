@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733800104902,
+  "endTime": 1733801105228,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1275,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1282194,
+      "num": 1282194,
+      "word": "韩国出土4块千年木简",
+      "onboard_time": 1733798657,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1269417,
       "num": 533010,
       "word": "欣诚则凌",
@@ -1617,6 +1625,14 @@
       "onboard_time": 1733575700,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1107650,
+      "num": 1107650,
+      "word": "收留走失女硕士男子发声",
+      "onboard_time": 1733800639,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1103474,
@@ -3179,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734782,
+      "num": 734782,
+      "word": "大妈为捡塑料瓶竟放火烧山",
+      "onboard_time": 1733796978,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734477,
       "num": 452649,
       "word": "天生爱豆四帅",
@@ -3592,14 +3616,6 @@
       "word": "生完双胞胎儿子又再添三胞胎女儿",
       "onboard_time": 1733048418,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 676680,
-      "num": 676680,
-      "word": "大妈为捡塑料瓶竟放火烧山",
-      "onboard_time": 1733796978,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -4755,14 +4771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 548745,
-      "num": 548745,
-      "word": "韩国出土4块千年木简",
-      "onboard_time": 1733798657,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 548599,
       "num": 901058,
       "word": "韩国部分网站瘫痪",
@@ -5393,6 +5401,14 @@
       "onboard_time": 1733585482,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 504997,
+      "num": 504997,
+      "word": "年轻人开始渴望加入睡门",
+      "onboard_time": 1733799198,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 504383,
@@ -8451,6 +8467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333645,
+      "num": 333645,
+      "word": "猎罪图鉴2今日开播",
+      "onboard_time": 1733799677,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333270,
       "num": 564080,
       "word": "阿萨德离开叙利亚",
@@ -10715,6 +10739,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 249991,
+      "num": 246595,
+      "word": "泰国女歌手3次按摩后瘫痪",
+      "onboard_time": 1733800038,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249719,
       "num": 249719,
       "word": "朱志鑫剪头发",
@@ -11209,6 +11241,14 @@
       "onboard_time": 1733190677,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239529,
+      "num": 294291,
+      "word": "深情眼开机",
+      "onboard_time": 1733799739,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 239448,
@@ -11851,14 +11891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226416,
-      "num": 226416,
-      "word": "年轻人开始渴望加入睡门",
-      "onboard_time": 1733799198,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226355,
       "num": 287343,
       "word": "潘展乐追星成功",
@@ -12411,6 +12443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214505,
+      "num": 214505,
+      "word": "股市",
+      "onboard_time": 1733795598,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 214289,
       "num": 214289,
       "word": "今年二十二",
@@ -12729,14 +12769,6 @@
       "onboard_time": 1733236585,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 209401,
-      "num": 209401,
-      "word": "股市",
-      "onboard_time": 1733795598,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 209310,
@@ -13169,14 +13201,6 @@
       "onboard_time": 1733048240,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203818,
-      "num": 294291,
-      "word": "深情眼开机",
-      "onboard_time": 1733799739,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 203741,
@@ -13947,14 +13971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 196037,
-      "num": 196037,
-      "word": "猎罪图鉴2今日开播",
-      "onboard_time": 1733799677,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195810,
       "num": 195810,
       "word": "咖啡喝太多对神经系统造成伤害",
@@ -14417,6 +14433,14 @@
       "onboard_time": 1733721858,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192118,
+      "num": 192118,
+      "word": "易烊千玺说更喜欢扎根的工作",
+      "onboard_time": 1733800517,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 191984,
@@ -16961,6 +16985,14 @@
       "onboard_time": 1733376680,
       "rank": 18,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 167226,
+      "num": 475544,
+      "word": "古偶剧的流量密码为什么失灵了",
+      "onboard_time": 1733799857,
+      "rank": 9,
+      "category": "议题讨论,作品衍生"
     },
     {
       "raw_hot": 167212,
@@ -20931,6 +20963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133045,
+      "num": 133045,
+      "word": "小猫抱小狗",
+      "onboard_time": 1733800278,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133023,
       "num": 422530,
       "word": "尹锡悦弹劾案可能出现四种结果",
@@ -20985,6 +21025,14 @@
       "onboard_time": 1733537898,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132160,
+      "num": 353805,
+      "word": "一块吧唧被炒到7万多背后",
+      "onboard_time": 1733800218,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 132139,
@@ -22195,6 +22243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120685,
+      "num": 120685,
+      "word": "离岸人民币",
+      "onboard_time": 1733798237,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120635,
       "num": 120635,
       "word": "A股放量2902亿",
@@ -22595,14 +22651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116125,
-      "num": 116125,
-      "word": "泰国女歌手3次按摩后瘫痪",
-      "onboard_time": 1733800038,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116080,
       "num": 193549,
       "word": "我是刑警第3个恶性大案",
@@ -22683,6 +22731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115109,
+      "num": 335882,
+      "word": "踮脚是一个全身器官都爱的动作",
+      "onboard_time": 1733798898,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115080,
       "num": 115080,
       "word": "哈尔滨冰雪大世界惊艳建造",
@@ -22729,6 +22785,14 @@
       "onboard_time": 1733086630,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114697,
+      "num": 114697,
+      "word": "小米YU7正进行大规模路测",
+      "onboard_time": 1733800819,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 114656,
@@ -24603,14 +24667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93645,
-      "num": 475544,
-      "word": "古偶剧的流量密码为什么失灵了",
-      "onboard_time": 1733799857,
-      "rank": 9,
-      "category": "议题讨论,作品衍生"
-    },
-    {
       "raw_hot": 93599,
       "num": 125886,
       "word": "鹭卓不断航行",
@@ -25971,6 +26027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75927,
+      "num": 339645,
+      "word": "百事黑神话",
+      "onboard_time": 1733796857,
+      "rank": 43,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 75869,
       "num": 767105,
       "word": "这样的文物戏精亮了",
@@ -26057,14 +26121,6 @@
       "onboard_time": 1733052258,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 74627,
-      "num": 335882,
-      "word": "踮脚是一个全身器官都爱的动作",
-      "onboard_time": 1733798898,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 74150,
@@ -27049,14 +27105,6 @@
       "onboard_time": 1733494340,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61377,
-      "num": 339645,
-      "word": "百事黑神话",
-      "onboard_time": 1733796857,
-      "rank": 43,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 61354,
@@ -28753,6 +28801,14 @@
       "onboard_time": 1733562319,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45971,
+      "num": 257348,
+      "word": "清明上河图密码",
+      "onboard_time": 1733800758,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 45924,
@@ -31152,6 +31208,14 @@
       "word": "本科专业大洗牌背后的调整逻辑",
       "onboard_time": 1733765773,
       "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 26472,
+      "num": 210189,
+      "word": "大学生和高中生的区别",
+      "onboard_time": 1733800758,
+      "rank": 29,
       "category": "教育"
     },
     {
