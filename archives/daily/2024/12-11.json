@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733856445839,
+  "endTime": 1733858414150,
   "band_list": [
     {
       "raw_hot": 1209492,
@@ -523,8 +523,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22833,
-      "num": 22833,
+      "raw_hot": 25840,
+      "num": 25840,
       "word": "谁超话大咖15级写的台词",
       "onboard_time": 1733856192,
       "rank": 47,
@@ -545,6 +545,38 @@
       "onboard_time": 1733850256,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21105,
+      "num": 21105,
+      "word": "日本人不知道南京大屠杀是日本之耻",
+      "onboard_time": 1733856431,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19577,
+      "num": 50995,
+      "word": "紫燕百味鸡仅提供钵钵鸡调味料合格报告",
+      "onboard_time": 1733855833,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 17980,
+      "num": 20203,
+      "word": "猎罪图鉴2 猫猫狗狗",
+      "onboard_time": 1733853132,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16795,
+      "num": 20201,
+      "word": "群星耀东方阵容",
+      "onboard_time": 1733857511,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 16491,
