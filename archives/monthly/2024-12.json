@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733840630607,
+  "endTime": 1733841810133,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1886551,
-      "num": 621406,
+      "num": 648926,
       "word": "李昀锐大学女友",
       "onboard_time": 1733837900,
       "rank": 20,
@@ -2257,6 +2257,14 @@
       "onboard_time": 1733397379,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 952343,
+      "num": 607088,
+      "word": "徐艺洋直播带货",
+      "onboard_time": 1733840782,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 951829,
@@ -4107,6 +4115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 648878,
+      "num": 648878,
+      "word": "女子买雪花酥被骂买不起就不要称",
+      "onboard_time": 1733837481,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 647969,
       "num": 482064,
       "word": "鹿晗体重只有55kg",
@@ -4299,6 +4315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 630604,
+      "num": 630604,
+      "word": "叙利亚局势进展",
+      "onboard_time": 1733838020,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 630410,
       "num": 397137,
       "word": "微信提现可以免手续费了",
@@ -4353,6 +4377,14 @@
       "onboard_time": 1733621898,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 625826,
+      "num": 353362,
+      "word": "范玮琪哽咽谈过去五年经历",
+      "onboard_time": 1733836761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 625764,
@@ -4707,14 +4739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 591653,
-      "num": 353362,
-      "word": "范玮琪哽咽谈过去五年经历",
-      "onboard_time": 1733836761,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -4745,14 +4769,6 @@
       "onboard_time": 1733831899,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 586787,
-      "num": 586787,
-      "word": "叙利亚局势进展",
-      "onboard_time": 1733838020,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 583573,
@@ -5561,6 +5577,14 @@
       "onboard_time": 1733578343,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 519919,
+      "num": 519919,
+      "word": "怀孕三个月女子遭家暴被踢孕肚",
+      "onboard_time": 1733840482,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 519226,
@@ -6497,6 +6521,14 @@
       "onboard_time": 1733390660,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 461252,
+      "num": 379028,
+      "word": "猎罪图鉴2已经是nextlevel了",
+      "onboard_time": 1733837300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 461123,
@@ -9043,6 +9075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339403,
+      "num": 237809,
+      "word": "一万七的小兰吧唧",
+      "onboard_time": 1733839461,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 339076,
       "num": 398611,
       "word": "金高银辛芷蕾同框",
@@ -9473,14 +9513,6 @@
       "onboard_time": 1733814201,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 320484,
-      "num": 320484,
-      "word": "女子买雪花酥被骂买不起就不要称",
-      "onboard_time": 1733837481,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320409,
@@ -10161,14 +10193,6 @@
       "onboard_time": 1733712737,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294703,
-      "num": 379028,
-      "word": "猎罪图鉴2已经是nextlevel了",
-      "onboard_time": 1733837300,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 294569,
@@ -11852,7 +11876,7 @@
     },
     {
       "raw_hot": 243422,
-      "num": 219706,
+      "num": 237383,
       "word": "于适从CCTV6干到CCTV5",
       "onboard_time": 1733831239,
       "rank": 31,
@@ -12987,6 +13011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222968,
+      "num": 311423,
+      "word": "高校公示学生个人性别变更信息申请",
+      "onboard_time": 1733838862,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222909,
       "num": 222909,
       "word": "抖音副总裁疑回应钟睒睒",
@@ -13147,6 +13179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220378,
+      "num": 236712,
+      "word": "JDG疑似回应Ruler说伙食差",
+      "onboard_time": 1733840184,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220077,
       "num": 220077,
       "word": "APPLE MUSIC年度最热歌曲",
@@ -13251,6 +13291,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 217584,
+      "num": 237233,
+      "word": "赵雅芝 71岁饭撒的神",
+      "onboard_time": 1733840301,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217547,
       "num": 217547,
       "word": "前体操运动员刘璇疑似影射吴柳芳",
@@ -13313,14 +13361,6 @@
       "onboard_time": 1733028619,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216250,
-      "num": 216250,
-      "word": "一万七的小兰吧唧",
-      "onboard_time": 1733839461,
-      "rank": 36,
-      "category": "动漫"
     },
     {
       "raw_hot": 216218,
@@ -13619,14 +13659,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210971,
-      "num": 210971,
-      "word": "JDG疑似回应Ruler说伙食差",
-      "onboard_time": 1733840184,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 210938,
       "num": 210938,
       "word": "广州地铁客服回应安检新规",
@@ -13881,6 +13913,14 @@
       "onboard_time": 1733102478,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207731,
+      "num": 236060,
+      "word": "昭昭墨墨终有一抱",
+      "onboard_time": 1733841142,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207445,
@@ -14579,6 +14619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200772,
+      "num": 308630,
+      "word": "长期使用日本网红眼药水视力仅剩0.1",
+      "onboard_time": 1733839342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200763,
       "num": 200763,
       "word": "秦海璐小说里重生文都这样",
@@ -14665,6 +14713,14 @@
       "onboard_time": 1733722580,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199855,
+      "num": 192662,
+      "word": "丁禹兮祝绪丹一个耳背一个背梗",
+      "onboard_time": 1733841260,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 199835,
@@ -15081,6 +15137,14 @@
       "onboard_time": 1733122637,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196283,
+      "num": 196283,
+      "word": "做完近视眼手术后的真实感受",
+      "onboard_time": 1733840962,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196246,
@@ -15617,6 +15681,14 @@
       "onboard_time": 1733721858,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192220,
+      "num": 192220,
+      "word": "朱志鑫又跳了LoveShot",
+      "onboard_time": 1733840722,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 191984,
@@ -17243,14 +17315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177849,
-      "num": 311423,
-      "word": "高校公示学生个人性别变更信息申请",
-      "onboard_time": 1733838862,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177769,
       "num": 297196,
       "word": "王一博说杭州是一座自然之城",
@@ -18571,14 +18635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 165435,
-      "num": 308630,
-      "word": "长期使用日本网红眼药水视力仅剩0.1",
-      "onboard_time": 1733839342,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165434,
       "num": 165434,
       "word": "51岁阿姨一天打两份工的老年生活",
@@ -19137,14 +19193,6 @@
       "onboard_time": 1733101279,
       "rank": 40,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 160054,
-      "num": 160054,
-      "word": "怀孕三个月女子遭家暴被踢孕肚",
-      "onboard_time": 1733840482,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 159947,
@@ -22033,6 +22081,14 @@
       "onboard_time": 1733786596,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137288,
+      "num": 310508,
+      "word": "专访敦煌话剧演员张艺兴",
+      "onboard_time": 1733839342,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 137277,
@@ -25219,6 +25275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107194,
+      "num": 314147,
+      "word": "钻石的天价神话是怎么破灭的",
+      "onboard_time": 1733839762,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 107136,
       "num": 919329,
       "word": "2024这些精美文物成了网红爆款",
@@ -26691,6 +26755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90738,
+      "num": 236908,
+      "word": "这部动画每一帧都是宝藏",
+      "onboard_time": 1733839642,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90711,
       "num": 269339,
       "word": "郑业成用四川话回复赵露思",
@@ -27619,6 +27691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79416,
+      "num": 211336,
+      "word": "沈月买土耳其冰激凌",
+      "onboard_time": 1733836281,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79346,
       "num": 402479,
       "word": "李宇春清唱春风十里",
@@ -27705,6 +27785,14 @@
       "onboard_time": 1733724497,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78463,
+      "num": 648934,
+      "word": "解读2025年经济政策关键词",
+      "onboard_time": 1733838862,
+      "rank": 2,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 78303,
@@ -28163,14 +28251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 72172,
-      "num": 314147,
-      "word": "钻石的天价神话是怎么破灭的",
-      "onboard_time": 1733839762,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 72063,
       "num": 213583,
       "word": "李多寅晒女儿背影照",
@@ -28241,6 +28321,14 @@
       "onboard_time": 1733290101,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71060,
+      "num": 238273,
+      "word": "700人报名领养考编失败搜救犬",
+      "onboard_time": 1733840902,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70960,
@@ -29803,14 +29891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55034,
-      "num": 644631,
-      "word": "解读2025年经济政策关键词",
-      "onboard_time": 1733838862,
-      "rank": 2,
-      "category": "正能量,财经"
-    },
-    {
       "raw_hot": 55023,
       "num": 389735,
       "word": "国乒决赛阵容公布",
@@ -30545,6 +30625,14 @@
       "onboard_time": 1733466800,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49443,
+      "num": 303867,
+      "word": "紫燕百味鸡线上线下产品来自不同厂",
+      "onboard_time": 1733839762,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 49247,
@@ -32705,14 +32793,6 @@
       "onboard_time": 1733203700,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32262,
-      "num": 303867,
-      "word": "紫燕百味鸡线上线下产品来自不同厂",
-      "onboard_time": 1733839762,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 32261,
