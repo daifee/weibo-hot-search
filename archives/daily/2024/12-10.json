@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733820364501,
+  "endTime": 1733822815733,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1070639,
-      "num": 545402,
+      "num": 998075,
       "word": "谢娜是乐华的第一个艺人",
       "onboard_time": 1733815821,
       "rank": 23,
@@ -201,6 +201,14 @@
       "onboard_time": 1733812340,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777893,
+      "num": 777893,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1733820859,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 768118,
@@ -283,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 630182,
+      "num": 630182,
+      "word": "迪丽热巴方确认不参加星光大赏",
+      "onboard_time": 1733819540,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 629272,
+      "num": 450276,
+      "word": "严浩翔新歌疑似抄袭",
+      "onboard_time": 1733819720,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 614110,
       "num": 530857,
       "word": "南部档案",
@@ -355,6 +379,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 501772,
+      "num": 526905,
+      "word": "女子为逃避欠款自导自演丢了10万",
+      "onboard_time": 1733818758,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501417,
       "num": 501417,
       "word": "英伟达市值一夜蒸发6400亿元",
@@ -409,6 +441,14 @@
       "onboard_time": 1733804059,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448593,
+      "num": 448593,
+      "word": "双轨男主",
+      "onboard_time": 1733820682,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 445780,
@@ -491,14 +531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 425360,
-      "num": 255595,
-      "word": "迪丽热巴方确认不参加星光大赏",
-      "onboard_time": 1733819540,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 421985,
       "num": 421985,
       "word": "涉嫌违反反垄断法英伟达被立案调查",
@@ -531,12 +563,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 384340,
-      "num": 250771,
-      "word": "严浩翔新歌疑似抄袭",
-      "onboard_time": 1733819720,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 387999,
+      "num": 309841,
+      "word": "范玮琪回来了",
+      "onboard_time": 1733817680,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 378936,
@@ -547,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376288,
-      "num": 309841,
-      "word": "范玮琪回来了",
-      "onboard_time": 1733817680,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 371653,
+      "num": 287705,
+      "word": "李昀锐是孟子义一级铁粉",
+      "onboard_time": 1733820439,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 364607,
@@ -659,11 +691,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318094,
-      "num": 526905,
-      "word": "女子为逃避欠款自导自演丢了10万",
-      "onboard_time": 1733818758,
-      "rank": 9,
+      "raw_hot": 310152,
+      "num": 310152,
+      "word": "理发师晓华谈到孩子差点儿落泪",
+      "onboard_time": 1733820619,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -673,6 +705,14 @@
       "onboard_time": 1733801179,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 292821,
+      "num": 292821,
+      "word": "黑神话悟空有地图了",
+      "onboard_time": 1733820740,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 289938,
@@ -705,6 +745,22 @@
       "onboard_time": 1733803999,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277133,
+      "num": 277133,
+      "word": "美世界500强公司CEO遭枪击身亡",
+      "onboard_time": 1733822539,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 269676,
+      "num": 269676,
+      "word": "安陵容杀回来了",
+      "onboard_time": 1733820800,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 265012,
@@ -827,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231526,
+      "num": 231526,
+      "word": "黑神话悟空",
+      "onboard_time": 1733822180,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 228753,
       "num": 228753,
       "word": "范丞丞 看看我还要澄清什么",
@@ -864,6 +928,14 @@
       "word": "我是刑警豆瓣7.8分合理吗",
       "onboard_time": 1733794879,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224370,
+      "num": 224370,
+      "word": "肖战素衣束发",
+      "onboard_time": 1733822479,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -921,6 +993,14 @@
       "onboard_time": 1733798417,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211615,
+      "num": 211615,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733822059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 209596,
@@ -1011,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198155,
+      "num": 198155,
+      "word": "藏海传首发预告",
+      "onboard_time": 1733822001,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198154,
       "num": 198154,
       "word": "国产动画 从神到人",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1733802259,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196814,
+      "num": 291426,
+      "word": "肖战藏海歪嘴笑",
+      "onboard_time": 1733822001,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 196363,
@@ -1043,6 +1139,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194699,
+      "num": 194699,
+      "word": "中国为何会对英伟达动手",
+      "onboard_time": 1733819839,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 194005,
+      "num": 194005,
+      "word": "央视片单",
+      "onboard_time": 1733820081,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193449,
       "num": 193449,
       "word": "文韬 高级谈判专家",
@@ -1056,14 +1168,6 @@
       "word": "檀健次端水式直播",
       "onboard_time": 1733808319,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 192494,
-      "num": 192494,
-      "word": "央视片单",
-      "onboard_time": 1733820081,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1081,6 +1185,14 @@
       "onboard_time": 1733807959,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189552,
+      "num": 189552,
+      "word": "台称解放军在台岛周边部署规模超2022年",
+      "onboard_time": 1733822539,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188817,
@@ -1323,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "猫咪去世前用最后17秒告别主人",
+      "onboard_time": 1733822599,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154294,
       "num": 501863,
       "word": "一米长糖葫芦成情侣秀恩爱顶流",
@@ -1371,14 +1491,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 149967,
-      "num": 149967,
-      "word": "中国为何会对英伟达动手",
-      "onboard_time": 1733819839,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147629,
       "num": 147629,
       "word": "aespa黑胶唱片",
@@ -1401,6 +1513,14 @@
       "onboard_time": 1733811500,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145319,
+      "num": 145319,
+      "word": "干巴酸奶",
+      "onboard_time": 1733821699,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 145313,
@@ -1675,6 +1795,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 113716,
+      "num": 413087,
+      "word": "替父母越界养老的年轻人该何去何从",
+      "onboard_time": 1733821278,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 113244,
       "num": 528261,
       "word": "央视起底虚拟直播间产业链",
@@ -1817,6 +1945,14 @@
       "onboard_time": 1733816900,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97054,
+      "num": 227020,
+      "word": "A50意外跳水几乎抹掉昨日涨幅",
+      "onboard_time": 1733822780,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 97049,
@@ -2291,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38551,
+      "num": 450542,
+      "word": "盲道不仅要指路更要保障盲人安全",
+      "onboard_time": 1733821821,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 38047,
       "num": 229636,
       "word": "陈凯琳再回应与郑嘉颖婚变",
@@ -2443,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22038,
+      "num": 800951,
+      "word": "2025年财政和货币政策有哪些变化",
+      "onboard_time": 1733822121,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 21473,
       "num": 23095,
       "word": "微博音乐大赏启动",
@@ -2489,6 +2641,14 @@
       "onboard_time": 1733760618,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14949,
+      "num": 291001,
+      "word": "郑嘉颖对被传离婚的态度",
+      "onboard_time": 1733821821,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14230,
@@ -2580,6 +2740,9 @@
     },
     {
       "word": "#为实现十五五良好开局打牢基础#"
+    },
+    {
+      "word": "#推进中国式现代化边疆地区一个都不能少#"
     }
   ]
 }
