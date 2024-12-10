@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733838288858,
+  "endTime": 1733840630607,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -521,6 +521,14 @@
       "onboard_time": 1733713938,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1886551,
+      "num": 621406,
+      "word": "李昀锐大学女友",
+      "onboard_time": 1733837900,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1885054,
@@ -3683,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 706222,
+      "num": 706222,
+      "word": "财政局报案称被人诈骗近三千万元",
+      "onboard_time": 1733838140,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704246,
       "num": 251245,
       "word": "微信运动太暴露隐私了",
@@ -4691,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591653,
+      "num": 353362,
+      "word": "范玮琪哽咽谈过去五年经历",
+      "onboard_time": 1733836761,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1733831899,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 586787,
+      "num": 586787,
+      "word": "叙利亚局势进展",
+      "onboard_time": 1733838020,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 583573,
@@ -6051,6 +6083,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 486806,
+      "num": 311596,
+      "word": "孔雪儿金子涵合影",
+      "onboard_time": 1733838741,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 486240,
       "num": 486240,
       "word": "丁禹兮工作室 降龙十八掌",
@@ -6121,14 +6161,6 @@
       "onboard_time": 1733277499,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 482415,
-      "num": 320578,
-      "word": "李昀锐大学女友",
-      "onboard_time": 1733837900,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 482256,
@@ -8611,6 +8643,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 355440,
+      "num": 305951,
+      "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+      "onboard_time": 1733837602,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354898,
       "num": 354898,
       "word": "琼瑶的作品对你有何影响",
@@ -8648,14 +8688,6 @@
       "word": "艾克里里跟杨紫竟然是好朋友",
       "onboard_time": 1733206220,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 353362,
-      "num": 353362,
-      "word": "范玮琪哽咽谈过去五年经历",
-      "onboard_time": 1733836761,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -9443,6 +9475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 320484,
+      "num": 320484,
+      "word": "女子买雪花酥被骂买不起就不要称",
+      "onboard_time": 1733837481,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320409,
       "num": 236781,
       "word": "老人摔倒瞬间大哥滑铲接住头部",
@@ -9811,14 +9851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 305951,
-      "num": 305951,
-      "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
-      "onboard_time": 1733837602,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305480,
       "num": 305480,
       "word": "光与夜之恋 线条小狗",
@@ -10019,14 +10051,6 @@
       "category": "综艺,时尚"
     },
     {
-      "raw_hot": 297788,
-      "num": 418220,
-      "word": "叙利亚局势进展",
-      "onboard_time": 1733838020,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 297695,
       "num": 297695,
       "word": "我是刑警叹为观止的测谎逻辑",
@@ -10137,6 +10161,14 @@
       "onboard_time": 1733712737,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294703,
+      "num": 379028,
+      "word": "猎罪图鉴2已经是nextlevel了",
+      "onboard_time": 1733837300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 294569,
@@ -11820,7 +11852,7 @@
     },
     {
       "raw_hot": 243422,
-      "num": 179580,
+      "num": 219706,
       "word": "于适从CCTV6干到CCTV5",
       "onboard_time": 1733831239,
       "rank": 31,
@@ -12137,6 +12169,14 @@
       "onboard_time": 1733816720,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237238,
+      "num": 237238,
+      "word": "jellycat铁锅炖",
+      "onboard_time": 1733838442,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 237159,
@@ -13235,6 +13275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217222,
+      "num": 217222,
+      "word": "陈梦抵达挪威出战老瓦杯",
+      "onboard_time": 1733837960,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217031,
       "num": 266000,
       "word": "肖战方取证维权",
@@ -13265,6 +13313,14 @@
       "onboard_time": 1733028619,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216250,
+      "num": 216250,
+      "word": "一万七的小兰吧唧",
+      "onboard_time": 1733839461,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 216218,
@@ -13561,6 +13617,14 @@
       "onboard_time": 1733300069,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210971,
+      "num": 210971,
+      "word": "JDG疑似回应Ruler说伙食差",
+      "onboard_time": 1733840184,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 210938,
@@ -14345,6 +14409,14 @@
       "onboard_time": 1733026219,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202256,
+      "num": 202256,
+      "word": "沈翊训狗",
+      "onboard_time": 1733838560,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 202213,
@@ -16027,14 +16099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188294,
-      "num": 188294,
-      "word": "女子买雪花酥被骂买不起就不要称",
-      "onboard_time": 1733837481,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188247,
       "num": 328212,
       "word": "王楚钦孙颖莎回应国乒八连胜",
@@ -17179,6 +17243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177849,
+      "num": 311423,
+      "word": "高校公示学生个人性别变更信息申请",
+      "onboard_time": 1733838862,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177769,
       "num": 297196,
       "word": "王一博说杭州是一座自然之城",
@@ -17569,6 +17641,14 @@
       "onboard_time": 1733545579,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173772,
+      "num": 173772,
+      "word": "鼻炎患者也有属于自己的小宝贝了",
+      "onboard_time": 1733839162,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 173663,
@@ -18107,14 +18187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168449,
-      "num": 168449,
-      "word": "陈梦抵达挪威出战老瓦杯",
-      "onboard_time": 1733837960,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168353,
       "num": 246309,
       "word": "羽生结弦echoes of life",
@@ -18497,6 +18569,14 @@
       "onboard_time": 1733751140,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 165435,
+      "num": 308630,
+      "word": "长期使用日本网红眼药水视力仅剩0.1",
+      "onboard_time": 1733839342,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165434,
@@ -19057,6 +19137,14 @@
       "onboard_time": 1733101279,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 160054,
+      "num": 160054,
+      "word": "怀孕三个月女子遭家暴被踢孕肚",
+      "onboard_time": 1733840482,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 159947,
@@ -19907,6 +19995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154145,
+      "num": 268538,
+      "word": "药王谷治癌中医本人不会号脉",
+      "onboard_time": 1733835861,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -20001,6 +20097,14 @@
       "onboard_time": 1733030539,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152990,
+      "num": 305442,
+      "word": "赵雅芝叶童好甜",
+      "onboard_time": 1733839762,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 152984,
@@ -22835,14 +22939,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129599,
-      "num": 268538,
-      "word": "药王谷治癌中医本人不会号脉",
-      "onboard_time": 1733835861,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 129503,
       "num": 129503,
       "word": "日本人不知南京大屠杀是日本之耻",
@@ -23617,14 +23713,6 @@
       "onboard_time": 1733401880,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 122406,
-      "num": 122406,
-      "word": "财政局报案称被人诈骗近三千万元",
-      "onboard_time": 1733838140,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122298,
@@ -26763,14 +26851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88852,
-      "num": 379028,
-      "word": "猎罪图鉴2已经是nextlevel了",
-      "onboard_time": 1733837300,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88702,
       "num": 88702,
       "word": "怀上九胞胎女子减7胎后出院",
@@ -27033,6 +27113,14 @@
       "onboard_time": 1733766973,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84263,
+      "num": 305268,
+      "word": "小鬼KTV式直播",
+      "onboard_time": 1733839461,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 84256,
@@ -28075,6 +28163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72172,
+      "num": 314147,
+      "word": "钻石的天价神话是怎么破灭的",
+      "onboard_time": 1733839762,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 72063,
       "num": 213583,
       "word": "李多寅晒女儿背影照",
@@ -28681,6 +28777,14 @@
       "onboard_time": 1733414178,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65701,
+      "num": 297913,
+      "word": "潘展乐说越没有挑战越没有意思",
+      "onboard_time": 1733840002,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 65658,
@@ -29697,6 +29801,14 @@
       "onboard_time": 1733026938,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55034,
+      "num": 644631,
+      "word": "解读2025年经济政策关键词",
+      "onboard_time": 1733838862,
+      "rank": 2,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 55023,
@@ -32593,6 +32705,14 @@
       "onboard_time": 1733203700,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32262,
+      "num": 303867,
+      "word": "紫燕百味鸡线上线下产品来自不同厂",
+      "onboard_time": 1733839762,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32261,
@@ -36241,6 +36361,9 @@
     },
     {
       "word": "#中共中央政治局第十八次集体学习#"
+    },
+    {
+      "word": "#推进边疆治理体系和治理能力现代化#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1733840630607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221485,
+        "num": 1221485,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 706222,
+        "num": 706222,
+        "word": "财政局报案称被人诈骗近三千万元",
+        "onboard_time": 1733838140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55034,
+        "num": 644631,
+        "word": "解读2025年经济政策关键词",
+        "onboard_time": 1733838862,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1886551,
+        "num": 621406,
+        "word": "李昀锐大学女友",
+        "onboard_time": 1733837900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586787,
+        "num": 586787,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320484,
+        "num": 320484,
+        "word": "女子买雪花酥被骂买不起就不要称",
+        "onboard_time": 1733837481,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 656024,
+        "num": 319653,
+        "word": "黄圣依在花钱上是大清醒女主",
+        "onboard_time": 1733836700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617553,
+        "num": 317309,
+        "word": "猎罪图鉴2 娱乐圈原型",
+        "onboard_time": 1733832378,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314446,
+        "num": 314446,
+        "word": "乒超赛程",
+        "onboard_time": 1733836099,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72172,
+        "num": 314147,
+        "word": "钻石的天价神话是怎么破灭的",
+        "onboard_time": 1733839762,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 591653,
+        "num": 313441,
+        "word": "范玮琪哽咽谈过去五年经历",
+        "onboard_time": 1733836761,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 486806,
+        "num": 311596,
+        "word": "孔雪儿金子涵合影",
+        "onboard_time": 1733838741,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177849,
+        "num": 311423,
+        "word": "高校公示学生个人性别变更信息申请",
+        "onboard_time": 1733838862,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464260,
+        "num": 309740,
+        "word": "男子称19岁被舅舅安排任办公室副主任",
+        "onboard_time": 1733824941,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165435,
+        "num": 308630,
+        "word": "长期使用日本网红眼药水视力仅剩0.1",
+        "onboard_time": 1733839342,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410675,
+        "num": 307991,
+        "word": "推测蔡国强无人机坠海原因",
+        "onboard_time": 1733832498,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18940,
+        "num": 306605,
+        "word": "马思纯苏翊鸣成都喊话来耍",
+        "onboard_time": 1733836821,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 152990,
+        "num": 305442,
+        "word": "赵雅芝叶童好甜",
+        "onboard_time": 1733839762,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84263,
+        "num": 305268,
+        "word": "小鬼KTV式直播",
+        "onboard_time": 1733839461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32262,
+        "num": 303867,
+        "word": "紫燕百味鸡线上线下产品来自不同厂",
+        "onboard_time": 1733839762,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 424019,
+        "num": 303156,
+        "word": "徐海乔真演短剧男主了",
+        "onboard_time": 1733837241,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302440,
+        "num": 302440,
+        "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+        "onboard_time": 1733833339,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 367319,
+        "num": 301623,
+        "word": "唐艺昕 臣妾瓜2加4要告发",
+        "onboard_time": 1733833580,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355440,
+        "num": 299820,
+        "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+        "onboard_time": 1733837602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65701,
+        "num": 297913,
+        "word": "潘展乐说越没有挑战越没有意思",
+        "onboard_time": 1733840002,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330026,
+        "num": 296365,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294703,
+        "num": 294703,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1733837300,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288759,
+        "num": 288759,
+        "word": "李昀锐 妈妈低声些难道光彩吗",
+        "onboard_time": 1733834779,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293385,
+        "num": 278925,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245375,
+        "num": 245375,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255072,
+        "num": 244917,
+        "word": "丁禹兮千字长文告别慕声",
+        "onboard_time": 1733833399,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237238,
+        "num": 237238,
+        "word": "jellycat铁锅炖",
+        "onboard_time": 1733838442,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229716,
+        "num": 229716,
+        "word": "TF家族新年音乐会官宣",
+        "onboard_time": 1733834419,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222903,
+        "num": 222903,
+        "word": "猎罪图鉴偶像案 是按番位杀的吗",
+        "onboard_time": 1733830579,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143882,
+        "num": 219706,
+        "word": "于适从CCTV6干到CCTV5",
+        "onboard_time": 1733831239,
+        "rank": 34,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 217222,
+        "num": 217222,
+        "word": "陈梦抵达挪威出战老瓦杯",
+        "onboard_time": 1733837960,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216250,
+        "num": 216250,
+        "word": "一万七的小兰吧唧",
+        "onboard_time": 1733839461,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 213674,
+        "num": 213674,
+        "word": "迪丽热巴登春节申遗宣传片",
+        "onboard_time": 1733832979,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210971,
+        "num": 210971,
+        "word": "JDG疑似回应Ruler说伙食差",
+        "onboard_time": 1733840184,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209997,
+        "num": 209997,
+        "word": "韩国会惩罚每一个吃不完外卖的人",
+        "onboard_time": 1733831719,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205748,
+        "num": 205748,
+        "word": "青你的金子涵回来了",
+        "onboard_time": 1733833279,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202256,
+        "num": 202256,
+        "word": "沈翊训狗",
+        "onboard_time": 1733838560,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190561,
+        "num": 190561,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173772,
+        "num": 173772,
+        "word": "鼻炎患者也有属于自己的小宝贝了",
+        "onboard_time": 1733839162,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169119,
+        "num": 169119,
+        "word": "长的漂亮但拍照不上镜的人",
+        "onboard_time": 1733833339,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 160054,
+        "num": 160054,
+        "word": "怀孕三个月女子遭家暴被踢孕肚",
+        "onboard_time": 1733840482,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154145,
+        "num": 154145,
+        "word": "药王谷治癌中医本人不会号脉",
+        "onboard_time": 1733835861,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 147647,
+        "num": 147647,
+        "word": "Ruler吐槽JDG伙食差",
+        "onboard_time": 1733830699,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143446,
+        "num": 143446,
+        "word": "瘦80斤后回国把爸妈震惊到了",
+        "onboard_time": 1733824400,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 140797,
+        "num": 140797,
+        "word": "猫咪去世前用最后17秒告别主人",
+        "onboard_time": 1733822599,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进边疆治理体系和治理能力现代化#"
+    }
+  }
+}
