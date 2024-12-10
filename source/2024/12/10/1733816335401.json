@@ -1,0 +1,410 @@
+{
+  "runTime": 1733816335401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845981,
+        "num": 1845981,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 777926,
+        "num": 777926,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16898,
+        "num": 643713,
+        "word": "中国经济航船有信心继续乘风破浪",
+        "onboard_time": 1733805741,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1681256,
+        "num": 640348,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56522,
+        "num": 597294,
+        "word": "以军坦克向叙首都大马士革推进",
+        "onboard_time": 1733815759,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 595368,
+        "num": 595368,
+        "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+        "onboard_time": 1733812219,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 762087,
+        "num": 589207,
+        "word": "猎罪图鉴吻戏来了",
+        "onboard_time": 1733813299,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547931,
+        "num": 547931,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443414,
+        "num": 443414,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99428,
+        "num": 414401,
+        "word": "保险公司回应退休老人花150万买保险",
+        "onboard_time": 1733815339,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686636,
+        "num": 411206,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404221,
+        "num": 404221,
+        "word": "A股涨到堵单",
+        "onboard_time": 1733808498,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28395,
+        "num": 403661,
+        "word": "叙向联合国提出申诉呼吁停止以色列侵略",
+        "onboard_time": 1733816180,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29973,
+        "num": 403354,
+        "word": "英伟达或面临最高50亿美金罚款",
+        "onboard_time": 1733815880,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 403233,
+        "num": 403233,
+        "word": "小S大女儿Elly晒生活照",
+        "onboard_time": 1733813899,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359264,
+        "num": 359264,
+        "word": "飞机上乘客突发疾病抢救无效死亡",
+        "onboard_time": 1733814800,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304166,
+        "num": 338504,
+        "word": "优酷这把直接熹妃回宫",
+        "onboard_time": 1733805619,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320686,
+        "num": 320686,
+        "word": "赛力斯",
+        "onboard_time": 1733814201,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187986,
+        "num": 319398,
+        "word": "陈建斌要来唱朕emo了吗",
+        "onboard_time": 1733815099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199641,
+        "num": 311814,
+        "word": "英伟达或面临巨额罚款",
+        "onboard_time": 1733815160,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359347,
+        "num": 299130,
+        "word": "刘诗诗celine全球品牌大使",
+        "onboard_time": 1733811379,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 359036,
+        "num": 296442,
+        "word": "哪吒帅了好多",
+        "onboard_time": 1733810119,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289972,
+        "num": 289972,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280753,
+        "num": 280753,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250388,
+        "num": 250388,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233645,
+        "num": 233645,
+        "word": "小姨小姨夫文学",
+        "onboard_time": 1733809938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233249,
+        "num": 233249,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68576,
+        "num": 229966,
+        "word": "檀健次人在尴尬时总是很忙",
+        "onboard_time": 1733814980,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229755,
+        "num": 229755,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89966,
+        "num": 208885,
+        "word": "施瓦辛格儿子颜值",
+        "onboard_time": 1733816299,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206144,
+        "num": 206144,
+        "word": "关晓彤雪地玫瑰",
+        "onboard_time": 1733814680,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205431,
+        "num": 205431,
+        "word": "韩国人最爱看的中剧排行",
+        "onboard_time": 1733805139,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201685,
+        "num": 201685,
+        "word": "张新成全英文主持",
+        "onboard_time": 1733813782,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200772,
+        "num": 200772,
+        "word": "丁禹兮开车只敢开十迈",
+        "onboard_time": 1733816000,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195742,
+        "num": 195742,
+        "word": "大侦探假期超前篇",
+        "onboard_time": 1733815399,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191765,
+        "num": 191765,
+        "word": "藕饼",
+        "onboard_time": 1733815579,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183047,
+        "num": 183047,
+        "word": "单依纯巡演官宣",
+        "onboard_time": 1733813782,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182392,
+        "num": 182392,
+        "word": "杨紫家业大婚戏",
+        "onboard_time": 1733815700,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179972,
+        "num": 179972,
+        "word": "杨仕泽发藏头诗说自己单身",
+        "onboard_time": 1733810541,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157607,
+        "num": 157607,
+        "word": "A股三大指数高开回落",
+        "onboard_time": 1733813659,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141957,
+        "num": 141957,
+        "word": "一觉醒来皮肤被热水袋烫硬了",
+        "onboard_time": 1733801957,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141266,
+        "num": 141266,
+        "word": "猎1和猎2打起来了",
+        "onboard_time": 1733813838,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136365,
+        "num": 136365,
+        "word": "凌晨一点吃了四斤面包",
+        "onboard_time": 1733804120,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132480,
+        "num": 132480,
+        "word": "一代人有一代人的嘴里塞灯泡",
+        "onboard_time": 1733808260,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129780,
+        "num": 129780,
+        "word": "杨妞花第六次直面余华英",
+        "onboard_time": 1733812639,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "武夷山烧火曝光者被8名烧火者投诉",
+        "onboard_time": 1733816240,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122836,
+        "num": 122836,
+        "word": "调查尹锡悦的内乱常设特检法通过",
+        "onboard_time": 1733811379,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121310,
+        "num": 121310,
+        "word": "严浩翔 亢奋",
+        "onboard_time": 1733814022,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117696,
+        "num": 117696,
+        "word": "为什么苹果手表会吸在玻璃上",
+        "onboard_time": 1733804120,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115669,
+        "num": 115669,
+        "word": "中共中央政治局第十八次集体学习",
+        "onboard_time": 1733802559,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为实现十五五良好开局打牢基础#"
+    }
+  }
+}

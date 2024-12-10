@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733815541646,
+  "endTime": 1733816335401,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -89,6 +89,14 @@
       "onboard_time": 1733713938,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1845981,
+      "num": 1845981,
+      "word": "双轨 换角",
+      "onboard_time": 1733815099,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1819130,
@@ -891,6 +899,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 777926,
+      "num": 777926,
+      "word": "老人退休工资2800却花150万买保险",
+      "onboard_time": 1733812340,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 777844,
       "num": 777844,
       "word": "阿萨德",
@@ -993,14 +1009,6 @@
       "onboard_time": 1733618478,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 737777,
-      "num": 737777,
-      "word": "老人退休工资2800却花150万买保险",
-      "onboard_time": 1733812340,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 734782,
@@ -1708,7 +1716,7 @@
     },
     {
       "raw_hot": 482256,
-      "num": 269671,
+      "num": 296442,
       "word": "哪吒帅了好多",
       "onboard_time": 1733810119,
       "rank": 20,
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 441878,
-      "num": 391951,
+      "num": 403233,
       "word": "小S大女儿Elly晒生活照",
       "onboard_time": 1733813899,
       "rank": 12,
@@ -2227,6 +2235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 359264,
+      "num": 359264,
+      "word": "飞机上乘客突发疾病抢救无效死亡",
+      "onboard_time": 1733814800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359152,
       "num": 612321,
       "word": "山西大学回应一留学生摸女生屁股",
@@ -2451,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320686,
+      "num": 320686,
+      "word": "赛力斯",
+      "onboard_time": 1733814201,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 319927,
       "num": 319927,
       "word": "低价宠物粮竟多加蒙脱石",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1733717301,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312875,
-      "num": 312875,
-      "word": "双轨 换角",
-      "onboard_time": 1733815099,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 312430,
@@ -2723,6 +2739,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 289972,
+      "num": 289972,
+      "word": "尹锡悦等8人被列入逮捕名单",
+      "onboard_time": 1733814080,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 289867,
       "num": 512736,
       "word": "叙利亚局势最新情况",
@@ -2819,6 +2843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 280753,
+      "num": 280753,
+      "word": "谢娜是乐华的第一个艺人",
+      "onboard_time": 1733815821,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277299,
       "num": 277299,
       "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
@@ -2857,14 +2889,6 @@
       "onboard_time": 1733644639,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 269720,
-      "num": 269720,
-      "word": "赛力斯",
-      "onboard_time": 1733814201,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 269555,
@@ -3259,14 +3283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241474,
-      "num": 241474,
-      "word": "飞机上乘客突发疾病抢救无效死亡",
-      "onboard_time": 1733814800,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241197,
       "num": 378597,
       "word": "赵露思明星带货王",
@@ -3401,14 +3417,6 @@
       "onboard_time": 1733732718,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230748,
-      "num": 269660,
-      "word": "尹锡悦等8人被列入逮捕名单",
-      "onboard_time": 1733814080,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 230166,
@@ -3667,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206144,
+      "num": 206144,
+      "word": "关晓彤雪地玫瑰",
+      "onboard_time": 1733814680,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205261,
       "num": 205261,
       "word": "余华英案12月19日重审二审开庭",
@@ -3739,14 +3755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202266,
-      "num": 202266,
-      "word": "关晓彤雪地玫瑰",
-      "onboard_time": 1733814680,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202082,
       "num": 329485,
       "word": "斯尔",
@@ -3755,12 +3763,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 201685,
+      "num": 201685,
+      "word": "张新成全英文主持",
+      "onboard_time": 1733813782,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201385,
       "num": 201385,
       "word": "世界乒联恭喜中国队夺冠",
       "onboard_time": 1733664921,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200772,
+      "num": 200772,
+      "word": "丁禹兮开车只敢开十迈",
+      "onboard_time": 1733816000,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200763,
@@ -3801,6 +3825,14 @@
       "onboard_time": 1733717479,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199641,
+      "num": 311814,
+      "word": "英伟达或面临巨额罚款",
+      "onboard_time": 1733815160,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 199635,
@@ -3929,6 +3961,14 @@
       "onboard_time": 1733812699,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195742,
+      "num": 195742,
+      "word": "大侦探假期超前篇",
+      "onboard_time": 1733815399,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 195507,
@@ -4099,6 +4139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191765,
+      "num": 191765,
+      "word": "藕饼",
+      "onboard_time": 1733815579,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191144,
       "num": 285323,
       "word": "郭旭晒求婚vlog",
@@ -4203,14 +4251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189101,
-      "num": 189101,
-      "word": "张新成全英文主持",
-      "onboard_time": 1733813782,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188817,
       "num": 823394,
       "word": "调查尹锡悦的内乱常设特检法通过",
@@ -4265,6 +4305,14 @@
       "onboard_time": 1733709918,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187986,
+      "num": 319398,
+      "word": "陈建斌要来唱朕emo了吗",
+      "onboard_time": 1733815099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 187636,
@@ -4417,6 +4465,14 @@
       "onboard_time": 1733639598,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182392,
+      "num": 182392,
+      "word": "杨紫家业大婚戏",
+      "onboard_time": 1733815700,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 182246,
@@ -5699,14 +5755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140293,
-      "num": 269717,
-      "word": "陈建斌要来唱朕emo了吗",
-      "onboard_time": 1733815099,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140175,
       "num": 147539,
       "word": "朴综星澄清",
@@ -5801,14 +5849,6 @@
       "onboard_time": 1733786596,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137355,
-      "num": 137355,
-      "word": "大侦探假期超前篇",
-      "onboard_time": 1733815399,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 136399,
@@ -6091,6 +6131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125764,
+      "num": 125764,
+      "word": "武夷山烧火曝光者被8名烧火者投诉",
+      "onboard_time": 1733816240,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 125698,
       "num": 125698,
       "word": "网传叙总理被反对派陪同离开家",
@@ -6236,7 +6284,7 @@
     },
     {
       "raw_hot": 118552,
-      "num": 269682,
+      "num": 414401,
       "word": "保险公司回应退休老人花150万买保险",
       "onboard_time": 1733815339,
       "rank": 23,
@@ -6915,6 +6963,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 89966,
+      "num": 208885,
+      "word": "施瓦辛格儿子颜值",
+      "onboard_time": 1733816299,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 88534,
       "num": 307843,
       "word": "何炅包场王源新片",
@@ -7363,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68576,
+      "num": 269697,
+      "word": "檀健次人在尴尬时总是很忙",
+      "onboard_time": 1733814980,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68343,
       "num": 68343,
       "word": "马克龙请特朗普喝可乐",
@@ -7563,20 +7627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56522,
+      "num": 597294,
+      "word": "以军坦克向叙首都大马士革推进",
+      "onboard_time": 1733815759,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55987,
       "num": 85941,
       "word": "你不必小心翼翼地快乐",
       "onboard_time": 1733590280,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 55788,
-      "num": 269706,
-      "word": "英伟达或面临巨额罚款",
-      "onboard_time": 1733815160,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 55023,
@@ -8051,14 +8115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38337,
-      "num": 269697,
-      "word": "檀健次人在尴尬时总是很忙",
-      "onboard_time": 1733814980,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 38106,
       "num": 156731,
       "word": "琼瑶花葬将开放粉丝参加",
@@ -8339,6 +8395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29973,
+      "num": 403354,
+      "word": "英伟达或面临最高50亿美金罚款",
+      "onboard_time": 1733815880,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29543,
       "num": 1327745,
       "word": "文化中国行丹青中华",
@@ -8369,6 +8433,14 @@
       "onboard_time": 1733740760,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28395,
+      "num": 403661,
+      "word": "叙向联合国提出申诉呼吁停止以色列侵略",
+      "onboard_time": 1733816180,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27934,
@@ -8699,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16898,
+      "num": 921733,
+      "word": "中国经济航船有信心继续乘风破浪",
+      "onboard_time": 1733805741,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 16884,
       "num": 21359,
       "word": "中国驻叙使馆将继续为我公民提供协助",
@@ -8889,14 +8969,6 @@
       "onboard_time": 1733663962,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11351,
-      "num": 921733,
-      "word": "中国经济航船有信心继续乘风破浪",
-      "onboard_time": 1733805741,
-      "rank": 2,
-      "category": "正能量,财经"
     },
     {
       "raw_hot": 11158,
