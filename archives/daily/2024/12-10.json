@@ -1,7 +1,15 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733809299891,
+  "endTime": 1733812439173,
   "band_list": [
+    {
+      "raw_hot": 12208124,
+      "num": 12790738,
+      "word": "官方通报卜某走失被找回事件",
+      "onboard_time": 1733808740,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
     {
       "raw_hot": 6070403,
       "num": 1107650,
@@ -9,14 +17,6 @@
       "onboard_time": 1733800639,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2365878,
-      "num": 2365878,
-      "word": "官方通报卜某走失被找回事件",
-      "onboard_time": 1733808740,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1774676,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1183775,
+      "num": 484546,
+      "word": "父母将上海一套房挂女儿名下后反悔",
+      "onboard_time": 1733808918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1166241,
       "num": 526788,
       "word": "收留女硕士男子称办过酒席",
@@ -81,6 +89,14 @@
       "onboard_time": 1733794998,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1052747,
+      "num": 1052747,
+      "word": "蒋欣 华妃又要放肆一回了",
+      "onboard_time": 1733807659,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 926035,
@@ -131,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 817864,
-      "num": 817864,
-      "word": "蒋欣 华妃又要放肆一回了",
-      "onboard_time": 1733807659,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 821936,
+      "num": 821936,
+      "word": "卜某事件涉案人员被采取刑事强制措施",
+      "onboard_time": 1733809459,
+      "rank": 5,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 755355,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 536971,
-      "num": 477189,
+      "num": 490207,
       "word": "向佐找晓华3小时做新发型",
       "onboard_time": 1733796437,
       "rank": 29,
@@ -251,12 +267,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 499858,
+      "num": 499858,
+      "word": "尚未发现卜某被拐卖的线索和证据",
+      "onboard_time": 1733809938,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 483878,
       "num": 483877,
       "word": "凌晨一点吃了四斤面包",
       "onboard_time": 1733804120,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 469909,
+      "num": 162255,
+      "word": "哪吒帅了好多",
+      "onboard_time": 1733810119,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 462311,
@@ -291,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443213,
+      "num": 443213,
+      "word": "走失被找回女硕士已住院治疗",
+      "onboard_time": 1733811021,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 441738,
       "num": 441738,
       "word": "桑坡村要摆脱雪地靴平替标签",
@@ -313,6 +353,14 @@
       "onboard_time": 1733800517,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436773,
+      "num": 436773,
+      "word": "刘诗诗celine全球品牌大使",
+      "onboard_time": 1733811379,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 435101,
@@ -395,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350164,
+      "num": 350164,
+      "word": "A股涨到堵单",
+      "onboard_time": 1733808498,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 349103,
       "num": 349103,
       "word": "她是12306背后的最强大脑",
@@ -441,6 +497,14 @@
       "onboard_time": 1733760379,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311682,
+      "num": 311682,
+      "word": "小姨小姨夫文学",
+      "onboard_time": 1733809938,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307759,
@@ -555,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238673,
-      "num": 238673,
-      "word": "A股涨到堵单",
-      "onboard_time": 1733808498,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 237613,
       "num": 237613,
       "word": "骑手接100元打赏订单察觉异样果断报警",
@@ -667,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205179,
+      "num": 162183,
+      "word": "杨仕泽发藏头诗说自己单身",
+      "onboard_time": 1733810541,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203963,
       "num": 203963,
       "word": "南部档案官宣",
@@ -713,6 +777,14 @@
       "onboard_time": 1733802259,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193256,
+      "num": 162199,
+      "word": "孟子义李昀锐小姨小姨夫文学",
+      "onboard_time": 1733811799,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 193125,
@@ -795,12 +867,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 175826,
+      "num": 162174,
+      "word": "虞书欣工作室收官发文",
+      "onboard_time": 1733810360,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173154,
       "num": 173154,
       "word": "小猫抱小狗",
       "onboard_time": 1733800278,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172733,
+      "num": 162167,
+      "word": "森林进化论2",
+      "onboard_time": 1733811440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 170426,
@@ -848,14 +936,6 @@
       "word": "郑州一洗浴中心多人不适被送医",
       "onboard_time": 1733759839,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161683,
-      "num": 161683,
-      "word": "父母将上海一套房挂女儿名下后反悔",
-      "onboard_time": 1733808918,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -947,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "现在就出发2",
+      "onboard_time": 1733812039,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142217,
       "num": 142217,
       "word": "刘大美丽死亡当天曾到整形医院抽脂",
@@ -1019,6 +1107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132873,
+      "num": 132873,
+      "word": "一代人有一代人的嘴里塞灯泡",
+      "onboard_time": 1733808260,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132355,
       "num": 132355,
       "word": "小米YU7正进行大规模路测",
@@ -1065,6 +1161,14 @@
       "onboard_time": 1733756600,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125289,
+      "num": 125289,
+      "word": "老人退休工资2800却花150万买保险",
+      "onboard_time": 1733812340,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124233,
@@ -1115,20 +1219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118909,
-      "num": 118909,
-      "word": "一代人有一代人的嘴里塞灯泡",
-      "onboard_time": 1733808260,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116694,
       "num": 483878,
       "word": "欧刚谈TheShy重回iG",
       "onboard_time": 1733805439,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115433,
+      "num": 115433,
+      "word": "重返未来1999插画集",
+      "onboard_time": 1733812039,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 115109,
@@ -1185,6 +1289,14 @@
       "onboard_time": 1733793798,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109550,
+      "num": 109550,
+      "word": "丁禹兮南部档案制服look",
+      "onboard_time": 1733810781,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108076,
@@ -1403,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78335,
+      "num": 203351,
+      "word": "费翔马东锡合作",
+      "onboard_time": 1733811500,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77414,
       "num": 483889,
       "word": "文咏珊 做演员的幸福感关乎变化",
@@ -1459,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70700,
+      "num": 823394,
+      "word": "调查尹锡悦的内乱常设特检法通过",
+      "onboard_time": 1733811379,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69486,
       "num": 349834,
       "word": "多人出现不适洗浴中心仅成立5个月",
@@ -1475,12 +1603,36 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 68172,
+      "num": 162242,
+      "word": "柠萌影视十周年",
+      "onboard_time": 1733810959,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67203,
+      "num": 162209,
+      "word": "夏目友人帐 三人一猫锁死",
+      "onboard_time": 1733811558,
+      "rank": 27,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 66908,
       "num": 66908,
       "word": "徐艺洋婚后首亮相",
       "onboard_time": 1733730798,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64880,
+      "num": 162222,
+      "word": "枪杀美保险CEO嫌疑人枪支或为3D打印",
+      "onboard_time": 1733810600,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59006,
@@ -1643,6 +1795,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43414,
+      "num": 828885,
+      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+      "onboard_time": 1733812219,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40373,
+      "num": 162194,
+      "word": "枪杀美巨头高管嫌疑人是高材生",
+      "onboard_time": 1733811500,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34565,
       "num": 483884,
       "word": "为帮宝妈止损民警与骗子上演局中局",
@@ -1673,6 +1841,14 @@
       "onboard_time": 1733803699,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 29840,
+      "num": 162215,
+      "word": "AnotherMan李现封面",
+      "onboard_time": 1733812281,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 29810,

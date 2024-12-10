@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733809299891,
+  "endTime": 1733812439173,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -41,6 +41,14 @@
       "onboard_time": 1733138724,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12208124,
+      "num": 12790738,
+      "word": "官方通报卜某走失被找回事件",
+      "onboard_time": 1733808740,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9093654,
@@ -337,14 +345,6 @@
       "onboard_time": 1733361080,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2365878,
-      "num": 2365878,
-      "word": "官方通报卜某走失被找回事件",
-      "onboard_time": 1733808740,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2342869,
@@ -1547,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1183775,
+      "num": 484546,
+      "word": "父母将上海一套房挂女儿名下后反悔",
+      "onboard_time": 1733808918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1733270242,
       "rank": 1,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1052747,
+      "num": 1052747,
+      "word": "蒋欣 华妃又要放肆一回了",
+      "onboard_time": 1733807659,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1052473,
@@ -2883,20 +2899,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 821936,
+      "num": 821936,
+      "word": "卜某事件涉案人员被采取刑事强制措施",
+      "onboard_time": 1733809459,
+      "rank": 5,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 819237,
       "num": 627333,
       "word": "黄晓明悼念姥姥",
       "onboard_time": 1733029640,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 817864,
-      "num": 817864,
-      "word": "蒋欣 华妃又要放肆一回了",
-      "onboard_time": 1733807659,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 817113,
@@ -5076,7 +5092,7 @@
     },
     {
       "raw_hot": 536971,
-      "num": 477189,
+      "num": 490207,
       "word": "向佐找晓华3小时做新发型",
       "onboard_time": 1733796437,
       "rank": 29,
@@ -5571,6 +5587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499858,
+      "num": 499858,
+      "word": "尚未发现卜某被拐卖的线索和证据",
+      "onboard_time": 1733809938,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 499142,
       "num": 499142,
       "word": "省考",
@@ -6017,6 +6041,14 @@
       "onboard_time": 1733509273,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469909,
+      "num": 162255,
+      "word": "哪吒帅了好多",
+      "onboard_time": 1733810119,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 468979,
@@ -6475,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443213,
+      "num": 443213,
+      "word": "走失被找回女硕士已住院治疗",
+      "onboard_time": 1733811021,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 443039,
       "num": 443039,
       "word": "四个原因决定我们冬天更容易睡过头",
@@ -6625,6 +6665,14 @@
       "onboard_time": 1733064921,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 436773,
+      "num": 436773,
+      "word": "刘诗诗celine全球品牌大使",
+      "onboard_time": 1733811379,
+      "rank": 12,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 436673,
@@ -8267,6 +8315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 350164,
+      "num": 350164,
+      "word": "A股涨到堵单",
+      "onboard_time": 1733808498,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 350022,
       "num": 1064059,
       "word": "提醒在韩中国公民加强安全防范",
@@ -9177,6 +9233,14 @@
       "onboard_time": 1733545698,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311682,
+      "num": 311682,
+      "word": "小姨小姨夫文学",
+      "onboard_time": 1733809938,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 311552,
@@ -11491,14 +11555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238673,
-      "num": 238673,
-      "word": "A股涨到堵单",
-      "onboard_time": 1733808498,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -13355,6 +13411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205179,
+      "num": 162183,
+      "word": "杨仕泽发藏头诗说自己单身",
+      "onboard_time": 1733810541,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205171,
       "num": 205171,
       "word": "胖子瘦不下来的原因找到了",
@@ -14561,6 +14625,14 @@
       "onboard_time": 1733668281,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193256,
+      "num": 162199,
+      "word": "孟子义李昀锐小姨小姨夫文学",
+      "onboard_time": 1733811799,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 193181,
@@ -16443,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175826,
+      "num": 162174,
+      "word": "虞书欣工作室收官发文",
+      "onboard_time": 1733810360,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175754,
       "num": 243115,
       "word": "白夜破晓",
@@ -16721,6 +16801,14 @@
       "onboard_time": 1733383880,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172733,
+      "num": 162167,
+      "word": "森林进化论2",
+      "onboard_time": 1733811440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 172447,
@@ -17913,14 +18001,6 @@
       "onboard_time": 1733733020,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161683,
-      "num": 161683,
-      "word": "父母将上海一套房挂女儿名下后反悔",
-      "onboard_time": 1733808918,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161641,
@@ -20131,6 +20211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "现在就出发2",
+      "onboard_time": 1733566161,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142408,
       "num": 288321,
       "word": "莎头组合和韩国队都乐了",
@@ -20409,14 +20497,6 @@
       "onboard_time": 1733794158,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140116,
-      "num": 140116,
-      "word": "现在就出发2",
-      "onboard_time": 1733566161,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 140071,
@@ -21339,6 +21419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132873,
+      "num": 132873,
+      "word": "一代人有一代人的嘴里塞灯泡",
+      "onboard_time": 1733808260,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132746,
       "num": 319603,
       "word": "长沙步行街商贩卖气球被人挨个弄破",
@@ -22033,6 +22121,14 @@
       "onboard_time": 1733097376,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125289,
+      "num": 125289,
+      "word": "老人退休工资2800却花150万买保险",
+      "onboard_time": 1733812340,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125251,
@@ -22787,14 +22883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118909,
-      "num": 118909,
-      "word": "一代人有一代人的嘴里塞灯泡",
-      "onboard_time": 1733808260,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118812,
       "num": 534838,
       "word": "律师谈女儿蹭跑全马举办方不担责",
@@ -23081,6 +23169,14 @@
       "onboard_time": 1733322144,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115433,
+      "num": 115433,
+      "word": "重返未来1999插画集",
+      "onboard_time": 1733812039,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 115376,
@@ -23601,6 +23697,14 @@
       "onboard_time": 1733143824,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109550,
+      "num": 109550,
+      "word": "丁禹兮南部档案制服look",
+      "onboard_time": 1733810781,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 109404,
@@ -26227,6 +26331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78335,
+      "num": 203351,
+      "word": "费翔马东锡合作",
+      "onboard_time": 1733811500,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78303,
       "num": 448785,
       "word": "大多数HIV感染者选择隐瞒病情",
@@ -26795,6 +26907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70700,
+      "num": 823394,
+      "word": "调查尹锡悦的内乱常设特检法通过",
+      "onboard_time": 1733811379,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 70510,
       "num": 228095,
       "word": "谁懂谢霆锋弹吉他的含金量",
@@ -27011,6 +27131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68172,
+      "num": 162242,
+      "word": "柠萌影视十周年",
+      "onboard_time": 1733810959,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67926,
       "num": 338465,
       "word": "王亚飞给周也化的冬日暖调妆",
@@ -27073,6 +27201,14 @@
       "onboard_time": 1733397081,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67203,
+      "num": 162209,
+      "word": "夏目友人帐 三人一猫锁死",
+      "onboard_time": 1733811558,
+      "rank": 27,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 67169,
@@ -27313,6 +27449,14 @@
       "onboard_time": 1733671399,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64880,
+      "num": 162222,
+      "word": "枪杀美保险CEO嫌疑人枪支或为3D打印",
+      "onboard_time": 1733810600,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 64751,
@@ -29643,6 +29787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43414,
+      "num": 828885,
+      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+      "onboard_time": 1733812219,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43394,
       "num": 604465,
       "word": "窦靖童真空西装",
@@ -29945,6 +30097,14 @@
       "onboard_time": 1733283380,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40373,
+      "num": 162194,
+      "word": "枪杀美巨头高管嫌疑人是高材生",
+      "onboard_time": 1733811500,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40349,
@@ -31329,6 +31489,14 @@
       "onboard_time": 1733632280,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29840,
+      "num": 162215,
+      "word": "AnotherMan李现封面",
+      "onboard_time": 1733812281,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 29746,
