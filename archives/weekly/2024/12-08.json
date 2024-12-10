@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733823662367,
+  "endTime": 1733826405075,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1395686,
+      "num": 1395686,
+      "word": "藏海传",
+      "onboard_time": 1733817920,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1394368,
       "num": 1394368,
       "word": "马丽 才过半啊",
@@ -481,14 +489,6 @@
       "onboard_time": 1733794998,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1130954,
-      "num": 1130954,
-      "word": "藏海传",
-      "onboard_time": 1733817920,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1092999,
@@ -793,6 +793,14 @@
       "onboard_time": 1733729718,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 842082,
+      "num": 842082,
+      "word": "理发师晓华谈到孩子差点儿落泪",
+      "onboard_time": 1733820619,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 830883,
@@ -1227,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 665974,
+      "num": 665974,
+      "word": "男子称19岁被舅舅安排任办公室副主任",
+      "onboard_time": 1733824941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663203,
       "num": 663203,
       "word": "杨紫白鹿新剧对打",
@@ -1300,7 +1316,7 @@
     },
     {
       "raw_hot": 629272,
-      "num": 461519,
+      "num": 515737,
       "word": "严浩翔新歌疑似抄袭",
       "onboard_time": 1733819720,
       "rank": 23,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1733707877,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600881,
+      "num": 600881,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733822059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 599618,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1733650099,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 528696,
+      "num": 528696,
+      "word": "美世界500强公司CEO遭枪击身亡",
+      "onboard_time": 1733822539,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 526845,
@@ -1849,14 +1881,6 @@
       "onboard_time": 1733654358,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 469221,
-      "num": 469221,
-      "word": "理发师晓华谈到孩子差点儿落泪",
-      "onboard_time": 1733820619,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 466058,
@@ -2228,7 +2252,7 @@
     },
     {
       "raw_hot": 394561,
-      "num": 287705,
+      "num": 312685,
       "word": "李昀锐是孟子义一级铁粉",
       "onboard_time": 1733820439,
       "rank": 21,
@@ -2241,6 +2265,14 @@
       "onboard_time": 1733582662,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393202,
+      "num": 382286,
+      "word": "以军发言人否认以军接近大马士革",
+      "onboard_time": 1733824579,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 384319,
@@ -2265,14 +2297,6 @@
       "onboard_time": 1733742380,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 379437,
-      "num": 379437,
-      "word": "美世界500强公司CEO遭枪击身亡",
-      "onboard_time": 1733822539,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 378936,
@@ -2395,6 +2419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 358438,
+      "num": 358438,
+      "word": "瘦80斤后回国把爸妈震惊到了",
+      "onboard_time": 1733824400,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 356435,
       "num": 356435,
       "word": "孙颖莎告别成都混团",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1733806341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352753,
+      "num": 352753,
+      "word": "猫咪去世前用最后17秒告别主人",
+      "onboard_time": 1733822599,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352594,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1733660661,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 332279,
+      "num": 332279,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1733824341,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 328020,
@@ -2728,6 +2776,14 @@
       "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
       "onboard_time": 1733623639,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311676,
+      "num": 311676,
+      "word": "樊振东现身长沙备战乒超",
+      "onboard_time": 1733822900,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -3000,6 +3056,14 @@
       "word": "九重紫小孩姐 天赋型选手",
       "onboard_time": 1733638817,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273886,
+      "num": 365475,
+      "word": "张萌 你们能有我会嗑么",
+      "onboard_time": 1733824759,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3571,22 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235127,
-      "num": 235127,
-      "word": "猫咪去世前用最后17秒告别主人",
-      "onboard_time": 1733822599,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234083,
-      "num": 234083,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1733822059,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233771,
       "num": 607124,
       "word": "韩国警方考虑禁止尹锡悦出境",
@@ -3713,6 +3761,14 @@
       "onboard_time": 1733806219,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222366,
+      "num": 222366,
+      "word": "干巴酸奶",
+      "onboard_time": 1733821699,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 222032,
@@ -3971,14 +4027,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202774,
-      "num": 202774,
-      "word": "樊振东现身长沙备战乒超",
-      "onboard_time": 1733822900,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202657,
       "num": 202657,
       "word": "不要一直坐坐坐坐坐",
@@ -4147,12 +4195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197700,
-      "num": 197700,
-      "word": "干巴酸奶",
-      "onboard_time": 1733821699,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 197776,
+      "num": 197776,
+      "word": "TES官宣Kanavi加入",
+      "onboard_time": 1733824341,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 197553,
@@ -4273,6 +4321,14 @@
       "onboard_time": 1733637262,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194056,
+      "num": 194056,
+      "word": "以色列袭击叙利亚海军舰队",
+      "onboard_time": 1733822959,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194005,
@@ -4611,6 +4667,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 186389,
+      "num": 186389,
+      "word": "丁禹兮虾虾侬",
+      "onboard_time": 1733825178,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186202,
       "num": 186202,
       "word": "雷军回应小米被指贴牌",
@@ -4744,6 +4808,14 @@
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
       "onboard_time": 1733802739,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181063,
+      "num": 181063,
+      "word": "陕西大姐中限量宝马车以为是诈骗",
+      "onboard_time": 1733825299,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -5307,14 +5379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162757,
-      "num": 162757,
-      "word": "以色列袭击叙利亚海军舰队",
-      "onboard_time": 1733822959,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162606,
       "num": 162606,
       "word": "Faker回应如何忘记前任",
@@ -5795,6 +5859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149086,
+      "num": 254918,
+      "word": "孟子义要是认不出来你不难过死了",
+      "onboard_time": 1733823259,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149020,
       "num": 149020,
       "word": "窦昭离过婚的人就是不一样",
@@ -6203,14 +6275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137072,
-      "num": 254918,
-      "word": "孟子义要是认不出来你不难过死了",
-      "onboard_time": 1733823259,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
@@ -6345,6 +6409,14 @@
       "onboard_time": 1733613493,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133089,
+      "num": 133089,
+      "word": "公主抱",
+      "onboard_time": 1733826019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133054,
@@ -6513,6 +6585,14 @@
       "onboard_time": 1733757379,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "TGA玩家之声5款游戏最终入围",
+      "onboard_time": 1733825479,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125698,
@@ -7763,6 +7843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71090,
+      "num": 272653,
+      "word": "甄嬛传",
+      "onboard_time": 1733826380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70895,
       "num": 277602,
       "word": "多人晕堂洗浴中心门票价格仅9.9元",
@@ -7873,6 +7961,14 @@
       "onboard_time": 1733640679,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67486,
+      "num": 355042,
+      "word": "京城大师赛",
+      "onboard_time": 1733826260,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 67230,
@@ -8539,6 +8635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42110,
+      "num": 515838,
+      "word": "日军士兵在南京大屠杀照片旁写下惨字",
+      "onboard_time": 1733817680,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39350,
       "num": 227146,
       "word": "潘展乐VogueSports首期封面",
@@ -8611,6 +8715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36604,
+      "num": 424688,
+      "word": "防水胶按斤收费网友维修花8500元",
+      "onboard_time": 1733825479,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36575,
       "num": 320302,
       "word": "过时的琼瑶剧改变了中国女性多少次",
@@ -8633,6 +8745,14 @@
       "onboard_time": 1733813180,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35854,
+      "num": 376680,
+      "word": "国家补贴类目远比你想象的多",
+      "onboard_time": 1733824460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35845,
@@ -8945,6 +9065,14 @@
       "onboard_time": 1733710396,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25514,
+      "num": 377808,
+      "word": "假测评真带货怎么破",
+      "onboard_time": 1733826019,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25244,

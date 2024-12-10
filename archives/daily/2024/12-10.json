@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733823662367,
+  "endTime": 1733826405075,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -67,6 +67,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1395686,
+      "num": 1395686,
+      "word": "藏海传",
+      "onboard_time": 1733817920,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1282194,
       "num": 1282194,
       "word": "韩国出土4块千年木简",
@@ -113,14 +121,6 @@
       "onboard_time": 1733794998,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1130954,
-      "num": 1130954,
-      "word": "藏海传",
-      "onboard_time": 1733817920,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 1070639,
@@ -184,6 +184,14 @@
       "word": "洗浴中心多人出现不适亲历者发声",
       "onboard_time": 1733754982,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 842082,
+      "num": 842082,
+      "word": "理发师晓华谈到孩子差点儿落泪",
+      "onboard_time": 1733820619,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 665974,
+      "num": 665974,
+      "word": "男子称19岁被舅舅安排任办公室副主任",
+      "onboard_time": 1733824941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663203,
       "num": 663203,
       "word": "杨紫白鹿新剧对打",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 629272,
-      "num": 461519,
+      "num": 515737,
       "word": "严浩翔新歌疑似抄袭",
       "onboard_time": 1733819720,
       "rank": 23,
@@ -321,6 +337,14 @@
       "onboard_time": 1733782212,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 600881,
+      "num": 600881,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1733822059,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 583377,
@@ -361,6 +385,14 @@
       "onboard_time": 1733758579,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 528696,
+      "num": 528696,
+      "word": "美世界500强公司CEO遭枪击身亡",
+      "onboard_time": 1733822539,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 521772,
@@ -417,14 +449,6 @@
       "onboard_time": 1733810119,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 469221,
-      "num": 469221,
-      "word": "理发师晓华谈到孩子差点儿落泪",
-      "onboard_time": 1733820619,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 462311,
@@ -588,19 +612,19 @@
     },
     {
       "raw_hot": 394561,
-      "num": 287705,
+      "num": 312685,
       "word": "李昀锐是孟子义一级铁粉",
       "onboard_time": 1733820439,
       "rank": 21,
       "category": "剧集"
     },
     {
-      "raw_hot": 379437,
-      "num": 379437,
-      "word": "美世界500强公司CEO遭枪击身亡",
-      "onboard_time": 1733822539,
-      "rank": 25,
-      "category": "海外新闻"
+      "raw_hot": 393202,
+      "num": 382286,
+      "word": "以军发言人否认以军接近大马士革",
+      "onboard_time": 1733824579,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 378936,
@@ -635,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358438,
+      "num": 358438,
+      "word": "瘦80斤后回国把爸妈震惊到了",
+      "onboard_time": 1733824400,
+      "rank": 23,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 353344,
       "num": 224436,
       "word": "山下智久晒与周杰伦合照",
       "onboard_time": 1733806341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352753,
+      "num": 352753,
+      "word": "猫咪去世前用最后17秒告别主人",
+      "onboard_time": 1733822599,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349103,
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332279,
+      "num": 332279,
+      "word": "微博之夜年度推荐",
+      "onboard_time": 1733824341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322715,
       "num": 531030,
       "word": "武夷山烧火曝光者被8名烧火者投诉",
@@ -713,6 +761,14 @@
       "onboard_time": 1733760379,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311676,
+      "num": 311676,
+      "word": "樊振东现身长沙备战乒超",
+      "onboard_time": 1733822900,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 307759,
@@ -761,6 +817,14 @@
       "onboard_time": 1733803999,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273886,
+      "num": 365475,
+      "word": "张萌 你们能有我会嗑么",
+      "onboard_time": 1733824759,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 269676,
@@ -899,22 +963,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 235127,
-      "num": 235127,
-      "word": "猫咪去世前用最后17秒告别主人",
-      "onboard_time": 1733822599,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234083,
-      "num": 234083,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1733822059,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233735,
       "num": 233735,
       "word": "小米YU7预计明年六七月上市",
@@ -985,6 +1033,14 @@
       "onboard_time": 1733806219,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222366,
+      "num": 222366,
+      "word": "干巴酸奶",
+      "onboard_time": 1733821699,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 221068,
@@ -1083,14 +1139,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 202774,
-      "num": 202774,
-      "word": "樊振东现身长沙备战乒超",
-      "onboard_time": 1733822900,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202161,
       "num": 202161,
       "word": "以色列大举空袭叙利亚",
@@ -1139,12 +1187,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197700,
-      "num": 197700,
-      "word": "干巴酸奶",
-      "onboard_time": 1733821699,
-      "rank": 45,
-      "category": "美食"
+      "raw_hot": 197776,
+      "num": 197776,
+      "word": "TES官宣Kanavi加入",
+      "onboard_time": 1733824341,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 196953,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1733819839,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194056,
+      "num": 194056,
+      "word": "以色列袭击叙利亚海军舰队",
+      "onboard_time": 1733822959,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194005,
@@ -1243,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186389,
+      "num": 186389,
+      "word": "丁禹兮虾虾侬",
+      "onboard_time": 1733825178,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185967,
       "num": 185967,
       "word": "山西大学一留学生摸女生屁股被行拘",
@@ -1280,6 +1344,14 @@
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
       "onboard_time": 1733802739,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181063,
+      "num": 181063,
+      "word": "陕西大姐中限量宝马车以为是诈骗",
+      "onboard_time": 1733825299,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1401,14 +1473,6 @@
       "onboard_time": 1733759839,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162757,
-      "num": 162757,
-      "word": "以色列袭击叙利亚海军舰队",
-      "onboard_time": 1733822959,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 162451,
@@ -1539,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149086,
+      "num": 254918,
+      "word": "孟子义要是认不出来你不难过死了",
+      "onboard_time": 1733823259,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147629,
       "num": 147629,
       "word": "aespa黑胶唱片",
@@ -1659,14 +1731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137072,
-      "num": 254918,
-      "word": "孟子义要是认不出来你不难过死了",
-      "onboard_time": 1733823259,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
@@ -1697,6 +1761,14 @@
       "onboard_time": 1733797398,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133089,
+      "num": 133089,
+      "word": "公主抱",
+      "onboard_time": 1733826019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132355,
@@ -1753,6 +1825,14 @@
       "onboard_time": 1733741900,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125807,
+      "num": 125807,
+      "word": "TGA玩家之声5款游戏最终入围",
+      "onboard_time": 1733825479,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 125333,
@@ -2227,6 +2307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 71090,
+      "num": 272653,
+      "word": "甄嬛传",
+      "onboard_time": 1733826380,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70895,
       "num": 277602,
       "word": "多人晕堂洗浴中心门票价格仅9.9元",
@@ -2265,6 +2353,14 @@
       "onboard_time": 1733810959,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67486,
+      "num": 355042,
+      "word": "京城大师赛",
+      "onboard_time": 1733826260,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 67203,
@@ -2499,12 +2595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42110,
+      "num": 515838,
+      "word": "日军士兵在南京大屠杀照片旁写下惨字",
+      "onboard_time": 1733817680,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38047,
       "num": 229636,
       "word": "陈凯琳再回应与郑嘉颖婚变",
       "onboard_time": 1733813239,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36604,
+      "num": 424688,
+      "word": "防水胶按斤收费网友维修花8500元",
+      "onboard_time": 1733825479,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36575,
@@ -2521,6 +2633,14 @@
       "onboard_time": 1733813180,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35854,
+      "num": 376680,
+      "word": "国家补贴类目远比你想象的多",
+      "onboard_time": 1733824460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35697,
@@ -2609,6 +2729,14 @@
       "onboard_time": 1733800758,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25514,
+      "num": 377808,
+      "word": "假测评真带货怎么破",
+      "onboard_time": 1733826019,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25095,
