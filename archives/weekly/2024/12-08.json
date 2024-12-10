@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733834928932,
+  "endTime": 1733835855669,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1163,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 716201,
+      "num": 529300,
+      "word": "唐艺昕 臣妾瓜2加4要告发",
+      "onboard_time": 1733833580,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709495,
       "num": 709495,
       "word": "以色列大举空袭叙利亚",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1733731700,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 655103,
+      "num": 313112,
+      "word": "TF家族新年音乐会官宣",
+      "onboard_time": 1733834419,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 653912,
@@ -1667,6 +1683,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 525787,
+      "num": 525787,
+      "word": "推测蔡国强无人机坠海原因",
+      "onboard_time": 1733832498,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523944,
+      "num": 301570,
+      "word": "迪丽热巴登春节申遗宣传片",
+      "onboard_time": 1733832979,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
@@ -1827,14 +1859,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 493816,
-      "num": 301570,
-      "word": "迪丽热巴登春节申遗宣传片",
-      "onboard_time": 1733832979,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 488875,
       "num": 488875,
       "word": "这球为什么要挑战",
@@ -1931,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 465146,
-      "num": 289897,
-      "word": "TF家族新年音乐会官宣",
-      "onboard_time": 1733834419,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 464614,
       "num": 337844,
       "word": "内娱终于等到完颜爱情剧",
@@ -2012,7 +2028,7 @@
     },
     {
       "raw_hot": 455445,
-      "num": 219147,
+      "num": 240110,
       "word": "青你的金子涵回来了",
       "onboard_time": 1733833279,
       "rank": 20,
@@ -2032,6 +2048,14 @@
       "word": "肖战藏海歪嘴笑",
       "onboard_time": 1733822001,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 448646,
+      "num": 282305,
+      "word": "猎罪图鉴2 娱乐圈原型",
+      "onboard_time": 1733832378,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2129,6 +2153,14 @@
       "onboard_time": 1733800517,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437639,
+      "num": 271697,
+      "word": "丁禹兮千字长文告别慕声",
+      "onboard_time": 1733833399,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 436773,
@@ -2363,14 +2395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 382660,
-      "num": 198845,
-      "word": "唐艺昕 臣妾瓜2加4要告发",
-      "onboard_time": 1733833580,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 380413,
       "num": 380413,
       "word": "本科专业大洗牌意味着什么",
@@ -2499,6 +2523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 358507,
+      "num": 236820,
+      "word": "韩国会惩罚每一个吃不完外卖的人",
+      "onboard_time": 1733831719,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358055,
       "num": 358055,
       "word": "Ruler吐槽JDG伙食差",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1733806341,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352923,
-      "num": 195134,
-      "word": "丁禹兮千字长文告别慕声",
-      "onboard_time": 1733833399,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 352753,
@@ -2971,14 +2995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299438,
-      "num": 206814,
-      "word": "韩国会惩罚每一个吃不完外卖的人",
-      "onboard_time": 1733831719,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299226,
       "num": 402377,
       "word": "我是刑警大盘有救了",
@@ -3041,6 +3057,14 @@
       "onboard_time": 1733621598,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294113,
+      "num": 238175,
+      "word": "李昀锐 妈妈低声些难道光彩吗",
+      "onboard_time": 1733834779,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 292821,
@@ -3161,14 +3185,6 @@
       "onboard_time": 1733803999,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 281903,
-      "num": 173505,
-      "word": "猎罪图鉴2 娱乐圈原型",
-      "onboard_time": 1733832378,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 277299,
@@ -3467,6 +3483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249122,
+      "num": 249122,
+      "word": "张雪迎拍的王源",
+      "onboard_time": 1733834539,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249104,
       "num": 269486,
       "word": "李昀锐演技",
@@ -3505,6 +3529,14 @@
       "onboard_time": 1733790139,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247928,
+      "num": 247928,
+      "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+      "onboard_time": 1733833339,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 247589,
@@ -3585,6 +3617,14 @@
       "onboard_time": 1733653160,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243422,
+      "num": 179580,
+      "word": "于适从CCTV6干到CCTV5",
+      "onboard_time": 1733831239,
+      "rank": 31,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 243222,
@@ -3691,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238917,
+      "num": 202061,
+      "word": "长的漂亮但拍照不上镜的人",
+      "onboard_time": 1733833339,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -3785,14 +3833,6 @@
       "onboard_time": 1733653937,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232090,
-      "num": 179580,
-      "word": "于适从CCTV6干到CCTV5",
-      "onboard_time": 1733831239,
-      "rank": 31,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 231721,
@@ -4203,14 +4243,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202061,
-      "num": 202061,
-      "word": "长的漂亮但拍照不上镜的人",
-      "onboard_time": 1733833339,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 201685,
       "num": 201685,
       "word": "张新成全英文主持",
@@ -4297,14 +4329,6 @@
       "onboard_time": 1733661260,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199065,
-      "num": 199065,
-      "word": "杭州一男子骑摩托撞护栏翻桥身亡",
-      "onboard_time": 1733833339,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 199063,
@@ -4449,6 +4473,14 @@
       "onboard_time": 1733812699,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195799,
+      "num": 226262,
+      "word": "陈若仪回应网友赞kimi颜值",
+      "onboard_time": 1733833459,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 195742,
@@ -4867,6 +4899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187247,
+      "num": 166101,
+      "word": "丁禹兮工作室大放送",
+      "onboard_time": 1733835319,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "为什么喜欢阅读的人精神更富足",
@@ -5001,14 +5041,6 @@
       "onboard_time": 1733643799,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182182,
-      "num": 220352,
-      "word": "张雪迎拍的王源",
-      "onboard_time": 1733834539,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 182146,
@@ -5475,14 +5507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166655,
-      "num": 226262,
-      "word": "陈若仪回应网友赞kimi颜值",
-      "onboard_time": 1733833459,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166505,
       "num": 166505,
       "word": "九重紫男女主先蛐蛐后亲亲",
@@ -5688,14 +5712,6 @@
       "word": "魏晨名侦探的假期vlog",
       "onboard_time": 1733721199,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161115,
-      "num": 124125,
-      "word": "李昀锐 妈妈低声些难道光彩吗",
-      "onboard_time": 1733834779,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -6179,6 +6195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 147529,
+      "num": 147529,
+      "word": "汪苏泷 明年见",
+      "onboard_time": 1733835140,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147446,
       "num": 147446,
       "word": "约基奇56分",
@@ -6627,14 +6651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136138,
-      "num": 315996,
-      "word": "推测蔡国强无人机坠海原因",
-      "onboard_time": 1733832498,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136096,
       "num": 136096,
       "word": "人怎么可以捅这么大娄子",
@@ -6931,6 +6947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125612,
+      "num": 125612,
+      "word": "戚薇带汪苏泷周边上班",
+      "onboard_time": 1733835740,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125251,
       "num": 487321,
       "word": "反政府武装称已进入大马士革",
@@ -7051,6 +7075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120324,
+      "num": 120324,
+      "word": "樊振东最新备战画面",
+      "onboard_time": 1733833999,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119945,
       "num": 119945,
       "word": "解读北京国安新帅加盟",
@@ -7097,14 +7129,6 @@
       "onboard_time": 1733830699,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 117545,
-      "num": 117545,
-      "word": "樊振东最新备战画面",
-      "onboard_time": 1733833999,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117446,
@@ -7843,7 +7867,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88291,
+      "raw_hot": 88341,
       "num": 324014,
       "word": "叙利亚过渡政府正式接管权力",
       "onboard_time": 1733834240,
@@ -8193,6 +8217,14 @@
       "onboard_time": 1733798957,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 72312,
+      "num": 167533,
+      "word": "王源小时候也加过何炅QQ",
+      "onboard_time": 1733835740,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 72121,
@@ -8555,6 +8587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56622,
+      "num": 247208,
+      "word": "护士一套急救连招救下老人",
+      "onboard_time": 1733832259,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 56329,
       "num": 921733,
       "word": "中国经济航船有信心继续乘风破浪",
@@ -8817,6 +8857,14 @@
       "onboard_time": 1733804539,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 48759,
+      "num": 266696,
+      "word": "网售泡脚包合格率仅百分之三",
+      "onboard_time": 1733835740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48732,
@@ -9329,6 +9377,14 @@
       "onboard_time": 1733826860,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32451,
+      "num": 125897,
+      "word": "老人退休金2800买保险350万",
+      "onboard_time": 1733832618,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32107,

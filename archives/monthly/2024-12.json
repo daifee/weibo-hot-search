@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733834928932,
+  "endTime": 1733835855669,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3563,6 +3563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 716201,
+      "num": 529300,
+      "word": "唐艺昕 臣妾瓜2加4要告发",
+      "onboard_time": 1733833580,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714199,
       "num": 714199,
       "word": "课间延长到15分钟学生在干啥",
@@ -4017,6 +4025,14 @@
       "onboard_time": 1733309122,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655103,
+      "num": 313112,
+      "word": "TF家族新年音乐会官宣",
+      "onboard_time": 1733834419,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 654517,
@@ -5403,6 +5419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 525787,
+      "num": 525787,
+      "word": "推测蔡国强无人机坠海原因",
+      "onboard_time": 1733832498,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525529,
       "num": 958587,
       "word": "为突发疾病同事垫付24万医疗费被赖账",
@@ -5425,6 +5449,14 @@
       "onboard_time": 1733379619,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523944,
+      "num": 301570,
+      "word": "迪丽热巴登春节申遗宣传片",
+      "onboard_time": 1733832979,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 523696,
@@ -5859,14 +5891,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 493816,
-      "num": 301570,
-      "word": "迪丽热巴登春节申遗宣传片",
-      "onboard_time": 1733832979,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 493248,
       "num": 493248,
       "word": "韩国总统府周边进入全面管制状态",
@@ -6291,14 +6315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 465146,
-      "num": 289897,
-      "word": "TF家族新年音乐会官宣",
-      "onboard_time": 1733834419,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 464614,
       "num": 337844,
       "word": "内娱终于等到完颜爱情剧",
@@ -6524,7 +6540,7 @@
     },
     {
       "raw_hot": 455445,
-      "num": 219147,
+      "num": 240110,
       "word": "青你的金子涵回来了",
       "onboard_time": 1733833279,
       "rank": 20,
@@ -6649,6 +6665,14 @@
       "onboard_time": 1733039718,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 448646,
+      "num": 282305,
+      "word": "猎罪图鉴2 娱乐圈原型",
+      "onboard_time": 1733832378,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 447686,
@@ -6888,6 +6912,14 @@
       "word": "关宏峰以关宏宇的身份下线",
       "onboard_time": 1733460260,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 437639,
+      "num": 271697,
+      "word": "丁禹兮千字长文告别慕声",
+      "onboard_time": 1733833399,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -7939,14 +7971,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 382660,
-      "num": 198845,
-      "word": "唐艺昕 臣妾瓜2加4要告发",
-      "onboard_time": 1733833580,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 381559,
       "num": 372925,
       "word": "陈少熙发长文回应",
@@ -8443,6 +8467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358507,
+      "num": 236820,
+      "word": "韩国会惩罚每一个吃不完外卖的人",
+      "onboard_time": 1733831719,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358093,
       "num": 358093,
       "word": "大梦归离剧组 养眼",
@@ -8577,14 +8609,6 @@
       "onboard_time": 1733806341,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352923,
-      "num": 195134,
-      "word": "丁禹兮千字长文告别慕声",
-      "onboard_time": 1733833399,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 352753,
@@ -9899,14 +9923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299438,
-      "num": 206814,
-      "word": "韩国会惩罚每一个吃不完外卖的人",
-      "onboard_time": 1733831719,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299226,
       "num": 402377,
       "word": "我是刑警大盘有救了",
@@ -10065,6 +10081,14 @@
       "onboard_time": 1733621598,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 294113,
+      "num": 238175,
+      "word": "李昀锐 妈妈低声些难道光彩吗",
+      "onboard_time": 1733834779,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 293222,
@@ -10441,14 +10465,6 @@
       "onboard_time": 1733398760,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281903,
-      "num": 173505,
-      "word": "猎罪图鉴2 娱乐圈原型",
-      "onboard_time": 1733832378,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 281732,
@@ -11475,6 +11491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 249122,
+      "num": 249122,
+      "word": "张雪迎拍的王源",
+      "onboard_time": 1733834539,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249104,
       "num": 269486,
       "word": "李昀锐演技",
@@ -11529,6 +11553,14 @@
       "onboard_time": 1733527335,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247928,
+      "num": 247928,
+      "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+      "onboard_time": 1733833339,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 247839,
@@ -11721,6 +11753,14 @@
       "onboard_time": 1733653160,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243422,
+      "num": 179580,
+      "word": "于适从CCTV6干到CCTV5",
+      "onboard_time": 1733831239,
+      "rank": 31,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 243222,
@@ -11969,6 +12009,14 @@
       "onboard_time": 1733140585,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238917,
+      "num": 202061,
+      "word": "长的漂亮但拍照不上镜的人",
+      "onboard_time": 1733833339,
+      "rank": 23,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 238789,
@@ -12305,14 +12353,6 @@
       "onboard_time": 1733063241,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232090,
-      "num": 179580,
-      "word": "于适从CCTV6干到CCTV5",
-      "onboard_time": 1733831239,
-      "rank": 31,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 231721,
@@ -14259,14 +14299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202061,
-      "num": 202061,
-      "word": "长的漂亮但拍照不上镜的人",
-      "onboard_time": 1733833339,
-      "rank": 23,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "成都混团世界杯",
@@ -14521,14 +14553,6 @@
       "onboard_time": 1733229921,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199065,
-      "num": 199065,
-      "word": "杭州一男子骑摩托撞护栏翻桥身亡",
-      "onboard_time": 1733833339,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 199063,
@@ -14929,6 +14953,14 @@
       "onboard_time": 1733489299,
       "rank": 32,
       "category": "综艺,健康医疗"
+    },
+    {
+      "raw_hot": 195799,
+      "num": 226262,
+      "word": "陈若仪回应网友赞kimi颜值",
+      "onboard_time": 1733833459,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 195788,
@@ -16091,6 +16123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187247,
+      "num": 166101,
+      "word": "丁禹兮工作室大放送",
+      "onboard_time": 1733835319,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187227,
       "num": 187227,
       "word": "虞书欣庆功宴座位",
@@ -16585,14 +16625,6 @@
       "onboard_time": 1733291779,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 182182,
-      "num": 220352,
-      "word": "张雪迎拍的王源",
-      "onboard_time": 1733834539,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 182155,
@@ -18179,14 +18211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166655,
-      "num": 226262,
-      "word": "陈若仪回应网友赞kimi颜值",
-      "onboard_time": 1733833459,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166505,
       "num": 166505,
       "word": "九重紫男女主先蛐蛐后亲亲",
@@ -18817,14 +18841,6 @@
       "onboard_time": 1733008814,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161115,
-      "num": 124125,
-      "word": "李昀锐 妈妈低声些难道光彩吗",
-      "onboard_time": 1733834779,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 161109,
@@ -20531,6 +20547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147529,
+      "num": 147529,
+      "word": "汪苏泷 明年见",
+      "onboard_time": 1733835140,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147446,
       "num": 147446,
       "word": "约基奇56分",
@@ -21963,14 +21987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136138,
-      "num": 315996,
-      "word": "推测蔡国强无人机坠海原因",
-      "onboard_time": 1733832498,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136096,
       "num": 136096,
       "word": "人怎么可以捅这么大娄子",
@@ -23083,6 +23099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125612,
+      "num": 125612,
+      "word": "戚薇带汪苏泷周边上班",
+      "onboard_time": 1733835740,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125603,
       "num": 125603,
       "word": "琼瑶到底留下了多少钱",
@@ -23731,6 +23755,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 120324,
+      "num": 120324,
+      "word": "樊振东最新备战画面",
+      "onboard_time": 1733833999,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120299,
       "num": 352137,
       "word": "周深希望用歌声拥抱听众",
@@ -23961,14 +23993,6 @@
       "onboard_time": 1733306244,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117545,
-      "num": 117545,
-      "word": "樊振东最新备战画面",
-      "onboard_time": 1733833999,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 117446,
@@ -26627,7 +26651,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88291,
+      "raw_hot": 88341,
       "num": 324014,
       "word": "叙利亚过渡政府正式接管权力",
       "onboard_time": 1733834240,
@@ -27889,6 +27913,14 @@
       "onboard_time": 1733310081,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72312,
+      "num": 167533,
+      "word": "王源小时候也加过何炅QQ",
+      "onboard_time": 1733835740,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 72063,
@@ -29371,6 +29403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56622,
+      "num": 247208,
+      "word": "护士一套急救连招救下老人",
+      "onboard_time": 1733832259,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 56361,
       "num": 56361,
       "word": "丁禹兮一年播了四部剧",
@@ -30297,6 +30337,14 @@
       "onboard_time": 1733122219,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 48759,
+      "num": 266696,
+      "word": "网售泡脚包合格率仅百分之三",
+      "onboard_time": 1733835740,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48732,
@@ -32321,6 +32369,14 @@
       "onboard_time": 1733224699,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 32451,
+      "num": 125897,
+      "word": "老人退休金2800买保险350万",
+      "onboard_time": 1733832618,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32448,
