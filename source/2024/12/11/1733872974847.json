@@ -1,0 +1,410 @@
+{
+  "runTime": 1733872974847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1496819,
+        "num": 1496819,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408462,
+        "num": 408462,
+        "word": "北京天空出现三个太阳",
+        "onboard_time": 1733864772,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48944,
+        "num": 323975,
+        "word": "财政政策更加积极将释放更多可能性",
+        "onboard_time": 1733838680,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 263612,
+        "num": 263612,
+        "word": "学生称超市老板挤走卖3.5元泡面档口",
+        "onboard_time": 1733846717,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261615,
+        "num": 261615,
+        "word": "我国90%左右老年人居家养老",
+        "onboard_time": 1733868672,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234194,
+        "num": 234194,
+        "word": "中国女游客国外火车探身拍摄坠车",
+        "onboard_time": 1733845998,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218202,
+        "num": 218202,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182574,
+        "num": 182574,
+        "word": "长期使用日本网红眼药水视力仅剩0.1",
+        "onboard_time": 1733839342,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174763,
+        "num": 174763,
+        "word": "猎罪图鉴尺度",
+        "onboard_time": 1733842700,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147932,
+        "num": 147932,
+        "word": "于适从CCTV6干到CCTV5",
+        "onboard_time": 1733831239,
+        "rank": 9,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 313529,
+        "num": 147496,
+        "word": "范玮琪哽咽谈过去五年经历",
+        "onboard_time": 1733836761,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285990,
+        "num": 147199,
+        "word": "李昀锐大学女友",
+        "onboard_time": 1733837900,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256256,
+        "num": 146670,
+        "word": "怀孕三个月女子遭家暴被踢孕肚",
+        "onboard_time": 1733840482,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191378,
+        "num": 145748,
+        "word": "向佐 我怎么帅都没有我老婆美",
+        "onboard_time": 1733850075,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145478,
+        "num": 145478,
+        "word": "张本回应藏海传画面",
+        "onboard_time": 1733842101,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128571,
+        "num": 128571,
+        "word": "台称解放军在台岛周边部署规模超2022年",
+        "onboard_time": 1733822539,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104001,
+        "num": 104001,
+        "word": "真霸总不穿厚底鞋",
+        "onboard_time": 1733847977,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102637,
+        "num": 102637,
+        "word": "猎罪图鉴偶像案 是按番位杀的吗",
+        "onboard_time": 1733830579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98094,
+        "num": 98094,
+        "word": "紫燕百味鸡仅提供钵钵鸡调味料合格报告",
+        "onboard_time": 1733855833,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 64583,
+        "num": 94174,
+        "word": "猎罪图鉴2 娱乐圈原型",
+        "onboard_time": 1733832378,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101275,
+        "num": 93892,
+        "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+        "onboard_time": 1733837602,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91602,
+        "num": 91602,
+        "word": "庆余年里蜷着慢慢活的大宝具象化了",
+        "onboard_time": 1733843959,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87556,
+        "num": 87556,
+        "word": "将符合条件教师纳入城镇住房保障",
+        "onboard_time": 1733845759,
+        "rank": 22,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 86673,
+        "num": 86673,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82603,
+        "num": 82603,
+        "word": "学院回应公示学生性别变更信息属实",
+        "onboard_time": 1733844799,
+        "rank": 24,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 79441,
+        "num": 79441,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1733830338,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77214,
+        "num": 77214,
+        "word": "财政局报案称被人诈骗近三千万元",
+        "onboard_time": 1733838140,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55471,
+        "num": 76025,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52923,
+        "num": 75848,
+        "word": "丁禹兮千字长文告别慕声",
+        "onboard_time": 1733833399,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48406,
+        "num": 75764,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75759,
+        "num": 75759,
+        "word": "做完近视眼手术后的真实感受",
+        "onboard_time": 1733840962,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74342,
+        "num": 74342,
+        "word": "男子称19岁被舅舅安排任办公室副主任",
+        "onboard_time": 1733824941,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73484,
+        "num": 73484,
+        "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+        "onboard_time": 1733833339,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 69176,
+        "num": 69176,
+        "word": "谢楠晒吴老二侧脸照",
+        "onboard_time": 1733871614,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64180,
+        "num": 64180,
+        "word": "长的漂亮但拍照不上镜的人",
+        "onboard_time": 1733833339,
+        "rank": 34,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 62614,
+        "num": 62614,
+        "word": "一万七的小兰吧唧",
+        "onboard_time": 1733839461,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 57905,
+        "num": 62612,
+        "word": "黑神话悟空终于有地图功能了",
+        "onboard_time": 1733852112,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44268,
+        "num": 62577,
+        "word": "JDG疑似回应Ruler说伙食差",
+        "onboard_time": 1733840184,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42399,
+        "num": 62564,
+        "word": "猎罪图鉴2 猫猫狗狗",
+        "onboard_time": 1733853132,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41256,
+        "num": 62544,
+        "word": "男子酒后殴打怀三胎孕妻致多处受伤",
+        "onboard_time": 1733850256,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41106,
+        "num": 62507,
+        "word": "亚特兰大vs皇马",
+        "onboard_time": 1733872156,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38418,
+        "num": 62498,
+        "word": "全国多地加入下雪群聊",
+        "onboard_time": 1733870233,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27490,
+        "num": 62468,
+        "word": "南水北调中线十周年",
+        "onboard_time": 1733871435,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37941,
+        "num": 62431,
+        "word": "吴尊汪东城合照",
+        "onboard_time": 1733868851,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37886,
+        "num": 62430,
+        "word": "易烊千玺谈影视快餐文化",
+        "onboard_time": 1733871375,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36692,
+        "num": 62396,
+        "word": "九重紫好虐",
+        "onboard_time": 1733844022,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36584,
+        "num": 62383,
+        "word": "韩国会惩罚每一个吃不完外卖的人",
+        "onboard_time": 1733831719,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36197,
+        "num": 62341,
+        "word": "这部动画每一帧都是宝藏",
+        "onboard_time": 1733839642,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34498,
+        "num": 62331,
+        "word": "徐海乔真演短剧男主了",
+        "onboard_time": 1733837241,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33594,
+        "num": 62304,
+        "word": "小偷和失主同时被一对父子骗了",
+        "onboard_time": 1733859971,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进边疆治理体系和治理能力现代化#"
+    }
+  }
+}

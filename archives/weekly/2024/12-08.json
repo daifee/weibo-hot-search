@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733870492685,
+  "endTime": 1733872974847,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1496819,
+      "num": 1496819,
+      "word": "儿子发现离世父亲竟有3个私生子女",
+      "onboard_time": 1733846418,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1492063,
       "num": 1492063,
       "word": "腾讯视频会员权益调整",
@@ -481,14 +489,6 @@
       "onboard_time": 1733646318,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1209492,
-      "num": 1209492,
-      "word": "儿子发现离世父亲竟有3个私生子女",
-      "onboard_time": 1733846418,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1203384,
@@ -2451,6 +2451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408462,
+      "num": 408462,
+      "word": "北京天空出现三个太阳",
+      "onboard_time": 1733864772,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405856,
       "num": 405856,
       "word": "虞书欣双轨造型团队",
@@ -3499,6 +3507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263612,
+      "num": 263612,
+      "word": "学生称超市老板挤走卖3.5元泡面档口",
+      "onboard_time": 1733846717,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263514,
       "num": 299516,
       "word": "陈好今天是被宠爱的一天",
@@ -3513,6 +3529,14 @@
       "onboard_time": 1733727437,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261615,
+      "num": 261615,
+      "word": "我国90%左右老年人居家养老",
+      "onboard_time": 1733868672,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261225,
@@ -3753,14 +3777,6 @@
       "onboard_time": 1733731039,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 246345,
-      "num": 246345,
-      "word": "学生称超市老板挤走卖3.5元泡面档口",
-      "onboard_time": 1733846717,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245892,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1733661260,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221154,
-      "num": 221154,
-      "word": "北京天空出现三个太阳",
-      "onboard_time": 1733864772,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221068,
@@ -4993,6 +5001,14 @@
       "onboard_time": 1733700976,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191378,
+      "num": 145748,
+      "word": "向佐 我怎么帅都没有我老婆美",
+      "onboard_time": 1733850075,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 191144,
@@ -8083,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98094,
+      "num": 98094,
+      "word": "紫燕百味鸡仅提供钵钵鸡调味料合格报告",
+      "onboard_time": 1733855833,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 97622,
       "num": 255032,
       "word": "猎罪图鉴2偶像之死案",
@@ -8267,14 +8291,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 92026,
-      "num": 92026,
-      "word": "向佐 我怎么帅都没有我老婆美",
-      "onboard_time": 1733850075,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91613,
       "num": 261325,
       "word": "男子碰瓷后坐进车主副驾驶谈钱",
@@ -8353,6 +8369,14 @@
       "onboard_time": 1733834240,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87556,
+      "num": 87556,
+      "word": "将符合条件教师纳入城镇住房保障",
+      "onboard_time": 1733845759,
+      "rank": 47,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 87471,
@@ -8651,14 +8675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 77585,
-      "num": 77585,
-      "word": "我国90%左右老年人居家养老",
-      "onboard_time": 1733868672,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77414,
       "num": 483889,
       "word": "文咏珊 做演员的幸福感关乎变化",
@@ -8683,14 +8699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76429,
-      "num": 79526,
-      "word": "将符合条件教师纳入城镇住房保障",
-      "onboard_time": 1733845759,
-      "rank": 47,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 76065,
       "num": 454007,
       "word": "普京暂无正式会见阿萨德计划",
@@ -8705,14 +8713,6 @@
       "onboard_time": 1733796857,
       "rank": 43,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 75319,
-      "num": 75319,
-      "word": "紫燕百味鸡仅提供钵钵鸡调味料合格报告",
-      "onboard_time": 1733855833,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 75120,
@@ -8889,6 +8889,14 @@
       "onboard_time": 1733735961,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69176,
+      "num": 69176,
+      "word": "谢楠晒吴老二侧脸照",
+      "onboard_time": 1733871614,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 68621,
@@ -9129,6 +9137,14 @@
       "onboard_time": 1733663783,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57905,
+      "num": 62612,
+      "word": "黑神话悟空终于有地图功能了",
+      "onboard_time": 1733852112,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 57577,
@@ -9443,6 +9459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48944,
+      "num": 323975,
+      "word": "财政政策更加积极将释放更多可能性",
+      "onboard_time": 1733838680,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 48910,
       "num": 512920,
       "word": "多只地产股开盘涨停",
@@ -9739,6 +9763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42399,
+      "num": 62564,
+      "word": "猎罪图鉴2 猫猫狗狗",
+      "onboard_time": 1733853132,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42316,
       "num": 329743,
       "word": "武汉农商银行8万股1元起拍",
@@ -9761,6 +9793,14 @@
       "onboard_time": 1733827099,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41106,
+      "num": 62507,
+      "word": "亚特兰大vs皇马",
+      "onboard_time": 1733872156,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 41035,
@@ -9795,6 +9835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38418,
+      "num": 76935,
+      "word": "全国多地加入下雪群聊",
+      "onboard_time": 1733870233,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38106,
       "num": 156731,
       "word": "琼瑶花葬将开放粉丝参加",
@@ -9808,6 +9856,22 @@
       "word": "陈凯琳再回应与郑嘉颖婚变",
       "onboard_time": 1733813239,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37941,
+      "num": 62431,
+      "word": "吴尊汪东城合照",
+      "onboard_time": 1733868851,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 37886,
+      "num": 62430,
+      "word": "易烊千玺谈影视快餐文化",
+      "onboard_time": 1733871375,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -10011,20 +10075,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33594,
+      "num": 62304,
+      "word": "小偷和失主同时被一对父子骗了",
+      "onboard_time": 1733859971,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33466,
       "num": 498314,
       "word": "建议冬天旅行前先去趟波司登",
       "onboard_time": 1733647279,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 33440,
-      "num": 33440,
-      "word": "黑神话悟空终于有地图功能了",
-      "onboard_time": 1733852112,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 33385,
@@ -10243,19 +10307,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27846,
-      "num": 37089,
-      "word": "吴尊汪东城合照",
-      "onboard_time": 1733868851,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27707,
       "num": 340129,
       "word": "黄牛抢订公共网球场加价卖被拘",
       "onboard_time": 1733755041,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27490,
+      "num": 62468,
+      "word": "南水北调中线十周年",
+      "onboard_time": 1733871435,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -10307,14 +10371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25691,
-      "num": 177373,
-      "word": "财政政策更加积极将释放更多可能性",
-      "onboard_time": 1733838680,
-      "rank": 2,
-      "category": "正能量,财经"
-    },
-    {
       "raw_hot": 25560,
       "num": 1366769,
       "word": "青知讲说人",
@@ -10361,14 +10417,6 @@
       "onboard_time": 1733768172,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24444,
-      "num": 26864,
-      "word": "小偷和失主同时被一对父子骗了",
-      "onboard_time": 1733859971,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24390,
@@ -10505,14 +10553,6 @@
       "onboard_time": 1733683511,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22131,
-      "num": 26863,
-      "word": "猎罪图鉴2 猫猫狗狗",
-      "onboard_time": 1733853132,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 21786,
@@ -11081,14 +11121,6 @@
       "onboard_time": 1733685732,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8661,
-      "num": 76935,
-      "word": "全国多地加入下雪群聊",
-      "onboard_time": 1733870233,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8001,
