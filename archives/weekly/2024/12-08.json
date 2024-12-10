@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733845309289,
+  "endTime": 1733848286783,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -603,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1055028,
+      "num": 1055028,
+      "word": "儿子发现离世父亲竟有3个私生子女",
+      "onboard_time": 1733846418,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1052747,
       "num": 1052747,
       "word": "蒋欣 华妃又要放肆一回了",
@@ -1136,6 +1144,14 @@
       "word": "何与 双轨",
       "onboard_time": 1733618478,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 743243,
+      "num": 743243,
+      "word": "猎罪图鉴尺度",
+      "onboard_time": 1733842700,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1803,14 +1819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 524148,
-      "num": 524148,
-      "word": "猎罪图鉴尺度",
-      "onboard_time": 1733842700,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 523944,
       "num": 303664,
       "word": "迪丽热巴登春节申遗宣传片",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1733804059,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 456270,
+      "num": 307438,
+      "word": "中国女游客国外火车探身拍摄坠车",
+      "onboard_time": 1733845998,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455445,
@@ -2819,6 +2835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336581,
+      "num": 526224,
+      "word": "学院回应公示学生性别变更信息属实",
+      "onboard_time": 1733844799,
+      "rank": 9,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 335520,
       "num": 335520,
       "word": "做完近视眼手术后的真实感受",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1733840301,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284963,
+      "num": 284963,
+      "word": "虞书欣丁禹兮变装饭太香了",
+      "onboard_time": 1733844501,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 284183,
@@ -4177,14 +4209,6 @@
       "onboard_time": 1733840184,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219946,
-      "num": 219946,
-      "word": "虞书欣丁禹兮变装饭太香了",
-      "onboard_time": 1733844501,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 219893,
@@ -7323,6 +7347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124876,
+      "num": 153705,
+      "word": "学生称超市老板挤走卖3.5元泡面档口",
+      "onboard_time": 1733846717,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124839,
       "num": 124839,
       "word": "跑男又给张真源打歌了",
@@ -7361,6 +7393,14 @@
       "onboard_time": 1733584042,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123933,
+      "num": 284808,
+      "word": "欧阳妮妮9月孕肚大片",
+      "onboard_time": 1733845160,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 123511,
@@ -7489,6 +7529,14 @@
       "onboard_time": 1733830699,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117792,
+      "num": 117792,
+      "word": "杨仕泽说柳拂衣是职业生涯重要节点",
+      "onboard_time": 1733846778,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 117446,
@@ -8587,6 +8635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76429,
+      "num": 79526,
+      "word": "将符合条件教师纳入城镇住房保障",
+      "onboard_time": 1733845759,
+      "rank": 47,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 76065,
       "num": 454007,
       "word": "普京暂无正式会见阿萨德计划",
@@ -8721,14 +8777,6 @@
       "onboard_time": 1733829620,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 70283,
-      "num": 284808,
-      "word": "欧阳妮妮9月孕肚大片",
-      "onboard_time": 1733845160,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 69860,
@@ -9137,14 +9185,6 @@
       "onboard_time": 1733804960,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53411,
-      "num": 526224,
-      "word": "学院回应公示学生性别变更信息属实",
-      "onboard_time": 1733844799,
-      "rank": 9,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 53304,
@@ -10371,6 +10411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19435,
+      "num": 154330,
+      "word": "真霸总不穿厚底鞋",
+      "onboard_time": 1733847977,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18865,
       "num": 225871,
       "word": "韩国创业板指日内重挫5%",
@@ -10457,6 +10505,14 @@
       "onboard_time": 1733775190,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16491,
+      "num": 154285,
+      "word": "谢娜杜华互相蹭",
+      "onboard_time": 1733845099,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 16459,
@@ -10745,6 +10801,14 @@
       "onboard_time": 1733830519,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7406,
+      "num": 153258,
+      "word": "黄雅琼梁王组合合照好欢乐",
+      "onboard_time": 1733848038,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 7292,
