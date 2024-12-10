@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733872974847,
+  "endTime": 1733873845010,
   "band_list": [
     {
       "raw_hot": 1496819,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481317,
+      "num": 481317,
+      "word": "北京天空出现三个太阳",
+      "onboard_time": 1733864772,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456270,
       "num": 419090,
       "word": "中国女游客国外火车探身拍摄坠车",
@@ -59,12 +67,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408462,
-      "num": 408462,
-      "word": "北京天空出现三个太阳",
-      "onboard_time": 1733864772,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 368178,
+      "num": 214359,
+      "word": "范玮琪哽咽谈过去五年经历",
+      "onboard_time": 1733836761,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 336581,
@@ -99,12 +107,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 313529,
-      "num": 214359,
-      "word": "范玮琪哽咽谈过去五年经历",
-      "onboard_time": 1733836761,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 299964,
+      "num": 299964,
+      "word": "我国90%左右老年人居家养老",
+      "onboard_time": 1733868672,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299643,
@@ -123,19 +131,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263612,
-      "num": 263612,
+      "raw_hot": 282382,
+      "num": 282382,
       "word": "学生称超市老板挤走卖3.5元泡面档口",
       "onboard_time": 1733846717,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 261615,
-      "num": 261615,
-      "word": "我国90%左右老年人居家养老",
-      "onboard_time": 1733868672,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1733832378,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228725,
+      "num": 157534,
+      "word": "向佐 我怎么帅都没有我老婆美",
+      "onboard_time": 1733850075,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 211517,
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191378,
-      "num": 145748,
-      "word": "向佐 我怎么帅都没有我老婆美",
-      "onboard_time": 1733850075,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183116,
       "num": 153539,
       "word": "九重紫好虐",
       "onboard_time": 1733844022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166620,
+      "num": 166620,
+      "word": "于适从CCTV6干到CCTV5",
+      "onboard_time": 1733831239,
+      "rank": 41,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 164053,
@@ -203,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156518,
+      "num": 156518,
+      "word": "张本回应藏海传画面",
+      "onboard_time": 1733842101,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154562,
       "num": 154562,
       "word": "男子称19岁被舅舅安排任办公室副主任",
@@ -219,14 +235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147932,
-      "num": 147932,
-      "word": "于适从CCTV6干到CCTV5",
-      "onboard_time": 1733831239,
-      "rank": 41,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 146797,
       "num": 146797,
       "word": "这部动画每一帧都是宝藏",
@@ -235,20 +243,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145478,
-      "num": 145478,
-      "word": "张本回应藏海传画面",
-      "onboard_time": 1733842101,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143079,
       "num": 150776,
       "word": "男子酒后殴打怀三胎孕妻致多处受伤",
       "onboard_time": 1733850256,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140929,
+      "num": 140929,
+      "word": "台称解放军在台岛周边部署规模超2022年",
+      "onboard_time": 1733822539,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138831,
@@ -267,15 +275,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131145,
-      "num": 131145,
-      "word": "徐海乔真演短剧男主了",
-      "onboard_time": 1733837241,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129517,
+      "raw_hot": 132172,
       "num": 129517,
       "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
       "onboard_time": 1733837602,
@@ -283,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128571,
-      "num": 128571,
-      "word": "台称解放军在台岛周边部署规模超2022年",
-      "onboard_time": 1733822539,
-      "rank": 46,
-      "category": "国内时政"
+      "raw_hot": 131145,
+      "num": 131145,
+      "word": "徐海乔真演短剧男主了",
+      "onboard_time": 1733837241,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 126264,
@@ -323,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113700,
+      "num": 113700,
+      "word": "庆余年里蜷着慢慢活的大宝具象化了",
+      "onboard_time": 1733843959,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113524,
       "num": 126744,
       "word": "以军发言人否认以军接近大马士革",
       "onboard_time": 1733824579,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110613,
-      "num": 110613,
-      "word": "庆余年里蜷着慢慢活的大宝具象化了",
-      "onboard_time": 1733843959,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110105,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93923,
+      "num": 93923,
+      "word": "财政局报案称被人诈骗近三千万元",
+      "onboard_time": 1733838140,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89635,
       "num": 89635,
       "word": "JDG疑似回应Ruler说伙食差",
@@ -403,12 +411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87556,
-      "num": 87556,
+      "raw_hot": 89563,
+      "num": 89563,
       "word": "将符合条件教师纳入城镇住房保障",
       "onboard_time": 1733845759,
       "rank": 47,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 89149,
+      "num": 89149,
+      "word": "亚特兰大2比3皇马",
+      "onboard_time": 1733873116,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 87384,
@@ -427,19 +443,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77214,
-      "num": 79523,
-      "word": "财政局报案称被人诈骗近三千万元",
-      "onboard_time": 1733838140,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69176,
-      "num": 69176,
+      "raw_hot": 83583,
+      "num": 83583,
       "word": "谢楠晒吴老二侧脸照",
       "onboard_time": 1733871614,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70199,
+      "num": 84408,
+      "word": "迪丽热巴登春节申遗宣传片",
+      "onboard_time": 1733832979,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -451,12 +467,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 57905,
+      "raw_hot": 61716,
       "num": 62612,
       "word": "黑神话悟空终于有地图功能了",
       "onboard_time": 1733852112,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59340,
+      "num": 373920,
+      "word": "财政政策更加积极将释放更多可能性",
+      "onboard_time": 1733838680,
+      "rank": 2,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 56324,
@@ -467,12 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48944,
-      "num": 323975,
-      "word": "财政政策更加积极将释放更多可能性",
-      "onboard_time": 1733838680,
-      "rank": 2,
-      "category": "正能量,财经"
+      "raw_hot": 50860,
+      "num": 62430,
+      "word": "易烊千玺谈影视快餐文化",
+      "onboard_time": 1733871375,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48646,
+      "num": 76935,
+      "word": "全国多地加入下雪群聊",
+      "onboard_time": 1733870233,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47562,
@@ -491,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44584,
+      "num": 62564,
+      "word": "猎罪图鉴2 猫猫狗狗",
+      "onboard_time": 1733853132,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42769,
       "num": 210232,
       "word": "学校回应超市老板疑挤走食堂档口",
@@ -499,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42399,
-      "num": 62564,
-      "word": "猎罪图鉴2 猫猫狗狗",
-      "onboard_time": 1733853132,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 41567,
+      "num": 62431,
+      "word": "吴尊汪东城合照",
+      "onboard_time": 1733868851,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 41106,
@@ -523,36 +563,20 @@
       "category": "正能量,财经"
     },
     {
-      "raw_hot": 38418,
-      "num": 76935,
-      "word": "全国多地加入下雪群聊",
-      "onboard_time": 1733870233,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37941,
-      "num": 62431,
-      "word": "吴尊汪东城合照",
-      "onboard_time": 1733868851,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 37886,
-      "num": 62430,
-      "word": "易烊千玺谈影视快餐文化",
-      "onboard_time": 1733871375,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37476,
       "num": 125862,
       "word": "孟子义小猫耳朵",
       "onboard_time": 1733851035,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36044,
+      "num": 57218,
+      "word": "考研准考证",
+      "onboard_time": 1733873776,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 34695,
