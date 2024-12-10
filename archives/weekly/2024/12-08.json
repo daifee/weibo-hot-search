@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733802668673,
+  "endTime": 1733804939207,
   "band_list": [
     {
       "raw_hot": 6070403,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193023,
+      "num": 1193023,
+      "word": "甄嬛传晚会官宣孙俪",
+      "onboard_time": 1733801179,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1187551,
       "num": 944542,
       "word": "网曝多名年轻人合伙骗领虐猫",
@@ -401,6 +409,14 @@
       "onboard_time": 1733709978,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1166241,
+      "num": 526788,
+      "word": "收留女硕士男子称办过酒席",
+      "onboard_time": 1733802077,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1145280,
@@ -465,6 +481,14 @@
       "onboard_time": 1733668161,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1030339,
+      "num": 525536,
+      "word": "8旬导师听闻女硕士遭遇眼泪纵横",
+      "onboard_time": 1733803398,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 992520,
@@ -547,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926035,
+      "num": 524383,
+      "word": "志愿者讲女硕士寻亲细节",
+      "onboard_time": 1733803099,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 915410,
       "num": 915410,
       "word": "李昀锐 今年爱上的最后一个男人",
@@ -561,6 +593,14 @@
       "onboard_time": 1733640019,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 908183,
+      "num": 764315,
+      "word": "肖战专辑价格",
+      "onboard_time": 1733801720,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 907380,
@@ -611,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 873901,
+      "num": 431893,
+      "word": "收留走失女硕士男子称不存在拘禁",
+      "onboard_time": 1733802077,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 861936,
       "num": 861936,
       "word": "警方通报私家车不给救护车让路",
@@ -656,6 +704,14 @@
       "word": "徐艺洋开工",
       "onboard_time": 1733729718,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 833374,
+      "num": 533447,
+      "word": "赵露思安慰被霸凌粉丝",
+      "onboard_time": 1733802798,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -899,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 727881,
-      "num": 727881,
-      "word": "甄嬛传晚会官宣孙俪",
-      "onboard_time": 1733801179,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 726791,
       "num": 487314,
       "word": "女子三金丢失准嫂嫂被刑拘",
@@ -931,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 721530,
+      "num": 721530,
+      "word": "年轻人开始渴望加入睡门",
+      "onboard_time": 1733799198,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 718720,
       "num": 245221,
       "word": "爱奇艺导播吃豆橛子了",
@@ -953,14 +1009,6 @@
       "onboard_time": 1733748620,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 703956,
-      "num": 703956,
-      "word": "年轻人开始渴望加入睡门",
-      "onboard_time": 1733799198,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 695949,
@@ -1129,6 +1177,14 @@
       "onboard_time": 1733737101,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614110,
+      "num": 530857,
+      "word": "南部档案",
+      "onboard_time": 1733802559,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 611490,
@@ -1308,7 +1364,7 @@
     },
     {
       "raw_hot": 536971,
-      "num": 330027,
+      "num": 392775,
       "word": "向佐找晓华3小时做新发型",
       "onboard_time": 1733796437,
       "rank": 29,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1733638279,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 533590,
+      "num": 533590,
+      "word": "一觉醒来皮肤被热水袋烫硬了",
+      "onboard_time": 1733801957,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532831,
@@ -1539,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479062,
-      "num": 479062,
-      "word": "肖战专辑价格",
-      "onboard_time": 1733801720,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 478679,
       "num": 478679,
       "word": "孟子义一年级哪有这么好的条件",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1733662940,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430367,
+      "num": 430367,
+      "word": "光遇",
+      "onboard_time": 1733803880,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 429898,
@@ -2275,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313330,
+      "num": 353805,
+      "word": "一块吧唧被炒到7万多背后",
+      "onboard_time": 1733800218,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 312430,
       "num": 312430,
       "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
@@ -2316,11 +2388,27 @@
     },
     {
       "raw_hot": 307759,
-      "num": 242677,
+      "num": 294028,
       "word": "网传江苏一村在地里种成熟大白菜",
       "onboard_time": 1733801179,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 304550,
+      "num": 304550,
+      "word": "律师谈精神病人遭强奸法律认定标准",
+      "onboard_time": 1733802559,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 304108,
+      "num": 304108,
+      "word": "凌晨一点吃了四斤面包",
+      "onboard_time": 1733804120,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 304060,
@@ -2515,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282143,
+      "num": 359103,
+      "word": "光遇复刻",
+      "onboard_time": 1733803999,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 277299,
       "num": 277299,
       "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
@@ -2665,14 +2761,6 @@
       "onboard_time": 1733659882,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260021,
-      "num": 353805,
-      "word": "一块吧唧被炒到7万多背后",
-      "onboard_time": 1733800218,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 257066,
@@ -3091,28 +3179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230299,
-      "num": 230299,
-      "word": "收留女硕士男子称办过酒席",
-      "onboard_time": 1733802077,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 230166,
       "num": 230166,
       "word": "华伦天奴活动",
       "onboard_time": 1733730258,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 228552,
-      "num": 228552,
-      "word": "收留走失女硕士男子称不存在拘禁",
-      "onboard_time": 1733802077,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 226931,
@@ -3315,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205771,
+      "num": 205771,
+      "word": "村民对收留走失女硕士说法不一",
+      "onboard_time": 1733804418,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 205261,
       "num": 205261,
       "word": "余华英案12月19日重审二审开庭",
@@ -3337,6 +3417,14 @@
       "onboard_time": 1733715679,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203826,
+      "num": 203826,
+      "word": "陪高三的女儿旷了一个晚自习",
+      "onboard_time": 1733804059,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 203741,
@@ -3425,14 +3513,6 @@
       "onboard_time": 1733791338,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199616,
-      "num": 263407,
-      "word": "一觉醒来皮肤被热水袋烫硬了",
-      "onboard_time": 1733801957,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199142,
@@ -3676,7 +3756,7 @@
     },
     {
       "raw_hot": 192404,
-      "num": 259714,
+      "num": 304110,
       "word": "郑在玹结业式",
       "onboard_time": 1733802138,
       "rank": 19,
@@ -3939,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185698,
+      "num": 230373,
+      "word": "中共中央政治局第十八次集体学习",
+      "onboard_time": 1733802559,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185571,
       "num": 185571,
       "word": "虞书欣的预告好像连续剧",
@@ -3979,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184699,
+      "num": 304138,
+      "word": "浙江跨晚导演组 办公室录音",
+      "onboard_time": 1733804479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184488,
       "num": 184488,
       "word": "骗子1小时内快递礼物引诱受害者",
@@ -4017,6 +4113,14 @@
       "onboard_time": 1733656399,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181784,
+      "num": 181784,
+      "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
+      "onboard_time": 1733802739,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181047,
@@ -4419,6 +4523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165517,
+      "num": 165517,
+      "word": "永夜星河感谢遇见",
+      "onboard_time": 1733803520,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165471,
       "num": 165471,
       "word": "央视频直播放王一博的歌",
@@ -4601,14 +4713,6 @@
       "onboard_time": 1733740281,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158598,
-      "num": 158598,
-      "word": "律师谈精神病人遭强奸法律认定标准",
-      "onboard_time": 1733802559,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 158572,
@@ -5227,6 +5331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 138366,
+      "num": 519983,
+      "word": "AI魔改亵渎了经典老剧",
+      "onboard_time": 1733803817,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138341,
       "num": 136249,
       "word": "长大后报复性买零食能弥补童年吗",
@@ -5257,14 +5369,6 @@
       "onboard_time": 1733786596,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136484,
-      "num": 230373,
-      "word": "中共中央政治局第十八次集体学习",
-      "onboard_time": 1733802559,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136399,
@@ -5409,14 +5513,6 @@
       "onboard_time": 1733800819,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 131840,
-      "num": 131840,
-      "word": "南部档案",
-      "onboard_time": 1733802559,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 131312,
@@ -5761,6 +5857,14 @@
       "onboard_time": 1733786415,
       "rank": 42,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 113244,
+      "num": 528261,
+      "word": "央视起底虚拟直播间产业链",
+      "onboard_time": 1733803639,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 113225,
@@ -6321,6 +6425,14 @@
       "onboard_time": 1733669001,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87388,
+      "num": 500487,
+      "word": "为什么苹果手表会吸在玻璃上",
+      "onboard_time": 1733804120,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 87108,
@@ -7067,6 +7179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49679,
+      "num": 465274,
+      "word": "俄在叙军事基地未受叙武装派别攻击",
+      "onboard_time": 1733802559,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49670,
       "num": 312311,
       "word": "专家称缩小收入差距主要是提低",
@@ -7297,6 +7417,14 @@
       "onboard_time": 1733739682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41621,
+      "num": 512920,
+      "word": "多只地产股开盘涨停",
+      "onboard_time": 1733804539,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 39350,
@@ -7603,6 +7731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27750,
+      "num": 530269,
+      "word": "两市100只个股涨停",
+      "onboard_time": 1733804059,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 27707,
       "num": 340129,
       "word": "黄牛抢订公共网球场加价卖被拘",
@@ -7633,6 +7769,14 @@
       "onboard_time": 1733800758,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 26305,
+      "num": 477141,
+      "word": "为帮宝妈止损民警与骗子上演局中局",
+      "onboard_time": 1733804299,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25560,
@@ -7777,6 +7921,14 @@
       "onboard_time": 1733693171,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22296,
+      "num": 518696,
+      "word": "白敬亭Salomon户外风尚代言人",
+      "onboard_time": 1733803699,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 22174,
@@ -8169,14 +8321,6 @@
       "onboard_time": 1733685732,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8622,
-      "num": 282775,
-      "word": "俄在叙军事基地未受叙武装派别攻击",
-      "onboard_time": 1733802559,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8001,
