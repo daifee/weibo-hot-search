@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733862393610,
+  "endTime": 1733863229234,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -35411,6 +35411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16370,
+      "num": 27298,
+      "word": "哈工程雪地航母正式就位",
+      "onboard_time": 1733861173,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16315,
       "num": 318593,
       "word": "金花股份挪用募资炒股被监管",
@@ -35923,6 +35931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13601,
+      "num": 14432,
+      "word": "檀健次剧透六个沈翊一台戏",
+      "onboard_time": 1733862611,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13524,
       "num": 694270,
       "word": "琼瑶生前最后影像画面",
@@ -36025,14 +36041,6 @@
       "onboard_time": 1733719341,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12992,
-      "num": 27298,
-      "word": "哈工程雪地航母正式就位",
-      "onboard_time": 1733861173,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12966,
@@ -36251,6 +36259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 10982,
+      "num": 31426,
+      "word": "枪杀保险CEO嫌犯曾逃脱地毯式搜索",
+      "onboard_time": 1733862371,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 10904,
       "num": 415345,
       "word": "UFC310",
@@ -36315,12 +36331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 10218,
-      "num": 18534,
-      "word": "枪杀保险CEO嫌犯曾逃脱地毯式搜索",
-      "onboard_time": 1733862371,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 10140,
+      "num": 16850,
+      "word": "退伍军人出差途中跳桥救人",
+      "onboard_time": 1733863150,
+      "rank": 34,
+      "category": "正能量"
     },
     {
       "raw_hot": 9994,
