@@ -1,0 +1,402 @@
+{
+  "runTime": 1733802668673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249029,
+        "num": 1249029,
+        "word": "韩国出土4块千年木简",
+        "onboard_time": 1733798657,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 727881,
+        "num": 727881,
+        "word": "甄嬛传晚会官宣孙俪",
+        "onboard_time": 1733801179,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6070403,
+        "num": 708480,
+        "word": "收留走失女硕士男子发声",
+        "onboard_time": 1733800639,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703956,
+        "num": 703956,
+        "word": "年轻人开始渴望加入睡门",
+        "onboard_time": 1733799198,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 643492,
+        "num": 643492,
+        "word": "4部影片定档春节档",
+        "onboard_time": 1733794998,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479062,
+        "num": 479062,
+        "word": "肖战专辑价格",
+        "onboard_time": 1733801720,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 464159,
+        "num": 464159,
+        "word": "腾讯视频会员权益调整",
+        "onboard_time": 1733792540,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 396313,
+        "num": 396313,
+        "word": "杨紫白鹿新剧对打",
+        "onboard_time": 1733787076,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298138,
+        "num": 298138,
+        "word": "小学校长13年受贿949万",
+        "onboard_time": 1733791580,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 569428,
+        "num": 294518,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340256,
+        "num": 291366,
+        "word": "陈晓没去参加陈妍希父亲葬礼",
+        "onboard_time": 1733743280,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46883,
+        "num": 287631,
+        "word": "A股成交额第50个交易日破万亿",
+        "onboard_time": 1733801838,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 8622,
+        "num": 282775,
+        "word": "俄在叙军事基地未受叙武装派别攻击",
+        "onboard_time": 1733802559,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70895,
+        "num": 277602,
+        "word": "多人晕堂洗浴中心门票价格仅9.9元",
+        "onboard_time": 1733801538,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308269,
+        "num": 273788,
+        "word": "猎罪图鉴2今日开播",
+        "onboard_time": 1733799677,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307469,
+        "num": 266747,
+        "word": "小时候很害怕BIGBANG",
+        "onboard_time": 1733789058,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 263407,
+        "word": "一觉醒来皮肤被热水袋烫硬了",
+        "onboard_time": 1733801957,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260021,
+        "num": 260021,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 259714,
+        "word": "郑在玹结业式",
+        "onboard_time": 1733802138,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446811,
+        "num": 254308,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100170,
+        "num": 252011,
+        "word": "沈翊杜城搭档信任危机",
+        "onboard_time": 1733801957,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423741,
+        "num": 247772,
+        "word": "大妈为捡塑料瓶竟放火烧山",
+        "onboard_time": 1733796978,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307759,
+        "num": 242677,
+        "word": "网传江苏一村在地里种成熟大白菜",
+        "onboard_time": 1733801179,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 273051,
+        "num": 239346,
+        "word": "戒咖啡一个月身体的变化",
+        "onboard_time": 1733793197,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272351,
+        "num": 235476,
+        "word": "洗浴中心多人出现不适亲历者发声",
+        "onboard_time": 1733754982,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263630,
+        "num": 231840,
+        "word": "原来年终奖和十三薪的区别这么大",
+        "onboard_time": 1733791520,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 231257,
+        "num": 231257,
+        "word": "泰国女歌手3次按摩后瘫痪",
+        "onboard_time": 1733800038,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52297,
+        "num": 230765,
+        "word": "一梦如故女子亦可成就大业",
+        "onboard_time": 1733802618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136484,
+        "num": 230373,
+        "word": "中共中央政治局第十八次集体学习",
+        "onboard_time": 1733802559,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230299,
+        "num": 230299,
+        "word": "收留女硕士男子称办过酒席",
+        "onboard_time": 1733802077,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229756,
+        "num": 229756,
+        "word": "英伟达市值一夜蒸发6400亿元",
+        "onboard_time": 1733791157,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228552,
+        "num": 228552,
+        "word": "收留走失女硕士男子称不存在拘禁",
+        "onboard_time": 1733802077,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212497,
+        "num": 212497,
+        "word": "小米YU7",
+        "onboard_time": 1733747179,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210537,
+        "num": 210537,
+        "word": "丁禹兮耳骨夹",
+        "onboard_time": 1733794577,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127140,
+        "num": 202157,
+        "word": "余华英案12月19日重审二审开庭",
+        "onboard_time": 1733795779,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198209,
+        "num": 198209,
+        "word": "涉嫌违反反垄断法英伟达被立案调查",
+        "onboard_time": 1733744840,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196953,
+        "num": 196953,
+        "word": "肖战专辑明天开售",
+        "onboard_time": 1733802259,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196211,
+        "num": 196211,
+        "word": "李昀锐演技",
+        "onboard_time": 1733787856,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175544,
+        "num": 175544,
+        "word": "股市",
+        "onboard_time": 1733795598,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174615,
+        "num": 174615,
+        "word": "深情眼开机",
+        "onboard_time": 1733799739,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173154,
+        "num": 173154,
+        "word": "小猫抱小狗",
+        "onboard_time": 1733800278,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158697,
+        "num": 158697,
+        "word": "古偶剧的流量密码为什么失灵了",
+        "onboard_time": 1733799857,
+        "rank": 42,
+        "category": "议题讨论,作品衍生"
+      },
+      {
+        "raw_hot": 158598,
+        "num": 158598,
+        "word": "律师谈精神病人遭强奸法律认定标准",
+        "onboard_time": 1733802559,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157491,
+        "num": 157491,
+        "word": "组建叙利亚过渡政府",
+        "onboard_time": 1733751321,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149480,
+        "num": 149480,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137026,
+        "num": 137026,
+        "word": "45岁以上高血压患病率已近六成",
+        "onboard_time": 1733795478,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133568,
+        "num": 133568,
+        "word": "超5300只个股上涨",
+        "onboard_time": 1733797398,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132355,
+        "num": 132355,
+        "word": "小米YU7正进行大规模路测",
+        "onboard_time": 1733800819,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131840,
+        "num": 131840,
+        "word": "南部档案",
+        "onboard_time": 1733802559,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

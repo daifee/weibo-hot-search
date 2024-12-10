@@ -1,7 +1,15 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733801105228,
+  "endTime": 1733802668673,
   "band_list": [
+    {
+      "raw_hot": 6070403,
+      "num": 1107650,
+      "word": "收留走失女硕士男子发声",
+      "onboard_time": 1733800639,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 4169503,
       "num": 4169503,
@@ -401,14 +409,6 @@
       "onboard_time": 1733794998,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1107650,
-      "num": 1107650,
-      "word": "收留走失女硕士男子发声",
-      "onboard_time": 1733800639,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1092999,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727881,
+      "num": 727881,
+      "word": "甄嬛传晚会官宣孙俪",
+      "onboard_time": 1733801179,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 726791,
       "num": 487314,
       "word": "女子三金丢失准嫂嫂被刑拘",
@@ -945,6 +953,14 @@
       "onboard_time": 1733748620,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 703956,
+      "num": 703956,
+      "word": "年轻人开始渴望加入睡门",
+      "onboard_time": 1733799198,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695949,
@@ -1443,14 +1459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 504997,
-      "num": 504997,
-      "word": "年轻人开始渴望加入睡门",
-      "onboard_time": 1733799198,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502666,
       "num": 502666,
       "word": "浙江省考",
@@ -1529,6 +1537,14 @@
       "onboard_time": 1733720779,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 479062,
+      "num": 479062,
+      "word": "肖战专辑价格",
+      "onboard_time": 1733801720,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 478679,
@@ -2299,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307759,
+      "num": 242677,
+      "word": "网传江苏一村在地里种成熟大白菜",
+      "onboard_time": 1733801179,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
@@ -2641,6 +2665,14 @@
       "onboard_time": 1733659882,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 260021,
+      "num": 353805,
+      "word": "一块吧唧被炒到7万多背后",
+      "onboard_time": 1733800218,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 257066,
@@ -3059,12 +3091,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230299,
+      "num": 230299,
+      "word": "收留女硕士男子称办过酒席",
+      "onboard_time": 1733802077,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 230166,
       "num": 230166,
       "word": "华伦天奴活动",
       "onboard_time": 1733730258,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 228552,
+      "num": 228552,
+      "word": "收留走失女硕士男子称不存在拘禁",
+      "onboard_time": 1733802077,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 226931,
@@ -3379,6 +3427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199616,
+      "num": 263407,
+      "word": "一觉醒来皮肤被热水袋烫硬了",
+      "onboard_time": 1733801957,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199142,
       "num": 199142,
       "word": "周杰伦大巨蛋演唱会",
@@ -3464,6 +3520,14 @@
       "word": "刘耀文过了今天也会想我吗",
       "onboard_time": 1733639360,
       "rank": 31,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 196953,
+      "num": 196953,
+      "word": "肖战专辑明天开售",
+      "onboard_time": 1733802259,
+      "rank": 37,
       "category": "音乐"
     },
     {
@@ -3609,6 +3673,14 @@
       "onboard_time": 1733714480,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192404,
+      "num": 259714,
+      "word": "郑在玹结业式",
+      "onboard_time": 1733802138,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 192252,
@@ -4147,6 +4219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173154,
+      "num": 173154,
+      "word": "小猫抱小狗",
+      "onboard_time": 1733800278,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172447,
       "num": 172447,
       "word": "张杰想了半天脚麻吗",
@@ -4521,6 +4601,14 @@
       "onboard_time": 1733740281,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158598,
+      "num": 158598,
+      "word": "律师谈精神病人遭强奸法律认定标准",
+      "onboard_time": 1733802559,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 158572,
@@ -5171,6 +5259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136484,
+      "num": 230373,
+      "word": "中共中央政治局第十八次集体学习",
+      "onboard_time": 1733802559,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136399,
       "num": 137842,
       "word": "凤凰组合年度最佳混双",
@@ -5275,6 +5371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133568,
+      "num": 133568,
+      "word": "超5300只个股上涨",
+      "onboard_time": 1733797398,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133179,
       "num": 114152,
       "word": "赵丽颖",
@@ -5291,14 +5395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133045,
-      "num": 133045,
-      "word": "小猫抱小狗",
-      "onboard_time": 1733800278,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 132438,
       "num": 110293,
       "word": "邓为紫海",
@@ -5307,12 +5403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132160,
-      "num": 353805,
-      "word": "一块吧唧被炒到7万多背后",
-      "onboard_time": 1733800218,
-      "rank": 13,
-      "category": "财经"
+      "raw_hot": 132355,
+      "num": 132355,
+      "word": "小米YU7正进行大规模路测",
+      "onboard_time": 1733800819,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 131840,
+      "num": 131840,
+      "word": "南部档案",
+      "onboard_time": 1733802559,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131312,
@@ -5643,14 +5747,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 114697,
-      "num": 114697,
-      "word": "小米YU7正进行大规模路测",
-      "onboard_time": 1733800819,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 114238,
       "num": 255282,
       "word": "王曼昱3比0迪亚科努",
@@ -5961,6 +6057,14 @@
       "onboard_time": 1733748438,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100170,
+      "num": 252011,
+      "word": "沈翊杜城搭档信任危机",
+      "onboard_time": 1733801957,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 99782,
@@ -6547,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70895,
+      "num": 277602,
+      "word": "多人晕堂洗浴中心门票价格仅9.9元",
+      "onboard_time": 1733801538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69860,
       "num": 181122,
       "word": "国债安排得明明白白效果也会实实在在",
@@ -6859,6 +6971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52297,
+      "num": 230765,
+      "word": "一梦如故女子亦可成就大业",
+      "onboard_time": 1733802618,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52182,
       "num": 406904,
       "word": "浴帽式保鲜膜靠谱吗",
@@ -7009,6 +7129,14 @@
       "onboard_time": 1733720481,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 46883,
+      "num": 287631,
+      "word": "A股成交额第50个交易日破万亿",
+      "onboard_time": 1733801838,
+      "rank": 12,
+      "category": "财经"
     },
     {
       "raw_hot": 46764,
@@ -8041,6 +8169,14 @@
       "onboard_time": 1733685732,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8622,
+      "num": 282775,
+      "word": "俄在叙军事基地未受叙武装派别攻击",
+      "onboard_time": 1733802559,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8001,
