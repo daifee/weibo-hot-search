@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733804939207,
+  "endTime": 1733805834777,
   "band_list": [
     {
       "raw_hot": 6070403,
@@ -17,6 +17,14 @@
       "onboard_time": 1733757618,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1651659,
+      "num": 525536,
+      "word": "8旬导师听闻女硕士遭遇眼泪纵横",
+      "onboard_time": 1733803398,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1492063,
@@ -59,14 +67,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1030339,
-      "num": 525536,
-      "word": "8旬导师听闻女硕士遭遇眼泪纵横",
-      "onboard_time": 1733803398,
-      "rank": 11,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 926035,
       "num": 524383,
       "word": "志愿者讲女硕士寻亲细节",
@@ -83,8 +83,16 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 901073,
+      "num": 901073,
+      "word": "赵露思安慰被霸凌粉丝",
+      "onboard_time": 1733802798,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 873901,
-      "num": 431893,
+      "num": 483879,
       "word": "收留走失女硕士男子称不存在拘禁",
       "onboard_time": 1733802077,
       "rank": 32,
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 833374,
-      "num": 533447,
-      "word": "赵露思安慰被霸凌粉丝",
-      "onboard_time": 1733802798,
-      "rank": 6,
-      "category": "艺人"
+      "raw_hot": 755355,
+      "num": 755355,
+      "word": "一觉醒来皮肤被热水袋烫硬了",
+      "onboard_time": 1733801957,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 737724,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 536971,
-      "num": 392775,
+      "num": 413613,
       "word": "向佐找晓华3小时做新发型",
       "onboard_time": 1733796437,
       "rank": 29,
@@ -185,14 +193,6 @@
       "onboard_time": 1733758579,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 533590,
-      "num": 533590,
-      "word": "一觉醒来皮肤被热水袋烫硬了",
-      "onboard_time": 1733801957,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 512931,
@@ -209,6 +209,22 @@
       "onboard_time": 1733791157,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 483895,
+      "num": 483895,
+      "word": "一块吧唧被炒到7万多背后",
+      "onboard_time": 1733800218,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 483878,
+      "num": 483877,
+      "word": "凌晨一点吃了四斤面包",
+      "onboard_time": 1733804120,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 462311,
@@ -299,6 +315,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 340618,
+      "num": 340618,
+      "word": "浙江跨晚导演组 办公室录音",
+      "onboard_time": 1733804479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334555,
       "num": 334555,
       "word": "李昀锐 今年爱上的最后一个男人",
@@ -313,6 +337,14 @@
       "onboard_time": 1733799677,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321914,
+      "num": 321914,
+      "word": "律师谈精神病人遭强奸法律认定标准",
+      "onboard_time": 1733802559,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 319059,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313330,
-      "num": 353805,
-      "word": "一块吧唧被炒到7万多背后",
-      "onboard_time": 1733800218,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 307759,
       "num": 294028,
       "word": "网传江苏一村在地里种成熟大白菜",
@@ -347,20 +371,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 304550,
-      "num": 304550,
-      "word": "律师谈精神病人遭强奸法律认定标准",
-      "onboard_time": 1733802559,
-      "rank": 43,
+      "raw_hot": 303817,
+      "num": 303817,
+      "word": "村民对收留走失女硕士说法不一",
+      "onboard_time": 1733804418,
+      "rank": 39,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 304108,
-      "num": 304108,
-      "word": "凌晨一点吃了四斤面包",
-      "onboard_time": 1733804120,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 293148,
+      "num": 323993,
+      "word": "韩国人最爱看的中剧排行",
+      "onboard_time": 1733805139,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 289938,
@@ -401,6 +425,14 @@
       "onboard_time": 1733786294,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261882,
+      "num": 261882,
+      "word": "陪高三的女儿旷了一个晚自习",
+      "onboard_time": 1733804059,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 261386,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231407,
+      "num": 483894,
+      "word": "易烊千玺说更喜欢扎根的工作",
+      "onboard_time": 1733800517,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228753,
       "num": 228753,
       "word": "范丞丞 看看我还要澄清什么",
@@ -531,28 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205771,
-      "num": 205771,
-      "word": "村民对收留走失女硕士说法不一",
-      "onboard_time": 1733804418,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 205261,
       "num": 205261,
       "word": "余华英案12月19日重审二审开庭",
       "onboard_time": 1733795779,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203826,
-      "num": 203826,
-      "word": "陪高三的女儿旷了一个晚自习",
-      "onboard_time": 1733804059,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 202161,
@@ -595,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192118,
-      "num": 192118,
-      "word": "易烊千玺说更喜欢扎根的工作",
-      "onboard_time": 1733800517,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187636,
       "num": 187636,
       "word": "28岁独立女性报复性弥补童年遗憾",
@@ -635,14 +651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184699,
-      "num": 304138,
-      "word": "浙江跨晚导演组 办公室录音",
-      "onboard_time": 1733804479,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182871,
       "num": 182871,
       "word": "九重紫",
@@ -657,6 +665,14 @@
       "onboard_time": 1733802739,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179265,
+      "num": 519983,
+      "word": "AI魔改亵渎了经典老剧",
+      "onboard_time": 1733803817,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 173154,
@@ -713,6 +729,14 @@
       "onboard_time": 1733759839,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162709,
+      "num": 500487,
+      "word": "为什么苹果手表会吸在玻璃上",
+      "onboard_time": 1733804120,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 160507,
@@ -801,14 +825,6 @@
       "onboard_time": 1733799677,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138366,
-      "num": 519983,
-      "word": "AI魔改亵渎了经典老剧",
-      "onboard_time": 1733803817,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 138341,
@@ -921,6 +937,14 @@
       "onboard_time": 1733739379,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116694,
+      "num": 483878,
+      "word": "欧刚谈TheShy重回iG",
+      "onboard_time": 1733805439,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 115109,
@@ -1115,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87388,
-      "num": 500487,
-      "word": "为什么苹果手表会吸在玻璃上",
-      "onboard_time": 1733804120,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 84360,
       "num": 84360,
       "word": "志愿者称走失女硕士丈夫在做笔录",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1733758818,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77414,
+      "num": 483889,
+      "word": "文咏珊 做演员的幸福感关乎变化",
+      "onboard_time": 1733805080,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75927,
@@ -1299,6 +1323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53704,
+      "num": 322373,
+      "word": "A股放量4151亿",
+      "onboard_time": 1733804960,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 53304,
+      "num": 530269,
+      "word": "两市100只个股涨停",
+      "onboard_time": 1733804059,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 52297,
       "num": 230765,
       "word": "一梦如故女子亦可成就大业",
@@ -1347,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48910,
+      "num": 512920,
+      "word": "多只地产股开盘涨停",
+      "onboard_time": 1733804539,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 46883,
       "num": 287631,
       "word": "A股成交额第50个交易日破万亿",
@@ -1379,12 +1427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41621,
-      "num": 512920,
-      "word": "多只地产股开盘涨停",
-      "onboard_time": 1733804539,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 34565,
+      "num": 483884,
+      "word": "为帮宝妈止损民警与骗子上演局中局",
+      "onboard_time": 1733804299,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34462,
@@ -1419,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27750,
-      "num": 530269,
-      "word": "两市100只个股涨停",
-      "onboard_time": 1733804059,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 26651,
       "num": 26651,
       "word": "本科专业大洗牌背后的调整逻辑",
@@ -1441,14 +1481,6 @@
       "onboard_time": 1733800758,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 26305,
-      "num": 477141,
-      "word": "为帮宝妈止损民警与骗子上演局中局",
-      "onboard_time": 1733804299,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25095,
@@ -1491,7 +1523,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22296,
+      "raw_hot": 22916,
       "num": 518696,
       "word": "白敬亭Salomon户外风尚代言人",
       "onboard_time": 1733803699,
@@ -1513,6 +1545,14 @@
       "onboard_time": 1733729358,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 19559,
+      "num": 483887,
+      "word": "优酷这把直接熹妃回宫",
+      "onboard_time": 1733805619,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 17552,
@@ -1571,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11351,
+      "num": 921733,
+      "word": "中国经济航船有信心继续乘风破浪",
+      "onboard_time": 1733805741,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 11158,
       "num": 104271,
       "word": "国乒在成都与市民切磋球技",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1733689511,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4107,
+      "num": 483890,
+      "word": "青知讲说人",
+      "onboard_time": 1733710396,
+      "rank": 12,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -1625,6 +1681,9 @@
     },
     {
       "word": "#中共中央召开党外人士座谈会#"
+    },
+    {
+      "word": "#为实现十五五良好开局打牢基础#"
     }
   ]
 }
