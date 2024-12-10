@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733805834777,
+  "endTime": 1733808244863,
   "band_list": [
     {
       "raw_hot": 6070403,
@@ -193,6 +193,14 @@
       "onboard_time": 1733647519,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1569330,
+      "num": 1569330,
+      "word": "一块吧唧被炒到7万多背后",
+      "onboard_time": 1733800218,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 1531741,
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672247,
+      "num": 321914,
+      "word": "律师谈精神病人遭强奸法律认定标准",
+      "onboard_time": 1733802559,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 670096,
       "num": 670096,
       "word": "收留还是拐卖公众定会等到真相",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1733642539,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581869,
+      "num": 483887,
+      "word": "优酷这把直接熹妃回宫",
+      "onboard_time": 1733805619,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 581379,
@@ -1595,14 +1619,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 483895,
-      "num": 483895,
-      "word": "一块吧唧被炒到7万多背后",
-      "onboard_time": 1733800218,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 483878,
       "num": 483877,
       "word": "凌晨一点吃了四斤面包",
@@ -1763,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441250,
+      "num": 340618,
+      "word": "浙江跨晚导演组 办公室录音",
+      "onboard_time": 1733804479,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 440939,
       "num": 308982,
       "word": "九部门明确家暴证据标准",
@@ -1793,6 +1817,14 @@
       "onboard_time": 1733662940,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435101,
+      "num": 303817,
+      "word": "村民对收留走失女硕士说法不一",
+      "onboard_time": 1733804418,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 430367,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1733758579,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 425799,
+      "num": 483894,
+      "word": "易烊千玺说更喜欢扎根的工作",
+      "onboard_time": 1733800517,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 421218,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1733627058,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 402336,
+      "num": 261882,
+      "word": "陪高三的女儿旷了一个晚自习",
+      "onboard_time": 1733804059,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 397365,
@@ -2043,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364308,
+      "num": 323993,
+      "word": "韩国人最爱看的中剧排行",
+      "onboard_time": 1733805139,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362826,
       "num": 292795,
       "word": "韩安冉孩子被P黑白照",
@@ -2080,6 +2136,14 @@
       "word": "丁禹兮直播",
       "onboard_time": 1733657119,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 353344,
+      "num": 222316,
+      "word": "山下智久晒与周杰伦合照",
+      "onboard_time": 1733806341,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -2137,14 +2201,6 @@
       "onboard_time": 1733663481,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 340618,
-      "num": 340618,
-      "word": "浙江跨晚导演组 办公室录音",
-      "onboard_time": 1733804479,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 339959,
@@ -2241,14 +2297,6 @@
       "onboard_time": 1733701755,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321914,
-      "num": 321914,
-      "word": "律师谈精神病人遭强奸法律认定标准",
-      "onboard_time": 1733802559,
-      "rank": 43,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 321769,
@@ -2427,14 +2475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303817,
-      "num": 303817,
-      "word": "村民对收留走失女硕士说法不一",
-      "onboard_time": 1733804418,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 302987,
       "num": 335344,
       "word": "高天佐否认和周芯竹谈过",
@@ -2531,10 +2571,10 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293148,
-      "num": 323993,
-      "word": "韩国人最爱看的中剧排行",
-      "onboard_time": 1733805139,
+      "raw_hot": 291602,
+      "num": 215400,
+      "word": "蒋欣 华妃又要放肆一回了",
+      "onboard_time": 1733807659,
       "rank": 28,
       "category": "剧集"
     },
@@ -2761,14 +2801,6 @@
       "onboard_time": 1733727437,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 261882,
-      "num": 261882,
-      "word": "陪高三的女儿旷了一个晚自习",
-      "onboard_time": 1733804059,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 261225,
@@ -3203,12 +3235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231407,
-      "num": 483894,
-      "word": "易烊千玺说更喜欢扎根的工作",
-      "onboard_time": 1733800517,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 231777,
+      "num": 231777,
+      "word": "王楚钦世排第一8825分",
+      "onboard_time": 1733806700,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 231300,
@@ -3241,6 +3273,14 @@
       "onboard_time": 1733582545,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226239,
+      "num": 226239,
+      "word": "郑钦文无缘WTA年度最佳球员",
+      "onboard_time": 1733806760,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 224483,
@@ -3347,6 +3387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211746,
+      "num": 211746,
+      "word": "虞书欣我们平行世界再见",
+      "onboard_time": 1733806219,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210938,
       "num": 210938,
       "word": "广州地铁客服回应安检新规",
@@ -3393,6 +3441,14 @@
       "onboard_time": 1733740821,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207850,
+      "num": 500487,
+      "word": "为什么苹果手表会吸在玻璃上",
+      "onboard_time": 1733804120,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 207337,
@@ -3451,6 +3507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203963,
+      "num": 203963,
+      "word": "南部档案官宣",
+      "onboard_time": 1733807720,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203741,
       "num": 203741,
       "word": "疑有人领到大冰免费羽绒服后转卖",
@@ -3465,6 +3529,14 @@
       "onboard_time": 1733732178,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203415,
+      "num": 214971,
+      "word": "吴磊黑马王子",
+      "onboard_time": 1733807418,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202657,
@@ -3867,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190435,
+      "num": 190435,
+      "word": "女子推理社",
+      "onboard_time": 1733807959,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190353,
       "num": 110580,
       "word": "现在拨打的电话 以爱为营",
@@ -3945,6 +4025,14 @@
       "onboard_time": 1733661201,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188199,
+      "num": 224966,
+      "word": "泽连斯基称特朗普现在说的还不算",
+      "onboard_time": 1733807659,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188191,
@@ -4124,7 +4212,7 @@
     },
     {
       "raw_hot": 181784,
-      "num": 181784,
+      "num": 218860,
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
       "onboard_time": 1733802739,
       "rank": 42,
@@ -4209,6 +4297,14 @@
       "onboard_time": 1733718501,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 176988,
+      "num": 225383,
+      "word": "TXT长期休假",
+      "onboard_time": 1733808019,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 176632,
@@ -4633,14 +4729,6 @@
       "onboard_time": 1733730560,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162709,
-      "num": 500487,
-      "word": "为什么苹果手表会吸在玻璃上",
-      "onboard_time": 1733804120,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 162606,
@@ -5075,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "aespa黑胶唱片",
+      "onboard_time": 1733806639,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147446,
       "num": 147446,
       "word": "约基奇56分",
@@ -5097,6 +5193,14 @@
       "onboard_time": 1733652440,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146736,
+      "num": 146736,
+      "word": "教体局回应冬季校服划开是碎布垃圾",
+      "onboard_time": 1733806520,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146402,
@@ -6027,6 +6131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107665,
+      "num": 670841,
+      "word": "1万亿元超长期特别国债安排完毕",
+      "onboard_time": 1733805859,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107445,
       "num": 302417,
       "word": "Mafa 感谢把我召回iG",
@@ -6235,6 +6347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96642,
+      "num": 213292,
+      "word": "傅菁首次主演喜剧电影",
+      "onboard_time": 1733806040,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96369,
       "num": 96369,
       "word": "文化中国行看中国非遗惊艳了2024",
@@ -6273,6 +6393,14 @@
       "onboard_time": 1733732121,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95862,
+      "num": 220124,
+      "word": "疯驴子新剧被反杀",
+      "onboard_time": 1733807599,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 95571,
@@ -6617,6 +6745,14 @@
       "onboard_time": 1733768112,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79725,
+      "num": 169162,
+      "word": "赵丽颖泉州历史和传统文化vlog",
+      "onboard_time": 1733806160,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 79468,
@@ -6987,6 +7123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58115,
+      "num": 224190,
+      "word": "执法人员调查大连涉事口腔医疗机构",
+      "onboard_time": 1733807180,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58014,
       "num": 58014,
       "word": "外交部就以色列空袭大马士革发声",
@@ -7105,6 +7249,14 @@
       "onboard_time": 1733804059,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53252,
+      "num": 219066,
+      "word": "陈梦期待老瓦杯",
+      "onboard_time": 1733806639,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 53154,
@@ -7659,6 +7811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 31919,
+      "num": 518696,
+      "word": "白敬亭Salomon户外风尚代言人",
+      "onboard_time": 1733803699,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 31836,
       "num": 52404,
       "word": "邬善 洋葱精",
@@ -7923,14 +8083,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 22916,
-      "num": 518696,
-      "word": "白敬亭Salomon户外风尚代言人",
-      "onboard_time": 1733803699,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 22839,
       "num": 33702,
       "word": "英国1磅的早午饭",
@@ -8041,14 +8193,6 @@
       "onboard_time": 1733598852,
       "rank": 44,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 19559,
-      "num": 483887,
-      "word": "优酷这把直接熹妃回宫",
-      "onboard_time": 1733805619,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 19460,
