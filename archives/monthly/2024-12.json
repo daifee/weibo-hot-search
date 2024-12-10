@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733829657114,
+  "endTime": 1733830599046,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 2111747,
-      "num": 325953,
+      "num": 327113,
       "word": "这居然是吴倩",
       "onboard_time": 1733827820,
       "rank": 10,
@@ -4539,6 +4539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 599253,
+      "num": 599253,
+      "word": "九重紫",
+      "onboard_time": 1733127678,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598094,
       "num": 598094,
       "word": "年轻的你们 千万不要轻易放弃生命",
@@ -5313,14 +5321,6 @@
       "onboard_time": 1733650099,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 530058,
-      "num": 530058,
-      "word": "九重紫",
-      "onboard_time": 1733127678,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 529038,
@@ -6289,6 +6289,14 @@
       "onboard_time": 1733049558,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 463113,
+      "num": 463113,
+      "word": "太好了是猎罪图鉴2 期末没救了",
+      "onboard_time": 1733827159,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 462852,
@@ -8323,14 +8331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360768,
-      "num": 321711,
-      "word": "太好了是猎罪图鉴2 期末没救了",
-      "onboard_time": 1733827159,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 360657,
       "num": 360657,
       "word": "内蒙古沙漠下有个大水库",
@@ -10003,6 +10003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292646,
+      "num": 365475,
+      "word": "张萌 你们能有我会嗑么",
+      "onboard_time": 1733824759,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292276,
       "num": 292276,
       "word": "鹿晗直播放了都暻秀单曲",
@@ -10569,14 +10577,6 @@
       "onboard_time": 1733436853,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273886,
-      "num": 365475,
-      "word": "张萌 你们能有我会嗑么",
-      "onboard_time": 1733824759,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 273856,
@@ -13723,6 +13723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206198,
+      "num": 186998,
+      "word": "苏新皓女装跳舞",
+      "onboard_time": 1733829620,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206144,
       "num": 206144,
       "word": "关晓彤雪地玫瑰",
@@ -13961,6 +13969,14 @@
       "onboard_time": 1733732178,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203425,
+      "num": 191765,
+      "word": "34岁来英国留学的堕落之夜",
+      "onboard_time": 1733827461,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 203415,
@@ -15315,14 +15331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 191765,
-      "num": 191765,
-      "word": "34岁来英国留学的堕落之夜",
-      "onboard_time": 1733827461,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191678,
       "num": 193030,
       "word": "肖战递耳机",
@@ -15849,6 +15857,14 @@
       "onboard_time": 1733193799,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187665,
+      "num": 187665,
+      "word": "我的宝藏家乡",
+      "onboard_time": 1733830338,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187636,
@@ -16379,6 +16395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183041,
+      "num": 187232,
+      "word": "水电九局报案",
+      "onboard_time": 1733829498,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183010,
       "num": 183010,
       "word": "福宝已完成初步检测",
@@ -16857,6 +16881,14 @@
       "onboard_time": 1732998624,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178023,
+      "num": 178023,
+      "word": "崩坏星穹铁道 加多宝",
+      "onboard_time": 1733830219,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 177881,
@@ -20691,14 +20723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144920,
-      "num": 144920,
-      "word": "苏新皓女装跳舞",
-      "onboard_time": 1733829620,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144912,
       "num": 457558,
       "word": "2025国考约65人中录取1人",
@@ -20969,6 +20993,14 @@
       "onboard_time": 1733759119,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 142208,
+      "num": 142208,
+      "word": "时代少年团五周年演唱会联排全记录",
+      "onboard_time": 1733829979,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 142081,
@@ -22155,6 +22187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132807,
+      "num": 132807,
+      "word": "猎罪图鉴偶像案 是按番位杀的吗",
+      "onboard_time": 1733830579,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132746,
       "num": 319603,
       "word": "长沙步行街商贩卖气球被人挨个弄破",
@@ -22705,6 +22745,14 @@
       "onboard_time": 1733024179,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126835,
+      "num": 126835,
+      "word": "谷雨主演阵容",
+      "onboard_time": 1733830458,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 126761,
@@ -23489,14 +23537,6 @@
       "onboard_time": 1733135720,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 120440,
-      "num": 120440,
-      "word": "水电九局报案",
-      "onboard_time": 1733829498,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120337,
@@ -25187,6 +25227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101894,
+      "num": 187168,
+      "word": "原神复刻",
+      "onboard_time": 1733829740,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101787,
       "num": 101787,
       "word": "患者追忆因车祸去世的45岁医生",
@@ -25961,6 +26009,14 @@
       "onboard_time": 1733278998,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93736,
+      "num": 213311,
+      "word": "NewJeans经纪人告发ADOR代表",
+      "onboard_time": 1733829020,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 93729,
@@ -26939,6 +26995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 80746,
+      "num": 187623,
+      "word": "快把檀健次的网续上",
+      "onboard_time": 1733830400,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80567,
       "num": 174517,
       "word": "孙颖莎说当前目标是打好世界杯",
@@ -27675,6 +27739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71586,
+      "num": 271893,
+      "word": "杨妞花称收到开庭通知很意外",
+      "onboard_time": 1733828659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71133,
       "num": 362399,
       "word": "十个勤天直播",
@@ -27745,6 +27817,14 @@
       "onboard_time": 1733117057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70331,
+      "num": 273590,
+      "word": "2024LOL冬季转会期",
+      "onboard_time": 1733829620,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 70326,
@@ -28339,14 +28419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 63890,
-      "num": 271893,
-      "word": "杨妞花称收到开庭通知很意外",
-      "onboard_time": 1733828659,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63733,
       "num": 189652,
       "word": "因果报应 脸盲",
@@ -28769,14 +28841,6 @@
       "onboard_time": 1733053218,
       "rank": 34,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 59304,
-      "num": 273590,
-      "word": "2024LOL冬季转会期",
-      "onboard_time": 1733829620,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 59300,
@@ -29537,6 +29601,14 @@
       "onboard_time": 1733185280,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53081,
+      "num": 328485,
+      "word": "人民网评落实家暴告诫制度有据可依",
+      "onboard_time": 1733828481,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 53047,
@@ -30379,6 +30451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45616,
+      "num": 187594,
+      "word": "王源说担心接不住粉丝沉甸甸的爱",
+      "onboard_time": 1733829920,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45544,
       "num": 376680,
       "word": "国家补贴类目远比你想象的多",
@@ -30945,14 +31025,6 @@
       "onboard_time": 1733129120,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 41076,
-      "num": 328485,
-      "word": "人民网评落实家暴告诫制度有据可依",
-      "onboard_time": 1733828481,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 41023,
@@ -31851,6 +31923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33797,
+      "num": 187446,
+      "word": "诛仙世界把mmo卷起来了",
+      "onboard_time": 1733829141,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33787,
       "num": 52520,
       "word": "东莞市原市长李毓全被开除党籍",
@@ -32723,14 +32803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27474,
-      "num": 169941,
-      "word": "诛仙世界把mmo卷起来了",
-      "onboard_time": 1733829141,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 27380,
       "num": 40278,
       "word": "拜登或提前赦免多人以防特朗普报复",
@@ -33065,14 +33137,6 @@
       "onboard_time": 1733373740,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25279,
-      "num": 213311,
-      "word": "NewJeans经纪人告发ADOR代表",
-      "onboard_time": 1733829020,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 25244,
@@ -35305,6 +35369,14 @@
       "onboard_time": 1733782752,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7490,
+      "num": 124622,
+      "word": "红薯热拿铁",
+      "onboard_time": 1733830519,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 7481,
