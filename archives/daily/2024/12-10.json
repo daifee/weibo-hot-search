@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733841810133,
+  "endTime": 1733844409432,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -91,12 +91,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1472379,
+      "num": 1472379,
+      "word": "徐艺洋直播带货",
+      "onboard_time": 1733840782,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1470562,
       "num": 1470562,
       "word": "男子称19岁被舅舅安排任办公室副主任",
       "onboard_time": 1733824941,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1404008,
+      "num": 651315,
+      "word": "怀孕三个月女子遭家暴被踢孕肚",
+      "onboard_time": 1733840482,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1395686,
@@ -179,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 952343,
-      "num": 607088,
-      "word": "徐艺洋直播带货",
-      "onboard_time": 1733840782,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 926035,
       "num": 524383,
       "word": "志愿者讲女硕士寻亲细节",
@@ -259,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 784370,
+      "num": 784370,
+      "word": "长期使用日本网红眼药水视力仅剩0.1",
+      "onboard_time": 1733839342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782620,
       "num": 782620,
       "word": "猎罪图鉴2",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 776235,
-      "num": 414631,
+      "num": 454903,
       "word": "猎罪图鉴2 娱乐圈原型",
       "onboard_time": 1733832378,
       "rank": 32,
@@ -353,6 +369,14 @@
       "onboard_time": 1733838140,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691479,
+      "num": 571938,
+      "word": "猎罪图鉴2已经是nextlevel了",
+      "onboard_time": 1733837300,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 672247,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 625826,
-      "num": 353362,
+      "num": 465875,
       "word": "范玮琪哽咽谈过去五年经历",
       "onboard_time": 1733836761,
       "rank": 27,
@@ -449,6 +473,14 @@
       "onboard_time": 1733802559,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 610727,
+      "num": 610727,
+      "word": "一万七的小兰吧唧",
+      "onboard_time": 1733839461,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 609711,
@@ -563,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519919,
-      "num": 519919,
-      "word": "怀孕三个月女子遭家暴被踢孕肚",
-      "onboard_time": 1733840482,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 512931,
       "num": 512931,
       "word": "小学校长13年受贿949万",
@@ -657,14 +681,6 @@
       "onboard_time": 1733836099,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461252,
-      "num": 379028,
-      "word": "猎罪图鉴2已经是nextlevel了",
-      "onboard_time": 1733837300,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 460574,
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375788,
+      "num": 345372,
+      "word": "猎罪图鉴尺度",
+      "onboard_time": 1733842700,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364607,
       "num": 364607,
       "word": "泽连斯基称特朗普现在说的还不算",
@@ -963,12 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339403,
-      "num": 237809,
-      "word": "一万七的小兰吧唧",
-      "onboard_time": 1733839461,
-      "rank": 36,
-      "category": "动漫"
+      "raw_hot": 335520,
+      "num": 335520,
+      "word": "做完近视眼手术后的真实感受",
+      "onboard_time": 1733840962,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 334555,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1733795478,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 285043,
+      "num": 237233,
+      "word": "赵雅芝 71岁饭撒的神",
+      "onboard_time": 1733840301,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 282143,
@@ -1299,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233598,
+      "num": 222643,
+      "word": "张本回应藏海传画面",
+      "onboard_time": 1733842101,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231721,
       "num": 231721,
       "word": "陕西大姐中限量宝马车以为是诈骗",
@@ -1339,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225393,
+      "num": 311423,
+      "word": "高校公示学生个人性别变更信息申请",
+      "onboard_time": 1733838862,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224483,
       "num": 228756,
       "word": "我是刑警豆瓣7.8分合理吗",
@@ -1355,20 +1403,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 222968,
-      "num": 311423,
-      "word": "高校公示学生个人性别变更信息申请",
-      "onboard_time": 1733838862,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222832,
       "num": 222832,
       "word": "虞书欣我们平行世界再见",
       "onboard_time": 1733806219,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222552,
+      "num": 222552,
+      "word": "金高银中文无障碍沟通",
+      "onboard_time": 1733843001,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 222366,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1733840184,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217584,
-      "num": 237233,
-      "word": "赵雅芝 71岁饭撒的神",
-      "onboard_time": 1733840301,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 217222,
@@ -1563,14 +1603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200772,
-      "num": 308630,
-      "word": "长期使用日本网红眼药水视力仅剩0.1",
-      "onboard_time": 1733839342,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199855,
       "num": 192662,
       "word": "丁禹兮祝绪丹一个耳背一个背梗",
@@ -1649,14 +1681,6 @@
       "onboard_time": 1733812699,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196283,
-      "num": 196283,
-      "word": "做完近视眼手术后的真实感受",
-      "onboard_time": 1733840962,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195799,
@@ -1755,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187989,
+      "num": 187989,
+      "word": "郑晓龙夸肖战努力专注有悟性",
+      "onboard_time": 1733843662,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187986,
       "num": 319398,
       "word": "陈建斌要来唱朕emo了吗",
@@ -1819,11 +1851,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183907,
+      "num": 310508,
+      "word": "专访敦煌话剧演员张艺兴",
+      "onboard_time": 1733839342,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181784,
       "num": 218860,
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
       "onboard_time": 1733802739,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181464,
+      "num": 236908,
+      "word": "这部动画每一帧都是宝藏",
+      "onboard_time": 1733839642,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1889,6 +1937,14 @@
       "onboard_time": 1733817021,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170571,
+      "num": 170571,
+      "word": "朱旺旺说变化太快所以拥抱变化就好",
+      "onboard_time": 1733843122,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 170426,
@@ -1971,11 +2027,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163782,
+      "num": 163782,
+      "word": "孟子义艾特李昀锐",
+      "onboard_time": 1733842461,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162451,
       "num": 162451,
       "word": "猎1和猎2打起来了",
       "onboard_time": 1733813838,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162184,
+      "num": 155285,
+      "word": "九重紫好虐",
+      "onboard_time": 1733844022,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2323,20 +2395,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137288,
-      "num": 310508,
-      "word": "专访敦煌话剧演员张艺兴",
-      "onboard_time": 1733839342,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
       "onboard_time": 1733823438,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135917,
+      "num": 135917,
+      "word": "庆余年里蜷着慢慢活的大宝具象化了",
+      "onboard_time": 1733843959,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135546,
@@ -2483,6 +2555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122011,
+      "num": 122011,
+      "word": "业主在车位停玩具车被物业砸坏",
+      "onboard_time": 1733842041,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120685,
       "num": 120685,
       "word": "离岸人民币",
@@ -2569,6 +2649,14 @@
       "onboard_time": 1733798898,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114916,
+      "num": 316164,
+      "word": "周子瑜应用心理学硕士",
+      "onboard_time": 1733842640,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 114893,
@@ -2835,14 +2923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90738,
-      "num": 236908,
-      "word": "这部动画每一帧都是宝藏",
-      "onboard_time": 1733839642,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89966,
       "num": 208885,
       "word": "施瓦辛格儿子颜值",
@@ -2996,7 +3076,7 @@
     },
     {
       "raw_hot": 78463,
-      "num": 648934,
+      "num": 657321,
       "word": "解读2025年经济政策关键词",
       "onboard_time": 1733838862,
       "rank": 2,
@@ -3044,7 +3124,7 @@
     },
     {
       "raw_hot": 72312,
-      "num": 167533,
+      "num": 183011,
       "word": "王源小时候也加过何炅QQ",
       "onboard_time": 1733835740,
       "rank": 35,
@@ -3443,6 +3523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42662,
+      "num": 343222,
+      "word": "男子要贷款先交两万四利息",
+      "onboard_time": 1733843301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42110,
       "num": 515838,
       "word": "日军士兵在南京大屠杀照片旁写下惨字",
@@ -3457,6 +3545,14 @@
       "onboard_time": 1733827099,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41035,
+      "num": 472981,
+      "word": "无人机伤人飞手该担何责",
+      "onboard_time": 1733842941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38047,
@@ -3497,6 +3593,14 @@
       "onboard_time": 1733812281,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 34884,
+      "num": 322367,
+      "word": "张新成唱这个杀手不太冷主题曲",
+      "onboard_time": 1733844261,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 34565,
@@ -3659,6 +3763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23802,
+      "num": 179418,
+      "word": "钎城敖隐MVP",
+      "onboard_time": 1733838201,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23095,
       "num": 26976,
       "word": "快哉快哉",
@@ -3681,6 +3793,14 @@
       "onboard_time": 1733729358,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18736,
+      "num": 222704,
+      "word": "前巴萨主帅执教北京国安",
+      "onboard_time": 1733837061,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 17552,
@@ -3761,6 +3881,14 @@
       "onboard_time": 1733786235,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10276,
+      "num": 195730,
+      "word": "Ruler说LPL比LCK更擅长打架",
+      "onboard_time": 1733844141,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 9649,

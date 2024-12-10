@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733841810133,
+  "endTime": 1733844409432,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1472379,
+      "num": 1472379,
+      "word": "徐艺洋直播带货",
+      "onboard_time": 1733840782,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1470562,
       "num": 1470562,
       "word": "男子称19岁被舅舅安排任办公室副主任",
@@ -313,6 +321,14 @@
       "onboard_time": 1733645059,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1404008,
+      "num": 651315,
+      "word": "怀孕三个月女子遭家暴被踢孕肚",
+      "onboard_time": 1733840482,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1398488,
@@ -651,14 +667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 952343,
-      "num": 607088,
-      "word": "徐艺洋直播带货",
-      "onboard_time": 1733840782,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 944137,
       "num": 944137,
       "word": "孙滢皓退赛",
@@ -955,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 784370,
+      "num": 784370,
+      "word": "长期使用日本网红眼药水视力仅剩0.1",
+      "onboard_time": 1733839342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 782620,
       "num": 782620,
       "word": "猎罪图鉴2",
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 776235,
-      "num": 414631,
+      "num": 454903,
       "word": "猎罪图鉴2 娱乐圈原型",
       "onboard_time": 1733832378,
       "rank": 32,
@@ -1235,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691479,
+      "num": 571938,
+      "word": "猎罪图鉴2已经是nextlevel了",
+      "onboard_time": 1733837300,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 687534,
       "num": 687534,
       "word": "年轻人一年发送了5760000次的接",
@@ -1444,7 +1468,7 @@
     },
     {
       "raw_hot": 625826,
-      "num": 353362,
+      "num": 465875,
       "word": "范玮琪哽咽谈过去五年经历",
       "onboard_time": 1733836761,
       "rank": 27,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1733719040,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610727,
+      "num": 610727,
+      "word": "一万七的小兰吧唧",
+      "onboard_time": 1733839461,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 609711,
@@ -1803,14 +1835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 519919,
-      "num": 519919,
-      "word": "怀孕三个月女子遭家暴被踢孕肚",
-      "onboard_time": 1733840482,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 519226,
       "num": 590126,
       "word": "九重紫 烂人错过",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1733836099,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461252,
-      "num": 379028,
-      "word": "猎罪图鉴2已经是nextlevel了",
-      "onboard_time": 1733837300,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 460574,
@@ -2555,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375788,
+      "num": 345372,
+      "word": "猎罪图鉴尺度",
+      "onboard_time": 1733842700,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369923,
       "num": 369923,
       "word": "广州地铁",
@@ -2787,20 +2811,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 339403,
-      "num": 237809,
-      "word": "一万七的小兰吧唧",
-      "onboard_time": 1733839461,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 337467,
       "num": 386022,
       "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
       "onboard_time": 1733749040,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 335520,
+      "num": 335520,
+      "word": "做完近视眼手术后的真实感受",
+      "onboard_time": 1733840962,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 334863,
@@ -3273,6 +3297,14 @@
       "onboard_time": 1733659700,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285043,
+      "num": 237233,
+      "word": "赵雅芝 71岁饭撒的神",
+      "onboard_time": 1733840301,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 284183,
@@ -3963,6 +3995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233598,
+      "num": 222643,
+      "word": "张本回应藏海传画面",
+      "onboard_time": 1733842101,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232771,
       "num": 383581,
       "word": "莎头出战混团决赛",
@@ -4035,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225393,
+      "num": 311423,
+      "word": "高校公示学生个人性别变更信息申请",
+      "onboard_time": 1733838862,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224483,
       "num": 228756,
       "word": "我是刑警豆瓣7.8分合理吗",
@@ -4067,14 +4115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222968,
-      "num": 311423,
-      "word": "高校公示学生个人性别变更信息申请",
-      "onboard_time": 1733838862,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222841,
       "num": 222841,
       "word": "第一次看到女儿的男友",
@@ -4089,6 +4129,14 @@
       "onboard_time": 1733806219,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222552,
+      "num": 222552,
+      "word": "金高银中文无障碍沟通",
+      "onboard_time": 1733843001,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 222366,
@@ -4137,14 +4185,6 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217584,
-      "num": 237233,
-      "word": "赵雅芝 71岁饭撒的神",
-      "onboard_time": 1733840301,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 217222,
@@ -4459,14 +4499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200772,
-      "num": 308630,
-      "word": "长期使用日本网红眼药水视力仅剩0.1",
-      "onboard_time": 1733839342,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200763,
       "num": 200763,
       "word": "秦海璐小说里重生文都这样",
@@ -4681,14 +4713,6 @@
       "onboard_time": 1733812699,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196283,
-      "num": 196283,
-      "word": "做完近视眼手术后的真实感受",
-      "onboard_time": 1733840962,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195799,
@@ -5083,6 +5107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187989,
+      "num": 187989,
+      "word": "郑晓龙夸肖战努力专注有悟性",
+      "onboard_time": 1733843662,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187986,
       "num": 319398,
       "word": "陈建斌要来唱朕emo了吗",
@@ -5251,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183907,
+      "num": 310508,
+      "word": "专访敦煌话剧演员张艺兴",
+      "onboard_time": 1733839342,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183890,
       "num": 231863,
       "word": "袁娅维 给音乐评级这件事很无聊",
@@ -5288,6 +5328,14 @@
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
       "onboard_time": 1733802739,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181464,
+      "num": 236908,
+      "word": "这部动画每一帧都是宝藏",
+      "onboard_time": 1733839642,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -5595,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170571,
+      "num": 170571,
+      "word": "朱旺旺说变化太快所以拥抱变化就好",
+      "onboard_time": 1733843122,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 170475,
       "num": 170475,
       "word": "粉笔四六级崩了",
@@ -5867,6 +5923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163782,
+      "num": 163782,
+      "word": "孟子义艾特李昀锐",
+      "onboard_time": 1733842461,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162817,
       "num": 162817,
       "word": "赵丽颖白日焰火记录",
@@ -5921,6 +5985,14 @@
       "onboard_time": 1733629398,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162184,
+      "num": 155285,
+      "word": "九重紫好虐",
+      "onboard_time": 1733844022,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 161981,
@@ -6867,14 +6939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137288,
-      "num": 310508,
-      "word": "专访敦煌话剧演员张艺兴",
-      "onboard_time": 1733839342,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136991,
       "num": 136991,
       "word": "A股超4700股上涨",
@@ -6929,6 +6993,14 @@
       "onboard_time": 1733648179,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135917,
+      "num": 135917,
+      "word": "庆余年里蜷着慢慢活的大宝具象化了",
+      "onboard_time": 1733843959,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135626,
@@ -7315,6 +7387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122011,
+      "num": 122011,
+      "word": "业主在车位停玩具车被物业砸坏",
+      "onboard_time": 1733842041,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121162,
       "num": 121162,
       "word": "Baolan说这一冠送给粉丝",
@@ -7473,6 +7553,14 @@
       "onboard_time": 1733618656,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114916,
+      "num": 316164,
+      "word": "周子瑜应用心理学硕士",
+      "onboard_time": 1733842640,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 114830,
@@ -8131,14 +8219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90738,
-      "num": 236908,
-      "word": "这部动画每一帧都是宝藏",
-      "onboard_time": 1733839642,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90180,
       "num": 314621,
       "word": "美多所高校建议留学生尽快返校",
@@ -8444,7 +8524,7 @@
     },
     {
       "raw_hot": 78463,
-      "num": 648934,
+      "num": 657321,
       "word": "解读2025年经济政策关键词",
       "onboard_time": 1733838862,
       "rank": 2,
@@ -8548,7 +8628,7 @@
     },
     {
       "raw_hot": 72312,
-      "num": 167533,
+      "num": 183011,
       "word": "王源小时候也加过何炅QQ",
       "onboard_time": 1733835740,
       "rank": 35,
@@ -9475,6 +9555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42662,
+      "num": 343222,
+      "word": "男子要贷款先交两万四利息",
+      "onboard_time": 1733843301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42316,
       "num": 329743,
       "word": "武汉农商银行8万股1元起拍",
@@ -9497,6 +9585,14 @@
       "onboard_time": 1733827099,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41035,
+      "num": 472981,
+      "word": "无人机伤人飞手该担何责",
+      "onboard_time": 1733842941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39350,
@@ -9641,6 +9737,14 @@
       "onboard_time": 1733604251,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 34884,
+      "num": 322367,
+      "word": "张新成唱这个杀手不太冷主题曲",
+      "onboard_time": 1733844261,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 34565,
@@ -10043,6 +10147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23802,
+      "num": 179418,
+      "word": "钎城敖隐MVP",
+      "onboard_time": 1733838201,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23317,
       "num": 33699,
       "word": "庆祝澳门回归祖国25年",
@@ -10193,6 +10305,14 @@
       "onboard_time": 1733725638,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 18736,
+      "num": 222704,
+      "word": "前巴萨主帅执教北京国安",
+      "onboard_time": 1733837061,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 18161,
@@ -10465,6 +10585,14 @@
       "onboard_time": 1733663903,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10276,
+      "num": 195730,
+      "word": "Ruler说LPL比LCK更擅长打架",
+      "onboard_time": 1733844141,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 10275,
