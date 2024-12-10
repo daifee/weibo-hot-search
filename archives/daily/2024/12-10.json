@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733813270097,
+  "endTime": 1733815541646,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -25,6 +25,14 @@
       "onboard_time": 1733757618,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1759354,
+      "num": 1759354,
+      "word": "谢娜没去陈乔恩婚礼的原因",
+      "onboard_time": 1733812820,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1651659,
@@ -155,11 +163,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 768118,
+      "num": 721016,
+      "word": "猎罪图鉴吻戏来了",
+      "onboard_time": 1733813299,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755355,
       "num": 755355,
       "word": "一觉醒来皮肤被热水袋烫硬了",
       "onboard_time": 1733801957,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 737777,
+      "num": 737777,
+      "word": "老人退休工资2800却花150万买保险",
+      "onboard_time": 1733812340,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -185,6 +209,14 @@
       "onboard_time": 1733799198,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 718336,
+      "num": 828885,
+      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+      "onboard_time": 1733812219,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 717849,
@@ -235,20 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 554767,
-      "num": 554767,
-      "word": "谢娜没去陈乔恩婚礼的原因",
-      "onboard_time": 1733812820,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 536971,
       "num": 490207,
       "word": "向佐找晓华3小时做新发型",
       "onboard_time": 1733796437,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536374,
+      "num": 499858,
+      "word": "尚未发现卜某被拐卖的线索和证据",
+      "onboard_time": 1733809938,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 534673,
@@ -259,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521772,
+      "num": 443213,
+      "word": "走失被找回女硕士已住院治疗",
+      "onboard_time": 1733811021,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 512931,
       "num": 512931,
       "word": "小学校长13年受贿949万",
@@ -267,28 +307,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 506893,
-      "num": 443213,
-      "word": "走失被找回女硕士已住院治疗",
-      "onboard_time": 1733811021,
-      "rank": 11,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 501417,
       "num": 501417,
       "word": "英伟达市值一夜蒸发6400亿元",
       "onboard_time": 1733791157,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 499858,
-      "num": 499858,
-      "word": "尚未发现卜某被拐卖的线索和证据",
-      "onboard_time": 1733809938,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 483878,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 482256,
-      "num": 232503,
+      "num": 269671,
       "word": "哪吒帅了好多",
       "onboard_time": 1733810119,
       "rank": 20,
@@ -337,6 +361,14 @@
       "onboard_time": 1733772551,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441878,
+      "num": 391951,
+      "word": "小S大女儿Elly晒生活照",
+      "onboard_time": 1733813899,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 441738,
@@ -411,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414610,
+      "num": 414610,
+      "word": "A股涨到堵单",
+      "onboard_time": 1733808498,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "哪吒2定档大年初一",
@@ -451,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350164,
-      "num": 350164,
-      "word": "A股涨到堵单",
-      "onboard_time": 1733808498,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 349103,
       "num": 349103,
       "word": "她是12306背后的最强大脑",
@@ -473,14 +505,6 @@
       "onboard_time": 1733808019,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 343126,
-      "num": 343126,
-      "word": "老人退休工资2800却花150万买保险",
-      "onboard_time": 1733812340,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 342263,
@@ -523,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312875,
+      "num": 312875,
+      "word": "双轨 换角",
+      "onboard_time": 1733815099,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307759,
       "num": 294028,
       "word": "网传江苏一村在地里种成熟大白菜",
@@ -563,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269720,
+      "num": 269720,
+      "word": "赛力斯",
+      "onboard_time": 1733814201,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 265012,
       "num": 265012,
       "word": "叙利亚总理同意将权力移交给反对派",
@@ -584,14 +624,6 @@
       "word": "组建叙利亚过渡政府",
       "onboard_time": 1733751321,
       "rank": 11,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 254783,
-      "num": 828885,
-      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
-      "onboard_time": 1733812219,
-      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -635,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241474,
+      "num": 241474,
+      "word": "飞机上乘客突发疾病抢救无效死亡",
+      "onboard_time": 1733814800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239529,
       "num": 294291,
       "word": "深情眼开机",
@@ -673,6 +713,14 @@
       "onboard_time": 1733758818,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230748,
+      "num": 269660,
+      "word": "尹锡悦等8人被列入逮捕名单",
+      "onboard_time": 1733814080,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 228753,
@@ -715,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224139,
+      "num": 269692,
+      "word": "A股三大指数高开回落",
+      "onboard_time": 1733813659,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 222832,
       "num": 222832,
       "word": "虞书欣我们平行世界再见",
@@ -729,6 +785,14 @@
       "onboard_time": 1733795598,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213144,
+      "num": 213144,
+      "word": "单依纯巡演官宣",
+      "onboard_time": 1733813782,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 212146,
@@ -777,6 +841,14 @@
       "onboard_time": 1733807418,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202266,
+      "num": 202266,
+      "word": "关晓彤雪地玫瑰",
+      "onboard_time": 1733814680,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202161,
@@ -841,6 +913,14 @@
       "onboard_time": 1733807959,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189101,
+      "num": 189101,
+      "word": "张新成全英文主持",
+      "onboard_time": 1733813782,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 188817,
@@ -947,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167847,
+      "num": 167847,
+      "word": "一代人有一代人的嘴里塞灯泡",
+      "onboard_time": 1733808260,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167226,
       "num": 475544,
       "word": "古偶剧的流量密码为什么失灵了",
@@ -977,6 +1065,14 @@
       "onboard_time": 1733759839,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162451,
+      "num": 162451,
+      "word": "猎1和猎2打起来了",
+      "onboard_time": 1733813838,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 160507,
@@ -1075,6 +1171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144450,
+      "num": 144450,
+      "word": "严浩翔 亢奋",
+      "onboard_time": 1733814022,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 142669,
+      "num": 142669,
+      "word": "孟子义今晚就来看沈翊",
+      "onboard_time": 1733813718,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142477,
       "num": 142477,
       "word": "国乒领跑四项世界第一",
@@ -1099,6 +1211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140293,
+      "num": 269717,
+      "word": "陈建斌要来唱朕emo了吗",
+      "onboard_time": 1733815099,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140175,
       "num": 147539,
       "word": "朴综星澄清",
@@ -1113,14 +1233,6 @@
       "onboard_time": 1733798359,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 139484,
-      "num": 139484,
-      "word": "一代人有一代人的嘴里塞灯泡",
-      "onboard_time": 1733808260,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139379,
@@ -1145,6 +1257,14 @@
       "onboard_time": 1733786596,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137355,
+      "num": 137355,
+      "word": "大侦探假期超前篇",
+      "onboard_time": 1733815399,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 135546,
@@ -1265,6 +1385,14 @@
       "onboard_time": 1733739379,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118552,
+      "num": 269682,
+      "word": "保险公司回应退休老人花150万买保险",
+      "onboard_time": 1733815339,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116694,
@@ -1715,6 +1843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55788,
+      "num": 269706,
+      "word": "英伟达或面临巨额罚款",
+      "onboard_time": 1733815160,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 54952,
       "num": 227453,
       "word": "官方通报洗浴中心多人出现不适被送医",
@@ -1851,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38337,
+      "num": 269697,
+      "word": "檀健次人在尴尬时总是很忙",
+      "onboard_time": 1733814980,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38047,
       "num": 229636,
       "word": "陈凯琳再回应与郑嘉颖婚变",
@@ -1860,7 +2004,7 @@
     },
     {
       "raw_hot": 35938,
-      "num": 188329,
+      "num": 269674,
       "word": "贾一凡陈清晨合体训练",
       "onboard_time": 1733813180,
       "rank": 33,

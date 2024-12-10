@@ -1,0 +1,410 @@
+{
+  "runTime": 1733815541646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1759354,
+        "num": 1759354,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737777,
+        "num": 737777,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111393,
+        "num": 722258,
+        "word": "1万亿元超长期特别国债安排完毕",
+        "onboard_time": 1733805859,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5546007,
+        "num": 722143,
+        "word": "官方通报卜某走失被找回事件",
+        "onboard_time": 1733808740,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 768118,
+        "num": 721016,
+        "word": "猎罪图鉴吻戏来了",
+        "onboard_time": 1733813299,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 718336,
+        "num": 718336,
+        "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+        "onboard_time": 1733812219,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 583125,
+        "num": 583125,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 580795,
+        "num": 580795,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420626,
+        "num": 420626,
+        "word": "刘诗诗celine全球品牌大使",
+        "onboard_time": 1733811379,
+        "rank": 8,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 414610,
+        "num": 414610,
+        "word": "A股涨到堵单",
+        "onboard_time": 1733808498,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 813641,
+        "num": 403646,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566841,
+        "num": 402390,
+        "word": "卜某事件涉案人员被采取刑事强制措施",
+        "onboard_time": 1733809459,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 441878,
+        "num": 391951,
+        "word": "小S大女儿Elly晒生活照",
+        "onboard_time": 1733813899,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351074,
+        "num": 351074,
+        "word": "优酷这把直接熹妃回宫",
+        "onboard_time": 1733805619,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312875,
+        "num": 312875,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276731,
+        "num": 276731,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269720,
+        "num": 269720,
+        "word": "赛力斯",
+        "onboard_time": 1733814201,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140293,
+        "num": 269717,
+        "word": "陈建斌要来唱朕emo了吗",
+        "onboard_time": 1733815099,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246718,
+        "num": 269711,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55788,
+        "num": 269706,
+        "word": "英伟达或面临巨额罚款",
+        "onboard_time": 1733815160,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38337,
+        "num": 269697,
+        "word": "檀健次人在尴尬时总是很忙",
+        "onboard_time": 1733814980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224139,
+        "num": 269692,
+        "word": "A股三大指数高开回落",
+        "onboard_time": 1733813659,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 536374,
+        "num": 269686,
+        "word": "尚未发现卜某被拐卖的线索和证据",
+        "onboard_time": 1733809938,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 118552,
+        "num": 269682,
+        "word": "保险公司回应退休老人花150万买保险",
+        "onboard_time": 1733815339,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28819,
+        "num": 269674,
+        "word": "贾一凡陈清晨合体训练",
+        "onboard_time": 1733813180,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375424,
+        "num": 269671,
+        "word": "哪吒帅了好多",
+        "onboard_time": 1733810119,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230748,
+        "num": 269660,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269659,
+        "num": 269659,
+        "word": "小姨小姨夫文学",
+        "onboard_time": 1733809938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263882,
+        "num": 263882,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241474,
+        "num": 241474,
+        "word": "飞机上乘客突发疾病抢救无效死亡",
+        "onboard_time": 1733814800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521772,
+        "num": 230974,
+        "word": "走失被找回女硕士已住院治疗",
+        "onboard_time": 1733811021,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 217397,
+        "num": 217397,
+        "word": "韩国人最爱看的中剧排行",
+        "onboard_time": 1733805139,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213144,
+        "num": 213144,
+        "word": "单依纯巡演官宣",
+        "onboard_time": 1733813782,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202266,
+        "num": 202266,
+        "word": "关晓彤雪地玫瑰",
+        "onboard_time": 1733814680,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189101,
+        "num": 189101,
+        "word": "张新成全英文主持",
+        "onboard_time": 1733813782,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26429,
+        "num": 172223,
+        "word": "AnotherMan李现封面",
+        "onboard_time": 1733812281,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169450,
+        "num": 169450,
+        "word": "杨仕泽发藏头诗说自己单身",
+        "onboard_time": 1733810541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167847,
+        "num": 167847,
+        "word": "一代人有一代人的嘴里塞灯泡",
+        "onboard_time": 1733808260,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167049,
+        "num": 167049,
+        "word": "一觉醒来皮肤被热水袋烫硬了",
+        "onboard_time": 1733801957,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162451,
+        "num": 162451,
+        "word": "猎1和猎2打起来了",
+        "onboard_time": 1733813838,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157538,
+        "num": 157538,
+        "word": "调查尹锡悦的内乱常设特检法通过",
+        "onboard_time": 1733811379,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144450,
+        "num": 144450,
+        "word": "严浩翔 亢奋",
+        "onboard_time": 1733814022,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142669,
+        "num": 142669,
+        "word": "孟子义今晚就来看沈翊",
+        "onboard_time": 1733813718,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137355,
+        "num": 137355,
+        "word": "大侦探假期超前篇",
+        "onboard_time": 1733815399,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136193,
+        "num": 136193,
+        "word": "中共中央政治局第十八次集体学习",
+        "onboard_time": 1733802559,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134310,
+        "num": 134310,
+        "word": "杨妞花第六次直面余华英",
+        "onboard_time": 1733812639,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 134126,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132407,
+        "num": 132407,
+        "word": "现在就出发2",
+        "onboard_time": 1733812039,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129424,
+        "num": 129424,
+        "word": "为什么苹果手表会吸在玻璃上",
+        "onboard_time": 1733804120,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126084,
+        "num": 126084,
+        "word": "凌晨一点吃了四斤面包",
+        "onboard_time": 1733804120,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为实现十五五良好开局打牢基础#"
+    }
+  }
+}
