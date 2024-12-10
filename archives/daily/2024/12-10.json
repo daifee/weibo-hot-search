@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733812439173,
+  "endTime": 1733813270097,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554767,
+      "num": 554767,
+      "word": "谢娜没去陈乔恩婚礼的原因",
+      "onboard_time": 1733812820,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 536971,
       "num": 490207,
       "word": "向佐找晓华3小时做新发型",
@@ -257,6 +265,14 @@
       "onboard_time": 1733791580,
       "rank": 32,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 506893,
+      "num": 443213,
+      "word": "走失被找回女硕士已住院治疗",
+      "onboard_time": 1733811021,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 501417,
@@ -283,8 +299,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 469909,
-      "num": 162255,
+      "raw_hot": 482256,
+      "num": 232503,
       "word": "哪吒帅了好多",
       "onboard_time": 1733810119,
       "rank": 20,
@@ -321,14 +337,6 @@
       "onboard_time": 1733772551,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 443213,
-      "num": 443213,
-      "word": "走失被找回女硕士已住院治疗",
-      "onboard_time": 1733811021,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 441738,
@@ -467,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343126,
+      "num": 343126,
+      "word": "老人退休工资2800却花150万买保险",
+      "onboard_time": 1733812340,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342263,
+      "num": 342263,
+      "word": "小姨小姨夫文学",
+      "onboard_time": 1733809938,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334555,
       "num": 334555,
       "word": "李昀锐 今年爱上的最后一个男人",
@@ -497,14 +521,6 @@
       "onboard_time": 1733760379,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 311682,
-      "num": 311682,
-      "word": "小姨小姨夫文学",
-      "onboard_time": 1733809938,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 307759,
@@ -568,6 +584,14 @@
       "word": "组建叙利亚过渡政府",
       "onboard_time": 1733751321,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 254783,
+      "num": 828885,
+      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+      "onboard_time": 1733812219,
+      "rank": 3,
       "category": "国际时政"
     },
     {
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228237,
+      "num": 228237,
+      "word": "孟子义李昀锐小姨小姨夫文学",
+      "onboard_time": 1733811799,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226486,
       "num": 500487,
       "word": "为什么苹果手表会吸在玻璃上",
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 205179,
-      "num": 162183,
+      "num": 187425,
       "word": "杨仕泽发藏头诗说自己单身",
       "onboard_time": 1733810541,
       "rank": 30,
@@ -779,11 +811,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193256,
-      "num": 162199,
-      "word": "孟子义李昀锐小姨小姨夫文学",
-      "onboard_time": 1733811799,
-      "rank": 28,
+      "raw_hot": 196363,
+      "num": 230377,
+      "word": "丁禹兮张海侠定妆",
+      "onboard_time": 1733812699,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -809,6 +841,14 @@
       "onboard_time": 1733807959,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188817,
+      "num": 823394,
+      "word": "调查尹锡悦的内乱常设特检法通过",
+      "onboard_time": 1733811379,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187636,
@@ -868,7 +908,7 @@
     },
     {
       "raw_hot": 175826,
-      "num": 162174,
+      "num": 231867,
       "word": "虞书欣工作室收官发文",
       "onboard_time": 1733810360,
       "rank": 32,
@@ -947,6 +987,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 159779,
+      "num": 159779,
+      "word": "现在就出发2",
+      "onboard_time": 1733812039,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157950,
       "num": 213292,
       "word": "傅菁首次主演喜剧电影",
@@ -1003,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145513,
+      "num": 229011,
+      "word": "费翔马东锡合作",
+      "onboard_time": 1733811500,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145313,
       "num": 255955,
       "word": "浙晚跨年是按cp超话榜摇的人吗",
@@ -1025,14 +1081,6 @@
       "onboard_time": 1733796377,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142419,
-      "num": 142419,
-      "word": "现在就出发2",
-      "onboard_time": 1733812039,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 142217,
@@ -1067,6 +1115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 139484,
+      "num": 139484,
+      "word": "一代人有一代人的嘴里塞灯泡",
+      "onboard_time": 1733808260,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139379,
       "num": 298701,
       "word": "曝iG与TES同组",
@@ -1099,20 +1155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135478,
+      "num": 135478,
+      "word": "杨妞花第六次直面余华英",
+      "onboard_time": 1733812639,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133568,
       "num": 133568,
       "word": "超5300只个股上涨",
       "onboard_time": 1733797398,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 132873,
-      "num": 132873,
-      "word": "一代人有一代人的嘴里塞灯泡",
-      "onboard_time": 1733808260,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132355,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1733756600,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125289,
-      "num": 125289,
-      "word": "老人退休工资2800却花150万买保险",
-      "onboard_time": 1733812340,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124233,
@@ -1443,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85315,
+      "num": 430856,
+      "word": "韩国将深入调查尹锡悦紧急戒严事件",
+      "onboard_time": 1733812639,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84360,
       "num": 84360,
       "word": "志愿者称走失女硕士丈夫在做笔录",
@@ -1515,14 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78335,
-      "num": 203351,
-      "word": "费翔马东锡合作",
-      "onboard_time": 1733811500,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 77414,
       "num": 483889,
       "word": "文咏珊 做演员的幸福感关乎变化",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1733801538,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70700,
-      "num": 823394,
-      "word": "调查尹锡悦的内乱常设特检法通过",
-      "onboard_time": 1733811379,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 69486,
@@ -1707,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52380,
+      "num": 229374,
+      "word": "诛仙世界",
+      "onboard_time": 1733813239,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52297,
       "num": 230765,
       "word": "一梦如故女子亦可成就大业",
@@ -1779,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43857,
+      "num": 228525,
+      "word": "枪杀美巨头高管嫌疑人是高材生",
+      "onboard_time": 1733811500,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43767,
       "num": 43767,
       "word": "误杀3特别出演尹子维",
@@ -1795,20 +1851,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43414,
-      "num": 828885,
-      "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
-      "onboard_time": 1733812219,
-      "rank": 3,
-      "category": "国际时政"
+      "raw_hot": 38047,
+      "num": 229636,
+      "word": "陈凯琳再回应与郑嘉颖婚变",
+      "onboard_time": 1733813239,
+      "rank": 26,
+      "category": "艺人"
     },
     {
-      "raw_hot": 40373,
-      "num": 162194,
-      "word": "枪杀美巨头高管嫌疑人是高材生",
-      "onboard_time": 1733811500,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 35938,
+      "num": 188329,
+      "word": "贾一凡陈清晨合体训练",
+      "onboard_time": 1733813180,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35697,
+      "num": 230671,
+      "word": "AnotherMan李现封面",
+      "onboard_time": 1733812281,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34565,
@@ -1841,14 +1905,6 @@
       "onboard_time": 1733803699,
       "rank": 15,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 29840,
-      "num": 162215,
-      "word": "AnotherMan李现封面",
-      "onboard_time": 1733812281,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 29810,
