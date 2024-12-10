@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733816335401,
+  "endTime": 1733819509982,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2145063,
+      "num": 1845981,
+      "word": "双轨 换角",
+      "onboard_time": 1733815099,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2048513,
       "num": 1397283,
       "word": "叙利亚总统阿萨德辞职",
@@ -89,14 +97,6 @@
       "onboard_time": 1733713938,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1845981,
-      "num": 1845981,
-      "word": "双轨 换角",
-      "onboard_time": 1733815099,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 1819130,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 1183775,
-      "num": 484546,
+      "num": 516473,
       "word": "父母将上海一套房挂女儿名下后反悔",
       "onboard_time": 1733808918,
       "rank": 34,
@@ -473,6 +473,14 @@
       "onboard_time": 1733794998,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1110426,
+      "num": 1177668,
+      "word": "尹锡悦等8人被列入逮捕名单",
+      "onboard_time": 1733814080,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1092999,
@@ -513,6 +521,14 @@
       "onboard_time": 1733733379,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1070639,
+      "num": 536481,
+      "word": "谢娜是乐华的第一个艺人",
+      "onboard_time": 1733815821,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1059060,
@@ -848,6 +864,14 @@
       "word": "杨仕泽 鸡柳只是冰山一角",
       "onboard_time": 1733661678,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 790275,
+      "num": 519206,
+      "word": "藏海传",
+      "onboard_time": 1733817920,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1531,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 524820,
+      "num": 524820,
+      "word": "泽连斯基曝光乌军死亡人数",
+      "onboard_time": 1733816540,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 523696,
       "num": 523696,
       "word": "上海交大小鹿疑似被动物攻击",
@@ -1648,6 +1680,14 @@
       "word": "周雨彤发小小的我定档海报",
       "onboard_time": 1733714180,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 502083,
+      "num": 502083,
+      "word": "藕饼",
+      "onboard_time": 1733815579,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -2363,6 +2403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339809,
+      "num": 339809,
+      "word": "丹东草莓竟然比鸡蛋还大",
+      "onboard_time": 1733818459,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 337467,
       "num": 386022,
       "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
@@ -2595,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309841,
+      "num": 309841,
+      "word": "范玮琪回来了",
+      "onboard_time": 1733817680,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308058,
       "num": 308058,
       "word": "王楚钦梁靖崑抢座位",
@@ -2731,20 +2787,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291563,
+      "num": 531030,
+      "word": "武夷山烧火曝光者被8名烧火者投诉",
+      "onboard_time": 1733816240,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 291117,
       "num": 291117,
       "word": "余额宝收益率跌破历史新低",
       "onboard_time": 1733701755,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 289972,
-      "num": 289972,
-      "word": "尹锡悦等8人被列入逮捕名单",
-      "onboard_time": 1733814080,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 289867,
@@ -2841,14 +2897,6 @@
       "onboard_time": 1733803999,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280753,
-      "num": 280753,
-      "word": "谢娜是乐华的第一个艺人",
-      "onboard_time": 1733815821,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 277299,
@@ -3001,6 +3049,14 @@
       "onboard_time": 1733659882,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259548,
+      "num": 259548,
+      "word": "业主家供暖仅22度发现1年没开阀门",
+      "onboard_time": 1733817498,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257066,
@@ -3347,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237620,
+      "num": 237620,
+      "word": "张小斐陈昊宇 你俩反思一下",
+      "onboard_time": 1733816720,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236668,
       "num": 236668,
       "word": "年轻人开始给自己去班味了",
@@ -3539,6 +3603,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216890,
+      "num": 597294,
+      "word": "以军坦克向叙首都大马士革推进",
+      "onboard_time": 1733815759,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 215752,
+      "num": 215752,
+      "word": "杨紫家业大婚戏",
+      "onboard_time": 1733815700,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215598,
       "num": 215598,
       "word": "沈翊上了三年班终于疯了",
@@ -3715,6 +3795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203986,
+      "num": 203986,
+      "word": "丁禹兮开车只敢开十迈",
+      "onboard_time": 1733816000,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203963,
       "num": 203963,
       "word": "南部档案官宣",
@@ -3777,14 +3865,6 @@
       "onboard_time": 1733664921,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200772,
-      "num": 200772,
-      "word": "丁禹兮开车只敢开十迈",
-      "onboard_time": 1733816000,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 200763,
@@ -3963,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196288,
+      "num": 526905,
+      "word": "女子为逃避欠款自导自演丢了10万",
+      "onboard_time": 1733818758,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195742,
       "num": 195742,
       "word": "大侦探假期超前篇",
@@ -3977,6 +4065,14 @@
       "onboard_time": 1733656999,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195248,
+      "num": 501352,
+      "word": "蔡少芬 我乌拉那拉宜修回来了",
+      "onboard_time": 1733818999,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 195028,
@@ -4059,6 +4155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193449,
+      "num": 193449,
+      "word": "文韬 高级谈判专家",
+      "onboard_time": 1733819060,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193153,
       "num": 193153,
       "word": "中国短道队5000米接力金牌",
@@ -4137,14 +4241,6 @@
       "onboard_time": 1733700976,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191765,
-      "num": 191765,
-      "word": "藕饼",
-      "onboard_time": 1733815579,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 191144,
@@ -4467,14 +4563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182392,
-      "num": 182392,
-      "word": "杨紫家业大婚戏",
-      "onboard_time": 1733815700,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182246,
       "num": 171125,
       "word": "叙利亚国内局势骤然升级",
@@ -4763,6 +4851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171000,
+      "num": 171000,
+      "word": "双轨",
+      "onboard_time": 1733817021,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170980,
       "num": 263928,
       "word": "九重紫重生逆袭局",
@@ -4833,6 +4929,14 @@
       "onboard_time": 1733629340,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169514,
+      "num": 310457,
+      "word": "檀健次直播",
+      "onboard_time": 1733818161,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 169486,
@@ -5075,6 +5179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161981,
+      "num": 535077,
+      "word": "最高检依法对唐仁健决定逮捕",
+      "onboard_time": 1733817260,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 161816,
       "num": 161816,
       "word": "檀健次想看沈翊14集全勤",
@@ -5121,6 +5233,14 @@
       "onboard_time": 1733722940,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159103,
+      "num": 159103,
+      "word": "宠物果然是谁养的就像谁",
+      "onboard_time": 1733816659,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 158779,
@@ -5265,6 +5385,14 @@
       "onboard_time": 1733739559,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154544,
+      "num": 154544,
+      "word": "混团入奥已列入议程",
+      "onboard_time": 1733819420,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154500,
@@ -5689,6 +5817,14 @@
       "onboard_time": 1733670380,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 141378,
+      "num": 403661,
+      "word": "叙向联合国提出申诉呼吁停止以色列侵略",
+      "onboard_time": 1733816180,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141321,
@@ -6131,14 +6267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125764,
-      "num": 125764,
-      "word": "武夷山烧火曝光者被8名烧火者投诉",
-      "onboard_time": 1733816240,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125698,
       "num": 125698,
       "word": "网传叙总理被反对派陪同离开家",
@@ -6451,6 +6579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111255,
+      "num": 517853,
+      "word": "爆火的俄罗斯商超产品多为国产货",
+      "onboard_time": 1733817920,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110986,
       "num": 110986,
       "word": "安东尼奥车祸",
@@ -6497,6 +6633,14 @@
       "onboard_time": 1733810781,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109477,
+      "num": 523581,
+      "word": "以军进入大马士革西南约25公里处",
+      "onboard_time": 1733817860,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109104,
@@ -6755,6 +6899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97622,
+      "num": 255032,
+      "word": "猎罪图鉴2偶像之死案",
+      "onboard_time": 1733816900,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96737,
       "num": 352862,
       "word": "大城市里是千千万万的阿娟",
@@ -6809,6 +6961,14 @@
       "onboard_time": 1733717420,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95238,
+      "num": 232348,
+      "word": "考古孟子义记得带纸",
+      "onboard_time": 1733819239,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 95042,
@@ -7017,6 +7177,14 @@
       "onboard_time": 1733648599,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86512,
+      "num": 501863,
+      "word": "一米长糖葫芦成情侣秀恩爱顶流",
+      "onboard_time": 1733818640,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85315,
@@ -7627,14 +7795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56522,
-      "num": 597294,
-      "word": "以军坦克向叙首都大马士革推进",
-      "onboard_time": 1733815759,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55987,
       "num": 85941,
       "word": "你不必小心翼翼地快乐",
@@ -7681,6 +7841,14 @@
       "onboard_time": 1733595674,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54213,
+      "num": 921733,
+      "word": "中国经济航船有信心继续乘风破浪",
+      "onboard_time": 1733805741,
+      "rank": 2,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 54148,
@@ -8003,6 +8171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44681,
+      "num": 501660,
+      "word": "西北老父亲第一次吃江苏大闸蟹",
+      "onboard_time": 1733816420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44470,
       "num": 348274,
       "word": "农村留守老人试着抱团养老",
@@ -8088,6 +8264,14 @@
       "word": "武汉农商银行8万股1元起拍",
       "onboard_time": 1733739682,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42314,
+      "num": 521801,
+      "word": "男子交2万参加自律挑战3次均失败",
+      "onboard_time": 1733819298,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -8435,14 +8619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28395,
-      "num": 403661,
-      "word": "叙向联合国提出申诉呼吁停止以色列侵略",
-      "onboard_time": 1733816180,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27934,
       "num": 30693,
       "word": "蜀锦人家",
@@ -8769,14 +8945,6 @@
       "onboard_time": 1733685013,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16898,
-      "num": 921733,
-      "word": "中国经济航船有信心继续乘风破浪",
-      "onboard_time": 1733805741,
-      "rank": 2,
-      "category": "正能量,财经"
     },
     {
       "raw_hot": 16884,

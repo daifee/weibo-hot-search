@@ -1,0 +1,410 @@
+{
+  "runTime": 1733819509982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1110426,
+        "num": 1177668,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1079813,
+        "num": 1079813,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54213,
+        "num": 698369,
+        "word": "中国经济航船有信心继续乘风破浪",
+        "onboard_time": 1733805741,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 649124,
+        "num": 649124,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544135,
+        "num": 544135,
+        "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+        "onboard_time": 1733812219,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2145063,
+        "num": 542289,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1070639,
+        "num": 536481,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161981,
+        "num": 535077,
+        "word": "最高检依法对唐仁健决定逮捕",
+        "onboard_time": 1733817260,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 291563,
+        "num": 531030,
+        "word": "武夷山烧火曝光者被8名烧火者投诉",
+        "onboard_time": 1733816240,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196288,
+        "num": 526905,
+        "word": "女子为逃避欠款自导自演丢了10万",
+        "onboard_time": 1733818758,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524820,
+        "num": 524820,
+        "word": "泽连斯基曝光乌军死亡人数",
+        "onboard_time": 1733816540,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109477,
+        "num": 523581,
+        "word": "以军进入大马士革西南约25公里处",
+        "onboard_time": 1733817860,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42314,
+        "num": 521801,
+        "word": "男子交2万参加自律挑战3次均失败",
+        "onboard_time": 1733819298,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790275,
+        "num": 519206,
+        "word": "藏海传",
+        "onboard_time": 1733817920,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111255,
+        "num": 517853,
+        "word": "爆火的俄罗斯商超产品多为国产货",
+        "onboard_time": 1733817920,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516473,
+        "num": 516473,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502083,
+        "num": 502083,
+        "word": "藕饼",
+        "onboard_time": 1733815579,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 454553,
+        "num": 501901,
+        "word": "猎罪图鉴吻戏来了",
+        "onboard_time": 1733813299,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86512,
+        "num": 501863,
+        "word": "一米长糖葫芦成情侣秀恩爱顶流",
+        "onboard_time": 1733818640,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44681,
+        "num": 501660,
+        "word": "西北老父亲第一次吃江苏大闸蟹",
+        "onboard_time": 1733816420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195248,
+        "num": 501352,
+        "word": "蔡少芬 我乌拉那拉宜修回来了",
+        "onboard_time": 1733818999,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501328,
+        "num": 501328,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 339809,
+        "num": 339809,
+        "word": "丹东草莓竟然比鸡蛋还大",
+        "onboard_time": 1733818459,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312528,
+        "num": 312528,
+        "word": "小S大女儿Elly晒生活照",
+        "onboard_time": 1733813899,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169514,
+        "num": 310457,
+        "word": "檀健次直播",
+        "onboard_time": 1733818161,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309841,
+        "num": 309841,
+        "word": "范玮琪回来了",
+        "onboard_time": 1733817680,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299428,
+        "num": 299428,
+        "word": "飞机上乘客突发疾病抢救无效死亡",
+        "onboard_time": 1733814800,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288414,
+        "num": 288414,
+        "word": "A股涨到堵单",
+        "onboard_time": 1733808498,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259548,
+        "num": 259548,
+        "word": "业主家供暖仅22度发现1年没开阀门",
+        "onboard_time": 1733817498,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97622,
+        "num": 255032,
+        "word": "猎罪图鉴2偶像之死案",
+        "onboard_time": 1733816900,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253267,
+        "num": 253267,
+        "word": "刘诗诗celine全球品牌大使",
+        "onboard_time": 1733811379,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 237620,
+        "num": 237620,
+        "word": "张小斐陈昊宇 你俩反思一下",
+        "onboard_time": 1733816720,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95238,
+        "num": 232348,
+        "word": "考古孟子义记得带纸",
+        "onboard_time": 1733819239,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232302,
+        "num": 232302,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216890,
+        "num": 216890,
+        "word": "以军坦克向叙首都大马士革推进",
+        "onboard_time": 1733815759,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215752,
+        "num": 215752,
+        "word": "杨紫家业大婚戏",
+        "onboard_time": 1733815700,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203986,
+        "num": 203986,
+        "word": "丁禹兮开车只敢开十迈",
+        "onboard_time": 1733816000,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201488,
+        "num": 201488,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193449,
+        "num": 193449,
+        "word": "文韬 高级谈判专家",
+        "onboard_time": 1733819060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192072,
+        "num": 192072,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171000,
+        "num": 171000,
+        "word": "双轨",
+        "onboard_time": 1733817021,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166972,
+        "num": 166972,
+        "word": "哪吒帅了好多",
+        "onboard_time": 1733810119,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162791,
+        "num": 162791,
+        "word": "小姨小姨夫文学",
+        "onboard_time": 1733809938,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161379,
+        "num": 161379,
+        "word": "赛力斯",
+        "onboard_time": 1733814201,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159103,
+        "num": 159103,
+        "word": "宠物果然是谁养的就像谁",
+        "onboard_time": 1733816659,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154544,
+        "num": 154544,
+        "word": "混团入奥已列入议程",
+        "onboard_time": 1733819420,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151854,
+        "num": 151854,
+        "word": "张新成全英文主持",
+        "onboard_time": 1733813782,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149274,
+        "num": 149274,
+        "word": "韩国人最爱看的中剧排行",
+        "onboard_time": 1733805139,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146323,
+        "num": 146323,
+        "word": "优酷这把直接熹妃回宫",
+        "onboard_time": 1733805619,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141378,
+        "num": 141378,
+        "word": "叙向联合国提出申诉呼吁停止以色列侵略",
+        "onboard_time": 1733816180,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#为实现十五五良好开局打牢基础#"
+    }
+  }
+}
