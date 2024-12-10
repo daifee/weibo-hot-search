@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733787508273,
+  "endTime": 1733795587829,
   "band_list": [
     {
       "raw_hot": 1774676,
@@ -11,8 +11,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 771233,
-      "num": 771233,
+      "raw_hot": 1279261,
+      "num": 1279261,
+      "word": "腾讯视频会员权益调整",
+      "onboard_time": 1733792540,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 845103,
+      "num": 845103,
       "word": "洗浴中心多人出现不适亲历者发声",
       "onboard_time": 1733754982,
       "rank": 3,
@@ -28,10 +36,26 @@
     },
     {
       "raw_hot": 717849,
-      "num": 234456,
+      "num": 414744,
       "word": "陈晓没去参加陈妍希父亲葬礼",
       "onboard_time": 1733743280,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 663203,
+      "num": 663203,
+      "word": "杨紫白鹿新剧对打",
+      "onboard_time": 1733787076,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 635074,
+      "num": 635074,
+      "word": "小时候很害怕BIGBANG",
+      "onboard_time": 1733789058,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -51,11 +75,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 462311,
+      "num": 267714,
+      "word": "原来年终奖和十三薪的区别这么大",
+      "onboard_time": 1733791520,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 445780,
       "num": 445780,
       "word": "目击者称坠海无人机约600架",
       "onboard_time": 1733772551,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 441738,
+      "num": 441738,
+      "word": "桑坡村要摆脱雪地靴平替标签",
+      "onboard_time": 1733792000,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -67,12 +107,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 421985,
+      "num": 421985,
+      "word": "涉嫌违反反垄断法英伟达被立案调查",
+      "onboard_time": 1733744840,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 414884,
       "num": 414884,
       "word": "从陕西被拐30岁麻省理工博士寻亲",
       "onboard_time": 1733761038,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414295,
+      "num": 414295,
+      "word": "英伟达市值一夜蒸发6400亿元",
+      "onboard_time": 1733791157,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 391357,
+      "num": 266910,
+      "word": "戒咖啡一个月身体的变化",
+      "onboard_time": 1733793197,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 349103,
+      "num": 349103,
+      "word": "她是12306背后的最强大脑",
+      "onboard_time": 1733751680,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 334555,
@@ -99,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317092,
-      "num": 317092,
-      "word": "她是12306背后的最强大脑",
-      "onboard_time": 1733751680,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 289938,
       "num": 211595,
       "word": "陈晓杭州出发",
@@ -115,20 +179,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271318,
-      "num": 271318,
-      "word": "涉嫌违反反垄断法英伟达被立案调查",
-      "onboard_time": 1733744840,
-      "rank": 7,
-      "category": "财经"
+      "raw_hot": 265012,
+      "num": 265012,
+      "word": "叙利亚总理同意将权力移交给反对派",
+      "onboard_time": 1733787496,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 253823,
-      "num": 232974,
+      "raw_hot": 264154,
+      "num": 264154,
       "word": "D社元旦公布新情侣",
       "onboard_time": 1733786294,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 261386,
+      "num": 261386,
+      "word": "组建叙利亚过渡政府",
+      "onboard_time": 1733751321,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251480,
@@ -139,12 +211,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244160,
-      "num": 233674,
-      "word": "组建叙利亚过渡政府",
-      "onboard_time": 1733751321,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 250715,
+      "num": 266762,
+      "word": "丁禹兮耳骨夹",
+      "onboard_time": 1733794577,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 249389,
+      "num": 249389,
+      "word": "小学校长13年受贿949万",
+      "onboard_time": 1733791580,
+      "rank": 32,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 249104,
+      "num": 269486,
+      "word": "李昀锐演技",
+      "onboard_time": 1733787856,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 248820,
+      "num": 269065,
+      "word": "范丞丞回跑男要和李晨比肌肉",
+      "onboard_time": 1733790139,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 243222,
@@ -153,6 +249,14 @@
       "onboard_time": 1733781972,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239773,
+      "num": 265831,
+      "word": "哪吒2定档大年初一",
+      "onboard_time": 1733794459,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 237613,
@@ -195,11 +299,43 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 199635,
+      "num": 264184,
+      "word": "李昀锐连手都红温了",
+      "onboard_time": 1733791338,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196302,
+      "num": 264155,
+      "word": "4部影片定档春节档",
+      "onboard_time": 1733794998,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 187636,
+      "num": 187636,
+      "word": "28岁独立女性报复性弥补童年遗憾",
+      "onboard_time": 1733785995,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185967,
       "num": 185967,
       "word": "山西大学一留学生摸女生屁股被行拘",
       "onboard_time": 1733779330,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185833,
+      "num": 185833,
+      "word": "哈工程1600余名师生绘制雪地航母",
+      "onboard_time": 1733791219,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -211,12 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167003,
-      "num": 167003,
-      "word": "28岁独立女性报复性弥补童年遗憾",
-      "onboard_time": 1733785995,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 169043,
+      "num": 169043,
+      "word": "朴综星",
+      "onboard_time": 1733789719,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166186,
+      "num": 420771,
+      "word": "A股今日全线高开",
+      "onboard_time": 1733794637,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 165409,
@@ -235,6 +379,22 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 154192,
+      "num": 154192,
+      "word": "我是刑警豆瓣7.8分合理吗",
+      "onboard_time": 1733794879,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152560,
+      "num": 152560,
+      "word": "45岁以上高血压患病率已近六成",
+      "onboard_time": 1733795478,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151555,
       "num": 151555,
       "word": "80后爸爸硬控14岁女儿社交",
@@ -243,12 +403,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151378,
+      "num": 151378,
+      "word": "朋友里唯一不抽烟的那个人",
+      "onboard_time": 1733786475,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150015,
       "num": 150015,
       "word": "不知南京大屠杀是日本之耻",
       "onboard_time": 1733765894,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145120,
+      "num": 145120,
+      "word": "冷上加冷模式将开启",
+      "onboard_time": 1733788758,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142217,
@@ -267,12 +443,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140175,
+      "num": 147539,
+      "word": "朴综星澄清",
+      "onboard_time": 1733794158,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138341,
+      "num": 136249,
+      "word": "长大后报复性买零食能弥补童年吗",
+      "onboard_time": 1733795357,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137404,
+      "num": 137404,
+      "word": "北京花300多万买一层送一层的房子",
+      "onboard_time": 1733786596,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130681,
       "num": 130681,
       "word": "张若昀为扔烟头道歉",
       "onboard_time": 1733740879,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129503,
+      "num": 129503,
+      "word": "日本人不知南京大屠杀是日本之耻",
+      "onboard_time": 1733768832,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129493,
@@ -291,19 +499,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119762,
+      "num": 119762,
+      "word": "以为正常实则是缺觉的表现",
+      "onboard_time": 1733789238,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "双轨群演发声",
       "onboard_time": 1733739379,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 115007,
-      "num": 199662,
-      "word": "杨紫白鹿新剧对打",
-      "onboard_time": 1733787076,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -339,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109640,
+      "num": 266028,
+      "word": "孙颖莎第50周继续霸榜世一",
+      "onboard_time": 1733793798,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108076,
       "num": 108076,
       "word": "本科专业大洗牌意味着什么",
@@ -347,12 +563,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 104646,
-      "num": 104646,
-      "word": "日本人不知南京大屠杀是日本之耻",
-      "onboard_time": 1733768832,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 105560,
+      "num": 265409,
+      "word": "家长称学校冬季校服内填充物为碎布",
+      "onboard_time": 1733795059,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103325,
@@ -515,28 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75111,
-      "num": 75111,
-      "word": "北京花300多万买一层送一层的房子",
-      "onboard_time": 1733786596,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 71566,
       "num": 71566,
       "word": "粉笔四六级崩了",
       "onboard_time": 1733752820,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 70190,
-      "num": 70190,
-      "word": "朋友里唯一不抽烟的那个人",
-      "onboard_time": 1733786475,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 68621,
@@ -553,6 +753,14 @@
       "onboard_time": 1733730798,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64280,
+      "num": 354416,
+      "word": "海信辟谣大规模裁员",
+      "onboard_time": 1733795177,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 59006,
@@ -577,6 +785,14 @@
       "onboard_time": 1733769791,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57565,
+      "num": 267852,
+      "word": "A股",
+      "onboard_time": 1733711058,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 54952,
@@ -633,6 +849,14 @@
       "onboard_time": 1733787135,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32079,
+      "num": 114003,
+      "word": "现在打流感疫苗来不来得及",
+      "onboard_time": 1733794158,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29810,
@@ -801,6 +1025,22 @@
       "onboard_time": 1733768112,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5655,
+      "num": 373197,
+      "word": "开盘10分钟A股放量超2000亿",
+      "onboard_time": 1733795478,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 5655,
+      "num": 268714,
+      "word": "A股高开逼近3500点",
+      "onboard_time": 1733795478,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 4801,
