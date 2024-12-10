@@ -1,0 +1,410 @@
+{
+  "runTime": 1733823662367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1073442,
+        "num": 1171750,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 889249,
+        "num": 889249,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44525,
+        "num": 796945,
+        "word": "2025年财政和货币政策有哪些变化",
+        "onboard_time": 1733822121,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 792615,
+        "num": 792615,
+        "word": "黑神话悟空更新",
+        "onboard_time": 1733820859,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 583822,
+        "num": 629196,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1266594,
+        "num": 627540,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 615819,
+        "num": 615819,
+        "word": "迪丽热巴方确认不参加星光大赏",
+        "onboard_time": 1733819540,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 595267,
+        "num": 595267,
+        "word": "藏海传",
+        "onboard_time": 1733817920,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469221,
+        "num": 469221,
+        "word": "理发师晓华谈到孩子差点儿落泪",
+        "onboard_time": 1733820619,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49968,
+        "num": 461580,
+        "word": "盲道不仅要指路更要保障盲人安全",
+        "onboard_time": 1733821821,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 583013,
+        "num": 461519,
+        "word": "严浩翔新歌疑似抄袭",
+        "onboard_time": 1733819720,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460574,
+        "num": 460574,
+        "word": "双轨男主",
+        "onboard_time": 1733820682,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451684,
+        "num": 451684,
+        "word": "肖战藏海歪嘴笑",
+        "onboard_time": 1733822001,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421579,
+        "num": 421579,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 410969,
+        "num": 410969,
+        "word": "女子为逃避欠款自导自演丢了10万",
+        "onboard_time": 1733818758,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379437,
+        "num": 379437,
+        "word": "美世界500强公司CEO遭枪击身亡",
+        "onboard_time": 1733822539,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 352993,
+        "num": 352993,
+        "word": "泽连斯基曝光乌军死亡人数",
+        "onboard_time": 1733816540,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258438,
+        "num": 258438,
+        "word": "肖战素衣束发",
+        "onboard_time": 1733822479,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255727,
+        "num": 255727,
+        "word": "台称解放军在台岛周边部署规模超2022年",
+        "onboard_time": 1733822539,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137072,
+        "num": 254918,
+        "word": "孟子义要是认不出来你不难过死了",
+        "onboard_time": 1733823259,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828271,
+        "num": 252934,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404234,
+        "num": 252209,
+        "word": "范玮琪回来了",
+        "onboard_time": 1733817680,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 287498,
+        "num": 250247,
+        "word": "丹东草莓竟然比鸡蛋还大",
+        "onboard_time": 1733818459,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249669,
+        "num": 249669,
+        "word": "蔡少芬 我乌拉那拉宜修回来了",
+        "onboard_time": 1733818999,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394561,
+        "num": 248178,
+        "word": "李昀锐是孟子义一级铁粉",
+        "onboard_time": 1733820439,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244803,
+        "num": 244803,
+        "word": "黑神话悟空",
+        "onboard_time": 1733822180,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235127,
+        "num": 235127,
+        "word": "猫咪去世前用最后17秒告别主人",
+        "onboard_time": 1733822599,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234083,
+        "num": 234083,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229907,
+        "num": 229907,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149437,
+        "num": 219493,
+        "word": "A50意外跳水几乎抹掉昨日涨幅",
+        "onboard_time": 1733822780,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214781,
+        "num": 214781,
+        "word": "安陵容杀回来了",
+        "onboard_time": 1733820800,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213997,
+        "num": 213997,
+        "word": "黑神话悟空有地图了",
+        "onboard_time": 1733820740,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202774,
+        "num": 202774,
+        "word": "樊振东现身长沙备战乒超",
+        "onboard_time": 1733822900,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197700,
+        "num": 197700,
+        "word": "干巴酸奶",
+        "onboard_time": 1733821699,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194954,
+        "num": 194954,
+        "word": "猎罪图鉴吻戏来了",
+        "onboard_time": 1733813299,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190148,
+        "num": 190148,
+        "word": "武夷山烧火曝光者被8名烧火者投诉",
+        "onboard_time": 1733816240,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179120,
+        "num": 179120,
+        "word": "业主家供暖仅22度发现1年没开阀门",
+        "onboard_time": 1733817498,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171256,
+        "num": 171256,
+        "word": "中国为何会对英伟达动手",
+        "onboard_time": 1733819839,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171082,
+        "num": 171082,
+        "word": "央视片单",
+        "onboard_time": 1733820081,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 166264,
+        "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+        "onboard_time": 1733812219,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162757,
+        "num": 162757,
+        "word": "以色列袭击叙利亚海军舰队",
+        "onboard_time": 1733822959,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159376,
+        "num": 159376,
+        "word": "低像素版马嘉祺",
+        "onboard_time": 1733823379,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150727,
+        "num": 150727,
+        "word": "李昀锐快乐小狗",
+        "onboard_time": 1733823320,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140836,
+        "num": 140836,
+        "word": "藕饼",
+        "onboard_time": 1733815579,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136991,
+        "num": 136991,
+        "word": "A股超4700股上涨",
+        "onboard_time": 1733823438,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136824,
+        "num": 136824,
+        "word": "藏海传首发预告",
+        "onboard_time": 1733822001,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135734,
+        "num": 135734,
+        "word": "以军坦克向叙首都大马士革推进",
+        "onboard_time": 1733815759,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131119,
+        "num": 131119,
+        "word": "韩国人流行周末去中国吃火锅",
+        "onboard_time": 1733820501,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127966,
+        "num": 127966,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进中国式现代化边疆地区一个都不能少#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733822815733,
+  "endTime": 1733823662367,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3067,6 +3067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 792615,
+      "num": 792615,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1733820859,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 791029,
       "num": 791029,
       "word": "杨仕泽 鸡柳只是冰山一角",
@@ -3185,14 +3193,6 @@
       "onboard_time": 1733812340,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 777893,
-      "num": 777893,
-      "word": "黑神话悟空更新",
-      "onboard_time": 1733820859,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 777844,
@@ -4220,7 +4220,7 @@
     },
     {
       "raw_hot": 629272,
-      "num": 450276,
+      "num": 461519,
       "word": "严浩翔新歌疑似抄袭",
       "onboard_time": 1733819720,
       "rank": 23,
@@ -6179,6 +6179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469221,
+      "num": 469221,
+      "word": "理发师晓华谈到孩子差点儿落泪",
+      "onboard_time": 1733820619,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468979,
       "num": 468979,
       "word": "Rose前男友是谁",
@@ -6321,6 +6329,14 @@
       "onboard_time": 1733541137,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460574,
+      "num": 460574,
+      "word": "双轨男主",
+      "onboard_time": 1733555240,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 460453,
@@ -6499,20 +6515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 453055,
-      "num": 448593,
-      "word": "双轨男主",
-      "onboard_time": 1733555240,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 452838,
       "num": 452838,
       "word": "爱宝乐园正与中方专家沟通福宝状况",
       "onboard_time": 1733317644,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451684,
+      "num": 451684,
+      "word": "肖战藏海歪嘴笑",
+      "onboard_time": 1733822001,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 451317,
@@ -7451,6 +7467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 404234,
+      "num": 309841,
+      "word": "范玮琪回来了",
+      "onboard_time": 1733817680,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "哪吒2定档大年初一",
@@ -7619,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394561,
+      "num": 287705,
+      "word": "李昀锐是孟子义一级铁粉",
+      "onboard_time": 1733820439,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394492,
       "num": 220035,
       "word": "韩国戒严令一共6个多小时",
@@ -7705,14 +7737,6 @@
       "onboard_time": 1733290759,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 387999,
-      "num": 309841,
-      "word": "范玮琪回来了",
-      "onboard_time": 1733817680,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 387222,
@@ -7865,6 +7889,14 @@
       "onboard_time": 1733143285,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379437,
+      "num": 379437,
+      "word": "美世界500强公司CEO遭枪击身亡",
+      "onboard_time": 1733822539,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 379163,
@@ -8057,14 +8089,6 @@
       "onboard_time": 1733548457,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371653,
-      "num": 287705,
-      "word": "李昀锐是孟子义一级铁粉",
-      "onboard_time": 1733820439,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 371075,
@@ -9451,14 +9475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 310152,
-      "num": 310152,
-      "word": "理发师晓华谈到孩子差点儿落泪",
-      "onboard_time": 1733820619,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309394,
       "num": 309394,
       "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
@@ -10387,14 +10403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277133,
-      "num": 277133,
-      "word": "美世界500强公司CEO遭枪击身亡",
-      "onboard_time": 1733822539,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 277096,
       "num": 306249,
       "word": "鹿晗直播预测",
@@ -10947,6 +10955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258438,
+      "num": 258438,
+      "word": "肖战素衣束发",
+      "onboard_time": 1733822479,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257351,
       "num": 257351,
       "word": "江秋莲发布谭斌道歉信和保证书",
@@ -10977,6 +10993,14 @@
       "onboard_time": 1733112319,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255727,
+      "num": 255727,
+      "word": "台称解放军在台岛周边部署规模超2022年",
+      "onboard_time": 1733822539,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255617,
@@ -11467,6 +11491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244803,
+      "num": 244803,
+      "word": "黑神话悟空",
+      "onboard_time": 1733822180,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244708,
       "num": 323115,
       "word": "网传火车站内一女子掌掴工作人员",
@@ -11907,6 +11939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235127,
+      "num": 235127,
+      "word": "猫咪去世前用最后17秒告别主人",
+      "onboard_time": 1733822599,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234942,
       "num": 234942,
       "word": "mlxg谈Doinb",
@@ -12097,14 +12137,6 @@
       "onboard_time": 1733165171,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231526,
-      "num": 231526,
-      "word": "黑神话悟空",
-      "onboard_time": 1733822180,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 231336,
@@ -12537,14 +12569,6 @@
       "onboard_time": 1733115020,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224370,
-      "num": 224370,
-      "word": "肖战素衣束发",
-      "onboard_time": 1733822479,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 224351,
@@ -13939,6 +13963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202774,
+      "num": 202774,
+      "word": "樊振东现身长沙备战乒超",
+      "onboard_time": 1733822900,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202709,
       "num": 202709,
       "word": "杨幂北京出发",
@@ -14419,6 +14451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197700,
+      "num": 197700,
+      "word": "干巴酸奶",
+      "onboard_time": 1733821699,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 197674,
       "num": 133464,
       "word": "苏有朋直播",
@@ -14521,14 +14561,6 @@
       "onboard_time": 1733131639,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 196814,
-      "num": 291426,
-      "word": "肖战藏海歪嘴笑",
-      "onboard_time": 1733822001,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 196774,
@@ -15449,14 +15481,6 @@
       "onboard_time": 1733575462,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189552,
-      "num": 189552,
-      "word": "台称解放军在台岛周边部署规模超2022年",
-      "onboard_time": 1733822539,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 189492,
@@ -18299,6 +18323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162757,
+      "num": 162757,
+      "word": "以色列袭击叙利亚海军舰队",
+      "onboard_time": 1733822959,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162680,
       "num": 162680,
       "word": "摊贩没钱交罚款被城管要求去借钱",
@@ -18689,6 +18721,14 @@
       "onboard_time": 1732976660,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159376,
+      "num": 159376,
+      "word": "低像素版马嘉祺",
+      "onboard_time": 1733823379,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159248,
@@ -19267,14 +19307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155159,
-      "num": 155159,
-      "word": "猫咪去世前用最后17秒告别主人",
-      "onboard_time": 1733822599,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155153,
       "num": 211918,
       "word": "Doinb透露明年将取消解说杯",
@@ -19795,6 +19827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150727,
+      "num": 150727,
+      "word": "李昀锐快乐小狗",
+      "onboard_time": 1733823320,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150640,
       "num": 150640,
       "word": "月鳞绮纪明日开机",
@@ -19961,6 +20001,14 @@
       "onboard_time": 1733315362,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149437,
+      "num": 227020,
+      "word": "A50意外跳水几乎抹掉昨日涨幅",
+      "onboard_time": 1733822780,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 149161,
@@ -20433,14 +20481,6 @@
       "onboard_time": 1733131520,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145319,
-      "num": 145319,
-      "word": "干巴酸奶",
-      "onboard_time": 1733821699,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 145313,
@@ -21411,6 +21451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137072,
+      "num": 254918,
+      "word": "孟子义要是认不出来你不难过死了",
+      "onboard_time": 1733823259,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137060,
       "num": 137060,
       "word": "三千买的缅因猫治疗花了一万多",
@@ -21425,6 +21473,14 @@
       "onboard_time": 1733399720,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136991,
+      "num": 136991,
+      "word": "A股超4700股上涨",
+      "onboard_time": 1733823438,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 136956,
@@ -22073,6 +22129,14 @@
       "onboard_time": 1733132119,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 131119,
+      "num": 131119,
+      "word": "韩国人流行周末去中国吃火锅",
+      "onboard_time": 1733820501,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 131083,
@@ -25377,14 +25441,6 @@
       "onboard_time": 1733191158,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97054,
-      "num": 227020,
-      "word": "A50意外跳水几乎抹掉昨日涨幅",
-      "onboard_time": 1733822780,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 97034,
@@ -29643,6 +29699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49968,
+      "num": 461580,
+      "word": "盲道不仅要指路更要保障盲人安全",
+      "onboard_time": 1733821821,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 49679,
       "num": 465274,
       "word": "俄在叙军事基地未受叙武装派别攻击",
@@ -30241,6 +30305,14 @@
       "onboard_time": 1733203761,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44525,
+      "num": 800951,
+      "word": "2025年财政和货币政策有哪些变化",
+      "onboard_time": 1733822121,
+      "rank": 2,
+      "category": "财经"
     },
     {
       "raw_hot": 44470,
@@ -30929,14 +31001,6 @@
       "onboard_time": 1733297257,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 38551,
-      "num": 450542,
-      "word": "盲道不仅要指路更要保障盲人安全",
-      "onboard_time": 1733821821,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 38354,
@@ -33185,14 +33249,6 @@
       "onboard_time": 1733490619,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22038,
-      "num": 800951,
-      "word": "2025年财政和货币政策有哪些变化",
-      "onboard_time": 1733822121,
-      "rank": 2,
-      "category": "财经"
     },
     {
       "raw_hot": 22019,
