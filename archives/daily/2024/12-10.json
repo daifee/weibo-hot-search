@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733830599046,
+  "endTime": 1733834928932,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2111747,
-      "num": 327113,
+      "num": 1769209,
       "word": "这居然是吴倩",
       "onboard_time": 1733827820,
       "rank": 10,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661888,
+      "num": 661888,
+      "word": "水电九局报案",
+      "onboard_time": 1733829498,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635074,
       "num": 635074,
       "word": "小时候很害怕BIGBANG",
@@ -355,11 +363,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 602319,
+      "num": 602319,
+      "word": "猎罪图鉴偶像案 是按番位杀的吗",
+      "onboard_time": 1733830579,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599253,
       "num": 599253,
       "word": "九重紫",
       "onboard_time": 1733736019,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 588762,
+      "num": 341599,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1733831899,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -443,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 493816,
+      "num": 301570,
+      "word": "迪丽热巴登春节申遗宣传片",
+      "onboard_time": 1733832979,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485574,
       "num": 339809,
       "word": "丹东草莓竟然比鸡蛋还大",
@@ -465,6 +497,14 @@
       "onboard_time": 1733810119,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 465146,
+      "num": 289897,
+      "word": "TF家族新年音乐会官宣",
+      "onboard_time": 1733834419,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 463113,
@@ -505,6 +545,14 @@
       "onboard_time": 1733804059,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455445,
+      "num": 219147,
+      "word": "青你的金子涵回来了",
+      "onboard_time": 1733833279,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 451684,
@@ -659,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382660,
+      "num": 198845,
+      "word": "唐艺昕 臣妾瓜2加4要告发",
+      "onboard_time": 1733833580,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378936,
       "num": 378936,
       "word": "丁禹兮耳骨夹",
@@ -691,12 +747,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358055,
+      "num": 358055,
+      "word": "Ruler吐槽JDG伙食差",
+      "onboard_time": 1733830699,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 353951,
+      "num": 197595,
+      "word": "时代峰峻回应严浩翔新歌争议",
+      "onboard_time": 1733831420,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 353344,
       "num": 224436,
       "word": "山下智久晒与周杰伦合照",
       "onboard_time": 1733806341,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 352923,
+      "num": 195134,
+      "word": "丁禹兮千字长文告别慕声",
+      "onboard_time": 1733833399,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 352753,
@@ -811,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 299438,
+      "num": 206814,
+      "word": "韩国会惩罚每一个吃不完外卖的人",
+      "onboard_time": 1733831719,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292821,
       "num": 292821,
       "word": "黑神话悟空有地图了",
@@ -857,6 +945,14 @@
       "onboard_time": 1733803999,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 281903,
+      "num": 173505,
+      "word": "猎罪图鉴2 娱乐圈原型",
+      "onboard_time": 1733832378,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 269676,
@@ -1017,6 +1113,22 @@
       "onboard_time": 1733758818,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232090,
+      "num": 179580,
+      "word": "于适从CCTV6干到CCTV5",
+      "onboard_time": 1733831239,
+      "rank": 31,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 231721,
+      "num": 231721,
+      "word": "陕西大姐中限量宝马车以为是诈骗",
+      "onboard_time": 1733825299,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228753,
@@ -1203,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 202061,
+      "num": 202061,
+      "word": "长的漂亮但拍照不上镜的人",
+      "onboard_time": 1733833339,
+      "rank": 23,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 201685,
       "num": 201685,
       "word": "张新成全英文主持",
@@ -1235,6 +1355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199065,
+      "num": 199065,
+      "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+      "onboard_time": 1733833339,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 199063,
+      "num": 168167,
+      "word": "金智秀新乌托邦剧照",
+      "onboard_time": 1733833639,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198155,
       "num": 275534,
       "word": "藏海传首发预告",
@@ -1249,6 +1385,14 @@
       "onboard_time": 1733799137,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197807,
+      "num": 159500,
+      "word": "大麦上海",
+      "onboard_time": 1733834060,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 197776,
@@ -1323,14 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192159,
-      "num": 192159,
-      "word": "陕西大姐中限量宝马车以为是诈骗",
-      "onboard_time": 1733825299,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190435,
       "num": 190435,
       "word": "女子推理社",
@@ -1345,6 +1481,14 @@
       "onboard_time": 1733811379,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 188446,
+      "num": 126233,
+      "word": "章子怡说张艺兴犹如初升的太阳",
+      "onboard_time": 1733833819,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 187986,
@@ -1403,12 +1547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 183041,
-      "num": 187232,
-      "word": "水电九局报案",
-      "onboard_time": 1733829498,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 182182,
+      "num": 220352,
+      "word": "张雪迎拍的王源",
+      "onboard_time": 1733834539,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 181784,
@@ -1531,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166655,
+      "num": 226262,
+      "word": "陈若仪回应网友赞kimi颜值",
+      "onboard_time": 1733833459,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166186,
       "num": 420771,
       "word": "A股今日全线高开",
@@ -1569,6 +1721,14 @@
       "onboard_time": 1733817260,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 161115,
+      "num": 124125,
+      "word": "李昀锐 妈妈低声些难道光彩吗",
+      "onboard_time": 1733834779,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 160570,
@@ -1811,6 +1971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141708,
+      "num": 141708,
+      "word": "中方决定限制美方相关表现恶劣人员签证",
+      "onboard_time": 1733833100,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141171,
       "num": 141171,
       "word": "谭松韵白羽流苏缎面裙",
@@ -1851,6 +2019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139285,
+      "num": 119724,
+      "word": "卓沅这个土豆到底好不好吃",
+      "onboard_time": 1733834121,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138341,
       "num": 136249,
       "word": "长大后报复性买零食能弥补童年吗",
@@ -1873,6 +2049,14 @@
       "onboard_time": 1733823438,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136138,
+      "num": 315996,
+      "word": "推测蔡国强无人机坠海原因",
+      "onboard_time": 1733832498,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135546,
@@ -1899,14 +2083,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 132807,
-      "num": 132807,
-      "word": "猎罪图鉴偶像案 是按番位杀的吗",
-      "onboard_time": 1733830579,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132355,
       "num": 132355,
       "word": "小米YU7正进行大规模路测",
@@ -1921,6 +2097,14 @@
       "onboard_time": 1733820320,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131243,
+      "num": 118182,
+      "word": "猎罪图鉴2热度",
+      "onboard_time": 1733831600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131119,
@@ -2049,6 +2233,22 @@
       "onboard_time": 1733815339,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118001,
+      "num": 118001,
+      "word": "雷军称小米YU7正大规模路测",
+      "onboard_time": 1733830699,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 117545,
+      "num": 117545,
+      "word": "樊振东最新备战画面",
+      "onboard_time": 1733833999,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116694,
@@ -2337,6 +2537,14 @@
       "onboard_time": 1733756361,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88291,
+      "num": 324014,
+      "word": "叙利亚过渡政府正式接管权力",
+      "onboard_time": 1733834240,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85315,
