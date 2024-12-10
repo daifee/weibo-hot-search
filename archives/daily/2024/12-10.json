@@ -1,6 +1,6 @@
 {
   "startTime": 1733761883460,
-  "endTime": 1733844409432,
+  "endTime": 1733845309289,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1886551,
-      "num": 648926,
+      "num": 754039,
       "word": "李昀锐大学女友",
       "onboard_time": 1733837900,
       "rank": 20,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1404008,
-      "num": 651315,
+      "num": 658177,
       "word": "怀孕三个月女子遭家暴被踢孕肚",
       "onboard_time": 1733840482,
       "rank": 45,
@@ -235,6 +235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 857965,
+      "num": 857965,
+      "word": "长期使用日本网红眼药水视力仅剩0.1",
+      "onboard_time": 1733839342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 845103,
       "num": 845103,
       "word": "洗浴中心多人出现不适亲历者发声",
@@ -265,14 +273,6 @@
       "onboard_time": 1733820859,
       "rank": 3,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 784370,
-      "num": 784370,
-      "word": "长期使用日本网红眼药水视力仅剩0.1",
-      "onboard_time": 1733839342,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 782620,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 691479,
-      "num": 571938,
+      "num": 588727,
       "word": "猎罪图鉴2已经是nextlevel了",
       "onboard_time": 1733837300,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 675052,
+      "num": 675052,
+      "word": "一万七的小兰吧唧",
+      "onboard_time": 1733839461,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 672247,
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 610727,
-      "num": 610727,
-      "word": "一万七的小兰吧唧",
-      "onboard_time": 1733839461,
-      "rank": 36,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 609711,
       "num": 609711,
       "word": "广电总局出手管理AI魔改视频",
@@ -569,6 +569,14 @@
       "onboard_time": 1733822539,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 524148,
+      "num": 524148,
+      "word": "猎罪图鉴尺度",
+      "onboard_time": 1733842700,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 523944,
@@ -873,14 +881,6 @@
       "onboard_time": 1733794577,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375788,
-      "num": 345372,
-      "word": "猎罪图鉴尺度",
-      "onboard_time": 1733842700,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 364607,
@@ -1403,6 +1403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 223901,
+      "num": 223901,
+      "word": "九重紫好虐",
+      "onboard_time": 1733844022,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222832,
       "num": 222832,
       "word": "虞书欣我们平行世界再见",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1733840184,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219946,
+      "num": 219946,
+      "word": "虞书欣丁禹兮变装饭太香了",
+      "onboard_time": 1733844501,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217222,
@@ -1859,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182569,
+      "num": 316164,
+      "word": "周子瑜应用心理学硕士",
+      "onboard_time": 1733842640,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181784,
       "num": 218860,
       "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
@@ -2040,14 +2064,6 @@
       "word": "猎1和猎2打起来了",
       "onboard_time": 1733813838,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162184,
-      "num": 155285,
-      "word": "九重紫好虐",
-      "onboard_time": 1733844022,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2387,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137717,
+      "num": 137717,
+      "word": "庆余年里蜷着慢慢活的大宝具象化了",
+      "onboard_time": 1733843959,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137404,
       "num": 137404,
       "word": "北京花300多万买一层送一层的房子",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1733823438,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 135917,
-      "num": 135917,
-      "word": "庆余年里蜷着慢慢活的大宝具象化了",
-      "onboard_time": 1733843959,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135546,
@@ -2649,14 +2665,6 @@
       "onboard_time": 1733798898,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114916,
-      "num": 316164,
-      "word": "周子瑜应用心理学硕士",
-      "onboard_time": 1733842640,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 114893,
@@ -3043,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79810,
+      "num": 224615,
+      "word": "进一步加强教师待遇保障提高教师地位",
+      "onboard_time": 1733844980,
+      "rank": 24,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 79725,
       "num": 169162,
       "word": "赵丽颖泉州历史和传统文化vlog",
@@ -3076,7 +3092,7 @@
     },
     {
       "raw_hot": 78463,
-      "num": 657321,
+      "num": 758594,
       "word": "解读2025年经济政策关键词",
       "onboard_time": 1733838862,
       "rank": 2,
@@ -3171,6 +3187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70283,
+      "num": 284808,
+      "word": "欧阳妮妮9月孕肚大片",
+      "onboard_time": 1733845160,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69486,
       "num": 349834,
       "word": "多人出现不适洗浴中心仅成立5个月",
@@ -3203,6 +3227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67572,
+      "num": 529971,
+      "word": "韩国法院对前国防部长官签发逮捕令",
+      "onboard_time": 1733844738,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67486,
       "num": 355042,
       "word": "京城大师赛",
@@ -3233,6 +3265,14 @@
       "onboard_time": 1733730798,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66557,
+      "num": 322367,
+      "word": "张新成唱这个杀手不太冷主题曲",
+      "onboard_time": 1733844261,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 65701,
@@ -3329,6 +3369,14 @@
       "onboard_time": 1733804960,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53411,
+      "num": 526224,
+      "word": "学院回应公示学生性别变更信息属实",
+      "onboard_time": 1733844799,
+      "rank": 9,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 53304,
@@ -3443,12 +3491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46944,
+      "num": 284715,
+      "word": "曝大学食堂档口拒涨价被威胁后关门",
+      "onboard_time": 1733844439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46883,
       "num": 287631,
       "word": "A股成交额第50个交易日破万亿",
       "onboard_time": 1733801838,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 46846,
+      "num": 343222,
+      "word": "男子要贷款先交两万四利息",
+      "onboard_time": 1733843301,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46223,
@@ -3523,12 +3587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42662,
-      "num": 343222,
-      "word": "男子要贷款先交两万四利息",
-      "onboard_time": 1733843301,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 42486,
+      "num": 196277,
+      "word": "Ruler说LPL比LCK更擅长打架",
+      "onboard_time": 1733844141,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 42110,
@@ -3595,14 +3659,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 34884,
-      "num": 322367,
-      "word": "张新成唱这个杀手不太冷主题曲",
-      "onboard_time": 1733844261,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34565,
       "num": 483884,
       "word": "为帮宝妈止损民警与骗子上演局中局",
@@ -3640,6 +3696,22 @@
       "word": "目击者讲述航班飞行途中老人发病",
       "onboard_time": 1733820260,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33305,
+      "num": 202336,
+      "word": "教育部等七部门发文加强教师待遇保障",
+      "onboard_time": 1733844921,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 33027,
+      "num": 385678,
+      "word": "放弃年休假必须书面申请才算数",
+      "onboard_time": 1733844501,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3881,14 +3953,6 @@
       "onboard_time": 1733786235,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10276,
-      "num": 195730,
-      "word": "Ruler说LPL比LCK更擅长打架",
-      "onboard_time": 1733844141,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 9649,

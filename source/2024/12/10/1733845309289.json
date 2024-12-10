@@ -1,0 +1,410 @@
+{
+  "runTime": 1733845309289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358613,
+        "num": 1358613,
+        "word": "徐艺洋直播带货",
+        "onboard_time": 1733840782,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857965,
+        "num": 857965,
+        "word": "长期使用日本网红眼药水视力仅剩0.1",
+        "onboard_time": 1733839342,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69220,
+        "num": 758594,
+        "word": "解读2025年经济政策关键词",
+        "onboard_time": 1733838862,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1026654,
+        "num": 754039,
+        "word": "李昀锐大学女友",
+        "onboard_time": 1733837900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 675052,
+        "num": 675052,
+        "word": "一万七的小兰吧唧",
+        "onboard_time": 1733839461,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1212488,
+        "num": 658177,
+        "word": "怀孕三个月女子遭家暴被踢孕肚",
+        "onboard_time": 1733840482,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 588727,
+        "num": 588727,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1733837300,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559507,
+        "num": 559507,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67572,
+        "num": 529971,
+        "word": "韩国法院对前国防部长官签发逮捕令",
+        "onboard_time": 1733844738,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53411,
+        "num": 526224,
+        "word": "学院回应公示学生性别变更信息属实",
+        "onboard_time": 1733844799,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 524148,
+        "num": 524148,
+        "word": "猎罪图鉴尺度",
+        "onboard_time": 1733842700,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 488074,
+        "num": 488074,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398071,
+        "num": 398071,
+        "word": "猎罪图鉴2 娱乐圈原型",
+        "onboard_time": 1733832378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33027,
+        "num": 385678,
+        "word": "放弃年休假必须书面申请才算数",
+        "onboard_time": 1733844501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374211,
+        "num": 374211,
+        "word": "范玮琪哽咽谈过去五年经历",
+        "onboard_time": 1733836761,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352491,
+        "num": 352491,
+        "word": "女子买雪花酥被骂买不起就不要称",
+        "onboard_time": 1733837481,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285359,
+        "num": 285359,
+        "word": "做完近视眼手术后的真实感受",
+        "onboard_time": 1733840962,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66557,
+        "num": 284936,
+        "word": "张新成唱这个杀手不太冷主题曲",
+        "onboard_time": 1733844261,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70283,
+        "num": 284808,
+        "word": "欧阳妮妮9月孕肚大片",
+        "onboard_time": 1733845160,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46944,
+        "num": 284715,
+        "word": "曝大学食堂档口拒涨价被威胁后关门",
+        "onboard_time": 1733844439,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284700,
+        "num": 284700,
+        "word": "男子称19岁被舅舅安排任办公室副主任",
+        "onboard_time": 1733824941,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331236,
+        "num": 278015,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289538,
+        "num": 272620,
+        "word": "孔雪儿金子涵合影",
+        "onboard_time": 1733838741,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236642,
+        "num": 236642,
+        "word": "财政局报案称被人诈骗近三千万元",
+        "onboard_time": 1733838140,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79810,
+        "num": 224615,
+        "word": "进一步加强教师待遇保障提高教师地位",
+        "onboard_time": 1733844980,
+        "rank": 24,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 256726,
+        "num": 224462,
+        "word": "赵雅芝 71岁饭撒的神",
+        "onboard_time": 1733840301,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223901,
+        "num": 223901,
+        "word": "九重紫好虐",
+        "onboard_time": 1733844022,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219946,
+        "num": 219946,
+        "word": "虞书欣丁禹兮变装饭太香了",
+        "onboard_time": 1733844501,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202921,
+        "num": 202921,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33305,
+        "num": 202336,
+        "word": "教育部等七部门发文加强教师待遇保障",
+        "onboard_time": 1733844921,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202280,
+        "num": 202280,
+        "word": "张本回应藏海传画面",
+        "onboard_time": 1733842101,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201648,
+        "num": 201648,
+        "word": "高校公示学生个人性别变更信息申请",
+        "onboard_time": 1733838862,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42486,
+        "num": 196277,
+        "word": "Ruler说LPL比LCK更擅长打架",
+        "onboard_time": 1733844141,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196039,
+        "num": 196039,
+        "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+        "onboard_time": 1733837602,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46846,
+        "num": 192906,
+        "word": "男子要贷款先交两万四利息",
+        "onboard_time": 1733843301,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190075,
+        "num": 190075,
+        "word": "猎罪图鉴偶像案 是按番位杀的吗",
+        "onboard_time": 1733830579,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189764,
+        "num": 189764,
+        "word": "金高银中文无障碍沟通",
+        "onboard_time": 1733843001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182569,
+        "num": 182569,
+        "word": "周子瑜应用心理学硕士",
+        "onboard_time": 1733842640,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175249,
+        "num": 175249,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166575,
+        "num": 166575,
+        "word": "这部动画每一帧都是宝藏",
+        "onboard_time": 1733839642,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148064,
+        "num": 148064,
+        "word": "专访敦煌话剧演员张艺兴",
+        "onboard_time": 1733839342,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144412,
+        "num": 144412,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143649,
+        "num": 143649,
+        "word": "孟子义艾特李昀锐",
+        "onboard_time": 1733842461,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142926,
+        "num": 142926,
+        "word": "徐海乔真演短剧男主了",
+        "onboard_time": 1733837241,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137717,
+        "num": 137717,
+        "word": "庆余年里蜷着慢慢活的大宝具象化了",
+        "onboard_time": 1733843959,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136063,
+        "num": 136063,
+        "word": "JDG疑似回应Ruler说伙食差",
+        "onboard_time": 1733840184,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135220,
+        "num": 135220,
+        "word": "韩国会惩罚每一个吃不完外卖的人",
+        "onboard_time": 1733831719,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131857,
+        "num": 131857,
+        "word": "长的漂亮但拍照不上镜的人",
+        "onboard_time": 1733833339,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 129365,
+        "num": 129365,
+        "word": "郑晓龙夸肖战努力专注有悟性",
+        "onboard_time": 1733843662,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105006,
+        "num": 127315,
+        "word": "jellycat铁锅炖",
+        "onboard_time": 1733838442,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十八次集体学习#"
+    }
+  }
+}
