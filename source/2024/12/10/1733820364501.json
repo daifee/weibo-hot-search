@@ -1,0 +1,410 @@
+{
+  "runTime": 1733820364501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266795,
+        "num": 1266795,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1130954,
+        "num": 1130954,
+        "word": "藏海传",
+        "onboard_time": 1733817920,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56329,
+        "num": 911846,
+        "word": "中国经济航船有信心继续乘风破浪",
+        "onboard_time": 1733805741,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 718600,
+        "num": 718600,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583377,
+        "num": 583377,
+        "word": "泽连斯基曝光乌军死亡人数",
+        "onboard_time": 1733816540,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1857848,
+        "num": 572028,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1057321,
+        "num": 545402,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454244,
+        "num": 454244,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400818,
+        "num": 400818,
+        "word": "韩国会通过要求迅速逮捕尹锡悦的决议案",
+        "onboard_time": 1733812219,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322715,
+        "num": 322715,
+        "word": "武夷山烧火曝光者被8名烧火者投诉",
+        "onboard_time": 1733816240,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 559371,
+        "num": 322497,
+        "word": "藕饼",
+        "onboard_time": 1733815579,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1002008,
+        "num": 321807,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81857,
+        "num": 320732,
+        "word": "男子交2万参加自律挑战3次均失败",
+        "onboard_time": 1733819298,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36575,
+        "num": 320302,
+        "word": "过时的琼瑶剧改变了中国女性多少次",
+        "onboard_time": 1733819540,
+        "rank": 13,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 441925,
+        "num": 319328,
+        "word": "蔡少芬 我乌拉那拉宜修回来了",
+        "onboard_time": 1733818999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434574,
+        "num": 318154,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318094,
+        "num": 318094,
+        "word": "女子为逃避欠款自导自演丢了10万",
+        "onboard_time": 1733818758,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272557,
+        "num": 272557,
+        "word": "飞机上乘客突发疾病抢救无效死亡",
+        "onboard_time": 1733814800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 270951,
+        "word": "考古孟子义记得带纸",
+        "onboard_time": 1733819239,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154294,
+        "num": 265982,
+        "word": "一米长糖葫芦成情侣秀恩爱顶流",
+        "onboard_time": 1733818640,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79545,
+        "num": 261350,
+        "word": "费翔马东锡宋小宝 混搭天菜",
+        "onboard_time": 1733819899,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485574,
+        "num": 257748,
+        "word": "丹东草莓竟然比鸡蛋还大",
+        "onboard_time": 1733818459,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425360,
+        "num": 255595,
+        "word": "迪丽热巴方确认不参加星光大赏",
+        "onboard_time": 1733819540,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384340,
+        "num": 250771,
+        "word": "严浩翔新歌疑似抄袭",
+        "onboard_time": 1733819720,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 376288,
+        "num": 247058,
+        "word": "范玮琪回来了",
+        "onboard_time": 1733817680,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349807,
+        "num": 240529,
+        "word": "猎罪图鉴吻戏来了",
+        "onboard_time": 1733813299,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239496,
+        "num": 239496,
+        "word": "A股涨到堵单",
+        "onboard_time": 1733808498,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224582,
+        "num": 224582,
+        "word": "业主家供暖仅22度发现1年没开阀门",
+        "onboard_time": 1733817498,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221068,
+        "num": 221068,
+        "word": "以军坦克向叙首都大马士革推进",
+        "onboard_time": 1733815759,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33705,
+        "num": 217441,
+        "word": "目击者讲述航班飞行途中老人发病",
+        "onboard_time": 1733820260,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213981,
+        "num": 213981,
+        "word": "张小斐陈昊宇 你俩反思一下",
+        "onboard_time": 1733816720,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210891,
+        "num": 210891,
+        "word": "刘诗诗celine全球品牌大使",
+        "onboard_time": 1733811379,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 209596,
+        "num": 209596,
+        "word": "丁禹兮开车只敢开十迈",
+        "onboard_time": 1733816000,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208654,
+        "num": 208654,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206029,
+        "num": 206029,
+        "word": "杨紫家业大婚戏",
+        "onboard_time": 1733815700,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192494,
+        "num": 192494,
+        "word": "央视片单",
+        "onboard_time": 1733820081,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 183605,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179457,
+        "num": 179457,
+        "word": "混团入奥已列入议程",
+        "onboard_time": 1733819420,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166347,
+        "num": 166347,
+        "word": "哪吒帅了好多",
+        "onboard_time": 1733810119,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160029,
+        "num": 160029,
+        "word": "文韬 高级谈判专家",
+        "onboard_time": 1733819060,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159569,
+        "num": 159569,
+        "word": "丁禹兮虞书欣合唱凝眸",
+        "onboard_time": 1733819960,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58740,
+        "num": 157867,
+        "word": "西北老父亲第一次吃江苏大闸蟹",
+        "onboard_time": 1733816420,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157348,
+        "num": 157348,
+        "word": "檀健次直播",
+        "onboard_time": 1733818161,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152900,
+        "num": 152900,
+        "word": "叙向联合国提出申诉呼吁停止以色列侵略",
+        "onboard_time": 1733816180,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149967,
+        "num": 149967,
+        "word": "中国为何会对英伟达动手",
+        "onboard_time": 1733819839,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141144,
+        "num": 141144,
+        "word": "双轨",
+        "onboard_time": 1733817021,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139943,
+        "num": 139943,
+        "word": "宠物果然是谁养的就像谁",
+        "onboard_time": 1733816659,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "韩国人最爱看的中剧排行",
+        "onboard_time": 1733805139,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131514,
+        "num": 131514,
+        "word": "最高检依法对唐仁健决定逮捕",
+        "onboard_time": 1733817260,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131289,
+        "num": 131289,
+        "word": "WTT新加坡大满贯门票明日开售",
+        "onboard_time": 1733820320,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为实现十五五良好开局打牢基础#"
+    }
+  }
+}
