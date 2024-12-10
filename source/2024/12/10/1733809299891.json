@@ -1,0 +1,410 @@
+{
+  "runTime": 1733809299891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2365878,
+        "num": 2365878,
+        "word": "官方通报卜某走失被找回事件",
+        "onboard_time": 1733808740,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1441370,
+        "num": 1441370,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122810,
+        "num": 987893,
+        "word": "1万亿元超长期特别国债安排完毕",
+        "onboard_time": 1733805859,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 881622,
+        "num": 881622,
+        "word": "优酷这把直接熹妃回宫",
+        "onboard_time": 1733805619,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 817864,
+        "num": 817864,
+        "word": "蒋欣 华妃又要放肆一回了",
+        "onboard_time": 1733807659,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491344,
+        "num": 491344,
+        "word": "韩国出土4块千年木简",
+        "onboard_time": 1733798657,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 653789,
+        "num": 485055,
+        "word": "赵露思安慰被霸凌粉丝",
+        "onboard_time": 1733802798,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477189,
+        "num": 477189,
+        "word": "向佐找晓华3小时做新发型",
+        "onboard_time": 1733796437,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383562,
+        "num": 383562,
+        "word": "年轻人开始渴望加入睡门",
+        "onboard_time": 1733799198,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364607,
+        "num": 364607,
+        "word": "泽连斯基称特朗普现在说的还不算",
+        "onboard_time": 1733807659,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 500955,
+        "num": 363619,
+        "word": "网红刘大美丽去世",
+        "onboard_time": 1733757618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468804,
+        "num": 362587,
+        "word": "甄嬛传晚会官宣孙俪",
+        "onboard_time": 1733801179,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456591,
+        "num": 361947,
+        "word": "陪高三的女儿旷了一个晚自习",
+        "onboard_time": 1733804059,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359827,
+        "num": 359827,
+        "word": "一觉醒来皮肤被热水袋烫硬了",
+        "onboard_time": 1733801957,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439717,
+        "num": 355325,
+        "word": "易烊千玺说更喜欢扎根的工作",
+        "onboard_time": 1733800517,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394080,
+        "num": 352304,
+        "word": "浙江跨晚导演组 办公室录音",
+        "onboard_time": 1733804479,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344394,
+        "num": 344394,
+        "word": "TXT长期休假",
+        "onboard_time": 1733808019,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289529,
+        "num": 289529,
+        "word": "王楚钦世排第一8825分",
+        "onboard_time": 1733806700,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145313,
+        "num": 255955,
+        "word": "浙晚跨年是按cp超话榜摇的人吗",
+        "onboard_time": 1733809039,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238673,
+        "num": 238673,
+        "word": "A股涨到堵单",
+        "onboard_time": 1733808498,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 385263,
+        "num": 238613,
+        "word": "肖战专辑价格",
+        "onboard_time": 1733801720,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303221,
+        "num": 238597,
+        "word": "韩国人最爱看的中剧排行",
+        "onboard_time": 1733805139,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238549,
+        "num": 238549,
+        "word": "凌晨一点吃了四斤面包",
+        "onboard_time": 1733804120,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226486,
+        "num": 226486,
+        "word": "为什么苹果手表会吸在玻璃上",
+        "onboard_time": 1733804120,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 224436,
+        "num": 224436,
+        "word": "山下智久晒与周杰伦合照",
+        "onboard_time": 1733806341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222832,
+        "num": 222832,
+        "word": "虞书欣我们平行世界再见",
+        "onboard_time": 1733806219,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221469,
+        "num": 221469,
+        "word": "南部档案",
+        "onboard_time": 1733802559,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199758,
+        "num": 199758,
+        "word": "郑钦文无缘WTA年度最佳球员",
+        "onboard_time": 1733806760,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193125,
+        "num": 193125,
+        "word": "檀健次端水式直播",
+        "onboard_time": 1733808319,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181819,
+        "num": 181819,
+        "word": "戒咖啡一个月身体的变化",
+        "onboard_time": 1733793197,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186403,
+        "num": 173843,
+        "word": "南部档案官宣",
+        "onboard_time": 1733807720,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 163868,
+        "word": "原来年终奖和十三薪的区别这么大",
+        "onboard_time": 1733791520,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 76478,
+        "num": 163716,
+        "word": "赵丽颖泉州历史和传统文化vlog",
+        "onboard_time": 1733806160,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163665,
+        "num": 163665,
+        "word": "海关在棒棒糖包装内查获6只巨人恐蚁",
+        "onboard_time": 1733802739,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161683,
+        "num": 161683,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 159138,
+        "word": "白敬亭Salomon户外风尚代言人",
+        "onboard_time": 1733803699,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 157950,
+        "num": 157950,
+        "word": "傅菁首次主演喜剧电影",
+        "onboard_time": 1733806040,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151080,
+        "num": 151080,
+        "word": "广州地铁市民可丝滑进站",
+        "onboard_time": 1733808438,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142393,
+        "num": 142393,
+        "word": "猎罪图鉴2今日开播",
+        "onboard_time": 1733799677,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103985,
+        "num": 135755,
+        "word": "疯驴子新剧被反杀",
+        "onboard_time": 1733807599,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134185,
+        "num": 134185,
+        "word": "女子推理社",
+        "onboard_time": 1733807959,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132455,
+        "num": 132455,
+        "word": "小时候很害怕BIGBANG",
+        "onboard_time": 1733789058,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124317,
+        "num": 124317,
+        "word": "中共中央政治局第十八次集体学习",
+        "onboard_time": 1733802559,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124233,
+        "num": 124233,
+        "word": "张艺兴导演新歌MV",
+        "onboard_time": 1733809279,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118909,
+        "num": 118909,
+        "word": "一代人有一代人的嘴里塞灯泡",
+        "onboard_time": 1733808260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118398,
+        "num": 118398,
+        "word": "aespa黑胶唱片",
+        "onboard_time": 1733806639,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115870,
+        "num": 115870,
+        "word": "李昀锐演技",
+        "onboard_time": 1733787856,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115032,
+        "num": 115032,
+        "word": "教体局回应冬季校服划开是碎布垃圾",
+        "onboard_time": 1733806520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109346,
+        "num": 109346,
+        "word": "杨紫白鹿新剧对打",
+        "onboard_time": 1733787076,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58560,
+        "num": 109292,
+        "word": "执法人员调查大连涉事口腔医疗机构",
+        "onboard_time": 1733807180,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#为实现十五五良好开局打牢基础#"
+    }
+  }
+}
