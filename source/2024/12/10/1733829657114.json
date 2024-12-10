@@ -1,0 +1,410 @@
+{
+  "runTime": 1733829657114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439134,
+        "num": 1439134,
+        "word": "男子称19岁被舅舅安排任办公室副主任",
+        "onboard_time": 1733824941,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885732,
+        "num": 885732,
+        "word": "藏海传",
+        "onboard_time": 1733817920,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31012,
+        "num": 806308,
+        "word": "2025年财政和货币政策有哪些变化",
+        "onboard_time": 1733822121,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 782620,
+        "num": 782620,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397816,
+        "num": 397816,
+        "word": "尹锡悦等8人被列入逮捕名单",
+        "onboard_time": 1733814080,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340920,
+        "num": 340920,
+        "word": "老人退休工资2800却花150万买保险",
+        "onboard_time": 1733812340,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503010,
+        "num": 340467,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444963,
+        "num": 334917,
+        "word": "谢娜是乐华的第一个艺人",
+        "onboard_time": 1733815821,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115375,
+        "num": 333588,
+        "word": "水电九局辟谣19岁男子任职副主任",
+        "onboard_time": 1733828299,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 41076,
+        "num": 328485,
+        "word": "人民网评落实家暴告诫制度有据可依",
+        "onboard_time": 1733828481,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 2111747,
+        "num": 325953,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360768,
+        "num": 321711,
+        "word": "太好了是猎罪图鉴2 期末没救了",
+        "onboard_time": 1733827159,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321461,
+        "num": 321461,
+        "word": "严浩翔新歌疑似抄袭",
+        "onboard_time": 1733819720,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 303357,
+        "num": 303357,
+        "word": "以色列袭击叙利亚海军舰队",
+        "onboard_time": 1733822959,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278698,
+        "num": 278698,
+        "word": "黑神话悟空更新",
+        "onboard_time": 1733820859,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 672663,
+        "num": 278103,
+        "word": "双轨 换角",
+        "onboard_time": 1733815099,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283110,
+        "num": 276521,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55755,
+        "num": 275534,
+        "word": "藏海传首发预告",
+        "onboard_time": 1733822001,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59304,
+        "num": 273590,
+        "word": "2024LOL冬季转会期",
+        "onboard_time": 1733829620,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63890,
+        "num": 271893,
+        "word": "杨妞花称收到开庭通知很意外",
+        "onboard_time": 1733828659,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386288,
+        "num": 270867,
+        "word": "瘦80斤后回国把爸妈震惊到了",
+        "onboard_time": 1733824400,
+        "rank": 20,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 362278,
+        "num": 269494,
+        "word": "谢娜没去陈乔恩婚礼的原因",
+        "onboard_time": 1733812820,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268284,
+        "num": 268284,
+        "word": "张萌 你们能有我会嗑么",
+        "onboard_time": 1733824759,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244001,
+        "num": 244001,
+        "word": "美世界500强公司CEO遭枪击身亡",
+        "onboard_time": 1733822539,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37635,
+        "num": 238573,
+        "word": "京城大师赛",
+        "onboard_time": 1733826260,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236869,
+        "num": 236869,
+        "word": "甄嬛传",
+        "onboard_time": 1733826380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215153,
+        "num": 215153,
+        "word": "台称解放军在台岛周边部署规模超2022年",
+        "onboard_time": 1733822539,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25279,
+        "num": 213311,
+        "word": "NewJeans经纪人告发ADOR代表",
+        "onboard_time": 1733829020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211882,
+        "num": 211882,
+        "word": "猫咪去世前用最后17秒告别主人",
+        "onboard_time": 1733822599,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8806,
+        "num": 210430,
+        "word": "黄锐回应池忆争议",
+        "onboard_time": 1733829259,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209622,
+        "num": 209622,
+        "word": "迪丽热巴方确认不参加星光大赏",
+        "onboard_time": 1733819540,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201004,
+        "num": 201004,
+        "word": "一块吧唧被炒到7万多背后",
+        "onboard_time": 1733800218,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200784,
+        "num": 200784,
+        "word": "大奉打更人登总台电视剧片单",
+        "onboard_time": 1733829440,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192159,
+        "num": 192159,
+        "word": "陕西大姐中限量宝马车以为是诈骗",
+        "onboard_time": 1733825299,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191765,
+        "num": 191765,
+        "word": "34岁来英国留学的堕落之夜",
+        "onboard_time": 1733827461,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186836,
+        "num": 186836,
+        "word": "理发师晓华谈到孩子差点儿落泪",
+        "onboard_time": 1733820619,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182947,
+        "num": 182947,
+        "word": "微博之夜年度推荐",
+        "onboard_time": 1733824341,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27474,
+        "num": 169941,
+        "word": "诛仙世界把mmo卷起来了",
+        "onboard_time": 1733829141,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169563,
+        "num": 169563,
+        "word": "晓华回应帮向佐一根根理发",
+        "onboard_time": 1733827341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168830,
+        "num": 168830,
+        "word": "李昀锐是孟子义一级铁粉",
+        "onboard_time": 1733820439,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165283,
+        "num": 165283,
+        "word": "丹东草莓竟然比鸡蛋还大",
+        "onboard_time": 1733818459,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 155406,
+        "num": 155406,
+        "word": "双轨男主",
+        "onboard_time": 1733820682,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151937,
+        "num": 151937,
+        "word": "樊振东现身长沙备战乒超",
+        "onboard_time": 1733822900,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144920,
+        "num": 144920,
+        "word": "苏新皓女装跳舞",
+        "onboard_time": 1733829620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124402,
+        "num": 124402,
+        "word": "肖战素衣束发",
+        "onboard_time": 1733822479,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123160,
+        "num": 123160,
+        "word": "父母将上海一套房挂女儿名下后反悔",
+        "onboard_time": 1733808918,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122684,
+        "num": 122684,
+        "word": "谭松韵白羽流苏缎面裙",
+        "onboard_time": 1733827461,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120440,
+        "num": 120440,
+        "word": "水电九局报案",
+        "onboard_time": 1733829498,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120369,
+        "num": 120369,
+        "word": "于正回应碰瓷国色芳华",
+        "onboard_time": 1733827099,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119945,
+        "num": 119945,
+        "word": "解读北京国安新帅加盟",
+        "onboard_time": 1733829079,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见主要国际经济组织负责人#"
+    }
+  }
+}
