@@ -1,0 +1,410 @@
+{
+  "runTime": 1733855625937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 371705,
+        "num": 371705,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139593,
+        "num": 139593,
+        "word": "猎罪图鉴尺度",
+        "onboard_time": 1733842700,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14187,
+        "num": 136092,
+        "word": "财政政策更加积极将释放更多可能性",
+        "onboard_time": 1733838680,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 133931,
+        "num": 133931,
+        "word": "李昀锐大学女友",
+        "onboard_time": 1733837900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103275,
+        "num": 103275,
+        "word": "中国女游客国外火车探身拍摄坠车",
+        "onboard_time": 1733845998,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90960,
+        "num": 90960,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 82604,
+        "word": "真霸总不穿厚底鞋",
+        "onboard_time": 1733847977,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73956,
+        "num": 73956,
+        "word": "学生称超市老板挤走卖3.5元泡面档口",
+        "onboard_time": 1733846717,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73606,
+        "num": 73606,
+        "word": "男子酒后殴打怀三胎孕妻致多处受伤",
+        "onboard_time": 1733850256,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11967,
+        "num": 73567,
+        "word": "刘大美丽生前抽脂医院曾多次被罚",
+        "onboard_time": 1733855113,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89144,
+        "num": 73565,
+        "word": "怀孕三个月女子遭家暴被踢孕肚",
+        "onboard_time": 1733840482,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 73563,
+        "num": 73563,
+        "word": "这部动画每一帧都是宝藏",
+        "onboard_time": 1733839642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69618,
+        "num": 69618,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1733830338,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61146,
+        "num": 61146,
+        "word": "九重紫",
+        "onboard_time": 1733829079,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56452,
+        "num": 56452,
+        "word": "这居然是吴倩",
+        "onboard_time": 1733827820,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56324,
+        "num": 56324,
+        "word": "苏州一地学生写作业到点就停无需补做",
+        "onboard_time": 1733853914,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55630,
+        "num": 55630,
+        "word": "一万七的小兰吧唧",
+        "onboard_time": 1733839461,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 53413,
+        "num": 53413,
+        "word": "猎罪图鉴偶像案 是按番位杀的吗",
+        "onboard_time": 1733830579,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52624,
+        "num": 52624,
+        "word": "长期使用日本网红眼药水视力仅剩0.1",
+        "onboard_time": 1733839342,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50504,
+        "num": 50504,
+        "word": "猎罪图鉴2 娱乐圈原型",
+        "onboard_time": 1733832378,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50018,
+        "num": 50018,
+        "word": "向佐 我怎么帅都没有我老婆美",
+        "onboard_time": 1733850075,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46277,
+        "num": 46277,
+        "word": "范玮琪哽咽谈过去五年经历",
+        "onboard_time": 1733836761,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42812,
+        "num": 42812,
+        "word": "孔雪儿金子涵合影",
+        "onboard_time": 1733838741,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40278,
+        "num": 40278,
+        "word": "丁禹兮千字长文告别慕声",
+        "onboard_time": 1733833399,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40177,
+        "num": 40177,
+        "word": "徐海乔真演短剧男主了",
+        "onboard_time": 1733837241,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40130,
+        "num": 40130,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733822059,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37679,
+        "num": 37679,
+        "word": "台称解放军在台岛周边部署规模超2022年",
+        "onboard_time": 1733822539,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39340,
+        "num": 37590,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1733837300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37261,
+        "num": 37261,
+        "word": "专访敦煌话剧演员张艺兴",
+        "onboard_time": 1733839342,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36067,
+        "num": 36067,
+        "word": "韩国会惩罚每一个吃不完外卖的人",
+        "onboard_time": 1733831719,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35823,
+        "num": 35823,
+        "word": "以军发言人否认以军接近大马士革",
+        "onboard_time": 1733824579,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35480,
+        "num": 35480,
+        "word": "九重紫好虐",
+        "onboard_time": 1733844022,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34445,
+        "num": 34445,
+        "word": "樱桃琥珀登总台电视剧片单",
+        "onboard_time": 1733855113,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33440,
+        "num": 33440,
+        "word": "黑神话悟空终于有地图功能了",
+        "onboard_time": 1733852112,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33291,
+        "num": 33291,
+        "word": "青你的金子涵回来了",
+        "onboard_time": 1733833279,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32367,
+        "num": 32367,
+        "word": "警方回应男子骑摩托车翻下桥身亡",
+        "onboard_time": 1733851454,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32134,
+        "num": 32134,
+        "word": "李一桐 奶龙",
+        "onboard_time": 1733849235,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31056,
+        "num": 31056,
+        "word": "杭州一男子骑摩托撞护栏翻桥身亡",
+        "onboard_time": 1733833339,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 31013,
+        "num": 31013,
+        "word": "JDG疑似回应Ruler说伙食差",
+        "onboard_time": 1733840184,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30970,
+        "num": 30970,
+        "word": "学院回应公示学生性别变更信息属实",
+        "onboard_time": 1733844799,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 30314,
+        "num": 30314,
+        "word": "周子瑜应用心理学硕士",
+        "onboard_time": 1733842640,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29968,
+        "num": 29968,
+        "word": "于适从CCTV6干到CCTV5",
+        "onboard_time": 1733831239,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 29801,
+        "num": 29801,
+        "word": "虞书欣丁禹兮变装饭太香了",
+        "onboard_time": 1733844501,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29625,
+        "num": 29625,
+        "word": "长的漂亮但拍照不上镜的人",
+        "onboard_time": 1733833339,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 27763,
+        "num": 27763,
+        "word": "做完近视眼手术后的真实感受",
+        "onboard_time": 1733840962,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27106,
+        "num": 27106,
+        "word": "易烊千玺过塘幕后",
+        "onboard_time": 1733854573,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26660,
+        "num": 26660,
+        "word": "杨仕泽说柳拂衣是职业生涯重要节点",
+        "onboard_time": 1733846778,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26442,
+        "num": 26442,
+        "word": "太好了是猎罪图鉴2 期末没救了",
+        "onboard_time": 1733827159,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25903,
+        "num": 25903,
+        "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+        "onboard_time": 1733837602,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21489,
+        "num": 25901,
+        "word": "庆余年里蜷着慢慢活的大宝具象化了",
+        "onboard_time": 1733843959,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推进边疆治理体系和治理能力现代化#"
+    }
+  }
+}
