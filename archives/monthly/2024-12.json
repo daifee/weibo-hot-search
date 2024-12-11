@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733931688974,
+  "endTime": 1733934678140,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3899,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721145,
+      "num": 881008,
+      "word": "丁程鑫张真源毕业大戏公式照",
+      "onboard_time": 1733931858,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 718720,
       "num": 245221,
       "word": "爱奇艺导播吃豆橛子了",
@@ -4353,6 +4361,14 @@
       "onboard_time": 1733227821,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 666203,
+      "num": 666203,
+      "word": "中国女子远嫁日本已失联16个月",
+      "onboard_time": 1733930059,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 664623,
@@ -6217,6 +6233,14 @@
       "onboard_time": 1733713099,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 512017,
+      "num": 512017,
+      "word": "巴厘岛著名景区大树倒塌致2女子身亡",
+      "onboard_time": 1733930419,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511382,
@@ -8355,6 +8379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400573,
+      "num": 400573,
+      "word": "陈昊宇 我不喜欢大女主剧的定义",
+      "onboard_time": 1733933058,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400103,
       "num": 400103,
       "word": "卖鱼哥放弃满车鱼虾泼1吨水救人",
@@ -9843,6 +9875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335772,
+      "num": 335772,
+      "word": "胖东来否认打碎商品免单",
+      "onboard_time": 1733931440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335520,
       "num": 335520,
       "word": "做完近视眼手术后的真实感受",
@@ -10025,6 +10065,14 @@
       "onboard_time": 1733903544,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329612,
+      "num": 329612,
+      "word": "日本丈夫回应失联女子现状",
+      "onboard_time": 1733924540,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329516,
@@ -10745,6 +10793,14 @@
       "onboard_time": 1733567900,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 304148,
+      "num": 304148,
+      "word": "打伞上班被辞退上诉3次索赔33万",
+      "onboard_time": 1733929700,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304060,
@@ -12073,14 +12129,6 @@
       "onboard_time": 1733746579,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263487,
-      "num": 263487,
-      "word": "巴厘岛著名景区大树倒塌致2女子身亡",
-      "onboard_time": 1733930419,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263465,
@@ -14499,14 +14547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 218894,
-      "num": 225398,
-      "word": "日本丈夫回应失联女子现状",
-      "onboard_time": 1733924540,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218142,
       "num": 354985,
       "word": "韩国资产巨震",
@@ -14625,6 +14665,14 @@
       "onboard_time": 1733038818,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216055,
+      "num": 221299,
+      "word": "千金府",
+      "onboard_time": 1733175071,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 215953,
@@ -15811,14 +15859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202381,
-      "num": 202381,
-      "word": "打伞上班被辞退上诉3次索赔33万",
-      "onboard_time": 1733929700,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202361,
       "num": 202361,
       "word": "马龙陈梦抵达挪威",
@@ -15897,14 +15937,6 @@
       "onboard_time": 1733813782,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201595,
-      "num": 340762,
-      "word": "中国女子远嫁日本已失联16个月",
-      "onboard_time": 1733930059,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201587,
@@ -22483,6 +22515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150213,
+      "num": 150213,
+      "word": "百年孤独",
+      "onboard_time": 1733928920,
+      "rank": 25,
+      "category": "剧集,读书作家"
+    },
+    {
       "raw_hot": 150207,
       "num": 193667,
       "word": "张伟丽世界综合格斗最佳女选手",
@@ -24587,6 +24627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135135,
+      "num": 135135,
+      "word": "叙军防空导弹阵地空无一人导弹完好",
+      "onboard_time": 1733932698,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135069,
       "num": 207773,
       "word": "65万拎包入住上海181平精装房是真的吗",
@@ -25187,6 +25235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130185,
+      "num": 130185,
+      "word": "Meiko加入iG的原因",
+      "onboard_time": 1733931620,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130130,
       "num": 130130,
       "word": "杭州总决赛晚宴红毯",
@@ -25585,14 +25641,6 @@
       "onboard_time": 1733136199,
       "rank": 43,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 126039,
-      "num": 126039,
-      "word": "胖东来否认打碎商品免单",
-      "onboard_time": 1733931440,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126006,
@@ -27689,14 +27737,6 @@
       "onboard_time": 1733346250,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108244,
-      "num": 108244,
-      "word": "Meiko加入iG的原因",
-      "onboard_time": 1733931620,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 108243,
@@ -29859,14 +29899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86158,
-      "num": 221299,
-      "word": "千金府",
-      "onboard_time": 1733175071,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 85975,
       "num": 252841,
       "word": "无限暖暖攻略",
@@ -29952,6 +29984,14 @@
       "word": "志愿者称走失女硕士丈夫在做笔录",
       "onboard_time": 1733766973,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84343,
+      "num": 84343,
+      "word": "放生大米是浪费不是善意",
+      "onboard_time": 1733934137,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -30065,6 +30105,14 @@
       "onboard_time": 1733224400,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83594,
+      "num": 85837,
+      "word": "央视新闻夜读",
+      "onboard_time": 1733587221,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 83583,
@@ -30512,6 +30560,14 @@
       "word": "沈月买土耳其冰激凌",
       "onboard_time": 1733836281,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79404,
+      "num": 83140,
+      "word": "偶遇希林娜依高泉州簪花",
+      "onboard_time": 1733933119,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -31275,12 +31331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70550,
+      "num": 225041,
+      "word": "猎罪图鉴2盲童美术教育关怀计划",
+      "onboard_time": 1733929460,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70510,
       "num": 228095,
       "word": "谁懂谢霆锋弹吉他的含金量",
       "onboard_time": 1733117057,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "叙反对派呼吁大马士革居民回到工作岗位",
+      "onboard_time": 1733934616,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70331,
@@ -33043,6 +33115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54273,
+      "num": 194721,
+      "word": "女儿远嫁日本失联妈妈春节赴日寻女",
+      "onboard_time": 1733934497,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54174,
       "num": 352849,
       "word": "林诗栋蒯曼vs卢伟洪剑芳",
@@ -33209,14 +33289,6 @@
       "onboard_time": 1733806639,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53154,
-      "num": 85837,
-      "word": "央视新闻夜读",
-      "onboard_time": 1733587221,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 53147,
@@ -34785,14 +34857,6 @@
       "onboard_time": 1733372961,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41641,
-      "num": 225041,
-      "word": "猎罪图鉴2盲童美术教育关怀计划",
-      "onboard_time": 1733929460,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 41630,
@@ -39691,6 +39755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10399,
+      "num": 157678,
+      "word": "潘展乐给全家下任务让好好享受生活",
+      "onboard_time": 1733929100,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10357,
       "num": 188886,
       "word": "贺岁喜剧火锅艺术家定档",
@@ -39880,6 +39952,14 @@
       "word": "李莎旻子又又又和周笔畅同台了",
       "onboard_time": 1733082910,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7840,
+      "num": 189152,
+      "word": "吉高由里子分手",
+      "onboard_time": 1733929100,
+      "rank": 19,
       "category": "艺人"
     },
     {

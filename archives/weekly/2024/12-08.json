@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733931688974,
+  "endTime": 1733934678140,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1499,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721145,
+      "num": 881008,
+      "word": "丁程鑫张真源毕业大戏公式照",
+      "onboard_time": 1733931858,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 718720,
       "num": 245221,
       "word": "爱奇艺导播吃豆橛子了",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1733703559,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 666203,
+      "num": 666203,
+      "word": "中国女子远嫁日本已失联16个月",
+      "onboard_time": 1733930059,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663203,
@@ -2329,6 +2345,14 @@
       "onboard_time": 1733713099,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 512017,
+      "num": 512017,
+      "word": "巴厘岛著名景区大树倒塌致2女子身亡",
+      "onboard_time": 1733930419,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 511382,
@@ -3027,6 +3051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 400573,
+      "num": 400573,
+      "word": "陈昊宇 我不喜欢大女主剧的定义",
+      "onboard_time": 1733933058,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397648,
       "num": 397648,
       "word": "王楚钦首登男单年终世一",
@@ -3507,6 +3539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335772,
+      "num": 335772,
+      "word": "胖东来否认打碎商品免单",
+      "onboard_time": 1733931440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335520,
       "num": 335520,
       "word": "做完近视眼手术后的真实感受",
@@ -3601,6 +3641,14 @@
       "onboard_time": 1733903544,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329612,
+      "num": 329612,
+      "word": "日本丈夫回应失联女子现状",
+      "onboard_time": 1733924540,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328186,
@@ -3913,6 +3961,14 @@
       "onboard_time": 1733900839,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304148,
+      "num": 304148,
+      "word": "打伞上班被辞退上诉3次索赔33万",
+      "onboard_time": 1733929700,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304060,
@@ -4417,14 +4473,6 @@
       "onboard_time": 1733746579,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263487,
-      "num": 263487,
-      "word": "巴厘岛著名景区大树倒塌致2女子身亡",
-      "onboard_time": 1733930419,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262991,
@@ -5379,14 +5427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218894,
-      "num": 225398,
-      "word": "日本丈夫回应失联女子现状",
-      "onboard_time": 1733924540,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217977,
       "num": 217977,
       "word": "以军摧毁叙70%以上军事力量",
@@ -5409,6 +5449,14 @@
       "onboard_time": 1733837960,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216055,
+      "num": 221299,
+      "word": "千金府",
+      "onboard_time": 1733931199,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 215752,
@@ -5779,14 +5827,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 202381,
-      "num": 202381,
-      "word": "打伞上班被辞退上诉3次索赔33万",
-      "onboard_time": 1733929700,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202361,
       "num": 202361,
       "word": "马龙陈梦抵达挪威",
@@ -5825,14 +5865,6 @@
       "onboard_time": 1733813782,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201595,
-      "num": 340762,
-      "word": "中国女子远嫁日本已失联16个月",
-      "onboard_time": 1733930059,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201385,
@@ -8371,6 +8403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150213,
+      "num": 150213,
+      "word": "百年孤独",
+      "onboard_time": 1733928920,
+      "rank": 25,
+      "category": "剧集,读书作家"
+    },
+    {
       "raw_hot": 150015,
       "num": 150015,
       "word": "不知南京大屠杀是日本之耻",
@@ -9179,6 +9219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135135,
+      "num": 135135,
+      "word": "叙军防空导弹阵地空无一人导弹完好",
+      "onboard_time": 1733932698,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135045,
       "num": 135045,
       "word": "大三外籍留学生猥亵女生被拘",
@@ -9379,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130185,
+      "num": 130185,
+      "word": "Meiko加入iG的原因",
+      "onboard_time": 1733931620,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130130,
       "num": 130130,
       "word": "杭州总决赛晚宴红毯",
@@ -9481,14 +9537,6 @@
       "onboard_time": 1733644879,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126039,
-      "num": 126039,
-      "word": "胖东来否认打碎商品免单",
-      "onboard_time": 1733931440,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126002,
@@ -10225,14 +10273,6 @@
       "onboard_time": 1733629999,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108244,
-      "num": 108244,
-      "word": "Meiko加入iG的原因",
-      "onboard_time": 1733931620,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 108133,
@@ -10979,14 +11019,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86158,
-      "num": 221299,
-      "word": "千金府",
-      "onboard_time": 1733931199,
-      "rank": 18,
-      "category": "网红"
-    },
-    {
       "raw_hot": 85315,
       "num": 430856,
       "word": "韩国将深入调查尹锡悦紧急戒严事件",
@@ -11027,6 +11059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84343,
+      "num": 84343,
+      "word": "放生大米是浪费不是善意",
+      "onboard_time": 1733934137,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84263,
       "num": 305268,
       "word": "小鬼KTV式直播",
@@ -11057,6 +11097,14 @@
       "onboard_time": 1733778911,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83594,
+      "num": 85837,
+      "word": "央视新闻夜读",
+      "onboard_time": 1733587221,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 83583,
@@ -11248,6 +11296,14 @@
       "word": "沈月买土耳其冰激凌",
       "onboard_time": 1733836281,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 79404,
+      "num": 83140,
+      "word": "偶遇希林娜依高泉州簪花",
+      "onboard_time": 1733933119,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -11520,6 +11576,22 @@
       "word": "特别调查团已进入韩联合参谋本部",
       "onboard_time": 1733900719,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 70550,
+      "num": 225041,
+      "word": "猎罪图鉴2盲童美术教育关怀计划",
+      "onboard_time": 1733929460,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70381,
+      "num": 70381,
+      "word": "叙反对派呼吁大马士革居民回到工作岗位",
+      "onboard_time": 1733934616,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -12035,6 +12107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54273,
+      "num": 194721,
+      "word": "女儿远嫁日本失联妈妈春节赴日寻女",
+      "onboard_time": 1733934497,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54148,
       "num": 1262613,
       "word": "神十九乘组在轨工作都忙些啥",
@@ -12081,14 +12161,6 @@
       "onboard_time": 1733806639,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53154,
-      "num": 85837,
-      "word": "央视新闻夜读",
-      "onboard_time": 1733587221,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 53114,
@@ -12681,14 +12753,6 @@
       "onboard_time": 1733827099,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41641,
-      "num": 225041,
-      "word": "猎罪图鉴2盲童美术教育关怀计划",
-      "onboard_time": 1733929460,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 41567,
@@ -14371,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10399,
+      "num": 157678,
+      "word": "潘展乐给全家下任务让好好享受生活",
+      "onboard_time": 1733929100,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10275,
       "num": 22229,
       "word": "文化中国行看春节走向世界",
@@ -14433,6 +14505,14 @@
       "onboard_time": 1733689332,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7840,
+      "num": 189152,
+      "word": "吉高由里子分手",
+      "onboard_time": 1733929100,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 7689,
