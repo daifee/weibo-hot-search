@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733899658647,
+  "endTime": 1733901902934,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -187,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1688384,
+      "num": 329940,
+      "word": "深圳湾爆炸",
+      "onboard_time": 1733901500,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1673433,
       "num": 628683,
       "word": "疑似唐艺昕怀二胎",
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1505387,
+      "num": 1505387,
+      "word": "女子明知军婚仍破坏获刑1年半",
+      "onboard_time": 1733894180,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1496819,
       "num": 1496819,
       "word": "儿子发现离世父亲竟有3个私生子女",
@@ -321,14 +337,6 @@
       "onboard_time": 1733888541,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1474454,
-      "num": 1474454,
-      "word": "女子明知军婚仍破坏获刑1年半",
-      "onboard_time": 1733894180,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1472379,
@@ -1915,6 +1923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 543684,
+      "num": 327995,
+      "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
+      "onboard_time": 1733900839,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 542852,
       "num": 508831,
       "word": "尖叫之夜导播别嗑了",
@@ -3251,6 +3267,22 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 331025,
+      "num": 331025,
+      "word": "张若昀没案硬探",
+      "onboard_time": 1733900600,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330818,
+      "num": 330818,
+      "word": "琼瑶告别式照片红色衣装浅浅微笑",
+      "onboard_time": 1733897479,
+      "rank": 9,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 328020,
       "num": 328020,
       "word": "谢可寅想和虞书欣周也合租",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1733641519,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 325157,
+      "num": 325157,
+      "word": "猎罪图鉴2养小鬼剧情",
+      "onboard_time": 1733900298,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 323822,
@@ -3433,14 +3473,6 @@
       "onboard_time": 1733717301,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312962,
-      "num": 312962,
-      "word": "琼瑶告别式照片红色衣装浅浅微笑",
-      "onboard_time": 1733897479,
-      "rank": 9,
-      "category": "艺人,读书作家"
     },
     {
       "raw_hot": 312430,
@@ -3707,6 +3739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285472,
+      "num": 285472,
+      "word": "赵丽颖始终是那个赵丽颖",
+      "onboard_time": 1733899340,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285160,
       "num": 285160,
       "word": "莎头组合2比1韩国组合",
@@ -3929,14 +3969,6 @@
       "onboard_time": 1733727437,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 262478,
-      "num": 262478,
-      "word": "赵丽颖始终是那个赵丽颖",
-      "onboard_time": 1733899340,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 261225,
@@ -4779,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215050,
+      "num": 215050,
+      "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
+      "onboard_time": 1733899218,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214505,
       "num": 214505,
       "word": "股市",
@@ -4945,6 +4985,14 @@
       "onboard_time": 1733733438,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206603,
+      "num": 206603,
+      "word": "金价三连涨",
+      "onboard_time": 1733899039,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 206198,
@@ -5555,6 +5603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192587,
+      "num": 192587,
+      "word": "武契奇称不会像阿萨德那样逃走",
+      "onboard_time": 1733900839,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192404,
       "num": 304110,
       "word": "郑在玹结业式",
@@ -5609,6 +5665,14 @@
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191080,
+      "num": 253602,
+      "word": "肖战设计师的浪漫",
+      "onboard_time": 1733901439,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 190981,
@@ -5705,6 +5769,14 @@
       "onboard_time": 1733656279,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189651,
+      "num": 189651,
+      "word": "秦海璐猎罪图鉴2出场镜头",
+      "onboard_time": 1733899819,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 189209,
@@ -5897,6 +5969,14 @@
       "onboard_time": 1733636417,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186062,
+      "num": 186062,
+      "word": "林工宋莹在以法之名重逢了",
+      "onboard_time": 1733901199,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 185967,
@@ -6299,6 +6379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173771,
+      "num": 327351,
+      "word": "石宇奇2比1乔纳坦",
+      "onboard_time": 1733901319,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173634,
       "num": 173634,
       "word": "狼队第五人格",
@@ -6683,6 +6771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164854,
+      "num": 164854,
+      "word": "成都虐猫中学生停课反省",
+      "onboard_time": 1733898681,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 164755,
       "num": 164755,
       "word": "这就是我努力考研的原因",
@@ -6835,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160941,
+      "num": 160941,
+      "word": "朱开说对Daeny没好感",
+      "onboard_time": 1733900000,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160570,
       "num": 160570,
       "word": "miniteen价格",
@@ -6905,6 +7009,14 @@
       "onboard_time": 1733816659,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159100,
+      "num": 159100,
+      "word": "王楚钦梁靖崑开心炫饭",
+      "onboard_time": 1733899700,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 158907,
@@ -7281,14 +7393,6 @@
       "onboard_time": 1733751258,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150080,
-      "num": 150080,
-      "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
-      "onboard_time": 1733899218,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 150015,
@@ -7939,6 +8043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136282,
+      "num": 136282,
+      "word": "县长先把自己变网红又让小城火出圈",
+      "onboard_time": 1733898799,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136143,
       "num": 136143,
       "word": "中国队夺得混合团体接力冠军",
@@ -8107,12 +8219,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132297,
-      "num": 132297,
-      "word": "金价三连涨",
-      "onboard_time": 1733899039,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 132106,
+      "num": 326402,
+      "word": "养老院欠费数十位老人遭断水断电",
+      "onboard_time": 1733900660,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 131312,
@@ -8203,14 +8315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128922,
-      "num": 128922,
-      "word": "县长先把自己变网红又让小城火出圈",
-      "onboard_time": 1733898799,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128600,
       "num": 319514,
       "word": "叙利亚总理表示向反对派伸出友好之手",
@@ -8225,6 +8329,14 @@
       "onboard_time": 1733673619,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127633,
+      "num": 347219,
+      "word": "文在寅说应尽快确立韩国代总统人选",
+      "onboard_time": 1733898739,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126982,
@@ -8377,6 +8489,14 @@
       "onboard_time": 1733584042,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123993,
+      "num": 280603,
+      "word": "2024最佳电竞战队运营",
+      "onboard_time": 1733901020,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 123933,
@@ -8891,14 +9011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107335,
-      "num": 107335,
-      "word": "成都虐猫中学生停课反省",
-      "onboard_time": 1733898681,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 107235,
       "num": 69227,
       "word": "张艺兴此身分明了",
@@ -8913,14 +9025,6 @@
       "onboard_time": 1733839762,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 107161,
-      "num": 347219,
-      "word": "文在寅说应尽快确立韩国代总统人选",
-      "onboard_time": 1733898739,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107136,
@@ -9955,6 +10059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71373,
+      "num": 239263,
+      "word": "嫌疑人去派出所开无犯罪证明被秒抓",
+      "onboard_time": 1733900899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71060,
       "num": 238273,
       "word": "700人报名领养考编失败搜救犬",
@@ -9969,6 +10081,14 @@
       "onboard_time": 1733801538,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70824,
+      "num": 330193,
+      "word": "特别调查团已进入韩联合参谋本部",
+      "onboard_time": 1733900719,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70331,
@@ -11083,6 +11203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38932,
+      "num": 286709,
+      "word": "猎罪图鉴2好哭",
+      "onboard_time": 1733901799,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38172,
       "num": 344285,
       "word": "直播间珠宝鉴定证书办一张5元",
@@ -11483,6 +11611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31499,
+      "num": 172454,
+      "word": "郑钦文当选年度ACE女王",
+      "onboard_time": 1733899639,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31272,
       "num": 301676,
       "word": "转发艺起赢福利",
@@ -11505,6 +11641,14 @@
       "onboard_time": 1733606172,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30947,
+      "num": 275861,
+      "word": "你最近在追哪些热播剧",
+      "onboard_time": 1733901378,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 30740,
@@ -11561,6 +11705,14 @@
       "onboard_time": 1733662340,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29526,
+      "num": 291242,
+      "word": "黄子佼判决书公开",
+      "onboard_time": 1733900959,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 29479,
@@ -12107,6 +12259,14 @@
       "category": "情感,读书作家"
     },
     {
+      "raw_hot": 16596,
+      "num": 249389,
+      "word": "李雯雯金牌背后的300个不眠夜",
+      "onboard_time": 1733901020,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16499,
       "num": 46186,
       "word": "业内称蔡国强烟花表演赞助百万起",
@@ -12145,6 +12305,14 @@
       "onboard_time": 1733751440,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16243,
+      "num": 127367,
+      "word": "苏翊鸣当了阿迪达斯的甲方",
+      "onboard_time": 1733898799,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 16182,
@@ -12347,14 +12515,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 13118,
-      "num": 126914,
-      "word": "郑钦文当选年度ACE女王",
-      "onboard_time": 1733899639,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13033,
       "num": 253524,
       "word": "All black穿出职场精英风",
@@ -12432,14 +12592,6 @@
       "word": "国乒在成都与市民切磋球技",
       "onboard_time": 1733786235,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 11055,
-      "num": 127367,
-      "word": "苏翊鸣当了阿迪达斯的甲方",
-      "onboard_time": 1733898799,
-      "rank": 49,
       "category": "体育"
     },
     {
