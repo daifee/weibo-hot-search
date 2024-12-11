@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733902684304,
+  "endTime": 1733905918024,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -11,11 +11,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 9019327,
+      "num": 260720,
+      "word": "深圳一住宅楼突发爆炸",
+      "onboard_time": 1733901500,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 7060366,
       "num": 329940,
       "word": "深圳湾爆炸",
       "onboard_time": 1733901500,
       "rank": 10,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 6070476,
+      "num": 6070476,
+      "word": "深圳消防通报一住宅楼发生爆炸",
+      "onboard_time": 1733904562,
+      "rank": 0,
       "category": "突发/灾害"
     },
     {
@@ -635,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1089057,
+      "num": 257423,
+      "word": "深圳住宅楼爆炸事故目击者发声",
+      "onboard_time": 1733903782,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1087137,
       "num": 1087137,
       "word": "陈晓杭州出发",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1733645478,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 795620,
+      "num": 795620,
+      "word": "何炅 不要为节目效果做不想做的事",
+      "onboard_time": 1733903303,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 792615,
@@ -3291,6 +3323,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 329967,
+      "num": 442017,
+      "word": "这次能让果郡王知道双生子身份吗",
+      "onboard_time": 1733903544,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328020,
       "num": 328020,
       "word": "谢可寅想和虞书欣周也合租",
@@ -3529,6 +3569,14 @@
       "onboard_time": 1733801179,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 305296,
+      "num": 305296,
+      "word": "武契奇称不会像阿萨德那样逃走",
+      "onboard_time": 1733900839,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304060,
@@ -3819,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279369,
+      "num": 279369,
+      "word": "内娱拍素人合租综艺了",
+      "onboard_time": 1733903303,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277299,
       "num": 277299,
       "word": "广州动物园回应一条鳄鱼瘦得皮包骨",
@@ -3857,6 +3913,14 @@
       "onboard_time": 1733735483,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270146,
+      "num": 270146,
+      "word": "工藤新一30年唯一真身剧场版",
+      "onboard_time": 1733904683,
+      "rank": 10,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 269801,
@@ -3969,6 +4033,14 @@
       "onboard_time": 1733727437,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261259,
+      "num": 261259,
+      "word": "深圳住宅楼爆炸80名消防员到场",
+      "onboard_time": 1733905041,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261225,
@@ -4104,6 +4176,14 @@
       "word": "孙卓回家3年变回小时候胖胖的样子",
       "onboard_time": 1733651359,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252801,
+      "num": 252801,
+      "word": "花花给自己涂上了保护色",
+      "onboard_time": 1733903362,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -4273,6 +4353,22 @@
       "onboard_time": 1733625917,
       "rank": 12,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 244683,
+      "num": 254733,
+      "word": "猎罪图鉴2直播",
+      "onboard_time": 1733904442,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243622,
+      "num": 243622,
+      "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
+      "onboard_time": 1733899218,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243524,
@@ -4531,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232812,
+      "num": 232812,
+      "word": "女子网购羽绒服仅退款称没偷没抢",
+      "onboard_time": 1733905220,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232771,
       "num": 383581,
       "word": "莎头出战混团决赛",
@@ -4715,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222802,
+      "num": 222802,
+      "word": "中医建议气血不足的人多唱歌",
+      "onboard_time": 1733903060,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222552,
       "num": 222552,
       "word": "金高银中文无障碍沟通",
@@ -4737,6 +4849,14 @@
       "onboard_time": 1733661260,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221252,
+      "num": 326402,
+      "word": "养老院欠费数十位老人遭断水断电",
+      "onboard_time": 1733900660,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 221068,
@@ -4817,14 +4937,6 @@
       "onboard_time": 1733646860,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215050,
-      "num": 215050,
-      "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
-      "onboard_time": 1733899218,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 214505,
@@ -4960,6 +5072,14 @@
       "word": "昭昭墨墨终有一抱",
       "onboard_time": 1733841142,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207629,
+      "num": 232057,
+      "word": "谁家电视剧把观众写片尾里啊",
+      "onboard_time": 1733904620,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -5435,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195418,
+      "num": 162935,
+      "word": "朴灿烈入驻抖音",
+      "onboard_time": 1733902941,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195028,
       "num": 111120,
       "word": "尖叫之夜现场灯牌",
@@ -5609,14 +5737,6 @@
       "onboard_time": 1733714480,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192587,
-      "num": 288614,
-      "word": "武契奇称不会像阿萨德那样逃走",
-      "onboard_time": 1733900839,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192404,
@@ -5808,6 +5928,14 @@
       "word": "女子湖边打卡遭无人机撞脸",
       "onboard_time": 1733676316,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189100,
+      "num": 189100,
+      "word": "12306要求第三方平台中止春运营销炒作",
+      "onboard_time": 1733904383,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -6307,6 +6435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175797,
+      "num": 175797,
+      "word": "刘雨辰回应被指配不上黄雅琼",
+      "onboard_time": 1733904202,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "池忆",
@@ -6587,6 +6723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169686,
+      "num": 169686,
+      "word": "台湾女演员俞小凡送琼瑶最后一程",
+      "onboard_time": 1733905401,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169563,
       "num": 169563,
       "word": "晓华回应帮向佐一根根理发",
@@ -6736,6 +6880,14 @@
       "word": "男子借850万高利贷被执行2400万",
       "onboard_time": 1733732300,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165656,
+      "num": 165656,
+      "word": "深圳一住宅楼爆炸春笋震感明显",
+      "onboard_time": 1733905880,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -6889,6 +7041,14 @@
       "onboard_time": 1733614335,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 162374,
+      "num": 162374,
+      "word": "朴彩英怕失业到长带状疱疹",
+      "onboard_time": 1733905820,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 162263,
@@ -7081,6 +7241,14 @@
       "onboard_time": 1733651359,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158258,
+      "num": 158258,
+      "word": "猎罪图鉴2 剧情",
+      "onboard_time": 1733900298,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 158044,
@@ -7323,14 +7491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 152887,
-      "num": 326402,
-      "word": "养老院欠费数十位老人遭断水断电",
-      "onboard_time": 1733900660,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 152677,
       "num": 152677,
       "word": "当俄罗斯人看到俄罗斯商品馆",
@@ -7417,6 +7577,14 @@
       "onboard_time": 1733751258,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150291,
+      "num": 210811,
+      "word": "周黑鸭创始人称可能会留疤",
+      "onboard_time": 1733900000,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150015,
@@ -7705,6 +7873,14 @@
       "onboard_time": 1733850256,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143059,
+      "num": 258798,
+      "word": "江苏卫视跨年新阵容群聊记录",
+      "onboard_time": 1733904981,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 142752,
@@ -8955,6 +9131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109358,
+      "num": 258346,
+      "word": "韩国偶遇太阳闵孝琳一家三口",
+      "onboard_time": 1733904741,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109104,
       "num": 109104,
       "word": "TES官宣Ggoong加入",
@@ -9089,6 +9273,14 @@
       "onboard_time": 1733794938,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 105347,
+      "num": 252983,
+      "word": "2024LPL全明星节目单",
+      "onboard_time": 1733904921,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 104688,
@@ -9249,6 +9441,14 @@
       "onboard_time": 1733748438,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100668,
+      "num": 259900,
+      "word": "官方介入调查深圳湾爆炸事件",
+      "onboard_time": 1733905161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100338,
@@ -9483,14 +9683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92497,
-      "num": 210811,
-      "word": "周黑鸭创始人称可能会留疤",
-      "onboard_time": 1733900000,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92475,
       "num": 335585,
       "word": "商家称顾客表演完后将演出服退了",
@@ -9513,6 +9705,14 @@
       "onboard_time": 1733759718,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 91700,
+      "num": 256175,
+      "word": "少数私人陪游藏有偿擦边服务",
+      "onboard_time": 1733905281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91613,
@@ -10201,6 +10401,14 @@
       "onboard_time": 1733735961,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68870,
+      "num": 260419,
+      "word": "深圳一住宅疑似煤气泄漏引起爆炸",
+      "onboard_time": 1733905460,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 68621,
@@ -11451,6 +11659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34306,
+      "num": 1013256,
+      "word": "国际金融界看好中国持续对外开放政策",
+      "onboard_time": 1733890762,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 34042,
       "num": 34042,
       "word": "虞书欣专辑预告",
@@ -11728,14 +11944,6 @@
       "word": "英伟达或面临最高50亿美金罚款",
       "onboard_time": 1733815880,
       "rank": 13,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 29699,
-      "num": 1013256,
-      "word": "国际金融界看好中国持续对外开放政策",
-      "onboard_time": 1733890762,
-      "rank": 2,
       "category": "财经"
     },
     {
@@ -12131,6 +12339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20497,
+      "num": 257228,
+      "word": "换花呗三星堆皮肤去班味",
+      "onboard_time": 1733904263,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20383,
       "num": 278275,
       "word": "捡了东西的狼 出门写生",
@@ -12249,6 +12465,14 @@
       "onboard_time": 1733689511,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17281,
+      "num": 166555,
+      "word": "琼瑶告别式上放了当",
+      "onboard_time": 1733905340,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 17244,

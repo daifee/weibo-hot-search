@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1733902684304,
+  "endTime": 1733905918024,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1947,6 +1947,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 9019327,
+      "num": 260720,
+      "word": "深圳一住宅楼突发爆炸",
+      "onboard_time": 1733901500,
+      "rank": 12,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 9003287,
       "num": 9003287,
       "word": "庆余年 剧王",
@@ -2392,14 +2400,6 @@
       "word": "野孩子 撤档",
       "onboard_time": 1720013238,
       "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 8062954,
-      "num": 8062954,
-      "word": "现在的贾玲",
-      "onboard_time": 1707527318,
-      "rank": 17,
       "category": "电影"
     }
   ],

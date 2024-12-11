@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/11 15:38:04
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/11 16:31:58
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8%23" target="weibo">
+深圳一住宅楼突发爆炸（热度：9019327）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%20%E5%89%A7%E7%8E%8B%23" target="weibo">
 庆余年 剧王（热度：9003287）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E5%AD%A9%E5%AD%90%20%E6%92%A4%E6%A1%A3%23" target="weibo">
 野孩子 撤档（热度：8083529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E8%B4%BE%E7%8E%B2%23" target="weibo">
-现在的贾玲（热度：8062954）
 </a>
 </li>
 
