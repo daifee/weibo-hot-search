@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733892248638,
+  "endTime": 1733894628541,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1491,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1252543,
+      "num": 1252543,
+      "word": "澳大利亚一实验室323瓶活病毒下落不明",
+      "onboard_time": 1733889560,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1252349,
       "num": 736324,
       "word": "女硕士走失13年收留者家属发声",
@@ -1643,14 +1651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1201781,
-      "num": 1201781,
-      "word": "澳大利亚一实验室323瓶活病毒下落不明",
-      "onboard_time": 1733889560,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 1199058,
       "num": 1199058,
       "word": "男子发现女儿非亲生儿子是杜撰的",
@@ -1760,6 +1760,14 @@
       "word": "女子听到朋友患肠癌一查自己也有",
       "onboard_time": 1733386399,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1138315,
+      "num": 409805,
+      "word": "女子与现役军人配偶同居生子获刑",
+      "onboard_time": 1733893522,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5107,6 +5115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 565773,
+      "num": 565773,
+      "word": "两老人在河边放生大米",
+      "onboard_time": 1733887581,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565194,
       "num": 565194,
       "word": "金高银来杭州了",
@@ -5369,6 +5385,14 @@
       "onboard_time": 1733748499,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 548010,
+      "num": 548010,
+      "word": "淘宝回应网友12块捡漏宝马车",
+      "onboard_time": 1733893042,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 547876,
@@ -8059,6 +8083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397648,
+      "num": 397648,
+      "word": "王楚钦首登男单年终世一",
+      "onboard_time": 1733892562,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397510,
       "num": 410691,
       "word": "非遗版春节壁纸",
@@ -9065,6 +9097,14 @@
       "onboard_time": 1733582545,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350308,
+      "num": 438524,
+      "word": "李昀锐 紫啧们不要e墨了",
+      "onboard_time": 1733890943,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 350022,
@@ -10395,6 +10435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298565,
+      "num": 298565,
+      "word": "虹膜写真尽量别公开展示",
+      "onboard_time": 1733893339,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298041,
       "num": 298041,
       "word": "田曦薇黑长直的神",
@@ -11025,6 +11073,14 @@
       "onboard_time": 1733494100,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278248,
+      "num": 278248,
+      "word": "被外籍留学生猥亵的女子发声",
+      "onboard_time": 1733892202,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 278204,
@@ -12019,14 +12075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 249074,
-      "num": 394829,
-      "word": "两老人在河边放生大米",
-      "onboard_time": 1733887581,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249057,
       "num": 263988,
       "word": "TFBOYS转发易烊千玺电影",
@@ -12563,14 +12611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238342,
-      "num": 356851,
-      "word": "李昀锐 紫啧们不要e墨了",
-      "onboard_time": 1733890943,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238297,
       "num": 1128989,
       "word": "中国春节走向世界宣传片",
@@ -12913,6 +12953,14 @@
       "onboard_time": 1733063241,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232327,
+      "num": 232327,
+      "word": "任敏海边鱼尾裙",
+      "onboard_time": 1733892742,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 231721,
@@ -13297,6 +13345,14 @@
       "onboard_time": 1733231901,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225612,
+      "num": 225612,
+      "word": "肖战黑胶销量",
+      "onboard_time": 1733894180,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 225498,
@@ -13753,6 +13809,14 @@
       "onboard_time": 1733135958,
       "rank": 33,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 217877,
+      "num": 217877,
+      "word": "王者首次传说皮肤投票",
+      "onboard_time": 1733892922,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 217640,
@@ -14753,6 +14817,14 @@
       "onboard_time": 1733641459,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203719,
+      "num": 203719,
+      "word": "大侦探",
+      "onboard_time": 1733714839,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 203708,
@@ -16035,6 +16107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193450,
+      "num": 193450,
+      "word": "猎罪图鉴2破纪录",
+      "onboard_time": 1733894121,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193449,
       "num": 193449,
       "word": "文韬 高级谈判专家",
@@ -16129,14 +16209,6 @@
       "onboard_time": 1733062820,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192577,
-      "num": 192577,
-      "word": "大侦探",
-      "onboard_time": 1733714839,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 192563,
@@ -16240,6 +16312,14 @@
       "word": "迪丽热巴冬日氛围十二月行程",
       "onboard_time": 1733023039,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191896,
+      "num": 335511,
+      "word": "金玟庭新增关注",
+      "onboard_time": 1733891243,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -17723,19 +17803,19 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 179800,
-      "num": 335511,
-      "word": "金玟庭新增关注",
-      "onboard_time": 1733891243,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179786,
       "num": 179786,
       "word": "你吃的夫妻肺片大肠杆菌或超标",
       "onboard_time": 1733544379,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179747,
+      "num": 381388,
+      "word": "女子明知军婚仍破坏获刑1年半",
+      "onboard_time": 1733894180,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -18875,6 +18955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168841,
+      "num": 168841,
+      "word": "汪苏泷广州抢票",
+      "onboard_time": 1733893941,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168813,
       "num": 168813,
       "word": "国家明确不得传播暴饮暴食直播",
@@ -19113,14 +19201,6 @@
       "onboard_time": 1733298216,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166734,
-      "num": 166734,
-      "word": "被外籍留学生猥亵的女子发声",
-      "onboard_time": 1733892202,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 166701,
@@ -19609,6 +19689,14 @@
       "onboard_time": 1733400259,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "在酒店偷拍卖视频被判10年",
+      "onboard_time": 1733893581,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 162630,
@@ -23217,6 +23305,14 @@
       "onboard_time": 1733557640,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134965,
+      "num": 240654,
+      "word": "北上预告暖暖的",
+      "onboard_time": 1733893882,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 134955,
@@ -27019,6 +27115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98299,
+      "num": 371056,
+      "word": "十个勤天微博之夜推荐值破50万",
+      "onboard_time": 1733892501,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98251,
       "num": 251874,
       "word": "EDG新赛季阵容公布",
@@ -28523,6 +28627,14 @@
       "category": "财经,国内时政"
     },
     {
+      "raw_hot": 80475,
+      "num": 234262,
+      "word": "朱星杰说周彦辰是天生唱跳圣体",
+      "onboard_time": 1733893640,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80457,
       "num": 677442,
       "word": "揭秘刘阳老师曾任职的斯尔教育",
@@ -29233,6 +29345,14 @@
       "onboard_time": 1733137819,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71959,
+      "num": 283568,
+      "word": "祝绪丹永夜星河团综vlog",
+      "onboard_time": 1733894419,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 71818,
@@ -30105,6 +30225,14 @@
       "onboard_time": 1733180894,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62045,
+      "num": 394500,
+      "word": "韩国执政党5名议员支持弹劾尹锡悦",
+      "onboard_time": 1733894000,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62017,
@@ -32299,6 +32427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44621,
+      "num": 353701,
+      "word": "张局都习惯杜城不敲门了",
+      "onboard_time": 1733894481,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44584,
       "num": 62564,
       "word": "猎罪图鉴2 猫猫狗狗",
@@ -34003,6 +34139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32353,
+      "num": 376724,
+      "word": "真实刑警故事比电视剧更惊心动魄",
+      "onboard_time": 1733893522,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32283,
       "num": 60038,
       "word": "4个动作改善驼背",
@@ -34651,6 +34795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 27847,
+      "num": 365100,
+      "word": "原来姚安娜合作了这么多国货",
+      "onboard_time": 1733892261,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27746,
       "num": 334314,
       "word": "长安航空回应飞机上惊现老鼠",
@@ -35033,6 +35185,14 @@
       "onboard_time": 1733856192,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25827,
+      "num": 279960,
+      "word": "百年国货的年轻局",
+      "onboard_time": 1733893403,
+      "rank": 28,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 25560,
@@ -35747,6 +35907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21076,
+      "num": 392297,
+      "word": "几十元定制的珠宝鉴定书注了多少水",
+      "onboard_time": 1733894360,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21063,
       "num": 30450,
       "word": "特鲁多吐槽美加征关税",
@@ -35825,6 +35993,14 @@
       "onboard_time": 1733453179,
       "rank": 24,
       "category": "其它,旅游"
+    },
+    {
+      "raw_hot": 20383,
+      "num": 278275,
+      "word": "捡了东西的狼 出门写生",
+      "onboard_time": 1733893522,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 20367,
