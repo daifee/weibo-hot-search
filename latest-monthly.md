@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/11 23:26:32
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/11 23:41:28
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ Angelababy染发了（热度：1531034）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%86%9C%E7%83%A7%E7%82%AD%E5%8F%96%E6%9A%96%E5%8E%BB%E4%B8%96%E5%87%A0%E6%A0%B9%E6%89%8B%E6%8C%87%E7%83%A7%E6%B2%A1%E4%BA%86%23" target="weibo">
+老农烧炭取暖去世几根手指烧没了（热度：1515581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%88%A0%E9%99%A4%E4%BA%86%E5%AF%B9%E7%90%BC%E7%91%B6%E7%9A%84%E9%81%93%E6%AD%89%E5%87%BD%23" target="weibo">
 于正删除了对琼瑶的道歉函（热度：1511610）
 </a>
@@ -893,12 +899,6 @@ Angelababy染发了（热度：1531034）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98%23" target="weibo">
 刘诗诗尖叫女演员（热度：1430286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%86%9C%E7%83%A7%E7%82%AD%E5%8F%96%E6%9A%96%E5%8E%BB%E4%B8%96%E5%87%A0%E6%A0%B9%E6%89%8B%E6%8C%87%E7%83%A7%E6%B2%A1%E4%BA%86%23" target="weibo">
-老农烧炭取暖去世几根手指烧没了（热度：1427791）
 </a>
 </li>
 
