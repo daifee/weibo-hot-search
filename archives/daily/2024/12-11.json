@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733906762428,
+  "endTime": 1733909176484,
   "band_list": [
     {
       "raw_hot": 11695394,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 983940,
+      "num": 983940,
+      "word": "深圳住宅楼爆炸80名消防员到场",
+      "onboard_time": 1733905041,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 938693,
       "num": 327995,
       "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
@@ -144,6 +152,14 @@
       "word": "徐艺洋直播带货",
       "onboard_time": 1733840782,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 879522,
+      "num": 879522,
+      "word": "朴彩英怕失业到长带状疱疹",
+      "onboard_time": 1733905820,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -195,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 689953,
+      "num": 689953,
+      "word": "女子网购羽绒服仅退款称没偷没抢",
+      "onboard_time": 1733905220,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 680471,
       "num": 680471,
       "word": "肖战专辑开售",
@@ -219,19 +243,19 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 627885,
-      "num": 627885,
-      "word": "深圳住宅楼爆炸80名消防员到场",
-      "onboard_time": 1733905041,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 622544,
       "num": 622544,
       "word": "李昀锐大学女友",
       "onboard_time": 1733837900,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613846,
+      "num": 613846,
+      "word": "徐艺洋回应直播带货",
+      "onboard_time": 1733908401,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -249,6 +273,14 @@
       "onboard_time": 1733895979,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 590579,
+      "num": 590579,
+      "word": "深圳突发爆炸小区房价18万一平",
+      "onboard_time": 1733907441,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 572106,
@@ -323,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516122,
-      "num": 293410,
-      "word": "朴彩英怕失业到长带状疱疹",
-      "onboard_time": 1733905820,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 511382,
       "num": 511382,
       "word": "韩前防长金龙显企图在狱中自杀",
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428310,
-      "num": 428310,
-      "word": "女子网购羽绒服仅退款称没偷没抢",
-      "onboard_time": 1733905220,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 426440,
       "num": 426440,
       "word": "挤走3.5元泡面档口超市被要求整改",
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 395067,
+      "num": 395067,
+      "word": "甘薇回应还债12亿",
+      "onboard_time": 1733906723,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389911,
       "num": 438524,
       "word": "李昀锐 紫啧们不要e墨了",
@@ -465,6 +489,14 @@
       "onboard_time": 1733878760,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 381400,
+      "num": 381400,
+      "word": "何炅 谁跟我抢赛道呢",
+      "onboard_time": 1733907383,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 380007,
@@ -563,6 +595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 318961,
+      "num": 318961,
+      "word": "百年孤独开播",
+      "onboard_time": 1733906963,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305296,
       "num": 305296,
       "word": "武契奇称不会像阿萨德那样逃走",
@@ -619,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286508,
+      "num": 258346,
+      "word": "韩国偶遇太阳闵孝琳一家三口",
+      "onboard_time": 1733904741,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285472,
       "num": 285472,
       "word": "赵丽颖始终是那个赵丽颖",
@@ -633,6 +681,14 @@
       "onboard_time": 1733844501,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282028,
+      "num": 293607,
+      "word": "官方介入调查深圳湾爆炸事件",
+      "onboard_time": 1733905161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280889,
@@ -673,14 +729,6 @@
       "onboard_time": 1733885239,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 257629,
-      "num": 258346,
-      "word": "韩国偶遇太阳闵孝琳一家三口",
-      "onboard_time": 1733904741,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 253743,
@@ -769,6 +817,14 @@
       "onboard_time": 1733887640,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229901,
+      "num": 229901,
+      "word": "徐艺洋卖水晶被网友吐槽贵",
+      "onboard_time": 1733908821,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 228725,
@@ -947,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195784,
-      "num": 293607,
-      "word": "官方介入调查深圳湾爆炸事件",
-      "onboard_time": 1733905161,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195624,
       "num": 195624,
       "word": "鞠婧祎陈都灵月鳞绮纪路透",
@@ -979,12 +1027,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194486,
+      "num": 194486,
+      "word": "原来九重紫删评是这个扇",
+      "onboard_time": 1733908731,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194363,
       "num": 194363,
       "word": "水利局回应老人在河边放生大米",
       "onboard_time": 1733883439,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193721,
+      "num": 402502,
+      "word": "铁路12306辟谣春运提前90天预约抢票",
+      "onboard_time": 1733907980,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 193450,
@@ -1121,6 +1185,14 @@
       "onboard_time": 1733879120,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176200,
+      "num": 176200,
+      "word": "量子芯片突破致比特币暴跌23万人爆仓",
+      "onboard_time": 1733908941,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 176033,
@@ -1515,6 +1587,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 136394,
+      "num": 136394,
+      "word": "极越",
+      "onboard_time": 1733907081,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136295,
       "num": 136295,
       "word": "领导点赞加班朋友圈员工获赔加班费",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1733837241,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130925,
+      "num": 133911,
+      "word": "朴彩英自曝患过抑郁症",
+      "onboard_time": 1733906902,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 128930,
@@ -1659,6 +1747,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 121566,
+      "num": 308344,
+      "word": "张若昀花少记忆callback",
+      "onboard_time": 1733907441,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120972,
       "num": 120972,
       "word": "代号鸢",
@@ -1707,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114510,
+      "num": 262968,
+      "word": "九重紫 宋墨有自己的嫡掌闺",
+      "onboard_time": 1733905942,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114257,
       "num": 114257,
       "word": "赵雅芝 71岁饭撒的神",
@@ -1721,14 +1825,6 @@
       "onboard_time": 1733843959,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111967,
-      "num": 262968,
-      "word": "九重紫 宋墨有自己的嫡掌闺",
-      "onboard_time": 1733905942,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 111601,
@@ -1971,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79763,
+      "num": 215782,
+      "word": "美国向叙反对派开条件",
+      "onboard_time": 1733907203,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77522,
       "num": 239263,
       "word": "嫌疑人去派出所开无犯罪证明被秒抓",
@@ -1992,6 +2096,22 @@
       "word": "女子租村屋车停院子让交过路费",
       "onboard_time": 1733896999,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73813,
+      "num": 289629,
+      "word": "琼瑶告别式上放了当",
+      "onboard_time": 1733905340,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72187,
+      "num": 316648,
+      "word": "女子远嫁日本失联父母曾支援7万元",
+      "onboard_time": 1733907740,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2025,6 +2145,22 @@
       "onboard_time": 1733832979,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69438,
+      "num": 302188,
+      "word": "王源对长大后就会走散的理解",
+      "onboard_time": 1733908462,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 67014,
+      "num": 248060,
+      "word": "赵子豪打球逗笑樊振东",
+      "onboard_time": 1733908581,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 66202,
@@ -2083,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55378,
+      "num": 292082,
+      "word": "琼瑶花葬不立碑不烧香",
+      "onboard_time": 1733908041,
+      "rank": 18,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 54070,
       "num": 384661,
       "word": "欧阳妮妮孕肚大片",
@@ -2097,6 +2241,14 @@
       "onboard_time": 1733889861,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 51414,
+      "num": 247596,
+      "word": "父亲长期家暴致儿子患上恐惧症",
+      "onboard_time": 1733908220,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50860,
@@ -2243,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36200,
+      "num": 132281,
+      "word": "不是只有打人才算家暴",
+      "onboard_time": 1733907740,
+      "rank": 49,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 36044,
       "num": 57218,
       "word": "考研准考证",
@@ -2339,28 +2499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32074,
-      "num": 255621,
-      "word": "琼瑶告别式上放了当",
-      "onboard_time": 1733905340,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32056,
       "num": 326314,
       "word": "领克Z20快不止一点",
       "onboard_time": 1733886381,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 31533,
-      "num": 227106,
-      "word": "甘薇回应还债12亿",
-      "onboard_time": 1733906723,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 31499,
@@ -2377,6 +2521,22 @@
       "onboard_time": 1733901378,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30894,
+      "num": 247401,
+      "word": "受害人平均被家暴35次才报警",
+      "onboard_time": 1733908881,
+      "rank": 28,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 28746,
+      "num": 907395,
+      "word": "财政金融加力促经济回稳",
+      "onboard_time": 1733907740,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28619,
@@ -2443,6 +2603,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 23645,
+      "num": 221452,
+      "word": "42岁coser博主抗癌成功",
+      "onboard_time": 1733909062,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 23286,
       "num": 26864,
       "word": "鞠婧祎月鳞绮纪最新路透",
@@ -2465,6 +2633,14 @@
       "onboard_time": 1733888541,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21686,
+      "num": 315619,
+      "word": "黄牛倒卖消费券或构成非法经营罪",
+      "onboard_time": 1733908760,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21384,
@@ -2561,6 +2737,14 @@
       "onboard_time": 1733898799,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16144,
+      "num": 168962,
+      "word": "超绝新中式礼服look",
+      "onboard_time": 1733908220,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 15771,
@@ -2692,6 +2876,9 @@
     },
     {
       "word": "#总书记引领中国经济航船破浪前行#"
+    },
+    {
+      "word": "#中国将持续扩大对外开放#"
     }
   ]
 }
