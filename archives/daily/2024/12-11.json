@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733928175053,
+  "endTime": 1733930792800,
   "band_list": [
     {
       "raw_hot": 11695394,
@@ -100,10 +100,18 @@
     },
     {
       "raw_hot": 1435935,
-      "num": 319407,
+      "num": 350241,
       "word": "疑似超市老板称儿子清华读研不作解释",
       "onboard_time": 1733923039,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1427791,
+      "num": 1427791,
+      "word": "老农烧炭取暖去世几根手指烧没了",
+      "onboard_time": 1733928620,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1419219,
-      "num": 317180,
+      "num": 351030,
       "word": "梁祯元 抽烟",
       "onboard_time": 1733925380,
       "rank": 12,
@@ -243,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816119,
+      "num": 816119,
+      "word": "自称被杭州警察骚扰当事人道歉",
+      "onboard_time": 1733926879,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 812993,
+      "num": 812993,
+      "word": "深圳住宅楼爆炸事故原因正进一步调查",
+      "onboard_time": 1733922139,
+      "rank": 23,
+      "category": "辟谣/通报,国内时政"
+    },
+    {
       "raw_hot": 788681,
       "num": 312876,
       "word": "怀孕三个月女子遭家暴被踢孕肚",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 775406,
-      "num": 303886,
+      "num": 346789,
       "word": "代号鸢删女性向标签",
       "onboard_time": 1733920999,
       "rank": 32,
@@ -275,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 745766,
-      "num": 745766,
-      "word": "深圳住宅楼爆炸事故原因正进一步调查",
-      "onboard_time": 1733922139,
-      "rank": 23,
-      "category": "辟谣/通报,国内时政"
-    },
-    {
       "raw_hot": 743243,
       "num": 743243,
       "word": "猎罪图鉴尺度",
@@ -299,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 712499,
+      "num": 712499,
+      "word": "秦海璐爱的太明显",
+      "onboard_time": 1733924598,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689953,
       "num": 689953,
       "word": "女子网购羽绒服仅退款称没偷没抢",
@@ -313,14 +337,6 @@
       "onboard_time": 1733883859,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 655346,
-      "num": 655346,
-      "word": "秦海璐爱的太明显",
-      "onboard_time": 1733924598,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 647823,
@@ -731,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336520,
+      "num": 336520,
+      "word": "红包剧宣",
+      "onboard_time": 1733927060,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333371,
       "num": 333371,
       "word": "恋与深空",
@@ -825,6 +849,14 @@
       "onboard_time": 1733911640,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 323660,
+      "num": 323660,
+      "word": "李昀锐 叫哥",
+      "onboard_time": 1733927959,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 318961,
@@ -987,22 +1019,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 270734,
-      "num": 270734,
-      "word": "自称被杭州警察骚扰当事人道歉",
-      "onboard_time": 1733926879,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268870,
-      "num": 268870,
-      "word": "红包剧宣",
-      "onboard_time": 1733927060,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267165,
       "num": 366516,
       "word": "肖战黑胶销量",
@@ -1145,14 +1161,6 @@
       "onboard_time": 1733874799,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 237905,
-      "num": 269622,
-      "word": "李昀锐 叫哥",
-      "onboard_time": 1733927959,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 237566,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1733910740,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 215535,
+      "num": 225398,
+      "word": "日本丈夫回应失联女子现状",
+      "onboard_time": 1733924540,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215375,
@@ -1491,14 +1507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192945,
-      "num": 192945,
-      "word": "日本丈夫回应失联女子现状",
-      "onboard_time": 1733924540,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192484,
       "num": 244077,
       "word": "台湾女演员俞小凡送琼瑶最后一程",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1733899819,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189405,
+      "num": 189405,
+      "word": "肖战专辑我们筹备了3年",
+      "onboard_time": 1733929759,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 189100,
@@ -1923,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161848,
+      "num": 161848,
+      "word": "宋墨向窦昭求婚",
+      "onboard_time": 1733929759,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160941,
       "num": 160941,
       "word": "朱开说对Daeny没好感",
@@ -2091,6 +2115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151070,
+      "num": 151070,
+      "word": "巴厘岛著名景区大树倒塌致2女子身亡",
+      "onboard_time": 1733930419,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150291,
       "num": 210811,
       "word": "周黑鸭创始人称可能会留疤",
@@ -2139,12 +2171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144940,
+      "num": 144940,
+      "word": "打伞上班被辞退上诉3次索赔33万",
+      "onboard_time": 1733929700,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144837,
       "num": 220409,
       "word": "国内瓷器已经进化到这个地步了",
       "onboard_time": 1733895140,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144809,
+      "num": 144809,
+      "word": "目击者称住宅楼爆炸后有人和狗坠落",
+      "onboard_time": 1733927659,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 143079,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1733896399,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132805,
-      "num": 132805,
-      "word": "目击者称住宅楼爆炸后有人和狗坠落",
-      "onboard_time": 1733927659,
-      "rank": 45,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 132579,
@@ -2651,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112358,
+      "num": 354763,
+      "word": "叙利亚大马士革解除宵禁",
+      "onboard_time": 1733930659,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111814,
       "num": 111814,
       "word": "蔡依林新专辑明年春天见",
@@ -2745,6 +2793,14 @@
       "onboard_time": 1733880500,
       "rank": 48,
       "category": "军事"
+    },
+    {
+      "raw_hot": 103109,
+      "num": 224937,
+      "word": "朴彩英的事业心",
+      "onboard_time": 1733927720,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 102839,
@@ -2883,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93426,
+      "num": 340762,
+      "word": "中国女子远嫁日本已失联16个月",
+      "onboard_time": 1733930059,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91700,
       "num": 256224,
       "word": "少数私人陪游藏有偿擦边服务",
@@ -2932,7 +2996,7 @@
     },
     {
       "raw_hot": 85148,
-      "num": 678742,
+      "num": 867117,
       "word": "我的宝藏家乡",
       "onboard_time": 1733830338,
       "rank": 25,
@@ -3113,6 +3177,14 @@
       "onboard_time": 1733913499,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 62484,
+      "num": 225419,
+      "word": "茶餐厅用不同学历标价菜品",
+      "onboard_time": 1733929819,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61749,
@@ -3321,6 +3393,14 @@
       "onboard_time": 1733885899,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41641,
+      "num": 225041,
+      "word": "猎罪图鉴2盲童美术教育关怀计划",
+      "onboard_time": 1733929460,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 41567,
@@ -3675,12 +3755,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26373,
-      "num": 167897,
-      "word": "朴彩英的事业心",
-      "onboard_time": 1733927720,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 26200,
+      "num": 337916,
+      "word": "百雀羚品牌大使姚安娜",
+      "onboard_time": 1733929219,
+      "rank": 14,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 25840,
@@ -3705,6 +3785,14 @@
       "onboard_time": 1733867591,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23110,
+      "num": 147845,
+      "word": "姚安娜已代言多个国产品牌",
+      "onboard_time": 1733929219,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 22641,
@@ -3777,6 +3865,22 @@
       "onboard_time": 1733893522,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19888,
+      "num": 188683,
+      "word": "徐嘉余分享冬训日常",
+      "onboard_time": 1733929160,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19713,
+      "num": 188743,
+      "word": "马龙报告会演讲视频",
+      "onboard_time": 1733929759,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 19581,
@@ -3913,6 +4017,14 @@
       "onboard_time": 1733855113,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14840,
+      "num": 175874,
+      "word": "驾校教练因酷似听泉赏宝走红",
+      "onboard_time": 1733930600,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 14617,
