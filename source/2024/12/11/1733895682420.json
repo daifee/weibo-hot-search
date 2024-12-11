@@ -1,0 +1,410 @@
+{
+  "runTime": 1733895682420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160964,
+        "num": 1185754,
+        "word": "澳大利亚一实验室323瓶活病毒下落不明",
+        "onboard_time": 1733889560,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1016875,
+        "num": 1016875,
+        "word": "淘宝回应网友12块捡漏宝马车",
+        "onboard_time": 1733893042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21960,
+        "num": 728409,
+        "word": "国际金融界看好中国持续对外开放政策",
+        "onboard_time": 1733890762,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1378404,
+        "num": 725360,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655858,
+        "num": 655858,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534060,
+        "num": 534060,
+        "word": "虹膜写真尽量别公开展示",
+        "onboard_time": 1733893339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444377,
+        "num": 444377,
+        "word": "两老人在河边放生大米",
+        "onboard_time": 1733887581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389911,
+        "num": 389911,
+        "word": "李昀锐 紫啧们不要e墨了",
+        "onboard_time": 1733890943,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40308,
+        "num": 389760,
+        "word": "尹锡悦弹劾案预计14日再一次表决",
+        "onboard_time": 1733895561,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336519,
+        "num": 389577,
+        "word": "肖战实体专销量5分钟破5000万",
+        "onboard_time": 1733889799,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270169,
+        "num": 389187,
+        "word": "周海媚去世一周年",
+        "onboard_time": 1733895140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796179,
+        "num": 389027,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83462,
+        "num": 388628,
+        "word": "韩国执政党5名议员支持弹劾尹锡悦",
+        "onboard_time": 1733894000,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37419,
+        "num": 388506,
+        "word": "几十元定制的珠宝鉴定书注了多少水",
+        "onboard_time": 1733894360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403687,
+        "num": 388161,
+        "word": "被外籍留学生猥亵的女子发声",
+        "onboard_time": 1733892202,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 387987,
+        "word": "张局都习惯杜城不敲门了",
+        "onboard_time": 1733894481,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132147,
+        "num": 387579,
+        "word": "朱星杰说周彦辰是天生唱跳圣体",
+        "onboard_time": 1733893640,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387516,
+        "num": 387516,
+        "word": "女子明知军婚仍破坏获刑1年半",
+        "onboard_time": 1733894180,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310529,
+        "num": 310529,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33929,
+        "num": 310182,
+        "word": "原来姚安娜合作了这么多国货",
+        "onboard_time": 1733892261,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248531,
+        "num": 310145,
+        "word": "朱旺旺说工资没有大家想象中那么高",
+        "onboard_time": 1733877500,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1510553,
+        "num": 309523,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870576,
+        "num": 309348,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356273,
+        "num": 308926,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1733887640,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 308655,
+        "num": 308655,
+        "word": "王楚钦首登男单年终世一",
+        "onboard_time": 1733892562,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229667,
+        "num": 229667,
+        "word": "肖战黑胶销量",
+        "onboard_time": 1733894180,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227060,
+        "num": 227060,
+        "word": "如鸢",
+        "onboard_time": 1733894600,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221262,
+        "num": 221262,
+        "word": "沈阳网红局长刘克斌升任副市长",
+        "onboard_time": 1733888120,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144837,
+        "num": 220409,
+        "word": "国内瓷器已经进化到这个地步了",
+        "onboard_time": 1733895140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17435,
+        "num": 220059,
+        "word": "百年国货的年轻局",
+        "onboard_time": 1733893403,
+        "rank": 29,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 251853,
+        "num": 220044,
+        "word": "10年前卫生巾长度",
+        "onboard_time": 1733895321,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219804,
+        "num": 219804,
+        "word": "王者首次传说皮肤投票",
+        "onboard_time": 1733892922,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213781,
+        "num": 213781,
+        "word": "虞书欣能把祝绪丹钓成翘嘴",
+        "onboard_time": 1733887640,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218307,
+        "num": 210948,
+        "word": "任敏海边鱼尾裙",
+        "onboard_time": 1733892742,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205536,
+        "num": 205536,
+        "word": "大侦探",
+        "onboard_time": 1733891842,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191909,
+        "num": 191909,
+        "word": "九重紫加更",
+        "onboard_time": 1733888720,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179252,
+        "num": 179252,
+        "word": "猎罪图鉴2破纪录",
+        "onboard_time": 1733894121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176121,
+        "num": 176121,
+        "word": "赵今麦刘浩存最新MiuMiu大片",
+        "onboard_time": 1733891422,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172884,
+        "num": 172884,
+        "word": "中国女游客斯里兰卡火车摆拍时坠落",
+        "onboard_time": 1733889861,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171958,
+        "num": 171958,
+        "word": "樊振东大满贯战绩高浓度点亮长沙",
+        "onboard_time": 1733895321,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169474,
+        "num": 169474,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166640,
+        "num": 166640,
+        "word": "于正回应给琼瑶道歉",
+        "onboard_time": 1733887700,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83587,
+        "num": 165324,
+        "word": "十个勤天微博之夜推荐值破50万",
+        "onboard_time": 1733892501,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165257,
+        "num": 165257,
+        "word": "金玟庭新增关注",
+        "onboard_time": 1733891243,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7980,
+        "num": 159875,
+        "word": "苏翊鸣在成都飞檐走壁",
+        "onboard_time": 1733895380,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "好友生日女子送50克金条遭背刺",
+        "onboard_time": 1733886080,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156061,
+        "num": 156061,
+        "word": "女儿在抢救爸爸急得忘了去医院的路",
+        "onboard_time": 1733882179,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 147031,
+        "num": 147031,
+        "word": "在酒店偷拍卖视频被判10年",
+        "onboard_time": 1733893581,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 146835,
+        "num": 146835,
+        "word": "台湾母女被诈骗千万后自杀",
+        "onboard_time": 1733874799,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 146743,
+        "num": 146743,
+        "word": "九重紫",
+        "onboard_time": 1733889742,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}

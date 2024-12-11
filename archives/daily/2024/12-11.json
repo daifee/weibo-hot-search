@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733894628541,
+  "endTime": 1733895682420,
   "band_list": [
     {
       "raw_hot": 3013127,
@@ -73,6 +73,14 @@
       "onboard_time": 1733877500,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1016875,
+      "num": 1016875,
+      "word": "淘宝回应网友12块捡漏宝马车",
+      "onboard_time": 1733893042,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 899232,
@@ -195,14 +203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548010,
-      "num": 548010,
-      "word": "淘宝回应网友12块捡漏宝马车",
-      "onboard_time": 1733893042,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 545503,
       "num": 545503,
       "word": "好友生日女子送50克金条遭背刺",
@@ -217,6 +217,14 @@
       "onboard_time": 1733887640,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 534060,
+      "num": 534060,
+      "word": "虹膜写真尽量别公开展示",
+      "onboard_time": 1733893339,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533429,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403687,
+      "num": 388161,
+      "word": "被外籍留学生猥亵的女子发声",
+      "onboard_time": 1733892202,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 397648,
       "num": 397648,
       "word": "王楚钦首登男单年终世一",
@@ -307,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389911,
+      "num": 438524,
+      "word": "李昀锐 紫啧们不要e墨了",
+      "onboard_time": 1733890943,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388899,
       "num": 320160,
       "word": "肖战实体黑胶达成殿堂史诗唱片认证",
       "onboard_time": 1733887581,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 387516,
+      "num": 387516,
+      "word": "女子明知军婚仍破坏获刑1年半",
+      "onboard_time": 1733894180,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384457,
@@ -353,14 +385,6 @@
       "onboard_time": 1733886259,
       "rank": 40,
       "category": "游戏,时尚"
-    },
-    {
-      "raw_hot": 350308,
-      "num": 438524,
-      "word": "李昀锐 紫啧们不要e墨了",
-      "onboard_time": 1733890943,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 336581,
@@ -419,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298565,
-      "num": 298565,
-      "word": "虹膜写真尽量别公开展示",
-      "onboard_time": 1733893339,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290663,
       "num": 290663,
       "word": "电影小小的我特此声明",
@@ -451,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278248,
-      "num": 278248,
-      "word": "被外籍留学生猥亵的女子发声",
-      "onboard_time": 1733892202,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 274776,
       "num": 243138,
       "word": "为什么现在单身的年轻人越来越多",
       "onboard_time": 1733878941,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 270169,
+      "num": 389187,
+      "word": "周海媚去世一周年",
+      "onboard_time": 1733895140,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 266086,
@@ -497,6 +513,14 @@
       "onboard_time": 1733832378,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251853,
+      "num": 220044,
+      "word": "10年前卫生巾长度",
+      "onboard_time": 1733895321,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 248735,
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229667,
+      "num": 229667,
+      "word": "肖战黑胶销量",
+      "onboard_time": 1733894180,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228725,
       "num": 157534,
       "word": "向佐 我怎么帅都没有我老婆美",
@@ -555,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225612,
-      "num": 225612,
-      "word": "肖战黑胶销量",
-      "onboard_time": 1733894180,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 227060,
+      "num": 227060,
+      "word": "如鸢",
+      "onboard_time": 1733894600,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 220963,
@@ -569,6 +601,14 @@
       "onboard_time": 1733880200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219804,
+      "num": 219804,
+      "word": "王者首次传说皮肤投票",
+      "onboard_time": 1733892922,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 219462,
@@ -585,14 +625,6 @@
       "onboard_time": 1733882720,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 217877,
-      "num": 217877,
-      "word": "王者首次传说皮肤投票",
-      "onboard_time": 1733892922,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 211517,
@@ -619,8 +651,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203719,
-      "num": 203719,
+      "raw_hot": 205536,
+      "num": 205536,
       "word": "大侦探",
       "onboard_time": 1733891842,
       "rank": 39,
@@ -747,14 +779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179747,
-      "num": 381388,
-      "word": "女子明知军婚仍破坏获刑1年半",
-      "onboard_time": 1733894180,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179034,
       "num": 173929,
       "word": "做完近视眼手术后的真实感受",
@@ -817,6 +841,14 @@
       "onboard_time": 1733891062,
       "rank": 39,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 171958,
+      "num": 171958,
+      "word": "樊振东大满贯战绩高浓度点亮长沙",
+      "onboard_time": 1733895321,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 170264,
@@ -891,14 +923,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 161582,
-      "num": 161582,
-      "word": "如鸢",
-      "onboard_time": 1733894600,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159916,
       "num": 159916,
       "word": "马嘉祺说因为你们开心他也会开心",
@@ -955,12 +979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146913,
+      "num": 387987,
+      "word": "张局都习惯杜城不敲门了",
+      "onboard_time": 1733894481,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146797,
       "num": 146797,
       "word": "这部动画每一帧都是宝藏",
       "onboard_time": 1733839642,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144837,
+      "num": 220409,
+      "word": "国内瓷器已经进化到这个地步了",
+      "onboard_time": 1733895140,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 143079,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1733893882,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132147,
+      "num": 387579,
+      "word": "朱星杰说周彦辰是天生唱跳圣体",
+      "onboard_time": 1733893640,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 131145,
@@ -1339,12 +1387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80475,
-      "num": 234262,
-      "word": "朱星杰说周彦辰是天生唱跳圣体",
-      "onboard_time": 1733893640,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 83462,
+      "num": 394500,
+      "word": "韩国执政党5名议员支持弹劾尹锡悦",
+      "onboard_time": 1733894000,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71959,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1733844980,
       "rank": 49,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 62045,
-      "num": 394500,
-      "word": "韩国执政党5名议员支持弹劾尹锡悦",
-      "onboard_time": 1733894000,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61749,
@@ -1483,14 +1523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 44621,
-      "num": 353701,
-      "word": "张局都习惯杜城不敲门了",
-      "onboard_time": 1733894481,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44584,
       "num": 62564,
       "word": "猎罪图鉴2 猫猫狗狗",
@@ -1547,6 +1579,14 @@
       "category": "正能量,财经"
     },
     {
+      "raw_hot": 40308,
+      "num": 389760,
+      "word": "尹锡悦弹劾案预计14日再一次表决",
+      "onboard_time": 1733895561,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39458,
       "num": 437448,
       "word": "车管所回应科目三考官与学员起冲突",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1733851035,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37419,
+      "num": 392297,
+      "word": "几十元定制的珠宝鉴定书注了多少水",
+      "onboard_time": 1733894360,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36044,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1733838442,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33929,
+      "num": 365100,
+      "word": "原来姚安娜合作了这么多国货",
+      "onboard_time": 1733892261,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 33598,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1733889861,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 27847,
-      "num": 365100,
-      "word": "原来姚安娜合作了这么多国货",
-      "onboard_time": 1733892261,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 27730,
@@ -1761,14 +1809,6 @@
       "onboard_time": 1733856431,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21076,
-      "num": 392297,
-      "word": "几十元定制的珠宝鉴定书注了多少水",
-      "onboard_time": 1733894360,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20383,
@@ -1913,6 +1953,14 @@
       "onboard_time": 1733839041,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7980,
+      "num": 159875,
+      "word": "苏翊鸣在成都飞檐走壁",
+      "onboard_time": 1733895380,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 7094,
