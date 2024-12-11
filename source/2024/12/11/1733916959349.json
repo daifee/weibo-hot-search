@@ -1,0 +1,410 @@
+{
+  "runTime": 1733916959349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6793367,
+        "num": 6793367,
+        "word": "深圳消防通报一住宅楼发生爆炸",
+        "onboard_time": 1733904562,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 822076,
+        "num": 822076,
+        "word": "深圳住宅爆炸事发瞬间画面曝光",
+        "onboard_time": 1733912720,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 31751,
+        "num": 658292,
+        "word": "财政金融加力促经济回稳",
+        "onboard_time": 1733907740,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555260,
+        "num": 555260,
+        "word": "女子网购羽绒服仅退款称没偷没抢",
+        "onboard_time": 1733905220,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362851,
+        "num": 362851,
+        "word": "李昀锐 二月红前来求药",
+        "onboard_time": 1733911581,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328143,
+        "num": 328143,
+        "word": "王曼昱好帅",
+        "onboard_time": 1733915780,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287332,
+        "num": 287332,
+        "word": "首批养老专业毕业生遭疯抢",
+        "onboard_time": 1733911640,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 278305,
+        "num": 278305,
+        "word": "何炅 谁跟我抢赛道呢",
+        "onboard_time": 1733907383,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274889,
+        "num": 274889,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206511,
+        "num": 274627,
+        "word": "深圳一住宅楼发生爆炸大火已扑灭",
+        "onboard_time": 1733916200,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 358444,
+        "num": 274119,
+        "word": "婆家为娶儿媳花近70万女方消失了",
+        "onboard_time": 1733914880,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331909,
+        "num": 273867,
+        "word": "爆炸住宅对面人士称感到明显冲击波",
+        "onboard_time": 1733912720,
+        "rank": 11,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 295014,
+        "num": 273649,
+        "word": "陈晓名下工作室仅1家存续",
+        "onboard_time": 1733911461,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64307,
+        "num": 273125,
+        "word": "深圳住宅爆炸坠楼人员已被120拉走",
+        "onboard_time": 1733916741,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272914,
+        "num": 272914,
+        "word": "虞书欣孟子义成毅不同的走红方式",
+        "onboard_time": 1733913320,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1286554,
+        "num": 272728,
+        "word": "深圳大楼起火事件有人员坠楼",
+        "onboard_time": 1733911640,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 264550,
+        "num": 264550,
+        "word": "九重紫叶祖新返场",
+        "onboard_time": 1733912481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155101,
+        "num": 263415,
+        "word": "十个勤天行李牌",
+        "onboard_time": 1733915419,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154125,
+        "num": 257164,
+        "word": "这么多年了高启强还是不愿意报案",
+        "onboard_time": 1733915719,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211316,
+        "num": 251596,
+        "word": "徐嘉余孙杨进行对抗训练",
+        "onboard_time": 1733915059,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1314191,
+        "num": 247756,
+        "word": "徐艺洋卖水晶被网友吐槽贵",
+        "onboard_time": 1733908821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301357,
+        "num": 246624,
+        "word": "徐艺洋回应直播带货",
+        "onboard_time": 1733908401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242880,
+        "num": 242880,
+        "word": "在鹤岗全款3万70平米的家",
+        "onboard_time": 1733910740,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22639,
+        "num": 242135,
+        "word": "TGA",
+        "onboard_time": 1733916681,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60403,
+        "num": 242128,
+        "word": "MiuMiu女孩",
+        "onboard_time": 1733912181,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 190108,
+        "num": 242128,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242128,
+        "num": 242127,
+        "word": "朴彩英怕失业到长带状疱疹",
+        "onboard_time": 1733905820,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241738,
+        "num": 241738,
+        "word": "医生眼里真正的生冷食物",
+        "onboard_time": 1733911341,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178566,
+        "num": 178566,
+        "word": "韩国总统办公室警卫处与搜查人员对峙",
+        "onboard_time": 1733910740,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47993,
+        "num": 169540,
+        "word": "张云雷说探清水河火了之后很懵",
+        "onboard_time": 1733916500,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167749,
+        "num": 167749,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158211,
+        "num": 158211,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151513,
+        "num": 151513,
+        "word": "iPhone16设计被质疑不合乔布斯理念",
+        "onboard_time": 1733910681,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149661,
+        "num": 149661,
+        "word": "甘薇回应还债12亿",
+        "onboard_time": 1733906723,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138483,
+        "num": 138483,
+        "word": "金希澈注销社交平台账号",
+        "onboard_time": 1733916799,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134722,
+        "num": 134722,
+        "word": "韩国偶遇太阳闵孝琳一家三口",
+        "onboard_time": 1733904741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132579,
+        "num": 132579,
+        "word": "鞠婧祎陈都灵同款白衣造型",
+        "onboard_time": 1733914041,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131470,
+        "num": 131470,
+        "word": "王鸥给所有人分完自己才吃",
+        "onboard_time": 1733912660,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126701,
+        "num": 126701,
+        "word": "父亲长期家暴致儿子患上恐惧症",
+        "onboard_time": 1733908220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125182,
+        "num": 125182,
+        "word": "EP战胜成都AG",
+        "onboard_time": 1733915300,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125037,
+        "num": 125037,
+        "word": "何炅 不要为节目效果做不想做的事",
+        "onboard_time": 1733903303,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120134,
+        "num": 120134,
+        "word": "窦昭人生镜头",
+        "onboard_time": 1733916619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117761,
+        "num": 117761,
+        "word": "平阴县政府9.24亿卖天背后",
+        "onboard_time": 1733914761,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116741,
+        "num": 116741,
+        "word": "张萌评论区 大型许愿池",
+        "onboard_time": 1733916080,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113062,
+        "num": 113062,
+        "word": "第五人格",
+        "onboard_time": 1733915180,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 108706,
+        "word": "P遗照黑粉公开向张艺兴致歉",
+        "onboard_time": 1733913499,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102978,
+        "num": 102978,
+        "word": "百年孤独开播",
+        "onboard_time": 1733906963,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102143,
+        "num": 102143,
+        "word": "外交部敦促加方停止干涉中国内政",
+        "onboard_time": 1733916860,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102020,
+        "num": 102020,
+        "word": "九重紫",
+        "onboard_time": 1733889742,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96847,
+        "num": 96847,
+        "word": "鹭卓炒菜 赵小童脸走了一万步",
+        "onboard_time": 1733911041,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}
