@@ -1,28 +1,28 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733881889027,
+  "endTime": 1733883256462,
   "band_list": [
     {
       "raw_hot": 2250877,
-      "num": 350425,
+      "num": 378418,
       "word": "陈妍希 陈晓",
       "onboard_time": 1733878400,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 1496819,
-      "num": 1496819,
-      "word": "儿子发现离世父亲竟有3个私生子女",
-      "onboard_time": 1733846418,
+      "raw_hot": 1520011,
+      "num": 1520011,
+      "word": "朋友圈被领导点赞成认定加班证据",
+      "onboard_time": 1733879901,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1163364,
-      "num": 1186138,
-      "word": "朋友圈被领导点赞成认定加班证据",
-      "onboard_time": 1733879901,
+      "raw_hot": 1496819,
+      "num": 1496819,
+      "word": "儿子发现离世父亲竟有3个私生子女",
+      "onboard_time": 1733846418,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -51,6 +51,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 769995,
+      "num": 769995,
+      "word": "以色列男子侮辱黑人男孩被暴打",
+      "onboard_time": 1733880500,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 743243,
       "num": 743243,
       "word": "猎罪图鉴尺度",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 647823,
-      "num": 349168,
+      "num": 359573,
       "word": "赵露思疑似喊话辱追粉",
       "onboard_time": 1733878819,
       "rank": 12,
@@ -107,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 513289,
-      "num": 513289,
+      "raw_hot": 533429,
+      "num": 533429,
       "word": "北京天空出现三个太阳",
       "onboard_time": 1733864772,
       "rank": 9,
@@ -123,12 +131,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391390,
-      "num": 391390,
+      "raw_hot": 433991,
+      "num": 352354,
+      "word": "林心如参加琼瑶告别式",
+      "onboard_time": 1733880979,
+      "rank": 16,
+      "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 422464,
+      "num": 422464,
       "word": "叙利亚局势进展",
       "onboard_time": 1733838020,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384457,
+      "num": 384457,
+      "word": "虞书欣零点发文告别凌妙妙",
+      "onboard_time": 1733878760,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 380007,
@@ -145,22 +169,6 @@
       "onboard_time": 1733836761,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 367631,
-      "num": 367631,
-      "word": "虞书欣零点发文告别凌妙妙",
-      "onboard_time": 1733878760,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 363865,
-      "num": 363865,
-      "word": "以色列男子侮辱黑人男孩被暴打",
-      "onboard_time": 1733880500,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 336581,
@@ -219,12 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274453,
-      "num": 221900,
+      "raw_hot": 274776,
+      "num": 243138,
       "word": "为什么现在单身的年轻人越来越多",
       "onboard_time": 1733878941,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 253743,
+      "num": 253743,
+      "word": "我是刑警男友深山碎尸案",
+      "onboard_time": 1733880500,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 253194,
@@ -232,22 +248,6 @@
       "word": "猎罪图鉴2 娱乐圈原型",
       "onboard_time": 1733832378,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 248906,
-      "num": 248906,
-      "word": "林心如参加琼瑶告别式",
-      "onboard_time": 1733880979,
-      "rank": 16,
-      "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 241970,
-      "num": 241970,
-      "word": "我是刑警男友深山碎尸案",
-      "onboard_time": 1733880500,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1733850075,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220963,
+      "num": 311080,
+      "word": "男子用无人机拍军事禁区被判10个月",
+      "onboard_time": 1733880200,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211517,
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186789,
+      "num": 334551,
+      "word": "挤走3.5元泡面档口超市被要求整改",
+      "onboard_time": 1733881880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183116,
       "num": 153539,
       "word": "九重紫好虐",
@@ -331,20 +347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177216,
+      "num": 177216,
+      "word": "女儿在抢救爸爸急得忘了去医院的路",
+      "onboard_time": 1733882179,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176614,
+      "num": 176614,
+      "word": "叙利亚",
+      "onboard_time": 1733879120,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174156,
       "num": 174156,
       "word": "权志龙 SBS歌谣大战",
       "onboard_time": 1733880500,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170369,
-      "num": 170369,
-      "word": "叙利亚",
-      "onboard_time": 1733879120,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167086,
@@ -363,6 +387,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 165269,
+      "num": 165269,
+      "word": "以军摧毁叙70%以上军事力量",
+      "onboard_time": 1733882720,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 163057,
       "num": 153001,
       "word": "孔雪儿金子涵合影",
@@ -377,14 +409,6 @@
       "onboard_time": 1733880859,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 157016,
-      "num": 157016,
-      "word": "男子用无人机拍军事禁区被判10个月",
-      "onboard_time": 1733880200,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156518,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142144,
+      "num": 253119,
+      "word": "李欣泽 已老实求放过",
+      "onboard_time": 1733881939,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140929,
       "num": 140929,
       "word": "台称解放军在台岛周边部署规模超2022年",
@@ -449,6 +481,14 @@
       "onboard_time": 1733839342,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138563,
+      "num": 248640,
+      "word": "SM表示散布者以钱为目的联系媒体",
+      "onboard_time": 1733882539,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 138535,
@@ -467,12 +507,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 136295,
+      "num": 136295,
+      "word": "领导点赞加班朋友圈员工获赔加班费",
+      "onboard_time": 1733882841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131145,
       "num": 131145,
       "word": "徐海乔真演短剧男主了",
       "onboard_time": 1733837241,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128245,
+      "num": 128245,
+      "word": "一代人有一代人的破烂",
+      "onboard_time": 1733882841,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126857,
+      "num": 126857,
+      "word": "科三考官将学员按在地上殴打",
+      "onboard_time": 1733878881,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 126264,
@@ -507,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 120515,
+      "num": 120515,
+      "word": "全国多地加入下雪群聊",
+      "onboard_time": 1733870233,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117792,
       "num": 117792,
       "word": "杨仕泽说柳拂衣是职业生涯重要节点",
@@ -515,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117554,
-      "num": 117554,
-      "word": "全国多地加入下雪群聊",
-      "onboard_time": 1733870233,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 117377,
+      "num": 117377,
+      "word": "丁禹兮说脱敏谨言慎行了",
+      "onboard_time": 1733883080,
+      "rank": 45,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 114257,
@@ -539,12 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112067,
-      "num": 112067,
-      "word": "科三考官将学员按在地上殴打",
-      "onboard_time": 1733878881,
-      "rank": 43,
-      "category": "舆论监督"
+      "raw_hot": 111601,
+      "num": 111601,
+      "word": "养乐多关闭20年上海工厂",
+      "onboard_time": 1733883199,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110854,
+      "num": 110854,
+      "word": "窦昭垂耳兔",
+      "onboard_time": 1733882899,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110105,
@@ -732,7 +812,7 @@
     },
     {
       "raw_hot": 59340,
-      "num": 749983,
+      "num": 773583,
       "word": "财政政策更加积极将释放更多可能性",
       "onboard_time": 1733838680,
       "rank": 2,
@@ -833,6 +913,14 @@
       "onboard_time": 1733873776,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 35803,
+      "num": 195149,
+      "word": "姆巴佩因伤离场",
+      "onboard_time": 1733877320,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 34695,
