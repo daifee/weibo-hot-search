@@ -1,0 +1,410 @@
+{
+  "runTime": 1733906762428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11695394,
+        "num": 11695394,
+        "word": "深圳消防通报一住宅楼发生爆炸",
+        "onboard_time": 1733904562,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1013061,
+        "num": 1013061,
+        "word": "何炅 不要为节目效果做不想做的事",
+        "onboard_time": 1733903303,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31564,
+        "num": 797494,
+        "word": "国际金融界看好中国持续对外开放政策",
+        "onboard_time": 1733890762,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 734611,
+        "num": 734611,
+        "word": "女子明知军婚仍破坏获刑1年半",
+        "onboard_time": 1733894180,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627885,
+        "num": 627885,
+        "word": "深圳住宅楼爆炸80名消防员到场",
+        "onboard_time": 1733905041,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 432176,
+        "num": 432176,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428310,
+        "num": 428310,
+        "word": "女子网购羽绒服仅退款称没偷没抢",
+        "onboard_time": 1733905220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359501,
+        "num": 359501,
+        "word": "10年前卫生巾长度",
+        "onboard_time": 1733895321,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296844,
+        "num": 296844,
+        "word": "工藤新一30年唯一真身剧场版",
+        "onboard_time": 1733904683,
+        "rank": 8,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 195784,
+        "num": 293607,
+        "word": "官方介入调查深圳湾爆炸事件",
+        "onboard_time": 1733905161,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 516122,
+        "num": 293410,
+        "word": "朴彩英怕失业到长带状疱疹",
+        "onboard_time": 1733905820,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292980,
+        "num": 292980,
+        "word": "内娱拍素人合租综艺了",
+        "onboard_time": 1733903303,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283778,
+        "num": 283778,
+        "word": "这次能让果郡王知道双生子身份吗",
+        "onboard_time": 1733903544,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85206,
+        "num": 280885,
+        "word": "深圳一住宅疑似煤气泄漏引起爆炸",
+        "onboard_time": 1733905460,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 280699,
+        "num": 280699,
+        "word": "武契奇称不会像阿萨德那样逃走",
+        "onboard_time": 1733900839,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 262968,
+        "word": "九重紫 宋墨有自己的嫡掌闺",
+        "onboard_time": 1733905942,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257629,
+        "num": 257629,
+        "word": "韩国偶遇太阳闵孝琳一家三口",
+        "onboard_time": 1733904741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202521,
+        "num": 256227,
+        "word": "小区物业回应深圳住宅楼爆炸",
+        "onboard_time": 1733906241,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 83829,
+        "num": 256224,
+        "word": "少数私人陪游藏有偿擦边服务",
+        "onboard_time": 1733905281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20571,
+        "num": 256224,
+        "word": "换花呗三星堆皮肤去班味",
+        "onboard_time": 1733904263,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256224,
+        "num": 256223,
+        "word": "虹膜写真尽量别公开展示",
+        "onboard_time": 1733893339,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32074,
+        "num": 255621,
+        "word": "琼瑶告别式上放了当",
+        "onboard_time": 1733905340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553077,
+        "num": 253862,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546281,
+        "num": 250805,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116612,
+        "num": 249511,
+        "word": "潘展乐成上海交大体育大使",
+        "onboard_time": 1733906319,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323690,
+        "num": 245777,
+        "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
+        "onboard_time": 1733900839,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245035,
+        "num": 245035,
+        "word": "花花给自己涂上了保护色",
+        "onboard_time": 1733903362,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192484,
+        "num": 244077,
+        "word": "台湾女演员俞小凡送琼瑶最后一程",
+        "onboard_time": 1733905401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 234347,
+        "word": "谁家电视剧把观众写片尾里啊",
+        "onboard_time": 1733904620,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31533,
+        "num": 227106,
+        "word": "甘薇回应还债12亿",
+        "onboard_time": 1733906723,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97640,
+        "num": 224118,
+        "word": "江苏卫视跨年新阵容群聊记录",
+        "onboard_time": 1733904981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320527,
+        "num": 214363,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212255,
+        "num": 212255,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196255,
+        "num": 196255,
+        "word": "深圳一住宅楼爆炸春笋震感明显",
+        "onboard_time": 1733905880,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 195515,
+        "num": 195515,
+        "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
+        "onboard_time": 1733899218,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186339,
+        "num": 186339,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183462,
+        "num": 183462,
+        "word": "澳大利亚一实验室323瓶活病毒下落不明",
+        "onboard_time": 1733889560,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177742,
+        "num": 177742,
+        "word": "养老院欠费数十位老人遭断水断电",
+        "onboard_time": 1733900660,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 175336,
+        "num": 175336,
+        "word": "金价三连涨",
+        "onboard_time": 1733899039,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 175104,
+        "num": 175104,
+        "word": "12306要求第三方平台中止春运营销炒作",
+        "onboard_time": 1733904383,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174104,
+        "num": 174104,
+        "word": "刘雨辰回应被指配不上黄雅琼",
+        "onboard_time": 1733904202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164524,
+        "num": 164524,
+        "word": "猎罪图鉴2直播",
+        "onboard_time": 1733904442,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159026,
+        "num": 159026,
+        "word": "中医建议气血不足的人多唱歌",
+        "onboard_time": 1733903060,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139082,
+        "num": 139082,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1733887640,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135880,
+        "num": 135880,
+        "word": "迪丽热巴又用漂亮脸蛋在唱山歌",
+        "onboard_time": 1733895799,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135503,
+        "num": 135503,
+        "word": "王蔷张浩领证",
+        "onboard_time": 1733895979,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3837834,
+        "num": 135206,
+        "word": "深圳一住宅楼突发爆炸",
+        "onboard_time": 1733901500,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 127115,
+        "num": 127115,
+        "word": "肖战设计师的浪漫",
+        "onboard_time": 1733901439,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120093,
+        "num": 120093,
+        "word": "女儿在抢救爸爸急得忘了去医院的路",
+        "onboard_time": 1733882179,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 119350,
+        "num": 119350,
+        "word": "2024LPL全明星节目单",
+        "onboard_time": 1733904921,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}

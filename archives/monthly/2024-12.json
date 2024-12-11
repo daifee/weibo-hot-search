@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733905918024,
+  "endTime": 1733906762428,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -49,6 +49,14 @@
       "onboard_time": 1733808740,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 11695394,
+      "num": 11695394,
+      "word": "深圳消防通报一住宅楼发生爆炸",
+      "onboard_time": 1733904562,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 9093654,
@@ -104,14 +112,6 @@
       "word": "深圳湾爆炸",
       "onboard_time": 1733901500,
       "rank": 10,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 6070476,
-      "num": 6070476,
-      "word": "深圳消防通报一住宅楼发生爆炸",
-      "onboard_time": 1733904562,
-      "rank": 0,
       "category": "突发/灾害"
     },
     {
@@ -2195,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1013061,
+      "num": 1013061,
+      "word": "何炅 不要为节目效果做不想做的事",
+      "onboard_time": 1733903303,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1011676,
       "num": 4951531,
       "word": "TWICE",
@@ -3265,14 +3273,6 @@
       "onboard_time": 1733645478,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 795620,
-      "num": 795620,
-      "word": "何炅 不要为节目效果做不想做的事",
-      "onboard_time": 1733903303,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 793817,
@@ -4585,6 +4585,14 @@
       "onboard_time": 1733105416,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 627885,
+      "num": 627885,
+      "word": "深圳住宅楼爆炸80名消防员到场",
+      "onboard_time": 1733905041,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627295,
@@ -5952,6 +5960,14 @@
       "word": "迪丽热巴好像装了躲避雷达",
       "onboard_time": 1733468901,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516122,
+      "num": 293410,
+      "word": "朴彩英怕失业到长带状疱疹",
+      "onboard_time": 1733905820,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -7569,6 +7585,14 @@
       "onboard_time": 1733614094,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 428310,
+      "num": 428310,
+      "word": "女子网购羽绒服仅退款称没偷没抢",
+      "onboard_time": 1733905220,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 428171,
@@ -10619,6 +10643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 296844,
+      "num": 296844,
+      "word": "工藤新一30年唯一真身剧场版",
+      "onboard_time": 1733904683,
+      "rank": 10,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 296469,
       "num": 296469,
       "word": "刘诗诗高丸子头",
@@ -10729,6 +10761,14 @@
       "onboard_time": 1733061980,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292980,
+      "num": 292980,
+      "word": "内娱拍素人合租综艺了",
+      "onboard_time": 1733903303,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 292821,
@@ -11219,14 +11259,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 279369,
-      "num": 279369,
-      "word": "内娱拍素人合租综艺了",
-      "onboard_time": 1733903303,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 278382,
       "num": 278382,
       "word": "韩国选手回应看莎头训练被惊讶到了",
@@ -11457,14 +11489,6 @@
       "onboard_time": 1733208680,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270146,
-      "num": 270146,
-      "word": "工藤新一30年唯一真身剧场版",
-      "onboard_time": 1733904683,
-      "rank": 10,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 270094,
@@ -11763,14 +11787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261259,
-      "num": 261259,
-      "word": "深圳住宅楼爆炸80名消防员到场",
-      "onboard_time": 1733905041,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261225,
       "num": 261225,
       "word": "80%胃癌与幽门螺杆菌有关",
@@ -11881,6 +11897,14 @@
       "onboard_time": 1733885239,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257629,
+      "num": 258346,
+      "word": "韩国偶遇太阳闵孝琳一家三口",
+      "onboard_time": 1733904741,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 257351,
@@ -13113,14 +13137,6 @@
       "onboard_time": 1733108178,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232812,
-      "num": 232812,
-      "word": "女子网购羽绒服仅退款称没偷没抢",
-      "onboard_time": 1733905220,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232771,
@@ -14708,7 +14724,7 @@
     },
     {
       "raw_hot": 207629,
-      "num": 232057,
+      "num": 234347,
       "word": "谁家电视剧把观众写片尾里啊",
       "onboard_time": 1733904620,
       "rank": 29,
@@ -15257,6 +15273,14 @@
       "onboard_time": 1733378239,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202521,
+      "num": 256227,
+      "word": "小区物业回应深圳住宅楼爆炸",
+      "onboard_time": 1733906241,
+      "rank": 17,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 202422,
@@ -15971,6 +15995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196255,
+      "num": 196255,
+      "word": "深圳一住宅楼爆炸春笋震感明显",
+      "onboard_time": 1733905880,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196246,
       "num": 196246,
       "word": "双轨原车戏导演发文",
@@ -16009,6 +16041,14 @@
       "onboard_time": 1733140886,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195784,
+      "num": 293607,
+      "word": "官方介入调查深圳湾爆炸事件",
+      "onboard_time": 1733905161,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195779,
@@ -16505,6 +16545,14 @@
       "onboard_time": 1733555958,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 192484,
+      "num": 244077,
+      "word": "台湾女演员俞小凡送琼瑶最后一程",
+      "onboard_time": 1733905401,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 192404,
@@ -19203,14 +19251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169686,
-      "num": 169686,
-      "word": "台湾女演员俞小凡送琼瑶最后一程",
-      "onboard_time": 1733905401,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169563,
       "num": 169563,
       "word": "晓华回应帮向佐一根根理发",
@@ -19699,14 +19739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165656,
-      "num": 165656,
-      "word": "深圳一住宅楼爆炸春笋震感明显",
-      "onboard_time": 1733905880,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165613,
       "num": 165613,
       "word": "如鸢 徐庶",
@@ -20089,14 +20121,6 @@
       "onboard_time": 1733614335,
       "rank": 45,
       "category": "美食"
-    },
-    {
-      "raw_hot": 162374,
-      "num": 162374,
-      "word": "朴彩英怕失业到长带状疱疹",
-      "onboard_time": 1733905820,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 162263,
@@ -25587,6 +25611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119350,
+      "num": 252983,
+      "word": "2024LPL全明星节目单",
+      "onboard_time": 1733904921,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119334,
       "num": 119334,
       "word": "美在关岛首次弹道导弹拦截测试",
@@ -25849,6 +25881,14 @@
       "onboard_time": 1733067858,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116612,
+      "num": 249511,
+      "word": "潘展乐成上海交大体育大使",
+      "onboard_time": 1733906319,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 116578,
@@ -26299,6 +26339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111967,
+      "num": 262968,
+      "word": "九重紫 宋墨有自己的嫡掌闺",
+      "onboard_time": 1733905942,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111738,
       "num": 111738,
       "word": "我是刑警收视率11天TOP1",
@@ -26537,14 +26585,6 @@
       "onboard_time": 1733169670,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109358,
-      "num": 258346,
-      "word": "韩国偶遇太阳闵孝琳一家三口",
-      "onboard_time": 1733904741,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 109232,
@@ -26969,14 +27009,6 @@
       "onboard_time": 1733794938,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 105347,
-      "num": 252983,
-      "word": "2024LPL全明星节目单",
-      "onboard_time": 1733904921,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 105289,
@@ -27417,14 +27449,6 @@
       "onboard_time": 1733748438,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100668,
-      "num": 259900,
-      "word": "官方介入调查深圳湾爆炸事件",
-      "onboard_time": 1733905161,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100644,
@@ -28316,7 +28340,7 @@
     },
     {
       "raw_hot": 91700,
-      "num": 256175,
+      "num": 256224,
       "word": "少数私人陪游藏有偿擦边服务",
       "onboard_time": 1733905281,
       "rank": 19,
@@ -28769,6 +28793,14 @@
       "onboard_time": 1733812639,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85206,
+      "num": 280885,
+      "word": "深圳一住宅疑似煤气泄漏引起爆炸",
+      "onboard_time": 1733905460,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 85149,
@@ -30257,14 +30289,6 @@
       "onboard_time": 1733229980,
       "rank": 49,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 68870,
-      "num": 260419,
-      "word": "深圳一住宅疑似煤气泄漏引起爆炸",
-      "onboard_time": 1733905460,
-      "rank": 13,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 68844,
@@ -34915,6 +34939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 32074,
+      "num": 255621,
+      "word": "琼瑶告别式上放了当",
+      "onboard_time": 1733905340,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32056,
       "num": 326314,
       "word": "领克Z20快不止一点",
@@ -35033,6 +35065,14 @@
       "onboard_time": 1732989793,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31533,
+      "num": 227106,
+      "word": "甘薇回应还债12亿",
+      "onboard_time": 1733906723,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 31499,
@@ -36651,20 +36691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20571,
+      "num": 257228,
+      "word": "换花呗三星堆皮肤去班味",
+      "onboard_time": 1733904263,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20525,
       "num": 20672,
       "word": "李显龙称否定中国影响力是不明智的",
       "onboard_time": 1732996330,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20497,
-      "num": 257228,
-      "word": "换花呗三星堆皮肤去班味",
-      "onboard_time": 1733904263,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 20427,
@@ -37097,14 +37137,6 @@
       "onboard_time": 1733068938,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 17281,
-      "num": 166555,
-      "word": "琼瑶告别式上放了当",
-      "onboard_time": 1733905340,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 17244,
