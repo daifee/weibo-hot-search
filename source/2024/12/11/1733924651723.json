@@ -1,0 +1,410 @@
+{
+  "runTime": 1733924651723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5628952,
+        "num": 5628952,
+        "word": "深圳消防通报一住宅楼发生爆炸",
+        "onboard_time": 1733904562,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 960760,
+        "num": 960760,
+        "word": "深圳一住宅楼爆炸致1人死亡",
+        "onboard_time": 1733919918,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 6241,
+        "num": 467139,
+        "word": "人民日报中国经济年度观察",
+        "onboard_time": 1733719761,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1250066,
+        "num": 465197,
+        "word": "孟子义又发红包了",
+        "onboard_time": 1733921900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1047935,
+        "num": 461310,
+        "word": "李昀锐发红包",
+        "onboard_time": 1733923160,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400794,
+        "num": 400794,
+        "word": "员工推算同事工资求涨薪被辞",
+        "onboard_time": 1733917882,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 337692,
+        "num": 337692,
+        "word": "猎罪图鉴 云蒸霞蔚",
+        "onboard_time": 1733920699,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325290,
+        "num": 325290,
+        "word": "深圳住宅楼爆炸事故原因正进一步调查",
+        "onboard_time": 1733922139,
+        "rank": 7,
+        "category": "辟谣/通报,国内时政"
+      },
+      {
+        "raw_hot": 318801,
+        "num": 318801,
+        "word": "张云雷说探清水河火了之后很懵",
+        "onboard_time": 1733916500,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41165,
+        "num": 304557,
+        "word": "国务院安委会挂牌督办深圳路面坍塌事故查处",
+        "onboard_time": 1733917159,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775406,
+        "num": 301775,
+        "word": "代号鸢删女性向标签",
+        "onboard_time": 1733920999,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366509,
+        "num": 298929,
+        "word": "疑似超市老板称儿子清华读研不作解释",
+        "onboard_time": 1733923039,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294567,
+        "num": 294567,
+        "word": "金希澈注销社交平台账号",
+        "onboard_time": 1733916799,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292085,
+        "num": 292085,
+        "word": "王安宇 好险差点饿死",
+        "onboard_time": 1733918480,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261493,
+        "num": 261493,
+        "word": "女子网购羽绒服仅退款称没偷没抢",
+        "onboard_time": 1733905220,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247388,
+        "num": 247388,
+        "word": "为什么腰不好的年轻人越来越多了",
+        "onboard_time": 1733917040,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239902,
+        "num": 239902,
+        "word": "李昀锐晚间报备",
+        "onboard_time": 1733923941,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127242,
+        "num": 239646,
+        "word": "我是刑警第13个恶性大案",
+        "onboard_time": 1733920640,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 238662,
+        "word": "志愿者已联系到失联女子日本丈夫",
+        "onboard_time": 1733919440,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179403,
+        "num": 238174,
+        "word": "婆家为娶儿媳花近70万女方消失了",
+        "onboard_time": 1733914880,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 864178,
+        "num": 237027,
+        "word": "徐艺洋卖水晶被网友吐槽贵",
+        "onboard_time": 1733908821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301632,
+        "num": 236107,
+        "word": "虞书欣孟子义成毅不同的走红方式",
+        "onboard_time": 1733913320,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235879,
+        "num": 235879,
+        "word": "琼瑶最后一份礼物曝光",
+        "onboard_time": 1733921117,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235579,
+        "num": 235579,
+        "word": "冬天如何在床上正确的玩手机",
+        "onboard_time": 1733919080,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123893,
+        "num": 224778,
+        "word": "无限暖暖提名IGN年度游戏",
+        "onboard_time": 1733923581,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224541,
+        "num": 224541,
+        "word": "富大龙30集终于上线",
+        "onboard_time": 1733921718,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127032,
+        "num": 204477,
+        "word": "年轻人不想谈恋爱本质是风险厌恶",
+        "onboard_time": 1733922739,
+        "rank": 26,
+        "category": "议题讨论,综艺"
+      },
+      {
+        "raw_hot": 203070,
+        "num": 203070,
+        "word": "代号鸢",
+        "onboard_time": 1733920880,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189475,
+        "num": 189475,
+        "word": "朴彩英怕失业到长带状疱疹",
+        "onboard_time": 1733905820,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37085,
+        "num": 184297,
+        "word": "秦海璐爱的太明显",
+        "onboard_time": 1733924598,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180802,
+        "num": 180802,
+        "word": "安东森2比0李诗沣",
+        "onboard_time": 1733924120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169904,
+        "num": 169904,
+        "word": "男子不按公司规定1天打8次卡被开除",
+        "onboard_time": 1733920999,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "探访深圳爆炸住宅楼",
+        "onboard_time": 1733922679,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 186975,
+        "num": 163317,
+        "word": "秦海璐我听小说咋了",
+        "onboard_time": 1733919798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158763,
+        "num": 158763,
+        "word": "宋墨触底反弹",
+        "onboard_time": 1733924059,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148871,
+        "num": 148871,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126407,
+        "num": 147382,
+        "word": "学硕与专硕的区别",
+        "onboard_time": 1733922440,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146197,
+        "num": 146197,
+        "word": "丁禹兮 付出型爱豆",
+        "onboard_time": 1733919378,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135797,
+        "num": 135797,
+        "word": "医生眼里真正的生冷食物",
+        "onboard_time": 1733911341,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132967,
+        "num": 132967,
+        "word": "邬善结局",
+        "onboard_time": 1733918540,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36146,
+        "num": 128832,
+        "word": "环球影城偶遇张彬彬",
+        "onboard_time": 1733923819,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "何炅 不要为节目效果做不想做的事",
+        "onboard_time": 1733903303,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126954,
+        "num": 126954,
+        "word": "狗 急得我差点就开口说话了",
+        "onboard_time": 1733922799,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120847,
+        "num": 120847,
+        "word": "九重紫",
+        "onboard_time": 1733889742,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "极越",
+        "onboard_time": 1733907081,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106864,
+        "num": 106864,
+        "word": "极越回应经营状况",
+        "onboard_time": 1733919620,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106526,
+        "num": 106526,
+        "word": "泉州连大桥都戴上了簪花",
+        "onboard_time": 1733924239,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 102466,
+        "num": 102466,
+        "word": "窦昭忍不了直接上脚",
+        "onboard_time": 1733921479,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99241,
+        "num": 99241,
+        "word": "安东森球品",
+        "onboard_time": 1733923941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96184,
+        "num": 96184,
+        "word": "任翔宇戴护腰被罚",
+        "onboard_time": 1733924598,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国将持续扩大对外开放#"
+    }
+  }
+}

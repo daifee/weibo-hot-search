@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733923989286,
+  "endTime": 1733924651723,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2131,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1047935,
+      "num": 782922,
+      "word": "李昀锐发红包",
+      "onboard_time": 1733923160,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046457,
       "num": 880616,
       "word": "花少从9.3到3.9",
@@ -3419,14 +3427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 782922,
-      "num": 782922,
-      "word": "李昀锐发红包",
-      "onboard_time": 1733923160,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 782620,
       "num": 782620,
       "word": "猎罪图鉴2",
@@ -3513,6 +3513,14 @@
       "onboard_time": 1733832378,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 775406,
+      "num": 301775,
+      "word": "代号鸢删女性向标签",
+      "onboard_time": 1733920999,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 769995,
@@ -4633,14 +4641,6 @@
       "onboard_time": 1733838020,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 630511,
-      "num": 281701,
-      "word": "代号鸢删女性向标签",
-      "onboard_time": 1733920999,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 630410,
@@ -8987,6 +8987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366509,
+      "num": 298929,
+      "word": "疑似超市老板称儿子清华读研不作解释",
+      "onboard_time": 1733923039,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365955,
       "num": 365955,
       "word": "老婆临盆遇车辆升级当事人回应质疑",
@@ -9707,20 +9715,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337692,
+      "num": 337692,
+      "word": "猎罪图鉴 云蒸霞蔚",
+      "onboard_time": 1733920699,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337467,
       "num": 386022,
       "word": "叙利亚驻俄罗斯使馆悬挂反对派旗帜",
       "onboard_time": 1733749040,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 337190,
-      "num": 337190,
-      "word": "猎罪图鉴 云蒸霞蔚",
-      "onboard_time": 1733920699,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 337020,
@@ -10123,6 +10131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325290,
+      "num": 325290,
+      "word": "深圳住宅楼爆炸事故原因正进一步调查",
+      "onboard_time": 1733922139,
+      "rank": 23,
+      "category": "辟谣/通报,国内时政"
+    },
+    {
       "raw_hot": 324680,
       "num": 324680,
       "word": "女子被探店博主拍到出镜获赔1万元",
@@ -10291,6 +10307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318801,
+      "num": 318801,
+      "word": "张云雷说探清水河火了之后很懵",
+      "onboard_time": 1733916500,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318206,
       "num": 318206,
       "word": "大冰好有饭缩力",
@@ -10377,14 +10401,6 @@
       "onboard_time": 1733199921,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315988,
-      "num": 315988,
-      "word": "张云雷说探清水河火了之后很懵",
-      "onboard_time": 1733916500,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 315581,
@@ -11393,14 +11409,6 @@
       "onboard_time": 1733556259,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 282635,
-      "num": 282635,
-      "word": "深圳住宅楼爆炸事故原因正进一步调查",
-      "onboard_time": 1733922139,
-      "rank": 23,
-      "category": "辟谣/通报,国内时政"
     },
     {
       "raw_hot": 282473,
@@ -13259,6 +13267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 235879,
+      "num": 257321,
+      "word": "琼瑶最后一份礼物曝光",
+      "onboard_time": 1733921117,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235869,
       "num": 235869,
       "word": "张艺兴已经是nextlevel了",
@@ -13297,6 +13313,14 @@
       "onboard_time": 1733662701,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235579,
+      "num": 235579,
+      "word": "冬天如何在床上正确的玩手机",
+      "onboard_time": 1733919080,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235477,
@@ -14548,7 +14572,7 @@
     },
     {
       "raw_hot": 215375,
-      "num": 178350,
+      "num": 239646,
       "word": "我是刑警第13个恶性大案",
       "onboard_time": 1733920640,
       "rank": 21,
@@ -14585,14 +14609,6 @@
       "onboard_time": 1733051179,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214723,
-      "num": 214723,
-      "word": "疑似超市老板称儿子清华读研不作解释",
-      "onboard_time": 1733923039,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214505,
@@ -15691,14 +15707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202263,
-      "num": 202263,
-      "word": "冬天如何在床上正确的玩手机",
-      "onboard_time": 1733919080,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202256,
       "num": 202256,
       "word": "沈翊训狗",
@@ -16073,14 +16081,6 @@
       "onboard_time": 1733714238,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198761,
-      "num": 257321,
-      "word": "琼瑶最后一份礼物曝光",
-      "onboard_time": 1733921117,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 198712,
@@ -18459,6 +18459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "安东森2比0李诗沣",
+      "onboard_time": 1733924120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -20395,6 +20403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164771,
+      "num": 164771,
+      "word": "探访深圳爆炸住宅楼",
+      "onboard_time": 1733922679,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 164755,
       "num": 164755,
       "word": "这就是我努力考研的原因",
@@ -21088,6 +21104,14 @@
       "word": "赵一博晒报喜斑粉蝶",
       "onboard_time": 1733740281,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158763,
+      "num": 158763,
+      "word": "宋墨触底反弹",
+      "onboard_time": 1733924059,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -25219,12 +25243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127032,
+      "num": 279211,
+      "word": "年轻人不想谈恋爱本质是风险厌恶",
+      "onboard_time": 1733922739,
+      "rank": 14,
+      "category": "议题讨论,综艺"
+    },
+    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
       "onboard_time": 1733710639,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126954,
+      "num": 126954,
+      "word": "狗 急得我差点就开口说话了",
+      "onboard_time": 1733922799,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 126913,
@@ -25289,6 +25329,14 @@
       "onboard_time": 1733106197,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126407,
+      "num": 147382,
+      "word": "学硕与专硕的区别",
+      "onboard_time": 1733922440,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 126348,
@@ -25563,14 +25611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124666,
-      "num": 124666,
-      "word": "探访深圳爆炸住宅楼",
-      "onboard_time": 1733922679,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 124582,
       "num": 124582,
       "word": "肖战实体专明天10点开启预约",
@@ -25683,6 +25723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123893,
+      "num": 237864,
+      "word": "无限暖暖提名IGN年度游戏",
+      "onboard_time": 1733923581,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123844,
       "num": 330028,
       "word": "巩俐问路 美女你好",
@@ -25697,6 +25745,14 @@
       "onboard_time": 1733556019,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123800,
+      "num": 270811,
+      "word": "志愿者已联系到失联女子日本丈夫",
+      "onboard_time": 1733919440,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123772,
@@ -25833,14 +25889,6 @@
       "onboard_time": 1733017999,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 122508,
-      "num": 270811,
-      "word": "志愿者已联系到失联女子日本丈夫",
-      "onboard_time": 1733919440,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122496,
@@ -26657,14 +26705,6 @@
       "onboard_time": 1733153480,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115785,
-      "num": 237864,
-      "word": "无限暖暖提名IGN年度游戏",
-      "onboard_time": 1733923581,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 115626,
@@ -27683,6 +27723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106526,
+      "num": 106526,
+      "word": "泉州连大桥都戴上了簪花",
+      "onboard_time": 1733924239,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106378,
       "num": 169230,
       "word": "王晔受伤",
@@ -28171,14 +28219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101166,
-      "num": 279211,
-      "word": "年轻人不想谈恋爱本质是风险厌恶",
-      "onboard_time": 1733922739,
-      "rank": 14,
-      "category": "议题讨论,综艺"
-    },
-    {
       "raw_hot": 101001,
       "num": 227965,
       "word": "琼瑶花葬仪式结束",
@@ -28403,6 +28443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99241,
+      "num": 99241,
+      "word": "安东森球品",
+      "onboard_time": 1733923941,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99204,
       "num": 99204,
       "word": "降温的风吹到了南方",
@@ -28563,28 +28611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97440,
-      "num": 97440,
-      "word": "狗 急得我差点就开口说话了",
-      "onboard_time": 1733922799,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 97415,
       "num": 97415,
       "word": "尾号6个8手机靓号法拍42.4万成交",
       "onboard_time": 1733031919,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97210,
-      "num": 97210,
-      "word": "学硕与专硕的区别",
-      "onboard_time": 1733922440,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 97115,
@@ -28705,6 +28737,14 @@
       "onboard_time": 1733673861,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96184,
+      "num": 96184,
+      "word": "任翔宇戴护腰被罚",
+      "onboard_time": 1733924598,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 96123,
@@ -30401,14 +30441,6 @@
       "onboard_time": 1733900899,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77481,
-      "num": 77481,
-      "word": "安东森球品",
-      "onboard_time": 1733923941,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 77457,
@@ -34499,6 +34531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41165,
+      "num": 304557,
+      "word": "国务院安委会挂牌督办深圳路面坍塌事故查处",
+      "onboard_time": 1733917159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41106,
       "num": 62507,
       "word": "亚特兰大vs皇马",
@@ -35011,6 +35051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 37085,
+      "num": 184297,
+      "word": "秦海璐爱的太明显",
+      "onboard_time": 1733924598,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37070,
       "num": 349501,
       "word": "叙利亚战火为何重燃",
@@ -35177,6 +35225,14 @@
       "onboard_time": 1733907740,
       "rank": 49,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 36146,
+      "num": 207023,
+      "word": "环球影城偶遇张彬彬",
+      "onboard_time": 1733923819,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 36122,
@@ -37897,14 +37953,6 @@
       "onboard_time": 1733126298,
       "rank": 19,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 19067,
-      "num": 207023,
-      "word": "环球影城偶遇张彬彬",
-      "onboard_time": 1733923819,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 19016,
