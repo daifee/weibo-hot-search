@@ -1,0 +1,410 @@
+{
+  "runTime": 1733886339827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3013127,
+        "num": 3013127,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1244810,
+        "num": 1244810,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34583,
+        "num": 884217,
+        "word": "财政政策更加积极将释放更多可能性",
+        "onboard_time": 1733838680,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 869500,
+        "num": 869500,
+        "word": "女儿在抢救爸爸急得忘了去医院的路",
+        "onboard_time": 1733882179,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142619,
+        "num": 725789,
+        "word": "韩国警方搜查总统府",
+        "onboard_time": 1733885239,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 680471,
+        "num": 680471,
+        "word": "肖战专辑开售",
+        "onboard_time": 1733883859,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506098,
+        "num": 506098,
+        "word": "朱旺旺说工资没有大家想象中那么高",
+        "onboard_time": 1733877500,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93580,
+        "num": 497633,
+        "word": "韩前防长金龙显企图在狱中自杀",
+        "onboard_time": 1733886140,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 490342,
+        "num": 490342,
+        "word": "以色列男子侮辱黑人男孩被暴打",
+        "onboard_time": 1733880500,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162183,
+        "num": 487504,
+        "word": "叙利亚70%以上军事力量被摧毁",
+        "onboard_time": 1733885239,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1653539,
+        "num": 480212,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385901,
+        "num": 465412,
+        "word": "众星送别琼瑶",
+        "onboard_time": 1733885180,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491051,
+        "num": 458427,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37904,
+        "num": 451640,
+        "word": "韩国国会启动国政调查权调查戒严事件",
+        "onboard_time": 1733885899,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29065,
+        "num": 437448,
+        "word": "车管所回应科目三考官与学员起冲突",
+        "onboard_time": 1733886259,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57990,
+        "num": 434950,
+        "word": "李欣泽 已老实求放过",
+        "onboard_time": 1733881939,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426440,
+        "num": 426440,
+        "word": "挤走3.5元泡面档口超市被要求整改",
+        "onboard_time": 1733881880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21395,
+        "num": 384661,
+        "word": "欧阳妮妮孕肚大片",
+        "onboard_time": 1733885118,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32572,
+        "num": 382281,
+        "word": "冬季吃全鸡包香包暖的",
+        "onboard_time": 1733883859,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103480,
+        "num": 382172,
+        "word": "成都4名初中生组团虐猫",
+        "onboard_time": 1733885478,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382169,
+        "num": 382169,
+        "word": "赵露思疑似喊话辱追粉",
+        "onboard_time": 1733878819,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339749,
+        "num": 339749,
+        "word": "林心如参加琼瑶告别式",
+        "onboard_time": 1733880979,
+        "rank": 21,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 334875,
+        "num": 334875,
+        "word": "秦岚蒋勤勤等艺人为琼瑶花葬奉花",
+        "onboard_time": 1733885419,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280889,
+        "num": 308333,
+        "word": "陈晓未回应岳父去世一事",
+        "onboard_time": 1733884937,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25216,
+        "num": 298319,
+        "word": "姆巴佩欧冠第50球",
+        "onboard_time": 1733886019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296111,
+        "num": 296111,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286739,
+        "num": 286739,
+        "word": "女子远嫁日本失联丈夫有家暴史",
+        "onboard_time": 1733878881,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265764,
+        "num": 265764,
+        "word": "黄河冻出了珍珠项链",
+        "onboard_time": 1733877260,
+        "rank": 27,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 235694,
+        "num": 235694,
+        "word": "王楚钦一身潮搭抵达长沙",
+        "onboard_time": 1733883499,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229765,
+        "num": 229765,
+        "word": "SM否认金玟庭梁祯元恋情",
+        "onboard_time": 1733879359,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228055,
+        "num": 228055,
+        "word": "虞书欣零点发文告别凌妙妙",
+        "onboard_time": 1733878760,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203877,
+        "num": 203877,
+        "word": "以军摧毁叙70%以上军事力量",
+        "onboard_time": 1733882720,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190726,
+        "num": 190726,
+        "word": "一代人有一代人的破烂",
+        "onboard_time": 1733882841,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181783,
+        "num": 181783,
+        "word": "台湾母女被诈骗千万后自杀",
+        "onboard_time": 1733874799,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 180456,
+        "num": 180456,
+        "word": "水利局回应老人在河边放生大米",
+        "onboard_time": 1733883439,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179970,
+        "num": 179970,
+        "word": "猎罪图鉴尺度",
+        "onboard_time": 1733842700,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169800,
+        "num": 169800,
+        "word": "男子用无人机拍军事禁区被判10个月",
+        "onboard_time": 1733880200,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168407,
+        "num": 168407,
+        "word": "好友生日女子送50克金条遭背刺",
+        "onboard_time": 1733886080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157945,
+        "num": 157945,
+        "word": "围棋子竟然是滴出来的",
+        "onboard_time": 1733884580,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 148840,
+        "num": 148840,
+        "word": "我是刑警男友深山碎尸案",
+        "onboard_time": 1733880500,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143950,
+        "num": 143950,
+        "word": "名创优品 恋与深空",
+        "onboard_time": 1733886259,
+        "rank": 40,
+        "category": "游戏,时尚"
+      },
+      {
+        "raw_hot": 608650,
+        "num": 143632,
+        "word": "琼瑶今日花葬",
+        "onboard_time": 1733875459,
+        "rank": 41,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 7094,
+        "num": 142995,
+        "word": "期待米兰冬奥会",
+        "onboard_time": 1733886200,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142381,
+        "num": 142381,
+        "word": "成都4名中学生组团虐猫拍视频",
+        "onboard_time": 1733885719,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140605,
+        "num": 140605,
+        "word": "叙利亚",
+        "onboard_time": 1733879120,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132574,
+        "num": 132574,
+        "word": "周黑鸭创始人回应被炸伤",
+        "onboard_time": 1733884879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127864,
+        "num": 127864,
+        "word": "做完近视眼手术后的真实感受",
+        "onboard_time": 1733840962,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121895,
+        "num": 121895,
+        "word": "真霸总不穿厚底鞋",
+        "onboard_time": 1733847977,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119265,
+        "num": 119265,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1733877919,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119029,
+        "num": 119029,
+        "word": "黑神话获IGN年度大奖3项提名",
+        "onboard_time": 1733884278,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十八次集体学习#"
+    }
+  }
+}

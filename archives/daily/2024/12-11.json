@@ -1,10 +1,18 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733883256462,
+  "endTime": 1733886339827,
   "band_list": [
     {
+      "raw_hot": 3013127,
+      "num": 3013127,
+      "word": "周黑鸭创始人被卡磁炉炸伤",
+      "onboard_time": 1733884278,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2250877,
-      "num": 378418,
+      "num": 480212,
       "word": "陈妍希 陈晓",
       "onboard_time": 1733878400,
       "rank": 11,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 869500,
+      "num": 869500,
+      "word": "女儿在抢救爸爸急得忘了去医院的路",
+      "onboard_time": 1733882179,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788681,
       "num": 312876,
       "word": "怀孕三个月女子遭家暴被踢孕肚",
@@ -75,8 +91,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 680471,
+      "num": 680471,
+      "word": "肖战专辑开售",
+      "onboard_time": 1733883859,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 647823,
-      "num": 359573,
+      "num": 382169,
       "word": "赵露思疑似喊话辱追粉",
       "onboard_time": 1733878819,
       "rank": 12,
@@ -123,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491051,
+      "num": 458427,
+      "word": "叙利亚局势进展",
+      "onboard_time": 1733838020,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 456270,
       "num": 419090,
       "word": "中国女游客国外火车探身拍摄坠车",
@@ -139,12 +171,20 @@
       "category": "艺人,读书作家"
     },
     {
-      "raw_hot": 422464,
-      "num": 422464,
-      "word": "叙利亚局势进展",
-      "onboard_time": 1733838020,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 426440,
+      "num": 426440,
+      "word": "挤走3.5元泡面档口超市被要求整改",
+      "onboard_time": 1733881880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385901,
+      "num": 465412,
+      "word": "众星送别琼瑶",
+      "onboard_time": 1733885180,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 384457,
@@ -187,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334875,
+      "num": 334875,
+      "word": "秦岚蒋勤勤等艺人为琼瑶花葬奉花",
+      "onboard_time": 1733885419,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332255,
       "num": 332255,
       "word": "黄河冻出了珍珠项链",
@@ -225,6 +273,14 @@
       "onboard_time": 1733844501,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280889,
+      "num": 308333,
+      "word": "陈晓未回应岳父去世一事",
+      "onboard_time": 1733884937,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 274776,
@@ -267,6 +323,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 235694,
+      "num": 235694,
+      "word": "王楚钦一身潮搭抵达长沙",
+      "onboard_time": 1733883499,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228725,
       "num": 157534,
       "word": "向佐 我怎么帅都没有我老婆美",
@@ -289,6 +353,14 @@
       "onboard_time": 1733847977,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203877,
+      "num": 203877,
+      "word": "以军摧毁叙70%以上军事力量",
+      "onboard_time": 1733882720,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 202736,
@@ -315,19 +387,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190726,
+      "num": 190726,
+      "word": "一代人有一代人的破烂",
+      "onboard_time": 1733882841,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190259,
       "num": 228613,
       "word": "福安承包了全国七成的按摩仪",
       "onboard_time": 1733880500,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186789,
-      "num": 334551,
-      "word": "挤走3.5元泡面档口超市被要求整改",
-      "onboard_time": 1733881880,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -339,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180456,
+      "num": 180456,
+      "word": "水利局回应老人在河边放生大米",
+      "onboard_time": 1733883439,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179034,
       "num": 173929,
       "word": "做完近视眼手术后的真实感受",
       "onboard_time": 1733840962,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 177216,
-      "num": 177216,
-      "word": "女儿在抢救爸爸急得忘了去医院的路",
-      "onboard_time": 1733882179,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176614,
@@ -371,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168407,
+      "num": 168407,
+      "word": "好友生日女子送50克金条遭背刺",
+      "onboard_time": 1733886080,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167086,
       "num": 167086,
       "word": "英伟达市值一夜蒸发6600亿元",
@@ -387,14 +467,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 165269,
-      "num": 165269,
-      "word": "以军摧毁叙70%以上军事力量",
-      "onboard_time": 1733882720,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 163057,
       "num": 153001,
       "word": "孔雪儿金子涵合影",
@@ -403,12 +475,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162183,
+      "num": 487504,
+      "word": "叙利亚70%以上军事力量被摧毁",
+      "onboard_time": 1733885239,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159832,
       "num": 159832,
       "word": "aespa上海签售疑似取消",
       "onboard_time": 1733880859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157945,
+      "num": 157945,
+      "word": "围棋子竟然是滴出来的",
+      "onboard_time": 1733884580,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 156518,
@@ -451,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143950,
+      "num": 143950,
+      "word": "名创优品 恋与深空",
+      "onboard_time": 1733886259,
+      "rank": 40,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 143079,
       "num": 150776,
       "word": "男子酒后殴打怀三胎孕妻致多处受伤",
@@ -459,8 +555,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142619,
+      "num": 725789,
+      "word": "韩国警方搜查总统府",
+      "onboard_time": 1733885239,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142381,
+      "num": 142381,
+      "word": "成都4名中学生组团虐猫拍视频",
+      "onboard_time": 1733885719,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 142144,
-      "num": 253119,
+      "num": 434950,
       "word": "李欣泽 已老实求放过",
       "onboard_time": 1733881939,
       "rank": 18,
@@ -515,20 +627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132574,
+      "num": 132574,
+      "word": "周黑鸭创始人回应被炸伤",
+      "onboard_time": 1733884879,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131145,
       "num": 131145,
       "word": "徐海乔真演短剧男主了",
       "onboard_time": 1733837241,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128245,
-      "num": 128245,
-      "word": "一代人有一代人的破烂",
-      "onboard_time": 1733882841,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 126857,
@@ -577,6 +689,14 @@
       "onboard_time": 1733870233,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119029,
+      "num": 119029,
+      "word": "黑神话获IGN年度大奖3项提名",
+      "onboard_time": 1733884278,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 117792,
@@ -683,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103480,
+      "num": 382172,
+      "word": "成都4名初中生组团虐猫",
+      "onboard_time": 1733885478,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103119,
       "num": 103119,
       "word": "盘点2024大国重器惊艳时刻",
@@ -737,6 +865,14 @@
       "onboard_time": 1733838140,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93580,
+      "num": 497633,
+      "word": "韩前防长金龙显企图在狱中自杀",
+      "onboard_time": 1733886140,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89635,
@@ -812,7 +948,7 @@
     },
     {
       "raw_hot": 59340,
-      "num": 773583,
+      "num": 884217,
       "word": "财政政策更加积极将释放更多可能性",
       "onboard_time": 1733838680,
       "rank": 2,
@@ -899,6 +1035,14 @@
       "category": "正能量,财经"
     },
     {
+      "raw_hot": 37904,
+      "num": 451640,
+      "word": "韩国国会启动国政调查权调查戒严事件",
+      "onboard_time": 1733885899,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37476,
       "num": 125862,
       "word": "孟子义小猫耳朵",
@@ -963,11 +1107,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32572,
+      "num": 382281,
+      "word": "冬季吃全鸡包香包暖的",
+      "onboard_time": 1733883859,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 32367,
       "num": 145201,
       "word": "警方回应男子骑摩托车翻下桥身亡",
       "onboard_time": 1733851454,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29065,
+      "num": 437448,
+      "word": "车管所回应科目三考官与学员起冲突",
+      "onboard_time": 1733886259,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25216,
+      "num": 298319,
+      "word": "姆巴佩欧冠第50球",
+      "onboard_time": 1733886019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23286,
       "num": 26864,
       "word": "鞠婧祎月鳞绮纪最新路透",
@@ -1017,6 +1185,14 @@
       "onboard_time": 1733855951,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21395,
+      "num": 384661,
+      "word": "欧阳妮妮孕肚大片",
+      "onboard_time": 1733885118,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 21384,
@@ -1169,6 +1345,14 @@
       "onboard_time": 1733839041,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7094,
+      "num": 142995,
+      "word": "期待米兰冬奥会",
+      "onboard_time": 1733886200,
+      "rank": 42,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
