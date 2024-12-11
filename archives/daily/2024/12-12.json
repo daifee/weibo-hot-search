@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733934678140,
+  "endTime": 1733935655194,
   "band_list": [
     {
       "raw_hot": 721145,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 666203,
-      "num": 666203,
+      "num": 748133,
       "word": "中国女子远嫁日本已失联16个月",
       "onboard_time": 1733930059,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552903,
+      "num": 552903,
+      "word": "胖东来否认打碎商品免单",
+      "onboard_time": 1733931440,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335772,
-      "num": 335772,
-      "word": "胖东来否认打碎商品免单",
-      "onboard_time": 1733931440,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329612,
       "num": 329612,
       "word": "日本丈夫回应失联女子现状",
@@ -123,8 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216055,
-      "num": 216055,
+      "raw_hot": 291194,
+      "num": 268495,
       "word": "千金府",
       "onboard_time": 1733931199,
       "rank": 15,
@@ -179,7 +179,7 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 135135,
+      "raw_hot": 139242,
       "num": 135135,
       "word": "叙军防空导弹阵地空无一人导弹完好",
       "onboard_time": 1733932698,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121533,
+      "num": 121533,
+      "word": "放生大米事件涉事老人回应",
+      "onboard_time": 1733930899,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119976,
       "num": 119976,
       "word": "冬天如何在床上正确的玩手机",
@@ -235,20 +243,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110996,
-      "num": 110996,
-      "word": "放生大米事件涉事老人回应",
-      "onboard_time": 1733930899,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109684,
       "num": 109684,
       "word": "红包剧宣",
       "onboard_time": 1733927060,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107715,
+      "num": 284151,
+      "word": "女儿远嫁日本失联妈妈春节赴日寻女",
+      "onboard_time": 1733934497,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104521,
@@ -275,12 +283,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96684,
+      "num": 96684,
+      "word": "偶遇希林娜依高泉州簪花",
+      "onboard_time": 1733933119,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95464,
       "num": 95464,
       "word": "极越",
       "onboard_time": 1733907081,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 93699,
+      "num": 93699,
+      "word": "放生大米是浪费不是善意",
+      "onboard_time": 1733934137,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93104,
@@ -315,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84343,
-      "num": 84343,
-      "word": "放生大米是浪费不是善意",
-      "onboard_time": 1733934137,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83594,
       "num": 83594,
       "word": "央视新闻夜读",
@@ -347,12 +363,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79404,
-      "num": 83140,
-      "word": "偶遇希林娜依高泉州簪花",
-      "onboard_time": 1733933119,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 72094,
+      "num": 72094,
+      "word": "爸爸花6万给女儿买了一匹小马",
+      "onboard_time": 1733935095,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70550,
@@ -371,12 +387,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54273,
-      "num": 194721,
-      "word": "女儿远嫁日本失联妈妈春节赴日寻女",
-      "onboard_time": 1733934497,
-      "rank": 18,
+      "raw_hot": 64419,
+      "num": 64419,
+      "word": "这一句不要给他差评好暖",
+      "onboard_time": 1733934557,
+      "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57865,
+      "num": 57865,
+      "word": "王安宇 好险差点饿死",
+      "onboard_time": 1733918480,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 54246,
+      "num": 54246,
+      "word": "琼瑶最后一份礼物曝光",
+      "onboard_time": 1733921117,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 10399,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 4765,
-      "num": 524265,
+      "num": 560728,
       "word": "我的宝藏家乡",
       "onboard_time": 1733830338,
       "rank": 2,
