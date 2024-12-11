@@ -1,0 +1,410 @@
+{
+  "runTime": 1733891332504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2038776,
+        "num": 2038776,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949867,
+        "num": 949867,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21822,
+        "num": 867091,
+        "word": "国际金融界看好中国持续对外开放政策",
+        "onboard_time": 1733890762,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 795135,
+        "num": 795135,
+        "word": "澳大利亚一实验室323瓶活病毒下落不明",
+        "onboard_time": 1733889560,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 545503,
+        "num": 545503,
+        "word": "好友生日女子送50克金条遭背刺",
+        "onboard_time": 1733886080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455097,
+        "num": 455097,
+        "word": "九重紫加更",
+        "onboard_time": 1733888720,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439567,
+        "num": 439567,
+        "word": "众星送别琼瑶",
+        "onboard_time": 1733885180,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418920,
+        "num": 418920,
+        "word": "沈阳网红局长刘克斌升任副市长",
+        "onboard_time": 1733888120,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396697,
+        "num": 396697,
+        "word": "韩前防长金龙显企图在狱中自杀",
+        "onboard_time": 1733886140,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418673,
+        "num": 396212,
+        "word": "肖战实体专销量5分钟破5000万",
+        "onboard_time": 1733889799,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 2426765,
+        "num": 394189,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1480367,
+        "num": 393009,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391603,
+        "num": 391603,
+        "word": "女儿在抢救爸爸急得忘了去医院的路",
+        "onboard_time": 1733882179,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 378510,
+        "num": 378510,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369634,
+        "num": 369634,
+        "word": "虞书欣能把祝绪丹钓成翘嘴",
+        "onboard_time": 1733887640,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367461,
+        "num": 367461,
+        "word": "朱旺旺说工资没有大家想象中那么高",
+        "onboard_time": 1733877500,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1137892,
+        "num": 366252,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344653,
+        "num": 344653,
+        "word": "于正回应给琼瑶道歉",
+        "onboard_time": 1733887700,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 335549,
+        "word": "困于误用安眠药的年轻人越来越多",
+        "onboard_time": 1733890281,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40642,
+        "num": 334378,
+        "word": "百雀羚的新动作",
+        "onboard_time": 1733889861,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 524272,
+        "num": 334167,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1733887640,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333371,
+        "num": 333371,
+        "word": "恋与深空",
+        "onboard_time": 1733889380,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 320160,
+        "num": 320160,
+        "word": "肖战实体黑胶达成殿堂史诗唱片认证",
+        "onboard_time": 1733887581,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290663,
+        "num": 290663,
+        "word": "电影小小的我特此声明",
+        "onboard_time": 1733889679,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246651,
+        "num": 246651,
+        "word": "挤走3.5元泡面档口超市被要求整改",
+        "onboard_time": 1733881880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46540,
+        "num": 246548,
+        "word": "魔童哪吒都五年了",
+        "onboard_time": 1733891121,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174967,
+        "num": 246331,
+        "word": "我是刑警18年未破灭门悬案",
+        "onboard_time": 1733888960,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63186,
+        "num": 246129,
+        "word": "金玟庭新增关注",
+        "onboard_time": 1733891243,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169661,
+        "num": 245946,
+        "word": "90后中国自行车名将徐超意外去世",
+        "onboard_time": 1733890642,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21812,
+        "num": 245718,
+        "word": "换花呗敦煌皮肤接2024剩下的好运",
+        "onboard_time": 1733888541,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173084,
+        "num": 245551,
+        "word": "Beliftlab否认梁祯元恋情",
+        "onboard_time": 1733889380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101800,
+        "num": 245230,
+        "word": "李昀锐 紫啧们不要e墨了",
+        "onboard_time": 1733890943,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245142,
+        "num": 245142,
+        "word": "儿子发现离世父亲竟有3个私生子女",
+        "onboard_time": 1733846418,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236268,
+        "num": 236268,
+        "word": "台湾母女被诈骗千万后自杀",
+        "onboard_time": 1733874799,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223296,
+        "num": 223296,
+        "word": "挤走3.5元泡面档口超市老板发声",
+        "onboard_time": 1733887640,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219462,
+        "num": 219462,
+        "word": "九重紫",
+        "onboard_time": 1733889742,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212864,
+        "num": 212864,
+        "word": "两老人在河边放生大米",
+        "onboard_time": 1733887581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199446,
+        "num": 199446,
+        "word": "秦岚蒋勤勤等艺人为琼瑶花葬奉花",
+        "onboard_time": 1733885419,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26490,
+        "num": 197212,
+        "word": "Mate70高亮钛承受了太多",
+        "onboard_time": 1733889861,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150332,
+        "num": 197199,
+        "word": "张予曦机械姬造型",
+        "onboard_time": 1733891062,
+        "rank": 39,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 197196,
+        "num": 197196,
+        "word": "王者荣耀",
+        "onboard_time": 1733891000,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196064,
+        "num": 196064,
+        "word": "赵露思疑似喊话辱追粉",
+        "onboard_time": 1733878819,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194672,
+        "num": 194672,
+        "word": "马英九将率团访陆",
+        "onboard_time": 1733890343,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193642,
+        "num": 193642,
+        "word": "鞠婧祎陈都灵月鳞绮纪路透",
+        "onboard_time": 1733891180,
+        "rank": 43,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 191937,
+        "num": 191937,
+        "word": "马龙陈梦抵达挪威",
+        "onboard_time": 1733890702,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190863,
+        "num": 190863,
+        "word": "以色列男子侮辱黑人男孩被暴打",
+        "onboard_time": 1733880500,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188127,
+        "num": 188127,
+        "word": "中国女游客斯里兰卡火车摆拍时坠落",
+        "onboard_time": 1733889861,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184506,
+        "num": 184506,
+        "word": "老虎用肚子给另一只乖乖暖脚",
+        "onboard_time": 1733890221,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179701,
+        "num": 179701,
+        "word": "农村宅基地闲置一村空置率43.8%",
+        "onboard_time": 1733887220,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169442,
+        "num": 169442,
+        "word": "老吾老以及人之老在这里具象化了",
+        "onboard_time": 1733889620,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}
