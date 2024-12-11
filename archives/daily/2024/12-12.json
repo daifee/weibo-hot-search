@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733955827405,
+  "endTime": 1733956952650,
   "band_list": [
     {
       "raw_hot": 721145,
@@ -139,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 276693,
+      "num": 499895,
+      "word": "25年老员工被开除法院判赔98万",
+      "onboard_time": 1733938815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257800,
       "num": 257800,
       "word": "放生大米是浪费不是善意",
@@ -179,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177888,
+      "num": 177888,
+      "word": "女子举报丈夫边开车边看美女视频",
+      "onboard_time": 1733947812,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177468,
       "num": 177468,
       "word": "李昀锐发红包",
@@ -211,20 +227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164195,
-      "num": 381288,
-      "word": "25年老员工被开除法院判赔98万",
-      "onboard_time": 1733938815,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150213,
       "num": 150213,
       "word": "百年孤独",
       "onboard_time": 1733928920,
       "rank": 25,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 147191,
+      "num": 147191,
+      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
+      "onboard_time": 1733950391,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134904,
@@ -283,20 +299,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 119294,
-      "num": 119294,
-      "word": "女子举报丈夫边开车边看美女视频",
-      "onboard_time": 1733947812,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109684,
       "num": 109684,
       "word": "红包剧宣",
       "onboard_time": 1733927060,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106194,
+      "num": 106194,
+      "word": "以色列大举空袭叙利亚",
+      "onboard_time": 1733946672,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104521,
@@ -329,14 +345,6 @@
       "onboard_time": 1733917040,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96791,
-      "num": 96791,
-      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
-      "onboard_time": 1733950391,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96684,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85175,
+      "num": 85175,
+      "word": "蔡国强烟花秀保留无人机坠海画面",
+      "onboard_time": 1733953871,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83594,
       "num": 83594,
       "word": "央视新闻夜读",
@@ -435,14 +451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67768,
-      "num": 67768,
-      "word": "以色列大举空袭叙利亚",
-      "onboard_time": 1733946672,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64419,
       "num": 64419,
       "word": "这一句不要给他差评好暖",
@@ -475,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45476,
-      "num": 77729,
-      "word": "蔡国强烟花秀保留无人机坠海画面",
-      "onboard_time": 1733953871,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41455,
       "num": 73148,
       "word": "广东人的厚衣服要拿出来了",
@@ -499,11 +499,27 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 32163,
-      "num": 32163,
+      "raw_hot": 35237,
+      "num": 45233,
+      "word": "李昀锐有钱就是任性",
+      "onboard_time": 1733953390,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 34199,
+      "num": 34199,
       "word": "加拿大高官强调加拿大是主权国家",
       "onboard_time": 1733951051,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 31392,
+      "num": 31392,
+      "word": "武契奇回应塞尔维亚反对派挑衅",
+      "onboard_time": 1733941752,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -515,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29925,
-      "num": 29373,
-      "word": "武契奇回应塞尔维亚反对派挑衅",
-      "onboard_time": 1733941752,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 30182,
+      "num": 30182,
+      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
+      "onboard_time": 1733948170,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28402,
@@ -531,20 +547,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24596,
-      "num": 33906,
-      "word": "李昀锐有钱就是任性",
-      "onboard_time": 1733953390,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 23557,
-      "num": 23557,
-      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
-      "onboard_time": 1733948170,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 26675,
+      "num": 168643,
+      "word": "货币政策调整传递出哪些信息",
+      "onboard_time": 1733925261,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21973,
@@ -563,20 +571,20 @@
       "category": "网红,美食"
     },
     {
-      "raw_hot": 19259,
-      "num": 163919,
-      "word": "货币政策调整传递出哪些信息",
-      "onboard_time": 1733925261,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18531,
       "num": 22827,
       "word": "深圳一住宅楼爆炸消防救援力量已到场",
       "onboard_time": 1733943971,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 18262,
+      "num": 106927,
+      "word": "女班长退役前最后一次带兵训练哽咽",
+      "onboard_time": 1733955852,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18000,
@@ -609,6 +617,14 @@
       "onboard_time": 1733929100,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6513,
+      "num": 66419,
+      "word": "李昀锐打戏",
+      "onboard_time": 1733956333,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 4765,
