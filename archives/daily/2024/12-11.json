@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733886339827,
+  "endTime": 1733886885759,
   "band_list": [
     {
       "raw_hot": 3013127,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524390,
+      "num": 465412,
+      "word": "众星送别琼瑶",
+      "onboard_time": 1733885180,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491051,
       "num": 458427,
       "word": "叙利亚局势进展",
@@ -171,20 +179,20 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 429823,
+      "num": 429823,
+      "word": "秦岚蒋勤勤等艺人为琼瑶花葬奉花",
+      "onboard_time": 1733885419,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426440,
       "num": 426440,
       "word": "挤走3.5元泡面档口超市被要求整改",
       "onboard_time": 1733881880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385901,
-      "num": 465412,
-      "word": "众星送别琼瑶",
-      "onboard_time": 1733885180,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 384457,
@@ -225,14 +233,6 @@
       "onboard_time": 1733827820,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 334875,
-      "num": 334875,
-      "word": "秦岚蒋勤勤等艺人为琼瑶花葬奉花",
-      "onboard_time": 1733885419,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 332255,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 280889,
-      "num": 308333,
+      "num": 309897,
       "word": "陈晓未回应岳父去世一事",
       "onboard_time": 1733884937,
       "rank": 23,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248735,
+      "num": 248735,
+      "word": "王楚钦一身潮搭抵达长沙",
+      "onboard_time": 1733883499,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240197,
       "num": 240197,
       "word": "以军发言人否认以军接近大马士革",
@@ -316,19 +324,19 @@
     },
     {
       "raw_hot": 238915,
-      "num": 221247,
+      "num": 234740,
       "word": "台湾母女被诈骗千万后自杀",
       "onboard_time": 1733874799,
       "rank": 23,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 235694,
-      "num": 235694,
-      "word": "王楚钦一身潮搭抵达长沙",
-      "onboard_time": 1733883499,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 236503,
+      "num": 236503,
+      "word": "好友生日女子送50克金条遭背刺",
+      "onboard_time": 1733886080,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228725,
@@ -339,6 +347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226964,
+      "num": 725789,
+      "word": "韩国警方搜查总统府",
+      "onboard_time": 1733885239,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 226616,
+      "num": 226616,
+      "word": "名创优品 恋与深空",
+      "onboard_time": 1733886259,
+      "rank": 40,
+      "category": "游戏,时尚"
+    },
+    {
       "raw_hot": 220963,
       "num": 311080,
       "word": "男子用无人机拍军事禁区被判10个月",
@@ -347,20 +371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218914,
+      "num": 497633,
+      "word": "韩前防长金龙显企图在狱中自杀",
+      "onboard_time": 1733886140,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 217977,
+      "num": 217977,
+      "word": "以军摧毁叙70%以上军事力量",
+      "onboard_time": 1733882720,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211517,
       "num": 211517,
       "word": "真霸总不穿厚底鞋",
       "onboard_time": 1733847977,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "以军摧毁叙70%以上军事力量",
-      "onboard_time": 1733882720,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 202736,
@@ -443,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168407,
-      "num": 168407,
-      "word": "好友生日女子送50克金条遭背刺",
-      "onboard_time": 1733886080,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167086,
       "num": 167086,
       "word": "英伟达市值一夜蒸发6600亿元",
@@ -467,20 +491,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 166607,
+      "num": 487504,
+      "word": "叙利亚70%以上军事力量被摧毁",
+      "onboard_time": 1733885239,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 163551,
+      "num": 163551,
+      "word": "成都4名中学生组团虐猫拍视频",
+      "onboard_time": 1733885719,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 163057,
       "num": 153001,
       "word": "孔雪儿金子涵合影",
       "onboard_time": 1733838741,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162183,
-      "num": 487504,
-      "word": "叙利亚70%以上军事力量被摧毁",
-      "onboard_time": 1733885239,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159832,
@@ -539,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143950,
-      "num": 143950,
-      "word": "名创优品 恋与深空",
-      "onboard_time": 1733886259,
-      "rank": 40,
-      "category": "游戏,时尚"
-    },
-    {
       "raw_hot": 143079,
       "num": 150776,
       "word": "男子酒后殴打怀三胎孕妻致多处受伤",
@@ -555,20 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142619,
-      "num": 725789,
-      "word": "韩国警方搜查总统府",
-      "onboard_time": 1733885239,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 142381,
-      "num": 142381,
-      "word": "成都4名中学生组团虐猫拍视频",
-      "onboard_time": 1733885719,
-      "rank": 43,
-      "category": "舆论监督"
+      "raw_hot": 142423,
+      "num": 142423,
+      "word": "周黑鸭创始人回应被炸伤",
+      "onboard_time": 1733884879,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142144,
@@ -627,11 +643,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132574,
-      "num": 132574,
-      "word": "周黑鸭创始人回应被炸伤",
-      "onboard_time": 1733884879,
-      "rank": 45,
+      "raw_hot": 135186,
+      "num": 382172,
+      "word": "成都4名初中生组团虐猫",
+      "onboard_time": 1733885478,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -675,6 +691,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "黑神话获IGN年度大奖3项提名",
+      "onboard_time": 1733884278,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 122003,
+      "num": 122003,
+      "word": "丁禹兮说脱敏谨言慎行了",
+      "onboard_time": 1733883080,
+      "rank": 45,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 120972,
       "num": 120972,
       "word": "代号鸢",
@@ -691,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119029,
-      "num": 119029,
-      "word": "黑神话获IGN年度大奖3项提名",
-      "onboard_time": 1733884278,
-      "rank": 49,
-      "category": "游戏"
+      "raw_hot": 119334,
+      "num": 119334,
+      "word": "美在关岛首次弹道导弹拦截测试",
+      "onboard_time": 1733884759,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117792,
@@ -705,14 +737,6 @@
       "onboard_time": 1733846778,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117377,
-      "num": 117377,
-      "word": "丁禹兮说脱敏谨言慎行了",
-      "onboard_time": 1733883080,
-      "rank": 45,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 114257,
@@ -803,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103480,
-      "num": 382172,
-      "word": "成都4名初中生组团虐猫",
-      "onboard_time": 1733885478,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103119,
       "num": 103119,
       "word": "盘点2024大国重器惊艳时刻",
@@ -865,14 +881,6 @@
       "onboard_time": 1733838140,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93580,
-      "num": 497633,
-      "word": "韩前防长金龙显企图在狱中自杀",
-      "onboard_time": 1733886140,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 89635,
@@ -948,7 +956,7 @@
     },
     {
       "raw_hot": 59340,
-      "num": 884217,
+      "num": 917967,
       "word": "财政政策更加积极将释放更多可能性",
       "onboard_time": 1733838680,
       "rank": 2,
@@ -961,6 +969,14 @@
       "onboard_time": 1733853914,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54070,
+      "num": 384661,
+      "word": "欧阳妮妮孕肚大片",
+      "onboard_time": 1733885118,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 50860,
@@ -987,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45443,
+      "num": 120438,
+      "word": "从耳机里听到了无损的爱",
+      "onboard_time": 1733886799,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44584,
       "num": 62564,
       "word": "猎罪图鉴2 猫猫狗狗",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1733876179,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42032,
+      "num": 451640,
+      "word": "韩国国会启动国政调查权调查戒严事件",
+      "onboard_time": 1733885899,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41567,
@@ -1035,12 +1067,12 @@
       "category": "正能量,财经"
     },
     {
-      "raw_hot": 37904,
-      "num": 451640,
-      "word": "韩国国会启动国政调查权调查戒严事件",
-      "onboard_time": 1733885899,
-      "rank": 13,
-      "category": "国际时政"
+      "raw_hot": 39458,
+      "num": 437448,
+      "word": "车管所回应科目三考官与学员起冲突",
+      "onboard_time": 1733886259,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37476,
@@ -1099,20 +1131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33150,
+      "num": 382281,
+      "word": "冬季吃全鸡包香包暖的",
+      "onboard_time": 1733883859,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 33098,
       "num": 55827,
       "word": "业主在车位停玩具车被物业砸坏",
       "onboard_time": 1733842041,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32572,
-      "num": 382281,
-      "word": "冬季吃全鸡包香包暖的",
-      "onboard_time": 1733883859,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 32367,
@@ -1123,12 +1155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29065,
-      "num": 437448,
-      "word": "车管所回应科目三考官与学员起冲突",
-      "onboard_time": 1733886259,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 32056,
+      "num": 167583,
+      "word": "领克Z20快不止一点",
+      "onboard_time": 1733886381,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27730,
+      "num": 298319,
+      "word": "姆巴佩欧冠第50球",
+      "onboard_time": 1733886019,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 27490,
@@ -1163,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25216,
-      "num": 298319,
-      "word": "姆巴佩欧冠第50球",
-      "onboard_time": 1733886019,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23286,
       "num": 26864,
       "word": "鞠婧祎月鳞绮纪最新路透",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1733855951,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 21395,
-      "num": 384661,
-      "word": "欧阳妮妮孕肚大片",
-      "onboard_time": 1733885118,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 21384,
