@@ -1,7 +1,15 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733873845010,
+  "endTime": 1733881889027,
   "band_list": [
+    {
+      "raw_hot": 2250877,
+      "num": 350425,
+      "word": "陈妍希 陈晓",
+      "onboard_time": 1733878400,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1496819,
       "num": 1496819,
@@ -9,6 +17,22 @@
       "onboard_time": 1733846418,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1163364,
+      "num": 1186138,
+      "word": "朋友圈被领导点赞成认定加班证据",
+      "onboard_time": 1733879901,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1065597,
+      "num": 1065597,
+      "word": "朱旺旺说工资没有大家想象中那么高",
+      "onboard_time": 1733877500,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 899232,
@@ -35,6 +59,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732408,
+      "num": 732408,
+      "word": "女子远嫁日本失联丈夫有家暴史",
+      "onboard_time": 1733878881,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 647823,
+      "num": 349168,
+      "word": "赵露思疑似喊话辱追粉",
+      "onboard_time": 1733878819,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 637904,
+      "num": 637904,
+      "word": "琼瑶今日花葬",
+      "onboard_time": 1733875459,
+      "rank": 4,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 622544,
       "num": 622544,
       "word": "李昀锐大学女友",
@@ -51,8 +99,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481317,
-      "num": 481317,
+      "raw_hot": 553322,
+      "num": 477932,
+      "word": "SM否认金玟庭梁祯元恋情",
+      "onboard_time": 1733879359,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513289,
+      "num": 513289,
       "word": "北京天空出现三个太阳",
       "onboard_time": 1733864772,
       "rank": 9,
@@ -67,12 +123,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 391390,
+      "num": 391390,
+      "word": "叙利亚局势进展",
+      "onboard_time": 1733838020,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 380007,
+      "num": 380007,
+      "word": "学生称超市老板挤走卖3.5元泡面档口",
+      "onboard_time": 1733846717,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368178,
       "num": 214359,
       "word": "范玮琪哽咽谈过去五年经历",
       "onboard_time": 1733836761,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 367631,
+      "num": 367631,
+      "word": "虞书欣零点发文告别凌妙妙",
+      "onboard_time": 1733878760,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 363865,
+      "num": 363865,
+      "word": "以色列男子侮辱黑人男孩被暴打",
+      "onboard_time": 1733880500,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 336581,
@@ -91,20 +179,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332255,
+      "num": 332255,
+      "word": "黄河冻出了珍珠项链",
+      "onboard_time": 1733877260,
+      "rank": 13,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 325655,
       "num": 325655,
       "word": "一万七的小兰吧唧",
       "onboard_time": 1733839461,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 315270,
-      "num": 315270,
-      "word": "叙利亚局势进展",
-      "onboard_time": 1733838020,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 299964,
@@ -131,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282382,
-      "num": 282382,
-      "word": "学生称超市老板挤走卖3.5元泡面档口",
-      "onboard_time": 1733846717,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 274453,
+      "num": 221900,
+      "word": "为什么现在单身的年轻人越来越多",
+      "onboard_time": 1733878941,
+      "rank": 22,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 253194,
@@ -145,6 +233,38 @@
       "onboard_time": 1733832378,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248906,
+      "num": 248906,
+      "word": "林心如参加琼瑶告别式",
+      "onboard_time": 1733880979,
+      "rank": 16,
+      "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 241970,
+      "num": 241970,
+      "word": "我是刑警男友深山碎尸案",
+      "onboard_time": 1733880500,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 240197,
+      "num": 240197,
+      "word": "以军发言人否认以军接近大马士革",
+      "onboard_time": 1733824579,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 238915,
+      "num": 221247,
+      "word": "台湾母女被诈骗千万后自杀",
+      "onboard_time": 1733874799,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 228725,
@@ -163,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202736,
+      "num": 202736,
+      "word": "韩国警察厅厅长被逮捕",
+      "onboard_time": 1733878941,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200628,
       "num": 154039,
       "word": "九重紫",
@@ -179,12 +307,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190259,
+      "num": 228613,
+      "word": "福安承包了全国七成的按摩仪",
+      "onboard_time": 1733880500,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183116,
       "num": 153539,
       "word": "九重紫好虐",
       "onboard_time": 1733844022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179034,
+      "num": 173929,
+      "word": "做完近视眼手术后的真实感受",
+      "onboard_time": 1733840962,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174156,
+      "num": 174156,
+      "word": "权志龙 SBS歌谣大战",
+      "onboard_time": 1733880500,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170369,
+      "num": 170369,
+      "word": "叙利亚",
+      "onboard_time": 1733879120,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167086,
+      "num": 167086,
+      "word": "英伟达市值一夜蒸发6600亿元",
+      "onboard_time": 1733875939,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 166620,
@@ -195,20 +363,28 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 164053,
-      "num": 164053,
-      "word": "做完近视眼手术后的真实感受",
-      "onboard_time": 1733840962,
-      "rank": 16,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 163057,
       "num": 153001,
       "word": "孔雪儿金子涵合影",
       "onboard_time": 1733838741,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159832,
+      "num": 159832,
+      "word": "aespa上海签售疑似取消",
+      "onboard_time": 1733880859,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 157016,
+      "num": 157016,
+      "word": "男子用无人机拍军事禁区被判10个月",
+      "onboard_time": 1733880200,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156518,
@@ -224,6 +400,14 @@
       "word": "男子称19岁被舅舅安排任办公室副主任",
       "onboard_time": 1733824941,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154048,
+      "num": 154048,
+      "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
+      "onboard_time": 1733837602,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -275,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132172,
-      "num": 129517,
-      "word": "发育迟缓女孩14分钟剥橘子家人泪崩",
-      "onboard_time": 1733837602,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 137986,
+      "num": 137986,
+      "word": "孕妇惨遭丈夫家暴后又被公婆施压",
+      "onboard_time": 1733878881,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 131145,
@@ -299,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125165,
+      "num": 125165,
+      "word": "李昀锐哭戏",
+      "onboard_time": 1733880799,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123933,
       "num": 123933,
       "word": "欧阳妮妮9月孕肚大片",
@@ -307,12 +499,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120972,
+      "num": 120972,
+      "word": "代号鸢",
+      "onboard_time": 1733874137,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117792,
       "num": 117792,
       "word": "杨仕泽说柳拂衣是职业生涯重要节点",
       "onboard_time": 1733846778,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117554,
+      "num": 117554,
+      "word": "全国多地加入下雪群聊",
+      "onboard_time": 1733870233,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114257,
@@ -331,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113524,
-      "num": 126744,
-      "word": "以军发言人否认以军接近大马士革",
-      "onboard_time": 1733824579,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 112067,
+      "num": 112067,
+      "word": "科三考官将学员按在地上殴打",
+      "onboard_time": 1733878881,
+      "rank": 43,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 110105,
@@ -355,12 +563,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 108608,
+      "num": 108608,
+      "word": "微软 比特币",
+      "onboard_time": 1733880439,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107907,
       "num": 107907,
       "word": "长的漂亮但拍照不上镜的人",
       "onboard_time": 1733833339,
       "rank": 41,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 107625,
+      "num": 107625,
+      "word": "美股两连跌",
+      "onboard_time": 1733881398,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 105402,
@@ -371,12 +595,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103688,
+      "num": 103688,
+      "word": "消防员救人时冰面突然裂开",
+      "onboard_time": 1733880919,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103119,
+      "num": 103119,
+      "word": "盘点2024大国重器惊艳时刻",
+      "onboard_time": 1733880500,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
       "raw_hot": 102839,
       "num": 102839,
       "word": "李一桐 奶龙",
       "onboard_time": 1733849235,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102645,
+      "num": 278796,
+      "word": "贵州一村民家塌陷4米深坑吞噬家具",
+      "onboard_time": 1733880439,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100338,
+      "num": 100338,
+      "word": "导弹航天员等词都是钱学森命名的",
+      "onboard_time": 1733881519,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98094,
@@ -476,7 +732,7 @@
     },
     {
       "raw_hot": 59340,
-      "num": 373920,
+      "num": 749983,
       "word": "财政政策更加积极将释放更多可能性",
       "onboard_time": 1733838680,
       "rank": 2,
@@ -497,14 +753,6 @@
       "onboard_time": 1733871375,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48646,
-      "num": 76935,
-      "word": "全国多地加入下雪群聊",
-      "onboard_time": 1733870233,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47562,
@@ -537,6 +785,14 @@
       "onboard_time": 1733849055,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42709,
+      "num": 216475,
+      "word": "研招网",
+      "onboard_time": 1733876179,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 41567,
