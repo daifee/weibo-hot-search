@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733921286801,
+  "endTime": 1733922229767,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -667,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096582,
+      "num": 1096582,
+      "word": "深圳一住宅楼爆炸致1人死亡",
+      "onboard_time": 1733919918,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1092999,
       "num": 1092999,
       "word": "6旬董事长思念亡母燃放特别烟花",
@@ -769,14 +777,6 @@
       "onboard_time": 1733903303,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1009224,
-      "num": 1009224,
-      "word": "深圳一住宅楼爆炸致1人死亡",
-      "onboard_time": 1733919918,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 992520,
@@ -1419,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 723574,
+      "num": 723574,
+      "word": "孟子义又发红包了",
+      "onboard_time": 1733921900,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723281,
       "num": 723281,
       "word": "大马士革",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1733631438,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 541058,
+      "num": 206143,
+      "word": "代号鸢删女性向标签",
+      "onboard_time": 1733920999,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 538955,
@@ -3667,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316868,
+      "num": 316868,
+      "word": "王安宇 好险差点饿死",
+      "onboard_time": 1733918480,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315299,
       "num": 315299,
       "word": "中国古人21根竹简计算器能算乘方开方",
@@ -3739,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308699,
+      "num": 308699,
+      "word": "员工推算同事工资求涨薪被辞",
+      "onboard_time": 1733917882,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 308058,
       "num": 308058,
       "word": "王楚钦梁靖崑抢座位",
@@ -3771,12 +3803,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 306243,
+      "num": 306243,
+      "word": "张云雷说探清水河火了之后很懵",
+      "onboard_time": 1733916500,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305296,
       "num": 305296,
       "word": "武契奇称不会像阿萨德那样逃走",
       "onboard_time": 1733900839,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305288,
+      "num": 248443,
+      "word": "猎罪图鉴 云蒸霞蔚",
+      "onboard_time": 1733920699,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 304060,
@@ -3859,14 +3907,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 297506,
-      "num": 297506,
-      "word": "王安宇 好险差点饿死",
-      "onboard_time": 1733918480,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296844,
       "num": 296844,
       "word": "工藤新一30年唯一真身剧场版",
@@ -3945,14 +3985,6 @@
       "onboard_time": 1733824759,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 291295,
-      "num": 291295,
-      "word": "员工推算同事工资求涨薪被辞",
-      "onboard_time": 1733917882,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 291117,
@@ -4120,14 +4152,6 @@
       "word": "陈晓未回应岳父去世一事",
       "onboard_time": 1733884937,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 280684,
-      "num": 280684,
-      "word": "张云雷说探清水河火了之后很懵",
-      "onboard_time": 1733916500,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -4529,14 +4553,6 @@
       "onboard_time": 1733883499,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248443,
-      "num": 248443,
-      "word": "猎罪图鉴 云蒸霞蔚",
-      "onboard_time": 1733920699,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 248267,
@@ -5243,6 +5259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215375,
+      "num": 178350,
+      "word": "我是刑警第13个恶性大案",
+      "onboard_time": 1733920640,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214505,
       "num": 214505,
       "word": "股市",
@@ -5305,14 +5329,6 @@
       "onboard_time": 1733915059,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210981,
-      "num": 178350,
-      "word": "我是刑警第13个恶性大案",
-      "onboard_time": 1733920640,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 210938,
@@ -5457,6 +5473,14 @@
       "onboard_time": 1733829620,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206172,
+      "num": 206172,
+      "word": "为什么腰不好的年轻人越来越多了",
+      "onboard_time": 1733917040,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206144,
@@ -5675,6 +5699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200441,
+      "num": 175342,
+      "word": "冬天如何在床上正确的玩手机",
+      "onboard_time": 1733919080,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199932,
       "num": 199932,
       "word": "刘诗诗窦骁掌心下证了",
@@ -5849,14 +5881,6 @@
       "onboard_time": 1733639360,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197192,
-      "num": 175342,
-      "word": "冬天如何在床上正确的玩手机",
-      "onboard_time": 1733919080,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196953,
@@ -6595,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184282,
+      "num": 152711,
+      "word": "窦昭忍不了直接上脚",
+      "onboard_time": 1733921479,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183907,
       "num": 310508,
       "word": "专访敦煌话剧演员张艺兴",
@@ -6617,14 +6649,6 @@
       "onboard_time": 1733639598,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183095,
-      "num": 183095,
-      "word": "为什么腰不好的年轻人越来越多了",
-      "onboard_time": 1733917040,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182569,
@@ -6689,6 +6713,14 @@
       "onboard_time": 1733911520,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180690,
+      "num": 152579,
+      "word": "猎罪图鉴天坑案",
+      "onboard_time": 1733921059,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 180379,
@@ -7643,6 +7675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159312,
+      "num": 159312,
+      "word": "男子不按公司规定1天打8次卡被开除",
+      "onboard_time": 1733920999,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "如何激活社保卡的金融功能",
@@ -7673,14 +7713,6 @@
       "onboard_time": 1733899400,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158786,
-      "num": 158786,
-      "word": "代号鸢删女性向标签",
-      "onboard_time": 1733920999,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 158779,
@@ -8059,6 +8091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150815,
+      "num": 150815,
+      "word": "琼瑶最后一份礼物曝光",
+      "onboard_time": 1733921117,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150727,
       "num": 150727,
       "word": "李昀锐快乐小狗",
@@ -8345,6 +8385,14 @@
       "onboard_time": 1733814022,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144446,
+      "num": 155825,
+      "word": "深圳住宅楼爆炸事故原因正进一步调查",
+      "onboard_time": 1733922139,
+      "rank": 23,
+      "category": "辟谣/通报,国内时政"
     },
     {
       "raw_hot": 144280,
@@ -9099,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127531,
+      "num": 159034,
+      "word": "富大龙30集终于上线",
+      "onboard_time": 1733921718,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
@@ -9419,14 +9475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120016,
-      "num": 120016,
-      "word": "猎罪图鉴天坑案",
-      "onboard_time": 1733921059,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119945,
       "num": 119945,
       "word": "解读北京国安新帅加盟",
@@ -9595,14 +9643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115496,
-      "num": 115496,
-      "word": "男子不按公司规定1天打8次卡被开除",
-      "onboard_time": 1733920999,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115433,
       "num": 115433,
       "word": "重返未来1999插画集",
@@ -9737,14 +9777,6 @@
       "onboard_time": 1733724560,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 112395,
-      "num": 112395,
-      "word": "琼瑶最后一份礼物曝光",
-      "onboard_time": 1733921117,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 112369,
@@ -10163,6 +10195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100915,
+      "num": 100915,
+      "word": "新疆男篮vs辽宁男篮",
+      "onboard_time": 1733921539,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100670,
       "num": 100670,
       "word": "刘春和拿到驾照了",
@@ -10241,6 +10281,14 @@
       "onboard_time": 1733816900,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "长期被家暴看到父亲同款车就害怕",
+      "onboard_time": 1733921960,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96737,
@@ -11617,6 +11665,14 @@
       "onboard_time": 1733804960,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53305,
+      "num": 158288,
+      "word": "成毅时装男士十二月封面",
+      "onboard_time": 1733921778,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 53304,
@@ -13800,6 +13856,14 @@
       "word": "UFC310",
       "onboard_time": 1733663903,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10877,
+      "num": 155404,
+      "word": "WTT优先购票问题声明",
+      "onboard_time": 1733921661,
+      "rank": 24,
       "category": "体育"
     },
     {

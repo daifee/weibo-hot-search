@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733921286801,
+  "endTime": 1733922229767,
   "band_list": [
     {
       "raw_hot": 11695394,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1096582,
+      "num": 1096582,
+      "word": "深圳一住宅楼爆炸致1人死亡",
+      "onboard_time": 1733919918,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1089057,
       "num": 257423,
       "word": "深圳住宅楼爆炸事故目击者发声",
@@ -161,14 +169,6 @@
       "onboard_time": 1733903303,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1009224,
-      "num": 1009224,
-      "word": "深圳一住宅楼爆炸致1人死亡",
-      "onboard_time": 1733919918,
-      "rank": 1,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 938693,
@@ -249,6 +249,14 @@
       "onboard_time": 1733878881,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 723574,
+      "num": 723574,
+      "word": "孟子义又发红包了",
+      "onboard_time": 1733921900,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 689953,
@@ -369,6 +377,14 @@
       "onboard_time": 1733886080,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541058,
+      "num": 206143,
+      "word": "代号鸢删女性向标签",
+      "onboard_time": 1733920999,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 538907,
@@ -739,12 +755,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316868,
+      "num": 316868,
+      "word": "王安宇 好险差点饿死",
+      "onboard_time": 1733918480,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308699,
+      "num": 308699,
+      "word": "员工推算同事工资求涨薪被辞",
+      "onboard_time": 1733917882,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 306243,
+      "num": 306243,
+      "word": "张云雷说探清水河火了之后很懵",
+      "onboard_time": 1733916500,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305296,
       "num": 305296,
       "word": "武契奇称不会像阿萨德那样逃走",
       "onboard_time": 1733900839,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305288,
+      "num": 248443,
+      "word": "猎罪图鉴 云蒸霞蔚",
+      "onboard_time": 1733920699,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 299964,
@@ -761,14 +809,6 @@
       "onboard_time": 1733837300,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297506,
-      "num": 297506,
-      "word": "王安宇 好险差点饿死",
-      "onboard_time": 1733918480,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 296844,
@@ -793,14 +833,6 @@
       "onboard_time": 1733903303,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291295,
-      "num": 291295,
-      "word": "员工推算同事工资求涨薪被辞",
-      "onboard_time": 1733917882,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 290663,
@@ -843,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283870,
+      "num": 278494,
+      "word": "代号鸢",
+      "onboard_time": 1733874137,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282028,
       "num": 293607,
       "word": "官方介入调查深圳湾爆炸事件",
@@ -857,22 +897,6 @@
       "onboard_time": 1733884937,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280684,
-      "num": 280684,
-      "word": "张云雷说探清水河火了之后很懵",
-      "onboard_time": 1733916500,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278494,
-      "num": 278494,
-      "word": "代号鸢",
-      "onboard_time": 1733874137,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 274776,
@@ -945,14 +969,6 @@
       "onboard_time": 1733883499,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 248443,
-      "num": 248443,
-      "word": "猎罪图鉴 云蒸霞蔚",
-      "onboard_time": 1733920699,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 248267,
@@ -1147,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215375,
+      "num": 178350,
+      "word": "我是刑警第13个恶性大案",
+      "onboard_time": 1733920640,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211517,
       "num": 211517,
       "word": "真霸总不穿厚底鞋",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1733915059,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210981,
-      "num": 178350,
-      "word": "我是刑警第13个恶性大案",
-      "onboard_time": 1733920640,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 210498,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1733916200,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 206172,
+      "num": 206172,
+      "word": "为什么腰不好的年轻人越来越多了",
+      "onboard_time": 1733917040,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205536,
@@ -1267,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200441,
+      "num": 175342,
+      "word": "冬天如何在床上正确的玩手机",
+      "onboard_time": 1733919080,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199619,
       "num": 199619,
       "word": "iPhone16设计被质疑不合乔布斯理念",
@@ -1281,14 +1313,6 @@
       "onboard_time": 1733887220,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197192,
-      "num": 175342,
-      "word": "冬天如何在床上正确的玩手机",
-      "onboard_time": 1733919080,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196255,
@@ -1443,6 +1467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184282,
+      "num": 152711,
+      "word": "窦昭忍不了直接上脚",
+      "onboard_time": 1733921479,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183116,
       "num": 153539,
       "word": "九重紫好虐",
@@ -1451,20 +1483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183095,
-      "num": 183095,
-      "word": "为什么腰不好的年轻人越来越多了",
-      "onboard_time": 1733917040,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180843,
       "num": 252305,
       "word": "湖南卫视跨年版换乘恋爱",
       "onboard_time": 1733911520,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180690,
+      "num": 152579,
+      "word": "猎罪图鉴天坑案",
+      "onboard_time": 1733921059,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 179034,
@@ -1739,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159312,
+      "num": 159312,
+      "word": "男子不按公司规定1天打8次卡被开除",
+      "onboard_time": 1733920999,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "如何激活社保卡的金融功能",
@@ -1761,14 +1801,6 @@
       "onboard_time": 1733899400,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158786,
-      "num": 158786,
-      "word": "代号鸢删女性向标签",
-      "onboard_time": 1733920999,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 158258,
@@ -1867,6 +1899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 150815,
+      "num": 150815,
+      "word": "琼瑶最后一份礼物曝光",
+      "onboard_time": 1733921117,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150291,
       "num": 210811,
       "word": "周黑鸭创始人称可能会留疤",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1733895140,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144446,
+      "num": 155825,
+      "word": "深圳住宅楼爆炸事故原因正进一步调查",
+      "onboard_time": 1733922139,
+      "rank": 23,
+      "category": "辟谣/通报,国内时政"
     },
     {
       "raw_hot": 143079,
@@ -2139,6 +2187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127531,
+      "num": 159034,
+      "word": "富大龙30集终于上线",
+      "onboard_time": 1733921718,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126857,
       "num": 126857,
       "word": "科三考官将学员按在地上殴打",
@@ -2251,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120016,
-      "num": 120016,
-      "word": "猎罪图鉴天坑案",
-      "onboard_time": 1733921059,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119350,
       "num": 252983,
       "word": "2024LPL全明星节目单",
@@ -2339,14 +2387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115496,
-      "num": 115496,
-      "word": "男子不按公司规定1天打8次卡被开除",
-      "onboard_time": 1733920999,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114545,
       "num": 114545,
       "word": "琼瑶家属发文感谢大家送行琼瑶",
@@ -2392,14 +2432,6 @@
       "word": "中山美穗死因意外溺水",
       "onboard_time": 1733917882,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112395,
-      "num": 112395,
-      "word": "琼瑶最后一份礼物曝光",
-      "onboard_time": 1733921117,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2531,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100915,
+      "num": 100915,
+      "word": "新疆男篮vs辽宁男篮",
+      "onboard_time": 1733921539,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100338,
       "num": 100338,
       "word": "导弹航天员等词都是钱学森命名的",
@@ -2561,6 +2601,14 @@
       "onboard_time": 1733833399,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "长期被家暴看到父亲同款车就害怕",
+      "onboard_time": 1733921960,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96052,
@@ -2865,6 +2913,14 @@
       "onboard_time": 1733885118,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53305,
+      "num": 158288,
+      "word": "成毅时装男士十二月封面",
+      "onboard_time": 1733921778,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 53114,
@@ -3579,6 +3635,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 10877,
+      "num": 155404,
+      "word": "WTT优先购票问题声明",
+      "onboard_time": 1733921661,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9254,
       "num": 138957,
       "word": "马天宇一个人演了部动物世界",
@@ -3593,6 +3657,14 @@
       "onboard_time": 1733886200,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2074,
+      "num": 754103,
+      "word": "人民日报中国经济年度观察",
+      "onboard_time": 1733719761,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
