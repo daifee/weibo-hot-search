@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733886885759,
+  "endTime": 1733889003887,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -65,6 +65,14 @@
       "onboard_time": 1733662760,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2801940,
+      "num": 712066,
+      "word": "张若昀开车多次违章",
+      "onboard_time": 1733887640,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2774352,
@@ -825,6 +833,14 @@
       "onboard_time": 1733805619,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 880021,
+      "num": 338375,
+      "word": "陈晓醉酒站不稳",
+      "onboard_time": 1733888541,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 877002,
@@ -1916,7 +1932,7 @@
     },
     {
       "raw_hot": 524390,
-      "num": 465412,
+      "num": 514472,
       "word": "众星送别琼瑶",
       "onboard_time": 1733885180,
       "rank": 11,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1733713099,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 511382,
+      "num": 511382,
+      "word": "韩前防长金龙显企图在狱中自杀",
+      "onboard_time": 1733886140,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508632,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1733654358,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471368,
+      "num": 471368,
+      "word": "好友生日女子送50克金条遭背刺",
+      "onboard_time": 1733886080,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467416,
@@ -2587,6 +2619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405260,
+      "num": 405260,
+      "word": "于正回应给琼瑶道歉",
+      "onboard_time": 1733887700,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404234,
       "num": 309841,
       "word": "范玮琪回来了",
@@ -2657,6 +2697,14 @@
       "onboard_time": 1733582662,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388899,
+      "num": 314611,
+      "word": "肖战实体黑胶达成殿堂史诗唱片认证",
+      "onboard_time": 1733887581,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 384457,
@@ -2763,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365387,
+      "num": 298049,
+      "word": "成本36元一锅做了10个菜",
+      "onboard_time": 1733887640,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365214,
       "num": 674405,
       "word": "我家那小子",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1733717899,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355884,
+      "num": 288381,
+      "word": "名创优品 恋与深空",
+      "onboard_time": 1733886259,
+      "rank": 40,
+      "category": "游戏,时尚"
     },
     {
       "raw_hot": 355440,
@@ -3731,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257805,
+      "num": 725789,
+      "word": "韩国警方搜查总统府",
+      "onboard_time": 1733885239,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257066,
       "num": 257066,
       "word": "莎头谈半决赛表现",
@@ -3947,6 +4019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 246799,
+      "num": 246799,
+      "word": "九重紫加更",
+      "onboard_time": 1733888720,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245892,
       "num": 255731,
       "word": "武艺还是拿不明白蛋糕",
@@ -4147,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238158,
+      "num": 238158,
+      "word": "沈阳网红局长刘克斌升任副市长",
+      "onboard_time": 1733888120,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237620,
       "num": 237620,
       "word": "张小斐陈昊宇 你俩反思一下",
@@ -4185,14 +4273,6 @@
       "onboard_time": 1733795959,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 236503,
-      "num": 236503,
-      "word": "好友生日女子送50克金条遭背刺",
-      "onboard_time": 1733886080,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 235869,
@@ -4267,6 +4347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231077,
+      "num": 231077,
+      "word": "挤走3.5元泡面档口超市老板发声",
+      "onboard_time": 1733887640,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230166,
       "num": 230166,
       "word": "华伦天奴活动",
@@ -4291,28 +4379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226964,
-      "num": 725789,
-      "word": "韩国警方搜查总统府",
-      "onboard_time": 1733885239,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "98年员工抗议额外增加工作后遭辞退",
       "onboard_time": 1733723960,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226616,
-      "num": 226616,
-      "word": "名创优品 恋与深空",
-      "onboard_time": 1733886259,
-      "rank": 40,
-      "category": "游戏,时尚"
     },
     {
       "raw_hot": 226486,
@@ -4337,6 +4409,14 @@
       "onboard_time": 1733806760,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225582,
+      "num": 225582,
+      "word": "虞书欣能把祝绪丹钓成翘嘴",
+      "onboard_time": 1733887640,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 225393,
@@ -4465,14 +4545,6 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218914,
-      "num": 497633,
-      "word": "韩前防长金龙显企图在狱中自杀",
-      "onboard_time": 1733886140,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 217977,
@@ -4891,6 +4963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198909,
+      "num": 410179,
+      "word": "农村宅基地闲置一村空置率43.8%",
+      "onboard_time": 1733887220,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "赵一博遇人不熟开机应援",
@@ -5097,6 +5177,14 @@
       "onboard_time": 1733742621,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194363,
+      "num": 194363,
+      "word": "水利局回应老人在河边放生大米",
+      "onboard_time": 1733883439,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194148,
@@ -5635,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183157,
+      "num": 183157,
+      "word": "两老人在河边放生大米",
+      "onboard_time": 1733887581,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182569,
       "num": 316164,
       "word": "周子瑜应用心理学硕士",
@@ -5689,14 +5785,6 @@
       "onboard_time": 1733752879,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180456,
-      "num": 180456,
-      "word": "水利局回应老人在河边放生大米",
-      "onboard_time": 1733883439,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180379,
@@ -5777,6 +5865,14 @@
       "onboard_time": 1733718501,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 177814,
+      "num": 177814,
+      "word": "汉堡王 恋与制作人",
+      "onboard_time": 1733887940,
+      "rank": 41,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 176632,
@@ -5923,6 +6019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173238,
+      "num": 487504,
+      "word": "叙利亚70%以上军事力量被摧毁",
+      "onboard_time": 1733885239,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173225,
       "num": 173225,
       "word": "eStar对战WB",
@@ -6025,6 +6129,14 @@
       "onboard_time": 1733671759,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170264,
+      "num": 170264,
+      "word": "电影假爸爸定档",
+      "onboard_time": 1733888780,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 170205,
@@ -6163,20 +6275,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 166607,
-      "num": 487504,
-      "word": "叙利亚70%以上军事力量被摧毁",
-      "onboard_time": 1733885239,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 166505,
       "num": 166505,
       "word": "九重紫男女主先蛐蛐后亲亲",
       "onboard_time": 1733624360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166490,
+      "num": 337617,
+      "word": "仰天大笑出门去 我辈岂是蓬蒿人",
+      "onboard_time": 1733887581,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 166186,
@@ -6409,6 +6521,14 @@
       "onboard_time": 1733724860,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159916,
+      "num": 159916,
+      "word": "马嘉祺说因为你们开心他也会开心",
+      "onboard_time": 1733888060,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159832,
@@ -6856,6 +6976,14 @@
       "word": "窦昭离过婚的人就是不一样",
       "onboard_time": 1733714660,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148846,
+      "num": 148846,
+      "word": "我是刑警18年未破灭门悬案",
+      "onboard_time": 1733888960,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -9539,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61749,
+      "num": 317631,
+      "word": "灿烂的风和海芭莎澳门大片",
+      "onboard_time": 1733887640,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 61716,
       "num": 62612,
       "word": "黑神话悟空终于有地图功能了",
@@ -10003,6 +10139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 47698,
+      "num": 338431,
+      "word": "国台办悼念琼瑶",
+      "onboard_time": 1733888300,
+      "rank": 14,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 46944,
       "num": 284715,
       "word": "曝大学食堂档口拒涨价被威胁后关门",
@@ -10108,7 +10252,7 @@
     },
     {
       "raw_hot": 45443,
-      "num": 120438,
+      "num": 249691,
       "word": "从耳机里听到了无损的爱",
       "onboard_time": 1733886799,
       "rank": 47,
@@ -10692,7 +10836,7 @@
     },
     {
       "raw_hot": 32056,
-      "num": 167583,
+      "num": 326314,
       "word": "领克Z20快不止一点",
       "onboard_time": 1733886381,
       "rank": 37,
@@ -11377,6 +11521,14 @@
       "onboard_time": 1733603050,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15226,
+      "num": 227168,
+      "word": "换花呗敦煌皮肤接2024剩下的好运",
+      "onboard_time": 1733888541,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 15220,
