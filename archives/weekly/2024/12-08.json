@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733895682420,
+  "endTime": 1733898840630,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -473,6 +473,14 @@
       "onboard_time": 1733798657,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1275114,
+      "num": 1275114,
+      "word": "女子明知军婚仍破坏获刑1年半",
+      "onboard_time": 1733894180,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1266795,
@@ -1163,6 +1171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 761490,
+      "num": 300722,
+      "word": "10年前卫生巾长度",
+      "onboard_time": 1733895321,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 760231,
       "num": 760231,
       "word": "员工误开紫光灯致地板寿命减10年",
@@ -1699,6 +1715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595514,
+      "num": 595514,
+      "word": "虹膜写真尽量别公开展示",
+      "onboard_time": 1733893339,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593842,
+      "num": 286924,
+      "word": "王蔷张浩领证",
+      "onboard_time": 1733895979,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591701,
       "num": 591701,
       "word": "高校学生买7件演出服穿完集体退货",
@@ -1937,14 +1969,6 @@
       "onboard_time": 1733758579,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 534060,
-      "num": 534060,
-      "word": "虹膜写真尽量别公开展示",
-      "onboard_time": 1733893339,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 533676,
@@ -2523,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439284,
+      "num": 439284,
+      "word": "迪丽热巴又用漂亮脸蛋在唱山歌",
+      "onboard_time": 1733895799,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "刘诗诗celine全球品牌大使",
@@ -2699,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404560,
+      "num": 404560,
+      "word": "被外籍留学生猥亵的女子发声",
+      "onboard_time": 1733892202,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 404234,
       "num": 309841,
       "word": "范玮琪回来了",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1733610552,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403687,
-      "num": 388161,
-      "word": "被外籍留学生猥亵的女子发声",
-      "onboard_time": 1733892202,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 403637,
@@ -2801,14 +2833,6 @@
       "onboard_time": 1733887581,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 387516,
-      "num": 387516,
-      "word": "女子明知军婚仍破坏获刑1年半",
-      "onboard_time": 1733894180,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 384457,
@@ -3403,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312962,
+      "num": 312962,
+      "word": "琼瑶告别式照片红色衣装浅浅微笑",
+      "onboard_time": 1733897479,
+      "rank": 9,
+      "category": "艺人,读书作家"
+    },
+    {
       "raw_hot": 312430,
       "num": 312430,
       "word": "王楚钦孙颖莎vs约内斯库斯佐科斯",
@@ -3643,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288055,
+      "num": 389187,
+      "word": "周海媚去世一周年",
+      "onboard_time": 1733895140,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286277,
       "num": 286277,
       "word": "小杨哥被冻结51万股权",
@@ -3769,14 +3809,6 @@
       "onboard_time": 1733735483,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270169,
-      "num": 389187,
-      "word": "周海媚去世一周年",
-      "onboard_time": 1733895140,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 269801,
@@ -3915,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259250,
+      "num": 287142,
+      "word": "肖战黑胶销量",
+      "onboard_time": 1733894180,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 258438,
       "num": 258438,
       "word": "肖战素衣束发",
@@ -4017,14 +4057,6 @@
       "onboard_time": 1733651359,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251853,
-      "num": 220044,
-      "word": "10年前卫生巾长度",
-      "onboard_time": 1733895321,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 251348,
@@ -4497,14 +4529,6 @@
       "onboard_time": 1733730258,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 229667,
-      "num": 229667,
-      "word": "肖战黑胶销量",
-      "onboard_time": 1733894180,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 228725,
@@ -6691,20 +6715,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 162942,
+      "num": 285753,
+      "word": "台湾演员林照雄去世",
+      "onboard_time": 1733897839,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162849,
+      "num": 309296,
+      "word": "在酒店偷拍卖视频被判10年",
+      "onboard_time": 1733893581,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 162817,
       "num": 162817,
       "word": "赵丽颖白日焰火记录",
       "onboard_time": 1733730560,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162676,
-      "num": 162676,
-      "word": "在酒店偷拍卖视频被判10年",
-      "onboard_time": 1733893581,
-      "rank": 47,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 162606,
@@ -6937,6 +6969,14 @@
       "onboard_time": 1733734880,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 157091,
+      "num": 387579,
+      "word": "朱星杰说周彦辰是天生唱跳圣体",
+      "onboard_time": 1733893640,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 156971,
@@ -7787,6 +7827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136922,
+      "num": 136922,
+      "word": "董宇辉说以前差点去车企上班",
+      "onboard_time": 1733896279,
+      "rank": 31,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 136399,
       "num": 137842,
       "word": "凤凰组合年度最佳混双",
@@ -7841,6 +7889,14 @@
       "onboard_time": 1733648179,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135994,
+      "num": 135994,
+      "word": "乌男子逃兵役用猫暖身奇迹存活",
+      "onboard_time": 1733895738,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135626,
@@ -7931,6 +7987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133200,
+      "num": 133200,
+      "word": "琼瑶家属称后续会公布花葬位置",
+      "onboard_time": 1733896399,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133179,
       "num": 114152,
       "word": "赵丽颖",
@@ -7961,14 +8025,6 @@
       "onboard_time": 1733800819,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 132147,
-      "num": 387579,
-      "word": "朱星杰说周彦辰是天生唱跳圣体",
-      "onboard_time": 1733893640,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 131312,
@@ -8235,6 +8291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123661,
+      "num": 123661,
+      "word": "考研最后10天还能做什么",
+      "onboard_time": 1733897659,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123511,
       "num": 123511,
       "word": "实探胖东来对代购出手首日",
@@ -8275,6 +8339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 122416,
+      "num": 122416,
+      "word": "陈建斌蒋勤勤为琼瑶写挽联",
+      "onboard_time": 1733897059,
+      "rank": 41,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 122046,
       "num": 122046,
       "word": "黑神话获IGN年度大奖3项提名",
@@ -8313,6 +8385,14 @@
       "onboard_time": 1733634440,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120900,
+      "num": 132810,
+      "word": "徐明浩晒腹肌",
+      "onboard_time": 1733897720,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 120685,
@@ -8667,6 +8747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108862,
+      "num": 108862,
+      "word": "县长先把自己变网红又让小城火出圈",
+      "onboard_time": 1733898799,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108608,
       "num": 108608,
       "word": "微软 比特币",
@@ -8723,6 +8811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107335,
+      "num": 107335,
+      "word": "成都虐猫中学生停课反省",
+      "onboard_time": 1733898681,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 107235,
       "num": 69227,
       "word": "张艺兴此身分明了",
@@ -8737,6 +8833,14 @@
       "onboard_time": 1733839762,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 107161,
+      "num": 107161,
+      "word": "文在寅说应尽快确立韩国代总统人选",
+      "onboard_time": 1733898739,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107136,
@@ -8912,6 +9016,14 @@
       "word": "孟子义训狗",
       "onboard_time": 1733743401,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101753,
+      "num": 144153,
+      "word": "郑业成 这就是武生的微表情控制吗",
+      "onboard_time": 1733896219,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -9411,6 +9523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83297,
+      "num": 132850,
+      "word": "神秘的东方力量都是老祖宗严选",
+      "onboard_time": 1733897299,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82585,
       "num": 306029,
       "word": "碧昂丝老公被指性侵13岁女孩",
@@ -9611,12 +9731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76814,
+      "num": 283873,
+      "word": "王源回应小小年纪就被考古",
+      "onboard_time": 1733897958,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76657,
       "num": 266443,
       "word": "JDG官宣Xun加入",
       "onboard_time": 1733730200,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76263,
+      "num": 282067,
+      "word": "女子租村屋车停院子让交过路费",
+      "onboard_time": 1733896999,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76065,
@@ -11763,6 +11899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18964,
+      "num": 293371,
+      "word": "直播间珠宝鉴定证书办一张5元",
+      "onboard_time": 1733898681,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 18865,
       "num": 225871,
       "word": "韩国创业板指日内重挫5%",
@@ -12019,6 +12163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14617,
+      "num": 159875,
+      "word": "苏翊鸣在成都飞檐走壁",
+      "onboard_time": 1733895380,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14572,
       "num": 18081,
       "word": "动画穿越宝藏家乡的春夏秋冬",
@@ -12123,6 +12275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12346,
+      "num": 102121,
+      "word": "高空跳伞是什么感觉",
+      "onboard_time": 1733898020,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 12337,
       "num": 523542,
       "word": "重案实录刑侦剧的魅力",
@@ -12187,6 +12347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 9746,
+      "num": 98065,
+      "word": "苏翊鸣当了阿迪达斯的甲方",
+      "onboard_time": 1733898799,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9582,
       "num": 28640,
       "word": "老头杯",
@@ -12233,14 +12401,6 @@
       "onboard_time": 1733689332,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7980,
-      "num": 159875,
-      "word": "苏翊鸣在成都飞檐走壁",
-      "onboard_time": 1733895380,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 7689,

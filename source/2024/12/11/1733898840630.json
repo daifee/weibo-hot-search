@@ -1,0 +1,410 @@
+{
+  "runTime": 1733898840630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275114,
+        "num": 1275114,
+        "word": "女子明知军婚仍破坏获刑1年半",
+        "onboard_time": 1733894180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 843421,
+        "num": 843421,
+        "word": "淘宝回应网友12块捡漏宝马车",
+        "onboard_time": 1733893042,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20782,
+        "num": 661827,
+        "word": "国际金融界看好中国持续对外开放政策",
+        "onboard_time": 1733890762,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 595514,
+        "num": 595514,
+        "word": "虹膜写真尽量别公开展示",
+        "onboard_time": 1733893339,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439284,
+        "num": 439284,
+        "word": "迪丽热巴又用漂亮脸蛋在唱山歌",
+        "onboard_time": 1733895799,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1007563,
+        "num": 438965,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437337,
+        "num": 437337,
+        "word": "澳大利亚一实验室323瓶活病毒下落不明",
+        "onboard_time": 1733889560,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404560,
+        "num": 404560,
+        "word": "被外籍留学生猥亵的女子发声",
+        "onboard_time": 1733892202,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 397284,
+        "num": 397284,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312962,
+        "num": 312962,
+        "word": "琼瑶告别式照片红色衣装浅浅微笑",
+        "onboard_time": 1733897479,
+        "rank": 9,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 162849,
+        "num": 309296,
+        "word": "在酒店偷拍卖视频被判10年",
+        "onboard_time": 1733893581,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 761490,
+        "num": 300722,
+        "word": "10年前卫生巾长度",
+        "onboard_time": 1733895321,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 693951,
+        "num": 295825,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18964,
+        "num": 293371,
+        "word": "直播间珠宝鉴定证书办一张5元",
+        "onboard_time": 1733898681,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 288055,
+        "num": 288055,
+        "word": "周海媚去世一周年",
+        "onboard_time": 1733895140,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259250,
+        "num": 287142,
+        "word": "肖战黑胶销量",
+        "onboard_time": 1733894180,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 593842,
+        "num": 286924,
+        "word": "王蔷张浩领证",
+        "onboard_time": 1733895979,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162942,
+        "num": 285753,
+        "word": "台湾演员林照雄去世",
+        "onboard_time": 1733897839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76814,
+        "num": 283873,
+        "word": "王源回应小小年纪就被考古",
+        "onboard_time": 1733897958,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298568,
+        "num": 283312,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76263,
+        "num": 282067,
+        "word": "女子租村屋车停院子让交过路费",
+        "onboard_time": 1733896999,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1074320,
+        "num": 280808,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585627,
+        "num": 280044,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175406,
+        "num": 279090,
+        "word": "李昀锐 紫啧们不要e墨了",
+        "onboard_time": 1733890943,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278456,
+        "num": 278456,
+        "word": "两老人在河边放生大米",
+        "onboard_time": 1733887581,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209760,
+        "num": 209760,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1733887640,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158385,
+        "num": 158385,
+        "word": "王楚钦首登男单年终世一",
+        "onboard_time": 1733892562,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157091,
+        "num": 157091,
+        "word": "朱星杰说周彦辰是天生唱跳圣体",
+        "onboard_time": 1733893640,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148147,
+        "num": 148147,
+        "word": "樊振东大满贯战绩高浓度点亮长沙",
+        "onboard_time": 1733895321,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101753,
+        "num": 144153,
+        "word": "郑业成 这就是武生的微表情控制吗",
+        "onboard_time": 1733896219,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140824,
+        "num": 140824,
+        "word": "大侦探",
+        "onboard_time": 1733891842,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "董宇辉说以前差点去车企上班",
+        "onboard_time": 1733896279,
+        "rank": 31,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 135994,
+        "num": 135994,
+        "word": "乌男子逃兵役用猫暖身奇迹存活",
+        "onboard_time": 1733895738,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133200,
+        "num": 133200,
+        "word": "琼瑶家属称后续会公布花葬位置",
+        "onboard_time": 1733896399,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83297,
+        "num": 132850,
+        "word": "神秘的东方力量都是老祖宗严选",
+        "onboard_time": 1733897299,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120900,
+        "num": 132810,
+        "word": "徐明浩晒腹肌",
+        "onboard_time": 1733897720,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132796,
+        "num": 132796,
+        "word": "王者首次传说皮肤投票",
+        "onboard_time": 1733892922,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132626,
+        "num": 132626,
+        "word": "中国女游客斯里兰卡火车摆拍时坠落",
+        "onboard_time": 1733889861,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130282,
+        "num": 130282,
+        "word": "九重紫加更",
+        "onboard_time": 1733888720,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126266,
+        "num": 126266,
+        "word": "朱旺旺说工资没有大家想象中那么高",
+        "onboard_time": 1733877500,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123661,
+        "num": 123661,
+        "word": "考研最后10天还能做什么",
+        "onboard_time": 1733897659,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122416,
+        "num": 122416,
+        "word": "陈建斌蒋勤勤为琼瑶写挽联",
+        "onboard_time": 1733897059,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 114342,
+        "num": 114342,
+        "word": "赵今麦刘浩存最新MiuMiu大片",
+        "onboard_time": 1733891422,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110623,
+        "num": 110623,
+        "word": "肖战实体专销量5分钟破5000万",
+        "onboard_time": 1733889799,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108862,
+        "num": 108862,
+        "word": "县长先把自己变网红又让小城火出圈",
+        "onboard_time": 1733898799,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107335,
+        "num": 107335,
+        "word": "成都虐猫中学生停课反省",
+        "onboard_time": 1733898681,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14617,
+        "num": 107229,
+        "word": "苏翊鸣在成都飞檐走壁",
+        "onboard_time": 1733895380,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107161,
+        "num": 107161,
+        "word": "文在寅说应尽快确立韩国代总统人选",
+        "onboard_time": 1733898739,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12346,
+        "num": 102121,
+        "word": "高空跳伞是什么感觉",
+        "onboard_time": 1733898020,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 9746,
+        "num": 98065,
+        "word": "苏翊鸣当了阿迪达斯的甲方",
+        "onboard_time": 1733898799,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}
