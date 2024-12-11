@@ -1,7 +1,15 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733901902934,
+  "endTime": 1733902684304,
   "band_list": [
+    {
+      "raw_hot": 7060366,
+      "num": 329940,
+      "word": "深圳湾爆炸",
+      "onboard_time": 1733901500,
+      "rank": 10,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 3013127,
       "num": 3013127,
@@ -25,14 +33,6 @@
       "onboard_time": 1733878400,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1688384,
-      "num": 329940,
-      "word": "深圳湾爆炸",
-      "onboard_time": 1733901500,
-      "rank": 10,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1520011,
@@ -96,6 +96,14 @@
       "word": "淘宝回应网友12块捡漏宝马车",
       "onboard_time": 1733893042,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 938693,
+      "num": 327995,
+      "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
+      "onboard_time": 1733900839,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 543684,
-      "num": 327995,
-      "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
-      "onboard_time": 1733900839,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 538907,
       "num": 334167,
       "word": "成本36元一锅做了10个菜",
@@ -353,6 +353,14 @@
       "onboard_time": 1733881880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 417879,
+      "num": 342621,
+      "word": "猎罪图鉴2养小鬼剧情",
+      "onboard_time": 1733900298,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 405260,
@@ -489,14 +497,6 @@
       "onboard_time": 1733839461,
       "rank": 7,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 325157,
-      "num": 325157,
-      "word": "猎罪图鉴2养小鬼剧情",
-      "onboard_time": 1733900298,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 299964,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228470,
+      "num": 253602,
+      "word": "肖战设计师的浪漫",
+      "onboard_time": 1733901439,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 227060,
       "num": 227060,
       "word": "如鸢",
@@ -731,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208213,
+      "num": 208213,
+      "word": "金价三连涨",
+      "onboard_time": 1733899039,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207319,
       "num": 207319,
       "word": "孙颖莎蝉联女单年终世一",
       "onboard_time": 1733892143,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206603,
-      "num": 206603,
-      "word": "金价三连涨",
-      "onboard_time": 1733899039,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 205536,
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 192587,
-      "num": 192587,
+      "num": 288614,
       "word": "武契奇称不会像阿萨德那样逃走",
       "onboard_time": 1733900839,
       "rank": 35,
@@ -843,12 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191080,
-      "num": 253602,
-      "word": "肖战设计师的浪漫",
-      "onboard_time": 1733901439,
-      "rank": 27,
-      "category": "音乐"
+      "raw_hot": 190794,
+      "num": 212286,
+      "word": "檀健次说不要为爱举起屠刀",
+      "onboard_time": 1733902100,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 190726,
@@ -1019,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167234,
+      "num": 167234,
+      "word": "成都虐猫中学生停课反省",
+      "onboard_time": 1733898681,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 167086,
       "num": 167086,
       "word": "英伟达市值一夜蒸发6600亿元",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1733887581,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164854,
-      "num": 164854,
-      "word": "成都虐猫中学生停课反省",
-      "onboard_time": 1733898681,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 163551,
@@ -1089,6 +1097,14 @@
       "onboard_time": 1733880859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159154,
+      "num": 159154,
+      "word": "如何激活社保卡的金融功能",
+      "onboard_time": 1733901919,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 159100,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1733899400,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152887,
+      "num": 326402,
+      "word": "养老院欠费数十位老人遭断水断电",
+      "onboard_time": 1733900660,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 152872,
@@ -1347,14 +1371,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 132106,
-      "num": 326402,
-      "word": "养老院欠费数十位老人遭断水断电",
-      "onboard_time": 1733900660,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 131145,
       "num": 131145,
       "word": "徐海乔真演短剧男主了",
@@ -1363,7 +1379,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127633,
+      "raw_hot": 128930,
       "num": 347219,
       "word": "文在寅说应尽快确立韩国代总统人选",
       "onboard_time": 1733898739,
@@ -1627,11 +1643,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96052,
+      "num": 291242,
+      "word": "黄子佼判决书公开",
+      "onboard_time": 1733900959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93923,
       "num": 93923,
       "word": "财政局报案称被人诈骗近三千万元",
       "onboard_time": 1733838140,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92497,
+      "num": 210811,
+      "word": "周黑鸭创始人称可能会留疤",
+      "onboard_time": 1733900000,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1675,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84563,
+      "num": 215864,
+      "word": "瓦尔德内尔接机马龙",
+      "onboard_time": 1733902520,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83583,
       "num": 83583,
       "word": "谢楠晒吴老二侧脸照",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1733897299,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77522,
+      "num": 239263,
+      "word": "嫌疑人去派出所开无犯罪证明被秒抓",
+      "onboard_time": 1733900899,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76814,
@@ -1723,12 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71373,
-      "num": 239263,
-      "word": "嫌疑人去派出所开无犯罪证明被秒抓",
-      "onboard_time": 1733900899,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 71266,
+      "num": 286709,
+      "word": "猎罪图鉴2好哭",
+      "onboard_time": 1733901799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 70824,
@@ -1939,14 +1987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38932,
-      "num": 286709,
-      "word": "猎罪图鉴2好哭",
-      "onboard_time": 1733901799,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38172,
       "num": 344285,
       "word": "直播间珠宝鉴定证书办一张5元",
@@ -2089,14 +2129,6 @@
       "onboard_time": 1733890762,
       "rank": 2,
       "category": "财经"
-    },
-    {
-      "raw_hot": 29526,
-      "num": 291242,
-      "word": "黄子佼判决书公开",
-      "onboard_time": 1733900959,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 28619,

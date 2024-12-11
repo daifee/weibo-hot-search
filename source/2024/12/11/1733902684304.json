@@ -1,0 +1,410 @@
+{
+  "runTime": 1733902684304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1244936,
+        "num": 1244936,
+        "word": "女子明知军婚仍破坏获刑1年半",
+        "onboard_time": 1733894180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404798,
+        "num": 404798,
+        "word": "10年前卫生巾长度",
+        "onboard_time": 1733895321,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21950,
+        "num": 343996,
+        "word": "国际金融界看好中国持续对外开放政策",
+        "onboard_time": 1733890762,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417879,
+        "num": 342621,
+        "word": "猎罪图鉴2养小鬼剧情",
+        "onboard_time": 1733900298,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340492,
+        "num": 340492,
+        "word": "虹膜写真尽量别公开展示",
+        "onboard_time": 1733893339,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410764,
+        "num": 335718,
+        "word": "周黑鸭创始人被卡磁炉炸伤",
+        "onboard_time": 1733884278,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317107,
+        "num": 317107,
+        "word": "琼瑶告别式照片红色衣装浅浅微笑",
+        "onboard_time": 1733897479,
+        "rank": 6,
+        "category": "艺人,读书作家"
+      },
+      {
+        "raw_hot": 313842,
+        "num": 313842,
+        "word": "澳大利亚一实验室323瓶活病毒下落不明",
+        "onboard_time": 1733889560,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187562,
+        "num": 288614,
+        "word": "武契奇称不会像阿萨德那样逃走",
+        "onboard_time": 1733900839,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280891,
+        "num": 280891,
+        "word": "陈龙吼完章龄之默默抹眼泪",
+        "onboard_time": 1733899400,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7060366,
+        "num": 278785,
+        "word": "深圳湾爆炸",
+        "onboard_time": 1733901500,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 938693,
+        "num": 277571,
+        "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
+        "onboard_time": 1733900839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566984,
+        "num": 275327,
+        "word": "陈妍希 陈晓",
+        "onboard_time": 1733878400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283175,
+        "num": 272875,
+        "word": "王蔷张浩领证",
+        "onboard_time": 1733895979,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271776,
+        "num": 271776,
+        "word": "迪丽热巴又用漂亮脸蛋在唱山歌",
+        "onboard_time": 1733895799,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51253,
+        "num": 251908,
+        "word": "特别调查团已进入韩联合参谋本部",
+        "onboard_time": 1733900719,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240691,
+        "num": 240691,
+        "word": "张若昀没案硬探",
+        "onboard_time": 1733900600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228470,
+        "num": 228470,
+        "word": "肖战设计师的浪漫",
+        "onboard_time": 1733901439,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 71266,
+        "num": 228464,
+        "word": "猎罪图鉴2好哭",
+        "onboard_time": 1733901799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270586,
+        "num": 228366,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1733838020,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 469705,
+        "num": 228223,
+        "word": "陈晓醉酒站不稳",
+        "onboard_time": 1733888541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794579,
+        "num": 228207,
+        "word": "张若昀开车多次违章",
+        "onboard_time": 1733887640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228122,
+        "num": 228122,
+        "word": "朋友圈被领导点赞成认定加班证据",
+        "onboard_time": 1733879901,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96052,
+        "num": 218832,
+        "word": "黄子佼判决书公开",
+        "onboard_time": 1733900959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84563,
+        "num": 215864,
+        "word": "瓦尔德内尔接机马龙",
+        "onboard_time": 1733902520,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213415,
+        "num": 213415,
+        "word": "赵丽颖始终是那个赵丽颖",
+        "onboard_time": 1733899340,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190794,
+        "num": 212286,
+        "word": "檀健次说不要为爱举起屠刀",
+        "onboard_time": 1733902100,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168905,
+        "num": 211907,
+        "word": "肖战黑胶销量",
+        "onboard_time": 1733894180,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92497,
+        "num": 210811,
+        "word": "周黑鸭创始人称可能会留疤",
+        "onboard_time": 1733900000,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77522,
+        "num": 208884,
+        "word": "嫌疑人去派出所开无犯罪证明被秒抓",
+        "onboard_time": 1733900899,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208213,
+        "num": 208213,
+        "word": "金价三连涨",
+        "onboard_time": 1733899039,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193803,
+        "num": 193803,
+        "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
+        "onboard_time": 1733899218,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167234,
+        "num": 167234,
+        "word": "成都虐猫中学生停课反省",
+        "onboard_time": 1733898681,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161107,
+        "num": 161107,
+        "word": "淘宝回应网友12块捡漏宝马车",
+        "onboard_time": 1733893042,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "如何激活社保卡的金融功能",
+        "onboard_time": 1733901919,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153352,
+        "num": 153352,
+        "word": "成本36元一锅做了10个菜",
+        "onboard_time": 1733887640,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152887,
+        "num": 152887,
+        "word": "养老院欠费数十位老人遭断水断电",
+        "onboard_time": 1733900660,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 148022,
+        "word": "郑钦文当选年度ACE女王",
+        "onboard_time": 1733899639,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146551,
+        "num": 146551,
+        "word": "台湾演员林照雄去世",
+        "onboard_time": 1733897839,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146277,
+        "num": 146277,
+        "word": "林工宋莹在以法之名重逢了",
+        "onboard_time": 1733901199,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145253,
+        "num": 145253,
+        "word": "石宇奇2比1乔纳坦",
+        "onboard_time": 1733901319,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164121,
+        "num": 145099,
+        "word": "被外籍留学生猥亵的女子发声",
+        "onboard_time": 1733892202,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 81567,
+        "num": 144914,
+        "word": "2024最佳电竞战队运营",
+        "onboard_time": 1733901020,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144890,
+        "num": 144890,
+        "word": "王楚钦梁靖崑开心炫饭",
+        "onboard_time": 1733899700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143958,
+        "num": 143958,
+        "word": "秦海璐猎罪图鉴2出场镜头",
+        "onboard_time": 1733899819,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133927,
+        "num": 133927,
+        "word": "县长先把自己变网红又让小城火出圈",
+        "onboard_time": 1733898799,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131995,
+        "num": 131995,
+        "word": "周海媚去世一周年",
+        "onboard_time": 1733895140,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 131184,
+        "word": "朱开说对Daeny没好感",
+        "onboard_time": 1733900000,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128930,
+        "num": 128930,
+        "word": "文在寅说应尽快确立韩国代总统人选",
+        "onboard_time": 1733898739,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126015,
+        "num": 126015,
+        "word": "两老人在河边放生大米",
+        "onboard_time": 1733887581,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领中国经济航船破浪前行#"
+    }
+  }
+}

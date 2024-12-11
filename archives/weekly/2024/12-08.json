@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733901902934,
+  "endTime": 1733902684304,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -9,6 +9,14 @@
       "onboard_time": 1733808740,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 7060366,
+      "num": 329940,
+      "word": "深圳湾爆炸",
+      "onboard_time": 1733901500,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 6070403,
@@ -185,14 +193,6 @@
       "onboard_time": 1733744840,
       "rank": 1,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1688384,
-      "num": 329940,
-      "word": "深圳湾爆炸",
-      "onboard_time": 1733901500,
-      "rank": 10,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1673433,
@@ -769,6 +769,14 @@
       "onboard_time": 1733646618,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 938693,
+      "num": 327995,
+      "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
+      "onboard_time": 1733900839,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 936638,
@@ -1923,14 +1931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 543684,
-      "num": 327995,
-      "word": "狗宝宝被压死流浪狗坚持每日报复汽车",
-      "onboard_time": 1733900839,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 542852,
       "num": 508831,
       "word": "尖叫之夜导播别嗑了",
@@ -2707,6 +2707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 417879,
+      "num": 342621,
+      "word": "猎罪图鉴2养小鬼剧情",
+      "onboard_time": 1733900298,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414884,
       "num": 414884,
       "word": "从陕西被拐30岁麻省理工博士寻亲",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1733641519,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 325157,
-      "num": 325157,
-      "word": "猎罪图鉴2养小鬼剧情",
-      "onboard_time": 1733900298,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 323822,
@@ -4587,6 +4587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228470,
+      "num": 253602,
+      "word": "肖战设计师的浪漫",
+      "onboard_time": 1733901439,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 228237,
       "num": 228237,
       "word": "孟子义李昀锐小姨小姨夫文学",
@@ -4939,6 +4947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208213,
+      "num": 208213,
+      "word": "金价三连涨",
+      "onboard_time": 1733899039,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207731,
       "num": 236060,
       "word": "昭昭墨墨终有一抱",
@@ -4985,14 +5001,6 @@
       "onboard_time": 1733733438,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206603,
-      "num": 206603,
-      "word": "金价三连涨",
-      "onboard_time": 1733899039,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 206198,
@@ -5604,7 +5612,7 @@
     },
     {
       "raw_hot": 192587,
-      "num": 192587,
+      "num": 288614,
       "word": "武契奇称不会像阿萨德那样逃走",
       "onboard_time": 1733900839,
       "rank": 35,
@@ -5667,14 +5675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191080,
-      "num": 253602,
-      "word": "肖战设计师的浪漫",
-      "onboard_time": 1733901439,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 190981,
       "num": 190981,
       "word": "肖战我们实体专配置",
@@ -5705,6 +5705,14 @@
       "onboard_time": 1733614274,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190794,
+      "num": 212286,
+      "word": "檀健次说不要为爱举起屠刀",
+      "onboard_time": 1733902100,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 190726,
@@ -6651,6 +6659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167234,
+      "num": 167234,
+      "word": "成都虐猫中学生停课反省",
+      "onboard_time": 1733898681,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 167226,
       "num": 475544,
       "word": "古偶剧的流量密码为什么失灵了",
@@ -6769,14 +6785,6 @@
       "onboard_time": 1733652859,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164854,
-      "num": 164854,
-      "word": "成都虐猫中学生停课反省",
-      "onboard_time": 1733898681,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 164755,
@@ -7001,6 +7009,14 @@
       "onboard_time": 1733823379,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159154,
+      "num": 159154,
+      "word": "如何激活社保卡的金融功能",
+      "onboard_time": 1733901919,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 159103,
@@ -7305,6 +7321,14 @@
       "onboard_time": 1733816180,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152887,
+      "num": 326402,
+      "word": "养老院欠费数十位老人遭断水断电",
+      "onboard_time": 1733900660,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 152677,
@@ -8219,14 +8243,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132106,
-      "num": 326402,
-      "word": "养老院欠费数十位老人遭断水断电",
-      "onboard_time": 1733900660,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 131312,
       "num": 500596,
       "word": "中方回应叙利亚局势发展",
@@ -8315,6 +8331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128930,
+      "num": 347219,
+      "word": "文在寅说应尽快确立韩国代总统人选",
+      "onboard_time": 1733898739,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128600,
       "num": 319514,
       "word": "叙利亚总理表示向反对派伸出友好之手",
@@ -8329,14 +8353,6 @@
       "onboard_time": 1733673619,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127633,
-      "num": 347219,
-      "word": "文在寅说应尽快确立韩国代总统人选",
-      "onboard_time": 1733898739,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126982,
@@ -9347,6 +9363,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 96052,
+      "num": 291242,
+      "word": "黄子佼判决书公开",
+      "onboard_time": 1733900959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95957,
       "num": 288446,
       "word": "丞磊方取证",
@@ -9457,6 +9481,14 @@
       "onboard_time": 1733736321,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92497,
+      "num": 210811,
+      "word": "周黑鸭创始人称可能会留疤",
+      "onboard_time": 1733900000,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92475,
@@ -9625,6 +9657,14 @@
       "onboard_time": 1733812639,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84563,
+      "num": 215864,
+      "word": "瓦尔德内尔接机马龙",
+      "onboard_time": 1733902520,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 84441,
@@ -9899,6 +9939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77522,
+      "num": 239263,
+      "word": "嫌疑人去派出所开无犯罪证明被秒抓",
+      "onboard_time": 1733900899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77414,
       "num": 483889,
       "word": "文咏珊 做演员的幸福感关乎变化",
@@ -10059,12 +10107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71373,
-      "num": 239263,
-      "word": "嫌疑人去派出所开无犯罪证明被秒抓",
-      "onboard_time": 1733900899,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 71266,
+      "num": 286709,
+      "word": "猎罪图鉴2好哭",
+      "onboard_time": 1733901799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 71060,
@@ -11203,14 +11251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38932,
-      "num": 286709,
-      "word": "猎罪图鉴2好哭",
-      "onboard_time": 1733901799,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38172,
       "num": 344285,
       "word": "直播间珠宝鉴定证书办一张5元",
@@ -11705,14 +11745,6 @@
       "onboard_time": 1733662340,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29526,
-      "num": 291242,
-      "word": "黄子佼判决书公开",
-      "onboard_time": 1733900959,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 29479,
