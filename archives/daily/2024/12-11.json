@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733913880204,
+  "endTime": 1733916033799,
   "band_list": [
     {
       "raw_hot": 11695394,
@@ -387,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 477742,
+      "num": 239265,
+      "word": "深圳住宅爆炸事发瞬间画面曝光",
+      "onboard_time": 1733912720,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 476975,
       "num": 476975,
       "word": "陈龙吼完章龄之默默抹眼泪",
@@ -443,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 417979,
+      "num": 417979,
+      "word": "李昀锐 二月红前来求药",
+      "onboard_time": 1733911581,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417879,
       "num": 342621,
       "word": "猎罪图鉴2养小鬼剧情",
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415978,
-      "num": 415978,
-      "word": "李昀锐 二月红前来求药",
-      "onboard_time": 1733911581,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 417436,
+      "num": 281912,
+      "word": "爆炸住宅对面人士称感到明显冲击波",
+      "onboard_time": 1733912720,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 405260,
@@ -643,6 +659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 324122,
+      "num": 324122,
+      "word": "首批养老专业毕业生遭疯抢",
+      "onboard_time": 1733911640,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 318961,
       "num": 318961,
       "word": "百年孤独开播",
@@ -739,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281912,
-      "num": 281912,
-      "word": "爆炸住宅对面人士称感到明显冲击波",
-      "onboard_time": 1733912720,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 280889,
       "num": 309897,
       "word": "陈晓未回应岳父去世一事",
@@ -761,14 +777,6 @@
       "onboard_time": 1733878941,
       "rank": 22,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 267371,
-      "num": 239265,
-      "word": "深圳住宅爆炸事发瞬间画面曝光",
-      "onboard_time": 1733912720,
-      "rank": 49,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 267165,
@@ -801,14 +809,6 @@
       "onboard_time": 1733885239,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 254657,
-      "num": 281847,
-      "word": "首批养老专业毕业生遭疯抢",
-      "onboard_time": 1733911640,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 253743,
@@ -939,6 +939,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227344,
+      "num": 206171,
+      "word": "婆家为娶儿媳花近70万女方消失了",
+      "onboard_time": 1733914880,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227060,
       "num": 227060,
       "word": "如鸢",
@@ -1019,20 +1027,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217686,
+      "num": 217686,
+      "word": "韩国总统办公室警卫处与搜查人员对峙",
+      "onboard_time": 1733910740,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 217361,
+      "num": 237479,
+      "word": "陈晓名下工作室仅1家存续",
+      "onboard_time": 1733911461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211517,
       "num": 211517,
       "word": "真霸总不穿厚底鞋",
       "onboard_time": 1733847977,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211346,
-      "num": 211346,
-      "word": "韩国总统办公室警卫处与搜查人员对峙",
-      "onboard_time": 1733910740,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210498,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1733899039,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207767,
+      "num": 251148,
+      "word": "虞书欣孟子义成毅不同的走红方式",
+      "onboard_time": 1733913320,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207629,
@@ -1259,6 +1283,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187996,
+      "num": 172814,
+      "word": "EP战胜成都AG",
+      "onboard_time": 1733915300,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 186473,
+      "num": 186473,
+      "word": "徐嘉余孙杨进行对抗训练",
+      "onboard_time": 1733915059,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186062,
       "num": 186062,
       "word": "林工宋莹在以法之名重逢了",
@@ -1395,6 +1435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171735,
+      "num": 171735,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1733915419,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170264,
       "num": 170264,
       "word": "电影假爸爸定档",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1733887581,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166093,
+      "num": 176431,
+      "word": "第五人格",
+      "onboard_time": 1733915180,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 164184,
@@ -1625,6 +1681,14 @@
       "onboard_time": 1733842640,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152710,
+      "num": 152710,
+      "word": "王曼昱好帅",
+      "onboard_time": 1733915780,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 152008,
@@ -1899,6 +1963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128025,
+      "num": 128025,
+      "word": "鞠婧祎陈都灵同款白衣造型",
+      "onboard_time": 1733914041,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126857,
       "num": 126857,
       "word": "科三考官将学员按在地上殴打",
@@ -2011,6 +2083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119132,
+      "num": 249623,
+      "word": "P遗照黑粉公开向张艺兴致歉",
+      "onboard_time": 1733913499,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118108,
       "num": 118108,
       "word": "认不出这是甜茶",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1733906319,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114545,
+      "num": 114545,
+      "word": "琼瑶家属发文感谢大家送行琼瑶",
+      "onboard_time": 1733915659,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 114510,
@@ -2065,6 +2153,14 @@
       "onboard_time": 1733909181,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111814,
+      "num": 111814,
+      "word": "蔡依林新专辑明年春天见",
+      "onboard_time": 1733913979,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 111601,
@@ -2129,6 +2225,14 @@
       "onboard_time": 1733842461,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104165,
+      "num": 104165,
+      "word": "平阴县政府9.24亿卖天背后",
+      "onboard_time": 1733914761,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 103688,
@@ -2499,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55818,
+      "num": 248330,
+      "word": "MiuMiu女孩",
+      "onboard_time": 1733912181,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 54070,
       "num": 384661,
       "word": "欧阳妮妮孕肚大片",
@@ -2515,14 +2627,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 53059,
-      "num": 237479,
-      "word": "陈晓名下工作室仅1家存续",
-      "onboard_time": 1733911461,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50860,
       "num": 62430,
       "word": "易烊千玺谈影视快餐文化",
@@ -2536,6 +2640,14 @@
       "word": "民选黑马剧出第二部的含金量",
       "onboard_time": 1733912600,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 48103,
+      "num": 181249,
+      "word": "这么多年了高启强还是不愿意报案",
+      "onboard_time": 1733915719,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -2569,6 +2681,14 @@
       "onboard_time": 1733891121,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 46188,
+      "num": 179222,
+      "word": "倪妮曾决定减少曝光",
+      "onboard_time": 1733914460,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 45443,
@@ -2707,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36770,
+      "num": 175642,
+      "word": "覃海洋100蛙第二晋级半决赛",
+      "onboard_time": 1733915300,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36200,
       "num": 132281,
       "word": "不是只有打人才算家暴",
@@ -2777,14 +2905,6 @@
       "onboard_time": 1733892261,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33739,
-      "num": 251148,
-      "word": "虞书欣孟子义成毅不同的走红方式",
-      "onboard_time": 1733913320,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33598,
@@ -2939,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22738,
-      "num": 248330,
-      "word": "MiuMiu女孩",
-      "onboard_time": 1733912181,
-      "rank": 31,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 22641,
       "num": 22641,
       "word": "张泽禹舞蹈cover",
@@ -3025,14 +3137,6 @@
       "onboard_time": 1733909419,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18773,
-      "num": 249623,
-      "word": "P遗照黑粉公开向张艺兴致歉",
-      "onboard_time": 1733913499,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 18591,
