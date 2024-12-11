@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733910025020,
+  "endTime": 1733912775541,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -489,6 +489,14 @@
       "onboard_time": 1733246655,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2052279,
+      "num": 348035,
+      "word": "徐艺洋卖水晶被网友吐槽贵",
+      "onboard_time": 1733908821,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 2048513,
@@ -3291,14 +3299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 800750,
-      "num": 348035,
-      "word": "徐艺洋卖水晶被网友吐槽贵",
-      "onboard_time": 1733908821,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 797337,
       "num": 797337,
       "word": "母女二人拒不让座被乘警带走",
@@ -5065,6 +5065,14 @@
       "onboard_time": 1733831899,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 587248,
+      "num": 406415,
+      "word": "深圳大楼起火事件有人员坠楼",
+      "onboard_time": 1733911640,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 583573,
@@ -8683,6 +8691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377544,
+      "num": 377544,
+      "word": "李昀锐 二月红前来求药",
+      "onboard_time": 1733911581,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377233,
       "num": 377233,
       "word": "孙颖莎安排小孩哥捡球",
@@ -9033,6 +9049,14 @@
       "onboard_time": 1733476702,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359400,
+      "num": 225980,
+      "word": "在鹤岗全款3万70平米的家",
+      "onboard_time": 1733910740,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 359264,
@@ -9873,6 +9897,14 @@
       "onboard_time": 1733128099,
       "rank": 38,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 328186,
+      "num": 277874,
+      "word": "幼儿园厕所现偷拍摄像头园长被抓",
+      "onboard_time": 1733909181,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 328183,
@@ -11851,6 +11883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261412,
+      "num": 220696,
+      "word": "医生眼里真正的生冷食物",
+      "onboard_time": 1733911341,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 261225,
       "num": 261225,
       "word": "80%胃癌与幽门螺杆菌有关",
@@ -12587,6 +12627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243938,
+      "num": 334573,
+      "word": "量子芯片突破致比特币暴跌23万人爆仓",
+      "onboard_time": 1733908941,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 243622,
       "num": 243622,
       "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
@@ -13275,14 +13323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231601,
-      "num": 334573,
-      "word": "量子芯片突破致比特币暴跌23万人爆仓",
-      "onboard_time": 1733908941,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 231336,
       "num": 231336,
       "word": "韩国资产全线跳水",
@@ -13425,14 +13465,6 @@
       "onboard_time": 1733324724,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 229114,
-      "num": 253606,
-      "word": "幼儿园厕所现偷拍摄像头园长被抓",
-      "onboard_time": 1733909181,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228802,
@@ -13819,6 +13851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223685,
+      "num": 216661,
+      "word": "妈妈为管叛逆儿子辞职回乡创业爆火",
+      "onboard_time": 1733911700,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223675,
       "num": 223675,
       "word": "女子怀疑被偷拍男子称如没有砸你手机",
@@ -13985,6 +14025,14 @@
       "onboard_time": 1733056699,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 221102,
+      "num": 221102,
+      "word": "以为王星越穿越了",
+      "onboard_time": 1733912299,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 221090,
@@ -14537,6 +14585,14 @@
       "onboard_time": 1733300069,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 211346,
+      "num": 211346,
+      "word": "韩国总统办公室警卫处与搜查人员对峙",
+      "onboard_time": 1733910740,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 210938,
@@ -15699,6 +15755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199619,
+      "num": 199619,
+      "word": "iPhone16设计被质疑不合乔布斯理念",
+      "onboard_time": 1733910681,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199447,
       "num": 178833,
       "word": "新音",
@@ -16793,6 +16857,14 @@
       "onboard_time": 1733395100,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191070,
+      "num": 191070,
+      "word": "九重紫叶祖新返场",
+      "onboard_time": 1733912481,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 191023,
@@ -18099,6 +18171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 180843,
+      "num": 232794,
+      "word": "湖南卫视跨年版换乘恋爱",
+      "onboard_time": 1733911520,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180728,
       "num": 180728,
       "word": "肖战入围APMA华语地区最佳男歌手",
@@ -18449,6 +18529,14 @@
       "onboard_time": 1733466199,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176834,
+      "num": 281847,
+      "word": "首批养老专业毕业生遭疯抢",
+      "onboard_time": 1733911640,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 176703,
@@ -18857,6 +18945,14 @@
       "onboard_time": 1733901319,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173758,
+      "num": 173758,
+      "word": "爆炸住宅对面人士称感到明显冲击波",
+      "onboard_time": 1733912720,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 173663,
@@ -19379,6 +19475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 169379,
+      "num": 169379,
+      "word": "樊振东萌宝出街",
+      "onboard_time": 1733910200,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169224,
       "num": 169224,
       "word": "胖东来正研究过度代购解决方法",
@@ -19624,6 +19728,14 @@
       "word": "刘宇宁又双叒要在江苏卫视跨年了",
       "onboard_time": 1733231360,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167099,
+      "num": 167099,
+      "word": "鹭卓炒菜 赵小童脸走了一万步",
+      "onboard_time": 1733911041,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -20035,6 +20147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164184,
+      "num": 221452,
+      "word": "42岁coser博主抗癌成功",
+      "onboard_time": 1733909062,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 163782,
       "num": 163782,
       "word": "孟子义艾特李昀锐",
@@ -20233,6 +20353,14 @@
       "onboard_time": 1733629398,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162044,
+      "num": 162044,
+      "word": "逆水寒手游 剑网3",
+      "onboard_time": 1733909900,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 161981,
@@ -20921,6 +21049,14 @@
       "onboard_time": 1733714598,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156857,
+      "num": 156857,
+      "word": "沈月不参加星光大赏",
+      "onboard_time": 1733911880,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 156718,
@@ -22185,6 +22321,14 @@
       "onboard_time": 1733152580,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146969,
+      "num": 146969,
+      "word": "深圳住宅爆炸事发瞬间画面曝光",
+      "onboard_time": 1733912720,
+      "rank": 49,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 146913,
@@ -26091,14 +26235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116036,
-      "num": 116036,
-      "word": "逆水寒手游 剑网3",
-      "onboard_time": 1733909900,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 115626,
       "num": 145213,
       "word": "鞠婧祎陈都灵月鳞绮纪逆应援",
@@ -27569,6 +27705,14 @@
       "onboard_time": 1733518752,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101001,
+      "num": 227965,
+      "word": "琼瑶花葬仪式结束",
+      "onboard_time": 1733910921,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 100819,
@@ -29241,6 +29385,14 @@
       "onboard_time": 1733037618,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82243,
+      "num": 239675,
+      "word": "枪杀美公司CEO嫌疑人被捕后激动发声",
+      "onboard_time": 1733911761,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82227,
@@ -32251,6 +32403,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 53059,
+      "num": 237479,
+      "word": "陈晓名下工作室仅1家存续",
+      "onboard_time": 1733911461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53047,
       "num": 345650,
       "word": "国乒混团五连胜",
@@ -32625,6 +32785,14 @@
       "onboard_time": 1733207300,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 50197,
+      "num": 219300,
+      "word": "民选黑马剧出第二部的含金量",
+      "onboard_time": 1733912600,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 50175,
@@ -33339,6 +33507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 44509,
+      "num": 243727,
+      "word": "王君馨晒孕肚照",
+      "onboard_time": 1733903421,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44470,
       "num": 348274,
       "word": "农村留守老人试着抱团养老",
@@ -33779,6 +33955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 41166,
+      "num": 907395,
+      "word": "财政金融加力促经济回稳",
+      "onboard_time": 1733907740,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41106,
       "num": 62507,
       "word": "亚特兰大vs皇马",
@@ -34128,6 +34312,14 @@
       "word": "曼联vs埃弗顿",
       "onboard_time": 1733073614,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38326,
+      "num": 213050,
+      "word": "唐钱婷100蛙第三晋级半决赛",
+      "onboard_time": 1733912240,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -35219,6 +35411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31849,
+      "num": 235456,
+      "word": "李蠕蠕演我易错过体质",
+      "onboard_time": 1733911939,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31836,
       "num": 52404,
       "word": "邬善 洋葱精",
@@ -35497,14 +35697,6 @@
       "onboard_time": 1733231059,
       "rank": 38,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 30322,
-      "num": 907395,
-      "word": "财政金融加力促经济回稳",
-      "onboard_time": 1733907740,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30297,
@@ -36459,14 +36651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23645,
-      "num": 221452,
-      "word": "42岁coser博主抗癌成功",
-      "onboard_time": 1733909062,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 23581,
       "num": 26897,
       "word": "赵露思发文宣传蜀锦人家",
@@ -36705,6 +36889,14 @@
       "onboard_time": 1733490619,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22078,
+      "num": 214747,
+      "word": "MiuMiu女孩",
+      "onboard_time": 1733912181,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 22019,
@@ -38249,6 +38441,14 @@
       "onboard_time": 1733255771,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12875,
+      "num": 212138,
+      "word": "范伟黑色幽默大片",
+      "onboard_time": 1733911820,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12808,
