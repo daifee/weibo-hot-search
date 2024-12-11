@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733959404880,
+  "endTime": 1733960256846,
   "band_list": [
     {
       "raw_hot": 721145,
@@ -51,6 +51,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500420,
+      "num": 897584,
+      "word": "25年老员工被开除法院判赔98万",
+      "onboard_time": 1733938815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482483,
+      "num": 482483,
+      "word": "女子举报丈夫边开车边看美女视频",
+      "onboard_time": 1733947812,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471772,
       "num": 328426,
       "word": "代号鸢删女性向标签",
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 470651,
-      "num": 189121,
+      "num": 223865,
       "word": "徐艺洋卖水晶被网友吐槽贵",
       "onboard_time": 1733908821,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 455279,
-      "num": 781247,
-      "word": "25年老员工被开除法院判赔98万",
-      "onboard_time": 1733938815,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412823,
@@ -91,12 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372174,
-      "num": 372174,
-      "word": "女子举报丈夫边开车边看美女视频",
-      "onboard_time": 1733947812,
-      "rank": 24,
+      "raw_hot": 391080,
+      "num": 391080,
+      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
+      "onboard_time": 1733950391,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387968,
+      "num": 260743,
+      "word": "运动瘦和饿瘦的区别",
+      "onboard_time": 1733959395,
+      "rank": 10,
+      "category": "运动健身"
     },
     {
       "raw_hot": 369049,
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315080,
-      "num": 315080,
-      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
-      "onboard_time": 1733950391,
+      "raw_hot": 320390,
+      "num": 260500,
+      "word": "马嘉祺",
+      "onboard_time": 1733958916,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 304148,
@@ -163,6 +179,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 264171,
+      "num": 260259,
+      "word": "发现了长款羽绒服的新穿法",
+      "onboard_time": 1733959395,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 261402,
+      "num": 261402,
+      "word": "九重紫出轨男女变纯爱男女",
+      "onboard_time": 1733926760,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 260130,
+      "num": 260130,
+      "word": "被遗弃路边女婴已被家长接回家",
+      "onboard_time": 1733938815,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257800,
       "num": 257800,
       "word": "放生大米是浪费不是善意",
@@ -171,19 +211,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252377,
+      "num": 252377,
+      "word": "陈晓名下工作室仅1家存续",
+      "onboard_time": 1733911461,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250297,
-      "num": 118117,
+      "num": 223817,
       "word": "爸爸花6万给女儿买了一匹小马",
       "onboard_time": 1733935095,
       "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226166,
-      "num": 226166,
-      "word": "被遗弃路边女婴已被家长接回家",
-      "onboard_time": 1733938815,
-      "rank": 1,
+      "raw_hot": 224979,
+      "num": 224979,
+      "word": "疑似超市老板称儿子清华读研不作解释",
+      "onboard_time": 1733923039,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -195,44 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204993,
-      "num": 204993,
-      "word": "九重紫出轨男女变纯爱男女",
-      "onboard_time": 1733926760,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 204081,
-      "num": 204081,
-      "word": "疑似超市老板称儿子清华读研不作解释",
-      "onboard_time": 1733923039,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191888,
-      "num": 191888,
-      "word": "陈晓名下工作室仅1家存续",
-      "onboard_time": 1733911461,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188158,
       "num": 188158,
       "word": "员工推算同事工资求涨薪被辞",
       "onboard_time": 1733917882,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 182536,
-      "num": 193994,
-      "word": "马嘉祺",
-      "onboard_time": 1733958916,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 180086,
@@ -259,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177355,
+      "num": 180339,
+      "word": "叙利亚战火纷飞民众生活陷入恐惧",
+      "onboard_time": 1733958616,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155034,
+      "num": 250431,
+      "word": "审判琼瑶的真的看懂她的书了么",
+      "onboard_time": 1733957054,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150213,
       "num": 150213,
       "word": "百年孤独",
@@ -275,11 +307,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134941,
-      "num": 134941,
-      "word": "审判琼瑶的真的看懂她的书了么",
-      "onboard_time": 1733957054,
-      "rank": 17,
+      "raw_hot": 137793,
+      "num": 137793,
+      "word": "纳指首次升破2万点",
+      "onboard_time": 1733960116,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 136287,
+      "num": 244327,
+      "word": "疑似吴千语怀孕",
+      "onboard_time": 1733959455,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -289,6 +329,22 @@
       "onboard_time": 1733929759,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134628,
+      "num": 134628,
+      "word": "放生大米事件涉事老人回应",
+      "onboard_time": 1733930899,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131502,
+      "num": 131502,
+      "word": "Yagao说不打了",
+      "onboard_time": 1733960116,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 130537,
@@ -315,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127509,
+      "num": 261099,
+      "word": "2024余额已不足20天",
+      "onboard_time": 1733959637,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123581,
       "num": 123581,
       "word": "叙利亚大马士革解除宵禁",
@@ -323,12 +387,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121533,
-      "num": 121533,
-      "word": "放生大米事件涉事老人回应",
-      "onboard_time": 1733930899,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 120510,
+      "num": 120510,
+      "word": "极越",
+      "onboard_time": 1733907081,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 119976,
@@ -337,6 +401,22 @@
       "onboard_time": 1733919080,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119069,
+      "num": 119069,
+      "word": "深圳湾爆炸",
+      "onboard_time": 1733959695,
+      "rank": 33,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 115133,
+      "num": 115133,
+      "word": "远嫁日本失联一年女子母亲发声",
+      "onboard_time": 1733958255,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109755,
@@ -379,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102728,
+      "num": 102728,
+      "word": "38岁全职妈妈干跑腿成重庆女单王",
+      "onboard_time": 1733957416,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97442,
       "num": 97442,
       "word": "为什么腰不好的年轻人越来越多了",
@@ -395,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95464,
-      "num": 95464,
-      "word": "极越",
-      "onboard_time": 1733907081,
-      "rank": 38,
-      "category": "汽车"
+      "raw_hot": 95114,
+      "num": 95114,
+      "word": "马斯克成身家超4000亿美元全球第一人",
+      "onboard_time": 1733960116,
+      "rank": 42,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 93104,
@@ -428,7 +516,7 @@
     },
     {
       "raw_hot": 86303,
-      "num": 91485,
+      "num": 123263,
       "word": "网传星光大赏出席嘉宾名单",
       "onboard_time": 1733939234,
       "rank": 8,
@@ -451,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83706,
+      "num": 101961,
+      "word": "徐艺洋回应右脸拍照",
+      "onboard_time": 1733957893,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83594,
       "num": 83594,
       "word": "央视新闻夜读",
@@ -467,11 +563,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71900,
-      "num": 71900,
-      "word": "38岁全职妈妈干跑腿成重庆女单王",
-      "onboard_time": 1733957416,
-      "rank": 33,
+      "raw_hot": 81510,
+      "num": 81510,
+      "word": "尤文图斯2比0曼城",
+      "onboard_time": 1733960116,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71243,
+      "num": 71243,
+      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
+      "onboard_time": 1733948170,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -491,20 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66100,
-      "num": 66100,
-      "word": "徐艺洋回应右脸拍照",
-      "onboard_time": 1733957893,
-      "rank": 34,
+      "raw_hot": 68257,
+      "num": 68257,
+      "word": "马嘉祺22岁生日海报",
+      "onboard_time": 1733960055,
+      "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64576,
-      "num": 91161,
-      "word": "远嫁日本失联一年女子母亲发声",
-      "onboard_time": 1733958255,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 64419,
@@ -515,19 +611,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63257,
-      "num": 180339,
-      "word": "叙利亚战火纷飞民众生活陷入恐惧",
-      "onboard_time": 1733958616,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 59844,
-      "num": 59844,
-      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
-      "onboard_time": 1733948170,
-      "rank": 37,
+      "raw_hot": 62175,
+      "num": 73148,
+      "word": "广东人的厚衣服要拿出来了",
+      "onboard_time": 1733938815,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -547,12 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57748,
-      "num": 73148,
-      "word": "广东人的厚衣服要拿出来了",
-      "onboard_time": 1733938815,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 56820,
+      "num": 419767,
+      "word": "货币政策调整传递出哪些信息",
+      "onboard_time": 1733925261,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54246,
@@ -561,14 +649,6 @@
       "onboard_time": 1733921117,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51067,
-      "num": 338068,
-      "word": "货币政策调整传递出哪些信息",
-      "onboard_time": 1733925261,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47270,
@@ -633,6 +713,14 @@
       "onboard_time": 1733944451,
       "rank": 49,
       "category": "网红,美食"
+    },
+    {
+      "raw_hot": 21012,
+      "num": 227744,
+      "word": "曝孟子义李昀锐合体湖南卫视跨年",
+      "onboard_time": 1733921661,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 18531,
