@@ -1,0 +1,410 @@
+{
+  "runTime": 1733948812621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97690,
+        "num": 97690,
+        "word": "25年老员工被开除法院判赔98万",
+        "onboard_time": 1733938815,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96608,
+        "num": 96608,
+        "word": "被遗弃路边女婴已被家长接回家",
+        "onboard_time": 1733938815,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13082,
+        "num": 50192,
+        "word": "货币政策调整传递出哪些信息",
+        "onboard_time": 1733925261,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45943,
+        "num": 45943,
+        "word": "日本丈夫回应失联女子现状",
+        "onboard_time": 1733924540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43031,
+        "num": 43031,
+        "word": "中国女子远嫁日本已失联16个月",
+        "onboard_time": 1733930059,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43858,
+        "num": 42322,
+        "word": "深圳住宅楼爆炸事故原因正进一步调查",
+        "onboard_time": 1733922139,
+        "rank": 5,
+        "category": "辟谣/通报,国内时政"
+      },
+      {
+        "raw_hot": 41570,
+        "num": 41570,
+        "word": "叙军防空导弹阵地空无一人导弹完好",
+        "onboard_time": 1733932698,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40701,
+        "num": 40701,
+        "word": "陈昊宇 我不喜欢大女主剧的定义",
+        "onboard_time": 1733933058,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38939,
+        "num": 38939,
+        "word": "放生大米是浪费不是善意",
+        "onboard_time": 1733934137,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26361,
+        "num": 37510,
+        "word": "丁程鑫张真源毕业大戏公式照",
+        "onboard_time": 1733931858,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70776,
+        "num": 37264,
+        "word": "代号鸢删女性向标签",
+        "onboard_time": 1733920999,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48094,
+        "num": 37093,
+        "word": "梁祯元 抽烟",
+        "onboard_time": 1733925380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36631,
+        "num": 36631,
+        "word": "胖东来否认打碎商品免单",
+        "onboard_time": 1733931440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30299,
+        "num": 30299,
+        "word": "打伞上班被辞退上诉3次索赔33万",
+        "onboard_time": 1733929700,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29270,
+        "num": 29270,
+        "word": "以色列大举空袭叙利亚",
+        "onboard_time": 1733946672,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29258,
+        "num": 29258,
+        "word": "自称被杭州警察骚扰当事人道歉",
+        "onboard_time": 1733926879,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26330,
+        "num": 26330,
+        "word": "疑似超市老板称儿子清华读研不作解释",
+        "onboard_time": 1733923039,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21667,
+        "num": 26251,
+        "word": "米饭仙人体验中国菜",
+        "onboard_time": 1733944451,
+        "rank": 17,
+        "category": "网红,美食"
+      },
+      {
+        "raw_hot": 21243,
+        "num": 26136,
+        "word": "网传星光大赏出席嘉宾名单",
+        "onboard_time": 1733939234,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18274,
+        "num": 25877,
+        "word": "孟子义又发红包了",
+        "onboard_time": 1733921900,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50658,
+        "num": 25726,
+        "word": "徐艺洋卖水晶被网友吐槽贵",
+        "onboard_time": 1733908821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48423,
+        "num": 25413,
+        "word": "爸爸花6万给女儿买了一匹小马",
+        "onboard_time": 1733935095,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36265,
+        "num": 25165,
+        "word": "代号鸢",
+        "onboard_time": 1733920880,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25164,
+        "num": 25164,
+        "word": "巴厘岛著名景区大树倒塌致2女子身亡",
+        "onboard_time": 1733930419,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15088,
+        "num": 24420,
+        "word": "女子举报丈夫边开车边看美女视频",
+        "onboard_time": 1733947812,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24352,
+        "num": 24352,
+        "word": "女儿远嫁日本失联妈妈春节赴日寻女",
+        "onboard_time": 1733934497,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23276,
+        "num": 23276,
+        "word": "千金府",
+        "onboard_time": 1733931199,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17980,
+        "num": 22838,
+        "word": "九重紫出轨男女变纯爱男女",
+        "onboard_time": 1733926760,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17701,
+        "num": 22697,
+        "word": "秦海璐爱的太明显",
+        "onboard_time": 1733924598,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16959,
+        "num": 22612,
+        "word": "金希澈注销社交平台账号",
+        "onboard_time": 1733916799,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22607,
+        "num": 22607,
+        "word": "这一句不要给他差评好暖",
+        "onboard_time": 1733934557,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21859,
+        "num": 21859,
+        "word": "金龙显试图自杀",
+        "onboard_time": 1733943492,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21438,
+        "num": 21438,
+        "word": "叙反对派呼吁大马士革居民回到工作岗位",
+        "onboard_time": 1733934616,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21246,
+        "num": 21246,
+        "word": "放生大米事件涉事老人回应",
+        "onboard_time": 1733930899,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18531,
+        "num": 18531,
+        "word": "深圳一住宅楼爆炸消防救援力量已到场",
+        "onboard_time": 1733943971,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18104,
+        "num": 18104,
+        "word": "广东人的厚衣服要拿出来了",
+        "onboard_time": 1733938815,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17431,
+        "num": 17431,
+        "word": "叙利亚大马士革解除宵禁",
+        "onboard_time": 1733930659,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13994,
+        "num": 17291,
+        "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
+        "onboard_time": 1733948170,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17283,
+        "num": 17283,
+        "word": "员工推算同事工资求涨薪被辞",
+        "onboard_time": 1733917882,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16916,
+        "num": 16916,
+        "word": "武契奇回应塞尔维亚反对派挑衅",
+        "onboard_time": 1733941752,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16644,
+        "num": 16644,
+        "word": "沙特获2034年世界杯主办权",
+        "onboard_time": 1733930899,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16005,
+        "num": 16005,
+        "word": "2024年世界羽联年终总决赛",
+        "onboard_time": 1733931858,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15880,
+        "num": 15880,
+        "word": "猎罪图鉴 云蒸霞蔚",
+        "onboard_time": 1733920699,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15338,
+        "num": 15879,
+        "word": "Meiko加入iG的原因",
+        "onboard_time": 1733931620,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14840,
+        "num": 15875,
+        "word": "极越回应经营状况",
+        "onboard_time": 1733919620,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 15873,
+        "word": "百年孤独",
+        "onboard_time": 1733928920,
+        "rank": 45,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 13975,
+        "num": 15871,
+        "word": "虞书欣孟子义成毅不同的走红方式",
+        "onboard_time": 1733913320,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12992,
+        "num": 15870,
+        "word": "女子网购羽绒服仅退款称没偷没抢",
+        "onboard_time": 1733905220,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12816,
+        "num": 15865,
+        "word": "朴彩英怕失业到长带状疱疹",
+        "onboard_time": 1733905820,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12660,
+        "num": 15864,
+        "word": "为什么腰不好的年轻人越来越多了",
+        "onboard_time": 1733917040,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#要紧紧抓住高质量发展这个首要任务#"
+    }
+  }
+}
