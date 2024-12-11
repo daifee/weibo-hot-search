@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733956952650,
+  "endTime": 1733959404880,
   "band_list": [
     {
       "raw_hot": 721145,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455279,
+      "num": 781247,
+      "word": "25年老员工被开除法院判赔98万",
+      "onboard_time": 1733938815,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412823,
       "num": 327992,
       "word": "梁祯元 抽烟",
@@ -81,6 +89,14 @@
       "onboard_time": 1733933058,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372174,
+      "num": 372174,
+      "word": "女子举报丈夫边开车边看美女视频",
+      "onboard_time": 1733947812,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369049,
@@ -115,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315080,
+      "num": 315080,
+      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
+      "onboard_time": 1733950391,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304148,
       "num": 304148,
       "word": "打伞上班被辞退上诉3次索赔33万",
@@ -139,19 +163,27 @@
       "category": "网红"
     },
     {
-      "raw_hot": 276693,
-      "num": 499895,
-      "word": "25年老员工被开除法院判赔98万",
-      "onboard_time": 1733938815,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257800,
       "num": 257800,
       "word": "放生大米是浪费不是善意",
       "onboard_time": 1733934137,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250297,
+      "num": 118117,
+      "word": "爸爸花6万给女儿买了一匹小马",
+      "onboard_time": 1733935095,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226166,
+      "num": 226166,
+      "word": "被遗弃路边女婴已被家长接回家",
+      "onboard_time": 1733938815,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -163,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204993,
+      "num": 204993,
+      "word": "九重紫出轨男女变纯爱男女",
+      "onboard_time": 1733926760,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204081,
       "num": 204081,
       "word": "疑似超市老板称儿子清华读研不作解释",
       "onboard_time": 1733923039,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191888,
+      "num": 191888,
+      "word": "陈晓名下工作室仅1家存续",
+      "onboard_time": 1733911461,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 188158,
@@ -179,20 +227,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 182536,
+      "num": 193994,
+      "word": "马嘉祺",
+      "onboard_time": 1733958916,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 180086,
+      "num": 210234,
+      "word": "叙军防空导弹阵地空无一人导弹完好",
+      "onboard_time": 1733932698,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178025,
       "num": 178025,
       "word": "代号鸢",
       "onboard_time": 1733920880,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 177888,
-      "num": 177888,
-      "word": "女子举报丈夫边开车边看美女视频",
-      "onboard_time": 1733947812,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177468,
@@ -203,30 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174273,
-      "num": 174273,
-      "word": "被遗弃路边女婴已被家长接回家",
-      "onboard_time": 1733938815,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171476,
-      "num": 210234,
-      "word": "叙军防空导弹阵地空无一人导弹完好",
-      "onboard_time": 1733932698,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 166906,
-      "num": 109270,
-      "word": "爸爸花6万给女儿买了一匹小马",
-      "onboard_time": 1733935095,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150213,
       "num": 150213,
       "word": "百年孤独",
@@ -235,12 +267,20 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 147191,
-      "num": 147191,
-      "word": "婆婆说小时没人抱儿媳妇直接公主抱",
-      "onboard_time": 1733950391,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 138058,
+      "num": 113103,
+      "word": "以色列大举空袭叙利亚",
+      "onboard_time": 1733946672,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134941,
+      "num": 134941,
+      "word": "审判琼瑶的真的看懂她的书了么",
+      "onboard_time": 1733957054,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 134904,
@@ -299,20 +339,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109755,
+      "num": 124577,
+      "word": "丁程鑫",
+      "onboard_time": 1733958855,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109684,
       "num": 109684,
       "word": "红包剧宣",
       "onboard_time": 1733927060,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106194,
-      "num": 106194,
-      "word": "以色列大举空袭叙利亚",
-      "onboard_time": 1733946672,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104521,
@@ -387,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86303,
+      "num": 91485,
+      "word": "网传星光大赏出席嘉宾名单",
+      "onboard_time": 1733939234,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86202,
       "num": 86202,
       "word": "沈翊画的是大姨也是犯罪的招娣",
@@ -419,20 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79642,
-      "num": 79642,
-      "word": "九重紫出轨男女变纯爱男女",
-      "onboard_time": 1733926760,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 74689,
-      "num": 74689,
-      "word": "网传星光大赏出席嘉宾名单",
-      "onboard_time": 1733939234,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 71900,
+      "num": 71900,
+      "word": "38岁全职妈妈干跑腿成重庆女单王",
+      "onboard_time": 1733957416,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70550,
@@ -451,12 +491,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66100,
+      "num": 66100,
+      "word": "徐艺洋回应右脸拍照",
+      "onboard_time": 1733957893,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64576,
+      "num": 91161,
+      "word": "远嫁日本失联一年女子母亲发声",
+      "onboard_time": 1733958255,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64419,
       "num": 64419,
       "word": "这一句不要给他差评好暖",
       "onboard_time": 1733934557,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63257,
+      "num": 180339,
+      "word": "叙利亚战火纷飞民众生活陷入恐惧",
+      "onboard_time": 1733958616,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 59844,
+      "num": 59844,
+      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
+      "onboard_time": 1733948170,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58434,
+      "num": 58434,
+      "word": "武契奇回应塞尔维亚反对派挑衅",
+      "onboard_time": 1733941752,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57865,
@@ -467,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57748,
+      "num": 73148,
+      "word": "广东人的厚衣服要拿出来了",
+      "onboard_time": 1733938815,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54246,
       "num": 54246,
       "word": "琼瑶最后一份礼物曝光",
       "onboard_time": 1733921117,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51067,
+      "num": 338068,
+      "word": "货币政策调整传递出哪些信息",
+      "onboard_time": 1733925261,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47270,
@@ -483,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41455,
-      "num": 73148,
-      "word": "广东人的厚衣服要拿出来了",
-      "onboard_time": 1733938815,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40546,
       "num": 43158,
       "word": "名创优品向时空中的绘旅人致歉",
@@ -499,8 +587,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 35237,
-      "num": 45233,
+      "raw_hot": 40427,
+      "num": 50764,
       "word": "李昀锐有钱就是任性",
       "onboard_time": 1733953390,
       "rank": 28,
@@ -515,14 +603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31392,
-      "num": 31392,
-      "word": "武契奇回应塞尔维亚反对派挑衅",
-      "onboard_time": 1733941752,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30861,
       "num": 39926,
       "word": "徐振轩吃播vlog",
@@ -531,28 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30182,
-      "num": 30182,
-      "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
-      "onboard_time": 1733948170,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28402,
       "num": 58792,
       "word": "金龙显试图自杀",
       "onboard_time": 1733943492,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26675,
-      "num": 168643,
-      "word": "货币政策调整传递出哪些信息",
-      "onboard_time": 1733925261,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21973,
