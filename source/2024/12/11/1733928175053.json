@@ -1,0 +1,410 @@
+{
+  "runTime": 1733928175053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234593,
+        "num": 1234593,
+        "word": "深圳一住宅楼爆炸致1人死亡",
+        "onboard_time": 1733919918,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 745766,
+        "num": 745766,
+        "word": "深圳住宅楼爆炸事故原因正进一步调查",
+        "onboard_time": 1733922139,
+        "rank": 1,
+        "category": "辟谣/通报,国内时政"
+      },
+      {
+        "raw_hot": 20292,
+        "num": 678742,
+        "word": "我的宝藏家乡",
+        "onboard_time": 1733830338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880442,
+        "num": 674273,
+        "word": "孟子义又发红包了",
+        "onboard_time": 1733921900,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655346,
+        "num": 655346,
+        "word": "秦海璐爱的太明显",
+        "onboard_time": 1733924598,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617082,
+        "num": 617082,
+        "word": "员工推算同事工资求涨薪被辞",
+        "onboard_time": 1733917882,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 642731,
+        "num": 601342,
+        "word": "李昀锐发红包",
+        "onboard_time": 1733923160,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377032,
+        "num": 377032,
+        "word": "女子网购羽绒服仅退款称没偷没抢",
+        "onboard_time": 1733905220,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324930,
+        "num": 324930,
+        "word": "为什么腰不好的年轻人越来越多了",
+        "onboard_time": 1733917040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50277,
+        "num": 321723,
+        "word": "民警从一个影子找到走失80小时老人",
+        "onboard_time": 1733927360,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1409637,
+        "num": 319407,
+        "word": "疑似超市老板称儿子清华读研不作解释",
+        "onboard_time": 1733923039,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1323443,
+        "num": 317180,
+        "word": "梁祯元 抽烟",
+        "onboard_time": 1733925380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1004576,
+        "num": 311490,
+        "word": "深圳消防通报一住宅楼发生爆炸",
+        "onboard_time": 1733904562,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 383294,
+        "num": 308301,
+        "word": "海关总署署长俞建华去世",
+        "onboard_time": 1733927659,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94747,
+        "num": 305933,
+        "word": "专家称没必要公示学生性别变更",
+        "onboard_time": 1733927240,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689057,
+        "num": 303886,
+        "word": "代号鸢删女性向标签",
+        "onboard_time": 1733920999,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301228,
+        "num": 301228,
+        "word": "张云雷说探清水河火了之后很懵",
+        "onboard_time": 1733916500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297173,
+        "num": 297173,
+        "word": "猎罪图鉴 云蒸霞蔚",
+        "onboard_time": 1733920699,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274572,
+        "num": 274572,
+        "word": "金希澈注销社交平台账号",
+        "onboard_time": 1733916799,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270734,
+        "num": 270734,
+        "word": "自称被杭州警察骚扰当事人道歉",
+        "onboard_time": 1733926879,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237905,
+        "num": 269622,
+        "word": "李昀锐 叫哥",
+        "onboard_time": 1733927959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 959686,
+        "num": 269261,
+        "word": "徐艺洋卖水晶被网友吐槽贵",
+        "onboard_time": 1733908821,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268870,
+        "num": 268870,
+        "word": "红包剧宣",
+        "onboard_time": 1733927060,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263591,
+        "num": 263591,
+        "word": "宋威龙赵今麦雨天撑伞路透",
+        "onboard_time": 1733926459,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249380,
+        "num": 249380,
+        "word": "九重紫出轨男女变纯爱男女",
+        "onboard_time": 1733926760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245125,
+        "num": 245125,
+        "word": "虞书欣孟子义成毅不同的走红方式",
+        "onboard_time": 1733913320,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234153,
+        "num": 234153,
+        "word": "老农三轮车上烧炭取暖中毒去世",
+        "onboard_time": 1733925261,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24158,
+        "num": 220231,
+        "word": "想陪阿娟赢一次",
+        "onboard_time": 1733922979,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33796,
+        "num": 214349,
+        "word": "多想和你再见一面首映礼",
+        "onboard_time": 1733927779,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40532,
+        "num": 213396,
+        "word": "为亡弟追凶26年当事人求助",
+        "onboard_time": 1733927720,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212803,
+        "num": 212803,
+        "word": "九重紫热度值破29000",
+        "onboard_time": 1733925261,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211910,
+        "num": 211910,
+        "word": "琼瑶最后一份礼物曝光",
+        "onboard_time": 1733921117,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211054,
+        "num": 211054,
+        "word": "冬天如何在床上正确的玩手机",
+        "onboard_time": 1733919080,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201342,
+        "num": 201342,
+        "word": "王安宇 好险差点饿死",
+        "onboard_time": 1733918480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195326,
+        "num": 195326,
+        "word": "代号鸢",
+        "onboard_time": 1733920880,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192945,
+        "num": 192945,
+        "word": "日本丈夫回应失联女子现状",
+        "onboard_time": 1733924540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 173936,
+        "word": "美国11月CPI同比上涨2.7%",
+        "onboard_time": 1733926220,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168449,
+        "num": 168449,
+        "word": "朴彩英怕失业到长带状疱疹",
+        "onboard_time": 1733905820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37939,
+        "num": 168443,
+        "word": "马龙说要努力延续国乒荣耀",
+        "onboard_time": 1733921840,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99692,
+        "num": 168290,
+        "word": "环球影城偶遇张彬彬",
+        "onboard_time": 1733923819,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67004,
+        "num": 168126,
+        "word": "动物保护站寻找撞小熊猫肇事者",
+        "onboard_time": 1733926161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26373,
+        "num": 167897,
+        "word": "朴彩英的事业心",
+        "onboard_time": 1733927720,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167858,
+        "num": 167858,
+        "word": "沈翊画的是大姨也是犯罪的招娣",
+        "onboard_time": 1733927360,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167038,
+        "num": 167038,
+        "word": "婆家为娶儿媳花近70万女方消失了",
+        "onboard_time": 1733914880,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147409,
+        "num": 147409,
+        "word": "狗 急得我差点就开口说话了",
+        "onboard_time": 1733922799,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 132805,
+        "word": "目击者称住宅楼爆炸后有人和狗坠落",
+        "onboard_time": 1733927659,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 126658,
+        "num": 126658,
+        "word": "极越",
+        "onboard_time": 1733907081,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121462,
+        "num": 121462,
+        "word": "小熊猫马路上被撞受伤挣扎",
+        "onboard_time": 1733924719,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "医生眼里真正的生冷食物",
+        "onboard_time": 1733911341,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107255,
+        "num": 107255,
+        "word": "学硕与专硕的区别",
+        "onboard_time": 1733922440,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要紧紧抓住高质量发展这个首要任务#"
+    }
+  }
+}

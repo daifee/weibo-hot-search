@@ -1,6 +1,6 @@
 {
   "startTime": 1733848286783,
-  "endTime": 1733927007951,
+  "endTime": 1733928175053,
   "band_list": [
     {
       "raw_hot": 11695394,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1435935,
-      "num": 302762,
+      "num": 319407,
       "word": "疑似超市老板称儿子清华读研不作解释",
       "onboard_time": 1733923039,
       "rank": 26,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1419219,
-      "num": 299637,
+      "num": 317180,
       "word": "梁祯元 抽烟",
       "onboard_time": 1733925380,
       "rank": 12,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 775406,
-      "num": 301775,
+      "num": 303886,
       "word": "代号鸢删女性向标签",
       "onboard_time": 1733920999,
       "rank": 32,
@@ -273,6 +273,14 @@
       "onboard_time": 1733895321,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 745766,
+      "num": 745766,
+      "word": "深圳住宅楼爆炸事故原因正进一步调查",
+      "onboard_time": 1733922139,
+      "rank": 23,
+      "category": "辟谣/通报,国内时政"
     },
     {
       "raw_hot": 743243,
@@ -307,6 +315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 655346,
+      "num": 655346,
+      "word": "秦海璐爱的太明显",
+      "onboard_time": 1733924598,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 647823,
       "num": 382169,
       "word": "赵露思疑似喊话辱追粉",
@@ -329,6 +345,14 @@
       "onboard_time": 1733837900,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 617082,
+      "num": 617082,
+      "word": "员工推算同事工资求涨薪被辞",
+      "onboard_time": 1733917882,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 607825,
@@ -361,14 +385,6 @@
       "onboard_time": 1733907441,
       "rank": 7,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 583238,
-      "num": 583238,
-      "word": "员工推算同事工资求涨薪被辞",
-      "onboard_time": 1733917882,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 572106,
@@ -579,22 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 391470,
-      "num": 391470,
-      "word": "秦海璐爱的太明显",
-      "onboard_time": 1733924598,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 390081,
-      "num": 390081,
-      "word": "深圳住宅楼爆炸事故原因正进一步调查",
-      "onboard_time": 1733922139,
-      "rank": 23,
-      "category": "辟谣/通报,国内时政"
-    },
-    {
       "raw_hot": 389911,
       "num": 438524,
       "word": "李昀锐 紫啧们不要e墨了",
@@ -617,6 +617,14 @@
       "onboard_time": 1733878760,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383294,
+      "num": 308301,
+      "word": "海关总署署长俞建华去世",
+      "onboard_time": 1733927659,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381564,
@@ -803,6 +811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 324930,
+      "num": 324930,
+      "word": "为什么腰不好的年轻人越来越多了",
+      "onboard_time": 1733917040,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324122,
       "num": 324122,
       "word": "首批养老专业毕业生遭疯抢",
@@ -825,14 +841,6 @@
       "onboard_time": 1733918480,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310370,
-      "num": 310370,
-      "word": "为什么腰不好的年轻人越来越多了",
-      "onboard_time": 1733917040,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 305296,
@@ -979,6 +987,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 270734,
+      "num": 270734,
+      "word": "自称被杭州警察骚扰当事人道歉",
+      "onboard_time": 1733926879,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268870,
+      "num": 268870,
+      "word": "红包剧宣",
+      "onboard_time": 1733927060,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267165,
       "num": 366516,
       "word": "肖战黑胶销量",
@@ -993,6 +1017,14 @@
       "onboard_time": 1733891000,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263591,
+      "num": 274450,
+      "word": "宋威龙赵今麦雨天撑伞路透",
+      "onboard_time": 1733926459,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 261412,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1733903362,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249380,
+      "num": 249380,
+      "word": "九重紫出轨男女变纯爱男女",
+      "onboard_time": 1733926760,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 248735,
@@ -1107,6 +1147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 237905,
+      "num": 269622,
+      "word": "李昀锐 叫哥",
+      "onboard_time": 1733927959,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237566,
       "num": 234171,
       "word": "秦海璐我听小说咋了",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1733891422,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 234153,
+      "num": 234153,
+      "word": "老农三轮车上烧炭取暖中毒去世",
+      "onboard_time": 1733925261,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232327,
@@ -1435,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192945,
+      "num": 192945,
+      "word": "日本丈夫回应失联女子现状",
+      "onboard_time": 1733924540,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192484,
       "num": 244077,
       "word": "台湾女演员俞小凡送琼瑶最后一程",
@@ -1457,14 +1521,6 @@
       "onboard_time": 1733891243,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190954,
-      "num": 190954,
-      "word": "日本丈夫回应失联女子现状",
-      "onboard_time": 1733924540,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190794,
@@ -1667,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173936,
+      "num": 173936,
+      "word": "美国11月CPI同比上涨2.7%",
+      "onboard_time": 1733926220,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173771,
       "num": 327351,
       "word": "石宇奇2比1乔纳坦",
@@ -1755,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167858,
+      "num": 167858,
+      "word": "沈翊画的是大姨也是犯罪的招娣",
+      "onboard_time": 1733927360,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167234,
       "num": 167234,
       "word": "成都虐猫中学生停课反省",
@@ -1795,14 +1867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166321,
-      "num": 192812,
-      "word": "老农三轮车上烧炭取暖中毒去世",
-      "onboard_time": 1733925261,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166093,
       "num": 176431,
       "word": "第五人格",
@@ -1817,14 +1881,6 @@
       "onboard_time": 1733917219,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165096,
-      "num": 165096,
-      "word": "美国11月CPI同比上涨2.7%",
-      "onboard_time": 1733926220,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 164771,
@@ -2107,14 +2163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142711,
-      "num": 142711,
-      "word": "九重紫出轨男女变纯爱男女",
-      "onboard_time": 1733926760,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142423,
       "num": 142423,
       "word": "周黑鸭创始人回应被炸伤",
@@ -2273,6 +2321,14 @@
       "onboard_time": 1733896399,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132805,
+      "num": 132805,
+      "word": "目击者称住宅楼爆炸后有人和狗坠落",
+      "onboard_time": 1733927659,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 132579,
@@ -2571,14 +2627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114021,
-      "num": 114021,
-      "word": "自称被杭州警察骚扰当事人道歉",
-      "onboard_time": 1733926879,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113700,
       "num": 113700,
       "word": "庆余年里蜷着慢慢活的大宝具象化了",
@@ -2755,6 +2803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99692,
+      "num": 266824,
+      "word": "环球影城偶遇张彬彬",
+      "onboard_time": 1733923819,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99241,
       "num": 99241,
       "word": "安东森球品",
@@ -2809,6 +2865,14 @@
       "onboard_time": 1733900959,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94747,
+      "num": 305933,
+      "word": "专家称没必要公示学生性别变更",
+      "onboard_time": 1733927240,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93923,
@@ -2868,7 +2932,7 @@
     },
     {
       "raw_hot": 85148,
-      "num": 451904,
+      "num": 678742,
       "word": "我的宝藏家乡",
       "onboard_time": 1733830338,
       "rank": 25,
@@ -2921,14 +2985,6 @@
       "onboard_time": 1733907203,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79534,
-      "num": 266824,
-      "word": "环球影城偶遇张彬彬",
-      "onboard_time": 1733923819,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 77522,
@@ -3003,14 +3059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70447,
-      "num": 274450,
-      "word": "宋威龙赵今麦雨天撑伞路透",
-      "onboard_time": 1733926459,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70199,
       "num": 84408,
       "word": "迪丽热巴登春节申遗宣传片",
@@ -3033,6 +3081,14 @@
       "onboard_time": 1733908581,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67004,
+      "num": 271922,
+      "word": "动物保护站寻找撞小熊猫肇事者",
+      "onboard_time": 1733926161,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66202,
@@ -3153,6 +3209,14 @@
       "onboard_time": 1733871375,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50277,
+      "num": 321723,
+      "word": "民警从一个影子找到走失80小时老人",
+      "onboard_time": 1733927360,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 50197,
@@ -3291,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40532,
+      "num": 213396,
+      "word": "为亡弟追凶26年当事人求助",
+      "onboard_time": 1733927720,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40312,
       "num": 660937,
       "word": "解读2025年经济政策关键词",
@@ -3305,14 +3377,6 @@
       "onboard_time": 1733895561,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40295,
-      "num": 271922,
-      "word": "动物保护站寻找撞小熊猫肇事者",
-      "onboard_time": 1733926161,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39458,
@@ -3345,6 +3409,14 @@
       "onboard_time": 1733898681,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37939,
+      "num": 168443,
+      "word": "马龙说要努力延续国乒荣耀",
+      "onboard_time": 1733921840,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 37858,
@@ -3449,6 +3521,14 @@
       "onboard_time": 1733892261,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33796,
+      "num": 214349,
+      "word": "多想和你再见一面首映礼",
+      "onboard_time": 1733927779,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 33598,
@@ -3593,6 +3673,14 @@
       "onboard_time": 1733854573,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26373,
+      "num": 167897,
+      "word": "朴彩英的事业心",
+      "onboard_time": 1733927720,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 25840,
