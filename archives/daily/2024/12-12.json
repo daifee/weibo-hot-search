@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733999182154,
+  "endTime": 1734000282067,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1372915,
-      "num": 1372915,
+      "raw_hot": 1399867,
+      "num": 1399867,
       "word": "再看雷军账上预留18月工资含金量",
       "onboard_time": 1733996120,
       "rank": 15,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812185,
+      "num": 812185,
+      "word": "买了三折叠一个手滑摔裂了要退机",
+      "onboard_time": 1733996479,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 811877,
       "num": 811877,
       "word": "iPhone17或改用条形横置摄像",
@@ -289,14 +297,6 @@
       "onboard_time": 1733970799,
       "rank": 23,
       "category": "美妆,健康医疗"
-    },
-    {
-      "raw_hot": 735058,
-      "num": 735058,
-      "word": "买了三折叠一个手滑摔裂了要退机",
-      "onboard_time": 1733996479,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728957,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566941,
+      "num": 566941,
+      "word": "九重紫",
+      "onboard_time": 1733964318,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 552903,
       "num": 552903,
       "word": "胖东来否认打碎商品免单",
@@ -457,6 +465,14 @@
       "onboard_time": 1733930419,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 503988,
+      "num": 657696,
+      "word": "湖南衡阳官宣取消公摊",
+      "onboard_time": 1733995940,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 500420,
@@ -715,6 +731,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 361181,
+      "num": 361181,
+      "word": "44岁张柏芝生图",
+      "onboard_time": 1733998399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358429,
       "num": 324676,
       "word": "终于知道卫裤这个扣怎么用了",
@@ -809,6 +833,14 @@
       "onboard_time": 1733995160,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304482,
+      "num": 304482,
+      "word": "韩娱地震",
+      "onboard_time": 1734000019,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 301290,
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270023,
+      "num": 270023,
+      "word": "泰国女团成员挺孕肚开演唱会唱跳",
+      "onboard_time": 1733999421,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269498,
       "num": 269498,
       "word": "下属的工资比自己高",
@@ -993,6 +1033,14 @@
       "onboard_time": 1733975959,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252532,
+      "num": 252532,
+      "word": "新能源车倒闭车主怎么办",
+      "onboard_time": 1733996660,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 252377,
@@ -1092,7 +1140,7 @@
     },
     {
       "raw_hot": 233590,
-      "num": 233590,
+      "num": 484578,
       "word": "极越多部门就地解散",
       "onboard_time": 1733993658,
       "rank": 36,
@@ -1227,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209168,
-      "num": 209168,
-      "word": "新能源车倒闭车主怎么办",
-      "onboard_time": 1733996660,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 209153,
       "num": 209153,
       "word": "梁祯元直播否认恋爱抽烟",
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 203120,
-      "num": 203120,
+      "num": 279834,
       "word": "Clearlove入选2024LPL名人堂",
       "onboard_time": 1733997921,
       "rank": 33,
@@ -1377,6 +1417,14 @@
       "onboard_time": 1733983881,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197543,
+      "num": 411298,
+      "word": "你希望取消公摊吗",
+      "onboard_time": 1733999239,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197412,
@@ -1531,12 +1579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 179284,
-      "num": 249978,
-      "word": "九重紫",
-      "onboard_time": 1733964318,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 179702,
+      "num": 179702,
+      "word": "极越闪崩主要原因在于百度撤资",
+      "onboard_time": 1733999779,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 178025,
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156535,
+      "num": 220476,
+      "word": "都研究生了还要考四级",
+      "onboard_time": 1733998101,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156487,
       "num": 156487,
       "word": "乒超联赛直播",
@@ -1787,20 +1843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153285,
-      "num": 285144,
-      "word": "44岁张柏芝生图",
-      "onboard_time": 1733998399,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152080,
       "num": 386890,
       "word": "泽连斯基演讲时背景墙惊现库洛米徽章",
       "onboard_time": 1733979141,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "女生以为感冒确诊心肌炎需终身服药",
+      "onboard_time": 1733999601,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151034,
@@ -1841,6 +1897,14 @@
       "onboard_time": 1733928920,
       "rank": 25,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 150080,
+      "num": 150080,
+      "word": "李彦宏曾对极越CEO笑称别给我亏太多",
+      "onboard_time": 1733996600,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 149375,
@@ -1889,14 +1953,6 @@
       "onboard_time": 1733981241,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142446,
-      "num": 142446,
-      "word": "李彦宏曾对极越CEO笑称别给我亏太多",
-      "onboard_time": 1733996600,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 142401,
@@ -2219,6 +2275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 94127,
+      "num": 557022,
+      "word": "买窃听插座监控孩子涉嫌违法",
+      "onboard_time": 1733998159,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 93630,
       "num": 363593,
       "word": "韩国执政党紧急开会讨论开除尹锡悦党籍",
@@ -2289,6 +2353,14 @@
       "onboard_time": 1733993000,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86600,
+      "num": 279275,
+      "word": "妹妹照顾哥哥3年至病逝起诉分遗产",
+      "onboard_time": 1733998339,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86303,
@@ -2467,20 +2539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70390,
-      "num": 657696,
-      "word": "湖南衡阳官宣取消公摊",
-      "onboard_time": 1733995940,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 70381,
       "num": 70381,
       "word": "叙反对派呼吁大马士革居民回到工作岗位",
       "onboard_time": 1733934616,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70229,
+      "num": 306694,
+      "word": "蔡依林 谁放假会腻啊",
+      "onboard_time": 1733999478,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 69888,
@@ -2507,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67216,
-      "num": 557022,
-      "word": "买窃听插座监控孩子涉嫌违法",
-      "onboard_time": 1733998159,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 67071,
       "num": 513802,
       "word": "王楚钦梁靖崑领衔山东魏桥出战乒超",
@@ -2531,16 +2595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66578,
-      "num": 279275,
-      "word": "妹妹照顾哥哥3年至病逝起诉分遗产",
-      "onboard_time": 1733998339,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64300,
-      "num": 192742,
+      "num": 389193,
       "word": "周深亮相狮子王首映礼",
       "onboard_time": 1733998399,
       "rank": 34,
@@ -2553,14 +2609,6 @@
       "onboard_time": 1733938815,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59376,
-      "num": 220476,
-      "word": "都研究生了还要考四级",
-      "onboard_time": 1733998101,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 58558,
@@ -2619,7 +2667,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48173,
+      "raw_hot": 53649,
       "num": 441014,
       "word": "设计师揭秘哈尔滨大雪人打造过程",
       "onboard_time": 1733998280,
@@ -2633,6 +2681,22 @@
       "onboard_time": 1733980939,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47466,
+      "num": 844699,
+      "word": "从超级工程看中国人的魄力",
+      "onboard_time": 1733997260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 47397,
+      "num": 152628,
+      "word": "手机里藏着另一套mbti测试题",
+      "onboard_time": 1734000081,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 47270,
@@ -2731,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39204,
+      "num": 427220,
+      "word": "冯骥杨奇疑似已到美国准备领奖",
+      "onboard_time": 1734000139,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39097,
       "num": 323987,
       "word": "T风格论坛",
@@ -2787,14 +2859,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 34793,
-      "num": 844699,
-      "word": "从超级工程看中国人的魄力",
-      "onboard_time": 1733997260,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34592,
       "num": 522867,
       "word": "多人非法穿越秦岭鳌太线被罚",
@@ -2809,6 +2873,14 @@
       "onboard_time": 1733951051,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33849,
+      "num": 169058,
+      "word": "打工人为什么容易气血不足",
+      "onboard_time": 1733997980,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33702,
@@ -2923,20 +2995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21314,
-      "num": 169058,
-      "word": "打工人为什么容易气血不足",
-      "onboard_time": 1733997980,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21012,
       "num": 227744,
       "word": "曝孟子义李昀锐合体湖南卫视跨年",
       "onboard_time": 1733921661,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20271,
+      "num": 238054,
+      "word": "乒超应援已就位小胖大头莎莎都有",
+      "onboard_time": 1733999720,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 18531,
@@ -3020,6 +3092,9 @@
     },
     {
       "word": "#习近平眼中的中国与世界#"
+    },
+    {
+      "word": "#从这里读懂中国经济的优势和未来#"
     }
   ]
 }

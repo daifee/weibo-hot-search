@@ -1,0 +1,410 @@
+{
+  "runTime": 1734000282067,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1399867,
+        "num": 1399867,
+        "word": "再看雷军账上预留18月工资含金量",
+        "onboard_time": 1733996120,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 985823,
+        "num": 985823,
+        "word": "李行亮撕掉婚姻承诺书",
+        "onboard_time": 1733992220,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47466,
+        "num": 828173,
+        "word": "从超级工程看中国人的魄力",
+        "onboard_time": 1733997260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 812185,
+        "num": 812185,
+        "word": "买了三折叠一个手滑摔裂了要退机",
+        "onboard_time": 1733996479,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 736062,
+        "num": 736062,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566941,
+        "num": 566941,
+        "word": "九重紫",
+        "onboard_time": 1733999300,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519684,
+        "num": 519684,
+        "word": "韩方称中国产太阳能会破坏韩国森林",
+        "onboard_time": 1733992760,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 503988,
+        "num": 503988,
+        "word": "湖南衡阳官宣取消公摊",
+        "onboard_time": 1733995940,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 488301,
+        "num": 488301,
+        "word": "星光大赏阵容",
+        "onboard_time": 1733994619,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216294,
+        "num": 484578,
+        "word": "极越多部门就地解散",
+        "onboard_time": 1733993658,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 454005,
+        "num": 467590,
+        "word": "英伟达下架天猫官方旗舰店所有商品",
+        "onboard_time": 1733993658,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1087563,
+        "num": 459306,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734174,
+        "num": 443597,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39204,
+        "num": 427220,
+        "word": "冯骥杨奇疑似已到美国准备领奖",
+        "onboard_time": 1734000139,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197543,
+        "num": 411298,
+        "word": "你希望取消公摊吗",
+        "onboard_time": 1733999239,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682028,
+        "num": 402190,
+        "word": "梁祯元直播",
+        "onboard_time": 1733995940,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393687,
+        "num": 393687,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391066,
+        "num": 391066,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39947,
+        "num": 389193,
+        "word": "周深亮相狮子王首映礼",
+        "onboard_time": 1733998399,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388114,
+        "num": 388114,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361181,
+        "num": 361181,
+        "word": "44岁张柏芝生图",
+        "onboard_time": 1733998399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70229,
+        "num": 306694,
+        "word": "蔡依林 谁放假会腻啊",
+        "onboard_time": 1733999478,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304482,
+        "num": 304482,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292822,
+        "num": 292822,
+        "word": "白鹿张晚意获三级演员职称",
+        "onboard_time": 1733990361,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150511,
+        "num": 279834,
+        "word": "Clearlove入选2024LPL名人堂",
+        "onboard_time": 1733997921,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276300,
+        "num": 276300,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270719,
+        "num": 270719,
+        "word": "张艺凡刮彩票连中12个7",
+        "onboard_time": 1733997080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270023,
+        "num": 270023,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252532,
+        "num": 252532,
+        "word": "新能源车倒闭车主怎么办",
+        "onboard_time": 1733996660,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20271,
+        "num": 238054,
+        "word": "乒超应援已就位小胖大头莎莎都有",
+        "onboard_time": 1733999720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236439,
+        "num": 236439,
+        "word": "王伟 白夜追凶导演",
+        "onboard_time": 1733997799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231565,
+        "num": 231565,
+        "word": "孟子义李昀锐涨粉",
+        "onboard_time": 1733996239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206639,
+        "num": 206639,
+        "word": "周彦辰打开评论区天塌了",
+        "onboard_time": 1733995640,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190177,
+        "num": 190177,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181035,
+        "num": 181035,
+        "word": "外交部驳斥尹锡悦涉华负面言论",
+        "onboard_time": 1733995160,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86600,
+        "num": 180188,
+        "word": "妹妹照顾哥哥3年至病逝起诉分遗产",
+        "onboard_time": 1733998339,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53649,
+        "num": 179866,
+        "word": "设计师揭秘哈尔滨大雪人打造过程",
+        "onboard_time": 1733998280,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179702,
+        "num": 179702,
+        "word": "极越闪崩主要原因在于百度撤资",
+        "onboard_time": 1733999779,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175521,
+        "num": 175521,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163493,
+        "num": 163493,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161283,
+        "num": 161283,
+        "word": "以为复习六级结果看了六集",
+        "onboard_time": 1733995401,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33849,
+        "num": 160162,
+        "word": "打工人为什么容易气血不足",
+        "onboard_time": 1733997980,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94127,
+        "num": 159441,
+        "word": "买窃听插座监控孩子涉嫌违法",
+        "onboard_time": 1733998159,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156535,
+        "num": 156535,
+        "word": "都研究生了还要考四级",
+        "onboard_time": 1733998101,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156065,
+        "num": 156065,
+        "word": "董子健给王俊凯打电话",
+        "onboard_time": 1733995640,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47397,
+        "num": 152628,
+        "word": "手机里藏着另一套mbti测试题",
+        "onboard_time": 1734000081,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 151541,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150080,
+        "num": 150080,
+        "word": "李彦宏曾对极越CEO笑称别给我亏太多",
+        "onboard_time": 1733996600,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146482,
+        "num": 146482,
+        "word": "猎罪图鉴2云合超九重紫",
+        "onboard_time": 1733996781,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从这里读懂中国经济的优势和未来#"
+    }
+  }
+}
