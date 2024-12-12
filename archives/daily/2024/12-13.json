@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734032157396,
+  "endTime": 1734035219510,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -451,7 +451,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51966,
+      "raw_hot": 53460,
       "num": 42096,
       "word": "留几手气死人了",
       "onboard_time": 1734029051,
@@ -459,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43198,
-      "num": 43198,
+      "raw_hot": 52874,
+      "num": 52874,
       "word": "老师突然晕倒大一女生们分工救人",
       "onboard_time": 1734028151,
       "rank": 43,
@@ -491,12 +491,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25414,
+      "num": 25414,
+      "word": "美国对中国多晶硅加征50%关税",
+      "onboard_time": 1734031632,
+      "rank": 38,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 25077,
       "num": 107382,
       "word": "周深谈配音首秀",
       "onboard_time": 1734023593,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23175,
+      "num": 33199,
+      "word": "整治内卷式竞争",
+      "onboard_time": 1734031751,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23014,
+      "num": 23014,
+      "word": "苟仲文严重破坏体育系统政治生态",
+      "onboard_time": 1734032712,
+      "rank": 31,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 21629,
@@ -515,20 +539,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 15220,
-      "num": 21211,
-      "word": "美国对中国多晶硅加征50%关税",
-      "onboard_time": 1734031632,
-      "rank": 38,
-      "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 14597,
-      "num": 33199,
-      "word": "整治内卷式竞争",
-      "onboard_time": 1734031751,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 18051,
+      "num": 37142,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13184,
