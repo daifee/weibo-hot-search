@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734042187561,
+  "endTime": 1734043326023,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205843,
+      "num": 205843,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "百万网红被曝疑做不正当职业",
@@ -193,6 +201,14 @@
       "onboard_time": 1734019219,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180210,
+      "num": 180210,
+      "word": "老师突然晕倒大一女生们分工救人",
+      "onboard_time": 1734028151,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 172554,
@@ -259,14 +275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135069,
-      "num": 135069,
-      "word": "部门介入男子抱赤裸幼子站街头",
-      "onboard_time": 1734034091,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132327,
       "num": 132327,
       "word": "田曦薇定妆",
@@ -275,12 +283,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122895,
+      "num": 122895,
+      "word": "尹锡悦反问这怎么能是内乱呢",
+      "onboard_time": 1734028032,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 122135,
+      "num": 122135,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121903,
       "num": 121903,
       "word": "部署2025年经济工作",
       "onboard_time": 1734007039,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120918,
+      "num": 120918,
+      "word": "人肉火烧造谣者已被行政拘留",
+      "onboard_time": 1734039432,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 115132,
@@ -323,14 +355,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 103394,
-      "num": 103394,
-      "word": "老师突然晕倒大一女生们分工救人",
-      "onboard_time": 1734028151,
-      "rank": 43,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 102692,
       "num": 102692,
       "word": "徐志胜 加戏",
@@ -353,14 +377,6 @@
       "onboard_time": 1734008660,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98299,
-      "num": 98299,
-      "word": "人肉火烧造谣者已被行政拘留",
-      "onboard_time": 1734039432,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 96235,
@@ -395,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87710,
-      "num": 87710,
-      "word": "尹锡悦反问这怎么能是内乱呢",
-      "onboard_time": 1734028032,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85489,
       "num": 85489,
       "word": "赛琳娜宣布订婚",
@@ -417,14 +425,6 @@
       "onboard_time": 1734013760,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77867,
-      "num": 80343,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 75893,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49419,
+      "num": 45340,
+      "word": "苟仲文严重破坏体育系统政治生态",
+      "onboard_time": 1734032712,
+      "rank": 31,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 39992,
       "num": 54666,
       "word": "明年要抓好9个重点任务",
@@ -491,19 +499,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37154,
-      "num": 32634,
-      "word": "苟仲文严重破坏体育系统政治生态",
-      "onboard_time": 1734032712,
-      "rank": 31,
-      "category": "国内时政,体育"
+      "raw_hot": 33918,
+      "num": 33918,
+      "word": "美国对中国多晶硅加征50%关税",
+      "onboard_time": 1734031632,
+      "rank": 38,
+      "category": "国际时政,财经"
     },
     {
-      "raw_hot": 30931,
-      "num": 30931,
+      "raw_hot": 32218,
+      "num": 32218,
       "word": "AI还原南京大屠杀幸存者童年",
       "onboard_time": 1734037151,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31822,
+      "num": 78823,
+      "word": "提高城乡居民医保财政补助标准",
+      "onboard_time": 1734041231,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -523,12 +539,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27430,
-      "num": 27430,
-      "word": "美国对中国多晶硅加征50%关税",
-      "onboard_time": 1734031632,
-      "rank": 38,
-      "category": "国际时政,财经"
+      "raw_hot": 25239,
+      "num": 33199,
+      "word": "整治内卷式竞争",
+      "onboard_time": 1734031751,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25077,
@@ -539,28 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23175,
-      "num": 33199,
-      "word": "整治内卷式竞争",
-      "onboard_time": 1734031751,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21629,
       "num": 23581,
       "word": "2025春节档电影神仙打架",
       "onboard_time": 1734028813,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20849,
-      "num": 78823,
-      "word": "提高城乡居民医保财政补助标准",
-      "onboard_time": 1734041231,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18814,
@@ -576,6 +576,14 @@
       "word": "多到中国各地走走看看",
       "onboard_time": 1734036431,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15154,
+      "num": 227820,
+      "word": "盘点2024新质生产力新突破",
+      "onboard_time": 1734009740,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12952,
-      "num": 227820,
-      "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 13044,
+      "num": 116867,
+      "word": "2024中国向新发力",
+      "onboard_time": 1734042433,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 12592,
