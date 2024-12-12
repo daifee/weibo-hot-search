@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734007713269,
+  "endTime": 1734008628767,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -379,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663186,
+      "num": 408453,
+      "word": "制酱文化被韩国申遗成功了",
+      "onboard_time": 1734006260,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632801,
       "num": 632801,
       "word": "贵女",
@@ -403,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605907,
+      "num": 385124,
+      "word": "倪萍把麦琳说懵了",
+      "onboard_time": 1734006859,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589023,
       "num": 589023,
       "word": "尹锡悦发表对国民谈话",
       "onboard_time": 1733964799,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 577417,
+      "num": 377559,
+      "word": "马嘉祺直播",
+      "onboard_time": 1734008301,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 570181,
@@ -707,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408453,
-      "num": 408453,
-      "word": "制酱文化被韩国申遗成功了",
-      "onboard_time": 1734006260,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405427,
       "num": 405427,
       "word": "华润物业回应深圳高层爆炸事故",
@@ -747,8 +763,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387087,
-      "num": 387087,
+      "raw_hot": 391812,
+      "num": 391812,
       "word": "英伟达中国声明",
       "onboard_time": 1734002780,
       "rank": 36,
@@ -947,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 303595,
-      "num": 332554,
-      "word": "倪萍把麦琳说懵了",
-      "onboard_time": 1734006859,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 301290,
       "num": 564301,
       "word": "王楚钦vs全开源",
@@ -1040,6 +1048,14 @@
       "word": "个人养老金已有7000万人开户",
       "onboard_time": 1733977341,
       "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 277636,
+      "num": 277636,
+      "word": "A50",
+      "onboard_time": 1734007397,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -1155,6 +1171,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256661,
+      "num": 256661,
+      "word": "部署2025年经济工作",
+      "onboard_time": 1734007039,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 256357,
+      "num": 256357,
+      "word": "丁禹兮直播",
+      "onboard_time": 1734007278,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252377,
       "num": 252377,
       "word": "陈晓名下工作室仅1家存续",
@@ -1192,6 +1224,14 @@
       "word": "张晚意被评为三级演员",
       "onboard_time": 1733990780,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243627,
+      "num": 243627,
+      "word": "李昀锐 薄肌",
+      "onboard_time": 1734007699,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1411,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208837,
-      "num": 208837,
-      "word": "丁禹兮直播",
-      "onboard_time": 1734007278,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208769,
       "num": 304749,
       "word": "西村力澄清",
@@ -1555,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198821,
-      "num": 198821,
-      "word": "A50",
-      "onboard_time": 1734007397,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 197875,
       "num": 197875,
       "word": "库里投篮选择",
@@ -1611,14 +1635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195552,
-      "num": 195552,
-      "word": "部署2025年经济工作",
-      "onboard_time": 1734007039,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 195355,
       "num": 195355,
       "word": "公职人员名下9家公司称身份证丢4次",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1733976200,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194318,
+      "num": 194318,
+      "word": "经济工作会议",
+      "onboard_time": 1734006619,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193573,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1733992100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191375,
+      "num": 386009,
+      "word": "山东魏桥3比0山东鲁能",
+      "onboard_time": 1734007461,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 190537,
@@ -1737,6 +1769,14 @@
       "onboard_time": 1733973378,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185135,
+      "num": 185135,
+      "word": "鲁花回应食用油碳化",
+      "onboard_time": 1734005061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183728,
@@ -1939,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168890,
+      "num": 384145,
+      "word": "住宅公摊面积到底该不该取消",
+      "onboard_time": 1734006260,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167361,
       "num": 167732,
       "word": "迪丽热巴红衣新造型路透",
@@ -2075,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151175,
-      "num": 151175,
-      "word": "经济工作会议",
-      "onboard_time": 1734006619,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151034,
       "num": 151034,
       "word": "目击者回应深圳一住宅楼突发爆炸",
@@ -2171,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144494,
+      "num": 338427,
+      "word": "拉伸的王楚钦表情好萌",
+      "onboard_time": 1734007278,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143923,
       "num": 414317,
       "word": "阴阳师",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1733981241,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142534,
+      "num": 142534,
+      "word": "郭敬明又发了月麟绮纪原始帧",
+      "onboard_time": 1734003379,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142401,
@@ -2249,14 +2305,6 @@
       "onboard_time": 1733930899,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131709,
-      "num": 131709,
-      "word": "李昀锐 薄肌",
-      "onboard_time": 1734007699,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 131234,
@@ -2451,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107747,
+      "num": 382054,
+      "word": "千万彩票被冒领当事人回应5年维权",
+      "onboard_time": 1734006859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107681,
       "num": 536112,
       "word": "韩国在野党再次提交尹锡悦弹劾案",
@@ -2523,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99167,
+      "num": 246918,
+      "word": "决战考研",
+      "onboard_time": 1734008599,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98270,
       "num": 660601,
       "word": "官方回应荆州奥体中心飞机坠落",
@@ -2587,6 +2651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93570,
+      "num": 188367,
+      "word": "孙颖莎 Prada",
+      "onboard_time": 1734008539,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93104,
       "num": 93104,
       "word": "极越回应经营状况",
@@ -2641,14 +2713,6 @@
       "onboard_time": 1733905820,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88912,
-      "num": 384145,
-      "word": "住宅公摊面积到底该不该取消",
-      "onboard_time": 1734006260,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86692,
@@ -2851,14 +2915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73199,
-      "num": 338427,
-      "word": "拉伸的王楚钦表情好萌",
-      "onboard_time": 1734007278,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71243,
       "num": 71243,
       "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
@@ -2939,14 +2995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 62474,
-      "num": 382054,
-      "word": "千万彩票被冒领当事人回应5年维权",
-      "onboard_time": 1734006859,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62175,
       "num": 73148,
       "word": "广东人的厚衣服要拿出来了",
@@ -2979,6 +3027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58379,
+      "num": 258746,
+      "word": "男子疑博眼球抱赤裸幼子站街头",
+      "onboard_time": 1734008481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57865,
       "num": 57865,
       "word": "王安宇 好险差点饿死",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1733925261,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56372,
+      "num": 270697,
+      "word": "九重紫原著",
+      "onboard_time": 1734008179,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 54939,
@@ -3035,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48152,
+      "num": 178373,
+      "word": "周深第一次配音原来是独自发疯",
+      "onboard_time": 1734006439,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47641,
       "num": 316520,
       "word": "张艺兴官宣加盟江苏卫视跨年",
@@ -3057,14 +3129,6 @@
       "onboard_time": 1733935936,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45722,
-      "num": 386009,
-      "word": "山东魏桥3比0山东鲁能",
-      "onboard_time": 1734007461,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 44738,
@@ -3105,6 +3169,14 @@
       "onboard_time": 1734001701,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41175,
+      "num": 277054,
+      "word": "成毅时装男士十二月封面造型",
+      "onboard_time": 1734008238,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41142,
@@ -3299,6 +3371,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 31420,
+      "num": 374735,
+      "word": "山东魏桥两连胜",
+      "onboard_time": 1734007461,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31401,
       "num": 240256,
       "word": "云辇Z动态实测曝光",
@@ -3427,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16353,
+      "num": 277995,
+      "word": "我们为什么爱看八九十年代剧",
+      "onboard_time": 1734008599,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16279,
       "num": 501725,
       "word": "共享充电宝超1秒按半小时收费合理吗",
@@ -3443,11 +3531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11186,
-      "num": 374735,
-      "word": "山东魏桥两连胜",
-      "onboard_time": 1734007461,
-      "rank": 14,
+      "raw_hot": 14238,
+      "num": 262999,
+      "word": "沙特世界杯比赛球场分布",
+      "onboard_time": 1734008301,
+      "rank": 18,
       "category": "体育"
     },
     {

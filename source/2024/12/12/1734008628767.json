@@ -1,0 +1,410 @@
+{
+  "runTime": 1734008628767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153537,
+        "num": 1184565,
+        "word": "叶祖新微博在线求职",
+        "onboard_time": 1734000859,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419402,
+        "num": 419402,
+        "word": "王曼昱因病乒超退赛",
+        "onboard_time": 1734004159,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40785,
+        "num": 397996,
+        "word": "从超级工程看中国人的魄力",
+        "onboard_time": 1733997260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1687711,
+        "num": 395115,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663186,
+        "num": 394300,
+        "word": "制酱文化被韩国申遗成功了",
+        "onboard_time": 1734006260,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 391812,
+        "num": 391812,
+        "word": "英伟达中国声明",
+        "onboard_time": 1734002780,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 605907,
+        "num": 385124,
+        "word": "倪萍把麦琳说懵了",
+        "onboard_time": 1734006859,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577417,
+        "num": 377559,
+        "word": "马嘉祺直播",
+        "onboard_time": 1734008301,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297602,
+        "num": 297602,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1734003680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107747,
+        "num": 297151,
+        "word": "千万彩票被冒领当事人回应5年维权",
+        "onboard_time": 1734006859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479217,
+        "num": 292536,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422771,
+        "num": 291031,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405265,
+        "num": 287742,
+        "word": "我是刑警拍了白银28年恶性大案",
+        "onboard_time": 1734005420,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286292,
+        "num": 286292,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1734002360,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16353,
+        "num": 277995,
+        "word": "我们为什么爱看八九十年代剧",
+        "onboard_time": 1734008599,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277636,
+        "num": 277636,
+        "word": "A50",
+        "onboard_time": 1734007397,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41175,
+        "num": 277054,
+        "word": "成毅时装男士十二月封面造型",
+        "onboard_time": 1734008238,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56372,
+        "num": 270697,
+        "word": "九重紫原著",
+        "onboard_time": 1734008179,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14238,
+        "num": 262999,
+        "word": "沙特世界杯比赛球场分布",
+        "onboard_time": 1734008301,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58379,
+        "num": 258746,
+        "word": "男子疑博眼球抱赤裸幼子站街头",
+        "onboard_time": 1734008481,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256661,
+        "num": 256661,
+        "word": "部署2025年经济工作",
+        "onboard_time": 1734007039,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407674,
+        "num": 256627,
+        "word": "37岁主持人因书房着火去世",
+        "onboard_time": 1734001641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252834,
+        "num": 256521,
+        "word": "Jennie朴彩英纽约路透",
+        "onboard_time": 1734004520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366532,
+        "num": 256462,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287101,
+        "num": 256411,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256357,
+        "num": 256357,
+        "word": "丁禹兮直播",
+        "onboard_time": 1734007278,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191375,
+        "num": 254798,
+        "word": "山东魏桥3比0山东鲁能",
+        "onboard_time": 1734007461,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253433,
+        "num": 253433,
+        "word": "九重紫",
+        "onboard_time": 1733999300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250967,
+        "num": 250967,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99167,
+        "num": 246918,
+        "word": "决战考研",
+        "onboard_time": 1734008599,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243627,
+        "num": 243627,
+        "word": "李昀锐 薄肌",
+        "onboard_time": 1734007699,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227052,
+        "num": 227052,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395414,
+        "num": 216947,
+        "word": "马嘉祺 几点直播",
+        "onboard_time": 1734005180,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144494,
+        "num": 204305,
+        "word": "拉伸的王楚钦表情好萌",
+        "onboard_time": 1734007278,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194318,
+        "num": 194318,
+        "word": "经济工作会议",
+        "onboard_time": 1734006619,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617028,
+        "num": 192789,
+        "word": "买了三折叠一个手滑摔裂了要退机",
+        "onboard_time": 1733996479,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93570,
+        "num": 188367,
+        "word": "孙颖莎 Prada",
+        "onboard_time": 1734008539,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185135,
+        "num": 185135,
+        "word": "鲁花回应食用油碳化",
+        "onboard_time": 1734005061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48152,
+        "num": 178373,
+        "word": "周深第一次配音原来是独自发疯",
+        "onboard_time": 1734006439,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177722,
+        "num": 177722,
+        "word": "湖南衡阳官宣取消公摊",
+        "onboard_time": 1733995940,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177505,
+        "num": 177505,
+        "word": "猎罪2丈夫杀妻被反杀",
+        "onboard_time": 1734005840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174570,
+        "num": 174570,
+        "word": "极越商业版图盘点",
+        "onboard_time": 1733999059,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171254,
+        "num": 171254,
+        "word": "导演让孟子义李昀锐私下多练练接吻",
+        "onboard_time": 1734001100,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168890,
+        "num": 168890,
+        "word": "住宅公摊面积到底该不该取消",
+        "onboard_time": 1734006260,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165040,
+        "num": 165040,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 159070,
+        "word": "山东魏桥两连胜",
+        "onboard_time": 1734007461,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154843,
+        "num": 154843,
+        "word": "韩方称中国产太阳能会破坏韩国森林",
+        "onboard_time": 1733992760,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154351,
+        "num": 154351,
+        "word": "张艺凡刮彩票连中12个7",
+        "onboard_time": 1733997080,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "星光大赏阵容",
+        "onboard_time": 1733994619,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142534,
+        "num": 142534,
+        "word": "郭敬明又发了月麟绮纪原始帧",
+        "onboard_time": 1734003379,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的中国与世界#"
+    }
+  }
+}

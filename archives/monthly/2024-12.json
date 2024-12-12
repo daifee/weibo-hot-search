@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734007713269,
+  "endTime": 1734008628767,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -4747,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663186,
+      "num": 408453,
+      "word": "制酱文化被韩国申遗成功了",
+      "onboard_time": 1734006260,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 661888,
       "num": 661888,
       "word": "水电九局报案",
@@ -5379,6 +5387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 605907,
+      "num": 385124,
+      "word": "倪萍把麦琳说懵了",
+      "onboard_time": 1734006859,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605729,
       "num": 605729,
       "word": "释小龙大吃一口秦海璐周一围的苦",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1733033718,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 577417,
+      "num": 377559,
+      "word": "马嘉祺直播",
+      "onboard_time": 1734008301,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 576951,
@@ -8835,14 +8859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408453,
-      "num": 408453,
-      "word": "制酱文化被韩国申遗成功了",
-      "onboard_time": 1734006260,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 407053,
       "num": 300573,
       "word": "国家大剧院",
@@ -9211,6 +9227,14 @@
       "category": "网红,舆论监督"
     },
     {
+      "raw_hot": 391812,
+      "num": 391812,
+      "word": "英伟达中国声明",
+      "onboard_time": 1734002780,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 391159,
       "num": 467457,
       "word": "尹锡悦宣布戒严影响一波又一波",
@@ -9273,14 +9297,6 @@
       "onboard_time": 1733579542,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387087,
-      "num": 387087,
-      "word": "英伟达中国声明",
-      "onboard_time": 1734002780,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 386805,
@@ -11643,14 +11659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 303595,
-      "num": 332554,
-      "word": "倪萍把麦琳说懵了",
-      "onboard_time": 1734006859,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303357,
       "num": 374576,
       "word": "以色列袭击叙利亚海军舰队",
@@ -12603,6 +12611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277636,
+      "num": 277636,
+      "word": "A50",
+      "onboard_time": 1733731039,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 277456,
       "num": 277456,
       "word": "你以为很懒其实很健康的行为",
@@ -13379,6 +13395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 256661,
+      "num": 256661,
+      "word": "部署2025年经济工作",
+      "onboard_time": 1734007039,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256478,
       "num": 307576,
       "word": "iG官宣新阵容剪影",
@@ -13851,14 +13875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 246874,
-      "num": 246874,
-      "word": "A50",
-      "onboard_time": 1733731039,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 246748,
       "num": 246748,
       "word": "陈都灵的头纱",
@@ -14017,6 +14033,14 @@
       "onboard_time": 1733908941,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 243627,
+      "num": 243627,
+      "word": "李昀锐 薄肌",
+      "onboard_time": 1734007699,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 243622,
@@ -18091,14 +18115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195552,
-      "num": 195552,
-      "word": "部署2025年经济工作",
-      "onboard_time": 1734007039,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 195536,
       "num": 195536,
       "word": "考生称行测题目变化大",
@@ -18305,6 +18321,14 @@
       "onboard_time": 1733883439,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194318,
+      "num": 194318,
+      "word": "经济工作会议",
+      "onboard_time": 1734006619,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194183,
@@ -18713,6 +18737,14 @@
       "onboard_time": 1733316863,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 191375,
+      "num": 386009,
+      "word": "山东魏桥3比0山东鲁能",
+      "onboard_time": 1734007461,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 191366,
@@ -19737,6 +19769,14 @@
       "onboard_time": 1733119158,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185135,
+      "num": 185135,
+      "word": "鲁花回应食用油碳化",
+      "onboard_time": 1734005061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185006,
@@ -21713,6 +21753,14 @@
       "onboard_time": 1733115380,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168890,
+      "num": 384145,
+      "word": "住宅公摊面积到底该不该取消",
+      "onboard_time": 1734006260,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168841,
@@ -24211,14 +24259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151175,
-      "num": 151175,
-      "word": "经济工作会议",
-      "onboard_time": 1734006619,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151134,
       "num": 135560,
       "word": "丁禹兮海上唱重塑",
@@ -25219,6 +25259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144494,
+      "num": 338427,
+      "word": "拉伸的王楚钦表情好萌",
+      "onboard_time": 1734007278,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144450,
       "num": 144450,
       "word": "严浩翔 亢奋",
@@ -25417,6 +25465,14 @@
       "onboard_time": 1733981241,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142534,
+      "num": 142534,
+      "word": "郭敬明又发了月麟绮纪原始帧",
+      "onboard_time": 1734003379,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 142502,
@@ -26985,14 +27041,6 @@
       "onboard_time": 1732995131,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131709,
-      "num": 131709,
-      "word": "李昀锐 薄肌",
-      "onboard_time": 1734007699,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 131684,
@@ -29907,6 +29955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107747,
+      "num": 382054,
+      "word": "千万彩票被冒领当事人回应5年维权",
+      "onboard_time": 1734006859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107681,
       "num": 410278,
       "word": "韩国在野党11日将再提尹锡悦弹劾案",
@@ -30907,6 +30963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99167,
+      "num": 246918,
+      "word": "决战考研",
+      "onboard_time": 1734008599,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99029,
       "num": 141264,
       "word": "第五人格赛事",
@@ -31531,6 +31595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93570,
+      "num": 188367,
+      "word": "孙颖莎 Prada",
+      "onboard_time": 1734008539,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93552,
       "num": 93552,
       "word": "孟子义李昀锐好嗑",
@@ -31937,14 +32009,6 @@
       "onboard_time": 1733553558,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88912,
-      "num": 384145,
-      "word": "住宅公摊面积到底该不该取消",
-      "onboard_time": 1734006260,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88877,
@@ -33491,14 +33555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73199,
-      "num": 338427,
-      "word": "拉伸的王楚钦表情好萌",
-      "onboard_time": 1734007278,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73017,
       "num": 471283,
       "word": "林诗栋蒯曼3比0卢伟洪剑芳",
@@ -34611,14 +34667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62474,
-      "num": 382054,
-      "word": "千万彩票被冒领当事人回应5年维权",
-      "onboard_time": 1734006859,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62231,
       "num": 98319,
       "word": "北国雪原战机上演鹰击长空",
@@ -35155,6 +35203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58379,
+      "num": 258746,
+      "word": "男子疑博眼球抱赤裸幼子站街头",
+      "onboard_time": 1734008481,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58082,
       "num": 307865,
       "word": "韩国400多年前火枪用汉字标注重量",
@@ -35369,6 +35425,14 @@
       "onboard_time": 1733832259,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 56372,
+      "num": 270697,
+      "word": "九重紫原著",
+      "onboard_time": 1734008179,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 56361,
@@ -36467,6 +36531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48152,
+      "num": 178373,
+      "word": "周深第一次配音原来是独自发疯",
+      "onboard_time": 1734006439,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47972,
       "num": 398584,
       "word": "坍塌铁路施工方6月曾宣誓安全生产",
@@ -36809,14 +36881,6 @@
       "onboard_time": 1733331616,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45722,
-      "num": 386009,
-      "word": "山东魏桥3比0山东鲁能",
-      "onboard_time": 1734007461,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 45650,
@@ -37512,6 +37576,14 @@
       "word": "刘雯演绎七套香奈儿高级手工坊",
       "onboard_time": 1733129120,
       "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 41175,
+      "num": 277054,
+      "word": "成毅时装男士十二月封面造型",
+      "onboard_time": 1734008238,
+      "rank": 16,
       "category": "作品衍生,时尚"
     },
     {
@@ -39313,6 +39385,14 @@
       "onboard_time": 1733392940,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31420,
+      "num": 374735,
+      "word": "山东魏桥两连胜",
+      "onboard_time": 1734007461,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 31401,
@@ -41747,6 +41827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16353,
+      "num": 277995,
+      "word": "我们为什么爱看八九十年代剧",
+      "onboard_time": 1734008599,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16315,
       "num": 318593,
       "word": "金花股份挪用募资炒股被监管",
@@ -42227,6 +42315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 14238,
+      "num": 262999,
+      "word": "沙特世界杯比赛球场分布",
+      "onboard_time": 1734008301,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14230,
       "num": 124135,
       "word": "JDG官宣Kanavi离队",
@@ -42649,14 +42745,6 @@
       "onboard_time": 1733430492,
       "rank": 15,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 11186,
-      "num": 374735,
-      "word": "山东魏桥两连胜",
-      "onboard_time": 1734007461,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 11158,
