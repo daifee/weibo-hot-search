@@ -1,0 +1,410 @@
+{
+  "runTime": 1733978676317,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1909089,
+        "num": 1909089,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1145735,
+        "num": 1145735,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82783,
+        "num": 1122011,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1104243,
+        "num": 1104243,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 916186,
+        "num": 916186,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258626,
+        "num": 870357,
+        "word": "个人养老金已有7000万人开户",
+        "onboard_time": 1733977341,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 865931,
+        "num": 865931,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 836214,
+        "num": 836214,
+        "word": "女主播被榜一大哥骗走十几万",
+        "onboard_time": 1733974219,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699324,
+        "num": 699324,
+        "word": "玄彬综艺上叫孙艺珍我老婆",
+        "onboard_time": 1733976920,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653559,
+        "num": 653559,
+        "word": "全球最贵iPhone16ProMax登场",
+        "onboard_time": 1733970918,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1712722,
+        "num": 635362,
+        "word": "情侣吵架后双双跳河身亡",
+        "onboard_time": 1733975360,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614411,
+        "num": 614411,
+        "word": "再见爱人",
+        "onboard_time": 1733977701,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597726,
+        "num": 597726,
+        "word": "抖音下架209部违规微短剧",
+        "onboard_time": 1733967378,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37970,
+        "num": 519740,
+        "word": "以色列首次从黎巴嫩撤军",
+        "onboard_time": 1733977760,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 497773,
+        "num": 497773,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 467354,
+        "num": 467354,
+        "word": "丁禹兮粉丝认错正主",
+        "onboard_time": 1733976741,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145779,
+        "num": 459177,
+        "word": "芒果跨年 虞书欣和她的男主角们",
+        "onboard_time": 1733978420,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451172,
+        "num": 451172,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 77744,
+        "num": 446560,
+        "word": "刀郎演唱会门票已成尽孝硬通货",
+        "onboard_time": 1733977220,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32149,
+        "num": 445390,
+        "word": "陈伟霆宁泽涛battle名场面",
+        "onboard_time": 1733977042,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 444905,
+        "num": 444905,
+        "word": "樊振东vs侯英超",
+        "onboard_time": 1733972660,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455961,
+        "num": 444587,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 21,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 442393,
+        "num": 442393,
+        "word": "郭敬明发鞠婧祎新原始帧",
+        "onboard_time": 1733964619,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394967,
+        "num": 421029,
+        "word": "孙颖莎可爱的糯米团子",
+        "onboard_time": 1733976320,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175254,
+        "num": 412110,
+        "word": "极越研发部门全员被裁",
+        "onboard_time": 1733975659,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 410751,
+        "num": 410751,
+        "word": "个人养老金制度即将全国推行",
+        "onboard_time": 1733970378,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359185,
+        "num": 359185,
+        "word": "女子坐月子套塑料袋出院",
+        "onboard_time": 1733975720,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333932,
+        "num": 333932,
+        "word": "中国人习惯性内卷在国外很吃亏",
+        "onboard_time": 1733975720,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66632,
+        "num": 331312,
+        "word": "时代少年团发文为马嘉祺庆生",
+        "onboard_time": 1733978662,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39097,
+        "num": 323987,
+        "word": "T风格论坛",
+        "onboard_time": 1733978181,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86559,
+        "num": 318134,
+        "word": "沈梦瑶成立个人公司",
+        "onboard_time": 1733978540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106294,
+        "num": 312713,
+        "word": "曾轶可热舞",
+        "onboard_time": 1733977521,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308780,
+        "num": 308780,
+        "word": "韩特种部队队长街头哽咽喊冤",
+        "onboard_time": 1733970318,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301290,
+        "num": 301290,
+        "word": "王楚钦vs全开源",
+        "onboard_time": 1733972718,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292578,
+        "num": 292578,
+        "word": "孟子义李昀锐聊第一次拍吻戏",
+        "onboard_time": 1733977461,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140644,
+        "num": 283177,
+        "word": "叙利亚政局突变对以色列意味着什么",
+        "onboard_time": 1733976620,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274481,
+        "num": 274481,
+        "word": "为什么有人把脚伸出被子睡觉",
+        "onboard_time": 1733961738,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269498,
+        "num": 269498,
+        "word": "下属的工资比自己高",
+        "onboard_time": 1733977580,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251939,
+        "num": 251939,
+        "word": "极越为何突然崩盘",
+        "onboard_time": 1733970318,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 241005,
+        "num": 241005,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232665,
+        "num": 232665,
+        "word": "30万粉丝网红养的40多只羊同时失踪",
+        "onboard_time": 1733977642,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133449,
+        "num": 230555,
+        "word": "成毅杂志",
+        "onboard_time": 1733973740,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230273,
+        "num": 230273,
+        "word": "第一个被AI折磨的职业出现了",
+        "onboard_time": 1733971159,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28206,
+        "num": 222335,
+        "word": "刘诗诗酷姐赛道适配度",
+        "onboard_time": 1733973919,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220762,
+        "num": 220762,
+        "word": "我是刑警 吃顿饭被提取DNA",
+        "onboard_time": 1733972479,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211626,
+        "num": 211626,
+        "word": "张诗尧评论汪苏泷",
+        "onboard_time": 1733978121,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194461,
+        "num": 194461,
+        "word": "王楚钦乒超开门红",
+        "onboard_time": 1733976200,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192300,
+        "num": 192300,
+        "word": "白敬亭文咏珊开机路透",
+        "onboard_time": 1733972059,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188769,
+        "num": 188769,
+        "word": "一文了解个人养老金最新政策",
+        "onboard_time": 1733975959,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173859,
+        "num": 173859,
+        "word": "夏一平",
+        "onboard_time": 1733978361,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
