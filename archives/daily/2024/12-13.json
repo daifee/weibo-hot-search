@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734021059563,
+  "endTime": 1734022077478,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 495320,
-      "num": 138085,
+      "num": 172086,
       "word": "宋佳结婚我的态度",
       "onboard_time": 1734009019,
       "rank": 20,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 308828,
-      "num": 137430,
+      "num": 171961,
       "word": "37岁主持人因书房着火去世",
       "onboard_time": 1734001641,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297189,
+      "num": 358349,
+      "word": "国家公祭日",
+      "onboard_time": 1734020778,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 290138,
@@ -91,6 +99,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247149,
+      "num": 247149,
+      "word": "一起缅怀30余万死难同胞",
+      "onboard_time": 1734021018,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 243088,
+      "num": 249806,
+      "word": "19371213永不敢忘",
+      "onboard_time": 1734021018,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 241395,
+      "num": 241395,
+      "word": "卡琳娜 2024年最爱cos之一",
+      "onboard_time": 1734017300,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 236639,
       "num": 236639,
       "word": "泰国女团成员挺孕肚开演唱会唱跳",
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 222784,
-      "num": 136780,
+      "num": 171943,
       "word": "关晓彤参加小巷人家研讨会",
       "onboard_time": 1734017779,
       "rank": 22,
@@ -115,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213956,
+      "num": 358468,
+      "word": "中央定基调明年经济工作这么干",
+      "onboard_time": 1734017180,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210499,
-      "num": 136529,
+      "num": 171660,
       "word": "37岁去世主持人妻子怀孕5个月",
       "onboard_time": 1734012981,
       "rank": 23,
@@ -129,22 +169,6 @@
       "onboard_time": 1734017840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201963,
-      "num": 358468,
-      "word": "中央定基调明年经济工作这么干",
-      "onboard_time": 1734017180,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 199202,
-      "num": 199202,
-      "word": "卡琳娜 2024年最爱cos之一",
-      "onboard_time": 1734017300,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 191855,
@@ -163,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172554,
+      "num": 172554,
+      "word": "以国之名悼我同胞",
+      "onboard_time": 1734021197,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166736,
       "num": 135450,
       "word": "有暖气地区的统一睡姿",
@@ -172,11 +204,19 @@
     },
     {
       "raw_hot": 159562,
-      "num": 134809,
+      "num": 145144,
       "word": "曝宋佳已领证结婚",
       "onboard_time": 1733989221,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154043,
+      "num": 154043,
+      "word": "藕饼",
+      "onboard_time": 1734019219,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 153487,
@@ -187,20 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147281,
-      "num": 133577,
+      "raw_hot": 149450,
+      "num": 149450,
       "word": "什么是三级演员职称",
       "onboard_time": 1734015742,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145529,
-      "num": 132609,
-      "word": "藕饼",
-      "onboard_time": 1734019219,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 142961,
@@ -216,14 +248,6 @@
       "word": "经济工作会议",
       "onboard_time": 1734006619,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 135618,
-      "num": 358349,
-      "word": "国家公祭日",
-      "onboard_time": 1734020778,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -323,20 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91808,
-      "num": 91808,
-      "word": "一起缅怀30余万死难同胞",
-      "onboard_time": 1734021018,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 90361,
-      "num": 133356,
-      "word": "19371213永不敢忘",
-      "onboard_time": 1734021018,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 93362,
+      "num": 93362,
+      "word": "李昀锐 薄肌",
+      "onboard_time": 1734007699,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 88647,
@@ -363,20 +379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75893,
+      "num": 164101,
+      "word": "王楚钦回应3比1战胜徐瑛彬",
+      "onboard_time": 1734020118,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72778,
       "num": 72778,
       "word": "张颂文说从没糊弄过任何角色",
       "onboard_time": 1734014662,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71112,
-      "num": 71112,
-      "word": "王楚钦回应3比1战胜徐瑛彬",
-      "onboard_time": 1734020118,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 56447,
@@ -395,7 +411,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7021,
+      "raw_hot": 13184,
       "num": 135948,
       "word": "刘雨辰观战雅思组合总决赛",
       "onboard_time": 1734020657,
