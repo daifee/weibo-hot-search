@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734013394069,
+  "endTime": 1734014567319,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2320067,
-      "num": 747130,
+      "raw_hot": 2380812,
+      "num": 885589,
       "word": "韩娱地震",
       "onboard_time": 1734000019,
       "rank": 22,
@@ -147,12 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1307974,
+      "num": 1307974,
+      "word": "李佳琦直播佣金曝光",
+      "onboard_time": 1734013642,
+      "rank": 0,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1294780,
       "num": 1294780,
       "word": "全球最贵iPhone16ProMax登场",
       "onboard_time": 1733970918,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1250300,
+      "num": 776967,
+      "word": "曝某95花否掉九个男主",
+      "onboard_time": 1734010220,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1205113,
@@ -185,14 +201,6 @@
       "onboard_time": 1733982080,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1103197,
-      "num": 725325,
-      "word": "曝某95花否掉九个男主",
-      "onboard_time": 1734010220,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 1077036,
@@ -387,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 713761,
+      "num": 713761,
+      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+      "onboard_time": 1734011121,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710725,
       "num": 710725,
       "word": "女子上厕所摔倒致残公司拒赔20万",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 700409,
-      "num": 346211,
+      "num": 410341,
       "word": "张凌赫逐玉一番",
       "onboard_time": 1734008660,
       "rank": 6,
@@ -441,14 +457,6 @@
       "onboard_time": 1733930059,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 642245,
-      "num": 642245,
-      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
-      "onboard_time": 1734011121,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 632801,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414949,
+      "num": 337525,
+      "word": "37岁去世主持人妻子怀孕5个月",
+      "onboard_time": 1734012981,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412823,
       "num": 327992,
       "word": "梁祯元 抽烟",
@@ -1019,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308376,
+      "num": 308376,
+      "word": "白银案",
+      "onboard_time": 1734013461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306855,
       "num": 773960,
       "word": "外交部驳斥尹锡悦涉华负面言论",
@@ -1132,7 +1156,7 @@
     },
     {
       "raw_hot": 278624,
-      "num": 346495,
+      "num": 644103,
       "word": "部署2025年经济工作",
       "onboard_time": 1734007039,
       "rank": 35,
@@ -1235,6 +1259,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 263006,
+      "num": 353986,
+      "word": "留几手拿葛夕的抑郁药装成是他的",
+      "onboard_time": 1734013342,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261402,
       "num": 315612,
       "word": "九重紫出轨男女变纯爱男女",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1733990780,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243827,
+      "num": 340614,
+      "word": "孙颖莎青苹果球衣",
+      "onboard_time": 1734013760,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 242018,
@@ -1380,7 +1420,7 @@
     },
     {
       "raw_hot": 233896,
-      "num": 176957,
+      "num": 223493,
       "word": "猴哥说车回应破产传闻",
       "onboard_time": 1734010581,
       "rank": 37,
@@ -1459,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219616,
+      "num": 219616,
+      "word": "王楚钦离场时捡走了地上的垃圾",
+      "onboard_time": 1734011299,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217258,
       "num": 217258,
       "word": "白鹿探班敖瑞鹏",
@@ -1476,7 +1524,7 @@
     },
     {
       "raw_hot": 214720,
-      "num": 176886,
+      "num": 210825,
       "word": "沈翊黑化倒计时",
       "onboard_time": 1734012020,
       "rank": 33,
@@ -1779,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192773,
-      "num": 176722,
-      "word": "王楚钦离场时捡走了地上的垃圾",
-      "onboard_time": 1734011299,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192362,
       "num": 192362,
       "word": "辽源",
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 189045,
-      "num": 176684,
+      "num": 186779,
       "word": "GD与朋友们",
       "onboard_time": 1734013280,
       "rank": 37,
@@ -2091,11 +2131,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169385,
-      "num": 169385,
-      "word": "37岁去世主持人妻子怀孕5个月",
-      "onboard_time": 1734012981,
-      "rank": 43,
+      "raw_hot": 170270,
+      "num": 331048,
+      "word": "中国考古已是另一个level了",
+      "onboard_time": 1734003079,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2136,6 +2176,14 @@
       "word": "崔永熙受伤",
       "onboard_time": 1733967738,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166737,
+      "num": 186880,
+      "word": "林高远 强心剂",
+      "onboard_time": 1734013881,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2281,6 +2329,14 @@
       "onboard_time": 1733980100,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153084,
+      "num": 153084,
+      "word": "李铁",
+      "onboard_time": 1734013701,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 152080,
@@ -2491,12 +2547,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133442,
-      "num": 177167,
-      "word": "留几手拿葛夕的抑郁药装成是他的",
-      "onboard_time": 1734013342,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 133075,
+      "num": 133075,
+      "word": "田曦薇定妆",
+      "onboard_time": 1734014541,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131534,
@@ -2513,6 +2569,14 @@
       "onboard_time": 1733984661,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130599,
+      "num": 130599,
+      "word": "控糖55天的皮肤变化",
+      "onboard_time": 1734011661,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130537,
@@ -2584,6 +2648,14 @@
       "word": "沈梦瑶成立个人公司",
       "onboard_time": 1733978540,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125217,
+      "num": 353348,
+      "word": "曝90生改剧本到自己满意才拍",
+      "onboard_time": 1734013642,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2873,14 +2945,6 @@
       "onboard_time": 1733919620,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 91830,
-      "num": 177115,
-      "word": "中国考古已是另一个level了",
-      "onboard_time": 1734003079,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91277,
@@ -3211,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66137,
+      "num": 349769,
+      "word": "中国人打包技能用在了考古上",
+      "onboard_time": 1734014421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64300,
       "num": 389193,
       "word": "周深亮相狮子王首映礼",
@@ -3379,8 +3451,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 42734,
-      "num": 747902,
+      "raw_hot": 43337,
+      "num": 918342,
       "word": "中国经济奋楫向前",
       "onboard_time": 1734009800,
       "rank": 2,
@@ -3619,6 +3691,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 31975,
+      "num": 413764,
+      "word": "官方回应网传张家界一吊脚楼文物起火",
+      "onboard_time": 1734013580,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31420,
       "num": 374735,
       "word": "山东魏桥两连胜",
@@ -3819,12 +3899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7721,
+      "num": 425294,
+      "word": "吉林辽源通报小区门店疑燃气爆炸",
+      "onboard_time": 1734014481,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6513,
       "num": 66419,
       "word": "李昀锐打戏",
       "onboard_time": 1733956333,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5878,
+      "num": 532662,
+      "word": "媒体评张文宏被AI造假带货",
+      "onboard_time": 1734014481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4765,
