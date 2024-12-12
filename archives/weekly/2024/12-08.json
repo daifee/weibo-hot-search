@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734017194563,
+  "endTime": 1734018083435,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1851,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728767,
+      "num": 728767,
+      "word": "白银案",
+      "onboard_time": 1734013461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 726791,
       "num": 487314,
       "word": "女子三金丢失准嫂嫂被刑拘",
@@ -2147,14 +2155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 659901,
-      "num": 659901,
-      "word": "白银案",
-      "onboard_time": 1734013461,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 655633,
       "num": 525787,
       "word": "推测蔡国强无人机坠海原因",
@@ -2225,6 +2225,14 @@
       "onboard_time": 1733660180,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 638054,
+      "num": 403563,
+      "word": "劣迹艺人无职称评审资格",
+      "onboard_time": 1734016100,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 637904,
@@ -4499,14 +4507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331710,
-      "num": 184251,
-      "word": "劣迹艺人无职称评审资格",
-      "onboard_time": 1734016100,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331025,
       "num": 331025,
       "word": "张若昀没案硬探",
@@ -5913,6 +5913,14 @@
       "onboard_time": 1733625017,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248936,
+      "num": 330305,
+      "word": "吉林一小区疑燃气爆炸已致13人受伤",
+      "onboard_time": 1734015800,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 248820,
@@ -7627,6 +7635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198260,
+      "num": 182488,
+      "word": "徐志胜 加戏",
+      "onboard_time": 1734016760,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198155,
       "num": 275534,
       "word": "藏海传首发预告",
@@ -8683,14 +8699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182488,
-      "num": 182488,
-      "word": "徐志胜 加戏",
-      "onboard_time": 1734016760,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182246,
       "num": 171125,
       "word": "叙利亚国内局势骤然升级",
@@ -8737,6 +8745,14 @@
       "onboard_time": 1733920999,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181250,
+      "num": 185012,
+      "word": "孟子义真诚",
+      "onboard_time": 1734015381,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 181047,
@@ -9091,6 +9107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174941,
+      "num": 300054,
+      "word": "张颂文说从没糊弄过任何角色",
+      "onboard_time": 1734014662,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174753,
       "num": 174753,
       "word": "雷军回应小米YU7为什么早公示",
@@ -9209,6 +9233,14 @@
       "onboard_time": 1733971639,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173244,
+      "num": 183195,
+      "word": "李现一人徒步鱼子西",
+      "onboard_time": 1734015619,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 173238,
@@ -10203,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "中央定基调明年经济工作这么干",
+      "onboard_time": 1734017180,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156971,
       "num": 156971,
       "word": "九重紫改命就是改念头",
@@ -10361,14 +10401,6 @@
       "onboard_time": 1733922739,
       "rank": 14,
       "category": "议题讨论,综艺"
-    },
-    {
-      "raw_hot": 154377,
-      "num": 264318,
-      "word": "张颂文说从没糊弄过任何角色",
-      "onboard_time": 1734014662,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 154294,
@@ -11771,14 +11803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130542,
-      "num": 130542,
-      "word": "吉林一小区疑燃气爆炸已致13人受伤",
-      "onboard_time": 1734015800,
-      "rank": 42,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 130283,
       "num": 130283,
       "word": "叙利亚局势为何反转这么快",
@@ -11843,6 +11867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129543,
+      "num": 129543,
+      "word": "关晓彤参加小巷人家研讨会",
+      "onboard_time": 1734017779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129503,
       "num": 129503,
       "word": "日本人不知南京大屠杀是日本之耻",
@@ -11883,20 +11915,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127863,
-      "num": 185012,
-      "word": "孟子义真诚",
-      "onboard_time": 1734015381,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
       "onboard_time": 1733710639,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126949,
+      "num": 126949,
+      "word": "电视台回应主持人李昕鑫去世",
+      "onboard_time": 1734017060,
+      "rank": 44,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 126913,
@@ -12129,14 +12161,6 @@
       "onboard_time": 1733897659,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123581,
-      "num": 123581,
-      "word": "电视台回应主持人李昕鑫去世",
-      "onboard_time": 1734017060,
-      "rank": 44,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 123511,
@@ -12459,14 +12483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116102,
-      "num": 183195,
-      "word": "李现一人徒步鱼子西",
-      "onboard_time": 1734015619,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "虞书欣双马尾波点裙",
@@ -12635,6 +12651,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 112398,
+      "num": 159114,
+      "word": "卡琳娜 2024年最爱cos之一",
+      "onboard_time": 1734017300,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112369,
       "num": 116044,
       "word": "周五下班韩国飞中国说走就走",
@@ -12787,6 +12811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108623,
+      "num": 160163,
+      "word": "王楚钦说心态转换很重要",
+      "onboard_time": 1734017240,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108608,
       "num": 108608,
       "word": "微软 比特币",
@@ -12923,6 +12955,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 105522,
+      "num": 354467,
+      "word": "什么是三级演员职称",
+      "onboard_time": 1734015742,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105380,
       "num": 105380,
       "word": "OpenAI正式发布Sora",
@@ -12993,6 +13033,14 @@
       "onboard_time": 1733795478,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103592,
+      "num": 103592,
+      "word": "重庆一野猪冲进饭馆被多名食客抓住",
+      "onboard_time": 1734017840,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103325,
@@ -13113,6 +13161,14 @@
       "onboard_time": 1733743401,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101635,
+      "num": 101635,
+      "word": "陶喆投票点歌",
+      "onboard_time": 1734017958,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 101268,
@@ -14739,14 +14795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66420,
-      "num": 354467,
-      "word": "什么是三级演员职称",
-      "onboard_time": 1734015742,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66202,
       "num": 310346,
       "word": "25年员工学员工手册时玩手机被辞",
@@ -15113,6 +15161,14 @@
       "onboard_time": 1733985023,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54762,
+      "num": 159382,
+      "word": "2024最受欢迎cos作品",
+      "onboard_time": 1734017540,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 54683,
@@ -15635,6 +15691,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 45259,
+      "num": 918342,
+      "word": "中国经济奋楫向前",
+      "onboard_time": 1734009800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45203,
       "num": 66673,
       "word": "窦昭把邬善收了吧",
@@ -15777,14 +15841,6 @@
       "onboard_time": 1733687591,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 918342,
-      "word": "中国经济奋楫向前",
-      "onboard_time": 1734009800,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43249,
@@ -16995,6 +17051,14 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 25819,
+      "num": 160504,
+      "word": "孟子义全伊伦连麦",
+      "onboard_time": 1734015920,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25560,
       "num": 1366769,
       "word": "青知讲说人",
@@ -17009,6 +17073,14 @@
       "onboard_time": 1733982140,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25372,
+      "num": 162879,
+      "word": "年轻女孩求职当心误入花场",
+      "onboard_time": 1734017180,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25244,

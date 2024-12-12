@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734017194563,
+  "endTime": 1734018083435,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728767,
+      "num": 728767,
+      "word": "白银案",
+      "onboard_time": 1734013461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 721145,
       "num": 881008,
       "word": "丁程鑫张真源毕业大戏公式照",
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 659901,
-      "num": 659901,
-      "word": "白银案",
-      "onboard_time": 1734013461,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 638054,
+      "num": 403563,
+      "word": "劣迹艺人无职称评审资格",
+      "onboard_time": 1734016100,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 632801,
@@ -987,14 +995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331710,
-      "num": 184251,
-      "word": "劣迹艺人无职称评审资格",
-      "onboard_time": 1734016100,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330813,
       "num": 330813,
       "word": "孟子义李昀锐聊第一次拍吻戏",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1734001100,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248936,
+      "num": 330305,
+      "word": "吉林一小区疑燃气爆炸已致13人受伤",
+      "onboard_time": 1734015800,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 246957,
@@ -1779,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198260,
+      "num": 182488,
+      "word": "徐志胜 加戏",
+      "onboard_time": 1734016760,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197875,
       "num": 197875,
       "word": "库里投篮选择",
@@ -1995,20 +2011,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182488,
-      "num": 182488,
-      "word": "徐志胜 加戏",
-      "onboard_time": 1734016760,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181513,
       "num": 181513,
       "word": "贵女宣发",
       "onboard_time": 1733988739,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181250,
+      "num": 185012,
+      "word": "孟子义真诚",
+      "onboard_time": 1734015381,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 180440,
@@ -2123,6 +2139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174941,
+      "num": 300054,
+      "word": "张颂文说从没糊弄过任何角色",
+      "onboard_time": 1734014662,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174653,
       "num": 174653,
       "word": "A股",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1733971639,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173244,
+      "num": 183195,
+      "word": "李现一人徒步鱼子西",
+      "onboard_time": 1734015619,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 173051,
@@ -2331,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "中央定基调明年经济工作这么干",
+      "onboard_time": 1734017180,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 156487,
       "num": 156487,
       "word": "乒超联赛直播",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1733980041,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 154377,
-      "num": 264318,
-      "word": "张颂文说从没糊弄过任何角色",
-      "onboard_time": 1734014662,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 153423,
@@ -2619,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130542,
-      "num": 130542,
-      "word": "吉林一小区疑燃气爆炸已致13人受伤",
-      "onboard_time": 1734015800,
-      "rank": 42,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 130537,
       "num": 130537,
       "word": "女子网购羽绒服仅退款称没偷没抢",
@@ -2667,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129543,
+      "num": 129543,
+      "word": "关晓彤参加小巷人家研讨会",
+      "onboard_time": 1734017779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128236,
       "num": 128236,
       "word": "沙特获2034年世界杯主办权",
@@ -2675,12 +2707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127863,
-      "num": 185012,
-      "word": "孟子义真诚",
-      "onboard_time": 1734015381,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 126949,
+      "num": 126949,
+      "word": "电视台回应主持人李昕鑫去世",
+      "onboard_time": 1734017060,
+      "rank": 44,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 126476,
@@ -2731,14 +2763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123581,
-      "num": 123581,
-      "word": "电视台回应主持人李昕鑫去世",
-      "onboard_time": 1734017060,
-      "rank": 44,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 120085,
       "num": 275796,
       "word": "济南大学称会在食堂另设泡面档口",
@@ -2779,14 +2803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116102,
-      "num": 183195,
-      "word": "李现一人徒步鱼子西",
-      "onboard_time": 1734015619,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115723,
       "num": 115723,
       "word": "虞书欣双马尾波点裙",
@@ -2817,6 +2833,14 @@
       "onboard_time": 1733983940,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112398,
+      "num": 159114,
+      "word": "卡琳娜 2024年最爱cos之一",
+      "onboard_time": 1734017300,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 111664,
@@ -2851,6 +2875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108623,
+      "num": 160163,
+      "word": "王楚钦说心态转换很重要",
+      "onboard_time": 1734017240,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108053,
       "num": 392499,
       "word": "九重紫问吉把恶毒小妈忙坏了",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1733994681,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 105522,
+      "num": 354467,
+      "word": "什么是三级演员职称",
+      "onboard_time": 1734015742,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 104521,
@@ -2891,6 +2931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103592,
+      "num": 103592,
+      "word": "重庆一野猪冲进饭馆被多名食客抓住",
+      "onboard_time": 1734017840,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103202,
       "num": 124119,
       "word": "李昀锐确认参加浙江卫视跨年",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1733957416,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101635,
+      "num": 101635,
+      "word": "陶喆投票点歌",
+      "onboard_time": 1734017958,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 101131,
@@ -3371,14 +3427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66420,
-      "num": 354467,
-      "word": "什么是三级演员职称",
-      "onboard_time": 1734015742,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66137,
       "num": 349769,
       "word": "中国人打包技能用在了考古上",
@@ -3467,6 +3515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54762,
+      "num": 159382,
+      "word": "2024最受欢迎cos作品",
+      "onboard_time": 1734017540,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 54246,
       "num": 54246,
       "word": "琼瑶最后一份礼物曝光",
@@ -3539,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45259,
+      "num": 918342,
+      "word": "中国经济奋楫向前",
+      "onboard_time": 1734009800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44738,
       "num": 521382,
       "word": "近八成受访青年感觉自己忙到停不下",
@@ -3553,14 +3617,6 @@
       "onboard_time": 1733997980,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 43337,
-      "num": 918342,
-      "word": "中国经济奋楫向前",
-      "onboard_time": 1734009800,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42345,
@@ -3859,12 +3915,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25819,
+      "num": 160504,
+      "word": "孟子义全伊伦连麦",
+      "onboard_time": 1734015920,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25466,
       "num": 251655,
       "word": "ELLEMEN新青年田嘉瑞周年刊封面",
       "onboard_time": 1733982140,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25372,
+      "num": 162879,
+      "word": "年轻女孩求职当心误入花场",
+      "onboard_time": 1734017180,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25034,
