@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734045845738,
+  "endTime": 1734046685813,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -27,6 +27,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 595778,
+      "num": 447290,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595486,
+      "num": 912795,
+      "word": "内娱第一位洋葱系艺人",
+      "onboard_time": 1734045915,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538732,
+      "num": 538732,
+      "word": "老师突然晕倒大一女生们分工救人",
+      "onboard_time": 1734028151,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 495320,
       "num": 172086,
       "word": "宋佳结婚我的态度",
@@ -35,20 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 447290,
-      "num": 447290,
-      "word": "部门介入男子抱赤裸幼子站街头",
-      "onboard_time": 1734034091,
+      "raw_hot": 431991,
+      "num": 431991,
+      "word": "国家公祭日",
+      "onboard_time": 1734020778,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "老师突然晕倒大一女生们分工救人",
-      "onboard_time": 1734028151,
-      "rank": 43,
-      "category": "正能量"
+      "category": "国内时政"
     },
     {
       "raw_hot": 418665,
@@ -67,15 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358305,
-      "num": 358305,
-      "word": "曝某95花否掉九个男主",
-      "onboard_time": 1734010220,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 335312,
+      "raw_hot": 373854,
       "num": 335312,
       "word": "留几手气死人了",
       "onboard_time": 1734029051,
@@ -83,12 +91,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334594,
-      "num": 379429,
-      "word": "国家公祭日",
-      "onboard_time": 1734020778,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 358305,
+      "num": 358305,
+      "word": "曝某95花否掉九个男主",
+      "onboard_time": 1734010220,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 308828,
@@ -107,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288093,
+      "num": 288093,
+      "word": "尹锡悦反问这怎么能是内乱呢",
+      "onboard_time": 1734028032,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 275333,
       "num": 528300,
       "word": "制酱文化被韩国申遗成功了",
@@ -123,12 +139,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253092,
-      "num": 253092,
-      "word": "尹锡悦反问这怎么能是内乱呢",
-      "onboard_time": 1734028032,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 254151,
+      "num": 171660,
+      "word": "37岁去世主持人妻子怀孕5个月",
+      "onboard_time": 1734012981,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251056,
+      "num": 251056,
+      "word": "19371213永不敢忘",
+      "onboard_time": 1734021018,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 247602,
+      "num": 247602,
+      "word": "远嫁日本女子独居受伤休养半年",
+      "onboard_time": 1734024733,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247149,
@@ -136,14 +168,6 @@
       "word": "一起缅怀30余万死难同胞",
       "onboard_time": 1734021018,
       "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 243088,
-      "num": 249806,
-      "word": "19371213永不敢忘",
-      "onboard_time": 1734021018,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -177,22 +201,6 @@
       "onboard_time": 1734000859,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218797,
-      "num": 171660,
-      "word": "37岁去世主持人妻子怀孕5个月",
-      "onboard_time": 1734012981,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218581,
-      "num": 218581,
-      "word": "远嫁日本女子独居受伤休养半年",
-      "onboard_time": 1734024733,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213956,
@@ -251,6 +259,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 167257,
+      "num": 167257,
+      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+      "onboard_time": 1734011121,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166736,
       "num": 135450,
       "word": "有暖气地区的统一睡姿",
@@ -267,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153487,
-      "num": 144912,
-      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
-      "onboard_time": 1734011121,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 157274,
+      "num": 157274,
+      "word": "南京大屠杀",
+      "onboard_time": 1734045795,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149450,
@@ -307,6 +323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129233,
+      "num": 215007,
+      "word": "32人见证32人传承南京大屠杀历史记忆",
+      "onboard_time": 1734045255,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 125900,
+      "num": 130471,
+      "word": "张庭5日开播2小时销售额仅159元",
+      "onboard_time": 1734022396,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121903,
       "num": 121903,
       "word": "部署2025年经济工作",
@@ -315,24 +347,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115132,
-      "num": 115132,
-      "word": "留几手拿葛夕的抑郁药装成是他的",
-      "onboard_time": 1734013342,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 113654,
-      "num": 113654,
+      "raw_hot": 119603,
+      "num": 119603,
       "word": "女生以为感冒确诊心肌炎需终身服药",
       "onboard_time": 1733999601,
       "rank": 34,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115132,
+      "num": 132973,
+      "word": "留几手拿葛夕的抑郁药装成是他的",
+      "onboard_time": 1734013342,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113320,
-      "num": 113320,
+      "num": 122439,
       "word": "倪萍把麦琳说懵了",
       "onboard_time": 1734006859,
       "rank": 35,
@@ -347,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105606,
-      "num": 105606,
-      "word": "张庭5日开播2小时销售额仅159元",
-      "onboard_time": 1734022396,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 111227,
+      "num": 111227,
+      "word": "电视台回应主持人李昕鑫去世",
+      "onboard_time": 1734017060,
+      "rank": 40,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 104892,
@@ -369,14 +401,6 @@
       "onboard_time": 1734016760,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99794,
-      "num": 99794,
-      "word": "电视台回应主持人李昕鑫去世",
-      "onboard_time": 1734017060,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 98837,
@@ -411,12 +435,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91092,
+      "num": 91092,
+      "word": "李铁案一审今日宣判",
+      "onboard_time": 1734046637,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88647,
       "num": 88647,
       "word": "九重紫",
       "onboard_time": 1733999300,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87806,
+      "num": 161472,
+      "word": "明年经济工作有一个鲜明的关键词",
+      "onboard_time": 1734045855,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 87201,
+      "num": 87201,
+      "word": "这样在被窝里玩手机就不冷了",
+      "onboard_time": 1734045855,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 85489,
@@ -427,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85240,
-      "num": 85240,
-      "word": "南京大屠杀",
-      "onboard_time": 1734045795,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 83525,
       "num": 83525,
       "word": "苟仲文严重破坏体育系统政治生态",
@@ -443,8 +483,8 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 80879,
-      "num": 80879,
+      "raw_hot": 83012,
+      "num": 83012,
       "word": "极越汽车回应被曝多部门原地解散",
       "onboard_time": 1734043632,
       "rank": 34,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71413,
+      "num": 71413,
+      "word": "美国对中国多晶硅加征50%关税",
+      "onboard_time": 1734031632,
+      "rank": 38,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 69427,
       "num": 69427,
       "word": "南京大屠杀死难者国家公祭",
@@ -491,12 +539,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59381,
-      "num": 59381,
-      "word": "美国对中国多晶硅加征50%关税",
-      "onboard_time": 1734031632,
-      "rank": 38,
-      "category": "国际时政,财经"
+      "raw_hot": 63492,
+      "num": 63492,
+      "word": "狗 我自己走都比你抱得稳当",
+      "onboard_time": 1734045855,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 59323,
+      "num": 59323,
+      "word": "英伟达",
+      "onboard_time": 1734045855,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 56447,
@@ -515,20 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50713,
-      "num": 215007,
-      "word": "32人见证32人传承南京大屠杀历史记忆",
-      "onboard_time": 1734045255,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 49978,
-      "num": 49978,
+      "raw_hot": 53881,
+      "num": 53881,
       "word": "整治内卷式竞争",
       "onboard_time": 1734031751,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 48003,
+      "num": 134105,
+      "word": "王楚钦乒超赛场听取哇声一片",
+      "onboard_time": 1734045915,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 40127,
@@ -571,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25311,
+      "num": 438923,
+      "word": "盘点2024新质生产力新突破",
+      "onboard_time": 1734009740,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25077,
       "num": 107382,
       "word": "周深谈配音首秀",
       "onboard_time": 1734023593,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22096,
-      "num": 427167,
-      "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21629,

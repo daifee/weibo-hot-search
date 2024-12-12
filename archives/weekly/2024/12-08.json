@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734045845738,
+  "endTime": 1734046685813,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -2411,12 +2411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595778,
+      "num": 447290,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595514,
       "num": 595514,
       "word": "虹膜写真尽量别公开展示",
       "onboard_time": 1733893339,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595486,
+      "num": 912795,
+      "word": "内娱第一位洋葱系艺人",
+      "onboard_time": 1734045915,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 593842,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1733887640,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 538732,
+      "num": 538732,
+      "word": "老师突然晕倒大一女生们分工救人",
+      "onboard_time": 1734028151,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 538264,
@@ -3371,14 +3395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 447290,
-      "num": 447290,
-      "word": "部门介入男子抱赤裸幼子站街头",
-      "onboard_time": 1734034091,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 447093,
       "num": 447093,
       "word": "南方游客刚到漠河就让大家震惊了",
@@ -3523,6 +3539,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 431991,
+      "num": 431991,
+      "word": "国家公祭日",
+      "onboard_time": 1734020778,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 430367,
       "num": 430367,
       "word": "光遇",
@@ -3577,14 +3601,6 @@
       "onboard_time": 1733881880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424678,
-      "num": 424678,
-      "word": "老师突然晕倒大一女生们分工救人",
-      "onboard_time": 1734028151,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 424118,
@@ -4043,6 +4059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 373854,
+      "num": 335312,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373527,
       "num": 484578,
       "word": "极越多部门就地解散",
@@ -4451,14 +4475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335312,
-      "num": 335312,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334863,
       "num": 273399,
       "word": "曹璐内娱可怜初舞台",
@@ -4473,14 +4489,6 @@
       "onboard_time": 1733986400,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 334594,
-      "num": 379429,
-      "word": "国家公祭日",
-      "onboard_time": 1734020778,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 334347,
@@ -5219,6 +5227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288093,
+      "num": 288093,
+      "word": "尹锡悦反问这怎么能是内乱呢",
+      "onboard_time": 1734028032,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288055,
       "num": 389187,
       "word": "周海媚去世一周年",
@@ -5851,14 +5867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253092,
-      "num": 253092,
-      "word": "尹锡悦反问这怎么能是内乱呢",
-      "onboard_time": 1734028032,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 252801,
       "num": 252801,
       "word": "花花给自己涂上了保护色",
@@ -5889,6 +5897,14 @@
       "onboard_time": 1734001100,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251056,
+      "num": 251056,
+      "word": "19371213永不敢忘",
+      "onboard_time": 1734021018,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 250712,
@@ -5993,6 +6009,14 @@
       "onboard_time": 1733907980,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 247602,
+      "num": 247602,
+      "word": "远嫁日本女子独居受伤休养半年",
+      "onboard_time": 1734024733,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247589,
@@ -6153,14 +6177,6 @@
       "onboard_time": 1733753359,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 243088,
-      "num": 249806,
-      "word": "19371213永不敢忘",
-      "onboard_time": 1734021018,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 242865,
@@ -6873,14 +6889,6 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218581,
-      "num": 218581,
-      "word": "远嫁日本女子独居受伤休养半年",
-      "onboard_time": 1734024733,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217977,
@@ -10331,6 +10339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157274,
+      "num": 157274,
+      "word": "南京大屠杀",
+      "onboard_time": 1734045795,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157240,
       "num": 157240,
       "word": "金珉奎签售",
@@ -11987,6 +12003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129233,
+      "num": 215007,
+      "word": "32人见证32人传承南京大屠杀历史记忆",
+      "onboard_time": 1734045255,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128930,
       "num": 347219,
       "word": "文在寅说应尽快确立韩国代总统人选",
@@ -12105,6 +12129,14 @@
       "onboard_time": 1733967378,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125900,
+      "num": 130471,
+      "word": "张庭5日开播2小时销售额仅159元",
+      "onboard_time": 1734022396,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 125883,
@@ -13051,14 +13083,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 105606,
-      "num": 105606,
-      "word": "张庭5日开播2小时销售额仅159元",
-      "onboard_time": 1734022396,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105380,
       "num": 105380,
       "word": "OpenAI正式发布Sora",
@@ -13731,6 +13755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91092,
+      "num": 91092,
+      "word": "李铁案一审今日宣判",
+      "onboard_time": 1734046637,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90997,
       "num": 134445,
       "word": "女明星尖叫之夜怼脸生图",
@@ -13827,12 +13859,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87806,
+      "num": 161472,
+      "word": "明年经济工作有一个鲜明的关键词",
+      "onboard_time": 1734045855,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87471,
       "num": 209662,
       "word": "letme聊TheShy复出",
       "onboard_time": 1733669001,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87201,
+      "num": 87201,
+      "word": "这样在被窝里玩手机就不冷了",
+      "onboard_time": 1734045855,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 87108,
@@ -13905,14 +13953,6 @@
       "onboard_time": 1733812639,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85240,
-      "num": 85240,
-      "word": "南京大屠杀",
-      "onboard_time": 1734045795,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85206,
@@ -14083,6 +14123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83012,
+      "num": 83012,
+      "word": "极越汽车回应被曝多部门原地解散",
+      "onboard_time": 1734043632,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82783,
       "num": 1451157,
       "word": "11月汽车产销环比同比双增长",
@@ -14153,14 +14201,6 @@
       "onboard_time": 1733733978,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80879,
-      "num": 80879,
-      "word": "极越汽车回应被曝多部门原地解散",
-      "onboard_time": 1734043632,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 80746,
@@ -14595,6 +14635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71413,
+      "num": 71413,
+      "word": "美国对中国多晶硅加征50%关税",
+      "onboard_time": 1734031632,
+      "rank": 38,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 71266,
       "num": 286709,
       "word": "猎罪图鉴2好哭",
@@ -14995,6 +15043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63492,
+      "num": 63492,
+      "word": "狗 我自己走都比你抱得稳当",
+      "onboard_time": 1734045855,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -15097,14 +15153,6 @@
       "onboard_time": 1733713639,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59381,
-      "num": 59381,
-      "word": "美国对中国多晶硅加征50%关税",
-      "onboard_time": 1734031632,
-      "rank": 38,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 59340,
@@ -15363,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53881,
+      "num": 53881,
+      "word": "整治内卷式竞争",
+      "onboard_time": 1734031751,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53704,
       "num": 322373,
       "word": "A股放量4151亿",
@@ -15531,14 +15587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50713,
-      "num": 215007,
-      "word": "32人见证32人传承南京大屠杀历史记忆",
-      "onboard_time": 1734045255,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 50696,
       "num": 196856,
       "word": "中概股集体狂欢",
@@ -15569,14 +15617,6 @@
       "onboard_time": 1733657359,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49978,
-      "num": 49978,
-      "word": "整治内卷式竞争",
-      "onboard_time": 1734031751,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49968,
@@ -15681,6 +15721,14 @@
       "onboard_time": 1734006439,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48003,
+      "num": 134105,
+      "word": "王楚钦乒超赛场听取哇声一片",
+      "onboard_time": 1734045915,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 47964,
@@ -17283,6 +17331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25311,
+      "num": 438923,
+      "word": "盘点2024新质生产力新突破",
+      "onboard_time": 1734009740,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -17497,14 +17553,6 @@
       "onboard_time": 1733683511,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22096,
-      "num": 427167,
-      "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21973,

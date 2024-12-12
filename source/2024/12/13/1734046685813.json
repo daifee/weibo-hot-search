@@ -1,0 +1,410 @@
+{
+  "runTime": 1734046685813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 595486,
+        "num": 912795,
+        "word": "内娱第一位洋葱系艺人",
+        "onboard_time": 1734045915,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538732,
+        "num": 538732,
+        "word": "老师突然晕倒大一女生们分工救人",
+        "onboard_time": 1734028151,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 25311,
+        "num": 438923,
+        "word": "盘点2024新质生产力新突破",
+        "onboard_time": 1734009740,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 595778,
+        "num": 437814,
+        "word": "部门介入男子抱赤裸幼子站街头",
+        "onboard_time": 1734034091,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431991,
+        "num": 431991,
+        "word": "国家公祭日",
+        "onboard_time": 1734020778,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365812,
+        "num": 365812,
+        "word": "白银案",
+        "onboard_time": 1734013461,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288093,
+        "num": 288093,
+        "word": "尹锡悦反问这怎么能是内乱呢",
+        "onboard_time": 1734028032,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373854,
+        "num": 277737,
+        "word": "留几手气死人了",
+        "onboard_time": 1734029051,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251056,
+        "num": 251056,
+        "word": "19371213永不敢忘",
+        "onboard_time": 1734021018,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247602,
+        "num": 247602,
+        "word": "远嫁日本女子独居受伤休养半年",
+        "onboard_time": 1734024733,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415711,
+        "num": 236174,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185996,
+        "num": 185996,
+        "word": "曝某95花否掉九个男主",
+        "onboard_time": 1734010220,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173095,
+        "num": 173095,
+        "word": "以国之名悼我同胞",
+        "onboard_time": 1734021197,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167257,
+        "num": 167257,
+        "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+        "onboard_time": 1734011121,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87806,
+        "num": 161472,
+        "word": "明年经济工作有一个鲜明的关键词",
+        "onboard_time": 1734045855,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157274,
+        "num": 157274,
+        "word": "南京大屠杀",
+        "onboard_time": 1734045795,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155431,
+        "num": 155431,
+        "word": "人肉火烧造谣者已被行政拘留",
+        "onboard_time": 1734039432,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154792,
+        "num": 154792,
+        "word": "李铁",
+        "onboard_time": 1734013701,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146508,
+        "num": 146508,
+        "word": "李现一人徒步鱼子西",
+        "onboard_time": 1734015619,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140095,
+        "num": 140095,
+        "word": "劣迹艺人无职称评审资格",
+        "onboard_time": 1734016100,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254151,
+        "num": 139406,
+        "word": "37岁去世主持人妻子怀孕5个月",
+        "onboard_time": 1734012981,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219585,
+        "num": 138227,
+        "word": "37岁主持人因书房着火去世",
+        "onboard_time": 1734001641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218033,
+        "num": 136319,
+        "word": "宋佳结婚我的态度",
+        "onboard_time": 1734009019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74465,
+        "num": 135764,
+        "word": "叶祖新微博在线求职",
+        "onboard_time": 1734000859,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48003,
+        "num": 134105,
+        "word": "王楚钦乒超赛场听取哇声一片",
+        "onboard_time": 1734045915,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72896,
+        "num": 132973,
+        "word": "留几手拿葛夕的抑郁药装成是他的",
+        "onboard_time": 1734013342,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154425,
+        "num": 131894,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125900,
+        "num": 130471,
+        "word": "张庭5日开播2小时销售额仅159元",
+        "onboard_time": 1734022396,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129233,
+        "num": 129233,
+        "word": "32人见证32人传承南京大屠杀历史记忆",
+        "onboard_time": 1734045255,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60471,
+        "num": 122439,
+        "word": "倪萍把麦琳说懵了",
+        "onboard_time": 1734006859,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119603,
+        "num": 119603,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 116196,
+        "word": "制酱文化被韩国申遗成功了",
+        "onboard_time": 1734006260,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111227,
+        "num": 111227,
+        "word": "电视台回应主持人李昕鑫去世",
+        "onboard_time": 1734017060,
+        "rank": 32,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 109288,
+        "num": 109288,
+        "word": "一起缅怀30余万死难同胞",
+        "onboard_time": 1734021018,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104121,
+        "num": 104121,
+        "word": "有暖气地区的统一睡姿",
+        "onboard_time": 1734015141,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96280,
+        "num": 96280,
+        "word": "中央定调明年财政政策",
+        "onboard_time": 1734009440,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 91092,
+        "num": 91092,
+        "word": "李铁案一审今日宣判",
+        "onboard_time": 1734046637,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88775,
+        "num": 88775,
+        "word": "重庆一野猪冲进饭馆被多名食客抓住",
+        "onboard_time": 1734017840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88273,
+        "num": 88273,
+        "word": "控糖55天的皮肤变化",
+        "onboard_time": 1734011661,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87201,
+        "num": 87201,
+        "word": "这样在被窝里玩手机就不冷了",
+        "onboard_time": 1734045855,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83012,
+        "num": 83012,
+        "word": "极越汽车回应被曝多部门原地解散",
+        "onboard_time": 1734043632,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71413,
+        "num": 71413,
+        "word": "美国对中国多晶硅加征50%关税",
+        "onboard_time": 1734031632,
+        "rank": 41,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 63492,
+        "num": 63492,
+        "word": "狗 我自己走都比你抱得稳当",
+        "onboard_time": 1734045855,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60489,
+        "num": 60489,
+        "word": "卡琳娜 2024年最爱cos之一",
+        "onboard_time": 1734017300,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 59323,
+        "num": 59323,
+        "word": "英伟达",
+        "onboard_time": 1734045855,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56465,
+        "num": 56465,
+        "word": "关晓彤参加小巷人家研讨会",
+        "onboard_time": 1734017779,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54735,
+        "num": 54735,
+        "word": "部署2025年经济工作",
+        "onboard_time": 1734007039,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53881,
+        "num": 53881,
+        "word": "整治内卷式竞争",
+        "onboard_time": 1734031751,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53754,
+        "num": 53754,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51135,
+        "num": 51135,
+        "word": "王楚钦回应3比1战胜徐瑛彬",
+        "onboard_time": 1734020118,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
