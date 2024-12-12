@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734000282067,
+  "endTime": 1734002439623,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -16,6 +16,14 @@
       "word": "车银优和赵韩樱子朋友",
       "onboard_time": 1733988441,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2259509,
+      "num": 562739,
+      "word": "韩娱地震",
+      "onboard_time": 1734000019,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 967660,
+      "num": 967660,
+      "word": "叶祖新微博在线求职",
+      "onboard_time": 1734000859,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 959915,
       "num": 959915,
       "word": "为什么有人把脚伸出被子睡觉",
@@ -395,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 569909,
+      "num": 657696,
+      "word": "湖南衡阳官宣取消公摊",
+      "onboard_time": 1733995940,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 567468,
       "num": 567468,
       "word": "放生大米是浪费不是善意",
@@ -465,14 +489,6 @@
       "onboard_time": 1733930419,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503988,
-      "num": 657696,
-      "word": "湖南衡阳官宣取消公摊",
-      "onboard_time": 1733995940,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 500420,
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401246,
+      "num": 389322,
+      "word": "泰国女团成员挺孕肚开演唱会唱跳",
+      "onboard_time": 1733999421,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400573,
       "num": 400573,
       "word": "陈昊宇 我不喜欢大女主剧的定义",
@@ -673,6 +697,14 @@
       "onboard_time": 1733976320,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386541,
+      "num": 386541,
+      "word": "37岁主持人因书房着火去世",
+      "onboard_time": 1734001641,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382122,
@@ -763,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334843,
+      "num": 334843,
+      "word": "女生以为感冒确诊心肌炎需终身服药",
+      "onboard_time": 1733999601,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334636,
       "num": 320729,
       "word": "考研准考证照片没穿上衣影响大嘛",
@@ -811,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326565,
+      "num": 484578,
+      "word": "极越多部门就地解散",
+      "onboard_time": 1733993658,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 320390,
       "num": 260500,
       "word": "马嘉祺",
@@ -820,7 +868,7 @@
     },
     {
       "raw_hot": 311068,
-      "num": 279160,
+      "num": 387008,
       "word": "张艺凡刮彩票连中12个7",
       "onboard_time": 1733997080,
       "rank": 20,
@@ -833,14 +881,6 @@
       "onboard_time": 1733995160,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304482,
-      "num": 304482,
-      "word": "韩娱地震",
-      "onboard_time": 1734000019,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 301290,
@@ -873,6 +913,14 @@
       "onboard_time": 1733981241,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 295188,
+      "num": 295188,
+      "word": "新能源车倒闭车主怎么办",
+      "onboard_time": 1733996660,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 292816,
@@ -955,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 270776,
+      "num": 411298,
+      "word": "你希望取消公摊吗",
+      "onboard_time": 1733999239,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270544,
       "num": 626055,
       "word": "男子4天年假未休获4000多元补偿",
@@ -969,14 +1025,6 @@
       "onboard_time": 1733984119,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270023,
-      "num": 270023,
-      "word": "泰国女团成员挺孕肚开演唱会唱跳",
-      "onboard_time": 1733999421,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 269498,
@@ -1035,14 +1083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 252532,
-      "num": 252532,
-      "word": "新能源车倒闭车主怎么办",
-      "onboard_time": 1733996660,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 252377,
       "num": 252377,
       "word": "陈晓名下工作室仅1家存续",
@@ -1057,6 +1097,14 @@
       "onboard_time": 1733960116,
       "rank": 42,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 251232,
+      "num": 349156,
+      "word": "导演让孟子义李昀锐私下多练练接吻",
+      "onboard_time": 1734001100,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 246957,
@@ -1137,14 +1185,6 @@
       "onboard_time": 1733979020,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233590,
-      "num": 484578,
-      "word": "极越多部门就地解散",
-      "onboard_time": 1733993658,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 232770,
@@ -1419,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197543,
-      "num": 411298,
-      "word": "你希望取消公摊吗",
-      "onboard_time": 1733999239,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197412,
       "num": 197412,
       "word": "孙颖莎要考驾照",
@@ -1465,6 +1497,14 @@
       "onboard_time": 1733976200,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194095,
+      "num": 447731,
+      "word": "名侦探学院8定档",
+      "onboard_time": 1734001820,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 193507,
@@ -1587,6 +1627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179092,
+      "num": 220476,
+      "word": "都研究生了还要考四级",
+      "onboard_time": 1733998101,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178025,
       "num": 178025,
       "word": "代号鸢",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1733977461,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 175734,
+      "num": 175734,
+      "word": "深圳爆炸住宅楼配有装甲门较难破拆",
+      "onboard_time": 1734001399,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 175704,
@@ -1700,11 +1756,27 @@
     },
     {
       "raw_hot": 170633,
-      "num": 170633,
+      "num": 417462,
       "word": "姆巴佩涉嫌强奸案调查终止",
       "onboard_time": 1733997799,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170011,
+      "num": 404229,
+      "word": "极越内部人士回应员工围堵夏一平",
+      "onboard_time": 1734001221,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 169983,
+      "num": 169983,
+      "word": "虞书欣对接确认参加星光大赏",
+      "onboard_time": 1734002240,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 169300,
@@ -1779,14 +1851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156535,
-      "num": 220476,
-      "word": "都研究生了还要考四级",
-      "onboard_time": 1733998101,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 156487,
       "num": 156487,
       "word": "乒超联赛直播",
@@ -1849,14 +1913,6 @@
       "onboard_time": 1733979141,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 151541,
-      "num": 151541,
-      "word": "女生以为感冒确诊心肌炎需终身服药",
-      "onboard_time": 1733999601,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151034,
@@ -2187,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108053,
+      "num": 392499,
+      "word": "九重紫问吉把恶毒小妈忙坏了",
+      "onboard_time": 1734001760,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107681,
       "num": 536112,
       "word": "韩国在野党再次提交尹锡悦弹劾案",
@@ -2257,6 +2321,14 @@
       "onboard_time": 1733933119,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96320,
+      "num": 557118,
+      "word": "冯骥杨奇疑似已到美国准备领奖",
+      "onboard_time": 1734000139,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 96020,
@@ -2348,7 +2420,7 @@
     },
     {
       "raw_hot": 86692,
-      "num": 287039,
+      "num": 396936,
       "word": "晒晒你的2025年电视剧片单",
       "onboard_time": 1733993000,
       "rank": 26,
@@ -2451,12 +2523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80931,
+      "num": 433619,
+      "word": "环球影城偶遇林一",
+      "onboard_time": 1734002179,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80737,
       "num": 297948,
       "word": "NBA杯四强出炉",
       "onboard_time": 1733985380,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77817,
+      "num": 844699,
+      "word": "从超级工程看中国人的魄力",
+      "onboard_time": 1733997260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 77744,
@@ -2548,11 +2636,19 @@
     },
     {
       "raw_hot": 70229,
-      "num": 306694,
+      "num": 396004,
       "word": "蔡依林 谁放假会腻啊",
       "onboard_time": 1733999478,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70154,
+      "num": 501980,
+      "word": "孙颖莎吴咏琳vs杨玉鑫冷雨桐",
+      "onboard_time": 1734001701,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 69888,
@@ -2683,16 +2779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47466,
-      "num": 844699,
-      "word": "从超级工程看中国人的魄力",
-      "onboard_time": 1733997260,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47397,
-      "num": 152628,
+      "num": 456343,
       "word": "手机里藏着另一套mbti测试题",
       "onboard_time": 1734000081,
       "rank": 46,
@@ -2707,12 +2795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45275,
+      "num": 493400,
+      "word": "农民女作家从卖水果到站上领奖高台",
+      "onboard_time": 1734001701,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44738,
       "num": 521382,
       "word": "近八成受访青年感觉自己忙到停不下",
       "onboard_time": 1733983940,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 43933,
+      "num": 169058,
+      "word": "打工人为什么容易气血不足",
+      "onboard_time": 1733997980,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42345,
@@ -2729,6 +2833,14 @@
       "onboard_time": 1733972419,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 41461,
+      "num": 471244,
+      "word": "梁靖崑林昀儒vs刘丁硕袁励岑",
+      "onboard_time": 1734001701,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 41142,
@@ -2795,14 +2907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39204,
-      "num": 427220,
-      "word": "冯骥杨奇疑似已到美国准备领奖",
-      "onboard_time": 1734000139,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 39097,
       "num": 323987,
       "word": "T风格论坛",
@@ -2851,6 +2955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 35835,
+      "num": 238054,
+      "word": "乒超应援已就位小胖大头莎莎都有",
+      "onboard_time": 1733999720,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35421,
       "num": 614390,
       "word": "深圳高层建筑起火有哪些救援难点",
@@ -2873,14 +2985,6 @@
       "onboard_time": 1733951051,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33849,
-      "num": 169058,
-      "word": "打工人为什么容易气血不足",
-      "onboard_time": 1733997980,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 33702,
@@ -2937,6 +3041,14 @@
       "onboard_time": 1733938573,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29504,
+      "num": 533389,
+      "word": "中央经济工作会议举行",
+      "onboard_time": 1734002360,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28402,
@@ -3003,14 +3115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20271,
-      "num": 238054,
-      "word": "乒超应援已就位小胖大头莎莎都有",
-      "onboard_time": 1733999720,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18531,
       "num": 22827,
       "word": "深圳一住宅楼爆炸消防救援力量已到场",
@@ -3025,6 +3129,14 @@
       "onboard_time": 1733955852,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18161,
+      "num": 462275,
+      "word": "卫兰曾拒绝歌手节目组邀约",
+      "onboard_time": 1734001519,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 17938,
@@ -3051,6 +3163,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 14510,
+      "num": 479769,
+      "word": "樊振东现身球场热身训练",
+      "onboard_time": 1734001701,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10399,
       "num": 157678,
       "word": "潘展乐给全家下任务让好好享受生活",
@@ -3059,12 +3179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7961,
+      "num": 650039,
+      "word": "全力推动我国经济持续回升向好",
+      "onboard_time": 1734002301,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7840,
       "num": 189152,
       "word": "吉高由里子分手",
       "onboard_time": 1733929100,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7724,
+      "num": 541665,
+      "word": "专家解读湖南衡阳公摊取消",
+      "onboard_time": 1734002420,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6513,
