@@ -1,0 +1,410 @@
+{
+  "runTime": 1734011055726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027407,
+        "num": 1164385,
+        "word": "宋佳结婚我的态度",
+        "onboard_time": 1734009019,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739636,
+        "num": 739636,
+        "word": "孙颖莎 Prada",
+        "onboard_time": 1734008539,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35178,
+        "num": 699131,
+        "word": "中国经济奋楫向前",
+        "onboard_time": 1734009800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2156077,
+        "num": 642805,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1022523,
+        "num": 552720,
+        "word": "叶祖新微博在线求职",
+        "onboard_time": 1734000859,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741784,
+        "num": 473925,
+        "word": "制酱文化被韩国申遗成功了",
+        "onboard_time": 1734006260,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 813095,
+        "num": 434353,
+        "word": "马嘉祺直播",
+        "onboard_time": 1734008301,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373978,
+        "num": 373978,
+        "word": "山东魏桥3比0山东鲁能",
+        "onboard_time": 1734007461,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205850,
+        "num": 340314,
+        "word": "部署2025年经济工作",
+        "onboard_time": 1734007039,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315855,
+        "num": 315855,
+        "word": "中央定调明年财政政策",
+        "onboard_time": 1734009440,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 700409,
+        "num": 315474,
+        "word": "张凌赫逐玉一番",
+        "onboard_time": 1734008660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670747,
+        "num": 313312,
+        "word": "倪萍把麦琳说懵了",
+        "onboard_time": 1734006859,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438633,
+        "num": 310562,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410495,
+        "num": 309915,
+        "word": "曝某95花否掉九个男主",
+        "onboard_time": 1734010220,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403231,
+        "num": 306887,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306718,
+        "num": 306718,
+        "word": "经济工作会议",
+        "onboard_time": 1734006619,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16836,
+        "num": 303824,
+        "word": "大家都知道大学生是软柿子了",
+        "onboard_time": 1734010220,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131534,
+        "num": 301211,
+        "word": "国足李铁案明日一审宣判",
+        "onboard_time": 1734009859,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103185,
+        "num": 297925,
+        "word": "远嫁日本女儿已找到母亲取消赴日计划",
+        "onboard_time": 1734010159,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19737,
+        "num": 291831,
+        "word": "TGA2024前瞻",
+        "onboard_time": 1734010341,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537611,
+        "num": 287006,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244524,
+        "num": 286479,
+        "word": "王曼昱因病乒超退赛",
+        "onboard_time": 1734004159,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356741,
+        "num": 282518,
+        "word": "37岁主持人因书房着火去世",
+        "onboard_time": 1734001641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311210,
+        "num": 275544,
+        "word": "我是刑警拍了白银28年恶性大案",
+        "onboard_time": 1734005420,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63663,
+        "num": 273639,
+        "word": "决战考研",
+        "onboard_time": 1734008599,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270893,
+        "num": 270893,
+        "word": "湖南卫视跨年艺人标签",
+        "onboard_time": 1734010101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63795,
+        "num": 264395,
+        "word": "孙颖莎健健康康地完成每一场比赛",
+        "onboard_time": 1734009740,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264157,
+        "num": 264157,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258563,
+        "num": 258563,
+        "word": "李昀锐 薄肌",
+        "onboard_time": 1734007699,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179946,
+        "num": 258159,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1734002360,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257773,
+        "num": 257773,
+        "word": "丁禹兮直播",
+        "onboard_time": 1734007278,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253817,
+        "num": 253817,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241718,
+        "num": 241718,
+        "word": "英伟达中国声明",
+        "onboard_time": 1734002780,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206576,
+        "num": 206576,
+        "word": "九重紫",
+        "onboard_time": 1733999300,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200416,
+        "num": 200416,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106521,
+        "num": 196045,
+        "word": "灵儿Cat海边大片",
+        "onboard_time": 1734009619,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195575,
+        "num": 195575,
+        "word": "九重紫原著",
+        "onboard_time": 1734008179,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170657,
+        "num": 170657,
+        "word": "猴哥说车回应破产传闻",
+        "onboard_time": 1734010581,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "Jennie朴彩英纽约路透",
+        "onboard_time": 1734004520,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162931,
+        "num": 162931,
+        "word": "湖南衡阳官宣取消公摊",
+        "onboard_time": 1733995940,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161356,
+        "num": 161356,
+        "word": "猎罪2丈夫杀妻被反杀",
+        "onboard_time": 1734005840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160356,
+        "num": 160356,
+        "word": "王楚钦vs徐瑛彬",
+        "onboard_time": 1734003680,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144304,
+        "num": 144304,
+        "word": "他俩有几个粉丝啊",
+        "onboard_time": 1734010521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144209,
+        "num": 144209,
+        "word": "向佐秀智合照",
+        "onboard_time": 1734010760,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143166,
+        "num": 143166,
+        "word": "鲁花回应食用油碳化",
+        "onboard_time": 1734005061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142296,
+        "num": 142296,
+        "word": "张艺凡刮彩票连中12个7",
+        "onboard_time": 1733997080,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134377,
+        "num": 134377,
+        "word": "住宅公摊面积到底该不该取消",
+        "onboard_time": 1734006260,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130904,
+        "num": 130904,
+        "word": "极越商业版图盘点",
+        "onboard_time": 1733999059,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130783,
+        "num": 130783,
+        "word": "孟子义和蒙眼李昀锐合照",
+        "onboard_time": 1734008840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129581,
+        "num": 129581,
+        "word": "千万彩票被冒领当事人回应5年维权",
+        "onboard_time": 1734006859,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}

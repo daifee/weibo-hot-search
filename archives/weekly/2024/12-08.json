@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734010373479,
+  "endTime": 1734011055726,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 2320067,
-      "num": 562739,
+      "num": 642805,
       "word": "韩娱地震",
       "onboard_time": 1734000019,
       "rank": 22,
@@ -1011,6 +1011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1027407,
+      "num": 1164385,
+      "word": "宋佳结婚我的态度",
+      "onboard_time": 1734009019,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1016875,
       "num": 1016875,
       "word": "淘宝回应网友12块捡漏宝马车",
@@ -1403,6 +1411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 813095,
+      "num": 434353,
+      "word": "马嘉祺直播",
+      "onboard_time": 1734008301,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812993,
       "num": 812993,
       "word": "深圳住宅楼爆炸事故原因正进一步调查",
@@ -1692,7 +1708,7 @@
     },
     {
       "raw_hot": 750454,
-      "num": 408453,
+      "num": 473925,
       "word": "制酱文化被韩国申遗成功了",
       "onboard_time": 1734006260,
       "rank": 4,
@@ -1753,6 +1769,14 @@
       "onboard_time": 1733842700,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 739636,
+      "num": 739636,
+      "word": "孙颖莎 Prada",
+      "onboard_time": 1734008539,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 734782,
@@ -1899,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 700409,
+      "num": 315474,
+      "word": "张凌赫逐玉一番",
+      "onboard_time": 1734008660,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 699324,
       "num": 699324,
       "word": "玄彬综艺上叫孙艺珍我老婆",
@@ -1920,14 +1952,6 @@
       "word": "猎罪图鉴2已经是nextlevel了",
       "onboard_time": 1733837300,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 690008,
-      "num": 309771,
-      "word": "张凌赫逐玉一番",
-      "onboard_time": 1734008660,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2235,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 621267,
-      "num": 377559,
-      "word": "马嘉祺直播",
-      "onboard_time": 1734008301,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 621002,
       "num": 598053,
       "word": "邓为工作室",
@@ -2395,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 584848,
-      "num": 584848,
-      "word": "孙颖莎 Prada",
-      "onboard_time": 1734008539,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 583377,
       "num": 583377,
       "word": "泽连斯基曝光乌军死亡人数",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1734001641,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 560578,
-      "num": 304762,
-      "word": "宋佳结婚我的态度",
-      "onboard_time": 1734009019,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 559371,
@@ -3643,6 +3643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 410495,
+      "num": 309915,
+      "word": "曝某95花否掉九个男主",
+      "onboard_time": 1734010220,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410358,
       "num": 410358,
       "word": "我家那小子应到4人实到24人",
@@ -3945,6 +3953,14 @@
       "onboard_time": 1733733920,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373978,
+      "num": 386009,
+      "word": "山东魏桥3比0山东鲁能",
+      "onboard_time": 1734007461,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 373954,
@@ -4691,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315855,
+      "num": 315855,
+      "word": "中央定调明年财政政策",
+      "onboard_time": 1734009440,
+      "rank": 39,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 315299,
       "num": 315299,
       "word": "中国古人21根竹简计算器能算乘方开方",
@@ -4841,14 +4865,6 @@
       "onboard_time": 1733655499,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303476,
-      "num": 386009,
-      "word": "山东魏桥3比0山东鲁能",
-      "onboard_time": 1734007461,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 303357,
@@ -5371,6 +5387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 270893,
+      "num": 270893,
+      "word": "湖南卫视跨年艺人标签",
+      "onboard_time": 1734010101,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270776,
       "num": 411298,
       "word": "你希望取消公摊吗",
@@ -5644,7 +5668,7 @@
     },
     {
       "raw_hot": 256661,
-      "num": 305621,
+      "num": 340314,
       "word": "部署2025年经济工作",
       "onboard_time": 1734007039,
       "rank": 35,
@@ -6129,14 +6153,6 @@
       "onboard_time": 1733979381,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239581,
-      "num": 239581,
-      "word": "湖南卫视跨年艺人标签",
-      "onboard_time": 1734010101,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 239529,
@@ -7209,14 +7225,6 @@
       "onboard_time": 1733906241,
       "rank": 17,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 202447,
-      "num": 202447,
-      "word": "中央定调明年财政政策",
-      "onboard_time": 1734009440,
-      "rank": 39,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 202361,
@@ -8939,14 +8947,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 174374,
-      "num": 174374,
-      "word": "曝某95花否掉九个男主",
-      "onboard_time": 1734010220,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174156,
       "num": 174156,
       "word": "权志龙 SBS歌谣大战",
@@ -9185,6 +9185,14 @@
       "onboard_time": 1733996781,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170657,
+      "num": 170657,
+      "word": "猴哥说车回应破产传闻",
+      "onboard_time": 1734010581,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 170633,
@@ -10771,6 +10779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 144304,
+      "num": 144304,
+      "word": "他俩有几个粉丝啊",
+      "onboard_time": 1734010521,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144280,
       "num": 144280,
       "word": "孙颖莎已拿下14个世界冠军",
@@ -10785,6 +10801,14 @@
       "onboard_time": 1733716221,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144209,
+      "num": 144209,
+      "word": "向佐秀智合照",
+      "onboard_time": 1734010760,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 144190,
@@ -11475,6 +11499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 131534,
+      "num": 301748,
+      "word": "国足李铁案明日一审宣判",
+      "onboard_time": 1734009859,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131312,
       "num": 500596,
       "word": "中方回应叙利亚局势发展",
@@ -11601,6 +11633,14 @@
       "onboard_time": 1733629879,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129581,
+      "num": 382054,
+      "word": "千万彩票被冒领当事人回应5年维权",
+      "onboard_time": 1734006859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129503,
@@ -11905,14 +11945,6 @@
       "onboard_time": 1733705779,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122926,
-      "num": 301748,
-      "word": "国足李铁案明日一审宣判",
-      "onboard_time": 1734009859,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122810,
@@ -12563,14 +12595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107747,
-      "num": 382054,
-      "word": "千万彩票被冒领当事人回应5年维权",
-      "onboard_time": 1734006859,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107681,
       "num": 536112,
       "word": "韩国在野党再次提交尹锡悦弹劾案",
@@ -12753,6 +12777,14 @@
       "onboard_time": 1733935995,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103185,
+      "num": 299082,
+      "word": "远嫁日本女儿已找到母亲取消赴日计划",
+      "onboard_time": 1734010159,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103141,
@@ -12956,7 +12988,7 @@
     },
     {
       "raw_hot": 99167,
-      "num": 246918,
+      "num": 273639,
       "word": "决战考研",
       "onboard_time": 1734008599,
       "rank": 29,
@@ -14507,6 +14539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 63795,
+      "num": 302645,
+      "word": "孙颖莎健健康康地完成每一场比赛",
+      "onboard_time": 1734009740,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63403,
       "num": 63403,
       "word": "男子高血压头晕刮痧后瞬间降压",
@@ -14697,14 +14737,6 @@
       "onboard_time": 1733663783,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57931,
-      "num": 299082,
-      "word": "远嫁日本女儿已找到母亲取消赴日计划",
-      "onboard_time": 1734010159,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57577,
@@ -15121,14 +15153,6 @@
       "onboard_time": 1733660600,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48543,
-      "num": 302645,
-      "word": "孙颖莎健健康康地完成每一场比赛",
-      "onboard_time": 1734009740,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 48526,
@@ -16009,6 +16033,14 @@
       "onboard_time": 1733985200,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 35178,
+      "num": 699131,
+      "word": "中国经济奋楫向前",
+      "onboard_time": 1734009800,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34947,
@@ -17043,14 +17075,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 19727,
-      "num": 426527,
-      "word": "中国经济奋楫向前",
-      "onboard_time": 1734009800,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19713,
       "num": 188743,
       "word": "马龙报告会演讲视频",
@@ -17217,6 +17241,14 @@
       "onboard_time": 1733687351,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16836,
+      "num": 303824,
+      "word": "大家都知道大学生是软柿子了",
+      "onboard_time": 1734010220,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 16795,
@@ -17777,14 +17809,6 @@
       "onboard_time": 1733765473,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6758,
-      "num": 283396,
-      "word": "大家都知道大学生是软柿子了",
-      "onboard_time": 1734010220,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 6664,
