@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734031198984,
+  "endTime": 1734032157396,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -451,20 +451,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40162,
-      "num": 40162,
+      "raw_hot": 51966,
+      "num": 42096,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43198,
+      "num": 43198,
       "word": "老师突然晕倒大一女生们分工救人",
       "onboard_time": 1734028151,
       "rank": 43,
       "category": "正能量"
     },
     {
-      "raw_hot": 39449,
-      "num": 39449,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 39992,
+      "num": 54666,
+      "word": "明年要抓好9个重点任务",
+      "onboard_time": 1734029712,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27845,
@@ -499,20 +507,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19467,
-      "num": 54666,
-      "word": "明年要抓好9个重点任务",
-      "onboard_time": 1734029712,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18814,
       "num": 18814,
       "word": "狮子王 木法沙传奇",
       "onboard_time": 1734030671,
       "rank": 48,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 15220,
+      "num": 21211,
+      "word": "美国对中国多晶硅加征50%关税",
+      "onboard_time": 1734031632,
+      "rank": 38,
+      "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 14597,
+      "num": 33199,
+      "word": "整治内卷式竞争",
+      "onboard_time": 1734031751,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13184,
