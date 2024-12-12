@@ -1,0 +1,410 @@
+{
+  "runTime": 1733988262558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2769900,
+        "num": 2769900,
+        "word": "江歌妈妈拒绝公开捐款明细",
+        "onboard_time": 1733986100,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1052895,
+        "num": 1052895,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55793,
+        "num": 1048614,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1044544,
+        "num": 1044544,
+        "word": "李行亮哭着和麦琳表白",
+        "onboard_time": 1733981720,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 763996,
+        "num": 763996,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645149,
+        "num": 645149,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623419,
+        "num": 623419,
+        "word": "荆州飞机",
+        "onboard_time": 1733983279,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 571516,
+        "num": 571516,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539815,
+        "num": 539815,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31668,
+        "num": 526758,
+        "word": "最高法辟谣网传限高令新政",
+        "onboard_time": 1733987121,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 672307,
+        "num": 525821,
+        "word": "宋佳 王伟",
+        "onboard_time": 1733987301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522857,
+        "num": 522857,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492982,
+        "num": 492982,
+        "word": "黄圣依也blue了",
+        "onboard_time": 1733985620,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429738,
+        "num": 429738,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412792,
+        "num": 412792,
+        "word": "TF口红 恋与深空",
+        "onboard_time": 1733984179,
+        "rank": 14,
+        "category": "美妆,游戏"
+      },
+      {
+        "raw_hot": 406396,
+        "num": 406396,
+        "word": "贵女",
+        "onboard_time": 1733981841,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129987,
+        "num": 396587,
+        "word": "荆州无人机坠机事故1名伤者正被救治",
+        "onboard_time": 1733986340,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209418,
+        "num": 394152,
+        "word": "猎罪图鉴2深渊单元剧",
+        "onboard_time": 1733987420,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393283,
+        "num": 393283,
+        "word": "孟子义演技",
+        "onboard_time": 1733983940,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20614,
+        "num": 388303,
+        "word": "2024哪句台词最戳你",
+        "onboard_time": 1733987599,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387540,
+        "num": 387540,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 361591,
+        "num": 361591,
+        "word": "官方通报一大型无人机坠落起火",
+        "onboard_time": 1733986460,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 358910,
+        "num": 358910,
+        "word": "游戏充值19万父亲甩锅6岁儿子",
+        "onboard_time": 1733981660,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183316,
+        "num": 304749,
+        "word": "西村力澄清",
+        "onboard_time": 1733987720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94050,
+        "num": 296477,
+        "word": "李雯雯真给奶奶买了金镯子",
+        "onboard_time": 1733987960,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295210,
+        "num": 295210,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284092,
+        "num": 284092,
+        "word": "杜海涛多亏把壁纸设成沈梦辰了",
+        "onboard_time": 1733983101,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255361,
+        "num": 255361,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22622,
+        "num": 251038,
+        "word": "ELLEMEN新青年田嘉瑞周年刊封面",
+        "onboard_time": 1733982140,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247916,
+        "num": 247916,
+        "word": "60岁奶奶20岁身材惊艳网友",
+        "onboard_time": 1733982620,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334636,
+        "num": 247141,
+        "word": "考研准考证照片没穿上衣影响大嘛",
+        "onboard_time": 1733986400,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245555,
+        "num": 245555,
+        "word": "孙颖莎杂志总销售额超740万",
+        "onboard_time": 1733984119,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241733,
+        "num": 241733,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 240048,
+        "num": 240048,
+        "word": "荆州一大型无人机在体育场附近坠毁",
+        "onboard_time": 1733984900,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202960,
+        "num": 202960,
+        "word": "客服回应苹果相册改回来了",
+        "onboard_time": 1733986758,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201887,
+        "num": 201887,
+        "word": "林高远",
+        "onboard_time": 1733980761,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201516,
+        "num": 201516,
+        "word": "白鹿探班敖瑞鹏",
+        "onboard_time": 1733988139,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200557,
+        "num": 200557,
+        "word": "极越员工围堵CEO夏一平",
+        "onboard_time": 1733984661,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192524,
+        "num": 192524,
+        "word": "小学同学要结婚了问我全名发请帖",
+        "onboard_time": 1733979922,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189734,
+        "num": 191874,
+        "word": "韩国国会通过尹锡悦内乱普通特检法",
+        "onboard_time": 1733985620,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183835,
+        "num": 191385,
+        "word": "鸭屎香这个名字怎么来的",
+        "onboard_time": 1733981241,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 191223,
+        "num": 191223,
+        "word": "马斯克宣称要把自由女神熔了",
+        "onboard_time": 1733987599,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 190610,
+        "num": 190610,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155624,
+        "num": 190138,
+        "word": "一加",
+        "onboard_time": 1733986821,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190095,
+        "num": 190095,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172558,
+        "num": 172558,
+        "word": "公职人员名下9家公司称身份证丢4次",
+        "onboard_time": 1733987539,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167640,
+        "num": 167640,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 46,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 159146,
+        "num": 159146,
+        "word": "快乐再出发",
+        "onboard_time": 1733985980,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154182,
+        "num": 154182,
+        "word": "安倍遗孀要见特朗普",
+        "onboard_time": 1733985681,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149266,
+        "num": 149266,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
