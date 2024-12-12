@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1733969648836,
+  "endTime": 1733972751874,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1155,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1461376,
+      "num": 726971,
+      "word": "鞠婧祎新公司叫橘事顺利",
+      "onboard_time": 1733972419,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456348,
       "num": 437146,
       "word": "成毅尖叫男神",
@@ -1875,6 +1883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1143648,
+      "num": 735429,
+      "word": "孙颖莎ELLE杂志",
+      "onboard_time": 1733968821,
+      "rank": 1,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 1140393,
       "num": 1140393,
       "word": "女子听到朋友患肠癌一查自己也有",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1733575700,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1105620,
+      "num": 543915,
+      "word": "抖音下架209部违规微短剧",
+      "onboard_time": 1733967378,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 1103474,
@@ -2843,14 +2867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 886110,
-      "num": 399946,
-      "word": "抖音下架209部违规微短剧",
-      "onboard_time": 1733967378,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 882485,
       "num": 1141197,
       "word": "浙江卫视请来了真cp",
@@ -3483,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 785484,
+      "num": 785484,
+      "word": "韩特种部队队长街头哽咽喊冤",
+      "onboard_time": 1733970318,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 784838,
       "num": 1119366,
       "word": "一乡镇公务员日均接收文件通知60多份",
@@ -3755,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 747350,
+      "num": 371956,
+      "word": "痘肌女子孕晚期全身爆痘",
+      "onboard_time": 1733970799,
+      "rank": 23,
+      "category": "美妆,健康医疗"
+    },
+    {
       "raw_hot": 746142,
       "num": 746142,
       "word": "音乐节主办停止和周密合作",
@@ -3793,14 +3825,6 @@
       "onboard_time": 1733200581,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 735429,
-      "num": 735429,
-      "word": "孙颖莎ELLE杂志",
-      "onboard_time": 1733968821,
-      "rank": 1,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 734782,
@@ -4041,6 +4065,14 @@
       "onboard_time": 1733493020,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 710725,
+      "num": 710725,
+      "word": "女子上厕所摔倒致残公司拒赔20万",
+      "onboard_time": 1733968759,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 710625,
@@ -4299,6 +4331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 677806,
+      "num": 501986,
+      "word": "全球最贵iPhone16ProMax登场",
+      "onboard_time": 1733970918,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 675873,
       "num": 675873,
       "word": "孟子义人脉",
@@ -4497,6 +4537,14 @@
       "onboard_time": 1733309122,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 656392,
+      "num": 656392,
+      "word": "个人养老金制度即将全国推行",
+      "onboard_time": 1733970378,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 655633,
@@ -8435,6 +8483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 404207,
+      "num": 404207,
+      "word": "白敬亭文咏珊开机路透",
+      "onboard_time": 1733972059,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404131,
       "num": 404131,
       "word": "哪吒2定档大年初一",
@@ -8705,6 +8761,14 @@
       "onboard_time": 1733030718,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390092,
+      "num": 390092,
+      "word": "极越留下员工将自费上班",
+      "onboard_time": 1733967198,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 390030,
@@ -9329,6 +9393,14 @@
       "onboard_time": 1733708658,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 362446,
+      "num": 362446,
+      "word": "孙颖莎说很喜欢当下的自己",
+      "onboard_time": 1733970498,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 361392,
@@ -10163,14 +10235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330917,
-      "num": 330917,
-      "word": "极越留下员工将自费上班",
-      "onboard_time": 1733967198,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 330824,
       "num": 726536,
       "word": "乌鲁木齐25车刮擦相碰",
@@ -10313,6 +10377,14 @@
       "onboard_time": 1733245937,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327775,
+      "num": 327775,
+      "word": "乒超",
+      "onboard_time": 1733970138,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 327663,
@@ -11612,7 +11684,7 @@
     },
     {
       "raw_hot": 285474,
-      "num": 363522,
+      "num": 383431,
       "word": "李昀锐心肝宝贝开心果",
       "onboard_time": 1733966958,
       "rank": 17,
@@ -13427,14 +13499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240756,
-      "num": 362466,
-      "word": "女子上厕所摔倒致残公司拒赔20万",
-      "onboard_time": 1733968759,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -13521,6 +13585,14 @@
       "onboard_time": 1733279299,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238633,
+      "num": 238633,
+      "word": "第一个被AI折磨的职业出现了",
+      "onboard_time": 1733971159,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 238466,
@@ -14971,6 +15043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215106,
+      "num": 252630,
+      "word": "韩国执政党说尹锡悦企图将戒严合理化",
+      "onboard_time": 1733970318,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214965,
       "num": 214965,
       "word": "骗子公司跑路员工落下身份证",
@@ -15401,6 +15481,14 @@
       "onboard_time": 1733542879,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209057,
+      "num": 365757,
+      "word": "2025江苏卫视跨年阵容",
+      "onboard_time": 1733971999,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 208999,
@@ -16123,6 +16211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "十年前的白月光漫画回归了",
+      "onboard_time": 1733971518,
+      "rank": 39,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 202177,
       "num": 202177,
       "word": "成毅出发2024尖叫之夜",
@@ -16200,6 +16296,14 @@
       "word": "世界乒联恭喜中国队夺冠",
       "onboard_time": 1733664921,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201343,
+      "num": 201343,
+      "word": "孙颖莎新年愿望是开开心心健康完赛",
+      "onboard_time": 1733972299,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -19459,6 +19563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175756,
+      "num": 175756,
+      "word": "极越为何突然崩盘",
+      "onboard_time": 1733970318,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175754,
       "num": 243115,
       "word": "白夜破晓",
@@ -19481,6 +19593,14 @@
       "onboard_time": 1733192778,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175628,
+      "num": 316772,
+      "word": "孙颖莎柿柿如意封面大片",
+      "onboard_time": 1733971820,
+      "rank": 29,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 175562,
@@ -20259,6 +20379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169300,
+      "num": 313921,
+      "word": "樊振东将迎乒超首秀",
+      "onboard_time": 1733971459,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169224,
       "num": 169224,
       "word": "胖东来正研究过度代购解决方法",
@@ -20739,6 +20867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165750,
+      "num": 327438,
+      "word": "宋墨反杀亲爹",
+      "onboard_time": 1733969420,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165663,
       "num": 165663,
       "word": "王楚钦又遇到不给球的了",
@@ -21089,6 +21225,14 @@
       "onboard_time": 1733730560,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162817,
+      "num": 233669,
+      "word": "昭昭墨墨在一起了",
+      "onboard_time": 1733971700,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162680,
@@ -21616,6 +21760,14 @@
       "word": "宋墨触底反弹",
       "onboard_time": 1733924059,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158746,
+      "num": 158746,
+      "word": "我是刑警 吃顿饭被提取DNA",
+      "onboard_time": 1733972479,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -22745,6 +22897,14 @@
       "onboard_time": 1733808438,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151054,
+      "num": 319701,
+      "word": "勇士有意詹姆斯和巴特勒",
+      "onboard_time": 1733972718,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 151034,
@@ -25403,6 +25563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131658,
+      "num": 392238,
+      "word": "于和伟夸富大龙优秀的演员",
+      "onboard_time": 1733971639,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131649,
       "num": 131649,
       "word": "利物浦vs曼城",
@@ -25553,14 +25721,6 @@
       "onboard_time": 1733643737,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130662,
-      "num": 130662,
-      "word": "宋墨反杀亲爹",
-      "onboard_time": 1733969420,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 130515,
@@ -27817,6 +27977,14 @@
       "onboard_time": 1733193138,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111664,
+      "num": 376398,
+      "word": "尹锡悦否认紧急戒严是内乱",
+      "onboard_time": 1733969717,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111601,
@@ -31699,6 +31867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71749,
+      "num": 479216,
+      "word": "以色列已摧毁叙近80%战略军事资产",
+      "onboard_time": 1733971097,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71683,
       "num": 372228,
       "word": "70多起家暴案仅6人开具告诫书",
@@ -31889,6 +32065,14 @@
       "onboard_time": 1733589439,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69808,
+      "num": 405509,
+      "word": "2024乒超首日对阵表",
+      "onboard_time": 1733971938,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 69735,
@@ -36707,6 +36891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32961,
+      "num": 390942,
+      "word": "韩陆军参谋总长被停职",
+      "onboard_time": 1733972178,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32854,
       "num": 329276,
       "word": "综艺大赏",
@@ -37971,6 +38163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25150,
+      "num": 641073,
+      "word": "唐钱婷100蛙破亚洲纪录",
+      "onboard_time": 1733972178,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25095,
       "num": 61008,
       "word": "30岁寻亲男子一岁被从陕西拐卖至河北",
@@ -38020,7 +38220,7 @@
     },
     {
       "raw_hot": 24666,
-      "num": 237386,
+      "num": 389832,
       "word": "阎鹤祥的好事我也要接",
       "onboard_time": 1733968879,
       "rank": 29,
@@ -40747,6 +40947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6850,
+      "num": 453891,
+      "word": "适合冬天的低倍数防晒",
+      "onboard_time": 1733972419,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 6842,
       "num": 93465,
       "word": "王源谈孤星计划爆炸戏",
@@ -40880,6 +41088,22 @@
       "word": "林诗栋蒯曼vs迈斯纳万远",
       "onboard_time": 1733309002,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5743,
+      "num": 581393,
+      "word": "樊振东vs侯英超",
+      "onboard_time": 1733972660,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5710,
+      "num": 564301,
+      "word": "王楚钦vs全开源",
+      "onboard_time": 1733972718,
+      "rank": 9,
       "category": "体育"
     },
     {

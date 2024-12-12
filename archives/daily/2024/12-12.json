@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733969648836,
+  "endTime": 1733972751874,
   "band_list": [
     {
       "raw_hot": 1776396,
@@ -8,6 +8,14 @@
       "word": "张庭直播7小时仅卖267万",
       "onboard_time": 1733967559,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1461376,
+      "num": 726971,
+      "word": "鞠婧祎新公司叫橘事顺利",
+      "onboard_time": 1733972419,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -19,20 +27,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1143648,
+      "num": 735429,
+      "word": "孙颖莎ELLE杂志",
+      "onboard_time": 1733968821,
+      "rank": 1,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 1105620,
+      "num": 543915,
+      "word": "抖音下架209部违规微短剧",
+      "onboard_time": 1733967378,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 959915,
       "num": 959915,
       "word": "为什么有人把脚伸出被子睡觉",
       "onboard_time": 1733961738,
       "rank": 1,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 886110,
-      "num": 399946,
-      "word": "抖音下架209部违规微短剧",
-      "onboard_time": 1733967378,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 794752,
@@ -43,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 785484,
+      "num": 785484,
+      "word": "韩特种部队队长街头哽咽喊冤",
+      "onboard_time": 1733970318,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 766992,
       "num": 573459,
       "word": "深圳爆炸住宅楼有住户曾要求检修燃气",
@@ -51,12 +75,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 735429,
-      "num": 735429,
-      "word": "孙颖莎ELLE杂志",
-      "onboard_time": 1733968821,
-      "rank": 1,
-      "category": "体育,时尚"
+      "raw_hot": 747350,
+      "num": 371956,
+      "word": "痘肌女子孕晚期全身爆痘",
+      "onboard_time": 1733970799,
+      "rank": 23,
+      "category": "美妆,健康医疗"
     },
     {
       "raw_hot": 721145,
@@ -67,12 +91,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 710725,
+      "num": 710725,
+      "word": "女子上厕所摔倒致残公司拒赔20万",
+      "onboard_time": 1733968759,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677806,
+      "num": 501986,
+      "word": "全球最贵iPhone16ProMax登场",
+      "onboard_time": 1733970918,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 666203,
       "num": 748133,
       "word": "中国女子远嫁日本已失联16个月",
       "onboard_time": 1733930059,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 656392,
+      "num": 656392,
+      "word": "个人养老金制度即将全国推行",
+      "onboard_time": 1733970378,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 620902,
@@ -195,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404207,
+      "num": 404207,
+      "word": "白敬亭文咏珊开机路透",
+      "onboard_time": 1733972059,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400573,
       "num": 400573,
       "word": "陈昊宇 我不喜欢大女主剧的定义",
@@ -209,6 +265,14 @@
       "onboard_time": 1733966599,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 390092,
+      "num": 390092,
+      "word": "极越留下员工将自费上班",
+      "onboard_time": 1733967198,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 369049,
@@ -227,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362446,
+      "num": 362446,
+      "word": "孙颖莎说很喜欢当下的自己",
+      "onboard_time": 1733970498,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358429,
       "num": 324676,
       "word": "终于知道卫裤这个扣怎么用了",
       "onboard_time": 1733963900,
       "rank": 20,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 330917,
-      "num": 330917,
-      "word": "极越留下员工将自费上班",
-      "onboard_time": 1733967198,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 329612,
@@ -257,6 +321,14 @@
       "onboard_time": 1733929700,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327775,
+      "num": 327775,
+      "word": "乒超",
+      "onboard_time": 1733970138,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 326673,
@@ -300,7 +372,7 @@
     },
     {
       "raw_hot": 285474,
-      "num": 363522,
+      "num": 383431,
       "word": "李昀锐心肝宝贝开心果",
       "onboard_time": 1733966958,
       "rank": 17,
@@ -355,14 +427,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 240756,
-      "num": 362466,
-      "word": "女子上厕所摔倒致残公司拒赔20万",
-      "onboard_time": 1733968759,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239465,
       "num": 363279,
       "word": "杨紫李现国色芳华招商了",
@@ -371,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238633,
+      "num": 238633,
+      "word": "第一个被AI折磨的职业出现了",
+      "onboard_time": 1733971159,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 224979,
       "num": 224979,
       "word": "疑似超市老板称儿子清华读研不作解释",
       "onboard_time": 1733923039,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215106,
+      "num": 252630,
+      "word": "韩国执政党说尹锡悦企图将戒严合理化",
+      "onboard_time": 1733970318,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213809,
@@ -395,12 +475,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209057,
+      "num": 365757,
+      "word": "2025江苏卫视跨年阵容",
+      "onboard_time": 1733971999,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207898,
       "num": 207898,
       "word": "极越",
       "onboard_time": 1733907081,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 202203,
+      "num": 202203,
+      "word": "十年前的白月光漫画回归了",
+      "onboard_time": 1733971518,
+      "rank": 39,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 201343,
+      "num": 201343,
+      "word": "孙颖莎新年愿望是开开心心健康完赛",
+      "onboard_time": 1733972299,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 197867,
@@ -467,6 +571,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175756,
+      "num": 175756,
+      "word": "极越为何突然崩盘",
+      "onboard_time": 1733970318,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 175628,
+      "num": 316772,
+      "word": "孙颖莎柿柿如意封面大片",
+      "onboard_time": 1733971820,
+      "rank": 29,
+      "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 169300,
+      "num": 313921,
+      "word": "樊振东将迎乒超首秀",
+      "onboard_time": 1733971459,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167361,
       "num": 167732,
       "word": "迪丽热巴红衣新造型路透",
@@ -483,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165750,
+      "num": 327438,
+      "word": "宋墨反杀亲爹",
+      "onboard_time": 1733969420,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162942,
       "num": 162942,
       "word": "这一句不要给他差评好暖",
@@ -491,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162817,
+      "num": 233669,
+      "word": "昭昭墨墨在一起了",
+      "onboard_time": 1733971700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161284,
       "num": 161284,
       "word": "祺轩",
       "onboard_time": 1733960717,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158746,
+      "num": 158746,
+      "word": "我是刑警 吃顿饭被提取DNA",
+      "onboard_time": 1733972479,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 158730,
@@ -521,6 +673,14 @@
       "onboard_time": 1733957054,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151054,
+      "num": 319701,
+      "word": "勇士有意詹姆斯和巴特勒",
+      "onboard_time": 1733972718,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 151034,
@@ -603,11 +763,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130662,
-      "num": 130662,
-      "word": "宋墨反杀亲爹",
-      "onboard_time": 1733969420,
-      "rank": 48,
+      "raw_hot": 131658,
+      "num": 392238,
+      "word": "于和伟夸富大龙优秀的演员",
+      "onboard_time": 1733971639,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -680,6 +840,14 @@
       "word": "远嫁日本失联一年女子母亲发声",
       "onboard_time": 1733958255,
       "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 111664,
+      "num": 376398,
+      "word": "尹锡悦否认紧急戒严是内乱",
+      "onboard_time": 1733969717,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -859,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71749,
+      "num": 479216,
+      "word": "以色列已摧毁叙近80%战略军事资产",
+      "onboard_time": 1733971097,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 71243,
       "num": 71243,
       "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
@@ -889,6 +1065,14 @@
       "onboard_time": 1733968879,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69808,
+      "num": 405509,
+      "word": "2024乒超首日对阵表",
+      "onboard_time": 1733971938,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 68257,
@@ -971,6 +1155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32961,
+      "num": 390942,
+      "word": "韩陆军参谋总长被停职",
+      "onboard_time": 1733972178,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30861,
       "num": 39926,
       "word": "徐振轩吃播vlog",
@@ -987,8 +1179,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25150,
+      "num": 641073,
+      "word": "唐钱婷100蛙破亚洲纪录",
+      "onboard_time": 1733972178,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24666,
-      "num": 237386,
+      "num": 389832,
       "word": "阎鹤祥的好事我也要接",
       "onboard_time": 1733968879,
       "rank": 29,
@@ -1059,12 +1259,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6850,
+      "num": 453891,
+      "word": "适合冬天的低倍数防晒",
+      "onboard_time": 1733972419,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 6513,
       "num": 66419,
       "word": "李昀锐打戏",
       "onboard_time": 1733956333,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5743,
+      "num": 581393,
+      "word": "樊振东vs侯英超",
+      "onboard_time": 1733972660,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5710,
+      "num": 564301,
+      "word": "王楚钦vs全开源",
+      "onboard_time": 1733972718,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 4765,
