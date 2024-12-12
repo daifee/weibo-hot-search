@@ -1,7 +1,15 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733968265268,
+  "endTime": 1733969648836,
   "band_list": [
+    {
+      "raw_hot": 1776396,
+      "num": 1776396,
+      "word": "张庭直播7小时仅卖267万",
+      "onboard_time": 1733967559,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1328915,
       "num": 1328915,
@@ -17,6 +25,14 @@
       "onboard_time": 1733961738,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 886110,
+      "num": 399946,
+      "word": "抖音下架209部违规微短剧",
+      "onboard_time": 1733967378,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 794752,
@@ -35,6 +51,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 735429,
+      "num": 735429,
+      "word": "孙颖莎ELLE杂志",
+      "onboard_time": 1733968821,
+      "rank": 1,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 721145,
       "num": 881008,
       "word": "丁程鑫张真源毕业大戏公式照",
@@ -49,14 +73,6 @@
       "onboard_time": 1733930059,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 639035,
-      "num": 567861,
-      "word": "张庭直播7小时仅卖267万",
-      "onboard_time": 1733967559,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 620902,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398200,
+      "num": 705837,
+      "word": "尹锡悦拒绝提前下台",
+      "onboard_time": 1733966599,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369049,
       "num": 369049,
       "word": "孟子义又发红包了",
@@ -204,11 +228,19 @@
     },
     {
       "raw_hot": 358429,
-      "num": 312431,
+      "num": 324676,
       "word": "终于知道卫裤这个扣怎么用了",
       "onboard_time": 1733963900,
       "rank": 20,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 330917,
+      "num": 330917,
+      "word": "极越留下员工将自费上班",
+      "onboard_time": 1733967198,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 329612,
@@ -251,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308481,
-      "num": 308481,
-      "word": "抖音下架209部违规微短剧",
-      "onboard_time": 1733967378,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 297175,
       "num": 297175,
       "word": "女儿远嫁日本失联妈妈春节赴日寻女",
@@ -273,6 +297,14 @@
       "onboard_time": 1733931199,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 285474,
+      "num": 363522,
+      "word": "李昀锐心肝宝贝开心果",
+      "onboard_time": 1733966958,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 277047,
@@ -307,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257265,
-      "num": 323992,
-      "word": "李昀锐心肝宝贝开心果",
-      "onboard_time": 1733966958,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252377,
       "num": 252377,
       "word": "陈晓名下工作室仅1家存续",
@@ -331,20 +355,20 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 240756,
+      "num": 362466,
+      "word": "女子上厕所摔倒致残公司拒赔20万",
+      "onboard_time": 1733968759,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239465,
-      "num": 321869,
+      "num": 363279,
       "word": "杨紫李现国色芳华招商了",
       "onboard_time": 1733966299,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225788,
-      "num": 225788,
-      "word": "极越留下员工将自费上班",
-      "onboard_time": 1733967198,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 224979,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211059,
+      "num": 253948,
+      "word": "李羲承这什么造型",
+      "onboard_time": 1733968519,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207898,
       "num": 207898,
       "word": "极越",
@@ -371,12 +403,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 194000,
+      "raw_hot": 197867,
       "num": 582709,
       "word": "我国专家遭境外人员强行套近乎",
       "onboard_time": 1733963900,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188461,
+      "num": 188461,
+      "word": "ChatGPT已集成到苹果操作系统",
+      "onboard_time": 1733968519,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 188158,
@@ -403,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179284,
+      "num": 249978,
+      "word": "九重紫",
+      "onboard_time": 1733964318,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178025,
       "num": 178025,
       "word": "代号鸢",
@@ -419,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174462,
-      "num": 705837,
-      "word": "尹锡悦拒绝提前下台",
-      "onboard_time": 1733966599,
-      "rank": 4,
-      "category": "国际时政"
+      "raw_hot": 167361,
+      "num": 167732,
+      "word": "迪丽热巴红衣新造型路透",
+      "onboard_time": 1733966419,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167354,
@@ -451,14 +499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 159475,
-      "num": 167732,
-      "word": "迪丽热巴红衣新造型路透",
-      "onboard_time": 1733966419,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 158730,
       "num": 158730,
       "word": "猎罪图鉴转场好丝滑",
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151034,
+      "num": 151034,
+      "word": "目击者回应深圳一住宅楼突发爆炸",
+      "onboard_time": 1733969420,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150812,
       "num": 261099,
       "word": "2024余额已不足20天",
@@ -505,14 +553,6 @@
       "onboard_time": 1733928920,
       "rank": 25,
       "category": "剧集,读书作家"
-    },
-    {
-      "raw_hot": 150106,
-      "num": 150106,
-      "word": "九重紫",
-      "onboard_time": 1733964318,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 145375,
@@ -563,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130662,
+      "num": 130662,
+      "word": "宋墨反杀亲爹",
+      "onboard_time": 1733969420,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130537,
       "num": 130537,
       "word": "女子网购羽绒服仅退款称没偷没抢",
@@ -584,6 +632,14 @@
       "word": "沙特获2034年世界杯主办权",
       "onboard_time": 1733930899,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125985,
+      "num": 264241,
+      "word": "马龙陈梦对练备战老瓦杯",
+      "onboard_time": 1733967378,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -609,6 +665,14 @@
       "onboard_time": 1733959695,
       "rank": 33,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 116375,
+      "num": 726667,
+      "word": "尹锡悦说会奉陪到底",
+      "onboard_time": 1733968999,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115133,
@@ -691,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93630,
+      "num": 363593,
+      "word": "韩国执政党紧急开会讨论开除尹锡悦党籍",
+      "onboard_time": 1733968340,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93104,
       "num": 93104,
       "word": "极越回应经营状况",
@@ -755,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83693,
+      "num": 576613,
+      "word": "尹锡悦对国民谈话讲了什么",
+      "onboard_time": 1733967799,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83594,
       "num": 83594,
       "word": "央视新闻夜读",
@@ -803,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69888,
+      "num": 362757,
+      "word": "刘雨昕直播看洛杉矶日落",
+      "onboard_time": 1733968879,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68257,
       "num": 68257,
       "word": "马嘉祺22岁生日海报",
@@ -817,14 +905,6 @@
       "onboard_time": 1733938815,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61192,
-      "num": 264241,
-      "word": "马龙陈梦对练备战老瓦杯",
-      "onboard_time": 1733967378,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 58434,
@@ -883,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36564,
-      "num": 576613,
-      "word": "尹锡悦对国民谈话讲了什么",
-      "onboard_time": 1733967799,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 34199,
       "num": 34199,
       "word": "加拿大高官强调加拿大是主权国家",
@@ -913,6 +985,14 @@
       "onboard_time": 1733943492,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24666,
+      "num": 237386,
+      "word": "阎鹤祥的好事我也要接",
+      "onboard_time": 1733968879,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 21973,
