@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734011055726,
+  "endTime": 1734013394069,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2320067,
-      "num": 642805,
+      "num": 747130,
       "word": "韩娱地震",
       "onboard_time": 1734000019,
       "rank": 22,
@@ -65,6 +65,14 @@
       "onboard_time": 1733991080,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1581261,
+      "num": 1581261,
+      "word": "宋佳结婚我的态度",
+      "onboard_time": 1734009019,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1555038,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1103197,
+      "num": 725325,
+      "word": "曝某95花否掉九个男主",
+      "onboard_time": 1734010220,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1077036,
       "num": 679261,
       "word": "谢谢亚轩",
@@ -203,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1042110,
+      "num": 1042110,
+      "word": "中央定调明年财政政策",
+      "onboard_time": 1734009440,
+      "rank": 39,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1039467,
       "num": 1039467,
       "word": "英伟达下架天猫官方旗舰店所有商品",
       "onboard_time": 1733993658,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1027407,
-      "num": 1164385,
-      "word": "宋佳结婚我的态度",
-      "onboard_time": 1734009019,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1015540,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 750454,
-      "num": 473925,
+      "num": 742373,
       "word": "制酱文化被韩国申遗成功了",
       "onboard_time": 1734006260,
       "rank": 4,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 700409,
-      "num": 315474,
+      "num": 346211,
       "word": "张凌赫逐玉一番",
       "onboard_time": 1734008660,
       "rank": 6,
@@ -425,6 +441,14 @@
       "onboard_time": 1733930059,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642245,
+      "num": 642245,
+      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+      "onboard_time": 1734011121,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 632801,
@@ -755,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410495,
-      "num": 309915,
-      "word": "曝某95花否掉九个男主",
-      "onboard_time": 1734010220,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 405427,
       "num": 405427,
       "word": "华润物业回应深圳高层爆炸事故",
@@ -907,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346701,
+      "num": 346701,
+      "word": "经济工作会议",
+      "onboard_time": 1734006619,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 344594,
       "num": 344594,
       "word": "小学同学要结婚了问我全名发请帖",
@@ -979,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315855,
-      "num": 315855,
-      "word": "中央定调明年财政政策",
-      "onboard_time": 1734009440,
-      "rank": 39,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 314095,
       "num": 314095,
       "word": "Jennie朴彩英纽约路透",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1733997080,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310935,
-      "num": 310935,
-      "word": "经济工作会议",
-      "onboard_time": 1734006619,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 306855,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1734007699,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278624,
+      "num": 346495,
+      "word": "部署2025年经济工作",
+      "onboard_time": 1734007039,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 277636,
@@ -1251,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 256661,
-      "num": 340314,
-      "word": "部署2025年经济工作",
-      "onboard_time": 1734007039,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 252377,
       "num": 252377,
       "word": "陈晓名下工作室仅1家存续",
@@ -1371,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233896,
+      "num": 176957,
+      "word": "猴哥说车回应破产传闻",
+      "onboard_time": 1734010581,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 232770,
       "num": 232770,
       "word": "今年有6位南京大屠杀幸存者离去",
@@ -1459,6 +1475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214720,
+      "num": 176886,
+      "word": "沈翊黑化倒计时",
+      "onboard_time": 1734012020,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214035,
       "num": 340895,
       "word": "鞠婧祎娜扎周也公司地址一样",
@@ -1528,6 +1552,14 @@
       "word": "西村力澄清",
       "onboard_time": 1733987720,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207773,
+      "num": 176847,
+      "word": "消散对白",
+      "onboard_time": 1734012501,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1747,6 +1779,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192773,
+      "num": 176722,
+      "word": "王楚钦离场时捡走了地上的垃圾",
+      "onboard_time": 1734011299,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192362,
+      "num": 192362,
+      "word": "辽源",
+      "onboard_time": 1734011479,
+      "rank": 17,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 192235,
       "num": 301273,
       "word": "赵小童帆布包",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1733985620,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189045,
+      "num": 176684,
+      "word": "GD与朋友们",
+      "onboard_time": 1734013280,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 188461,
@@ -1923,6 +1979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176630,
+      "num": 176630,
+      "word": "曝流量花拍摄当天临时罢工",
+      "onboard_time": 1734011121,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175704,
       "num": 233311,
       "word": "韩执政党党首说将推动党内决定赞成弹劾",
@@ -2019,20 +2083,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170657,
-      "num": 170657,
-      "word": "猴哥说车回应破产传闻",
-      "onboard_time": 1734010581,
-      "rank": 37,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 170633,
       "num": 417462,
       "word": "姆巴佩涉嫌强奸案调查终止",
       "onboard_time": 1733997799,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169385,
+      "num": 169385,
+      "word": "37岁去世主持人妻子怀孕5个月",
+      "onboard_time": 1734012981,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169300,
@@ -2115,12 +2179,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161212,
+      "num": 161212,
+      "word": "竹林四侠确认出席星光大赏",
+      "onboard_time": 1734012800,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160310,
+      "num": 382054,
+      "word": "千万彩票被冒领当事人回应5年维权",
+      "onboard_time": 1734006859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159504,
       "num": 159504,
       "word": "孟子义和蒙眼李昀锐合照",
       "onboard_time": 1734008840,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159297,
+      "num": 159297,
+      "word": "向佐秀智合照",
+      "onboard_time": 1734010760,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 158730,
@@ -2315,14 +2403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144209,
-      "num": 144209,
-      "word": "向佐秀智合照",
-      "onboard_time": 1734010760,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143923,
       "num": 414317,
       "word": "阴阳师",
@@ -2411,6 +2491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133442,
+      "num": 177167,
+      "word": "留几手拿葛夕的抑郁药装成是他的",
+      "onboard_time": 1734013342,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131534,
       "num": 301748,
       "word": "国足李铁案明日一审宣判",
@@ -2457,14 +2545,6 @@
       "onboard_time": 1734007220,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129581,
-      "num": 382054,
-      "word": "千万彩票被冒领当事人回应5年维权",
-      "onboard_time": 1734006859,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128236,
@@ -2793,6 +2873,14 @@
       "onboard_time": 1733919620,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91830,
+      "num": 177115,
+      "word": "中国考古已是另一个level了",
+      "onboard_time": 1734003079,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91277,
@@ -3219,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53342,
+      "num": 177539,
+      "word": "男子约女网友遭灌醉后被盗17万",
+      "onboard_time": 1734012321,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48954,
       "num": 327515,
       "word": "鞠婧祎大女主剧本",
@@ -3259,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45504,
+      "num": 345483,
+      "word": "母爱是所爱隔山海山海皆可平",
+      "onboard_time": 1734012260,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44738,
       "num": 521382,
       "word": "近八成受访青年感觉自己忙到停不下",
@@ -3273,6 +3377,14 @@
       "onboard_time": 1733997980,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 42734,
+      "num": 747902,
+      "word": "中国经济奋楫向前",
+      "onboard_time": 1734009800,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42345,
@@ -3435,20 +3547,20 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 35178,
-      "num": 699131,
-      "word": "中国经济奋楫向前",
-      "onboard_time": 1734009800,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34592,
       "num": 522867,
       "word": "多人非法穿越秦岭鳌太线被罚",
       "onboard_time": 1733983700,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34497,
+      "num": 177296,
+      "word": "女双年终世界第一陈梦王曼昱",
+      "onboard_time": 1734013222,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 34199,
@@ -3641,6 +3753,14 @@
       "onboard_time": 1733998819,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17717,
+      "num": 177073,
+      "word": "葛夕夸麦琳是优秀员工",
+      "onboard_time": 1734012201,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 17668,
