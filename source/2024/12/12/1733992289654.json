@@ -1,0 +1,410 @@
+{
+  "runTime": 1733992289654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2271387,
+        "num": 2271387,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1679263,
+        "num": 1679263,
+        "word": "苟仲文被双开",
+        "onboard_time": 1733991080,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53771,
+        "num": 1451157,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1427990,
+        "num": 1427990,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1363260,
+        "num": 1363260,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727482,
+        "num": 727482,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1015540,
+        "num": 702390,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666300,
+        "num": 666300,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525555,
+        "num": 525555,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 497752,
+        "num": 497752,
+        "word": "百万网红回应不正当职业姐腰杆笔直",
+        "onboard_time": 1733990240,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519466,
+        "num": 497069,
+        "word": "白鹿张晚意获三级演员职称",
+        "onboard_time": 1733990361,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493904,
+        "num": 493904,
+        "word": "快要出发啦官宣",
+        "onboard_time": 1733989579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443329,
+        "num": 443329,
+        "word": "李行亮哭着和麦琳表白",
+        "onboard_time": 1733981720,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420169,
+        "num": 420169,
+        "word": "远嫁日本失联女子已找到",
+        "onboard_time": 1733988621,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25207,
+        "num": 396359,
+        "word": "中国玩家最有参与感的一届TGA",
+        "onboard_time": 1733991740,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 392933,
+        "num": 392933,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285611,
+        "num": 285611,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 251158,
+        "num": 251158,
+        "word": "万年县委原书记毛奇被公诉",
+        "onboard_time": 1733991861,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272273,
+        "num": 250907,
+        "word": "华润物业回应深圳高层爆炸事故",
+        "onboard_time": 1733990481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32846,
+        "num": 250501,
+        "word": "檀健次回应大器晚成",
+        "onboard_time": 1733992161,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363174,
+        "num": 250142,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361228,
+        "num": 250031,
+        "word": "宋佳 王伟",
+        "onboard_time": 1733987301,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249673,
+        "num": 249673,
+        "word": "孟子义演技",
+        "onboard_time": 1733983940,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131377,
+        "num": 246658,
+        "word": "张晚意被评为三级演员",
+        "onboard_time": 1733990780,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173605,
+        "num": 244004,
+        "word": "孙颖莎说想让全世界都知道我",
+        "onboard_time": 1733990180,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40797,
+        "num": 236790,
+        "word": "张萌做自己的人生大女主",
+        "onboard_time": 1733991861,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175704,
+        "num": 233311,
+        "word": "韩执政党党首说将推动党内决定赞成弹劾",
+        "onboard_time": 1733990060,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231720,
+        "num": 231720,
+        "word": "黄圣依也blue了",
+        "onboard_time": 1733985620,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207385,
+        "num": 226829,
+        "word": "水原希子街头拥抱男友",
+        "onboard_time": 1733991500,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124738,
+        "num": 226217,
+        "word": "李行亮撕掉婚姻承诺书",
+        "onboard_time": 1733992220,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226186,
+        "num": 226186,
+        "word": "TF口红 恋与深空",
+        "onboard_time": 1733984179,
+        "rank": 30,
+        "category": "美妆,游戏"
+      },
+      {
+        "raw_hot": 214493,
+        "num": 214493,
+        "word": "考研准考证照片没穿上衣影响大嘛",
+        "onboard_time": 1733986400,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209786,
+        "num": 209786,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205709,
+        "num": 205709,
+        "word": "偶遇李敏镐抽烟",
+        "onboard_time": 1733990361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202281,
+        "num": 202281,
+        "word": "朴彩英上海快闪",
+        "onboard_time": 1733989699,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200923,
+        "num": 200923,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187009,
+        "num": 187009,
+        "word": "蔡徐坤Breaktime",
+        "onboard_time": 1733992100,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182179,
+        "num": 182179,
+        "word": "很普通却很上瘾的食物",
+        "onboard_time": 1733988621,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180440,
+        "num": 180440,
+        "word": "杨政体测未通过",
+        "onboard_time": 1733991260,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174369,
+        "num": 174369,
+        "word": "60岁奶奶20岁身材惊艳网友",
+        "onboard_time": 1733982620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23604,
+        "num": 163594,
+        "word": "张艺兴官宣加盟江苏卫视跨年",
+        "onboard_time": 1733980939,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159885,
+        "num": 159885,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156710,
+        "num": 156710,
+        "word": "荆州飞机",
+        "onboard_time": 1733983279,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155477,
+        "num": 155477,
+        "word": "马斯克宣称要把自由女神熔了",
+        "onboard_time": 1733987599,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150501,
+        "num": 150501,
+        "word": "教育部增设40个新专业",
+        "onboard_time": 1733989761,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141463,
+        "num": 141463,
+        "word": "公职人员名下9家公司称身份证丢4次",
+        "onboard_time": 1733987539,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136147,
+        "num": 136147,
+        "word": "韩国国会通过尹锡悦内乱普通特检法",
+        "onboard_time": 1733985620,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134472,
+        "num": 134472,
+        "word": "杜海涛多亏把壁纸设成沈梦辰了",
+        "onboard_time": 1733983101,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132025,
+        "num": 132025,
+        "word": "孙颖莎杂志总销售额超740万",
+        "onboard_time": 1733984119,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130141,
+        "num": 130141,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}

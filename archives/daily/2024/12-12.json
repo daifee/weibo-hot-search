@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733989100951,
+  "endTime": 1733992289654,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -9,6 +9,14 @@
       "onboard_time": 1733986100,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2271387,
+      "num": 2271387,
+      "word": "车银优和赵韩樱子朋友",
+      "onboard_time": 1733988441,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1932498,
@@ -43,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1679263,
+      "num": 1679263,
+      "word": "苟仲文被双开",
+      "onboard_time": 1733991080,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1555038,
       "num": 1555038,
       "word": "李行亮哭着和麦琳表白",
@@ -67,6 +83,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1427990,
+      "num": 1427990,
+      "word": "百万网红被曝疑做不正当职业",
+      "onboard_time": 1733986940,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1363260,
+      "num": 1363260,
+      "word": "曝宋佳已领证结婚",
+      "onboard_time": 1733989221,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1328915,
       "num": 1328915,
       "word": "郭敬明发鞠婧祎新原始帧",
@@ -81,14 +113,6 @@
       "onboard_time": 1733970918,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1221047,
-      "num": 1221047,
-      "word": "百万网红被曝疑做不正当职业",
-      "onboard_time": 1733986940,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1205113,
@@ -145,6 +169,14 @@
       "onboard_time": 1733985799,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1015540,
+      "num": 702390,
+      "word": "葛夕留几手未婚先孕",
+      "onboard_time": 1733988139,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 976887,
@@ -224,14 +256,6 @@
       "word": "芒果跨年 虞书欣和她的男主角们",
       "onboard_time": 1733978420,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 725996,
-      "num": 577860,
-      "word": "葛夕留几手未婚先孕",
-      "onboard_time": 1733988139,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -339,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519466,
+      "num": 497069,
+      "word": "白鹿张晚意获三级演员职称",
+      "onboard_time": 1733990361,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518216,
       "num": 329169,
       "word": "老农烧炭取暖去世几根手指烧没了",
@@ -377,6 +409,22 @@
       "onboard_time": 1733967198,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 497752,
+      "num": 497752,
+      "word": "百万网红回应不正当职业姐腰杆笔直",
+      "onboard_time": 1733990240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493904,
+      "num": 493904,
+      "word": "快要出发啦官宣",
+      "onboard_time": 1733989579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 492982,
@@ -467,14 +515,6 @@
       "category": "美妆,游戏"
     },
     {
-      "raw_hot": 442300,
-      "num": 442300,
-      "word": "车银优和赵韩樱子朋友",
-      "onboard_time": 1733988441,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 424118,
       "num": 462162,
       "word": "我是刑警 吃顿饭被提取DNA",
@@ -497,6 +537,14 @@
       "onboard_time": 1733959395,
       "rank": 10,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 420169,
+      "num": 420169,
+      "word": "远嫁日本失联女子已找到",
+      "onboard_time": 1733988621,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417524,
@@ -771,6 +819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 272273,
+      "num": 250907,
+      "word": "华润物业回应深圳高层爆炸事故",
+      "onboard_time": 1733990481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270936,
       "num": 270936,
       "word": "极越为何突然崩盘",
@@ -865,6 +921,14 @@
       "onboard_time": 1733960116,
       "rank": 42,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 251158,
+      "num": 251158,
+      "word": "万年县委原书记毛奇被公诉",
+      "onboard_time": 1733991861,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 246957,
@@ -1011,12 +1075,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207385,
+      "num": 226829,
+      "word": "水原希子街头拥抱男友",
+      "onboard_time": 1733991500,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205709,
+      "num": 205709,
+      "word": "偶遇李敏镐抽烟",
+      "onboard_time": 1733990361,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202960,
       "num": 202960,
       "word": "客服回应苹果相册改回来了",
       "onboard_time": 1733986758,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202281,
+      "num": 202281,
+      "word": "朴彩英上海快闪",
+      "onboard_time": 1733989699,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 202203,
@@ -1171,6 +1259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 187009,
+      "num": 187009,
+      "word": "蔡徐坤Breaktime",
+      "onboard_time": 1733992100,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186607,
       "num": 186607,
       "word": "时代少年团周边",
@@ -1195,12 +1291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182179,
+      "num": 182179,
+      "word": "很普通却很上瘾的食物",
+      "onboard_time": 1733988621,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 181513,
       "num": 181513,
       "word": "贵女宣发",
       "onboard_time": 1733988739,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180440,
+      "num": 180440,
+      "word": "杨政体测未通过",
+      "onboard_time": 1733991260,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 180086,
@@ -1251,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 175704,
+      "num": 233311,
+      "word": "韩执政党党首说将推动党内决定赞成弹劾",
+      "onboard_time": 1733990060,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175628,
       "num": 316772,
       "word": "孙颖莎柿柿如意封面大片",
@@ -1281,6 +1401,14 @@
       "onboard_time": 1733978361,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173605,
+      "num": 244004,
+      "word": "孙颖莎说想让全世界都知道我",
+      "onboard_time": 1733990180,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 173551,
@@ -1427,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153251,
-      "num": 253834,
-      "word": "远嫁日本失联女子已找到",
-      "onboard_time": 1733988621,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152080,
       "num": 386890,
       "word": "泽连斯基演讲时背景墙惊现库洛米徽章",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1733962159,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150501,
+      "num": 150501,
+      "word": "教育部增设40个新专业",
+      "onboard_time": 1733989761,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 150213,
@@ -1571,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131377,
+      "num": 246658,
+      "word": "张晚意被评为三级演员",
+      "onboard_time": 1733990780,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131234,
       "num": 533934,
       "word": "檀健次沈翊V榜再次登顶",
@@ -1633,6 +1769,14 @@
       "onboard_time": 1733978540,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124738,
+      "num": 226217,
+      "word": "李行亮撕掉婚姻承诺书",
+      "onboard_time": 1733992220,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 123581,
@@ -1932,7 +2076,7 @@
     },
     {
       "raw_hot": 82783,
-      "num": 1353497,
+      "num": 1451157,
       "word": "11月汽车产销环比同比双增长",
       "onboard_time": 1733973260,
       "rank": 2,
@@ -2163,6 +2307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40797,
+      "num": 236790,
+      "word": "张萌做自己的人生大女主",
+      "onboard_time": 1733991861,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40546,
       "num": 43158,
       "word": "名创优品向时空中的绘旅人致歉",
@@ -2259,6 +2411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32846,
+      "num": 250501,
+      "word": "檀健次回应大器晚成",
+      "onboard_time": 1733992161,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32345,
       "num": 548461,
       "word": "刘诗诗酷姐赛道适配度",
@@ -2297,6 +2457,14 @@
       "onboard_time": 1733982140,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25207,
+      "num": 396359,
+      "word": "中国玩家最有参与感的一届TGA",
+      "onboard_time": 1733991740,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 25034,
