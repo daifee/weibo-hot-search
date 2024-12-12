@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733973329298,
+  "endTime": 1733975425098,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1461376,
-      "num": 797613,
+      "num": 985614,
       "word": "鞠婧祎新公司叫橘事顺利",
       "onboard_time": 1733972419,
       "rank": 3,
@@ -563,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1294780,
+      "num": 1294780,
+      "word": "全球最贵iPhone16ProMax登场",
+      "onboard_time": 1733970918,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1291552,
       "num": 1291552,
       "word": "鹰眼",
@@ -665,6 +673,14 @@
       "onboard_time": 1733646318,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1205113,
+      "num": 1205113,
+      "word": "个人养老金制度即将全国推行",
+      "onboard_time": 1733970378,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1203384,
@@ -1235,28 +1251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 800364,
-      "num": 800364,
-      "word": "全球最贵iPhone16ProMax登场",
-      "onboard_time": 1733970918,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 797337,
       "num": 797337,
       "word": "母女二人拒不让座被乘警带走",
       "onboard_time": 1733645478,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 796381,
-      "num": 796381,
-      "word": "个人养老金制度即将全国推行",
-      "onboard_time": 1733970378,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 794752,
@@ -2963,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436889,
+      "num": 542231,
+      "word": "女主播被榜一大哥骗走十几万",
+      "onboard_time": 1733974219,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "刘诗诗celine全球品牌大使",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1733881880,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424118,
+      "num": 462162,
+      "word": "我是刑警 吃顿饭被提取DNA",
+      "onboard_time": 1733972479,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 423820,
@@ -3219,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403834,
+      "num": 324542,
+      "word": "吴昕收到了何炅为她藏的房卡",
+      "onboard_time": 1733972841,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403637,
       "num": 403637,
       "word": "白桃星座",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1733627058,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 402441,
+      "num": 402441,
+      "word": "极越留下员工将自费上班",
+      "onboard_time": 1733967198,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 400573,
@@ -3297,14 +3329,6 @@
       "onboard_time": 1733582662,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390092,
-      "num": 390092,
-      "word": "极越留下员工将自费上班",
-      "onboard_time": 1733967198,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 389911,
@@ -3491,20 +3515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364116,
+      "num": 364116,
+      "word": "孙颖莎说很喜欢当下的自己",
+      "onboard_time": 1733970498,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362826,
       "num": 292795,
       "word": "韩安冉孩子被P黑白照",
       "onboard_time": 1733708658,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 362446,
-      "num": 362446,
-      "word": "孙颖莎说很喜欢当下的自己",
-      "onboard_time": 1733970498,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 359400,
@@ -4451,6 +4475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286369,
+      "num": 558312,
+      "word": "将国债等纳入个人养老金产品范围",
+      "onboard_time": 1733973919,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 286277,
       "num": 286277,
       "word": "小杨哥被冻结51万股权",
@@ -4539,6 +4571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282240,
+      "num": 282240,
+      "word": "极越",
+      "onboard_time": 1733907081,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 282143,
       "num": 359103,
       "word": "光遇复刻",
@@ -4601,6 +4641,14 @@
       "onboard_time": 1733638817,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275458,
+      "num": 275458,
+      "word": "第一个被AI折磨的职业出现了",
+      "onboard_time": 1733971159,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 274776,
@@ -4843,6 +4891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256964,
+      "num": 773177,
+      "word": "樊振东vs侯英超",
+      "onboard_time": 1733972660,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256617,
       "num": 134234,
       "word": "尖叫之夜内场",
@@ -4865,14 +4921,6 @@
       "onboard_time": 1733638880,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255022,
-      "num": 255022,
-      "word": "第一个被AI折磨的职业出现了",
-      "onboard_time": 1733971159,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 254954,
@@ -5065,6 +5113,14 @@
       "onboard_time": 1733745559,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246957,
+      "num": 366445,
+      "word": "成毅杂志",
+      "onboard_time": 1733973740,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246952,
@@ -5451,6 +5507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232770,
+      "num": 232770,
+      "word": "今年有6位南京大屠杀幸存者离去",
+      "onboard_time": 1733974879,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 232327,
       "num": 232327,
       "word": "任敏海边鱼尾裙",
@@ -5563,14 +5627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224837,
-      "num": 462162,
-      "word": "我是刑警 吃顿饭被提取DNA",
-      "onboard_time": 1733972479,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224735,
       "num": 317372,
       "word": "台湾演员林照雄去世",
@@ -5649,6 +5705,14 @@
       "onboard_time": 1733903060,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222582,
+      "num": 222582,
+      "word": "极越为何突然崩盘",
+      "onboard_time": 1733970318,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 222552,
@@ -5737,14 +5801,6 @@
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218545,
-      "num": 218545,
-      "word": "极越",
-      "onboard_time": 1733907081,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 217977,
@@ -6259,14 +6315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200456,
-      "num": 279525,
-      "word": "吴昕收到了何炅为她藏的房卡",
-      "onboard_time": 1733972841,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200447,
       "num": 200447,
       "word": "混团世界杯半决赛",
@@ -6443,6 +6491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197624,
+      "num": 197624,
+      "word": "未休年假按300%工资补偿",
+      "onboard_time": 1733975180,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197553,
       "num": 433366,
       "word": "用浏阳烟花打开星际之门",
@@ -6585,6 +6641,14 @@
       "onboard_time": 1733890343,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194615,
+      "num": 233669,
+      "word": "昭昭墨墨在一起了",
+      "onboard_time": 1733971700,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 194467,
@@ -7107,6 +7171,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 186505,
+      "num": 186505,
+      "word": "肖战纪录片1400万播放量",
+      "onboard_time": 1733973378,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186389,
       "num": 186389,
       "word": "丁禹兮虾虾侬",
@@ -7539,14 +7611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175756,
-      "num": 175756,
-      "word": "极越为何突然崩盘",
-      "onboard_time": 1733970318,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 175696,
       "num": 175696,
       "word": "池忆",
@@ -7593,6 +7657,14 @@
       "onboard_time": 1733753959,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174653,
+      "num": 267852,
+      "word": "A股",
+      "onboard_time": 1733711058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 174156,
@@ -7737,14 +7809,6 @@
       "onboard_time": 1733729539,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172331,
-      "num": 233669,
-      "word": "昭昭墨墨在一起了",
-      "onboard_time": 1733971700,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 171967,
@@ -8179,6 +8243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164740,
+      "num": 364455,
+      "word": "42岁男子试镜剧版赫敏",
+      "onboard_time": 1733973919,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164715,
       "num": 265233,
       "word": "杨紫布灵布灵的",
@@ -8321,6 +8393,14 @@
       "onboard_time": 1733817260,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 161845,
+      "num": 161845,
+      "word": "王楚钦樊振东许昕乒超赛前热身训练",
+      "onboard_time": 1733973320,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 161816,
@@ -8603,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156487,
+      "num": 156487,
+      "word": "乒超联赛直播",
+      "onboard_time": 1733973500,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156121,
       "num": 314075,
       "word": "吴京为父亲庆80大寿",
@@ -8697,14 +8785,6 @@
       "onboard_time": 1733922739,
       "rank": 14,
       "category": "议题讨论,综艺"
-    },
-    {
-      "raw_hot": 154432,
-      "num": 267852,
-      "word": "A股",
-      "onboard_time": 1733711058,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 154294,
@@ -9035,6 +9115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147850,
+      "num": 147850,
+      "word": "情侣吵架后双双跳河身亡",
+      "onboard_time": 1733975360,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147703,
       "num": 369587,
       "word": "姆巴佩回应涉嫌强奸",
@@ -9193,6 +9281,14 @@
       "onboard_time": 1733642060,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145122,
+      "num": 778588,
+      "word": "唐钱婷100蛙破亚洲纪录",
+      "onboard_time": 1733972178,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 145120,
@@ -10371,6 +10467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120085,
+      "num": 275796,
+      "word": "济南大学称会在食堂另设泡面档口",
+      "onboard_time": 1733973500,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119945,
       "num": 119945,
       "word": "解读北京国安新帅加盟",
@@ -10697,14 +10801,6 @@
       "onboard_time": 1733578343,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 112354,
-      "num": 778588,
-      "word": "唐钱婷100蛙破亚洲纪录",
-      "onboard_time": 1733972178,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 111814,
@@ -12043,14 +12139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77158,
-      "num": 773177,
-      "word": "樊振东vs侯英超",
-      "onboard_time": 1733972660,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 76814,
       "num": 283873,
       "word": "王源回应小小年纪就被考古",
@@ -12137,6 +12225,14 @@
       "onboard_time": 1733646860,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73271,
+      "num": 277060,
+      "word": "王楚钦领衔山东魏桥出战乒超",
+      "onboard_time": 1733974459,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 72970,
@@ -12475,6 +12571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 67071,
+      "num": 513802,
+      "word": "王楚钦梁靖崑领衔山东魏桥出战乒超",
+      "onboard_time": 1733973919,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67054,
       "num": 369673,
       "word": "男子谎称做生意坑朋友485万",
@@ -12793,6 +12897,14 @@
       "onboard_time": 1733853914,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56189,
+      "num": 1237409,
+      "word": "11月汽车产销环比同比双增长",
+      "onboard_time": 1733973260,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55987,
@@ -13499,6 +13611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41499,
+      "num": 469847,
+      "word": "适合冬天的低倍数防晒",
+      "onboard_time": 1733972419,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 41166,
       "num": 907395,
       "word": "财政金融加力促经济回稳",
@@ -13513,6 +13633,14 @@
       "onboard_time": 1733917159,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41142,
+      "num": 196107,
+      "word": "何赛飞登趋势杂志开年刊",
+      "onboard_time": 1733974639,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41106,
@@ -14755,6 +14883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19704,
+      "num": 324879,
+      "word": "刘诗诗酷姐赛道适配度",
+      "onboard_time": 1733973919,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 19581,
       "num": 23081,
       "word": "北京出现日晕天象",
@@ -15291,14 +15427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10851,
-      "num": 469847,
-      "word": "适合冬天的低倍数防晒",
-      "onboard_time": 1733972419,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 10399,
       "num": 157678,
       "word": "潘展乐给全家下任务让好好享受生活",
@@ -15433,14 +15561,6 @@
       "onboard_time": 1733691730,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6861,
-      "num": 798110,
-      "word": "11月汽车产销环比同比双增长",
-      "onboard_time": 1733973260,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6859,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1733975425098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413997,
+        "num": 1413997,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1294780,
+        "num": 1294780,
+        "word": "全球最贵iPhone16ProMax登场",
+        "onboard_time": 1733970918,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 56189,
+        "num": 1237409,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1205113,
+        "num": 1205113,
+        "word": "个人养老金制度即将全国推行",
+        "onboard_time": 1733970378,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 985614,
+        "num": 985614,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726250,
+        "num": 726250,
+        "word": "韩特种部队队长街头哽咽喊冤",
+        "onboard_time": 1733970318,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573857,
+        "num": 573857,
+        "word": "孙颖莎ELLE杂志",
+        "onboard_time": 1733968821,
+        "rank": 6,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 286369,
+        "num": 558312,
+        "word": "将国债等纳入个人养老金产品范围",
+        "onboard_time": 1733973919,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 436889,
+        "num": 542231,
+        "word": "女主播被榜一大哥骗走十几万",
+        "onboard_time": 1733974219,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67071,
+        "num": 513802,
+        "word": "王楚钦梁靖崑领衔山东魏桥出战乒超",
+        "onboard_time": 1733973919,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 942464,
+        "num": 469097,
+        "word": "抖音下架209部违规微短剧",
+        "onboard_time": 1733967378,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 468830,
+        "num": 468830,
+        "word": "郭敬明发鞠婧祎新原始帧",
+        "onboard_time": 1733964619,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448556,
+        "num": 448556,
+        "word": "女子上厕所摔倒致残公司拒赔20万",
+        "onboard_time": 1733968759,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424118,
+        "num": 424118,
+        "word": "我是刑警 吃顿饭被提取DNA",
+        "onboard_time": 1733972479,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41499,
+        "num": 406094,
+        "word": "适合冬天的低倍数防晒",
+        "onboard_time": 1733972419,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 402441,
+        "num": 402441,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246957,
+        "num": 366445,
+        "word": "成毅杂志",
+        "onboard_time": 1733973740,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164740,
+        "num": 364455,
+        "word": "42岁男子试镜剧版赫敏",
+        "onboard_time": 1733973919,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364116,
+        "num": 364116,
+        "word": "孙颖莎说很喜欢当下的自己",
+        "onboard_time": 1733970498,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19704,
+        "num": 324879,
+        "word": "刘诗诗酷姐赛道适配度",
+        "onboard_time": 1733973919,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 555181,
+        "num": 324598,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 20,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 403834,
+        "num": 324542,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323573,
+        "num": 323573,
+        "word": "白敬亭文咏珊开机路透",
+        "onboard_time": 1733972059,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282240,
+        "num": 282240,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 73271,
+        "num": 277060,
+        "word": "王楚钦领衔山东魏桥出战乒超",
+        "onboard_time": 1733974459,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120085,
+        "num": 275796,
+        "word": "济南大学称会在食堂另设泡面档口",
+        "onboard_time": 1733973500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275458,
+        "num": 275458,
+        "word": "第一个被AI折磨的职业出现了",
+        "onboard_time": 1733971159,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256964,
+        "num": 256964,
+        "word": "樊振东vs侯英超",
+        "onboard_time": 1733972660,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232770,
+        "num": 232770,
+        "word": "今年有6位南京大屠杀幸存者离去",
+        "onboard_time": 1733974879,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222582,
+        "num": 222582,
+        "word": "极越为何突然崩盘",
+        "onboard_time": 1733970318,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220142,
+        "num": 220142,
+        "word": "运动瘦和饿瘦的区别",
+        "onboard_time": 1733959395,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211753,
+        "num": 211753,
+        "word": "乒超",
+        "onboard_time": 1733970138,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198950,
+        "num": 198950,
+        "word": "爸爸花6万给女儿买了一匹小马",
+        "onboard_time": 1733935095,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197624,
+        "num": 197624,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41142,
+        "num": 196107,
+        "word": "何赛飞登趋势杂志开年刊",
+        "onboard_time": 1733974639,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194615,
+        "num": 194615,
+        "word": "昭昭墨墨在一起了",
+        "onboard_time": 1733971700,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189151,
+        "num": 189151,
+        "word": "终于知道卫裤这个扣怎么用了",
+        "onboard_time": 1733963900,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 186505,
+        "num": 186505,
+        "word": "肖战纪录片1400万播放量",
+        "onboard_time": 1733973378,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181773,
+        "num": 181773,
+        "word": "尹锡悦发表对国民谈话",
+        "onboard_time": 1733964799,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174653,
+        "num": 174653,
+        "word": "A股",
+        "onboard_time": 1733971878,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161845,
+        "num": 161845,
+        "word": "王楚钦樊振东许昕乒超赛前热身训练",
+        "onboard_time": 1733973320,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156487,
+        "num": 156487,
+        "word": "乒超联赛直播",
+        "onboard_time": 1733973500,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152374,
+        "num": 152374,
+        "word": "九重紫",
+        "onboard_time": 1733964318,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151847,
+        "num": 151847,
+        "word": "韩国执政党说尹锡悦企图将戒严合理化",
+        "onboard_time": 1733970318,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148615,
+        "num": 148615,
+        "word": "勇士有意詹姆斯和巴特勒",
+        "onboard_time": 1733972718,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147850,
+        "num": 147850,
+        "word": "情侣吵架后双双跳河身亡",
+        "onboard_time": 1733975360,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146028,
+        "num": 146028,
+        "word": "于和伟夸富大龙优秀的演员",
+        "onboard_time": 1733971639,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145122,
+        "num": 145122,
+        "word": "唐钱婷100蛙破亚洲纪录",
+        "onboard_time": 1733972178,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137804,
+        "num": 137804,
+        "word": "疑似吴千语怀孕",
+        "onboard_time": 1733959455,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136545,
+        "num": 136545,
+        "word": "尹锡悦拒绝提前下台",
+        "onboard_time": 1733966599,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
