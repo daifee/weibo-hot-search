@@ -1,0 +1,410 @@
+{
+  "runTime": 1733981036078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1490537,
+        "num": 1490537,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1099548,
+        "num": 1099548,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63851,
+        "num": 1080474,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1075338,
+        "num": 1075338,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938530,
+        "num": 938530,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747930,
+        "num": 747930,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 728957,
+        "num": 728957,
+        "word": "芒果跨年 虞书欣和她的男主角们",
+        "onboard_time": 1733978420,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61854,
+        "num": 696248,
+        "word": "韩国警方再次搜查总统办公室",
+        "onboard_time": 1733980641,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39555,
+        "num": 687741,
+        "word": "王楚钦乒超20分钟光速下班",
+        "onboard_time": 1733980281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687480,
+        "num": 687480,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630820,
+        "num": 630820,
+        "word": "再见爱人",
+        "onboard_time": 1733977701,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270544,
+        "num": 626055,
+        "word": "男子4天年假未休获4000多元补偿",
+        "onboard_time": 1733979442,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94748,
+        "num": 604168,
+        "word": "苏州辟谣3个学生手拉手跳楼",
+        "onboard_time": 1733979442,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1267882,
+        "num": 579398,
+        "word": "情侣吵架后双双跳河身亡",
+        "onboard_time": 1733975360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117773,
+        "num": 572748,
+        "word": "男子擅自进入他人装修别墅摔伤索赔16万",
+        "onboard_time": 1733980100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529957,
+        "num": 553220,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 540876,
+        "num": 540876,
+        "word": "全球最贵iPhone16ProMax登场",
+        "onboard_time": 1733970918,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214927,
+        "num": 538635,
+        "word": "宋慧乔时隔10年回归韩影",
+        "onboard_time": 1733980159,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190537,
+        "num": 516563,
+        "word": "赵露思委托律师声明",
+        "onboard_time": 1733980519,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154545,
+        "num": 510973,
+        "word": "花480元看7组酒店偷拍实时直播",
+        "onboard_time": 1733980041,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 674955,
+        "num": 495869,
+        "word": "女子坐月子套塑料袋出院",
+        "onboard_time": 1733975720,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382122,
+        "num": 484833,
+        "word": "广东人搞副业热情全国最高",
+        "onboard_time": 1733978843,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476518,
+        "num": 476518,
+        "word": "玄彬综艺上叫孙艺珍我老婆",
+        "onboard_time": 1733976920,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449850,
+        "num": 449850,
+        "word": "女主播被榜一大哥骗走十几万",
+        "onboard_time": 1733974219,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142599,
+        "num": 414317,
+        "word": "阴阳师",
+        "onboard_time": 1733980882,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 413440,
+        "num": 413440,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 401848,
+        "num": 401848,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152080,
+        "num": 386890,
+        "word": "泽连斯基演讲时背景墙惊现库洛米徽章",
+        "onboard_time": 1733979141,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 384808,
+        "num": 384808,
+        "word": "抖音下架209部违规微短剧",
+        "onboard_time": 1733967378,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116780,
+        "num": 347270,
+        "word": "我是刑警3女娃命案毁了3个家",
+        "onboard_time": 1733979500,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342329,
+        "num": 342329,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 30,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 330813,
+        "num": 330813,
+        "word": "孟子义李昀锐聊第一次拍吻戏",
+        "onboard_time": 1733977461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191356,
+        "num": 320937,
+        "word": "肖战专辑全平台第一",
+        "onboard_time": 1733980401,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47641,
+        "num": 316520,
+        "word": "张艺兴官宣加盟江苏卫视跨年",
+        "onboard_time": 1733980939,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125219,
+        "num": 313333,
+        "word": "沈梦瑶成立个人公司",
+        "onboard_time": 1733978540,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312868,
+        "num": 312868,
+        "word": "丁禹兮粉丝认错正主",
+        "onboard_time": 1733976741,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289725,
+        "num": 289725,
+        "word": "电热毯为啥不能铺在褥子下面",
+        "onboard_time": 1733979381,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26395,
+        "num": 283679,
+        "word": "陈伟霆宁泽涛battle名场面",
+        "onboard_time": 1733977042,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 282586,
+        "num": 282586,
+        "word": "个人养老金已有7000万人开户",
+        "onboard_time": 1733977341,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193507,
+        "num": 267155,
+        "word": "孙颖莎 在赛场见是最好的见面方式",
+        "onboard_time": 1733979259,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255762,
+        "num": 255762,
+        "word": "中国人习惯性内卷在国外很吃亏",
+        "onboard_time": 1733975720,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255458,
+        "num": 255458,
+        "word": "郭敬明发鞠婧祎新原始帧",
+        "onboard_time": 1733964619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255035,
+        "num": 255035,
+        "word": "九重紫路人盘",
+        "onboard_time": 1733979561,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243063,
+        "num": 243063,
+        "word": "下属的工资比自己高",
+        "onboard_time": 1733977580,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239771,
+        "num": 239771,
+        "word": "不要再因为吃糖油混合物焦虑了",
+        "onboard_time": 1733979381,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235378,
+        "num": 235378,
+        "word": "樊振东vs侯英超",
+        "onboard_time": 1733972660,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234938,
+        "num": 234938,
+        "word": "黑神话主创IP已在美国",
+        "onboard_time": 1733979020,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221862,
+        "num": 221862,
+        "word": "孙颖莎可爱的糯米团子",
+        "onboard_time": 1733976320,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91277,
+        "num": 213719,
+        "word": "领取个人养老金需要缴税吗",
+        "onboard_time": 1733978721,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 207455,
+        "num": 207455,
+        "word": "小学同学要结婚了问我全名发请帖",
+        "onboard_time": 1733979922,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
