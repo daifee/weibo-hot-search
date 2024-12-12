@@ -1,0 +1,410 @@
+{
+  "runTime": 1734003359128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413929,
+        "num": 1413929,
+        "word": "叶祖新微博在线求职",
+        "onboard_time": 1734000859,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828027,
+        "num": 828027,
+        "word": "再看雷军账上预留18月工资含金量",
+        "onboard_time": 1733996120,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 33655,
+        "num": 633207,
+        "word": "全力推动我国经济持续回升向好",
+        "onboard_time": 1734002301,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 508149,
+        "num": 508149,
+        "word": "买了三折叠一个手滑摔裂了要退机",
+        "onboard_time": 1733996479,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476806,
+        "num": 476806,
+        "word": "九重紫",
+        "onboard_time": 1733999300,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411025,
+        "num": 411025,
+        "word": "湖南衡阳官宣取消公摊",
+        "onboard_time": 1733995940,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 376302,
+        "num": 376302,
+        "word": "韩方称中国产太阳能会破坏韩国森林",
+        "onboard_time": 1733992760,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 375680,
+        "word": "孙颖莎乒超开门红",
+        "onboard_time": 1734002600,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99415,
+        "num": 375411,
+        "word": "专家解读湖南衡阳公摊取消",
+        "onboard_time": 1734002420,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188187,
+        "num": 374656,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1734002360,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2320067,
+        "num": 374106,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373527,
+        "num": 373527,
+        "word": "极越多部门就地解散",
+        "onboard_time": 1733993658,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 874855,
+        "num": 370674,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685477,
+        "num": 350307,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60598,
+        "num": 337439,
+        "word": "农民女作家从卖水果到站上领奖高台",
+        "onboard_time": 1734001701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327543,
+        "num": 327543,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287256,
+        "num": 287256,
+        "word": "星光大赏阵容",
+        "onboard_time": 1733994619,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235235,
+        "num": 235235,
+        "word": "导演让孟子义李昀锐私下多练练接吻",
+        "onboard_time": 1734001100,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189992,
+        "num": 235027,
+        "word": "环球影城偶遇林一",
+        "onboard_time": 1734002179,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26357,
+        "num": 233267,
+        "word": "手机里藏着另一套mbti测试题",
+        "onboard_time": 1734000081,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562354,
+        "num": 232531,
+        "word": "37岁主持人因书房着火去世",
+        "onboard_time": 1734001641,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104193,
+        "num": 230806,
+        "word": "九重紫问吉把恶毒小妈忙坏了",
+        "onboard_time": 1734001760,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517402,
+        "num": 229275,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18479,
+        "num": 228040,
+        "word": "卫兰曾拒绝歌手节目组邀约",
+        "onboard_time": 1734001519,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419226,
+        "num": 227636,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417146,
+        "num": 225363,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663401,
+        "num": 224120,
+        "word": "李行亮撕掉婚姻承诺书",
+        "onboard_time": 1733992220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335926,
+        "num": 223263,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214337,
+        "num": 221699,
+        "word": "张艺凡刮彩票连中12个7",
+        "onboard_time": 1733997080,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100011,
+        "num": 220449,
+        "word": "沈翊摔倒这段",
+        "onboard_time": 1734003320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220205,
+        "num": 220205,
+        "word": "新能源车倒闭车主怎么办",
+        "onboard_time": 1733996660,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212668,
+        "num": 212668,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207377,
+        "num": 207377,
+        "word": "深圳爆炸住宅楼配有装甲门较难破拆",
+        "onboard_time": 1734001399,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 205135,
+        "num": 205135,
+        "word": "名侦探学院8定档",
+        "onboard_time": 1734001820,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83163,
+        "num": 203021,
+        "word": "蔡依林 谁放假会腻啊",
+        "onboard_time": 1733999478,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201277,
+        "num": 201277,
+        "word": "深圳湾",
+        "onboard_time": 1734002841,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 200835,
+        "num": 200835,
+        "word": "英伟达中国声明",
+        "onboard_time": 1734002780,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193573,
+        "num": 193573,
+        "word": "虞书欣对接确认参加星光大赏",
+        "onboard_time": 1734002240,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183728,
+        "num": 183728,
+        "word": "极越内部人士回应员工围堵夏一平",
+        "onboard_time": 1734001221,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 175290,
+        "num": 175290,
+        "word": "我国发射高速激光钻石星座试验系统",
+        "onboard_time": 1734002720,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174978,
+        "num": 174978,
+        "word": "尹锡悦拿韩国森林碰瓷中国太阳能",
+        "onboard_time": 1734000859,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173512,
+        "num": 173512,
+        "word": "44岁张柏芝生图",
+        "onboard_time": 1733998399,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162467,
+        "num": 162467,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159482,
+        "num": 159482,
+        "word": "你希望取消公摊吗",
+        "onboard_time": 1733999239,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "白鹿张晚意获三级演员职称",
+        "onboard_time": 1733990361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147223,
+        "num": 147223,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145578,
+        "num": 145578,
+        "word": "都研究生了还要考四级",
+        "onboard_time": 1733998101,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131558,
+        "num": 131558,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115723,
+        "num": 115723,
+        "word": "虞书欣双马尾波点裙",
+        "onboard_time": 1734000560,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 114229,
+        "word": "极越商业版图盘点",
+        "onboard_time": 1733999059,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的中国与世界#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734002439623,
+  "endTime": 1734003359128,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -11,19 +11,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2320067,
+      "num": 562739,
+      "word": "韩娱地震",
+      "onboard_time": 1734000019,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2271387,
       "num": 2271387,
       "word": "车银优和赵韩樱子朋友",
       "onboard_time": 1733988441,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2259509,
-      "num": 562739,
-      "word": "韩娱地震",
-      "onboard_time": 1734000019,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1733992220,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1413929,
+      "num": 1413929,
+      "word": "叶祖新微博在线求职",
+      "onboard_time": 1734000859,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1399867,
@@ -217,14 +225,6 @@
       "onboard_time": 1733974219,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 967660,
-      "num": 967660,
-      "word": "叶祖新微博在线求职",
-      "onboard_time": 1734000859,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 959915,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562354,
+      "num": 386541,
+      "word": "37岁主持人因书房着火去世",
+      "onboard_time": 1734001641,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 552903,
       "num": 552903,
       "word": "胖东来否认打碎商品免单",
@@ -643,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419226,
+      "num": 334843,
+      "word": "女生以为感冒确诊心肌炎需终身服药",
+      "onboard_time": 1733999601,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417524,
       "num": 417524,
       "word": "消防员玩了命救起落水女孩",
       "onboard_time": 1733965579,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 417146,
+      "num": 389322,
+      "word": "泰国女团成员挺孕肚开演唱会唱跳",
+      "onboard_time": 1733999421,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 412823,
@@ -665,14 +689,6 @@
       "onboard_time": 1733990481,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 401246,
-      "num": 389322,
-      "word": "泰国女团成员挺孕肚开演唱会唱跳",
-      "onboard_time": 1733999421,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 400573,
@@ -699,20 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 386541,
-      "num": 386541,
-      "word": "37岁主持人因书房着火去世",
-      "onboard_time": 1734001641,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 382122,
       "num": 484833,
       "word": "广东人搞副业热情全国最高",
       "onboard_time": 1733978843,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373527,
+      "num": 484578,
+      "word": "极越多部门就地解散",
+      "onboard_time": 1733993658,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 369049,
@@ -795,14 +811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 334843,
-      "num": 334843,
-      "word": "女生以为感冒确诊心肌炎需终身服药",
-      "onboard_time": 1733999601,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 334636,
       "num": 320729,
       "word": "考研准考证照片没穿上衣影响大嘛",
@@ -849,14 +857,6 @@
       "onboard_time": 1733924598,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326565,
-      "num": 484578,
-      "word": "极越多部门就地解散",
-      "onboard_time": 1733993658,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 320390,
@@ -1339,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207377,
+      "num": 207377,
+      "word": "深圳爆炸住宅楼配有装甲门较难破拆",
+      "onboard_time": 1734001399,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 205803,
       "num": 205803,
       "word": "董子健给王俊凯打电话",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1733990361,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205135,
+      "num": 447731,
+      "word": "名侦探学院8定档",
+      "onboard_time": 1734001820,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 204340,
@@ -1401,6 +1417,22 @@
       "onboard_time": 1733972299,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201277,
+      "num": 201277,
+      "word": "深圳湾",
+      "onboard_time": 1734002841,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 200835,
+      "num": 200835,
+      "word": "英伟达中国声明",
+      "onboard_time": 1734002780,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 200628,
@@ -1499,11 +1531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194095,
-      "num": 447731,
-      "word": "名侦探学院8定档",
-      "onboard_time": 1734001820,
-      "rank": 20,
+      "raw_hot": 193573,
+      "num": 193573,
+      "word": "虞书欣对接确认参加星光大赏",
+      "onboard_time": 1734002240,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1539,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189992,
+      "num": 433619,
+      "word": "环球影城偶遇林一",
+      "onboard_time": 1734002179,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189824,
       "num": 189824,
       "word": "勇士vs火箭",
@@ -1563,6 +1603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188187,
+      "num": 533389,
+      "word": "中央经济工作会议举行",
+      "onboard_time": 1734002360,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188158,
       "num": 188158,
       "word": "员工推算同事工资求涨薪被辞",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1733973378,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 183728,
+      "num": 404229,
+      "word": "极越内部人士回应员工围堵夏一平",
+      "onboard_time": 1734001221,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 183488,
@@ -1667,14 +1723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175734,
-      "num": 175734,
-      "word": "深圳爆炸住宅楼配有装甲门较难破拆",
-      "onboard_time": 1734001399,
-      "rank": 44,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 175704,
       "num": 233311,
       "word": "韩执政党党首说将推动党内决定赞成弹劾",
@@ -1691,12 +1739,28 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 175290,
+      "num": 175290,
+      "word": "我国发射高速激光钻石星座试验系统",
+      "onboard_time": 1734002720,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175254,
       "num": 412110,
       "word": "极越研发部门全员被裁",
       "onboard_time": 1733975659,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174978,
+      "num": 174978,
+      "word": "尹锡悦拿韩国森林碰瓷中国太阳能",
+      "onboard_time": 1734000859,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174653,
@@ -1761,22 +1825,6 @@
       "onboard_time": 1733997799,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170011,
-      "num": 404229,
-      "word": "极越内部人士回应员工围堵夏一平",
-      "onboard_time": 1734001221,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 169983,
-      "num": 169983,
-      "word": "虞书欣对接确认参加星光大赏",
-      "onboard_time": 1734002240,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 169300,
@@ -2187,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115723,
+      "num": 115723,
+      "word": "虞书欣双马尾波点裙",
+      "onboard_time": 1734000560,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115653,
       "num": 329928,
       "word": "奶茶促癌是真的吗",
@@ -2296,6 +2352,30 @@
       "word": "38岁全职妈妈干跑腿成重庆女单王",
       "onboard_time": 1733957416,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101131,
+      "num": 375680,
+      "word": "孙颖莎乒超开门红",
+      "onboard_time": 1734002600,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100011,
+      "num": 220449,
+      "word": "沈翊摔倒这段",
+      "onboard_time": 1734003320,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99415,
+      "num": 541665,
+      "word": "专家解读湖南衡阳公摊取消",
+      "onboard_time": 1734002420,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2491,6 +2571,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 83163,
+      "num": 396004,
+      "word": "蔡依林 谁放假会腻啊",
+      "onboard_time": 1733999478,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83132,
       "num": 83132,
       "word": "猎罪图鉴 云蒸霞蔚",
@@ -2521,14 +2609,6 @@
       "onboard_time": 1733960116,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80931,
-      "num": 433619,
-      "word": "环球影城偶遇林一",
-      "onboard_time": 1734002179,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 80737,
@@ -2635,14 +2715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70229,
-      "num": 396004,
-      "word": "蔡依林 谁放假会腻啊",
-      "onboard_time": 1733999478,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70154,
       "num": 501980,
       "word": "孙颖莎吴咏琳vs杨玉鑫冷雨桐",
@@ -2704,6 +2776,14 @@
       "word": "广东人的厚衣服要拿出来了",
       "onboard_time": 1733938815,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60598,
+      "num": 493400,
+      "word": "农民女作家从卖水果到站上领奖高台",
+      "onboard_time": 1734001701,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2793,14 +2873,6 @@
       "onboard_time": 1733935936,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45275,
-      "num": 493400,
-      "word": "农民女作家从卖水果到站上领奖高台",
-      "onboard_time": 1734001701,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44738,
@@ -2995,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33655,
+      "num": 650039,
+      "word": "全力推动我国经济持续回升向好",
+      "onboard_time": 1734002301,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33638,
       "num": 388303,
       "word": "2024哪句台词最戳你",
@@ -3041,14 +3121,6 @@
       "onboard_time": 1733938573,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29504,
-      "num": 533389,
-      "word": "中央经济工作会议举行",
-      "onboard_time": 1734002360,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28402,
@@ -3123,20 +3195,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 18479,
+      "num": 462275,
+      "word": "卫兰曾拒绝歌手节目组邀约",
+      "onboard_time": 1734001519,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18262,
       "num": 106927,
       "word": "女班长退役前最后一次带兵训练哽咽",
       "onboard_time": 1733955852,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18161,
-      "num": 462275,
-      "word": "卫兰曾拒绝歌手节目组邀约",
-      "onboard_time": 1734001519,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 17938,
@@ -3179,28 +3251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7961,
-      "num": 650039,
-      "word": "全力推动我国经济持续回升向好",
-      "onboard_time": 1734002301,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7840,
       "num": 189152,
       "word": "吉高由里子分手",
       "onboard_time": 1733929100,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7724,
-      "num": 541665,
-      "word": "专家解读湖南衡阳公摊取消",
-      "onboard_time": 1734002420,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6513,
