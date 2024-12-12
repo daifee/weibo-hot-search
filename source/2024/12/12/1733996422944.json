@@ -1,0 +1,410 @@
+{
+  "runTime": 1733996422944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439537,
+        "num": 1439537,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1039467,
+        "num": 1039467,
+        "word": "英伟达下架天猫官方旗舰店所有商品",
+        "onboard_time": 1733993658,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 42127,
+        "num": 915625,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1418641,
+        "num": 910739,
+        "word": "李行亮撕掉婚姻承诺书",
+        "onboard_time": 1733992220,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 902800,
+        "num": 902800,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830104,
+        "num": 830104,
+        "word": "苟仲文被双开",
+        "onboard_time": 1733991080,
+        "rank": 5,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 847513,
+        "num": 829985,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790448,
+        "num": 790448,
+        "word": "韩方称中国产太阳能会破坏韩国森林",
+        "onboard_time": 1733992760,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 777131,
+        "num": 777131,
+        "word": "梁祯元直播",
+        "onboard_time": 1733995940,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70390,
+        "num": 657696,
+        "word": "湖南衡阳官宣取消公摊",
+        "onboard_time": 1733995940,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 655604,
+        "num": 655604,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546779,
+        "num": 546779,
+        "word": "星光大赏阵容",
+        "onboard_time": 1733994619,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499286,
+        "num": 499286,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93448,
+        "num": 486918,
+        "word": "韩国在野党再次提交尹锡悦弹劾案",
+        "onboard_time": 1733994681,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478825,
+        "num": 478825,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413285,
+        "num": 413285,
+        "word": "再看雷军账上预留18月工资含金量",
+        "onboard_time": 1733996120,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 412554,
+        "num": 412554,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 411251,
+        "num": 411251,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190324,
+        "num": 338225,
+        "word": "以为复习六级结果看了六集",
+        "onboard_time": 1733995401,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195288,
+        "num": 318359,
+        "word": "鞠婧祎娜扎周也公司地址一样",
+        "onboard_time": 1733994439,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469715,
+        "num": 317128,
+        "word": "白鹿张晚意获三级演员职称",
+        "onboard_time": 1733990361,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315158,
+        "num": 315158,
+        "word": "快要出发啦官宣",
+        "onboard_time": 1733989579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306855,
+        "num": 306855,
+        "word": "外交部驳斥尹锡悦涉华负面言论",
+        "onboard_time": 1733995160,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254652,
+        "num": 254652,
+        "word": "华润物业回应深圳高层爆炸事故",
+        "onboard_time": 1733990481,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237380,
+        "num": 237380,
+        "word": "霉霉要给赛琳娜当花童",
+        "onboard_time": 1733992280,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233590,
+        "num": 233590,
+        "word": "极越多部门就地解散",
+        "onboard_time": 1733993658,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33702,
+        "num": 233138,
+        "word": "乒超联赛长沙开赛",
+        "onboard_time": 1733996299,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94487,
+        "num": 232607,
+        "word": "日本公布2024年年度汉字金",
+        "onboard_time": 1733994619,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31401,
+        "num": 231795,
+        "word": "云辇Z动态实测曝光",
+        "onboard_time": 1733994800,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 115653,
+        "num": 231341,
+        "word": "奶茶促癌是真的吗",
+        "onboard_time": 1733995221,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230816,
+        "num": 230816,
+        "word": "留几手拿葛夕的抑郁症当段子",
+        "onboard_time": 1733993960,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229256,
+        "num": 229256,
+        "word": "檀健次回应大器晚成",
+        "onboard_time": 1733992161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224222,
+        "num": 224222,
+        "word": "孟子义演技",
+        "onboard_time": 1733983940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205803,
+        "num": 205803,
+        "word": "董子健给王俊凯打电话",
+        "onboard_time": 1733995640,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36496,
+        "num": 205693,
+        "word": "休完产假重返职场权益如何保障",
+        "onboard_time": 1733994559,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 307061,
+        "num": 205261,
+        "word": "万年县委原书记毛奇被公诉",
+        "onboard_time": 1733991861,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141299,
+        "num": 204903,
+        "word": "杨政体测未通过",
+        "onboard_time": 1733991260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58558,
+        "num": 204728,
+        "word": "航班选座和锁座的规则到底是什么",
+        "onboard_time": 1733994439,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 204504,
+        "num": 204504,
+        "word": "张晚意被评为三级演员",
+        "onboard_time": 1733990780,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204340,
+        "num": 204340,
+        "word": "运动能抵消久坐的伤害吗",
+        "onboard_time": 1733994139,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194179,
+        "num": 194179,
+        "word": "很普通却很上瘾的食物",
+        "onboard_time": 1733988621,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193274,
+        "num": 193274,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189250,
+        "num": 189250,
+        "word": "周彦辰打开评论区天塌了",
+        "onboard_time": 1733995640,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173883,
+        "num": 173883,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170508,
+        "num": 170508,
+        "word": "远嫁日本失联女子已找到",
+        "onboard_time": 1733988621,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 157558,
+        "word": "孟子义李昀锐涨粉",
+        "onboard_time": 1733996239,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153734,
+        "num": 153734,
+        "word": "60岁奶奶20岁身材惊艳网友",
+        "onboard_time": 1733982620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151517,
+        "num": 151517,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 149796,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145581,
+        "num": 145581,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
