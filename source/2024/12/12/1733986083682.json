@@ -1,0 +1,410 @@
+{
+  "runTime": 1733986083682,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1519232,
+        "num": 1519232,
+        "word": "李行亮哭着和麦琳表白",
+        "onboard_time": 1733981720,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1262975,
+        "num": 1262975,
+        "word": "荆州飞机",
+        "onboard_time": 1733983279,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60222,
+        "num": 1172215,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1161988,
+        "num": 1161988,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 841635,
+        "num": 841635,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695628,
+        "num": 695628,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90730,
+        "num": 691528,
+        "word": "韩国国会通过尹锡悦内乱普通特检法",
+        "onboard_time": 1733985620,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54773,
+        "num": 682224,
+        "word": "韩国会通过法务部长警察厅长弹劾案",
+        "onboard_time": 1733985023,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98270,
+        "num": 660601,
+        "word": "官方回应荆州奥体中心飞机坠落",
+        "onboard_time": 1733985260,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 178130,
+        "num": 652444,
+        "word": "极越员工围堵CEO夏一平",
+        "onboard_time": 1733984661,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 857198,
+        "num": 640403,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632801,
+        "num": 632801,
+        "word": "贵女",
+        "onboard_time": 1733981841,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215572,
+        "num": 618981,
+        "word": "荆州一大型无人机在体育场附近坠毁",
+        "onboard_time": 1733984900,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35421,
+        "num": 614390,
+        "word": "深圳高层建筑起火有哪些救援难点",
+        "onboard_time": 1733985200,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 613442,
+        "num": 613442,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 570181,
+        "num": 570181,
+        "word": "游戏充值19万父亲甩锅6岁儿子",
+        "onboard_time": 1733981660,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131234,
+        "num": 503222,
+        "word": "檀健次沈翊V榜再次登顶",
+        "onboard_time": 1733984661,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471699,
+        "num": 471699,
+        "word": "孟子义演技",
+        "onboard_time": 1733983940,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42345,
+        "num": 451111,
+        "word": "目击者讲述大型无人机翅膀掉家门口",
+        "onboard_time": 1733985681,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113330,
+        "num": 449114,
+        "word": "成毅演戏把自己彻底放进角色里",
+        "onboard_time": 1733983940,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448742,
+        "num": 448742,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 435810,
+        "num": 435810,
+        "word": "林高远",
+        "onboard_time": 1733980761,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402713,
+        "num": 402713,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368238,
+        "num": 368238,
+        "word": "TF口红 恋与深空",
+        "onboard_time": 1733984179,
+        "rank": 23,
+        "category": "美妆,游戏"
+      },
+      {
+        "raw_hot": 262878,
+        "num": 359238,
+        "word": "孙颖莎杂志总销售额超740万",
+        "onboard_time": 1733984119,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358367,
+        "num": 358367,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313324,
+        "num": 313324,
+        "word": "小学同学要结婚了问我全名发请帖",
+        "onboard_time": 1733979922,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299681,
+        "num": 299681,
+        "word": "黄圣依也blue了",
+        "onboard_time": 1733985620,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149375,
+        "num": 297986,
+        "word": "芒果跨年",
+        "onboard_time": 1733986041,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80737,
+        "num": 297948,
+        "word": "NBA杯四强出炉",
+        "onboard_time": 1733985380,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297922,
+        "num": 297922,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 264389,
+        "num": 264389,
+        "word": "杜海涛多亏把壁纸设成沈梦辰了",
+        "onboard_time": 1733983101,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258140,
+        "num": 258140,
+        "word": "60岁奶奶20岁身材惊艳网友",
+        "onboard_time": 1733982620,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137243,
+        "num": 254207,
+        "word": "丁禹兮微博口碑演员",
+        "onboard_time": 1733985380,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250980,
+        "num": 250980,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249829,
+        "num": 249829,
+        "word": "鸭屎香这个名字怎么来的",
+        "onboard_time": 1733981241,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168791,
+        "num": 249795,
+        "word": "赵小童帆布包",
+        "onboard_time": 1733984661,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249792,
+        "num": 249792,
+        "word": "芒果跨年 虞书欣和她的男主角们",
+        "onboard_time": 1733978420,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248300,
+        "num": 248300,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234241,
+        "num": 234241,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226520,
+        "num": 226520,
+        "word": "祺鑫",
+        "onboard_time": 1733981241,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 221083,
+        "num": 221083,
+        "word": "电热毯为啥不能铺在褥子下面",
+        "onboard_time": 1733979381,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 210487,
+        "num": 210487,
+        "word": "个人养老金已有7000万人开户",
+        "onboard_time": 1733977341,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205563,
+        "num": 205563,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 43,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 196684,
+        "num": 196684,
+        "word": "安倍遗孀要见特朗普",
+        "onboard_time": 1733985681,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193994,
+        "num": 193994,
+        "word": "不要再因为吃糖油混合物焦虑了",
+        "onboard_time": 1733979381,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177517,
+        "num": 177517,
+        "word": "快乐再出发",
+        "onboard_time": 1733985980,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44738,
+        "num": 175016,
+        "word": "近八成受访青年感觉自己忙到停不下",
+        "onboard_time": 1733983940,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 174402,
+        "num": 174402,
+        "word": "库里投篮选择",
+        "onboard_time": 1733984599,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165512,
+        "num": 165512,
+        "word": "迪丽热巴微博之夜推荐值突破30万",
+        "onboard_time": 1733983881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
