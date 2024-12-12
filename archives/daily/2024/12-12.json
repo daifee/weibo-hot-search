@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733996422944,
+  "endTime": 1733999182154,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 1418641,
-      "num": 997098,
+      "num": 1109394,
       "word": "李行亮撕掉婚姻承诺书",
       "onboard_time": 1733992220,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1372915,
+      "num": 1372915,
+      "word": "再看雷军账上预留18月工资含金量",
+      "onboard_time": 1733996120,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 1363260,
@@ -235,6 +243,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 796879,
+      "num": 777131,
+      "word": "梁祯元直播",
+      "onboard_time": 1733995940,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794752,
       "num": 794752,
       "word": "放生大米事件老人称是一场误会",
@@ -259,14 +275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 777131,
-      "num": 777131,
-      "word": "梁祯元直播",
-      "onboard_time": 1733995940,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 766992,
       "num": 573459,
       "word": "深圳爆炸住宅楼有住户曾要求检修燃气",
@@ -281,6 +289,14 @@
       "onboard_time": 1733970799,
       "rank": 23,
       "category": "美妆,健康医疗"
+    },
+    {
+      "raw_hot": 735058,
+      "num": 735058,
+      "word": "买了三折叠一个手滑摔裂了要退机",
+      "onboard_time": 1733996479,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 728957,
@@ -603,14 +619,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 413285,
-      "num": 413285,
-      "word": "再看雷军账上预留18月工资含金量",
-      "onboard_time": 1733996120,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 412823,
       "num": 327992,
       "word": "梁祯元 抽烟",
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311068,
+      "num": 279160,
+      "word": "张艺凡刮彩票连中12个7",
+      "onboard_time": 1733997080,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306855,
       "num": 773960,
       "word": "外交部驳斥尹锡悦涉华负面言论",
@@ -881,6 +897,14 @@
       "onboard_time": 1733935095,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276116,
+      "num": 285802,
+      "word": "王伟 白夜追凶导演",
+      "onboard_time": 1733997799,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 275458,
@@ -1003,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242018,
+      "num": 242018,
+      "word": "周彦辰打开评论区天塌了",
+      "onboard_time": 1733995640,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240809,
       "num": 225767,
       "word": "很普通却很上瘾的食物",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1733984900,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239797,
+      "num": 239797,
+      "word": "孟子义李昀锐涨粉",
+      "onboard_time": 1733996239,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 239771,
@@ -1099,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229718,
+      "num": 439894,
+      "word": "以为复习六级结果看了六集",
+      "onboard_time": 1733995401,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229256,
       "num": 351772,
       "word": "檀健次回应大器晚成",
@@ -1179,6 +1227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209168,
+      "num": 209168,
+      "word": "新能源车倒闭车主怎么办",
+      "onboard_time": 1733996660,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 209153,
+      "num": 209153,
+      "word": "梁祯元直播否认恋爱抽烟",
+      "onboard_time": 1733997200,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209057,
       "num": 365757,
       "word": "2025江苏卫视跨年阵容",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1733994139,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203120,
+      "num": 203120,
+      "word": "Clearlove入选2024LPL名人堂",
+      "onboard_time": 1733997921,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202960,
@@ -1379,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190324,
-      "num": 439894,
-      "word": "以为复习六级结果看了六集",
-      "onboard_time": 1733995401,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189824,
       "num": 189824,
       "word": "勇士vs火箭",
@@ -1401,14 +1465,6 @@
       "onboard_time": 1733985620,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 189250,
-      "num": 189250,
-      "word": "周彦辰打开评论区天塌了",
-      "onboard_time": 1733995640,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 188461,
@@ -1579,6 +1635,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173051,
+      "num": 173051,
+      "word": "湖南衡阳取消公摊",
+      "onboard_time": 1733996539,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170793,
+      "num": 170793,
+      "word": "猎罪图鉴2云合超九重紫",
+      "onboard_time": 1733996781,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170633,
+      "num": 170633,
+      "word": "姆巴佩涉嫌强奸案调查终止",
+      "onboard_time": 1733997799,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169300,
       "num": 313921,
       "word": "樊振东将迎乒超首秀",
@@ -1651,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157558,
-      "num": 157558,
-      "word": "孟子义李昀锐涨粉",
-      "onboard_time": 1733996239,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156487,
       "num": 156487,
       "word": "乒超联赛直播",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1733980100,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153285,
+      "num": 285144,
+      "word": "44岁张柏芝生图",
+      "onboard_time": 1733998399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 152080,
@@ -1771,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146898,
+      "num": 146898,
+      "word": "极越商业版图盘点",
+      "onboard_time": 1733999059,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145375,
       "num": 145375,
       "word": "Yagao说不打了",
@@ -1801,6 +1889,14 @@
       "onboard_time": 1733981241,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142446,
+      "num": 142446,
+      "word": "李彦宏曾对极越CEO笑称别给我亏太多",
+      "onboard_time": 1733996600,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 142401,
@@ -2411,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67216,
+      "num": 557022,
+      "word": "买窃听插座监控孩子涉嫌违法",
+      "onboard_time": 1733998159,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67071,
       "num": 513802,
       "word": "王楚钦梁靖崑领衔山东魏桥出战乒超",
@@ -2427,12 +2531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66578,
+      "num": 279275,
+      "word": "妹妹照顾哥哥3年至病逝起诉分遗产",
+      "onboard_time": 1733998339,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64300,
+      "num": 192742,
+      "word": "周深亮相狮子王首映礼",
+      "onboard_time": 1733998399,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62175,
       "num": 73148,
       "word": "广东人的厚衣服要拿出来了",
       "onboard_time": 1733938815,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59376,
+      "num": 220476,
+      "word": "都研究生了还要考四级",
+      "onboard_time": 1733998101,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 58558,
@@ -2489,6 +2617,14 @@
       "onboard_time": 1733921117,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48173,
+      "num": 441014,
+      "word": "设计师揭秘哈尔滨大雪人打造过程",
+      "onboard_time": 1733998280,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47641,
@@ -2571,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39915,
+      "num": 177188,
+      "word": "盘点莎头组合暴扣名场面",
+      "onboard_time": 1733997858,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39899,
       "num": 281402,
       "word": "张艺兴觉得不够才想努力",
@@ -2643,6 +2787,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 34793,
+      "num": 844699,
+      "word": "从超级工程看中国人的魄力",
+      "onboard_time": 1733997260,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34592,
       "num": 522867,
       "word": "多人非法穿越秦岭鳌太线被罚",
@@ -2700,7 +2852,7 @@
     },
     {
       "raw_hot": 31401,
-      "num": 231795,
+      "num": 240256,
       "word": "云辇Z动态实测曝光",
       "onboard_time": 1733994800,
       "rank": 39,
@@ -2771,6 +2923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21314,
+      "num": 169058,
+      "word": "打工人为什么容易气血不足",
+      "onboard_time": 1733997980,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21012,
       "num": 227744,
       "word": "曝孟子义李昀锐合体湖南卫视跨年",
@@ -2793,6 +2953,14 @@
       "onboard_time": 1733955852,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17938,
+      "num": 239932,
+      "word": "KPL年度最受欢迎奖项评选规则",
+      "onboard_time": 1733998819,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 17668,
@@ -2849,6 +3017,9 @@
     },
     {
       "word": "#人民日报中国经济年度观察#"
+    },
+    {
+      "word": "#习近平眼中的中国与世界#"
     }
   ]
 }
