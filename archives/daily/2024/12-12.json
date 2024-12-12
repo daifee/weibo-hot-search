@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733993133982,
+  "endTime": 1733995575309,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1348112,
+      "num": 997098,
+      "word": "李行亮撕掉婚姻承诺书",
+      "onboard_time": 1733992220,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1328915,
       "num": 1328915,
       "word": "郭敬明发鞠婧祎新原始帧",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1015540,
-      "num": 702390,
+      "num": 771723,
       "word": "葛夕留几手未婚先孕",
       "onboard_time": 1733988139,
       "rank": 44,
@@ -193,6 +201,14 @@
       "onboard_time": 1733961738,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 911917,
+      "num": 911917,
+      "word": "英伟达下架天猫官方旗舰店所有商品",
+      "onboard_time": 1733993658,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 911292,
@@ -225,6 +241,14 @@
       "onboard_time": 1733963720,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 788109,
+      "num": 788109,
+      "word": "韩方称中国产太阳能会破坏韩国森林",
+      "onboard_time": 1733992760,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 785484,
@@ -603,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 390481,
-      "num": 390481,
-      "word": "李行亮撕掉婚姻承诺书",
-      "onboard_time": 1733992220,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382122,
       "num": 484833,
       "word": "广东人搞副业热情全国最高",
@@ -681,6 +697,14 @@
       "onboard_time": 1733970138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350534,
+      "num": 350534,
+      "word": "星光大赏阵容",
+      "onboard_time": 1733994619,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 344594,
@@ -947,6 +971,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245793,
+      "num": 337328,
+      "word": "张晚意被评为三级演员",
+      "onboard_time": 1733990780,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240809,
+      "num": 225767,
+      "word": "很普通却很上瘾的食物",
+      "onboard_time": 1733988621,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240048,
       "num": 618981,
       "word": "荆州一大型无人机在体育场附近坠毁",
@@ -969,14 +1009,6 @@
       "onboard_time": 1733966299,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239100,
-      "num": 337328,
-      "word": "张晚意被评为三级演员",
-      "onboard_time": 1733990780,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 234938,
@@ -1011,11 +1043,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230470,
+      "num": 230470,
+      "word": "留几手拿葛夕的抑郁症当段子",
+      "onboard_time": 1733993960,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230036,
       "num": 338114,
       "word": "水原希子街头拥抱男友",
       "onboard_time": 1733991500,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227587,
+      "num": 362775,
+      "word": "霉霉要给赛琳娜当花童",
+      "onboard_time": 1733992280,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1025,14 +1073,6 @@
       "onboard_time": 1733923039,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223081,
-      "num": 223081,
-      "word": "很普通却很上瘾的食物",
-      "onboard_time": 1733988621,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 217258,
@@ -1051,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214035,
+      "num": 340895,
+      "word": "鞠婧祎娜扎周也公司地址一样",
+      "onboard_time": 1733994439,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213809,
       "num": 213809,
       "word": "李昀锐 叫哥",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1733987599,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211769,
+      "num": 211769,
+      "word": "极越多部门就地解散",
+      "onboard_time": 1733993658,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 211626,
@@ -1097,14 +1153,6 @@
       "onboard_time": 1733971999,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208908,
-      "num": 208908,
-      "word": "霉霉要给赛琳娜当花童",
-      "onboard_time": 1733992280,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 208769,
@@ -1211,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197412,
+      "num": 197412,
+      "word": "孙颖莎要考驾照",
+      "onboard_time": 1733993658,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196684,
       "num": 196684,
       "word": "安倍遗孀要见特朗普",
@@ -1307,6 +1363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 187264,
+      "num": 351772,
+      "word": "檀健次回应大器晚成",
+      "onboard_time": 1733992161,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186607,
       "num": 186607,
       "word": "时代少年团周边",
@@ -1331,14 +1395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183210,
-      "num": 183210,
-      "word": "韩方称中国产太阳能会破坏韩国森林",
-      "onboard_time": 1733992760,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 181513,
       "num": 181513,
       "word": "贵女宣发",
@@ -1348,7 +1404,7 @@
     },
     {
       "raw_hot": 180440,
-      "num": 180440,
+      "num": 348999,
       "word": "杨政体测未通过",
       "onboard_time": 1733991260,
       "rank": 38,
@@ -1592,6 +1648,14 @@
       "word": "男子擅自进入他人装修别墅摔伤索赔16万",
       "onboard_time": 1733980100,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152611,
+      "num": 778416,
+      "word": "运动能抵消久坐的伤害吗",
+      "onboard_time": 1733994139,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1907,6 +1971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107681,
+      "num": 536112,
+      "word": "韩国在野党再次提交尹锡悦弹劾案",
+      "onboard_time": 1733994681,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104521,
       "num": 104521,
       "word": "金希澈注销社交平台账号",
@@ -1921,6 +1993,14 @@
       "onboard_time": 1733913320,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 103696,
+      "num": 320542,
+      "word": "日本公布2024年年度汉字金",
+      "onboard_time": 1733994619,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103202,
@@ -1968,6 +2048,14 @@
       "word": "尹锡悦指责在野党诬陷内乱罪",
       "onboard_time": 1733966299,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95084,
+      "num": 773960,
+      "word": "外交部驳斥尹锡悦涉华负面言论",
+      "onboard_time": 1733995160,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -2043,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88252,
+      "num": 439894,
+      "word": "以为复习六级结果看了六集",
+      "onboard_time": 1733995401,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86692,
       "num": 287039,
       "word": "晒晒你的2025年电视剧片单",
@@ -2065,6 +2161,14 @@
       "onboard_time": 1733927360,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85784,
+      "num": 333838,
+      "word": "2024德玛西亚杯官宣",
+      "onboard_time": 1733994681,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 85175,
@@ -2153,6 +2257,14 @@
       "onboard_time": 1733991740,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 77188,
+      "num": 430595,
+      "word": "小区拆除水塔吊臂连塔顶倒下致1死",
+      "onboard_time": 1733994319,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76377,
@@ -2315,14 +2427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54126,
-      "num": 351772,
-      "word": "檀健次回应大器晚成",
-      "onboard_time": 1733992161,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47641,
       "num": 316520,
       "word": "张艺兴官宣加盟江苏卫视跨年",
@@ -2451,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36915,
+      "num": 534822,
+      "word": "航班选座和锁座的规则到底是什么",
+      "onboard_time": 1733994439,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36001,
       "num": 284130,
       "word": "全日制与非全日制的区别",
@@ -2465,6 +2577,14 @@
       "onboard_time": 1733985200,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 35075,
+      "num": 329928,
+      "word": "奶茶促癌是真的吗",
+      "onboard_time": 1733995221,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34592,
@@ -2489,6 +2609,14 @@
       "onboard_time": 1733987599,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33384,
+      "num": 317953,
+      "word": "休完产假重返职场权益如何保障",
+      "onboard_time": 1733994559,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 32961,
@@ -2529,6 +2657,14 @@
       "onboard_time": 1733943492,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25744,
+      "num": 196385,
+      "word": "云辇Z动态实测曝光",
+      "onboard_time": 1733994800,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 25466,
