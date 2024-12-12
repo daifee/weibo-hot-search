@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734003359128,
+  "endTime": 1734007713269,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -299,6 +299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 784222,
+      "num": 380937,
+      "word": "马嘉祺 几点直播",
+      "onboard_time": 1734005180,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 766992,
       "num": 573459,
       "word": "深圳爆炸住宅楼有住户曾要求检修燃气",
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505655,
+      "num": 505655,
+      "word": "王曼昱因病乒超退赛",
+      "onboard_time": 1734004159,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500420,
       "num": 897584,
       "word": "25年老员工被开除法院判赔98万",
@@ -603,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 456367,
+      "num": 375474,
+      "word": "我是刑警拍了白银28年恶性大案",
+      "onboard_time": 1734005420,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451172,
       "num": 451172,
       "word": "极越",
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408453,
+      "num": 408453,
+      "word": "制酱文化被韩国申遗成功了",
+      "onboard_time": 1734006260,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405427,
       "num": 405427,
       "word": "华润物业回应深圳高层爆炸事故",
@@ -715,12 +747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 387087,
+      "num": 387087,
+      "word": "英伟达中国声明",
+      "onboard_time": 1734002780,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 382122,
       "num": 484833,
       "word": "广东人搞副业热情全国最高",
       "onboard_time": 1733978843,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373954,
+      "num": 533389,
+      "word": "中央经济工作会议举行",
+      "onboard_time": 1734002360,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 373527,
@@ -811,6 +859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340956,
+      "num": 340956,
+      "word": "王楚钦vs徐瑛彬",
+      "onboard_time": 1734003680,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334636,
       "num": 320729,
       "word": "考研准考证照片没穿上衣影响大嘛",
@@ -867,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314095,
+      "num": 314095,
+      "word": "Jennie朴彩英纽约路透",
+      "onboard_time": 1734004520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311068,
       "num": 387008,
       "word": "张艺凡刮彩票连中12个7",
@@ -881,6 +945,14 @@
       "onboard_time": 1733995160,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 303595,
+      "num": 332554,
+      "word": "倪萍把麦琳说懵了",
+      "onboard_time": 1734006859,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 301290,
@@ -1171,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237842,
+      "num": 237842,
+      "word": "猎罪2丈夫杀妻被反杀",
+      "onboard_time": 1734005840,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237380,
       "num": 362775,
       "word": "霉霉要给赛琳娜当花童",
@@ -1331,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208837,
+      "num": 208837,
+      "word": "丁禹兮直播",
+      "onboard_time": 1734007278,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208769,
       "num": 304749,
       "word": "西村力澄清",
@@ -1427,12 +1515,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 200835,
-      "num": 200835,
-      "word": "英伟达中国声明",
-      "onboard_time": 1734002780,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 200849,
+      "num": 200849,
+      "word": "蒋敦豪巡演",
+      "onboard_time": 1734005959,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 200628,
@@ -1467,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198821,
+      "num": 198821,
+      "word": "A50",
+      "onboard_time": 1734007397,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197875,
       "num": 197875,
       "word": "库里投篮选择",
@@ -1491,6 +1587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197712,
+      "num": 197712,
+      "word": "极越商业版图盘点",
+      "onboard_time": 1733999059,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 197412,
       "num": 197412,
       "word": "孙颖莎要考驾照",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1733985681,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195552,
+      "num": 195552,
+      "word": "部署2025年经济工作",
+      "onboard_time": 1734007039,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195355,
@@ -1601,14 +1713,6 @@
       "onboard_time": 1733968519,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 188187,
-      "num": 533389,
-      "word": "中央经济工作会议举行",
-      "onboard_time": 1734002360,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188158,
@@ -1963,12 +2067,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151526,
+      "num": 151526,
+      "word": "王楚钦3比1徐瑛彬",
+      "onboard_time": 1734005660,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151175,
+      "num": 151175,
+      "word": "经济工作会议",
+      "onboard_time": 1734006619,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151034,
       "num": 151034,
       "word": "目击者回应深圳一住宅楼突发爆炸",
       "onboard_time": 1733969420,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150822,
+      "num": 150822,
+      "word": "英伟达中国",
+      "onboard_time": 1734007397,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 150812,
@@ -2011,20 +2139,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149625,
+      "num": 149625,
+      "word": "九重紫老头101",
+      "onboard_time": 1734004341,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149375,
       "num": 297986,
       "word": "芒果跨年",
       "onboard_time": 1733986041,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146898,
-      "num": 146898,
-      "word": "极越商业版图盘点",
-      "onboard_time": 1733999059,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 145375,
@@ -2065,6 +2193,14 @@
       "onboard_time": 1733967138,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141981,
+      "num": 141981,
+      "word": "深圳悦府住宅起火事故仍在救援",
+      "onboard_time": 1734005660,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 140644,
@@ -2113,6 +2249,14 @@
       "onboard_time": 1733930899,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131709,
+      "num": 131709,
+      "word": "李昀锐 薄肌",
+      "onboard_time": 1734007699,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 131234,
@@ -2499,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88912,
+      "num": 384145,
+      "word": "住宅公摊面积到底该不该取消",
+      "onboard_time": 1734006260,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86692,
       "num": 396936,
       "word": "晒晒你的2025年电视剧片单",
@@ -2545,6 +2697,14 @@
       "onboard_time": 1733953871,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84208,
+      "num": 384204,
+      "word": "深圳大学队3比0成都高新若水居队",
+      "onboard_time": 1734006619,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 83706,
@@ -2691,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73199,
+      "num": 338427,
+      "word": "拉伸的王楚钦表情好萌",
+      "onboard_time": 1734007278,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71243,
       "num": 71243,
       "word": "宾馆民宿偷拍旅客性行为贩卖牟利",
@@ -2769,6 +2937,14 @@
       "onboard_time": 1733998399,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 62474,
+      "num": 382054,
+      "word": "千万彩票被冒领当事人回应5年维权",
+      "onboard_time": 1734006859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62175,
@@ -2851,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48954,
+      "num": 327515,
+      "word": "鞠婧祎大女主剧本",
+      "onboard_time": 1734007039,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47641,
       "num": 316520,
       "word": "张艺兴官宣加盟江苏卫视跨年",
@@ -2873,6 +3057,14 @@
       "onboard_time": 1733935936,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45722,
+      "num": 386009,
+      "word": "山东魏桥3比0山东鲁能",
+      "onboard_time": 1734007461,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 44738,
@@ -3187,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20440,
+      "num": 130761,
+      "word": "椒盐鸡块",
+      "onboard_time": 1734006680,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 18531,
       "num": 22827,
       "word": "深圳一住宅楼爆炸消防救援力量已到场",
@@ -3240,6 +3440,14 @@
       "word": "樊振东现身球场热身训练",
       "onboard_time": 1734001701,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11186,
+      "num": 374735,
+      "word": "山东魏桥两连胜",
+      "onboard_time": 1734007461,
+      "rank": 14,
       "category": "体育"
     },
     {
