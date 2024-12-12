@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734039487113,
+  "endTime": 1734042187561,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -259,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135069,
+      "num": 135069,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132327,
       "num": 132327,
       "word": "田曦薇定妆",
@@ -315,6 +323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 103394,
+      "num": 103394,
+      "word": "老师突然晕倒大一女生们分工救人",
+      "onboard_time": 1734028151,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 102692,
       "num": 102692,
       "word": "徐志胜 加戏",
@@ -337,6 +353,14 @@
       "onboard_time": 1734008660,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98299,
+      "num": 98299,
+      "word": "人肉火烧造谣者已被行政拘留",
+      "onboard_time": 1734039432,
+      "rank": 49,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 96235,
@@ -395,12 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77579,
-      "num": 77579,
-      "word": "部门介入男子抱赤裸幼子站街头",
-      "onboard_time": 1734034091,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 77867,
+      "num": 80343,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 75893,
@@ -459,22 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53460,
-      "num": 45493,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 52874,
-      "num": 52874,
-      "word": "老师突然晕倒大一女生们分工救人",
-      "onboard_time": 1734028151,
-      "rank": 43,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 39992,
       "num": 54666,
       "word": "明年要抓好9个重点任务",
@@ -483,12 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29574,
-      "num": 23129,
+      "raw_hot": 37154,
+      "num": 32634,
       "word": "苟仲文严重破坏体育系统政治生态",
       "onboard_time": 1734032712,
       "rank": 31,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 30931,
+      "num": 30931,
+      "word": "AI还原南京大屠杀幸存者童年",
+      "onboard_time": 1734037151,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27845,
@@ -499,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27539,
-      "num": 27911,
-      "word": "AI还原南京大屠杀幸存者童年",
-      "onboard_time": 1734037151,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27530,
       "num": 798730,
       "word": "中国经济奋楫向前",
@@ -515,8 +523,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25414,
-      "num": 25414,
+      "raw_hot": 27430,
+      "num": 27430,
       "word": "美国对中国多晶硅加征50%关税",
       "onboard_time": 1734031632,
       "rank": 38,
@@ -547,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20849,
+      "num": 78823,
+      "word": "提高城乡居民医保财政补助标准",
+      "onboard_time": 1734041231,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18814,
       "num": 18814,
       "word": "狮子王 木法沙传奇",
@@ -569,14 +585,6 @@
       "onboard_time": 1734037751,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13295,
-      "num": 15083,
-      "word": "人肉火烧造谣者已被行政拘留",
-      "onboard_time": 1734039432,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 13184,
