@@ -1,6 +1,6 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1734014567319,
+  "endTime": 1734017194563,
   "band_list": [
     {
       "raw_hot": 2847351,
@@ -9,6 +9,14 @@
       "onboard_time": 1733986100,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2795035,
+      "num": 2795035,
+      "word": "李佳琦直播佣金曝光",
+      "onboard_time": 1734013642,
+      "rank": 0,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 2380812,
@@ -145,14 +153,6 @@
       "onboard_time": 1733964619,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1307974,
-      "num": 1307974,
-      "word": "李佳琦直播佣金曝光",
-      "onboard_time": 1734013642,
-      "rank": 0,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1294780,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 659901,
+      "num": 659901,
+      "word": "白银案",
+      "onboard_time": 1734013461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 632801,
       "num": 632801,
       "word": "贵女",
@@ -529,6 +537,14 @@
       "onboard_time": 1734001641,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560225,
+      "num": 560225,
+      "word": "李铁",
+      "onboard_time": 1734013701,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 552903,
@@ -723,6 +739,14 @@
       "category": "美妆,游戏"
     },
     {
+      "raw_hot": 443220,
+      "num": 337525,
+      "word": "37岁去世主持人妻子怀孕5个月",
+      "onboard_time": 1734012981,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424118,
       "num": 462162,
       "word": "我是刑警 吃顿饭被提取DNA",
@@ -777,14 +801,6 @@
       "onboard_time": 1733999421,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414949,
-      "num": 337525,
-      "word": "37岁去世主持人妻子怀孕5个月",
-      "onboard_time": 1734012981,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412823,
@@ -971,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331710,
+      "num": 184251,
+      "word": "劣迹艺人无职称评审资格",
+      "onboard_time": 1734016100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330813,
       "num": 330813,
       "word": "孟子义李昀锐聊第一次拍吻戏",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1733997080,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308376,
-      "num": 308376,
-      "word": "白银案",
-      "onboard_time": 1734013461,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 306855,
@@ -1467,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229855,
+      "num": 183890,
+      "word": "田曦薇定妆",
+      "onboard_time": 1734014541,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229822,
       "num": 270697,
       "word": "九重紫原著",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1733988139,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215542,
+      "num": 183118,
+      "word": "有暖气地区的统一睡姿",
+      "onboard_time": 1734015141,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 215106,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1733968519,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210513,
+      "num": 182915,
+      "word": "控糖55天的皮肤变化",
+      "onboard_time": 1734011661,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209418,
@@ -1923,6 +1963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185182,
+      "num": 182570,
+      "word": "窦昭有福之女不进无福之家",
+      "onboard_time": 1734016221,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185135,
       "num": 185135,
       "word": "鲁花回应食用油碳化",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1733958616,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182488,
+      "num": 182488,
+      "word": "徐志胜 加戏",
+      "onboard_time": 1734016760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 181513,
@@ -2323,20 +2379,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 154377,
+      "num": 264318,
+      "word": "张颂文说从没糊弄过任何角色",
+      "onboard_time": 1734014662,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153423,
       "num": 572748,
       "word": "男子擅自进入他人装修别墅摔伤索赔16万",
       "onboard_time": 1733980100,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153084,
-      "num": 153084,
-      "word": "李铁",
-      "onboard_time": 1734013701,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 152080,
@@ -2547,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133075,
-      "num": 133075,
-      "word": "田曦薇定妆",
-      "onboard_time": 1734014541,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131534,
       "num": 301748,
       "word": "国足李铁案明日一审宣判",
@@ -2571,12 +2619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130599,
-      "num": 130599,
-      "word": "控糖55天的皮肤变化",
-      "onboard_time": 1734011661,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 130542,
+      "num": 130542,
+      "word": "吉林一小区疑燃气爆炸已致13人受伤",
+      "onboard_time": 1734015800,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 130537,
@@ -2603,6 +2651,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 129986,
+      "num": 129986,
+      "word": "宋墨撤回一个抢婚",
+      "onboard_time": 1734015261,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129879,
       "num": 279784,
       "word": "周琦与广东男篮队员拥抱",
@@ -2617,6 +2673,14 @@
       "onboard_time": 1733930899,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127863,
+      "num": 185012,
+      "word": "孟子义真诚",
+      "onboard_time": 1734015381,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 126476,
@@ -2667,6 +2731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123581,
+      "num": 123581,
+      "word": "电视台回应主持人李昕鑫去世",
+      "onboard_time": 1734017060,
+      "rank": 44,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 120085,
       "num": 275796,
       "word": "济南大学称会在食堂另设泡面档口",
@@ -2705,6 +2777,14 @@
       "onboard_time": 1733968999,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116102,
+      "num": 183195,
+      "word": "李现一人徒步鱼子西",
+      "onboard_time": 1734015619,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 115723,
@@ -3115,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81267,
+      "num": 183594,
+      "word": "张若昀周深张晚意同台",
+      "onboard_time": 1734011541,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80737,
       "num": 297948,
       "word": "NBA杯四强出炉",
@@ -3243,6 +3331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69410,
+      "num": 123083,
+      "word": "Xiaohu续约WBG",
+      "onboard_time": 1734015742,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68257,
       "num": 68257,
       "word": "马嘉祺22岁生日海报",
@@ -3272,6 +3368,14 @@
       "word": "时代少年团发文为马嘉祺庆生",
       "onboard_time": 1733978662,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66420,
+      "num": 354467,
+      "word": "什么是三级演员职称",
+      "onboard_time": 1734015742,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -3611,6 +3715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35765,
+      "num": 183699,
+      "word": "爱玛电动车门店卖改装车被立案调查",
+      "onboard_time": 1734015860,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35421,
       "num": 614390,
       "word": "深圳高层建筑起火有哪些救援难点",
@@ -3665,6 +3777,14 @@
       "onboard_time": 1733987599,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33065,
+      "num": 221170,
+      "word": "珠宝鉴定单位竟帮着商家作假",
+      "onboard_time": 1734015860,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32961,
@@ -3887,6 +4007,14 @@
       "num": 157678,
       "word": "潘展乐给全家下任务让好好享受生活",
       "onboard_time": 1733929100,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9011,
+      "num": 184289,
+      "word": "孙颖莎乒超热身",
+      "onboard_time": 1734016820,
       "rank": 24,
       "category": "体育"
     },

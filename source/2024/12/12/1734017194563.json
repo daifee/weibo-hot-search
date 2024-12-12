@@ -1,0 +1,410 @@
+{
+  "runTime": 1734017194563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2795035,
+        "num": 2795035,
+        "word": "李佳琦直播佣金曝光",
+        "onboard_time": 1734013642,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 659901,
+        "num": 659901,
+        "word": "白银案",
+        "onboard_time": 1734013461,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33624,
+        "num": 569935,
+        "word": "中国经济奋楫向前",
+        "onboard_time": 1734009800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1830879,
+        "num": 569733,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560225,
+        "num": 560225,
+        "word": "李铁",
+        "onboard_time": 1734013701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 413162,
+        "num": 413162,
+        "word": "制酱文化被韩国申遗成功了",
+        "onboard_time": 1734006260,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 411570,
+        "num": 411570,
+        "word": "中央定调明年财政政策",
+        "onboard_time": 1734009440,
+        "rank": 6,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 394840,
+        "num": 394840,
+        "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+        "onboard_time": 1734011121,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165892,
+        "num": 355204,
+        "word": "部署2025年经济工作",
+        "onboard_time": 1734007039,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66420,
+        "num": 354467,
+        "word": "什么是三级演员职称",
+        "onboard_time": 1734015742,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792812,
+        "num": 354276,
+        "word": "曝某95花否掉九个男主",
+        "onboard_time": 1734010220,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353865,
+        "num": 353865,
+        "word": "泰国女团成员挺孕肚开演唱会唱跳",
+        "onboard_time": 1733999421,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344586,
+        "num": 344586,
+        "word": "叶祖新微博在线求职",
+        "onboard_time": 1734000859,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154377,
+        "num": 264318,
+        "word": "张颂文说从没糊弄过任何角色",
+        "onboard_time": 1734014662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33065,
+        "num": 221170,
+        "word": "珠宝鉴定单位竟帮着商家作假",
+        "onboard_time": 1734015860,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216495,
+        "num": 216495,
+        "word": "经济工作会议",
+        "onboard_time": 1734006619,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282022,
+        "num": 203566,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185154,
+        "num": 185154,
+        "word": "孙颖莎青苹果球衣",
+        "onboard_time": 1734013760,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128794,
+        "num": 185151,
+        "word": "林高远 强心剂",
+        "onboard_time": 1734013881,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127863,
+        "num": 185012,
+        "word": "孟子义真诚",
+        "onboard_time": 1734015381,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962631,
+        "num": 184779,
+        "word": "宋佳结婚我的态度",
+        "onboard_time": 1734009019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501240,
+        "num": 184656,
+        "word": "37岁主持人因书房着火去世",
+        "onboard_time": 1734001641,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339972,
+        "num": 184548,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443220,
+        "num": 184419,
+        "word": "37岁去世主持人妻子怀孕5个月",
+        "onboard_time": 1734012981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9011,
+        "num": 184289,
+        "word": "孙颖莎乒超热身",
+        "onboard_time": 1734016820,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331710,
+        "num": 184251,
+        "word": "劣迹艺人无职称评审资格",
+        "onboard_time": 1734016100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276691,
+        "num": 184104,
+        "word": "曝宋佳已领证结婚",
+        "onboard_time": 1733989221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229855,
+        "num": 183890,
+        "word": "田曦薇定妆",
+        "onboard_time": 1734014541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221630,
+        "num": 183810,
+        "word": "留几手拿葛夕的抑郁药装成是他的",
+        "onboard_time": 1734013342,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35765,
+        "num": 183699,
+        "word": "爱玛电动车门店卖改装车被立案调查",
+        "onboard_time": 1734015860,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81267,
+        "num": 183594,
+        "word": "张若昀周深张晚意同台",
+        "onboard_time": 1734011541,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225749,
+        "num": 183384,
+        "word": "张凌赫逐玉一番",
+        "onboard_time": 1734008660,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221401,
+        "num": 183352,
+        "word": "女生以为感冒确诊心肌炎需终身服药",
+        "onboard_time": 1733999601,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116102,
+        "num": 183195,
+        "word": "李现一人徒步鱼子西",
+        "onboard_time": 1734015619,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215542,
+        "num": 183118,
+        "word": "有暖气地区的统一睡姿",
+        "onboard_time": 1734015141,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210513,
+        "num": 182915,
+        "word": "控糖55天的皮肤变化",
+        "onboard_time": 1734011661,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210288,
+        "num": 182826,
+        "word": "九重紫",
+        "onboard_time": 1733999300,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198170,
+        "num": 182715,
+        "word": "马嘉祺直播",
+        "onboard_time": 1734008301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185182,
+        "num": 182570,
+        "word": "窦昭有福之女不进无福之家",
+        "onboard_time": 1734016221,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182488,
+        "num": 182488,
+        "word": "徐志胜 加戏",
+        "onboard_time": 1734016760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168418,
+        "num": 168418,
+        "word": "沈翊黑化倒计时",
+        "onboard_time": 1734012020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157417,
+        "num": 157417,
+        "word": "倪萍把麦琳说懵了",
+        "onboard_time": 1734006859,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130542,
+        "num": 130542,
+        "word": "吉林一小区疑燃气爆炸已致13人受伤",
+        "onboard_time": 1734015800,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 129986,
+        "num": 129986,
+        "word": "宋墨撤回一个抢婚",
+        "onboard_time": 1734015261,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123581,
+        "num": 123581,
+        "word": "电视台回应主持人李昕鑫去世",
+        "onboard_time": 1734017060,
+        "rank": 44,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 123541,
+        "num": 123541,
+        "word": "王楚钦离场时捡走了地上的垃圾",
+        "onboard_time": 1734011299,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69410,
+        "num": 123083,
+        "word": "Xiaohu续约WBG",
+        "onboard_time": 1734015742,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122903,
+        "num": 122903,
+        "word": "猴哥说车回应破产传闻",
+        "onboard_time": 1734010581,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117026,
+        "num": 117026,
+        "word": "中央经济工作会议举行",
+        "onboard_time": 1734002360,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 115476,
+        "word": "湖南卫视跨年艺人标签",
+        "onboard_time": 1734010101,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}

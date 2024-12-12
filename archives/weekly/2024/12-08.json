@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734014567319,
+  "endTime": 1734017194563,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -105,6 +105,14 @@
       "onboard_time": 1733887640,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2795035,
+      "num": 2795035,
+      "word": "李佳琦直播佣金曝光",
+      "onboard_time": 1734013642,
+      "rank": 0,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 2774352,
@@ -681,14 +689,6 @@
       "onboard_time": 1733700616,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1307974,
-      "num": 1307974,
-      "word": "李佳琦直播佣金曝光",
-      "onboard_time": 1734013642,
-      "rank": 0,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1294780,
@@ -2147,6 +2147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 659901,
+      "num": 659901,
+      "word": "白银案",
+      "onboard_time": 1734013461,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655633,
       "num": 525787,
       "word": "推测蔡国强无人机坠海原因",
@@ -2561,6 +2569,14 @@
       "onboard_time": 1734001641,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560225,
+      "num": 560225,
+      "word": "李铁",
+      "onboard_time": 1734013701,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 559371,
@@ -3371,6 +3387,14 @@
       "category": "美妆,游戏"
     },
     {
+      "raw_hot": 443220,
+      "num": 337525,
+      "word": "37岁去世主持人妻子怀孕5个月",
+      "onboard_time": 1734012981,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442322,
       "num": 557623,
       "word": "白鹿李一桐李沁合照",
@@ -3657,14 +3681,6 @@
       "onboard_time": 1733999421,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414949,
-      "num": 337525,
-      "word": "37岁去世主持人妻子怀孕5个月",
-      "onboard_time": 1734012981,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 414884,
@@ -4483,6 +4499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331710,
+      "num": 184251,
+      "word": "劣迹艺人无职称评审资格",
+      "onboard_time": 1734016100,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331025,
       "num": 331025,
       "word": "张若昀没案硬探",
@@ -4833,14 +4857,6 @@
       "onboard_time": 1733997080,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308376,
-      "num": 308376,
-      "word": "白银案",
-      "onboard_time": 1734013461,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 308058,
@@ -6491,6 +6507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229855,
+      "num": 183890,
+      "word": "田曦薇定妆",
+      "onboard_time": 1734014541,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229822,
       "num": 270697,
       "word": "九重紫原著",
@@ -6811,6 +6835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215542,
+      "num": 183118,
+      "word": "有暖气地区的统一睡姿",
+      "onboard_time": 1734015141,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215375,
       "num": 239646,
       "word": "我是刑警第13个恶性大案",
@@ -6937,6 +6969,14 @@
       "onboard_time": 1733739501,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210513,
+      "num": 182915,
+      "word": "控糖55天的皮肤变化",
+      "onboard_time": 1734011661,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210498,
@@ -8539,6 +8579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185182,
+      "num": 182570,
+      "word": "窦昭有福之女不进无福之家",
+      "onboard_time": 1734016221,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185135,
       "num": 185135,
       "word": "鲁花回应食用油碳化",
@@ -8633,6 +8681,14 @@
       "onboard_time": 1733842640,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182488,
+      "num": 182488,
+      "word": "徐志胜 加戏",
+      "onboard_time": 1734016760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 182246,
@@ -10307,6 +10363,14 @@
       "category": "议题讨论,综艺"
     },
     {
+      "raw_hot": 154377,
+      "num": 264318,
+      "word": "张颂文说从没糊弄过任何角色",
+      "onboard_time": 1734014662,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154294,
       "num": 501863,
       "word": "一米长糖葫芦成情侣秀恩爱顶流",
@@ -10393,14 +10457,6 @@
       "onboard_time": 1733755041,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153084,
-      "num": 153084,
-      "word": "李铁",
-      "onboard_time": 1734013701,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 152990,
@@ -11579,14 +11635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133075,
-      "num": 133075,
-      "word": "田曦薇定妆",
-      "onboard_time": 1734014541,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133054,
       "num": 133054,
       "word": "乒超深圳大学代表队阵容",
@@ -11723,12 +11771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130599,
-      "num": 130599,
-      "word": "控糖55天的皮肤变化",
-      "onboard_time": 1734011661,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 130542,
+      "num": 130542,
+      "word": "吉林一小区疑燃气爆炸已致13人受伤",
+      "onboard_time": 1734015800,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 130283,
@@ -11769,6 +11817,14 @@
       "onboard_time": 1733986340,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 129986,
+      "num": 129986,
+      "word": "宋墨撤回一个抢婚",
+      "onboard_time": 1734015261,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 129879,
@@ -11825,6 +11881,14 @@
       "onboard_time": 1733673619,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127863,
+      "num": 185012,
+      "word": "孟子义真诚",
+      "onboard_time": 1734015381,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 126982,
@@ -12065,6 +12129,14 @@
       "onboard_time": 1733897659,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123581,
+      "num": 123581,
+      "word": "电视台回应主持人李昕鑫去世",
+      "onboard_time": 1734017060,
+      "rank": 44,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 123511,
@@ -12385,6 +12457,14 @@
       "onboard_time": 1733576002,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116102,
+      "num": 183195,
+      "word": "李现一人徒步鱼子西",
+      "onboard_time": 1734015619,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 115723,
@@ -13899,6 +13979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81267,
+      "num": 183594,
+      "word": "张若昀周深张晚意同台",
+      "onboard_time": 1734011541,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81073,
       "num": 270101,
       "word": "孙颖莎感叹成都国球氛围",
@@ -14459,6 +14547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69410,
+      "num": 123083,
+      "word": "Xiaohu续约WBG",
+      "onboard_time": 1734015742,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69289,
       "num": 248060,
       "word": "赵子豪打球逗笑樊振东",
@@ -14641,6 +14737,14 @@
       "onboard_time": 1733844261,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66420,
+      "num": 354467,
+      "word": "什么是三级演员职称",
+      "onboard_time": 1734015742,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 66202,
@@ -16187,6 +16291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35765,
+      "num": 183699,
+      "word": "爱玛电动车门店卖改装车被立案调查",
+      "onboard_time": 1734015860,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35697,
       "num": 230671,
       "word": "AnotherMan李现封面",
@@ -16441,6 +16553,14 @@
       "onboard_time": 1733883859,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33065,
+      "num": 221170,
+      "word": "珠宝鉴定单位竟帮着商家作假",
+      "onboard_time": 1734015860,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33027,
@@ -17913,6 +18033,14 @@
       "onboard_time": 1733710520,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9011,
+      "num": 184289,
+      "word": "孙颖莎乒超热身",
+      "onboard_time": 1734016820,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 8806,
