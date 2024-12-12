@@ -1,7 +1,15 @@
 {
   "startTime": 1733934678140,
-  "endTime": 1733981036078,
+  "endTime": 1733982105141,
   "band_list": [
+    {
+      "raw_hot": 1932498,
+      "num": 1932498,
+      "word": "赛琳娜宣布订婚",
+      "onboard_time": 1733980281,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1909089,
       "num": 1909089,
@@ -75,14 +83,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1075338,
-      "num": 1075338,
-      "word": "赛琳娜宣布订婚",
-      "onboard_time": 1733980281,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1069987,
       "num": 1069987,
       "word": "个人养老金",
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 811877,
+      "num": 811877,
+      "word": "iPhone17或改用条形横置摄像",
+      "onboard_time": 1733978121,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 794752,
       "num": 794752,
       "word": "放生大米事件老人称是一场误会",
@@ -137,14 +145,6 @@
       "onboard_time": 1733962281,
       "rank": 10,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 747930,
-      "num": 747930,
-      "word": "iPhone17或改用条形横置摄像",
-      "onboard_time": 1733978121,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 747350,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454251,
+      "num": 454251,
+      "word": "李行亮哭着和麦琳表白",
+      "onboard_time": 1733981720,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451172,
       "num": 451172,
       "word": "极越",
@@ -377,6 +385,14 @@
       "onboard_time": 1733965579,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 413259,
+      "num": 413259,
+      "word": "大妈在胖东来霸占整车果汁收费转让",
+      "onboard_time": 1733982080,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 412823,
@@ -441,6 +457,14 @@
       "onboard_time": 1733975720,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 366021,
+      "num": 320229,
+      "word": "电热毯为啥不能铺在褥子下面",
+      "onboard_time": 1733979381,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 364116,
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304281,
+      "num": 304281,
+      "word": "林高远",
+      "onboard_time": 1733980761,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301290,
       "num": 564301,
       "word": "王楚钦vs全开源",
       "onboard_time": 1733972718,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299601,
+      "num": 299601,
+      "word": "祺鑫",
+      "onboard_time": 1733981241,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 297175,
@@ -531,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295625,
+      "num": 295625,
+      "word": "鸭屎香这个名字怎么来的",
+      "onboard_time": 1733981241,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 291194,
       "num": 268495,
       "word": "千金府",
@@ -539,12 +587,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 289725,
-      "num": 289725,
-      "word": "电热毯为啥不能铺在褥子下面",
-      "onboard_time": 1733979381,
-      "rank": 36,
-      "category": "科学科普"
+      "raw_hot": 289950,
+      "num": 538635,
+      "word": "宋慧乔时隔10年回归韩影",
+      "onboard_time": 1733980159,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 286369,
@@ -611,6 +659,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266899,
+      "num": 266899,
+      "word": "九重紫路人盘",
+      "onboard_time": 1733979561,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266496,
+      "num": 266496,
+      "word": "小学同学要结婚了问我全名发请帖",
+      "onboard_time": 1733979922,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264171,
       "num": 260259,
       "word": "发现了长款羽绒服的新穿法",
@@ -641,14 +705,6 @@
       "onboard_time": 1733975959,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 255035,
-      "num": 255035,
-      "word": "九重紫路人盘",
-      "onboard_time": 1733979561,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 252377,
@@ -731,14 +787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 214927,
-      "num": 538635,
-      "word": "宋慧乔时隔10年回归韩影",
-      "onboard_time": 1733980159,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 213809,
       "num": 213809,
       "word": "李昀锐 叫哥",
@@ -771,12 +819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207455,
-      "num": 207455,
-      "word": "小学同学要结婚了问我全名发请帖",
-      "onboard_time": 1733979922,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 207110,
+      "num": 302813,
+      "word": "贵女",
+      "onboard_time": 1733981841,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 202203,
@@ -793,6 +841,14 @@
       "onboard_time": 1733972299,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199597,
+      "num": 320937,
+      "word": "肖战专辑全平台第一",
+      "onboard_time": 1733980401,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 198853,
@@ -835,12 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191356,
-      "num": 320937,
-      "word": "肖战专辑全平台第一",
-      "onboard_time": 1733980401,
-      "rank": 32,
-      "category": "音乐"
+      "raw_hot": 193479,
+      "num": 193479,
+      "word": "游戏充值19万父亲甩锅6岁儿子",
+      "onboard_time": 1733981660,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190537,
@@ -849,6 +905,14 @@
       "onboard_time": 1733980519,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189824,
+      "num": 189824,
+      "word": "勇士vs火箭",
+      "onboard_time": 1733981300,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 188461,
@@ -1083,6 +1147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 153423,
+      "num": 572748,
+      "word": "男子擅自进入他人装修别墅摔伤索赔16万",
+      "onboard_time": 1733980100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152080,
       "num": 386890,
       "word": "泽连斯基演讲时背景墙惊现库洛米徽章",
@@ -1139,12 +1211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142599,
+      "raw_hot": 143923,
       "num": 414317,
       "word": "阴阳师",
       "onboard_time": 1733980882,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142666,
+      "num": 268015,
+      "word": "涵艺怒喷GEN",
+      "onboard_time": 1733981241,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 142401,
@@ -1265,14 +1345,6 @@
       "onboard_time": 1733959695,
       "rank": 33,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 117773,
-      "num": 572748,
-      "word": "男子擅自进入他人装修别墅摔伤索赔16万",
-      "onboard_time": 1733980100,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116780,
@@ -1531,6 +1603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76377,
+      "num": 687741,
+      "word": "王楚钦乒超20分钟光速下班",
+      "onboard_time": 1733980281,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75404,
+      "num": 696248,
+      "word": "韩国警方再次搜查总统办公室",
+      "onboard_time": 1733980641,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 74882,
       "num": 546186,
       "word": "韩媒爆尹锡悦戒严没和任何人商量",
@@ -1619,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61854,
-      "num": 696248,
-      "word": "韩国警方再次搜查总统办公室",
-      "onboard_time": 1733980641,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58434,
       "num": 58434,
       "word": "武契奇回应塞尔维亚反对派挑衅",
@@ -1713,14 +1793,6 @@
       "onboard_time": 1733953390,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39555,
-      "num": 687741,
-      "word": "王楚钦乒超20分钟光速下班",
-      "onboard_time": 1733980281,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 39546,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1733931858,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16279,
+      "num": 501725,
+      "word": "共享充电宝超1秒按半小时收费合理吗",
+      "onboard_time": 1733981900,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 10399,

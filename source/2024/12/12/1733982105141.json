@@ -1,0 +1,410 @@
+{
+  "runTime": 1733982105141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932498,
+        "num": 1932498,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1277438,
+        "num": 1277438,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66385,
+        "num": 861253,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 811877,
+        "num": 811877,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 762730,
+        "num": 762730,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505625,
+        "num": 505625,
+        "word": "全球最贵iPhone16ProMax登场",
+        "onboard_time": 1733970918,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 606056,
+        "num": 505353,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75404,
+        "num": 504397,
+        "word": "韩国警方再次搜查总统办公室",
+        "onboard_time": 1733980641,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577985,
+        "num": 502643,
+        "word": "芒果跨年 虞书欣和她的男主角们",
+        "onboard_time": 1733978420,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16279,
+        "num": 501725,
+        "word": "共享充电宝超1秒按半小时收费合理吗",
+        "onboard_time": 1733981900,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 569901,
+        "num": 500390,
+        "word": "吴昕收到了何炅为她藏的房卡",
+        "onboard_time": 1733972841,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 545479,
+        "num": 499511,
+        "word": "再见爱人",
+        "onboard_time": 1733977701,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499081,
+        "num": 499081,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 454251,
+        "num": 454251,
+        "word": "李行亮哭着和麦琳表白",
+        "onboard_time": 1733981720,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428990,
+        "num": 428990,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 413259,
+        "num": 413259,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391457,
+        "num": 391457,
+        "word": "玄彬综艺上叫孙艺珍我老婆",
+        "onboard_time": 1733976920,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76377,
+        "num": 380003,
+        "word": "王楚钦乒超20分钟光速下班",
+        "onboard_time": 1733980281,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376429,
+        "num": 376429,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 325849,
+        "num": 325849,
+        "word": "广东人搞副业热情全国最高",
+        "onboard_time": 1733978843,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443356,
+        "num": 323928,
+        "word": "女子坐月子套塑料袋出院",
+        "onboard_time": 1733975720,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366021,
+        "num": 320229,
+        "word": "电热毯为啥不能铺在褥子下面",
+        "onboard_time": 1733979381,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109221,
+        "num": 316192,
+        "word": "沈梦瑶成立个人公司",
+        "onboard_time": 1733978540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314128,
+        "num": 314128,
+        "word": "女主播被榜一大哥骗走十几万",
+        "onboard_time": 1733974219,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143923,
+        "num": 308033,
+        "word": "阴阳师",
+        "onboard_time": 1733980882,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328053,
+        "num": 307375,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 25,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 305988,
+        "num": 305988,
+        "word": "抖音下架209部违规微短剧",
+        "onboard_time": 1733967378,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304281,
+        "num": 304281,
+        "word": "林高远",
+        "onboard_time": 1733980761,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131669,
+        "num": 303173,
+        "word": "赵露思委托律师声明",
+        "onboard_time": 1733980519,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207110,
+        "num": 302813,
+        "word": "贵女",
+        "onboard_time": 1733981841,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302763,
+        "num": 302763,
+        "word": "孟子义李昀锐聊第一次拍吻戏",
+        "onboard_time": 1733977461,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289950,
+        "num": 299759,
+        "word": "宋慧乔时隔10年回归韩影",
+        "onboard_time": 1733980159,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299601,
+        "num": 299601,
+        "word": "祺鑫",
+        "onboard_time": 1733981241,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295625,
+        "num": 295625,
+        "word": "鸭屎香这个名字怎么来的",
+        "onboard_time": 1733981241,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153423,
+        "num": 277430,
+        "word": "男子擅自进入他人装修别墅摔伤索赔16万",
+        "onboard_time": 1733980100,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142666,
+        "num": 268015,
+        "word": "涵艺怒喷GEN",
+        "onboard_time": 1733981241,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266899,
+        "num": 266899,
+        "word": "九重紫路人盘",
+        "onboard_time": 1733979561,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266496,
+        "num": 266496,
+        "word": "小学同学要结婚了问我全名发请帖",
+        "onboard_time": 1733979922,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265680,
+        "num": 265680,
+        "word": "中国人习惯性内卷在国外很吃亏",
+        "onboard_time": 1733975720,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259117,
+        "num": 259117,
+        "word": "个人养老金已有7000万人开户",
+        "onboard_time": 1733977341,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249063,
+        "num": 249063,
+        "word": "丁禹兮粉丝认错正主",
+        "onboard_time": 1733976741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234519,
+        "num": 234519,
+        "word": "不要再因为吃糖油混合物焦虑了",
+        "onboard_time": 1733979381,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222234,
+        "num": 222234,
+        "word": "极越为何突然崩盘",
+        "onboard_time": 1733970318,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154389,
+        "num": 213376,
+        "word": "花480元看7组酒店偷拍实时直播",
+        "onboard_time": 1733980041,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212472,
+        "num": 212472,
+        "word": "下属的工资比自己高",
+        "onboard_time": 1733977580,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201670,
+        "num": 201670,
+        "word": "男子4天年假未休获4000多元补偿",
+        "onboard_time": 1733979442,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199597,
+        "num": 199597,
+        "word": "肖战专辑全平台第一",
+        "onboard_time": 1733980401,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193479,
+        "num": 193479,
+        "word": "游戏充值19万父亲甩锅6岁儿子",
+        "onboard_time": 1733981660,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189824,
+        "num": 189824,
+        "word": "勇士vs火箭",
+        "onboard_time": 1733981300,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187272,
+        "num": 187272,
+        "word": "郭敬明发鞠婧祎新原始帧",
+        "onboard_time": 1733964619,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
