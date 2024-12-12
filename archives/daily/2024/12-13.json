@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734028406777,
+  "endTime": 1734029244279,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46058,
+      "num": 51901,
+      "word": "尹锡悦反问这怎么能是内乱呢",
+      "onboard_time": 1734028032,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27845,
       "num": 27845,
       "word": "檀健次沈翊爆改rapper",
@@ -467,12 +475,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15332,
-      "num": 45111,
-      "word": "尹锡悦反问这怎么能是内乱呢",
-      "onboard_time": 1734028032,
-      "rank": 18,
-      "category": "国际时政"
+      "raw_hot": 21999,
+      "num": 23587,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21629,
+      "num": 23581,
+      "word": "2025春节档电影神仙打架",
+      "onboard_time": 1734028813,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 14047,
