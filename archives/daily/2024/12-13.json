@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734035219510,
+  "endTime": 1734036038049,
   "band_list": [
     {
       "raw_hot": 2128999,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38883,
+      "num": 38883,
+      "word": "部门介入男子抱赤裸幼子站街头",
+      "onboard_time": 1734034091,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27845,
       "num": 27845,
       "word": "檀健次沈翊爆改rapper",
@@ -507,20 +515,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24097,
+      "num": 23014,
+      "word": "苟仲文严重破坏体育系统政治生态",
+      "onboard_time": 1734032712,
+      "rank": 31,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 23175,
       "num": 33199,
       "word": "整治内卷式竞争",
       "onboard_time": 1734031751,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23014,
-      "num": 23014,
-      "word": "苟仲文严重破坏体育系统政治生态",
-      "onboard_time": 1734032712,
-      "rank": 31,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 21629,
@@ -539,14 +547,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 18051,
-      "num": 37142,
-      "word": "部门介入男子抱赤裸幼子站街头",
-      "onboard_time": 1734034091,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13184,
       "num": 135948,
       "word": "刘雨辰观战雅思组合总决赛",
@@ -561,6 +561,14 @@
       "onboard_time": 1734009740,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12592,
+      "num": 42521,
+      "word": "这部动画每一帧都是宝藏",
+      "onboard_time": 1734034031,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 8318,
