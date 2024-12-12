@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733992289654,
+  "endTime": 1733993133982,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1923,6 +1923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 672208,
+      "num": 672208,
+      "word": "白鹿张晚意获三级演员职称",
+      "onboard_time": 1733990361,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670096,
       "num": 670096,
       "word": "收留还是拐卖公众定会等到真相",
@@ -2523,6 +2531,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 536268,
+      "num": 493904,
+      "word": "快要出发啦官宣",
+      "onboard_time": 1733989579,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534673,
       "num": 534673,
       "word": "国色芳华白月梵星 同天播出",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1733834779,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 519466,
-      "num": 497069,
-      "word": "白鹿张晚意获三级演员职称",
-      "onboard_time": 1733990361,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 519226,
@@ -2825,14 +2833,6 @@
       "onboard_time": 1733714539,
       "rank": 19,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 493904,
-      "num": 493904,
-      "word": "快要出发啦官宣",
-      "onboard_time": 1733989579,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 492982,
@@ -3081,6 +3081,14 @@
       "onboard_time": 1733793197,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 459083,
+      "num": 459083,
+      "word": "万年县委原书记毛奇被公诉",
+      "onboard_time": 1733991861,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 456591,
@@ -3491,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405427,
+      "num": 405427,
+      "word": "华润物业回应深圳高层爆炸事故",
+      "onboard_time": 1733990481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405260,
       "num": 405260,
       "word": "于正回应给琼瑶道歉",
@@ -3616,6 +3632,14 @@
       "word": "只有付航是真来吃席的",
       "onboard_time": 1733582662,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390481,
+      "num": 390481,
+      "word": "李行亮撕掉婚姻承诺书",
+      "onboard_time": 1733992220,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -5051,14 +5075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 272273,
-      "num": 250907,
-      "word": "华润物业回应深圳高层爆炸事故",
-      "onboard_time": 1733990481,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 271500,
       "num": 379813,
       "word": "孟子义回应收拾收拾升咖",
@@ -5443,14 +5459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251158,
-      "num": 251158,
-      "word": "万年县委原书记毛奇被公诉",
-      "onboard_time": 1733991861,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 250712,
       "num": 280542,
       "word": "王昶金丝边眼镜造型",
@@ -5811,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239100,
+      "num": 337328,
+      "word": "张晚意被评为三级演员",
+      "onboard_time": 1733990780,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238917,
       "num": 246081,
       "word": "长的漂亮但拍照不上镜的人",
@@ -6043,6 +6059,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 230036,
+      "num": 338114,
+      "word": "水原希子街头拥抱男友",
+      "onboard_time": 1733991500,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228725,
       "num": 157534,
       "word": "向佐 我怎么帅都没有我老婆美",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1733743280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223081,
+      "num": 223081,
+      "word": "很普通却很上瘾的食物",
+      "onboard_time": 1733988621,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 222841,
@@ -6507,6 +6539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208908,
+      "num": 208908,
+      "word": "霉霉要给赛琳娜当花童",
+      "onboard_time": 1733992280,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208875,
       "num": 332672,
       "word": "普京做出向阿萨德提供庇护决定",
@@ -6545,14 +6585,6 @@
       "onboard_time": 1733904620,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207385,
-      "num": 226829,
-      "word": "水原希子街头拥抱男友",
-      "onboard_time": 1733991500,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 207337,
@@ -6848,6 +6880,14 @@
       "word": "秦海璐小说里重生文都这样",
       "onboard_time": 1733638640,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200628,
+      "num": 200628,
+      "word": "丁禹兮对接确认参加星光大赏",
+      "onboard_time": 1733992941,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -7451,6 +7491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192153,
+      "num": 192153,
+      "word": "蔡徐坤Breaktime",
+      "onboard_time": 1733992100,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191911,
       "num": 191911,
       "word": "以色列地面部队公开进入叙利亚",
@@ -7811,14 +7859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187009,
-      "num": 187009,
-      "word": "蔡徐坤Breaktime",
-      "onboard_time": 1733992100,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186824,
       "num": 186824,
       "word": "为什么喜欢阅读的人精神更富足",
@@ -7995,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183210,
+      "num": 183210,
+      "word": "韩方称中国产太阳能会破坏韩国森林",
+      "onboard_time": 1733992760,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182569,
       "num": 316164,
       "word": "周子瑜应用心理学硕士",
@@ -8009,14 +8057,6 @@
       "onboard_time": 1733643799,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182179,
-      "num": 182179,
-      "word": "很普通却很上瘾的食物",
-      "onboard_time": 1733988621,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 182146,
@@ -10803,14 +10843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 131377,
-      "num": 246658,
-      "word": "张晚意被评为三级演员",
-      "onboard_time": 1733990780,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131312,
       "num": 500596,
       "word": "中方回应叙利亚局势发展",
@@ -11027,6 +11059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126073,
+      "num": 288838,
+      "word": "拳头去年拒绝Faker选阿狸冠军皮肤",
+      "onboard_time": 1733991680,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126002,
       "num": 319700,
       "word": "BL战队传奇杯夺冠",
@@ -11129,14 +11169,6 @@
       "onboard_time": 1733919620,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 124738,
-      "num": 226217,
-      "word": "李行亮撕掉婚姻承诺书",
-      "onboard_time": 1733992220,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 124247,
@@ -12667,6 +12699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86692,
+      "num": 287039,
+      "word": "晒晒你的2025年电视剧片单",
+      "onboard_time": 1733993000,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86587,
       "num": 503920,
       "word": "以色列向叙利亚边境大幅增兵",
@@ -13091,6 +13131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77260,
+      "num": 678752,
+      "word": "中国玩家最有参与感的一届TGA",
+      "onboard_time": 1733991740,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 76814,
       "num": 283873,
       "word": "王源回应小小年纪就被考古",
@@ -13153,6 +13201,14 @@
       "onboard_time": 1733664082,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75109,
+      "num": 673610,
+      "word": "一粒米的成长自白",
+      "onboard_time": 1733992339,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 74925,
@@ -13947,6 +14003,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 54126,
+      "num": 351772,
+      "word": "檀健次回应大器晚成",
+      "onboard_time": 1733992161,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54070,
       "num": 384661,
       "word": "欧阳妮妮孕肚大片",
@@ -14675,6 +14739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40754,
+      "num": 278488,
+      "word": "美议员无脑乱冲中国大蒜",
+      "onboard_time": 1733992400,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40546,
       "num": 43158,
       "word": "名创优品向时空中的绘旅人致歉",
@@ -14705,6 +14777,14 @@
       "onboard_time": 1733895561,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39899,
+      "num": 281402,
+      "word": "张艺兴觉得不够才想努力",
+      "onboard_time": 1733992460,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 39546,
@@ -14928,6 +15008,14 @@
       "word": "考研准考证",
       "onboard_time": 1733873776,
       "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 36001,
+      "num": 284130,
+      "word": "全日制与非全日制的区别",
+      "onboard_time": 1733992460,
+      "rank": 27,
       "category": "教育"
     },
     {
@@ -15209,14 +15297,6 @@
       "onboard_time": 1733972178,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32846,
-      "num": 250501,
-      "word": "檀健次回应大器晚成",
-      "onboard_time": 1733992161,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 32767,
@@ -15625,14 +15705,6 @@
       "onboard_time": 1733729838,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25207,
-      "num": 396359,
-      "word": "中国玩家最有参与感的一届TGA",
-      "onboard_time": 1733991740,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 25095,
