@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1733988262558,
+  "endTime": 1733989100951,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2847351,
+      "num": 2769900,
+      "word": "江歌妈妈拒绝公开捐款明细",
+      "onboard_time": 1733986100,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2801940,
       "num": 712066,
       "word": "张若昀开车多次违章",
@@ -105,14 +113,6 @@
       "onboard_time": 1733658260,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2769900,
-      "num": 2769900,
-      "word": "江歌妈妈拒绝公开捐款明细",
-      "onboard_time": 1733986100,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2250877,
@@ -707,6 +707,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 1221047,
+      "num": 1221047,
+      "word": "百万网红被曝疑做不正当职业",
+      "onboard_time": 1733986940,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1219352,
       "num": 1219352,
       "word": "申论",
@@ -915,8 +923,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1052895,
-      "num": 1052895,
+      "raw_hot": 1053656,
+      "num": 1053656,
       "word": "远嫁日本女子得知家人在找自己哭了",
       "onboard_time": 1733985799,
       "rank": 38,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1733753541,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 911292,
+      "num": 525821,
+      "word": "宋佳 王伟",
+      "onboard_time": 1733987301,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 910968,
@@ -1683,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725996,
+      "num": 577860,
+      "word": "葛夕留几手未婚先孕",
+      "onboard_time": 1733988139,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 725222,
       "num": 646689,
       "word": "叙利亚民众进入阿萨德住宅",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1733726178,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672307,
-      "num": 525821,
-      "word": "宋佳 王伟",
-      "onboard_time": 1733987301,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 672247,
@@ -2281,14 +2297,6 @@
       "onboard_time": 1733889799,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 571516,
-      "num": 571516,
-      "word": "百万网红被曝疑做不正当职业",
-      "onboard_time": 1733986940,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 570839,
@@ -3107,12 +3115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443959,
+      "num": 443959,
+      "word": "TF口红 恋与深空",
+      "onboard_time": 1733984179,
+      "rank": 32,
+      "category": "美妆,游戏"
+    },
+    {
       "raw_hot": 442322,
       "num": 557623,
       "word": "白鹿李一桐李沁合照",
       "onboard_time": 1733646560,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442300,
+      "num": 442300,
+      "word": "车银优和赵韩樱子朋友",
+      "onboard_time": 1733988441,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 441925,
@@ -3385,14 +3409,6 @@
       "onboard_time": 1733808498,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 412792,
-      "num": 412792,
-      "word": "TF口红 恋与深空",
-      "onboard_time": 1733984179,
-      "rank": 32,
-      "category": "美妆,游戏"
     },
     {
       "raw_hot": 410358,
@@ -4068,7 +4084,7 @@
     },
     {
       "raw_hot": 334636,
-      "num": 247141,
+      "num": 320729,
       "word": "考研准考证照片没穿上衣影响大嘛",
       "onboard_time": 1733986400,
       "rank": 30,
@@ -4699,6 +4715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292816,
+      "num": 292816,
+      "word": "杜海涛多亏把壁纸设成沈梦辰了",
+      "onboard_time": 1733983101,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292646,
       "num": 365475,
       "word": "张萌 你们能有我会嗑么",
@@ -4857,14 +4881,6 @@
       "onboard_time": 1733744239,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284092,
-      "num": 284092,
-      "word": "杜海涛多亏把壁纸设成沈梦辰了",
-      "onboard_time": 1733983101,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 283481,
@@ -6219,6 +6235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 217258,
+      "num": 217258,
+      "word": "白鹿探班敖瑞鹏",
+      "onboard_time": 1733988139,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217222,
       "num": 217222,
       "word": "陈梦抵达挪威出战老瓦杯",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1733813782,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212825,
+      "num": 212825,
+      "word": "马斯克宣称要把自由女神熔了",
+      "onboard_time": 1733987599,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 212168,
@@ -6417,6 +6449,14 @@
       "onboard_time": 1733740821,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208769,
+      "num": 304749,
+      "word": "西村力澄清",
+      "onboard_time": 1733987720,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 208213,
@@ -6689,14 +6729,6 @@
       "onboard_time": 1733813782,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201516,
-      "num": 201516,
-      "word": "白鹿探班敖瑞鹏",
-      "onboard_time": 1733988139,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 201385,
@@ -7075,6 +7107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195355,
+      "num": 195355,
+      "word": "公职人员名下9家公司称身份证丢4次",
+      "onboard_time": 1733987539,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195028,
       "num": 111120,
       "word": "尖叫之夜现场灯牌",
@@ -7339,14 +7379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191223,
-      "num": 191223,
-      "word": "马斯克宣称要把自由女神熔了",
-      "onboard_time": 1733987599,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 191144,
       "num": 285323,
       "word": "郭旭晒求婚vlog",
@@ -7457,14 +7489,6 @@
       "onboard_time": 1733880500,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190095,
-      "num": 190095,
-      "word": "葛夕留几手未婚先孕",
-      "onboard_time": 1733988139,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 190005,
@@ -7875,14 +7899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183316,
-      "num": 304749,
-      "word": "西村力澄清",
-      "onboard_time": 1733987720,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182569,
       "num": 316164,
       "word": "周子瑜应用心理学硕士",
@@ -7913,6 +7929,14 @@
       "onboard_time": 1733802739,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181513,
+      "num": 181513,
+      "word": "贵女宣发",
+      "onboard_time": 1733988739,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 181464,
@@ -8385,14 +8409,6 @@
       "onboard_time": 1733811440,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172558,
-      "num": 172558,
-      "word": "公职人员名下9家公司称身份证丢4次",
-      "onboard_time": 1733987539,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172447,
@@ -9488,6 +9504,14 @@
       "word": "80后爸爸硬控14岁女儿社交",
       "onboard_time": 1733755041,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153251,
+      "num": 253834,
+      "word": "远嫁日本失联女子已找到",
+      "onboard_time": 1733988621,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -10841,6 +10865,14 @@
       "onboard_time": 1733830458,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126476,
+      "num": 296477,
+      "word": "李雯雯真给奶奶买了金镯子",
+      "onboard_time": 1733987960,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 126348,
@@ -12249,14 +12281,6 @@
       "onboard_time": 1733735300,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 94050,
-      "num": 296477,
-      "word": "李雯雯真给奶奶买了金镯子",
-      "onboard_time": 1733987960,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 94046,
@@ -14579,6 +14603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38361,
+      "num": 526758,
+      "word": "最高法辟谣网传限高令新政",
+      "onboard_time": 1733987121,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 38326,
       "num": 245645,
       "word": "唐钱婷100蛙第三晋级半决赛",
@@ -14947,6 +14979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33638,
+      "num": 388303,
+      "word": "2024哪句台词最戳你",
+      "onboard_time": 1733987599,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33598,
       "num": 45216,
       "word": "布达佩斯短池世锦赛赛程",
@@ -15129,14 +15169,6 @@
       "onboard_time": 1733721619,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31668,
-      "num": 526758,
-      "word": "最高法辟谣网传限高令新政",
-      "onboard_time": 1733987121,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 31499,
@@ -15419,6 +15451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25466,
+      "num": 251655,
+      "word": "ELLEMEN新青年田嘉瑞周年刊封面",
+      "onboard_time": 1733982140,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -15603,14 +15643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 22622,
-      "num": 251038,
-      "word": "ELLEMEN新青年田嘉瑞周年刊封面",
-      "onboard_time": 1733982140,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 22449,
       "num": 34295,
       "word": "浙江发现两栖动物新物种",
@@ -15728,14 +15760,6 @@
       "word": "九重紫前夫哥重生还是渣男",
       "onboard_time": 1733745381,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20614,
-      "num": 388303,
-      "word": "2024哪句台词最戳你",
-      "onboard_time": 1733987599,
-      "rank": 19,
       "category": "剧集"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1733989100951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221047,
+        "num": 1221047,
+        "word": "百万网红被曝疑做不正当职业",
+        "onboard_time": 1733986940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2847351,
+        "num": 1213061,
+        "word": "江歌妈妈拒绝公开捐款明细",
+        "onboard_time": 1733986100,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47622,
+        "num": 1093653,
+        "word": "11月汽车产销环比同比双增长",
+        "onboard_time": 1733973260,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1053656,
+        "num": 1053656,
+        "word": "远嫁日本女子得知家人在找自己哭了",
+        "onboard_time": 1733985799,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 891904,
+        "num": 891904,
+        "word": "李行亮哭着和麦琳表白",
+        "onboard_time": 1733981720,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581006,
+        "num": 581006,
+        "word": "未休年假按300%工资补偿",
+        "onboard_time": 1733975180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 725996,
+        "num": 577860,
+        "word": "葛夕留几手未婚先孕",
+        "onboard_time": 1733988139,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 717338,
+        "num": 567996,
+        "word": "赛琳娜宣布订婚",
+        "onboard_time": 1733980281,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553409,
+        "num": 553409,
+        "word": "个人养老金",
+        "onboard_time": 1733975599,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469852,
+        "num": 469852,
+        "word": "荆州飞机",
+        "onboard_time": 1733983279,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911292,
+        "num": 460040,
+        "word": "宋佳 王伟",
+        "onboard_time": 1733987301,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443959,
+        "num": 443959,
+        "word": "TF口红 恋与深空",
+        "onboard_time": 1733984179,
+        "rank": 11,
+        "category": "美妆,游戏"
+      },
+      {
+        "raw_hot": 442300,
+        "num": 442300,
+        "word": "车银优和赵韩樱子朋友",
+        "onboard_time": 1733988441,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436285,
+        "num": 436285,
+        "word": "黄圣依也blue了",
+        "onboard_time": 1733985620,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426495,
+        "num": 426495,
+        "word": "谢谢亚轩",
+        "onboard_time": 1733984241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38361,
+        "num": 382739,
+        "word": "最高法辟谣网传限高令新政",
+        "onboard_time": 1733987121,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 350320,
+        "num": 350320,
+        "word": "iPhone17或改用条形横置摄像",
+        "onboard_time": 1733978121,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330947,
+        "num": 330947,
+        "word": "大妈在胖东来霸占整车果汁收费转让",
+        "onboard_time": 1733982080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160017,
+        "num": 323224,
+        "word": "猎罪图鉴2深渊单元剧",
+        "onboard_time": 1733987420,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33638,
+        "num": 321364,
+        "word": "2024哪句台词最戳你",
+        "onboard_time": 1733987599,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380158,
+        "num": 321111,
+        "word": "孟子义演技",
+        "onboard_time": 1733983940,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320729,
+        "num": 320729,
+        "word": "考研准考证照片没穿上衣影响大嘛",
+        "onboard_time": 1733986400,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292816,
+        "num": 292816,
+        "word": "杜海涛多亏把壁纸设成沈梦辰了",
+        "onboard_time": 1733983101,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208769,
+        "num": 283006,
+        "word": "西村力澄清",
+        "onboard_time": 1733987720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126476,
+        "num": 282111,
+        "word": "李雯雯真给奶奶买了金镯子",
+        "onboard_time": 1733987960,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281509,
+        "num": 281509,
+        "word": "贵女",
+        "onboard_time": 1733981841,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268508,
+        "num": 268508,
+        "word": "游戏充值19万父亲甩锅6岁儿子",
+        "onboard_time": 1733981660,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185443,
+        "num": 257777,
+        "word": "韩国国会通过尹锡悦内乱普通特检法",
+        "onboard_time": 1733985620,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153251,
+        "num": 253834,
+        "word": "远嫁日本失联女子已找到",
+        "onboard_time": 1733988621,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25466,
+        "num": 251655,
+        "word": "ELLEMEN新青年田嘉瑞周年刊封面",
+        "onboard_time": 1733982140,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250744,
+        "num": 250744,
+        "word": "官方通报一大型无人机坠落起火",
+        "onboard_time": 1733986460,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 233976,
+        "num": 233976,
+        "word": "张庭直播7小时仅卖267万",
+        "onboard_time": 1733967559,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233107,
+        "num": 233107,
+        "word": "极越",
+        "onboard_time": 1733959455,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 230524,
+        "num": 230524,
+        "word": "60岁奶奶20岁身材惊艳网友",
+        "onboard_time": 1733982620,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223532,
+        "num": 223532,
+        "word": "鞠婧祎新公司叫橘事顺利",
+        "onboard_time": 1733972419,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217258,
+        "num": 217258,
+        "word": "白鹿探班敖瑞鹏",
+        "onboard_time": 1733988139,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213110,
+        "num": 213110,
+        "word": "孙颖莎杂志总销售额超740万",
+        "onboard_time": 1733984119,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212825,
+        "num": 212825,
+        "word": "马斯克宣称要把自由女神熔了",
+        "onboard_time": 1733987599,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195355,
+        "num": 195355,
+        "word": "公职人员名下9家公司称身份证丢4次",
+        "onboard_time": 1733987539,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184671,
+        "num": 184671,
+        "word": "荆州一大型无人机在体育场附近坠毁",
+        "onboard_time": 1733984900,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "客服回应苹果相册改回来了",
+        "onboard_time": 1733986758,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181513,
+        "num": 181513,
+        "word": "贵女宣发",
+        "onboard_time": 1733988739,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177281,
+        "num": 177281,
+        "word": "鸭屎香这个名字怎么来的",
+        "onboard_time": 1733981241,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165679,
+        "num": 165679,
+        "word": "极越员工围堵CEO夏一平",
+        "onboard_time": 1733984661,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164389,
+        "num": 164389,
+        "word": "极越留下员工将自费上班",
+        "onboard_time": 1733967198,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150826,
+        "num": 150826,
+        "word": "痘肌女子孕晚期全身爆痘",
+        "onboard_time": 1733970799,
+        "rank": 45,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 146286,
+        "num": 146286,
+        "word": "安倍遗孀要见特朗普",
+        "onboard_time": 1733985681,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "小学同学要结婚了问我全名发请帖",
+        "onboard_time": 1733979922,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141507,
+        "num": 141507,
+        "word": "林高远",
+        "onboard_time": 1733980761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139863,
+        "num": 139863,
+        "word": "快乐再出发",
+        "onboard_time": 1733985980,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民日报中国经济年度观察#"
+    }
+  }
+}
