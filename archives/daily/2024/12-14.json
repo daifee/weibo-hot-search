@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734132185994,
+  "endTime": 1734133061391,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 683733,
+      "num": 926914,
+      "word": "12月15日起全面实施个人养老金制度",
+      "onboard_time": 1734125712,
+      "rank": 49,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 622171,
       "num": 622171,
       "word": "樊振东对战日本选手胸前贴上国旗",
@@ -49,14 +57,6 @@
       "onboard_time": 1734102200,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 544713,
-      "num": 795556,
-      "word": "12月15日起全面实施个人养老金制度",
-      "onboard_time": 1734125712,
-      "rank": 49,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 478369,
@@ -75,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 461854,
+      "num": 147869,
+      "word": "切尔诺贝利周边的狗已变异",
+      "onboard_time": 1734121871,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 447542,
       "num": 332742,
       "word": "爷孙恋女主罕见回应近况",
       "onboard_time": 1734086300,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 416835,
-      "num": 124755,
-      "word": "切尔诺贝利周边的狗已变异",
-      "onboard_time": 1734121871,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 413986,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354522,
+      "num": 354522,
+      "word": "5个爸爸直播跳舞救癌症孩子赚100万",
+      "onboard_time": 1734126671,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321820,
       "num": 321820,
       "word": "现在拨打的电话",
@@ -115,20 +123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292675,
+      "num": 292675,
+      "word": "16岁哥哥得知弟弟患癌1顿饭1块钱",
+      "onboard_time": 1734130393,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283353,
       "num": 283353,
       "word": "曝湖南卫视跨年嘉宾名单",
       "onboard_time": 1734097339,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270145,
-      "num": 270145,
-      "word": "5个爸爸直播跳舞救癌症孩子赚100万",
-      "onboard_time": 1734126671,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 222959,
@@ -155,6 +163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 205758,
+      "num": 205758,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203644,
       "num": 203644,
       "word": "九重紫明晚大婚",
@@ -179,11 +195,11 @@
       "category": "音乐,互联网"
     },
     {
-      "raw_hot": 165654,
-      "num": 165654,
-      "word": "被举报邻居称全家已无人享受低保",
-      "onboard_time": 1734110414,
-      "rank": 48,
+      "raw_hot": 178051,
+      "num": 85087,
+      "word": "92年宝妈已经生了9个娃且还想生",
+      "onboard_time": 1734132134,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -219,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142337,
-      "num": 64709,
-      "word": "92年宝妈已经生了9个娃且还想生",
-      "onboard_time": 1734132134,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132358,
       "num": 132358,
       "word": "王楚钦想给观众买含片",
       "onboard_time": 1734100400,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131709,
-      "num": 131709,
-      "word": "16岁哥哥得知弟弟患癌1顿饭1块钱",
-      "onboard_time": 1734130393,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131119,
@@ -259,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125309,
+      "num": 125309,
+      "word": "车主提车仅一天遇极越崩盘",
+      "onboard_time": 1734118572,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123879,
       "num": 123879,
       "word": "节俭一生的妈妈唯一没打包的菜",
       "onboard_time": 1734079639,
       "rank": 26,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 122508,
+      "num": 122508,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121763,
@@ -289,6 +305,14 @@
       "onboard_time": 1734088220,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108752,
+      "num": 108752,
+      "word": "九重紫买下了戏文说版权",
+      "onboard_time": 1734132194,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 108028,
@@ -323,6 +347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 103887,
+      "num": 148651,
+      "word": "看3个部位就能辨别气血是否充足",
+      "onboard_time": 1734130393,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103274,
       "num": 103274,
       "word": "王楚钦vs安宰贤",
@@ -331,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101893,
-      "num": 101893,
-      "word": "被抱养37年拒认亲女子发声",
-      "onboard_time": 1734113952,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 99867,
+      "num": 85037,
+      "word": "四六级",
+      "onboard_time": 1734132675,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 98449,
@@ -411,20 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88012,
-      "num": 88012,
-      "word": "车主提车仅一天遇极越崩盘",
-      "onboard_time": 1734118572,
-      "rank": 6,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 85596,
       "num": 85596,
       "word": "一起看双子座流星雨直播",
       "onboard_time": 1734102859,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85190,
+      "num": 85190,
+      "word": "蔡明看杨子的表情",
+      "onboard_time": 1734098901,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 85184,
@@ -451,20 +483,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77250,
+      "num": 77250,
+      "word": "中央敲定明年财政支出重点",
+      "onboard_time": 1734119651,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 75497,
+      "num": 75497,
+      "word": "网红老师曝被前夫爸爸家暴殴打",
+      "onboard_time": 1734132134,
+      "rank": 46,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 74755,
+      "num": 74755,
+      "word": "全国实施个人养老金个人所得税优惠政策",
+      "onboard_time": 1734127692,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73257,
       "num": 79978,
       "word": "被抱养37年女子称磕头是诀别不是认亲",
       "onboard_time": 1734113832,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71239,
-      "num": 64508,
-      "word": "蔡明看杨子的表情",
-      "onboard_time": 1734098901,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 68115,
@@ -475,12 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61278,
-      "num": 61278,
-      "word": "中央敲定明年财政支出重点",
-      "onboard_time": 1734119651,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 66129,
+      "num": 66129,
+      "word": "2024下半年四六级考试",
+      "onboard_time": 1734132134,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 64999,
+      "num": 68886,
+      "word": "留几手念婚姻承诺书时葛夕哭了",
+      "onboard_time": 1734130273,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62483,
+      "num": 62483,
+      "word": "这些水果其实是高糖刺客",
+      "onboard_time": 1734132916,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 59384,
@@ -491,36 +555,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 52342,
-      "num": 67711,
-      "word": "看3个部位就能辨别气血是否充足",
-      "onboard_time": 1734130393,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 54298,
+      "num": 54298,
+      "word": "公司活动订了三锅糖水",
+      "onboard_time": 1734132916,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
-      "raw_hot": 50645,
-      "num": 50645,
-      "word": "全国实施个人养老金个人所得税优惠政策",
-      "onboard_time": 1734127692,
-      "rank": 33,
+      "raw_hot": 51330,
+      "num": 52828,
+      "word": "细菌战受害者伤口80多年没完全愈合",
+      "onboard_time": 1734115633,
+      "rank": 29,
       "category": "国内时政"
     },
     {
-      "raw_hot": 47868,
-      "num": 47868,
-      "word": "留几手念婚姻承诺书时葛夕哭了",
-      "onboard_time": 1734130273,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 45925,
-      "num": 45925,
-      "word": "2024下半年四六级考试",
-      "onboard_time": 1734132134,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 48767,
+      "num": 61320,
+      "word": "赵丽颖黑粉说自我检讨和忏悔",
+      "onboard_time": 1734130933,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 45861,
@@ -537,14 +593,6 @@
       "onboard_time": 1734109574,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44089,
-      "num": 52828,
-      "word": "细菌战受害者伤口80多年没完全愈合",
-      "onboard_time": 1734115633,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44037,
@@ -571,12 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41968,
-      "num": 61320,
-      "word": "赵丽颖黑粉说自我检讨和忏悔",
-      "onboard_time": 1734130933,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 41699,
+      "num": 41699,
+      "word": "马嘉祺清唱蜉蝣和蜚蜚",
+      "onboard_time": 1734093739,
+      "rank": 42,
+      "category": "音乐,演出"
     },
     {
       "raw_hot": 41026,
@@ -595,12 +643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35637,
-      "num": 35637,
-      "word": "马嘉祺清唱蜉蝣和蜚蜚",
-      "onboard_time": 1734093739,
-      "rank": 42,
-      "category": "音乐,演出"
+      "raw_hot": 36111,
+      "num": 36111,
+      "word": "六姐妹仨人确诊乳腺癌不敢相信",
+      "onboard_time": 1734090019,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35084,
@@ -611,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34031,
-      "num": 34031,
-      "word": "网红老师曝被前夫爸爸家暴殴打",
-      "onboard_time": 1734132134,
-      "rank": 46,
-      "category": "民生新闻,网红"
+      "raw_hot": 32270,
+      "num": 533043,
+      "word": "2025年经济工作怎么干",
+      "onboard_time": 1734099320,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32033,
@@ -649,14 +697,6 @@
       "onboard_time": 1734131113,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 28012,
-      "num": 533043,
-      "word": "2025年经济工作怎么干",
-      "onboard_time": 1734099320,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20329,
