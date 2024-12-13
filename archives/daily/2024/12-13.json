@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734088817588,
+  "endTime": 1734089762748,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1073036,
+      "num": 397073,
+      "word": "爷孙恋女主罕见回应近况",
+      "onboard_time": 1734086300,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 995660,
       "num": 691916,
       "word": "Epic 问号",
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 723388,
-      "num": 374901,
-      "word": "爷孙恋女主罕见回应近况",
-      "onboard_time": 1734086300,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 718185,
       "num": 718185,
       "word": "4399机器人",
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 668748,
-      "num": 523417,
+      "num": 632510,
       "word": "韩剧为怀孕演员改剧本",
       "onboard_time": 1734085039,
       "rank": 33,
@@ -361,6 +361,14 @@
       "onboard_time": 1734049938,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586770,
+      "num": 533320,
+      "word": "姜涛近照",
+      "onboard_time": 1734084318,
+      "rank": 15,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 584563,
@@ -435,6 +443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 551633,
+      "num": 484806,
+      "word": "白鹿也要坐昭昭墨墨主桌",
+      "onboard_time": 1734088220,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 550105,
       "num": 550105,
       "word": "多少网红倒在了2024年",
@@ -473,14 +489,6 @@
       "onboard_time": 1734028151,
       "rank": 43,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 533320,
-      "num": 533320,
-      "word": "姜涛近照",
-      "onboard_time": 1734084318,
-      "rank": 15,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 528752,
@@ -587,12 +595,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 450571,
+      "num": 345442,
+      "word": "女子陪妹妹复查乳腺自己也查出癌症",
+      "onboard_time": 1734086478,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 446057,
       "num": 402245,
       "word": "原来美容院偷偷给我涂了素颜霜",
       "onboard_time": 1734066679,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 442497,
+      "num": 442497,
+      "word": "微信多收10元收费站3人被停职",
+      "onboard_time": 1734088399,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 423724,
@@ -617,6 +641,14 @@
       "onboard_time": 1734013461,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411326,
+      "num": 411326,
+      "word": "日本人说731部队比纳粹更残忍",
+      "onboard_time": 1734084918,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 403069,
@@ -691,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345442,
-      "num": 345442,
-      "word": "女子陪妹妹复查乳腺自己也查出癌症",
-      "onboard_time": 1734086478,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 344621,
+      "num": 344621,
+      "word": "李佳琦直播卖货每件能赚几十元",
+      "onboard_time": 1734088220,
+      "rank": 32,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 343816,
@@ -761,14 +793,6 @@
       "onboard_time": 1734078499,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 323662,
-      "num": 323662,
-      "word": "日本人说731部队比纳粹更残忍",
-      "onboard_time": 1734084918,
-      "rank": 31,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 320165,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1734021018,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 250387,
-      "num": 250387,
-      "word": "白鹿也要坐昭昭墨墨主桌",
-      "onboard_time": 1734088220,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 247602,
@@ -1339,6 +1355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192887,
+      "num": 192887,
+      "word": "我是刑警",
+      "onboard_time": 1734088578,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "百万网红被曝疑做不正当职业",
@@ -1532,7 +1556,7 @@
     },
     {
       "raw_hot": 171688,
-      "num": 171688,
+      "num": 269928,
       "word": "我是刑警28年大案凶手被抓",
       "onboard_time": 1734087138,
       "rank": 31,
@@ -1579,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168124,
-      "num": 168124,
-      "word": "李佳琦直播卖货每件能赚几十元",
-      "onboard_time": 1734088220,
-      "rank": 32,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 167769,
       "num": 167769,
       "word": "DNF开放世界新作",
@@ -1628,7 +1644,7 @@
     },
     {
       "raw_hot": 161561,
-      "num": 161561,
+      "num": 228014,
       "word": "赛尔号",
       "onboard_time": 1734087859,
       "rank": 33,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1734082218,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159770,
+      "num": 159770,
+      "word": "迪丽热巴陈飞宇慕胥辞初遇名场面",
+      "onboard_time": 1734089299,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 159731,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1734078679,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154902,
+      "num": 154902,
+      "word": "徐静雨怒批TGA",
+      "onboard_time": 1734088280,
+      "rank": 45,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 154224,
@@ -1819,14 +1851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 144075,
-      "num": 144075,
-      "word": "我是刑警",
-      "onboard_time": 1734088578,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143308,
       "num": 143308,
       "word": "冰雪大世界给小土豆建暖廊",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1734053300,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136706,
-      "num": 136706,
-      "word": "微信多收10元收费站3人被停职",
-      "onboard_time": 1734088399,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135748,
@@ -2011,8 +2027,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123959,
-      "num": 123959,
+      "raw_hot": 124950,
+      "num": 124950,
       "word": "从小看TVB的人吃的都是细糠",
       "onboard_time": 1734086300,
       "rank": 44,
@@ -2035,28 +2051,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119367,
+      "num": 377958,
+      "word": "女子被骗27万又被洗脑要赶走民警",
+      "onboard_time": 1734087319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118484,
       "num": 118484,
       "word": "成毅赴山海预排明年Q2播出",
       "onboard_time": 1734084137,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117755,
-      "num": 117755,
-      "word": "徐静雨怒批TGA",
-      "onboard_time": 1734088280,
-      "rank": 45,
-      "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 115946,
-      "num": 377958,
-      "word": "女子被骗27万又被洗脑要赶走民警",
-      "onboard_time": 1734087319,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115132,
@@ -2131,12 +2139,20 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 110446,
+      "raw_hot": 110491,
       "num": 258366,
       "word": "李昀锐早期女团舞视频",
       "onboard_time": 1734086478,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108876,
+      "num": 108876,
+      "word": "巴音布鲁克气温零下42.5摄氏度",
+      "onboard_time": 1734088459,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107032,
@@ -2179,11 +2195,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102296,
+      "num": 102296,
+      "word": "代号鸢 初心",
+      "onboard_time": 1734089718,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101515,
       "num": 381297,
       "word": "泰星吉拉宇婚纱照",
       "onboard_time": 1734069919,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100962,
+      "num": 269182,
+      "word": "追女明星的幸福感",
+      "onboard_time": 1734088159,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -2297,6 +2329,14 @@
       "onboard_time": 1733980281,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84703,
+      "num": 193772,
+      "word": "樊振东vs松岛辉空",
+      "onboard_time": 1734089058,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 83525,
@@ -2635,6 +2675,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 30574,
+      "num": 199570,
+      "word": "吕燕办公室ootd",
+      "onboard_time": 1734088879,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 30511,
       "num": 338369,
       "word": "辩护人回应李铁庭审状态",
@@ -2697,14 +2745,6 @@
       "onboard_time": 1734023593,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24230,
-      "num": 249164,
-      "word": "追女明星的幸福感",
-      "onboard_time": 1734088159,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 22471,
@@ -2809,6 +2849,22 @@
       "onboard_time": 1734034031,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12272,
+      "num": 99763,
+      "word": "刚到吉林就遇到五级雾凇盛景",
+      "onboard_time": 1734089299,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 11941,
+      "num": 352500,
+      "word": "中小学生沉迷烟卡游戏该不该管",
+      "onboard_time": 1734089540,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11874,

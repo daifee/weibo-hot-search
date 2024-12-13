@@ -1,0 +1,410 @@
+{
+  "runTime": 1734089762748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 900021,
+        "num": 1144003,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 0,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 820116,
+        "num": 820116,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 1,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 42425,
+        "num": 704315,
+        "word": "祭忆之花将历史记忆与和平愿景相连",
+        "onboard_time": 1734079579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632510,
+        "num": 632510,
+        "word": "韩剧为怀孕演员改剧本",
+        "onboard_time": 1734085039,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603668,
+        "num": 603668,
+        "word": "硕士论文写导生关系被下载10万次",
+        "onboard_time": 1734082458,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497891,
+        "num": 497891,
+        "word": "百度吉利联合声明",
+        "onboard_time": 1734083118,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 570483,
+        "num": 494148,
+        "word": "九重紫",
+        "onboard_time": 1734083838,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551633,
+        "num": 484806,
+        "word": "白鹿也要坐昭昭墨墨主桌",
+        "onboard_time": 1734088220,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442497,
+        "num": 442497,
+        "word": "微信多收10元收费站3人被停职",
+        "onboard_time": 1734088399,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411326,
+        "num": 411326,
+        "word": "日本人说731部队比纳粹更残忍",
+        "onboard_time": 1734084918,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1073036,
+        "num": 397073,
+        "word": "爷孙恋女主罕见回应近况",
+        "onboard_time": 1734086300,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 586770,
+        "num": 390985,
+        "word": "姜涛近照",
+        "onboard_time": 1734084318,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 416742,
+        "num": 385189,
+        "word": "天仙还是那个天仙 董永变大郎",
+        "onboard_time": 1734083178,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367010,
+        "num": 367010,
+        "word": "哈尔滨姑娘杭州出差闯大祸险丢工作",
+        "onboard_time": 1734087078,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11941,
+        "num": 352500,
+        "word": "中小学生沉迷烟卡游戏该不该管",
+        "onboard_time": 1734089540,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 344621,
+        "num": 344621,
+        "word": "李佳琦直播卖货每件能赚几十元",
+        "onboard_time": 1734088220,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 329408,
+        "num": 329408,
+        "word": "欧阳震华首位提名艾美奖华人演员",
+        "onboard_time": 1734085159,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270586,
+        "num": 270586,
+        "word": "TGA官推被中国玩家攻占",
+        "onboard_time": 1734078378,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114403,
+        "num": 269928,
+        "word": "我是刑警28年大案凶手被抓",
+        "onboard_time": 1734087138,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100962,
+        "num": 269182,
+        "word": "追女明星的幸福感",
+        "onboard_time": 1734088159,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1209115,
+        "num": 268570,
+        "word": "王妃网红们集体删视频退网",
+        "onboard_time": 1734077839,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 450571,
+        "num": 268213,
+        "word": "女子陪妹妹复查乳腺自己也查出癌症",
+        "onboard_time": 1734086478,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267667,
+        "num": 267667,
+        "word": "美国有人想对中国产大蒜发起301调查",
+        "onboard_time": 1734081799,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260644,
+        "num": 260644,
+        "word": "多少网红倒在了2024年",
+        "onboard_time": 1734081199,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152959,
+        "num": 228014,
+        "word": "赛尔号",
+        "onboard_time": 1734087859,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213306,
+        "num": 213306,
+        "word": "C榜考虑封杀NewJeans",
+        "onboard_time": 1734083060,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207587,
+        "num": 207587,
+        "word": "猎罪图鉴2 被嫌弃的松子",
+        "onboard_time": 1734082339,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30574,
+        "num": 199570,
+        "word": "吕燕办公室ootd",
+        "onboard_time": 1734088879,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 84703,
+        "num": 193772,
+        "word": "樊振东vs松岛辉空",
+        "onboard_time": 1734089058,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192887,
+        "num": 192887,
+        "word": "我是刑警",
+        "onboard_time": 1734088578,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169510,
+        "num": 169510,
+        "word": "大蒜做梦也没想到能对美构成极大威胁",
+        "onboard_time": 1734078138,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165552,
+        "num": 165552,
+        "word": "樊振东直发打成卷发",
+        "onboard_time": 1734081678,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 163261,
+        "word": "气血不足的人要多去KTV唱歌",
+        "onboard_time": 1734073219,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159770,
+        "num": 159770,
+        "word": "迪丽热巴陈飞宇慕胥辞初遇名场面",
+        "onboard_time": 1734089299,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154902,
+        "num": 154902,
+        "word": "徐静雨怒批TGA",
+        "onboard_time": 1734088280,
+        "rank": 34,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 142314,
+        "num": 142314,
+        "word": "肖战专辑我们四首歌获认证",
+        "onboard_time": 1734087859,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138247,
+        "num": 138247,
+        "word": "明年养老金将适当提高",
+        "onboard_time": 1734082339,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 137806,
+        "num": 137806,
+        "word": "王楚钦和3个左手队友同台",
+        "onboard_time": 1734087019,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130993,
+        "num": 130993,
+        "word": "明天四六级",
+        "onboard_time": 1734086239,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128055,
+        "num": 128055,
+        "word": "中国帅哥被马来西亚阿姨紧抓不放",
+        "onboard_time": 1734084679,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124950,
+        "num": 124950,
+        "word": "从小看TVB的人吃的都是细糠",
+        "onboard_time": 1734086300,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "博德之门3因TGA遭大量差评",
+        "onboard_time": 1734083838,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 119367,
+        "word": "女子被骗27万又被洗脑要赶走民警",
+        "onboard_time": 1734087319,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115735,
+        "num": 115735,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052159,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "当韩国人第一次吃西湖醋鱼",
+        "onboard_time": 1734087739,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110491,
+        "num": 110491,
+        "word": "李昀锐早期女团舞视频",
+        "onboard_time": 1734086478,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108876,
+        "num": 108876,
+        "word": "巴音布鲁克气温零下42.5摄氏度",
+        "onboard_time": 1734088459,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102296,
+        "num": 102296,
+        "word": "代号鸢 初心",
+        "onboard_time": 1734089718,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101179,
+        "num": 101179,
+        "word": "外交部回应美政客中国大蒜威胁极大论",
+        "onboard_time": 1734078080,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12272,
+        "num": 99763,
+        "word": "刚到吉林就遇到五级雾凇盛景",
+        "onboard_time": 1734089299,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看中央经济工作会议要点#"
+    }
+  }
+}
