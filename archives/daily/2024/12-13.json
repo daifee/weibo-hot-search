@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734097421610,
+  "endTime": 1734099758972,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -49,6 +49,14 @@
       "onboard_time": 1734013642,
       "rank": 0,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 2028264,
+      "num": 2028264,
+      "word": "艺考前十天被抱摔骨折",
+      "onboard_time": 1734095780,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1545541,
@@ -203,14 +211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 975920,
-      "num": 975920,
-      "word": "艺考前十天被抱摔骨折",
-      "onboard_time": 1734095780,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 968003,
       "num": 968003,
       "word": "硕士论文写导生关系被下载10万次",
@@ -289,6 +289,14 @@
       "onboard_time": 1734061038,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 790030,
+      "num": 790030,
+      "word": "曝湖南卫视跨年嘉宾名单",
+      "onboard_time": 1734097339,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 774348,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 516991,
+      "num": 516991,
+      "word": "代号鸢 小萌",
+      "onboard_time": 1734097399,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 500541,
       "num": 500541,
       "word": "TGA官推被中国玩家攻占",
@@ -691,6 +707,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 445538,
+      "num": 445538,
+      "word": "偶遇汪峰女友森林北",
+      "onboard_time": 1734096140,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 428384,
+      "num": 428384,
+      "word": "白色橄榄树难哄对打",
+      "onboard_time": 1734097879,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423724,
       "num": 363341,
       "word": "61岁男子吃未焯水菠菜后肾衰竭",
@@ -723,6 +755,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 408033,
+      "num": 587809,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734054260,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403069,
       "num": 403069,
       "word": "樊振东直发打成卷发",
@@ -753,14 +793,6 @@
       "onboard_time": 1734051559,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385662,
-      "num": 587809,
-      "word": "现在拨打的电话",
-      "onboard_time": 1734054260,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 385644,
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357471,
+      "num": 357471,
+      "word": "我是刑警大结局",
+      "onboard_time": 1734098541,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344621,
       "num": 344621,
       "word": "李佳琦直播卖货每件能赚几十元",
@@ -857,6 +897,14 @@
       "onboard_time": 1734071600,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 331091,
+      "num": 331091,
+      "word": "香港偶遇费曼",
+      "onboard_time": 1734096260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 329941,
@@ -923,6 +971,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315000,
+      "num": 315000,
+      "word": "为什么很多年轻人得尿毒症",
+      "onboard_time": 1734095780,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 310236,
+      "num": 333937,
+      "word": "金玟庭发泡泡报平安",
+      "onboard_time": 1734095539,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308840,
+      "num": 308840,
+      "word": "代号鸢",
+      "onboard_time": 1734050898,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 308828,
       "num": 171961,
       "word": "37岁主持人因书房着火去世",
@@ -947,14 +1019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305067,
-      "num": 305067,
-      "word": "偶遇汪峰女友森林北",
-      "onboard_time": 1734096140,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305034,
       "num": 399852,
       "word": "单人游戏拿了最佳家庭游戏奖",
@@ -968,6 +1032,14 @@
       "word": "女子被抱养37年拒认亲磕头谢生恩",
       "onboard_time": 1734062300,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304477,
+      "num": 304477,
+      "word": "女子长期过度节食体重仅24公斤",
+      "onboard_time": 1734096319,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1024,14 +1096,6 @@
       "word": "张峻豪公式照",
       "onboard_time": 1734078017,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 293412,
-      "num": 293412,
-      "word": "香港偶遇费曼",
-      "onboard_time": 1734096260,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1099,12 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271869,
-      "num": 271869,
-      "word": "为什么很多年轻人得尿毒症",
-      "onboard_time": 1734095780,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 271967,
+      "num": 494708,
+      "word": "2斤黄金无人认领上缴国库",
+      "onboard_time": 1734095599,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270063,
@@ -1171,22 +1235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 250543,
-      "num": 250543,
-      "word": "代号鸢",
-      "onboard_time": 1734050898,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 250484,
-      "num": 333937,
-      "word": "金玟庭发泡泡报平安",
-      "onboard_time": 1734095539,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247602,
       "num": 247602,
       "word": "远嫁日本女子独居受伤休养半年",
@@ -1235,12 +1283,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242878,
+      "num": 242878,
+      "word": "陶喆 我不是鸭王",
+      "onboard_time": 1734098181,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
       "onboard_time": 1734017300,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 238008,
+      "num": 238008,
+      "word": "多位LPL选手被迫休息",
+      "onboard_time": 1734098299,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 237478,
@@ -1491,14 +1555,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 201663,
-      "num": 201663,
-      "word": "女子长期过度节食体重仅24公斤",
-      "onboard_time": 1734096319,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199613,
       "num": 433537,
       "word": "小丑牌获TGA最佳独立处女作",
@@ -1707,6 +1763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "韩路 23万极越车如今只值2万",
+      "onboard_time": 1734095060,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177239,
       "num": 260801,
       "word": "粉笔四六级崩了",
@@ -1745,14 +1809,6 @@
       "onboard_time": 1734080238,
       "rank": 41,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 174135,
-      "num": 174135,
-      "word": "韩路 23万极越车如今只值2万",
-      "onboard_time": 1734095060,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 173483,
@@ -1825,14 +1881,6 @@
       "onboard_time": 1734039432,
       "rank": 49,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 170269,
-      "num": 202351,
-      "word": "2斤黄金无人认领上缴国库",
-      "onboard_time": 1734095599,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170144,
@@ -1971,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159353,
+      "num": 228462,
+      "word": "赵丽颖黑粉拍视频致歉",
+      "onboard_time": 1734095839,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159208,
       "num": 414537,
       "word": "这些数字是南京大屠杀的铁证",
@@ -2059,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152463,
+      "num": 304850,
+      "word": "四六级加油海报",
+      "onboard_time": 1734098541,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152402,
       "num": 393824,
       "word": "吉林一工人凌晨遇老虎急忙上车避险",
@@ -2107,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148987,
+      "num": 346111,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148906,
       "num": 378809,
       "word": "杨子婚姻承诺书",
@@ -2147,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 145609,
-      "num": 145609,
-      "word": "代号鸢 小萌",
-      "onboard_time": 1734097399,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 144866,
       "num": 214852,
       "word": "不会翻面",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1734009440,
       "rank": 18,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 142381,
+      "num": 145993,
+      "word": "蔡明看杨子的表情",
+      "onboard_time": 1734098901,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 142012,
@@ -2259,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140390,
+      "num": 140390,
+      "word": "华晨宇 不重逢",
+      "onboard_time": 1734098840,
+      "rank": 42,
+      "category": "演出,演出"
+    },
+    {
       "raw_hot": 139026,
       "num": 447930,
       "word": "明年经济工作有一个鲜明的关键词",
@@ -2323,6 +2403,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132951,
+      "num": 305809,
+      "word": "74岁谭咏麟病后状态",
+      "onboard_time": 1734097701,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132434,
+      "num": 484664,
+      "word": "代孕机构称可供客户选名校供卵者",
+      "onboard_time": 1734098719,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 132357,
       "num": 324099,
       "word": "很普通却能对抗炎症的食物",
@@ -2345,6 +2441,14 @@
       "onboard_time": 1734070219,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "双子座流星雨",
+      "onboard_time": 1734099020,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129233,
@@ -2417,14 +2521,6 @@
       "onboard_time": 1734084137,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118069,
-      "num": 174710,
-      "word": "曝湖南卫视跨年嘉宾名单",
-      "onboard_time": 1734097339,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 115132,
@@ -2656,14 +2752,6 @@
       "word": "李昀锐 薄肌",
       "onboard_time": 1734007699,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 92705,
-      "num": 228462,
-      "word": "赵丽颖黑粉拍视频致歉",
-      "onboard_time": 1734095839,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2971,14 +3059,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 52725,
-      "num": 346111,
-      "word": "黑神话悟空发博回应获奖",
-      "onboard_time": 1734096500,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 52230,
       "num": 369412,
       "word": "枪杀CEO的他为何被美国人捧为英雄",
@@ -3209,6 +3289,14 @@
       "onboard_time": 1734069618,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25411,
+      "num": 799645,
+      "word": "2025年经济工作怎么干",
+      "onboard_time": 1734099320,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25077,

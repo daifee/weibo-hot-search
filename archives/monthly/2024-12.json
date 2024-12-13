@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734097421610,
+  "endTime": 1734099758972,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -593,6 +593,14 @@
       "onboard_time": 1732970719,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2028264,
+      "num": 2028264,
+      "word": "艺考前十天被抱摔骨折",
+      "onboard_time": 1734095780,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1985544,
@@ -2819,14 +2827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 975920,
-      "num": 975920,
-      "word": "艺考前十天被抱摔骨折",
-      "onboard_time": 1734095780,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 974629,
       "num": 974629,
       "word": "Gemini当爸爸了",
@@ -4009,6 +4009,14 @@
       "onboard_time": 1733992760,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 790030,
+      "num": 790030,
+      "word": "曝湖南卫视跨年嘉宾名单",
+      "onboard_time": 1734097339,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 788291,
@@ -7235,6 +7243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 516991,
+      "num": 516991,
+      "word": "代号鸢 小萌",
+      "onboard_time": 1734097399,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 516602,
       "num": 380976,
       "word": "迪丽热巴好像装了躲避雷达",
@@ -8667,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 445538,
+      "num": 445538,
+      "word": "偶遇汪峰女友森林北",
+      "onboard_time": 1734096140,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444919,
       "num": 444919,
       "word": "遭性侵身亡女生的母亲希望判凶手死刑",
@@ -9081,6 +9105,14 @@
       "onboard_time": 1733614094,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 428384,
+      "num": 428384,
+      "word": "白色橄榄树难哄对打",
+      "onboard_time": 1734097879,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 428171,
@@ -9619,6 +9651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408033,
+      "num": 587809,
+      "word": "现在拨打的电话",
+      "onboard_time": 1733367859,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407053,
       "num": 300573,
       "word": "国家大剧院",
@@ -10121,14 +10161,6 @@
       "onboard_time": 1733529256,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385662,
-      "num": 587809,
-      "word": "现在拨打的电话",
-      "onboard_time": 1733367859,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 385429,
@@ -10905,6 +10937,14 @@
       "onboard_time": 1733499081,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357471,
+      "num": 357471,
+      "word": "我是刑警大结局",
+      "onboard_time": 1734098541,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 356918,
@@ -11691,6 +11731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 331091,
+      "num": 331091,
+      "word": "香港偶遇费曼",
+      "onboard_time": 1734096260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331025,
       "num": 331025,
       "word": "张若昀没案硬探",
@@ -12291,6 +12339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315000,
+      "num": 315000,
+      "word": "为什么很多年轻人得尿毒症",
+      "onboard_time": 1734095780,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314624,
       "num": 314624,
       "word": "毛雪汪官宣徐明浩",
@@ -12427,12 +12483,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310236,
+      "num": 333937,
+      "word": "金玟庭发泡泡报平安",
+      "onboard_time": 1734095539,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309394,
       "num": 309394,
       "word": "名字含冰冰或雪雪可免费玩冰雪大世界",
       "onboard_time": 1733402120,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 308840,
+      "num": 308840,
+      "word": "代号鸢",
+      "onboard_time": 1733200942,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 308293,
@@ -12571,14 +12643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305067,
-      "num": 305067,
-      "word": "偶遇汪峰女友森林北",
-      "onboard_time": 1734096140,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305034,
       "num": 399852,
       "word": "单人游戏拿了最佳家庭游戏奖",
@@ -12608,6 +12672,14 @@
       "word": "女子被抱养37年拒认亲磕头谢生恩",
       "onboard_time": 1734062300,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304477,
+      "num": 304477,
+      "word": "女子长期过度节食体重仅24公斤",
+      "onboard_time": 1734096319,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -12955,14 +13027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295827,
-      "num": 295827,
-      "word": "代号鸢",
-      "onboard_time": 1733200942,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 295625,
       "num": 295625,
       "word": "鸭屎香这个名字怎么来的",
@@ -13041,14 +13105,6 @@
       "onboard_time": 1733621598,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293412,
-      "num": 293412,
-      "word": "香港偶遇费曼",
-      "onboard_time": 1734096260,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 293222,
@@ -13923,12 +13979,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 271869,
-      "num": 271869,
-      "word": "为什么很多年轻人得尿毒症",
-      "onboard_time": 1734095780,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 271967,
+      "num": 494708,
+      "word": "2斤黄金无人认领上缴国库",
+      "onboard_time": 1734095599,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271862,
@@ -14867,14 +14923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250484,
-      "num": 333937,
-      "word": "金玟庭发泡泡报平安",
-      "onboard_time": 1734095539,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250303,
       "num": 328284,
       "word": "陈紫函戴向宇婚礼八周年",
@@ -15347,6 +15395,14 @@
       "category": "国际时政,民生新闻"
     },
     {
+      "raw_hot": 242878,
+      "num": 242878,
+      "word": "陶喆 我不是鸭王",
+      "onboard_time": 1734098181,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242865,
       "num": 614027,
       "word": "蔡国强回应烟花秀无人机坠海",
@@ -15665,6 +15721,14 @@
       "onboard_time": 1733545941,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238008,
+      "num": 238008,
+      "word": "多位LPL选手被迫休息",
+      "onboard_time": 1734098299,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 237903,
@@ -18793,14 +18857,6 @@
       "onboard_time": 1733813782,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201663,
-      "num": 201663,
-      "word": "女子长期过度节食体重仅24公斤",
-      "onboard_time": 1734096319,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201587,
@@ -22339,6 +22395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "韩路 23万极越车如今只值2万",
+      "onboard_time": 1734095060,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 177374,
       "num": 611594,
       "word": "孙龙500米金牌",
@@ -22801,14 +22865,6 @@
       "onboard_time": 1734080238,
       "rank": 41,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 174135,
-      "num": 174135,
-      "word": "韩路 23万极越车如今只值2万",
-      "onboard_time": 1734095060,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 174134,
@@ -23408,14 +23464,6 @@
       "word": "中国考古已是另一个level了",
       "onboard_time": 1734003079,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170269,
-      "num": 202351,
-      "word": "2斤黄金无人认领上缴国库",
-      "onboard_time": 1734095599,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -25051,6 +25099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159353,
+      "num": 228462,
+      "word": "赵丽颖黑粉拍视频致歉",
+      "onboard_time": 1734095839,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159297,
       "num": 159297,
       "word": "向佐秀智合照",
@@ -26243,6 +26299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152463,
+      "num": 304850,
+      "word": "四六级加油海报",
+      "onboard_time": 1734098541,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152450,
       "num": 152450,
       "word": "吴柳芳发博回应网友关注",
@@ -26795,6 +26859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148987,
+      "num": 346111,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148906,
       "num": 378809,
       "word": "杨子婚姻承诺书",
@@ -27299,14 +27371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 145609,
-      "num": 145609,
-      "word": "代号鸢 小萌",
-      "onboard_time": 1734097399,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 145560,
       "num": 239865,
       "word": "中国体育杂志",
@@ -27779,6 +27843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142381,
+      "num": 145993,
+      "word": "蔡明看杨子的表情",
+      "onboard_time": 1734098901,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142275,
       "num": 203596,
       "word": "曝秦霄贤春节后复出",
@@ -28161,6 +28233,14 @@
       "onboard_time": 1734092780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140390,
+      "num": 140390,
+      "word": "华晨宇 不重逢",
+      "onboard_time": 1734098840,
+      "rank": 42,
+      "category": "演出,演出"
     },
     {
       "raw_hot": 140282,
@@ -29307,6 +29387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132951,
+      "num": 305809,
+      "word": "74岁谭咏麟病后状态",
+      "onboard_time": 1734097701,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132746,
       "num": 319603,
       "word": "长沙步行街商贩卖气球被人挨个弄破",
@@ -29361,6 +29449,14 @@
       "onboard_time": 1733586802,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132434,
+      "num": 484664,
+      "word": "代孕机构称可供客户选名校供卵者",
+      "onboard_time": 1734098719,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 132394,
@@ -29769,6 +29865,14 @@
       "onboard_time": 1733768832,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129477,
+      "num": 129477,
+      "word": "双子座流星雨",
+      "onboard_time": 1734099020,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 129285,
@@ -31265,14 +31369,6 @@
       "onboard_time": 1733909540,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118069,
-      "num": 174710,
-      "word": "曝湖南卫视跨年嘉宾名单",
-      "onboard_time": 1734097339,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 118006,
@@ -34345,14 +34441,6 @@
       "onboard_time": 1733736321,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92705,
-      "num": 228462,
-      "word": "赵丽颖黑粉拍视频致歉",
-      "onboard_time": 1734095839,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 92649,
@@ -38937,14 +39025,6 @@
       "onboard_time": 1733037078,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52725,
-      "num": 346111,
-      "word": "黑神话悟空发博回应获奖",
-      "onboard_time": 1734096500,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 52677,
@@ -43561,6 +43641,14 @@
       "onboard_time": 1733982140,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25411,
+      "num": 799645,
+      "word": "2025年经济工作怎么干",
+      "onboard_time": 1734099320,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25372,
