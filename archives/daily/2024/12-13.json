@@ -1,12 +1,12 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734060254290,
+  "endTime": 1734061854041,
   "band_list": [
     {
       "raw_hot": 6094170,
       "num": 7133262,
       "word": "李铁被判20年",
-      "onboard_time": 1734052219,
+      "onboard_time": 1734052159,
       "rank": 0,
       "category": "体育"
     },
@@ -19,6 +19,22 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1717872,
+      "num": 1717872,
+      "word": "3块5泡面档口刺痛了谁的良心",
+      "onboard_time": 1734059419,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1553889,
+      "num": 1553889,
+      "word": "TGA",
+      "onboard_time": 1734047537,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1471467,
       "num": 729984,
       "word": "韩娱地震",
@@ -27,34 +43,26 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1358431,
-      "num": 1358431,
-      "word": "TGA",
-      "onboard_time": 1734047537,
-      "rank": 1,
-      "category": "游戏"
+      "raw_hot": 1328869,
+      "num": 429886,
+      "word": "曝朴彩英与新歌MV男主恋爱",
+      "onboard_time": 1734059059,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1297264,
-      "num": 345028,
+      "num": 423560,
       "word": "美国一聊天机器人暗示孩子杀死父母",
       "onboard_time": 1734056718,
       "rank": 10,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1296511,
-      "num": 345299,
-      "word": "曝朴彩英与新歌MV男主恋爱",
-      "onboard_time": 1734059060,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1232889,
       "num": 1042463,
       "word": "女子被抱养37年生父母找来留10万",
-      "onboard_time": 1734047959,
+      "onboard_time": 1734047958,
       "rank": 3,
       "category": "民生新闻"
     },
@@ -83,12 +91,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 802038,
+      "num": 414279,
+      "word": "确认被爱后面相都变了",
+      "onboard_time": 1734061038,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 755084,
       "num": 912795,
       "word": "内娱第一位洋葱系艺人",
-      "onboard_time": 1734045915,
+      "onboard_time": 1734045914,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 606142,
+      "num": 606142,
+      "word": "尹锡悦一口气批准42项法案及施行令",
+      "onboard_time": 1734060137,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 595778,
@@ -163,8 +187,8 @@
       "category": "财经,国际时政"
     },
     {
-      "raw_hot": 439744,
-      "num": 341586,
+      "raw_hot": 451418,
+      "num": 451418,
       "word": "黑神话悟空中文获奖感言",
       "onboard_time": 1734055999,
       "rank": 41,
@@ -172,9 +196,9 @@
     },
     {
       "raw_hot": 423724,
-      "num": 340496,
+      "num": 363341,
       "word": "61岁男子吃未焯水菠菜后肾衰竭",
-      "onboard_time": 1734056240,
+      "onboard_time": 1734056239,
       "rank": 23,
       "category": "健康医疗"
     },
@@ -185,6 +209,14 @@
       "onboard_time": 1734013461,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402881,
+      "num": 402881,
+      "word": "国家公祭仪式",
+      "onboard_time": 1734056540,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 392563,
@@ -211,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367076,
-      "num": 367076,
-      "word": "3块5泡面档口刺痛了谁的良心",
-      "onboard_time": 1734059419,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 365027,
+      "num": 419984,
+      "word": "南京大屠杀死难者国家公祭日",
+      "onboard_time": 1734059118,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 358305,
@@ -252,19 +284,11 @@
     },
     {
       "raw_hot": 318574,
-      "num": 343023,
+      "num": 436496,
       "word": "夏之光晒爷爷奶奶手牵手背影照",
       "onboard_time": 1734058458,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318362,
-      "num": 345761,
-      "word": "国家公祭仪式",
-      "onboard_time": 1734056540,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308828,
@@ -286,7 +310,7 @@
       "raw_hot": 303895,
       "num": 324633,
       "word": "李铁曾称最憎恨踢假球的人",
-      "onboard_time": 1734058818,
+      "onboard_time": 1734058817,
       "rank": 18,
       "category": "体育"
     },
@@ -295,6 +319,14 @@
       "num": 311584,
       "word": "黑神话悟空",
       "onboard_time": 1734055339,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297411,
+      "num": 297411,
+      "word": "DNF 原神",
+      "onboard_time": 1734060379,
       "rank": 24,
       "category": "游戏"
     },
@@ -411,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245385,
-      "num": 346657,
-      "word": "南京大屠杀死难者国家公祭日",
-      "onboard_time": 1734059118,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 224325,
-      "num": 342458,
+      "num": 391857,
       "word": "宋墨 左牵黄右擎昭",
       "onboard_time": 1734056659,
       "rank": 22,
@@ -465,6 +489,14 @@
       "onboard_time": 1734017779,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221138,
+      "num": 221138,
+      "word": "南京15岁市民冒死保存日军屠城血证",
+      "onboard_time": 1734060558,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 220516,
@@ -483,12 +515,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210513,
+      "num": 289181,
+      "word": "李铁曾忏悔自己活成了最憎恨的样子",
+      "onboard_time": 1734061759,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208062,
+      "num": 208062,
+      "word": "李铁还没被剪头发",
+      "onboard_time": 1734060437,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207921,
       "num": 207921,
       "word": "重庆一野猪冲进饭馆被多名食客抓住",
       "onboard_time": 1734017840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199613,
+      "num": 199613,
+      "word": "小丑牌获TGA最佳独立处女作",
+      "onboard_time": 1734060739,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 197997,
+      "num": 315631,
+      "word": "冯骥露脸了",
+      "onboard_time": 1734059779,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 191855,
@@ -515,14 +579,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188531,
-      "num": 315631,
-      "word": "冯骥露脸了",
-      "onboard_time": 1734059779,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 187521,
       "num": 319331,
       "word": "李现一人徒步鱼子西",
@@ -534,7 +590,7 @@
       "raw_hot": 186781,
       "num": 186781,
       "word": "代号鸢",
-      "onboard_time": 1734052219,
+      "onboard_time": 1734050898,
       "rank": 40,
       "category": "游戏"
     },
@@ -619,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167769,
+      "num": 167769,
+      "word": "DNF开放世界新作",
+      "onboard_time": 1734059779,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166736,
       "num": 135450,
       "word": "有暖气地区的统一睡姿",
@@ -657,14 +721,6 @@
       "onboard_time": 1734055820,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 158563,
-      "num": 158563,
-      "word": "DNF开放世界新作",
-      "onboard_time": 1734059779,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 157274,
@@ -718,7 +774,7 @@
       "raw_hot": 147371,
       "num": 147371,
       "word": "一名厨涉嫌严重职务违法被查",
-      "onboard_time": 1734059060,
+      "onboard_time": 1734059059,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 144727,
-      "num": 144727,
+      "num": 202150,
       "word": "和平宣言响彻南京",
       "onboard_time": 1734059899,
       "rank": 42,
@@ -780,7 +836,7 @@
     },
     {
       "raw_hot": 139026,
-      "num": 161472,
+      "num": 447930,
       "word": "明年经济工作有一个鲜明的关键词",
       "onboard_time": 1734045855,
       "rank": 14,
@@ -793,14 +849,6 @@
       "onboard_time": 1734006619,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138042,
-      "num": 138042,
-      "word": "尹锡悦一口气批准42项法案及施行令",
-      "onboard_time": 1734060137,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 137418,
@@ -875,6 +923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114795,
+      "num": 260019,
+      "word": "韩国投资者涌向黄金市场",
+      "onboard_time": 1734061699,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113320,
       "num": 122439,
       "word": "倪萍把麦琳说懵了",
@@ -929,6 +985,14 @@
       "onboard_time": 1734008660,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97788,
+      "num": 388242,
+      "word": "樊振东vs孙闻",
+      "onboard_time": 1734061278,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 96235,
@@ -1102,7 +1166,7 @@
       "raw_hot": 54689,
       "num": 1042956,
       "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
+      "onboard_time": 1734009738,
       "rank": 2,
       "category": "国内时政"
     },
@@ -1179,6 +1243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26675,
+      "num": 284003,
+      "word": "林高远陈垣宇3比0周雨梁俨苧",
+      "onboard_time": 1734060858,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25077,
       "num": 107382,
       "word": "周深谈配音首秀",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1734030671,
       "rank": 48,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 17699,
+      "num": 285725,
+      "word": "许昕周恺3比1严升夏易正",
+      "onboard_time": 1734061100,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 17196,
@@ -1249,11 +1329,22 @@
       "onboard_time": 1734029832,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 6838,
+      "num": 1635283,
+      "word": "奋进是对历史最好的铭记",
+      "onboard_time": 1734061818,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中央经济工作会议举行#"
+    },
+    {
+      "word": "#明年要抓好9个重点任务#"
     }
   ]
 }
