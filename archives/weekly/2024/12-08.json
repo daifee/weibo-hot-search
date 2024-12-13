@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734094961934,
+  "endTime": 1734096735864,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -571,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1440819,
+      "num": 770402,
+      "word": "董洁因儿子青春期崩溃",
+      "onboard_time": 1734094099,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1435935,
       "num": 350241,
       "word": "疑似超市老板称儿子清华读研不作解释",
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1092718,
+      "num": 1006937,
+      "word": "卵子明码标价最贵达百万",
+      "onboard_time": 1734091339,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1091547,
       "num": 1091547,
       "word": "明知对方是间谍仍泄密获刑10年",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1733993658,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1026697,
-      "num": 1006937,
-      "word": "卵子明码标价最贵达百万",
-      "onboard_time": 1734091339,
-      "rank": 3,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1016875,
@@ -1947,6 +1955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 764113,
+      "num": 764113,
+      "word": "张家界一游客与猴子互殴",
+      "onboard_time": 1734092838,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 763262,
       "num": 763262,
       "word": "5年前的噩梦终于结束了",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1733819540,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 629492,
-      "num": 629492,
-      "word": "张家界一游客与猴子互殴",
-      "onboard_time": 1734092838,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 629272,
@@ -3803,12 +3811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463962,
+      "num": 463962,
+      "word": "QQ音乐回应装扮问题",
+      "onboard_time": 1734094279,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 463948,
       "num": 538309,
       "word": "上海偶遇郑恺苗苗一家",
       "onboard_time": 1733719161,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 463378,
+      "num": 463378,
+      "word": "代孕抓捕现场年轻女性面色很差",
+      "onboard_time": 1734093019,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463113,
@@ -4571,14 +4595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 385532,
-      "num": 385532,
-      "word": "代孕抓捕现场年轻女性面色很差",
-      "onboard_time": 1734093019,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384457,
       "num": 384457,
       "word": "虞书欣零点发文告别凌妙妙",
@@ -4656,6 +4672,14 @@
       "word": "学生称超市老板挤走卖3.5元泡面档口",
       "onboard_time": 1733846717,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379796,
+      "num": 379796,
+      "word": "艺考前十天被抱摔骨折",
+      "onboard_time": 1734095780,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -6041,6 +6065,14 @@
       "onboard_time": 1733889679,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290652,
+      "num": 290652,
+      "word": "代号鸢 初心",
+      "onboard_time": 1734089718,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 289950,
@@ -7723,6 +7755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225924,
+      "num": 241968,
+      "word": "猎罪图鉴植入",
+      "onboard_time": 1734091219,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225879,
       "num": 321317,
       "word": "布朗尼30分",
@@ -7737,14 +7777,6 @@
       "onboard_time": 1733838862,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224850,
-      "num": 224850,
-      "word": "猎罪图鉴植入",
-      "onboard_time": 1734091219,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 224735,
@@ -7809,6 +7841,14 @@
       "onboard_time": 1733743280,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223404,
+      "num": 333937,
+      "word": "金玟庭发泡泡报平安",
+      "onboard_time": 1734095539,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 222908,
@@ -8041,6 +8081,14 @@
       "onboard_time": 1733970318,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214914,
+      "num": 214914,
+      "word": "香港偶遇费曼",
+      "onboard_time": 1734096260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 214720,
@@ -8281,6 +8329,14 @@
       "onboard_time": 1733987720,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208600,
+      "num": 328228,
+      "word": "富大龙台词",
+      "onboard_time": 1734095060,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 208213,
@@ -8561,6 +8617,14 @@
       "onboard_time": 1733997921,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203095,
+      "num": 203095,
+      "word": "偶遇汪峰女友森林北",
+      "onboard_time": 1734096140,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202960,
@@ -9139,14 +9203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195504,
-      "num": 195504,
-      "word": "QQ音乐回应装扮问题",
-      "onboard_time": 1734094279,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195499,
       "num": 195499,
       "word": "索尼",
@@ -9217,6 +9273,14 @@
       "onboard_time": 1733971700,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194488,
+      "num": 228276,
+      "word": "为什么很多年轻人得尿毒症",
+      "onboard_time": 1734095780,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194467,
@@ -9392,14 +9456,6 @@
       "word": "郑在玹结业式",
       "onboard_time": 1733802138,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 192401,
-      "num": 264715,
-      "word": "董洁因儿子青春期崩溃",
-      "onboard_time": 1734094099,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -10083,6 +10139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 183524,
+      "num": 183524,
+      "word": "高会闪退",
+      "onboard_time": 1734096199,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 183488,
       "num": 183488,
       "word": "叙利亚战火纷飞民众生活陷入恐惧",
@@ -10097,14 +10161,6 @@
       "onboard_time": 1733639598,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183310,
-      "num": 183310,
-      "word": "代号鸢 初心",
-      "onboard_time": 1734089718,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 182795,
@@ -10393,6 +10449,14 @@
       "onboard_time": 1733985980,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177239,
+      "num": 260801,
+      "word": "粉笔四六级崩了",
+      "onboard_time": 1733752820,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 176694,
@@ -10923,14 +10987,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 170475,
-      "num": 260801,
-      "word": "粉笔四六级崩了",
-      "onboard_time": 1733752820,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 170426,
       "num": 170426,
       "word": "闪耀的恒星",
@@ -11291,6 +11347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165575,
+      "num": 165575,
+      "word": "韩路 23万极越车如今只值2万",
+      "onboard_time": 1734095060,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 165561,
       "num": 165561,
       "word": "葛夕是留几手的私人旅行规划师吧",
@@ -11425,6 +11489,14 @@
       "onboard_time": 1733842461,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163595,
+      "num": 163595,
+      "word": "2斤黄金无人认领上缴国库",
+      "onboard_time": 1734095599,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163551,
@@ -12467,6 +12539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149538,
+      "num": 228304,
+      "word": "檀健次回味式演技",
+      "onboard_time": 1734095720,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149450,
       "num": 354467,
       "word": "什么是三级演员职称",
@@ -12897,6 +12977,14 @@
       "onboard_time": 1733904981,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143004,
+      "num": 143004,
+      "word": "女子长期过度节食体重仅24公斤",
+      "onboard_time": 1734096319,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142752,
@@ -13451,6 +13539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135876,
+      "num": 135876,
+      "word": "沈月说徐志胜湿气太重",
+      "onboard_time": 1734094999,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135748,
       "num": 315010,
       "word": "暗喻幻想获TGA最佳艺术指导",
@@ -13585,6 +13681,14 @@
       "onboard_time": 1733797398,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133284,
+      "num": 374011,
+      "word": "被抱养37年女子系生父母第5个女儿",
+      "onboard_time": 1734095240,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133200,
@@ -13745,6 +13849,14 @@
       "onboard_time": 1733796437,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 247202,
+      "word": "王楚钦海底捞月救球反攻",
+      "onboard_time": 1734096559,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 130676,
@@ -14835,6 +14947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109060,
+      "num": 171874,
+      "word": "曝RNG上中野",
+      "onboard_time": 1734096020,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108993,
       "num": 380371,
       "word": "电影误判",
@@ -15603,6 +15723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94381,
+      "num": 409907,
+      "word": "作业熔断别变成自己糊弄自己",
+      "onboard_time": 1734095240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94374,
       "num": 433095,
       "word": "小学校长利用入学分班受贿近千万",
@@ -15681,6 +15809,14 @@
       "onboard_time": 1733736321,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92705,
+      "num": 228462,
+      "word": "赵丽颖黑粉拍视频致歉",
+      "onboard_time": 1734095839,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 92475,
@@ -16811,6 +16947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69827,
+      "num": 340987,
+      "word": "员工打卡证明加班索赔71万未获支持",
+      "onboard_time": 1734094939,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69808,
       "num": 405509,
       "word": "2024乒超首日对阵表",
@@ -17329,6 +17473,14 @@
       "onboard_time": 1733941752,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58277,
+      "num": 367890,
+      "word": "交警执法现场有人用手电筒爆闪司机",
+      "onboard_time": 1734095359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58014,
@@ -18531,6 +18683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39353,
+      "num": 1085316,
+      "word": "财政货币政策调整释放哪些信号",
+      "onboard_time": 1734079339,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39350,
       "num": 227146,
       "word": "潘展乐VogueSports首期封面",
@@ -19235,14 +19395,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 31901,
-      "num": 1085316,
-      "word": "财政货币政策调整释放哪些信号",
-      "onboard_time": 1734079339,
-      "rank": 2,
-      "category": "财经"
-    },
-    {
       "raw_hot": 31836,
       "num": 52404,
       "word": "邬善 洋葱精",
@@ -19385,14 +19537,6 @@
       "onboard_time": 1734074779,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30420,
-      "num": 275037,
-      "word": "员工打卡证明加班索赔71万未获支持",
-      "onboard_time": 1734094939,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30407,
@@ -19569,6 +19713,14 @@
       "onboard_time": 1733864710,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27325,
+      "num": 346111,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 27143,
@@ -20721,6 +20873,14 @@
       "onboard_time": 1734089540,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11887,
+      "num": 173133,
+      "word": "眼部护理推荐",
+      "onboard_time": 1734096020,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 11874,

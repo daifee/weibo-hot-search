@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734094961934,
+  "endTime": 1734096735864,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -81,6 +81,14 @@
       "onboard_time": 1734064279,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1440819,
+      "num": 770402,
+      "word": "董洁因儿子青春期崩溃",
+      "onboard_time": 1734094099,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1379198,
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1092718,
+      "num": 1006937,
+      "word": "卵子明码标价最贵达百万",
+      "onboard_time": 1734091339,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1082363,
       "num": 1082363,
       "word": "多地医护和公职人员被指参与代孕",
       "onboard_time": 1734078017,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1026697,
-      "num": 1006937,
-      "word": "卵子明码标价最贵达百万",
-      "onboard_time": 1734091339,
-      "rank": 3,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 995660,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764113,
+      "num": 764113,
+      "word": "张家界一游客与猴子互殴",
+      "onboard_time": 1734092838,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758833,
       "num": 758833,
       "word": "九重紫",
@@ -352,14 +368,6 @@
       "word": "男子持皇家印章坐高铁",
       "onboard_time": 1734071358,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 629492,
-      "num": 629492,
-      "word": "张家界一游客与猴子互殴",
-      "onboard_time": 1734092838,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -619,6 +627,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 463962,
+      "num": 463962,
+      "word": "QQ音乐回应装扮问题",
+      "onboard_time": 1734094279,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 463378,
+      "num": 463378,
+      "word": "代孕抓捕现场年轻女性面色很差",
+      "onboard_time": 1734093019,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 459728,
       "num": 459728,
       "word": "国家公祭仪式",
@@ -731,19 +755,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385532,
-      "num": 385532,
-      "word": "代孕抓捕现场年轻女性面色很差",
-      "onboard_time": 1734093019,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 380104,
       "num": 380104,
       "word": "哈尔滨姑娘杭州出差闯大祸险丢工作",
       "onboard_time": 1734087078,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379796,
+      "num": 379796,
+      "word": "艺考前十天被抱摔骨折",
+      "onboard_time": 1734095780,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1734078017,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290652,
+      "num": 290652,
+      "word": "代号鸢 初心",
+      "onboard_time": 1734089718,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 290138,
@@ -1251,6 +1283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225924,
+      "num": 241968,
+      "word": "猎罪图鉴植入",
+      "onboard_time": 1734091219,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225879,
       "num": 321317,
       "word": "布朗尼30分",
@@ -1259,20 +1299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224850,
-      "num": 224850,
-      "word": "猎罪图鉴植入",
-      "onboard_time": 1734091219,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224325,
       "num": 461798,
       "word": "宋墨 左牵黄右擎昭",
       "onboard_time": 1734056659,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223404,
+      "num": 333937,
+      "word": "金玟庭发泡泡报平安",
+      "onboard_time": 1734095539,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 222908,
@@ -1323,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214914,
+      "num": 214914,
+      "word": "香港偶遇费曼",
+      "onboard_time": 1734096260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
@@ -1353,6 +1401,14 @@
       "onboard_time": 1734078080,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208600,
+      "num": 328228,
+      "word": "富大龙台词",
+      "onboard_time": 1734095060,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 208062,
@@ -1401,6 +1457,14 @@
       "onboard_time": 1734087859,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203095,
+      "num": 203095,
+      "word": "偶遇汪峰女友森林北",
+      "onboard_time": 1734096140,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202149,
@@ -1467,14 +1531,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 195504,
-      "num": 195504,
-      "word": "QQ音乐回应装扮问题",
-      "onboard_time": 1734094279,
-      "rank": 35,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 195499,
       "num": 195499,
       "word": "索尼",
@@ -1483,12 +1539,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192401,
-      "num": 264715,
-      "word": "董洁因儿子青春期崩溃",
-      "onboard_time": 1734094099,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 194488,
+      "num": 228276,
+      "word": "为什么很多年轻人得尿毒症",
+      "onboard_time": 1734095780,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191855,
@@ -1579,12 +1635,12 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 183310,
-      "num": 183310,
-      "word": "代号鸢 初心",
-      "onboard_time": 1734089718,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 183524,
+      "num": 183524,
+      "word": "高会闪退",
+      "onboard_time": 1734096199,
+      "rank": 36,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 182795,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1734075319,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177239,
+      "num": 260801,
+      "word": "粉笔四六级崩了",
+      "onboard_time": 1734094819,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 176663,
@@ -1787,12 +1851,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165575,
+      "num": 165575,
+      "word": "韩路 23万极越车如今只值2万",
+      "onboard_time": 1734095060,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164478,
       "num": 164478,
       "word": "细菌战幸存者因烂脚病痛苦一生",
       "onboard_time": 1734076398,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 163595,
+      "num": 163595,
+      "word": "2斤黄金无人认领上缴国库",
+      "onboard_time": 1734095599,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162683,
@@ -1979,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149538,
+      "num": 228304,
+      "word": "檀健次回味式演技",
+      "onboard_time": 1734095720,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149450,
       "num": 149450,
       "word": "什么是三级演员职称",
@@ -2057,6 +2145,14 @@
       "onboard_time": 1734073639,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 143004,
+      "num": 143004,
+      "word": "女子长期过度节食体重仅24公斤",
+      "onboard_time": 1734096319,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142961,
@@ -2155,20 +2251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137909,
-      "num": 260801,
-      "word": "粉笔四六级崩了",
-      "onboard_time": 1734094819,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "国防部回应福建舰开展相关试验",
       "onboard_time": 1734053300,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135876,
+      "num": 135876,
+      "word": "沈月说徐志胜湿气太重",
+      "onboard_time": 1734094999,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 135748,
@@ -2203,6 +2299,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133284,
+      "num": 374011,
+      "word": "被抱养37年女子系生父母第5个女儿",
+      "onboard_time": 1734095240,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132357,
       "num": 324099,
       "word": "很普通却能对抗炎症的食物",
@@ -2225,6 +2329,14 @@
       "onboard_time": 1734070219,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130729,
+      "num": 247202,
+      "word": "王楚钦海底捞月救球反攻",
+      "onboard_time": 1734096559,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129233,
@@ -2371,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109060,
+      "num": 171874,
+      "word": "曝RNG上中野",
+      "onboard_time": 1734096020,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108876,
       "num": 108876,
       "word": "巴音布鲁克气温零下42.5摄氏度",
@@ -2499,11 +2619,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94381,
+      "num": 409907,
+      "word": "作业熔断别变成自己糊弄自己",
+      "onboard_time": 1734095240,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93362,
       "num": 93362,
       "word": "李昀锐 薄肌",
       "onboard_time": 1734007699,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92705,
+      "num": 228462,
+      "word": "赵丽颖黑粉拍视频致歉",
+      "onboard_time": 1734095839,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -2667,6 +2803,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 69827,
+      "num": 340987,
+      "word": "员工打卡证明加班索赔71万未获支持",
+      "onboard_time": 1734094939,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69427,
       "num": 69427,
       "word": "南京大屠杀死难者国家公祭",
@@ -2727,6 +2871,14 @@
       "num": 391818,
       "word": "缺千斤少万两卖煤商贩被顶格处罚",
       "onboard_time": 1734074301,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58277,
+      "num": 367890,
+      "word": "交警执法现场有人用手电筒爆闪司机",
+      "onboard_time": 1734095359,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -2891,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39353,
+      "num": 1085316,
+      "word": "财政货币政策调整释放哪些信号",
+      "onboard_time": 1734079339,
+      "rank": 2,
+      "category": "财经"
+    },
+    {
       "raw_hot": 39019,
       "num": 478764,
       "word": "官方回应珠海地震情况",
@@ -2947,14 +3107,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 31901,
-      "num": 1085316,
-      "word": "财政货币政策调整释放哪些信号",
-      "onboard_time": 1734079339,
-      "rank": 2,
-      "category": "财经"
-    },
-    {
       "raw_hot": 30915,
       "num": 537733,
       "word": "以网文方式打开名著是碰瓷吗",
@@ -2977,14 +3129,6 @@
       "onboard_time": 1734074779,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30420,
-      "num": 275037,
-      "word": "员工打卡证明加班索赔71万未获支持",
-      "onboard_time": 1734094939,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30272,
@@ -3017,6 +3161,14 @@
       "onboard_time": 1734009800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27325,
+      "num": 346111,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 26675,
@@ -3161,6 +3313,14 @@
       "onboard_time": 1734089540,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11887,
+      "num": 173133,
+      "word": "眼部护理推荐",
+      "onboard_time": 1734096020,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 11874,
