@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734046685813,
+  "endTime": 1734054751627,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -41,6 +41,14 @@
       "onboard_time": 1733800639,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5883262,
+      "num": 7133262,
+      "word": "李铁被判20年",
+      "onboard_time": 1734052219,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4169503,
@@ -1019,12 +1027,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1049125,
+      "num": 1049125,
+      "word": "TGA",
+      "onboard_time": 1733916681,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1047935,
       "num": 782922,
       "word": "李昀锐发红包",
       "onboard_time": 1733923160,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1042463,
+      "num": 1042463,
+      "word": "女子被抱养37年生父母找来留10万",
+      "onboard_time": 1734047959,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1042110,
@@ -1491,12 +1515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 805823,
+      "num": 805823,
+      "word": "国家公祭日",
+      "onboard_time": 1734020778,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 803148,
       "num": 803148,
       "word": "王阳 十个勤天值得",
       "onboard_time": 1733637680,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 801768,
+      "num": 801768,
+      "word": "黑神话悟空获TGA最佳动作游戏",
+      "onboard_time": 1734053660,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 797337,
@@ -1800,6 +1840,14 @@
       "word": "猎罪图鉴尺度",
       "onboard_time": 1733842700,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 741326,
+      "num": 912795,
+      "word": "内娱第一位洋葱系艺人",
+      "onboard_time": 1734045915,
+      "rank": 0,
       "category": "剧集"
     },
     {
@@ -2427,14 +2475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 595486,
-      "num": 912795,
-      "word": "内娱第一位洋葱系艺人",
-      "onboard_time": 1734045915,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 593842,
       "num": 328597,
       "word": "王蔷张浩领证",
@@ -2697,6 +2737,22 @@
       "onboard_time": 1733747179,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 544064,
+      "num": 544064,
+      "word": "李铁案始末",
+      "onboard_time": 1734052460,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 543505,
+      "num": 543505,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 542852,
@@ -3299,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460250,
+      "num": 460250,
+      "word": "南京大屠杀幸存者肩膀被子弹打变形",
+      "onboard_time": 1734050479,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 459852,
       "num": 459852,
       "word": "特朗普称俄乌立即停火时机已成熟",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1733833279,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 455173,
+      "num": 455173,
+      "word": "卖菜老人烧炭取暖身亡知情人发声",
+      "onboard_time": 1734049938,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455097,
@@ -3537,14 +3609,6 @@
       "onboard_time": 1733880979,
       "rank": 16,
       "category": "艺人,读书作家"
-    },
-    {
-      "raw_hot": 431991,
-      "num": 431991,
-      "word": "国家公祭日",
-      "onboard_time": 1734020778,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 430367,
@@ -3787,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404662,
+      "num": 404662,
+      "word": "阿根廷总统宣布取消90%国家税收",
+      "onboard_time": 1734051438,
+      "rank": 16,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 404560,
       "num": 404560,
       "word": "被外籍留学生猥亵的女子发声",
@@ -3931,6 +4003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 384891,
+      "num": 384891,
+      "word": "男生昏迷醒来失忆2年后返校重读大三",
+      "onboard_time": 1734051559,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384457,
       "num": 384457,
       "word": "虞书欣零点发文告别凌妙妙",
@@ -4057,14 +4137,6 @@
       "onboard_time": 1734002360,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 373854,
-      "num": 335312,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 373527,
@@ -4947,6 +5019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305122,
+      "num": 305122,
+      "word": "巫师4正式公开",
+      "onboard_time": 1734053780,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
@@ -5435,6 +5515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276824,
+      "num": 276824,
+      "word": "巫师4 希里",
+      "onboard_time": 1734053660,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276145,
       "num": 276145,
       "word": "九重紫小孩姐 天赋型选手",
@@ -5465,6 +5553,14 @@
       "onboard_time": 1733878941,
       "rank": 22,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 274650,
+      "num": 274650,
+      "word": "孙颖莎懵圈了",
+      "onboard_time": 1734050479,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 273774,
@@ -6064,6 +6160,14 @@
       "word": "原来九重紫删评是这个扇",
       "onboard_time": 1733908731,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245920,
+      "num": 407365,
+      "word": "我是刑警全员去表演化",
+      "onboard_time": 1734047598,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -6891,6 +6995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218129,
+      "num": 218129,
+      "word": "她11岁时一家7口被日军杀害",
+      "onboard_time": 1734049459,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 217977,
       "num": 217977,
       "word": "以军摧毁叙70%以上军事力量",
@@ -7179,6 +7291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208537,
+      "num": 198935,
+      "word": "艾尔登法环新作公开",
+      "onboard_time": 1734054500,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 208213,
       "num": 208213,
       "word": "金价三连涨",
@@ -7361,6 +7481,14 @@
       "onboard_time": 1733715679,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203968,
+      "num": 203968,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734054260,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 203963,
@@ -7907,6 +8035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196193,
+      "num": 390827,
+      "word": "嘎子哥谢孟伟获三级演员职称",
+      "onboard_time": 1734053419,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195799,
       "num": 226262,
       "word": "陈若仪回应网友赞kimi颜值",
@@ -8241,6 +8377,14 @@
       "onboard_time": 1733891243,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191371,
+      "num": 191371,
+      "word": "巫师4预告片",
+      "onboard_time": 1734054079,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 191144,
@@ -8588,7 +8732,7 @@
     },
     {
       "raw_hot": 187521,
-      "num": 187521,
+      "num": 200269,
       "word": "李现一人徒步鱼子西",
       "onboard_time": 1734015619,
       "rank": 33,
@@ -8657,6 +8801,14 @@
       "onboard_time": 1733636417,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186065,
+      "num": 186065,
+      "word": "猫 很不高兴为您服务",
+      "onboard_time": 1734047478,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 186062,
@@ -8833,6 +8985,14 @@
       "onboard_time": 1733656399,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182041,
+      "num": 182041,
+      "word": "北京天津的雪基本稳了",
+      "onboard_time": 1734052700,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181784,
@@ -9065,6 +9225,14 @@
       "onboard_time": 1733977461,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "TGA2024颁奖盛典",
+      "onboard_time": 1734051019,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 176632,
@@ -9803,6 +9971,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166314,
+      "num": 166314,
+      "word": "村支书回应男子大冬天抱全裸婴儿上街",
+      "onboard_time": 1734053180,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166228,
+      "num": 166228,
+      "word": "国防部正告菲方",
+      "onboard_time": 1734054318,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166186,
       "num": 420771,
       "word": "A股今日全线高开",
@@ -10331,6 +10515,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 157582,
+      "num": 385425,
+      "word": "李铁涉案金额近1.2亿",
+      "onboard_time": 1734053719,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157413,
       "num": 183161,
       "word": "檀健次回应粉丝结婚",
@@ -10539,6 +10731,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 154224,
+      "num": 154224,
+      "word": "这样在被窝里玩手机就不冷了",
+      "onboard_time": 1734045855,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154145,
       "num": 268538,
       "word": "药王谷治癌中医本人不会号脉",
@@ -10553,6 +10753,14 @@
       "onboard_time": 1733915719,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154008,
+      "num": 154008,
+      "word": "丁俊晖炮轰苏格兰公开赛",
+      "onboard_time": 1734050720,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 154005,
@@ -10955,6 +11163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147394,
+      "num": 147394,
+      "word": "马龙谈生涯最完美比赛",
+      "onboard_time": 1734050598,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147230,
       "num": 147230,
       "word": "王楚钦用身体接住了韩国队的球",
@@ -11001,6 +11217,14 @@
       "onboard_time": 1733739441,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 146374,
+      "num": 146374,
+      "word": "国足原主教练李铁案一审宣判",
+      "onboard_time": 1734054559,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 146329,
@@ -11355,6 +11579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141236,
+      "num": 141236,
+      "word": "张凌赫谢征定妆",
+      "onboard_time": 1734048258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141186,
       "num": 139085,
       "word": "英国夫妇纯素食饿死3岁儿子",
@@ -11401,6 +11633,14 @@
       "onboard_time": 1733740939,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140865,
+      "num": 140865,
+      "word": "12月13日不能忘不敢忘",
+      "onboard_time": 1734022635,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140711,
@@ -11507,6 +11747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139026,
+      "num": 161472,
+      "word": "明年经济工作有一个鲜明的关键词",
+      "onboard_time": 1734045855,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138563,
       "num": 248640,
       "word": "SM表示散布者以钱为目的联系媒体",
@@ -11569,6 +11817,14 @@
       "onboard_time": 1733843959,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137418,
+      "num": 137418,
+      "word": "国防部回应福建舰开展相关试验",
+      "onboard_time": 1734053300,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137404,
@@ -12787,6 +13043,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 112422,
+      "num": 386895,
+      "word": "T1获TGA最佳电竞战队",
+      "onboard_time": 1734054619,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112369,
       "num": 116044,
       "word": "周五下班韩国飞中国说走就走",
@@ -13859,28 +14123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87806,
-      "num": 161472,
-      "word": "明年经济工作有一个鲜明的关键词",
-      "onboard_time": 1734045855,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 87471,
       "num": 209662,
       "word": "letme聊TheShy复出",
       "onboard_time": 1733669001,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87201,
-      "num": 87201,
-      "word": "这样在被窝里玩手机就不冷了",
-      "onboard_time": 1734045855,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 87108,
@@ -15011,14 +15259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 64528,
-      "num": 66542,
-      "word": "12月13日不能忘不敢忘",
-      "onboard_time": 1734022635,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64300,
       "num": 389193,
       "word": "周深亮相狮子王首映礼",
@@ -15369,6 +15609,14 @@
       "onboard_time": 1734017540,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 54689,
+      "num": 1042956,
+      "word": "盘点2024新质生产力新突破",
+      "onboard_time": 1734009740,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54683,
@@ -17331,14 +17579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25311,
-      "num": 438923,
-      "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -17521,14 +17761,6 @@
       "onboard_time": 1733855951,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 22639,
-      "num": 242135,
-      "word": "TGA",
-      "onboard_time": 1733916681,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 22449,

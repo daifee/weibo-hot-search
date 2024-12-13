@@ -1,7 +1,15 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734046685813,
+  "endTime": 1734054751627,
   "band_list": [
+    {
+      "raw_hot": 5883262,
+      "num": 7133262,
+      "word": "李铁被判20年",
+      "onboard_time": 1734052219,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2128999,
       "num": 2128999,
@@ -19,12 +27,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1049125,
+      "num": 1049125,
+      "word": "TGA",
+      "onboard_time": 1734047537,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 1042463,
+      "num": 1042463,
+      "word": "女子被抱养37年生父母找来留10万",
+      "onboard_time": 1734047959,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899015,
       "num": 899015,
       "word": "劣迹艺人无职称评审资格",
       "onboard_time": 1734016100,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 805823,
+      "num": 805823,
+      "word": "国家公祭日",
+      "onboard_time": 1734020778,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 801768,
+      "num": 801768,
+      "word": "黑神话悟空获TGA最佳动作游戏",
+      "onboard_time": 1734053660,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 741326,
+      "num": 912795,
+      "word": "内娱第一位洋葱系艺人",
+      "onboard_time": 1734045915,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 595778,
@@ -35,12 +83,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 595486,
-      "num": 912795,
-      "word": "内娱第一位洋葱系艺人",
-      "onboard_time": 1734045915,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 544064,
+      "num": 544064,
+      "word": "李铁案始末",
+      "onboard_time": 1734052460,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 543505,
+      "num": 543505,
+      "word": "留几手气死人了",
+      "onboard_time": 1734029051,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 538732,
@@ -52,19 +108,27 @@
     },
     {
       "raw_hot": 495320,
-      "num": 172086,
+      "num": 370196,
       "word": "宋佳结婚我的态度",
       "onboard_time": 1734009019,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 431991,
-      "num": 431991,
-      "word": "国家公祭日",
-      "onboard_time": 1734020778,
-      "rank": 9,
+      "raw_hot": 460250,
+      "num": 460250,
+      "word": "南京大屠杀幸存者肩膀被子弹打变形",
+      "onboard_time": 1734050479,
+      "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 455173,
+      "num": 455173,
+      "word": "卖菜老人烧炭取暖身亡知情人发声",
+      "onboard_time": 1734049938,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418665,
@@ -75,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404662,
+      "num": 404662,
+      "word": "阿根廷总统宣布取消90%国家税收",
+      "onboard_time": 1734051438,
+      "rank": 16,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 385644,
       "num": 385644,
       "word": "车银优和赵韩樱子朋友",
@@ -83,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373854,
-      "num": 335312,
-      "word": "留几手气死人了",
-      "onboard_time": 1734029051,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 384891,
+      "num": 384891,
+      "word": "男生昏迷醒来失忆2年后返校重读大三",
+      "onboard_time": 1734051559,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358305,
@@ -107,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305122,
+      "num": 305122,
+      "word": "巫师4正式公开",
+      "onboard_time": 1734053780,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290138,
       "num": 540322,
       "word": "李铁",
@@ -123,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276824,
+      "num": 276824,
+      "word": "巫师4 希里",
+      "onboard_time": 1734053660,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275333,
       "num": 528300,
       "word": "制酱文化被韩国申遗成功了",
       "onboard_time": 1734006260,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 274650,
+      "num": 274650,
+      "word": "孙颖莎懵圈了",
+      "onboard_time": 1734050479,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 269922,
@@ -140,7 +236,7 @@
     },
     {
       "raw_hot": 254151,
-      "num": 171660,
+      "num": 198876,
       "word": "37岁去世主持人妻子怀孕5个月",
       "onboard_time": 1734012981,
       "rank": 23,
@@ -171,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245920,
+      "num": 407365,
+      "word": "我是刑警全员去表演化",
+      "onboard_time": 1734047598,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
@@ -185,6 +289,14 @@
       "onboard_time": 1733999421,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230967,
+      "num": 405346,
+      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
+      "onboard_time": 1734011121,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 222784,
@@ -203,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218129,
+      "num": 218129,
+      "word": "她11岁时一家7口被日军杀害",
+      "onboard_time": 1734049459,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
       "onboard_time": 1734017180,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208537,
+      "num": 198935,
+      "word": "艾尔登法环新作公开",
+      "onboard_time": 1734054500,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 207921,
@@ -219,6 +347,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203968,
+      "num": 203968,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734054260,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196193,
+      "num": 390827,
+      "word": "嘎子哥谢孟伟获三级演员职称",
+      "onboard_time": 1734053419,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "百万网红被曝疑做不正当职业",
@@ -227,12 +371,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191371,
+      "num": 191371,
+      "word": "巫师4预告片",
+      "onboard_time": 1734054079,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187521,
-      "num": 187521,
+      "num": 200269,
       "word": "李现一人徒步鱼子西",
       "onboard_time": 1734015619,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186065,
+      "num": 186065,
+      "word": "猫 很不高兴为您服务",
+      "onboard_time": 1734047478,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 182041,
+      "num": 182041,
+      "word": "北京天津的雪基本稳了",
+      "onboard_time": 1734052700,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181133,
@@ -251,20 +419,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "TGA2024颁奖盛典",
+      "onboard_time": 1734051019,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170927,
       "num": 170927,
       "word": "人肉火烧造谣者已被行政拘留",
       "onboard_time": 1734039432,
       "rank": 49,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 167257,
-      "num": 167257,
-      "word": "嘎子哥谢孟伟后悔直播带货卖酒",
-      "onboard_time": 1734011121,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 166736,
@@ -275,12 +443,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166314,
+      "num": 166314,
+      "word": "村支书回应男子大冬天抱全裸婴儿上街",
+      "onboard_time": 1734053180,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166228,
+      "num": 166228,
+      "word": "国防部正告菲方",
+      "onboard_time": 1734054318,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 165921,
+      "num": 165921,
+      "word": "代号鸢",
+      "onboard_time": 1734052219,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159562,
       "num": 145144,
       "word": "曝宋佳已领证结婚",
       "onboard_time": 1733989221,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157582,
+      "num": 385425,
+      "word": "李铁涉案金额近1.2亿",
+      "onboard_time": 1734053719,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 157274,
@@ -291,12 +491,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154224,
+      "num": 154224,
+      "word": "这样在被窝里玩手机就不冷了",
+      "onboard_time": 1734045855,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154008,
+      "num": 154008,
+      "word": "丁俊晖炮轰苏格兰公开赛",
+      "onboard_time": 1734050720,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149450,
       "num": 149450,
       "word": "什么是三级演员职称",
       "onboard_time": 1734015742,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147394,
+      "num": 147394,
+      "word": "马龙谈生涯最完美比赛",
+      "onboard_time": 1734050598,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146374,
+      "num": 146374,
+      "word": "国足原主教练李铁案一审宣判",
+      "onboard_time": 1734054559,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 142961,
@@ -307,11 +539,43 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 141236,
+      "num": 141236,
+      "word": "张凌赫谢征定妆",
+      "onboard_time": 1734048258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140865,
+      "num": 140865,
+      "word": "12月13日不能忘不敢忘",
+      "onboard_time": 1734022635,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 139026,
+      "num": 161472,
+      "word": "明年经济工作有一个鲜明的关键词",
+      "onboard_time": 1734045855,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 138383,
       "num": 138383,
       "word": "经济工作会议",
       "onboard_time": 1734006619,
       "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 137418,
+      "num": 137418,
+      "word": "国防部回应福建舰开展相关试验",
+      "onboard_time": 1734053300,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -369,6 +633,14 @@
       "onboard_time": 1734006859,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112422,
+      "num": 386895,
+      "word": "T1获TGA最佳电竞战队",
+      "onboard_time": 1734054619,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 112110,
@@ -451,22 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87806,
-      "num": 161472,
-      "word": "明年经济工作有一个鲜明的关键词",
-      "onboard_time": 1734045855,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 87201,
-      "num": 87201,
-      "word": "这样在被窝里玩手机就不冷了",
-      "onboard_time": 1734045855,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 85489,
       "num": 85489,
       "word": "赛琳娜宣布订婚",
@@ -531,14 +787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64528,
-      "num": 66542,
-      "word": "12月13日不能忘不敢忘",
-      "onboard_time": 1734022635,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63492,
       "num": 63492,
       "word": "狗 我自己走都比你抱得稳当",
@@ -569,6 +817,14 @@
       "onboard_time": 1734007278,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54689,
+      "num": 1042956,
+      "word": "盘点2024新质生产力新突破",
+      "onboard_time": 1734009740,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 53881,
@@ -623,14 +879,6 @@
       "num": 798730,
       "word": "中国经济奋楫向前",
       "onboard_time": 1734009800,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 25311,
-      "num": 438923,
-      "word": "盘点2024新质生产力新突破",
-      "onboard_time": 1734009740,
       "rank": 2,
       "category": "国内时政"
     },
