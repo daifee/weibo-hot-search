@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734065012198,
+  "endTime": 1734067419048,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1446451,
+      "num": 648714,
+      "word": "男子中2亿彩票25天后心脏骤停去世",
+      "onboard_time": 1734064279,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1379198,
       "num": 1379198,
       "word": "黑神话悟空未获TGA年度游戏",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1328869,
-      "num": 648343,
+      "num": 717702,
       "word": "曝朴彩英与新歌MV男主恋爱",
       "onboard_time": 1734059059,
       "rank": 21,
@@ -80,6 +88,14 @@
       "word": "女子被抱养37年生父母找来留10万",
       "onboard_time": 1734047958,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1213382,
+      "num": 1213382,
+      "word": "男子带娃登山身亡孩子以为爸爸睡了",
+      "onboard_time": 1734065479,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -115,6 +131,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 872842,
+      "num": 363760,
+      "word": "Epic 问号",
+      "onboard_time": 1734066321,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 869885,
+      "num": 719646,
+      "word": "邱泽许玮甯牵手散步",
+      "onboard_time": 1734065539,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 802038,
       "num": 414279,
       "word": "确认被爱后面相都变了",
@@ -131,20 +163,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 648714,
-      "num": 648714,
-      "word": "男子中2亿彩票25天后心脏骤停去世",
-      "onboard_time": 1734064279,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 637554,
       "num": 637554,
       "word": "尹锡悦一口气批准42项法案及施行令",
       "onboard_time": 1734060137,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 623412,
+      "num": 623412,
+      "word": "王楚钦观战孙颖莎比赛松弛感拉满",
+      "onboard_time": 1734064279,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 595778,
@@ -267,12 +299,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 424492,
-      "num": 424492,
-      "word": "王楚钦观战孙颖莎比赛松弛感拉满",
-      "onboard_time": 1734064279,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 446057,
+      "num": 402245,
+      "word": "原来美容院偷偷给我涂了素颜霜",
+      "onboard_time": 1734066679,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 423724,
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381391,
+      "num": 381391,
+      "word": "2斤黄金无人认领期满将拍卖",
+      "onboard_time": 1734065720,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358305,
       "num": 358305,
       "word": "曝某95花否掉九个男主",
@@ -328,6 +368,14 @@
       "word": "双人成行制作组新作",
       "onboard_time": 1734056779,
       "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 342099,
+      "num": 342099,
+      "word": "4399机器人",
+      "onboard_time": 1734066140,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -347,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 318655,
+      "num": 760118,
+      "word": "再见爱人",
+      "onboard_time": 1734064102,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318574,
       "num": 766055,
       "word": "夏之光晒爷爷奶奶手牵手背影照",
@@ -361,6 +417,14 @@
       "onboard_time": 1734001641,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307669,
+      "num": 307669,
+      "word": "明白了为什么微信这么占内存了",
+      "onboard_time": 1734064279,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 305122,
@@ -467,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270351,
-      "num": 270351,
-      "word": "明白了为什么微信这么占内存了",
-      "onboard_time": 1734064279,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 270063,
+      "num": 459304,
+      "word": "宇宙机器人销量",
+      "onboard_time": 1734064940,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 269922,
@@ -481,14 +545,6 @@
       "onboard_time": 1734015381,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263632,
-      "num": 664383,
-      "word": "再见爱人",
-      "onboard_time": 1734064102,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 255290,
@@ -539,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243624,
+      "num": 243624,
+      "word": "猴哥说车妻子谈婚变",
+      "onboard_time": 1734067039,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
       "onboard_time": 1734017300,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 238031,
+      "num": 404591,
+      "word": "极越CEO称不会跑路",
+      "onboard_time": 1734066559,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 236639,
@@ -619,12 +691,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214556,
+      "num": 379381,
+      "word": "TGA笑话",
+      "onboard_time": 1734066619,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
       "onboard_time": 1734017180,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 212988,
+      "num": 419684,
+      "word": "何超莲晒和虞书欣合照",
+      "onboard_time": 1734067219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 208062,
@@ -641,6 +729,14 @@
       "onboard_time": 1734017840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207799,
+      "num": 422497,
+      "word": "声生不息",
+      "onboard_time": 1734066021,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 199613,
@@ -779,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174537,
+      "num": 174537,
+      "word": "受伤小象被救后成了600斤的跟屁虫",
+      "onboard_time": 1734067102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170927,
       "num": 170927,
       "word": "人肉火烧造谣者已被行政拘留",
@@ -793,14 +897,6 @@
       "onboard_time": 1734055460,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167957,
-      "num": 459304,
-      "word": "宇宙机器人销量",
-      "onboard_time": 1734064940,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 167769,
@@ -897,6 +993,22 @@
       "onboard_time": 1734015742,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149400,
+      "num": 176667,
+      "word": "尹锡悦处境",
+      "onboard_time": 1734065180,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 148906,
+      "num": 378809,
+      "word": "杨子婚姻承诺书",
+      "onboard_time": 1734065780,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 147394,
@@ -1283,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61086,
+      "num": 735069,
+      "word": "北京一男子带娃爬野山意外身亡",
+      "onboard_time": 1734067039,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59323,
       "num": 59323,
       "word": "英伟达",
@@ -1297,6 +1417,14 @@
       "onboard_time": 1734019339,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56344,
+      "num": 271579,
+      "word": "再见爱人全员cosplay",
+      "onboard_time": 1734067340,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 56103,
@@ -1321,6 +1449,14 @@
       "onboard_time": 1734031751,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52230,
+      "num": 369412,
+      "word": "枪杀CEO的他为何被美国人捧为英雄",
+      "onboard_time": 1734066140,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49441,
@@ -1353,6 +1489,14 @@
       "onboard_time": 1734029712,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37714,
+      "num": 371788,
+      "word": "黄圣依感动哭了",
+      "onboard_time": 1734067219,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 37430,

@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734065012198,
+  "endTime": 1734067419048,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -539,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1446451,
+      "num": 648714,
+      "word": "男子中2亿彩票25天后心脏骤停去世",
+      "onboard_time": 1734064279,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1435935,
       "num": 350241,
       "word": "疑似超市老板称儿子清华读研不作解释",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 1328869,
-      "num": 648343,
+      "num": 717702,
       "word": "曝朴彩英与新歌MV男主恋爱",
       "onboard_time": 1734059059,
       "rank": 21,
@@ -865,6 +873,14 @@
       "onboard_time": 1733631618,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1213382,
+      "num": 1213382,
+      "word": "男子带娃登山身亡孩子以为爸爸睡了",
+      "onboard_time": 1734065479,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1210883,
@@ -1393,6 +1409,22 @@
       "onboard_time": 1733802077,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 872842,
+      "num": 363760,
+      "word": "Epic 问号",
+      "onboard_time": 1734066321,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 869885,
+      "num": 719646,
+      "word": "邱泽许玮甯牵手散步",
+      "onboard_time": 1734065539,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 869500,
@@ -2299,14 +2331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648714,
-      "num": 648714,
-      "word": "男子中2亿彩票25天后心脏骤停去世",
-      "onboard_time": 1734064279,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 647823,
       "num": 382169,
       "word": "赵露思疑似喊话辱追粉",
@@ -2380,7 +2404,7 @@
     },
     {
       "raw_hot": 630820,
-      "num": 664383,
+      "num": 760118,
       "word": "再见爱人",
       "onboard_time": 1733977701,
       "rank": 45,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1733836761,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623412,
+      "num": 623412,
+      "word": "王楚钦观战孙颖莎比赛松弛感拉满",
+      "onboard_time": 1734064279,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 621002,
@@ -3611,6 +3643,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 446057,
+      "num": 402245,
+      "word": "原来美容院偷偷给我涂了素颜霜",
+      "onboard_time": 1734066679,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 445780,
       "num": 445780,
       "word": "目击者称坠海无人机约600架",
@@ -3801,14 +3841,6 @@
       "onboard_time": 1733881880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424492,
-      "num": 424492,
-      "word": "王楚钦观战孙颖莎比赛松弛感拉满",
-      "onboard_time": 1734064279,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 424118,
@@ -4217,6 +4249,14 @@
       "onboard_time": 1733907383,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381391,
+      "num": 381391,
+      "word": "2斤黄金无人认领期满将拍卖",
+      "onboard_time": 1734065720,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 380413,
@@ -4657,6 +4697,14 @@
       "onboard_time": 1733809938,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342099,
+      "num": 342099,
+      "word": "4399机器人",
+      "onboard_time": 1734066140,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 340956,
@@ -5185,6 +5233,14 @@
       "onboard_time": 1733801179,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 307669,
+      "num": 307669,
+      "word": "明白了为什么微信这么占内存了",
+      "onboard_time": 1734064279,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 306855,
@@ -5851,20 +5907,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 270351,
-      "num": 270351,
-      "word": "明白了为什么微信这么占内存了",
-      "onboard_time": 1734064279,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 270327,
       "num": 359238,
       "word": "孙颖莎杂志总销售额超740万",
       "onboard_time": 1733984119,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270063,
+      "num": 459304,
+      "word": "宇宙机器人销量",
+      "onboard_time": 1734064940,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 269922,
@@ -6491,6 +6547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243624,
+      "num": 243624,
+      "word": "猴哥说车妻子谈婚变",
+      "onboard_time": 1734067039,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 243622,
       "num": 243622,
       "word": "母亲卖菜攒钱想带远嫁日本女儿回国",
@@ -6713,6 +6777,14 @@
       "onboard_time": 1733568561,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238031,
+      "num": 404591,
+      "word": "极越CEO称不会跑路",
+      "onboard_time": 1734066559,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 237842,
@@ -7363,6 +7435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214556,
+      "num": 379381,
+      "word": "TGA笑话",
+      "onboard_time": 1734066619,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214505,
       "num": 214505,
       "word": "股市",
@@ -7409,6 +7489,14 @@
       "onboard_time": 1733813782,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212988,
+      "num": 419684,
+      "word": "何超莲晒和虞书欣合照",
+      "onboard_time": 1734067219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 212825,
@@ -7593,6 +7681,14 @@
       "onboard_time": 1734017840,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207799,
+      "num": 422497,
+      "word": "声生不息",
+      "onboard_time": 1734066021,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 207773,
@@ -9739,6 +9835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 174537,
+      "num": 174537,
+      "word": "受伤小象被救后成了600斤的跟屁虫",
+      "onboard_time": 1734067102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174156,
       "num": 174156,
       "word": "权志龙 SBS歌谣大战",
@@ -10177,14 +10281,6 @@
       "onboard_time": 1734009619,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167957,
-      "num": 459304,
-      "word": "宇宙机器人销量",
-      "onboard_time": 1734064940,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 167858,
@@ -11427,6 +11523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 149400,
+      "num": 176667,
+      "word": "尹锡悦处境",
+      "onboard_time": 1734065180,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149375,
       "num": 297986,
       "word": "芒果跨年",
@@ -11457,6 +11561,14 @@
       "onboard_time": 1733714660,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148906,
+      "num": 378809,
+      "word": "杨子婚姻承诺书",
+      "onboard_time": 1734065780,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 148569,
@@ -15819,6 +15931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61086,
+      "num": 735069,
+      "word": "北京一男子带娃爬野山意外身亡",
+      "onboard_time": 1734067039,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61019,
       "num": 335549,
       "word": "困于误用安眠药的年轻人越来越多",
@@ -16009,6 +16129,14 @@
       "onboard_time": 1734019339,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56344,
+      "num": 271579,
+      "word": "再见爱人全员cosplay",
+      "onboard_time": 1734067340,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 56329,
@@ -16217,6 +16345,14 @@
       "onboard_time": 1733802618,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52230,
+      "num": 369412,
+      "word": "枪杀CEO的他为何被美国人捧为英雄",
+      "onboard_time": 1734066140,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52182,
@@ -17137,6 +17273,14 @@
       "onboard_time": 1733913201,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37714,
+      "num": 371788,
+      "word": "黄圣依感动哭了",
+      "onboard_time": 1734067219,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 37620,

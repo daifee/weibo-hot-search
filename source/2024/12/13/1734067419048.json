@@ -1,0 +1,410 @@
+{
+  "runTime": 1734067419048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213382,
+        "num": 1213382,
+        "word": "男子带娃登山身亡孩子以为爸爸睡了",
+        "onboard_time": 1734065479,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1207006,
+        "num": 1207006,
+        "word": "宇宙机器人获TGA年度游戏",
+        "onboard_time": 1734062901,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48170,
+        "num": 1204928,
+        "word": "奋进是对历史最好的铭记",
+        "onboard_time": 1734061818,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1204012,
+        "num": 1204012,
+        "word": "3块5泡面档口刺痛了谁的良心",
+        "onboard_time": 1734059477,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018325,
+        "num": 1018325,
+        "word": "黑神话悟空未获TGA年度游戏",
+        "onboard_time": 1734063439,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 974238,
+        "num": 974238,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760274,
+        "num": 760274,
+        "word": "TGA",
+        "onboard_time": 1734047537,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 318655,
+        "num": 760118,
+        "word": "再见爱人",
+        "onboard_time": 1734064102,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294774,
+        "num": 743449,
+        "word": "感受到了卖长颈鹿凳子商家的无奈",
+        "onboard_time": 1734055339,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61086,
+        "num": 735069,
+        "word": "北京一男子带娃爬野山意外身亡",
+        "onboard_time": 1734067039,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869885,
+        "num": 719646,
+        "word": "邱泽许玮甯牵手散步",
+        "onboard_time": 1734065539,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717702,
+        "num": 717702,
+        "word": "曝朴彩英与新歌MV男主恋爱",
+        "onboard_time": 1734059059,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623412,
+        "num": 623412,
+        "word": "王楚钦观战孙颖莎比赛松弛感拉满",
+        "onboard_time": 1734064279,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487247,
+        "num": 487247,
+        "word": "宇宙机器人",
+        "onboard_time": 1734063680,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467310,
+        "num": 467310,
+        "word": "南京大屠杀死难者国家公祭日",
+        "onboard_time": 1734059119,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153328,
+        "num": 432623,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734054260,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207799,
+        "num": 422497,
+        "word": "声生不息",
+        "onboard_time": 1734066021,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212988,
+        "num": 419684,
+        "word": "何超莲晒和虞书欣合照",
+        "onboard_time": 1734067219,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417938,
+        "num": 417938,
+        "word": "海莉点赞赛琳娜订婚ins",
+        "onboard_time": 1734062779,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238031,
+        "num": 404591,
+        "word": "极越CEO称不会跑路",
+        "onboard_time": 1734066559,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1446451,
+        "num": 403201,
+        "word": "男子中2亿彩票25天后心脏骤停去世",
+        "onboard_time": 1734064279,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446057,
+        "num": 402245,
+        "word": "原来美容院偷偷给我涂了素颜霜",
+        "onboard_time": 1734066679,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 398089,
+        "num": 398089,
+        "word": "女子被抱养37年生父母找来留10万",
+        "onboard_time": 1734047958,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381391,
+        "num": 381391,
+        "word": "2斤黄金无人认领期满将拍卖",
+        "onboard_time": 1734065720,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214556,
+        "num": 379381,
+        "word": "TGA笑话",
+        "onboard_time": 1734066619,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148906,
+        "num": 378809,
+        "word": "杨子婚姻承诺书",
+        "onboard_time": 1734065780,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 376523,
+        "word": "金秀贤将出演GD与朋友们",
+        "onboard_time": 1734056598,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143926,
+        "num": 374178,
+        "word": "纪录电影再见爱人立项",
+        "onboard_time": 1734063800,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37714,
+        "num": 371788,
+        "word": "黄圣依感动哭了",
+        "onboard_time": 1734067219,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52230,
+        "num": 369412,
+        "word": "枪杀CEO的他为何被美国人捧为英雄",
+        "onboard_time": 1734066140,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 367944,
+        "num": 367944,
+        "word": "美国一聊天机器人暗示孩子杀死父母",
+        "onboard_time": 1734056719,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 872842,
+        "num": 363760,
+        "word": "Epic 问号",
+        "onboard_time": 1734066321,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342099,
+        "num": 342099,
+        "word": "4399机器人",
+        "onboard_time": 1734066140,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313051,
+        "num": 313051,
+        "word": "尹锡悦一口气批准42项法案及施行令",
+        "onboard_time": 1734060138,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 309854,
+        "word": "夏之光晒爷爷奶奶手牵手背影照",
+        "onboard_time": 1734058518,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307669,
+        "num": 307669,
+        "word": "明白了为什么微信这么占内存了",
+        "onboard_time": 1734064279,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287713,
+        "num": 287713,
+        "word": "内娱第一位洋葱系艺人",
+        "onboard_time": 1734045914,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56344,
+        "num": 271579,
+        "word": "再见爱人全员cosplay",
+        "onboard_time": 1734067340,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270063,
+        "num": 270063,
+        "word": "宇宙机器人销量",
+        "onboard_time": 1734064940,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243624,
+        "num": 243624,
+        "word": "猴哥说车妻子谈婚变",
+        "onboard_time": 1734067039,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230884,
+        "num": 230884,
+        "word": "女子被抱养37年拒认亲磕头谢生恩",
+        "onboard_time": 1734062300,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222943,
+        "num": 222943,
+        "word": "国家公祭仪式",
+        "onboard_time": 1734056541,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203911,
+        "num": 203911,
+        "word": "确认被爱后面相都变了",
+        "onboard_time": 1734061038,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205445,
+        "num": 201129,
+        "word": "南京15岁市民冒死保存日军屠城血证",
+        "onboard_time": 1734060558,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193227,
+        "num": 193227,
+        "word": "樊振东vs孙闻",
+        "onboard_time": 1734061278,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149400,
+        "num": 176667,
+        "word": "尹锡悦处境",
+        "onboard_time": 1734065180,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174537,
+        "num": 174537,
+        "word": "受伤小象被救后成了600斤的跟屁虫",
+        "onboard_time": 1734067102,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174083,
+        "num": 174083,
+        "word": "李铁曾忏悔自己活成了最憎恨的样子",
+        "onboard_time": 1734061759,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126663,
+        "num": 168067,
+        "word": "宋墨 左牵黄右擎昭",
+        "onboard_time": 1734056660,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163555,
+        "num": 163555,
+        "word": "61岁男子吃未焯水菠菜后肾衰竭",
+        "onboard_time": 1734056239,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央定基调明年经济工作这么干#"
+    }
+  }
+}
