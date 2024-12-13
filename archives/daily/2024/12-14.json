@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734110484190,
+  "endTime": 1734111588214,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -163,20 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159328,
+      "num": 159328,
+      "word": "成都多地迎来降雪",
+      "onboard_time": 1734108317,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155171,
+      "num": 155171,
+      "word": "官方回应成群野狗追咬小学生",
+      "onboard_time": 1734104239,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 150174,
       "num": 150174,
       "word": "我是刑警大结局",
       "onboard_time": 1734098541,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145573,
-      "num": 145573,
-      "word": "成都多地迎来降雪",
-      "onboard_time": 1734108317,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132358,
@@ -193,14 +201,6 @@
       "onboard_time": 1734083838,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130231,
-      "num": 130231,
-      "word": "官方回应成群野狗追咬小学生",
-      "onboard_time": 1734104239,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126712,
@@ -331,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94789,
+      "num": 94789,
+      "word": "宁夏一地成群野狗追咬小学生",
+      "onboard_time": 1734110474,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89961,
       "num": 89961,
       "word": "徐志胜 他觊觎她",
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66787,
+      "num": 66787,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59384,
       "num": 128114,
       "word": "杨奇",
@@ -411,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44037,
+      "num": 89685,
+      "word": "金玟庭泡泡回应粉丝",
+      "onboard_time": 1734110895,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43335,
       "num": 43335,
       "word": "黑神话悟空发博回应获奖",
@@ -419,11 +443,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 42336,
-      "num": 42336,
-      "word": "被举报邻居称全家已无人享受低保",
-      "onboard_time": 1734110414,
-      "rank": 48,
+      "raw_hot": 41026,
+      "num": 161899,
+      "word": "2024年度最后一场流星雨来了",
+      "onboard_time": 1734108616,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -435,12 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37836,
-      "num": 161899,
-      "word": "2024年度最后一场流星雨来了",
-      "onboard_time": 1734108616,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 32033,
+      "num": 66861,
+      "word": "pgc2024",
+      "onboard_time": 1734110654,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 28012,
