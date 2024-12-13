@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734071618349,
+  "endTime": 1734072447211,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 966928,
-      "num": 966928,
+      "num": 1130527,
       "word": "2斤黄金无人认领期满将拍卖",
       "onboard_time": 1734065720,
       "rank": 23,
@@ -171,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 696657,
-      "num": 696657,
+      "raw_hot": 718185,
+      "num": 718185,
       "word": "4399机器人",
       "onboard_time": 1734066140,
       "rank": 32,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594294,
+      "num": 594294,
+      "word": "家属称远嫁日本女子已瘦到皮包骨",
+      "onboard_time": 1734070699,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589596,
       "num": 589596,
       "word": "卖菜老人烧炭取暖身亡知情人发声",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 584539,
-      "num": 385177,
+      "num": 511738,
       "word": "猴哥说车妻子谈婚变",
       "onboard_time": 1734067039,
       "rank": 39,
@@ -291,20 +299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518647,
+      "num": 518647,
+      "word": "受伤小象被救后成了600斤的跟屁虫",
+      "onboard_time": 1734067102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517797,
       "num": 517797,
       "word": "樊振东vs孙闻",
       "onboard_time": 1734061278,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 496931,
-      "num": 496931,
-      "word": "受伤小象被救后成了600斤的跟屁虫",
-      "onboard_time": 1734067102,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495320,
@@ -339,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 455484,
+      "num": 517757,
+      "word": "白鹿获三级演员职称",
+      "onboard_time": 1734070039,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451418,
       "num": 451418,
       "word": "黑神话悟空中文获奖感言",
@@ -361,22 +377,6 @@
       "onboard_time": 1734056239,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 421285,
-      "num": 489925,
-      "word": "白鹿获三级演员职称",
-      "onboard_time": 1734070039,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420453,
-      "num": 420453,
-      "word": "家属称远嫁日本女子已瘦到皮包骨",
-      "onboard_time": 1734070699,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418665,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372739,
+      "num": 516397,
+      "word": "卢昱晓罗一舟或将合作轧戏",
+      "onboard_time": 1734068120,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358305,
       "num": 358305,
       "word": "曝某95花否掉九个男主",
@@ -435,8 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 328987,
-      "num": 486493,
+      "raw_hot": 335086,
+      "num": 510260,
       "word": "黄圣依感动哭了",
       "onboard_time": 1734067219,
       "rank": 28,
@@ -504,6 +512,14 @@
       "word": "巫师4正式公开",
       "onboard_time": 1734053780,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 305034,
+      "num": 399852,
+      "word": "单人游戏拿了最佳家庭游戏奖",
+      "onboard_time": 1734070519,
+      "rank": 18,
       "category": "游戏"
     },
     {
@@ -771,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215398,
+      "num": 292164,
+      "word": "霍建华戚薇 暗夜迷局",
+      "onboard_time": 1734071718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
@@ -835,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195642,
+      "num": 319092,
+      "word": "乒超第二日孙颖莎轮休",
+      "onboard_time": 1734072197,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195499,
       "num": 195499,
       "word": "索尼",
@@ -867,20 +899,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190951,
-      "num": 399852,
-      "word": "单人游戏拿了最佳家庭游戏奖",
-      "onboard_time": 1734070519,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "男子持皇家印章坐高铁",
+      "onboard_time": 1734071358,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 190581,
-      "num": 190581,
+      "raw_hot": 190620,
+      "num": 190620,
       "word": "旺旺集团郑重声明",
       "onboard_time": 1734069379,
       "rank": 39,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 190122,
+      "num": 516049,
+      "word": "时间为证凝望和平",
+      "onboard_time": 1734071299,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189576,
@@ -963,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179843,
+      "num": 179843,
+      "word": "EPIC 100份年度游戏",
+      "onboard_time": 1734071600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177778,
       "num": 460672,
       "word": "金秀贤将出演GD与朋友们",
@@ -1019,14 +1067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163551,
-      "num": 459570,
-      "word": "时间为证凝望和平",
-      "onboard_time": 1734071299,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162290,
       "num": 162290,
       "word": "向30余万遇难同胞默哀1分钟",
@@ -1035,12 +1075,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 162264,
-      "num": 162264,
-      "word": "EPIC 100份年度游戏",
-      "onboard_time": 1734071600,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 161553,
+      "num": 505273,
+      "word": "素人综艺正在失去素人味道",
+      "onboard_time": 1734069979,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 159562,
@@ -1052,7 +1092,7 @@
     },
     {
       "raw_hot": 159400,
-      "num": 412902,
+      "num": 484363,
       "word": "声生不息选曲",
       "onboard_time": 1734069259,
       "rank": 15,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1734055820,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157749,
+      "num": 157749,
+      "word": "珠海地震",
+      "onboard_time": 1734071838,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157274,
@@ -1139,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147433,
-      "num": 398394,
-      "word": "素人综艺正在失去素人味道",
-      "onboard_time": 1734069979,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147394,
       "num": 147394,
       "word": "马龙谈生涯最完美比赛",
@@ -1195,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141880,
+      "num": 466600,
+      "word": "机器人help机器人",
+      "onboard_time": 1734071418,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141601,
       "num": 141601,
       "word": "菲方挑衅加一分中方反制就强一步",
@@ -1227,14 +1275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138919,
-      "num": 138919,
-      "word": "男子持皇家印章坐高铁",
-      "onboard_time": 1734071358,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138383,
       "num": 138383,
       "word": "经济工作会议",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1734058578,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135690,
+      "num": 135690,
+      "word": "日本民间团体收集日军侵华罪证",
+      "onboard_time": 1734071658,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132357,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1733999601,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116689,
+      "num": 318440,
+      "word": "九华山偶遇王楚然祈福",
+      "onboard_time": 1734072317,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 115132,
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101515,
+      "num": 381297,
+      "word": "泰星吉拉宇婚纱照",
+      "onboard_time": 1734069919,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98837,
       "num": 98837,
       "word": "张凌赫逐玉一番",
@@ -1456,14 +1520,6 @@
       "word": "李昀锐 薄肌",
       "onboard_time": 1734007699,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 92765,
-      "num": 381297,
-      "word": "泰星吉拉宇婚纱照",
-      "onboard_time": 1734069919,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1531,6 +1587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82397,
+      "num": 266292,
+      "word": "声生不息港剧OST演唱会",
+      "onboard_time": 1734071538,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80307,
       "num": 346463,
       "word": "一天内3家央行宣布降息",
@@ -1569,14 +1633,6 @@
       "onboard_time": 1734031632,
       "rank": 38,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 69889,
-      "num": 406274,
-      "word": "机器人help机器人",
-      "onboard_time": 1734071418,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 69427,
@@ -1619,14 +1675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 59393,
-      "num": 246809,
-      "word": "声生不息港剧OST演唱会",
-      "onboard_time": 1734071538,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59323,
       "num": 59323,
       "word": "英伟达",
@@ -1651,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55757,
+      "num": 453704,
+      "word": "李铁曾寄语服刑人员",
+      "onboard_time": 1734071838,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54689,
       "num": 1042956,
       "word": "盘点2024新质生产力新突破",
@@ -1665,6 +1721,14 @@
       "onboard_time": 1734031751,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53866,
+      "num": 322203,
+      "word": "霉霉探望慈善医院儿童",
+      "onboard_time": 1734069739,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 52230,
@@ -1689,14 +1753,6 @@
       "onboard_time": 1734045915,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44502,
-      "num": 322203,
-      "word": "霉霉探望慈善医院儿童",
-      "onboard_time": 1734069739,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 40922,
