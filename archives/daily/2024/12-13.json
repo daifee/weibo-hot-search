@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734056140139,
+  "endTime": 1734059258604,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -25,6 +25,14 @@
       "onboard_time": 1734000019,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1297264,
+      "num": 330323,
+      "word": "美国一聊天机器人暗示孩子杀死父母",
+      "onboard_time": 1734056718,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1278189,
@@ -115,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 542600,
+      "num": 567527,
+      "word": "感受到了卖长颈鹿凳子商家的无奈",
+      "onboard_time": 1734055280,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538732,
       "num": 538732,
       "word": "老师突然晕倒大一女生们分工救人",
@@ -137,6 +153,22 @@
       "onboard_time": 1734051438,
       "rank": 16,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 439744,
+      "num": 328876,
+      "word": "黑神话悟空中文获奖感言",
+      "onboard_time": 1734055999,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 423724,
+      "num": 321127,
+      "word": "61岁男子吃未焯水菠菜后肾衰竭",
+      "onboard_time": 1734056240,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 418665,
@@ -179,12 +211,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330712,
-      "num": 567527,
-      "word": "感受到了卖长颈鹿凳子商家的无奈",
-      "onboard_time": 1734055280,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 346798,
+      "num": 322704,
+      "word": "曝朴彩英与新歌MV男主恋爱",
+      "onboard_time": 1734059060,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343816,
+      "num": 343816,
+      "word": "双人成行制作组新作",
+      "onboard_time": 1734056779,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 324177,
@@ -283,6 +323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265120,
+      "num": 265120,
+      "word": "每天走多少步才可以降低久坐伤害",
+      "onboard_time": 1734055159,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 255290,
+      "num": 406555,
+      "word": "嘎子哥谢孟伟获三级演员职称",
+      "onboard_time": 1734053419,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254151,
       "num": 198876,
       "word": "37岁去世主持人妻子怀孕5个月",
@@ -339,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232366,
+      "num": 400197,
+      "word": "她11岁时一家7口被日军杀害",
+      "onboard_time": 1734049459,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230967,
       "num": 407419,
       "word": "嘎子哥谢孟伟后悔直播带货卖酒",
@@ -347,12 +411,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223800,
-      "num": 406555,
-      "word": "嘎子哥谢孟伟获三级演员职称",
-      "onboard_time": 1734053419,
+      "raw_hot": 230653,
+      "num": 230653,
+      "word": "国家公祭仪式",
+      "onboard_time": 1734056540,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 226976,
+      "num": 325279,
+      "word": "夏之光晒爷爷奶奶手牵手背影照",
+      "onboard_time": 1734058458,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224325,
+      "num": 322304,
+      "word": "宋墨 左牵黄右擎昭",
+      "onboard_time": 1734056659,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 222784,
@@ -371,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218129,
-      "num": 400197,
-      "word": "她11岁时一家7口被日军杀害",
-      "onboard_time": 1734049459,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
@@ -393,14 +465,6 @@
       "onboard_time": 1734017840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199678,
-      "num": 199678,
-      "word": "每天走多少步才可以降低久坐伤害",
-      "onboard_time": 1734055159,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191855,
@@ -419,8 +483,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191152,
+      "num": 191152,
+      "word": "鬼武者新作预告",
+      "onboard_time": 1734059060,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187521,
-      "num": 290224,
+      "num": 319331,
       "word": "李现一人徒步鱼子西",
       "onboard_time": 1734015619,
       "rank": 17,
@@ -444,7 +516,7 @@
     },
     {
       "raw_hot": 182795,
-      "num": 182795,
+      "num": 315572,
       "word": "村支书回应男子大冬天抱全裸婴儿上街",
       "onboard_time": 1734053180,
       "rank": 38,
@@ -467,12 +539,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180769,
+      "num": 180769,
+      "word": "英雄联盟获TGA最佳电竞游戏",
+      "onboard_time": 1734057258,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180406,
       "num": 180406,
       "word": "以国之名悼我同胞",
       "onboard_time": 1734021197,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 177778,
+      "num": 319842,
+      "word": "金秀贤将出演GD与朋友们",
+      "onboard_time": 1734056540,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 176663,
@@ -515,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162290,
+      "num": 162290,
+      "word": "向30余万遇难同胞默哀1分钟",
+      "onboard_time": 1734056240,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159562,
       "num": 145144,
       "word": "曝宋佳已领证结婚",
@@ -537,6 +633,14 @@
       "onboard_time": 1734045795,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156175,
+      "num": 156175,
+      "word": "被抱养37年女子被气病住院",
+      "onboard_time": 1734057979,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154224,
@@ -569,14 +673,6 @@
       "onboard_time": 1734050598,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147042,
-      "num": 147042,
-      "word": "黑神话悟空中文获奖感言",
-      "onboard_time": 1734055999,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 146374,
@@ -651,6 +747,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135748,
+      "num": 315010,
+      "word": "暗喻幻想获TGA最佳艺术指导",
+      "onboard_time": 1734058578,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 134128,
+      "num": 324394,
+      "word": "南京大屠杀死难者国家公祭日",
+      "onboard_time": 1734059118,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132327,
       "num": 132327,
       "word": "田曦薇定妆",
@@ -697,6 +809,14 @@
       "onboard_time": 1734013342,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114990,
+      "num": 318252,
+      "word": "感谢没有空气墙",
+      "onboard_time": 1734056479,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 113320,
@@ -803,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85755,
+      "num": 328628,
+      "word": "李铁尚未决定是否上诉",
+      "onboard_time": 1734059238,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85489,
       "num": 85489,
       "word": "赛琳娜宣布订婚",
@@ -859,12 +987,28 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 69803,
+      "num": 327760,
+      "word": "李铁资本版图起底",
+      "onboard_time": 1734058818,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 69427,
       "num": 69427,
       "word": "南京大屠杀死难者国家公祭",
       "onboard_time": 1734023054,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69015,
+      "num": 331433,
+      "word": "一天内3家央行宣布降息",
+      "onboard_time": 1734059238,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 63492,
@@ -931,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40032,
+      "num": 324633,
+      "word": "李铁曾称最憎恨踢假球的人",
+      "onboard_time": 1734058818,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37430,
       "num": 45003,
       "word": "AI还原南京大屠杀幸存者童年",
@@ -945,6 +1097,22 @@
       "onboard_time": 1734041231,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33937,
+      "num": 317234,
+      "word": "香奈儿任命新创意总监",
+      "onboard_time": 1734058578,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 30108,
+      "num": 317737,
+      "word": "冬季补水你做对了吗",
+      "onboard_time": 1734058338,
+      "rank": 28,
+      "category": "美妆"
     },
     {
       "raw_hot": 27845,

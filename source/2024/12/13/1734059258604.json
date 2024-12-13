@@ -1,0 +1,410 @@
+{
+  "runTime": 1734059258604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3793850,
+        "num": 3793850,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052219,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1162323,
+        "num": 1162323,
+        "word": "TGA",
+        "onboard_time": 1734047537,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36819,
+        "num": 728726,
+        "word": "盘点2024新质生产力新突破",
+        "onboard_time": 1734009740,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 600766,
+        "num": 600766,
+        "word": "黑神话悟空获TGA最佳动作游戏",
+        "onboard_time": 1734053660,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 542600,
+        "num": 542600,
+        "word": "感受到了卖长颈鹿凳子商家的无奈",
+        "onboard_time": 1734055280,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407084,
+        "num": 407084,
+        "word": "南京大屠杀幸存者肩膀被子弹打变形",
+        "onboard_time": 1734050479,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375720,
+        "num": 375720,
+        "word": "国家公祭日",
+        "onboard_time": 1734020778,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343816,
+        "num": 343816,
+        "word": "双人成行制作组新作",
+        "onboard_time": 1734056779,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 331442,
+        "num": 331442,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734054260,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69015,
+        "num": 331433,
+        "word": "一天内3家央行宣布降息",
+        "onboard_time": 1734059238,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1297264,
+        "num": 330323,
+        "word": "美国一聊天机器人暗示孩子杀死父母",
+        "onboard_time": 1734056718,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1011491,
+        "num": 329677,
+        "word": "女子被抱养37年生父母找来留10万",
+        "onboard_time": 1734047959,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439744,
+        "num": 328876,
+        "word": "黑神话悟空中文获奖感言",
+        "onboard_time": 1734055999,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 85755,
+        "num": 328628,
+        "word": "李铁尚未决定是否上诉",
+        "onboard_time": 1734059238,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69803,
+        "num": 327760,
+        "word": "李铁资本版图起底",
+        "onboard_time": 1734058818,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 339131,
+        "num": 326830,
+        "word": "李铁案始末",
+        "onboard_time": 1734052460,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255290,
+        "num": 325876,
+        "word": "嘎子哥谢孟伟获三级演员职称",
+        "onboard_time": 1734053419,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226976,
+        "num": 325279,
+        "word": "夏之光晒爷爷奶奶手牵手背影照",
+        "onboard_time": 1734058458,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40032,
+        "num": 324633,
+        "word": "李铁曾称最憎恨踢假球的人",
+        "onboard_time": 1734058818,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134128,
+        "num": 324394,
+        "word": "南京大屠杀死难者国家公祭日",
+        "onboard_time": 1734059118,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378586,
+        "num": 323168,
+        "word": "韩娱地震",
+        "onboard_time": 1734000019,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346798,
+        "num": 322704,
+        "word": "曝朴彩英与新歌MV男主恋爱",
+        "onboard_time": 1734059060,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224325,
+        "num": 322304,
+        "word": "宋墨 左牵黄右擎昭",
+        "onboard_time": 1734056659,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423724,
+        "num": 321127,
+        "word": "61岁男子吃未焯水菠菜后肾衰竭",
+        "onboard_time": 1734056240,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199694,
+        "num": 320461,
+        "word": "劣迹艺人无职称评审资格",
+        "onboard_time": 1734016100,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177778,
+        "num": 319842,
+        "word": "金秀贤将出演GD与朋友们",
+        "onboard_time": 1734056540,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108084,
+        "num": 319331,
+        "word": "李现一人徒步鱼子西",
+        "onboard_time": 1734015619,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114990,
+        "num": 318252,
+        "word": "感谢没有空气墙",
+        "onboard_time": 1734056479,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30108,
+        "num": 317737,
+        "word": "冬季补水你做对了吗",
+        "onboard_time": 1734058338,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33937,
+        "num": 317234,
+        "word": "香奈儿任命新创意总监",
+        "onboard_time": 1734058578,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 523293,
+        "num": 316720,
+        "word": "内娱第一位洋葱系艺人",
+        "onboard_time": 1734045915,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171254,
+        "num": 315572,
+        "word": "村支书回应男子大冬天抱全裸婴儿上街",
+        "onboard_time": 1734053180,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135748,
+        "num": 315010,
+        "word": "暗喻幻想获TGA最佳艺术指导",
+        "onboard_time": 1734058578,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314674,
+        "num": 314674,
+        "word": "留几手气死人了",
+        "onboard_time": 1734029051,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274998,
+        "num": 274998,
+        "word": "阿根廷总统宣布取消90%国家税收",
+        "onboard_time": 1734051438,
+        "rank": 34,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 265120,
+        "num": 265120,
+        "word": "每天走多少步才可以降低久坐伤害",
+        "onboard_time": 1734055159,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232808,
+        "num": 232808,
+        "word": "李铁涉案金额近1.2亿",
+        "onboard_time": 1734053719,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232366,
+        "num": 232366,
+        "word": "她11岁时一家7口被日军杀害",
+        "onboard_time": 1734049459,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230653,
+        "num": 230653,
+        "word": "国家公祭仪式",
+        "onboard_time": 1734056540,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191152,
+        "num": 191152,
+        "word": "鬼武者新作预告",
+        "onboard_time": 1734059060,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183336,
+        "num": 183336,
+        "word": "老师突然晕倒大一女生们分工救人",
+        "onboard_time": 1734028151,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 180769,
+        "num": 180769,
+        "word": "英雄联盟获TGA最佳电竞游戏",
+        "onboard_time": 1734057258,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170346,
+        "num": 170346,
+        "word": "黑神话悟空",
+        "onboard_time": 1734055339,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162290,
+        "num": 162290,
+        "word": "向30余万遇难同胞默哀1分钟",
+        "onboard_time": 1734056240,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159023,
+        "num": 159023,
+        "word": "代号鸢",
+        "onboard_time": 1734052219,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156175,
+        "num": 156175,
+        "word": "被抱养37年女子被气病住院",
+        "onboard_time": 1734057979,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155109,
+        "num": 155109,
+        "word": "胖东来追求实现员工月到手8000元以上",
+        "onboard_time": 1734055460,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83940,
+        "num": 149773,
+        "word": "我是刑警全员去表演化",
+        "onboard_time": 1734047598,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146929,
+        "num": 146929,
+        "word": "A股",
+        "onboard_time": 1734055099,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134686,
+        "num": 134686,
+        "word": "男生昏迷醒来失忆2年后返校重读大三",
+        "onboard_time": 1734051559,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议举行#"
+    }
+  }
+}
