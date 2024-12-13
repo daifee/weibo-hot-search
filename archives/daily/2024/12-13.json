@@ -1,9 +1,9 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734054751627,
+  "endTime": 1734056140139,
   "band_list": [
     {
-      "raw_hot": 5883262,
+      "raw_hot": 6094170,
       "num": 7133262,
       "word": "李铁被判20年",
       "onboard_time": 1734052219,
@@ -27,20 +27,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1049125,
-      "num": 1049125,
+      "raw_hot": 1278189,
+      "num": 1278189,
       "word": "TGA",
       "onboard_time": 1734047537,
       "rank": 1,
       "category": "游戏"
     },
     {
-      "raw_hot": 1042463,
+      "raw_hot": 1232889,
       "num": 1042463,
       "word": "女子被抱养37年生父母找来留10万",
       "onboard_time": 1734047959,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913786,
+      "num": 913786,
+      "word": "黑神话悟空获TGA最佳动作游戏",
+      "onboard_time": 1734053660,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 899015,
@@ -51,23 +59,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 805823,
-      "num": 805823,
+      "raw_hot": 883715,
+      "num": 883715,
       "word": "国家公祭日",
       "onboard_time": 1734020778,
       "rank": 9,
       "category": "国内时政"
     },
     {
-      "raw_hot": 801768,
-      "num": 801768,
-      "word": "黑神话悟空获TGA最佳动作游戏",
-      "onboard_time": 1734053660,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 741326,
+      "raw_hot": 755084,
       "num": 912795,
       "word": "内娱第一位洋葱系艺人",
       "onboard_time": 1734045915,
@@ -83,12 +83,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544064,
-      "num": 544064,
+      "raw_hot": 589596,
+      "num": 589596,
+      "word": "卖菜老人烧炭取暖身亡知情人发声",
+      "onboard_time": 1734049938,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569976,
+      "num": 569976,
       "word": "李铁案始末",
       "onboard_time": 1734052460,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 564939,
+      "num": 564939,
+      "word": "南京大屠杀幸存者肩膀被子弹打变形",
+      "onboard_time": 1734050479,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 543505,
@@ -115,20 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460250,
-      "num": 460250,
-      "word": "南京大屠杀幸存者肩膀被子弹打变形",
-      "onboard_time": 1734050479,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 455173,
-      "num": 455173,
-      "word": "卖菜老人烧炭取暖身亡知情人发声",
-      "onboard_time": 1734049938,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 483679,
+      "num": 483679,
+      "word": "阿根廷总统宣布取消90%国家税收",
+      "onboard_time": 1734051438,
+      "rank": 16,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 418665,
@@ -139,12 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404662,
-      "num": 404662,
-      "word": "阿根廷总统宣布取消90%国家税收",
-      "onboard_time": 1734051438,
-      "rank": 16,
-      "category": "财经,国际时政"
+      "raw_hot": 392563,
+      "num": 392563,
+      "word": "男生昏迷醒来失忆2年后返校重读大三",
+      "onboard_time": 1734051559,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385662,
+      "num": 569081,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734054260,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 385644,
@@ -155,20 +171,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 384891,
-      "num": 384891,
-      "word": "男生昏迷醒来失忆2年后返校重读大三",
-      "onboard_time": 1734051559,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358305,
       "num": 358305,
       "word": "曝某95花否掉九个男主",
       "onboard_time": 1734010220,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 330712,
+      "num": 567527,
+      "word": "感受到了卖长颈鹿凳子商家的无奈",
+      "onboard_time": 1734055280,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 324177,
+      "num": 324177,
+      "word": "A股",
+      "onboard_time": 1734055099,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 308828,
@@ -179,11 +203,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306042,
+      "num": 385425,
+      "word": "李铁涉案金额近1.2亿",
+      "onboard_time": 1734053719,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305122,
       "num": 305122,
       "word": "巫师4正式公开",
       "onboard_time": 1734053780,
       "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297977,
+      "num": 311584,
+      "word": "黑神话悟空",
+      "onboard_time": 1734055339,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 297089,
+      "num": 289080,
+      "word": "艾尔登法环新作公开",
+      "onboard_time": 1734054500,
+      "rank": 30,
       "category": "游戏"
     },
     {
@@ -292,10 +340,18 @@
     },
     {
       "raw_hot": 230967,
-      "num": 405346,
+      "num": 407419,
       "word": "嘎子哥谢孟伟后悔直播带货卖酒",
       "onboard_time": 1734011121,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223800,
+      "num": 406555,
+      "word": "嘎子哥谢孟伟获三级演员职称",
+      "onboard_time": 1734053419,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -316,7 +372,7 @@
     },
     {
       "raw_hot": 218129,
-      "num": 218129,
+      "num": 400197,
       "word": "她11岁时一家7口被日军杀害",
       "onboard_time": 1734049459,
       "rank": 26,
@@ -331,14 +387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 208537,
-      "num": 198935,
-      "word": "艾尔登法环新作公开",
-      "onboard_time": 1734054500,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 207921,
       "num": 207921,
       "word": "重庆一野猪冲进饭馆被多名食客抓住",
@@ -347,20 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203968,
-      "num": 203968,
-      "word": "现在拨打的电话",
-      "onboard_time": 1734054260,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196193,
-      "num": 390827,
-      "word": "嘎子哥谢孟伟获三级演员职称",
-      "onboard_time": 1734053419,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 199678,
+      "num": 199678,
+      "word": "每天走多少步才可以降低久坐伤害",
+      "onboard_time": 1734055159,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191855,
@@ -380,11 +420,19 @@
     },
     {
       "raw_hot": 187521,
-      "num": 200269,
+      "num": 290224,
       "word": "李现一人徒步鱼子西",
       "onboard_time": 1734015619,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186781,
+      "num": 186781,
+      "word": "代号鸢",
+      "onboard_time": 1734052219,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 186065,
@@ -393,6 +441,14 @@
       "onboard_time": 1734047478,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182795,
+      "num": 182795,
+      "word": "村支书回应男子大冬天抱全裸婴儿上街",
+      "onboard_time": 1734053180,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182041,
@@ -435,20 +491,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 168445,
+      "num": 168445,
+      "word": "胖东来追求实现员工月到手8000元以上",
+      "onboard_time": 1734055460,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166736,
       "num": 135450,
       "word": "有暖气地区的统一睡姿",
       "onboard_time": 1734015141,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166314,
-      "num": 166314,
-      "word": "村支书回应男子大冬天抱全裸婴儿上街",
-      "onboard_time": 1734053180,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166228,
@@ -459,14 +515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 165921,
-      "num": 165921,
-      "word": "代号鸢",
-      "onboard_time": 1734052219,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 159562,
       "num": 145144,
       "word": "曝宋佳已领证结婚",
@@ -475,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157582,
-      "num": 385425,
-      "word": "李铁涉案金额近1.2亿",
-      "onboard_time": 1734053719,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 159208,
+      "num": 414537,
+      "word": "这些数字是南京大屠杀的铁证",
+      "onboard_time": 1734055820,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157274,
@@ -523,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147042,
+      "num": 147042,
+      "word": "黑神话悟空中文获奖感言",
+      "onboard_time": 1734055999,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146374,
       "num": 146374,
       "word": "国足原主教练李铁案一审宣判",
@@ -539,20 +595,36 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 142012,
+      "num": 142012,
+      "word": "12月13日不能忘不敢忘",
+      "onboard_time": 1734022635,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141601,
+      "num": 141601,
+      "word": "菲方挑衅加一分中方反制就强一步",
+      "onboard_time": 1734054020,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141474,
+      "num": 141474,
+      "word": "老瓦杯揭幕战马龙陈梦混双",
+      "onboard_time": 1734055099,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141236,
       "num": 141236,
       "word": "张凌赫谢征定妆",
       "onboard_time": 1734048258,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140865,
-      "num": 140865,
-      "word": "12月13日不能忘不敢忘",
-      "onboard_time": 1734022635,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139026,
@@ -689,6 +761,14 @@
       "onboard_time": 1734011661,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95801,
+      "num": 566305,
+      "word": "他们的血泪故事不容遗忘",
+      "onboard_time": 1734055820,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95794,
