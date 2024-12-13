@@ -1,0 +1,410 @@
+{
+  "runTime": 1734104419659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 981957,
+        "num": 1157113,
+        "word": "难哄",
+        "onboard_time": 1734101840,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660960,
+        "num": 660960,
+        "word": "微信多收10元收费站3人被停职",
+        "onboard_time": 1734088399,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31479,
+        "num": 585014,
+        "word": "2025年经济工作有哪些新表述新提法",
+        "onboard_time": 1734100938,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790027,
+        "num": 584819,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734099439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582426,
+        "num": 582426,
+        "word": "樊振东对战日本选手胸前贴上国旗",
+        "onboard_time": 1734101421,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1157936,
+        "num": 550588,
+        "word": "艺考前十天被抱摔骨折",
+        "onboard_time": 1734095780,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999484,
+        "num": 517401,
+        "word": "叙多位科学家遇害研究成果一并消失",
+        "onboard_time": 1734101479,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 660462,
+        "num": 478056,
+        "word": "微博之夜",
+        "onboard_time": 1734102200,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608707,
+        "num": 467099,
+        "word": "曝湖南卫视跨年嘉宾名单",
+        "onboard_time": 1734097339,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83124,
+        "num": 439966,
+        "word": "一起看双子座流星雨直播",
+        "onboard_time": 1734102859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689559,
+        "num": 396797,
+        "word": "爷孙恋女主罕见回应近况",
+        "onboard_time": 1734086300,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 371646,
+        "num": 371646,
+        "word": "张家界一游客与猴子互殴",
+        "onboard_time": 1734092838,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324822,
+        "num": 324822,
+        "word": "王楚钦想给观众买含片",
+        "onboard_time": 1734100400,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308327,
+        "num": 308327,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 13,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 292873,
+        "num": 292873,
+        "word": "九重紫明晚大婚",
+        "onboard_time": 1734101540,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286353,
+        "num": 286353,
+        "word": "我是刑警大结局",
+        "onboard_time": 1734098541,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271803,
+        "num": 271803,
+        "word": "代号鸢 小萌",
+        "onboard_time": 1734097399,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54058,
+        "num": 271674,
+        "word": "檀健次回味式演技",
+        "onboard_time": 1734095720,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147382,
+        "num": 265546,
+        "word": "爷孙恋女主林靖恩回应乞讨食物",
+        "onboard_time": 1734102799,
+        "rank": 18,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 74308,
+        "num": 261238,
+        "word": "海归博士被公司起诉索赔一亿五千万",
+        "onboard_time": 1734103699,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 847276,
+        "num": 260090,
+        "word": "董洁因儿子青春期崩溃",
+        "onboard_time": 1734094099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284035,
+        "num": 256304,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1734101899,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254116,
+        "num": 254116,
+        "word": "白色橄榄树难哄对打",
+        "onboard_time": 1734097879,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243395,
+        "num": 243395,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 23,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 135470,
+        "num": 218980,
+        "word": "许昕左手放高球右手示意观众欢呼",
+        "onboard_time": 1734100759,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215377,
+        "num": 215377,
+        "word": "陶喆 我不是鸭王",
+        "onboard_time": 1734098181,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214695,
+        "num": 214695,
+        "word": "好好睡觉也是一种自律",
+        "onboard_time": 1734100400,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212259,
+        "num": 212259,
+        "word": "代号鸢",
+        "onboard_time": 1734096979,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 60543,
+        "num": 195595,
+        "word": "官方回应成群野狗追咬小学生",
+        "onboard_time": 1734104239,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53606,
+        "num": 187990,
+        "word": "艾滋病感染者担心医疗互认遭拒诊",
+        "onboard_time": 1734102919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180909,
+        "num": 180909,
+        "word": "九重紫",
+        "onboard_time": 1734083838,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177197,
+        "num": 177197,
+        "word": "女子长期过度节食体重仅24公斤",
+        "onboard_time": 1734096319,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176289,
+        "num": 176289,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1734089960,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167779,
+        "num": 167779,
+        "word": "陈梦巴黎奥运后首次出战",
+        "onboard_time": 1734103339,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166701,
+        "num": 166701,
+        "word": "代号鸢 初心",
+        "onboard_time": 1734089718,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88263,
+        "num": 158304,
+        "word": "四川小伙靠自学雅思考了7.5分",
+        "onboard_time": 1734102439,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152612,
+        "num": 152612,
+        "word": "白鹿也要坐昭昭墨墨主桌",
+        "onboard_time": 1734088220,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 144027,
+        "word": "多位LPL选手被迫休息",
+        "onboard_time": 1734098299,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143196,
+        "num": 143196,
+        "word": "QQ音乐回应装扮问题",
+        "onboard_time": 1734094279,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138022,
+        "num": 138022,
+        "word": "硕士论文写导生关系被下载10万次",
+        "onboard_time": 1734082458,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75657,
+        "num": 137552,
+        "word": "沈翊 妇女之友",
+        "onboard_time": 1734101421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137297,
+        "num": 137297,
+        "word": "应届生考公上岸后再考研",
+        "onboard_time": 1734102799,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128902,
+        "num": 128902,
+        "word": "偶遇汪峰女友森林北",
+        "onboard_time": 1734096140,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124112,
+        "num": 124112,
+        "word": "蔡明看杨子的表情",
+        "onboard_time": 1734098901,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123620,
+        "num": 123620,
+        "word": "A股放量2023亿",
+        "onboard_time": 1734103821,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117487,
+        "num": 117487,
+        "word": "2斤黄金无人认领上缴国库",
+        "onboard_time": 1734095599,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114515,
+        "num": 114515,
+        "word": "金玟庭发泡泡报平安",
+        "onboard_time": 1734095539,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113909,
+        "num": 113909,
+        "word": "虞书欣姜暮哭戏路透破碎感",
+        "onboard_time": 1734094519,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111596,
+        "num": 111596,
+        "word": "韩路 23万极越车如今只值2万",
+        "onboard_time": 1734095060,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108283,
+        "num": 108283,
+        "word": "王楚钦 最后一球太行了",
+        "onboard_time": 1734100642,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}

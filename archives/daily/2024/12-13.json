@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734103539695,
+  "endTime": 1734104419659,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -203,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 999484,
+      "num": 517401,
+      "word": "叙多位科学家遇害研究成果一并消失",
+      "onboard_time": 1734101479,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 995660,
       "num": 691916,
       "word": "Epic 问号",
       "onboard_time": 1734066321,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 981957,
+      "num": 1157113,
+      "word": "难哄",
+      "onboard_time": 1734101840,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 972076,
@@ -241,14 +257,6 @@
       "onboard_time": 1734083118,
       "rank": 3,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 944438,
-      "num": 470292,
-      "word": "叙多位科学家遇害研究成果一并消失",
-      "onboard_time": 1734101479,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 913786,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 660462,
+      "num": 478056,
+      "word": "微博之夜",
+      "onboard_time": 1734102200,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 651552,
       "num": 1104090,
       "word": "三台极越车主称接受不了",
@@ -473,6 +489,14 @@
       "onboard_time": 1734067039,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 582426,
+      "num": 582426,
+      "word": "樊振东对战日本选手胸前贴上国旗",
+      "onboard_time": 1734101421,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 579449,
@@ -579,14 +603,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 537782,
-      "num": 469992,
-      "word": "难哄",
-      "onboard_time": 1734101840,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 528752,
       "num": 528752,
       "word": "杜兆才一审被判14年",
@@ -665,14 +681,6 @@
       "onboard_time": 1734075196,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471367,
-      "num": 471367,
-      "word": "樊振东对战日本选手胸前贴上国旗",
-      "onboard_time": 1734101421,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 466823,
@@ -777,14 +785,6 @@
       "onboard_time": 1734013461,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413706,
-      "num": 413706,
-      "word": "微博之夜",
-      "onboard_time": 1734102200,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 411326,
@@ -1187,6 +1187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284035,
+      "num": 256304,
+      "word": "猎罪图鉴2已经是nextlevel了",
+      "onboard_time": 1734101899,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283816,
       "num": 390160,
       "word": "霍建华戚薇 暗夜迷局",
@@ -1499,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219154,
-      "num": 219154,
-      "word": "猎罪图鉴2已经是nextlevel了",
-      "onboard_time": 1734101899,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219046,
       "num": 219046,
       "word": "王楚钦边吃零食边看孙颖莎比赛",
@@ -1520,6 +1520,14 @@
       "word": "胖东来热门商品能买到了",
       "onboard_time": 1734076337,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214695,
+      "num": 214695,
+      "word": "好好睡觉也是一种自律",
+      "onboard_time": 1734100400,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1971,20 +1979,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169446,
-      "num": 208745,
-      "word": "好好睡觉也是一种自律",
-      "onboard_time": 1734100400,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168445,
       "num": 168445,
       "word": "胖东来追求实现员工月到手8000元以上",
       "onboard_time": 1734055460,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167779,
+      "num": 167779,
+      "word": "陈梦巴黎奥运后首次出战",
+      "onboard_time": 1734103339,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 167769,
@@ -2244,7 +2252,7 @@
     },
     {
       "raw_hot": 149538,
-      "num": 228304,
+      "num": 271674,
       "word": "檀健次回味式演技",
       "onboard_time": 1734095720,
       "rank": 28,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1734050598,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147382,
+      "num": 307551,
+      "word": "爷孙恋女主林靖恩回应乞讨食物",
+      "onboard_time": 1734102799,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 147371,
@@ -2459,6 +2475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137297,
+      "num": 208201,
+      "word": "应届生考公上岸后再考研",
+      "onboard_time": 1734102799,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135876,
       "num": 135876,
       "word": "沈月说徐志胜湿气太重",
@@ -2539,14 +2563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 128862,
-      "num": 128862,
-      "word": "陈梦巴黎奥运后首次出战",
-      "onboard_time": 1734103339,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128782,
       "num": 325756,
       "word": "成毅赴山海招商",
@@ -2595,12 +2611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122393,
-      "num": 307551,
-      "word": "爷孙恋女主林靖恩回应乞讨食物",
-      "onboard_time": 1734102799,
-      "rank": 19,
-      "category": "网红,民生新闻"
+      "raw_hot": 123620,
+      "num": 123620,
+      "word": "A股放量2023亿",
+      "onboard_time": 1734103821,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 121903,
@@ -2891,6 +2907,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 88263,
+      "num": 309033,
+      "word": "四川小伙靠自学雅思考了7.5分",
+      "onboard_time": 1734102439,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86572,
       "num": 388375,
       "word": "黄翠如孕肚照",
@@ -2929,6 +2953,14 @@
       "onboard_time": 1734032712,
       "rank": 31,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 83124,
+      "num": 439966,
+      "word": "一起看双子座流星雨直播",
+      "onboard_time": 1734102859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83089,
@@ -3003,6 +3035,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75657,
+      "num": 315100,
+      "word": "沈翊 妇女之友",
+      "onboard_time": 1734101421,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74308,
+      "num": 261238,
+      "word": "海归博士被公司起诉索赔一亿五千万",
+      "onboard_time": 1734103699,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72778,
       "num": 72778,
       "word": "张颂文说从没糊弄过任何角色",
@@ -3032,14 +3080,6 @@
       "word": "员工打卡证明加班索赔71万未获支持",
       "onboard_time": 1734094939,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69696,
-      "num": 309033,
-      "word": "四川小伙靠自学雅思考了7.5分",
-      "onboard_time": 1734102439,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3104,6 +3144,14 @@
       "word": "警方回应一别墅内发现有人非法取卵",
       "onboard_time": 1734092238,
       "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 60543,
+      "num": 195595,
+      "word": "官方回应成群野狗追咬小学生",
+      "onboard_time": 1734104239,
+      "rank": 28,
       "category": "辟谣/通报"
     },
     {
@@ -3187,6 +3235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 53606,
+      "num": 205070,
+      "word": "艾滋病感染者担心医疗互认遭拒诊",
+      "onboard_time": 1734102919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52230,
       "num": 369412,
       "word": "枪杀CEO的他为何被美国人捧为英雄",
@@ -3227,14 +3283,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 48189,
-      "num": 315100,
-      "word": "沈翊 妇女之友",
-      "onboard_time": 1734101421,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48003,
       "num": 134105,
       "word": "王楚钦乒超赛场听取哇声一片",
@@ -3256,14 +3304,6 @@
       "word": "5个爸爸直播跳舞陪孩子抗癌背后",
       "onboard_time": 1734099979,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45707,
-      "num": 427211,
-      "word": "一起看双子座流星雨直播",
-      "onboard_time": 1734102859,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3339,14 +3379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37116,
-      "num": 208201,
-      "word": "应届生考公上岸后再考研",
-      "onboard_time": 1734102799,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 36710,
       "num": 210018,
       "word": "起底安徽涉代孕医疗公司",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1734058578,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 31479,
+      "num": 695784,
+      "word": "2025年经济工作有哪些新表述新提法",
+      "onboard_time": 1734100938,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30915,
@@ -3427,14 +3467,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 28024,
-      "num": 695784,
-      "word": "2025年经济工作有哪些新表述新提法",
-      "onboard_time": 1734100938,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27845,
       "num": 27845,
       "word": "檀健次沈翊爆改rapper",
@@ -3465,14 +3497,6 @@
       "onboard_time": 1734069618,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25969,
-      "num": 205070,
-      "word": "艾滋病感染者担心医疗互认遭拒诊",
-      "onboard_time": 1734102919,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25077,
