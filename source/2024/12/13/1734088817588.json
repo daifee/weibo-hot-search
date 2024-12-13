@@ -1,0 +1,410 @@
+{
+  "runTime": 1734088817588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964565,
+        "num": 1154330,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 0,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 885748,
+        "num": 885748,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 1,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 47833,
+        "num": 767926,
+        "word": "祭忆之花将历史记忆与和平愿景相连",
+        "onboard_time": 1734079579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714934,
+        "num": 714934,
+        "word": "硕士论文写导生关系被下载10万次",
+        "onboard_time": 1734082458,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 676399,
+        "num": 676399,
+        "word": "九重紫",
+        "onboard_time": 1734083838,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603677,
+        "num": 603677,
+        "word": "百度吉利联合声明",
+        "onboard_time": 1734083118,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 668748,
+        "num": 523417,
+        "word": "韩剧为怀孕演员改剧本",
+        "onboard_time": 1734085039,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380104,
+        "num": 380104,
+        "word": "哈尔滨姑娘杭州出差闯大祸险丢工作",
+        "onboard_time": 1734087078,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532877,
+        "num": 379551,
+        "word": "姜涛近照",
+        "onboard_time": 1734084318,
+        "rank": 8,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 115946,
+        "num": 377958,
+        "word": "女子被骗27万又被洗脑要赶走民警",
+        "onboard_time": 1734087319,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522620,
+        "num": 376031,
+        "word": "合肥一代孕机构抓捕现场视频",
+        "onboard_time": 1734082039,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723388,
+        "num": 374901,
+        "word": "爷孙恋女主罕见回应近况",
+        "onboard_time": 1734086300,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 517555,
+        "num": 373014,
+        "word": "天仙还是那个天仙 董永变大郎",
+        "onboard_time": 1734083178,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372904,
+        "num": 372904,
+        "word": "欧阳震华首位提名艾美奖华人演员",
+        "onboard_time": 1734085159,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352015,
+        "num": 352015,
+        "word": "美国有人想对中国产大蒜发起301调查",
+        "onboard_time": 1734081799,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345442,
+        "num": 345442,
+        "word": "女子陪妹妹复查乳腺自己也查出癌症",
+        "onboard_time": 1734086478,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323662,
+        "num": 323662,
+        "word": "日本人说731部队比纳粹更残忍",
+        "onboard_time": 1734084918,
+        "rank": 16,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 305696,
+        "num": 305696,
+        "word": "TGA官推被中国玩家攻占",
+        "onboard_time": 1734078378,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250387,
+        "num": 250387,
+        "word": "白鹿也要坐昭昭墨墨主桌",
+        "onboard_time": 1734088220,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24230,
+        "num": 249164,
+        "word": "追女明星的幸福感",
+        "onboard_time": 1734088159,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1249319,
+        "num": 243880,
+        "word": "王妃网红们集体删视频退网",
+        "onboard_time": 1734077839,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 336350,
+        "num": 241735,
+        "word": "多少网红倒在了2024年",
+        "onboard_time": 1734081199,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286006,
+        "num": 239437,
+        "word": "C榜考虑封杀NewJeans",
+        "onboard_time": 1734083060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237009,
+        "num": 237009,
+        "word": "猎罪图鉴2 被嫌弃的松子",
+        "onboard_time": 1734082339,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175702,
+        "num": 211771,
+        "word": "王楚钦和3个左手队友同台",
+        "onboard_time": 1734087019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204018,
+        "num": 204018,
+        "word": "肖战专辑我们四首歌获认证",
+        "onboard_time": 1734087859,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 203715,
+        "num": 203715,
+        "word": "气血不足的人要多去KTV唱歌",
+        "onboard_time": 1734073219,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202445,
+        "num": 202445,
+        "word": "樊振东直发打成卷发",
+        "onboard_time": 1734081678,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197560,
+        "num": 197560,
+        "word": "大蒜做梦也没想到能对美构成极大威胁",
+        "onboard_time": 1734078138,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20343,
+        "num": 182441,
+        "word": "薛飞向鹏vs闫安袁励岑",
+        "onboard_time": 1734087919,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177820,
+        "num": 177820,
+        "word": "明年养老金将适当提高",
+        "onboard_time": 1734082339,
+        "rank": 30,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 171688,
+        "num": 171688,
+        "word": "我是刑警28年大案凶手被抓",
+        "onboard_time": 1734087138,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168124,
+        "num": 168124,
+        "word": "李佳琦直播卖货每件能赚几十元",
+        "onboard_time": 1734088220,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 161561,
+        "num": 161561,
+        "word": "赛尔号",
+        "onboard_time": 1734087859,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "三台极越车主称接受不了",
+        "onboard_time": 1734076938,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149299,
+        "num": 149299,
+        "word": "博德之门3因TGA遭大量差评",
+        "onboard_time": 1734083838,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29673,
+        "num": 144495,
+        "word": "网红为何难以长红",
+        "onboard_time": 1734085998,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144075,
+        "num": 144075,
+        "word": "我是刑警",
+        "onboard_time": 1734088578,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140983,
+        "num": 140983,
+        "word": "当韩国人第一次吃西湖醋鱼",
+        "onboard_time": 1734087739,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30272,
+        "num": 138745,
+        "word": "番茄菌菇汤",
+        "onboard_time": 1734087678,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136706,
+        "num": 136706,
+        "word": "微信多收10元收费站3人被停职",
+        "onboard_time": 1734088399,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123378,
+        "num": 123378,
+        "word": "从小看TVB的人吃的都是细糠",
+        "onboard_time": 1734086300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122946,
+        "num": 122946,
+        "word": "中国帅哥被马来西亚阿姨紧抓不放",
+        "onboard_time": 1734084679,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122564,
+        "num": 122564,
+        "word": "螺蛳粉店气味扰民是否可以维权",
+        "onboard_time": 1734080059,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121120,
+        "num": 121120,
+        "word": "明天四六级",
+        "onboard_time": 1734086239,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 117755,
+        "word": "徐静雨怒批TGA",
+        "onboard_time": 1734088280,
+        "rank": 45,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 117630,
+        "num": 117630,
+        "word": "外交部回应美政客中国大蒜威胁极大论",
+        "onboard_time": 1734078080,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "王妃网红穿金戴银带货价格不超50元",
+        "onboard_time": 1734080238,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 111659,
+        "num": 111659,
+        "word": "RNG欠Uzi七位数没还",
+        "onboard_time": 1734079399,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110446,
+        "num": 110446,
+        "word": "李昀锐早期女团舞视频",
+        "onboard_time": 1734086478,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中国经济怎么干#"
+    }
+  }
+}
