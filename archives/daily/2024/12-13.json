@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734064129085,
+  "endTime": 1734065012198,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -51,8 +51,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1379198,
+      "num": 1379198,
+      "word": "黑神话悟空未获TGA年度游戏",
+      "onboard_time": 1734063439,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1328869,
-      "num": 645604,
+      "num": 648343,
       "word": "曝朴彩英与新歌MV男主恋爱",
       "onboard_time": 1734059059,
       "rank": 21,
@@ -91,20 +99,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 885956,
+      "num": 885956,
+      "word": "宇宙机器人",
+      "onboard_time": 1734063680,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 883715,
       "num": 883715,
       "word": "国家公祭日",
       "onboard_time": 1734020778,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 817981,
-      "num": 817981,
-      "word": "宇宙机器人",
-      "onboard_time": 1734063680,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 802038,
@@ -121,6 +129,14 @@
       "onboard_time": 1734045914,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 648714,
+      "num": 648714,
+      "word": "男子中2亿彩票25天后心脏骤停去世",
+      "onboard_time": 1734064279,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 637554,
@@ -153,6 +169,14 @@
       "onboard_time": 1734059118,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 579449,
+      "num": 579449,
+      "word": "海莉点赞赛琳娜订婚ins",
+      "onboard_time": 1734062779,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 569976,
@@ -203,19 +227,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517797,
+      "num": 517797,
+      "word": "樊振东vs孙闻",
+      "onboard_time": 1734061278,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495320,
       "num": 370196,
       "word": "宋佳结婚我的态度",
       "onboard_time": 1734009019,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 489484,
-      "num": 489484,
-      "word": "海莉点赞赛琳娜订婚ins",
-      "onboard_time": 1734062779,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1734051438,
       "rank": 16,
       "category": "财经,国际时政"
-    },
-    {
-      "raw_hot": 464666,
-      "num": 464666,
-      "word": "樊振东vs孙闻",
-      "onboard_time": 1734061278,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 459728,
@@ -251,12 +267,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 435444,
-      "num": 682453,
-      "word": "黑神话悟空未获TGA年度游戏",
-      "onboard_time": 1734063439,
-      "rank": 9,
-      "category": "游戏"
+      "raw_hot": 424492,
+      "num": 424492,
+      "word": "王楚钦观战孙颖莎比赛松弛感拉满",
+      "onboard_time": 1734064279,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 423724,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 385662,
-      "num": 569081,
+      "num": 587809,
       "word": "现在拨打的电话",
       "onboard_time": 1734054260,
       "rank": 27,
@@ -355,12 +371,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304629,
+      "num": 726697,
+      "word": "女子被抱养37年拒认亲磕头谢生恩",
+      "onboard_time": 1734062300,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303895,
       "num": 324633,
       "word": "李铁曾称最憎恨踢假球的人",
       "onboard_time": 1734058817,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299276,
+      "num": 357659,
+      "word": "南京15岁市民冒死保存日军屠城血证",
+      "onboard_time": 1734060558,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 297977,
@@ -419,14 +451,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 276327,
-      "num": 276327,
-      "word": "南京15岁市民冒死保存日军屠城血证",
-      "onboard_time": 1734060558,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 275333,
       "num": 528300,
       "word": "制酱文化被韩国申遗成功了",
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270351,
+      "num": 270351,
+      "word": "明白了为什么微信这么占内存了",
+      "onboard_time": 1734064279,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 269922,
       "num": 269922,
       "word": "孟子义真诚",
@@ -451,16 +483,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259623,
-      "num": 726697,
-      "word": "女子被抱养37年拒认亲磕头谢生恩",
-      "onboard_time": 1734062300,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 263632,
+      "num": 664383,
+      "word": "再见爱人",
+      "onboard_time": 1734064102,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 255290,
-      "num": 543190,
+      "num": 579803,
       "word": "嘎子哥谢孟伟获三级演员职称",
       "onboard_time": 1734053419,
       "rank": 17,
@@ -555,8 +587,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224700,
+      "num": 224700,
+      "word": "小象受伤被救3个月胖了400斤",
+      "onboard_time": 1734064039,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224325,
-      "num": 391857,
+      "num": 461798,
       "word": "宋墨 左牵黄右擎昭",
       "onboard_time": 1734056659,
       "rank": 22,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 199613,
-      "num": 199613,
+      "num": 433537,
       "word": "小丑牌获TGA最佳独立处女作",
       "onboard_time": 1734060739,
       "rank": 37,
@@ -619,8 +659,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192979,
-      "num": 522595,
+      "raw_hot": 197983,
+      "num": 585233,
       "word": "纪录电影再见爱人立项",
       "onboard_time": 1734063800,
       "rank": 19,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 177778,
-      "num": 319842,
+      "num": 460672,
       "word": "金秀贤将出演GD与朋友们",
       "onboard_time": 1734056540,
       "rank": 25,
@@ -755,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167957,
+      "num": 459304,
+      "word": "宇宙机器人销量",
+      "onboard_time": 1734064940,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167769,
       "num": 167769,
       "word": "DNF开放世界新作",
@@ -777,14 +825,6 @@
       "onboard_time": 1734054318,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 164580,
-      "num": 164580,
-      "word": "再见爱人",
-      "onboard_time": 1734064102,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 162290,
@@ -819,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157082,
+      "num": 593476,
+      "word": "深圳爆炸小区物业费近13元一平",
+      "onboard_time": 1734063860,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 156175,
       "num": 156175,
       "word": "被抱养37年女子被气病住院",
@@ -841,14 +889,6 @@
       "onboard_time": 1734050720,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153696,
-      "num": 153696,
-      "word": "小象受伤被救3个月胖了400斤",
-      "onboard_time": 1734064039,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149450,
@@ -1219,12 +1259,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 66692,
+      "raw_hot": 69142,
       "num": 2657300,
       "word": "奋进是对历史最好的铭记",
       "onboard_time": 1734061818,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67065,
+      "num": 444085,
+      "word": "TGA 含金量",
+      "onboard_time": 1734064340,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 63492,
@@ -1291,20 +1339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40922,
+      "num": 582868,
+      "word": "樊振东3比1胜孙闻",
+      "onboard_time": 1734064701,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40127,
       "num": 54666,
       "word": "明年要抓好9个重点任务",
       "onboard_time": 1734029712,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38523,
-      "num": 593476,
-      "word": "深圳爆炸小区物业费近13元一平",
-      "onboard_time": 1734063860,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 37430,
@@ -1371,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21813,
+      "num": 452562,
+      "word": "对话多位制片人谈阴阳班底",
+      "onboard_time": 1734063740,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21629,
       "num": 23581,
       "word": "2025春节档电影神仙打架",
@@ -1435,20 +1491,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11874,
+      "num": 583550,
+      "word": "王艺迪3比1战胜蒯曼",
+      "onboard_time": 1734064701,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8318,
       "num": 24583,
       "word": "如果狮子王角色发微博",
       "onboard_time": 1734029832,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8161,
-      "num": 303703,
-      "word": "对话多位制片人谈阴阳班底",
-      "onboard_time": 1734063740,
-      "rank": 29,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
