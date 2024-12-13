@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734096735864,
+  "endTime": 1734097421610,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1440819,
-      "num": 770402,
+      "num": 864561,
       "word": "董洁因儿子青春期崩溃",
       "onboard_time": 1734094099,
       "rank": 22,
@@ -203,6 +203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 975920,
+      "num": 975920,
+      "word": "艺考前十天被抱摔骨折",
+      "onboard_time": 1734095780,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 968003,
       "num": 968003,
       "word": "硕士论文写导生关系被下载10万次",
@@ -233,6 +241,14 @@
       "onboard_time": 1734053660,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 909306,
+      "num": 909306,
+      "word": "张家界一游客与猴子互殴",
+      "onboard_time": 1734092838,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 899015,
@@ -288,14 +304,6 @@
       "word": "合肥一代孕机构抓捕现场视频",
       "onboard_time": 1734082039,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 764113,
-      "num": 764113,
-      "word": "张家界一游客与猴子互殴",
-      "onboard_time": 1734092838,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -723,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396530,
+      "num": 396530,
+      "word": "代号鸢 初心",
+      "onboard_time": 1734089718,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 394906,
       "num": 394906,
       "word": "C榜考虑封杀NewJeans",
@@ -760,14 +776,6 @@
       "word": "哈尔滨姑娘杭州出差闯大祸险丢工作",
       "onboard_time": 1734087078,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 379796,
-      "num": 379796,
-      "word": "艺考前十天被抱摔骨折",
-      "onboard_time": 1734095780,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -939,6 +947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305067,
+      "num": 305067,
+      "word": "偶遇汪峰女友森林北",
+      "onboard_time": 1734096140,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305034,
       "num": 399852,
       "word": "单人游戏拿了最佳家庭游戏奖",
@@ -1011,12 +1027,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290652,
-      "num": 290652,
-      "word": "代号鸢 初心",
-      "onboard_time": 1734089718,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 293412,
+      "num": 293412,
+      "word": "香港偶遇费曼",
+      "onboard_time": 1734096260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 290138,
@@ -1083,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271869,
+      "num": 271869,
+      "word": "为什么很多年轻人得尿毒症",
+      "onboard_time": 1734095780,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270063,
       "num": 459304,
       "word": "宇宙机器人销量",
@@ -1147,6 +1171,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 250543,
+      "num": 250543,
+      "word": "代号鸢",
+      "onboard_time": 1734050898,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 250484,
+      "num": 333937,
+      "word": "金玟庭发泡泡报平安",
+      "onboard_time": 1734095539,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247602,
       "num": 247602,
       "word": "远嫁日本女子独居受伤休养半年",
@@ -1176,6 +1216,14 @@
       "word": "我是刑警全员去表演化",
       "onboard_time": 1734047598,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245257,
+      "num": 328228,
+      "word": "富大龙台词",
+      "onboard_time": 1734095060,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1307,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223404,
-      "num": 333937,
-      "word": "金玟庭发泡泡报平安",
-      "onboard_time": 1734095539,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222908,
       "num": 222908,
       "word": "明年养老金将适当提高",
@@ -1363,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214914,
-      "num": 214914,
-      "word": "香港偶遇费曼",
-      "onboard_time": 1734096260,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1734078080,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 208600,
-      "num": 328228,
-      "word": "富大龙台词",
-      "onboard_time": 1734095060,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 208062,
@@ -1459,20 +1483,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 203095,
-      "num": 203095,
-      "word": "偶遇汪峰女友森林北",
-      "onboard_time": 1734096140,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202149,
       "num": 202149,
       "word": "今年全国粮食总产量14130亿斤",
       "onboard_time": 1734075860,
       "rank": 42,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "女子长期过度节食体重仅24公斤",
+      "onboard_time": 1734096319,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 199613,
@@ -1539,14 +1563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194488,
-      "num": 228276,
-      "word": "为什么很多年轻人得尿毒症",
-      "onboard_time": 1734095780,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 191855,
       "num": 191855,
       "word": "百万网红被曝疑做不正当职业",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1734015619,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186781,
-      "num": 186781,
-      "word": "代号鸢",
-      "onboard_time": 1734050898,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 186065,
@@ -1723,12 +1731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175517,
+      "num": 374011,
+      "word": "被抱养37年女子系生父母第5个女儿",
+      "onboard_time": 1734095240,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174137,
       "num": 174137,
       "word": "2024的豹猫cp",
       "onboard_time": 1734080238,
       "rank": 41,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 174135,
+      "num": 174135,
+      "word": "韩路 23万极越车如今只值2万",
+      "onboard_time": 1734095060,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 173483,
@@ -1803,6 +1827,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 170269,
+      "num": 202351,
+      "word": "2斤黄金无人认领上缴国库",
+      "onboard_time": 1734095599,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170144,
+      "num": 255586,
+      "word": "王楚钦海底捞月救球反攻",
+      "onboard_time": 1734096559,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169958,
       "num": 177462,
       "word": "乒超直播",
@@ -1851,28 +1891,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 165575,
-      "num": 165575,
-      "word": "韩路 23万极越车如今只值2万",
-      "onboard_time": 1734095060,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164478,
       "num": 164478,
       "word": "细菌战幸存者因烂脚病痛苦一生",
       "onboard_time": 1734076398,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163595,
-      "num": 163595,
-      "word": "2斤黄金无人认领上缴国库",
-      "onboard_time": 1734095599,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162683,
@@ -2123,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145609,
+      "num": 145609,
+      "word": "代号鸢 小萌",
+      "onboard_time": 1734097399,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144866,
       "num": 214852,
       "word": "不会翻面",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1734073639,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 143004,
-      "num": 143004,
-      "word": "女子长期过度节食体重仅24公斤",
-      "onboard_time": 1734096319,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142961,
@@ -2299,14 +2323,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 133284,
-      "num": 374011,
-      "word": "被抱养37年女子系生父母第5个女儿",
-      "onboard_time": 1734095240,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132357,
       "num": 324099,
       "word": "很普通却能对抗炎症的食物",
@@ -2331,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130729,
-      "num": 247202,
-      "word": "王楚钦海底捞月救球反攻",
-      "onboard_time": 1734096559,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129233,
       "num": 215007,
       "word": "32人见证32人传承南京大屠杀历史记忆",
@@ -2353,6 +2361,14 @@
       "onboard_time": 1734069679,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128565,
+      "num": 128565,
+      "word": "中美续签政府科学技术合作协定",
+      "onboard_time": 1734096979,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125900,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1734084137,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118069,
+      "num": 174710,
+      "word": "曝湖南卫视跨年嘉宾名单",
+      "onboard_time": 1734097339,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 115132,
@@ -2481,6 +2505,14 @@
       "onboard_time": 1734086478,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110201,
+      "num": 409907,
+      "word": "作业熔断别变成自己糊弄自己",
+      "onboard_time": 1734095240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109060,
@@ -2617,14 +2649,6 @@
       "onboard_time": 1734093500,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94381,
-      "num": 409907,
-      "word": "作业熔断别变成自己糊弄自己",
-      "onboard_time": 1734095240,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93362,
@@ -2827,6 +2851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 68742,
+      "num": 367890,
+      "word": "交警执法现场有人用手电筒爆闪司机",
+      "onboard_time": 1734095359,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67549,
       "num": 293542,
       "word": "周笔畅容祖儿黄雅莉呼吸有害",
@@ -2871,14 +2903,6 @@
       "num": 391818,
       "word": "缺千斤少万两卖煤商贩被顶格处罚",
       "onboard_time": 1734074301,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58277,
-      "num": 367890,
-      "word": "交警执法现场有人用手电筒爆闪司机",
-      "onboard_time": 1734095359,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -2945,6 +2969,14 @@
       "onboard_time": 1734077357,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 52725,
+      "num": 346111,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 52230,
@@ -3163,14 +3195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27325,
-      "num": 346111,
-      "word": "黑神话悟空发博回应获奖",
-      "onboard_time": 1734096500,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 26675,
       "num": 284003,
       "word": "林高远陈垣宇3比0周雨梁俨苧",
@@ -3233,6 +3257,14 @@
       "onboard_time": 1734081020,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19603,
+      "num": 203819,
+      "word": "美国机器人教唆少年杀家长",
+      "onboard_time": 1734096919,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18814,
@@ -3344,6 +3376,14 @@
       "word": "如果狮子王角色发微博",
       "onboard_time": 1734029832,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 6434,
+      "num": 292723,
+      "word": "传统武术故事的现代打开方式",
+      "onboard_time": 1734097159,
+      "rank": 19,
       "category": "电影"
     },
     {

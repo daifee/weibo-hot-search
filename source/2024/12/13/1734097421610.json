@@ -1,0 +1,410 @@
+{
+  "runTime": 1734097421610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1152729,
+        "num": 1184436,
+        "word": "微信多收10元收费站3人被停职",
+        "onboard_time": 1734088399,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 975920,
+        "num": 975920,
+        "word": "艺考前十天被抱摔骨折",
+        "onboard_time": 1734095780,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38605,
+        "num": 942109,
+        "word": "财政货币政策调整释放哪些信号",
+        "onboard_time": 1734079339,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 909306,
+        "num": 909306,
+        "word": "张家界一游客与猴子互殴",
+        "onboard_time": 1734092838,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1416044,
+        "num": 864561,
+        "word": "董洁因儿子青春期崩溃",
+        "onboard_time": 1734094099,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937725,
+        "num": 838881,
+        "word": "卵子明码标价最贵达百万",
+        "onboard_time": 1734091339,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 807475,
+        "num": 807475,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 6,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 742112,
+        "num": 742112,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1734089960,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 457041,
+        "num": 457041,
+        "word": "代孕抓捕现场年轻女性面色很差",
+        "onboard_time": 1734093019,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421874,
+        "num": 421874,
+        "word": "QQ音乐回应装扮问题",
+        "onboard_time": 1734094279,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 865646,
+        "num": 417437,
+        "word": "爷孙恋女主罕见回应近况",
+        "onboard_time": 1734086300,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 558698,
+        "num": 414391,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 11,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 396530,
+        "num": 396530,
+        "word": "代号鸢 初心",
+        "onboard_time": 1734089718,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 305067,
+        "num": 305067,
+        "word": "偶遇汪峰女友森林北",
+        "onboard_time": 1734096140,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300713,
+        "num": 300713,
+        "word": "九重紫",
+        "onboard_time": 1734083838,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250484,
+        "num": 296394,
+        "word": "金玟庭发泡泡报平安",
+        "onboard_time": 1734095539,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245257,
+        "num": 293463,
+        "word": "富大龙台词",
+        "onboard_time": 1734095060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293412,
+        "num": 293412,
+        "word": "香港偶遇费曼",
+        "onboard_time": 1734096260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52725,
+        "num": 292915,
+        "word": "黑神话悟空发博回应获奖",
+        "onboard_time": 1734096500,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6434,
+        "num": 292723,
+        "word": "传统武术故事的现代打开方式",
+        "onboard_time": 1734097159,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292641,
+        "num": 292641,
+        "word": "硕士论文写导生关系被下载10万次",
+        "onboard_time": 1734082458,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276349,
+        "num": 276349,
+        "word": "白鹿也要坐昭昭墨墨主桌",
+        "onboard_time": 1734088220,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272210,
+        "num": 272210,
+        "word": "韩剧为怀孕演员改剧本",
+        "onboard_time": 1734085039,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271869,
+        "num": 271869,
+        "word": "为什么很多年轻人得尿毒症",
+        "onboard_time": 1734095780,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170144,
+        "num": 255586,
+        "word": "王楚钦海底捞月救球反攻",
+        "onboard_time": 1734096559,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250543,
+        "num": 250543,
+        "word": "代号鸢",
+        "onboard_time": 1734096979,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210721,
+        "num": 210721,
+        "word": "官方通报合肥一公司代孕",
+        "onboard_time": 1734092599,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 205978,
+        "num": 205978,
+        "word": "猎罪图鉴植入",
+        "onboard_time": 1734091219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19603,
+        "num": 203819,
+        "word": "美国机器人教唆少年杀家长",
+        "onboard_time": 1734096919,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170269,
+        "num": 202351,
+        "word": "2斤黄金无人认领上缴国库",
+        "onboard_time": 1734095599,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201663,
+        "num": 201663,
+        "word": "女子长期过度节食体重仅24公斤",
+        "onboard_time": 1734096319,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196229,
+        "num": 196229,
+        "word": "NewJeans开始掉代言",
+        "onboard_time": 1734090738,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182386,
+        "num": 182386,
+        "word": "高会闪退",
+        "onboard_time": 1734096199,
+        "rank": 32,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 175517,
+        "num": 175517,
+        "word": "被抱养37年女子系生父母第5个女儿",
+        "onboard_time": 1734095240,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118069,
+        "num": 174710,
+        "word": "曝湖南卫视跨年嘉宾名单",
+        "onboard_time": 1734097339,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174135,
+        "num": 174135,
+        "word": "韩路 23万极越车如今只值2万",
+        "onboard_time": 1734095060,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164503,
+        "num": 164503,
+        "word": "王妃网红们集体删视频退网",
+        "onboard_time": 1734077839,
+        "rank": 36,
+        "category": "网红,网红"
+      },
+      {
+        "raw_hot": 160667,
+        "num": 160667,
+        "word": "粉笔四六级崩了",
+        "onboard_time": 1734094819,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159009,
+        "num": 159009,
+        "word": "天仙还是那个天仙 董永变大郎",
+        "onboard_time": 1734083178,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156446,
+        "num": 156446,
+        "word": "六姐妹仨人确诊乳腺癌不敢相信",
+        "onboard_time": 1734090019,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154137,
+        "num": 154137,
+        "word": "虞书欣姜暮哭戏路透破碎感",
+        "onboard_time": 1734094519,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146020,
+        "num": 146020,
+        "word": "我是刑警",
+        "onboard_time": 1734088578,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110201,
+        "num": 145810,
+        "word": "作业熔断别变成自己糊弄自己",
+        "onboard_time": 1734095240,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145609,
+        "num": 145609,
+        "word": "代号鸢 小萌",
+        "onboard_time": 1734097399,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "美国有人想对中国产大蒜发起301调查",
+        "onboard_time": 1734081799,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136491,
+        "num": 136491,
+        "word": "樊振东vs松岛辉空",
+        "onboard_time": 1734089058,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68742,
+        "num": 133074,
+        "word": "交警执法现场有人用手电筒爆闪司机",
+        "onboard_time": 1734095359,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208368,
+        "num": 132942,
+        "word": "百度吉利联合声明",
+        "onboard_time": 1734083118,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132454,
+        "num": 132454,
+        "word": "欧阳震华首位提名艾美奖华人演员",
+        "onboard_time": 1734085159,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128565,
+        "num": 128565,
+        "word": "中美续签政府科学技术合作协定",
+        "onboard_time": 1734096979,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看中央经济工作会议要点#"
+    }
+  }
+}
