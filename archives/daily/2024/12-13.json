@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734059258604,
+  "endTime": 1734060254290,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -27,20 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1358431,
+      "num": 1358431,
+      "word": "TGA",
+      "onboard_time": 1734047537,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1297264,
-      "num": 330323,
+      "num": 345028,
       "word": "美国一聊天机器人暗示孩子杀死父母",
       "onboard_time": 1734056718,
       "rank": 10,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1278189,
-      "num": 1278189,
-      "word": "TGA",
-      "onboard_time": 1734047537,
-      "rank": 1,
-      "category": "游戏"
+      "raw_hot": 1296511,
+      "num": 345299,
+      "word": "曝朴彩英与新歌MV男主恋爱",
+      "onboard_time": 1734059060,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1232889,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 439744,
-      "num": 328876,
+      "num": 341586,
       "word": "黑神话悟空中文获奖感言",
       "onboard_time": 1734055999,
       "rank": 41,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 423724,
-      "num": 321127,
+      "num": 340496,
       "word": "61岁男子吃未焯水菠菜后肾衰竭",
       "onboard_time": 1734056240,
       "rank": 23,
@@ -203,19 +211,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367076,
+      "num": 367076,
+      "word": "3块5泡面档口刺痛了谁的良心",
+      "onboard_time": 1734059419,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358305,
       "num": 358305,
       "word": "曝某95花否掉九个男主",
       "onboard_time": 1734010220,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 346798,
-      "num": 322704,
-      "word": "曝朴彩英与新歌MV男主恋爱",
-      "onboard_time": 1734059060,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -227,12 +235,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 339843,
+      "num": 385425,
+      "word": "李铁涉案金额近1.2亿",
+      "onboard_time": 1734053719,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324177,
       "num": 324177,
       "word": "A股",
       "onboard_time": 1734055099,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 318574,
+      "num": 343023,
+      "word": "夏之光晒爷爷奶奶手牵手背影照",
+      "onboard_time": 1734058458,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318362,
+      "num": 345761,
+      "word": "国家公祭仪式",
+      "onboard_time": 1734056540,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308828,
@@ -243,20 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306042,
-      "num": 385425,
-      "word": "李铁涉案金额近1.2亿",
-      "onboard_time": 1734053719,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305122,
       "num": 305122,
       "word": "巫师4正式公开",
       "onboard_time": 1734053780,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303895,
+      "num": 324633,
+      "word": "李铁曾称最憎恨踢假球的人",
+      "onboard_time": 1734058818,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 297977,
@@ -281,6 +313,14 @@
       "onboard_time": 1734013701,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288457,
+      "num": 288457,
+      "word": "每天走多少步才可以降低久坐伤害",
+      "onboard_time": 1734055159,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288093,
@@ -321,14 +361,6 @@
       "onboard_time": 1734015381,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265120,
-      "num": 265120,
-      "word": "每天走多少步才可以降低久坐伤害",
-      "onboard_time": 1734055159,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255290,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245385,
+      "num": 346657,
+      "word": "南京大屠杀死难者国家公祭日",
+      "onboard_time": 1734059118,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
@@ -411,24 +451,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230653,
-      "num": 230653,
-      "word": "国家公祭仪式",
-      "onboard_time": 1734056540,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 226976,
-      "num": 325279,
-      "word": "夏之光晒爷爷奶奶手牵手背影照",
-      "onboard_time": 1734058458,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224325,
-      "num": 322304,
+      "num": 342458,
       "word": "宋墨 左牵黄右擎昭",
       "onboard_time": 1734056659,
       "rank": 22,
@@ -488,6 +512,14 @@
       "word": "鬼武者新作预告",
       "onboard_time": 1734059060,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 188531,
+      "num": 315631,
+      "word": "冯骥露脸了",
+      "onboard_time": 1734059779,
+      "rank": 24,
       "category": "游戏"
     },
     {
@@ -627,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158563,
+      "num": 158563,
+      "word": "DNF开放世界新作",
+      "onboard_time": 1734059779,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157274,
       "num": 157274,
       "word": "南京大屠杀",
@@ -675,12 +715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147371,
+      "num": 147371,
+      "word": "一名厨涉嫌严重职务违法被查",
+      "onboard_time": 1734059060,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146374,
       "num": 146374,
       "word": "国足原主教练李铁案一审宣判",
       "onboard_time": 1734054559,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144727,
+      "num": 144727,
+      "word": "和平宣言响彻南京",
+      "onboard_time": 1734059899,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142961,
@@ -739,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 138042,
+      "num": 138042,
+      "word": "尹锡悦一口气批准42项法案及施行令",
+      "onboard_time": 1734060137,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "国防部回应福建舰开展相关试验",
@@ -753,14 +817,6 @@
       "onboard_time": 1734058578,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 134128,
-      "num": 324394,
-      "word": "南京大屠杀死难者国家公祭日",
-      "onboard_time": 1734059118,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132327,
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90205,
+      "num": 343830,
+      "word": "李铁资本版图起底",
+      "onboard_time": 1734058818,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 88647,
       "num": 88647,
       "word": "九重紫",
@@ -924,7 +988,7 @@
     },
     {
       "raw_hot": 85755,
-      "num": 328628,
+      "num": 344493,
       "word": "李铁尚未决定是否上诉",
       "onboard_time": 1734059238,
       "rank": 13,
@@ -953,6 +1017,14 @@
       "onboard_time": 1734043632,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80307,
+      "num": 346463,
+      "word": "一天内3家央行宣布降息",
+      "onboard_time": 1734059238,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 78233,
@@ -987,28 +1059,12 @@
       "category": "国际时政,财经"
     },
     {
-      "raw_hot": 69803,
-      "num": 327760,
-      "word": "李铁资本版图起底",
-      "onboard_time": 1734058818,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 69427,
       "num": 69427,
       "word": "南京大屠杀死难者国家公祭",
       "onboard_time": 1734023054,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 69015,
-      "num": 331433,
-      "word": "一天内3家央行宣布降息",
-      "onboard_time": 1734059238,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 63492,
@@ -1073,14 +1129,6 @@
       "onboard_time": 1734029712,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40032,
-      "num": 324633,
-      "word": "李铁曾称最憎恨踢假球的人",
-      "onboard_time": 1734058818,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 37430,
