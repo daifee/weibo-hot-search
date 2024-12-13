@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734108350607,
+  "endTime": 1734110484190,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145573,
+      "num": 145573,
+      "word": "成都多地迎来降雪",
+      "onboard_time": 1734108317,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132358,
       "num": 132358,
       "word": "王楚钦想给观众买含片",
@@ -185,6 +193,14 @@
       "onboard_time": 1734083838,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130231,
+      "num": 130231,
+      "word": "官方回应成群野狗追咬小学生",
+      "onboard_time": 1734104239,
+      "rank": 35,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 126712,
@@ -241,14 +257,6 @@
       "onboard_time": 1734095060,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 106110,
-      "num": 106110,
-      "word": "官方回应成群野狗追咬小学生",
-      "onboard_time": 1734104239,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 105496,
@@ -387,11 +395,35 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 45855,
-      "num": 95144,
-      "word": "成都多地迎来降雪",
-      "onboard_time": 1734108317,
-      "rank": 29,
+      "raw_hot": 45861,
+      "num": 45861,
+      "word": "韩剧为怀孕演员改剧本",
+      "onboard_time": 1734085039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44482,
+      "num": 44482,
+      "word": "破地狱",
+      "onboard_time": 1734109574,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43335,
+      "num": 43335,
+      "word": "黑神话悟空发博回应获奖",
+      "onboard_time": 1734096500,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 42336,
+      "num": 42336,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -403,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37836,
+      "num": 161899,
+      "word": "2024年度最后一场流星雨来了",
+      "onboard_time": 1734108616,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28012,
       "num": 533043,
       "word": "2025年经济工作怎么干",
       "onboard_time": 1734099320,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20329,
+      "num": 82703,
+      "word": "黑神话悟空亮相TGA的唢呐有多震撼",
+      "onboard_time": 1734108376,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 10630,
@@ -422,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#习近平听取李家超述职报告#"
+    },
+    {
+      "word": "#一图读懂2024年中央经济工作会议#"
     }
   ]
 }

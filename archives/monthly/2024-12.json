@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734108350607,
+  "endTime": 1734110484190,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -27507,6 +27507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145573,
+      "num": 145573,
+      "word": "成都多地迎来降雪",
+      "onboard_time": 1734108317,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145560,
       "num": 239865,
       "word": "中国体育杂志",
@@ -29841,6 +29849,14 @@
       "onboard_time": 1733646618,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130231,
+      "num": 195595,
+      "word": "官方回应成群野狗追咬小学生",
+      "onboard_time": 1734104239,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 130211,
@@ -33009,14 +33025,6 @@
       "onboard_time": 1733496980,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106110,
-      "num": 195595,
-      "word": "官方回应成群野狗追咬小学生",
-      "onboard_time": 1734104239,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 106102,
@@ -40203,14 +40211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45855,
-      "num": 95144,
-      "word": "成都多地迎来降雪",
-      "onboard_time": 1734108317,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45836,
       "num": 389199,
       "word": "网红祁天道夫妇名下多家公司已注销",
@@ -40465,6 +40465,14 @@
       "onboard_time": 1733903421,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44482,
+      "num": 44482,
+      "word": "破地狱",
+      "onboard_time": 1734109574,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 44470,
@@ -40809,6 +40817,14 @@
       "onboard_time": 1733555539,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42336,
+      "num": 42336,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42316,
@@ -41568,6 +41584,14 @@
       "word": "华东师大学生反映用餐后上吐下泻",
       "onboard_time": 1733913201,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37836,
+      "num": 161899,
+      "word": "2024年度最后一场流星雨来了",
+      "onboard_time": 1734108616,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -44825,6 +44849,14 @@
       "onboard_time": 1733404459,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20329,
+      "num": 82703,
+      "word": "黑神话悟空亮相TGA的唢呐有多震撼",
+      "onboard_time": 1734108376,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 20271,
