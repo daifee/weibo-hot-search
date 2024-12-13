@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734107386426,
+  "endTime": 1734108350607,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 845747,
+      "num": 845747,
+      "word": "朱丹吃了40多年鸡蛋才发现过敏",
+      "onboard_time": 1734106039,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 795350,
       "num": 340440,
       "word": "艺考前十天被抱摔骨折",
       "onboard_time": 1734095780,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 717397,
-      "num": 521816,
-      "word": "朱丹吃了40多年鸡蛋才发现过敏",
-      "onboard_time": 1734106039,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 622171,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221133,
+      "num": 221133,
+      "word": "应届生考公上岸后再考研",
+      "onboard_time": 1734102799,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207323,
       "num": 110099,
       "word": "代号鸢",
@@ -129,14 +137,6 @@
       "onboard_time": 1734101540,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201169,
-      "num": 201169,
-      "word": "应届生考公上岸后再考研",
-      "onboard_time": 1734102799,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 196139,
@@ -243,6 +243,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 106110,
+      "num": 106110,
+      "word": "官方回应成群野狗追咬小学生",
+      "onboard_time": 1734104239,
+      "rank": 35,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 105496,
+      "num": 105496,
+      "word": "艾滋病感染者担心医疗互认遭拒诊",
+      "onboard_time": 1734102919,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105173,
       "num": 105173,
       "word": "QQ音乐回应装扮问题",
@@ -257,14 +273,6 @@
       "onboard_time": 1734089960,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100460,
-      "num": 100460,
-      "word": "官方回应成群野狗追咬小学生",
-      "onboard_time": 1734104239,
-      "rank": 35,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 96806,
@@ -315,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 94579,
-      "num": 94579,
-      "word": "艾滋病感染者担心医疗互认遭拒诊",
-      "onboard_time": 1734102919,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89961,
       "num": 89961,
       "word": "徐志胜 他觊觎她",
@@ -345,6 +345,14 @@
       "onboard_time": 1734102859,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85184,
+      "num": 347989,
+      "word": "叙利亚局势进展",
+      "onboard_time": 1734107118,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82472,
@@ -371,12 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41399,
-      "num": 347989,
-      "word": "叙利亚局势进展",
-      "onboard_time": 1734107118,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 59384,
+      "num": 128114,
+      "word": "杨奇",
+      "onboard_time": 1734106878,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 45855,
+      "num": 95144,
+      "word": "成都多地迎来降雪",
+      "onboard_time": 1734108317,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38430,
@@ -387,7 +403,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27996,
+      "raw_hot": 28012,
       "num": 533043,
       "word": "2025年经济工作怎么干",
       "onboard_time": 1734099320,
@@ -395,12 +411,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27567,
-      "num": 128114,
-      "word": "杨奇",
-      "onboard_time": 1734106878,
+      "raw_hot": 10630,
+      "num": 105716,
+      "word": "看老外考中文瞬间明白学霸的感觉",
+      "onboard_time": 1734108077,
       "rank": 24,
-      "category": "游戏"
+      "category": "教育,民生新闻"
     }
   ],
   "hotgov_list": [
