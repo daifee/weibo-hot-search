@@ -1,0 +1,410 @@
+{
+  "runTime": 1734079502056,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1358857,
+        "num": 1358857,
+        "word": "马斯克成为史上首位4000亿富豪",
+        "onboard_time": 1734074718,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 684673,
+        "num": 684673,
+        "word": "王者荣耀",
+        "onboard_time": 1734074358,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 8461,
+        "num": 599925,
+        "word": "财政货币政策调整释放哪些信号",
+        "onboard_time": 1734079339,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1738669,
+        "num": 599397,
+        "word": "王妃网红们集体删视频退网",
+        "onboard_time": 1734077839,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 584553,
+        "num": 584553,
+        "word": "三台极越车主称接受不了",
+        "onboard_time": 1734076938,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 568314,
+        "num": 568314,
+        "word": "李行亮麦琳 脑白金",
+        "onboard_time": 1734076518,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517442,
+        "num": 517442,
+        "word": "男子持皇家印章坐高铁",
+        "onboard_time": 1734071358,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452154,
+        "num": 452154,
+        "word": "郑业成回应赵露思帮宣传新剧",
+        "onboard_time": 1734075196,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330769,
+        "num": 330769,
+        "word": "多地医护和公职人员被指参与代孕",
+        "onboard_time": 1734078017,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296029,
+        "num": 296029,
+        "word": "2斤黄金无人认领期满将拍卖",
+        "onboard_time": 1734065720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245112,
+        "num": 295983,
+        "word": "大蒜做梦也没想到能对美构成极大威胁",
+        "onboard_time": 1734078138,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 692464,
+        "num": 294487,
+        "word": "家属称远嫁日本女子已瘦到皮包骨",
+        "onboard_time": 1734070699,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82237,
+        "num": 292176,
+        "word": "安徽合肥一医疗公司涉嫌代孕",
+        "onboard_time": 1734078258,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85557,
+        "num": 290230,
+        "word": "自称怀孕王妃的带货主播集体退网",
+        "onboard_time": 1734078499,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71825,
+        "num": 290035,
+        "word": "奋进是对历史最好的铭记",
+        "onboard_time": 1734061818,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454737,
+        "num": 287575,
+        "word": "内娱也有鬼怪出场即视感的舞台了",
+        "onboard_time": 1734074838,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287175,
+        "num": 287175,
+        "word": "猎罪图鉴2 盲童案",
+        "onboard_time": 1734072438,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389680,
+        "num": 284459,
+        "word": "珠海地震",
+        "onboard_time": 1734071838,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237115,
+        "num": 280762,
+        "word": "孔敏贞怀孕",
+        "onboard_time": 1734078679,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94898,
+        "num": 276555,
+        "word": "宇宙机器人领奖致敬马力欧和任天堂",
+        "onboard_time": 1734079339,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440086,
+        "num": 275764,
+        "word": "气血不足的人要多去KTV唱歌",
+        "onboard_time": 1734073219,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343654,
+        "num": 269608,
+        "word": "男子中2亿彩票25天后心脏骤停去世",
+        "onboard_time": 1734064279,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269217,
+        "num": 269217,
+        "word": "张峻豪公式照",
+        "onboard_time": 1734078017,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329899,
+        "num": 268299,
+        "word": "九华山偶遇王楚然祈福",
+        "onboard_time": 1734072317,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296262,
+        "num": 261399,
+        "word": "TGA官推被中国玩家攻占",
+        "onboard_time": 1734078378,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278007,
+        "num": 257985,
+        "word": "留几手害怕离婚",
+        "onboard_time": 1734075978,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243650,
+        "num": 243650,
+        "word": "邱泽许玮甯牵手散步",
+        "onboard_time": 1734065539,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173483,
+        "num": 243602,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734078919,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151872,
+        "num": 242873,
+        "word": "身体发炎时少吃4种食物",
+        "onboard_time": 1734078499,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177013,
+        "num": 242644,
+        "word": "RNG欠Uzi七位数没还",
+        "onboard_time": 1734079399,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155116,
+        "num": 242268,
+        "word": "孙闻被樊振东击败蹲地笑着无奈摇头",
+        "onboard_time": 1734078679,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238340,
+        "num": 241790,
+        "word": "猴哥说车妻子谈婚变",
+        "onboard_time": 1734067039,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172469,
+        "num": 241411,
+        "word": "孟子义行李箱重到李昀锐怀疑人生",
+        "onboard_time": 1734077357,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241144,
+        "num": 241144,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052159,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231261,
+        "num": 231261,
+        "word": "4399机器人",
+        "onboard_time": 1734066140,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221811,
+        "num": 221811,
+        "word": "男子举报邻居一家有车有房吃低保",
+        "onboard_time": 1734078740,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219046,
+        "num": 219046,
+        "word": "王楚钦边吃零食边看孙颖莎比赛",
+        "onboard_time": 1734075440,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212390,
+        "num": 212390,
+        "word": "Epic 问号",
+        "onboard_time": 1734066321,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211580,
+        "num": 211580,
+        "word": "餐饮店老板女儿爱上外卖员3个月被骗8万",
+        "onboard_time": 1734077238,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194581,
+        "num": 194581,
+        "word": "外交部回应美政客中国大蒜威胁极大论",
+        "onboard_time": 1734078080,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152402,
+        "num": 193169,
+        "word": "吉林一工人凌晨遇老虎急忙上车避险",
+        "onboard_time": 1734077418,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53736,
+        "num": 192756,
+        "word": "失败者李铁是如何堕入深渊的",
+        "onboard_time": 1734077357,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 192424,
+        "num": 192424,
+        "word": "胖东来热门商品能买到了",
+        "onboard_time": 1734076337,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184633,
+        "num": 184633,
+        "word": "男子带娃登山身亡孩子以为爸爸睡了",
+        "onboard_time": 1734065479,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184043,
+        "num": 184043,
+        "word": "Epic送不成最佳游戏了",
+        "onboard_time": 1734077058,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182482,
+        "num": 182482,
+        "word": "曝朴彩英与新歌MV男主恋爱",
+        "onboard_time": 1734059059,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169350,
+        "num": 169350,
+        "word": "黑神话悟空未获TGA年度游戏",
+        "onboard_time": 1734063439,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162398,
+        "num": 162398,
+        "word": "股市",
+        "onboard_time": 1734078138,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155803,
+        "num": 155803,
+        "word": "原来美容院偷偷给我涂了素颜霜",
+        "onboard_time": 1734066679,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154391,
+        "num": 154391,
+        "word": "恭喜黑神话悟空",
+        "onboard_time": 1734075319,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图看中央经济工作会议要点#"
+    }
+  }
+}
