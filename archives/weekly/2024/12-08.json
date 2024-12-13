@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734114752586,
+  "endTime": 1734115579742,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -17955,6 +17955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55142,
+      "num": 79978,
+      "word": "被抱养37年女子称磕头是诀别不是认亲",
+      "onboard_time": 1734113832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55023,
       "num": 389735,
       "word": "国乒决赛阵容公布",
@@ -19883,6 +19891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30964,
+      "num": 30964,
+      "word": "刘雨昕唱情歌的杀伤力",
+      "onboard_time": 1734114554,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 30947,
       "num": 275861,
       "word": "你最近在追哪些热播剧",
@@ -20187,6 +20203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 25987,
+      "num": 25987,
+      "word": "没想到杭州这么负责任",
+      "onboard_time": 1734114791,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25840,
       "num": 25840,
       "word": "谁超话大咖15级写的台词",
@@ -20321,14 +20345,6 @@
       "onboard_time": 1733764995,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24345,
-      "num": 28055,
-      "word": "刘雨昕唱情歌的杀伤力",
-      "onboard_time": 1734114554,
-      "rank": 45,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 24255,
@@ -20923,14 +20939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16480,
-      "num": 79978,
-      "word": "被抱养37年女子称磕头是诀别不是认亲",
-      "onboard_time": 1734113832,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16459,
       "num": 221655,
       "word": "孟子义李昀锐情话糖炒地瓜",
@@ -20993,6 +21001,14 @@
       "onboard_time": 1733846239,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15682,
+      "num": 69531,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15594,
@@ -21451,20 +21467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8784,
+      "num": 41052,
+      "word": "冰雪概念股集体爆发",
+      "onboard_time": 1734112873,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 8770,
       "num": 25625,
       "word": "许昕callback嘻嘻哈哈梗",
       "onboard_time": 1733685732,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8355,
-      "num": 41052,
-      "word": "冰雪概念股集体爆发",
-      "onboard_time": 1734112873,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 8318,
@@ -21553,6 +21569,14 @@
       "onboard_time": 1733691730,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6994,
+      "num": 36651,
+      "word": "TGA梗图",
+      "onboard_time": 1734115333,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 6859,

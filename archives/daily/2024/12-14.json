@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734114752586,
+  "endTime": 1734115579742,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55142,
+      "num": 79978,
+      "word": "被抱养37年女子称磕头是诀别不是认亲",
+      "onboard_time": 1734113832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45861,
       "num": 45861,
       "word": "韩剧为怀孕演员改剧本",
@@ -467,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30964,
+      "num": 30964,
+      "word": "刘雨昕唱情歌的杀伤力",
+      "onboard_time": 1734114554,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 28012,
       "num": 533043,
       "word": "2025年经济工作怎么干",
@@ -475,12 +491,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24345,
-      "num": 28055,
-      "word": "刘雨昕唱情歌的杀伤力",
-      "onboard_time": 1734114554,
-      "rank": 45,
-      "category": "综艺,艺人"
+      "raw_hot": 25987,
+      "num": 25987,
+      "word": "没想到杭州这么负责任",
+      "onboard_time": 1734114791,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 20329,
@@ -491,10 +507,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 16480,
-      "num": 79978,
-      "word": "被抱养37年女子称磕头是诀别不是认亲",
-      "onboard_time": 1734113832,
+      "raw_hot": 15682,
+      "num": 69531,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -507,12 +523,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 8355,
+      "raw_hot": 8784,
       "num": 41052,
       "word": "冰雪概念股集体爆发",
       "onboard_time": 1734112873,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 6994,
+      "num": 36651,
+      "word": "TGA梗图",
+      "onboard_time": 1734115333,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

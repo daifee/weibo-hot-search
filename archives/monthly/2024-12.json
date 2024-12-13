@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734114752586,
+  "endTime": 1734115579742,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -38795,6 +38795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55142,
+      "num": 79978,
+      "word": "被抱养37年女子称磕头是诀别不是认亲",
+      "onboard_time": 1734113832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55105,
       "num": 344506,
       "word": "冷酸灵牙膏被指超功效宣传",
@@ -43051,6 +43059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 30964,
+      "num": 30964,
+      "word": "刘雨昕唱情歌的杀伤力",
+      "onboard_time": 1734114554,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 30947,
       "num": 275861,
       "word": "你最近在追哪些热播剧",
@@ -43867,6 +43883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 25987,
+      "num": 25987,
+      "word": "没想到杭州这么负责任",
+      "onboard_time": 1734114791,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 25966,
       "num": 274801,
       "word": "何浩楠第一次出发",
@@ -44145,14 +44169,6 @@
       "onboard_time": 1733764995,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24345,
-      "num": 28055,
-      "word": "刘雨昕唱情歌的杀伤力",
-      "onboard_time": 1734114554,
-      "rank": 45,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 24272,
@@ -45579,14 +45595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16480,
-      "num": 79978,
-      "word": "被抱养37年女子称磕头是诀别不是认亲",
-      "onboard_time": 1734113832,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16459,
       "num": 221655,
       "word": "孟子义李昀锐情话糖炒地瓜",
@@ -45777,6 +45785,14 @@
       "onboard_time": 1733571202,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15682,
+      "num": 69531,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15594,
@@ -46795,6 +46811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8784,
+      "num": 41052,
+      "word": "冰雪概念股集体爆发",
+      "onboard_time": 1734112873,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 8770,
       "num": 25625,
       "word": "许昕callback嘻嘻哈哈梗",
@@ -46817,14 +46841,6 @@
       "onboard_time": 1733256071,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8355,
-      "num": 41052,
-      "word": "冰雪概念股集体爆发",
-      "onboard_time": 1734112873,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 8318,
@@ -47041,6 +47057,14 @@
       "onboard_time": 1733691730,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6994,
+      "num": 36651,
+      "word": "TGA梗图",
+      "onboard_time": 1734115333,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 6987,
