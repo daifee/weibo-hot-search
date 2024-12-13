@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734111588214,
+  "endTime": 1734114752586,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -155,6 +155,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 165654,
+      "num": 165654,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162226,
       "num": 162226,
       "word": "湖北一人社局要求5人退回多领养老金",
@@ -283,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98449,
+      "num": 98449,
+      "word": "宁夏一地成群野狗追咬小学生",
+      "onboard_time": 1734110474,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96806,
       "num": 96806,
       "word": "女子长期过度节食体重仅24公斤",
@@ -329,14 +345,6 @@
       "onboard_time": 1734098299,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94789,
-      "num": 94789,
-      "word": "宁夏一地成群野狗追咬小学生",
-      "onboard_time": 1734110474,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89961,
@@ -393,14 +401,6 @@
       "onboard_time": 1734095539,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66787,
-      "num": 66787,
-      "word": "被举报邻居称全家已无人享受低保",
-      "onboard_time": 1734110414,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59384,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24345,
+      "num": 28055,
+      "word": "刘雨昕唱情歌的杀伤力",
+      "onboard_time": 1734114554,
+      "rank": 45,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 20329,
       "num": 82703,
       "word": "黑神话悟空亮相TGA的唢呐有多震撼",
@@ -483,12 +491,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16480,
+      "num": 79978,
+      "word": "被抱养37年女子称磕头是诀别不是认亲",
+      "onboard_time": 1734113832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10630,
       "num": 105716,
       "word": "看老外考中文瞬间明白学霸的感觉",
       "onboard_time": 1734108077,
       "rank": 24,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 8355,
+      "num": 41052,
+      "word": "冰雪概念股集体爆发",
+      "onboard_time": 1734112873,
+      "rank": 24,
+      "category": "财经"
     }
   ],
   "hotgov_list": [
