@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734115579742,
+  "endTime": 1734117559646,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73257,
+      "num": 79978,
+      "word": "被抱养37年女子称磕头是诀别不是认亲",
+      "onboard_time": 1734113832,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68115,
       "num": 82446,
       "word": "金玟庭发泡泡报平安",
@@ -411,10 +419,10 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 55142,
-      "num": 79978,
-      "word": "被抱养37年女子称磕头是诀别不是认亲",
-      "onboard_time": 1734113832,
+      "raw_hot": 45870,
+      "num": 69531,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -499,6 +507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 25626,
+      "num": 25626,
+      "word": "细菌战受害者伤口80多年没完全愈合",
+      "onboard_time": 1734115633,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20329,
       "num": 82703,
       "word": "黑神话悟空亮相TGA的唢呐有多震撼",
@@ -507,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 15682,
-      "num": 69531,
-      "word": "被抱养37年拒认亲女子发声",
-      "onboard_time": 1734113952,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 15708,
+      "num": 18213,
+      "word": "百度吉利将联手处理员工车主后续问题",
+      "onboard_time": 1734117312,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 10630,
@@ -529,6 +545,14 @@
       "onboard_time": 1734112873,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7635,
+      "num": 29349,
+      "word": "马龙西装造型上线",
+      "onboard_time": 1734116531,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6994,
