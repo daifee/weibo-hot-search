@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734122410276,
+  "endTime": 1734124912164,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -30363,6 +30363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126205,
+      "num": 18336,
+      "word": "切尔诺贝利周边的狗已变异",
+      "onboard_time": 1734121871,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126089,
       "num": 325904,
       "word": "严浩翔电影杀青",
@@ -32409,14 +32417,6 @@
       "onboard_time": 1733447239,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111075,
-      "num": 17942,
-      "word": "切尔诺贝利周边的狗已变异",
-      "onboard_time": 1734121871,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110986,
@@ -38979,6 +38979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54461,
+      "num": 54461,
+      "word": "中央敲定明年财政支出重点",
+      "onboard_time": 1734119651,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 54459,
       "num": 69992,
       "word": "叙利亚安全局势进一步恶化",
@@ -40641,14 +40649,6 @@
       "onboard_time": 1733764454,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 43755,
-      "num": 43755,
-      "word": "中央敲定明年财政支出重点",
-      "onboard_time": 1734119651,
-      "rank": 9,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 43666,
@@ -45291,6 +45291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18222,
+      "num": 18222,
+      "word": "叙武装组织回应遭以军空袭数百次",
+      "onboard_time": 1734118812,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18161,
       "num": 21830,
       "word": "男子组团转赞评被判6年半罚3000万",
@@ -45539,6 +45547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16945,
+      "num": 16945,
+      "word": "731撤退时关押中国人无一幸存",
+      "onboard_time": 1734123971,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16895,
       "num": 30114,
       "word": "女生听到警报声忍不住哭出声",
@@ -45763,14 +45779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15929,
-      "num": 15929,
-      "word": "叙武装组织回应遭以军空袭数百次",
-      "onboard_time": 1734118812,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15898,
       "num": 28270,
       "word": "于正退网也这样",
@@ -45873,6 +45881,14 @@
       "onboard_time": 1733292979,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 15459,
+      "num": 26934,
+      "word": "地震局回应珠海发生地震",
+      "onboard_time": 1734119411,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 15425,
@@ -46179,20 +46195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14233,
+      "num": 14233,
+      "word": "李家超来京述职",
+      "onboard_time": 1734120790,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14231,
+      "num": 14231,
+      "word": "奉劝美方政客多些常识免得贻笑大方",
+      "onboard_time": 1734120850,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14230,
       "num": 124135,
       "word": "JDG官宣Kanavi离队",
       "onboard_time": 1733761817,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14194,
-      "num": 14194,
-      "word": "奉劝美方政客多些常识免得贻笑大方",
-      "onboard_time": 1734120850,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14127,
@@ -46209,14 +46233,6 @@
       "onboard_time": 1733400560,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 14039,
-      "num": 14039,
-      "word": "地震局回应珠海发生地震",
-      "onboard_time": 1734119411,
-      "rank": 47,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 13993,
@@ -46257,6 +46273,14 @@
       "onboard_time": 1733851454,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13672,
+      "num": 13672,
+      "word": "南京下半旗",
+      "onboard_time": 1734121811,
+      "rank": 46,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 13647,
@@ -46385,14 +46409,6 @@
       "onboard_time": 1733468359,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 13112,
-      "num": 13112,
-      "word": "李家超来京述职",
-      "onboard_time": 1734120790,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13058,
