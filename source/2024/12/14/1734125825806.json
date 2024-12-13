@@ -1,0 +1,410 @@
+{
+  "runTime": 1734125825806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126942,
+        "num": 180310,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61198,
+        "num": 61198,
+        "word": "被举报邻居称全家已无人享受低保",
+        "onboard_time": 1734110414,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12334,
+        "num": 55575,
+        "word": "2025年经济工作怎么干",
+        "onboard_time": 1734099320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105922,
+        "num": 54393,
+        "word": "表兄妹隐瞒亲属关系结婚21年",
+        "onboard_time": 1734105438,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52504,
+        "num": 52504,
+        "word": "中央敲定明年财政支出重点",
+        "onboard_time": 1734119651,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 44408,
+        "num": 44408,
+        "word": "叙多位科学家遇害研究成果一并消失",
+        "onboard_time": 1734101479,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40639,
+        "num": 40639,
+        "word": "难哄",
+        "onboard_time": 1734101840,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39754,
+        "num": 39754,
+        "word": "樊振东对战日本选手胸前贴上国旗",
+        "onboard_time": 1734101421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35875,
+        "num": 35875,
+        "word": "微博之夜",
+        "onboard_time": 1734102200,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35367,
+        "num": 35367,
+        "word": "车主提车仅一天遇极越崩盘",
+        "onboard_time": 1734118572,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18737,
+        "num": 33905,
+        "word": "731撤退时关押中国人无一幸存",
+        "onboard_time": 1734123971,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61901,
+        "num": 33758,
+        "word": "艺考前十天被抱摔骨折",
+        "onboard_time": 1734095780,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49830,
+        "num": 33710,
+        "word": "爷孙恋女主罕见回应近况",
+        "onboard_time": 1734086300,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33597,
+        "num": 33597,
+        "word": "宁夏一地成群野狗追咬小学生",
+        "onboard_time": 1734110474,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29640,
+        "num": 29640,
+        "word": "被抱养37年拒认亲女子发声",
+        "onboard_time": 1734113952,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28287,
+        "num": 28287,
+        "word": "张家界一游客与猴子互殴",
+        "onboard_time": 1734092838,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25868,
+        "num": 25868,
+        "word": "细菌战受害者伤口80多年没完全愈合",
+        "onboard_time": 1734115633,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25836,
+        "num": 25836,
+        "word": "偶遇汪峰女友森林北",
+        "onboard_time": 1734096140,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25578,
+        "num": 25578,
+        "word": "QQ音乐回应装扮问题",
+        "onboard_time": 1734094279,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24959,
+        "num": 25463,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1734101899,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46131,
+        "num": 25443,
+        "word": "董洁因儿子青春期崩溃",
+        "onboard_time": 1734094099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25408,
+        "num": 25408,
+        "word": "官方回应成群野狗追咬小学生",
+        "onboard_time": 1734104239,
+        "rank": 21,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 22470,
+        "num": 22470,
+        "word": "九重紫",
+        "onboard_time": 1734083838,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22390,
+        "num": 22390,
+        "word": "海归博士被公司起诉索赔一亿五千万",
+        "onboard_time": 1734103699,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21158,
+        "num": 21158,
+        "word": "艾滋病感染者担心医疗互认遭拒诊",
+        "onboard_time": 1734102919,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19276,
+        "num": 19276,
+        "word": "好好睡觉也是一种自律",
+        "onboard_time": 1734100400,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19049,
+        "num": 19049,
+        "word": "曝湖南卫视跨年嘉宾名单",
+        "onboard_time": 1734097339,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18961,
+        "num": 18961,
+        "word": "成都多地迎来降雪",
+        "onboard_time": 1734108317,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18150,
+        "num": 18150,
+        "word": "我是刑警大结局",
+        "onboard_time": 1734098541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16064,
+        "num": 17412,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734099439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132850,
+        "num": 17403,
+        "word": "切尔诺贝利周边的狗已变异",
+        "onboard_time": 1734121871,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28739,
+        "num": 17394,
+        "word": "代号鸢",
+        "onboard_time": 1734096979,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17380,
+        "num": 17380,
+        "word": "代号鸢 小萌",
+        "onboard_time": 1734097399,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17199,
+        "num": 17199,
+        "word": "多位LPL选手被迫休息",
+        "onboard_time": 1734098299,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17025,
+        "num": 17025,
+        "word": "韩路 23万极越车如今只值2万",
+        "onboard_time": 1734095060,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16780,
+        "num": 16780,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 35,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 15940,
+        "num": 16608,
+        "word": "地震局回应珠海发生地震",
+        "onboard_time": 1734119411,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16605,
+        "num": 16605,
+        "word": "叙利亚局势进展",
+        "onboard_time": 1734107118,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16578,
+        "num": 16578,
+        "word": "叙武装组织回应遭以军空袭数百次",
+        "onboard_time": 1734118812,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16256,
+        "num": 16256,
+        "word": "没想到杭州这么负责任",
+        "onboard_time": 1734114791,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 15611,
+        "num": 15611,
+        "word": "女子长期过度节食体重仅24公斤",
+        "onboard_time": 1734096319,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14595,
+        "num": 14595,
+        "word": "被抱养37年女子称磕头是诀别不是认亲",
+        "onboard_time": 1734113832,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14590,
+        "num": 14590,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 42,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 14359,
+        "num": 14359,
+        "word": "徐志胜 他觊觎她",
+        "onboard_time": 1734106697,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13691,
+        "num": 13691,
+        "word": "李家超来京述职",
+        "onboard_time": 1734120790,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13314,
+        "num": 13314,
+        "word": "奉劝美方政客多些常识免得贻笑大方",
+        "onboard_time": 1734120850,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13299,
+        "num": 13299,
+        "word": "南京下半旗",
+        "onboard_time": 1734121811,
+        "rank": 46,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 13243,
+        "num": 13243,
+        "word": "女生听到警报声忍不住哭出声",
+        "onboard_time": 1734118031,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12772,
+        "num": 12772,
+        "word": "黑神话悟空发博回应获奖",
+        "onboard_time": 1734096500,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12393,
+        "num": 12393,
+        "word": "12月15日起全面实施个人养老金制度",
+        "onboard_time": 1734125712,
+        "rank": 49,
+        "category": "国内时政,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
