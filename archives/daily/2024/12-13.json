@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734082785983,
+  "endTime": 1734085568662,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2294510,
-      "num": 683859,
+      "num": 685373,
       "word": "王妃网红们集体删视频退网",
       "onboard_time": 1734077839,
       "rank": 11,
@@ -115,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1247902,
+      "num": 1247902,
+      "word": "节俭一生的妈妈唯一没打包的菜",
+      "onboard_time": 1734079639,
+      "rank": 15,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 1232889,
       "num": 1042463,
       "word": "女子被抱养37年生父母找来留10万",
@@ -147,12 +155,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 968003,
+      "num": 968003,
+      "word": "硕士论文写导生关系被下载10万次",
+      "onboard_time": 1734082458,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 966928,
       "num": 1130527,
       "word": "2斤黄金无人认领期满将拍卖",
       "onboard_time": 1734065720,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 944816,
+      "num": 944816,
+      "word": "百度吉利联合声明",
+      "onboard_time": 1734083118,
+      "rank": 3,
+      "category": "汽车"
     },
     {
       "raw_hot": 913786,
@@ -219,20 +243,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 735248,
-      "num": 735248,
-      "word": "节俭一生的妈妈唯一没打包的菜",
-      "onboard_time": 1734079639,
-      "rank": 15,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 718185,
       "num": 718185,
       "word": "4399机器人",
       "onboard_time": 1734066140,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 712792,
+      "num": 712792,
+      "word": "合肥一代孕机构抓捕现场视频",
+      "onboard_time": 1734082039,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684673,
@@ -257,6 +281,14 @@
       "onboard_time": 1734060137,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 637093,
+      "num": 637093,
+      "word": "天仙还是那个天仙 董永变大郎",
+      "onboard_time": 1734083178,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 633979,
@@ -289,6 +321,14 @@
       "onboard_time": 1734068120,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593988,
+      "num": 593988,
+      "word": "美国有人想对中国产大蒜发起301调查",
+      "onboard_time": 1734081799,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 589596,
@@ -371,6 +411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 548175,
+      "num": 548175,
+      "word": "九重紫",
+      "onboard_time": 1733999300,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543505,
       "num": 543505,
       "word": "留几手气死人了",
@@ -401,6 +449,14 @@
       "onboard_time": 1734028151,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 536959,
+      "num": 536959,
+      "word": "多少网红倒在了2024年",
+      "onboard_time": 1734081199,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 528752,
@@ -539,6 +595,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403069,
+      "num": 403069,
+      "word": "樊振东直发打成卷发",
+      "onboard_time": 1734081678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 396968,
+      "num": 396968,
+      "word": "姜涛近照",
+      "onboard_time": 1734084318,
+      "rank": 15,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 394906,
+      "num": 394906,
+      "word": "C榜考虑封杀NewJeans",
+      "onboard_time": 1734083060,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392563,
       "num": 392563,
       "word": "男生昏迷醒来失忆2年后返校重读大三",
@@ -561,14 +641,6 @@
       "onboard_time": 1733988441,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375816,
-      "num": 375816,
-      "word": "樊振东直发打成卷发",
-      "onboard_time": 1734081678,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 372739,
@@ -673,6 +745,14 @@
       "onboard_time": 1734058458,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316839,
+      "num": 434892,
+      "word": "猎罪图鉴2 被嫌弃的松子",
+      "onboard_time": 1734082339,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 308828,
@@ -793,14 +873,6 @@
       "onboard_time": 1734071718,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280002,
-      "num": 280002,
-      "word": "美国有人想对中国产大蒜发起301调查",
-      "onboard_time": 1734081799,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276824,
@@ -939,14 +1011,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 237220,
-      "num": 237220,
-      "word": "合肥一代孕机构抓捕现场视频",
-      "onboard_time": 1734082039,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236791,
       "num": 379381,
       "word": "TGA笑话",
@@ -1003,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229754,
+      "num": 229754,
+      "word": "螺蛳粉店气味扰民是否可以维权",
+      "onboard_time": 1734080059,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227474,
       "num": 466600,
       "word": "机器人help机器人",
@@ -1051,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219357,
-      "num": 219357,
-      "word": "螺蛳粉店气味扰民是否可以维权",
-      "onboard_time": 1734080059,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219046,
       "num": 219046,
       "word": "王楚钦边吃零食边看孙颖莎比赛",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1734078080,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208347,
+      "num": 208347,
+      "word": "日本人说731部队比纳粹更残忍",
+      "onboard_time": 1734084918,
+      "rank": 31,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 208062,
@@ -1155,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199100,
+      "num": 199100,
+      "word": "韩剧为怀孕演员改剧本",
+      "onboard_time": 1734085039,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197997,
       "num": 315631,
       "word": "冯骥露脸了",
@@ -1169,14 +1249,6 @@
       "onboard_time": 1734063800,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197662,
-      "num": 245053,
-      "word": "多少网红倒在了2024年",
-      "onboard_time": 1734081199,
-      "rank": 29,
-      "category": "网红"
     },
     {
       "raw_hot": 196185,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1734067999,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193843,
+      "num": 292171,
+      "word": "四级",
+      "onboard_time": 1734084439,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 191855,
@@ -1355,6 +1435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175849,
+      "num": 175849,
+      "word": "明年养老金将适当提高",
+      "onboard_time": 1734082339,
+      "rank": 36,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 174137,
       "num": 174137,
       "word": "2024的豹猫cp",
@@ -1387,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171153,
+      "num": 171153,
+      "word": "博德之门3因TGA遭大量差评",
+      "onboard_time": 1734083838,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170980,
       "num": 387626,
       "word": "李宇春薛凯琪你你你为了爱情",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1734039432,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 169549,
+      "num": 356054,
+      "word": "九重紫 文化张力",
+      "onboard_time": 1734083719,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 168445,
@@ -1723,6 +1827,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134774,
+      "num": 134774,
+      "word": "欧阳震华首位提名艾美奖华人演员",
+      "onboard_time": 1734085159,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134127,
+      "num": 134127,
+      "word": "百度吉利将维护极越车辆正常使用",
+      "onboard_time": 1734084379,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132357,
       "num": 324099,
       "word": "很普通却能对抗炎症的食物",
@@ -1793,6 +1913,14 @@
       "onboard_time": 1733999601,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118484,
+      "num": 118484,
+      "word": "成毅赴山海预排明年Q2播出",
+      "onboard_time": 1734084137,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 115132,
@@ -1899,14 +2027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103455,
-      "num": 434892,
-      "word": "猎罪图鉴2 被嫌弃的松子",
-      "onboard_time": 1734082339,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102692,
       "num": 102692,
       "word": "徐志胜 加戏",
@@ -1921,6 +2041,14 @@
       "onboard_time": 1734069919,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100885,
+      "num": 361248,
+      "word": "泡面价格战涉事超市牌匾被拆",
+      "onboard_time": 1734084439,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99610,
@@ -1995,14 +2123,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 88647,
-      "num": 88647,
-      "word": "九重紫",
-      "onboard_time": 1733999300,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86572,
       "num": 388375,
       "word": "黄翠如孕肚照",
@@ -2071,14 +2191,6 @@
       "num": 396485,
       "word": "安徽合肥一医疗公司涉嫌代孕",
       "onboard_time": 1734078258,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81590,
-      "num": 480835,
-      "word": "硕士论文写导生关系被下载10万次",
-      "onboard_time": 1734082458,
       "rank": 12,
       "category": "民生新闻"
     },
@@ -2227,6 +2339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54652,
+      "num": 364143,
+      "word": "陶喆直播",
+      "onboard_time": 1734084198,
+      "rank": 18,
+      "category": "音乐,演出"
+    },
+    {
       "raw_hot": 53881,
       "num": 53881,
       "word": "整治内卷式竞争",
@@ -2276,7 +2396,7 @@
     },
     {
       "raw_hot": 47107,
-      "num": 721469,
+      "num": 947228,
       "word": "祭忆之花将历史记忆与和平愿景相连",
       "onboard_time": 1734079579,
       "rank": 2,
@@ -2337,6 +2457,14 @@
       "onboard_time": 1734058578,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 33002,
+      "num": 399268,
+      "word": "哪个老年人能够拒绝领鸡蛋的诱惑",
+      "onboard_time": 1734084620,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30511,
@@ -2449,6 +2577,22 @@
       "onboard_time": 1734036431,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16059,
+      "num": 537733,
+      "word": "以网文方式打开名著是碰瓷吗",
+      "onboard_time": 1734084800,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14689,
+      "num": 397630,
+      "word": "788元产康项目6项赠品5项没给",
+      "onboard_time": 1734084738,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13862,
