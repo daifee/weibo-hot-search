@@ -1,0 +1,410 @@
+{
+  "runTime": 1734081939200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 650564,
+        "num": 1104090,
+        "word": "三台极越车主称接受不了",
+        "onboard_time": 1734076938,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1082363,
+        "num": 1082363,
+        "word": "多地医护和公职人员被指参与代孕",
+        "onboard_time": 1734078017,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47107,
+        "num": 721469,
+        "word": "祭忆之花将历史记忆与和平愿景相连",
+        "onboard_time": 1734079579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2294510,
+        "num": 683859,
+        "word": "王妃网红们集体删视频退网",
+        "onboard_time": 1734077839,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 573262,
+        "num": 573262,
+        "word": "李行亮麦琳 脑白金",
+        "onboard_time": 1734076518,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 971037,
+        "num": 551497,
+        "word": "马斯克成为史上首位4000亿富豪",
+        "onboard_time": 1734074718,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 492619,
+        "num": 492619,
+        "word": "王者荣耀",
+        "onboard_time": 1734074358,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370403,
+        "num": 487906,
+        "word": "郑业成回应赵露思帮宣传新剧",
+        "onboard_time": 1734075196,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215523,
+        "num": 485501,
+        "word": "杜兆才一审被判14年",
+        "onboard_time": 1734081138,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67247,
+        "num": 485171,
+        "word": "耳朵经济为什么火了",
+        "onboard_time": 1734081138,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484907,
+        "num": 484907,
+        "word": "TGA官推被中国玩家攻占",
+        "onboard_time": 1734078378,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 466823,
+        "num": 466823,
+        "word": "大蒜做梦也没想到能对美构成极大威胁",
+        "onboard_time": 1734078138,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461113,
+        "num": 461113,
+        "word": "家属称远嫁日本女子已瘦到皮包骨",
+        "onboard_time": 1734070699,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422896,
+        "num": 422896,
+        "word": "RNG欠Uzi七位数没还",
+        "onboard_time": 1734079399,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17349,
+        "num": 394450,
+        "word": "石云鹏不想被童星标签绑定",
+        "onboard_time": 1734081020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383898,
+        "num": 383898,
+        "word": "节俭一生的妈妈唯一没打包的菜",
+        "onboard_time": 1734079639,
+        "rank": 15,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 295387,
+        "num": 374265,
+        "word": "张峻豪公式照",
+        "onboard_time": 1734078017,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264202,
+        "num": 365340,
+        "word": "孔敏贞怀孕",
+        "onboard_time": 1734078679,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19269,
+        "num": 353804,
+        "word": "索尼手柄说明书",
+        "onboard_time": 1734081678,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12909,
+        "num": 339538,
+        "word": "有店家卖过期食品做宠物饲料",
+        "onboard_time": 1734081619,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324824,
+        "num": 324824,
+        "word": "身体发炎时少吃4种食物",
+        "onboard_time": 1734078499,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246160,
+        "num": 298081,
+        "word": "香港街头偶遇陈奕迅夫妇",
+        "onboard_time": 1734080419,
+        "rank": 21,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 284733,
+        "num": 284733,
+        "word": "气血不足的人要多去KTV唱歌",
+        "onboard_time": 1734073219,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251672,
+        "num": 279282,
+        "word": "QQ音乐 装扮",
+        "onboard_time": 1734081559,
+        "rank": 23,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 114837,
+        "num": 278617,
+        "word": "王楚钦采访名场面上新",
+        "onboard_time": 1734081439,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278399,
+        "num": 278399,
+        "word": "男子中2亿彩票25天后心脏骤停去世",
+        "onboard_time": 1734064279,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124803,
+        "num": 268358,
+        "word": "林靖恩回应偷吃外卖",
+        "onboard_time": 1734080118,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263964,
+        "num": 263964,
+        "word": "内娱也有鬼怪出场即视感的舞台了",
+        "onboard_time": 1734074838,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250586,
+        "num": 250586,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052159,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104275,
+        "num": 245053,
+        "word": "多少网红倒在了2024年",
+        "onboard_time": 1734081199,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244523,
+        "num": 244523,
+        "word": "樊振东直发打成卷发",
+        "onboard_time": 1734081678,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "向佐敷面膜都这么抽象",
+        "onboard_time": 1734079520,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208884,
+        "num": 208884,
+        "word": "外交部回应美政客中国大蒜威胁极大论",
+        "onboard_time": 1734078080,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207011,
+        "num": 207011,
+        "word": "猎罪图鉴2 盲童案",
+        "onboard_time": 1734072438,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195715,
+        "num": 195715,
+        "word": "留几手害怕离婚",
+        "onboard_time": 1734075978,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193323,
+        "num": 193323,
+        "word": "邱泽许玮甯牵手散步",
+        "onboard_time": 1734065539,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192575,
+        "num": 192575,
+        "word": "男子举报邻居一家有车有房吃低保",
+        "onboard_time": 1734078740,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190020,
+        "num": 190020,
+        "word": "王妃网红穿金戴银带货价格不超50元",
+        "onboard_time": 1734080238,
+        "rank": 37,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 187558,
+        "num": 187558,
+        "word": "男子持皇家印章坐高铁",
+        "onboard_time": 1734071358,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179431,
+        "num": 179431,
+        "word": "珠海地震",
+        "onboard_time": 1734071838,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178022,
+        "num": 178022,
+        "word": "餐饮店老板女儿爱上外卖员3个月被骗8万",
+        "onboard_time": 1734077238,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174137,
+        "num": 174137,
+        "word": "2024的豹猫cp",
+        "onboard_time": 1734080238,
+        "rank": 41,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 172060,
+        "num": 172060,
+        "word": "杜兆才案一审获刑14年",
+        "onboard_time": 1734081619,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168462,
+        "num": 168462,
+        "word": "美国有人想对中国产大蒜发起301调查",
+        "onboard_time": 1734081799,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165573,
+        "num": 165573,
+        "word": "Epic 问号",
+        "onboard_time": 1734066321,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163700,
+        "num": 163700,
+        "word": "螺蛳粉店气味扰民是否可以维权",
+        "onboard_time": 1734080059,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154532,
+        "num": 154532,
+        "word": "2斤黄金无人认领期满将拍卖",
+        "onboard_time": 1734065720,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145654,
+        "num": 145654,
+        "word": "王楚钦边吃零食边看孙颖莎比赛",
+        "onboard_time": 1734075440,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107032,
+        "num": 138937,
+        "word": "空气墙仍旧存在",
+        "onboard_time": 1734080419,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137285,
+        "num": 137285,
+        "word": "男子带娃登山身亡孩子以为爸爸睡了",
+        "onboard_time": 1734065479,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025中国经济怎么干#"
+    }
+  }
+}
