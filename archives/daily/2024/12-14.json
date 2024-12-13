@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734117559646,
+  "endTime": 1734118574114,
   "band_list": [
     {
       "raw_hot": 1108570,
@@ -387,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81973,
+      "num": 81973,
+      "word": "被抱养37年拒认亲女子发声",
+      "onboard_time": 1734113952,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77884,
       "num": 82457,
       "word": "白色橄榄树难哄对打",
@@ -417,14 +425,6 @@
       "onboard_time": 1734106878,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 45870,
-      "num": 69531,
-      "word": "被抱养37年拒认亲女子发声",
-      "onboard_time": 1734113952,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45861,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33697,
+      "num": 52828,
+      "word": "细菌战受害者伤口80多年没完全愈合",
+      "onboard_time": 1734115633,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32033,
       "num": 66861,
       "word": "pgc2024",
@@ -507,14 +515,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 25626,
-      "num": 25626,
-      "word": "细菌战受害者伤口80多年没完全愈合",
-      "onboard_time": 1734115633,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 20329,
       "num": 82703,
       "word": "黑神话悟空亮相TGA的唢呐有多震撼",
@@ -529,6 +529,14 @@
       "onboard_time": 1734117312,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 15680,
+      "num": 16172,
+      "word": "女生听到警报声忍不住哭出声",
+      "onboard_time": 1734118031,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10630,
@@ -561,6 +569,14 @@
       "onboard_time": 1734115333,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6697,
+      "num": 26760,
+      "word": "王楚钦对湖南观众说你好",
+      "onboard_time": 1734117733,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
