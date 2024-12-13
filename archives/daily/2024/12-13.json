@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734074650392,
+  "endTime": 1734075419632,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -99,8 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1097231,
-      "num": 598461,
+      "raw_hot": 1127567,
+      "num": 641003,
       "word": "家属称远嫁日本女子已瘦到皮包骨",
       "onboard_time": 1734070699,
       "rank": 14,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 774348,
+      "num": 445679,
+      "word": "九华山偶遇王楚然祈福",
+      "onboard_time": 1734072317,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755084,
       "num": 912795,
       "word": "内娱第一位洋葱系艺人",
@@ -187,20 +195,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 668086,
-      "num": 445679,
-      "word": "九华山偶遇王楚然祈福",
-      "onboard_time": 1734072317,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 637554,
       "num": 637554,
       "word": "尹锡悦一口气批准42项法案及施行令",
       "onboard_time": 1734060137,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 633979,
+      "num": 633979,
+      "word": "男子持皇家印章坐高铁",
+      "onboard_time": 1734071358,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 623412,
@@ -232,14 +240,6 @@
       "word": "卖菜老人烧炭取暖身亡知情人发声",
       "onboard_time": 1734049938,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 588581,
-      "num": 588581,
-      "word": "男子持皇家印章坐高铁",
-      "onboard_time": 1734071358,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -305,6 +305,14 @@
       "onboard_time": 1734055280,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 539838,
+      "num": 385740,
+      "word": "珠海地震",
+      "onboard_time": 1734071838,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538732,
@@ -395,14 +403,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 433461,
-      "num": 385740,
-      "word": "珠海地震",
-      "onboard_time": 1734071838,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 423724,
       "num": 363341,
       "word": "61岁男子吃未焯水菠菜后肾衰竭",
@@ -483,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 331671,
+      "num": 331671,
+      "word": "EPIC 100份年度游戏",
+      "onboard_time": 1734071600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 329941,
+      "num": 399508,
+      "word": "猎罪图鉴2 盲童案",
+      "onboard_time": 1734072438,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326415,
       "num": 316423,
       "word": "明白了为什么微信这么占内存了",
@@ -491,28 +507,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 321110,
-      "num": 321110,
-      "word": "EPIC 100份年度游戏",
-      "onboard_time": 1734071600,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 320165,
       "num": 282324,
       "word": "当着任天堂放帕鲁宣传片",
       "onboard_time": 1734068059,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 319036,
-      "num": 394306,
-      "word": "猎罪图鉴2 盲童案",
-      "onboard_time": 1734072438,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 318655,
@@ -611,6 +611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294286,
+      "num": 352870,
+      "word": "王者荣耀",
+      "onboard_time": 1734074358,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290138,
       "num": 540322,
       "word": "李铁",
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265194,
+      "num": 265194,
+      "word": "马斯克成为史上首位4000亿富豪",
+      "onboard_time": 1734074718,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 255290,
       "num": 579803,
       "word": "嘎子哥谢孟伟获三级演员职称",
@@ -713,6 +729,14 @@
       "onboard_time": 1734021018,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 249082,
+      "num": 386695,
+      "word": "气血不足的人要多去KTV唱歌",
+      "onboard_time": 1734073219,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247602,
@@ -827,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223505,
+      "num": 272658,
+      "word": "郑业成回应赵露思帮宣传新剧",
+      "onboard_time": 1734075196,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222784,
       "num": 171943,
       "word": "关晓彤参加小巷人家研讨会",
@@ -921,6 +953,14 @@
       "onboard_time": 1734067999,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194361,
+      "num": 343040,
+      "word": "内娱也有鬼怪出场即视感的舞台了",
+      "onboard_time": 1734074838,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 191855,
@@ -1059,20 +1099,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 171595,
-      "num": 386695,
-      "word": "气血不足的人要多去KTV唱歌",
-      "onboard_time": 1734073219,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171151,
-      "num": 352870,
-      "word": "王者荣耀",
-      "onboard_time": 1734074358,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 170980,
+      "num": 387626,
+      "word": "李宇春薛凯琪你你你为了爱情",
+      "onboard_time": 1734073758,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 170927,
@@ -1081,6 +1113,14 @@
       "onboard_time": 1734039432,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 170789,
+      "num": 170789,
+      "word": "A股放量下跌失守3400点",
+      "onboard_time": 1734075196,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 168445,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1734069979,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159731,
+      "num": 159731,
+      "word": "学上了一半专业突然没了",
+      "onboard_time": 1734070278,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 159562,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1734065180,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149134,
-      "num": 387626,
-      "word": "李宇春薛凯琪你你你为了爱情",
-      "onboard_time": 1734073758,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 148906,
@@ -1411,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125078,
-      "num": 147923,
-      "word": "学上了一半专业突然没了",
-      "onboard_time": 1734070278,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 121903,
       "num": 121903,
       "word": "部署2025年经济工作",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1733999601,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116570,
+      "num": 248426,
+      "word": "恭喜黑神话悟空",
+      "onboard_time": 1734075319,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 115132,
@@ -1539,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99610,
+      "num": 129501,
+      "word": "我是刑警 内容回来了",
+      "onboard_time": 1734073219,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98837,
       "num": 98837,
       "word": "张凌赫逐玉一番",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1733999300,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86572,
+      "num": 388375,
+      "word": "黄翠如孕肚照",
+      "onboard_time": 1734073219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 85755,
@@ -1691,12 +1747,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 69286,
-      "num": 388375,
-      "word": "黄翠如孕肚照",
-      "onboard_time": 1734073219,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 69326,
+      "num": 395894,
+      "word": "专家称按套内计价和取消公摊是两码事",
+      "onboard_time": 1734073939,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 69142,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1734045855,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58520,
+      "num": 391818,
+      "word": "缺千斤少万两卖煤商贩被顶格处罚",
+      "onboard_time": 1734074301,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56447,
@@ -1811,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44032,
-      "num": 395894,
-      "word": "专家称按套内计价和取消公摊是两码事",
-      "onboard_time": 1734073939,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 40922,
       "num": 582868,
       "word": "樊振东3比1胜孙闻",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1734058578,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 30511,
+      "num": 338369,
+      "word": "辩护人回应李铁庭审状态",
+      "onboard_time": 1734074779,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 30108,
@@ -1913,14 +1977,6 @@
       "onboard_time": 1734028813,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21068,
-      "num": 391818,
-      "word": "缺千斤少万两卖煤商贩被顶格处罚",
-      "onboard_time": 1734074301,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18814,

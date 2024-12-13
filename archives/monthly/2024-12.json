@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734074650392,
+  "endTime": 1734075419632,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2155,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1127567,
+      "num": 641003,
+      "word": "家属称远嫁日本女子已瘦到皮包骨",
+      "onboard_time": 1734070699,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1123216,
       "num": 1123216,
       "word": "哥伦比亚大量人口失踪后无从寻觅",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1733240125,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1097231,
-      "num": 598461,
-      "word": "家属称远嫁日本女子已瘦到皮包骨",
-      "onboard_time": 1734070699,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1092999,
@@ -4059,6 +4059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 774348,
+      "num": 445679,
+      "word": "九华山偶遇王楚然祈福",
+      "onboard_time": 1734072317,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769995,
       "num": 769995,
       "word": "以色列男子侮辱黑人男孩被暴打",
@@ -4971,14 +4979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 668086,
-      "num": 445679,
-      "word": "九华山偶遇王楚然祈福",
-      "onboard_time": 1734072317,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 667994,
       "num": 1619084,
       "word": "中国半导体行业协会发声明",
@@ -5305,6 +5305,14 @@
       "onboard_time": 1733021059,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 633979,
+      "num": 633979,
+      "word": "男子持皇家印章坐高铁",
+      "onboard_time": 1734071358,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 632801,
@@ -5889,14 +5897,6 @@
       "onboard_time": 1733831899,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588581,
-      "num": 588581,
-      "word": "男子持皇家印章坐高铁",
-      "onboard_time": 1734071358,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 584563,
@@ -6601,6 +6601,14 @@
       "onboard_time": 1733440575,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539838,
+      "num": 385740,
+      "word": "珠海地震",
+      "onboard_time": 1734071838,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539541,
@@ -8688,14 +8696,6 @@
       "word": "连云港",
       "onboard_time": 1733218219,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 433461,
-      "num": 385740,
-      "word": "珠海地震",
-      "onboard_time": 1734071838,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -11323,6 +11323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331671,
+      "num": 331671,
+      "word": "EPIC 100份年度游戏",
+      "onboard_time": 1734071600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331025,
       "num": 331025,
       "word": "张若昀没案硬探",
@@ -11377,6 +11385,14 @@
       "onboard_time": 1733903544,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329941,
+      "num": 399508,
+      "word": "猎罪图鉴2 盲童案",
+      "onboard_time": 1734072438,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 329612,
@@ -11699,14 +11715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 321110,
-      "num": 321110,
-      "word": "EPIC 100份年度游戏",
-      "onboard_time": 1734071600,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 320686,
       "num": 320686,
       "word": "赛力斯",
@@ -11768,14 +11776,6 @@
       "word": "杨紫家业大婚路透",
       "onboard_time": 1733668161,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 319036,
-      "num": 394306,
-      "word": "猎罪图鉴2 盲童案",
-      "onboard_time": 1734072438,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -13795,6 +13795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265194,
+      "num": 265194,
+      "word": "马斯克成为史上首位4000亿富豪",
+      "onboard_time": 1734074718,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 265012,
       "num": 265012,
       "word": "叙利亚总理同意将权力移交给反对派",
@@ -14513,6 +14521,14 @@
       "onboard_time": 1733720001,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 249082,
+      "num": 386695,
+      "word": "气血不足的人要多去KTV唱歌",
+      "onboard_time": 1734073219,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249057,
@@ -16289,6 +16305,14 @@
       "onboard_time": 1733194639,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223505,
+      "num": 272658,
+      "word": "郑业成回应赵露思帮宣传新剧",
+      "onboard_time": 1734075196,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 223475,
@@ -19313,6 +19337,14 @@
       "onboard_time": 1733883439,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194361,
+      "num": 343040,
+      "word": "内娱也有鬼怪出场即视感的舞台了",
+      "onboard_time": 1734074838,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 194183,
@@ -22491,14 +22523,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 171595,
-      "num": 386695,
-      "word": "气血不足的人要多去KTV唱歌",
-      "onboard_time": 1734073219,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171462,
       "num": 171462,
       "word": "隋文静复出",
@@ -22555,6 +22579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170980,
+      "num": 387626,
+      "word": "李宇春薛凯琪你你你为了爱情",
+      "onboard_time": 1734073758,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170978,
       "num": 137131,
       "word": "黄子韬 我关注列表只有我老婆一个人",
@@ -22601,6 +22633,14 @@
       "onboard_time": 1733996781,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170789,
+      "num": 170789,
+      "word": "A股放量下跌失守3400点",
+      "onboard_time": 1734075196,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 170713,
@@ -24193,6 +24233,14 @@
       "onboard_time": 1733722940,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159731,
+      "num": 159731,
+      "word": "学上了一半专业突然没了",
+      "onboard_time": 1734070278,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 159569,
@@ -25929,14 +25977,6 @@
       "onboard_time": 1733541199,
       "rank": 48,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 149134,
-      "num": 387626,
-      "word": "李宇春薛凯琪你你你为了爱情",
-      "onboard_time": 1734073758,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 149086,
@@ -29387,14 +29427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125078,
-      "num": 147923,
-      "word": "学上了一半专业突然没了",
-      "onboard_time": 1734070278,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 125069,
       "num": 372554,
       "word": "蹭跑全马女孩父亲发声",
@@ -30521,6 +30553,14 @@
       "onboard_time": 1733371940,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116570,
+      "num": 248426,
+      "word": "恭喜黑神话悟空",
+      "onboard_time": 1734075319,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 116558,
@@ -32483,6 +32523,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 99610,
+      "num": 129501,
+      "word": "我是刑警 内容回来了",
+      "onboard_time": 1734073219,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99570,
       "num": 313991,
       "word": "因果报应 同是爸爸我站你这边",
@@ -33857,6 +33905,14 @@
       "onboard_time": 1733648599,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86572,
+      "num": 388375,
+      "word": "黄翠如孕肚照",
+      "onboard_time": 1734073219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 86303,
@@ -35667,20 +35723,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69326,
+      "num": 395894,
+      "word": "专家称按套内计价和取消公摊是两码事",
+      "onboard_time": 1734073939,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69289,
       "num": 248060,
       "word": "赵子豪打球逗笑樊振东",
       "onboard_time": 1733908581,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69286,
-      "num": 388375,
-      "word": "黄翠如孕肚照",
-      "onboard_time": 1734073219,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 69273,
@@ -36953,6 +37009,14 @@
       "onboard_time": 1733994439,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 58520,
+      "num": 391818,
+      "word": "缺千斤少万两卖煤商贩被顶格处罚",
+      "onboard_time": 1734074301,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58434,
@@ -39009,14 +39073,6 @@
       "onboard_time": 1733826019,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 44032,
-      "num": 395894,
-      "word": "专家称按套内计价和取消公摊是两码事",
-      "onboard_time": 1734073939,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 43933,
@@ -41507,6 +41563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30511,
+      "num": 338369,
+      "word": "辩护人回应李铁庭审状态",
+      "onboard_time": 1734074779,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30460,
       "num": 339601,
       "word": "张韶涵燃烧的生命力",
@@ -43049,14 +43113,6 @@
       "onboard_time": 1733856431,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21068,
-      "num": 391818,
-      "word": "缺千斤少万两卖煤商贩被顶格处罚",
-      "onboard_time": 1734074301,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21063,

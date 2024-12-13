@@ -1,0 +1,410 @@
+{
+  "runTime": 1734075419632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737213,
+        "num": 1117954,
+        "word": "2斤黄金无人认领期满将拍卖",
+        "onboard_time": 1734065720,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681897,
+        "num": 681897,
+        "word": "4399机器人",
+        "onboard_time": 1734066140,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44243,
+        "num": 641218,
+        "word": "奋进是对历史最好的铭记",
+        "onboard_time": 1734061818,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1127567,
+        "num": 641003,
+        "word": "家属称远嫁日本女子已瘦到皮包骨",
+        "onboard_time": 1734070699,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633979,
+        "num": 633979,
+        "word": "男子持皇家印章坐高铁",
+        "onboard_time": 1734071358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441377,
+        "num": 441377,
+        "word": "李铁被判20年",
+        "onboard_time": 1734052159,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412074,
+        "num": 412074,
+        "word": "白鹿获三级演员职称",
+        "onboard_time": 1734070039,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401074,
+        "num": 401074,
+        "word": "黑神话悟空未获TGA年度游戏",
+        "onboard_time": 1734063439,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 329941,
+        "num": 399508,
+        "word": "猎罪图鉴2 盲童案",
+        "onboard_time": 1734072438,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69326,
+        "num": 389245,
+        "word": "专家称按套内计价和取消公摊是两码事",
+        "onboard_time": 1734073939,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 774348,
+        "num": 384137,
+        "word": "九华山偶遇王楚然祈福",
+        "onboard_time": 1734072317,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539838,
+        "num": 377412,
+        "word": "珠海地震",
+        "onboard_time": 1734071838,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521793,
+        "num": 368875,
+        "word": "猴哥说车妻子谈婚变",
+        "onboard_time": 1734067039,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462799,
+        "num": 364799,
+        "word": "邱泽许玮甯牵手散步",
+        "onboard_time": 1734065539,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58520,
+        "num": 355436,
+        "word": "缺千斤少万两卖煤商贩被顶格处罚",
+        "onboard_time": 1734074301,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404647,
+        "num": 351876,
+        "word": "A股",
+        "onboard_time": 1734073039,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347733,
+        "num": 347733,
+        "word": "Epic 问号",
+        "onboard_time": 1734066321,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269345,
+        "num": 347338,
+        "word": "霍建华戚薇 暗夜迷局",
+        "onboard_time": 1734071718,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194361,
+        "num": 343040,
+        "word": "内娱也有鬼怪出场即视感的舞台了",
+        "onboard_time": 1734074838,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30511,
+        "num": 338369,
+        "word": "辩护人回应李铁庭审状态",
+        "onboard_time": 1734074779,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 578034,
+        "num": 337432,
+        "word": "男子带娃登山身亡孩子以为爸爸睡了",
+        "onboard_time": 1734065479,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405856,
+        "num": 332196,
+        "word": "男子中2亿彩票25天后心脏骤停去世",
+        "onboard_time": 1734064279,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 331671,
+        "num": 331671,
+        "word": "EPIC 100份年度游戏",
+        "onboard_time": 1734071600,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294286,
+        "num": 294286,
+        "word": "王者荣耀",
+        "onboard_time": 1734074358,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283365,
+        "num": 283365,
+        "word": "何超莲晒和虞书欣合照",
+        "onboard_time": 1734067219,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274677,
+        "num": 274677,
+        "word": "曝朴彩英与新歌MV男主恋爱",
+        "onboard_time": 1734059059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223505,
+        "num": 272658,
+        "word": "郑业成回应赵露思帮宣传新剧",
+        "onboard_time": 1734075196,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182266,
+        "num": 271809,
+        "word": "卢昱晓罗一舟或将合作轧戏",
+        "onboard_time": 1734068120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170980,
+        "num": 269202,
+        "word": "李宇春薛凯琪你你你为了爱情",
+        "onboard_time": 1734073758,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139822,
+        "num": 265420,
+        "word": "李现 赤焰",
+        "onboard_time": 1734072557,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265194,
+        "num": 265194,
+        "word": "马斯克成为史上首位4000亿富豪",
+        "onboard_time": 1734074718,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255967,
+        "num": 255967,
+        "word": "明白了为什么微信这么占内存了",
+        "onboard_time": 1734064279,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 249082,
+        "num": 249082,
+        "word": "气血不足的人要多去KTV唱歌",
+        "onboard_time": 1734073219,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124448,
+        "num": 248432,
+        "word": "素人综艺正在失去素人味道",
+        "onboard_time": 1734069979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116570,
+        "num": 248426,
+        "word": "恭喜黑神话悟空",
+        "onboard_time": 1734075319,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 248425,
+        "num": 248425,
+        "word": "受伤小象被救后成了600斤的跟屁虫",
+        "onboard_time": 1734067102,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219755,
+        "num": 219755,
+        "word": "南京大屠杀死难者国家公祭日",
+        "onboard_time": 1734059119,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193579,
+        "num": 193579,
+        "word": "TGA",
+        "onboard_time": 1734047537,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190595,
+        "num": 190595,
+        "word": "原来美容院偷偷给我涂了素颜霜",
+        "onboard_time": 1734066679,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 188404,
+        "num": 188404,
+        "word": "机器人help机器人",
+        "onboard_time": 1734071418,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179593,
+        "num": 179593,
+        "word": "3块5泡面档口刺痛了谁的良心",
+        "onboard_time": 1734059477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170789,
+        "num": 170789,
+        "word": "A股放量下跌失守3400点",
+        "onboard_time": 1734075196,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163886,
+        "num": 163886,
+        "word": "急性子瘦肚子练这个就行了",
+        "onboard_time": 1734066439,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159731,
+        "num": 159731,
+        "word": "学上了一半专业突然没了",
+        "onboard_time": 1734070278,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159559,
+        "num": 159559,
+        "word": "旺旺集团郑重声明",
+        "onboard_time": 1734069379,
+        "rank": 44,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 157572,
+        "num": 157572,
+        "word": "王楚钦观战孙颖莎比赛松弛感拉满",
+        "onboard_time": 1734064279,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138362,
+        "num": 138362,
+        "word": "宇宙机器人获TGA年度游戏",
+        "onboard_time": 1734062901,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136564,
+        "num": 136564,
+        "word": "当着任天堂放帕鲁宣传片",
+        "onboard_time": 1734068059,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86572,
+        "num": 132543,
+        "word": "黄翠如孕肚照",
+        "onboard_time": 1734073219,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99610,
+        "num": 129501,
+        "word": "我是刑警 内容回来了",
+        "onboard_time": 1734073219,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#明年要抓好9个重点任务#"
+    }
+  }
+}
