@@ -1,6 +1,6 @@
 {
   "startTime": 1734021059563,
-  "endTime": 1734067419048,
+  "endTime": 1734068485099,
   "band_list": [
     {
       "raw_hot": 6094170,
@@ -41,6 +41,14 @@
       "onboard_time": 1734013642,
       "rank": 0,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 1545541,
+      "num": 1545541,
+      "word": "男子带娃登山身亡孩子以为爸爸睡了",
+      "onboard_time": 1734065479,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1471467,
@@ -91,12 +99,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1213382,
-      "num": 1213382,
-      "word": "男子带娃登山身亡孩子以为爸爸睡了",
-      "onboard_time": 1734065479,
-      "rank": 0,
-      "category": "民生新闻"
+      "raw_hot": 995660,
+      "num": 585978,
+      "word": "Epic 问号",
+      "onboard_time": 1734066321,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 913786,
@@ -131,15 +139,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 872842,
-      "num": 363760,
-      "word": "Epic 问号",
-      "onboard_time": 1734066321,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 869885,
+      "raw_hot": 872918,
       "num": 719646,
       "word": "邱泽许玮甯牵手散步",
       "onboard_time": 1734065539,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622721,
+      "num": 622721,
+      "word": "2斤黄金无人认领期满将拍卖",
+      "onboard_time": 1734065720,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595778,
       "num": 447290,
       "word": "部门介入男子抱赤裸幼子站街头",
@@ -201,6 +209,14 @@
       "onboard_time": 1734059118,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 584539,
+      "num": 289096,
+      "word": "猴哥说车妻子谈婚变",
+      "onboard_time": 1734067039,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 579449,
@@ -251,6 +267,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 535094,
+      "num": 535094,
+      "word": "4399机器人",
+      "onboard_time": 1734066140,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 520019,
       "num": 520019,
       "word": "李铁曾忏悔自己活成了最憎恨的样子",
@@ -281,6 +305,14 @@
       "onboard_time": 1734051438,
       "rank": 16,
       "category": "财经,国际时政"
+    },
+    {
+      "raw_hot": 472548,
+      "num": 472548,
+      "word": "何超莲晒和虞书欣合照",
+      "onboard_time": 1734067219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 459728,
@@ -347,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 381391,
-      "num": 381391,
-      "word": "2斤黄金无人认领期满将拍卖",
-      "onboard_time": 1734065720,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358305,
       "num": 358305,
       "word": "曝某95花否掉九个男主",
@@ -371,14 +395,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 342099,
-      "num": 342099,
-      "word": "4399机器人",
-      "onboard_time": 1734066140,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 339843,
       "num": 385425,
       "word": "李铁涉案金额近1.2亿",
@@ -387,12 +403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 326415,
+      "num": 316423,
+      "word": "明白了为什么微信这么占内存了",
+      "onboard_time": 1734064279,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 324177,
       "num": 324177,
       "word": "A股",
       "onboard_time": 1734055099,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 320165,
+      "num": 282324,
+      "word": "当着任天堂放帕鲁宣传片",
+      "onboard_time": 1734068059,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 318655,
@@ -419,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307669,
-      "num": 307669,
-      "word": "明白了为什么微信这么占内存了",
-      "onboard_time": 1734064279,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 307230,
+      "num": 404591,
+      "word": "极越CEO称不会跑路",
+      "onboard_time": 1734066559,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 305122,
@@ -505,6 +537,22 @@
       "onboard_time": 1734028032,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280051,
+      "num": 313762,
+      "word": "卢昱晓罗一舟 轧戏",
+      "onboard_time": 1734068120,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277033,
+      "num": 277033,
+      "word": "受伤小象被救后成了600斤的跟屁虫",
+      "onboard_time": 1734067102,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276824,
@@ -595,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243624,
-      "num": 243624,
-      "word": "猴哥说车妻子谈婚变",
-      "onboard_time": 1734067039,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
@@ -611,12 +651,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 238031,
-      "num": 404591,
-      "word": "极越CEO称不会跑路",
-      "onboard_time": 1734066559,
-      "rank": 19,
-      "category": "汽车"
+      "raw_hot": 236791,
+      "num": 379381,
+      "word": "TGA笑话",
+      "onboard_time": 1734066619,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 236639,
@@ -659,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225879,
+      "num": 225879,
+      "word": "布朗尼30分",
+      "onboard_time": 1734067879,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224700,
       "num": 224700,
       "word": "小象受伤被救3个月胖了400斤",
@@ -691,28 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214556,
-      "num": 379381,
-      "word": "TGA笑话",
-      "onboard_time": 1734066619,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 213956,
       "num": 358468,
       "word": "中央定基调明年经济工作这么干",
       "onboard_time": 1734017180,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 212988,
-      "num": 419684,
-      "word": "何超莲晒和虞书欣合照",
-      "onboard_time": 1734067219,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 208062,
@@ -761,6 +793,14 @@
       "onboard_time": 1734063800,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195499,
+      "num": 195499,
+      "word": "索尼",
+      "onboard_time": 1734067999,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 191855,
@@ -875,14 +915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174537,
-      "num": 174537,
-      "word": "受伤小象被救后成了600斤的跟屁虫",
-      "onboard_time": 1734067102,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170927,
       "num": 170927,
       "word": "人肉火烧造谣者已被行政拘留",
@@ -969,6 +1001,14 @@
       "onboard_time": 1734057979,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155584,
+      "num": 155584,
+      "word": "梁俨苧3比1林高远",
+      "onboard_time": 1734065539,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154224,
@@ -1171,6 +1211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114884,
+      "num": 305808,
+      "word": "再见爱人全员cosplay",
+      "onboard_time": 1734067340,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114795,
       "num": 260019,
       "word": "韩国投资者涌向黄金市场",
@@ -1211,12 +1259,28 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 106735,
+      "num": 735069,
+      "word": "北京一男子带娃爬野山意外身亡",
+      "onboard_time": 1734067039,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104892,
       "num": 104892,
       "word": "极越商业版图盘点",
       "onboard_time": 1733999059,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104070,
+      "num": 321256,
+      "word": "韩国餐厅偶遇王嘉尔",
+      "onboard_time": 1734067458,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 102692,
@@ -1379,6 +1443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67549,
+      "num": 293542,
+      "word": "周笔畅容祖儿黄雅莉呼吸有害",
+      "onboard_time": 1734067699,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67065,
       "num": 444085,
       "word": "TGA 含金量",
@@ -1395,14 +1467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61086,
-      "num": 735069,
-      "word": "北京一男子带娃爬野山意外身亡",
-      "onboard_time": 1734067039,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59323,
       "num": 59323,
       "word": "英伟达",
@@ -1417,14 +1481,6 @@
       "onboard_time": 1734019339,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56344,
-      "num": 271579,
-      "word": "再见爱人全员cosplay",
-      "onboard_time": 1734067340,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 56103,
