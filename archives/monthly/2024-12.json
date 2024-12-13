@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734072447211,
+  "endTime": 1734074650392,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2233,6 +2233,14 @@
       "onboard_time": 1733240125,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1097231,
+      "num": 598461,
+      "word": "家属称远嫁日本女子已瘦到皮包骨",
+      "onboard_time": 1734070699,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1092999,
@@ -4963,6 +4971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 668086,
+      "num": 445679,
+      "word": "九华山偶遇王楚然祈福",
+      "onboard_time": 1734072317,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667994,
       "num": 1619084,
       "word": "中国半导体行业协会发声明",
@@ -5771,14 +5787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 594294,
-      "num": 594294,
-      "word": "家属称远嫁日本女子已瘦到皮包骨",
-      "onboard_time": 1734070699,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 594255,
       "num": 466542,
       "word": "韩最大在野党要求尹锡悦立即辞职",
@@ -5881,6 +5889,14 @@
       "onboard_time": 1733831899,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 588581,
+      "num": 588581,
+      "word": "男子持皇家印章坐高铁",
+      "onboard_time": 1734071358,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 584563,
@@ -6321,6 +6337,14 @@
       "onboard_time": 1733057898,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553222,
+      "num": 400607,
+      "word": "A股",
+      "onboard_time": 1733104757,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 553211,
@@ -8664,6 +8688,14 @@
       "word": "连云港",
       "onboard_time": 1733218219,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 433461,
+      "num": 385740,
+      "word": "珠海地震",
+      "onboard_time": 1734071838,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -11571,14 +11603,6 @@
       "category": "民生新闻,科学科普"
     },
     {
-      "raw_hot": 324177,
-      "num": 400607,
-      "word": "A股",
-      "onboard_time": 1733104757,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 324122,
       "num": 324122,
       "word": "首批养老专业毕业生遭疯抢",
@@ -11675,6 +11699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321110,
+      "num": 321110,
+      "word": "EPIC 100份年度游戏",
+      "onboard_time": 1734071600,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 320686,
       "num": 320686,
       "word": "赛力斯",
@@ -11736,6 +11768,14 @@
       "word": "杨紫家业大婚路透",
       "onboard_time": 1733668161,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 319036,
+      "num": 394306,
+      "word": "猎罪图鉴2 盲童案",
+      "onboard_time": 1734072438,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -12508,7 +12548,7 @@
     },
     {
       "raw_hot": 295951,
-      "num": 295951,
+      "num": 352870,
       "word": "王者荣耀",
       "onboard_time": 1733645298,
       "rank": 20,
@@ -13017,6 +13057,14 @@
       "onboard_time": 1733290520,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283816,
+      "num": 390160,
+      "word": "霍建华戚薇 暗夜迷局",
+      "onboard_time": 1734071718,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 283481,
@@ -15915,6 +15963,14 @@
       "category": "读书作家,教育"
     },
     {
+      "raw_hot": 227474,
+      "num": 466600,
+      "word": "机器人help机器人",
+      "onboard_time": 1734071418,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227399,
       "num": 434219,
       "word": "夏弃疾拍了田嘉瑞",
@@ -16737,14 +16793,6 @@
       "onboard_time": 1734015141,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 215398,
-      "num": 292164,
-      "word": "霍建华戚薇 暗夜迷局",
-      "onboard_time": 1734071718,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 215375,
@@ -19811,14 +19859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190705,
-      "num": 190705,
-      "word": "男子持皇家印章坐高铁",
-      "onboard_time": 1734071358,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190672,
       "num": 240813,
       "word": "谭松韵红裙",
@@ -21427,14 +21467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179843,
-      "num": 179843,
-      "word": "EPIC 100份年度游戏",
-      "onboard_time": 1734071600,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 179809,
       "num": 179809,
       "word": "沧元图2开播",
@@ -22457,6 +22489,14 @@
       "onboard_time": 1733706258,
       "rank": 31,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 171595,
+      "num": 386695,
+      "word": "气血不足的人要多去KTV唱歌",
+      "onboard_time": 1734073219,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171462,
@@ -24459,14 +24499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157749,
-      "num": 157749,
-      "word": "珠海地震",
-      "onboard_time": 1734071838,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157733,
       "num": 157733,
       "word": "孟子义李昀锐两年二搭",
@@ -25275,6 +25307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153373,
+      "num": 322496,
+      "word": "李现 赤焰",
+      "onboard_time": 1734072557,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153298,
       "num": 153298,
       "word": "80后爸爸硬控14岁女儿社交",
@@ -25889,6 +25929,14 @@
       "onboard_time": 1733541199,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 149134,
+      "num": 387626,
+      "word": "李宇春薛凯琪你你你为了爱情",
+      "onboard_time": 1734073758,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 149086,
@@ -26731,6 +26779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143308,
+      "num": 143308,
+      "word": "冰雪大世界给小土豆建暖廊",
+      "onboard_time": 1734073639,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 143297,
       "num": 143297,
       "word": "无限暖暖被指收入不及预期",
@@ -26993,14 +27049,6 @@
       "onboard_time": 1733455578,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141880,
-      "num": 466600,
-      "word": "机器人help机器人",
-      "onboard_time": 1734071418,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 141841,
@@ -29339,6 +29387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125078,
+      "num": 147923,
+      "word": "学上了一半专业突然没了",
+      "onboard_time": 1734070278,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125069,
       "num": 372554,
       "word": "蹭跑全马女孩父亲发声",
@@ -30425,14 +30481,6 @@
       "onboard_time": 1733805439,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116689,
-      "num": 318440,
-      "word": "九华山偶遇王楚然祈福",
-      "onboard_time": 1734072317,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 116632,
@@ -33859,14 +33907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 85361,
-      "num": 147923,
-      "word": "学上了一半专业突然没了",
-      "onboard_time": 1734070278,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 85315,
       "num": 430856,
       "word": "韩国将深入调查尹锡悦紧急戒严事件",
@@ -35633,6 +35673,14 @@
       "onboard_time": 1733908581,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69286,
+      "num": 388375,
+      "word": "黄翠如孕肚照",
+      "onboard_time": 1734073219,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 69273,
@@ -38961,6 +39009,14 @@
       "onboard_time": 1733826019,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44032,
+      "num": 395894,
+      "word": "专家称按套内计价和取消公摊是两码事",
+      "onboard_time": 1734073939,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 43933,
@@ -42993,6 +43049,14 @@
       "onboard_time": 1733856431,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21068,
+      "num": 391818,
+      "word": "缺千斤少万两卖煤商贩被顶格处罚",
+      "onboard_time": 1734074301,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21063,
