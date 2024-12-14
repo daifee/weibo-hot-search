@@ -1,0 +1,410 @@
+{
+  "runTime": 1734153697627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4755293,
+        "num": 4755293,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 970898,
+        "num": 970898,
+        "word": "submission又见面了",
+        "onboard_time": 1734148401,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 9904,
+        "num": 904302,
+        "word": "古籍新生",
+        "onboard_time": 1734148821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 878377,
+        "num": 878377,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 830423,
+        "num": 830423,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1096384,
+        "num": 783715,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 695594,
+        "num": 695594,
+        "word": "湖南卫视跨年首波阵容",
+        "onboard_time": 1734148281,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571931,
+        "num": 571931,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 566350,
+        "num": 566350,
+        "word": "四级作文",
+        "onboard_time": 1734145818,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 270916,
+        "num": 561218,
+        "word": "个人房贷提前还款现象明显减少",
+        "onboard_time": 1734151278,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558333,
+        "num": 558333,
+        "word": "新能源汽车 new car",
+        "onboard_time": 1734150859,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 551012,
+        "num": 551012,
+        "word": "石雷鹏押中四级写作翻译",
+        "onboard_time": 1734151939,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430138,
+        "num": 430138,
+        "word": "小太阳放进被窝把家烧了",
+        "onboard_time": 1734149420,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416725,
+        "num": 416725,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159183,
+        "num": 415213,
+        "word": "曾被称美女书记的林虹被查",
+        "onboard_time": 1734149420,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414339,
+        "num": 414339,
+        "word": "朴灿烈欧阳娜娜将合作",
+        "onboard_time": 1734149299,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392674,
+        "num": 392674,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337877,
+        "num": 367132,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343765,
+        "num": 343765,
+        "word": "六级预测",
+        "onboard_time": 1734149299,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242226,
+        "num": 323995,
+        "word": "杨紫方确认参加嘉人盛典",
+        "onboard_time": 1734151579,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 316952,
+        "num": 316952,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305166,
+        "num": 305166,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297610,
+        "num": 297610,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250680,
+        "num": 250680,
+        "word": "女子挤痘溃烂成大洞感染进急诊",
+        "onboard_time": 1734152841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109328,
+        "num": 229849,
+        "word": "樊振东赛后抿嘴重现21年前的他",
+        "onboard_time": 1734152479,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228312,
+        "num": 228312,
+        "word": "鹿晗 主唱出道开口就是不一样",
+        "onboard_time": 1734146658,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227398,
+        "num": 227398,
+        "word": "肖战的跨年计划",
+        "onboard_time": 1734151579,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133569,
+        "num": 227098,
+        "word": "多想和你再见一面上映",
+        "onboard_time": 1734152419,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12561,
+        "num": 226486,
+        "word": "被李霄云的二十二治愈到了",
+        "onboard_time": 1734153619,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106001,
+        "num": 226069,
+        "word": "鹭卓嘎嘎冒汗",
+        "onboard_time": 1734152419,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 561840,
+        "num": 225260,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225258,
+        "num": 225258,
+        "word": "王源问和丁程鑫在干仗吗",
+        "onboard_time": 1734153200,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218941,
+        "num": 218941,
+        "word": "朝鲜特种部队协助俄罗斯作战",
+        "onboard_time": 1734143718,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220329,
+        "num": 216749,
+        "word": "昭昭墨墨大婚喜帖",
+        "onboard_time": 1734150680,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201292,
+        "num": 201292,
+        "word": "现在就出发",
+        "onboard_time": 1734152720,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196637,
+        "num": 196637,
+        "word": "如鸢官方回应",
+        "onboard_time": 1734143178,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58553,
+        "num": 190660,
+        "word": "一组图了解五谷的前世今生",
+        "onboard_time": 1734148880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30583,
+        "num": 187966,
+        "word": "虞书欣粉丝应援50份助学金",
+        "onboard_time": 1734152959,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186795,
+        "num": 186795,
+        "word": "肖战2024年最开心的瞬间",
+        "onboard_time": 1734152959,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183119,
+        "num": 183119,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182010,
+        "num": 182010,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177259,
+        "num": 177259,
+        "word": "四级阅读",
+        "onboard_time": 1734147921,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173679,
+        "num": 173679,
+        "word": "快乐再出发",
+        "onboard_time": 1734152419,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168950,
+        "num": 168950,
+        "word": "博士回应英语四级考了15次没过",
+        "onboard_time": 1734149959,
+        "rank": 43,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 157904,
+        "num": 157904,
+        "word": "女友放弃省考小伙想追责网约车司机",
+        "onboard_time": 1734143238,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141570,
+        "num": 141570,
+        "word": "时代峰峻",
+        "onboard_time": 1734146357,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140173,
+        "num": 140173,
+        "word": "斗鱼索赔大学生600万获赔2万",
+        "onboard_time": 1734147859,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138215,
+        "num": 138215,
+        "word": "总决赛雅思组合晋级决赛",
+        "onboard_time": 1734153019,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137469,
+        "num": 137469,
+        "word": "星穹铁道翁法罗斯",
+        "onboard_time": 1734152659,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98560,
+        "num": 133659,
+        "word": "马龙表演赛用脚战胜老瓦",
+        "onboard_time": 1734149000,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴澳门#"
+    }
+  }
+}
