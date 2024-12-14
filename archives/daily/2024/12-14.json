@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734145261837,
+  "endTime": 1734145881870,
   "band_list": [
     {
       "raw_hot": 1854475,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1063355,
-      "num": 1063355,
+      "raw_hot": 1087975,
+      "num": 1087975,
       "word": "女子家宴吃出1颗罕见橘色海螺珠",
       "onboard_time": 1734141679,
       "rank": 30,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 799314,
+      "num": 301108,
+      "word": "灵犀互娱称如鸢从未有女性向标签",
+      "onboard_time": 1734137656,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 795408,
       "num": 795408,
       "word": "金价",
@@ -81,14 +89,6 @@
       "onboard_time": 1734095780,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 732636,
-      "num": 301108,
-      "word": "灵犀互娱称如鸢从未有女性向标签",
-      "onboard_time": 1734137656,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 730769,
@@ -115,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 687307,
+      "num": 687307,
+      "word": "和张大大谈过恋爱的明星是歌手",
+      "onboard_time": 1734140899,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683733,
       "num": 926914,
       "word": "12月15日起全面实施个人养老金制度",
@@ -131,14 +139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 673878,
-      "num": 673878,
-      "word": "和张大大谈过恋爱的明星是歌手",
-      "onboard_time": 1734140899,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622171,
       "num": 622171,
       "word": "樊振东对战日本选手胸前贴上国旗",
@@ -147,20 +147,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 613484,
+      "num": 613484,
+      "word": "朝鲜特种部队协助俄罗斯作战",
+      "onboard_time": 1734143718,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 579751,
       "num": 449306,
       "word": "微博之夜",
       "onboard_time": 1734102200,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 508706,
-      "num": 517421,
-      "word": "朝鲜特种部队协助俄罗斯作战",
-      "onboard_time": 1734143718,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 478369,
@@ -195,6 +195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 432416,
+      "num": 432416,
+      "word": "冰俪幂诗唐妮",
+      "onboard_time": 1734144618,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 413986,
       "num": 413986,
       "word": "微信多收10元收费站3人被停职",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 384441,
-      "num": 207020,
+      "num": 272090,
       "word": "92年宝妈已经生了9个娃且还想生",
       "onboard_time": 1734132134,
       "rank": 22,
@@ -243,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304045,
+      "num": 304045,
+      "word": "四六级",
+      "onboard_time": 1734132675,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292675,
       "num": 292675,
       "word": "16岁哥哥得知弟弟患癌1顿饭1块钱",
       "onboard_time": 1734130393,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289581,
-      "num": 289581,
-      "word": "四六级",
-      "onboard_time": 1734132675,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 283353,
@@ -267,8 +275,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269809,
+      "num": 618655,
+      "word": "四级",
+      "onboard_time": 1734136277,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266794,
-      "num": 518487,
+      "num": 630939,
       "word": "个人养老金开户领取全流程指南",
       "onboard_time": 1734141919,
       "rank": 29,
@@ -281,6 +297,14 @@
       "onboard_time": 1734137538,
       "rank": 14,
       "category": "剧集,读书作家"
+    },
+    {
+      "raw_hot": 250515,
+      "num": 316347,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1734144559,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 235970,
@@ -315,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214889,
+      "num": 214889,
+      "word": "奥斯卡孙乐言定情新歌",
+      "onboard_time": 1734145517,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207398,
       "num": 207398,
       "word": "张杰演唱会大电影预售开启",
@@ -331,20 +363,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204771,
-      "num": 290977,
-      "word": "电影射雕英雄传侠之大者",
-      "onboard_time": 1734144559,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203644,
       "num": 203644,
       "word": "九重紫明晚大婚",
       "onboard_time": 1734101540,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202984,
+      "num": 202984,
+      "word": "整个衣柜里都是聚酯纤维的无力感",
+      "onboard_time": 1734144559,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 196139,
@@ -371,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 192402,
+      "num": 192402,
+      "word": "阿姨将被群狗追哭女孩护身后",
+      "onboard_time": 1734139458,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 189805,
       "num": 207465,
       "word": "国色芳华看片反馈",
@@ -395,20 +435,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 179749,
+      "num": 342293,
+      "word": "尹锡悦弹劾案今天表决",
+      "onboard_time": 1734141919,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 170884,
+      "num": 189465,
+      "word": "小小的我",
+      "onboard_time": 1734144799,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169456,
       "num": 169456,
       "word": "南方昼夜温差或超15摄氏度",
       "onboard_time": 1734136938,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168791,
-      "num": 168791,
-      "word": "四级",
-      "onboard_time": 1734136277,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 168661,
@@ -443,16 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 157679,
-      "num": 157679,
-      "word": "阿姨将被群狗追哭女孩护身后",
-      "onboard_time": 1734139458,
-      "rank": 27,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 155531,
-      "num": 163780,
+      "num": 207606,
       "word": "mlxg谈RNG还款",
       "onboard_time": 1734141377,
       "rank": 31,
@@ -491,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153300,
-      "num": 165307,
-      "word": "尹锡悦弹劾案今天表决",
-      "onboard_time": 1734141919,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153060,
       "num": 153060,
       "word": "斗鱼向大学生索赔案仲裁结果出炉",
@@ -507,16 +539,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152611,
-      "num": 152611,
-      "word": "整个衣柜里都是聚酯纤维的无力感",
-      "onboard_time": 1734144559,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152573,
-      "num": 153778,
+      "num": 185939,
       "word": "谁给李昀锐递个纨绔世子本",
       "onboard_time": 1734138618,
       "rank": 37,
@@ -529,14 +553,6 @@
       "onboard_time": 1734098541,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144669,
-      "num": 144669,
-      "word": "小小的我",
-      "onboard_time": 1734144799,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 144610,
@@ -555,6 +571,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 141736,
+      "num": 141736,
+      "word": "黑神话悟空外网发文感谢玩家",
+      "onboard_time": 1734142578,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 138273,
+      "num": 138273,
+      "word": "多所高校取消四六级和学位证挂钩",
+      "onboard_time": 1734144498,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "种地吧直播",
@@ -571,19 +603,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131607,
-      "num": 131607,
-      "word": "黑神话悟空外网发文感谢玩家",
-      "onboard_time": 1734142578,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131119,
       "num": 131119,
       "word": "九重紫",
       "onboard_time": 1734083838,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128946,
+      "num": 128946,
+      "word": "我是刑警主角原型如今都怎么样了",
+      "onboard_time": 1734144678,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -601,6 +633,14 @@
       "onboard_time": 1734118572,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124982,
+      "num": 124982,
+      "word": "九重紫破镜重生播出前三天还在优化",
+      "onboard_time": 1734145638,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 123879,
@@ -627,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120843,
-      "num": 120843,
-      "word": "多所高校取消四六级和学位证挂钩",
-      "onboard_time": 1734144498,
-      "rank": 40,
-      "category": "教育"
+      "raw_hot": 120527,
+      "num": 120527,
+      "word": "樊振东看许昕打球化身表情包",
+      "onboard_time": 1734145458,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 119710,
@@ -659,20 +699,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114582,
-      "num": 114582,
-      "word": "我是刑警主角原型如今都怎么样了",
-      "onboard_time": 1734144678,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114495,
       "num": 114495,
       "word": "菜鸟APP被恶意刷差评",
       "onboard_time": 1734139097,
       "rank": 44,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 113878,
+      "num": 113878,
+      "word": "四级作文",
+      "onboard_time": 1734145818,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 111951,
@@ -705,6 +745,14 @@
       "onboard_time": 1734135256,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108766,
+      "num": 108766,
+      "word": "中国100多年前快递里也有防震设计",
+      "onboard_time": 1734145458,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 108752,
@@ -753,14 +801,6 @@
       "onboard_time": 1734089960,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102859,
-      "num": 248149,
-      "word": "冰俪幂诗唐妮",
-      "onboard_time": 1734144618,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 101344,
@@ -945,6 +985,14 @@
       "onboard_time": 1734130273,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63404,
+      "num": 180046,
+      "word": "小区25栋楼仅一个出口",
+      "onboard_time": 1734145579,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59384,
@@ -1232,6 +1280,14 @@
       "word": "足协称对假赌黑行为零容忍",
       "onboard_time": 1734120130,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5730,
+      "num": 307320,
+      "word": "林高远徐海东vs徐晨皓赛林威",
+      "onboard_time": 1734145818,
+      "rank": 18,
       "category": "体育"
     }
   ],

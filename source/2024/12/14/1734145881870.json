@@ -1,0 +1,410 @@
+{
+  "runTime": 1734145881870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1553339,
+        "num": 1553339,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1087975,
+        "num": 1087975,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35163,
+        "num": 928971,
+        "word": "2025年经济工作怎么干",
+        "onboard_time": 1734099320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 848186,
+        "num": 848186,
+        "word": "女友放弃省考小伙想追责网约车司机",
+        "onboard_time": 1734143238,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689116,
+        "num": 689116,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 687307,
+        "num": 687307,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681049,
+        "num": 681049,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660841,
+        "num": 660841,
+        "word": "金价",
+        "onboard_time": 1734139698,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242009,
+        "num": 630939,
+        "word": "个人养老金开户领取全流程指南",
+        "onboard_time": 1734141919,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269809,
+        "num": 618655,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 613484,
+        "num": 613484,
+        "word": "朝鲜特种部队协助俄罗斯作战",
+        "onboard_time": 1734143718,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 540463,
+        "num": 540463,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 441276,
+        "num": 441276,
+        "word": "金价深夜跳水",
+        "onboard_time": 1734136397,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 432416,
+        "num": 432416,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358530,
+        "num": 402812,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398124,
+        "num": 398124,
+        "word": "切尔诺贝利周边的狗已变异",
+        "onboard_time": 1734121871,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179749,
+        "num": 342293,
+        "word": "尹锡悦弹劾案今天表决",
+        "onboard_time": 1734141919,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250515,
+        "num": 316347,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1734144559,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 5730,
+        "num": 307320,
+        "word": "林高远徐海东vs徐晨皓赛林威",
+        "onboard_time": 1734145818,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304045,
+        "num": 304045,
+        "word": "四六级",
+        "onboard_time": 1734132675,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301343,
+        "num": 301343,
+        "word": "外卖店被曝在厕所洗鱼多方回应",
+        "onboard_time": 1734136638,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 297833,
+        "num": 297833,
+        "word": "如鸢官方回应",
+        "onboard_time": 1734143178,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272090,
+        "num": 272090,
+        "word": "92年宝妈已经生了9个娃且还想生",
+        "onboard_time": 1734132134,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214889,
+        "num": 214889,
+        "word": "奥斯卡孙乐言定情新歌",
+        "onboard_time": 1734145517,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113551,
+        "num": 207606,
+        "word": "mlxg谈RNG还款",
+        "onboard_time": 1734141377,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202984,
+        "num": 202984,
+        "word": "整个衣柜里都是聚酯纤维的无力感",
+        "onboard_time": 1734144559,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192402,
+        "num": 192402,
+        "word": "阿姨将被群狗追哭女孩护身后",
+        "onboard_time": 1734139458,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 170884,
+        "num": 189465,
+        "word": "小小的我",
+        "onboard_time": 1734144799,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150206,
+        "num": 185939,
+        "word": "谁给李昀锐递个纨绔世子本",
+        "onboard_time": 1734138618,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63404,
+        "num": 180046,
+        "word": "小区25栋楼仅一个出口",
+        "onboard_time": 1734145579,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799314,
+        "num": 175353,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172120,
+        "num": 172120,
+        "word": "网红老师曝被前夫爸爸家暴殴打",
+        "onboard_time": 1734132134,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 147747,
+        "num": 147747,
+        "word": "四六级考到425要答对多少道题",
+        "onboard_time": 1734143478,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146912,
+        "num": 146912,
+        "word": "5个爸爸直播跳舞救癌症孩子赚100万",
+        "onboard_time": 1734126671,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142382,
+        "num": 142382,
+        "word": "肖奈 古风小生",
+        "onboard_time": 1734137538,
+        "rank": 34,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 141736,
+        "num": 141736,
+        "word": "黑神话悟空外网发文感谢玩家",
+        "onboard_time": 1734142578,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139081,
+        "num": 139081,
+        "word": "长安二十四计",
+        "onboard_time": 1734141198,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138273,
+        "num": 138273,
+        "word": "多所高校取消四六级和学位证挂钩",
+        "onboard_time": 1734144498,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135790,
+        "num": 135790,
+        "word": "被曝在厕所洗鱼外卖店已停业整顿",
+        "onboard_time": 1734138497,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "张杰演唱会大电影预售开启",
+        "onboard_time": 1734144318,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 128946,
+        "word": "我是刑警主角原型如今都怎么样了",
+        "onboard_time": 1734144678,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124982,
+        "num": 124982,
+        "word": "九重紫破镜重生播出前三天还在优化",
+        "onboard_time": 1734145638,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124854,
+        "num": 124854,
+        "word": "艺考前十天被抱摔骨折",
+        "onboard_time": 1734095780,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120527,
+        "num": 120527,
+        "word": "樊振东看许昕打球化身表情包",
+        "onboard_time": 1734145458,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734139759,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115829,
+        "num": 115829,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1734101899,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113878,
+        "num": 113878,
+        "word": "四级作文",
+        "onboard_time": 1734145818,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108766,
+        "num": 108766,
+        "word": "中国100多年前快递里也有防震设计",
+        "onboard_time": 1734145458,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103300,
+        "num": 103300,
+        "word": "难哄",
+        "onboard_time": 1734101840,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101346,
+        "num": 101346,
+        "word": "德法英支持乌克兰加入北约",
+        "onboard_time": 1734136578,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取李家超述职报告#"
+    }
+  }
+}
