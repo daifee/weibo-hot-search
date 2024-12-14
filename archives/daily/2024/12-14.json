@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734171782392,
+  "endTime": 1734172855089,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -65,6 +65,14 @@
       "onboard_time": 1734139578,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1299109,
+      "num": 1299109,
+      "word": "合肥代孕",
+      "onboard_time": 1734170841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1271613,
@@ -177,6 +185,14 @@
       "onboard_time": 1734143238,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 931632,
+      "num": 600404,
+      "word": "悉尼发现碎尸包裹死者为海外华人",
+      "onboard_time": 1734170481,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 905328,
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684478,
+      "num": 756800,
+      "word": "九重紫",
+      "onboard_time": 1734083838,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 683733,
       "num": 926914,
       "word": "12月15日起全面实施个人养老金制度",
@@ -387,14 +411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 592965,
-      "num": 592965,
-      "word": "悉尼发现碎尸包裹死者为海外华人",
-      "onboard_time": 1734170481,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 589936,
       "num": 589936,
       "word": "何超莲人脉",
@@ -435,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 566649,
-      "num": 756800,
-      "word": "九重紫",
-      "onboard_time": 1734083838,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 545046,
       "num": 363241,
       "word": "孟子义李昀锐超话换情头",
@@ -480,14 +488,6 @@
       "word": "33岁小伙靠路边捡瓶子补贴生活",
       "onboard_time": 1734154518,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 496578,
-      "num": 496578,
-      "word": "合肥代孕",
-      "onboard_time": 1734170841,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -651,6 +651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328031,
+      "num": 328031,
+      "word": "尹锡悦将被停职",
+      "onboard_time": 1734171740,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325858,
       "num": 480875,
       "word": "鹿晗 主唱出道开口就是不一样",
@@ -795,6 +803,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250938,
+      "num": 755049,
+      "word": "专八女友陪博士男友15战英语四级",
+      "onboard_time": 1734168860,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244990,
+      "num": 540641,
+      "word": "丁禹兮主动牵虞书欣",
+      "onboard_time": 1734171800,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244816,
       "num": 326207,
       "word": "韩国国会今天下午表决尹锡悦弹劾动议案",
@@ -891,19 +915,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226516,
+      "num": 1820878,
+      "word": "今年GDP预计增长5%左右",
+      "onboard_time": 1734167599,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222959,
       "num": 222959,
       "word": "张家界一游客与猴子互殴",
       "onboard_time": 1734092838,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221569,
-      "num": 755049,
-      "word": "专八女友陪博士男友15战英语四级",
-      "onboard_time": 1734168860,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -923,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219121,
-      "num": 1820878,
-      "word": "今年GDP预计增长5%左右",
-      "onboard_time": 1734167599,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 218063,
+      "num": 530862,
+      "word": "秦海璐小说书单又上新了",
+      "onboard_time": 1734168319,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 216398,
@@ -993,6 +1017,14 @@
       "onboard_time": 1734162617,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209516,
+      "num": 290395,
+      "word": "KBS歌谣大祝祭",
+      "onboard_time": 1734171620,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 207398,
@@ -1227,6 +1259,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 189037,
+      "num": 189037,
+      "word": "建议把药品有效期改成黑色字体",
+      "onboard_time": 1734169161,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188841,
       "num": 334760,
       "word": "嘉人盛典官宣艺人",
@@ -1259,14 +1299,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 185352,
-      "num": 185352,
-      "word": "建议把药品有效期改成黑色字体",
-      "onboard_time": 1734169161,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 181450,
       "num": 181450,
       "word": "丁禹兮现代戏演技",
@@ -1291,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179057,
+      "num": 179057,
+      "word": "弹劾案通过后尹锡悦发声",
+      "onboard_time": 1734169822,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178902,
       "num": 178902,
       "word": "如鸢预估收入连续7日下滑",
@@ -1307,14 +1347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 175492,
-      "num": 175492,
-      "word": "秦海璐小说书单又上新了",
-      "onboard_time": 1734168319,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175144,
       "num": 175144,
       "word": "2025LPL新赛制",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1734144498,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173722,
-      "num": 173722,
-      "word": "弹劾案通过后尹锡悦发声",
-      "onboard_time": 1734169822,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173679,
@@ -1387,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167624,
+      "num": 600878,
+      "word": "韩国国会通过尹锡悦弹劾动议案",
+      "onboard_time": 1734172400,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165805,
       "num": 249007,
       "word": "孙乐言回应奥斯卡表白歌",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1734157037,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164406,
-      "num": 164406,
-      "word": "KBS歌谣大祝祭",
-      "onboard_time": 1734171620,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 164388,
@@ -1571,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153512,
-      "num": 153512,
-      "word": "尹锡悦将被停职",
-      "onboard_time": 1734171740,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 153352,
       "num": 153352,
       "word": "樊振东采访前800个假动作",
@@ -1651,12 +1667,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149099,
+      "num": 149099,
+      "word": "丁禹兮胸肌",
+      "onboard_time": 1734172759,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148460,
+      "num": 260434,
+      "word": "尹锡悦成韩国第三位被弹劾总统",
+      "onboard_time": 1734169221,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147868,
       "num": 147868,
       "word": "蒋敦豪巡演开票",
       "onboard_time": 1734154518,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146821,
+      "num": 146821,
+      "word": "likelihood",
+      "onboard_time": 1734172279,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 146213,
@@ -1676,7 +1716,7 @@
     },
     {
       "raw_hot": 145745,
-      "num": 396150,
+      "num": 521860,
       "word": "我是刑警老范下线",
       "onboard_time": 1734165618,
       "rank": 47,
@@ -1803,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129516,
-      "num": 260434,
-      "word": "尹锡悦成韩国第三位被弹劾总统",
-      "onboard_time": 1734169221,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128946,
       "num": 128946,
       "word": "我是刑警主角原型如今都怎么样了",
@@ -1908,7 +1940,7 @@
     },
     {
       "raw_hot": 121086,
-      "num": 121086,
+      "num": 283965,
       "word": "剑来动画大结局顶级宿命感",
       "onboard_time": 1734168079,
       "rank": 44,
@@ -2299,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72493,
+      "num": 463429,
+      "word": "陈好机场依次拥抱粉丝",
+      "onboard_time": 1734171740,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72120,
       "num": 181533,
       "word": "菜鸟回应被恶意刷差评",
@@ -2475,6 +2515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49686,
+      "num": 279911,
+      "word": "悉尼碎尸包裹案死者丈夫已失踪",
+      "onboard_time": 1734172820,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48767,
       "num": 61320,
       "word": "赵丽颖黑粉说自我检讨和忏悔",
@@ -2579,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39592,
+      "num": 531483,
+      "word": "凡晨组合0比2山羊组合",
+      "onboard_time": 1734172160,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38800,
       "num": 216019,
       "word": "嘉人黑白天台大片",
@@ -2593,14 +2649,6 @@
       "onboard_time": 1734158238,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38478,
-      "num": 279549,
-      "word": "陈好机场依次拥抱粉丝",
-      "onboard_time": 1734171740,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 38430,
@@ -2801,6 +2849,14 @@
       "onboard_time": 1734160037,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15822,
+      "num": 282188,
+      "word": "如何看待经典老剧成魔改重灾区",
+      "onboard_time": 1734172100,
+      "rank": 28,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15708,
