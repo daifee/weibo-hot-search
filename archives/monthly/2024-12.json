@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734154762987,
+  "endTime": 1734157878175,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2476,7 +2476,7 @@
     },
     {
       "raw_hot": 1083086,
-      "num": 1083086,
+      "num": 1129945,
       "word": "84岁佩洛西从楼梯摔下臀部受伤",
       "onboard_time": 1734150018,
       "rank": 27,
@@ -5595,6 +5595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644365,
+      "num": 644365,
+      "word": "小S曾问许玮甯与邱泽舌吻感受",
+      "onboard_time": 1734154459,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643975,
       "num": 643975,
       "word": "ELLE 孙颖莎",
@@ -5809,6 +5817,14 @@
       "onboard_time": 1733819720,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 629036,
+      "num": 629036,
+      "word": "六级",
+      "onboard_time": 1734155959,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 628148,
@@ -7275,6 +7291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 532872,
+      "num": 505522,
+      "word": "NewJeans开通新ins账号",
+      "onboard_time": 1734155539,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532831,
       "num": 532831,
       "word": "中国驻叙利亚使馆仍在坚守",
@@ -7313,6 +7337,14 @@
       "onboard_time": 1733650099,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 529954,
+      "num": 529954,
+      "word": "33岁小伙靠路边捡瓶子补贴生活",
+      "onboard_time": 1734154518,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 529038,
@@ -9339,6 +9371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 431994,
+      "num": 431994,
+      "word": "特朗普邀外国领导人出席就职典礼",
+      "onboard_time": 1734154879,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431929,
       "num": 526527,
       "word": "国乒vs日本",
@@ -10265,6 +10305,14 @@
       "onboard_time": 1734149299,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 395689,
+      "num": 395689,
+      "word": "孙茜老公抱着羽绒服接机",
+      "onboard_time": 1734156378,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 395665,
@@ -12667,6 +12715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316871,
+      "num": 229243,
+      "word": "窦昭你别把宋墨摸爽了",
+      "onboard_time": 1734157639,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316868,
       "num": 316868,
       "word": "王安宇 好险差点饿死",
@@ -13169,6 +13225,14 @@
       "onboard_time": 1733623881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302318,
+      "num": 302318,
+      "word": "恋与深空黎深",
+      "onboard_time": 1734157100,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 301905,
@@ -14305,6 +14369,14 @@
       "onboard_time": 1733289440,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275277,
+      "num": 323076,
+      "word": "孟子义李昀锐超话换情头",
+      "onboard_time": 1734156738,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 275150,
@@ -19803,6 +19875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 198625,
+      "num": 198625,
+      "word": "黄雅琼安慰哭了的丫丫",
+      "onboard_time": 1734155419,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198568,
       "num": 198568,
       "word": "这么丑的猫我居然有三只",
@@ -20081,14 +20161,6 @@
       "onboard_time": 1733802259,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196858,
-      "num": 196858,
-      "word": "小S曾问许玮甯与邱泽舌吻感受",
-      "onboard_time": 1734154459,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 196856,
@@ -21353,6 +21425,14 @@
       "onboard_time": 1733981300,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189815,
+      "num": 189815,
+      "word": "女性可能出现圣诞树式脱发",
+      "onboard_time": 1734154638,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 189805,
@@ -23971,6 +24051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171334,
+      "num": 171334,
+      "word": "虞书欣首款臻享NFC项链",
+      "onboard_time": 1734157577,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171264,
       "num": 171264,
       "word": "国乒晚上决赛见",
@@ -24377,6 +24465,14 @@
       "onboard_time": 1733457860,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169189,
+      "num": 169189,
+      "word": "星火英语",
+      "onboard_time": 1734155778,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 169043,
@@ -25971,6 +26067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159069,
+      "num": 159069,
+      "word": "张文宏称已多次向平台投诉",
+      "onboard_time": 1734154579,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 159048,
       "num": 159048,
       "word": "研究表明艾滋病毒可潜伏于大脑",
@@ -26347,20 +26451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156900,
-      "num": 156900,
-      "word": "张文宏称已多次向平台投诉",
-      "onboard_time": 1734154579,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156857,
       "num": 156857,
       "word": "沈月不参加星光大赏",
       "onboard_time": 1733911880,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156751,
+      "num": 156751,
+      "word": "男子为泄愤散布前女友私密照被拘",
+      "onboard_time": 1734154879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156718,
@@ -28113,14 +28217,6 @@
       "onboard_time": 1733322083,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146545,
-      "num": 146545,
-      "word": "女性可能出现圣诞树式脱发",
-      "onboard_time": 1734154638,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146462,
@@ -31963,6 +32059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121679,
+      "num": 248486,
+      "word": "留几手的爱在2元店都买不到什么",
+      "onboard_time": 1734157758,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121607,
       "num": 121607,
       "word": "2024尖叫之夜第三波阵容",
@@ -35043,6 +35147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 96903,
+      "num": 188206,
+      "word": "孤注一掷意难平cp杀回来了",
+      "onboard_time": 1734157459,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96871,
       "num": 112989,
       "word": "国考裸考",
@@ -36755,20 +36867,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 81353,
+      "num": 506095,
+      "word": "人民网评猎罪图鉴2升级猎心",
+      "onboard_time": 1734157037,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81267,
       "num": 183594,
       "word": "张若昀周深张晚意同台",
       "onboard_time": 1734011541,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81267,
-      "num": 161923,
-      "word": "33岁小伙靠路边捡瓶子补贴生活",
-      "onboard_time": 1734154518,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81253,
@@ -37611,6 +37723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 74027,
+      "num": 261591,
+      "word": "四级试卷",
+      "onboard_time": 1734157037,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 74005,
       "num": 964354,
       "word": "春节申遗副标题有哪些内涵",
@@ -37673,6 +37793,14 @@
       "onboard_time": 1733385198,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73466,
+      "num": 558105,
+      "word": "麦琳当调解员",
+      "onboard_time": 1734156618,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 73279,
@@ -38361,6 +38489,14 @@
       "onboard_time": 1733563340,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67744,
+      "num": 200155,
+      "word": "编剧写我是刑警哭了两个小时",
+      "onboard_time": 1734156139,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 67638,
@@ -40907,6 +41043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48718,
+      "num": 729624,
+      "word": "2025年是十四五规划收官之年",
+      "onboard_time": 1734148281,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48702,
       "num": 48702,
       "word": "邮轮公司回应南极之旅因故障取消",
@@ -42865,6 +43009,22 @@
       "onboard_time": 1733498542,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37168,
+      "num": 410532,
+      "word": "1次挂号3天免费看病医生为何不接受",
+      "onboard_time": 1734157278,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 37112,
+      "num": 241929,
+      "word": "好东西票房破6亿",
+      "onboard_time": 1734157817,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 37070,
