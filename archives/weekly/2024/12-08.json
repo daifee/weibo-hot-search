@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734158694900,
+  "endTime": 1734160878610,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1267,6 +1267,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1057692,
+      "num": 433120,
+      "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
+      "onboard_time": 1734158478,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1055811,
       "num": 1055811,
       "word": "赵丽颖带想想看泉州烟花秀",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1734016100,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 895796,
+      "num": 1143327,
+      "word": "谁来管管猎罪图鉴2的弹幕",
+      "onboard_time": 1734159017,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 893178,
@@ -3483,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545046,
+      "num": 363241,
+      "word": "孟子义李昀锐超话换情头",
+      "onboard_time": 1734156738,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544093,
       "num": 544093,
       "word": "小米YU7预计明年六七月上市",
@@ -4499,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439045,
+      "num": 439045,
+      "word": "灵犀互娱",
+      "onboard_time": 1734159558,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "刘诗诗celine全球品牌大使",
@@ -4665,6 +4697,14 @@
       "onboard_time": 1733959395,
       "rank": 10,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 420614,
+      "num": 315148,
+      "word": "霉霉巡演结束发了14亿奖金",
+      "onboard_time": 1734158059,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 420169,
@@ -5667,14 +5707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335436,
-      "num": 363241,
-      "word": "孟子义李昀锐超话换情头",
-      "onboard_time": 1734156738,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335086,
       "num": 510260,
       "word": "黄圣依感动哭了",
@@ -6305,6 +6337,14 @@
       "onboard_time": 1734070519,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304769,
+      "num": 304769,
+      "word": "女性可能出现圣诞树式脱发",
+      "onboard_time": 1734154638,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 304629,
@@ -7707,14 +7747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 244051,
-      "num": 244051,
-      "word": "霉霉巡演结束发了14亿奖金",
-      "onboard_time": 1734158059,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243938,
       "num": 334573,
       "word": "量子芯片突破致比特币暴跌23万人爆仓",
@@ -7881,14 +7913,6 @@
       "onboard_time": 1733661560,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240629,
-      "num": 240629,
-      "word": "女性可能出现圣诞树式脱发",
-      "onboard_time": 1734154638,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 240452,
@@ -8371,6 +8395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228637,
+      "num": 228637,
+      "word": "山东鲁能三连败",
+      "onboard_time": 1734159078,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228470,
       "num": 253602,
       "word": "肖战设计师的浪漫",
@@ -8729,6 +8761,14 @@
       "onboard_time": 1734076337,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216013,
+      "num": 216013,
+      "word": "名侦探学院8 口号抄袭",
+      "onboard_time": 1734158478,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 215995,
@@ -11211,6 +11251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 179574,
+      "num": 179574,
+      "word": "四级抽到了最简单的一套",
+      "onboard_time": 1734158178,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179556,
       "num": 179556,
       "word": "采黄连神器竟是一条腿的凳子",
@@ -11321,6 +11369,14 @@
       "onboard_time": 1734075319,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177547,
+      "num": 177547,
+      "word": "张真源 孟子义李昀锐专属水印",
+      "onboard_time": 1734159379,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 177517,
@@ -11449,14 +11505,6 @@
       "onboard_time": 1733904202,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175742,
-      "num": 175742,
-      "word": "名侦探学院8 口号抄袭",
-      "onboard_time": 1734158478,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 175704,
@@ -12363,6 +12411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165308,
+      "num": 506095,
+      "word": "人民网评猎罪图鉴2升级猎心",
+      "onboard_time": 1734157037,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165242,
       "num": 165242,
       "word": "JDG官宣Scout加入",
@@ -12417,6 +12473,14 @@
       "onboard_time": 1733620038,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164686,
+      "num": 164686,
+      "word": "吃播为引流吞下两斤纯肥肉",
+      "onboard_time": 1734160517,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 164525,
@@ -12939,14 +13003,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 158415,
-      "num": 158415,
-      "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
-      "onboard_time": 1734158478,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "太阳市集定档",
@@ -13385,14 +13441,6 @@
       "onboard_time": 1733638219,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 153500,
-      "num": 153500,
-      "word": "四级抽到了最简单的一套",
-      "onboard_time": 1734158178,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 153423,
@@ -15291,6 +15339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128395,
+      "num": 309306,
+      "word": "富大龙无声哭戏",
+      "onboard_time": 1734160099,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128147,
       "num": 128147,
       "word": "王楚钦说再次打混双挺感慨",
@@ -15625,6 +15681,14 @@
       "onboard_time": 1733578160,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123082,
+      "num": 123082,
+      "word": "张艺兴给所有考生接好运",
+      "onboard_time": 1734159618,
+      "rank": 45,
+      "category": "演出,教育"
     },
     {
       "raw_hot": 122951,
@@ -16291,14 +16355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110558,
-      "num": 506095,
-      "word": "人民网评猎罪图鉴2升级猎心",
-      "onboard_time": 1734157037,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110491,
       "num": 258366,
       "word": "李昀锐早期女团舞视频",
@@ -16521,6 +16577,14 @@
       "onboard_time": 1733839762,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 107182,
+      "num": 308754,
+      "word": "张雨绮 嘉人",
+      "onboard_time": 1734159197,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 107136,
@@ -19235,6 +19299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56656,
+      "num": 165692,
+      "word": "石雷鹏六级作文预测",
+      "onboard_time": 1734160578,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 56622,
       "num": 247208,
       "word": "护士一套急救连招救下老人",
@@ -19281,6 +19353,14 @@
       "onboard_time": 1734071838,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55216,
+      "num": 317674,
+      "word": "当黑神话悟空遇上双语说唱",
+      "onboard_time": 1734159738,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 55023,
@@ -20259,6 +20339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42230,
+      "num": 312098,
+      "word": "中老年人开始攻占演唱会市场",
+      "onboard_time": 1734160099,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42225,
       "num": 258314,
       "word": "女子花16万投资买车被骗车钱两空",
@@ -20529,6 +20617,14 @@
       "onboard_time": 1734082518,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 38800,
+      "num": 216019,
+      "word": "嘉人黑白天台大片",
+      "onboard_time": 1734159858,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 38599,
@@ -21835,6 +21931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24068,
+      "num": 307632,
+      "word": "律师解读游客与猴子打架是否违法",
+      "onboard_time": 1734160458,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24005,
       "num": 26875,
       "word": "易烊千玺肢体表现力",
@@ -22715,6 +22819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13810,
+      "num": 216046,
+      "word": "对话打假博主大娃",
+      "onboard_time": 1734160037,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13789,
       "num": 88267,
       "word": "九重紫前世今生call back",
@@ -22995,12 +23107,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 9184,
+      "num": 166338,
+      "word": "用非遗刺绣复刻vivoS20凤羽金",
+      "onboard_time": 1734159438,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 9011,
       "num": 184289,
       "word": "孙颖莎乒超热身",
       "onboard_time": 1734016820,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8904,
+      "num": 314820,
+      "word": "韩国国会今天下午表决尹锡悦弹劾动议案",
+      "onboard_time": 1734160698,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8806,
