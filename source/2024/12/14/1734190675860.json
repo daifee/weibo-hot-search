@@ -1,0 +1,410 @@
+{
+  "runTime": 1734190675860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728213,
+        "num": 1728213,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1476005,
+        "num": 1476005,
+        "word": "孟子义李昀锐共发30万红包",
+        "onboard_time": 1734188840,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34550,
+        "num": 1362969,
+        "word": "天宫画展又双叒上新了",
+        "onboard_time": 1734177921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1356782,
+        "num": 1356782,
+        "word": "厦门大学一女生被殴打需植入钢钉",
+        "onboard_time": 1734188780,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024555,
+        "num": 1024555,
+        "word": "永夜星河热度",
+        "onboard_time": 1734186741,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 715383,
+        "num": 715383,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 795089,
+        "num": 687147,
+        "word": "张萌 我要团综",
+        "onboard_time": 1734186982,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582705,
+        "num": 582705,
+        "word": "周密直播",
+        "onboard_time": 1734186499,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553277,
+        "num": 553277,
+        "word": "贾跃亭说再还七八亿就可以回国",
+        "onboard_time": 1734185602,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84468,
+        "num": 549743,
+        "word": "主播为何一到晚上就作妖",
+        "onboard_time": 1734188480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695936,
+        "num": 541366,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591495,
+        "num": 533562,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 567302,
+        "num": 520637,
+        "word": "腾讯八部热度破30000剧集",
+        "onboard_time": 1734188480,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518840,
+        "num": 518840,
+        "word": "左奇函 王源",
+        "onboard_time": 1734182362,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42875,
+        "num": 398312,
+        "word": "周末要做和平时反差大的事",
+        "onboard_time": 1734189141,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375208,
+        "num": 375208,
+        "word": "九重紫热度破30000",
+        "onboard_time": 1734183260,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364604,
+        "num": 364604,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 271340,
+        "num": 271340,
+        "word": "何猷君说往北看都是大机遇",
+        "onboard_time": 1734183920,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234444,
+        "num": 234444,
+        "word": "六级答案",
+        "onboard_time": 1734169522,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29198,
+        "num": 233136,
+        "word": "王一博用流量传播爱与责任",
+        "onboard_time": 1734188060,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294522,
+        "num": 233024,
+        "word": "早睡其实什么都不会失去",
+        "onboard_time": 1734184641,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 262247,
+        "num": 232951,
+        "word": "杨幂唐嫣刘诗诗嘉人同框",
+        "onboard_time": 1734180921,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 232862,
+        "num": 232862,
+        "word": "53岁的于和伟演大学生就是赌",
+        "onboard_time": 1734188661,
+        "rank": 22,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 232806,
+        "num": 232806,
+        "word": "成都的炸土豆已经进化成这样了吗",
+        "onboard_time": 1734184763,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59808,
+        "num": 208889,
+        "word": "乐言说一年只领了两个月工资",
+        "onboard_time": 1734189920,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205688,
+        "num": 205688,
+        "word": "梁永棋猎罪图鉴2定妆花絮",
+        "onboard_time": 1734189081,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205031,
+        "num": 205031,
+        "word": "虞书欣好强大的心脏",
+        "onboard_time": 1734180440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202864,
+        "num": 202864,
+        "word": "现在拨打的电话第六集",
+        "onboard_time": 1734187101,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14039,
+        "num": 198497,
+        "word": "古早国漫回忆杀 老套但有用",
+        "onboard_time": 1734189740,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 48556,
+        "num": 198404,
+        "word": "情侣为获10万彩礼相亲骗婚获刑",
+        "onboard_time": 1734188780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198346,
+        "num": 198346,
+        "word": "马龙2比1胜奥恰洛夫",
+        "onboard_time": 1734188901,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195746,
+        "num": 195746,
+        "word": "王鹤棣星光大赏确认出席",
+        "onboard_time": 1734189681,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194819,
+        "num": 194819,
+        "word": "未出生就被生母养母决定命运",
+        "onboard_time": 1734183381,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179136,
+        "num": 179136,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177057,
+        "num": 177057,
+        "word": "自助烤肉儿媳妇不能吃",
+        "onboard_time": 1734185602,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175107,
+        "num": 175107,
+        "word": "38岁抗癌博主二次复发时前夫提离婚",
+        "onboard_time": 1734184702,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174631,
+        "num": 174631,
+        "word": "陈梦vs迪亚兹",
+        "onboard_time": 1734188181,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166819,
+        "num": 166819,
+        "word": "贾跃亭称家中每一双袜子都被清查",
+        "onboard_time": 1734189441,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163252,
+        "num": 163252,
+        "word": "林诗栋vs许昕",
+        "onboard_time": 1734181580,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160400,
+        "num": 160400,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156998,
+        "num": 156998,
+        "word": "猎罪图鉴2警惕犯罪型人格障碍",
+        "onboard_time": 1734186321,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139937,
+        "num": 139937,
+        "word": "孙颖莎说通过单打不断找回状态",
+        "onboard_time": 1734188480,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133091,
+        "num": 133091,
+        "word": "张润 手滑",
+        "onboard_time": 1734186201,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125080,
+        "num": 125080,
+        "word": "穿袜子睡觉会减少夜醒次数",
+        "onboard_time": 1734190579,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118562,
+        "num": 118562,
+        "word": "丁禹兮销售战报",
+        "onboard_time": 1734188361,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117830,
+        "num": 117830,
+        "word": "六级听力",
+        "onboard_time": 1734169522,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115384,
+        "num": 115384,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1734176720,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113914,
+        "num": 113914,
+        "word": "韩国国会通过尹锡悦弹劾动议案",
+        "onboard_time": 1734172400,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102792,
+        "num": 102792,
+        "word": "张凌赫参加新剧开机宴",
+        "onboard_time": 1734190221,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102145,
+        "num": 102145,
+        "word": "原来北斗导航系统的翻译就在logo里",
+        "onboard_time": 1734189021,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  }
+}

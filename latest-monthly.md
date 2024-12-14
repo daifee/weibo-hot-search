@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/14 23:23:16
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/14 23:37:55
 </p>
 </blockquote>
 <p>
@@ -1289,6 +1289,12 @@ kimi崩了（热度：1465178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E4%B8%BA%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BD%8D4000%E4%BA%BF%E5%AF%8C%E8%B1%AA%23" target="weibo">
 马斯克成为史上首位4000亿富豪（热度：1358857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E9%9C%80%E6%A4%8D%E5%85%A5%E9%92%A2%E9%92%89%23" target="weibo">
+厦门大学一女生被殴打需植入钢钉（热度：1356782）
 </a>
 </li>
 
@@ -5211,6 +5217,12 @@ Pest发歌diss周密（热度：602561）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%85%AB%E9%83%A8%E7%83%AD%E5%BA%A6%E7%A0%B430000%E5%89%A7%E9%9B%86%23" target="weibo">
+腾讯八部热度破30000剧集（热度：567302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E9%9C%81%E7%BF%94%E4%B8%BA%E4%BF%9D%E6%8A%A4%E6%95%85%E5%AE%AB%E5%9C%B0%E9%9D%A2%E5%9D%9A%E6%8C%81%E7%A9%BF%E5%B8%83%E9%9E%8B%23" target="weibo">
 单霁翔为保护故宫地面坚持穿布鞋（热度：566435）
 </a>
@@ -5667,12 +5679,6 @@ A股（热度：553222）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%AE%B4%E6%89%93%E9%9C%80%E6%A4%8D%E5%85%A5%E9%92%A2%E9%92%89%23" target="weibo">
-厦门大学一女生被殴打需植入钢钉（热度：537810）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E6%89%BE%E6%99%93%E5%8D%8E3%E5%B0%8F%E6%97%B6%E5%81%9A%E6%96%B0%E5%8F%91%E5%9E%8B%23" target="weibo">
 向佐找晓华3小时做新发型（热度：536971）
 </a>
@@ -6005,12 +6011,6 @@ NewJeans开通新ins账号（热度：532872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E8%B7%9F%E5%8F%8C%E8%BD%A8%E4%B8%A4%E4%BD%8D%E5%AF%BC%E6%BC%94%E5%90%88%E4%BD%9C%E5%BE%88%E6%84%89%E5%BF%AB%23" target="weibo">
 虞书欣说跟双轨两位导演合作很愉快（热度：514791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B7%B1%E5%90%93%E8%87%AA%E5%B7%B1%23" target="weibo">
-自己吓自己（热度：513937）
 </a>
 </li>
 

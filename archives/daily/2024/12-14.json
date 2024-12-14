@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734189796436,
+  "endTime": 1734190675860,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1360215,
-      "num": 495788,
+      "num": 518840,
       "word": "左奇函 王源",
       "onboard_time": 1734182362,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1356782,
+      "num": 1356782,
+      "word": "厦门大学一女生被殴打需植入钢钉",
+      "onboard_time": 1734188780,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1272876,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 868819,
-      "num": 646983,
+      "num": 687147,
       "word": "张萌 我要团综",
       "onboard_time": 1734186982,
       "rank": 41,
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 567302,
+      "num": 520637,
+      "word": "腾讯八部热度破30000剧集",
+      "onboard_time": 1734188480,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557997,
       "num": 557997,
       "word": "莫离 白鹿",
@@ -640,14 +656,6 @@
       "word": "未出生就被生母养母决定命运",
       "onboard_time": 1734183381,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 537810,
-      "num": 537810,
-      "word": "厦门大学一女生被殴打需植入钢钉",
-      "onboard_time": 1734188780,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -857,14 +865,6 @@
       "onboard_time": 1734156378,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394271,
-      "num": 293427,
-      "word": "腾讯八部热度破30000剧集",
-      "onboard_time": 1734188480,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 384441,
@@ -1267,6 +1267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232862,
+      "num": 242514,
+      "word": "53岁的于和伟演大学生就是赌",
+      "onboard_time": 1734188661,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 232540,
       "num": 232540,
       "word": "自助烤肉儿媳妇不能吃",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1734168319,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217595,
-      "num": 242514,
-      "word": "53岁的于和伟演大学生就是赌",
-      "onboard_time": 1734188661,
-      "rank": 29,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 216364,
@@ -1515,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205688,
+      "num": 205688,
+      "word": "梁永棋猎罪图鉴2定妆花絮",
+      "onboard_time": 1734189081,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205316,
       "num": 288620,
       "word": "中国100多年前快递里也有防震设计",
@@ -1611,20 +1619,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198346,
+      "num": 297032,
+      "word": "马龙2比1胜奥恰洛夫",
+      "onboard_time": 1734188901,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198270,
       "num": 198270,
       "word": "TFING官宣浙江卫视跨年",
       "onboard_time": 1734165498,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 198220,
-      "num": 198220,
-      "word": "梁永棋猎罪图鉴2定妆花絮",
-      "onboard_time": 1734189081,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 198143,
@@ -2017,6 +2025,14 @@
       "onboard_time": 1734179600,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166819,
+      "num": 166819,
+      "word": "贾跃亭称家中每一双袜子都被清查",
+      "onboard_time": 1734189441,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 166321,
@@ -2603,14 +2619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133300,
-      "num": 133300,
-      "word": "贾跃亭称家中每一双袜子都被清查",
-      "onboard_time": 1734189441,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132358,
       "num": 132358,
       "word": "王楚钦想给观众买含片",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1734118572,
       "rank": 6,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125080,
+      "num": 125080,
+      "word": "穿袜子睡觉会减少夜醒次数",
+      "onboard_time": 1734190579,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125054,
@@ -2939,12 +2955,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102792,
+      "num": 102792,
+      "word": "张凌赫参加新剧开机宴",
+      "onboard_time": 1734190221,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102732,
       "num": 191011,
       "word": "时光代理人",
       "onboard_time": 1734162858,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102145,
+      "num": 102145,
+      "word": "原来北斗导航系统的翻译就在logo里",
+      "onboard_time": 1734189021,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 101648,
@@ -3131,6 +3163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84468,
+      "num": 549743,
+      "word": "主播为何一到晚上就作妖",
+      "onboard_time": 1734188480,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82472,
       "num": 82472,
       "word": "陶喆 我不是鸭王",
@@ -3161,14 +3201,6 @@
       "onboard_time": 1734147260,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 80419,
-      "num": 297032,
-      "word": "马龙2比1胜奥恰洛夫",
-      "onboard_time": 1734188901,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 79317,
@@ -3347,6 +3379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 59808,
+      "num": 208889,
+      "word": "乐言说一年只领了两个月工资",
+      "onboard_time": 1734189920,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59384,
       "num": 128114,
       "word": "杨奇",
@@ -3475,8 +3515,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48556,
+      "num": 295126,
+      "word": "情侣为获10万彩礼相亲骗婚获刑",
+      "onboard_time": 1734188780,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47501,
-      "num": 1303192,
+      "num": 1362969,
       "word": "天宫画展又双叒上新了",
       "onboard_time": 1734177921,
       "rank": 2,
@@ -3505,14 +3553,6 @@
       "onboard_time": 1734085039,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45221,
-      "num": 295126,
-      "word": "情侣为获10万彩礼相亲骗婚获刑",
-      "onboard_time": 1734188780,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44482,
@@ -3576,6 +3616,14 @@
       "word": "律师解读游客与猴子打架是否违法",
       "onboard_time": 1734160458,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42875,
+      "num": 398312,
+      "word": "周末要做和平时反差大的事",
+      "onboard_time": 1734189141,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3787,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29198,
+      "num": 233136,
+      "word": "王一博用流量传播爱与责任",
+      "onboard_time": 1734188060,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27482,
       "num": 364743,
       "word": "起底卖惨营销背后的产业链",
@@ -3833,14 +3889,6 @@
       "onboard_time": 1734108376,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18767,
-      "num": 332233,
-      "word": "周末要做和平时反差大的事",
-      "onboard_time": 1734189141,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18222,
@@ -3931,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14039,
+      "num": 242540,
+      "word": "古早国漫回忆杀 老套但有用",
+      "onboard_time": 1734189740,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 13672,
       "num": 13672,
       "word": "南京下半旗",
@@ -3945,14 +4001,6 @@
       "onboard_time": 1734108077,
       "rank": 24,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 10600,
-      "num": 242540,
-      "word": "古早国漫回忆杀 老套但有用",
-      "onboard_time": 1734189740,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 9184,
