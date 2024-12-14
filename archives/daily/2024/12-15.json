@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734211268250,
+  "endTime": 1734212142724,
   "band_list": [
     {
       "raw_hot": 1271579,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46738,
+      "num": 46738,
+      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
+      "onboard_time": 1734209231,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44185,
       "num": 44185,
       "word": "双胞胎姐妹排排站接哥哥放学",
@@ -529,14 +537,6 @@
       "onboard_time": 1734202333,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34130,
-      "num": 34130,
-      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
-      "onboard_time": 1734209231,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33501,
@@ -643,6 +643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14016,
+      "num": 28608,
+      "word": "走失18年儿子回家父母大摆宴席",
+      "onboard_time": 1734210432,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13908,
       "num": 102243,
       "word": "Beidou GPS",
@@ -659,6 +667,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 13516,
+      "num": 17883,
+      "word": "北京卫视跨年点歌台",
+      "onboard_time": 1734211992,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13074,
       "num": 152055,
       "word": "李宁踩凳子合影都没姚明高",
@@ -667,28 +683,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11505,
+      "num": 31872,
+      "word": "北京朝阳站周日起通地铁",
+      "onboard_time": 1734210791,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11350,
       "num": 24977,
       "word": "神十九祝福澳门",
       "onboard_time": 1734206232,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10362,
-      "num": 17202,
-      "word": "走失18年儿子回家父母大摆宴席",
-      "onboard_time": 1734210432,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10006,
-      "num": 31872,
-      "word": "北京朝阳站周日起通地铁",
-      "onboard_time": 1734210791,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8311,
