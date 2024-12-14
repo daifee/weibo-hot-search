@@ -1,0 +1,410 @@
+{
+  "runTime": 1734168175412,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2128363,
+        "num": 2128363,
+        "word": "尹锡悦总统职务立即停止",
+        "onboard_time": 1734163578,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1902921,
+        "num": 1902921,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46532,
+        "num": 858986,
+        "word": "今年GDP预计增长5%左右",
+        "onboard_time": 1734167599,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 764796,
+        "num": 764796,
+        "word": "甄嬛传晚会陈建斌又要头疼了",
+        "onboard_time": 1734164418,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475627,
+        "num": 475627,
+        "word": "叶祖新 太子气场",
+        "onboard_time": 1734165860,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471561,
+        "num": 471561,
+        "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
+        "onboard_time": 1734158478,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463647,
+        "num": 463647,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 463525,
+        "num": 463525,
+        "word": "谁来管管猎罪图鉴2的弹幕",
+        "onboard_time": 1734159017,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449582,
+        "num": 449582,
+        "word": "何超莲人脉",
+        "onboard_time": 1734163157,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424592,
+        "num": 424592,
+        "word": "尹锡悦弹劾案通过",
+        "onboard_time": 1734163519,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 425385,
+        "num": 418976,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401536,
+        "num": 401536,
+        "word": "韩德洙代行韩国总统职务",
+        "onboard_time": 1734166040,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347629,
+        "num": 347629,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336204,
+        "num": 336204,
+        "word": "麦子阿姨回忆连麦大冰",
+        "onboard_time": 1734165918,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 325229,
+        "num": 325229,
+        "word": "四级抽到了最简单的一套",
+        "onboard_time": 1734158178,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290528,
+        "num": 290528,
+        "word": "杨仕泽 她应该不是这个系列的",
+        "onboard_time": 1734163818,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285815,
+        "num": 285815,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192942,
+        "num": 192942,
+        "word": "车厘子到港在船上就卖了",
+        "onboard_time": 1734164059,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122425,
+        "num": 192888,
+        "word": "机票实付800多却只能报销520元",
+        "onboard_time": 1734167961,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30103,
+        "num": 191962,
+        "word": "终于轮到我去澳门看非遗了",
+        "onboard_time": 1734166819,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1220631,
+        "num": 191531,
+        "word": "女生买奶茶放冰箱隔天能用手拎起来",
+        "onboard_time": 1734164239,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257472,
+        "num": 191345,
+        "word": "种地吧",
+        "onboard_time": 1734157278,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228004,
+        "num": 190778,
+        "word": "孟子义李昀锐超话换情头",
+        "onboard_time": 1734156738,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226853,
+        "num": 189966,
+        "word": "霉霉巡演结束发了14亿奖金",
+        "onboard_time": 1734158059,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55129,
+        "num": 189611,
+        "word": "你觉得四六级什么题型最难",
+        "onboard_time": 1734167840,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104176,
+        "num": 188779,
+        "word": "日本民众举行集会反思历史",
+        "onboard_time": 1734165738,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31298,
+        "num": 188467,
+        "word": "感情出问题找情感导师能解决吗",
+        "onboard_time": 1734166339,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 209958,
+        "num": 188189,
+        "word": "汪苏泷说对THE9非常有感情",
+        "onboard_time": 1734165979,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197928,
+        "num": 187160,
+        "word": "aespa上海签售",
+        "onboard_time": 1734165080,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 57059,
+        "num": 187121,
+        "word": "男博士回应十四战英语四级",
+        "onboard_time": 1734167179,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186612,
+        "num": 186612,
+        "word": "OpenAI吹哨人被证实死亡",
+        "onboard_time": 1734163519,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178217,
+        "num": 178217,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171179,
+        "num": 171179,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161036,
+        "num": 161036,
+        "word": "代号鸢 事与愿违",
+        "onboard_time": 1734162617,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158278,
+        "num": 158278,
+        "word": "幸福者避让原则为什么越来越流行",
+        "onboard_time": 1734164239,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156335,
+        "num": 156335,
+        "word": "建议气血不足的人像猫学习",
+        "onboard_time": 1734167659,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146919,
+        "num": 146919,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146149,
+        "num": 146149,
+        "word": "名侦探学院8 口号抄袭",
+        "onboard_time": 1734158478,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145745,
+        "num": 145745,
+        "word": "我是刑警老范下线",
+        "onboard_time": 1734165618,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141671,
+        "num": 141671,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137748,
+        "num": 137748,
+        "word": "女性可能出现圣诞树式脱发",
+        "onboard_time": 1734154638,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122247,
+        "num": 122247,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117832,
+        "num": 117832,
+        "word": "韩国会300名议员全体参加弹劾投票",
+        "onboard_time": 1734165200,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116258,
+        "num": 116258,
+        "word": "第五人格",
+        "onboard_time": 1734165798,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108530,
+        "num": 108530,
+        "word": "剑来动画大结局顶级宿命感",
+        "onboard_time": 1734168079,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104476,
+        "num": 104476,
+        "word": "张真源 孟子义李昀锐专属水印",
+        "onboard_time": 1734159379,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103765,
+        "num": 103765,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102664,
+        "num": 102664,
+        "word": "女子举着付款界面手机跑进派出所",
+        "onboard_time": 1734168079,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100118,
+        "num": 100118,
+        "word": "孙乐言回应奥斯卡表白歌",
+        "onboard_time": 1734162858,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97270,
+        "num": 97270,
+        "word": "烤红薯",
+        "onboard_time": 1734168140,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览中央经济工作会议重要表述#"
+    }
+  }
+}

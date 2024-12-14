@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734165743862,
+  "endTime": 1734168175412,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -57,6 +57,14 @@
       "onboard_time": 1734148401,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1220631,
+      "num": 1033816,
+      "word": "女生买奶茶放冰箱隔天能用手拎起来",
+      "onboard_time": 1734164239,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1185011,
@@ -121,14 +129,6 @@
       "onboard_time": 1734150018,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1033816,
-      "num": 1033816,
-      "word": "女生买奶茶放冰箱隔天能用手拎起来",
-      "onboard_time": 1734164239,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1012340,
@@ -217,6 +217,14 @@
       "onboard_time": 1734144618,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 764796,
+      "num": 764796,
+      "word": "甄嬛传晚会陈建斌又要头疼了",
+      "onboard_time": 1734164418,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 730769,
@@ -403,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 475627,
+      "num": 475627,
+      "word": "叶祖新 太子气场",
+      "onboard_time": 1734165860,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468977,
       "num": 180598,
       "word": "董洁因儿子青春期崩溃",
@@ -459,6 +475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 425385,
+      "num": 418976,
+      "word": "九重紫",
+      "onboard_time": 1734083838,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413986,
       "num": 413986,
       "word": "微信多收10元收费站3人被停职",
@@ -473,6 +497,14 @@
       "onboard_time": 1734101899,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401536,
+      "num": 401536,
+      "word": "韩德洙代行韩国总统职务",
+      "onboard_time": 1734166040,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 395768,
@@ -499,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367353,
-      "num": 367353,
-      "word": "甄嬛传晚会陈建斌又要头疼了",
-      "onboard_time": 1734164418,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 363966,
       "num": 363966,
       "word": "如鸢官方回应",
@@ -529,6 +553,14 @@
       "onboard_time": 1734149181,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336204,
+      "num": 336204,
+      "word": "麦子阿姨回忆连麦大冰",
+      "onboard_time": 1734165918,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 330853,
@@ -603,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290528,
+      "num": 290528,
+      "word": "杨仕泽 她应该不是这个系列的",
+      "onboard_time": 1734163818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283353,
       "num": 283353,
       "word": "曝湖南卫视跨年嘉宾名单",
@@ -648,6 +688,14 @@
       "word": "张真源 孟子义李昀锐专属水印",
       "onboard_time": 1734159379,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 257472,
+      "num": 200120,
+      "word": "种地吧",
+      "onboard_time": 1734157278,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -795,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209958,
+      "num": 188189,
+      "word": "汪苏泷说对THE9非常有感情",
+      "onboard_time": 1734165979,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209766,
       "num": 209766,
       "word": "代号鸢 事与愿违",
@@ -875,14 +931,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 200120,
-      "num": 200120,
-      "word": "种地吧",
-      "onboard_time": 1734157278,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198625,
       "num": 241659,
       "word": "黄雅琼安慰哭了的丫丫",
@@ -907,20 +955,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197928,
+      "num": 187160,
+      "word": "aespa上海签售",
+      "onboard_time": 1734165080,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197319,
       "num": 473607,
       "word": "四六级考到425要答对多少道题",
       "onboard_time": 1734143478,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 196727,
-      "num": 196727,
-      "word": "杨仕泽 她应该不是这个系列的",
-      "onboard_time": 1734163818,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 196139,
@@ -987,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192942,
+      "num": 258527,
+      "word": "车厘子到港在船上就卖了",
+      "onboard_time": 1734164059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "这些水果其实是高糖刺客",
@@ -1043,20 +1099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186612,
+      "num": 186612,
+      "word": "OpenAI吹哨人被证实死亡",
+      "onboard_time": 1734163519,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186444,
       "num": 186444,
       "word": "被曝在厕所洗鱼外卖店已停业整顿",
       "onboard_time": 1734138497,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 183968,
-      "num": 183968,
-      "word": "OpenAI吹哨人被证实死亡",
-      "onboard_time": 1734163519,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 181450,
@@ -1105,14 +1161,6 @@
       "onboard_time": 1734148761,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174742,
-      "num": 174742,
-      "word": "九重紫",
-      "onboard_time": 1734083838,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 174209,
@@ -1267,6 +1315,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 158278,
+      "num": 405609,
+      "word": "幸福者避让原则为什么越来越流行",
+      "onboard_time": 1734164239,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157665,
       "num": 157665,
       "word": "张子墨确认参加浙江卫视跨年",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1734154879,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156335,
+      "num": 156335,
+      "word": "建议气血不足的人像猫学习",
+      "onboard_time": 1734167659,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155588,
@@ -1313,14 +1377,6 @@
       "onboard_time": 1734104239,
       "rank": 35,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 155076,
-      "num": 155076,
-      "word": "aespa上海签售",
-      "onboard_time": 1734165080,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 154490,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1734157998,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145745,
+      "num": 145745,
+      "word": "我是刑警老范下线",
+      "onboard_time": 1734165618,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 144783,
@@ -1611,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122425,
+      "num": 192888,
+      "word": "机票实付800多却只能报销520元",
+      "onboard_time": 1734167961,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 121763,
       "num": 121763,
       "word": "景区回应游客与猴子互殴",
@@ -1651,12 +1723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 116686,
-      "num": 116686,
-      "word": "我是刑警老范下线",
-      "onboard_time": 1734165618,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 116258,
+      "num": 116258,
+      "word": "第五人格",
+      "onboard_time": 1734165798,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 114495,
@@ -1673,14 +1745,6 @@
       "onboard_time": 1734163338,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 113056,
-      "num": 258527,
-      "word": "车厘子到港在船上就卖了",
-      "onboard_time": 1734164059,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111951,
@@ -1731,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108530,
+      "num": 108530,
+      "word": "剑来动画大结局顶级宿命感",
+      "onboard_time": 1734168079,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108028,
       "num": 108028,
       "word": "陈梦巴黎奥运后首次出战",
@@ -1771,12 +1843,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104963,
-      "num": 405609,
-      "word": "幸福者避让原则为什么越来越流行",
-      "onboard_time": 1734164239,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 104176,
+      "num": 188779,
+      "word": "日本民众举行集会反思历史",
+      "onboard_time": 1734165738,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103274,
@@ -1795,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102664,
+      "num": 102664,
+      "word": "女子举着付款界面手机跑进派出所",
+      "onboard_time": 1734168079,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101344,
       "num": 101344,
       "word": "于和伟 只字不提",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1734110474,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97270,
+      "num": 97270,
+      "word": "烤红薯",
+      "onboard_time": 1734168140,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96903,
@@ -2115,11 +2203,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57059,
+      "num": 187121,
+      "word": "男博士回应十四战英语四级",
+      "onboard_time": 1734167179,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56656,
       "num": 180933,
       "word": "石雷鹏六级作文预测",
       "onboard_time": 1734160578,
       "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 55129,
+      "num": 189611,
+      "word": "你觉得四六级什么题型最难",
+      "onboard_time": 1734167840,
+      "rank": 24,
       "category": "教育"
     },
     {
@@ -2193,6 +2297,14 @@
       "onboard_time": 1734147198,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46532,
+      "num": 858986,
+      "word": "今年GDP预计增长5%左右",
+      "onboard_time": 1734167599,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45861,
@@ -2371,6 +2483,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 31298,
+      "num": 188467,
+      "word": "感情出问题找情感导师能解决吗",
+      "onboard_time": 1734166339,
+      "rank": 26,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 30964,
       "num": 30964,
       "word": "刘雨昕唱情歌的杀伤力",
@@ -2393,6 +2513,14 @@
       "onboard_time": 1734152959,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30103,
+      "num": 191962,
+      "word": "终于轮到我去澳门看非遗了",
+      "onboard_time": 1734166819,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27482,
@@ -2588,6 +2716,9 @@
     },
     {
       "word": "#习近平将赴澳门#"
+    },
+    {
+      "word": "#速览中央经济工作会议重要表述#"
     }
   ]
 }
