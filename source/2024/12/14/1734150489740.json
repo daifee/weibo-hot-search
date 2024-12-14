@@ -1,0 +1,410 @@
+{
+  "runTime": 1734150489740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7116490,
+        "num": 7116490,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2529048,
+        "num": 2529048,
+        "word": "四级作文",
+        "onboard_time": 1734145818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41778,
+        "num": 1762219,
+        "word": "一组图了解五谷的前世今生",
+        "onboard_time": 1734148880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1271613,
+        "num": 1271613,
+        "word": "submission又见面了",
+        "onboard_time": 1734148401,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1152795,
+        "num": 1152795,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 841299,
+        "num": 841299,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674992,
+        "num": 674992,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 622850,
+        "num": 622850,
+        "word": "四级翻译",
+        "onboard_time": 1734146898,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 568861,
+        "num": 587751,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253306,
+        "num": 582450,
+        "word": "小太阳放进被窝把家烧了",
+        "onboard_time": 1734149420,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580172,
+        "num": 580172,
+        "word": "四级阅读",
+        "onboard_time": 1734147921,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547456,
+        "num": 547456,
+        "word": "朴灿烈欧阳娜娜将合作",
+        "onboard_time": 1734149299,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523582,
+        "num": 523582,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439017,
+        "num": 439017,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282349,
+        "num": 433703,
+        "word": "六级预测",
+        "onboard_time": 1734149299,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 429774,
+        "num": 429774,
+        "word": "湖南卫视跨年首波阵容",
+        "onboard_time": 1734148281,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326771,
+        "num": 420044,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140510,
+        "num": 416436,
+        "word": "成毅长安二十四计",
+        "onboard_time": 1734147859,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29356,
+        "num": 416415,
+        "word": "林诗栋3比1孙闻",
+        "onboard_time": 1734149900,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416414,
+        "num": 416414,
+        "word": "时代峰峻",
+        "onboard_time": 1734146357,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370692,
+        "num": 370692,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362959,
+        "num": 362959,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357446,
+        "num": 357446,
+        "word": "朝鲜特种部队协助俄罗斯作战",
+        "onboard_time": 1734143718,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330853,
+        "num": 330853,
+        "word": "四级听力我恨你",
+        "onboard_time": 1734148160,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232288,
+        "num": 315899,
+        "word": "四级翻译莫高窟",
+        "onboard_time": 1734148880,
+        "rank": 24,
+        "category": "教育,读书作家"
+      },
+      {
+        "raw_hot": 315118,
+        "num": 315118,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303379,
+        "num": 303379,
+        "word": "鹿晗 主唱出道开口就是不一样",
+        "onboard_time": 1734146658,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284034,
+        "num": 284034,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246859,
+        "num": 246859,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78595,
+        "num": 241016,
+        "word": "国色芳华过审",
+        "onboard_time": 1734145999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746978,
+        "num": 240149,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238260,
+        "num": 238260,
+        "word": "金价深夜跳水",
+        "onboard_time": 1734136397,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 237671,
+        "num": 237671,
+        "word": "如鸢官方回应",
+        "onboard_time": 1734143178,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234790,
+        "num": 234790,
+        "word": "四级 一巴掌",
+        "onboard_time": 1734148460,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229740,
+        "num": 229740,
+        "word": "斗鱼索赔大学生600万获赔2万",
+        "onboard_time": 1734147859,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205476,
+        "num": 205476,
+        "word": "女友放弃省考小伙想追责网约车司机",
+        "onboard_time": 1734143238,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205318,
+        "num": 205318,
+        "word": "金晨孙阳二搭演骗子情侣",
+        "onboard_time": 1734146779,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197967,
+        "num": 197967,
+        "word": "奥斯卡孙乐言定情新歌",
+        "onboard_time": 1734145517,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175144,
+        "num": 175144,
+        "word": "2025LPL新赛制",
+        "onboard_time": 1734148761,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173041,
+        "num": 173041,
+        "word": "92年宝妈已经生了9个娃且还想生",
+        "onboard_time": 1734132134,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45947,
+        "num": 172133,
+        "word": "百事黑神话",
+        "onboard_time": 1734146298,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171893,
+        "num": 171893,
+        "word": "孟子义李昀锐今天直播",
+        "onboard_time": 1734145880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "谁给我报的名",
+        "onboard_time": 1734148700,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167829,
+        "num": 167829,
+        "word": "切尔诺贝利周边的狗已变异",
+        "onboard_time": 1734121871,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167069,
+        "num": 167069,
+        "word": "博士回应英语四级考了15次没过",
+        "onboard_time": 1734149959,
+        "rank": 44,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 164382,
+        "num": 164382,
+        "word": "马龙表演赛用脚战胜老瓦",
+        "onboard_time": 1734149000,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161633,
+        "num": 161633,
+        "word": "外卖店被曝在厕所洗鱼多方回应",
+        "onboard_time": 1734136638,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 159235,
+        "word": "整个衣柜里都是聚酯纤维的无力感",
+        "onboard_time": 1734144559,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158475,
+        "num": 158475,
+        "word": "嘉人盛典全女阵容",
+        "onboard_time": 1734150080,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 154333,
+        "num": 154333,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1734144559,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂2024年中央经济工作会议#"
+    }
+  }
+}

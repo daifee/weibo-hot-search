@@ -1,10 +1,10 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734148122111,
+  "endTime": 1734150489740,
   "band_list": [
     {
-      "raw_hot": 5928271,
-      "num": 5928271,
+      "raw_hot": 7116490,
+      "num": 7116490,
       "word": "四级",
       "onboard_time": 1734136277,
       "rank": 46,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1271613,
+      "num": 1271613,
+      "word": "submission又见面了",
+      "onboard_time": 1734148401,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1185011,
       "num": 1185011,
       "word": "切尔诺贝利周边的狗已变异",
       "onboard_time": 1734121871,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1152795,
+      "num": 1152795,
+      "word": "四级答案",
+      "onboard_time": 1734147439,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 1108570,
@@ -73,14 +89,6 @@
       "onboard_time": 1734143238,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 980563,
-      "num": 980563,
-      "word": "四级答案",
-      "onboard_time": 1734147439,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 905328,
@@ -179,6 +187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 674992,
+      "num": 674992,
+      "word": "艺考前被抱摔骨折当事人回应",
+      "onboard_time": 1734146298,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 628148,
       "num": 628148,
       "word": "朝鲜特种部队协助俄罗斯作战",
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 580172,
+      "num": 580172,
+      "word": "四级阅读",
+      "onboard_time": 1734147921,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 579751,
       "num": 449306,
       "word": "微博之夜",
@@ -209,6 +233,14 @@
       "onboard_time": 1734146357,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 547456,
+      "num": 547456,
+      "word": "朴灿烈欧阳娜娜将合作",
+      "onboard_time": 1734149299,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 478369,
@@ -243,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 429774,
+      "num": 429774,
+      "word": "湖南卫视跨年首波阵容",
+      "onboard_time": 1734148281,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413986,
       "num": 413986,
       "word": "微信多收10元收费站3人被停职",
@@ -267,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384237,
-      "num": 646448,
-      "word": "艺考前被抱摔骨折当事人回应",
-      "onboard_time": 1734146298,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 363966,
       "num": 363966,
       "word": "如鸢官方回应",
@@ -289,6 +321,22 @@
       "onboard_time": 1734126671,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330853,
+      "num": 330853,
+      "word": "四级听力我恨你",
+      "onboard_time": 1734148160,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 326771,
+      "num": 420044,
+      "word": "时代峰峻发声明",
+      "onboard_time": 1734149181,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 325858,
@@ -331,12 +379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284034,
+      "num": 284034,
+      "word": "84岁佩洛西从楼梯摔下臀部受伤",
+      "onboard_time": 1734150018,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283353,
       "num": 283353,
       "word": "曝湖南卫视跨年嘉宾名单",
       "onboard_time": 1734097339,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282349,
+      "num": 433703,
+      "word": "六级预测",
+      "onboard_time": 1734149299,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 275965,
@@ -363,12 +427,12 @@
       "category": "剧集,读书作家"
     },
     {
-      "raw_hot": 240052,
-      "num": 240052,
-      "word": "四级阅读",
-      "onboard_time": 1734147921,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 253306,
+      "num": 582450,
+      "word": "小太阳放进被窝把家烧了",
+      "onboard_time": 1734149420,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235970,
@@ -379,12 +443,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234790,
+      "num": 234790,
+      "word": "四级 一巴掌",
+      "onboard_time": 1734148460,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 232288,
+      "num": 315899,
+      "word": "四级翻译莫高窟",
+      "onboard_time": 1734148880,
+      "rank": 24,
+      "category": "教育,读书作家"
+    },
+    {
       "raw_hot": 229908,
       "num": 229908,
       "word": "德法英支持乌克兰加入北约",
       "onboard_time": 1734136578,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229740,
+      "num": 476435,
+      "word": "斗鱼索赔大学生600万获赔2万",
+      "onboard_time": 1734147859,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222959,
@@ -555,11 +643,27 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 175144,
+      "num": 175144,
+      "word": "2025LPL新赛制",
+      "onboard_time": 1734148761,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174209,
       "num": 174209,
       "word": "多所高校取消四六级和学位证挂钩",
       "onboard_time": 1734144498,
       "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 169460,
+      "num": 169460,
+      "word": "谁给我报的名",
+      "onboard_time": 1734148700,
+      "rank": 42,
       "category": "教育"
     },
     {
@@ -587,6 +691,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 167069,
+      "num": 167069,
+      "word": "博士回应英语四级考了15次没过",
+      "onboard_time": 1734149959,
+      "rank": 44,
+      "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 164382,
+      "num": 164382,
+      "word": "马龙表演赛用脚战胜老瓦",
+      "onboard_time": 1734149000,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162226,
       "num": 162226,
       "word": "湖北一人社局要求5人退回多领养老金",
@@ -601,6 +721,14 @@
       "onboard_time": 1734108317,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158475,
+      "num": 158475,
+      "word": "嘉人盛典全女阵容",
+      "onboard_time": 1734150080,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 155531,
@@ -668,7 +796,7 @@
     },
     {
       "raw_hot": 149591,
-      "num": 149591,
+      "num": 241016,
       "word": "国色芳华过审",
       "onboard_time": 1734145999,
       "rank": 45,
@@ -697,6 +825,14 @@
       "onboard_time": 1734142578,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140510,
+      "num": 416436,
+      "word": "成毅长安二十四计",
+      "onboard_time": 1734147859,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 137530,
@@ -763,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124430,
-      "num": 336897,
-      "word": "成毅长安二十四计",
-      "onboard_time": 1734147859,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123879,
       "num": 123879,
       "word": "节俭一生的妈妈唯一没打包的菜",
@@ -809,14 +937,6 @@
       "onboard_time": 1734140477,
       "rank": 43,
       "category": "军事"
-    },
-    {
-      "raw_hot": 118767,
-      "num": 476435,
-      "word": "斗鱼索赔大学生600万获赔2万",
-      "onboard_time": 1734147859,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116941,
@@ -1235,6 +1355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41778,
+      "num": 1762219,
+      "word": "一组图了解五谷的前世今生",
+      "onboard_time": 1734148880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41699,
       "num": 41699,
       "word": "马嘉祺清唱蜉蝣和蜚蜚",
@@ -1313,6 +1441,14 @@
       "onboard_time": 1734131113,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29356,
+      "num": 416415,
+      "word": "林诗栋3比1孙闻",
+      "onboard_time": 1734149900,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 25485,
