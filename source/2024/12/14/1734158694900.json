@@ -1,0 +1,410 @@
+{
+  "runTime": 1734158694900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 780103,
+        "num": 1124816,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 668195,
+        "num": 668195,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52010,
+        "num": 663503,
+        "word": "2025年是十四五规划收官之年",
+        "onboard_time": 1734148281,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660797,
+        "num": 660797,
+        "word": "窦昭你别把宋墨摸爽了",
+        "onboard_time": 1734157639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 657377,
+        "num": 657377,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514244,
+        "num": 514244,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449104,
+        "num": 449104,
+        "word": "33岁小伙靠路边捡瓶子补贴生活",
+        "onboard_time": 1734154518,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153089,
+        "num": 421235,
+        "word": "麦琳当调解员",
+        "onboard_time": 1734156618,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411825,
+        "num": 411825,
+        "word": "石雷鹏押中四级写作翻译",
+        "onboard_time": 1734151939,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110558,
+        "num": 411188,
+        "word": "人民网评猎罪图鉴2升级猎心",
+        "onboard_time": 1734157037,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 666852,
+        "num": 410501,
+        "word": "小S曾问许玮甯与邱泽舌吻感受",
+        "onboard_time": 1734154459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488228,
+        "num": 408387,
+        "word": "湖南卫视跨年首波阵容",
+        "onboard_time": 1734148281,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459321,
+        "num": 407806,
+        "word": "NewJeans开通新ins账号",
+        "onboard_time": 1734155539,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407106,
+        "num": 407106,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 91028,
+        "num": 391086,
+        "word": "1次挂号3天免费看病医生为何不接受",
+        "onboard_time": 1734157278,
+        "rank": 14,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 386499,
+        "num": 386499,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 365321,
+        "num": 365321,
+        "word": "特朗普邀外国领导人出席就职典礼",
+        "onboard_time": 1734154879,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58959,
+        "num": 363756,
+        "word": "好东西票房破6亿",
+        "onboard_time": 1734157817,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335436,
+        "num": 363241,
+        "word": "孟子义李昀锐超话换情头",
+        "onboard_time": 1734156738,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38599,
+        "num": 361129,
+        "word": "体育老师被举报暴踢学生头部",
+        "onboard_time": 1734158238,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529271,
+        "num": 358698,
+        "word": "女子挤痘溃烂成大洞感染进急诊",
+        "onboard_time": 1734152841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387533,
+        "num": 357160,
+        "word": "孙茜老公抱着羽绒服接机",
+        "onboard_time": 1734156378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355900,
+        "num": 355900,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346279,
+        "num": 346279,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278659,
+        "num": 278659,
+        "word": "小太阳放进被窝把家烧了",
+        "onboard_time": 1734149420,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264014,
+        "num": 264014,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257442,
+        "num": 257442,
+        "word": "李维嘉一出场就爆梗",
+        "onboard_time": 1734158059,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244051,
+        "num": 244051,
+        "word": "霉霉巡演结束发了14亿奖金",
+        "onboard_time": 1734158059,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172182,
+        "num": 241659,
+        "word": "黄雅琼安慰哭了的丫丫",
+        "onboard_time": 1734155419,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35630,
+        "num": 240769,
+        "word": "女子远嫁日本失联事件几大疑点",
+        "onboard_time": 1734158658,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378218,
+        "num": 240708,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240629,
+        "num": 240629,
+        "word": "女性可能出现圣诞树式脱发",
+        "onboard_time": 1734154638,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227776,
+        "num": 227776,
+        "word": "恋与深空黎深",
+        "onboard_time": 1734157100,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222317,
+        "num": 222317,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220332,
+        "num": 220332,
+        "word": "新能源汽车 new car",
+        "onboard_time": 1734150859,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 198255,
+        "word": "恋与深空",
+        "onboard_time": 1734156859,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198143,
+        "num": 198143,
+        "word": "虞书欣首款臻享NFC项链",
+        "onboard_time": 1734157577,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194559,
+        "num": 194559,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193914,
+        "num": 193914,
+        "word": "九重紫在650团综斗上了",
+        "onboard_time": 1734158059,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183562,
+        "num": 183562,
+        "word": "朴灿烈欧阳娜娜将合作",
+        "onboard_time": 1734149299,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 180430,
+        "word": "29岁自律女人在农村高能量的一天",
+        "onboard_time": 1734158059,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175742,
+        "num": 175742,
+        "word": "名侦探学院8 口号抄袭",
+        "onboard_time": 1734158478,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160537,
+        "num": 160537,
+        "word": "RNG官宣Ming恢复自由人身份",
+        "onboard_time": 1734153798,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158621,
+        "num": 158621,
+        "word": "种地吧",
+        "onboard_time": 1734157278,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158415,
+        "num": 158415,
+        "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
+        "onboard_time": 1734158478,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154143,
+        "num": 154143,
+        "word": "白鹿掉睫毛许愿",
+        "onboard_time": 1734157699,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 153500,
+        "word": "四级抽到了最简单的一套",
+        "onboard_time": 1734158178,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153001,
+        "num": 153001,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1734158059,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146714,
+        "num": 146714,
+        "word": "男子为泄愤散布前女友私密照被拘",
+        "onboard_time": 1734154879,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146213,
+        "num": 146213,
+        "word": "王大发说杨幂能长红的原因",
+        "onboard_time": 1734157998,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴澳门#"
+    }
+  }
+}
