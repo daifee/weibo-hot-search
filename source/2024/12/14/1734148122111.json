@@ -1,0 +1,410 @@
+{
+  "runTime": 1734148122111,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5928271,
+        "num": 5928271,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4112594,
+        "num": 4112594,
+        "word": "四级作文",
+        "onboard_time": 1734145818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39461,
+        "num": 2836568,
+        "word": "2025年经济工作怎么干",
+        "onboard_time": 1734099320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1927462,
+        "num": 1927462,
+        "word": "四级翻译",
+        "onboard_time": 1734146898,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1203373,
+        "num": 1203373,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 980563,
+        "num": 980563,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 784264,
+        "num": 784264,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 384237,
+        "num": 646448,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 601240,
+        "num": 601240,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593351,
+        "num": 593351,
+        "word": "朝鲜特种部队协助俄罗斯作战",
+        "onboard_time": 1734143718,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 657862,
+        "num": 586285,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579127,
+        "num": 579127,
+        "word": "时代峰峻",
+        "onboard_time": 1734146357,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481152,
+        "num": 481152,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325858,
+        "num": 480875,
+        "word": "鹿晗 主唱出道开口就是不一样",
+        "onboard_time": 1734146658,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118767,
+        "num": 476435,
+        "word": "斗鱼索赔大学生600万获赔2万",
+        "onboard_time": 1734147859,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197319,
+        "num": 473607,
+        "word": "四六级考到425要答对多少道题",
+        "onboard_time": 1734143478,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53035,
+        "num": 472997,
+        "word": "百事黑神话",
+        "onboard_time": 1734146298,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47177,
+        "num": 470401,
+        "word": "林高远徐海东3比0徐晨皓赛林威",
+        "onboard_time": 1734147198,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20671,
+        "num": 467862,
+        "word": "林诗栋vs孙闻",
+        "onboard_time": 1734147139,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33242,
+        "num": 463844,
+        "word": "官方回应山东梁山深夜突发巨响",
+        "onboard_time": 1734148101,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211288,
+        "num": 461734,
+        "word": "金晨孙阳二搭演骗子情侣",
+        "onboard_time": 1734146779,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460837,
+        "num": 460837,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416416,
+        "num": 416416,
+        "word": "女友放弃省考小伙想追责网约车司机",
+        "onboard_time": 1734143238,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407873,
+        "num": 407873,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58581,
+        "num": 387940,
+        "word": "TGA年度游戏宣布后的梗图",
+        "onboard_time": 1734147260,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 381980,
+        "num": 381980,
+        "word": "外卖店被曝在厕所洗鱼多方回应",
+        "onboard_time": 1734136638,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 291057,
+        "num": 378803,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266272,
+        "num": 355339,
+        "word": "奥斯卡孙乐言定情新歌",
+        "onboard_time": 1734145517,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124430,
+        "num": 336897,
+        "word": "成毅长安二十四计",
+        "onboard_time": 1734147859,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70740,
+        "num": 323615,
+        "word": "中国古代收纳师治愈强迫症",
+        "onboard_time": 1734148101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315881,
+        "num": 315881,
+        "word": "金价深夜跳水",
+        "onboard_time": 1734136397,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299717,
+        "num": 299717,
+        "word": "如鸢官方回应",
+        "onboard_time": 1734143178,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 788213,
+        "num": 299489,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 297880,
+        "num": 297880,
+        "word": "金价",
+        "onboard_time": 1734139698,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187101,
+        "num": 288620,
+        "word": "中国100多年前快递里也有防震设计",
+        "onboard_time": 1734145458,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279493,
+        "num": 279493,
+        "word": "切尔诺贝利周边的狗已变异",
+        "onboard_time": 1734121871,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258057,
+        "num": 258057,
+        "word": "92年宝妈已经生了9个娃且还想生",
+        "onboard_time": 1734132134,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240052,
+        "num": 240052,
+        "word": "四级阅读",
+        "onboard_time": 1734147921,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229063,
+        "num": 229063,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1734144559,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211367,
+        "num": 211367,
+        "word": "四六级",
+        "onboard_time": 1734132675,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205858,
+        "num": 205858,
+        "word": "整个衣柜里都是聚酯纤维的无力感",
+        "onboard_time": 1734144559,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194032,
+        "num": 194032,
+        "word": "小小的我",
+        "onboard_time": 1734144799,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191887,
+        "num": 191887,
+        "word": "孟子义李昀锐今天直播",
+        "onboard_time": 1734145880,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188841,
+        "num": 188841,
+        "word": "嘉人盛典官宣艺人",
+        "onboard_time": 1734146538,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178902,
+        "num": 178902,
+        "word": "如鸢预估收入连续7日下滑",
+        "onboard_time": 1734147260,
+        "rank": 44,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 174209,
+        "num": 174209,
+        "word": "多所高校取消四六级和学位证挂钩",
+        "onboard_time": 1734144498,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169569,
+        "num": 169569,
+        "word": "个人养老金开户领取全流程指南",
+        "onboard_time": 1734141919,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168595,
+        "num": 168595,
+        "word": "为什么四六级及格线是425",
+        "onboard_time": 1734147319,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164808,
+        "num": 164808,
+        "word": "阿姨将被群狗追哭女孩护身后",
+        "onboard_time": 1734139458,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163216,
+        "num": 163216,
+        "word": "长安二十四计",
+        "onboard_time": 1734141198,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂2024年中央经济工作会议#"
+    }
+  }
+}

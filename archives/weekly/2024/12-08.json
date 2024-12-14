@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734147460332,
+  "endTime": 1734148122111,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 5928271,
+      "num": 5928271,
+      "word": "四级",
+      "onboard_time": 1734084439,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4169503,
       "num": 4169503,
       "word": "檀健次舞台吐痰",
       "onboard_time": 1733585182,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 4112594,
+      "num": 4112594,
+      "word": "四级作文",
+      "onboard_time": 1734145818,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 4106758,
@@ -147,14 +163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2689519,
-      "num": 2689519,
-      "word": "四级",
-      "onboard_time": 1734084439,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 2464511,
       "num": 2464511,
       "word": "3块5泡面档口刺痛了谁的良心",
@@ -177,14 +185,6 @@
       "onboard_time": 1734077839,
       "rank": 11,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 2294437,
-      "num": 2294437,
-      "word": "四级作文",
-      "onboard_time": 1734145818,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 2271387,
@@ -265,6 +265,14 @@
       "onboard_time": 1733980281,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1927462,
+      "num": 1927462,
+      "word": "四级翻译",
+      "onboard_time": 1734146898,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1914431,
@@ -1347,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 980563,
+      "num": 980563,
+      "word": "四级答案",
+      "onboard_time": 1734147439,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 979796,
       "num": 434899,
       "word": "黄圣依在花钱上是大清醒女主",
@@ -1955,6 +1971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 784264,
+      "num": 784264,
+      "word": "冰俪幂诗唐妮",
+      "onboard_time": 1734144618,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 784222,
       "num": 380937,
       "word": "马嘉祺 几点直播",
@@ -2153,14 +2177,6 @@
       "onboard_time": 1733754560,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 750901,
-      "num": 750901,
-      "word": "冰俪幂诗唐妮",
-      "onboard_time": 1734144618,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 750454,
@@ -2504,14 +2520,6 @@
       "word": "山东省考",
       "onboard_time": 1733619318,
       "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 685565,
-      "num": 685565,
-      "word": "四级翻译",
-      "onboard_time": 1734146898,
-      "rank": 5,
       "category": "教育"
     },
     {
@@ -3115,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579127,
+      "num": 579127,
+      "word": "时代峰峻",
+      "onboard_time": 1734146357,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576951,
       "num": 576951,
       "word": "当我把400元的羽绒服剪开后",
@@ -3369,14 +3385,6 @@
       "onboard_time": 1733886080,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544311,
-      "num": 544311,
-      "word": "时代峰峻",
-      "onboard_time": 1734146357,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 544093,
@@ -4883,6 +4891,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 384237,
+      "num": 646448,
+      "word": "艺考前被抱摔骨折当事人回应",
+      "onboard_time": 1734146298,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 383294,
       "num": 308301,
       "word": "海关总署署长俞建华去世",
@@ -5723,6 +5739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325858,
+      "num": 480875,
+      "word": "鹿晗 主唱出道开口就是不一样",
+      "onboard_time": 1734146658,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325343,
       "num": 246547,
       "word": "女硕士",
@@ -5956,7 +5980,7 @@
     },
     {
       "raw_hot": 314608,
-      "num": 344239,
+      "num": 355339,
       "word": "奥斯卡孙乐言定情新歌",
       "onboard_time": 1734145517,
       "rank": 23,
@@ -6769,14 +6793,6 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272433,
-      "num": 272433,
-      "word": "四级答案",
-      "onboard_time": 1734147439,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 271500,
@@ -7665,6 +7681,14 @@
       "onboard_time": 1733747721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240052,
+      "num": 240052,
+      "word": "四级阅读",
+      "onboard_time": 1734147921,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 240048,
@@ -8619,6 +8643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211288,
+      "num": 461734,
+      "word": "金晨孙阳二搭演骗子情侣",
+      "onboard_time": 1734146779,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211059,
       "num": 253948,
       "word": "李羲承这什么造型",
@@ -8867,22 +8899,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 206464,
-      "num": 573080,
-      "word": "艺考前被抱摔骨折当事人回应",
-      "onboard_time": 1734146298,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 206418,
-      "num": 206418,
-      "word": "鹿晗 主唱出道开口就是不一样",
-      "onboard_time": 1734146658,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206198,
       "num": 186998,
       "word": "苏新皓女装跳舞",
@@ -8897,6 +8913,14 @@
       "onboard_time": 1733814680,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205858,
+      "num": 205858,
+      "word": "整个衣柜里都是聚酯纤维的无力感",
+      "onboard_time": 1734144559,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 205803,
@@ -8932,7 +8956,7 @@
     },
     {
       "raw_hot": 205316,
-      "num": 205316,
+      "num": 288620,
       "word": "中国100多年前快递里也有防震设计",
       "onboard_time": 1734145458,
       "rank": 47,
@@ -8969,14 +8993,6 @@
       "onboard_time": 1734001820,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204535,
-      "num": 204535,
-      "word": "整个衣柜里都是聚酯纤维的无力感",
-      "onboard_time": 1734144559,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 204340,
@@ -9521,6 +9537,14 @@
       "onboard_time": 1733993658,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197319,
+      "num": 473607,
+      "word": "四六级考到425要答对多少道题",
+      "onboard_time": 1734143478,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 197222,
@@ -10251,6 +10275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188841,
+      "num": 334760,
+      "word": "嘉人盛典官宣艺人",
+      "onboard_time": 1734146538,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188817,
       "num": 823394,
       "word": "调查尹锡悦的内乱常设特检法通过",
@@ -10457,14 +10489,6 @@
       "onboard_time": 1733825178,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186314,
-      "num": 339490,
-      "word": "金晨孙阳二搭演骗子情侣",
-      "onboard_time": 1734146779,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 186202,
@@ -10899,6 +10923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178902,
+      "num": 178902,
+      "word": "如鸢预估收入连续7日下滑",
+      "onboard_time": 1734147260,
+      "rank": 49,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 178459,
       "num": 309296,
       "word": "在酒店偷拍卖视频被判10年",
@@ -11177,6 +11209,14 @@
       "onboard_time": 1733753959,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 174209,
+      "num": 174209,
+      "word": "多所高校取消四六级和学位证挂钩",
+      "onboard_time": 1734144498,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 174156,
@@ -11699,20 +11739,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168595,
+      "num": 168595,
+      "word": "为什么四六级及格线是425",
+      "onboard_time": 1734147319,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168445,
       "num": 168445,
       "word": "胖东来追求实现员工月到手8000元以上",
       "onboard_time": 1734055460,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168156,
-      "num": 168156,
-      "word": "多所高校取消四六级和学位证挂钩",
-      "onboard_time": 1734144498,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 168016,
@@ -12225,14 +12265,6 @@
       "onboard_time": 1734012800,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161031,
-      "num": 433879,
-      "word": "四六级考到425要答对多少道题",
-      "onboard_time": 1734143478,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 160941,
@@ -14267,14 +14299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135969,
-      "num": 334760,
-      "word": "嘉人盛典官宣艺人",
-      "onboard_time": 1734146538,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 135876,
       "num": 135876,
       "word": "沈月说徐志胜湿气太重",
@@ -14747,14 +14771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127882,
-      "num": 127882,
-      "word": "如鸢预估收入连续7日下滑",
-      "onboard_time": 1734147260,
-      "rank": 49,
-      "category": "游戏,财经"
-    },
-    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
@@ -14977,6 +14993,14 @@
       "onboard_time": 1733919620,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 124430,
+      "num": 336897,
+      "word": "成毅长安二十四计",
+      "onboard_time": 1734147859,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 124247,
@@ -15273,6 +15297,14 @@
       "onboard_time": 1733913499,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118767,
+      "num": 476435,
+      "word": "斗鱼索赔大学生600万获赔2万",
+      "onboard_time": 1734147859,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118552,
@@ -17308,7 +17340,7 @@
     },
     {
       "raw_hot": 80813,
-      "num": 347118,
+      "num": 387940,
       "word": "TGA年度游戏宣布后的梗图",
       "onboard_time": 1734147260,
       "rank": 24,
@@ -17604,7 +17636,7 @@
     },
     {
       "raw_hot": 75927,
-      "num": 391800,
+      "num": 472997,
       "word": "百事黑神话",
       "onboard_time": 1733796857,
       "rank": 43,
@@ -17865,6 +17897,14 @@
       "onboard_time": 1733900719,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70740,
+      "num": 323615,
+      "word": "中国古代收纳师治愈强迫症",
+      "onboard_time": 1734148101,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70550,
@@ -18188,7 +18228,7 @@
     },
     {
       "raw_hot": 66922,
-      "num": 1690186,
+      "num": 2836568,
       "word": "2025年经济工作怎么干",
       "onboard_time": 1734099320,
       "rank": 2,
@@ -19161,6 +19201,14 @@
       "onboard_time": 1733935936,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47177,
+      "num": 470401,
+      "word": "林高远徐海东3比0徐晨皓赛林威",
+      "onboard_time": 1734147198,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 46944,
@@ -20307,14 +20355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 33746,
-      "num": 414035,
-      "word": "林高远徐海东3比0徐晨皓赛林威",
-      "onboard_time": 1734147198,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33705,
       "num": 217441,
       "word": "目击者讲述航班飞行途中老人发病",
@@ -20393,6 +20433,14 @@
       "onboard_time": 1733844921,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33242,
+      "num": 463844,
+      "word": "官方回应山东梁山深夜突发巨响",
+      "onboard_time": 1734148101,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 33150,
@@ -21323,6 +21371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20671,
+      "num": 467862,
+      "word": "林诗栋vs孙闻",
+      "onboard_time": 1734147139,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20582,
       "num": 187076,
       "word": "安东尼奥目前情况稳定",
@@ -21777,14 +21833,6 @@
       "onboard_time": 1734084738,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15567,
-      "num": 406232,
-      "word": "林诗栋vs孙闻",
-      "onboard_time": 1734147139,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 15425,
