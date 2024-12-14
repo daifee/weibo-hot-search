@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734161739255,
+  "endTime": 1734164897442,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2257128,
+      "num": 2257128,
+      "word": "吃播为引流吞下两斤纯肥肉",
+      "onboard_time": 1734160517,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2250877,
       "num": 480212,
       "word": "陈妍希 陈晓",
@@ -337,6 +345,14 @@
       "onboard_time": 1733757618,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1770094,
+      "num": 1770094,
+      "word": "尹锡悦总统职务立即停止",
+      "onboard_time": 1734163578,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1759354,
@@ -1353,6 +1369,14 @@
       "onboard_time": 1733903303,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1012340,
+      "num": 1012340,
+      "word": "尹锡悦弹劾案通过",
+      "onboard_time": 1734163519,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1004500,
@@ -4395,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449341,
+      "num": 449341,
+      "word": "四级抽到了最简单的一套",
+      "onboard_time": 1734158178,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 447686,
       "num": 447686,
       "word": "王楚钦孙颖莎vs赵大成申裕斌",
@@ -5241,6 +5273,14 @@
       "onboard_time": 1733975720,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367754,
+      "num": 367754,
+      "word": "何超莲人脉",
+      "onboard_time": 1734163157,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 366820,
@@ -6315,14 +6355,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 306505,
-      "num": 306505,
-      "word": "吃播为引流吞下两斤纯肥肉",
-      "onboard_time": 1734160517,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 305296,
       "num": 305296,
       "word": "武契奇称不会像阿萨德那样逃走",
@@ -6417,6 +6449,14 @@
       "onboard_time": 1733623881,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302444,
+      "num": 302444,
+      "word": "女生买奶茶放冰箱隔天能用手拎起来",
+      "onboard_time": 1734164239,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302318,
@@ -7347,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258253,
+      "num": 258253,
+      "word": "张真源 孟子义李昀锐专属水印",
+      "onboard_time": 1734159379,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258140,
       "num": 258140,
       "word": "60岁奶奶20岁身材惊艳网友",
@@ -7721,6 +7769,14 @@
       "onboard_time": 1734095060,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244816,
+      "num": 326207,
+      "word": "韩国国会今天下午表决尹锡悦弹劾动议案",
+      "onboard_time": 1734160698,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244815,
@@ -9019,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209766,
+      "num": 209766,
+      "word": "代号鸢 事与愿违",
+      "onboard_time": 1734162617,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209596,
       "num": 209596,
       "word": "丁禹兮开车只敢开十迈",
@@ -10019,14 +10083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195630,
-      "num": 195630,
-      "word": "张真源 孟子义李昀锐专属水印",
-      "onboard_time": 1734159379,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195624,
       "num": 195624,
       "word": "鞠婧祎陈都灵月鳞绮纪路透",
@@ -10081,6 +10137,14 @@
       "onboard_time": 1733587819,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194999,
+      "num": 194999,
+      "word": "鞠婧祎粉衣古装路透",
+      "onboard_time": 1734164778,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 194985,
@@ -10185,14 +10249,6 @@
       "onboard_time": 1733820081,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193966,
-      "num": 213820,
-      "word": "四级抽到了最简单的一套",
-      "onboard_time": 1734158178,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 193914,
@@ -10739,6 +10795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188443,
+      "num": 188443,
+      "word": "杨仕泽 她应该不是这个系列的",
+      "onboard_time": 1734163818,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188428,
       "num": 331861,
       "word": "九重紫微博追剧团",
@@ -11049,6 +11113,14 @@
       "onboard_time": 1733921479,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183968,
+      "num": 183968,
+      "word": "OpenAI吹哨人被证实死亡",
+      "onboard_time": 1734163519,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 183907,
@@ -12156,7 +12228,7 @@
     },
     {
       "raw_hot": 169189,
-      "num": 169189,
+      "num": 194655,
       "word": "星火英语",
       "onboard_time": 1734155778,
       "rank": 43,
@@ -12329,6 +12401,14 @@
       "onboard_time": 1733670021,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167022,
+      "num": 281774,
+      "word": "女子与男友亲密时刻被台球厅直播",
+      "onboard_time": 1734163578,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166737,
@@ -13723,6 +13803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150578,
+      "num": 150578,
+      "word": "大侠8楼飞檐走壁救了小孩",
+      "onboard_time": 1734162858,
+      "rank": 38,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 150562,
       "num": 150562,
       "word": "苹果发布iOS18.2正式版",
@@ -14345,6 +14433,14 @@
       "onboard_time": 1733981241,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142557,
+      "num": 325880,
+      "word": "线上值机选座发现好座位全被锁了",
+      "onboard_time": 1734161597,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 142534,
@@ -15163,6 +15259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132098,
+      "num": 259339,
+      "word": "甄嬛传晚会陈建斌又要头疼了",
+      "onboard_time": 1734164418,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131960,
       "num": 131960,
       "word": "云合",
@@ -15257,6 +15361,14 @@
       "onboard_time": 1733643737,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130532,
+      "num": 213545,
+      "word": "NewJeans请kpop粉丝吃饭",
+      "onboard_time": 1734161417,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 130283,
@@ -15411,6 +15523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127715,
+      "num": 127715,
+      "word": "柯南平次告白只有0次和无数次",
+      "onboard_time": 1734164658,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 126982,
       "num": 126982,
       "word": "当地派出所称张某英出狱后在外打工",
@@ -15521,6 +15641,14 @@
       "onboard_time": 1733825479,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 125758,
+      "num": 125758,
+      "word": "熊猫一家怎么可以这么多戏",
+      "onboard_time": 1734164539,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125698,
@@ -15907,6 +16035,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 119552,
+      "num": 249007,
+      "word": "孙乐言回应奥斯卡表白歌",
+      "onboard_time": 1734162858,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 119493,
       "num": 119493,
       "word": "邻居在车位装护栏女子打不开车门",
@@ -16241,6 +16377,14 @@
       "onboard_time": 1733786415,
       "rank": 42,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 113762,
+      "num": 113762,
+      "word": "韩语学生炫耀在医院坐诊参与手术",
+      "onboard_time": 1734163338,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 113716,
@@ -16843,6 +16987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102732,
+      "num": 191011,
+      "word": "时光代理人",
+      "onboard_time": 1734162858,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102728,
       "num": 102728,
       "word": "38岁全职妈妈干跑腿成重庆女单王",
@@ -17193,14 +17345,6 @@
       "onboard_time": 1733624959,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96256,
-      "num": 325880,
-      "word": "线上值机选座发现好座位全被锁了",
-      "onboard_time": 1734161597,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 96214,
@@ -17931,6 +18075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83089,
+      "num": 258527,
+      "word": "车厘子到港在船上就卖了",
+      "onboard_time": 1734164059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83012,
       "num": 83012,
       "word": "极越汽车回应被曝多部门原地解散",
@@ -18489,14 +18641,6 @@
       "onboard_time": 1733798957,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 72688,
-      "num": 213545,
-      "word": "NewJeans请kpop粉丝吃饭",
-      "onboard_time": 1734161417,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 72312,
@@ -19219,14 +19363,6 @@
       "category": "正能量,财经"
     },
     {
-      "raw_hot": 59028,
-      "num": 326207,
-      "word": "韩国国会今天下午表决尹锡悦弹劾动议案",
-      "onboard_time": 1734160698,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59006,
       "num": 59006,
       "word": "李昀锐扫楼送柿子",
@@ -19457,6 +19593,14 @@
       "onboard_time": 1733976441,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 54889,
+      "num": 376905,
+      "word": "幸福者避让原则为什么越来越流行",
+      "onboard_time": 1734164239,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54773,
@@ -22217,6 +22361,14 @@
       "onboard_time": 1733856431,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21050,
+      "num": 193181,
+      "word": "国产刑侦剧在年轻人里C位出道",
+      "onboard_time": 1734163999,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 21012,
