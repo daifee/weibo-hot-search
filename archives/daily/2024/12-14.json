@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734180128184,
+  "endTime": 1734181095246,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 742632,
+      "num": 742632,
+      "word": "张元英首个中国封面",
+      "onboard_time": 1734178761,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 739701,
       "num": 739701,
       "word": "六级作文",
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 644570,
+      "num": 644570,
+      "word": "福宝检查结果",
+      "onboard_time": 1734175880,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 632068,
       "num": 632068,
       "word": "新能源汽车 new car",
@@ -441,14 +457,6 @@
       "onboard_time": 1734101421,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 607106,
-      "num": 595138,
-      "word": "福宝检查结果",
-      "onboard_time": 1734175880,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 604484,
@@ -507,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 568704,
-      "num": 568704,
-      "word": "张元英首个中国封面",
-      "onboard_time": 1734178761,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 557997,
       "num": 557997,
       "word": "莫离 白鹿",
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495115,
+      "num": 495115,
+      "word": "九重紫热度",
+      "onboard_time": 1734176001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 478369,
       "num": 478369,
       "word": "叙多位科学家遇害研究成果一并消失",
@@ -619,6 +627,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 433786,
+      "num": 433786,
+      "word": "唐三小舞官宣订婚",
+      "onboard_time": 1734179120,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431994,
       "num": 431994,
       "word": "特朗普邀外国领导人出席就职典礼",
@@ -643,6 +659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 416510,
+      "num": 416510,
+      "word": "六级听力",
+      "onboard_time": 1734169522,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 413986,
       "num": 413986,
       "word": "微信多收10元收费站3人被停职",
@@ -656,14 +680,6 @@
       "word": "猎罪图鉴2已经是nextlevel了",
       "onboard_time": 1734101899,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 411959,
-      "num": 411959,
-      "word": "九重紫热度",
-      "onboard_time": 1734176001,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -713,14 +729,6 @@
       "onboard_time": 1734132134,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380631,
-      "num": 380631,
-      "word": "六级听力",
-      "onboard_time": 1734169522,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 374929,
@@ -875,20 +883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286276,
+      "num": 569444,
+      "word": "樊振东3比1林诗栋",
+      "onboard_time": 1734179241,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283353,
       "num": 283353,
       "word": "曝湖南卫视跨年嘉宾名单",
       "onboard_time": 1734097339,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282514,
-      "num": 282514,
-      "word": "唐三小舞官宣订婚",
-      "onboard_time": 1734179120,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 280467,
@@ -929,6 +937,14 @@
       "onboard_time": 1734164059,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261856,
+      "num": 261856,
+      "word": "你好星期六",
+      "onboard_time": 1734179540,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 258748,
@@ -1027,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238795,
+      "num": 263485,
+      "word": "孙颖莎帮林昀儒捡球",
+      "onboard_time": 1734180860,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235970,
       "num": 235970,
       "word": "被举报邻居称全家已无人享受低保",
@@ -1065,6 +1089,14 @@
       "onboard_time": 1734147859,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229297,
+      "num": 646939,
+      "word": "虞书欣好强大的心脏",
+      "onboard_time": 1734180440,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 228637,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212940,
+      "num": 212940,
+      "word": "肚里有十多个肿瘤的抗癌老师发声",
+      "onboard_time": 1734174380,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211334,
       "num": 216712,
       "word": "田曦薇逐玉定妆下班",
@@ -1193,14 +1233,6 @@
       "onboard_time": 1734171620,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209007,
-      "num": 209007,
-      "word": "肚里有十多个肿瘤的抗癌老师发声",
-      "onboard_time": 1734174380,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207398,
@@ -1331,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195871,
-      "num": 195871,
-      "word": "你好星期六",
-      "onboard_time": 1734179540,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195659,
       "num": 195659,
       "word": "鞠婧祎粉衣古装路透",
@@ -1403,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 192919,
+      "num": 270253,
+      "word": "杨幂唐嫣刘诗诗嘉人同框",
+      "onboard_time": 1734180921,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "这些水果其实是高糖刺客",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1734139458,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 191291,
+      "num": 191291,
+      "word": "九重紫男女主圆房一波三折",
+      "onboard_time": 1734180562,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 191026,
@@ -1491,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186555,
+      "num": 186555,
+      "word": "奔跑吧",
+      "onboard_time": 1734180499,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186516,
       "num": 412316,
       "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1734138497,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 190877,
+      "word": "被抱摔骨折女生希望对方付出代价",
+      "onboard_time": 1734178520,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181450,
@@ -1651,6 +1707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168512,
+      "num": 168512,
+      "word": "林玉芬导演回归",
+      "onboard_time": 1734179600,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166321,
       "num": 260434,
       "word": "尹锡悦成韩国第三位被弹劾总统",
@@ -1707,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162638,
+      "num": 162638,
+      "word": "艺考前被抱摔骨折女生将继续追责",
+      "onboard_time": 1734177800,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162226,
       "num": 162226,
       "word": "湖北一人社局要求5人退回多领养老金",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1734153798,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160561,
+      "num": 160561,
+      "word": "剑来",
+      "onboard_time": 1734176902,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 159328,
@@ -1769,14 +1849,6 @@
       "onboard_time": 1734161597,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157631,
-      "num": 569444,
-      "word": "樊振东3比1林诗栋",
-      "onboard_time": 1734179241,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 156826,
@@ -1907,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151224,
-      "num": 151224,
-      "word": "剑来",
-      "onboard_time": 1734176902,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 150578,
       "num": 150578,
       "word": "大侠8楼飞檐走壁救了小孩",
@@ -1939,12 +2003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149465,
-      "num": 149465,
-      "word": "艺考前被抱摔骨折女生将继续追责",
-      "onboard_time": 1734177800,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 148576,
+      "num": 148576,
+      "word": "白司彦 引导型恋人",
+      "onboard_time": 1734180800,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 147868,
@@ -2009,6 +2073,14 @@
       "onboard_time": 1734134476,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143404,
+      "num": 409632,
+      "word": "刘宇宁直播",
+      "onboard_time": 1734179600,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 142557,
@@ -2491,12 +2563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93611,
-      "num": 409632,
-      "word": "刘宇宁直播",
-      "onboard_time": 1734179600,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 93094,
+      "num": 160728,
+      "word": "为什么大学英语只有四六级没有五级",
+      "onboard_time": 1734178341,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 91028,
@@ -2585,14 +2657,6 @@
       "onboard_time": 1734180081,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81194,
-      "num": 190877,
-      "word": "被抱摔骨折女生希望对方付出代价",
-      "onboard_time": 1734178520,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80813,
@@ -3019,6 +3083,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 38684,
+      "num": 181473,
+      "word": "南方实现供暖自由了",
+      "onboard_time": 1734177681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38599,
       "num": 361129,
       "word": "体育老师被举报暴踢学生头部",
@@ -3033,14 +3105,6 @@
       "onboard_time": 1734104959,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38207,
-      "num": 181473,
-      "word": "南方实现供暖自由了",
-      "onboard_time": 1734177681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36134,
@@ -3163,12 +3227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29742,
+      "num": 1102191,
+      "word": "天宫画展又双叒上新了",
+      "onboard_time": 1734177921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27482,
       "num": 364743,
       "word": "起底卖惨营销背后的产业链",
       "onboard_time": 1734150500,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26649,
+      "num": 575150,
+      "word": "喃呒师傅看破地狱四次落泪",
+      "onboard_time": 1734179721,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 25485,
@@ -3291,14 +3371,6 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 12389,
-      "num": 575150,
-      "word": "喃呒师傅看破地狱四次落泪",
-      "onboard_time": 1734179721,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 10630,
       "num": 105716,
       "word": "看老外考中文瞬间明白学霸的感觉",
@@ -3383,6 +3455,9 @@
     },
     {
       "word": "#速览中央经济工作会议重要表述#"
+    },
+    {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
     }
   ]
 }
