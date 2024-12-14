@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734215999251,
+  "endTime": 1734218513212,
   "band_list": [
     {
       "raw_hot": 1271579,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365120,
+      "num": 365120,
+      "word": "年轻人开始反向驯化大数据杀熟",
+      "onboard_time": 1734195916,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345320,
       "num": 345320,
       "word": "北大教授因女儿痛经研发新药",
@@ -113,14 +121,6 @@
       "onboard_time": 1734190579,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 322617,
-      "num": 322617,
-      "word": "年轻人开始反向驯化大数据杀熟",
-      "onboard_time": 1734195916,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320979,
@@ -179,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227145,
+      "num": 227145,
+      "word": "樊振东恳请球迷们理解尊重",
+      "onboard_time": 1734218413,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223376,
       "num": 223376,
       "word": "吃播为引流吞下两斤纯肥肉",
       "onboard_time": 1734160517,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 214476,
+      "num": 214476,
+      "word": "何猷君说往北看都是大机遇",
+      "onboard_time": 1734183920,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 186061,
@@ -209,14 +225,6 @@
       "onboard_time": 1734165379,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169682,
-      "num": 169682,
-      "word": "何猷君说往北看都是大机遇",
-      "onboard_time": 1734183920,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 160149,
@@ -315,12 +323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120050,
+      "num": 120050,
+      "word": "祁天道事件暴露平台监管漏洞",
+      "onboard_time": 1734213430,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 115950,
       "num": 115950,
       "word": "丁禹兮销售战报",
       "onboard_time": 1734188361,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115423,
+      "num": 115423,
+      "word": "碰瓷中国大蒜的美国政客别太装蒜",
+      "onboard_time": 1734213970,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113531,
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82225,
+      "num": 82225,
+      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
+      "onboard_time": 1734209231,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80997,
       "num": 170019,
       "word": "孙颖莎加油声连绵不绝",
@@ -427,14 +459,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 73072,
-      "num": 73072,
-      "word": "祁天道事件暴露平台监管漏洞",
-      "onboard_time": 1734213430,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 72485,
       "num": 89532,
       "word": "鹿晗五哈5路透",
@@ -449,6 +473,14 @@
       "onboard_time": 1734196515,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65643,
+      "num": 65643,
+      "word": "韩国国会通过尹锡悦弹劾动议案",
+      "onboard_time": 1734172400,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 64779,
@@ -467,14 +499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60436,
-      "num": 60436,
-      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
-      "onboard_time": 1734209231,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60386,
       "num": 60386,
       "word": "李昀锐 笑容逐渐消失",
@@ -483,8 +507,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55465,
+      "num": 55465,
+      "word": "羽绒服里穿短袖真的更保暖吗",
+      "onboard_time": 1734214512,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50367,
-      "num": 50367,
+      "num": 68069,
       "word": "豹豹猫猫我出生了",
       "onboard_time": 1734181700,
       "rank": 28,
@@ -515,20 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41281,
+      "num": 41281,
+      "word": "以色列趁乱袭击叙利亚目的何在",
+      "onboard_time": 1734198134,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39818,
+      "num": 39818,
+      "word": "警方通报白血病患者被诈骗",
+      "onboard_time": 1734212592,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 38536,
       "num": 38536,
       "word": "张宁赛后哭了",
       "onboard_time": 1734198256,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34953,
-      "num": 34953,
-      "word": "以色列趁乱袭击叙利亚目的何在",
-      "onboard_time": 1734198134,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34283,
@@ -547,14 +587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33501,
-      "num": 33501,
-      "word": "韩国国会通过尹锡悦弹劾动议案",
-      "onboard_time": 1734172400,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32838,
       "num": 750012,
       "word": "天宫画展又双叒上新了",
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31010,
+      "num": 551204,
+      "word": "中央经济工作会议释放重磅信号",
+      "onboard_time": 1734180621,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30761,
       "num": 30761,
       "word": "明日方舟终末地",
@@ -579,27 +619,27 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27924,
-      "num": 31555,
-      "word": "警方通报白血病患者被诈骗",
-      "onboard_time": 1734212592,
-      "rank": 14,
-      "category": "辟谣/通报"
+      "raw_hot": 30109,
+      "num": 30109,
+      "word": "檀健次演技",
+      "onboard_time": 1734186381,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 26664,
-      "num": 551204,
-      "word": "中央经济工作会议释放重磅信号",
-      "onboard_time": 1734180621,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 27377,
+      "num": 31872,
+      "word": "北京朝阳站周日起通地铁",
+      "onboard_time": 1734210791,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 26542,
-      "num": 26542,
-      "word": "羽绒服里穿短袖真的更保暖吗",
-      "onboard_time": 1734214512,
-      "rank": 48,
+      "raw_hot": 26373,
+      "num": 29852,
+      "word": "走失18年儿子回家父母大摆宴席",
+      "onboard_time": 1734210432,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -611,14 +651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23815,
-      "num": 23815,
-      "word": "檀健次演技",
-      "onboard_time": 1734186381,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 23797,
       "num": 23797,
       "word": "宋亚轩在现在就出发的第一次",
@@ -627,20 +659,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23509,
-      "num": 31872,
-      "word": "北京朝阳站周日起通地铁",
-      "onboard_time": 1734210791,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20958,
-      "num": 20958,
-      "word": "碰瓷中国大蒜的美国政客别太装蒜",
-      "onboard_time": 1734213970,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 23155,
+      "num": 75993,
+      "word": "慈善配捐外衣下的庞氏骗局",
+      "onboard_time": 1734215952,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 19948,
@@ -659,28 +683,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16841,
-      "num": 28608,
-      "word": "走失18年儿子回家父母大摆宴席",
-      "onboard_time": 1734210432,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15599,
       "num": 42994,
       "word": "大熊猫星秋怡兰出发澳大利亚",
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14979,
-      "num": 29443,
-      "word": "慈善配捐外衣下的庞氏骗局",
-      "onboard_time": 1734215952,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 14371,
@@ -745,6 +753,14 @@
       "onboard_time": 1734213311,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8412,
+      "num": 52141,
+      "word": "家庭教师 云雀恭弥cos",
+      "onboard_time": 1734218353,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 8311,
