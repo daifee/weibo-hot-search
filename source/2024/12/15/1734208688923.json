@@ -1,0 +1,410 @@
+{
+  "runTime": 1734208688923,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 148208,
+        "num": 148208,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116635,
+        "num": 116635,
+        "word": "年轻人开始反向驯化大数据杀熟",
+        "onboard_time": 1734195916,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14840,
+        "num": 83015,
+        "word": "中央经济工作会议释放重磅信号",
+        "onboard_time": 1734180621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57703,
+        "num": 57703,
+        "word": "桃黑黑女寝皆是修罗场",
+        "onboard_time": 1734203053,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 55024,
+        "num": 55024,
+        "word": "53岁的于和伟演大学生就是赌",
+        "onboard_time": 1734188661,
+        "rank": 4,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 52486,
+        "num": 52486,
+        "word": "花5000元买3针九价HPV疫苗全是假的",
+        "onboard_time": 1734191479,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47470,
+        "num": 47470,
+        "word": "知情人透露代孕机构老板直系亲属是公安人员",
+        "onboard_time": 1734194418,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39710,
+        "num": 39710,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35683,
+        "num": 38328,
+        "word": "永夜星河热度",
+        "onboard_time": 1734186741,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15095,
+        "num": 37982,
+        "word": "韩国局势进展",
+        "onboard_time": 1734207311,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37848,
+        "num": 37848,
+        "word": "贾跃亭说再还七八亿就可以回国",
+        "onboard_time": 1734185602,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35226,
+        "num": 35226,
+        "word": "被草莓蛋糕带火的搪瓷盆已卖断货",
+        "onboard_time": 1734195677,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33035,
+        "num": 33035,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32995,
+        "num": 32995,
+        "word": "何猷君说往北看都是大机遇",
+        "onboard_time": 1734183920,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 32831,
+        "word": "杭州一执勤女骑警神似贾静雯",
+        "onboard_time": 1734191962,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30083,
+        "num": 30083,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29707,
+        "num": 29707,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27425,
+        "num": 27425,
+        "word": "张萌 我要团综",
+        "onboard_time": 1734186982,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28738,
+        "num": 27316,
+        "word": "腾讯八部热度破30000剧集",
+        "onboard_time": 1734188480,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26346,
+        "num": 26346,
+        "word": "鹿晗五哈5路透",
+        "onboard_time": 1734199573,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26266,
+        "num": 26266,
+        "word": "穿袜子睡觉会减少夜醒次数",
+        "onboard_time": 1734190579,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24666,
+        "num": 24666,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1734181700,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24125,
+        "num": 24125,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23570,
+        "num": 23570,
+        "word": "早睡其实什么都不会失去",
+        "onboard_time": 1734184641,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23035,
+        "num": 23035,
+        "word": "反复评论机票太贵能便宜2000多",
+        "onboard_time": 1734191360,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22648,
+        "num": 22648,
+        "word": "周密直播",
+        "onboard_time": 1734186499,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21655,
+        "num": 21655,
+        "word": "7种食物要焯水后再吃",
+        "onboard_time": 1734191719,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20750,
+        "num": 20750,
+        "word": "樊振东林诗栋高手过招好精彩",
+        "onboard_time": 1734192800,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20431,
+        "num": 20431,
+        "word": "左奇函 王源",
+        "onboard_time": 1734182362,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20258,
+        "num": 20258,
+        "word": "韩国总统弹劾案通过后会发生什么",
+        "onboard_time": 1734202333,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20058,
+        "num": 20058,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20051,
+        "num": 20051,
+        "word": "阿森纳vs埃弗顿",
+        "onboard_time": 1734196515,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19735,
+        "num": 19735,
+        "word": "38岁抗癌博主二次复发时前夫提离婚",
+        "onboard_time": 1734184702,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19714,
+        "num": 19714,
+        "word": "现在拨打的电话第六集",
+        "onboard_time": 1734187101,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19652,
+        "num": 19652,
+        "word": "张元英首个中国封面",
+        "onboard_time": 1734178761,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18761,
+        "num": 18761,
+        "word": "成都的炸土豆已经进化成这样了吗",
+        "onboard_time": 1734184763,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17537,
+        "num": 17537,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17392,
+        "num": 17392,
+        "word": "老瓦杯",
+        "onboard_time": 1734184522,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16753,
+        "num": 17392,
+        "word": "杨幂唐嫣刘诗诗嘉人同框",
+        "onboard_time": 1734180921,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 16621,
+        "num": 17392,
+        "word": "孔雪儿九重紫婚礼crush文学",
+        "onboard_time": 1734189681,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16617,
+        "num": 17392,
+        "word": "网红婚纱男模阿冼被曝车祸去世",
+        "onboard_time": 1734176180,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15699,
+        "num": 17391,
+        "word": "韩国国会通过尹锡悦弹劾动议案",
+        "onboard_time": 1734172400,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15599,
+        "num": 17391,
+        "word": "大熊猫星秋怡兰出发澳大利亚",
+        "onboard_time": 1734204192,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15573,
+        "num": 17390,
+        "word": "丁禹兮胸肌",
+        "onboard_time": 1734172759,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15551,
+        "num": 17390,
+        "word": "埃文凯尔没想到纪念馆建在万人坑上",
+        "onboard_time": 1734200532,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15388,
+        "num": 17390,
+        "word": "李昀锐发红包",
+        "onboard_time": 1734202814,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14900,
+        "num": 17390,
+        "word": "明日方舟终末地",
+        "onboard_time": 1734201193,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14371,
+        "num": 17389,
+        "word": "李雯雯去看张远演唱会了",
+        "onboard_time": 1734207851,
+        "rank": 47,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 14350,
+        "num": 17389,
+        "word": "虞书欣好强大的心脏",
+        "onboard_time": 1734180440,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13980,
+        "num": 17389,
+        "word": "檀健次演技",
+        "onboard_time": 1734186381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  }
+}
