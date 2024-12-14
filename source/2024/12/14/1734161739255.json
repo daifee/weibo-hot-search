@@ -1,0 +1,410 @@
+{
+  "runTime": 1734161739255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1163566,
+        "num": 1186170,
+        "word": "灵犀互娱",
+        "onboard_time": 1734159558,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 896776,
+        "num": 896776,
+        "word": "谁来管管猎罪图鉴2的弹幕",
+        "onboard_time": 1734159017,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30479,
+        "num": 648399,
+        "word": "一组图了解五谷的前世今生",
+        "onboard_time": 1734148880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1116709,
+        "num": 640840,
+        "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
+        "onboard_time": 1734158478,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 581751,
+        "num": 581751,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554961,
+        "num": 554961,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484251,
+        "num": 484251,
+        "word": "窦昭你别把宋墨摸爽了",
+        "onboard_time": 1734157639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340259,
+        "num": 340259,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 327446,
+        "num": 327446,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239006,
+        "num": 327147,
+        "word": "女性可能出现圣诞树式脱发",
+        "onboard_time": 1734154638,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 425805,
+        "num": 326782,
+        "word": "霉霉巡演结束发了14亿奖金",
+        "onboard_time": 1734158059,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 468837,
+        "num": 326636,
+        "word": "孟子义李昀锐超话换情头",
+        "onboard_time": 1734156738,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59028,
+        "num": 326207,
+        "word": "韩国国会今天下午表决尹锡悦弹劾动议案",
+        "onboard_time": 1734160698,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96256,
+        "num": 325880,
+        "word": "线上值机选座发现好座位全被锁了",
+        "onboard_time": 1734161597,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54416,
+        "num": 325465,
+        "word": "中老年人开始攻占演唱会市场",
+        "onboard_time": 1734160099,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296445,
+        "num": 325090,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 325030,
+        "num": 325030,
+        "word": "湖南卫视跨年首波阵容",
+        "onboard_time": 1734148281,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194347,
+        "num": 312924,
+        "word": "我是刑警刀我别用现实刀",
+        "onboard_time": 1734160877,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306505,
+        "num": 306505,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 42878,
+        "num": 285826,
+        "word": "律师解读游客与猴子打架是否违法",
+        "onboard_time": 1734160458,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281243,
+        "num": 281243,
+        "word": "NewJeans开通新ins账号",
+        "onboard_time": 1734155539,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261364,
+        "num": 261364,
+        "word": "孙茜老公抱着羽绒服接机",
+        "onboard_time": 1734156378,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214922,
+        "num": 214922,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213933,
+        "num": 213933,
+        "word": "33岁小伙靠路边捡瓶子补贴生活",
+        "onboard_time": 1734154518,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193966,
+        "num": 213820,
+        "word": "四级抽到了最简单的一套",
+        "onboard_time": 1734158178,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72688,
+        "num": 213545,
+        "word": "NewJeans请kpop粉丝吃饭",
+        "onboard_time": 1734161417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70787,
+        "num": 213374,
+        "word": "朴彩英晒与EvanMock合照",
+        "onboard_time": 1734154759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36134,
+        "num": 212919,
+        "word": "学习真的会长脑子",
+        "onboard_time": 1734160998,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16519,
+        "num": 212764,
+        "word": "对话打假博主大娃",
+        "onboard_time": 1734160037,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212592,
+        "num": 212592,
+        "word": "李维嘉一出场就爆梗",
+        "onboard_time": 1734158059,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335476,
+        "num": 211882,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207025,
+        "num": 207025,
+        "word": "富大龙无声哭戏",
+        "onboard_time": 1734160099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200298,
+        "num": 200298,
+        "word": "名侦探学院8 口号抄袭",
+        "onboard_time": 1734158478,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198815,
+        "num": 198815,
+        "word": "山东鲁能三连败",
+        "onboard_time": 1734159078,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195630,
+        "num": 195630,
+        "word": "张真源 孟子义李昀锐专属水印",
+        "onboard_time": 1734159379,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76042,
+        "num": 184671,
+        "word": "当黑神话悟空遇上双语说唱",
+        "onboard_time": 1734159738,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 182747,
+        "num": 182747,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181450,
+        "num": 181450,
+        "word": "丁禹兮现代戏演技",
+        "onboard_time": 1734160877,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9084,
+        "num": 180959,
+        "word": "用非遗刺绣复刻vivoS20凤羽金",
+        "onboard_time": 1734159438,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33675,
+        "num": 180933,
+        "word": "石雷鹏六级作文预测",
+        "onboard_time": 1734160578,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180912,
+        "num": 180912,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178706,
+        "num": 178706,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177585,
+        "num": 177585,
+        "word": "徐艺洋版99次我爱他",
+        "onboard_time": 1734161058,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164388,
+        "num": 164388,
+        "word": "悟空被压了几百年都没黑化",
+        "onboard_time": 1734160937,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157665,
+        "num": 157665,
+        "word": "张子墨确认参加浙江卫视跨年",
+        "onboard_time": 1734161597,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137085,
+        "num": 137085,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136582,
+        "num": 136582,
+        "word": "29岁自律女人在农村高能量的一天",
+        "onboard_time": 1734158059,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130812,
+        "num": 130812,
+        "word": "张雨绮 嘉人",
+        "onboard_time": 1734159197,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125092,
+        "num": 125092,
+        "word": "人民网评猎罪图鉴2升级猎心",
+        "onboard_time": 1734157037,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121730,
+        "num": 121730,
+        "word": "RNG官宣Ming恢复自由人身份",
+        "onboard_time": 1734153798,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴澳门#"
+    }
+  }
+}
