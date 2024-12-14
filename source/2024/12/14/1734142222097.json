@@ -1,0 +1,410 @@
+{
+  "runTime": 1734142222097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1854475,
+        "num": 1854475,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1089500,
+        "num": 1089500,
+        "word": "切尔诺贝利周边的狗已变异",
+        "onboard_time": 1734121871,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42121,
+        "num": 902710,
+        "word": "2025年经济工作怎么干",
+        "onboard_time": 1734099320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 855588,
+        "num": 855588,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795408,
+        "num": 795408,
+        "word": "金价",
+        "onboard_time": 1734139698,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 730769,
+        "num": 730769,
+        "word": "外卖店被曝在厕所洗鱼多方回应",
+        "onboard_time": 1734136638,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 709909,
+        "num": 709909,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 601165,
+        "num": 601165,
+        "word": "金价深夜跳水",
+        "onboard_time": 1734136397,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 477110,
+        "num": 477110,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249364,
+        "num": 360090,
+        "word": "叙多位科学家遇害研究成果一并消失",
+        "onboard_time": 1734101479,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 353066,
+        "num": 353066,
+        "word": "网红老师曝被前夫爸爸家暴殴打",
+        "onboard_time": 1734132134,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 328068,
+        "num": 328068,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263062,
+        "num": 263062,
+        "word": "5个爸爸直播跳舞救癌症孩子赚100万",
+        "onboard_time": 1734126671,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258748,
+        "num": 258748,
+        "word": "肖奈 古风小生",
+        "onboard_time": 1734137538,
+        "rank": 13,
+        "category": "剧集,读书作家"
+      },
+      {
+        "raw_hot": 244800,
+        "num": 244800,
+        "word": "四六级",
+        "onboard_time": 1734132675,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229908,
+        "num": 229908,
+        "word": "德法英支持乌克兰加入北约",
+        "onboard_time": 1734136578,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193813,
+        "num": 193813,
+        "word": "长安二十四计",
+        "onboard_time": 1734141198,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192148,
+        "num": 192148,
+        "word": "被举报邻居称全家已无人享受低保",
+        "onboard_time": 1734110414,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169456,
+        "num": 169456,
+        "word": "南方昼夜温差或超15摄氏度",
+        "onboard_time": 1734136938,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40396,
+        "num": 165307,
+        "word": "尹锡悦弹劾案今天表决",
+        "onboard_time": 1734141919,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354563,
+        "num": 163953,
+        "word": "92年宝妈已经生了9个娃且还想生",
+        "onboard_time": 1734132134,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161165,
+        "num": 161165,
+        "word": "12月15日起全面实施个人养老金制度",
+        "onboard_time": 1734125712,
+        "rank": 21,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 160842,
+        "num": 160842,
+        "word": "这些水果其实是高糖刺客",
+        "onboard_time": 1734132916,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 157663,
+        "word": "艺考前十天被抱摔骨折",
+        "onboard_time": 1734095780,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50788,
+        "num": 156074,
+        "word": "四六级宝子们加油",
+        "onboard_time": 1734137836,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 386794,
+        "num": 155778,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155362,
+        "num": 155362,
+        "word": "赵露思恋人阮妤天台路透",
+        "onboard_time": 1734138377,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155302,
+        "num": 155302,
+        "word": "国色芳华看片反馈",
+        "onboard_time": 1734135736,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152983,
+        "num": 152983,
+        "word": "斗鱼向大学生索赔案仲裁结果出炉",
+        "onboard_time": 1734139518,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 136198,
+        "num": 146417,
+        "word": "个人养老金开户领取全流程指南",
+        "onboard_time": 1734141919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189601,
+        "num": 145286,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155531,
+        "num": 144424,
+        "word": "mlxg谈RNG还款",
+        "onboard_time": 1734141377,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143090,
+        "num": 143090,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134884,
+        "num": 143002,
+        "word": "谁给李昀锐递个纨绔世子本",
+        "onboard_time": 1734138618,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142971,
+        "num": 142971,
+        "word": "被曝在厕所洗鱼外卖店已停业整顿",
+        "onboard_time": 1734138497,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116941,
+        "num": 140589,
+        "word": "佩洛西受伤被送医",
+        "onboard_time": 1734139939,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139614,
+        "num": 139614,
+        "word": "看3个部位就能辨别气血是否充足",
+        "onboard_time": 1734130393,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136718,
+        "num": 136718,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 136264,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734139759,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136188,
+        "num": 136188,
+        "word": "猎罪图鉴2已经是nextlevel了",
+        "onboard_time": 1734101899,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 135368,
+        "word": "微博之夜",
+        "onboard_time": 1734102200,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135330,
+        "num": 135330,
+        "word": "难哄",
+        "onboard_time": 1734101840,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134974,
+        "num": 134974,
+        "word": "董洁因儿子青春期崩溃",
+        "onboard_time": 1734094099,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 134705,
+        "word": "赵今麦茉莉青提",
+        "onboard_time": 1734135076,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127031,
+        "num": 127031,
+        "word": "曝湖南卫视跨年嘉宾名单",
+        "onboard_time": 1734097339,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126916,
+        "num": 126916,
+        "word": "表兄妹隐瞒亲属关系结婚21年",
+        "onboard_time": 1734105438,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125274,
+        "num": 125274,
+        "word": "崔永熙赛季报销",
+        "onboard_time": 1734135437,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120896,
+        "num": 120896,
+        "word": "种地吧直播",
+        "onboard_time": 1734133816,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113864,
+        "num": 113864,
+        "word": "秦岚郑业成隐娘过审下证",
+        "onboard_time": 1734134476,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111951,
+        "num": 111951,
+        "word": "李昊说大东北都快给我热中暑啦",
+        "onboard_time": 1734142037,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂2024年中央经济工作会议#"
+    }
+  }
+}

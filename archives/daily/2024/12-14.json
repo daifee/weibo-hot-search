@@ -1,10 +1,10 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734140872228,
+  "endTime": 1734142222097,
   "band_list": [
     {
-      "raw_hot": 1486036,
-      "num": 1486036,
+      "raw_hot": 1854475,
+      "num": 1854475,
       "word": "再见爱人 恐怖",
       "onboard_time": 1734139578,
       "rank": 0,
@@ -51,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 795408,
+      "num": 795408,
+      "word": "金价",
+      "onboard_time": 1734139698,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 795350,
       "num": 340440,
       "word": "艺考前十天被抱摔骨折",
       "onboard_time": 1734095780,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730769,
+      "num": 730769,
+      "word": "外卖店被曝在厕所洗鱼多方回应",
+      "onboard_time": 1734136638,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 724788,
@@ -81,14 +97,6 @@
       "onboard_time": 1734136397,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 672942,
-      "num": 672942,
-      "word": "外卖店被曝在厕所洗鱼多方回应",
-      "onboard_time": 1734136638,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 622171,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386794,
+      "num": 301108,
+      "word": "灵犀互娱称如鸢从未有女性向标签",
+      "onboard_time": 1734137656,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 384441,
       "num": 205517,
       "word": "92年宝妈已经生了9个娃且还想生",
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328068,
+      "num": 328068,
+      "word": "和张大大谈过恋爱的明星是歌手",
+      "onboard_time": 1734140899,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321820,
       "num": 321820,
       "word": "现在拨打的电话",
       "onboard_time": 1734099439,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301108,
-      "num": 301108,
-      "word": "灵犀互娱称如鸢从未有女性向标签",
-      "onboard_time": 1734137656,
-      "rank": 10,
-      "category": "游戏"
     },
     {
       "raw_hot": 292675,
@@ -211,8 +227,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 236568,
-      "num": 236568,
+      "raw_hot": 258748,
+      "num": 258748,
       "word": "肖奈 古风小生",
       "onboard_time": 1734137538,
       "rank": 14,
@@ -225,6 +241,14 @@
       "onboard_time": 1734110414,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229908,
+      "num": 229908,
+      "word": "德法英支持乌克兰加入北约",
+      "onboard_time": 1734136578,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 222959,
@@ -243,28 +267,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 211577,
-      "num": 211577,
-      "word": "金价",
-      "onboard_time": 1734139698,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207323,
       "num": 110099,
       "word": "代号鸢",
       "onboard_time": 1734096979,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205123,
-      "num": 205123,
-      "word": "德法英支持乌克兰加入北约",
-      "onboard_time": 1734136578,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 203644,
@@ -283,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193813,
+      "num": 193813,
+      "word": "长安二十四计",
+      "onboard_time": 1734141198,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "这些水果其实是高糖刺客",
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189601,
+      "num": 145286,
+      "word": "女子家宴吃出1颗罕见橘色海螺珠",
+      "onboard_time": 1734141679,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189217,
       "num": 189217,
       "word": "QQ音乐 装扮",
@@ -313,6 +337,14 @@
       "onboard_time": 1734138497,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 169456,
+      "num": 169456,
+      "word": "南方昼夜温差或超15摄氏度",
+      "onboard_time": 1734136938,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168661,
@@ -337,6 +369,22 @@
       "onboard_time": 1734108317,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155531,
+      "num": 144424,
+      "word": "mlxg谈RNG还款",
+      "onboard_time": 1734141377,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155362,
+      "num": 155362,
+      "word": "赵露思恋人阮妤天台路透",
+      "onboard_time": 1734138377,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 155171,
@@ -379,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143090,
+      "num": 143090,
+      "word": "俄高级导弹科学家被乌方暗杀",
+      "onboard_time": 1734141979,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141949,
       "num": 148651,
       "word": "看3个部位就能辨别气血是否充足",
@@ -387,28 +443,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136718,
+      "num": 136718,
+      "word": "四级",
+      "onboard_time": 1734136277,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 146417,
+      "word": "个人养老金开户领取全流程指南",
+      "onboard_time": 1734141919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134884,
+      "num": 143002,
+      "word": "谁给李昀锐递个纨绔世子本",
+      "onboard_time": 1734138618,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "种地吧直播",
       "onboard_time": 1734133816,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134206,
-      "num": 134206,
-      "word": "赵露思恋人阮妤天台路透",
-      "onboard_time": 1734138377,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 132698,
-      "num": 132698,
-      "word": "谁给李昀锐递个纨绔世子本",
-      "onboard_time": 1734138618,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 132358,
@@ -483,12 +547,36 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117108,
+      "num": 136264,
+      "word": "庆祝澳门回归祖国25周年大会",
+      "onboard_time": 1734139759,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 116941,
+      "num": 252299,
+      "word": "佩洛西受伤被送医",
+      "onboard_time": 1734139939,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114495,
       "num": 114495,
       "word": "菜鸟APP被恶意刷差评",
       "onboard_time": 1734139097,
       "rank": 44,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 111951,
+      "num": 111951,
+      "word": "李昊说大东北都快给我热中暑啦",
+      "onboard_time": 1734142037,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 110909,
@@ -547,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105264,
-      "num": 105264,
-      "word": "四级",
-      "onboard_time": 1734136277,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 105173,
       "num": 105173,
       "word": "QQ音乐回应装扮问题",
@@ -563,36 +643,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104700,
-      "num": 252299,
-      "word": "佩洛西受伤被送医",
-      "onboard_time": 1734139939,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 104008,
-      "num": 104008,
-      "word": "庆祝澳门回归祖国25周年大会",
-      "onboard_time": 1734139759,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103274,
       "num": 103274,
       "word": "王楚钦vs安宰贤",
       "onboard_time": 1734089960,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98455,
-      "num": 154127,
-      "word": "南方昼夜温差或超15摄氏度",
-      "onboard_time": 1734136938,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98449,
@@ -795,6 +851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50788,
+      "num": 156074,
+      "word": "四六级宝子们加油",
+      "onboard_time": 1734137836,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48767,
       "num": 61320,
       "word": "赵丽颖黑粉说自我检讨和忏悔",
@@ -865,6 +929,14 @@
       "onboard_time": 1734108616,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40396,
+      "num": 165307,
+      "word": "尹锡悦弹劾案今天表决",
+      "onboard_time": 1734141919,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38430,
