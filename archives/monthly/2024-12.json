@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734150489740,
+  "endTime": 1734151350835,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -4827,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713333,
+      "num": 713333,
+      "word": "朴灿烈欧阳娜娜将合作",
+      "onboard_time": 1734149299,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 713130,
       "num": 713130,
       "word": "刚果金近百人死于不明疾病",
@@ -5705,6 +5713,14 @@
       "onboard_time": 1733981841,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 632055,
+      "num": 632055,
+      "word": "湖南卫视跨年首波阵容",
+      "onboard_time": 1734148281,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 631708,
@@ -6929,14 +6945,6 @@
       "onboard_time": 1733570301,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 547456,
-      "num": 547456,
-      "word": "朴灿烈欧阳娜娜将合作",
-      "onboard_time": 1734149299,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 547404,
@@ -9355,14 +9363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429774,
-      "num": 429774,
-      "word": "湖南卫视跨年首波阵容",
-      "onboard_time": 1734148281,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 428731,
       "num": 317438,
       "word": "在鹤岗全款5万50平米的小家",
@@ -11099,6 +11099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361146,
+      "num": 361146,
+      "word": "84岁佩洛西从楼梯摔下臀部受伤",
+      "onboard_time": 1734150018,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 361020,
       "num": 361020,
       "word": "狐妖小红娘竹业篇改名",
@@ -11355,6 +11363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 353948,
+      "num": 582450,
+      "word": "小太阳放进被窝把家烧了",
+      "onboard_time": 1734149420,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353645,
       "num": 353645,
       "word": "丁禹兮直播",
@@ -11393,6 +11409,14 @@
       "onboard_time": 1733822599,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352605,
+      "num": 433703,
+      "word": "六级预测",
+      "onboard_time": 1734149299,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 352600,
@@ -11529,6 +11553,14 @@
       "onboard_time": 1733583082,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346849,
+      "num": 420044,
+      "word": "时代峰峻发声明",
+      "onboard_time": 1734149181,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 346752,
@@ -12249,14 +12281,6 @@
       "onboard_time": 1733483480,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 326771,
-      "num": 420044,
-      "word": "时代峰峻发声明",
-      "onboard_time": 1734149181,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 326673,
@@ -13875,14 +13899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284034,
-      "num": 284034,
-      "word": "84岁佩洛西从楼梯摔下臀部受伤",
-      "onboard_time": 1734150018,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 283870,
       "num": 283870,
       "word": "沈腾王安宇情头",
@@ -13953,14 +13969,6 @@
       "onboard_time": 1733308763,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282349,
-      "num": 433703,
-      "word": "六级预测",
-      "onboard_time": 1734149299,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 282168,
@@ -15193,14 +15201,6 @@
       "onboard_time": 1733124258,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253306,
-      "num": 582450,
-      "word": "小太阳放进被窝把家烧了",
-      "onboard_time": 1734149420,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253274,
@@ -17915,6 +17915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214118,
+      "num": 295941,
+      "word": "四级段落匹配好难",
+      "onboard_time": 1734150800,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214052,
       "num": 283247,
       "word": "国产老剧被AI爆改得像中毒了",
@@ -18433,6 +18441,14 @@
       "onboard_time": 1733110999,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208667,
+      "num": 208667,
+      "word": "新能源汽车 new car",
+      "onboard_time": 1734150859,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 208650,
@@ -19515,6 +19531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200492,
+      "num": 200492,
+      "word": "博士回应英语四级考了15次没过",
+      "onboard_time": 1734149959,
+      "rank": 44,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 200447,
       "num": 200447,
       "word": "混团世界杯半决赛",
@@ -20145,6 +20169,14 @@
       "onboard_time": 1733462660,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 196110,
+      "num": 196110,
+      "word": "梁伟铿回应世界第一无缘总决赛",
+      "onboard_time": 1734150680,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 195940,
@@ -24595,14 +24627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 167069,
-      "num": 167069,
-      "word": "博士回应英语四级考了15次没过",
-      "onboard_time": 1734149959,
-      "rank": 44,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 167046,
       "num": 296086,
       "word": "我是刑警第10个恶性大案",
@@ -25067,6 +25091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 164263,
+      "num": 164263,
+      "word": "四级作文传统文化",
+      "onboard_time": 1734150500,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164207,
       "num": 164207,
       "word": "王楚钦画的是海贼王路飞",
@@ -25081,6 +25113,14 @@
       "onboard_time": 1733909062,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163860,
+      "num": 416436,
+      "word": "成毅长安二十四计",
+      "onboard_time": 1734147859,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163782,
@@ -26091,6 +26131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157317,
+      "num": 157317,
+      "word": "个人房贷提前还款现象明显减少",
+      "onboard_time": 1734151278,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "谭松韵回成都拍了蜀风照",
@@ -26441,6 +26489,14 @@
       "onboard_time": 1733439555,
       "rank": 30,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 155588,
+      "num": 242020,
+      "word": "浙江卫视跨年嘉宾推荐组招人了",
+      "onboard_time": 1734150680,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 155584,
@@ -27561,6 +27617,14 @@
       "onboard_time": 1734065180,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149389,
+      "num": 355746,
+      "word": "昭昭墨墨大婚喜帖",
+      "onboard_time": 1734150680,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 149375,
@@ -28985,14 +29049,6 @@
       "onboard_time": 1733018716,
       "rank": 9,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 140510,
-      "num": 416436,
-      "word": "成毅长安二十四计",
-      "onboard_time": 1734147859,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 140472,
@@ -37403,6 +37459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73694,
+      "num": 241830,
+      "word": "教育局回应5岁男童遭老师虐待孤立",
+      "onboard_time": 1734150859,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 73667,
       "num": 281959,
       "word": "无锡一地十几年没通自来水",
@@ -40123,6 +40187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52555,
+      "num": 1762219,
+      "word": "一组图了解五谷的前世今生",
+      "onboard_time": 1734148880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52406,
       "num": 52406,
       "word": "麦子阿姨纪录片",
@@ -41811,14 +41883,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 41778,
-      "num": 1762219,
-      "word": "一组图了解五谷的前世今生",
-      "onboard_time": 1734148880,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41699,
       "num": 41699,
       "word": "马嘉祺清唱蜉蝣和蜚蜚",
@@ -42841,6 +42905,14 @@
       "onboard_time": 1733213959,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35974,
+      "num": 416415,
+      "word": "林诗栋3比1孙闻",
+      "onboard_time": 1734149900,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 35938,
@@ -44267,14 +44339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29356,
-      "num": 416415,
-      "word": "林诗栋3比1孙闻",
-      "onboard_time": 1734149900,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29349,
       "num": 406724,
       "word": "陈小春黄子弘凡林智乐蝶变",
@@ -44513,6 +44577,14 @@
       "onboard_time": 1733871435,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27482,
+      "num": 364743,
+      "word": "起底卖惨营销背后的产业链",
+      "onboard_time": 1734150500,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27393,

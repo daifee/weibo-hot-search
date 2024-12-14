@@ -1,0 +1,410 @@
+{
+  "runTime": 1734151350835,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6380841,
+        "num": 6380841,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1776296,
+        "num": 1776296,
+        "word": "四级作文",
+        "onboard_time": 1734145818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52555,
+        "num": 1354335,
+        "word": "一组图了解五谷的前世今生",
+        "onboard_time": 1734148880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1191978,
+        "num": 1191978,
+        "word": "submission又见面了",
+        "onboard_time": 1734148401,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 979415,
+        "num": 979415,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 829689,
+        "num": 829689,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713333,
+        "num": 713333,
+        "word": "朴灿烈欧阳娜娜将合作",
+        "onboard_time": 1734149299,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 632055,
+        "num": 632055,
+        "word": "湖南卫视跨年首波阵容",
+        "onboard_time": 1734148281,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 630317,
+        "num": 630317,
+        "word": "艺考前被抱摔骨折当事人回应",
+        "onboard_time": 1734146298,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 353948,
+        "num": 522957,
+        "word": "小太阳放进被窝把家烧了",
+        "onboard_time": 1734149420,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520965,
+        "num": 520965,
+        "word": "陈乔恩被自己的婚纱照美到了",
+        "onboard_time": 1734137598,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439911,
+        "num": 439911,
+        "word": "冰俪幂诗唐妮",
+        "onboard_time": 1734144618,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 424823,
+        "num": 424823,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410269,
+        "num": 410269,
+        "word": "四级阅读",
+        "onboard_time": 1734147921,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27482,
+        "num": 364743,
+        "word": "起底卖惨营销背后的产业链",
+        "onboard_time": 1734150500,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 362326,
+        "num": 362326,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361146,
+        "num": 361146,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149389,
+        "num": 355746,
+        "word": "昭昭墨墨大婚喜帖",
+        "onboard_time": 1734150680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354734,
+        "num": 354734,
+        "word": "四级翻译",
+        "onboard_time": 1734146898,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352605,
+        "num": 352605,
+        "word": "六级预测",
+        "onboard_time": 1734149299,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346849,
+        "num": 346849,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330694,
+        "num": 330694,
+        "word": "和张大大谈过恋爱的明星是歌手",
+        "onboard_time": 1734140899,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329761,
+        "num": 329761,
+        "word": "时代峰峻",
+        "onboard_time": 1734146357,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316659,
+        "num": 316659,
+        "word": "朝鲜特种部队协助俄罗斯作战",
+        "onboard_time": 1734143718,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214118,
+        "num": 295941,
+        "word": "四级段落匹配好难",
+        "onboard_time": 1734150800,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290142,
+        "num": 290142,
+        "word": "鹿晗 主唱出道开口就是不一样",
+        "onboard_time": 1734146658,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261786,
+        "num": 261786,
+        "word": "俄高级导弹科学家被乌方暗杀",
+        "onboard_time": 1734141979,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242276,
+        "num": 242276,
+        "word": "四级听力我恨你",
+        "onboard_time": 1734148160,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155588,
+        "num": 242020,
+        "word": "浙江卫视跨年嘉宾推荐组招人了",
+        "onboard_time": 1734150680,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73694,
+        "num": 241830,
+        "word": "教育局回应5岁男童遭老师虐待孤立",
+        "onboard_time": 1734150859,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35974,
+        "num": 241377,
+        "word": "林诗栋3比1孙闻",
+        "onboard_time": 1734149900,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694225,
+        "num": 241276,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241038,
+        "num": 241038,
+        "word": "朱丹吃了40多年鸡蛋才发现过敏",
+        "onboard_time": 1734106039,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221180,
+        "num": 221180,
+        "word": "斗鱼索赔大学生600万获赔2万",
+        "onboard_time": 1734147859,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217929,
+        "num": 217929,
+        "word": "金价深夜跳水",
+        "onboard_time": 1734136397,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214809,
+        "num": 214809,
+        "word": "如鸢官方回应",
+        "onboard_time": 1734143178,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208748,
+        "num": 208748,
+        "word": "金晨孙阳二搭演骗子情侣",
+        "onboard_time": 1734146779,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208667,
+        "num": 208667,
+        "word": "新能源汽车 new car",
+        "onboard_time": 1734150859,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204475,
+        "num": 204475,
+        "word": "女友放弃省考小伙想追责网约车司机",
+        "onboard_time": 1734143238,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200492,
+        "num": 200492,
+        "word": "博士回应英语四级考了15次没过",
+        "onboard_time": 1734149959,
+        "rank": 39,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 196110,
+        "num": 196110,
+        "word": "梁伟铿回应世界第一无缘总决赛",
+        "onboard_time": 1734150680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193551,
+        "num": 193551,
+        "word": "四级翻译莫高窟",
+        "onboard_time": 1734148880,
+        "rank": 41,
+        "category": "教育,读书作家"
+      },
+      {
+        "raw_hot": 181243,
+        "num": 181243,
+        "word": "92年宝妈已经生了9个娃且还想生",
+        "onboard_time": 1734132134,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173994,
+        "num": 173994,
+        "word": "奥斯卡孙乐言定情新歌",
+        "onboard_time": 1734145517,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "整个衣柜里都是聚酯纤维的无力感",
+        "onboard_time": 1734144559,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "四级作文传统文化",
+        "onboard_time": 1734150500,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163860,
+        "num": 163860,
+        "word": "成毅长安二十四计",
+        "onboard_time": 1734147859,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158396,
+        "num": 158396,
+        "word": "2025LPL新赛制",
+        "onboard_time": 1734148761,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101856,
+        "num": 157794,
+        "word": "国色芳华过审",
+        "onboard_time": 1734145999,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157317,
+        "num": 157317,
+        "word": "个人房贷提前还款现象明显减少",
+        "onboard_time": 1734151278,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一图读懂2024年中央经济工作会议#"
+    }
+  }
+}
