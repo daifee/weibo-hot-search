@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734208688923,
+  "endTime": 1734211268250,
   "band_list": [
     {
       "raw_hot": 1271579,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34130,
+      "num": 34130,
+      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
+      "onboard_time": 1734209231,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33501,
       "num": 33501,
       "word": "韩国国会通过尹锡悦弹劾动议案",
@@ -595,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19948,
+      "num": 37982,
+      "word": "韩国局势进展",
+      "onboard_time": 1734207311,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
@@ -609,14 +625,6 @@
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15095,
-      "num": 37982,
-      "word": "韩国局势进展",
-      "onboard_time": 1734207311,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14371,
@@ -665,6 +673,22 @@
       "onboard_time": 1734206232,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 17202,
+      "word": "走失18年儿子回家父母大摆宴席",
+      "onboard_time": 1734210432,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10006,
+      "num": 31872,
+      "word": "北京朝阳站周日起通地铁",
+      "onboard_time": 1734210791,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8311,
