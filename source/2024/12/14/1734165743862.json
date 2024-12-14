@@ -1,0 +1,410 @@
+{
+  "runTime": 1734165743862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2577862,
+        "num": 2577862,
+        "word": "尹锡悦总统职务立即停止",
+        "onboard_time": 1734163578,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2307363,
+        "num": 2307363,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33374,
+        "num": 1068301,
+        "word": "一组图了解五谷的前世今生",
+        "onboard_time": 1734148880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1033816,
+        "num": 1033816,
+        "word": "女生买奶茶放冰箱隔天能用手拎起来",
+        "onboard_time": 1734164239,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661562,
+        "num": 661562,
+        "word": "谁来管管猎罪图鉴2的弹幕",
+        "onboard_time": 1734159017,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649787,
+        "num": 649787,
+        "word": "尹锡悦弹劾案通过",
+        "onboard_time": 1734163519,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 498837,
+        "num": 498837,
+        "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
+        "onboard_time": 1734158478,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 453463,
+        "num": 453463,
+        "word": "何超莲人脉",
+        "onboard_time": 1734163157,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443939,
+        "num": 443939,
+        "word": "再见爱人 恐怖",
+        "onboard_time": 1734139578,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104963,
+        "num": 405609,
+        "word": "幸福者避让原则为什么越来越流行",
+        "onboard_time": 1734164239,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402186,
+        "num": 402186,
+        "word": "四级抽到了最简单的一套",
+        "onboard_time": 1734158178,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367353,
+        "num": 367353,
+        "word": "甄嬛传晚会陈建斌又要头疼了",
+        "onboard_time": 1734164418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323903,
+        "num": 323903,
+        "word": "女子与男友亲密时刻被台球厅直播",
+        "onboard_time": 1734163578,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315709,
+        "num": 315709,
+        "word": "84岁佩洛西从楼梯摔下臀部受伤",
+        "onboard_time": 1734150018,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 301798,
+        "num": 301798,
+        "word": "孟子义李昀锐超话换情头",
+        "onboard_time": 1734156738,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266877,
+        "num": 266877,
+        "word": "四级答案",
+        "onboard_time": 1734147439,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229090,
+        "num": 229090,
+        "word": "乐言自曝月薪5万",
+        "onboard_time": 1734138018,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79317,
+        "num": 228646,
+        "word": "印度悬疑复仇片的佳作典范",
+        "onboard_time": 1734163458,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165805,
+        "num": 218543,
+        "word": "孙乐言回应奥斯卡表白歌",
+        "onboard_time": 1734162858,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113056,
+        "num": 213714,
+        "word": "车厘子到港在船上就卖了",
+        "onboard_time": 1734164059,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244152,
+        "num": 208653,
+        "word": "霉霉巡演结束发了14亿奖金",
+        "onboard_time": 1734158059,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 255524,
+        "num": 202544,
+        "word": "张真源 孟子义李昀锐专属水印",
+        "onboard_time": 1734159379,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198996,
+        "num": 198996,
+        "word": "四级",
+        "onboard_time": 1734136277,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198270,
+        "num": 198270,
+        "word": "TFING官宣浙江卫视跨年",
+        "onboard_time": 1734165498,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129725,
+        "num": 197437,
+        "word": "iG全神班德杯首战",
+        "onboard_time": 1734165440,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196727,
+        "num": 196727,
+        "word": "杨仕泽 她应该不是这个系列的",
+        "onboard_time": 1734163818,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1073451,
+        "num": 196635,
+        "word": "灵犀互娱",
+        "onboard_time": 1734159558,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195659,
+        "num": 195659,
+        "word": "鞠婧祎粉衣古装路透",
+        "onboard_time": 1734164778,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190581,
+        "num": 190581,
+        "word": "代号鸢 事与愿违",
+        "onboard_time": 1734162617,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24765,
+        "num": 181876,
+        "word": "国产刑侦剧在年轻人里C位出道",
+        "onboard_time": 1734163999,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195098,
+        "num": 180311,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178065,
+        "num": 178065,
+        "word": "OpenAI吹哨人被证实死亡",
+        "onboard_time": 1734163519,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175052,
+        "num": 175052,
+        "word": "女性可能出现圣诞树式脱发",
+        "onboard_time": 1734154638,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174742,
+        "num": 174742,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166583,
+        "num": 166583,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164141,
+        "num": 164141,
+        "word": "窦昭你别把宋墨摸爽了",
+        "onboard_time": 1734157639,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157439,
+        "num": 157439,
+        "word": "女子家宴吃出1颗罕见橘色海螺珠",
+        "onboard_time": 1734141679,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155076,
+        "num": 155076,
+        "word": "aespa上海签售",
+        "onboard_time": 1734165080,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "名侦探学院8 口号抄袭",
+        "onboard_time": 1734158478,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142223,
+        "num": 142223,
+        "word": "线上值机选座发现好座位全被锁了",
+        "onboard_time": 1734161597,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 138074,
+        "num": 138074,
+        "word": "韩国会300名议员全体参加弹劾投票",
+        "onboard_time": 1734165200,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137940,
+        "num": 137940,
+        "word": "山东鲁能三连败",
+        "onboard_time": 1734159078,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131423,
+        "num": 131423,
+        "word": "悟空被压了几百年都没黑化",
+        "onboard_time": 1734160937,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127479,
+        "num": 127479,
+        "word": "NewJeans请kpop粉丝吃饭",
+        "onboard_time": 1734161417,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98039,
+        "num": 127279,
+        "word": "星火英语",
+        "onboard_time": 1734155778,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127135,
+        "num": 127135,
+        "word": "大侠8楼飞檐走壁救了小孩",
+        "onboard_time": 1734162858,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 123173,
+        "num": 123173,
+        "word": "徐艺洋版99次我爱他",
+        "onboard_time": 1734161058,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116686,
+        "num": 116686,
+        "word": "我是刑警老范下线",
+        "onboard_time": 1734165618,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108065,
+        "num": 108065,
+        "word": "时代峰峻发声明",
+        "onboard_time": 1734149181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107604,
+        "num": 107604,
+        "word": "NewJeans开通新ins账号",
+        "onboard_time": 1734155539,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将赴澳门#"
+    }
+  }
+}

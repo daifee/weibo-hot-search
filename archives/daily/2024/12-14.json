@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734164897442,
+  "endTime": 1734165743862,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -19,8 +19,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2257128,
-      "num": 2257128,
+      "raw_hot": 2577862,
+      "num": 2577862,
+      "word": "尹锡悦总统职务立即停止",
+      "onboard_time": 1734163578,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 2307363,
+      "num": 2307363,
       "word": "吃播为引流吞下两斤纯肥肉",
       "onboard_time": 1734160517,
       "rank": 41,
@@ -41,14 +49,6 @@
       "onboard_time": 1734139578,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1770094,
-      "num": 1770094,
-      "word": "尹锡悦总统职务立即停止",
-      "onboard_time": 1734163578,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1271613,
@@ -121,6 +121,14 @@
       "onboard_time": 1734150018,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1033816,
+      "num": 1033816,
+      "word": "女生买奶茶放冰箱隔天能用手拎起来",
+      "onboard_time": 1734164239,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1012340,
@@ -411,6 +419,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 453463,
+      "num": 453463,
+      "word": "何超莲人脉",
+      "onboard_time": 1734163157,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 449341,
       "num": 449341,
       "word": "四级抽到了最简单的一套",
@@ -483,12 +499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367754,
-      "num": 367754,
-      "word": "何超莲人脉",
-      "onboard_time": 1734163157,
-      "rank": 11,
-      "category": "电影"
+      "raw_hot": 367353,
+      "num": 367353,
+      "word": "甄嬛传晚会陈建斌又要头疼了",
+      "onboard_time": 1734164418,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 363966,
@@ -531,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323903,
+      "num": 323903,
+      "word": "女子与男友亲密时刻被台球厅直播",
+      "onboard_time": 1734163578,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321820,
       "num": 321820,
       "word": "现在拨打的电话",
@@ -561,14 +585,6 @@
       "onboard_time": 1734132675,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 302444,
-      "num": 302444,
-      "word": "女生买奶茶放冰箱隔天能用手拎起来",
-      "onboard_time": 1734164239,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302318,
@@ -875,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198270,
+      "num": 198270,
+      "word": "TFING官宣浙江卫视跨年",
+      "onboard_time": 1734165498,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198143,
       "num": 198143,
       "word": "虞书欣首款臻享NFC项链",
@@ -889,6 +913,14 @@
       "onboard_time": 1734143478,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196727,
+      "num": 196727,
+      "word": "杨仕泽 她应该不是这个系列的",
+      "onboard_time": 1734163818,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196139,
@@ -907,8 +939,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194999,
-      "num": 194999,
+      "raw_hot": 195659,
+      "num": 195659,
       "word": "鞠婧祎粉衣古装路透",
       "onboard_time": 1734164778,
       "rank": 27,
@@ -995,14 +1027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188443,
-      "num": 188443,
-      "word": "杨仕泽 她应该不是这个系列的",
-      "onboard_time": 1734163818,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188139,
       "num": 198255,
       "word": "恋与深空",
@@ -1083,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174742,
+      "num": 174742,
+      "word": "九重紫",
+      "onboard_time": 1734083838,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174209,
       "num": 174209,
       "word": "多所高校取消四六级和学位证挂钩",
@@ -1139,12 +1171,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 167022,
-      "num": 281774,
-      "word": "女子与男友亲密时刻被台球厅直播",
-      "onboard_time": 1734163578,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 165805,
+      "num": 249007,
+      "word": "孙乐言回应奥斯卡表白歌",
+      "onboard_time": 1734162858,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 165308,
@@ -1281,6 +1313,14 @@
       "onboard_time": 1734104239,
       "rank": 35,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 155076,
+      "num": 155076,
+      "word": "aespa上海签售",
+      "onboard_time": 1734165080,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 154490,
@@ -1427,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138074,
+      "num": 138074,
+      "word": "韩国会300名议员全体参加弹劾投票",
+      "onboard_time": 1734165200,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137530,
       "num": 137530,
       "word": "樊振东看许昕打球化身表情包",
@@ -1467,22 +1515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132098,
-      "num": 259339,
-      "word": "甄嬛传晚会陈建斌又要头疼了",
-      "onboard_time": 1734164418,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131119,
-      "num": 131119,
-      "word": "九重紫",
-      "onboard_time": 1734083838,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130812,
       "num": 308754,
       "word": "张雨绮 嘉人",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1734161417,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129725,
+      "num": 197437,
+      "word": "iG全神班德杯首战",
+      "onboard_time": 1734165440,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 128946,
@@ -1595,14 +1635,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 119552,
-      "num": 249007,
-      "word": "孙乐言回应奥斯卡表白歌",
-      "onboard_time": 1734162858,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 119493,
       "num": 119493,
       "word": "邻居在车位装护栏女子打不开车门",
@@ -1619,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116686,
+      "num": 116686,
+      "word": "我是刑警老范下线",
+      "onboard_time": 1734165618,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114495,
       "num": 114495,
       "word": "菜鸟APP被恶意刷差评",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1734163338,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 113056,
+      "num": 258527,
+      "word": "车厘子到港在船上就卖了",
+      "onboard_time": 1734164059,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111951,
@@ -1721,6 +1769,14 @@
       "onboard_time": 1734094279,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 104963,
+      "num": 405609,
+      "word": "幸福者避让原则为什么越来越流行",
+      "onboard_time": 1734164239,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103274,
@@ -1875,14 +1931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83089,
-      "num": 258527,
-      "word": "车厘子到港在船上就卖了",
-      "onboard_time": 1734164059,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82472,
       "num": 82472,
       "word": "陶喆 我不是鸭王",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1734147260,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79317,
+      "num": 228646,
+      "word": "印度悬疑复仇片的佳作典范",
+      "onboard_time": 1734163458,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 77917,
@@ -2065,14 +2121,6 @@
       "onboard_time": 1734160578,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 54889,
-      "num": 376905,
-      "word": "幸福者避让原则为什么越来越流行",
-      "onboard_time": 1734164239,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54416,
@@ -2363,7 +2411,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 21050,
+      "raw_hot": 24765,
       "num": 193181,
       "word": "国产刑侦剧在年轻人里C位出道",
       "onboard_time": 1734163999,
