@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734181095246,
+  "endTime": 1734182866518,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 833838,
+      "num": 833838,
+      "word": "杨幂唐嫣刘诗诗嘉人同框",
+      "onboard_time": 1734180921,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 799314,
       "num": 334115,
       "word": "灵犀互娱称如鸢从未有女性向标签",
@@ -515,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566902,
+      "num": 646939,
+      "word": "虞书欣好强大的心脏",
+      "onboard_time": 1734180440,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557997,
       "num": 557997,
       "word": "莫离 白鹿",
@@ -611,6 +627,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 451703,
+      "num": 451703,
+      "word": "唐三小舞官宣订婚",
+      "onboard_time": 1734179120,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 449443,
+      "num": 449443,
+      "word": "左奇函怎么了",
+      "onboard_time": 1734177200,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449341,
       "num": 449341,
       "word": "四级抽到了最简单的一套",
@@ -627,20 +659,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 433786,
-      "num": 433786,
-      "word": "唐三小舞官宣订婚",
-      "onboard_time": 1734179120,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 431994,
       "num": 431994,
       "word": "特朗普邀外国领导人出席就职典礼",
       "onboard_time": 1734154879,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 425984,
+      "num": 425984,
+      "word": "你好星期六",
+      "onboard_time": 1734179540,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 425805,
@@ -683,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408531,
-      "num": 408531,
-      "word": "左奇函怎么了",
-      "onboard_time": 1734177200,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 398863,
       "num": 394877,
       "word": "麦子阿姨回忆连麦大冰",
@@ -729,6 +753,14 @@
       "onboard_time": 1734132134,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380354,
+      "num": 376348,
+      "word": "左奇函 王源",
+      "onboard_time": 1734182362,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 374929,
@@ -777,6 +809,14 @@
       "onboard_time": 1734149181,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345856,
+      "num": 345856,
+      "word": "被抱摔骨折女生希望对方付出代价",
+      "onboard_time": 1734178520,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330853,
@@ -849,6 +889,14 @@
       "onboard_time": 1734132675,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303167,
+      "num": 303167,
+      "word": "淮南",
+      "onboard_time": 1734181161,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302318,
@@ -939,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261856,
-      "num": 261856,
-      "word": "你好星期六",
-      "onboard_time": 1734179540,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 258748,
       "num": 258748,
       "word": "肖奈 古风小生",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1734160698,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242529,
+      "num": 242529,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1734181700,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 242226,
@@ -1091,20 +1139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229297,
-      "num": 646939,
-      "word": "虞书欣好强大的心脏",
-      "onboard_time": 1734180440,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228637,
       "num": 228637,
       "word": "山东鲁能三连败",
       "onboard_time": 1734159078,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227676,
+      "num": 214880,
+      "word": "九重紫男女主圆房一波三折",
+      "onboard_time": 1734180562,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 226516,
@@ -1307,6 +1355,22 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 199994,
+      "num": 199994,
+      "word": "昀牵孟绕",
+      "onboard_time": 1734182660,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199160,
+      "num": 199160,
+      "word": "小小的我直播",
+      "onboard_time": 1734182422,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198625,
       "num": 241659,
       "word": "黄雅琼安慰哭了的丫丫",
@@ -1387,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194174,
+      "num": 450229,
+      "word": "刘宇宁 我就不穿羽绒服",
+      "onboard_time": 1734181700,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194097,
       "num": 290534,
       "word": "赵露思彭冠英雪中海报",
@@ -1427,14 +1499,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192919,
-      "num": 270253,
-      "word": "杨幂唐嫣刘诗诗嘉人同框",
-      "onboard_time": 1734180921,
-      "rank": 23,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 192756,
       "num": 192756,
       "word": "这些水果其实是高糖刺客",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1734139458,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 191291,
-      "num": 191291,
-      "word": "九重紫男女主圆房一波三折",
-      "onboard_time": 1734180562,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 191026,
@@ -1553,14 +1609,6 @@
       "onboard_time": 1734138497,
       "rank": 23,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 184445,
-      "num": 190877,
-      "word": "被抱摔骨折女生希望对方付出代价",
-      "onboard_time": 1734178520,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181450,
@@ -1731,6 +1779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165651,
+      "num": 165651,
+      "word": "剑来",
+      "onboard_time": 1734176902,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165308,
       "num": 506095,
       "word": "人民网评猎罪图鉴2升级猎心",
@@ -1803,14 +1859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160561,
-      "num": 160561,
-      "word": "剑来",
-      "onboard_time": 1734176902,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 159328,
       "num": 159328,
       "word": "成都多地迎来降雪",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1734150680,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155548,
+      "num": 155548,
+      "word": "黄石基地vs深圳大学",
+      "onboard_time": 1734181282,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 155531,
@@ -2019,6 +2075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147353,
+      "num": 147353,
+      "word": "G2输了",
+      "onboard_time": 1734182660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146821,
       "num": 334187,
       "word": "likelihood",
@@ -2059,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145553,
+      "num": 145553,
+      "word": "冯骥千字长文回应",
+      "onboard_time": 1734182720,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144783,
       "num": 144783,
       "word": "香港月租10000元10平米的房子",
@@ -2073,6 +2145,14 @@
       "onboard_time": 1734134476,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144246,
+      "num": 376563,
+      "word": "樊振东反手变线",
+      "onboard_time": 1734181102,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 143404,
@@ -2091,12 +2171,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 142143,
+      "num": 376376,
+      "word": "林诗栋vs许昕",
+      "onboard_time": 1734181580,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141949,
       "num": 148651,
       "word": "看3个部位就能辨别气血是否充足",
       "onboard_time": 1734130393,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141804,
+      "num": 165975,
+      "word": "李昀锐 脏脏包",
+      "onboard_time": 1734181401,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141736,
@@ -2563,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93234,
+      "num": 449445,
+      "word": "丈夫给女牌友转账1.1万妻子起诉追回",
+      "onboard_time": 1734181401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93094,
       "num": 160728,
       "word": "为什么大学英语只有四六级没有五级",
@@ -2705,6 +2809,14 @@
       "onboard_time": 1734154518,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76204,
+      "num": 449625,
+      "word": "马龙陈梦出战混双",
+      "onboard_time": 1734181822,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 76042,
@@ -2947,6 +3059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 50253,
+      "num": 550739,
+      "word": "被抱摔骨折女生称对方至今未道歉",
+      "onboard_time": 1734180141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49686,
       "num": 279911,
       "word": "悉尼碎尸包裹案死者丈夫已失踪",
@@ -2969,6 +3089,14 @@
       "onboard_time": 1734147198,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47086,
+      "num": 1102191,
+      "word": "天宫画展又双叒上新了",
+      "onboard_time": 1734177921,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46426,
@@ -3155,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33570,
+      "num": 487203,
+      "word": "10万加可抵论文",
+      "onboard_time": 1734181880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33242,
       "num": 463844,
       "word": "官方回应山东梁山深夜突发巨响",
@@ -3225,14 +3361,6 @@
       "onboard_time": 1734166819,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29742,
-      "num": 1102191,
-      "word": "天宫画展又双叒上新了",
-      "onboard_time": 1734177921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27482,

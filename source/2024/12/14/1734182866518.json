@@ -1,0 +1,410 @@
+{
+  "runTime": 1734182866518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557410,
+        "num": 1557410,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1347520,
+        "num": 1347520,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47086,
+        "num": 1012491,
+        "word": "天宫画展又双叒上新了",
+        "onboard_time": 1734177921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 833838,
+        "num": 833838,
+        "word": "杨幂唐嫣刘诗诗嘉人同框",
+        "onboard_time": 1734180921,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 795880,
+        "num": 795880,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1734176720,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 722331,
+        "num": 722331,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 679293,
+        "num": 679293,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573548,
+        "num": 573548,
+        "word": "张元英首个中国封面",
+        "onboard_time": 1734178761,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 566902,
+        "num": 566902,
+        "word": "虞书欣好强大的心脏",
+        "onboard_time": 1734180440,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50253,
+        "num": 550739,
+        "word": "被抱摔骨折女生称对方至今未道歉",
+        "onboard_time": 1734180141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045016,
+        "num": 548261,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541458,
+        "num": 541458,
+        "word": "六级答案",
+        "onboard_time": 1734169522,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 507018,
+        "num": 507018,
+        "word": "李昀锐 笑容逐渐消失",
+        "onboard_time": 1734175820,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497113,
+        "num": 497113,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33570,
+        "num": 487203,
+        "word": "10万加可抵论文",
+        "onboard_time": 1734181880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481191,
+        "num": 481191,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451703,
+        "num": 451703,
+        "word": "唐三小舞官宣订婚",
+        "onboard_time": 1734179120,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194174,
+        "num": 450229,
+        "word": "刘宇宁 我就不穿羽绒服",
+        "onboard_time": 1734181700,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76204,
+        "num": 449625,
+        "word": "马龙陈梦出战混双",
+        "onboard_time": 1734181822,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93234,
+        "num": 449445,
+        "word": "丈夫给女牌友转账1.1万妻子起诉追回",
+        "onboard_time": 1734181401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449443,
+        "num": 449443,
+        "word": "左奇函怎么了",
+        "onboard_time": 1734177200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443929,
+        "num": 443929,
+        "word": "九重紫热度",
+        "onboard_time": 1734176001,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425984,
+        "num": 425984,
+        "word": "你好星期六",
+        "onboard_time": 1734179540,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379754,
+        "num": 379754,
+        "word": "福宝检查结果",
+        "onboard_time": 1734175880,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 376563,
+        "word": "樊振东反手变线",
+        "onboard_time": 1734181102,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142143,
+        "num": 376376,
+        "word": "林诗栋vs许昕",
+        "onboard_time": 1734181580,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380354,
+        "num": 376348,
+        "word": "左奇函 王源",
+        "onboard_time": 1734182362,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376217,
+        "num": 376217,
+        "word": "女子举着付款界面手机跑进派出所",
+        "onboard_time": 1734168079,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345856,
+        "num": 345856,
+        "word": "被抱摔骨折女生希望对方付出代价",
+        "onboard_time": 1734178520,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345811,
+        "num": 345811,
+        "word": "六级听力",
+        "onboard_time": 1734169522,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303167,
+        "num": 303167,
+        "word": "淮南",
+        "onboard_time": 1734181161,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299798,
+        "num": 299798,
+        "word": "网红婚纱男模阿冼被曝车祸去世",
+        "onboard_time": 1734176180,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 286214,
+        "num": 286214,
+        "word": "韩国国会通过尹锡悦弹劾动议案",
+        "onboard_time": 1734172400,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 242529,
+        "num": 242529,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1734181700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215334,
+        "num": 215334,
+        "word": "孙颖莎帮林昀儒捡球",
+        "onboard_time": 1734180860,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227676,
+        "num": 214880,
+        "word": "九重紫男女主圆房一波三折",
+        "onboard_time": 1734180562,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210165,
+        "num": 210165,
+        "word": "肚里有十多个肿瘤的抗癌老师发声",
+        "onboard_time": 1734174380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199994,
+        "num": 199994,
+        "word": "昀牵孟绕",
+        "onboard_time": 1734182660,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199160,
+        "num": 199160,
+        "word": "小小的我直播",
+        "onboard_time": 1734182422,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195128,
+        "num": 195128,
+        "word": "尹锡悦总统职务立即停止",
+        "onboard_time": 1734163578,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182391,
+        "num": 182391,
+        "word": "Angelababy逛香港熊猫馆",
+        "onboard_time": 1734172940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178119,
+        "num": 178119,
+        "word": "樊振东3比1林诗栋",
+        "onboard_time": 1734179241,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167309,
+        "num": 167309,
+        "word": "丁禹兮胸肌",
+        "onboard_time": 1734172759,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141804,
+        "num": 165975,
+        "word": "李昀锐 脏脏包",
+        "onboard_time": 1734181401,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165651,
+        "num": 165651,
+        "word": "剑来",
+        "onboard_time": 1734176902,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156899,
+        "num": 156899,
+        "word": "莫离 白鹿",
+        "onboard_time": 1734173540,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155548,
+        "num": 155548,
+        "word": "黄石基地vs深圳大学",
+        "onboard_time": 1734181282,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154814,
+        "num": 154814,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147353,
+        "num": 147353,
+        "word": "G2输了",
+        "onboard_time": 1734182660,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145553,
+        "num": 145553,
+        "word": "冯骥千字长文回应",
+        "onboard_time": 1734182720,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  }
+}
