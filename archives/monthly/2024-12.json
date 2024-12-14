@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734183593028,
+  "endTime": 1734186019532,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -737,6 +737,14 @@
       "onboard_time": 1733975180,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1901320,
+      "num": 1901320,
+      "word": "九重紫热度破30000",
+      "onboard_time": 1734183260,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1886551,
@@ -1667,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1360215,
+      "num": 495788,
+      "word": "左奇函 王源",
+      "onboard_time": 1734182362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1358857,
       "num": 1358857,
       "word": "马斯克成为史上首位4000亿富豪",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1733041697,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1221615,
+      "num": 1162939,
+      "word": "九重紫",
+      "onboard_time": 1733127678,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 1220893,
@@ -3347,14 +3371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 929553,
-      "num": 929553,
-      "word": "九重紫",
-      "onboard_time": 1733127678,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 928876,
       "num": 1136061,
       "word": "孙颖莎王楚钦击掌交接",
@@ -3433,14 +3449,6 @@
       "onboard_time": 1734053660,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 912173,
-      "num": 495788,
-      "word": "左奇函 王源",
-      "onboard_time": 1734182362,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 911292,
@@ -5339,6 +5347,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 685010,
+      "num": 685010,
+      "word": "林诗栋vs许昕",
+      "onboard_time": 1734181580,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 685008,
+      "num": 685008,
+      "word": "孟子义今晚大婚有点紧张呢",
+      "onboard_time": 1734183081,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 684819,
       "num": 684819,
       "word": "男子因女友提分手飞身跳河",
@@ -7131,14 +7155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552545,
-      "num": 552545,
-      "word": "九重紫热度破30000",
-      "onboard_time": 1734183260,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 552476,
       "num": 705139,
       "word": "韩执政党称总统宣布紧急戒严错误",
@@ -8601,6 +8617,14 @@
       "onboard_time": 1733899400,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476835,
+      "num": 550739,
+      "word": "被抱摔骨折女生称对方至今未道歉",
+      "onboard_time": 1734180141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 476433,
@@ -10539,14 +10563,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 399130,
-      "num": 550739,
-      "word": "被抱摔骨折女生称对方至今未道歉",
-      "onboard_time": 1734180141,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 398863,
       "num": 394877,
       "word": "麦子阿姨回忆连麦大冰",
@@ -10977,14 +10993,6 @@
       "onboard_time": 1733978843,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 381877,
-      "num": 381877,
-      "word": "林诗栋vs许昕",
-      "onboard_time": 1734181580,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 381564,
@@ -11441,6 +11449,14 @@
       "onboard_time": 1733222360,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364744,
+      "num": 490107,
+      "word": "未出生就被生母养母决定命运",
+      "onboard_time": 1734183381,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364659,
@@ -12481,6 +12497,14 @@
       "onboard_time": 1733660661,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 333003,
+      "num": 333003,
+      "word": "成都的炸土豆已经进化成这样了吗",
+      "onboard_time": 1734184763,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 332279,
@@ -13611,6 +13635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303543,
+      "num": 303543,
+      "word": "大学生买包发现731部队调查残件",
+      "onboard_time": 1734185542,
+      "rank": 23,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 303357,
       "num": 374576,
       "word": "以色列袭击叙利亚海军舰队",
@@ -13681,6 +13713,14 @@
       "onboard_time": 1733109017,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301401,
+      "num": 281147,
+      "word": "孟子义李昀锐甜了整个2024",
+      "onboard_time": 1734183862,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 301312,
@@ -14443,6 +14483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284013,
+      "num": 284013,
+      "word": "早睡其实什么都不会失去",
+      "onboard_time": 1734184641,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283870,
       "num": 283870,
       "word": "沈腾王安宇情头",
@@ -14843,6 +14891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274862,
+      "num": 318260,
+      "word": "马龙陈梦混双开门红",
+      "onboard_time": 1734183260,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274823,
       "num": 274823,
       "word": "香港3歹徒入店抢走66个爱马仕包",
@@ -15000,6 +15056,14 @@
       "word": "于正官宣吉天照女主",
       "onboard_time": 1733208680,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270381,
+      "num": 270381,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1734181700,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -16315,14 +16379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244462,
-      "num": 244462,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1734181700,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244237,
       "num": 244237,
       "word": "何超莲高马尾女大造型",
@@ -17523,6 +17579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 228943,
+      "num": 228943,
+      "word": "林诗栋3比2许昕",
+      "onboard_time": 1734183801,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228802,
       "num": 228802,
       "word": "绿地",
@@ -17864,6 +17928,14 @@
       "word": "我是刑警豆瓣7.8分合理吗",
       "onboard_time": 1733794879,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224475,
+      "num": 224475,
+      "word": "昀牵孟绕",
+      "onboard_time": 1734182660,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -20355,14 +20427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 199994,
-      "num": 199994,
-      "word": "昀牵孟绕",
-      "onboard_time": 1734182660,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199941,
       "num": 402912,
       "word": "韩国执政党领导层要求尹锡悦退党",
@@ -22593,6 +22657,14 @@
       "onboard_time": 1734015619,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187516,
+      "num": 187516,
+      "word": "黄石基地vs上海地产",
+      "onboard_time": 1734185363,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 187508,
@@ -27339,6 +27411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156858,
+      "num": 156858,
+      "word": "自助烤肉儿媳妇不能吃",
+      "onboard_time": 1734185602,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156857,
       "num": 156857,
       "word": "沈月不参加星光大赏",
@@ -27771,6 +27851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154920,
+      "num": 298635,
+      "word": "Major",
+      "onboard_time": 1734185000,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154917,
       "num": 154917,
       "word": "郑业成在我首页转一天扇子了",
@@ -28099,6 +28187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153131,
+      "num": 153131,
+      "word": "老瓦杯",
+      "onboard_time": 1734184522,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153108,
       "num": 153108,
       "word": "国乒回应混团开门红",
@@ -28272,6 +28368,14 @@
       "word": "吉林一工人凌晨遇老虎急忙上车避险",
       "onboard_time": 1734077418,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152370,
+      "num": 155581,
+      "word": "学生没考上高中家长拒付家教费",
+      "onboard_time": 1734184102,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -28457,6 +28561,14 @@
       "onboard_time": 1733969420,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151026,
+      "num": 151026,
+      "word": "贾跃亭说再还七八亿就可以回国",
+      "onboard_time": 1734185602,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 150943,
@@ -29835,6 +29947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "风象星座是真正的浪漫至上",
+      "onboard_time": 1734185841,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142788,
       "num": 142788,
       "word": "孙颖莎观战现场好欢乐",
@@ -30080,6 +30200,14 @@
       "word": "九重紫开播",
       "onboard_time": 1733455578,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141846,
+      "num": 141846,
+      "word": "鞠婧祎露芜衣收工",
+      "onboard_time": 1734185542,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -30361,6 +30489,14 @@
       "onboard_time": 1734098840,
       "rank": 42,
       "category": "演出,演出"
+    },
+    {
+      "raw_hot": 140359,
+      "num": 140359,
+      "word": "张真源全开麦小镇姑娘",
+      "onboard_time": 1734184522,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 140282,
@@ -32185,6 +32321,14 @@
       "onboard_time": 1733146883,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128220,
+      "num": 353584,
+      "word": "38岁抗癌博主二次复发时前夫提离婚",
+      "onboard_time": 1734184702,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128147,
@@ -35729,6 +35873,14 @@
       "onboard_time": 1733743401,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101674,
+      "num": 476902,
+      "word": "爷爷20年前给孙女买好结婚礼物",
+      "onboard_time": 1734185182,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 101635,
@@ -41251,6 +41403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55723,
+      "num": 355379,
+      "word": "小区交付不到三年多处钢筋外露",
+      "onboard_time": 1734185121,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55641,
       "num": 54781,
       "word": "知情人谈低俗网红祁天道被封",
@@ -42604,7 +42764,7 @@
     },
     {
       "raw_hot": 47086,
-      "num": 1102191,
+      "num": 1163722,
       "word": "天宫画展又双叒上新了",
       "onboard_time": 1734177921,
       "rank": 2,
@@ -44211,14 +44371,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 38301,
-      "num": 399787,
-      "word": "孟子义今晚大婚有点紧张呢",
-      "onboard_time": 1734183081,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38248,
       "num": 290327,
       "word": "WE官宣FoFo离队",
@@ -45537,14 +45689,6 @@
       "onboard_time": 1733139265,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32081,
-      "num": 490107,
-      "word": "未出生就被生母养母决定命运",
-      "onboard_time": 1734183381,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32079,
@@ -47865,14 +48009,6 @@
       "onboard_time": 1733491820,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 19248,
-      "num": 318260,
-      "word": "马龙陈梦混双开门红",
-      "onboard_time": 1734183260,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 19232,
