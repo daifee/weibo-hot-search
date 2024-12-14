@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734169013385,
+  "endTime": 1734171782392,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -41,6 +41,14 @@
       "onboard_time": 1733901500,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 6910939,
+      "num": 6910939,
+      "word": "六级",
+      "onboard_time": 1734155959,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 6094170,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2412081,
+      "num": 2412081,
+      "word": "六级答案",
+      "onboard_time": 1734169522,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2380812,
       "num": 885589,
       "word": "韩娱地震",
@@ -233,14 +249,6 @@
       "onboard_time": 1733827820,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2083778,
-      "num": 2083778,
-      "word": "六级",
-      "onboard_time": 1734155959,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 2052279,
@@ -1099,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1154982,
+      "num": 1154982,
+      "word": "六级翻译",
+      "onboard_time": 1734168739,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1152795,
       "num": 1152795,
       "word": "四级答案",
@@ -1681,6 +1697,14 @@
       "onboard_time": 1733584942,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 888721,
+      "num": 888721,
+      "word": "六级阅读",
+      "onboard_time": 1734169701,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 886503,
@@ -2275,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754647,
+      "num": 754647,
+      "word": "六级 写笑了",
+      "onboard_time": 1734169941,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 754400,
       "num": 479805,
       "word": "走失女硕士嫂子发声",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1733842700,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 739701,
+      "num": 739701,
+      "word": "六级作文",
+      "onboard_time": 1734168920,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 739636,
@@ -2771,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 667384,
+      "num": 667384,
+      "word": "六级翻译 北斗卫星导航系统",
+      "onboard_time": 1734169701,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 666852,
       "num": 644365,
       "word": "小S曾问许玮甯与邱泽舌吻感受",
@@ -3171,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592965,
+      "num": 592965,
+      "word": "悉尼发现碎尸包裹死者为海外华人",
+      "onboard_time": 1734170481,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 591701,
       "num": 591701,
       "word": "高校学生买7件演出服穿完集体退货",
@@ -3185,6 +3241,14 @@
       "onboard_time": 1733907441,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 589936,
+      "num": 589936,
+      "word": "何超莲人脉",
+      "onboard_time": 1734163157,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 589596,
@@ -3667,14 +3731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534139,
-      "num": 534139,
-      "word": "何超莲人脉",
-      "onboard_time": 1734163157,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
       "raw_hot": 533676,
       "num": 533676,
       "word": "多邻国APP 裂了",
@@ -4033,6 +4089,14 @@
       "onboard_time": 1733728818,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 496578,
+      "num": 496578,
+      "word": "合肥代孕",
+      "onboard_time": 1734170841,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494271,
@@ -5201,6 +5265,14 @@
       "onboard_time": 1733907383,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380631,
+      "num": 380631,
+      "word": "六级听力",
+      "onboard_time": 1734169522,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 380413,
@@ -8051,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240567,
+      "num": 240567,
+      "word": "建议气血不足的人像猫学习",
+      "onboard_time": 1734167659,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240452,
       "num": 240452,
       "word": "洗浴中心多人出现不适晕倒送医",
@@ -8111,6 +8191,14 @@
       "num": 363279,
       "word": "杨紫李现国色芳华招商了",
       "onboard_time": 1733966299,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239161,
+      "num": 402539,
+      "word": "九重紫直播",
+      "onboard_time": 1733740339,
       "rank": 18,
       "category": "剧集"
     },
@@ -8369,14 +8457,6 @@
       "onboard_time": 1733977642,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 232640,
-      "num": 232640,
-      "word": "建议气血不足的人像猫学习",
-      "onboard_time": 1734167659,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 232497,
@@ -8771,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221569,
+      "num": 755049,
+      "word": "专八女友陪博士男友15战英语四级",
+      "onboard_time": 1734168860,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221252,
       "num": 326402,
       "word": "养老院欠费数十位老人遭断水断电",
@@ -8851,20 +8939,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219387,
-      "num": 219387,
-      "word": "六级翻译",
-      "onboard_time": 1734168739,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 219331,
       "num": 390076,
       "word": "王楚钦提醒林诗栋挑战",
       "onboard_time": 1733661799,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219121,
+      "num": 1820878,
+      "word": "今年GDP预计增长5%左右",
+      "onboard_time": 1734167599,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 219046,
@@ -8912,6 +9000,14 @@
       "word": "胖东来热门商品能买到了",
       "onboard_time": 1734076337,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216398,
+      "num": 216398,
+      "word": "女子举着付款界面手机跑进派出所",
+      "onboard_time": 1734168079,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -9027,6 +9123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213694,
+      "num": 300214,
+      "word": "汪苏泷说对THE9非常有感情",
+      "onboard_time": 1734165979,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213479,
       "num": 587981,
       "word": "多家银行采用AI面试进行招聘",
@@ -9123,6 +9227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210795,
+      "num": 210795,
+      "word": "BLG将成为最后一个LPL春夏冠军",
+      "onboard_time": 1734170000,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210513,
       "num": 182915,
       "word": "控糖55天的皮肤变化",
@@ -9153,14 +9265,6 @@
       "onboard_time": 1733664801,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209958,
-      "num": 188928,
-      "word": "汪苏泷说对THE9非常有感情",
-      "onboard_time": 1734165979,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 209776,
@@ -10347,6 +10451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194097,
+      "num": 290534,
+      "word": "赵露思彭冠英雪中海报",
+      "onboard_time": 1734168619,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194005,
       "num": 194005,
       "word": "央视片单",
@@ -10609,6 +10721,14 @@
       "onboard_time": 1733639298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191026,
+      "num": 300055,
+      "word": "洋山港我记住你了",
+      "onboard_time": 1734170421,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 190981,
@@ -11147,6 +11267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185352,
+      "num": 185352,
+      "word": "建议把药品有效期改成黑色字体",
+      "onboard_time": 1734169161,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185288,
       "num": 185288,
       "word": "王子奇 客串罚罪2",
@@ -11297,14 +11425,6 @@
       "onboard_time": 1733656399,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 182042,
-      "num": 182042,
-      "word": "赵露思彭冠英雪中海报",
-      "onboard_time": 1734168619,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 182041,
@@ -11547,14 +11667,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 178212,
-      "num": 178212,
-      "word": "女子举着付款界面手机跑进派出所",
-      "onboard_time": 1734168079,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178023,
       "num": 178023,
       "word": "崩坏星穹铁道 加多宝",
@@ -11771,6 +11883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175492,
+      "num": 175492,
+      "word": "秦海璐小说书单又上新了",
+      "onboard_time": 1734168319,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175300,
       "num": 385185,
       "word": "网友隔河拍到疑电诈园区体罚现场",
@@ -11929,6 +12049,14 @@
       "onboard_time": 1733901319,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173722,
+      "num": 173722,
+      "word": "弹劾案通过后尹锡悦发声",
+      "onboard_time": 1734169822,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173634,
@@ -12563,14 +12691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166220,
-      "num": 166220,
-      "word": "六级作文",
-      "onboard_time": 1734168920,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166186,
       "num": 420771,
       "word": "A股今日全线高开",
@@ -12729,6 +12849,14 @@
       "onboard_time": 1734076398,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164406,
+      "num": 164406,
+      "word": "KBS歌谣大祝祭",
+      "onboard_time": 1734171620,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 164388,
@@ -13443,14 +13571,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 155885,
-      "num": 155885,
-      "word": "秦海璐小说书单又上新了",
-      "onboard_time": 1734168319,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155709,
       "num": 155709,
       "word": "90岁博士奶奶用猩猩语打招呼",
@@ -13707,6 +13827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153512,
+      "num": 153512,
+      "word": "尹锡悦将被停职",
+      "onboard_time": 1734171740,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153423,
       "num": 572748,
       "word": "男子擅自进入他人装修别墅摔伤索赔16万",
@@ -13721,6 +13849,14 @@
       "onboard_time": 1734072557,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153352,
+      "num": 153352,
+      "word": "樊振东采访前800个假动作",
+      "onboard_time": 1734169221,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 153298,
@@ -13785,6 +13921,14 @@
       "onboard_time": 1734138618,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152509,
+      "num": 152509,
+      "word": "考个研到底还能闹出多少笑话",
+      "onboard_time": 1734168319,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 152463,
@@ -14315,6 +14459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146193,
+      "num": 146725,
+      "word": "烤红薯",
+      "onboard_time": 1734168140,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 146129,
       "num": 146129,
       "word": "雅说庆怜是披哥中的小太阳",
@@ -14340,7 +14492,7 @@
     },
     {
       "raw_hot": 145745,
-      "num": 145745,
+      "num": 396150,
       "word": "我是刑警老范下线",
       "onboard_time": 1734165618,
       "rank": 47,
@@ -15587,6 +15739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129516,
+      "num": 260434,
+      "word": "尹锡悦成韩国第三位被弹劾总统",
+      "onboard_time": 1734169221,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129503,
       "num": 129503,
       "word": "日本人不知南京大屠杀是日本之耻",
@@ -16531,14 +16691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114180,
-      "num": 114180,
-      "word": "专八女友陪博士男友15战英语四级",
-      "onboard_time": 1734168860,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114083,
       "num": 114083,
       "word": "海信被传大规模裁员3万人",
@@ -16601,14 +16753,6 @@
       "onboard_time": 1733711419,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112996,
-      "num": 112996,
-      "word": "考个研到底还能闹出多少笑话",
-      "onboard_time": 1734168319,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 112626,
@@ -17355,14 +17499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 99729,
-      "num": 146725,
-      "word": "烤红薯",
-      "onboard_time": 1734168140,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 99692,
       "num": 266824,
       "word": "环球影城偶遇张彬彬",
@@ -18081,14 +18217,6 @@
       "onboard_time": 1733812639,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85292,
-      "num": 1820878,
-      "word": "今年GDP预计增长5%左右",
-      "onboard_time": 1734167599,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85206,
@@ -19515,6 +19643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60873,
+      "num": 300035,
+      "word": "陈都灵出席嘉人盛典",
+      "onboard_time": 1734170540,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 60814,
       "num": 422125,
       "word": "医院周边5元停车费被黄牛卖到15元",
@@ -20419,6 +20555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46426,
+      "num": 269419,
+      "word": "李开复称中国能做出碾压美国的AI应用",
+      "onboard_time": 1734170841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46425,
       "num": 341376,
       "word": "5个爸爸直播跳舞陪孩子抗癌背后",
@@ -20489,14 +20633,6 @@
       "onboard_time": 1734012260,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45492,
-      "num": 330793,
-      "word": "九重紫直播",
-      "onboard_time": 1733740339,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 45443,
@@ -21057,6 +21193,14 @@
       "onboard_time": 1734158238,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38478,
+      "num": 279549,
+      "word": "陈好机场依次拥抱粉丝",
+      "onboard_time": 1734171740,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 38430,
