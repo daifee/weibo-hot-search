@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734142222097,
+  "endTime": 1734145261837,
   "band_list": [
     {
       "raw_hot": 1854475,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1063355,
+      "num": 1063355,
+      "word": "女子家宴吃出1颗罕见橘色海螺珠",
+      "onboard_time": 1734141679,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1004500,
       "num": 1004500,
       "word": "陈乔恩被自己的婚纱照美到了",
       "onboard_time": 1734137598,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 984045,
+      "num": 984045,
+      "word": "女友放弃省考小伙想追责网约车司机",
+      "onboard_time": 1734143238,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 905328,
@@ -67,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 732636,
+      "num": 301108,
+      "word": "灵犀互娱称如鸢从未有女性向标签",
+      "onboard_time": 1734137656,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 730769,
       "num": 730769,
       "word": "外卖店被曝在厕所洗鱼多方回应",
@@ -81,6 +105,14 @@
       "onboard_time": 1734138018,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 716283,
+      "num": 716283,
+      "word": "俄高级导弹科学家被乌方暗杀",
+      "onboard_time": 1734141979,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 683733,
@@ -99,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 673878,
+      "num": 673878,
+      "word": "和张大大谈过恋爱的明星是歌手",
+      "onboard_time": 1734140899,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 622171,
       "num": 622171,
       "word": "樊振东对战日本选手胸前贴上国旗",
@@ -113,6 +153,14 @@
       "onboard_time": 1734102200,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 508706,
+      "num": 517421,
+      "word": "朝鲜特种部队协助俄罗斯作战",
+      "onboard_time": 1734143718,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 478369,
@@ -163,20 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386794,
-      "num": 301108,
-      "word": "灵犀互娱称如鸢从未有女性向标签",
-      "onboard_time": 1734137656,
-      "rank": 10,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 384441,
-      "num": 205517,
+      "num": 207020,
       "word": "92年宝妈已经生了9个娃且还想生",
       "onboard_time": 1734132134,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363966,
+      "num": 363966,
+      "word": "如鸢官方回应",
+      "onboard_time": 1734143178,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 354522,
@@ -185,14 +233,6 @@
       "onboard_time": 1734126671,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 328068,
-      "num": 328068,
-      "word": "和张大大谈过恋爱的明星是歌手",
-      "onboard_time": 1734140899,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 321820,
@@ -211,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289581,
+      "num": 289581,
+      "word": "四六级",
+      "onboard_time": 1734132675,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283353,
       "num": 283353,
       "word": "曝湖南卫视跨年嘉宾名单",
@@ -219,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280653,
-      "num": 280653,
-      "word": "四六级",
-      "onboard_time": 1734132675,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 266794,
+      "num": 518487,
+      "word": "个人养老金开户领取全流程指南",
+      "onboard_time": 1734141919,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258748,
@@ -267,12 +315,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 207398,
+      "num": 207398,
+      "word": "张杰演唱会大电影预售开启",
+      "onboard_time": 1734144318,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 207323,
       "num": 110099,
       "word": "代号鸢",
       "onboard_time": 1734096979,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204771,
+      "num": 290977,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1734144559,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 203644,
@@ -315,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189601,
-      "num": 145286,
-      "word": "女子家宴吃出1颗罕见橘色海螺珠",
-      "onboard_time": 1734141679,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189217,
       "num": 189217,
       "word": "QQ音乐 装扮",
@@ -347,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168791,
+      "num": 168791,
+      "word": "四级",
+      "onboard_time": 1734136277,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168661,
       "num": 168661,
       "word": "赵今麦茉莉青提",
@@ -363,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161031,
+      "num": 161031,
+      "word": "四六级考到425要答对多少道题",
+      "onboard_time": 1734143478,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159328,
       "num": 159328,
       "word": "成都多地迎来降雪",
@@ -371,8 +443,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157679,
+      "num": 157679,
+      "word": "阿姨将被群狗追哭女孩护身后",
+      "onboard_time": 1734139458,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 155531,
-      "num": 144424,
+      "num": 163780,
       "word": "mlxg谈RNG还款",
       "onboard_time": 1734141377,
       "rank": 31,
@@ -395,12 +475,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 154490,
+      "num": 154490,
+      "word": "庆祝澳门回归祖国25周年大会",
+      "onboard_time": 1734139759,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153924,
       "num": 153924,
       "word": "崔永熙赛季报销",
       "onboard_time": 1734135437,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153300,
+      "num": 165307,
+      "word": "尹锡悦弹劾案今天表决",
+      "onboard_time": 1734141919,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153060,
@@ -411,12 +507,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 152611,
+      "num": 152611,
+      "word": "整个衣柜里都是聚酯纤维的无力感",
+      "onboard_time": 1734144559,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 152573,
+      "num": 153778,
+      "word": "谁给李昀锐递个纨绔世子本",
+      "onboard_time": 1734138618,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150174,
       "num": 150174,
       "word": "我是刑警大结局",
       "onboard_time": 1734098541,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "小小的我",
+      "onboard_time": 1734144799,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 144610,
@@ -427,44 +547,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143090,
-      "num": 143090,
-      "word": "俄高级导弹科学家被乌方暗杀",
-      "onboard_time": 1734141979,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141949,
       "num": 148651,
       "word": "看3个部位就能辨别气血是否充足",
       "onboard_time": 1734130393,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136718,
-      "num": 136718,
-      "word": "四级",
-      "onboard_time": 1734136277,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 136198,
-      "num": 146417,
-      "word": "个人养老金开户领取全流程指南",
-      "onboard_time": 1734141919,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134884,
-      "num": 143002,
-      "word": "谁给李昀锐递个纨绔世子本",
-      "onboard_time": 1734138618,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 134799,
@@ -481,6 +569,14 @@
       "onboard_time": 1734100400,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131607,
+      "num": 131607,
+      "word": "黑神话悟空外网发文感谢玩家",
+      "onboard_time": 1734142578,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 131119,
@@ -531,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120843,
+      "num": 120843,
+      "word": "多所高校取消四六级和学位证挂钩",
+      "onboard_time": 1734144498,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119710,
       "num": 119710,
       "word": "代购回应胖东来限购",
@@ -547,20 +651,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 117108,
-      "num": 136264,
-      "word": "庆祝澳门回归祖国25周年大会",
-      "onboard_time": 1734139759,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 116941,
       "num": 252299,
       "word": "佩洛西受伤被送医",
       "onboard_time": 1734139939,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114582,
+      "num": 114582,
+      "word": "我是刑警主角原型如今都怎么样了",
+      "onboard_time": 1734144678,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 114495,
@@ -649,6 +753,22 @@
       "onboard_time": 1734089960,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102859,
+      "num": 248149,
+      "word": "冰俪幂诗唐妮",
+      "onboard_time": 1734144618,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 101344,
+      "num": 101344,
+      "word": "于和伟 只字不提",
+      "onboard_time": 1734143299,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 98449,
@@ -891,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43948,
+      "num": 153429,
+      "word": "专家谈偷拍产业为何屡禁不止",
+      "onboard_time": 1734143299,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 43335,
       "num": 43335,
       "word": "黑神话悟空发博回应获奖",
@@ -929,14 +1057,6 @@
       "onboard_time": 1734108616,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40396,
-      "num": 165307,
-      "word": "尹锡悦弹劾案今天表决",
-      "onboard_time": 1734141919,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 38430,
