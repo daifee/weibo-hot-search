@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734182866518,
+  "endTime": 1734183593028,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -1667,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 912173,
+      "num": 495788,
+      "word": "左奇函 王源",
+      "onboard_time": 1734182362,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911292,
       "num": 525821,
       "word": "宋佳 王伟",
@@ -3179,6 +3187,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 615599,
+      "num": 646939,
+      "word": "虞书欣好强大的心脏",
+      "onboard_time": 1734180440,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614110,
       "num": 530857,
       "word": "南部档案",
@@ -3515,14 +3531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 566902,
-      "num": 646939,
-      "word": "虞书欣好强大的心脏",
-      "onboard_time": 1734180440,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 565990,
       "num": 565990,
       "word": "四川省考",
@@ -3657,6 +3665,14 @@
       "onboard_time": 1733931440,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552545,
+      "num": 552545,
+      "word": "九重紫热度破30000",
+      "onboard_time": 1734183260,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 551633,
@@ -4451,6 +4467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463417,
+      "num": 463417,
+      "word": "左奇函怎么了",
+      "onboard_time": 1734177200,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463378,
       "num": 463378,
       "word": "代孕抓捕现场年轻女性面色很差",
@@ -4633,14 +4657,6 @@
       "onboard_time": 1734086478,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449443,
-      "num": 449443,
-      "word": "左奇函怎么了",
-      "onboard_time": 1734177200,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 449341,
@@ -5203,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399130,
+      "num": 550739,
+      "word": "被抱摔骨折女生称对方至今未道歉",
+      "onboard_time": 1734180141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398863,
       "num": 394877,
       "word": "麦子阿姨回忆连麦大冰",
@@ -5395,6 +5419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381877,
+      "num": 381877,
+      "word": "林诗栋vs许昕",
+      "onboard_time": 1734181580,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381564,
       "num": 381564,
       "word": "金希澈注销社交平台账号",
@@ -5417,14 +5449,6 @@
       "onboard_time": 1733742380,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 380354,
-      "num": 376348,
-      "word": "左奇函 王源",
-      "onboard_time": 1734182362,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 380104,
@@ -8179,6 +8203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244462,
+      "num": 244462,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1734181700,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244171,
       "num": 244171,
       "word": "Epic送不成最佳游戏了",
@@ -8249,14 +8281,6 @@
       "onboard_time": 1733725158,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 242529,
-      "num": 242529,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1734181700,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 242226,
@@ -8755,6 +8779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231764,
+      "num": 231764,
+      "word": "淮南一供暖管道发生爆裂4人轻伤",
+      "onboard_time": 1734181161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231721,
       "num": 231721,
       "word": "陕西大姐中限量宝马车以为是诈骗",
@@ -8892,7 +8924,7 @@
     },
     {
       "raw_hot": 227676,
-      "num": 214880,
+      "num": 220545,
       "word": "九重紫男女主圆房一波三折",
       "onboard_time": 1734180562,
       "rank": 32,
@@ -10283,6 +10315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198633,
+      "num": 450229,
+      "word": "刘宇宁 我就不穿羽绒服",
+      "onboard_time": 1734181700,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198625,
       "num": 241659,
       "word": "黄雅琼安慰哭了的丫丫",
@@ -10729,14 +10769,6 @@
       "onboard_time": 1734160877,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194174,
-      "num": 450229,
-      "word": "刘宇宁 我就不穿羽绒服",
-      "onboard_time": 1734181700,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 194148,
@@ -14403,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151434,
+      "num": 375332,
+      "word": "G2输了",
+      "onboard_time": 1734182660,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151378,
       "num": 151378,
       "word": "朋友里唯一不抽烟的那个人",
@@ -14577,6 +14617,14 @@
       "onboard_time": 1734095720,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149462,
+      "num": 149462,
+      "word": "深圳大学3比0黄石基地",
+      "onboard_time": 1734183502,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 149450,
@@ -14761,14 +14809,6 @@
       "onboard_time": 1734059059,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147353,
-      "num": 147353,
-      "word": "G2输了",
-      "onboard_time": 1734182660,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 147230,
@@ -15241,14 +15281,6 @@
       "onboard_time": 1733881939,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142143,
-      "num": 376376,
-      "word": "林诗栋vs许昕",
-      "onboard_time": 1734181580,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 142012,
@@ -15889,6 +15921,14 @@
       "onboard_time": 1734084679,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134710,
+      "num": 209034,
+      "word": "武汉劳斯莱斯被曝拖欠摄影师1500元",
+      "onboard_time": 1734178401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134628,
@@ -20835,14 +20875,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 50253,
-      "num": 550739,
-      "word": "被抱摔骨折女生称对方至今未道歉",
-      "onboard_time": 1734180141,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50197,
       "num": 237057,
       "word": "民选黑马剧出第二部的含金量",
@@ -21787,6 +21819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38602,
+      "num": 487203,
+      "word": "10万加可抵论文",
+      "onboard_time": 1734181880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38599,
       "num": 361129,
       "word": "体育老师被举报暴踢学生头部",
@@ -21817,6 +21857,14 @@
       "onboard_time": 1733912240,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38301,
+      "num": 399787,
+      "word": "孟子义今晚大婚有点紧张呢",
+      "onboard_time": 1734183081,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 38248,
@@ -22147,14 +22195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34957,
-      "num": 209034,
-      "word": "武汉劳斯莱斯被曝拖欠摄影师1500元",
-      "onboard_time": 1734178401,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34947,
       "num": 36019,
       "word": "湖南有个专门教救人的地摊",
@@ -22347,14 +22387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33570,
-      "num": 487203,
-      "word": "10万加可抵论文",
-      "onboard_time": 1734181880,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33466,
       "num": 498314,
       "word": "建议冬天旅行前先去趟波司登",
@@ -22376,6 +22408,14 @@
       "word": "确诊肺癌保险理赔遭拒法院判赔",
       "onboard_time": 1733749700,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33320,
+      "num": 311423,
+      "word": "18万买凯美瑞两个月无法提车",
+      "onboard_time": 1734183381,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -22497,6 +22537,14 @@
       "onboard_time": 1733596094,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32081,
+      "num": 490107,
+      "word": "未出生就被生母养母决定命运",
+      "onboard_time": 1734183381,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32079,
@@ -23513,6 +23561,14 @@
       "onboard_time": 1733899159,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 19248,
+      "num": 318260,
+      "word": "马龙陈梦混双开门红",
+      "onboard_time": 1734183260,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 18962,
