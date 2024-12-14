@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734186019532,
+  "endTime": 1734187180449,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -697,6 +697,14 @@
       "onboard_time": 1733585122,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1428876,
+      "num": 1428876,
+      "word": "大学生买包发现731部队调查残件",
+      "onboard_time": 1734185542,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 1427990,
@@ -1441,6 +1449,14 @@
       "onboard_time": 1734170481,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1033658,
+      "num": 1033658,
+      "word": "孟子义今晚大婚有点紧张呢",
+      "onboard_time": 1734183081,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 1016875,
@@ -2771,14 +2787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 685008,
-      "num": 685008,
-      "word": "孟子义今晚大婚有点紧张呢",
-      "onboard_time": 1734183081,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 684673,
       "num": 684673,
       "word": "王者荣耀",
@@ -3787,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 542190,
+      "num": 542190,
+      "word": "未出生就被生母养母决定命运",
+      "onboard_time": 1734183381,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539838,
       "num": 389536,
       "word": "珠海地震",
@@ -4336,6 +4352,14 @@
       "word": "终于有剧把三纲五常正解了",
       "onboard_time": 1733720779,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480851,
+      "num": 480851,
+      "word": "孟子义李昀锐甜了整个2024",
+      "onboard_time": 1734183862,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5387,6 +5411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 386748,
+      "num": 386748,
+      "word": "永夜星河热度",
+      "onboard_time": 1734186741,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384457,
       "num": 384457,
       "word": "虞书欣零点发文告别凌妙妙",
@@ -5611,20 +5643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365907,
+      "num": 342409,
+      "word": "成都的炸土豆已经进化成这样了吗",
+      "onboard_time": 1734184763,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 365214,
       "num": 674405,
       "word": "我家那小子",
       "onboard_time": 1733723539,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364744,
-      "num": 490107,
-      "word": "未出生就被生母养母决定命运",
-      "onboard_time": 1734183381,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 364607,
@@ -6139,14 +6171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 333003,
-      "num": 333003,
-      "word": "成都的炸土豆已经进化成这样了吗",
-      "onboard_time": 1734184763,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 332279,
       "num": 332279,
       "word": "微博之夜年度推荐",
@@ -6547,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316099,
+      "num": 316099,
+      "word": "周密直播",
+      "onboard_time": 1734186499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315299,
       "num": 315299,
       "word": "中国古人21根竹简计算器能算乘方开方",
@@ -6795,14 +6827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303543,
-      "num": 303543,
-      "word": "大学生买包发现731部队调查残件",
-      "onboard_time": 1734185542,
-      "rank": 23,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 303357,
       "num": 374576,
       "word": "以色列袭击叙利亚海军舰队",
@@ -6817,6 +6841,14 @@
       "onboard_time": 1734181161,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303090,
+      "num": 303090,
+      "word": "早睡其实什么都不会失去",
+      "onboard_time": 1734184641,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 303064,
@@ -6841,14 +6873,6 @@
       "onboard_time": 1734157100,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301401,
-      "num": 281147,
-      "word": "孟子义李昀锐甜了整个2024",
-      "onboard_time": 1734183862,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 301312,
@@ -7267,14 +7291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284013,
-      "num": 284013,
-      "word": "早睡其实什么都不会失去",
-      "onboard_time": 1734184641,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 283816,
       "num": 390160,
       "word": "霍建华戚薇 暗夜迷局",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1734092599,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 279782,
+      "num": 279782,
+      "word": "贾跃亭说再还七八亿就可以回国",
+      "onboard_time": 1734185602,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 279114,
@@ -8619,6 +8643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237218,
+      "num": 237218,
+      "word": "昀牵孟绕",
+      "onboard_time": 1734182660,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236869,
       "num": 272653,
       "word": "甄嬛传",
@@ -8785,6 +8817,14 @@
       "onboard_time": 1733977642,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 232540,
+      "num": 232540,
+      "word": "自助烤肉儿媳妇不能吃",
+      "onboard_time": 1734185602,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 232497,
@@ -9080,14 +9120,6 @@
       "word": "我是刑警豆瓣7.8分合理吗",
       "onboard_time": 1733794879,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 224475,
-      "num": 224475,
-      "word": "昀牵孟绕",
-      "onboard_time": 1734182660,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -10171,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201325,
+      "num": 201325,
+      "word": "张润 手滑",
+      "onboard_time": 1734186201,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201292,
       "num": 201292,
       "word": "现在就出发",
@@ -10283,6 +10323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199743,
+      "num": 199743,
+      "word": "檀健次演技",
+      "onboard_time": 1734186381,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199641,
       "num": 311814,
       "word": "英伟达或面临巨额罚款",
@@ -10321,6 +10369,14 @@
       "onboard_time": 1733980401,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199541,
+      "num": 199541,
+      "word": "何猷君说往北看都是大机遇",
+      "onboard_time": 1734183920,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 199160,
@@ -10387,6 +10443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198626,
+      "num": 198626,
+      "word": "猎罪图鉴2警惕犯罪型人格障碍",
+      "onboard_time": 1734186321,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198625,
       "num": 241659,
       "word": "黄雅琼安慰哭了的丫丫",
@@ -10440,6 +10504,14 @@
       "word": "徐志胜 加戏",
       "onboard_time": 1734016760,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198242,
+      "num": 198242,
+      "word": "张萌 我要团综",
+      "onboard_time": 1734186982,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -10697,6 +10769,14 @@
       "onboard_time": 1733891180,
       "rank": 43,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 195597,
+      "num": 476902,
+      "word": "爷爷20年前给孙女买好结婚礼物",
+      "onboard_time": 1734185182,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 195571,
@@ -13363,6 +13443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164244,
+      "num": 164244,
+      "word": "现在拨打的电话第六集",
+      "onboard_time": 1734187101,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164184,
       "num": 221452,
       "word": "42岁coser博主抗癌成功",
@@ -13585,6 +13673,14 @@
       "onboard_time": 1733900000,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160823,
+      "num": 160823,
+      "word": "安徽一路口发生爆裂4人受伤",
+      "onboard_time": 1734186381,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 160704,
@@ -13969,14 +14065,6 @@
       "onboard_time": 1733714598,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156858,
-      "num": 156858,
-      "word": "自助烤肉儿媳妇不能吃",
-      "onboard_time": 1734185602,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 156857,
@@ -14577,14 +14665,6 @@
       "onboard_time": 1733969420,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151026,
-      "num": 151026,
-      "word": "贾跃亭说再还七八亿就可以回国",
-      "onboard_time": 1734185602,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 150822,
@@ -16819,6 +16899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123102,
+      "num": 280064,
+      "word": "陈清晨说全力以赴拼命了",
+      "onboard_time": 1734186381,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123082,
       "num": 123082,
       "word": "张艺兴给所有考生接好运",
@@ -18043,14 +18131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101674,
-      "num": 476902,
-      "word": "爷爷20年前给孙女买好结婚礼物",
-      "onboard_time": 1734185182,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 101635,
       "num": 101635,
       "word": "陶喆投票点歌",
@@ -18507,6 +18587,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 94085,
+      "num": 355379,
+      "word": "小区交付不到三年多处钢筋外露",
+      "onboard_time": 1734185121,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 94046,
       "num": 114972,
       "word": "范丞丞说明星也是人呐",
@@ -18713,6 +18801,14 @@
       "onboard_time": 1733720898,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90096,
+      "num": 312059,
+      "word": "今年冬至考研",
+      "onboard_time": 1734186681,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 89966,
@@ -20643,14 +20739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55723,
-      "num": 355379,
-      "word": "小区交付不到三年多处钢筋外露",
-      "onboard_time": 1734185121,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 55129,
       "num": 189611,
       "word": "你觉得四六级什么题型最难",
@@ -21235,6 +21323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47501,
+      "num": 1169176,
+      "word": "天宫画展又双叒上新了",
+      "onboard_time": 1734177921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47397,
       "num": 456343,
       "word": "手机里藏着另一套mbti测试题",
@@ -21257,14 +21353,6 @@
       "onboard_time": 1734147198,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47086,
-      "num": 1163722,
-      "word": "天宫画展又双叒上新了",
-      "onboard_time": 1734177921,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46944,
@@ -21745,6 +21833,14 @@
       "onboard_time": 1734001701,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41437,
+      "num": 342562,
+      "word": "周柯宇直播",
+      "onboard_time": 1734186800,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 41175,
@@ -22635,6 +22731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 32482,
+      "num": 342432,
+      "word": "女子报夜校等了一个月人还没凑齐",
+      "onboard_time": 1734186800,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 32451,
       "num": 125897,
       "word": "老人退休金2800买保险350万",
@@ -22913,6 +23017,14 @@
       "onboard_time": 1734088879,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 30558,
+      "num": 416922,
+      "word": "齐鲁医院辟谣韩语学生坐诊参与手术",
+      "onboard_time": 1734186800,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30511,
