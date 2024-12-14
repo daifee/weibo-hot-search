@@ -1,0 +1,410 @@
+{
+  "runTime": 1734201017114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 370596,
+        "num": 370596,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 322617,
+        "num": 322617,
+        "word": "年轻人开始反向驯化大数据杀熟",
+        "onboard_time": 1734195916,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24791,
+        "num": 295653,
+        "word": "中央经济工作会议释放重磅信号",
+        "onboard_time": 1734180621,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287410,
+        "num": 287410,
+        "word": "被草莓蛋糕带火的搪瓷盆已卖断货",
+        "onboard_time": 1734195677,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177256,
+        "num": 177256,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147114,
+        "num": 147114,
+        "word": "永夜星河热度",
+        "onboard_time": 1734186741,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146547,
+        "num": 146547,
+        "word": "花5000元买3针九价HPV疫苗全是假的",
+        "onboard_time": 1734191479,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137219,
+        "num": 137219,
+        "word": "知情人透露代孕机构老板直系亲属是公安人员",
+        "onboard_time": 1734194418,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128513,
+        "num": 128513,
+        "word": "53岁的于和伟演大学生就是赌",
+        "onboard_time": 1734188661,
+        "rank": 8,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 15226,
+        "num": 101523,
+        "word": "埃文凯尔没想到纪念馆建在万人坑上",
+        "onboard_time": 1734200532,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101386,
+        "num": 101386,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93527,
+        "num": 93527,
+        "word": "左奇函 王源",
+        "onboard_time": 1734182362,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84878,
+        "num": 84878,
+        "word": "周密直播",
+        "onboard_time": 1734186499,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83968,
+        "num": 83968,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79320,
+        "num": 79320,
+        "word": "张萌 我要团综",
+        "onboard_time": 1734186982,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75052,
+        "num": 75052,
+        "word": "贾跃亭说再还七八亿就可以回国",
+        "onboard_time": 1734185602,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71394,
+        "num": 71394,
+        "word": "现在拨打的电话第六集",
+        "onboard_time": 1734187101,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71081,
+        "num": 71081,
+        "word": "腾讯八部热度破30000剧集",
+        "onboard_time": 1734188480,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67074,
+        "num": 67074,
+        "word": "7种食物要焯水后再吃",
+        "onboard_time": 1734191719,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68028,
+        "num": 67001,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66803,
+        "num": 66803,
+        "word": "鹿晗五哈5路透",
+        "onboard_time": 1734199573,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61510,
+        "num": 61510,
+        "word": "早睡其实什么都不会失去",
+        "onboard_time": 1734184641,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59512,
+        "num": 59512,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56203,
+        "num": 56203,
+        "word": "穿袜子睡觉会减少夜醒次数",
+        "onboard_time": 1734190579,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55410,
+        "num": 55410,
+        "word": "反复评论机票太贵能便宜2000多",
+        "onboard_time": 1734191360,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54776,
+        "num": 54776,
+        "word": "何猷君说往北看都是大机遇",
+        "onboard_time": 1734183920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53740,
+        "num": 53740,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51909,
+        "num": 51909,
+        "word": "张元英首个中国封面",
+        "onboard_time": 1734178761,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50367,
+        "num": 50367,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1734181700,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48889,
+        "num": 48889,
+        "word": "杭州一执勤女骑警神似贾静雯",
+        "onboard_time": 1734191962,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45727,
+        "num": 45727,
+        "word": "虞书欣好强大的心脏",
+        "onboard_time": 1734180440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44650,
+        "num": 44650,
+        "word": "丁禹兮胸肌",
+        "onboard_time": 1734172759,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44185,
+        "num": 44185,
+        "word": "双胞胎姐妹排排站接哥哥放学",
+        "onboard_time": 1734199333,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42924,
+        "num": 42924,
+        "word": "孟子义今晚大婚有点紧张呢",
+        "onboard_time": 1734183081,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40121,
+        "num": 40121,
+        "word": "杨幂唐嫣刘诗诗嘉人同框",
+        "onboard_time": 1734180921,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 13592,
+        "num": 39920,
+        "word": "速览中央经济工作会议重要表述",
+        "onboard_time": 1734200893,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 39902,
+        "num": 39902,
+        "word": "六级答案",
+        "onboard_time": 1734169522,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39743,
+        "num": 39743,
+        "word": "成都的炸土豆已经进化成这样了吗",
+        "onboard_time": 1734184763,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39019,
+        "num": 39019,
+        "word": "樊振东林诗栋高手过招好精彩",
+        "onboard_time": 1734192800,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38536,
+        "num": 38536,
+        "word": "张宁赛后哭了",
+        "onboard_time": 1734198256,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38042,
+        "num": 38042,
+        "word": "网红婚纱男模阿冼被曝车祸去世",
+        "onboard_time": 1734176180,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37179,
+        "num": 37179,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35843,
+        "num": 35843,
+        "word": "孟子义李昀锐贴贴拍照",
+        "onboard_time": 1734190761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34953,
+        "num": 34953,
+        "word": "以色列趁乱袭击叙利亚目的何在",
+        "onboard_time": 1734198134,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34736,
+        "num": 34736,
+        "word": "陶喆广州演唱会",
+        "onboard_time": 1734195196,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34072,
+        "num": 34072,
+        "word": "38岁抗癌博主二次复发时前夫提离婚",
+        "onboard_time": 1734184702,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33381,
+        "num": 33381,
+        "word": "六级听力",
+        "onboard_time": 1734169522,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34236,
+        "num": 33201,
+        "word": "李昀锐 笑容逐渐消失",
+        "onboard_time": 1734175820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32753,
+        "num": 32753,
+        "word": "张韶涵演唱会",
+        "onboard_time": 1734191420,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32689,
+        "num": 32689,
+        "word": "2024结束前看场流星雨",
+        "onboard_time": 1734196934,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  }
+}
