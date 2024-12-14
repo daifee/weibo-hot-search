@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734176159693,
+  "endTime": 1734180128184,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -75,12 +75,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1320615,
-      "num": 1320615,
+      "raw_hot": 1758279,
+      "num": 1758279,
       "word": "北大教授因女儿痛经研发新药",
       "onboard_time": 1734173840,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1465178,
+      "num": 1465178,
+      "word": "kimi崩了",
+      "onboard_time": 1734174260,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 1271613,
@@ -97,6 +105,14 @@
       "onboard_time": 1734164239,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1185306,
+      "num": 1185306,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1734176720,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1185011,
@@ -217,14 +233,6 @@
       "onboard_time": 1734101840,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 902090,
-      "num": 902090,
-      "word": "kimi崩了",
-      "onboard_time": 1734174260,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 896776,
@@ -435,6 +443,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607106,
+      "num": 595138,
+      "word": "福宝检查结果",
+      "onboard_time": 1734175880,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 604484,
+      "num": 604484,
+      "word": "李昀锐 笑容逐渐消失",
+      "onboard_time": 1734175820,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 594997,
+      "num": 594997,
+      "word": "女子举着付款界面手机跑进派出所",
+      "onboard_time": 1734168079,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 589936,
       "num": 589936,
       "word": "何超莲人脉",
@@ -473,6 +505,14 @@
       "onboard_time": 1734152841,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 568704,
+      "num": 568704,
+      "word": "张元英首个中国封面",
+      "onboard_time": 1734178761,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 557997,
@@ -595,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 417574,
+      "num": 417574,
+      "word": "网红婚纱男模阿冼被曝车祸去世",
+      "onboard_time": 1734176180,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 413986,
       "num": 413986,
       "word": "微信多收10元收费站3人被停职",
@@ -609,6 +657,22 @@
       "onboard_time": 1734101899,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411959,
+      "num": 411959,
+      "word": "九重紫热度",
+      "onboard_time": 1734176001,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 408531,
+      "num": 408531,
+      "word": "左奇函怎么了",
+      "onboard_time": 1734177200,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 398863,
@@ -689,6 +753,14 @@
       "onboard_time": 1734126671,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352662,
+      "num": 600878,
+      "word": "韩国国会通过尹锡悦弹劾动议案",
+      "onboard_time": 1734172400,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 346849,
@@ -787,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292970,
-      "num": 600878,
-      "word": "韩国国会通过尹锡悦弹劾动议案",
-      "onboard_time": 1734172400,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 292675,
       "num": 292675,
       "word": "16岁哥哥得知弟弟患癌1顿饭1块钱",
@@ -817,6 +881,14 @@
       "onboard_time": 1734097339,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282514,
+      "num": 282514,
+      "word": "唐三小舞官宣订婚",
+      "onboard_time": 1734179120,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 280467,
@@ -1043,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216398,
-      "num": 216398,
-      "word": "女子举着付款界面手机跑进派出所",
-      "onboard_time": 1734168079,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216364,
       "num": 216364,
       "word": "孙颖莎vs姚睿轩",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1734171620,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209007,
+      "num": 209007,
+      "word": "肚里有十多个肿瘤的抗癌老师发声",
+      "onboard_time": 1734174380,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207398,
@@ -1259,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195871,
+      "num": 195871,
+      "word": "你好星期六",
+      "onboard_time": 1734179540,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195659,
       "num": 195659,
       "word": "鞠婧祎粉衣古装路透",
@@ -1347,6 +1427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189861,
+      "num": 189861,
+      "word": "夏之光直播戴口罩",
+      "onboard_time": 1734176060,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189805,
       "num": 207465,
       "word": "国色芳华看片反馈",
@@ -1427,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181173,
-      "num": 181173,
-      "word": "福宝检查结果",
-      "onboard_time": 1734175880,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 180430,
       "num": 180430,
       "word": "29岁自律女人在农村高能量的一天",
@@ -1475,6 +1555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176254,
+      "num": 176254,
+      "word": "好佩服上一辈女性的生死观",
+      "onboard_time": 1734178102,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175144,
       "num": 175144,
       "word": "2025LPL新赛制",
@@ -1497,6 +1585,30 @@
       "onboard_time": 1734152419,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172884,
+      "num": 552422,
+      "word": "澳大利亚男子当街给人注射疑毒品物",
+      "onboard_time": 1734175460,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172628,
+      "num": 172628,
+      "word": "林一公主抱三次的男人出现了",
+      "onboard_time": 1734177200,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170319,
+      "num": 170319,
+      "word": "奇葩吃播又成流量密码",
+      "onboard_time": 1734176660,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169460,
@@ -1563,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164775,
-      "num": 164775,
-      "word": "肚里有十多个肿瘤的抗癌老师发声",
-      "onboard_time": 1734174380,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164388,
       "num": 164388,
       "word": "悟空被压了几百年都没黑化",
@@ -1600,14 +1704,6 @@
       "word": "成毅长安二十四计",
       "onboard_time": 1734147859,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 162511,
-      "num": 162511,
-      "word": "李昀锐 笑容逐渐消失",
-      "onboard_time": 1734175820,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1673,6 +1769,22 @@
       "onboard_time": 1734161597,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157631,
+      "num": 569444,
+      "word": "樊振东3比1林诗栋",
+      "onboard_time": 1734179241,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156826,
+      "num": 156826,
+      "word": "窦昭这一世做不到夫为妻纲",
+      "onboard_time": 1734179961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 156751,
@@ -1788,11 +1900,19 @@
     },
     {
       "raw_hot": 151427,
-      "num": 151427,
+      "num": 209020,
       "word": "乒超",
       "onboard_time": 1734176060,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151224,
+      "num": 151224,
+      "word": "剑来",
+      "onboard_time": 1734176902,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 150578,
@@ -1819,20 +1939,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149465,
+      "num": 149465,
+      "word": "艺考前被抱摔骨折女生将继续追责",
+      "onboard_time": 1734177800,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147868,
       "num": 147868,
       "word": "蒋敦豪巡演开票",
       "onboard_time": 1734154518,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147518,
-      "num": 147518,
-      "word": "九重紫热度",
-      "onboard_time": 1734176001,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 146821,
@@ -1915,14 +2035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140495,
-      "num": 140495,
-      "word": "夏之光直播戴口罩",
-      "onboard_time": 1734176060,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138215,
       "num": 138215,
       "word": "总决赛雅思组合晋级决赛",
@@ -1953,14 +2065,6 @@
       "onboard_time": 1734152659,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135115,
-      "num": 552422,
-      "word": "澳大利亚男子当街给人注射疑毒品物",
-      "onboard_time": 1734175460,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 134799,
@@ -2387,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93611,
+      "num": 409632,
+      "word": "刘宇宁直播",
+      "onboard_time": 1734179600,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91028,
       "num": 410532,
       "word": "1次挂号3天免费看病医生为何不接受",
@@ -2457,6 +2569,30 @@
       "onboard_time": 1734098181,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81885,
+      "num": 595182,
+      "word": "福宝今日最新视频",
+      "onboard_time": 1734179000,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81839,
+      "num": 213969,
+      "word": "朱婷分享5年前世俱杯手腕康复点滴",
+      "onboard_time": 1734180081,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81194,
+      "num": 190877,
+      "word": "被抱摔骨折女生希望对方付出代价",
+      "onboard_time": 1734178520,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80813,
@@ -2899,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38207,
+      "num": 181473,
+      "word": "南方实现供暖自由了",
+      "onboard_time": 1734177681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36134,
       "num": 212919,
       "word": "学习真的会长脑子",
@@ -2936,6 +3080,14 @@
       "word": "男子为了工作一周4斤酒结果肝衰竭",
       "onboard_time": 1734126612,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34957,
+      "num": 209034,
+      "word": "武汉劳斯莱斯被曝拖欠摄影师1500元",
+      "onboard_time": 1734178401,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3137,6 +3289,14 @@
       "onboard_time": 1734121811,
       "rank": 46,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 12389,
+      "num": 575150,
+      "word": "喃呒师傅看破地狱四次落泪",
+      "onboard_time": 1734179721,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 10630,

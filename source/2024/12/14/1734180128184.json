@@ -1,0 +1,410 @@
+{
+  "runTime": 1734180128184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1758279,
+        "num": 1758279,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1465178,
+        "num": 1465178,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123065,
+        "num": 1214199,
+        "word": "今年GDP预计增长5%左右",
+        "onboard_time": 1734167599,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1185306,
+        "num": 1185306,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1734176720,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802855,
+        "num": 802855,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 740302,
+        "num": 740302,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701131,
+        "num": 701131,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 699218,
+        "num": 699218,
+        "word": "六级答案",
+        "onboard_time": 1734169522,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 604484,
+        "num": 604484,
+        "word": "李昀锐 笑容逐渐消失",
+        "onboard_time": 1734175820,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81885,
+        "num": 595182,
+        "word": "福宝今日最新视频",
+        "onboard_time": 1734179000,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1109772,
+        "num": 595172,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607106,
+        "num": 595138,
+        "word": "福宝检查结果",
+        "onboard_time": 1734175880,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594997,
+        "num": 594997,
+        "word": "女子举着付款界面手机跑进派出所",
+        "onboard_time": 1734168079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12389,
+        "num": 575150,
+        "word": "喃呒师傅看破地狱四次落泪",
+        "onboard_time": 1734179721,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157631,
+        "num": 569444,
+        "word": "樊振东3比1林诗栋",
+        "onboard_time": 1734179241,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 568704,
+        "num": 568704,
+        "word": "张元英首个中国封面",
+        "onboard_time": 1734178761,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 557005,
+        "num": 557005,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 417574,
+        "num": 417574,
+        "word": "网红婚纱男模阿冼被曝车祸去世",
+        "onboard_time": 1734176180,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411959,
+        "num": 411959,
+        "word": "九重紫热度",
+        "onboard_time": 1734176001,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93611,
+        "num": 409632,
+        "word": "刘宇宁直播",
+        "onboard_time": 1734179600,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408531,
+        "num": 408531,
+        "word": "左奇函怎么了",
+        "onboard_time": 1734177200,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379462,
+        "num": 379462,
+        "word": "六级听力",
+        "onboard_time": 1734169522,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352662,
+        "num": 352662,
+        "word": "韩国国会通过尹锡悦弹劾动议案",
+        "onboard_time": 1734172400,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 342636,
+        "num": 342636,
+        "word": "尹锡悦总统职务立即停止",
+        "onboard_time": 1734163578,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316484,
+        "num": 316484,
+        "word": "莫离 白鹿",
+        "onboard_time": 1734173540,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309726,
+        "num": 309726,
+        "word": "Angelababy逛香港熊猫馆",
+        "onboard_time": 1734172940,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282514,
+        "num": 282514,
+        "word": "唐三小舞官宣订婚",
+        "onboard_time": 1734179120,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219464,
+        "num": 219464,
+        "word": "六级阅读",
+        "onboard_time": 1734169701,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81839,
+        "num": 213969,
+        "word": "朱婷分享5年前世俱杯手腕康复点滴",
+        "onboard_time": 1734180081,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34957,
+        "num": 209034,
+        "word": "武汉劳斯莱斯被曝拖欠摄影师1500元",
+        "onboard_time": 1734178401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101589,
+        "num": 209020,
+        "word": "乒超",
+        "onboard_time": 1734176060,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209007,
+        "num": 209007,
+        "word": "肚里有十多个肿瘤的抗癌老师发声",
+        "onboard_time": 1734174380,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205858,
+        "num": 205858,
+        "word": "丁禹兮胸肌",
+        "onboard_time": 1734172759,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205652,
+        "num": 205652,
+        "word": "女生买奶茶放冰箱隔天能用手拎起来",
+        "onboard_time": 1734164239,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197038,
+        "num": 197038,
+        "word": "九重紫19集",
+        "onboard_time": 1734175161,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195871,
+        "num": 195871,
+        "word": "你好星期六",
+        "onboard_time": 1734179540,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192643,
+        "num": 192643,
+        "word": "溜溜梅 时代少年团",
+        "onboard_time": 1734173239,
+        "rank": 36,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 81194,
+        "num": 190877,
+        "word": "被抱摔骨折女生希望对方付出代价",
+        "onboard_time": 1734178520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189861,
+        "num": 189861,
+        "word": "夏之光直播戴口罩",
+        "onboard_time": 1734176060,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38207,
+        "num": 181473,
+        "word": "南方实现供暖自由了",
+        "onboard_time": 1734177681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176254,
+        "num": 176254,
+        "word": "好佩服上一辈女性的生死观",
+        "onboard_time": 1734178102,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172884,
+        "num": 172884,
+        "word": "澳大利亚男子当街给人注射疑毒品物",
+        "onboard_time": 1734175460,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172628,
+        "num": 172628,
+        "word": "林一公主抱三次的男人出现了",
+        "onboard_time": 1734177200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170319,
+        "num": 170319,
+        "word": "奇葩吃播又成流量密码",
+        "onboard_time": 1734176660,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166915,
+        "num": 166915,
+        "word": "李昀锐把孟子义当几岁小孩宠",
+        "onboard_time": 1734172700,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165857,
+        "num": 165857,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164982,
+        "num": 164982,
+        "word": "沈翊 不签就换从不内耗",
+        "onboard_time": 1734172640,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156826,
+        "num": 156826,
+        "word": "窦昭这一世做不到夫为妻纲",
+        "onboard_time": 1734179961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 151224,
+        "word": "剑来",
+        "onboard_time": 1734176902,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149465,
+        "num": 149465,
+        "word": "艺考前被抱摔骨折女生将继续追责",
+        "onboard_time": 1734177800,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览中央经济工作会议重要表述#"
+    }
+  }
+}
