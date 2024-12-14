@@ -1,0 +1,411 @@
+{
+  "startTime": 1734193659999,
+  "endTime": 1734193659999,
+  "band_list": [
+    {
+      "raw_hot": 1271579,
+      "num": 504040,
+      "word": "厦门大学一女生被殴打需植入钢钉",
+      "onboard_time": 1734188780,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1161640,
+      "num": 1161640,
+      "word": "大学生买包发现731部队调查残件",
+      "onboard_time": 1734185542,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 1004192,
+      "num": 472878,
+      "word": "孟子义李昀锐共发30万红包",
+      "onboard_time": 1734188840,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 756585,
+      "num": 756585,
+      "word": "花5000元买3针九价HPV疫苗全是假的",
+      "onboard_time": 1734191479,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 746933,
+      "num": 746933,
+      "word": "永夜星河热度",
+      "onboard_time": 1734186741,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 565127,
+      "num": 565127,
+      "word": "kimi崩了",
+      "onboard_time": 1734174260,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 440470,
+      "num": 440470,
+      "word": "周密直播",
+      "onboard_time": 1734186499,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 440095,
+      "num": 345684,
+      "word": "合肥代孕",
+      "onboard_time": 1734170841,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376753,
+      "num": 376753,
+      "word": "张萌 我要团综",
+      "onboard_time": 1734186982,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345320,
+      "num": 345320,
+      "word": "北大教授因女儿痛经研发新药",
+      "onboard_time": 1734173840,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332545,
+      "num": 181496,
+      "word": "穿袜子睡觉会减少夜醒次数",
+      "onboard_time": 1734190579,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 320979,
+      "num": 320979,
+      "word": "左奇函 王源",
+      "onboard_time": 1734182362,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319400,
+      "num": 319400,
+      "word": "腾讯八部热度破30000剧集",
+      "onboard_time": 1734188480,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313483,
+      "num": 313483,
+      "word": "贾跃亭说再还七八亿就可以回国",
+      "onboard_time": 1734185602,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 305450,
+      "num": 305450,
+      "word": "马龙2比1胜奥恰洛夫",
+      "onboard_time": 1734188901,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 291950,
+      "num": 291950,
+      "word": "53岁的于和伟演大学生就是赌",
+      "onboard_time": 1734188661,
+      "rank": 16,
+      "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 269163,
+      "num": 269163,
+      "word": "孟子义李昀锐贴贴拍照",
+      "onboard_time": 1734190761,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228325,
+      "num": 180516,
+      "word": "反复评论机票太贵能便宜2000多",
+      "onboard_time": 1734191360,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223376,
+      "num": 223376,
+      "word": "吃播为引流吞下两斤纯肥肉",
+      "onboard_time": 1734160517,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 186061,
+      "num": 186061,
+      "word": "杨幂唐嫣刘诗诗嘉人同框",
+      "onboard_time": 1734180921,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 182380,
+      "num": 345978,
+      "word": "杭州一执勤女骑警神似贾静雯",
+      "onboard_time": 1734191962,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174589,
+      "num": 174589,
+      "word": "六级答案",
+      "onboard_time": 1734169522,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 172662,
+      "num": 172662,
+      "word": "九重紫",
+      "onboard_time": 1734165379,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169682,
+      "num": 169682,
+      "word": "何猷君说往北看都是大机遇",
+      "onboard_time": 1734183920,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160149,
+      "num": 160149,
+      "word": "早睡其实什么都不会失去",
+      "onboard_time": 1734184641,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153786,
+      "num": 153786,
+      "word": "现在拨打的电话第六集",
+      "onboard_time": 1734187101,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142721,
+      "num": 142721,
+      "word": "原来北斗导航系统的翻译就在logo里",
+      "onboard_time": 1734189021,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 140678,
+      "num": 140678,
+      "word": "成都的炸土豆已经进化成这样了吗",
+      "onboard_time": 1734184763,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 139907,
+      "num": 102684,
+      "word": "孔雪儿九重紫婚礼crush文学",
+      "onboard_time": 1734189681,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135593,
+      "num": 135593,
+      "word": "六级",
+      "onboard_time": 1734155959,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 131545,
+      "num": 131545,
+      "word": "主播为何一到晚上就作妖",
+      "onboard_time": 1734188480,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128996,
+      "num": 128996,
+      "word": "虞书欣好强大的心脏",
+      "onboard_time": 1734180440,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123268,
+      "num": 123268,
+      "word": "张韶涵演唱会",
+      "onboard_time": 1734191420,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115950,
+      "num": 115950,
+      "word": "丁禹兮销售战报",
+      "onboard_time": 1734188361,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113531,
+      "num": 113531,
+      "word": "38岁抗癌博主二次复发时前夫提离婚",
+      "onboard_time": 1734184702,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105726,
+      "num": 105726,
+      "word": "梁永棋猎罪图鉴2定妆花絮",
+      "onboard_time": 1734189081,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104799,
+      "num": 104799,
+      "word": "樊振东林诗栋高手过招好精彩",
+      "onboard_time": 1734192800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104485,
+      "num": 104485,
+      "word": "7种食物要焯水后再吃",
+      "onboard_time": 1734191719,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102937,
+      "num": 102937,
+      "word": "丁禹兮胸肌",
+      "onboard_time": 1734172759,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102075,
+      "num": 102075,
+      "word": "悉尼发现碎尸包裹死者为海外华人",
+      "onboard_time": 1734170481,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100827,
+      "num": 100827,
+      "word": "自助烤肉儿媳妇不能吃",
+      "onboard_time": 1734185602,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94071,
+      "num": 94071,
+      "word": "六级听力",
+      "onboard_time": 1734169522,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 91932,
+      "num": 91932,
+      "word": "陈梦vs迪亚兹",
+      "onboard_time": 1734188181,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85557,
+      "num": 85557,
+      "word": "孙颖莎说通过单打不断找回状态",
+      "onboard_time": 1734188480,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82413,
+      "num": 82413,
+      "word": "猎罪图鉴2警惕犯罪型人格障碍",
+      "onboard_time": 1734186321,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80997,
+      "num": 170019,
+      "word": "孙颖莎加油声连绵不绝",
+      "onboard_time": 1734191360,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78440,
+      "num": 78440,
+      "word": "老瓦杯",
+      "onboard_time": 1734184522,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76800,
+      "num": 76800,
+      "word": "张元英首个中国封面",
+      "onboard_time": 1734178761,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 75329,
+      "num": 75329,
+      "word": "网红婚纱男模阿冼被曝车祸去世",
+      "onboard_time": 1734176180,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 32838,
+      "num": 750012,
+      "word": "天宫画展又双叒上新了",
+      "onboard_time": 1734177921,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  ]
+}
