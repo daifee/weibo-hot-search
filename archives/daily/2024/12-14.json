@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734168175412,
+  "endTime": 1734169013385,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -33,6 +33,14 @@
       "onboard_time": 1734160517,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2083778,
+      "num": 2083778,
+      "word": "六级",
+      "onboard_time": 1734155959,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1927462,
@@ -315,14 +323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 629036,
-      "num": 629036,
-      "word": "六级",
-      "onboard_time": 1734155959,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 628148,
       "num": 628148,
       "word": "朝鲜特种部队协助俄罗斯作战",
@@ -387,12 +387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534139,
+      "num": 534139,
+      "word": "何超莲人脉",
+      "onboard_time": 1734163157,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 532872,
       "num": 505522,
       "word": "NewJeans开通新ins账号",
       "onboard_time": 1734155539,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530948,
+      "num": 530948,
+      "word": "韩德洙代行韩国总统职务",
+      "onboard_time": 1734166040,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 529954,
@@ -433,14 +449,6 @@
       "onboard_time": 1734132134,
       "rank": 46,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 453463,
-      "num": 453463,
-      "word": "何超莲人脉",
-      "onboard_time": 1734163157,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 449341,
@@ -499,12 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401536,
-      "num": 401536,
-      "word": "韩德洙代行韩国总统职务",
-      "onboard_time": 1734166040,
-      "rank": 11,
-      "category": "国际时政"
+      "raw_hot": 398863,
+      "num": 394877,
+      "word": "麦子阿姨回忆连麦大冰",
+      "onboard_time": 1734165918,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 396074,
+      "num": 396074,
+      "word": "机票实付800多却只能报销520元",
+      "onboard_time": 1734167961,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 395768,
@@ -553,14 +569,6 @@
       "onboard_time": 1734149181,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336204,
-      "num": 336204,
-      "word": "麦子阿姨回忆连麦大冰",
-      "onboard_time": 1734165918,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 330853,
@@ -675,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264991,
+      "num": 264991,
+      "word": "车厘子到港在船上就卖了",
+      "onboard_time": 1734164059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258748,
       "num": 258748,
       "word": "肖奈 古风小生",
@@ -692,7 +708,7 @@
     },
     {
       "raw_hot": 257472,
-      "num": 200120,
+      "num": 255121,
       "word": "种地吧",
       "onboard_time": 1734157278,
       "rank": 34,
@@ -755,6 +771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232640,
+      "num": 232640,
+      "word": "建议气血不足的人像猫学习",
+      "onboard_time": 1734167659,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232288,
       "num": 315899,
       "word": "四级翻译莫高窟",
@@ -811,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219387,
+      "num": 219387,
+      "word": "六级翻译",
+      "onboard_time": 1734168739,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216013,
       "num": 216013,
       "word": "名侦探学院8 口号抄袭",
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 209958,
-      "num": 188189,
+      "num": 188928,
       "word": "汪苏泷说对THE9非常有感情",
       "onboard_time": 1734165979,
       "rank": 27,
@@ -1035,12 +1067,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192942,
-      "num": 258527,
-      "word": "车厘子到港在船上就卖了",
-      "onboard_time": 1734164059,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 193654,
+      "num": 193654,
+      "word": "OpenAI吹哨人被证实死亡",
+      "onboard_time": 1734163519,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 192756,
@@ -1099,20 +1131,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186612,
-      "num": 186612,
-      "word": "OpenAI吹哨人被证实死亡",
-      "onboard_time": 1734163519,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 186444,
       "num": 186444,
       "word": "被曝在厕所洗鱼外卖店已停业整顿",
       "onboard_time": 1734138497,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 182042,
+      "num": 182042,
+      "word": "赵露思彭冠英雪中海报",
+      "onboard_time": 1734168619,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 181450,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1734147260,
       "rank": 49,
       "category": "游戏,财经"
+    },
+    {
+      "raw_hot": 178212,
+      "num": 178212,
+      "word": "女子举着付款界面手机跑进派出所",
+      "onboard_time": 1734168079,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177585,
@@ -1216,6 +1256,14 @@
       "word": "为什么四六级及格线是425",
       "onboard_time": 1734147319,
       "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166220,
+      "num": 166220,
+      "word": "六级作文",
+      "onboard_time": 1734168920,
+      "rank": 35,
       "category": "教育"
     },
     {
@@ -1339,12 +1387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156335,
-      "num": 156335,
-      "word": "建议气血不足的人像猫学习",
-      "onboard_time": 1734167659,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 155885,
+      "num": 155885,
+      "word": "秦海璐小说书单又上新了",
+      "onboard_time": 1734168319,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 155588,
@@ -1643,6 +1691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125054,
+      "num": 188779,
+      "word": "日本民众举行集会反思历史",
+      "onboard_time": 1734165738,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124982,
       "num": 124982,
       "word": "九重紫破镜重生播出前三天还在优化",
@@ -1675,14 +1731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122425,
-      "num": 192888,
-      "word": "机票实付800多却只能报销520元",
-      "onboard_time": 1734167961,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 121763,
       "num": 121763,
       "word": "景区回应游客与猴子互殴",
@@ -1697,6 +1745,14 @@
       "onboard_time": 1734157758,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121086,
+      "num": 121086,
+      "word": "剑来动画大结局顶级宿命感",
+      "onboard_time": 1734168079,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 119710,
@@ -1739,12 +1795,28 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 114180,
+      "num": 114180,
+      "word": "专八女友陪博士男友15战英语四级",
+      "onboard_time": 1734168860,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113762,
       "num": 113762,
       "word": "韩语学生炫耀在医院坐诊参与手术",
       "onboard_time": 1734163338,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 112996,
+      "num": 112996,
+      "word": "考个研到底还能闹出多少笑话",
+      "onboard_time": 1734168319,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 111951,
@@ -1795,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108530,
-      "num": 108530,
-      "word": "剑来动画大结局顶级宿命感",
-      "onboard_time": 1734168079,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 108028,
       "num": 108028,
       "word": "陈梦巴黎奥运后首次出战",
@@ -1843,14 +1907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104176,
-      "num": 188779,
-      "word": "日本民众举行集会反思历史",
-      "onboard_time": 1734165738,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103274,
       "num": 103274,
       "word": "王楚钦vs安宰贤",
@@ -1867,14 +1923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102664,
-      "num": 102664,
-      "word": "女子举着付款界面手机跑进派出所",
-      "onboard_time": 1734168079,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101344,
       "num": 101344,
       "word": "于和伟 只字不提",
@@ -1883,20 +1931,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 99729,
+      "num": 146725,
+      "word": "烤红薯",
+      "onboard_time": 1734168140,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98449,
       "num": 98449,
       "word": "宁夏一地成群野狗追咬小学生",
       "onboard_time": 1734110474,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97270,
-      "num": 97270,
-      "word": "烤红薯",
-      "onboard_time": 1734168140,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 96903,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1734102859,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85292,
+      "num": 1820878,
+      "word": "今年GDP预计增长5%左右",
+      "onboard_time": 1734167599,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85190,
@@ -2147,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69879,
+      "num": 187121,
+      "word": "男博士回应十四战英语四级",
+      "onboard_time": 1734167179,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68115,
       "num": 82446,
       "word": "金玟庭发泡泡报平安",
@@ -2200,14 +2264,6 @@
       "word": "一组图了解五谷的前世今生",
       "onboard_time": 1734148880,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57059,
-      "num": 187121,
-      "word": "男博士回应十四战英语四级",
-      "onboard_time": 1734167179,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2297,14 +2353,6 @@
       "onboard_time": 1734147198,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46532,
-      "num": 858986,
-      "word": "今年GDP预计增长5%左右",
-      "onboard_time": 1734167599,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45861,
@@ -2516,7 +2564,7 @@
     },
     {
       "raw_hot": 30103,
-      "num": 191962,
+      "num": 255140,
       "word": "终于轮到我去澳门看非遗了",
       "onboard_time": 1734166819,
       "rank": 19,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1734159438,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9146,
+      "num": 181963,
+      "word": "跟着甄嬛传背六级单词",
+      "onboard_time": 1734168739,
+      "rank": 29,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 8784,
