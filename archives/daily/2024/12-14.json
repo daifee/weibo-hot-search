@@ -1,6 +1,6 @@
 {
   "startTime": 1734107386426,
-  "endTime": 1734175120984,
+  "endTime": 1734176159693,
   "band_list": [
     {
       "raw_hot": 7116490,
@@ -73,6 +73,14 @@
       "onboard_time": 1734139578,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1320615,
+      "num": 1320615,
+      "word": "北大教授因女儿痛经研发新药",
+      "onboard_time": 1734173840,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1271613,
@@ -211,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 902090,
+      "num": 902090,
+      "word": "kimi崩了",
+      "onboard_time": 1734174260,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 896776,
       "num": 1143327,
       "word": "谁来管管猎罪图鉴2的弹幕",
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 704021,
-      "num": 488643,
+      "num": 511555,
       "word": "Angelababy逛香港熊猫馆",
       "onboard_time": 1734172940,
       "rank": 12,
@@ -459,8 +475,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 557539,
-      "num": 557539,
+      "raw_hot": 557997,
+      "num": 557997,
       "word": "莫离 白鹿",
       "onboard_time": 1734173540,
       "rank": 6,
@@ -481,14 +497,6 @@
       "onboard_time": 1734156738,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535361,
-      "num": 535361,
-      "word": "北大教授因女儿痛经研发新药",
-      "onboard_time": 1734173840,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 535051,
@@ -569,14 +577,6 @@
       "onboard_time": 1734086300,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 439061,
-      "num": 439061,
-      "word": "kimi崩了",
-      "onboard_time": 1734174260,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 431994,
@@ -675,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358343,
+      "num": 358343,
+      "word": "李昀锐把孟子义当几岁小孩宠",
+      "onboard_time": 1734172700,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354522,
       "num": 354522,
       "word": "5个爸爸直播跳舞救癌症孩子赚100万",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 310575,
-      "num": 261386,
+      "num": 273526,
       "word": "丁禹兮胸肌",
       "onboard_time": 1734172759,
       "rank": 47,
@@ -769,6 +777,14 @@
       "onboard_time": 1734157100,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297336,
+      "num": 297336,
+      "word": "沈翊 不签就换从不内耗",
+      "onboard_time": 1734172640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 292970,
@@ -803,11 +819,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 275993,
-      "num": 275993,
-      "word": "李昀锐把孟子义当几岁小孩宠",
-      "onboard_time": 1734172700,
-      "rank": 26,
+      "raw_hot": 280467,
+      "num": 280467,
+      "word": "九重紫19集",
+      "onboard_time": 1734175161,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -817,14 +833,6 @@
       "onboard_time": 1734144559,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 273321,
-      "num": 273321,
-      "word": "沈翊 不签就换从不内耗",
-      "onboard_time": 1734172640,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 270916,
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216364,
+      "num": 216364,
+      "word": "孙颖莎vs姚睿轩",
+      "onboard_time": 1734174380,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216013,
       "num": 216013,
       "word": "名侦探学院8 口号抄袭",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1734165979,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211334,
+      "num": 216712,
+      "word": "田曦薇逐玉定妆下班",
+      "onboard_time": 1734175640,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 211288,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1734149959,
       "rank": 44,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "孙颖莎vs姚睿轩",
-      "onboard_time": 1734174380,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 198625,
@@ -1387,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186516,
+      "num": 412316,
+      "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
+      "onboard_time": 1734173781,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186444,
       "num": 186444,
       "word": "被曝在厕所洗鱼外卖店已停业整顿",
@@ -1401,6 +1425,14 @@
       "onboard_time": 1734160877,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181173,
+      "num": 181173,
+      "word": "福宝检查结果",
+      "onboard_time": 1734175880,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180430,
@@ -1531,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164775,
+      "num": 164775,
+      "word": "肚里有十多个肿瘤的抗癌老师发声",
+      "onboard_time": 1734174380,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164388,
       "num": 164388,
       "word": "悟空被压了几百年都没黑化",
@@ -1560,6 +1600,14 @@
       "word": "成毅长安二十四计",
       "onboard_time": 1734147859,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162511,
+      "num": 162511,
+      "word": "李昀锐 笑容逐渐消失",
+      "onboard_time": 1734175820,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1739,6 +1787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151427,
+      "num": 151427,
+      "word": "乒超",
+      "onboard_time": 1734176060,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150578,
       "num": 150578,
       "word": "大侠8楼飞檐走壁救了小孩",
@@ -1755,14 +1811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149689,
-      "num": 149689,
-      "word": "肚里有十多个肿瘤的抗癌老师发声",
-      "onboard_time": 1734174380,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149591,
       "num": 241016,
       "word": "国色芳华过审",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1734154518,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147518,
+      "num": 147518,
+      "word": "九重紫热度",
+      "onboard_time": 1734176001,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 146821,
@@ -1859,6 +1915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140495,
+      "num": 140495,
+      "word": "夏之光直播戴口罩",
+      "onboard_time": 1734176060,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138215,
       "num": 138215,
       "word": "总决赛雅思组合晋级决赛",
@@ -1891,12 +1955,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135115,
+      "num": 552422,
+      "word": "澳大利亚男子当街给人注射疑毒品物",
+      "onboard_time": 1734175460,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134799,
       "num": 134799,
       "word": "种地吧直播",
       "onboard_time": 1734133816,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134468,
+      "num": 134468,
+      "word": "时代少年团直播",
+      "onboard_time": 1734176120,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 133569,
@@ -2027,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122382,
+      "num": 288408,
+      "word": "卢昱晓从人群中朝我走来的那一刻",
+      "onboard_time": 1734174080,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121763,
       "num": 121763,
       "word": "景区回应游客与猴子互殴",
@@ -2155,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108074,
+      "num": 295306,
+      "word": "陆妍淇画沈翊感谢檀健次",
+      "onboard_time": 1734175279,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108028,
       "num": 108028,
       "word": "陈梦巴黎奥运后首次出战",
@@ -2193,14 +2289,6 @@
       "onboard_time": 1734094279,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 103626,
-      "num": 412316,
-      "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
-      "onboard_time": 1734173781,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 103274,
@@ -2321,6 +2409,14 @@
       "onboard_time": 1734154579,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89188,
+      "num": 216457,
+      "word": "王楚钦乒超今日轮休",
+      "onboard_time": 1734176120,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 88267,
@@ -2499,14 +2595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69142,
-      "num": 179365,
-      "word": "卢昱晓从人群中朝我走来的那一刻",
-      "onboard_time": 1734174080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68115,
       "num": 82446,
       "word": "金玟庭发泡泡报平安",
@@ -2601,6 +2689,14 @@
       "onboard_time": 1734160099,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54321,
+      "num": 491196,
+      "word": "一词看懂明年经济工作怎么干",
+      "onboard_time": 1734174440,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 54298,
@@ -2769,14 +2865,6 @@
       "onboard_time": 1734108616,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40054,
-      "num": 471323,
-      "word": "一词看懂明年经济工作怎么干",
-      "onboard_time": 1734174440,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 39592,

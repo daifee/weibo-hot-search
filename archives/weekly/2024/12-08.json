@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734175120984,
+  "endTime": 1734176159693,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -867,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1320615,
+      "num": 1320615,
+      "word": "北大教授因女儿痛经研发新药",
+      "onboard_time": 1734173840,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1311036,
       "num": 1311036,
       "word": "周深千字长文",
@@ -1681,6 +1689,14 @@
       "onboard_time": 1733728340,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 902090,
+      "num": 902090,
+      "word": "kimi崩了",
+      "onboard_time": 1734174260,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 901073,
@@ -2612,7 +2628,7 @@
     },
     {
       "raw_hot": 704021,
-      "num": 488643,
+      "num": 511555,
       "word": "Angelababy逛香港熊猫馆",
       "onboard_time": 1734172940,
       "rank": 12,
@@ -3531,20 +3547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557997,
+      "num": 557997,
+      "word": "莫离 白鹿",
+      "onboard_time": 1734173540,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557727,
       "num": 557727,
       "word": "沈阳网红局长刘克斌升任副市长",
       "onboard_time": 1733888120,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 557539,
-      "num": 557539,
-      "word": "莫离 白鹿",
-      "onboard_time": 1734173540,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 557461,
@@ -3745,14 +3761,6 @@
       "onboard_time": 1733989579,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535361,
-      "num": 535361,
-      "word": "北大教授因女儿痛经研发新药",
-      "onboard_time": 1734173840,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 535051,
@@ -4699,14 +4707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439061,
-      "num": 439061,
-      "word": "kimi崩了",
-      "onboard_time": 1734174260,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 436773,
       "num": 436773,
       "word": "刘诗诗celine全球品牌大使",
@@ -5611,6 +5611,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 358343,
+      "num": 358343,
+      "word": "李昀锐把孟子义当几岁小孩宠",
+      "onboard_time": 1734172700,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358055,
       "num": 393708,
       "word": "Ruler吐槽JDG伙食差",
@@ -6476,7 +6484,7 @@
     },
     {
       "raw_hot": 310575,
-      "num": 261386,
+      "num": 273526,
       "word": "丁禹兮胸肌",
       "onboard_time": 1734172759,
       "rank": 47,
@@ -6753,6 +6761,14 @@
       "onboard_time": 1734060379,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297336,
+      "num": 297336,
+      "word": "沈翊 不签就换从不内耗",
+      "onboard_time": 1734172640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 297175,
@@ -7131,6 +7147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280467,
+      "num": 280467,
+      "word": "九重紫19集",
+      "onboard_time": 1734175161,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280086,
       "num": 603623,
       "word": "官方通报合肥一公司代孕",
@@ -7211,14 +7235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275993,
-      "num": 275993,
-      "word": "李昀锐把孟子义当几岁小孩宠",
-      "onboard_time": 1734172700,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275965,
       "num": 343598,
       "word": "电影射雕英雄传侠之大者",
@@ -7257,14 +7273,6 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 273321,
-      "num": 273321,
-      "word": "沈翊 不签就换从不内耗",
-      "onboard_time": 1734172640,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 271500,
@@ -9107,6 +9115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216364,
+      "num": 216364,
+      "word": "孙颖莎vs姚睿轩",
+      "onboard_time": 1734174380,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216013,
       "num": 216013,
       "word": "名侦探学院8 口号抄袭",
@@ -9288,6 +9304,14 @@
       "word": "真霸总不穿厚底鞋",
       "onboard_time": 1733847977,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211334,
+      "num": 216712,
+      "word": "田曦薇逐玉定妆下班",
+      "onboard_time": 1734175640,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -10057,14 +10081,6 @@
       "onboard_time": 1733661260,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199117,
-      "num": 199117,
-      "word": "孙颖莎vs姚睿轩",
-      "onboard_time": 1734174380,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 199063,
@@ -11291,6 +11307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186516,
+      "num": 412316,
+      "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
+      "onboard_time": 1734173781,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186505,
       "num": 186505,
       "word": "肖战纪录片1400万播放量",
@@ -11585,6 +11609,14 @@
       "onboard_time": 1733920999,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181173,
+      "num": 181173,
+      "word": "福宝检查结果",
+      "onboard_time": 1734175880,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181047,
@@ -12907,6 +12939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164775,
+      "num": 164775,
+      "word": "肚里有十多个肿瘤的抗癌老师发声",
+      "onboard_time": 1734174380,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164771,
       "num": 164771,
       "word": "探访深圳爆炸住宅楼",
@@ -13065,6 +13105,14 @@
       "onboard_time": 1733633179,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162511,
+      "num": 162511,
+      "word": "李昀锐 笑容逐渐消失",
+      "onboard_time": 1734175820,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 162451,
@@ -14275,14 +14323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149689,
-      "num": 149689,
-      "word": "肚里有十多个肿瘤的抗癌老师发声",
-      "onboard_time": 1734174380,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149625,
       "num": 149625,
       "word": "九重紫老头101",
@@ -15139,6 +15179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140495,
+      "num": 140495,
+      "word": "夏之光直播戴口罩",
+      "onboard_time": 1734176060,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "郑晓龙希望合作成毅",
@@ -15515,6 +15563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135115,
+      "num": 552422,
+      "word": "澳大利亚男子当街给人注射疑毒品物",
+      "onboard_time": 1734175460,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135045,
       "num": 135045,
       "word": "大三外籍留学生猥亵女生被拘",
@@ -15569,6 +15625,14 @@
       "onboard_time": 1733930899,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134468,
+      "num": 134468,
+      "word": "时代少年团直播",
+      "onboard_time": 1734176120,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 134168,
@@ -16337,6 +16401,14 @@
       "onboard_time": 1733797457,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122382,
+      "num": 288408,
+      "word": "卢昱晓从人群中朝我走来的那一刻",
+      "onboard_time": 1734174080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 122046,
@@ -17155,6 +17227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108074,
+      "num": 295306,
+      "word": "陆妍淇画沈翊感谢檀健次",
+      "onboard_time": 1734175279,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108053,
       "num": 392499,
       "word": "九重紫问吉把恶毒小妈忙坏了",
@@ -17377,14 +17457,6 @@
       "onboard_time": 1733795478,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 103626,
-      "num": 412316,
-      "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
-      "onboard_time": 1734173781,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 103325,
@@ -18209,6 +18281,14 @@
       "onboard_time": 1733845759,
       "rank": 47,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 89188,
+      "num": 216457,
+      "word": "王楚钦乒超今日轮休",
+      "onboard_time": 1734176120,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 89149,
@@ -19427,14 +19507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69142,
-      "num": 179365,
-      "word": "卢昱晓从人群中朝我走来的那一刻",
-      "onboard_time": 1734174080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68742,
       "num": 367890,
       "word": "交警执法现场有人用手电筒爆闪司机",
@@ -20161,6 +20233,14 @@
       "onboard_time": 1734160099,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54321,
+      "num": 491196,
+      "word": "一词看懂明年经济工作怎么干",
+      "onboard_time": 1734174440,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 54298,
@@ -21265,14 +21345,6 @@
       "onboard_time": 1734029712,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40054,
-      "num": 471323,
-      "word": "一词看懂明年经济工作怎么干",
-      "onboard_time": 1734174440,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 39915,

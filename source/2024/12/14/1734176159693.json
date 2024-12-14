@@ -1,0 +1,410 @@
+{
+  "runTime": 1734176159693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1448801,
+        "num": 1448801,
+        "word": "六级",
+        "onboard_time": 1734155959,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1320615,
+        "num": 1320615,
+        "word": "北大教授因女儿痛经研发新药",
+        "onboard_time": 1734173840,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173784,
+        "num": 1136312,
+        "word": "今年GDP预计增长5%左右",
+        "onboard_time": 1734167599,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1067349,
+        "num": 1067349,
+        "word": "六级答案",
+        "onboard_time": 1734169522,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 902090,
+        "num": 902090,
+        "word": "kimi崩了",
+        "onboard_time": 1734174260,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 877396,
+        "num": 877396,
+        "word": "九重紫",
+        "onboard_time": 1734165379,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844995,
+        "num": 844995,
+        "word": "吃播为引流吞下两斤纯肥肉",
+        "onboard_time": 1734160517,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 595024,
+        "num": 595024,
+        "word": "尹锡悦总统职务立即停止",
+        "onboard_time": 1734163578,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 557997,
+        "num": 557997,
+        "word": "莫离 白鹿",
+        "onboard_time": 1734173540,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135115,
+        "num": 552422,
+        "word": "澳大利亚男子当街给人注射疑毒品物",
+        "onboard_time": 1734175460,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1928085,
+        "num": 530885,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805170,
+        "num": 517230,
+        "word": "悉尼发现碎尸包裹死者为海外华人",
+        "onboard_time": 1734170481,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 656792,
+        "num": 511555,
+        "word": "Angelababy逛香港熊猫馆",
+        "onboard_time": 1734172940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54321,
+        "num": 491196,
+        "word": "一词看懂明年经济工作怎么干",
+        "onboard_time": 1734174440,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 486414,
+        "num": 486414,
+        "word": "如鸢",
+        "onboard_time": 1734173479,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 358343,
+        "num": 358343,
+        "word": "李昀锐把孟子义当几岁小孩宠",
+        "onboard_time": 1734172700,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331838,
+        "num": 331838,
+        "word": "丁禹兮主动牵虞书欣",
+        "onboard_time": 1734171800,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297336,
+        "num": 297336,
+        "word": "沈翊 不签就换从不内耗",
+        "onboard_time": 1734172640,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108074,
+        "num": 295306,
+        "word": "陆妍淇画沈翊感谢檀健次",
+        "onboard_time": 1734175279,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294053,
+        "num": 294053,
+        "word": "六级阅读",
+        "onboard_time": 1734169701,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358350,
+        "num": 291509,
+        "word": "女生买奶茶放冰箱隔天能用手拎起来",
+        "onboard_time": 1734164239,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122382,
+        "num": 288408,
+        "word": "卢昱晓从人群中朝我走来的那一刻",
+        "onboard_time": 1734174080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285870,
+        "num": 285870,
+        "word": "何超莲人脉",
+        "onboard_time": 1734163157,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280467,
+        "num": 280467,
+        "word": "九重紫19集",
+        "onboard_time": 1734175161,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275413,
+        "num": 275413,
+        "word": "韩国国会通过尹锡悦弹劾动议案",
+        "onboard_time": 1734172400,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273526,
+        "num": 273526,
+        "word": "丁禹兮胸肌",
+        "onboard_time": 1734172759,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254001,
+        "num": 254001,
+        "word": "六级 写笑了",
+        "onboard_time": 1734169941,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234601,
+        "num": 234601,
+        "word": "溜溜梅 时代少年团",
+        "onboard_time": 1734173239,
+        "rank": 27,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 211334,
+        "num": 216712,
+        "word": "田曦薇逐玉定妆下班",
+        "onboard_time": 1734175640,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89188,
+        "num": 216457,
+        "word": "王楚钦乒超今日轮休",
+        "onboard_time": 1734176120,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114847,
+        "num": 216409,
+        "word": "likelihood",
+        "onboard_time": 1734172279,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216364,
+        "num": 216364,
+        "word": "孙颖莎vs姚睿轩",
+        "onboard_time": 1734174380,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204270,
+        "num": 204270,
+        "word": "灵犀互娱称如鸢从未有女性向标签",
+        "onboard_time": 1734137656,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186516,
+        "num": 186516,
+        "word": "张予曦妈妈亲手做糖葫芦投喂粉丝",
+        "onboard_time": 1734173781,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181173,
+        "num": 181173,
+        "word": "福宝检查结果",
+        "onboard_time": 1734175880,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169724,
+        "num": 169724,
+        "word": "甄嬛传晚会陈建斌又要头疼了",
+        "onboard_time": 1734164418,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "六级听力",
+        "onboard_time": 1734169522,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164775,
+        "num": 164775,
+        "word": "肚里有十多个肿瘤的抗癌老师发声",
+        "onboard_time": 1734174380,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162511,
+        "num": 162511,
+        "word": "李昀锐 笑容逐渐消失",
+        "onboard_time": 1734175820,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161812,
+        "num": 161812,
+        "word": "六级翻译 北斗卫星导航系统",
+        "onboard_time": 1734169701,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 159725,
+        "word": "消散对白",
+        "onboard_time": 1734173419,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157803,
+        "num": 157803,
+        "word": "KBS歌谣大祝祭",
+        "onboard_time": 1734171620,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156923,
+        "num": 156923,
+        "word": "建议把药品有效期改成黑色字体",
+        "onboard_time": 1734169161,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155504,
+        "num": 155504,
+        "word": "机票实付800多却只能报销520元",
+        "onboard_time": 1734167961,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151427,
+        "num": 151427,
+        "word": "乒超",
+        "onboard_time": 1734176060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147518,
+        "num": 147518,
+        "word": "九重紫热度",
+        "onboard_time": 1734176001,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145599,
+        "num": 145599,
+        "word": "尹锡悦成韩国第三位被弹劾总统",
+        "onboard_time": 1734169221,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142445,
+        "num": 142445,
+        "word": "尹锡悦弹劾案通过",
+        "onboard_time": 1734163519,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140495,
+        "num": 140495,
+        "word": "夏之光直播戴口罩",
+        "onboard_time": 1734176060,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134468,
+        "num": 134468,
+        "word": "时代少年团直播",
+        "onboard_time": 1734176120,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#速览中央经济工作会议重要表述#"
+    }
+  }
+}
