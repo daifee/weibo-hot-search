@@ -1,6 +1,6 @@
 {
   "startTime": 1733588865493,
-  "endTime": 1734133061391,
+  "endTime": 1734140872228,
   "band_list": [
     {
       "raw_hot": 12208124,
@@ -515,6 +515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1486036,
+      "num": 1486036,
+      "word": "再见爱人 恐怖",
+      "onboard_time": 1734139578,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1483212,
       "num": 1111926,
       "word": "向佐找晓华剪发",
@@ -987,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1185011,
+      "num": 1185011,
+      "word": "切尔诺贝利周边的狗已变异",
+      "onboard_time": 1734121871,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1183775,
       "num": 516473,
       "word": "父母将上海一套房挂女儿名下后反悔",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1733903303,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1004500,
+      "num": 1004500,
+      "word": "陈乔恩被自己的婚纱照美到了",
+      "onboard_time": 1734137598,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 999484,
@@ -2227,6 +2251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 724788,
+      "num": 724788,
+      "word": "乐言自曝月薪5万",
+      "onboard_time": 1734138018,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 723281,
       "num": 723281,
       "word": "大马士革",
@@ -2427,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679812,
+      "num": 679812,
+      "word": "金价深夜跳水",
+      "onboard_time": 1734136397,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 677963,
       "num": 385124,
       "word": "倪萍把麦琳说懵了",
@@ -2457,6 +2497,14 @@
       "onboard_time": 1733726178,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 672942,
+      "num": 672942,
+      "word": "外卖店被曝在厕所洗鱼多方回应",
+      "onboard_time": 1734136638,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 672247,
@@ -3955,12 +4003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 461854,
-      "num": 147869,
-      "word": "切尔诺贝利周边的狗已变异",
-      "onboard_time": 1734121871,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 460848,
+      "num": 460848,
+      "word": "网红老师曝被前夫爸爸家暴殴打",
+      "onboard_time": 1734132134,
+      "rank": 46,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 460574,
@@ -4721,6 +4769,14 @@
       "onboard_time": 1733878760,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384441,
+      "num": 205517,
+      "word": "92年宝妈已经生了9个娃且还想生",
+      "onboard_time": 1734132134,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384319,
@@ -6027,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301108,
+      "num": 301108,
+      "word": "灵犀互娱称如鸢从未有女性向标签",
+      "onboard_time": 1734137656,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300745,
       "num": 300745,
       "word": "白鹿被抓到偷玩手机的反应",
@@ -6465,6 +6529,14 @@
       "onboard_time": 1733884937,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280653,
+      "num": 280653,
+      "word": "四六级",
+      "onboard_time": 1734132675,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 280534,
@@ -7627,12 +7699,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236568,
+      "num": 236568,
+      "word": "肖奈 古风小生",
+      "onboard_time": 1734137538,
+      "rank": 14,
+      "category": "剧集,读书作家"
+    },
+    {
       "raw_hot": 236036,
       "num": 292171,
       "word": "四级",
       "onboard_time": 1734084439,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 235970,
+      "num": 235970,
+      "word": "被举报邻居称全家已无人享受低保",
+      "onboard_time": 1734110414,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235869,
@@ -8387,6 +8475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211577,
+      "num": 211577,
+      "word": "金价",
+      "onboard_time": 1734139698,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 211517,
       "num": 211517,
       "word": "真霸总不穿厚底鞋",
@@ -8667,14 +8763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205758,
-      "num": 205758,
-      "word": "被举报邻居称全家已无人享受低保",
-      "onboard_time": 1734110414,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205709,
       "num": 205709,
       "word": "偶遇李敏镐抽烟",
@@ -8729,6 +8817,14 @@
       "onboard_time": 1734001820,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205123,
+      "num": 205123,
+      "word": "德法英支持乌克兰加入北约",
+      "onboard_time": 1734136578,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204340,
@@ -9627,6 +9723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192756,
+      "num": 192756,
+      "word": "这些水果其实是高糖刺客",
+      "onboard_time": 1734132916,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192484,
       "num": 244077,
       "word": "台湾女演员俞小凡送琼瑶最后一程",
@@ -9891,6 +9995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189805,
+      "num": 207465,
+      "word": "国色芳华看片反馈",
+      "onboard_time": 1734135736,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189734,
       "num": 691528,
       "word": "韩国国会通过尹锡悦内乱普通特检法",
@@ -10153,6 +10265,14 @@
       "onboard_time": 1733973378,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186444,
+      "num": 186444,
+      "word": "被曝在厕所洗鱼外卖店已停业整顿",
+      "onboard_time": 1734138497,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 186389,
@@ -10593,14 +10713,6 @@
       "onboard_time": 1733893581,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 178051,
-      "num": 85087,
-      "word": "92年宝妈已经生了9个娃且还想生",
-      "onboard_time": 1734132134,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178023,
@@ -11377,6 +11489,14 @@
       "onboard_time": 1733644759,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168661,
+      "num": 168661,
+      "word": "赵今麦茉莉青提",
+      "onboard_time": 1734135076,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 168445,
@@ -12499,6 +12619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153924,
+      "num": 153924,
+      "word": "崔永熙赛季报销",
+      "onboard_time": 1734135437,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153706,
       "num": 153706,
       "word": "特朗普称美国不应卷入叙利亚冲突",
@@ -12545,6 +12673,14 @@
       "onboard_time": 1733755041,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153060,
+      "num": 153060,
+      "word": "斗鱼向大学生索赔案仲裁结果出炉",
+      "onboard_time": 1734139518,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 152990,
@@ -13187,6 +13323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144610,
+      "num": 154992,
+      "word": "秦岚郑业成隐娘过审下证",
+      "onboard_time": 1734134476,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144494,
       "num": 338427,
       "word": "拉伸的王楚钦表情好萌",
@@ -13393,6 +13537,14 @@
       "onboard_time": 1734005660,
       "rank": 45,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 141949,
+      "num": 148651,
+      "word": "看3个部位就能辨别气血是否充足",
+      "onboard_time": 1734130393,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 141931,
@@ -13939,6 +14091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134799,
+      "num": 134799,
+      "word": "种地吧直播",
+      "onboard_time": 1734133816,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134776,
       "num": 134776,
       "word": "邵艺辉 女性恋爱脑是被塑造的",
@@ -13961,6 +14121,14 @@
       "onboard_time": 1733930899,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134206,
+      "num": 134206,
+      "word": "赵露思恋人阮妤天台路透",
+      "onboard_time": 1734138377,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 134168,
@@ -14009,6 +14177,14 @@
       "onboard_time": 1733728998,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132698,
+      "num": 132698,
+      "word": "谁给李昀锐递个纨绔世子本",
+      "onboard_time": 1734138618,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 132579,
@@ -14763,6 +14939,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119710,
+      "num": 119710,
+      "word": "代购回应胖东来限购",
+      "onboard_time": 1734139996,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 119493,
+      "num": 119493,
+      "word": "邻居在车位装护栏女子打不开车门",
+      "onboard_time": 1734140477,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 119367,
       "num": 377958,
       "word": "女子被骗27万又被洗脑要赶走民警",
@@ -15059,6 +15251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114495,
+      "num": 114495,
+      "word": "菜鸟APP被恶意刷差评",
+      "onboard_time": 1734139097,
+      "rank": 44,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 114238,
       "num": 255282,
       "word": "王曼昱3比0迪亚科努",
@@ -15249,6 +15449,14 @@
       "onboard_time": 1733709139,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110100,
+      "num": 110100,
+      "word": "孙颖莎是球场最忙碌的人",
+      "onboard_time": 1734135256,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 109865,
@@ -15515,6 +15723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 104700,
+      "num": 252299,
+      "word": "佩洛西受伤被送医",
+      "onboard_time": 1734139939,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104688,
       "num": 282762,
       "word": "ON辟谣世界赛玩沙威玛",
@@ -15547,20 +15763,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104008,
+      "num": 104008,
+      "word": "庆祝澳门回归祖国25周年大会",
+      "onboard_time": 1734139759,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103985,
       "num": 220124,
       "word": "疯驴子新剧被反杀",
       "onboard_time": 1733807599,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103887,
-      "num": 148651,
-      "word": "看3个部位就能辨别气血是否充足",
-      "onboard_time": 1734130393,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 103869,
@@ -15819,14 +16035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99867,
-      "num": 85037,
-      "word": "四六级",
-      "onboard_time": 1734132675,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99782,
       "num": 99782,
       "word": "为啥刷短视频容易停不下来",
@@ -15897,6 +16105,14 @@
       "onboard_time": 1733744300,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98455,
+      "num": 154127,
+      "word": "南方昼夜温差或超15摄氏度",
+      "onboard_time": 1734136938,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98449,
@@ -16169,6 +16385,14 @@
       "onboard_time": 1733784974,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93818,
+      "num": 93818,
+      "word": "种地吧今天的安排是打沙棘",
+      "onboard_time": 1734139217,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 93736,
@@ -17107,14 +17331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75497,
-      "num": 75497,
-      "word": "网红老师曝被前夫爸爸家暴殴打",
-      "onboard_time": 1734132134,
-      "rank": 46,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 75404,
       "num": 696248,
       "word": "韩国警方再次搜查总统办公室",
@@ -17241,6 +17457,14 @@
       "onboard_time": 1733564720,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72120,
+      "num": 181533,
+      "word": "菜鸟回应被恶意刷差评",
+      "onboard_time": 1734140299,
+      "rank": 24,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 72063,
@@ -17660,7 +17884,7 @@
     },
     {
       "raw_hot": 66922,
-      "num": 868932,
+      "num": 1087639,
       "word": "2025年经济工作怎么干",
       "onboard_time": 1734099320,
       "rank": 2,
@@ -17809,14 +18033,6 @@
       "onboard_time": 1733929819,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62483,
-      "num": 62483,
-      "word": "这些水果其实是高糖刺客",
-      "onboard_time": 1734132916,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 62175,
