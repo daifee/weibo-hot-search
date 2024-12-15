@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734219382011,
+  "endTime": 1734227883600,
   "band_list": [
     {
       "raw_hot": 1271579,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1161640,
-      "num": 1161640,
+      "raw_hot": 1224127,
+      "num": 1224127,
       "word": "大学生买包发现731部队调查残件",
       "onboard_time": 1734185542,
       "rank": 0,
@@ -25,6 +25,22 @@
       "onboard_time": 1734188840,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 985614,
+      "num": 985614,
+      "word": "受不了这个碰嘴唇了",
+      "onboard_time": 1734218954,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 816930,
+      "num": 816930,
+      "word": "建议大家多做腹式呼吸",
+      "onboard_time": 1734224476,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 815837,
@@ -43,6 +59,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 573162,
+      "num": 573162,
+      "word": "韩国紧急向中美日通报",
+      "onboard_time": 1734225738,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 571835,
+      "num": 571835,
+      "word": "喝酒脸红的人易患两种癌",
+      "onboard_time": 1734225499,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 565127,
       "num": 565127,
       "word": "kimi崩了",
@@ -51,12 +83,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 543420,
+      "num": 543420,
+      "word": "初代网红张全蛋现在怎么样了",
+      "onboard_time": 1734220276,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 531854,
       "num": 531854,
       "word": "知情人透露代孕机构老板直系亲属是公安人员",
       "onboard_time": 1734194418,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526253,
+      "num": 526253,
+      "word": "曾志伟摸海清的脸",
+      "onboard_time": 1734219494,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 500500,
+      "num": 500500,
+      "word": "樊振东恳请球迷们理解尊重",
+      "onboard_time": 1734218413,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 440470,
@@ -73,6 +129,14 @@
       "onboard_time": 1734170841,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438933,
+      "num": 438933,
+      "word": "最适合麦琳的工作找到了",
+      "onboard_time": 1734218954,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 415334,
@@ -99,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355822,
+      "num": 180282,
+      "word": "家有儿女04年就在吃海底捞了",
+      "onboard_time": 1734227718,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345320,
       "num": 345320,
       "word": "北大教授因女儿痛经研发新药",
@@ -123,12 +195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 321288,
-      "num": 321288,
-      "word": "樊振东恳请球迷们理解尊重",
-      "onboard_time": 1734218413,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 321873,
+      "num": 180015,
+      "word": "碎片化睡眠3个月后身体的变化",
+      "onboard_time": 1734219674,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 320979,
@@ -160,6 +232,14 @@
       "word": "马龙2比1胜奥恰洛夫",
       "onboard_time": 1734188901,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 299026,
+      "num": 299026,
+      "word": "姆巴佩强奸案原告还原案发过程",
+      "onboard_time": 1734221296,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -203,6 +283,46 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 194158,
+      "num": 194158,
+      "word": "王者荣耀",
+      "onboard_time": 1734223938,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191876,
+      "num": 191876,
+      "word": "求求丁禹兮他真的就会唱",
+      "onboard_time": 1734221176,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191221,
+      "num": 191221,
+      "word": "逐玉",
+      "onboard_time": 1734220756,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189697,
+      "num": 189697,
+      "word": "昭昭墨墨圆房吻",
+      "onboard_time": 1734220876,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186124,
+      "num": 186124,
+      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
+      "onboard_time": 1734209231,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186061,
       "num": 186061,
       "word": "杨幂唐嫣刘诗诗嘉人同框",
@@ -227,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163302,
+      "num": 163302,
+      "word": "原来喜欢一个人真的是藏不住的",
+      "onboard_time": 1734223998,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160149,
       "num": 160149,
       "word": "早睡其实什么都不会失去",
@@ -241,6 +369,22 @@
       "onboard_time": 1734191719,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159359,
+      "num": 159359,
+      "word": "周密说没骂周芯竹",
+      "onboard_time": 1734219014,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156621,
+      "num": 130296,
+      "word": "女子逛店轻松顺走2399元羽绒服",
+      "onboard_time": 1734227718,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153786,
@@ -259,12 +403,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147799,
-      "num": 57814,
-      "word": "受不了这个碰嘴唇了",
-      "onboard_time": 1734218954,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 150481,
+      "num": 150481,
+      "word": "篮网勇士交易",
+      "onboard_time": 1734220216,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148673,
+      "num": 148673,
+      "word": "29岁教师编制想考研重新开始",
+      "onboard_time": 1734220276,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 142721,
@@ -289,6 +441,14 @@
       "onboard_time": 1734184763,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "樊振东赛后在电梯口被围堵",
+      "onboard_time": 1734226218,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 135593,
@@ -321,6 +481,22 @@
       "onboard_time": 1734183081,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127752,
+      "num": 127752,
+      "word": "张萌做了我想做的事",
+      "onboard_time": 1734227357,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126225,
+      "num": 126225,
+      "word": "王铮亮女儿首次公开登台表演",
+      "onboard_time": 1734220276,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 124976,
@@ -364,11 +540,27 @@
     },
     {
       "raw_hot": 113508,
-      "num": 83221,
+      "num": 105944,
       "word": "当你不再频繁更新朋友圈",
       "onboard_time": 1734218954,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113210,
+      "num": 113210,
+      "word": "朴灿烈欧阳娜娜合作曲上线",
+      "onboard_time": 1734220695,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111952,
+      "num": 111952,
+      "word": "羽绒服里穿短袖真的更保暖吗",
+      "onboard_time": 1734214512,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111683,
@@ -377,6 +569,14 @@
       "onboard_time": 1734172759,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107054,
+      "num": 107054,
+      "word": "夏弃疾镜头下的郑业成",
+      "onboard_time": 1734226576,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 105726,
@@ -403,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97310,
+      "num": 97310,
+      "word": "福宝吃播上新",
+      "onboard_time": 1734221417,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94071,
       "num": 94071,
       "word": "六级听力",
@@ -411,20 +619,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 93603,
-      "num": 93603,
-      "word": "被抱养女子靠姐夫扛钢筋接济上大学",
-      "onboard_time": 1734209231,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91932,
       "num": 91932,
       "word": "陈梦vs迪亚兹",
       "onboard_time": 1734188181,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91507,
+      "num": 130885,
+      "word": "澳门大街小巷穿上中国红套装",
+      "onboard_time": 1734227837,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86232,
@@ -451,6 +659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81665,
+      "num": 108015,
+      "word": "商洛一法院回应诉讼离婚冷静期",
+      "onboard_time": 1734225856,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81072,
+      "num": 108610,
+      "word": "韩国总统弹劾案通过现场传出欢呼",
+      "onboard_time": 1734225856,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80997,
       "num": 170019,
       "word": "孙颖莎加油声连绵不绝",
@@ -475,22 +699,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 74559,
-      "num": 57547,
-      "word": "最适合麦琳的工作找到了",
-      "onboard_time": 1734218954,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 72558,
-      "num": 72558,
-      "word": "羽绒服里穿短袖真的更保暖吗",
-      "onboard_time": 1734214512,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72485,
       "num": 89532,
       "word": "鹿晗五哈5路透",
@@ -504,6 +712,14 @@
       "word": "阿森纳vs埃弗顿",
       "onboard_time": 1734196515,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66130,
+      "num": 160855,
+      "word": "库里终于有副攻手了",
+      "onboard_time": 1734225257,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -523,12 +739,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 62808,
+      "num": 108671,
+      "word": "韩德洙同拜登通电话",
+      "onboard_time": 1734225977,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62119,
       "num": 62119,
       "word": "张艺兴主演音乐话剧敦煌到上海了",
       "onboard_time": 1734197055,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 60728,
+      "num": 191486,
+      "word": "廖桂芳包揽抓举挺举总成绩3金",
+      "onboard_time": 1734223876,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 60386,
@@ -539,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54870,
-      "num": 54870,
-      "word": "周密说没骂周芯竹",
-      "onboard_time": 1734219014,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 55182,
+      "num": 105346,
+      "word": "2024中国经济新突破",
+      "onboard_time": 1734223938,
+      "rank": 46,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 50367,
@@ -585,6 +817,14 @@
       "onboard_time": 1734199333,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40348,
+      "num": 842697,
+      "word": "中央经济工作会议释放重磅信号",
+      "onboard_time": 1734180621,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39931,
@@ -643,14 +883,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33193,
-      "num": 551204,
-      "word": "中央经济工作会议释放重磅信号",
-      "onboard_time": 1734180621,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32838,
       "num": 750012,
       "word": "天宫画展又双叒上新了",
@@ -681,6 +913,14 @@
       "onboard_time": 1734210432,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24983,
+      "num": 107542,
+      "word": "覃海洋小组第二晋级男子50米蛙决赛",
+      "onboard_time": 1734226278,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 23925,

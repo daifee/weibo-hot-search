@@ -1,0 +1,410 @@
+{
+  "runTime": 1734227883600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224127,
+        "num": 1224127,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 985614,
+        "num": 985614,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40348,
+        "num": 842697,
+        "word": "中央经济工作会议释放重磅信号",
+        "onboard_time": 1734180621,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 816930,
+        "num": 816930,
+        "word": "建议大家多做腹式呼吸",
+        "onboard_time": 1734224476,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 573162,
+        "num": 573162,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 571835,
+        "num": 571835,
+        "word": "喝酒脸红的人易患两种癌",
+        "onboard_time": 1734225499,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 543420,
+        "num": 543420,
+        "word": "初代网红张全蛋现在怎么样了",
+        "onboard_time": 1734220276,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 526253,
+        "num": 526253,
+        "word": "曾志伟摸海清的脸",
+        "onboard_time": 1734219494,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500500,
+        "num": 500500,
+        "word": "樊振东恳请球迷们理解尊重",
+        "onboard_time": 1734218413,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 438933,
+        "num": 438933,
+        "word": "最适合麦琳的工作找到了",
+        "onboard_time": 1734218954,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321609,
+        "num": 321609,
+        "word": "花5000元买3针九价HPV疫苗全是假的",
+        "onboard_time": 1734191479,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299026,
+        "num": 299026,
+        "word": "姆巴佩强奸案原告还原案发过程",
+        "onboard_time": 1734221296,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287853,
+        "num": 287853,
+        "word": "年轻人开始反向驯化大数据杀熟",
+        "onboard_time": 1734195916,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194158,
+        "num": 194158,
+        "word": "王者荣耀",
+        "onboard_time": 1734223938,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191876,
+        "num": 191876,
+        "word": "求求丁禹兮他真的就会唱",
+        "onboard_time": 1734221176,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 60728,
+        "num": 191486,
+        "word": "廖桂芳包揽抓举挺举总成绩3金",
+        "onboard_time": 1734223876,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191221,
+        "num": 191221,
+        "word": "逐玉",
+        "onboard_time": 1734220756,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189697,
+        "num": 189697,
+        "word": "昭昭墨墨圆房吻",
+        "onboard_time": 1734220876,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186124,
+        "num": 186124,
+        "word": "被抱养女子靠姐夫扛钢筋接济上大学",
+        "onboard_time": 1734209231,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180525,
+        "num": 180525,
+        "word": "何猷君说往北看都是大机遇",
+        "onboard_time": 1734183920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355822,
+        "num": 180282,
+        "word": "家有儿女04年就在吃海底捞了",
+        "onboard_time": 1734227718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321873,
+        "num": 180015,
+        "word": "碎片化睡眠3个月后身体的变化",
+        "onboard_time": 1734219674,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179222,
+        "num": 179222,
+        "word": "穿袜子睡觉会减少夜醒次数",
+        "onboard_time": 1734190579,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163302,
+        "num": 163302,
+        "word": "原来喜欢一个人真的是藏不住的",
+        "onboard_time": 1734223998,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66130,
+        "num": 160855,
+        "word": "库里终于有副攻手了",
+        "onboard_time": 1734225257,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159359,
+        "num": 159359,
+        "word": "周密说没骂周芯竹",
+        "onboard_time": 1734219014,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150481,
+        "num": 150481,
+        "word": "篮网勇士交易",
+        "onboard_time": 1734220216,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148673,
+        "num": 148673,
+        "word": "29岁教师编制想考研重新开始",
+        "onboard_time": 1734220276,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "樊振东赛后在电梯口被围堵",
+        "onboard_time": 1734226218,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91507,
+        "num": 130885,
+        "word": "澳门大街小巷穿上中国红套装",
+        "onboard_time": 1734227837,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156621,
+        "num": 130296,
+        "word": "女子逛店轻松顺走2399元羽绒服",
+        "onboard_time": 1734227718,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127752,
+        "num": 127752,
+        "word": "张萌做了我想做的事",
+        "onboard_time": 1734227357,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126225,
+        "num": 126225,
+        "word": "王铮亮女儿首次公开登台表演",
+        "onboard_time": 1734220276,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124849,
+        "num": 124849,
+        "word": "知情人透露代孕机构老板直系亲属是公安人员",
+        "onboard_time": 1734194418,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "被草莓蛋糕带火的搪瓷盆已卖断货",
+        "onboard_time": 1734195677,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113210,
+        "num": 113210,
+        "word": "朴灿烈欧阳娜娜合作曲上线",
+        "onboard_time": 1734220695,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112244,
+        "num": 112244,
+        "word": "腾讯八部热度破30000剧集",
+        "onboard_time": 1734188480,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111952,
+        "num": 111952,
+        "word": "羽绒服里穿短袖真的更保暖吗",
+        "onboard_time": 1734214512,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109173,
+        "num": 109173,
+        "word": "53岁的于和伟演大学生就是赌",
+        "onboard_time": 1734188661,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62808,
+        "num": 108671,
+        "word": "韩德洙同拜登通电话",
+        "onboard_time": 1734225977,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81072,
+        "num": 108610,
+        "word": "韩国总统弹劾案通过现场传出欢呼",
+        "onboard_time": 1734225856,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81665,
+        "num": 108015,
+        "word": "商洛一法院回应诉讼离婚冷静期",
+        "onboard_time": 1734225856,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24983,
+        "num": 107542,
+        "word": "覃海洋小组第二晋级男子50米蛙决赛",
+        "onboard_time": 1734226278,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107054,
+        "num": 107054,
+        "word": "夏弃疾镜头下的郑业成",
+        "onboard_time": 1734226576,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105944,
+        "num": 105944,
+        "word": "当你不再频繁更新朋友圈",
+        "onboard_time": 1734218954,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105873,
+        "num": 105873,
+        "word": "反复评论机票太贵能便宜2000多",
+        "onboard_time": 1734191360,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55182,
+        "num": 105346,
+        "word": "2024中国经济新突破",
+        "onboard_time": 1734223938,
+        "rank": 46,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 105154,
+        "num": 105154,
+        "word": "早睡其实什么都不会失去",
+        "onboard_time": 1734184641,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101163,
+        "num": 101163,
+        "word": "合肥代孕",
+        "onboard_time": 1734170841,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97310,
+        "num": 97310,
+        "word": "福宝吃播上新",
+        "onboard_time": 1734221417,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济航船必将驶向更加光明的未来#"
+    }
+  }
+}
