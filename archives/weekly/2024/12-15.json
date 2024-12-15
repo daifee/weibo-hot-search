@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734290290427,
+  "endTime": 1734291348443,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -3251,6 +3251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 74866,
+      "num": 74866,
+      "word": "曼城1比2曼联",
+      "onboard_time": 1734290352,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73609,
       "num": 155956,
       "word": "剥茧杀青",
@@ -3608,6 +3616,14 @@
       "word": "上海地产集团VS山东鲁能",
       "onboard_time": 1734231498,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45882,
+      "num": 45882,
+      "word": "曼联足球俱乐部",
+      "onboard_time": 1734290352,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -4091,6 +4107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 14564,
+      "num": 17081,
+      "word": "尤文图斯2比2威尼斯",
+      "onboard_time": 1734289151,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14371,
       "num": 17389,
       "word": "李雯雯去看张远演唱会了",
@@ -4155,6 +4179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11846,
+      "num": 38401,
+      "word": "厦大嘉庚辟谣女生被殴打需植入钢钉",
+      "onboard_time": 1734290471,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 11350,
       "num": 24977,
       "word": "神十九祝福澳门",
@@ -4171,7 +4203,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10571,
+      "raw_hot": 10588,
       "num": 39196,
       "word": "文化中国行文博日历",
       "onboard_time": 1734288431,
@@ -4219,6 +4251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 8643,
+      "num": 24055,
+      "word": "国羽包揽女单冠亚军",
+      "onboard_time": 1734291131,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8311,
       "num": 96306,
       "word": "黑神话Steam更新上线",
@@ -4243,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6765,
+      "num": 20203,
+      "word": "凌云晋级挑杯淘汰赛",
+      "onboard_time": 1734289392,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6744,
       "num": 24913,
       "word": "无畏喊话帆帆",
@@ -4257,14 +4305,6 @@
       "onboard_time": 1734287712,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 6302,
-      "num": 20203,
-      "word": "凌云晋级挑杯淘汰赛",
-      "onboard_time": 1734289392,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 6210,
