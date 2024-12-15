@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734304947903,
+  "endTime": 1734305783103,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -67,8 +67,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 1169090,
-      "num": 1169090,
+      "raw_hot": 1186737,
+      "num": 1186737,
       "word": "央视曝光先享后付套路多",
       "onboard_time": 1734278059,
       "rank": 10,
@@ -859,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319388,
+      "num": 319388,
+      "word": "男子曝面试模特被男面试官猥亵",
+      "onboard_time": 1734294850,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313483,
       "num": 313483,
       "word": "贾跃亭说再还七八亿就可以回国",
@@ -979,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 269317,
+      "num": 269317,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269163,
       "num": 269163,
       "word": "孟子义李昀锐贴贴拍照",
@@ -1051,20 +1067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248973,
-      "num": 248973,
-      "word": "男子曝面试模特被男面试官猥亵",
-      "onboard_time": 1734294850,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247987,
       "num": 268248,
       "word": "田曦薇逐玉红衣高马尾路透",
       "onboard_time": 1734254539,
       "rank": 32,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 247776,
+      "num": 247776,
+      "word": "1500多名军人参与韩国紧急戒严",
+      "onboard_time": 1734292991,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 247558,
@@ -1121,14 +1137,6 @@
       "onboard_time": 1734242718,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231356,
-      "num": 231356,
-      "word": "向佐称因为摸鼻梁手势出圈很失落",
-      "onboard_time": 1734265939,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 229766,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1734259938,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212907,
+      "num": 295388,
+      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
+      "onboard_time": 1734277878,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 210967,
@@ -1312,14 +1328,6 @@
       "word": "逐玉吻戏",
       "onboard_time": 1734239238,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 201890,
-      "num": 295388,
-      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
-      "onboard_time": 1734277878,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -1729,14 +1737,6 @@
       "onboard_time": 1734271521,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174008,
-      "num": 174008,
-      "word": "1500多名军人参与韩国紧急戒严",
-      "onboard_time": 1734292991,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 173899,
@@ -2955,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103043,
+      "num": 103043,
+      "word": "加入会员后仍跳不过广告",
+      "onboard_time": 1734301632,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102464,
       "num": 102464,
       "word": "孙颖莎今日或迎战陈幸同",
@@ -3003,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99140,
+      "num": 99140,
+      "word": "上万字的用户协议里藏着广告条款",
+      "onboard_time": 1734301752,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98362,
       "num": 98362,
       "word": "电影小小的我预售开启",
@@ -3016,14 +3032,6 @@
       "word": "福宝吃播上新",
       "onboard_time": 1734221417,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97089,
-      "num": 97089,
-      "word": "上万字的用户协议里藏着广告条款",
-      "onboard_time": 1734301752,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -3121,14 +3129,6 @@
       "onboard_time": 1734271820,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88143,
-      "num": 88143,
-      "word": "加入会员后仍跳不过广告",
-      "onboard_time": 1734301632,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86232,
@@ -3315,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73048,
+      "num": 73048,
+      "word": "狐狸在老虎尿上打滚",
+      "onboard_time": 1734298391,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72485,
       "num": 89532,
       "word": "鹿晗五哈5路透",
@@ -3371,12 +3379,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69593,
+      "num": 126654,
+      "word": "本赛季石宇奇总奖金557370美元",
+      "onboard_time": 1734304635,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69577,
       "num": 190360,
       "word": "亚历山大32分",
       "onboard_time": 1734239119,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68277,
+      "num": 152521,
+      "word": "美容院经理整蒙记者办先享后付",
+      "onboard_time": 1734282195,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67941,
@@ -3395,14 +3419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 66392,
-      "num": 152521,
-      "word": "美容院经理整蒙记者办先享后付",
-      "onboard_time": 1734282195,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66130,
       "num": 160855,
       "word": "库里终于有副攻手了",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1734172400,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65359,
-      "num": 65359,
-      "word": "狐狸在老虎尿上打滚",
-      "onboard_time": 1734298391,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 64946,
@@ -3467,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61586,
+      "num": 61586,
+      "word": "学生扮匪徒演习被大爷一棍敲懵",
+      "onboard_time": 1734300432,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61510,
       "num": 357791,
       "word": "尹锡悦拒绝传唤",
@@ -3505,6 +3521,14 @@
       "onboard_time": 1734286032,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55726,
+      "num": 55726,
+      "word": "法院对拍卖7个0手机号作瑕疵提醒",
+      "onboard_time": 1734284834,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55182,
@@ -3563,14 +3587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51596,
-      "num": 55285,
-      "word": "学生扮匪徒演习被大爷一棍敲懵",
-      "onboard_time": 1734300432,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50367,
       "num": 68069,
       "word": "豹豹猫猫我出生了",
@@ -3601,14 +3617,6 @@
       "onboard_time": 1734198134,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49126,
-      "num": 49126,
-      "word": "法院对拍卖7个0手机号作瑕疵提醒",
-      "onboard_time": 1734284834,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48730,
@@ -3739,6 +3747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41125,
+      "num": 114489,
+      "word": "个人养老金开户缴存礼包最高超千元",
+      "onboard_time": 1734283634,
+      "rank": 9,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 40886,
       "num": 938957,
       "word": "中国领跑全球电动汽车销售市场",
@@ -3811,12 +3827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38474,
-      "num": 126654,
-      "word": "本赛季石宇奇总奖金557370美元",
-      "onboard_time": 1734304635,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 37978,
+      "num": 66521,
+      "word": "看似正常其实很伤牙的行为",
+      "onboard_time": 1734304694,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37676,
@@ -3843,6 +3859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35677,
+      "num": 55608,
+      "word": "泰国忠犬拒绝进食随主人一同离世",
+      "onboard_time": 1734296471,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34844,
       "num": 34844,
       "word": "王铮亮巡演",
@@ -3865,14 +3889,6 @@
       "onboard_time": 1734186381,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34632,
-      "num": 114489,
-      "word": "个人养老金开户缴存礼包最高超千元",
-      "onboard_time": 1734283634,
-      "rank": 9,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 34531,
@@ -3899,6 +3915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32863,
+      "num": 57189,
+      "word": "起猛了在尔滨看见福建舰",
+      "onboard_time": 1734287232,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32838,
       "num": 750012,
       "word": "天宫画展又双叒上新了",
@@ -3913,22 +3937,6 @@
       "onboard_time": 1734196934,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32684,
-      "num": 41322,
-      "word": "泰国忠犬拒绝进食随主人一同离世",
-      "onboard_time": 1734296471,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 32011,
-      "num": 57189,
-      "word": "起猛了在尔滨看见福建舰",
-      "onboard_time": 1734287232,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31255,
@@ -3993,6 +4001,14 @@
       "onboard_time": 1734235578,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28260,
+      "num": 55571,
+      "word": "芒特伤退",
+      "onboard_time": 1734305717,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 26373,
@@ -4067,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22595,
+      "num": 66883,
+      "word": "第一次见会拉丝的纸张",
+      "onboard_time": 1734304935,
+      "rank": 28,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 21665,
       "num": 877461,
       "word": "贸易强国建设不断迈上新台阶",
@@ -4081,14 +4105,6 @@
       "onboard_time": 1734272241,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21194,
-      "num": 66521,
-      "word": "看似正常其实很伤牙的行为",
-      "onboard_time": 1734304694,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21017,
