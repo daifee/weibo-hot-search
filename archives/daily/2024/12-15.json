@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734232347895,
+  "endTime": 1734233150866,
   "band_list": [
     {
       "raw_hot": 1284109,
@@ -67,7 +67,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 675093,
+      "raw_hot": 742379,
       "num": 675093,
       "word": "大三女生失联多日后遗体在江中发现",
       "onboard_time": 1734228618,
@@ -75,16 +75,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 621974,
-      "num": 621974,
+      "raw_hot": 667511,
+      "num": 667511,
       "word": "小伙吃槟榔8年吃成方块脸",
       "onboard_time": 1734228678,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 594749,
-      "num": 594749,
+      "raw_hot": 650089,
+      "num": 650089,
       "word": "逐玉开机官宣",
       "onboard_time": 1734230298,
       "rank": 6,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315510,
+      "num": 222682,
+      "word": "女子称遭男按摩师触摸隐私部位",
+      "onboard_time": 1734230478,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313483,
       "num": 313483,
       "word": "贾跃亭说再还七八亿就可以回国",
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 281250,
-      "num": 246226,
+      "num": 266320,
       "word": "谢兴阳 凤凰传奇演唱会场外变场内",
       "onboard_time": 1734229457,
       "rank": 19,
@@ -355,12 +363,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 222682,
-      "num": 222682,
-      "word": "女子称遭男按摩师触摸隐私部位",
-      "onboard_time": 1734230478,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 219168,
+      "num": 339685,
+      "word": "王楚钦vs徐海东",
+      "onboard_time": 1734231377,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218918,
+      "num": 218918,
+      "word": "朴灿烈欧阳娜娜合作曲上线",
+      "onboard_time": 1734220695,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 215401,
@@ -369,14 +385,6 @@
       "onboard_time": 1734228197,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 211422,
-      "num": 339685,
-      "word": "王楚钦vs徐海东",
-      "onboard_time": 1734231377,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 203415,
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189785,
+      "num": 189785,
+      "word": "发现上早八的老师也很辛苦",
+      "onboard_time": 1734231498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189697,
       "num": 189697,
       "word": "昭昭墨墨圆房吻",
@@ -435,6 +451,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 178448,
+      "num": 178448,
+      "word": "黄明昊领衔主演四喜",
+      "onboard_time": 1734232998,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177691,
+      "num": 177691,
+      "word": "湖南卫视跨年阵容官宣",
+      "onboard_time": 1734233118,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174589,
       "num": 174589,
       "word": "六级答案",
@@ -449,14 +481,6 @@
       "onboard_time": 1734165379,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168275,
-      "num": 168275,
-      "word": "发现上早八的老师也很辛苦",
-      "onboard_time": 1734231498,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 165401,
@@ -531,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146830,
-      "num": 146830,
-      "word": "朴灿烈欧阳娜娜合作曲上线",
-      "onboard_time": 1734220695,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 142721,
       "num": 142721,
       "word": "原来北斗导航系统的翻译就在logo里",
@@ -568,6 +584,14 @@
       "word": "樊振东赛后在电梯口被围堵",
       "onboard_time": 1734226218,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137835,
+      "num": 137835,
+      "word": "朱婷 杀不死你的将使你更强大",
+      "onboard_time": 1734230298,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128937,
+      "num": 128937,
+      "word": "男子明知军婚仍同居生育小孩获刑",
+      "onboard_time": 1734232639,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128416,
       "num": 102351,
       "word": "孟子义今晚大婚有点紧张呢",
@@ -625,14 +657,6 @@
       "onboard_time": 1734228019,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128028,
-      "num": 128028,
-      "word": "朱婷 杀不死你的将使你更强大",
-      "onboard_time": 1734230298,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 126225,
@@ -713,6 +737,14 @@
       "onboard_time": 1734226576,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106229,
+      "num": 106229,
+      "word": "李在明称将不考虑弹劾韩德洙",
+      "onboard_time": 1734232578,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105726,
@@ -831,6 +863,14 @@
       "num": 170019,
       "word": "孙颖莎加油声连绵不绝",
       "onboard_time": 1734191360,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80505,
+      "num": 178529,
+      "word": "中国姑娘包揽3金超稳的",
+      "onboard_time": 1734230238,
       "rank": 24,
       "category": "体育"
     },
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48730,
+      "num": 339267,
+      "word": "消费者被出镜如何维权",
+      "onboard_time": 1734231859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48565,
       "num": 101523,
       "word": "埃文凯尔没想到纪念馆建在万人坑上",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1734228139,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 40205,
+      "num": 246703,
+      "word": "装修承诺送金条拖仨月难兑现",
+      "onboard_time": 1734231978,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39931,
@@ -1163,14 +1219,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 21553,
-      "num": 246703,
-      "word": "装修承诺送金条拖仨月难兑现",
-      "onboard_time": 1734231978,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19948,
       "num": 37982,
       "word": "韩国局势进展",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15583,
-      "num": 339267,
-      "word": "消费者被出镜如何维权",
-      "onboard_time": 1734231859,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14371,
