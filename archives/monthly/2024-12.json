@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734277051974,
+  "endTime": 1734280047811,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -7267,6 +7267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 568693,
+      "num": 568693,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567716,
       "num": 386695,
       "word": "气血不足的人要多去KTV唱歌",
@@ -7955,6 +7963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536958,
+      "num": 536958,
+      "word": "黑莓",
+      "onboard_time": 1734276320,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 536374,
       "num": 499858,
       "word": "尚未发现卜某被拐卖的线索和证据",
@@ -8289,14 +8305,6 @@
       "onboard_time": 1734061759,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 519944,
-      "num": 332620,
-      "word": "冷冷冷冷冷你冷冷冷冷冷",
-      "onboard_time": 1734264198,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 519226,
@@ -9121,6 +9129,14 @@
       "onboard_time": 1734183862,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 480103,
+      "num": 294498,
+      "word": "央视曝光先享后付套路多",
+      "onboard_time": 1734278059,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 479934,
@@ -16923,6 +16939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250887,
+      "num": 250887,
+      "word": "睡前饿了可以吃这5种食物",
+      "onboard_time": 1734277938,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 250712,
       "num": 280542,
       "word": "王昶金丝边眼镜造型",
@@ -22835,14 +22859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193938,
-      "num": 193938,
-      "word": "黑莓",
-      "onboard_time": 1734276320,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 193914,
       "num": 193914,
       "word": "九重紫在650团综斗上了",
@@ -26265,6 +26281,14 @@
       "onboard_time": 1733901319,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173674,
+      "num": 173674,
+      "word": "合肥核查代孕事件所涉公职人员",
+      "onboard_time": 1734275959,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173663,
@@ -29777,6 +29801,14 @@
       "onboard_time": 1733375481,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154829,
+      "num": 295388,
+      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
+      "onboard_time": 1734277878,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 154781,
@@ -38139,6 +38171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105612,
+      "num": 413258,
+      "word": "揭秘先享后付背后的层层暴利",
+      "onboard_time": 1734276080,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 105496,
       "num": 205070,
       "word": "艾滋病感染者担心医疗互认遭拒诊",
@@ -39971,6 +40011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91367,
+      "num": 91367,
+      "word": "薛之谦鼎湖山音乐节",
+      "onboard_time": 1734279378,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91277,
       "num": 213719,
       "word": "领取个人养老金需要缴税吗",
@@ -40425,14 +40473,6 @@
       "onboard_time": 1733466981,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87174,
-      "num": 413258,
-      "word": "揭秘先享后付背后的层层暴利",
-      "onboard_time": 1734276080,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 87160,
@@ -43523,6 +43563,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 63166,
+      "num": 63166,
+      "word": "宋亚轩翻唱花花公子",
+      "onboard_time": 1734279737,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 63091,
       "num": 316628,
       "word": "香奈儿杭州全球首秀",
@@ -43801,6 +43849,14 @@
       "onboard_time": 1733488338,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 60878,
+      "num": 93008,
+      "word": "陈梦VS斯佐科斯",
+      "onboard_time": 1734278179,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 60873,
@@ -48681,6 +48737,14 @@
       "onboard_time": 1733488100,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33709,
+      "num": 92884,
+      "word": "马龙VS莫雷加德",
+      "onboard_time": 1734278179,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 33705,

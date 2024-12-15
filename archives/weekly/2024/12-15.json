@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734277051974,
+  "endTime": 1734280047811,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -379,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 568693,
+      "num": 568693,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565458,
       "num": 565458,
       "word": "向佐 我从小在舆论风波长大",
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536958,
+      "num": 536958,
+      "word": "黑莓",
+      "onboard_time": 1734276320,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 535478,
       "num": 535478,
       "word": "孟子义脱外套沙溢的反应",
@@ -473,14 +489,6 @@
       "onboard_time": 1734219494,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 519944,
-      "num": 332620,
-      "word": "冷冷冷冷冷你冷冷冷冷冷",
-      "onboard_time": 1734264198,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 515851,
@@ -537,6 +545,14 @@
       "onboard_time": 1734254539,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 480103,
+      "num": 294498,
+      "word": "央视曝光先享后付套路多",
+      "onboard_time": 1734278059,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 474225,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "白桃星座",
+      "onboard_time": 1734276258,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 281406,
       "num": 490355,
       "word": "徐瑛彬vs樊振东",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1734228918,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250887,
+      "num": 250887,
+      "word": "睡前饿了可以吃这5种食物",
+      "onboard_time": 1734277938,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 250649,
@@ -1387,14 +1419,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 193938,
-      "num": 193938,
-      "word": "黑莓",
-      "onboard_time": 1734276320,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 193884,
       "num": 193884,
       "word": "兔子攻击饲养者差0.1毫米咬到血管",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1734271338,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192809,
-      "num": 192809,
-      "word": "白桃星座",
-      "onboard_time": 1734276258,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 192211,
@@ -1699,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173674,
+      "num": 173674,
+      "word": "合肥核查代孕事件所涉公职人员",
+      "onboard_time": 1734275959,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172502,
       "num": 172502,
       "word": "张颂文新剧老婆富婆修罗场",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1734266059,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154829,
+      "num": 295388,
+      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
+      "onboard_time": 1734277878,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 154695,
@@ -2851,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105612,
+      "num": 413258,
+      "word": "揭秘先享后付背后的层层暴利",
+      "onboard_time": 1734276080,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 105367,
       "num": 105367,
       "word": "昭昭墨墨浴池背后抱",
@@ -2979,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91367,
+      "num": 91367,
+      "word": "薛之谦鼎湖山音乐节",
+      "onboard_time": 1734279378,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91202,
       "num": 223091,
       "word": "农村挖红薯大叔是6块金牌的武状元",
@@ -3017,14 +3065,6 @@
       "onboard_time": 1734271820,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87174,
-      "num": 413258,
-      "word": "揭秘先享后付背后的层层暴利",
-      "onboard_time": 1734276080,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 86232,
@@ -3307,6 +3347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63166,
+      "num": 63166,
+      "word": "宋亚轩翻唱花花公子",
+      "onboard_time": 1734279737,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 62808,
       "num": 108671,
       "word": "韩德洙同拜登通电话",
@@ -3329,6 +3377,14 @@
       "onboard_time": 1734260840,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60878,
+      "num": 93008,
+      "word": "陈梦VS斯佐科斯",
+      "onboard_time": 1734278179,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 60728,
@@ -3673,6 +3729,14 @@
       "onboard_time": 1734202333,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33709,
+      "num": 92884,
+      "word": "马龙VS莫雷加德",
+      "onboard_time": 1734278179,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 32838,

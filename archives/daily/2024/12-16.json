@@ -1,0 +1,411 @@
+{
+  "startTime": 1734280047811,
+  "endTime": 1734280047811,
+  "band_list": [
+    {
+      "raw_hot": 760601,
+      "num": 916765,
+      "word": "周密破防了",
+      "onboard_time": 1734274100,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 579940,
+      "num": 579940,
+      "word": "宁波香飘飘食品有限公司破产",
+      "onboard_time": 1734272060,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 568693,
+      "num": 568693,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536958,
+      "num": 536958,
+      "word": "黑莓",
+      "onboard_time": 1734276320,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 480103,
+      "num": 294498,
+      "word": "央视曝光先享后付套路多",
+      "onboard_time": 1734278059,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407633,
+      "num": 407633,
+      "word": "李昀锐站姐去年发孟子义照片",
+      "onboard_time": 1734266360,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403142,
+      "num": 403142,
+      "word": "猎罪图鉴2 平等冒犯所有人",
+      "onboard_time": 1734274520,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 389129,
+      "num": 389129,
+      "word": "7岁异瞳女孩在学校受到同学喜爱",
+      "onboard_time": 1734269423,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343438,
+      "num": 343438,
+      "word": "张家界长满了韩国人",
+      "onboard_time": 1734274401,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 293010,
+      "num": 293010,
+      "word": "大量加沙儿童被迫无麻药截肢",
+      "onboard_time": 1734273080,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 288006,
+      "num": 288006,
+      "word": "冉莹颖给身高136儿子打生长激素",
+      "onboard_time": 1734273380,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281446,
+      "num": 281446,
+      "word": "白桃星座",
+      "onboard_time": 1734276258,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 250887,
+      "num": 250887,
+      "word": "睡前饿了可以吃这5种食物",
+      "onboard_time": 1734277938,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214764,
+      "num": 214764,
+      "word": "年近三十的我对友谊祛魅了",
+      "onboard_time": 1734271700,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173674,
+      "num": 173674,
+      "word": "合肥核查代孕事件所涉公职人员",
+      "onboard_time": 1734275959,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163346,
+      "num": 163346,
+      "word": "林墨 怎么能把现代装焊在脸上",
+      "onboard_time": 1734273801,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159527,
+      "num": 159527,
+      "word": "合肥通报代孕事件",
+      "onboard_time": 1734265219,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 154829,
+      "num": 295388,
+      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
+      "onboard_time": 1734277878,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140819,
+      "num": 140819,
+      "word": "田曦薇新剧演杀猪少女",
+      "onboard_time": 1734276080,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138705,
+      "num": 138705,
+      "word": "原来这叫社交圣母症",
+      "onboard_time": 1734274460,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127943,
+      "num": 127943,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116066,
+      "num": 116066,
+      "word": "为什么周末时间过得那么快",
+      "onboard_time": 1734271400,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112621,
+      "num": 112621,
+      "word": "猎罪图鉴2阮芳芳天生坏种",
+      "onboard_time": 1734274640,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110406,
+      "num": 110406,
+      "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+      "onboard_time": 1734258979,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105612,
+      "num": 105612,
+      "word": "揭秘先享后付背后的层层暴利",
+      "onboard_time": 1734276080,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 98460,
+      "num": 98460,
+      "word": "虞书欣丁禹兮forhastik双人舞",
+      "onboard_time": 1734262879,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94476,
+      "num": 94476,
+      "word": "徐冬冬尹子维分居生活",
+      "onboard_time": 1734257000,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94030,
+      "num": 94030,
+      "word": "郑思维发博说雅思永不落幕",
+      "onboard_time": 1734275300,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92851,
+      "num": 92851,
+      "word": "樊振东看赵子豪打球笑了",
+      "onboard_time": 1734273200,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91367,
+      "num": 91367,
+      "word": "薛之谦鼎湖山音乐节",
+      "onboard_time": 1734279378,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88585,
+      "num": 88585,
+      "word": "济南大学3.5元泡面老板发声",
+      "onboard_time": 1734254120,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85302,
+      "num": 85302,
+      "word": "iG官宣2024德杯大名单",
+      "onboard_time": 1734274821,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 84532,
+      "num": 84532,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734275419,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83153,
+      "num": 83153,
+      "word": "小小的我",
+      "onboard_time": 1734274040,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 82759,
+      "num": 82759,
+      "word": "第五人格",
+      "onboard_time": 1734258079,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 80941,
+      "num": 80941,
+      "word": "丁禹兮无声哭戏",
+      "onboard_time": 1734275840,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77689,
+      "num": 77689,
+      "word": "鹿晗玫瑰印花卫衣",
+      "onboard_time": 1734254898,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 76537,
+      "num": 76537,
+      "word": "智利车厘子断崖式降价",
+      "onboard_time": 1734255440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74676,
+      "num": 74676,
+      "word": "宋墨窦昭 恋爱脑遇上事业脑",
+      "onboard_time": 1734274219,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74644,
+      "num": 74644,
+      "word": "溜溜梅 时代少年团",
+      "onboard_time": 1734270860,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70326,
+      "num": 70326,
+      "word": "逐玉",
+      "onboard_time": 1734262399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67996,
+      "num": 67996,
+      "word": "窦明小产",
+      "onboard_time": 1734270140,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65680,
+      "num": 65680,
+      "word": "王楚钦身体原因缺席今晚比赛",
+      "onboard_time": 1734264320,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64723,
+      "num": 64723,
+      "word": "邵子恒 这一刻我等了五年",
+      "onboard_time": 1734270319,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63166,
+      "num": 63166,
+      "word": "宋亚轩翻唱花花公子",
+      "onboard_time": 1734279737,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 60878,
+      "num": 93008,
+      "word": "陈梦VS斯佐科斯",
+      "onboard_time": 1734278179,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60086,
+      "num": 60086,
+      "word": "猎罪2女主播榜一哥奔现",
+      "onboard_time": 1734268580,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38500,
+      "num": 110724,
+      "word": "donk MVP",
+      "onboard_time": 1734272359,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 33709,
+      "num": 92884,
+      "word": "马龙VS莫雷加德",
+      "onboard_time": 1734278179,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17859,
+      "num": 571854,
+      "word": "看神十九航天员在太空做实验",
+      "onboard_time": 1734249558,
+      "rank": 2,
+      "category": "民生新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#深入推进党的自我革命#"
+    }
+  ]
+}
