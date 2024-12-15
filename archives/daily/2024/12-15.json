@@ -1,10 +1,10 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734229241609,
+  "endTime": 1734232347895,
   "band_list": [
     {
-      "raw_hot": 1277815,
-      "num": 1277815,
+      "raw_hot": 1284109,
+      "num": 1284109,
       "word": "韩国紧急向中美日通报",
       "onboard_time": 1734225738,
       "rank": 4,
@@ -67,6 +67,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 675093,
+      "num": 675093,
+      "word": "大三女生失联多日后遗体在江中发现",
+      "onboard_time": 1734228618,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621974,
+      "num": 621974,
+      "word": "小伙吃槟榔8年吃成方块脸",
+      "onboard_time": 1734228678,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 594749,
+      "num": 594749,
+      "word": "逐玉开机官宣",
+      "onboard_time": 1734230298,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571835,
       "num": 571835,
       "word": "喝酒脸红的人易患两种癌",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 515851,
-      "num": 199093,
+      "num": 246222,
       "word": "家有儿女04年就在吃海底捞了",
       "onboard_time": 1734227718,
       "rank": 20,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 321873,
-      "num": 197255,
+      "num": 246127,
       "word": "碎片化睡眠3个月后身体的变化",
       "onboard_time": 1734219674,
       "rank": 21,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281250,
+      "num": 246226,
+      "word": "谢兴阳 凤凰传奇演唱会场外变场内",
+      "onboard_time": 1734229457,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 269163,
       "num": 269163,
       "word": "孟子义李昀锐贴贴拍照",
@@ -281,6 +313,22 @@
       "onboard_time": 1734183920,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252368,
+      "num": 252368,
+      "word": "杨仕泽一把搂住了祝绪丹",
+      "onboard_time": 1734228918,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246605,
+      "num": 246605,
+      "word": "张萌做了我想做的事",
+      "onboard_time": 1734227357,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 242776,
@@ -307,12 +355,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 221410,
-      "num": 221410,
-      "word": "大三女生失联多日后遗体在江中发现",
-      "onboard_time": 1734228618,
-      "rank": 17,
+      "raw_hot": 222682,
+      "num": 222682,
+      "word": "女子称遭男按摩师触摸隐私部位",
+      "onboard_time": 1734230478,
+      "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215401,
+      "num": 366336,
+      "word": "白宫回应尹锡悦被弹劾",
+      "onboard_time": 1734228197,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 211422,
+      "num": 339685,
+      "word": "王楚钦vs徐海东",
+      "onboard_time": 1734231377,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 203415,
@@ -339,12 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 191539,
-      "num": 191539,
-      "word": "张萌做了我想做的事",
-      "onboard_time": 1734227357,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 191088,
+      "num": 246549,
+      "word": "成毅确认参加湖南卫视跨年",
+      "onboard_time": 1734231678,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 189697,
@@ -385,6 +449,14 @@
       "onboard_time": 1734165379,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168275,
+      "num": 168275,
+      "word": "发现上早八的老师也很辛苦",
+      "onboard_time": 1734231498,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 165401,
@@ -459,12 +531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145506,
-      "num": 145506,
-      "word": "小伙吃槟榔8年吃成方块脸",
-      "onboard_time": 1734228678,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 146830,
+      "num": 146830,
+      "word": "朴灿烈欧阳娜娜合作曲上线",
+      "onboard_time": 1734220695,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 142721,
@@ -499,20 +571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138224,
-      "num": 138224,
-      "word": "朴灿烈欧阳娜娜合作曲上线",
-      "onboard_time": 1734220695,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "六级",
       "onboard_time": 1734155959,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135424,
+      "num": 135424,
+      "word": "张艺兴主演音乐话剧敦煌到上海了",
+      "onboard_time": 1734197055,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 131557,
@@ -547,6 +619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128254,
+      "num": 158326,
+      "word": "坏习惯会吃掉你的免疫力",
+      "onboard_time": 1734228019,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128028,
+      "num": 128028,
+      "word": "朱婷 杀不死你的将使你更强大",
+      "onboard_time": 1734230298,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126225,
       "num": 126225,
       "word": "王铮亮女儿首次公开登台表演",
@@ -577,14 +665,6 @@
       "onboard_time": 1734213430,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116392,
-      "num": 116392,
-      "word": "杨仕泽一把搂住了祝绪丹",
-      "onboard_time": 1734228918,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 115950,
@@ -627,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109663,
-      "num": 109663,
-      "word": "张艺兴主演音乐话剧敦煌到上海了",
-      "onboard_time": 1734197055,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 107054,
       "num": 107054,
       "word": "夏弃疾镜头下的郑业成",
@@ -667,6 +739,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99456,
+      "num": 99456,
+      "word": "覃海洋回应50米蛙泳晋级决赛",
+      "onboard_time": 1734229519,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98362,
+      "num": 98362,
+      "word": "电影小小的我预售开启",
+      "onboard_time": 1734230119,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97310,
       "num": 97310,
       "word": "福宝吃播上新",
@@ -683,19 +771,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 92406,
-      "num": 366336,
-      "word": "白宫回应尹锡悦被弹劾",
-      "onboard_time": 1734228197,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91932,
       "num": 91932,
       "word": "陈梦vs迪亚兹",
       "onboard_time": 1734188181,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91202,
+      "num": 223091,
+      "word": "农村挖红薯大叔是6块金牌的武状元",
+      "onboard_time": 1734231557,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -721,14 +809,6 @@
       "onboard_time": 1734186321,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82353,
-      "num": 158326,
-      "word": "坏习惯会吃掉你的免疫力",
-      "onboard_time": 1734228019,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81665,
@@ -769,6 +849,14 @@
       "onboard_time": 1734176180,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 73609,
+      "num": 155956,
+      "word": "剥茧杀青",
+      "onboard_time": 1734231859,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 72485,
@@ -867,12 +955,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49622,
+      "num": 249335,
+      "word": "徐瑛彬vs樊振东",
+      "onboard_time": 1734231557,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48565,
       "num": 101523,
       "word": "埃文凯尔没想到纪念馆建在万人坑上",
       "onboard_time": 1734200532,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47169,
+      "num": 246492,
+      "word": "上海地产集团VS山东鲁能",
+      "onboard_time": 1734231498,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 45809,
@@ -883,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45638,
+      "num": 246363,
+      "word": "汕头明润vs山东魏桥",
+      "onboard_time": 1734231498,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44965,
       "num": 1047467,
       "word": "中央经济工作会议释放重磅信号",
@@ -891,12 +1003,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44765,
+      "num": 246857,
+      "word": "林高远陈垣宇vs林昀儒梁靖崑",
+      "onboard_time": 1734231557,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44185,
       "num": 44185,
       "word": "双胞胎姐妹排排站接哥哥放学",
       "onboard_time": 1734199333,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42025,
+      "num": 203920,
+      "word": "梁靖崑vs陈垣宇",
+      "onboard_time": 1734231798,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 40824,
@@ -1035,6 +1163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 21553,
+      "num": 246703,
+      "word": "装修承诺送金条拖仨月难兑现",
+      "onboard_time": 1734231978,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19948,
       "num": 37982,
       "word": "韩国局势进展",
@@ -1065,6 +1201,14 @@
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15583,
+      "num": 339267,
+      "word": "消费者被出镜如何维权",
+      "onboard_time": 1734231859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14371,
