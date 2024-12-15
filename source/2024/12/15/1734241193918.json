@@ -1,0 +1,410 @@
+{
+  "runTime": 1734241193918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443075,
+        "num": 1443075,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831105,
+        "num": 831105,
+        "word": "羽绒服为什么割不动年轻人了",
+        "onboard_time": 1734233537,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 710452,
+        "word": "贸易强国建设不断迈上新台阶",
+        "onboard_time": 1734233958,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 972536,
+        "num": 705895,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613139,
+        "num": 613139,
+        "word": "女子花40万投资电影后群炸了",
+        "onboard_time": 1734238398,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563827,
+        "num": 563827,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 551831,
+        "num": 551831,
+        "word": "许昕vs徐瑛彬",
+        "onboard_time": 1734237858,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473463,
+        "num": 473463,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28815,
+        "num": 432056,
+        "word": "一场四个人无法同时站立的比赛",
+        "onboard_time": 1734240498,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6210,
+        "num": 419373,
+        "word": "上海地产集团3比1山东鲁能",
+        "onboard_time": 1734241039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414424,
+        "num": 414424,
+        "word": "癌症恶化家属起诉药店退靶向药",
+        "onboard_time": 1734239418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413844,
+        "num": 413844,
+        "word": "张凌赫田曦薇开机同框照",
+        "onboard_time": 1734238819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408402,
+        "num": 408402,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404653,
+        "num": 404653,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 342246,
+        "num": 342246,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322398,
+        "num": 322398,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291251,
+        "num": 291251,
+        "word": "刘丁硕vs樊振东",
+        "onboard_time": 1734236599,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71942,
+        "num": 271858,
+        "word": "误判 港片的翻身仗打得漂亮",
+        "onboard_time": 1734240138,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260513,
+        "num": 260513,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38955,
+        "num": 260243,
+        "word": "桃黑黑",
+        "onboard_time": 1734240678,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 297822,
+        "num": 260182,
+        "word": "家有儿女04年就在吃海底捞了",
+        "onboard_time": 1734227718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260049,
+        "num": 260049,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231954,
+        "num": 231954,
+        "word": "斯诺克官方称强烈反对丁俊晖言论",
+        "onboard_time": 1734235818,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202238,
+        "num": 202238,
+        "word": "逐玉吻戏",
+        "onboard_time": 1734239238,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198706,
+        "num": 198706,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154241,
+        "num": 196995,
+        "word": "碎片化睡眠3个月后身体的变化",
+        "onboard_time": 1734219674,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52893,
+        "num": 196200,
+        "word": "李在明称将不考虑弹劾韩德洙",
+        "onboard_time": 1734232578,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129734,
+        "num": 196012,
+        "word": "无限暖暖",
+        "onboard_time": 1734241098,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195956,
+        "num": 195956,
+        "word": "樊振东跟唱霉霉的歌",
+        "onboard_time": 1734238159,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 51998,
+        "num": 193917,
+        "word": "破地狱",
+        "onboard_time": 1734237739,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93533,
+        "num": 193393,
+        "word": "陈垣宇受伤",
+        "onboard_time": 1734240859,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193362,
+        "num": 193362,
+        "word": "竹林四侠告别",
+        "onboard_time": 1734240198,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195506,
+        "num": 192101,
+        "word": "孙茜 一别14年碎玉轩又开工了",
+        "onboard_time": 1734240138,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200186,
+        "num": 191116,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189362,
+        "num": 189362,
+        "word": "男子明知军婚仍同居生育小孩获刑",
+        "onboard_time": 1734232639,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186390,
+        "num": 186390,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734239238,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146682,
+        "num": 184079,
+        "word": "陈垣宇3比1梁靖崑",
+        "onboard_time": 1734239659,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184079,
+        "num": 184078,
+        "word": "现在就出发2",
+        "onboard_time": 1734240198,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180101,
+        "num": 180101,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14591,
+        "num": 169096,
+        "word": "秋冬季带状疱疹如何预防",
+        "onboard_time": 1734238819,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165250,
+        "num": 165250,
+        "word": "王安宇强到导演以为他开了挂",
+        "onboard_time": 1734241098,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160441,
+        "num": 160441,
+        "word": "知道了高铁买不到15元饭的原因",
+        "onboard_time": 1734233958,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148519,
+        "num": 148519,
+        "word": "黑神话同时在线玩家峰值重回20万",
+        "onboard_time": 1734239478,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148381,
+        "num": 148381,
+        "word": "黄圣依官宣加盟湖南卫视跨年",
+        "onboard_time": 1734238698,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137395,
+        "num": 137395,
+        "word": "这下娘娘们真回宫了",
+        "onboard_time": 1734240678,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134770,
+        "num": 134770,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67941,
+        "num": 130329,
+        "word": "香港游客河源徒步发现特产恐龙蛋",
+        "onboard_time": 1734239058,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107994,
+        "num": 127084,
+        "word": "济大泡面大叔称非个人原因离校",
+        "onboard_time": 1734239058,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127041,
+        "num": 127041,
+        "word": "小伙吃槟榔8年吃成方块脸",
+        "onboard_time": 1734228678,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124553,
+        "num": 124553,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把积极因素转化为发展实绩#"
+    }
+  }
+}
