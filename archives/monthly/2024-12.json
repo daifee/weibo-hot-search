@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734287413145,
+  "endTime": 1734288227844,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -44571,6 +44571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56274,
+      "num": 56274,
+      "word": "一国两制方针是行得通办得到得人心的",
+      "onboard_time": 1734286032,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55993,
       "num": 433746,
       "word": "潘展乐谈外国选手集体破防",
@@ -47193,14 +47201,6 @@
       "onboard_time": 1733972419,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 41469,
-      "num": 41469,
-      "word": "一国两制方针是行得通办得到得人心的",
-      "onboard_time": 1734286032,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41461,
@@ -52995,6 +52995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14199,
+      "num": 57189,
+      "word": "起猛了在尔滨看见福建舰",
+      "onboard_time": 1734287232,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14127,
       "num": 274943,
       "word": "范德法特称C罗有些自私",
@@ -53449,14 +53457,6 @@
       "onboard_time": 1734089540,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 11921,
-      "num": 34854,
-      "word": "起猛了在尔滨看见福建舰",
-      "onboard_time": 1734287232,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11887,
@@ -54161,6 +54161,14 @@
       "onboard_time": 1733406620,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 6739,
+      "num": 23319,
+      "word": "吴芊盈探班WB路演",
+      "onboard_time": 1734287712,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 6697,

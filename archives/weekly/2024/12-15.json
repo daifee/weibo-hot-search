@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734287413145,
+  "endTime": 1734288227844,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -3443,6 +3443,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 56274,
+      "num": 56274,
+      "word": "一国两制方针是行得通办得到得人心的",
+      "onboard_time": 1734286032,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55182,
       "num": 105346,
       "word": "2024中国经济新突破",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1734258198,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41469,
-      "num": 41469,
-      "word": "一国两制方针是行得通办得到得人心的",
-      "onboard_time": 1734286032,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40886,
@@ -4083,6 +4083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14199,
+      "num": 57189,
+      "word": "起猛了在尔滨看见福建舰",
+      "onboard_time": 1734287232,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13908,
       "num": 102243,
       "word": "Beidou GPS",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1734244939,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11921,
-      "num": 34854,
-      "word": "起猛了在尔滨看见福建舰",
-      "onboard_time": 1734287232,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11350,
@@ -4217,6 +4217,14 @@
       "onboard_time": 1734286992,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6739,
+      "num": 23319,
+      "word": "吴芊盈探班WB路演",
+      "onboard_time": 1734287712,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 6210,
