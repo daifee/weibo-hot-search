@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/15 15:21:48
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/15 15:35:16
 </p>
 </blockquote>
 <p>
@@ -4089,6 +4089,12 @@ Angelababy逛香港熊猫馆（热度：704021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BF%83%E8%82%8C%E6%A2%97%E6%AD%BB%23" target="weibo">
+爸爸辅导孩子作业被气到心肌梗死（热度：690691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%A1%E4%BB%BF%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%8F%91%E4%BD%9C%E5%93%81%23" target="weibo">
 模仿吴艳妮主播被禁止发作品（热度：690398）
 </a>
@@ -4433,12 +4439,6 @@ TF家族新年音乐会官宣（热度：655103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%88%92%E4%B8%A5%E5%8F%B8%E4%BB%A4%E9%83%A8%E5%8F%91%E5%B8%83%E4%B8%80%E5%8F%B7%E6%88%92%E4%B8%A5%E4%BB%A4%23" target="weibo">
 韩国戒严司令部发布一号戒严令（热度：654517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%BE%85%E5%AF%BC%E5%AD%A9%E5%AD%90%E4%BD%9C%E4%B8%9A%E8%A2%AB%E6%B0%94%E5%88%B0%E5%BF%83%E8%82%8C%E6%A2%97%E6%AD%BB%23" target="weibo">
-爸爸辅导孩子作业被气到心肌梗死（热度：653919）
 </a>
 </li>
 
