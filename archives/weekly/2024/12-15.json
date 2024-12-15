@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734237746648,
+  "endTime": 1734240142583,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1021158,
+      "num": 678137,
+      "word": "冉莹颖11岁儿子身高136",
+      "onboard_time": 1734236238,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1004192,
       "num": 472878,
       "word": "孟子义李昀锐共发30万红包",
@@ -67,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 858854,
-      "num": 468383,
-      "word": "冉莹颖11岁儿子身高136",
-      "onboard_time": 1734236238,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 846834,
+      "num": 846834,
+      "word": "羽绒服为什么割不动年轻人了",
+      "onboard_time": 1734233537,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 841017,
@@ -81,14 +89,6 @@
       "onboard_time": 1734228618,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 840362,
-      "num": 840362,
-      "word": "羽绒服为什么割不动年轻人了",
-      "onboard_time": 1734233537,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 816930,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 515851,
-      "num": 254393,
+      "num": 260429,
       "word": "家有儿女04年就在吃海底捞了",
       "onboard_time": 1734227718,
       "rank": 20,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428321,
+      "num": 428321,
+      "word": "女子花40万投资电影后群炸了",
+      "onboard_time": 1734238398,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415334,
       "num": 415334,
       "word": "年轻人开始反向驯化大数据杀熟",
@@ -249,6 +257,14 @@
       "onboard_time": 1734195677,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406917,
+      "num": 406917,
+      "word": "张凌赫田曦薇开机同框照",
+      "onboard_time": 1734238819,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 376753,
@@ -353,6 +369,14 @@
       "onboard_time": 1734227957,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308708,
+      "num": 308708,
+      "word": "许昕vs徐瑛彬",
+      "onboard_time": 1734237858,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 305450,
@@ -475,6 +499,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206737,
+      "num": 206737,
+      "word": "樊振东跟唱霉霉的歌",
+      "onboard_time": 1734238159,
+      "rank": 23,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 204346,
+      "num": 204346,
+      "word": "猎罪图鉴",
+      "onboard_time": 1734239238,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203415,
       "num": 203415,
       "word": "任豪参加逐玉开机宴",
@@ -489,6 +529,14 @@
       "onboard_time": 1734235697,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198811,
+      "num": 198811,
+      "word": "逐玉吻戏",
+      "onboard_time": 1734239238,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 194158,
@@ -539,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189623,
+      "num": 189623,
+      "word": "知道了高铁买不到15元饭的原因",
+      "onboard_time": 1734233958,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186124,
       "num": 186124,
       "word": "被抱养女子靠姐夫扛钢筋接济上大学",
@@ -587,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165463,
+      "num": 165463,
+      "word": "原来蛀牙的内部长这样",
+      "onboard_time": 1734240079,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165401,
       "num": 165401,
       "word": "12306上线务工人员预约购票专区",
@@ -619,6 +683,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159902,
+      "num": 159902,
+      "word": "张全蛋",
+      "onboard_time": 1734237979,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "7种食物要焯水后再吃",
@@ -633,6 +705,22 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157202,
+      "num": 157202,
+      "word": "王楚钦对战徐海东异常焦灼",
+      "onboard_time": 1734238639,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156801,
+      "num": 156801,
+      "word": "黄圣依官宣加盟湖南卫视跨年",
+      "onboard_time": 1734238698,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154392,
@@ -715,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139034,
+      "num": 197398,
+      "word": "癌症恶化家属起诉药店退靶向药",
+      "onboard_time": 1734239418,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137835,
       "num": 137835,
       "word": "朱婷 杀不死你的将使你更强大",
@@ -755,14 +851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135304,
-      "num": 135304,
-      "word": "知道了高铁买不到15元饭的原因",
-      "onboard_time": 1734233958,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131557,
       "num": 131557,
       "word": "澳门大街小巷穿上中国红套装",
@@ -779,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129393,
+      "num": 478564,
+      "word": "王楚钦3比1徐海东",
+      "onboard_time": 1734237139,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128996,
       "num": 128996,
       "word": "虞书欣好强大的心脏",
@@ -793,14 +889,6 @@
       "onboard_time": 1734235578,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128654,
-      "num": 478564,
-      "word": "王楚钦3比1徐海东",
-      "onboard_time": 1734237139,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 128416,
@@ -899,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113191,
+      "num": 472486,
+      "word": "梁靖崑vs陈垣宇",
+      "onboard_time": 1734231798,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111952,
       "num": 111952,
       "word": "羽绒服里穿短袖真的更保暖吗",
@@ -921,6 +1017,22 @@
       "onboard_time": 1734236719,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108228,
+      "num": 197978,
+      "word": "第五人格赛事",
+      "onboard_time": 1734240018,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108079,
+      "num": 108079,
+      "word": "拉塞尔离谱操作浓眉看醉了",
+      "onboard_time": 1734239180,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107576,
@@ -992,6 +1104,14 @@
       "word": "福宝吃播上新",
       "onboard_time": 1734221417,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94469,
+      "num": 319827,
+      "word": "济大泡面大叔称非个人原因离校",
+      "onboard_time": 1734239058,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1091,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77851,
+      "num": 196884,
+      "word": "孟子义用去热爱活出彩形容窦昭",
+      "onboard_time": 1734240018,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77693,
       "num": 166941,
       "word": "现在拨打的电话",
@@ -1139,11 +1267,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66854,
-      "num": 472486,
-      "word": "梁靖崑vs陈垣宇",
-      "onboard_time": 1734231798,
-      "rank": 29,
+      "raw_hot": 70424,
+      "num": 267491,
+      "word": "奥恰洛夫遗憾没能击败马龙",
+      "onboard_time": 1734238938,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69577,
+      "num": 190360,
+      "word": "亚历山大32分",
+      "onboard_time": 1734239119,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67086,
+      "num": 418292,
+      "word": "陈垣宇3比1梁靖崑",
+      "onboard_time": 1734239659,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1169,6 +1313,14 @@
       "onboard_time": 1734203053,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 63466,
+      "num": 260737,
+      "word": "香港游客河源徒步发现特产恐龙蛋",
+      "onboard_time": 1734239058,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62808,
@@ -1283,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45519,
+      "num": 158343,
+      "word": "孤星计划李一民牺牲片段",
+      "onboard_time": 1734238698,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44965,
       "num": 1047467,
       "word": "中央经济工作会议释放重磅信号",
@@ -1353,6 +1513,14 @@
       "onboard_time": 1734198256,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36532,
+      "num": 419231,
+      "word": "黑神话同时在线玩家峰值重回20万",
+      "onboard_time": 1734239478,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 34844,
@@ -1467,7 +1635,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 20281,
+      "raw_hot": 21665,
       "num": 877461,
       "word": "贸易强国建设不断迈上新台阶",
       "onboard_time": 1734233958,
@@ -1561,6 +1729,14 @@
       "onboard_time": 1734194298,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12509,
+      "num": 156898,
+      "word": "秋冬季带状疱疹如何预防",
+      "onboard_time": 1734238819,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11350,

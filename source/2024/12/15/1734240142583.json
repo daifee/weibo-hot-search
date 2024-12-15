@@ -1,0 +1,410 @@
+{
+  "runTime": 1734240142583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1834321,
+        "num": 1834321,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846834,
+        "num": 846834,
+        "word": "羽绒服为什么割不动年轻人了",
+        "onboard_time": 1734233537,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 719600,
+        "word": "贸易强国建设不断迈上新台阶",
+        "onboard_time": 1734233958,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 1021158,
+        "num": 678137,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633081,
+        "num": 633081,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518244,
+        "num": 518244,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 435199,
+        "num": 435199,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428321,
+        "num": 428321,
+        "word": "女子花40万投资电影后群炸了",
+        "onboard_time": 1734238398,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36532,
+        "num": 419231,
+        "word": "黑神话同时在线玩家峰值重回20万",
+        "onboard_time": 1734239478,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67086,
+        "num": 418292,
+        "word": "陈垣宇3比1梁靖崑",
+        "onboard_time": 1734239659,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417680,
+        "num": 417680,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 406917,
+        "num": 406917,
+        "word": "张凌赫田曦薇开机同框照",
+        "onboard_time": 1734238819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346388,
+        "num": 346388,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 332542,
+        "num": 332542,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94469,
+        "num": 319827,
+        "word": "济大泡面大叔称非个人原因离校",
+        "onboard_time": 1734239058,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308708,
+        "num": 308708,
+        "word": "许昕vs徐瑛彬",
+        "onboard_time": 1734237858,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290157,
+        "num": 290157,
+        "word": "斯诺克官方称强烈反对丁俊晖言论",
+        "onboard_time": 1734235818,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286385,
+        "num": 286385,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70424,
+        "num": 267491,
+        "word": "奥恰洛夫遗憾没能击败马龙",
+        "onboard_time": 1734238938,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63466,
+        "num": 260737,
+        "word": "香港游客河源徒步发现特产恐龙蛋",
+        "onboard_time": 1734239058,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294400,
+        "num": 260429,
+        "word": "家有儿女04年就在吃海底捞了",
+        "onboard_time": 1734227718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258657,
+        "num": 258657,
+        "word": "男子明知军婚仍同居生育小孩获刑",
+        "onboard_time": 1734232639,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256243,
+        "num": 256243,
+        "word": "刘丁硕vs樊振东",
+        "onboard_time": 1734236599,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206737,
+        "num": 206737,
+        "word": "樊振东跟唱霉霉的歌",
+        "onboard_time": 1734238159,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 204346,
+        "num": 204346,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734239238,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198811,
+        "num": 198811,
+        "word": "逐玉吻戏",
+        "onboard_time": 1734239238,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164351,
+        "num": 198525,
+        "word": "碎片化睡眠3个月后身体的变化",
+        "onboard_time": 1734219674,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108228,
+        "num": 197978,
+        "word": "第五人格赛事",
+        "onboard_time": 1734240018,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139034,
+        "num": 197398,
+        "word": "癌症恶化家属起诉药店退靶向药",
+        "onboard_time": 1734239418,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77851,
+        "num": 196884,
+        "word": "孟子义用去热爱活出彩形容窦昭",
+        "onboard_time": 1734240018,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196762,
+        "num": 196762,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69577,
+        "num": 190360,
+        "word": "亚历山大32分",
+        "onboard_time": 1734239119,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189623,
+        "num": 189623,
+        "word": "知道了高铁买不到15元饭的原因",
+        "onboard_time": 1734233958,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177216,
+        "num": 177216,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167915,
+        "num": 167915,
+        "word": "小伙吃槟榔8年吃成方块脸",
+        "onboard_time": 1734228678,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165463,
+        "num": 165463,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159902,
+        "num": 159902,
+        "word": "张全蛋",
+        "onboard_time": 1734237979,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 45519,
+        "num": 158343,
+        "word": "孤星计划李一民牺牲片段",
+        "onboard_time": 1734238698,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157202,
+        "num": 157202,
+        "word": "王楚钦对战徐海东异常焦灼",
+        "onboard_time": 1734238639,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12509,
+        "num": 156898,
+        "word": "秋冬季带状疱疹如何预防",
+        "onboard_time": 1734238819,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156801,
+        "num": 156801,
+        "word": "黄圣依官宣加盟湖南卫视跨年",
+        "onboard_time": 1734238698,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137337,
+        "num": 137337,
+        "word": "丁程鑫 你稍微破坏一下他发型好不好",
+        "onboard_time": 1734233178,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129393,
+        "num": 129393,
+        "word": "王楚钦3比1徐海东",
+        "onboard_time": 1734237139,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122766,
+        "num": 122766,
+        "word": "研究发现轻断食会影响毛发生长",
+        "onboard_time": 1734235578,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 119163,
+        "word": "极越员工听到倒闭第一反应是高兴",
+        "onboard_time": 1734233839,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 113516,
+        "word": "发现上早八的老师也很辛苦",
+        "onboard_time": 1734231498,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113191,
+        "num": 113191,
+        "word": "梁靖崑vs陈垣宇",
+        "onboard_time": 1734231798,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111417,
+        "num": 111417,
+        "word": "马龙湖南卫视跨年官宣",
+        "onboard_time": 1734235878,
+        "rank": 47,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 110787,
+        "num": 110787,
+        "word": "老人直播间刷50万买了上百件假藏品",
+        "onboard_time": 1734235459,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "拉塞尔离谱操作浓眉看醉了",
+        "onboard_time": 1734239180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把积极因素转化为发展实绩#"
+    }
+  }
+}
