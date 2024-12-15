@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734269310230,
+  "endTime": 1734269973669,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -128,6 +128,14 @@
       "word": "高铁洗澡像个几百吨重的孩子",
       "onboard_time": 1734250698,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 917359,
+      "num": 340623,
+      "word": "7岁异瞳女孩在学校受到同学喜爱",
+      "onboard_time": 1734269423,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 519944,
-      "num": 301017,
+      "num": 332620,
       "word": "冷冷冷冷冷你冷冷冷冷冷",
       "onboard_time": 1734264198,
       "rank": 22,
@@ -491,7 +499,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 480583,
+      "raw_hot": 485941,
       "num": 439654,
       "word": "李昀锐 怎么还叫我世子呢",
       "onboard_time": 1734266059,
@@ -705,6 +713,14 @@
       "onboard_time": 1734190579,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326925,
+      "num": 337025,
+      "word": "猎罪2女主播榜一哥奔现",
+      "onboard_time": 1734268580,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 325449,
@@ -1011,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217431,
+      "num": 402129,
+      "word": "鄂州一桥发生多车事故有车坠桥起火",
+      "onboard_time": 1734268279,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "JackeyLove因职业病做手术",
@@ -1075,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204407,
+      "num": 204407,
+      "word": "我是刑警",
+      "onboard_time": 1734265699,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204346,
       "num": 204346,
       "word": "猎罪图鉴",
@@ -1131,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198975,
+      "num": 199750,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198706,
       "num": 198706,
       "word": "原来蛀牙的内部长这样",
@@ -1168,14 +1208,6 @@
       "word": "孙茜 一别14年碎玉轩又开工了",
       "onboard_time": 1734240138,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195256,
-      "num": 195256,
-      "word": "我是刑警",
-      "onboard_time": 1734265699,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1371,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180031,
+      "num": 336172,
+      "word": "石宇奇总决赛夺冠",
+      "onboard_time": 1734268820,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179291,
       "num": 179291,
       "word": "丁程鑫 你稍微破坏一下他发型好不好",
@@ -1491,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165496,
+      "num": 165496,
+      "word": "看得出她是面包公主",
+      "onboard_time": 1734267500,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165401,
       "num": 165401,
       "word": "12306上线务工人员预约购票专区",
@@ -1521,14 +1569,6 @@
       "onboard_time": 1734233839,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 163762,
-      "num": 163762,
-      "word": "看得出她是面包公主",
-      "onboard_time": 1734267500,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 163389,
@@ -1563,8 +1603,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 162054,
-      "num": 162054,
+      "raw_hot": 162169,
+      "num": 162169,
       "word": "逐玉出妆",
       "onboard_time": 1734268701,
       "rank": 38,
@@ -1811,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142374,
-      "num": 402129,
-      "word": "鄂州一桥发生多车事故有车坠桥起火",
-      "onboard_time": 1734268279,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 141992,
       "num": 141992,
       "word": "微博之夜推荐",
@@ -2041,14 +2073,6 @@
       "onboard_time": 1734237139,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129166,
-      "num": 199750,
-      "word": "向佐称因为摸鼻梁手势出圈很失落",
-      "onboard_time": 1734265939,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 128996,
@@ -2411,20 +2435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111591,
-      "num": 257713,
-      "word": "猎罪2女主播榜一哥奔现",
-      "onboard_time": 1734268580,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111002,
       "num": 111002,
       "word": "名侦探学院8规则怪谈",
       "onboard_time": 1734247940,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110999,
+      "num": 325763,
+      "word": "旅行新蜜蜂直播",
+      "onboard_time": 1734268939,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 110113,
@@ -2579,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96897,
-      "num": 254434,
-      "word": "旅行新蜜蜂直播",
-      "onboard_time": 1734268939,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94744,
       "num": 158525,
       "word": "导师眼中的考研和保研生",
@@ -2627,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91849,
+      "num": 325155,
+      "word": "昭昭墨墨洞房",
+      "onboard_time": 1734266960,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91202,
       "num": 223091,
       "word": "农村挖红薯大叔是6块金牌的武状元",
@@ -2639,6 +2663,14 @@
       "num": 250010,
       "word": "Elk劝学",
       "onboard_time": 1734266659,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90627,
+      "num": 268167,
+      "word": "CFS",
+      "onboard_time": 1734269780,
       "rank": 24,
       "category": "电竞"
     },
@@ -2665,6 +2697,14 @@
       "onboard_time": 1734188480,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84390,
+      "num": 336119,
+      "word": "没派发完的飞机餐去哪了",
+      "onboard_time": 1734268640,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83444,
@@ -2755,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75966,
+      "num": 135345,
+      "word": "孙颖莎说追逐梦想挺幸福的",
+      "onboard_time": 1734269720,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75329,
       "num": 75329,
       "word": "网红婚纱男模阿冼被曝车祸去世",
@@ -2785,14 +2833,6 @@
       "onboard_time": 1734199573,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72401,
-      "num": 336172,
-      "word": "石宇奇总决赛夺冠",
-      "onboard_time": 1734268820,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 72341,
@@ -2832,14 +2872,6 @@
       "word": "孟子义李昀锐互相艾特",
       "onboard_time": 1734225019,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 70456,
-      "num": 206491,
-      "word": "昭昭墨墨洞房",
-      "onboard_time": 1734266960,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3124,7 +3156,7 @@
     },
     {
       "raw_hot": 40886,
-      "num": 913812,
+      "num": 938957,
       "word": "中国领跑全球电动汽车销售市场",
       "onboard_time": 1734252679,
       "rank": 2,
@@ -3185,14 +3217,6 @@
       "onboard_time": 1734198256,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37350,
-      "num": 336119,
-      "word": "没派发完的飞机餐去哪了",
-      "onboard_time": 1734268640,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36927,
@@ -3276,7 +3300,7 @@
     },
     {
       "raw_hot": 31084,
-      "num": 184529,
+      "num": 320993,
       "word": "星纪元ET携硬核全家桶北京出道",
       "onboard_time": 1734268701,
       "rank": 31,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1734218714,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9126,
+      "num": 154332,
+      "word": "草莓抹茶牛乳",
+      "onboard_time": 1734269660,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 8845,
