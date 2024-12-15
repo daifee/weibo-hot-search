@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734301320413,
+  "endTime": 1734302403892,
   "band_list": [
     {
       "raw_hot": 879193,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120987,
+      "num": 72189,
+      "word": "男子曝面试模特被男面试官猥亵",
+      "onboard_time": 1734294850,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116810,
       "num": 116810,
       "word": "陈梦VS斯佐科斯",
@@ -235,12 +243,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95504,
-      "num": 55072,
-      "word": "男子曝面试模特被男面试官猥亵",
-      "onboard_time": 1734294850,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 97789,
+      "num": 97789,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 94476,
@@ -395,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67392,
-      "num": 67392,
-      "word": "向佐称因为摸鼻梁手势出圈很失落",
-      "onboard_time": 1734265939,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 66546,
+      "num": 66546,
+      "word": "1500多名军人参与韩国紧急戒严",
+      "onboard_time": 1734292991,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65680,
@@ -443,20 +451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58605,
+      "num": 58605,
+      "word": "韩国政坛或将陷入更大不确定性中",
+      "onboard_time": 1734291730,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58111,
       "num": 58111,
       "word": "周冠宇 狙了S1mple",
       "onboard_time": 1734277938,
       "rank": 46,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 56696,
-      "num": 56696,
-      "word": "1500多名军人参与韩国紧急戒严",
-      "onboard_time": 1734292991,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56274,
@@ -499,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42458,
-      "num": 42458,
-      "word": "韩国政坛或将陷入更大不确定性中",
-      "onboard_time": 1734291730,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 39425,
+      "num": 55285,
+      "word": "学生扮匪徒演习被大爷一棍敲懵",
+      "onboard_time": 1734300432,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39182,
@@ -539,6 +547,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 28115,
+      "num": 28789,
+      "word": "张柏芝把博物馆展品戴在身上",
+      "onboard_time": 1734267500,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27878,
+      "num": 27878,
+      "word": "狐狸在老虎尿上打滚",
+      "onboard_time": 1734298391,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23286,
       "num": 28768,
       "word": "浙江餐饮店老板因为懒自制炒饭机",
@@ -547,36 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22735,
-      "num": 28749,
-      "word": "丁禹兮说我可能天生爱哭",
-      "onboard_time": 1734286512,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22651,
-      "num": 28745,
-      "word": "张柏芝把博物馆展品戴在身上",
-      "onboard_time": 1734267500,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21568,
-      "num": 21568,
+      "raw_hot": 22997,
+      "num": 22997,
       "word": "泰国忠犬拒绝进食随主人一同离世",
       "onboard_time": 1734296471,
       "rank": 41,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 21144,
-      "num": 21144,
-      "word": "狐狸在老虎尿上打滚",
-      "onboard_time": 1734298391,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 22735,
+      "num": 28749,
+      "word": "丁禹兮说我可能天生爱哭",
+      "onboard_time": 1734286512,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 21017,
@@ -595,20 +603,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19019,
+      "num": 57189,
+      "word": "起猛了在尔滨看见福建舰",
+      "onboard_time": 1734287232,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18658,
       "num": 20207,
       "word": "男子低价购课遭遇套娃收费",
       "onboard_time": 1734288551,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18288,
-      "num": 57189,
-      "word": "起猛了在尔滨看见福建舰",
-      "onboard_time": 1734287232,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17859,
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17321,
+      "num": 22331,
+      "word": "库克与特朗普共进晚餐",
+      "onboard_time": 1734293890,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16225,
       "num": 20196,
       "word": "2024年度微盘点",
@@ -635,20 +651,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15087,
-      "num": 55285,
-      "word": "学生扮匪徒演习被大爷一棍敲懵",
-      "onboard_time": 1734300432,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 15632,
+      "num": 22330,
+      "word": "神十九乘组为澳门送上祝福",
+      "onboard_time": 1734297130,
+      "rank": 45,
+      "category": "正能量"
     },
     {
-      "raw_hot": 14918,
-      "num": 17528,
-      "word": "库克与特朗普共进晚餐",
-      "onboard_time": 1734293890,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 15108,
+      "num": 72301,
+      "word": "加入会员后仍跳不过广告",
+      "onboard_time": 1734301632,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14564,
@@ -657,14 +673,6 @@
       "onboard_time": 1734289151,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14250,
-      "num": 17524,
-      "word": "神十九乘组为澳门送上祝福",
-      "onboard_time": 1734297130,
-      "rank": 45,
-      "category": "正能量"
     },
     {
       "raw_hot": 14049,
