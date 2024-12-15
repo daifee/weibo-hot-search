@@ -1,0 +1,410 @@
+{
+  "runTime": 1734234689515,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233248,
+        "num": 1233248,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766490,
+        "num": 766490,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 18198,
+        "num": 677026,
+        "word": "贸易强国建设不断迈上新台阶",
+        "onboard_time": 1734233958,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 675076,
+        "num": 675076,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508237,
+        "num": 508237,
+        "word": "小伙吃槟榔8年吃成方块脸",
+        "onboard_time": 1734228678,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893289,
+        "num": 505651,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 841017,
+        "num": 500443,
+        "word": "大三女生失联多日后遗体在江中发现",
+        "onboard_time": 1734228618,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519121,
+        "num": 493736,
+        "word": "逐玉开机官宣",
+        "onboard_time": 1734230298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115235,
+        "num": 490355,
+        "word": "徐瑛彬vs樊振东",
+        "onboard_time": 1734231557,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487257,
+        "num": 487257,
+        "word": "男子明知军婚仍同居生育小孩获刑",
+        "onboard_time": 1734232639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353136,
+        "num": 353136,
+        "word": "羽绒服为什么割不动年轻人了",
+        "onboard_time": 1734233537,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 342046,
+        "num": 342046,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283308,
+        "num": 283308,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5837,
+        "num": 260994,
+        "word": "林高远陈垣宇3比1林昀儒梁靖崑",
+        "onboard_time": 1734234619,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55155,
+        "num": 251173,
+        "word": "许昕周恺3比0刘丁硕袁励岑",
+        "onboard_time": 1734233839,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249510,
+        "num": 249510,
+        "word": "樊振东恳请球迷们理解尊重",
+        "onboard_time": 1734218413,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245640,
+        "num": 245640,
+        "word": "女子逛店轻松顺走2399元羽绒服",
+        "onboard_time": 1734227718,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237815,
+        "num": 237815,
+        "word": "代号鸢",
+        "onboard_time": 1734227957,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61590,
+        "num": 229446,
+        "word": "罗云熙齐思哲杀青发文",
+        "onboard_time": 1734233658,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229129,
+        "num": 229129,
+        "word": "谢兴阳 凤凰传奇演唱会场外变场内",
+        "onboard_time": 1734229457,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 383965,
+        "num": 223952,
+        "word": "家有儿女04年就在吃海底捞了",
+        "onboard_time": 1734227718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325449,
+        "num": 219505,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189369,
+        "num": 189369,
+        "word": "白宫回应尹锡悦被弹劾",
+        "onboard_time": 1734228197,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227111,
+        "num": 189300,
+        "word": "碎片化睡眠3个月后身体的变化",
+        "onboard_time": 1734219674,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187945,
+        "num": 187945,
+        "word": "杨仕泽一把搂住了祝绪丹",
+        "onboard_time": 1734228918,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193385,
+        "num": 182395,
+        "word": "发现上早八的老师也很辛苦",
+        "onboard_time": 1734231498,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171515,
+        "num": 171515,
+        "word": "花5000元买3针九价HPV疫苗全是假的",
+        "onboard_time": 1734191479,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161914,
+        "num": 161914,
+        "word": "丁程鑫 你稍微破坏一下他发型好不好",
+        "onboard_time": 1734233178,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156586,
+        "num": 156586,
+        "word": "建议大家多做腹式呼吸",
+        "onboard_time": 1734224476,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55998,
+        "num": 156447,
+        "word": "马龙21战奥恰洛夫21胜",
+        "onboard_time": 1734234619,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156410,
+        "num": 156410,
+        "word": "张萌做了我想做的事",
+        "onboard_time": 1734227357,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154392,
+        "num": 154392,
+        "word": "小小的我新海报",
+        "onboard_time": 1734233958,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155590,
+        "num": 153483,
+        "word": "朴灿烈欧阳娜娜合作曲上线",
+        "onboard_time": 1734220695,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151192,
+        "num": 151192,
+        "word": "赵晓卉想打电视剧里的车赶飞机",
+        "onboard_time": 1734234018,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150349,
+        "num": 150349,
+        "word": "王楚钦vs徐海东",
+        "onboard_time": 1734231377,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "周密说没骂周芯竹",
+        "onboard_time": 1734219014,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133461,
+        "num": 133461,
+        "word": "穿袜子睡觉会减少夜醒次数",
+        "onboard_time": 1734190579,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133276,
+        "num": 133276,
+        "word": "黄明昊领衔主演四喜",
+        "onboard_time": 1734232998,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130730,
+        "num": 130730,
+        "word": "极越员工听到倒闭第一反应是高兴",
+        "onboard_time": 1734233839,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129341,
+        "num": 129341,
+        "word": "最适合麦琳的工作找到了",
+        "onboard_time": 1734218954,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124118,
+        "num": 124118,
+        "word": "李在明称将不考虑弹劾韩德洙",
+        "onboard_time": 1734232578,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "初代网红张全蛋现在怎么样了",
+        "onboard_time": 1734220276,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107874,
+        "num": 107874,
+        "word": "年轻人开始反向驯化大数据杀熟",
+        "onboard_time": 1734195916,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104199,
+        "num": 104199,
+        "word": "张艺兴主演音乐话剧敦煌到上海了",
+        "onboard_time": 1734197055,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100307,
+        "num": 100307,
+        "word": "姆巴佩强奸案原告还原案发过程",
+        "onboard_time": 1734221296,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98839,
+        "num": 98839,
+        "word": "清明上河图密码开播就下线15人",
+        "onboard_time": 1734234558,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95594,
+        "num": 95594,
+        "word": "喝酒脸红的人易患两种癌",
+        "onboard_time": 1734225499,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94860,
+        "num": 94860,
+        "word": "朱婷 杀不死你的将使你更强大",
+        "onboard_time": 1734230298,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92953,
+        "num": 92953,
+        "word": "逐玉",
+        "onboard_time": 1734220756,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91864,
+        "num": 91864,
+        "word": "12306上线务工人员预约购票专区",
+        "onboard_time": 1734227897,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国经济航船乘风破浪行稳致远#"
+    }
+  }
+}

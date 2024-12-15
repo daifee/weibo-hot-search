@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734233150866,
+  "endTime": 1734234689515,
   "band_list": [
     {
       "raw_hot": 1284109,
@@ -17,6 +17,14 @@
       "onboard_time": 1734188780,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1233248,
+      "num": 1233248,
+      "word": "湖南卫视跨年阵容官宣",
+      "onboard_time": 1734233118,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1224127,
@@ -43,6 +51,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 841017,
+      "num": 675093,
+      "word": "大三女生失联多日后遗体在江中发现",
+      "onboard_time": 1734228618,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816930,
       "num": 816930,
       "word": "建议大家多做腹式呼吸",
@@ -65,14 +81,6 @@
       "onboard_time": 1734186741,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 742379,
-      "num": 675093,
-      "word": "大三女生失联多日后遗体在江中发现",
-      "onboard_time": 1734228618,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 667511,
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487257,
+      "num": 487257,
+      "word": "男子明知军婚仍同居生育小孩获刑",
+      "onboard_time": 1734232639,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440470,
       "num": 440470,
       "word": "周密直播",
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 353136,
+      "num": 353136,
+      "word": "羽绒服为什么割不动年轻人了",
+      "onboard_time": 1734233537,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 349625,
       "num": 349625,
       "word": "女子逛店轻松顺走2399元羽绒服",
@@ -211,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342046,
+      "num": 342046,
+      "word": "孟子义曾耐心回复黑粉",
+      "onboard_time": 1734233598,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340811,
       "num": 340811,
       "word": "53岁的于和伟演大学生就是赌",
@@ -225,6 +257,14 @@
       "onboard_time": 1734190579,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 325449,
+      "num": 222682,
+      "word": "女子称遭男按摩师触摸隐私部位",
+      "onboard_time": 1734230478,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321873,
@@ -249,14 +289,6 @@
       "onboard_time": 1734188480,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315510,
-      "num": 222682,
-      "word": "女子称遭男按摩师触摸隐私部位",
-      "onboard_time": 1734230478,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313483,
@@ -297,6 +329,14 @@
       "onboard_time": 1734191962,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283308,
+      "num": 283308,
+      "word": "张全蛋致歉",
+      "onboard_time": 1734233898,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 281250,
@@ -403,6 +443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193385,
+      "num": 189785,
+      "word": "发现上早八的老师也很辛苦",
+      "onboard_time": 1734231498,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "求求丁禹兮他真的就会唱",
@@ -417,14 +465,6 @@
       "onboard_time": 1734231678,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189785,
-      "num": 189785,
-      "word": "发现上早八的老师也很辛苦",
-      "onboard_time": 1734231498,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 189697,
@@ -459,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177691,
-      "num": 177691,
-      "word": "湖南卫视跨年阵容官宣",
-      "onboard_time": 1734233118,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174589,
       "num": 174589,
       "word": "六级答案",
@@ -499,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161914,
+      "num": 161914,
+      "word": "丁程鑫 你稍微破坏一下他发型好不好",
+      "onboard_time": 1734233178,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160149,
       "num": 160149,
       "word": "早睡其实什么都不会失去",
@@ -523,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154392,
+      "num": 154392,
+      "word": "小小的我新海报",
+      "onboard_time": 1734233958,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153786,
       "num": 153786,
       "word": "现在拨打的电话第六集",
@@ -537,6 +585,14 @@
       "onboard_time": 1734213970,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151192,
+      "num": 151192,
+      "word": "赵晓卉想打电视剧里的车赶飞机",
+      "onboard_time": 1734234018,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 150481,
@@ -627,20 +683,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130730,
+      "num": 130730,
+      "word": "极越员工听到倒闭第一反应是高兴",
+      "onboard_time": 1734233839,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128996,
       "num": 128996,
       "word": "虞书欣好强大的心脏",
       "onboard_time": 1734180440,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128937,
-      "num": 128937,
-      "word": "男子明知军婚仍同居生育小孩获刑",
-      "onboard_time": 1734232639,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128416,
@@ -675,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124118,
+      "num": 124118,
+      "word": "李在明称将不考虑弹劾韩德洙",
+      "onboard_time": 1734232578,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123268,
       "num": 123268,
       "word": "张韶涵演唱会",
@@ -697,6 +761,14 @@
       "onboard_time": 1734188361,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115235,
+      "num": 490355,
+      "word": "徐瑛彬vs樊振东",
+      "onboard_time": 1734231557,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 113531,
@@ -739,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106229,
-      "num": 106229,
-      "word": "李在明称将不考虑弹劾韩德洙",
-      "onboard_time": 1734232578,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105726,
       "num": 105726,
       "word": "梁永棋猎罪图鉴2定妆花絮",
@@ -777,6 +841,14 @@
       "onboard_time": 1734229519,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98839,
+      "num": 98839,
+      "word": "清明上河图密码开播就下线15人",
+      "onboard_time": 1734234558,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 98362,
@@ -947,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61590,
+      "num": 229446,
+      "word": "罗云熙齐思哲杀青发文",
+      "onboard_time": 1734233658,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60728,
       "num": 191486,
       "word": "廖桂芳包揽抓举挺举总成绩3金",
@@ -963,12 +1043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55998,
+      "num": 156447,
+      "word": "马龙21战奥恰洛夫21胜",
+      "onboard_time": 1734234619,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55182,
       "num": 105346,
       "word": "2024中国经济新突破",
       "onboard_time": 1734223938,
       "rank": 46,
       "category": "正能量,财经"
+    },
+    {
+      "raw_hot": 55155,
+      "num": 251173,
+      "word": "许昕周恺3比0刘丁硕袁励岑",
+      "onboard_time": 1734233839,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 50367,
@@ -993,14 +1089,6 @@
       "onboard_time": 1734198134,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49622,
-      "num": 249335,
-      "word": "徐瑛彬vs樊振东",
-      "onboard_time": 1734231557,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 48730,
@@ -1235,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18198,
+      "num": 677026,
+      "word": "贸易强国建设不断迈上新台阶",
+      "onboard_time": 1734233958,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 17618,
       "num": 137568,
       "word": "沈阳故宫免费给游客送暖贴",
@@ -1337,11 +1433,22 @@
       "onboard_time": 1734197593,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 5837,
+      "num": 260994,
+      "word": "林高远陈垣宇3比1林昀儒梁靖崑",
+      "onboard_time": 1734234619,
+      "rank": 13,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中国经济航船必将驶向更加光明的未来#"
+    },
+    {
+      "word": "#推动中国经济航船乘风破浪行稳致远#"
     }
   ]
 }
