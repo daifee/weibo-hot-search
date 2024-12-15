@@ -1,10 +1,10 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734236871098,
+  "endTime": 1734237746648,
   "band_list": [
     {
-      "raw_hot": 1413527,
-      "num": 1413527,
+      "raw_hot": 2340082,
+      "num": 2340082,
       "word": "樊振东0比3徐瑛彬",
       "onboard_time": 1734235338,
       "rank": 0,
@@ -67,12 +67,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 858854,
+      "num": 468383,
+      "word": "冉莹颖11岁儿子身高136",
+      "onboard_time": 1734236238,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 841017,
       "num": 675093,
       "word": "大三女生失联多日后遗体在江中发现",
       "onboard_time": 1734228618,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 840362,
+      "num": 840362,
+      "word": "羽绒服为什么割不动年轻人了",
+      "onboard_time": 1734233537,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 816930,
@@ -89,14 +105,6 @@
       "onboard_time": 1734191479,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 804815,
-      "num": 804815,
-      "word": "羽绒服为什么割不动年轻人了",
-      "onboard_time": 1734233537,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 746933,
@@ -219,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436980,
-      "num": 436980,
-      "word": "冉莹颖11岁儿子身高136",
-      "onboard_time": 1734236238,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 434747,
+      "num": 434747,
+      "word": "刘丁硕vs樊振东",
+      "onboard_time": 1734236599,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 415334,
@@ -275,6 +283,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 333481,
+      "num": 333481,
+      "word": "原来林黛玉的手最让化妆师头疼",
+      "onboard_time": 1734235099,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332545,
       "num": 193705,
       "word": "穿袜子睡觉会减少夜醒次数",
@@ -321,6 +337,14 @@
       "onboard_time": 1734185602,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 311989,
+      "num": 311989,
+      "word": "斯诺克官方称强烈反对丁俊晖言论",
+      "onboard_time": 1734235818,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 309464,
@@ -395,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257091,
-      "num": 257091,
-      "word": "原来林黛玉的手最让化妆师头疼",
-      "onboard_time": 1734235099,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "杨仕泽一把搂住了祝绪丹",
@@ -451,22 +467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218427,
-      "num": 255872,
-      "word": "斯诺克官方称强烈反对丁俊晖言论",
-      "onboard_time": 1734235818,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216835,
-      "num": 166643,
-      "word": "刘丁硕vs樊振东",
-      "onboard_time": 1734236599,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215401,
       "num": 366336,
       "word": "白宫回应尹锡悦被弹劾",
@@ -481,6 +481,14 @@
       "onboard_time": 1734228558,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199619,
+      "num": 199619,
+      "word": "原来8小时工作制是包括午休的",
+      "onboard_time": 1734235697,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 194158,
@@ -579,20 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166221,
-      "num": 166221,
-      "word": "原来8小时工作制是包括午休的",
-      "onboard_time": 1734235697,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165401,
       "num": 165401,
       "word": "12306上线务工人员预约购票专区",
       "onboard_time": 1734227897,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164705,
+      "num": 164705,
+      "word": "极越员工听到倒闭第一反应是高兴",
+      "onboard_time": 1734233839,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 163302,
@@ -625,14 +633,6 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155941,
-      "num": 155941,
-      "word": "极越员工听到倒闭第一反应是高兴",
-      "onboard_time": 1734233839,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 154392,
@@ -731,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135986,
+      "num": 524027,
+      "word": "老人直播间刷50万买了上百件假藏品",
+      "onboard_time": 1734235459,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "六级",
@@ -779,6 +787,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128697,
+      "num": 128697,
+      "word": "研究发现轻断食会影响毛发生长",
+      "onboard_time": 1734235578,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128654,
+      "num": 478564,
+      "word": "王楚钦3比1徐海东",
+      "onboard_time": 1734237139,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128416,
       "num": 102351,
       "word": "孟子义今晚大婚有点紧张呢",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 124118,
-      "num": 124118,
+      "num": 171084,
       "word": "李在明称将不考虑弹劾韩德洙",
       "onboard_time": 1734232578,
       "rank": 44,
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115195,
+      "num": 460135,
+      "word": "檀健次说巡演是在圆梦",
+      "onboard_time": 1734236839,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113531,
       "num": 113531,
       "word": "38岁抗癌博主二次复发时前夫提离婚",
@@ -883,12 +915,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108785,
-      "num": 524027,
-      "word": "老人直播间刷50万买了上百件假藏品",
-      "onboard_time": 1734235459,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 109619,
+      "num": 109619,
+      "word": "光遇",
+      "onboard_time": 1734236719,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 107576,
@@ -907,14 +939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106163,
-      "num": 106163,
-      "word": "光遇",
-      "onboard_time": 1734236719,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 105726,
       "num": 105726,
       "word": "梁永棋猎罪图鉴2定妆花絮",
@@ -923,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102464,
+      "num": 102464,
+      "word": "孙颖莎今日或迎战陈幸同",
+      "onboard_time": 1734237319,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102075,
       "num": 102075,
       "word": "悉尼发现碎尸包裹死者为海外华人",
       "onboard_time": 1734170481,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101392,
-      "num": 101392,
-      "word": "檀健次说巡演是在圆梦",
-      "onboard_time": 1734236839,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 100827,
@@ -1107,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71070,
+      "num": 172943,
+      "word": "孟子义李昀锐互相艾特",
+      "onboard_time": 1734225019,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66854,
+      "num": 472486,
+      "word": "梁靖崑vs陈垣宇",
+      "onboard_time": 1734231798,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66130,
       "num": 160855,
       "word": "库里终于有副攻手了",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1734203053,
       "rank": 24,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 63440,
-      "num": 118027,
-      "word": "研究发现轻断食会影响毛发生长",
-      "onboard_time": 1734235578,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 62808,
@@ -1275,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42025,
-      "num": 203920,
-      "word": "梁靖崑vs陈垣宇",
-      "onboard_time": 1734231798,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40824,
       "num": 193509,
       "word": "为什么大学英语只有四六级没有五级",
@@ -1395,7 +1419,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28393,
+      "raw_hot": 28781,
       "num": 266283,
       "word": "高仿假酒能调兑出特定年份口感",
       "onboard_time": 1734235578,
@@ -1443,6 +1467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20281,
+      "num": 877461,
+      "word": "贸易强国建设不断迈上新台阶",
+      "onboard_time": 1734233958,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 19948,
       "num": 37982,
       "word": "韩国局势进展",
@@ -1451,20 +1483,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19420,
-      "num": 877461,
-      "word": "贸易强国建设不断迈上新台阶",
-      "onboard_time": 1734233958,
-      "rank": 2,
-      "category": "正能量,财经"
-    },
-    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
       "onboard_time": 1734201792,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18918,
+      "num": 169233,
+      "word": "徐海东太顽强了",
+      "onboard_time": 1734237258,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 17618,
