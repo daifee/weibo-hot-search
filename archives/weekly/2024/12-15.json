@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734262546918,
+  "endTime": 1734266569163,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 967646,
+      "num": 1154823,
+      "word": "厦大涉事学生体内钢钉系5年前植入",
+      "onboard_time": 1734264320,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 947344,
       "num": 1151575,
       "word": "高铁洗澡像个几百吨重的孩子",
@@ -128,6 +136,14 @@
       "word": "男子明知军婚仍同居生育小孩获刑",
       "onboard_time": 1734232639,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 858577,
+      "num": 858577,
+      "word": "卫健局回应网曝12岁女孩感染HPV",
+      "onboard_time": 1734258079,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 738160,
-      "num": 356370,
+      "num": 506055,
       "word": "丈夫发现大女儿非亲生妻子补偿5万元",
       "onboard_time": 1734258979,
       "rank": 34,
@@ -216,14 +232,6 @@
       "word": "老两口150万买2400克黄金被拒",
       "onboard_time": 1734241098,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 720975,
-      "num": 720975,
-      "word": "卫健局回应网曝12岁女孩感染HPV",
-      "onboard_time": 1734258079,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -275,11 +283,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606117,
+      "num": 606117,
+      "word": "上海major",
+      "onboard_time": 1734262939,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 602293,
       "num": 602293,
       "word": "疑似祝绪丹攻击力最强的一段",
       "onboard_time": 1734247997,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 600885,
+      "num": 600885,
+      "word": "逐玉",
+      "onboard_time": 1734220756,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1734225499,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 565458,
+      "num": 565458,
+      "word": "向佐 我从小在舆论风波长大",
+      "onboard_time": 1734261500,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 565127,
@@ -329,6 +361,14 @@
       "onboard_time": 1734220276,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 540417,
+      "num": 540417,
+      "word": "猎罪图鉴2钉鸡头事件",
+      "onboard_time": 1734264799,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 535478,
@@ -395,6 +435,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 505168,
+      "num": 505168,
+      "word": "王楚钦身体原因缺席今晚比赛",
+      "onboard_time": 1734264320,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500500,
       "num": 500500,
       "word": "樊振东恳请球迷们理解尊重",
@@ -417,6 +465,14 @@
       "onboard_time": 1734254539,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447602,
+      "num": 506124,
+      "word": "合肥通报代孕事件",
+      "onboard_time": 1734265219,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 442904,
@@ -443,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 439017,
+      "num": 439017,
+      "word": "虞书欣丁禹兮forhastik双人舞",
+      "onboard_time": 1734262879,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438933,
       "num": 438933,
       "word": "最适合麦琳的工作找到了",
@@ -465,6 +529,14 @@
       "onboard_time": 1734236599,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 430996,
+      "num": 301017,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419256,
@@ -521,6 +593,14 @@
       "onboard_time": 1734250039,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379834,
+      "num": 379834,
+      "word": "孔雪儿领衔主演逐玉",
+      "onboard_time": 1734265278,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 379421,
@@ -651,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315077,
+      "num": 315077,
+      "word": "李昀锐站姐去年发孟子义照片",
+      "onboard_time": 1734266360,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313483,
       "num": 313483,
       "word": "贾跃亭说再还七八亿就可以回国",
@@ -739,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279117,
+      "num": 279117,
+      "word": "张元英 sense高定首封",
+      "onboard_time": 1734262640,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 269163,
       "num": 269163,
       "word": "孟子义李昀锐贴贴拍照",
@@ -819,6 +915,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236905,
+      "num": 236905,
+      "word": "白鹿将更换对接",
+      "onboard_time": 1734260000,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236310,
+      "num": 236310,
+      "word": "张诗尧劝学",
+      "onboard_time": 1734264739,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 234196,
       "num": 234196,
       "word": "孙颖莎成莎指导了",
@@ -843,12 +955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223479,
-      "num": 223479,
-      "word": "逐玉",
-      "onboard_time": 1734220756,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 226261,
+      "num": 226261,
+      "word": "男子26900报押题班一题没押中",
+      "onboard_time": 1734263841,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223376,
@@ -857,14 +969,6 @@
       "onboard_time": 1734160517,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 221983,
-      "num": 233616,
-      "word": "白鹿将更换对接",
-      "onboard_time": 1734260000,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 218918,
@@ -907,12 +1011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212863,
+      "num": 212863,
+      "word": "5人涉嫌开展代孕被采取刑事强制措施",
+      "onboard_time": 1734264259,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210786,
       "num": 210786,
       "word": "王楚钦3比2林高远",
       "onboard_time": 1734245240,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209484,
+      "num": 209484,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 207288,
@@ -1137,6 +1257,14 @@
       "onboard_time": 1734255139,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187783,
+      "num": 187783,
+      "word": "兔子攻击饲养者差0.1毫米咬到血管",
+      "onboard_time": 1734263896,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187043,
@@ -1403,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157838,
+      "num": 157838,
+      "word": "迪丽热巴微博之夜战队人数突破20万",
+      "onboard_time": 1734264679,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "王楚钦对战徐海东异常焦灼",
@@ -1433,14 +1569,6 @@
       "onboard_time": 1734241998,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 155892,
-      "num": 155892,
-      "word": "向佐 我从小在舆论风波长大",
-      "onboard_time": 1734261500,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 154695,
@@ -1643,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136803,
+      "num": 278436,
+      "word": "阴阳师",
+      "onboard_time": 1734266120,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136481,
       "num": 226488,
       "word": "郑思维最后一舞带儿子登登亮相赛场",
@@ -1681,6 +1817,14 @@
       "onboard_time": 1734249619,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134606,
+      "num": 323144,
+      "word": "何浩楠直播",
+      "onboard_time": 1734266120,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 134392,
@@ -1737,6 +1881,14 @@
       "onboard_time": 1734188480,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131478,
+      "num": 131478,
+      "word": "我是刑警",
+      "onboard_time": 1734265699,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 130877,
@@ -1819,12 +1971,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128195,
+      "num": 128195,
+      "word": "窦昭想嫁想依靠",
+      "onboard_time": 1734266298,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127329,
       "num": 127329,
       "word": "小米汽车正在扩大产能",
       "onboard_time": 1734245180,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126917,
+      "num": 315708,
+      "word": "黄雅琼说很开心雅思圆满收官",
+      "onboard_time": 1734266059,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 126225,
@@ -2049,6 +2217,14 @@
       "onboard_time": 1734231798,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113031,
+      "num": 113031,
+      "word": "黄宗泽 痞帅赛道",
+      "onboard_time": 1734264679,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 112778,
@@ -2435,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76257,
+      "num": 329183,
+      "word": "安东森vs石宇奇",
+      "onboard_time": 1734265520,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75329,
       "num": 75329,
       "word": "网红婚纱男模阿冼被曝车祸去世",
@@ -2624,6 +2808,14 @@
       "word": "许昕周恺3比0刘丁硕袁励岑",
       "onboard_time": 1734233839,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52358,
+      "num": 320743,
+      "word": "林诗栋3比0胜梁靖崑",
+      "onboard_time": 1734266120,
+      "rank": 18,
       "category": "体育"
     },
     {
