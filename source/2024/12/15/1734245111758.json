@@ -1,0 +1,410 @@
+{
+  "runTime": 1734245111758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1045955,
+        "num": 1167352,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 722045,
+        "num": 722045,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36927,
+        "num": 686065,
+        "word": "2024中国经济这些首次真提劲",
+        "onboard_time": 1734223938,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 673895,
+        "num": 673895,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625912,
+        "num": 625912,
+        "word": "王楚钦林高远决胜局",
+        "onboard_time": 1734242959,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587185,
+        "num": 587185,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 535478,
+        "num": 535478,
+        "word": "孟子义脱外套沙溢的反应",
+        "onboard_time": 1734243557,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521687,
+        "num": 521687,
+        "word": "桃黑黑",
+        "onboard_time": 1734240678,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 387269,
+        "num": 387269,
+        "word": "女子花40万投资电影后群炸了",
+        "onboard_time": 1734238398,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376199,
+        "num": 376199,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544174,
+        "num": 373841,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523587,
+        "num": 351422,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6142,
+        "num": 340658,
+        "word": "韩悦vs王祉怡",
+        "onboard_time": 1734244939,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12044,
+        "num": 324968,
+        "word": "王楚钦林高远对决太精彩了",
+        "onboard_time": 1734244939,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184838,
+        "num": 319582,
+        "word": "司机凌晨遇代驾小哥主动捎10公里",
+        "onboard_time": 1734243798,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 312079,
+        "num": 312079,
+        "word": "癌症恶化家属起诉药店退靶向药",
+        "onboard_time": 1734239418,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285633,
+        "num": 312054,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243589,
+        "num": 304392,
+        "word": "张凌赫田曦薇开机同框照",
+        "onboard_time": 1734238819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240265,
+        "num": 302019,
+        "word": "丁禹兮团综收官哭了",
+        "onboard_time": 1734241819,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52277,
+        "num": 299124,
+        "word": "陈梦说非常开心回到赛场",
+        "onboard_time": 1734243978,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295589,
+        "num": 295589,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 293018,
+        "num": 293018,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206001,
+        "num": 206001,
+        "word": "许昕3比2徐瑛彬",
+        "onboard_time": 1734241880,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194527,
+        "num": 194527,
+        "word": "明润",
+        "onboard_time": 1734244519,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190658,
+        "num": 190658,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178357,
+        "num": 184395,
+        "word": "王鹤棣全新专辑少年梦",
+        "onboard_time": 1734243798,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184364,
+        "num": 184364,
+        "word": "孙颖莎成莎指导了",
+        "onboard_time": 1734242718,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71815,
+        "num": 171105,
+        "word": "被闲云野鹤拉到花开富贵群骗走40万",
+        "onboard_time": 1734245057,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107649,
+        "num": 169986,
+        "word": "九重紫电子咖啡因",
+        "onboard_time": 1734244578,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8845,
+        "num": 169828,
+        "word": "适合窝在沙发里读的书",
+        "onboard_time": 1734245057,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169702,
+        "num": 169702,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168732,
+        "num": 168732,
+        "word": "酒店经理厕所搂抱强吻猥亵女下属",
+        "onboard_time": 1734243499,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165832,
+        "num": 165832,
+        "word": "只有英语过了四六级才能打的麻将",
+        "onboard_time": 1734241939,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156838,
+        "num": 156838,
+        "word": "李昀锐壁纸",
+        "onboard_time": 1734241759,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153845,
+        "num": 153845,
+        "word": "现在就出发2",
+        "onboard_time": 1734240198,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145474,
+        "num": 145474,
+        "word": "保时捷中国CEO称两年后赢回中国",
+        "onboard_time": 1734241998,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143804,
+        "num": 143804,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734239238,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 139703,
+        "word": "逐玉吻戏",
+        "onboard_time": 1734239238,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132990,
+        "num": 132990,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7162,
+        "num": 127617,
+        "word": "日照金山饮品",
+        "onboard_time": 1734245057,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167743,
+        "num": 126899,
+        "word": "白鹿资讯站",
+        "onboard_time": 1734242299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124735,
+        "num": 124735,
+        "word": "知道了高铁买不到15元饭的原因",
+        "onboard_time": 1734233958,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123258,
+        "num": 123258,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112723,
+        "num": 119760,
+        "word": "绘旅人当神明远行",
+        "onboard_time": 1734244639,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119014,
+        "num": 119014,
+        "word": "53岁练瑜伽一年体态变化",
+        "onboard_time": 1734243379,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115544,
+        "num": 115544,
+        "word": "熊猫福宝等比例长大太可爱了",
+        "onboard_time": 1734245057,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114376,
+        "num": 114376,
+        "word": "王安宇强到导演以为他开了挂",
+        "onboard_time": 1734241098,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100916,
+        "num": 100916,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98851,
+        "num": 98851,
+        "word": "湖南卫视跨年演唱会 抢到了",
+        "onboard_time": 1734241700,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97708,
+        "num": 97708,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把积极因素转化为发展实绩#"
+    }
+  }
+}

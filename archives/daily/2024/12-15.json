@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734244297759,
+  "endTime": 1734245111758,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -43,6 +43,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1045955,
+      "num": 1167352,
+      "word": "早知道我就裸考了",
+      "onboard_time": 1734240799,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1042105,
       "num": 1042105,
       "word": "受不了这个碰嘴唇了",
@@ -57,14 +65,6 @@
       "onboard_time": 1734236238,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1016822,
-      "num": 1162691,
-      "word": "早知道我就裸考了",
-      "onboard_time": 1734240799,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 1004192,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 722045,
+      "num": 722045,
+      "word": "老两口150万买2400克黄金被拒",
+      "onboard_time": 1734241098,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 667511,
       "num": 667511,
       "word": "小伙吃槟榔8年吃成方块脸",
@@ -145,6 +153,14 @@
       "onboard_time": 1734240799,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 625912,
+      "num": 625912,
+      "word": "王楚钦林高远决胜局",
+      "onboard_time": 1734242959,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 613139,
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 544174,
+      "num": 418353,
+      "word": "爸爸辅导孩子作业被气到心肌梗死",
+      "onboard_time": 1734243798,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543420,
       "num": 543420,
       "word": "初代网红张全蛋现在怎么样了",
@@ -203,12 +227,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 539353,
-      "num": 539353,
-      "word": "老两口150万买2400克黄金被拒",
-      "onboard_time": 1734241098,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 535478,
+      "num": 535478,
+      "word": "孟子义脱外套沙溢的反应",
+      "onboard_time": 1734243557,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 534105,
@@ -283,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 418353,
-      "num": 418353,
-      "word": "爸爸辅导孩子作业被气到心肌梗死",
-      "onboard_time": 1734243798,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 415334,
       "num": 415334,
       "word": "年轻人开始反向驯化大数据杀熟",
@@ -329,14 +345,6 @@
       "onboard_time": 1734235099,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 390293,
-      "num": 390293,
-      "word": "孟子义脱外套沙溢的反应",
-      "onboard_time": 1734243557,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 376753,
@@ -452,19 +460,11 @@
     },
     {
       "raw_hot": 294529,
-      "num": 294529,
+      "num": 312054,
       "word": "九重紫",
       "onboard_time": 1734165379,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288967,
-      "num": 420827,
-      "word": "王楚钦林高远决胜局",
-      "onboard_time": 1734242959,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 283831,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 252551,
-      "num": 252551,
+      "num": 302019,
       "word": "丁禹兮团综收官哭了",
       "onboard_time": 1734241819,
       "rank": 21,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194527,
+      "num": 194527,
+      "word": "明润",
+      "onboard_time": 1734244519,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194158,
       "num": 194158,
       "word": "王者荣耀",
@@ -739,6 +747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 184838,
+      "num": 425731,
+      "word": "司机凌晨遇代驾小哥主动捎10公里",
+      "onboard_time": 1734243798,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 184079,
       "num": 184078,
       "word": "现在就出发2",
@@ -768,6 +784,30 @@
       "word": "六级答案",
       "onboard_time": 1734169522,
       "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 168732,
+      "num": 168732,
+      "word": "酒店经理厕所搂抱强吻猥亵女下属",
+      "onboard_time": 1734243499,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167743,
+      "num": 126899,
+      "word": "白鹿资讯站",
+      "onboard_time": 1734242299,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165832,
+      "num": 211850,
+      "word": "只有英语过了四六级才能打的麻将",
+      "onboard_time": 1734241939,
+      "rank": 24,
       "category": "教育"
     },
     {
@@ -819,14 +859,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 159845,
-      "num": 211850,
-      "word": "只有英语过了四六级才能打的麻将",
-      "onboard_time": 1734241939,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "7种食物要焯水后再吃",
@@ -849,6 +881,14 @@
       "onboard_time": 1734238639,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156838,
+      "num": 156838,
+      "word": "李昀锐壁纸",
+      "onboard_time": 1734241759,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 156801,
@@ -947,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141328,
-      "num": 141328,
-      "word": "李昀锐壁纸",
-      "onboard_time": 1734241759,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140678,
       "num": 140678,
       "word": "成都的炸土豆已经进化成这样了吗",
@@ -969,14 +1001,6 @@
       "onboard_time": 1734226218,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139128,
-      "num": 124203,
-      "word": "白鹿资讯站",
-      "onboard_time": 1734242299,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 137835,
@@ -1131,14 +1155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121622,
-      "num": 121622,
-      "word": "酒店经理厕所搂抱强吻猥亵女下属",
-      "onboard_time": 1734243499,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120606,
       "num": 120606,
       "word": "53岁练瑜伽一年体态变化",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1734188361,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115544,
+      "num": 115544,
+      "word": "熊猫福宝等比例长大太可爱了",
+      "onboard_time": 1734245057,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115195,
@@ -1193,6 +1217,14 @@
       "onboard_time": 1734231798,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112723,
+      "num": 119760,
+      "word": "绘旅人当神明远行",
+      "onboard_time": 1734244639,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 112441,
@@ -1257,6 +1289,14 @@
       "onboard_time": 1734239058,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107649,
+      "num": 169986,
+      "word": "九重紫电子咖啡因",
+      "onboard_time": 1734244578,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 107576,
@@ -1507,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 71815,
+      "num": 171105,
+      "word": "被闲云野鹤拉到花开富贵群骗走40万",
+      "onboard_time": 1734245057,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71070,
       "num": 172943,
       "word": "孟子义李昀锐互相艾特",
@@ -1608,6 +1656,14 @@
       "word": "许昕周恺3比0刘丁硕袁励岑",
       "onboard_time": 1734233839,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52277,
+      "num": 299124,
+      "word": "陈梦说非常开心回到赛场",
+      "onboard_time": 1734243978,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1771,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36927,
+      "num": 686065,
+      "word": "2024中国经济这些首次真提劲",
+      "onboard_time": 1734223938,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 34844,
       "num": 34844,
       "word": "王铮亮巡演",
@@ -1809,14 +1873,6 @@
       "onboard_time": 1734202333,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33810,
-      "num": 601708,
-      "word": "2024中国经济这些首次真提劲",
-      "onboard_time": 1734223938,
-      "rank": 2,
-      "category": "正能量,财经"
     },
     {
       "raw_hot": 32838,
@@ -1865,14 +1921,6 @@
       "onboard_time": 1734243618,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 27277,
-      "num": 425731,
-      "word": "司机凌晨遇代驾小哥主动捎10公里",
-      "onboard_time": 1734243798,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 26373,
@@ -2019,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12044,
+      "num": 324968,
+      "word": "王楚钦林高远对决太精彩了",
+      "onboard_time": 1734244939,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11350,
       "num": 24977,
       "word": "神十九祝福澳门",
@@ -2043,12 +2099,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 9467,
-      "num": 262264,
-      "word": "陈梦说非常开心回到赛场",
-      "onboard_time": 1734243978,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 8845,
+      "num": 169828,
+      "word": "适合窝在沙发里读的书",
+      "onboard_time": 1734245057,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 8735,
@@ -2067,11 +2123,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 7162,
+      "num": 127617,
+      "word": "日照金山饮品",
+      "onboard_time": 1734245057,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 6210,
       "num": 419373,
       "word": "上海地产集团3比1山东鲁能",
       "onboard_time": 1734241039,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6142,
+      "num": 340658,
+      "word": "韩悦vs王祉怡",
+      "onboard_time": 1734244939,
+      "rank": 12,
       "category": "体育"
     },
     {
