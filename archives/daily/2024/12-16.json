@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734298570203,
+  "endTime": 1734301320413,
   "band_list": [
     {
       "raw_hot": 879193,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95504,
+      "num": 55072,
+      "word": "男子曝面试模特被男面试官猥亵",
+      "onboard_time": 1734294850,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94476,
       "num": 94476,
       "word": "徐冬冬尹子维分居生活",
@@ -443,6 +451,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 56696,
+      "num": 56696,
+      "word": "1500多名军人参与韩国紧急戒严",
+      "onboard_time": 1734292991,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56274,
       "num": 56274,
       "word": "一国两制方针是行得通办得到得人心的",
@@ -483,16 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44684,
-      "num": 44684,
-      "word": "1500多名军人参与韩国紧急戒严",
-      "onboard_time": 1734292991,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 40685,
-      "num": 40685,
+      "raw_hot": 42458,
+      "num": 42458,
       "word": "韩国政坛或将陷入更大不确定性中",
       "onboard_time": 1734291730,
       "rank": 12,
@@ -531,14 +539,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 23682,
-      "num": 23682,
-      "word": "男子曝面试模特被男面试官猥亵",
-      "onboard_time": 1734294850,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23286,
       "num": 28768,
       "word": "浙江餐饮店老板因为懒自制炒饭机",
@@ -561,6 +561,22 @@
       "onboard_time": 1734267500,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 21568,
+      "num": 21568,
+      "word": "泰国忠犬拒绝进食随主人一同离世",
+      "onboard_time": 1734296471,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 21144,
+      "num": 21144,
+      "word": "狐狸在老虎尿上打滚",
+      "onboard_time": 1734298391,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 21017,
@@ -619,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15087,
+      "num": 55285,
+      "word": "学生扮匪徒演习被大爷一棍敲懵",
+      "onboard_time": 1734300432,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14918,
+      "num": 17528,
+      "word": "库克与特朗普共进晚餐",
+      "onboard_time": 1734293890,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14564,
       "num": 17081,
       "word": "尤文图斯2比2威尼斯",
@@ -627,20 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14498,
-      "num": 14986,
-      "word": "库克与特朗普共进晚餐",
-      "onboard_time": 1734293890,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 14250,
+      "num": 17524,
+      "word": "神十九乘组为澳门送上祝福",
+      "onboard_time": 1734297130,
+      "rank": 45,
+      "category": "正能量"
     },
     {
-      "raw_hot": 13822,
-      "num": 14978,
-      "word": "泰国忠犬拒绝进食随主人一同离世",
-      "onboard_time": 1734296471,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 14049,
+      "num": 37172,
+      "word": "明年实施更加积极的财政政策",
+      "onboard_time": 1734297071,
+      "rank": 9,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 13487,
@@ -659,27 +691,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12638,
-      "num": 37172,
-      "word": "明年实施更加积极的财政政策",
-      "onboard_time": 1734297071,
-      "rank": 9,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 12239,
       "num": 29552,
       "word": "澳门第一面五星红旗在这里升起",
       "onboard_time": 1734292930,
       "rank": 9,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 11325,
-      "num": 13818,
-      "word": "神十九乘组为澳门送上祝福",
-      "onboard_time": 1734297130,
-      "rank": 45,
       "category": "正能量"
     },
     {
@@ -697,14 +713,6 @@
       "onboard_time": 1734295331,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10943,
-      "num": 13816,
-      "word": "狐狸在老虎尿上打滚",
-      "onboard_time": 1734298391,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 10785,
