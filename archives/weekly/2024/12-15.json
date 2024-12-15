@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734267536884,
+  "endTime": 1734269310230,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1633728,
-      "num": 1633728,
+      "raw_hot": 1919188,
+      "num": 1919188,
       "word": "厦大涉事学生体内钢钉系5年前植入",
       "onboard_time": 1734264320,
       "rank": 0,
@@ -203,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 766481,
-      "num": 766481,
+      "raw_hot": 799842,
+      "num": 799842,
       "word": "合肥通报代孕事件",
       "onboard_time": 1734265219,
       "rank": 9,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480583,
+      "num": 439654,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 442904,
       "num": 442904,
       "word": "张诗尧评论曾黎萨顶顶",
@@ -633,14 +641,6 @@
       "onboard_time": 1734254898,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 362133,
-      "num": 222707,
-      "word": "李昀锐 怎么还叫我世子呢",
-      "onboard_time": 1734266059,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 352330,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266509,
+      "num": 467403,
+      "word": "5人涉嫌开展代孕被采取刑事强制措施",
+      "onboard_time": 1734264259,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264452,
       "num": 339685,
       "word": "王楚钦vs徐海东",
@@ -907,12 +915,28 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 247558,
+      "num": 247558,
+      "word": "绿龙夺冠",
+      "onboard_time": 1734266779,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246605,
       "num": 246605,
       "word": "张萌做了我想做的事",
       "onboard_time": 1734227357,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242778,
+      "num": 242778,
+      "word": "张柏芝把博物馆展品戴在身上",
+      "onboard_time": 1734267500,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242776,
@@ -1016,14 +1040,6 @@
       "word": "河北一村民家灶台被贴条停气",
       "onboard_time": 1734259938,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212863,
-      "num": 467403,
-      "word": "5人涉嫌开展代孕被采取刑事强制措施",
-      "onboard_time": 1734264259,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1155,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195256,
+      "num": 195256,
+      "word": "我是刑警",
+      "onboard_time": 1734265699,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194158,
       "num": 194158,
       "word": "王者荣耀",
@@ -1193,14 +1217,6 @@
       "onboard_time": 1734240198,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193067,
-      "num": 193067,
-      "word": "绿龙夺冠",
-      "onboard_time": 1734266779,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 192211,
@@ -1331,6 +1347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183080,
+      "num": 224190,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734267380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182888,
+      "num": 329183,
+      "word": "安东森vs石宇奇",
+      "onboard_time": 1734265520,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181877,
       "num": 181877,
       "word": "酒店经理厕所搂抱强吻猥亵女下属",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1734232998,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177047,
+      "num": 177047,
+      "word": "王源回应内娱甜豆祖师爷称号",
+      "onboard_time": 1734269179,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 175824,
@@ -1384,14 +1424,6 @@
       "word": "张颂文新剧老婆富婆修罗场",
       "onboard_time": 1734258379,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 172069,
-      "num": 172069,
-      "word": "我是刑警",
-      "onboard_time": 1734265699,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1531,6 +1563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 162054,
+      "num": 162054,
+      "word": "逐玉出妆",
+      "onboard_time": 1734268701,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161244,
       "num": 323144,
       "word": "何浩楠直播",
@@ -1651,6 +1691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154384,
+      "num": 154384,
+      "word": "KBS歌谣祭",
+      "onboard_time": 1734268340,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 153786,
       "num": 153786,
       "word": "现在拨打的电话第六集",
@@ -1763,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142374,
+      "num": 402129,
+      "word": "鄂州一桥发生多车事故有车坠桥起火",
+      "onboard_time": 1734268279,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 141992,
       "num": 141992,
       "word": "微博之夜推荐",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1734184763,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 140537,
-      "num": 224190,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1734267380,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 139872,
@@ -1923,14 +1971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134128,
-      "num": 134128,
-      "word": "张柏芝把博物馆展品戴在身上",
-      "onboard_time": 1734267500,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 133663,
       "num": 133663,
       "word": "Joker称宇宙机器人拿奖不意外",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1734237139,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129166,
+      "num": 199750,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 128996,
@@ -2363,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111591,
+      "num": 257713,
+      "word": "猎罪2女主播榜一哥奔现",
+      "onboard_time": 1734268580,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111002,
       "num": 111002,
       "word": "名侦探学院8规则怪谈",
@@ -2523,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96897,
+      "num": 254434,
+      "word": "旅行新蜜蜂直播",
+      "onboard_time": 1734268939,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94744,
       "num": 158525,
       "word": "导师眼中的考研和保研生",
@@ -2569,6 +2633,14 @@
       "onboard_time": 1734231557,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91092,
+      "num": 250010,
+      "word": "Elk劝学",
+      "onboard_time": 1734266659,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 89110,
@@ -2683,14 +2755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76257,
-      "num": 329183,
-      "word": "安东森vs石宇奇",
-      "onboard_time": 1734265520,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75329,
       "num": 75329,
       "word": "网红婚纱男模阿冼被曝车祸去世",
@@ -2721,6 +2785,14 @@
       "onboard_time": 1734199573,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72401,
+      "num": 336172,
+      "word": "石宇奇总决赛夺冠",
+      "onboard_time": 1734268820,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 72341,
@@ -2760,6 +2832,14 @@
       "word": "孟子义李昀锐互相艾特",
       "onboard_time": 1734225019,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 70456,
+      "num": 206491,
+      "word": "昭昭墨墨洞房",
+      "onboard_time": 1734266960,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -3044,7 +3124,7 @@
     },
     {
       "raw_hot": 40886,
-      "num": 826652,
+      "num": 913812,
       "word": "中国领跑全球电动汽车销售市场",
       "onboard_time": 1734252679,
       "rank": 2,
@@ -3107,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37350,
+      "num": 336119,
+      "word": "没派发完的飞机餐去哪了",
+      "onboard_time": 1734268640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36927,
       "num": 686065,
       "word": "2024中国经济这些首次真提劲",
@@ -3129,6 +3217,14 @@
       "onboard_time": 1734219254,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34796,
+      "num": 265499,
+      "word": "村民改造危房却被邻居要过路费",
+      "onboard_time": 1734267799,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34777,
@@ -3177,6 +3273,14 @@
       "onboard_time": 1734196934,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31084,
+      "num": 184529,
+      "word": "星纪元ET携硬核全家桶北京出道",
+      "onboard_time": 1734268701,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 30761,
@@ -3345,14 +3449,6 @@
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14658,
-      "num": 158791,
-      "word": "昭昭墨墨洞房",
-      "onboard_time": 1734266960,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 14591,
