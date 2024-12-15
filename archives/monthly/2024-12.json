@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734269973669,
+  "endTime": 1734272423026,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -961,6 +961,14 @@
       "onboard_time": 1733991080,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1673990,
+      "num": 1673990,
+      "word": "7岁异瞳女孩在学校受到同学喜爱",
+      "onboard_time": 1734269423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1673433,
@@ -3569,14 +3577,6 @@
       "onboard_time": 1733215881,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 917359,
-      "num": 340623,
-      "word": "7岁异瞳女孩在学校受到同学喜爱",
-      "onboard_time": 1734269423,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 915789,
@@ -7595,6 +7595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551421,
+      "num": 551421,
+      "word": "猎罪2女主播榜一哥奔现",
+      "onboard_time": 1734268580,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 551286,
       "num": 551286,
       "word": "为什么说冬天衣服不要穿太紧",
@@ -8771,6 +8779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496000,
+      "num": 439654,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494477,
       "num": 494477,
       "word": "为什么大冰一定要帮助麦子阿姨",
@@ -8945,14 +8961,6 @@
       "onboard_time": 1733412498,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485941,
-      "num": 439654,
-      "word": "李昀锐 怎么还叫我世子呢",
-      "onboard_time": 1734266059,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 485842,
@@ -9217,6 +9225,14 @@
       "onboard_time": 1733207600,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 474225,
+      "num": 474225,
+      "word": "林诗栋vs黄友政",
+      "onboard_time": 1734270379,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 472548,
@@ -10881,6 +10897,14 @@
       "onboard_time": 1733535739,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 412300,
+      "num": 308928,
+      "word": "宁波香飘飘食品有限公司破产",
+      "onboard_time": 1734272060,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 411854,
@@ -13499,14 +13523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 326925,
-      "num": 337025,
-      "word": "猎罪2女主播榜一哥奔现",
-      "onboard_time": 1734268580,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 326882,
       "num": 326882,
       "word": "刘浩存珠光白色长裙",
@@ -13969,6 +13985,14 @@
       "onboard_time": 1733666061,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315029,
+      "num": 315029,
+      "word": "邵子恒 这一刻我等了五年",
+      "onboard_time": 1734270319,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 315000,
@@ -15883,6 +15907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270119,
+      "num": 270119,
+      "word": "张柏芝把博物馆展品戴在身上",
+      "onboard_time": 1734267500,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 270094,
       "num": 270094,
       "word": "运动员代表孙颖莎宣誓",
@@ -16000,6 +16032,14 @@
       "word": "孙颖莎说我有一个令人自豪的身份",
       "onboard_time": 1733210180,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267536,
+      "num": 336172,
+      "word": "石宇奇总决赛夺冠",
+      "onboard_time": 1734268820,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -16361,6 +16401,14 @@
       "onboard_time": 1733545819,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260438,
+      "num": 260438,
+      "word": "窦明小产",
+      "onboard_time": 1734270140,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 260210,
@@ -17379,14 +17427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 242778,
-      "num": 242778,
-      "word": "张柏芝把博物馆展品戴在身上",
-      "onboard_time": 1734267500,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 242776,
       "num": 185365,
       "word": "反复评论机票太贵能便宜2000多",
@@ -18305,6 +18345,14 @@
       "onboard_time": 1733165171,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231356,
+      "num": 231356,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 231336,
@@ -21675,14 +21723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198975,
-      "num": 199750,
-      "word": "向佐称因为摸鼻梁手势出圈很失落",
-      "onboard_time": 1734265939,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198913,
       "num": 1013890,
       "word": "网红祁天道被拘账号被封禁",
@@ -22483,6 +22523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195196,
+      "num": 195196,
+      "word": "EP夺得CFS总冠军",
+      "onboard_time": 1734271521,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195119,
       "num": 281340,
       "word": "丁禹兮登顶11月微博演员热度报告",
@@ -22577,6 +22625,14 @@
       "onboard_time": 1734154158,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194547,
+      "num": 194547,
+      "word": "警方立案调查厦大学生肢体冲突",
+      "onboard_time": 1734270440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194516,
@@ -22865,6 +22921,14 @@
       "onboard_time": 1733453960,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 193119,
+      "num": 193119,
+      "word": "猎罪图鉴2里有闺蜜脑",
+      "onboard_time": 1734271338,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 193097,
@@ -23377,6 +23441,14 @@
       "onboard_time": 1733202020,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190397,
+      "num": 190397,
+      "word": "孟子义眼神戏",
+      "onboard_time": 1734271820,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190374,
@@ -24387,6 +24459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185468,
+      "num": 185468,
+      "word": "张凌赫谢征你好",
+      "onboard_time": 1734270319,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185456,
       "num": 185456,
       "word": "一帘幽梦",
@@ -25019,6 +25099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "CN赛区夺得CFS总冠军",
+      "onboard_time": 1734272359,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 180440,
       "num": 348999,
       "word": "杨政体测未通过",
@@ -25097,14 +25185,6 @@
       "onboard_time": 1733932698,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180031,
-      "num": 336172,
-      "word": "石宇奇总决赛夺冠",
-      "onboard_time": 1734268820,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 179943,
@@ -25969,6 +26049,14 @@
       "onboard_time": 1733650342,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174063,
+      "num": 174063,
+      "word": "鹭卓感觉直接上来了",
+      "onboard_time": 1734271521,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 173997,
@@ -29913,6 +30001,14 @@
       "onboard_time": 1734139518,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 153035,
+      "num": 309021,
+      "word": "年近三十的我对友谊祛魅了",
+      "onboard_time": 1734271700,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153001,
@@ -35828,7 +35924,7 @@
     },
     {
       "raw_hot": 119503,
-      "num": 119503,
+      "num": 949890,
       "word": "看神十九航天员在太空做实验",
       "onboard_time": 1734249558,
       "rank": 43,
@@ -39979,6 +40075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88906,
+      "num": 232049,
+      "word": "国羽年终总决赛3金1银收官",
+      "onboard_time": 1734271820,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88877,
       "num": 181673,
       "word": "春晚神级舞台",
@@ -40873,6 +40977,14 @@
       "onboard_time": 1733285960,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80955,
+      "num": 231425,
+      "word": "donk MVP",
+      "onboard_time": 1734272359,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 80874,
@@ -42529,6 +42641,14 @@
       "onboard_time": 1733062881,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68466,
+      "num": 261266,
+      "word": "为什么周末时间过得那么快",
+      "onboard_time": 1734271400,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68343,
@@ -44763,6 +44883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52725,
+      "num": 121613,
+      "word": "生气真的会诱发心梗吗",
+      "onboard_time": 1734271039,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52677,
       "num": 223466,
       "word": "虞书欣的女孩力量",
@@ -45171,6 +45299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 50208,
+      "num": 233237,
+      "word": "济大学生称希望泡面老板能继续经营",
+      "onboard_time": 1734267979,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50197,
       "num": 237057,
       "word": "民选黑马剧出第二部的含金量",
@@ -45457,6 +45593,14 @@
       "onboard_time": 1733836099,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48202,
+      "num": 260551,
+      "word": "溜溜梅回应争议",
+      "onboard_time": 1734271820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 48196,
@@ -49315,6 +49459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 29868,
+      "num": 261667,
+      "word": "蒋峰为破案爆改健美主播",
+      "onboard_time": 1734267320,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29746,
       "num": 510845,
       "word": "韩国概念股韩建河山一字涨停",
@@ -49505,14 +49657,6 @@
       "onboard_time": 1733740760,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28511,
-      "num": 149547,
-      "word": "蒋峰为破案爆改健美主播",
-      "onboard_time": 1734267320,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 28495,
@@ -50825,6 +50969,14 @@
       "onboard_time": 1733474540,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21480,
+      "num": 231562,
+      "word": "济大泡面老板称被多次要求统一价格",
+      "onboard_time": 1734272241,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21473,
@@ -53968,6 +54120,9 @@
     },
     {
       "word": "#中央经济工作会议哪些表述值得关注#"
+    },
+    {
+      "word": "#深入推进党的自我革命#"
     }
   ]
 }

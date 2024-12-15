@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734269973669,
+  "endTime": 1734272423026,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -17,6 +17,14 @@
       "onboard_time": 1734264320,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1673990,
+      "num": 1673990,
+      "word": "7岁异瞳女孩在学校受到同学喜爱",
+      "onboard_time": 1734269423,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1284109,
@@ -128,14 +136,6 @@
       "word": "高铁洗澡像个几百吨重的孩子",
       "onboard_time": 1734250698,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 917359,
-      "num": 340623,
-      "word": "7岁异瞳女孩在学校受到同学喜爱",
-      "onboard_time": 1734269423,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 551421,
+      "num": 551421,
+      "word": "猎罪2女主播榜一哥奔现",
+      "onboard_time": 1734268580,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543420,
       "num": 543420,
       "word": "初代网红张全蛋现在怎么样了",
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496000,
+      "num": 439654,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492931,
       "num": 492931,
       "word": "雅思组合年终赛混双冠军",
@@ -499,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 485941,
-      "num": 439654,
-      "word": "李昀锐 怎么还叫我世子呢",
-      "onboard_time": 1734266059,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 474225,
+      "num": 474225,
+      "word": "林诗栋vs黄友政",
+      "onboard_time": 1734270379,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 442904,
@@ -601,6 +617,14 @@
       "onboard_time": 1734238819,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412300,
+      "num": 308928,
+      "word": "宁波香飘飘食品有限公司破产",
+      "onboard_time": 1734272060,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 408402,
@@ -715,14 +739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 326925,
-      "num": 337025,
-      "word": "猎罪2女主播榜一哥奔现",
-      "onboard_time": 1734268580,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325449,
       "num": 253919,
       "word": "女子称遭男按摩师触摸隐私部位",
@@ -761,6 +777,14 @@
       "onboard_time": 1734188480,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315029,
+      "num": 315029,
+      "word": "邵子恒 这一刻我等了五年",
+      "onboard_time": 1734270319,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 313483,
@@ -859,12 +883,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 270119,
+      "num": 270119,
+      "word": "张柏芝把博物馆展品戴在身上",
+      "onboard_time": 1734267500,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 269163,
       "num": 269163,
       "word": "孟子义李昀锐贴贴拍照",
       "onboard_time": 1734190761,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267536,
+      "num": 336172,
+      "word": "石宇奇总决赛夺冠",
+      "onboard_time": 1734268820,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 266792,
@@ -897,6 +937,14 @@
       "onboard_time": 1734241880,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260438,
+      "num": 260438,
+      "word": "窦明小产",
+      "onboard_time": 1734270140,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 252551,
@@ -947,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242778,
-      "num": 242778,
-      "word": "张柏芝把博物馆展品戴在身上",
-      "onboard_time": 1734267500,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 242776,
       "num": 185365,
       "word": "反复评论机票太贵能便宜2000多",
@@ -985,6 +1025,14 @@
       "onboard_time": 1734242718,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231356,
+      "num": 231356,
+      "word": "向佐称因为摸鼻梁手势出圈很失落",
+      "onboard_time": 1734265939,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 229766,
@@ -1163,14 +1211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198975,
-      "num": 199750,
-      "word": "向佐称因为摸鼻梁手势出圈很失落",
-      "onboard_time": 1734265939,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198706,
       "num": 198706,
       "word": "原来蛀牙的内部长这样",
@@ -1209,6 +1249,22 @@
       "onboard_time": 1734240138,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195196,
+      "num": 195196,
+      "word": "EP夺得CFS总冠军",
+      "onboard_time": 1734271521,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 194547,
+      "num": 194547,
+      "word": "警方立案调查厦大学生肢体冲突",
+      "onboard_time": 1734270440,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194158,
@@ -1251,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193119,
+      "num": 193119,
+      "word": "猎罪图鉴2里有闺蜜脑",
+      "onboard_time": 1734271338,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192211,
       "num": 192211,
       "word": "父母催婚男子闪婚度完蜜月闪离",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1734258079,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190397,
+      "num": 190397,
+      "word": "孟子义眼神戏",
+      "onboard_time": 1734271820,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190005,
@@ -1363,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185468,
+      "num": 185468,
+      "word": "张凌赫谢征你好",
+      "onboard_time": 1734270319,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184838,
       "num": 425731,
       "word": "司机凌晨遇代驾小哥主动捎10公里",
@@ -1403,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180031,
-      "num": 336172,
-      "word": "石宇奇总决赛夺冠",
-      "onboard_time": 1734268820,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "CN赛区夺得CFS总冠军",
+      "onboard_time": 1734272359,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 179291,
@@ -1449,6 +1529,14 @@
       "onboard_time": 1734169522,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174063,
+      "num": 174063,
+      "word": "鹭卓感觉直接上来了",
+      "onboard_time": 1734271521,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 173899,
@@ -1497,6 +1585,14 @@
       "onboard_time": 1734257658,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167750,
+      "num": 167750,
+      "word": "溜溜梅 时代少年团",
+      "onboard_time": 1734270860,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167743,
@@ -1745,6 +1841,14 @@
       "onboard_time": 1734187101,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153035,
+      "num": 309021,
+      "word": "年近三十的我对友谊祛魅了",
+      "onboard_time": 1734271700,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152857,
@@ -2252,7 +2356,7 @@
     },
     {
       "raw_hot": 119503,
-      "num": 119503,
+      "num": 949890,
       "word": "看神十九航天员在太空做实验",
       "onboard_time": 1734249558,
       "rank": 43,
@@ -2683,6 +2787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88906,
+      "num": 232049,
+      "word": "国羽年终总决赛3金1银收官",
+      "onboard_time": 1734271820,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86232,
       "num": 86232,
       "word": "张元英首个中国封面",
@@ -2745,6 +2857,14 @@
       "onboard_time": 1734191360,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80955,
+      "num": 231425,
+      "word": "donk MVP",
+      "onboard_time": 1734272359,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 80505,
@@ -2891,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68466,
+      "num": 261266,
+      "word": "为什么周末时间过得那么快",
+      "onboard_time": 1734271400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67941,
       "num": 260737,
       "word": "香港游客河源徒步发现特产恐龙蛋",
@@ -2995,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52725,
+      "num": 121613,
+      "word": "生气真的会诱发心梗吗",
+      "onboard_time": 1734271039,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52358,
       "num": 320743,
       "word": "林诗栋3比0胜梁靖崑",
@@ -3025,6 +3161,14 @@
       "onboard_time": 1734181700,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50208,
+      "num": 233237,
+      "word": "济大学生称希望泡面老板能继续经营",
+      "onboard_time": 1734267979,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50187,
@@ -3073,6 +3217,14 @@
       "onboard_time": 1734253099,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48202,
+      "num": 260551,
+      "word": "溜溜梅回应争议",
+      "onboard_time": 1734271820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 47606,
@@ -3323,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29868,
+      "num": 261667,
+      "word": "蒋峰为破案爆改健美主播",
+      "onboard_time": 1734267320,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28815,
       "num": 432056,
       "word": "一场四个人无法同时站立的比赛",
@@ -3337,14 +3497,6 @@
       "onboard_time": 1734235578,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28511,
-      "num": 149547,
-      "word": "蒋峰为破案爆改健美主播",
-      "onboard_time": 1734267320,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 26373,
@@ -3409,6 +3561,14 @@
       "onboard_time": 1734233958,
       "rank": 2,
       "category": "正能量,财经"
+    },
+    {
+      "raw_hot": 21480,
+      "num": 231562,
+      "word": "济大泡面老板称被多次要求统一价格",
+      "onboard_time": 1734272241,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19948,
@@ -3650,6 +3810,9 @@
     },
     {
       "word": "#中央经济工作会议哪些表述值得关注#"
+    },
+    {
+      "word": "#深入推进党的自我革命#"
     }
   ]
 }
