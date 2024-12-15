@@ -1,0 +1,410 @@
+{
+  "runTime": 1734251297707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1113693,
+        "num": 1178190,
+        "word": "苏州被举报局长祝某被撤职",
+        "onboard_time": 1734246918,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639177,
+        "num": 639177,
+        "word": "王楚钦疑似身体不适",
+        "onboard_time": 1734250399,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25588,
+        "num": 618124,
+        "word": "2024中国经济这些首次真提劲",
+        "onboard_time": 1734223938,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 602293,
+        "num": 602293,
+        "word": "疑似祝绪丹攻击力最强的一段",
+        "onboard_time": 1734247997,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453756,
+        "num": 453756,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419233,
+        "num": 419233,
+        "word": "老师休产假前收到学生们缝的百家被",
+        "onboard_time": 1734247459,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 372528,
+        "num": 372528,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340587,
+        "num": 340587,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323151,
+        "num": 323151,
+        "word": "九重紫导演说不能输给路透",
+        "onboard_time": 1734246319,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105247,
+        "num": 310343,
+        "word": "王凯说演戏要先做人",
+        "onboard_time": 1734250519,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398794,
+        "num": 310159,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326818,
+        "num": 308932,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307679,
+        "num": 307679,
+        "word": "孙颖莎退场时被现场球迷表白",
+        "onboard_time": 1734247518,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305947,
+        "num": 305947,
+        "word": "嘉人微博编辑5次",
+        "onboard_time": 1734250039,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63387,
+        "num": 290087,
+        "word": "韩国执政党拒绝与在野党建立合作机制",
+        "onboard_time": 1734249859,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289573,
+        "num": 289573,
+        "word": "俄罗斯小伙说我们根本不吃牛筋肠",
+        "onboard_time": 1734248718,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 276093,
+        "num": 276093,
+        "word": "赵丽颖方确认参加星光大赏",
+        "onboard_time": 1734246979,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269975,
+        "num": 269975,
+        "word": "孟子义脱外套沙溢的反应",
+        "onboard_time": 1734243557,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256721,
+        "num": 256721,
+        "word": "曾黎飞机上做了个中药美甲",
+        "onboard_time": 1734250458,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73280,
+        "num": 245784,
+        "word": "医生称目前没有药物提升免疫力",
+        "onboard_time": 1734249799,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447552,
+        "num": 245690,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243052,
+        "num": 243052,
+        "word": "猎罪图鉴一镜到底换人花絮",
+        "onboard_time": 1734246739,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216585,
+        "num": 216585,
+        "word": "JackeyLove因职业病做手术",
+        "onboard_time": 1734250399,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207751,
+        "num": 207751,
+        "word": "王楚钦林高远决胜局",
+        "onboard_time": 1734242959,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207288,
+        "num": 207288,
+        "word": "为何四六级总分是710分而不是100分",
+        "onboard_time": 1734249799,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203804,
+        "num": 203804,
+        "word": "白敬亭回复宋亚轩",
+        "onboard_time": 1734246859,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179505,
+        "num": 179505,
+        "word": "高铁洗澡像个几百吨重的孩子",
+        "onboard_time": 1734250698,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173899,
+        "num": 173899,
+        "word": "5孩夫妻怕对方跑了彼此都很客气",
+        "onboard_time": 1734248839,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162130,
+        "num": 162130,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161226,
+        "num": 161226,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 160069,
+        "num": 160069,
+        "word": "秋瓷炫早起给于晓光做紫菜包饭",
+        "onboard_time": 1734248119,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "九重紫导演调整姚景元演技",
+        "onboard_time": 1734250818,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145955,
+        "num": 145955,
+        "word": "李昀锐好鲜活的生命力",
+        "onboard_time": 1734249019,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145138,
+        "num": 145138,
+        "word": "桃黑黑",
+        "onboard_time": 1734240678,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "真穷过的导演拍的电影有多真",
+        "onboard_time": 1734250938,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135591,
+        "num": 135591,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134139,
+        "num": 134139,
+        "word": "朱志鑫 体能拉满",
+        "onboard_time": 1734250218,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132128,
+        "num": 132128,
+        "word": "王安宇想念黄景瑜",
+        "onboard_time": 1734249140,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123413,
+        "num": 123413,
+        "word": "吴磊巧克力肤色",
+        "onboard_time": 1734247038,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121895,
+        "num": 123096,
+        "word": "中国短道速滑混合接力银牌",
+        "onboard_time": 1734249738,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123073,
+        "num": 123073,
+        "word": "破地狱 本事传儿子急事找女儿",
+        "onboard_time": 1734248418,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122802,
+        "num": 122802,
+        "word": "53岁练瑜伽一年体态变化",
+        "onboard_time": 1734243379,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119923,
+        "num": 119923,
+        "word": "酒店经理厕所搂抱强吻猥亵女下属",
+        "onboard_time": 1734243499,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119503,
+        "num": 119503,
+        "word": "看神十九航天员在太空做实验",
+        "onboard_time": 1734249558,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117324,
+        "num": 117324,
+        "word": "越来越多普通人不愿意贷款买房了",
+        "onboard_time": 1734249619,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117017,
+        "num": 117017,
+        "word": "电竞选手月薪5万真的算低吗",
+        "onboard_time": 1734250818,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114874,
+        "num": 114874,
+        "word": "樊振东说莫舍己道勿扰他心",
+        "onboard_time": 1734250399,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114090,
+        "num": 114090,
+        "word": "许昕说这是我的饭碗",
+        "onboard_time": 1734251059,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113864,
+        "num": 113864,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113749,
+        "num": 113749,
+        "word": "阿来行走停止我也会枯竭",
+        "onboard_time": 1734251238,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国经济航船乘风破浪行稳致远#"
+    }
+  }
+}
