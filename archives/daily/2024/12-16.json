@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734283172250,
+  "endTime": 1734284270830,
   "band_list": [
     {
       "raw_hot": 879193,
@@ -155,6 +155,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 154706,
+      "num": 154706,
+      "word": "逐玉演员表番位更新",
+      "onboard_time": 1734281595,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140819,
       "num": 140819,
       "word": "田曦薇新剧演杀猪少女",
@@ -176,14 +184,6 @@
       "word": "李昀锐 怎么还叫我世子呢",
       "onboard_time": 1734266059,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120791,
-      "num": 120791,
-      "word": "逐玉演员表番位更新",
-      "onboard_time": 1734281595,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60763,
+      "num": 152521,
+      "word": "美容院经理整蒙记者办先享后付",
+      "onboard_time": 1734282195,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60086,
       "num": 60086,
       "word": "猎罪2女主播榜一哥奔现",
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39182,
+      "num": 48631,
+      "word": "陶喆广州",
+      "onboard_time": 1734283455,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38500,
       "num": 110724,
       "word": "donk MVP",
@@ -459,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36678,
-      "num": 152521,
-      "word": "美容院经理整蒙记者办先享后付",
-      "onboard_time": 1734282195,
+      "raw_hot": 22138,
+      "num": 114489,
+      "word": "个人养老金开户缴存礼包最高超千元",
+      "onboard_time": 1734283634,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 17859,
@@ -473,6 +489,14 @@
       "onboard_time": 1734249558,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17598,
+      "num": 58419,
+      "word": "篮网可能裁掉崔永熙",
+      "onboard_time": 1734281896,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 12978,
