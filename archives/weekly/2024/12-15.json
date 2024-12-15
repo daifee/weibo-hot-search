@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734280047811,
+  "endTime": 1734280992049,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 737538,
+      "num": 798631,
+      "word": "央视曝光先享后付套路多",
+      "onboard_time": 1734278059,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 722635,
       "num": 1115621,
       "word": "王楚钦林高远决胜局",
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593446,
+      "num": 593446,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585680,
       "num": 585680,
       "word": "桃黑黑",
@@ -377,14 +393,6 @@
       "onboard_time": 1734225499,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 568693,
-      "num": 568693,
-      "word": "冷冷冷冷冷你冷冷冷冷冷",
-      "onboard_time": 1734264198,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 565458,
@@ -547,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 480103,
-      "num": 294498,
-      "word": "央视曝光先享后付套路多",
-      "onboard_time": 1734278059,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 474225,
       "num": 474225,
       "word": "林诗栋vs黄友政",
@@ -713,6 +713,14 @@
       "onboard_time": 1734250039,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 381635,
+      "num": 381635,
+      "word": "睡前饿了可以吃这5种食物",
+      "onboard_time": 1734277938,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 379421,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1734228918,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250887,
-      "num": 250887,
-      "word": "睡前饿了可以吃这5种食物",
-      "onboard_time": 1734277938,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 250649,
@@ -1771,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167140,
+      "num": 295388,
+      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
+      "onboard_time": 1734277878,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166315,
       "num": 166315,
       "word": "张凌赫逐玉顺位一番男主",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1734266059,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154829,
-      "num": 295388,
-      "word": "我是刑警杨小洁原型是贵州民警杨小宇",
-      "onboard_time": 1734277878,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 154695,
@@ -2595,6 +2595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116810,
+      "num": 116810,
+      "word": "陈梦VS斯佐科斯",
+      "onboard_time": 1734278179,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115950,
       "num": 115950,
       "word": "丁禹兮销售战报",
@@ -3107,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82102,
+      "num": 82102,
+      "word": "宋亚轩翻唱花花公子",
+      "onboard_time": 1734279737,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 81665,
       "num": 108015,
       "word": "商洛一法院回应诉讼离婚冷静期",
@@ -3152,6 +3168,14 @@
       "word": "马龙21战奥恰洛夫21胜",
       "onboard_time": 1734234619,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79841,
+      "num": 92884,
+      "word": "马龙VS莫雷加德",
+      "onboard_time": 1734278179,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3347,14 +3371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63166,
-      "num": 63166,
-      "word": "宋亚轩翻唱花花公子",
-      "onboard_time": 1734279737,
-      "rank": 48,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 62808,
       "num": 108671,
       "word": "韩德洙同拜登通电话",
@@ -3379,14 +3395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60878,
-      "num": 93008,
-      "word": "陈梦VS斯佐科斯",
-      "onboard_time": 1734278179,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60728,
       "num": 191486,
       "word": "廖桂芳包揽抓举挺举总成绩3金",
@@ -3401,6 +3409,14 @@
       "onboard_time": 1734175820,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58111,
+      "num": 58111,
+      "word": "周冠宇 狙了S1mple",
+      "onboard_time": 1734277938,
+      "rank": 46,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 55182,
@@ -3643,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39953,
+      "num": 293951,
+      "word": "檀健次想争取自己的产出有口碑",
+      "onboard_time": 1734280037,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39931,
       "num": 39931,
       "word": "警方通报白血病患者被诈骗",
@@ -3729,14 +3753,6 @@
       "onboard_time": 1734202333,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33709,
-      "num": 92884,
-      "word": "马龙VS莫雷加德",
-      "onboard_time": 1734278179,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 32838,
@@ -4001,6 +4017,14 @@
       "onboard_time": 1734194298,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12978,
+      "num": 89827,
+      "word": "绝区零星见雅",
+      "onboard_time": 1734280456,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 12044,
