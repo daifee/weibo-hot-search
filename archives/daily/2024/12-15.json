@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734258252147,
+  "endTime": 1734259318236,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1103038,
+      "num": 1176486,
+      "word": "济南大学3.5元泡面老板发声",
+      "onboard_time": 1734254120,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1045955,
       "num": 1167352,
       "word": "早知道我就裸考了",
@@ -73,14 +81,6 @@
       "onboard_time": 1734236238,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1007510,
-      "num": 1161201,
-      "word": "济南大学3.5元泡面老板发声",
-      "onboard_time": 1734254120,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1004192,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 867820,
+      "num": 867820,
+      "word": "第五人格",
+      "onboard_time": 1734258079,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 864871,
       "num": 864871,
       "word": "男子明知军婚仍同居生育小孩获刑",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 857828,
-      "num": 543768,
+      "num": 729520,
       "word": "徐冬冬尹子维分居生活",
       "onboard_time": 1734257000,
       "rank": 3,
@@ -201,6 +209,14 @@
       "onboard_time": 1734252380,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 696920,
+      "num": 696920,
+      "word": "智利车厘子断崖式降价",
+      "onboard_time": 1734255440,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 690691,
@@ -555,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323341,
+      "num": 323341,
+      "word": "卫健局回应网曝12岁女孩感染HPV",
+      "onboard_time": 1734258079,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321897,
       "num": 337711,
       "word": "赵丽颖方确认参加星光大赏",
@@ -587,28 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315430,
-      "num": 315430,
-      "word": "智利车厘子断崖式降价",
-      "onboard_time": 1734255440,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313483,
       "num": 313483,
       "word": "贾跃亭说再还七八亿就可以回国",
       "onboard_time": 1734185602,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 312840,
-      "num": 312840,
-      "word": "第五人格",
-      "onboard_time": 1734258079,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 311989,
@@ -811,6 +819,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 220947,
+      "num": 247744,
+      "word": "丁禹兮这一次就不说再见了",
+      "onboard_time": 1734258139,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218918,
       "num": 218918,
       "word": "朴灿烈欧阳娜娜合作曲上线",
@@ -835,14 +851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 215048,
-      "num": 162749,
-      "word": "卫健局回应网曝12岁女孩感染HPV",
-      "onboard_time": 1734258079,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215022,
       "num": 215022,
       "word": "情侣吵架互删是撒娇还是真翻脸",
@@ -857,6 +865,14 @@
       "onboard_time": 1734245240,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209153,
+      "num": 209153,
+      "word": "何与搂住虞书欣路透",
+      "onboard_time": 1734258799,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 207288,
@@ -1139,12 +1155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172502,
+      "num": 172502,
+      "word": "张颂文新剧老婆富婆修罗场",
+      "onboard_time": 1734258379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170166,
       "num": 170166,
       "word": "电竞选手月薪5万真的算低吗",
       "onboard_time": 1734250818,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168860,
+      "num": 163514,
+      "word": "虞书欣风衣",
+      "onboard_time": 1734257658,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167743,
@@ -1307,8 +1339,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155835,
+      "num": 155835,
+      "word": "232斤男子因三高减肥半年蜕变型男",
+      "onboard_time": 1734258079,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154695,
-      "num": 179391,
+      "num": 247557,
       "word": "韩国检方向尹锡悦发出传唤要求",
       "onboard_time": 1734253759,
       "rank": 39,
@@ -1337,6 +1377,22 @@
       "onboard_time": 1734213970,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151711,
+      "num": 173897,
+      "word": "雅思组合再见",
+      "onboard_time": 1734258019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151696,
+      "num": 151696,
+      "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+      "onboard_time": 1734258979,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151192,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1734189021,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142414,
+      "num": 142414,
+      "word": "黄雅琼郑思维搭档7年",
+      "onboard_time": 1734258379,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 141738,
@@ -1651,14 +1715,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127596,
-      "num": 127596,
-      "word": "虞书欣风衣",
-      "onboard_time": 1734257658,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127329,
       "num": 127329,
       "word": "小米汽车正在扩大产能",
@@ -1673,14 +1729,6 @@
       "onboard_time": 1734220276,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126089,
-      "num": 126089,
-      "word": "丁禹兮这一次就不说再见了",
-      "onboard_time": 1734258139,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 125551,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1734235999,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122267,
-      "num": 121308,
-      "word": "232斤男子因三高减肥半年蜕变型男",
-      "onboard_time": 1734258079,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121895,
@@ -1852,7 +1892,7 @@
     },
     {
       "raw_hot": 113574,
-      "num": 113574,
+      "num": 154356,
       "word": "泡面老板称被告知不撤出将被断水电",
       "onboard_time": 1734256219,
       "rank": 49,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1734244639,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 112692,
+      "num": 247557,
+      "word": "杜城摘下工牌救沈翊",
+      "onboard_time": 1734259039,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 112441,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1734247940,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110113,
+      "num": 110113,
+      "word": "孟子义李昀锐九重紫吻戏花絮",
+      "onboard_time": 1734259280,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 109619,
@@ -2803,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18358,
+      "num": 145961,
+      "word": "安利一个淮南宝藏小镇",
+      "onboard_time": 1734258198,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 17618,
       "num": 137568,
       "word": "沈阳故宫免费给游客送暖贴",
@@ -2945,14 +3009,6 @@
       "onboard_time": 1734197593,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 8127,
-      "num": 145961,
-      "word": "安利一个淮南宝藏小镇",
-      "onboard_time": 1734258198,
-      "rank": 39,
-      "category": "旅游"
     },
     {
       "raw_hot": 7162,

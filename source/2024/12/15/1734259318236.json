@@ -1,0 +1,410 @@
+{
+  "runTime": 1734259318236,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1103038,
+        "num": 1176486,
+        "word": "济南大学3.5元泡面老板发声",
+        "onboard_time": 1734254120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867820,
+        "num": 867820,
+        "word": "第五人格",
+        "onboard_time": 1734258079,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36401,
+        "num": 773310,
+        "word": "中国领跑全球电动汽车销售市场",
+        "onboard_time": 1734252679,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729520,
+        "num": 729520,
+        "word": "徐冬冬尹子维分居生活",
+        "onboard_time": 1734257000,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696920,
+        "num": 696920,
+        "word": "智利车厘子断崖式降价",
+        "onboard_time": 1734255440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417324,
+        "num": 417324,
+        "word": "高铁洗澡像个几百吨重的孩子",
+        "onboard_time": 1734250698,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415527,
+        "num": 415527,
+        "word": "厦门大学嘉庚学院再通报女生被殴打",
+        "onboard_time": 1734253277,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 370003,
+        "num": 370003,
+        "word": "王楚钦疑似身体不适",
+        "onboard_time": 1734250399,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364126,
+        "num": 364126,
+        "word": "主持人百克力被鱼刺穿胃扎到肝",
+        "onboard_time": 1734253458,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330520,
+        "num": 330520,
+        "word": "鹿晗玫瑰印花卫衣",
+        "onboard_time": 1734254898,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 485125,
+        "num": 328479,
+        "word": "曾黎飞机上做了个中药美甲",
+        "onboard_time": 1734250458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396569,
+        "num": 327772,
+        "word": "李行亮机场被网友追问婚姻状况",
+        "onboard_time": 1734252380,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323341,
+        "num": 323341,
+        "word": "卫健局回应网曝12岁女孩感染HPV",
+        "onboard_time": 1734258079,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280499,
+        "num": 280499,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 561841,
+        "num": 275083,
+        "word": "鹿晗四天跑三次8公里",
+        "onboard_time": 1734254240,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248288,
+        "num": 248288,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220947,
+        "num": 247744,
+        "word": "丁禹兮这一次就不说再见了",
+        "onboard_time": 1734258139,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112692,
+        "num": 247557,
+        "word": "杜城摘下工牌救沈翊",
+        "onboard_time": 1734259039,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83047,
+        "num": 247557,
+        "word": "韩国检方向尹锡悦发出传唤要求",
+        "onboard_time": 1734253759,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247557,
+        "num": 247556,
+        "word": "老师休产假前收到学生们缝的百家被",
+        "onboard_time": 1734247459,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 226428,
+        "num": 226428,
+        "word": "27岁女子称结婚2年被家暴20多次",
+        "onboard_time": 1734251719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213856,
+        "num": 213856,
+        "word": "沈翊 钓你都不用打窝",
+        "onboard_time": 1734257000,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209153,
+        "num": 209153,
+        "word": "何与搂住虞书欣路透",
+        "onboard_time": 1734258799,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182069,
+        "num": 182069,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151711,
+        "num": 173897,
+        "word": "雅思组合再见",
+        "onboard_time": 1734258019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172502,
+        "num": 172502,
+        "word": "张颂文新剧老婆富婆修罗场",
+        "onboard_time": 1734258379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163561,
+        "num": 163561,
+        "word": "九重紫导演说不能输给路透",
+        "onboard_time": 1734246319,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 163514,
+        "word": "虞书欣风衣",
+        "onboard_time": 1734257658,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162780,
+        "num": 162780,
+        "word": "雅思组合年终赛混双冠军",
+        "onboard_time": 1734254539,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161559,
+        "num": 161559,
+        "word": "美军特种部队进入叙利亚原俄军基地",
+        "onboard_time": 1734253819,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156857,
+        "num": 156857,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155835,
+        "num": 155835,
+        "word": "232斤男子因三高减肥半年蜕变型男",
+        "onboard_time": 1734258079,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105416,
+        "num": 154356,
+        "word": "泡面老板称被告知不撤出将被断水电",
+        "onboard_time": 1734256219,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152986,
+        "num": 152986,
+        "word": "嘉人微博编辑5次",
+        "onboard_time": 1734250039,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151696,
+        "num": 151696,
+        "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+        "onboard_time": 1734258979,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151560,
+        "num": 151560,
+        "word": "情侣吵架互删是撒娇还是真翻脸",
+        "onboard_time": 1734254659,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151200,
+        "num": 151200,
+        "word": "田曦薇逐玉红衣高马尾路透",
+        "onboard_time": 1734254539,
+        "rank": 36,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 147425,
+        "num": 147425,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145362,
+        "num": 145362,
+        "word": "父母催婚男子闪婚度完蜜月闪离",
+        "onboard_time": 1734253819,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142414,
+        "num": 142414,
+        "word": "黄雅琼郑思维搭档7年",
+        "onboard_time": 1734258379,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133489,
+        "num": 133489,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130949,
+        "num": 130949,
+        "word": "月亮",
+        "onboard_time": 1734254898,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125216,
+        "num": 125216,
+        "word": "张凌赫逐玉顺位一番男主",
+        "onboard_time": 1734256039,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18358,
+        "num": 122721,
+        "word": "安利一个淮南宝藏小镇",
+        "onboard_time": 1734258198,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 121492,
+        "num": 121492,
+        "word": "王玉雯新剧长卷发造型",
+        "onboard_time": 1734255139,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114782,
+        "num": 114782,
+        "word": "郑思维仰天大喊",
+        "onboard_time": 1734256039,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114188,
+        "num": 114188,
+        "word": "疑似祝绪丹攻击力最强的一段",
+        "onboard_time": 1734247997,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112754,
+        "num": 112754,
+        "word": "四六级考完以后的朋友圈",
+        "onboard_time": 1734256638,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110983,
+        "num": 110983,
+        "word": "赵丽颖方确认参加星光大赏",
+        "onboard_time": 1734246979,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110113,
+        "num": 110113,
+        "word": "孟子义李昀锐九重紫吻戏花絮",
+        "onboard_time": 1734259280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央经济工作会议哪些表述值得关注#"
+    }
+  }
+}
