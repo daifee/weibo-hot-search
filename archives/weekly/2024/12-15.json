@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734266569163,
+  "endTime": 1734267536884,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -9,6 +9,14 @@
       "onboard_time": 1734235338,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1633728,
+      "num": 1633728,
+      "word": "厦大涉事学生体内钢钉系5年前植入",
+      "onboard_time": 1734264320,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1284109,
@@ -25,6 +33,14 @@
       "onboard_time": 1734188780,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1267097,
+      "num": 1267097,
+      "word": "李昀锐站姐去年发孟子义照片",
+      "onboard_time": 1734266360,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 1233248,
@@ -107,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 967646,
-      "num": 1154823,
-      "word": "厦大涉事学生体内钢钉系5年前植入",
-      "onboard_time": 1734264320,
-      "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 947344,
       "num": 1151575,
       "word": "高铁洗澡像个几百吨重的孩子",
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 766481,
+      "num": 766481,
+      "word": "合肥通报代孕事件",
+      "onboard_time": 1734265219,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 750967,
       "num": 352125,
       "word": "鹿晗四天跑三次8公里",
@@ -233,6 +249,14 @@
       "onboard_time": 1734241098,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 715235,
+      "num": 715235,
+      "word": "上海major",
+      "onboard_time": 1734262939,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 700860,
@@ -283,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 606117,
-      "num": 606117,
-      "word": "上海major",
-      "onboard_time": 1734262939,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 602293,
       "num": 602293,
       "word": "疑似祝绪丹攻击力最强的一段",
@@ -313,6 +329,14 @@
       "onboard_time": 1734240678,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 572760,
+      "num": 572760,
+      "word": "王楚钦身体原因缺席今晚比赛",
+      "onboard_time": 1734264320,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 571835,
@@ -411,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 519944,
+      "num": 301017,
+      "word": "冷冷冷冷冷你冷冷冷冷冷",
+      "onboard_time": 1734264198,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515851,
       "num": 260429,
       "word": "家有儿女04年就在吃海底捞了",
@@ -435,14 +467,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 505168,
-      "num": 505168,
-      "word": "王楚钦身体原因缺席今晚比赛",
-      "onboard_time": 1734264320,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 500500,
       "num": 500500,
       "word": "樊振东恳请球迷们理解尊重",
@@ -465,14 +489,6 @@
       "onboard_time": 1734254539,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 447602,
-      "num": 506124,
-      "word": "合肥通报代孕事件",
-      "onboard_time": 1734265219,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 442904,
@@ -531,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 430996,
-      "num": 301017,
-      "word": "冷冷冷冷冷你冷冷冷冷冷",
-      "onboard_time": 1734264198,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 419256,
       "num": 419256,
       "word": "雅思组合国际赛场最后一战",
@@ -587,20 +595,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399286,
+      "num": 399286,
+      "word": "孔雪儿领衔主演逐玉",
+      "onboard_time": 1734265278,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381982,
       "num": 381982,
       "word": "嘉人微博编辑5次",
       "onboard_time": 1734250039,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379834,
-      "num": 379834,
-      "word": "孔雪儿领衔主演逐玉",
-      "onboard_time": 1734265278,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 379421,
@@ -625,6 +633,14 @@
       "onboard_time": 1734254898,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 362133,
+      "num": 222707,
+      "word": "李昀锐 怎么还叫我世子呢",
+      "onboard_time": 1734266059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 352330,
@@ -728,14 +744,6 @@
       "word": "腾讯八部热度破30000剧集",
       "onboard_time": 1734188480,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 315077,
-      "num": 315077,
-      "word": "李昀锐站姐去年发孟子义照片",
-      "onboard_time": 1734266360,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 212863,
-      "num": 212863,
+      "num": 467403,
       "word": "5人涉嫌开展代孕被采取刑事强制措施",
       "onboard_time": 1734264259,
       "rank": 31,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1734245240,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209484,
-      "num": 209484,
-      "word": "李昀锐 怎么还叫我世子呢",
-      "onboard_time": 1734266059,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 207288,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197865,
+      "num": 197865,
+      "word": "网传成毅长安二十四计停拍",
+      "onboard_time": 1734266898,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197665,
       "num": 197665,
       "word": "易烊千玺电影小小的我预售破400万",
@@ -1163,6 +1171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 193884,
+      "num": 193884,
+      "word": "兔子攻击饲养者差0.1毫米咬到血管",
+      "onboard_time": 1734263896,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193385,
       "num": 189785,
       "word": "发现上早八的老师也很辛苦",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1734240198,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193067,
+      "num": 193067,
+      "word": "绿龙夺冠",
+      "onboard_time": 1734266779,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 192211,
@@ -1259,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187783,
-      "num": 187783,
-      "word": "兔子攻击饲养者差0.1毫米咬到血管",
-      "onboard_time": 1734263896,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187043,
       "num": 187043,
       "word": "美军特种部队进入叙利亚原俄军基地",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1734180921,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 185950,
+      "num": 185950,
+      "word": "丁禹兮深夜为大家准备的惊喜",
+      "onboard_time": 1734267140,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184838,
@@ -1361,6 +1385,22 @@
       "onboard_time": 1734258379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172069,
+      "num": 172069,
+      "word": "我是刑警",
+      "onboard_time": 1734265699,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170839,
+      "num": 220650,
+      "word": "CSGO",
+      "onboard_time": 1734266720,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 170696,
@@ -1451,6 +1491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 163762,
+      "num": 163762,
+      "word": "看得出她是面包公主",
+      "onboard_time": 1734267500,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163389,
       "num": 163389,
       "word": "九重紫导演调整姚景元演技",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1734243379,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161244,
+      "num": 323144,
+      "word": "何浩楠直播",
+      "onboard_time": 1734266120,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 160398,
@@ -1571,6 +1627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155352,
+      "num": 315708,
+      "word": "黄雅琼说很开心雅思圆满收官",
+      "onboard_time": 1734266059,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154695,
       "num": 247557,
       "word": "韩国检方向尹锡悦发出传唤要求",
@@ -1641,6 +1705,14 @@
       "onboard_time": 1734251059,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147950,
+      "num": 147950,
+      "word": "AG晋级挑杯淘汰赛",
+      "onboard_time": 1734267439,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 146682,
@@ -1715,12 +1787,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140537,
+      "num": 224190,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734267380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139872,
       "num": 139872,
       "word": "樊振东赛后在电梯口被围堵",
       "onboard_time": 1734226218,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139733,
+      "num": 278436,
+      "word": "阴阳师",
+      "onboard_time": 1734266120,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 138972,
@@ -1763,19 +1851,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137084,
+      "num": 137084,
+      "word": "仙逆动画",
+      "onboard_time": 1734267500,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137035,
       "num": 137035,
       "word": "黎深抵此心上",
       "onboard_time": 1734234678,
       "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 136803,
-      "num": 278436,
-      "word": "阴阳师",
-      "onboard_time": 1734266120,
-      "rank": 24,
       "category": "游戏"
     },
     {
@@ -1819,14 +1907,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134606,
-      "num": 323144,
-      "word": "何浩楠直播",
-      "onboard_time": 1734266120,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134392,
       "num": 198887,
       "word": "15岁中国姑娘网球女单夺冠",
@@ -1841,6 +1921,14 @@
       "onboard_time": 1734250218,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134128,
+      "num": 134128,
+      "word": "张柏芝把博物馆展品戴在身上",
+      "onboard_time": 1734267500,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 133663,
@@ -1881,14 +1969,6 @@
       "onboard_time": 1734188480,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131478,
-      "num": 131478,
-      "word": "我是刑警",
-      "onboard_time": 1734265699,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130877,
@@ -1972,7 +2052,7 @@
     },
     {
       "raw_hot": 128195,
-      "num": 128195,
+      "num": 133815,
       "word": "窦昭想嫁想依靠",
       "onboard_time": 1734266298,
       "rank": 42,
@@ -1985,14 +2065,6 @@
       "onboard_time": 1734245180,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 126917,
-      "num": 315708,
-      "word": "黄雅琼说很开心雅思圆满收官",
-      "onboard_time": 1734266059,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 126225,
@@ -3139,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28511,
+      "num": 149547,
+      "word": "蒋峰为破案爆改健美主播",
+      "onboard_time": 1734267320,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26373,
       "num": 29852,
       "word": "走失18年儿子回家父母大摆宴席",
@@ -3267,6 +3347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14658,
+      "num": 158791,
+      "word": "昭昭墨墨洞房",
+      "onboard_time": 1734266960,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 14591,
       "num": 169096,
       "word": "秋冬季带状疱疹如何预防",
@@ -3345,6 +3433,14 @@
       "onboard_time": 1734213311,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10071,
+      "num": 223619,
+      "word": "马龙林钟勋vs奥恰洛夫卡尔德拉诺",
+      "onboard_time": 1734256578,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 9682,
