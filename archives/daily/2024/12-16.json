@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734294276248,
+  "endTime": 1734295089140,
   "band_list": [
     {
       "raw_hot": 879193,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40685,
+      "num": 40685,
+      "word": "韩国政坛或将陷入更大不确定性中",
+      "onboard_time": 1734291730,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39182,
       "num": 48631,
       "word": "陶喆广州",
@@ -515,20 +523,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 27637,
-      "num": 27637,
-      "word": "韩国政坛或将陷入更大不确定性中",
-      "onboard_time": 1734291730,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23286,
       "num": 28768,
       "word": "浙江餐饮店老板因为懒自制炒饭机",
       "onboard_time": 1734286393,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22827,
+      "num": 29570,
+      "word": "1500多名军人参与韩国紧急戒严",
+      "onboard_time": 1734292991,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22735,
@@ -587,14 +595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17698,
-      "num": 29570,
-      "word": "1500多名军人参与韩国紧急戒严",
-      "onboard_time": 1734292991,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17598,
       "num": 58419,
       "word": "篮网可能裁掉崔永熙",
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 13807,
+      "num": 13807,
+      "word": "库克与特朗普共进晚餐",
+      "onboard_time": 1734293890,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13487,
       "num": 38401,
       "word": "厦大嘉庚辟谣女生被殴打需植入钢钉",
@@ -635,12 +643,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11519,
-      "num": 13307,
-      "word": "库克与特朗普共进晚餐",
-      "onboard_time": 1734293890,
+      "raw_hot": 12092,
+      "num": 29552,
+      "word": "澳门第一面五星红旗在这里升起",
+      "onboard_time": 1734292930,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 11228,
+      "num": 13285,
+      "word": "男子曝面试模特被男面试官猥亵",
+      "onboard_time": 1734294850,
       "rank": 47,
-      "category": "国际时政"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11211,
+      "num": 13283,
+      "word": "第五人格玩具商",
+      "onboard_time": 1734295031,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 10588,
