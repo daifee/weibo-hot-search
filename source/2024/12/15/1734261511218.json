@@ -1,0 +1,410 @@
+{
+  "runTime": 1734261511218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 904505,
+        "num": 1144720,
+        "word": "智利车厘子断崖式降价",
+        "onboard_time": 1734255440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780881,
+        "num": 780881,
+        "word": "济南大学3.5元泡面老板发声",
+        "onboard_time": 1734254120,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31547,
+        "num": 721569,
+        "word": "中国领跑全球电动汽车销售市场",
+        "onboard_time": 1734252679,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720975,
+        "num": 720975,
+        "word": "卫健局回应网曝12岁女孩感染HPV",
+        "onboard_time": 1734258079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580242,
+        "num": 580242,
+        "word": "第五人格",
+        "onboard_time": 1734258079,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 406104,
+        "num": 502833,
+        "word": "何与搂住虞书欣路透",
+        "onboard_time": 1734258799,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336482,
+        "num": 500262,
+        "word": "丁禹兮这一次就不说再见了",
+        "onboard_time": 1734258139,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498013,
+        "num": 498013,
+        "word": "雅思组合再见",
+        "onboard_time": 1734258019,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59151,
+        "num": 389606,
+        "word": "中国电动汽车销量占全球近7成",
+        "onboard_time": 1734259519,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33737,
+        "num": 357791,
+        "word": "尹锡悦拒绝传唤",
+        "onboard_time": 1734260840,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 509907,
+        "num": 356370,
+        "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+        "onboard_time": 1734258979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352125,
+        "num": 352125,
+        "word": "鹿晗四天跑三次8公里",
+        "onboard_time": 1734254240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325414,
+        "num": 325414,
+        "word": "李行亮机场被网友追问婚姻状况",
+        "onboard_time": 1734252380,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317895,
+        "num": 317895,
+        "word": "王楚钦疑似身体不适",
+        "onboard_time": 1734250399,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 295456,
+        "word": "窝囊年轻人捧红的生意好笑又心酸",
+        "onboard_time": 1734260899,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284949,
+        "num": 284949,
+        "word": "主持人百克力被鱼刺穿胃扎到肝",
+        "onboard_time": 1734253458,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227939,
+        "num": 270604,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51639,
+        "num": 265735,
+        "word": "甄子丹辟谣能叶问蹲1小时",
+        "onboard_time": 1734260480,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264412,
+        "num": 264412,
+        "word": "高铁洗澡像个几百吨重的孩子",
+        "onboard_time": 1734250698,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199682,
+        "num": 260817,
+        "word": "王楚钦孙颖莎樊振东轮休",
+        "onboard_time": 1734260539,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728421,
+        "num": 258930,
+        "word": "徐冬冬尹子维分居生活",
+        "onboard_time": 1734257000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77959,
+        "num": 252212,
+        "word": "刘诗诗 嘉人女性影响力之夜",
+        "onboard_time": 1734260778,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 586114,
+        "num": 248478,
+        "word": "曾黎飞机上做了个中药美甲",
+        "onboard_time": 1734250458,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201818,
+        "num": 243862,
+        "word": "陶喆演唱会场外比场内人还多",
+        "onboard_time": 1734260179,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162993,
+        "num": 242078,
+        "word": "第五人格先知",
+        "onboard_time": 1734260359,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364087,
+        "num": 234859,
+        "word": "鹿晗玫瑰印花卫衣",
+        "onboard_time": 1734254898,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233926,
+        "num": 233926,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192593,
+        "num": 233616,
+        "word": "白鹿将更换对接",
+        "onboard_time": 1734260000,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192103,
+        "num": 232496,
+        "word": "沈翊 钓你都不用打窝",
+        "onboard_time": 1734257000,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147917,
+        "num": 232068,
+        "word": "九重紫导演说不能输给路透",
+        "onboard_time": 1734246319,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92657,
+        "num": 230311,
+        "word": "雅思永不落幕7遍",
+        "onboard_time": 1734260239,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230229,
+        "num": 230229,
+        "word": "老师休产假前收到学生们缝的百家被",
+        "onboard_time": 1734247459,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 213849,
+        "num": 213849,
+        "word": "河北一村民家灶台被贴条停气",
+        "onboard_time": 1734259938,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190552,
+        "num": 190552,
+        "word": "232斤男子因三高减肥半年蜕变型男",
+        "onboard_time": 1734258079,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142016,
+        "num": 142016,
+        "word": "张颂文新剧老婆富婆修罗场",
+        "onboard_time": 1734258379,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141992,
+        "num": 141992,
+        "word": "微博之夜推荐",
+        "onboard_time": 1734259938,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138972,
+        "num": 138972,
+        "word": "杜城摘下工牌救沈翊",
+        "onboard_time": 1734259039,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137493,
+        "num": 137493,
+        "word": "郑思维说采访完鼻子酸酸的",
+        "onboard_time": 1734259879,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136349,
+        "num": 136349,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135061,
+        "num": 135061,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132514,
+        "num": 132514,
+        "word": "丁禹兮消散对白录音花絮掉落",
+        "onboard_time": 1734261320,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131426,
+        "num": 131426,
+        "word": "尾号0000000手机号将25万起拍",
+        "onboard_time": 1734257058,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129906,
+        "num": 129906,
+        "word": "27岁女子称结婚2年被家暴20多次",
+        "onboard_time": 1734251719,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128079,
+        "num": 128079,
+        "word": "虞书欣风衣",
+        "onboard_time": 1734257658,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119616,
+        "num": 119616,
+        "word": "月亮",
+        "onboard_time": 1734254898,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115815,
+        "num": 115815,
+        "word": "美军特种部队进入叙利亚原俄军基地",
+        "onboard_time": 1734253819,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115493,
+        "num": 115493,
+        "word": "雅思组合带全场观众一起喊永不落幕",
+        "onboard_time": 1734261139,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114760,
+        "num": 114760,
+        "word": "王玉雯新剧长卷发造型",
+        "onboard_time": 1734255139,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107217,
+        "num": 107217,
+        "word": "情侣吵架互删是撒娇还是真翻脸",
+        "onboard_time": 1734254659,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105367,
+        "num": 105367,
+        "word": "昭昭墨墨浴池背后抱",
+        "onboard_time": 1734259579,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂中央经济工作会议十个重要提法#"
+    }
+  }
+}
