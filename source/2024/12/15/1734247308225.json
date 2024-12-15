@@ -1,0 +1,410 @@
+{
+  "runTime": 1734247308225,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 722635,
+        "num": 1115621,
+        "word": "王楚钦林高远决胜局",
+        "onboard_time": 1734242959,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684087,
+        "num": 684087,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29747,
+        "num": 580513,
+        "word": "2024中国经济这些首次真提劲",
+        "onboard_time": 1734223938,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 541472,
+        "num": 541472,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478148,
+        "num": 478148,
+        "word": "孟子义脱外套沙溢的反应",
+        "onboard_time": 1734243557,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442904,
+        "num": 442904,
+        "word": "张诗尧评论曾黎萨顶顶",
+        "onboard_time": 1734245180,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403163,
+        "num": 403163,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328774,
+        "num": 328774,
+        "word": "桃黑黑",
+        "onboard_time": 1734240678,
+        "rank": 7,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 97998,
+        "num": 323182,
+        "word": "苏州被举报局长祝某被撤职",
+        "onboard_time": 1734246918,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39873,
+        "num": 306540,
+        "word": "分析指出韩国政局短期内难恢复平静",
+        "onboard_time": 1734246199,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 653919,
+        "num": 292351,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413326,
+        "num": 276217,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261307,
+        "num": 261307,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 12,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 228426,
+        "num": 228426,
+        "word": "明润",
+        "onboard_time": 1734244519,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71632,
+        "num": 227502,
+        "word": "上官正义称遭千万悬赏买命",
+        "onboard_time": 1734246137,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227476,
+        "num": 227476,
+        "word": "九重紫导演说不能输给路透",
+        "onboard_time": 1734246319,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209396,
+        "num": 214888,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208036,
+        "num": 213085,
+        "word": "赵丽颖方确认参加星光大赏",
+        "onboard_time": 1734246979,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211869,
+        "num": 211869,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12152,
+        "num": 211270,
+        "word": "雄狮少年2擂台格斗戏含金量",
+        "onboard_time": 1734247219,
+        "rank": 19,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 630607,
+        "num": 211224,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210786,
+        "num": 210786,
+        "word": "王楚钦3比2林高远",
+        "onboard_time": 1734245240,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206955,
+        "num": 206955,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200027,
+        "num": 200027,
+        "word": "鞠婧祎去浙江卫视跨年晚会",
+        "onboard_time": 1734246259,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 198887,
+        "word": "15岁中国姑娘网球女单夺冠",
+        "onboard_time": 1734246019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198192,
+        "num": 198192,
+        "word": "猎罪图鉴一镜到底换人花絮",
+        "onboard_time": 1734246739,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184554,
+        "num": 184554,
+        "word": "女子花40万投资电影后群炸了",
+        "onboard_time": 1734238398,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182857,
+        "num": 182857,
+        "word": "癌症恶化家属起诉药店退靶向药",
+        "onboard_time": 1734239418,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181877,
+        "num": 181877,
+        "word": "酒店经理厕所搂抱强吻猥亵女下属",
+        "onboard_time": 1734243499,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176215,
+        "num": 176215,
+        "word": "丁禹兮团综收官哭了",
+        "onboard_time": 1734241819,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160398,
+        "num": 160398,
+        "word": "许昕发博晒精彩球",
+        "onboard_time": 1734245838,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152726,
+        "num": 152726,
+        "word": "张凌赫田曦薇开机同框照",
+        "onboard_time": 1734238819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150298,
+        "num": 150298,
+        "word": "53岁练瑜伽一年体态变化",
+        "onboard_time": 1734243379,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 136453,
+        "num": 136453,
+        "word": "只有英语过了四六级才能打的麻将",
+        "onboard_time": 1734241939,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135623,
+        "num": 135623,
+        "word": "孙颖莎成莎指导了",
+        "onboard_time": 1734242718,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135115,
+        "num": 135115,
+        "word": "白敬亭回复宋亚轩",
+        "onboard_time": 1734246859,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134481,
+        "num": 134481,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "保时捷中国CEO称两年后赢回中国",
+        "onboard_time": 1734241998,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128749,
+        "num": 128749,
+        "word": "食贫道的纪录片",
+        "onboard_time": 1734246137,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127329,
+        "num": 127329,
+        "word": "小米汽车正在扩大产能",
+        "onboard_time": 1734245180,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125828,
+        "num": 125828,
+        "word": "李昀锐壁纸",
+        "onboard_time": 1734241759,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119743,
+        "num": 119743,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115851,
+        "num": 115851,
+        "word": "吴磊巧克力肤色",
+        "onboard_time": 1734247038,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114374,
+        "num": 114374,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110885,
+        "num": 110885,
+        "word": "800万的金箍棒拿手上是什么感觉",
+        "onboard_time": 1734246377,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110345,
+        "num": 110345,
+        "word": "Joker称宇宙机器人拿奖不意外",
+        "onboard_time": 1734247099,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108873,
+        "num": 108873,
+        "word": "许昕3比2徐瑛彬",
+        "onboard_time": 1734241880,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106718,
+        "num": 106718,
+        "word": "现在就出发2",
+        "onboard_time": 1734240198,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96603,
+        "num": 96603,
+        "word": "司机凌晨遇代驾小哥主动捎10公里",
+        "onboard_time": 1734243798,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 94744,
+        "num": 94744,
+        "word": "导师眼中的考研和保研生",
+        "onboard_time": 1734243618,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国经济航船乘风破浪行稳致远#"
+    }
+  }
+}
