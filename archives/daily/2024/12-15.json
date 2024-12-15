@@ -1,7 +1,15 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734234689515,
+  "endTime": 1734236871098,
   "band_list": [
+    {
+      "raw_hot": 1413527,
+      "num": 1413527,
+      "word": "樊振东0比3徐瑛彬",
+      "onboard_time": 1734235338,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 1284109,
       "num": 1284109,
@@ -51,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 864871,
+      "num": 864871,
+      "word": "男子明知军婚仍同居生育小孩获刑",
+      "onboard_time": 1734232639,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841017,
       "num": 675093,
       "word": "大三女生失联多日后遗体在江中发现",
@@ -73,6 +89,14 @@
       "onboard_time": 1734191479,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804815,
+      "num": 804815,
+      "word": "羽绒服为什么割不动年轻人了",
+      "onboard_time": 1734233537,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 746933,
@@ -115,12 +139,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 553848,
+      "num": 553848,
+      "word": "孟子义曾耐心回复黑粉",
+      "onboard_time": 1734233598,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543420,
       "num": 543420,
       "word": "初代网红张全蛋现在怎么样了",
       "onboard_time": 1734220276,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 534105,
+      "num": 534105,
+      "word": "张全蛋致歉",
+      "onboard_time": 1734233898,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 531854,
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 515851,
-      "num": 246222,
+      "num": 254393,
       "word": "家有儿女04年就在吃海底捞了",
       "onboard_time": 1734227718,
       "rank": 20,
@@ -153,14 +193,6 @@
       "onboard_time": 1734218413,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 487257,
-      "num": 487257,
-      "word": "男子明知军婚仍同居生育小孩获刑",
-      "onboard_time": 1734232639,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 440470,
@@ -187,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436980,
+      "num": 436980,
+      "word": "冉莹颖11岁儿子身高136",
+      "onboard_time": 1734236238,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415334,
       "num": 415334,
       "word": "年轻人开始反向驯化大数据杀熟",
@@ -211,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353136,
-      "num": 353136,
-      "word": "羽绒服为什么割不动年轻人了",
-      "onboard_time": 1734233537,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 349625,
       "num": 349625,
       "word": "女子逛店轻松顺走2399元羽绒服",
@@ -233,14 +265,6 @@
       "onboard_time": 1734173840,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342046,
-      "num": 342046,
-      "word": "孟子义曾耐心回复黑粉",
-      "onboard_time": 1734233598,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 340811,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 325449,
-      "num": 222682,
+      "num": 253919,
       "word": "女子称遭男按摩师触摸隐私部位",
       "onboard_time": 1734230478,
       "rank": 25,
@@ -331,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283308,
-      "num": 283308,
-      "word": "张全蛋致歉",
-      "onboard_time": 1734233898,
+      "raw_hot": 281406,
+      "num": 490355,
+      "word": "徐瑛彬vs樊振东",
+      "onboard_time": 1734231557,
       "rank": 12,
-      "category": "艺人"
+      "category": "体育"
     },
     {
       "raw_hot": 281250,
@@ -361,6 +385,22 @@
       "onboard_time": 1734183920,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264452,
+      "num": 339685,
+      "word": "王楚钦vs徐海东",
+      "onboard_time": 1734231377,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 257091,
+      "num": 257091,
+      "word": "原来林黛玉的手最让化妆师头疼",
+      "onboard_time": 1734235099,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 252368,
@@ -403,20 +443,28 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 219168,
-      "num": 339685,
-      "word": "王楚钦vs徐海东",
-      "onboard_time": 1734231377,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218918,
       "num": 218918,
       "word": "朴灿烈欧阳娜娜合作曲上线",
       "onboard_time": 1734220695,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 218427,
+      "num": 255872,
+      "word": "斯诺克官方称强烈反对丁俊晖言论",
+      "onboard_time": 1734235818,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216835,
+      "num": 166643,
+      "word": "刘丁硕vs樊振东",
+      "onboard_time": 1734236599,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 215401,
@@ -467,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190005,
+      "num": 256842,
+      "word": "马龙湖南卫视跨年官宣",
+      "onboard_time": 1734235878,
+      "rank": 17,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 189697,
       "num": 189697,
       "word": "昭昭墨墨圆房吻",
@@ -489,6 +545,14 @@
       "onboard_time": 1734180921,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 179291,
+      "num": 179291,
+      "word": "丁程鑫 你稍微破坏一下他发型好不好",
+      "onboard_time": 1734233178,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 178448,
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166221,
+      "num": 166221,
+      "word": "原来8小时工作制是包括午休的",
+      "onboard_time": 1734235697,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165401,
       "num": 165401,
       "word": "12306上线务工人员预约购票专区",
@@ -529,14 +601,6 @@
       "onboard_time": 1734223998,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161914,
-      "num": 161914,
-      "word": "丁程鑫 你稍微破坏一下他发型好不好",
-      "onboard_time": 1734233178,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 160149,
@@ -561,6 +625,14 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155941,
+      "num": 155941,
+      "word": "极越员工听到倒闭第一反应是高兴",
+      "onboard_time": 1734233839,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 154392,
@@ -651,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137035,
+      "num": 137035,
+      "word": "黎深抵此心上",
+      "onboard_time": 1734234678,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "六级",
@@ -667,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135304,
+      "num": 135304,
+      "word": "知道了高铁买不到15元饭的原因",
+      "onboard_time": 1734233958,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131557,
       "num": 131557,
       "word": "澳门大街小巷穿上中国红套装",
@@ -681,14 +769,6 @@
       "onboard_time": 1734188480,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130730,
-      "num": 130730,
-      "word": "极越员工听到倒闭第一反应是高兴",
-      "onboard_time": 1734233839,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 128996,
@@ -747,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122531,
+      "num": 213733,
+      "word": "Elk回应决赛语音",
+      "onboard_time": 1734235999,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120226,
       "num": 120226,
       "word": "祁天道事件暴露平台监管漏洞",
@@ -761,14 +849,6 @@
       "onboard_time": 1734188361,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115235,
-      "num": 490355,
-      "word": "徐瑛彬vs樊振东",
-      "onboard_time": 1734231557,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 113531,
@@ -803,12 +883,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108785,
+      "num": 524027,
+      "word": "老人直播间刷50万买了上百件假藏品",
+      "onboard_time": 1734235459,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107576,
+      "num": 107576,
+      "word": "清明上河图密码开播就下线15人",
+      "onboard_time": 1734234558,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107054,
       "num": 107054,
       "word": "夏弃疾镜头下的郑业成",
       "onboard_time": 1734226576,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106163,
+      "num": 106163,
+      "word": "光遇",
+      "onboard_time": 1734236719,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 105726,
@@ -827,6 +931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101392,
+      "num": 101392,
+      "word": "檀健次说巡演是在圆梦",
+      "onboard_time": 1734236839,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "自助烤肉儿媳妇不能吃",
@@ -841,14 +953,6 @@
       "onboard_time": 1734229519,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98839,
-      "num": 98839,
-      "word": "清明上河图密码开播就下线15人",
-      "onboard_time": 1734234558,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 98362,
@@ -947,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80088,
+      "num": 156447,
+      "word": "马龙21战奥恰洛夫21胜",
+      "onboard_time": 1734234619,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78440,
       "num": 78440,
       "word": "老瓦杯",
       "onboard_time": 1734184522,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77693,
+      "num": 166941,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734235518,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 75329,
@@ -1011,6 +1131,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 63440,
+      "num": 118027,
+      "word": "研究发现轻断食会影响毛发生长",
+      "onboard_time": 1734235578,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62808,
       "num": 108671,
       "word": "韩德洙同拜登通电话",
@@ -1041,14 +1169,6 @@
       "onboard_time": 1734175820,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55998,
-      "num": 156447,
-      "word": "马龙21战奥恰洛夫21胜",
-      "onboard_time": 1734234619,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 55182,
@@ -1195,6 +1315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 39871,
+      "num": 255530,
+      "word": "牙膏价格逐年上涨",
+      "onboard_time": 1734235338,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 38536,
       "num": 38536,
       "word": "张宁赛后哭了",
@@ -1267,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28393,
+      "num": 266283,
+      "word": "高仿假酒能调兑出特定年份口感",
+      "onboard_time": 1734235578,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26373,
       "num": 29852,
       "word": "走失18年儿子回家父母大摆宴席",
@@ -1315,20 +1451,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19420,
+      "num": 877461,
+      "word": "贸易强国建设不断迈上新台阶",
+      "onboard_time": 1734233958,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
       "onboard_time": 1734201792,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18198,
-      "num": 677026,
-      "word": "贸易强国建设不断迈上新台阶",
-      "onboard_time": 1734233958,
-      "rank": 2,
-      "category": "正能量,财经"
     },
     {
       "raw_hot": 17618,
@@ -1449,6 +1585,9 @@
     },
     {
       "word": "#推动中国经济航船乘风破浪行稳致远#"
+    },
+    {
+      "word": "#努力把积极因素转化为发展实绩#"
     }
   ]
 }

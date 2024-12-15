@@ -1,0 +1,410 @@
+{
+  "runTime": 1734236871098,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1413527,
+        "num": 1413527,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 952350,
+        "num": 952350,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19420,
+        "num": 877461,
+        "word": "贸易强国建设不断迈上新台阶",
+        "onboard_time": 1734233958,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 864871,
+        "num": 864871,
+        "word": "男子明知军婚仍同居生育小孩获刑",
+        "onboard_time": 1734232639,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804815,
+        "num": 804815,
+        "word": "羽绒服为什么割不动年轻人了",
+        "onboard_time": 1734233537,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 666308,
+        "num": 666308,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553848,
+        "num": 553848,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534105,
+        "num": 534105,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530042,
+        "num": 530042,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108785,
+        "num": 524027,
+        "word": "老人直播间刷50万买了上百件假藏品",
+        "onboard_time": 1734235459,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522391,
+        "num": 522391,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 10,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 436980,
+        "num": 436980,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293247,
+        "num": 293247,
+        "word": "小伙吃槟榔8年吃成方块脸",
+        "onboard_time": 1734228678,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281406,
+        "num": 281406,
+        "word": "徐瑛彬vs樊振东",
+        "onboard_time": 1734231557,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28393,
+        "num": 266283,
+        "word": "高仿假酒能调兑出特定年份口感",
+        "onboard_time": 1734235578,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264452,
+        "num": 264452,
+        "word": "王楚钦vs徐海东",
+        "onboard_time": 1734231377,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257091,
+        "num": 257091,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190005,
+        "num": 256842,
+        "word": "马龙湖南卫视跨年官宣",
+        "onboard_time": 1734235878,
+        "rank": 17,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 218427,
+        "num": 255872,
+        "word": "斯诺克官方称强烈反对丁俊晖言论",
+        "onboard_time": 1734235818,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39871,
+        "num": 255530,
+        "word": "牙膏价格逐年上涨",
+        "onboard_time": 1734235338,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 355496,
+        "num": 254393,
+        "word": "家有儿女04年就在吃海底捞了",
+        "onboard_time": 1734227718,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262093,
+        "num": 253919,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253514,
+        "num": 253514,
+        "word": "逐玉开机官宣",
+        "onboard_time": 1734230298,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235324,
+        "num": 235324,
+        "word": "代号鸢",
+        "onboard_time": 1734227957,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122531,
+        "num": 213733,
+        "word": "Elk回应决赛语音",
+        "onboard_time": 1734235999,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202145,
+        "num": 202145,
+        "word": "碎片化睡眠3个月后身体的变化",
+        "onboard_time": 1734219674,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180728,
+        "num": 180728,
+        "word": "发现上早八的老师也很辛苦",
+        "onboard_time": 1734231498,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179291,
+        "num": 179291,
+        "word": "丁程鑫 你稍微破坏一下他发型好不好",
+        "onboard_time": 1734233178,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167953,
+        "num": 167953,
+        "word": "樊振东恳请球迷们理解尊重",
+        "onboard_time": 1734218413,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77693,
+        "num": 166941,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734235518,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216835,
+        "num": 166643,
+        "word": "刘丁硕vs樊振东",
+        "onboard_time": 1734236599,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166221,
+        "num": 166221,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155941,
+        "num": 155941,
+        "word": "极越员工听到倒闭第一反应是高兴",
+        "onboard_time": 1734233839,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143637,
+        "num": 143637,
+        "word": "朴灿烈欧阳娜娜合作曲上线",
+        "onboard_time": 1734220695,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142541,
+        "num": 142541,
+        "word": "赵晓卉想打电视剧里的车赶飞机",
+        "onboard_time": 1734234018,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140487,
+        "num": 140487,
+        "word": "女子逛店轻松顺走2399元羽绒服",
+        "onboard_time": 1734227718,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "黎深抵此心上",
+        "onboard_time": 1734234678,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135304,
+        "num": 135304,
+        "word": "知道了高铁买不到15元饭的原因",
+        "onboard_time": 1734233958,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123038,
+        "num": 123038,
+        "word": "杨仕泽一把搂住了祝绪丹",
+        "onboard_time": 1734228918,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63440,
+        "num": 118027,
+        "word": "研究发现轻断食会影响毛发生长",
+        "onboard_time": 1734235578,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113024,
+        "num": 113024,
+        "word": "周密说没骂周芯竹",
+        "onboard_time": 1734219014,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111621,
+        "num": 111621,
+        "word": "谢兴阳 凤凰传奇演唱会场外变场内",
+        "onboard_time": 1734229457,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108591,
+        "num": 108591,
+        "word": "最适合麦琳的工作找到了",
+        "onboard_time": 1734218954,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108429,
+        "num": 108429,
+        "word": "花5000元买3针九价HPV疫苗全是假的",
+        "onboard_time": 1734191479,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107697,
+        "num": 107697,
+        "word": "建议大家多做腹式呼吸",
+        "onboard_time": 1734224476,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107576,
+        "num": 107576,
+        "word": "清明上河图密码开播就下线15人",
+        "onboard_time": 1734234558,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106163,
+        "num": 106163,
+        "word": "光遇",
+        "onboard_time": 1734236719,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101392,
+        "num": 101392,
+        "word": "檀健次说巡演是在圆梦",
+        "onboard_time": 1734236839,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80088,
+        "num": 96208,
+        "word": "马龙21战奥恰洛夫21胜",
+        "onboard_time": 1734234619,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95850,
+        "num": 95850,
+        "word": "李在明称将不考虑弹劾韩德洙",
+        "onboard_time": 1734232578,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#努力把积极因素转化为发展实绩#"
+    }
+  }
+}
