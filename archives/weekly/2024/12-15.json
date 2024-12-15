@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734241193918,
+  "endTime": 1734244297759,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -57,6 +57,14 @@
       "onboard_time": 1734236238,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1016822,
+      "num": 1162691,
+      "word": "早知道我就裸考了",
+      "onboard_time": 1734240799,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 1004192,
@@ -131,12 +139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647072,
+      "num": 420540,
+      "word": "深圳一女游客疑因拍照不慎坠海身亡",
+      "onboard_time": 1734240799,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 613139,
       "num": 613139,
       "word": "女子花40万投资电影后群炸了",
       "onboard_time": 1734238398,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585680,
+      "num": 585680,
+      "word": "桃黑黑",
+      "onboard_time": 1734240678,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 571835,
@@ -177,6 +201,14 @@
       "onboard_time": 1734220276,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 539353,
+      "num": 539353,
+      "word": "老两口150万买2400克黄金被拒",
+      "onboard_time": 1734241098,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 534105,
@@ -251,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418353,
+      "num": 418353,
+      "word": "爸爸辅导孩子作业被气到心肌梗死",
+      "onboard_time": 1734243798,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415334,
       "num": 415334,
       "word": "年轻人开始反向驯化大数据杀熟",
@@ -291,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390293,
+      "num": 390293,
+      "word": "孟子义脱外套沙溢的反应",
+      "onboard_time": 1734243557,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376753,
       "num": 376753,
       "word": "张萌 我要团综",
@@ -312,14 +360,6 @@
       "word": "北大教授因女儿痛经研发新药",
       "onboard_time": 1734173840,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342246,
-      "num": 342246,
-      "word": "深圳一女游客疑因拍照不慎坠海身亡",
-      "onboard_time": 1734240799,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -411,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294529,
+      "num": 294529,
+      "word": "九重紫",
+      "onboard_time": 1734165379,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288967,
+      "num": 420827,
+      "word": "王楚钦林高远决胜局",
+      "onboard_time": 1734242959,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283831,
       "num": 345978,
       "word": "杭州一执勤女骑警神似贾静雯",
@@ -459,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262209,
+      "num": 262209,
+      "word": "许昕3比2徐瑛彬",
+      "onboard_time": 1734241880,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 252551,
+      "num": 252551,
+      "word": "丁禹兮团综收官哭了",
+      "onboard_time": 1734241819,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252368,
       "num": 252368,
       "word": "杨仕泽一把搂住了祝绪丹",
@@ -481,6 +553,14 @@
       "onboard_time": 1734191360,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234196,
+      "num": 234196,
+      "word": "孙颖莎成莎指导了",
+      "onboard_time": 1734242718,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 223479,
@@ -547,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200186,
-      "num": 191116,
-      "word": "早知道我就裸考了",
-      "onboard_time": 1734240799,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199619,
       "num": 199619,
       "word": "原来8小时工作制是包括午休的",
@@ -608,6 +680,14 @@
       "word": "求求丁禹兮他真的就会唱",
       "onboard_time": 1734221176,
       "rank": 14,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 191748,
+      "num": 191748,
+      "word": "王鹤棣全新专辑少年梦",
+      "onboard_time": 1734243798,
+      "rank": 25,
       "category": "音乐"
     },
     {
@@ -691,14 +771,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172662,
-      "num": 172662,
-      "word": "九重紫",
-      "onboard_time": 1734165379,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165401,
       "num": 165401,
       "word": "12306上线务工人员预约购票专区",
@@ -747,6 +819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159845,
+      "num": 211850,
+      "word": "只有英语过了四六级才能打的麻将",
+      "onboard_time": 1734241939,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "7种食物要焯水后再吃",
@@ -777,6 +857,14 @@
       "onboard_time": 1734238698,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156338,
+      "num": 156338,
+      "word": "保时捷中国CEO称两年后赢回中国",
+      "onboard_time": 1734241998,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 154392,
@@ -859,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141328,
+      "num": 141328,
+      "word": "李昀锐壁纸",
+      "onboard_time": 1734241759,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140678,
       "num": 140678,
       "word": "成都的炸土豆已经进化成这样了吗",
@@ -873,6 +969,14 @@
       "onboard_time": 1734226218,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139128,
+      "num": 124203,
+      "word": "白鹿资讯站",
+      "onboard_time": 1734242299,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 137835,
@@ -921,14 +1025,6 @@
       "onboard_time": 1734197055,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134770,
-      "num": 134770,
-      "word": "老两口150万买2400克黄金被拒",
-      "onboard_time": 1734241098,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131557,
@@ -1035,6 +1131,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "酒店经理厕所搂抱强吻猥亵女下属",
+      "onboard_time": 1734243499,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "53岁练瑜伽一年体态变化",
+      "onboard_time": 1734243379,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 120226,
       "num": 120226,
       "word": "祁天道事件暴露平台监管漏洞",
@@ -1081,6 +1193,22 @@
       "onboard_time": 1734231798,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112441,
+      "num": 112441,
+      "word": "全国劳动力人口平均年龄39.72岁",
+      "onboard_time": 1734241459,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112419,
+      "num": 113501,
+      "word": "湖南卫视跨年演唱会 抢到了",
+      "onboard_time": 1734241700,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 111952,
@@ -1137,6 +1265,14 @@
       "onboard_time": 1734234558,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107566,
+      "num": 113461,
+      "word": "以军连续对大马士革市郊发动空袭",
+      "onboard_time": 1734241279,
+      "rank": 46,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 107054,
@@ -1323,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77565,
+      "num": 128095,
+      "word": "林昀儒3比2徐海东",
+      "onboard_time": 1734242898,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75329,
       "num": 75329,
       "word": "网红婚纱男模阿冼被曝车祸去世",
@@ -1507,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48636,
+      "num": 157596,
+      "word": "太好了是林一王大将军后继有人了",
+      "onboard_time": 1734244158,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48565,
       "num": 101523,
       "word": "埃文凯尔没想到纪念馆建在万人坑上",
@@ -1611,14 +1763,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 38955,
-      "num": 260243,
-      "word": "桃黑黑",
-      "onboard_time": 1734240678,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 38536,
       "num": 38536,
       "word": "张宁赛后哭了",
@@ -1667,6 +1811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33810,
+      "num": 601708,
+      "word": "2024中国经济这些首次真提劲",
+      "onboard_time": 1734223938,
+      "rank": 2,
+      "category": "正能量,财经"
+    },
+    {
       "raw_hot": 32838,
       "num": 750012,
       "word": "天宫画展又双叒上新了",
@@ -1705,6 +1857,22 @@
       "onboard_time": 1734235578,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28569,
+      "num": 158525,
+      "word": "导师眼中的考研和保研生",
+      "onboard_time": 1734243618,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 27277,
+      "num": 425731,
+      "word": "司机凌晨遇代驾小哥主动捎10公里",
+      "onboard_time": 1734243798,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 26373,
@@ -1873,6 +2041,14 @@
       "onboard_time": 1734218714,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9467,
+      "num": 262264,
+      "word": "陈梦说非常开心回到赛场",
+      "onboard_time": 1734243978,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 8735,

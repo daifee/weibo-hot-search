@@ -1,0 +1,410 @@
+{
+  "runTime": 1734244297759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016822,
+        "num": 1162691,
+        "word": "早知道我就裸考了",
+        "onboard_time": 1734240799,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 694144,
+        "num": 694144,
+        "word": "樊振东0比3徐瑛彬",
+        "onboard_time": 1734235338,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33810,
+        "num": 601708,
+        "word": "2024中国经济这些首次真提劲",
+        "onboard_time": 1734223938,
+        "rank": 2,
+        "category": "正能量,财经"
+      },
+      {
+        "raw_hot": 725692,
+        "num": 595628,
+        "word": "冉莹颖11岁儿子身高136",
+        "onboard_time": 1734236238,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585680,
+        "num": 585680,
+        "word": "桃黑黑",
+        "onboard_time": 1734240678,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 539353,
+        "num": 539353,
+        "word": "老两口150万买2400克黄金被拒",
+        "onboard_time": 1734241098,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522557,
+        "num": 522557,
+        "word": "女子花40万投资电影后群炸了",
+        "onboard_time": 1734238398,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458797,
+        "num": 458797,
+        "word": "湖南卫视跨年阵容官宣",
+        "onboard_time": 1734233118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27277,
+        "num": 425731,
+        "word": "司机凌晨遇代驾小哥主动捎10公里",
+        "onboard_time": 1734243798,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 288967,
+        "num": 420827,
+        "word": "王楚钦林高远决胜局",
+        "onboard_time": 1734242959,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 647072,
+        "num": 420540,
+        "word": "深圳一女游客疑因拍照不慎坠海身亡",
+        "onboard_time": 1734240799,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418353,
+        "num": 418353,
+        "word": "爸爸辅导孩子作业被气到心肌梗死",
+        "onboard_time": 1734243798,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400350,
+        "num": 400350,
+        "word": "癌症恶化家属起诉药店退靶向药",
+        "onboard_time": 1734239418,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390293,
+        "num": 390293,
+        "word": "孟子义脱外套沙溢的反应",
+        "onboard_time": 1734243557,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320453,
+        "num": 320453,
+        "word": "大学生买包发现731部队调查残件",
+        "onboard_time": 1734185542,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 294529,
+        "num": 294529,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262496,
+        "num": 262496,
+        "word": "张凌赫田曦薇开机同框照",
+        "onboard_time": 1734238819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311769,
+        "num": 262363,
+        "word": "韩国紧急向中美日通报",
+        "onboard_time": 1734225738,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9467,
+        "num": 262264,
+        "word": "陈梦说非常开心回到赛场",
+        "onboard_time": 1734243978,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 262233,
+        "word": "檀健次说巡演是在圆梦",
+        "onboard_time": 1734236839,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262209,
+        "num": 262209,
+        "word": "许昕3比2徐瑛彬",
+        "onboard_time": 1734241880,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252551,
+        "num": 252551,
+        "word": "丁禹兮团综收官哭了",
+        "onboard_time": 1734241819,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244173,
+        "num": 244173,
+        "word": "原来林黛玉的手最让化妆师头疼",
+        "onboard_time": 1734235099,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234196,
+        "num": 234196,
+        "word": "孙颖莎成莎指导了",
+        "onboard_time": 1734242718,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159845,
+        "num": 211850,
+        "word": "只有英语过了四六级才能打的麻将",
+        "onboard_time": 1734241939,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191748,
+        "num": 191748,
+        "word": "王鹤棣全新专辑少年梦",
+        "onboard_time": 1734243798,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182307,
+        "num": 182307,
+        "word": "原来蛀牙的内部长这样",
+        "onboard_time": 1734240079,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162421,
+        "num": 162421,
+        "word": "现在就出发2",
+        "onboard_time": 1734240198,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28569,
+        "num": 158525,
+        "word": "导师眼中的考研和保研生",
+        "onboard_time": 1734243618,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48636,
+        "num": 157596,
+        "word": "太好了是林一王大将军后继有人了",
+        "onboard_time": 1734244158,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157503,
+        "num": 157503,
+        "word": "逐玉吻戏",
+        "onboard_time": 1734239238,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157249,
+        "num": 157249,
+        "word": "孟子义曾耐心回复黑粉",
+        "onboard_time": 1734233598,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156338,
+        "num": 156338,
+        "word": "保时捷中国CEO称两年后赢回中国",
+        "onboard_time": 1734241998,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734239238,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141328,
+        "num": 141328,
+        "word": "李昀锐壁纸",
+        "onboard_time": 1734241759,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140228,
+        "num": 140228,
+        "word": "原来8小时工作制是包括午休的",
+        "onboard_time": 1734235697,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77565,
+        "num": 128095,
+        "word": "林昀儒3比2徐海东",
+        "onboard_time": 1734242898,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124227,
+        "num": 124227,
+        "word": "刘丁硕vs樊振东",
+        "onboard_time": 1734236599,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139128,
+        "num": 124203,
+        "word": "白鹿资讯站",
+        "onboard_time": 1734242299,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124109,
+        "num": 124109,
+        "word": "王安宇强到导演以为他开了挂",
+        "onboard_time": 1734241098,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121666,
+        "num": 121666,
+        "word": "知道了高铁买不到15元饭的原因",
+        "onboard_time": 1734233958,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121622,
+        "num": 121622,
+        "word": "酒店经理厕所搂抱强吻猥亵女下属",
+        "onboard_time": 1734243499,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120606,
+        "num": 120606,
+        "word": "53岁练瑜伽一年体态变化",
+        "onboard_time": 1734243379,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 120542,
+        "num": 120542,
+        "word": "孙茜 一别14年碎玉轩又开工了",
+        "onboard_time": 1734240138,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113729,
+        "num": 113729,
+        "word": "张全蛋致歉",
+        "onboard_time": 1734233898,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112419,
+        "num": 113501,
+        "word": "湖南卫视跨年演唱会 抢到了",
+        "onboard_time": 1734241700,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107566,
+        "num": 113461,
+        "word": "以军连续对大马士革市郊发动空袭",
+        "onboard_time": 1734241279,
+        "rank": 46,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 113430,
+        "num": 113430,
+        "word": "女子称遭男按摩师触摸隐私部位",
+        "onboard_time": 1734230478,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112441,
+        "num": 112441,
+        "word": "全国劳动力人口平均年龄39.72岁",
+        "onboard_time": 1734241459,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110428,
+        "num": 110428,
+        "word": "受不了这个碰嘴唇了",
+        "onboard_time": 1734218954,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中国经济航船乘风破浪行稳致远#"
+    }
+  }
+}

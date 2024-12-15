@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734241193918,
+  "endTime": 1734244297759,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2979,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1016822,
+      "num": 1162691,
+      "word": "早知道我就裸考了",
+      "onboard_time": 1734240799,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1016540,
       "num": 481907,
       "word": "唐嫣罗晋带娃逛迪士尼",
@@ -5939,6 +5947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 647072,
+      "num": 420540,
+      "word": "深圳一女游客疑因拍照不慎坠海身亡",
+      "onboard_time": 1734240799,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 646574,
       "num": 426713,
       "word": "彩虹夫妇决定结扎",
@@ -6785,6 +6801,14 @@
       "onboard_time": 1734084318,
       "rank": 15,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 585680,
+      "num": 585680,
+      "word": "桃黑黑",
+      "onboard_time": 1734240678,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 584563,
@@ -7641,6 +7665,14 @@
       "onboard_time": 1733490199,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 539353,
+      "num": 539353,
+      "word": "老两口150万买2400克黄金被拒",
+      "onboard_time": 1734241098,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539110,
@@ -10355,6 +10387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418353,
+      "num": 418353,
+      "word": "爸爸辅导孩子作业被气到心肌梗死",
+      "onboard_time": 1734243798,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 418309,
       "num": 418309,
       "word": "莎头再合体",
@@ -11121,6 +11161,14 @@
       "onboard_time": 1733458880,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 390293,
+      "num": 390293,
+      "word": "孟子义脱外套沙溢的反应",
+      "onboard_time": 1734243557,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 390278,
@@ -12545,14 +12593,6 @@
       "onboard_time": 1733809938,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342246,
-      "num": 342246,
-      "word": "深圳一女游客疑因拍照不慎坠海身亡",
-      "onboard_time": 1734240799,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 341870,
@@ -14643,6 +14683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288967,
+      "num": 420827,
+      "word": "王楚钦林高远决胜局",
+      "onboard_time": 1734242959,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288889,
       "num": 359237,
       "word": "迪丽热巴五年前经历自我和解",
@@ -15851,6 +15899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 262209,
+      "num": 262209,
+      "word": "许昕3比2徐瑛彬",
+      "onboard_time": 1734241880,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 262180,
       "num": 262180,
       "word": "尖叫之夜直播",
@@ -16297,6 +16353,14 @@
       "onboard_time": 1733459421,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252551,
+      "num": 252551,
+      "word": "丁禹兮团综收官哭了",
+      "onboard_time": 1734241819,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 252442,
@@ -17553,6 +17617,14 @@
       "onboard_time": 1733021298,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234196,
+      "num": 234196,
+      "word": "孙颖莎成莎指导了",
+      "onboard_time": 1734242718,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 234153,
@@ -20947,14 +21019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200186,
-      "num": 191116,
-      "word": "早知道我就裸考了",
-      "onboard_time": 1734240799,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 200099,
       "num": 200099,
       "word": "登陆少年Challenge",
@@ -22465,6 +22529,14 @@
       "onboard_time": 1733030898,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191748,
+      "num": 191748,
+      "word": "王鹤棣全新专辑少年梦",
+      "onboard_time": 1734243798,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 191678,
@@ -27563,6 +27635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159845,
+      "num": 211850,
+      "word": "只有英语过了四六级才能打的麻将",
+      "onboard_time": 1734241939,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159837,
       "num": 159837,
       "word": "琼瑶林心如苏有朋周杰早期合照",
@@ -28273,6 +28353,14 @@
       "onboard_time": 1733108478,
       "rank": 24,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 156338,
+      "num": 156338,
+      "word": "保时捷中国CEO称两年后赢回中国",
+      "onboard_time": 1734241998,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 156336,
@@ -31139,6 +31227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141328,
+      "num": 141328,
+      "word": "李昀锐壁纸",
+      "onboard_time": 1734241759,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141321,
       "num": 141321,
       "word": "丁禹兮对镜自拍照",
@@ -31545,6 +31641,14 @@
       "onboard_time": 1733730619,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 139128,
+      "num": 124203,
+      "word": "白鹿资讯站",
+      "onboard_time": 1734242299,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 139099,
@@ -32337,14 +32441,6 @@
       "onboard_time": 1733899279,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134770,
-      "num": 134770,
-      "word": "老两口150万买2400克黄金被拒",
-      "onboard_time": 1734241098,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134746,
@@ -34339,6 +34435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "酒店经理厕所搂抱强吻猥亵女下属",
+      "onboard_time": 1734243499,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121607,
       "num": 121607,
       "word": "2024尖叫之夜第三波阵容",
@@ -34505,6 +34609,14 @@
       "onboard_time": 1733014336,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 120606,
+      "num": 120606,
+      "word": "53岁练瑜伽一年体态变化",
+      "onboard_time": 1734243379,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 120577,
@@ -35611,12 +35723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112441,
+      "num": 112441,
+      "word": "全国劳动力人口平均年龄39.72岁",
+      "onboard_time": 1734241459,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112422,
       "num": 386895,
       "word": "T1获TGA最佳电竞战队",
       "onboard_time": 1734054619,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112419,
+      "num": 113501,
+      "word": "湖南卫视跨年演唱会 抢到了",
+      "onboard_time": 1734241700,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 112397,
@@ -36249,6 +36377,14 @@
       "onboard_time": 1734234558,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107566,
+      "num": 113461,
+      "word": "以军连续对大马士革市郊发动空袭",
+      "onboard_time": 1734241279,
+      "rank": 46,
+      "category": "国际时政,军事"
     },
     {
       "raw_hot": 107520,
@@ -39921,6 +40057,14 @@
       "onboard_time": 1733021118,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77565,
+      "num": 128095,
+      "word": "林昀儒3比2徐海东",
+      "onboard_time": 1734242898,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 77522,
@@ -43867,6 +44011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48636,
+      "num": 157596,
+      "word": "太好了是林一王大将军后继有人了",
+      "onboard_time": 1734244158,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48565,
       "num": 101523,
       "word": "埃文凯尔没想到纪念馆建在万人坑上",
@@ -45683,14 +45835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38955,
-      "num": 260243,
-      "word": "桃黑黑",
-      "onboard_time": 1734240678,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 38931,
       "num": 42995,
       "word": "吴柳芳账号持续涨粉中",
@@ -46697,6 +46841,14 @@
       "onboard_time": 1733836162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33810,
+      "num": 601708,
+      "word": "2024中国经济这些首次真提劲",
+      "onboard_time": 1734223938,
+      "rank": 2,
+      "category": "正能量,财经"
     },
     {
       "raw_hot": 33797,
@@ -47907,6 +48059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28569,
+      "num": 158525,
+      "word": "导师眼中的考研和保研生",
+      "onboard_time": 1734243618,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28543,
       "num": 252210,
       "word": "ET9获中国首个线控转向量产许可",
@@ -48089,6 +48249,14 @@
       "onboard_time": 1733250133,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27277,
+      "num": 425731,
+      "word": "司机凌晨遇代驾小哥主动捎10公里",
+      "onboard_time": 1734243798,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 27260,
@@ -51489,6 +51657,14 @@
       "onboard_time": 1733684472,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9467,
+      "num": 262264,
+      "word": "陈梦说非常开心回到赛场",
+      "onboard_time": 1734243978,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 9408,
