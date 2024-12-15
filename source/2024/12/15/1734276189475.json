@@ -1,0 +1,410 @@
+{
+  "runTime": 1734276189475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077749,
+        "num": 1172439,
+        "word": "宁波香飘飘食品有限公司破产",
+        "onboard_time": 1734272060,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1047457,
+        "num": 1047457,
+        "word": "7岁异瞳女孩在学校受到同学喜爱",
+        "onboard_time": 1734269423,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22451,
+        "num": 1017942,
+        "word": "看神十九航天员在太空做实验",
+        "onboard_time": 1734249558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 996804,
+        "num": 996804,
+        "word": "周密破防了",
+        "onboard_time": 1734274100,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803532,
+        "num": 803532,
+        "word": "张家界长满了韩国人",
+        "onboard_time": 1734274401,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 556597,
+        "num": 556597,
+        "word": "李昀锐站姐去年发孟子义照片",
+        "onboard_time": 1734266360,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463550,
+        "num": 463550,
+        "word": "年近三十的我对友谊祛魅了",
+        "onboard_time": 1734271700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441381,
+        "num": 441381,
+        "word": "猎罪图鉴2 平等冒犯所有人",
+        "onboard_time": 1734274520,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313677,
+        "num": 313677,
+        "word": "合肥通报代孕事件",
+        "onboard_time": 1734265219,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 13549,
+        "num": 303277,
+        "word": "揭秘先享后付背后的层层暴利",
+        "onboard_time": 1734276080,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 340908,
+        "num": 302952,
+        "word": "冉莹颖给身高136儿子打生长激素",
+        "onboard_time": 1734273380,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301969,
+        "num": 301969,
+        "word": "猎罪2女主播榜一哥奔现",
+        "onboard_time": 1734268580,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274558,
+        "num": 274558,
+        "word": "大量加沙儿童被迫无麻药截肢",
+        "onboard_time": 1734273080,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252923,
+        "num": 252923,
+        "word": "冷冷冷冷冷你冷冷冷冷冷",
+        "onboard_time": 1734264198,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13082,
+        "num": 246707,
+        "word": "中国女生霸气回击美国教授歧视演讲",
+        "onboard_time": 1734275900,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26264,
+        "num": 243295,
+        "word": "机器人演员勇闯娱乐圈",
+        "onboard_time": 1734274100,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242536,
+        "num": 242536,
+        "word": "李昀锐 怎么还叫我世子呢",
+        "onboard_time": 1734266059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237637,
+        "num": 237637,
+        "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+        "onboard_time": 1734258979,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65160,
+        "num": 229325,
+        "word": "郑思维发博说雅思永不落幕",
+        "onboard_time": 1734275300,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61272,
+        "num": 227521,
+        "word": "燃气换新表后突然欠费23852元",
+        "onboard_time": 1734275118,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227206,
+        "num": 227206,
+        "word": "邵子恒 这一刻我等了五年",
+        "onboard_time": 1734270319,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211516,
+        "num": 211516,
+        "word": "徐冬冬尹子维分居生活",
+        "onboard_time": 1734257000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206322,
+        "num": 206322,
+        "word": "林墨 怎么能把现代装焊在脸上",
+        "onboard_time": 1734273801,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201253,
+        "num": 201253,
+        "word": "樊振东看赵子豪打球笑了",
+        "onboard_time": 1734273200,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197464,
+        "num": 197464,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734275419,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190255,
+        "num": 190255,
+        "word": "为什么周末时间过得那么快",
+        "onboard_time": 1734271400,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186464,
+        "num": 186464,
+        "word": "窦明小产",
+        "onboard_time": 1734270140,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178100,
+        "num": 178100,
+        "word": "原来这叫社交圣母症",
+        "onboard_time": 1734274460,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105152,
+        "num": 174846,
+        "word": "红牛杯",
+        "onboard_time": 1734276020,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33909,
+        "num": 174357,
+        "word": "电影误判北京首映礼",
+        "onboard_time": 1734276141,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140959,
+        "num": 173943,
+        "word": "iG官宣2024德杯大名单",
+        "onboard_time": 1734274821,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173937,
+        "num": 173937,
+        "word": "虞书欣丁禹兮forhastik双人舞",
+        "onboard_time": 1734262879,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171510,
+        "num": 171510,
+        "word": "溜溜梅 时代少年团",
+        "onboard_time": 1734270860,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166146,
+        "num": 166146,
+        "word": "济南大学3.5元泡面老板发声",
+        "onboard_time": 1734254120,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161358,
+        "num": 161358,
+        "word": "林诗栋16比18黄友政",
+        "onboard_time": 1734272721,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "王楚钦身体原因缺席今晚比赛",
+        "onboard_time": 1734264320,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150283,
+        "num": 150283,
+        "word": "香飘飘奶茶辟谣",
+        "onboard_time": 1734274999,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142894,
+        "num": 142894,
+        "word": "智利车厘子断崖式降价",
+        "onboard_time": 1734255440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142640,
+        "num": 142640,
+        "word": "猎罪图鉴2阮芳芳天生坏种",
+        "onboard_time": 1734274640,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137904,
+        "num": 137904,
+        "word": "宋墨窦昭 恋爱脑遇上事业脑",
+        "onboard_time": 1734274219,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134458,
+        "num": 134458,
+        "word": "丁禹兮无声哭戏",
+        "onboard_time": 1734275840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130224,
+        "num": 130224,
+        "word": "小小的我",
+        "onboard_time": 1734274040,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127762,
+        "num": 127762,
+        "word": "CBA",
+        "onboard_time": 1734272660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127048,
+        "num": 127048,
+        "word": "张柏芝把博物馆展品戴在身上",
+        "onboard_time": 1734267500,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120742,
+        "num": 120742,
+        "word": "第五人格",
+        "onboard_time": 1734258079,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116456,
+        "num": 116456,
+        "word": "溜溜梅回应争议",
+        "onboard_time": 1734271820,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116067,
+        "num": 116067,
+        "word": "鹿晗玫瑰印花卫衣",
+        "onboard_time": 1734254898,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114188,
+        "num": 114188,
+        "word": "孔雪儿领衔主演逐玉",
+        "onboard_time": 1734265278,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113149,
+        "num": 113149,
+        "word": "鄂州一桥发生多车事故有车坠桥起火",
+        "onboard_time": 1734268279,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111907,
+        "num": 111907,
+        "word": "田曦薇新剧演杀猪少女",
+        "onboard_time": 1734276080,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入推进党的自我革命#"
+    }
+  }
+}
