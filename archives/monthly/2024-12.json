@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734288227844,
+  "endTime": 1734290290427,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -51915,6 +51915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18658,
+      "num": 20207,
+      "word": "男子低价购课遭遇套娃收费",
+      "onboard_time": 1734288551,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18644,
       "num": 86209,
       "word": "向鱼评论席初体验",
@@ -51969,6 +51977,14 @@
       "onboard_time": 1734258198,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 18288,
+      "num": 57189,
+      "word": "起猛了在尔滨看见福建舰",
+      "onboard_time": 1734287232,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18271,
@@ -52457,6 +52473,14 @@
       "onboard_time": 1733898799,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16225,
+      "num": 20196,
+      "word": "2024年度微盘点",
+      "onboard_time": 1734289692,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16210,
@@ -52993,14 +53017,6 @@
       "onboard_time": 1733761817,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14199,
-      "num": 57189,
-      "word": "起猛了在尔滨看见福建舰",
-      "onboard_time": 1734287232,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14127,
@@ -53619,6 +53635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10571,
+      "num": 39196,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1734288431,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 10410,
       "num": 96877,
       "word": "世界各地跑者齐聚上马",
@@ -54163,6 +54187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 6744,
+      "num": 24913,
+      "word": "无畏喊话帆帆",
+      "onboard_time": 1734290111,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 6739,
       "num": 23319,
       "word": "吴芊盈探班WB路演",
@@ -54265,6 +54297,14 @@
       "onboard_time": 1733002391,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6302,
+      "num": 20203,
+      "word": "凌云晋级挑杯淘汰赛",
+      "onboard_time": 1734289392,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 6210,
