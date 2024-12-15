@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734272423026,
+  "endTime": 1734273525634,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -65,6 +65,14 @@
       "onboard_time": 1734185542,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1122445,
+      "num": 1122445,
+      "word": "宁波香飘飘食品有限公司破产",
+      "onboard_time": 1734272060,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1113693,
@@ -619,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 412300,
-      "num": 308928,
-      "word": "宁波香飘飘食品有限公司破产",
-      "onboard_time": 1734272060,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 408402,
       "num": 408402,
       "word": "原来林黛玉的手最让化妆师头疼",
@@ -763,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 321283,
+      "num": 321283,
+      "word": "邵子恒 这一刻我等了五年",
+      "onboard_time": 1734270319,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320979,
       "num": 320979,
       "word": "左奇函 王源",
@@ -777,14 +785,6 @@
       "onboard_time": 1734188480,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315029,
-      "num": 315029,
-      "word": "邵子恒 这一刻我等了五年",
-      "onboard_time": 1734270319,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 313483,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293500,
+      "num": 293500,
+      "word": "窦明小产",
+      "onboard_time": 1734270140,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283831,
       "num": 345978,
       "word": "杭州一执勤女骑警神似贾静雯",
@@ -875,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279719,
+      "num": 309021,
+      "word": "年近三十的我对友谊祛魅了",
+      "onboard_time": 1734271700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279117,
       "num": 279117,
       "word": "张元英 sense高定首封",
@@ -883,8 +899,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 270119,
-      "num": 270119,
+      "raw_hot": 278450,
+      "num": 278450,
       "word": "张柏芝把博物馆展品戴在身上",
       "onboard_time": 1734267500,
       "rank": 47,
@@ -937,14 +953,6 @@
       "onboard_time": 1734241880,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260438,
-      "num": 260438,
-      "word": "窦明小产",
-      "onboard_time": 1734270140,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 252551,
@@ -1179,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203275,
+      "num": 156050,
+      "word": "林诗栋16比18黄友政",
+      "onboard_time": 1734272721,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202238,
       "num": 202238,
       "word": "逐玉吻戏",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1734270440,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194178,
+      "num": 194178,
+      "word": "溜溜梅 时代少年团",
+      "onboard_time": 1734270860,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 194158,
@@ -1403,6 +1427,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188549,
+      "num": 188549,
+      "word": "CBA",
+      "onboard_time": 1734272660,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 188171,
+      "num": 188171,
+      "word": "马哲 我们是冠军",
+      "onboard_time": 1734273200,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187300,
+      "num": 153689,
+      "word": "樊振东看赵子豪打球笑了",
+      "onboard_time": 1734273200,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187043,
       "num": 187043,
       "word": "美军特种部队进入叙利亚原俄军基地",
@@ -1515,6 +1563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176348,
+      "num": 176348,
+      "word": "eStar战胜KSG",
+      "onboard_time": 1734272599,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175824,
       "num": 316130,
       "word": "体检漏诊重疾致使错过最佳治疗时机",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1734257658,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167750,
-      "num": 167750,
-      "word": "溜溜梅 时代少年团",
-      "onboard_time": 1734270860,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 167743,
@@ -1841,14 +1889,6 @@
       "onboard_time": 1734187101,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153035,
-      "num": 309021,
-      "word": "年近三十的我对友谊祛魅了",
-      "onboard_time": 1734271700,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152857,
@@ -2243,12 +2283,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 126559,
+      "num": 261266,
+      "word": "为什么周末时间过得那么快",
+      "onboard_time": 1734271400,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126225,
       "num": 126225,
       "word": "王铮亮女儿首次公开登台表演",
       "onboard_time": 1734220276,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 125815,
+      "num": 260551,
+      "word": "溜溜梅回应争议",
+      "onboard_time": 1734271820,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 125551,
@@ -2427,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113806,
+      "num": 113806,
+      "word": "KSG对战eStar",
+      "onboard_time": 1734272480,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113749,
       "num": 113749,
       "word": "阿来行走停止我也会枯竭",
@@ -2587,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107699,
+      "num": 107699,
+      "word": "杨仕泽这下真的该说再见了",
+      "onboard_time": 1734273140,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107649,
       "num": 169986,
       "word": "九重紫电子咖啡因",
@@ -2619,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106237,
+      "num": 106237,
+      "word": "大量加沙儿童被迫无麻药截肢",
+      "onboard_time": 1734273080,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106178,
       "num": 106178,
       "word": "杜城接打火机这一下",
@@ -2633,6 +2713,14 @@
       "onboard_time": 1734247819,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105743,
+      "num": 105743,
+      "word": "冉莹颖给身高136儿子打生长激素",
+      "onboard_time": 1734273380,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105726,
@@ -3011,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68466,
-      "num": 261266,
-      "word": "为什么周末时间过得那么快",
-      "onboard_time": 1734271400,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67941,
       "num": 260737,
       "word": "香港游客河源徒步发现特产恐龙蛋",
@@ -3217,14 +3297,6 @@
       "onboard_time": 1734253099,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48202,
-      "num": 260551,
-      "word": "溜溜梅回应争议",
-      "onboard_time": 1734271820,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 47606,
@@ -3813,6 +3885,9 @@
     },
     {
       "word": "#深入推进党的自我革命#"
+    },
+    {
+      "word": "#一国两制方针是行得通办得到得人心的#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734273525634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1653904,
+        "num": 1653904,
+        "word": "7岁异瞳女孩在学校受到同学喜爱",
+        "onboard_time": 1734269423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1122445,
+        "num": 1122445,
+        "word": "宁波香飘飘食品有限公司破产",
+        "onboard_time": 1734272060,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25630,
+        "num": 840676,
+        "word": "看神十九航天员在太空做实验",
+        "onboard_time": 1734249558,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833457,
+        "num": 833457,
+        "word": "李昀锐站姐去年发孟子义照片",
+        "onboard_time": 1734266360,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551254,
+        "num": 551254,
+        "word": "猎罪2女主播榜一哥奔现",
+        "onboard_time": 1734268580,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1005493,
+        "num": 537226,
+        "word": "厦大涉事学生体内钢钉系5年前植入",
+        "onboard_time": 1734264320,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 444038,
+        "num": 444038,
+        "word": "合肥通报代孕事件",
+        "onboard_time": 1734265219,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 321283,
+        "num": 321283,
+        "word": "邵子恒 这一刻我等了五年",
+        "onboard_time": 1734270319,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441544,
+        "num": 319618,
+        "word": "李昀锐 怎么还叫我世子呢",
+        "onboard_time": 1734266059,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279719,
+        "num": 308011,
+        "word": "年近三十的我对友谊祛魅了",
+        "onboard_time": 1734271700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305363,
+        "num": 305363,
+        "word": "丈夫发现大女儿非亲生妻子补偿5万元",
+        "onboard_time": 1734258979,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301446,
+        "num": 301446,
+        "word": "林诗栋vs黄友政",
+        "onboard_time": 1734270379,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293500,
+        "num": 293500,
+        "word": "窦明小产",
+        "onboard_time": 1734270140,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278450,
+        "num": 278450,
+        "word": "张柏芝把博物馆展品戴在身上",
+        "onboard_time": 1734267500,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264511,
+        "num": 264511,
+        "word": "虞书欣丁禹兮forhastik双人舞",
+        "onboard_time": 1734262879,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263339,
+        "num": 263339,
+        "word": "智利车厘子断崖式降价",
+        "onboard_time": 1734255440,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256304,
+        "num": 256304,
+        "word": "济南大学3.5元泡面老板发声",
+        "onboard_time": 1734254120,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246365,
+        "num": 246365,
+        "word": "王楚钦身体原因缺席今晚比赛",
+        "onboard_time": 1734264320,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204624,
+        "num": 204624,
+        "word": "石宇奇总决赛夺冠",
+        "onboard_time": 1734268820,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198533,
+        "num": 198533,
+        "word": "孔雪儿领衔主演逐玉",
+        "onboard_time": 1734265278,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295568,
+        "num": 197024,
+        "word": "徐冬冬尹子维分居生活",
+        "onboard_time": 1734257000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194178,
+        "num": 194178,
+        "word": "溜溜梅 时代少年团",
+        "onboard_time": 1734270860,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188549,
+        "num": 188549,
+        "word": "CBA",
+        "onboard_time": 1734272660,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188171,
+        "num": 188171,
+        "word": "马哲 我们是冠军",
+        "onboard_time": 1734273200,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183351,
+        "num": 183351,
+        "word": "向佐称因为摸鼻梁手势出圈很失落",
+        "onboard_time": 1734265939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176348,
+        "num": 176348,
+        "word": "eStar战胜KSG",
+        "onboard_time": 1734272599,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170449,
+        "num": 170449,
+        "word": "猎罪图鉴2里有闺蜜脑",
+        "onboard_time": 1734271338,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169885,
+        "num": 169885,
+        "word": "冷冷冷冷冷你冷冷冷冷冷",
+        "onboard_time": 1734264198,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164572,
+        "num": 164572,
+        "word": "鄂州一桥发生多车事故有车坠桥起火",
+        "onboard_time": 1734268279,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 163548,
+        "num": 163548,
+        "word": "孟子义眼神戏",
+        "onboard_time": 1734271820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203275,
+        "num": 156050,
+        "word": "林诗栋16比18黄友政",
+        "onboard_time": 1734272721,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187300,
+        "num": 153689,
+        "word": "樊振东看赵子豪打球笑了",
+        "onboard_time": 1734273200,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146410,
+        "num": 146410,
+        "word": "逐玉",
+        "onboard_time": 1734262399,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141920,
+        "num": 141920,
+        "word": "CN赛区夺得CFS总冠军",
+        "onboard_time": 1734272359,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141475,
+        "num": 141475,
+        "word": "张凌赫谢征你好",
+        "onboard_time": 1734270319,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140438,
+        "num": 140438,
+        "word": "第五人格",
+        "onboard_time": 1734258079,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133614,
+        "num": 133614,
+        "word": "鹿晗玫瑰印花卫衣",
+        "onboard_time": 1734254898,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125815,
+        "num": 129526,
+        "word": "溜溜梅回应争议",
+        "onboard_time": 1734271820,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129026,
+        "num": 129026,
+        "word": "我是刑警",
+        "onboard_time": 1734265699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "为什么周末时间过得那么快",
+        "onboard_time": 1734271400,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123525,
+        "num": 123525,
+        "word": "丁禹兮这一次就不说再见了",
+        "onboard_time": 1734258139,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122940,
+        "num": 122940,
+        "word": "九重紫",
+        "onboard_time": 1734241218,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116229,
+        "num": 116229,
+        "word": "逐玉出妆",
+        "onboard_time": 1734268701,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115982,
+        "num": 115982,
+        "word": "警方立案调查厦大学生肢体冲突",
+        "onboard_time": 1734270440,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113806,
+        "num": 113806,
+        "word": "KSG对战eStar",
+        "onboard_time": 1734272480,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "曾黎飞机上做了个中药美甲",
+        "onboard_time": 1734250458,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107699,
+        "num": 107699,
+        "word": "杨仕泽这下真的该说再见了",
+        "onboard_time": 1734273140,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106237,
+        "num": 106237,
+        "word": "大量加沙儿童被迫无麻药截肢",
+        "onboard_time": 1734273080,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105743,
+        "num": 105743,
+        "word": "冉莹颖给身高136儿子打生长激素",
+        "onboard_time": 1734273380,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99768,
+        "num": 99768,
+        "word": "王源回应内娱甜豆祖师爷称号",
+        "onboard_time": 1734269179,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一国两制方针是行得通办得到得人心的#"
+    }
+  }
+}
