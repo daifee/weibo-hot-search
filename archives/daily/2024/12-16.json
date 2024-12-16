@@ -1,7 +1,15 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734318604486,
+  "endTime": 1734319576677,
   "band_list": [
+    {
+      "raw_hot": 1233186,
+      "num": 1233186,
+      "word": "董明珠爆小米空调专利侵权赔了50万",
+      "onboard_time": 1734315617,
+      "rank": 1,
+      "category": "财经"
+    },
     {
       "raw_hot": 1186737,
       "num": 1186737,
@@ -27,12 +35,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 982863,
-      "num": 982863,
-      "word": "董明珠爆小米空调专利侵权赔了50万",
-      "onboard_time": 1734315617,
-      "rank": 1,
-      "category": "财经"
+      "raw_hot": 895726,
+      "num": 325807,
+      "word": "东京都将上4休3以扭转低出生率",
+      "onboard_time": 1734317957,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 760601,
@@ -83,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 559590,
+      "num": 559590,
+      "word": "董明珠再回应与雷军赌约",
+      "onboard_time": 1734315617,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 538969,
       "num": 538969,
       "word": "宋墨 嫋嫋你真的没有骗我",
@@ -100,31 +116,23 @@
     },
     {
       "raw_hot": 518122,
-      "num": 200937,
+      "num": 262869,
       "word": "刘亦菲和陈金飞酒店聚餐",
       "onboard_time": 1734314116,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 482893,
-      "num": 482893,
-      "word": "董明珠再回应与雷军赌约",
-      "onboard_time": 1734315617,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 420062,
-      "num": 412026,
+      "raw_hot": 467099,
+      "num": 467099,
       "word": "居然是昭昭主动的",
       "onboard_time": 1734315917,
       "rank": 8,
       "category": "剧集"
     },
     {
-      "raw_hot": 415179,
-      "num": 415179,
+      "raw_hot": 429504,
+      "num": 429504,
       "word": "月鳞绮纪官宣",
       "onboard_time": 1734316698,
       "rank": 7,
@@ -195,6 +203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 333620,
+      "num": 323813,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 325476,
       "num": 325476,
       "word": "本周狗屎运最旺的星座",
@@ -219,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321107,
+      "num": 390017,
+      "word": "洗火车见过吗",
+      "onboard_time": 1734317658,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319388,
       "num": 319388,
       "word": "男子曝面试模特被男面试官猥亵",
       "onboard_time": 1734294850,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293544,
-      "num": 293544,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1734305776,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 293010,
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284972,
+      "num": 284972,
+      "word": "浙江卫视跨年首波阵容官宣",
+      "onboard_time": 1734315376,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281446,
       "num": 281446,
       "word": "白桃星座",
@@ -259,20 +283,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279638,
-      "num": 279638,
-      "word": "浙江卫视跨年首波阵容官宣",
-      "onboard_time": 1734315376,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269317,
       "num": 269317,
       "word": "向佐称因为摸鼻梁手势出圈很失落",
       "onboard_time": 1734265939,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262543,
+      "num": 262543,
+      "word": "男子坐轮椅在高速疾驰",
+      "onboard_time": 1734313156,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259951,
@@ -289,6 +313,14 @@
       "onboard_time": 1734292991,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230112,
+      "num": 230112,
+      "word": "东京都将启动上四休三工作制",
+      "onboard_time": 1734316938,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 223883,
@@ -339,22 +371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207682,
-      "num": 207682,
-      "word": "男子坐轮椅在高速疾驰",
-      "onboard_time": 1734313156,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204075,
-      "num": 390017,
-      "word": "洗火车见过吗",
-      "onboard_time": 1734317658,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203234,
       "num": 147048,
       "word": "因为没有给侄子买手表她发怒了",
@@ -371,20 +387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197236,
+      "num": 197236,
+      "word": "院人集体确诊白磷型团队",
+      "onboard_time": 1734318556,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193868,
       "num": 193868,
       "word": "鞠婧祎曾舜晞陈都灵田嘉瑞不分先后",
       "onboard_time": 1734318437,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193577,
-      "num": 150447,
-      "word": "东京都将上4休3以扭转低出生率",
-      "onboard_time": 1734317957,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 190550,
@@ -395,20 +411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189416,
+      "num": 189416,
+      "word": "记者卧底非法屠宰场内部极度脏乱",
+      "onboard_time": 1734316156,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 181375,
       "num": 373814,
       "word": "2025月历壁纸",
       "onboard_time": 1734314898,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177876,
-      "num": 177876,
-      "word": "记者卧底非法屠宰场内部极度脏乱",
-      "onboard_time": 1734316156,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 173674,
@@ -419,20 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171842,
-      "num": 171842,
-      "word": "东京都将启动上四休三工作制",
-      "onboard_time": 1734316938,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 168902,
-      "num": 168902,
+      "num": 192901,
       "word": "以色列将扩建戈兰高地犹太人定居点",
       "onboard_time": 1734316156,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166510,
+      "num": 225052,
+      "word": "乒超",
+      "onboard_time": 1734319097,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 163346,
@@ -499,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "男子称工作18天离职倒贴38元",
+      "onboard_time": 1734315977,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150550,
       "num": 347526,
       "word": "解放军英姿激励澳门青年25年",
       "onboard_time": 1734311298,
       "rank": 7,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 148599,
+      "num": 262950,
+      "word": "小米否认侵权格力",
+      "onboard_time": 1734319277,
+      "rank": 19,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 142285,
@@ -579,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129609,
+      "num": 129609,
+      "word": "11月份国民经济延续回升态势",
+      "onboard_time": 1734319458,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128785,
       "num": 128785,
       "word": "这一年他们的勇敢给了我们力量",
       "onboard_time": 1734315079,
       "rank": 35,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 128109,
+      "num": 265838,
+      "word": "刘宇进组月鳞绮纪",
+      "onboard_time": 1734319039,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 127943,
@@ -611,12 +659,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122875,
-      "num": 122875,
-      "word": "院人集体确诊白磷型团队",
-      "onboard_time": 1734318556,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 119262,
+      "num": 119262,
+      "word": "明白为什么能坚持早起去图书馆了",
+      "onboard_time": 1734317717,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 116810,
@@ -635,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112778,
-      "num": 112778,
-      "word": "明白为什么能坚持早起去图书馆了",
-      "onboard_time": 1734317717,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 115505,
+      "num": 115505,
+      "word": "成都龙泉驿旧水塔拆除事故致1死",
+      "onboard_time": 1734319157,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 112621,
@@ -649,6 +697,14 @@
       "onboard_time": 1734274640,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108409,
+      "num": 108409,
+      "word": "覃海洋50米蛙泳逆转夺冠",
+      "onboard_time": 1734317776,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105612,
@@ -664,6 +720,14 @@
       "word": "郭敬明收到时代姐妹花视频电话",
       "onboard_time": 1734307098,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105012,
+      "num": 105012,
+      "word": "柳智敏winter手机壳",
+      "onboard_time": 1734306137,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -745,14 +809,6 @@
       "onboard_time": 1734273200,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92512,
-      "num": 92512,
-      "word": "男子称工作18天离职倒贴38元",
-      "onboard_time": 1734315977,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91867,
@@ -873,6 +929,14 @@
       "onboard_time": 1734254898,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 77631,
+      "num": 316039,
+      "word": "频繁头痛治不好该怎么办",
+      "onboard_time": 1734318016,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76537,
@@ -1035,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45354,
-      "num": 271018,
-      "word": "频繁头痛治不好该怎么办",
-      "onboard_time": 1734318016,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 41125,
       "num": 114489,
       "word": "个人养老金开户缴存礼包最高超千元",
@@ -1147,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25897,
+      "num": 95582,
+      "word": "阮经天的少年感",
+      "onboard_time": 1734319517,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23286,
       "num": 28768,
       "word": "浙江餐饮店老板因为懒自制炒饭机",
@@ -1211,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17350,
+      "num": 192908,
+      "word": "值得聊一聊的十本书",
+      "onboard_time": 1734318752,
+      "rank": 28,
+      "category": "读书作家,其它"
+    },
+    {
       "raw_hot": 16225,
       "num": 20196,
       "word": "2024年度微盘点",
@@ -1272,6 +1344,14 @@
       "word": "澳门第一面五星红旗在这里升起",
       "onboard_time": 1734292930,
       "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 11331,
+      "num": 603059,
+      "word": "一首歌唱出澳门美好未来",
+      "onboard_time": 1734271101,
+      "rank": 2,
       "category": "正能量"
     },
     {

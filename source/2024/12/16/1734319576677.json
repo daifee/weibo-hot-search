@@ -1,0 +1,410 @@
+{
+  "runTime": 1734319576677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1233186,
+        "num": 1233186,
+        "word": "董明珠爆小米空调专利侵权赔了50万",
+        "onboard_time": 1734315617,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 915675,
+        "num": 915675,
+        "word": "极越CEO发长文道歉",
+        "onboard_time": 1734313578,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 11331,
+        "num": 603059,
+        "word": "一首歌唱出澳门美好未来",
+        "onboard_time": 1734271101,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 596833,
+        "num": 596833,
+        "word": "杨幂郭采洁郭碧婷谢依霖同框",
+        "onboard_time": 1734307759,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 559590,
+        "num": 559590,
+        "word": "董明珠再回应与雷军赌约",
+        "onboard_time": 1734315617,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 482062,
+        "num": 482062,
+        "word": "宋墨 嫋嫋你真的没有骗我",
+        "onboard_time": 1734305836,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476215,
+        "num": 476215,
+        "word": "央视曝光先享后付套路多",
+        "onboard_time": 1734278059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467099,
+        "num": 467099,
+        "word": "居然是昭昭主动的",
+        "onboard_time": 1734315917,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429504,
+        "num": 429504,
+        "word": "月鳞绮纪官宣",
+        "onboard_time": 1734316698,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328473,
+        "num": 328473,
+        "word": "冷冷冷冷冷你冷冷冷冷冷",
+        "onboard_time": 1734264198,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 895726,
+        "num": 325807,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 333620,
+        "num": 323813,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1734305776,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12271,
+        "num": 321516,
+        "word": "看神十九航天员在太空做实验",
+        "onboard_time": 1734249558,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321107,
+        "num": 321107,
+        "word": "洗火车见过吗",
+        "onboard_time": 1734317658,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77631,
+        "num": 316039,
+        "word": "频繁头痛治不好该怎么办",
+        "onboard_time": 1734318016,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312904,
+        "num": 312904,
+        "word": "韩国执政党党首辞职",
+        "onboard_time": 1734313518,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284972,
+        "num": 284972,
+        "word": "浙江卫视跨年首波阵容官宣",
+        "onboard_time": 1734315376,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284658,
+        "num": 284658,
+        "word": "恋与深空",
+        "onboard_time": 1734313458,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128109,
+        "num": 265838,
+        "word": "刘宇进组月鳞绮纪",
+        "onboard_time": 1734319039,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 262950,
+        "word": "小米否认侵权格力",
+        "onboard_time": 1734319277,
+        "rank": 19,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 458746,
+        "num": 262869,
+        "word": "刘亦菲和陈金飞酒店聚餐",
+        "onboard_time": 1734314116,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262543,
+        "num": 262543,
+        "word": "男子坐轮椅在高速疾驰",
+        "onboard_time": 1734313156,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230112,
+        "num": 230112,
+        "word": "东京都将启动上四休三工作制",
+        "onboard_time": 1734316938,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166510,
+        "num": 225052,
+        "word": "乒超",
+        "onboard_time": 1734319097,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224694,
+        "num": 224694,
+        "word": "李昀锐孟子义 这集真的没看过",
+        "onboard_time": 1734312798,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 201254,
+        "word": "极越CEO称营销占用了太多精力",
+        "onboard_time": 1734317057,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197236,
+        "num": 197236,
+        "word": "院人集体确诊白磷型团队",
+        "onboard_time": 1734318556,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194770,
+        "num": 194770,
+        "word": "网上下载公开信息发给间谍换钱",
+        "onboard_time": 1734311298,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17350,
+        "num": 192908,
+        "word": "值得聊一聊的十本书",
+        "onboard_time": 1734318752,
+        "rank": 28,
+        "category": "读书作家,其它"
+      },
+      {
+        "raw_hot": 133531,
+        "num": 192901,
+        "word": "以色列将扩建戈兰高地犹太人定居点",
+        "onboard_time": 1734316156,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192897,
+        "num": 192897,
+        "word": "鞠婧祎曾舜晞陈都灵田嘉瑞不分先后",
+        "onboard_time": 1734318437,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189416,
+        "num": 189416,
+        "word": "记者卧底非法屠宰场内部极度脏乱",
+        "onboard_time": 1734316156,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150670,
+        "num": 150670,
+        "word": "男子称工作18天离职倒贴38元",
+        "onboard_time": 1734315977,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147510,
+        "num": 147510,
+        "word": "2025月历壁纸",
+        "onboard_time": 1734314898,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147194,
+        "num": 147194,
+        "word": "张家界长满了韩国人",
+        "onboard_time": 1734274401,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140874,
+        "num": 140874,
+        "word": "王安宇人怎么能丢这么大的脸",
+        "onboard_time": 1734306076,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132873,
+        "num": 132873,
+        "word": "成都通报废旧水塔拆除事故",
+        "onboard_time": 1734317296,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140056,
+        "num": 132555,
+        "word": "猎罪图鉴2 平等冒犯所有人",
+        "onboard_time": 1734274520,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130687,
+        "num": 130687,
+        "word": "东方青苍许七安都只能找我本人",
+        "onboard_time": 1734307819,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 129609,
+        "word": "11月份国民经济延续回升态势",
+        "onboard_time": 1734319458,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119262,
+        "num": 119262,
+        "word": "明白为什么能坚持早起去图书馆了",
+        "onboard_time": 1734317717,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115505,
+        "num": 115505,
+        "word": "成都龙泉驿旧水塔拆除事故致1死",
+        "onboard_time": 1734319157,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 114175,
+        "num": 114175,
+        "word": "杭州有人排队3小时买林俊杰咖啡",
+        "onboard_time": 1734312677,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109975,
+        "num": 109975,
+        "word": "经常运动对外貌的改变有多大",
+        "onboard_time": 1734307879,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108409,
+        "num": 108409,
+        "word": "覃海洋50米蛙泳逆转夺冠",
+        "onboard_time": 1734317776,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107991,
+        "num": 107991,
+        "word": "马龙用了莫雷加德庆祝动作",
+        "onboard_time": 1734307759,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105012,
+        "num": 105012,
+        "word": "柳智敏winter手机壳",
+        "onboard_time": 1734306137,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104178,
+        "num": 104178,
+        "word": "2025元旦购票日历",
+        "onboard_time": 1734313637,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96364,
+        "num": 96364,
+        "word": "国安破获多起主动投靠境外间谍组织案",
+        "onboard_time": 1734311298,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25897,
+        "num": 95582,
+        "word": "阮经天的少年感",
+        "onboard_time": 1734319517,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一国两制方针是行得通办得到得人心的#"
+    }
+  }
+}
