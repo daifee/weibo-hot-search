@@ -1,0 +1,410 @@
+{
+  "runTime": 1734342074275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1556119,
+        "num": 1556119,
+        "word": "刘亦菲 一众黑白色中的金色",
+        "onboard_time": 1734340218,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1066476,
+        "num": 1066476,
+        "word": "男子把耳机藏成100块腹肌入境",
+        "onboard_time": 1734333019,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25165,
+        "num": 816697,
+        "word": "跨越百年的澳门百味",
+        "onboard_time": 1734340702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1419582,
+        "num": 814453,
+        "word": "K总要结婚了",
+        "onboard_time": 1734340820,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 796829,
+        "num": 796829,
+        "word": "江汉路",
+        "onboard_time": 1734335479,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 911737,
+        "num": 796639,
+        "word": "韩国",
+        "onboard_time": 1734319998,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 836241,
+        "num": 722631,
+        "word": "嘉人红毯",
+        "onboard_time": 1734334820,
+        "rank": 6,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 642744,
+        "num": 642744,
+        "word": "武汉江汉路发生火灾",
+        "onboard_time": 1734336498,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 542311,
+        "num": 542311,
+        "word": "云南发现1例罕见恐龙血",
+        "onboard_time": 1734337458,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202198,
+        "num": 531058,
+        "word": "乔石同志诞辰100周年座谈会",
+        "onboard_time": 1734341600,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525017,
+        "num": 525017,
+        "word": "曝逐玉吻戏已全删",
+        "onboard_time": 1734336859,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501481,
+        "num": 501481,
+        "word": "嘉人红毯 清一色的黑",
+        "onboard_time": 1734340218,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 470489,
+        "num": 470489,
+        "word": "取消设立电视剧制作单位审批",
+        "onboard_time": 1734339140,
+        "rank": 12,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 422701,
+        "num": 422701,
+        "word": "四川警方破获一甲醛泡毛肚案",
+        "onboard_time": 1734338061,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401471,
+        "num": 401471,
+        "word": "王安宇李昀锐一个会哭一个会笑",
+        "onboard_time": 1734337160,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380658,
+        "num": 380658,
+        "word": "郑成灿大吧",
+        "onboard_time": 1734337879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317515,
+        "num": 317515,
+        "word": "张凌赫田曦薇对接回应逐玉番位",
+        "onboard_time": 1734336079,
+        "rank": 16,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 304690,
+        "num": 304690,
+        "word": "老板一个滚赔了16万",
+        "onboard_time": 1734331879,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281142,
+        "num": 281142,
+        "word": "3人用甲醛泡毛肚被抓",
+        "onboard_time": 1734336199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81632,
+        "num": 278644,
+        "word": "张元英晒自拍",
+        "onboard_time": 1734341419,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372990,
+        "num": 271827,
+        "word": "原来串串房内部是这样的",
+        "onboard_time": 1734338660,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299904,
+        "num": 267144,
+        "word": "卢昱晓杨超越撞衫",
+        "onboard_time": 1734341840,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299249,
+        "num": 262754,
+        "word": "倪萍回应被质疑整容",
+        "onboard_time": 1734336259,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299059,
+        "num": 260081,
+        "word": "时代姐妹花重现倒红酒名场面",
+        "onboard_time": 1734339380,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88175,
+        "num": 257002,
+        "word": "倪阿姨也来走红毯了",
+        "onboard_time": 1734340880,
+        "rank": 24,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 252486,
+        "num": 252486,
+        "word": "国剧盛典红毯",
+        "onboard_time": 1734335300,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234111,
+        "num": 234111,
+        "word": "刘浩存 妈妈级别",
+        "onboard_time": 1734332058,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226995,
+        "num": 226995,
+        "word": "惠英红张小斐宋佳李庚希 影后合照",
+        "onboard_time": 1734340702,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223641,
+        "num": 223641,
+        "word": "大多数HPV感染都是一过性的",
+        "onboard_time": 1734338179,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84220,
+        "num": 212272,
+        "word": "火灵儿 白月光",
+        "onboard_time": 1734342020,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 211555,
+        "num": 211555,
+        "word": "这才是毛衣的正确叠法",
+        "onboard_time": 1734336498,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 199159,
+        "num": 199159,
+        "word": "惠英红红毯脱大衣",
+        "onboard_time": 1734338660,
+        "rank": 31,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 189767,
+        "num": 189767,
+        "word": "徐明浩 就卖你们这样的",
+        "onboard_time": 1734333139,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186885,
+        "num": 186885,
+        "word": "丁禹兮加入粉丝合唱",
+        "onboard_time": 1734340880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184764,
+        "num": 184764,
+        "word": "A股缩量3694亿",
+        "onboard_time": 1734340638,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171378,
+        "num": 171378,
+        "word": "嘉人女性力量 刻板印象",
+        "onboard_time": 1734341180,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 174451,
+        "num": 170027,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168657,
+        "num": 168657,
+        "word": "肖战歌曲与澳门的适配度",
+        "onboard_time": 1734327918,
+        "rank": 37,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 22758,
+        "num": 159739,
+        "word": "为了它澳门值得一去再去",
+        "onboard_time": 1734338179,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159661,
+        "num": 159661,
+        "word": "裤袜到底是谁发明的酷刑",
+        "onboard_time": 1734340400,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157238,
+        "num": 157238,
+        "word": "闫桉突发高烧",
+        "onboard_time": 1734337879,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135801,
+        "num": 135801,
+        "word": "四郎 你的白月光回来了",
+        "onboard_time": 1734337638,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34128,
+        "num": 133491,
+        "word": "海外拍卖古董局中局专骗老人",
+        "onboard_time": 1734340040,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132823,
+        "num": 132823,
+        "word": "印度男教师上班途中遭绑架强行结婚",
+        "onboard_time": 1734328099,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130216,
+        "num": 130216,
+        "word": "李马克李泳知新歌MV",
+        "onboard_time": 1734341840,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126098,
+        "num": 126098,
+        "word": "德玛西亚杯",
+        "onboard_time": 1734341361,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125670,
+        "num": 125670,
+        "word": "上海和平饭店298元套餐遭吐槽",
+        "onboard_time": 1734341899,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123193,
+        "num": 123193,
+        "word": "时装男士月鳞绮纪剧宣专刊",
+        "onboard_time": 1734341540,
+        "rank": 47,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 114815,
+        "num": 114815,
+        "word": "王者貂蝉嫦娥皮肤优化",
+        "onboard_time": 1734337458,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106082,
+        "num": 106082,
+        "word": "兵马俑最火配色是红配绿",
+        "onboard_time": 1734341840,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我经常想起七子之歌#"
+    }
+  }
+}

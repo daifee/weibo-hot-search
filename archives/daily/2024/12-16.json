@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734341248685,
+  "endTime": 1734342074275,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -35,6 +35,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1556119,
+      "num": 1556119,
+      "word": "刘亦菲 一众黑白色中的金色",
+      "onboard_time": 1734340218,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1424652,
       "num": 1424652,
       "word": "男子把耳机藏成100块腹肌入境",
@@ -43,12 +51,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1395099,
-      "num": 1395099,
-      "word": "刘亦菲 一众黑白色中的金色",
-      "onboard_time": 1734340218,
-      "rank": 0,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1419582,
+      "num": 814453,
+      "word": "K总要结婚了",
+      "onboard_time": 1734340820,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1356062,
@@ -195,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 631839,
-      "num": 631839,
+      "raw_hot": 642744,
+      "num": 642744,
       "word": "武汉江汉路发生火灾",
       "onboard_time": 1734336498,
       "rank": 9,
@@ -331,6 +339,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 501481,
+      "num": 501481,
+      "word": "嘉人红毯 清一色的黑",
+      "onboard_time": 1734340218,
+      "rank": 17,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 499423,
       "num": 499423,
       "word": "居然是昭昭主动的",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470489,
+      "num": 530882,
+      "word": "取消设立电视剧制作单位审批",
+      "onboard_time": 1734339140,
+      "rank": 9,
+      "category": "民生新闻,作品衍生"
+    },
+    {
       "raw_hot": 468049,
       "num": 468049,
       "word": "小米否认侵权格力",
@@ -377,6 +401,14 @@
       "onboard_time": 1734316698,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 422701,
+      "num": 422701,
+      "word": "四川警方破获一甲醛泡毛肚案",
+      "onboard_time": 1734338061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418389,
@@ -459,14 +491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 379205,
-      "num": 379205,
-      "word": "四川警方破获一甲醛泡毛肚案",
-      "onboard_time": 1734338061,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375526,
       "num": 375526,
       "word": "克莉丝汀确定退市",
@@ -505,22 +529,6 @@
       "onboard_time": 1734312798,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359224,
-      "num": 359224,
-      "word": "K总要结婚了",
-      "onboard_time": 1734340820,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 351358,
-      "num": 351358,
-      "word": "嘉人红毯 清一色的黑",
-      "onboard_time": 1734340218,
-      "rank": 17,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 347526,
@@ -601,6 +609,14 @@
       "onboard_time": 1734336199,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299904,
+      "num": 267144,
+      "word": "卢昱晓杨超越撞衫",
+      "onboard_time": 1734341840,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298852,
@@ -707,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274171,
-      "num": 530882,
-      "word": "取消设立电视剧制作单位审批",
-      "onboard_time": 1734339140,
-      "rank": 9,
-      "category": "民生新闻,作品衍生"
-    },
-    {
       "raw_hot": 274169,
       "num": 289362,
       "word": "郭敬明古偶三部曲",
@@ -803,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 226995,
+      "num": 226995,
+      "word": "惠英红张小斐宋佳李庚希 影后合照",
+      "onboard_time": 1734340702,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 226347,
       "num": 288071,
       "word": "猎罪2只能断案不能断更",
@@ -827,7 +843,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223312,
+      "raw_hot": 223641,
       "num": 328884,
       "word": "大多数HPV感染都是一过性的",
       "onboard_time": 1734338179,
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211555,
+      "num": 211555,
+      "word": "这才是毛衣的正确叠法",
+      "onboard_time": 1734336498,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 209774,
       "num": 209774,
       "word": "大学生撞脸张若昀身高体重也相同",
@@ -961,6 +985,14 @@
       "onboard_time": 1734310999,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202198,
+      "num": 531058,
+      "word": "乔石同志诞辰100周年座谈会",
+      "onboard_time": 1734341600,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200391,
@@ -1059,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189310,
-      "num": 178836,
-      "word": "惠英红张小斐宋佳李庚希 影后合照",
-      "onboard_time": 1734340702,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 188609,
       "num": 188609,
       "word": "江苏卫视跨年",
@@ -1083,20 +1107,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184764,
+      "num": 184764,
+      "word": "A股缩量3694亿",
+      "onboard_time": 1734340638,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182671,
       "num": 205349,
       "word": "陈奕迅说巡演下一站在close fat",
       "onboard_time": 1734333619,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182635,
-      "num": 182635,
-      "word": "A股缩量3694亿",
-      "onboard_time": 1734340638,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 182471,
@@ -1179,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175013,
-      "num": 175013,
-      "word": "这才是毛衣的正确叠法",
-      "onboard_time": 1734336498,
-      "rank": 38,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 173717,
       "num": 173717,
       "word": "夏一平",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1734334999,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171378,
+      "num": 171378,
+      "word": "嘉人女性力量 刻板印象",
+      "onboard_time": 1734341180,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 171179,
@@ -1331,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159661,
+      "num": 159661,
+      "word": "裤袜到底是谁发明的酷刑",
+      "onboard_time": 1734340400,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159527,
       "num": 159527,
       "word": "合肥通报代孕事件",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1734281595,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154544,
-      "num": 154544,
-      "word": "裤袜到底是谁发明的酷刑",
-      "onboard_time": 1734340400,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 154209,
@@ -1651,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130216,
+      "num": 130216,
+      "word": "李马克李泳知新歌MV",
+      "onboard_time": 1734341840,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129107,
       "num": 129107,
       "word": "檀健次说猎鉴第二季沈翊像老虎",
@@ -1699,6 +1731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126098,
+      "num": 126098,
+      "word": "德玛西亚杯",
+      "onboard_time": 1734341361,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 125670,
+      "num": 125670,
+      "word": "上海和平饭店298元套餐遭吐槽",
+      "onboard_time": 1734341899,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124289,
       "num": 124289,
       "word": "2025年贺岁纪念币有条银蛇",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1734327618,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123193,
+      "num": 123193,
+      "word": "时装男士月鳞绮纪剧宣专刊",
+      "onboard_time": 1734341540,
+      "rank": 47,
+      "category": "剧集,时尚"
     },
     {
       "raw_hot": 119361,
@@ -1851,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106082,
+      "num": 106082,
+      "word": "兵马俑最火配色是红配绿",
+      "onboard_time": 1734341840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105612,
       "num": 105612,
       "word": "揭秘先享后付背后的层层暴利",
@@ -1881,14 +1945,6 @@
       "onboard_time": 1734306137,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104786,
-      "num": 104786,
-      "word": "嘉人女性力量 刻板印象",
-      "onboard_time": 1734341180,
-      "rank": 49,
-      "category": "时尚"
     },
     {
       "raw_hot": 103043,
@@ -2067,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88175,
+      "num": 275976,
+      "word": "倪阿姨也来走红毯了",
+      "onboard_time": 1734340880,
+      "rank": 24,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 87455,
       "num": 183362,
       "word": "美团年度报告好玩",
@@ -2115,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84220,
+      "num": 212272,
+      "word": "火灵儿 白月光",
+      "onboard_time": 1734342020,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 83838,
       "num": 258031,
       "word": "小米明年能自研自产空调了",
@@ -2161,6 +2233,14 @@
       "onboard_time": 1734321920,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81632,
+      "num": 278644,
+      "word": "张元英晒自拍",
+      "onboard_time": 1734341419,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 80941,
@@ -2313,14 +2393,6 @@
       "onboard_time": 1734291730,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67430,
-      "num": 275976,
-      "word": "倪阿姨也来走红毯了",
-      "onboard_time": 1734340880,
-      "rank": 24,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 67023,
@@ -2587,6 +2659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 34128,
+      "num": 343202,
+      "word": "海外拍卖古董局中局专骗老人",
+      "onboard_time": 1734340040,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33336,
       "num": 275793,
       "word": "全球第一个新海诚作品cafe",
@@ -2691,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25165,
+      "num": 1177858,
+      "word": "跨越百年的澳门百味",
+      "onboard_time": 1734340702,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23331,
       "num": 171616,
       "word": "大笨狗 切换自如",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1734286393,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22758,
+      "num": 341823,
+      "word": "为了它澳门值得一去再去",
+      "onboard_time": 1734338179,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 22735,
@@ -2729,14 +2825,6 @@
       "onboard_time": 1734304935,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 22577,
-      "num": 343202,
-      "word": "海外拍卖古董局中局专骗老人",
-      "onboard_time": 1734340040,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 22440,
@@ -2769,14 +2857,6 @@
       "onboard_time": 1734241218,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19785,
-      "num": 341823,
-      "word": "为了它澳门值得一去再去",
-      "onboard_time": 1734338179,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 18867,
@@ -2889,14 +2969,6 @@
       "onboard_time": 1734337879,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12316,
-      "num": 1177858,
-      "word": "跨越百年的澳门百味",
-      "onboard_time": 1734340702,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12239,
