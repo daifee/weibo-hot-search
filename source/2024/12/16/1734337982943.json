@@ -1,0 +1,410 @@
+{
+  "runTime": 1734337982943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424652,
+        "num": 1424652,
+        "word": "男子把耳机藏成100块腹肌入境",
+        "onboard_time": 1734333019,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1080087,
+        "num": 1080087,
+        "word": "嘉人红毯",
+        "onboard_time": 1734334820,
+        "rank": 1,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 40496,
+        "num": 1013896,
+        "word": "好吃好看好玩的澳门好想去",
+        "onboard_time": 1734321920,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1001746,
+        "num": 1001746,
+        "word": "HPV",
+        "onboard_time": 1734330918,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 997387,
+        "num": 997387,
+        "word": "江汉路",
+        "onboard_time": 1734335479,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1719349,
+        "num": 979108,
+        "word": "12岁女孩感染HPV其17岁男友被抓",
+        "onboard_time": 1734328759,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 909592,
+        "num": 909592,
+        "word": "韩国",
+        "onboard_time": 1734319998,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 668812,
+        "num": 668812,
+        "word": "曝逐玉吻戏已全删",
+        "onboard_time": 1734336859,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 634035,
+        "num": 634035,
+        "word": "官方通报12岁女孩感染HPV",
+        "onboard_time": 1734328879,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 311342,
+        "num": 588263,
+        "word": "武汉江汉路发生火灾",
+        "onboard_time": 1734336498,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 554491,
+        "num": 554491,
+        "word": "徐明浩 就卖你们这样的",
+        "onboard_time": 1734333139,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493123,
+        "num": 493123,
+        "word": "老板一个滚赔了16万",
+        "onboard_time": 1734331879,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181214,
+        "num": 476487,
+        "word": "3人用甲醛泡毛肚被抓",
+        "onboard_time": 1734336199,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466108,
+        "num": 466108,
+        "word": "刘浩存 妈妈级别",
+        "onboard_time": 1734332058,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 32203,
+        "num": 441862,
+        "word": "刷酸烂脸的几大特征",
+        "onboard_time": 1734336019,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 418389,
+        "num": 418389,
+        "word": "国剧盛典红毯",
+        "onboard_time": 1734335300,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382555,
+        "num": 382555,
+        "word": "倪萍回应被质疑整容",
+        "onboard_time": 1734336259,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377798,
+        "num": 377798,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9487,
+        "num": 375516,
+        "word": "家人说但拓和江奇霖很像",
+        "onboard_time": 1734337879,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21074,
+        "num": 374711,
+        "word": "揭秘野猪猎捕队",
+        "onboard_time": 1734336498,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374693,
+        "num": 374693,
+        "word": "张凌赫田曦薇对接回应逐玉番位",
+        "onboard_time": 1734336079,
+        "rank": 20,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 258704,
+        "num": 358931,
+        "word": "王安宇李昀锐一个会哭一个会笑",
+        "onboard_time": 1734337160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354603,
+        "num": 354603,
+        "word": "张雅琪辞职",
+        "onboard_time": 1734329720,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 280077,
+        "num": 280077,
+        "word": "嘉人出图",
+        "onboard_time": 1734328339,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 132255,
+        "num": 277504,
+        "word": "王楚钦被叫王慢慢是有原因的",
+        "onboard_time": 1734335237,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277277,
+        "num": 277277,
+        "word": "禹宙中欣站姐捐建虞丁希望小学",
+        "onboard_time": 1734334939,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16098,
+        "num": 269102,
+        "word": "上岸前要明白自己考研的目的",
+        "onboard_time": 1734337279,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105628,
+        "num": 268078,
+        "word": "aespa泡泡禁令解除",
+        "onboard_time": 1734335358,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83838,
+        "num": 258031,
+        "word": "小米明年能自研自产空调了",
+        "onboard_time": 1734337160,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31305,
+        "num": 248896,
+        "word": "陈伟霆说第一次演港剧很挑战",
+        "onboard_time": 1734336199,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66367,
+        "num": 236180,
+        "word": "张颂文哭戏",
+        "onboard_time": 1734337638,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235075,
+        "num": 235075,
+        "word": "肖战歌曲与澳门的适配度",
+        "onboard_time": 1734327918,
+        "rank": 31,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 99283,
+        "num": 218090,
+        "word": "明年要在增强消费能力上下功夫",
+        "onboard_time": 1734336800,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212974,
+        "num": 212974,
+        "word": "嘉人 飞行员主题",
+        "onboard_time": 1734328999,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 200389,
+        "num": 200389,
+        "word": "云南发现1例罕见恐龙血",
+        "onboard_time": 1734337458,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188609,
+        "num": 188609,
+        "word": "江苏卫视跨年",
+        "onboard_time": 1734336919,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187881,
+        "num": 187881,
+        "word": "四郎 你的白月光回来了",
+        "onboard_time": 1734337638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172662,
+        "num": 172662,
+        "word": "数位LPL选手宣布休息",
+        "onboard_time": 1734334999,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168536,
+        "num": 168536,
+        "word": "山西省政协主席吴存荣被查",
+        "onboard_time": 1734337701,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 164186,
+        "num": 164186,
+        "word": "印度男教师上班途中遭绑架强行结婚",
+        "onboard_time": 1734328099,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 163713,
+        "num": 163713,
+        "word": "以为阿如那转型了",
+        "onboard_time": 1734334939,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163047,
+        "num": 163047,
+        "word": "王大发说孟子义真的升咖了",
+        "onboard_time": 1734333559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159026,
+        "num": 159026,
+        "word": "徐明浩在韩国和文俊辉相依为命",
+        "onboard_time": 1734332179,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154209,
+        "num": 154209,
+        "word": "天津一学校教室天花板坍塌",
+        "onboard_time": 1734333918,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154081,
+        "num": 154081,
+        "word": "半个月后就是2025了",
+        "onboard_time": 1734331217,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694598,
+        "num": 153563,
+        "word": "工资貌似真的回到3500元的时代了",
+        "onboard_time": 1734321499,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151279,
+        "num": 151279,
+        "word": "闫桉突发高烧",
+        "onboard_time": 1734337879,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "郑成灿大吧",
+        "onboard_time": 1734337879,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150085,
+        "num": 150085,
+        "word": "女子假扮保安混入演唱会被查获",
+        "onboard_time": 1734334820,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "刘耀文灯牌",
+        "onboard_time": 1734325578,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各方面积极因素转化为发展实绩#"
+    }
+  }
+}
