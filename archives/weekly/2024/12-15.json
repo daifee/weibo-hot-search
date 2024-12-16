@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734387710040,
+  "endTime": 1734388873897,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -2155,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261986,
+      "num": 261986,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259951,
       "num": 259951,
       "word": "国安破获多起主动投靠境外间谍组织案",
@@ -2305,14 +2313,6 @@
       "onboard_time": 1734260000,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236438,
-      "num": 236438,
-      "word": "一市民花84元买彩票中834万",
-      "onboard_time": 1734367755,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 236356,
@@ -4251,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149945,
+      "num": 90038,
+      "word": "余衍隆曝阿娇变胖原因",
+      "onboard_time": 1734385391,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149487,
       "num": 340014,
       "word": "王楚钦倒地侧身爆冲",
@@ -5483,6 +5491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109258,
+      "num": 82696,
+      "word": "兵马俑二号坑首次发现高级军吏俑",
+      "onboard_time": 1734367694,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109181,
       "num": 192255,
       "word": "26个中国GDP万亿城市的进阶时刻",
@@ -5707,6 +5723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101982,
+      "num": 101982,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101492,
       "num": 101492,
       "word": "林诗栋18比16黄友政",
@@ -5817,14 +5841,6 @@
       "onboard_time": 1734327440,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95307,
-      "num": 95307,
-      "word": "被抱养37年女子称高中每周只用2块",
-      "onboard_time": 1734379091,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95034,
@@ -6539,14 +6555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67964,
-      "num": 67964,
-      "word": "余衍隆曝阿娇变胖原因",
-      "onboard_time": 1734385391,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 67941,
       "num": 260737,
       "word": "香港游客河源徒步发现特产恐龙蛋",
@@ -6641,14 +6649,6 @@
       "onboard_time": 1734225977,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62362,
-      "num": 62362,
-      "word": "兵马俑二号坑首次发现高级军吏俑",
-      "onboard_time": 1734367694,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61590,
@@ -7451,20 +7451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29879,
+      "num": 29879,
+      "word": "玩雪这一块哈尔滨还是太超前了",
+      "onboard_time": 1734382571,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 29868,
       "num": 261667,
       "word": "蒋峰为破案爆改健美主播",
       "onboard_time": 1734267320,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29411,
-      "num": 29411,
-      "word": "玩雪这一块哈尔滨还是太超前了",
-      "onboard_time": 1734382571,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 29329,
@@ -7553,6 +7553,14 @@
       "onboard_time": 1734373273,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26490,
+      "num": 47809,
+      "word": "我国成为世界第1核电大国",
+      "onboard_time": 1734377171,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26373,
@@ -7739,14 +7747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21414,
-      "num": 47809,
-      "word": "我国成为世界第1核电大国",
-      "onboard_time": 1734377171,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21140,
       "num": 291385,
       "word": "窦昭女子亦可以一敌百",
@@ -7771,11 +7771,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20653,
+      "num": 34340,
+      "word": "为中国航天点赞",
+      "onboard_time": 1734380410,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19948,
       "num": 37982,
       "word": "韩国局势进展",
       "onboard_time": 1734207311,
       "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19931,
+      "num": 29407,
+      "word": "尹锡悦组建团队应对弹劾案",
+      "onboard_time": 1734383831,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -7827,12 +7843,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 18233,
+      "num": 26052,
+      "word": "微博旅行家",
+      "onboard_time": 1734387912,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18227,
-      "num": 25588,
+      "num": 26047,
       "word": "湖北一教师遭捕兽电网电击身亡",
       "onboard_time": 1734387072,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18186,
+      "num": 64514,
+      "word": "零售业创新提升工程实施方案",
+      "onboard_time": 1734386472,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18020,
@@ -7907,14 +7939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17087,
-      "num": 29407,
-      "word": "尹锡悦组建团队应对弹劾案",
-      "onboard_time": 1734383831,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17073,
       "num": 297764,
       "word": "韩悦1比2王祉怡",
@@ -7961,14 +7985,6 @@
       "onboard_time": 1734376211,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15697,
-      "num": 27403,
-      "word": "零售业创新提升工程实施方案",
-      "onboard_time": 1734386472,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 15641,
