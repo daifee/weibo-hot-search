@@ -1,0 +1,410 @@
+{
+  "runTime": 1734321104229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2403524,
+        "num": 2403524,
+        "word": "韩国",
+        "onboard_time": 1734319998,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1790155,
+        "num": 1790155,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22440,
+        "num": 1401556,
+        "word": "一首歌唱出澳门美好未来",
+        "onboard_time": 1734271101,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1303722,
+        "num": 1303722,
+        "word": "董明珠爆小米空调专利侵权赔了50万",
+        "onboard_time": 1734315617,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 692501,
+        "num": 692501,
+        "word": "极越CEO发长文道歉",
+        "onboard_time": 1734313578,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 612725,
+        "num": 612725,
+        "word": "董明珠再回应与雷军赌约",
+        "onboard_time": 1734315617,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 510281,
+        "num": 510281,
+        "word": "杨幂郭采洁郭碧婷谢依霖同框",
+        "onboard_time": 1734307759,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498130,
+        "num": 498130,
+        "word": "居然是昭昭主动的",
+        "onboard_time": 1734315917,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468049,
+        "num": 468049,
+        "word": "小米否认侵权格力",
+        "onboard_time": 1734319277,
+        "rank": 8,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 411470,
+        "num": 411470,
+        "word": "宋墨 嫋嫋你真的没有骗我",
+        "onboard_time": 1734305836,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410435,
+        "num": 410435,
+        "word": "央视曝光先享后付套路多",
+        "onboard_time": 1734278059,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372657,
+        "num": 372657,
+        "word": "月鳞绮纪官宣",
+        "onboard_time": 1734316698,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348658,
+        "num": 348658,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1734305776,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112456,
+        "num": 315215,
+        "word": "A股首发经济概念股集体大涨",
+        "onboard_time": 1734318858,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114513,
+        "num": 303030,
+        "word": "频繁头痛治不好该怎么办",
+        "onboard_time": 1734318016,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302809,
+        "num": 302809,
+        "word": "洗火车见过吗",
+        "onboard_time": 1734317658,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99109,
+        "num": 302747,
+        "word": "极越发布用户近期关心的问题说明",
+        "onboard_time": 1734320899,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107727,
+        "num": 302701,
+        "word": "把再见爱人当八卦讲给韩国男友听",
+        "onboard_time": 1734319397,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78690,
+        "num": 302680,
+        "word": "孙闻vs王楚钦",
+        "onboard_time": 1734320840,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56617,
+        "num": 302597,
+        "word": "11月社会消费品零售总额43763亿",
+        "onboard_time": 1734320478,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 384991,
+        "num": 302517,
+        "word": "刘亦菲和陈金飞酒店聚餐",
+        "onboard_time": 1734314116,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302494,
+        "num": 302494,
+        "word": "冷冷冷冷冷你冷冷冷冷冷",
+        "onboard_time": 1734264198,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265001,
+        "num": 265001,
+        "word": "浙江卫视跨年首波阵容官宣",
+        "onboard_time": 1734315376,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242651,
+        "num": 242651,
+        "word": "恋与深空",
+        "onboard_time": 1734313458,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89988,
+        "num": 230979,
+        "word": "这周考研",
+        "onboard_time": 1734321018,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223998,
+        "num": 223998,
+        "word": "韩国执政党党首辞职",
+        "onboard_time": 1734313518,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214390,
+        "num": 214390,
+        "word": "孩子咳嗽不发烧当心百日咳",
+        "onboard_time": 1734320118,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186051,
+        "num": 213291,
+        "word": "李昀锐孟子义 这集真的没看过",
+        "onboard_time": 1734312798,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213037,
+        "num": 213037,
+        "word": "东京都将启动上四休三工作制",
+        "onboard_time": 1734316938,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29462,
+        "num": 184294,
+        "word": "阮经天的少年感",
+        "onboard_time": 1734319517,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183882,
+        "num": 183882,
+        "word": "记者卧底非法屠宰场内部极度脏乱",
+        "onboard_time": 1734316156,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 182471,
+        "num": 182471,
+        "word": "11月份国民经济延续回升态势",
+        "onboard_time": 1734319458,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180252,
+        "num": 180252,
+        "word": "乒超",
+        "onboard_time": 1734319097,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180198,
+        "num": 180198,
+        "word": "以色列将扩建戈兰高地犹太人定居点",
+        "onboard_time": 1734316156,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179971,
+        "num": 179971,
+        "word": "未定事件簿",
+        "onboard_time": 1734320418,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178917,
+        "num": 178917,
+        "word": "男子称工作18天离职倒贴38元",
+        "onboard_time": 1734315977,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82361,
+        "num": 175678,
+        "word": "马龙陈梦取得全胜",
+        "onboard_time": 1734318918,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172605,
+        "num": 172605,
+        "word": "男子坐轮椅在高速疾驰",
+        "onboard_time": 1734313156,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162589,
+        "num": 162589,
+        "word": "院人集体确诊白磷型团队",
+        "onboard_time": 1734318556,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158605,
+        "num": 158605,
+        "word": "明白为什么能坚持早起去图书馆了",
+        "onboard_time": 1734317717,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152047,
+        "num": 152047,
+        "word": "刘宇进组月鳞绮纪",
+        "onboard_time": 1734319039,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147281,
+        "num": 147281,
+        "word": "张真源EP",
+        "onboard_time": 1734320118,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 144322,
+        "word": "成都通报废旧水塔拆除事故",
+        "onboard_time": 1734317296,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 141272,
+        "num": 141272,
+        "word": "柯南迷宫的十字路口预售开启",
+        "onboard_time": 1734319579,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136682,
+        "num": 136682,
+        "word": "网上下载公开信息发给间谍换钱",
+        "onboard_time": 1734311298,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 136009,
+        "word": "东方青苍许七安都只能找我本人",
+        "onboard_time": 1734307819,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135224,
+        "num": 135224,
+        "word": "猎罪图鉴2 平等冒犯所有人",
+        "onboard_time": 1734274520,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123914,
+        "num": 123914,
+        "word": "2025月历壁纸",
+        "onboard_time": 1734314898,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117074,
+        "num": 117074,
+        "word": "王化",
+        "onboard_time": 1734320418,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 113516,
+        "word": "杭州有人排队3小时买林俊杰咖啡",
+        "onboard_time": 1734312677,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各方面积极因素转化为发展实绩#"
+    }
+  }
+}
