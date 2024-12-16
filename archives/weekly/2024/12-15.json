@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734370742432,
+  "endTime": 1734373988919,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -2307,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236438,
+      "num": 236438,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236356,
       "num": 236356,
       "word": "长安二十四计首宣阵容",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1734337638,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195645,
-      "num": 195645,
-      "word": "一市民花84元买彩票中834万",
-      "onboard_time": 1734367755,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195506,
@@ -6907,6 +6907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46886,
+      "num": 152239,
+      "word": "涉事领导回应职工为其买酒赊账9万",
+      "onboard_time": 1734369914,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46591,
       "num": 52588,
       "word": "娜然 海带精",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1734318016,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 39192,
+      "num": 39192,
+      "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
+      "onboard_time": 1734372312,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 39182,
@@ -7491,6 +7507,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 26574,
+      "num": 26574,
+      "word": "王俊凯确定出席2025巴黎时装周",
+      "onboard_time": 1734373273,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 26373,
       "num": 29852,
       "word": "走失18年儿子回家父母大摆宴席",
@@ -7553,14 +7577,6 @@
       "onboard_time": 1734359540,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24169,
-      "num": 152239,
-      "word": "涉事领导回应职工为其买酒赊账9万",
-      "onboard_time": 1734369914,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23925,
@@ -7771,6 +7787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17820,
+      "num": 26191,
+      "word": "芝童",
+      "onboard_time": 1734371952,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 17618,
       "num": 137568,
       "word": "沈阳故宫免费给游客送暖贴",
@@ -7929,6 +7953,14 @@
       "onboard_time": 1734200893,
       "rank": 35,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 13545,
+      "num": 87545,
+      "word": "推动经济持续回升向好",
+      "onboard_time": 1734373512,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 13516,
@@ -8144,6 +8176,14 @@
       "word": "老瓦杯第二比赛日赛程",
       "onboard_time": 1734286992,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6806,
+      "num": 36541,
+      "word": "唐钱婷2024完美收官",
+      "onboard_time": 1734373031,
+      "rank": 24,
       "category": "体育"
     },
     {
