@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734348949228,
+  "endTime": 1734353344848,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -331,6 +331,14 @@
       "category": "艺人,读书作家"
     },
     {
+      "raw_hot": 2944863,
+      "num": 2944863,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1734347240,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2937480,
       "num": 2937480,
       "word": "孙颖莎阻止王楚钦继续用丢分球",
@@ -497,6 +505,14 @@
       "onboard_time": 1734000019,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2358488,
+      "num": 2358488,
+      "word": "樊振东王楚钦 爆分",
+      "onboard_time": 1734350958,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2342869,
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1930986,
+      "num": 1930986,
+      "word": "刘亦菲压轴",
+      "onboard_time": 1734352100,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1927843,
       "num": 1927843,
       "word": "HPV",
@@ -945,6 +969,14 @@
       "onboard_time": 1733622139,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1733000,
+      "num": 1733000,
+      "word": "马思纯怎么拍成了这样",
+      "onboard_time": 1734349219,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1725501,
@@ -2531,6 +2563,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 1141324,
+      "num": 978490,
+      "word": "嘉人红毯 半天没人走",
+      "onboard_time": 1734351020,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1140393,
       "num": 1140393,
       "word": "女子听到朋友患肠癌一查自己也有",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1733107277,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1128438,
+      "num": 1128438,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1734352582,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1127567,
@@ -5539,6 +5587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 718218,
+      "num": 718218,
+      "word": "杨幂 今天我们相聚在这里",
+      "onboard_time": 1734351439,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 718185,
       "num": 718185,
       "word": "4399机器人",
@@ -6289,6 +6345,14 @@
       "onboard_time": 1734326120,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 656086,
+      "num": 347286,
+      "word": "老板称B太一天吃了七八家店",
+      "onboard_time": 1734350660,
+      "rank": 11,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 656005,
@@ -7811,6 +7875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558774,
+      "num": 345823,
+      "word": "猎罪图鉴2断更",
+      "onboard_time": 1734348799,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557997,
       "num": 557997,
       "word": "公司春节放假卷起来了",
@@ -8673,6 +8745,14 @@
       "onboard_time": 1734061759,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 519319,
+      "num": 344729,
+      "word": "嘉人内场",
+      "onboard_time": 1734351860,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 519226,
@@ -11403,6 +11483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413691,
+      "num": 346183,
+      "word": "杨紫状态",
+      "onboard_time": 1734348379,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 413632,
       "num": 340011,
       "word": "美法院拒绝驳回TikTok不卖就禁法案",
@@ -13259,6 +13347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351848,
+      "num": 351848,
+      "word": "首局樊振东16比14王楚钦",
+      "onboard_time": 1734351020,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351754,
       "num": 372620,
       "word": "张智霖喊话18岁儿子谈恋爱",
@@ -13457,14 +13553,6 @@
       "onboard_time": 1733916500,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346183,
-      "num": 346183,
-      "word": "杨紫状态",
-      "onboard_time": 1734348379,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345856,
@@ -14755,6 +14843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314383,
+      "num": 314383,
+      "word": "我国卫星互联网低轨卫星发射成功",
+      "onboard_time": 1734351319,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 314174,
       "num": 314174,
       "word": "星穹铁道",
@@ -14809,6 +14905,14 @@
       "onboard_time": 1733581341,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 312476,
+      "num": 186247,
+      "word": "李昀锐十秒三次转头看孟子义",
+      "onboard_time": 1734349401,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 312430,
@@ -16835,6 +16939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269264,
+      "num": 269264,
+      "word": "阻止他人偷拍女生遭殴打男子发声",
+      "onboard_time": 1734349819,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269163,
       "num": 269163,
       "word": "孟子义李昀锐贴贴拍照",
@@ -17619,6 +17731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253657,
+      "num": 183494,
+      "word": "王鸥回应保持身材秘诀",
+      "onboard_time": 1734352401,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253274,
       "num": 253274,
       "word": "孙卓回家3年变回小时候胖胖的样子",
@@ -17689,6 +17809,14 @@
       "onboard_time": 1733060239,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251686,
+      "num": 181615,
+      "word": "只有研究生知道她有多全能",
+      "onboard_time": 1734351319,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 251627,
@@ -18619,14 +18747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239714,
-      "num": 345932,
-      "word": "樊振东vs王楚钦",
-      "onboard_time": 1734347240,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239529,
       "num": 294291,
       "word": "深情眼开机",
@@ -18993,6 +19113,14 @@
       "onboard_time": 1733325142,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 234405,
+      "num": 175525,
+      "word": "关晓彤 进组的状态",
+      "onboard_time": 1734350840,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 234326,
@@ -20657,6 +20785,14 @@
       "onboard_time": 1733224160,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215698,
+      "num": 215698,
+      "word": "马龙晒老瓦杯照片",
+      "onboard_time": 1734351860,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 215612,
@@ -23307,6 +23443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197251,
+      "num": 158072,
+      "word": "戚薇 自己救自己",
+      "onboard_time": 1734352582,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197236,
       "num": 197236,
       "word": "院人集体确诊白磷型团队",
@@ -25499,6 +25643,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 186823,
+      "num": 145554,
+      "word": "章子怡胡兵中年cp感",
+      "onboard_time": 1734350300,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186795,
       "num": 186795,
       "word": "肖战2024年最开心的瞬间",
@@ -25601,6 +25753,14 @@
       "onboard_time": 1733148741,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186228,
+      "num": 186228,
+      "word": "男子疑因护士妻子出轨自杀一事已立案",
+      "onboard_time": 1734352160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186223,
@@ -27417,14 +27577,6 @@
       "onboard_time": 1733753959,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 174567,
-      "num": 174567,
-      "word": "猎罪图鉴2断更",
-      "onboard_time": 1734348799,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 174503,
@@ -29696,6 +29848,14 @@
       "word": "猎1和猎2打起来了",
       "onboard_time": 1733813838,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162405,
+      "num": 309792,
+      "word": "白百何古装",
+      "onboard_time": 1734352942,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -32251,6 +32411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150262,
+      "num": 150262,
+      "word": "王楚钦状态满格",
+      "onboard_time": 1734350179,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150236,
       "num": 150236,
       "word": "河野华cos希格雯",
@@ -33401,6 +33569,14 @@
       "onboard_time": 1733540238,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144406,
+      "num": 144406,
+      "word": "山东新泰通报一女孩被性侵",
+      "onboard_time": 1734353062,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 144398,
@@ -36875,6 +37051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 125295,
+      "num": 125295,
+      "word": "花100元路费跨城存款多出上万利息",
+      "onboard_time": 1734352522,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125251,
       "num": 487321,
       "word": "反政府武装称已进入大马士革",
@@ -36889,6 +37073,14 @@
       "onboard_time": 1733487498,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125248,
+      "num": 298035,
+      "word": "NewJeans发多条ins",
+      "onboard_time": 1734352942,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 125243,
@@ -37811,6 +38003,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120409,
+      "num": 120409,
+      "word": "没有就业岗位就自己创造一个",
+      "onboard_time": 1734347840,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120338,
+      "num": 120338,
+      "word": "今年一年级新生是2018年出生的",
+      "onboard_time": 1734352702,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120337,
       "num": 120337,
       "word": "这一脚伸得太帅了",
@@ -38217,14 +38425,6 @@
       "onboard_time": 1733914761,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 117546,
-      "num": 117546,
-      "word": "没有就业岗位就自己创造一个",
-      "onboard_time": 1734347840,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 117446,
@@ -47828,7 +48028,7 @@
     },
     {
       "raw_hot": 51401,
-      "num": 1177858,
+      "num": 2013815,
       "word": "跨越百年的澳门百味",
       "onboard_time": 1734340702,
       "rank": 2,
@@ -52147,6 +52347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30757,
+      "num": 343607,
+      "word": "常州致8死8伤粉尘爆炸事故调查报告",
+      "onboard_time": 1734352280,
+      "rank": 14,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 30740,
       "num": 242990,
       "word": "TES官宣xiye离队",
@@ -56067,6 +56275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 12747,
+      "num": 215034,
+      "word": "贾一凡回忆里不一样的凡晨",
+      "onboard_time": 1734352881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12735,
       "num": 29184,
       "word": "媒体评1070元机票卖3357元",
@@ -56577,6 +56793,14 @@
       "onboard_time": 1733324543,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9005,
+      "num": 145816,
+      "word": "微博美妆大赛",
+      "onboard_time": 1734353062,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 8899,
