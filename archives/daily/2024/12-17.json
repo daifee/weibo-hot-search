@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734369611607,
+  "endTime": 1734370742432,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -147,6 +147,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 195645,
+      "num": 195645,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189358,
       "num": 189358,
       "word": "医生上报12岁女孩感染HPV反遭质问",
@@ -233,14 +241,6 @@
       "onboard_time": 1734361161,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123548,
-      "num": 123548,
-      "word": "一市民花84元买彩票中834万",
-      "onboard_time": 1734367755,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123402,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46591,
+      "num": 52588,
+      "word": "娜然 海带精",
+      "onboard_time": 1734369494,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41419,
       "num": 52684,
       "word": "樊振东vs王楚钦",
@@ -459,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39611,
-      "num": 52588,
-      "word": "娜然 海带精",
-      "onboard_time": 1734369494,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 37489,
       "num": 418889,
       "word": "万千气象看吉林",
@@ -475,12 +475,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 36660,
+      "num": 41314,
+      "word": "张真源失去了所有的力气与手段",
+      "onboard_time": 1734370274,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26276,
       "num": 92583,
       "word": "钎城百里守约MVP",
       "onboard_time": 1734360620,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 24169,
+      "num": 152239,
+      "word": "涉事领导回应职工为其买酒赊账9万",
+      "onboard_time": 1734369914,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23861,
@@ -495,6 +511,14 @@
       "num": 68590,
       "word": "FIFA年度颁奖典礼明日举行",
       "onboard_time": 1734367816,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9809,
+      "num": 52513,
+      "word": "马龙给球迷每一面扉页都签名",
+      "onboard_time": 1734370215,
       "rank": 24,
       "category": "体育"
     }

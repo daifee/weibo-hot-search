@@ -1,0 +1,410 @@
+{
+  "runTime": 1734370742432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253566,
+        "num": 1253566,
+        "word": "王鹤棣 内涵",
+        "onboard_time": 1734364519,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258506,
+        "num": 258506,
+        "word": "湖北一教师被捕兽电网电击身亡",
+        "onboard_time": 1734364579,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29107,
+        "num": 219613,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 195645,
+        "num": 195645,
+        "word": "一市民花84元买彩票中834万",
+        "onboard_time": 1734367755,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164544,
+        "num": 164544,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1734352582,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331675,
+        "num": 164248,
+        "word": "谁模仿王鹤棣",
+        "onboard_time": 1734365240,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282916,
+        "num": 163816,
+        "word": "嘉人大合照",
+        "onboard_time": 1734359842,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260265,
+        "num": 163644,
+        "word": "救场",
+        "onboard_time": 1734361639,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163261,
+        "num": 163261,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24169,
+        "num": 152239,
+        "word": "涉事领导回应职工为其买酒赊账9万",
+        "onboard_time": 1734369914,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147974,
+        "num": 147974,
+        "word": "樊振东王楚钦 爆分",
+        "onboard_time": 1734350958,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189609,
+        "num": 147634,
+        "word": "马思纯怎么拍成了这样",
+        "onboard_time": 1734349219,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170836,
+        "num": 147548,
+        "word": "李昀锐 少年感的爹",
+        "onboard_time": 1734363501,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160682,
+        "num": 147541,
+        "word": "嘉人红毯 半天没人走",
+        "onboard_time": 1734351020,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147238,
+        "num": 147238,
+        "word": "家暴受害人起诉离婚需45天冷静期",
+        "onboard_time": 1734362601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141475,
+        "num": 141475,
+        "word": "杨幂工作室发了时代姐妹花",
+        "onboard_time": 1734361340,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 73568,
+        "num": 73568,
+        "word": "王楚钦谈和樊振东交手",
+        "onboard_time": 1734362120,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73281,
+        "num": 73281,
+        "word": "阿萨德离开叙利亚后首次发表声明",
+        "onboard_time": 1734354619,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59970,
+        "num": 59970,
+        "word": "以色列空袭叙军事基地炸出蘑菇云",
+        "onboard_time": 1734363319,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52837,
+        "num": 52837,
+        "word": "乒超四强出炉",
+        "onboard_time": 1734362539,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254924,
+        "num": 52835,
+        "word": "死者父亲称已与儿媳达成和解",
+        "onboard_time": 1734356300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127307,
+        "num": 52698,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1734352100,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 77172,
+        "num": 52631,
+        "word": "秦新宇 妈生鼻回家",
+        "onboard_time": 1734366857,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75110,
+        "num": 52592,
+        "word": "猎罪图鉴2断更",
+        "onboard_time": 1734348799,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9809,
+        "num": 52513,
+        "word": "马龙给球迷每一面扉页都签名",
+        "onboard_time": 1734370215,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74122,
+        "num": 52421,
+        "word": "骨科医生都推荐的睡姿",
+        "onboard_time": 1734356360,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69394,
+        "num": 52382,
+        "word": "老板称B太一天吃了七八家店",
+        "onboard_time": 1734350660,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 67198,
+        "num": 52318,
+        "word": "杨紫状态",
+        "onboard_time": 1734348379,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66244,
+        "num": 52218,
+        "word": "宋佳钟楚曦一见面就哭了",
+        "onboard_time": 1734357800,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66236,
+        "num": 52163,
+        "word": "李昀锐十秒三次转头看孟子义",
+        "onboard_time": 1734349401,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54928,
+        "num": 52074,
+        "word": "兵马俑二号坑首次发现高级军吏俑",
+        "onboard_time": 1734367694,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52065,
+        "num": 52065,
+        "word": "杨幂 性感辣妹",
+        "onboard_time": 1734346339,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49364,
+        "num": 49364,
+        "word": "成毅粉丝拒绝认领长安二十四计",
+        "onboard_time": 1734362239,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49333,
+        "num": 49333,
+        "word": "刘诗诗 群像",
+        "onboard_time": 1734356060,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48064,
+        "num": 48064,
+        "word": "勇敢不是天性而是选择",
+        "onboard_time": 1734364398,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 46591,
+        "num": 46591,
+        "word": "娜然 海带精",
+        "onboard_time": 1734369494,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44181,
+        "num": 44181,
+        "word": "上海和平饭店298元套餐遭吐槽",
+        "onboard_time": 1734341899,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43853,
+        "num": 43853,
+        "word": "星光大赏阵容",
+        "onboard_time": 1734345919,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34829,
+        "num": 43392,
+        "word": "男子疑因护士妻子出轨自杀一事已立案",
+        "onboard_time": 1734352160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33355,
+        "num": 43225,
+        "word": "水瓶座会把自己的心保护得很好",
+        "onboard_time": 1734359481,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43179,
+        "num": 43179,
+        "word": "王亚飞发了卢昱晓妆造vlog",
+        "onboard_time": 1734365177,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41344,
+        "num": 41344,
+        "word": "关晓彤林一cp感",
+        "onboard_time": 1734361161,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36996,
+        "num": 41327,
+        "word": "张小斐你丝袜破了",
+        "onboard_time": 1734344061,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36660,
+        "num": 41314,
+        "word": "张真源失去了所有的力气与手段",
+        "onboard_time": 1734370274,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35405,
+        "num": 41280,
+        "word": "我干嘛要去学什么园林设计",
+        "onboard_time": 1734362180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32479,
+        "num": 41261,
+        "word": "王楚钦说想去面对比赛是积极信号",
+        "onboard_time": 1734363619,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32100,
+        "num": 41216,
+        "word": "爱做饭的人值得珍惜",
+        "onboard_time": 1734360740,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31916,
+        "num": 41198,
+        "word": "重庆大叔们近0度冰水中救起4人",
+        "onboard_time": 1734364519,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31238,
+        "num": 41156,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1734347240,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29732,
+        "num": 41130,
+        "word": "樊振东王楚钦发型的较量",
+        "onboard_time": 1734356900,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把坚定理想信念作为终身课题#"
+    }
+  }
+}
