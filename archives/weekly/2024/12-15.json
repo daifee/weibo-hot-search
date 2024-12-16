@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734391406462,
+  "endTime": 1734392277572,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -907,6 +907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 565508,
+      "num": 565508,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 565458,
       "num": 565458,
       "word": "向佐 我从小在舆论风波长大",
@@ -985,14 +993,6 @@
       "onboard_time": 1734325578,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 545118,
-      "num": 545118,
-      "word": "一市民花84元买彩票中834万",
-      "onboard_time": 1734367755,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543420,
@@ -1555,6 +1555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 366472,
+      "num": 366472,
+      "word": "湖北一教师被捕兽电网电击身亡",
+      "onboard_time": 1734364579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362546,
       "num": 362546,
       "word": "闫桉 人怎么能这么可怜又好笑",
@@ -1648,6 +1656,14 @@
       "word": "北大教授因女儿痛经研发新药",
       "onboard_time": 1734173840,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343625,
+      "num": 343625,
+      "word": "兵马俑二号坑首次发现高级军吏俑",
+      "onboard_time": 1734367694,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1859,14 +1875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307815,
-      "num": 307815,
-      "word": "湖北一教师被捕兽电网电击身亡",
-      "onboard_time": 1734364579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307679,
       "num": 307679,
       "word": "孙颖莎退场时被现场球迷表白",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1734270140,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291613,
+      "num": 204311,
+      "word": "余衍隆曝阿娇变胖原因",
+      "onboard_time": 1734385391,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 291545,
@@ -2136,6 +2152,14 @@
       "word": "5人涉嫌开展代孕被采取刑事强制措施",
       "onboard_time": 1734264259,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265607,
+      "num": 265607,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2377,22 +2401,6 @@
       "onboard_time": 1734223938,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 233044,
-      "num": 184076,
-      "word": "余衍隆曝阿娇变胖原因",
-      "onboard_time": 1734385391,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 232258,
-      "num": 232258,
-      "word": "兵马俑二号坑首次发现高级军吏俑",
-      "onboard_time": 1734367694,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231991,
@@ -2665,14 +2673,6 @@
       "onboard_time": 1734336498,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 211220,
-      "num": 211220,
-      "word": "被抱养37年女子称高中每周只用2块",
-      "onboard_time": 1734379091,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210967,
@@ -3345,6 +3345,14 @@
       "onboard_time": 1734240198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183689,
+      "num": 183689,
+      "word": "杨幂对接回应嘉人红毯顺序",
+      "onboard_time": 1734391575,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183288,
@@ -4505,6 +4513,14 @@
       "onboard_time": 1734184763,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140153,
+      "num": 184967,
+      "word": "北大天文学系吴月芳教授逝世",
+      "onboard_time": 1734391035,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139872,
@@ -5707,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103348,
+      "num": 103348,
+      "word": "我国成功发射一箭四星",
+      "onboard_time": 1734391455,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103043,
       "num": 103043,
       "word": "加入会员后仍跳不过广告",
@@ -6395,6 +6419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74742,
+      "num": 74742,
+      "word": "张真源毕业大戏出图",
+      "onboard_time": 1734391455,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74299,
       "num": 171754,
       "word": "三成投资者认为A股牛市还在",
@@ -6587,6 +6619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66744,
+      "num": 152239,
+      "word": "涉事领导回应职工为其买酒赊账9万",
+      "onboard_time": 1734369914,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66639,
       "num": 172835,
       "word": "远洋捕捞是对法治的破坏",
@@ -6601,6 +6641,14 @@
       "onboard_time": 1734225257,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65998,
+      "num": 65998,
+      "word": "我国成为世界第1核电大国",
+      "onboard_time": 1734377171,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65643,
@@ -6635,6 +6683,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 64616,
+      "num": 64616,
+      "word": "李昀锐反差感",
+      "onboard_time": 1734389414,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63387,
       "num": 290087,
       "word": "韩国执政党拒绝与在野党建立合作机制",
@@ -6651,6 +6707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 63210,
+      "num": 63210,
+      "word": "王楚钦赢下决胜盘",
+      "onboard_time": 1734390915,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62808,
       "num": 108671,
       "word": "韩德洙同拜登通电话",
@@ -6659,12 +6723,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 61901,
-      "num": 59837,
-      "word": "王楚钦赢下决胜盘",
-      "onboard_time": 1734390915,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 62253,
+      "num": 62253,
+      "word": "羊汤店老板和B太纷纷回应",
+      "onboard_time": 1734391815,
+      "rank": 40,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 61590,
@@ -6715,14 +6779,6 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 56814,
-      "num": 152239,
-      "word": "涉事领导回应职工为其买酒赊账9万",
-      "onboard_time": 1734369914,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56617,
       "num": 302597,
       "word": "11月社会消费品零售总额43763亿",
@@ -6761,6 +6817,22 @@
       "onboard_time": 1734233839,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54463,
+      "num": 54463,
+      "word": "为护女性遭邻居捅伤19岁小伙现状",
+      "onboard_time": 1734392117,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54084,
+      "num": 54084,
+      "word": "外国人嗑瓜子真的很忙",
+      "onboard_time": 1734391515,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 53201,
@@ -6803,14 +6875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52586,
-      "num": 52586,
-      "word": "李昀锐反差感",
-      "onboard_time": 1734389414,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52358,
       "num": 320743,
       "word": "林诗栋3比0胜梁靖崑",
@@ -6835,20 +6899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51998,
+      "num": 51998,
+      "word": "玩雪这一块哈尔滨还是太超前了",
+      "onboard_time": 1734382571,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 51886,
+      "num": 51886,
+      "word": "为中国航天点赞",
+      "onboard_time": 1734380410,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51401,
       "num": 2013815,
       "word": "跨越百年的澳门百味",
       "onboard_time": 1734340702,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50382,
-      "num": 50382,
-      "word": "为中国航天点赞",
-      "onboard_time": 1734380410,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50367,
@@ -6881,14 +6953,6 @@
       "onboard_time": 1734372312,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 49677,
-      "num": 49677,
-      "word": "我国成为世界第1核电大国",
-      "onboard_time": 1734377171,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49654,
@@ -6985,14 +7049,6 @@
       "onboard_time": 1734231498,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46659,
-      "num": 46659,
-      "word": "玩雪这一块哈尔滨还是太超前了",
-      "onboard_time": 1734382571,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 46591,
@@ -7883,14 +7939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18435,
-      "num": 184967,
-      "word": "北大天文学系吴月芳教授逝世",
-      "onboard_time": 1734391035,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18358,
       "num": 145961,
       "word": "安利一个淮南宝藏小镇",
@@ -8225,6 +8273,14 @@
       "onboard_time": 1734244939,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11496,
+      "num": 75033,
+      "word": "北大物理学院回应吴月芳教授逝世",
+      "onboard_time": 1734392237,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11350,
