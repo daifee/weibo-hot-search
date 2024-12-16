@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734344825034,
+  "endTime": 1734345914379,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1133196,
+      "num": 1181311,
+      "word": "上海和平饭店298元套餐遭吐槽",
+      "onboard_time": 1734341899,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1122445,
       "num": 1172439,
       "word": "宁波香飘飘食品有限公司破产",
@@ -283,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 939559,
-      "num": 1150329,
-      "word": "上海和平饭店298元套餐遭吐槽",
-      "onboard_time": 1734341899,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 891603,
       "num": 891603,
       "word": "特别推荐主演",
@@ -353,6 +353,14 @@
       "onboard_time": 1734257000,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 851766,
+      "num": 851766,
+      "word": "刘亦菲杨幂刘诗诗同框",
+      "onboard_time": 1734342319,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 850782,
@@ -491,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 704053,
-      "num": 704053,
-      "word": "刘亦菲杨幂刘诗诗同框",
-      "onboard_time": 1734342319,
-      "rank": 4,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 700860,
       "num": 700860,
       "word": "李行亮机场被网友追问婚姻状况",
@@ -555,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643688,
+      "num": 524634,
+      "word": "陈都灵公主切",
+      "onboard_time": 1734343880,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 642744,
       "num": 642744,
       "word": "武汉江汉路发生火灾",
@@ -569,6 +577,14 @@
       "onboard_time": 1734340218,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 637561,
+      "num": 513079,
+      "word": "刘雨昕手机丢了",
+      "onboard_time": 1734342079,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 627038,
@@ -641,6 +657,14 @@
       "onboard_time": 1734337458,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 596526,
+      "num": 509688,
+      "word": "张小斐你丝袜破了",
+      "onboard_time": 1734344061,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 593446,
@@ -955,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464086,
-      "num": 464086,
-      "word": "刘雨昕手机丢了",
-      "onboard_time": 1734342079,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 463550,
       "num": 463550,
       "word": "年近三十的我对友谊祛魅了",
@@ -977,6 +993,14 @@
       "onboard_time": 1734274520,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455971,
+      "num": 351642,
+      "word": "诗幂斯夫妇",
+      "onboard_time": 1734344480,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 442904,
@@ -1056,6 +1080,14 @@
       "word": "四川警方破获一甲醛泡毛肚案",
       "onboard_time": 1734338061,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422071,
+      "num": 422071,
+      "word": "宿迁001号退休快递员养老金4392元",
+      "onboard_time": 1734343219,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1145,6 +1177,14 @@
       "onboard_time": 1734265278,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395297,
+      "num": 502108,
+      "word": "被抱养37年女子称养父给了所有宠溺",
+      "onboard_time": 1734342141,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393941,
@@ -1252,7 +1292,7 @@
     },
     {
       "raw_hot": 357222,
-      "num": 357222,
+      "num": 389375,
       "word": "肖战工作室全平台告黑",
       "onboard_time": 1734343281,
       "rank": 16,
@@ -1320,14 +1360,6 @@
       "word": "惠英红张小斐宋佳李庚希 影后合照",
       "onboard_time": 1734340702,
       "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 338769,
-      "num": 271394,
-      "word": "陈都灵公主切",
-      "onboard_time": 1734343880,
-      "rank": 21,
       "category": "作品衍生,时尚"
     },
     {
@@ -1539,16 +1571,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295360,
-      "num": 295360,
-      "word": "宿迁001号退休快递员养老金4392元",
-      "onboard_time": 1734343219,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294529,
-      "num": 312054,
+      "num": 384062,
       "word": "九重紫",
       "onboard_time": 1734165379,
       "rank": 23,
@@ -1841,14 +1865,6 @@
       "onboard_time": 1734273801,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 243622,
-      "num": 243622,
-      "word": "张小斐你丝袜破了",
-      "onboard_time": 1734344061,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242776,
@@ -2155,6 +2171,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 206098,
+      "num": 206098,
+      "word": "月亮",
+      "onboard_time": 1734254898,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205627,
       "num": 205627,
       "word": "王大发说孟子义真的升咖了",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1734275300,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202654,
-      "num": 202654,
-      "word": "诗幂斯夫妇",
-      "onboard_time": 1734344480,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 202238,
@@ -2587,14 +2603,6 @@
       "category": "综艺,体育"
     },
     {
-      "raw_hot": 189916,
-      "num": 189916,
-      "word": "月亮",
-      "onboard_time": 1734254898,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189697,
       "num": 189697,
       "word": "昭昭墨墨圆房吻",
@@ -2649,6 +2657,14 @@
       "onboard_time": 1734338479,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187147,
+      "num": 187147,
+      "word": "虞书欣漫游阿布扎比",
+      "onboard_time": 1734345260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 187043,
@@ -2713,6 +2729,14 @@
       "onboard_time": 1734240198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183288,
+      "num": 183288,
+      "word": "清密一集两案16条人命",
+      "onboard_time": 1734344720,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 182888,
@@ -2857,6 +2881,14 @@
       "onboard_time": 1734269179,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176516,
+      "num": 176516,
+      "word": "周洁琼老公姐",
+      "onboard_time": 1734345859,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176348,
@@ -3009,14 +3041,6 @@
       "onboard_time": 1734344238,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168270,
-      "num": 502108,
-      "word": "被抱养37年女子称养父给了所有宠溺",
-      "onboard_time": 1734342141,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167743,
@@ -3339,6 +3363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 155115,
+      "num": 155115,
+      "word": "清华毕业博士县长用四国语言致辞",
+      "onboard_time": 1734344361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154706,
       "num": 154706,
       "word": "逐玉演员表番位更新",
@@ -3401,6 +3433,14 @@
       "onboard_time": 1734322521,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153220,
+      "num": 153220,
+      "word": "刀郎北京抢票",
+      "onboard_time": 1734345740,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 152928,
@@ -3481,14 +3521,6 @@
       "onboard_time": 1734220216,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150309,
-      "num": 150309,
-      "word": "清密一集两案16条人命",
-      "onboard_time": 1734344720,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 150283,
@@ -3609,6 +3641,14 @@
       "onboard_time": 1734335237,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143120,
+      "num": 523283,
+      "word": "武汉江汉区火灾致1人死亡",
+      "onboard_time": 1734345200,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 142721,
@@ -3811,20 +3851,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136431,
-      "num": 130286,
-      "word": "清华毕业博士县长用四国语言致辞",
-      "onboard_time": 1734344361,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135986,
       "num": 524027,
       "word": "老人直播间刷50万买了上百件假藏品",
       "onboard_time": 1734235459,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135891,
+      "num": 135891,
+      "word": "王一珩吃了30个猪肉酸菜饺子",
+      "onboard_time": 1734345619,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 135593,
@@ -3979,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131340,
+      "num": 277514,
+      "word": "樊振东许昕上演身在曹营心在汉",
+      "onboard_time": 1734343641,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131235,
       "num": 131235,
       "word": "陈梦马龙大火收汁",
@@ -4017,14 +4065,6 @@
       "onboard_time": 1734341840,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 129837,
-      "num": 216323,
-      "word": "樊振东许昕上演身在曹营心在汉",
-      "onboard_time": 1734343641,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 129734,
@@ -4635,6 +4675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108946,
+      "num": 134512,
+      "word": "武汉江汉路火灾官方回应",
+      "onboard_time": 1734345560,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 108409,
       "num": 108409,
       "word": "覃海洋50米蛙泳逆转夺冠",
@@ -4792,6 +4840,14 @@
       "word": "红牛杯",
       "onboard_time": 1734276020,
       "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 105125,
+      "num": 134432,
+      "word": "TheShy全明星变装秀",
+      "onboard_time": 1734345500,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -5411,6 +5467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72470,
+      "num": 519722,
+      "word": "调查发现周一工作效率最高",
+      "onboard_time": 1734345260,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 72341,
       "num": 72341,
       "word": "阿森纳vs埃弗顿",
@@ -5683,6 +5747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53340,
+      "num": 215858,
+      "word": "许魏洲 我永远是你的好朋友",
+      "onboard_time": 1734344300,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52725,
       "num": 121613,
       "word": "生气真的会诱发心梗吗",
@@ -5713,14 +5785,6 @@
       "onboard_time": 1734243978,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52106,
-      "num": 215858,
-      "word": "许魏洲 我永远是你的好朋友",
-      "onboard_time": 1734344300,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 51998,
@@ -6267,6 +6331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 28906,
+      "num": 370780,
+      "word": "网友吐槽知网收录牛皮癣式医疗软广",
+      "onboard_time": 1734344600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28888,
       "num": 41250,
       "word": "库克与特朗普共进晚餐",
@@ -6353,14 +6425,6 @@
       "onboard_time": 1734226278,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24325,
-      "num": 288346,
-      "word": "网友吐槽知网收录牛皮癣式医疗软广",
-      "onboard_time": 1734344600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23925,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734345914379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1133196,
+        "num": 1181311,
+        "word": "上海和平饭店298元套餐遭吐槽",
+        "onboard_time": 1734341899,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 851766,
+        "num": 851766,
+        "word": "刘亦菲杨幂刘诗诗同框",
+        "onboard_time": 1734342319,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48674,
+        "num": 621463,
+        "word": "跨越百年的澳门百味",
+        "onboard_time": 1734340702,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 568597,
+        "num": 568597,
+        "word": "嘉人红毯 清一色的黑",
+        "onboard_time": 1734340218,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 534286,
+        "num": 534286,
+        "word": "男子把耳机藏成100块腹肌入境",
+        "onboard_time": 1734333019,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674053,
+        "num": 532946,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 795731,
+        "num": 528767,
+        "word": "刘亦菲 一众黑白色中的金色",
+        "onboard_time": 1734340218,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643688,
+        "num": 524634,
+        "word": "陈都灵公主切",
+        "onboard_time": 1734343880,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143120,
+        "num": 523283,
+        "word": "武汉江汉区火灾致1人死亡",
+        "onboard_time": 1734345200,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 72470,
+        "num": 519722,
+        "word": "调查发现周一工作效率最高",
+        "onboard_time": 1734345260,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1490193,
+        "num": 515786,
+        "word": "K总要结婚了",
+        "onboard_time": 1734340820,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 637561,
+        "num": 513079,
+        "word": "刘雨昕手机丢了",
+        "onboard_time": 1734342079,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 596526,
+        "num": 509688,
+        "word": "张小斐你丝袜破了",
+        "onboard_time": 1734344061,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 506324,
+        "num": 506324,
+        "word": "卢昱晓杨超越撞衫",
+        "onboard_time": 1734341840,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 500641,
+        "num": 500641,
+        "word": "云南发现1例罕见恐龙血",
+        "onboard_time": 1734337458,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422071,
+        "num": 422071,
+        "word": "宿迁001号退休快递员养老金4392元",
+        "onboard_time": 1734343219,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395297,
+        "num": 395297,
+        "word": "被抱养37年女子称养父给了所有宠溺",
+        "onboard_time": 1734342141,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282733,
+        "num": 389375,
+        "word": "肖战工作室全平台告黑",
+        "onboard_time": 1734343281,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209147,
+        "num": 384062,
+        "word": "九重紫",
+        "onboard_time": 1734345141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28906,
+        "num": 370780,
+        "word": "网友吐槽知网收录牛皮癣式医疗软广",
+        "onboard_time": 1734344600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456752,
+        "num": 365032,
+        "word": "嘉人红毯",
+        "onboard_time": 1734334820,
+        "rank": 20,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 455971,
+        "num": 351642,
+        "word": "诗幂斯夫妇",
+        "onboard_time": 1734344480,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 348132,
+        "num": 348132,
+        "word": "祝绪丹发长文告别永夜星河",
+        "onboard_time": 1734342561,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307328,
+        "num": 307328,
+        "word": "余男结婚",
+        "onboard_time": 1734343580,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 277514,
+        "word": "樊振东许昕上演身在曹营心在汉",
+        "onboard_time": 1734343641,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269783,
+        "num": 269783,
+        "word": "惠英红张小斐宋佳李庚希 影后合照",
+        "onboard_time": 1734340702,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 248969,
+        "num": 248969,
+        "word": "原来串串房内部是这样的",
+        "onboard_time": 1734338660,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238958,
+        "num": 238958,
+        "word": "取消设立电视剧制作单位审批",
+        "onboard_time": 1734339140,
+        "rank": 27,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 218170,
+        "num": 218170,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734344119,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211231,
+        "num": 211231,
+        "word": "莞莞和卿要同台了",
+        "onboard_time": 1734342920,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206098,
+        "num": 206098,
+        "word": "月亮",
+        "onboard_time": 1734344780,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204556,
+        "num": 204556,
+        "word": "曝逐玉吻戏已全删",
+        "onboard_time": 1734336859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 188632,
+        "word": "四川警方破获一甲醛泡毛肚案",
+        "onboard_time": 1734338061,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187147,
+        "num": 187147,
+        "word": "虞书欣漫游阿布扎比",
+        "onboard_time": 1734345260,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183288,
+        "num": 183288,
+        "word": "清密一集两案16条人命",
+        "onboard_time": 1734344720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53340,
+        "num": 179130,
+        "word": "许魏洲 我永远是你的好朋友",
+        "onboard_time": 1734344300,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309943,
+        "num": 178198,
+        "word": "武汉江汉路发生火灾",
+        "onboard_time": 1734336498,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 176516,
+        "num": 176516,
+        "word": "周洁琼老公姐",
+        "onboard_time": 1734345859,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170911,
+        "num": 170911,
+        "word": "裤袜到底是谁发明的酷刑",
+        "onboard_time": 1734340400,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167862,
+        "num": 167862,
+        "word": "刘浩存 妈妈级别",
+        "onboard_time": 1734332058,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164665,
+        "num": 164665,
+        "word": "老板一个滚赔了16万",
+        "onboard_time": 1734331879,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155115,
+        "num": 155115,
+        "word": "清华毕业博士县长用四国语言致辞",
+        "onboard_time": 1734344361,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153220,
+        "num": 153220,
+        "word": "刀郎北京抢票",
+        "onboard_time": 1734345740,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146559,
+        "num": 146559,
+        "word": "王安宇李昀锐一个会哭一个会笑",
+        "onboard_time": 1734337160,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 146460,
+        "word": "不怪我们脸盲 素心素兰是双胞胎",
+        "onboard_time": 1734343880,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140226,
+        "num": 140226,
+        "word": "时代姐妹花重现倒红酒名场面",
+        "onboard_time": 1734339380,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 135891,
+        "word": "王一珩吃了30个猪肉酸菜饺子",
+        "onboard_time": 1734345619,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108946,
+        "num": 134512,
+        "word": "武汉江汉路火灾官方回应",
+        "onboard_time": 1734345560,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 105125,
+        "num": 134432,
+        "word": "TheShy全明星变装秀",
+        "onboard_time": 1734345500,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103860,
+        "num": 131806,
+        "word": "印度男教师上班途中遭绑架强行结婚",
+        "onboard_time": 1734328099,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入领会对经济工作的规律性认识#"
+    }
+  }
+}
