@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734305783103,
+  "endTime": 1734314104422,
   "band_list": [
     {
       "raw_hot": 2340082,
@@ -96,6 +96,14 @@
       "word": "济南大学3.5元泡面老板发声",
       "onboard_time": 1734254120,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1060723,
+      "num": 1169715,
+      "word": "妇联回应网曝12岁女孩感染HPV",
+      "onboard_time": 1734309080,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -299,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 706181,
+      "num": 706181,
+      "word": "杨幂郭采洁郭碧婷谢依霖同框",
+      "onboard_time": 1734307759,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 700860,
       "num": 700860,
       "word": "李行亮机场被网友追问婚姻状况",
@@ -379,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 583707,
+      "num": 583707,
+      "word": "网上下载公开信息发给间谍换钱",
+      "onboard_time": 1734311298,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 572760,
       "num": 572760,
       "word": "王楚钦身体原因缺席今晚比赛",
@@ -448,6 +472,14 @@
       "word": "猎罪图鉴2钉鸡头事件",
       "onboard_time": 1734264799,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 538969,
+      "num": 538969,
+      "word": "宋墨 嫋嫋你真的没有骗我",
+      "onboard_time": 1734305836,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 375308,
+      "num": 375308,
+      "word": "当我用人民币感受台湾物价",
+      "onboard_time": 1734307759,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 366932,
       "num": 365700,
       "word": "鹿晗玫瑰印花卫衣",
@@ -811,12 +851,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 325476,
+      "num": 325476,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1734307759,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325449,
       "num": 253919,
       "word": "女子称遭男按摩师触摸隐私部位",
       "onboard_time": 1734230478,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324884,
+      "num": 325923,
+      "word": "马龙用了莫雷加德庆祝动作",
+      "onboard_time": 1734307759,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 322860,
+      "num": 322860,
+      "word": "东方青苍许七安都只能找我本人",
+      "onboard_time": 1734307819,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 321897,
@@ -947,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281754,
+      "num": 281754,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281446,
       "num": 281446,
       "word": "白桃星座",
@@ -1043,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259951,
+      "num": 259951,
+      "word": "国安破获多起主动投靠境外间谍组织案",
+      "onboard_time": 1734311298,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 252551,
       "num": 302019,
       "word": "丁禹兮团综收官哭了",
@@ -1123,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236840,
+      "num": 236840,
+      "word": "李昀锐孟子义 这集真的没看过",
+      "onboard_time": 1734312798,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236310,
       "num": 236310,
       "word": "张诗尧劝学",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1734160517,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 219438,
+      "num": 219438,
+      "word": "经常运动对外貌的改变有多大",
+      "onboard_time": 1734307879,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 218918,
@@ -1379,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198041,
+      "num": 198041,
+      "word": "杜海涛十个勤天一起打沙棘",
+      "onboard_time": 1734311538,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197865,
       "num": 197865,
       "word": "网传成毅长安二十四计停拍",
@@ -1569,6 +1673,22 @@
       "onboard_time": 1734233958,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189175,
+      "num": 140967,
+      "word": "因为没有给侄子买手表她发怒了",
+      "onboard_time": 1734310999,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "恋与深空",
+      "onboard_time": 1734313458,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 188568,
@@ -1979,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156934,
+      "num": 156934,
+      "word": "美容院经理整蒙记者办先享后付",
+      "onboard_time": 1734282195,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156838,
       "num": 156838,
       "word": "李昀锐壁纸",
@@ -2057,6 +2185,14 @@
       "onboard_time": 1734213970,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152803,
+      "num": 152803,
+      "word": "翻面吻",
+      "onboard_time": 1734308779,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 151192,
@@ -2171,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142285,
+      "num": 142285,
+      "word": "鹿晗对陈赫撒娇够我学十年",
+      "onboard_time": 1734308717,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141992,
       "num": 141992,
       "word": "微博之夜推荐",
@@ -2185,6 +2329,14 @@
       "onboard_time": 1734189681,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141086,
+      "num": 141086,
+      "word": "香飘飘奶茶说还在继续绕地球",
+      "onboard_time": 1734309318,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 140959,
@@ -2251,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137736,
+      "num": 333442,
+      "word": "韩国执政党党首辞职",
+      "onboard_time": 1734313518,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137493,
       "num": 222232,
       "word": "郑思维说采访完鼻子酸酸的",
@@ -2315,12 +2475,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134953,
+      "num": 134953,
+      "word": "时代姐妹花 今夕何夕",
+      "onboard_time": 1734306377,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134644,
       "num": 134644,
       "word": "越来越多普通人不愿意贷款买房了",
       "onboard_time": 1734249619,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134487,
+      "num": 347526,
+      "word": "解放军英姿激励澳门青年25年",
+      "onboard_time": 1734311298,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 134458,
@@ -2387,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131235,
+      "num": 131235,
+      "word": "陈梦马龙大火收汁",
+      "onboard_time": 1734310639,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130877,
       "num": 130877,
       "word": "郑思维仰天大喊",
@@ -2401,6 +2585,14 @@
       "onboard_time": 1734253520,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130438,
+      "num": 130438,
+      "word": "杭州有人排队3小时买林俊杰咖啡",
+      "onboard_time": 1734312677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 130224,
@@ -2499,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126484,
+      "num": 220583,
+      "word": "极越CEO发长文道歉",
+      "onboard_time": 1734313578,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 126225,
       "num": 126225,
       "word": "王铮亮女儿首次公开登台表演",
@@ -2537,6 +2737,14 @@
       "onboard_time": 1734246377,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124461,
+      "num": 124461,
+      "word": "男子坐轮椅在高速疾驰",
+      "onboard_time": 1734313156,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124118,
@@ -2609,6 +2817,14 @@
       "onboard_time": 1734213430,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120179,
+      "num": 120179,
+      "word": "王安宇人怎么能丢这么大的脸",
+      "onboard_time": 1734306076,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 119820,
@@ -2947,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105229,
+      "num": 105229,
+      "word": "郭敬明收到时代姐妹花视频电话",
+      "onboard_time": 1734307098,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105152,
       "num": 192068,
       "word": "红牛杯",
@@ -2987,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101144,
+      "num": 101144,
+      "word": "孙颖莎带着三个保镖开心下班",
+      "onboard_time": 1734307879,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "自助烤肉儿媳妇不能吃",
@@ -3019,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98455,
+      "num": 98455,
+      "word": "电影小小的我时长131分钟",
+      "onboard_time": 1734309859,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98362,
       "num": 98362,
       "word": "电影小小的我预售开启",
@@ -3033,6 +3273,14 @@
       "onboard_time": 1734221417,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94918,
+      "num": 94918,
+      "word": "英国正式加入CPTPP",
+      "onboard_time": 1734307577,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94744,
@@ -3073,6 +3321,14 @@
       "onboard_time": 1734188181,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91867,
+      "num": 91867,
+      "word": "一国两制方针是行得通办得到得人心的",
+      "onboard_time": 1734286032,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91849,
@@ -3131,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88359,
+      "num": 88359,
+      "word": "鹿晗路透",
+      "onboard_time": 1734309500,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86232,
       "num": 86232,
       "word": "张元英首个中国封面",
@@ -3145,6 +3409,14 @@
       "onboard_time": 1734188480,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84972,
+      "num": 84972,
+      "word": "看似正常其实很伤牙的行为",
+      "onboard_time": 1734304694,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84390,
@@ -3395,12 +3667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68277,
-      "num": 152521,
-      "word": "美容院经理整蒙记者办先享后付",
-      "onboard_time": 1734282195,
+      "raw_hot": 69510,
+      "num": 330868,
+      "word": "老瓦杯亚洲队14比10世界队",
+      "onboard_time": 1734313097,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 67941,
@@ -3513,14 +3785,6 @@
       "onboard_time": 1734277938,
       "rank": 46,
       "category": "体育,电竞"
-    },
-    {
-      "raw_hot": 56274,
-      "num": 56274,
-      "word": "一国两制方针是行得通办得到得人心的",
-      "onboard_time": 1734286032,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55726,
@@ -3657,6 +3921,14 @@
       "onboard_time": 1734276141,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47811,
+      "num": 131664,
+      "word": "2025元旦购票日历",
+      "onboard_time": 1734313637,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47606,
@@ -3825,14 +4097,6 @@
       "onboard_time": 1734198256,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37978,
-      "num": 66521,
-      "word": "看似正常其实很伤牙的行为",
-      "onboard_time": 1734304694,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37676,

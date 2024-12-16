@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734305783103,
+  "endTime": 1734314104422,
   "band_list": [
     {
       "raw_hot": 1186737,
@@ -8,6 +8,14 @@
       "word": "央视曝光先享后付套路多",
       "onboard_time": 1734278059,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1060723,
+      "num": 1169715,
+      "word": "妇联回应网曝12岁女孩感染HPV",
+      "onboard_time": 1734309080,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -19,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706181,
+      "num": 706181,
+      "word": "杨幂郭采洁郭碧婷谢依霖同框",
+      "onboard_time": 1734307759,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 593446,
       "num": 593446,
       "word": "冷冷冷冷冷你冷冷冷冷冷",
@@ -27,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583707,
+      "num": 583707,
+      "word": "网上下载公开信息发给间谍换钱",
+      "onboard_time": 1734311298,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 579940,
       "num": 579940,
       "word": "宁波香飘飘食品有限公司破产",
       "onboard_time": 1734272060,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 538969,
+      "num": 538969,
+      "word": "宋墨 嫋嫋你真的没有骗我",
+      "onboard_time": 1734305836,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 536958,
@@ -75,12 +107,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 375308,
+      "num": 375308,
+      "word": "当我用人民币感受台湾物价",
+      "onboard_time": 1734307759,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 343438,
       "num": 343438,
       "word": "张家界长满了韩国人",
       "onboard_time": 1734274401,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 325476,
+      "num": 325476,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1734307759,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 324884,
+      "num": 325923,
+      "word": "马龙用了莫雷加德庆祝动作",
+      "onboard_time": 1734307759,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 322860,
+      "num": 322860,
+      "word": "东方青苍许七安都只能找我本人",
+      "onboard_time": 1734307819,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 319388,
@@ -107,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281754,
+      "num": 281754,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 281446,
       "num": 281446,
       "word": "白桃星座",
@@ -123,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259951,
+      "num": 259951,
+      "word": "国安破获多起主动投靠境外间谍组织案",
+      "onboard_time": 1734311298,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 247776,
       "num": 247776,
       "word": "1500多名军人参与韩国紧急戒严",
@@ -131,12 +211,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236840,
+      "num": 236840,
+      "word": "李昀锐孟子义 这集真的没看过",
+      "onboard_time": 1734312798,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223883,
       "num": 223883,
       "word": "马龙VS莫雷加德",
       "onboard_time": 1734278179,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219438,
+      "num": 219438,
+      "word": "经常运动对外貌的改变有多大",
+      "onboard_time": 1734307879,
+      "rank": 20,
+      "category": "运动健身"
     },
     {
       "raw_hot": 214764,
@@ -153,6 +249,30 @@
       "onboard_time": 1734277878,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198041,
+      "num": 198041,
+      "word": "杜海涛十个勤天一起打沙棘",
+      "onboard_time": 1734311538,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189175,
+      "num": 140967,
+      "word": "因为没有给侄子买手表她发怒了",
+      "onboard_time": 1734310999,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188649,
+      "num": 188649,
+      "word": "恋与深空",
+      "onboard_time": 1734313458,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 173674,
@@ -187,12 +307,44 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 156934,
+      "num": 156934,
+      "word": "美容院经理整蒙记者办先享后付",
+      "onboard_time": 1734282195,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154706,
       "num": 154706,
       "word": "逐玉演员表番位更新",
       "onboard_time": 1734281595,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152803,
+      "num": 152803,
+      "word": "翻面吻",
+      "onboard_time": 1734308779,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142285,
+      "num": 142285,
+      "word": "鹿晗对陈赫撒娇够我学十年",
+      "onboard_time": 1734308717,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141086,
+      "num": 141086,
+      "word": "香飘飘奶茶说还在继续绕地球",
+      "onboard_time": 1734309318,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 140819,
@@ -211,6 +363,46 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137736,
+      "num": 333442,
+      "word": "韩国执政党党首辞职",
+      "onboard_time": 1734313518,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 134953,
+      "num": 134953,
+      "word": "时代姐妹花 今夕何夕",
+      "onboard_time": 1734306377,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134487,
+      "num": 347526,
+      "word": "解放军英姿激励澳门青年25年",
+      "onboard_time": 1734311298,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 131235,
+      "num": 131235,
+      "word": "陈梦马龙大火收汁",
+      "onboard_time": 1734310639,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130438,
+      "num": 130438,
+      "word": "杭州有人排队3小时买林俊杰咖啡",
+      "onboard_time": 1734312677,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127943,
       "num": 127943,
       "word": "李昀锐 怎么还叫我世子呢",
@@ -225,6 +417,30 @@
       "onboard_time": 1734290352,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126484,
+      "num": 220583,
+      "word": "极越CEO发长文道歉",
+      "onboard_time": 1734313578,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 124461,
+      "num": 124461,
+      "word": "男子坐轮椅在高速疾驰",
+      "onboard_time": 1734313156,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120179,
+      "num": 120179,
+      "word": "王安宇人怎么能丢这么大的脸",
+      "onboard_time": 1734306076,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 116810,
@@ -259,12 +475,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 105229,
+      "num": 105229,
+      "word": "郭敬明收到时代姐妹花视频电话",
+      "onboard_time": 1734307098,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103043,
       "num": 103043,
       "word": "加入会员后仍跳不过广告",
       "onboard_time": 1734301632,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101144,
+      "num": 101144,
+      "word": "孙颖莎带着三个保镖开心下班",
+      "onboard_time": 1734307879,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 99140,
@@ -281,6 +513,22 @@
       "onboard_time": 1734262879,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98455,
+      "num": 98455,
+      "word": "电影小小的我时长131分钟",
+      "onboard_time": 1734309859,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 94918,
+      "num": 94918,
+      "word": "英国正式加入CPTPP",
+      "onboard_time": 1734307577,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 94476,
@@ -307,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91867,
+      "num": 91867,
+      "word": "一国两制方针是行得通办得到得人心的",
+      "onboard_time": 1734286032,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91367,
       "num": 91367,
       "word": "薛之谦鼎湖山音乐节",
@@ -323,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88359,
+      "num": 88359,
+      "word": "鹿晗路透",
+      "onboard_time": 1734309500,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87186,
       "num": 87186,
       "word": "猎罪图鉴2",
@@ -337,6 +601,14 @@
       "onboard_time": 1734274821,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84972,
+      "num": 84972,
+      "word": "看似正常其实很伤牙的行为",
+      "onboard_time": 1734304694,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83153,
@@ -435,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68277,
-      "num": 152521,
-      "word": "美容院经理整蒙记者办先享后付",
-      "onboard_time": 1734282195,
+      "raw_hot": 69510,
+      "num": 330868,
+      "word": "老瓦杯亚洲队14比10世界队",
+      "onboard_time": 1734313097,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 67996,
@@ -507,14 +779,6 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 56274,
-      "num": 56274,
-      "word": "一国两制方针是行得通办得到得人心的",
-      "onboard_time": 1734286032,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56007,
       "num": 56007,
       "word": "丁禹兮这一次就不说再见了",
@@ -537,6 +801,14 @@
       "onboard_time": 1734280037,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47811,
+      "num": 131664,
+      "word": "2025元旦购票日历",
+      "onboard_time": 1734313637,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45882,
@@ -577,14 +849,6 @@
       "onboard_time": 1734272359,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37978,
-      "num": 66521,
-      "word": "看似正常其实很伤牙的行为",
-      "onboard_time": 1734304694,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 37676,
@@ -651,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22720,
+      "num": 722618,
+      "word": "看神十九航天员在太空做实验",
+      "onboard_time": 1734249558,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22595,
       "num": 66883,
       "word": "第一次见会拉丝的纸张",
@@ -680,14 +952,6 @@
       "word": "男子低价购课遭遇套娃收费",
       "onboard_time": 1734288551,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17859,
-      "num": 617782,
-      "word": "看神十九航天员在太空做实验",
-      "onboard_time": 1734249558,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
