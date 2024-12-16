@@ -1,0 +1,410 @@
+{
+  "runTime": 1734330889872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2133193,
+        "num": 2133193,
+        "word": "12岁女孩感染HPV其17岁男友被抓",
+        "onboard_time": 1734328759,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 604045,
+        "num": 604045,
+        "word": "嘉人出图",
+        "onboard_time": 1734328339,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 44491,
+        "num": 567046,
+        "word": "好吃好看好玩的澳门好想去",
+        "onboard_time": 1734321920,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 806753,
+        "num": 565918,
+        "word": "印度男教师上班途中遭绑架强行结婚",
+        "onboard_time": 1734328099,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 532505,
+        "num": 532505,
+        "word": "张雅琪辞职",
+        "onboard_time": 1734329720,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 772134,
+        "num": 522269,
+        "word": "韩国",
+        "onboard_time": 1734319998,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510072,
+        "num": 510072,
+        "word": "安徽监狱回应李铁可否在里面踢球",
+        "onboard_time": 1734322999,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431670,
+        "num": 431670,
+        "word": "官方通报12岁女孩感染HPV",
+        "onboard_time": 1734328879,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 414529,
+        "num": 414529,
+        "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
+        "onboard_time": 1734321499,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386771,
+        "num": 386771,
+        "word": "肖战歌曲与澳门的适配度",
+        "onboard_time": 1734327918,
+        "rank": 9,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 789900,
+        "num": 379772,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 656584,
+        "num": 361046,
+        "word": "已婚主播拒绝暧昧聊天被解约",
+        "onboard_time": 1734326120,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291545,
+        "num": 291545,
+        "word": "宋慧乔状态太好了",
+        "onboard_time": 1734328279,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 288468,
+        "num": 288468,
+        "word": "迪丽热巴周一放饭了",
+        "onboard_time": 1734326719,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263221,
+        "num": 263221,
+        "word": "克莉丝汀确定退市",
+        "onboard_time": 1734328579,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256138,
+        "num": 256138,
+        "word": "卖课直播用1.9元勾引人花8800元",
+        "onboard_time": 1734321980,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204366,
+        "num": 220015,
+        "word": "蔡徐坤再刷billboard",
+        "onboard_time": 1734327079,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211223,
+        "num": 211223,
+        "word": "第一批逃去大理的人已经去昆明了",
+        "onboard_time": 1734321859,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23676,
+        "num": 211188,
+        "word": "微博跨年狂欢节预约开启",
+        "onboard_time": 1734328339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124921,
+        "num": 211012,
+        "word": "王楚钦高举双拳庆祝",
+        "onboard_time": 1734330319,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25512,
+        "num": 210988,
+        "word": "李现马伊琍同款氛围感",
+        "onboard_time": 1734326421,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 744771,
+        "num": 210861,
+        "word": "工资貌似真的回到3500元的时代了",
+        "onboard_time": 1734321499,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 528465,
+        "num": 210685,
+        "word": "刘耀文灯牌",
+        "onboard_time": 1734325578,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199150,
+        "num": 210604,
+        "word": "宋墨的白发 李昀锐的黑丝",
+        "onboard_time": 1734326959,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104510,
+        "num": 210516,
+        "word": "奇迹暖暖",
+        "onboard_time": 1734330798,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 255996,
+        "num": 210364,
+        "word": "何鸿燊和儿子何猷君下象棋一盘不让",
+        "onboard_time": 1734324799,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116020,
+        "num": 210327,
+        "word": "韩剧拍摄手法和王子变青蛙一模一样",
+        "onboard_time": 1734328939,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18883,
+        "num": 210185,
+        "word": "考研难还是高考难",
+        "onboard_time": 1734330438,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225013,
+        "num": 210106,
+        "word": "才知道洗头到吹头发都是有技巧的",
+        "onboard_time": 1734327740,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 41211,
+        "num": 209909,
+        "word": "上交所要求券商对两融客户交易自查",
+        "onboard_time": 1734330141,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215707,
+        "num": 209819,
+        "word": "一克黄金到底有多大",
+        "onboard_time": 1734323901,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209774,
+        "num": 209774,
+        "word": "大学生撞脸张若昀身高体重也相同",
+        "onboard_time": 1734327679,
+        "rank": 31,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 208766,
+        "num": 208766,
+        "word": "嘉人 飞行员主题",
+        "onboard_time": 1734328999,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 166256,
+        "num": 166256,
+        "word": "王鹤棣新歌歌词",
+        "onboard_time": 1734305776,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159772,
+        "num": 159772,
+        "word": "警犬退役到普通人家如何生活",
+        "onboard_time": 1734327319,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156732,
+        "num": 156732,
+        "word": "刘亦菲和陈金飞酒店聚餐",
+        "onboard_time": 1734314116,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100790,
+        "num": 151405,
+        "word": "绝区零伊芙琳",
+        "onboard_time": 1734330739,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148134,
+        "num": 148134,
+        "word": "张艺兴 因为我奋斗啊",
+        "onboard_time": 1734327559,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152040,
+        "num": 147973,
+        "word": "王鹤棣免费专辑",
+        "onboard_time": 1734328579,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144566,
+        "num": 144566,
+        "word": "DNA音乐节",
+        "onboard_time": 1734327859,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139648,
+        "num": 139648,
+        "word": "郑合惠子短发",
+        "onboard_time": 1734330678,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89997,
+        "num": 137064,
+        "word": "勇士27记三分",
+        "onboard_time": 1734325642,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21740,
+        "num": 132166,
+        "word": "春和和他的朋友们",
+        "onboard_time": 1734328939,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54834,
+        "num": 128369,
+        "word": "杨幂湖南卫视跨年官宣加盟",
+        "onboard_time": 1734322880,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6490,
+        "num": 123886,
+        "word": "现在吃饺子不止包馅还包黄金",
+        "onboard_time": 1734330739,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123686,
+        "num": 123686,
+        "word": "董明珠爆小米空调专利侵权赔了50万",
+        "onboard_time": 1734315617,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114369,
+        "num": 114369,
+        "word": "极越CEO发长文道歉",
+        "onboard_time": 1734313578,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 113674,
+        "num": 113674,
+        "word": "宋墨 嫋嫋你真的没有骗我",
+        "onboard_time": 1734305836,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114762,
+        "num": 113624,
+        "word": "杨幂郭采洁郭碧婷谢依霖同框",
+        "onboard_time": 1734307759,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44887,
+        "num": 113482,
+        "word": "印度男教师遭持枪绑架被强迫结婚",
+        "onboard_time": 1734328879,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门这朵祖国的美丽莲花必将更绚丽#"
+    }
+  }
+}
