@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734367633497,
+  "endTime": 1734369611607,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -1851,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307815,
+      "num": 307815,
+      "word": "湖北一教师被捕兽电网电击身亡",
+      "onboard_time": 1734364579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307679,
       "num": 307679,
       "word": "孙颖莎退场时被现场球迷表白",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1734353900,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 235655,
-      "num": 235655,
-      "word": "湖北一教师被捕兽电网电击身亡",
-      "onboard_time": 1734364579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234405,
@@ -3931,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160318,
+      "num": 371813,
+      "word": "家暴受害人起诉离婚需45天冷静期",
+      "onboard_time": 1734362601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160149,
       "num": 160149,
       "word": "早睡其实什么都不会失去",
@@ -4409,14 +4417,6 @@
       "onboard_time": 1734308717,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142198,
-      "num": 371813,
-      "word": "家暴受害人起诉离婚需45天冷静期",
-      "onboard_time": 1734362601,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142015,
@@ -5001,6 +5001,14 @@
       "onboard_time": 1734331820,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 123548,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123402,
@@ -5713,6 +5721,14 @@
       "onboard_time": 1734343641,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101409,
+      "num": 93465,
+      "word": "秦新宇 妈生鼻回家",
+      "onboard_time": 1734366857,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 101144,
@@ -6627,6 +6643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61387,
+      "num": 61387,
+      "word": "兵马俑二号坑首次发现高级军吏俑",
+      "onboard_time": 1734367694,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60728,
       "num": 191486,
       "word": "廖桂芳包揽抓举挺举总成绩3金",
@@ -7107,20 +7131,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 39611,
+      "num": 52588,
+      "word": "娜然 海带精",
+      "onboard_time": 1734369494,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39452,
       "num": 154981,
       "word": "周扬青百万繁星夜宴",
       "onboard_time": 1734318016,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 39343,
-      "num": 93465,
-      "word": "秦新宇 妈生鼻回家",
-      "onboard_time": 1734366857,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 39182,
@@ -7531,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23861,
+      "num": 52819,
+      "word": "钎城守约露头就秒",
+      "onboard_time": 1734363379,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 23797,
       "num": 23797,
       "word": "宋亚轩在现在就出发的第一次",
@@ -7927,6 +7959,14 @@
       "num": 215034,
       "word": "贾一凡回忆里不一样的凡晨",
       "onboard_time": 1734352881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12464,
+      "num": 68590,
+      "word": "FIFA年度颁奖典礼明日举行",
+      "onboard_time": 1734367816,
       "rank": 24,
       "category": "体育"
     },

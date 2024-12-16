@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734367633497,
+  "endTime": 1734369611607,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307815,
+      "num": 307815,
+      "word": "湖北一教师被捕兽电网电击身亡",
+      "onboard_time": 1734364579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284749,
       "num": 284749,
       "word": "樊振东3比1胜王楚钦",
@@ -129,14 +137,6 @@
       "onboard_time": 1734319998,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 235655,
-      "num": 235655,
-      "word": "湖北一教师被捕兽电网电击身亡",
-      "onboard_time": 1734364579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206974,
@@ -195,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160318,
+      "num": 160318,
+      "word": "家暴受害人起诉离婚需45天冷静期",
+      "onboard_time": 1734362601,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158939,
       "num": 143712,
       "word": "猎罪图鉴2断更",
@@ -211,14 +219,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142198,
-      "num": 142198,
-      "word": "家暴受害人起诉离婚需45天冷静期",
-      "onboard_time": 1734362601,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "李昀锐十秒三次转头看孟子义",
@@ -233,6 +233,14 @@
       "onboard_time": 1734361161,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 123548,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123402,
@@ -265,6 +273,14 @@
       "onboard_time": 1734360740,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101409,
+      "num": 93465,
+      "word": "秦新宇 妈生鼻回家",
+      "onboard_time": 1734366857,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 91800,
@@ -371,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65335,
+      "num": 65335,
+      "word": "杨幂 性感辣妹",
+      "onboard_time": 1734346339,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63669,
       "num": 72426,
       "word": "戚薇从嘉人晚宴逃出来直播",
       "onboard_time": 1734359301,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 61387,
+      "num": 61387,
+      "word": "兵马俑二号坑首次发现高级军吏俑",
+      "onboard_time": 1734367694,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61236,
@@ -411,12 +443,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39343,
-      "num": 93465,
-      "word": "秦新宇 妈生鼻回家",
-      "onboard_time": 1734366857,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 41419,
+      "num": 52684,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1734347240,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41390,
+      "num": 52630,
+      "word": "樊振东3比0胜周启豪",
+      "onboard_time": 1734355880,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39611,
+      "num": 52588,
+      "word": "娜然 海带精",
+      "onboard_time": 1734369494,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 37489,
@@ -433,6 +481,22 @@
       "onboard_time": 1734360620,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 23861,
+      "num": 52819,
+      "word": "钎城守约露头就秒",
+      "onboard_time": 1734363379,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 12464,
+      "num": 68590,
+      "word": "FIFA年度颁奖典礼明日举行",
+      "onboard_time": 1734367816,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
