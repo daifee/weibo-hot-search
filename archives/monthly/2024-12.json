@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734330889872,
+  "endTime": 1734331728522,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -273,6 +273,14 @@
       "onboard_time": 1733713878,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3105990,
+      "num": 3105990,
+      "word": "12岁女孩感染HPV其17岁男友被抓",
+      "onboard_time": 1734328759,
+      "rank": 0,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 3099540,
@@ -601,14 +609,6 @@
       "onboard_time": 1733815099,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2133193,
-      "num": 2133193,
-      "word": "12岁女孩感染HPV其17岁男友被抓",
-      "onboard_time": 1734328759,
-      "rank": 0,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 2125564,
@@ -4540,7 +4540,7 @@
     },
     {
       "raw_hot": 806753,
-      "num": 565918,
+      "num": 726656,
       "word": "印度男教师上班途中遭绑架强行结婚",
       "onboard_time": 1734328099,
       "rank": 3,
@@ -5019,6 +5019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 753574,
+      "num": 753574,
+      "word": "张雅琪辞职",
+      "onboard_time": 1734329720,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 750967,
       "num": 352125,
       "word": "鹿晗四天跑三次8公里",
@@ -5329,6 +5337,14 @@
       "onboard_time": 1733552298,
       "rank": 8,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 722927,
+      "num": 722927,
+      "word": "嘉人出图",
+      "onboard_time": 1734328339,
+      "rank": 1,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 722635,
@@ -6124,7 +6140,7 @@
     },
     {
       "raw_hot": 656584,
-      "num": 361046,
+      "num": 389627,
       "word": "已婚主播拒绝暧昧聊天被解约",
       "onboard_time": 1734326120,
       "rank": 49,
@@ -6835,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608071,
+      "num": 608071,
+      "word": "官方通报12岁女孩感染HPV",
+      "onboard_time": 1734328879,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 607825,
       "num": 363764,
       "word": "王曼昱好帅",
@@ -6897,14 +6921,6 @@
       "onboard_time": 1733148142,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 604045,
-      "num": 604045,
-      "word": "嘉人出图",
-      "onboard_time": 1734328339,
-      "rank": 1,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 602561,
@@ -8265,14 +8281,6 @@
       "onboard_time": 1733395640,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 532505,
-      "num": 532505,
-      "word": "张雅琪辞职",
-      "onboard_time": 1734329720,
-      "rank": 4,
-      "category": "网红"
     },
     {
       "raw_hot": 531854,
@@ -10571,14 +10579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431670,
-      "num": 431670,
-      "word": "官方通报12岁女孩感染HPV",
-      "onboard_time": 1734328879,
-      "rank": 7,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 431217,
       "num": 504609,
       "word": "韩国年轻人涌向中国过周末",
@@ -11828,7 +11828,7 @@
     },
     {
       "raw_hot": 386771,
-      "num": 386771,
+      "num": 495087,
       "word": "肖战歌曲与澳门的适配度",
       "onboard_time": 1734327918,
       "rank": 9,
@@ -12177,6 +12177,14 @@
       "onboard_time": 1733235865,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 375526,
+      "num": 375526,
+      "word": "克莉丝汀确定退市",
+      "onboard_time": 1734328579,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 375366,
@@ -15787,6 +15795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 282543,
+      "num": 210106,
+      "word": "才知道洗头到吹头发都是有技巧的",
+      "onboard_time": 1734327740,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 282473,
       "num": 282473,
       "word": "俄不能接受叙利亚被恐怖组织控制",
@@ -16715,14 +16731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 263221,
-      "num": 263221,
-      "word": "克莉丝汀确定退市",
-      "onboard_time": 1734328579,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 263006,
       "num": 353986,
       "word": "留几手拿葛夕的抑郁药装成是他的",
@@ -16809,6 +16817,14 @@
       "onboard_time": 1733464520,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261892,
+      "num": 396924,
+      "word": "HPV",
+      "onboard_time": 1734330918,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 261730,
@@ -19427,12 +19443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225013,
-      "num": 210106,
-      "word": "才知道洗头到吹头发都是有技巧的",
-      "onboard_time": 1734327740,
-      "rank": 28,
-      "category": "美妆"
+      "raw_hot": 224981,
+      "num": 224981,
+      "word": "宋墨的白发 李昀锐的黑丝",
+      "onboard_time": 1734326959,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 224735,
@@ -19649,6 +19665,14 @@
       "onboard_time": 1734017779,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222706,
+      "num": 222706,
+      "word": "嘉人 飞行员主题",
+      "onboard_time": 1734328999,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 222682,
@@ -20945,14 +20969,6 @@
       "onboard_time": 1733987720,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208766,
-      "num": 208766,
-      "word": "嘉人 飞行员主题",
-      "onboard_time": 1734328999,
-      "rank": 32,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 208716,
@@ -22363,14 +22379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199150,
-      "num": 210604,
-      "word": "宋墨的白发 李昀锐的黑丝",
-      "onboard_time": 1734326959,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199063,
       "num": 168167,
       "word": "金智秀新乌托邦剧照",
@@ -22697,6 +22705,14 @@
       "onboard_time": 1733983881,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197721,
+      "num": 211012,
+      "word": "王楚钦高举双拳庆祝",
+      "onboard_time": 1734330319,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 197712,
@@ -25963,6 +25979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180160,
+      "num": 267266,
+      "word": "警犬退役到普通人家如何生活",
+      "onboard_time": 1734327319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180086,
       "num": 210234,
       "word": "叙军防空导弹阵地空无一人导弹完好",
@@ -27187,6 +27211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172014,
+      "num": 172014,
+      "word": "郑合惠子短发",
+      "onboard_time": 1734330678,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171967,
       "num": 171967,
       "word": "黑龙江一检察长被曝嫖娼被抓",
@@ -28083,6 +28115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167193,
+      "num": 171227,
+      "word": "鞠婧祎复古摩登女郎",
+      "onboard_time": 1734331518,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167166,
       "num": 167166,
       "word": "训实习生发现自己是公司唯一的外人",
@@ -28657,6 +28697,14 @@
       "onboard_time": 1733620038,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164529,
+      "num": 171310,
+      "word": "曾舜晞原始帧给我看爽了",
+      "onboard_time": 1734330918,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 164525,
@@ -29417,14 +29465,6 @@
       "onboard_time": 1733880859,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159772,
-      "num": 267266,
-      "word": "警犬退役到普通人家如何生活",
-      "onboard_time": 1734327319,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159770,
@@ -32971,6 +33011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142387,
+      "num": 142387,
+      "word": "原来这就是传说中的呦呦鹿鸣",
+      "onboard_time": 1734331099,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142285,
       "num": 142285,
       "word": "鹿晗对陈赫撒娇够我学十年",
@@ -33539,14 +33587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139648,
-      "num": 139648,
-      "word": "郑合惠子短发",
-      "onboard_time": 1734330678,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 139644,
       "num": 139644,
       "word": "尊界S800工信部公示",
@@ -33593,6 +33633,14 @@
       "onboard_time": 1733724018,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139506,
+      "num": 139506,
+      "word": "半个月后就是2025了",
+      "onboard_time": 1734331217,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139492,
@@ -35443,6 +35491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129107,
+      "num": 129107,
+      "word": "檀健次说猎鉴第二季沈翊像老虎",
+      "onboard_time": 1734328339,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128988,
       "num": 1831901,
       "word": "文化中国行看ChinaTravel有多火",
@@ -36160,14 +36216,6 @@
       "word": "樊振东林诗栋高手过招好精彩",
       "onboard_time": 1734192800,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124921,
-      "num": 211012,
-      "word": "王楚钦高举双拳庆祝",
-      "onboard_time": 1734330319,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -38419,6 +38467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110980,
+      "num": 210516,
+      "word": "奇迹暖暖",
+      "onboard_time": 1734330798,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110854,
       "num": 110854,
       "word": "窦昭垂耳兔",
@@ -38617,6 +38673,14 @@
       "onboard_time": 1734152479,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109301,
+      "num": 171898,
+      "word": "绝区零伊芙琳",
+      "onboard_time": 1734330739,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 109232,
@@ -39371,14 +39435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 104510,
-      "num": 210516,
-      "word": "奇迹暖暖",
-      "onboard_time": 1734330798,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 104429,
       "num": 104429,
       "word": "SK卡卡",
@@ -39865,14 +39921,6 @@
       "onboard_time": 1733468541,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100790,
-      "num": 151405,
-      "word": "绝区零伊芙琳",
-      "onboard_time": 1734330739,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 100747,
@@ -43347,6 +43395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74299,
+      "num": 171754,
+      "word": "三成投资者认为A股牛市还在",
+      "onboard_time": 1734331040,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74150,
       "num": 326606,
       "word": "女生拿国旗迎接马龙反手掏礼物",
@@ -44299,6 +44355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67640,
+      "num": 210185,
+      "word": "考研难还是高考难",
+      "onboard_time": 1734330438,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 67638,
       "num": 303652,
       "word": "我们为什么爱看八九十年代剧",
@@ -44657,6 +44721,14 @@
       "onboard_time": 1733182457,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65389,
+      "num": 171555,
+      "word": "很多癌症和感染有关",
+      "onboard_time": 1734331579,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 65366,
@@ -51371,6 +51443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28976,
+      "num": 210988,
+      "word": "李现马伊琍同款氛围感",
+      "onboard_time": 1734326421,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 28888,
       "num": 41250,
       "word": "库克与特朗普共进晚餐",
@@ -51867,6 +51947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26079,
+      "num": 171701,
+      "word": "春和和他的朋友们",
+      "onboard_time": 1734328939,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26065,
       "num": 562383,
       "word": "香奈儿褶饰坊秀场look",
@@ -51881,6 +51969,14 @@
       "onboard_time": 1732991713,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26037,
+      "num": 211188,
+      "word": "微博跨年狂欢节预约开启",
+      "onboard_time": 1734328339,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 26031,
@@ -51985,14 +52081,6 @@
       "onboard_time": 1733380161,
       "rank": 41,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 25512,
-      "num": 210988,
-      "word": "李现马伊琍同款氛围感",
-      "onboard_time": 1734326421,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25485,
@@ -52355,14 +52443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23676,
-      "num": 211188,
-      "word": "微博跨年狂欢节预约开启",
-      "onboard_time": 1734328339,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 23659,
       "num": 152896,
       "word": "向佐抽象语音包",
@@ -52393,6 +52473,14 @@
       "onboard_time": 1733494581,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23331,
+      "num": 171616,
+      "word": "大笨狗 切换自如",
+      "onboard_time": 1734331640,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 23321,
@@ -52753,14 +52841,6 @@
       "onboard_time": 1733398760,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 21740,
-      "num": 132166,
-      "word": "春和和他的朋友们",
-      "onboard_time": 1734328939,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 21667,
@@ -53283,14 +53363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18883,
-      "num": 210185,
-      "word": "考研难还是高考难",
-      "onboard_time": 1734330438,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 18867,
       "num": 287755,
       "word": "万茜联手华为MateX6能有多全能",
@@ -53721,6 +53793,14 @@
       "onboard_time": 1733382799,
       "rank": 22,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 17110,
+      "num": 149452,
+      "word": "现在吃饺子不止包馅还包黄金",
+      "onboard_time": 1734330739,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17073,
@@ -55801,14 +55881,6 @@
       "onboard_time": 1733956333,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 6490,
-      "num": 123886,
-      "word": "现在吃饺子不止包馅还包黄金",
-      "onboard_time": 1734330739,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6460,
