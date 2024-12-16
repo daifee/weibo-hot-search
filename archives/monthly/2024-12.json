@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734337982943,
+  "endTime": 1734338780695,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2115,6 +2115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1257549,
+      "num": 1257549,
+      "word": "江汉路",
+      "onboard_time": 1734335479,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1252543,
       "num": 1252543,
       "word": "澳大利亚一实验室323瓶活病毒下落不明",
@@ -3203,14 +3211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 997387,
-      "num": 997387,
-      "word": "江汉路",
-      "onboard_time": 1734335479,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 996017,
       "num": 996017,
       "word": "徐艺洋追星成功",
@@ -3856,6 +3856,14 @@
       "word": "特别推荐主演",
       "onboard_time": 1734321259,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 890583,
+      "num": 890583,
+      "word": "曝逐玉吻戏已全删",
+      "onboard_time": 1734336859,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -6035,14 +6043,6 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 668812,
-      "num": 668812,
-      "word": "曝逐玉吻戏已全删",
-      "onboard_time": 1734336859,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 668748,
       "num": 632510,
       "word": "韩剧为怀孕演员改剧本",
@@ -6601,6 +6601,14 @@
       "onboard_time": 1733449578,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 627038,
+      "num": 627038,
+      "word": "倪萍回应被质疑整容",
+      "onboard_time": 1734336259,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 625834,
@@ -8769,6 +8777,14 @@
       "onboard_time": 1733886140,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 511212,
+      "num": 380910,
+      "word": "张凌赫田曦薇对接回应逐玉番位",
+      "onboard_time": 1734336079,
+      "rank": 20,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 509946,
@@ -12035,14 +12051,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 382555,
-      "num": 382555,
-      "word": "倪萍回应被质疑整容",
-      "onboard_time": 1734336259,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 382122,
       "num": 484833,
       "word": "广东人搞副业热情全国最高",
@@ -12305,14 +12313,6 @@
       "onboard_time": 1734171800,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374693,
-      "num": 374693,
-      "word": "张凌赫田曦薇对接回应逐玉番位",
-      "onboard_time": 1734336079,
-      "rank": 20,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 374478,
@@ -12680,6 +12680,14 @@
       "word": "闫桉 人怎么能这么可怜又好笑",
       "onboard_time": 1734331938,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362520,
+      "num": 362520,
+      "word": "王安宇李昀锐一个会哭一个会笑",
+      "onboard_time": 1734337160,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -13233,6 +13241,14 @@
       "onboard_time": 1733383938,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 346474,
+      "num": 588263,
+      "word": "武汉江汉路发生火灾",
+      "onboard_time": 1734336498,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 346453,
@@ -14467,6 +14483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316005,
+      "num": 316005,
+      "word": "郑成灿大吧",
+      "onboard_time": 1734337879,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315581,
       "num": 376545,
       "word": "六公主悼念琼瑶",
@@ -14625,14 +14649,6 @@
       "onboard_time": 1733308043,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 311342,
-      "num": 588263,
-      "word": "武汉江汉路发生火灾",
-      "onboard_time": 1734336498,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 311068,
@@ -16051,6 +16067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280367,
+      "num": 280367,
+      "word": "云南发现1例罕见恐龙血",
+      "onboard_time": 1734337458,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280221,
       "num": 280221,
       "word": "香港4胞胎家庭月租60000的房子",
@@ -16619,6 +16643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268158,
+      "num": 268158,
+      "word": "闫桉突发高烧",
+      "onboard_time": 1734337879,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268011,
       "num": 591136,
       "word": "韩国国会未通过尹锡悦弹劾案",
@@ -17105,14 +17137,6 @@
       "onboard_time": 1734137538,
       "rank": 14,
       "category": "剧集,读书作家"
-    },
-    {
-      "raw_hot": 258704,
-      "num": 358931,
-      "word": "王安宇李昀锐一个会哭一个会笑",
-      "onboard_time": 1734337160,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 258438,
@@ -19995,6 +20019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220520,
+      "num": 384280,
+      "word": "山西省政协主席吴存荣被查",
+      "onboard_time": 1734337701,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 220428,
       "num": 691675,
       "word": "十个勤天全员加盟2024尖叫之夜",
@@ -22395,14 +22427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200389,
-      "num": 200389,
-      "word": "云南发现1例罕见恐龙血",
-      "onboard_time": 1734337458,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200368,
       "num": 173374,
       "word": "赵今麦宋威龙韩剧氛围感",
@@ -23216,6 +23240,14 @@
       "word": "大侦探假期超前篇",
       "onboard_time": 1733815399,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195682,
+      "num": 195682,
+      "word": "四郎 你的白月光回来了",
+      "onboard_time": 1734337638,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -24907,14 +24939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187881,
-      "num": 187881,
-      "word": "四郎 你的白月光回来了",
-      "onboard_time": 1734337638,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187737,
       "num": 245710,
       "word": "因果报应 穿运动鞋观影",
@@ -25041,6 +25065,14 @@
       "onboard_time": 1733382379,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187317,
+      "num": 187317,
+      "word": "赞多抽烟镜头",
+      "onboard_time": 1734338479,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 187286,
@@ -25707,6 +25739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182845,
+      "num": 476487,
+      "word": "3人用甲醛泡毛肚被抓",
+      "onboard_time": 1734336199,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182844,
       "num": 182844,
       "word": "王昶今日打卡6000",
@@ -25937,14 +25977,6 @@
       "onboard_time": 1733148142,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 181214,
-      "num": 476487,
-      "word": "3人用甲醛泡毛肚被抓",
-      "onboard_time": 1734336199,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181047,
@@ -27947,6 +27979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169329,
+      "num": 169329,
+      "word": "女子假扮保安混入演唱会被查获",
+      "onboard_time": 1734334820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169300,
       "num": 313921,
       "word": "樊振东将迎乒超首秀",
@@ -28081,14 +28121,6 @@
       "onboard_time": 1733228660,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 168536,
-      "num": 168536,
-      "word": "山西省政协主席吴存荣被查",
-      "onboard_time": 1734337701,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 168512,
@@ -28825,6 +28857,14 @@
       "onboard_time": 1733396120,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164893,
+      "num": 164893,
+      "word": "四川警方破获一甲醛泡毛肚案",
+      "onboard_time": 1734338061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164873,
@@ -29833,6 +29873,14 @@
       "onboard_time": 1734010760,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159280,
+      "num": 159280,
+      "word": "这才是毛衣的正确叠法",
+      "onboard_time": 1734336498,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 159248,
@@ -31563,14 +31611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151279,
-      "num": 151279,
-      "word": "闫桉突发高烧",
-      "onboard_time": 1734337879,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151192,
       "num": 151192,
       "word": "赵晓卉想打电视剧里的车赶飞机",
@@ -31649,14 +31689,6 @@
       "onboard_time": 1733229800,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150911,
-      "num": 150911,
-      "word": "郑成灿大吧",
-      "onboard_time": 1734337879,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 150845,
@@ -31841,14 +31873,6 @@
       "onboard_time": 1733065459,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150085,
-      "num": 150085,
-      "word": "女子假扮保安混入演唱会被查获",
-      "onboard_time": 1734334820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150080,
@@ -33091,6 +33115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143341,
+      "num": 285763,
+      "word": "王楚钦被叫王慢慢是有原因的",
+      "onboard_time": 1734335237,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143308,
       "num": 143308,
       "word": "冰雪大世界给小土豆建暖廊",
@@ -33113,6 +33145,14 @@
       "onboard_time": 1734100759,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143083,
+      "num": 143083,
+      "word": "原来串串房内部是这样的",
+      "onboard_time": 1734338660,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 143079,
@@ -33289,6 +33329,14 @@
       "onboard_time": 1734331099,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142334,
+      "num": 142334,
+      "word": "王者貂蝉嫦娥皮肤优化",
+      "onboard_time": 1734337458,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 142285,
@@ -35179,6 +35227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "惠英红红毯脱大衣",
+      "onboard_time": 1734338660,
+      "rank": 45,
+      "category": "作品衍生,作品衍生"
+    },
+    {
       "raw_hot": 132746,
       "num": 319603,
       "word": "长沙步行街商贩卖气球被人挨个弄破",
@@ -35273,14 +35329,6 @@
       "onboard_time": 1733922440,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 132255,
-      "num": 277504,
-      "word": "王楚钦被叫王慢慢是有原因的",
-      "onboard_time": 1734335237,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 132147,
@@ -35992,6 +36040,14 @@
       "word": "白鹿给翟子路的见面礼是撕名牌",
       "onboard_time": 1733533040,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127555,
+      "num": 127555,
+      "word": "徐明浩说缺席seventeen聚会要罚款",
+      "onboard_time": 1734338479,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -38307,6 +38363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114003,
+      "num": 319872,
+      "word": "aespa泡泡禁令解除",
+      "onboard_time": 1734335358,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114002,
       "num": 198306,
       "word": "莎头配合好丝滑",
@@ -39569,14 +39633,6 @@
       "onboard_time": 1733413219,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105628,
-      "num": 268078,
-      "word": "aespa泡泡禁令解除",
-      "onboard_time": 1734335358,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 105613,
@@ -47779,6 +47835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47564,
+      "num": 441862,
+      "word": "刷酸烂脸的几大特征",
+      "onboard_time": 1734336019,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47501,
       "num": 1362969,
       "word": "天宫画展又双叒上新了",
@@ -51035,14 +51099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32203,
-      "num": 441862,
-      "word": "刷酸烂脸的几大特征",
-      "onboard_time": 1734336019,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 32169,
       "num": 37885,
       "word": "王安宇拉着金晨撒娇",
@@ -52177,6 +52233,14 @@
       "onboard_time": 1733337852,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26906,
+      "num": 328884,
+      "word": "大多数HPV感染都是一过性的",
+      "onboard_time": 1734338179,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26871,
@@ -54883,6 +54947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14499,
+      "num": 221330,
+      "word": "为了它澳门值得一去再去",
+      "onboard_time": 1734338179,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14450,
       "num": 20182,
       "word": "广东宣布入秋",
@@ -55387,6 +55459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12431,
+      "num": 375516,
+      "word": "家人说但拓和江奇霖很像",
+      "onboard_time": 1734337879,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12346,
       "num": 102121,
       "word": "高空跳伞是什么感觉",
@@ -55769,14 +55849,6 @@
       "onboard_time": 1733684472,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9487,
-      "num": 375516,
-      "word": "家人说但拓和江奇霖很像",
-      "onboard_time": 1734337879,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 9408,

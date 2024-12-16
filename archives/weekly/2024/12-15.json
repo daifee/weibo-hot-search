@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734337982943,
+  "endTime": 1734338780695,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -105,6 +105,14 @@
       "onboard_time": 1734266360,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1257549,
+      "num": 1257549,
+      "word": "江汉路",
+      "onboard_time": 1734335479,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1233248,
@@ -219,14 +227,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 997387,
-      "num": 997387,
-      "word": "江汉路",
-      "onboard_time": 1734335479,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 987613,
       "num": 1158018,
       "word": "王楚钦疑似身体不适",
@@ -264,6 +264,14 @@
       "word": "特别推荐主演",
       "onboard_time": 1734321259,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 890583,
+      "num": 890583,
+      "word": "曝逐玉吻戏已全删",
+      "onboard_time": 1734336859,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -467,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 668812,
-      "num": 668812,
-      "word": "曝逐玉吻戏已全删",
-      "onboard_time": 1734336859,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 667511,
       "num": 667511,
       "word": "小伙吃槟榔8年吃成方块脸",
@@ -505,6 +505,14 @@
       "onboard_time": 1734240799,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 627038,
+      "num": 627038,
+      "word": "倪萍回应被质疑整容",
+      "onboard_time": 1734336259,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 619233,
@@ -753,6 +761,14 @@
       "onboard_time": 1734227718,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511212,
+      "num": 380910,
+      "word": "张凌赫田曦薇对接回应逐玉番位",
+      "onboard_time": 1734336079,
+      "rank": 20,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 508733,
@@ -1035,14 +1051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 382555,
-      "num": 382555,
-      "word": "倪萍回应被质疑整容",
-      "onboard_time": 1734336259,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 381982,
       "num": 381982,
       "word": "嘉人微博编辑5次",
@@ -1091,14 +1099,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 374693,
-      "num": 374693,
-      "word": "张凌赫田曦薇对接回应逐玉番位",
-      "onboard_time": 1734336079,
-      "rank": 20,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 366932,
       "num": 365700,
       "word": "鹿晗玫瑰印花卫衣",
@@ -1112,6 +1112,14 @@
       "word": "闫桉 人怎么能这么可怜又好笑",
       "onboard_time": 1734331938,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362520,
+      "num": 362520,
+      "word": "王安宇李昀锐一个会哭一个会笑",
+      "onboard_time": 1734337160,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1153,6 +1161,14 @@
       "onboard_time": 1734246319,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 346474,
+      "num": 588263,
+      "word": "武汉江汉路发生火灾",
+      "onboard_time": 1734336498,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 345320,
@@ -1291,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316005,
+      "num": 316005,
+      "word": "郑成灿大吧",
+      "onboard_time": 1734337879,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313483,
       "num": 313483,
       "word": "贾跃亭说再还七八亿就可以回国",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1734235818,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311342,
-      "num": 588263,
-      "word": "武汉江汉路发生火灾",
-      "onboard_time": 1734336498,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 309464,
@@ -1467,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280367,
+      "num": 280367,
+      "word": "云南发现1例罕见恐龙血",
+      "onboard_time": 1734337458,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279117,
       "num": 279117,
       "word": "张元英 sense高定首封",
@@ -1531,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268158,
+      "num": 268158,
+      "word": "闫桉突发高烧",
+      "onboard_time": 1734337879,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267536,
       "num": 336172,
       "word": "石宇奇总决赛夺冠",
@@ -1585,14 +1617,6 @@
       "onboard_time": 1734311298,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 258704,
-      "num": 358931,
-      "word": "王安宇李昀锐一个会哭一个会笑",
-      "onboard_time": 1734337160,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 252551,
@@ -1785,6 +1809,14 @@
       "onboard_time": 1734317057,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 220520,
+      "num": 384280,
+      "word": "山西省政协主席吴存荣被查",
+      "onboard_time": 1734337701,
+      "rank": 38,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 219438,
@@ -2051,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200389,
-      "num": 200389,
-      "word": "云南发现1例罕见恐龙血",
-      "onboard_time": 1734337458,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "鞠婧祎去浙江卫视跨年晚会",
@@ -2144,6 +2168,14 @@
       "word": "院人集体确诊白磷型团队",
       "onboard_time": 1734318556,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195682,
+      "num": 195682,
+      "word": "四郎 你的白月光回来了",
+      "onboard_time": 1734337638,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -2379,12 +2411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187881,
-      "num": 187881,
-      "word": "四郎 你的白月光回来了",
-      "onboard_time": 1734337638,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 187317,
+      "num": 187317,
+      "word": "赞多抽烟镜头",
+      "onboard_time": 1734338479,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 187043,
@@ -2451,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182845,
+      "num": 476487,
+      "word": "3人用甲醛泡毛肚被抓",
+      "onboard_time": 1734336199,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182671,
       "num": 205349,
       "word": "陈奕迅说巡演下一站在close fat",
@@ -2496,14 +2536,6 @@
       "word": "2025月历壁纸",
       "onboard_time": 1734314898,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181214,
-      "num": 476487,
-      "word": "3人用甲醛泡毛肚被抓",
-      "onboard_time": 1734336199,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2699,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169329,
+      "num": 169329,
+      "word": "女子假扮保安混入演唱会被查获",
+      "onboard_time": 1734334820,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169185,
       "num": 217444,
       "word": "闪耀暖暖海的女王",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1734257658,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168536,
-      "num": 168536,
-      "word": "山西省政协主席吴存荣被查",
-      "onboard_time": 1734337701,
-      "rank": 38,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167743,
@@ -2817,6 +2849,14 @@
       "onboard_time": 1734241098,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164893,
+      "num": 164893,
+      "word": "四川警方破获一甲醛泡毛肚案",
+      "onboard_time": 1734338061,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164744,
@@ -2961,6 +3001,14 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159280,
+      "num": 159280,
+      "word": "这才是毛衣的正确叠法",
+      "onboard_time": 1734336498,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 158605,
@@ -3163,28 +3211,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151279,
-      "num": 151279,
-      "word": "闫桉突发高烧",
-      "onboard_time": 1734337879,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151192,
       "num": 151192,
       "word": "赵晓卉想打电视剧里的车赶飞机",
       "onboard_time": 1734234018,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150911,
-      "num": 150911,
-      "word": "郑成灿大吧",
-      "onboard_time": 1734337879,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 150550,
@@ -3209,14 +3241,6 @@
       "onboard_time": 1734274999,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 150085,
-      "num": 150085,
-      "word": "女子假扮保安混入演唱会被查获",
-      "onboard_time": 1734334820,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148673,
@@ -3315,6 +3339,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 143341,
+      "num": 285763,
+      "word": "王楚钦被叫王慢慢是有原因的",
+      "onboard_time": 1734335237,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 143083,
+      "num": 143083,
+      "word": "原来串串房内部是这样的",
+      "onboard_time": 1734338660,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142721,
       "num": 142721,
       "word": "原来北斗导航系统的翻译就在logo里",
@@ -3345,6 +3385,14 @@
       "onboard_time": 1734331099,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142334,
+      "num": 142334,
+      "word": "王者貂蝉嫦娥皮肤优化",
+      "onboard_time": 1734337458,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 142285,
@@ -3619,12 +3667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132255,
-      "num": 277504,
-      "word": "王楚钦被叫王慢慢是有原因的",
-      "onboard_time": 1734335237,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 132890,
+      "num": 132890,
+      "word": "惠英红红毯脱大衣",
+      "onboard_time": 1734338660,
+      "rank": 45,
+      "category": "作品衍生,作品衍生"
     },
     {
       "raw_hot": 132147,
@@ -3785,6 +3833,14 @@
       "onboard_time": 1734266298,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127555,
+      "num": 127555,
+      "word": "徐明浩说缺席seventeen聚会要罚款",
+      "onboard_time": 1734338479,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127509,
@@ -4075,6 +4131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114003,
+      "num": 319872,
+      "word": "aespa泡泡禁令解除",
+      "onboard_time": 1734335358,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113806,
       "num": 113806,
       "word": "KSG对战eStar",
@@ -4353,14 +4417,6 @@
       "onboard_time": 1734189081,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105628,
-      "num": 268078,
-      "word": "aespa泡泡禁令解除",
-      "onboard_time": 1734335358,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 105612,
@@ -5387,6 +5443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47564,
+      "num": 441862,
+      "word": "刷酸烂脸的几大特征",
+      "onboard_time": 1734336019,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47292,
       "num": 295456,
       "word": "窝囊年轻人捧红的生意好笑又心酸",
@@ -5739,14 +5803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32203,
-      "num": 441862,
-      "word": "刷酸烂脸的几大特征",
-      "onboard_time": 1734336019,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 31432,
       "num": 193579,
       "word": "阮经天的少年感",
@@ -5865,6 +5921,14 @@
       "onboard_time": 1734305717,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26906,
+      "num": 328884,
+      "word": "大多数HPV感染都是一过性的",
+      "onboard_time": 1734338179,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 26373,
@@ -6155,6 +6219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14499,
+      "num": 221330,
+      "word": "为了它澳门值得一去再去",
+      "onboard_time": 1734338179,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14371,
       "num": 17389,
       "word": "李雯雯去看张远演唱会了",
@@ -6227,6 +6299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 12431,
+      "num": 375516,
+      "word": "家人说但拓和江奇霖很像",
+      "onboard_time": 1734337879,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12239,
       "num": 29552,
       "word": "澳门第一面五星红旗在这里升起",
@@ -6297,14 +6377,6 @@
       "onboard_time": 1734218714,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 9487,
-      "num": 375516,
-      "word": "家人说但拓和江奇霖很像",
-      "onboard_time": 1734337879,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 9126,
