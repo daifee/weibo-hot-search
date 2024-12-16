@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734374810664,
+  "endTime": 1734376799326,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -427,8 +427,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 49286,
-      "num": 49286,
+      "raw_hot": 49833,
+      "num": 49833,
       "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
       "onboard_time": 1734372312,
       "rank": 18,
@@ -515,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26069,
+      "num": 29434,
+      "word": "71岁大爷14秒内跑完100米",
+      "onboard_time": 1734374232,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23861,
       "num": 52819,
       "word": "钎城守约露头就秒",
@@ -539,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 15716,
+      "num": 16442,
+      "word": "清明上河图密码质感",
+      "onboard_time": 1734376211,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15641,
       "num": 87545,
       "word": "推动经济持续回升向好",
@@ -547,11 +563,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 14082,
-      "num": 29434,
-      "word": "71岁大爷14秒内跑完100米",
-      "onboard_time": 1734374232,
-      "rank": 25,
+      "raw_hot": 13209,
+      "num": 50910,
+      "word": "飞鹤",
+      "onboard_time": 1734375971,
+      "rank": 9,
       "category": "民生新闻"
     },
     {

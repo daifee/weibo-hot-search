@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734374810664,
+  "endTime": 1734376799326,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -48875,6 +48875,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 49833,
+      "num": 49833,
+      "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
+      "onboard_time": 1734372312,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49686,
       "num": 279911,
       "word": "悉尼碎尸包裹案死者丈夫已失踪",
@@ -48929,14 +48937,6 @@
       "onboard_time": 1734062779,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49286,
-      "num": 49286,
-      "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
-      "onboard_time": 1734372312,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 49247,
@@ -53995,6 +53995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26069,
+      "num": 29434,
+      "word": "71岁大爷14秒内跑完100米",
+      "onboard_time": 1734374232,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26065,
       "num": 562383,
       "word": "香奈儿褶饰坊秀场look",
@@ -56299,6 +56307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15716,
+      "num": 16442,
+      "word": "清明上河图密码质感",
+      "onboard_time": 1734376211,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15708,
       "num": 18213,
       "word": "百度吉利将联手处理员工车主后续问题",
@@ -56755,14 +56771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14082,
-      "num": 29434,
-      "word": "71岁大爷14秒内跑完100米",
-      "onboard_time": 1734374232,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14057,
       "num": 151123,
       "word": "香奈儿高级手工坊绝美细节图",
@@ -56969,6 +56977,14 @@
       "onboard_time": 1734354080,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13209,
+      "num": 50910,
+      "word": "飞鹤",
+      "onboard_time": 1734375971,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13204,

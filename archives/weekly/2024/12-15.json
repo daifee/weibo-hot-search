@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734374810664,
+  "endTime": 1734376799326,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -6811,20 +6811,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49833,
+      "num": 49833,
+      "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
+      "onboard_time": 1734372312,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49654,
       "num": 49654,
       "word": "以色列趁乱袭击叙利亚目的何在",
       "onboard_time": 1734198134,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49286,
-      "num": 49286,
-      "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
-      "onboard_time": 1734372312,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 48730,
@@ -7539,6 +7539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26069,
+      "num": 29434,
+      "word": "71岁大爷14秒内跑完100米",
+      "onboard_time": 1734374232,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26037,
       "num": 211188,
       "word": "微博跨年狂欢节预约开启",
@@ -7867,6 +7875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 15716,
+      "num": 16442,
+      "word": "清明上河图密码质感",
+      "onboard_time": 1734376211,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15641,
       "num": 87545,
       "word": "推动经济持续回升向好",
@@ -7939,14 +7955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14082,
-      "num": 29434,
-      "word": "71岁大爷14秒内跑完100米",
-      "onboard_time": 1734374232,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14049,
       "num": 37172,
       "word": "明年实施更加积极的财政政策",
@@ -7993,6 +8001,14 @@
       "onboard_time": 1734354080,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13209,
+      "num": 50910,
+      "word": "飞鹤",
+      "onboard_time": 1734375971,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13074,
