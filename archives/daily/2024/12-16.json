@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734314104422,
+  "endTime": 1734315445779,
   "band_list": [
     {
       "raw_hot": 1186737,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1060723,
+      "raw_hot": 1117404,
       "num": 1169715,
       "word": "妇联回应网曝12岁女孩感染HPV",
       "onboard_time": 1734309080,
@@ -27,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706181,
-      "num": 706181,
+      "raw_hot": 736435,
+      "num": 736435,
       "word": "杨幂郭采洁郭碧婷谢依霖同框",
       "onboard_time": 1734307759,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 613202,
+      "num": 613202,
+      "word": "韩国执政党党首辞职",
+      "onboard_time": 1734313518,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 593446,
@@ -59,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 544572,
+      "num": 544572,
+      "word": "极越CEO发长文道歉",
+      "onboard_time": 1734313578,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 538969,
       "num": 538969,
       "word": "宋墨 嫋嫋你真的没有骗我",
@@ -73,6 +89,14 @@
       "onboard_time": 1734276320,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 518122,
+      "num": 189566,
+      "word": "刘亦菲和陈金飞酒店聚餐",
+      "onboard_time": 1734314116,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 407633,
@@ -115,6 +139,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 361358,
+      "num": 299484,
+      "word": "李昀锐孟子义 这集真的没看过",
+      "onboard_time": 1734312798,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 347526,
+      "num": 347526,
+      "word": "恋与深空",
+      "onboard_time": 1734313458,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 343438,
       "num": 343438,
       "word": "张家界长满了韩国人",
@@ -155,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293544,
+      "num": 293544,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293010,
       "num": 293010,
       "word": "大量加沙儿童被迫无麻药截肢",
@@ -169,14 +217,6 @@
       "onboard_time": 1734273380,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281754,
-      "num": 281754,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1734305776,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 281446,
@@ -211,14 +251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 236840,
-      "num": 236840,
-      "word": "李昀锐孟子义 这集真的没看过",
-      "onboard_time": 1734312798,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223883,
       "num": 223883,
       "word": "马龙VS莫雷加德",
@@ -251,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212804,
+      "num": 212804,
+      "word": "剑网3",
+      "onboard_time": 1734314898,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 203234,
+      "num": 147048,
+      "word": "因为没有给侄子买手表她发怒了",
+      "onboard_time": 1734310999,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198041,
       "num": 198041,
       "word": "杜海涛十个勤天一起打沙棘",
@@ -259,20 +307,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189175,
-      "num": 140967,
-      "word": "因为没有给侄子买手表她发怒了",
-      "onboard_time": 1734310999,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 190550,
+      "num": 190550,
+      "word": "王安宇人怎么能丢这么大的脸",
+      "onboard_time": 1734306076,
+      "rank": 37,
+      "category": "综艺"
     },
     {
-      "raw_hot": 188649,
-      "num": 188649,
-      "word": "恋与深空",
-      "onboard_time": 1734313458,
-      "rank": 23,
-      "category": "游戏"
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "男子坐轮椅在高速疾驰",
+      "onboard_time": 1734313156,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181375,
+      "num": 373814,
+      "word": "2025月历壁纸",
+      "onboard_time": 1734314898,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173674,
@@ -315,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155127,
+      "num": 155127,
+      "word": "A股",
+      "onboard_time": 1734314237,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154706,
       "num": 154706,
       "word": "逐玉演员表番位更新",
@@ -329,6 +393,22 @@
       "onboard_time": 1734308779,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152553,
+      "num": 175817,
+      "word": "崔永熙将离开NBA专注养伤",
+      "onboard_time": 1734314178,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150550,
+      "num": 347526,
+      "word": "解放军英姿激励澳门青年25年",
+      "onboard_time": 1734311298,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 142285,
@@ -363,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137736,
-      "num": 333442,
-      "word": "韩国执政党党首辞职",
-      "onboard_time": 1734313518,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 137041,
+      "num": 147087,
+      "word": "杭州有人排队3小时买林俊杰咖啡",
+      "onboard_time": 1734312677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 134953,
@@ -379,12 +459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134487,
-      "num": 347526,
-      "word": "解放军英姿激励澳门青年25年",
-      "onboard_time": 1734311298,
-      "rank": 7,
-      "category": "正能量"
+      "raw_hot": 133591,
+      "num": 133591,
+      "word": "月鳞绮纪",
+      "onboard_time": 1734315257,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 131235,
@@ -395,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130438,
-      "num": 130438,
-      "word": "杭州有人排队3小时买林俊杰咖啡",
-      "onboard_time": 1734312677,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 128785,
+      "num": 128785,
+      "word": "这一年他们的勇敢给了我们力量",
+      "onboard_time": 1734315079,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 127943,
@@ -411,36 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127509,
+      "num": 131664,
+      "word": "2025元旦购票日历",
+      "onboard_time": 1734313637,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126638,
       "num": 126638,
       "word": "曼城1比2曼联",
       "onboard_time": 1734290352,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126484,
-      "num": 220583,
-      "word": "极越CEO发长文道歉",
-      "onboard_time": 1734313578,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 124461,
-      "num": 124461,
-      "word": "男子坐轮椅在高速疾驰",
-      "onboard_time": 1734313156,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120179,
-      "num": 120179,
-      "word": "王安宇人怎么能丢这么大的脸",
-      "onboard_time": 1734306076,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 116810,
@@ -555,12 +619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92423,
+      "num": 92423,
+      "word": "浙江卫视跨年首波阵容官宣",
+      "onboard_time": 1734315376,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91867,
       "num": 91867,
       "word": "一国两制方针是行得通办得到得人心的",
       "onboard_time": 1734286032,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91685,
+      "num": 91685,
+      "word": "澳门人对祖国的爱刻在DNA里",
+      "onboard_time": 1734314898,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 91367,
@@ -801,14 +881,6 @@
       "onboard_time": 1734280037,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47811,
-      "num": 131664,
-      "word": "2025元旦购票日历",
-      "onboard_time": 1734313637,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45882,

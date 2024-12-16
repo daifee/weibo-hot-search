@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734314104422,
+  "endTime": 1734315445779,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2507,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1117404,
+      "num": 1169715,
+      "word": "妇联回应网曝12岁女孩感染HPV",
+      "onboard_time": 1734309080,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1116709,
       "num": 640840,
       "word": "日本女子涉嫌毒杀77岁富豪丈夫判无罪",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1733877500,
       "rank": 1,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1060723,
-      "num": 1169715,
-      "word": "妇联回应网曝12岁女孩感染HPV",
-      "onboard_time": 1734309080,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1060517,
@@ -5075,6 +5075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 736435,
+      "num": 736435,
+      "word": "杨幂郭采洁郭碧婷谢依霖同框",
+      "onboard_time": 1734307759,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 736414,
       "num": 537023,
       "word": "黄子佼被判有期徒刑8个月",
@@ -5465,14 +5473,6 @@
       "onboard_time": 1733838140,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 706181,
-      "num": 706181,
-      "word": "杨幂郭采洁郭碧婷谢依霖同框",
-      "onboard_time": 1734307759,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 704246,
@@ -6633,6 +6633,14 @@
       "onboard_time": 1733304564,
       "rank": 32,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 613202,
+      "num": 613202,
+      "word": "韩国执政党党首辞职",
+      "onboard_time": 1734313518,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 613139,
@@ -7819,6 +7827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544572,
+      "num": 544572,
+      "word": "极越CEO发长文道歉",
+      "onboard_time": 1734313578,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 544444,
       "num": 544444,
       "word": "丁禹兮帮虞书欣爷爷穿衣服",
@@ -8377,6 +8393,14 @@
       "onboard_time": 1734067102,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518122,
+      "num": 189566,
+      "word": "刘亦菲和陈金飞酒店聚餐",
+      "onboard_time": 1734314116,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 518058,
@@ -12379,6 +12403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361358,
+      "num": 299484,
+      "word": "李昀锐孟子义 这集真的没看过",
+      "onboard_time": 1734312798,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361181,
       "num": 361181,
       "word": "44岁张柏芝生图",
@@ -12841,6 +12873,14 @@
       "onboard_time": 1733465058,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347526,
+      "num": 347526,
+      "word": "恋与深空",
+      "onboard_time": 1733102478,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 347459,
@@ -13337,14 +13377,6 @@
       "onboard_time": 1733799677,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 333371,
-      "num": 333371,
-      "word": "恋与深空",
-      "onboard_time": 1733102478,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 333270,
@@ -15003,6 +15035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293544,
+      "num": 293544,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 293500,
       "num": 293500,
       "word": "窦明小产",
@@ -15553,14 +15593,6 @@
       "onboard_time": 1733398760,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281754,
-      "num": 281754,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1734305776,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 281732,
@@ -18083,14 +18115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236840,
-      "num": 236840,
-      "word": "李昀锐孟子义 这集真的没看过",
-      "onboard_time": 1734312798,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236791,
       "num": 379381,
       "word": "TGA笑话",
@@ -20139,6 +20163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 212804,
+      "num": 212804,
+      "word": "剑网3",
+      "onboard_time": 1734314898,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212649,
       "num": 699960,
       "word": "王一博系扣子vs不系扣子",
@@ -21305,6 +21337,14 @@
       "onboard_time": 1734272721,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203234,
+      "num": 147048,
+      "word": "因为没有给侄子买手表她发怒了",
+      "onboard_time": 1734310999,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 203189,
@@ -23659,6 +23699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190550,
+      "num": 190550,
+      "word": "王安宇人怎么能丢这么大的脸",
+      "onboard_time": 1734306076,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190537,
       "num": 516563,
       "word": "赵露思委托律师声明",
@@ -23961,14 +24009,6 @@
       "onboard_time": 1733701577,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189175,
-      "num": 140967,
-      "word": "因为没有给侄子买手表她发怒了",
-      "onboard_time": 1734310999,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 189121,
@@ -25131,6 +25171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182013,
+      "num": 182013,
+      "word": "男子坐轮椅在高速疾驰",
+      "onboard_time": 1734313156,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181877,
       "num": 181877,
       "word": "酒店经理厕所搂抱强吻猥亵女下属",
@@ -25209,6 +25257,14 @@
       "onboard_time": 1733291900,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181375,
+      "num": 373814,
+      "word": "2025月历壁纸",
+      "onboard_time": 1734314898,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181348,
@@ -30459,6 +30515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152553,
+      "num": 175817,
+      "word": "崔永熙将离开NBA专注养伤",
+      "onboard_time": 1734314178,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152509,
       "num": 152509,
       "word": "考个研到底还能闹出多少笑话",
@@ -30785,6 +30849,14 @@
       "onboard_time": 1733962159,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150550,
+      "num": 347526,
+      "word": "解放军英姿激励澳门青年25年",
+      "onboard_time": 1734311298,
+      "rank": 7,
+      "category": "正能量"
     },
     {
       "raw_hot": 150521,
@@ -33267,14 +33339,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137736,
-      "num": 333442,
-      "word": "韩国执政党党首辞职",
-      "onboard_time": 1734313518,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 137733,
       "num": 137733,
       "word": "故宫12月壁纸上新",
@@ -33385,6 +33449,14 @@
       "onboard_time": 1733154260,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137041,
+      "num": 147087,
+      "word": "杭州有人排队3小时买林俊杰咖啡",
+      "onboard_time": 1734312677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 137035,
@@ -33907,14 +33979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134487,
-      "num": 347526,
-      "word": "解放军英姿激励澳门青年25年",
-      "onboard_time": 1734311298,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 134468,
       "num": 134468,
       "word": "时代少年团直播",
@@ -34057,6 +34121,14 @@
       "onboard_time": 1734247099,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133591,
+      "num": 133591,
+      "word": "月鳞绮纪",
+      "onboard_time": 1733097376,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 133569,
@@ -34507,14 +34579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130438,
-      "num": 130438,
-      "word": "杭州有人排队3小时买林俊杰咖啡",
-      "onboard_time": 1734312677,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130334,
       "num": 130334,
       "word": "彩虹夫妇回应女儿确诊ABO溶血",
@@ -34771,6 +34835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128785,
+      "num": 128785,
+      "word": "这一年他们的勇敢给了我们力量",
+      "onboard_time": 1734315079,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 128782,
       "num": 325756,
       "word": "成毅赴山海招商",
@@ -34931,6 +35003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127509,
+      "num": 131664,
+      "word": "2025元旦购票日历",
+      "onboard_time": 1734313637,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127404,
       "num": 187402,
       "word": "身份证照片拍照指南",
@@ -35081,14 +35161,6 @@
       "onboard_time": 1733106197,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126484,
-      "num": 220583,
-      "word": "极越CEO发长文道歉",
-      "onboard_time": 1734313578,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 126476,
@@ -35289,14 +35361,6 @@
       "onboard_time": 1733288421,
       "rank": 36,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 125337,
-      "num": 125337,
-      "word": "月鳞绮纪",
-      "onboard_time": 1733097376,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 125309,
@@ -35537,14 +35601,6 @@
       "onboard_time": 1734246377,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124461,
-      "num": 124461,
-      "word": "男子坐轮椅在高速疾驰",
-      "onboard_time": 1734313156,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124347,
@@ -36273,14 +36329,6 @@
       "onboard_time": 1734213430,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 120179,
-      "num": 120179,
-      "word": "王安宇人怎么能丢这么大的脸",
-      "onboard_time": 1734306076,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 120134,
@@ -40227,6 +40275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92423,
+      "num": 92423,
+      "word": "浙江卫视跨年首波阵容官宣",
+      "onboard_time": 1734315376,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92419,
       "num": 92419,
       "word": "Mate70麒麟芯片首拆",
@@ -40297,6 +40353,14 @@
       "onboard_time": 1733905281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91685,
+      "num": 91685,
+      "word": "澳门人对祖国的爱刻在DNA里",
+      "onboard_time": 1734314898,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 91613,
@@ -46353,14 +46417,6 @@
       "onboard_time": 1733204360,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47811,
-      "num": 131664,
-      "word": "2025元旦购票日历",
-      "onboard_time": 1734313637,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47698,
