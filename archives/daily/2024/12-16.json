@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734324256733,
+  "endTime": 1734326677674,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 839509,
+      "num": 1134321,
+      "word": "安徽监狱回应李铁可否在里面踢球",
+      "onboard_time": 1734322999,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 760601,
       "num": 916765,
       "word": "周密破防了",
@@ -81,14 +89,6 @@
       "onboard_time": 1734307759,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 670470,
-      "num": 670470,
-      "word": "安徽监狱回应李铁可否在里面踢球",
-      "onboard_time": 1734322999,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 619233,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 541005,
+      "num": 279800,
+      "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
+      "onboard_time": 1734321499,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538969,
       "num": 538969,
       "word": "宋墨 嫋嫋你真的没有骗我",
@@ -177,6 +185,14 @@
       "onboard_time": 1734315917,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 468264,
+      "num": 468264,
+      "word": "刘耀文灯牌",
+      "onboard_time": 1734325578,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 468049,
@@ -227,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388055,
-      "num": 278631,
-      "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
-      "onboard_time": 1734321499,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384971,
       "num": 280045,
       "word": "张馨予顶着1斤金冠拍戏",
@@ -265,6 +273,14 @@
       "onboard_time": 1734312798,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361347,
+      "num": 198952,
+      "word": "何鸿燊和儿子何猷君下象棋一盘不让",
+      "onboard_time": 1734324799,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 347526,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265944,
+      "num": 391649,
+      "word": "卖课直播用1.9元勾引人花8800元",
+      "onboard_time": 1734321980,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262543,
       "num": 262543,
       "word": "男子坐轮椅在高速疾驰",
@@ -515,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 206739,
+      "num": 206739,
+      "word": "一克黄金到底有多大",
+      "onboard_time": 1734323901,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 205174,
       "num": 205174,
       "word": "张萌 不能用长剧的方法拍短剧",
@@ -539,12 +571,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 198500,
-      "num": 391649,
-      "word": "卖课直播用1.9元勾引人花8800元",
-      "onboard_time": 1734321980,
-      "rank": 35,
-      "category": "教育"
+      "raw_hot": 200391,
+      "num": 200391,
+      "word": "虞书欣湖南卫视跨年官宣",
+      "onboard_time": 1734325521,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199573,
+      "num": 252090,
+      "word": "猎罪图鉴",
+      "onboard_time": 1734325699,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198723,
+      "num": 198723,
+      "word": "谢娜加盟湖南卫视跨年晚会",
+      "onboard_time": 1734325760,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 198041,
@@ -593,6 +641,22 @@
       "onboard_time": 1734319458,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 181902,
+      "num": 199705,
+      "word": "张碧晨脑子和嘴对了一宿帐",
+      "onboard_time": 1734325642,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 181601,
+      "num": 279942,
+      "word": "1.9元买网课第一天看了半小时广告",
+      "onboard_time": 1734325280,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181375,
@@ -651,12 +715,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172036,
-      "num": 172036,
-      "word": "一克黄金到底有多大",
-      "onboard_time": 1734323901,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 169185,
+      "num": 217444,
+      "word": "闪耀暖暖海的女王",
+      "onboard_time": 1734325760,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165328,
+      "num": 165328,
+      "word": "徐瑛彬11比0松岛辉空",
+      "onboard_time": 1734325521,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 163346,
@@ -665,6 +737,14 @@
       "onboard_time": 1734273801,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161317,
+      "num": 161317,
+      "word": "大冻梨美式",
+      "onboard_time": 1734322401,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 160650,
@@ -723,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154102,
+      "num": 154102,
+      "word": "训实习生发现自己是公司唯一的外人",
+      "onboard_time": 1734326058,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "华为将发布智界R7增程版",
@@ -763,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152047,
+      "num": 152047,
+      "word": "赵丽颖片场黄昏灯影照",
+      "onboard_time": 1734325100,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150550,
       "num": 347526,
       "word": "解放军英姿激励澳门青年25年",
@@ -777,6 +873,14 @@
       "onboard_time": 1734320118,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 146040,
+      "num": 146040,
+      "word": "勇士27记三分",
+      "onboard_time": 1734325642,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 144322,
@@ -865,6 +969,22 @@
       "onboard_time": 1734315257,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132045,
+      "num": 132045,
+      "word": "小猫生气后攻击范围为0",
+      "onboard_time": 1734325521,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 131311,
+      "num": 131311,
+      "word": "已婚主播拒绝暧昧聊天被解约",
+      "onboard_time": 1734326120,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131235,
@@ -1259,6 +1379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79912,
+      "num": 256440,
+      "word": "小米有数百项空调相关专利申请",
+      "onboard_time": 1734326180,
+      "rank": 16,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 78070,
+      "num": 136981,
+      "word": "嘉人POWERTRIP",
+      "onboard_time": 1734325280,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 77689,
       "num": 77689,
       "word": "鹿晗玫瑰印花卫衣",
@@ -1305,6 +1441,14 @@
       "onboard_time": 1734322880,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71083,
+      "num": 243436,
+      "word": "男子拔火罐致二度烧伤获赔21万",
+      "onboard_time": 1734325578,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70326,
@@ -1419,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55730,
+      "num": 199929,
+      "word": "回顾2024年中国军事大场面",
+      "onboard_time": 1734326240,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 55726,
       "num": 55726,
       "word": "法院对拍卖7个0手机号作瑕疵提醒",
@@ -1449,6 +1601,22 @@
       "onboard_time": 1734323601,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42401,
+      "num": 312402,
+      "word": "Prada活动现场即秀场",
+      "onboard_time": 1734322220,
+      "rank": 29,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 42337,
+      "num": 199107,
+      "word": "虞书欣去热爱活出彩",
+      "onboard_time": 1734326299,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 41125,
@@ -1539,20 +1707,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32644,
-      "num": 312402,
-      "word": "Prada活动现场即秀场",
-      "onboard_time": 1734322220,
-      "rank": 29,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 31432,
       "num": 193579,
       "word": "阮经天的少年感",
       "onboard_time": 1734319517,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29329,
+      "num": 267890,
+      "word": "旅游小包团被层层转包变大团",
+      "onboard_time": 1734325460,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28888,
@@ -1577,6 +1745,14 @@
       "onboard_time": 1734272660,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24502,
+      "num": 133078,
+      "word": "李现马伊琍同款氛围感",
+      "onboard_time": 1734326421,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23286,
