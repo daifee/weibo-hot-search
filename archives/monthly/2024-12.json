@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734321104229,
+  "endTime": 1734323356831,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3942883,
+      "num": 3942883,
+      "word": "韩国",
+      "onboard_time": 1733234721,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 3852903,
       "num": 3852903,
       "word": "尖叫之夜红毯",
@@ -225,14 +233,6 @@
       "onboard_time": 1733570240,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3656778,
-      "num": 3656778,
-      "word": "韩国",
-      "onboard_time": 1733234721,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 3461652,
@@ -473,6 +473,14 @@
       "onboard_time": 1733361080,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2386709,
+      "num": 1790155,
+      "word": "东京都将上4休3以扭转低出生率",
+      "onboard_time": 1734317957,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 2380812,
@@ -865,14 +873,6 @@
       "onboard_time": 1733484200,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1790155,
-      "num": 1790155,
-      "word": "东京都将上4休3以扭转低出生率",
-      "onboard_time": 1734317957,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1776396,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1733017638,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1356062,
+      "num": 291030,
+      "word": "工资貌似真的回到3500元的时代了",
+      "onboard_time": 1734321499,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 1353987,
@@ -5787,6 +5795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680304,
+      "num": 680304,
+      "word": "特别推荐主演",
+      "onboard_time": 1734321259,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 679812,
       "num": 679812,
       "word": "金价深夜跳水",
@@ -6587,6 +6603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 619233,
+      "num": 291556,
+      "word": "花儿与少年",
+      "onboard_time": 1733203880,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 618836,
       "num": 364298,
       "word": "李雪琴问13个人为啥叫seventeen",
@@ -6697,6 +6721,14 @@
       "onboard_time": 1733202621,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612274,
+      "num": 612274,
+      "word": "孙闻vs王楚钦",
+      "onboard_time": 1734320840,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 611826,
@@ -8803,6 +8835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499423,
+      "num": 499423,
+      "word": "居然是昭昭主动的",
+      "onboard_time": 1734315917,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 499142,
       "num": 499142,
       "word": "省考",
@@ -8817,14 +8857,6 @@
       "onboard_time": 1733041338,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 498130,
-      "num": 498130,
-      "word": "居然是昭昭主动的",
-      "onboard_time": 1734315917,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 498013,
@@ -11691,6 +11723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 388055,
+      "num": 221838,
+      "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
+      "onboard_time": 1734321499,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387222,
       "num": 431810,
       "word": "虞书欣发言",
@@ -12427,6 +12467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 363387,
+      "num": 363387,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 362826,
       "num": 292795,
       "word": "韩安冉孩子被P黑白照",
@@ -12873,14 +12921,6 @@
       "onboard_time": 1733612534,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 348658,
-      "num": 348658,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1734305776,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 348622,
@@ -14683,6 +14723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303619,
+      "num": 303619,
+      "word": "安徽监狱回应李铁可否在里面踢球",
+      "onboard_time": 1734322999,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 303357,
       "num": 374576,
       "word": "以色列袭击叙利亚海军舰队",
@@ -14985,6 +15033,14 @@
       "onboard_time": 1733700677,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296373,
+      "num": 296373,
+      "word": "闪耀暖暖",
+      "onboard_time": 1733205740,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 296318,
@@ -15603,6 +15659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 282670,
+      "num": 282670,
+      "word": "记者卧底非法屠宰场内部极度脏乱",
+      "onboard_time": 1734316156,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 282586,
       "num": 933089,
       "word": "个人养老金已有7000万人开户",
@@ -16057,6 +16121,14 @@
       "onboard_time": 1733630539,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 273367,
+      "num": 416185,
+      "word": "第一批逃去大理的人已经去昆明了",
+      "onboard_time": 1734321859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273284,
@@ -18059,6 +18131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238516,
+      "num": 283819,
+      "word": "陈都灵终于演上一整部剧的女妖了",
+      "onboard_time": 1734322041,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238466,
       "num": 623996,
       "word": "叙利亚局势为何突然反转",
@@ -19643,6 +19723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220067,
+      "num": 289362,
+      "word": "郭敬明古偶三部曲",
+      "onboard_time": 1734321440,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219893,
       "num": 219893,
       "word": "王楚钦再现爆冲",
@@ -20187,14 +20275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213396,
-      "num": 213396,
-      "word": "花儿与少年",
-      "onboard_time": 1733203880,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213318,
       "num": 213318,
       "word": "WBG官宣Tian加入",
@@ -20601,6 +20681,14 @@
       "onboard_time": 1733236585,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209420,
+      "num": 209420,
+      "word": "杨幂湖南卫视跨年官宣加盟",
+      "onboard_time": 1734322880,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 209418,
@@ -21313,6 +21401,14 @@
       "onboard_time": 1734246859,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203745,
+      "num": 203745,
+      "word": "沈星回银瀑奏鸣",
+      "onboard_time": 1734322160,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 203741,
@@ -22203,6 +22299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "卖课直播用1.9元勾引人花8800元",
+      "onboard_time": 1734321980,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198419,
       "num": 342388,
       "word": "王曼昱混团赛后发文",
@@ -22963,6 +23067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194804,
+      "num": 194804,
+      "word": "张馨予顶着1斤金冠拍戏",
+      "onboard_time": 1734322761,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194786,
       "num": 194786,
       "word": "雄狮少年2定档",
@@ -23385,6 +23497,14 @@
       "onboard_time": 1734132916,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192732,
+      "num": 192732,
+      "word": "王一博再去湖南卫视跨年",
+      "onboard_time": 1734321679,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 192655,
@@ -24097,14 +24217,6 @@
       "onboard_time": 1733565200,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189416,
-      "num": 189416,
-      "word": "记者卧底非法屠宰场内部极度脏乱",
-      "onboard_time": 1734316156,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 189405,
@@ -30459,6 +30571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153628,
+      "num": 153628,
+      "word": "华为将发布智界R7增程版",
+      "onboard_time": 1734322521,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153423,
       "num": 572748,
       "word": "男子擅自进入他人装修别墅摔伤索赔16万",
@@ -30569,6 +30689,14 @@
       "onboard_time": 1733498600,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152928,
+      "num": 152928,
+      "word": "金靖特别主演月鳞绮纪",
+      "onboard_time": 1734322642,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 152900,
@@ -32321,14 +32449,6 @@
       "onboard_time": 1733579362,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 143626,
-      "num": 276902,
-      "word": "闪耀暖暖",
-      "onboard_time": 1733205740,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 143616,
@@ -40491,6 +40611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92947,
+      "num": 272971,
+      "word": "万茜银翼女战士造型",
+      "onboard_time": 1734322220,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 92738,
       "num": 284272,
       "word": "湖南卫视跨年20年了",
@@ -41225,6 +41353,14 @@
       "onboard_time": 1733939234,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86014,
+      "num": 345851,
+      "word": "非法屠宰窝点偷宰病死猪低价卖出",
+      "onboard_time": 1734321798,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85975,
@@ -42251,14 +42387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 78690,
-      "num": 302680,
-      "word": "孙闻vs王楚钦",
-      "onboard_time": 1734320840,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78644,
       "num": 527443,
       "word": "官方回应母女二人霸座被乘警带走",
@@ -42393,6 +42521,14 @@
       "onboard_time": 1733297195,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77701,
+      "num": 295698,
+      "word": "林诗栋3比0胜林高远",
+      "onboard_time": 1734322521,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 77570,
@@ -42697,6 +42833,14 @@
       "onboard_time": 1733377219,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 75213,
+      "num": 183362,
+      "word": "美团年度报告好玩",
+      "onboard_time": 1734321619,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 75152,
@@ -45163,6 +45307,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 57129,
+      "num": 814547,
+      "word": "好吃好看好玩的澳门好想去",
+      "onboard_time": 1734321920,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 57125,
       "num": 247816,
       "word": "2024中国电子竞技产业报告发布",
@@ -46145,6 +46297,14 @@
       "onboard_time": 1733476158,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51483,
+      "num": 293470,
+      "word": "王楚钦3比1孙闻",
+      "onboard_time": 1734322880,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 51400,
@@ -49803,6 +49963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32644,
+      "num": 242924,
+      "word": "Prada活动现场即秀场",
+      "onboard_time": 1734322220,
+      "rank": 29,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 32639,
       "num": 610657,
       "word": "男子遇电诈将3万现金藏泡面桶邮寄",
@@ -50169,6 +50337,14 @@
       "onboard_time": 1734114791,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 31432,
+      "num": 193579,
+      "word": "阮经天的少年感",
+      "onboard_time": 1734319517,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 31420,
@@ -50633,14 +50809,6 @@
       "onboard_time": 1734099979,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 29462,
-      "num": 184294,
-      "word": "阮经天的少年感",
-      "onboard_time": 1734319517,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 29461,
@@ -51401,6 +51569,14 @@
       "onboard_time": 1733344460,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25173,
+      "num": 259222,
+      "word": "全球第一个新海诚作品cafe",
+      "onboard_time": 1734320178,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 25095,
@@ -52945,6 +53121,14 @@
       "onboard_time": 1733689511,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17354,
+      "num": 287755,
+      "word": "万茜联手华为MateX6能有多全能",
+      "onboard_time": 1734322220,
+      "rank": 23,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 17350,
