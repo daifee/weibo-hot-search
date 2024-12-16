@@ -1,0 +1,410 @@
+{
+  "runTime": 1734348949228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1429974,
+        "num": 1429974,
+        "word": "星光大赏阵容",
+        "onboard_time": 1734345919,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 782907,
+        "num": 782907,
+        "word": "上海和平饭店298元套餐遭吐槽",
+        "onboard_time": 1734341899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40740,
+        "num": 681499,
+        "word": "跨越百年的澳门百味",
+        "onboard_time": 1734340702,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 658596,
+        "num": 658596,
+        "word": "王楚钦今晚对阵樊振东",
+        "onboard_time": 1734346998,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543351,
+        "num": 543351,
+        "word": "嘉人红毯",
+        "onboard_time": 1734334820,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 519352,
+        "num": 519352,
+        "word": "云南发现1例罕见恐龙血",
+        "onboard_time": 1734337458,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008746,
+        "num": 505065,
+        "word": "杨紫酷妹",
+        "onboard_time": 1734348018,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430530,
+        "num": 430530,
+        "word": "宿迁001号退休快递员养老金4392元",
+        "onboard_time": 1734343219,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408395,
+        "num": 408395,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101456,
+        "num": 399714,
+        "word": "以色列空袭叙利亚导弹基地和武器库",
+        "onboard_time": 1734343641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 812009,
+        "num": 392499,
+        "word": "张小斐你丝袜破了",
+        "onboard_time": 1734344061,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 802805,
+        "num": 381464,
+        "word": "陈都灵公主切",
+        "onboard_time": 1734343880,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 734437,
+        "num": 371689,
+        "word": "诗幂斯夫妇",
+        "onboard_time": 1734344480,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 604054,
+        "num": 360841,
+        "word": "刘亦菲杨幂刘诗诗同框",
+        "onboard_time": 1734342319,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414194,
+        "num": 350833,
+        "word": "程潇妆造",
+        "onboard_time": 1734346998,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346183,
+        "num": 346183,
+        "word": "杨紫状态",
+        "onboard_time": 1734348379,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290973,
+        "num": 290973,
+        "word": "杨幂 性感辣妹",
+        "onboard_time": 1734346339,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277136,
+        "num": 277136,
+        "word": "男子把耳机藏成100块腹肌入境",
+        "onboard_time": 1734333019,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40072,
+        "num": 277108,
+        "word": "雎晓雯飞行员造型点题",
+        "onboard_time": 1734348018,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 22733,
+        "num": 270447,
+        "word": "港片爆款破地狱靠什么破纪录",
+        "onboard_time": 1734347298,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 534505,
+        "num": 266387,
+        "word": "刘亦菲 一众黑白色中的金色",
+        "onboard_time": 1734340218,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204796,
+        "num": 257776,
+        "word": "成毅领衔主演长安二十四计",
+        "onboard_time": 1734347960,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423969,
+        "num": 256032,
+        "word": "卢昱晓杨超越撞衫",
+        "onboard_time": 1734341840,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171538,
+        "num": 247815,
+        "word": "B太点评菏泽羊汤太白被网友骂",
+        "onboard_time": 1734348198,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 247749,
+        "num": 247749,
+        "word": "王牌飞行员刘诗诗",
+        "onboard_time": 1734347599,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239714,
+        "num": 239714,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1734347240,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112095,
+        "num": 238916,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1734348920,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45907,
+        "num": 238116,
+        "word": "德玛西亚杯",
+        "onboard_time": 1734341361,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18843,
+        "num": 237215,
+        "word": "海洋有属于自己的小羊肖恩",
+        "onboard_time": 1734347840,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21714,
+        "num": 235087,
+        "word": "志晟CHIC开年刊",
+        "onboard_time": 1734342920,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45964,
+        "num": 234463,
+        "word": "雅思夺冠登哥忙坏了",
+        "onboard_time": 1734344180,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233505,
+        "num": 233505,
+        "word": "武汉江汉区火灾致1人死亡",
+        "onboard_time": 1734345200,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 231048,
+        "num": 231048,
+        "word": "刘雨昕手机丢了",
+        "onboard_time": 1734342079,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 224917,
+        "num": 224917,
+        "word": "嘉人红毯 清一色的黑",
+        "onboard_time": 1734340218,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 203628,
+        "num": 203628,
+        "word": "檀健次让金世佳吹打火机",
+        "onboard_time": 1734346339,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203576,
+        "num": 203576,
+        "word": "唐嫣 星光大赏",
+        "onboard_time": 1734348559,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203216,
+        "num": 203216,
+        "word": "原来串串房内部是这样的",
+        "onboard_time": 1734338660,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202423,
+        "num": 202423,
+        "word": "九重紫",
+        "onboard_time": 1734345141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187452,
+        "num": 187452,
+        "word": "长安二十四计首宣阵容",
+        "onboard_time": 1734347179,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179752,
+        "num": 179752,
+        "word": "年终总结写完了吗",
+        "onboard_time": 1734346339,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174567,
+        "num": 174567,
+        "word": "猎罪图鉴2断更",
+        "onboard_time": 1734348799,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173844,
+        "num": 173844,
+        "word": "惠英红张小斐宋佳李庚希 影后合照",
+        "onboard_time": 1734340702,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168561,
+        "num": 168561,
+        "word": "祝绪丹发长文告别永夜星河",
+        "onboard_time": 1734342561,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168235,
+        "num": 168235,
+        "word": "余男结婚",
+        "onboard_time": 1734343580,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 163321,
+        "num": 163321,
+        "word": "人脸识别时要穿衣服的原因",
+        "onboard_time": 1734348018,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157597,
+        "num": 157597,
+        "word": "莞莞和卿要同台了",
+        "onboard_time": 1734342920,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155690,
+        "num": 155690,
+        "word": "肖战工作室全平台告黑",
+        "onboard_time": 1734343281,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148367,
+        "num": 148367,
+        "word": "被抱养37年女子称养父给了所有宠溺",
+        "onboard_time": 1734342141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147786,
+        "num": 147786,
+        "word": "清华毕业博士县长用四国语言致辞",
+        "onboard_time": 1734344361,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131433,
+        "num": 131433,
+        "word": "月亮",
+        "onboard_time": 1734344780,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深入领会对经济工作的规律性认识#"
+    }
+  }
+}
