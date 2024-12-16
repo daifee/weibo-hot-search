@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734388873897,
+  "endTime": 1734391406462,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -33,6 +33,14 @@
       "onboard_time": 1734351020,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 545118,
+      "num": 545118,
+      "word": "一市民花84元买彩票中834万",
+      "onboard_time": 1734367755,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 513480,
@@ -75,7 +83,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 396935,
+      "raw_hot": 424396,
       "num": 396935,
       "word": "死者父亲称已与儿媳达成和解",
       "onboard_time": 1734356300,
@@ -123,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307113,
+      "num": 307113,
+      "word": "老板称B太一天吃了七八家店",
+      "onboard_time": 1734350660,
+      "rank": 22,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 284749,
       "num": 284749,
       "word": "樊振东3比1胜王楚钦",
       "onboard_time": 1734352582,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 261986,
-      "num": 261986,
-      "word": "一市民花84元买彩票中834万",
-      "onboard_time": 1734367755,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251431,
@@ -147,12 +155,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 206974,
-      "num": 149318,
-      "word": "老板称B太一天吃了七八家店",
-      "onboard_time": 1734350660,
-      "rank": 22,
-      "category": "网红,民生新闻"
+      "raw_hot": 233044,
+      "num": 184076,
+      "word": "余衍隆曝阿娇变胖原因",
+      "onboard_time": 1734385391,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232258,
+      "num": 232258,
+      "word": "兵马俑二号坑首次发现高级军吏俑",
+      "onboard_time": 1734367694,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211220,
+      "num": 211220,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189358,
@@ -227,14 +251,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 149945,
-      "num": 90038,
-      "word": "余衍隆曝阿娇变胖原因",
-      "onboard_time": 1734385391,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "李昀锐十秒三次转头看孟子义",
@@ -283,28 +299,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 109258,
-      "num": 82696,
-      "word": "兵马俑二号坑首次发现高级军吏俑",
-      "onboard_time": 1734367694,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101982,
-      "num": 101982,
-      "word": "被抱养37年女子称高中每周只用2块",
-      "onboard_time": 1734379091,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101409,
       "num": 93465,
       "word": "秦新宇 妈生鼻回家",
       "onboard_time": 1734366857,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 99233,
+      "num": 99233,
+      "word": "教育局回应教师赌博被罚10年后记过",
+      "onboard_time": 1734389833,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91800,
@@ -361,6 +369,14 @@
       "onboard_time": 1734361220,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78351,
+      "num": 78351,
+      "word": "王灿聊住家阿姨的分寸感",
+      "onboard_time": 1734356480,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 77811,
@@ -435,6 +451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 61901,
+      "num": 59837,
+      "word": "王楚钦赢下决胜盘",
+      "onboard_time": 1734390915,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61236,
       "num": 88703,
       "word": "男子疑因护士妻子出轨自杀一事已立案",
@@ -451,12 +475,44 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 56814,
+      "num": 152239,
+      "word": "涉事领导回应职工为其买酒赊账9万",
+      "onboard_time": 1734369914,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52586,
+      "num": 52586,
+      "word": "李昀锐反差感",
+      "onboard_time": 1734389414,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50382,
+      "num": 50382,
+      "word": "为中国航天点赞",
+      "onboard_time": 1734380410,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49833,
       "num": 49833,
       "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
       "onboard_time": 1734372312,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49677,
+      "num": 49677,
+      "word": "我国成为世界第1核电大国",
+      "onboard_time": 1734377171,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47673,
@@ -475,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46886,
-      "num": 152239,
-      "word": "涉事领导回应职工为其买酒赊账9万",
-      "onboard_time": 1734369914,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 46659,
+      "num": 46659,
+      "word": "玩雪这一块哈尔滨还是太超前了",
+      "onboard_time": 1734382571,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 46591,
@@ -507,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41367,
+      "num": 41367,
+      "word": "鞠婧祎陈昊宇红毯生图",
+      "onboard_time": 1734390915,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40871,
+      "num": 40871,
+      "word": "檀健次沈翊平行时空宿命感",
+      "onboard_time": 1734390915,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37489,
       "num": 418889,
       "word": "万千气象看吉林",
@@ -531,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29879,
-      "num": 29879,
-      "word": "玩雪这一块哈尔滨还是太超前了",
-      "onboard_time": 1734382571,
+      "raw_hot": 29905,
+      "num": 40560,
+      "word": "被抱养女子称生父母忘了她是第几个",
+      "onboard_time": 1734390856,
       "rank": 49,
-      "category": "旅游"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26574,
@@ -545,14 +617,6 @@
       "onboard_time": 1734373273,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 26490,
-      "num": 47809,
-      "word": "我国成为世界第1核电大国",
-      "onboard_time": 1734377171,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26276,
@@ -571,14 +635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 20653,
-      "num": 34340,
-      "word": "为中国航天点赞",
-      "onboard_time": 1734380410,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19931,
       "num": 29407,
       "word": "尹锡悦组建团队应对弹劾案",
@@ -593,6 +649,14 @@
       "onboard_time": 1734359601,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18435,
+      "num": 184967,
+      "word": "北大天文学系吴月芳教授逝世",
+      "onboard_time": 1734391035,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18233,
