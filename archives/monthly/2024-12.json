@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734355998799,
+  "endTime": 1734356680258,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -915,6 +915,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1806820,
+      "num": 1806820,
+      "word": "嘉人红毯 半天没人走",
+      "onboard_time": 1734351020,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1804837,
       "num": 955309,
       "word": "K总要结婚了",
@@ -969,14 +977,6 @@
       "onboard_time": 1734173840,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1753045,
-      "num": 1753045,
-      "word": "嘉人红毯 半天没人走",
-      "onboard_time": 1734351020,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1746641,
@@ -4155,6 +4155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 866421,
+      "num": 856838,
+      "word": "老板称B太一天吃了七八家店",
+      "onboard_time": 1734350660,
+      "rank": 11,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 865931,
       "num": 865931,
       "word": "吴昕收到了何炅为她藏的房卡",
@@ -4297,14 +4305,6 @@
       "onboard_time": 1733202860,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 856838,
-      "num": 856838,
-      "word": "老板称B太一天吃了七八家店",
-      "onboard_time": 1734350660,
-      "rank": 11,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 853572,
@@ -8275,6 +8275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543440,
+      "num": 807539,
+      "word": "阿萨德离开叙利亚后首次发表声明",
+      "onboard_time": 1734354619,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 543420,
       "num": 543420,
       "word": "初代网红张全蛋现在怎么样了",
@@ -9057,6 +9065,14 @@
       "onboard_time": 1733547739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507606,
+      "num": 507606,
+      "word": "山东新泰通报一女孩被性侵",
+      "onboard_time": 1734353062,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 507507,
@@ -11315,14 +11331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 418459,
-      "num": 418459,
-      "word": "山东新泰通报一女孩被性侵",
-      "onboard_time": 1734353062,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 418389,
       "num": 418389,
       "word": "国剧盛典红毯",
@@ -12049,14 +12057,6 @@
       "onboard_time": 1734083060,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394839,
-      "num": 807539,
-      "word": "阿萨德离开叙利亚后首次发表声明",
-      "onboard_time": 1734354619,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 394657,
@@ -13937,6 +13937,14 @@
       "onboard_time": 1733490260,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335724,
+      "num": 335724,
+      "word": "刘诗诗 群像",
+      "onboard_time": 1734356060,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 335520,
@@ -17161,6 +17169,14 @@
       "onboard_time": 1733325263,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265182,
+      "num": 404055,
+      "word": "王楚钦第一时间复盘",
+      "onboard_time": 1734355999,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 265012,
@@ -20643,6 +20659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218039,
+      "num": 218039,
+      "word": "刘亦菲 女性没有前缀",
+      "onboard_time": 1734356540,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 218035,
       "num": 280644,
       "word": "招商银行崩了",
@@ -21219,6 +21243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 211987,
+      "num": 427354,
+      "word": "昭昭墨墨骑马吻",
+      "onboard_time": 1734354681,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211907,
       "num": 211907,
       "word": "王曼昱vs德拉戈曼",
@@ -21401,6 +21433,14 @@
       "onboard_time": 1733890642,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210434,
+      "num": 210434,
+      "word": "死者父亲称已与儿媳达成和解",
+      "onboard_time": 1734356300,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210325,
@@ -24971,14 +25011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190366,
-      "num": 427354,
-      "word": "昭昭墨墨骑马吻",
-      "onboard_time": 1734354681,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190353,
       "num": 110580,
       "word": "现在拨打的电话 以爱为营",
@@ -26281,6 +26313,14 @@
       "onboard_time": 1733958616,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 183481,
+      "num": 183481,
+      "word": "王灿聊住家阿姨的分寸感",
+      "onboard_time": 1734356480,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 183479,
@@ -29363,6 +29403,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 165638,
+      "num": 165638,
+      "word": "骨科医生都推荐的睡姿",
+      "onboard_time": 1734356360,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165613,
       "num": 165613,
       "word": "如鸢 徐庶",
@@ -29873,6 +29921,14 @@
       "onboard_time": 1733730560,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162694,
+      "num": 162694,
+      "word": "陈哲远 死嘴快憋住啊",
+      "onboard_time": 1734356660,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 162683,
@@ -32243,6 +32299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151578,
+      "num": 423447,
+      "word": "百万粉美女网红白婳感染布病",
+      "onboard_time": 1734352642,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 151546,
       "num": 151546,
       "word": "虞书欣这句拜拜",
@@ -32689,6 +32753,14 @@
       "onboard_time": 1734095720,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149487,
+      "num": 340014,
+      "word": "王楚钦倒地侧身爆冲",
+      "onboard_time": 1734356181,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 149472,
@@ -39667,14 +39739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110807,
-      "num": 423447,
-      "word": "百万粉美女网红白婳感染布病",
-      "onboard_time": 1734352642,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 110775,
       "num": 135096,
       "word": "JDG官宣Sheer离队",
@@ -42577,6 +42641,14 @@
       "onboard_time": 1733130440,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90484,
+      "num": 399635,
+      "word": "戚薇直播",
+      "onboard_time": 1734356181,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 90443,
@@ -47075,6 +47147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57653,
+      "num": 371164,
+      "word": "窦明下线",
+      "onboard_time": 1734356360,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57577,
       "num": 723112,
       "word": "AI魔改被指小作坊下料就是猛",
@@ -48843,6 +48923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47166,
+      "num": 1618780,
+      "word": "万千气象看吉林",
+      "onboard_time": 1734354320,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 47096,
       "num": 66895,
       "word": "男子远程偷扣老年机话费超500万",
@@ -49977,6 +50065,14 @@
       "onboard_time": 1734001701,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41457,
+      "num": 394856,
+      "word": "男子自律挑战上头花10万未获1分奖",
+      "onboard_time": 1734356420,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41437,
@@ -51371,6 +51467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34992,
+      "num": 414304,
+      "word": "住建局回应村民家柴火灶被贴封条",
+      "onboard_time": 1734354860,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34977,
       "num": 390325,
       "word": "荣耀300镜头下的虞书欣",
@@ -51689,14 +51793,6 @@
       "onboard_time": 1733996299,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33674,
-      "num": 1618780,
-      "word": "万千气象看吉林",
-      "onboard_time": 1734354320,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 33655,
@@ -52979,6 +53075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28567,
+      "num": 259499,
+      "word": "高频爱用洗护分享",
+      "onboard_time": 1734356120,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 28543,
       "num": 252210,
       "word": "ET9获中国首个线控转向量产许可",
@@ -53099,14 +53203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27672,
-      "num": 414304,
-      "word": "住建局回应村民家柴火灶被贴封条",
-      "onboard_time": 1734354860,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27632,
       "num": 943753,
       "word": "请多给残疾人朋友尊重和关爱",
@@ -53169,6 +53265,14 @@
       "onboard_time": 1733516652,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27356,
+      "num": 160172,
+      "word": "刷酸那回事儿",
+      "onboard_time": 1734355999,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 27326,
@@ -56347,6 +56451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 13233,
+      "num": 197232,
+      "word": "圣诞草莓甜心奶昔",
+      "onboard_time": 1734354080,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 13204,
       "num": 79558,
       "word": "李书福为世界冠军黄雨婷送祝福",
@@ -57009,14 +57121,6 @@
       "onboard_time": 1733563939,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8893,
-      "num": 123882,
-      "word": "圣诞草莓甜心奶昔",
-      "onboard_time": 1734354080,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 8845,

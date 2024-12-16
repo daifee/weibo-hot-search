@@ -1,0 +1,410 @@
+{
+  "runTime": 1734356680258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1847606,
+        "num": 1847606,
+        "word": "樊振东王楚钦 爆分",
+        "onboard_time": 1734350958,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1806820,
+        "num": 1806820,
+        "word": "嘉人红毯 半天没人走",
+        "onboard_time": 1734351020,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47166,
+        "num": 1461578,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1378393,
+        "num": 1378393,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1734352100,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1340297,
+        "num": 1340297,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1734352582,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543440,
+        "num": 543440,
+        "word": "阿萨德离开叙利亚后首次发表声明",
+        "onboard_time": 1734354619,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1343804,
+        "num": 539696,
+        "word": "马思纯怎么拍成了这样",
+        "onboard_time": 1734349219,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 866421,
+        "num": 538892,
+        "word": "老板称B太一天吃了七八家店",
+        "onboard_time": 1734350660,
+        "rank": 7,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 532978,
+        "num": 532978,
+        "word": "男子疑因护士妻子出轨自杀一事已立案",
+        "onboard_time": 1734352160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507606,
+        "num": 507606,
+        "word": "山东新泰通报一女孩被性侵",
+        "onboard_time": 1734353062,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 750312,
+        "num": 506208,
+        "word": "杨幂 今天我们相聚在这里",
+        "onboard_time": 1734351439,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 523462,
+        "num": 496311,
+        "word": "嘉人内场",
+        "onboard_time": 1734351860,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 475921,
+        "num": 475921,
+        "word": "杨紫状态",
+        "onboard_time": 1734348379,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 444532,
+        "num": 444532,
+        "word": "猎罪图鉴2断更",
+        "onboard_time": 1734348799,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407182,
+        "num": 407182,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265182,
+        "num": 404055,
+        "word": "王楚钦第一时间复盘",
+        "onboard_time": 1734355999,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90484,
+        "num": 399635,
+        "word": "戚薇直播",
+        "onboard_time": 1734356181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41457,
+        "num": 394856,
+        "word": "男子自律挑战上头花10万未获1分奖",
+        "onboard_time": 1734356420,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24039,
+        "num": 385059,
+        "word": "V23年轻人的电动小G上市",
+        "onboard_time": 1734354681,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 22776,
+        "num": 382632,
+        "word": "荣耀GT打游戏稳得离谱",
+        "onboard_time": 1734354681,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262000,
+        "num": 373533,
+        "word": "樊振东vs王楚钦",
+        "onboard_time": 1734347240,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57653,
+        "num": 371164,
+        "word": "窦明下线",
+        "onboard_time": 1734356360,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366047,
+        "num": 366047,
+        "word": "星光大赏阵容",
+        "onboard_time": 1734345919,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149487,
+        "num": 340014,
+        "word": "王楚钦倒地侧身爆冲",
+        "onboard_time": 1734356181,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335724,
+        "num": 335724,
+        "word": "刘诗诗 群像",
+        "onboard_time": 1734356060,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317259,
+        "num": 317259,
+        "word": "张小斐你丝袜破了",
+        "onboard_time": 1734344061,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300906,
+        "num": 300906,
+        "word": "杨紫酷妹",
+        "onboard_time": 1734348018,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113431,
+        "num": 293032,
+        "word": "窦明好惨",
+        "onboard_time": 1734352823,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286572,
+        "num": 286572,
+        "word": "王子文好辣",
+        "onboard_time": 1734354981,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28567,
+        "num": 259499,
+        "word": "高频爱用洗护分享",
+        "onboard_time": 1734356120,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 254061,
+        "num": 254061,
+        "word": "上海地产vs山东魏桥",
+        "onboard_time": 1734353721,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228754,
+        "num": 228754,
+        "word": "陈都灵公主切",
+        "onboard_time": 1734343880,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218039,
+        "num": 218039,
+        "word": "刘亦菲 女性没有前缀",
+        "onboard_time": 1734356540,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 214956,
+        "word": "百万粉美女网红白婳感染布病",
+        "onboard_time": 1734352642,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 213680,
+        "num": 213680,
+        "word": "李昀锐十秒三次转头看孟子义",
+        "onboard_time": 1734349401,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211987,
+        "num": 211987,
+        "word": "昭昭墨墨骑马吻",
+        "onboard_time": 1734354681,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210434,
+        "num": 210434,
+        "word": "死者父亲称已与儿媳达成和解",
+        "onboard_time": 1734356300,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206742,
+        "num": 206742,
+        "word": "杨幂 性感辣妹",
+        "onboard_time": 1734346339,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197391,
+        "num": 197391,
+        "word": "王鸥回应保持身材秘诀",
+        "onboard_time": 1734352401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13233,
+        "num": 197232,
+        "word": "圣诞草莓甜心奶昔",
+        "onboard_time": 1734354080,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34992,
+        "num": 197212,
+        "word": "住建局回应村民家柴火灶被贴封条",
+        "onboard_time": 1734354860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197198,
+        "num": 197198,
+        "word": "云南发现1例罕见恐龙血",
+        "onboard_time": 1734337458,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185282,
+        "num": 185282,
+        "word": "吴倩朵拉头",
+        "onboard_time": 1734353900,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119999,
+        "num": 185222,
+        "word": "花100元路费跨城存款多出上万利息",
+        "onboard_time": 1734352522,
+        "rank": 43,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 185195,
+        "num": 185195,
+        "word": "鞠婧祎发了嘉人live图",
+        "onboard_time": 1734355100,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183481,
+        "num": 183481,
+        "word": "王灿聊住家阿姨的分寸感",
+        "onboard_time": 1734356480,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183197,
+        "num": 183197,
+        "word": "只有研究生知道她有多全能",
+        "onboard_time": 1734351319,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165638,
+        "num": 165638,
+        "word": "骨科医生都推荐的睡姿",
+        "onboard_time": 1734356360,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162694,
+        "num": 162694,
+        "word": "陈哲远 死嘴快憋住啊",
+        "onboard_time": 1734356660,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27356,
+        "num": 160172,
+        "word": "刷酸那回事儿",
+        "onboard_time": 1734355999,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#七子之歌永远能听出新意#"
+    }
+  }
+}
