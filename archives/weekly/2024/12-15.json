@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734366665141,
+  "endTime": 1734367633497,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496268,
+      "num": 229517,
+      "word": "谁模仿王鹤棣",
+      "onboard_time": 1734365240,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 496000,
       "num": 439654,
       "word": "李昀锐 怎么还叫我世子呢",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1734319277,
       "rank": 19,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 468039,
-      "num": 228338,
-      "word": "谁模仿王鹤棣",
-      "onboard_time": 1734365240,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 467163,
@@ -1532,7 +1532,7 @@
     },
     {
       "raw_hot": 370428,
-      "num": 189773,
+      "num": 198057,
       "word": "李昀锐 少年感的爹",
       "onboard_time": 1734363501,
       "rank": 14,
@@ -2329,6 +2329,14 @@
       "onboard_time": 1734353900,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235655,
+      "num": 235655,
+      "word": "湖北一教师被捕兽电网电击身亡",
+      "onboard_time": 1734364579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234405,
@@ -4179,14 +4187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152020,
-      "num": 152020,
-      "word": "湖北一教师被捕兽电网电击身亡",
-      "onboard_time": 1734364579,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151578,
       "num": 423447,
       "word": "百万粉美女网红白婳感染布病",
@@ -5899,6 +5899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91800,
+      "num": 146355,
+      "word": "勇敢不是天性而是选择",
+      "onboard_time": 1734364398,
+      "rank": 25,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 91685,
       "num": 91685,
       "word": "澳门人对祖国的爱刻在DNA里",
@@ -6004,7 +6012,7 @@
     },
     {
       "raw_hot": 88083,
-      "num": 78564,
+      "num": 88637,
       "word": "王亚飞发了卢昱晓妆造vlog",
       "onboard_time": 1734365177,
       "rank": 41,
@@ -6097,14 +6105,6 @@
       "onboard_time": 1734337160,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83513,
-      "num": 146355,
-      "word": "勇敢不是天性而是选择",
-      "onboard_time": 1734364398,
-      "rank": 25,
-      "category": "正能量"
     },
     {
       "raw_hot": 83444,
@@ -6859,6 +6859,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 47345,
+      "num": 221252,
+      "word": "重庆大叔们近0度冰水中救起4人",
+      "onboard_time": 1734364519,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47292,
       "num": 295456,
       "word": "窝囊年轻人捧红的生意好笑又心酸",
@@ -7105,6 +7113,14 @@
       "onboard_time": 1734318016,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 39343,
+      "num": 93465,
+      "word": "秦新宇 妈生鼻回家",
+      "onboard_time": 1734366857,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 39182,
@@ -7449,6 +7465,14 @@
       "onboard_time": 1734210432,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26276,
+      "num": 92583,
+      "word": "钎城百里守约MVP",
+      "onboard_time": 1734360620,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 26079,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734367633497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2770814,
+        "num": 2770814,
+        "word": "王鹤棣 内涵",
+        "onboard_time": 1734364519,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371098,
+        "num": 371098,
+        "word": "樊振东王楚钦 爆分",
+        "onboard_time": 1734350958,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33202,
+        "num": 252997,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 621041,
+        "num": 251586,
+        "word": "嘉人大合照",
+        "onboard_time": 1734359842,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247806,
+        "num": 247806,
+        "word": "王楚钦谈和樊振东交手",
+        "onboard_time": 1734362120,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235655,
+        "num": 235655,
+        "word": "湖北一教师被捕兽电网电击身亡",
+        "onboard_time": 1734364579,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566353,
+        "num": 233524,
+        "word": "救场",
+        "onboard_time": 1734361639,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 496268,
+        "num": 229517,
+        "word": "谁模仿王鹤棣",
+        "onboard_time": 1734365240,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222664,
+        "num": 222664,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1734352582,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47345,
+        "num": 221252,
+        "word": "重庆大叔们近0度冰水中救起4人",
+        "onboard_time": 1734364519,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412978,
+        "num": 213943,
+        "word": "嘉人红毯 半天没人走",
+        "onboard_time": 1734351020,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 393792,
+        "num": 209901,
+        "word": "马思纯怎么拍成了这样",
+        "onboard_time": 1734349219,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 333623,
+        "num": 201447,
+        "word": "杨幂工作室发了时代姐妹花",
+        "onboard_time": 1734361340,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313905,
+        "num": 198057,
+        "word": "李昀锐 少年感的爹",
+        "onboard_time": 1734363501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194739,
+        "num": 194739,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141370,
+        "num": 141370,
+        "word": "乒超四强出炉",
+        "onboard_time": 1734362539,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133566,
+        "num": 133566,
+        "word": "阿萨德离开叙利亚后首次发表声明",
+        "onboard_time": 1734354619,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132580,
+        "num": 132580,
+        "word": "家暴受害人起诉离婚需45天冷静期",
+        "onboard_time": 1734362601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93576,
+        "num": 93576,
+        "word": "以色列空袭叙军事基地炸出蘑菇云",
+        "onboard_time": 1734363319,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39343,
+        "num": 93465,
+        "word": "秦新宇 妈生鼻回家",
+        "onboard_time": 1734366857,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299387,
+        "num": 93283,
+        "word": "死者父亲称已与儿媳达成和解",
+        "onboard_time": 1734356300,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250818,
+        "num": 93167,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1734352100,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223188,
+        "num": 92980,
+        "word": "成毅粉丝拒绝认领长安二十四计",
+        "onboard_time": 1734362239,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163515,
+        "num": 92712,
+        "word": "老板称B太一天吃了七八家店",
+        "onboard_time": 1734350660,
+        "rank": 23,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 26276,
+        "num": 92583,
+        "word": "钎城百里守约MVP",
+        "onboard_time": 1734360620,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137542,
+        "num": 92384,
+        "word": "宋佳钟楚曦一见面就哭了",
+        "onboard_time": 1734357800,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134331,
+        "num": 92213,
+        "word": "杨紫状态",
+        "onboard_time": 1734348379,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134099,
+        "num": 92076,
+        "word": "猎罪图鉴2断更",
+        "onboard_time": 1734348799,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126649,
+        "num": 91821,
+        "word": "骨科医生都推荐的睡姿",
+        "onboard_time": 1734356360,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91800,
+        "num": 91800,
+        "word": "勇敢不是天性而是选择",
+        "onboard_time": 1734364398,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 123182,
+        "num": 91103,
+        "word": "刘诗诗 群像",
+        "onboard_time": 1734356060,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 90437,
+        "word": "李昀锐十秒三次转头看孟子义",
+        "onboard_time": 1734349401,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96933,
+        "num": 89973,
+        "word": "关晓彤林一cp感",
+        "onboard_time": 1734361161,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88831,
+        "num": 88831,
+        "word": "爱做饭的人值得珍惜",
+        "onboard_time": 1734360740,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76129,
+        "num": 88821,
+        "word": "上海和平饭店298元套餐遭吐槽",
+        "onboard_time": 1734341899,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94846,
+        "num": 88798,
+        "word": "我干嘛要去学什么园林设计",
+        "onboard_time": 1734362180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77896,
+        "num": 88760,
+        "word": "杨幂 今天我们相聚在这里",
+        "onboard_time": 1734351439,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72257,
+        "num": 88756,
+        "word": "王楚钦说想去面对比赛是积极信号",
+        "onboard_time": 1734363619,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62064,
+        "num": 88722,
+        "word": "樊振东王楚钦发型的较量",
+        "onboard_time": 1734356900,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61236,
+        "num": 88703,
+        "word": "男子疑因护士妻子出轨自杀一事已立案",
+        "onboard_time": 1734352160,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77165,
+        "num": 88660,
+        "word": "星光大赏阵容",
+        "onboard_time": 1734345919,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72632,
+        "num": 88637,
+        "word": "王亚飞发了卢昱晓妆造vlog",
+        "onboard_time": 1734365177,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70323,
+        "num": 88614,
+        "word": "张小斐你丝袜破了",
+        "onboard_time": 1734344061,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59672,
+        "num": 88608,
+        "word": "潘展乐回应被各国选手逐帧研究",
+        "onboard_time": 1734361220,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354500,
+        "num": 88561,
+        "word": "男友涉性侵或面临10年以上有期徒刑",
+        "onboard_time": 1734358942,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59390,
+        "num": 88557,
+        "word": "水瓶座会把自己的心保护得很好",
+        "onboard_time": 1734359481,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57438,
+        "num": 88524,
+        "word": "杨紫王子文拥抱",
+        "onboard_time": 1734357140,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137329,
+        "num": 88498,
+        "word": "医生上报12岁女孩感染HPV反遭质问",
+        "onboard_time": 1734357201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57385,
+        "num": 88461,
+        "word": "阿萨德称离开叙利亚不是计划好的",
+        "onboard_time": 1734361820,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56585,
+        "num": 88454,
+        "word": "清密双头藏尸命案",
+        "onboard_time": 1734359481,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#七子之歌永远能听出新意#"
+    }
+  }
+}
