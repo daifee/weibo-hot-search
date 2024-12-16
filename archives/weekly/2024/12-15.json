@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734360174090,
+  "endTime": 1734362781072,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -121,6 +121,14 @@
       "onboard_time": 1734345919,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1601637,
+      "num": 1601637,
+      "word": "嘉人大合照",
+      "onboard_time": 1734359842,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1556119,
@@ -715,6 +723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 634579,
+      "num": 422663,
+      "word": "戚薇从嘉人晚宴逃出来直播",
+      "onboard_time": 1734359301,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 633762,
       "num": 633762,
       "word": "山东新泰通报一女孩被性侵",
@@ -737,6 +753,14 @@
       "onboard_time": 1734321920,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 615199,
+      "num": 416615,
+      "word": "男友涉性侵或面临10年以上有期徒刑",
+      "onboard_time": 1734358942,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 613202,
@@ -777,6 +801,14 @@
       "onboard_time": 1734355880,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609440,
+      "num": 409079,
+      "word": "杨幂工作室发了时代姐妹花",
+      "onboard_time": 1734361340,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 603119,
@@ -1115,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473577,
+      "num": 473577,
+      "word": "医生上报12岁女孩感染HPV反遭质问",
+      "onboard_time": 1734357201,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 472694,
       "num": 472694,
       "word": "王安宇李昀锐一个会哭一个会笑",
@@ -1451,14 +1491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 368530,
-      "num": 317288,
-      "word": "嘉人大合照",
-      "onboard_time": 1734359842,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 366932,
       "num": 365700,
       "word": "鹿晗玫瑰印花卫衣",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1734356900,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358536,
+      "num": 358536,
+      "word": "救场",
+      "onboard_time": 1734361639,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 357222,
@@ -1529,14 +1569,6 @@
       "onboard_time": 1734351020,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 350401,
-      "num": 350401,
-      "word": "医生上报12岁女孩感染HPV反遭质问",
-      "onboard_time": 1734357201,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349625,
@@ -1609,14 +1641,6 @@
       "onboard_time": 1734260539,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333460,
-      "num": 333460,
-      "word": "戚薇从嘉人晚宴逃出来直播",
-      "onboard_time": 1734359301,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332545,
@@ -1873,14 +1897,6 @@
       "onboard_time": 1734328279,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290009,
-      "num": 290009,
-      "word": "男友涉性侵或面临10年以上有期徒刑",
-      "onboard_time": 1734358942,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288468,
@@ -2211,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242772,
+      "num": 242772,
+      "word": "关晓彤林一cp感",
+      "onboard_time": 1734361161,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242432,
       "num": 523283,
       "word": "武汉江汉区火灾致1人死亡",
@@ -2305,6 +2329,14 @@
       "onboard_time": 1734323901,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 231359,
+      "num": 231359,
+      "word": "成毅粉丝拒绝认领长安二十四计",
+      "onboard_time": 1734362239,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 230112,
@@ -2555,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211576,
+      "num": 211576,
+      "word": "清密双头藏尸命案",
+      "onboard_time": 1734359481,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211555,
       "num": 211555,
       "word": "这才是毛衣的正确叠法",
@@ -2585,14 +2625,6 @@
       "onboard_time": 1734327679,
       "rank": 35,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 208708,
-      "num": 208708,
-      "word": "清密双头藏尸命案",
-      "onboard_time": 1734359481,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 208550,
@@ -3787,6 +3819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162323,
+      "num": 430099,
+      "word": "爱做饭的人值得珍惜",
+      "onboard_time": 1734360740,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162223,
       "num": 162223,
       "word": "53岁练瑜伽一年体态变化",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1734184641,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160083,
+      "num": 160083,
+      "word": "水瓶座会把自己的心保护得很好",
+      "onboard_time": 1734359481,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 160069,
@@ -4313,6 +4361,14 @@
       "onboard_time": 1734308717,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142015,
+      "num": 300478,
+      "word": "潘展乐回应被各国选手逐帧研究",
+      "onboard_time": 1734361220,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 141992,
@@ -5027,6 +5083,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 118434,
+      "num": 118434,
+      "word": "乒超四强出炉",
+      "onboard_time": 1734362539,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117074,
       "num": 117074,
       "word": "王化",
@@ -5699,6 +5763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94026,
+      "num": 94026,
+      "word": "医院免费为老人们做手术被质疑套保",
+      "onboard_time": 1734360562,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 93601,
       "num": 93601,
       "word": "独行侠vs勇士",
@@ -5891,6 +5963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85097,
+      "num": 278129,
+      "word": "乒超联赛第二阶段30日开赛",
+      "onboard_time": 1734362120,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84972,
       "num": 84972,
       "word": "看似正常其实很伤牙的行为",
@@ -5937,6 +6017,14 @@
       "onboard_time": 1734337160,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83603,
+      "num": 377493,
+      "word": "王楚钦谈和樊振东交手",
+      "onboard_time": 1734362120,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 83444,
@@ -6193,6 +6281,14 @@
       "onboard_time": 1734298391,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72668,
+      "num": 273048,
+      "word": "乒超联赛把湖南大学生养得很好",
+      "onboard_time": 1734361941,
+      "rank": 28,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 72502,
@@ -6971,6 +7067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35498,
+      "num": 363798,
+      "word": "家暴受害人起诉离婚需45天冷静期",
+      "onboard_time": 1734362601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34992,
       "num": 414304,
       "word": "住建局回应村民家柴火灶被贴封条",
@@ -7355,6 +7459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22669,
+      "num": 374877,
+      "word": "众星齐聚张艺谋新作首演",
+      "onboard_time": 1734359540,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22595,
       "num": 66883,
       "word": "第一次见会拉丝的纸张",
@@ -7364,7 +7476,7 @@
     },
     {
       "raw_hot": 22468,
-      "num": 214266,
+      "num": 393084,
       "word": "张予曦第一时间上手荣耀GT",
       "onboard_time": 1734359661,
       "rank": 37,
@@ -7393,14 +7505,6 @@
       "onboard_time": 1734233958,
       "rank": 2,
       "category": "正能量,财经"
-    },
-    {
-      "raw_hot": 21650,
-      "num": 290382,
-      "word": "众星齐聚张艺谋新作首演",
-      "onboard_time": 1734359540,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 21480,
@@ -7731,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11775,
+      "num": 359956,
+      "word": "我干嘛要去学什么园林设计",
+      "onboard_time": 1734362180,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11350,
       "num": 24977,
       "word": "神十九祝福澳门",
@@ -7857,6 +7969,14 @@
       "onboard_time": 1734286992,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6833,
+      "num": 270886,
+      "word": "疯驴子在清密揍高启强",
+      "onboard_time": 1734362360,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 6765,
