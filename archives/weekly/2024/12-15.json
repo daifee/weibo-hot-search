@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734356680258,
+  "endTime": 1734359007018,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -289,6 +289,14 @@
       "onboard_time": 1734218954,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1037008,
+      "num": 624360,
+      "word": "刘诗诗 群像",
+      "onboard_time": 1734356060,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1021158,
@@ -611,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 694395,
+      "num": 694395,
+      "word": "死者父亲称已与儿媳达成和解",
+      "onboard_time": 1734356300,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690691,
       "num": 418353,
       "word": "爸爸辅导孩子作业被气到心肌梗死",
@@ -699,6 +715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 633762,
+      "num": 633762,
+      "word": "山东新泰通报一女孩被性侵",
+      "onboard_time": 1734353062,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 627038,
       "num": 627038,
       "word": "倪萍回应被质疑整容",
@@ -744,6 +768,14 @@
       "word": "孙闻vs王楚钦",
       "onboard_time": 1734320840,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 610771,
+      "num": 610771,
+      "word": "樊振东3比0胜周启豪",
+      "onboard_time": 1734355880,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -843,6 +875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 560075,
+      "num": 807539,
+      "word": "阿萨德离开叙利亚后首次发表声明",
+      "onboard_time": 1734354619,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 558774,
       "num": 471551,
       "word": "猎罪图鉴2断更",
@@ -897,14 +937,6 @@
       "onboard_time": 1734325578,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 543440,
-      "num": 807539,
-      "word": "阿萨德离开叙利亚后首次发表声明",
-      "onboard_time": 1734354619,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 543420,
@@ -1019,14 +1051,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 507606,
-      "num": 507606,
-      "word": "山东新泰通报一女孩被性侵",
-      "onboard_time": 1734353062,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 500500,
       "num": 500500,
       "word": "樊振东恳请球迷们理解尊重",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1734315917,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 499090,
+      "num": 499090,
+      "word": "杨紫王子文拥抱",
+      "onboard_time": 1734357140,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 498013,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1734273380,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425390,
+      "num": 425390,
+      "word": "王楚钦第一时间复盘",
+      "onboard_time": 1734355999,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 422701,
@@ -1435,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358701,
+      "num": 358701,
+      "word": "樊振东王楚钦发型的较量",
+      "onboard_time": 1734356900,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357222,
       "num": 389375,
       "word": "肖战工作室全平台告黑",
@@ -1507,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344355,
+      "num": 344355,
+      "word": "医生上报12岁女孩感染HPV反遭质问",
+      "onboard_time": 1734357201,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 340811,
       "num": 340811,
       "word": "53岁的于和伟演大学生就是赌",
@@ -1545,14 +1601,6 @@
       "onboard_time": 1734260539,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335724,
-      "num": 335724,
-      "word": "刘诗诗 群像",
-      "onboard_time": 1734356060,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 332545,
@@ -1705,6 +1753,14 @@
       "onboard_time": 1734235818,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311541,
+      "num": 311541,
+      "word": "宋佳钟楚曦一见面就哭了",
+      "onboard_time": 1734357800,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 309464,
@@ -1899,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275235,
+      "num": 275235,
+      "word": "刘亦菲 女性没有前缀",
+      "onboard_time": 1734356540,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274169,
       "num": 289362,
       "word": "郭敬明古偶三部曲",
@@ -1969,14 +2033,6 @@
       "onboard_time": 1734264259,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 265182,
-      "num": 404055,
-      "word": "王楚钦第一时间复盘",
-      "onboard_time": 1734355999,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 264452,
@@ -2243,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227189,
+      "num": 227189,
+      "word": "骨科医生都推荐的睡姿",
+      "onboard_time": 1734356360,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 226803,
       "num": 226803,
       "word": "莞莞和卿要同台了",
@@ -2291,6 +2355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223534,
+      "num": 223534,
+      "word": "今天应该叫惠英红宋佳快乐夜",
+      "onboard_time": 1734353779,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223376,
       "num": 223376,
       "word": "吃播为引流吞下两斤纯肥肉",
@@ -2331,14 +2403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 218039,
-      "num": 218039,
-      "word": "刘亦菲 女性没有前缀",
-      "onboard_time": 1734356540,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 217587,
       "num": 217587,
       "word": "惠英红红毯脱大衣",
@@ -2355,6 +2419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 216684,
+      "num": 216684,
+      "word": "王者荣耀",
+      "onboard_time": 1734223938,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "JackeyLove因职业病做手术",
@@ -2368,6 +2440,14 @@
       "word": "马龙晒老瓦杯照片",
       "onboard_time": 1734351860,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215652,
+      "num": 358504,
+      "word": "樊振东周启豪拥抱",
+      "onboard_time": 1734357441,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2465,14 +2545,6 @@
       "onboard_time": 1734245240,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210434,
-      "num": 210434,
-      "word": "死者父亲称已与儿媳达成和解",
-      "onboard_time": 1734356300,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209774,
@@ -2723,6 +2795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198691,
+      "num": 198691,
+      "word": "王灿聊住家阿姨的分寸感",
+      "onboard_time": 1734356480,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198507,
       "num": 228278,
       "word": "真穷过的导演拍的电影有多真",
@@ -2827,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194158,
-      "num": 194158,
-      "word": "王者荣耀",
-      "onboard_time": 1734223938,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194154,
       "num": 194154,
       "word": "德古拉虞书欣上线",
@@ -2905,6 +2977,14 @@
       "onboard_time": 1734355100,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192285,
+      "num": 192285,
+      "word": "山东魏桥3比2胜上海地产",
+      "onboard_time": 1734357323,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 192211,
@@ -2993,6 +3073,14 @@
       "onboard_time": 1734233958,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189260,
+      "num": 189260,
+      "word": "陈哲远 死嘴快憋住啊",
+      "onboard_time": 1734356660,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 188609,
@@ -3113,14 +3201,6 @@
       "onboard_time": 1734240198,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183481,
-      "num": 183481,
-      "word": "王灿聊住家阿姨的分寸感",
-      "onboard_time": 1734356480,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 183288,
@@ -3315,12 +3395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175613,
-      "num": 175613,
-      "word": "今天应该叫惠英红宋佳快乐夜",
-      "onboard_time": 1734353779,
-      "rank": 49,
-      "category": "作品衍生,时尚"
+      "raw_hot": 175815,
+      "num": 175815,
+      "word": "一诺眼神好带感",
+      "onboard_time": 1734358641,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 174790,
@@ -3417,6 +3497,14 @@
       "onboard_time": 1734266720,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170798,
+      "num": 371164,
+      "word": "窦明下线",
+      "onboard_time": 1734356360,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 170696,
@@ -3539,14 +3627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165638,
-      "num": 165638,
-      "word": "骨科医生都推荐的睡姿",
-      "onboard_time": 1734356360,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 165496,
       "num": 165496,
       "word": "看得出她是面包公主",
@@ -3595,6 +3675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164707,
+      "num": 164707,
+      "word": "男友涉性侵或面临10年以上有期徒刑",
+      "onboard_time": 1734358942,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164705,
       "num": 164705,
       "word": "极越员工听到倒闭第一反应是高兴",
@@ -3609,6 +3697,14 @@
       "onboard_time": 1734330918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164462,
+      "num": 164462,
+      "word": "央行适时降准降息",
+      "onboard_time": 1734358580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 163713,
@@ -3649,14 +3745,6 @@
       "onboard_time": 1734260359,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162694,
-      "num": 162694,
-      "word": "陈哲远 死嘴快憋住啊",
-      "onboard_time": 1734356660,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 162223,
@@ -5108,7 +5196,7 @@
     },
     {
       "raw_hot": 112095,
-      "num": 238916,
+      "num": 301225,
       "word": "腾讯视频星光大赏",
       "onboard_time": 1734348920,
       "rank": 26,
@@ -5955,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76685,
+      "num": 358693,
+      "word": "B太回应肠胃炎质疑",
+      "onboard_time": 1734358101,
+      "rank": 18,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 76662,
       "num": 256661,
       "word": "许魏洲 我永远是你的好朋友",
@@ -6123,6 +6219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68489,
+      "num": 302140,
+      "word": "疑职工为领导买酒赊账卖家要账时死亡",
+      "onboard_time": 1734357323,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68402,
       "num": 185243,
       "word": "2025东方卫视跨年官宣",
@@ -6275,12 +6379,12 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 57653,
-      "num": 371164,
-      "word": "窦明下线",
-      "onboard_time": 1734356360,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 57373,
+      "num": 358672,
+      "word": "教师赌博被警方处罚10年后被记过",
+      "onboard_time": 1734358341,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56617,
@@ -6321,6 +6425,22 @@
       "onboard_time": 1734233839,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54552,
+      "num": 632590,
+      "word": "年度直播乱象",
+      "onboard_time": 1734358401,
+      "rank": 8,
+      "category": "民生新闻,舆论监督"
+    },
+    {
+      "raw_hot": 53201,
+      "num": 1618780,
+      "word": "万千气象看吉林",
+      "onboard_time": 1734354320,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 52908,
@@ -6489,14 +6609,6 @@
       "onboard_time": 1734231498,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47166,
-      "num": 1618780,
-      "word": "万千气象看吉林",
-      "onboard_time": 1734354320,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 45882,
@@ -6745,6 +6857,14 @@
       "onboard_time": 1734354200,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37931,
+      "num": 629184,
+      "word": "3分钱能否生产出一片阿司匹林",
+      "onboard_time": 1734358521,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 37676,
@@ -7043,6 +7163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 28498,
+      "num": 305724,
+      "word": "华晨宇微博跨年预约破10万",
+      "onboard_time": 1734358942,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28260,
       "num": 55571,
       "word": "芒特伤退",
@@ -7209,6 +7337,14 @@
       "onboard_time": 1734272241,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21140,
+      "num": 280017,
+      "word": "窦昭女子亦可以一敌百",
+      "onboard_time": 1734354619,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 21074,
@@ -7687,14 +7823,6 @@
       "num": 340658,
       "word": "韩悦vs王祉怡",
       "onboard_time": 1734244939,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5877,
-      "num": 531368,
-      "word": "樊振东3比0胜周启豪",
-      "onboard_time": 1734355880,
       "rank": 12,
       "category": "体育"
     },
