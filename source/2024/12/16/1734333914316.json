@@ -1,0 +1,410 @@
+{
+  "runTime": 1734333914316,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1927843,
+        "num": 1927843,
+        "word": "HPV",
+        "onboard_time": 1734330918,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 966214,
+        "num": 966214,
+        "word": "张雅琪辞职",
+        "onboard_time": 1734329720,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46938,
+        "num": 760767,
+        "word": "好吃好看好玩的澳门好想去",
+        "onboard_time": 1734321920,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 680095,
+        "num": 680095,
+        "word": "刘浩存 妈妈级别",
+        "onboard_time": 1734332058,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643943,
+        "num": 643943,
+        "word": "官方通报12岁女孩感染HPV",
+        "onboard_time": 1734328879,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2621328,
+        "num": 642963,
+        "word": "12岁女孩感染HPV其17岁男友被抓",
+        "onboard_time": 1734328759,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 841525,
+        "num": 642436,
+        "word": "韩国",
+        "onboard_time": 1734319998,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 633542,
+        "num": 633542,
+        "word": "嘉人出图",
+        "onboard_time": 1734328339,
+        "rank": 7,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 390011,
+        "num": 390011,
+        "word": "徐明浩在韩国和文俊辉相依为命",
+        "onboard_time": 1734332179,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333434,
+        "num": 374015,
+        "word": "老板一个滚赔了16万",
+        "onboard_time": 1734331879,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569065,
+        "num": 373524,
+        "word": "东京都将上4休3以扭转低出生率",
+        "onboard_time": 1734317957,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362546,
+        "num": 362546,
+        "word": "闫桉 人怎么能这么可怜又好笑",
+        "onboard_time": 1734331938,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356818,
+        "num": 356818,
+        "word": "肖战歌曲与澳门的适配度",
+        "onboard_time": 1734327918,
+        "rank": 12,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 354168,
+        "num": 354168,
+        "word": "男子把耳机藏成100块腹肌入境",
+        "onboard_time": 1734333019,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43042,
+        "num": 338036,
+        "word": "男子驾车碰瓷近50次获利5.4万",
+        "onboard_time": 1734332538,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336894,
+        "num": 336894,
+        "word": "安徽监狱回应李铁可否在里面踢球",
+        "onboard_time": 1734322999,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290560,
+        "num": 290560,
+        "word": "徐明浩 就卖你们这样的",
+        "onboard_time": 1734333139,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298225,
+        "num": 289811,
+        "word": "已婚主播拒绝暧昧聊天被解约",
+        "onboard_time": 1734326120,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133732,
+        "num": 288071,
+        "word": "猎罪2只能断案不能断更",
+        "onboard_time": 1734333078,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89098,
+        "num": 286345,
+        "word": "性格内向是职场隐形天花板吗",
+        "onboard_time": 1734332419,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 718043,
+        "num": 284207,
+        "word": "工资貌似真的回到3500元的时代了",
+        "onboard_time": 1734321499,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 604439,
+        "num": 280970,
+        "word": "印度男教师上班途中遭绑架强行结婚",
+        "onboard_time": 1734328099,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335293,
+        "num": 279949,
+        "word": "刘耀文灯牌",
+        "onboard_time": 1734325578,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278246,
+        "num": 278246,
+        "word": "很多癌症和感染有关",
+        "onboard_time": 1734331579,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75557,
+        "num": 269739,
+        "word": "诛仙世界",
+        "onboard_time": 1734333198,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264516,
+        "num": 264516,
+        "word": "克莉丝汀确定退市",
+        "onboard_time": 1734328579,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246674,
+        "num": 246674,
+        "word": "嘉人 飞行员主题",
+        "onboard_time": 1734328999,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 214273,
+        "num": 246174,
+        "word": "DNA音乐节 延期",
+        "onboard_time": 1734332839,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179750,
+        "num": 245904,
+        "word": "郑合惠子短发",
+        "onboard_time": 1734330678,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38187,
+        "num": 245864,
+        "word": "小伙地铁被老人强硬顶腿要求让座",
+        "onboard_time": 1734333379,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245836,
+        "num": 245836,
+        "word": "才知道洗头到吹头发都是有技巧的",
+        "onboard_time": 1734327740,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 224645,
+        "num": 224645,
+        "word": "卖课直播用1.9元勾引人花8800元",
+        "onboard_time": 1734321980,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171179,
+        "num": 220695,
+        "word": "谢娜太阳市集摇赶集搭子",
+        "onboard_time": 1734332600,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219158,
+        "num": 219158,
+        "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
+        "onboard_time": 1734321499,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173437,
+        "num": 173437,
+        "word": "宋慧乔状态太好了",
+        "onboard_time": 1734328279,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66639,
+        "num": 172835,
+        "word": "远洋捕捞是对法治的破坏",
+        "onboard_time": 1734331938,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 180625,
+        "num": 172786,
+        "word": "一克黄金到底有多大",
+        "onboard_time": 1734323901,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172418,
+        "num": 172418,
+        "word": "何鸿燊和儿子何猷君下象棋一盘不让",
+        "onboard_time": 1734324799,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172162,
+        "num": 172162,
+        "word": "大学生撞脸张若昀身高体重也相同",
+        "onboard_time": 1734327679,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 169034,
+        "num": 169034,
+        "word": "考研难还是高考难",
+        "onboard_time": 1734330438,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161155,
+        "num": 161155,
+        "word": "宋墨的白发 李昀锐的黑丝",
+        "onboard_time": 1734326959,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154169,
+        "num": 154169,
+        "word": "王大发说孟子义真的升咖了",
+        "onboard_time": 1734333559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146647,
+        "num": 146647,
+        "word": "迪丽热巴周一放饭了",
+        "onboard_time": 1734326719,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 144648,
+        "word": "王鹤棣免费专辑",
+        "onboard_time": 1734328579,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143209,
+        "num": 143209,
+        "word": "陈奕迅说巡演下一站在close fat",
+        "onboard_time": 1734333619,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134764,
+        "num": 134764,
+        "word": "半个月后就是2025了",
+        "onboard_time": 1734331217,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131594,
+        "num": 131594,
+        "word": "虞书欣丁禹兮合体湖南卫视跨年晚会",
+        "onboard_time": 1734331879,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123953,
+        "num": 123953,
+        "word": "檀健次金世佳剧透猎罪2结局",
+        "onboard_time": 1734331820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120584,
+        "num": 120584,
+        "word": "王楚钦高举双拳庆祝",
+        "onboard_time": 1734330319,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24142,
+        "num": 118181,
+        "word": "现在吃饺子不止包馅还包黄金",
+        "onboard_time": 1734330739,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各方面积极因素转化为发展实绩#"
+    }
+  }
+}

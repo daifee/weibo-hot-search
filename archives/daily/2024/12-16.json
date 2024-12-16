@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734331728522,
+  "endTime": 1734333914316,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -25,6 +25,14 @@
       "onboard_time": 1734317957,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1927843,
+      "num": 1927843,
+      "word": "HPV",
+      "onboard_time": 1734330918,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1356062,
@@ -67,6 +75,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 966214,
+      "num": 966214,
+      "word": "张雅琪辞职",
+      "onboard_time": 1734329720,
+      "rank": 4,
+      "category": "网红"
+    },
+    {
       "raw_hot": 891603,
       "num": 891603,
       "word": "特别推荐主演",
@@ -99,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 753574,
-      "num": 753574,
-      "word": "张雅琪辞职",
-      "onboard_time": 1734329720,
-      "rank": 4,
-      "category": "网红"
-    },
-    {
       "raw_hot": 736435,
       "num": 736435,
       "word": "杨幂郭采洁郭碧婷谢依霖同框",
@@ -123,12 +131,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 680095,
+      "num": 680095,
+      "word": "刘浩存 妈妈级别",
+      "onboard_time": 1734332058,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 656584,
       "num": 389627,
       "word": "已婚主播拒绝暧昧聊天被解约",
       "onboard_time": 1734326120,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643943,
+      "num": 643943,
+      "word": "官方通报12岁女孩感染HPV",
+      "onboard_time": 1734328879,
+      "rank": 7,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 619233,
@@ -161,14 +185,6 @@
       "onboard_time": 1734320840,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 608071,
-      "num": 608071,
-      "word": "官方通报12岁女孩感染HPV",
-      "onboard_time": 1734328879,
-      "rank": 7,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 593446,
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390011,
+      "num": 390011,
+      "word": "徐明浩在韩国和文俊辉相依为命",
+      "onboard_time": 1734332179,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 389129,
       "num": 389129,
       "word": "7岁异瞳女孩在学校受到同学喜爱",
@@ -339,12 +363,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 362546,
+      "num": 362546,
+      "word": "闫桉 人怎么能这么可怜又好笑",
+      "onboard_time": 1734331938,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361358,
       "num": 299484,
       "word": "李昀锐孟子义 这集真的没看过",
       "onboard_time": 1734312798,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354168,
+      "num": 354168,
+      "word": "男子把耳机藏成100块腹肌入境",
+      "onboard_time": 1734333019,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347526,
@@ -361,6 +401,14 @@
       "onboard_time": 1734274401,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 333434,
+      "num": 374015,
+      "word": "老板一个滚赔了16万",
+      "onboard_time": 1734331879,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325476,
@@ -443,6 +491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290560,
+      "num": 290560,
+      "word": "徐明浩 就卖你们这样的",
+      "onboard_time": 1734333139,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288468,
       "num": 288468,
       "word": "迪丽热巴周一放饭了",
@@ -476,7 +532,7 @@
     },
     {
       "raw_hot": 282543,
-      "num": 210106,
+      "num": 245836,
       "word": "才知道洗头到吹头发都是有技巧的",
       "onboard_time": 1734327740,
       "rank": 28,
@@ -489,6 +545,14 @@
       "onboard_time": 1734276258,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278246,
+      "num": 278246,
+      "word": "很多癌症和感染有关",
+      "onboard_time": 1734331579,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274169,
@@ -523,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261892,
-      "num": 396924,
-      "word": "HPV",
-      "onboard_time": 1734330918,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 259951,
       "num": 259951,
       "word": "国安破获多起主动投靠境外间谍组织案",
@@ -545,6 +601,14 @@
       "onboard_time": 1734292991,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 246674,
+      "num": 246674,
+      "word": "嘉人 飞行员主题",
+      "onboard_time": 1734328999,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 245334,
@@ -595,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222706,
-      "num": 222706,
-      "word": "嘉人 飞行员主题",
-      "onboard_time": 1734328999,
-      "rank": 32,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 222378,
       "num": 222378,
       "word": "极越CEO称营销占用了太多精力",
@@ -641,6 +697,14 @@
       "onboard_time": 1734323540,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214273,
+      "num": 246174,
+      "word": "DNA音乐节 延期",
+      "onboard_time": 1734332839,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 212907,
@@ -843,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179750,
+      "num": 245904,
+      "word": "郑合惠子短发",
+      "onboard_time": 1734330678,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 178917,
       "num": 178917,
       "word": "男子称工作18天离职倒贴38元",
@@ -867,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172014,
-      "num": 172014,
-      "word": "郑合惠子短发",
-      "onboard_time": 1734330678,
-      "rank": 40,
-      "category": "作品衍生,时尚"
+      "raw_hot": 171179,
+      "num": 220695,
+      "word": "谢娜太阳市集摇赶集搭子",
+      "onboard_time": 1734332600,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 169185,
@@ -881,6 +953,14 @@
       "onboard_time": 1734325760,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169034,
+      "num": 210185,
+      "word": "考研难还是高考难",
+      "onboard_time": 1734330438,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 167193,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154169,
+      "num": 154169,
+      "word": "王大发说孟子义真的升咖了",
+      "onboard_time": 1734333559,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "华为将发布智界R7增程版",
@@ -1097,6 +1185,14 @@
       "onboard_time": 1734317296,
       "rank": 33,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 143209,
+      "num": 143209,
+      "word": "陈奕迅说巡演下一站在close fat",
+      "onboard_time": 1734333619,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 142387,
@@ -1203,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133732,
+      "num": 288071,
+      "word": "猎罪2只能断案不能断更",
+      "onboard_time": 1734333078,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133591,
       "num": 133591,
       "word": "月鳞绮纪",
@@ -1217,6 +1321,14 @@
       "onboard_time": 1734325521,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131594,
+      "num": 131594,
+      "word": "虞书欣丁禹兮合体湖南卫视跨年晚会",
+      "onboard_time": 1734331879,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131235,
@@ -1265,6 +1377,14 @@
       "onboard_time": 1734290352,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123953,
+      "num": 123953,
+      "word": "檀健次金世佳剧透猎罪2结局",
+      "onboard_time": 1734331820,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123350,
@@ -1539,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 89098,
+      "num": 286345,
+      "word": "性格内向是职场隐形天花板吗",
+      "onboard_time": 1734332419,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 88948,
       "num": 92791,
       "word": "直播间19元流量卡到手变39元",
@@ -1691,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75557,
+      "num": 269739,
+      "word": "诛仙世界",
+      "onboard_time": 1734333198,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74676,
       "num": 74676,
       "word": "宋墨窦昭 恋爱脑遇上事业脑",
@@ -1779,14 +1915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67640,
-      "num": 210185,
-      "word": "考研难还是高考难",
-      "onboard_time": 1734330438,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 67566,
       "num": 67566,
       "word": "韩国政坛或将陷入更大不确定性中",
@@ -1795,20 +1923,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66639,
+      "num": 172835,
+      "word": "远洋捕捞是对法治的破坏",
+      "onboard_time": 1734331938,
+      "rank": 35,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 65680,
       "num": 65680,
       "word": "王楚钦身体原因缺席今晚比赛",
       "onboard_time": 1734264320,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65389,
-      "num": 171555,
-      "word": "很多癌症和感染有关",
-      "onboard_time": 1734331579,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 64809,
@@ -1923,6 +2051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43042,
+      "num": 338036,
+      "word": "男子驾车碰瓷近50次获利5.4万",
+      "onboard_time": 1734332538,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42401,
       "num": 312402,
       "word": "Prada活动现场即秀场",
@@ -1993,6 +2129,14 @@
       "onboard_time": 1734272359,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38187,
+      "num": 245864,
+      "word": "小伙地铁被老人强硬顶腿要求让座",
+      "onboard_time": 1734333379,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37676,
@@ -2099,6 +2243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24142,
+      "num": 149452,
+      "word": "现在吃饺子不止包馅还包黄金",
+      "onboard_time": 1734330739,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23331,
       "num": 171616,
       "word": "大笨狗 切换自如",
@@ -2193,14 +2345,6 @@
       "onboard_time": 1734318752,
       "rank": 28,
       "category": "读书作家,其它"
-    },
-    {
-      "raw_hot": 17110,
-      "num": 149452,
-      "word": "现在吃饺子不止包馅还包黄金",
-      "onboard_time": 1734330739,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16225,
