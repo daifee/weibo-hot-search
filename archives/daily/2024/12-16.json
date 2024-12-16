@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734345914379,
+  "endTime": 1734348042569,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -41,6 +41,14 @@
       "onboard_time": 1734340820,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1610520,
+      "num": 1610520,
+      "word": "星光大赏阵容",
+      "onboard_time": 1734345919,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1556119,
@@ -171,6 +179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 853572,
+      "num": 509688,
+      "word": "张小斐你丝袜破了",
+      "onboard_time": 1734344061,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 851766,
       "num": 851766,
       "word": "刘亦菲杨幂刘诗诗同框",
@@ -211,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 725611,
+      "num": 524634,
+      "word": "陈都灵公主切",
+      "onboard_time": 1734343880,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 722927,
       "num": 722927,
       "word": "嘉人出图",
@@ -231,14 +255,6 @@
       "num": 652620,
       "word": "卢昱晓杨超越撞衫",
       "onboard_time": 1734341840,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 643688,
-      "num": 524634,
-      "word": "陈都灵公主切",
-      "onboard_time": 1734343880,
       "rank": 21,
       "category": "作品衍生,时尚"
     },
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 596526,
-      "num": 509688,
-      "word": "张小斐你丝袜破了",
-      "onboard_time": 1734344061,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 593446,
       "num": 593446,
       "word": "冷冷冷冷冷你冷冷冷冷冷",
@@ -345,6 +353,14 @@
       "onboard_time": 1734272060,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 578704,
+      "num": 351642,
+      "word": "诗幂斯夫妇",
+      "onboard_time": 1734344480,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 556003,
@@ -451,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455971,
-      "num": 351642,
-      "word": "诗幂斯夫妇",
-      "onboard_time": 1734344480,
-      "rank": 32,
-      "category": "作品衍生,时尚"
+      "raw_hot": 435885,
+      "num": 435885,
+      "word": "宿迁001号退休快递员养老金4392元",
+      "onboard_time": 1734343219,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 429504,
@@ -472,14 +488,6 @@
       "word": "四川警方破获一甲醛泡毛肚案",
       "onboard_time": 1734338061,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422071,
-      "num": 422071,
-      "word": "宿迁001号退休快递员养老金4392元",
-      "onboard_time": 1734343219,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -627,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354161,
+      "num": 354161,
+      "word": "王楚钦今晚对阵樊振东",
+      "onboard_time": 1734346998,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354040,
       "num": 354040,
       "word": "余男结婚",
@@ -723,12 +739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305391,
+      "num": 278764,
+      "word": "程潇妆造",
+      "onboard_time": 1734346998,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298852,
       "num": 298852,
       "word": "嘉人 飞行员主题",
       "onboard_time": 1734328999,
       "rank": 32,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 298703,
+      "num": 298703,
+      "word": "杨幂 性感辣妹",
+      "onboard_time": 1734346339,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 296928,
@@ -875,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 259001,
+      "num": 259001,
+      "word": "檀健次让金世佳吹打火机",
+      "onboard_time": 1734346339,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247776,
       "num": 247776,
       "word": "1500多名军人参与韩国紧急戒严",
@@ -891,12 +931,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243021,
+      "num": 243021,
+      "word": "王牌飞行员刘诗诗",
+      "onboard_time": 1734347599,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 242432,
+      "num": 523283,
+      "word": "武汉江汉区火灾致1人死亡",
+      "onboard_time": 1734345200,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 239991,
       "num": 239991,
       "word": "杨幂湖南卫视跨年官宣加盟",
       "onboard_time": 1734322880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236356,
+      "num": 236356,
+      "word": "长安二十四计首宣阵容",
+      "onboard_time": 1734347179,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 231991,
@@ -1067,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207923,
+      "num": 207923,
+      "word": "杨紫酷妹",
+      "onboard_time": 1734348018,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 206098,
       "num": 206098,
       "word": "月亮",
@@ -1211,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 194001,
+      "num": 345932,
+      "word": "樊振东vs王楚钦",
+      "onboard_time": 1734347240,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193868,
       "num": 193868,
       "word": "鞠婧祎曾舜晞陈都灵田嘉瑞不分先后",
@@ -1307,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181420,
+      "num": 181420,
+      "word": "单依纯大露背装",
+      "onboard_time": 1734346701,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181375,
       "num": 373814,
       "word": "2025月历壁纸",
@@ -1371,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174790,
+      "num": 174790,
+      "word": "清华毕业博士县长用四国语言致辞",
+      "onboard_time": 1734344361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173717,
       "num": 173717,
       "word": "夏一平",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1734334999,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 171383,
+      "num": 352624,
+      "word": "年终总结写完了吗",
+      "onboard_time": 1734346339,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171378,
@@ -1571,14 +1675,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155115,
-      "num": 155115,
-      "word": "清华毕业博士县长用四国语言致辞",
-      "onboard_time": 1734344361,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154706,
       "num": 154706,
       "word": "逐玉演员表番位更新",
@@ -1667,6 +1763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152029,
+      "num": 152029,
+      "word": "人脸识别时要穿衣服的原因",
+      "onboard_time": 1734348018,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150550,
       "num": 347526,
       "word": "解放军英姿激励澳门青年25年",
@@ -1721,14 +1825,6 @@
       "onboard_time": 1734335237,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143120,
-      "num": 523283,
-      "word": "武汉江汉区火灾致1人死亡",
-      "onboard_time": 1734345200,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 142387,
@@ -1995,6 +2091,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119020,
+      "num": 519722,
+      "word": "调查发现周一工作效率最高",
+      "onboard_time": 1734345260,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 117546,
+      "num": 117546,
+      "word": "没有就业岗位就自己创造一个",
+      "onboard_time": 1734347840,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117074,
       "num": 117074,
       "word": "王化",
@@ -2131,6 +2243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107916,
+      "num": 352719,
+      "word": "35岁博士县长用四国语言致辞",
+      "onboard_time": 1734346701,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107727,
       "num": 302701,
       "word": "把再见爱人当八卦讲给韩国男友听",
@@ -2180,7 +2300,7 @@
     },
     {
       "raw_hot": 105125,
-      "num": 134432,
+      "num": 259043,
       "word": "TheShy全明星变装秀",
       "onboard_time": 1734345500,
       "rank": 48,
@@ -2249,6 +2369,14 @@
       "onboard_time": 1734309859,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97228,
+      "num": 254656,
+      "word": "成毅领衔主演长安二十四计",
+      "onboard_time": 1734347960,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 96506,
@@ -2523,6 +2651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 76662,
+      "num": 256661,
+      "word": "许魏洲 我永远是你的好朋友",
+      "onboard_time": 1734344300,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76537,
       "num": 76537,
       "word": "智利车厘子断崖式降价",
@@ -2577,14 +2713,6 @@
       "onboard_time": 1734322880,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72470,
-      "num": 519722,
-      "word": "调查发现周一工作效率最高",
-      "onboard_time": 1734345260,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 71083,
@@ -2753,14 +2881,6 @@
       "onboard_time": 1734284834,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53340,
-      "num": 215858,
-      "word": "许魏洲 我永远是你的好朋友",
-      "onboard_time": 1734344300,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 52608,
@@ -3115,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20892,
+      "num": 300103,
+      "word": "港片爆款破地狱靠什么破纪录",
+      "onboard_time": 1734347298,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18867,
       "num": 287755,
       "word": "万茜联手华为MateX6能有多全能",
@@ -3131,12 +3259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18020,
+      "num": 246843,
+      "word": "林高远徐海东vs闫安袁励岑",
+      "onboard_time": 1734346518,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17598,
       "num": 58419,
       "word": "篮网可能裁掉崔永熙",
       "onboard_time": 1734281896,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17405,
+      "num": 252219,
+      "word": "海洋有属于自己的小羊肖恩",
+      "onboard_time": 1734347840,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17350,
@@ -3209,6 +3353,14 @@
       "onboard_time": 1734290471,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 12983,
+      "num": 249830,
+      "word": "志晟CHIC开年刊",
+      "onboard_time": 1734342920,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 12978,
@@ -3297,6 +3449,14 @@
       "onboard_time": 1734287712,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 4696,
+      "num": 302207,
+      "word": "雎晓雯飞行员造型点题",
+      "onboard_time": 1734348018,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
