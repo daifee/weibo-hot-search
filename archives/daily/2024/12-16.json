@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734326677674,
+  "endTime": 1734327720989,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -67,8 +67,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 839509,
-      "num": 1134321,
+      "raw_hot": 871855,
+      "num": 1139496,
       "word": "安徽监狱回应李铁可否在里面踢球",
       "onboard_time": 1734322999,
       "rank": 16,
@@ -147,12 +147,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 541005,
-      "num": 279800,
+      "raw_hot": 556003,
+      "num": 556003,
       "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
       "onboard_time": 1734321499,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548031,
+      "num": 548031,
+      "word": "刘耀文灯牌",
+      "onboard_time": 1734325578,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 538969,
@@ -187,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 468264,
-      "num": 468264,
-      "word": "刘耀文灯牌",
-      "onboard_time": 1734325578,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 468049,
       "num": 468049,
       "word": "小米否认侵权格力",
@@ -209,6 +209,14 @@
       "onboard_time": 1734316698,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417183,
+      "num": 198952,
+      "word": "何鸿燊和儿子何猷君下象棋一盘不让",
+      "onboard_time": 1734324799,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 407633,
@@ -273,14 +281,6 @@
       "onboard_time": 1734312798,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361347,
-      "num": 198952,
-      "word": "何鸿燊和儿子何猷君下象棋一盘不让",
-      "onboard_time": 1734324799,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 347526,
@@ -411,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272384,
+      "num": 391649,
+      "word": "卖课直播用1.9元勾引人花8800元",
+      "onboard_time": 1734321980,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 269317,
       "num": 269317,
       "word": "向佐称因为摸鼻梁手势出圈很失落",
       "onboard_time": 1734265939,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265944,
-      "num": 391649,
-      "word": "卖课直播用1.9元勾引人花8800元",
-      "onboard_time": 1734321980,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 262543,
@@ -441,6 +441,14 @@
       "onboard_time": 1734311298,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 254801,
+      "num": 254801,
+      "word": "迪丽热巴周一放饭了",
+      "onboard_time": 1734326719,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 247776,
@@ -465,6 +473,14 @@
       "onboard_time": 1734322880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231991,
+      "num": 206739,
+      "word": "一克黄金到底有多大",
+      "onboard_time": 1734323901,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 230112,
@@ -539,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 206739,
-      "num": 206739,
-      "word": "一克黄金到底有多大",
-      "onboard_time": 1734323901,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 205174,
       "num": 205174,
       "word": "张萌 不能用长剧的方法拍短剧",
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "德古拉虞书欣上线",
+      "onboard_time": 1734327378,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193868,
       "num": 193868,
       "word": "鞠婧祎曾舜晞陈都灵田嘉瑞不分先后",
@@ -633,6 +649,14 @@
       "onboard_time": 1734306076,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188948,
+      "num": 188948,
+      "word": "蔡徐坤再刷billboard",
+      "onboard_time": 1734327079,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 182471,
@@ -699,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175846,
+      "num": 175846,
+      "word": "已婚主播拒绝暧昧聊天被解约",
+      "onboard_time": 1734326120,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173717,
       "num": 173717,
       "word": "夏一平",
@@ -723,12 +755,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "宋墨的白发 李昀锐的黑丝",
+      "onboard_time": 1734326959,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167166,
+      "num": 167166,
+      "word": "训实习生发现自己是公司唯一的外人",
+      "onboard_time": 1734326058,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166889,
+      "num": 166889,
+      "word": "A股三大主线集中爆发",
+      "onboard_time": 1734327139,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165328,
       "num": 165328,
       "word": "徐瑛彬11比0松岛辉空",
       "onboard_time": 1734325521,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164709,
+      "num": 176919,
+      "word": "张艺兴 因为我奋斗啊",
+      "onboard_time": 1734327559,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 163346,
@@ -803,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154102,
-      "num": 154102,
-      "word": "训实习生发现自己是公司唯一的外人",
-      "onboard_time": 1734326058,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "华为将发布智界R7增程版",
@@ -841,6 +897,14 @@
       "onboard_time": 1734314178,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152497,
+      "num": 152497,
+      "word": "大学生撞脸张若昀身高体重也相同",
+      "onboard_time": 1734327679,
+      "rank": 35,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 152047,
@@ -947,12 +1011,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135385,
+      "num": 180631,
+      "word": "闪耀暖暖三色海妖",
+      "onboard_time": 1734327019,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134953,
       "num": 134953,
       "word": "时代姐妹花 今夕何夕",
       "onboard_time": 1734306377,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134526,
+      "num": 134526,
+      "word": "KPL年度最受欢迎奖项投票开启",
+      "onboard_time": 1734327618,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 134451,
@@ -977,14 +1057,6 @@
       "onboard_time": 1734325521,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131311,
-      "num": 131311,
-      "word": "已婚主播拒绝暧昧聊天被解约",
-      "onboard_time": 1734326120,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131235,
@@ -1024,6 +1096,14 @@
       "word": "曼城1比2曼联",
       "onboard_time": 1734290352,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123350,
+      "num": 123350,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1734327618,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1177,6 +1257,22 @@
       "onboard_time": 1734309859,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97661,
+      "num": 267266,
+      "word": "警犬退役到普通人家如何生活",
+      "onboard_time": 1734327319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96506,
+      "num": 184667,
+      "word": "Rainbow金栽经结婚",
+      "onboard_time": 1734327440,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 94918,
@@ -1475,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68402,
+      "num": 185243,
+      "word": "2025东方卫视跨年官宣",
+      "onboard_time": 1734326899,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67996,
       "num": 67996,
       "word": "窦明小产",
@@ -1748,7 +1852,7 @@
     },
     {
       "raw_hot": 24502,
-      "num": 133078,
+      "num": 181358,
       "word": "李现马伊琍同款氛围感",
       "onboard_time": 1734326421,
       "rank": 47,

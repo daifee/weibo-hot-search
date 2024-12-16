@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734326677674,
+  "endTime": 1734327720989,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3947,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871855,
+      "num": 1139496,
+      "word": "安徽监狱回应李铁可否在里面踢球",
+      "onboard_time": 1734322999,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 869500,
       "num": 869500,
       "word": "女儿在抢救爸爸急得忘了去医院的路",
@@ -4233,14 +4241,6 @@
       "onboard_time": 1733908401,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 839509,
-      "num": 1134321,
-      "word": "安徽监狱回应李铁可否在里面踢球",
-      "onboard_time": 1734322999,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 839162,
@@ -7643,6 +7643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 556003,
+      "num": 556003,
+      "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
+      "onboard_time": 1734321499,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555899,
       "num": 555899,
       "word": "人人网已停止服务",
@@ -7819,6 +7827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548031,
+      "num": 548031,
+      "word": "刘耀文灯牌",
+      "onboard_time": 1734325578,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 547876,
       "num": 365000,
       "word": "尖叫之夜",
@@ -7977,14 +7993,6 @@
       "onboard_time": 1733384000,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 541005,
-      "num": 279800,
-      "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
-      "onboard_time": 1734321499,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 540845,
@@ -9499,14 +9507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 468264,
-      "num": 468264,
-      "word": "刘耀文灯牌",
-      "onboard_time": 1734325578,
-      "rank": 3,
-      "category": "演出"
-    },
-    {
       "raw_hot": 468049,
       "num": 468049,
       "word": "小米否认侵权格力",
@@ -10993,6 +10993,14 @@
       "onboard_time": 1733912720,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 417183,
+      "num": 198952,
+      "word": "何鸿燊和儿子何猷君下象棋一盘不让",
+      "onboard_time": 1734324799,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 417146,
@@ -12529,14 +12537,6 @@
       "onboard_time": 1734312798,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 361347,
-      "num": 198952,
-      "word": "何鸿燊和儿子何猷君下象棋一盘不让",
-      "onboard_time": 1734324799,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 361181,
@@ -16179,6 +16179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272384,
+      "num": 391649,
+      "word": "卖课直播用1.9元勾引人花8800元",
+      "onboard_time": 1734321980,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 271981,
       "num": 300032,
       "word": "光与夜之恋",
@@ -16505,14 +16513,6 @@
       "onboard_time": 1733711117,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265944,
-      "num": 391649,
-      "word": "卖课直播用1.9元勾引人花8800元",
-      "onboard_time": 1734321980,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 265870,
@@ -17025,6 +17025,14 @@
       "onboard_time": 1733716338,
       "rank": 39,
       "category": "艺人,读书作家"
+    },
+    {
+      "raw_hot": 254801,
+      "num": 254801,
+      "word": "迪丽热巴周一放饭了",
+      "onboard_time": 1734326719,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 254759,
@@ -18745,6 +18753,14 @@
       "onboard_time": 1734057618,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231991,
+      "num": 206739,
+      "word": "一克黄金到底有多大",
+      "onboard_time": 1734323901,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 231764,
@@ -21083,14 +21099,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206739,
-      "num": 206739,
-      "word": "一克黄金到底有多大",
-      "onboard_time": 1734323901,
-      "rank": 38,
-      "category": "财经"
-    },
-    {
       "raw_hot": 206737,
       "num": 206737,
       "word": "樊振东跟唱霉霉的歌",
@@ -23267,6 +23275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194154,
+      "num": 194154,
+      "word": "德古拉虞书欣上线",
+      "onboard_time": 1734327378,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194148,
       "num": 194148,
       "word": "王楚钦自己预告今晚决赛会上场",
@@ -24345,6 +24361,14 @@
       "onboard_time": 1733191397,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188948,
+      "num": 188948,
+      "word": "蔡徐坤再刷billboard",
+      "onboard_time": 1734327079,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188856,
@@ -26411,6 +26435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175846,
+      "num": 175846,
+      "word": "已婚主播拒绝暧昧聊天被解约",
+      "onboard_time": 1734326120,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175840,
       "num": 175840,
       "word": "呼吁国内企业审慎选择采购美国芯片",
@@ -27787,6 +27819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "宋墨的白发 李昀锐的黑丝",
+      "onboard_time": 1734326959,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167858,
       "num": 167858,
       "word": "沈翊画的是大姨也是犯罪的招娣",
@@ -27955,6 +27995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167166,
+      "num": 167166,
+      "word": "训实习生发现自己是公司唯一的外人",
+      "onboard_time": 1734326058,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167141,
       "num": 303447,
       "word": "刘宇宁又双叒要在江苏卫视跨年了",
@@ -27993,6 +28041,14 @@
       "onboard_time": 1733384359,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166889,
+      "num": 166889,
+      "word": "A股三大主线集中爆发",
+      "onboard_time": 1734327139,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 166823,
@@ -28489,6 +28545,14 @@
       "onboard_time": 1733740939,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 164709,
+      "num": 176919,
+      "word": "张艺兴 因为我奋斗啊",
+      "onboard_time": 1734327559,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 164705,
@@ -30587,14 +30651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154102,
-      "num": 154102,
-      "word": "训实习生发现自己是公司唯一的外人",
-      "onboard_time": 1734326058,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 154085,
       "num": 154085,
       "word": "周冠宇",
@@ -30929,6 +30985,14 @@
       "onboard_time": 1734168319,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152497,
+      "num": 152497,
+      "word": "大学生撞脸张若昀身高体重也相同",
+      "onboard_time": 1734327679,
+      "rank": 35,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 152463,
@@ -34227,6 +34291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135385,
+      "num": 180631,
+      "word": "闪耀暖暖三色海妖",
+      "onboard_time": 1734327019,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 135369,
       "num": 135369,
       "word": "PSG官宣Karsa加入",
@@ -34417,6 +34489,14 @@
       "onboard_time": 1733013316,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134526,
+      "num": 134526,
+      "word": "KPL年度最受欢迎奖项投票开启",
+      "onboard_time": 1734327618,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 134489,
@@ -34881,14 +34961,6 @@
       "onboard_time": 1733732598,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 131311,
-      "num": 131311,
-      "word": "已婚主播拒绝暧昧聊天被解约",
-      "onboard_time": 1734326120,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131289,
@@ -36249,6 +36321,14 @@
       "onboard_time": 1733036178,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123350,
+      "num": 123350,
+      "word": "灰熊vs湖人",
+      "onboard_time": 1734327618,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 123295,
@@ -40107,6 +40187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97661,
+      "num": 267266,
+      "word": "警犬退役到普通人家如何生活",
+      "onboard_time": 1734327319,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97622,
       "num": 255032,
       "word": "猎罪图鉴2偶像之死案",
@@ -40233,6 +40321,14 @@
       "onboard_time": 1733230521,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 96506,
+      "num": 184667,
+      "word": "Rainbow金栽经结婚",
+      "onboard_time": 1734327440,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 96438,
@@ -43977,6 +44073,14 @@
       "onboard_time": 1733062881,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68402,
+      "num": 185243,
+      "word": "2025东方卫视跨年官宣",
+      "onboard_time": 1734326899,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 68343,
@@ -51908,7 +52012,7 @@
     },
     {
       "raw_hot": 24502,
-      "num": 133078,
+      "num": 181358,
       "word": "李现马伊琍同款氛围感",
       "onboard_time": 1734326421,
       "rank": 47,
