@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734342074275,
+  "endTime": 1734344825034,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -35,6 +35,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1804837,
+      "num": 955309,
+      "word": "K总要结婚了",
+      "onboard_time": 1734340820,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1556119,
       "num": 1556119,
       "word": "刘亦菲 一众黑白色中的金色",
@@ -51,20 +59,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1419582,
-      "num": 814453,
-      "word": "K总要结婚了",
-      "onboard_time": 1734340820,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1356062,
       "num": 291030,
       "word": "工资貌似真的回到3500元的时代了",
       "onboard_time": 1734321499,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1328811,
+      "num": 679209,
+      "word": "尹锡悦确定律师团",
+      "onboard_time": 1734319998,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1303722,
@@ -121,6 +129,14 @@
       "onboard_time": 1734329720,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 939559,
+      "num": 1150329,
+      "word": "上海和平饭店298元套餐遭吐槽",
+      "onboard_time": 1734341899,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 891603,
@@ -195,6 +211,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 704053,
+      "num": 704053,
+      "word": "刘亦菲杨幂刘诗诗同框",
+      "onboard_time": 1734342319,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 656584,
       "num": 389627,
       "word": "已婚主播拒绝暧昧聊天被解约",
@@ -203,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652620,
+      "num": 652620,
+      "word": "卢昱晓杨超越撞衫",
+      "onboard_time": 1734341840,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 642744,
       "num": 642744,
       "word": "武汉江汉路发生火灾",
       "onboard_time": 1734336498,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 640498,
+      "num": 640498,
+      "word": "嘉人红毯 清一色的黑",
+      "onboard_time": 1734340218,
+      "rank": 17,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 627038,
@@ -339,14 +379,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 501481,
-      "num": 501481,
-      "word": "嘉人红毯 清一色的黑",
-      "onboard_time": 1734340218,
-      "rank": 17,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 499423,
       "num": 499423,
       "word": "居然是昭昭主动的",
@@ -395,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464086,
+      "num": 464086,
+      "word": "刘雨昕手机丢了",
+      "onboard_time": 1734342079,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 429504,
       "num": 429504,
       "word": "月鳞绮纪官宣",
@@ -409,6 +449,14 @@
       "onboard_time": 1734338061,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418723,
+      "num": 418723,
+      "word": "祝绪丹发长文告别永夜星河",
+      "onboard_time": 1734342561,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 418389,
@@ -531,6 +579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357222,
+      "num": 357222,
+      "word": "肖战工作室全平台告黑",
+      "onboard_time": 1734343281,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 354040,
+      "num": 354040,
+      "word": "余男结婚",
+      "onboard_time": 1734343580,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 347526,
       "num": 347526,
       "word": "恋与深空",
@@ -545,6 +609,22 @@
       "onboard_time": 1734274401,
       "rank": 8,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 339614,
+      "num": 282219,
+      "word": "惠英红张小斐宋佳李庚希 影后合照",
+      "onboard_time": 1734340702,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 338769,
+      "num": 271394,
+      "word": "陈都灵公主切",
+      "onboard_time": 1734343880,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 337527,
@@ -611,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299904,
-      "num": 267144,
-      "word": "卢昱晓杨超越撞衫",
-      "onboard_time": 1734341840,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 298852,
       "num": 298852,
       "word": "嘉人 飞行员主题",
@@ -641,6 +713,14 @@
       "onboard_time": 1734322220,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295360,
+      "num": 295360,
+      "word": "宿迁001号退休快递员养老金4392元",
+      "onboard_time": 1734343219,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293010,
@@ -787,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243622,
+      "num": 243622,
+      "word": "张小斐你丝袜破了",
+      "onboard_time": 1734344061,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 239991,
       "num": 239991,
       "word": "杨幂湖南卫视跨年官宣加盟",
@@ -811,12 +899,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 226995,
-      "num": 226995,
-      "word": "惠英红张小斐宋佳李庚希 影后合照",
-      "onboard_time": 1734340702,
-      "rank": 35,
-      "category": "作品衍生,时尚"
+      "raw_hot": 229618,
+      "num": 229618,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734275419,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226803,
+      "num": 226803,
+      "word": "莞莞和卿要同台了",
+      "onboard_time": 1734342920,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 226347,
@@ -955,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205596,
+      "num": 205596,
+      "word": "不怪我们脸盲 素心素兰是双胞胎",
+      "onboard_time": 1734343880,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205174,
       "num": 205174,
       "word": "张萌 不能用长剧的方法拍短剧",
@@ -987,12 +1091,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202654,
+      "num": 202654,
+      "word": "诗幂斯夫妇",
+      "onboard_time": 1734344480,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 202198,
       "num": 531058,
       "word": "乔石同志诞辰100周年座谈会",
       "onboard_time": 1734341600,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 201333,
+      "num": 201333,
+      "word": "裤袜到底是谁发明的酷刑",
+      "onboard_time": 1734340400,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 200391,
@@ -1267,6 +1387,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168360,
+      "num": 168360,
+      "word": "指间生长官博关注成毅",
+      "onboard_time": 1734344238,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168270,
+      "num": 502108,
+      "word": "被抱养37年女子称养父给了所有宠溺",
+      "onboard_time": 1734342141,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167193,
       "num": 171227,
       "word": "鞠婧祎复古摩登女郎",
@@ -1353,14 +1489,6 @@
       "onboard_time": 1734340040,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 159661,
-      "num": 159661,
-      "word": "裤袜到底是谁发明的酷刑",
-      "onboard_time": 1734340400,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 159527,
@@ -1491,6 +1619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 150309,
+      "num": 150309,
+      "word": "清密一集两案16条人命",
+      "onboard_time": 1734344720,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147812,
       "num": 236180,
       "word": "张颂文哭戏",
@@ -1611,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136431,
+      "num": 130286,
+      "word": "清华毕业博士县长用四国语言致辞",
+      "onboard_time": 1734344361,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135385,
       "num": 180631,
       "word": "闪耀暖暖三色海妖",
@@ -1667,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131916,
+      "num": 131916,
+      "word": "无论幼女是否同意均构成强奸罪",
+      "onboard_time": 1734342079,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131235,
       "num": 131235,
       "word": "陈梦马龙大火收汁",
@@ -1681,6 +1833,14 @@
       "onboard_time": 1734341840,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129837,
+      "num": 216323,
+      "word": "樊振东许昕上演身在曹营心在汉",
+      "onboard_time": 1734343641,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 129107,
@@ -1739,14 +1899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125670,
-      "num": 125670,
-      "word": "上海和平饭店298元套餐遭吐槽",
-      "onboard_time": 1734341899,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124289,
       "num": 124289,
       "word": "2025年贺岁纪念币有条银蛇",
@@ -1777,6 +1929,14 @@
       "onboard_time": 1734341540,
       "rank": 47,
       "category": "剧集,时尚"
+    },
+    {
+      "raw_hot": 122854,
+      "num": 122854,
+      "word": "月亮",
+      "onboard_time": 1734344780,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 119361,
@@ -1851,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112749,
+      "num": 188424,
+      "word": "一诺收到潘粤明手写祝福",
+      "onboard_time": 1734343460,
+      "rank": 37,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 112621,
       "num": 112621,
       "word": "猎罪图鉴2阮芳芳天生坏种",
@@ -1899,12 +2067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108235,
+      "num": 122095,
+      "word": "宁德时代致信供应商",
+      "onboard_time": 1734344180,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107727,
       "num": 302701,
       "word": "把再见爱人当八卦讲给韩国男友听",
       "onboard_time": 1734319397,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106283,
+      "num": 195233,
+      "word": "雅思夺冠登哥忙坏了",
+      "onboard_time": 1734344180,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 106082,
@@ -2137,14 +2321,6 @@
       "onboard_time": 1734321619,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87186,
-      "num": 87186,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1734275419,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 86014,
@@ -2515,6 +2691,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52106,
+      "num": 215858,
+      "word": "许魏洲 我永远是你的好朋友",
+      "onboard_time": 1734344300,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51401,
+      "num": 1177858,
+      "word": "跨越百年的澳门百味",
+      "onboard_time": 1734340702,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47564,
       "num": 441862,
       "word": "刷酸烂脸的几大特征",
@@ -2771,11 +2963,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25165,
-      "num": 1177858,
-      "word": "跨越百年的澳门百味",
-      "onboard_time": 1734340702,
-      "rank": 2,
+      "raw_hot": 24325,
+      "num": 288346,
+      "word": "网友吐槽知网收录牛皮癣式医疗软广",
+      "onboard_time": 1734344600,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3058,6 +3250,9 @@
     },
     {
       "word": "#我经常想起七子之歌#"
+    },
+    {
+      "word": "#深入领会对经济工作的规律性认识#"
     }
   ]
 }
