@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734377757870,
+  "endTime": 1734380811964,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -6515,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68643,
+      "num": 68643,
+      "word": "飞鹤",
+      "onboard_time": 1734375971,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68402,
       "num": 185243,
       "word": "2025东方卫视跨年官宣",
@@ -7515,14 +7523,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 26592,
-      "num": 50910,
-      "word": "飞鹤",
-      "onboard_time": 1734375971,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26574,
       "num": 26574,
       "word": "王俊凯确定出席2025巴黎时装周",
@@ -7747,6 +7747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19731,
+      "num": 47809,
+      "word": "我国成为世界第1核电大国",
+      "onboard_time": 1734377171,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
@@ -7809,6 +7817,14 @@
       "onboard_time": 1734371952,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 17735,
+      "num": 17735,
+      "word": "以色列为何频繁破防",
+      "onboard_time": 1734378551,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17618,
@@ -8067,12 +8083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11694,
-      "num": 47809,
-      "word": "我国成为世界第1核电大国",
-      "onboard_time": 1734377171,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 11835,
+      "num": 20290,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11350,
@@ -8113,6 +8129,14 @@
       "onboard_time": 1734288431,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10763,
+      "num": 18371,
+      "word": "飞鹤陕西因抽检不合格被责令整改",
+      "onboard_time": 1734380111,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10534,
