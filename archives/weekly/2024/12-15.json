@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734353344848,
+  "endTime": 1734354252925,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2473327,
+      "num": 2473327,
+      "word": "樊振东王楚钦 爆分",
+      "onboard_time": 1734350958,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2386709,
       "num": 1790155,
       "word": "东京都将上4休3以扭转低出生率",
@@ -35,19 +43,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 2358488,
-      "num": 2358488,
-      "word": "樊振东王楚钦 爆分",
-      "onboard_time": 1734350958,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2340082,
       "num": 2340082,
       "word": "樊振东0比3徐瑛彬",
       "onboard_time": 1734235338,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2244019,
+      "num": 2244019,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1734352582,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 1328811,
-      "num": 679209,
+      "num": 691721,
       "word": "尹锡悦确定律师团",
       "onboard_time": 1734319998,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1309903,
+      "num": 1309903,
+      "word": "嘉人红毯 半天没人走",
+      "onboard_time": 1734351020,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1303722,
@@ -203,28 +219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1141324,
-      "num": 978490,
-      "word": "嘉人红毯 半天没人走",
-      "onboard_time": 1734351020,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 1133196,
       "num": 1181311,
       "word": "上海和平饭店298元套餐遭吐槽",
       "onboard_time": 1734341899,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1128438,
-      "num": 1128438,
-      "word": "樊振东3比1胜王楚钦",
-      "onboard_time": 1734352582,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1122445,
@@ -595,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 702377,
+      "num": 702377,
+      "word": "老板称B太一天吃了七八家店",
+      "onboard_time": 1734350660,
+      "rank": 11,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 700860,
       "num": 700860,
       "word": "李行亮机场被网友追问婚姻状况",
@@ -635,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 656086,
-      "num": 347286,
-      "word": "老板称B太一天吃了七八家店",
-      "onboard_time": 1734350660,
-      "rank": 11,
-      "category": "网红,民生新闻"
-    },
-    {
       "raw_hot": 652620,
       "num": 652620,
       "word": "卢昱晓杨超越撞衫",
@@ -665,6 +665,14 @@
       "onboard_time": 1734240799,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 643909,
+      "num": 643909,
+      "word": "杨紫状态",
+      "onboard_time": 1734348379,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 642744,
@@ -737,6 +745,14 @@
       "onboard_time": 1734320840,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 603119,
+      "num": 603119,
+      "word": "嘉人内场",
+      "onboard_time": 1734351860,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 602293,
@@ -945,14 +961,6 @@
       "onboard_time": 1734219494,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 519319,
-      "num": 344729,
-      "word": "嘉人内场",
-      "onboard_time": 1734351860,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 518122,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1734238819,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413691,
-      "num": 346183,
-      "word": "杨紫状态",
-      "onboard_time": 1734348379,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 408402,
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 312476,
-      "num": 186247,
+      "num": 213293,
       "word": "李昀锐十秒三次转头看孟子义",
       "onboard_time": 1734349401,
       "rank": 28,
@@ -1964,7 +1964,7 @@
     },
     {
       "raw_hot": 253657,
-      "num": 183494,
+      "num": 199322,
       "word": "王鸥回应保持身材秘诀",
       "onboard_time": 1734352401,
       "rank": 30,
@@ -1988,7 +1988,7 @@
     },
     {
       "raw_hot": 251686,
-      "num": 181615,
+      "num": 196180,
       "word": "只有研究生知道她有多全能",
       "onboard_time": 1734351319,
       "rank": 31,
@@ -2107,12 +2107,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 235918,
+      "num": 212299,
+      "word": "戚薇 自己救自己",
+      "onboard_time": 1734352582,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234405,
-      "num": 175525,
+      "num": 203470,
       "word": "关晓彤 进组的状态",
       "onboard_time": 1734350840,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234296,
+      "num": 309792,
+      "word": "白百何古装",
+      "onboard_time": 1734352942,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 234196,
@@ -2121,6 +2137,14 @@
       "onboard_time": 1734242718,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233898,
+      "num": 690870,
+      "word": "男子疑因护士妻子出轨自杀一事已立案",
+      "onboard_time": 1734352160,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231991,
@@ -2232,6 +2256,14 @@
       "word": "山西省政协主席吴存荣被查",
       "onboard_time": 1734337701,
       "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 220412,
+      "num": 220412,
+      "word": "山东新泰通报一女孩被性侵",
+      "onboard_time": 1734353062,
+      "rank": 44,
       "category": "辟谣/通报"
     },
     {
@@ -2377,6 +2409,14 @@
       "onboard_time": 1734327679,
       "rank": 35,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 208550,
+      "num": 298035,
+      "word": "NewJeans发多条ins",
+      "onboard_time": 1734352942,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 207288,
@@ -2571,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200065,
+      "num": 200065,
+      "word": "魏哲鸣大背头",
+      "onboard_time": 1734353420,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200027,
       "num": 200027,
       "word": "鞠婧祎去浙江卫视跨年晚会",
@@ -2643,14 +2691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197251,
-      "num": 158072,
-      "word": "戚薇 自己救自己",
-      "onboard_time": 1734352582,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197236,
       "num": 197236,
       "word": "院人集体确诊白磷型团队",
@@ -2697,6 +2737,14 @@
       "onboard_time": 1734270440,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194262,
+      "num": 194262,
+      "word": "曾黎48岁生图状态",
+      "onboard_time": 1734353599,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194178,
@@ -2809,6 +2857,14 @@
       "onboard_time": 1734271400,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191490,
+      "num": 196555,
+      "word": "上海地产vs山东魏桥",
+      "onboard_time": 1734353721,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191088,
@@ -2931,12 +2987,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186228,
-      "num": 186228,
-      "word": "男子疑因护士妻子出轨自杀一事已立案",
-      "onboard_time": 1734352160,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 186652,
+      "num": 186652,
+      "word": "吴倩朵拉头",
+      "onboard_time": 1734353900,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 186124,
@@ -3323,6 +3379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168970,
+      "num": 219946,
+      "word": "李耕耘直播",
+      "onboard_time": 1734354018,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168860,
       "num": 163514,
       "word": "虞书欣风衣",
@@ -3497,14 +3561,6 @@
       "onboard_time": 1734260359,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162405,
-      "num": 309792,
-      "word": "白百何古装",
-      "onboard_time": 1734352942,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 162223,
@@ -3939,14 +3995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144406,
-      "num": 144406,
-      "word": "山东新泰通报一女孩被性侵",
-      "onboard_time": 1734353062,
-      "rank": 44,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 144322,
       "num": 144322,
       "word": "成都通报废旧水塔拆除事故",
@@ -4363,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130738,
+      "num": 130738,
+      "word": "研究推进足球振兴发展相关工作",
+      "onboard_time": 1734353481,
+      "rank": 46,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 130224,
       "num": 130224,
       "word": "小小的我",
@@ -4537,14 +4593,6 @@
       "onboard_time": 1734352522,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125248,
-      "num": 298035,
-      "word": "NewJeans发多条ins",
-      "onboard_time": 1734352942,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 124976,
@@ -5243,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102201,
+      "num": 217478,
+      "word": "窦明好惨",
+      "onboard_time": 1734352823,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102075,
       "num": 102075,
       "word": "悉尼发现碎尸包裹死者为海外华人",
@@ -5617,6 +5673,14 @@
       "onboard_time": 1734186321,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82363,
+      "num": 217963,
+      "word": "LGDNBW晋级挑杯淘汰赛",
+      "onboard_time": 1734353541,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 82361,
@@ -6129,6 +6193,14 @@
       "onboard_time": 1734271039,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 52661,
+      "num": 343607,
+      "word": "常州致8死8伤粉尘爆炸事故调查报告",
+      "onboard_time": 1734352280,
+      "rank": 14,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 52608,
@@ -6665,14 +6737,6 @@
       "onboard_time": 1734201193,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 30757,
-      "num": 343607,
-      "word": "常州致8死8伤粉尘爆炸事故调查报告",
-      "onboard_time": 1734352280,
-      "rank": 14,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 30372,
@@ -7243,6 +7307,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10534,
+      "num": 196276,
+      "word": "微博美妆大赛",
+      "onboard_time": 1734353062,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 10071,
       "num": 223619,
       "word": "马龙林钟勋vs奥恰洛夫卡尔德拉诺",
@@ -7267,12 +7339,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 9005,
-      "num": 145816,
-      "word": "微博美妆大赛",
-      "onboard_time": 1734353062,
-      "rank": 39,
-      "category": "美妆"
+      "raw_hot": 8893,
+      "num": 123882,
+      "word": "圣诞草莓甜心奶昔",
+      "onboard_time": 1734354080,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 8845,
@@ -7281,6 +7353,14 @@
       "onboard_time": 1734245057,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 8774,
+      "num": 318356,
+      "word": "故宫附近有店主动推销租轮椅不用排队",
+      "onboard_time": 1734354200,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8735,
@@ -7305,6 +7385,14 @@
       "onboard_time": 1734197593,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8149,
+      "num": 214076,
+      "word": "考研人即将看到黎明前的曙光",
+      "onboard_time": 1734354139,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 7162,
@@ -7404,6 +7492,9 @@
     },
     {
       "word": "#深入领会对经济工作的规律性认识#"
+    },
+    {
+      "word": "#要把坚定理想信念作为终身课题#"
     }
   ]
 }
