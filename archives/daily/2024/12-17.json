@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734385068228,
+  "endTime": 1734387710040,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 95307,
+      "num": 95307,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91800,
       "num": 146355,
       "word": "勇敢不是天性而是选择",
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67964,
+      "num": 67964,
+      "word": "余衍隆曝阿娇变胖原因",
+      "onboard_time": 1734385391,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65335,
       "num": 65335,
       "word": "杨幂 性感辣妹",
@@ -411,16 +427,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 62376,
-      "num": 62376,
-      "word": "被抱养37年女子称高中每周只用2块",
-      "onboard_time": 1734379091,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61387,
-      "num": 61387,
+      "raw_hot": 62362,
+      "num": 62362,
       "word": "兵马俑二号坑首次发现高级军吏俑",
       "onboard_time": 1734367694,
       "rank": 32,
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29411,
+      "num": 29411,
+      "word": "玩雪这一块哈尔滨还是太超前了",
+      "onboard_time": 1734382571,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 26574,
       "num": 26574,
       "word": "王俊凯确定出席2025巴黎时装周",
@@ -547,7 +563,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 19731,
+      "raw_hot": 21414,
       "num": 47809,
       "word": "我国成为世界第1核电大国",
       "onboard_time": 1734377171,
@@ -561,6 +577,14 @@
       "onboard_time": 1734359601,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18227,
+      "num": 25588,
+      "word": "湖北一教师遭捕兽电网电击身亡",
+      "onboard_time": 1734387072,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17867,
@@ -587,12 +611,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15990,
+      "raw_hot": 17184,
       "num": 44793,
       "word": "迷路后妹妹带哥哥找警察寻帮助",
       "onboard_time": 1734383112,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17087,
+      "num": 29407,
+      "word": "尹锡悦组建团队应对弹劾案",
+      "onboard_time": 1734383831,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 15716,
@@ -603,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15697,
+      "num": 27403,
+      "word": "零售业创新提升工程实施方案",
+      "onboard_time": 1734386472,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15641,
       "num": 87545,
       "word": "推动经济持续回升向好",
@@ -611,12 +651,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 13055,
-      "num": 17626,
-      "word": "玩雪这一块哈尔滨还是太超前了",
-      "onboard_time": 1734382571,
-      "rank": 49,
-      "category": "旅游"
+      "raw_hot": 15268,
+      "num": 25603,
+      "word": "雪龙号中山站已卸货798.1吨",
+      "onboard_time": 1734384850,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12464,
@@ -625,22 +665,6 @@
       "onboard_time": 1734367816,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12215,
-      "num": 17952,
-      "word": "雪龙号中山站已卸货798.1吨",
-      "onboard_time": 1734384850,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11556,
-      "num": 15173,
-      "word": "尹锡悦组建团队应对弹劾案",
-      "onboard_time": 1734383831,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9809,
