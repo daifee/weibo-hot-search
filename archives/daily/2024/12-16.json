@@ -1,6 +1,6 @@
 {
   "startTime": 1734280047811,
-  "endTime": 1734323356831,
+  "endTime": 1734324256733,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -59,6 +59,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 891603,
+      "num": 891603,
+      "word": "特别推荐主演",
+      "onboard_time": 1734321259,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 760601,
       "num": 916765,
       "word": "周密破防了",
@@ -75,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 680304,
-      "num": 680304,
-      "word": "特别推荐主演",
-      "onboard_time": 1734321259,
-      "rank": 3,
-      "category": "剧集"
+      "raw_hot": 670470,
+      "num": 670470,
+      "word": "安徽监狱回应李铁可否在里面踢球",
+      "onboard_time": 1734322999,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 619233,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404989,
+      "num": 404989,
+      "word": "王鹤棣新歌歌词",
+      "onboard_time": 1734305776,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 403142,
       "num": 403142,
       "word": "猎罪图鉴2 平等冒犯所有人",
@@ -212,11 +228,19 @@
     },
     {
       "raw_hot": 388055,
-      "num": 221838,
+      "num": 278631,
       "word": "丈夫陪妻子就诊被医生一眼看出脑瘤",
       "onboard_time": 1734321499,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384971,
+      "num": 280045,
+      "word": "张馨予顶着1斤金冠拍戏",
+      "onboard_time": 1734322761,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 381635,
@@ -233,14 +257,6 @@
       "onboard_time": 1734307759,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 363387,
-      "num": 363387,
-      "word": "王鹤棣新歌歌词",
-      "onboard_time": 1734305776,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 361358,
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321544,
+      "num": 416185,
+      "word": "第一批逃去大理的人已经去昆明了",
+      "onboard_time": 1734321859,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321107,
       "num": 390017,
       "word": "洗火车见过吗",
@@ -307,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 303619,
-      "num": 303619,
-      "word": "安徽监狱回应李铁可否在里面踢球",
-      "onboard_time": 1734322999,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 296928,
+      "num": 283819,
+      "word": "陈都灵终于演上一整部剧的女妖了",
+      "onboard_time": 1734322041,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 296373,
@@ -363,12 +387,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273367,
-      "num": 416185,
-      "word": "第一批逃去大理的人已经去昆明了",
-      "onboard_time": 1734321859,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 274169,
+      "num": 289362,
+      "word": "郭敬明古偶三部曲",
+      "onboard_time": 1734321440,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 269317,
@@ -403,12 +427,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238516,
-      "num": 283819,
-      "word": "陈都灵终于演上一整部剧的女妖了",
-      "onboard_time": 1734322041,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 245334,
+      "num": 295698,
+      "word": "林诗栋3比0胜林高远",
+      "onboard_time": 1734322521,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239991,
+      "num": 239991,
+      "word": "杨幂湖南卫视跨年官宣加盟",
+      "onboard_time": 1734322880,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 230112,
@@ -435,14 +467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 220067,
-      "num": 289362,
-      "word": "郭敬明古偶三部曲",
-      "onboard_time": 1734321440,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219438,
       "num": 219438,
       "word": "经常运动对外貌的改变有多大",
@@ -467,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214358,
+      "num": 274913,
+      "word": "张萌问李昀锐热红温了么",
+      "onboard_time": 1734323540,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212907,
       "num": 295388,
       "word": "我是刑警杨小洁原型是贵州民警杨小宇",
@@ -483,12 +515,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 209420,
-      "num": 209420,
-      "word": "杨幂湖南卫视跨年官宣加盟",
-      "onboard_time": 1734322880,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 205174,
+      "num": 205174,
+      "word": "张萌 不能用长剧的方法拍短剧",
+      "onboard_time": 1734323601,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 203745,
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 198500,
-      "num": 198500,
+      "num": 391649,
       "word": "卖课直播用1.9元勾引人花8800元",
       "onboard_time": 1734321980,
       "rank": 35,
@@ -529,14 +561,6 @@
       "onboard_time": 1734318556,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194804,
-      "num": 194804,
-      "word": "张馨予顶着1斤金冠拍戏",
-      "onboard_time": 1734322761,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193868,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173717,
+      "num": 173717,
+      "word": "夏一平",
+      "onboard_time": 1734323300,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173674,
       "num": 173674,
       "word": "合肥核查代孕事件所涉公职人员",
@@ -619,20 +651,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172036,
+      "num": 172036,
+      "word": "一克黄金到底有多大",
+      "onboard_time": 1734323901,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 163346,
       "num": 163346,
       "word": "林墨 怎么能把现代装焊在脸上",
       "onboard_time": 1734273801,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161809,
-      "num": 161809,
-      "word": "夏一平",
-      "onboard_time": 1734323300,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 160650,
@@ -665,6 +697,14 @@
       "onboard_time": 1734282195,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156134,
+      "num": 156134,
+      "word": "宋小宝新片婚纱造型 左右为男",
+      "onboard_time": 1734323841,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155127,
@@ -795,12 +835,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136541,
+      "num": 276440,
+      "word": "王楚钦赛前热身再现穿越球",
+      "onboard_time": 1734324141,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134953,
       "num": 134953,
       "word": "时代姐妹花 今夕何夕",
       "onboard_time": 1734306377,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 134451,
+      "num": 134451,
+      "word": "宋墨句句都是虎狼之词",
+      "onboard_time": 1734323960,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133591,
@@ -905,6 +961,14 @@
       "onboard_time": 1734318858,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111920,
+      "num": 274344,
+      "word": "勇士半场18记三分",
+      "onboard_time": 1734323721,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 108409,
@@ -1099,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87455,
+      "num": 183362,
+      "word": "美团年度报告好玩",
+      "onboard_time": 1734321619,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87186,
       "num": 87186,
       "word": "猎罪图鉴2",
@@ -1163,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81690,
+      "num": 814547,
+      "word": "好吃好看好玩的澳门好想去",
+      "onboard_time": 1734321920,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 80941,
       "num": 80941,
       "word": "丁禹兮无声哭戏",
@@ -1179,14 +1259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77701,
-      "num": 295698,
-      "word": "林诗栋3比0胜林高远",
-      "onboard_time": 1734322521,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77689,
       "num": 77689,
       "word": "鹿晗玫瑰印花卫衣",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1734255440,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75213,
-      "num": 183362,
-      "word": "美团年度报告好玩",
-      "onboard_time": 1734321619,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 74676,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1734298391,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72502,
+      "num": 293470,
+      "word": "王楚钦3比1孙闻",
+      "onboard_time": 1734322880,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 70326,
@@ -1331,14 +1403,6 @@
       "category": "体育,电竞"
     },
     {
-      "raw_hot": 57129,
-      "num": 814547,
-      "word": "好吃好看好玩的澳门好想去",
-      "onboard_time": 1734321920,
-      "rank": 2,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 56617,
       "num": 302597,
       "word": "11月社会消费品零售总额43763亿",
@@ -1371,20 +1435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51483,
-      "num": 293470,
-      "word": "王楚钦3比1孙闻",
-      "onboard_time": 1734322880,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45882,
       "num": 45882,
       "word": "曼联足球俱乐部",
       "onboard_time": 1734290352,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43685,
+      "num": 280980,
+      "word": "电影窗前明月咣听取瓜声一片",
+      "onboard_time": 1734323601,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 41125,
@@ -1459,6 +1523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 33336,
+      "num": 275793,
+      "word": "全球第一个新海诚作品cafe",
+      "onboard_time": 1734320178,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 32863,
       "num": 57189,
       "word": "起猛了在尔滨看见福建舰",
@@ -1468,7 +1540,7 @@
     },
     {
       "raw_hot": 32644,
-      "num": 242924,
+      "num": 312402,
       "word": "Prada活动现场即秀场",
       "onboard_time": 1734322220,
       "rank": 29,
@@ -1505,14 +1577,6 @@
       "onboard_time": 1734272660,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25173,
-      "num": 259222,
-      "word": "全球第一个新海诚作品cafe",
-      "onboard_time": 1734320178,
-      "rank": 28,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 23286,
@@ -1571,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18867,
+      "num": 287755,
+      "word": "万茜联手华为MateX6能有多全能",
+      "onboard_time": 1734322220,
+      "rank": 23,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 18658,
       "num": 20207,
       "word": "男子低价购课遭遇套娃收费",
@@ -1585,14 +1657,6 @@
       "onboard_time": 1734281896,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17354,
-      "num": 287755,
-      "word": "万茜联手华为MateX6能有多全能",
-      "onboard_time": 1734322220,
-      "rank": 23,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 17350,
@@ -1740,6 +1804,9 @@
     },
     {
       "word": "#把各方面积极因素转化为发展实绩#"
+    },
+    {
+      "word": "#澳门这朵祖国的美丽莲花必将更绚丽#"
     }
   ]
 }
