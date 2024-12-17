@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/18 07:22:02
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/18 07:36:32
 </p>
 </blockquote>
 <p>
@@ -5187,6 +5187,12 @@ TF家族新年音乐会官宣（热度：655103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E4%BB%8B%E5%85%A5%E6%88%90%E9%83%BD%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%AE%BE%E7%BD%AE%E5%AD%A6%E9%9C%B8%E5%B0%B1%E9%A4%90%E5%8C%BA%23" target="weibo">
+教育局介入成都一中学设置学霸就餐区（热度：650878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%92%8C%E5%BE%90%E5%BF%97%E8%83%9C%E5%A5%B3%E5%8F%8B%E7%85%B2%E7%94%B5%E8%AF%9D%E7%B2%A5%23" target="weibo">
 孟子义和徐志胜女友煲电话粥（热度：650207）
 </a>
@@ -6005,12 +6011,6 @@ Pest发歌diss周密（热度：602561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%98%E5%9B%BD%E7%8E%8B%E5%9C%A8%E5%86%AC%E7%9C%A0%23" target="weibo">
 嘘国王在冬眠（热度：588762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%9B%E8%BF%91%E7%85%A7%23" target="weibo">
-姜涛近照（热度：586770）
 </a>
 </li>
 
