@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734434434907,
+  "endTime": 1734435356590,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1224265,
+      "num": 1224265,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1163025,
       "num": 849584,
       "word": "时宴没有被邀请",
@@ -145,14 +153,6 @@
       "onboard_time": 1734414319,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1067826,
-      "num": 1067826,
-      "word": "王鹤棣 如果哪天我不帅了",
-      "onboard_time": 1734432019,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 1064013,
@@ -491,6 +491,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 499376,
+      "num": 358292,
+      "word": "王楚钦汪苏泷同台",
+      "onboard_time": 1734433280,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 498161,
       "num": 498161,
       "word": "25岁虎牙女主播酷萱疑意外去世",
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376268,
+      "num": 292274,
+      "word": "宋雨琦内娱第一个跨年舞台",
+      "onboard_time": 1734432500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370428,
       "num": 198057,
       "word": "李昀锐 少年感的爹",
@@ -673,14 +689,6 @@
       "onboard_time": 1734418639,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358292,
-      "num": 358292,
-      "word": "王楚钦汪苏泷同台",
-      "onboard_time": 1734433280,
-      "rank": 7,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 344121,
@@ -755,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 322811,
+      "num": 267226,
+      "word": "南大碎尸案家属回应张译躺枪",
+      "onboard_time": 1734434419,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319815,
       "num": 150191,
       "word": "成毅粉丝拒绝认领长安二十四计",
@@ -819,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283889,
+      "num": 283889,
+      "word": "和平饭店回应298元套餐仅有水和面包",
+      "onboard_time": 1734432619,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282963,
       "num": 282963,
       "word": "刘亦菲惠英红C位",
@@ -857,14 +881,6 @@
       "onboard_time": 1734408741,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273990,
-      "num": 292274,
-      "word": "宋雨琦内娱第一个跨年舞台",
-      "onboard_time": 1734432500,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 270254,
@@ -907,6 +923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 241220,
+      "num": 241220,
+      "word": "杨洋活动直拍",
+      "onboard_time": 1734433400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239633,
       "num": 239633,
       "word": "B太称随行的人也拉肚子了",
@@ -921,6 +945,14 @@
       "onboard_time": 1734428781,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234286,
+      "num": 344217,
+      "word": "优酷回应南大碎尸案被害人家属发文",
+      "onboard_time": 1734432740,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230903,
@@ -1027,14 +1059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 213878,
-      "num": 213878,
-      "word": "和平饭店回应298元套餐仅有水和面包",
-      "onboard_time": 1734432619,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210021,
       "num": 210021,
       "word": "设置学霸就餐区中学已整改取消",
@@ -1139,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197849,
-      "num": 185343,
-      "word": "杨洋活动直拍",
-      "onboard_time": 1734433400,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197552,
       "num": 197552,
       "word": "自闭症孩子课间撞墙被同学温柔抱住",
@@ -1163,7 +1179,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195137,
+      "raw_hot": 195261,
       "num": 195137,
       "word": "丁禹兮空降",
       "onboard_time": 1734433879,
@@ -1185,6 +1201,14 @@
       "onboard_time": 1734392537,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "张韶涵被催了5年的新专辑来了",
+      "onboard_time": 1734434960,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 192277,
@@ -1363,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170087,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170007,
       "num": 170007,
       "word": "阿萨德离开叙利亚后首次发表声明",
@@ -1499,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158852,
+      "num": 193493,
+      "word": "九重紫团综",
+      "onboard_time": 1734434178,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158754,
       "num": 143016,
       "word": "杨紫状态",
@@ -1595,12 +1635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150084,
-      "num": 344217,
-      "word": "优酷回应南大碎尸案被害人家属发文",
-      "onboard_time": 1734432740,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 150195,
+      "num": 246087,
+      "word": "娜扎曾因压力大长霰粒肿",
+      "onboard_time": 1734434659,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149734,
@@ -1707,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141913,
+      "num": 141913,
+      "word": "癌症科学家孙少聪离开美国前往中国",
+      "onboard_time": 1734434540,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141674,
       "num": 208425,
       "word": "马嘉祺皮埃尔定妆视频",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1734418577,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140952,
+      "num": 140952,
+      "word": "昭昭墨墨 在空中还啄了一口",
+      "onboard_time": 1734432319,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140472,
@@ -1795,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134097,
-      "num": 134097,
-      "word": "昭昭墨墨 在空中还啄了一口",
-      "onboard_time": 1734432319,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134051,
       "num": 297643,
       "word": "为什么你没有小时候那么讨厌蔬菜了",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1734361161,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128633,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127619,
@@ -2123,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88114,
+      "num": 193372,
+      "word": "恋与深空 雪地精灵",
+      "onboard_time": 1734435319,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88083,
       "num": 88637,
       "word": "王亚飞发了卢昱晓妆造vlog",
@@ -2307,6 +2355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66248,
+      "num": 879227,
+      "word": "中国经济有望持续回升有力有进",
+      "onboard_time": 1734424220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65998,
       "num": 65998,
       "word": "我国成为世界第1核电大国",
@@ -2409,14 +2465,6 @@
       "onboard_time": 1734360562,
       "rank": 49,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 59909,
-      "num": 811069,
-      "word": "中国经济有望持续回升有力有进",
-      "onboard_time": 1734424220,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59563,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1734364519,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47027,
+      "num": 216176,
+      "word": "王楚钦周启豪互动",
+      "onboard_time": 1734433640,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 46591,
@@ -2795,6 +2851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28494,
+      "num": 193928,
+      "word": "考研最关键的一步是上考场",
+      "onboard_time": 1734434779,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26574,
       "num": 26574,
       "word": "王俊凯确定出席2025巴黎时装周",
@@ -2827,12 +2891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25280,
-      "num": 216176,
-      "word": "王楚钦周启豪互动",
-      "onboard_time": 1734433640,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 24541,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 24307,
@@ -2851,20 +2915,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 24023,
+      "num": 193099,
+      "word": "蜜雪冰城回应多区域门店涨价",
+      "onboard_time": 1734434059,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 23861,
       "num": 52819,
       "word": "钎城守约露头就秒",
       "onboard_time": 1734363379,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 23020,
-      "num": 303289,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 22131,

@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734434434907,
+  "endTime": 1734435356590,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1224265,
+      "num": 1224265,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1224127,
       "num": 1224127,
       "word": "大学生买包发现731部队调查残件",
@@ -425,14 +433,6 @@
       "onboard_time": 1734334820,
       "rank": 1,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 1067826,
-      "num": 1067826,
-      "word": "王鹤棣 如果哪天我不帅了",
-      "onboard_time": 1734432019,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 1064013,
@@ -1563,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499376,
+      "num": 358292,
+      "word": "王楚钦汪苏泷同台",
+      "onboard_time": 1734433280,
+      "rank": 7,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 498161,
       "num": 498161,
       "word": "25岁虎牙女主播酷萱疑意外去世",
@@ -2051,6 +2059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376268,
+      "num": 292274,
+      "word": "宋雨琦内娱第一个跨年舞台",
+      "onboard_time": 1734432500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375526,
       "num": 375526,
       "word": "克莉丝汀确定退市",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1734418639,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358292,
-      "num": 358292,
-      "word": "王楚钦汪苏泷同台",
-      "onboard_time": 1734433280,
-      "rank": 7,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 357222,
@@ -2361,6 +2369,14 @@
       "onboard_time": 1734307819,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322811,
+      "num": 267226,
+      "word": "南大碎尸案家属回应张译躺枪",
+      "onboard_time": 1734434419,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 321897,
@@ -2643,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283889,
+      "num": 283889,
+      "word": "和平饭店回应298元套餐仅有水和面包",
+      "onboard_time": 1734432619,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283831,
       "num": 345978,
       "word": "杭州一执勤女骑警神似贾静雯",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1734321440,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273990,
-      "num": 292274,
-      "word": "宋雨琦内娱第一个跨年舞台",
-      "onboard_time": 1734432500,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 272384,
@@ -3051,6 +3067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 241220,
+      "num": 241220,
+      "word": "杨洋活动直拍",
+      "onboard_time": 1734433400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239991,
       "num": 239991,
       "word": "杨幂湖南卫视跨年官宣加盟",
@@ -3129,6 +3153,14 @@
       "onboard_time": 1734352942,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234286,
+      "num": 344217,
+      "word": "优酷回应南大碎尸案被害人家属发文",
+      "onboard_time": 1734432740,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234196,
@@ -3473,14 +3505,6 @@
       "onboard_time": 1734332839,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213878,
-      "num": 213878,
-      "word": "和平饭店回应298元套餐仅有水和面包",
-      "onboard_time": 1734432619,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213849,
@@ -3931,14 +3955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197849,
-      "num": 185343,
-      "word": "杨洋活动直拍",
-      "onboard_time": 1734433400,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197721,
       "num": 211012,
       "word": "王楚钦高举双拳庆祝",
@@ -4003,20 +4019,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195261,
+      "num": 195137,
+      "word": "丁禹兮空降",
+      "onboard_time": 1734433879,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195196,
       "num": 195196,
       "word": "EP夺得CFS总冠军",
       "onboard_time": 1734271521,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195137,
-      "num": 195137,
-      "word": "丁禹兮空降",
-      "onboard_time": 1734433879,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 195010,
@@ -4072,6 +4088,14 @@
       "word": "德古拉虞书欣上线",
       "onboard_time": 1734327378,
       "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "张韶涵被催了5年的新专辑来了",
+      "onboard_time": 1734434960,
+      "rank": 26,
       "category": "音乐"
     },
     {
@@ -4827,6 +4851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170087,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169329,
       "num": 169329,
       "word": "女子假扮保安混入演唱会被查获",
@@ -5267,6 +5299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158852,
+      "num": 193493,
+      "word": "九重紫团综",
+      "onboard_time": 1734434178,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158605,
       "num": 158605,
       "word": "明白为什么能坚持早起去图书馆了",
@@ -5611,12 +5651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150084,
-      "num": 344217,
-      "word": "优酷回应南大碎尸案被害人家属发文",
-      "onboard_time": 1734432740,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 150195,
+      "num": 246087,
+      "word": "娜扎曾因压力大长霰粒肿",
+      "onboard_time": 1734434659,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149734,
@@ -5907,6 +5947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141913,
+      "num": 141913,
+      "word": "癌症科学家孙少聪离开美国前往中国",
+      "onboard_time": 1734434540,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141738,
       "num": 102684,
       "word": "孔雪儿九重紫婚礼crush文学",
@@ -5961,6 +6009,14 @@
       "onboard_time": 1734274821,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140952,
+      "num": 140952,
+      "word": "昭昭墨墨 在空中还啄了一口",
+      "onboard_time": 1734432319,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140678,
@@ -6227,14 +6283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134097,
-      "num": 134097,
-      "word": "昭昭墨墨 在空中还啄了一口",
-      "onboard_time": 1734432319,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134051,
       "num": 297643,
       "word": "为什么你没有小时候那么讨厌蔬菜了",
@@ -6473,14 +6521,6 @@
       "onboard_time": 1734254599,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128633,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128416,
@@ -7803,6 +7843,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 88114,
+      "num": 193372,
+      "word": "恋与深空 雪地精灵",
+      "onboard_time": 1734435319,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88083,
       "num": 88637,
       "word": "王亚飞发了卢昱晓妆造vlog",
@@ -8427,6 +8475,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 66248,
+      "num": 879227,
+      "word": "中国经济有望持续回升有力有进",
+      "onboard_time": 1734424220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66130,
       "num": 160855,
       "word": "库里终于有副攻手了",
@@ -8601,14 +8657,6 @@
       "onboard_time": 1734175820,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59909,
-      "num": 811069,
-      "word": "中国经济有望持续回升有力有进",
-      "onboard_time": 1734424220,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59563,
@@ -8952,6 +9000,14 @@
       "word": "上海地产集团VS山东鲁能",
       "onboard_time": 1734231498,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47027,
+      "num": 216176,
+      "word": "王楚钦周启豪互动",
+      "onboard_time": 1734433640,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -9739,6 +9795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 28494,
+      "num": 193928,
+      "word": "考研最关键的一步是上考场",
+      "onboard_time": 1734434779,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 28260,
       "num": 55571,
       "word": "芒特伤退",
@@ -9819,14 +9883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25280,
-      "num": 216176,
-      "word": "王楚钦周启豪互动",
-      "onboard_time": 1734433640,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 25232,
       "num": 331528,
       "word": "澳门2049又熟悉又新鲜",
@@ -9851,6 +9907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24541,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
@@ -9865,6 +9929,14 @@
       "onboard_time": 1734426319,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 24023,
+      "num": 193099,
+      "word": "蜜雪冰城回应多区域门店涨价",
+      "onboard_time": 1734434059,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 23925,
@@ -9913,14 +9985,6 @@
       "onboard_time": 1734215952,
       "rank": 29,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 23020,
-      "num": 303289,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 22758,
