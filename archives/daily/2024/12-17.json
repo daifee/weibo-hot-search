@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734392277572,
+  "endTime": 1734400255173,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -9,6 +9,14 @@
       "onboard_time": 1734364519,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1132321,
+      "num": 1181171,
+      "word": "特朗普会见TikTok的CEO周受资",
+      "onboard_time": 1734394998,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 789560,
@@ -25,6 +33,22 @@
       "onboard_time": 1734359842,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 694558,
+      "num": 694558,
+      "word": "程潇评论区",
+      "onboard_time": 1734399256,
+      "rank": 1,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 612390,
+      "num": 612390,
+      "word": "原来当年拍甄嬛传时大家才20多岁",
+      "onboard_time": 1734397038,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 573985,
@@ -59,12 +83,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 491890,
+      "num": 491890,
+      "word": "秦兵马俑目前仅发现10尊将军俑",
+      "onboard_time": 1734397698,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484211,
       "num": 396935,
       "word": "死者父亲称已与儿媳达成和解",
       "onboard_time": 1734356300,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 483113,
+      "num": 483113,
+      "word": "杨幂对接回应嘉人红毯顺序",
+      "onboard_time": 1734391575,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 454785,
+      "num": 454785,
+      "word": "余衍隆曝阿娇变胖原因",
+      "onboard_time": 1734385391,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 447343,
@@ -107,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370294,
+      "num": 370294,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1734352582,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366472,
       "num": 366472,
       "word": "湖北一教师被捕兽电网电击身亡",
@@ -123,8 +179,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341363,
+      "num": 215195,
+      "word": "10后女生独爱鲶鱼须刘海",
+      "onboard_time": 1734395659,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 326991,
+      "num": 326991,
+      "word": "第一次见地铁户型的家",
+      "onboard_time": 1734394399,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324234,
-      "num": 165774,
+      "num": 165972,
       "word": "刘亦菲压轴",
       "onboard_time": 1734352100,
       "rank": 20,
@@ -139,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315517,
+      "num": 315517,
+      "word": "米饭仙人 你的菜来了",
+      "onboard_time": 1734394339,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 313326,
       "num": 313326,
       "word": "王楚钦谈和樊振东交手",
@@ -147,20 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291613,
-      "num": 204311,
-      "word": "余衍隆曝阿娇变胖原因",
-      "onboard_time": 1734385391,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 284749,
-      "num": 284749,
-      "word": "樊振东3比1胜王楚钦",
-      "onboard_time": 1734352582,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 297725,
+      "num": 297725,
+      "word": "小伙见女生被偷拍上前阻止遭殴打",
+      "onboard_time": 1734393436,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265607,
@@ -179,6 +251,54 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228648,
+      "num": 214615,
+      "word": "1个墙缝同时卡住2个孩子",
+      "onboard_time": 1734396318,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217088,
+      "num": 214478,
+      "word": "美国17岁女生校内开枪致3死",
+      "onboard_time": 1734394339,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 215510,
+      "num": 215510,
+      "word": "有一种骄傲叫舷号17",
+      "onboard_time": 1734394457,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 214229,
+      "num": 214229,
+      "word": "田曦薇方称逐玉绝对平番",
+      "onboard_time": 1734396079,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196343,
+      "num": 196343,
+      "word": "医院拒绝回应免费为多名老人做手术",
+      "onboard_time": 1734398118,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194731,
+      "num": 194731,
+      "word": "刘宇救场闫桉",
+      "onboard_time": 1734392537,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189358,
       "num": 189358,
       "word": "医生上报12岁女孩感染HPV反遭质问",
@@ -195,20 +315,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 183689,
-      "num": 183689,
-      "word": "杨幂对接回应嘉人红毯顺序",
-      "onboard_time": 1734391575,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 177089,
       "num": 177089,
       "word": "乒超四强出炉",
       "onboard_time": 1734362539,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176258,
+      "num": 176258,
+      "word": "我国成功发射一箭四星",
+      "onboard_time": 1734391455,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 176153,
+      "num": 176153,
+      "word": "李昀锐工作室有我们自己人",
+      "onboard_time": 1734398778,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 171696,
@@ -227,12 +355,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168146,
+      "num": 168146,
+      "word": "为护女性遭邻居捅伤19岁小伙现状",
+      "onboard_time": 1734392117,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "王楚钦将在总决赛全力以赴",
+      "onboard_time": 1734399978,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162691,
       "num": 144996,
       "word": "骨科医生都推荐的睡姿",
       "onboard_time": 1734356360,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162095,
+      "num": 162095,
+      "word": "主播为骗人站大楼前就说楼是自己的",
+      "onboard_time": 1734399498,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161029,
+      "num": 161029,
+      "word": "外国人嗑瓜子真的很忙",
+      "onboard_time": 1734391515,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160660,
+      "num": 160660,
+      "word": "孙颖莎9900分保持世一",
+      "onboard_time": 1734398838,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 160318,
@@ -259,6 +427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 145835,
+      "num": 382222,
+      "word": "呼伦贝尔冷到吹泡泡吹出冰球",
+      "onboard_time": 1734398118,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "李昀锐十秒三次转头看孟子义",
@@ -275,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133183,
-      "num": 133183,
+      "raw_hot": 138116,
+      "num": 138116,
+      "word": "孙正义现身特朗普海湖庄园",
+      "onboard_time": 1734398658,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133479,
+      "num": 133479,
       "word": "王灿聊住家阿姨的分寸感",
       "onboard_time": 1734356480,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132374,
+      "num": 132374,
+      "word": "特斯拉市值一夜涨超6200亿元",
+      "onboard_time": 1734394879,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 129730,
@@ -289,6 +481,14 @@
       "onboard_time": 1734361161,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127619,
+      "num": 127619,
+      "word": "加沙北部最后一名骨外科医生被打死",
+      "onboard_time": 1734393917,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123402,
@@ -307,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111217,
+      "num": 111217,
+      "word": "王楚钦连续51周霸榜世排第一",
+      "onboard_time": 1734399256,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110003,
       "num": 107014,
       "word": "杨幂 今天我们相聚在这里",
@@ -321,14 +529,6 @@
       "onboard_time": 1734360740,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103348,
-      "num": 103348,
-      "word": "我国成功发射一箭四星",
-      "onboard_time": 1734391455,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101409,
@@ -352,6 +552,14 @@
       "word": "上海和平饭店298元套餐遭吐槽",
       "onboard_time": 1734341899,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93316,
+      "num": 376062,
+      "word": "2025年火车票明天起售",
+      "onboard_time": 1734399138,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -385,6 +593,14 @@
       "onboard_time": 1734365177,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 83123,
+      "num": 300535,
+      "word": "2024令人难忘的同框",
+      "onboard_time": 1734399256,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 80967,
@@ -547,22 +763,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 54463,
-      "num": 54463,
-      "word": "为护女性遭邻居捅伤19岁小伙现状",
-      "onboard_time": 1734392117,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54084,
-      "num": 54084,
-      "word": "外国人嗑瓜子真的很忙",
-      "onboard_time": 1734391515,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 51998,
       "num": 51998,
       "word": "玩雪这一块哈尔滨还是太超前了",
@@ -644,7 +844,7 @@
     },
     {
       "raw_hot": 37489,
-      "num": 423556,
+      "num": 642352,
       "word": "万千气象看吉林",
       "onboard_time": 1734354320,
       "rank": 2,
