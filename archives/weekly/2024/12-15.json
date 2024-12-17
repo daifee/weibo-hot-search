@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734449166122,
+  "endTime": 1734450052108,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -929,6 +929,14 @@
       "onboard_time": 1734344480,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 729860,
+      "num": 729860,
+      "word": "上海地铁乘客互骂女子怒问你上海几套房",
+      "onboard_time": 1734448160,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 727055,
@@ -1875,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443026,
+      "num": 443026,
+      "word": "丁程鑫后援会官博发文",
+      "onboard_time": 1734447621,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442904,
       "num": 442904,
       "word": "张诗尧评论曾黎萨顶顶",
@@ -2091,14 +2107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 400618,
-      "num": 400618,
-      "word": "丁程鑫后援会官博发文",
-      "onboard_time": 1734447621,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 399286,
       "num": 399286,
       "word": "孔雪儿领衔主演逐玉",
@@ -2233,6 +2241,14 @@
       "onboard_time": 1734338660,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372773,
+      "num": 372773,
+      "word": "陈梦谈退役后的打算",
+      "onboard_time": 1734448400,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 370981,
@@ -2385,6 +2401,14 @@
       "onboard_time": 1734367694,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342879,
+      "num": 342879,
+      "word": "浙江大学经济学院通报",
+      "onboard_time": 1734448400,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 342876,
@@ -2587,14 +2611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318596,
-      "num": 318596,
-      "word": "上海地铁乘客互骂女子怒问你上海几套房",
-      "onboard_time": 1734448160,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318580,
       "num": 318580,
       "word": "被抱养37年女子称高中每周只用2块",
@@ -2745,6 +2761,14 @@
       "onboard_time": 1734322220,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294770,
+      "num": 294770,
+      "word": "原来两个人在一起不一定因为爱情",
+      "onboard_time": 1734446122,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 294529,
@@ -3035,14 +3059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267364,
-      "num": 267364,
-      "word": "原来两个人在一起不一定因为爱情",
-      "onboard_time": 1734446122,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 266986,
       "num": 266986,
       "word": "在韩国花71w韩元化妆是什么水平",
@@ -3179,14 +3195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248469,
-      "num": 248469,
-      "word": "陈梦谈退役后的打算",
-      "onboard_time": 1734448400,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 247987,
       "num": 268248,
       "word": "田曦薇逐玉红衣高马尾路透",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1734433400,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240063,
-      "num": 240063,
-      "word": "浙江大学经济学院通报",
-      "onboard_time": 1734448400,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 239991,
@@ -3409,6 +3409,14 @@
       "onboard_time": 1734316938,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 229779,
+      "num": 229779,
+      "word": "贾玲 魂又没换",
+      "onboard_time": 1734449238,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 229766,
@@ -5107,6 +5115,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 171517,
+      "num": 171517,
+      "word": "韩国吃外卖两分钟 扔外卖两小时",
+      "onboard_time": 1734447740,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171378,
       "num": 171378,
       "word": "嘉人女性力量 刻板印象",
@@ -5275,14 +5291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167106,
-      "num": 167106,
-      "word": "韩国吃外卖两分钟 扔外卖两小时",
-      "onboard_time": 1734447740,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 166889,
       "num": 166889,
       "word": "A股三大主线集中爆发",
@@ -5417,6 +5425,14 @@
       "onboard_time": 1734358580,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163990,
+      "num": 163990,
+      "word": "南大碎尸案警方誓言追查到底",
+      "onboard_time": 1734449419,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163713,
@@ -6265,6 +6281,14 @@
       "onboard_time": 1734359601,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143030,
+      "num": 143030,
+      "word": "周深陶喆在聊什么",
+      "onboard_time": 1734449058,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 142721,
@@ -7193,14 +7217,6 @@
       "onboard_time": 1734235999,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 122367,
-      "num": 122367,
-      "word": "周深陶喆在聊什么",
-      "onboard_time": 1734449058,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 121895,
@@ -8955,6 +8971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68761,
+      "num": 358655,
+      "word": "网曝教师伪造邀请函致学生被拒签",
+      "onboard_time": 1734448939,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
@@ -10337,14 +10361,6 @@
       "onboard_time": 1734334158,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 30287,
-      "num": 343192,
-      "word": "网曝教师伪造邀请函致学生被拒签",
-      "onboard_time": 1734448939,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29999,
