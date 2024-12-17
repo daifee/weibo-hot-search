@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734474140404,
+  "endTime": 1734475218024,
   "band_list": [
     {
       "raw_hot": 1241324,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136723,
+      "num": 136723,
+      "word": "统一黑底白字招牌曝光后连夜拆除",
+      "onboard_time": 1734457813,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132289,
       "num": 132289,
       "word": "鹿晗猝不及防的互拍",
@@ -251,12 +259,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106099,
+      "num": 160113,
+      "word": "加拿大一周大福门店遭抢劫",
+      "onboard_time": 1734453136,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104459,
+      "num": 104459,
+      "word": "胖东来成了一个外地游客打卡点",
+      "onboard_time": 1734471911,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103906,
       "num": 103906,
       "word": "和平饭店回应298元套餐仅有水和面包",
       "onboard_time": 1734432619,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102747,
+      "num": 102747,
+      "word": "特朗普称现在都想和他交朋友",
+      "onboard_time": 1734459012,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102630,
@@ -283,14 +315,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98948,
-      "num": 98948,
-      "word": "特朗普称现在都想和他交朋友",
-      "onboard_time": 1734459012,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96347,
       "num": 96347,
       "word": "孟子义对李昀锐撒娇要衣服",
@@ -305,14 +329,6 @@
       "onboard_time": 1734450799,
       "rank": 37,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 94180,
-      "num": 94180,
-      "word": "统一黑底白字招牌曝光后连夜拆除",
-      "onboard_time": 1734457813,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90313,
@@ -347,12 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 86100,
-      "num": 160113,
-      "word": "加拿大一周大福门店遭抢劫",
-      "onboard_time": 1734453136,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 84543,
+      "num": 84543,
+      "word": "网传失联李宜雪一直在家中",
+      "onboard_time": 1734461413,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83767,
@@ -377,14 +393,6 @@
       "onboard_time": 1734446721,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82036,
-      "num": 82036,
-      "word": "网传失联李宜雪一直在家中",
-      "onboard_time": 1734461413,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80050,
@@ -419,7 +427,23 @@
       "category": "财经"
     },
     {
-      "raw_hot": 53214,
+      "raw_hot": 68770,
+      "num": 68770,
+      "word": "律师称张译若不知侵权无需担责",
+      "onboard_time": 1734473832,
+      "rank": 39,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 67323,
+      "num": 76964,
+      "word": "俄军三防部队司令被炸身亡",
+      "onboard_time": 1734460213,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62231,
       "num": 48984,
       "word": "最疯狂时期平均每天贪200万",
       "onboard_time": 1734455834,
@@ -435,20 +459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51134,
-      "num": 51134,
-      "word": "胖东来成了一个外地游客打卡点",
-      "onboard_time": 1734471911,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50348,
-      "num": 76964,
-      "word": "俄军三防部队司令被炸身亡",
-      "onboard_time": 1734460213,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 46720,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 45159,
@@ -467,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41906,
-      "num": 52637,
-      "word": "网友拍的张柏芝",
-      "onboard_time": 1734459433,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41727,
       "num": 41727,
       "word": "尹锡悦现在各种拒绝",
@@ -489,6 +497,14 @@
       "onboard_time": 1734433400,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37532,
+      "num": 37532,
+      "word": "涉国乒违规信息被集中清理",
+      "onboard_time": 1734460092,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 37230,
@@ -507,20 +523,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30645,
-      "num": 30645,
-      "word": "涉国乒违规信息被集中清理",
-      "onboard_time": 1734460092,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29734,
       "num": 170771,
       "word": "杨妞花称死刑是对受害家庭的告慰",
       "onboard_time": 1734452358,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28239,
+      "num": 36815,
+      "word": "B太称被部分营销号断章取义",
+      "onboard_time": 1734466270,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 27620,
@@ -539,28 +555,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24010,
-      "num": 36815,
-      "word": "B太称被部分营销号断章取义",
-      "onboard_time": 1734466270,
+      "raw_hot": 26032,
+      "num": 50526,
+      "word": "湖南两个口岸240小时过境免签",
+      "onboard_time": 1734472451,
       "rank": 9,
-      "category": "网红"
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 21089,
-      "num": 21089,
+      "raw_hot": 25574,
+      "num": 25574,
+      "word": "集卡去微博之夜现场",
+      "onboard_time": 1734474913,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24204,
+      "num": 25574,
+      "word": "歌手诺米谈走红8个月",
+      "onboard_time": 1734471671,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23534,
+      "num": 25573,
       "word": "中国已同26个国家达成全面免签",
       "onboard_time": 1734465851,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20713,
-      "num": 20713,
-      "word": "律师称张译若不知侵权无需担责",
-      "onboard_time": 1734473832,
-      "rank": 39,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 19837,
@@ -577,14 +601,6 @@
       "onboard_time": 1734468791,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19220,
-      "num": 50526,
-      "word": "湖南两个口岸240小时过境免签",
-      "onboard_time": 1734472451,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18525,
