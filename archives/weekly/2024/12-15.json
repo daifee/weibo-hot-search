@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734435356590,
+  "endTime": 1734439694091,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -153,6 +153,14 @@
       "onboard_time": 1734340820,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1797725,
+      "num": 1797725,
+      "word": "优酷回应南大碎尸案被害人家属发文",
+      "onboard_time": 1734432740,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1733000,
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786278,
+      "num": 786278,
+      "word": "iPhone或迎六年来首次设计大换代",
+      "onboard_time": 1734436878,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 786200,
       "num": 416615,
       "word": "男友涉性侵或面临10年以上有期徒刑",
@@ -1411,6 +1427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 540742,
+      "num": 540742,
+      "word": "和平饭店回应298元套餐仅有水和面包",
+      "onboard_time": 1734432619,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540417,
       "num": 540417,
       "word": "猎罪图鉴2钉鸡头事件",
@@ -1715,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 462516,
+      "num": 462516,
+      "word": "九重紫团综",
+      "onboard_time": 1734434178,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461291,
       "num": 461291,
       "word": "赵又廷是高圆圆的情绪出口",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1734338061,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419464,
+      "num": 419464,
+      "word": "南大碎尸案家属回应张译躺枪",
+      "onboard_time": 1734434419,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 419256,
@@ -2371,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322811,
-      "num": 267226,
-      "word": "南大碎尸案家属回应张译躺枪",
-      "onboard_time": 1734434419,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321897,
       "num": 337711,
       "word": "赵丽颖方确认参加星光大赏",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1734182362,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320541,
+      "num": 320541,
+      "word": "九重紫 两世死的都是济宁侯夫人",
+      "onboard_time": 1734438260,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 319400,
@@ -2657,14 +2697,6 @@
       "onboard_time": 1734315376,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 283889,
-      "num": 283889,
-      "word": "和平饭店回应298元套餐仅有水和面包",
-      "onboard_time": 1734432619,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283831,
@@ -2923,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258056,
+      "num": 211532,
+      "word": "时代峰峻起诉马嘉祺黑粉",
+      "onboard_time": 1734437839,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254954,
       "num": 254954,
       "word": "东皇出现吓倒一片",
@@ -3153,14 +3193,6 @@
       "onboard_time": 1734352942,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234286,
-      "num": 344217,
-      "word": "优酷回应南大碎尸案被害人家属发文",
-      "onboard_time": 1734432740,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234196,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1734314898,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 212038,
+      "num": 212038,
+      "word": "市监局称羊汤发白是加了羊油",
+      "onboard_time": 1734436638,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211987,
@@ -4163,6 +4203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192306,
+      "num": 159480,
+      "word": "虞书欣欣愿party公式照",
+      "onboard_time": 1734438558,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192277,
       "num": 520416,
       "word": "江苏卫视跨年第三波阵容官宣",
@@ -4523,6 +4571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180470,
+      "num": 180470,
+      "word": "54岁香港男星申请破产",
+      "onboard_time": 1734437118,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180445,
       "num": 180445,
       "word": "CN赛区夺得CFS总冠军",
@@ -4593,6 +4649,14 @@
       "onboard_time": 1734315977,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178898,
+      "num": 178898,
+      "word": "蔡徐坤的苹果头",
+      "onboard_time": 1734437719,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178448,
@@ -5299,14 +5363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158852,
-      "num": 193493,
-      "word": "九重紫团综",
-      "onboard_time": 1734434178,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158605,
       "num": 158605,
       "word": "明白为什么能坚持早起去图书馆了",
@@ -5369,6 +5425,14 @@
       "onboard_time": 1734264679,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157710,
+      "num": 157710,
+      "word": "癌症科学家孙少聪离开美国前往中国",
+      "onboard_time": 1734434540,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157202,
@@ -5489,6 +5553,14 @@
       "onboard_time": 1734331217,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153976,
+      "num": 153976,
+      "word": "好适合吃饺子的盘子",
+      "onboard_time": 1734439277,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 153870,
@@ -5739,6 +5811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147811,
+      "num": 147811,
+      "word": "外卖小哥5年帮144名走失者找到家",
+      "onboard_time": 1734438919,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147780,
       "num": 640989,
       "word": "免费为多名老人做手术医院已被限消",
@@ -5945,14 +6025,6 @@
       "onboard_time": 1734259938,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141913,
-      "num": 141913,
-      "word": "癌症科学家孙少聪离开美国前往中国",
-      "onboard_time": 1734434540,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141738,
@@ -6547,6 +6619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128107,
+      "num": 128107,
+      "word": "白鹿1到30岁颜值变化",
+      "onboard_time": 1734435919,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127619,
       "num": 127619,
       "word": "加沙北部最后一名骨外科医生被打死",
@@ -6633,6 +6713,14 @@
       "onboard_time": 1734352522,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125094,
+      "num": 125094,
+      "word": "在韩国花71w韩元化妆是什么水平",
+      "onboard_time": 1734439579,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 124976,
@@ -6723,6 +6811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122733,
+      "num": 122733,
+      "word": "和平饭店298套餐买的是情绪价值吗",
+      "onboard_time": 1734435859,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122551,
       "num": 197978,
       "word": "第五人格赛事",
@@ -6753,6 +6849,14 @@
       "onboard_time": 1734256638,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121254,
+      "num": 121254,
+      "word": "金善禹唱了beautiful",
+      "onboard_time": 1734438977,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 120409,
@@ -6801,6 +6905,14 @@
       "onboard_time": 1734427219,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119965,
+      "num": 119965,
+      "word": "以闪亮之名",
+      "onboard_time": 1734439340,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119820,
@@ -7979,6 +8091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82148,
+      "num": 211566,
+      "word": "疑似涉黄私人影院注册资本仅10万",
+      "onboard_time": 1734438439,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82102,
       "num": 82102,
       "word": "宋亚轩翻唱花花公子",
@@ -8415,6 +8535,14 @@
       "num": 68643,
       "word": "飞鹤",
       "onboard_time": 1734375971,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68569,
+      "num": 406235,
+      "word": "南大碎尸案家属称剧方不愿公开道歉",
+      "onboard_time": 1734438858,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -8873,6 +9001,14 @@
       "onboard_time": 1734195196,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 49942,
+      "num": 331853,
+      "word": "中国海警回应菲向仁爱礁坐滩军舰运补",
+      "onboard_time": 1734439040,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49848,
@@ -9987,6 +10123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22957,
+      "num": 211533,
+      "word": "清密中年组天降完胜竹马",
+      "onboard_time": 1734436878,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22758,
       "num": 341823,
       "word": "为了它澳门值得一去再去",
@@ -10395,6 +10539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14756,
+      "num": 178918,
+      "word": "老中青三代文艺工作者感悟深扎路",
+      "onboard_time": 1734430219,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14727,
       "num": 231267,
       "word": "网络文学平台推秦海璐霸总小说书单",
@@ -10433,6 +10585,14 @@
       "onboard_time": 1734196756,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14076,
+      "num": 186879,
+      "word": "光遇复刻",
+      "onboard_time": 1734437658,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 14065,
@@ -10729,6 +10889,14 @@
       "onboard_time": 1734354139,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7430,
+      "num": 163485,
+      "word": "宋旻浩被兵务厅调查",
+      "onboard_time": 1734439639,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 7162,
