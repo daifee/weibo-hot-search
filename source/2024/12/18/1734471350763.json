@@ -1,0 +1,410 @@
+{
+  "runTime": 1734471350763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113220,
+        "num": 174799,
+        "word": "南大碎尸案警方誓言追查到底",
+        "onboard_time": 1734449419,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64802,
+        "num": 64802,
+        "word": "网传失联李宜雪一直在家中",
+        "onboard_time": 1734461413,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2296,
+        "num": 59854,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55069,
+        "num": 55069,
+        "word": "贾玲回应瘦身后观众缘松动",
+        "onboard_time": 1734442640,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48412,
+        "num": 48412,
+        "word": "统一黑底白字招牌曝光后连夜拆除",
+        "onboard_time": 1734457813,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47942,
+        "num": 47942,
+        "word": "特朗普称现在都想和他交朋友",
+        "onboard_time": 1734459012,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46880,
+        "num": 46880,
+        "word": "加拿大一周大福门店遭抢劫",
+        "onboard_time": 1734453136,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30276,
+        "num": 35930,
+        "word": "虞书欣换头像",
+        "onboard_time": 1734445101,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33647,
+        "num": 33647,
+        "word": "汇源称员工遭河南一镇政府人员殴打",
+        "onboard_time": 1734465072,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 14492,
+        "num": 33529,
+        "word": "澳门盛装迎接回归祖国25周年",
+        "onboard_time": 1734470531,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 82940,
+        "num": 32895,
+        "word": "上海地铁乘客互骂女子怒问你上海几套房",
+        "onboard_time": 1734448160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76512,
+        "num": 32573,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53616,
+        "num": 32178,
+        "word": "12岁女孩感染HPV涉事医院该学学法",
+        "onboard_time": 1734453437,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41455,
+        "num": 31361,
+        "word": "网友拍的张柏芝",
+        "onboard_time": 1734459433,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31266,
+        "num": 31266,
+        "word": "尹锡悦现在各种拒绝",
+        "onboard_time": 1734467471,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31233,
+        "num": 31233,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 29280,
+        "num": 29280,
+        "word": "俄军三防部队司令被炸身亡",
+        "onboard_time": 1734460213,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26747,
+        "num": 26747,
+        "word": "李昀锐的水肿不是骗人的",
+        "onboard_time": 1734444140,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26423,
+        "num": 26423,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1734446480,
+        "rank": 18,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26218,
+        "num": 26218,
+        "word": "54岁香港男星申请破产",
+        "onboard_time": 1734437118,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26351,
+        "num": 25867,
+        "word": "高校回应男生将女生按地上强吻",
+        "onboard_time": 1734446061,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25111,
+        "num": 25111,
+        "word": "王鹤棣 如果哪天我不帅了",
+        "onboard_time": 1734432019,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24487,
+        "num": 24487,
+        "word": "耿爽当场驳斥美国联合国代表",
+        "onboard_time": 1734463870,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24306,
+        "num": 24306,
+        "word": "和平饭店回应298元套餐仅有水和面包",
+        "onboard_time": 1734432619,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20443,
+        "num": 20443,
+        "word": "杨幂在郭碧婷后面模仿向佐",
+        "onboard_time": 1734426680,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 20276,
+        "word": "当你不停运动三个月后",
+        "onboard_time": 1734443061,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 19578,
+        "num": 19578,
+        "word": "虞书欣专辑试听",
+        "onboard_time": 1734442040,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19505,
+        "num": 19505,
+        "word": "尹锡悦调查案陷入僵局",
+        "onboard_time": 1734468791,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19477,
+        "num": 19477,
+        "word": "盘点2024",
+        "onboard_time": 1734455054,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17256,
+        "num": 19360,
+        "word": "B太称被部分营销号断章取义",
+        "onboard_time": 1734466270,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 28755,
+        "num": 19344,
+        "word": "最疯狂时期平均每天贪200万",
+        "onboard_time": 1734455834,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19271,
+        "num": 19271,
+        "word": "陈梦谈退役后的打算",
+        "onboard_time": 1734448400,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18253,
+        "num": 18253,
+        "word": "中国已同26个国家达成全面免签",
+        "onboard_time": 1734465851,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18177,
+        "num": 18177,
+        "word": "浙江大学经济学院通报",
+        "onboard_time": 1734448400,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18154,
+        "num": 18154,
+        "word": "原来两个人在一起不一定因为爱情",
+        "onboard_time": 1734446122,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18004,
+        "num": 18004,
+        "word": "古风小生",
+        "onboard_time": 1734457512,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17869,
+        "num": 17869,
+        "word": "为什么创业的年轻人越来越多了",
+        "onboard_time": 1734445402,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17862,
+        "num": 17862,
+        "word": "iPhone或迎六年来首次设计大换代",
+        "onboard_time": 1734436878,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17148,
+        "num": 17148,
+        "word": "南大碎尸案家属回应张译躺枪",
+        "onboard_time": 1734434419,
+        "rank": 38,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 17043,
+        "num": 17043,
+        "word": "大三要努力到什么程度才能考上公务员",
+        "onboard_time": 1734453976,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16578,
+        "num": 16578,
+        "word": "韩国吃外卖两分钟 扔外卖两小时",
+        "onboard_time": 1734447740,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16379,
+        "num": 16379,
+        "word": "扩大对外开放海南自贸港大有可为",
+        "onboard_time": 1734456614,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16171,
+        "num": 16171,
+        "word": "丁禹兮空降",
+        "onboard_time": 1734433879,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15907,
+        "num": 15907,
+        "word": "涉国乒违规信息被集中清理",
+        "onboard_time": 1734460092,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15435,
+        "num": 15435,
+        "word": "市监局称羊汤发白是加了羊油",
+        "onboard_time": 1734436638,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15147,
+        "num": 15147,
+        "word": "最难的自律是不断突破自己",
+        "onboard_time": 1734447322,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14851,
+        "num": 15147,
+        "word": "官方辟谣李宜雪失联",
+        "onboard_time": 1734462612,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14659,
+        "num": 15146,
+        "word": "神十九航天员第一次出舱圆满完成",
+        "onboard_time": 1734446721,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13933,
+        "num": 15146,
+        "word": "贾玲 魂又没换",
+        "onboard_time": 1734449238,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13874,
+        "num": 15145,
+        "word": "云间",
+        "onboard_time": 1734433160,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系澳门同胞福祉#"
+    }
+  }
+}
