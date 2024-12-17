@@ -1,0 +1,410 @@
+{
+  "runTime": 1734440624144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1726234,
+        "num": 1726234,
+        "word": "优酷回应南大碎尸案被害人家属发文",
+        "onboard_time": 1734432740,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1042613,
+        "num": 1042613,
+        "word": "王鹤棣 如果哪天我不帅了",
+        "onboard_time": 1734432019,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47779,
+        "num": 870507,
+        "word": "中国经济有望持续回升有力有进",
+        "onboard_time": 1734424220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 791442,
+        "num": 791442,
+        "word": "iPhone或迎六年来首次设计大换代",
+        "onboard_time": 1734436878,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 656231,
+        "num": 656231,
+        "word": "曝iPhone17ProMax渲染图",
+        "onboard_time": 1734429979,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 535664,
+        "num": 535664,
+        "word": "杨幂在郭碧婷后面模仿向佐",
+        "onboard_time": 1734426680,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522908,
+        "num": 522908,
+        "word": "和平饭店回应298元套餐仅有水和面包",
+        "onboard_time": 1734432619,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517855,
+        "num": 517855,
+        "word": "九重紫 两世死的都是济宁侯夫人",
+        "onboard_time": 1734438260,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366740,
+        "num": 366740,
+        "word": "市监局称羊汤发白是加了羊油",
+        "onboard_time": 1734436638,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112500,
+        "num": 364680,
+        "word": "南大碎尸案家属称剧方不愿公开道歉",
+        "onboard_time": 1734438858,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2626315,
+        "num": 364680,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405125,
+        "num": 364634,
+        "word": "九重紫团综",
+        "onboard_time": 1734434178,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364581,
+        "num": 364581,
+        "word": "南大碎尸案家属回应张译躺枪",
+        "onboard_time": 1734434419,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336297,
+        "num": 336297,
+        "word": "张馨予老公接机",
+        "onboard_time": 1734426319,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56145,
+        "num": 324912,
+        "word": "中国海警回应菲向仁爱礁坐滩军舰运补",
+        "onboard_time": 1734439040,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314099,
+        "num": 314099,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 297031,
+        "num": 297031,
+        "word": "宋墨只能活一年",
+        "onboard_time": 1734432260,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252100,
+        "num": 252100,
+        "word": "时代峰峻起诉马嘉祺黑粉",
+        "onboard_time": 1734437839,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217300,
+        "num": 217300,
+        "word": "多账号直播展示单县羊汤变白过程",
+        "onboard_time": 1734426258,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185632,
+        "num": 216565,
+        "word": "刁爱青家属代理律师呼吁尊重历史事实",
+        "onboard_time": 1734428839,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216268,
+        "num": 216268,
+        "word": "宋雨琦内娱第一个跨年舞台",
+        "onboard_time": 1734432500,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215180,
+        "num": 215180,
+        "word": "孟子义对李昀锐撒娇要衣服",
+        "onboard_time": 1734440360,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207776,
+        "num": 207776,
+        "word": "鹿晗猝不及防的互拍",
+        "onboard_time": 1734439939,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31949,
+        "num": 192484,
+        "word": "檀健次烤肉艺术家",
+        "onboard_time": 1734430939,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14372,
+        "num": 190066,
+        "word": "宋旻浩被兵务厅调查",
+        "onboard_time": 1734439639,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190062,
+        "num": 190062,
+        "word": "54岁香港男星申请破产",
+        "onboard_time": 1734437118,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174143,
+        "num": 174143,
+        "word": "丁禹兮怕过几个月会查无此人",
+        "onboard_time": 1734421819,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "离婚夫妻为争女儿互曝黑料",
+        "onboard_time": 1734430638,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167304,
+        "num": 167304,
+        "word": "杨洋红丝绒西装",
+        "onboard_time": 1734433940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28686,
+        "num": 165738,
+        "word": "清密中年组天降完胜竹马",
+        "onboard_time": 1734436878,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301111,
+        "num": 165058,
+        "word": "王楚钦汪苏泷同台",
+        "onboard_time": 1734433280,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 248903,
+        "num": 162660,
+        "word": "好适合吃饺子的盘子",
+        "onboard_time": 1734439277,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179574,
+        "num": 160198,
+        "word": "王楚钦可口可乐活动现场",
+        "onboard_time": 1734431358,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212273,
+        "num": 158682,
+        "word": "杨洋活动直拍",
+        "onboard_time": 1734433400,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157296,
+        "num": 157296,
+        "word": "自闭症孩子课间撞墙被同学温柔抱住",
+        "onboard_time": 1734425959,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149574,
+        "num": 149574,
+        "word": "癌症科学家孙少聪离开美国前往中国",
+        "onboard_time": 1734434540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 149096,
+        "word": "外卖小哥5年帮144名走失者找到家",
+        "onboard_time": 1734438919,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146235,
+        "num": 146235,
+        "word": "李昀锐十天涨粉百万",
+        "onboard_time": 1734430579,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144612,
+        "num": 144612,
+        "word": "2024PEL全明星投票",
+        "onboard_time": 1734440419,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32449,
+        "num": 142641,
+        "word": "王楚钦想家了",
+        "onboard_time": 1734440360,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "蔡徐坤的苹果头",
+        "onboard_time": 1734437719,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138195,
+        "num": 138195,
+        "word": "家长从学生冬季校服中扯出薄膜",
+        "onboard_time": 1734440119,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 138065,
+        "word": "杨紫记录现场瞬间",
+        "onboard_time": 1734439998,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "张韶涵被催了5年的新专辑来了",
+        "onboard_time": 1734434960,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135598,
+        "num": 135598,
+        "word": "娜扎曾因压力大长霰粒肿",
+        "onboard_time": 1734434659,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133165,
+        "num": 133165,
+        "word": "丁禹兮空降",
+        "onboard_time": 1734433879,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133017,
+        "num": 133017,
+        "word": "白鹿1到30岁颜值变化",
+        "onboard_time": 1734435919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128111,
+        "num": 128111,
+        "word": "九重紫预告",
+        "onboard_time": 1734439878,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "韩国演员马东锡到底有多强",
+        "onboard_time": 1734440600,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120990,
+        "num": 120990,
+        "word": "温悦离婚净身出户",
+        "onboard_time": 1734440600,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济有信心更有办法#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734439694091,
+  "endTime": 1734440624144,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1014531,
-      "num": 534213,
+      "num": 535664,
       "word": "杨幂在郭碧婷后面模仿向佐",
       "onboard_time": 1734426680,
       "rank": 14,
@@ -259,6 +259,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 791442,
+      "num": 791442,
+      "word": "iPhone或迎六年来首次设计大换代",
+      "onboard_time": 1734436878,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 789560,
       "num": 412697,
       "word": "救场",
@@ -281,14 +289,6 @@
       "onboard_time": 1734428781,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 786278,
-      "num": 786278,
-      "word": "iPhone或迎六年来首次设计大换代",
-      "onboard_time": 1734436878,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 745149,
@@ -497,6 +497,14 @@
       "onboard_time": 1734407179,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 517855,
+      "num": 517855,
+      "word": "九重紫 两世死的都是济宁侯夫人",
+      "onboard_time": 1734438260,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 513480,
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366740,
+      "num": 366740,
+      "word": "市监局称羊汤发白是加了羊油",
+      "onboard_time": 1734436638,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366472,
       "num": 366472,
       "word": "湖北一教师被捕兽电网电击身亡",
@@ -801,14 +817,6 @@
       "onboard_time": 1734352100,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 320541,
-      "num": 320541,
-      "word": "九重紫 两世死的都是济宁侯夫人",
-      "onboard_time": 1734438260,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 319815,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 258056,
-      "num": 211532,
+      "num": 252100,
       "word": "时代峰峻起诉马嘉祺黑粉",
       "onboard_time": 1734437839,
       "rank": 20,
@@ -953,6 +961,14 @@
       "onboard_time": 1734319998,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248903,
+      "num": 162660,
+      "word": "好适合吃饺子的盘子",
+      "onboard_time": 1734439277,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 243270,
@@ -1091,12 +1107,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212038,
-      "num": 212038,
-      "word": "市监局称羊汤发白是加了羊油",
-      "onboard_time": 1734436638,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 215180,
+      "num": 215180,
+      "word": "孟子义对李昀锐撒娇要衣服",
+      "onboard_time": 1734440360,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 210021,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1734433160,
       "rank": 26,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 207776,
+      "num": 207776,
+      "word": "鹿晗猝不及防的互拍",
+      "onboard_time": 1734439939,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 207195,
@@ -1267,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190062,
+      "num": 190062,
+      "word": "54岁香港男星申请破产",
+      "onboard_time": 1734437118,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189684,
       "num": 138373,
       "word": "宋佳杨幂刘诗诗嘉人合照",
@@ -1345,14 +1377,6 @@
       "onboard_time": 1734399978,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180470,
-      "num": 180470,
-      "word": "54岁香港男星申请破产",
-      "onboard_time": 1734437118,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 178898,
@@ -1667,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153976,
-      "num": 153976,
-      "word": "好适合吃饺子的盘子",
-      "onboard_time": 1734439277,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153870,
       "num": 153870,
       "word": "柳智敏申有娜雪允合作舞台",
@@ -1731,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149096,
+      "num": 149096,
+      "word": "外卖小哥5年帮144名走失者找到家",
+      "onboard_time": 1734438919,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148859,
       "num": 148859,
       "word": "奇瑞直播",
@@ -1745,14 +1769,6 @@
       "onboard_time": 1734419479,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 147811,
-      "num": 147811,
-      "word": "外卖小哥5年帮144名走失者找到家",
-      "onboard_time": 1734438919,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147780,
@@ -1801,6 +1817,14 @@
       "onboard_time": 1734405798,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 144612,
+      "num": 144612,
+      "word": "2024PEL全明星投票",
+      "onboard_time": 1734440419,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 143810,
@@ -1891,12 +1915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138195,
+      "num": 138195,
+      "word": "家长从学生冬季校服中扯出薄膜",
+      "onboard_time": 1734440119,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138116,
       "num": 138116,
       "word": "孙正义现身特朗普海湖庄园",
       "onboard_time": 1734398658,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 138065,
+      "num": 138065,
+      "word": "杨紫记录现场瞬间",
+      "onboard_time": 1734439998,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137674,
@@ -1947,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133017,
+      "num": 133017,
+      "word": "白鹿1到30岁颜值变化",
+      "onboard_time": 1734435919,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132840,
       "num": 132840,
       "word": "王楚钦世排8825分持续第一",
@@ -1987,12 +2035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128107,
-      "num": 128107,
-      "word": "白鹿1到30岁颜值变化",
-      "onboard_time": 1734435919,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 128111,
+      "num": 128111,
+      "word": "九重紫预告",
+      "onboard_time": 1734439878,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 127619,
@@ -2043,12 +2091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121297,
+      "num": 121297,
+      "word": "韩国演员马东锡到底有多强",
+      "onboard_time": 1734440600,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121254,
       "num": 121254,
       "word": "金善禹唱了beautiful",
       "onboard_time": 1734438977,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 120990,
+      "num": 120990,
+      "word": "温悦离婚净身出户",
+      "onboard_time": 1734440600,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120301,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 112500,
+      "num": 406235,
+      "word": "南大碎尸案家属称剧方不愿公开道歉",
+      "onboard_time": 1734438858,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111217,
@@ -2212,7 +2284,7 @@
     },
     {
       "raw_hot": 98529,
-      "num": 163662,
+      "num": 192484,
       "word": "檀健次烤肉艺术家",
       "onboard_time": 1734430939,
       "rank": 44,
@@ -2459,14 +2531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68569,
-      "num": 406235,
-      "word": "南大碎尸案家属称剧方不愿公开道歉",
-      "onboard_time": 1734438858,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68416,
       "num": 265007,
       "word": "覃海洋2024收获7.2万美元奖金",
@@ -2619,6 +2683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56145,
+      "num": 331853,
+      "word": "中国海警回应菲向仁爱礁坐滩军舰运补",
+      "onboard_time": 1734439040,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55881,
       "num": 384837,
       "word": "尹锡悦被要求23日前提交答辩",
@@ -2665,14 +2737,6 @@
       "onboard_time": 1734401298,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49942,
-      "num": 331853,
-      "word": "中国海警回应菲向仁爱礁坐滩军舰运补",
-      "onboard_time": 1734439040,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49848,
@@ -2955,6 +3019,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32449,
+      "num": 142641,
+      "word": "王楚钦想家了",
+      "onboard_time": 1734440360,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30953,
       "num": 210720,
       "word": "考研结束后你最想做什么事",
@@ -2985,6 +3057,14 @@
       "onboard_time": 1734390856,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28686,
+      "num": 211533,
+      "word": "清密中年组天降完胜竹马",
+      "onboard_time": 1734436878,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 28494,
@@ -3065,14 +3145,6 @@
       "onboard_time": 1734363379,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22957,
-      "num": 211533,
-      "word": "清密中年组天降完胜竹马",
-      "onboard_time": 1734436878,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 22131,
@@ -3243,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14372,
+      "num": 190066,
+      "word": "宋旻浩被兵务厅调查",
+      "onboard_time": 1734439639,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14076,
       "num": 186879,
       "word": "光遇复刻",
@@ -3337,14 +3417,6 @@
       "onboard_time": 1734421638,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 7430,
-      "num": 163485,
-      "word": "宋旻浩被兵务厅调查",
-      "onboard_time": 1734439639,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 6954,
