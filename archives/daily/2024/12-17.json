@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734427597940,
+  "endTime": 1734428433223,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -49,6 +49,14 @@
       "onboard_time": 1734408439,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1667706,
+      "num": 1667706,
+      "word": "南大碎尸案",
+      "onboard_time": 1734425600,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1464082,
@@ -179,20 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911437,
+      "num": 911437,
+      "word": "张馨予老公接机",
+      "onboard_time": 1734426319,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 851848,
+      "num": 290416,
+      "word": "可口可乐代言人",
+      "onboard_time": 1734422358,
+      "rank": 29,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 800609,
       "num": 654260,
       "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
       "onboard_time": 1734417259,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 799536,
-      "num": 525703,
-      "word": "张馨予老公接机",
-      "onboard_time": 1734426319,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 794291,
@@ -233,6 +249,14 @@
       "onboard_time": 1734402617,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 740557,
+      "num": 534213,
+      "word": "杨幂在郭碧婷后面模仿向佐",
+      "onboard_time": 1734426680,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 727055,
@@ -297,14 +321,6 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 662857,
-      "num": 290416,
-      "word": "可口可乐代言人",
-      "onboard_time": 1734422358,
-      "rank": 29,
-      "category": "美食,艺人"
     },
     {
       "raw_hot": 650207,
@@ -379,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 523692,
-      "num": 523692,
-      "word": "南大碎尸案",
-      "onboard_time": 1734425600,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 523018,
       "num": 523018,
       "word": "大奉打更人开播时间",
@@ -419,20 +427,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 498161,
+      "num": 498161,
+      "word": "25岁虎牙女主播酷萱疑意外去世",
+      "onboard_time": 1734423918,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 498017,
       "num": 498017,
       "word": "浙江6个口岸过境免签可停留240小时",
       "onboard_time": 1734408201,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 496808,
-      "num": 496808,
-      "word": "25岁虎牙女主播酷萱疑意外去世",
-      "onboard_time": 1734423918,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 496268,
@@ -539,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 381079,
-      "num": 381079,
-      "word": "杨幂在郭碧婷后面模仿向佐",
-      "onboard_time": 1734426680,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 380714,
       "num": 380714,
       "word": "老板称B太一天吃了七八家店",
@@ -585,6 +585,14 @@
       "onboard_time": 1734418639,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351534,
+      "num": 429305,
+      "word": "外交部回应韩国流行周五下班去中国",
+      "onboard_time": 1734425118,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 344121,
@@ -691,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293513,
+      "num": 228503,
+      "word": "九重紫王映雪下线",
+      "onboard_time": 1734426020,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285208,
       "num": 354695,
       "word": "被顾客多次掌掴胖东来补偿员工30000元",
@@ -747,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264809,
-      "num": 209148,
-      "word": "九重紫王映雪下线",
-      "onboard_time": 1734426020,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254954,
       "num": 254954,
       "word": "东皇出现吓倒一片",
@@ -784,6 +792,14 @@
       "word": "B太称随行的人也拉肚子了",
       "onboard_time": 1734415818,
       "rank": 31,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 232642,
+      "num": 232642,
+      "word": "多账号直播展示单县羊汤变白过程",
+      "onboard_time": 1734426258,
+      "rank": 23,
       "category": "舆论监督"
     },
     {
@@ -819,6 +835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223970,
+      "num": 498188,
+      "word": "莫斯科爆炸定性为恐怖袭击",
+      "onboard_time": 1734426139,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222762,
       "num": 272642,
       "word": "孙颖莎9900分保持世一",
@@ -833,14 +857,6 @@
       "onboard_time": 1734425899,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220876,
-      "num": 299010,
-      "word": "外交部回应韩国流行周五下班去中国",
-      "onboard_time": 1734425118,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 220822,
@@ -915,6 +931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205181,
+      "num": 262876,
+      "word": "白百何 淡颜",
+      "onboard_time": 1734427219,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203753,
       "num": 203753,
       "word": "俄罗斯中将基里洛夫在爆炸事件中丧生",
@@ -945,14 +969,6 @@
       "onboard_time": 1734401238,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199967,
-      "num": 209464,
-      "word": "多账号直播展示单县羊汤变白过程",
-      "onboard_time": 1734426258,
-      "rank": 23,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 199822,
@@ -1035,8 +1051,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186378,
-      "num": 186378,
+      "raw_hot": 186926,
+      "num": 186926,
       "word": "大奉打更人",
       "onboard_time": 1734427159,
       "rank": 39,
@@ -1067,20 +1083,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182611,
-      "num": 498188,
-      "word": "莫斯科爆炸定性为恐怖袭击",
-      "onboard_time": 1734426139,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王楚钦将在总决赛全力以赴",
       "onboard_time": 1734399978,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179080,
+      "num": 179080,
+      "word": "自闭症孩子课间撞墙被同学温柔抱住",
+      "onboard_time": 1734425959,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 177089,
@@ -1291,8 +1307,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158448,
+      "num": 209454,
+      "word": "桃黑黑女寝系列",
+      "onboard_time": 1734426200,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158395,
-      "num": 158395,
+      "num": 204584,
       "word": "B太 菏泽羊汤",
       "onboard_time": 1734423500,
       "rank": 43,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1734416179,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152202,
-      "num": 152202,
-      "word": "自闭症孩子课间撞墙被同学温柔抱住",
-      "onboard_time": 1734425959,
-      "rank": 47,
-      "category": "正能量"
     },
     {
       "raw_hot": 151627,
@@ -1419,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145466,
+      "num": 145466,
+      "word": "欢迎外国朋友们继续种草中国",
+      "onboard_time": 1734427219,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144791,
       "num": 144791,
       "word": "NewJeans魔法少女",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1734419059,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142123,
+      "num": 142123,
+      "word": "第五人格演绎之星系列",
+      "onboard_time": 1734428118,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 141674,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1734391035,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140024,
+      "num": 140024,
+      "word": "卞瑞英 刘亦菲太好看了",
+      "onboard_time": 1734428358,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 138474,
@@ -1595,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120036,
+      "num": 254378,
+      "word": "刘诗诗时尚芭莎2025开年刊",
+      "onboard_time": 1734427219,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 117592,
       "num": 250988,
       "word": "女子网上兼职配音被骗走7万多",
@@ -1617,14 +1665,6 @@
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 112541,
-      "num": 209454,
-      "word": "桃黑黑女寝系列",
-      "onboard_time": 1734426200,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 111217,
@@ -1660,7 +1700,7 @@
     },
     {
       "raw_hot": 108259,
-      "num": 200889,
+      "num": 230473,
       "word": "黑神话美术总监回复网友说真的好气",
       "onboard_time": 1734424639,
       "rank": 47,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79264,
+      "num": 251248,
+      "word": "南大碎尸案逝者家属代理律师回应",
+      "onboard_time": 1734427759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78116,
       "num": 179528,
       "word": "戚薇只是想给每个女生一个家",
@@ -1825,14 +1873,6 @@
       "onboard_time": 1734359481,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76435,
-      "num": 212125,
-      "word": "刘诗诗时尚芭莎2025开年刊",
-      "onboard_time": 1734427219,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 76185,
@@ -2107,14 +2147,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 51918,
-      "num": 229109,
-      "word": "白百何 淡颜",
-      "onboard_time": 1734427219,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51886,
       "num": 51886,
       "word": "为中国航天点赞",
@@ -2339,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 35253,
+      "num": 220876,
+      "word": "知名音乐人杨立德逝世",
+      "onboard_time": 1734427640,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35174,
       "num": 341256,
       "word": "田嘉瑞和草莓好配",
@@ -2353,6 +2393,14 @@
       "onboard_time": 1734422600,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33258,
+      "num": 405353,
+      "word": "湖南一高校回应保安被曝虐狗",
+      "onboard_time": 1734427281,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32998,
@@ -2451,20 +2499,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20212,
-      "num": 405353,
-      "word": "湖南一高校回应保安被曝虐狗",
-      "onboard_time": 1734427281,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19931,
       "num": 29407,
       "word": "尹锡悦组建团队应对弹劾案",
       "onboard_time": 1734383831,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19706,
+      "num": 241608,
+      "word": "通过APP建赌博群涉案流水三亿",
+      "onboard_time": 1734427759,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19500,
+      "num": 214381,
+      "word": "清明上河图密码微博追剧团",
+      "onboard_time": 1734425720,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 19407,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1734416299,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12688,
+      "num": 269872,
+      "word": "积石山地震一年后震区怎么样了",
+      "onboard_time": 1734427700,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12464,
