@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734428433223,
+  "endTime": 1734431167691,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -17,6 +17,14 @@
       "onboard_time": 1734319998,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 3412833,
+      "num": 3412833,
+      "word": "南大碎尸案",
+      "onboard_time": 1734425600,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3105990,
@@ -81,6 +89,14 @@
       "onboard_time": 1734419419,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2058330,
+      "num": 348058,
+      "word": "可口可乐发布会",
+      "onboard_time": 1734429020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1941125,
@@ -160,14 +176,6 @@
       "word": "7岁异瞳女孩在学校受到同学喜爱",
       "onboard_time": 1734269423,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1667706,
-      "num": 1667706,
-      "word": "南大碎尸案",
-      "onboard_time": 1734425600,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1014531,
+      "num": 534213,
+      "word": "杨幂在郭碧婷后面模仿向佐",
+      "onboard_time": 1734426680,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1008746,
       "num": 505065,
       "word": "杨紫酷妹",
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926845,
+      "num": 290416,
+      "word": "可口可乐代言人",
+      "onboard_time": 1734422358,
+      "rank": 29,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 911437,
       "num": 911437,
       "word": "张馨予老公接机",
@@ -649,14 +673,6 @@
       "onboard_time": 1734344061,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 851848,
-      "num": 290416,
-      "word": "可口可乐代言人",
-      "onboard_time": 1734422358,
-      "rank": 29,
-      "category": "美食,艺人"
     },
     {
       "raw_hot": 851766,
@@ -819,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 740557,
-      "num": 534213,
-      "word": "杨幂在郭碧婷后面模仿向佐",
-      "onboard_time": 1734426680,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 738160,
       "num": 506055,
       "word": "丈夫发现大女儿非亲生妻子补偿5万元",
@@ -953,6 +961,14 @@
       "onboard_time": 1734402498,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 674717,
+      "num": 349514,
+      "word": "王灿",
+      "onboard_time": 1734428781,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -1611,6 +1627,14 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 469591,
+      "num": 469591,
+      "word": "曝iPhone17ProMax渲染图",
+      "onboard_time": 1734429979,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 468049,
       "num": 468049,
       "word": "小米否认侵权格力",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1734423918,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459272,
+      "num": 459272,
+      "word": "多账号直播展示单县羊汤变白过程",
+      "onboard_time": 1734426258,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 456166,
@@ -1713,6 +1745,14 @@
       "onboard_time": 1734258799,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436996,
+      "num": 436996,
+      "word": "外交部回应韩国流行周五下班去中国",
+      "onboard_time": 1734425118,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 435885,
@@ -2043,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358693,
+      "num": 358693,
+      "word": "刁爱青家属代理律师呼吁尊重历史事实",
+      "onboard_time": 1734428839,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358687,
       "num": 343271,
       "word": "王楚钦说与樊振东的技术差不多",
@@ -2089,14 +2137,6 @@
       "onboard_time": 1734351020,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351534,
-      "num": 429305,
-      "word": "外交部回应韩国流行周五下班去中国",
-      "onboard_time": 1734425118,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 349625,
@@ -2201,6 +2241,14 @@
       "onboard_time": 1734260539,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335847,
+      "num": 498188,
+      "word": "莫斯科爆炸定性为恐怖袭击",
+      "onboard_time": 1734426139,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 332545,
@@ -2329,6 +2377,14 @@
       "onboard_time": 1734379091,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316646,
+      "num": 316646,
+      "word": "刘亦菲孔雀绿裙",
+      "onboard_time": 1734430219,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316626,
@@ -2504,6 +2560,14 @@
       "word": "窦明小产",
       "onboard_time": 1734270140,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293322,
+      "num": 293322,
+      "word": "折月亮 林一",
+      "onboard_time": 1734429080,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2947,6 +3011,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 237568,
+      "num": 358283,
+      "word": "贾玲说观众是我心底里的光",
+      "onboard_time": 1734428781,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236905,
       "num": 236905,
       "word": "白鹿将更换对接",
@@ -3017,14 +3089,6 @@
       "onboard_time": 1734223938,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232642,
-      "num": 232642,
-      "word": "多账号直播展示单县羊汤变白过程",
-      "onboard_time": 1734426258,
-      "rank": 23,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 231991,
@@ -3137,14 +3201,6 @@
       "onboard_time": 1734326959,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223970,
-      "num": 498188,
-      "word": "莫斯科爆炸定性为恐怖袭击",
-      "onboard_time": 1734426139,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223883,
@@ -3731,6 +3787,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198888,
+      "num": 198888,
+      "word": "贾玲 新华社采访",
+      "onboard_time": 1734429559,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198814,
+      "num": 198814,
+      "word": "张萌演技",
+      "onboard_time": 1734429320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "谢娜加盟湖南卫视跨年晚会",
@@ -3793,6 +3865,14 @@
       "onboard_time": 1734261979,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197552,
+      "num": 197552,
+      "word": "自闭症孩子课间撞墙被同学温柔抱住",
+      "onboard_time": 1734425959,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 197236,
@@ -4379,14 +4459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179080,
-      "num": 179080,
-      "word": "自闭症孩子课间撞墙被同学温柔抱住",
-      "onboard_time": 1734425959,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 178917,
       "num": 178917,
       "word": "男子称工作18天离职倒贴38元",
@@ -4891,6 +4963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163080,
+      "num": 163080,
+      "word": "虞书欣专辑制作阵容",
+      "onboard_time": 1734430760,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162993,
       "num": 242078,
       "word": "第五人格先知",
@@ -4980,7 +5060,7 @@
     },
     {
       "raw_hot": 160770,
-      "num": 160770,
+      "num": 301537,
       "word": "B太称从未提过生病与羊汤有关",
       "onboard_time": 1734425059,
       "rank": 48,
@@ -5355,6 +5435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151586,
+      "num": 151586,
+      "word": "汪苏泷还能找到调也是不容易",
+      "onboard_time": 1734430879,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151578,
       "num": 423447,
       "word": "百万粉美女网红白婳感染布病",
@@ -5401,6 +5489,14 @@
       "onboard_time": 1734350179,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149734,
+      "num": 149734,
+      "word": "云合",
+      "onboard_time": 1734252559,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 149487,
@@ -5545,14 +5641,6 @@
       "onboard_time": 1734427219,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145033,
-      "num": 145033,
-      "word": "云合",
-      "onboard_time": 1734252559,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 144791,
@@ -6523,6 +6611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119333,
+      "num": 300242,
+      "word": "国漫不一定要赢但是别认",
+      "onboard_time": 1734429979,
+      "rank": 23,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 119137,
       "num": 389606,
       "word": "中国电动汽车销量占全球近7成",
@@ -6924,7 +7020,7 @@
     },
     {
       "raw_hot": 108259,
-      "num": 230473,
+      "num": 298708,
       "word": "黑神话美术总监回复网友说真的好气",
       "onboard_time": 1734424639,
       "rank": 47,
@@ -7051,6 +7147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105805,
+      "num": 307475,
+      "word": "李昀锐十天涨粉百万",
+      "onboard_time": 1734430579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105726,
       "num": 105726,
       "word": "梁永棋猎罪图鉴2定妆花絮",
@@ -7155,6 +7259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101662,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101492,
       "num": 101492,
       "word": "林诗栋18比16黄友政",
@@ -7241,6 +7353,14 @@
       "onboard_time": 1734320899,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98529,
+      "num": 163662,
+      "word": "檀健次烤肉艺术家",
+      "onboard_time": 1734430939,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 98455,
@@ -7753,6 +7873,14 @@
       "onboard_time": 1734427759,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79059,
+      "num": 197763,
+      "word": "桃晚安 双排",
+      "onboard_time": 1734428420,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 78440,
@@ -8347,6 +8475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56117,
+      "num": 297643,
+      "word": "为什么你没有小时候那么讨厌蔬菜了",
+      "onboard_time": 1734430701,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 55881,
       "num": 384837,
       "word": "尹锡悦被要求23日前提交答辩",
@@ -8523,6 +8659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49848,
+      "num": 297234,
+      "word": "书店老板说开书店像一个笑话",
+      "onboard_time": 1734430999,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49833,
       "num": 49833,
       "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
@@ -8641,6 +8785,14 @@
       "onboard_time": 1734231498,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46859,
+      "num": 811069,
+      "word": "中国经济有望持续回升有力有进",
+      "onboard_time": 1734424220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46591,
@@ -9195,14 +9347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32998,
-      "num": 811069,
-      "word": "中国经济有望持续回升有力有进",
-      "onboard_time": 1734424220,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32863,
       "num": 57189,
       "word": "起猛了在尔滨看见福建舰",
@@ -9651,6 +9795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21450,
+      "num": 196766,
+      "word": "醪糟麻薯撞奶",
+      "onboard_time": 1734430638,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 21140,
       "num": 291385,
       "word": "窦昭女子亦可以一敌百",
@@ -9761,6 +9913,14 @@
       "onboard_time": 1734288551,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18625,
+      "num": 294268,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 18358,
@@ -10115,6 +10275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12233,
+      "num": 145860,
+      "word": "秋冬离不开的妆前好物",
+      "onboard_time": 1734430401,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 12044,
       "num": 324968,
       "word": "王楚钦林高远对决太精彩了",
@@ -10177,6 +10345,14 @@
       "onboard_time": 1734288431,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10541,
+      "num": 295875,
+      "word": "Cici项偞婧风衣蕾丝裙清冷美",
+      "onboard_time": 1734430401,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 10534,

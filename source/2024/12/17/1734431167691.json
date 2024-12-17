@@ -1,0 +1,410 @@
+{
+  "runTime": 1734431167691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3412833,
+        "num": 3412833,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469591,
+        "num": 469591,
+        "word": "曝iPhone17ProMax渲染图",
+        "onboard_time": 1734429979,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 46859,
+        "num": 462832,
+        "word": "中国经济有望持续回升有力有进",
+        "onboard_time": 1734424220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 459272,
+        "num": 459272,
+        "word": "多账号直播展示单县羊汤变白过程",
+        "onboard_time": 1734426258,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 436996,
+        "num": 436996,
+        "word": "外交部回应韩国流行周五下班去中国",
+        "onboard_time": 1734425118,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2136873,
+        "num": 426197,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 5,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 412432,
+        "num": 412432,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385010,
+        "num": 385010,
+        "word": "女子去银行存370元竟全是假币",
+        "onboard_time": 1734420500,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358693,
+        "num": 358693,
+        "word": "刁爱青家属代理律师呼吁尊重历史事实",
+        "onboard_time": 1734428839,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237568,
+        "num": 358283,
+        "word": "贾玲说观众是我心底里的光",
+        "onboard_time": 1734428781,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014531,
+        "num": 355588,
+        "word": "杨幂在郭碧婷后面模仿向佐",
+        "onboard_time": 1734426680,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 867691,
+        "num": 353436,
+        "word": "悉尼碎尸案发现疑似死者丈夫尸体",
+        "onboard_time": 1734424819,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 768867,
+        "num": 351799,
+        "word": "张馨予老公接机",
+        "onboard_time": 1734426319,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674717,
+        "num": 349514,
+        "word": "王灿",
+        "onboard_time": 1734428781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348483,
+        "num": 348483,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2058330,
+        "num": 348058,
+        "word": "可口可乐发布会",
+        "onboard_time": 1734429020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335847,
+        "num": 335847,
+        "word": "莫斯科爆炸定性为恐怖袭击",
+        "onboard_time": 1734426139,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316646,
+        "num": 316646,
+        "word": "刘亦菲孔雀绿裙",
+        "onboard_time": 1734430219,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105805,
+        "num": 307475,
+        "word": "李昀锐十天涨粉百万",
+        "onboard_time": 1734430579,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304028,
+        "num": 304028,
+        "word": "25岁虎牙女主播酷萱疑意外去世",
+        "onboard_time": 1734423918,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333977,
+        "num": 303694,
+        "word": "鹿晗背头",
+        "onboard_time": 1734417979,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162848,
+        "num": 302695,
+        "word": "九重紫",
+        "onboard_time": 1734428599,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129759,
+        "num": 301537,
+        "word": "B太称从未提过生病与羊汤有关",
+        "onboard_time": 1734425059,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 119333,
+        "num": 300242,
+        "word": "国漫不一定要赢但是别认",
+        "onboard_time": 1734429979,
+        "rank": 23,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 56600,
+        "num": 298708,
+        "word": "黑神话美术总监回复网友说真的好气",
+        "onboard_time": 1734424639,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56117,
+        "num": 297643,
+        "word": "为什么你没有小时候那么讨厌蔬菜了",
+        "onboard_time": 1734430701,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49848,
+        "num": 297234,
+        "word": "书店老板说开书店像一个笑话",
+        "onboard_time": 1734430999,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10541,
+        "num": 295875,
+        "word": "Cici项偞婧风衣蕾丝裙清冷美",
+        "onboard_time": 1734430401,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 101662,
+        "num": 295302,
+        "word": "离婚夫妻为争女儿互曝黑料",
+        "onboard_time": 1734430638,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18625,
+        "num": 294268,
+        "word": "一分钟get虞书欣的旅拍技巧",
+        "onboard_time": 1734430337,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293322,
+        "num": 293322,
+        "word": "折月亮 林一",
+        "onboard_time": 1734429080,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246486,
+        "num": 246486,
+        "word": "丁禹兮怕过几个月会查无此人",
+        "onboard_time": 1734421819,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926845,
+        "num": 244830,
+        "word": "可口可乐代言人",
+        "onboard_time": 1734422358,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241457,
+        "num": 241457,
+        "word": "卢昱晓 刘亦菲在那里我也想去",
+        "onboard_time": 1734414799,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205798,
+        "num": 205798,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198888,
+        "num": 198888,
+        "word": "贾玲 新华社采访",
+        "onboard_time": 1734429559,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198814,
+        "num": 198814,
+        "word": "张萌演技",
+        "onboard_time": 1734429320,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79059,
+        "num": 197763,
+        "word": "桃晚安 双排",
+        "onboard_time": 1734428420,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197552,
+        "num": 197552,
+        "word": "自闭症孩子课间撞墙被同学温柔抱住",
+        "onboard_time": 1734425959,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21450,
+        "num": 196766,
+        "word": "醪糟麻薯撞奶",
+        "onboard_time": 1734430638,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196642,
+        "num": 196642,
+        "word": "大奉打更人开播时间",
+        "onboard_time": 1734423980,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192960,
+        "num": 192960,
+        "word": "九重紫王映雪下线",
+        "onboard_time": 1734426020,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174591,
+        "num": 174591,
+        "word": "王楚钦说与樊振东的技术差不多",
+        "onboard_time": 1734418639,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168480,
+        "num": 168480,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98529,
+        "num": 163662,
+        "word": "檀健次烤肉艺术家",
+        "onboard_time": 1734430939,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163080,
+        "num": 163080,
+        "word": "虞书欣专辑制作阵容",
+        "onboard_time": 1734430760,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151586,
+        "num": 151586,
+        "word": "汪苏泷还能找到调也是不容易",
+        "onboard_time": 1734430879,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149734,
+        "num": 149734,
+        "word": "云合",
+        "onboard_time": 1734429739,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146058,
+        "num": 146058,
+        "word": "白百何 淡颜",
+        "onboard_time": 1734427219,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12233,
+        "num": 145860,
+        "word": "秋冬离不开的妆前好物",
+        "onboard_time": 1734430401,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济有信心更有办法#"
+    }
+  }
+}
