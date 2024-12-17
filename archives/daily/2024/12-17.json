@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734446557702,
+  "endTime": 1734449166122,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -80,6 +80,14 @@
       "word": "贾玲回应瘦身后观众缘松动",
       "onboard_time": 1734442640,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1491282,
+      "num": 1491282,
+      "word": "虞书欣换头像",
+      "onboard_time": 1734445101,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -219,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 946419,
-      "num": 437004,
-      "word": "虞书欣换头像",
-      "onboard_time": 1734445101,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 943771,
       "num": 943771,
       "word": "百草味发霉致孕妇住院事件反转",
@@ -259,12 +259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 862860,
+      "num": 618477,
+      "word": "高校回应男生将女生按地上强吻",
+      "onboard_time": 1734446061,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 806579,
       "num": 806579,
       "word": "iPhone或迎六年来首次设计大换代",
       "onboard_time": 1734436878,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 802643,
+      "num": 802643,
+      "word": "桃黑黑发长文",
+      "onboard_time": 1734446480,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 800609,
@@ -457,6 +473,14 @@
       "onboard_time": 1734397038,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 605945,
+      "num": 605945,
+      "word": "当你不停运动三个月后",
+      "onboard_time": 1734443061,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 603498,
@@ -699,14 +723,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 432276,
-      "num": 432276,
-      "word": "当你不停运动三个月后",
-      "onboard_time": 1734443061,
-      "rank": 16,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 430717,
       "num": 217823,
       "word": "男友涉性侵或面临10年以上有期徒刑",
@@ -731,11 +747,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 410489,
+      "num": 410489,
+      "word": "为什么创业的年轻人越来越多了",
+      "onboard_time": 1734445402,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405073,
       "num": 405073,
       "word": "李昀锐十天涨粉百万",
       "onboard_time": 1734430579,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 400618,
+      "num": 400618,
+      "word": "丁程鑫后援会官博发文",
+      "onboard_time": 1734447621,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -891,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318596,
+      "num": 318596,
+      "word": "上海地铁乘客互骂女子怒问你上海几套房",
+      "onboard_time": 1734448160,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318580,
       "num": 318580,
       "word": "被抱养37年女子称高中每周只用2块",
@@ -947,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282989,
-      "num": 282989,
-      "word": "高校回应男生将女生按地上强吻",
-      "onboard_time": 1734446061,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282963,
       "num": 282963,
       "word": "刘亦菲惠英红C位",
@@ -1003,8 +1035,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271775,
-      "num": 257584,
+      "raw_hot": 272800,
+      "num": 271127,
       "word": "李昀锐的水肿不是骗人的",
       "onboard_time": 1734444140,
       "rank": 24,
@@ -1025,6 +1057,14 @@
       "onboard_time": 1734441978,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267364,
+      "num": 267364,
+      "word": "原来两个人在一起不一定因为爱情",
+      "onboard_time": 1734446122,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 266986,
@@ -1075,12 +1115,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244289,
-      "num": 354466,
-      "word": "为什么创业的年轻人越来越多了",
-      "onboard_time": 1734445402,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 248469,
+      "num": 248469,
+      "word": "陈梦谈退役后的打算",
+      "onboard_time": 1734448400,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 243270,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1734433400,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240063,
+      "num": 240063,
+      "word": "浙江大学经济学院通报",
+      "onboard_time": 1734448400,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 239633,
@@ -1225,6 +1273,22 @@
       "onboard_time": 1734409881,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213792,
+      "num": 213792,
+      "word": "神十九航天员第一次出舱圆满完成",
+      "onboard_time": 1734446721,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 213100,
+      "num": 176689,
+      "word": "一家5口住也能实现独居的120平房子",
+      "onboard_time": 1734448279,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 212958,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1734411980,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195829,
+      "num": 401948,
+      "word": "最难的自律是不断突破自己",
+      "onboard_time": 1734447322,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 195261,
@@ -1603,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172403,
-      "num": 172403,
-      "word": "原来两个人在一起不一定因为爱情",
-      "onboard_time": 1734446122,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171696,
       "num": 145298,
       "word": "刘诗诗 群像",
@@ -1681,6 +1745,22 @@
       "onboard_time": 1734392117,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167106,
+      "num": 167106,
+      "word": "韩国吃外卖两分钟 扔外卖两小时",
+      "onboard_time": 1734447740,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 166885,
+      "num": 166885,
+      "word": "中国话感觉良好再次进入太空",
+      "onboard_time": 1734446721,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166766,
@@ -1867,20 +1947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155260,
+      "num": 155260,
+      "word": "李兰迪 小胡同文学",
+      "onboard_time": 1734447261,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155167,
       "num": 202321,
       "word": "樊振东超级全满贯",
       "onboard_time": 1734403758,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154590,
-      "num": 154590,
-      "word": "桃黑黑发长文",
-      "onboard_time": 1734446480,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 153870,
@@ -2107,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140878,
+      "num": 140878,
+      "word": "沪深市场A股分红派息手续费减半",
+      "onboard_time": 1734448879,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140472,
       "num": 140472,
       "word": "李昀锐十秒三次转头看孟子义",
@@ -2329,6 +2417,14 @@
       "onboard_time": 1734435859,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122367,
+      "num": 122367,
+      "word": "周深陶喆在聊什么",
+      "onboard_time": 1734449058,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 121561,
@@ -3083,6 +3179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48301,
+      "num": 339884,
+      "word": "连云港一村支书4次被处分仍在职",
+      "onboard_time": 1734447441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48170,
       "num": 830620,
       "word": "世界上最早的融合菜诞生在澳门",
@@ -3385,6 +3489,14 @@
       "onboard_time": 1734420678,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 30287,
+      "num": 343192,
+      "word": "网曝教师伪造邀请函致学生被拒签",
+      "onboard_time": 1734448939,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29905,
