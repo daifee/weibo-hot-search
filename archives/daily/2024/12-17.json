@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734409735347,
+  "endTime": 1734410608540,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -11,6 +11,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1808605,
+      "num": 1808605,
+      "word": "我走出永夜星河了 他还没走出东方青苍",
+      "onboard_time": 1734407959,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1728007,
+      "num": 1728007,
+      "word": "李建平被执行死刑",
+      "onboard_time": 1734408439,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1464082,
       "num": 1464082,
       "word": "程潇评论区",
@@ -19,12 +35,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1174303,
-      "num": 1187888,
-      "word": "我走出永夜星河了 他还没走出东方青苍",
-      "onboard_time": 1734407959,
-      "rank": 0,
-      "category": "作品衍生"
+      "raw_hot": 1275864,
+      "num": 1275864,
+      "word": "孙俪都不敢说甄嬛只能找她",
+      "onboard_time": 1734406578,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1163025,
@@ -43,28 +59,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1122240,
-      "num": 844102,
-      "word": "孙俪都不敢说甄嬛只能找她",
-      "onboard_time": 1734406578,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1055604,
       "num": 766319,
       "word": "奚梦瑶被夸状态好坦言要做医美",
       "onboard_time": 1734402137,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 992943,
-      "num": 992943,
-      "word": "李建平被执行死刑",
-      "onboard_time": 1734408439,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 967036,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 685242,
+      "num": 666286,
+      "word": "湖南卫视跨年全阵容",
+      "onboard_time": 1734408139,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681874,
       "num": 681874,
       "word": "过境免签外国人停留时间延长为240小时",
       "onboard_time": 1734402498,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 674538,
+      "num": 567936,
+      "word": "沈腾 坏了冲我来的",
+      "onboard_time": 1734407539,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -139,11 +155,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 666286,
-      "num": 666286,
-      "word": "湖南卫视跨年全阵容",
-      "onboard_time": 1734408139,
-      "rank": 7,
+      "raw_hot": 650207,
+      "num": 487503,
+      "word": "孟子义和徐志胜女友煲电话粥",
+      "onboard_time": 1734405798,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -153,14 +169,6 @@
       "onboard_time": 1734400939,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 624171,
-      "num": 370453,
-      "word": "孟子义和徐志胜女友煲电话粥",
-      "onboard_time": 1734405798,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 612390,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 518735,
+      "num": 485499,
+      "word": "17岁男孩系自缢身亡不构成刑事案件",
+      "onboard_time": 1734407179,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 513480,
       "num": 241347,
       "word": "马思纯怎么拍成了这样",
       "onboard_time": 1734349219,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 507432,
-      "num": 353072,
-      "word": "17岁男孩系自缢身亡不构成刑事案件",
-      "onboard_time": 1734407179,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 498017,
@@ -257,14 +265,6 @@
       "onboard_time": 1734391575,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 466963,
-      "num": 357184,
-      "word": "沈腾 坏了冲我来的",
-      "onboard_time": 1734407539,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 454785,
@@ -419,11 +419,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282963,
+      "num": 282963,
+      "word": "刘亦菲惠英红C位",
+      "onboard_time": 1734408380,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 277695,
       "num": 382222,
       "word": "呼伦贝尔冷到吹泡泡吹出冰球",
       "onboard_time": 1734398118,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275099,
+      "num": 275099,
+      "word": "B太 菏泽",
+      "onboard_time": 1734408741,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -441,14 +457,6 @@
       "onboard_time": 1734404659,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254944,
-      "num": 254944,
-      "word": "刘亦菲惠英红C位",
-      "onboard_time": 1734408380,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251431,
@@ -507,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215321,
+      "num": 275300,
+      "word": "姜贞羽 宫廷油画里走出来的少女",
+      "onboard_time": 1734409881,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210021,
       "num": 210021,
       "word": "设置学霸就餐区中学已整改取消",
@@ -521,14 +537,6 @@
       "onboard_time": 1734401238,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199869,
-      "num": 199869,
-      "word": "B太 菏泽",
-      "onboard_time": 1734408741,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198205,
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192277,
+      "num": 520416,
+      "word": "江苏卫视跨年第三波阵容官宣",
+      "onboard_time": 1734409520,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189511,
       "num": 189511,
       "word": "弟弟去世后哥哥状告弟媳争房子",
@@ -569,6 +585,14 @@
       "onboard_time": 1734357201,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188288,
+      "num": 303273,
+      "word": "清密15年前浮尸命案再犯案",
+      "onboard_time": 1734409220,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186339,
@@ -619,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174684,
+      "num": 511806,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734409401,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171696,
       "num": 145298,
       "word": "刘诗诗 群像",
@@ -649,14 +681,6 @@
       "onboard_time": 1734392117,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167311,
-      "num": 303273,
-      "word": "清密15年前浮尸命案再犯案",
-      "onboard_time": 1734409220,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 165978,
@@ -755,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147780,
+      "num": 640989,
+      "word": "免费为多名老人做手术医院已被限消",
+      "onboard_time": 1734409641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145577,
       "num": 151929,
       "word": "Chovy说被Faker打回现实",
@@ -769,6 +801,14 @@
       "onboard_time": 1734405798,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143226,
+      "num": 541277,
+      "word": "江小白为啥不火了",
+      "onboard_time": 1734409760,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 141353,
@@ -811,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133703,
+      "num": 155195,
+      "word": "潘宏 小姑娘来上班",
+      "onboard_time": 1734407059,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133479,
       "num": 133479,
       "word": "王灿聊住家阿姨的分寸感",
@@ -825,6 +873,14 @@
       "onboard_time": 1734404778,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132619,
+      "num": 154927,
+      "word": "原神 男模",
+      "onboard_time": 1734410481,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 132374,
@@ -849,14 +905,6 @@
       "onboard_time": 1734393917,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126871,
-      "num": 391908,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1734409401,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 124846,
@@ -947,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98214,
+      "num": 1303877,
+      "word": "15个字概括我国当前经济形势",
+      "onboard_time": 1734409822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93904,
       "num": 93904,
       "word": "上海和平饭店298元套餐遭吐槽",
@@ -993,6 +1049,14 @@
       "onboard_time": 1734365177,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86680,
+      "num": 511051,
+      "word": "学校通报食堂设置学霸就餐区",
+      "onboard_time": 1734409822,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80967,
@@ -1139,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63831,
+      "num": 190597,
+      "word": "肖央误杀3无声嘶吼海报",
+      "onboard_time": 1734410061,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63669,
       "num": 72426,
       "word": "戚薇从嘉人晚宴逃出来直播",
@@ -1179,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61074,
-      "num": 406994,
-      "word": "江苏卫视跨年第三波阵容官宣",
-      "onboard_time": 1734409520,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 60361,
       "num": 72425,
       "word": "医院免费为老人们做手术被质疑套保",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1734406038,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57831,
+      "num": 295531,
+      "word": "于适入选辽宁朝阳青联委员",
+      "onboard_time": 1734409700,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 55881,
@@ -1252,7 +1324,7 @@
     },
     {
       "raw_hot": 48748,
-      "num": 414710,
+      "num": 555977,
       "word": "今年外国旅客机票预订量同比增近2倍",
       "onboard_time": 1734409041,
       "rank": 16,
@@ -1299,14 +1371,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 44859,
-      "num": 295531,
-      "word": "于适入选辽宁朝阳青联委员",
-      "onboard_time": 1734409700,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44136,
       "num": 277632,
       "word": "被蔡徐坤新封面glow到",
@@ -1328,6 +1392,14 @@
       "word": "有医院排队停车时间比看病时间都长",
       "onboard_time": 1734406337,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42187,
+      "num": 501099,
+      "word": "未婚育弟弟照护两个姐姐28年",
+      "onboard_time": 1734409641,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1364,7 +1436,7 @@
     },
     {
       "raw_hot": 40341,
-      "num": 405306,
+      "num": 528569,
       "word": "檀健次圆梦螺蛳粉",
       "onboard_time": 1734408680,
       "rank": 18,
@@ -1403,27 +1475,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31485,
-      "num": 395638,
-      "word": "未婚育弟弟照护两个姐姐28年",
-      "onboard_time": 1734409641,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29905,
       "num": 40560,
       "word": "被抱养女子称生父母忘了她是第几个",
       "onboard_time": 1734390856,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26692,
-      "num": 640989,
-      "word": "免费为多名老人做手术医院已被限消",
-      "onboard_time": 1734409641,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1449,6 +1505,14 @@
       "onboard_time": 1734363379,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 22131,
+      "num": 534273,
+      "word": "5家券商被投资者告上法院",
+      "onboard_time": 1734410061,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19931,
@@ -1563,18 +1627,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9809,
-      "num": 52513,
-      "word": "马龙给球迷每一面扉页都签名",
-      "onboard_time": 1734370215,
+      "raw_hot": 10071,
+      "num": 366300,
+      "word": "2025斯诺克德国大师赛",
+      "onboard_time": 1734408020,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 8770,
-      "num": 366300,
-      "word": "2025斯诺克德国大师赛",
-      "onboard_time": 1734408020,
+      "raw_hot": 9809,
+      "num": 52513,
+      "word": "马龙给球迷每一面扉页都签名",
+      "onboard_time": 1734370215,
       "rank": 24,
       "category": "体育"
     },
