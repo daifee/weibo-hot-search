@@ -1,0 +1,410 @@
+{
+  "runTime": 1734417216568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454675,
+        "num": 1454675,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1133278,
+        "num": 1133278,
+        "word": "王鹤棣演唱会 打折",
+        "onboard_time": 1734412399,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117965,
+        "num": 1059561,
+        "word": "15个字概括我国当前经济形势",
+        "onboard_time": 1734409822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1006025,
+        "num": 1006025,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 920061,
+        "num": 920061,
+        "word": "百草味发霉致孕妇住院事件反转",
+        "onboard_time": 1734414079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642139,
+        "num": 642139,
+        "word": "李建平被执行死刑",
+        "onboard_time": 1734408439,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 958209,
+        "num": 634705,
+        "word": "王鹤棣歌词 猴子温朱",
+        "onboard_time": 1734416479,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 933300,
+        "num": 587522,
+        "word": "卢昱晓 刘亦菲在那里我也想去",
+        "onboard_time": 1734414799,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50772,
+        "num": 560573,
+        "word": "租轮椅就不排队爱心通道别被钻空子",
+        "onboard_time": 1734416120,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36706,
+        "num": 536254,
+        "word": "视听中国冰天雪地也是金山银山",
+        "onboard_time": 1734415339,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 706861,
+        "num": 516098,
+        "word": "杨紫 唯一90花",
+        "onboard_time": 1734411441,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 694518,
+        "num": 491842,
+        "word": "这件衣服救过孙俪的命吗",
+        "onboard_time": 1734411381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464802,
+        "num": 464802,
+        "word": "给东方青苍配音磕一个",
+        "onboard_time": 1734413780,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327141,
+        "num": 327141,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97159,
+        "num": 317257,
+        "word": "男子患病躺板车30年靠养鹅养活自己",
+        "onboard_time": 1734415999,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313300,
+        "num": 313300,
+        "word": "江小白为啥不火了",
+        "onboard_time": 1734409760,
+        "rank": 15,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 352436,
+        "num": 307954,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286355,
+        "num": 286355,
+        "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+        "onboard_time": 1734415159,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22312,
+        "num": 286342,
+        "word": "Red精彩OK开年刊双封面",
+        "onboard_time": 1734413660,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59989,
+        "num": 286268,
+        "word": "女子付款码收款码切换间隙被盗刷",
+        "onboard_time": 1734416960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 887080,
+        "num": 286214,
+        "word": "发表涉樊振东不当言论学生已被通报",
+        "onboard_time": 1734414319,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695686,
+        "num": 286157,
+        "word": "江西一学生发表涉樊振东的不当言论",
+        "onboard_time": 1734410901,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290397,
+        "num": 286093,
+        "word": "17岁男孩系自缢身亡不构成刑事案件",
+        "onboard_time": 1734407179,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 286061,
+        "num": 286061,
+        "word": "孟子义李昀锐九重紫团综flag立上了",
+        "onboard_time": 1734415759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274501,
+        "num": 274501,
+        "word": "32岁减百斤后保持三年的自律生活",
+        "onboard_time": 1734411740,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 215842,
+        "num": 215842,
+        "word": "浙江6个口岸过境免签可停留240小时",
+        "onboard_time": 1734408201,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213705,
+        "num": 213705,
+        "word": "沈腾 坏了冲我来的",
+        "onboard_time": 1734407539,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8352,
+        "num": 210720,
+        "word": "考研结束后你最想做什么事",
+        "onboard_time": 1734417140,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141674,
+        "num": 208425,
+        "word": "马嘉祺皮埃尔定妆视频",
+        "onboard_time": 1734416238,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38394,
+        "num": 207306,
+        "word": "谌龙出任羽毛球国青队教练",
+        "onboard_time": 1734417140,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246304,
+        "num": 203078,
+        "word": "孟子义和徐志胜女友煲电话粥",
+        "onboard_time": 1734405798,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201732,
+        "num": 201732,
+        "word": "B太称随行的人也拉肚子了",
+        "onboard_time": 1734415818,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 195456,
+        "num": 195456,
+        "word": "谢娜胡歌高圆圆20年好友",
+        "onboard_time": 1734411561,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193873,
+        "num": 193873,
+        "word": "理想汽车",
+        "onboard_time": 1734415098,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174145,
+        "num": 174145,
+        "word": "阿里巴巴将银泰卖给雅戈尔",
+        "onboard_time": 1734416838,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172534,
+        "num": 172534,
+        "word": "被顾客多次掌掴胖东来补偿员工30000元",
+        "onboard_time": 1734416659,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165485,
+        "num": 165485,
+        "word": "全国散打季军遭多名运动员群殴",
+        "onboard_time": 1734411800,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157418,
+        "num": 157418,
+        "word": "宋佳女孩子就该一尘不染的漂亮",
+        "onboard_time": 1734413839,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151381,
+        "num": 151381,
+        "word": "B太 菏泽",
+        "onboard_time": 1734408741,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14065,
+        "num": 140781,
+        "word": "橙香暖冬热红酒",
+        "onboard_time": 1734416299,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137791,
+        "num": 137791,
+        "word": "叠纸起诉派克特",
+        "onboard_time": 1734412461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137020,
+        "num": 137020,
+        "word": "过境免签外国人停留时间延长为240小时",
+        "onboard_time": 1734402498,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134591,
+        "num": 134591,
+        "word": "我关闭了朋友圈拒绝焦虑与内耗",
+        "onboard_time": 1734402617,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134252,
+        "num": 134252,
+        "word": "尤长靖 披哥留下了我炙热的三十岁",
+        "onboard_time": 1734416540,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133516,
+        "num": 133516,
+        "word": "宋佳杨幂刘诗诗嘉人合照",
+        "onboard_time": 1734413599,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133379,
+        "num": 133379,
+        "word": "奚梦瑶被夸状态好坦言要做医美",
+        "onboard_time": 1734402137,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131301,
+        "num": 131301,
+        "word": "尹锡悦戒严令背后惊天阴谋曝光",
+        "onboard_time": 1734404898,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125151,
+        "num": 125151,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1734408139,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112665,
+        "num": 112665,
+        "word": "王楚钦乒超赛后发文",
+        "onboard_time": 1734401957,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111267,
+        "num": 111267,
+        "word": "胖东来客流比5A景区还多",
+        "onboard_time": 1734416179,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与澳门青少年#"
+    }
+  }
+}
