@@ -1,0 +1,410 @@
+{
+  "runTime": 1734409735347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1174303,
+        "num": 1187888,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 992943,
+        "num": 992943,
+        "word": "李建平被执行死刑",
+        "onboard_time": 1734408439,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25310,
+        "num": 860394,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1163025,
+        "num": 849584,
+        "word": "时宴没有被邀请",
+        "onboard_time": 1734405439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1122240,
+        "num": 844102,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743408,
+        "num": 743408,
+        "word": "我关闭了朋友圈拒绝焦虑与内耗",
+        "onboard_time": 1734402617,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 727055,
+        "num": 727055,
+        "word": "尹锡悦戒严令背后惊天阴谋曝光",
+        "onboard_time": 1734404898,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 666286,
+        "num": 666286,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1734408139,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648984,
+        "num": 648984,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26692,
+        "num": 640989,
+        "word": "免费为多名老人做手术医院已被限消",
+        "onboard_time": 1734409641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649141,
+        "num": 640669,
+        "word": "奚梦瑶被夸状态好坦言要做医美",
+        "onboard_time": 1734402137,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 640085,
+        "num": 640085,
+        "word": "程潇评论区",
+        "onboard_time": 1734399256,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 570907,
+        "num": 570907,
+        "word": "医院拒绝回应免费为多名老人做手术",
+        "onboard_time": 1734398118,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498017,
+        "num": 498017,
+        "word": "浙江6个口岸过境免签可停留240小时",
+        "onboard_time": 1734408201,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471961,
+        "num": 471961,
+        "word": "给宠物做殡葬真的有必要吗",
+        "onboard_time": 1734401357,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 418059,
+        "num": 418059,
+        "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+        "onboard_time": 1734404239,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48748,
+        "num": 414710,
+        "word": "今年外国旅客机票预订量同比增近2倍",
+        "onboard_time": 1734409041,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61074,
+        "num": 406994,
+        "word": "江苏卫视跨年第三波阵容官宣",
+        "onboard_time": 1734409520,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40341,
+        "num": 405306,
+        "word": "檀健次圆梦螺蛳粉",
+        "onboard_time": 1734408680,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31485,
+        "num": 395638,
+        "word": "未婚育弟弟照护两个姐姐28年",
+        "onboard_time": 1734409641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126871,
+        "num": 391908,
+        "word": "搜狐时尚盛典",
+        "onboard_time": 1734409401,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91261,
+        "num": 384528,
+        "word": "中国代表在安理会驳斥美国无端指责",
+        "onboard_time": 1734407239,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 821603,
+        "num": 375034,
+        "word": "王鹤棣 内涵",
+        "onboard_time": 1734364519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624171,
+        "num": 370453,
+        "word": "孟子义和徐志胜女友煲电话粥",
+        "onboard_time": 1734405798,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8770,
+        "num": 366300,
+        "word": "2025斯诺克德国大师赛",
+        "onboard_time": 1734408020,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466963,
+        "num": 357184,
+        "word": "沈腾 坏了冲我来的",
+        "onboard_time": 1734407539,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507432,
+        "num": 353072,
+        "word": "17岁男孩系自缢身亡不构成刑事案件",
+        "onboard_time": 1734407179,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 349975,
+        "num": 349975,
+        "word": "过境免签外国人停留时间延长为240小时",
+        "onboard_time": 1734402498,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167311,
+        "num": 303273,
+        "word": "清密15年前浮尸命案再犯案",
+        "onboard_time": 1734409220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44859,
+        "num": 295531,
+        "word": "于适入选辽宁朝阳青联委员",
+        "onboard_time": 1734409700,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294350,
+        "num": 294350,
+        "word": "主播为骗人站大楼前就说楼是自己的",
+        "onboard_time": 1734399498,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258959,
+        "num": 258959,
+        "word": "王楚钦乒超赛后发文",
+        "onboard_time": 1734401957,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257476,
+        "num": 257476,
+        "word": "12306抢票更快的功能一定要知道",
+        "onboard_time": 1734400939,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254954,
+        "num": 254954,
+        "word": "东皇出现吓倒一片",
+        "onboard_time": 1734404659,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254944,
+        "num": 254944,
+        "word": "刘亦菲惠英红C位",
+        "onboard_time": 1734408380,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220822,
+        "num": 220822,
+        "word": "宋旻浩服役被举报不上班",
+        "onboard_time": 1734405318,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216065,
+        "num": 216065,
+        "word": "网传星光大赏座位表",
+        "onboard_time": 1734407119,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210021,
+        "num": 210021,
+        "word": "设置学霸就餐区中学已整改取消",
+        "onboard_time": 1734408020,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207342,
+        "num": 207342,
+        "word": "10后女生独爱鲶鱼须刘海",
+        "onboard_time": 1734395659,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 199869,
+        "num": 199869,
+        "word": "B太 菏泽",
+        "onboard_time": 1734408741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 195010,
+        "word": "张馨予换了造型师",
+        "onboard_time": 1734407659,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176676,
+        "num": 176676,
+        "word": "今年的双旦不约而同都在工作日",
+        "onboard_time": 1734404958,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52256,
+        "num": 166579,
+        "word": "夏目友人帐 最意难平的一集",
+        "onboard_time": 1734408322,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 160784,
+        "num": 160784,
+        "word": "嘉人红毯空场20分钟",
+        "onboard_time": 1734408919,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158112,
+        "num": 158112,
+        "word": "大明星何群带乌龟妹上跨晚了",
+        "onboard_time": 1734404958,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153870,
+        "num": 153870,
+        "word": "柳智敏申有娜雪允合作舞台",
+        "onboard_time": 1734409162,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152492,
+        "num": 152492,
+        "word": "一市民花84元买彩票中834万",
+        "onboard_time": 1734367755,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145577,
+        "num": 151929,
+        "word": "Chovy说被Faker打回现实",
+        "onboard_time": 1734408260,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 151501,
+        "word": "谁模仿王鹤棣",
+        "onboard_time": 1734365240,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149398,
+        "num": 149398,
+        "word": "杨幂对接回应嘉人红毯顺序",
+        "onboard_time": 1734391575,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把坚定理想信念作为终身课题#"
+    }
+  }
+}

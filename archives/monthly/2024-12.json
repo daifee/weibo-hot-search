@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734407422155,
+  "endTime": 1734409735347,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2539,6 +2539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1174303,
+      "num": 1187888,
+      "word": "我走出永夜星河了 他还没走出东方青苍",
+      "onboard_time": 1734407959,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1166241,
       "num": 526788,
       "word": "收留女硕士男子称办过酒席",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1734159558,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1163025,
+      "num": 849584,
+      "word": "时宴没有被邀请",
+      "onboard_time": 1734405439,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1157052,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1734272060,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1122240,
+      "num": 844102,
+      "word": "孙俪都不敢说甄嬛只能找她",
+      "onboard_time": 1734406578,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1119100,
@@ -3377,6 +3401,14 @@
       "onboard_time": 1734066321,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 992943,
+      "num": 992943,
+      "word": "李建平被执行死刑",
+      "onboard_time": 1734408439,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 992157,
@@ -4955,14 +4987,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 789359,
-      "num": 512764,
-      "word": "时宴没有被邀请",
-      "onboard_time": 1734405439,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 788291,
       "num": 1126126,
       "word": "傅首尔回应傅首尔面相",
@@ -5387,6 +5411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 743408,
+      "num": 743408,
+      "word": "我关闭了朋友圈拒绝焦虑与内耗",
+      "onboard_time": 1734402617,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 743243,
       "num": 743243,
       "word": "猎罪图鉴尺度",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1733104278,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 727055,
+      "num": 727055,
+      "word": "尹锡悦戒严令背后惊天阴谋曝光",
+      "onboard_time": 1734404898,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 726791,
@@ -6355,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666286,
+      "num": 666286,
+      "word": "湖南卫视跨年全阵容",
+      "onboard_time": 1734408139,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666203,
       "num": 748133,
       "word": "中国女子远嫁日本已失联16个月",
@@ -6995,6 +7043,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 624171,
+      "num": 370453,
+      "word": "孟子义和徐志胜女友煲电话粥",
+      "onboard_time": 1734405798,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624075,
       "num": 624075,
       "word": "耳朵经济火了",
@@ -7081,14 +7137,6 @@
       "onboard_time": 1733097498,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 618096,
-      "num": 299325,
-      "word": "孟子义和徐志胜女友煲电话粥",
-      "onboard_time": 1734405798,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 617927,
@@ -9083,14 +9131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 515951,
-      "num": 568362,
-      "word": "尹锡悦戒严令背后惊天阴谋曝光",
-      "onboard_time": 1734404898,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 515851,
       "num": 260429,
       "word": "家有儿女04年就在吃海底捞了",
@@ -9283,6 +9323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 507432,
+      "num": 353072,
+      "word": "17岁男孩系自缢身亡不构成刑事案件",
+      "onboard_time": 1734407179,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 507412,
       "num": 609237,
       "word": "宠物粮里加蒙脱石厂商竟说吃不死",
@@ -9433,6 +9481,14 @@
       "onboard_time": 1733041338,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 498017,
+      "num": 498017,
+      "word": "浙江6个口岸过境免签可停留240小时",
+      "onboard_time": 1734408201,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498013,
@@ -10155,6 +10211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466963,
+      "num": 357184,
+      "word": "沈腾 坏了冲我来的",
+      "onboard_time": 1734407539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466823,
       "num": 466823,
       "word": "大蒜做梦也没想到能对美构成极大威胁",
@@ -10193,14 +10257,6 @@
       "onboard_time": 1733738419,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 464235,
-      "num": 464235,
-      "word": "我关闭了朋友圈拒绝焦虑与内耗",
-      "onboard_time": 1734402617,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 463962,
@@ -11611,6 +11667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 418059,
+      "num": 418059,
+      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+      "onboard_time": 1734404239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417979,
       "num": 417979,
       "word": "李昀锐 二月红前来求药",
@@ -12993,14 +13057,6 @@
       "onboard_time": 1733548457,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371630,
-      "num": 371630,
-      "word": "孙俪都不敢说甄嬛只能找她",
-      "onboard_time": 1734406578,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 371075,
@@ -17763,14 +17819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261792,
-      "num": 261792,
-      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
-      "onboard_time": 1734404239,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 261730,
       "num": 349314,
       "word": "丁禹兮 韩束",
@@ -18065,6 +18113,22 @@
       "onboard_time": 1733710877,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254954,
+      "num": 254954,
+      "word": "东皇出现吓倒一片",
+      "onboard_time": 1734404659,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 254944,
+      "num": 254944,
+      "word": "刘亦菲惠英红C位",
+      "onboard_time": 1734408380,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 254802,
@@ -20923,6 +20987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220822,
+      "num": 371686,
+      "word": "宋旻浩服役被举报不上班",
+      "onboard_time": 1734405318,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220626,
       "num": 227877,
       "word": "田嘉瑞月鳞绮纪开机出妆路透",
@@ -21243,14 +21315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216660,
-      "num": 371686,
-      "word": "宋旻浩服役被举报不上班",
-      "onboard_time": 1734405318,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "JackeyLove因职业病做手术",
@@ -21273,6 +21337,14 @@
       "onboard_time": 1733038818,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216065,
+      "num": 216065,
+      "word": "网传星光大赏座位表",
+      "onboard_time": 1734407119,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 216013,
@@ -21489,14 +21561,6 @@
       "onboard_time": 1734332839,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214223,
-      "num": 214223,
-      "word": "东皇出现吓倒一片",
-      "onboard_time": 1734404659,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 214118,
@@ -21921,6 +21985,14 @@
       "onboard_time": 1733668462,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210021,
+      "num": 210021,
+      "word": "设置学霸就餐区中学已整改取消",
+      "onboard_time": 1734408020,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 210019,
@@ -22393,14 +22465,6 @@
       "onboard_time": 1733472919,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206822,
-      "num": 206822,
-      "word": "网传星光大赏座位表",
-      "onboard_time": 1734407119,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 206737,
@@ -23555,6 +23619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199869,
+      "num": 199869,
+      "word": "B太 菏泽",
+      "onboard_time": 1734408741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199855,
       "num": 192662,
       "word": "丁禹兮祝绪丹一个耳背一个背梗",
@@ -24545,6 +24617,14 @@
       "onboard_time": 1733587819,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195010,
+      "num": 195010,
+      "word": "张馨予换了造型师",
+      "onboard_time": 1734407659,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194939,
@@ -27835,6 +27915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 176676,
+      "num": 176676,
+      "word": "今年的双旦不约而同都在工作日",
+      "onboard_time": 1734404958,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176663,
       "num": 176663,
       "word": "TGA2024颁奖盛典",
@@ -29635,6 +29723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167311,
+      "num": 303273,
+      "word": "清密15年前浮尸命案再犯案",
+      "onboard_time": 1734409220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167277,
       "num": 306804,
       "word": "王力宏 B站跨年晚会",
@@ -30883,14 +30979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160979,
-      "num": 160979,
-      "word": "今年的双旦不约而同都在工作日",
-      "onboard_time": 1734404958,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160941,
       "num": 160941,
       "word": "朱开说对Daeny没好感",
@@ -30929,6 +31017,14 @@
       "onboard_time": 1734186381,
       "rank": 47,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 160784,
+      "num": 160784,
+      "word": "嘉人红毯空场20分钟",
+      "onboard_time": 1734408919,
+      "rank": 43,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 160704,
@@ -32547,6 +32643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153870,
+      "num": 153870,
+      "word": "柳智敏申有娜雪允合作舞台",
+      "onboard_time": 1734409162,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153717,
       "num": 153717,
       "word": "赵小童野男人邂逅野牛",
@@ -32977,14 +33081,6 @@
       "onboard_time": 1734352642,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 151558,
-      "num": 151558,
-      "word": "17岁男孩系自缢身亡不构成刑事案件",
-      "onboard_time": 1734407179,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 151546,
@@ -34169,6 +34265,14 @@
       "onboard_time": 1733313022,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 145577,
+      "num": 151929,
+      "word": "Chovy说被Faker打回现实",
+      "onboard_time": 1734408260,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 145560,
@@ -37697,6 +37801,14 @@
       "onboard_time": 1733024179,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126871,
+      "num": 391908,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734409401,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126857,
@@ -43403,6 +43515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91261,
+      "num": 384528,
+      "word": "中国代表在安理会驳斥美国无端指责",
+      "onboard_time": 1734407239,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91202,
       "num": 223091,
       "word": "农村挖红薯大叔是6块金牌的武状元",
@@ -47603,6 +47723,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 61074,
+      "num": 406994,
+      "word": "江苏卫视跨年第三波阵容官宣",
+      "onboard_time": 1734409520,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61044,
       "num": 443209,
       "word": "三年后全国将实现医疗影像互认",
@@ -49123,6 +49251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52256,
+      "num": 166579,
+      "word": "夏目友人帐 最意难平的一集",
+      "onboard_time": 1734408322,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 52249,
       "num": 287861,
       "word": "博物馆文物发霉值得反思",
@@ -49595,14 +49731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49359,
-      "num": 154787,
-      "word": "中国代表在安理会驳斥美国无端指责",
-      "onboard_time": 1734407239,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 49247,
       "num": 296574,
       "word": "香奈儿配西湖美景",
@@ -49673,6 +49801,14 @@
       "onboard_time": 1734130933,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48748,
+      "num": 414710,
+      "word": "今年外国旅客机票预订量同比增近2倍",
+      "onboard_time": 1734409041,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48732,
@@ -50481,6 +50617,14 @@
       "onboard_time": 1733468598,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44859,
+      "num": 295531,
+      "word": "于适入选辽宁朝阳青联委员",
+      "onboard_time": 1734409700,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 44819,
@@ -51489,6 +51633,14 @@
       "onboard_time": 1733548220,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40341,
+      "num": 405306,
+      "word": "檀健次圆梦螺蛳粉",
+      "onboard_time": 1734408680,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40322,
@@ -53563,6 +53715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31485,
+      "num": 395638,
+      "word": "未婚育弟弟照护两个姐姐28年",
+      "onboard_time": 1734409641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31479,
       "num": 695784,
       "word": "2025年经济工作有哪些新表述新提法",
@@ -54577,6 +54737,14 @@
       "onboard_time": 1733128638,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26692,
+      "num": 640989,
+      "word": "免费为多名老人做手术医院已被限消",
+      "onboard_time": 1734409641,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26675,
@@ -58487,6 +58655,14 @@
       "num": 25625,
       "word": "许昕callback嘻嘻哈哈梗",
       "onboard_time": 1733685732,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8770,
+      "num": 366300,
+      "word": "2025斯诺克德国大师赛",
+      "onboard_time": 1734408020,
       "rank": 24,
       "category": "体育"
     },
