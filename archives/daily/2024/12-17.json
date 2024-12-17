@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734405256104,
+  "endTime": 1734407422155,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 794291,
+      "num": 794291,
+      "word": "给宠物做殡葬真的有必要吗",
+      "onboard_time": 1734401357,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 789560,
       "num": 412697,
       "word": "救场",
@@ -51,20 +59,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 789359,
+      "num": 512764,
+      "word": "时宴没有被邀请",
+      "onboard_time": 1734405439,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 789029,
       "num": 311298,
       "word": "嘉人大合照",
       "onboard_time": 1734359842,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 716096,
-      "num": 716096,
-      "word": "给宠物做殡葬真的有必要吗",
-      "onboard_time": 1734401357,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 701129,
@@ -97,6 +105,14 @@
       "onboard_time": 1734400939,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618096,
+      "num": 299325,
+      "word": "孟子义和徐志胜女友煲电话粥",
+      "onboard_time": 1734405798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 612390,
@@ -139,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 515951,
+      "num": 568362,
+      "word": "尹锡悦戒严令背后惊天阴谋曝光",
+      "onboard_time": 1734404898,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 513480,
       "num": 241347,
       "word": "马思纯怎么拍成了这样",
@@ -179,6 +203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 464235,
+      "num": 464235,
+      "word": "我关闭了朋友圈拒绝焦虑与内耗",
+      "onboard_time": 1734402617,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454785,
       "num": 454785,
       "word": "余衍隆曝阿娇变胖原因",
@@ -217,6 +249,22 @@
       "onboard_time": 1734350660,
       "rank": 22,
       "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 376457,
+      "num": 376457,
+      "word": "大明星何群带乌龟妹上跨晚了",
+      "onboard_time": 1734404958,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 371630,
+      "num": 371630,
+      "word": "孙俪都不敢说甄嬛只能找她",
+      "onboard_time": 1734406578,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 370428,
@@ -331,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261792,
+      "num": 261792,
+      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+      "onboard_time": 1734404239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251431,
       "num": 251431,
       "word": "尹锡悦确定律师团",
       "onboard_time": 1734319998,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229110,
-      "num": 196746,
-      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
-      "onboard_time": 1734404239,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 228648,
@@ -371,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216660,
+      "num": 371686,
+      "word": "宋旻浩服役被举报不上班",
+      "onboard_time": 1734405318,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215510,
       "num": 215510,
       "word": "有一种骄傲叫舷号17",
@@ -379,8 +435,24 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214223,
+      "num": 214223,
+      "word": "东皇出现吓倒一片",
+      "onboard_time": 1734404659,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "网传星光大赏座位表",
+      "onboard_time": 1734407119,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200582,
-      "num": 200582,
+      "num": 371496,
       "word": "登陆少年组合官宣加盟江苏卫视跨年",
       "onboard_time": 1734401238,
       "rank": 28,
@@ -491,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165978,
+      "num": 185706,
+      "word": "蔡徐坤Billboard首位中国区代表",
+      "onboard_time": 1734405199,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162691,
       "num": 144996,
       "word": "骨科医生都推荐的睡姿",
       "onboard_time": 1734356360,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 162422,
+      "num": 162422,
+      "word": "国家移民管理局新闻发布会",
+      "onboard_time": 1734405918,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161029,
@@ -507,12 +595,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160979,
+      "num": 160979,
+      "word": "今年的双旦不约而同都在工作日",
+      "onboard_time": 1734404958,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160318,
       "num": 160318,
       "word": "家暴受害人起诉离婚需45天冷静期",
       "onboard_time": 1734362601,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158983,
+      "num": 158983,
+      "word": "董明珠称做芯片没拿国家一分钱",
+      "onboard_time": 1734402258,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 158939,
@@ -545,6 +649,22 @@
       "onboard_time": 1734403758,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151558,
+      "num": 151558,
+      "word": "17岁男孩系自缢身亡不构成刑事案件",
+      "onboard_time": 1734407179,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 144791,
+      "num": 144791,
+      "word": "NewJeans魔法少女",
+      "onboard_time": 1734405798,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 141353,
@@ -587,22 +707,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 135740,
-      "num": 135740,
-      "word": "东皇出现吓倒一片",
-      "onboard_time": 1734404659,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 135229,
-      "num": 135229,
-      "word": "董明珠称做芯片没拿国家一分钱",
-      "onboard_time": 1734402258,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 133479,
       "num": 133479,
       "word": "王灿聊住家阿姨的分寸感",
@@ -611,20 +715,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132840,
+      "num": 132840,
+      "word": "王楚钦世排8825分持续第一",
+      "onboard_time": 1734404778,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132374,
       "num": 132374,
       "word": "特斯拉市值一夜涨超6200亿元",
       "onboard_time": 1734394879,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 130254,
-      "num": 213772,
-      "word": "大明星何群带乌龟妹上跨晚了",
-      "onboard_time": 1734404958,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 129730,
@@ -643,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124846,
+      "num": 124846,
+      "word": "以为要过圣诞结果是过春节",
+      "onboard_time": 1734406280,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123402,
       "num": 154852,
       "word": "以色列空袭叙军事基地炸出蘑菇云",
@@ -657,14 +769,6 @@
       "onboard_time": 1734362180,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118586,
-      "num": 118586,
-      "word": "我关闭了朋友圈拒绝焦虑与内耗",
-      "onboard_time": 1734402617,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117592,
@@ -875,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68416,
+      "num": 265007,
+      "word": "覃海洋2024收获7.2万美元奖金",
+      "onboard_time": 1734406397,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66744,
       "num": 152239,
       "word": "涉事领导回应职工为其买酒赊账9万",
@@ -955,6 +1067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59046,
+      "num": 329902,
+      "word": "杨妞花回应直播带货被质疑",
+      "onboard_time": 1734406038,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55881,
       "num": 384837,
       "word": "尹锡悦被要求23日前提交答辩",
@@ -995,6 +1115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49359,
+      "num": 154787,
+      "word": "中国代表在安理会驳斥美国无端指责",
+      "onboard_time": 1734407239,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47673,
       "num": 147457,
       "word": "TT晋级2024德杯八强",
@@ -1020,11 +1148,19 @@
     },
     {
       "raw_hot": 45754,
-      "num": 184675,
+      "num": 200680,
       "word": "鸿蒙智行与时代同行",
       "onboard_time": 1734404597,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45428,
+      "num": 341890,
+      "word": "高位股开盘大跌",
+      "onboard_time": 1734407179,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 44136,
@@ -1043,12 +1179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43091,
-      "num": 185706,
-      "word": "蔡徐坤Billboard首位中国区代表",
-      "onboard_time": 1734405199,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 43454,
+      "num": 371744,
+      "word": "有医院排队停车时间比看病时间都长",
+      "onboard_time": 1734406337,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41419,
@@ -1107,12 +1243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36152,
-      "num": 568362,
-      "word": "尹锡悦戒严令背后惊天阴谋曝光",
-      "onboard_time": 1734404898,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 35269,
+      "num": 142736,
+      "word": "范丞丞浙江卫视跨年晚会官宣",
+      "onboard_time": 1734405377,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 29905,

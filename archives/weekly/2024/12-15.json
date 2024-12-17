@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734405256104,
+  "endTime": 1734407422155,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -587,12 +587,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 794291,
+      "num": 794291,
+      "word": "给宠物做殡葬真的有必要吗",
+      "onboard_time": 1734401357,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 789560,
       "num": 420900,
       "word": "救场",
       "onboard_time": 1734361639,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 789359,
+      "num": 512764,
+      "word": "时宴没有被邀请",
+      "onboard_time": 1734405439,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 786200,
@@ -673,14 +689,6 @@
       "onboard_time": 1734241098,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716096,
-      "num": 716096,
-      "word": "给宠物做殡葬真的有必要吗",
-      "onboard_time": 1734401357,
-      "rank": 31,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 715235,
@@ -856,6 +864,14 @@
       "word": "花儿与少年",
       "onboard_time": 1734321920,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 618096,
+      "num": 299325,
+      "word": "孟子义和徐志胜女友煲电话粥",
+      "onboard_time": 1734405798,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1171,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515951,
+      "num": 568362,
+      "word": "尹锡悦戒严令背后惊天阴谋曝光",
+      "onboard_time": 1734404898,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 515851,
       "num": 260429,
       "word": "家有儿女04年就在吃海底捞了",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1734337879,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464235,
+      "num": 464235,
+      "word": "我关闭了朋友圈拒绝焦虑与内耗",
+      "onboard_time": 1734402617,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 463550,
@@ -1619,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376457,
+      "num": 376457,
+      "word": "大明星何群带乌龟妹上跨晚了",
+      "onboard_time": 1734404958,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375526,
       "num": 375526,
       "word": "克莉丝汀确定退市",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1734338660,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 371630,
+      "num": 371630,
+      "word": "孙俪都不敢说甄嬛只能找她",
+      "onboard_time": 1734406578,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 370981,
@@ -2347,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261792,
+      "num": 261792,
+      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+      "onboard_time": 1734404239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259951,
       "num": 259951,
       "word": "国安破获多起主动投靠境外间谍组织案",
@@ -2595,14 +2651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229110,
-      "num": 196746,
-      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
-      "onboard_time": 1734404239,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228648,
       "num": 214615,
       "word": "1个墙缝同时卡住2个孩子",
@@ -2755,6 +2803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 216660,
+      "num": 371686,
+      "word": "宋旻浩服役被举报不上班",
+      "onboard_time": 1734405318,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "JackeyLove因职业病做手术",
@@ -2825,6 +2881,14 @@
       "onboard_time": 1734332839,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 214223,
+      "num": 214223,
+      "word": "东皇出现吓倒一片",
+      "onboard_time": 1734404659,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 213849,
@@ -2913,6 +2977,14 @@
       "onboard_time": 1734249799,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206822,
+      "num": 206822,
+      "word": "网传星光大赏座位表",
+      "onboard_time": 1734407119,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 206737,
@@ -3100,7 +3172,7 @@
     },
     {
       "raw_hot": 200582,
-      "num": 200582,
+      "num": 371496,
       "word": "登陆少年组合官宣加盟江苏卫视跨年",
       "onboard_time": 1734401238,
       "rank": 28,
@@ -4043,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165978,
+      "num": 185706,
+      "word": "蔡徐坤Billboard首位中国区代表",
+      "onboard_time": 1734405199,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165832,
       "num": 211850,
       "word": "只有英语过了四六级才能打的麻将",
@@ -4171,6 +4251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162422,
+      "num": 162422,
+      "word": "国家移民管理局新闻发布会",
+      "onboard_time": 1734405918,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162323,
       "num": 430099,
       "word": "爱做饭的人值得珍惜",
@@ -4225,6 +4313,14 @@
       "onboard_time": 1734391515,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160979,
+      "num": 160979,
+      "word": "今年的双旦不约而同都在工作日",
+      "onboard_time": 1734404958,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160426,
@@ -4297,6 +4393,14 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158983,
+      "num": 158983,
+      "word": "董明珠称做芯片没拿国家一分钱",
+      "onboard_time": 1734402258,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 158605,
@@ -4531,6 +4635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 151558,
+      "num": 151558,
+      "word": "17岁男孩系自缢身亡不构成刑事案件",
+      "onboard_time": 1734407179,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 151192,
       "num": 151192,
       "word": "赵晓卉想打电视剧里的车赶飞机",
@@ -4657,6 +4769,14 @@
       "onboard_time": 1734252559,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144791,
+      "num": 144791,
+      "word": "NewJeans魔法少女",
+      "onboard_time": 1734405798,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 144736,
@@ -4955,14 +5075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135740,
-      "num": 135740,
-      "word": "东皇出现吓倒一片",
-      "onboard_time": 1734404659,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "六级",
@@ -4985,14 +5097,6 @@
       "onboard_time": 1734327019,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135229,
-      "num": 135229,
-      "word": "董明珠称做芯片没拿国家一分钱",
-      "onboard_time": 1734402258,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 134953,
@@ -5073,6 +5177,14 @@
       "onboard_time": 1734331879,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132840,
+      "num": 132840,
+      "word": "王楚钦世排8825分持续第一",
+      "onboard_time": 1734404778,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132374,
@@ -5169,14 +5281,6 @@
       "onboard_time": 1734353481,
       "rank": 46,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 130254,
-      "num": 213772,
-      "word": "大明星何群带乌龟妹上跨晚了",
-      "onboard_time": 1734404958,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 130224,
@@ -5371,6 +5475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124846,
+      "num": 124846,
+      "word": "以为要过圣诞结果是过春节",
+      "onboard_time": 1734406280,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124489,
       "num": 124489,
       "word": "800万的金箍棒拿手上是什么感觉",
@@ -5553,14 +5665,6 @@
       "onboard_time": 1734345260,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 118586,
-      "num": 118586,
-      "word": "我关闭了朋友圈拒绝焦虑与内耗",
-      "onboard_time": 1734402617,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117592,
@@ -6979,6 +7083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68416,
+      "num": 265007,
+      "word": "覃海洋2024收获7.2万美元奖金",
+      "onboard_time": 1734406397,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68402,
       "num": 185243,
       "word": "2025东方卫视跨年官宣",
@@ -7169,6 +7281,14 @@
       "onboard_time": 1734175820,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59046,
+      "num": 329902,
+      "word": "杨妞花回应直播带货被质疑",
+      "onboard_time": 1734406038,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58111,
@@ -7363,6 +7483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49359,
+      "num": 154787,
+      "word": "中国代表在安理会驳斥美国无端指责",
+      "onboard_time": 1734407239,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48730,
       "num": 339267,
       "word": "消费者被出镜如何维权",
@@ -7476,7 +7604,7 @@
     },
     {
       "raw_hot": 45754,
-      "num": 184675,
+      "num": 200680,
       "word": "鸿蒙智行与时代同行",
       "onboard_time": 1734404597,
       "rank": 45,
@@ -7497,6 +7625,14 @@
       "onboard_time": 1734238698,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45428,
+      "num": 341890,
+      "word": "高位股开盘大跌",
+      "onboard_time": 1734407179,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 45146,
@@ -7571,12 +7707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43091,
-      "num": 185706,
-      "word": "蔡徐坤Billboard首位中国区代表",
-      "onboard_time": 1734405199,
-      "rank": 27,
-      "category": "作品衍生,时尚"
+      "raw_hot": 43454,
+      "num": 371744,
+      "word": "有医院排队停车时间比看病时间都长",
+      "onboard_time": 1734406337,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43042,
@@ -7803,14 +7939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36152,
-      "num": 568362,
-      "word": "尹锡悦戒严令背后惊天阴谋曝光",
-      "onboard_time": 1734404898,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35813,
       "num": 392563,
       "word": "王祉怡年终赛女单夺冠",
@@ -7825,6 +7953,14 @@
       "onboard_time": 1734296471,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35269,
+      "num": 142736,
+      "word": "范丞丞浙江卫视跨年晚会官宣",
+      "onboard_time": 1734405377,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 34992,
