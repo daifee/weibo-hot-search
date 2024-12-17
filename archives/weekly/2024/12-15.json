@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734440624144,
+  "endTime": 1734442394755,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -763,6 +763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 806579,
+      "num": 806579,
+      "word": "iPhone或迎六年来首次设计大换代",
+      "onboard_time": 1734436878,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 803532,
       "num": 803532,
       "word": "张家界长满了韩国人",
@@ -801,14 +809,6 @@
       "onboard_time": 1734401357,
       "rank": 31,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 791442,
-      "num": 791442,
-      "word": "iPhone或迎六年来首次设计大换代",
-      "onboard_time": 1734436878,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 789560,
@@ -1025,6 +1025,22 @@
       "onboard_time": 1734228678,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 665960,
+      "num": 665960,
+      "word": "市监局称羊汤发白是加了羊油",
+      "onboard_time": 1734436638,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659279,
+      "num": 430314,
+      "word": "南大碎尸案家属回应张译躺枪",
+      "onboard_time": 1734434419,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 658596,
@@ -1403,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 548047,
+      "num": 548047,
+      "word": "鹿晗猝不及防的互拍",
+      "onboard_time": 1734439939,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 548031,
       "num": 548031,
       "word": "刘耀文灯牌",
@@ -1483,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533946,
+      "num": 533946,
+      "word": "九重紫 两世死的都是济宁侯夫人",
+      "onboard_time": 1734438260,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531854,
       "num": 531854,
       "word": "知情人透露代孕机构老板直系亲属是公安人员",
@@ -1529,14 +1561,6 @@
       "onboard_time": 1734314116,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517855,
-      "num": 517855,
-      "word": "九重紫 两世死的都是济宁侯夫人",
-      "onboard_time": 1734438260,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 515851,
@@ -1859,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430959,
+      "num": 430959,
+      "word": "孟子义对李昀锐撒娇要衣服",
+      "onboard_time": 1734440360,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429504,
       "num": 429504,
       "word": "月鳞绮纪官宣",
@@ -1889,14 +1921,6 @@
       "onboard_time": 1734338061,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419464,
-      "num": 419464,
-      "word": "南大碎尸案家属回应张译躺枪",
-      "onboard_time": 1734434419,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 419256,
@@ -2161,14 +2185,6 @@
       "onboard_time": 1734254898,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 366740,
-      "num": 366740,
-      "word": "市监局称羊汤发白是加了羊油",
-      "onboard_time": 1734436638,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 366472,
@@ -3027,8 +3043,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249374,
+      "num": 249374,
+      "word": "虞书欣专辑试听",
+      "onboard_time": 1734442040,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 248903,
-      "num": 162660,
+      "num": 221283,
       "word": "好适合吃饺子的盘子",
       "onboard_time": 1734439277,
       "rank": 37,
@@ -3523,14 +3547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 215180,
-      "num": 215180,
-      "word": "孟子义对李昀锐撒娇要衣服",
-      "onboard_time": 1734440360,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215022,
       "num": 215022,
       "word": "情侣吵架互删是撒娇还是真翻脸",
@@ -3667,14 +3683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207776,
-      "num": 207776,
-      "word": "鹿晗猝不及防的互拍",
-      "onboard_time": 1734439939,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207288,
       "num": 207288,
       "word": "为何四六级总分是710分而不是100分",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1734343880,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205438,
+      "num": 205438,
+      "word": "54岁香港男星申请破产",
+      "onboard_time": 1734437118,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205256,
@@ -4051,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197036,
+      "num": 197036,
+      "word": "韩国演员马东锡到底有多强",
+      "onboard_time": 1734440600,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196885,
       "num": 196885,
       "word": "女子推理社",
@@ -4305,14 +4329,6 @@
       "onboard_time": 1734271820,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190062,
-      "num": 190062,
-      "word": "54岁香港男星申请破产",
-      "onboard_time": 1734437118,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 190005,
@@ -4811,6 +4827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173963,
+      "num": 173963,
+      "word": "家长从学生冬季校服中扯出薄膜",
+      "onboard_time": 1734440119,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173899,
       "num": 173899,
       "word": "5孩夫妻怕对方跑了彼此都很客气",
@@ -5249,6 +5273,14 @@
       "onboard_time": 1734268701,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161880,
+      "num": 161880,
+      "word": "陈梦再谈夺得奥运冠军感受",
+      "onboard_time": 1734441978,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 161317,
@@ -6067,6 +6099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141407,
+      "num": 211566,
+      "word": "疑似涉黄私人影院注册资本仅10万",
+      "onboard_time": 1734438439,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "李马克歌词",
@@ -6147,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "文俊辉自己吓自己",
+      "onboard_time": 1734440839,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139733,
       "num": 278436,
       "word": "阴阳师",
@@ -6177,14 +6225,6 @@
       "onboard_time": 1734402438,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138195,
-      "num": 138195,
-      "word": "家长从学生冬季校服中扯出薄膜",
-      "onboard_time": 1734440119,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138116,
@@ -6595,6 +6635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129122,
+      "num": 326507,
+      "word": "家长发现孩子课外书籍掺杂恶俗恶梗",
+      "onboard_time": 1734440961,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129107,
       "num": 129107,
       "word": "檀健次说猎鉴第二季沈翊像老虎",
@@ -6787,6 +6835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124608,
+      "num": 197459,
+      "word": "梅德韦杰夫回应俄三防部队司令死亡",
+      "onboard_time": 1734437538,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124489,
       "num": 124489,
       "word": "800万的金箍棒拿手上是什么感觉",
@@ -6891,20 +6947,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121561,
+      "num": 121561,
+      "word": "魏大勋 有多久没站到中间了",
+      "onboard_time": 1734441739,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121538,
       "num": 121538,
       "word": "四六级考完以后的朋友圈",
       "onboard_time": 1734256638,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 121297,
-      "num": 121297,
-      "word": "韩国演员马东锡到底有多强",
-      "onboard_time": 1734440600,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 121254,
@@ -8163,14 +8219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82148,
-      "num": 211566,
-      "word": "疑似涉黄私人影院注册资本仅10万",
-      "onboard_time": 1734438439,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82102,
       "num": 82102,
       "word": "宋亚轩翻唱花花公子",
@@ -9043,12 +9091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51258,
+      "num": 197213,
+      "word": "蜜雪冰城多门店饮品涨价1块",
+      "onboard_time": 1734440961,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51052,
       "num": 198374,
       "word": "和平饭店称298元套餐含268元导览服务",
       "onboard_time": 1734401298,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50827,
+      "num": 339329,
+      "word": "王楚钦想家了",
+      "onboard_time": 1734440360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 50367,
@@ -9105,6 +9169,14 @@
       "onboard_time": 1734420199,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 48766,
+      "num": 317387,
+      "word": "男子11年结婚5次骗多名前妻上百万",
+      "onboard_time": 1734441020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48748,
@@ -9443,6 +9515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 41041,
+      "num": 430421,
+      "word": "家长称学校用数智家校查成绩要付费",
+      "onboard_time": 1734441500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40886,
       "num": 938957,
       "word": "中国领跑全球电动汽车销售市场",
@@ -9489,6 +9569,14 @@
       "onboard_time": 1734246199,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40257,
+      "num": 830620,
+      "word": "世界上最早的融合菜诞生在澳门",
+      "onboard_time": 1734425359,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 40205,
@@ -9811,14 +9899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 32449,
-      "num": 142641,
-      "word": "王楚钦想家了",
-      "onboard_time": 1734440360,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31611,
       "num": 500261,
       "word": "V23年轻人的电动小G上市",
@@ -10027,12 +10107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28084,
+      "num": 350274,
+      "word": "媒体谈医院免费为老人做手术",
+      "onboard_time": 1734440961,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27356,
       "num": 160172,
       "word": "刷酸那回事儿",
       "onboard_time": 1734355999,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 26774,
+      "num": 205742,
+      "word": "窦昭专治小妈发癫",
+      "onboard_time": 1734438739,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 26574,
@@ -10299,6 +10395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 21400,
+      "num": 159507,
+      "word": "娜扎和防晒和解",
+      "onboard_time": 1734441500,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 21140,
       "num": 291385,
       "word": "窦昭女子亦可以一敌百",
@@ -10321,6 +10425,14 @@
       "onboard_time": 1734286452,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20417,
+      "num": 207004,
+      "word": "但是我可以选择我的未来",
+      "onboard_time": 1734441260,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 19948,
@@ -10529,6 +10641,14 @@
       "onboard_time": 1734354981,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16584,
+      "num": 330871,
+      "word": "夏之光说九重紫演爽了",
+      "onboard_time": 1734442220,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 16225,
@@ -10763,6 +10883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12704,
+      "num": 171881,
+      "word": "玩一下智能手机 别管了",
+      "onboard_time": 1734441439,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 12688,
       "num": 269872,
       "word": "积石山地震一年后震区怎么样了",
@@ -10833,6 +10961,14 @@
       "onboard_time": 1734295031,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11034,
+      "num": 182756,
+      "word": "一口气看完猎罪2前五案",
+      "onboard_time": 1734442161,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 11030,
