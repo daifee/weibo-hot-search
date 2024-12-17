@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734418044626,
+  "endTime": 1734420271695,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -9,6 +9,14 @@
       "onboard_time": 1734364519,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1941125,
+      "num": 1941125,
+      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+      "onboard_time": 1734415159,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1898660,
@@ -124,19 +132,19 @@
     },
     {
       "raw_hot": 933300,
-      "num": 587522,
+      "num": 725513,
       "word": "卢昱晓 刘亦菲在那里我也想去",
       "onboard_time": 1734414799,
       "rank": 7,
       "category": "艺人"
     },
     {
-      "raw_hot": 857100,
-      "num": 857100,
-      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
-      "onboard_time": 1734415159,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 932980,
+      "num": 781319,
+      "word": "鹿晗背头",
+      "onboard_time": 1734417979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 794291,
@@ -161,6 +169,22 @@
       "onboard_time": 1734359842,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 784637,
+      "num": 784637,
+      "word": "私人影院790元套餐可舌吻触摸隐私部位",
+      "onboard_time": 1734419419,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 745149,
+      "num": 654723,
+      "word": "阿里巴巴将银泰卖给雅戈尔",
+      "onboard_time": 1734416838,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 743408,
@@ -233,6 +257,14 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 654260,
+      "num": 654260,
+      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+      "onboard_time": 1734417259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 650207,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335092,
+      "num": 335092,
+      "word": "王楚钦说与樊振东的技术差不多",
+      "onboard_time": 1734418639,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 326991,
       "num": 326991,
       "word": "第一次见地铁户型的家",
@@ -539,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305005,
-      "num": 305005,
-      "word": "阿里巴巴将银泰卖给雅戈尔",
-      "onboard_time": 1734416838,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 297725,
       "num": 297725,
       "word": "小伙见女生被偷拍上前阻止遭殴打",
@@ -561,6 +593,14 @@
       "onboard_time": 1734408380,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 280377,
+      "num": 302298,
+      "word": "被顾客多次掌掴胖东来补偿员工30000元",
+      "onboard_time": 1734416659,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278073,
@@ -611,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238798,
+      "num": 238798,
+      "word": "B太称随行的人也拉肚子了",
+      "onboard_time": 1734415818,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 230903,
       "num": 313611,
       "word": "叠纸起诉派克特",
@@ -619,20 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230814,
-      "num": 302298,
-      "word": "被顾客多次掌掴胖东来补偿员工30000元",
-      "onboard_time": 1734416659,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228648,
       "num": 214615,
       "word": "1个墙缝同时卡住2个孩子",
       "onboard_time": 1734396318,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225083,
+      "num": 225083,
+      "word": "台湾旅游",
+      "onboard_time": 1734419598,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 222762,
@@ -649,6 +697,14 @@
       "onboard_time": 1734405318,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219283,
+      "num": 309896,
+      "word": "张凌赫田曦薇互关微博了",
+      "onboard_time": 1734419120,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 217870,
@@ -697,14 +753,6 @@
       "onboard_time": 1734408020,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 206549,
-      "num": 206549,
-      "word": "B太称随行的人也拉肚子了",
-      "onboard_time": 1734415818,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 205256,
@@ -811,6 +859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183529,
+      "num": 183529,
+      "word": "九重紫和巴啦啦小魔仙同一个取景地",
+      "onboard_time": 1734418279,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王楚钦将在总决赛全力以赴",
@@ -891,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 169008,
+      "num": 169008,
+      "word": "朱婷女排世俱杯首秀",
+      "onboard_time": 1734419419,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168146,
       "num": 168146,
       "word": "为护女性遭邻居捅伤19岁小伙现状",
@@ -931,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161406,
-      "num": 472147,
-      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
-      "onboard_time": 1734417259,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161029,
       "num": 161029,
       "word": "外国人嗑瓜子真的很忙",
@@ -963,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159416,
+      "num": 159416,
+      "word": "保时捷中国裁员",
+      "onboard_time": 1734417679,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 158983,
       "num": 158983,
       "word": "董明珠称做芯片没拿国家一分钱",
@@ -985,6 +1049,14 @@
       "onboard_time": 1734348379,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158057,
+      "num": 158057,
+      "word": "在东北拖把和锅能用来玩冰壶",
+      "onboard_time": 1734419059,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158022,
@@ -1019,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151000,
+      "num": 151000,
+      "word": "胖东来客流比5A景区还多",
+      "onboard_time": 1734416179,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149256,
       "num": 149256,
       "word": "在西藏修铁路最怕高反被开除",
@@ -1027,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "奇瑞直播",
+      "onboard_time": 1734418818,
+      "rank": 41,
+      "category": "汽车,艺人"
+    },
+    {
       "raw_hot": 147780,
       "num": 640989,
       "word": "免费为多名老人做手术医院已被限消",
       "onboard_time": 1734409641,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147239,
+      "num": 147239,
+      "word": "一个人睡觉需要两个枕头",
+      "onboard_time": 1734418759,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145577,
@@ -1132,7 +1228,7 @@
     },
     {
       "raw_hot": 132619,
-      "num": 154927,
+      "num": 253014,
       "word": "原神 男模",
       "onboard_time": 1734410481,
       "rank": 49,
@@ -1145,6 +1241,14 @@
       "onboard_time": 1734394879,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132108,
+      "num": 132108,
+      "word": "于东来辟谣499元羽绒服",
+      "onboard_time": 1734418577,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129730,
@@ -1203,12 +1307,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 111267,
-      "num": 111267,
-      "word": "胖东来客流比5A景区还多",
-      "onboard_time": 1734416179,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 114372,
+      "num": 114372,
+      "word": "ChatGPT搜索功能向全体用户免费开放",
+      "onboard_time": 1734419479,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 111217,
@@ -1219,12 +1323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110114,
-      "num": 110114,
-      "word": "保时捷中国裁员",
-      "onboard_time": 1734417679,
-      "rank": 45,
-      "category": "汽车"
+      "raw_hot": 110511,
+      "num": 317257,
+      "word": "男子患病躺板车30年靠养鹅养活自己",
+      "onboard_time": 1734415999,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110003,
@@ -1243,14 +1347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106691,
-      "num": 317257,
-      "word": "男子患病躺板车30年靠养鹅养活自己",
-      "onboard_time": 1734415999,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105925,
       "num": 105925,
       "word": "TWS fanmeeting",
@@ -1265,14 +1361,6 @@
       "onboard_time": 1734409822,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103894,
-      "num": 103894,
-      "word": "鹿晗背头",
-      "onboard_time": 1734417979,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 102136,
@@ -1304,6 +1392,14 @@
       "word": "上海和平饭店298元套餐遭吐槽",
       "onboard_time": 1734341899,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93740,
+      "num": 654816,
+      "word": "为什么年轻人越来越热衷玄学",
+      "onboard_time": 1734419059,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1899,6 +1995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22072,
+      "num": 404558,
+      "word": "用户被移动分类为非家庭决策人",
+      "onboard_time": 1734420199,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 19931,
       "num": 29407,
       "word": "尹锡悦组建团队应对弹劾案",
@@ -2025,6 +2129,14 @@
       "onboard_time": 1734392237,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11030,
+      "num": 150054,
+      "word": "浮光春放 人生不相见",
+      "onboard_time": 1734419419,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 10071,
