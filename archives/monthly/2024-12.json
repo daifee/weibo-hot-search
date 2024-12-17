@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734461221825,
+  "endTime": 1734463199771,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -47811,6 +47811,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 72857,
+      "num": 72857,
+      "word": "网传失联李宜雪一直在家中",
+      "onboard_time": 1734461413,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72754,
       "num": 259021,
       "word": "王楚钦暴力高压球",
@@ -51707,6 +51715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49187,
+      "num": 49187,
+      "word": "统一黑底白字招牌曝光后连夜拆除",
+      "onboard_time": 1734457813,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49180,
       "num": 612596,
       "word": "基层减负如何防止新形式主义",
@@ -51905,14 +51921,6 @@
       "onboard_time": 1734425359,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 48165,
-      "num": 48165,
-      "word": "统一黑底白字招牌曝光后连夜拆除",
-      "onboard_time": 1734457813,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48152,
@@ -52481,6 +52489,14 @@
       "onboard_time": 1733458041,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45315,
+      "num": 76964,
+      "word": "俄军三防部队司令被炸身亡",
+      "onboard_time": 1734460213,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45280,
@@ -53731,6 +53747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39759,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39656,
       "num": 417365,
       "word": "城市高知女性更敢单独抚养孩子",
@@ -53976,14 +54000,6 @@
       "word": "郑业成发博为彭小苒庆生",
       "onboard_time": 1733259672,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38804,
-      "num": 52637,
-      "word": "网友拍的张柏芝",
-      "onboard_time": 1734459433,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -56393,14 +56409,6 @@
       "onboard_time": 1733173151,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29442,
-      "num": 76964,
-      "word": "俄军三防部队司令被炸身亡",
-      "onboard_time": 1734460213,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29349,
@@ -59545,6 +59553,14 @@
       "onboard_time": 1733207719,
       "rank": 27,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 15871,
+      "num": 56806,
+      "word": "官方辟谣李宜雪失联",
+      "onboard_time": 1734462612,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 15822,
