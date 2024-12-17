@@ -1,0 +1,410 @@
+{
+  "runTime": 1734453070834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228661,
+        "num": 1228661,
+        "word": "虞书欣换头像",
+        "onboard_time": 1734445101,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814975,
+        "num": 814975,
+        "word": "南大碎尸案警方誓言追查到底",
+        "onboard_time": 1734449419,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5212,
+        "num": 760169,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718584,
+        "num": 718584,
+        "word": "上海地铁乘客互骂女子怒问你上海几套房",
+        "onboard_time": 1734448160,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473222,
+        "num": 473222,
+        "word": "原来两个人在一起不一定因为爱情",
+        "onboard_time": 1734446122,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1040296,
+        "num": 461697,
+        "word": "虞书欣专辑试听",
+        "onboard_time": 1734442040,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 449208,
+        "num": 449208,
+        "word": "贾玲回应瘦身后观众缘松动",
+        "onboard_time": 1734442640,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390782,
+        "num": 390782,
+        "word": "浙江大学经济学院通报",
+        "onboard_time": 1734448400,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 141409,
+        "num": 387499,
+        "word": "最难的自律是不断突破自己",
+        "onboard_time": 1734447322,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 119266,
+        "num": 384670,
+        "word": "54岁香港男星申请破产",
+        "onboard_time": 1734437118,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241324,
+        "num": 375284,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454169,
+        "num": 371862,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 370102,
+        "num": 370102,
+        "word": "桃黑黑发长文",
+        "onboard_time": 1734446480,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 323537,
+        "num": 323537,
+        "word": "王鹤棣 如果哪天我不帅了",
+        "onboard_time": 1734432019,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 323358,
+        "num": 323358,
+        "word": "丁程鑫后援会官博发文",
+        "onboard_time": 1734447621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286933,
+        "num": 286933,
+        "word": "丁禹兮空降",
+        "onboard_time": 1734433879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242279,
+        "num": 242279,
+        "word": "陈梦谈退役后的打算",
+        "onboard_time": 1734448400,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "iPhone或迎六年来首次设计大换代",
+        "onboard_time": 1734436878,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175361,
+        "num": 175361,
+        "word": "当你不停运动三个月后",
+        "onboard_time": 1734443061,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21618,
+        "num": 170771,
+        "word": "杨妞花称死刑是对受害家庭的告慰",
+        "onboard_time": 1734452358,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284512,
+        "num": 170497,
+        "word": "高校回应男生将女生按地上强吻",
+        "onboard_time": 1734446061,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 169613,
+        "word": "贾玲 魂又没换",
+        "onboard_time": 1734449238,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160860,
+        "num": 160860,
+        "word": "杨幂在郭碧婷后面模仿向佐",
+        "onboard_time": 1734426680,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144869,
+        "num": 144869,
+        "word": "李昀锐的水肿不是骗人的",
+        "onboard_time": 1734444140,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139870,
+        "num": 139870,
+        "word": "为什么创业的年轻人越来越多了",
+        "onboard_time": 1734445402,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132289,
+        "num": 132289,
+        "word": "鹿晗猝不及防的互拍",
+        "onboard_time": 1734439939,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120185,
+        "num": 120185,
+        "word": "韩国吃外卖两分钟 扔外卖两小时",
+        "onboard_time": 1734447740,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113467,
+        "num": 113467,
+        "word": "一家5口住也能实现独居的120平房子",
+        "onboard_time": 1734448279,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113332,
+        "num": 113332,
+        "word": "优酷回应南大碎尸案被害人家属发文",
+        "onboard_time": 1734432740,
+        "rank": 28,
+        "category": "剧集,民生新闻"
+      },
+      {
+        "raw_hot": 82147,
+        "num": 108734,
+        "word": "神十九航天员第一次出舱圆满完成",
+        "onboard_time": 1734446721,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157515,
+        "num": 108657,
+        "word": "杨洋汪苏泷王楚钦同框",
+        "onboard_time": 1734442879,
+        "rank": 30,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 108276,
+        "num": 108276,
+        "word": "九重紫团综",
+        "onboard_time": 1734434178,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103906,
+        "num": 103906,
+        "word": "和平饭店回应298元套餐仅有水和面包",
+        "onboard_time": 1734432619,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102630,
+        "num": 102630,
+        "word": "南大碎尸案家属回应张译躺枪",
+        "onboard_time": 1734434419,
+        "rank": 33,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 100693,
+        "num": 100693,
+        "word": "嘉人 一言自明",
+        "onboard_time": 1734446122,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100540,
+        "num": 100540,
+        "word": "曝iPhone17ProMax渲染图",
+        "onboard_time": 1734429979,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96347,
+        "num": 96347,
+        "word": "孟子义对李昀锐撒娇要衣服",
+        "onboard_time": 1734440360,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94798,
+        "num": 94798,
+        "word": "余华 精神内耗有时候是好事",
+        "onboard_time": 1734450799,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 90313,
+        "num": 90313,
+        "word": "王楚钦可口可乐活动现场",
+        "onboard_time": 1734431358,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52302,
+        "num": 89790,
+        "word": "湖南卫视微博跨年预约破500万",
+        "onboard_time": 1734451638,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89551,
+        "num": 89551,
+        "word": "市监局称羊汤发白是加了羊油",
+        "onboard_time": 1734436638,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87547,
+        "num": 87547,
+        "word": "李兰迪 小胡同文学",
+        "onboard_time": 1734447261,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87387,
+        "num": 87387,
+        "word": "郭培谈为什么高定青睐迪丽热巴",
+        "onboard_time": 1734446361,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83767,
+        "num": 83767,
+        "word": "云间",
+        "onboard_time": 1734433160,
+        "rank": 43,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 83431,
+        "num": 83431,
+        "word": "九重紫 两世死的都是济宁侯夫人",
+        "onboard_time": 1734438260,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80050,
+        "num": 80050,
+        "word": "时代峰峻起诉马嘉祺黑粉",
+        "onboard_time": 1734437839,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45159,
+        "num": 76947,
+        "word": "被送养37年女子回应争议",
+        "onboard_time": 1734450858,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75578,
+        "num": 75578,
+        "word": "韩国演员马东锡到底有多强",
+        "onboard_time": 1734440600,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74897,
+        "num": 74897,
+        "word": "打卡四季中国河南篇",
+        "onboard_time": 1734444140,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 71195,
+        "num": 74888,
+        "word": "沪深市场A股分红派息手续费减半",
+        "onboard_time": 1734448879,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系澳门同胞福祉#"
+    }
+  }
+}
