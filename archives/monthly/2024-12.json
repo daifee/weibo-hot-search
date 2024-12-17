@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734431167691,
+  "endTime": 1734432279779,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3291,6 +3291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1039215,
+      "num": 1166274,
+      "word": "曝iPhone17ProMax渲染图",
+      "onboard_time": 1734429979,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1038393,
       "num": 1038393,
       "word": "小伙相亲5年娶了个洋媳妇",
@@ -5147,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788252,
+      "num": 349514,
+      "word": "王灿",
+      "onboard_time": 1734428781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 787285,
       "num": 787285,
       "word": "她是12306背后的最强大脑",
@@ -5795,6 +5811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 724434,
+      "num": 724434,
+      "word": "刁爱青家属代理律师呼吁尊重历史事实",
+      "onboard_time": 1734428839,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 724095,
       "num": 724095,
       "word": "代号鸢玩麦琳梗",
@@ -6441,14 +6465,6 @@
       "onboard_time": 1733975720,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 674717,
-      "num": 349514,
-      "word": "王灿",
-      "onboard_time": 1734428781,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -9435,6 +9451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513343,
+      "num": 513343,
+      "word": "刘亦菲孔雀绿裙",
+      "onboard_time": 1734430219,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513261,
       "num": 838848,
       "word": "郭晶晶刘诗诗高圆圆坐一起",
@@ -10393,14 +10417,6 @@
       "onboard_time": 1733972059,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469591,
-      "num": 469591,
-      "word": "曝iPhone17ProMax渲染图",
-      "onboard_time": 1734429979,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 468979,
@@ -13739,14 +13755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358693,
-      "num": 358693,
-      "word": "刁爱青家属代理律师呼吁尊重历史事实",
-      "onboard_time": 1734428839,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358687,
       "num": 343271,
       "word": "王楚钦说与樊振东的技术差不多",
@@ -14379,6 +14387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342876,
+      "num": 498188,
+      "word": "莫斯科爆炸定性为恐怖袭击",
+      "onboard_time": 1734426139,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 342845,
       "num": 382984,
       "word": "李行亮说杨子很不真诚",
@@ -14633,14 +14649,6 @@
       "onboard_time": 1733490260,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335847,
-      "num": 498188,
-      "word": "莫斯科爆炸定性为恐怖袭击",
-      "onboard_time": 1734426139,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 335520,
@@ -15008,6 +15016,14 @@
       "word": "孟子义李昀锐纯正姐狗味",
       "onboard_time": 1733725101,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 327402,
+      "num": 327402,
+      "word": "折月亮 林一",
+      "onboard_time": 1734429080,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -15537,14 +15553,6 @@
       "onboard_time": 1733408900,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316646,
-      "num": 316646,
-      "word": "刘亦菲孔雀绿裙",
-      "onboard_time": 1734430219,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 316626,
@@ -16544,14 +16552,6 @@
       "word": "窦明小产",
       "onboard_time": 1734270140,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 293322,
-      "num": 293322,
-      "word": "折月亮 林一",
-      "onboard_time": 1734429080,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -19323,6 +19323,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 243270,
+      "num": 243270,
+      "word": "谁说这柯南老了这柯南太浪漫了",
+      "onboard_time": 1734431238,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243222,
       "num": 231773,
       "word": "俄罗斯向阿萨德提供避难",
@@ -21379,6 +21387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221136,
+      "num": 221136,
+      "word": "王楚钦可口可乐活动现场",
+      "onboard_time": 1734431358,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221133,
       "num": 221133,
       "word": "应届生考公上岸后再考研",
@@ -21721,6 +21737,14 @@
       "onboard_time": 1733837960,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217221,
+      "num": 307475,
+      "word": "李昀锐十天涨粉百万",
+      "onboard_time": 1734430579,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 217088,
@@ -22585,6 +22609,14 @@
       "onboard_time": 1733987420,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209383,
+      "num": 209383,
+      "word": "贾玲 新华社采访",
+      "onboard_time": 1734429559,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209310,
@@ -24267,14 +24299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198888,
-      "num": 198888,
-      "word": "贾玲 新华社采访",
-      "onboard_time": 1734429559,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198853,
       "num": 886052,
       "word": "樊振东3比0侯英超",
@@ -25801,6 +25825,14 @@
       "onboard_time": 1733992100,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192069,
+      "num": 311481,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 191984,
@@ -29659,6 +29691,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 170638,
+      "num": 170638,
+      "word": "猎罪图鉴2片尾曲彩蛋",
+      "onboard_time": 1734431839,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170633,
       "num": 417462,
       "word": "姆巴佩涉嫌强奸案调查终止",
@@ -31660,7 +31700,7 @@
     },
     {
       "raw_hot": 160770,
-      "num": 301537,
+      "num": 323606,
       "word": "B太称从未提过生病与羊汤有关",
       "onboard_time": 1734425059,
       "rank": 48,
@@ -34457,6 +34497,14 @@
       "onboard_time": 1734239478,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148488,
+      "num": 148488,
+      "word": "宋墨只能活一年",
+      "onboard_time": 1734432260,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 148418,
@@ -37379,6 +37427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134502,
+      "num": 134502,
+      "word": "福宝进一步检查需根据福宝情况来安排",
+      "onboard_time": 1734430100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134489,
       "num": 134489,
       "word": "Gumayusi说JackeyLove总想搞事",
@@ -37473,6 +37529,14 @@
       "onboard_time": 1734084379,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 134051,
+      "num": 297643,
+      "word": "为什么你没有小时候那么讨厌蔬菜了",
+      "onboard_time": 1734430701,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 134013,
@@ -42235,6 +42299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106540,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106526,
       "num": 106526,
       "word": "泉州连大桥都戴上了簪花",
@@ -42329,14 +42401,6 @@
       "onboard_time": 1734247819,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105805,
-      "num": 307475,
-      "word": "李昀锐十天涨粉百万",
-      "onboard_time": 1734430579,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 105764,
@@ -42889,14 +42953,6 @@
       "onboard_time": 1733743401,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101662,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101635,
@@ -46140,7 +46196,7 @@
     },
     {
       "raw_hot": 79264,
-      "num": 251248,
+      "num": 325474,
       "word": "南大碎尸案逝者家属代理律师回应",
       "onboard_time": 1734427759,
       "rank": 18,
@@ -48971,6 +49027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 59909,
+      "num": 811069,
+      "word": "中国经济有望持续回升有力有进",
+      "onboard_time": 1734424220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59851,
       "num": 59851,
       "word": "周雨彤感激自己没有停止生长",
@@ -49513,14 +49577,6 @@
       "onboard_time": 1733853914,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56117,
-      "num": 297643,
-      "word": "为什么你没有小时候那么讨厌蔬菜了",
-      "onboard_time": 1734430701,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 55993,
@@ -51243,14 +51299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 46859,
-      "num": 811069,
-      "word": "中国经济有望持续回升有力有进",
-      "onboard_time": 1734424220,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46846,
       "num": 343222,
       "word": "男子要贷款先交两万四利息",
@@ -52217,6 +52265,14 @@
       "onboard_time": 1733844141,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42428,
+      "num": 328502,
+      "word": "记者亲测景点网红免费攻略被拦补票",
+      "onboard_time": 1734431358,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42404,
@@ -54059,6 +54115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34435,
+      "num": 222485,
+      "word": "卞瑞英 嘉人",
+      "onboard_time": 1734429320,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34408,
       "num": 315501,
       "word": "发生爆炸住宅楼小区组织人员疏散",
@@ -55195,6 +55259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30481,
+      "num": 210350,
+      "word": "朱婷谈加盟意大利俱乐部",
+      "onboard_time": 1734432139,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30460,
       "num": 339601,
       "word": "张韶涵燃烧的生命力",
@@ -56017,6 +56089,14 @@
       "onboard_time": 1734360620,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26255,
+      "num": 314824,
+      "word": "男子谎称有个北大女儿要认干妈",
+      "onboard_time": 1734431659,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26254,
@@ -56971,11 +57051,27 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 21810,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21808,
       "num": 261251,
       "word": "黑灯回应深圳拆除不锈钢盲道",
       "onboard_time": 1733922498,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21799,
+      "num": 197788,
+      "word": "陈丽君说很珍惜现在的一切",
+      "onboard_time": 1734432139,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -57713,14 +57809,6 @@
       "onboard_time": 1732981520,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18625,
-      "num": 294268,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 18606,
@@ -59217,6 +59305,14 @@
       "onboard_time": 1733468359,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 13086,
+      "num": 132783,
+      "word": "爱用次抛精华分享",
+      "onboard_time": 1734431598,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 13074,

@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734431167691,
+  "endTime": 1734432279779,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -155,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1039215,
+      "num": 1166274,
+      "word": "曝iPhone17ProMax渲染图",
+      "onboard_time": 1734429979,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1019872,
       "num": 1019872,
       "word": "女子去银行存370元竟全是假币",
@@ -251,6 +259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 788252,
+      "num": 349514,
+      "word": "王灿",
+      "onboard_time": 1734428781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745149,
       "num": 654723,
       "word": "阿里巴巴将银泰卖给雅戈尔",
@@ -273,6 +289,14 @@
       "onboard_time": 1734404898,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 724434,
+      "num": 724434,
+      "word": "刁爱青家属代理律师呼吁尊重历史事实",
+      "onboard_time": 1734428839,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 716179,
@@ -321,14 +345,6 @@
       "onboard_time": 1734402498,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 674717,
-      "num": 349514,
-      "word": "王灿",
-      "onboard_time": 1734428781,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -435,6 +451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 513343,
+      "num": 513343,
+      "word": "刘亦菲孔雀绿裙",
+      "onboard_time": 1734430219,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 501280,
       "num": 541277,
       "word": "江小白为啥不火了",
@@ -489,14 +513,6 @@
       "onboard_time": 1734391575,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 469591,
-      "num": 469591,
-      "word": "曝iPhone17ProMax渲染图",
-      "onboard_time": 1734429979,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 464802,
@@ -619,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 358693,
-      "num": 358693,
-      "word": "刁爱青家属代理律师呼吁尊重历史事实",
-      "onboard_time": 1734428839,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358687,
       "num": 343271,
       "word": "王楚钦说与樊振东的技术差不多",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342876,
+      "num": 498188,
+      "word": "莫斯科爆炸定性为恐怖袭击",
+      "onboard_time": 1734426139,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 341363,
       "num": 271828,
       "word": "10后女生独爱鲶鱼须刘海",
@@ -667,20 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335847,
-      "num": 498188,
-      "word": "莫斯科爆炸定性为恐怖袭击",
-      "onboard_time": 1734426139,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 327944,
       "num": 327944,
       "word": "林诗栋谈樊振东对阵王楚钦",
       "onboard_time": 1734422418,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 327402,
+      "num": 327402,
+      "word": "折月亮 林一",
+      "onboard_time": 1734429080,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 326991,
@@ -713,14 +729,6 @@
       "onboard_time": 1734379091,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316646,
-      "num": 316646,
-      "word": "刘亦菲孔雀绿裙",
-      "onboard_time": 1734430219,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315517,
@@ -760,14 +768,6 @@
       "word": "九重紫王映雪下线",
       "onboard_time": 1734426020,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 293322,
-      "num": 293322,
-      "word": "折月亮 林一",
-      "onboard_time": 1734429080,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -851,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243270,
+      "num": 243270,
+      "word": "谁说这柯南老了这柯南太浪漫了",
+      "onboard_time": 1734431238,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239633,
       "num": 239633,
       "word": "B太称随行的人也拉肚子了",
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221136,
+      "num": 221136,
+      "word": "王楚钦可口可乐活动现场",
+      "onboard_time": 1734431358,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220822,
       "num": 371686,
       "word": "宋旻浩服役被举报不上班",
@@ -937,6 +953,14 @@
       "onboard_time": 1734412940,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217221,
+      "num": 307475,
+      "word": "李昀锐十天涨粉百万",
+      "onboard_time": 1734430579,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 217088,
@@ -977,6 +1001,14 @@
       "onboard_time": 1734408020,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209383,
+      "num": 209383,
+      "word": "贾玲 新华社采访",
+      "onboard_time": 1734429559,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 205256,
@@ -1035,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198888,
-      "num": 198888,
-      "word": "贾玲 新华社采访",
-      "onboard_time": 1734429559,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198814,
       "num": 198814,
       "word": "张萌演技",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1734409520,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192069,
+      "num": 311481,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 189684,
@@ -1251,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170638,
+      "num": 170638,
+      "word": "猎罪图鉴2片尾曲彩蛋",
+      "onboard_time": 1734431839,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170007,
       "num": 170007,
       "word": "阿萨德离开叙利亚后首次发表声明",
       "onboard_time": 1734354619,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 169442,
+      "num": 302695,
+      "word": "九重紫",
+      "onboard_time": 1734428599,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 169008,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1734430760,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162848,
-      "num": 302695,
-      "word": "九重紫",
-      "onboard_time": 1734428599,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 162691,
@@ -1348,7 +1388,7 @@
     },
     {
       "raw_hot": 160770,
-      "num": 301537,
+      "num": 323606,
       "word": "B太称从未提过生病与羊汤有关",
       "onboard_time": 1734425059,
       "rank": 48,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1734348379,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158603,
+      "num": 158603,
+      "word": "光遇",
+      "onboard_time": 1734431480,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 158448,
@@ -1505,6 +1553,14 @@
       "onboard_time": 1734419479,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148488,
+      "num": 148488,
+      "word": "宋墨只能活一年",
+      "onboard_time": 1734432260,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 147780,
@@ -1643,12 +1699,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134502,
+      "num": 134502,
+      "word": "福宝进一步检查需根据福宝情况来安排",
+      "onboard_time": 1734430100,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134252,
       "num": 134252,
       "word": "尤长靖 披哥留下了我炙热的三十岁",
       "onboard_time": 1734416540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134051,
+      "num": 297643,
+      "word": "为什么你没有小时候那么讨厌蔬菜了",
+      "onboard_time": 1734430701,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133703,
@@ -1819,19 +1891,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106540,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105925,
       "num": 105925,
       "word": "TWS fanmeeting",
       "onboard_time": 1734417859,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105805,
-      "num": 307475,
-      "word": "李昀锐十天涨粉百万",
-      "onboard_time": 1734430579,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1849,14 +1921,6 @@
       "onboard_time": 1734401899,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101662,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101409,
@@ -1972,7 +2036,7 @@
     },
     {
       "raw_hot": 79264,
-      "num": 251248,
+      "num": 325474,
       "word": "南大碎尸案逝者家属代理律师回应",
       "onboard_time": 1734427759,
       "rank": 18,
@@ -2235,6 +2299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59909,
+      "num": 811069,
+      "word": "中国经济有望持续回升有力有进",
+      "onboard_time": 1734424220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59563,
       "num": 560573,
       "word": "租轮椅就不排队爱心通道别被钻空子",
@@ -2257,14 +2329,6 @@
       "onboard_time": 1734409700,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56117,
-      "num": 297643,
-      "word": "为什么你没有小时候那么讨厌蔬菜了",
-      "onboard_time": 1734430701,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 55881,
@@ -2363,14 +2427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46859,
-      "num": 811069,
-      "word": "中国经济有望持续回升有力有进",
-      "onboard_time": 1734424220,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 46591,
       "num": 52588,
       "word": "娜然 海带精",
@@ -2415,6 +2471,14 @@
       "num": 371744,
       "word": "有医院排队停车时间比看病时间都长",
       "onboard_time": 1734406337,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42428,
+      "num": 328502,
+      "word": "记者亲测景点网红免费攻略被拦补票",
+      "onboard_time": 1734431358,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -2555,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34435,
+      "num": 222485,
+      "word": "卞瑞英 嘉人",
+      "onboard_time": 1734429320,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 34300,
       "num": 261197,
       "word": "家族资产30亿豪门艺人王贤志申请破产",
@@ -2587,6 +2659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30481,
+      "num": 210350,
+      "word": "朱婷谈加盟意大利俱乐部",
+      "onboard_time": 1734432139,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30440,
       "num": 251231,
       "word": "比特币上触107000美元",
@@ -2617,6 +2697,14 @@
       "onboard_time": 1734360620,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26255,
+      "num": 314824,
+      "word": "男子谎称有个北大女儿要认干妈",
+      "onboard_time": 1734431659,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25646,
@@ -2657,6 +2745,22 @@
       "onboard_time": 1734410061,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21810,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21799,
+      "num": 197788,
+      "word": "陈丽君说很珍惜现在的一切",
+      "onboard_time": 1734432139,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 21450,
@@ -2712,14 +2816,6 @@
       "word": "戚薇为什么你不能做1",
       "onboard_time": 1734423739,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18625,
-      "num": 294268,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -2817,6 +2913,14 @@
       "onboard_time": 1734416299,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 13086,
+      "num": 132783,
+      "word": "爱用次抛精华分享",
+      "onboard_time": 1734431598,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 12688,
