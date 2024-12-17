@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734401617978,
+  "endTime": 1734404712076,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1458281,
-      "num": 1458281,
+      "raw_hot": 1464082,
+      "num": 1464082,
       "word": "程潇评论区",
       "onboard_time": 1734399256,
       "rank": 1,
@@ -25,6 +25,22 @@
       "onboard_time": 1734394998,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1055604,
+      "num": 766319,
+      "word": "奚梦瑶被夸状态好坦言要做医美",
+      "onboard_time": 1734402137,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 967036,
+      "num": 967036,
+      "word": "医院拒绝回应免费为多名老人做手术",
+      "onboard_time": 1734398118,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 789560,
@@ -43,12 +59,52 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 716096,
+      "num": 716096,
+      "word": "给宠物做殡葬真的有必要吗",
+      "onboard_time": 1734401357,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 701129,
+      "num": 701129,
+      "word": "主播为骗人站大楼前就说楼是自己的",
+      "onboard_time": 1734399498,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674397,
+      "num": 674397,
+      "word": "中国144小时变240小时",
+      "onboard_time": 1734402859,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 643122,
+      "num": 643122,
+      "word": "过境免签外国人停留时间延长为240小时",
+      "onboard_time": 1734402498,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 612390,
       "num": 612390,
       "word": "原来当年拍甄嬛传时大家才20多岁",
       "onboard_time": 1734397038,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 603498,
+      "num": 603498,
+      "word": "王楚钦乒超赛后发文",
+      "onboard_time": 1734401957,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 573985,
@@ -75,14 +131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538100,
-      "num": 538100,
-      "word": "医院拒绝回应免费为多名老人做手术",
-      "onboard_time": 1734398118,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 513480,
       "num": 241347,
       "word": "马思纯怎么拍成了这样",
@@ -91,8 +139,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 499250,
+      "num": 499250,
+      "word": "12306抢票更快的功能一定要知道",
+      "onboard_time": 1734400939,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496268,
-      "num": 229517,
+      "num": 255069,
       "word": "谁模仿王鹤棣",
       "onboard_time": 1734365240,
       "rank": 11,
@@ -179,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346028,
-      "num": 346028,
-      "word": "主播为骗人站大楼前就说楼是自己的",
-      "onboard_time": 1734399498,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 344121,
+      "num": 344121,
+      "word": "成毅官宣出演长安二十四计",
+      "onboard_time": 1734400339,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 343625,
@@ -259,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283333,
-      "num": 283333,
-      "word": "成毅官宣出演长安二十四计",
-      "onboard_time": 1734400339,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 277695,
       "num": 382222,
       "word": "呼伦贝尔冷到吹泡泡吹出冰球",
@@ -289,14 +337,6 @@
       "onboard_time": 1734319998,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 239147,
-      "num": 377232,
-      "word": "12306抢票更快的功能一定要知道",
-      "onboard_time": 1734400939,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228648,
@@ -355,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189511,
+      "num": 189511,
+      "word": "弟弟去世后哥哥状告弟媳争房子",
+      "onboard_time": 1734400458,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189358,
       "num": 189358,
       "word": "医生上报12岁女孩感染HPV反遭质问",
@@ -371,14 +419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 185367,
-      "num": 185367,
-      "word": "给宠物做殡葬真的有必要吗",
-      "onboard_time": 1734401357,
-      "rank": 31,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王楚钦将在总决赛全力以赴",
@@ -393,6 +433,14 @@
       "onboard_time": 1734362539,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176835,
+      "num": 606160,
+      "word": "特朗普称俄乌和平协议必须达成",
+      "onboard_time": 1734400997,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176258,
@@ -435,14 +483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162375,
-      "num": 162375,
-      "word": "弟弟去世后哥哥状告弟媳争房子",
-      "onboard_time": 1734400458,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161029,
       "num": 161029,
       "word": "外国人嗑瓜子真的很忙",
@@ -475,6 +515,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158022,
+      "num": 376062,
+      "word": "2025年火车票明天起售",
+      "onboard_time": 1734399138,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157900,
+      "num": 157900,
+      "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+      "onboard_time": 1734404239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155167,
+      "num": 202321,
+      "word": "樊振东超级全满贯",
+      "onboard_time": 1734403758,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "李马克歌词",
@@ -499,12 +563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138342,
+      "num": 138342,
+      "word": "花粉事业心",
+      "onboard_time": 1734404418,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138116,
       "num": 138116,
       "word": "孙正义现身特朗普海湖庄园",
       "onboard_time": 1734398658,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135229,
+      "num": 135229,
+      "word": "董明珠称做芯片没拿国家一分钱",
+      "onboard_time": 1734402258,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 133479,
@@ -539,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124002,
+      "num": 251612,
+      "word": "最美的夜跨年首波阵容官宣",
+      "onboard_time": 1734402438,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123402,
       "num": 154852,
       "word": "以色列空袭叙军事基地炸出蘑菇云",
@@ -555,11 +643,43 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118586,
+      "num": 118586,
+      "word": "我关闭了朋友圈拒绝焦虑与内耗",
+      "onboard_time": 1734402617,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114837,
+      "num": 250988,
+      "word": "女子网上兼职配音被骗走7万多",
+      "onboard_time": 1734402978,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113538,
+      "num": 300535,
+      "word": "2024令人难忘的同框",
+      "onboard_time": 1734399256,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111217,
       "num": 111217,
       "word": "王楚钦连续51周霸榜世排第一",
       "onboard_time": 1734399256,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110761,
+      "num": 110761,
+      "word": "东皇出现吓倒一片",
+      "onboard_time": 1734404659,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -603,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93316,
-      "num": 376062,
-      "word": "2025年火车票明天起售",
-      "onboard_time": 1734399138,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91800,
       "num": 146355,
       "word": "勇敢不是天性而是选择",
@@ -641,14 +753,6 @@
       "onboard_time": 1734365177,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 83123,
-      "num": 300535,
-      "word": "2024令人难忘的同框",
-      "onboard_time": 1734399256,
-      "rank": 13,
-      "category": "正能量"
     },
     {
       "raw_hot": 80967,
@@ -689,6 +793,14 @@
       "onboard_time": 1734359481,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 75559,
+      "num": 653998,
+      "word": "王楚钦说我们跨年见",
+      "onboard_time": 1734401899,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 75147,
@@ -769,14 +881,6 @@
       "onboard_time": 1734389414,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64478,
-      "num": 288938,
-      "word": "特朗普称俄乌和平协议必须达成",
-      "onboard_time": 1734400997,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63669,
@@ -891,6 +995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 45754,
+      "num": 110862,
+      "word": "鸿蒙智行与时代同行",
+      "onboard_time": 1734404597,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44136,
       "num": 277632,
       "word": "被蔡徐坤新封面glow到",
@@ -931,8 +1043,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40568,
+      "num": 260376,
+      "word": "陈梦晒图回顾老瓦杯",
+      "onboard_time": 1734403998,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37489,
-      "num": 642352,
+      "num": 772063,
       "word": "万千气象看吉林",
       "onboard_time": 1734354320,
       "rank": 2,
@@ -953,6 +1073,14 @@
       "onboard_time": 1734370274,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36532,
+      "num": 164379,
+      "word": "存款特种兵年末再现江湖",
+      "onboard_time": 1734404299,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29905,
