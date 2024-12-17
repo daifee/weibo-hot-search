@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734471350763,
+  "endTime": 1734474140404,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -8227,6 +8227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94180,
+      "num": 94180,
+      "word": "统一黑底白字招牌曝光后连夜拆除",
+      "onboard_time": 1734457813,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94071,
       "num": 94071,
       "word": "六级听力",
@@ -9523,6 +9531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51134,
+      "num": 51134,
+      "word": "胖东来成了一个外地游客打卡点",
+      "onboard_time": 1734471911,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51052,
       "num": 198374,
       "word": "和平饭店称298元套餐含268元导览服务",
@@ -9537,6 +9553,14 @@
       "onboard_time": 1734181700,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 50348,
+      "num": 76964,
+      "word": "俄军三防部队司令被炸身亡",
+      "onboard_time": 1734460213,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50208,
@@ -9585,14 +9609,6 @@
       "onboard_time": 1734420199,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 49187,
-      "num": 49187,
-      "word": "统一黑底白字招牌曝光后连夜拆除",
-      "onboard_time": 1734457813,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48748,
@@ -9771,14 +9787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 45315,
-      "num": 76964,
-      "word": "俄军三防部队司令被炸身亡",
-      "onboard_time": 1734460213,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45159,
       "num": 76947,
       "word": "被送养37年女子回应争议",
@@ -9923,20 +9931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41906,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41727,
+      "num": 41727,
+      "word": "尹锡悦现在各种拒绝",
+      "onboard_time": 1734467471,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41457,
       "num": 394856,
       "word": "男子自律挑战上头花10万未获1分奖",
       "onboard_time": 1734356420,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41455,
-      "num": 52637,
-      "word": "网友拍的张柏芝",
-      "onboard_time": 1734459433,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 41387,
@@ -10401,14 +10417,6 @@
       "onboard_time": 1734336199,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31266,
-      "num": 34516,
-      "word": "尹锡悦现在各种拒绝",
-      "onboard_time": 1734467471,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31255,
@@ -10947,6 +10955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21089,
+      "num": 21089,
+      "word": "中国已同26个国家达成全面免签",
+      "onboard_time": 1734465851,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21074,
       "num": 374711,
       "word": "揭秘野猪猎捕队",
@@ -10961,6 +10977,14 @@
       "onboard_time": 1734286452,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20713,
+      "num": 20713,
+      "word": "律师称张译若不知侵权无需担责",
+      "onboard_time": 1734473832,
+      "rank": 39,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 20508,
@@ -11003,6 +11027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19837,
+      "num": 33529,
+      "word": "澳门盛装迎接回归祖国25周年",
+      "onboard_time": 1734470531,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19706,
       "num": 241608,
       "word": "通过APP建赌博群涉案流水三亿",
@@ -11035,6 +11067,14 @@
       "category": "演出,旅游"
     },
     {
+      "raw_hot": 19220,
+      "num": 50526,
+      "word": "湖南两个口岸240小时过境免签",
+      "onboard_time": 1734472451,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
@@ -11049,14 +11089,6 @@
       "onboard_time": 1734237258,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18895,
-      "num": 18895,
-      "word": "中国已同26个国家达成全面免签",
-      "onboard_time": 1734465851,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18867,
@@ -11337,14 +11369,6 @@
       "onboard_time": 1734289151,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14492,
-      "num": 33529,
-      "word": "澳门盛装迎接回归祖国25周年",
-      "onboard_time": 1734470531,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 14372,

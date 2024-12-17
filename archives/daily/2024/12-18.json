@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734471350763,
+  "endTime": 1734474140404,
   "band_list": [
     {
       "raw_hot": 1241324,
@@ -307,6 +307,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 94180,
+      "num": 94180,
+      "word": "统一黑底白字招牌曝光后连夜拆除",
+      "onboard_time": 1734457813,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90313,
       "num": 90313,
       "word": "王楚钦可口可乐活动现场",
@@ -427,15 +435,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49187,
-      "num": 49187,
-      "word": "统一黑底白字招牌曝光后连夜拆除",
-      "onboard_time": 1734457813,
-      "rank": 21,
+      "raw_hot": 51134,
+      "num": 51134,
+      "word": "胖东来成了一个外地游客打卡点",
+      "onboard_time": 1734471911,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45315,
+      "raw_hot": 50348,
       "num": 76964,
       "word": "俄军三防部队司令被炸身亡",
       "onboard_time": 1734460213,
@@ -459,19 +467,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41906,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41727,
+      "num": 41727,
+      "word": "尹锡悦现在各种拒绝",
+      "onboard_time": 1734467471,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41573,
       "num": 41573,
       "word": "杨洋活动直拍",
       "onboard_time": 1734433400,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 41455,
-      "num": 52637,
-      "word": "网友拍的张柏芝",
-      "onboard_time": 1734459433,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1734463870,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31266,
-      "num": 34516,
-      "word": "尹锡悦现在各种拒绝",
-      "onboard_time": 1734467471,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30645,
@@ -539,6 +547,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 21089,
+      "num": 21089,
+      "word": "中国已同26个国家达成全面免签",
+      "onboard_time": 1734465851,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20713,
+      "num": 20713,
+      "word": "律师称张译若不知侵权无需担责",
+      "onboard_time": 1734473832,
+      "rank": 39,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 19837,
+      "num": 33529,
+      "word": "澳门盛装迎接回归祖国25周年",
+      "onboard_time": 1734470531,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19505,
       "num": 19505,
       "word": "尹锡悦调查案陷入僵局",
@@ -547,12 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18895,
-      "num": 18895,
-      "word": "中国已同26个国家达成全面免签",
-      "onboard_time": 1734465851,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 19220,
+      "num": 50526,
+      "word": "湖南两个口岸240小时过境免签",
+      "onboard_time": 1734472451,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18525,
@@ -561,14 +593,6 @@
       "onboard_time": 1734462612,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 14492,
-      "num": 33529,
-      "word": "澳门盛装迎接回归祖国25周年",
-      "onboard_time": 1734470531,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 12765,
