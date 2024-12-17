@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734457212040,
+  "endTime": 1734460410199,
   "band_list": [
     {
       "raw_hot": 1241324,
@@ -187,6 +187,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 141216,
+      "num": 141216,
+      "word": "大三要努力到什么程度才能考上公务员",
+      "onboard_time": 1734453976,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139870,
       "num": 139870,
       "word": "为什么创业的年轻人越来越多了",
@@ -241,14 +249,6 @@
       "onboard_time": 1734434178,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106573,
-      "num": 106573,
-      "word": "大三要努力到什么程度才能考上公务员",
-      "onboard_time": 1734453976,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 103906,
@@ -331,6 +331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86100,
+      "num": 160113,
+      "word": "加拿大一周大福门店遭抢劫",
+      "onboard_time": 1734453136,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83767,
       "num": 83767,
       "word": "云间",
@@ -387,12 +395,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 69744,
-      "num": 160113,
-      "word": "加拿大一周大福门店遭抢劫",
-      "onboard_time": 1734453136,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 65700,
+      "num": 65700,
+      "word": "特朗普称现在都想和他交朋友",
+      "onboard_time": 1734459012,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 53214,
+      "num": 48984,
+      "word": "最疯狂时期平均每天贪200万",
+      "onboard_time": 1734455834,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52302,
@@ -403,11 +419,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51216,
-      "num": 48984,
-      "word": "最疯狂时期平均每天贪200万",
-      "onboard_time": 1734455834,
-      "rank": 46,
+      "raw_hot": 48165,
+      "num": 48165,
+      "word": "统一黑底白字招牌曝光后连夜拆除",
+      "onboard_time": 1734457813,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30645,
+      "num": 30645,
+      "word": "涉国乒违规信息被集中清理",
+      "onboard_time": 1734460092,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29734,
       "num": 170771,
       "word": "杨妞花称死刑是对受害家庭的告慰",
@@ -443,12 +467,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26421,
+      "raw_hot": 27545,
       "num": 112015,
       "word": "扩大对外开放海南自贸港大有可为",
       "onboard_time": 1734456614,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27434,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25479,
+      "num": 25479,
+      "word": "古风小生",
+      "onboard_time": 1734457512,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18646,
+      "num": 49553,
+      "word": "俄军三防部队司令被炸身亡",
+      "onboard_time": 1734460213,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 5212,
