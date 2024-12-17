@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734463199771,
+  "endTime": 1734464157131,
   "band_list": [
     {
       "raw_hot": 1241324,
@@ -371,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82036,
+      "num": 82036,
+      "word": "网传失联李宜雪一直在家中",
+      "onboard_time": 1734461413,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80050,
       "num": 80050,
       "word": "时代峰峻起诉马嘉祺黑粉",
@@ -393,14 +401,6 @@
       "onboard_time": 1734444140,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 72857,
-      "num": 72857,
-      "word": "网传失联李宜雪一直在家中",
-      "onboard_time": 1734461413,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71195,
@@ -467,7 +467,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39759,
+      "raw_hot": 40154,
       "num": 52637,
       "word": "网友拍的张柏芝",
       "onboard_time": 1734459433,
@@ -507,12 +507,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15871,
+      "raw_hot": 18525,
       "num": 56806,
       "word": "官方辟谣李宜雪失联",
       "onboard_time": 1734462612,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 15656,
+      "num": 41901,
+      "word": "耿爽当场驳斥美国联合国代表",
+      "onboard_time": 1734463870,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5212,
