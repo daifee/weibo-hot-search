@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734420271695,
+  "endTime": 1734421069895,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -9,6 +9,14 @@
       "onboard_time": 1734364519,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2141832,
+      "num": 2141832,
+      "word": "私人影院790元套餐可舌吻触摸隐私部位",
+      "onboard_time": 1734419419,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1941125,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1087344,
-      "num": 294660,
+      "num": 343358,
       "word": "发表涉樊振东不当言论学生已被通报",
       "onboard_time": 1734414319,
       "rank": 20,
@@ -113,6 +121,14 @@
       "onboard_time": 1734402137,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 997212,
+      "num": 781319,
+      "word": "鹿晗背头",
+      "onboard_time": 1734417979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 967036,
@@ -139,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 932980,
-      "num": 781319,
-      "word": "鹿晗背头",
-      "onboard_time": 1734417979,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 800609,
+      "num": 654260,
+      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+      "onboard_time": 1734417259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 794291,
@@ -169,14 +185,6 @@
       "onboard_time": 1734359842,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 784637,
-      "num": 784637,
-      "word": "私人影院790元套餐可舌吻触摸隐私部位",
-      "onboard_time": 1734419419,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 745149,
@@ -257,14 +265,6 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 654260,
-      "num": 654260,
-      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
-      "onboard_time": 1734417259,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 650207,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343271,
+      "num": 343271,
+      "word": "王楚钦说与樊振东的技术差不多",
+      "onboard_time": 1734418639,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341363,
       "num": 271828,
       "word": "10后女生独爱鲶鱼须刘海",
@@ -513,14 +521,6 @@
       "onboard_time": 1734415759,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335092,
-      "num": 335092,
-      "word": "王楚钦说与樊振东的技术差不多",
-      "onboard_time": 1734418639,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 326991,
@@ -587,20 +587,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285208,
+      "num": 354695,
+      "word": "被顾客多次掌掴胖东来补偿员工30000元",
+      "onboard_time": 1734416659,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282963,
       "num": 282963,
       "word": "刘亦菲惠英红C位",
       "onboard_time": 1734408380,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 280377,
-      "num": 302298,
-      "word": "被顾客多次掌掴胖东来补偿员工30000元",
-      "onboard_time": 1734416659,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278073,
@@ -617,6 +617,14 @@
       "onboard_time": 1734398118,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276431,
+      "num": 309896,
+      "word": "张凌赫田曦薇互关微博了",
+      "onboard_time": 1734419120,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 275099,
@@ -697,14 +705,6 @@
       "onboard_time": 1734405318,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219283,
-      "num": 309896,
-      "word": "张凌赫田曦薇互关微博了",
-      "onboard_time": 1734419120,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 217870,
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162374,
+      "num": 281142,
+      "word": "保时捷中国裁员",
+      "onboard_time": 1734417679,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 161029,
       "num": 161029,
       "word": "外国人嗑瓜子真的很忙",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1734362601,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159416,
-      "num": 159416,
-      "word": "保时捷中国裁员",
-      "onboard_time": 1734417679,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 158983,
@@ -1091,12 +1091,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151000,
-      "num": 151000,
+      "raw_hot": 152208,
+      "num": 152208,
       "word": "胖东来客流比5A景区还多",
       "onboard_time": 1734416179,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149989,
+      "num": 350521,
+      "word": "被林更新烫到了",
+      "onboard_time": 1734420500,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 149256,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1734418818,
       "rank": 41,
       "category": "汽车,艺人"
+    },
+    {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "ChatGPT搜索功能向全体用户免费开放",
+      "onboard_time": 1734419479,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 147780,
@@ -1147,6 +1163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 142172,
+      "num": 654816,
+      "word": "为什么年轻人越来越热衷玄学",
+      "onboard_time": 1734419059,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141674,
       "num": 208425,
       "word": "马嘉祺皮埃尔定妆视频",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1734401118,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141240,
+      "num": 141240,
+      "word": "于东来辟谣499元羽绒服",
+      "onboard_time": 1734418577,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140472,
@@ -1243,14 +1275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 132108,
-      "num": 132108,
-      "word": "于东来辟谣499元羽绒服",
-      "onboard_time": 1734418577,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129730,
       "num": 129730,
       "word": "关晓彤林一cp感",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1734393917,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 126638,
+      "num": 126638,
+      "word": "张杰吃米线vlog",
+      "onboard_time": 1734420979,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 124846,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 114372,
-      "num": 114372,
-      "word": "ChatGPT搜索功能向全体用户免费开放",
-      "onboard_time": 1734419479,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 111217,
@@ -1363,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103303,
+      "num": 352770,
+      "word": "女子去银行存370元竟全是假币",
+      "onboard_time": 1734420500,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102136,
       "num": 653998,
       "word": "王楚钦说我们跨年见",
@@ -1392,14 +1424,6 @@
       "word": "上海和平饭店298元套餐遭吐槽",
       "onboard_time": 1734341899,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93740,
-      "num": 654816,
-      "word": "为什么年轻人越来越热衷玄学",
-      "onboard_time": 1734419059,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1505,6 +1529,14 @@
       "onboard_time": 1734362360,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74887,
+      "num": 393243,
+      "word": "浙江温州多家私人影院暗藏涉黄窝点",
+      "onboard_time": 1734420439,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 74742,
@@ -1763,6 +1795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49210,
+      "num": 404558,
+      "word": "用户被移动分类为非家庭决策人",
+      "onboard_time": 1734420199,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 48748,
       "num": 555977,
       "word": "今年外国旅客机票预订量同比增近2倍",
@@ -1891,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38603,
+      "num": 374361,
+      "word": "俄军一高级将领死于爆炸袭击",
+      "onboard_time": 1734420500,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38394,
       "num": 207306,
       "word": "谌龙出任羽毛球国青队教练",
@@ -1955,6 +2003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30440,
+      "num": 251231,
+      "word": "比特币上触107000美元",
+      "onboard_time": 1734420678,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 29905,
       "num": 40560,
       "word": "被抱养女子称生父母忘了她是第几个",
@@ -1993,14 +2049,6 @@
       "onboard_time": 1734410061,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22072,
-      "num": 404558,
-      "word": "用户被移动分类为非家庭决策人",
-      "onboard_time": 1734420199,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 19931,

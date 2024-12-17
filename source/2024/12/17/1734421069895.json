@@ -1,0 +1,410 @@
+{
+  "runTime": 1734421069895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141832,
+        "num": 2141832,
+        "word": "私人影院790元套餐可舌吻触摸隐私部位",
+        "onboard_time": 1734419419,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 687300,
+        "num": 687300,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113785,
+        "num": 656612,
+        "word": "15个字概括我国当前经济形势",
+        "onboard_time": 1734409822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1788586,
+        "num": 656565,
+        "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+        "onboard_time": 1734415159,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997212,
+        "num": 656339,
+        "word": "鹿晗背头",
+        "onboard_time": 1734417979,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655369,
+        "num": 655369,
+        "word": "卢昱晓 刘亦菲在那里我也想去",
+        "onboard_time": 1734414799,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644114,
+        "num": 644114,
+        "word": "王鹤棣歌词 猴子温朱",
+        "onboard_time": 1734416479,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 631007,
+        "num": 631007,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511737,
+        "num": 511737,
+        "word": "百草味发霉致孕妇住院事件反转",
+        "onboard_time": 1734414079,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74887,
+        "num": 393243,
+        "word": "浙江温州多家私人影院暗藏涉黄窝点",
+        "onboard_time": 1734420439,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 800609,
+        "num": 387355,
+        "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+        "onboard_time": 1734417259,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689162,
+        "num": 383935,
+        "word": "阿里巴巴将银泰卖给雅戈尔",
+        "onboard_time": 1734416838,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 374631,
+        "num": 374631,
+        "word": "杨紫 唯一90花",
+        "onboard_time": 1734411441,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38603,
+        "num": 374361,
+        "word": "俄军一高级将领死于爆炸袭击",
+        "onboard_time": 1734420500,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49210,
+        "num": 374347,
+        "word": "用户被移动分类为非家庭决策人",
+        "onboard_time": 1734420199,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 374343,
+        "num": 374343,
+        "word": "这件衣服救过孙俪的命吗",
+        "onboard_time": 1734411381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355599,
+        "num": 355599,
+        "word": "王鹤棣演唱会 打折",
+        "onboard_time": 1734412399,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285208,
+        "num": 354695,
+        "word": "被顾客多次掌掴胖东来补偿员工30000元",
+        "onboard_time": 1734416659,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103303,
+        "num": 352770,
+        "word": "女子去银行存370元竟全是假币",
+        "onboard_time": 1734420500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149989,
+        "num": 350521,
+        "word": "被林更新烫到了",
+        "onboard_time": 1734420500,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264556,
+        "num": 346897,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 775781,
+        "num": 343358,
+        "word": "发表涉樊振东不当言论学生已被通报",
+        "onboard_time": 1734414319,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343271,
+        "num": 343271,
+        "word": "王楚钦说与樊振东的技术差不多",
+        "onboard_time": 1734418639,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291223,
+        "num": 291223,
+        "word": "孟子义李昀锐九重紫团综flag立上了",
+        "onboard_time": 1734415759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162374,
+        "num": 281142,
+        "word": "保时捷中国裁员",
+        "onboard_time": 1734417679,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276431,
+        "num": 276431,
+        "word": "张凌赫田曦薇互关微博了",
+        "onboard_time": 1734419120,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253917,
+        "num": 253917,
+        "word": "李建平被执行死刑",
+        "onboard_time": 1734408439,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30440,
+        "num": 251231,
+        "word": "比特币上触107000美元",
+        "onboard_time": 1734420678,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249614,
+        "num": 249614,
+        "word": "给东方青苍配音磕一个",
+        "onboard_time": 1734413780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212153,
+        "num": 212153,
+        "word": "B太称随行的人也拉肚子了",
+        "onboard_time": 1734415818,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142172,
+        "num": 200492,
+        "word": "为什么年轻人越来越热衷玄学",
+        "onboard_time": 1734419059,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192368,
+        "num": 192368,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185450,
+        "num": 185450,
+        "word": "理想汽车",
+        "onboard_time": 1734415098,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181216,
+        "num": 181216,
+        "word": "九重紫和巴啦啦小魔仙同一个取景地",
+        "onboard_time": 1734418279,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175282,
+        "num": 175282,
+        "word": "江西一学生发表涉樊振东的不当言论",
+        "onboard_time": 1734410901,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172007,
+        "num": 172007,
+        "word": "台湾旅游",
+        "onboard_time": 1734419598,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169647,
+        "num": 169647,
+        "word": "孟子义和徐志胜女友煲电话粥",
+        "onboard_time": 1734405798,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164321,
+        "num": 164321,
+        "word": "江小白为啥不火了",
+        "onboard_time": 1734409760,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 162612,
+        "num": 162612,
+        "word": "32岁减百斤后保持三年的自律生活",
+        "onboard_time": 1734411740,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152208,
+        "num": 152208,
+        "word": "胖东来客流比5A景区还多",
+        "onboard_time": 1734416179,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148912,
+        "num": 148912,
+        "word": "浙江6个口岸过境免签可停留240小时",
+        "onboard_time": 1734408201,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148798,
+        "num": 148798,
+        "word": "ChatGPT搜索功能向全体用户免费开放",
+        "onboard_time": 1734419479,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "一个人睡觉需要两个枕头",
+        "onboard_time": 1734418759,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142039,
+        "num": 142039,
+        "word": "沈腾 坏了冲我来的",
+        "onboard_time": 1734407539,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141240,
+        "num": 141240,
+        "word": "于东来辟谣499元羽绒服",
+        "onboard_time": 1734418577,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101413,
+        "num": 135802,
+        "word": "朱婷女排世俱杯首秀",
+        "onboard_time": 1734419419,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132032,
+        "num": 132032,
+        "word": "在东北拖把和锅能用来玩冰壶",
+        "onboard_time": 1734419059,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126638,
+        "num": 126638,
+        "word": "张杰吃米线vlog",
+        "onboard_time": 1734420979,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123014,
+        "num": 123014,
+        "word": "过境免签外国人停留时间延长为240小时",
+        "onboard_time": 1734402498,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 122231,
+        "word": "宋佳女孩子就该一尘不染的漂亮",
+        "onboard_time": 1734413839,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系三农工作#"
+    }
+  }
+}
