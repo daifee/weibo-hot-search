@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734410608540,
+  "endTime": 1734413002771,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1808605,
-      "num": 1808605,
+      "raw_hot": 1898660,
+      "num": 1898660,
       "word": "我走出永夜星河了 他还没走出东方青苍",
       "onboard_time": 1734407959,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 856032,
+      "num": 392621,
+      "word": "杨紫 唯一90花",
+      "onboard_time": 1734411441,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 794291,
       "num": 794291,
       "word": "给宠物做殡葬真的有必要吗",
@@ -115,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 716179,
+      "num": 567936,
+      "word": "沈腾 坏了冲我来的",
+      "onboard_time": 1734407539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701129,
       "num": 701129,
       "word": "主播为骗人站大楼前就说楼是自己的",
@@ -137,14 +153,6 @@
       "onboard_time": 1734402498,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 674538,
-      "num": 567936,
-      "word": "沈腾 坏了冲我来的",
-      "onboard_time": 1734407539,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 614100,
+      "num": 384518,
+      "word": "谢娜胡歌高圆圆20年好友",
+      "onboard_time": 1734411561,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612390,
       "num": 612390,
       "word": "原来当年拍甄嬛传时大家才20多岁",
@@ -185,6 +201,14 @@
       "onboard_time": 1734401957,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 597511,
+      "num": 382451,
+      "word": "肖战路透",
+      "onboard_time": 1734410660,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 573985,
@@ -267,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 480998,
+      "num": 376467,
+      "word": "王鹤棣演唱会 打折",
+      "onboard_time": 1734412399,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 454785,
       "num": 454785,
       "word": "余衍隆曝阿娇变胖原因",
@@ -281,6 +313,14 @@
       "onboard_time": 1734350958,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 438275,
+      "num": 260308,
+      "word": "这件衣服救过孙俪的命吗",
+      "onboard_time": 1734411381,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 430717,
@@ -321,6 +361,14 @@
       "onboard_time": 1734404958,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372971,
+      "num": 541277,
+      "word": "江小白为啥不火了",
+      "onboard_time": 1734409760,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 370428,
@@ -411,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311495,
+      "num": 311495,
+      "word": "江西一学生发表涉樊振东的不当言论",
+      "onboard_time": 1734410901,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305588,
+      "num": 232750,
+      "word": "姓A的好处已经尽数体现了",
+      "onboard_time": 1734411141,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297725,
       "num": 297725,
       "word": "小伙见女生被偷拍上前阻止遭殴打",
@@ -425,6 +489,14 @@
       "onboard_time": 1734408380,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 278073,
+      "num": 231024,
+      "word": "32岁减百斤后保持三年的自律生活",
+      "onboard_time": 1734411740,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 277695,
@@ -547,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196885,
+      "num": 196885,
+      "word": "女子推理社",
+      "onboard_time": 1734411980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195010,
       "num": 195010,
       "word": "张馨予换了造型师",
@@ -649,6 +729,14 @@
       "onboard_time": 1734409401,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172933,
+      "num": 236631,
+      "word": "学校营造比拼氛围何必在食堂",
+      "onboard_time": 1734411500,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171696,
@@ -763,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157895,
+      "num": 1303877,
+      "word": "15个字概括我国当前经济形势",
+      "onboard_time": 1734409822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155167,
       "num": 202321,
       "word": "樊振东超级全满贯",
@@ -777,6 +873,14 @@
       "onboard_time": 1734409162,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149256,
+      "num": 149256,
+      "word": "在西藏修铁路最怕高反被开除",
+      "onboard_time": 1734412820,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147780,
@@ -801,14 +905,6 @@
       "onboard_time": 1734405798,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 143226,
-      "num": 541277,
-      "word": "江小白为啥不火了",
-      "onboard_time": 1734409760,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 141353,
@@ -971,6 +1067,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108409,
+      "num": 243835,
+      "word": "戚薇珍珠新娘造型",
+      "onboard_time": 1734412940,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 104247,
+      "num": 390192,
+      "word": "全国散打季军遭多名运动员群殴",
+      "onboard_time": 1734411800,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 104186,
+      "num": 511051,
+      "word": "学校通报食堂设置学霸就餐区",
+      "onboard_time": 1734409822,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102136,
       "num": 653998,
       "word": "王楚钦说我们跨年见",
@@ -993,14 +1113,6 @@
       "onboard_time": 1734389833,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98214,
-      "num": 1303877,
-      "word": "15个字概括我国当前经济形势",
-      "onboard_time": 1734409822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93904,
@@ -1049,14 +1161,6 @@
       "onboard_time": 1734365177,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 86680,
-      "num": 511051,
-      "word": "学校通报食堂设置学霸就餐区",
-      "onboard_time": 1734409822,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80967,
@@ -1155,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 68936,
+      "num": 528569,
+      "word": "檀健次圆梦螺蛳粉",
+      "onboard_time": 1734408680,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
@@ -1169,6 +1281,14 @@
       "onboard_time": 1734406397,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66773,
+      "num": 313611,
+      "word": "叠纸起诉派克特",
+      "onboard_time": 1734412461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 66744,
@@ -1435,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40341,
-      "num": 528569,
-      "word": "檀健次圆梦螺蛳粉",
-      "onboard_time": 1734408680,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37489,
       "num": 860394,
       "word": "万千气象看吉林",
@@ -1643,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9372,
+      "num": 250565,
+      "word": "医生眼中的10个疾病面容",
+      "onboard_time": 1734412940,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 6954,
       "num": 36541,
       "word": "唐钱婷2024完美收官",
@@ -1665,6 +1785,9 @@
     },
     {
       "word": "#七子之歌永远能听出新意#"
+    },
+    {
+      "word": "#总书记心系三农工作#"
     }
   ]
 }

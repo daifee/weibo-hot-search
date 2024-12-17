@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734410608540,
+  "endTime": 1734413002771,
   "band_list": [
     {
       "raw_hot": 3942883,
@@ -91,8 +91,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1808605,
-      "num": 1808605,
+      "raw_hot": 1898660,
+      "num": 1898660,
       "word": "我走出永夜星河了 他还没走出东方青苍",
       "onboard_time": 1734407959,
       "rank": 0,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 856032,
+      "num": 392621,
+      "word": "杨紫 唯一90花",
+      "onboard_time": 1734411441,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 853572,
       "num": 509688,
       "word": "张小斐你丝袜破了",
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 716179,
+      "num": 567936,
+      "word": "沈腾 坏了冲我来的",
+      "onboard_time": 1734407539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715235,
       "num": 715235,
       "word": "上海major",
@@ -777,14 +793,6 @@
       "onboard_time": 1734402498,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 674538,
-      "num": 567936,
-      "word": "沈腾 坏了冲我来的",
-      "onboard_time": 1734407539,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 674397,
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614100,
+      "num": 384518,
+      "word": "谢娜胡歌高圆圆20年好友",
+      "onboard_time": 1734411561,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613202,
       "num": 613202,
       "word": "韩国执政党党首辞职",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1734337458,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 597511,
+      "num": 382451,
+      "word": "肖战路透",
+      "onboard_time": 1734410660,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 593446,
@@ -1363,6 +1387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 480998,
+      "num": 376467,
+      "word": "王鹤棣演唱会 打折",
+      "onboard_time": 1734412399,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 474225,
       "num": 474225,
       "word": "林诗栋vs黄友政",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1734218954,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438275,
+      "num": 260308,
+      "word": "这件衣服救过孙俪的命吗",
+      "onboard_time": 1734411381,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 437687,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1734338660,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 372971,
+      "num": 541277,
+      "word": "江小白为啥不火了",
+      "onboard_time": 1734409760,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 370981,
@@ -2123,6 +2171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311495,
+      "num": 311495,
+      "word": "江西一学生发表涉樊振东的不当言论",
+      "onboard_time": 1734410901,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309464,
       "num": 309464,
       "word": "代号鸢",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1734247518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305588,
+      "num": 232750,
+      "word": "姓A的好处已经尽数体现了",
+      "onboard_time": 1734411141,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 305450,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1734331579,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278073,
+      "num": 231024,
+      "word": "32岁减百斤后保持三年的自律生活",
+      "onboard_time": 1734411740,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 277695,
@@ -3363,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196885,
+      "num": 196885,
+      "word": "女子推理社",
+      "onboard_time": 1734411980,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195916,
       "num": 195916,
       "word": "丁禹兮加入粉丝合唱",
@@ -4051,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172933,
+      "num": 236631,
+      "word": "学校营造比拼氛围何必在食堂",
+      "onboard_time": 1734411500,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172662,
       "num": 172662,
       "word": "数位LPL选手宣布休息",
@@ -4539,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157895,
+      "num": 1303877,
+      "word": "15个字概括我国当前经济形势",
+      "onboard_time": 1734409822,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157838,
       "num": 157838,
       "word": "迪丽热巴微博之夜战队人数突破20万",
@@ -4811,6 +4907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149256,
+      "num": 149256,
+      "word": "在西藏修铁路最怕高反被开除",
+      "onboard_time": 1734412820,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148673,
       "num": 148673,
       "word": "29岁教师编制想考研重新开始",
@@ -4945,14 +5049,6 @@
       "onboard_time": 1734335237,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143226,
-      "num": 541277,
-      "word": "江小白为啥不火了",
-      "onboard_time": 1734409760,
-      "rank": 13,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 143162,
@@ -6195,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108409,
+      "num": 243835,
+      "word": "戚薇珍珠新娘造型",
+      "onboard_time": 1734412940,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108235,
       "num": 122095,
       "word": "宁德时代致信供应商",
@@ -6371,6 +6475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104247,
+      "num": 390192,
+      "word": "全国散打季军遭多名运动员群殴",
+      "onboard_time": 1734411800,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 104186,
+      "num": 511051,
+      "word": "学校通报食堂设置学霸就餐区",
+      "onboard_time": 1734409822,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103043,
       "num": 103043,
       "word": "加入会员后仍跳不过广告",
@@ -6505,14 +6625,6 @@
       "onboard_time": 1734230119,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 98214,
-      "num": 1303877,
-      "word": "15个字概括我国当前经济形势",
-      "onboard_time": 1734409822,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97310,
@@ -6761,14 +6873,6 @@
       "onboard_time": 1734321619,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 86680,
-      "num": 511051,
-      "word": "学校通报食堂设置学霸就餐区",
-      "onboard_time": 1734409822,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86232,
@@ -7259,6 +7363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68936,
+      "num": 528569,
+      "word": "檀健次圆梦螺蛳粉",
+      "onboard_time": 1734408680,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
@@ -7305,6 +7417,14 @@
       "onboard_time": 1734333379,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66773,
+      "num": 313611,
+      "word": "叠纸起诉派克特",
+      "onboard_time": 1734412461,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 66744,
@@ -8049,14 +8169,6 @@
       "onboard_time": 1734246199,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40341,
-      "num": 528569,
-      "word": "檀健次圆梦螺蛳粉",
-      "onboard_time": 1734408680,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 40205,
@@ -9171,6 +9283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 9372,
+      "num": 250565,
+      "word": "医生眼中的10个疾病面容",
+      "onboard_time": 1734412940,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 9126,
       "num": 154332,
       "word": "草莓抹茶牛乳",
@@ -9346,6 +9466,9 @@
     },
     {
       "word": "#七子之歌永远能听出新意#"
+    },
+    {
+      "word": "#总书记心系三农工作#"
     }
   ]
 }

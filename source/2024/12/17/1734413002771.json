@@ -1,0 +1,410 @@
+{
+  "runTime": 1734413002771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1898660,
+        "num": 1898660,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1568913,
+        "num": 1568913,
+        "word": "李建平被执行死刑",
+        "onboard_time": 1734408439,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157895,
+        "num": 1054205,
+        "word": "15个字概括我国当前经济形势",
+        "onboard_time": 1734409822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 936123,
+        "num": 936123,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409018,
+        "num": 409018,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393293,
+        "num": 393293,
+        "word": "尹锡悦戒严令背后惊天阴谋曝光",
+        "onboard_time": 1734404898,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 856032,
+        "num": 392621,
+        "word": "杨紫 唯一90花",
+        "onboard_time": 1734411441,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 716179,
+        "num": 391892,
+        "word": "沈腾 坏了冲我来的",
+        "onboard_time": 1734407539,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390324,
+        "num": 390324,
+        "word": "浙江6个口岸过境免签可停留240小时",
+        "onboard_time": 1734408201,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104247,
+        "num": 390192,
+        "word": "全国散打季军遭多名运动员群殴",
+        "onboard_time": 1734411800,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 614100,
+        "num": 384518,
+        "word": "谢娜胡歌高圆圆20年好友",
+        "onboard_time": 1734411561,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597511,
+        "num": 382451,
+        "word": "肖战路透",
+        "onboard_time": 1734410660,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480998,
+        "num": 376467,
+        "word": "王鹤棣演唱会 打折",
+        "onboard_time": 1734412399,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68936,
+        "num": 375368,
+        "word": "檀健次圆梦螺蛳粉",
+        "onboard_time": 1734408680,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372971,
+        "num": 372971,
+        "word": "江小白为啥不火了",
+        "onboard_time": 1734409760,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 479641,
+        "num": 366070,
+        "word": "时宴没有被邀请",
+        "onboard_time": 1734405439,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466400,
+        "num": 349935,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1734408139,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325900,
+        "num": 325900,
+        "word": "医院拒绝回应免费为多名老人做手术",
+        "onboard_time": 1734398118,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325330,
+        "num": 325330,
+        "word": "我关闭了朋友圈拒绝焦虑与内耗",
+        "onboard_time": 1734402617,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66773,
+        "num": 313611,
+        "word": "叠纸起诉派克特",
+        "onboard_time": 1734412461,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738818,
+        "num": 313455,
+        "word": "王鹤棣 内涵",
+        "onboard_time": 1734364519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427161,
+        "num": 313443,
+        "word": "17岁男孩系自缢身亡不构成刑事案件",
+        "onboard_time": 1734407179,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 311495,
+        "num": 311495,
+        "word": "江西一学生发表涉樊振东的不当言论",
+        "onboard_time": 1734410901,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285843,
+        "num": 285843,
+        "word": "陈梦马龙对瓶喝啤酒看呆其他选手",
+        "onboard_time": 1734404239,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268233,
+        "num": 268233,
+        "word": "B太 菏泽",
+        "onboard_time": 1734408741,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463600,
+        "num": 267425,
+        "word": "孟子义和徐志胜女友煲电话粥",
+        "onboard_time": 1734405798,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438275,
+        "num": 260308,
+        "word": "这件衣服救过孙俪的命吗",
+        "onboard_time": 1734411381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428019,
+        "num": 255623,
+        "word": "奚梦瑶被夸状态好坦言要做医美",
+        "onboard_time": 1734402137,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9372,
+        "num": 250565,
+        "word": "医生眼中的10个疾病面容",
+        "onboard_time": 1734412940,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108409,
+        "num": 243835,
+        "word": "戚薇珍珠新娘造型",
+        "onboard_time": 1734412940,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172933,
+        "num": 236631,
+        "word": "学校营造比拼氛围何必在食堂",
+        "onboard_time": 1734411500,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305588,
+        "num": 232750,
+        "word": "姓A的好处已经尽数体现了",
+        "onboard_time": 1734411141,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278073,
+        "num": 231024,
+        "word": "32岁减百斤后保持三年的自律生活",
+        "onboard_time": 1734411740,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 225757,
+        "num": 225757,
+        "word": "刘亦菲惠英红C位",
+        "onboard_time": 1734408380,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220398,
+        "num": 220398,
+        "word": "程潇评论区",
+        "onboard_time": 1734399256,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208994,
+        "num": 208994,
+        "word": "王楚钦乒超赛后发文",
+        "onboard_time": 1734401957,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196885,
+        "num": 196885,
+        "word": "女子推理社",
+        "onboard_time": 1734411980,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180105,
+        "num": 180105,
+        "word": "10后女生独爱鲶鱼须刘海",
+        "onboard_time": 1734395659,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178116,
+        "num": 178116,
+        "word": "过境免签外国人停留时间延长为240小时",
+        "onboard_time": 1734402498,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170061,
+        "num": 170061,
+        "word": "给宠物做殡葬真的有必要吗",
+        "onboard_time": 1734401357,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 153379,
+        "num": 153379,
+        "word": "主播为骗人站大楼前就说楼是自己的",
+        "onboard_time": 1734399498,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151045,
+        "num": 151045,
+        "word": "清密15年前浮尸命案再犯案",
+        "onboard_time": 1734409220,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149256,
+        "num": 149256,
+        "word": "在西藏修铁路最怕高反被开除",
+        "onboard_time": 1734412820,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139789,
+        "num": 139789,
+        "word": "东皇出现吓倒一片",
+        "onboard_time": 1734404659,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "免费为多名老人做手术医院已被限消",
+        "onboard_time": 1734409641,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128563,
+        "num": 128563,
+        "word": "网传星光大赏座位表",
+        "onboard_time": 1734407119,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122413,
+        "num": 122413,
+        "word": "江苏卫视跨年第三波阵容官宣",
+        "onboard_time": 1734409520,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108531,
+        "num": 108531,
+        "word": "孙颖莎9900分保持世一",
+        "onboard_time": 1734398838,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104186,
+        "num": 104186,
+        "word": "学校通报食堂设置学霸就餐区",
+        "onboard_time": 1734409822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103532,
+        "num": 103532,
+        "word": "12306抢票更快的功能一定要知道",
+        "onboard_time": 1734400939,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系三农工作#"
+    }
+  }
+}
