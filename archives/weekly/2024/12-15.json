@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734460410199,
+  "endTime": 1734461221825,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -8147,6 +8147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98948,
+      "num": 98948,
+      "word": "特朗普称现在都想和他交朋友",
+      "onboard_time": 1734459012,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98529,
       "num": 192484,
       "word": "檀健次烤肉艺术家",
@@ -9115,14 +9123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65700,
-      "num": 65700,
-      "word": "特朗普称现在都想和他交朋友",
-      "onboard_time": 1734459012,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65643,
       "num": 65643,
       "word": "韩国国会通过尹锡悦弹劾动议案",
@@ -10067,6 +10067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38804,
+      "num": 52637,
+      "word": "网友拍的张柏芝",
+      "onboard_time": 1734459433,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38603,
       "num": 374361,
       "word": "俄军一高级将领死于爆炸袭击",
@@ -10483,6 +10491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29442,
+      "num": 76964,
+      "word": "俄军三防部队司令被炸身亡",
+      "onboard_time": 1734460213,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29329,
       "num": 267890,
       "word": "旅游小包团被层层转包变大团",
@@ -10571,20 +10587,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27620,
+      "num": 27620,
+      "word": "古风小生",
+      "onboard_time": 1734457512,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27545,
       "num": 112015,
       "word": "扩大对外开放海南自贸港大有可为",
       "onboard_time": 1734456614,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27434,
-      "num": 52637,
-      "word": "网友拍的张柏芝",
-      "onboard_time": 1734459433,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 27356,
@@ -10673,14 +10689,6 @@
       "onboard_time": 1734426379,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25479,
-      "num": 25479,
-      "word": "古风小生",
-      "onboard_time": 1734457512,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 25232,
@@ -11025,14 +11033,6 @@
       "onboard_time": 1734288551,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18646,
-      "num": 49553,
-      "word": "俄军三防部队司令被炸身亡",
-      "onboard_time": 1734460213,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18498,
