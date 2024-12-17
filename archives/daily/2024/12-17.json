@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734442394755,
+  "endTime": 1734443040918,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660793,
+      "num": 548047,
+      "word": "鹿晗猝不及防的互拍",
+      "onboard_time": 1734439939,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659279,
       "num": 430314,
       "word": "南大碎尸案家属回应张译躺枪",
@@ -481,14 +489,6 @@
       "onboard_time": 1734367755,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548047,
-      "num": 548047,
-      "word": "鹿晗猝不及防的互拍",
-      "onboard_time": 1734439939,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 546619,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487718,
+      "num": 430959,
+      "word": "孟子义对李昀锐撒娇要衣服",
+      "onboard_time": 1734440360,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484211,
       "num": 396935,
       "word": "死者父亲称已与儿媳达成和解",
@@ -657,14 +665,6 @@
       "onboard_time": 1734425118,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 430959,
-      "num": 430959,
-      "word": "孟子义对李昀锐撒娇要衣服",
-      "onboard_time": 1734440360,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 430717,
@@ -801,6 +801,14 @@
       "onboard_time": 1734415759,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 328871,
+      "num": 249374,
+      "word": "虞书欣专辑试听",
+      "onboard_time": 1734442040,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 327944,
@@ -979,16 +987,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 249374,
-      "num": 249374,
-      "word": "虞书欣专辑试听",
-      "onboard_time": 1734442040,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 248903,
-      "num": 221283,
+      "num": 221590,
       "word": "好适合吃饺子的盘子",
       "onboard_time": 1734439277,
       "rank": 37,
@@ -1027,6 +1027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235868,
+      "num": 235868,
+      "word": "疑似涉黄私人影院注册资本仅10万",
+      "onboard_time": 1734438439,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233785,
+      "num": 233785,
+      "word": "贾玲回应瘦身后观众缘松动",
+      "onboard_time": 1734442640,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230903,
       "num": 313611,
       "word": "叠纸起诉派克特",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1734396318,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228574,
+      "num": 228574,
+      "word": "陈梦再谈夺得奥运冠军感受",
+      "onboard_time": 1734441978,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 226514,
@@ -1291,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194361,
+      "num": 167734,
+      "word": "在韩国花71w韩元化妆是什么水平",
+      "onboard_time": 1734439579,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 194143,
       "num": 194143,
       "word": "张韶涵被催了5年的新专辑来了",
@@ -1323,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189680,
+      "num": 348297,
+      "word": "家长从学生冬季校服中扯出薄膜",
+      "onboard_time": 1734440119,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189511,
       "num": 189511,
       "word": "弟弟去世后哥哥状告弟媳争房子",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1734432740,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187387,
+      "num": 152057,
+      "word": "杨洋汪苏泷王楚钦同框",
+      "onboard_time": 1734442879,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 186926,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1734424159,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 173963,
-      "num": 173963,
-      "word": "家长从学生冬季校服中扯出薄膜",
-      "onboard_time": 1734440119,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172933,
@@ -1587,20 +1627,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 161880,
-      "num": 161880,
-      "word": "陈梦再谈夺得奥运冠军感受",
-      "onboard_time": 1734441978,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161029,
       "num": 161029,
       "word": "外国人嗑瓜子真的很忙",
       "onboard_time": 1734391515,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160790,
+      "num": 326507,
+      "word": "家长发现孩子课外书籍掺杂恶俗恶梗",
+      "onboard_time": 1734440961,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160784,
@@ -1891,14 +1931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141407,
-      "num": 211566,
-      "word": "疑似涉黄私人影院注册资本仅10万",
-      "onboard_time": 1734438439,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "李马克歌词",
@@ -2075,14 +2107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129122,
-      "num": 326507,
-      "word": "家长发现孩子课外书籍掺杂恶俗恶梗",
-      "onboard_time": 1734440961,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128111,
       "num": 128111,
       "word": "九重紫预告",
@@ -2099,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127567,
+      "num": 197459,
+      "word": "梅德韦杰夫回应俄三防部队司令死亡",
+      "onboard_time": 1734437538,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126638,
       "num": 126638,
       "word": "张杰吃米线vlog",
@@ -2107,28 +2139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125094,
-      "num": 125094,
-      "word": "在韩国花71w韩元化妆是什么水平",
-      "onboard_time": 1734439579,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 124846,
       "num": 124846,
       "word": "以为要过圣诞结果是过春节",
       "onboard_time": 1734406280,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124608,
-      "num": 197459,
-      "word": "梅德韦杰夫回应俄三防部队司令死亡",
-      "onboard_time": 1734437538,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123402,
@@ -2163,12 +2179,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121153,
+      "num": 121153,
+      "word": "录音师把孟子义哄成胚胎了",
+      "onboard_time": 1734442761,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120990,
       "num": 120990,
       "word": "温悦离婚净身出户",
       "onboard_time": 1734440600,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120585,
+      "num": 120585,
+      "word": "一招就能缓解打嗝",
+      "onboard_time": 1734442520,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120301,
@@ -2235,12 +2267,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116458,
+      "num": 116458,
+      "word": "BOYHOOD给杜华当服务员",
+      "onboard_time": 1734443000,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115999,
       "num": 300535,
       "word": "2024令人难忘的同框",
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 115103,
+      "num": 115103,
+      "word": "陈梦曾因非议陷入自我怀疑",
+      "onboard_time": 1734443000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112823,
+      "num": 112823,
+      "word": "向鱼在画什么",
+      "onboard_time": 1734442700,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112500,
@@ -2555,6 +2611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 70573,
+      "num": 330871,
+      "word": "夏之光说九重紫演爽了",
+      "onboard_time": 1734442220,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69843,
       "num": 528569,
       "word": "檀健次圆梦螺蛳粉",
@@ -2587,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66947,
+      "num": 339329,
+      "word": "王楚钦想家了",
+      "onboard_time": 1734440360,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66744,
       "num": 152239,
       "word": "涉事领导回应职工为其买酒赊账9万",
@@ -2609,6 +2681,14 @@
       "onboard_time": 1734377171,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65878,
+      "num": 430421,
+      "word": "家长称学校用数智家校查成绩要付费",
+      "onboard_time": 1734441500,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65335,
@@ -2723,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58165,
+      "num": 317387,
+      "word": "男子11年结婚5次骗多名前妻上百万",
+      "onboard_time": 1734441020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57831,
       "num": 295531,
       "word": "于适入选辽宁朝阳青联委员",
@@ -2795,14 +2883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50827,
-      "num": 339329,
-      "word": "王楚钦想家了",
-      "onboard_time": 1734440360,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49848,
       "num": 297234,
       "word": "书店老板说开书店像一个笑话",
@@ -2827,20 +2907,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 48766,
-      "num": 317387,
-      "word": "男子11年结婚5次骗多名前妻上百万",
-      "onboard_time": 1734441020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48748,
       "num": 555977,
       "word": "今年外国旅客机票预订量同比增近2倍",
       "onboard_time": 1734409041,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48170,
+      "num": 830620,
+      "word": "世界上最早的融合菜诞生在澳门",
+      "onboard_time": 1734425359,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 47673,
@@ -2963,28 +3043,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 41041,
-      "num": 430421,
-      "word": "家长称学校用数智家校查成绩要付费",
-      "onboard_time": 1734441500,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40871,
       "num": 40871,
       "word": "檀健次沈翊平行时空宿命感",
       "onboard_time": 1734390915,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40257,
-      "num": 830620,
-      "word": "世界上最早的融合菜诞生在澳门",
-      "onboard_time": 1734425359,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 39073,
@@ -3115,6 +3179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30578,
+      "num": 350274,
+      "word": "媒体谈医院免费为老人做手术",
+      "onboard_time": 1734440961,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30481,
       "num": 210350,
       "word": "朱婷谈加盟意大利俱乐部",
@@ -3155,20 +3227,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 28084,
-      "num": 350274,
-      "word": "媒体谈医院免费为老人做手术",
-      "onboard_time": 1734440961,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 26774,
       "num": 205742,
       "word": "窦昭专治小妈发癫",
       "onboard_time": 1734438739,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26730,
+      "num": 171881,
+      "word": "玩一下智能手机 别管了",
+      "onboard_time": 1734441439,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 26574,
@@ -3283,6 +3355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20328,
+      "num": 239271,
+      "word": "一口气看完猎罪2前五案",
+      "onboard_time": 1734442161,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19931,
       "num": 29407,
       "word": "尹锡悦组建团队应对弹劾案",
@@ -3387,14 +3467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16584,
-      "num": 330871,
-      "word": "夏之光说九重紫演爽了",
-      "onboard_time": 1734442220,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 15716,
       "num": 20268,
       "word": "清明上河图密码质感",
@@ -3467,14 +3539,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 12704,
-      "num": 171881,
-      "word": "玩一下智能手机 别管了",
-      "onboard_time": 1734441439,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 12688,
       "num": 269872,
       "word": "积石山地震一年后震区怎么样了",
@@ -3505,14 +3569,6 @@
       "onboard_time": 1734392237,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11034,
-      "num": 182756,
-      "word": "一口气看完猎罪2前五案",
-      "onboard_time": 1734442161,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 11030,
