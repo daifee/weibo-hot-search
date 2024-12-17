@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734400255173,
+  "endTime": 1734401617978,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -9,6 +9,14 @@
       "onboard_time": 1734364519,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1458281,
+      "num": 1458281,
+      "word": "程潇评论区",
+      "onboard_time": 1734399256,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1132321,
@@ -35,14 +43,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 694558,
-      "num": 694558,
-      "word": "程潇评论区",
-      "onboard_time": 1734399256,
-      "rank": 1,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 612390,
       "num": 612390,
       "word": "原来当年拍甄嬛传时大家才20多岁",
@@ -59,11 +59,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 565885,
+      "num": 565885,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1734352582,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565508,
       "num": 565508,
       "word": "一市民花84元买彩票中834万",
       "onboard_time": 1734367755,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538100,
+      "num": 538100,
+      "word": "医院拒绝回应免费为多名老人做手术",
+      "onboard_time": 1734398118,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -155,19 +171,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370294,
-      "num": 370294,
-      "word": "樊振东3比1胜王楚钦",
-      "onboard_time": 1734352582,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 366472,
       "num": 366472,
       "word": "湖北一教师被捕兽电网电击身亡",
       "onboard_time": 1734364579,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346028,
+      "num": 346028,
+      "word": "主播为骗人站大楼前就说楼是自己的",
+      "onboard_time": 1734399498,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 341363,
-      "num": 215195,
+      "num": 271828,
       "word": "10后女生独爱鲶鱼须刘海",
       "onboard_time": 1734395659,
       "rank": 21,
@@ -211,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318580,
+      "num": 318580,
+      "word": "被抱养37年女子称高中每周只用2块",
+      "onboard_time": 1734379091,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315517,
       "num": 315517,
       "word": "米饭仙人 你的菜来了",
@@ -235,12 +259,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265607,
-      "num": 265607,
-      "word": "被抱养37年女子称高中每周只用2块",
-      "onboard_time": 1734379091,
-      "rank": 23,
+      "raw_hot": 283333,
+      "num": 283333,
+      "word": "成毅官宣出演长安二十四计",
+      "onboard_time": 1734400339,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277695,
+      "num": 382222,
+      "word": "呼伦贝尔冷到吹泡泡吹出冰球",
+      "onboard_time": 1734398118,
+      "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270254,
+      "num": 270254,
+      "word": "田曦薇方称逐玉绝对平番",
+      "onboard_time": 1734396079,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 251431,
@@ -251,12 +291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239147,
+      "num": 377232,
+      "word": "12306抢票更快的功能一定要知道",
+      "onboard_time": 1734400939,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228648,
       "num": 214615,
       "word": "1个墙缝同时卡住2个孩子",
       "onboard_time": 1734396318,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222762,
+      "num": 222762,
+      "word": "孙颖莎9900分保持世一",
+      "onboard_time": 1734398838,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 217088,
@@ -275,20 +331,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 214229,
-      "num": 214229,
-      "word": "田曦薇方称逐玉绝对平番",
-      "onboard_time": 1734396079,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 200582,
+      "num": 200582,
+      "word": "登陆少年组合官宣加盟江苏卫视跨年",
+      "onboard_time": 1734401238,
+      "rank": 28,
+      "category": "综艺"
     },
     {
-      "raw_hot": 196343,
-      "num": 196343,
-      "word": "医院拒绝回应免费为多名老人做手术",
-      "onboard_time": 1734398118,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 198205,
+      "num": 198205,
+      "word": "李昀锐工作室有我们自己人",
+      "onboard_time": 1734398778,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194731,
@@ -315,6 +371,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 185367,
+      "num": 185367,
+      "word": "给宠物做殡葬真的有必要吗",
+      "onboard_time": 1734401357,
+      "rank": 31,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 182397,
+      "num": 182397,
+      "word": "王楚钦将在总决赛全力以赴",
+      "onboard_time": 1734399978,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177089,
       "num": 177089,
       "word": "乒超四强出炉",
@@ -329,14 +401,6 @@
       "onboard_time": 1734391455,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 176153,
-      "num": 176153,
-      "word": "李昀锐工作室有我们自己人",
-      "onboard_time": 1734398778,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 171696,
@@ -363,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163128,
-      "num": 163128,
-      "word": "王楚钦将在总决赛全力以赴",
-      "onboard_time": 1734399978,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162691,
       "num": 144996,
       "word": "骨科医生都推荐的睡姿",
@@ -379,11 +435,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 162095,
-      "num": 162095,
-      "word": "主播为骗人站大楼前就说楼是自己的",
-      "onboard_time": 1734399498,
-      "rank": 35,
+      "raw_hot": 162375,
+      "num": 162375,
+      "word": "弟弟去世后哥哥状告弟媳争房子",
+      "onboard_time": 1734400458,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -393,14 +449,6 @@
       "onboard_time": 1734391515,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 160660,
-      "num": 160660,
-      "word": "孙颖莎9900分保持世一",
-      "onboard_time": 1734398838,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 160318,
@@ -427,12 +475,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 145835,
-      "num": 382222,
-      "word": "呼伦贝尔冷到吹泡泡吹出冰球",
-      "onboard_time": 1734398118,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 141353,
+      "num": 141353,
+      "word": "李马克歌词",
+      "onboard_time": 1734401118,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 140472,
@@ -723,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64478,
+      "num": 288938,
+      "word": "特朗普称俄乌和平协议必须达成",
+      "onboard_time": 1734400997,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63669,
       "num": 72426,
       "word": "戚薇从嘉人晚宴逃出来直播",
@@ -737,6 +793,14 @@
       "onboard_time": 1734390915,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62854,
+      "num": 275364,
+      "word": "特朗普称将与普京和泽连斯基对话",
+      "onboard_time": 1734401418,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62253,
@@ -763,6 +827,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 55881,
+      "num": 384837,
+      "word": "尹锡悦被要求23日前提交答辩",
+      "onboard_time": 1734397519,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51998,
       "num": 51998,
       "word": "玩雪这一块哈尔滨还是太超前了",
@@ -777,6 +849,14 @@
       "onboard_time": 1734380410,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51052,
+      "num": 198374,
+      "word": "和平饭店称298元套餐含268元导览服务",
+      "onboard_time": 1734401298,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49833,
@@ -808,6 +888,14 @@
       "word": "娜然 海带精",
       "onboard_time": 1734369494,
       "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 44136,
+      "num": 277632,
+      "word": "被蔡徐坤新封面glow到",
+      "onboard_time": 1734401357,
+      "rank": 18,
       "category": "作品衍生,时尚"
     },
     {

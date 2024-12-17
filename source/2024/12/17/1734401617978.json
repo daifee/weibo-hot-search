@@ -1,0 +1,410 @@
+{
+  "runTime": 1734401617978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458281,
+        "num": 1458281,
+        "word": "程潇评论区",
+        "onboard_time": 1734399256,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 565885,
+        "num": 565885,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1734352582,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28313,
+        "num": 544143,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 825537,
+        "num": 541204,
+        "word": "特朗普会见TikTok的CEO周受资",
+        "onboard_time": 1734394998,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 592322,
+        "num": 540369,
+        "word": "原来当年拍甄嬛传时大家才20多岁",
+        "onboard_time": 1734397038,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538100,
+        "num": 538100,
+        "word": "医院拒绝回应免费为多名老人做手术",
+        "onboard_time": 1734398118,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484773,
+        "num": 484773,
+        "word": "秦兵马俑目前仅发现10尊将军俑",
+        "onboard_time": 1734397698,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418442,
+        "num": 418442,
+        "word": "一市民花84元买彩票中834万",
+        "onboard_time": 1734367755,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55881,
+        "num": 384837,
+        "word": "尹锡悦被要求23日前提交答辩",
+        "onboard_time": 1734397519,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239147,
+        "num": 377232,
+        "word": "12306抢票更快的功能一定要知道",
+        "onboard_time": 1734400939,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376719,
+        "num": 376719,
+        "word": "余衍隆曝阿娇变胖原因",
+        "onboard_time": 1734385391,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364093,
+        "num": 364093,
+        "word": "杨幂对接回应嘉人红毯顺序",
+        "onboard_time": 1734391575,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 346028,
+        "num": 346028,
+        "word": "主播为骗人站大楼前就说楼是自己的",
+        "onboard_time": 1734399498,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318580,
+        "num": 318580,
+        "word": "被抱养37年女子称高中每周只用2块",
+        "onboard_time": 1734379091,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64478,
+        "num": 288938,
+        "word": "特朗普称俄乌和平协议必须达成",
+        "onboard_time": 1734400997,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283333,
+        "num": 283333,
+        "word": "成毅官宣出演长安二十四计",
+        "onboard_time": 1734400339,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278328,
+        "num": 278328,
+        "word": "第一次见地铁户型的家",
+        "onboard_time": 1734394399,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277695,
+        "num": 277695,
+        "word": "呼伦贝尔冷到吹泡泡吹出冰球",
+        "onboard_time": 1734398118,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44136,
+        "num": 277632,
+        "word": "被蔡徐坤新封面glow到",
+        "onboard_time": 1734401357,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 62854,
+        "num": 275364,
+        "word": "特朗普称将与普京和泽连斯基对话",
+        "onboard_time": 1734401418,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1100748,
+        "num": 272451,
+        "word": "王鹤棣 内涵",
+        "onboard_time": 1734364519,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311741,
+        "num": 271828,
+        "word": "10后女生独爱鲶鱼须刘海",
+        "onboard_time": 1734395659,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 270254,
+        "num": 270254,
+        "word": "田曦薇方称逐玉绝对平番",
+        "onboard_time": 1734396079,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228227,
+        "num": 228227,
+        "word": "嘉人大合照",
+        "onboard_time": 1734359842,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222762,
+        "num": 222762,
+        "word": "孙颖莎9900分保持世一",
+        "onboard_time": 1734398838,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214325,
+        "num": 214325,
+        "word": "死者父亲称已与儿媳达成和解",
+        "onboard_time": 1734356300,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210447,
+        "num": 210447,
+        "word": "老板称B太一天吃了七八家店",
+        "onboard_time": 1734350660,
+        "rank": 26,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 206964,
+        "num": 206964,
+        "word": "谁模仿王鹤棣",
+        "onboard_time": 1734365240,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 200582,
+        "num": 200582,
+        "word": "登陆少年组合官宣加盟江苏卫视跨年",
+        "onboard_time": 1734401238,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51052,
+        "num": 198374,
+        "word": "和平饭店称298元套餐含268元导览服务",
+        "onboard_time": 1734401298,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198205,
+        "num": 198205,
+        "word": "李昀锐工作室有我们自己人",
+        "onboard_time": 1734398778,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185367,
+        "num": 185367,
+        "word": "给宠物做殡葬真的有必要吗",
+        "onboard_time": 1734401357,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 182397,
+        "num": 182397,
+        "word": "王楚钦将在总决赛全力以赴",
+        "onboard_time": 1734399978,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180260,
+        "num": 180260,
+        "word": "米饭仙人 你的菜来了",
+        "onboard_time": 1734394339,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177838,
+        "num": 177838,
+        "word": "美国17岁女生校内开枪致3死",
+        "onboard_time": 1734394339,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177584,
+        "num": 177584,
+        "word": "小伙见女生被偷拍上前阻止遭殴打",
+        "onboard_time": 1734393436,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175728,
+        "num": 175728,
+        "word": "1个墙缝同时卡住2个孩子",
+        "onboard_time": 1734396318,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175540,
+        "num": 175540,
+        "word": "李昀锐 少年感的爹",
+        "onboard_time": 1734363501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162375,
+        "num": 162375,
+        "word": "弟弟去世后哥哥状告弟媳争房子",
+        "onboard_time": 1734400458,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153245,
+        "num": 153245,
+        "word": "我国成功发射一箭四星",
+        "onboard_time": 1734391455,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150257,
+        "num": 150257,
+        "word": "刘宇救场闫桉",
+        "onboard_time": 1734392537,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145042,
+        "num": 145042,
+        "word": "湖北一教师被捕兽电网电击身亡",
+        "onboard_time": 1734364579,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141353,
+        "num": 141353,
+        "word": "李马克歌词",
+        "onboard_time": 1734401118,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141260,
+        "num": 141260,
+        "word": "为护女性遭邻居捅伤19岁小伙现状",
+        "onboard_time": 1734392117,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140222,
+        "num": 140222,
+        "word": "有一种骄傲叫舷号17",
+        "onboard_time": 1734394457,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140015,
+        "num": 140015,
+        "word": "刘亦菲压轴",
+        "onboard_time": 1734352100,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132476,
+        "num": 132476,
+        "word": "家暴受害人起诉离婚需45天冷静期",
+        "onboard_time": 1734362601,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112613,
+        "num": 112613,
+        "word": "尹锡悦确定律师团",
+        "onboard_time": 1734319998,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112391,
+        "num": 112391,
+        "word": "孙正义现身特朗普海湖庄园",
+        "onboard_time": 1734398658,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109238,
+        "num": 109238,
+        "word": "加沙北部最后一名骨外科医生被打死",
+        "onboard_time": 1734393917,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#七子之歌永远能听出新意#"
+    }
+  }
+}
