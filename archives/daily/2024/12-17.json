@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734417216568,
+  "endTime": 1734418044626,
   "band_list": [
     {
       "raw_hot": 3078932,
@@ -83,6 +83,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1087344,
+      "num": 294660,
+      "word": "发表涉樊振东不当言论学生已被通报",
+      "onboard_time": 1734414319,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1064013,
+      "num": 1064013,
+      "word": "王鹤棣歌词 猴子温朱",
+      "onboard_time": 1734416479,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1055604,
       "num": 766319,
       "word": "奚梦瑶被夸状态好坦言要做医美",
@@ -99,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 958209,
-      "num": 634705,
-      "word": "王鹤棣歌词 猴子温朱",
-      "onboard_time": 1734416479,
-      "rank": 6,
-      "category": "音乐"
+      "raw_hot": 943771,
+      "num": 943771,
+      "word": "百草味发霉致孕妇住院事件反转",
+      "onboard_time": 1734414079,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 933300,
@@ -115,20 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 920061,
-      "num": 920061,
-      "word": "百草味发霉致孕妇住院事件反转",
-      "onboard_time": 1734414079,
-      "rank": 4,
+      "raw_hot": 857100,
+      "num": 857100,
+      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+      "onboard_time": 1734415159,
+      "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 887080,
-      "num": 286214,
-      "word": "发表涉樊振东不当言论学生已被通报",
-      "onboard_time": 1734414319,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 794291,
@@ -467,6 +475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 339920,
+      "num": 339920,
+      "word": "孟子义李昀锐九重紫团综flag立上了",
+      "onboard_time": 1734415759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326991,
       "num": 326991,
       "word": "第一次见地铁户型的家",
@@ -523,28 +539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305005,
+      "num": 305005,
+      "word": "阿里巴巴将银泰卖给雅戈尔",
+      "onboard_time": 1734416838,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 297725,
       "num": 297725,
       "word": "小伙见女生被偷拍上前阻止遭殴打",
       "onboard_time": 1734393436,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286355,
-      "num": 286355,
-      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
-      "onboard_time": 1734415159,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286061,
-      "num": 286061,
-      "word": "孟子义李昀锐九重紫团综flag立上了",
-      "onboard_time": 1734415759,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 282963,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230814,
+      "num": 302298,
+      "word": "被顾客多次掌掴胖东来补偿员工30000元",
+      "onboard_time": 1734416659,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228648,
       "num": 214615,
       "word": "1个墙缝同时卡住2个孩子",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 222762,
-      "num": 222762,
+      "num": 272642,
       "word": "孙颖莎9900分保持世一",
       "onboard_time": 1734398838,
       "rank": 38,
@@ -683,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "B太称随行的人也拉肚子了",
+      "onboard_time": 1734415818,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 205256,
       "num": 205256,
       "word": "宋佳女孩子就该一尘不染的漂亮",
@@ -691,12 +715,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 201732,
-      "num": 201732,
-      "word": "B太称随行的人也拉肚子了",
-      "onboard_time": 1734415818,
-      "rank": 31,
-      "category": "舆论监督"
+      "raw_hot": 200775,
+      "num": 200775,
+      "word": "理想汽车",
+      "onboard_time": 1734415098,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 200582,
@@ -737,14 +761,6 @@
       "onboard_time": 1734392537,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193873,
-      "num": 193873,
-      "word": "理想汽车",
-      "onboard_time": 1734415098,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 192277,
@@ -843,27 +859,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 174145,
-      "num": 174145,
-      "word": "阿里巴巴将银泰卖给雅戈尔",
-      "onboard_time": 1734416838,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 172933,
       "num": 236631,
       "word": "学校营造比拼氛围何必在食堂",
       "onboard_time": 1734411500,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172534,
-      "num": 172534,
-      "word": "被顾客多次掌掴胖东来补偿员工30000元",
-      "onboard_time": 1734416659,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -928,6 +928,14 @@
       "word": "国家移民管理局新闻发布会",
       "onboard_time": 1734405918,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161406,
+      "num": 472147,
+      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+      "onboard_time": 1734417259,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1211,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "保时捷中国裁员",
+      "onboard_time": 1734417679,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110003,
       "num": 107014,
       "word": "杨幂 今天我们相聚在这里",
@@ -1227,12 +1243,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106691,
+      "num": 317257,
+      "word": "男子患病躺板车30年靠养鹅养活自己",
+      "onboard_time": 1734415999,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105925,
+      "num": 105925,
+      "word": "TWS fanmeeting",
+      "onboard_time": 1734417859,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104186,
       "num": 511051,
       "word": "学校通报食堂设置学霸就餐区",
       "onboard_time": 1734409822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103894,
+      "num": 103894,
+      "word": "鹿晗背头",
+      "onboard_time": 1734417979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 102136,
@@ -1256,14 +1296,6 @@
       "word": "教育局回应教师赌博被罚10年后记过",
       "onboard_time": 1734389833,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97159,
-      "num": 317257,
-      "word": "男子患病躺板车30年靠养鹅养活自己",
-      "onboard_time": 1734415999,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1491,6 +1523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 63484,
+      "num": 207434,
+      "word": "刘耀文黑色毛线帽",
+      "onboard_time": 1734417558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63210,
       "num": 63210,
       "word": "王楚钦赢下决胜盘",
@@ -1499,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63129,
+      "num": 300770,
+      "word": "女子付款码收款码切换间隙被盗刷",
+      "onboard_time": 1734416960,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62854,
       "num": 275364,
       "word": "特朗普称将与普京和泽连斯基对话",
       "onboard_time": 1734401418,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62513,
+      "num": 388041,
+      "word": "朱婷女排世俱杯11分",
+      "onboard_time": 1734417378,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 62253,
@@ -1531,11 +1587,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 59989,
-      "num": 286268,
-      "word": "女子付款码收款码切换间隙被盗刷",
-      "onboard_time": 1734416960,
-      "rank": 19,
+      "raw_hot": 59563,
+      "num": 560573,
+      "word": "租轮椅就不排队爱心通道别被钻空子",
+      "onboard_time": 1734416120,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1600,14 +1656,6 @@
       "word": "和平饭店称298元套餐含268元导览服务",
       "onboard_time": 1734401298,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50772,
-      "num": 560573,
-      "word": "租轮椅就不排队爱心通道别被钻空子",
-      "onboard_time": 1734416120,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1803,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30953,
+      "num": 210720,
+      "word": "考研结束后你最想做什么事",
+      "onboard_time": 1734417140,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29905,
       "num": 40560,
       "word": "被抱养女子称生父母忘了她是第几个",
@@ -1985,14 +2041,6 @@
       "onboard_time": 1734370215,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8352,
-      "num": 210720,
-      "word": "考研结束后你最想做什么事",
-      "onboard_time": 1734417140,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 6954,

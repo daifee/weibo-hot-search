@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734417216568,
+  "endTime": 1734418044626,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2931,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1087344,
+      "num": 294660,
+      "word": "发表涉樊振东不当言论学生已被通报",
+      "onboard_time": 1734414319,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1087137,
       "num": 1087137,
       "word": "陈晓杭州出发",
@@ -3049,6 +3057,14 @@
       "onboard_time": 1733877500,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1064013,
+      "num": 1064013,
+      "word": "王鹤棣歌词 猴子温朱",
+      "onboard_time": 1734416479,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 1060789,
@@ -3667,14 +3683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 958209,
-      "num": 634705,
-      "word": "王鹤棣歌词 猴子温朱",
-      "onboard_time": 1734416479,
-      "rank": 6,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 954483,
       "num": 954483,
       "word": "反对派进入叙利亚总统府",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1733646618,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 943771,
+      "num": 943771,
+      "word": "百草味发霉致孕妇住院事件反转",
+      "onboard_time": 1734414079,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 940002,
@@ -3911,14 +3927,6 @@
       "num": 922313,
       "word": "教育局回应老师被多名小学生写信投诉",
       "onboard_time": 1733115079,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 920061,
-      "num": 920061,
-      "word": "百草味发霉致孕妇住院事件反转",
-      "onboard_time": 1734414079,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -4121,14 +4129,6 @@
       "onboard_time": 1733219960,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 887080,
-      "num": 286214,
-      "word": "发表涉樊振东不当言论学生已被通报",
-      "onboard_time": 1734414319,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 886503,
@@ -4449,6 +4449,14 @@
       "onboard_time": 1734257000,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 857100,
+      "num": 857100,
+      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+      "onboard_time": 1734415159,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 857022,
@@ -14307,6 +14315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339920,
+      "num": 339920,
+      "word": "孟子义李昀锐九重紫团综flag立上了",
+      "onboard_time": 1734415759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339874,
       "num": 339874,
       "word": "赵雅芝 重要的事情说三遍",
@@ -15755,6 +15771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 305005,
+      "num": 305005,
+      "word": "阿里巴巴将银泰卖给雅戈尔",
+      "onboard_time": 1734416838,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 304839,
       "num": 304839,
       "word": "韩安冉为晒和韩亿合照道歉",
@@ -16667,14 +16691,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 286355,
-      "num": 286355,
-      "word": "殡葬单位面试要先在遗体冷藏室10分钟",
-      "onboard_time": 1734415159,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286277,
       "num": 286277,
       "word": "小杨哥被冻结51万股权",
@@ -16689,14 +16705,6 @@
       "onboard_time": 1734179241,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286061,
-      "num": 286061,
-      "word": "孟子义李昀锐九重紫团综flag立上了",
-      "onboard_time": 1734415759,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 285988,
@@ -20163,6 +20171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230814,
+      "num": 302298,
+      "word": "被顾客多次掌掴胖东来补偿员工30000元",
+      "onboard_time": 1734416659,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230773,
       "num": 230773,
       "word": "国乒回应8比1战胜美国队",
@@ -20964,7 +20980,7 @@
     },
     {
       "raw_hot": 222762,
-      "num": 222762,
+      "num": 272642,
       "word": "孙颖莎9900分保持世一",
       "onboard_time": 1734398838,
       "rank": 38,
@@ -22659,6 +22675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 206549,
+      "num": 206549,
+      "word": "B太称随行的人也拉肚子了",
+      "onboard_time": 1734415818,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 206514,
       "num": 284200,
       "word": "周密的精神状态",
@@ -23491,14 +23515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201732,
-      "num": 201732,
-      "word": "B太称随行的人也拉肚子了",
-      "onboard_time": 1734415818,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 201685,
       "num": 201685,
       "word": "张新成全英文主持",
@@ -23657,6 +23673,14 @@
       "onboard_time": 1733829440,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200775,
+      "num": 200775,
+      "word": "理想汽车",
+      "onboard_time": 1734415098,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 200763,
@@ -25057,14 +25081,6 @@
       "onboard_time": 1734263896,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193873,
-      "num": 193873,
-      "word": "理想汽车",
-      "onboard_time": 1734415098,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 193868,
@@ -28627,14 +28643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174145,
-      "num": 174145,
-      "word": "阿里巴巴将银泰卖给雅戈尔",
-      "onboard_time": 1734416838,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 174137,
       "num": 174137,
       "word": "2024的豹猫cp",
@@ -28921,14 +28929,6 @@
       "onboard_time": 1734177200,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172534,
-      "num": 172534,
-      "word": "被顾客多次掌掴胖东来补偿员工30000元",
-      "onboard_time": 1734416659,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172502,
@@ -31129,6 +31129,14 @@
       "onboard_time": 1732983019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161406,
+      "num": 472147,
+      "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+      "onboard_time": 1734417259,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161351,
@@ -40995,6 +41003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "保时捷中国裁员",
+      "onboard_time": 1734417679,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110113,
       "num": 474856,
       "word": "郑旗死腿快开",
@@ -41635,6 +41651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106691,
+      "num": 317257,
+      "word": "男子患病躺板车30年靠养鹅养活自己",
+      "onboard_time": 1734415999,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106617,
       "num": 106856,
       "word": "6岁小孩姐跑完42公里全马",
@@ -41737,6 +41761,14 @@
       "onboard_time": 1734152419,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105925,
+      "num": 105925,
+      "word": "TWS fanmeeting",
+      "onboard_time": 1734417859,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 105865,
@@ -41993,6 +42025,14 @@
       "onboard_time": 1733807599,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103894,
+      "num": 103894,
+      "word": "鹿晗背头",
+      "onboard_time": 1734417979,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 103880,
@@ -42968,14 +43008,6 @@
       "word": "福宝吃播上新",
       "onboard_time": 1734221417,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97159,
-      "num": 317257,
-      "word": "男子患病躺板车30年靠养鹅养活自己",
-      "onboard_time": 1734415999,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -47763,6 +47795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63484,
+      "num": 207434,
+      "word": "刘耀文黑色毛线帽",
+      "onboard_time": 1734417558,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63423,
       "num": 63423,
       "word": "杨紫家业紫衣古装路透",
@@ -47809,6 +47849,14 @@
       "onboard_time": 1734390915,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63129,
+      "num": 300770,
+      "word": "女子付款码收款码切换间隙被盗刷",
+      "onboard_time": 1734416960,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63091,
@@ -47889,6 +47937,14 @@
       "onboard_time": 1733607612,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62513,
+      "num": 388041,
+      "word": "朱婷女排世俱杯11分",
+      "onboard_time": 1734417378,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 62484,
@@ -48275,14 +48331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59989,
-      "num": 286268,
-      "word": "女子付款码收款码切换间隙被盗刷",
-      "onboard_time": 1734416960,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59983,
       "num": 277050,
       "word": "部落冲突",
@@ -48305,6 +48353,14 @@
       "onboard_time": 1734189920,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59563,
+      "num": 560573,
+      "word": "租轮椅就不排队爱心通道别被钻空子",
+      "onboard_time": 1734416120,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59493,
@@ -49905,14 +49961,6 @@
       "onboard_time": 1734137836,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 50772,
-      "num": 560573,
-      "word": "租轮椅就不排队爱心通道别被钻空子",
-      "onboard_time": 1734416120,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50696,
@@ -54273,6 +54321,14 @@
       "onboard_time": 1734114554,
       "rank": 45,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 30953,
+      "num": 210720,
+      "word": "考研结束后你最想做什么事",
+      "onboard_time": 1734417140,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 30947,
@@ -59097,14 +59153,6 @@
       "onboard_time": 1733256071,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8352,
-      "num": 210720,
-      "word": "考研结束后你最想做什么事",
-      "onboard_time": 1734417140,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 8318,

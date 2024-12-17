@@ -1,0 +1,410 @@
+{
+  "runTime": 1734418044626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391103,
+        "num": 1391103,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1064013,
+        "num": 1064013,
+        "word": "王鹤棣歌词 猴子温朱",
+        "onboard_time": 1734416479,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107222,
+        "num": 949335,
+        "word": "15个字概括我国当前经济形势",
+        "onboard_time": 1734409822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 943771,
+        "num": 943771,
+        "word": "百草味发霉致孕妇住院事件反转",
+        "onboard_time": 1734414079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857100,
+        "num": 857100,
+        "word": "殡葬单位面试要先在遗体冷藏室10分钟",
+        "onboard_time": 1734415159,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510960,
+        "num": 510960,
+        "word": "李建平被执行死刑",
+        "onboard_time": 1734408439,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911918,
+        "num": 504800,
+        "word": "王鹤棣演唱会 打折",
+        "onboard_time": 1734412399,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 907598,
+        "num": 495069,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 887158,
+        "num": 482898,
+        "word": "卢昱晓 刘亦菲在那里我也想去",
+        "onboard_time": 1734414799,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161406,
+        "num": 472147,
+        "word": "殡葬单位称在遗体冷藏室10分钟是考试方法",
+        "onboard_time": 1734417259,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678440,
+        "num": 466917,
+        "word": "这件衣服救过孙俪的命吗",
+        "onboard_time": 1734411381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578889,
+        "num": 453691,
+        "word": "杨紫 唯一90花",
+        "onboard_time": 1734411441,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448705,
+        "num": 448705,
+        "word": "给东方青苍配音磕一个",
+        "onboard_time": 1734413780,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62513,
+        "num": 388041,
+        "word": "朱婷女排世俱杯11分",
+        "onboard_time": 1734417378,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357139,
+        "num": 357139,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339920,
+        "num": 339920,
+        "word": "孟子义李昀锐九重紫团综flag立上了",
+        "onboard_time": 1734415759,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316528,
+        "num": 316528,
+        "word": "江小白为啥不火了",
+        "onboard_time": 1734409760,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 305005,
+        "num": 305005,
+        "word": "阿里巴巴将银泰卖给雅戈尔",
+        "onboard_time": 1734416838,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230814,
+        "num": 302298,
+        "word": "被顾客多次掌掴胖东来补偿员工30000元",
+        "onboard_time": 1734416659,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63129,
+        "num": 300770,
+        "word": "女子付款码收款码切换间隙被盗刷",
+        "onboard_time": 1734416960,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59563,
+        "num": 296813,
+        "word": "租轮椅就不排队爱心通道别被钻空子",
+        "onboard_time": 1734416120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1087344,
+        "num": 294660,
+        "word": "发表涉樊振东不当言论学生已被通报",
+        "onboard_time": 1734414319,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515412,
+        "num": 289153,
+        "word": "江西一学生发表涉樊振东的不当言论",
+        "onboard_time": 1734410901,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288101,
+        "num": 288101,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63582,
+        "num": 272642,
+        "word": "孙颖莎9900分保持世一",
+        "onboard_time": 1734398838,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269201,
+        "num": 269201,
+        "word": "17岁男孩系自缢身亡不构成刑事案件",
+        "onboard_time": 1734407179,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 264897,
+        "num": 264897,
+        "word": "32岁减百斤后保持三年的自律生活",
+        "onboard_time": 1734411740,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 208714,
+        "num": 208714,
+        "word": "孟子义和徐志胜女友煲电话粥",
+        "onboard_time": 1734405798,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63484,
+        "num": 207434,
+        "word": "刘耀文黑色毛线帽",
+        "onboard_time": 1734417558,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 206603,
+        "word": "考研结束后你最想做什么事",
+        "onboard_time": 1734417140,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206549,
+        "num": 206549,
+        "word": "B太称随行的人也拉肚子了",
+        "onboard_time": 1734415818,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 200775,
+        "num": 200775,
+        "word": "理想汽车",
+        "onboard_time": 1734415098,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196766,
+        "num": 196766,
+        "word": "浙江6个口岸过境免签可停留240小时",
+        "onboard_time": 1734408201,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177894,
+        "num": 177894,
+        "word": "沈腾 坏了冲我来的",
+        "onboard_time": 1734407539,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153172,
+        "num": 153172,
+        "word": "宋佳女孩子就该一尘不染的漂亮",
+        "onboard_time": 1734413839,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106691,
+        "num": 152699,
+        "word": "男子患病躺板车30年靠养鹅养活自己",
+        "onboard_time": 1734415999,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152550,
+        "num": 152550,
+        "word": "谢娜胡歌高圆圆20年好友",
+        "onboard_time": 1734411561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147695,
+        "num": 147695,
+        "word": "全国散打季军遭多名运动员群殴",
+        "onboard_time": 1734411800,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 142685,
+        "num": 142685,
+        "word": "过境免签外国人停留时间延长为240小时",
+        "onboard_time": 1734402498,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136576,
+        "num": 136576,
+        "word": "叠纸起诉派克特",
+        "onboard_time": 1734412461,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121036,
+        "num": 121036,
+        "word": "我关闭了朋友圈拒绝焦虑与内耗",
+        "onboard_time": 1734402617,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119164,
+        "num": 119164,
+        "word": "宋佳杨幂刘诗诗嘉人合照",
+        "onboard_time": 1734413599,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117458,
+        "num": 117458,
+        "word": "尹锡悦戒严令背后惊天阴谋曝光",
+        "onboard_time": 1734404898,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111030,
+        "num": 111030,
+        "word": "B太 菏泽",
+        "onboard_time": 1734408741,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110756,
+        "num": 110756,
+        "word": "胖东来客流比5A景区还多",
+        "onboard_time": 1734416179,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110114,
+        "num": 110114,
+        "word": "保时捷中国裁员",
+        "onboard_time": 1734417679,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107639,
+        "num": 107639,
+        "word": "奚梦瑶被夸状态好坦言要做医美",
+        "onboard_time": 1734402137,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105925,
+        "num": 105925,
+        "word": "TWS fanmeeting",
+        "onboard_time": 1734417859,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104314,
+        "num": 104314,
+        "word": "湖南卫视跨年全阵容",
+        "onboard_time": 1734408139,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103894,
+        "num": 103894,
+        "word": "鹿晗背头",
+        "onboard_time": 1734417979,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与澳门青少年#"
+    }
+  }
+}
