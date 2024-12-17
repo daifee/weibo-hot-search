@@ -1,9 +1,9 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734425169725,
+  "endTime": 1734427597940,
   "band_list": [
     {
-      "raw_hot": 4137073,
+      "raw_hot": 4266097,
       "num": 4137073,
       "word": "南大碎尸案逝者家属喊话张译",
       "onboard_time": 1734423139,
@@ -81,6 +81,14 @@
       "onboard_time": 1734405439,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1152580,
+      "num": 1184412,
+      "word": "悉尼碎尸案发现疑似死者丈夫尸体",
+      "onboard_time": 1734424819,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1133278,
@@ -177,6 +185,14 @@
       "onboard_time": 1734417259,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 799536,
+      "num": 525703,
+      "word": "张馨予老公接机",
+      "onboard_time": 1734426319,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 794291,
@@ -283,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 662857,
+      "num": 290416,
+      "word": "可口可乐代言人",
+      "onboard_time": 1734422358,
+      "rank": 29,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 650207,
       "num": 487503,
       "word": "孟子义和徐志胜女友煲电话粥",
@@ -355,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 564499,
-      "num": 290416,
-      "word": "可口可乐代言人",
-      "onboard_time": 1734422358,
-      "rank": 29,
-      "category": "美食,艺人"
+      "raw_hot": 523692,
+      "num": 523692,
+      "word": "南大碎尸案",
+      "onboard_time": 1734425600,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523018,
+      "num": 523018,
+      "word": "大奉打更人开播时间",
+      "onboard_time": 1734423980,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 518735,
@@ -393,6 +425,14 @@
       "onboard_time": 1734408201,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 496808,
+      "num": 496808,
+      "word": "25岁虎牙女主播酷萱疑意外去世",
+      "onboard_time": 1734423918,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 496268,
@@ -433,6 +473,14 @@
       "onboard_time": 1734413780,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461291,
+      "num": 461291,
+      "word": "赵又廷是高圆圆的情绪出口",
+      "onboard_time": 1734423918,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 454785,
@@ -491,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385978,
-      "num": 306611,
-      "word": "赵又廷是高圆圆的情绪出口",
-      "onboard_time": 1734423918,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 381079,
+      "num": 381079,
+      "word": "杨幂在郭碧婷后面模仿向佐",
+      "onboard_time": 1734426680,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 380714,
@@ -571,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335708,
-      "num": 305420,
-      "word": "25岁虎牙女主播酷萱疑意外去世",
-      "onboard_time": 1734423918,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 327944,
       "num": 327944,
       "word": "林诗栋谈樊振东对阵王楚钦",
@@ -651,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289327,
-      "num": 289327,
-      "word": "大奉打更人开播时间",
-      "onboard_time": 1734423980,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285208,
       "num": 354695,
       "word": "被顾客多次掌掴胖东来补偿员工30000元",
@@ -712,6 +744,14 @@
       "word": "田曦薇方称逐玉绝对平番",
       "onboard_time": 1734396079,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 264809,
+      "num": 209148,
+      "word": "九重紫王映雪下线",
+      "onboard_time": 1734426020,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -787,11 +827,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221743,
+      "num": 200766,
+      "word": "肖战睡衣路透",
+      "onboard_time": 1734425899,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220876,
+      "num": 299010,
+      "word": "外交部回应韩国流行周五下班去中国",
+      "onboard_time": 1734425118,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220822,
       "num": 371686,
       "word": "宋旻浩服役被举报不上班",
       "onboard_time": 1734405318,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220023,
+      "num": 296213,
+      "word": "章昊回福师大了",
+      "onboard_time": 1734425059,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -883,6 +947,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199967,
+      "num": 209464,
+      "word": "多账号直播展示单县羊汤变白过程",
+      "onboard_time": 1734426258,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 199822,
+      "num": 199822,
+      "word": "白鹿 我再也不相信孟子义了",
+      "onboard_time": 1734425181,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198205,
       "num": 198205,
       "word": "李昀锐工作室有我们自己人",
@@ -955,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186378,
+      "num": 186378,
+      "word": "大奉打更人",
+      "onboard_time": 1734427159,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186339,
       "num": 148955,
       "word": "宋佳钟楚曦一见面就哭了",
@@ -979,20 +1067,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182611,
+      "num": 498188,
+      "word": "莫斯科爆炸定性为恐怖袭击",
+      "onboard_time": 1734426139,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182397,
       "num": 182397,
       "word": "王楚钦将在总决赛全力以赴",
       "onboard_time": 1734399978,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179380,
-      "num": 179380,
-      "word": "悉尼碎尸案发现疑似死者丈夫尸体",
-      "onboard_time": 1734424819,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 177089,
@@ -1155,6 +1243,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 160770,
+      "num": 160770,
+      "word": "B太称从未提过生病与羊汤有关",
+      "onboard_time": 1734425059,
+      "rank": 48,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 160318,
       "num": 160318,
       "word": "家暴受害人起诉离婚需45天冷静期",
@@ -1235,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155038,
-      "num": 296213,
-      "word": "章昊回福师大了",
-      "onboard_time": 1734425059,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153870,
       "num": 153870,
       "word": "柳智敏申有娜雪允合作舞台",
@@ -1257,6 +1345,14 @@
       "onboard_time": 1734416179,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152202,
+      "num": 152202,
+      "word": "自闭症孩子课间撞墙被同学温柔抱住",
+      "onboard_time": 1734425959,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 151627,
@@ -1339,14 +1435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143261,
-      "num": 143261,
-      "word": "B太称从未提过生病与羊汤有关",
-      "onboard_time": 1734425059,
-      "rank": 48,
-      "category": "舆论监督,网红"
-    },
-    {
       "raw_hot": 142172,
       "num": 654816,
       "word": "为什么年轻人越来越热衷玄学",
@@ -1409,14 +1497,6 @@
       "onboard_time": 1734398658,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137686,
-      "num": 299010,
-      "word": "外交部回应韩国流行周五下班去中国",
-      "onboard_time": 1734425118,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 134252,
@@ -1539,6 +1619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 112541,
+      "num": 209454,
+      "word": "桃黑黑女寝系列",
+      "onboard_time": 1734426200,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111217,
       "num": 111217,
       "word": "王楚钦连续51周霸榜世排第一",
@@ -1572,7 +1660,7 @@
     },
     {
       "raw_hot": 108259,
-      "num": 143339,
+      "num": 200889,
       "word": "黑神话美术总监回复网友说真的好气",
       "onboard_time": 1734424639,
       "rank": 47,
@@ -1737,6 +1825,14 @@
       "onboard_time": 1734359481,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76435,
+      "num": 212125,
+      "word": "刘诗诗时尚芭莎2025开年刊",
+      "onboard_time": 1734427219,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 76185,
@@ -2011,6 +2107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 51918,
+      "num": 229109,
+      "word": "白百何 淡颜",
+      "onboard_time": 1734427219,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51886,
       "num": 51886,
       "word": "为中国航天点赞",
@@ -2260,7 +2364,7 @@
     },
     {
       "raw_hot": 32455,
-      "num": 183104,
+      "num": 209128,
       "word": "奇瑞风云A8L发布现场撞车",
       "onboard_time": 1734424580,
       "rank": 40,
@@ -2307,12 +2411,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 25646,
+      "num": 209227,
+      "word": "女主角搞事业已成古装剧热门赛道",
+      "onboard_time": 1734426379,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
       "onboard_time": 1734424639,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24213,
+      "num": 208914,
+      "word": "这个世界有点美好",
+      "onboard_time": 1734426319,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 23861,
@@ -2328,6 +2448,14 @@
       "word": "5家券商被投资者告上法院",
       "onboard_time": 1734410061,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20212,
+      "num": 405353,
+      "word": "湖南一高校回应保安被曝虐狗",
+      "onboard_time": 1734427281,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
