@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734443040918,
+  "endTime": 1734445386409,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -89,6 +89,14 @@
       "onboard_time": 1734413299,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1450728,
+      "num": 1450728,
+      "word": "贾玲回应瘦身后观众缘松动",
+      "onboard_time": 1734442640,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1278572,
@@ -611,6 +619,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 481342,
+      "num": 191082,
+      "word": "杨洋汪苏泷王楚钦同框",
+      "onboard_time": 1734442879,
+      "rank": 37,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 476936,
+      "num": 476936,
+      "word": "疑似涉黄私人影院注册资本仅10万",
+      "onboard_time": 1734438439,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464802,
       "num": 464802,
       "word": "给东方青苍配音磕一个",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 328871,
-      "num": 249374,
+      "num": 282312,
       "word": "虞书欣专辑试听",
       "onboard_time": 1734442040,
       "rank": 22,
@@ -907,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284282,
+      "num": 284282,
+      "word": "当你不停运动三个月后",
+      "onboard_time": 1734443061,
+      "rank": 16,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 282963,
       "num": 282963,
       "word": "刘亦菲惠英红C位",
@@ -928,6 +960,14 @@
       "word": "呼伦贝尔冷到吹泡泡吹出冰球",
       "onboard_time": 1734398118,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276945,
+      "num": 348297,
+      "word": "家长从学生冬季校服中扯出薄膜",
+      "onboard_time": 1734440119,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -955,12 +995,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267783,
+      "num": 267783,
+      "word": "陈梦再谈夺得奥运冠军感受",
+      "onboard_time": 1734441978,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266986,
+      "num": 266986,
+      "word": "在韩国花71w韩元化妆是什么水平",
+      "onboard_time": 1734439579,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 258056,
       "num": 252100,
       "word": "时代峰峻起诉马嘉祺黑粉",
       "onboard_time": 1734437839,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257584,
+      "num": 257584,
+      "word": "李昀锐的水肿不是骗人的",
+      "onboard_time": 1734444140,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 254954,
@@ -1027,22 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235868,
-      "num": 235868,
-      "word": "疑似涉黄私人影院注册资本仅10万",
-      "onboard_time": 1734438439,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233785,
-      "num": 233785,
-      "word": "贾玲回应瘦身后观众缘松动",
-      "onboard_time": 1734442640,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230903,
       "num": 313611,
       "word": "叠纸起诉派克特",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1734396318,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228574,
-      "num": 228574,
-      "word": "陈梦再谈夺得奥运冠军感受",
-      "onboard_time": 1734441978,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 226514,
@@ -1315,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194361,
-      "num": 167734,
-      "word": "在韩国花71w韩元化妆是什么水平",
-      "onboard_time": 1734439579,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 194143,
       "num": 194143,
       "word": "张韶涵被催了5年的新专辑来了",
@@ -1347,20 +1379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191365,
+      "num": 191365,
+      "word": "潘展乐说游不动了是真游不动了",
+      "onboard_time": 1734443779,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189684,
       "num": 138373,
       "word": "宋佳杨幂刘诗诗嘉人合照",
       "onboard_time": 1734413599,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 189680,
-      "num": 348297,
-      "word": "家长从学生冬季校服中扯出薄膜",
-      "onboard_time": 1734440119,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189511,
@@ -1395,20 +1427,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187387,
-      "num": 152057,
-      "word": "杨洋汪苏泷王楚钦同框",
-      "onboard_time": 1734442879,
-      "rank": 37,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 186926,
       "num": 186926,
       "word": "大奉打更人",
       "onboard_time": 1734427159,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186373,
+      "num": 186373,
+      "word": "陈梦曾因非议陷入自我怀疑",
+      "onboard_time": 1734443000,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 186339,
@@ -1427,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183354,
+      "num": 183354,
+      "word": "任嘉伦直播",
+      "onboard_time": 1734444261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182895,
       "num": 182895,
       "word": "他是谁",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1734399978,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182273,
+      "num": 330871,
+      "word": "夏之光说九重紫演爽了",
+      "onboard_time": 1734442220,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 178898,
@@ -1795,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150197,
+      "num": 150197,
+      "word": "昭昭墨墨年末我吃太好了",
+      "onboard_time": 1734444801,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150195,
       "num": 246087,
       "word": "娜扎曾因压力大长霰粒肿",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1734438919,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149075,
+      "num": 149075,
+      "word": "阴阳师",
+      "onboard_time": 1734445042,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 148859,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1734427219,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145146,
+      "num": 354931,
+      "word": "打卡四季中国河南篇",
+      "onboard_time": 1734444140,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 144791,
@@ -1995,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138285,
+      "num": 138285,
+      "word": "录音师把孟子义哄成胚胎了",
+      "onboard_time": 1734442761,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138116,
       "num": 138116,
       "word": "孙正义现身特朗普海湖庄园",
@@ -2011,12 +2091,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138018,
+      "num": 138018,
+      "word": "5个动作预防颈椎曲度变直",
+      "onboard_time": 1734445161,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137674,
       "num": 325474,
       "word": "南大碎尸案逝者家属代理律师回应",
       "onboard_time": 1734427759,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135931,
+      "num": 280790,
+      "word": "虞书欣换头像",
+      "onboard_time": 1734445101,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 134502,
@@ -2131,6 +2227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126698,
+      "num": 126698,
+      "word": "辅警输液时听到验证码立马起身",
+      "onboard_time": 1734444441,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126638,
       "num": 126638,
       "word": "张杰吃米线vlog",
@@ -2179,14 +2283,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121153,
-      "num": 121153,
-      "word": "录音师把孟子义哄成胚胎了",
-      "onboard_time": 1734442761,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120990,
       "num": 120990,
       "word": "温悦离婚净身出户",
@@ -2201,6 +2297,14 @@
       "onboard_time": 1734442520,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120313,
+      "num": 120313,
+      "word": "重庆大学 我是刑警取景地",
+      "onboard_time": 1734444021,
+      "rank": 47,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 120301,
@@ -2281,14 +2385,6 @@
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 115103,
-      "num": 115103,
-      "word": "陈梦曾因非议陷入自我怀疑",
-      "onboard_time": 1734443000,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 112823,
@@ -2385,6 +2481,14 @@
       "onboard_time": 1734432380,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99327,
+      "num": 339329,
+      "word": "王楚钦想家了",
+      "onboard_time": 1734440360,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 99233,
@@ -2611,14 +2715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 70573,
-      "num": 330871,
-      "word": "夏之光说九重紫演爽了",
-      "onboard_time": 1734442220,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69843,
       "num": 528569,
       "word": "檀健次圆梦螺蛳粉",
@@ -2648,14 +2744,6 @@
       "word": "覃海洋2024收获7.2万美元奖金",
       "onboard_time": 1734406397,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66947,
-      "num": 339329,
-      "word": "王楚钦想家了",
-      "onboard_time": 1734440360,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -2841,6 +2929,14 @@
       "onboard_time": 1734413240,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54497,
+      "num": 360275,
+      "word": "进一步扩大超长期特别国债发行规模",
+      "onboard_time": 1734443360,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52256,
@@ -3155,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34064,
+      "num": 280575,
+      "word": "高校47万余元烟酒欠条背后",
+      "onboard_time": 1734444560,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33258,
       "num": 405353,
       "word": "湖南一高校回应保安被曝虐狗",
@@ -3208,6 +3312,14 @@
       "word": "被抱养女子称生父母忘了她是第几个",
       "onboard_time": 1734390856,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29770,
+      "num": 191192,
+      "word": "抽象能力成了年轻人社交硬通货",
+      "onboard_time": 1734444560,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3409,6 +3521,14 @@
       "onboard_time": 1734423739,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18498,
+      "num": 335779,
+      "word": "一片药几分钱最卷集采结果出炉",
+      "onboard_time": 1734444560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18233,
@@ -3642,6 +3762,9 @@
     },
     {
       "word": "#中国经济有信心更有办法#"
+    },
+    {
+      "word": "#习近平心系澳门同胞福祉#"
     }
   ]
 }
