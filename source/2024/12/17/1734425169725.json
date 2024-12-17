@@ -1,0 +1,410 @@
+{
+  "runTime": 1734425169725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4137073,
+        "num": 4137073,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976042,
+        "num": 976042,
+        "word": "女子去银行存370元竟全是假币",
+        "onboard_time": 1734420500,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32998,
+        "num": 811069,
+        "word": "中国经济有望持续回升有力有进",
+        "onboard_time": 1734424220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707490,
+        "num": 707490,
+        "word": "鹿晗背头",
+        "onboard_time": 1734417979,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482068,
+        "num": 482068,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1968986,
+        "num": 481627,
+        "word": "私人影院790元套餐可舌吻触摸隐私部位",
+        "onboard_time": 1734419419,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 544133,
+        "num": 473702,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 450610,
+        "num": 450610,
+        "word": "卢昱晓 刘亦菲在那里我也想去",
+        "onboard_time": 1734414799,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68771,
+        "num": 322535,
+        "word": "法院判定靠呼吸机多活两天视同工伤",
+        "onboard_time": 1734424999,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307258,
+        "num": 307258,
+        "word": "百草味发霉致孕妇住院事件反转",
+        "onboard_time": 1734414079,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385978,
+        "num": 306611,
+        "word": "赵又廷是高圆圆的情绪出口",
+        "onboard_time": 1734423918,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374772,
+        "num": 305818,
+        "word": "阿娇早期微博三大业务",
+        "onboard_time": 1734422060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335708,
+        "num": 305420,
+        "word": "25岁虎牙女主播酷萱疑意外去世",
+        "onboard_time": 1734423918,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304469,
+        "num": 304469,
+        "word": "阿里巴巴将银泰卖给雅戈尔",
+        "onboard_time": 1734416838,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81560,
+        "num": 302127,
+        "word": "河南一景区回应用假雪冒充真雪",
+        "onboard_time": 1734423980,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35174,
+        "num": 301174,
+        "word": "田嘉瑞和草莓好配",
+        "onboard_time": 1734422718,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90009,
+        "num": 301039,
+        "word": "被抱养女子生父母称认亲并非为养老",
+        "onboard_time": 1734423260,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300978,
+        "num": 300978,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74587,
+        "num": 300758,
+        "word": "长沙一游乐园马戏演员空中坠落",
+        "onboard_time": 1734423980,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18513,
+        "num": 300537,
+        "word": "澳门2049带你80分钟环游中国",
+        "onboard_time": 1734422636,
+        "rank": 19,
+        "category": "演出,旅游"
+      },
+      {
+        "raw_hot": 390482,
+        "num": 299686,
+        "word": "丁禹兮怕过几个月会查无此人",
+        "onboard_time": 1734421819,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313364,
+        "num": 299591,
+        "word": "发表涉樊振东不当言论学生已被通报",
+        "onboard_time": 1734414319,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299239,
+        "num": 299239,
+        "word": "王鹤棣歌词 猴子温朱",
+        "onboard_time": 1734416479,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150731,
+        "num": 299054,
+        "word": "曾黎不愧是把张柏芝迷住的女人",
+        "onboard_time": 1734423319,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158976,
+        "num": 299037,
+        "word": "一诺挑染库存",
+        "onboard_time": 1734424400,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 299030,
+        "num": 299030,
+        "word": "林诗栋谈樊振东对阵王楚钦",
+        "onboard_time": 1734422418,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137686,
+        "num": 299010,
+        "word": "外交部回应韩国流行周五下班去中国",
+        "onboard_time": 1734425118,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155038,
+        "num": 296213,
+        "word": "章昊回福师大了",
+        "onboard_time": 1734425059,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4589,
+        "num": 294208,
+        "word": "领克Z10城市NOA首测直播",
+        "onboard_time": 1734421638,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24307,
+        "num": 293063,
+        "word": "全国散打季军王亲亲发声",
+        "onboard_time": 1734424639,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 564499,
+        "num": 290416,
+        "word": "可口可乐代言人",
+        "onboard_time": 1734422358,
+        "rank": 30,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 289327,
+        "num": 289327,
+        "word": "大奉打更人开播时间",
+        "onboard_time": 1734423980,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277138,
+        "num": 277138,
+        "word": "杨紫 唯一90花",
+        "onboard_time": 1734411441,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243448,
+        "num": 243448,
+        "word": "王楚钦说与樊振东的技术差不多",
+        "onboard_time": 1734418639,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242785,
+        "num": 242785,
+        "word": "这件衣服救过孙俪的命吗",
+        "onboard_time": 1734411381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231292,
+        "num": 231292,
+        "word": "被林更新烫到了",
+        "onboard_time": 1734420500,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220254,
+        "num": 220254,
+        "word": "俄罗斯回应俄军三防部队司令身亡",
+        "onboard_time": 1734422840,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187126,
+        "num": 187126,
+        "word": "王鹤棣演唱会 打折",
+        "onboard_time": 1734412399,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183614,
+        "num": 183614,
+        "word": "被顾客多次掌掴胖东来补偿员工30000元",
+        "onboard_time": 1734416659,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221653,
+        "num": 183447,
+        "word": "孙俪都不敢说甄嬛只能找她",
+        "onboard_time": 1734406578,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32455,
+        "num": 183104,
+        "word": "奇瑞风云A8L发布现场撞车",
+        "onboard_time": 1734424580,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182895,
+        "num": 182895,
+        "word": "他是谁",
+        "onboard_time": 1734424699,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78116,
+        "num": 179528,
+        "word": "戚薇只是想给每个女生一个家",
+        "onboard_time": 1734423739,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179380,
+        "num": 179380,
+        "word": "悉尼碎尸案发现疑似死者丈夫尸体",
+        "onboard_time": 1734424819,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174288,
+        "num": 174288,
+        "word": "A股出现三大变化",
+        "onboard_time": 1734424159,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157586,
+        "num": 157586,
+        "word": "俄罗斯中将基里洛夫在爆炸事件中丧生",
+        "onboard_time": 1734422418,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "Zeus军训近照",
+        "onboard_time": 1734424879,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108259,
+        "num": 143339,
+        "word": "黑神话美术总监回复网友说真的好气",
+        "onboard_time": 1734424639,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143261,
+        "num": 143261,
+        "word": "B太称从未提过生病与羊汤有关",
+        "onboard_time": 1734425059,
+        "rank": 48,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 142105,
+        "num": 142105,
+        "word": "B太称随行的人也拉肚子了",
+        "onboard_time": 1734415818,
+        "rank": 49,
+        "category": "舆论监督,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济有信心更有办法#"
+    }
+  }
+}
