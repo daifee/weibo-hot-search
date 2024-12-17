@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734454052782,
+  "endTime": 1734456112542,
   "band_list": [
     {
       "raw_hot": 1241324,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132352,
+      "num": 132352,
+      "word": "12岁女孩感染HPV涉事医院该学学法",
+      "onboard_time": 1734453437,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132289,
       "num": 132289,
       "word": "鹿晗猝不及防的互拍",
@@ -233,6 +241,14 @@
       "onboard_time": 1734434178,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104692,
+      "num": 104692,
+      "word": "大三要努力到什么程度才能考上公务员",
+      "onboard_time": 1734453976,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 103906,
@@ -371,20 +387,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 60517,
-      "num": 68757,
-      "word": "12岁女孩感染HPV涉事医院该学学法",
-      "onboard_time": 1734453437,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55735,
-      "num": 68592,
-      "word": "大三要努力到什么程度才能考上公务员",
-      "onboard_time": 1734453976,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 56254,
+      "num": 160113,
+      "word": "加拿大一周大福门店遭抢劫",
+      "onboard_time": 1734453136,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52302,
@@ -401,6 +409,30 @@
       "onboard_time": 1734450858,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44293,
+      "num": 69218,
+      "word": "盘点2024",
+      "onboard_time": 1734455054,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42772,
+      "num": 42772,
+      "word": "最疯狂时期平均每天贪200万",
+      "onboard_time": 1734455834,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41573,
+      "num": 41573,
+      "word": "杨洋活动直拍",
+      "onboard_time": 1734433400,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 29734,
