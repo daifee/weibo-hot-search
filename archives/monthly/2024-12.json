@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734432279779,
+  "endTime": 1734434434907,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2203,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1278572,
+      "num": 1278572,
+      "word": "曝iPhone17ProMax渲染图",
+      "onboard_time": 1734429979,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1275864,
       "num": 1275864,
       "word": "孙俪都不敢说甄嬛只能找她",
@@ -3099,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1067826,
+      "num": 1067826,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1065597,
       "num": 1065597,
       "word": "朱旺旺说工资没有大家想象中那么高",
@@ -3289,14 +3305,6 @@
       "onboard_time": 1733993658,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1039215,
-      "num": 1166274,
-      "word": "曝iPhone17ProMax渲染图",
-      "onboard_time": 1734429979,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1038393,
@@ -7219,6 +7227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626331,
+      "num": 626331,
+      "word": "宋墨只能活一年",
+      "onboard_time": 1734432260,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 625834,
       "num": 482681,
       "word": "包贝尔二胎叫面条",
@@ -8195,6 +8211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566198,
+      "num": 566198,
+      "word": "王楚钦可口可乐活动现场",
+      "onboard_time": 1734431358,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566112,
       "num": 566112,
       "word": "美千万年薪巨头高管遭枪杀",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1733304624,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546619,
+      "num": 513343,
+      "word": "刘亦菲孔雀绿裙",
+      "onboard_time": 1734430219,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 545503,
@@ -9449,14 +9481,6 @@
       "onboard_time": 1733459180,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 513343,
-      "num": 513343,
-      "word": "刘亦菲孔雀绿裙",
-      "onboard_time": 1734430219,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 513261,
@@ -12331,6 +12355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405073,
+      "num": 405073,
+      "word": "李昀锐十天涨粉百万",
+      "onboard_time": 1734430579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404989,
       "num": 404989,
       "word": "王鹤棣新歌歌词",
@@ -13793,6 +13825,14 @@
       "onboard_time": 1734172700,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 358292,
+      "num": 358292,
+      "word": "王楚钦汪苏泷同台",
+      "onboard_time": 1734433280,
+      "rank": 7,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 358093,
@@ -17611,6 +17651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273990,
+      "num": 292274,
+      "word": "宋雨琦内娱第一个跨年舞台",
+      "onboard_time": 1734432500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273856,
       "num": 301765,
       "word": "佟大为花期真长",
@@ -21387,14 +21435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 221136,
-      "num": 221136,
-      "word": "王楚钦可口可乐活动现场",
-      "onboard_time": 1734431358,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 221133,
       "num": 221133,
       "word": "应届生考公上岸后再考研",
@@ -21737,14 +21777,6 @@
       "onboard_time": 1733837960,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217221,
-      "num": 307475,
-      "word": "李昀锐十天涨粉百万",
-      "onboard_time": 1734430579,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 217088,
@@ -22097,6 +22129,14 @@
       "onboard_time": 1733112619,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213878,
+      "num": 213878,
+      "word": "和平饭店回应298元套餐仅有水和面包",
+      "onboard_time": 1734432619,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213874,
@@ -22667,6 +22707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "云间",
+      "onboard_time": 1734433160,
+      "rank": 26,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 209057,
       "num": 365757,
       "word": "2025江苏卫视跨年阵容",
@@ -22897,6 +22945,14 @@
       "onboard_time": 1733215640,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207195,
+      "num": 207195,
+      "word": "杨洋红丝绒西装",
+      "onboard_time": 1734433940,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207125,
@@ -24571,6 +24627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197849,
+      "num": 185343,
+      "word": "杨洋活动直拍",
+      "onboard_time": 1734433400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197807,
       "num": 159500,
       "word": "大麦上海",
@@ -25827,14 +25891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192069,
-      "num": 311481,
-      "word": "王鹤棣 如果哪天我不帅了",
-      "onboard_time": 1734432019,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 191984,
       "num": 198892,
       "word": "朴彩英手写中文上上签",
@@ -26689,6 +26745,14 @@
       "onboard_time": 1733321243,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188128,
+      "num": 277821,
+      "word": "宋雨琦经纪人夸宁艺卓好看",
+      "onboard_time": 1734432740,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 188127,
@@ -34147,6 +34211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150084,
+      "num": 344217,
+      "word": "优酷回应南大碎尸案被害人家属发文",
+      "onboard_time": 1734432740,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150080,
       "num": 150080,
       "word": "李彦宏曾对极越CEO笑称别给我亏太多",
@@ -34497,14 +34569,6 @@
       "onboard_time": 1734239478,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148488,
-      "num": 148488,
-      "word": "宋墨只能活一年",
-      "onboard_time": 1734432260,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 148418,
@@ -36779,6 +36843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137674,
+      "num": 325474,
+      "word": "南大碎尸案逝者家属代理律师回应",
+      "onboard_time": 1734427759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137530,
       "num": 137530,
       "word": "樊振东看许昕打球化身表情包",
@@ -37531,6 +37603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134097,
+      "num": 134097,
+      "word": "昭昭墨墨 在空中还啄了一口",
+      "onboard_time": 1734432319,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134051,
       "num": 297643,
       "word": "为什么你没有小时候那么讨厌蔬菜了",
@@ -37801,6 +37881,14 @@
       "onboard_time": 1734394879,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132359,
+      "num": 132359,
+      "word": "雷军公布小米su7冬季续航测试成绩",
+      "onboard_time": 1734433820,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 132357,
@@ -38449,6 +38537,14 @@
       "onboard_time": 1734254599,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128633,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128600,
@@ -40371,6 +40467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117893,
+      "num": 117893,
+      "word": "梁王组合男双世排第二",
+      "onboard_time": 1734434119,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117792,
       "num": 117792,
       "word": "杨仕泽说柳拂衣是职业生涯重要节点",
@@ -40400,6 +40504,14 @@
       "word": "这四种人遇到了请好好珍惜",
       "onboard_time": 1733586201,
       "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117345,
+      "num": 117345,
+      "word": "终于还是抠抠搜搜地花了很多钱",
+      "onboard_time": 1734432440,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -42299,14 +42411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106540,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106526,
       "num": 106526,
       "word": "泉州连大桥都戴上了簪花",
@@ -43209,6 +43313,14 @@
       "onboard_time": 1733127858,
       "rank": 28,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 100235,
+      "num": 141338,
+      "word": "韩国大叔已第5次来张家界天门山",
+      "onboard_time": 1734432380,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 100230,
@@ -46193,14 +46305,6 @@
       "onboard_time": 1734163458,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79264,
-      "num": 325474,
-      "word": "南大碎尸案逝者家属代理律师回应",
-      "onboard_time": 1734427759,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79248,
@@ -56315,6 +56419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25280,
+      "num": 216176,
+      "word": "王楚钦周启豪互动",
+      "onboard_time": 1734433640,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -56779,6 +56891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23020,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23016,
       "num": 282524,
       "word": "郑燕姿说韩安然一点都没有做错",
@@ -57049,14 +57169,6 @@
       "onboard_time": 1733888541,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 21810,
-      "num": 303289,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 21808,

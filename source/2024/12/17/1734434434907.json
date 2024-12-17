@@ -1,0 +1,410 @@
+{
+  "runTime": 1734434434907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1278572,
+        "num": 1278572,
+        "word": "曝iPhone17ProMax渲染图",
+        "onboard_time": 1734429979,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1067826,
+        "num": 1067826,
+        "word": "王鹤棣 如果哪天我不帅了",
+        "onboard_time": 1734432019,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 56640,
+        "num": 746585,
+        "word": "中国经济有望持续回升有力有进",
+        "onboard_time": 1734424220,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 626331,
+        "num": 626331,
+        "word": "宋墨只能活一年",
+        "onboard_time": 1734432260,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566198,
+        "num": 566198,
+        "word": "王楚钦可口可乐活动现场",
+        "onboard_time": 1734431358,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563003,
+        "num": 563003,
+        "word": "刁爱青家属代理律师呼吁尊重历史事实",
+        "onboard_time": 1734428839,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405073,
+        "num": 405073,
+        "word": "李昀锐十天涨粉百万",
+        "onboard_time": 1734430579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358292,
+        "num": 358292,
+        "word": "王楚钦汪苏泷同台",
+        "onboard_time": 1734433280,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 3271566,
+        "num": 355570,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150084,
+        "num": 344217,
+        "word": "优酷回应南大碎尸案被害人家属发文",
+        "onboard_time": 1734432740,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1106326,
+        "num": 334328,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 10,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 680571,
+        "num": 324962,
+        "word": "杨幂在郭碧婷后面模仿向佐",
+        "onboard_time": 1734426680,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558545,
+        "num": 322059,
+        "word": "王灿",
+        "onboard_time": 1734428781,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546619,
+        "num": 306945,
+        "word": "刘亦菲孔雀绿裙",
+        "onboard_time": 1734430219,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306122,
+        "num": 306122,
+        "word": "多账号直播展示单县羊汤变白过程",
+        "onboard_time": 1734426258,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 541622,
+        "num": 304361,
+        "word": "张馨予老公接机",
+        "onboard_time": 1734426319,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300986,
+        "num": 300986,
+        "word": "悉尼碎尸案发现疑似死者丈夫尸体",
+        "onboard_time": 1734424819,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273990,
+        "num": 292274,
+        "word": "宋雨琦内娱第一个跨年舞台",
+        "onboard_time": 1734432500,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291527,
+        "num": 291527,
+        "word": "特朗普说美中联手可解决世界上所有问题",
+        "onboard_time": 1734413299,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188128,
+        "num": 277821,
+        "word": "宋雨琦经纪人夸宁艺卓好看",
+        "onboard_time": 1734432740,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266595,
+        "num": 266595,
+        "word": "折月亮 林一",
+        "onboard_time": 1734429080,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23020,
+        "num": 266385,
+        "word": "一分钟get虞书欣的旅拍技巧",
+        "onboard_time": 1734430337,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266293,
+        "num": 266293,
+        "word": "女子去银行存370元竟全是假币",
+        "onboard_time": 1734420500,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218536,
+        "num": 218536,
+        "word": "丁禹兮怕过几个月会查无此人",
+        "onboard_time": 1734421819,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25280,
+        "num": 216176,
+        "word": "王楚钦周启豪互动",
+        "onboard_time": 1734433640,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213878,
+        "num": 213878,
+        "word": "和平饭店回应298元套餐仅有水和面包",
+        "onboard_time": 1734432619,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209098,
+        "num": 209098,
+        "word": "云间",
+        "onboard_time": 1734433160,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207195,
+        "num": 207195,
+        "word": "杨洋红丝绒西装",
+        "onboard_time": 1734433940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199812,
+        "num": 199812,
+        "word": "莫斯科爆炸定性为恐怖袭击",
+        "onboard_time": 1734426139,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195137,
+        "num": 195137,
+        "word": "丁禹兮空降",
+        "onboard_time": 1734433879,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639311,
+        "num": 190854,
+        "word": "可口可乐发布会",
+        "onboard_time": 1734429020,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367073,
+        "num": 186397,
+        "word": "可口可乐代言人",
+        "onboard_time": 1734422358,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197849,
+        "num": 185343,
+        "word": "杨洋活动直拍",
+        "onboard_time": 1734433400,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180417,
+        "num": 180417,
+        "word": "我走出永夜星河了 他还没走出东方青苍",
+        "onboard_time": 1734407959,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178731,
+        "num": 178731,
+        "word": "25岁虎牙女主播酷萱疑意外去世",
+        "onboard_time": 1734423918,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177903,
+        "num": 177903,
+        "word": "贾玲 新华社采访",
+        "onboard_time": 1734429559,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173269,
+        "num": 173269,
+        "word": "外交部回应韩国流行周五下班去中国",
+        "onboard_time": 1734425118,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165985,
+        "num": 165985,
+        "word": "鹿晗背头",
+        "onboard_time": 1734417979,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164749,
+        "num": 164749,
+        "word": "自闭症孩子课间撞墙被同学温柔抱住",
+        "onboard_time": 1734425959,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 146387,
+        "num": 146387,
+        "word": "王楚钦说与樊振东的技术差不多",
+        "onboard_time": 1734418639,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100235,
+        "num": 141338,
+        "word": "韩国大叔已第5次来张家界天门山",
+        "onboard_time": 1734432380,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137674,
+        "num": 137674,
+        "word": "南大碎尸案逝者家属代理律师回应",
+        "onboard_time": 1734427759,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134097,
+        "num": 134097,
+        "word": "昭昭墨墨 在空中还啄了一口",
+        "onboard_time": 1734432319,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132968,
+        "num": 132968,
+        "word": "中国144小时变240小时",
+        "onboard_time": 1734402859,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "雷军公布小米su7冬季续航测试成绩",
+        "onboard_time": 1734433820,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128633,
+        "num": 128633,
+        "word": "离婚夫妻为争女儿互曝黑料",
+        "onboard_time": 1734430638,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120272,
+        "num": 120272,
+        "word": "贾玲说观众是我心底里的光",
+        "onboard_time": 1734428781,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117893,
+        "num": 117893,
+        "word": "梁王组合男双世排第二",
+        "onboard_time": 1734434119,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117345,
+        "num": 117345,
+        "word": "终于还是抠抠搜搜地花了很多钱",
+        "onboard_time": 1734432440,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116693,
+        "num": 116693,
+        "word": "九重紫",
+        "onboard_time": 1734428599,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#七子之歌永远能听出新意#"
+    }
+  }
+}

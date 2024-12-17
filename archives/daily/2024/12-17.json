@@ -1,6 +1,6 @@
 {
   "startTime": 1734366665141,
-  "endTime": 1734432279779,
+  "endTime": 1734434434907,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1278572,
+      "num": 1278572,
+      "word": "曝iPhone17ProMax渲染图",
+      "onboard_time": 1734429979,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1275864,
       "num": 1275864,
       "word": "孙俪都不敢说甄嬛只能找她",
@@ -139,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1067826,
+      "num": 1067826,
+      "word": "王鹤棣 如果哪天我不帅了",
+      "onboard_time": 1734432019,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1064013,
       "num": 1064013,
       "word": "王鹤棣歌词 猴子温朱",
@@ -153,14 +169,6 @@
       "onboard_time": 1734402137,
       "rank": 3,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1039215,
-      "num": 1166274,
-      "word": "曝iPhone17ProMax渲染图",
-      "onboard_time": 1734429979,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1019872,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626331,
+      "num": 626331,
+      "word": "宋墨只能活一年",
+      "onboard_time": 1734432260,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614100,
       "num": 384518,
       "word": "谢娜胡歌高圆圆20年好友",
@@ -411,6 +427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 566198,
+      "num": 566198,
+      "word": "王楚钦可口可乐活动现场",
+      "onboard_time": 1734431358,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565885,
       "num": 565885,
       "word": "樊振东3比1胜王楚钦",
@@ -425,6 +449,14 @@
       "onboard_time": 1734367755,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546619,
+      "num": 513343,
+      "word": "刘亦菲孔雀绿裙",
+      "onboard_time": 1734430219,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 523018,
@@ -449,14 +481,6 @@
       "onboard_time": 1734349219,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 513343,
-      "num": 513343,
-      "word": "刘亦菲孔雀绿裙",
-      "onboard_time": 1734430219,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 501280,
@@ -587,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405073,
+      "num": 405073,
+      "word": "李昀锐十天涨粉百万",
+      "onboard_time": 1734430579,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399173,
       "num": 353003,
       "word": "阿娇早期微博三大业务",
@@ -641,6 +673,14 @@
       "onboard_time": 1734418639,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358292,
+      "num": 358292,
+      "word": "王楚钦汪苏泷同台",
+      "onboard_time": 1734433280,
+      "rank": 7,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 344121,
@@ -819,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273990,
+      "num": 292274,
+      "word": "宋雨琦内娱第一个跨年舞台",
+      "onboard_time": 1734432500,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270254,
       "num": 270254,
       "word": "田曦薇方称逐玉绝对平番",
@@ -923,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221136,
-      "num": 221136,
-      "word": "王楚钦可口可乐活动现场",
-      "onboard_time": 1734431358,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 220822,
       "num": 371686,
       "word": "宋旻浩服役被举报不上班",
@@ -953,14 +993,6 @@
       "onboard_time": 1734412940,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 217221,
-      "num": 307475,
-      "word": "李昀锐十天涨粉百万",
-      "onboard_time": 1734430579,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 217088,
@@ -995,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213878,
+      "num": 213878,
+      "word": "和平饭店回应298元套餐仅有水和面包",
+      "onboard_time": 1734432619,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210021,
       "num": 210021,
       "word": "设置学霸就餐区中学已整改取消",
@@ -1008,6 +1048,22 @@
       "word": "贾玲 新华社采访",
       "onboard_time": 1734429559,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209098,
+      "num": 209098,
+      "word": "云间",
+      "onboard_time": 1734433160,
+      "rank": 26,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 207195,
+      "num": 207195,
+      "word": "杨洋红丝绒西装",
+      "onboard_time": 1734433940,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1083,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197849,
+      "num": 185343,
+      "word": "杨洋活动直拍",
+      "onboard_time": 1734433400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197552,
       "num": 197552,
       "word": "自闭症孩子课间撞墙被同学温柔抱住",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1734411980,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195137,
+      "num": 195137,
+      "word": "丁禹兮空降",
+      "onboard_time": 1734433879,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 195010,
@@ -1121,14 +1193,6 @@
       "onboard_time": 1734409520,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192069,
-      "num": 311481,
-      "word": "王鹤棣 如果哪天我不帅了",
-      "onboard_time": 1734432019,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 189684,
@@ -1161,6 +1225,14 @@
       "onboard_time": 1734409220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188128,
+      "num": 277821,
+      "word": "宋雨琦经纪人夸宁艺卓好看",
+      "onboard_time": 1734432740,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 186926,
@@ -1523,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150084,
+      "num": 344217,
+      "word": "优酷回应南大碎尸案被害人家属发文",
+      "onboard_time": 1734432740,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149734,
       "num": 149734,
       "word": "云合",
@@ -1553,14 +1633,6 @@
       "onboard_time": 1734419479,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148488,
-      "num": 148488,
-      "word": "宋墨只能活一年",
-      "onboard_time": 1734432260,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 147780,
@@ -1699,6 +1771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137674,
+      "num": 325474,
+      "word": "南大碎尸案逝者家属代理律师回应",
+      "onboard_time": 1734427759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134502,
       "num": 134502,
       "word": "福宝进一步检查需根据福宝情况来安排",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1734416540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134097,
+      "num": 134097,
+      "word": "昭昭墨墨 在空中还啄了一口",
+      "onboard_time": 1734432319,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 134051,
@@ -1763,12 +1851,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132359,
+      "num": 132359,
+      "word": "雷军公布小米su7冬季续航测试成绩",
+      "onboard_time": 1734433820,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129730,
       "num": 129730,
       "word": "关晓彤林一cp感",
       "onboard_time": 1734361161,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128633,
+      "num": 295302,
+      "word": "离婚夫妻为争女儿互曝黑料",
+      "onboard_time": 1734430638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127619,
@@ -1827,12 +1931,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 117893,
+      "num": 117893,
+      "word": "梁王组合男双世排第二",
+      "onboard_time": 1734434119,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117592,
       "num": 250988,
       "word": "女子网上兼职配音被骗走7万多",
       "onboard_time": 1734402978,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117345,
+      "num": 117345,
+      "word": "终于还是抠抠搜搜地花了很多钱",
+      "onboard_time": 1734432440,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 116564,
@@ -1891,14 +2011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106540,
-      "num": 295302,
-      "word": "离婚夫妻为争女儿互曝黑料",
-      "onboard_time": 1734430638,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105925,
       "num": 105925,
       "word": "TWS fanmeeting",
@@ -1929,6 +2041,14 @@
       "onboard_time": 1734366857,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 100235,
+      "num": 141338,
+      "word": "韩国大叔已第5次来张家界天门山",
+      "onboard_time": 1734432380,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99233,
@@ -2033,14 +2153,6 @@
       "onboard_time": 1734361220,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79264,
-      "num": 325474,
-      "word": "南大碎尸案逝者家属代理律师回应",
-      "onboard_time": 1734427759,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79059,
@@ -2715,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25280,
+      "num": 216176,
+      "word": "王楚钦周启豪互动",
+      "onboard_time": 1734433640,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
@@ -2739,20 +2859,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 23020,
+      "num": 303289,
+      "word": "一分钟get虞书欣的旅拍技巧",
+      "onboard_time": 1734430337,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22131,
       "num": 534273,
       "word": "5家券商被投资者告上法院",
       "onboard_time": 1734410061,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21810,
-      "num": 303289,
-      "word": "一分钟get虞书欣的旅拍技巧",
-      "onboard_time": 1734430337,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 21799,
