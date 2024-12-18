@@ -1,0 +1,410 @@
+{
+  "runTime": 1734540324312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681990,
+        "num": 776062,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583025,
+        "num": 583025,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14669,
+        "num": 316216,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 279906,
+        "num": 279906,
+        "word": "博主称在大理古城要钱13天6800元",
+        "onboard_time": 1734534321,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 279824,
+        "num": 279824,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240916,
+        "num": 240916,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 226115,
+        "num": 226115,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161937,
+        "num": 161937,
+        "word": "五哈 你们的幸福吵到我了",
+        "onboard_time": 1734529100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154311,
+        "num": 154311,
+        "word": "鹿晗苹果头",
+        "onboard_time": 1734533061,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85654,
+        "num": 154271,
+        "word": "官方回应上海下雪了",
+        "onboard_time": 1734538758,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695102,
+        "num": 153750,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 660927,
+        "num": 153580,
+        "word": "警方通报上海一住宅发生刑事案件",
+        "onboard_time": 1734535940,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 352088,
+        "num": 153013,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 12,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 254089,
+        "num": 152548,
+        "word": "丁禹兮cp研究报告",
+        "onboard_time": 1734535940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196126,
+        "num": 152276,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172012,
+        "num": 151839,
+        "word": "田柾国直播",
+        "onboard_time": 1734533780,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151824,
+        "num": 151824,
+        "word": "张馨予老公接机路人视角",
+        "onboard_time": 1734529821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125141,
+        "num": 125141,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124237,
+        "num": 124237,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 18,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 124012,
+        "num": 124012,
+        "word": "猎罪图鉴2沈翊鉴茶",
+        "onboard_time": 1734534860,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448220,
+        "num": 116868,
+        "word": "乳房长疙瘩没在意检查竟是乳腺癌",
+        "onboard_time": 1734536899,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287218,
+        "num": 115575,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249096,
+        "num": 113495,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106059,
+        "num": 106059,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18590,
+        "num": 105479,
+        "word": "李盈莹拿下22分",
+        "onboard_time": 1734531321,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105135,
+        "num": 105135,
+        "word": "3个习惯让生活越来越美好",
+        "onboard_time": 1734537018,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104620,
+        "num": 104620,
+        "word": "网红厦门小程三年申报收入仅数万",
+        "onboard_time": 1734538578,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95055,
+        "num": 95055,
+        "word": "他好像摸了一下魔方就复原了",
+        "onboard_time": 1734536539,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93834,
+        "num": 93834,
+        "word": "刘畊宏帮女儿追星贺峻霖",
+        "onboard_time": 1734526520,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83691,
+        "num": 93075,
+        "word": "孟子义 我欲乘风",
+        "onboard_time": 1734533421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88951,
+        "num": 92811,
+        "word": "丁禹兮精心打扮但很狼狈的一天",
+        "onboard_time": 1734529400,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92655,
+        "num": 92655,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83976,
+        "num": 92651,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72604,
+        "num": 92648,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70204,
+        "num": 92638,
+        "word": "NewJeans自己签代言",
+        "onboard_time": 1734524180,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69892,
+        "num": 92631,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 92625,
+        "word": "国足冬训将恶补定位球",
+        "onboard_time": 1734539836,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69764,
+        "num": 92619,
+        "word": "封神2 魔家四将班味好重",
+        "onboard_time": 1734532042,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69044,
+        "num": 92612,
+        "word": "2024中国体育高光名场面",
+        "onboard_time": 1734534501,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64532,
+        "num": 92604,
+        "word": "江苏卫视跨年预约第一",
+        "onboard_time": 1734529341,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63883,
+        "num": 92600,
+        "word": "74岁斯琴高娃谈身体近况",
+        "onboard_time": 1734537078,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61517,
+        "num": 92595,
+        "word": "iG暴打RNG",
+        "onboard_time": 1734537199,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59776,
+        "num": 92581,
+        "word": "当宋墨遇到雷纯",
+        "onboard_time": 1734538038,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58159,
+        "num": 92577,
+        "word": "IG16分钟推平RNG",
+        "onboard_time": 1734527120,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57236,
+        "num": 92569,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56569,
+        "num": 92565,
+        "word": "小小的我预售破400万",
+        "onboard_time": 1734540137,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56352,
+        "num": 92560,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54180,
+        "num": 92552,
+        "word": "税务部门通报2起网络主播偷税案件",
+        "onboard_time": 1734532519,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51691,
+        "num": 92545,
+        "word": "檀健次 蝴蝶结比心",
+        "onboard_time": 1734534199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51013,
+        "num": 92536,
+        "word": "女子花368888赌石想退款被法院驳回",
+        "onboard_time": 1734533842,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
