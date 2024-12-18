@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734546745669,
+  "endTime": 1734547532689,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -12155,6 +12155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66053,
+      "num": 66053,
+      "word": "女司机报警寻找被撞的人",
+      "onboard_time": 1734543972,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 65998,
       "num": 65998,
       "word": "我国成为世界第1核电大国",
@@ -12233,14 +12241,6 @@
       "onboard_time": 1734389414,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64059,
-      "num": 64059,
-      "word": "女司机报警寻找被撞的人",
-      "onboard_time": 1734543972,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 63831,
@@ -14723,6 +14723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20300,
+      "num": 63293,
+      "word": "澳门是祖国的掌上明珠",
+      "onboard_time": 1734546131,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20162,
       "num": 379725,
       "word": "野良神 夜斗回来了",
@@ -15147,14 +15155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14401,
-      "num": 63293,
-      "word": "澳门是祖国的掌上明珠",
-      "onboard_time": 1734546131,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14372,
       "num": 190066,
       "word": "宋旻浩被兵务厅调查",
@@ -15209,6 +15209,14 @@
       "onboard_time": 1734195495,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13621,
+      "num": 33561,
+      "word": "B太已对造谣内容进行证据保留",
+      "onboard_time": 1734547331,
+      "rank": 14,
+      "category": "舆论监督,网红"
     },
     {
       "raw_hot": 13592,
