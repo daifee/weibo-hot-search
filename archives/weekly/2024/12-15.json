@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734517520968,
+  "endTime": 1734518569046,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -1411,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 648421,
+      "num": 264094,
+      "word": "90后住家保姆说永远会把自己当外人",
+      "onboard_time": 1734514760,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 647072,
       "num": 420540,
       "word": "深圳一女游客疑因拍照不慎坠海身亡",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1734225499,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 568487,
+      "num": 1090957,
+      "word": "iPhone17ProMax水平三摄模组",
+      "onboard_time": 1734513920,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 566198,
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 475925,
-      "num": 227486,
+      "num": 241332,
       "word": "新娘化妆两小时到新郎家被抹一脸黑",
       "onboard_time": 1734513200,
       "rank": 22,
@@ -2353,14 +2369,6 @@
       "onboard_time": 1734186499,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 440396,
-      "num": 440396,
-      "word": "iPhone17ProMax水平三摄模组",
-      "onboard_time": 1734513920,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 440095,
@@ -2643,6 +2651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402901,
+      "num": 402901,
+      "word": "九重紫",
+      "onboard_time": 1734165379,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400828,
       "num": 400828,
       "word": "百万新车被剐蹭车主仅让对方擦一下",
@@ -2841,6 +2857,14 @@
       "onboard_time": 1734363501,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368900,
+      "num": 257239,
+      "word": "微信朋友圈崩了",
+      "onboard_time": 1734517640,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 366932,
@@ -3451,14 +3475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294529,
-      "num": 384062,
-      "word": "九重紫",
-      "onboard_time": 1734165379,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293674,
       "num": 293674,
       "word": "猎罪图鉴一镜到底换人花絮",
@@ -3811,14 +3827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262830,
-      "num": 183093,
-      "word": "90后住家保姆说永远会把自己当外人",
-      "onboard_time": 1734514760,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262543,
       "num": 262543,
       "word": "男子坐轮椅在高速疾驰",
@@ -3908,7 +3916,7 @@
     },
     {
       "raw_hot": 254235,
-      "num": 254235,
+      "num": 272396,
       "word": "芒果跨年真是群像的神",
       "onboard_time": 1734514578,
       "rank": 42,
@@ -4235,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230766,
+      "num": 230766,
+      "word": "重案六组编剧谈改编南大碎尸案",
+      "onboard_time": 1734516620,
+      "rank": 34,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 230112,
       "num": 230112,
       "word": "东京都将启动上四休三工作制",
@@ -4276,7 +4292,7 @@
     },
     {
       "raw_hot": 228953,
-      "num": 173475,
+      "num": 199647,
       "word": "王楚钦希望大家年年欢乐",
       "onboard_time": 1734516919,
       "rank": 31,
@@ -5123,6 +5139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199475,
+      "num": 199475,
+      "word": "杨幂活动现场状态",
+      "onboard_time": 1734517102,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 198814,
       "num": 198814,
       "word": "张萌演技",
@@ -5153,6 +5177,14 @@
       "onboard_time": 1734250938,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198362,
+      "num": 198362,
+      "word": "哈尔滨冰封黄玫瑰",
+      "onboard_time": 1734517760,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 198205,
@@ -5201,14 +5233,6 @@
       "onboard_time": 1734425959,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 197514,
-      "num": 170307,
-      "word": "重案六组编剧谈改编南大碎尸案",
-      "onboard_time": 1734516620,
-      "rank": 34,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 197236,
@@ -5305,6 +5329,22 @@
       "onboard_time": 1734240138,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195482,
+      "num": 200320,
+      "word": "朴彩英上海快闪小卡",
+      "onboard_time": 1734517399,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195467,
+      "num": 269787,
+      "word": "iG全神班拿下开门红",
+      "onboard_time": 1734517038,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 195227,
@@ -5523,6 +5563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191061,
+      "num": 268180,
+      "word": "封神2妲己救活纣王",
+      "onboard_time": 1734516620,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190948,
       "num": 190948,
       "word": "竹林四侠在虞书欣背后说生日快乐",
@@ -5667,14 +5715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187613,
-      "num": 187613,
-      "word": "杨幂活动现场状态",
-      "onboard_time": 1734517102,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 187558,
       "num": 187558,
       "word": "加拿大一周大福门店遭抢劫",
@@ -5769,6 +5809,14 @@
       "onboard_time": 1734506298,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185856,
+      "num": 185856,
+      "word": "舍友把我当冰激凌发朋友圈",
+      "onboard_time": 1734517879,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 185725,
@@ -6049,6 +6097,14 @@
       "onboard_time": 1734437719,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178793,
+      "num": 178793,
+      "word": "时代少年团湖南卫视跨年官宣了",
+      "onboard_time": 1734517820,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 178448,
@@ -6379,14 +6435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170194,
-      "num": 170194,
-      "word": "封神2妲己救活纣王",
-      "onboard_time": 1734516620,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 170166,
       "num": 170166,
       "word": "电竞选手月薪5万真的算低吗",
@@ -6465,6 +6513,14 @@
       "onboard_time": 1734257658,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168682,
+      "num": 249758,
+      "word": "阴阳师夏目友人帐联动",
+      "onboard_time": 1734517102,
+      "rank": 24,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 168385,
@@ -7137,14 +7193,6 @@
       "onboard_time": 1734323841,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 155713,
-      "num": 155713,
-      "word": "iG全神班拿下开门红",
-      "onboard_time": 1734517038,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 155661,
@@ -8171,6 +8219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136686,
+      "num": 256029,
+      "word": "容嬷嬷李明启88岁了",
+      "onboard_time": 1734516860,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 136541,
       "num": 276440,
       "word": "王楚钦赛前热身再现穿越球",
@@ -8241,6 +8297,14 @@
       "onboard_time": 1734495560,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134684,
+      "num": 134684,
+      "word": "特斯拉中国工厂负责人将离职",
+      "onboard_time": 1734518181,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 134644,
@@ -8379,14 +8443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133149,
-      "num": 133149,
-      "word": "朴彩英上海快闪小卡",
-      "onboard_time": 1734517399,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 133017,
       "num": 133017,
       "word": "白鹿1到30岁颜值变化",
@@ -8417,14 +8473,6 @@
       "onboard_time": 1734410481,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 132584,
-      "num": 179950,
-      "word": "阴阳师夏目友人帐联动",
-      "onboard_time": 1734517102,
-      "rank": 24,
-      "category": "游戏,动漫"
     },
     {
       "raw_hot": 132426,
@@ -8803,14 +8851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125957,
-      "num": 125957,
-      "word": "容嬷嬷李明启88岁了",
-      "onboard_time": 1734516860,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125815,
       "num": 260551,
       "word": "溜溜梅回应争议",
@@ -9139,6 +9179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119404,
+      "num": 253519,
+      "word": "孟子义抽3位朋友去大理",
+      "onboard_time": 1734518300,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119361,
       "num": 119361,
       "word": "数据可视化看万亿之城你追我赶",
@@ -9177,6 +9225,14 @@
       "onboard_time": 1734486317,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118195,
+      "num": 206411,
+      "word": "完美女孩张元英的魅力在哪里",
+      "onboard_time": 1734516200,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 117893,
@@ -10187,12 +10243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93082,
-      "num": 206411,
-      "word": "完美女孩张元英的魅力在哪里",
-      "onboard_time": 1734516200,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 93418,
+      "num": 236500,
+      "word": "崩坏星穹铁道 加多宝",
+      "onboard_time": 1734516439,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 93054,
@@ -10433,6 +10489,14 @@
       "onboard_time": 1734365177,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 87466,
+      "num": 110715,
+      "word": "妈妈称自闭症儿子被老师同学治愈",
+      "onboard_time": 1734518541,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 87455,
@@ -10937,6 +11001,14 @@
       "onboard_time": 1734240138,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71933,
+      "num": 145798,
+      "word": "郑伊健丁克原因",
+      "onboard_time": 1734518359,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 71815,
@@ -11819,6 +11891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49317,
+      "num": 230848,
+      "word": "上海一停车场违规经营收费去向不明",
+      "onboard_time": 1734516739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49210,
       "num": 404558,
       "word": "用户被移动分类为非家庭决策人",
@@ -11928,6 +12008,14 @@
       "word": "尹锡悦现在各种拒绝",
       "onboard_time": 1734467471,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47448,
+      "num": 187713,
+      "word": "巴以将进行停火协议最后谈判",
+      "onboard_time": 1734516561,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -12555,6 +12643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35980,
+      "num": 159315,
+      "word": "美团18神券节省出新气象",
+      "onboard_time": 1734516919,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35836,
       "num": 41901,
       "word": "耿爽当场驳斥美国联合国代表",
@@ -12585,14 +12681,6 @@
       "onboard_time": 1734296471,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 35336,
-      "num": 185287,
-      "word": "上海一停车场违规经营收费去向不明",
-      "onboard_time": 1734516739,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35269,
@@ -12924,7 +13012,7 @@
     },
     {
       "raw_hot": 29932,
-      "num": 184223,
+      "num": 251439,
       "word": "台州菜为什么火了",
       "onboard_time": 1734515420,
       "rank": 19,
@@ -12961,14 +13049,6 @@
       "onboard_time": 1734452358,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29542,
-      "num": 187713,
-      "word": "巴以将进行停火协议最后谈判",
-      "onboard_time": 1734516561,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29406,
@@ -13257,14 +13337,6 @@
       "onboard_time": 1734430337,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24473,
-      "num": 159315,
-      "word": "美团18神券节省出新气象",
-      "onboard_time": 1734516919,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 24367,
