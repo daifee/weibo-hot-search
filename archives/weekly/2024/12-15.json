@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734492939440,
+  "endTime": 1734493644418,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -345,6 +345,14 @@
       "onboard_time": 1734335479,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1241322,
+      "num": 1241322,
+      "word": "印度女网红用面包做连衣裙惹众怒",
+      "onboard_time": 1734491418,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1233248,
@@ -844,7 +852,7 @@
     },
     {
       "raw_hot": 807226,
-      "num": 268047,
+      "num": 331931,
       "word": "伊朗女歌手未戴头巾唱歌被捕",
       "onboard_time": 1734491540,
       "rank": 30,
@@ -947,12 +955,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 782082,
-      "num": 782082,
-      "word": "印度女网红用面包做连衣裙惹众怒",
-      "onboard_time": 1734491418,
-      "rank": 3,
-      "category": "海外新闻"
+      "raw_hot": 776588,
+      "num": 776588,
+      "word": "网剧冬至",
+      "onboard_time": 1734491779,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 752174,
@@ -1139,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690410,
+      "num": 423171,
+      "word": "脑瘫青年发现自己的诗出现在大银幕",
+      "onboard_time": 1734489558,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 685242,
       "num": 666286,
       "word": "湖南卫视跨年全阵容",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1734436638,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 663011,
-      "num": 423171,
-      "word": "脑瘫青年发现自己的诗出现在大银幕",
-      "onboard_time": 1734489558,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 660793,
@@ -1915,20 +1923,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 482801,
+      "num": 328546,
+      "word": "于适封神2妆造",
+      "onboard_time": 1734491718,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 481342,
       "num": 191082,
       "word": "杨洋汪苏泷王楚钦同框",
       "onboard_time": 1734442879,
       "rank": 37,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 480805,
-      "num": 316415,
-      "word": "网剧冬至",
-      "onboard_time": 1734491779,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 476936,
@@ -1985,6 +1993,14 @@
       "onboard_time": 1734339140,
       "rank": 9,
       "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 468662,
+      "num": 468662,
+      "word": "花2万2网购保时捷刚落地就被查",
+      "onboard_time": 1734488959,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 468049,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1734486440,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 458878,
-      "num": 458878,
-      "word": "花2万2网购保时捷刚落地就被查",
-      "onboard_time": 1734488959,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 456166,
@@ -2164,19 +2172,11 @@
     },
     {
       "raw_hot": 432694,
-      "num": 294111,
+      "num": 322525,
       "word": "虞书欣 谢谢慕声儿",
       "onboard_time": 1734490879,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431873,
-      "num": 274597,
-      "word": "于适封神2妆造",
-      "onboard_time": 1734491718,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 430484,
@@ -2593,6 +2593,14 @@
       "onboard_time": 1734354981,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 356871,
+      "num": 287367,
+      "word": "邓婵玉好帅",
+      "onboard_time": 1734491960,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 356723,
@@ -3547,6 +3555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245958,
+      "num": 268349,
+      "word": "考研那天是北半球最长的夜晚",
+      "onboard_time": 1734492078,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 245334,
       "num": 295698,
       "word": "林诗栋3比0胜林高远",
@@ -4235,6 +4251,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 206636,
+      "num": 206636,
+      "word": "易烊千玺12月31日影院见",
+      "onboard_time": 1734493098,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206470,
       "num": 206470,
       "word": "林高远3比0徐瑛彬",
@@ -4419,14 +4443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202658,
-      "num": 284136,
-      "word": "邓婵玉好帅",
-      "onboard_time": 1734491960,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202502,
       "num": 330871,
       "word": "夏之光说九重紫演爽了",
@@ -4489,6 +4505,14 @@
       "onboard_time": 1734415098,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200687,
+      "num": 200687,
+      "word": "大奉打更人盛典",
+      "onboard_time": 1734492440,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 200582,
@@ -4795,6 +4819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193422,
+      "num": 289012,
+      "word": "张馨予老公疑转业至广州大学保卫处",
+      "onboard_time": 1734493459,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193385,
       "num": 189785,
       "word": "发现上早八的老师也很辛苦",
@@ -4907,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190490,
+      "num": 190490,
+      "word": "殷郊接头",
+      "onboard_time": 1734492679,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190397,
       "num": 190397,
       "word": "孟子义眼神戏",
@@ -4921,6 +4961,14 @@
       "onboard_time": 1734235878,
       "rank": 17,
       "category": "综艺,体育"
+    },
+    {
+      "raw_hot": 189797,
+      "num": 189797,
+      "word": "大冰 怎么拥有良好的输出和表达能力",
+      "onboard_time": 1734492561,
+      "rank": 48,
+      "category": "读书作家"
     },
     {
       "raw_hot": 189697,
@@ -4961,14 +5009,6 @@
       "onboard_time": 1734356660,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189011,
-      "num": 189011,
-      "word": "大奉打更人盛典",
-      "onboard_time": 1734492440,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 188609,
@@ -5041,14 +5081,6 @@
       "onboard_time": 1734345260,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187063,
-      "num": 268349,
-      "word": "考研那天是北半球最长的夜晚",
-      "onboard_time": 1734492078,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 187043,
@@ -5281,6 +5313,14 @@
       "onboard_time": 1734320418,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179935,
+      "num": 179935,
+      "word": "冬至先追夫后追妻",
+      "onboard_time": 1734492800,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 179752,
@@ -5611,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170330,
+      "num": 285640,
+      "word": "林孝埈为大众冰雪季打call",
+      "onboard_time": 1734493459,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170166,
       "num": 170166,
       "word": "电竞选手月薪5万真的算低吗",
@@ -5689,14 +5737,6 @@
       "onboard_time": 1734344238,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168340,
-      "num": 168340,
-      "word": "殷郊接头",
-      "onboard_time": 1734492679,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 168146,
@@ -6099,6 +6139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159481,
+      "num": 159481,
+      "word": "陈梦因腰伤无法久坐",
+      "onboard_time": 1734493580,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159359,
       "num": 159359,
       "word": "周密说没骂周芯竹",
@@ -6427,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152061,
+      "num": 270573,
+      "word": "阴阳师联动提名",
+      "onboard_time": 1734492800,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152047,
       "num": 265838,
       "word": "刘宇进组月鳞绮纪",
@@ -6683,14 +6739,6 @@
       "category": "舆论监督,体育"
     },
     {
-      "raw_hot": 146372,
-      "num": 146372,
-      "word": "大冰 怎么拥有良好的输出和表达能力",
-      "onboard_time": 1734492561,
-      "rank": 48,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 146040,
       "num": 146040,
       "word": "勇士27记三分",
@@ -6785,14 +6833,6 @@
       "onboard_time": 1734424879,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143593,
-      "num": 270573,
-      "word": "阴阳师联动提名",
-      "onboard_time": 1734492800,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 143341,
@@ -8155,6 +8195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115342,
+      "num": 293325,
+      "word": "奔跑吧揭名牌接祝福",
+      "onboard_time": 1734493160,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115195,
       "num": 460135,
       "word": "檀健次说巡演是在圆梦",
@@ -9267,6 +9315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81023,
+      "num": 332661,
+      "word": "官方调查汇源员工被镇政府人员殴打",
+      "onboard_time": 1734491660,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 80997,
       "num": 170019,
       "word": "孙颖莎加油声连绵不绝",
@@ -9345,14 +9401,6 @@
       "onboard_time": 1734184522,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78296,
-      "num": 316617,
-      "word": "官方调查汇源员工被镇政府人员殴打",
-      "onboard_time": 1734491660,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 78116,
@@ -9521,6 +9569,14 @@
       "onboard_time": 1734298391,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73030,
+      "num": 285153,
+      "word": "中字头央企指数大涨",
+      "onboard_time": 1734492860,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 72668,
@@ -9692,7 +9748,7 @@
     },
     {
       "raw_hot": 68391,
-      "num": 268162,
+      "num": 284491,
       "word": "大脑最易在3个年龄段突然变老",
       "onboard_time": 1734492860,
       "rank": 29,
@@ -9971,6 +10027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59072,
+      "num": 325060,
+      "word": "已婚女子请人扮家属骗相亲男48万",
+      "onboard_time": 1734491839,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59046,
       "num": 329902,
       "word": "杨妞花回应直播带货被质疑",
@@ -10188,7 +10252,7 @@
     },
     {
       "raw_hot": 51423,
-      "num": 163382,
+      "num": 201162,
       "word": "刘雨昕黑粉公开道歉",
       "onboard_time": 1734489738,
       "rank": 32,
@@ -10483,14 +10547,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 45223,
-      "num": 268277,
-      "word": "中字头央企指数大涨",
-      "onboard_time": 1734492860,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 45159,
       "num": 76947,
       "word": "被送养37年女子回应争议",
@@ -10531,6 +10587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44790,
+      "num": 284079,
+      "word": "讨好型人格童年都经历了什么",
+      "onboard_time": 1734493459,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 44765,
       "num": 246857,
       "word": "林高远陈垣宇vs林昀儒梁靖崑",
@@ -10561,14 +10625,6 @@
       "onboard_time": 1734401357,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 43913,
-      "num": 301058,
-      "word": "已婚女子请人扮家属骗相亲男48万",
-      "onboard_time": 1734491839,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43858,
@@ -11284,7 +11340,7 @@
     },
     {
       "raw_hot": 29306,
-      "num": 167143,
+      "num": 283262,
       "word": "Mate70AI一拍分身有术",
       "onboard_time": 1734492199,
       "rank": 42,
@@ -11521,6 +11577,14 @@
       "onboard_time": 1734359540,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24586,
+      "num": 327020,
+      "word": "魔兽世界官方回应铁血服排队严重",
+      "onboard_time": 1734492561,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 24541,
@@ -12049,14 +12113,6 @@
       "onboard_time": 1734384850,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15099,
-      "num": 312418,
-      "word": "魔兽世界官方回应铁血服排队严重",
-      "onboard_time": 1734492561,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 14806,
