@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734554364081,
+  "endTime": 1734556786789,
   "band_list": [
     {
       "raw_hot": 909117,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19116,
+      "num": 19116,
+      "word": "警方通报3男子酒后殴打陌生女子",
+      "onboard_time": 1734551531,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 18590,
       "num": 105479,
       "word": "李盈莹拿下22分",
@@ -547,12 +555,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 18162,
-      "num": 18162,
-      "word": "警方通报3男子酒后殴打陌生女子",
-      "onboard_time": 1734551531,
-      "rank": 31,
+      "raw_hot": 17466,
+      "num": 18327,
+      "word": "官方辟谣医保额度年底清零",
+      "onboard_time": 1734554232,
+      "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16998,
+      "num": 30389,
+      "word": "早上肉夹馍晚上吃晚茶",
+      "onboard_time": 1734555431,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 16269,
@@ -579,7 +595,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 15159,
+      "raw_hot": 15253,
       "num": 23292,
       "word": "秦陵兵马俑不养闲俑",
       "onboard_time": 1734552731,
@@ -595,12 +611,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 12603,
+      "raw_hot": 12682,
       "num": 23506,
       "word": "澳门回归二十五周年",
       "onboard_time": 1734550392,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12266,
+      "num": 15162,
+      "word": "俄首次披露正研发新型洲际弹道导弹",
+      "onboard_time": 1734555671,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11894,
@@ -609,14 +633,6 @@
       "onboard_time": 1734541994,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11805,
-      "num": 18327,
-      "word": "官方辟谣医保额度年底清零",
-      "onboard_time": 1734554232,
-      "rank": 24,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11522,
