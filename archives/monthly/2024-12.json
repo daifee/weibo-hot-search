@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734504329319,
+  "endTime": 1734506549007,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2972,7 +2972,7 @@
     },
     {
       "raw_hot": 1099682,
-      "num": 1099682,
+      "num": 1151073,
       "word": "杨妞花痛哭被困父母坟头1313天",
       "onboard_time": 1734499279,
       "rank": 49,
@@ -2985,6 +2985,14 @@
       "onboard_time": 1734146298,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1095936,
+      "num": 571660,
+      "word": "zeus",
+      "onboard_time": 1734502579,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 1093834,
@@ -8419,14 +8427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 571660,
-      "num": 571660,
-      "word": "zeus",
-      "onboard_time": 1734502579,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 571458,
       "num": 571458,
       "word": "腾讯回应微信提现可免手续费",
@@ -9779,6 +9779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 515560,
+      "num": 515560,
+      "word": "读研成为年轻人的缓冲期",
+      "onboard_time": 1734503540,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 515369,
       "num": 515369,
       "word": "34岁女子健身4年爆改金刚芭比",
@@ -10627,6 +10635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 479188,
+      "num": 479188,
+      "word": "谢娜真不把观众当外人",
+      "onboard_time": 1734504919,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 478679,
       "num": 478679,
       "word": "孟子义一年级哪有这么好的条件",
@@ -11363,6 +11379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454329,
+      "num": 454329,
+      "word": "李昀锐设定的三搭还是演夫妇",
+      "onboard_time": 1734502219,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453988,
       "num": 453988,
       "word": "何依婷怀孕",
@@ -12041,14 +12065,6 @@
       "onboard_time": 1733218280,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 431192,
-      "num": 431192,
-      "word": "李昀锐设定的三搭还是演夫妇",
-      "onboard_time": 1734502219,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 430484,
@@ -16707,6 +16723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 304328,
+      "num": 304328,
+      "word": "磁悬浮秋裤 身材焦虑",
+      "onboard_time": 1734503898,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304060,
       "num": 380894,
       "word": "陈乔恩为老公Alan庆生",
@@ -17585,6 +17609,14 @@
       "onboard_time": 1733112079,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286711,
+      "num": 286711,
+      "word": "李敏镐生图状态",
+      "onboard_time": 1734505159,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 286508,
@@ -22192,6 +22224,14 @@
       "word": "虞书欣观赛look",
       "onboard_time": 1733661260,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221868,
+      "num": 221868,
+      "word": "华晨宇戒酒",
+      "onboard_time": 1734505038,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -27491,6 +27531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189287,
+      "num": 189287,
+      "word": "这是回归25周年前夕的澳门街头",
+      "onboard_time": 1734503959,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 189260,
       "num": 189260,
       "word": "陈哲远 死嘴快憋住啊",
@@ -28747,6 +28795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182500,
+      "num": 182500,
+      "word": "江歌妈妈回应注销名下商户",
+      "onboard_time": 1734504078,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "11月份国民经济延续回升态势",
@@ -29201,14 +29257,6 @@
       "onboard_time": 1733932698,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 180011,
-      "num": 180011,
-      "word": "磁悬浮秋裤 身材焦虑",
-      "onboard_time": 1734503898,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 179971,
@@ -30097,6 +30145,14 @@
       "onboard_time": 1733578281,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175011,
+      "num": 269739,
+      "word": "诛仙世界",
+      "onboard_time": 1733813239,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 174986,
@@ -32547,20 +32603,20 @@
       "category": "国际时政,旅游"
     },
     {
+      "raw_hot": 162822,
+      "num": 293052,
+      "word": "于适全国骑射锦标赛发言",
+      "onboard_time": 1734503959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162817,
       "num": 162817,
       "word": "赵丽颖白日焰火记录",
       "onboard_time": 1733730560,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162763,
-      "num": 162763,
-      "word": "这是回归25周年前夕的澳门街头",
-      "onboard_time": 1734503959,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 162683,
@@ -35931,6 +35987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148404,
+      "num": 148404,
+      "word": "为什么越来越多人爱为抽象买单",
+      "onboard_time": 1734501319,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148387,
       "num": 148387,
       "word": "国乒8比2日本",
@@ -36257,14 +36321,6 @@
       "onboard_time": 1733214079,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146589,
-      "num": 204614,
-      "word": "读研成为年轻人的缓冲期",
-      "onboard_time": 1734503540,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 146563,
@@ -38827,6 +38883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135082,
+      "num": 135082,
+      "word": "李昀锐说一切都是宋墨应得的",
+      "onboard_time": 1734506298,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135069,
       "num": 207773,
       "word": "65万拎包入住上海181平精装房是真的吗",
@@ -39443,6 +39507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132316,
+      "num": 132316,
+      "word": "研究生2024年终总结已出炉",
+      "onboard_time": 1734504499,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132293,
       "num": 132293,
       "word": "贾静雯说女儿酒量比自己好",
@@ -39633,14 +39705,6 @@
       "onboard_time": 1733132119,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 131166,
-      "num": 131166,
-      "word": "江歌妈妈回应注销名下商户",
-      "onboard_time": 1734504078,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131119,
@@ -39921,6 +39985,14 @@
       "onboard_time": 1734007220,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129817,
+      "num": 219075,
+      "word": "年度十大热门游戏超话",
+      "onboard_time": 1734506238,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 129767,
@@ -40217,6 +40289,14 @@
       "onboard_time": 1734164658,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127709,
+      "num": 127709,
+      "word": "原神5.3版本直播",
+      "onboard_time": 1734504919,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 127619,
@@ -40825,6 +40905,14 @@
       "onboard_time": 1734192800,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124920,
+      "num": 124920,
+      "word": "何炅回忆和撒贝宁一起吃宵夜",
+      "onboard_time": 1734506057,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124893,
@@ -45051,6 +45139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100717,
+      "num": 135184,
+      "word": "catti成绩",
+      "onboard_time": 1734506179,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100674,
       "num": 100674,
       "word": "十个勤天直播为陈少熙庆生",
@@ -48467,6 +48563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77425,
+      "num": 189364,
+      "word": "官方回应飞鹤两次抽检不合格",
+      "onboard_time": 1734505639,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 77415,
       "num": 249274,
       "word": "白鹿打卡浪漫大理",
@@ -48737,14 +48841,6 @@
       "onboard_time": 1734101421,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75557,
-      "num": 269739,
-      "word": "诛仙世界",
-      "onboard_time": 1733813239,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 75507,
@@ -49787,6 +49883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68749,
+      "num": 325996,
+      "word": "他人擅驾未锁车辆撞死人车主赔6万",
+      "onboard_time": 1734505700,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68742,
       "num": 367890,
       "word": "交警执法现场有人用手电筒爆闪司机",
@@ -50295,6 +50399,14 @@
       "num": 308117,
       "word": "这届年轻人买钻戒只为应付求婚",
       "onboard_time": 1733488820,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65824,
+      "num": 326954,
+      "word": "黑粉让杨妞花感谢人贩子遭怒怼",
+      "onboard_time": 1734505218,
       "rank": 13,
       "category": "民生新闻"
     },
@@ -52755,6 +52867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51404,
+      "num": 354627,
+      "word": "被老虎撞门的大爷家成为打卡景点",
+      "onboard_time": 1734505218,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51401,
       "num": 2013815,
       "word": "跨越百年的澳门百味",
@@ -53129,14 +53249,6 @@
       "onboard_time": 1733297375,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49199,
-      "num": 293052,
-      "word": "于适全国骑射锦标赛发言",
-      "onboard_time": 1734503959,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 49194,
@@ -56683,6 +56795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33996,
+      "num": 151621,
+      "word": "龚俊时尚COSMO2025开年刊",
+      "onboard_time": 1734506359,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 33977,
       "num": 268524,
       "word": "听泉邀请等什么君合唱",
@@ -56979,6 +57099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32989,
+      "num": 329901,
+      "word": "Clearlove将正式成为LPL名人堂成员",
+      "onboard_time": 1734505819,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 32979,
       "num": 56181,
       "word": "吴昕 沈阳人有自己回家的诱惑",
@@ -57049,6 +57177,14 @@
       "onboard_time": 1733301449,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32635,
+      "num": 282031,
+      "word": "猎罪图鉴2 反叛的莉莉丝",
+      "onboard_time": 1734506359,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 32592,
@@ -57561,6 +57697,14 @@
       "onboard_time": 1733316083,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31170,
+      "num": 189654,
+      "word": "AnotherMan徐明浩封面",
+      "onboard_time": 1734498681,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 31084,
@@ -61715,6 +61859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14316,
+      "num": 140160,
+      "word": "暖冬补给站",
+      "onboard_time": 1734505580,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14282,
       "num": 115769,
       "word": "暖暖美神降临",
@@ -62849,6 +63001,14 @@
       "onboard_time": 1733249953,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8034,
+      "num": 194247,
+      "word": "好匆匆的一年",
+      "onboard_time": 1734506179,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 8001,
