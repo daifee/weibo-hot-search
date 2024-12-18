@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734521745821,
+  "endTime": 1734525896752,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -75,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1140763,
+      "num": 246183,
+      "word": "研究生导师辱骂马龙孙颖莎被处分",
+      "onboard_time": 1734520398,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1099682,
       "num": 1151073,
       "word": "杨妞花痛哭被困父母坟头1313天",
@@ -137,6 +145,22 @@
       "onboard_time": 1734483199,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 928805,
+      "num": 1148608,
+      "word": "九重紫",
+      "onboard_time": 1734516919,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 915961,
+      "num": 282417,
+      "word": "刘亦菲也想去看冰封黄玫瑰",
+      "onboard_time": 1734523460,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 914542,
@@ -307,6 +331,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 688639,
+      "num": 1092606,
+      "word": "哈尔滨冰封黄玫瑰",
+      "onboard_time": 1734517760,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 674561,
+      "num": 253847,
+      "word": "虞书欣直播",
+      "onboard_time": 1734524180,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655814,
       "num": 655814,
       "word": "唐艺昕分享女儿钢琴演出照",
@@ -347,14 +387,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 620280,
-      "num": 246183,
-      "word": "研究生导师辱骂马龙孙颖莎被处分",
-      "onboard_time": 1734520398,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 618377,
       "num": 618377,
       "word": "陈乔恩老公画作被拍卖",
@@ -377,14 +409,6 @@
       "onboard_time": 1734487579,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578793,
-      "num": 1092606,
-      "word": "哈尔滨冰封黄玫瑰",
-      "onboard_time": 1734517760,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 568487,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522341,
+      "num": 522341,
+      "word": "九重紫 删减",
+      "onboard_time": 1734524000,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515560,
       "num": 515560,
       "word": "读研成为年轻人的缓冲期",
@@ -457,14 +489,6 @@
       "onboard_time": 1734502159,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 476037,
-      "num": 476037,
-      "word": "九重紫",
-      "onboard_time": 1734516919,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 475925,
@@ -505,6 +529,14 @@
       "onboard_time": 1734486440,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458437,
+      "num": 273997,
+      "word": "33岁男子喝酒11年媳妇无奈离婚",
+      "onboard_time": 1734519498,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 455374,
@@ -593,6 +625,14 @@
       "onboard_time": 1734496881,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 431937,
+      "num": 431937,
+      "word": "黑神话悟空再输宇宙机器人",
+      "onboard_time": 1734519379,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 430484,
@@ -691,6 +731,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 380469,
+      "num": 221601,
+      "word": "收到了去世朋友的邮件",
+      "onboard_time": 1734522020,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 380431,
+      "num": 380431,
+      "word": "妈妈称自闭症儿子被老师同学治愈",
+      "onboard_time": 1734518541,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 370102,
       "num": 370102,
       "word": "桃黑黑发长文",
@@ -739,12 +795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333268,
-      "num": 273997,
-      "word": "33岁男子喝酒11年媳妇无奈离婚",
-      "onboard_time": 1734519498,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 342544,
+      "num": 342544,
+      "word": "老瓦谈莫雷加德击败王楚钦",
+      "onboard_time": 1734519920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 336660,
+      "num": 336660,
+      "word": "波司登直播",
+      "onboard_time": 1734520220,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 325675,
@@ -811,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 315923,
-      "num": 315923,
-      "word": "老瓦谈莫雷加德击败王楚钦",
-      "onboard_time": 1734519920,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 315678,
       "num": 315678,
       "word": "NewJeans韩服VOGUE封面",
@@ -875,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289553,
+      "num": 241109,
+      "word": "韩国人一家的普通午饭",
+      "onboard_time": 1734519498,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289445,
       "num": 328758,
       "word": "李昀锐的水肿不是骗人的",
@@ -929,14 +993,6 @@
       "onboard_time": 1734513981,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 271765,
-      "num": 271765,
-      "word": "黑神话悟空再输宇宙机器人",
-      "onboard_time": 1734519379,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 270416,
@@ -1051,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241109,
-      "num": 241109,
-      "word": "韩国人一家的普通午饭",
-      "onboard_time": 1734519498,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240757,
       "num": 378312,
       "word": "司法所长在基层工作28年却无编制",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1734516620,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231724,
+      "num": 269116,
+      "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
+      "onboard_time": 1734520398,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 230766,
@@ -1307,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194117,
+      "num": 194117,
+      "word": "难哄配音",
+      "onboard_time": 1734525200,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 193073,
       "num": 215390,
       "word": "外交部祝贺黑神话悟空获TGA两项大奖",
@@ -1379,6 +1443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186516,
+      "num": 186516,
+      "word": "iG熟悉的味道",
+      "onboard_time": 1734522380,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186476,
       "num": 186476,
       "word": "李昀锐说没有微甜起码半糖",
@@ -1395,20 +1467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185791,
-      "num": 185791,
-      "word": "妈妈称自闭症儿子被老师同学治愈",
-      "onboard_time": 1734518541,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 185725,
       "num": 185725,
       "word": "萨摩耶秒变萨摩怒",
       "onboard_time": 1734506839,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185357,
+      "num": 246515,
+      "word": "NewJeans自己签代言",
+      "onboard_time": 1734524180,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185011,
@@ -1441,14 +1513,6 @@
       "onboard_time": 1734507261,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182222,
-      "num": 197906,
-      "word": "波司登直播",
-      "onboard_time": 1734520220,
-      "rank": 41,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 181140,
@@ -1539,12 +1603,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172947,
+      "num": 228290,
+      "word": "咧嘴图鉴",
+      "onboard_time": 1734523340,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170330,
       "num": 285640,
       "word": "林孝埈为大众冰雪季打call",
       "onboard_time": 1734493459,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169958,
+      "num": 265367,
+      "word": "刘捷任浙江省代省长",
+      "onboard_time": 1734524659,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169653,
@@ -1561,6 +1641,14 @@
       "onboard_time": 1734449238,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169220,
+      "num": 191381,
+      "word": "张杰清华大学唱着逆战出场",
+      "onboard_time": 1734521420,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 168682,
@@ -1617,6 +1705,14 @@
       "onboard_time": 1734494659,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165525,
+      "num": 219373,
+      "word": "嘉人大合照不是P图",
+      "onboard_time": 1734524419,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163870,
@@ -1779,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152343,
+      "num": 152343,
+      "word": "日本少女漫画家高桥真琴去世",
+      "onboard_time": 1734525260,
+      "rank": 46,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 152061,
       "num": 270573,
       "word": "阴阳师联动提名",
@@ -1913,6 +2017,14 @@
       "onboard_time": 1734453976,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140861,
+      "num": 140861,
+      "word": "南方姑娘在雪乡玩泼水成冰被烫伤",
+      "onboard_time": 1734522980,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140528,
@@ -2091,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128904,
-      "num": 128904,
-      "word": "张杰清华大学唱着逆战出场",
-      "onboard_time": 1734521420,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 128460,
       "num": 250472,
       "word": "belift起诉ENHYPEN黑粉",
@@ -2145,14 +2249,6 @@
       "onboard_time": 1734482179,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126579,
-      "num": 269116,
-      "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
-      "onboard_time": 1734520398,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125703,
@@ -2203,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123089,
+      "num": 230521,
+      "word": "王者英雄玩法升级投票",
+      "onboard_time": 1734524961,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122311,
       "num": 122311,
       "word": "王晨艺 最小的年纪最大的辈分",
@@ -2249,6 +2353,14 @@
       "onboard_time": 1734516200,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117797,
+      "num": 240307,
+      "word": "清明上河图密码",
+      "onboard_time": 1734524599,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 117792,
@@ -2499,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92188,
+      "num": 224574,
+      "word": "8岁儿子患多动症家长花数万请人按摩",
+      "onboard_time": 1734525859,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92091,
       "num": 290759,
       "word": "Rookie加入LPL十周年",
@@ -2563,6 +2683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85729,
+      "num": 271813,
+      "word": "教育局回应小学校服内疑有塑料膜",
+      "onboard_time": 1734524779,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84323,
       "num": 391653,
       "word": "王鹤棣给粉丝分享童年照",
@@ -2585,6 +2713,14 @@
       "onboard_time": 1734438260,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83285,
+      "num": 248538,
+      "word": "女子称500元买鸭绒服填充物为飞丝",
+      "onboard_time": 1734525200,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83189,
@@ -2819,6 +2955,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 55424,
+      "num": 223136,
+      "word": "研究发现饭后站半个小时真能减脂",
+      "onboard_time": 1734524900,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54738,
       "num": 285352,
       "word": "九重紫紫定好运卡",
@@ -2920,6 +3064,14 @@
       "word": "杜江董浩刘纯燕配音帕丁顿熊3",
       "onboard_time": 1734509661,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 49326,
+      "num": 226842,
+      "word": "姬发回来了",
+      "onboard_time": 1734524479,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -3083,6 +3235,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 39982,
+      "num": 148735,
+      "word": "懒人蒸菜一锅出",
+      "onboard_time": 1734523760,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 39960,
       "num": 192715,
       "word": "今年的减脂指标完成了吗",
@@ -3139,8 +3299,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36363,
+      "num": 267836,
+      "word": "杨幂同款鹅绒服的含金量",
+      "onboard_time": 1734522859,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 35980,
-      "num": 159315,
+      "num": 190968,
       "word": "美团18神券节省出新气象",
       "onboard_time": 1734516919,
       "rank": 39,
@@ -3169,6 +3337,14 @@
       "onboard_time": 1734509000,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34956,
+      "num": 187818,
+      "word": "京东推出包金币的水饺",
+      "onboard_time": 1734522380,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 34474,
@@ -3387,6 +3563,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20109,
+      "num": 193627,
+      "word": "杨幂身穿黑金鹅绒服亮相SKP",
+      "onboard_time": 1734524419,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19806,
+      "num": 260571,
+      "word": "买谷最理直气壮的一次",
+      "onboard_time": 1734523580,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 19678,
       "num": 142961,
       "word": "暖冬补给站",
@@ -3401,6 +3593,14 @@
       "onboard_time": 1734468791,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19041,
+      "num": 189381,
+      "word": "林一听到粉丝喊话的反应",
+      "onboard_time": 1734524361,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 18525,
