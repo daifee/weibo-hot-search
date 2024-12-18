@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734513919025,
+  "endTime": 1734514734936,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -6323,6 +6323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 711009,
+      "num": 711009,
+      "word": "日本太空一号发射失败",
+      "onboard_time": 1734509960,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 710725,
       "num": 710725,
       "word": "女子上厕所摔倒致残公司拒赔20万",
@@ -10763,6 +10771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475925,
+      "num": 227486,
+      "word": "新娘化妆两小时到新郎家被抹一脸黑",
+      "onboard_time": 1734513200,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475627,
       "num": 475627,
       "word": "叶祖新 太子气场",
@@ -11851,6 +11867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 439772,
+      "num": 439772,
+      "word": "孟子义李昀锐回应二搭",
+      "onboard_time": 1734512060,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 439717,
       "num": 483894,
       "word": "易烊千玺说更喜欢扎根的工作",
@@ -12113,14 +12137,6 @@
       "onboard_time": 1733481260,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 431844,
-      "num": 204872,
-      "word": "新娘化妆两小时到新郎家被抹一脸黑",
-      "onboard_time": 1734513200,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431217,
@@ -12801,6 +12817,14 @@
       "onboard_time": 1733535739,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 412430,
+      "num": 412430,
+      "word": "蒋梦婕 国色芳华具象化",
+      "onboard_time": 1734513320,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 411854,
@@ -15171,14 +15195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 342358,
-      "num": 210172,
-      "word": "孟子义李昀锐回应二搭",
-      "onboard_time": 1734512060,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 342281,
       "num": 342281,
       "word": "韩要求罢工的医生48小时内返岗",
@@ -16057,6 +16073,14 @@
       "onboard_time": 1733816240,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 322542,
+      "num": 322542,
+      "word": "余承东首晒Mate70动态照片",
+      "onboard_time": 1734511700,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 322406,
@@ -18523,6 +18547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273291,
+      "num": 273291,
+      "word": "特朗普换新发型亮相",
+      "onboard_time": 1734513981,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 273284,
       "num": 247196,
       "word": "杨旭文眼下痣",
@@ -19283,14 +19315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258796,
-      "num": 258796,
-      "word": "余承东首晒Mate70动态照片",
-      "onboard_time": 1734511700,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 258748,
       "num": 258748,
       "word": "肖奈 古风小生",
@@ -19409,6 +19433,14 @@
       "onboard_time": 1733112319,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 256324,
+      "num": 256324,
+      "word": "以前没有肖四政治怎么考啊",
+      "onboard_time": 1734511401,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 255727,
@@ -23499,14 +23531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210907,
-      "num": 229576,
-      "word": "以前没有肖四政治怎么考啊",
-      "onboard_time": 1734511401,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 210795,
       "num": 210795,
       "word": "BLG将成为最后一个LPL春夏冠军",
@@ -25315,14 +25339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200237,
-      "num": 200237,
-      "word": "蒋梦婕 国色芳华具象化",
-      "onboard_time": 1734513320,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200099,
       "num": 200099,
       "word": "登陆少年Challenge",
@@ -26057,6 +26073,14 @@
       "onboard_time": 1733585182,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196638,
+      "num": 196638,
+      "word": "宋威龙赵今麦 德牧博美",
+      "onboard_time": 1734514339,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 196627,
@@ -28947,6 +28971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182920,
+      "num": 182920,
+      "word": "猎罪图鉴2神转场是檀健次设计的",
+      "onboard_time": 1734513860,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182895,
       "num": 182895,
       "word": "他是谁",
@@ -29633,6 +29665,14 @@
       "onboard_time": 1733803817,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 179232,
+      "num": 179232,
+      "word": "iPhone17ProMax水平三摄模组",
+      "onboard_time": 1734513920,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 179149,
@@ -30937,6 +30977,14 @@
       "onboard_time": 1733915419,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171692,
+      "num": 171692,
+      "word": "剧组为张馨予准备了十箱发饰",
+      "onboard_time": 1734514161,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 171688,
@@ -33667,6 +33715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 159115,
+      "num": 159115,
+      "word": "香飘飘辟谣破产后在开线下店",
+      "onboard_time": 1734513680,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159103,
       "num": 159103,
       "word": "宠物果然是谁养的就像谁",
@@ -33937,6 +33993,14 @@
       "onboard_time": 1734399138,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157970,
+      "num": 157970,
+      "word": "黎深 临危",
+      "onboard_time": 1734513620,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 157950,
@@ -35099,6 +35163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153371,
+      "num": 259238,
+      "word": "十个勤天全员接好运",
+      "onboard_time": 1734513620,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153352,
       "num": 153352,
       "word": "樊振东采访前800个假动作",
@@ -35489,6 +35561,14 @@
       "onboard_time": 1733922799,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151663,
+      "num": 217113,
+      "word": "黑神话获Steam大奖3项提名",
+      "onboard_time": 1734513501,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 151627,
@@ -37259,14 +37339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143801,
-      "num": 143801,
-      "word": "香飘飘辟谣破产后在开线下店",
-      "onboard_time": 1734513680,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 143689,
       "num": 631601,
       "word": "农村公路可以有多美",
@@ -38723,6 +38795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137426,
+      "num": 137426,
+      "word": "王楚钦妈妈记录儿子成长视频",
+      "onboard_time": 1734512719,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137418,
       "num": 137418,
       "word": "国防部回应福建舰开展相关试验",
@@ -39435,6 +39515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134391,
+      "num": 134391,
+      "word": "芒果跨年真是群像的神",
+      "onboard_time": 1734514578,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134374,
       "num": 134374,
       "word": "麦琳不是害怕动物吗",
@@ -39787,6 +39875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132426,
+      "num": 422040,
+      "word": "余华英上诉理由曝光",
+      "onboard_time": 1734513200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132394,
       "num": 183387,
       "word": "星宝买了小蛋糕",
@@ -39945,6 +40041,14 @@
       "onboard_time": 1734009859,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131521,
+      "num": 131521,
+      "word": "刘耀文 雨爱的秘密会一直延续",
+      "onboard_time": 1734514639,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 131485,
@@ -40515,12 +40619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128456,
-      "num": 128456,
-      "word": "黎深 临危",
-      "onboard_time": 1734513620,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 128460,
+      "num": 250472,
+      "word": "belift起诉ENHYPEN黑粉",
+      "onboard_time": 1734513860,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 128393,
@@ -41089,14 +41193,6 @@
       "onboard_time": 1734352522,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125266,
-      "num": 125266,
-      "word": "猎罪图鉴2神转场是檀健次设计的",
-      "onboard_time": 1734513860,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 125251,
@@ -41761,6 +41857,14 @@
       "onboard_time": 1734174080,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122311,
+      "num": 122311,
+      "word": "王晨艺 最小的年纪最大的辈分",
+      "onboard_time": 1734514520,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 122298,
@@ -44707,14 +44811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106076,
-      "num": 202383,
-      "word": "黑神话获Steam大奖3项提名",
-      "onboard_time": 1734513501,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106018,
       "num": 501893,
       "word": "今年砂糖橘涨价近三成",
@@ -47339,14 +47435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88653,
-      "num": 209301,
-      "word": "十个勤天全员接好运",
-      "onboard_time": 1734513620,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88534,
       "num": 307843,
       "word": "何炅包场王源新片",
@@ -47393,6 +47481,14 @@
       "onboard_time": 1734102439,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88219,
+      "num": 746642,
+      "word": "更大力度支持两重项目",
+      "onboard_time": 1734510740,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 88187,
@@ -48803,14 +48899,6 @@
       "category": "正能量,财经"
     },
     {
-      "raw_hot": 78414,
-      "num": 409247,
-      "word": "余华英上诉理由曝光",
-      "onboard_time": 1734513200,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78303,
       "num": 448785,
       "word": "大多数HIV感染者选择隐瞒病情",
@@ -50027,14 +50115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70164,
-      "num": 746642,
-      "word": "更大力度支持两重项目",
-      "onboard_time": 1734510740,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 70154,
       "num": 501980,
       "word": "孙颖莎吴咏琳vs杨玉鑫冷雨桐",
@@ -50049,14 +50129,6 @@
       "onboard_time": 1734494961,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 70051,
-      "num": 187413,
-      "word": "belift起诉ENHYPEN黑粉",
-      "onboard_time": 1734513860,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 69994,
@@ -51447,6 +51519,14 @@
       "num": 405822,
       "word": "付费自习室野蛮生长至近7万家",
       "onboard_time": 1733459781,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61300,
+      "num": 341546,
+      "word": "女童被老师砸伤母亲抗诉被驳回",
+      "onboard_time": 1734513740,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -52977,6 +53057,14 @@
       "onboard_time": 1734355399,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 52904,
+      "num": 208435,
+      "word": "杨妞花回应是余华英让其成为网红恶评",
+      "onboard_time": 1734512841,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52778,
@@ -57171,14 +57259,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 34427,
-      "num": 208435,
-      "word": "杨妞花回应是余华英让其成为网红恶评",
-      "onboard_time": 1734512841,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34408,
       "num": 315501,
       "word": "发生爆炸住宅楼小区组织人员疏散",
@@ -58699,14 +58779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28895,
-      "num": 286549,
-      "word": "女童被老师砸伤母亲抗诉被驳回",
-      "onboard_time": 1734513740,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28888,
       "num": 41250,
       "word": "库克与特朗普共进晚餐",
@@ -59444,7 +59516,7 @@
     },
     {
       "raw_hot": 25753,
-      "num": 206593,
+      "num": 240396,
       "word": "欣生快乐每一刻",
       "onboard_time": 1734510799,
       "rank": 36,
@@ -61947,6 +62019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15668,
+      "num": 154722,
+      "word": "网友一年游了2000万次",
+      "onboard_time": 1734512419,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15641,
       "num": 87545,
       "word": "推动经济持续回升向好",
@@ -62897,14 +62977,6 @@
       "onboard_time": 1733524692,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12247,
-      "num": 154722,
-      "word": "网友一年游了2000万次",
-      "onboard_time": 1734512419,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 12239,

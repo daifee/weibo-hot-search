@@ -1,0 +1,410 @@
+{
+  "runTime": 1734514734936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1466427,
+        "num": 1466427,
+        "word": "吴奇隆与刘诗诗关联公司已注销",
+        "onboard_time": 1734507620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711009,
+        "num": 711009,
+        "word": "日本太空一号发射失败",
+        "onboard_time": 1734509960,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18273,
+        "num": 695351,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 770194,
+        "num": 691933,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686613,
+        "num": 686613,
+        "word": "上海下雪",
+        "onboard_time": 1734508280,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88219,
+        "num": 655188,
+        "word": "更大力度支持两重项目",
+        "onboard_time": 1734510740,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 632604,
+        "num": 632604,
+        "word": "供他吃住他却拐卖我儿子",
+        "onboard_time": 1734500600,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622075,
+        "num": 622075,
+        "word": "22年前向央视求救的女人现状",
+        "onboard_time": 1734507379,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439772,
+        "num": 439772,
+        "word": "孟子义李昀锐回应二搭",
+        "onboard_time": 1734512060,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132426,
+        "num": 422040,
+        "word": "余华英上诉理由曝光",
+        "onboard_time": 1734513200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681200,
+        "num": 417504,
+        "word": "才知道李川和锤娜丽莎是情侣",
+        "onboard_time": 1734510381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412430,
+        "num": 412430,
+        "word": "蒋梦婕 国色芳华具象化",
+        "onboard_time": 1734513320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400946,
+        "num": 400946,
+        "word": "谢依霖发长文谈与杨幂郭采洁郭碧婷重聚",
+        "onboard_time": 1734508640,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386390,
+        "num": 386390,
+        "word": "王鹤棣领衔主演电影青春梦",
+        "onboard_time": 1734510140,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61300,
+        "num": 341546,
+        "word": "女童被老师砸伤母亲抗诉被驳回",
+        "onboard_time": 1734513740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322542,
+        "num": 322542,
+        "word": "余承东首晒Mate70动态照片",
+        "onboard_time": 1734511700,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273291,
+        "num": 273291,
+        "word": "特朗普换新发型亮相",
+        "onboard_time": 1734513981,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 259238,
+        "word": "十个勤天全员接好运",
+        "onboard_time": 1734513620,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256324,
+        "num": 256324,
+        "word": "以前没有肖四政治怎么考啊",
+        "onboard_time": 1734511401,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128460,
+        "num": 250472,
+        "word": "belift起诉ENHYPEN黑粉",
+        "onboard_time": 1734513860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641170,
+        "num": 247919,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21365,
+        "num": 240396,
+        "word": "欣生快乐每一刻",
+        "onboard_time": 1734510799,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475925,
+        "num": 227486,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362268,
+        "num": 221969,
+        "word": "zeus",
+        "onboard_time": 1734502579,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151663,
+        "num": 217113,
+        "word": "黑神话获Steam大奖3项提名",
+        "onboard_time": 1734513501,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 338421,
+        "num": 209685,
+        "word": "孟子义李昀锐一起堆雪人",
+        "onboard_time": 1734508701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276748,
+        "num": 198377,
+        "word": "谢娜真不把观众当外人",
+        "onboard_time": 1734504919,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196638,
+        "num": 196638,
+        "word": "宋威龙赵今麦 德牧博美",
+        "onboard_time": 1734514339,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192462,
+        "num": 192462,
+        "word": "虞书欣SpicyHoneyMV",
+        "onboard_time": 1734499939,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182920,
+        "num": 182920,
+        "word": "猎罪图鉴2神转场是檀健次设计的",
+        "onboard_time": 1734513860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52904,
+        "num": 181394,
+        "word": "杨妞花回应是余华英让其成为网红恶评",
+        "onboard_time": 1734512841,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181004,
+        "num": 181004,
+        "word": "猎罪图鉴2颅内谋杀",
+        "onboard_time": 1734506539,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179232,
+        "num": 179232,
+        "word": "iPhone17ProMax水平三摄模组",
+        "onboard_time": 1734513920,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171692,
+        "num": 171692,
+        "word": "剧组为张馨予准备了十箱发饰",
+        "onboard_time": 1734514161,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160399,
+        "num": 160399,
+        "word": "脑瘫不等于傻子",
+        "onboard_time": 1734510620,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159115,
+        "num": 159115,
+        "word": "香飘飘辟谣破产后在开线下店",
+        "onboard_time": 1734513680,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157970,
+        "num": 157970,
+        "word": "黎深 临危",
+        "onboard_time": 1734513620,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155784,
+        "num": 155784,
+        "word": "老瓦称战胜樊振东马龙依然困难重重",
+        "onboard_time": 1734512120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146476,
+        "num": 146476,
+        "word": "女孩欲轻生被劝4小时多了个干爹",
+        "onboard_time": 1734487879,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 15668,
+        "num": 142023,
+        "word": "网友一年游了2000万次",
+        "onboard_time": 1734512419,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139004,
+        "num": 139004,
+        "word": "这干噎酸奶当年货可太好了",
+        "onboard_time": 1734506719,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137426,
+        "num": 137426,
+        "word": "王楚钦妈妈记录儿子成长视频",
+        "onboard_time": 1734512719,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134391,
+        "num": 134391,
+        "word": "芒果跨年真是群像的神",
+        "onboard_time": 1734514578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131521,
+        "num": 131521,
+        "word": "刘耀文 雨爱的秘密会一直延续",
+        "onboard_time": 1734514639,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129233,
+        "num": 129233,
+        "word": "王慧玲 基层女性",
+        "onboard_time": 1734512539,
+        "rank": 44,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 128072,
+        "num": 128072,
+        "word": "王鸥用大侦探金条给大家做手串",
+        "onboard_time": 1734507919,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125988,
+        "num": 125988,
+        "word": "保姆自己吃水果零食是没分寸吗",
+        "onboard_time": 1734494001,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 122311,
+        "word": "王晨艺 最小的年纪最大的辈分",
+        "onboard_time": 1734514520,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122257,
+        "num": 122257,
+        "word": "向佐郭碧婷互换衣柜",
+        "onboard_time": 1734506539,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117885,
+        "num": 117885,
+        "word": "国色芳华获得发行许可证",
+        "onboard_time": 1734513501,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#向海洋要生产力求新增长点#"
+    }
+  }
+}
