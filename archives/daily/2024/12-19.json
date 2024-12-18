@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734553554785,
+  "endTime": 1734554364081,
   "band_list": [
     {
       "raw_hot": 909117,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 55418,
-      "num": 23900,
+      "num": 29737,
       "word": "美国流浪宇航员返回又双叒叕推迟了",
       "onboard_time": 1734548711,
       "rank": 32,
@@ -483,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30806,
+      "num": 30806,
+      "word": "医保额度年底清零系谣言",
+      "onboard_time": 1734550571,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 23549,
       "num": 23549,
       "word": "微博年度喜爱剧集",
       "onboard_time": 1734545533,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22459,
-      "num": 22459,
-      "word": "医保额度年底清零系谣言",
-      "onboard_time": 1734550571,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22262,
@@ -547,8 +547,8 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 17084,
-      "num": 17084,
+      "raw_hot": 18162,
+      "num": 18162,
       "word": "警方通报3男子酒后殴打陌生女子",
       "onboard_time": 1734551531,
       "rank": 31,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 15159,
+      "num": 23292,
+      "word": "秦陵兵马俑不养闲俑",
+      "onboard_time": 1734552731,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12842,
       "num": 43371,
       "word": "文化中国行考古新发现",
@@ -595,20 +603,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12070,
-      "num": 23292,
-      "word": "秦陵兵马俑不养闲俑",
-      "onboard_time": 1734552731,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 11894,
       "num": 62775,
       "word": "索尼称黑神话PS5国行版在筹备中",
       "onboard_time": 1734541994,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11805,
+      "num": 18327,
+      "word": "官方辟谣医保额度年底清零",
+      "onboard_time": 1734554232,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11522,
