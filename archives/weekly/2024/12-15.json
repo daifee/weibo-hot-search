@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734528657719,
+  "endTime": 1734529332354,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -521,6 +521,14 @@
       "onboard_time": 1734411441,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1089640,
+      "num": 311299,
+      "word": "哈尔滨文旅回复刘亦菲",
+      "onboard_time": 1734527720,
+      "rank": 15,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 1087344,
@@ -1468,7 +1476,7 @@
     },
     {
       "raw_hot": 650039,
-      "num": 292594,
+      "num": 303527,
       "word": "宋祖儿安慰粉丝",
       "onboard_time": 1734519498,
       "rank": 12,
@@ -1683,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 603424,
+      "num": 603424,
+      "word": "妈妈称自闭症儿子被老师同学治愈",
+      "onboard_time": 1734518541,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 603119,
       "num": 603119,
       "word": "嘉人内场",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1734348799,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 557815,
-      "num": 557815,
-      "word": "妈妈称自闭症儿子被老师同学治愈",
-      "onboard_time": 1734518541,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 557607,
@@ -2105,14 +2113,6 @@
       "onboard_time": 1734253277,
       "rank": 27,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 505633,
-      "num": 311299,
-      "word": "哈尔滨文旅回复刘亦菲",
-      "onboard_time": 1734527720,
-      "rank": 15,
-      "category": "艺人,旅游"
     },
     {
       "raw_hot": 501280,
@@ -2635,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420150,
+      "num": 305604,
+      "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+      "onboard_time": 1734527781,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419256,
       "num": 419256,
       "word": "雅思组合国际赛场最后一战",
@@ -3067,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355546,
+      "num": 355546,
+      "word": "难哄配音",
+      "onboard_time": 1734525200,
+      "rank": 36,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 354040,
       "num": 354040,
       "word": "余男结婚",
@@ -3217,14 +3233,6 @@
       "onboard_time": 1734339380,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 337308,
-      "num": 337308,
-      "word": "难哄配音",
-      "onboard_time": 1734525200,
-      "rank": 36,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 336660,
@@ -3513,6 +3521,14 @@
       "onboard_time": 1734227957,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 308301,
+      "num": 308301,
+      "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+      "onboard_time": 1734527421,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 307679,
@@ -4019,22 +4035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260942,
-      "num": 260942,
-      "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
-      "onboard_time": 1734527781,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260939,
-      "num": 260939,
-      "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
-      "onboard_time": 1734527421,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 260577,
       "num": 260577,
       "word": "陈梦因腰伤无法久坐",
@@ -4097,6 +4097,14 @@
       "onboard_time": 1734511401,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 255649,
+      "num": 255649,
+      "word": "94岁西单商场宣布停业",
+      "onboard_time": 1734527540,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254954,
@@ -4779,14 +4787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216081,
-      "num": 216081,
-      "word": "94岁西单商场宣布停业",
-      "onboard_time": 1734527540,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216065,
       "num": 216065,
       "word": "网传星光大赏座位表",
@@ -5059,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206053,
+      "num": 267571,
+      "word": "窦昭变脸",
+      "onboard_time": 1734528379,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205895,
       "num": 205895,
       "word": "虞书欣ins更新专辑花絮照",
@@ -5096,6 +5104,14 @@
       "word": "54岁香港男星申请破产",
       "onboard_time": 1734437118,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205428,
+      "num": 205428,
+      "word": "小泡芙追星贺峻霖",
+      "onboard_time": 1734528680,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -5321,6 +5337,14 @@
       "onboard_time": 1734415098,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200702,
+      "num": 302035,
+      "word": "女子称500元买鸭绒服填充物为飞丝",
+      "onboard_time": 1734525200,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200687,
@@ -6091,6 +6115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185673,
+      "num": 185673,
+      "word": "苗安素 心疼男人是不幸的开始",
+      "onboard_time": 1734528860,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185468,
       "num": 185468,
       "word": "张凌赫谢征你好",
@@ -6267,14 +6299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180671,
-      "num": 302035,
-      "word": "女子称500元买鸭绒服填充物为飞丝",
-      "onboard_time": 1734525200,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180569,
       "num": 180569,
       "word": "封神2预告最后一幕殷郊复活",
@@ -6385,14 +6409,6 @@
       "onboard_time": 1734517820,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178693,
-      "num": 267571,
-      "word": "窦昭变脸",
-      "onboard_time": 1734528379,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 178448,
@@ -7971,6 +7987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148677,
+      "num": 241863,
+      "word": "Uzi谈iG新阵容首秀",
+      "onboard_time": 1734528860,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148673,
       "num": 148673,
       "word": "29岁教师编制想考研重新开始",
@@ -8515,6 +8539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137759,
+      "num": 137759,
+      "word": "五哈 你们的幸福吵到我了",
+      "onboard_time": 1734529100,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137674,
       "num": 325474,
       "word": "南大碎尸案逝者家属代理律师回应",
@@ -8835,6 +8867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133073,
+      "num": 133073,
+      "word": "恋与深空bug",
+      "onboard_time": 1734529040,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133017,
       "num": 133017,
       "word": "白鹿1到30岁颜值变化",
@@ -8993,6 +9033,14 @@
       "onboard_time": 1734353481,
       "rank": 46,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 130609,
+      "num": 310488,
+      "word": "昭昭墨墨call back",
+      "onboard_time": 1734528140,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 130224,
@@ -9795,6 +9843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115396,
+      "num": 115396,
+      "word": "猎罪2破产叔仙人跳事件",
+      "onboard_time": 1734529221,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115342,
       "num": 293325,
       "word": "奔跑吧揭名牌接祝福",
@@ -10033,6 +10089,14 @@
       "onboard_time": 1734252317,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111655,
+      "num": 170722,
+      "word": "厦大为考生发放研途补给",
+      "onboard_time": 1734526400,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 111217,
@@ -10491,14 +10555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 100173,
-      "num": 310488,
-      "word": "昭昭墨墨call back",
-      "onboard_time": 1734528140,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99456,
       "num": 99456,
       "word": "覃海洋回应50米蛙泳晋级决赛",
@@ -10724,7 +10780,7 @@
     },
     {
       "raw_hot": 92188,
-      "num": 224574,
+      "num": 306179,
       "word": "8岁儿子患多动症家长花数万请人按摩",
       "onboard_time": 1734525859,
       "rank": 28,
@@ -11281,6 +11337,14 @@
       "onboard_time": 1734344300,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76656,
+      "num": 314001,
+      "word": "河北多个患癌群体救命钱遭诈骗",
+      "onboard_time": 1734527240,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76185,
@@ -12067,14 +12131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54886,
-      "num": 314001,
-      "word": "河北多个患癌群体救命钱遭诈骗",
-      "onboard_time": 1734527240,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54738,
       "num": 285352,
       "word": "九重紫紫定好运卡",
@@ -12097,6 +12153,14 @@
       "onboard_time": 1734499520,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53590,
+      "num": 314405,
+      "word": "兵马俑已出差全世界49个国家和地区",
+      "onboard_time": 1734528260,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 53201,
@@ -12153,6 +12217,14 @@
       "onboard_time": 1734280037,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52480,
+      "num": 504753,
+      "word": "120秒带你沉浸式体验澳门轻轨横琴线",
+      "onboard_time": 1734528140,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 52358,
@@ -12417,14 +12489,6 @@
       "onboard_time": 1734447441,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48224,
-      "num": 170722,
-      "word": "厦大为考生发放研途补给",
-      "onboard_time": 1734526400,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 48220,
@@ -14091,14 +14155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21463,
-      "num": 314405,
-      "word": "兵马俑已出差全世界49个国家和地区",
-      "onboard_time": 1734528260,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 21450,
       "num": 196766,
       "word": "醪糟麻薯撞奶",
@@ -14473,14 +14529,6 @@
       "onboard_time": 1734522679,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 15876,
-      "num": 504753,
-      "word": "120秒带你沉浸式体验澳门轻轨横琴线",
-      "onboard_time": 1734528140,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 15716,
@@ -14889,6 +14937,14 @@
       "onboard_time": 1734218714,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9626,
+      "num": 159101,
+      "word": "小王开麦节",
+      "onboard_time": 1734527900,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 9533,

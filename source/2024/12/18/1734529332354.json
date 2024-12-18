@@ -1,0 +1,410 @@
+{
+  "runTime": 1734529332354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633196,
+        "num": 1101311,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603424,
+        "num": 603424,
+        "word": "妈妈称自闭症儿子被老师同学治愈",
+        "onboard_time": 1734518541,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 52480,
+        "num": 422679,
+        "word": "120秒带你沉浸式体验澳门轻轨横琴线",
+        "onboard_time": 1734528140,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 421865,
+        "num": 421865,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359964,
+        "num": 359964,
+        "word": "哈尔滨冰封黄玫瑰",
+        "onboard_time": 1734517760,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 425667,
+        "num": 358285,
+        "word": "供他吃住他却拐卖我儿子",
+        "onboard_time": 1734500600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355546,
+        "num": 355546,
+        "word": "难哄配音",
+        "onboard_time": 1734525200,
+        "rank": 6,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 315667,
+        "num": 315667,
+        "word": "黑神话悟空再输宇宙机器人",
+        "onboard_time": 1734519379,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53590,
+        "num": 311673,
+        "word": "兵马俑已出差全世界49个国家和地区",
+        "onboard_time": 1734528260,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 308301,
+        "num": 308301,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1089640,
+        "num": 308220,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 10,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 794253,
+        "num": 307803,
+        "word": "刘亦菲也想去看冰封黄玫瑰",
+        "onboard_time": 1734523460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553771,
+        "num": 307021,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 539176,
+        "num": 306683,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76881,
+        "num": 306179,
+        "word": "8岁儿子患多动症家长花数万请人按摩",
+        "onboard_time": 1734525859,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530951,
+        "num": 305767,
+        "word": "刘畊宏帮女儿追星贺峻霖",
+        "onboard_time": 1734526520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420150,
+        "num": 305604,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339806,
+        "num": 305189,
+        "word": "33岁男子喝酒11年媳妇无奈离婚",
+        "onboard_time": 1734519498,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130609,
+        "num": 304815,
+        "word": "昭昭墨墨call back",
+        "onboard_time": 1734528140,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102299,
+        "num": 304391,
+        "word": "偶遇李昀锐打篮球",
+        "onboard_time": 1734527301,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775443,
+        "num": 303617,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303527,
+        "num": 303527,
+        "word": "宋祖儿安慰粉丝",
+        "onboard_time": 1734519498,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255649,
+        "num": 255649,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251635,
+        "num": 251635,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148677,
+        "num": 241863,
+        "word": "Uzi谈iG新阵容首秀",
+        "onboard_time": 1734528860,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239296,
+        "num": 239296,
+        "word": "收到了去世朋友的邮件",
+        "onboard_time": 1734522020,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234103,
+        "num": 234103,
+        "word": "IG16分钟推平RNG",
+        "onboard_time": 1734527120,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223834,
+        "num": 223834,
+        "word": "NewJeans自己签代言",
+        "onboard_time": 1734524180,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206053,
+        "num": 206053,
+        "word": "窦昭变脸",
+        "onboard_time": 1734528379,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205428,
+        "num": 205428,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200702,
+        "num": 200702,
+        "word": "女子称500元买鸭绒服填充物为飞丝",
+        "onboard_time": 1734525200,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199830,
+        "num": 199830,
+        "word": "虞书欣直播",
+        "onboard_time": 1734524180,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194664,
+        "num": 194664,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190973,
+        "num": 190973,
+        "word": "老瓦谈莫雷加德击败王楚钦",
+        "onboard_time": 1734519920,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76656,
+        "num": 188294,
+        "word": "河北多个患癌群体救命钱遭诈骗",
+        "onboard_time": 1734527240,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185673,
+        "num": 185673,
+        "word": "苗安素 心疼男人是不幸的开始",
+        "onboard_time": 1734528860,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179007,
+        "num": 179007,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165272,
+        "num": 165272,
+        "word": "和平饭店298元自卑套餐已下架",
+        "onboard_time": 1734525561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161474,
+        "num": 161474,
+        "word": "九重紫 凉薄之人如何偕老",
+        "onboard_time": 1734526099,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9626,
+        "num": 159101,
+        "word": "小王开麦节",
+        "onboard_time": 1734527900,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "波司登直播",
+        "onboard_time": 1734520220,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158757,
+        "num": 158757,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146062,
+        "num": 146062,
+        "word": "月亮",
+        "onboard_time": 1734528920,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142965,
+        "num": 142965,
+        "word": "嘉人大合照不是P图",
+        "onboard_time": 1734524419,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137759,
+        "num": 137759,
+        "word": "五哈 你们的幸福吵到我了",
+        "onboard_time": 1734529100,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133073,
+        "num": 133073,
+        "word": "恋与深空bug",
+        "onboard_time": 1734529040,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124163,
+        "num": 124163,
+        "word": "南方姑娘在雪乡玩泼水成冰被烫伤",
+        "onboard_time": 1734522980,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118019,
+        "num": 118019,
+        "word": "iG将对战TES",
+        "onboard_time": 1734527059,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115396,
+        "num": 115396,
+        "word": "猎罪2破产叔仙人跳事件",
+        "onboard_time": 1734529221,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111655,
+        "num": 111655,
+        "word": "厦大为考生发放研途补给",
+        "onboard_time": 1734526400,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在澳门会见贺一诚#"
+    }
+  }
+}
