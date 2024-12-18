@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734540324312,
+  "endTime": 1734542458515,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -5483,6 +5483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201276,
+      "num": 201276,
+      "word": "网红厦门小程三年申报收入仅数万",
+      "onboard_time": 1734538578,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201253,
       "num": 201253,
       "word": "樊振东看赵子豪打球笑了",
@@ -9259,6 +9267,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 130715,
+      "num": 130715,
+      "word": "谢可寅演技",
+      "onboard_time": 1734540316,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130609,
       "num": 310488,
       "word": "昭昭墨墨call back",
@@ -10603,6 +10619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105963,
+      "num": 154271,
+      "word": "官方回应上海下雪了",
+      "onboard_time": 1734538758,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105925,
       "num": 105925,
       "word": "TWS fanmeeting",
@@ -10715,14 +10739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104620,
-      "num": 104620,
-      "word": "网红厦门小程三年申报收入仅数万",
-      "onboard_time": 1734538578,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104186,
       "num": 511051,
       "word": "学校通报食堂设置学霸就餐区",
@@ -10732,7 +10748,7 @@
     },
     {
       "raw_hot": 103558,
-      "num": 103558,
+      "num": 105862,
       "word": "2024中国体育高光名场面",
       "onboard_time": 1734534501,
       "rank": 46,
@@ -11329,14 +11345,6 @@
       "onboard_time": 1734321798,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85654,
-      "num": 154271,
-      "word": "官方回应上海下雪了",
-      "onboard_time": 1734538758,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85557,
@@ -12907,6 +12915,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 48127,
+      "num": 54653,
+      "word": "野洵",
+      "onboard_time": 1734541515,
+      "rank": 34,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 48100,
       "num": 211155,
       "word": "电影误判北京首映礼",
@@ -13793,6 +13809,14 @@
       "onboard_time": 1734340040,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33960,
+      "num": 54170,
+      "word": "李昀锐鲜衣怒马少年郎",
+      "onboard_time": 1734541755,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 33959,
@@ -15265,6 +15289,14 @@
       "onboard_time": 1734244939,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11894,
+      "num": 62775,
+      "word": "索尼称黑神话PS5国行版在筹备中",
+      "onboard_time": 1734541994,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 11496,
