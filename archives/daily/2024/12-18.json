@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734496921812,
+  "endTime": 1734499342903,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -179,6 +179,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 618377,
+      "num": 618377,
+      "word": "陈乔恩老公画作被拍卖",
+      "onboard_time": 1734495620,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613114,
       "num": 386058,
       "word": "曝西安环卫工被拖欠5个月工资堵路要钱",
@@ -217,6 +225,14 @@
       "onboard_time": 1734491718,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 500958,
+      "num": 500958,
+      "word": "美国15岁女生教室枪杀多人后自杀",
+      "onboard_time": 1734496101,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 473222,
@@ -259,6 +275,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 452324,
+      "num": 452324,
+      "word": "女子吃火锅把鸭肠织成毛衣",
+      "onboard_time": 1734494061,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449928,
       "num": 342039,
       "word": "封神第二部开启西岐保卫战",
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 436290,
+      "num": 436290,
+      "word": "李小冉 一个旅行能犯多大错误",
+      "onboard_time": 1734494780,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432694,
       "num": 381272,
       "word": "虞书欣 谢谢慕声儿",
@@ -289,14 +321,6 @@
       "onboard_time": 1734483439,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429816,
-      "num": 382054,
-      "word": "李小冉 一个旅行能犯多大错误",
-      "onboard_time": 1734494780,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 425478,
@@ -371,20 +395,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331643,
-      "num": 383512,
-      "word": "陈乔恩老公画作被拍卖",
-      "onboard_time": 1734495620,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 348147,
+      "num": 289986,
+      "word": "奔跑吧两大女MC浙江卫视跨年合体",
+      "onboard_time": 1734496042,
+      "rank": 49,
+      "category": "综艺"
     },
     {
-      "raw_hot": 324744,
-      "num": 324744,
-      "word": "女子吃火锅把鸭肠织成毛衣",
-      "onboard_time": 1734494061,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 331036,
+      "num": 288049,
+      "word": "朱朱是请吃饭的漂亮姐姐",
+      "onboard_time": 1734496881,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 327440,
+      "num": 287193,
+      "word": "虞书欣 在干嘛呀",
+      "onboard_time": 1734498200,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 323537,
@@ -449,6 +481,14 @@
       "onboard_time": 1734433879,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285208,
+      "num": 285208,
+      "word": "豆瓣崩了",
+      "onboard_time": 1734499279,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 285071,
@@ -531,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238216,
+      "num": 238216,
+      "word": "司法所长在基层工作28年却无编制",
+      "onboard_time": 1734497901,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 229257,
       "num": 229257,
       "word": "大冰 怎么拥有良好的输出和表达能力",
@@ -579,14 +627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 209458,
-      "num": 209458,
-      "word": "奔跑吧两大女MC浙江卫视跨年合体",
-      "onboard_time": 1734496042,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206636,
       "num": 206636,
       "word": "易烊千玺12月31日影院见",
@@ -609,6 +649,14 @@
       "onboard_time": 1734488120,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202935,
+      "num": 202935,
+      "word": "原神",
+      "onboard_time": 1734497962,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 201968,
@@ -635,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197265,
+      "num": 197265,
+      "word": "江歌妈妈名下商户注销",
+      "onboard_time": 1734496042,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197121,
       "num": 197121,
       "word": "胖东来成了一个外地游客打卡点",
@@ -649,14 +705,6 @@
       "onboard_time": 1734490758,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 196051,
-      "num": 196051,
-      "word": "江歌妈妈名下商户注销",
-      "onboard_time": 1734496042,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195704,
@@ -691,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190280,
-      "num": 190280,
-      "word": "朱朱是请吃饭的漂亮姐姐",
-      "onboard_time": 1734496881,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187558,
       "num": 187558,
       "word": "加拿大一周大福门店遭抢劫",
@@ -713,6 +753,14 @@
       "onboard_time": 1734486258,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180951,
+      "num": 180951,
+      "word": "王鹤棣田曦薇大奉打更人将定档",
+      "onboard_time": 1734496640,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 179935,
@@ -731,6 +779,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176372,
+      "num": 288901,
+      "word": "仙剑四重制版前导PV",
+      "onboard_time": 1734498200,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 176213,
+      "num": 366989,
+      "word": "近视了不戴眼镜会有什么后果",
+      "onboard_time": 1734496341,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174054,
       "num": 384670,
       "word": "54岁香港男星申请破产",
@@ -747,12 +811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169653,
+      "num": 169653,
+      "word": "周杰伦演唱会三亚三场连开",
+      "onboard_time": 1734497180,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169613,
       "num": 169613,
       "word": "贾玲 魂又没换",
       "onboard_time": 1734449238,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168385,
+      "num": 168385,
+      "word": "被大奉打更人钓成翘嘴了",
+      "onboard_time": 1734498080,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 165549,
@@ -793,6 +873,14 @@
       "onboard_time": 1734426680,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 158887,
+      "num": 158887,
+      "word": "为什么说成年人需找到自己的精神食粮",
+      "onboard_time": 1734498861,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 157515,
@@ -843,14 +931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151491,
-      "num": 384857,
-      "word": "美国15岁女生教室枪杀多人后自杀",
-      "onboard_time": 1734496101,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 151375,
       "num": 191292,
       "word": "王者牛魔2024王者之证皮肤",
@@ -864,6 +944,14 @@
       "word": "网传失联李宜雪一直在家中",
       "onboard_time": 1734461413,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149291,
+      "num": 149291,
+      "word": "杨妞花痛哭被困父母坟头1313天",
+      "onboard_time": 1734499279,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1025,6 +1113,14 @@
       "onboard_time": 1734482179,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125703,
+      "num": 285972,
+      "word": "向佐一人还原2024热梗",
+      "onboard_time": 1734497662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 124701,
@@ -1195,6 +1291,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 92091,
+      "num": 290759,
+      "word": "Rookie加入LPL十周年",
+      "onboard_time": 1734498021,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90313,
       "num": 90313,
       "word": "王楚钦可口可乐活动现场",
@@ -1315,6 +1419,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70843,
+      "num": 291870,
+      "word": "YG回应宋旻浩朴柱炫恋情",
+      "onboard_time": 1734498919,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70442,
       "num": 528041,
       "word": "雄鹿vs雷霆",
@@ -1363,12 +1475,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 62588,
+      "num": 454002,
+      "word": "美校园枪击案凶手是15岁少女",
+      "onboard_time": 1734499038,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59129,
       "num": 235865,
       "word": "加纳乔倒钩获得普斯卡什奖",
       "onboard_time": 1734487517,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59128,
+      "num": 292366,
+      "word": "猎罪图鉴2接鉴入佳境",
+      "onboard_time": 1734499159,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 59072,
@@ -1385,6 +1513,14 @@
       "onboard_time": 1734465072,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 54738,
+      "num": 285352,
+      "word": "九重紫紫定好运卡",
+      "onboard_time": 1734497962,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 53153,
@@ -1443,6 +1579,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49552,
+      "num": 362881,
+      "word": "近七成职场人未休完年假",
+      "onboard_time": 1734498381,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 48414,
+      "num": 1123251,
+      "word": "莲花卫士25年25次圆满交接背后细节",
+      "onboard_time": 1734496702,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 47550,
       "num": 47550,
       "word": "尹锡悦现在各种拒绝",
@@ -1457,6 +1609,14 @@
       "onboard_time": 1734459433,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46548,
+      "num": 515365,
+      "word": "明年经济工作政策组合拳有哪些",
+      "onboard_time": 1734496581,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45341,
@@ -1531,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39007,
+      "num": 151020,
+      "word": "诛仙世界UE5.5曝光",
+      "onboard_time": 1734499219,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 37702,
       "num": 183244,
       "word": "歌手诺米谈走红8个月",
@@ -1587,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28543,
+      "num": 291248,
+      "word": "年内法拍房累计已成交超10万套",
+      "onboard_time": 1734498620,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27620,
       "num": 27620,
       "word": "古风小生",
@@ -1609,14 +1785,6 @@
       "onboard_time": 1734487218,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26902,
-      "num": 366989,
-      "word": "近视了不戴眼镜会有什么后果",
-      "onboard_time": 1734496341,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 26032,
@@ -1659,14 +1827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19906,
-      "num": 386265,
-      "word": "明年经济工作政策组合拳有哪些",
-      "onboard_time": 1734496581,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19505,
       "num": 19505,
       "word": "尹锡悦调查案陷入僵局",
@@ -1699,20 +1859,20 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 13360,
+      "num": 364136,
+      "word": "世界羽联祝张艺曼一切顺利",
+      "onboard_time": 1734498739,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12765,
       "num": 27166,
       "word": "90后航天员将迎首次出舱",
       "onboard_time": 1734468670,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10846,
-      "num": 1123251,
-      "word": "莲花卫士25年25次圆满交接背后细节",
-      "onboard_time": 1734496702,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 5212,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734499342903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1236638,
+        "num": 1236638,
+        "word": "印度女网红用面包做连衣裙惹众怒",
+        "onboard_time": 1734491418,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 941568,
+        "num": 941568,
+        "word": "保姆自己吃水果零食是没分寸吗",
+        "onboard_time": 1734494001,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48414,
+        "num": 778426,
+        "word": "莲花卫士25年25次圆满交接背后细节",
+        "onboard_time": 1734496702,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 618377,
+        "num": 618377,
+        "word": "陈乔恩老公画作被拍卖",
+        "onboard_time": 1734495620,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583722,
+        "num": 583722,
+        "word": "女孩欲轻生被劝4小时多了个干爹",
+        "onboard_time": 1734487879,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 46548,
+        "num": 515365,
+        "word": "明年经济工作政策组合拳有哪些",
+        "onboard_time": 1734496581,
+        "rank": 5,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 2539476,
+        "num": 509678,
+        "word": "张馨予老公疑转业至广州大学保卫处",
+        "onboard_time": 1734493459,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500958,
+        "num": 500958,
+        "word": "美国15岁女生教室枪杀多人后自杀",
+        "onboard_time": 1734496101,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 468795,
+        "num": 468795,
+        "word": "脑瘫青年发现自己的诗出现在大银幕",
+        "onboard_time": 1734489558,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62588,
+        "num": 454002,
+        "word": "美校园枪击案凶手是15岁少女",
+        "onboard_time": 1734499038,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 452324,
+        "num": 452324,
+        "word": "女子吃火锅把鸭肠织成毛衣",
+        "onboard_time": 1734494061,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436290,
+        "num": 436290,
+        "word": "李小冉 一个旅行能犯多大错误",
+        "onboard_time": 1734494780,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435586,
+        "num": 435586,
+        "word": "孟子义你但凡抬头看看李昀锐",
+        "onboard_time": 1734491540,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13360,
+        "num": 364136,
+        "word": "世界羽联祝张艺曼一切顺利",
+        "onboard_time": 1734498739,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49552,
+        "num": 362881,
+        "word": "近七成职场人未休完年假",
+        "onboard_time": 1734498381,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 362106,
+        "num": 362106,
+        "word": "广州大学回应网传张馨予老公转业",
+        "onboard_time": 1734493820,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292620,
+        "num": 292620,
+        "word": "伊朗女歌手未戴头巾唱歌被捕",
+        "onboard_time": 1734491540,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59128,
+        "num": 292366,
+        "word": "猎罪图鉴2接鉴入佳境",
+        "onboard_time": 1734499159,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70843,
+        "num": 291870,
+        "word": "YG回应宋旻浩朴柱炫恋情",
+        "onboard_time": 1734498919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28543,
+        "num": 291248,
+        "word": "年内法拍房累计已成交超10万套",
+        "onboard_time": 1734498620,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92091,
+        "num": 290759,
+        "word": "Rookie加入LPL十周年",
+        "onboard_time": 1734498021,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 332258,
+        "num": 290233,
+        "word": "网剧冬至",
+        "onboard_time": 1734491779,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348147,
+        "num": 289986,
+        "word": "奔跑吧两大女MC浙江卫视跨年合体",
+        "onboard_time": 1734496042,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421488,
+        "num": 289544,
+        "word": "南大碎尸案警方誓言追查到底",
+        "onboard_time": 1734449419,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176372,
+        "num": 288901,
+        "word": "仙剑四重制版前导PV",
+        "onboard_time": 1734498200,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327492,
+        "num": 288629,
+        "word": "于适封神2妆造",
+        "onboard_time": 1734491718,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331036,
+        "num": 288049,
+        "word": "朱朱是请吃饭的漂亮姐姐",
+        "onboard_time": 1734496881,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327440,
+        "num": 287193,
+        "word": "虞书欣 在干嘛呀",
+        "onboard_time": 1734498200,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 309248,
+        "num": 286927,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295571,
+        "num": 286274,
+        "word": "虞书欣 谢谢慕声儿",
+        "onboard_time": 1734490879,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125703,
+        "num": 285972,
+        "word": "向佐一人还原2024热梗",
+        "onboard_time": 1734497662,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54738,
+        "num": 285352,
+        "word": "九重紫紫定好运卡",
+        "onboard_time": 1734497962,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285208,
+        "num": 285208,
+        "word": "豆瓣崩了",
+        "onboard_time": 1734499279,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265208,
+        "num": 265208,
+        "word": "杀马特之父工作两天月入5万",
+        "onboard_time": 1734493760,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238216,
+        "num": 238216,
+        "word": "司法所长在基层工作28年却无编制",
+        "onboard_time": 1734497901,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223552,
+        "num": 223552,
+        "word": "澳门盛装迎接回归祖国25周年",
+        "onboard_time": 1734470531,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 214297,
+        "num": 214297,
+        "word": "虞书欣生日专辑上线",
+        "onboard_time": 1734478337,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212095,
+        "num": 212095,
+        "word": "陈梦因腰伤无法久坐",
+        "onboard_time": 1734493580,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202935,
+        "num": 202935,
+        "word": "原神",
+        "onboard_time": 1734497962,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197265,
+        "num": 197265,
+        "word": "江歌妈妈名下商户注销",
+        "onboard_time": 1734496042,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195339,
+        "num": 195339,
+        "word": "李昀锐回应是薄肌的神",
+        "onboard_time": 1734495141,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180951,
+        "num": 180951,
+        "word": "王鹤棣田曦薇大奉打更人将定档",
+        "onboard_time": 1734496640,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176213,
+        "num": 176213,
+        "word": "近视了不戴眼镜会有什么后果",
+        "onboard_time": 1734496341,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169653,
+        "num": 169653,
+        "word": "周杰伦演唱会三亚三场连开",
+        "onboard_time": 1734497180,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168385,
+        "num": 168385,
+        "word": "被大奉打更人钓成翘嘴了",
+        "onboard_time": 1734498080,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167787,
+        "num": 167787,
+        "word": "永夜星河",
+        "onboard_time": 1734489858,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164062,
+        "num": 164062,
+        "word": "花2万2网购保时捷刚落地就被查",
+        "onboard_time": 1734488959,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158887,
+        "num": 158887,
+        "word": "为什么说成年人需找到自己的精神食粮",
+        "onboard_time": 1734498861,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39007,
+        "num": 151020,
+        "word": "诛仙世界UE5.5曝光",
+        "onboard_time": 1734499219,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149291,
+        "num": 149291,
+        "word": "杨妞花痛哭被困父母坟头1313天",
+        "onboard_time": 1734499279,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平听取海南省委和省政府工作汇报#"
+    }
+  }
+}
