@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734520785071,
+  "endTime": 1734521745821,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1162348,
+      "num": 292287,
+      "word": "王浩辞去浙江省省长职务",
+      "onboard_time": 1734519379,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1099682,
       "num": 1151073,
       "word": "杨妞花痛哭被困父母坟头1313天",
@@ -129,14 +137,6 @@
       "onboard_time": 1734483199,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 938566,
-      "num": 292287,
-      "word": "王浩辞去浙江省省长职务",
-      "onboard_time": 1734519379,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 914542,
@@ -323,6 +323,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 650039,
+      "num": 290699,
+      "word": "宋祖儿安慰粉丝",
+      "onboard_time": 1734519498,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 648421,
       "num": 287017,
       "word": "90后住家保姆说永远会把自己当外人",
@@ -337,6 +345,14 @@
       "onboard_time": 1734499520,
       "rank": 20,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 620280,
+      "num": 246183,
+      "word": "研究生导师辱骂马龙孙颖莎被处分",
+      "onboard_time": 1734520398,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 618377,
@@ -361,6 +377,14 @@
       "onboard_time": 1734487579,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 578793,
+      "num": 1092606,
+      "word": "哈尔滨冰封黄玫瑰",
+      "onboard_time": 1734517760,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 568487,
@@ -435,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 476037,
+      "num": 476037,
+      "word": "九重紫",
+      "onboard_time": 1734516919,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475925,
       "num": 267546,
       "word": "新娘化妆两小时到新郎家被抹一脸黑",
@@ -459,27 +491,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 467086,
-      "num": 467086,
-      "word": "九重紫",
-      "onboard_time": 1734516919,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 466206,
       "num": 419162,
       "word": "广州大学回应网传张馨予老公转业",
       "onboard_time": 1734493820,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 460160,
-      "num": 290699,
-      "word": "宋祖儿安慰粉丝",
-      "onboard_time": 1734519498,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -603,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405689,
-      "num": 405689,
-      "word": "哈尔滨冰封黄玫瑰",
-      "onboard_time": 1734517760,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 405004,
       "num": 405004,
       "word": "王鹤棣领衔主演电影青春梦",
@@ -731,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333268,
+      "num": 273997,
+      "word": "33岁男子喝酒11年媳妇无奈离婚",
+      "onboard_time": 1734519498,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325675,
       "num": 330292,
       "word": "江歌妈妈回应注销名下商户",
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 315923,
+      "num": 315923,
+      "word": "老瓦谈莫雷加德击败王楚钦",
+      "onboard_time": 1734519920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315678,
       "num": 315678,
       "word": "NewJeans韩服VOGUE封面",
@@ -840,6 +864,14 @@
       "word": "李昀锐回应是薄肌的神",
       "onboard_time": 1734495141,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293672,
+      "num": 245793,
+      "word": "刘诗诗和吴奇隆爸爸共用一辆车",
+      "onboard_time": 1734520700,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -889,14 +921,6 @@
       "onboard_time": 1734485538,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 273997,
-      "num": 273997,
-      "word": "33岁男子喝酒11年媳妇无奈离婚",
-      "onboard_time": 1734519498,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273291,
@@ -1003,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245294,
+      "num": 270218,
+      "word": "郑伊健丁克原因",
+      "onboard_time": 1734518359,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244695,
       "num": 244695,
       "word": "原神",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1734448400,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241109,
+      "num": 241109,
+      "word": "韩国人一家的普通午饭",
+      "onboard_time": 1734519498,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 240757,
@@ -1187,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200249,
-      "num": 271719,
-      "word": "老瓦谈莫雷加德击败王楚钦",
-      "onboard_time": 1734519920,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199475,
       "num": 199475,
       "word": "杨幂活动现场状态",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1734432619,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198604,
-      "num": 198604,
-      "word": "研究生导师辱骂马龙孙颖莎被处分",
-      "onboard_time": 1734520398,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 197121,
@@ -1324,7 +1348,7 @@
     },
     {
       "raw_hot": 190275,
-      "num": 201521,
+      "num": 245344,
       "word": "王心凌朋友圈背景是去世小狗合照",
       "onboard_time": 1734520341,
       "rank": 34,
@@ -1371,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185791,
+      "num": 185791,
+      "word": "妈妈称自闭症儿子被老师同学治愈",
+      "onboard_time": 1734518541,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 185725,
       "num": 185725,
       "word": "萨摩耶秒变萨摩怒",
@@ -1411,12 +1443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181389,
-      "num": 270218,
-      "word": "郑伊健丁克原因",
-      "onboard_time": 1734518359,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 182222,
+      "num": 197906,
+      "word": "波司登直播",
+      "onboard_time": 1734520220,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 181140,
@@ -1571,20 +1603,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166039,
+      "num": 289332,
+      "word": "小伙从湖北徒步到西藏后容貌大变",
+      "onboard_time": 1734519801,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165549,
       "num": 391363,
       "word": "祝绪丹杨仕泽诡异到一个频率了",
       "onboard_time": 1734494659,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164554,
-      "num": 164554,
-      "word": "妈妈称自闭症儿子被老师同学治愈",
-      "onboard_time": 1734518541,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 163870,
@@ -1763,14 +1795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 151441,
-      "num": 151441,
-      "word": "韩国人一家的普通午饭",
-      "onboard_time": 1734519498,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151375,
       "num": 191292,
       "word": "王者牛魔2024王者之证皮肤",
@@ -1833,14 +1857,6 @@
       "onboard_time": 1734509541,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145451,
-      "num": 145451,
-      "word": "波司登直播",
-      "onboard_time": 1734520220,
-      "rank": 41,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 144606,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1734445402,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138624,
-      "num": 138624,
-      "word": "刘诗诗和吴奇隆爸爸共用一辆车",
-      "onboard_time": 1734520700,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 137581,
@@ -2083,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128904,
+      "num": 128904,
+      "word": "张杰清华大学唱着逆战出场",
+      "onboard_time": 1734521420,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128460,
       "num": 250472,
       "word": "belift起诉ENHYPEN黑粉",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1734504919,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 127641,
-      "num": 289332,
-      "word": "小伙从湖北徒步到西藏后容貌大变",
-      "onboard_time": 1734519801,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127607,
@@ -2139,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126579,
+      "num": 269116,
+      "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
+      "onboard_time": 1734520398,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125703,
       "num": 285972,
       "word": "向佐一人还原2024热梗",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1734494362,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 124637,
+      "num": 124637,
+      "word": "电车里程焦虑有望在春运前缓解",
+      "onboard_time": 1734521119,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 124095,
@@ -2209,14 +2233,6 @@
       "onboard_time": 1734447740,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119585,
-      "num": 269116,
-      "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
-      "onboard_time": 1734520398,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118254,
@@ -2345,6 +2361,14 @@
       "onboard_time": 1734502938,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 106269,
+      "num": 288421,
+      "word": "真的建议你吃完饭站半个小时",
+      "onboard_time": 1734519980,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 105816,
@@ -2523,14 +2547,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 87757,
-      "num": 288421,
-      "word": "真的建议你吃完饭站半个小时",
-      "onboard_time": 1734519980,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 87547,
       "num": 87547,
       "word": "李兰迪 小胡同文学",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1734494961,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 69575,
+      "num": 246635,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734518841,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 69105,
@@ -2915,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48192,
+      "num": 293552,
+      "word": "澳门老店主珍藏回归当天彩旗",
+      "onboard_time": 1734520099,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 47550,
       "num": 47550,
       "word": "尹锡悦现在各种拒绝",
@@ -3035,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40641,
+      "num": 245637,
+      "word": "汪顺说不用在乎年纪",
+      "onboard_time": 1734521659,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40250,
       "num": 177801,
       "word": "龚俊时尚COSMO2025开年刊",
@@ -3139,6 +3179,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33460,
+      "num": 186456,
+      "word": "原神5.2版本",
+      "onboard_time": 1734520998,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 33156,
+      "num": 268630,
+      "word": "商竣程vs范阿舍",
+      "onboard_time": 1734520341,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32233,
       "num": 241365,
       "word": "国企改革概念多股涨停",
@@ -3155,6 +3211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31320,
+      "num": 246515,
+      "word": "小学生组团看电视的鞋店倒闭",
+      "onboard_time": 1734521179,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31286,
       "num": 229160,
       "word": "何小鹏称X9是唯一开着不像司机的MPV",
@@ -3169,14 +3233,6 @@
       "onboard_time": 1734498681,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 30470,
-      "num": 268630,
-      "word": "商竣程vs范阿舍",
-      "onboard_time": 1734520341,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 29932,
@@ -3209,14 +3265,6 @@
       "onboard_time": 1734515059,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29357,
-      "num": 293552,
-      "word": "澳门老店主珍藏回归当天彩旗",
-      "onboard_time": 1734520099,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 29306,
@@ -3371,6 +3419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17680,
+      "num": 268184,
+      "word": "2024年度赛道揭晓",
+      "onboard_time": 1734519980,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16330,
       "num": 245814,
       "word": "防哮喘首先要脱敏",
@@ -3393,14 +3449,6 @@
       "onboard_time": 1734512419,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 15596,
-      "num": 268184,
-      "word": "2024年度赛道揭晓",
-      "onboard_time": 1734519980,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15143,

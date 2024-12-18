@@ -1,0 +1,410 @@
+{
+  "runTime": 1734521745821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 578793,
+        "num": 1092606,
+        "word": "哈尔滨冰封黄玫瑰",
+        "onboard_time": 1734517760,
+        "rank": 0,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 476037,
+        "num": 476037,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16921,
+        "num": 458544,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 443877,
+        "num": 443877,
+        "word": "iPhone17ProMax水平三摄模组",
+        "onboard_time": 1734513920,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381055,
+        "num": 381055,
+        "word": "特斯拉中国工厂负责人将离职",
+        "onboard_time": 1734518181,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 390647,
+        "num": 370393,
+        "word": "供他吃住他却拐卖我儿子",
+        "onboard_time": 1734500600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315923,
+        "num": 315923,
+        "word": "老瓦谈莫雷加德击败王楚钦",
+        "onboard_time": 1734519920,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256077,
+        "num": 256077,
+        "word": "孟子义抽3位朋友去大理",
+        "onboard_time": 1734518300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249117,
+        "num": 249117,
+        "word": "22年前向央视求救的女人现状",
+        "onboard_time": 1734507379,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48192,
+        "num": 249028,
+        "word": "澳门老店主珍藏回归当天彩旗",
+        "onboard_time": 1734520099,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1162348,
+        "num": 248699,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823723,
+        "num": 248344,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 650039,
+        "num": 247927,
+        "word": "宋祖儿安慰粉丝",
+        "onboard_time": 1734519498,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348135,
+        "num": 247762,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106269,
+        "num": 247177,
+        "word": "真的建议你吃完饭站半个小时",
+        "onboard_time": 1734519980,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 333268,
+        "num": 246954,
+        "word": "33岁男子喝酒11年媳妇无奈离婚",
+        "onboard_time": 1734519498,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246821,
+        "num": 246821,
+        "word": "孟子义李昀锐回应二搭",
+        "onboard_time": 1734512060,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302197,
+        "num": 246766,
+        "word": "90后住家保姆说永远会把自己当外人",
+        "onboard_time": 1734514760,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69575,
+        "num": 246635,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734518841,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31320,
+        "num": 246515,
+        "word": "小学生组团看电视的鞋店倒闭",
+        "onboard_time": 1734521179,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169012,
+        "num": 246365,
+        "word": "惠英红刘诗诗合影",
+        "onboard_time": 1734518599,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620280,
+        "num": 246183,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304979,
+        "num": 245936,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293672,
+        "num": 245793,
+        "word": "刘诗诗和吴奇隆爸爸共用一辆车",
+        "onboard_time": 1734520700,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40641,
+        "num": 245637,
+        "word": "汪顺说不用在乎年纪",
+        "onboard_time": 1734521659,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260073,
+        "num": 245583,
+        "word": "黑神话悟空再输宇宙机器人",
+        "onboard_time": 1734519379,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245461,
+        "num": 245461,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186092,
+        "num": 245344,
+        "word": "王心凌朋友圈背景是去世小狗合照",
+        "onboard_time": 1734520341,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135806,
+        "num": 245297,
+        "word": "容嬷嬷李明启88岁了",
+        "onboard_time": 1734516860,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17680,
+        "num": 245294,
+        "word": "2024年度赛道揭晓",
+        "onboard_time": 1734519980,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245294,
+        "num": 245293,
+        "word": "郑伊健丁克原因",
+        "onboard_time": 1734518359,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126579,
+        "num": 242507,
+        "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
+        "onboard_time": 1734520398,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241109,
+        "num": 241109,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231329,
+        "num": 231329,
+        "word": "蒋梦婕 国色芳华具象化",
+        "onboard_time": 1734513320,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182222,
+        "num": 197906,
+        "word": "波司登直播",
+        "onboard_time": 1734520220,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 166039,
+        "num": 187911,
+        "word": "小伙从湖北徒步到西藏后容貌大变",
+        "onboard_time": 1734519801,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33460,
+        "num": 186456,
+        "word": "原神5.2版本",
+        "onboard_time": 1734520998,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185791,
+        "num": 185791,
+        "word": "妈妈称自闭症儿子被老师同学治愈",
+        "onboard_time": 1734518541,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 184186,
+        "num": 184186,
+        "word": "重案六组编剧谈改编南大碎尸案",
+        "onboard_time": 1734516620,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 174924,
+        "num": 174924,
+        "word": "吴奇隆与刘诗诗关联公司已注销",
+        "onboard_time": 1734507620,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164915,
+        "num": 164915,
+        "word": "iG全神班拿下开门红",
+        "onboard_time": 1734517038,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163093,
+        "num": 163093,
+        "word": "封神2妲己救活纣王",
+        "onboard_time": 1734516620,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143328,
+        "num": 143328,
+        "word": "舍友把我当冰激凌发朋友圈",
+        "onboard_time": 1734517879,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129744,
+        "num": 129744,
+        "word": "上海下雪",
+        "onboard_time": 1734508280,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129025,
+        "num": 129025,
+        "word": "杨幂活动现场状态",
+        "onboard_time": 1734517102,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 128904,
+        "num": 128904,
+        "word": "张杰清华大学唱着逆战出场",
+        "onboard_time": 1734521420,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127848,
+        "num": 127848,
+        "word": "芒果跨年真是群像的神",
+        "onboard_time": 1734514578,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33156,
+        "num": 127564,
+        "word": "商竣程vs范阿舍",
+        "onboard_time": 1734520341,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127484,
+        "num": 127484,
+        "word": "zeus",
+        "onboard_time": 1734502579,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124637,
+        "num": 124637,
+        "word": "电车里程焦虑有望在春运前缓解",
+        "onboard_time": 1734521119,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席澳门之行#"
+    }
+  }
+}
