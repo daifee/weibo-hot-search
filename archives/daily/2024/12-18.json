@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734532881142,
+  "endTime": 1734535512950,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -17,6 +17,14 @@
       "onboard_time": 1734507620,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1894073,
+      "num": 1894073,
+      "word": "女子花368888赌石切开不满意想退款",
+      "onboard_time": 1734531862,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1607684,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666138,
+      "num": 666138,
+      "word": "专家称取消公摊是明年重要工作",
+      "onboard_time": 1734532281,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 661765,
       "num": 661765,
       "word": "94岁西单商场宣布停业",
@@ -475,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 572850,
+      "num": 318599,
+      "word": "田柾国直播",
+      "onboard_time": 1734533780,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568487,
       "num": 1090957,
       "word": "iPhone17ProMax水平三摄模组",
       "onboard_time": 1734513920,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 565396,
-      "num": 565396,
-      "word": "女子花368888赌石切开不满意想退款",
-      "onboard_time": 1734531862,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 564047,
@@ -537,6 +553,14 @@
       "onboard_time": 1734524000,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517724,
+      "num": 318434,
+      "word": "王慧玲曾劝农村女性别轻易结婚",
+      "onboard_time": 1734529521,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516313,
@@ -747,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412808,
+      "num": 262300,
+      "word": "朋友圈点赞率不足10%",
+      "onboard_time": 1734533842,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 405004,
       "num": 405004,
       "word": "王鹤棣领衔主演电影青春梦",
@@ -801,6 +833,14 @@
       "onboard_time": 1734448400,
       "rank": 7,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 389602,
+      "num": 389602,
+      "word": "多地官宣将取消公摊",
+      "onboard_time": 1734534080,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 386137,
@@ -865,6 +905,14 @@
       "onboard_time": 1734506539,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348422,
+      "num": 428961,
+      "word": "封神2 魔家四将班味好重",
+      "onboard_time": 1734532042,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 348147,
@@ -1072,14 +1120,6 @@
       "word": "高校回应男生将女生按地上强吻",
       "onboard_time": 1734446061,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282681,
-      "num": 282681,
-      "word": "王慧玲曾劝农村女性别轻易结婚",
-      "onboard_time": 1734529521,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1339,6 +1379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214880,
+      "num": 214880,
+      "word": "鹿晗苹果头",
+      "onboard_time": 1734533061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 214535,
+      "num": 208264,
+      "word": "男主持人质疑女权博主王慧玲",
+      "onboard_time": 1734531260,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210195,
       "num": 210195,
       "word": "中国商场怎么全是预制菜",
@@ -1352,6 +1408,14 @@
       "word": "九重紫 凉薄之人如何偕老",
       "onboard_time": 1734526099,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208859,
+      "num": 208859,
+      "word": "孟子义 我欲乘风",
+      "onboard_time": 1734533421,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1547,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194913,
-      "num": 194913,
-      "word": "男主持人质疑女权博主王慧玲",
-      "onboard_time": 1734531260,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193681,
       "num": 209808,
       "word": "宋佳 瞳孔地震",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1734514161,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192176,
-      "num": 428961,
-      "word": "封神2 魔家四将班味好重",
-      "onboard_time": 1734532042,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 191509,
@@ -1747,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179757,
+      "num": 465632,
+      "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
+      "onboard_time": 1734531981,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179149,
       "num": 132609,
       "word": "女子免费领养猫咪陷猫贷纠纷",
@@ -1811,12 +1867,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174379,
-      "num": 174379,
-      "word": "专家称取消公摊是明年重要工作",
-      "onboard_time": 1734532281,
-      "rank": 38,
-      "category": "民生新闻,财经"
+      "raw_hot": 174695,
+      "num": 174695,
+      "word": "猎罪图鉴2沈翊鉴茶",
+      "onboard_time": 1734534860,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 174054,
@@ -1961,6 +2017,14 @@
       "onboard_time": 1734524419,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165368,
+      "num": 206349,
+      "word": "檀健次 蝴蝶结比心",
+      "onboard_time": 1734534199,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 163870,
@@ -2113,6 +2177,14 @@
       "onboard_time": 1734501319,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155605,
+      "num": 155605,
+      "word": "博主称在大理古城要钱13天6800元",
+      "onboard_time": 1734534321,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 155124,
@@ -2523,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129098,
+      "num": 219603,
+      "word": "被林高远感染下的团魂",
+      "onboard_time": 1734533842,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128460,
       "num": 250472,
       "word": "belift起诉ENHYPEN黑粉",
@@ -2577,14 +2657,6 @@
       "onboard_time": 1734482179,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125853,
-      "num": 465632,
-      "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
-      "onboard_time": 1734531981,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 125703,
@@ -2705,6 +2777,30 @@
       "onboard_time": 1734495320,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117069,
+      "num": 117069,
+      "word": "黄子弘凡 妆抛脸",
+      "onboard_time": 1734535340,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116552,
+      "num": 116552,
+      "word": "杨鸣愁死了",
+      "onboard_time": 1734533119,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116549,
+      "num": 318797,
+      "word": "俄罗斯一客运列车与货运列车相撞",
+      "onboard_time": 1734534260,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115763,
@@ -2905,6 +3001,14 @@
       "onboard_time": 1734506359,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96744,
+      "num": 175134,
+      "word": "张杰直播",
+      "onboard_time": 1734533842,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 96483,
@@ -3355,6 +3459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 56919,
+      "num": 263687,
+      "word": "机场偶遇张馨予何捷",
+      "onboard_time": 1734532042,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56397,
       "num": 1123251,
       "word": "莲花卫士25年25次圆满交接背后细节",
@@ -3441,6 +3553,14 @@
       "onboard_time": 1734494540,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 51436,
+      "num": 318563,
+      "word": "有人为了骗保专门开了一家医院",
+      "onboard_time": 1734534740,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 51423,
@@ -3785,6 +3905,14 @@
       "onboard_time": 1734507798,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33919,
+      "num": 207135,
+      "word": "稻草熊娱乐市值缩水近70亿",
+      "onboard_time": 1734534561,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 33460,
@@ -4145,6 +4273,14 @@
       "onboard_time": 1734468670,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10737,
+      "num": 207478,
+      "word": "适当的保持饥饿感可以减脂",
+      "onboard_time": 1734535160,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9957,
