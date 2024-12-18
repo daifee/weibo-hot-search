@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734518569046,
+  "endTime": 1734520785071,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -723,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 938566,
+      "num": 292287,
+      "word": "王浩辞去浙江省省长职务",
+      "onboard_time": 1734519379,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 933300,
       "num": 725513,
       "word": "卢昱晓 刘亦菲在那里我也想去",
@@ -897,6 +905,14 @@
       "onboard_time": 1734228618,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 836377,
+      "num": 291933,
+      "word": "微信朋友圈崩了",
+      "onboard_time": 1734517640,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 824332,
@@ -1412,7 +1428,7 @@
     },
     {
       "raw_hot": 648421,
-      "num": 264094,
+      "num": 287017,
       "word": "90后住家保姆说永远会把自己当外人",
       "onboard_time": 1734514760,
       "rank": 20,
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 475925,
-      "num": 241332,
+      "num": 267546,
       "word": "新娘化妆两小时到新郎家被抹一脸黑",
       "onboard_time": 1734513200,
       "rank": 22,
@@ -2243,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467086,
+      "num": 467086,
+      "word": "九重紫",
+      "onboard_time": 1734165379,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466206,
       "num": 419162,
       "word": "广州大学回应网传张馨予老公转业",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1734423918,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460160,
+      "num": 290699,
+      "word": "宋祖儿安慰粉丝",
+      "onboard_time": 1734519498,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 459272,
@@ -2619,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405689,
+      "num": 405689,
+      "word": "哈尔滨冰封黄玫瑰",
+      "onboard_time": 1734517760,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 405073,
       "num": 405073,
       "word": "李昀锐十天涨粉百万",
@@ -2651,20 +2691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402901,
-      "num": 402901,
-      "word": "九重紫",
-      "onboard_time": 1734165379,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400828,
       "num": 400828,
       "word": "百万新车被剐蹭车主仅让对方擦一下",
       "onboard_time": 1734478997,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399392,
+      "num": 399392,
+      "word": "特斯拉中国工厂负责人将离职",
+      "onboard_time": 1734518181,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 399286,
@@ -2681,6 +2721,14 @@
       "onboard_time": 1734422060,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 398270,
+      "num": 382819,
+      "word": "网红柏公子偷税被查",
+      "onboard_time": 1734518599,
+      "rank": 6,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 395297,
@@ -2857,14 +2905,6 @@
       "onboard_time": 1734363501,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 368900,
-      "num": 257239,
-      "word": "微信朋友圈崩了",
-      "onboard_time": 1734517640,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 366932,
@@ -3403,6 +3443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303374,
+      "num": 303374,
+      "word": "孟子义抽3位朋友去大理",
+      "onboard_time": 1734518300,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303370,
       "num": 236329,
       "word": "12岁女孩感染HPV涉事医院该学学法",
@@ -3723,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273997,
+      "num": 273997,
+      "word": "33岁男子喝酒11年媳妇无奈离婚",
+      "onboard_time": 1734519498,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273291,
       "num": 273291,
       "word": "特朗普换新发型亮相",
@@ -3737,6 +3793,14 @@
       "onboard_time": 1734321980,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 271765,
+      "num": 271765,
+      "word": "黑神话悟空再输宇宙机器人",
+      "onboard_time": 1734519379,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 270254,
@@ -4225,6 +4289,14 @@
       "onboard_time": 1734223938,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232549,
+      "num": 270441,
+      "word": "封神2妲己救活纣王",
+      "onboard_time": 1734516620,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 231991,
@@ -5107,6 +5179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200249,
+      "num": 271719,
+      "word": "老瓦谈莫雷加德击败王楚钦",
+      "onboard_time": 1734519920,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200065,
       "num": 200065,
       "word": "魏哲鸣大背头",
@@ -5171,20 +5251,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198604,
+      "num": 198604,
+      "word": "研究生导师辱骂马龙孙颖莎被处分",
+      "onboard_time": 1734520398,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198507,
       "num": 228278,
       "word": "真穷过的导演拍的电影有多真",
       "onboard_time": 1734250938,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198362,
-      "num": 198362,
-      "word": "哈尔滨冰封黄玫瑰",
-      "onboard_time": 1734517760,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 198205,
@@ -5555,20 +5635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191509,
+      "num": 191509,
+      "word": "舍友把我当冰激凌发朋友圈",
+      "onboard_time": 1734517879,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191088,
       "num": 246549,
       "word": "成毅确认参加湖南卫视跨年",
       "onboard_time": 1734231678,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191061,
-      "num": 268180,
-      "word": "封神2妲己救活纣王",
-      "onboard_time": 1734516620,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 190948,
@@ -5609,6 +5689,14 @@
       "onboard_time": 1734271820,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190275,
+      "num": 201521,
+      "word": "王心凌朋友圈背景是去世小狗合照",
+      "onboard_time": 1734520341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 190005,
@@ -5811,14 +5899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185856,
-      "num": 185856,
-      "word": "舍友把我当冰激凌发朋友圈",
-      "onboard_time": 1734517879,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185725,
       "num": 185725,
       "word": "萨摩耶秒变萨摩怒",
@@ -5865,6 +5945,14 @@
       "onboard_time": 1734240198,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183808,
+      "num": 275930,
+      "word": "惠英红刘诗诗合影",
+      "onboard_time": 1734518599,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183529,
@@ -5977,6 +6065,14 @@
       "onboard_time": 1734346701,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181389,
+      "num": 270218,
+      "word": "郑伊健丁克原因",
+      "onboard_time": 1734518359,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 181375,
@@ -6723,6 +6819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 164554,
+      "num": 164554,
+      "word": "妈妈称自闭症儿子被老师同学治愈",
+      "onboard_time": 1734518541,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 164529,
       "num": 171310,
       "word": "曾舜晞原始帧给我看爽了",
@@ -7451,6 +7555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 151441,
+      "num": 151441,
+      "word": "韩国人一家的普通午饭",
+      "onboard_time": 1734519498,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151375,
       "num": 191292,
       "word": "王者牛魔2024王者之证皮肤",
@@ -7729,6 +7841,14 @@
       "onboard_time": 1734427219,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145451,
+      "num": 145451,
+      "word": "波司登直播",
+      "onboard_time": 1734520220,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 145146,
@@ -8067,6 +8187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138624,
+      "num": 138624,
+      "word": "刘诗诗和吴奇隆爸爸共用一辆车",
+      "onboard_time": 1734520700,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138554,
       "num": 138554,
       "word": "孟子义李昀锐坐地吻路透",
@@ -8153,6 +8281,14 @@
       "onboard_time": 1734259879,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137481,
+      "num": 137481,
+      "word": "一诺分享近视手术vlog",
+      "onboard_time": 1734519260,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 137407,
@@ -8297,14 +8433,6 @@
       "onboard_time": 1734495560,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134684,
-      "num": 134684,
-      "word": "特斯拉中国工厂负责人将离职",
-      "onboard_time": 1734518181,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 134644,
@@ -8643,6 +8771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129190,
+      "num": 284782,
+      "word": "王一博微博跨年预约破100万",
+      "onboard_time": 1734519801,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129141,
       "num": 281492,
       "word": "竹林四侠团魂",
@@ -8753,6 +8889,14 @@
       "onboard_time": 1734504919,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127641,
+      "num": 289332,
+      "word": "小伙从湖北徒步到西藏后容貌大变",
+      "onboard_time": 1734519801,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127619,
@@ -9171,20 +9315,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119585,
+      "num": 269116,
+      "word": "俄安全局确认抓获基里洛夫谋杀案嫌疑人",
+      "onboard_time": 1734520398,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119503,
       "num": 1017942,
       "word": "看神十九航天员在太空做实验",
       "onboard_time": 1734249558,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119404,
-      "num": 253519,
-      "word": "孟子义抽3位朋友去大理",
-      "onboard_time": 1734518300,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 119361,
@@ -10491,12 +10635,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 87466,
-      "num": 110715,
-      "word": "妈妈称自闭症儿子被老师同学治愈",
-      "onboard_time": 1734518541,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 87757,
+      "num": 288421,
+      "word": "真的建议你吃完饭站半个小时",
+      "onboard_time": 1734519980,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 87455,
@@ -11001,14 +11145,6 @@
       "onboard_time": 1734240138,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 71933,
-      "num": 145798,
-      "word": "郑伊健丁克原因",
-      "onboard_time": 1734518359,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 71815,
@@ -12987,6 +13123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30470,
+      "num": 268630,
+      "word": "商竣程vs范阿舍",
+      "onboard_time": 1734520341,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30440,
       "num": 251231,
       "word": "比特币上触107000美元",
@@ -13057,6 +13201,14 @@
       "onboard_time": 1734515059,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29357,
+      "num": 293552,
+      "word": "澳门老店主珍藏回归当天彩旗",
+      "onboard_time": 1734520099,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 29329,
@@ -13913,6 +14065,14 @@
       "onboard_time": 1734204192,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15596,
+      "num": 268184,
+      "word": "2024年度赛道揭晓",
+      "onboard_time": 1734519980,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15268,
