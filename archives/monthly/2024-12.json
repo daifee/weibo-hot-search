@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734536380373,
+  "endTime": 1734539379711,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -6339,6 +6339,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 714135,
+      "num": 714135,
+      "word": "多地官宣将取消公摊",
+      "onboard_time": 1734534080,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 713761,
       "num": 713761,
       "word": "嘎子哥谢孟伟后悔直播带货卖酒",
@@ -6489,14 +6497,6 @@
       "onboard_time": 1734172940,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 703887,
-      "num": 703887,
-      "word": "多地官宣将取消公摊",
-      "onboard_time": 1734534080,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 703521,
@@ -7585,6 +7585,14 @@
       "onboard_time": 1734359301,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 634574,
+      "num": 186888,
+      "word": "警方通报上海一住宅发生刑事案件",
+      "onboard_time": 1734535940,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 634100,
@@ -10745,6 +10753,14 @@
       "onboard_time": 1733818459,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 485238,
+      "num": 121213,
+      "word": "乳房长疙瘩没在意检查竟是乳腺癌",
+      "onboard_time": 1734536899,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 484390,
@@ -15555,6 +15571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 340203,
+      "num": 340203,
+      "word": "博主称在大理古城要钱13天6800元",
+      "onboard_time": 1734534321,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 340176,
       "num": 340176,
       "word": "韩国警方调查韩国总统涉内乱罪",
@@ -18025,6 +18049,14 @@
       "onboard_time": 1733452398,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 288494,
+      "num": 185557,
+      "word": "丁禹兮cp研究报告",
+      "onboard_time": 1734535940,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 288468,
@@ -23315,6 +23347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216327,
+      "num": 216327,
+      "word": "鹿晗苹果头",
+      "onboard_time": 1734533061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216218,
       "num": 231307,
       "word": "无限暖暖",
@@ -23489,14 +23529,6 @@
       "onboard_time": 1733463858,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214880,
-      "num": 214880,
-      "word": "鹿晗苹果头",
-      "onboard_time": 1734533061,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 214839,
@@ -33747,14 +33779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162057,
-      "num": 162057,
-      "word": "博主称在大理古城要钱13天6800元",
-      "onboard_time": 1734534321,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 162044,
       "num": 162044,
       "word": "逆水寒手游 剑网3",
@@ -34121,14 +34145,6 @@
       "onboard_time": 1733394199,
       "rank": 13,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 160279,
-      "num": 160279,
-      "word": "丁禹兮cp研究报告",
-      "onboard_time": 1734535940,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 160180,
@@ -34977,14 +34993,6 @@
       "onboard_time": 1733714598,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156865,
-      "num": 156865,
-      "word": "警方通报上海一住宅发生刑事案件",
-      "onboard_time": 1734535940,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 156857,
@@ -47523,6 +47531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94326,
+      "num": 188873,
+      "word": "3个习惯让生活越来越美好",
+      "onboard_time": 1734537018,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94175,
       "num": 325996,
       "word": "他人擅驾未锁车辆撞死人车主赔6万",
@@ -48129,6 +48145,14 @@
       "onboard_time": 1734186681,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90062,
+      "num": 90062,
+      "word": "他好像摸了一下魔方就复原了",
+      "onboard_time": 1734536539,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90009,
@@ -48769,6 +48793,14 @@
       "onboard_time": 1733152759,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84761,
+      "num": 84761,
+      "word": "网红厦门小程三年申报收入仅数万",
+      "onboard_time": 1734538578,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84602,
@@ -49827,6 +49859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78549,
+      "num": 78549,
+      "word": "74岁斯琴高娃谈身体近况",
+      "onboard_time": 1734537078,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78547,
       "num": 444710,
       "word": "税务部门通报2起网络主播偷税案件",
@@ -50443,6 +50483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74320,
+      "num": 288501,
+      "word": "女子花368888赌石想退款被法院驳回",
+      "onboard_time": 1734533842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74299,
       "num": 171754,
       "word": "三成投资者认为A股牛市还在",
@@ -50560,6 +50608,14 @@
       "word": "燃气换新表后突然欠费23852元",
       "onboard_time": 1734275118,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73294,
+      "num": 73294,
+      "word": "官方回应上海下雪了",
+      "onboard_time": 1734538758,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -51001,6 +51057,14 @@
       "onboard_time": 1733264232,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70743,
+      "num": 70743,
+      "word": "当宋墨遇到雷纯",
+      "onboard_time": 1734538038,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 70740,
@@ -52275,14 +52339,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 63026,
-      "num": 288501,
-      "word": "女子花368888赌石想退款被法院驳回",
-      "onboard_time": 1734533842,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63021,
       "num": 281717,
       "word": "专家称大学生虐猫是生命教育有缺失",
@@ -52425,6 +52481,14 @@
       "onboard_time": 1733315603,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61888,
+      "num": 70585,
+      "word": "iG暴打RNG",
+      "onboard_time": 1734537199,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 61835,
