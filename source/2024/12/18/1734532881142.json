@@ -1,0 +1,410 @@
+{
+  "runTime": 1734532881142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607684,
+        "num": 1607684,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 976607,
+        "num": 976607,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26490,
+        "num": 585339,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 568533,
+        "num": 568533,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565396,
+        "num": 565396,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115763,
+        "num": 534762,
+        "word": "兵马俑已出差全世界49个国家和地区",
+        "onboard_time": 1734528260,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 598272,
+        "num": 527262,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516313,
+        "num": 516313,
+        "word": "五哈 你们的幸福吵到我了",
+        "onboard_time": 1734529100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474617,
+        "num": 474617,
+        "word": "妈妈称自闭症儿子被老师同学治愈",
+        "onboard_time": 1734518541,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 314359,
+        "num": 473428,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125853,
+        "num": 465632,
+        "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
+        "onboard_time": 1734531981,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1061820,
+        "num": 462247,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 11,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 784524,
+        "num": 455585,
+        "word": "张馨予老公接机路人视角",
+        "onboard_time": 1734529821,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78547,
+        "num": 444710,
+        "word": "税务部门通报2起网络主播偷税案件",
+        "onboard_time": 1734532519,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32536,
+        "num": 441509,
+        "word": "被拐家庭聚餐饭店满墙都是寻亲海报",
+        "onboard_time": 1734531200,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 629651,
+        "num": 435431,
+        "word": "丁禹兮精心打扮但很狼狈的一天",
+        "onboard_time": 1734529400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192176,
+        "num": 428961,
+        "word": "封神2 魔家四将班味好重",
+        "onboard_time": 1734532042,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426272,
+        "num": 426272,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61273,
+        "num": 419667,
+        "word": "张元英 sense高定首封",
+        "onboard_time": 1734531682,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21631,
+        "num": 418330,
+        "word": "杨妞花想找回被偷走的人生",
+        "onboard_time": 1734532821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577523,
+        "num": 418043,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417586,
+        "num": 417586,
+        "word": "韩国皮肤科偶遇刘些宁",
+        "onboard_time": 1734530362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408917,
+        "num": 408917,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354031,
+        "num": 354031,
+        "word": "刘畊宏帮女儿追星贺峻霖",
+        "onboard_time": 1734526520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150095,
+        "num": 296160,
+        "word": "摘眼镜的一诺好帅",
+        "onboard_time": 1734532640,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295499,
+        "num": 295499,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282681,
+        "num": 282681,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271854,
+        "num": 271854,
+        "word": "供他吃住他却拐卖我儿子",
+        "onboard_time": 1734500600,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246920,
+        "num": 246920,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189596,
+        "num": 227847,
+        "word": "江苏卫视跨年预约第一",
+        "onboard_time": 1734529341,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72589,
+        "num": 218677,
+        "word": "付不起600万非法狩猎罚款被罚种树",
+        "onboard_time": 1734530962,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218560,
+        "num": 218560,
+        "word": "宋祖儿安慰粉丝",
+        "onboard_time": 1734519498,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194913,
+        "num": 194913,
+        "word": "男主持人质疑女权博主王慧玲",
+        "onboard_time": 1734531260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186359,
+        "num": 186359,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160490,
+        "num": 184991,
+        "word": "宋佳 瞳孔地震",
+        "onboard_time": 1734530721,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67526,
+        "num": 184365,
+        "word": "成毅首位预约破百万跨年嘉宾",
+        "onboard_time": 1734527839,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139176,
+        "num": 184360,
+        "word": "IG16分钟推平RNG",
+        "onboard_time": 1734527120,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184360,
+        "num": 184359,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174379,
+        "num": 174379,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 173695,
+        "num": 173695,
+        "word": "2024中国健儿有多燃",
+        "onboard_time": 1734530661,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168107,
+        "num": 168107,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164900,
+        "num": 164900,
+        "word": "33岁男子喝酒11年媳妇无奈离婚",
+        "onboard_time": 1734519498,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157012,
+        "num": 157012,
+        "word": "窦昭变脸",
+        "onboard_time": 1734528379,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154351,
+        "num": 154351,
+        "word": "黑神话悟空再输宇宙机器人",
+        "onboard_time": 1734519379,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148974,
+        "num": 148974,
+        "word": "女子称500元买鸭绒服填充物为飞丝",
+        "onboard_time": 1734525200,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148632,
+        "num": 148632,
+        "word": "难哄配音",
+        "onboard_time": 1734525200,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 139351,
+        "num": 139351,
+        "word": "苗安素 心疼男人是不幸的开始",
+        "onboard_time": 1734528860,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137088,
+        "num": 137088,
+        "word": "郑钦文入围福布斯2024收入前五",
+        "onboard_time": 1734530541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132000,
+        "num": 132000,
+        "word": "刘亦菲也想去看冰封黄玫瑰",
+        "onboard_time": 1734523460,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127677,
+        "num": 127677,
+        "word": "大奉打更人定档盛典现场",
+        "onboard_time": 1734530541,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
