@@ -1,0 +1,410 @@
+{
+  "runTime": 1734531735986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1528542,
+        "num": 1528542,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882997,
+        "num": 882997,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23272,
+        "num": 762052,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 661765,
+        "num": 661765,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463477,
+        "num": 463477,
+        "word": "妈妈称自闭症儿子被老师同学治愈",
+        "onboard_time": 1734518541,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103335,
+        "num": 462168,
+        "word": "兵马俑已出差全世界49个国家和地区",
+        "onboard_time": 1734528260,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 507679,
+        "num": 460477,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383251,
+        "num": 458459,
+        "word": "五哈 你们的幸福吵到我了",
+        "onboard_time": 1734529100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343934,
+        "num": 456562,
+        "word": "供他吃住他却拐卖我儿子",
+        "onboard_time": 1734500600,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87577,
+        "num": 452729,
+        "word": "过期食品当猫粮狗粮摆上电商货架",
+        "onboard_time": 1734530121,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1285834,
+        "num": 450517,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 10,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 722644,
+        "num": 449024,
+        "word": "张馨予老公接机路人视角",
+        "onboard_time": 1734529821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720804,
+        "num": 447273,
+        "word": "丁禹兮精心打扮但很狼狈的一天",
+        "onboard_time": 1734529400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445992,
+        "num": 445992,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16780,
+        "num": 423661,
+        "word": "被拐家庭聚餐饭店满墙都是寻亲海报",
+        "onboard_time": 1734531200,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422164,
+        "num": 422164,
+        "word": "刘畊宏帮女儿追星贺峻霖",
+        "onboard_time": 1734526520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321652,
+        "num": 422120,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422114,
+        "num": 422114,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63658,
+        "num": 342239,
+        "word": "成毅首位预约破百万跨年嘉宾",
+        "onboard_time": 1734527839,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50861,
+        "num": 336137,
+        "word": "付不起600万非法狩猎罚款被罚种树",
+        "onboard_time": 1734530962,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333270,
+        "num": 333270,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629209,
+        "num": 330939,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209092,
+        "num": 302987,
+        "word": "韩国皮肤科偶遇刘些宁",
+        "onboard_time": 1734530362,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294713,
+        "num": 294713,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8661,
+        "num": 285394,
+        "word": "陈梦谈如何走出低谷期",
+        "onboard_time": 1734531562,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282784,
+        "num": 282784,
+        "word": "宋祖儿安慰粉丝",
+        "onboard_time": 1734519498,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260420,
+        "num": 260420,
+        "word": "江苏卫视跨年预约第一",
+        "onboard_time": 1734529341,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204194,
+        "num": 250065,
+        "word": "大奉打更人定档盛典现场",
+        "onboard_time": 1734530541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24114,
+        "num": 245322,
+        "word": "张元英 sense高定首封",
+        "onboard_time": 1734531682,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95232,
+        "num": 244567,
+        "word": "起底偷税749万网红柏公子",
+        "onboard_time": 1734530780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243967,
+        "num": 243967,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225695,
+        "num": 225695,
+        "word": "刘亦菲也想去看冰封黄玫瑰",
+        "onboard_time": 1734523460,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218535,
+        "num": 218535,
+        "word": "2024中国健儿有多燃",
+        "onboard_time": 1734530661,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216980,
+        "num": 216980,
+        "word": "黑神话悟空再输宇宙机器人",
+        "onboard_time": 1734519379,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193681,
+        "num": 209808,
+        "word": "宋佳 瞳孔地震",
+        "onboard_time": 1734530721,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208751,
+        "num": 208751,
+        "word": "难哄配音",
+        "onboard_time": 1734525200,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 208740,
+        "num": 208740,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204366,
+        "num": 204366,
+        "word": "33岁男子喝酒11年媳妇无奈离婚",
+        "onboard_time": 1734519498,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191899,
+        "num": 191899,
+        "word": "窦昭变脸",
+        "onboard_time": 1734528379,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187647,
+        "num": 187647,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181030,
+        "num": 181030,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13482,
+        "num": 177214,
+        "word": "FIFA年度颁奖典礼",
+        "onboard_time": 1734528379,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175534,
+        "num": 175534,
+        "word": "郑钦文入围福布斯2024收入前五",
+        "onboard_time": 1734530541,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171246,
+        "num": 171246,
+        "word": "女子称500元买鸭绒服填充物为飞丝",
+        "onboard_time": 1734525200,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169339,
+        "num": 169339,
+        "word": "IG16分钟推平RNG",
+        "onboard_time": 1734527120,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160619,
+        "num": 160619,
+        "word": "李盈莹拿下22分",
+        "onboard_time": 1734531321,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149688,
+        "num": 149688,
+        "word": "苗安素 心疼男人是不幸的开始",
+        "onboard_time": 1734528860,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137317,
+        "num": 137317,
+        "word": "哈尔滨冰封黄玫瑰",
+        "onboard_time": 1734517760,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129758,
+        "num": 129758,
+        "word": "NewJeans自己签代言",
+        "onboard_time": 1734524180,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 129710,
+        "word": "男主持人质疑女权博主王慧玲",
+        "onboard_time": 1734531260,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
