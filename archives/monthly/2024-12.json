@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734542458515,
+  "endTime": 1734543537754,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -36963,6 +36963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148927,
+      "num": 148927,
+      "word": "谢可寅演技",
+      "onboard_time": 1734540316,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148906,
       "num": 378809,
       "word": "杨子婚姻承诺书",
@@ -41027,14 +41035,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 130715,
-      "num": 130715,
-      "word": "谢可寅演技",
-      "onboard_time": 1734540316,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130676,
       "num": 130676,
       "word": "成毅正是闯祸的年纪",
@@ -43515,6 +43515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118180,
+      "num": 154271,
+      "word": "官方回应上海下雪了",
+      "onboard_time": 1734538758,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118108,
       "num": 118108,
       "word": "认不出这是甜茶",
@@ -45745,14 +45753,6 @@
       "onboard_time": 1734152419,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105963,
-      "num": 154271,
-      "word": "官方回应上海下雪了",
-      "onboard_time": 1734538758,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105925,
@@ -52099,6 +52099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65118,
+      "num": 65118,
+      "word": "野洵",
+      "onboard_time": 1734541515,
+      "rank": 34,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 65080,
       "num": 384741,
       "word": "孙颖莎说希望有更好表现",
@@ -55137,14 +55145,6 @@
       "onboard_time": 1734006439,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48127,
-      "num": 54653,
-      "word": "野洵",
-      "onboard_time": 1734541515,
-      "rank": 34,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 48100,
@@ -58633,6 +58633,14 @@
       "onboard_time": 1733684712,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33784,
+      "num": 106009,
+      "word": "澳门喜庆氛围感已拉满",
+      "onboard_time": 1734542533,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33751,
@@ -64705,6 +64713,14 @@
       "onboard_time": 1733527995,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9858,
+      "num": 56621,
+      "word": "2025考研倒计时3天",
+      "onboard_time": 1734543193,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 9809,

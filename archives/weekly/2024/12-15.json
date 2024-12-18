@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734542458515,
+  "endTime": 1734543537754,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -8195,6 +8195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148927,
+      "num": 148927,
+      "word": "谢可寅演技",
+      "onboard_time": 1734540316,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148865,
       "num": 329901,
       "word": "Clearlove将正式成为LPL名人堂成员",
@@ -9267,14 +9275,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 130715,
-      "num": 130715,
-      "word": "谢可寅演技",
-      "onboard_time": 1734540316,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130609,
       "num": 310488,
       "word": "昭昭墨墨call back",
@@ -9947,6 +9947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118180,
+      "num": 154271,
+      "word": "官方回应上海下雪了",
+      "onboard_time": 1734538758,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117893,
       "num": 117893,
       "word": "梁王组合男双世排第二",
@@ -10616,14 +10624,6 @@
       "word": "兵马俑最火配色是红配绿",
       "onboard_time": 1734341840,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105963,
-      "num": 154271,
-      "word": "官方回应上海下雪了",
-      "onboard_time": 1734538758,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -12187,6 +12187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65118,
+      "num": 65118,
+      "word": "野洵",
+      "onboard_time": 1734541515,
+      "rank": 34,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 64946,
       "num": 355858,
       "word": "俄罗斯已准备好在所有战线反击对手",
@@ -12913,14 +12921,6 @@
       "onboard_time": 1734425359,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 48127,
-      "num": 54653,
-      "word": "野洵",
-      "onboard_time": 1734541515,
-      "rank": 34,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 48100,
@@ -13833,6 +13833,14 @@
       "onboard_time": 1734534561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33784,
+      "num": 106009,
+      "word": "澳门喜庆氛围感已拉满",
+      "onboard_time": 1734542533,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33460,
@@ -15401,6 +15409,14 @@
       "onboard_time": 1734516919,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9858,
+      "num": 56621,
+      "word": "2025考研倒计时3天",
+      "onboard_time": 1734543193,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 9809,
