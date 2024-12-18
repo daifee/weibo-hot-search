@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734500390815,
+  "endTime": 1734503546783,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -411,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1147875,
+      "num": 1183660,
+      "word": "供他吃住他却拐卖我儿子",
+      "onboard_time": 1734500600,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1133278,
       "num": 1133278,
       "word": "王鹤棣演唱会 打折",
@@ -529,6 +537,14 @@
       "onboard_time": 1734482779,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1047713,
+      "num": 1047713,
+      "word": "杨妞花痛哭被困父母坟头1313天",
+      "onboard_time": 1734499279,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1045955,
@@ -1115,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721545,
+      "num": 721545,
+      "word": "极越员工万字怒怼CEO",
+      "onboard_time": 1734499579,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 719714,
       "num": 524747,
       "word": "禹宙中欣",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1734348379,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 642860,
+      "num": 351441,
+      "word": "杨洋称一直关注王楚钦比赛并加油",
+      "onboard_time": 1734499520,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 642744,
@@ -1923,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 497046,
+      "num": 201093,
+      "word": "男子爬山离奇身亡身上十几个针孔",
+      "onboard_time": 1734502159,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496268,
       "num": 255069,
       "word": "谁模仿王鹤棣",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1734170841,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439434,
+      "num": 347049,
+      "word": "韩安冉宋浩然二胎百日宴",
+      "onboard_time": 1734500779,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 439017,
@@ -2553,14 +2601,6 @@
       "onboard_time": 1734253458,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377309,
-      "num": 377309,
-      "word": "杨妞花痛哭被困父母坟头1313天",
-      "onboard_time": 1734499279,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 376753,
@@ -2971,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319641,
+      "num": 319641,
+      "word": "最强大脑被芒果脑综淘汰",
+      "onboard_time": 1734499879,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319400,
       "num": 319400,
       "word": "腾讯八部热度破30000剧集",
@@ -3083,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306434,
+      "num": 306434,
+      "word": "大侦探",
+      "onboard_time": 1734500959,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305588,
       "num": 232750,
       "word": "姓A的好处已经尽数体现了",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1734188901,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304027,
-      "num": 304027,
-      "word": "杨洋称一直关注王楚钦比赛并加油",
-      "onboard_time": 1734499520,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 303370,
@@ -3208,6 +3256,14 @@
       "word": "窦明小产",
       "onboard_time": 1734270140,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 291692,
+      "num": 291692,
+      "word": "李昀锐设定的三搭还是演夫妇",
+      "onboard_time": 1734502219,
+      "rank": 20,
       "category": "剧集"
     },
     {
@@ -3443,12 +3499,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 271954,
-      "num": 271954,
-      "word": "极越员工万字怒怼CEO",
-      "onboard_time": 1734499579,
-      "rank": 24,
-      "category": "汽车"
+      "raw_hot": 272312,
+      "num": 312786,
+      "word": "你是封2我是沙",
+      "onboard_time": 1734502100,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 270254,
@@ -3577,6 +3633,14 @@
       "onboard_time": 1734346339,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258742,
+      "num": 258742,
+      "word": "zeus",
+      "onboard_time": 1734502579,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 258056,
@@ -4467,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205895,
+      "num": 205895,
+      "word": "虞书欣ins更新专辑花絮照",
+      "onboard_time": 1734502701,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205627,
       "num": 205627,
       "word": "王大发说孟子义真的升咖了",
@@ -4593,6 +4665,14 @@
       "onboard_time": 1734348559,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203561,
+      "num": 203561,
+      "word": "莫言坦言为百万奖金而来",
+      "onboard_time": 1734500420,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 203415,
@@ -5099,14 +5179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192215,
-      "num": 192215,
-      "word": "最强大脑被芒果脑综淘汰",
-      "onboard_time": 1734499879,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192211,
       "num": 192211,
       "word": "父母催婚男子闪婚度完蜜月闪离",
@@ -5497,6 +5569,14 @@
       "onboard_time": 1734486258,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180569,
+      "num": 180569,
+      "word": "封神2预告最后一幕殷郊复活",
+      "onboard_time": 1734502822,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 180445,
@@ -6000,6 +6080,14 @@
       "word": "白鹿资讯站",
       "onboard_time": 1734242299,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167664,
+      "num": 167664,
+      "word": "孟子义 我这个人好像有点晚熟",
+      "onboard_time": 1734501619,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -6515,6 +6603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157361,
+      "num": 157361,
+      "word": "邓婵玉封神四个镜头含金量",
+      "onboard_time": 1734501919,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "王楚钦对战徐海东异常焦灼",
@@ -6800,6 +6896,14 @@
       "word": "王者牛魔2024王者之证皮肤",
       "onboard_time": 1734491540,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 151327,
+      "num": 151327,
+      "word": "绝区零1.4",
+      "onboard_time": 1734502879,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -7443,6 +7547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137407,
+      "num": 137407,
+      "word": "修坟时飞来一只蝴蝶杨妞花说那是妈妈",
+      "onboard_time": 1734502039,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137395,
       "num": 137395,
       "word": "这下娘娘们真回宫了",
@@ -7593,6 +7705,14 @@
       "onboard_time": 1734323960,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134451,
+      "num": 308165,
+      "word": "SHINee官博发文悼念金钟铉",
+      "onboard_time": 1734502280,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 134392,
@@ -7841,6 +7961,14 @@
       "onboard_time": 1734241098,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129507,
+      "num": 357388,
+      "word": "抓了2000多头野猪亏了300万",
+      "onboard_time": 1734502638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129393,
@@ -8811,6 +8939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110106,
+      "num": 184570,
+      "word": "张耀东北巨兔",
+      "onboard_time": 1734502458,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109301,
       "num": 171898,
       "word": "绝区零伊芙琳",
@@ -8929,6 +9065,14 @@
       "onboard_time": 1734241279,
       "rank": 46,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 107473,
+      "num": 258254,
+      "word": "年度动漫投票前十名",
+      "onboard_time": 1734502938,
+      "rank": 23,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 107054,
@@ -9923,6 +10067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 74873,
+      "num": 250061,
+      "word": "男子爬山遭蜂群攻击身上几十个针孔",
+      "onboard_time": 1734501678,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74742,
       "num": 74742,
       "word": "张真源毕业大戏出图",
@@ -10403,6 +10555,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 62053,
+      "num": 132804,
+      "word": "买意外险工作中猝死不能赔合理吗",
+      "onboard_time": 1734501438,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61590,
       "num": 229446,
       "word": "罗云熙齐思哲杀青发文",
@@ -10545,6 +10705,14 @@
       "onboard_time": 1734284834,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55566,
+      "num": 1123251,
+      "word": "莲花卫士25年25次圆满交接背后细节",
+      "onboard_time": 1734496702,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 55182,
@@ -10753,14 +10921,6 @@
       "onboard_time": 1734401298,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50575,
-      "num": 1123251,
-      "word": "莲花卫士25年25次圆满交接背后细节",
-      "onboard_time": 1734496702,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 50480,
@@ -11107,6 +11267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44362,
+      "num": 233817,
+      "word": "渭南一男子被压路车碾压致死",
+      "onboard_time": 1734502039,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44293,
       "num": 69218,
       "word": "盘点2024",
@@ -11147,6 +11315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43608,
+      "num": 247513,
+      "word": "小小的我代表电影人的真心",
+      "onboard_time": 1734503059,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43454,
       "num": 371744,
       "word": "有医院排队停车时间比看病时间都长",
@@ -11161,6 +11337,14 @@
       "onboard_time": 1734332538,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42920,
+      "num": 236394,
+      "word": "一个好的老师真的会让人记一辈子",
+      "onboard_time": 1734502399,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 42590,
@@ -11707,12 +11891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32583,
+      "num": 326478,
+      "word": "杨妞花寻亲故事或将拍成电影",
+      "onboard_time": 1734503059,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32455,
       "num": 209128,
       "word": "奇瑞风云A8L发布现场撞车",
       "onboard_time": 1734424580,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 32233,
+      "num": 241365,
+      "word": "国企改革概念多股涨停",
+      "onboard_time": 1734502159,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 31611,
@@ -12075,6 +12275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25833,
+      "num": 229160,
+      "word": "何小鹏称X9是唯一开着不像司机的MPV",
+      "onboard_time": 1734501079,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25646,
       "num": 209227,
       "word": "女主角搞事业已成古装剧热门赛道",
@@ -12353,6 +12561,14 @@
       "onboard_time": 1734496162,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19957,
+      "num": 307184,
+      "word": "2024年度高萌瞬间",
+      "onboard_time": 1734503239,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 19948,
