@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734514734936,
+  "endTime": 1734517520968,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -139,8 +139,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912569,
+      "num": 912569,
+      "word": "舒淇称被传染病毒",
+      "onboard_time": 1734514939,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 902568,
-      "num": 902568,
+      "num": 1077299,
       "word": "上海下雪",
       "onboard_time": 1734508280,
       "rank": 3,
@@ -363,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 532106,
+      "num": 412430,
+      "word": "蒋梦婕 国色芳华具象化",
+      "onboard_time": 1734513320,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 515560,
       "num": 515560,
       "word": "读研成为年轻人的缓冲期",
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440396,
+      "num": 440396,
+      "word": "iPhone17ProMax水平三摄模组",
+      "onboard_time": 1734513920,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 439772,
       "num": 439772,
       "word": "孟子义李昀锐回应二搭",
@@ -537,14 +561,6 @@
       "onboard_time": 1734455834,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412430,
-      "num": 412430,
-      "word": "蒋梦婕 国色芳华具象化",
-      "onboard_time": 1734513320,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 405004,
@@ -819,6 +835,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 262830,
+      "num": 183093,
+      "word": "90后住家保姆说永远会把自己当外人",
+      "onboard_time": 1734514760,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260577,
       "num": 260577,
       "word": "陈梦因腰伤无法久坐",
@@ -857,6 +881,14 @@
       "onboard_time": 1734511401,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 254235,
+      "num": 254235,
+      "word": "芒果跨年真是群像的神",
+      "onboard_time": 1734514578,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 251748,
@@ -929,6 +961,14 @@
       "onboard_time": 1734492561,
       "rank": 48,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 228953,
+      "num": 173475,
+      "word": "王楚钦希望大家年年欢乐",
+      "onboard_time": 1734516919,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 228651,
@@ -1059,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197514,
+      "num": 170307,
+      "word": "重案六组编剧谈改编南大碎尸案",
+      "onboard_time": 1734516620,
+      "rank": 34,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 197121,
       "num": 197121,
       "word": "胖东来成了一个外地游客打卡点",
@@ -1115,6 +1163,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192345,
+      "num": 178284,
+      "word": "剧组为张馨予准备了十箱发饰",
+      "onboard_time": 1734514161,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191083,
+      "num": 191083,
+      "word": "九重紫",
+      "onboard_time": 1734516919,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190948,
       "num": 190948,
       "word": "竹林四侠在虞书欣背后说生日快乐",
@@ -1137,6 +1201,14 @@
       "onboard_time": 1734503959,
       "rank": 32,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 187613,
+      "num": 187613,
+      "word": "杨幂活动现场状态",
+      "onboard_time": 1734517102,
+      "rank": 15,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 187558,
@@ -1227,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179232,
-      "num": 179232,
-      "word": "iPhone17ProMax水平三摄模组",
-      "onboard_time": 1734513920,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 179149,
       "num": 132609,
       "word": "女子免费领养猫咪陷猫贷纠纷",
@@ -1291,20 +1355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171692,
-      "num": 171692,
-      "word": "剧组为张馨予准备了十箱发饰",
-      "onboard_time": 1734514161,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170330,
       "num": 285640,
       "word": "林孝埈为大众冰雪季打call",
       "onboard_time": 1734493459,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170194,
+      "num": 170194,
+      "word": "封神2妲己救活纣王",
+      "onboard_time": 1734516620,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 169653,
@@ -1345,6 +1409,14 @@
       "onboard_time": 1734501619,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167601,
+      "num": 167601,
+      "word": "余华英拐卖案重审二审明日开庭",
+      "onboard_time": 1734513080,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165549,
@@ -1419,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 159048,
+      "num": 159048,
+      "word": "王楚钦妈妈记录儿子成长视频",
+      "onboard_time": 1734512719,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158887,
       "num": 158887,
       "word": "为什么说成年人需找到自己的精神食粮",
@@ -1475,12 +1555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156616,
-      "num": 156616,
-      "word": "余华英拐卖案重审二审明日开庭",
-      "onboard_time": 1734513080,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 155713,
+      "num": 155713,
+      "word": "iG全神班拿下开门红",
+      "onboard_time": 1734517038,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 155661,
@@ -1675,20 +1755,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 137426,
-      "num": 137426,
-      "word": "王楚钦妈妈记录儿子成长视频",
-      "onboard_time": 1734512719,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137407,
       "num": 137407,
       "word": "修坟时飞来一只蝴蝶杨妞花说那是妈妈",
       "onboard_time": 1734502039,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137386,
+      "num": 137386,
+      "word": "俄军三防部队司令死于乌方暗杀",
+      "onboard_time": 1734516080,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137324,
@@ -1723,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134391,
-      "num": 134391,
-      "word": "芒果跨年真是群像的神",
-      "onboard_time": 1734514578,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134103,
       "num": 134103,
       "word": "从南到北冷得干巴巴的",
@@ -1755,12 +1827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133149,
+      "num": 133149,
+      "word": "朴彩英上海快闪小卡",
+      "onboard_time": 1734517399,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132800,
       "num": 132800,
       "word": "王慧玲 基层女性",
       "onboard_time": 1734512539,
       "rank": 45,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 132584,
+      "num": 179950,
+      "word": "阴阳师夏目友人帐联动",
+      "onboard_time": 1734517102,
+      "rank": 24,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 132426,
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "容嬷嬷李明启88岁了",
+      "onboard_time": 1734516860,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125703,
       "num": 285972,
       "word": "向佐一人还原2024热梗",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1734496640,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123831,
+      "num": 186561,
+      "word": "张萌发文告别王映雪",
+      "onboard_time": 1734514939,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 122311,
@@ -2147,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93082,
+      "num": 206411,
+      "word": "完美女孩张元英的魅力在哪里",
+      "onboard_time": 1734516200,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93054,
       "num": 105277,
       "word": "ChatGPT长眼睛后",
@@ -2331,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71163,
+      "num": 172598,
+      "word": "那尔那茜用506天等一个镜头",
+      "onboard_time": 1734516320,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70442,
       "num": 528041,
       "word": "雄鹿vs雷霆",
@@ -2371,6 +2491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67755,
+      "num": 176009,
+      "word": "吴千语施伯雄庆祝结婚一周年",
+      "onboard_time": 1734514280,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66870,
       "num": 354627,
       "word": "被老虎撞门的大爷家成为打卡景点",
@@ -2385,6 +2513,14 @@
       "onboard_time": 1734466270,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 65282,
+      "num": 177164,
+      "word": "任敏 内耗是一件没有用的事",
+      "onboard_time": 1734515899,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62588,
@@ -2755,6 +2891,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 35336,
+      "num": 185287,
+      "word": "上海一停车场违规经营收费去向不明",
+      "onboard_time": 1734516739,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35235,
       "num": 331688,
       "word": "宋佳说演员要做到一人千面",
@@ -2803,6 +2947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 29932,
+      "num": 184223,
+      "word": "台州菜为什么火了",
+      "onboard_time": 1734515420,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29834,
       "num": 262789,
       "word": "帕丁顿熊和童年大风车联动了",
@@ -2817,6 +2969,22 @@
       "onboard_time": 1734452358,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29542,
+      "num": 187713,
+      "word": "巴以将进行停火协议最后谈判",
+      "onboard_time": 1734516561,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29406,
+      "num": 171794,
+      "word": "蒋智豪曾说不怕死亡只是放不下父亲",
+      "onboard_time": 1734515059,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 29306,
@@ -2899,6 +3067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24473,
+      "num": 159315,
+      "word": "美团18神券节省出新气象",
+      "onboard_time": 1734516919,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24367,
       "num": 225125,
       "word": "被澳门2049舞台谢幕感动",
@@ -2913,6 +3089,14 @@
       "onboard_time": 1734506179,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22240,
+      "num": 175532,
+      "word": "杨妞花用苦尽甘来形容自己的今年",
+      "onboard_time": 1734516561,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20671,
@@ -3009,6 +3193,14 @@
       "onboard_time": 1734468670,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9957,
+      "num": 159610,
+      "word": "番茄丸子汤是冬日的救星",
+      "onboard_time": 1734516919,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 9533,
