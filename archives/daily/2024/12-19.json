@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734550559187,
+  "endTime": 1734553554785,
   "band_list": [
     {
       "raw_hot": 909117,
@@ -435,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 55418,
+      "num": 23900,
+      "word": "美国流浪宇航员返回又双叒叕推迟了",
+      "onboard_time": 1734548711,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51691,
       "num": 92545,
       "word": "檀健次 蝴蝶结比心",
@@ -483,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23537,
-      "num": 23537,
-      "word": "美国流浪宇航员返回又双叒叕推迟了",
-      "onboard_time": 1734548711,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 22459,
+      "num": 22459,
+      "word": "医保额度年底清零系谣言",
+      "onboard_time": 1734550571,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22262,
@@ -539,6 +547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 17084,
+      "num": 17084,
+      "word": "警方通报3男子酒后殴打陌生女子",
+      "onboard_time": 1734551531,
+      "rank": 31,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 16269,
       "num": 16611,
       "word": "文化中国行文博日历",
@@ -571,6 +587,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12603,
+      "num": 23506,
+      "word": "澳门回归二十五周年",
+      "onboard_time": 1734550392,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12070,
+      "num": 23292,
+      "word": "秦陵兵马俑不养闲俑",
+      "onboard_time": 1734552731,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11894,
       "num": 62775,
       "word": "索尼称黑神话PS5国行版在筹备中",
@@ -579,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 11387,
-      "num": 23506,
-      "word": "澳门回归二十五周年",
-      "onboard_time": 1734550392,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 11522,
+      "num": 16361,
+      "word": "电影小小的我特别纪录片",
+      "onboard_time": 1734544632,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 10309,
