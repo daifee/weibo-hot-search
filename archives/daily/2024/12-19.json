@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734564124694,
+  "endTime": 1734564976630,
   "band_list": [
     {
       "raw_hot": 909117,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 855000,
+      "num": 939317,
+      "word": "多地官宣将取消公摊",
+      "onboard_time": 1734534080,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 728034,
       "num": 188060,
       "word": "微信朋友圈崩了",
       "onboard_time": 1734517640,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 714135,
-      "num": 810723,
-      "word": "多地官宣将取消公摊",
-      "onboard_time": 1734534080,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 660927,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 343047,
-      "num": 118511,
+      "num": 119291,
       "word": "朋友圈点赞率不足10%",
       "onboard_time": 1734533842,
       "rank": 21,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265142,
+      "num": 168009,
+      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
+      "onboard_time": 1734563655,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258814,
       "num": 117811,
       "word": "研究生导师辱骂马龙孙颖莎被处分",
@@ -112,6 +120,14 @@
       "word": "田柾国直播",
       "onboard_time": 1734533780,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223955,
+      "num": 165373,
+      "word": "张馨予老公接机路人视角",
+      "onboard_time": 1734529821,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -139,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192642,
+      "num": 192642,
+      "word": "美联储刚刚宣布降息25个基点",
+      "onboard_time": 1734564556,
+      "rank": 5,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 189398,
       "num": 189398,
       "word": "五哈 你们的幸福吵到我了",
       "onboard_time": 1734529100,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188193,
+      "num": 188193,
+      "word": "美国流浪宇航员返回又双叒叕推迟了",
+      "onboard_time": 1734548711,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183534,
@@ -155,20 +187,20 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 168839,
-      "num": 168839,
-      "word": "美国流浪宇航员返回又双叒叕推迟了",
-      "onboard_time": 1734548711,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 170357,
+      "num": 170357,
+      "word": "一千克羽毛球做5件羽绒服",
+      "onboard_time": 1734563715,
+      "rank": 24,
+      "category": "时尚"
     },
     {
-      "raw_hot": 164712,
-      "num": 164712,
-      "word": "张馨予老公接机路人视角",
-      "onboard_time": 1734529821,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 165053,
+      "num": 167945,
+      "word": "佳木斯黑悟空雪雕自带苹果肌",
+      "onboard_time": 1734562693,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 163576,
@@ -179,32 +211,24 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148927,
-      "num": 168815,
-      "word": "谢可寅演技",
-      "onboard_time": 1734540316,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139336,
-      "num": 139336,
+      "raw_hot": 155222,
+      "num": 155222,
       "word": "女司机报警寻找被撞的人",
       "onboard_time": 1734543972,
       "rank": 8,
       "category": "正能量"
     },
     {
-      "raw_hot": 133006,
-      "num": 167945,
-      "word": "佳木斯黑悟空雪雕自带苹果肌",
-      "onboard_time": 1734562693,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 148927,
+      "num": 188835,
+      "word": "谢可寅演技",
+      "onboard_time": 1734540316,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 124743,
-      "num": 79370,
+      "num": 101271,
       "word": "一笑倾城 清水小芙蓉",
       "onboard_time": 1734543613,
       "rank": 12,
@@ -243,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111137,
-      "num": 111137,
+      "raw_hot": 113819,
+      "num": 113819,
       "word": "王浩辞去浙江省省长职务",
       "onboard_time": 1734519379,
       "rank": 29,
@@ -289,6 +313,14 @@
       "onboard_time": 1734533421,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98584,
+      "num": 98584,
+      "word": "男子殴打女乘客南京司机照死压制",
+      "onboard_time": 1734563655,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95579,
@@ -363,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74221,
-      "num": 74221,
-      "word": "一千克羽毛球做5件羽绒服",
-      "onboard_time": 1734563715,
-      "rank": 24,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 71776,
       "num": 92604,
       "word": "江苏卫视跨年预约第一",
@@ -427,20 +451,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 62636,
+      "num": 98486,
+      "word": "小小的我预售破400万",
+      "onboard_time": 1734540137,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61888,
       "num": 92595,
       "word": "iG暴打RNG",
       "onboard_time": 1734537199,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61862,
-      "num": 61862,
-      "word": "男子殴打女乘客南京司机照死压制",
-      "onboard_time": 1734563655,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61402,
@@ -459,6 +483,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 61347,
+      "num": 61347,
+      "word": "黑神话悟空再输宇宙机器人",
+      "onboard_time": 1734519379,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 61102,
+      "num": 153402,
+      "word": "檀健次 蝴蝶结比心",
+      "onboard_time": 1734534199,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59405,
       "num": 70542,
       "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
@@ -467,40 +507,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 58769,
-      "num": 92565,
-      "word": "小小的我预售破400万",
-      "onboard_time": 1734540137,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 54390,
-      "num": 54390,
-      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
-      "onboard_time": 1734563655,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52046,
-      "num": 54472,
-      "word": "黑神话悟空再输宇宙机器人",
-      "onboard_time": 1734519379,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 51691,
-      "num": 111158,
-      "word": "檀健次 蝴蝶结比心",
-      "onboard_time": 1734534199,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 48666,
+      "num": 56105,
+      "word": "四川西昌一学生坠楼排除刑事案件",
+      "onboard_time": 1734548111,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43436,
-      "num": 49789,
+      "num": 56029,
       "word": "警方通报3男子酒后殴打陌生女子",
       "onboard_time": 1734551531,
       "rank": 31,
@@ -508,19 +524,11 @@
     },
     {
       "raw_hot": 40707,
-      "num": 49754,
+      "num": 55973,
       "word": "秦陵兵马俑不养闲俑",
       "onboard_time": 1734552731,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40452,
-      "num": 49733,
-      "word": "四川西昌一学生坠楼排除刑事案件",
-      "onboard_time": 1734548111,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 33960,
@@ -531,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33861,
-      "num": 49678,
+      "raw_hot": 33904,
+      "num": 55900,
       "word": "佳木斯黑悟空雪雕",
       "onboard_time": 1734563474,
       "rank": 44,
@@ -544,6 +552,14 @@
       "word": "澳门喜庆氛围感已拉满",
       "onboard_time": 1734542533,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33394,
+      "num": 55891,
+      "word": "中央农村工作会议",
+      "onboard_time": 1734557831,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -563,14 +579,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 30251,
-      "num": 49548,
-      "word": "中央农村工作会议",
-      "onboard_time": 1734557831,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 23549,
       "num": 23549,
       "word": "微博年度喜爱剧集",
@@ -585,6 +593,14 @@
       "onboard_time": 1734537619,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21800,
+      "num": 166454,
+      "word": "美联储",
+      "onboard_time": 1734564916,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 21626,
@@ -619,20 +635,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19800,
+      "num": 429156,
+      "word": "以你为傲",
+      "onboard_time": 1734527660,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19404,
       "num": 49512,
       "word": "射雕英雄传侠之大者将在海外上映",
       "onboard_time": 1734559752,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19176,
-      "num": 429156,
-      "word": "以你为傲",
-      "onboard_time": 1734527660,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 18590,
