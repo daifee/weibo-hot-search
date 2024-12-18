@@ -1,0 +1,410 @@
+{
+  "runTime": 1734560549138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 209101,
+        "num": 383525,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113827,
+        "num": 113827,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11032,
+        "num": 112609,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 112160,
+        "num": 112160,
+        "word": "乳房长疙瘩没在意检查竟是乳腺癌",
+        "onboard_time": 1734536899,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90610,
+        "num": 90610,
+        "word": "美国流浪宇航员返回又双叒叕推迟了",
+        "onboard_time": 1734548711,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73957,
+        "num": 73957,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66344,
+        "num": 66344,
+        "word": "网红厦门小程三年申报收入仅数万",
+        "onboard_time": 1734538578,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60511,
+        "num": 60511,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38919,
+        "num": 60166,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31884,
+        "num": 59585,
+        "word": "鹿晗苹果头",
+        "onboard_time": 1734533061,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177780,
+        "num": 57878,
+        "word": "警方通报上海一住宅发生刑事案件",
+        "onboard_time": 1734535940,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 132579,
+        "num": 57634,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61320,
+        "num": 56233,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 12,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 56119,
+        "num": 56119,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15384,
+        "num": 53713,
+        "word": "2024年我国粮食生产迈上新台阶",
+        "onboard_time": 1734559031,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52522,
+        "num": 52522,
+        "word": "女司机报警寻找被撞的人",
+        "onboard_time": 1734543972,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 45434,
+        "num": 45434,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 16,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 42325,
+        "num": 42325,
+        "word": "B太已对造谣内容进行证据保留",
+        "onboard_time": 1734547331,
+        "rank": 17,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 40321,
+        "num": 40321,
+        "word": "张馨予老公接机路人视角",
+        "onboard_time": 1734529821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33681,
+        "num": 33681,
+        "word": "警方通报3男子酒后殴打陌生女子",
+        "onboard_time": 1734551531,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34786,
+        "num": 33288,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32537,
+        "num": 32537,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27992,
+        "num": 27992,
+        "word": "一笑倾城 清水小芙蓉",
+        "onboard_time": 1734543613,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27751,
+        "num": 27751,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24136,
+        "num": 24136,
+        "word": "他好像摸了一下魔方就复原了",
+        "onboard_time": 1734536539,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23562,
+        "num": 23562,
+        "word": "税务部门通报2起网络主播偷税案件",
+        "onboard_time": 1734532519,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23430,
+        "num": 23430,
+        "word": "田柾国直播",
+        "onboard_time": 1734533780,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23314,
+        "num": 23314,
+        "word": "丁禹兮cp研究报告",
+        "onboard_time": 1734535940,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20711,
+        "num": 22462,
+        "word": "谢可寅演技",
+        "onboard_time": 1734540316,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19463,
+        "num": 22278,
+        "word": "檀健次 蝴蝶结比心",
+        "onboard_time": 1734534199,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13679,
+        "num": 22185,
+        "word": "做好2025年三农工作",
+        "onboard_time": 1734559752,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22178,
+        "num": 22178,
+        "word": "四川西昌一学生坠楼排除刑事案件",
+        "onboard_time": 1734548111,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21364,
+        "num": 21364,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20822,
+        "num": 20822,
+        "word": "早上肉夹馍晚上吃晚茶",
+        "onboard_time": 1734555431,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20369,
+        "num": 20369,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19675,
+        "num": 19675,
+        "word": "科内利亚诺世俱杯两连胜",
+        "onboard_time": 1734537619,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19325,
+        "num": 19325,
+        "word": "3个习惯让生活越来越美好",
+        "onboard_time": 1734537018,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19226,
+        "num": 19226,
+        "word": "官方回应上海下雪了",
+        "onboard_time": 1734538758,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19134,
+        "num": 19134,
+        "word": "丁禹兮精心打扮但很狼狈的一天",
+        "onboard_time": 1734529400,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18898,
+        "num": 18898,
+        "word": "秦陵兵马俑不养闲俑",
+        "onboard_time": 1734552731,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18522,
+        "num": 18522,
+        "word": "黑神话悟空再输宇宙机器人",
+        "onboard_time": 1734519379,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18507,
+        "num": 18507,
+        "word": "澳门喜庆氛围感已拉满",
+        "onboard_time": 1734542533,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18284,
+        "num": 18284,
+        "word": "中央农村工作会议",
+        "onboard_time": 1734557831,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17740,
+        "num": 17740,
+        "word": "医保额度年底清零系谣言",
+        "onboard_time": 1734550571,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15370,
+        "num": 17739,
+        "word": "射雕英雄传侠之大者将在海外上映",
+        "onboard_time": 1734559752,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15434,
+        "num": 17733,
+        "word": "小小的我预售破400万",
+        "onboard_time": 1734540137,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16545,
+        "num": 17728,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 17724,
+        "word": "江苏卫视跨年预约第一",
+        "onboard_time": 1734529341,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14409,
+        "num": 17722,
+        "word": "微博年度喜爱剧集",
+        "onboard_time": 1734545533,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13413,
+        "num": 17715,
+        "word": "孟子义 我欲乘风",
+        "onboard_time": 1734533421,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
