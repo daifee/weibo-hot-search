@@ -1,10 +1,10 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734496068156,
+  "endTime": 1734496921812,
   "band_list": [
     {
-      "raw_hot": 3054462,
-      "num": 3054462,
+      "raw_hot": 3179512,
+      "num": 3179512,
       "word": "张馨予老公疑转业至广州大学保卫处",
       "onboard_time": 1734493459,
       "rank": 20,
@@ -65,6 +65,14 @@
       "onboard_time": 1734442040,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 949372,
+      "num": 949372,
+      "word": "保姆自己吃水果零食是没分寸吗",
+      "onboard_time": 1734494001,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 941208,
@@ -171,14 +179,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 631473,
-      "num": 631473,
-      "word": "保姆自己吃水果零食是没分寸吗",
-      "onboard_time": 1734494001,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 613114,
       "num": 386058,
       "word": "曝西安环卫工被拖欠5个月工资堵路要钱",
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466206,
+      "num": 419162,
+      "word": "广州大学回应网传张馨予老公转业",
+      "onboard_time": 1734493820,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459030,
       "num": 452266,
       "word": "杜淳妻子回怼网友",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 432694,
-      "num": 364673,
+      "num": 381272,
       "word": "虞书欣 谢谢慕声儿",
       "onboard_time": 1734490879,
       "rank": 21,
@@ -281,6 +289,14 @@
       "onboard_time": 1734483439,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 429816,
+      "num": 382054,
+      "word": "李小冉 一个旅行能犯多大错误",
+      "onboard_time": 1734494780,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 425478,
@@ -297,14 +313,6 @@
       "onboard_time": 1734455834,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419162,
-      "num": 419162,
-      "word": "广州大学回应网传张馨予老公转业",
-      "onboard_time": 1734493820,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 400828,
@@ -363,6 +371,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 331643,
+      "num": 383512,
+      "word": "陈乔恩老公画作被拍卖",
+      "onboard_time": 1734495620,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324744,
+      "num": 324744,
+      "word": "女子吃火锅把鸭肠织成毛衣",
+      "onboard_time": 1734494061,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323537,
       "num": 323537,
       "word": "王鹤棣 如果哪天我不帅了",
@@ -403,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290701,
-      "num": 290701,
-      "word": "女子吃火锅把鸭肠织成毛衣",
-      "onboard_time": 1734494061,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 296178,
+      "num": 408972,
+      "word": "李昀锐回应是薄肌的神",
+      "onboard_time": 1734495141,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 289445,
@@ -425,6 +449,14 @@
       "onboard_time": 1734433879,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 285071,
+      "num": 559367,
+      "word": "雄鹿NBA杯冠军",
+      "onboard_time": 1734494961,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 284896,
@@ -459,12 +491,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 265973,
-      "num": 265973,
-      "word": "李小冉 一个旅行能犯多大错误",
-      "onboard_time": 1734494780,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 260577,
+      "num": 260577,
+      "word": "陈梦因腰伤无法久坐",
+      "onboard_time": 1734493580,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 257295,
@@ -483,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255727,
-      "num": 255727,
-      "word": "陈乔恩老公画作被拍卖",
-      "onboard_time": 1734495620,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245958,
       "num": 268349,
       "word": "考研那天是北半球最长的夜晚",
@@ -504,14 +528,6 @@
       "word": "陈梦谈退役后的打算",
       "onboard_time": 1734448400,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 236089,
-      "num": 236089,
-      "word": "陈梦因腰伤无法久坐",
-      "onboard_time": 1734493580,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -563,12 +579,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 207621,
-      "num": 559367,
-      "word": "雄鹿NBA杯冠军",
-      "onboard_time": 1734494961,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 209458,
+      "num": 209458,
+      "word": "奔跑吧两大女MC浙江卫视跨年合体",
+      "onboard_time": 1734496042,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 206636,
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 196959,
-      "num": 196959,
+      "num": 232487,
       "word": "哪首歌带给你满满的力量",
       "onboard_time": 1734490758,
       "rank": 49,
@@ -651,12 +667,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192172,
-      "num": 408972,
-      "word": "李昀锐回应是薄肌的神",
-      "onboard_time": 1734495141,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 195227,
+      "num": 347382,
+      "word": "张颂文李乃文狂飙演技",
+      "onboard_time": 1734496221,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 190948,
@@ -667,20 +683,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190559,
-      "num": 190559,
-      "word": "奔跑吧两大女MC浙江卫视跨年合体",
-      "onboard_time": 1734496042,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190490,
       "num": 190490,
       "word": "殷郊接头",
       "onboard_time": 1734492679,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190280,
+      "num": 190280,
+      "word": "朱朱是请吃饭的漂亮姐姐",
+      "onboard_time": 1734496881,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 187558,
@@ -737,6 +753,14 @@
       "onboard_time": 1734449238,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165549,
+      "num": 391363,
+      "word": "祝绪丹杨仕泽诡异到一个频率了",
+      "onboard_time": 1734494659,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163744,
@@ -803,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153061,
-      "num": 391363,
-      "word": "祝绪丹杨仕泽诡异到一个频率了",
-      "onboard_time": 1734494659,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152897,
       "num": 152897,
       "word": "封神第二部",
@@ -825,6 +841,14 @@
       "onboard_time": 1734492800,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151491,
+      "num": 384857,
+      "word": "美国15岁女生教室枪杀多人后自杀",
+      "onboard_time": 1734496101,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 151375,
@@ -915,6 +939,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136798,
+      "num": 392567,
+      "word": "此沙杨戬白月光归来",
+      "onboard_time": 1734495801,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134938,
+      "num": 410463,
+      "word": "黄渤镜头外帮于适搭戏",
+      "onboard_time": 1734495560,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134103,
       "num": 134103,
       "word": "从南到北冷得干巴巴的",
@@ -995,6 +1035,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 124095,
+      "num": 375115,
+      "word": "星穹铁道忘归人",
+      "onboard_time": 1734496640,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121213,
       "num": 121213,
       "word": "出品方仅同意删婚外情情节不公开道歉",
@@ -1027,20 +1075,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117792,
+      "num": 516813,
+      "word": "张艺曼退出羽毛球国家队",
+      "onboard_time": 1734495980,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117492,
       "num": 243312,
       "word": "施罗德管库里要了四年球衣",
       "onboard_time": 1734495320,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115602,
-      "num": 410463,
-      "word": "黄渤镜头外帮于适搭戏",
-      "onboard_time": 1734495560,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 115342,
@@ -1067,12 +1115,20 @@
       "category": "剧集,民生新闻"
     },
     {
-      "raw_hot": 111599,
+      "raw_hot": 111806,
       "num": 392993,
       "word": "2024年Steam大奖入围名单",
       "onboard_time": 1734495380,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110665,
+      "num": 289467,
+      "word": "明天重审二审余华英再无上诉机会",
+      "onboard_time": 1734496640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108407,
@@ -1243,14 +1299,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 74766,
-      "num": 516813,
-      "word": "张艺曼退出羽毛球国家队",
-      "onboard_time": 1734495980,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73030,
       "num": 285153,
       "word": "中字头央企指数大涨",
@@ -1273,6 +1321,22 @@
       "onboard_time": 1734485538,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70105,
+      "num": 416471,
+      "word": "假装孕妇造谣敲诈企业有什么后果",
+      "onboard_time": 1734494961,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 68532,
+      "num": 1035568,
+      "word": "澳门人的心一直与祖国同步跳动",
+      "onboard_time": 1734495141,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 68391,
@@ -1323,6 +1387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 53153,
+      "num": 419011,
+      "word": "雄鹿雷霆为50万奖金拼了",
+      "onboard_time": 1734495679,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52302,
       "num": 89790,
       "word": "湖南卫视微博跨年预约破500万",
@@ -1339,20 +1411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51456,
+      "num": 412536,
+      "word": "确诊为螺蛳粉真爱粉",
+      "onboard_time": 1734494540,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 51423,
       "num": 201162,
       "word": "刘雨昕黑粉公开道歉",
       "onboard_time": 1734489738,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50936,
-      "num": 392567,
-      "word": "此沙杨戬白月光归来",
-      "onboard_time": 1734495801,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 50480,
@@ -1387,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45341,
+      "num": 364636,
+      "word": "家属称他是谁只要在播就是种打击",
+      "onboard_time": 1734496221,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45159,
       "num": 76947,
       "word": "被送养37年女子回应争议",
@@ -1403,14 +1483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 44551,
-      "num": 419011,
-      "word": "雄鹿雷霆为50万奖金拼了",
-      "onboard_time": 1734495679,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 44293,
       "num": 69218,
       "word": "盘点2024",
@@ -1419,36 +1491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43821,
-      "num": 416471,
-      "word": "假装孕妇造谣敲诈企业有什么后果",
-      "onboard_time": 1734494961,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 42204,
-      "num": 1035568,
-      "word": "澳门人的心一直与祖国同步跳动",
-      "onboard_time": 1734495141,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 42078,
-      "num": 412536,
-      "word": "确诊为螺蛳粉真爱粉",
-      "onboard_time": 1734494540,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 41573,
       "num": 41573,
       "word": "杨洋活动直拍",
       "onboard_time": 1734433400,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41401,
+      "num": 513885,
+      "word": "从1688拿货趋势预测今年年货",
+      "onboard_time": 1734494420,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41389,
@@ -1555,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26902,
+      "num": 366989,
+      "word": "近视了不戴眼镜会有什么后果",
+      "onboard_time": 1734496341,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 26032,
       "num": 50526,
       "word": "湖南两个口岸240小时过境免签",
@@ -1587,12 +1651,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24463,
-      "num": 513885,
-      "word": "从1688拿货趋势预测今年年货",
-      "onboard_time": 1734494420,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 20162,
+      "num": 379725,
+      "word": "野良神 夜斗回来了",
+      "onboard_time": 1734496162,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 19906,
+      "num": 386265,
+      "word": "明年经济工作政策组合拳有哪些",
+      "onboard_time": 1734496581,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19505,
@@ -1635,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10846,
+      "num": 1123251,
+      "word": "莲花卫士25年25次圆满交接背后细节",
+      "onboard_time": 1734496702,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 5212,
       "num": 760169,
       "word": "万千气象看吉林",
@@ -1652,6 +1732,9 @@
     },
     {
       "word": "#续写更加精彩的澳门故事#"
+    },
+    {
+      "word": "#习近平听取海南省委和省政府工作汇报#"
     }
   ]
 }
