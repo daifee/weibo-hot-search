@@ -1,0 +1,410 @@
+{
+  "runTime": 1734492939440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1461362,
+        "num": 1461362,
+        "word": "女孩欲轻生被劝4小时多了个干爹",
+        "onboard_time": 1734487879,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 823833,
+        "num": 823833,
+        "word": "永夜星河",
+        "onboard_time": 1734489858,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25529,
+        "num": 784717,
+        "word": "感受声音里的多彩澳门",
+        "onboard_time": 1734445402,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 782082,
+        "num": 782082,
+        "word": "印度女网红用面包做连衣裙惹众怒",
+        "onboard_time": 1734491418,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 739360,
+        "num": 739360,
+        "word": "孟子义你但凡抬头看看李昀锐",
+        "onboard_time": 1734491540,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458878,
+        "num": 458878,
+        "word": "花2万2网购保时捷刚落地就被查",
+        "onboard_time": 1734488959,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664204,
+        "num": 446764,
+        "word": "蒋智豪患癌昏迷父亲向网友求助",
+        "onboard_time": 1734485838,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663011,
+        "num": 414287,
+        "word": "脑瘫青年发现自己的诗出现在大银幕",
+        "onboard_time": 1734489558,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323116,
+        "num": 323116,
+        "word": "澳门盛装迎接回归祖国25周年",
+        "onboard_time": 1734470531,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 78296,
+        "num": 316617,
+        "word": "官方调查汇源员工被镇政府人员殴打",
+        "onboard_time": 1734491660,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 480805,
+        "num": 316415,
+        "word": "网剧冬至",
+        "onboard_time": 1734491779,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444056,
+        "num": 315567,
+        "word": "南大碎尸案警方誓言追查到底",
+        "onboard_time": 1734449419,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313430,
+        "num": 313430,
+        "word": "千万彩票被冒领当事人没拿到1分钱",
+        "onboard_time": 1734483199,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15099,
+        "num": 312418,
+        "word": "魔兽世界官方回应铁血服排队严重",
+        "onboard_time": 1734492561,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43913,
+        "num": 301058,
+        "word": "已婚女子请人扮家属骗相亲男48万",
+        "onboard_time": 1734491839,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432694,
+        "num": 294111,
+        "word": "虞书欣 谢谢慕声儿",
+        "onboard_time": 1734490879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329367,
+        "num": 285699,
+        "word": "iPhone17ProMax渲染图再曝光",
+        "onboard_time": 1734483140,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284896,
+        "num": 284896,
+        "word": "Uzi疑似参加手游比赛",
+        "onboard_time": 1734491418,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202658,
+        "num": 284136,
+        "word": "邓婵玉好帅",
+        "onboard_time": 1734491960,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129141,
+        "num": 281492,
+        "word": "竹林四侠团魂",
+        "onboard_time": 1734491718,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750070,
+        "num": 279868,
+        "word": "中国游客遗体在马来西亚被打捞上岸",
+        "onboard_time": 1734483199,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 640960,
+        "num": 277182,
+        "word": "南大碎尸案",
+        "onboard_time": 1734425600,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431873,
+        "num": 274597,
+        "word": "于适封神2妆造",
+        "onboard_time": 1734491718,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 396242,
+        "num": 271200,
+        "word": "祝绪丹写了藏头诗为虞书欣庆生",
+        "onboard_time": 1734487579,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143593,
+        "num": 270573,
+        "word": "阴阳师联动提名",
+        "onboard_time": 1734492800,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268586,
+        "num": 268586,
+        "word": "特朗普正式赢得总统职位",
+        "onboard_time": 1734482779,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320395,
+        "num": 268554,
+        "word": "唐艺昕分享女儿钢琴演出照",
+        "onboard_time": 1734477196,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187063,
+        "num": 268349,
+        "word": "考研那天是北半球最长的夜晚",
+        "onboard_time": 1734492078,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45223,
+        "num": 268277,
+        "word": "中字头央企指数大涨",
+        "onboard_time": 1734492860,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68391,
+        "num": 268162,
+        "word": "大脑最易在3个年龄段突然变老",
+        "onboard_time": 1734492860,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 807226,
+        "num": 268047,
+        "word": "伊朗女歌手未戴头巾唱歌被捕",
+        "onboard_time": 1734491540,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 305724,
+        "num": 267924,
+        "word": "杜淳妻子回怼网友",
+        "onboard_time": 1734486440,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305346,
+        "num": 267700,
+        "word": "封神第二部开启西岐保卫战",
+        "onboard_time": 1734488358,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267693,
+        "num": 267693,
+        "word": "NewJeans韩服VOGUE封面",
+        "onboard_time": 1734489498,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257002,
+        "num": 257002,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734489798,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216447,
+        "num": 216447,
+        "word": "女子领养猫咪到家后病死背负猫贷",
+        "onboard_time": 1734488839,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205295,
+        "num": 205295,
+        "word": "男子摆拍70多条外卖奇葩顾客视频",
+        "onboard_time": 1734483439,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195704,
+        "num": 195704,
+        "word": "王鹤棣电影亮相鹿特丹电影节展映单元",
+        "onboard_time": 1734491960,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151375,
+        "num": 191292,
+        "word": "王者牛魔2024王者之证皮肤",
+        "onboard_time": 1734491540,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189011,
+        "num": 189011,
+        "word": "大奉打更人盛典",
+        "onboard_time": 1734492440,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177363,
+        "num": 177363,
+        "word": "刘浩存 大花幼年体",
+        "onboard_time": 1734481760,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168340,
+        "num": 168340,
+        "word": "殷郊接头",
+        "onboard_time": 1734492679,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29306,
+        "num": 167143,
+        "word": "Mate70AI一拍分身有术",
+        "onboard_time": 1734492199,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167041,
+        "num": 167041,
+        "word": "南大碎尸案逝者家属喊话张译",
+        "onboard_time": 1734423139,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 163744,
+        "num": 163744,
+        "word": "想去澳门的心达到了顶峰",
+        "onboard_time": 1734492258,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161592,
+        "num": 161592,
+        "word": "禹宙中欣",
+        "onboard_time": 1734480918,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157509,
+        "num": 157509,
+        "word": "这首歌和澳门的适配度好高",
+        "onboard_time": 1734491119,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155124,
+        "num": 155124,
+        "word": "造谣国乒煽动互撕多人被永久禁言",
+        "onboard_time": 1734489917,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146372,
+        "num": 146372,
+        "word": "大冰 怎么拥有良好的输出和表达能力",
+        "onboard_time": 1734492561,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 139926,
+        "num": 139926,
+        "word": "哈尔滨大妈求助特警找手撕面包",
+        "onboard_time": 1734486258,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系澳门同胞福祉#"
+    }
+  }
+}

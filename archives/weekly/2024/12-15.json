@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734491360059,
+  "endTime": 1734492939440,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823833,
+      "num": 823833,
+      "word": "永夜星河",
+      "onboard_time": 1734489858,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 816930,
       "num": 816930,
       "word": "建议大家多做腹式呼吸",
@@ -833,6 +841,14 @@
       "onboard_time": 1734191479,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 807226,
+      "num": 268047,
+      "word": "伊朗女歌手未戴头巾唱歌被捕",
+      "onboard_time": 1734491540,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 806753,
@@ -931,6 +947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 782082,
+      "num": 782082,
+      "word": "印度女网红用面包做连衣裙惹众怒",
+      "onboard_time": 1734491418,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 752174,
       "num": 752174,
       "word": "iPhone17ProMax渲染图再曝光",
@@ -969,6 +993,14 @@
       "onboard_time": 1734402617,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 739360,
+      "num": 739360,
+      "word": "孟子义你但凡抬头看看李昀锐",
+      "onboard_time": 1734491540,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 738160,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1734436638,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663011,
+      "num": 423171,
+      "word": "脑瘫青年发现自己的诗出现在大银幕",
+      "onboard_time": 1734489558,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 660793,
@@ -1883,6 +1923,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 480805,
+      "num": 316415,
+      "word": "网剧冬至",
+      "onboard_time": 1734491779,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476936,
       "num": 476936,
       "word": "疑似涉黄私人影院注册资本仅10万",
@@ -2003,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458878,
+      "num": 458878,
+      "word": "花2万2网购保时捷刚落地就被查",
+      "onboard_time": 1734488959,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456166,
       "num": 456166,
       "word": "猎罪图鉴2 平等冒犯所有人",
@@ -2025,14 +2081,6 @@
       "onboard_time": 1734488358,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 443212,
-      "num": 394279,
-      "word": "永夜星河",
-      "onboard_time": 1734489858,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 443026,
@@ -2115,6 +2163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432694,
+      "num": 294111,
+      "word": "虞书欣 谢谢慕声儿",
+      "onboard_time": 1734490879,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431873,
+      "num": 274597,
+      "word": "于适封神2妆造",
+      "onboard_time": 1734491718,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430484,
       "num": 530514,
       "word": "男子摆拍70多条外卖奇葩顾客视频",
@@ -2161,14 +2225,6 @@
       "onboard_time": 1734455834,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423171,
-      "num": 423171,
-      "word": "脑瘫青年发现自己的诗出现在大银幕",
-      "onboard_time": 1734489558,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 422701,
@@ -2553,14 +2609,6 @@
       "onboard_time": 1734343580,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 352431,
-      "num": 261832,
-      "word": "虞书欣 谢谢慕声儿",
-      "onboard_time": 1734490879,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 352330,
@@ -3075,6 +3123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284896,
+      "num": 284896,
+      "word": "Uzi疑似参加手游比赛",
+      "onboard_time": 1734491418,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 283831,
       "num": 345978,
       "word": "杭州一执勤女骑警神似贾静雯",
@@ -3243,14 +3299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 271564,
-      "num": 271564,
-      "word": "花2万2网购保时捷刚落地就被查",
-      "onboard_time": 1734488959,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270254,
       "num": 270254,
       "word": "田曦薇方称逐玉绝对平番",
@@ -3385,6 +3433,14 @@
       "onboard_time": 1734459012,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257002,
+      "num": 274333,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734235518,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 254954,
@@ -3931,8 +3987,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216094,
-      "num": 216094,
+      "raw_hot": 216447,
+      "num": 216447,
       "word": "女子领养猫咪到家后病死背负猫贷",
       "onboard_time": 1734488839,
       "rank": 26,
@@ -4363,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202658,
+      "num": 284136,
+      "word": "邓婵玉好帅",
+      "onboard_time": 1734491960,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202502,
       "num": 330871,
       "word": "夏之光说九重紫演爽了",
@@ -4611,6 +4675,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 195704,
+      "num": 195704,
+      "word": "王鹤棣电影亮相鹿特丹电影节展映单元",
+      "onboard_time": 1734491960,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195682,
       "num": 195682,
       "word": "四郎 你的白月光回来了",
@@ -4819,14 +4891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190990,
-      "num": 274333,
-      "word": "现在拨打的电话",
-      "onboard_time": 1734235518,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190552,
       "num": 190552,
       "word": "232斤男子因三高减肥半年蜕变型男",
@@ -4899,6 +4963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189011,
+      "num": 189011,
+      "word": "大奉打更人盛典",
+      "onboard_time": 1734492440,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188609,
       "num": 188609,
       "word": "江苏卫视跨年",
@@ -4969,6 +5041,14 @@
       "onboard_time": 1734345260,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187063,
+      "num": 268349,
+      "word": "考研那天是北半球最长的夜晚",
+      "onboard_time": 1734492078,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 187043,
@@ -5611,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168340,
+      "num": 168340,
+      "word": "殷郊接头",
+      "onboard_time": 1734492679,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168146,
       "num": 168146,
       "word": "为护女性遭邻居捅伤19岁小伙现状",
@@ -5777,6 +5865,14 @@
       "onboard_time": 1734358580,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 163744,
+      "num": 163744,
+      "word": "想去澳门的心达到了顶峰",
+      "onboard_time": 1734492258,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 163713,
@@ -6099,6 +6195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157509,
+      "num": 157509,
+      "word": "这首歌和澳门的适配度好高",
+      "onboard_time": 1734491119,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "王楚钦对战徐海东异常焦灼",
@@ -6177,6 +6281,14 @@
       "onboard_time": 1734314237,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155124,
+      "num": 224830,
+      "word": "造谣国乒煽动互撕多人被永久禁言",
+      "onboard_time": 1734489917,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 154706,
@@ -6361,6 +6473,14 @@
       "onboard_time": 1734352642,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 151375,
+      "num": 191292,
+      "word": "王者牛魔2024王者之证皮肤",
+      "onboard_time": 1734491540,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 151192,
@@ -6563,6 +6683,14 @@
       "category": "舆论监督,体育"
     },
     {
+      "raw_hot": 146372,
+      "num": 146372,
+      "word": "大冰 怎么拥有良好的输出和表达能力",
+      "onboard_time": 1734492561,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 146040,
       "num": 146040,
       "word": "勇士27记三分",
@@ -6657,6 +6785,14 @@
       "onboard_time": 1734424879,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143593,
+      "num": 270573,
+      "word": "阴阳师联动提名",
+      "onboard_time": 1734492800,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 143341,
@@ -7387,12 +7523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129342,
-      "num": 224830,
-      "word": "造谣国乒煽动互撕多人被永久禁言",
-      "onboard_time": 1734489917,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 129141,
+      "num": 281492,
+      "word": "竹林四侠团魂",
+      "onboard_time": 1734491718,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 129107,
@@ -8811,14 +8947,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 91436,
-      "num": 91436,
-      "word": "这首歌和澳门的适配度好高",
-      "onboard_time": 1734491119,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91367,
       "num": 91367,
       "word": "薛之谦鼎湖山音乐节",
@@ -9219,6 +9347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78296,
+      "num": 316617,
+      "word": "官方调查汇源员工被镇政府人员殴打",
+      "onboard_time": 1734491660,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 78116,
       "num": 179528,
       "word": "戚薇只是想给每个女生一个家",
@@ -9553,6 +9689,14 @@
       "onboard_time": 1734326899,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68391,
+      "num": 268162,
+      "word": "大脑最易在3个年龄段突然变老",
+      "onboard_time": 1734492860,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67941,
@@ -10339,6 +10483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45223,
+      "num": 268277,
+      "word": "中字头央企指数大涨",
+      "onboard_time": 1734492860,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 45159,
       "num": 76947,
       "word": "被送养37年女子回应争议",
@@ -10409,6 +10561,14 @@
       "onboard_time": 1734401357,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 43913,
+      "num": 301058,
+      "word": "已婚女子请人扮家属骗相亲男48万",
+      "onboard_time": 1734491839,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43858,
@@ -11121,6 +11281,14 @@
       "onboard_time": 1734325460,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29306,
+      "num": 167143,
+      "word": "Mate70AI一拍分身有术",
+      "onboard_time": 1734492199,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 28976,
@@ -11881,6 +12049,14 @@
       "onboard_time": 1734384850,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15099,
+      "num": 312418,
+      "word": "魔兽世界官方回应铁血服排队严重",
+      "onboard_time": 1734492561,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 14806,
