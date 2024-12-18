@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734499342903,
+  "endTime": 1734500390815,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 756878,
+      "num": 756878,
+      "word": "豆瓣崩了",
+      "onboard_time": 1734499279,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 752174,
       "num": 752174,
       "word": "iPhone17ProMax渲染图再曝光",
@@ -137,6 +145,14 @@
       "onboard_time": 1734491540,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732993,
+      "num": 732993,
+      "word": "虞书欣SpicyHoneyMV",
+      "onboard_time": 1734499939,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 719714,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431992,
+      "num": 431992,
+      "word": "朱朱是请吃饭的漂亮姐姐",
+      "onboard_time": 1734496881,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 430484,
       "num": 530514,
       "word": "男子摆拍70多条外卖奇葩顾客视频",
@@ -363,12 +387,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 386137,
+      "num": 386137,
+      "word": "虞书欣 在干嘛呀",
+      "onboard_time": 1734498200,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385851,
       "num": 385851,
       "word": "澳门盛装迎接回归祖国25周年",
       "onboard_time": 1734470531,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 377309,
+      "num": 377309,
+      "word": "杨妞花痛哭被困父母坟头1313天",
+      "onboard_time": 1734499279,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370102,
@@ -403,22 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331036,
-      "num": 288049,
-      "word": "朱朱是请吃饭的漂亮姐姐",
-      "onboard_time": 1734496881,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 327440,
-      "num": 287193,
-      "word": "虞书欣 在干嘛呀",
-      "onboard_time": 1734498200,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 323537,
       "num": 323537,
       "word": "王鹤棣 如果哪天我不帅了",
@@ -441,6 +465,14 @@
       "onboard_time": 1734489498,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 304027,
+      "num": 304027,
+      "word": "杨洋称一直关注王楚钦比赛并加油",
+      "onboard_time": 1734499520,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 303370,
@@ -483,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285208,
-      "num": 285208,
-      "word": "豆瓣崩了",
-      "onboard_time": 1734499279,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 285071,
       "num": 559367,
       "word": "雄鹿NBA杯冠军",
@@ -523,6 +547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 271954,
+      "num": 271954,
+      "word": "极越员工万字怒怼CEO",
+      "onboard_time": 1734499579,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 270416,
       "num": 270416,
       "word": "当你不停运动三个月后",
@@ -537,6 +569,14 @@
       "onboard_time": 1734493580,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257302,
+      "num": 257302,
+      "word": "江歌妈妈名下商户注销",
+      "onboard_time": 1734496042,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257295,
@@ -555,12 +595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251748,
+      "num": 303430,
+      "word": "张真源站姐拍的孟子义李昀锐",
+      "onboard_time": 1734499639,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245958,
       "num": 268349,
       "word": "考研那天是北半球最长的夜晚",
       "onboard_time": 1734492078,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 244695,
+      "num": 244695,
+      "word": "原神",
+      "onboard_time": 1734497962,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 242279,
@@ -571,8 +627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238216,
-      "num": 238216,
+      "raw_hot": 240757,
+      "num": 378312,
       "word": "司法所长在基层工作28年却无编制",
       "onboard_time": 1734497901,
       "rank": 34,
@@ -651,11 +707,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202935,
-      "num": 202935,
-      "word": "原神",
-      "onboard_time": 1734497962,
-      "rank": 38,
+      "raw_hot": 202980,
+      "num": 202980,
+      "word": "那维莱特",
+      "onboard_time": 1734500359,
+      "rank": 39,
       "category": "游戏"
     },
     {
@@ -665,6 +721,14 @@
       "onboard_time": 1734436878,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 201766,
+      "num": 366989,
+      "word": "近视了不戴眼镜会有什么后果",
+      "onboard_time": 1734496341,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200687,
@@ -680,14 +744,6 @@
       "word": "和平饭店回应298元套餐仅有水和面包",
       "onboard_time": 1734432619,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197265,
-      "num": 197265,
-      "word": "江歌妈妈名下商户注销",
-      "onboard_time": 1734496042,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -707,6 +763,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 196230,
+      "num": 196230,
+      "word": "王鹤棣田曦薇大奉打更人将定档",
+      "onboard_time": 1734496640,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195704,
       "num": 195704,
       "word": "王鹤棣电影亮相鹿特丹电影节展映单元",
@@ -721,6 +785,14 @@
       "onboard_time": 1734496221,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192215,
+      "num": 192215,
+      "word": "最强大脑被芒果脑综淘汰",
+      "onboard_time": 1734499879,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 190948,
@@ -755,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180951,
-      "num": 180951,
-      "word": "王鹤棣田曦薇大奉打更人将定档",
-      "onboard_time": 1734496640,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179935,
       "num": 179935,
       "word": "冬至先追夫后追妻",
@@ -785,14 +849,6 @@
       "onboard_time": 1734498200,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176213,
-      "num": 366989,
-      "word": "近视了不戴眼镜会有什么后果",
-      "onboard_time": 1734496341,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174054,
@@ -841,6 +897,14 @@
       "onboard_time": 1734494659,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163870,
+      "num": 163870,
+      "word": "央行约谈部分金融机构",
+      "onboard_time": 1734499520,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 163744,
@@ -944,14 +1008,6 @@
       "word": "网传失联李宜雪一直在家中",
       "onboard_time": 1734461413,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149291,
-      "num": 149291,
-      "word": "杨妞花痛哭被困父母坟头1313天",
-      "onboard_time": 1734499279,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1073,6 +1129,14 @@
       "onboard_time": 1734439939,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131044,
+      "num": 291870,
+      "word": "YG回应宋旻浩朴柱炫恋情",
+      "onboard_time": 1734498919,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 129141,
@@ -1243,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105816,
+      "num": 268880,
+      "word": "明道张栋梁汪东城回忆杀",
+      "onboard_time": 1734499639,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105592,
       "num": 295564,
       "word": "檀健次 体验派演员",
@@ -1283,12 +1355,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96019,
+      "num": 248666,
+      "word": "宋墨一分钟八百个小表情",
+      "onboard_time": 1734500180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94798,
       "num": 94798,
       "word": "余华 精神内耗有时候是好事",
       "onboard_time": 1734450799,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 92600,
+      "num": 303498,
+      "word": "猎罪图鉴2接鉴入佳境",
+      "onboard_time": 1734499159,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 92091,
@@ -1363,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83189,
+      "num": 362881,
+      "word": "近七成职场人未休完年假",
+      "onboard_time": 1734498381,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 81689,
       "num": 193778,
       "word": "强制报告是法定义务不容含糊",
@@ -1417,14 +1513,6 @@
       "onboard_time": 1734448879,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 70843,
-      "num": 291870,
-      "word": "YG回应宋旻浩朴柱炫恋情",
-      "onboard_time": 1734498919,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 70442,
@@ -1491,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59128,
-      "num": 292366,
-      "word": "猎罪图鉴2接鉴入佳境",
-      "onboard_time": 1734499159,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59072,
       "num": 325060,
       "word": "已婚女子请人扮家属骗相亲男48万",
@@ -1523,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54104,
+      "num": 304067,
+      "word": "陈梦称心中永远有个少女梦",
+      "onboard_time": 1734499520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53153,
       "num": 419011,
       "word": "雄鹿雷霆为50万奖金拼了",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1734451638,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52202,
+      "num": 265603,
+      "word": "原来熬夜是真的会掉头发",
+      "onboard_time": 1734499820,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51840,
@@ -1563,12 +1659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50575,
+      "num": 1123251,
+      "word": "莲花卫士25年25次圆满交接背后细节",
+      "onboard_time": 1734496702,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50480,
       "num": 329303,
       "word": "雷霆半场三分17中1",
       "onboard_time": 1734490697,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50166,
+      "num": 515365,
+      "word": "明年经济工作政策组合拳有哪些",
+      "onboard_time": 1734496581,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49684,
@@ -1579,20 +1691,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49552,
-      "num": 362881,
-      "word": "近七成职场人未休完年假",
-      "onboard_time": 1734498381,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
-      "raw_hot": 48414,
-      "num": 1123251,
-      "word": "莲花卫士25年25次圆满交接背后细节",
-      "onboard_time": 1734496702,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 49043,
+      "num": 379879,
+      "word": "回声2024",
+      "onboard_time": 1734499400,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47550,
@@ -1609,14 +1713,6 @@
       "onboard_time": 1734459433,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46548,
-      "num": 515365,
-      "word": "明年经济工作政策组合拳有哪些",
-      "onboard_time": 1734496581,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45341,
@@ -1692,11 +1788,19 @@
     },
     {
       "raw_hot": 39007,
-      "num": 151020,
+      "num": 257565,
       "word": "诛仙世界UE5.5曝光",
       "onboard_time": 1734499219,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38600,
+      "num": 304041,
+      "word": "年内法拍房累计已成交超10万套",
+      "onboard_time": 1734498620,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37702,
@@ -1739,6 +1843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29834,
+      "num": 262789,
+      "word": "帕丁顿熊和童年大风车联动了",
+      "onboard_time": 1734499998,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29734,
       "num": 170771,
       "word": "杨妞花称死刑是对受害家庭的告慰",
@@ -1753,14 +1865,6 @@
       "onboard_time": 1734492199,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 28543,
-      "num": 291248,
-      "word": "年内法拍房累计已成交超10万套",
-      "onboard_time": 1734498620,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27620,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1734477736,
       "rank": 24,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 15143,
+      "num": 441726,
+      "word": "年轻人的觉醒从驯化算法开始",
+      "onboard_time": 1734500180,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 13360,

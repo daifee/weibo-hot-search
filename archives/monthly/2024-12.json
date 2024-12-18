@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734499342903,
+  "endTime": 1734500390815,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -5627,6 +5627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756878,
+      "num": 756878,
+      "word": "豆瓣崩了",
+      "onboard_time": 1734499279,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 756026,
       "num": 756026,
       "word": "专家建议不要过于苛责00后",
@@ -5857,6 +5865,14 @@
       "onboard_time": 1734344480,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 732993,
+      "num": 732993,
+      "word": "虞书欣SpicyHoneyMV",
+      "onboard_time": 1734499939,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 732408,
@@ -11931,6 +11947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 431992,
+      "num": 431992,
+      "word": "朱朱是请吃饭的漂亮姐姐",
+      "onboard_time": 1734496881,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431929,
       "num": 526527,
       "word": "国乒vs日本",
@@ -13363,6 +13387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386137,
+      "num": 386137,
+      "word": "虞书欣 在干嘛呀",
+      "onboard_time": 1734498200,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 385851,
       "num": 385851,
       "word": "澳门盛装迎接回归祖国25周年",
@@ -13648,6 +13680,14 @@
       "word": "公司回应撞脸蔚来logo被判赔30万",
       "onboard_time": 1733449519,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377309,
+      "num": 377309,
+      "word": "杨妞花痛哭被困父母坟头1313天",
+      "onboard_time": 1734499279,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -15363,14 +15403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331036,
-      "num": 288049,
-      "word": "朱朱是请吃饭的漂亮姐姐",
-      "onboard_time": 1734496881,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 331025,
       "num": 331025,
       "word": "张若昀没案硬探",
@@ -15569,14 +15601,6 @@
       "onboard_time": 1733725101,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327440,
-      "num": 287193,
-      "word": "虞书欣 在干嘛呀",
-      "onboard_time": 1734498200,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 327402,
@@ -16619,6 +16643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 304027,
+      "num": 304027,
+      "word": "杨洋称一直关注王楚钦比赛并加油",
+      "onboard_time": 1734499520,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 303996,
       "num": 278704,
       "word": "极品婆婆撞到儿子儿媳亲热现场",
@@ -17571,14 +17603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285208,
-      "num": 285208,
-      "word": "豆瓣崩了",
-      "onboard_time": 1734499279,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 285160,
       "num": 285160,
       "word": "莎头组合2比1韩国组合",
@@ -18289,6 +18313,14 @@
       "onboard_time": 1733027478,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 271954,
+      "num": 271954,
+      "word": "极越员工万字怒怼CEO",
+      "onboard_time": 1734499579,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 271862,
@@ -19099,6 +19131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257302,
+      "num": 257302,
+      "word": "江歌妈妈名下商户注销",
+      "onboard_time": 1734496042,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257295,
       "num": 257295,
       "word": "特朗普称现在都想和他交朋友",
@@ -19401,6 +19441,14 @@
       "onboard_time": 1733060239,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251748,
+      "num": 303430,
+      "word": "张真源站姐拍的孟子义李昀锐",
+      "onboard_time": 1734499639,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 251686,
@@ -19923,6 +19971,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 244695,
+      "num": 244695,
+      "word": "原神",
+      "onboard_time": 1733117358,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244683,
       "num": 254733,
       "word": "猎罪图鉴2直播",
@@ -20299,6 +20355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240757,
+      "num": 378312,
+      "word": "司法所长在基层工作28年却无编制",
+      "onboard_time": 1734497901,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -20473,14 +20537,6 @@
       "onboard_time": 1733545941,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 238216,
-      "num": 238216,
-      "word": "司法所长在基层工作28年却无编制",
-      "onboard_time": 1734497901,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 238008,
@@ -24443,6 +24499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202980,
+      "num": 202980,
+      "word": "那维莱特",
+      "onboard_time": 1734500359,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202978,
       "num": 492317,
       "word": "尖叫之夜官宣白鹿",
@@ -24457,14 +24521,6 @@
       "onboard_time": 1733986758,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 202935,
-      "num": 210131,
-      "word": "原神",
-      "onboard_time": 1733117358,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 202926,
@@ -24673,6 +24729,14 @@
       "onboard_time": 1734260179,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201766,
+      "num": 366989,
+      "word": "近视了不戴眼镜会有什么后果",
+      "onboard_time": 1734496341,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 201751,
@@ -25547,14 +25611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 197265,
-      "num": 197265,
-      "word": "江歌妈妈名下商户注销",
-      "onboard_time": 1734496042,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197236,
       "num": 197236,
       "word": "院人集体确诊白磷型团队",
@@ -25784,6 +25840,14 @@
       "word": "双轨原车戏导演发文",
       "onboard_time": 1733558360,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196230,
+      "num": 196230,
+      "word": "王鹤棣田曦薇大奉打更人将定档",
+      "onboard_time": 1734496640,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -26737,6 +26801,14 @@
       "onboard_time": 1733840722,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192215,
+      "num": 192215,
+      "word": "最强大脑被芒果脑综淘汰",
+      "onboard_time": 1734499879,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 192211,
@@ -28843,14 +28915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180951,
-      "num": 180951,
-      "word": "王鹤棣田曦薇大奉打更人将定档",
-      "onboard_time": 1734496640,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180939,
       "num": 180939,
       "word": "指纹前女友",
@@ -29665,14 +29729,6 @@
       "onboard_time": 1734178102,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176213,
-      "num": 366989,
-      "word": "近视了不戴眼镜会有什么后果",
-      "onboard_time": 1734496341,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 176192,
@@ -32201,6 +32257,14 @@
       "onboard_time": 1733909062,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163870,
+      "num": 163870,
+      "word": "央行约谈部分金融机构",
+      "onboard_time": 1734499520,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 163860,
@@ -35553,14 +35617,6 @@
       "onboard_time": 1733986041,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149291,
-      "num": 149291,
-      "word": "杨妞花痛哭被困父母坟头1313天",
-      "onboard_time": 1734499279,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149256,
@@ -39433,6 +39489,14 @@
       "onboard_time": 1733460561,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131044,
+      "num": 291870,
+      "word": "YG回应宋旻浩朴柱炫恋情",
+      "onboard_time": 1734498919,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 131000,
@@ -44051,6 +44115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105816,
+      "num": 268880,
+      "word": "明道张栋梁汪东城回忆杀",
+      "onboard_time": 1734499639,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105764,
       "num": 372626,
       "word": "海信辟谣大规模裁员",
@@ -45499,6 +45571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96019,
+      "num": 248666,
+      "word": "宋墨一分钟八百个小表情",
+      "onboard_time": 1734500180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95957,
       "num": 288446,
       "word": "丞磊方取证",
@@ -46017,6 +46097,14 @@
       "onboard_time": 1733497700,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92600,
+      "num": 303498,
+      "word": "猎罪图鉴2接鉴入佳境",
+      "onboard_time": 1734499159,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 92475,
@@ -47241,6 +47329,14 @@
       "onboard_time": 1733897299,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83189,
+      "num": 362881,
+      "word": "近七成职场人未休完年假",
+      "onboard_time": 1734498381,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 83163,
@@ -49081,14 +49177,6 @@
       "onboard_time": 1734358341,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70843,
-      "num": 291870,
-      "word": "YG回应宋旻浩朴柱炫恋情",
-      "onboard_time": 1734498919,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 70828,
@@ -50947,14 +51035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59128,
-      "num": 292366,
-      "word": "猎罪图鉴2接鉴入佳境",
-      "onboard_time": 1734499159,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59072,
       "num": 325060,
       "word": "已婚女子请人扮家属骗相亲男48万",
@@ -51859,6 +51939,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 54104,
+      "num": 304067,
+      "word": "陈梦称心中永远有个少女梦",
+      "onboard_time": 1734499520,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54076,
       "num": 1135584,
       "word": "国产大型储卸油平台成功出口",
@@ -52299,6 +52387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52202,
+      "num": 265603,
+      "word": "原来熬夜是真的会掉头发",
+      "onboard_time": 1734499820,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52182,
       "num": 406904,
       "word": "浴帽式保鲜膜靠谱吗",
@@ -52611,6 +52707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50575,
+      "num": 1123251,
+      "word": "莲花卫士25年25次圆满交接背后细节",
+      "onboard_time": 1734496702,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 50570,
       "num": 214300,
       "word": "从相柳到沈翊这一下",
@@ -52689,6 +52793,14 @@
       "onboard_time": 1733129299,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50166,
+      "num": 515365,
+      "word": "明年经济工作政策组合拳有哪些",
+      "onboard_time": 1734496581,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50097,
@@ -52771,14 +52883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 49552,
-      "num": 362881,
-      "word": "近七成职场人未休完年假",
-      "onboard_time": 1734498381,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 49443,
       "num": 303867,
       "word": "紫燕百味鸡线上线下产品来自不同厂",
@@ -52849,6 +52953,14 @@
       "onboard_time": 1733394978,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49043,
+      "num": 379879,
+      "word": "回声2024",
+      "onboard_time": 1734499400,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48954,
@@ -52961,14 +53073,6 @@
       "onboard_time": 1733439916,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 48414,
-      "num": 1123251,
-      "word": "莲花卫士25年25次圆满交接背后细节",
-      "onboard_time": 1734496702,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 48314,
@@ -53345,14 +53449,6 @@
       "onboard_time": 1734369494,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 46548,
-      "num": 515365,
-      "word": "明年经济工作政策组合拳有哪些",
-      "onboard_time": 1734496581,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46541,
@@ -55132,7 +55228,7 @@
     },
     {
       "raw_hot": 39007,
-      "num": 151020,
+      "num": 257565,
       "word": "诛仙世界UE5.5曝光",
       "onboard_time": 1734499219,
       "rank": 48,
@@ -55224,6 +55320,14 @@
       "word": "10万加可抵论文",
       "onboard_time": 1734181880,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38600,
+      "num": 304041,
+      "word": "年内法拍房累计已成交超10万套",
+      "onboard_time": 1734498620,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -57547,6 +57651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29834,
+      "num": 262789,
+      "word": "帕丁顿熊和童年大风车联动了",
+      "onboard_time": 1734499998,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29746,
       "num": 510845,
       "word": "韩国概念股韩建河山一字涨停",
@@ -57809,14 +57921,6 @@
       "onboard_time": 1733740760,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 28543,
-      "num": 291248,
-      "word": "年内法拍房累计已成交超10万套",
-      "onboard_time": 1734498620,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28495,
@@ -61065,6 +61169,14 @@
       "onboard_time": 1733218338,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15143,
+      "num": 441726,
+      "word": "年轻人的觉醒从驯化算法开始",
+      "onboard_time": 1734500180,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 15128,
