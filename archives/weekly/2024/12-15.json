@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734507346777,
+  "endTime": 1734510644570,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -65,6 +65,14 @@
       "onboard_time": 1734350958,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2428559,
+      "num": 2428559,
+      "word": "吴奇隆与刘诗诗关联公司已注销",
+      "onboard_time": 1734507620,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2386709,
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 979923,
+      "num": 979923,
+      "word": "22年前向央视求救的女人现状",
+      "onboard_time": 1734507379,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 967681,
       "num": 1154829,
       "word": "智利车厘子断崖式降价",
@@ -729,6 +745,14 @@
       "onboard_time": 1734426319,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902568,
+      "num": 902568,
+      "word": "上海下雪",
+      "onboard_time": 1734508280,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 891603,
@@ -1179,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703521,
+      "num": 1102608,
+      "word": "谢娜真不把观众当外人",
+      "onboard_time": 1734504919,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701129,
       "num": 701129,
       "word": "主播为骗人站大楼前就说楼是自己的",
@@ -1369,14 +1401,6 @@
       "onboard_time": 1734336498,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 641302,
-      "num": 1102608,
-      "word": "谢娜真不把观众当外人",
-      "onboard_time": 1734504919,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 640498,
@@ -2443,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415427,
+      "num": 415427,
+      "word": "谢依霖发长文谈与杨幂郭采洁郭碧婷重聚",
+      "onboard_time": 1734508640,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 415334,
       "num": 415334,
       "word": "年轻人开始反向驯化大数据杀熟",
@@ -2819,12 +2851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351148,
+      "num": 292460,
+      "word": "向佐郭碧婷互换衣柜",
+      "onboard_time": 1734506539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349625,
       "num": 349625,
       "word": "女子逛店轻松顺走2399元羽绒服",
       "onboard_time": 1734227718,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348661,
+      "num": 348661,
+      "word": "体重开始下降的二十个习惯",
+      "onboard_time": 1734509661,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 348147,
@@ -2979,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325675,
+      "num": 330292,
+      "word": "江歌妈妈回应注销名下商户",
+      "onboard_time": 1734504078,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325476,
       "num": 325476,
       "word": "本周狗屎运最旺的星座",
@@ -2996,7 +3052,7 @@
     },
     {
       "raw_hot": 324939,
-      "num": 170091,
+      "num": 189334,
       "word": "吴昕爆料何炅切大小号催人出发",
       "onboard_time": 1734506658,
       "rank": 21,
@@ -3251,6 +3307,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 298765,
+      "num": 298765,
+      "word": "猎罪图鉴2颅内谋杀",
+      "onboard_time": 1734506539,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298703,
       "num": 298703,
       "word": "杨幂 性感辣妹",
@@ -3409,6 +3473,14 @@
       "onboard_time": 1734408380,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 282806,
+      "num": 189760,
+      "word": "孟子义李昀锐一起堆雪人",
+      "onboard_time": 1734508701,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 282670,
@@ -3707,14 +3779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257056,
-      "num": 165024,
-      "word": "向佐郭碧婷互换衣柜",
-      "onboard_time": 1734506539,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257002,
       "num": 274333,
       "word": "现在拨打的电话",
@@ -3827,12 +3891,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247292,
+      "num": 188345,
+      "word": "王鸥用大侦探金条给大家做手串",
+      "onboard_time": 1734507919,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246605,
       "num": 246605,
       "word": "张萌做了我想做的事",
       "onboard_time": 1734227357,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246395,
+      "num": 187725,
+      "word": "这干噎酸奶当年货可太好了",
+      "onboard_time": 1734506719,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 245958,
@@ -4875,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200542,
+      "num": 187063,
+      "word": "才知道李川和锤娜丽莎是情侣",
+      "onboard_time": 1734510381,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200391,
       "num": 200391,
       "word": "虞书欣湖南卫视跨年官宣",
@@ -4897,6 +4985,14 @@
       "onboard_time": 1734246259,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 186448,
+      "word": "王鹤棣领衔主演电影青春梦",
+      "onboard_time": 1734510140,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 199822,
@@ -5195,14 +5291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193365,
-      "num": 159803,
-      "word": "猎罪图鉴2颅内谋杀",
-      "onboard_time": 1734506539,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193362,
       "num": 193362,
       "word": "竹林四侠告别",
@@ -5241,6 +5329,14 @@
       "onboard_time": 1734438558,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192284,
+      "num": 192284,
+      "word": "太空一号发射失败",
+      "onboard_time": 1734509960,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 192277,
@@ -5515,12 +5611,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "萨摩耶秒变萨摩怒",
+      "onboard_time": 1734506839,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185468,
       "num": 185468,
       "word": "张凌赫谢征你好",
       "onboard_time": 1734270319,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185011,
+      "num": 170352,
+      "word": "王鹤棣新片海报质感",
+      "onboard_time": 1734509481,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 184838,
@@ -5595,14 +5707,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182500,
-      "num": 330292,
-      "word": "江歌妈妈回应注销名下商户",
-      "onboard_time": 1734504078,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "11月份国民经济延续回升态势",
@@ -5616,6 +5720,14 @@
       "word": "王楚钦将在总决赛全力以赴",
       "onboard_time": 1734399978,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182252,
+      "num": 182252,
+      "word": "王楚钦将连续第4个春节无法回家团圆",
+      "onboard_time": 1734507261,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -5881,6 +5993,14 @@
       "onboard_time": 1734358641,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175542,
+      "num": 175542,
+      "word": "外交部祝贺黑神话悟空获TGA两项大奖",
+      "onboard_time": 1734509781,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 175461,
@@ -6473,6 +6593,14 @@
       "onboard_time": 1734360740,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162295,
+      "num": 162295,
+      "word": "脑瘫不等于傻子",
+      "onboard_time": 1734510620,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162223,
@@ -7131,6 +7259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149450,
+      "num": 331479,
+      "word": "北京粮食集团原副总姜鹏举遣返回国",
+      "onboard_time": 1734505519,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149256,
       "num": 149256,
       "word": "在西藏修铁路最怕高反被开除",
@@ -7611,14 +7747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138793,
-      "num": 138793,
-      "word": "这干噎酸奶当年货可太好了",
-      "onboard_time": 1734506719,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138554,
       "num": 138554,
       "word": "孟子义李昀锐坐地吻路透",
@@ -7761,14 +7889,6 @@
       "onboard_time": 1734495801,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136600,
-      "num": 136600,
-      "word": "萨摩耶秒变萨摩怒",
-      "onboard_time": 1734506839,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 136541,
@@ -8155,6 +8275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129165,
+      "num": 190120,
+      "word": "王楚钦遇到困难会给父母打电话",
+      "onboard_time": 1734509781,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129141,
       "num": 281492,
       "word": "竹林四侠团魂",
@@ -8401,6 +8529,14 @@
       "onboard_time": 1734506057,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "春节申遗了饺子还会远吗",
+      "onboard_time": 1734509541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124846,
@@ -9595,20 +9731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97271,
-      "num": 331479,
-      "word": "北京粮食集团原副总姜鹏举遣返回国",
-      "onboard_time": 1734505519,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 96506,
       "num": 184667,
       "word": "Rainbow金栽经结婚",
       "onboard_time": 1734327440,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96483,
+      "num": 288790,
+      "word": "杀马特教父认为自己已财富自由",
+      "onboard_time": 1734509180,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96019,
@@ -10515,6 +10651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69105,
+      "num": 1035568,
+      "word": "澳门人的心一直与祖国同步跳动",
+      "onboard_time": 1734495141,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 68771,
       "num": 322535,
       "word": "法院判定靠呼吸机多活两天视同工伤",
@@ -10537,14 +10681,6 @@
       "onboard_time": 1734375971,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68532,
-      "num": 1035568,
-      "word": "澳门人的心一直与祖国同步跳动",
-      "onboard_time": 1734495141,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 68416,
@@ -10745,6 +10881,14 @@
       "onboard_time": 1734334399,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 63227,
+      "num": 223239,
+      "word": "朴彩英登新华社报刊",
+      "onboard_time": 1734509180,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 63210,
@@ -11603,6 +11747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42767,
+      "num": 286206,
+      "word": "杨妞花称希望是最后一次面对余华英",
+      "onboard_time": 1734509180,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42590,
       "num": 166063,
       "word": "电影误判打戏好爽",
@@ -12016,6 +12168,14 @@
       "word": "知名音乐人杨立德逝世",
       "onboard_time": 1734427640,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35235,
+      "num": 331688,
+      "word": "宋佳说演员要做到一人千面",
+      "onboard_time": 1734509000,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -12611,6 +12771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24367,
+      "num": 192244,
+      "word": "被澳门2049舞台谢幕感动",
+      "onboard_time": 1734508339,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
@@ -12899,6 +13067,14 @@
       "category": "演出,旅游"
     },
     {
+      "raw_hot": 19140,
+      "num": 163467,
+      "word": "檀健次实名认证螺蛳粉男孩",
+      "onboard_time": 1734509900,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19107,
       "num": 43302,
       "word": "中国经济航船必将驶向更加光明的未来",
@@ -13081,6 +13257,14 @@
       "onboard_time": 1734354981,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16749,
+      "num": 190748,
+      "word": "杜江董浩刘纯燕配音帕丁顿熊3",
+      "onboard_time": 1734509661,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 16330,
@@ -13459,6 +13643,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 10746,
+      "num": 186865,
+      "word": "任敏谈观众审判",
+      "onboard_time": 1734507798,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 10541,
       "num": 295875,
       "word": "Cici项偞婧风衣蕾丝裙清冷美",
@@ -13561,6 +13753,14 @@
       "onboard_time": 1734354139,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7967,
+      "num": 934898,
+      "word": "喝茶吃饭澳门一口一个非遗",
+      "onboard_time": 1734510500,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 7162,

@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734507346777,
+  "endTime": 1734510644570,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -8,6 +8,14 @@
       "word": "张馨予老公疑转业至广州大学保卫处",
       "onboard_time": 1734493459,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2428559,
+      "num": 2428559,
+      "word": "吴奇隆与刘诗诗关联公司已注销",
+      "onboard_time": 1734507620,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -91,6 +99,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 979923,
+      "num": 979923,
+      "word": "22年前向央视求救的女人现状",
+      "onboard_time": 1734507379,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 949372,
       "num": 949372,
       "word": "保姆自己吃水果零食是没分寸吗",
@@ -113,6 +129,14 @@
       "onboard_time": 1734485838,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 902568,
+      "num": 902568,
+      "word": "上海下雪",
+      "onboard_time": 1734508280,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 880597,
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 703521,
+      "num": 1102608,
+      "word": "谢娜真不把观众当外人",
+      "onboard_time": 1734504919,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 690410,
       "num": 551022,
       "word": "脑瘫青年发现自己的诗出现在大银幕",
@@ -233,14 +265,6 @@
       "onboard_time": 1734499520,
       "rank": 20,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 641302,
-      "num": 1102608,
-      "word": "谢娜真不把观众当外人",
-      "onboard_time": 1734504919,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 618377,
@@ -451,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415427,
+      "num": 415427,
+      "word": "谢依霖发长文谈与杨幂郭采洁郭碧婷重聚",
+      "onboard_time": 1734508640,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 400828,
       "num": 400828,
       "word": "百万新车被剐蹭车主仅让对方擦一下",
@@ -515,6 +547,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351148,
+      "num": 292460,
+      "word": "向佐郭碧婷互换衣柜",
+      "onboard_time": 1734506539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 348661,
+      "num": 348661,
+      "word": "体重开始下降的二十个习惯",
+      "onboard_time": 1734509661,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 348147,
       "num": 289986,
       "word": "奔跑吧两大女MC浙江卫视跨年合体",
@@ -531,8 +579,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325675,
+      "num": 330292,
+      "word": "江歌妈妈回应注销名下商户",
+      "onboard_time": 1734504078,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324939,
-      "num": 170091,
+      "num": 189334,
       "word": "吴昕爆料何炅切大小号催人出发",
       "onboard_time": 1734506658,
       "rank": 21,
@@ -603,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298765,
+      "num": 298765,
+      "word": "猎罪图鉴2颅内谋杀",
+      "onboard_time": 1734506539,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296178,
       "num": 408972,
       "word": "李昀锐回应是薄肌的神",
@@ -651,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282806,
+      "num": 189760,
+      "word": "孟子义李昀锐一起堆雪人",
+      "onboard_time": 1734508701,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278649,
       "num": 278649,
       "word": "不背单词崩了",
@@ -691,14 +763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 257056,
-      "num": 165024,
-      "word": "向佐郭碧婷互换衣柜",
-      "onboard_time": 1734506539,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257002,
       "num": 274333,
       "word": "现在拨打的电话",
@@ -713,6 +777,22 @@
       "onboard_time": 1734499639,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247292,
+      "num": 188345,
+      "word": "王鸥用大侦探金条给大家做手串",
+      "onboard_time": 1734507919,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246395,
+      "num": 187725,
+      "word": "这干噎酸奶当年货可太好了",
+      "onboard_time": 1734506719,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 245958,
@@ -883,6 +963,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200542,
+      "num": 187063,
+      "word": "才知道李川和锤娜丽莎是情侣",
+      "onboard_time": 1734510381,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199995,
+      "num": 186448,
+      "word": "王鹤棣领衔主演电影青春梦",
+      "onboard_time": 1734510140,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199303,
       "num": 199303,
       "word": "和平饭店回应298元套餐仅有水和面包",
@@ -931,12 +1027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193365,
-      "num": 159803,
-      "word": "猎罪图鉴2颅内谋杀",
-      "onboard_time": 1734506539,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 192284,
+      "num": 192284,
+      "word": "太空一号发射失败",
+      "onboard_time": 1734509960,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190948,
@@ -979,12 +1075,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182500,
-      "num": 330292,
-      "word": "江歌妈妈回应注销名下商户",
-      "onboard_time": 1734504078,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "萨摩耶秒变萨摩怒",
+      "onboard_time": 1734506839,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185011,
+      "num": 170352,
+      "word": "王鹤棣新片海报质感",
+      "onboard_time": 1734509481,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182252,
+      "num": 182252,
+      "word": "王楚钦将连续第4个春节无法回家团圆",
+      "onboard_time": 1734507261,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 181140,
@@ -1033,6 +1145,14 @@
       "onboard_time": 1734503779,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175542,
+      "num": 175542,
+      "word": "外交部祝贺黑神话悟空获TGA两项大奖",
+      "onboard_time": 1734509781,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 175011,
@@ -1137,6 +1257,14 @@
       "onboard_time": 1734483559,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162295,
+      "num": 162295,
+      "word": "脑瘫不等于傻子",
+      "onboard_time": 1734510620,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161204,
@@ -1259,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149450,
+      "num": 331479,
+      "word": "北京粮食集团原副总姜鹏举遣返回国",
+      "onboard_time": 1734505519,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148865,
       "num": 329901,
       "word": "Clearlove将正式成为LPL名人堂成员",
@@ -1331,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138793,
-      "num": 138793,
-      "word": "这干噎酸奶当年货可太好了",
-      "onboard_time": 1734506719,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "绝区零",
@@ -1369,14 +1497,6 @@
       "onboard_time": 1734495801,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136600,
-      "num": 136600,
-      "word": "萨摩耶秒变萨摩怒",
-      "onboard_time": 1734506839,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 134938,
@@ -1443,6 +1563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129165,
+      "num": 190120,
+      "word": "王楚钦遇到困难会给父母打电话",
+      "onboard_time": 1734509781,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129141,
       "num": 281492,
       "word": "竹林四侠团魂",
@@ -1505,6 +1633,14 @@
       "onboard_time": 1734506057,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "春节申遗了饺子还会远吗",
+      "onboard_time": 1734509541,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124701,
@@ -1707,12 +1843,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97271,
-      "num": 331479,
-      "word": "北京粮食集团原副总姜鹏举遣返回国",
-      "onboard_time": 1734505519,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 96483,
+      "num": 288790,
+      "word": "杀马特教父认为自己已财富自由",
+      "onboard_time": 1734509180,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96347,
@@ -1931,7 +2067,7 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 68532,
+      "raw_hot": 69105,
       "num": 1035568,
       "word": "澳门人的心一直与祖国同步跳动",
       "onboard_time": 1734495141,
@@ -1969,6 +2105,14 @@
       "onboard_time": 1734466270,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 63227,
+      "num": 223239,
+      "word": "朴彩英登新华社报刊",
+      "onboard_time": 1734509180,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 62588,
@@ -2195,6 +2339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42767,
+      "num": 286206,
+      "word": "杨妞花称希望是最后一次面对余华英",
+      "onboard_time": 1734509180,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41573,
       "num": 41573,
       "word": "杨洋活动直拍",
@@ -2297,6 +2449,14 @@
       "onboard_time": 1734485360,
       "rank": 29,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 35235,
+      "num": 331688,
+      "word": "宋佳说演员要做到一人千面",
+      "onboard_time": 1734509000,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 32233,
@@ -2411,6 +2571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 24367,
+      "num": 192244,
+      "word": "被澳门2049舞台谢幕感动",
+      "onboard_time": 1734508339,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 22630,
       "num": 194247,
       "word": "好匆匆的一年",
@@ -2443,12 +2611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19140,
+      "num": 163467,
+      "word": "檀健次实名认证螺蛳粉男孩",
+      "onboard_time": 1734509900,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18525,
       "num": 56806,
       "word": "官方辟谣李宜雪失联",
       "onboard_time": 1734462612,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16749,
+      "num": 190748,
+      "word": "杜江董浩刘纯燕配音帕丁顿熊3",
+      "onboard_time": 1734509661,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 16330,
@@ -2489,6 +2673,22 @@
       "onboard_time": 1734468670,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10746,
+      "num": 186865,
+      "word": "任敏谈观众审判",
+      "onboard_time": 1734507798,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7967,
+      "num": 934898,
+      "word": "喝茶吃饭澳门一口一个非遗",
+      "onboard_time": 1734510500,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 5212,
