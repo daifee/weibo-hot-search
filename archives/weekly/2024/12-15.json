@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734478592900,
+  "endTime": 1734486456466,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -201,6 +201,14 @@
       "onboard_time": 1734359842,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1597841,
+      "num": 1130004,
+      "word": "中国游客遗体在马来西亚被打捞上岸",
+      "onboard_time": 1734483199,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1559757,
@@ -491,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1050173,
+      "num": 1168027,
+      "word": "特朗普正式赢得总统职位",
+      "onboard_time": 1734482779,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1045955,
       "num": 1167352,
       "word": "早知道我就裸考了",
@@ -619,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 941208,
+      "num": 941208,
+      "word": "千万彩票被冒领当事人没拿到1分钱",
+      "onboard_time": 1734483199,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 933300,
       "num": 725513,
       "word": "卢昱晓 刘亦菲在那里我也想去",
@@ -657,6 +681,14 @@
       "onboard_time": 1734336859,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 880597,
+      "num": 922594,
+      "word": "南大碎尸案警方誓言追查到底",
+      "onboard_time": 1734449419,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 871855,
@@ -753,14 +785,6 @@
       "onboard_time": 1734233537,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 841866,
-      "num": 922594,
-      "word": "南大碎尸案警方誓言追查到底",
-      "onboard_time": 1734449419,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 841017,
@@ -995,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719714,
+      "num": 389386,
+      "word": "禹宙中欣",
+      "onboard_time": 1734480918,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 716179,
       "num": 567936,
       "word": "沈腾 坏了冲我来的",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1734326120,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655814,
+      "num": 655814,
+      "word": "唐艺昕分享女儿钢琴演出照",
+      "onboard_time": 1734477196,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 652620,
@@ -1275,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613114,
+      "num": 386058,
+      "word": "曝西安环卫工被拖欠5个月工资堵路要钱",
+      "onboard_time": 1734484219,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612725,
       "num": 612725,
       "word": "董明珠再回应与雷军赌约",
@@ -1419,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 565526,
-      "num": 349921,
-      "word": "唐艺昕分享女儿钢琴演出照",
-      "onboard_time": 1734477196,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 565508,
       "num": 565508,
       "word": "一市民花84元买彩票中834万",
@@ -1451,6 +1491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 564047,
+      "num": 564047,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1734480618,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560075,
       "num": 807539,
       "word": "阿萨德离开叙利亚后首次发表声明",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1734348799,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557607,
+      "num": 557607,
+      "word": "刘浩存 大花幼年体",
+      "onboard_time": 1734481760,
+      "rank": 6,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 556003,
@@ -2035,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423212,
+      "num": 423212,
+      "word": "最疯狂时期平均每天贪200万",
+      "onboard_time": 1734455834,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422701,
       "num": 422701,
       "word": "四川警方破获一甲醛泡毛肚案",
@@ -2153,6 +2217,14 @@
       "onboard_time": 1734305776,
       "rank": 14,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 400828,
+      "num": 400828,
+      "word": "百万新车被剐蹭车主仅让对方擦一下",
+      "onboard_time": 1734478997,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399286,
@@ -2297,6 +2369,14 @@
       "onboard_time": 1734338660,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373422,
+      "num": 373422,
+      "word": "澳门盛装迎接回归祖国25周年",
+      "onboard_time": 1734470531,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 372773,
@@ -2531,6 +2611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 329192,
+      "num": 329192,
+      "word": "蒋智豪患癌昏迷父亲向网友求助",
+      "onboard_time": 1734485838,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327944,
       "num": 327944,
       "word": "林诗栋谈樊振东对阵王楚钦",
@@ -2659,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316652,
+      "num": 316652,
+      "word": "iPhone17ProMax渲染图再曝光",
+      "onboard_time": 1734483140,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316626,
       "num": 476487,
       "word": "3人用甲醛泡毛肚被抓",
@@ -2755,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303370,
+      "num": 236329,
+      "word": "12岁女孩感染HPV涉事医院该学学法",
+      "onboard_time": 1734453437,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299026,
       "num": 299026,
       "word": "姆巴佩强奸案原告还原案发过程",
@@ -2849,6 +2953,14 @@
       "onboard_time": 1734328279,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 289445,
+      "num": 328758,
+      "word": "李昀锐的水肿不是骗人的",
+      "onboard_time": 1734444140,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 288468,
@@ -3033,14 +3145,6 @@
       "onboard_time": 1734321440,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272800,
-      "num": 271127,
-      "word": "李昀锐的水肿不是骗人的",
-      "onboard_time": 1734444140,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 272384,
@@ -3451,14 +3555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 231783,
-      "num": 180939,
-      "word": "12岁女孩感染HPV涉事医院该学学法",
-      "onboard_time": 1734453437,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230903,
       "num": 313611,
       "word": "叠纸起诉派克特",
@@ -3499,6 +3595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228651,
+      "num": 228651,
+      "word": "郭敬明晒月鳞绮纪原始帧",
+      "onboard_time": 1734481878,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228648,
       "num": 214615,
       "word": "1个墙缝同时卡住2个孩子",
@@ -3513,6 +3617,14 @@
       "onboard_time": 1734244519,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227556,
+      "num": 400514,
+      "word": "航天员太空漫步看到的地球",
+      "onboard_time": 1734482898,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226803,
@@ -3795,6 +3907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213956,
+      "num": 213956,
+      "word": "虞书欣生日专辑上线",
+      "onboard_time": 1734478337,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213849,
       "num": 213849,
       "word": "河北一村民家灶台被贴条停气",
@@ -3881,6 +4001,14 @@
       "onboard_time": 1734245240,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210195,
+      "num": 210195,
+      "word": "中国商场怎么全是预制菜",
+      "onboard_time": 1734482300,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 210021,
@@ -4595,6 +4723,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 189698,
+      "num": 189698,
+      "word": "不背单词崩了",
+      "onboard_time": 1734485538,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189697,
       "num": 189697,
       "word": "昭昭墨墨圆房吻",
@@ -4913,6 +5049,14 @@
       "onboard_time": 1734316156,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180191,
+      "num": 180191,
+      "word": "男子摆拍70多条外卖奇葩顾客视频",
+      "onboard_time": 1734483439,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180160,
@@ -5547,6 +5691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162486,
+      "num": 162486,
+      "word": "姚晨刘亦菲 芙蓉玫瑰联动",
+      "onboard_time": 1734483559,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162422,
       "num": 162422,
       "word": "国家移民管理局新闻发布会",
@@ -5876,7 +6028,7 @@
     },
     {
       "raw_hot": 155127,
-      "num": 155127,
+      "num": 320104,
       "word": "A股",
       "onboard_time": 1734314237,
       "rank": 26,
@@ -5953,6 +6105,14 @@
       "onboard_time": 1734322521,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153588,
+      "num": 153588,
+      "word": "人贩子余华英再无上诉机会",
+      "onboard_time": 1734485718,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153255,
@@ -6193,6 +6353,14 @@
       "onboard_time": 1734251059,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148200,
+      "num": 148200,
+      "word": "宋墨逆光出现",
+      "onboard_time": 1734482719,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147950,
@@ -6441,6 +6609,14 @@
       "onboard_time": 1734259938,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141930,
+      "num": 141930,
+      "word": "男子想当网红找人演戏刁难自己",
+      "onboard_time": 1734483378,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141738,
@@ -6715,6 +6891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135872,
+      "num": 135872,
+      "word": "哈尔滨大妈求助特警找手撕面包",
+      "onboard_time": 1734486258,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135593,
       "num": 135593,
       "word": "六级",
@@ -6745,14 +6929,6 @@
       "onboard_time": 1734306377,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 134702,
-      "num": 154202,
-      "word": "虞书欣生日专辑上线",
-      "onboard_time": 1734478337,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 134644,
@@ -6819,12 +6995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134103,
+      "num": 134103,
+      "word": "从南到北冷得干巴巴的",
+      "onboard_time": 1734483738,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134051,
       "num": 297643,
       "word": "为什么你没有小时候那么讨厌蔬菜了",
       "onboard_time": 1734430701,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133962,
+      "num": 133962,
+      "word": "三辆车10秒为120让出生命通道",
+      "onboard_time": 1734480199,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 133703,
@@ -6865,6 +7057,14 @@
       "onboard_time": 1734331879,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133265,
+      "num": 133265,
+      "word": "春运火车票12月31日起售",
+      "onboard_time": 1734485360,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133017,
@@ -7027,6 +7227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129261,
+      "num": 129261,
+      "word": "杜淳妻子回怼网友",
+      "onboard_time": 1734486440,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129107,
       "num": 129107,
       "word": "檀健次说猎鉴第二季沈翊像老虎",
@@ -7147,6 +7355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 126710,
+      "num": 126710,
+      "word": "杜兰特不满全明星新赛制",
+      "onboard_time": 1734482179,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126638,
       "num": 126638,
       "word": "曼城1比2曼联",
@@ -7241,14 +7457,6 @@
       "onboard_time": 1734232578,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124038,
-      "num": 124038,
-      "word": "最疯狂时期平均每天贪200万",
-      "onboard_time": 1734455834,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123953,
@@ -7353,6 +7561,14 @@
       "onboard_time": 1734438977,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 121213,
+      "word": "出品方仅同意删婚外情情节不公开道歉",
+      "onboard_time": 1734483079,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 120990,
@@ -8411,14 +8627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 91250,
-      "num": 91250,
-      "word": "澳门盛装迎接回归祖国25周年",
-      "onboard_time": 1734470531,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 91202,
       "num": 223091,
       "word": "农村挖红薯大叔是6块金牌的武状元",
@@ -8545,6 +8753,14 @@
       "onboard_time": 1734321619,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87055,
+      "num": 242486,
+      "word": "iG全神班穿着跨越四季",
+      "onboard_time": 1734486317,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 86232,
@@ -9051,6 +9267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70442,
+      "num": 375778,
+      "word": "雄鹿vs雷霆",
+      "onboard_time": 1734485538,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70424,
       "num": 267491,
       "word": "奥恰洛夫遗憾没能击败马龙",
@@ -9545,6 +9769,14 @@
       "onboard_time": 1734280037,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52518,
+      "num": 323582,
+      "word": "2024巴黎奥运的那些意难平",
+      "onboard_time": 1734485659,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 52358,
@@ -10315,6 +10547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35747,
+      "num": 203286,
+      "word": "特朗普胜选以来特斯拉已涨逾90%",
+      "onboard_time": 1734485360,
+      "rank": 29,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 35677,
       "num": 55608,
       "word": "泰国忠犬拒绝进食随主人一同离世",
@@ -10521,6 +10761,14 @@
       "onboard_time": 1734274100,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31111,
+      "num": 1004348,
+      "word": "感受声音里的多彩澳门",
+      "onboard_time": 1734445402,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31084,
@@ -11065,14 +11313,6 @@
       "onboard_time": 1734286452,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20508,
-      "num": 469887,
-      "word": "感受声音里的多彩澳门",
-      "onboard_time": 1734445402,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20417,
