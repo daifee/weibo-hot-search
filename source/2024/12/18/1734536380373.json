@@ -1,0 +1,410 @@
+{
+  "runTime": 1734536380373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814415,
+        "num": 1814415,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742456,
+        "num": 742456,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26208,
+        "num": 707899,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 703887,
+        "num": 703887,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 681295,
+        "num": 681295,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 502679,
+        "num": 502679,
+        "word": "九重紫",
+        "onboard_time": 1734516919,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458284,
+        "num": 458284,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375186,
+        "num": 375186,
+        "word": "五哈 你们的幸福吵到我了",
+        "onboard_time": 1734529100,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294598,
+        "num": 294598,
+        "word": "虞书欣ins晒与金秀贤同框图",
+        "onboard_time": 1734511720,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63026,
+        "num": 288501,
+        "word": "女子花368888赌石想退款被法院驳回",
+        "onboard_time": 1734533842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690768,
+        "num": 285534,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 10,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 529272,
+        "num": 278443,
+        "word": "微信朋友圈崩了",
+        "onboard_time": 1734517640,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 512480,
+        "num": 273155,
+        "word": "田柾国直播",
+        "onboard_time": 1734533780,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427125,
+        "num": 264785,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74158,
+        "num": 260928,
+        "word": "有人为了骗保专门开了一家医院",
+        "onboard_time": 1734534740,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 329388,
+        "num": 253645,
+        "word": "张馨予老公接机路人视角",
+        "onboard_time": 1734529821,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251244,
+        "num": 251244,
+        "word": "丁禹兮精心打扮但很狼狈的一天",
+        "onboard_time": 1734529400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237772,
+        "num": 237772,
+        "word": "94岁西单商场宣布停业",
+        "onboard_time": 1734527540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232780,
+        "num": 232780,
+        "word": "封神2 魔家四将班味好重",
+        "onboard_time": 1734532042,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10196,
+        "num": 214081,
+        "word": "BOYNEXTDOOR费加罗MODE闭年封面",
+        "onboard_time": 1734535880,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440272,
+        "num": 212766,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377280,
+        "num": 212212,
+        "word": "研究生导师辱骂马龙孙颖莎被处分",
+        "onboard_time": 1734520398,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210490,
+        "num": 210490,
+        "word": "王浩辞去浙江省省长职务",
+        "onboard_time": 1734519379,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202622,
+        "num": 202622,
+        "word": "刘畊宏帮女儿追星贺峻霖",
+        "onboard_time": 1734526520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118501,
+        "num": 192454,
+        "word": "被林高远感染下的团魂",
+        "onboard_time": 1734533842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183017,
+        "num": 183017,
+        "word": "鹿晗苹果头",
+        "onboard_time": 1734533061,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177390,
+        "num": 177390,
+        "word": "孟子义 我欲乘风",
+        "onboard_time": 1734533421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168257,
+        "num": 168257,
+        "word": "猎罪图鉴2沈翊鉴茶",
+        "onboard_time": 1734534860,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134432,
+        "num": 166611,
+        "word": "俄罗斯一客运列车与货运列车相撞",
+        "onboard_time": 1734534260,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24266,
+        "num": 166461,
+        "word": "适当的保持饥饿感可以减脂",
+        "onboard_time": 1734535160,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176038,
+        "num": 166460,
+        "word": "男主持人质疑女权博主王慧玲",
+        "onboard_time": 1734531260,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166431,
+        "num": 166431,
+        "word": "小泡芙追星贺峻霖",
+        "onboard_time": 1734528680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162057,
+        "num": 162057,
+        "word": "博主称在大理古城要钱13天6800元",
+        "onboard_time": 1734534321,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33516,
+        "num": 160849,
+        "word": "稻草熊娱乐市值缩水近70亿",
+        "onboard_time": 1734534561,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160279,
+        "num": 160279,
+        "word": "丁禹兮cp研究报告",
+        "onboard_time": 1734535940,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159242,
+        "num": 159242,
+        "word": "九重紫 删减",
+        "onboard_time": 1734524000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156865,
+        "num": 156865,
+        "word": "警方通报上海一住宅发生刑事案件",
+        "onboard_time": 1734535940,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 143670,
+        "num": 143670,
+        "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
+        "onboard_time": 1734531981,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140006,
+        "num": 140006,
+        "word": "妈妈称自闭症儿子被老师同学治愈",
+        "onboard_time": 1734518541,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 126102,
+        "num": 126102,
+        "word": "新娘化妆两小时到新郎家被抹一脸黑",
+        "onboard_time": 1734513200,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123762,
+        "num": 123762,
+        "word": "体重开始下降的二十个习惯",
+        "onboard_time": 1734509661,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 120139,
+        "word": "宋佳 瞳孔地震",
+        "onboard_time": 1734530721,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113604,
+        "num": 113604,
+        "word": "IG16分钟推平RNG",
+        "onboard_time": 1734527120,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112373,
+        "num": 112373,
+        "word": "杨鸣愁死了",
+        "onboard_time": 1734533119,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82313,
+        "num": 105571,
+        "word": "檀健次 蝴蝶结比心",
+        "onboard_time": 1734534199,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "韩国人一家的普通午饭",
+        "onboard_time": 1734519498,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 103558,
+        "word": "2024中国体育高光名场面",
+        "onboard_time": 1734534501,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103217,
+        "num": 103217,
+        "word": "韩国皮肤科偶遇刘些宁",
+        "onboard_time": 1734530362,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103193,
+        "num": 103193,
+        "word": "宋祖儿安慰粉丝",
+        "onboard_time": 1734519498,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101877,
+        "num": 101877,
+        "word": "黄子弘凡 妆抛脸",
+        "onboard_time": 1734535340,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
