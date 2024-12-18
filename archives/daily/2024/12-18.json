@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734490829314,
+  "endTime": 1734491360059,
   "band_list": [
     {
       "raw_hot": 1597841,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1549576,
-      "num": 1549576,
+      "raw_hot": 1550357,
+      "num": 1550357,
       "word": "女孩欲轻生被劝4小时多了个干爹",
       "onboard_time": 1734487879,
       "rank": 0,
@@ -123,8 +123,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 568006,
-      "num": 568006,
+      "raw_hot": 594761,
+      "num": 594761,
       "word": "祝绪丹写了藏头诗为虞书欣庆生",
       "onboard_time": 1734487579,
       "rank": 18,
@@ -155,20 +155,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 459030,
+      "num": 452266,
+      "word": "杜淳妻子回怼网友",
+      "onboard_time": 1734486440,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454169,
       "num": 371862,
       "word": "南大碎尸案逝者家属喊话张译",
       "onboard_time": 1734423139,
       "rank": 11,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 452266,
-      "num": 452266,
-      "word": "杜淳妻子回怼网友",
-      "onboard_time": 1734486440,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 449928,
@@ -185,6 +185,14 @@
       "onboard_time": 1734442640,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443212,
+      "num": 394279,
+      "word": "永夜星河",
+      "onboard_time": 1734489858,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 430484,
@@ -259,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 352431,
+      "num": 261832,
+      "word": "虞书欣 谢谢慕声儿",
+      "onboard_time": 1734490879,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323537,
       "num": 323537,
       "word": "王鹤棣 如果哪天我不帅了",
@@ -281,14 +297,6 @@
       "onboard_time": 1734489498,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 308537,
-      "num": 227295,
-      "word": "永夜星河",
-      "onboard_time": 1734489858,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 303370,
@@ -339,6 +347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 271564,
+      "num": 271564,
+      "word": "花2万2网购保时捷刚落地就被查",
+      "onboard_time": 1734488959,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270416,
       "num": 270416,
       "word": "当你不停运动三个月后",
@@ -361,14 +377,6 @@
       "onboard_time": 1734448400,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232609,
-      "num": 232609,
-      "word": "花2万2网购保时捷刚落地就被查",
-      "onboard_time": 1734488959,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 228651,
@@ -451,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196959,
+      "num": 196959,
+      "word": "哪首歌带给你满满的力量",
+      "onboard_time": 1734490758,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 190990,
+      "num": 274333,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734489798,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187558,
       "num": 187558,
       "word": "加拿大一周大福门店遭抢劫",
@@ -459,8 +483,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 180866,
-      "num": 180866,
+      "raw_hot": 181140,
+      "num": 181140,
       "word": "哈尔滨大妈求助特警找手撕面包",
       "onboard_time": 1734486258,
       "rank": 41,
@@ -555,6 +579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 144606,
+      "num": 144606,
+      "word": "春运火车票12月31日起售",
+      "onboard_time": 1734485360,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143012,
       "num": 143012,
       "word": "白鹿去浙江卫视跨年",
@@ -611,14 +643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135791,
-      "num": 135791,
-      "word": "春运火车票12月31日起售",
-      "onboard_time": 1734485360,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134103,
       "num": 134103,
       "word": "从南到北冷得干巴巴的",
@@ -651,12 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129342,
+      "num": 224830,
+      "word": "造谣国乒煽动互撕多人被永久禁言",
+      "onboard_time": 1734489917,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128182,
       "num": 128182,
       "word": "男子称自己被智驾救了两次",
       "onboard_time": 1734487398,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127607,
+      "num": 132766,
+      "word": "中字头国资股爆发",
+      "onboard_time": 1734489437,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 126710,
@@ -699,14 +739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116893,
-      "num": 224830,
-      "word": "造谣国乒煽动互撕多人被永久禁言",
-      "onboard_time": 1734489917,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113467,
       "num": 113467,
       "word": "一家5口住也能实现独居的120平房子",
@@ -729,14 +761,6 @@
       "onboard_time": 1734484279,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108353,
-      "num": 108353,
-      "word": "哪首歌带给你满满的力量",
-      "onboard_time": 1734490758,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 108276,
@@ -771,14 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96400,
-      "num": 132766,
-      "word": "中字头国资股爆发",
-      "onboard_time": 1734489437,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 96347,
       "num": 96347,
       "word": "孟子义对李昀锐撒娇要衣服",
@@ -795,12 +811,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 92678,
-      "num": 247283,
-      "word": "现在拨打的电话",
-      "onboard_time": 1734489798,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 91436,
+      "num": 91436,
+      "word": "这首歌和澳门的适配度好高",
+      "onboard_time": 1734491119,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90313,
@@ -817,6 +833,14 @@
       "onboard_time": 1734436638,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88998,
+      "num": 88998,
+      "word": "李欣泽发长文",
+      "onboard_time": 1734491059,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 87547,
@@ -955,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50480,
+      "num": 329303,
+      "word": "雷霆半场三分17中1",
+      "onboard_time": 1734490697,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49684,
       "num": 49684,
       "word": "中国已同26个国家达成全面免签",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1734433400,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41389,
+      "num": 279946,
+      "word": "南大碎尸案被害人家属律师声明",
+      "onboard_time": 1734487639,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39960,
@@ -1115,14 +1155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 22270,
-      "num": 158042,
-      "word": "南大碎尸案被害人家属律师声明",
-      "onboard_time": 1734487639,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19505,
       "num": 19505,
       "word": "尹锡悦调查案陷入僵局",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1734468670,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5727,
-      "num": 329303,
-      "word": "雷霆半场三分17中1",
-      "onboard_time": 1734490697,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 5212,
