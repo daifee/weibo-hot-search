@@ -1,6 +1,6 @@
 {
   "startTime": 1734453070834,
-  "endTime": 1734511478210,
+  "endTime": 1734513919025,
   "band_list": [
     {
       "raw_hot": 3179512,
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 806049,
+      "num": 761915,
+      "word": "虞书欣ins晒与金秀贤同框图",
+      "onboard_time": 1734511720,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 776588,
       "num": 776588,
       "word": "网剧冬至",
@@ -179,12 +187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 760543,
+      "num": 445687,
+      "word": "才知道李川和锤娜丽莎是情侣",
+      "onboard_time": 1734510381,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 756878,
       "num": 756878,
       "word": "豆瓣崩了",
       "onboard_time": 1734499279,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 756398,
+      "num": 756398,
+      "word": "太空一号发射失败",
+      "onboard_time": 1734509960,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 752174,
@@ -435,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445687,
-      "num": 445687,
-      "word": "才知道李川和锤娜丽莎是情侣",
-      "onboard_time": 1734510381,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439434,
       "num": 392469,
       "word": "韩安冉宋浩然二胎百日宴",
@@ -475,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 431844,
+      "num": 204872,
+      "word": "新娘化妆两小时到新郎家被抹一脸黑",
+      "onboard_time": 1734513200,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430484,
       "num": 530514,
       "word": "男子摆拍70多条外卖奇葩顾客视频",
@@ -497,6 +521,22 @@
       "onboard_time": 1734455834,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405004,
+      "num": 405004,
+      "word": "王鹤棣领衔主演电影青春梦",
+      "onboard_time": 1734510140,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 404366,
+      "num": 404366,
+      "word": "孟子义李昀锐一起堆雪人",
+      "onboard_time": 1734508701,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 400828,
@@ -587,12 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338405,
-      "num": 338405,
-      "word": "孟子义李昀锐一起堆雪人",
-      "onboard_time": 1734508701,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 342358,
+      "num": 210172,
+      "word": "孟子义李昀锐回应二搭",
+      "onboard_time": 1734512060,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 325675,
@@ -707,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286290,
-      "num": 221788,
-      "word": "王鹤棣领衔主演电影青春梦",
-      "onboard_time": 1734510140,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 285071,
       "num": 559367,
       "word": "雄鹿NBA杯冠军",
@@ -761,6 +793,14 @@
       "onboard_time": 1734493580,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258796,
+      "num": 258796,
+      "word": "余承东首晒Mate70动态照片",
+      "onboard_time": 1734511700,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 257302,
@@ -851,14 +891,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 229712,
-      "num": 229712,
-      "word": "太空一号发射失败",
-      "onboard_time": 1734509960,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 229257,
       "num": 229257,
       "word": "大冰 怎么拥有良好的输出和表达能力",
@@ -905,6 +937,14 @@
       "onboard_time": 1734488839,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210907,
+      "num": 229576,
+      "word": "以前没有肖四政治怎么考啊",
+      "onboard_time": 1734511401,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 210195,
@@ -985,6 +1025,14 @@
       "onboard_time": 1734492440,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200237,
+      "num": 200237,
+      "word": "蒋梦婕 国色芳华具象化",
+      "onboard_time": 1734513320,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 199303,
@@ -1075,6 +1123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 187369,
+      "num": 187369,
+      "word": "张杰亮相巡演大电影北京首映礼",
+      "onboard_time": 1734513140,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186476,
       "num": 186476,
       "word": "李昀锐说没有微甜起码半糖",
@@ -1161,6 +1217,22 @@
       "onboard_time": 1734503779,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176085,
+      "num": 176085,
+      "word": "于朦胧古装",
+      "onboard_time": 1734512960,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175281,
+      "num": 175281,
+      "word": "老瓦称战胜樊振东马龙依然困难重重",
+      "onboard_time": 1734512120,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 175011,
@@ -1339,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156616,
+      "num": 156616,
+      "word": "余华英拐卖案重审二审明日开庭",
+      "onboard_time": 1734513080,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155661,
       "num": 155661,
       "word": "为什么越来越多人爱为抽象买单",
@@ -1441,6 +1521,22 @@
       "onboard_time": 1734485360,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143801,
+      "num": 143801,
+      "word": "香飘飘辟谣破产后在开线下店",
+      "onboard_time": 1734513680,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 143205,
+      "num": 143205,
+      "word": "国色芳华获得发行许可证",
+      "onboard_time": 1734513501,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 143012,
@@ -1571,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132800,
+      "num": 132800,
+      "word": "王慧玲 基层女性",
+      "onboard_time": 1734512539,
+      "rank": 45,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 132289,
       "num": 132289,
       "word": "鹿晗猝不及防的互拍",
@@ -1601,6 +1705,14 @@
       "onboard_time": 1734491718,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "黎深 临危",
+      "onboard_time": 1734513620,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 128182,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1734497662,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125266,
+      "num": 125266,
+      "word": "猎罪图鉴2神转场是檀健次设计的",
+      "onboard_time": 1734513860,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 124920,
@@ -1819,6 +1939,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 106076,
+      "num": 202383,
+      "word": "黑神话获Steam大奖3项提名",
+      "onboard_time": 1734513501,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 105816,
       "num": 268880,
       "word": "明道张栋梁汪东城回忆杀",
@@ -1979,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88653,
+      "num": 209301,
+      "word": "十个勤天全员接好运",
+      "onboard_time": 1734513620,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87547,
       "num": 87547,
       "word": "李兰迪 小胡同文学",
@@ -2051,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78414,
+      "num": 409247,
+      "word": "余华英上诉理由曝光",
+      "onboard_time": 1734513200,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75921,
       "num": 326954,
       "word": "黑粉让杨妞花感谢人贩子遭怒怼",
@@ -2091,14 +2235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 71721,
-      "num": 229576,
-      "word": "以前没有肖四政治怎么考啊",
-      "onboard_time": 1734511401,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 71195,
       "num": 309635,
       "word": "沪深市场A股分红派息手续费减半",
@@ -2115,12 +2251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70164,
+      "num": 746642,
+      "word": "更大力度支持两重项目",
+      "onboard_time": 1734510740,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 70105,
       "num": 416471,
       "word": "假装孕妇造谣敲诈企业有什么后果",
       "onboard_time": 1734494961,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 70051,
+      "num": 187413,
+      "word": "belift起诉ENHYPEN黑粉",
+      "onboard_time": 1734513860,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 69105,
@@ -2523,6 +2675,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34474,
+      "num": 187370,
+      "word": "任敏谈观众审判",
+      "onboard_time": 1734507798,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 34427,
+      "num": 208435,
+      "word": "杨妞花回应是余华英让其成为网红恶评",
+      "onboard_time": 1734512841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32233,
       "num": 241365,
       "word": "国企改革概念多股涨停",
@@ -2579,6 +2747,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28895,
+      "num": 286549,
+      "word": "女童被老师砸伤母亲抗诉被驳回",
+      "onboard_time": 1734513740,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27620,
       "num": 27620,
       "word": "古风小生",
@@ -2619,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25753,
+      "num": 206593,
+      "word": "欣生快乐每一刻",
+      "onboard_time": 1734510799,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25574,
       "num": 25574,
       "word": "集卡去微博之夜现场",
@@ -2651,28 +2835,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23265,
-      "num": 152550,
-      "word": "欣生快乐每一刻",
-      "onboard_time": 1734510799,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22630,
       "num": 194247,
       "word": "好匆匆的一年",
       "onboard_time": 1734506179,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 21857,
-      "num": 447042,
-      "word": "更大力度支持两重项目",
-      "onboard_time": 1734510740,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 20671,
@@ -2731,6 +2899,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 15343,
+      "num": 762336,
+      "word": "万千气象看吉林",
+      "onboard_time": 1734354320,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15143,
       "num": 441726,
       "word": "年轻人的觉醒从驯化算法开始",
@@ -2755,20 +2931,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10746,
-      "num": 186865,
-      "word": "任敏谈观众审判",
-      "onboard_time": 1734507798,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 12247,
+      "num": 154722,
+      "word": "网友一年游了2000万次",
+      "onboard_time": 1734512419,
+      "rank": 39,
+      "category": "互联网"
     },
     {
-      "raw_hot": 5212,
-      "num": 760169,
-      "word": "万千气象看吉林",
-      "onboard_time": 1734354320,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 9533,
+      "num": 167158,
+      "word": "吴京起诉两公司侵权索赔111万",
+      "onboard_time": 1734513020,
+      "rank": 35,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
@@ -2786,6 +2962,9 @@
     },
     {
       "word": "#向海洋要生产力求新增长点#"
+    },
+    {
+      "word": "#习近平主席澳门之行#"
     }
   ]
 }
