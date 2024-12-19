@@ -1,0 +1,410 @@
+{
+  "runTime": 1734577248788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 860796,
+        "num": 1137727,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 695070,
+        "num": 695070,
+        "word": "余华英5000元卖儿子说是赚点营养费",
+        "onboard_time": 1734573797,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 673254,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 652490,
+        "num": 652490,
+        "word": "谢芳逝世",
+        "onboard_time": 1734572237,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480250,
+        "num": 480250,
+        "word": "张家界文旅局发文致谢张艺兴",
+        "onboard_time": 1734575838,
+        "rank": 4,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 464937,
+        "num": 464937,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 431063,
+        "num": 431063,
+        "word": "曾经打过的羽毛球正钻入你的羽绒服",
+        "onboard_time": 1734568880,
+        "rank": 6,
+        "category": "舆论监督,舆论监督"
+      },
+      {
+        "raw_hot": 345620,
+        "num": 345620,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341092,
+        "num": 341092,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335182,
+        "num": 335182,
+        "word": "100平方米的房子得房率可能达100%",
+        "onboard_time": 1734575597,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315390,
+        "num": 315390,
+        "word": "两个国际张双向奔赴",
+        "onboard_time": 1734575838,
+        "rank": 10,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 2425195,
+        "num": 310963,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1012311,
+        "num": 305135,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496352,
+        "num": 291936,
+        "word": "一笑倾城聊天记录",
+        "onboard_time": 1734566839,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 449806,
+        "num": 284946,
+        "word": "虞书欣 自己的丑自己揭",
+        "onboard_time": 1734568280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321989,
+        "num": 272365,
+        "word": "李昀锐手指被审判",
+        "onboard_time": 1734576798,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272347,
+        "num": 272347,
+        "word": "夏之光 剧透了",
+        "onboard_time": 1734571819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223194,
+        "num": 267694,
+        "word": "跑男把母带翻冒烟了",
+        "onboard_time": 1734569359,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46815,
+        "num": 267672,
+        "word": "余华英案件时间线",
+        "onboard_time": 1734575539,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20363,
+        "num": 267664,
+        "word": "被这些国货品牌的公益行动暖到了",
+        "onboard_time": 1734573859,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267663,
+        "num": 267663,
+        "word": "90后男子跑大卡车6年买房买车",
+        "onboard_time": 1734575237,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 255443,
+        "num": 255443,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239838,
+        "num": 239838,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 192600,
+        "num": 237156,
+        "word": "浙江卫视跨年阵容超强续航",
+        "onboard_time": 1734577097,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188232,
+        "num": 237119,
+        "word": "崔宸曦生日王楚钦留言快乐小滑板",
+        "onboard_time": 1734575237,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48676,
+        "num": 237104,
+        "word": "上百个寻亲家庭沿路为杨妞花加油",
+        "onboard_time": 1734575358,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237098,
+        "num": 237098,
+        "word": "一千克羽毛球做5件羽绒服",
+        "onboard_time": 1734563715,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207634,
+        "num": 207634,
+        "word": "澳门市民说解放军在非常有安全感",
+        "onboard_time": 1734568939,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198837,
+        "num": 198837,
+        "word": "苟仲文被逮捕",
+        "onboard_time": 1734575119,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107414,
+        "num": 197327,
+        "word": "电视剧我是刑警",
+        "onboard_time": 1734570439,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196862,
+        "num": 196862,
+        "word": "诛仙世界",
+        "onboard_time": 1734574277,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193301,
+        "num": 193301,
+        "word": "闪耀暖暖",
+        "onboard_time": 1734576438,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178894,
+        "num": 178894,
+        "word": "蚂蚁集团称目前没有上市计划",
+        "onboard_time": 1734576078,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178032,
+        "num": 178032,
+        "word": "Ning想去iG当战地记者",
+        "onboard_time": 1734575539,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175646,
+        "num": 175646,
+        "word": "美媒爆称马斯克因涉密问题被军方审查",
+        "onboard_time": 1734575897,
+        "rank": 34,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 161364,
+        "num": 161364,
+        "word": "极越高管回应员工万字怒怼CEO",
+        "onboard_time": 1734573859,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157241,
+        "num": 157241,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "取消公摊坚定购房者信心",
+        "onboard_time": 1734576378,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148499,
+        "num": 148499,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 140859,
+        "num": 140859,
+        "word": "玄彬说儿子像孙艺珍",
+        "onboard_time": 1734569421,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125875,
+        "num": 125875,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 40,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 120558,
+        "num": 120558,
+        "word": "知情人回应虎牙女主播酷萱遇害案",
+        "onboard_time": 1734568518,
+        "rank": 41,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 117449,
+        "num": 117449,
+        "word": "乳腺增生最后会不会癌变",
+        "onboard_time": 1734576438,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116108,
+        "num": 116108,
+        "word": "妈妈带娃体验流放宁古塔",
+        "onboard_time": 1734577038,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116061,
+        "num": 116061,
+        "word": "他好像摸了一下魔方就复原了",
+        "onboard_time": 1734536539,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115349,
+        "num": 115349,
+        "word": "伊朗男子街头戳刺女性被判死刑",
+        "onboard_time": 1734569959,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110220,
+        "num": 110220,
+        "word": "澳门回归祖国影像如今看依然感动",
+        "onboard_time": 1734573797,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102787,
+        "num": 102787,
+        "word": "董宇辉谈童年经历",
+        "onboard_time": 1734575897,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98984,
+        "num": 98984,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88540,
+        "num": 98919,
+        "word": "窦骁再演民国戏",
+        "onboard_time": 1734573318,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在澳门会见贺一诚#"
+    }
+  }
+}

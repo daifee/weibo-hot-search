@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734574215268,
+  "endTime": 1734577248788,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -73,6 +73,14 @@
       "onboard_time": 1734507620,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2425195,
+      "num": 310963,
+      "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+      "onboard_time": 1734575778,
+      "rank": 11,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2386709,
@@ -1419,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 695070,
+      "num": 695070,
+      "word": "余华英5000元卖儿子说是赚点营养费",
+      "onboard_time": 1734573797,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 690691,
       "num": 418353,
       "word": "爸爸辅导孩子作业被气到心肌梗死",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1734341840,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 652490,
+      "num": 652490,
+      "word": "谢芳逝世",
+      "onboard_time": 1734572237,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 650878,
@@ -2411,6 +2435,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 480250,
+      "num": 480250,
+      "word": "张家界文旅局发文致谢张艺兴",
+      "onboard_time": 1734575838,
+      "rank": 4,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 476936,
       "num": 476936,
       "word": "疑似涉黄私人影院注册资本仅10万",
@@ -2505,6 +2537,14 @@
       "onboard_time": 1734493820,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464937,
+      "num": 464937,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 464802,
@@ -2617,14 +2657,6 @@
       "onboard_time": 1734488358,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449810,
-      "num": 449810,
-      "word": "谢芳逝世",
-      "onboard_time": 1734572237,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 443026,
@@ -3371,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345620,
+      "num": 357851,
+      "word": "余华英案件重审二审",
+      "onboard_time": 1734572538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345320,
       "num": 345320,
       "word": "北大教授因女儿痛经研发新药",
@@ -3491,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 335182,
+      "num": 335182,
+      "word": "100平方米的房子得房率可能达100%",
+      "onboard_time": 1734575597,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332545,
       "num": 193705,
       "word": "穿袜子睡觉会减少夜醒次数",
@@ -3585,6 +3633,14 @@
       "onboard_time": 1734511700,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 321989,
+      "num": 272365,
+      "word": "李昀锐手指被审判",
+      "onboard_time": 1734576798,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 321897,
@@ -3715,6 +3771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 315390,
+      "num": 315390,
+      "word": "两个国际张双向奔赴",
+      "onboard_time": 1734575838,
+      "rank": 10,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 314383,
       "num": 314383,
       "word": "我国卫星互联网低轨卫星发射成功",
@@ -3777,14 +3841,6 @@
       "onboard_time": 1734188901,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304474,
-      "num": 304474,
-      "word": "黄金重挫2%",
-      "onboard_time": 1734571278,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 304328,
@@ -3961,14 +4017,6 @@
       "onboard_time": 1734433879,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286662,
-      "num": 357851,
-      "word": "余华英案件重审二审",
-      "onboard_time": 1734572538,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 285208,
@@ -4233,6 +4281,14 @@
       "onboard_time": 1734441978,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267663,
+      "num": 267663,
+      "word": "90后男子跑大卡车6年买房买车",
+      "onboard_time": 1734575237,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 267536,
@@ -4609,6 +4665,14 @@
       "onboard_time": 1734322880,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239838,
+      "num": 239838,
+      "word": "网红收入超千万报税竟未达5000元",
+      "onboard_time": 1734576498,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 239633,
@@ -5731,6 +5795,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 198837,
+      "num": 198837,
+      "word": "苟仲文被逮捕",
+      "onboard_time": 1734575119,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198814,
       "num": 198814,
       "word": "张萌演技",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1734411980,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196862,
+      "num": 269739,
+      "word": "诛仙世界",
+      "onboard_time": 1734333198,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 196638,
@@ -6115,6 +6195,14 @@
       "category": "财经,国际时政"
     },
     {
+      "raw_hot": 192600,
+      "num": 237156,
+      "word": "浙江卫视跨年阵容超强续航",
+      "onboard_time": 1734577097,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192382,
       "num": 192382,
       "word": "鞠婧祎发了嘉人live图",
@@ -6329,6 +6417,14 @@
       "onboard_time": 1734409220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188232,
+      "num": 237119,
+      "word": "崔宸曦生日王楚钦留言快乐小滑板",
+      "onboard_time": 1734575237,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 188193,
@@ -6771,6 +6867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178894,
+      "num": 178894,
+      "word": "蚂蚁集团称目前没有上市计划",
+      "onboard_time": 1734576078,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 178793,
       "num": 178793,
       "word": "时代少年团湖南卫视跨年官宣了",
@@ -6793,6 +6897,14 @@
       "onboard_time": 1734274460,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 178032,
+      "num": 178032,
+      "word": "Ning想去iG当战地记者",
+      "onboard_time": 1734575539,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 177089,
@@ -6899,6 +7011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175646,
+      "num": 175646,
+      "word": "美媒爆称马斯克因涉密问题被军方审查",
+      "onboard_time": 1734575897,
+      "rank": 34,
+      "category": "国际时政,民生新闻"
+    },
+    {
       "raw_hot": 175534,
       "num": 175534,
       "word": "郑钦文入围福布斯2024收入前五",
@@ -6921,14 +7041,6 @@
       "onboard_time": 1734512120,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175011,
-      "num": 269739,
-      "word": "诛仙世界",
-      "onboard_time": 1734333198,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 174790,
@@ -7651,6 +7763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161364,
+      "num": 161364,
+      "word": "极越高管回应员工万字怒怼CEO",
+      "onboard_time": 1734573859,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 161317,
       "num": 161317,
       "word": "大冻梨美式",
@@ -7929,6 +8049,14 @@
       "onboard_time": 1734501919,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157241,
+      "num": 157241,
+      "word": "美国股市巨震",
+      "onboard_time": 1734574399,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 157202,
@@ -8235,14 +8363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 151684,
-      "num": 151684,
-      "word": "余华英5000元卖儿子说是赚点营养费",
-      "onboard_time": 1734573797,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151663,
       "num": 217113,
       "word": "黑神话获Steam大奖3项提名",
@@ -8313,6 +8433,14 @@
       "onboard_time": 1734220216,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150394,
+      "num": 150394,
+      "word": "取消公摊坚定购房者信心",
+      "onboard_time": 1734576378,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150283,
@@ -8545,14 +8673,6 @@
       "onboard_time": 1734421099,
       "rank": 49,
       "category": "舆论监督,体育"
-    },
-    {
-      "raw_hot": 146424,
-      "num": 146424,
-      "word": "极越高管回应员工万字怒怼CEO",
-      "onboard_time": 1734573859,
-      "rank": 36,
-      "category": "汽车"
     },
     {
       "raw_hot": 146040,
@@ -10259,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117449,
+      "num": 117449,
+      "word": "乳腺增生最后会不会癌变",
+      "onboard_time": 1734576438,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117345,
       "num": 117345,
       "word": "终于还是抠抠搜搜地花了很多钱",
@@ -10331,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116108,
+      "num": 116108,
+      "word": "妈妈带娃体验流放宁古塔",
+      "onboard_time": 1734577038,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 116020,
       "num": 210327,
       "word": "韩剧拍摄手法和王子变青蛙一模一样",
@@ -10356,7 +10492,7 @@
     },
     {
       "raw_hot": 115770,
-      "num": 189552,
+      "num": 197327,
       "word": "电视剧我是刑警",
       "onboard_time": 1734570439,
       "rank": 27,
@@ -11113,6 +11249,14 @@
       "onboard_time": 1734301632,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102787,
+      "num": 102787,
+      "word": "董宇辉谈童年经历",
+      "onboard_time": 1734575897,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 102464,
@@ -13267,6 +13411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48676,
+      "num": 237104,
+      "word": "上百个寻亲家庭沿路为杨妞花加油",
+      "onboard_time": 1734575358,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48666,
       "num": 56105,
       "word": "四川西昌一学生坠楼排除刑事案件",
@@ -13401,6 +13553,14 @@
       "onboard_time": 1734433640,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46815,
+      "num": 267672,
+      "word": "余华英案件时间线",
+      "onboard_time": 1734575539,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46720,
@@ -13932,7 +14092,7 @@
     },
     {
       "raw_hot": 39005,
-      "num": 98366,
+      "num": 267664,
       "word": "被这些国货品牌的公益行动暖到了",
       "onboard_time": 1734573859,
       "rank": 47,
