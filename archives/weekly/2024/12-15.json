@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734577248788,
+  "endTime": 1734577799492,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2425195,
-      "num": 310963,
+      "num": 353166,
       "word": "冉莹颖儿子打生长激素25天情绪崩溃",
       "onboard_time": 1734575778,
       "rank": 11,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1522973,
-      "num": 349162,
+      "num": 351101,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 807193,
-      "num": 327285,
+      "num": 345566,
       "word": "一笑倾城聊天记录",
       "onboard_time": 1734566839,
       "rank": 12,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1734416838,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 743642,
+      "num": 348314,
+      "word": "李昀锐手指被审判",
+      "onboard_time": 1734576798,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 743408,
@@ -2076,7 +2084,7 @@
     },
     {
       "raw_hot": 545539,
-      "num": 306746,
+      "num": 343594,
       "word": "虞书欣 自己的丑自己揭",
       "onboard_time": 1734568280,
       "rank": 15,
@@ -2403,12 +2411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487876,
+      "num": 487876,
+      "word": "张家界文旅局发文致谢张艺兴",
+      "onboard_time": 1734575838,
+      "rank": 4,
+      "category": "艺人,旅游"
+    },
+    {
       "raw_hot": 487718,
       "num": 430959,
       "word": "孟子义对李昀锐撒娇要衣服",
       "onboard_time": 1734440360,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 486965,
+      "num": 486965,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 485238,
@@ -2433,14 +2457,6 @@
       "onboard_time": 1734442879,
       "rank": 37,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 480250,
-      "num": 480250,
-      "word": "张家界文旅局发文致谢张艺兴",
-      "onboard_time": 1734575838,
-      "rank": 4,
-      "category": "艺人,旅游"
     },
     {
       "raw_hot": 476936,
@@ -2537,14 +2553,6 @@
       "onboard_time": 1734493820,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 464937,
-      "num": 464937,
-      "word": "黄金重挫2%",
-      "onboard_time": 1734571278,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 464802,
@@ -3211,6 +3219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372259,
+      "num": 372259,
+      "word": "100平方米的房子得房率可能达100%",
+      "onboard_time": 1734575597,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370981,
       "num": 370981,
       "word": "成毅粉丝拒绝认领长安二十四计",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1734354981,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 356872,
+      "num": 357851,
+      "word": "余华英案件重审二审",
+      "onboard_time": 1734572538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356871,
@@ -3403,14 +3427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345620,
-      "num": 357851,
-      "word": "余华英案件重审二审",
-      "onboard_time": 1734572538,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345320,
       "num": 345320,
       "word": "北大教授因女儿痛经研发新药",
@@ -3441,6 +3457,14 @@
       "onboard_time": 1734367694,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343282,
+      "num": 343282,
+      "word": "网红收入超千万报税竟未达5000元",
+      "onboard_time": 1734576498,
+      "rank": 22,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 342876,
@@ -3531,20 +3555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 335182,
-      "num": 335182,
-      "word": "100平方米的房子得房率可能达100%",
-      "onboard_time": 1734575597,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332545,
       "num": 193705,
       "word": "穿袜子睡觉会减少夜醒次数",
       "onboard_time": 1734190579,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 331244,
+      "num": 356403,
+      "word": "两个国际张双向奔赴",
+      "onboard_time": 1734575838,
+      "rank": 10,
+      "category": "艺人,旅游"
     },
     {
       "raw_hot": 327944,
@@ -3633,14 +3657,6 @@
       "onboard_time": 1734511700,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 321989,
-      "num": 272365,
-      "word": "李昀锐手指被审判",
-      "onboard_time": 1734576798,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 321897,
@@ -3769,14 +3785,6 @@
       "onboard_time": 1734394339,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 315390,
-      "num": 315390,
-      "word": "两个国际张双向奔赴",
-      "onboard_time": 1734575838,
-      "rank": 10,
-      "category": "艺人,旅游"
     },
     {
       "raw_hot": 314383,
@@ -4219,6 +4227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273414,
+      "num": 273414,
+      "word": "90后男子跑大卡车6年买房买车",
+      "onboard_time": 1734575237,
+      "rank": 20,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 273291,
       "num": 273291,
       "word": "特朗普换新发型亮相",
@@ -4281,14 +4297,6 @@
       "onboard_time": 1734441978,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267663,
-      "num": 267663,
-      "word": "90后男子跑大卡车6年买房买车",
-      "onboard_time": 1734575237,
-      "rank": 20,
-      "category": "正能量"
     },
     {
       "raw_hot": 267536,
@@ -4473,6 +4481,14 @@
       "onboard_time": 1734228918,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251860,
+      "num": 251860,
+      "word": "美国股市巨震",
+      "onboard_time": 1734574399,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 251748,
@@ -4665,14 +4681,6 @@
       "onboard_time": 1734322880,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239838,
-      "num": 239838,
-      "word": "网红收入超千万报税竟未达5000元",
-      "onboard_time": 1734576498,
-      "rank": 22,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 239633,
@@ -6196,7 +6204,7 @@
     },
     {
       "raw_hot": 192600,
-      "num": 237156,
+      "num": 274069,
       "word": "浙江卫视跨年阵容超强续航",
       "onboard_time": 1734577097,
       "rank": 23,
@@ -6641,6 +6649,14 @@
       "onboard_time": 1734344720,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183151,
+      "num": 183151,
+      "word": "取消公摊坚定购房者信心",
+      "onboard_time": 1734576378,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182920,
@@ -7121,6 +7137,14 @@
       "onboard_time": 1734275959,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172966,
+      "num": 179859,
+      "word": "卡车司机对猫猫说来生做我女儿",
+      "onboard_time": 1734577279,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172947,
@@ -8051,14 +8075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157241,
-      "num": 157241,
-      "word": "美国股市巨震",
-      "onboard_time": 1734574399,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "王楚钦对战徐海东异常焦灼",
@@ -8433,14 +8449,6 @@
       "onboard_time": 1734220216,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150394,
-      "num": 150394,
-      "word": "取消公摊坚定购房者信心",
-      "onboard_time": 1734576378,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150283,
@@ -9499,6 +9507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 132795,
+      "num": 132795,
+      "word": "取消公摊对得房率有何影响",
+      "onboard_time": 1734577458,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132619,
       "num": 253014,
       "word": "原神 男模",
@@ -9643,6 +9659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130577,
+      "num": 130577,
+      "word": "乳腺增生最后会不会癌变",
+      "onboard_time": 1734576438,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130224,
       "num": 130224,
       "word": "小小的我",
@@ -9673,6 +9697,14 @@
       "onboard_time": 1734241098,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129397,
+      "num": 129397,
+      "word": "妈妈带娃体验流放宁古塔",
+      "onboard_time": 1734577038,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 129393,
@@ -9873,6 +9905,14 @@
       "onboard_time": 1734245180,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 127218,
+      "num": 177909,
+      "word": "陈都灵月鳞绮纪红衣披发路透",
+      "onboard_time": 1734577397,
+      "rank": 29,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 126710,
@@ -10379,14 +10419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117449,
-      "num": 117449,
-      "word": "乳腺增生最后会不会癌变",
-      "onboard_time": 1734576438,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 117345,
       "num": 117345,
       "word": "终于还是抠抠搜搜地花了很多钱",
@@ -10457,14 +10489,6 @@
       "onboard_time": 1734443000,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116108,
-      "num": 116108,
-      "word": "妈妈带娃体验流放宁古塔",
-      "onboard_time": 1734577038,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 116020,
@@ -11507,6 +11531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95303,
+      "num": 95303,
+      "word": "微博游戏大赏",
+      "onboard_time": 1734576560,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95034,
       "num": 302140,
       "word": "疑职工为领导买酒赊账卖家要账时死亡",
@@ -11617,6 +11649,14 @@
       "onboard_time": 1734499159,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92584,
+      "num": 92584,
+      "word": "益禾堂盗墓笔记联名",
+      "onboard_time": 1734577698,
+      "rank": 49,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 92188,

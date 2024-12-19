@@ -1,0 +1,410 @@
+{
+  "runTime": 1734577799492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793175,
+        "num": 1126908,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 682386,
+        "num": 682386,
+        "word": "余华英5000元卖儿子说是赚点营养费",
+        "onboard_time": 1734573797,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25027,
+        "num": 594427,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 581301,
+        "num": 581301,
+        "word": "谢芳逝世",
+        "onboard_time": 1734572237,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487876,
+        "num": 487876,
+        "word": "张家界文旅局发文致谢张艺兴",
+        "onboard_time": 1734575838,
+        "rank": 4,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 486965,
+        "num": 486965,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383227,
+        "num": 383227,
+        "word": "曾经打过的羽毛球正钻入你的羽绒服",
+        "onboard_time": 1734568880,
+        "rank": 6,
+        "category": "舆论监督,舆论监督"
+      },
+      {
+        "raw_hot": 372259,
+        "num": 372259,
+        "word": "100平方米的房子得房率可能达100%",
+        "onboard_time": 1734575597,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356872,
+        "num": 356872,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331244,
+        "num": 356403,
+        "word": "两个国际张双向奔赴",
+        "onboard_time": 1734575838,
+        "rank": 9,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 2344898,
+        "num": 353166,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 980264,
+        "num": 351101,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743642,
+        "num": 348314,
+        "word": "李昀锐手指被审判",
+        "onboard_time": 1734576798,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 475188,
+        "num": 345566,
+        "word": "一笑倾城聊天记录",
+        "onboard_time": 1734566839,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465721,
+        "num": 343594,
+        "word": "虞书欣 自己的丑自己揭",
+        "onboard_time": 1734568280,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343282,
+        "num": 343282,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 15,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 315679,
+        "num": 315679,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246058,
+        "num": 294013,
+        "word": "夏之光 剧透了",
+        "onboard_time": 1734571819,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200393,
+        "num": 275657,
+        "word": "跑男把母带翻冒烟了",
+        "onboard_time": 1734569359,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185878,
+        "num": 274069,
+        "word": "浙江卫视跨年阵容超强续航",
+        "onboard_time": 1734577097,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273414,
+        "num": 273414,
+        "word": "90后男子跑大卡车6年买房买车",
+        "onboard_time": 1734575237,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258684,
+        "num": 258684,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251860,
+        "num": 251860,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204813,
+        "num": 204813,
+        "word": "一千克羽毛球做5件羽绒服",
+        "onboard_time": 1734563715,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187935,
+        "num": 187935,
+        "word": "澳门市民说解放军在非常有安全感",
+        "onboard_time": 1734568939,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187540,
+        "num": 187540,
+        "word": "崔宸曦生日王楚钦留言快乐小滑板",
+        "onboard_time": 1734575237,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187007,
+        "num": 187007,
+        "word": "闪耀暖暖",
+        "onboard_time": 1734576438,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183151,
+        "num": 183151,
+        "word": "取消公摊坚定购房者信心",
+        "onboard_time": 1734576378,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172966,
+        "num": 179859,
+        "word": "卡车司机对猫猫说来生做我女儿",
+        "onboard_time": 1734577279,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127218,
+        "num": 177909,
+        "word": "陈都灵月鳞绮纪红衣披发路透",
+        "onboard_time": 1734577397,
+        "rank": 29,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 177573,
+        "num": 177573,
+        "word": "Ning想去iG当战地记者",
+        "onboard_time": 1734575539,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174595,
+        "num": 174595,
+        "word": "诛仙世界",
+        "onboard_time": 1734574277,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164884,
+        "num": 164884,
+        "word": "美媒爆称马斯克因涉密问题被军方审查",
+        "onboard_time": 1734575897,
+        "rank": 32,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 161963,
+        "num": 161963,
+        "word": "蚂蚁集团称目前没有上市计划",
+        "onboard_time": 1734576078,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159071,
+        "num": 159071,
+        "word": "苟仲文被逮捕",
+        "onboard_time": 1734575119,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156611,
+        "num": 156611,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 151809,
+        "num": 151809,
+        "word": "极越高管回应员工万字怒怼CEO",
+        "onboard_time": 1734573859,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132795,
+        "num": 132795,
+        "word": "取消公摊对得房率有何影响",
+        "onboard_time": 1734577458,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130577,
+        "num": 130577,
+        "word": "乳腺增生最后会不会癌变",
+        "onboard_time": 1734576438,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129397,
+        "num": 129397,
+        "word": "妈妈带娃体验流放宁古塔",
+        "onboard_time": 1734577038,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 19198,
+        "num": 126231,
+        "word": "被这些国货品牌的公益行动暖到了",
+        "onboard_time": 1734573859,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125936,
+        "num": 125936,
+        "word": "玄彬说儿子像孙艺珍",
+        "onboard_time": 1734569421,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115387,
+        "num": 115387,
+        "word": "伊朗男子街头戳刺女性被判死刑",
+        "onboard_time": 1734569959,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109131,
+        "num": 109131,
+        "word": "澳门回归祖国影像如今看依然感动",
+        "onboard_time": 1734573797,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108610,
+        "num": 108610,
+        "word": "他好像摸了一下魔方就复原了",
+        "onboard_time": 1734536539,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108542,
+        "num": 108542,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 45,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 98587,
+        "num": 98587,
+        "word": "电视剧我是刑警",
+        "onboard_time": 1734570439,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95561,
+        "num": 95561,
+        "word": "知情人回应虎牙女主播酷萱遇害案",
+        "onboard_time": 1734568518,
+        "rank": 47,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 95303,
+        "word": "微博游戏大赏",
+        "onboard_time": 1734576560,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92584,
+        "num": 92584,
+        "word": "益禾堂盗墓笔记联名",
+        "onboard_time": 1734577698,
+        "rank": 49,
+        "category": "美食,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在澳门会见贺一诚#"
+    }
+  }
+}
