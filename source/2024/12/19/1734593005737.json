@@ -1,0 +1,410 @@
+{
+  "runTime": 1734593005737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1081410,
+        "num": 1173025,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008204,
+        "num": 1008204,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39641,
+        "num": 790583,
+        "word": "120秒看璀璨澳门",
+        "onboard_time": 1734580579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652614,
+        "num": 652614,
+        "word": "张杰感谢丁禹兮",
+        "onboard_time": 1734589159,
+        "rank": 3,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 476149,
+        "num": 476149,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471852,
+        "num": 471852,
+        "word": "余华英不能再上诉",
+        "onboard_time": 1734590538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441065,
+        "num": 441065,
+        "word": "星光大赏",
+        "onboard_time": 1734589818,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421675,
+        "num": 421675,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419994,
+        "num": 419994,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 187314,
+        "num": 409259,
+        "word": "杨妞花说这次是最后一战",
+        "onboard_time": 1734591558,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407405,
+        "num": 407405,
+        "word": "考研",
+        "onboard_time": 1734589939,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 354493,
+        "num": 354493,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 333279,
+        "num": 333279,
+        "word": "张继科 多尼克",
+        "onboard_time": 1734592039,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324630,
+        "num": 324630,
+        "word": "留几手 我发明了一套软学",
+        "onboard_time": 1734590659,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287057,
+        "num": 287057,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 274173,
+        "num": 274173,
+        "word": "考研和不考研的都听爽了",
+        "onboard_time": 1734584121,
+        "rank": 15,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 207071,
+        "num": 243338,
+        "word": "李昀锐两个新商务同时预热",
+        "onboard_time": 1734589639,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204423,
+        "num": 240898,
+        "word": "麦琳给葛夕自信",
+        "onboard_time": 1734590538,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47267,
+        "num": 240195,
+        "word": "张艺兴新片全程手语",
+        "onboard_time": 1734591018,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240169,
+        "num": 240169,
+        "word": "男子给已婚同事发么么哒被辞退",
+        "onboard_time": 1734580878,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219479,
+        "num": 219479,
+        "word": "大学生恋爱四个月花费近60万",
+        "onboard_time": 1734577878,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207845,
+        "num": 207845,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204009,
+        "num": 204009,
+        "word": "樊振东球迷会发声明",
+        "onboard_time": 1734592517,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203031,
+        "num": 203031,
+        "word": "智界R7增程版价格",
+        "onboard_time": 1734592459,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198792,
+        "num": 198792,
+        "word": "苹果考虑将腾讯字节AI模型嵌入iPhone",
+        "onboard_time": 1734591858,
+        "rank": 24,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 198057,
+        "num": 198057,
+        "word": "全妈说全红婵现在是国家的女儿了",
+        "onboard_time": 1734592039,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195458,
+        "num": 195458,
+        "word": "向太笑称刘晓庆是傻白甜",
+        "onboard_time": 1734592219,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191586,
+        "num": 191586,
+        "word": "祝绪丹杨仕泽双人大片",
+        "onboard_time": 1734585979,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 167662,
+        "num": 167662,
+        "word": "孟子义说向往窦昭宋墨的爱情",
+        "onboard_time": 1734591619,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18286,
+        "num": 162093,
+        "word": "学生时代的那些尴尬瞬间",
+        "onboard_time": 1734592339,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157229,
+        "num": 157229,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150871,
+        "num": 150871,
+        "word": "全红婵加入崔宸曦王楚钦群聊",
+        "onboard_time": 1734586400,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147131,
+        "num": 147131,
+        "word": "何炅 我不但懂食物我更懂爱",
+        "onboard_time": 1734592459,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146835,
+        "num": 146835,
+        "word": "九重紫 狗来了都得挨一巴掌",
+        "onboard_time": 1734587780,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102498,
+        "num": 144379,
+        "word": "杨妞花说已不再期待余华英道歉",
+        "onboard_time": 1734592759,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142196,
+        "num": 142196,
+        "word": "赵丽颖或将出演电影丹心恋人",
+        "onboard_time": 1734587419,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134003,
+        "num": 134003,
+        "word": "澳门科技大学",
+        "onboard_time": 1734582140,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31292,
+        "num": 133927,
+        "word": "步步有数看亚洲龙的稳实力",
+        "onboard_time": 1734591919,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26913,
+        "num": 133845,
+        "word": "去度假农庄一起种地吧",
+        "onboard_time": 1734590598,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118924,
+        "num": 133644,
+        "word": "檀健次金世佳饭撒",
+        "onboard_time": 1734590898,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69612,
+        "num": 133561,
+        "word": "儿童肺炎到底CT不CT",
+        "onboard_time": 1734591257,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133474,
+        "num": 133474,
+        "word": "2024国产汽车销量成绩单",
+        "onboard_time": 1734590598,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124331,
+        "num": 124331,
+        "word": "余承东分享智界R7评审会议",
+        "onboard_time": 1734592219,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122927,
+        "num": 122927,
+        "word": "肖战黑西装长发",
+        "onboard_time": 1734581840,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 122668,
+        "num": 122668,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122004,
+        "num": 122004,
+        "word": "网剧冬至",
+        "onboard_time": 1734587960,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119954,
+        "num": 119954,
+        "word": "取消公摊购房成本会降吗",
+        "onboard_time": 1734584781,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 118494,
+        "num": 118494,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 114669,
+        "word": "孟子义李昀锐翻身吻花絮",
+        "onboard_time": 1734592820,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112081,
+        "num": 112081,
+        "word": "名侦探的假期",
+        "onboard_time": 1734591378,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

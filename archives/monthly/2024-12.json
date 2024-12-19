@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734590770777,
+  "endTime": 1734593005737,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 1522973,
-      "num": 425750,
+      "num": 476149,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
@@ -3224,6 +3224,14 @@
       "word": "多地医护和公职人员被指参与代孕",
       "onboard_time": 1734078017,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1081410,
+      "num": 1173025,
+      "word": "金饰价格一夜降16元每克",
+      "onboard_time": 1734589639,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -7435,6 +7443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 652614,
+      "num": 652614,
+      "word": "张杰感谢丁禹兮",
+      "onboard_time": 1734589159,
+      "rank": 5,
+      "category": "电影,演出"
+    },
+    {
       "raw_hot": 652490,
       "num": 652490,
       "word": "谢芳逝世",
@@ -8681,14 +8697,6 @@
       "onboard_time": 1733816540,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 583119,
-      "num": 583119,
-      "word": "张杰感谢丁禹兮",
-      "onboard_time": 1734589159,
-      "rank": 5,
-      "category": "电影,演出"
     },
     {
       "raw_hot": 582375,
@@ -11363,6 +11371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471852,
+      "num": 471852,
+      "word": "余华英不能再上诉",
+      "onboard_time": 1734590538,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471699,
       "num": 471699,
       "word": "孟子义演技",
@@ -12320,6 +12336,14 @@
       "word": "浙江跨晚导演组 办公室录音",
       "onboard_time": 1733804479,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 441065,
+      "num": 441065,
+      "word": "星光大赏",
+      "onboard_time": 1734589818,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -13473,6 +13497,14 @@
       "onboard_time": 1734235099,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 407405,
+      "num": 407405,
+      "word": "考研",
+      "onboard_time": 1734589939,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 407053,
@@ -16195,6 +16227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333279,
+      "num": 333279,
+      "word": "张继科 多尼克",
+      "onboard_time": 1734592039,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333270,
       "num": 564080,
       "word": "阿萨德离开叙利亚",
@@ -16673,6 +16713,14 @@
       "onboard_time": 1733528655,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324630,
+      "num": 324630,
+      "word": "留几手 我发明了一套软学",
+      "onboard_time": 1734590659,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 324324,
@@ -18945,14 +18993,6 @@
       "onboard_time": 1733921718,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278821,
-      "num": 413249,
-      "word": "星光大赏",
-      "onboard_time": 1734589818,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 278649,
@@ -22900,7 +22940,7 @@
     },
     {
       "raw_hot": 225956,
-      "num": 224642,
+      "num": 240898,
       "word": "麦琳给葛夕自信",
       "onboard_time": 1734590538,
       "rank": 17,
@@ -25563,6 +25603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204009,
+      "num": 204009,
+      "word": "樊振东球迷会发声明",
+      "onboard_time": 1734592517,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204007,
       "num": 647473,
       "word": "韩国最大工会将进行无限期罢工",
@@ -25817,6 +25865,14 @@
       "onboard_time": 1733137819,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203031,
+      "num": 203031,
+      "word": "智界R7增程版价格",
+      "onboard_time": 1734592459,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 203016,
@@ -26531,14 +26587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199407,
-      "num": 219420,
-      "word": "余华英不能再上诉",
-      "onboard_time": 1734590538,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 199160,
       "num": 199160,
       "word": "小小的我直播",
@@ -26625,6 +26673,14 @@
       "onboard_time": 1733714238,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198792,
+      "num": 198792,
+      "word": "苹果考虑将腾讯字节AI模型嵌入iPhone",
+      "onboard_time": 1734591858,
+      "rank": 24,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 198723,
@@ -26723,14 +26779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198354,
-      "num": 198354,
-      "word": "考研",
-      "onboard_time": 1734589939,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 198271,
       "num": 198271,
       "word": "周克华",
@@ -26801,6 +26849,14 @@
       "onboard_time": 1733356097,
       "rank": 22,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 198057,
+      "num": 198057,
+      "word": "全妈说全红婵现在是国家的女儿了",
+      "onboard_time": 1734592039,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 198041,
@@ -27497,6 +27553,14 @@
       "onboard_time": 1734517038,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195458,
+      "num": 195458,
+      "word": "向太笑称刘晓庆是傻白甜",
+      "onboard_time": 1734592219,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195451,
@@ -29475,6 +29539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187314,
+      "num": 409259,
+      "word": "杨妞花说这次是最后一战",
+      "onboard_time": 1734591558,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187286,
       "num": 187286,
       "word": "男明星尖叫之夜出图",
@@ -29609,14 +29681,6 @@
       "onboard_time": 1733463141,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186621,
-      "num": 186621,
-      "word": "留几手 我发明了一套软学",
-      "onboard_time": 1734590659,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 186607,
@@ -33304,6 +33368,14 @@
       "word": "孟子义 我这个人好像有点晚熟",
       "onboard_time": 1734501619,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167662,
+      "num": 167662,
+      "word": "孟子义说向往窦昭宋墨的爱情",
+      "onboard_time": 1734591619,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -38203,6 +38275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147131,
+      "num": 147131,
+      "word": "何炅 我不但懂食物我更懂爱",
+      "onboard_time": 1734592459,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146939,
       "num": 146939,
       "word": "昭墨小情侣壁咚 前夫哥又唱又跳",
@@ -40331,14 +40411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137936,
-      "num": 394261,
-      "word": "金饰价格一夜降16元每克",
-      "onboard_time": 1734589639,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137929,
       "num": 137929,
       "word": "金发MINA",
@@ -41401,6 +41473,14 @@
       "onboard_time": 1733373501,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133474,
+      "num": 224181,
+      "word": "2024国产汽车销量成绩单",
+      "onboard_time": 1734590598,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 133471,
@@ -43251,6 +43331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 124331,
+      "num": 124331,
+      "word": "余承东分享智界R7评审会议",
+      "onboard_time": 1734592219,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 124307,
       "num": 124307,
       "word": "王楚钦孙颖莎赢下首局",
@@ -43585,6 +43673,14 @@
       "onboard_time": 1734435859,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122668,
+      "num": 122668,
+      "word": "吴奇隆微博两人互动还停留在19年",
+      "onboard_time": 1734590837,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122633,
@@ -44395,6 +44491,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 118924,
+      "num": 133644,
+      "word": "檀健次金世佳饭撒",
+      "onboard_time": 1734590898,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118909,
       "num": 118909,
       "word": "许昕晒结婚8周年照片",
@@ -45203,6 +45307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 114669,
+      "num": 114669,
+      "word": "孟子义李昀锐翻身吻花絮",
+      "onboard_time": 1734592820,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114656,
       "num": 302272,
       "word": "吴晙诚说对阵王楚钦目标是能得分",
@@ -45680,6 +45792,14 @@
       "word": "腾讯视频星光大赏",
       "onboard_time": 1734348920,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112081,
+      "num": 112081,
+      "word": "名侦探的假期",
+      "onboard_time": 1734591378,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -47385,6 +47505,14 @@
       "onboard_time": 1734582199,
       "rank": 17,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 102498,
+      "num": 144379,
+      "word": "杨妞花说已不再期待余华英道歉",
+      "onboard_time": 1734592759,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102464,
@@ -52467,6 +52595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69612,
+      "num": 133561,
+      "word": "儿童肺炎到底CT不CT",
+      "onboard_time": 1734591257,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69608,
       "num": 363116,
       "word": "诛仙世界人太多挤爆了",
@@ -54156,7 +54292,7 @@
     },
     {
       "raw_hot": 59600,
-      "num": 639879,
+      "num": 790583,
       "word": "120秒看璀璨澳门",
       "onboard_time": 1734580579,
       "rank": 2,
@@ -56665,6 +56801,14 @@
       "onboard_time": 1733935936,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47267,
+      "num": 240195,
+      "word": "张艺兴新片全程手语",
+      "onboard_time": 1734591018,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 47177,
@@ -60875,6 +61019,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 31292,
+      "num": 133927,
+      "word": "步步有数看亚洲龙的稳实力",
+      "onboard_time": 1734591919,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31286,
       "num": 229160,
       "word": "何小鹏称X9是唯一开着不像司机的MPV",
@@ -61129,14 +61281,6 @@
       "onboard_time": 1734186800,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30556,
-      "num": 224181,
-      "word": "2024国产汽车销量成绩单",
-      "onboard_time": 1734590598,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 30513,
@@ -61928,6 +62072,14 @@
       "word": "丁禹兮首演警察",
       "onboard_time": 1733337852,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26913,
+      "num": 137759,
+      "word": "去度假农庄一起种地吧",
+      "onboard_time": 1734590598,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -63123,14 +63275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22147,
-      "num": 137759,
-      "word": "去度假农庄一起种地吧",
-      "onboard_time": 1734590598,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22135,
       "num": 253952,
       "word": "看再见爱人隔空确诊NPD",
@@ -64145,6 +64289,14 @@
       "onboard_time": 1734258198,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 18286,
+      "num": 162093,
+      "word": "学生时代的那些尴尬瞬间",
+      "onboard_time": 1734592339,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 18271,
