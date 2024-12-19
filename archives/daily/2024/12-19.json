@@ -1,10 +1,10 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734572897423,
+  "endTime": 1734574215268,
   "band_list": [
     {
       "raw_hot": 1522973,
-      "num": 233152,
+      "num": 349162,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1734568880,
       "rank": 3,
       "category": "舆论监督,舆论监督"
+    },
+    {
+      "raw_hot": 966555,
+      "num": 347391,
+      "word": "27岁男子因经济纠纷杀害虎牙女主播",
+      "onboard_time": 1734572118,
+      "rank": 30,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 950429,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 864109,
-      "num": 232698,
+      "num": 335655,
       "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
       "onboard_time": 1734563655,
       "rank": 36,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 807193,
-      "num": 230647,
+      "num": 327285,
       "word": "一笑倾城聊天记录",
       "onboard_time": 1734566839,
       "rank": 12,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 680936,
-      "num": 228707,
+      "num": 313610,
       "word": "男子帮母亲虐待饿死弟弟获刑100年",
       "onboard_time": 1734569539,
       "rank": 13,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 545539,
-      "num": 225814,
+      "num": 306746,
       "word": "虞书欣 自己的丑自己揭",
       "onboard_time": 1734568280,
       "rank": 15,
@@ -99,16 +107,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 424072,
-      "num": 170038,
-      "word": "27岁男子因经济纠纷杀害虎牙女主播",
-      "onboard_time": 1734572118,
-      "rank": 30,
-      "category": "民生新闻,网红"
+      "raw_hot": 449810,
+      "num": 449810,
+      "word": "谢芳逝世",
+      "onboard_time": 1734572237,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 411756,
-      "num": 225141,
+      "num": 280042,
       "word": "知情人回应虎牙女主播酷萱遇害案",
       "onboard_time": 1734568518,
       "rank": 16,
@@ -123,8 +131,8 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 374373,
-      "num": 374373,
+      "raw_hot": 391734,
+      "num": 391734,
       "word": "一千克羽毛球做5件羽绒服",
       "onboard_time": 1734563715,
       "rank": 24,
@@ -139,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363431,
+      "num": 363431,
+      "word": "夏之光 剧透了",
+      "onboard_time": 1734571819,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353101,
       "num": 353101,
       "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 343047,
-      "num": 219489,
+      "num": 222682,
       "word": "朋友圈点赞率不足10%",
       "onboard_time": 1734533842,
       "rank": 21,
@@ -163,12 +179,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 304474,
+      "num": 304474,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 288494,
       "num": 185557,
       "word": "丁禹兮cp研究报告",
       "onboard_time": 1734535940,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286662,
+      "num": 357851,
+      "word": "余华英案件重审二审",
+      "onboard_time": 1734572538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284379,
@@ -193,14 +225,6 @@
       "onboard_time": 1734520398,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253137,
-      "num": 253137,
-      "word": "夏之光 剧透了",
-      "onboard_time": 1734571819,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 242949,
@@ -235,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216589,
+      "num": 216589,
+      "word": "专家称取消公摊是明年重要工作",
+      "onboard_time": 1734532281,
+      "rank": 16,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 216327,
       "num": 216327,
       "word": "鹿晗苹果头",
@@ -243,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208155,
-      "num": 208155,
-      "word": "黄金重挫2%",
-      "onboard_time": 1734571278,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 209821,
+      "num": 209821,
+      "word": "澳门回归祖国影像如今看依然感动",
+      "onboard_time": 1734573797,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202036,
@@ -264,6 +296,14 @@
       "word": "网红厦门小程三年申报收入仅数万",
       "onboard_time": 1734538578,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "余华英案今天重审二审开庭",
+      "onboard_time": 1734573139,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -291,12 +331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183534,
-      "num": 183534,
-      "word": "专家称取消公摊是明年重要工作",
-      "onboard_time": 1734532281,
-      "rank": 16,
-      "category": "民生新闻,财经"
+      "raw_hot": 182721,
+      "num": 182721,
+      "word": "伊朗男子街头戳刺女性被判死刑",
+      "onboard_time": 1734569959,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166526,
@@ -323,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159737,
-      "num": 159737,
-      "word": "伊朗男子街头戳刺女性被判死刑",
-      "onboard_time": 1734569959,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155222,
       "num": 155222,
       "word": "女司机报警寻找被撞的人",
@@ -347,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151684,
+      "num": 151684,
+      "word": "余华英5000元卖儿子说是赚点营养费",
+      "onboard_time": 1734573797,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148927,
       "num": 188835,
       "word": "谢可寅演技",
@@ -355,19 +395,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146424,
+      "num": 146424,
+      "word": "极越高管回应员工万字怒怼CEO",
+      "onboard_time": 1734573859,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 142904,
+      "num": 319813,
+      "word": "余华英被押解到法院",
+      "onboard_time": 1734572597,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141386,
       "num": 141386,
       "word": "余华英第六次出庭受审",
       "onboard_time": 1734571697,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136486,
-      "num": 227680,
-      "word": "余华英被押解到法院",
-      "onboard_time": 1734572597,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -419,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118909,
+      "num": 189707,
+      "word": "窦骁再演民国戏",
+      "onboard_time": 1734573318,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118180,
       "num": 154271,
       "word": "官方回应上海下雪了",
@@ -435,20 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115998,
-      "num": 234436,
-      "word": "余华英案件重审二审",
-      "onboard_time": 1734572538,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114570,
-      "num": 219560,
-      "word": "谢芳逝世",
-      "onboard_time": 1734572237,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 115770,
+      "num": 189552,
+      "word": "电视剧我是刑警",
+      "onboard_time": 1734570439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 113904,
@@ -491,12 +539,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108955,
-      "num": 176967,
-      "word": "电视剧我是刑警",
-      "onboard_time": 1734570439,
-      "rank": 27,
+      "raw_hot": 108500,
+      "num": 115348,
+      "word": "李施嬅 新闻女王到公关女王",
+      "onboard_time": 1734571339,
+      "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107335,
+      "num": 171234,
+      "word": "刘亦菲ins更新嘉人大片",
+      "onboard_time": 1734569719,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107182,
+      "num": 107182,
+      "word": "丰县县委原书记娄海获刑12年",
+      "onboard_time": 1734573078,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105968,
+      "num": 105968,
+      "word": "他将五星红旗升上港澳的天空",
+      "onboard_time": 1734573978,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 105713,
@@ -529,14 +601,6 @@
       "onboard_time": 1734565037,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104268,
-      "num": 171234,
-      "word": "刘亦菲ins更新嘉人大片",
-      "onboard_time": 1734569719,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103705,
@@ -579,20 +643,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 98024,
+      "num": 98024,
+      "word": "妈妈抱娃绊倒瞬间垫在孩子身下",
+      "onboard_time": 1734571219,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95579,
       "num": 95579,
       "word": "94岁西单商场宣布停业",
       "onboard_time": 1734527540,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93585,
-      "num": 94072,
-      "word": "李施嬅 新闻女王到公关女王",
-      "onboard_time": 1734571339,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 86214,
@@ -795,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39005,
+      "num": 98366,
+      "word": "被这些国货品牌的公益行动暖到了",
+      "onboard_time": 1734573859,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33960,
       "num": 54170,
       "word": "李昀锐鲜衣怒马少年郎",
@@ -841,6 +913,14 @@
       "onboard_time": 1734550571,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 29766,
+      "num": 201694,
+      "word": "梅西纪念世界杯夺冠两周年",
+      "onboard_time": 1734573859,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 23549,
@@ -897,6 +977,14 @@
       "onboard_time": 1734559752,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19713,
+      "num": 226933,
+      "word": "斯琴高娃说因为拍戏落下毛病",
+      "onboard_time": 1734572118,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19404,
