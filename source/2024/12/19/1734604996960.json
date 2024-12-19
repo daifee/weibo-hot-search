@@ -1,0 +1,410 @@
+{
+  "runTime": 1734604996960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 378575,
+        "num": 1060572,
+        "word": "赣州公园恶犬伤人2人被采取强制措施",
+        "onboard_time": 1734599720,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 274826,
+        "num": 274826,
+        "word": "广州新机场要来了",
+        "onboard_time": 1734597438,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6054,
+        "num": 270731,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1320466,
+        "num": 263327,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724477,
+        "num": 262041,
+        "word": "江西赣州警方通报母女被恶犬咬伤",
+        "onboard_time": 1734598398,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 689147,
+        "num": 252534,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 249594,
+        "word": "九重紫",
+        "onboard_time": 1734602538,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465791,
+        "num": 248292,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 6953,
+        "num": 245482,
+        "word": "网信部门通报侵害未成年人权益案例",
+        "onboard_time": 1734604938,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 145911,
+        "num": 238758,
+        "word": "乳腺治疗室旁更衣室发现针孔摄像头",
+        "onboard_time": 1734601398,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27311,
+        "num": 237506,
+        "word": "鸿蒙智行与四界的故事",
+        "onboard_time": 1734601278,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 721751,
+        "num": 232041,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231289,
+        "num": 231289,
+        "word": "网剧冬至",
+        "onboard_time": 1734587960,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256215,
+        "num": 228292,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202955,
+        "num": 202955,
+        "word": "文俊辉吸引超2000万海外粉丝聚焦深圳",
+        "onboard_time": 1734601339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200592,
+        "num": 200592,
+        "word": "惠英红刘诗诗宋佳 懂事制片快准备",
+        "onboard_time": 1734604219,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69635,
+        "num": 200221,
+        "word": "留几手早期征婚启事",
+        "onboard_time": 1734596119,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 35525,
+        "num": 198225,
+        "word": "波司登在尔滨办起了大秀",
+        "onboard_time": 1734602598,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31337,
+        "num": 197584,
+        "word": "改编不是乱编的含金量还在上升",
+        "onboard_time": 1734603858,
+        "rank": 18,
+        "category": "议题讨论,剧集"
+      },
+      {
+        "raw_hot": 15444,
+        "num": 196041,
+        "word": "网络购药越来越方便",
+        "onboard_time": 1734604278,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7512,
+        "num": 194586,
+        "word": "假如九重紫弹幕有声音",
+        "onboard_time": 1734604458,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614675,
+        "num": 193173,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 600998,
+        "num": 192249,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25622,
+        "num": 190309,
+        "word": "华为尊界尊在哪里",
+        "onboard_time": 1734599119,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53272,
+        "num": 188445,
+        "word": "腾讯航海王上线送100抽",
+        "onboard_time": 1734604398,
+        "rank": 24,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 230583,
+        "num": 187128,
+        "word": "孟子义媚眼如丝",
+        "onboard_time": 1734601938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153145,
+        "num": 186489,
+        "word": "人工耳蜗国家集采",
+        "onboard_time": 1734596598,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27791,
+        "num": 184849,
+        "word": "尊界将引领中国汽车由大变强",
+        "onboard_time": 1734602598,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 9086,
+        "num": 184239,
+        "word": "火烈鸟是如何挠背的",
+        "onboard_time": 1734604938,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23945,
+        "num": 182524,
+        "word": "曝北约已接管援乌协调工作",
+        "onboard_time": 1734604758,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505936,
+        "num": 180288,
+        "word": "看完文淇微博要喝中药了",
+        "onboard_time": 1734601458,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469662,
+        "num": 179398,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366283,
+        "num": 177972,
+        "word": "公厕用凹凸分辨男女",
+        "onboard_time": 1734604098,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245788,
+        "num": 176386,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176134,
+        "num": 176134,
+        "word": "杨仕泽为什么插祝绪丹的兜",
+        "onboard_time": 1734593478,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 27945,
+        "num": 174694,
+        "word": "智界R7增程版续航超1500公里",
+        "onboard_time": 1734604638,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174517,
+        "num": 174517,
+        "word": "果然在滑雪场看到什么都不稀奇",
+        "onboard_time": 1734602837,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157599,
+        "num": 157599,
+        "word": "张杰感谢丁禹兮",
+        "onboard_time": 1734589159,
+        "rank": 37,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 150234,
+        "num": 150234,
+        "word": "盛李豪入队一年后没有9环",
+        "onboard_time": 1734601818,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149475,
+        "num": 149475,
+        "word": "惠英红 给每一个美女一个名分",
+        "onboard_time": 1734598339,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138356,
+        "num": 138356,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734603079,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129384,
+        "num": 129384,
+        "word": "全红婵东奥夺冠后才知妈妈生什么病",
+        "onboard_time": 1734594438,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119132,
+        "num": 119132,
+        "word": "虞书欣新歌练习室舞蹈直拍",
+        "onboard_time": 1734604578,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115268,
+        "num": 115268,
+        "word": "KBS预录",
+        "onboard_time": 1734603438,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113500,
+        "num": 113500,
+        "word": "就业率不如本科生读博还值吗",
+        "onboard_time": 1734604219,
+        "rank": 44,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 233690,
+        "num": 113494,
+        "word": "李昀锐亲完开心的跷脚",
+        "onboard_time": 1734596598,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53308,
+        "num": 113484,
+        "word": "为什么晚高峰地铁上容易起冲突",
+        "onboard_time": 1734603797,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 113483,
+        "num": 113483,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111314,
+        "num": 111314,
+        "word": "黄景瑜孙千晒海报",
+        "onboard_time": 1734604879,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 49,
+        "category": "网红,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平考察横琴粤澳深度合作区#"
+    }
+  }
+}
