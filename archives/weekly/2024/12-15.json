@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734633799624,
+  "endTime": 1734635910834,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -18331,6 +18331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19754,
+      "num": 59524,
+      "word": "中国代表当场驳斥美方歪曲抹黑",
+      "onboard_time": 1734634452,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19713,
       "num": 226933,
       "word": "斯琴高娃说因为拍戏落下毛病",
@@ -18603,6 +18611,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 16634,
+      "num": 16930,
+      "word": "普京召开年度记者会",
+      "onboard_time": 1734634813,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16330,
       "num": 245814,
       "word": "防哮喘首先要脱敏",
@@ -18657,6 +18673,14 @@
       "onboard_time": 1734522679,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15773,
+      "num": 80361,
+      "word": "杨妞花发视频希望天下无拐",
+      "onboard_time": 1734633132,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15716,
@@ -19113,14 +19137,6 @@
       "onboard_time": 1734419419,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 10988,
-      "num": 80361,
-      "word": "杨妞花发视频希望天下无拐",
-      "onboard_time": 1734633132,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10955,
