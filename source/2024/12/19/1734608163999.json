@@ -1,0 +1,410 @@
+{
+  "runTime": 1734608163999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 485384,
+        "num": 1077661,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344314,
+        "num": 344314,
+        "word": "猎罪2萝莉姐整容爆改年龄",
+        "onboard_time": 1734606799,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6049,
+        "num": 338857,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 829451,
+        "num": 331592,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471287,
+        "num": 320343,
+        "word": "公厕用凹凸分辨男女",
+        "onboard_time": 1734604098,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435256,
+        "num": 307531,
+        "word": "赣州公园恶犬伤人2人被采取强制措施",
+        "onboard_time": 1734599720,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 305550,
+        "num": 305550,
+        "word": "GOT7合照",
+        "onboard_time": 1734605359,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214666,
+        "num": 304764,
+        "word": "乳腺治疗室旁更衣室发现针孔摄像头",
+        "onboard_time": 1734601398,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213292,
+        "num": 302096,
+        "word": "谢娜长文谈救场酱园弄",
+        "onboard_time": 1734605899,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191480,
+        "num": 301207,
+        "word": "一箭四星再次在日照海域顺利升空",
+        "onboard_time": 1734607038,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1201044,
+        "num": 298512,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69707,
+        "num": 296157,
+        "word": "考研倒计时两天如何复习",
+        "onboard_time": 1734606199,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22526,
+        "num": 293270,
+        "word": "一人一句祝福考研人",
+        "onboard_time": 1734606138,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49985,
+        "num": 292910,
+        "word": "人民网评网红程虎偷税漏税该凉凉",
+        "onboard_time": 1734606498,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 31409,
+        "num": 290070,
+        "word": "越升级越难用的护肤品",
+        "onboard_time": 1734606019,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 472759,
+        "num": 288520,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410927,
+        "num": 285440,
+        "word": "江西赣州警方通报母女被恶犬咬伤",
+        "onboard_time": 1734598398,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 96476,
+        "num": 284426,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193323,
+        "num": 281407,
+        "word": "鞠婧祎时装男士月鳞绮纪",
+        "onboard_time": 1734607459,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306735,
+        "num": 278890,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1299349,
+        "num": 278076,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189135,
+        "num": 275159,
+        "word": "广州新机场要来了",
+        "onboard_time": 1734597438,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604999,
+        "num": 272545,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272454,
+        "num": 272454,
+        "word": "余华英不服判决要申请援助律师",
+        "onboard_time": 1734607219,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82127,
+        "num": 272068,
+        "word": "郭艾伦丁彦雨航单挑",
+        "onboard_time": 1734606079,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84727,
+        "num": 270753,
+        "word": "2024年度汽车发展回顾与展望",
+        "onboard_time": 1734607038,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203363,
+        "num": 270358,
+        "word": "丁禹兮李昀锐王星越今年惊艳面孔",
+        "onboard_time": 1734607577,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34481,
+        "num": 269322,
+        "word": "享界S9传统豪华轿车破局者",
+        "onboard_time": 1734606978,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154478,
+        "num": 268564,
+        "word": "孟子义媚眼如丝",
+        "onboard_time": 1734601938,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24346,
+        "num": 267453,
+        "word": "智界R7增程版续航超1500公里",
+        "onboard_time": 1734604638,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 42384,
+        "num": 266159,
+        "word": "退休校长17年养大348个孩子",
+        "onboard_time": 1734606258,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 266042,
+        "num": 266042,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265002,
+        "num": 265002,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239739,
+        "num": 239739,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219394,
+        "num": 219394,
+        "word": "看完文淇微博要喝中药了",
+        "onboard_time": 1734601458,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123898,
+        "num": 216122,
+        "word": "文俊辉吸引超2000万海外粉丝聚焦深圳",
+        "onboard_time": 1734601339,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214629,
+        "num": 214629,
+        "word": "跳社会摇10天瘦9斤",
+        "onboard_time": 1734606019,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 207231,
+        "num": 207231,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180034,
+        "num": 180034,
+        "word": "就业率不如本科生读博还值吗",
+        "onboard_time": 1734604219,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 157904,
+        "num": 157904,
+        "word": "台湾是中国的台湾不容任何外部干涉",
+        "onboard_time": 1734607698,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117976,
+        "num": 117976,
+        "word": "麦琳黄圣依给葛夕擦泪",
+        "onboard_time": 1734607219,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115986,
+        "num": 115986,
+        "word": "网剧冬至定档",
+        "onboard_time": 1734606019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111190,
+        "num": 111190,
+        "word": "惠英红刘诗诗宋佳 懂事制片快准备",
+        "onboard_time": 1734604219,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104048,
+        "num": 104048,
+        "word": "eStar战胜天鹿",
+        "onboard_time": 1734607999,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98638,
+        "num": 98638,
+        "word": "杨仕泽为什么插祝绪丹的兜",
+        "onboard_time": 1734593478,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 74978,
+        "num": 97493,
+        "word": "北大阎步克老师的最后一堂课",
+        "onboard_time": 1734606678,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30136,
+        "num": 97130,
+        "word": "人工耳蜗集采降至单套5万元左右",
+        "onboard_time": 1734606738,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97111,
+        "num": 97111,
+        "word": "林孝埈说初心让我一直坚持",
+        "onboard_time": 1734608118,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96973,
+        "num": 96973,
+        "word": "姜潮麦迪娜新年全家福",
+        "onboard_time": 1734607518,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93612,
+        "num": 93612,
+        "word": "电影小小的我特别的纪录片",
+        "onboard_time": 1734608118,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平考察横琴粤澳深度合作区#"
+    }
+  }
+}

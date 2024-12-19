@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734607199944,
+  "endTime": 1734608163999,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1201044,
+      "num": 335373,
+      "word": "向太 内涵",
+      "onboard_time": 1734603797,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1194832,
       "num": 439356,
       "word": "李昀锐手指被审判",
@@ -537,14 +545,6 @@
       "onboard_time": 1734278059,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1179917,
-      "num": 335373,
-      "word": "向太 内涵",
-      "onboard_time": 1734603797,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 1163025,
@@ -2819,6 +2819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 471287,
+      "num": 352859,
+      "word": "公厕用凹凸分辨男女",
+      "onboard_time": 1734604098,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470489,
       "num": 530882,
       "word": "取消设立电视剧制作单位审批",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1734490879,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432267,
-      "num": 352859,
-      "word": "公厕用凹凸分辨男女",
-      "onboard_time": 1734604098,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 431992,
@@ -3843,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344314,
+      "num": 344314,
+      "word": "猎罪2萝莉姐整容爆改年龄",
+      "onboard_time": 1734606799,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344121,
       "num": 344121,
       "word": "成毅官宣出演长安二十四计",
@@ -4275,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305550,
+      "num": 349562,
+      "word": "GOT7合照",
+      "onboard_time": 1734605359,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 305450,
       "num": 305450,
       "word": "马龙2比1胜奥恰洛夫",
@@ -4699,6 +4715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272454,
+      "num": 272454,
+      "word": "余华英不服判决要申请援助律师",
+      "onboard_time": 1734607219,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272384,
       "num": 391649,
       "word": "卖课直播用1.9元勾引人花8800元",
@@ -4809,14 +4833,6 @@
       "onboard_time": 1734231377,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262622,
-      "num": 349562,
-      "word": "GOT7合照",
-      "onboard_time": 1734605359,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 262543,
@@ -5195,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239739,
+      "num": 239739,
+      "word": "女子报假警破门抓出轨男友",
+      "onboard_time": 1734605838,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239633,
       "num": 239633,
       "word": "B太称随行的人也拉肚子了",
@@ -5353,14 +5377,6 @@
       "onboard_time": 1734586400,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230304,
-      "num": 230304,
-      "word": "女子报假警破门抓出轨男友",
-      "onboard_time": 1734605838,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230112,
@@ -5777,6 +5793,22 @@
       "onboard_time": 1734254659,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214666,
+      "num": 351201,
+      "word": "乳腺治疗室旁更衣室发现针孔摄像头",
+      "onboard_time": 1734601398,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 214629,
+      "num": 214629,
+      "word": "跳社会摇10天瘦9斤",
+      "onboard_time": 1734606019,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 214535,
@@ -6233,6 +6265,14 @@
       "onboard_time": 1734228558,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203363,
+      "num": 270358,
+      "word": "丁禹兮李昀锐王星越今年惊艳面孔",
+      "onboard_time": 1734607577,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 203275,
@@ -6899,6 +6939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193323,
+      "num": 281407,
+      "word": "鞠婧祎时装男士月鳞绮纪",
+      "onboard_time": 1734607459,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193119,
       "num": 193119,
       "word": "猎罪图鉴2里有闺蜜脑",
@@ -7017,6 +7065,14 @@
       "onboard_time": 1734517879,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191480,
+      "num": 301207,
+      "word": "一箭四星再次在日照海域顺利升空",
+      "onboard_time": 1734607038,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 191434,
@@ -7315,14 +7371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186407,
-      "num": 186407,
-      "word": "跳社会摇10天瘦9斤",
-      "onboard_time": 1734606019,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186124,
       "num": 186124,
       "word": "被抱养女子靠姐夫扛钢筋接济上大学",
@@ -7603,6 +7651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180034,
+      "num": 180034,
+      "word": "就业率不如本科生读博还值吗",
+      "onboard_time": 1734604219,
+      "rank": 44,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 179971,
       "num": 179971,
       "word": "未定事件簿",
@@ -7737,14 +7793,6 @@
       "onboard_time": 1734596059,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 177423,
-      "num": 177423,
-      "word": "就业率不如本科生读博还值吗",
-      "onboard_time": 1734604219,
-      "rank": 44,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 177089,
@@ -8153,14 +8201,6 @@
       "onboard_time": 1734493459,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170198,
-      "num": 351201,
-      "word": "乳腺治疗室旁更衣室发现针孔摄像头",
-      "onboard_time": 1734601398,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 170166,
@@ -8691,14 +8731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162135,
-      "num": 162135,
-      "word": "一箭四星再次在日照海域顺利升空",
-      "onboard_time": 1734607038,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 161736,
       "num": 161736,
       "word": "南方姑娘在雪乡玩泼水成冰被烫伤",
@@ -8969,6 +9001,14 @@
       "onboard_time": 1734601818,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157904,
+      "num": 157904,
+      "word": "台湾是中国的台湾不容任何外部干涉",
+      "onboard_time": 1734607698,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157895,
@@ -11571,6 +11611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117976,
+      "num": 117976,
+      "word": "麦琳黄圣依给葛夕擦泪",
+      "onboard_time": 1734607219,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117893,
       "num": 117893,
       "word": "梁王组合男双世排第二",
@@ -12571,6 +12619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104048,
+      "num": 104048,
+      "word": "eStar战胜天鹿",
+      "onboard_time": 1734607999,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103558,
       "num": 105862,
       "word": "2024中国体育高光名场面",
@@ -12843,6 +12899,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97111,
+      "num": 97111,
+      "word": "林孝埈说初心让我一直坚持",
+      "onboard_time": 1734608118,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96973,
+      "num": 96973,
+      "word": "姜潮麦迪娜新年全家福",
+      "onboard_time": 1734607518,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96910,
       "num": 370276,
       "word": "虞书欣说新歌会有challenge",
@@ -12881,6 +12953,14 @@
       "onboard_time": 1734509180,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96476,
+      "num": 284426,
+      "word": "留几手说没有爱过葛夕",
+      "onboard_time": 1734607938,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 96171,
@@ -12961,6 +13041,14 @@
       "onboard_time": 1734360562,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 93612,
+      "num": 93612,
+      "word": "电影小小的我特别的纪录片",
+      "onboard_time": 1734608118,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 93601,
@@ -13371,6 +13459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84727,
+      "num": 348138,
+      "word": "2024年度汽车发展回顾与展望",
+      "onboard_time": 1734607038,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84602,
       "num": 161047,
       "word": "祝绪丹文字直播",
@@ -13593,14 +13689,6 @@
       "onboard_time": 1734326180,
       "rank": 16,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 79382,
-      "num": 337921,
-      "word": "猎罪2萝莉姐整容爆改年龄",
-      "onboard_time": 1734606799,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 79059,
@@ -14987,6 +15075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49985,
+      "num": 347529,
+      "word": "人民网评网红程虎偷税漏税该凉凉",
+      "onboard_time": 1734606498,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 49848,
       "num": 297234,
       "word": "书店老板说开书店像一个笑话",
@@ -15555,6 +15651,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 42384,
+      "num": 344488,
+      "word": "退休校长17年养大348个孩子",
+      "onboard_time": 1734606258,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42337,
       "num": 199107,
       "word": "虞书欣去热爱活出彩",
@@ -15995,14 +16099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35752,
-      "num": 347529,
-      "word": "人民网评网红程虎偷税漏税该凉凉",
-      "onboard_time": 1734606498,
-      "rank": 13,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 35747,
       "num": 203286,
       "word": "特朗普胜选以来特斯拉已涨逾90%",
@@ -16115,20 +16211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34536,
-      "num": 344488,
-      "word": "退休校长17年养大348个孩子",
-      "onboard_time": 1734606258,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 34531,
       "num": 34531,
       "word": "北京朝阳站周日起通地铁",
       "onboard_time": 1734210791,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34481,
+      "num": 269322,
+      "word": "享界S9传统豪华轿车破局者",
+      "onboard_time": 1734606978,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 34474,
@@ -16369,6 +16465,14 @@
       "onboard_time": 1734319517,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31409,
+      "num": 346787,
+      "word": "越升级越难用的护肤品",
+      "onboard_time": 1734606019,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 31404,
@@ -16625,14 +16729,6 @@
       "onboard_time": 1734492199,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 29218,
-      "num": 209843,
-      "word": "享界S9传统豪华轿车破局者",
-      "onboard_time": 1734606978,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 28976,
@@ -17201,14 +17297,6 @@
       "onboard_time": 1734342920,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21668,
-      "num": 346787,
-      "word": "越升级越难用的护肤品",
-      "onboard_time": 1734606019,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 21665,
@@ -18256,14 +18344,6 @@
       "word": "领克Z10城市NOA首测直播",
       "onboard_time": 1734421638,
       "rank": 28,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 8575,
-      "num": 348138,
-      "word": "2024年度汽车发展回顾与展望",
-      "onboard_time": 1734607038,
-      "rank": 12,
       "category": "汽车"
     },
     {
