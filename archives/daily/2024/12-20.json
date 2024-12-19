@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734644132851,
+  "endTime": 1734646877466,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 365419,
-      "num": 365419,
+      "num": 371398,
       "word": "女子戴耳钉时突然失去意识倒地",
       "onboard_time": 1734625517,
       "rank": 43,
@@ -499,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23000,
+      "num": 23000,
+      "word": "余华英庭审现场态度恶劣没有道歉",
+      "onboard_time": 1734638891,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22243,
       "num": 23269,
       "word": "小小的我预售破4000w",
@@ -523,16 +531,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18801,
-      "num": 18801,
-      "word": "余华英庭审现场态度恶劣没有道歉",
-      "onboard_time": 1734638891,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 17791,
+      "num": 68535,
+      "word": "保定理工辟谣化粪池饮水机管道接反",
+      "onboard_time": 1734645191,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 17092,
-      "num": 17092,
+      "num": 18189,
       "word": "濠江欢歌向未来",
       "onboard_time": 1734627915,
       "rank": 40,
@@ -545,6 +553,14 @@
       "onboard_time": 1734634813,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15981,
+      "num": 44112,
+      "word": "一定要记住开发横琴的初心",
+      "onboard_time": 1734641530,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15773,
@@ -571,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13101,
-      "num": 44112,
-      "word": "一定要记住开发横琴的初心",
-      "onboard_time": 1734641530,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 14382,
+      "num": 18187,
+      "word": "张家口推进取消公摊",
+      "onboard_time": 1734644412,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12278,
