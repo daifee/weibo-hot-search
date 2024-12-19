@@ -1,0 +1,410 @@
+{
+  "runTime": 1734612324057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134537,
+        "num": 1181525,
+        "word": "唐探1900定档",
+        "onboard_time": 1734608238,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 952833,
+        "num": 952833,
+        "word": "余华英不服判决要申请援助律师",
+        "onboard_time": 1734607219,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34637,
+        "num": 853342,
+        "word": "Citywalk带你领略多彩澳门",
+        "onboard_time": 1734602118,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 833798,
+        "num": 833798,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633424,
+        "num": 633424,
+        "word": "窦昭孩子 将门毒后",
+        "onboard_time": 1734607819,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363677,
+        "num": 613230,
+        "word": "公厕用凹凸分辨男女",
+        "onboard_time": 1734604098,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595867,
+        "num": 595867,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577124,
+        "num": 577124,
+        "word": "豹豹猫猫我出生了",
+        "onboard_time": 1734608899,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219179,
+        "num": 219179,
+        "word": "恒源祥直播间女主播穿着暴露引争议",
+        "onboard_time": 1734611418,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200196,
+        "num": 200196,
+        "word": "台湾是中国的台湾不容任何外部干涉",
+        "onboard_time": 1734607698,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462706,
+        "num": 199808,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459444,
+        "num": 198019,
+        "word": "猎罪2萝莉姐整容爆改年龄",
+        "onboard_time": 1734606799,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431418,
+        "num": 197659,
+        "word": "听到余华英死刑很多寻亲家长失声痛哭",
+        "onboard_time": 1734608839,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188790,
+        "num": 188790,
+        "word": "第五人格",
+        "onboard_time": 1734609500,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 370682,
+        "num": 188165,
+        "word": "杨妞花律师称死刑复核一般需一年",
+        "onboard_time": 1734610578,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357161,
+        "num": 187485,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326447,
+        "num": 186674,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321853,
+        "num": 186206,
+        "word": "五部影片定档春节档",
+        "onboard_time": 1734610519,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238680,
+        "num": 185439,
+        "word": "江西赣州警方通报母女被恶犬咬伤",
+        "onboard_time": 1734598398,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 188939,
+        "num": 184716,
+        "word": "鞠婧祎杂志缺货",
+        "onboard_time": 1734611538,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1029006,
+        "num": 184211,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421343,
+        "num": 183384,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231959,
+        "num": 182827,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217816,
+        "num": 182070,
+        "word": "跳社会摇10天瘦9斤",
+        "onboard_time": 1734606019,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103273,
+        "num": 181410,
+        "word": "马龙说备战2025全运会",
+        "onboard_time": 1734609979,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203941,
+        "num": 180199,
+        "word": "穷鬼拌饭能有多好吃",
+        "onboard_time": 1734610879,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197458,
+        "num": 179571,
+        "word": "肖战 拉夫劳伦",
+        "onboard_time": 1734611841,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 98005,
+        "num": 178922,
+        "word": "周深重生想当爽剧霸总",
+        "onboard_time": 1734611478,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29080,
+        "num": 178412,
+        "word": "荣耀Magic7系列大王影像首曝",
+        "onboard_time": 1734611598,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30570,
+        "num": 177764,
+        "word": "2025神气韵",
+        "onboard_time": 1734611180,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177178,
+        "num": 177178,
+        "word": "星光大赏星光墙榜单前五",
+        "onboard_time": 1734608419,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164986,
+        "num": 164986,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164385,
+        "num": 164385,
+        "word": "GOT7合照",
+        "onboard_time": 1734605359,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163718,
+        "num": 163718,
+        "word": "丁禹兮李昀锐王星越今年惊艳面孔",
+        "onboard_time": 1734607577,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158499,
+        "num": 158499,
+        "word": "赣州公园恶犬伤人2人被采取强制措施",
+        "onboard_time": 1734599720,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 142031,
+        "num": 153561,
+        "word": "名创优品回应恋与深空联名价格高",
+        "onboard_time": 1734610938,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150123,
+        "num": 150123,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148992,
+        "num": 148992,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146143,
+        "num": 146143,
+        "word": "28岁宿管阿姨在宿舍大作战的一天",
+        "onboard_time": 1734610219,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119099,
+        "num": 139161,
+        "word": "一箭四星再次在日照海域顺利升空",
+        "onboard_time": 1734607038,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136541,
+        "num": 136541,
+        "word": "俄自杀式无人机摧毁M1A1坦克",
+        "onboard_time": 1734610998,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131555,
+        "num": 131555,
+        "word": "于和伟说演员不能当空心人",
+        "onboard_time": 1734609500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130146,
+        "num": 130146,
+        "word": "耿爽听完憋不住笑了",
+        "onboard_time": 1734608178,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126192,
+        "num": 126192,
+        "word": "谢娜长文谈救场酱园弄",
+        "onboard_time": 1734605899,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122273,
+        "num": 122273,
+        "word": "春节档",
+        "onboard_time": 1734612138,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119261,
+        "num": 119261,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115121,
+        "num": 115121,
+        "word": "爱上始祖鸟完全是因为文淇",
+        "onboard_time": 1734611777,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115074,
+        "num": 115074,
+        "word": "孟子义媚眼如丝",
+        "onboard_time": 1734601938,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113664,
+        "num": 113664,
+        "word": "百度股价大跌腾讯大涨",
+        "onboard_time": 1734611418,
+        "rank": 48,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 113315,
+        "num": 113315,
+        "word": "日照海上火箭发射进入倒计时",
+        "onboard_time": 1734608297,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平考察横琴粤澳深度合作区#"
+    }
+  }
+}
