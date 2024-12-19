@@ -1,0 +1,410 @@
+{
+  "runTime": 1734607199944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 547304,
+        "num": 1087568,
+        "word": "窦昭怀孕",
+        "onboard_time": 1734605418,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355738,
+        "num": 355738,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5936,
+        "num": 355047,
+        "word": "万千气象看吉林",
+        "onboard_time": 1734354320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1312219,
+        "num": 354819,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920149,
+        "num": 354223,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477954,
+        "num": 353626,
+        "word": "赣州公园恶犬伤人2人被采取强制措施",
+        "onboard_time": 1734599720,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 432267,
+        "num": 352859,
+        "word": "公厕用凹凸分辨男女",
+        "onboard_time": 1734604098,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421633,
+        "num": 351798,
+        "word": "江西赣州警方通报母女被恶犬咬伤",
+        "onboard_time": 1734598398,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 170198,
+        "num": 351201,
+        "word": "乳腺治疗室旁更衣室发现针孔摄像头",
+        "onboard_time": 1734601398,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 53007,
+        "num": 350341,
+        "word": "取消公摊实际应为按套内面积计价",
+        "onboard_time": 1734605899,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 262622,
+        "num": 349562,
+        "word": "GOT7合照",
+        "onboard_time": 1734605359,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242876,
+        "num": 349167,
+        "word": "谢娜长文谈救场酱园弄",
+        "onboard_time": 1734605899,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 8575,
+        "num": 348138,
+        "word": "2024年度汽车发展回顾与展望",
+        "onboard_time": 1734607038,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35752,
+        "num": 347529,
+        "word": "人民网评网红程虎偷税漏税该凉凉",
+        "onboard_time": 1734606498,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 21668,
+        "num": 346787,
+        "word": "越升级越难用的护肤品",
+        "onboard_time": 1734606019,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194276,
+        "num": 346432,
+        "word": "GOT7将1月回归",
+        "onboard_time": 1734606079,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86122,
+        "num": 345958,
+        "word": "考研倒计时两天如何复习",
+        "onboard_time": 1734606199,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 48856,
+        "num": 344801,
+        "word": "一人一句祝福考研人",
+        "onboard_time": 1734606138,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34536,
+        "num": 344488,
+        "word": "退休校长17年养大348个孩子",
+        "onboard_time": 1734606258,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24009,
+        "num": 343362,
+        "word": "网络购药越来越方便",
+        "onboard_time": 1734604278,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14933,
+        "num": 343197,
+        "word": "NewJeans以粉丝名捐1亿韩元",
+        "onboard_time": 1734606738,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177753,
+        "num": 341901,
+        "word": "文俊辉吸引超2000万海外粉丝聚焦深圳",
+        "onboard_time": 1734601339,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157687,
+        "num": 341240,
+        "word": "孟子义媚眼如丝",
+        "onboard_time": 1734601938,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134900,
+        "num": 340600,
+        "word": "郭艾伦丁彦雨航单挑",
+        "onboard_time": 1734606079,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133983,
+        "num": 339917,
+        "word": "网剧冬至定档",
+        "onboard_time": 1734606019,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92666,
+        "num": 339318,
+        "word": "北大阎步克老师的最后一堂课",
+        "onboard_time": 1734606678,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32124,
+        "num": 338447,
+        "word": "人工耳蜗集采降至单套5万元左右",
+        "onboard_time": 1734606738,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79382,
+        "num": 337921,
+        "word": "猎罪2萝莉姐整容爆改年龄",
+        "onboard_time": 1734606799,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22044,
+        "num": 337472,
+        "word": "智界R7增程版续航超1500公里",
+        "onboard_time": 1734604638,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30953,
+        "num": 336771,
+        "word": "如何早起不疲惫",
+        "onboard_time": 1734606438,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20722,
+        "num": 335805,
+        "word": "鸿蒙智行与四界的故事",
+        "onboard_time": 1734601278,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1179917,
+        "num": 335373,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724236,
+        "num": 334606,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542379,
+        "num": 333789,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 333455,
+        "num": 333455,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295158,
+        "num": 295158,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294342,
+        "num": 294342,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287252,
+        "num": 287252,
+        "word": "看完文淇微博要喝中药了",
+        "onboard_time": 1734601458,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273735,
+        "num": 273735,
+        "word": "广州新机场要来了",
+        "onboard_time": 1734597438,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72213,
+        "num": 238440,
+        "word": "劳森效力红牛",
+        "onboard_time": 1734606978,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39616,
+        "num": 233650,
+        "word": "波司登在尔滨办起了大秀",
+        "onboard_time": 1734602598,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 230304,
+        "num": 230304,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29218,
+        "num": 209843,
+        "word": "享界S9传统豪华轿车破局者",
+        "onboard_time": 1734606978,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195069,
+        "num": 195069,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186407,
+        "num": 186407,
+        "word": "跳社会摇10天瘦9斤",
+        "onboard_time": 1734606019,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177423,
+        "num": 177423,
+        "word": "就业率不如本科生读博还值吗",
+        "onboard_time": 1734604219,
+        "rank": 45,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 162135,
+        "num": 162135,
+        "word": "一箭四星再次在日照海域顺利升空",
+        "onboard_time": 1734607038,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121974,
+        "num": 121974,
+        "word": "这个家里不能没有何老师",
+        "onboard_time": 1734605899,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121868,
+        "num": 121868,
+        "word": "九重紫",
+        "onboard_time": 1734602538,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119279,
+        "num": 119279,
+        "word": "惠英红刘诗诗宋佳 懂事制片快准备",
+        "onboard_time": 1734604219,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平考察澳门科技大学#"
+    }
+  }
+}
