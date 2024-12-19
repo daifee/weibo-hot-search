@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734619273736,
+  "endTime": 1734621886183,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1370070,
+      "num": 1145088,
+      "word": "疑似李行亮已黑化",
+      "onboard_time": 1734617839,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1330625,
       "num": 365244,
       "word": "男子给已婚同事发么么哒被辞退",
@@ -88,6 +96,14 @@
       "word": "余华英重审二审死刑",
       "onboard_time": 1734587480,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1233534,
+      "num": 302931,
+      "word": "小米su7掉落山崖",
+      "onboard_time": 1734619820,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -129,6 +145,14 @@
       "onboard_time": 1734608238,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1046200,
+      "num": 1046200,
+      "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+      "onboard_time": 1734617899,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1035460,
@@ -211,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 906805,
-      "num": 1145088,
-      "word": "疑似李行亮已黑化",
-      "onboard_time": 1734617839,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 891155,
       "num": 544733,
       "word": "男子彩票中奖834万称暂不告诉儿子",
@@ -227,19 +243,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 867288,
-      "num": 441725,
-      "word": "女子长年便秘结肠如巨蟒盘踞腹中",
-      "onboard_time": 1734617899,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 864109,
       "num": 335655,
       "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
       "onboard_time": 1734563655,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 863917,
+      "num": 1138226,
+      "word": "女子暂不结婚朋友退还2000元份子钱",
+      "onboard_time": 1734619160,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -321,6 +337,14 @@
       "onboard_time": 1734535940,
       "rank": 11,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 659599,
+      "num": 659599,
+      "word": "将门毒后出生",
+      "onboard_time": 1734616759,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 652614,
@@ -603,14 +627,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 438322,
-      "num": 438322,
-      "word": "将门毒后出生",
-      "onboard_time": 1734616759,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 431418,
       "num": 381005,
       "word": "听到余华英死刑很多寻亲家长失声痛哭",
@@ -747,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356111,
+      "num": 356111,
+      "word": "做一次CT对身体辐射有多大",
+      "onboard_time": 1734617779,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353101,
       "num": 353101,
       "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
@@ -851,12 +875,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 313966,
+      "num": 313966,
+      "word": "刘诗诗胡先煦合作",
+      "onboard_time": 1734621140,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305550,
       "num": 349562,
       "word": "GOT7合照",
       "onboard_time": 1734605359,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290125,
+      "num": 221503,
+      "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+      "onboard_time": 1734618319,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 289191,
@@ -1243,14 +1283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203151,
-      "num": 203151,
-      "word": "做一次CT对身体辐射有多大",
-      "onboard_time": 1734617779,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 203031,
       "num": 203031,
       "word": "智界R7增程版价格",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1734578358,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193819,
+      "num": 193819,
+      "word": "时装男士声明",
+      "onboard_time": 1734621198,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 193323,
@@ -1907,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149585,
+      "num": 149585,
+      "word": "鹿晗水晶球",
+      "onboard_time": 1734620121,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149232,
       "num": 211363,
       "word": "黄梅生说不愿成为张桂梅",
@@ -1961,14 +2009,6 @@
       "onboard_time": 1734597319,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145220,
-      "num": 145220,
-      "word": "全红婵哥哥曾拒绝MCN上亿签约费",
-      "onboard_time": 1734618319,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 144008,
@@ -2171,14 +2211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124926,
-      "num": 245822,
-      "word": "女子暂不结婚朋友退还2000元份子钱",
-      "onboard_time": 1734619160,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124743,
       "num": 101271,
       "word": "一笑倾城 清水小芙蓉",
@@ -2371,6 +2403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117285,
+      "num": 303174,
+      "word": "取消公摊后物业费税费咋算",
+      "onboard_time": 1734620360,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 116349,
+      "num": 116349,
+      "word": "孟子义内娱百灵鸟又开口了",
+      "onboard_time": 1734619699,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116306,
       "num": 116306,
       "word": "生长激素是怎么让人长高的",
@@ -2507,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109894,
+      "num": 161574,
+      "word": "业内人士曝张继科代言费",
+      "onboard_time": 1734621559,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109310,
       "num": 278143,
       "word": "冰雪大世界回应臻享双人票涨至3988",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1734617779,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105795,
+      "num": 159925,
+      "word": "余华看郑钦文奥运比赛到手抖",
+      "onboard_time": 1734621320,
+      "rank": 30,
+      "category": "体育,综艺"
     },
     {
       "raw_hot": 105713,
@@ -2787,6 +2851,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95131,
+      "num": 95131,
+      "word": "碎仔派对",
+      "onboard_time": 1734618801,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 94880,
+      "num": 94880,
+      "word": "被执行人卷走下家1800万买房款还糟蹋房子",
+      "onboard_time": 1734620959,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93612,
       "num": 93612,
       "word": "电影小小的我特别的纪录片",
@@ -2849,6 +2929,14 @@
       "onboard_time": 1734600138,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90714,
+      "num": 90714,
+      "word": "特斯拉中国工厂负责人将加入远景",
+      "onboard_time": 1734620121,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 86958,
@@ -2937,6 +3025,14 @@
       "onboard_time": 1734537078,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77068,
+      "num": 248578,
+      "word": "雄狮少年2主创回应争议",
+      "onboard_time": 1734621140,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 76997,
@@ -3203,6 +3299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57835,
+      "num": 271322,
+      "word": "普京称俄愿在乌克兰问题上妥协",
+      "onboard_time": 1734621678,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56334,
       "num": 204668,
       "word": "偶尔说脏话对心理有益",
@@ -3281,6 +3385,14 @@
       "onboard_time": 1734605899,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 50437,
+      "num": 1062416,
+      "word": "随手拍都好看的澳门骑楼有多出片",
+      "onboard_time": 1734614960,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49985,
@@ -3393,14 +3505,6 @@
       "onboard_time": 1734599180,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42433,
-      "num": 445856,
-      "word": "随手拍都好看的澳门骑楼有多出片",
-      "onboard_time": 1734614960,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42384,
@@ -3747,6 +3851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 26937,
+      "num": 246049,
+      "word": "村庄回应围村收费流程无问题",
+      "onboard_time": 1734620538,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26913,
       "num": 137759,
       "word": "去度假农庄一起种地吧",
@@ -3801,6 +3913,14 @@
       "onboard_time": 1734545533,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22988,
+      "num": 266093,
+      "word": "买彩票中大奖应该告诉孩子吗",
+      "onboard_time": 1734621500,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 22262,

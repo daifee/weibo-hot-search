@@ -1,0 +1,410 @@
+{
+  "runTime": 1734621886183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 863917,
+        "num": 1138226,
+        "word": "女子暂不结婚朋友退还2000元份子钱",
+        "onboard_time": 1734619160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1370070,
+        "num": 1097122,
+        "word": "疑似李行亮已黑化",
+        "onboard_time": 1734617839,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50437,
+        "num": 1062416,
+        "word": "随手拍都好看的澳门骑楼有多出片",
+        "onboard_time": 1734614960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1046200,
+        "num": 1046200,
+        "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+        "onboard_time": 1734617899,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 659599,
+        "num": 659599,
+        "word": "将门毒后出生",
+        "onboard_time": 1734616759,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471929,
+        "num": 471929,
+        "word": "恒源祥直播间女主播穿着暴露引争议",
+        "onboard_time": 1734611418,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356111,
+        "num": 356111,
+        "word": "做一次CT对身体辐射有多大",
+        "onboard_time": 1734617779,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346359,
+        "num": 346359,
+        "word": "现在考研人都在干什么",
+        "onboard_time": 1734616640,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313966,
+        "num": 313966,
+        "word": "刘诗诗胡先煦合作",
+        "onboard_time": 1734621140,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117285,
+        "num": 303174,
+        "word": "取消公摊后物业费税费咋算",
+        "onboard_time": 1734620360,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 1233534,
+        "num": 302931,
+        "word": "小米su7掉落山崖",
+        "onboard_time": 1734619820,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301901,
+        "num": 301901,
+        "word": "杨妞花控诉余华英偷情时让自己站岗",
+        "onboard_time": 1734615379,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291083,
+        "num": 291083,
+        "word": "唐探1900定档",
+        "onboard_time": 1734608238,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57835,
+        "num": 271322,
+        "word": "普京称俄愿在乌克兰问题上妥协",
+        "onboard_time": 1734621678,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22988,
+        "num": 266093,
+        "word": "买彩票中大奖应该告诉孩子吗",
+        "onboard_time": 1734621500,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 262851,
+        "num": 262851,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260935,
+        "num": 260935,
+        "word": "庆祝澳门回归25周年",
+        "onboard_time": 1734615080,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253812,
+        "num": 253812,
+        "word": "周扬青粉色卡皮巴拉圣诞树",
+        "onboard_time": 1734614660,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77068,
+        "num": 248578,
+        "word": "雄狮少年2主创回应争议",
+        "onboard_time": 1734621140,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26937,
+        "num": 246049,
+        "word": "村庄回应围村收费流程无问题",
+        "onboard_time": 1734620538,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401387,
+        "num": 238969,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368515,
+        "num": 234834,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324817,
+        "num": 225841,
+        "word": "越来越多年轻人开始反向消费",
+        "onboard_time": 1734615979,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290125,
+        "num": 221503,
+        "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+        "onboard_time": 1734618319,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217252,
+        "num": 217252,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216149,
+        "num": 216149,
+        "word": "猎罪2萝莉姐整容爆改年龄",
+        "onboard_time": 1734606799,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198255,
+        "num": 198255,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193819,
+        "num": 193819,
+        "word": "时装男士声明",
+        "onboard_time": 1734621198,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 167111,
+        "num": 167111,
+        "word": "公厕用凹凸分辨男女",
+        "onboard_time": 1734604098,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109894,
+        "num": 161574,
+        "word": "业内人士曝张继科代言费",
+        "onboard_time": 1734621559,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105795,
+        "num": 159925,
+        "word": "余华看郑钦文奥运比赛到手抖",
+        "onboard_time": 1734621320,
+        "rank": 30,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 159864,
+        "num": 159864,
+        "word": "刘昊然王宝强都营业了",
+        "onboard_time": 1734618560,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 149660,
+        "word": "大奉打更人天地一刀斩预告",
+        "onboard_time": 1734616400,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149585,
+        "num": 149585,
+        "word": "鹿晗水晶球",
+        "onboard_time": 1734620121,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141885,
+        "num": 141885,
+        "word": "NCT尬关回归",
+        "onboard_time": 1734618859,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 138820,
+        "word": "丈夫用轮胎为妻子制作花海茶几",
+        "onboard_time": 1734615979,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129711,
+        "num": 129711,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119658,
+        "num": 119658,
+        "word": "窦昭孩子 将门毒后",
+        "onboard_time": 1734607819,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119572,
+        "num": 119572,
+        "word": "丁禹兮说体验过灰姑娘",
+        "onboard_time": 1734618381,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116349,
+        "num": 116349,
+        "word": "孟子义内娱百灵鸟又开口了",
+        "onboard_time": 1734619699,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109829,
+        "num": 109829,
+        "word": "九重紫好甜",
+        "onboard_time": 1734613699,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106920,
+        "num": 106920,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106443,
+        "num": 106443,
+        "word": "跳社会摇10天瘦9斤",
+        "onboard_time": 1734606019,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103763,
+        "num": 103763,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102049,
+        "num": 102049,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100989,
+        "num": 100989,
+        "word": "星光大赏星光墙榜单前五",
+        "onboard_time": 1734608419,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98696,
+        "num": 98696,
+        "word": "打拐是全社会共同的责任",
+        "onboard_time": 1734618859,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95131,
+        "num": 95131,
+        "word": "碎仔派对",
+        "onboard_time": 1734618801,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94880,
+        "num": 94880,
+        "word": "被执行人卷走下家1800万买房款还糟蹋房子",
+        "onboard_time": 1734620959,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90714,
+        "num": 90714,
+        "word": "特斯拉中国工厂负责人将加入远景",
+        "onboard_time": 1734620121,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对澳门的3点期许#"
+    }
+  }
+}
