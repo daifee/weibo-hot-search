@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734628745748,
+  "endTime": 1734629873002,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 407258,
-      "num": 407258,
+      "num": 415519,
       "word": "气象人士呼吁南方人最近别天天洗澡",
       "onboard_time": 1734624077,
       "rank": 9,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163228,
+      "num": 163228,
+      "word": "一笑倾国已删除退网内容",
+      "onboard_time": 1734627135,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 160082,
       "num": 160082,
       "word": "向太 内涵",
@@ -217,14 +225,6 @@
       "onboard_time": 1734624379,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129649,
-      "num": 129649,
-      "word": "一笑倾国已删除退网内容",
-      "onboard_time": 1734627135,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 124194,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 57855,
-      "num": 78841,
+      "num": 88443,
       "word": "这首我爱你中国是我们共同的表白",
       "onboard_time": 1734623959,
       "rank": 48,
@@ -449,6 +449,38 @@
       "onboard_time": 1734628693,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 34203,
+      "num": 45718,
+      "word": "男子开跑车进高校玩漂移压坏草坪",
+      "onboard_time": 1734629114,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28760,
+      "num": 45561,
+      "word": "灿烂的风和海",
+      "onboard_time": 1734629414,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27351,
+      "num": 45534,
+      "word": "张杰扫楼现场",
+      "onboard_time": 1734629473,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 26876,
+      "num": 45504,
+      "word": "专家称物业费税费也应按套内面积算",
+      "onboard_time": 1734625637,
+      "rank": 49,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 14921,
