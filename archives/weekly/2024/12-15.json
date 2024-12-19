@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734585765503,
+  "endTime": 1734586795850,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -907,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911112,
+      "num": 399142,
+      "word": "留几手葛夕 柏拉图",
+      "onboard_time": 1734584600,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 902568,
       "num": 1077299,
       "word": "上海下雪",
@@ -921,6 +929,14 @@
       "onboard_time": 1734321259,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 891155,
+      "num": 460277,
+      "word": "男子彩票中奖834万称暂不告诉儿子",
+      "onboard_time": 1734583821,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 890583,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 669666,
-      "num": 399142,
-      "word": "留几手葛夕 柏拉图",
-      "onboard_time": 1734584600,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 667511,
@@ -2579,6 +2587,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 481143,
+      "num": 279867,
+      "word": "葛夕留几手三年没有性生活",
+      "onboard_time": 1734585859,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 480199,
       "num": 480199,
       "word": "900多吨智利车厘子来了",
@@ -2715,14 +2731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460277,
-      "num": 460277,
-      "word": "男子彩票中奖834万称暂不告诉儿子",
-      "onboard_time": 1734583821,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459272,
       "num": 459272,
       "word": "多账号直播展示单县羊汤变白过程",
@@ -2752,6 +2760,14 @@
       "word": "澳门市民说解放军在非常有安全感",
       "onboard_time": 1734568939,
       "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 456647,
+      "num": 360824,
+      "word": "澳门科技大学",
+      "onboard_time": 1734582140,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -2985,14 +3001,6 @@
       "onboard_time": 1734355999,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424778,
-      "num": 360824,
-      "word": "澳门科技大学",
-      "onboard_time": 1734582140,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 423212,
@@ -4267,6 +4275,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 282039,
+      "num": 282039,
+      "word": "考研和不考研的都听爽了",
+      "onboard_time": 1734584121,
+      "rank": 34,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 281446,
       "num": 281446,
       "word": "白桃星座",
@@ -4289,6 +4305,14 @@
       "onboard_time": 1734229457,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279778,
+      "num": 361831,
+      "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
+      "onboard_time": 1734584600,
+      "rank": 18,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 279117,
@@ -4369,14 +4393,6 @@
       "onboard_time": 1734419120,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275459,
-      "num": 361831,
-      "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
-      "onboard_time": 1734584600,
-      "rank": 18,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 275235,
@@ -4689,14 +4705,6 @@
       "onboard_time": 1734351319,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 251030,
-      "num": 251030,
-      "word": "考研和不考研的都听爽了",
-      "onboard_time": 1734584121,
-      "rank": 34,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 250972,
@@ -5417,6 +5425,14 @@
       "onboard_time": 1734531260,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214462,
+      "num": 272585,
+      "word": "刘诗诗湿发微醺芭莎大片",
+      "onboard_time": 1734585679,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214390,
@@ -6537,6 +6553,14 @@
       "onboard_time": 1734253819,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192157,
+      "num": 192157,
+      "word": "全红婵加入崔宸曦王楚钦群聊",
+      "onboard_time": 1734586400,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 191876,
@@ -8763,6 +8787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150781,
+      "num": 265484,
+      "word": "有一种爱叫我图你能赚钱",
+      "onboard_time": 1734585739,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150550,
       "num": 347526,
       "word": "解放军英姿激励澳门青年25年",
@@ -9161,14 +9193,6 @@
       "onboard_time": 1734572597,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142846,
-      "num": 142846,
-      "word": "刘诗诗湿发微醺芭莎大片",
-      "onboard_time": 1734585679,
-      "rank": 48,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142721,
@@ -9915,6 +9939,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132188,
+      "num": 363534,
+      "word": "取消公摊购房成本会降吗",
+      "onboard_time": 1734584781,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 132147,
       "num": 274741,
       "word": "梁靖崑你是捡球还是捡手",
@@ -10073,14 +10105,6 @@
       "onboard_time": 1734237139,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129304,
-      "num": 129304,
-      "word": "有一种爱叫我图你能赚钱",
-      "onboard_time": 1734585739,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 129190,
@@ -11329,14 +11353,6 @@
       "onboard_time": 1734484279,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108280,
-      "num": 363534,
-      "word": "取消公摊购房成本会降吗",
-      "onboard_time": 1734584781,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 108259,
@@ -12979,6 +12995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69608,
+      "num": 363116,
+      "word": "诛仙世界人太多挤爆了",
+      "onboard_time": 1734584720,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69593,
       "num": 126654,
       "word": "本赛季石宇奇总奖金557370美元",
@@ -13251,6 +13275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63866,
+      "num": 277844,
+      "word": "中国金球奖",
+      "onboard_time": 1734586640,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63831,
       "num": 190597,
       "word": "肖央误杀3无声嘶吼海报",
@@ -13409,6 +13441,14 @@
       "onboard_time": 1734581899,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61019,
+      "num": 159112,
+      "word": "金铲铲 圣诞树",
+      "onboard_time": 1734586160,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 60728,
@@ -13985,14 +14025,6 @@
       "onboard_time": 1734253099,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48205,
-      "num": 363116,
-      "word": "诛仙世界人太多挤爆了",
-      "onboard_time": 1734584720,
-      "rank": 15,
-      "category": "游戏"
     },
     {
       "raw_hot": 48192,
@@ -14883,6 +14915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34795,
+      "num": 347095,
+      "word": "祁煜 鲸落城的日落",
+      "onboard_time": 1734585499,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 34777,
       "num": 34777,
       "word": "檀健次演技",
@@ -15092,7 +15132,7 @@
     },
     {
       "raw_hot": 32195,
-      "num": 211009,
+      "num": 280549,
       "word": "硬核老司机拖着房子爬雪山",
       "onboard_time": 1734585079,
       "rank": 37,
@@ -15185,6 +15225,14 @@
       "onboard_time": 1734550571,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 30778,
+      "num": 280382,
+      "word": "一条视频看余华英案始末",
+      "onboard_time": 1734586039,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30761,
@@ -15417,14 +15465,6 @@
       "onboard_time": 1734305717,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27851,
-      "num": 347095,
-      "word": "祁煜 鲸落城的日落",
-      "onboard_time": 1734585499,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 27716,
@@ -16371,6 +16411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15235,
+      "num": 280241,
+      "word": "星际宝贝真人电影预告",
+      "onboard_time": 1734585620,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15143,
       "num": 441726,
       "word": "年轻人的觉醒从驯化算法开始",
@@ -16497,6 +16545,14 @@
       "onboard_time": 1734200893,
       "rank": 35,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 13590,
+      "num": 267409,
+      "word": "画师年终总结 哥含量极高",
+      "onboard_time": 1734585919,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 13516,
@@ -16641,14 +16697,6 @@
       "onboard_time": 1734244939,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12002,
-      "num": 251895,
-      "word": "星际宝贝真人电影预告",
-      "onboard_time": 1734585620,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 11894,

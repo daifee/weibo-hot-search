@@ -1,0 +1,410 @@
+{
+  "runTime": 1734586795850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715090,
+        "num": 1114414,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 485709,
+        "num": 485709,
+        "word": "再见爱人",
+        "onboard_time": 1734582500,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45111,
+        "num": 362498,
+        "word": "120秒看璀璨澳门",
+        "onboard_time": 1734580579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911112,
+        "num": 354978,
+        "word": "留几手葛夕 柏拉图",
+        "onboard_time": 1734584600,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 891155,
+        "num": 349887,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344231,
+        "num": 344231,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 746557,
+        "num": 320713,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1734582981,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456547,
+        "num": 319303,
+        "word": "吴昕 死嘴快说",
+        "onboard_time": 1734582859,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296333,
+        "num": 296333,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282039,
+        "num": 282039,
+        "word": "考研和不考研的都听爽了",
+        "onboard_time": 1734584121,
+        "rank": 9,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 999567,
+        "num": 281873,
+        "word": "男子给已婚同事发么么哒被辞退",
+        "onboard_time": 1734580878,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 733763,
+        "num": 281759,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 11,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 716725,
+        "num": 281604,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 576701,
+        "num": 281360,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310582,
+        "num": 281174,
+        "word": "谢楠 我认识李川那时候他不这样",
+        "onboard_time": 1734583101,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69608,
+        "num": 281118,
+        "word": "诛仙世界人太多挤爆了",
+        "onboard_time": 1734584720,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 26083,
+        "num": 280980,
+        "word": "首钢大跳台诞生世界新纪录",
+        "onboard_time": 1734584720,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79622,
+        "num": 280776,
+        "word": "这个判决杨妞花等了1313天",
+        "onboard_time": 1734580579,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21901,
+        "num": 280549,
+        "word": "硬核老司机拖着房子爬雪山",
+        "onboard_time": 1734585079,
+        "rank": 18,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 30778,
+        "num": 280382,
+        "word": "一条视频看余华英案始末",
+        "onboard_time": 1734586039,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15235,
+        "num": 280241,
+        "word": "星际宝贝真人电影预告",
+        "onboard_time": 1734585620,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 513221,
+        "num": 280044,
+        "word": "母亲带3岁娃公园散步被4条恶犬按地撕咬",
+        "onboard_time": 1734580758,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481143,
+        "num": 279867,
+        "word": "葛夕留几手三年没有性生活",
+        "onboard_time": 1734585859,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279778,
+        "num": 279778,
+        "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
+        "onboard_time": 1734584600,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 63866,
+        "num": 277844,
+        "word": "中国金球奖",
+        "onboard_time": 1734586640,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219135,
+        "num": 274599,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214462,
+        "num": 272585,
+        "word": "刘诗诗湿发微醺芭莎大片",
+        "onboard_time": 1734585679,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176460,
+        "num": 268537,
+        "word": "冬至剧情好抓马",
+        "onboard_time": 1734584540,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13590,
+        "num": 267409,
+        "word": "画师年终总结 哥含量极高",
+        "onboard_time": 1734585919,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150781,
+        "num": 265484,
+        "word": "有一种爱叫我图你能赚钱",
+        "onboard_time": 1734585739,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132188,
+        "num": 261366,
+        "word": "取消公摊购房成本会降吗",
+        "onboard_time": 1734584781,
+        "rank": 30,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 456647,
+        "num": 259618,
+        "word": "澳门科技大学",
+        "onboard_time": 1734582140,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145169,
+        "num": 254853,
+        "word": "何洁被黄子弘凡专辑惊呆了",
+        "onboard_time": 1734585020,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 436177,
+        "num": 253571,
+        "word": "肖战黑西装长发",
+        "onboard_time": 1734581840,
+        "rank": 33,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 350090,
+        "num": 251162,
+        "word": "男生疑遭霸凌求助被无视后跳楼身亡",
+        "onboard_time": 1734579857,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34795,
+        "num": 246280,
+        "word": "祁煜 鲸落城的日落",
+        "onboard_time": 1734585499,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 304352,
+        "num": 245012,
+        "word": "大学生恋爱四个月花费近60万",
+        "onboard_time": 1734577878,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242913,
+        "num": 242913,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212284,
+        "num": 212284,
+        "word": "900多吨智利车厘子来了",
+        "onboard_time": 1734578059,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195350,
+        "num": 195350,
+        "word": "制止4条大型犬咬人男子系饲养员",
+        "onboard_time": 1734580457,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192157,
+        "num": 192157,
+        "word": "全红婵加入崔宸曦王楚钦群聊",
+        "onboard_time": 1734586400,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171195,
+        "num": 171195,
+        "word": "张家界文旅局发文致谢张艺兴",
+        "onboard_time": 1734575838,
+        "rank": 41,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 61019,
+        "num": 159112,
+        "word": "金铲铲 圣诞树",
+        "onboard_time": 1734586160,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 151909,
+        "word": "名创优品恋与深空联名价格",
+        "onboard_time": 1734578478,
+        "rank": 43,
+        "category": "时尚,游戏"
+      },
+      {
+        "raw_hot": 149461,
+        "num": 149461,
+        "word": "张颂文演技",
+        "onboard_time": 1734580878,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143682,
+        "num": 143682,
+        "word": "孟子义哭戏",
+        "onboard_time": 1734582680,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140037,
+        "num": 140037,
+        "word": "崔宸曦回复王楚钦刀削面表情包",
+        "onboard_time": 1734583580,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138139,
+        "num": 138139,
+        "word": "余华英5000元卖儿子说是赚点营养费",
+        "onboard_time": 1734573797,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136237,
+        "num": 136237,
+        "word": "光遇",
+        "onboard_time": 1734581359,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132686,
+        "num": 132686,
+        "word": "男子骚扰同事被开除公司赔偿3万9",
+        "onboard_time": 1734583520,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}
