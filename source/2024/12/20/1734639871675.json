@@ -1,0 +1,410 @@
+{
+  "runTime": 1734639871675,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 93433,
+        "num": 93433,
+        "word": "女子戴耳钉时突然失去意识倒地",
+        "onboard_time": 1734625517,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70062,
+        "num": 70062,
+        "word": "气象人士呼吁南方人最近别天天洗澡",
+        "onboard_time": 1734624077,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12006,
+        "num": 67677,
+        "word": "随手拍都好看的澳门骑楼有多出片",
+        "onboard_time": 1734614960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66192,
+        "num": 66192,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49780,
+        "num": 49780,
+        "word": "普京称俄愿在乌克兰问题上妥协",
+        "onboard_time": 1734621678,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47928,
+        "num": 47928,
+        "word": "女子暂不结婚朋友退还2000元份子钱",
+        "onboard_time": 1734619160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45613,
+        "num": 45613,
+        "word": "庆祝澳门回归25周年",
+        "onboard_time": 1734615080,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40363,
+        "num": 40363,
+        "word": "一笑倾国已删除退网内容",
+        "onboard_time": 1734627135,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33587,
+        "num": 33587,
+        "word": "朋友婚后3年返还2000元结婚礼金",
+        "onboard_time": 1734622820,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24904,
+        "num": 24904,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38396,
+        "num": 24888,
+        "word": "恒源祥直播间女主播穿着暴露引争议",
+        "onboard_time": 1734611418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36899,
+        "num": 24833,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34865,
+        "num": 24810,
+        "word": "小米su7掉落山崖",
+        "onboard_time": 1734619820,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31124,
+        "num": 24734,
+        "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+        "onboard_time": 1734617899,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24718,
+        "num": 24718,
+        "word": "九重紫好甜",
+        "onboard_time": 1734613699,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22803,
+        "num": 22803,
+        "word": "男子开跑车进高校玩漂移压坏草坪",
+        "onboard_time": 1734629114,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21281,
+        "num": 21281,
+        "word": "猎罪图鉴是得罪图鉴吧",
+        "onboard_time": 1734624497,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20454,
+        "num": 20454,
+        "word": "专家称物业费税费也应按套内面积算",
+        "onboard_time": 1734625637,
+        "rank": 17,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 20418,
+        "num": 20418,
+        "word": "周扬青粉色卡皮巴拉圣诞树",
+        "onboard_time": 1734614660,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19493,
+        "num": 20379,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79172,
+        "num": 20340,
+        "word": "业内人士曝张继科代言费",
+        "onboard_time": 1734621559,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60676,
+        "num": 20235,
+        "word": "疑似李行亮已黑化",
+        "onboard_time": 1734617839,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26113,
+        "num": 20180,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24692,
+        "num": 20145,
+        "word": "越来越多年轻人开始反向消费",
+        "onboard_time": 1734615979,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18386,
+        "num": 20063,
+        "word": "一人一句祝福祖国祝福澳门",
+        "onboard_time": 1734624977,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23420,
+        "num": 20003,
+        "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+        "onboard_time": 1734618319,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11881,
+        "num": 19918,
+        "word": "布林肯承认美在伊朗搞政权更迭实验",
+        "onboard_time": 1734639071,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19883,
+        "num": 19883,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19628,
+        "num": 19628,
+        "word": "5件事让人生闪闪发光",
+        "onboard_time": 1734622758,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18563,
+        "num": 19268,
+        "word": "唐探1900定档",
+        "onboard_time": 1734608238,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19261,
+        "num": 19261,
+        "word": "这首我爱你中国是我们共同的表白",
+        "onboard_time": 1734623959,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18782,
+        "num": 18782,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18731,
+        "num": 18731,
+        "word": "将门毒后出生",
+        "onboard_time": 1734616759,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17365,
+        "num": 17365,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17157,
+        "num": 17157,
+        "word": "做一次CT对身体辐射有多大",
+        "onboard_time": 1734617779,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16417,
+        "num": 16417,
+        "word": "取消公摊后物业费税费咋算",
+        "onboard_time": 1734620360,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 16384,
+        "num": 16384,
+        "word": "王者荣耀重度依赖头像框",
+        "onboard_time": 1734623176,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16297,
+        "num": 16297,
+        "word": "猎罪图鉴2闵雪案疑点重重",
+        "onboard_time": 1734624379,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16155,
+        "num": 16155,
+        "word": "时装男士声明",
+        "onboard_time": 1734621198,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 15677,
+        "num": 15677,
+        "word": "探索新境展现人与心境的坦诚对话",
+        "onboard_time": 1734627974,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14810,
+        "num": 14810,
+        "word": "普京召开年度记者会",
+        "onboard_time": 1734634813,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14653,
+        "num": 14653,
+        "word": "推进取消公摊不要只看到拉动楼市",
+        "onboard_time": 1734621258,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14652,
+        "num": 14652,
+        "word": "星光大赏星光墙榜单前五",
+        "onboard_time": 1734608419,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14643,
+        "num": 14643,
+        "word": "丁禹兮说体验过灰姑娘",
+        "onboard_time": 1734618381,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14608,
+        "num": 14608,
+        "word": "濠江欢歌向未来",
+        "onboard_time": 1734627915,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13787,
+        "num": 14607,
+        "word": "碎仔派对",
+        "onboard_time": 1734618801,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13733,
+        "num": 14607,
+        "word": "中国代表当场驳斥美方歪曲抹黑",
+        "onboard_time": 1734634452,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13729,
+        "num": 14606,
+        "word": "相信澳门明天会更好",
+        "onboard_time": 1734624800,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13403,
+        "num": 14606,
+        "word": "现在考研人都在干什么",
+        "onboard_time": 1734616640,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12983,
+        "num": 14605,
+        "word": "余华英庭审现场态度恶劣没有道歉",
+        "onboard_time": 1734638891,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对澳门的3点期许#"
+    }
+  }
+}

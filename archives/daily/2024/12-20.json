@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734636952530,
+  "endTime": 1734639871675,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -547,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12983,
+      "num": 14605,
+      "word": "余华英庭审现场态度恶劣没有道歉",
+      "onboard_time": 1734638891,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12278,
       "num": 72499,
       "word": "马龙说太熟悉厦门了",
       "onboard_time": 1734627675,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11881,
+      "num": 19918,
+      "word": "布林肯承认美在伊朗搞政权更迭实验",
+      "onboard_time": 1734639071,
+      "rank": 26,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
