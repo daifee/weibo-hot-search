@@ -1,0 +1,410 @@
+{
+  "runTime": 1734583344801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280472,
+        "num": 1280472,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 669296,
+        "num": 669296,
+        "word": "光遇",
+        "onboard_time": 1734581359,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54825,
+        "num": 560567,
+        "word": "120秒看璀璨澳门",
+        "onboard_time": 1734580579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497728,
+        "num": 497728,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 487897,
+        "num": 487897,
+        "word": "肖战黑西装长发",
+        "onboard_time": 1734581840,
+        "rank": 4,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 480199,
+        "num": 480199,
+        "word": "900多吨智利车厘子来了",
+        "onboard_time": 1734578059,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479162,
+        "num": 479162,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 451003,
+        "num": 451003,
+        "word": "名创优品恋与深空联名价格",
+        "onboard_time": 1734578478,
+        "rank": 7,
+        "category": "时尚,游戏"
+      },
+      {
+        "raw_hot": 370872,
+        "num": 370872,
+        "word": "张颂文演技",
+        "onboard_time": 1734580878,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160719,
+        "num": 369464,
+        "word": "比特币狂泻超6000美元",
+        "onboard_time": 1734581120,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1377625,
+        "num": 367823,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 10,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 940730,
+        "num": 366887,
+        "word": "男生疑遭霸凌求助被无视后跳楼身亡",
+        "onboard_time": 1734579857,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 877183,
+        "num": 365244,
+        "word": "男子给已婚同事发么么哒被辞退",
+        "onboard_time": 1734580878,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54577,
+        "num": 364221,
+        "word": "杨妞花说不需要靠着热度生活",
+        "onboard_time": 1734581720,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76053,
+        "num": 362605,
+        "word": "在1688上拿货被厂长拜年了",
+        "onboard_time": 1734580820,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429800,
+        "num": 360780,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 359324,
+        "num": 359324,
+        "word": "李现背十公斤摄影设备徒步",
+        "onboard_time": 1734578899,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284599,
+        "num": 284599,
+        "word": "张家界文旅局发文致谢张艺兴",
+        "onboard_time": 1734575838,
+        "rank": 17,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 86697,
+        "num": 265848,
+        "word": "当地回应网传要求全县公职人员捐款",
+        "onboard_time": 1734582260,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 23813,
+        "num": 256500,
+        "word": "谁能拒绝这波年末好运呢",
+        "onboard_time": 1734581298,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827021,
+        "num": 254134,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248517,
+        "num": 248517,
+        "word": "再见爱人",
+        "onboard_time": 1734582500,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261630,
+        "num": 248316,
+        "word": "李子璇古装扮相",
+        "onboard_time": 1734580158,
+        "rank": 22,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 266853,
+        "num": 248138,
+        "word": "李小冉让贺峻霖叫爸",
+        "onboard_time": 1734581720,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 139957,
+        "num": 247651,
+        "word": "DYG",
+        "onboard_time": 1734577878,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 225355,
+        "num": 247299,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102554,
+        "num": 246946,
+        "word": "于适潜水短片",
+        "onboard_time": 1734582199,
+        "rank": 26,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 53088,
+        "num": 246425,
+        "word": "最美的夜老朋友阵容官宣",
+        "onboard_time": 1734581899,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188716,
+        "num": 246100,
+        "word": "孟子义哭戏",
+        "onboard_time": 1734582680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96171,
+        "num": 245870,
+        "word": "余华英案第十七位被拐儿童参与旁听",
+        "onboard_time": 1734581780,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583175,
+        "num": 245551,
+        "word": "大学生恋爱四个月花费近60万",
+        "onboard_time": 1734577878,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480919,
+        "num": 245086,
+        "word": "母亲带3岁娃公园散步被4条恶犬按地撕咬",
+        "onboard_time": 1734580758,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408224,
+        "num": 244746,
+        "word": "一笑倾城聊天记录",
+        "onboard_time": 1734566839,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 362003,
+        "num": 244548,
+        "word": "澳门科技大学",
+        "onboard_time": 1734582140,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330045,
+        "num": 244133,
+        "word": "余华英5000元卖儿子说是赚点营养费",
+        "onboard_time": 1734573797,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243973,
+        "num": 243973,
+        "word": "两个国际张双向奔赴",
+        "onboard_time": 1734575838,
+        "rank": 35,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 232346,
+        "num": 232346,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1734582981,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217529,
+        "num": 217529,
+        "word": "制止4条大型犬咬人男子系饲养员",
+        "onboard_time": 1734580457,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142564,
+        "num": 216009,
+        "word": "李昊傻傻的兄弟还有开心的我",
+        "onboard_time": 1734581899,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214972,
+        "num": 214972,
+        "word": "吴昕 死嘴快说",
+        "onboard_time": 1734582859,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214145,
+        "num": 214145,
+        "word": "何老师亲自玩自己的梗",
+        "onboard_time": 1734582440,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "虞书欣 自己的丑自己揭",
+        "onboard_time": 1734568280,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193915,
+        "num": 193915,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 190738,
+        "num": 190738,
+        "word": "香飘飘招聘线下奶茶店店员",
+        "onboard_time": 1734578538,
+        "rank": 43,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 186983,
+        "num": 186983,
+        "word": "误杀3提档至12月28日",
+        "onboard_time": 1734577819,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177974,
+        "num": 177974,
+        "word": "谢楠 我认识李川那时候他不这样",
+        "onboard_time": 1734583101,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174714,
+        "num": 174714,
+        "word": "别人是跨晚周深是回家",
+        "onboard_time": 1734581239,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170397,
+        "num": 170397,
+        "word": "谢芳逝世",
+        "onboard_time": 1734572237,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169214,
+        "num": 169214,
+        "word": "100平方米的房子得房率可能达100%",
+        "onboard_time": 1734575597,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158766,
+        "num": 158766,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}
