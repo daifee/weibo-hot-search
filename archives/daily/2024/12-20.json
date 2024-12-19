@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734629873002,
+  "endTime": 1734633041282,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -307,6 +307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 86772,
+      "num": 86772,
+      "word": "男子开跑车进高校玩漂移压坏草坪",
+      "onboard_time": 1734629114,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85071,
       "num": 85071,
       "word": "推进取消公摊不要只看到拉动楼市",
@@ -451,14 +459,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 34203,
-      "num": 45718,
-      "word": "男子开跑车进高校玩漂移压坏草坪",
-      "onboard_time": 1734629114,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28760,
       "num": 45561,
       "word": "灿烂的风和海",
@@ -476,11 +476,35 @@
     },
     {
       "raw_hot": 26876,
-      "num": 45504,
+      "num": 86368,
       "word": "专家称物业费税费也应按套内面积算",
       "onboard_time": 1734625637,
       "rank": 49,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 22243,
+      "num": 23269,
+      "word": "小小的我预售破4000w",
+      "onboard_time": 1734631872,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20694,
+      "num": 23267,
+      "word": "丁禹兮说体验过灰姑娘",
+      "onboard_time": 1734618381,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19855,
+      "num": 23266,
+      "word": "碎仔派对",
+      "onboard_time": 1734618801,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 14921,
