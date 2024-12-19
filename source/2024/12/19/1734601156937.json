@@ -1,0 +1,410 @@
+{
+  "runTime": 1734601156937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 719970,
+        "num": 1115195,
+        "word": "江西赣州警方通报母女被恶犬咬伤",
+        "onboard_time": 1734598398,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 536343,
+        "num": 536343,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24121,
+        "num": 533265,
+        "word": "6个关键词看祖国的掌上明珠澳门",
+        "onboard_time": 1734579378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1979554,
+        "num": 528063,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729102,
+        "num": 524752,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579935,
+        "num": 515931,
+        "word": "余华英死刑宣判现场",
+        "onboard_time": 1734594678,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514821,
+        "num": 514821,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395585,
+        "num": 395585,
+        "word": "李昀锐亲完开心的跷脚",
+        "onboard_time": 1734596598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264717,
+        "num": 264717,
+        "word": "广州新机场要来了",
+        "onboard_time": 1734597438,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258838,
+        "num": 258838,
+        "word": "杨仕泽为什么插祝绪丹的兜",
+        "onboard_time": 1734593478,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 246885,
+        "word": "华为尊界尊在哪里",
+        "onboard_time": 1734599119,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1288522,
+        "num": 244116,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270148,
+        "num": 243010,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235954,
+        "num": 235954,
+        "word": "被拐家庭称余华英还是不服判决",
+        "onboard_time": 1734599838,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33094,
+        "num": 234806,
+        "word": "2024年度理财现象",
+        "onboard_time": 1734598819,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233876,
+        "num": 233876,
+        "word": "惠英红 给每一个美女一个名分",
+        "onboard_time": 1734598339,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220860,
+        "num": 220860,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208979,
+        "num": 208979,
+        "word": "张杰感谢丁禹兮",
+        "onboard_time": 1734589159,
+        "rank": 17,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 177742,
+        "num": 177742,
+        "word": "脑瘫会遗传给下一代吗",
+        "onboard_time": 1734596478,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134368,
+        "num": 173603,
+        "word": "换了套房发现房贷不能抵扣个税了",
+        "onboard_time": 1734597678,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21813,
+        "num": 173033,
+        "word": "智界R7首搭华为智能静音增程系统",
+        "onboard_time": 1734598398,
+        "rank": 20,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 255494,
+        "num": 173033,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172845,
+        "num": 172845,
+        "word": "人工耳蜗国家集采",
+        "onboard_time": 1734596598,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168200,
+        "num": 168200,
+        "word": "网剧冬至",
+        "onboard_time": 1734587960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128425,
+        "num": 167558,
+        "word": "时装男士",
+        "onboard_time": 1734600499,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 82642,
+        "num": 167354,
+        "word": "倪萍说刘晓庆精力旺盛",
+        "onboard_time": 1734599659,
+        "rank": 25,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 55064,
+        "num": 167332,
+        "word": "郭采洁 语塞的时候靠表情包",
+        "onboard_time": 1734597978,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167332,
+        "num": 167331,
+        "word": "赣州公园恶犬伤人2人被采取强制措施",
+        "onboard_time": 1734599720,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 164018,
+        "word": "李昀锐 封神训练营",
+        "onboard_time": 1734596657,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56334,
+        "num": 161287,
+        "word": "偶尔说脏话对心理有益",
+        "onboard_time": 1734599959,
+        "rank": 29,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 43430,
+        "num": 161278,
+        "word": "余华英给12个家庭带来一生伤痛",
+        "onboard_time": 1734599180,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161270,
+        "num": 161270,
+        "word": "贺峻霖 包的啊奶奶",
+        "onboard_time": 1734597978,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160699,
+        "num": 160699,
+        "word": "全红婵东奥夺冠后才知妈妈生什么病",
+        "onboard_time": 1734594438,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148441,
+        "num": 148441,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 33,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 147447,
+        "num": 147447,
+        "word": "北约已从美国手中接管对乌支持工作",
+        "onboard_time": 1734596059,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144403,
+        "num": 144403,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "留几手放狠话全被葛夕听到了",
+        "onboard_time": 1734597799,
+        "rank": 36,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 127898,
+        "num": 127898,
+        "word": "樊振东球迷会发声明",
+        "onboard_time": 1734592517,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127037,
+        "num": 127037,
+        "word": "猎罪小分队hi6合体",
+        "onboard_time": 1734597319,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122948,
+        "num": 122948,
+        "word": "哈尔滨波司登大秀",
+        "onboard_time": 1734599720,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 119452,
+        "word": "用人民币感受英国工资水平",
+        "onboard_time": 1734596059,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 117729,
+        "num": 117729,
+        "word": "刘浩存文淇 决战双强之巅",
+        "onboard_time": 1734600918,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114202,
+        "num": 114202,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 112512,
+        "num": 112512,
+        "word": "谭松韵南诏神女妆造",
+        "onboard_time": 1734594139,
+        "rank": 43,
+        "category": "剧集,休闲"
+      },
+      {
+        "raw_hot": 109310,
+        "num": 109310,
+        "word": "冰雪大世界回应臻享双人票涨至3988",
+        "onboard_time": 1734598939,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28793,
+        "num": 108121,
+        "word": "用做高定的思路做一件羽绒服",
+        "onboard_time": 1734598759,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 107314,
+        "num": 107314,
+        "word": "要保证0时0分0秒升国旗奏国歌",
+        "onboard_time": 1734600259,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106222,
+        "num": 106222,
+        "word": "猎罪图鉴2闺蜜案看爽了",
+        "onboard_time": 1734599297,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104308,
+        "num": 104308,
+        "word": "派派 拖米",
+        "onboard_time": 1734598279,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 102177,
+        "word": "张杰感谢李现",
+        "onboard_time": 1734596119,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门是祖国的掌上明珠#"
+    }
+  }
+}
