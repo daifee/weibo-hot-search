@@ -1,0 +1,410 @@
+{
+  "runTime": 1734579404857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253012,
+        "num": 1253012,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 689364,
+        "num": 689364,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7018,
+        "num": 639626,
+        "word": "6个关键词看祖国的掌上明珠澳门",
+        "onboard_time": 1734579378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633918,
+        "num": 633918,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 569526,
+        "num": 569526,
+        "word": "余华英5000元卖儿子说是赚点营养费",
+        "onboard_time": 1734573797,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478388,
+        "num": 478388,
+        "word": "张家界文旅局发文致谢张艺兴",
+        "onboard_time": 1734575838,
+        "rank": 5,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 21383,
+        "num": 477310,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 427564,
+        "num": 472277,
+        "word": "误杀3提档至12月28日",
+        "onboard_time": 1734577819,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203544,
+        "num": 463090,
+        "word": "取消公摊坚定购房者信心",
+        "onboard_time": 1734576378,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9963,
+        "num": 454044,
+        "word": "我国航空公司完成旅客运输量创新高",
+        "onboard_time": 1734579378,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 453977,
+        "num": 453977,
+        "word": "100平方米的房子得房率可能达100%",
+        "onboard_time": 1734575597,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445483,
+        "num": 445483,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1586001,
+        "num": 443153,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 1194832,
+        "num": 439356,
+        "word": "李昀锐手指被审判",
+        "onboard_time": 1734576798,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51534,
+        "num": 431080,
+        "word": "杨妞花说借余华英案能帮一个是一个",
+        "onboard_time": 1734578779,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859606,
+        "num": 425750,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425176,
+        "num": 425176,
+        "word": "谢芳逝世",
+        "onboard_time": 1734572237,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399623,
+        "num": 399623,
+        "word": "虞书欣 自己的丑自己揭",
+        "onboard_time": 1734568280,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81500,
+        "num": 370276,
+        "word": "虞书欣说新歌会有challenge",
+        "onboard_time": 1734578420,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26309,
+        "num": 362141,
+        "word": "杨妞花说将追击到底不怕人贩子报复",
+        "onboard_time": 1734579258,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355208,
+        "num": 355208,
+        "word": "一笑倾城聊天记录",
+        "onboard_time": 1734566839,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 340152,
+        "num": 340152,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365024,
+        "num": 332109,
+        "word": "大学生恋爱四个月花费近60万",
+        "onboard_time": 1734577878,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199041,
+        "num": 324908,
+        "word": "王俊凯加盟官宣江苏卫视跨年",
+        "onboard_time": 1734579258,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53872,
+        "num": 323365,
+        "word": "Steam2024年度回顾",
+        "onboard_time": 1734578657,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322841,
+        "num": 322841,
+        "word": "两个国际张双向奔赴",
+        "onboard_time": 1734575838,
+        "rank": 25,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 250972,
+        "num": 313082,
+        "word": "卡车司机对猫猫说来生做我女儿",
+        "onboard_time": 1734577279,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198704,
+        "num": 302457,
+        "word": "张馨予清密出场镜头",
+        "onboard_time": 1734578118,
+        "rank": 27,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 193857,
+        "num": 293513,
+        "word": "张艺兴新片饰演聋人父亲",
+        "onboard_time": 1734578358,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27716,
+        "num": 283778,
+        "word": "杨妞花谈到自己三年来的变化",
+        "onboard_time": 1734579018,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280866,
+        "num": 280866,
+        "word": "曾经打过的羽毛球正钻入你的羽绒服",
+        "onboard_time": 1734568880,
+        "rank": 30,
+        "category": "舆论监督,舆论监督"
+      },
+      {
+        "raw_hot": 75556,
+        "num": 280235,
+        "word": "电影真爱营业定档",
+        "onboard_time": 1734578657,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280196,
+        "num": 280196,
+        "word": "名创优品恋与深空联名价格",
+        "onboard_time": 1734578478,
+        "rank": 32,
+        "category": "时尚,游戏"
+      },
+      {
+        "raw_hot": 246396,
+        "num": 246396,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207499,
+        "num": 207499,
+        "word": "香飘飘招聘线下奶茶店店员",
+        "onboard_time": 1734578538,
+        "rank": 34,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 207094,
+        "num": 207094,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175234,
+        "num": 175234,
+        "word": "DYG",
+        "onboard_time": 1734577878,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171740,
+        "num": 171740,
+        "word": "美媒爆称马斯克因涉密问题被军方审查",
+        "onboard_time": 1734575897,
+        "rank": 37,
+        "category": "国际时政,民生新闻"
+      },
+      {
+        "raw_hot": 133842,
+        "num": 168545,
+        "word": "李现背十公斤摄影设备徒步",
+        "onboard_time": 1734578899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167266,
+        "num": 167266,
+        "word": "崔宸曦生日王楚钦留言快乐小滑板",
+        "onboard_time": 1734575237,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159123,
+        "num": 159123,
+        "word": "江苏卫视跨年第四波阵容",
+        "onboard_time": 1734577938,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156934,
+        "num": 156934,
+        "word": "苟仲文被逮捕",
+        "onboard_time": 1734575119,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151405,
+        "num": 151405,
+        "word": "Ning想去iG当战地记者",
+        "onboard_time": 1734575539,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145332,
+        "num": 145332,
+        "word": "极越高管回应员工万字怒怼CEO",
+        "onboard_time": 1734573859,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142335,
+        "num": 142335,
+        "word": "夏之光 剧透了",
+        "onboard_time": 1734571819,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140223,
+        "num": 140223,
+        "word": "跑男把母带翻冒烟了",
+        "onboard_time": 1734569359,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139757,
+        "num": 139757,
+        "word": "诛仙世界",
+        "onboard_time": 1734574277,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139333,
+        "num": 139333,
+        "word": "妈妈带娃体验流放宁古塔",
+        "onboard_time": 1734577038,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "浙江卫视跨年阵容超强续航",
+        "onboard_time": 1734577097,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130797,
+        "num": 130797,
+        "word": "澳门市民说解放军在非常有安全感",
+        "onboard_time": 1734568939,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门是祖国的掌上明珠#"
+    }
+  }
+}

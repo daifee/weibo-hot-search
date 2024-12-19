@@ -1,10 +1,10 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734577799492,
+  "endTime": 1734579404857,
   "band_list": [
     {
       "raw_hot": 2425195,
-      "num": 353166,
+      "num": 443153,
       "word": "冉莹颖儿子打生长激素25天情绪崩溃",
       "onboard_time": 1734575778,
       "rank": 11,
@@ -12,11 +12,27 @@
     },
     {
       "raw_hot": 1522973,
-      "num": 351101,
+      "num": 425750,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1253012,
+      "num": 1253012,
+      "word": "网红收入超千万报税竟未达5000元",
+      "onboard_time": 1734576498,
+      "rank": 22,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1194832,
+      "num": 439356,
+      "word": "李昀锐手指被审判",
+      "onboard_time": 1734576798,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 972316,
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 807193,
-      "num": 345566,
+      "num": 355208,
       "word": "一笑倾城聊天记录",
       "onboard_time": 1734566839,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 743642,
-      "num": 348314,
-      "word": "李昀锐手指被审判",
-      "onboard_time": 1734576798,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 728034,
@@ -89,6 +97,14 @@
       "onboard_time": 1734573797,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689364,
+      "num": 689364,
+      "word": "美国股市巨震",
+      "onboard_time": 1734574399,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 680936,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 545539,
-      "num": 343594,
+      "num": 399623,
       "word": "虞书欣 自己的丑自己揭",
       "onboard_time": 1734568280,
       "rank": 15,
@@ -155,6 +171,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 453977,
+      "num": 453977,
+      "word": "100平方米的房子得房率可能达100%",
+      "onboard_time": 1734575597,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 427564,
+      "num": 472277,
+      "word": "误杀3提档至12月28日",
+      "onboard_time": 1734577819,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 411756,
       "num": 280042,
       "word": "知情人回应虎牙女主播酷萱遇害案",
@@ -179,20 +211,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 372259,
-      "num": 372259,
-      "word": "100平方米的房子得房率可能达100%",
-      "onboard_time": 1734575597,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367819,
       "num": 367819,
       "word": "跑男把母带翻冒烟了",
       "onboard_time": 1734569359,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365024,
+      "num": 332109,
+      "word": "大学生恋爱四个月花费近60万",
+      "onboard_time": 1734577878,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363431,
@@ -217,14 +249,6 @@
       "onboard_time": 1734527781,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343282,
-      "num": 343282,
-      "word": "网红收入超千万报税竟未达5000元",
-      "onboard_time": 1734576498,
-      "rank": 22,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 343047,
@@ -267,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280196,
+      "num": 280196,
+      "word": "名创优品恋与深空联名价格",
+      "onboard_time": 1734578478,
+      "rank": 32,
+      "category": "时尚,游戏"
+    },
+    {
       "raw_hot": 273414,
       "num": 273414,
       "word": "90后男子跑大卡车6年买房买车",
@@ -291,12 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251860,
-      "num": 251860,
-      "word": "美国股市巨震",
-      "onboard_time": 1734574399,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 250972,
+      "num": 313082,
+      "word": "卡车司机对猫猫说来生做我女儿",
+      "onboard_time": 1734577279,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 242949,
@@ -355,6 +387,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207499,
+      "num": 207499,
+      "word": "香飘飘招聘线下奶茶店店员",
+      "onboard_time": 1734578538,
+      "rank": 34,
+      "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 203544,
+      "num": 463090,
+      "word": "取消公摊坚定购房者信心",
+      "onboard_time": 1734576378,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202036,
       "num": 202036,
       "word": "2025春节档电影票房预测",
@@ -371,12 +419,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199041,
+      "num": 324908,
+      "word": "王俊凯加盟官宣江苏卫视跨年",
+      "onboard_time": 1734579258,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198837,
       "num": 198837,
       "word": "苟仲文被逮捕",
       "onboard_time": 1734575119,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198704,
+      "num": 302457,
+      "word": "张馨予清密出场镜头",
+      "onboard_time": 1734578118,
+      "rank": 27,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 196862,
@@ -393,6 +457,14 @@
       "onboard_time": 1734573139,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193857,
+      "num": 293513,
+      "word": "张艺兴新片饰演聋人父亲",
+      "onboard_time": 1734578358,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 193301,
@@ -443,14 +515,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 183151,
-      "num": 183151,
-      "word": "取消公摊坚定购房者信心",
-      "onboard_time": 1734576378,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182721,
       "num": 182721,
       "word": "伊朗男子街头戳刺女性被判死刑",
@@ -483,12 +547,12 @@
       "category": "国际时政,民生新闻"
     },
     {
-      "raw_hot": 172966,
-      "num": 179859,
-      "word": "卡车司机对猫猫说来生做我女儿",
-      "onboard_time": 1734577279,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 175234,
+      "num": 175234,
+      "word": "DYG",
+      "onboard_time": 1734577878,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 166526,
@@ -521,6 +585,14 @@
       "onboard_time": 1734573859,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159123,
+      "num": 159123,
+      "word": "江苏卫视跨年第四波阵容",
+      "onboard_time": 1734577938,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 155222,
@@ -563,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139333,
+      "num": 139333,
+      "word": "妈妈带娃体验流放宁古塔",
+      "onboard_time": 1734577038,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 133842,
+      "num": 168545,
+      "word": "李现背十公斤摄影设备徒步",
+      "onboard_time": 1734578899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132795,
       "num": 132795,
       "word": "取消公摊对得房率有何影响",
@@ -577,14 +665,6 @@
       "onboard_time": 1734576438,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 129397,
-      "num": 129397,
-      "word": "妈妈带娃体验流放宁古塔",
-      "onboard_time": 1734577038,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 127218,
@@ -875,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81500,
+      "num": 370276,
+      "word": "虞书欣说新歌会有challenge",
+      "onboard_time": 1734578420,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 79009,
       "num": 92577,
       "word": "IG16分钟推平RNG",
@@ -889,6 +977,14 @@
       "onboard_time": 1734537078,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75556,
+      "num": 280235,
+      "word": "电影真爱营业定档",
+      "onboard_time": 1734578657,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 75449,
@@ -1035,6 +1131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53872,
+      "num": 323365,
+      "word": "Steam2024年度回顾",
+      "onboard_time": 1734578657,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51534,
+      "num": 431080,
+      "word": "杨妞花说借余华英案能帮一个是一个",
+      "onboard_time": 1734578779,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48676,
       "num": 237104,
       "word": "上百个寻亲家庭沿路为杨妞花加油",
@@ -1137,6 +1249,22 @@
       "onboard_time": 1734573859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27716,
+      "num": 283778,
+      "word": "杨妞花谈到自己三年来的变化",
+      "onboard_time": 1734579018,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26309,
+      "num": 362141,
+      "word": "杨妞花说将追击到底不怕人贩子报复",
+      "onboard_time": 1734579258,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23549,
@@ -1307,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9963,
+      "num": 454044,
+      "word": "我国航空公司完成旅客运输量创新高",
+      "onboard_time": 1734579378,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 9858,
       "num": 56621,
       "word": "2025考研倒计时3天",
@@ -1321,6 +1457,14 @@
       "onboard_time": 1734545592,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7018,
+      "num": 639626,
+      "word": "6个关键词看祖国的掌上明珠澳门",
+      "onboard_time": 1734579378,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -1329,6 +1473,9 @@
     },
     {
       "word": "#习近平在澳门会见贺一诚#"
+    },
+    {
+      "word": "#澳门是祖国的掌上明珠#"
     }
   ]
 }
