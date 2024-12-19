@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734564976630,
+  "endTime": 1734572897423,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1733127920,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1522973,
+      "num": 233152,
+      "word": "脑瘫女孩备孕被质疑不负责",
+      "onboard_time": 1734567980,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1520370,
@@ -3835,6 +3843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 972316,
+      "num": 459920,
+      "word": "曾经打过的羽毛球正钻入你的羽绒服",
+      "onboard_time": 1734568880,
+      "rank": 3,
+      "category": "舆论监督,舆论监督"
+    },
+    {
       "raw_hot": 972076,
       "num": 1155532,
       "word": "现在拨打的电话",
@@ -3985,6 +4001,14 @@
       "onboard_time": 1733476822,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 950429,
+      "num": 1152068,
+      "word": "多地官宣将取消公摊",
+      "onboard_time": 1734534080,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 949372,
@@ -4683,6 +4707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 864109,
+      "num": 232698,
+      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
+      "onboard_time": 1734563655,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 863900,
       "num": 524747,
       "word": "禹宙中欣",
@@ -4793,14 +4825,6 @@
       "onboard_time": 1733202860,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 855000,
-      "num": 939317,
-      "word": "多地官宣将取消公摊",
-      "onboard_time": 1734534080,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 853572,
@@ -5241,6 +5265,14 @@
       "onboard_time": 1734491540,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 807193,
+      "num": 230647,
+      "word": "一笑倾城聊天记录",
+      "onboard_time": 1734566839,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 806753,
@@ -6809,6 +6841,14 @@
       "onboard_time": 1734532281,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 680936,
+      "num": 228707,
+      "word": "男子帮母亲虐待饿死弟弟获刑100年",
+      "onboard_time": 1734569539,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 680695,
@@ -9283,6 +9323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545539,
+      "num": 225814,
+      "word": "虞书欣 自己的丑自己揭",
+      "onboard_time": 1734568280,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545503,
       "num": 545503,
       "word": "好友生日女子送50克金条遭背刺",
@@ -11555,6 +11603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458318,
+      "num": 458318,
+      "word": "澳门市民说解放军在非常有安全感",
+      "onboard_time": 1734568939,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 458060,
       "num": 558992,
       "word": "虞书欣视频在卖什么关子",
@@ -12627,6 +12683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424072,
+      "num": 170038,
+      "word": "27岁男子因经济纠纷杀害虎牙女主播",
+      "onboard_time": 1734572118,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 423917,
       "num": 313385,
       "word": "爱奇艺尖叫之夜荣誉",
@@ -13081,6 +13145,14 @@
       "onboard_time": 1732974799,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411756,
+      "num": 225141,
+      "word": "知情人回应虎牙女主播酷萱遇害案",
+      "onboard_time": 1734568518,
+      "rank": 16,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 411326,
@@ -14275,6 +14347,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 374373,
+      "num": 374373,
+      "word": "一千克羽毛球做5件羽绒服",
+      "onboard_time": 1734563715,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 374049,
       "num": 331374,
       "word": "原来串串房内部是这样的",
@@ -14465,6 +14545,14 @@
       "onboard_time": 1733975720,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367819,
+      "num": 367819,
+      "word": "跑男把母带翻冒烟了",
+      "onboard_time": 1734569359,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 367723,
@@ -19323,14 +19411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265142,
-      "num": 168009,
-      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
-      "onboard_time": 1734563655,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265012,
       "num": 265012,
       "word": "叙利亚总理同意将权力移交给反对派",
@@ -20017,6 +20097,14 @@
       "onboard_time": 1733651359,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253137,
+      "num": 253137,
+      "word": "夏之光 剧透了",
+      "onboard_time": 1734571819,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 253030,
@@ -23099,6 +23187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 219352,
+      "num": 219352,
+      "word": "玄彬说儿子像孙艺珍",
+      "onboard_time": 1734569421,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219331,
       "num": 390076,
       "word": "王楚钦提醒林诗栋挑战",
@@ -24387,6 +24483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208155,
+      "num": 208155,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208115,
       "num": 216480,
       "word": "肖秀荣 最新时政补充",
@@ -25497,6 +25601,14 @@
       "onboard_time": 1733022018,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202036,
+      "num": 202036,
+      "word": "2025春节档电影票房预测",
+      "onboard_time": 1734566598,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 201936,
@@ -31947,14 +32059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170357,
-      "num": 170357,
-      "word": "一千克羽毛球做5件羽绒服",
-      "onboard_time": 1734563715,
-      "rank": 24,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 170330,
       "num": 285640,
       "word": "林孝埈为大众冰雪季打call",
@@ -32809,6 +32913,14 @@
       "onboard_time": 1733648780,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166526,
+      "num": 166526,
+      "word": "AI修复解放军进驻澳门珍贵画面",
+      "onboard_time": 1734568339,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166505,
@@ -34321,6 +34433,14 @@
       "onboard_time": 1733722940,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 159737,
+      "num": 159737,
+      "word": "伊朗男子街头戳刺女性被判死刑",
+      "onboard_time": 1734569959,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159736,
@@ -35920,6 +36040,14 @@
       "word": "男子擅自进入他人装修别墅摔伤索赔16万",
       "onboard_time": 1733980100,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153402,
+      "num": 153402,
+      "word": "他好像摸了一下魔方就复原了",
+      "onboard_time": 1734536539,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -38731,6 +38859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141386,
+      "num": 141386,
+      "word": "余华英第六次出庭受审",
+      "onboard_time": 1734571697,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "李马克歌词",
@@ -39817,6 +39953,14 @@
       "onboard_time": 1733134639,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136486,
+      "num": 227680,
+      "word": "余华英被押解到法院",
+      "onboard_time": 1734572597,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136481,
@@ -42099,6 +42243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125236,
+      "num": 244567,
+      "word": "起底偷税749万网红柏公子",
+      "onboard_time": 1734530780,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125219,
       "num": 318134,
       "word": "沈梦瑶成立个人公司",
@@ -43427,6 +43579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119281,
+      "num": 119281,
+      "word": "男子殴打女乘客南京司机照死压制",
+      "onboard_time": 1734563655,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119245,
       "num": 119245,
       "word": "冬游四川直播",
@@ -43987,6 +44147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115998,
+      "num": 234436,
+      "word": "余华英案件重审二审",
+      "onboard_time": 1734572538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115763,
       "num": 534762,
       "word": "兵马俑已出差全世界49个国家和地区",
@@ -44267,6 +44435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114570,
+      "num": 219560,
+      "word": "谢芳逝世",
+      "onboard_time": 1734572237,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114552,
       "num": 392909,
       "word": "退货率高该让运费险背锅吗",
@@ -44401,6 +44577,14 @@
       "onboard_time": 1734509180,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113904,
+      "num": 113904,
+      "word": "美股",
+      "onboard_time": 1734568159,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 113887,
@@ -44561,6 +44745,14 @@
       "onboard_time": 1733027840,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113075,
+      "num": 113075,
+      "word": "美联储全年降息100个基点",
+      "onboard_time": 1734565037,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 113031,
@@ -45209,6 +45401,14 @@
       "onboard_time": 1733654180,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108955,
+      "num": 176967,
+      "word": "电视剧我是刑警",
+      "onboard_time": 1734570439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 108946,
@@ -46067,6 +46267,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104474,
+      "num": 104474,
+      "word": "田柾国唱APT",
+      "onboard_time": 1734570919,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104467,
+      "num": 174712,
+      "word": "宋墨毒发",
+      "onboard_time": 1734565037,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104429,
       "num": 104429,
       "word": "SK卡卡",
@@ -46089,6 +46305,14 @@
       "onboard_time": 1734187400,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104268,
+      "num": 171234,
+      "word": "刘亦菲ins更新嘉人大片",
+      "onboard_time": 1734569719,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 104186,
@@ -46361,6 +46585,14 @@
       "onboard_time": 1733231360,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102168,
+      "num": 102168,
+      "word": "Rookie说喻文波你等着",
+      "onboard_time": 1734569000,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102143,
@@ -46667,6 +46899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100429,
+      "num": 100429,
+      "word": "中央农村工作会议",
+      "onboard_time": 1734557831,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100351,
       "num": 100351,
       "word": "闪耀的恒星后期战绩可查",
@@ -46723,6 +46963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100155,
+      "num": 100155,
+      "word": "2024温暖的中国",
+      "onboard_time": 1734572658,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 100122,
       "num": 613085,
       "word": "香奈儿在杭州",
@@ -46745,6 +46993,14 @@
       "onboard_time": 1733441718,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99906,
+      "num": 99906,
+      "word": "大理地震",
+      "onboard_time": 1734570198,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 99840,
@@ -46953,14 +47209,6 @@
       "onboard_time": 1733744300,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98584,
-      "num": 98584,
-      "word": "男子殴打女乘客南京司机照死压制",
-      "onboard_time": 1734563655,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98550,
@@ -47443,28 +47691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95232,
-      "num": 244567,
-      "word": "起底偷税749万网红柏公子",
-      "onboard_time": 1734530780,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95163,
       "num": 166230,
       "word": "韩执政党决定反对针对总统的弹劾案",
       "onboard_time": 1733355438,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95055,
-      "num": 95055,
-      "word": "他好像摸了一下魔方就复原了",
-      "onboard_time": 1734536539,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95042,
@@ -47769,6 +48001,14 @@
       "onboard_time": 1733155818,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93585,
+      "num": 94072,
+      "word": "李施嬅 新闻女王到公关女王",
+      "onboard_time": 1734571339,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93552,
@@ -53995,6 +54235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53902,
+      "num": 132084,
+      "word": "中国奥委会回顾2024",
+      "onboard_time": 1734570799,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53881,
       "num": 53881,
       "word": "整治内卷式竞争",
@@ -58867,14 +59115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33394,
-      "num": 55891,
-      "word": "中央农村工作会议",
-      "onboard_time": 1734557831,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33385,
       "num": 440868,
       "word": "未来叙利亚局势将如何发展",
@@ -58977,6 +59217,14 @@
       "onboard_time": 1733883859,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33099,
+      "num": 762052,
+      "word": "以你为傲",
+      "onboard_time": 1734527660,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 33077,
@@ -60681,14 +60929,6 @@
       "onboard_time": 1734069618,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26490,
-      "num": 762052,
-      "word": "以你为傲",
-      "onboard_time": 1734527660,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 26472,

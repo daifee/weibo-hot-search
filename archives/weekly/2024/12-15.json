@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734564976630,
+  "endTime": 1734572897423,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -265,6 +265,14 @@
       "onboard_time": 1734487879,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1522973,
+      "num": 233152,
+      "word": "脑瘫女孩备孕被质疑不负责",
+      "onboard_time": 1734567980,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1491282,
@@ -723,6 +731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 972316,
+      "num": 459920,
+      "word": "曾经打过的羽毛球正钻入你的羽绒服",
+      "onboard_time": 1734568880,
+      "rank": 3,
+      "category": "舆论监督,舆论监督"
+    },
+    {
       "raw_hot": 967681,
       "num": 1154829,
       "word": "智利车厘子断崖式降价",
@@ -745,6 +761,14 @@
       "onboard_time": 1734329720,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 950429,
+      "num": 1152068,
+      "word": "多地官宣将取消公摊",
+      "onboard_time": 1734534080,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 949372,
@@ -891,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 864109,
+      "num": 232698,
+      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
+      "onboard_time": 1734563655,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 863226,
       "num": 863226,
       "word": "官方通报12岁女孩感染HPV",
@@ -921,14 +953,6 @@
       "onboard_time": 1734257000,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 855000,
-      "num": 939317,
-      "word": "多地官宣将取消公摊",
-      "onboard_time": 1734534080,
-      "rank": 7,
-      "category": "财经"
     },
     {
       "raw_hot": 853572,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1734491540,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 807193,
+      "num": 230647,
+      "word": "一笑倾城聊天记录",
+      "onboard_time": 1734566839,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 806753,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1734532281,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 680936,
+      "num": 228707,
+      "word": "男子帮母亲虐待饿死弟弟获刑100年",
+      "onboard_time": 1734569539,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 674561,
@@ -2003,6 +2043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545539,
+      "num": 225814,
+      "word": "虞书欣 自己的丑自己揭",
+      "onboard_time": 1734568280,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543420,
       "num": 543420,
       "word": "初代网红张全蛋现在怎么样了",
@@ -2507,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458318,
+      "num": 458318,
+      "word": "澳门市民说解放军在非常有安全感",
+      "onboard_time": 1734568939,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 456166,
       "num": 456166,
       "word": "猎罪图鉴2 平等冒犯所有人",
@@ -2731,6 +2787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424072,
+      "num": 170038,
+      "word": "27岁男子因经济纠纷杀害虎牙女主播",
+      "onboard_time": 1734572118,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 423212,
       "num": 423212,
       "word": "最疯狂时期平均每天贪200万",
@@ -2833,6 +2897,14 @@
       "onboard_time": 1734238819,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411756,
+      "num": 225141,
+      "word": "知情人回应虎牙女主播酷萱遇害案",
+      "onboard_time": 1734568518,
+      "rank": 16,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 410489,
@@ -3075,6 +3147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 374373,
+      "num": 374373,
+      "word": "一千克羽毛球做5件羽绒服",
+      "onboard_time": 1734563715,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 374049,
       "num": 331374,
       "word": "原来串串房内部是这样的",
@@ -3105,6 +3185,14 @@
       "onboard_time": 1734363501,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367819,
+      "num": 367819,
+      "word": "跑男把母带翻冒烟了",
+      "onboard_time": 1734569359,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 366932,
@@ -4147,14 +4235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265142,
-      "num": 168009,
-      "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
-      "onboard_time": 1734563655,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264452,
       "num": 339685,
       "word": "王楚钦vs徐海东",
@@ -4273,6 +4353,14 @@
       "onboard_time": 1734352401,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 253137,
+      "num": 253137,
+      "word": "夏之光 剧透了",
+      "onboard_time": 1734571819,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 253030,
@@ -4867,6 +4955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 219352,
+      "num": 219352,
+      "word": "玄彬说儿子像孙艺珍",
+      "onboard_time": 1734569421,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219245,
       "num": 219245,
       "word": "陈梦曾因非议陷入自我怀疑",
@@ -5187,6 +5283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208155,
+      "num": 208155,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207288,
       "num": 207288,
       "word": "为何四六级总分是710分而不是100分",
@@ -5465,6 +5569,14 @@
       "onboard_time": 1734341600,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202036,
+      "num": 202036,
+      "word": "2025春节档电影票房预测",
+      "onboard_time": 1734566598,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 201818,
@@ -6987,14 +7099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170357,
-      "num": 170357,
-      "word": "一千克羽毛球做5件羽绒服",
-      "onboard_time": 1734563715,
-      "rank": 24,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 170330,
       "num": 285640,
       "word": "林孝埈为大众冰雪季打call",
@@ -7201,6 +7305,14 @@
       "onboard_time": 1734444441,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166526,
+      "num": 166526,
+      "word": "AI修复解放军进驻澳门珍贵画面",
+      "onboard_time": 1734568339,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166315,
@@ -7627,6 +7739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159737,
+      "num": 159737,
+      "word": "伊朗男子街头戳刺女性被判死刑",
+      "onboard_time": 1734569959,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "7种食物要焯水后再吃",
@@ -7961,6 +8081,14 @@
       "onboard_time": 1734322521,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153402,
+      "num": 153402,
+      "word": "他好像摸了一下魔方就复原了",
+      "onboard_time": 1734536539,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153371,
@@ -8635,6 +8763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 141386,
+      "num": 141386,
+      "word": "余华英第六次出庭受审",
+      "onboard_time": 1734571697,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141353,
       "num": 141353,
       "word": "李马克歌词",
@@ -8945,6 +9081,14 @@
       "onboard_time": 1734324141,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136486,
+      "num": 227680,
+      "word": "余华英被押解到法院",
+      "onboard_time": 1734572597,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136481,
@@ -9635,6 +9779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125236,
+      "num": 244567,
+      "word": "起底偷税749万网红柏公子",
+      "onboard_time": 1734530780,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124976,
       "num": 124976,
       "word": "樊振东林诗栋高手过招好精彩",
@@ -9971,6 +10123,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 119281,
+      "num": 119281,
+      "word": "男子殴打女乘客南京司机照死压制",
+      "onboard_time": 1734563655,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119137,
       "num": 389606,
       "word": "中国电动汽车销量占全球近7成",
@@ -10131,6 +10291,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115998,
+      "num": 234436,
+      "word": "余华英案件重审二审",
+      "onboard_time": 1734572538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115950,
       "num": 115950,
       "word": "丁禹兮销售战报",
@@ -10211,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114570,
+      "num": 219560,
+      "word": "谢芳逝世",
+      "onboard_time": 1734572237,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114513,
       "num": 316039,
       "word": "频繁头痛治不好该怎么办",
@@ -10241,6 +10417,14 @@
       "onboard_time": 1734509180,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113904,
+      "num": 113904,
+      "word": "美股",
+      "onboard_time": 1734568159,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 113806,
@@ -10297,6 +10481,14 @@
       "onboard_time": 1734231798,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113075,
+      "num": 113075,
+      "word": "美联储全年降息100个基点",
+      "onboard_time": 1734565037,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 113031,
@@ -10521,6 +10713,14 @@
       "onboard_time": 1734354499,
       "rank": 46,
       "category": "正能量,财经"
+    },
+    {
+      "raw_hot": 108955,
+      "num": 176967,
+      "word": "电视剧我是刑警",
+      "onboard_time": 1734570439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 108946,
@@ -10803,6 +11003,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104474,
+      "num": 104474,
+      "word": "田柾国唱APT",
+      "onboard_time": 1734570919,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104467,
+      "num": 174712,
+      "word": "宋墨毒发",
+      "onboard_time": 1734565037,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104268,
+      "num": 171234,
+      "word": "刘亦菲ins更新嘉人大片",
+      "onboard_time": 1734569719,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 104186,
       "num": 511051,
       "word": "学校通报食堂设置学霸就餐区",
@@ -10833,6 +11057,14 @@
       "onboard_time": 1734237319,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102168,
+      "num": 102168,
+      "word": "Rookie说喻文波你等着",
+      "onboard_time": 1734569000,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102136,
@@ -10899,6 +11131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100429,
+      "num": 100429,
+      "word": "中央农村工作会议",
+      "onboard_time": 1734557831,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100351,
       "num": 100351,
       "word": "闪耀的恒星后期战绩可查",
@@ -10913,6 +11153,22 @@
       "onboard_time": 1734432380,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100155,
+      "num": 100155,
+      "word": "2024温暖的中国",
+      "onboard_time": 1734572658,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 99906,
+      "num": 99906,
+      "word": "大理地震",
+      "onboard_time": 1734570198,
+      "rank": 46,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 99456,
@@ -10961,14 +11217,6 @@
       "onboard_time": 1734320899,
       "rank": 16,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 98584,
-      "num": 98584,
-      "word": "男子殴打女乘客南京司机照死压制",
-      "onboard_time": 1734563655,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98529,
@@ -11043,22 +11291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95232,
-      "num": 244567,
-      "word": "起底偷税749万网红柏公子",
-      "onboard_time": 1734530780,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95055,
-      "num": 95055,
-      "word": "他好像摸了一下魔方就复原了",
-      "onboard_time": 1734536539,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95034,
       "num": 302140,
       "word": "疑职工为领导买酒赊账卖家要账时死亡",
@@ -11121,6 +11353,14 @@
       "onboard_time": 1734316938,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93585,
+      "num": 94072,
+      "word": "李施嬅 新闻女王到公关女王",
+      "onboard_time": 1734571339,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 93533,
@@ -12651,6 +12891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53902,
+      "num": 132084,
+      "word": "中国奥委会回顾2024",
+      "onboard_time": 1734570799,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53201,
       "num": 1618780,
       "word": "万千气象看吉林",
@@ -13963,14 +14211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 33394,
-      "num": 55891,
-      "word": "中央农村工作会议",
-      "onboard_time": 1734557831,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 33336,
       "num": 275793,
       "word": "全球第一个新海诚作品cafe",
@@ -13993,6 +14233,14 @@
       "onboard_time": 1734520341,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33099,
+      "num": 762052,
+      "word": "以你为傲",
+      "onboard_time": 1734527660,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 32863,
@@ -14409,14 +14657,6 @@
       "onboard_time": 1734373273,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 26490,
-      "num": 762052,
-      "word": "以你为傲",
-      "onboard_time": 1734527660,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 26373,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734572897423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950429,
+        "num": 1152068,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 535095,
+        "num": 535095,
+        "word": "女子花368888赌石切开不满意想退款",
+        "onboard_time": 1734531862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33099,
+        "num": 460690,
+        "word": "以你为傲",
+        "onboard_time": 1734527660,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 972316,
+        "num": 459920,
+        "word": "曾经打过的羽毛球正钻入你的羽绒服",
+        "onboard_time": 1734568880,
+        "rank": 3,
+        "category": "舆论监督,舆论监督"
+      },
+      {
+        "raw_hot": 458318,
+        "num": 458318,
+        "word": "澳门市民说解放军在非常有安全感",
+        "onboard_time": 1734568939,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 374373,
+        "num": 374373,
+        "word": "一千克羽毛球做5件羽绒服",
+        "onboard_time": 1734563715,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 367819,
+        "num": 367819,
+        "word": "跑男把母带翻冒烟了",
+        "onboard_time": 1734569359,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253137,
+        "num": 253137,
+        "word": "夏之光 剧透了",
+        "onboard_time": 1734571819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235678,
+        "num": 235678,
+        "word": "新婚夫妇合影结婚证被玉龙雪山收下了",
+        "onboard_time": 1734527781,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115998,
+        "num": 234436,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1522973,
+        "num": 233152,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 864109,
+        "num": 232698,
+        "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
+        "onboard_time": 1734563655,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807193,
+        "num": 230647,
+        "word": "一笑倾城聊天记录",
+        "onboard_time": 1734566839,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 680936,
+        "num": 228707,
+        "word": "男子帮母亲虐待饿死弟弟获刑100年",
+        "onboard_time": 1734569539,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136486,
+        "num": 227680,
+        "word": "余华英被押解到法院",
+        "onboard_time": 1734572597,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545539,
+        "num": 225814,
+        "word": "虞书欣 自己的丑自己揭",
+        "onboard_time": 1734568280,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411756,
+        "num": 225141,
+        "word": "知情人回应虎牙女主播酷萱遇害案",
+        "onboard_time": 1734568518,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 249050,
+        "num": 224117,
+        "word": "哈尔滨文旅回复刘亦菲",
+        "onboard_time": 1734527720,
+        "rank": 17,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 222941,
+        "num": 222941,
+        "word": "王慧玲曾劝农村女性别轻易结婚",
+        "onboard_time": 1734529521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114570,
+        "num": 219560,
+        "word": "谢芳逝世",
+        "onboard_time": 1734572237,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316799,
+        "num": 219489,
+        "word": "朋友圈点赞率不足10%",
+        "onboard_time": 1734533842,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219352,
+        "num": 219352,
+        "word": "玄彬说儿子像孙艺珍",
+        "onboard_time": 1734569421,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208155,
+        "num": 208155,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202036,
+        "num": 202036,
+        "word": "2025春节档电影票房预测",
+        "onboard_time": 1734566598,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55045,
+        "num": 187593,
+        "word": "无限暖暖",
+        "onboard_time": 1734570321,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178985,
+        "num": 178985,
+        "word": "专家称取消公摊是明年重要工作",
+        "onboard_time": 1734532281,
+        "rank": 25,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 120580,
+        "num": 177966,
+        "word": "封神2 魔家四将班味好重",
+        "onboard_time": 1734532042,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108955,
+        "num": 176967,
+        "word": "电视剧我是刑警",
+        "onboard_time": 1734570439,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104467,
+        "num": 174712,
+        "word": "宋墨毒发",
+        "onboard_time": 1734565037,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104268,
+        "num": 171234,
+        "word": "刘亦菲ins更新嘉人大片",
+        "onboard_time": 1734569719,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 424072,
+        "num": 170038,
+        "word": "27岁男子因经济纠纷杀害虎牙女主播",
+        "onboard_time": 1734572118,
+        "rank": 30,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 169249,
+        "num": 169249,
+        "word": "美联储刚刚宣布降息25个基点",
+        "onboard_time": 1734564556,
+        "rank": 31,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 166526,
+        "num": 166526,
+        "word": "AI修复解放军进驻澳门珍贵画面",
+        "onboard_time": 1734568339,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159737,
+        "num": 159737,
+        "word": "伊朗男子街头戳刺女性被判死刑",
+        "onboard_time": 1734569959,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153402,
+        "num": 153402,
+        "word": "他好像摸了一下魔方就复原了",
+        "onboard_time": 1734536539,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141386,
+        "num": 141386,
+        "word": "余华英第六次出庭受审",
+        "onboard_time": 1734571697,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53902,
+        "num": 132084,
+        "word": "中国奥委会回顾2024",
+        "onboard_time": 1734570799,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125236,
+        "num": 125236,
+        "word": "起底偷税749万网红柏公子",
+        "onboard_time": 1734530780,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119281,
+        "num": 119281,
+        "word": "男子殴打女乘客南京司机照死压制",
+        "onboard_time": 1734563655,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 113904,
+        "word": "美股",
+        "onboard_time": 1734568159,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113092,
+        "num": 113092,
+        "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
+        "onboard_time": 1734527421,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113075,
+        "num": 113075,
+        "word": "美联储全年降息100个基点",
+        "onboard_time": 1734565037,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104474,
+        "num": 104474,
+        "word": "田柾国唱APT",
+        "onboard_time": 1734570919,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102168,
+        "num": 102168,
+        "word": "Rookie说喻文波你等着",
+        "onboard_time": 1734569000,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100429,
+        "num": 100429,
+        "word": "中央农村工作会议",
+        "onboard_time": 1734557831,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100155,
+        "num": 100155,
+        "word": "2024温暖的中国",
+        "onboard_time": 1734572658,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99906,
+        "num": 99906,
+        "word": "大理地震",
+        "onboard_time": 1734570198,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97987,
+        "num": 97987,
+        "word": "警方通报上海一住宅发生刑事案件",
+        "onboard_time": 1734535940,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 94686,
+        "num": 94686,
+        "word": "女司机报警寻找被撞的人",
+        "onboard_time": 1734543972,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 93585,
+        "num": 94072,
+        "word": "李施嬅 新闻女王到公关女王",
+        "onboard_time": 1734571339,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对做好三农工作作出重要指示#"
+    }
+  }
+}
