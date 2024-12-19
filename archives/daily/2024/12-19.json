@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734597016742,
+  "endTime": 1734597844281,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -9,6 +9,14 @@
       "onboard_time": 1734575778,
       "rank": 11,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1792934,
+      "num": 1166547,
+      "word": "余华英听到宣判才掉下眼泪",
+      "onboard_time": 1734594798,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1522973,
@@ -171,14 +179,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 776634,
-      "num": 776634,
-      "word": "余华英听到宣判才掉下眼泪",
-      "onboard_time": 1734594798,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 773509,
       "num": 475240,
       "word": "舒肤佳 李昀锐",
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 537565,
+      "num": 537565,
+      "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+      "onboard_time": 1734597019,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530438,
       "num": 530438,
       "word": "考研和不考研的都听爽了",
@@ -369,6 +377,14 @@
       "onboard_time": 1734590538,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465990,
+      "num": 465990,
+      "word": "极越员工补偿",
+      "onboard_time": 1734595939,
+      "rank": 10,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 458318,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352988,
+      "num": 352988,
+      "word": "杨妞花说余华英听到死刑判决后流泪",
+      "onboard_time": 1734594438,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343837,
       "num": 423619,
       "word": "祝绪丹杨仕泽双人大片",
@@ -555,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322004,
-      "num": 322004,
-      "word": "极越员工补偿",
-      "onboard_time": 1734595939,
-      "rank": 10,
-      "category": "汽车,民生新闻"
+      "raw_hot": 318529,
+      "num": 318529,
+      "word": "李昀锐亲完开心的跷脚",
+      "onboard_time": 1734596598,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 317311,
@@ -643,8 +667,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253046,
+      "num": 400878,
+      "word": "人工耳蜗国家集采",
+      "onboard_time": 1734596598,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252870,
-      "num": 210362,
+      "num": 236824,
       "word": "全红婵东奥夺冠后才知妈妈生什么病",
       "onboard_time": 1734594438,
       "rank": 23,
@@ -675,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238199,
-      "num": 238199,
-      "word": "李昀锐亲完开心的跷脚",
-      "onboard_time": 1734596598,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 231012,
+      "num": 231012,
+      "word": "谭松韵南诏神女妆造",
+      "onboard_time": 1734594139,
+      "rank": 26,
+      "category": "剧集,休闲"
     },
     {
       "raw_hot": 230490,
@@ -689,14 +721,6 @@
       "onboard_time": 1734586400,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228801,
-      "num": 205119,
-      "word": "谭松韵南诏神女妆造",
-      "onboard_time": 1734594139,
-      "rank": 26,
-      "category": "剧集,休闲"
     },
     {
       "raw_hot": 225956,
@@ -851,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199605,
+      "num": 199605,
+      "word": "马龙现身厦门",
+      "onboard_time": 1734597199,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199475,
       "num": 199475,
       "word": "被大型犬撕咬母亲全身十余处受伤",
@@ -883,14 +915,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 198171,
-      "num": 339147,
-      "word": "杨妞花说余华英听到死刑判决后流泪",
-      "onboard_time": 1734594438,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198057,
       "num": 198057,
       "word": "全妈说全红婵现在是国家的女儿了",
@@ -905,6 +929,14 @@
       "onboard_time": 1734574277,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195583,
+      "num": 195583,
+      "word": "金价",
+      "onboard_time": 1734596960,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 195458,
@@ -979,8 +1011,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190120,
+      "num": 190120,
+      "word": "用人民币感受英国工资水平",
+      "onboard_time": 1734596059,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 189432,
-      "num": 217079,
+      "num": 253190,
       "word": "蔡明倪萍怼杨子",
       "onboard_time": 1734595639,
       "rank": 20,
@@ -1033,14 +1073,6 @@
       "onboard_time": 1734569959,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182175,
-      "num": 182175,
-      "word": "用人民币感受英国工资水平",
-      "onboard_time": 1734596059,
-      "rank": 32,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 178894,
@@ -1123,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169300,
-      "num": 169300,
-      "word": "人工耳蜗国家集采",
-      "onboard_time": 1734596598,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167843,
       "num": 216009,
       "word": "李昊傻傻的兄弟还有开心的我",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1734591619,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166569,
+      "num": 166569,
+      "word": "李昀锐 封神训练营",
+      "onboard_time": 1734596657,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 166526,
@@ -1243,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151063,
+      "num": 151063,
+      "word": "北约已从美国手中接管对乌支持工作",
+      "onboard_time": 1734596059,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150781,
       "num": 265484,
       "word": "有一种爱叫我图你能赚钱",
@@ -1323,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134535,
+      "num": 134535,
+      "word": "广州新机场要来了",
+      "onboard_time": 1734597438,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133993,
       "num": 133993,
       "word": "跃动青春第2季制作决定",
@@ -1387,14 +1435,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 127210,
-      "num": 127210,
-      "word": "金价",
-      "onboard_time": 1734596960,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 125372,
       "num": 213288,
       "word": "猎罪2给角色准备的杀青礼物",
@@ -1451,20 +1491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122306,
-      "num": 122306,
-      "word": "李昀锐 封神训练营",
-      "onboard_time": 1734596657,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122133,
       "num": 294980,
       "word": "余华英案重审二审休庭",
       "onboard_time": 1734589039,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121677,
+      "num": 121677,
+      "word": "留几手放狠话全被葛夕听到了",
+      "onboard_time": 1734597799,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 120752,
@@ -1633,6 +1673,22 @@
       "onboard_time": 1734524000,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110090,
+      "num": 110090,
+      "word": "换了套房发现房贷不能抵扣个税了",
+      "onboard_time": 1734597678,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108952,
+      "num": 108952,
+      "word": "陈哲远 上面到底有谁在",
+      "onboard_time": 1734597620,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 108500,
@@ -1859,6 +1915,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92126,
+      "num": 204878,
+      "word": "苍阿轲米莱狄传说皮肤",
+      "onboard_time": 1734597319,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 91066,
+      "num": 242167,
+      "word": "警方调查宋旻浩",
+      "onboard_time": 1734596239,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86958,
       "num": 284271,
       "word": "杨妞花回应小学文凭出书质疑",
@@ -1889,14 +1961,6 @@
       "onboard_time": 1734534501,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84204,
-      "num": 210902,
-      "word": "警方调查宋旻浩",
-      "onboard_time": 1734596239,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 82657,
@@ -2243,6 +2307,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 42533,
+      "num": 288370,
+      "word": "脑瘫会遗传给下一代吗",
+      "onboard_time": 1734596478,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 40707,
       "num": 55973,
       "word": "秦陵兵马俑不养闲俑",
@@ -2251,8 +2323,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40029,
+      "num": 195084,
+      "word": "有宝妈困惑怎么生孩子后只能干保姆",
+      "onboard_time": 1734596899,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39357,
-      "num": 913438,
+      "num": 1138893,
       "word": "6个关键词看祖国的掌上明珠澳门",
       "onboard_time": 1734579378,
       "rank": 2,
@@ -2264,14 +2344,6 @@
       "word": "被这些国货品牌的公益行动暖到了",
       "onboard_time": 1734573859,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38842,
-      "num": 195084,
-      "word": "有宝妈困惑怎么生孩子后只能干保姆",
-      "onboard_time": 1734596899,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2419,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26146,
+      "num": 192833,
+      "word": "张雪峰谈考研坚持真正的意义是什么",
+      "onboard_time": 1734597498,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24666,
       "num": 454044,
       "word": "我国航空公司完成旅客运输量创新高",
@@ -2505,14 +2585,6 @@
       "onboard_time": 1734559752,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18663,
-      "num": 198314,
-      "word": "脑瘫会遗传给下一代吗",
-      "onboard_time": 1734596478,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18590,
