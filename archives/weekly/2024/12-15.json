@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734583344801,
+  "endTime": 1734585765503,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -345,6 +345,14 @@
       "onboard_time": 1734321499,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1330625,
+      "num": 365244,
+      "word": "男子给已婚同事发么么哒被辞退",
+      "onboard_time": 1734580878,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1328811,
@@ -931,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 877183,
-      "num": 365244,
-      "word": "男子给已婚同事发么么哒被辞退",
-      "onboard_time": 1734580878,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 871855,
       "num": 1139496,
       "word": "安徽监狱回应李铁可否在里面踢球",
@@ -1227,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 773509,
+      "num": 475240,
+      "word": "舒肤佳 李昀锐",
+      "onboard_time": 1734582981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 760543,
       "num": 445687,
       "word": "才知道李川和锤娜丽莎是情侣",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1734307759,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 735296,
+      "num": 364533,
+      "word": "向太 死了就不老了",
+      "onboard_time": 1734583161,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 734437,
@@ -1540,7 +1556,7 @@
     },
     {
       "raw_hot": 678622,
-      "num": 332109,
+      "num": 360252,
       "word": "大学生恋爱四个月花费近60万",
       "onboard_time": 1734577878,
       "rank": 22,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1734402859,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 669666,
+      "num": 399142,
+      "word": "留几手葛夕 柏拉图",
+      "onboard_time": 1734584600,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 667511,
@@ -1793,6 +1817,22 @@
       "onboard_time": 1734432260,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 619789,
+      "num": 619789,
+      "word": "再见爱人",
+      "onboard_time": 1734582500,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 619649,
+      "num": 364037,
+      "word": "母亲带3岁娃公园散步被4条恶犬按地撕咬",
+      "onboard_time": 1734580758,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 619233,
@@ -2267,6 +2307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 525655,
+      "num": 388877,
+      "word": "吴昕 死嘴快说",
+      "onboard_time": 1734582859,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523823,
       "num": 523823,
       "word": "九重紫 删减",
@@ -2531,14 +2579,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 480919,
-      "num": 276733,
-      "word": "母亲带3岁娃公园散步被4条恶犬按地撕咬",
-      "onboard_time": 1734580758,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 480199,
       "num": 480199,
       "word": "900多吨智利车厘子来了",
@@ -2673,6 +2713,14 @@
       "onboard_time": 1734423918,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460277,
+      "num": 460277,
+      "word": "男子彩票中奖834万称暂不告诉儿子",
+      "onboard_time": 1734583821,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 459272,
@@ -2937,6 +2985,14 @@
       "onboard_time": 1734355999,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424778,
+      "num": 360824,
+      "word": "澳门科技大学",
+      "onboard_time": 1734582140,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 423212,
@@ -3387,14 +3443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 362003,
-      "num": 244548,
-      "word": "澳门科技大学",
-      "onboard_time": 1734582140,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 361358,
       "num": 299484,
       "word": "李昀锐孟子义 这集真的没看过",
@@ -3444,7 +3492,7 @@
     },
     {
       "raw_hot": 356872,
-      "num": 357851,
+      "num": 357979,
       "word": "余华英案件重审二审",
       "onboard_time": 1734572538,
       "rank": 9,
@@ -3849,6 +3897,14 @@
       "onboard_time": 1734379091,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317311,
+      "num": 362594,
+      "word": "谢楠 我认识李川那时候他不这样",
+      "onboard_time": 1734583101,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 317133,
@@ -4315,6 +4371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275459,
+      "num": 361831,
+      "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
+      "onboard_time": 1734584600,
+      "rank": 18,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 275235,
       "num": 275235,
       "word": "刘亦菲 女性没有前缀",
@@ -4627,6 +4691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251030,
+      "num": 251030,
+      "word": "考研和不考研的都听爽了",
+      "onboard_time": 1734584121,
+      "rank": 34,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 250972,
       "num": 313082,
       "word": "卡车司机对猫猫说来生做我女儿",
@@ -4649,14 +4721,6 @@
       "onboard_time": 1734439277,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 248517,
-      "num": 248517,
-      "word": "再见爱人",
-      "onboard_time": 1734582500,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 247987,
@@ -4915,14 +4979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 232346,
-      "num": 232346,
-      "word": "舒肤佳 李昀锐",
-      "onboard_time": 1734582981,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231991,
       "num": 209819,
       "word": "一克黄金到底有多大",
@@ -5163,6 +5219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220626,
+      "num": 352321,
+      "word": "冬至剧情好抓马",
+      "onboard_time": 1734584540,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220520,
       "num": 384280,
       "word": "山西省政协主席吴存荣被查",
@@ -5344,14 +5408,6 @@
       "word": "情侣吵架互删是撒娇还是真翻脸",
       "onboard_time": 1734254659,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 214972,
-      "num": 214972,
-      "word": "吴昕 死嘴快说",
-      "onboard_time": 1734582859,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -5585,6 +5641,14 @@
       "onboard_time": 1734433940,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207026,
+      "num": 342372,
+      "word": "何洁被黄子弘凡专辑惊呆了",
+      "onboard_time": 1734585020,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 206737,
@@ -6337,14 +6401,6 @@
       "onboard_time": 1734260778,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 193915,
-      "num": 193915,
-      "word": "向太 死了就不老了",
-      "onboard_time": 1734583161,
-      "rank": 42,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 193884,
@@ -7147,6 +7203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178354,
+      "num": 178354,
+      "word": "崔宸曦回复王楚钦刀削面表情包",
+      "onboard_time": 1734583580,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178100,
       "num": 178100,
       "word": "原来这叫社交圣母症",
@@ -7161,14 +7225,6 @@
       "onboard_time": 1734575539,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 177974,
-      "num": 177974,
-      "word": "谢楠 我认识李川那时候他不这样",
-      "onboard_time": 1734583101,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 177089,
@@ -7433,6 +7489,14 @@
       "onboard_time": 1734258379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172419,
+      "num": 172419,
+      "word": "男子骚扰同事被开除公司赔偿3万9",
+      "onboard_time": 1734583520,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171684,
@@ -8715,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150384,
+      "num": 150384,
+      "word": "原来这样是语言孤立",
+      "onboard_time": 1734584300,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150283,
       "num": 150283,
       "word": "香飘飘奶茶辟谣",
@@ -9089,6 +9161,14 @@
       "onboard_time": 1734572597,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142846,
+      "num": 142846,
+      "word": "刘诗诗湿发微醺芭莎大片",
+      "onboard_time": 1734585679,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142721,
@@ -9993,6 +10073,14 @@
       "onboard_time": 1734237139,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129304,
+      "num": 129304,
+      "word": "有一种爱叫我图你能赚钱",
+      "onboard_time": 1734585739,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 129190,
@@ -11115,6 +11203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111276,
+      "num": 360425,
+      "word": "盛李豪入队一年百发百中",
+      "onboard_time": 1734584540,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111217,
       "num": 111217,
       "word": "王楚钦连续51周霸榜世排第一",
@@ -11233,6 +11329,14 @@
       "onboard_time": 1734484279,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108280,
+      "num": 363534,
+      "word": "取消公摊购房成本会降吗",
+      "onboard_time": 1734584781,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 108259,
@@ -11481,6 +11585,14 @@
       "onboard_time": 1734510560,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 105232,
+      "num": 365468,
+      "word": "这个判决杨妞花等了1313天",
+      "onboard_time": 1734580579,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105229,
@@ -13875,6 +13987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48205,
+      "num": 363116,
+      "word": "诛仙世界人太多挤爆了",
+      "onboard_time": 1734584720,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 48192,
       "num": 293552,
       "word": "澳门老店主珍藏回归当天彩旗",
@@ -14121,6 +14241,14 @@
       "onboard_time": 1734527001,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44398,
+      "num": 335856,
+      "word": "餐桌上的汤是怎样变成奶白色的",
+      "onboard_time": 1734584360,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44362,
@@ -14947,12 +15075,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 32237,
+      "num": 362746,
+      "word": "首钢大跳台诞生世界新纪录",
+      "onboard_time": 1734584720,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32233,
       "num": 241365,
       "word": "国企改革概念多股涨停",
       "onboard_time": 1734502159,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 32195,
+      "num": 211009,
+      "word": "硬核老司机拖着房子爬雪山",
+      "onboard_time": 1734585079,
+      "rank": 37,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 31611,
@@ -15273,6 +15417,14 @@
       "onboard_time": 1734305717,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27851,
+      "num": 347095,
+      "word": "祁煜 鲸落城的日落",
+      "onboard_time": 1734585499,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 27716,
@@ -16489,6 +16641,14 @@
       "onboard_time": 1734244939,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12002,
+      "num": 251895,
+      "word": "星际宝贝真人电影预告",
+      "onboard_time": 1734585620,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 11894,
