@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734647939009,
+  "endTime": 1734650484107,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499734,
+      "num": 774401,
+      "word": "气象人士呼吁南方人最近别天天洗澡",
+      "onboard_time": 1734624077,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467575,
       "num": 467575,
       "word": "女子长年便秘结肠如巨蟒盘踞腹中",
@@ -43,11 +51,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 407258,
-      "num": 415519,
-      "word": "气象人士呼吁南方人最近别天天洗澡",
-      "onboard_time": 1734624077,
-      "rank": 9,
+      "raw_hot": 454473,
+      "num": 278695,
+      "word": "恒源祥直播间女主播穿着暴露引争议",
+      "onboard_time": 1734611418,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438085,
+      "num": 91550,
+      "word": "4岁孩子被妈妈打屁股致脊髓损伤",
+      "onboard_time": 1734649815,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -59,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 391370,
+      "num": 479255,
+      "word": "女子戴耳钉时突然失去意识倒地",
+      "onboard_time": 1734625517,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380498,
       "num": 380498,
       "word": "将门毒后出生",
@@ -67,27 +91,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365419,
-      "num": 479255,
-      "word": "女子戴耳钉时突然失去意识倒地",
-      "onboard_time": 1734625517,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335000,
       "num": 335000,
       "word": "朋友婚后3年返还2000元结婚礼金",
       "onboard_time": 1734622820,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278695,
-      "num": 278695,
-      "word": "恒源祥直播间女主播穿着暴露引争议",
-      "onboard_time": 1734611418,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -131,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183710,
+      "num": 183710,
+      "word": "一笑倾国已删除退网内容",
+      "onboard_time": 1734627135,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 182034,
       "num": 230065,
       "word": "相信澳门明天会更好",
@@ -171,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 163228,
-      "num": 163228,
-      "word": "一笑倾国已删除退网内容",
-      "onboard_time": 1734627135,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 160082,
       "num": 160082,
       "word": "向太 内涵",
@@ -201,6 +209,14 @@
       "onboard_time": 1734604998,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137721,
+      "num": 89578,
+      "word": "女子报假警破门抓出轨男友",
+      "onboard_time": 1734605838,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137244,
@@ -259,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 115671,
+      "num": 115671,
+      "word": "布林肯承认美在伊朗搞政权更迭实验",
+      "onboard_time": 1734639071,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113883,
       "num": 113883,
       "word": "鹿晗水晶球",
@@ -275,6 +299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98959,
+      "num": 89142,
+      "word": "小米SU7坠崖一家四口安然无恙",
+      "onboard_time": 1734649815,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98283,
+      "num": 98283,
+      "word": "九重紫好甜",
+      "onboard_time": 1734613699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97978,
       "num": 97978,
       "word": "考研前一天要给朋友发祝福吗",
@@ -289,14 +329,6 @@
       "onboard_time": 1734604098,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95437,
-      "num": 95437,
-      "word": "九重紫好甜",
-      "onboard_time": 1734613699,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 89757,
@@ -339,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 77947,
-      "num": 77947,
-      "word": "女子报假警破门抓出轨男友",
-      "onboard_time": 1734605838,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77548,
       "num": 77548,
       "word": "王者荣耀重度依赖头像框",
@@ -385,6 +409,14 @@
       "onboard_time": 1734600379,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69233,
+      "num": 93048,
+      "word": "这届年轻人把家政业干出了花",
+      "onboard_time": 1734646932,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68566,
@@ -427,12 +459,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52327,
-      "num": 52327,
-      "word": "布林肯承认美在伊朗搞政权更迭实验",
-      "onboard_time": 1734639071,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 49071,
+      "num": 60974,
+      "word": "余华英庭审现场态度恶劣没有道歉",
+      "onboard_time": 1734638891,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41178,
+      "num": 60935,
+      "word": "丁禹兮说体验过灰姑娘",
+      "onboard_time": 1734618381,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 40279,
@@ -475,20 +515,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 35980,
+      "num": 60905,
+      "word": "长白山冰封玫瑰氛围感拉满",
+      "onboard_time": 1734649815,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 31624,
+      "num": 60885,
+      "word": "国足年终排名创近10年新低",
+      "onboard_time": 1734649694,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28993,
+      "num": 86368,
+      "word": "专家称物业费税费也应按套内面积算",
+      "onboard_time": 1734625637,
+      "rank": 49,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 28760,
       "num": 45561,
       "word": "灿烂的风和海",
       "onboard_time": 1734629414,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28518,
-      "num": 31815,
-      "word": "余华英庭审现场态度恶劣没有道歉",
-      "onboard_time": 1734638891,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27351,
@@ -499,20 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26876,
-      "num": 86368,
-      "word": "专家称物业费税费也应按套内面积算",
-      "onboard_time": 1734625637,
-      "rank": 49,
-      "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 24213,
-      "num": 93048,
-      "word": "这届年轻人把家政业干出了花",
-      "onboard_time": 1734646932,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 27334,
+      "num": 60838,
+      "word": "小小的我预售破4000w",
+      "onboard_time": 1734631872,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 23852,
@@ -523,20 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22243,
-      "num": 31511,
-      "word": "小小的我预售破4000w",
-      "onboard_time": 1734631872,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20694,
-      "num": 31458,
-      "word": "丁禹兮说体验过灰姑娘",
-      "onboard_time": 1734618381,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 21367,
+      "num": 88011,
+      "word": "老板请捡剩饭男孩吃饭结局让人泪目",
+      "onboard_time": 1734649694,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19855,
@@ -561,6 +601,22 @@
       "onboard_time": 1734634813,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16554,
+      "num": 60984,
+      "word": "我国卫星互联网低轨卫星发射成功",
+      "onboard_time": 1734649635,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16358,
+      "num": 60896,
+      "word": "报告称今年新股民中95后00后占比超6成",
+      "onboard_time": 1734649875,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 15981,
