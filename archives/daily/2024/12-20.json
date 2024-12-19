@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734650484107,
+  "endTime": 1734651324778,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654725,
+      "num": 115647,
+      "word": "4岁孩子被妈妈打屁股致脊髓损伤",
+      "onboard_time": 1734649815,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651103,
       "num": 651103,
       "word": "女子暂不结婚朋友退还2000元份子钱",
@@ -35,8 +43,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 499734,
-      "num": 774401,
+      "raw_hot": 553994,
+      "num": 114952,
+      "word": "小米SU7坠崖一家四口安然无恙",
+      "onboard_time": 1734649815,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533333,
+      "num": 880402,
       "word": "气象人士呼吁南方人最近别天天洗澡",
       "onboard_time": 1734624077,
       "rank": 9,
@@ -59,12 +75,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 438085,
-      "num": 91550,
-      "word": "4岁孩子被妈妈打屁股致脊髓损伤",
-      "onboard_time": 1734649815,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 448688,
+      "num": 72832,
+      "word": "黄圣依杨子彻底分开过",
+      "onboard_time": 1734651196,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 401646,
@@ -97,6 +113,14 @@
       "onboard_time": 1734622820,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227732,
+      "num": 183710,
+      "word": "一笑倾国已删除退网内容",
+      "onboard_time": 1734627135,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 219787,
@@ -139,14 +163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 183710,
-      "num": 183710,
-      "word": "一笑倾国已删除退网内容",
-      "onboard_time": 1734627135,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 182034,
       "num": 230065,
       "word": "相信澳门明天会更好",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170316,
+      "num": 148436,
+      "word": "越来越多年轻人开始反向消费",
+      "onboard_time": 1734615979,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166046,
       "num": 166046,
       "word": "上海体育局发声",
@@ -179,20 +203,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164348,
-      "num": 148436,
-      "word": "越来越多年轻人开始反向消费",
-      "onboard_time": 1734615979,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 160082,
       "num": 160082,
       "word": "向太 内涵",
       "onboard_time": 1734603797,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152591,
+      "num": 152591,
+      "word": "取消公摊后物业费税费咋算",
+      "onboard_time": 1734620360,
+      "rank": 27,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 148786,
@@ -211,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137721,
-      "num": 89578,
+      "raw_hot": 140751,
+      "num": 106058,
       "word": "女子报假警破门抓出轨男友",
       "onboard_time": 1734605838,
       "rank": 39,
@@ -235,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 132273,
+      "num": 132273,
+      "word": "布林肯承认美在伊朗搞政权更迭实验",
+      "onboard_time": 1734639071,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131723,
       "num": 131723,
       "word": "猎罪图鉴2闵雪案疑点重重",
@@ -251,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121797,
-      "num": 121797,
-      "word": "取消公摊后物业费税费咋算",
-      "onboard_time": 1734620360,
-      "rank": 27,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 117002,
       "num": 117002,
       "word": "5件事让人生闪闪发光",
@@ -267,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116399,
+      "num": 116399,
+      "word": "九重紫好甜",
+      "onboard_time": 1734613699,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115857,
       "num": 115857,
       "word": "现在考研人都在干什么",
       "onboard_time": 1734616640,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 115671,
-      "num": 115671,
-      "word": "布林肯承认美在伊朗搞政权更迭实验",
-      "onboard_time": 1734639071,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113883,
@@ -297,22 +321,6 @@
       "onboard_time": 1734590837,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98959,
-      "num": 89142,
-      "word": "小米SU7坠崖一家四口安然无恙",
-      "onboard_time": 1734649815,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98283,
-      "num": 98283,
-      "word": "九重紫好甜",
-      "onboard_time": 1734613699,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 97978,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83680,
+      "num": 93048,
+      "word": "这届年轻人把家政业干出了花",
+      "onboard_time": 1734646932,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79528,
       "num": 79528,
       "word": "刘昊然王宝强都营业了",
@@ -411,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69233,
-      "num": 93048,
-      "word": "这届年轻人把家政业干出了花",
-      "onboard_time": 1734646932,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68566,
       "num": 68566,
       "word": "跳社会摇10天瘦9斤",
@@ -451,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60470,
+      "num": 109570,
+      "word": "老板请捡剩饭男孩吃饭结局让人泪目",
+      "onboard_time": 1734649694,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57855,
       "num": 88443,
       "word": "这首我爱你中国是我们共同的表白",
@@ -459,7 +475,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49071,
+      "raw_hot": 57609,
       "num": 60974,
       "word": "余华英庭审现场态度恶劣没有道歉",
       "onboard_time": 1734638891,
@@ -467,7 +483,23 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41178,
+      "raw_hot": 55014,
+      "num": 60885,
+      "word": "国足年终排名创近10年新低",
+      "onboard_time": 1734649694,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51988,
+      "num": 60905,
+      "word": "长白山冰封玫瑰氛围感拉满",
+      "onboard_time": 1734649815,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 45376,
       "num": 60935,
       "word": "丁禹兮说体验过灰姑娘",
       "onboard_time": 1734618381,
@@ -475,7 +507,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40279,
+      "raw_hot": 44552,
+      "num": 51334,
+      "word": "26岁的王鹤棣",
+      "onboard_time": 1734650595,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43906,
       "num": 503297,
       "word": "随手拍都好看的澳门骑楼有多出片",
       "onboard_time": 1734614960,
@@ -507,6 +547,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 38158,
+      "num": 51309,
+      "word": "薛之谦读信",
+      "onboard_time": 1734650896,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36074,
       "num": 40357,
       "word": "腰不舒服试试这4个动作",
@@ -515,20 +563,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 35980,
-      "num": 60905,
-      "word": "长白山冰封玫瑰氛围感拉满",
-      "onboard_time": 1734649815,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 31624,
-      "num": 60885,
-      "word": "国足年终排名创近10年新低",
-      "onboard_time": 1734649694,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 34745,
+      "num": 51269,
+      "word": "25年前解放军进驻澳门高清修复画面",
+      "onboard_time": 1734650836,
+      "rank": 47,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 28993,
@@ -563,20 +603,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24378,
+      "num": 81369,
+      "word": "报告称今年新股民中95后00后占比超6成",
+      "onboard_time": 1734649875,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23852,
       "num": 59524,
       "word": "中国代表当场驳斥美方歪曲抹黑",
       "onboard_time": 1734634452,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 21367,
-      "num": 88011,
-      "word": "老板请捡剩饭男孩吃饭结局让人泪目",
-      "onboard_time": 1734649694,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19855,
@@ -609,14 +649,6 @@
       "onboard_time": 1734649635,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16358,
-      "num": 60896,
-      "word": "报告称今年新股民中95后00后占比超6成",
-      "onboard_time": 1734649875,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 15981,

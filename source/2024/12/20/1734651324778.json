@@ -1,0 +1,410 @@
+{
+  "runTime": 1734651324778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 533333,
+        "num": 880402,
+        "word": "气象人士呼吁南方人最近别天天洗澡",
+        "onboard_time": 1734624077,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314844,
+        "num": 314844,
+        "word": "普京称俄愿在乌克兰问题上妥协",
+        "onboard_time": 1734621678,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43906,
+        "num": 161609,
+        "word": "随手拍都好看的澳门骑楼有多出片",
+        "onboard_time": 1734614960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152591,
+        "num": 152591,
+        "word": "取消公摊后物业费税费咋算",
+        "onboard_time": 1734620360,
+        "rank": 3,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 140590,
+        "num": 140590,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133834,
+        "num": 133834,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132273,
+        "num": 132273,
+        "word": "布林肯承认美在伊朗搞政权更迭实验",
+        "onboard_time": 1734639071,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121971,
+        "num": 121971,
+        "word": "庆祝澳门回归25周年",
+        "onboard_time": 1734615080,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118209,
+        "num": 118209,
+        "word": "唐探1900定档",
+        "onboard_time": 1734608238,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116399,
+        "num": 116399,
+        "word": "九重紫好甜",
+        "onboard_time": 1734613699,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 654725,
+        "num": 115647,
+        "word": "4岁孩子被妈妈打屁股致脊髓损伤",
+        "onboard_time": 1734649815,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553994,
+        "num": 114952,
+        "word": "小米SU7坠崖一家四口安然无恙",
+        "onboard_time": 1734649815,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451566,
+        "num": 112951,
+        "word": "恒源祥直播间女主播穿着暴露引争议",
+        "onboard_time": 1734611418,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277343,
+        "num": 111506,
+        "word": "小米su7掉落山崖",
+        "onboard_time": 1734619820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240314,
+        "num": 110972,
+        "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+        "onboard_time": 1734617899,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60470,
+        "num": 109570,
+        "word": "老板请捡剩饭男孩吃饭结局让人泪目",
+        "onboard_time": 1734649694,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227732,
+        "num": 108224,
+        "word": "一笑倾国已删除退网内容",
+        "onboard_time": 1734627135,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 106058,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105609,
+        "num": 105609,
+        "word": "做一次CT对身体辐射有多大",
+        "onboard_time": 1734617779,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82731,
+        "num": 105000,
+        "word": "猎罪图鉴是得罪图鉴吧",
+        "onboard_time": 1734624497,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561917,
+        "num": 103596,
+        "word": "业内人士曝张继科代言费",
+        "onboard_time": 1734621559,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316632,
+        "num": 101190,
+        "word": "疑似李行亮已黑化",
+        "onboard_time": 1734617839,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277359,
+        "num": 99144,
+        "word": "女子戴耳钉时突然失去意识倒地",
+        "onboard_time": 1734625517,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170316,
+        "num": 98082,
+        "word": "越来越多年轻人开始反向消费",
+        "onboard_time": 1734615979,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164877,
+        "num": 95958,
+        "word": "女子暂不结婚朋友退还2000元份子钱",
+        "onboard_time": 1734619160,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118155,
+        "num": 94236,
+        "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+        "onboard_time": 1734618319,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108365,
+        "num": 91872,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91829,
+        "num": 91829,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83680,
+        "num": 83680,
+        "word": "这届年轻人把家政业干出了花",
+        "onboard_time": 1734646932,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24378,
+        "num": 81369,
+        "word": "报告称今年新股民中95后00后占比超6成",
+        "onboard_time": 1734649875,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81132,
+        "num": 81132,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72848,
+        "num": 72848,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448688,
+        "num": 72832,
+        "word": "黄圣依杨子彻底分开过",
+        "onboard_time": 1734651196,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72713,
+        "num": 72713,
+        "word": "将门毒后出生",
+        "onboard_time": 1734616759,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69800,
+        "num": 69800,
+        "word": "推进取消公摊不要只看到拉动楼市",
+        "onboard_time": 1734621258,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66430,
+        "num": 66430,
+        "word": "男子开跑车进高校玩漂移压坏草坪",
+        "onboard_time": 1734629114,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57609,
+        "num": 57609,
+        "word": "余华英庭审现场态度恶劣没有道歉",
+        "onboard_time": 1734638891,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55273,
+        "num": 55273,
+        "word": "周扬青粉色卡皮巴拉圣诞树",
+        "onboard_time": 1734614660,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55014,
+        "num": 55014,
+        "word": "国足年终排名创近10年新低",
+        "onboard_time": 1734649694,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51988,
+        "num": 51988,
+        "word": "长白山冰封玫瑰氛围感拉满",
+        "onboard_time": 1734649815,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 51373,
+        "num": 51373,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48605,
+        "num": 51361,
+        "word": "猎罪图鉴2闵雪案疑点重重",
+        "onboard_time": 1734624379,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45376,
+        "num": 51342,
+        "word": "丁禹兮说体验过灰姑娘",
+        "onboard_time": 1734618381,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44552,
+        "num": 51334,
+        "word": "26岁的王鹤棣",
+        "onboard_time": 1734650595,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43247,
+        "num": 51317,
+        "word": "星光大赏星光墙榜单前五",
+        "onboard_time": 1734608419,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38158,
+        "num": 51309,
+        "word": "薛之谦读信",
+        "onboard_time": 1734650896,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38154,
+        "num": 51290,
+        "word": "保定理工辟谣化粪池饮水机管道接反",
+        "onboard_time": 1734645191,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34745,
+        "num": 51269,
+        "word": "25年前解放军进驻澳门高清修复画面",
+        "onboard_time": 1734650836,
+        "rank": 47,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 32171,
+        "num": 51258,
+        "word": "王者荣耀重度依赖头像框",
+        "onboard_time": 1734623176,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31687,
+        "num": 51233,
+        "word": "上海体育局发声",
+        "onboard_time": 1734621979,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对澳门的3点期许#"
+    }
+  }
+}
