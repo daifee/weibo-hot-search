@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734626588927,
+  "endTime": 1734628745748,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 407258,
+      "num": 407258,
+      "word": "气象人士呼吁南方人最近别天天洗澡",
+      "onboard_time": 1734624077,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401646,
       "num": 401646,
       "word": "普京称俄愿在乌克兰问题上妥协",
@@ -59,11 +67,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379545,
-      "num": 379545,
-      "word": "气象人士呼吁南方人最近别天天洗澡",
-      "onboard_time": 1734624077,
-      "rank": 9,
+      "raw_hot": 365419,
+      "num": 365419,
+      "word": "女子戴耳钉时突然失去意识倒地",
+      "onboard_time": 1734625517,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189565,
+      "num": 189565,
+      "word": "19991220零时零分零秒",
+      "onboard_time": 1734627135,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182034,
       "num": 230065,
       "word": "相信澳门明天会更好",
       "onboard_time": 1734624800,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 174220,
-      "num": 174220,
-      "word": "女子戴耳钉时突然失去意识倒地",
-      "onboard_time": 1734625517,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173666,
@@ -209,6 +217,14 @@
       "onboard_time": 1734624379,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129649,
+      "num": 129649,
+      "word": "一笑倾国已删除退网内容",
+      "onboard_time": 1734627135,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 124194,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85054,
+      "num": 85054,
+      "word": "虞书欣隐藏卡",
+      "onboard_time": 1734626715,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79528,
       "num": 79528,
       "word": "刘昊然王宝强都营业了",
@@ -387,8 +411,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 57348,
-      "num": 57348,
+      "raw_hot": 57855,
+      "num": 78841,
       "word": "这首我爱你中国是我们共同的表白",
       "onboard_time": 1734623959,
       "rank": 48,
@@ -411,10 +435,34 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39486,
+      "num": 40367,
+      "word": "探索新境展现人与心境的坦诚对话",
+      "onboard_time": 1734627974,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36074,
+      "num": 40357,
+      "word": "腰不舒服试试这4个动作",
+      "onboard_time": 1734628693,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 14921,
       "num": 109726,
       "word": "博塔斯担任梅赛德斯储备车手",
       "onboard_time": 1734626476,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12278,
+      "num": 72499,
+      "word": "马龙说太熟悉厦门了",
+      "onboard_time": 1734627675,
       "rank": 24,
       "category": "体育"
     }
@@ -422,6 +470,9 @@
   "hotgov_list": [
     {
       "word": "#习近平对澳门的3点期许#"
+    },
+    {
+      "word": "#习近平主席澳门之行#"
     }
   ]
 }

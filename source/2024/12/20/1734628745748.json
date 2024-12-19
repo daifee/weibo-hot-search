@@ -1,0 +1,410 @@
+{
+  "runTime": 1734628745748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 444634,
+        "num": 526766,
+        "word": "业内人士曝张继科代言费",
+        "onboard_time": 1734621559,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407258,
+        "num": 407258,
+        "word": "气象人士呼吁南方人最近别天天洗澡",
+        "onboard_time": 1734624077,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24326,
+        "num": 369790,
+        "word": "随手拍都好看的澳门骑楼有多出片",
+        "onboard_time": 1734614960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365419,
+        "num": 365419,
+        "word": "女子戴耳钉时突然失去意识倒地",
+        "onboard_time": 1734625517,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211564,
+        "num": 211564,
+        "word": "普京称俄愿在乌克兰问题上妥协",
+        "onboard_time": 1734621678,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 189565,
+        "num": 189565,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189431,
+        "num": 189431,
+        "word": "猎罪图鉴是得罪图鉴吧",
+        "onboard_time": 1734624497,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187221,
+        "num": 187221,
+        "word": "女子暂不结婚朋友退还2000元份子钱",
+        "onboard_time": 1734619160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160570,
+        "num": 160570,
+        "word": "朋友婚后3年返还2000元结婚礼金",
+        "onboard_time": 1734622820,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112120,
+        "num": 160567,
+        "word": "留几手说没有爱过葛夕",
+        "onboard_time": 1734607938,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258219,
+        "num": 149909,
+        "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+        "onboard_time": 1734617899,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213888,
+        "num": 143457,
+        "word": "小米su7掉落山崖",
+        "onboard_time": 1734619820,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169533,
+        "num": 140243,
+        "word": "恒源祥直播间女主播穿着暴露引争议",
+        "onboard_time": 1734611418,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137591,
+        "num": 137591,
+        "word": "庆祝澳门回归25周年",
+        "onboard_time": 1734615080,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129649,
+        "num": 129649,
+        "word": "一笑倾国已删除退网内容",
+        "onboard_time": 1734627135,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104756,
+        "num": 104756,
+        "word": "相信澳门明天会更好",
+        "onboard_time": 1734624800,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104496,
+        "num": 104496,
+        "word": "猎罪图鉴2闵雪案疑点重重",
+        "onboard_time": 1734624379,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85054,
+        "num": 85054,
+        "word": "虞书欣隐藏卡",
+        "onboard_time": 1734626715,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81934,
+        "num": 81934,
+        "word": "向太 内涵",
+        "onboard_time": 1734603797,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79591,
+        "num": 79591,
+        "word": "唐探1900定档",
+        "onboard_time": 1734608238,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57855,
+        "num": 78841,
+        "word": "这首我爱你中国是我们共同的表白",
+        "onboard_time": 1734623959,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366051,
+        "num": 78128,
+        "word": "疑似李行亮已黑化",
+        "onboard_time": 1734617839,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182187,
+        "num": 75753,
+        "word": "将门毒后出生",
+        "onboard_time": 1734616759,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105700,
+        "num": 74871,
+        "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+        "onboard_time": 1734597019,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12278,
+        "num": 72499,
+        "word": "马龙说太熟悉厦门了",
+        "onboard_time": 1734627675,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90191,
+        "num": 72156,
+        "word": "越来越多年轻人开始反向消费",
+        "onboard_time": 1734615979,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70952,
+        "num": 70952,
+        "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+        "onboard_time": 1734618319,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66758,
+        "num": 66758,
+        "word": "刘诗诗胡先煦合作",
+        "onboard_time": 1734621140,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66704,
+        "num": 66704,
+        "word": "考研前一天要给朋友发祝福吗",
+        "onboard_time": 1734622099,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57112,
+        "num": 65730,
+        "word": "九重紫好甜",
+        "onboard_time": 1734613699,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64971,
+        "num": 64971,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58578,
+        "num": 58578,
+        "word": "上海体育局发声",
+        "onboard_time": 1734621979,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55991,
+        "num": 55991,
+        "word": "5件事让人生闪闪发光",
+        "onboard_time": 1734622758,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54873,
+        "num": 54873,
+        "word": "做一次CT对身体辐射有多大",
+        "onboard_time": 1734617779,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52871,
+        "num": 52871,
+        "word": "王者荣耀重度依赖头像框",
+        "onboard_time": 1734623176,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51816,
+        "num": 51816,
+        "word": "杨子 如果分开就和别人办婚礼",
+        "onboard_time": 1734604998,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51358,
+        "num": 51358,
+        "word": "王一博无感歌词",
+        "onboard_time": 1734603258,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49947,
+        "num": 49947,
+        "word": "鹿晗水晶球",
+        "onboard_time": 1734620121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48776,
+        "num": 48776,
+        "word": "猎罪2萝莉姐整容爆改年龄",
+        "onboard_time": 1734606799,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48566,
+        "num": 48566,
+        "word": "女子报假警破门抓出轨男友",
+        "onboard_time": 1734605838,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47407,
+        "num": 47407,
+        "word": "周扬青粉色卡皮巴拉圣诞树",
+        "onboard_time": 1734614660,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43645,
+        "num": 43645,
+        "word": "取消公摊后物业费税费咋算",
+        "onboard_time": 1734620360,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 43331,
+        "num": 43331,
+        "word": "大奉打更人天地一刀斩预告",
+        "onboard_time": 1734616400,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41924,
+        "num": 41924,
+        "word": "现在考研人都在干什么",
+        "onboard_time": 1734616640,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40895,
+        "num": 40895,
+        "word": "推进取消公摊不要只看到拉动楼市",
+        "onboard_time": 1734621258,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40371,
+        "num": 40371,
+        "word": "一人一句祝福祖国祝福澳门",
+        "onboard_time": 1734624977,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39486,
+        "num": 40367,
+        "word": "探索新境展现人与心境的坦诚对话",
+        "onboard_time": 1734627974,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38527,
+        "num": 40367,
+        "word": "虞书欣何与亲吻路透",
+        "onboard_time": 1734600379,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38132,
+        "num": 40362,
+        "word": "星光大赏星光墙榜单前五",
+        "onboard_time": 1734608419,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36074,
+        "num": 40357,
+        "word": "腰不舒服试试这4个动作",
+        "onboard_time": 1734628693,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席澳门之行#"
+    }
+  }
+}
