@@ -1,0 +1,410 @@
+{
+  "runTime": 1734597016742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1412441,
+        "num": 1412441,
+        "word": "张继科 多尼克",
+        "onboard_time": 1734592039,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1214657,
+        "num": 1214657,
+        "word": "吴奇隆微博两人互动还停留在19年",
+        "onboard_time": 1734590837,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28093,
+        "num": 913438,
+        "word": "6个关键词看祖国的掌上明珠澳门",
+        "onboard_time": 1734579378,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 838219,
+        "num": 838219,
+        "word": "余华英死刑宣判现场",
+        "onboard_time": 1734594678,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783160,
+        "num": 783160,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776634,
+        "num": 776634,
+        "word": "余华英听到宣判才掉下眼泪",
+        "onboard_time": 1734594798,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514228,
+        "num": 514228,
+        "word": "杨仕泽为什么插祝绪丹的兜",
+        "onboard_time": 1734593478,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 401661,
+        "num": 401661,
+        "word": "樊振东球迷会发声明",
+        "onboard_time": 1734592517,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372568,
+        "num": 372568,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198171,
+        "num": 339147,
+        "word": "杨妞花说余华英听到死刑判决后流泪",
+        "onboard_time": 1734594438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322004,
+        "num": 322004,
+        "word": "极越员工补偿",
+        "onboard_time": 1734595939,
+        "rank": 10,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 312108,
+        "num": 312108,
+        "word": "张杰感谢丁禹兮",
+        "onboard_time": 1734589159,
+        "rank": 11,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 285438,
+        "num": 285438,
+        "word": "留几手 我发明了一套软学",
+        "onboard_time": 1734590659,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277084,
+        "num": 277084,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 13,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 96889,
+        "num": 270902,
+        "word": "专家谈起诉离婚需45天冷静期",
+        "onboard_time": 1734595219,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 266628,
+        "num": 266628,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238199,
+        "num": 238199,
+        "word": "李昀锐亲完开心的跷脚",
+        "onboard_time": 1734596598,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223588,
+        "num": 223588,
+        "word": "余华英不能再上诉",
+        "onboard_time": 1734590538,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75728,
+        "num": 221670,
+        "word": "为何余华英要出庭受审六次",
+        "onboard_time": 1734595639,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70766,
+        "num": 220888,
+        "word": "雕刻师回应佳木斯雪雕大圣被吐槽",
+        "onboard_time": 1734595458,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189432,
+        "num": 217079,
+        "word": "蔡明倪萍怼杨子",
+        "onboard_time": 1734595639,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532594,
+        "num": 214873,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84204,
+        "num": 210902,
+        "word": "警方调查宋旻浩",
+        "onboard_time": 1734596239,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252870,
+        "num": 210362,
+        "word": "全红婵东奥夺冠后才知妈妈生什么病",
+        "onboard_time": 1734594438,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143458,
+        "num": 207432,
+        "word": "张继科和蝴蝶不再续约",
+        "onboard_time": 1734595939,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205716,
+        "num": 205716,
+        "word": "星光大赏",
+        "onboard_time": 1734589818,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228801,
+        "num": 205119,
+        "word": "谭松韵南诏神女妆造",
+        "onboard_time": 1734594139,
+        "rank": 26,
+        "category": "剧集,休闲"
+      },
+      {
+        "raw_hot": 172613,
+        "num": 200684,
+        "word": "张杰感谢李现",
+        "onboard_time": 1734596119,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18663,
+        "num": 198314,
+        "word": "脑瘫会遗传给下一代吗",
+        "onboard_time": 1734596478,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 195084,
+        "word": "有宝妈困惑怎么生孩子后只能干保姆",
+        "onboard_time": 1734596899,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213816,
+        "num": 193586,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 30,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 190584,
+        "num": 190584,
+        "word": "考研",
+        "onboard_time": 1734589939,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182175,
+        "num": 182175,
+        "word": "用人民币感受英国工资水平",
+        "onboard_time": 1734596059,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 171345,
+        "num": 171345,
+        "word": "魏晨 我奶奶家的蕾丝边",
+        "onboard_time": 1734593239,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169300,
+        "num": 169300,
+        "word": "人工耳蜗国家集采",
+        "onboard_time": 1734596598,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167693,
+        "num": 167693,
+        "word": "湖南卫视跨年晚会共创节目单",
+        "onboard_time": 1734593118,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159957,
+        "num": 159957,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149023,
+        "num": 149023,
+        "word": "向太笑称刘晓庆是傻白甜",
+        "onboard_time": 1734592219,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147297,
+        "num": 147297,
+        "word": "全妈说全红婵现在是国家的女儿了",
+        "onboard_time": 1734592039,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132122,
+        "num": 132122,
+        "word": "留几手早期征婚启事",
+        "onboard_time": 1734596119,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131512,
+        "num": 131512,
+        "word": "考研和不考研的都听爽了",
+        "onboard_time": 1734584121,
+        "rank": 40,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 131407,
+        "num": 131407,
+        "word": "吴昕 死嘴快说",
+        "onboard_time": 1734582859,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130176,
+        "num": 130176,
+        "word": "保定理工学院多名学生肠道不适",
+        "onboard_time": 1734594379,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127210,
+        "num": 127210,
+        "word": "金价",
+        "onboard_time": 1734596960,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125139,
+        "num": 125139,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 44,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 122306,
+        "num": 122306,
+        "word": "李昀锐 封神训练营",
+        "onboard_time": 1734596657,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119975,
+        "num": 119975,
+        "word": "男子给已婚同事发么么哒被辞退",
+        "onboard_time": 1734580878,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119132,
+        "num": 119132,
+        "word": "苹果考虑将腾讯字节AI模型嵌入iPhone",
+        "onboard_time": 1734591858,
+        "rank": 47,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 119116,
+        "num": 119116,
+        "word": "律师解读余华英多次受审四大疑问",
+        "onboard_time": 1734596899,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116306,
+        "num": 116306,
+        "word": "生长激素是怎么让人长高的",
+        "onboard_time": 1734595819,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门是祖国的掌上明珠#"
+    }
+  }
+}
