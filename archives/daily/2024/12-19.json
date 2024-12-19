@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734618129774,
+  "endTime": 1734619273736,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -211,11 +211,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 906805,
+      "num": 1145088,
+      "word": "疑似李行亮已黑化",
+      "onboard_time": 1734617839,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891155,
       "num": 544733,
       "word": "男子彩票中奖834万称暂不告诉儿子",
       "onboard_time": 1734583821,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 867288,
+      "num": 441725,
+      "word": "女子长年便秘结肠如巨蟒盘踞腹中",
+      "onboard_time": 1734617899,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502729,
+      "num": 232112,
+      "word": "越来越多年轻人开始反向消费",
+      "onboard_time": 1734615979,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 487897,
       "num": 487897,
       "word": "肖战黑西装长发",
@@ -497,14 +521,6 @@
       "onboard_time": 1734599720,
       "rank": 44,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 475002,
-      "num": 220986,
-      "word": "越来越多年轻人开始反向消费",
-      "onboard_time": 1734615979,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 474948,
@@ -563,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 448177,
+      "num": 448177,
+      "word": "现在考研人都在干什么",
+      "onboard_time": 1734616640,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 445717,
       "num": 445717,
       "word": "星光大赏",
@@ -577,6 +601,14 @@
       "onboard_time": 1734589939,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 438322,
+      "num": 438322,
+      "word": "将门毒后出生",
+      "onboard_time": 1734616759,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 431418,
@@ -609,6 +641,14 @@
       "onboard_time": 1734596598,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405089,
+      "num": 359861,
+      "word": "杨妞花控诉余华英偷情时让自己站岗",
+      "onboard_time": 1734615379,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404299,
@@ -651,12 +691,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 390576,
-      "num": 302464,
-      "word": "杨妞花控诉余华英偷情时让自己站岗",
-      "onboard_time": 1734615379,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 382682,
+      "num": 382682,
+      "word": "庆祝澳门回归25周年",
+      "onboard_time": 1734615080,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 370872,
@@ -732,7 +772,7 @@
     },
     {
       "raw_hot": 347787,
-      "num": 302339,
+      "num": 320244,
       "word": "周扬青粉色卡皮巴拉圣诞树",
       "onboard_time": 1734614660,
       "rank": 38,
@@ -817,22 +857,6 @@
       "onboard_time": 1734605359,
       "rank": 10,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 303264,
-      "num": 303264,
-      "word": "现在考研人都在干什么",
-      "onboard_time": 1734616640,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 301660,
-      "num": 301660,
-      "word": "庆祝澳门回归25周年",
-      "onboard_time": 1734615080,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289191,
@@ -931,14 +955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256427,
-      "num": 256427,
-      "word": "将门毒后出生",
-      "onboard_time": 1734616759,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253046,
       "num": 400878,
       "word": "人工耳蜗国家集采",
@@ -969,14 +985,6 @@
       "onboard_time": 1734589639,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247411,
-      "num": 219721,
-      "word": "疑似李行亮已黑化",
-      "onboard_time": 1734617839,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 242949,
@@ -1219,12 +1227,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203413,
+      "num": 203413,
+      "word": "NCT尬关回归",
+      "onboard_time": 1734618859,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203363,
       "num": 270358,
       "word": "丁禹兮李昀锐王星越今年惊艳面孔",
       "onboard_time": 1734607577,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203151,
+      "num": 203151,
+      "word": "做一次CT对身体辐射有多大",
+      "onboard_time": 1734617779,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203031,
@@ -1385,6 +1409,14 @@
       "onboard_time": 1734576438,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193274,
+      "num": 193274,
+      "word": "打拐是全社会共同的责任",
+      "onboard_time": 1734618859,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192642,
@@ -1611,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175790,
+      "num": 175790,
+      "word": "丁禹兮说体验过灰姑娘",
+      "onboard_time": 1734618381,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175646,
       "num": 175646,
       "word": "美媒爆称马斯克因涉密问题被军方审查",
@@ -1731,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164303,
+      "num": 164303,
+      "word": "刘昊然王宝强都营业了",
+      "onboard_time": 1734618560,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163576,
       "num": 163576,
       "word": "虞书欣ins晒与金秀贤同框图",
@@ -1747,20 +1795,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161082,
+      "num": 161082,
+      "word": "超人预告",
+      "onboard_time": 1734618020,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160602,
       "num": 160602,
       "word": "当25岁的我发现人生归零了",
       "onboard_time": 1734581239,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159684,
-      "num": 159684,
-      "word": "女子长年便秘结肠如巨蟒盘踞腹中",
-      "onboard_time": 1734617899,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159164,
@@ -1915,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145220,
+      "num": 145220,
+      "word": "全红婵哥哥曾拒绝MCN上亿签约费",
+      "onboard_time": 1734618319,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "留几手放狠话全被葛夕听到了",
@@ -1945,14 +2001,6 @@
       "onboard_time": 1734571697,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139610,
-      "num": 139610,
-      "word": "超人预告",
-      "onboard_time": 1734618020,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 139572,
@@ -2123,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124926,
+      "num": 245822,
+      "word": "女子暂不结婚朋友退还2000元份子钱",
+      "onboard_time": 1734619160,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124743,
       "num": 101271,
       "word": "一笑倾城 清水小芙蓉",
@@ -2195,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121047,
+      "num": 190142,
+      "word": "灌饼直播",
+      "onboard_time": 1734618979,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120752,
       "num": 118016,
       "word": "李小冉比贺峻霖爸爸还大",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1734532042,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119874,
+      "num": 266921,
+      "word": "七子之歌如何成为永远的澳门之歌",
+      "onboard_time": 1734617779,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 119281,
@@ -2297,14 +2369,6 @@
       "onboard_time": 1734526520,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116922,
-      "num": 266921,
-      "word": "七子之歌如何成为永远的澳门之歌",
-      "onboard_time": 1734617779,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116306,
@@ -3043,6 +3107,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 61958,
+      "num": 361790,
+      "word": "上海明确公共场所非必要不刷脸",
+      "onboard_time": 1734618440,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61888,
       "num": 92595,
       "word": "iG暴打RNG",
@@ -3107,14 +3179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 60605,
-      "num": 196844,
-      "word": "做一次CT对身体辐射有多大",
-      "onboard_time": 1734617779,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 59803,
       "num": 135081,
       "word": "董宇辉称在平凡的世界里找到共鸣",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1734599959,
       "rank": 29,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 55553,
+      "num": 323237,
+      "word": "校方称压坏草坪男子系伪装学生进校",
+      "onboard_time": 1734617960,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55064,
@@ -3324,7 +3396,7 @@
     },
     {
       "raw_hot": 42433,
-      "num": 386135,
+      "num": 445856,
       "word": "随手拍都好看的澳门骑楼有多出片",
       "onboard_time": 1734614960,
       "rank": 2,
@@ -3417,6 +3489,14 @@
       "onboard_time": 1734614780,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 36605,
+      "num": 332307,
+      "word": "杨妞花说仇恨没有了正义一直在",
+      "onboard_time": 1734619039,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35393,
@@ -3747,14 +3827,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21211,
-      "num": 266846,
-      "word": "校方称压坏草坪男子系伪装学生进校",
-      "onboard_time": 1734617960,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20849,
       "num": 30389,
       "word": "早上肉夹馍晚上吃晚茶",
@@ -3881,6 +3953,14 @@
       "onboard_time": 1734555671,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14105,
+      "num": 229518,
+      "word": "有直播间极越汽车标价不到2万",
+      "onboard_time": 1734618560,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 13590,
