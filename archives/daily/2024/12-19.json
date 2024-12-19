@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734579404857,
+  "endTime": 1734580081911,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1253012,
-      "num": 1253012,
+      "raw_hot": 1445095,
+      "num": 1445095,
       "word": "网红收入超千万报税竟未达5000元",
       "onboard_time": 1734576498,
       "rank": 22,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 931941,
+      "num": 931941,
+      "word": "美国股市巨震",
+      "onboard_time": 1734574399,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 909117,
       "num": 918392,
       "word": "女子花368888赌石切开不满意想退款",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 807193,
-      "num": 355208,
+      "num": 379971,
       "word": "一笑倾城聊天记录",
       "onboard_time": 1734566839,
       "rank": 12,
@@ -97,14 +105,6 @@
       "onboard_time": 1734573797,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 689364,
-      "num": 689364,
-      "word": "美国股市巨震",
-      "onboard_time": 1734574399,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 680936,
@@ -139,20 +139,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543745,
+      "num": 543745,
+      "word": "100平方米的房子得房率可能达100%",
+      "onboard_time": 1734575597,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502283,
+      "num": 332109,
+      "word": "大学生恋爱四个月花费近60万",
+      "onboard_time": 1734577878,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499546,
+      "num": 499546,
+      "word": "黄金重挫2%",
+      "onboard_time": 1734571278,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 487876,
       "num": 487876,
       "word": "张家界文旅局发文致谢张艺兴",
       "onboard_time": 1734575838,
       "rank": 4,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 486965,
-      "num": 486965,
-      "word": "黄金重挫2%",
-      "onboard_time": 1734571278,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 485238,
@@ -169,14 +185,6 @@
       "onboard_time": 1734568939,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 453977,
-      "num": 453977,
-      "word": "100平方米的房子得房率可能达100%",
-      "onboard_time": 1734575597,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427564,
@@ -219,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365024,
-      "num": 332109,
-      "word": "大学生恋爱四个月花费近60万",
-      "onboard_time": 1734577878,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363431,
       "num": 363431,
       "word": "夏之光 剧透了",
@@ -249,6 +249,14 @@
       "onboard_time": 1734527781,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343785,
+      "num": 343785,
+      "word": "名创优品恋与深空联名价格",
+      "onboard_time": 1734578478,
+      "rank": 32,
+      "category": "时尚,游戏"
     },
     {
       "raw_hot": 343047,
@@ -291,14 +299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 280196,
-      "num": 280196,
-      "word": "名创优品恋与深空联名价格",
-      "onboard_time": 1734578478,
-      "rank": 32,
-      "category": "时尚,游戏"
-    },
-    {
       "raw_hot": 273414,
       "num": 273414,
       "word": "90后男子跑大卡车6年买房买车",
@@ -313,6 +313,14 @@
       "onboard_time": 1734516919,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259177,
+      "num": 259177,
+      "word": "香飘飘招聘线下奶茶店店员",
+      "onboard_time": 1734578538,
+      "rank": 34,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 258814,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212297,
+      "num": 463090,
+      "word": "取消公摊坚定购房者信心",
+      "onboard_time": 1734576378,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209821,
       "num": 209821,
       "word": "澳门回归祖国影像如今看依然感动",
@@ -387,20 +403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 207499,
-      "num": 207499,
-      "word": "香飘飘招聘线下奶茶店店员",
-      "onboard_time": 1734578538,
-      "rank": 34,
-      "category": "民生新闻,美食"
+      "raw_hot": 209182,
+      "num": 334949,
+      "word": "李现背十公斤摄影设备徒步",
+      "onboard_time": 1734578899,
+      "rank": 38,
+      "category": "艺人"
     },
     {
-      "raw_hot": 203544,
-      "num": 463090,
-      "word": "取消公摊坚定购房者信心",
-      "onboard_time": 1734576378,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 203799,
+      "num": 333200,
+      "word": "王俊凯加盟官宣江苏卫视跨年",
+      "onboard_time": 1734579258,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 202036,
@@ -417,14 +433,6 @@
       "onboard_time": 1734538578,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199041,
-      "num": 324908,
-      "word": "王俊凯加盟官宣江苏卫视跨年",
-      "onboard_time": 1734579258,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 198837,
@@ -457,6 +465,14 @@
       "onboard_time": 1734573139,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194645,
+      "num": 210608,
+      "word": "2025春节档电影你想看哪一部",
+      "onboard_time": 1734579499,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 193857,
@@ -539,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176394,
+      "num": 176394,
+      "word": "男生疑遭霸凌求助被无视后跳楼身亡",
+      "onboard_time": 1734579857,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175646,
       "num": 175646,
       "word": "美媒爆称马斯克因涉密问题被军方审查",
@@ -603,6 +627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 155161,
+      "num": 155161,
+      "word": "900多吨智利车厘子来了",
+      "onboard_time": 1734578059,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
@@ -643,12 +675,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 133842,
-      "num": 168545,
-      "word": "李现背十公斤摄影设备徒步",
-      "onboard_time": 1734578899,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 138448,
+      "num": 138448,
+      "word": "印度一渡轮与海军船只相撞至少13死",
+      "onboard_time": 1734579798,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132795,
@@ -907,12 +939,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 98388,
+      "num": 280235,
+      "word": "电影真爱营业定档",
+      "onboard_time": 1734578657,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98024,
       "num": 98024,
       "word": "妈妈抱娃绊倒瞬间垫在孩子身下",
       "onboard_time": 1734571219,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96910,
+      "num": 370276,
+      "word": "虞书欣说新歌会有challenge",
+      "onboard_time": 1734578420,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 95579,
@@ -939,6 +987,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 86910,
+      "num": 431080,
+      "word": "杨妞花说借余华英案能帮一个是一个",
+      "onboard_time": 1734578779,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86214,
       "num": 105862,
       "word": "2024中国体育高光名场面",
@@ -955,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81500,
-      "num": 370276,
-      "word": "虞书欣说新歌会有challenge",
-      "onboard_time": 1734578420,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 79009,
       "num": 92577,
       "word": "IG16分钟推平RNG",
@@ -977,14 +1025,6 @@
       "onboard_time": 1734537078,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75556,
-      "num": 280235,
-      "word": "电影真爱营业定档",
-      "onboard_time": 1734578657,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 75449,
@@ -1139,14 +1179,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51534,
-      "num": 431080,
-      "word": "杨妞花说借余华英案能帮一个是一个",
-      "onboard_time": 1734578779,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48676,
       "num": 237104,
       "word": "上百个寻亲家庭沿路为杨妞花加油",
@@ -1185,6 +1217,14 @@
       "onboard_time": 1734552731,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39357,
+      "num": 692516,
+      "word": "6个关键词看祖国的掌上明珠澳门",
+      "onboard_time": 1734579378,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39005,
@@ -1251,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28805,
+      "num": 362141,
+      "word": "杨妞花说将追击到底不怕人贩子报复",
+      "onboard_time": 1734579258,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27716,
       "num": 283778,
       "word": "杨妞花谈到自己三年来的变化",
@@ -1259,12 +1307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26309,
-      "num": 362141,
-      "word": "杨妞花说将追击到底不怕人贩子报复",
-      "onboard_time": 1734579258,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 24666,
+      "num": 454044,
+      "word": "我国航空公司完成旅客运输量创新高",
+      "onboard_time": 1734579378,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 23549,
@@ -1435,14 +1483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9963,
-      "num": 454044,
-      "word": "我国航空公司完成旅客运输量创新高",
-      "onboard_time": 1734579378,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 9858,
       "num": 56621,
       "word": "2025考研倒计时3天",
@@ -1457,14 +1497,6 @@
       "onboard_time": 1734545592,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7018,
-      "num": 639626,
-      "word": "6个关键词看祖国的掌上明珠澳门",
-      "onboard_time": 1734579378,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
