@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734640672528,
+  "endTime": 1734643254015,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -427,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48810,
+      "num": 48810,
+      "word": "布林肯承认美在伊朗搞政权更迭实验",
+      "onboard_time": 1734639071,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40279,
       "num": 503297,
       "word": "随手拍都好看的澳门骑楼有多出片",
@@ -515,12 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18501,
-      "num": 36430,
-      "word": "布林肯承认美在伊朗搞政权更迭实验",
-      "onboard_time": 1734639071,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 17993,
+      "num": 17993,
+      "word": "余华英庭审现场态度恶劣没有道歉",
+      "onboard_time": 1734638891,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17092,
@@ -555,11 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13879,
-      "num": 14605,
-      "word": "余华英庭审现场态度恶劣没有道歉",
-      "onboard_time": 1734638891,
-      "rank": 49,
+      "raw_hot": 14096,
+      "num": 14096,
+      "word": "广州首条地铁环线来了",
+      "onboard_time": 1734639910,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -571,11 +579,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11451,
-      "num": 14500,
+      "raw_hot": 11988,
+      "num": 25042,
       "word": "心系澳门",
       "onboard_time": 1734639970,
       "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11326,
+      "num": 18393,
+      "word": "一定要记住开发横琴的初心",
+      "onboard_time": 1734641530,
+      "rank": 29,
       "category": "国内时政"
     }
   ],
