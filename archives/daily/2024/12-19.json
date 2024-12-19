@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734612324057,
+  "endTime": 1734613294277,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -227,6 +227,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 773670,
+      "num": 773670,
+      "word": "恒源祥直播间女主播穿着暴露引争议",
+      "onboard_time": 1734611418,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 773509,
       "num": 475240,
       "word": "舒肤佳 李昀锐",
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644045,
+      "num": 644045,
+      "word": "豹豹猫猫我出生了",
+      "onboard_time": 1734608899,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 633424,
       "num": 633424,
       "word": "窦昭孩子 将门毒后",
@@ -345,14 +361,6 @@
       "onboard_time": 1734596960,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 577124,
-      "num": 577124,
-      "word": "豹豹猫猫我出生了",
-      "onboard_time": 1734608899,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 551173,
@@ -395,6 +403,14 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 527436,
+      "num": 527436,
+      "word": "肖战 拉夫劳伦",
+      "onboard_time": 1734611841,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 525655,
       "num": 388877,
       "word": "吴昕 死嘴快说",
@@ -409,6 +425,14 @@
       "onboard_time": 1734600379,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 523103,
+      "num": 523103,
+      "word": "杨妞花律师称死刑复核一般需一年",
+      "onboard_time": 1734610578,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516706,
@@ -475,6 +499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 474948,
+      "num": 474948,
+      "word": "留几手说没有爱过葛夕",
+      "onboard_time": 1734607938,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471852,
       "num": 471852,
       "word": "余华英不能再上诉",
@@ -499,16 +531,8 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 462706,
-      "num": 284426,
-      "word": "留几手说没有爱过葛夕",
-      "onboard_time": 1734607938,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459444,
-      "num": 344314,
+      "num": 375191,
       "word": "猎罪2萝莉姐整容爆改年龄",
       "onboard_time": 1734606799,
       "rank": 27,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 431418,
-      "num": 197659,
+      "num": 381005,
       "word": "听到余华英死刑很多寻亲家长失声痛哭",
       "onboard_time": 1734608839,
       "rank": 12,
@@ -619,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370682,
-      "num": 188165,
-      "word": "杨妞花律师称死刑复核一般需一年",
-      "onboard_time": 1734610578,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367819,
       "num": 367819,
       "word": "跑男把母带翻冒烟了",
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 357161,
-      "num": 239739,
+      "num": 284024,
       "word": "女子报假警破门抓出轨男友",
       "onboard_time": 1734605838,
       "rank": 41,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 321853,
-      "num": 186206,
+      "num": 207101,
       "word": "五部影片定档春节档",
       "onboard_time": 1734610519,
       "rank": 17,
@@ -987,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219179,
-      "num": 219179,
-      "word": "恒源祥直播间女主播穿着暴露引争议",
-      "onboard_time": 1734611418,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217816,
       "num": 214629,
       "word": "跳社会摇10天瘦9斤",
@@ -1051,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212851,
+      "num": 212851,
+      "word": "台湾是中国的台湾不容任何外部干涉",
+      "onboard_time": 1734607698,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 212297,
       "num": 463090,
       "word": "取消公摊坚定购房者信心",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1734573797,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209202,
+      "num": 209202,
+      "word": "穷鬼拌饭能有多好吃",
+      "onboard_time": 1734610879,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 209035,
@@ -1089,14 +1113,6 @@
       "onboard_time": 1734581239,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203941,
-      "num": 180199,
-      "word": "穷鬼拌饭能有多好吃",
-      "onboard_time": 1734610879,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 203799,
@@ -1163,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200196,
-      "num": 200196,
-      "word": "台湾是中国的台湾不容任何外部干涉",
-      "onboard_time": 1734607698,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199605,
       "num": 199605,
       "word": "马龙现身厦门",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1734592039,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197458,
-      "num": 179571,
-      "word": "肖战 拉夫劳伦",
-      "onboard_time": 1734611841,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 196862,
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 188939,
-      "num": 184716,
+      "num": 242981,
       "word": "鞠婧祎杂志缺货",
       "onboard_time": 1734611538,
       "rank": 19,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1734569959,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182693,
+      "num": 182693,
+      "word": "章昊 OLAY",
+      "onboard_time": 1734612559,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 180408,
@@ -1587,6 +1595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 164460,
+      "num": 164460,
+      "word": "名创优品回应恋与深空联名价格高",
+      "onboard_time": 1734610938,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163576,
       "num": 163576,
       "word": "虞书欣ins晒与金秀贤同框图",
@@ -1611,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159164,
+      "num": 159164,
+      "word": "春节档",
+      "onboard_time": 1734612138,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159123,
       "num": 159123,
       "word": "江苏卫视跨年第四波阵容",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1734601818,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156752,
+      "num": 156752,
+      "word": "阿米尔汗自曝曾退出影坛没人发现",
+      "onboard_time": 1734612379,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 156373,
@@ -1675,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150550,
+      "num": 150550,
+      "word": "28岁宿管阿姨在宿舍大作战的一天",
+      "onboard_time": 1734610219,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150384,
       "num": 150384,
       "word": "原来这样是语言孤立",
@@ -1691,20 +1731,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148503,
+      "num": 148503,
+      "word": "于和伟说演员不能当空心人",
+      "onboard_time": 1734609500,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147988,
+      "num": 147988,
+      "word": "准备圣诞礼物",
+      "onboard_time": 1734612439,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147931,
       "num": 257074,
       "word": "恋与深空名创优品联名",
       "onboard_time": 1734601579,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146143,
-      "num": 146143,
-      "word": "28岁宿管阿姨在宿舍大作战的一天",
-      "onboard_time": 1734610219,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 145825,
@@ -1739,12 +1787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142031,
-      "num": 153561,
-      "word": "名创优品回应恋与深空联名价格高",
-      "onboard_time": 1734610938,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 142593,
+      "num": 527546,
+      "word": "俄自杀式无人机摧毁M1A1坦克",
+      "onboard_time": 1734610998,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141386,
@@ -1768,14 +1816,6 @@
       "word": "印度一渡轮与海军船只相撞至少13死",
       "onboard_time": 1734579798,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 136541,
-      "num": 136541,
-      "word": "俄自杀式无人机摧毁M1A1坦克",
-      "onboard_time": 1734610998,
-      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -1843,20 +1883,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132449,
+      "num": 132449,
+      "word": "爱上始祖鸟完全是因为文淇",
+      "onboard_time": 1734611777,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132122,
       "num": 207339,
       "word": "留几手早期征婚启事",
       "onboard_time": 1734596119,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131555,
-      "num": 131555,
-      "word": "于和伟说演员不能当空心人",
-      "onboard_time": 1734609500,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 130577,
@@ -1876,7 +1916,7 @@
     },
     {
       "raw_hot": 130146,
-      "num": 130146,
+      "num": 154935,
       "word": "耿爽听完憋不住笑了",
       "onboard_time": 1734608178,
       "rank": 42,
@@ -1961,14 +2001,6 @@
       "onboard_time": 1734593360,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 122273,
-      "num": 122273,
-      "word": "春节档",
-      "onboard_time": 1734612138,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 122241,
@@ -2121,14 +2153,6 @@
       "onboard_time": 1734593719,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115121,
-      "num": 115121,
-      "word": "爱上始祖鸟完全是因为文淇",
-      "onboard_time": 1734611777,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 113904,
@@ -2444,7 +2468,7 @@
     },
     {
       "raw_hot": 98005,
-      "num": 178922,
+      "num": 283965,
       "word": "周深重生想当爽剧霸总",
       "onboard_time": 1734611478,
       "rank": 27,
@@ -2625,6 +2649,14 @@
       "onboard_time": 1734599659,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 80948,
+      "num": 174678,
+      "word": "丁禹兮翻牌脑筋急转弯",
+      "onboard_time": 1734609559,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 79009,
@@ -2995,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47366,
+      "num": 221786,
+      "word": "特斯拉市值一夜蒸发9600亿元",
+      "onboard_time": 1734612439,
+      "rank": 24,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 47292,
       "num": 284208,
       "word": "薅失业保险羊毛把自己薅进去了",
@@ -3107,6 +3147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37993,
+      "num": 266528,
+      "word": "王一博起诉两公司侵权",
+      "onboard_time": 1734612859,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35641,
+      "num": 853342,
+      "word": "Citywalk带你领略多彩澳门",
+      "onboard_time": 1734602118,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35393,
       "num": 125529,
       "word": "香葱腊肉拿铁",
@@ -3121,14 +3177,6 @@
       "onboard_time": 1734585499,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 34637,
-      "num": 853342,
-      "word": "Citywalk带你领略多彩澳门",
-      "onboard_time": 1734602118,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34481,
@@ -3276,7 +3324,7 @@
     },
     {
       "raw_hot": 30570,
-      "num": 177764,
+      "num": 259761,
       "word": "2025神气韵",
       "onboard_time": 1734611180,
       "rank": 29,
@@ -3300,7 +3348,7 @@
     },
     {
       "raw_hot": 29080,
-      "num": 178412,
+      "num": 274698,
       "word": "荣耀Magic7系列大王影像首曝",
       "onboard_time": 1734611598,
       "rank": 28,
@@ -3481,6 +3529,14 @@
       "onboard_time": 1734531321,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17783,
+      "num": 200759,
+      "word": "医保高报销率的动脉瘤手术",
+      "onboard_time": 1734612978,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17466,
