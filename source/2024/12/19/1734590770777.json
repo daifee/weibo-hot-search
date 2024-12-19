@@ -1,0 +1,410 @@
+{
+  "runTime": 1734590770777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1295707,
+        "num": 1295707,
+        "word": "余华英重审二审死刑",
+        "onboard_time": 1734587480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 583119,
+        "num": 583119,
+        "word": "张杰感谢丁禹兮",
+        "onboard_time": 1734589159,
+        "rank": 1,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 43152,
+        "num": 575873,
+        "word": "120秒看璀璨澳门",
+        "onboard_time": 1734580579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569557,
+        "num": 569557,
+        "word": "网红收入超千万报税竟未达5000元",
+        "onboard_time": 1734576498,
+        "rank": 3,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 516575,
+        "num": 516575,
+        "word": "男子彩票中奖834万称暂不告诉儿子",
+        "onboard_time": 1734583821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424335,
+        "num": 424335,
+        "word": "考研和不考研的都听爽了",
+        "onboard_time": 1734584121,
+        "rank": 5,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 326235,
+        "num": 423619,
+        "word": "祝绪丹杨仕泽双人大片",
+        "onboard_time": 1734585979,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 278821,
+        "num": 413249,
+        "word": "星光大赏",
+        "onboard_time": 1734589818,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253925,
+        "num": 402145,
+        "word": "赵丽颖或将出演电影丹心恋人",
+        "onboard_time": 1734587419,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137936,
+        "num": 394261,
+        "word": "金饰价格一夜降16元每克",
+        "onboard_time": 1734589639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384720,
+        "num": 384720,
+        "word": "脑瘫女孩备孕被质疑不负责",
+        "onboard_time": 1734567980,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377714,
+        "num": 377714,
+        "word": "冉莹颖儿子打生长激素25天情绪崩溃",
+        "onboard_time": 1734575778,
+        "rank": 11,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 213144,
+        "num": 351644,
+        "word": "余华英案件重审二审",
+        "onboard_time": 1734572538,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344527,
+        "num": 344527,
+        "word": "男子给已婚同事发么么哒被辞退",
+        "onboard_time": 1734580878,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45498,
+        "num": 331808,
+        "word": "当代年轻人边熬夜边买保险",
+        "onboard_time": 1734588020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331472,
+        "num": 331472,
+        "word": "读研的意义不只是为了工作",
+        "onboard_time": 1734588739,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225110,
+        "num": 225110,
+        "word": "黄金重挫2%",
+        "onboard_time": 1734571278,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225956,
+        "num": 224642,
+        "word": "麦琳给葛夕自信",
+        "onboard_time": 1734590538,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30556,
+        "num": 224181,
+        "word": "2024国产汽车销量成绩单",
+        "onboard_time": 1734590598,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47292,
+        "num": 223765,
+        "word": "薅失业保险羊毛把自己薅进去了",
+        "onboard_time": 1734589159,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329270,
+        "num": 223316,
+        "word": "向太 死了就不老了",
+        "onboard_time": 1734583161,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 223114,
+        "num": 223114,
+        "word": "吴昕 死嘴快说",
+        "onboard_time": 1734582859,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199407,
+        "num": 219420,
+        "word": "余华英不能再上诉",
+        "onboard_time": 1734590538,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217939,
+        "num": 217939,
+        "word": "全红婵加入崔宸曦王楚钦群聊",
+        "onboard_time": 1734586400,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48499,
+        "num": 215408,
+        "word": "哈尔滨亚冬会倒计时50天",
+        "onboard_time": 1734589758,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214283,
+        "num": 214283,
+        "word": "李昀锐两个新商务同时预热",
+        "onboard_time": 1734589639,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190312,
+        "num": 214153,
+        "word": "留几手葛夕 柏拉图",
+        "onboard_time": 1734584600,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171557,
+        "num": 213756,
+        "word": "李昀锐角色宿命感",
+        "onboard_time": 1734589639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69538,
+        "num": 213654,
+        "word": "合肥工业大学祝你研途微光",
+        "onboard_time": 1734590598,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125372,
+        "num": 213288,
+        "word": "猎罪2给角色准备的杀青礼物",
+        "onboard_time": 1734590357,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125074,
+        "num": 213009,
+        "word": "两句话让崔胜澈为你买单",
+        "onboard_time": 1734588619,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214548,
+        "num": 212571,
+        "word": "澳门科技大学",
+        "onboard_time": 1734582140,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212494,
+        "num": 212494,
+        "word": "大学生恋爱四个月花费近60万",
+        "onboard_time": 1734577878,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198354,
+        "num": 198354,
+        "word": "考研",
+        "onboard_time": 1734589939,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186621,
+        "num": 186621,
+        "word": "留几手 我发明了一套软学",
+        "onboard_time": 1734590659,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92526,
+        "num": 174125,
+        "word": "马英九访问团赴哈尔滨成都",
+        "onboard_time": 1734590298,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170933,
+        "num": 170933,
+        "word": "九重紫 狗来了都得挨一巴掌",
+        "onboard_time": 1734587780,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164571,
+        "num": 164571,
+        "word": "张杰说自己第一次近距离见到粉丝",
+        "onboard_time": 1734588619,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162630,
+        "num": 162630,
+        "word": "谢楠 我认识李川那时候他不这样",
+        "onboard_time": 1734583101,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151367,
+        "num": 151367,
+        "word": "取消公摊购房成本会降吗",
+        "onboard_time": 1734584781,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 150645,
+        "num": 150645,
+        "word": "孟母三迁行 月薪三千不行",
+        "onboard_time": 1734587358,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145010,
+        "num": 145010,
+        "word": "网剧冬至",
+        "onboard_time": 1734587960,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22147,
+        "num": 137759,
+        "word": "去度假农庄一起种地吧",
+        "onboard_time": 1734590598,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137319,
+        "num": 137319,
+        "word": "肖战黑西装长发",
+        "onboard_time": 1734581840,
+        "rank": 43,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 121939,
+        "num": 121939,
+        "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
+        "onboard_time": 1734584600,
+        "rank": 44,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 118196,
+        "num": 118196,
+        "word": "美国股市巨震",
+        "onboard_time": 1734574399,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 118016,
+        "word": "李小冉比贺峻霖爸爸还大",
+        "onboard_time": 1734587538,
+        "rank": 46,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 117522,
+        "num": 117522,
+        "word": "迷雾剧场2025片单",
+        "onboard_time": 1734588320,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113881,
+        "num": 113881,
+        "word": "刘诗诗湿发微醺芭莎大片",
+        "onboard_time": 1734585679,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112479,
+        "num": 112479,
+        "word": "多地官宣将取消公摊",
+        "onboard_time": 1734534080,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

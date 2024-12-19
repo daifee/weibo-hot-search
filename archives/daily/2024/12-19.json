@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734589972053,
+  "endTime": 1734590770777,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -41,6 +41,14 @@
       "onboard_time": 1734585859,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1295707,
+      "num": 1295707,
+      "word": "余华英重审二审死刑",
+      "onboard_time": 1734587480,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1194832,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 622021,
-      "num": 1099523,
-      "word": "余华英重审二审死刑",
-      "onboard_time": 1734587480,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 619789,
       "num": 619789,
       "word": "再见爱人",
@@ -225,6 +225,14 @@
       "onboard_time": 1734580758,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583119,
+      "num": 583119,
+      "word": "张杰感谢丁禹兮",
+      "onboard_time": 1734589159,
+      "rank": 5,
+      "category": "电影,演出"
     },
     {
       "raw_hot": 551173,
@@ -347,14 +355,6 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 401736,
-      "num": 401736,
-      "word": "张杰感谢丁禹兮",
-      "onboard_time": 1734589159,
-      "rank": 5,
-      "category": "电影,演出"
-    },
-    {
       "raw_hot": 395286,
       "num": 395286,
       "word": "李现背十公斤摄影设备徒步",
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 343837,
-      "num": 343837,
+      "num": 423619,
       "word": "祝绪丹杨仕泽双人大片",
       "onboard_time": 1734585979,
       "rank": 6,
@@ -441,6 +441,14 @@
       "onboard_time": 1734534321,
       "rank": 4,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 331472,
+      "num": 331472,
+      "word": "读研的意义不只是为了工作",
+      "onboard_time": 1734588739,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 331244,
@@ -475,20 +483,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 284350,
-      "num": 284350,
-      "word": "读研的意义不只是为了工作",
-      "onboard_time": 1734588739,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 279778,
       "num": 361831,
       "word": "倪萍 六十多岁叫二十多岁小孩儿弟弟",
       "onboard_time": 1734584600,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 278821,
+      "num": 413249,
+      "word": "星光大赏",
+      "onboard_time": 1734589818,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 276673,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 272031,
-      "num": 284909,
+      "num": 402145,
       "word": "赵丽颖或将出演电影丹心恋人",
       "onboard_time": 1734587419,
       "rank": 15,
@@ -561,6 +569,14 @@
       "onboard_time": 1734586400,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225956,
+      "num": 224642,
+      "word": "麦琳给葛夕自信",
+      "onboard_time": 1734590538,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 223955,
@@ -707,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199407,
+      "num": 219420,
+      "word": "余华英不能再上诉",
+      "onboard_time": 1734590538,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198837,
       "num": 198837,
       "word": "苟仲文被逮捕",
@@ -721,6 +745,14 @@
       "onboard_time": 1734578118,
       "rank": 27,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 198354,
+      "num": 198354,
+      "word": "考研",
+      "onboard_time": 1734589939,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 196862,
@@ -827,6 +859,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186621,
+      "num": 186621,
+      "word": "留几手 我发明了一套软学",
+      "onboard_time": 1734590659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182721,
       "num": 182721,
       "word": "伊朗男子街头戳刺女性被判死刑",
@@ -891,20 +931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171557,
+      "num": 284332,
+      "word": "李昀锐角色宿命感",
+      "onboard_time": 1734589639,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170933,
+      "num": 280013,
+      "word": "九重紫 狗来了都得挨一巴掌",
+      "onboard_time": 1734587780,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167843,
       "num": 216009,
       "word": "李昊傻傻的兄弟还有开心的我",
       "onboard_time": 1734581899,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167045,
-      "num": 280013,
-      "word": "九重紫 狗来了都得挨一巴掌",
-      "onboard_time": 1734587780,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 166526,
@@ -979,14 +1027,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 154118,
-      "num": 154118,
-      "word": "星光大赏",
-      "onboard_time": 1734589818,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
@@ -1016,6 +1056,14 @@
       "word": "谢可寅演技",
       "onboard_time": 1734540316,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145010,
+      "num": 145010,
+      "word": "网剧冬至",
+      "onboard_time": 1734587960,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1051,12 +1099,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 134880,
-      "num": 134880,
-      "word": "网剧冬至",
-      "onboard_time": 1734587960,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 137936,
+      "num": 394261,
+      "word": "金饰价格一夜降16元每克",
+      "onboard_time": 1734589639,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134785,
@@ -1091,20 +1139,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 128643,
-      "num": 128643,
-      "word": "考研",
-      "onboard_time": 1734589939,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 127218,
       "num": 177909,
       "word": "陈都灵月鳞绮纪红衣披发路透",
       "onboard_time": 1734577397,
       "rank": 29,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 125372,
+      "num": 213288,
+      "word": "猎罪2给角色准备的杀青礼物",
+      "onboard_time": 1734590357,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 125236,
@@ -1147,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120752,
+      "num": 118016,
+      "word": "李小冉比贺峻霖爸爸还大",
+      "onboard_time": 1734587538,
+      "rank": 46,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 120580,
       "num": 177966,
       "word": "封神2 魔家四将班味好重",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1734538758,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117522,
+      "num": 117522,
+      "word": "迷雾剧场2025片单",
+      "onboard_time": 1734588320,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 117416,
@@ -1395,14 +1459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97962,
-      "num": 284332,
-      "word": "李昀锐角色宿命感",
-      "onboard_time": 1734589639,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96910,
       "num": 370276,
       "word": "虞书欣说新歌会有challenge",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1734577698,
       "rank": 49,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 92526,
+      "num": 174125,
+      "word": "马英九访问团赴哈尔滨成都",
+      "onboard_time": 1734590298,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86958,
@@ -1563,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69538,
+      "num": 213654,
+      "word": "合肥工业大学祝你研途微光",
+      "onboard_time": 1734590598,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68677,
       "num": 70599,
       "word": "被林高远感染下的团魂",
@@ -1601,14 +1673,6 @@
       "onboard_time": 1734540137,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 62249,
-      "num": 292961,
-      "word": "金饰价格一夜降16元每克",
-      "onboard_time": 1734589639,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61888,
@@ -1739,11 +1803,35 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 48499,
+      "num": 282748,
+      "word": "哈尔滨亚冬会倒计时50天",
+      "onboard_time": 1734589758,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47292,
+      "num": 284208,
+      "word": "薅失业保险羊毛把自己薅进去了",
+      "onboard_time": 1734589159,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46815,
       "num": 267672,
       "word": "余华英案件时间线",
       "onboard_time": 1734575539,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45498,
+      "num": 331808,
+      "word": "当代年轻人边熬夜边买保险",
+      "onboard_time": 1734588020,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1761,14 +1849,6 @@
       "onboard_time": 1734551531,
       "rank": 31,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 41532,
-      "num": 284208,
-      "word": "薅失业保险羊毛把自己薅进去了",
-      "onboard_time": 1734589159,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40707,
@@ -1843,14 +1923,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 32671,
-      "num": 286739,
-      "word": "当代年轻人边熬夜边买保险",
-      "onboard_time": 1734588020,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32237,
       "num": 362746,
       "word": "首钢大跳台诞生世界新纪录",
@@ -1889,6 +1961,14 @@
       "onboard_time": 1734586039,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30556,
+      "num": 224181,
+      "word": "2024国产汽车销量成绩单",
+      "onboard_time": 1734590598,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 29766,
@@ -1939,20 +2019,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23249,
-      "num": 282748,
-      "word": "哈尔滨亚冬会倒计时50天",
-      "onboard_time": 1734589758,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22262,
       "num": 23542,
       "word": "科内利亚诺世俱杯两连胜",
       "onboard_time": 1734537619,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22147,
+      "num": 137759,
+      "word": "去度假农庄一起种地吧",
+      "onboard_time": 1734590598,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 21800,
