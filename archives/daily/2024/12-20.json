@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734635910834,
+  "endTime": 1734636952530,
   "band_list": [
     {
       "raw_hot": 980971,
@@ -483,6 +483,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 23852,
+      "num": 59524,
+      "word": "中国代表当场驳斥美方歪曲抹黑",
+      "onboard_time": 1734634452,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22243,
       "num": 23269,
       "word": "小小的我预售破4000w",
@@ -507,16 +515,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19754,
-      "num": 59524,
-      "word": "中国代表当场驳斥美方歪曲抹黑",
-      "onboard_time": 1734634452,
-      "rank": 9,
+      "raw_hot": 17092,
+      "num": 17092,
+      "word": "濠江欢歌向未来",
+      "onboard_time": 1734627915,
+      "rank": 40,
       "category": "国内时政"
     },
     {
-      "raw_hot": 16634,
-      "num": 16930,
+      "raw_hot": 16839,
+      "num": 25284,
       "word": "普京召开年度记者会",
       "onboard_time": 1734634813,
       "rank": 43,
