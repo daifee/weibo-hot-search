@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734621886183,
+  "endTime": 1734622757405,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -147,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1078596,
+      "num": 1172575,
+      "word": "女子暂不结婚朋友退还2000元份子钱",
+      "onboard_time": 1734619160,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1046200,
       "num": 1046200,
       "word": "女子长年便秘结肠如巨蟒盘踞腹中",
@@ -248,14 +256,6 @@
       "word": "36岁女子摸到胸部疙瘩查出乳腺癌",
       "onboard_time": 1734563655,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 863917,
-      "num": 1138226,
-      "word": "女子暂不结婚朋友退还2000元份子钱",
-      "onboard_time": 1734619160,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -715,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 373437,
+      "num": 373437,
+      "word": "刘诗诗胡先煦合作",
+      "onboard_time": 1734621140,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370872,
       "num": 370872,
       "word": "张颂文演技",
@@ -873,14 +881,6 @@
       "onboard_time": 1734583101,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 313966,
-      "num": 313966,
-      "word": "刘诗诗胡先煦合作",
-      "onboard_time": 1734621140,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 305550,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1734590538,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224318,
+      "num": 224318,
+      "word": "业内人士曝张继科代言费",
+      "onboard_time": 1734621559,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 223955,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1734578118,
       "rank": 27,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 198469,
+      "num": 198469,
+      "word": "上海体育局发声",
+      "onboard_time": 1734621979,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 198057,
@@ -2019,6 +2035,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 143657,
+      "num": 303174,
+      "word": "取消公摊后物业费税费咋算",
+      "onboard_time": 1734620360,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 143458,
       "num": 207432,
       "word": "张继科和蝴蝶不再续约",
@@ -2403,12 +2427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117285,
-      "num": 303174,
-      "word": "取消公摊后物业费税费咋算",
-      "onboard_time": 1734620360,
-      "rank": 9,
-      "category": "议题讨论"
+      "raw_hot": 116981,
+      "num": 248578,
+      "word": "雄狮少年2主创回应争议",
+      "onboard_time": 1734621140,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 116349,
@@ -2425,6 +2449,14 @@
       "onboard_time": 1734595819,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116151,
+      "num": 271322,
+      "word": "普京称俄愿在乌克兰问题上妥协",
+      "onboard_time": 1734621678,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115770,
@@ -2555,14 +2587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109894,
-      "num": 161574,
-      "word": "业内人士曝张继科代言费",
-      "onboard_time": 1734621559,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109310,
       "num": 278143,
       "word": "冰雪大世界回应臻享双人票涨至3988",
@@ -2628,7 +2652,7 @@
     },
     {
       "raw_hot": 105795,
-      "num": 159925,
+      "num": 201151,
       "word": "余华看郑钦文奥运比赛到手抖",
       "onboard_time": 1734621320,
       "rank": 30,
@@ -2963,6 +2987,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86301,
+      "num": 86301,
+      "word": "郑钦文获WTA最受欢迎奖",
+      "onboard_time": 1734622399,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86214,
       "num": 105862,
       "word": "2024中国体育高光名场面",
@@ -2977,6 +3009,14 @@
       "onboard_time": 1734606199,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85608,
+      "num": 85608,
+      "word": "推进取消公摊不要只看到拉动楼市",
+      "onboard_time": 1734621258,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84727,
@@ -3025,14 +3065,6 @@
       "onboard_time": 1734537078,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77068,
-      "num": 248578,
-      "word": "雄狮少年2主创回应争议",
-      "onboard_time": 1734621140,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 76997,
@@ -3299,14 +3331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 57835,
-      "num": 271322,
-      "word": "普京称俄愿在乌克兰问题上妥协",
-      "onboard_time": 1734621678,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56334,
       "num": 204668,
       "word": "偶尔说脏话对心理有益",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1734570321,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54912,
+      "num": 1062416,
+      "word": "随手拍都好看的澳门骑楼有多出片",
+      "onboard_time": 1734614960,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54577,
@@ -3385,14 +3417,6 @@
       "onboard_time": 1734605899,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 50437,
-      "num": 1062416,
-      "word": "随手拍都好看的澳门骑楼有多出片",
-      "onboard_time": 1734614960,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 49985,
@@ -3467,6 +3491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47225,
+      "num": 215172,
+      "word": "电影超人先导预告",
+      "onboard_time": 1734622338,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46815,
       "num": 267672,
       "word": "余华英案件时间线",
@@ -3529,6 +3561,14 @@
       "onboard_time": 1734552731,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40499,
+      "num": 266093,
+      "word": "买彩票中大奖应该告诉孩子吗",
+      "onboard_time": 1734621500,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 40029,
@@ -3915,14 +3955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22988,
-      "num": 266093,
-      "word": "买彩票中大奖应该告诉孩子吗",
-      "onboard_time": 1734621500,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 22262,
       "num": 23542,
       "word": "科内利亚诺世俱杯两连胜",
@@ -4009,6 +4041,14 @@
       "onboard_time": 1734554232,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16824,
+      "num": 149499,
+      "word": "考研前一天要给朋友发祝福吗",
+      "onboard_time": 1734622099,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 16269,
