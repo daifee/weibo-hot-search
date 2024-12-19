@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734580081911,
+  "endTime": 1734582491754,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1445095,
-      "num": 1445095,
+      "raw_hot": 1485754,
+      "num": 1485754,
       "word": "网红收入超千万报税竟未达5000元",
       "onboard_time": 1734576498,
       "rank": 22,
@@ -33,6 +33,14 @@
       "onboard_time": 1734576798,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1014459,
+      "num": 331902,
+      "word": "男生疑遭霸凌求助被无视后跳楼身亡",
+      "onboard_time": 1734579857,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 972316,
@@ -99,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 708019,
+      "num": 708019,
+      "word": "光遇",
+      "onboard_time": 1734581359,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 695070,
       "num": 695070,
       "word": "余华英5000元卖儿子说是赚点营养费",
@@ -112,6 +128,14 @@
       "word": "男子帮母亲虐待饿死弟弟获刑100年",
       "onboard_time": 1734569539,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678622,
+      "num": 332109,
+      "word": "大学生恋爱四个月花费近60万",
+      "onboard_time": 1734577878,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551173,
+      "num": 551173,
+      "word": "名创优品恋与深空联名价格",
+      "onboard_time": 1734578478,
+      "rank": 32,
+      "category": "时尚,游戏"
+    },
+    {
       "raw_hot": 545539,
       "num": 399623,
       "word": "虞书欣 自己的丑自己揭",
@@ -147,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 502283,
-      "num": 332109,
-      "word": "大学生恋爱四个月花费近60万",
-      "onboard_time": 1734577878,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499546,
-      "num": 499546,
+      "raw_hot": 516706,
+      "num": 516706,
       "word": "黄金重挫2%",
       "onboard_time": 1734571278,
       "rank": 22,
@@ -211,6 +235,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 395286,
+      "num": 395286,
+      "word": "李现背十公斤摄影设备徒步",
+      "onboard_time": 1734578899,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391734,
       "num": 391734,
       "word": "一千克羽毛球做5件羽绒服",
@@ -235,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359967,
+      "num": 359967,
+      "word": "李子璇古装扮相",
+      "onboard_time": 1734580158,
+      "rank": 8,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 356872,
       "num": 357851,
       "word": "余华英案件重审二审",
@@ -249,14 +289,6 @@
       "onboard_time": 1734527781,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343785,
-      "num": 343785,
-      "word": "名创优品恋与深空联名价格",
-      "onboard_time": 1734578478,
-      "rank": 32,
-      "category": "时尚,游戏"
     },
     {
       "raw_hot": 343047,
@@ -275,12 +307,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 338689,
+      "num": 276733,
+      "word": "母亲带3岁娃公园散步被4条恶犬按地撕咬",
+      "onboard_time": 1734580758,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331244,
       "num": 356403,
       "word": "两个国际张双向奔赴",
       "onboard_time": 1734575838,
       "rank": 10,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 327805,
+      "num": 289341,
+      "word": "男子给已婚同事发么么哒被辞退",
+      "onboard_time": 1734580878,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288494,
@@ -291,12 +339,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287649,
+      "num": 276916,
+      "word": "肖战黑西装长发",
+      "onboard_time": 1734581840,
+      "rank": 30,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 284379,
       "num": 284379,
       "word": "高校十佳歌手大赛现场亚军怒摔奖杯",
       "onboard_time": 1734527421,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 277948,
+      "num": 277948,
+      "word": "张颂文演技",
+      "onboard_time": 1734580878,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276673,
+      "num": 276673,
+      "word": "香飘飘招聘线下奶茶店店员",
+      "onboard_time": 1734578538,
+      "rank": 34,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 273414,
@@ -315,20 +387,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259177,
-      "num": 259177,
-      "word": "香飘飘招聘线下奶茶店店员",
-      "onboard_time": 1734578538,
-      "rank": 34,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 258814,
       "num": 117811,
       "word": "研究生导师辱骂马龙孙颖莎被处分",
       "onboard_time": 1734520398,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255846,
+      "num": 335672,
+      "word": "900多吨智利车厘子来了",
+      "onboard_time": 1734578059,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250972,
@@ -403,12 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 209182,
-      "num": 334949,
-      "word": "李现背十公斤摄影设备徒步",
-      "onboard_time": 1734578899,
+      "raw_hot": 209035,
+      "num": 209035,
+      "word": "比特币狂泻超6000美元",
+      "onboard_time": 1734581120,
       "rank": 38,
-      "category": "艺人"
+      "category": "财经"
+    },
+    {
+      "raw_hot": 206199,
+      "num": 206199,
+      "word": "别人是跨晚周深是回家",
+      "onboard_time": 1734581239,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 203799,
@@ -449,6 +529,14 @@
       "onboard_time": 1734578118,
       "rank": 27,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 197542,
+      "num": 277328,
+      "word": "李小冉让贺峻霖叫爸",
+      "onboard_time": 1734581720,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 196862,
@@ -507,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190142,
+      "num": 190142,
+      "word": "檀健次被吓了一跳又一跳",
+      "onboard_time": 1734581239,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189398,
       "num": 189398,
       "word": "五哈 你们的幸福吵到我了",
@@ -529,6 +625,22 @@
       "onboard_time": 1734548711,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184600,
+      "num": 184600,
+      "word": "制止4条大型犬咬人男子系饲养员",
+      "onboard_time": 1734580457,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183866,
+      "num": 183866,
+      "word": "澳门科技大学",
+      "onboard_time": 1734582140,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 182721,
@@ -555,14 +667,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 176394,
-      "num": 176394,
-      "word": "男生疑遭霸凌求助被无视后跳楼身亡",
-      "onboard_time": 1734579857,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175646,
       "num": 175646,
       "word": "美媒爆称马斯克因涉密问题被军方审查",
@@ -572,11 +676,19 @@
     },
     {
       "raw_hot": 175234,
-      "num": 175234,
+      "num": 277178,
       "word": "DYG",
       "onboard_time": 1734577878,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167843,
+      "num": 167843,
+      "word": "李昊傻傻的兄弟还有开心的我",
+      "onboard_time": 1734581899,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 166526,
@@ -611,6 +723,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160602,
+      "num": 160602,
+      "word": "当25岁的我发现人生归零了",
+      "onboard_time": 1734581239,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159123,
       "num": 159123,
       "word": "江苏卫视跨年第四波阵容",
@@ -627,20 +747,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 155161,
-      "num": 155161,
-      "word": "900多吨智利车厘子来了",
-      "onboard_time": 1734578059,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
       "onboard_time": 1734536539,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150959,
+      "num": 150959,
+      "word": "何老师亲自玩自己的梗",
+      "onboard_time": 1734582440,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 148927,
@@ -681,6 +801,14 @@
       "onboard_time": 1734579798,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134785,
+      "num": 253336,
+      "word": "林高远还会选择乒乓",
+      "onboard_time": 1734581239,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 132795,
@@ -833,6 +961,14 @@
       "onboard_time": 1734571339,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108162,
+      "num": 158860,
+      "word": "啥是首发经济",
+      "onboard_time": 1734580280,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107335,
@@ -1075,6 +1211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68978,
+      "num": 277052,
+      "word": "余华英案第十七位被拐儿童参与旁听",
+      "onboard_time": 1734581780,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68677,
       "num": 70599,
       "word": "被林高远感染下的团魂",
@@ -1147,6 +1291,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61041,
+      "num": 301911,
+      "word": "最美的夜老朋友阵容官宣",
+      "onboard_time": 1734581899,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59809,
+      "num": 295447,
+      "word": "于适潜水短片",
+      "onboard_time": 1734582199,
+      "rank": 17,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 59600,
+      "num": 639879,
+      "word": "120秒看璀璨澳门",
+      "onboard_time": 1734580579,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59405,
       "num": 70542,
       "word": "校方回应十佳歌手大赛亚军怒摔奖杯",
@@ -1177,6 +1345,14 @@
       "onboard_time": 1734578657,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53835,
+      "num": 311741,
+      "word": "在1688上拿货被厂长拜年了",
+      "onboard_time": 1734580820,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48676,
@@ -1232,6 +1408,22 @@
       "word": "被这些国货品牌的公益行动暖到了",
       "onboard_time": 1734573859,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38278,
+      "num": 313679,
+      "word": "杨妞花说不需要靠着热度生活",
+      "onboard_time": 1734581720,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34087,
+      "num": 277583,
+      "word": "谁能拒绝这波年末好运呢",
+      "onboard_time": 1734581298,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1435,6 +1627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15259,
+      "num": 286183,
+      "word": "当地回应网传要求全县公职人员捐款",
+      "onboard_time": 1734582260,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 14169,
       "num": 34803,
       "word": "俄首次披露正研发新型洲际弹道导弹",
@@ -1508,6 +1708,9 @@
     },
     {
       "word": "#澳门是祖国的掌上明珠#"
+    },
+    {
+      "word": "#习近平澳门之行#"
     }
   ]
 }
