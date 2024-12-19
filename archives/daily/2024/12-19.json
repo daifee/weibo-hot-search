@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734597844281,
+  "endTime": 1734600326503,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -9,6 +9,14 @@
       "onboard_time": 1734575778,
       "rank": 11,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 2053349,
+      "num": 537565,
+      "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
+      "onboard_time": 1734597019,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1792934,
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537565,
-      "num": 537565,
-      "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
-      "onboard_time": 1734597019,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 530438,
       "num": 530438,
       "word": "考研和不考研的都听爽了",
@@ -337,6 +337,14 @@
       "onboard_time": 1734593478,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 489440,
+      "num": 489440,
+      "word": "江西赣州警方通报母女被恶犬咬伤",
+      "onboard_time": 1734598398,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 487897,
@@ -427,12 +435,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418424,
+      "num": 418424,
+      "word": "金价",
+      "onboard_time": 1734596960,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 411756,
       "num": 280042,
       "word": "知情人回应虎牙女主播酷萱遇害案",
       "onboard_time": 1734568518,
       "rank": 16,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 407334,
+      "num": 442317,
+      "word": "李昀锐亲完开心的跷脚",
+      "onboard_time": 1734596598,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 404299,
@@ -579,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318529,
-      "num": 318529,
-      "word": "李昀锐亲完开心的跷脚",
-      "onboard_time": 1734596598,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317311,
       "num": 362594,
       "word": "谢楠 我认识李川那时候他不这样",
@@ -635,6 +651,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 272739,
+      "num": 272739,
+      "word": "惠英红 给每一个美女一个名分",
+      "onboard_time": 1734598339,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272031,
       "num": 402145,
       "word": "赵丽颖或将出演电影丹心恋人",
@@ -657,6 +681,14 @@
       "onboard_time": 1734516919,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262005,
+      "num": 262005,
+      "word": "广州新机场要来了",
+      "onboard_time": 1734597438,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258814,
@@ -721,6 +753,14 @@
       "onboard_time": 1734586400,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226061,
+      "num": 288370,
+      "word": "脑瘫会遗传给下一代吗",
+      "onboard_time": 1734596478,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225956,
@@ -931,14 +971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 195583,
-      "num": 195583,
-      "word": "金价",
-      "onboard_time": 1734596960,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 195458,
       "num": 195458,
       "word": "向太笑称刘晓庆是傻白甜",
@@ -1075,6 +1107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180408,
+      "num": 205516,
+      "word": "李若彤 满50减30",
+      "onboard_time": 1734599239,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178894,
       "num": 178894,
       "word": "蚂蚁集团称目前没有上市计划",
@@ -1097,6 +1137,14 @@
       "onboard_time": 1734575539,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177981,
+      "num": 177981,
+      "word": "北约已从美国手中接管对乌支持工作",
+      "onboard_time": 1734596059,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175646,
@@ -1145,6 +1193,14 @@
       "onboard_time": 1734589639,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171363,
+      "num": 171363,
+      "word": "贺峻霖 包的啊奶奶",
+      "onboard_time": 1734597978,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 170933,
@@ -1211,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161395,
+      "num": 161395,
+      "word": "网剧冬至",
+      "onboard_time": 1734587960,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161364,
       "num": 161364,
       "word": "极越高管回应员工万字怒怼CEO",
@@ -1275,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151063,
-      "num": 151063,
-      "word": "北约已从美国手中接管对乌支持工作",
-      "onboard_time": 1734596059,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150781,
       "num": 265484,
       "word": "有一种爱叫我图你能赚钱",
@@ -1307,12 +1363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145010,
-      "num": 145010,
-      "word": "网剧冬至",
-      "onboard_time": 1734587960,
-      "rank": 44,
+      "raw_hot": 145825,
+      "num": 145825,
+      "word": "猎罪小分队hi6合体",
+      "onboard_time": 1734597319,
+      "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143860,
+      "num": 143860,
+      "word": "留几手放狠话全被葛夕听到了",
+      "onboard_time": 1734597799,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 143458,
@@ -1339,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140001,
+      "num": 140001,
+      "word": "赣州公园恶犬伤人2人被采取强制措施",
+      "onboard_time": 1734599720,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 139333,
       "num": 139333,
       "word": "妈妈带娃体验流放宁古塔",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1734581239,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134535,
-      "num": 134535,
-      "word": "广州新机场要来了",
-      "onboard_time": 1734597438,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133993,
@@ -1425,6 +1489,14 @@
       "onboard_time": 1734594379,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129711,
+      "num": 129711,
+      "word": "哈尔滨波司登大秀",
+      "onboard_time": 1734599720,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 127218,
@@ -1499,12 +1571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121677,
-      "num": 121677,
-      "word": "留几手放狠话全被葛夕听到了",
-      "onboard_time": 1734597799,
-      "rank": 42,
-      "category": "综艺,艺人"
+      "raw_hot": 121373,
+      "num": 435336,
+      "word": "被拐家庭称余华英还是不服判决",
+      "onboard_time": 1734599838,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120752,
@@ -1560,6 +1632,14 @@
       "word": "官方回应上海下雪了",
       "onboard_time": 1734538758,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118171,
+      "num": 265763,
+      "word": "换了套房发现房贷不能抵扣个税了",
+      "onboard_time": 1734597678,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1651,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111553,
+      "num": 111553,
+      "word": "要保证0时0分0秒升国旗奏国歌",
+      "onboard_time": 1734600259,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111276,
       "num": 360425,
       "word": "盛李豪入队一年百发百中",
@@ -1675,20 +1763,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110090,
-      "num": 110090,
-      "word": "换了套房发现房贷不能抵扣个税了",
-      "onboard_time": 1734597678,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108952,
       "num": 108952,
       "word": "陈哲远 上面到底有谁在",
       "onboard_time": 1734597620,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108687,
+      "num": 230159,
+      "word": "派派 拖米",
+      "onboard_time": 1734598279,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 108500,
@@ -1931,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91064,
+      "num": 148219,
+      "word": "索尼已成角川最大股东",
+      "onboard_time": 1734600138,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86958,
       "num": 284271,
       "word": "杨妞花回应小学文凭出书质疑",
@@ -1985,6 +2081,14 @@
       "onboard_time": 1734537078,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76746,
+      "num": 278143,
+      "word": "冰雪大世界回应臻享双人票涨至3988",
+      "onboard_time": 1734598939,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76053,
@@ -2307,14 +2411,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 42533,
-      "num": 288370,
-      "word": "脑瘫会遗传给下一代吗",
-      "onboard_time": 1734596478,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 40707,
       "num": 55973,
       "word": "秦陵兵马俑不养闲俑",
@@ -2329,6 +2425,22 @@
       "onboard_time": 1734596899,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39693,
+      "num": 275288,
+      "word": "2024年度理财现象",
+      "onboard_time": 1734598819,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 39614,
+      "num": 204668,
+      "word": "偶尔说脏话对心理有益",
+      "onboard_time": 1734599959,
+      "rank": 29,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 39357,
@@ -2347,6 +2459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38099,
+      "num": 263997,
+      "word": "郭采洁 语塞的时候靠表情包",
+      "onboard_time": 1734597978,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35393,
       "num": 125529,
       "word": "香葱腊肉拿铁",
@@ -2361,6 +2481,14 @@
       "onboard_time": 1734585499,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 34474,
+      "num": 431378,
+      "word": "余华英给12个家庭带来一生伤痛",
+      "onboard_time": 1734599180,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34087,
@@ -2435,6 +2563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30880,
+      "num": 204796,
+      "word": "华为尊界尊在哪里",
+      "onboard_time": 1734599119,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 30806,
       "num": 30806,
       "word": "医保额度年底清零系谣言",
@@ -2475,12 +2611,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28369,
+      "num": 237241,
+      "word": "智界R7首搭华为智能静音增程系统",
+      "onboard_time": 1734598398,
+      "rank": 23,
+      "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 28139,
+      "num": 267977,
+      "word": "倪萍说刘晓庆精力旺盛",
+      "onboard_time": 1734599659,
+      "rank": 18,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 27716,
       "num": 283778,
       "word": "杨妞花谈到自己三年来的变化",
       "onboard_time": 1734579018,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27444,
+      "num": 134875,
+      "word": "用做高定的思路做一件羽绒服",
+      "onboard_time": 1734598759,
+      "rank": 45,
+      "category": "时尚"
     },
     {
       "raw_hot": 26913,
