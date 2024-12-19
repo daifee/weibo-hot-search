@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734593005737,
+  "endTime": 1734593760959,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1522973,
-      "num": 476149,
+      "num": 507012,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1225498,
+      "num": 1225498,
+      "word": "金饰价格一夜降16元每克",
+      "onboard_time": 1734589639,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1224265,
       "num": 1224265,
       "word": "王鹤棣 如果哪天我不帅了",
@@ -481,6 +489,14 @@
       "onboard_time": 1734576798,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1187792,
+      "num": 1187792,
+      "word": "张继科 多尼克",
+      "onboard_time": 1734592039,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1186737,
@@ -609,14 +625,6 @@
       "onboard_time": 1734414319,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1081410,
-      "num": 1173025,
-      "word": "金饰价格一夜降16元每克",
-      "onboard_time": 1734589639,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1080087,
@@ -2859,6 +2867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 445717,
+      "num": 445717,
+      "word": "星光大赏",
+      "onboard_time": 1734589818,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443026,
       "num": 443026,
       "word": "丁程鑫后援会官博发文",
@@ -2875,12 +2891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441065,
-      "num": 441065,
-      "word": "星光大赏",
-      "onboard_time": 1734589818,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 441441,
+      "num": 441441,
+      "word": "考研",
+      "onboard_time": 1734589939,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 440470,
@@ -3177,14 +3193,6 @@
       "onboard_time": 1734235099,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 407405,
-      "num": 407405,
-      "word": "考研",
-      "onboard_time": 1734589939,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 405073,
@@ -3787,14 +3795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333279,
-      "num": 333279,
-      "word": "张继科 多尼克",
-      "onboard_time": 1734592039,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332545,
       "num": 193705,
       "word": "穿袜子睡觉会减少夜醒次数",
@@ -3913,6 +3913,14 @@
       "onboard_time": 1734511700,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 322532,
+      "num": 441460,
+      "word": "杨妞花说这次是最后一战",
+      "onboard_time": 1734591558,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321897,
@@ -4395,6 +4403,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 279299,
+      "num": 279299,
+      "word": "樊振东球迷会发声明",
+      "onboard_time": 1734592517,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 279117,
       "num": 419667,
       "word": "张元英 sense高定首封",
@@ -4819,6 +4835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247997,
+      "num": 291565,
+      "word": "李昀锐两个新商务同时预热",
+      "onboard_time": 1734589639,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247987,
       "num": 268248,
       "word": "田曦薇逐玉红衣高马尾路透",
@@ -5065,6 +5089,14 @@
       "onboard_time": 1734223938,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232848,
+      "num": 288956,
+      "word": "吴奇隆微博两人互动还停留在19年",
+      "onboard_time": 1734590837,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 232549,
@@ -5321,14 +5353,6 @@
       "onboard_time": 1734425899,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221743,
-      "num": 281537,
-      "word": "李昀锐两个新商务同时预热",
-      "onboard_time": 1734589639,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 220822,
@@ -5939,14 +5963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204009,
-      "num": 204009,
-      "word": "樊振东球迷会发声明",
-      "onboard_time": 1734592517,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203804,
       "num": 203804,
       "word": "白敬亭回复宋亚轩",
@@ -6209,6 +6225,14 @@
       "onboard_time": 1734517102,
       "rank": 15,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 199475,
+      "num": 199475,
+      "word": "被大型犬撕咬母亲全身十余处受伤",
+      "onboard_time": 1734593059,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198837,
@@ -6739,6 +6763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191434,
+      "num": 191434,
+      "word": "魏晨 我奶奶家的蕾丝边",
+      "onboard_time": 1734593239,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191088,
       "num": 246549,
       "word": "成毅确认参加湖南卫视跨年",
@@ -6961,14 +6993,6 @@
       "onboard_time": 1734338479,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187314,
-      "num": 409259,
-      "word": "杨妞花说这次是最后一战",
-      "onboard_time": 1734591558,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187147,
@@ -8699,6 +8723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155448,
+      "num": 155448,
+      "word": "何炅 我不但懂食物我更懂爱",
+      "onboard_time": 1734592459,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155352,
       "num": 315708,
       "word": "黄雅琼说很开心雅思圆满收官",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1734536539,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153393,
+      "num": 128861,
+      "word": "杨仕泽为什么插祝绪丹的兜",
+      "onboard_time": 1734593478,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 153371,
@@ -9171,6 +9211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148617,
+      "num": 282308,
+      "word": "湖南卫视跨年晚会共创节目单",
+      "onboard_time": 1734593118,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148519,
       "num": 419231,
       "word": "黑神话同时在线玩家峰值重回20万",
@@ -9241,14 +9289,6 @@
       "onboard_time": 1734418759,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147131,
-      "num": 147131,
-      "word": "何炅 我不但懂食物我更懂爱",
-      "onboard_time": 1734592459,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 146682,
@@ -10035,6 +10075,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "跃动青春第2季制作决定",
+      "onboard_time": 1734593419,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 133703,
       "num": 155195,
       "word": "潘宏 小姑娘来上班",
@@ -10723,6 +10771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123632,
+      "num": 123632,
+      "word": "i人为何对交换礼物情有独钟",
+      "onboard_time": 1734593360,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123402,
       "num": 154852,
       "word": "以色列空袭叙军事基地炸出蘑菇云",
@@ -10777,14 +10833,6 @@
       "onboard_time": 1734435859,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122668,
-      "num": 122668,
-      "word": "吴奇隆微博两人互动还停留在19年",
-      "onboard_time": 1734590837,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 122551,
@@ -11067,6 +11115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117698,
+      "num": 117698,
+      "word": "孟子义李昀锐翻身吻花絮",
+      "onboard_time": 1734592820,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117592,
       "num": 250988,
       "word": "女子网上兼职配音被骗走7万多",
@@ -11259,20 +11315,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "甄嬛传 梗密集到不知道先笑哪一个",
+      "onboard_time": 1734593719,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114874,
       "num": 114874,
       "word": "樊振东说莫舍己道勿扰他心",
       "onboard_time": 1734250399,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114669,
-      "num": 114669,
-      "word": "孟子义李昀锐翻身吻花絮",
-      "onboard_time": 1734592820,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 114513,
@@ -11385,6 +11441,14 @@
       "onboard_time": 1734264679,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112994,
+      "num": 112994,
+      "word": "再见爱人这一期好敢聊",
+      "onboard_time": 1734593659,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112823,
@@ -12041,6 +12105,14 @@
       "onboard_time": 1734170481,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101699,
+      "num": 133561,
+      "word": "儿童肺炎到底CT不CT",
+      "onboard_time": 1734591257,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101492,
@@ -13203,6 +13275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72501,
+      "num": 442557,
+      "word": "律师解读死刑判决下达后多久执行",
+      "onboard_time": 1734593118,
+      "rank": 8,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 72485,
       "num": 89532,
       "word": "鹿晗五哈5路透",
@@ -13313,14 +13393,6 @@
       "onboard_time": 1734408680,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69612,
-      "num": 133561,
-      "word": "儿童肺炎到底CT不CT",
-      "onboard_time": 1734591257,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69608,
@@ -15219,6 +15291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35393,
+      "num": 125529,
+      "word": "香葱腊肉拿铁",
+      "onboard_time": 1734593540,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 35269,
       "num": 142736,
       "word": "范丞丞浙江卫视跨年晚会官宣",
@@ -15556,7 +15636,7 @@
     },
     {
       "raw_hot": 31292,
-      "num": 133927,
+      "num": 279459,
       "word": "步步有数看亚洲龙的稳实力",
       "onboard_time": 1734591919,
       "rank": 37,
@@ -16083,6 +16163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24338,
+      "num": 162093,
+      "word": "学生时代的那些尴尬瞬间",
+      "onboard_time": 1734592339,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
@@ -16553,14 +16641,6 @@
       "onboard_time": 1734258198,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 18286,
-      "num": 162093,
-      "word": "学生时代的那些尴尬瞬间",
-      "onboard_time": 1734592339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 18233,

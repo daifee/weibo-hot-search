@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734593005737,
+  "endTime": 1734593760959,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1522973,
-      "num": 476149,
+      "num": 507012,
       "word": "脑瘫女孩备孕被质疑不负责",
       "onboard_time": 1734567980,
       "rank": 10,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1225498,
+      "num": 1225498,
+      "word": "金饰价格一夜降16元每克",
+      "onboard_time": 1734589639,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1194832,
       "num": 439356,
       "word": "李昀锐手指被审判",
@@ -59,12 +67,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1081410,
-      "num": 1173025,
-      "word": "金饰价格一夜降16元每克",
-      "onboard_time": 1734589639,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 1187792,
+      "num": 1187792,
+      "word": "张继科 多尼克",
+      "onboard_time": 1734592039,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1014459,
@@ -347,12 +355,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 441065,
-      "num": 441065,
+      "raw_hot": 445717,
+      "num": 445717,
       "word": "星光大赏",
       "onboard_time": 1734589818,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 441441,
+      "num": 441441,
+      "word": "考研",
+      "onboard_time": 1734589939,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 427564,
@@ -369,14 +385,6 @@
       "onboard_time": 1734568518,
       "rank": 16,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 407405,
-      "num": 407405,
-      "word": "考研",
-      "onboard_time": 1734589939,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 404299,
@@ -475,14 +483,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 333279,
-      "num": 333279,
-      "word": "张继科 多尼克",
-      "onboard_time": 1734592039,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331472,
       "num": 331472,
       "word": "读研的意义不只是为了工作",
@@ -505,6 +505,14 @@
       "onboard_time": 1734590659,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322532,
+      "num": 441460,
+      "word": "杨妞花说这次是最后一战",
+      "onboard_time": 1734591558,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317311,
@@ -537,6 +545,14 @@
       "onboard_time": 1734584600,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 279299,
+      "num": 279299,
+      "word": "樊振东球迷会发声明",
+      "onboard_time": 1734592517,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 276673,
@@ -595,11 +611,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247997,
+      "num": 291565,
+      "word": "李昀锐两个新商务同时预热",
+      "onboard_time": 1734589639,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242949,
       "num": 184684,
       "word": "田柾国直播",
       "onboard_time": 1734533780,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232848,
+      "num": 288956,
+      "word": "吴奇隆微博两人互动还停留在19年",
+      "onboard_time": 1734590837,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -633,14 +665,6 @@
       "onboard_time": 1734529521,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221743,
-      "num": 281537,
-      "word": "李昀锐两个新商务同时预热",
-      "onboard_time": 1734589639,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 220626,
@@ -739,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204009,
-      "num": 204009,
-      "word": "樊振东球迷会发声明",
-      "onboard_time": 1734592517,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203799,
       "num": 333200,
       "word": "王俊凯加盟官宣江苏卫视跨年",
@@ -776,6 +792,14 @@
       "word": "网红厦门小程三年申报收入仅数万",
       "onboard_time": 1734538578,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199475,
+      "num": 199475,
+      "word": "被大型犬撕咬母亲全身十余处受伤",
+      "onboard_time": 1734593059,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -875,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191434,
+      "num": 191434,
+      "word": "魏晨 我奶奶家的蕾丝边",
+      "onboard_time": 1734593239,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190142,
       "num": 190142,
       "word": "檀健次被吓了一跳又一跳",
@@ -921,14 +953,6 @@
       "onboard_time": 1734588619,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 187314,
-      "num": 409259,
-      "word": "杨妞花说这次是最后一战",
-      "onboard_time": 1734591558,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182721,
@@ -1091,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155448,
+      "num": 155448,
+      "word": "何炅 我不但懂食物我更懂爱",
+      "onboard_time": 1734592459,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155222,
       "num": 155222,
       "word": "女司机报警寻找被撞的人",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1734536539,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153393,
+      "num": 128861,
+      "word": "杨仕泽为什么插祝绪丹的兜",
+      "onboard_time": 1734593478,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 150781,
@@ -1131,11 +1171,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147131,
-      "num": 147131,
-      "word": "何炅 我不但懂食物我更懂爱",
-      "onboard_time": 1734592459,
-      "rank": 32,
+      "raw_hot": 148617,
+      "num": 282308,
+      "word": "湖南卫视跨年晚会共创节目单",
+      "onboard_time": 1734593118,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1185,6 +1225,14 @@
       "onboard_time": 1734581239,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133993,
+      "num": 133993,
+      "word": "跃动青春第2季制作决定",
+      "onboard_time": 1734593419,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 133474,
@@ -1275,12 +1323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122668,
-      "num": 122668,
-      "word": "吴奇隆微博两人互动还停留在19年",
-      "onboard_time": 1734590837,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 123632,
+      "num": 123632,
+      "word": "i人为何对交换礼物情有独钟",
+      "onboard_time": 1734593360,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 122133,
@@ -1339,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117698,
+      "num": 117698,
+      "word": "孟子义李昀锐翻身吻花絮",
+      "onboard_time": 1734592820,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117522,
       "num": 117522,
       "word": "迷雾剧场2025片单",
@@ -1363,11 +1419,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114669,
-      "num": 114669,
-      "word": "孟子义李昀锐翻身吻花絮",
-      "onboard_time": 1734592820,
-      "rank": 48,
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "甄嬛传 梗密集到不知道先笑哪一个",
+      "onboard_time": 1734593719,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1393,6 +1449,14 @@
       "onboard_time": 1734565037,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112994,
+      "num": 112994,
+      "word": "再见爱人这一期好敢聊",
+      "onboard_time": 1734593659,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112081,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1734569000,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101699,
+      "num": 133561,
+      "word": "儿童肺炎到底CT不CT",
+      "onboard_time": 1734591257,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100429,
@@ -1715,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72501,
+      "num": 442557,
+      "word": "律师解读死刑判决下达后多久执行",
+      "onboard_time": 1734593118,
+      "rank": 8,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 71776,
       "num": 92604,
       "word": "江苏卫视跨年预约第一",
@@ -1745,14 +1825,6 @@
       "onboard_time": 1734524180,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 69612,
-      "num": 133561,
-      "word": "儿童肺炎到底CT不CT",
-      "onboard_time": 1734591257,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 69608,
@@ -2019,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35393,
+      "num": 125529,
+      "word": "香葱腊肉拿铁",
+      "onboard_time": 1734593540,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 34795,
       "num": 347095,
       "word": "祁煜 鲸落城的日落",
@@ -2084,7 +2164,7 @@
     },
     {
       "raw_hot": 31292,
-      "num": 133927,
+      "num": 279459,
       "word": "步步有数看亚洲龙的稳实力",
       "onboard_time": 1734591919,
       "rank": 37,
@@ -2161,6 +2241,14 @@
       "onboard_time": 1734579378,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24338,
+      "num": 162093,
+      "word": "学生时代的那些尴尬瞬间",
+      "onboard_time": 1734592339,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 23549,
@@ -2241,14 +2329,6 @@
       "onboard_time": 1734531321,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18286,
-      "num": 162093,
-      "word": "学生时代的那些尴尬瞬间",
-      "onboard_time": 1734592339,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 17466,
