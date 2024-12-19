@@ -1,6 +1,6 @@
 {
   "startTime": 1734539379711,
-  "endTime": 1734613294277,
+  "endTime": 1734615062611,
   "band_list": [
     {
       "raw_hot": 2425195,
@@ -24,6 +24,14 @@
       "word": "余华英听到宣判才掉下眼泪",
       "onboard_time": 1734594798,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1598715,
+      "num": 773670,
+      "word": "恒源祥直播间女主播穿着暴露引争议",
+      "onboard_time": 1734611418,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -139,6 +147,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 978375,
+      "num": 1156540,
+      "word": "肖战 拉夫劳伦",
+      "onboard_time": 1734611841,
+      "rank": 26,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 972316,
       "num": 459920,
       "word": "曾经打过的羽毛球正钻入你的羽绒服",
@@ -225,14 +241,6 @@
       "onboard_time": 1734566839,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 773670,
-      "num": 773670,
-      "word": "恒源祥直播间女主播穿着暴露引争议",
-      "onboard_time": 1734611418,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 773509,
@@ -401,14 +409,6 @@
       "onboard_time": 1734584121,
       "rank": 34,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 527436,
-      "num": 527436,
-      "word": "肖战 拉夫劳伦",
-      "onboard_time": 1734611841,
-      "rank": 26,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 525655,
@@ -633,6 +633,14 @@
       "onboard_time": 1734563715,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 386429,
+      "num": 527546,
+      "word": "俄自杀式无人机摧毁M1A1坦克",
+      "onboard_time": 1734610998,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 370872,
@@ -955,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227270,
+      "num": 227270,
+      "word": "奇妙国国",
+      "onboard_time": 1734614238,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226061,
       "num": 288370,
       "word": "脑瘫会遗传给下一代吗",
@@ -985,6 +1001,14 @@
       "onboard_time": 1734529521,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222253,
+      "num": 222253,
+      "word": "蛋仔派对",
+      "onboard_time": 1734613759,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 220626,
@@ -1035,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216132,
+      "num": 216132,
+      "word": "穷鬼拌饭能有多好吃",
+      "onboard_time": 1734610879,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 214666,
       "num": 351201,
       "word": "乳腺治疗室旁更衣室发现针孔摄像头",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1734573797,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 209202,
-      "num": 209202,
-      "word": "穷鬼拌饭能有多好吃",
-      "onboard_time": 1734610879,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 209035,
@@ -1251,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195229,
+      "num": 195229,
+      "word": "KBS歌谣大祝祭",
+      "onboard_time": 1734613638,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194645,
       "num": 210608,
       "word": "2025春节档电影你想看哪一部",
@@ -1323,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191334,
+      "num": 191334,
+      "word": "九重紫好甜",
+      "onboard_time": 1734613699,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190142,
       "num": 190142,
       "word": "檀健次被吓了一跳又一跳",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1734582680,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188459,
+      "num": 232519,
+      "word": "夏之光为了赢否认自己183",
+      "onboard_time": 1734613398,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 188232,
@@ -1619,6 +1667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 160963,
+      "num": 302576,
+      "word": "阿米尔汗自曝曾退出影坛没人发现",
+      "onboard_time": 1734612379,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160602,
       "num": 160602,
       "word": "当25岁的我发现人生归零了",
@@ -1643,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158819,
+      "num": 158819,
+      "word": "28岁宿管阿姨在宿舍大作战的一天",
+      "onboard_time": 1734610219,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157946,
       "num": 157946,
       "word": "盛李豪入队一年后没有9环",
@@ -1651,20 +1715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156752,
-      "num": 156752,
-      "word": "阿米尔汗自曝曾退出影坛没人发现",
-      "onboard_time": 1734612379,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156373,
       "num": 363534,
       "word": "取消公摊购房成本会降吗",
       "onboard_time": 1734584781,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 156073,
+      "num": 156073,
+      "word": "爱上始祖鸟完全是因为文淇",
+      "onboard_time": 1734611777,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 155820,
@@ -1699,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152225,
+      "num": 152225,
+      "word": "周扬青粉色卡皮巴拉圣诞树",
+      "onboard_time": 1734614660,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 150781,
       "num": 265484,
       "word": "有一种爱叫我图你能赚钱",
@@ -1707,20 +1779,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150550,
-      "num": 150550,
-      "word": "28岁宿管阿姨在宿舍大作战的一天",
-      "onboard_time": 1734610219,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 150384,
       "num": 150384,
       "word": "原来这样是语言孤立",
       "onboard_time": 1734584300,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149232,
+      "num": 211363,
+      "word": "黄梅生说不愿成为张桂梅",
+      "onboard_time": 1734613939,
+      "rank": 31,
+      "category": "正能量"
     },
     {
       "raw_hot": 148927,
@@ -1785,14 +1857,6 @@
       "onboard_time": 1734572597,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142593,
-      "num": 527546,
-      "word": "俄自杀式无人机摧毁M1A1坦克",
-      "onboard_time": 1734610998,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141386,
@@ -1881,14 +1945,6 @@
       "onboard_time": 1734577458,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132449,
-      "num": 132449,
-      "word": "爱上始祖鸟完全是因为文淇",
-      "onboard_time": 1734611777,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 132122,
@@ -2587,6 +2643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89005,
+      "num": 289666,
+      "word": "蛋仔派对主播",
+      "onboard_time": 1734614960,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86958,
       "num": 284271,
       "word": "杨妞花回应小学文凭出书质疑",
@@ -2771,6 +2835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70053,
+      "num": 384105,
+      "word": "我国成功发射一箭四星",
+      "onboard_time": 1734614539,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 69608,
       "num": 363116,
       "word": "诛仙世界人太多挤爆了",
@@ -2865,6 +2937,14 @@
       "onboard_time": 1734519379,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 61277,
+      "num": 382423,
+      "word": "年末应该买金条还是金饰",
+      "onboard_time": 1734598999,
+      "rank": 14,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 61102,
@@ -3099,6 +3179,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 41609,
+      "num": 853342,
+      "word": "Citywalk带你领略多彩澳门",
+      "onboard_time": 1734602118,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40707,
       "num": 55973,
       "word": "秦陵兵马俑不养闲俑",
@@ -3153,14 +3241,6 @@
       "onboard_time": 1734612859,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35641,
-      "num": 853342,
-      "word": "Citywalk带你领略多彩澳门",
-      "onboard_time": 1734602118,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35393,
@@ -3324,7 +3404,7 @@
     },
     {
       "raw_hot": 30570,
-      "num": 259761,
+      "num": 291931,
       "word": "2025神气韵",
       "onboard_time": 1734611180,
       "rank": 29,
@@ -3348,7 +3428,7 @@
     },
     {
       "raw_hot": 29080,
-      "num": 274698,
+      "num": 304238,
       "word": "荣耀Magic7系列大王影像首曝",
       "onboard_time": 1734611598,
       "rank": 28,
@@ -3531,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17880,
+      "num": 217464,
+      "word": "在东北上学是不是都会滑冰",
+      "onboard_time": 1734614780,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17783,
       "num": 200759,
       "word": "医保高报销率的动脉瘤手术",
@@ -3545,6 +3633,14 @@
       "onboard_time": 1734554232,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 16910,
+      "num": 294912,
+      "word": "卖蟑螂药",
+      "onboard_time": 1734614960,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 16269,
@@ -3635,6 +3731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 11693,
+      "num": 151704,
+      "word": "DIY一杯葡萄椰椰",
+      "onboard_time": 1734614480,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 11522,
       "num": 16361,
       "word": "电影小小的我特别纪录片",
@@ -3665,6 +3769,14 @@
       "onboard_time": 1734604938,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 7586,
+      "num": 386135,
+      "word": "随手拍都好看的澳门骑楼有多出片",
+      "onboard_time": 1734614960,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7512,
@@ -3717,6 +3829,9 @@
     },
     {
       "word": "#习近平考察澳门科技大学#"
+    },
+    {
+      "word": "#习近平对澳门的3点期许#"
     }
   ]
 }
