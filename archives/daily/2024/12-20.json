@@ -1,7 +1,15 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734666132135,
+  "endTime": 1734668839457,
   "band_list": [
+    {
+      "raw_hot": 2461417,
+      "num": 2461417,
+      "word": "袁记云饺已被立案调查",
+      "onboard_time": 1734667997,
+      "rank": 0,
+      "category": "舆论监督,美食"
+    },
     {
       "raw_hot": 1890787,
       "num": 1598757,
@@ -25,6 +33,14 @@
       "onboard_time": 1734656599,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1063195,
+      "num": 1063195,
+      "word": "瞒着家人复读一年成功上岸",
+      "onboard_time": 1734661997,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 1018371,
@@ -51,20 +67,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 976733,
-      "num": 976733,
-      "word": "瞒着家人复读一年成功上岸",
-      "onboard_time": 1734661997,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 870587,
       "num": 870587,
       "word": "易烊千玺 FILA",
       "onboard_time": 1734665898,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839318,
+      "num": 330844,
+      "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
+      "onboard_time": 1734665297,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 805929,
@@ -105,6 +121,14 @@
       "onboard_time": 1734662119,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 665241,
+      "num": 665241,
+      "word": "南部档案开机",
+      "onboard_time": 1734666437,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 654725,
@@ -155,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 488006,
+      "num": 488006,
+      "word": "以军被爆在加沙进行杀人比赛",
+      "onboard_time": 1734666918,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 477781,
       "num": 319182,
       "word": "小林给我一个橘子",
@@ -185,6 +217,14 @@
       "onboard_time": 1734611418,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432991,
+      "num": 296938,
+      "word": "白鹿杜莎蜡像",
+      "onboard_time": 1734667939,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 415509,
@@ -227,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377954,
+      "num": 295112,
+      "word": "小米YU7路试",
+      "onboard_time": 1734667699,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 359934,
       "num": 359934,
       "word": "大奉打更人宣发",
@@ -249,6 +297,14 @@
       "onboard_time": 1734622820,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 333772,
+      "num": 333772,
+      "word": "19991220零时零分零秒",
+      "onboard_time": 1734627135,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 320494,
@@ -283,11 +339,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289412,
+      "num": 273764,
+      "word": "小猫侧睡危害真的很大",
+      "onboard_time": 1734663318,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 289327,
       "num": 223088,
       "word": "95后女子鼻塞2个月一查竟是癌",
       "onboard_time": 1734652218,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283777,
+      "num": 283777,
+      "word": "畸形追星行为或触犯哪些法律",
+      "onboard_time": 1734655999,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -307,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277152,
-      "num": 273764,
-      "word": "小猫侧睡危害真的很大",
-      "onboard_time": 1734663318,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 275307,
       "num": 414032,
       "word": "猎罪图鉴2直播",
@@ -323,20 +387,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263623,
+      "num": 263623,
+      "word": "袁记云饺",
+      "onboard_time": 1734668359,
+      "rank": 33,
+      "category": "舆论监督,美食"
+    },
+    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "唐探1900",
       "onboard_time": 1734658398,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 249397,
-      "num": 249397,
-      "word": "19991220零时零分零秒",
-      "onboard_time": 1734627135,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 232815,
@@ -355,12 +419,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 222470,
-      "num": 222470,
-      "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
-      "onboard_time": 1734665297,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 222489,
+      "num": 281147,
+      "word": "一路繁花全员花塑官宣",
+      "onboard_time": 1734663618,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221658,
@@ -403,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206643,
+      "num": 273832,
+      "word": "澳门特别行政区第六届政府就职典礼",
+      "onboard_time": 1734664458,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205756,
       "num": 205756,
       "word": "救援人员回应载孕妇小车坠河2天",
       "onboard_time": 1734661457,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203089,
+      "num": 203089,
+      "word": "不要让礼貌变成伤害你的刀",
+      "onboard_time": 1734668419,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 201285,
@@ -427,28 +507,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 199838,
-      "num": 199838,
-      "word": "澳门特别行政区第六届政府就职典礼",
-      "onboard_time": 1734664458,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199547,
       "num": 260046,
       "word": "猎罪图鉴是得罪图鉴吧",
       "onboard_time": 1734624497,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199536,
-      "num": 269377,
-      "word": "一路繁花全员花塑官宣",
-      "onboard_time": 1734663618,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 198064,
@@ -459,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197072,
-      "num": 197072,
-      "word": "畸形追星行为或触犯哪些法律",
-      "onboard_time": 1734655999,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 197656,
+      "num": 276404,
+      "word": "YSKM的职业现状",
+      "onboard_time": 1734667699,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 196738,
@@ -481,6 +545,22 @@
       "onboard_time": 1734663077,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193057,
+      "num": 279804,
+      "word": "猎罪2借养父之名性侵继女",
+      "onboard_time": 1734668539,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190692,
+      "num": 190692,
+      "word": "年度报告",
+      "onboard_time": 1734668359,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 190249,
@@ -515,6 +595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181557,
+      "num": 664068,
+      "word": "人民币重回全球第四大活跃货币",
+      "onboard_time": 1734665238,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 180747,
       "num": 282024,
       "word": "当事人回应开跑车进学校玩漂移",
@@ -529,6 +617,22 @@
       "onboard_time": 1734662596,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174530,
+      "num": 174530,
+      "word": "蜀锦人家",
+      "onboard_time": 1734668419,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173702,
+      "num": 271620,
+      "word": "白百何戏路",
+      "onboard_time": 1734667338,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 173666,
@@ -561,6 +665,14 @@
       "onboard_time": 1734663378,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168678,
+      "num": 603191,
+      "word": "杨妞花外婆一看到两姐妹就哭了",
+      "onboard_time": 1734665898,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166046,
@@ -627,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156836,
+      "num": 156836,
+      "word": "湖人vs国王",
+      "onboard_time": 1734668599,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155427,
       "num": 211074,
       "word": "火星情报局7定档",
@@ -659,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149398,
+      "num": 149398,
+      "word": "清明上河图密码",
+      "onboard_time": 1734668599,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148786,
       "num": 148786,
       "word": "唐探1900定档",
@@ -689,6 +817,22 @@
       "onboard_time": 1734653118,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "九重紫",
+      "onboard_time": 1734668480,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142096,
+      "num": 142096,
+      "word": "明天考研",
+      "onboard_time": 1734666379,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 140751,
@@ -827,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118399,
+      "num": 190966,
+      "word": "10秒站起来定律",
+      "onboard_time": 1734667577,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117002,
       "num": 117002,
       "word": "5件事让人生闪闪发光",
@@ -923,20 +1075,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101000,
-      "num": 664068,
-      "word": "人民币重回全球第四大活跃货币",
-      "onboard_time": 1734665238,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 97978,
       "num": 97978,
       "word": "考研前一天要给朋友发祝福吗",
       "onboard_time": 1734622099,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 97850,
+      "num": 310772,
+      "word": "专家建议引入离线权减少隐形加班",
+      "onboard_time": 1734667098,
+      "rank": 13,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 96912,
@@ -964,7 +1116,7 @@
     },
     {
       "raw_hot": 86720,
-      "num": 921897,
+      "num": 1198087,
       "word": "庆祝澳门回归25年",
       "onboard_time": 1734664938,
       "rank": 2,
@@ -995,20 +1147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79004,
+      "num": 576931,
+      "word": "A股",
+      "onboard_time": 1734664758,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 78379,
+      "num": 174776,
+      "word": "小学校长受贿近千万背后",
+      "onboard_time": 1734666798,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 77548,
       "num": 77548,
       "word": "王者荣耀重度依赖头像框",
       "onboard_time": 1734623176,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77380,
-      "num": 603191,
-      "word": "杨妞花外婆一看到两姐妹就哭了",
-      "onboard_time": 1734665898,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75746,
@@ -1099,14 +1259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63650,
-      "num": 576931,
-      "word": "A股",
-      "onboard_time": 1734664758,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57855,
       "num": 88443,
       "word": "这首我爱你中国是我们共同的表白",
@@ -1179,6 +1331,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 48117,
+      "num": 283367,
+      "word": "于适PADI海洋大使",
+      "onboard_time": 1734668119,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45376,
       "num": 60935,
       "word": "丁禹兮说体验过灰姑娘",
@@ -1196,7 +1356,7 @@
     },
     {
       "raw_hot": 42389,
-      "num": 152812,
+      "num": 273272,
       "word": "小鹿能动口绝不动手",
       "onboard_time": 1734665958,
       "rank": 46,
@@ -1220,7 +1380,7 @@
     },
     {
       "raw_hot": 40082,
-      "num": 152156,
+      "num": 316644,
       "word": "张杰满40减20",
       "onboard_time": 1734665958,
       "rank": 47,
@@ -1329,6 +1489,14 @@
       "onboard_time": 1734634452,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20774,
+      "num": 271138,
+      "word": "那尔那茜打戏镜头感封神",
+      "onboard_time": 1734667458,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19855,
