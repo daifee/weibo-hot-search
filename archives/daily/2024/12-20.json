@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734680137900,
+  "endTime": 1734683316531,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 890071,
+      "num": 256786,
+      "word": "审判留几手",
+      "onboard_time": 1734678679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 870587,
       "num": 870587,
       "word": "易烊千玺 FILA",
@@ -121,6 +129,14 @@
       "onboard_time": 1734617839,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 755321,
+      "num": 755321,
+      "word": "医生解读脑瘫女孩备孕",
+      "onboard_time": 1734679938,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 694640,
@@ -259,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451698,
+      "num": 451698,
+      "word": "喜茶袁记云饺被责令改正",
+      "onboard_time": 1734677059,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432991,
       "num": 402337,
       "word": "白鹿杜莎蜡像",
@@ -273,6 +297,14 @@
       "onboard_time": 1734668539,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425672,
+      "num": 251924,
+      "word": "网传一事业单位有249人报考去掏粪",
+      "onboard_time": 1734678618,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 415509,
@@ -305,14 +337,6 @@
       "onboard_time": 1734655279,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 395220,
-      "num": 251924,
-      "word": "网传一事业单位有249人报考去掏粪",
-      "onboard_time": 1734678618,
-      "rank": 31,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 391370,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344955,
+      "num": 344955,
+      "word": "预制爆剧",
+      "onboard_time": 1734678739,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337993,
       "num": 337993,
       "word": "大奉打更人千朵桃花一世开 对打",
@@ -425,14 +457,6 @@
       "onboard_time": 1734622820,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333964,
-      "num": 333964,
-      "word": "预制爆剧",
-      "onboard_time": 1734678739,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 321635,
@@ -457,6 +481,14 @@
       "onboard_time": 1734655279,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 310693,
+      "num": 310693,
+      "word": "猎罪图鉴2一集6条命",
+      "onboard_time": 1734679159,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 297260,
@@ -555,22 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258325,
-      "num": 258325,
-      "word": "喜茶袁记云饺被责令改正",
-      "onboard_time": 1734677059,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256786,
-      "num": 256786,
-      "word": "审判留几手",
-      "onboard_time": 1734678679,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "唐探1900",
@@ -619,6 +635,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224082,
+      "num": 206555,
+      "word": "麦琳 情绪稳定",
+      "onboard_time": 1734681799,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223096,
+      "num": 223096,
+      "word": "大学生作业里充满了AI味",
+      "onboard_time": 1734674720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 222855,
       "num": 222855,
       "word": "王鹤棣田曦薇晒大奉打更人海报",
@@ -665,14 +697,6 @@
       "onboard_time": 1734665238,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 215168,
-      "num": 215168,
-      "word": "猎罪图鉴2一集6条命",
-      "onboard_time": 1734679159,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 210175,
@@ -731,6 +755,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205800,
+      "num": 205800,
+      "word": "金世佳 我站在这就是福利",
+      "onboard_time": 1734682459,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205789,
+      "num": 205788,
+      "word": "袁记云饺全国门店超4000家",
+      "onboard_time": 1734679818,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 205756,
       "num": 205756,
       "word": "救援人员回应载孕妇小车坠河2天",
@@ -761,6 +801,22 @@
       "onboard_time": 1734668419,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203006,
+      "num": 203006,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 201706,
+      "num": 205789,
+      "word": "大奉打更人刚定档就有7个广",
+      "onboard_time": 1734681439,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 201285,
@@ -931,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179558,
-      "num": 204611,
-      "word": "袁记云饺全国门店超4000家",
-      "onboard_time": 1734679818,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 175228,
       "num": 175228,
       "word": "黄雨婷说有100度近视但不影响瞄准",
@@ -1035,20 +1083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166031,
-      "num": 166031,
-      "word": "大学生作业里充满了AI味",
-      "onboard_time": 1734674720,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 165970,
       "num": 185979,
       "word": "九重紫 互为因果",
       "onboard_time": 1734659956,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164596,
+      "num": 164596,
+      "word": "哈尔滨冰雪大世界今天官宣明天就开",
+      "onboard_time": 1734682939,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 163004,
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 159852,
-      "num": 159852,
+      "num": 164853,
       "word": "七子之歌",
       "onboard_time": 1734677298,
       "rank": 34,
@@ -1185,6 +1233,14 @@
       "onboard_time": 1734662718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149687,
+      "num": 149687,
+      "word": "为什么鼻咽癌更容易盯上南方人",
+      "onboard_time": 1734682219,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 148786,
@@ -1267,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140753,
+      "num": 140753,
+      "word": "专家称基因检测不一定生出健康孩子",
+      "onboard_time": 1734682578,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140751,
       "num": 106058,
       "word": "女子报假警破门抓出轨男友",
@@ -1305,14 +1369,6 @@
       "onboard_time": 1734618319,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135508,
-      "num": 135508,
-      "word": "医生解读脑瘫女孩备孕",
-      "onboard_time": 1734679938,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134017,
@@ -1419,11 +1475,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128651,
+      "num": 128651,
+      "word": "女子2年被家暴16次求判丈夫死刑",
+      "onboard_time": 1734683057,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127095,
       "num": 127095,
       "word": "恋与我的白月光",
       "onboard_time": 1734674720,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 126673,
+      "num": 126673,
+      "word": "缘之空登陆Steam",
+      "onboard_time": 1734683119,
+      "rank": 41,
       "category": "游戏"
     },
     {
@@ -1441,6 +1513,14 @@
       "onboard_time": 1734675318,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "官方辟谣考研的天要塌了相关言论",
+      "onboard_time": 1734681679,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 124522,
@@ -1475,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124279,
+      "num": 124279,
+      "word": "扭曲的饭圈文化侵入竞技体育等领域",
+      "onboard_time": 1734681738,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124266,
       "num": 124266,
       "word": "黄景瑜 冬至来了江成屹也来了",
@@ -1499,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122891,
+      "num": 122891,
+      "word": "谭松韵演技",
+      "onboard_time": 1734681379,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122139,
       "num": 122139,
       "word": "王鹤棣26岁庆生照",
@@ -1513,6 +1609,14 @@
       "onboard_time": 1734676638,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119500,
+      "num": 141193,
+      "word": "贾玲 我看我自己哪都美",
+      "onboard_time": 1734679279,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 118399,
@@ -1563,19 +1667,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115380,
-      "num": 115380,
-      "word": "贾玲 我看我自己哪都美",
-      "onboard_time": 1734679279,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 113883,
       "num": 113883,
       "word": "鹿晗水晶球",
       "onboard_time": 1734620121,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111488,
+      "num": 111488,
+      "word": "包文婧晒4月孕肚",
+      "onboard_time": 1734683298,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1585,6 +1689,22 @@
       "onboard_time": 1734664520,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110669,
+      "num": 290440,
+      "word": "学校食堂被指给学生吃垃圾桶剩菜",
+      "onboard_time": 1734676818,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 110166,
+      "num": 205799,
+      "word": "贪官当甩手掌柜上午补觉下午健身",
+      "onboard_time": 1734682638,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 109794,
@@ -1635,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106273,
+      "num": 205797,
+      "word": "孟子义的眼睛会爱人",
+      "onboard_time": 1734682878,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104131,
       "num": 104131,
       "word": "推进取消公摊不要只看到拉动楼市",
@@ -1659,20 +1787,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102741,
+      "num": 203413,
+      "word": "太好了是天津大学考研人有福了",
+      "onboard_time": 1734680958,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101352,
       "num": 101352,
       "word": "猫 你跟谁俩呢",
       "onboard_time": 1734658938,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99349,
-      "num": 290440,
-      "word": "学校食堂被指给学生吃垃圾桶剩菜",
-      "onboard_time": 1734676818,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 97978,
@@ -1963,6 +2091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61830,
+      "num": 205793,
+      "word": "时代少年团跨年直播",
+      "onboard_time": 1734681499,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61682,
       "num": 310450,
       "word": "一线城市换房到底有多难",
@@ -2017,6 +2153,14 @@
       "onboard_time": 1734670822,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55202,
+      "num": 205797,
+      "word": "能和檀健次对视被逮捕也值了",
+      "onboard_time": 1734682819,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 55014,
@@ -2115,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47633,
+      "num": 140960,
+      "word": "张馨予原声台词代入感",
+      "onboard_time": 1734682638,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47191,
       "num": 211484,
       "word": "澳门博彩业GDP占比下降",
@@ -2155,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42690,
+      "num": 166748,
+      "word": "普京称俄已准备好和西方技术对决",
+      "onboard_time": 1734681138,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42389,
       "num": 314862,
       "word": "小鹿能动口绝不动手",
@@ -2185,6 +2345,14 @@
       "onboard_time": 1734665958,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40054,
+      "num": 205796,
+      "word": "德阳一落马局长入股砂石场获利460万",
+      "onboard_time": 1734682219,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40003,
@@ -2264,6 +2432,14 @@
       "word": "揭秘手机行业首个护眼实验室",
       "onboard_time": 1734672259,
       "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 32676,
+      "num": 205795,
+      "word": "先人一步的幸福具象化了",
+      "onboard_time": 1734680478,
+      "rank": 18,
       "category": "数码"
     },
     {
@@ -2465,6 +2641,22 @@
       "onboard_time": 1734639910,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14191,
+      "num": 130606,
+      "word": "适合新手的哈尔滨打卡路线",
+      "onboard_time": 1734680120,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 13731,
+      "num": 124166,
+      "word": "冬至的第一波好运从饺子开始",
+      "onboard_time": 1734681439,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 12292,

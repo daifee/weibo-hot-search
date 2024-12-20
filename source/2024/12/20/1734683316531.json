@@ -1,0 +1,410 @@
+{
+  "runTime": 1734683316531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6032146,
+        "num": 6032146,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 0,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 755321,
+        "num": 755321,
+        "word": "医生解读脑瘫女孩备孕",
+        "onboard_time": 1734679938,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34089,
+        "num": 596982,
+        "word": "庆祝澳门回归25年",
+        "onboard_time": 1734664938,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451698,
+        "num": 451698,
+        "word": "喜茶袁记云饺被责令改正",
+        "onboard_time": 1734677059,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344955,
+        "num": 344955,
+        "word": "预制爆剧",
+        "onboard_time": 1734678739,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310693,
+        "num": 310693,
+        "word": "猎罪图鉴2一集6条命",
+        "onboard_time": 1734679159,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310181,
+        "num": 310181,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 289065,
+        "num": 289065,
+        "word": "袁记云饺曾称馅料为预制",
+        "onboard_time": 1734675679,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223096,
+        "num": 223096,
+        "word": "大学生作业里充满了AI味",
+        "onboard_time": 1734674720,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 204233,
+        "num": 219932,
+        "word": "七子之歌刻在了中国人DNA里",
+        "onboard_time": 1734677240,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 890071,
+        "num": 217796,
+        "word": "审判留几手",
+        "onboard_time": 1734678679,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425672,
+        "num": 210969,
+        "word": "网传一事业单位有249人报考去掏粪",
+        "onboard_time": 1734678618,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224082,
+        "num": 206555,
+        "word": "麦琳 情绪稳定",
+        "onboard_time": 1734681799,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205800,
+        "num": 205800,
+        "word": "金世佳 我站在这就是福利",
+        "onboard_time": 1734682459,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110166,
+        "num": 205799,
+        "word": "贪官当甩手掌柜上午补觉下午健身",
+        "onboard_time": 1734682638,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 106273,
+        "num": 205797,
+        "word": "孟子义的眼睛会爱人",
+        "onboard_time": 1734682878,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55202,
+        "num": 205797,
+        "word": "能和檀健次对视被逮捕也值了",
+        "onboard_time": 1734682819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40054,
+        "num": 205796,
+        "word": "德阳一落马局长入股砂石场获利460万",
+        "onboard_time": 1734682219,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32676,
+        "num": 205795,
+        "word": "先人一步的幸福具象化了",
+        "onboard_time": 1734680478,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 61830,
+        "num": 205793,
+        "word": "时代少年团跨年直播",
+        "onboard_time": 1734681499,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198083,
+        "num": 205792,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201706,
+        "num": 205789,
+        "word": "大奉打更人刚定档就有7个广",
+        "onboard_time": 1734681439,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205789,
+        "num": 205788,
+        "word": "袁记云饺全国门店超4000家",
+        "onboard_time": 1734679818,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191176,
+        "num": 203934,
+        "word": "李若彤 我还有1年12天免费坐公交",
+        "onboard_time": 1734678257,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102741,
+        "num": 203413,
+        "word": "太好了是天津大学考研人有福了",
+        "onboard_time": 1734680958,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203006,
+        "num": 203006,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171677,
+        "num": 171677,
+        "word": "路人偶遇张馨予老公",
+        "onboard_time": 1734676338,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169360,
+        "num": 169360,
+        "word": "王鹤棣田曦薇晒大奉打更人海报",
+        "onboard_time": 1734679337,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42690,
+        "num": 166748,
+        "word": "普京称俄已准备好和西方技术对决",
+        "onboard_time": 1734681138,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123677,
+        "num": 164853,
+        "word": "七子之歌",
+        "onboard_time": 1734677298,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164596,
+        "num": 164596,
+        "word": "哈尔滨冰雪大世界今天官宣明天就开",
+        "onboard_time": 1734682939,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154812,
+        "num": 154812,
+        "word": "民警突袭菜市场5分钟偷走数个手机",
+        "onboard_time": 1734673940,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149687,
+        "num": 149687,
+        "word": "为什么鼻咽癌更容易盯上南方人",
+        "onboard_time": 1734682219,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141741,
+        "num": 141741,
+        "word": "以军被爆在加沙进行杀人比赛",
+        "onboard_time": 1734666918,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 141193,
+        "word": "贾玲 我看我自己哪都美",
+        "onboard_time": 1734679279,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47633,
+        "num": 140960,
+        "word": "张馨予原声台词代入感",
+        "onboard_time": 1734682638,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140753,
+        "num": 140753,
+        "word": "专家称基因检测不一定生出健康孩子",
+        "onboard_time": 1734682578,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134815,
+        "num": 134815,
+        "word": "祝绪丹杨仕泽cha虞书欣新歌了",
+        "onboard_time": 1734677419,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14191,
+        "num": 130606,
+        "word": "适合新手的哈尔滨打卡路线",
+        "onboard_time": 1734680120,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 128651,
+        "num": 128651,
+        "word": "女子2年被家暴16次求判丈夫死刑",
+        "onboard_time": 1734683057,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127549,
+        "num": 127549,
+        "word": "年薪50万女士择偶标准百万到千万年薪",
+        "onboard_time": 1734661577,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126673,
+        "num": 126673,
+        "word": "缘之空登陆Steam",
+        "onboard_time": 1734683119,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "官方辟谣考研的天要塌了相关言论",
+        "onboard_time": 1734681679,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124279,
+        "num": 124279,
+        "word": "扭曲的饭圈文化侵入竞技体育等领域",
+        "onboard_time": 1734681738,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13731,
+        "num": 124166,
+        "word": "冬至的第一波好运从饺子开始",
+        "onboard_time": 1734681439,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124121,
+        "num": 124121,
+        "word": "刘爽",
+        "onboard_time": 1734673160,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122891,
+        "num": 122891,
+        "word": "谭松韵演技",
+        "onboard_time": 1734681379,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117845,
+        "num": 117845,
+        "word": "澳门特别行政区第六届政府就职典礼",
+        "onboard_time": 1734664458,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111488,
+        "num": 111488,
+        "word": "包文婧晒4月孕肚",
+        "onboard_time": 1734683298,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110669,
+        "num": 110669,
+        "word": "学校食堂被指给学生吃垃圾桶剩菜",
+        "onboard_time": 1734676818,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归祖国25周年大会#"
+    }
+  }
+}
