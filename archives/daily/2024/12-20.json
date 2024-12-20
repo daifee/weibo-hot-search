@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734687423302,
+  "endTime": 1734690210678,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 907694,
+      "num": 907694,
+      "word": "女子110万抢2300克黄金商家拒发货",
+      "onboard_time": 1734687679,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 870587,
       "num": 870587,
       "word": "易烊千玺 FILA",
@@ -121,6 +129,14 @@
       "onboard_time": 1734665297,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 826215,
+      "num": 826215,
+      "word": "大奉打更人定档",
+      "onboard_time": 1734684679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 805929,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 633633,
-      "num": 345191,
+      "num": 355499,
       "word": "包文婧晒4月孕肚",
       "onboard_time": 1734683298,
       "rank": 48,
@@ -219,19 +235,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 588006,
-      "num": 588006,
-      "word": "大奉打更人定档",
-      "onboard_time": 1734684679,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 586095,
       "num": 229231,
       "word": "小米su7掉落山崖",
       "onboard_time": 1734619820,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583133,
+      "num": 583133,
+      "word": "上海的树已经开始绒里绒气了",
+      "onboard_time": 1734687979,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -241,6 +257,14 @@
       "onboard_time": 1734667699,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 550176,
+      "num": 550176,
+      "word": "香飘飘首家线下店9元一杯奶茶",
+      "onboard_time": 1734686478,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 533333,
@@ -347,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412391,
+      "num": 412391,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 401646,
       "num": 401646,
       "word": "普京称俄愿在乌克兰问题上妥协",
@@ -395,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381196,
+      "num": 381196,
+      "word": "医院回应医生疑暴露王楚钦病历",
+      "onboard_time": 1734683538,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380498,
       "num": 380498,
       "word": "将门毒后出生",
@@ -433,6 +473,14 @@
       "onboard_time": 1734627135,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 362462,
+      "num": 451392,
+      "word": "李冰冰 妈咪",
+      "onboard_time": 1734689179,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 359934,
@@ -491,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 322117,
-      "num": 322117,
-      "word": "医院回应医生疑暴露王楚钦病历",
-      "onboard_time": 1734683538,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321635,
       "num": 321635,
       "word": "何炅才是没放过黄磊的人",
@@ -545,6 +585,14 @@
       "onboard_time": 1734652937,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295411,
+      "num": 295411,
+      "word": "陈建斌上次来天坛还是嬛嬛小产",
+      "onboard_time": 1734686898,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 289412,
@@ -603,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275181,
-      "num": 275181,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 273329,
       "num": 270460,
       "word": "喻言跳虞书欣spicyhoney",
@@ -659,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255141,
+      "num": 265245,
+      "word": "千万粉丝博主拍视频负债150万",
+      "onboard_time": 1734685939,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "唐探1900",
@@ -705,14 +753,6 @@
       "onboard_time": 1734677419,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 229574,
-      "num": 265245,
-      "word": "千万粉丝博主拍视频负债150万",
-      "onboard_time": 1734685939,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 227732,
@@ -899,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202328,
+      "num": 202328,
+      "word": "余华建议年轻人多读无用的书",
+      "onboard_time": 1734687319,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 201706,
       "num": 205789,
       "word": "大奉打更人刚定档就有7个广",
@@ -1043,16 +1091,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188775,
-      "num": 188775,
-      "word": "香飘飘首家线下店9元一杯奶茶",
-      "onboard_time": 1734686478,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 186488,
-      "num": 186488,
+      "num": 202492,
       "word": "张天爱 粉丝送的喜糖",
       "onboard_time": 1734684259,
       "rank": 42,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1734683599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183632,
+      "num": 183632,
+      "word": "傅菁 浓颜严选",
+      "onboard_time": 1734687619,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 183366,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1734684619,
       "rank": 37,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 178568,
-      "num": 221049,
-      "word": "陈建斌上次来天坛还是嬛嬛小产",
-      "onboard_time": 1734686898,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 177770,
@@ -1347,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157652,
+      "num": 423147,
+      "word": "马方称原则同意恢复MH370搜索",
+      "onboard_time": 1734687198,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156928,
       "num": 206956,
       "word": "男生备战考研半年用了近50根笔芯",
@@ -1369,6 +1417,22 @@
       "onboard_time": 1734675919,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156676,
+      "num": 156676,
+      "word": "杨仕泽祝绪丹学虞书欣学反了",
+      "onboard_time": 1734688879,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155669,
+      "num": 155669,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734672379,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 155427,
@@ -1473,14 +1537,6 @@
       "onboard_time": 1734686659,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146452,
-      "num": 145390,
-      "word": "余华建议年轻人多读无用的书",
-      "onboard_time": 1734687319,
-      "rank": 41,
-      "category": "读书作家"
     },
     {
       "raw_hot": 146336,
@@ -1827,6 +1883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 119000,
+      "num": 119000,
+      "word": "锤娜丽莎 开口跪",
+      "onboard_time": 1734689959,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118399,
       "num": 190966,
       "word": "10秒站起来定律",
@@ -1883,20 +1947,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 115681,
-      "num": 115681,
-      "word": "猎罪图鉴2",
-      "onboard_time": 1734672379,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 114728,
-      "num": 114728,
-      "word": "马方称原则同意恢复MH370搜索",
-      "onboard_time": 1734687198,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 115115,
+      "num": 115115,
+      "word": "李冰冰硬照太能打了",
+      "onboard_time": 1734687498,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 113883,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1734676818,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 110503,
+      "num": 204866,
+      "word": "马东锡宋小宝 非洲粉丝",
+      "onboard_time": 1734689299,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 110166,
@@ -2019,6 +2083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 101510,
+      "num": 101510,
+      "word": "黄景瑜包场冬至",
+      "onboard_time": 1734690019,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101352,
       "num": 101352,
       "word": "猫 你跟谁俩呢",
@@ -2049,6 +2121,22 @@
       "onboard_time": 1734604098,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93794,
+      "num": 105164,
+      "word": "A股半导体板块爆发",
+      "onboard_time": 1734688758,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 93133,
+      "num": 162638,
+      "word": "王者新赛季送四套元流之子时装",
+      "onboard_time": 1734689478,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 93093,
@@ -2443,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56259,
+      "num": 104647,
+      "word": "华北电力大学这波甜度超标了",
+      "onboard_time": 1734688699,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 56183,
       "num": 182770,
       "word": "清密帽妖哄抬房价",
@@ -2489,6 +2585,14 @@
       "onboard_time": 1734665657,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53254,
+      "num": 153020,
+      "word": "舞狮版apt把大学生吊成翘嘴了",
+      "onboard_time": 1734689299,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 53187,
@@ -2675,6 +2779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40183,
+      "num": 1088434,
+      "word": "庆祝大会全场齐唱国歌",
+      "onboard_time": 1734686299,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 40082,
       "num": 486780,
       "word": "张杰满40减20",
@@ -2745,6 +2857,14 @@
       "onboard_time": 1734628693,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 35267,
+      "num": 125923,
+      "word": "市监局回应袁记云饺被立案调查",
+      "onboard_time": 1734688220,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 34745,
@@ -2873,14 +2993,6 @@
       "onboard_time": 1734634452,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23623,
-      "num": 1088434,
-      "word": "庆祝大会全场齐唱国歌",
-      "onboard_time": 1734686299,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 22252,
