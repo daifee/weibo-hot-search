@@ -1,0 +1,410 @@
+{
+  "runTime": 1734680137900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7156521,
+        "num": 7156521,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 0,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 447989,
+        "num": 447989,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34934,
+        "num": 374877,
+        "word": "庆祝澳门回归25年",
+        "onboard_time": 1734664938,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333964,
+        "num": 333964,
+        "word": "预制爆剧",
+        "onboard_time": 1734678739,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281721,
+        "num": 281721,
+        "word": "李若彤 我还有1年12天免费坐公交",
+        "onboard_time": 1734678257,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270559,
+        "num": 270559,
+        "word": "袁记云饺曾称馅料为预制",
+        "onboard_time": 1734675679,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 273329,
+        "num": 270430,
+        "word": "喻言跳虞书欣spicyhoney",
+        "onboard_time": 1734677059,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258325,
+        "num": 258325,
+        "word": "喜茶袁记云饺被责令改正",
+        "onboard_time": 1734677059,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208735,
+        "num": 256843,
+        "word": "七子之歌刻在了中国人DNA里",
+        "onboard_time": 1734677240,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256786,
+        "num": 256786,
+        "word": "审判留几手",
+        "onboard_time": 1734678679,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395220,
+        "num": 251924,
+        "word": "网传一事业单位有249人报考去掏粪",
+        "onboard_time": 1734678618,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 319736,
+        "num": 250586,
+        "word": "路人偶遇张馨予老公",
+        "onboard_time": 1734676338,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319217,
+        "num": 241578,
+        "word": "刘爽",
+        "onboard_time": 1734673160,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79449,
+        "num": 239564,
+        "word": "学校食堂被指给学生吃垃圾桶剩菜",
+        "onboard_time": 1734676818,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58015,
+        "num": 231132,
+        "word": "又到了止不住咳嗽的季节",
+        "onboard_time": 1734678019,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266781,
+        "num": 224836,
+        "word": "以军被爆在加沙进行杀人比赛",
+        "onboard_time": 1734666918,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222855,
+        "num": 222855,
+        "word": "王鹤棣田曦薇晒大奉打更人海报",
+        "onboard_time": 1734679337,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215168,
+        "num": 215168,
+        "word": "猎罪图鉴2一集6条命",
+        "onboard_time": 1734679159,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197040,
+        "num": 211937,
+        "word": "武汉地铁偶遇王珞丹",
+        "onboard_time": 1734678918,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38907,
+        "num": 211335,
+        "word": "微博网友喜爱角色王俊凯占两席",
+        "onboard_time": 1734679337,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321405,
+        "num": 207116,
+        "word": "民警突袭菜市场5分钟偷走数个手机",
+        "onboard_time": 1734673940,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179558,
+        "num": 204611,
+        "word": "袁记云饺全国门店超4000家",
+        "onboard_time": 1734679818,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 202245,
+        "num": 202245,
+        "word": "九重紫最大尺度",
+        "onboard_time": 1734672259,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18987,
+        "num": 202164,
+        "word": "孙悦分享和科比训练故事",
+        "onboard_time": 1734679938,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202156,
+        "num": 202156,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89753,
+        "num": 194570,
+        "word": "乌克兰首都基辅传出密集爆炸声",
+        "onboard_time": 1734678138,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194143,
+        "num": 194143,
+        "word": "猎罪图鉴2豆瓣评分没1高",
+        "onboard_time": 1734679039,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189687,
+        "num": 189687,
+        "word": "祝绪丹杨仕泽cha虞书欣新歌了",
+        "onboard_time": 1734677419,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182082,
+        "num": 182082,
+        "word": "年薪50万女士择偶标准百万到千万年薪",
+        "onboard_time": 1734661577,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162754,
+        "num": 162754,
+        "word": "檀健次下意识说爱沈翊爱杜城",
+        "onboard_time": 1734678979,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187155,
+        "num": 162664,
+        "word": "杨子 你睫毛掉了",
+        "onboard_time": 1734673399,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 159725,
+        "word": "大学生作业里充满了AI味",
+        "onboard_time": 1734674720,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 156928,
+        "num": 156928,
+        "word": "男生备战考研半年用了近50根笔芯",
+        "onboard_time": 1734678138,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152228,
+        "num": 152228,
+        "word": "Zeus",
+        "onboard_time": 1734671242,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151402,
+        "num": 151402,
+        "word": "李惠利赵美延日本同游",
+        "onboard_time": 1734675679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149417,
+        "num": 149417,
+        "word": "小米YU7路试",
+        "onboard_time": 1734667699,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148929,
+        "num": 148929,
+        "word": "澳门特别行政区第六届政府就职典礼",
+        "onboard_time": 1734664458,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52803,
+        "num": 143074,
+        "word": "檀健次说要把自己雕琢成更好的人",
+        "onboard_time": 1734678079,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143019,
+        "num": 143019,
+        "word": "年度报告",
+        "onboard_time": 1734668359,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135508,
+        "num": 135508,
+        "word": "医生解读脑瘫女孩备孕",
+        "onboard_time": 1734679938,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41595,
+        "num": 132252,
+        "word": "WTT年度球员总结",
+        "onboard_time": 1734671541,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129998,
+        "num": 129998,
+        "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
+        "onboard_time": 1734665297,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124412,
+        "num": 124412,
+        "word": "挑羽绒服是技术流还是运气流",
+        "onboard_time": 1734679879,
+        "rank": 42,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123884,
+        "num": 123884,
+        "word": "七子之歌",
+        "onboard_time": 1734677298,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121314,
+        "num": 121314,
+        "word": "大奉打更人千朵桃花一世开 对打",
+        "onboard_time": 1734674239,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118944,
+        "num": 118944,
+        "word": "韩恩静写给中恩静的一封信",
+        "onboard_time": 1734672140,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116795,
+        "num": 116795,
+        "word": "孟子义每天给徐志胜安利九重紫",
+        "onboard_time": 1734677120,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115380,
+        "num": 115380,
+        "word": "贾玲 我看我自己哪都美",
+        "onboard_time": 1734679279,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111374,
+        "num": 111374,
+        "word": "畸形追星行为或触犯哪些法律",
+        "onboard_time": 1734655999,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27416,
+        "num": 107271,
+        "word": "近一半高血压患者不知道自己患病",
+        "onboard_time": 1734676099,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归祖国25周年大会#"
+    }
+  }
+}

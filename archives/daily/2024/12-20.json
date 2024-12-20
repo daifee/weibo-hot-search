@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734679284100,
+  "endTime": 1734680137900,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -307,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 395220,
+      "num": 251924,
+      "word": "网传一事业单位有249人报考去掏粪",
+      "onboard_time": 1734678618,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 391370,
       "num": 479255,
       "word": "女子戴耳钉时突然失去意识倒地",
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333964,
+      "num": 333964,
+      "word": "预制爆剧",
+      "onboard_time": 1734678739,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321635,
       "num": 321635,
       "word": "何炅才是没放过黄磊的人",
@@ -483,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 281721,
+      "num": 281721,
+      "word": "李若彤 我还有1年12天免费坐公交",
+      "onboard_time": 1734678257,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281543,
       "num": 260200,
       "word": "肖战举铁举的",
@@ -499,20 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270460,
+      "raw_hot": 273329,
       "num": 270460,
       "word": "喻言跳虞书欣spicyhoney",
       "onboard_time": 1734677059,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269656,
-      "num": 211719,
-      "word": "李若彤 我还有1年12天免费坐公交",
-      "onboard_time": 1734678257,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 268120,
@@ -537,6 +553,22 @@
       "onboard_time": 1734672140,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258325,
+      "num": 258325,
+      "word": "喜茶袁记云饺被责令改正",
+      "onboard_time": 1734677059,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256786,
+      "num": 256786,
+      "word": "审判留几手",
+      "onboard_time": 1734678679,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 250572,
@@ -587,6 +619,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 222855,
+      "num": 222855,
+      "word": "王鹤棣田曦薇晒大奉打更人海报",
+      "onboard_time": 1734679337,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222489,
       "num": 281147,
       "word": "一路繁花全员花塑官宣",
@@ -627,6 +667,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 215168,
+      "num": 215168,
+      "word": "猎罪图鉴2一集6条命",
+      "onboard_time": 1734679159,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210175,
       "num": 210175,
       "word": "李惠利赵美延日本同游",
@@ -641,6 +689,14 @@
       "onboard_time": 1734659237,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208735,
+      "num": 256843,
+      "word": "七子之歌刻在了中国人DNA里",
+      "onboard_time": 1734677240,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208669,
@@ -673,14 +729,6 @@
       "onboard_time": 1734664458,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 206389,
-      "num": 233248,
-      "word": "喜茶袁记云饺被责令改正",
-      "onboard_time": 1734677059,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205756,
@@ -755,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197040,
+      "num": 211937,
+      "word": "武汉地铁偶遇王珞丹",
+      "onboard_time": 1734678918,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196738,
       "num": 232268,
       "word": "现在拨打的电话",
@@ -777,6 +833,14 @@
       "onboard_time": 1734672440,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "猎罪图鉴2豆瓣评分没1高",
+      "onboard_time": 1734679039,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193319,
@@ -827,14 +891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187309,
-      "num": 168758,
-      "word": "网传一事业单位有249人报考去掏粪",
-      "onboard_time": 1734678618,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 185033,
       "num": 257661,
       "word": "于适谈从演员到运动员的跨界突破",
@@ -867,20 +923,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181964,
-      "num": 181964,
-      "word": "预制爆剧",
-      "onboard_time": 1734678739,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180747,
       "num": 282024,
       "word": "当事人回应开跑车进学校玩漂移",
       "onboard_time": 1734663318,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179558,
+      "num": 204611,
+      "word": "袁记云饺全国门店超4000家",
+      "onboard_time": 1734679818,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 175228,
@@ -897,14 +953,6 @@
       "onboard_time": 1734668599,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174936,
-      "num": 221440,
-      "word": "七子之歌刻在了中国人DNA里",
-      "onboard_time": 1734677240,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174530,
@@ -1011,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 162754,
+      "num": 162754,
+      "word": "檀健次下意识说爱沈翊爱杜城",
+      "onboard_time": 1734678979,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162619,
       "num": 162619,
       "word": "当老师让画一条逼真的鱼",
@@ -1067,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156928,
+      "num": 206956,
+      "word": "男生备战考研半年用了近50根笔芯",
+      "onboard_time": 1734678138,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156836,
       "num": 156836,
       "word": "湖人vs国王",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1734675919,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 155994,
-      "num": 208576,
-      "word": "武汉地铁偶遇王珞丹",
-      "onboard_time": 1734678918,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 155427,
@@ -1171,14 +1227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144868,
-      "num": 144868,
-      "word": "猎罪图鉴2豆瓣评分没1高",
-      "onboard_time": 1734679039,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144481,
       "num": 222953,
       "word": "李俊昊被国税厅税务调查",
@@ -1259,20 +1307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135032,
-      "num": 135032,
-      "word": "檀健次下意识说爱沈翊爱杜城",
-      "onboard_time": 1734678979,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 134661,
-      "num": 131743,
-      "word": "猎罪图鉴2一集6条命",
-      "onboard_time": 1734679159,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 135508,
+      "num": 135508,
+      "word": "医生解读脑瘫女孩备孕",
+      "onboard_time": 1734679938,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134017,
@@ -1411,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124412,
+      "num": 124412,
+      "word": "挑羽绒服是技术流还是运气流",
+      "onboard_time": 1734679879,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 124343,
       "num": 124343,
       "word": "公主别急东北人先下去抛光了",
@@ -1515,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115380,
+      "num": 115380,
+      "word": "贾玲 我看我自己哪都美",
+      "onboard_time": 1734679279,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113883,
       "num": 113883,
       "word": "鹿晗水晶球",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1734664520,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110350,
-      "num": 203486,
-      "word": "审判留几手",
-      "onboard_time": 1734678679,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 109794,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1734657019,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 108726,
-      "num": 206956,
-      "word": "男生备战考研半年用了近50根笔芯",
-      "onboard_time": 1734678138,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 107935,
@@ -1681,6 +1721,14 @@
       "onboard_time": 1734603258,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89753,
+      "num": 228375,
+      "word": "乌克兰首都基辅传出密集爆炸声",
+      "onboard_time": 1734678138,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89240,
@@ -1931,12 +1979,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 57937,
-      "num": 228375,
-      "word": "乌克兰首都基辅传出密集爆炸声",
-      "onboard_time": 1734678138,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 58015,
+      "num": 231132,
+      "word": "又到了止不住咳嗽的季节",
+      "onboard_time": 1734678019,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 57855,
@@ -2009,6 +2057,14 @@
       "onboard_time": 1734672740,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 52803,
+      "num": 205897,
+      "word": "檀健次说要把自己雕琢成更好的人",
+      "onboard_time": 1734678079,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 52322,
@@ -2155,6 +2211,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 38907,
+      "num": 211335,
+      "word": "微博网友喜爱角色王俊凯占两席",
+      "onboard_time": 1734679337,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38760,
       "num": 664474,
       "word": "大熊猫开心健康在澳门",
@@ -2227,11 +2291,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28089,
-      "num": 215819,
-      "word": "又到了止不住咳嗽的季节",
-      "onboard_time": 1734678019,
-      "rank": 14,
+      "raw_hot": 27416,
+      "num": 132790,
+      "word": "近一半高血压患者不知道自己患病",
+      "onboard_time": 1734676099,
+      "rank": 43,
       "category": "健康医疗"
     },
     {
@@ -2275,14 +2339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23278,
-      "num": 205897,
-      "word": "檀健次说要把自己雕琢成更好的人",
-      "onboard_time": 1734678079,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22252,
       "num": 190245,
       "word": "高校合唱团用歌声为考研学子加油",
@@ -2299,14 +2355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21765,
-      "num": 132790,
-      "word": "近一半高血压患者不知道自己患病",
-      "onboard_time": 1734676099,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20490,
       "num": 301792,
       "word": "一大波韩国游客来张家界跨年",
@@ -2321,6 +2369,14 @@
       "onboard_time": 1734618801,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18987,
+      "num": 202164,
+      "word": "孙悦分享和科比训练故事",
+      "onboard_time": 1734679938,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 17092,
