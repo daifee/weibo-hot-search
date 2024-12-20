@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734673138914,
+  "endTime": 1734676283127,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -27,20 +27,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1669666,
+      "num": 375783,
+      "word": "法医从死亡男子喉咙取出活鸡",
+      "onboard_time": 1734671780,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1546423,
       "num": 510905,
       "word": "被人说溜肩刘亦菲高情商回应",
       "onboard_time": 1734656599,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1490937,
-      "num": 375783,
-      "word": "法医从死亡男子喉咙取出活鸡",
-      "onboard_time": 1734671780,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1063195,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484360,
+      "num": 289319,
+      "word": "刘爽",
+      "onboard_time": 1734673160,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477781,
       "num": 319182,
       "word": "小林给我一个橘子",
@@ -323,6 +331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 362165,
+      "num": 362165,
+      "word": "杨子 你睫毛掉了",
+      "onboard_time": 1734673399,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359934,
       "num": 359934,
       "word": "大奉打更人宣发",
@@ -355,11 +371,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347120,
+      "num": 347120,
+      "word": "九重紫最大尺度",
+      "onboard_time": 1734672259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337993,
+      "num": 337993,
+      "word": "大奉打更人千朵桃花一世开 对打",
+      "onboard_time": 1734674239,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335000,
       "num": 335000,
       "word": "朋友婚后3年返还2000元结婚礼金",
       "onboard_time": 1734622820,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329511,
+      "num": 329511,
+      "word": "民警突袭菜市场5分钟偷走数个手机",
+      "onboard_time": 1734673940,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -385,14 +425,6 @@
       "onboard_time": 1734655279,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 302561,
-      "num": 190088,
-      "word": "九重紫最大尺度",
-      "onboard_time": 1734672259,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 297260,
@@ -467,6 +499,14 @@
       "category": "舆论监督,美食"
     },
     {
+      "raw_hot": 262419,
+      "num": 262419,
+      "word": "韩恩静写给中恩静的一封信",
+      "onboard_time": 1734672140,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250572,
       "num": 250572,
       "word": "唐探1900",
@@ -475,20 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245444,
-      "num": 259308,
-      "word": "韩恩静写给中恩静的一封信",
-      "onboard_time": 1734672140,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239984,
       "num": 239984,
       "word": "周深世巡官宣",
       "onboard_time": 1734670581,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 236396,
+      "num": 316015,
+      "word": "袁记云饺曾称馅料为预制",
+      "onboard_time": 1734675679,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 232815,
@@ -553,6 +593,22 @@
       "onboard_time": 1734659237,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209590,
+      "num": 213285,
+      "word": "声生不息 澳门",
+      "onboard_time": 1734673461,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 208669,
+      "num": 208669,
+      "word": "高圆圆给女儿听周杰伦的歌",
+      "onboard_time": 1734673340,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 207637,
@@ -739,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176421,
+      "num": 176421,
+      "word": "九重紫豆瓣开分7.5",
+      "onboard_time": 1734675859,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175228,
       "num": 175228,
       "word": "黄雨婷说有100度近视但不影响瞄准",
@@ -753,6 +817,14 @@
       "onboard_time": 1734668599,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174839,
+      "num": 257661,
+      "word": "于适谈从演员到运动员的跨界突破",
+      "onboard_time": 1734671120,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 174530,
@@ -867,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159081,
+      "num": 159081,
+      "word": "冬至开播",
+      "onboard_time": 1734675619,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157933,
       "num": 157933,
       "word": "灰熊把勇士打花了",
@@ -963,12 +1043,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144481,
+      "num": 222953,
+      "word": "李俊昊被国税厅税务调查",
+      "onboard_time": 1734674119,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144113,
       "num": 144113,
       "word": "男子在滑雪场教新手妻子遭驱赶",
       "onboard_time": 1734672200,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143569,
+      "num": 143569,
+      "word": "刘晓庆 70后精致女生",
+      "onboard_time": 1734672980,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 142419,
@@ -985,6 +1081,14 @@
       "onboard_time": 1734666379,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "问界M7交通事故鉴定机构被行政处罚",
+      "onboard_time": 1734675919,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 140751,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1734671541,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139518,
+      "num": 139518,
+      "word": "丁禹兮不用怕没听到",
+      "onboard_time": 1734676159,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 139378,
@@ -1123,12 +1235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127946,
-      "num": 127946,
-      "word": "刘晓庆 70后精致女生",
-      "onboard_time": 1734672980,
+      "raw_hot": 128618,
+      "num": 128618,
+      "word": "大学生作业里充满了AI味",
+      "onboard_time": 1734674720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 127095,
+      "num": 127095,
+      "word": "恋与我的白月光",
+      "onboard_time": 1734674720,
       "rank": 45,
-      "category": "综艺"
+      "category": "游戏"
     },
     {
       "raw_hot": 125930,
@@ -1155,12 +1275,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 124266,
+      "num": 124266,
+      "word": "黄景瑜 冬至来了江成屹也来了",
+      "onboard_time": 1734676039,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124194,
       "num": 120969,
       "word": "猎罪2萝莉姐整容爆改年龄",
       "onboard_time": 1734606799,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123682,
+      "num": 127110,
+      "word": "倪萍说在一路繁花不会气到睡不着",
+      "onboard_time": 1734674599,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122139,
+      "num": 122139,
+      "word": "王鹤棣26岁庆生照",
+      "onboard_time": 1734674300,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 118399,
@@ -1259,6 +1403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106910,
+      "num": 212239,
+      "word": "詹姆斯一天两个历史第一",
+      "onboard_time": 1734673639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106569,
       "num": 166020,
       "word": "孙千包场冬至",
@@ -1320,6 +1472,14 @@
       "word": "公厕用凹凸分辨男女",
       "onboard_time": 1734604098,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93084,
+      "num": 294646,
+      "word": "杨妞花说带货靠自己全凭良心",
+      "onboard_time": 1734675318,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1427,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76040,
+      "num": 300960,
+      "word": "考研是一个人的孤军奋战",
+      "onboard_time": 1734675079,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 75746,
       "num": 75746,
       "word": "余华看郑钦文奥运比赛到手抖",
@@ -1441,6 +1609,14 @@
       "onboard_time": 1734616400,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74312,
+      "num": 181578,
+      "word": "东方卫视跨年手先官宣",
+      "onboard_time": 1734673699,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 73232,
@@ -1635,14 +1811,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 51386,
-      "num": 257661,
-      "word": "于适谈从演员到运动员的跨界突破",
-      "onboard_time": 1734671120,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50613,
       "num": 331020,
       "word": "侵权方向赵露思公开道歉",
@@ -1673,6 +1841,14 @@
       "onboard_time": 1734668119,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47095,
+      "num": 308978,
+      "word": "袁记云饺被通报门店变更法定代表人",
+      "onboard_time": 1734676039,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46069,
@@ -1947,6 +2123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15086,
+      "num": 139525,
+      "word": "小尼小撒钓鱼搭子",
+      "onboard_time": 1734675558,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 14921,
       "num": 109726,
       "word": "博塔斯担任梅赛德斯储备车手",
@@ -1985,6 +2169,14 @@
       "onboard_time": 1734639970,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6540,
+      "num": 127456,
+      "word": "近一半高血压患者不知道自己患病",
+      "onboard_time": 1734676099,
+      "rank": 43,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
