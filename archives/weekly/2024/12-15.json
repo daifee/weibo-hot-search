@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734672097307,
+  "endTime": 1734673138914,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -345,6 +345,14 @@
       "onboard_time": 1734445101,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1490937,
+      "num": 375783,
+      "word": "法医从死亡男子喉咙取出活鸡",
+      "onboard_time": 1734671780,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1485754,
@@ -2339,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588674,
+      "num": 588674,
+      "word": "年度报告",
+      "onboard_time": 1734668359,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 585680,
       "num": 585680,
       "word": "桃黑黑",
@@ -2963,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488662,
+      "num": 488662,
+      "word": "金世佳说热度破3万争取拍猎罪图鉴3",
+      "onboard_time": 1734670220,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487897,
       "num": 487897,
       "word": "肖战黑西装长发",
@@ -3403,14 +3427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 437515,
-      "num": 437515,
-      "word": "年度报告",
-      "onboard_time": 1734668359,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 436996,
       "num": 436996,
       "word": "外交部回应韩国流行周五下班去中国",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1734355999,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424554,
-      "num": 424554,
-      "word": "金世佳说热度破3万争取拍猎罪图鉴3",
-      "onboard_time": 1734670220,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 423212,
@@ -3867,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389655,
+      "num": 389655,
+      "word": "黄圣依再就业成功麦琳也不远了吧",
+      "onboard_time": 1734669141,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386771,
       "num": 495087,
       "word": "肖战歌曲与澳门的适配度",
@@ -3939,28 +3955,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380049,
-      "num": 375783,
-      "word": "法医从死亡男子喉咙取出活鸡",
-      "onboard_time": 1734671780,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379421,
       "num": 379421,
       "word": "主持人百克力被鱼刺穿胃扎到肝",
       "onboard_time": 1734253458,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377949,
-      "num": 377949,
-      "word": "黄圣依再就业成功麦琳也不远了吧",
-      "onboard_time": 1734669141,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 376753,
@@ -4241,6 +4241,14 @@
       "onboard_time": 1734656657,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 351275,
+      "num": 311822,
+      "word": "Zeus",
+      "onboard_time": 1734671242,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 351148,
@@ -4843,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302561,
+      "num": 190088,
+      "word": "九重紫最大尺度",
+      "onboard_time": 1734672259,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299026,
       "num": 299026,
       "word": "姆巴佩强奸案原告还原案发过程",
@@ -4905,14 +4921,6 @@
       "onboard_time": 1734322041,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 296556,
-      "num": 296556,
-      "word": "Zeus",
-      "onboard_time": 1734671242,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 296373,
@@ -5721,6 +5729,14 @@
       "onboard_time": 1734492078,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 245444,
+      "num": 259308,
+      "word": "韩恩静写给中恩静的一封信",
+      "onboard_time": 1734672140,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 245334,
@@ -7643,6 +7659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194567,
+      "num": 194567,
+      "word": "虞书欣首cha新歌",
+      "onboard_time": 1734672440,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194547,
       "num": 194547,
       "word": "警方立案调查厦大学生肢体冲突",
@@ -7867,6 +7891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191976,
+      "num": 375800,
+      "word": "单县羊汤产业联盟回应B太羊汤事件",
+      "onboard_time": 1734670462,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "求求丁禹兮他真的就会唱",
@@ -8009,6 +8041,14 @@
       "onboard_time": 1734596059,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 190073,
+      "num": 190073,
+      "word": "恋与制作人七周年音乐集",
+      "onboard_time": 1734673039,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 190042,
@@ -10987,6 +11027,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 144113,
+      "num": 144113,
+      "word": "男子在滑雪场教新手妻子遭驱赶",
+      "onboard_time": 1734672200,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "留几手放狠话全被葛夕听到了",
@@ -11547,14 +11595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136797,
-      "num": 375800,
-      "word": "单县羊汤产业联盟回应B太羊汤事件",
-      "onboard_time": 1734670462,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136686,
       "num": 256029,
       "word": "容嬷嬷李明启88岁了",
@@ -11753,6 +11793,14 @@
       "onboard_time": 1734430701,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 134017,
+      "num": 134017,
+      "word": "马斯克称星链可实现火星玩游戏",
+      "onboard_time": 1734672920,
+      "rank": 43,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 133993,
@@ -12313,6 +12361,14 @@
       "onboard_time": 1734439878,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127946,
+      "num": 127946,
+      "word": "刘晓庆 70后精致女生",
+      "onboard_time": 1734672980,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 127709,
@@ -13891,6 +13947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106569,
+      "num": 166020,
+      "word": "孙千包场冬至",
+      "onboard_time": 1734670282,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106283,
       "num": 234463,
       "word": "雅思夺冠登哥忙坏了",
@@ -14153,14 +14217,6 @@
       "onboard_time": 1734582199,
       "rank": 17,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 102550,
-      "num": 160824,
-      "word": "孙千包场冬至",
-      "onboard_time": 1734670282,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 102498,
@@ -15595,6 +15651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73232,
+      "num": 202174,
+      "word": "詹姆斯吐槽现在的比赛三分太多",
+      "onboard_time": 1734672861,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73048,
       "num": 73048,
       "word": "狐狸在老虎尿上打滚",
@@ -16067,6 +16131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64934,
+      "num": 138636,
+      "word": "时光音乐会",
+      "onboard_time": 1734672920,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64809,
       "num": 179616,
       "word": "崔永熙追梦没有停",
@@ -16499,6 +16571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55709,
+      "num": 357076,
+      "word": "饿了么请网友吃饺子感谢支持申遗",
+      "onboard_time": 1734670822,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 55553,
       "num": 323237,
       "word": "校方称压坏草坪男子系伪装学生进校",
@@ -16651,6 +16731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 53187,
+      "num": 316230,
+      "word": "产业联盟称B太对羊汤有宣传作用",
+      "onboard_time": 1734672740,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 53153,
       "num": 419011,
       "word": "雄鹿雷霆为50万奖金拼了",
@@ -16761,14 +16849,6 @@
       "onboard_time": 1734499820,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 52179,
-      "num": 357076,
-      "word": "饿了么请网友吃饺子感谢支持申遗",
-      "onboard_time": 1734670822,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 51998,
@@ -16937,6 +17017,14 @@
       "onboard_time": 1734198134,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49389,
+      "num": 303839,
+      "word": "澳门街头都有什么车",
+      "onboard_time": 1734669141,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 49346,
@@ -18011,14 +18099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37151,
-      "num": 303839,
-      "word": "澳门街头都有什么车",
-      "onboard_time": 1734669141,
-      "rank": 36,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 37141,
       "num": 303288,
       "word": "Red精彩OK开年刊双封面",
@@ -18401,6 +18481,14 @@
       "onboard_time": 1734177921,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32825,
+      "num": 166424,
+      "word": "揭秘手机行业首个护眼实验室",
+      "onboard_time": 1734672259,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 32689,
@@ -19353,6 +19441,14 @@
       "onboard_time": 1734537619,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22252,
+      "num": 190245,
+      "word": "高校合唱团用歌声为考研学子加油",
+      "onboard_time": 1734672500,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 22240,

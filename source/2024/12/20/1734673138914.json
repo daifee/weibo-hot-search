@@ -1,0 +1,410 @@
+{
+  "runTime": 1734673138914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12939134,
+        "num": 12939134,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 0,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 764145,
+        "num": 764145,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35176,
+        "num": 612062,
+        "word": "庆祝澳门回归25年",
+        "onboard_time": 1734664938,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588674,
+        "num": 588674,
+        "word": "年度报告",
+        "onboard_time": 1734668359,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 488662,
+        "num": 488662,
+        "word": "金世佳说热度破3万争取拍猎罪图鉴3",
+        "onboard_time": 1734670220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389655,
+        "num": 389655,
+        "word": "黄圣依再就业成功麦琳也不远了吧",
+        "onboard_time": 1734669141,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358401,
+        "num": 358401,
+        "word": "小米YU7路试",
+        "onboard_time": 1734667699,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 346819,
+        "num": 346819,
+        "word": "以军被爆在加沙进行杀人比赛",
+        "onboard_time": 1734666918,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323030,
+        "num": 323030,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53187,
+        "num": 316230,
+        "word": "产业联盟称B太对羊汤有宣传作用",
+        "onboard_time": 1734672740,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1490937,
+        "num": 312997,
+        "word": "法医从死亡男子喉咙取出活鸡",
+        "onboard_time": 1734671780,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351275,
+        "num": 311822,
+        "word": "Zeus",
+        "onboard_time": 1734671242,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 309435,
+        "num": 309435,
+        "word": "何炅才是没放过黄磊的人",
+        "onboard_time": 1734671062,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298643,
+        "num": 298643,
+        "word": "小米SU7坠崖一家四口安然无恙",
+        "onboard_time": 1734649815,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55709,
+        "num": 298351,
+        "word": "饿了么请网友吃饺子感谢支持申遗",
+        "onboard_time": 1734670822,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 298093,
+        "num": 298093,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291298,
+        "num": 291298,
+        "word": "猎罪2借养父之名性侵继女",
+        "onboard_time": 1734668539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266174,
+        "num": 266174,
+        "word": "瞒着家人复读一年成功上岸",
+        "onboard_time": 1734661997,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79888,
+        "num": 259610,
+        "word": "声生不息",
+        "onboard_time": 1734669742,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245444,
+        "num": 259308,
+        "word": "韩恩静写给中恩静的一封信",
+        "onboard_time": 1734672140,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368406,
+        "num": 259300,
+        "word": "年薪50万女士择偶标准百万到千万年薪",
+        "onboard_time": 1734661577,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259254,
+        "num": 259254,
+        "word": "畸形追星行为或触犯哪些法律",
+        "onboard_time": 1734655999,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232707,
+        "num": 232707,
+        "word": "贾玲 我没有变",
+        "onboard_time": 1734670522,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218916,
+        "num": 218916,
+        "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
+        "onboard_time": 1734665297,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73232,
+        "num": 202174,
+        "word": "詹姆斯吐槽现在的比赛三分太多",
+        "onboard_time": 1734672861,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195806,
+        "num": 195806,
+        "word": "白鹿杜莎蜡像",
+        "onboard_time": 1734667939,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 194567,
+        "word": "虞书欣首cha新歌",
+        "onboard_time": 1734672440,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191976,
+        "num": 191976,
+        "word": "单县羊汤产业联盟回应B太羊汤事件",
+        "onboard_time": 1734670462,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22252,
+        "num": 190245,
+        "word": "高校合唱团用歌声为考研学子加油",
+        "onboard_time": 1734672500,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 190097,
+        "word": "刘诗诗发博分享封面写真",
+        "onboard_time": 1734671062,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 302561,
+        "num": 190088,
+        "word": "九重紫最大尺度",
+        "onboard_time": 1734672259,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190073,
+        "num": 190073,
+        "word": "恋与制作人七周年音乐集",
+        "onboard_time": 1734673039,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186543,
+        "num": 186543,
+        "word": "丁禹兮张新成开机同框路透",
+        "onboard_time": 1734669081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173046,
+        "num": 173046,
+        "word": "周深世巡官宣",
+        "onboard_time": 1734670581,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168839,
+        "num": 168839,
+        "word": "小猫侧睡危害真的很大",
+        "onboard_time": 1734663318,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 166424,
+        "word": "揭秘手机行业首个护眼实验室",
+        "onboard_time": 1734672259,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106569,
+        "num": 166020,
+        "word": "孙千包场冬至",
+        "onboard_time": 1734670282,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165997,
+        "num": 165997,
+        "word": "贾玲VOGUE开年封面",
+        "onboard_time": 1734668959,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49389,
+        "num": 150289,
+        "word": "澳门街头都有什么车",
+        "onboard_time": 1734669141,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 150146,
+        "num": 150146,
+        "word": "黄圣依杨子彻底分开过",
+        "onboard_time": 1734651196,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144113,
+        "num": 144113,
+        "word": "男子在滑雪场教新手妻子遭驱赶",
+        "onboard_time": 1734672200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64934,
+        "num": 138636,
+        "word": "时光音乐会",
+        "onboard_time": 1734672920,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134108,
+        "num": 134108,
+        "word": "袁记云饺",
+        "onboard_time": 1734668359,
+        "rank": 42,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 134017,
+        "num": 134017,
+        "word": "马斯克称星链可实现火星玩游戏",
+        "onboard_time": 1734672920,
+        "rank": 43,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 132163,
+        "num": 132163,
+        "word": "南部档案开机",
+        "onboard_time": 1734666437,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127946,
+        "num": 127946,
+        "word": "刘晓庆 70后精致女生",
+        "onboard_time": 1734672980,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122548,
+        "num": 122548,
+        "word": "人民币重回全球第四大活跃货币",
+        "onboard_time": 1734665238,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 36484,
+        "num": 117800,
+        "word": "2024PEL全明星投票",
+        "onboard_time": 1734671900,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115681,
+        "num": 115681,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734672379,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113237,
+        "num": 113237,
+        "word": "快乐再出发",
+        "onboard_time": 1734672020,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归祖国25周年大会#"
+    }
+  }
+}
