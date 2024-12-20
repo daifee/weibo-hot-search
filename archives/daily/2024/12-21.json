@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734727018804,
+  "endTime": 1734729621977,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35988,
+      "num": 35988,
+      "word": "银行姑娘和老人唠嗑后悄悄报警",
+      "onboard_time": 1734726251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34506,
       "num": 34506,
       "word": "向佐晒一家四口照片称一生最爱",
@@ -513,6 +521,14 @@
       "onboard_time": 1734719113,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27133,
+      "num": 27133,
+      "word": "老人被骗交1.68万卖古董能得168万",
+      "onboard_time": 1734727930,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26119,
@@ -587,15 +603,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14017,
-      "num": 22474,
-      "word": "银行姑娘和老人唠嗑后悄悄报警",
-      "onboard_time": 1734726251,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13930,
+      "raw_hot": 15194,
       "num": 41993,
       "word": "新疆种辣椒机械化美国还造谣强迫劳动",
       "onboard_time": 1734725532,
@@ -609,6 +617,14 @@
       "onboard_time": 1734714375,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12540,
+      "num": 35883,
+      "word": "外交部回应个别西方媒体专门造谣新疆",
+      "onboard_time": 1734729131,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11078,
