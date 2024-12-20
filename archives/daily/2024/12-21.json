@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734736871133,
+  "endTime": 1734737737039,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -17,6 +17,22 @@
       "onboard_time": 1734701119,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 816326,
+      "num": 933129,
+      "word": "韦唯准备下山时遭遇车祸脊柱折断",
+      "onboard_time": 1734736274,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 805350,
+      "num": 805350,
+      "word": "冬至",
+      "onboard_time": 1734736274,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 727624,
@@ -51,14 +67,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597161,
-      "num": 789990,
-      "word": "韦唯准备下山时遭遇车祸脊柱折断",
-      "onboard_time": 1734736274,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 553257,
       "num": 319486,
       "word": "吴奇隆好友出面曝光婚变真相",
@@ -67,12 +75,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548761,
-      "num": 548761,
-      "word": "冬至",
-      "onboard_time": 1734736274,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 484211,
+      "num": 484211,
+      "word": "留几手报警",
+      "onboard_time": 1734736874,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 475605,
@@ -163,20 +171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256988,
+      "num": 171670,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253355,
       "num": 253355,
       "word": "普京表示茅台也有伏特加也有",
       "onboard_time": 1734702739,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 252744,
-      "num": 142407,
-      "word": "男子离世房产留给妻儿未分9旬母亲",
-      "onboard_time": 1734711617,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242626,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208759,
+      "num": 164266,
+      "word": "papi酱 倪萍老师能不能开个班",
+      "onboard_time": 1734736274,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204706,
       "num": 204706,
       "word": "窦昭怀的是小葡萄不是葡萄干",
@@ -211,12 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164730,
-      "num": 139112,
-      "word": "papi酱 倪萍老师能不能开个班",
-      "onboard_time": 1734736274,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 179076,
+      "num": 179076,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 162015,
+      "num": 162015,
+      "word": "马方同意恢复搜索马航MH370航班",
+      "onboard_time": 1734717793,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150076,
@@ -251,28 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142395,
-      "num": 142395,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140960,
       "num": 177801,
       "word": "台湾青年打卡尔滨被圈粉了",
       "onboard_time": 1734710540,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135749,
-      "num": 135749,
-      "word": "马方同意恢复搜索马航MH370航班",
-      "onboard_time": 1734717793,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126661,
@@ -355,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104429,
+      "num": 104429,
+      "word": "德国车辆冲撞人群事件致2死68伤",
+      "onboard_time": 1734737595,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 98884,
+      "num": 98884,
+      "word": "德国",
+      "onboard_time": 1734737655,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98643,
       "num": 98643,
       "word": "陈都灵 仙感",
@@ -403,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85910,
+      "num": 85910,
+      "word": "一个普通女孩150斤到102斤之路",
+      "onboard_time": 1734737293,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73038,
       "num": 73038,
       "word": "李昀锐帮孟子义推行李箱",
@@ -427,6 +459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67142,
+      "num": 67142,
+      "word": "向佐晒一家四口照片称一生最爱",
+      "onboard_time": 1734716833,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66135,
       "num": 174958,
       "word": "成都羊肉汤老师傅说多熬自然就白",
@@ -441,6 +481,14 @@
       "onboard_time": 1734708798,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 62090,
+      "num": 62090,
+      "word": "想去尔滨的心情达到顶峰",
+      "onboard_time": 1734734232,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 61300,
@@ -459,12 +507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58963,
-      "num": 58963,
-      "word": "向佐晒一家四口照片称一生最爱",
-      "onboard_time": 1734716833,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 57969,
+      "num": 57969,
+      "word": "肥妈45岁才能说自己是中国人",
+      "onboard_time": 1734728951,
+      "rank": 44,
+      "category": "综艺,国内时政"
     },
     {
       "raw_hot": 57400,
@@ -475,28 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55818,
-      "num": 55921,
-      "word": "肥妈45岁才能说自己是中国人",
-      "onboard_time": 1734728951,
-      "rank": 44,
-      "category": "综艺,国内时政"
-    },
-    {
-      "raw_hot": 55201,
-      "num": 55201,
-      "word": "想去尔滨的心情达到顶峰",
-      "onboard_time": 1734734232,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 53122,
       "num": 53122,
       "word": "北方人对饺子到底有多少执念",
       "onboard_time": 1734716593,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 49532,
+      "num": 49532,
+      "word": "服从性测试",
+      "onboard_time": 1734737293,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 48596,
@@ -531,6 +571,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42332,
+      "num": 42332,
+      "word": "为388万考研学子加油",
+      "onboard_time": 1734737293,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 40021,
+      "num": 91281,
+      "word": "失联研究生家人称其最后消失在长江边",
+      "onboard_time": 1734718993,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37925,
+      "num": 42549,
+      "word": "乌克兰基辅传出密集爆炸声",
+      "onboard_time": 1734720731,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37139,
       "num": 157176,
       "word": "北京男篮战胜辽宁男篮",
@@ -539,7 +603,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36354,
+      "raw_hot": 36468,
       "num": 63459,
       "word": "马英九强调两岸要共同铭记抗战历史",
       "onboard_time": 1734730631,
@@ -547,28 +611,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35542,
-      "num": 91281,
-      "word": "失联研究生家人称其最后消失在长江边",
-      "onboard_time": 1734718993,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34724,
-      "num": 42549,
-      "word": "乌克兰基辅传出密集爆炸声",
-      "onboard_time": 1734720731,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32497,
-      "num": 32497,
+      "num": 42841,
       "word": "尔滨冰雪大世界融合了亚冬元素",
       "onboard_time": 1734735432,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 29434,
+      "num": 177624,
+      "word": "插排台灯钥匙扣可能在偷听你说话",
+      "onboard_time": 1734737353,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28943,
@@ -675,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18324,
+      "num": 136221,
+      "word": "赵小童直播",
+      "onboard_time": 1734736693,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17697,
       "num": 17697,
       "word": "中医传承的意义在此刻具象化了",
@@ -721,14 +785,6 @@
       "onboard_time": 1734715574,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9350,
-      "num": 69560,
-      "word": "赵小童直播",
-      "onboard_time": 1734736693,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 7922,

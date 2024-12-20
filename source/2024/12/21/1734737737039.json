@@ -1,0 +1,410 @@
+{
+  "runTime": 1734737737039,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816326,
+        "num": 933129,
+        "word": "韦唯准备下山时遭遇车祸脊柱折断",
+        "onboard_time": 1734736274,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 805350,
+        "num": 805350,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19170,
+        "num": 541335,
+        "word": "一组数据看澳门回归25周年",
+        "onboard_time": 1734703159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484211,
+        "num": 484211,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260118,
+        "num": 260118,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207637,
+        "num": 207637,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 213462,
+        "num": 205950,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203839,
+        "num": 203839,
+        "word": "普京表示茅台也有伏特加也有",
+        "onboard_time": 1734702739,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179076,
+        "num": 179076,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29434,
+        "num": 177624,
+        "word": "插排台灯钥匙扣可能在偷听你说话",
+        "onboard_time": 1734737353,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365975,
+        "num": 174432,
+        "word": "留几手回应",
+        "onboard_time": 1734706340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304668,
+        "num": 172026,
+        "word": "吴奇隆好友出面曝光婚变真相",
+        "onboard_time": 1734702438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256988,
+        "num": 171670,
+        "word": "男子离世房产留给妻儿未分9旬母亲",
+        "onboard_time": 1734711617,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219106,
+        "num": 167599,
+        "word": "女子称住酒店凌晨一陌生男子站床前",
+        "onboard_time": 1734709580,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213278,
+        "num": 164655,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208759,
+        "num": 164266,
+        "word": "papi酱 倪萍老师能不能开个班",
+        "onboard_time": 1734736274,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162015,
+        "num": 162015,
+        "word": "马方同意恢复搜索马航MH370航班",
+        "onboard_time": 1734717793,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154977,
+        "num": 154977,
+        "word": "尹恩惠40岁的状态",
+        "onboard_time": 1734707480,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150926,
+        "num": 150926,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18324,
+        "num": 136221,
+        "word": "赵小童直播",
+        "onboard_time": 1734736693,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95590,
+        "num": 127418,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122473,
+        "num": 122473,
+        "word": "留几手炸裂",
+        "onboard_time": 1734707958,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121136,
+        "num": 121136,
+        "word": "1岁宝宝认母期把狗狗当妈妈",
+        "onboard_time": 1734736213,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104429,
+        "num": 104429,
+        "word": "德国车辆冲撞人群事件致2死68伤",
+        "onboard_time": 1734737595,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98884,
+        "num": 98884,
+        "word": "德国",
+        "onboard_time": 1734737655,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96399,
+        "num": 96399,
+        "word": "海底捞门店回应虾滑疑吃出蛆",
+        "onboard_time": 1734710297,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94443,
+        "num": 94443,
+        "word": "央视新闻联播报道冯骥汇报",
+        "onboard_time": 1734706822,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92531,
+        "num": 92531,
+        "word": "窦昭怀的是小葡萄不是葡萄干",
+        "onboard_time": 1734706881,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85910,
+        "num": 85910,
+        "word": "一个普通女孩150斤到102斤之路",
+        "onboard_time": 1734737293,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69985,
+        "num": 83211,
+        "word": "丁禹兮cha虞书欣spicyhoney",
+        "onboard_time": 1734707539,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81271,
+        "num": 81271,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79206,
+        "num": 79206,
+        "word": "女孩意外坠海靠羽绒服漂浮自救",
+        "onboard_time": 1734708320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67142,
+        "num": 67142,
+        "word": "向佐晒一家四口照片称一生最爱",
+        "onboard_time": 1734716833,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65748,
+        "num": 65748,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 64012,
+        "num": 64012,
+        "word": "潜逃前山西首富在英购买大量房产",
+        "onboard_time": 1734706759,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62090,
+        "num": 62090,
+        "word": "想去尔滨的心情达到顶峰",
+        "onboard_time": 1734734232,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 59978,
+        "num": 59978,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57969,
+        "num": 57969,
+        "word": "肥妈45岁才能说自己是中国人",
+        "onboard_time": 1734728951,
+        "rank": 37,
+        "category": "综艺,国内时政"
+      },
+      {
+        "raw_hot": 53916,
+        "num": 53916,
+        "word": "银行姑娘和老人唠嗑后悄悄报警",
+        "onboard_time": 1734726251,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51741,
+        "num": 51741,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734704660,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49532,
+        "num": 49532,
+        "word": "服从性测试",
+        "onboard_time": 1734737293,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48682,
+        "num": 48682,
+        "word": "工人不慎把剪刀从15楼碰掉了",
+        "onboard_time": 1734699918,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45121,
+        "num": 45121,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31515,
+        "num": 42841,
+        "word": "尔滨冰雪大世界融合了亚冬元素",
+        "onboard_time": 1734735432,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 42478,
+        "num": 42478,
+        "word": "北方人对饺子到底有多少执念",
+        "onboard_time": 1734716593,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42332,
+        "num": 42332,
+        "word": "为388万考研学子加油",
+        "onboard_time": 1734737293,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40577,
+        "num": 40577,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40021,
+        "num": 40021,
+        "word": "失联研究生家人称其最后消失在长江边",
+        "onboard_time": 1734718993,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37925,
+        "num": 37925,
+        "word": "乌克兰基辅传出密集爆炸声",
+        "onboard_time": 1734720731,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36468,
+        "num": 36468,
+        "word": "马英九强调两岸要共同铭记抗战历史",
+        "onboard_time": 1734730631,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察驻澳门部队#"
+    }
+  }
+}
