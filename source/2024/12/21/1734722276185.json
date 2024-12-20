@@ -1,0 +1,410 @@
+{
+  "runTime": 1734722276185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166866,
+        "num": 166866,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124889,
+        "num": 124889,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 11529,
+        "num": 106376,
+        "word": "一组数据看澳门回归25周年",
+        "onboard_time": 1734703159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104860,
+        "num": 104860,
+        "word": "马方同意恢复搜索马航MH370航班",
+        "onboard_time": 1734717793,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80582,
+        "num": 80582,
+        "word": "丁禹兮cha虞书欣spicyhoney",
+        "onboard_time": 1734707539,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 63629,
+        "num": 63629,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53113,
+        "num": 53113,
+        "word": "尹恩惠40岁的状态",
+        "onboard_time": 1734707480,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 52754,
+        "num": 52754,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 49125,
+        "num": 52597,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42251,
+        "num": 51773,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174743,
+        "num": 51163,
+        "word": "留几手回应",
+        "onboard_time": 1734706340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82775,
+        "num": 50484,
+        "word": "吴奇隆好友出面曝光婚变真相",
+        "onboard_time": 1734702438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56774,
+        "num": 50341,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49763,
+        "num": 49763,
+        "word": "又幸福了杭州",
+        "onboard_time": 1734715216,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35439,
+        "num": 35439,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 35434,
+        "word": "戈兰高地叙利亚居民遭到以军驱逐",
+        "onboard_time": 1734720613,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79692,
+        "num": 35379,
+        "word": "留几手炸裂",
+        "onboard_time": 1734707958,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51671,
+        "num": 35372,
+        "word": "高瀚宇朱嘉琦十指相扣",
+        "onboard_time": 1734705080,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40947,
+        "num": 35327,
+        "word": "杨子破防",
+        "onboard_time": 1734715873,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5326,
+        "num": 35298,
+        "word": "吉克隽逸把粉丝一把抱进怀里",
+        "onboard_time": 1734721811,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55511,
+        "num": 35255,
+        "word": "海底捞门店回应虾滑疑吃出蛆",
+        "onboard_time": 1734710297,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41837,
+        "num": 35229,
+        "word": "工人不慎把剪刀从15楼碰掉了",
+        "onboard_time": 1734699918,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35209,
+        "num": 35209,
+        "word": "普京表示茅台也有伏特加也有",
+        "onboard_time": 1734702739,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 7246,
+        "num": 34815,
+        "word": "托人了 明天安心上考场",
+        "onboard_time": 1734721630,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34631,
+        "num": 34631,
+        "word": "女子称住酒店凌晨一陌生男子站床前",
+        "onboard_time": 1734709580,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34287,
+        "num": 34287,
+        "word": "央视新闻联播报道冯骥汇报",
+        "onboard_time": 1734706822,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 32990,
+        "num": 32990,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31942,
+        "num": 31942,
+        "word": "KBS导播",
+        "onboard_time": 1734710357,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31583,
+        "num": 31583,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28826,
+        "num": 30838,
+        "word": "孟子义回应圈内好人缘",
+        "onboard_time": 1734719473,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21663,
+        "num": 30755,
+        "word": "特朗普喊话欧盟",
+        "onboard_time": 1734720192,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36694,
+        "num": 30755,
+        "word": "男子离世房产留给妻儿未分9旬母亲",
+        "onboard_time": 1734711617,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30740,
+        "num": 30740,
+        "word": "北方人对饺子到底有多少执念",
+        "onboard_time": 1734716593,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 29611,
+        "num": 29611,
+        "word": "女孩意外坠海靠羽绒服漂浮自救",
+        "onboard_time": 1734708320,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27482,
+        "num": 27482,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26865,
+        "num": 26865,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734704660,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26606,
+        "num": 26606,
+        "word": "窦昭怀的是小葡萄不是葡萄干",
+        "onboard_time": 1734706881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25491,
+        "num": 25491,
+        "word": "殷世航骑射成绩",
+        "onboard_time": 1734715754,
+        "rank": 37,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 25359,
+        "num": 25359,
+        "word": "失联研究生家人称其最后消失在长江边",
+        "onboard_time": 1734718993,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24805,
+        "num": 25087,
+        "word": "台湾青年打卡尔滨被圈粉了",
+        "onboard_time": 1734710540,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24874,
+        "num": 24874,
+        "word": "陈都灵 仙感",
+        "onboard_time": 1734700639,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24857,
+        "num": 24857,
+        "word": "熊孩子怒砸电视吓坏母亲",
+        "onboard_time": 1734711798,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23076,
+        "num": 23076,
+        "word": "虞书欣看杨仕泽cha的反应",
+        "onboard_time": 1734708740,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22728,
+        "num": 22728,
+        "word": "黄圣依最强大脑路透 高知感",
+        "onboard_time": 1734698658,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22446,
+        "num": 22446,
+        "word": "于适杭盖乐队改编时来运转",
+        "onboard_time": 1734721692,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22351,
+        "num": 22351,
+        "word": "原神",
+        "onboard_time": 1734695119,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22350,
+        "num": 22350,
+        "word": "日本街头偶遇洪知秀跑步",
+        "onboard_time": 1734719233,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21450,
+        "num": 21450,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21030,
+        "num": 21030,
+        "word": "向佐晒一家四口照片称一生最爱",
+        "onboard_time": 1734716833,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20279,
+        "num": 20279,
+        "word": "乌克兰基辅传出密集爆炸声",
+        "onboard_time": 1734720731,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门一定能打开发展新天地#"
+    }
+  }
+}

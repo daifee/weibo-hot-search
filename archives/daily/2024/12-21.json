@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734720183128,
+  "endTime": 1734722276185,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -491,12 +491,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28826,
+      "num": 55692,
+      "word": "孟子义回应圈内好人缘",
+      "onboard_time": 1734719473,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28402,
       "num": 28402,
       "word": "一条音频告别2024",
       "onboard_time": 1734719113,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25359,
+      "num": 91281,
+      "word": "失联研究生家人称其最后消失在长江边",
+      "onboard_time": 1734718993,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24465,
@@ -515,12 +531,44 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21754,
-      "num": 91281,
-      "word": "失联研究生家人称其最后消失在长江边",
-      "onboard_time": 1734718993,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 22446,
+      "num": 22446,
+      "word": "于适杭盖乐队改编时来运转",
+      "onboard_time": 1734721692,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22350,
+      "num": 34184,
+      "word": "日本街头偶遇洪知秀跑步",
+      "onboard_time": 1734719233,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21663,
+      "num": 30755,
+      "word": "特朗普喊话欧盟",
+      "onboard_time": 1734720192,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20279,
+      "num": 20279,
+      "word": "乌克兰基辅传出密集爆炸声",
+      "onboard_time": 1734720731,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20276,
+      "num": 35434,
+      "word": "戈兰高地叙利亚居民遭到以军驱逐",
+      "onboard_time": 1734720613,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13682,
@@ -547,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10106,
-      "num": 55692,
-      "word": "孟子义回应圈内好人缘",
-      "onboard_time": 1734719473,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 7922,
       "num": 51459,
       "word": "梦之队Pro晋级挑杯淘汰赛",
@@ -571,11 +611,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5281,
-      "num": 34184,
-      "word": "日本街头偶遇洪知秀跑步",
-      "onboard_time": 1734719233,
-      "rank": 41,
+      "raw_hot": 7246,
+      "num": 34815,
+      "word": "托人了 明天安心上考场",
+      "onboard_time": 1734721630,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 5326,
+      "num": 35298,
+      "word": "吉克隽逸把粉丝一把抱进怀里",
+      "onboard_time": 1734721811,
+      "rank": 19,
       "category": "艺人"
     }
   ],
