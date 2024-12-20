@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734729621977,
+  "endTime": 1734730533565,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -467,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41025,
+      "num": 41025,
+      "word": "银行姑娘和老人唠嗑后悄悄报警",
+      "onboard_time": 1734726251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37139,
       "num": 157176,
       "word": "北京男篮战胜辽宁男篮",
       "onboard_time": 1734711917,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35988,
-      "num": 35988,
-      "word": "银行姑娘和老人唠嗑后悄悄报警",
-      "onboard_time": 1734726251,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34506,
@@ -603,10 +603,26 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15194,
+      "raw_hot": 15477,
+      "num": 15477,
+      "word": "肥妈45岁才能说自己是中国人",
+      "onboard_time": 1734728951,
+      "rank": 44,
+      "category": "综艺,国内时政"
+    },
+    {
+      "raw_hot": 15230,
       "num": 41993,
       "word": "新疆种辣椒机械化美国还造谣强迫劳动",
       "onboard_time": 1734725532,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15108,
+      "num": 35883,
+      "word": "外交部回应个别西方媒体专门造谣新疆",
+      "onboard_time": 1734729131,
       "rank": 9,
       "category": "国内时政"
     },
@@ -619,12 +635,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12540,
-      "num": 35883,
-      "word": "外交部回应个别西方媒体专门造谣新疆",
-      "onboard_time": 1734729131,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 11808,
+      "num": 30836,
+      "word": "外交部驳斥个别西方媒体造谣新疆辣椒",
+      "onboard_time": 1734730330,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11078,
