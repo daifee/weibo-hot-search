@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734708196806,
+  "endTime": 1734709039328,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -43,7 +43,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1741795,
+      "raw_hot": 1746700,
       "num": 410228,
       "word": "留几手回应",
       "onboard_time": 1734706340,
@@ -113,6 +113,14 @@
       "onboard_time": 1734696918,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1136839,
+      "num": 591147,
+      "word": "丁禹兮cha虞书欣spicyhoney",
+      "onboard_time": 1734707539,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1097235,
@@ -379,14 +387,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 591147,
-      "num": 591147,
-      "word": "丁禹兮cha虞书欣spicyhoney",
-      "onboard_time": 1734707539,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 588674,
       "num": 588674,
       "word": "年度报告",
@@ -433,6 +433,22 @@
       "onboard_time": 1734624077,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 531213,
+      "num": 368341,
+      "word": "央视新闻联播报道冯骥汇报",
+      "onboard_time": 1734706822,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 528568,
+      "num": 428262,
+      "word": "尹恩惠40岁的状态",
+      "onboard_time": 1734707480,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 524178,
@@ -683,14 +699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 368341,
-      "num": 368341,
-      "word": "央视新闻联播报道冯骥汇报",
-      "onboard_time": 1734706822,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 366384,
       "num": 366384,
       "word": "韦世豪 广州队怎么过的准入",
@@ -859,20 +867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294511,
+      "num": 294511,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294392,
       "num": 294392,
       "word": "袁记云饺全国门店超4000家",
       "onboard_time": 1734679818,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 290558,
-      "num": 290558,
-      "word": "尹恩惠40岁的状态",
-      "onboard_time": 1734707480,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 289412,
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218127,
+      "num": 218127,
+      "word": "广外 nctwish",
+      "onboard_time": 1734708499,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217761,
       "num": 664068,
       "word": "人民币重回全球第四大活跃货币",
@@ -1376,6 +1392,14 @@
       "word": "大奉打更人刚定档就有7个广",
       "onboard_time": 1734681439,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201534,
+      "num": 201534,
+      "word": "王鹤棣Bking赛道天赋型选手",
+      "onboard_time": 1734708140,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1603,7 +1627,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183708,
+      "raw_hot": 183716,
       "num": 256520,
       "word": "IU蚊子过敏",
       "onboard_time": 1734705380,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1734668419,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174469,
+      "num": 174469,
+      "word": "虞书欣看杨仕泽cha的反应",
+      "onboard_time": 1734708740,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 173702,
@@ -1987,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156572,
+      "num": 156572,
+      "word": "国色芳华暂定1月9日播出",
+      "onboard_time": 1734708619,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155669,
       "num": 155669,
       "word": "猎罪图鉴2",
@@ -2259,14 +2299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138934,
-      "num": 231560,
-      "word": "留几手炸裂",
-      "onboard_time": 1734707958,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138626,
       "num": 241068,
       "word": "原神玛薇卡",
@@ -2289,6 +2321,14 @@
       "onboard_time": 1734618319,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137228,
+      "num": 137228,
+      "word": "女孩意外坠海靠羽绒服漂浮自救",
+      "onboard_time": 1734708320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134914,
@@ -2635,6 +2675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119721,
+      "num": 119721,
+      "word": "大奉打更人刘奕君领衔主演",
+      "onboard_time": 1734708140,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119500,
       "num": 141193,
       "word": "贾玲 我看我自己哪都美",
@@ -2721,14 +2769,6 @@
       "onboard_time": 1734687498,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115072,
-      "num": 115072,
-      "word": "王鹤棣Bking赛道天赋型选手",
-      "onboard_time": 1734708140,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 113883,
@@ -2819,20 +2859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107788,
+      "num": 107788,
+      "word": "成都羊肉汤老师傅说多熬自然就白",
+      "onboard_time": 1734708379,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107513,
       "num": 107513,
       "word": "祝澳门明天更美好",
       "onboard_time": 1734654860,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 107238,
-      "num": 106828,
-      "word": "大奉打更人刘奕君领衔主演",
-      "onboard_time": 1734708140,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 106569,
@@ -3187,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73180,
+      "num": 202298,
+      "word": "黑神话悟空入围三大奖项",
+      "onboard_time": 1734708798,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73169,
       "num": 236725,
       "word": "Zeus获LCK年度最佳选手提名",
@@ -3387,6 +3435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60718,
+      "num": 372683,
+      "word": "00后同学眼中35岁的唐尚珺",
+      "onboard_time": 1734707419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60409,
       "num": 237414,
       "word": "普京称俄已准备好和西方技术对决",
@@ -3497,14 +3553,6 @@
       "onboard_time": 1734665657,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 54014,
-      "num": 372683,
-      "word": "00后同学眼中35岁的唐尚珺",
-      "onboard_time": 1734707419,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53254,
@@ -4329,6 +4377,14 @@
       "onboard_time": 1734698357,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 6806,
+      "num": 295576,
+      "word": "杨子到底在委屈什么",
+      "onboard_time": 1734687559,
+      "rank": 17,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

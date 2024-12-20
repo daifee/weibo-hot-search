@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734708196806,
+  "endTime": 1734709039328,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1131,20 +1131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1746700,
+      "num": 410228,
+      "word": "留几手回应",
+      "onboard_time": 1734706340,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1746641,
       "num": 1144687,
       "word": "女生遭诱导拍私密写真被碰隐私处",
       "onboard_time": 1733622139,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1741795,
-      "num": 410228,
-      "word": "留几手回应",
-      "onboard_time": 1734706340,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1733000,
@@ -3089,6 +3089,14 @@
       "onboard_time": 1733893522,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1136839,
+      "num": 591147,
+      "word": "丁禹兮cha虞书欣spicyhoney",
+      "onboard_time": 1734707539,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1134537,
@@ -9099,14 +9107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 591147,
-      "num": 591147,
-      "word": "丁禹兮cha虞书欣spicyhoney",
-      "onboard_time": 1734707539,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -10483,6 +10483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531213,
+      "num": 368341,
+      "word": "央视新闻联播报道冯骥汇报",
+      "onboard_time": 1734706822,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 530948,
       "num": 530948,
       "word": "韩德洙代行韩国总统职务",
@@ -10553,6 +10561,14 @@
       "onboard_time": 1733822539,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 528568,
+      "num": 428262,
+      "word": "尹恩惠40岁的状态",
+      "onboard_time": 1734707480,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 528511,
@@ -15731,14 +15747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368341,
-      "num": 368341,
-      "word": "央视新闻联播报道冯骥汇报",
-      "onboard_time": 1734706822,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 368099,
       "num": 368099,
       "word": "中国人习惯性内卷在国外很吃亏",
@@ -19315,6 +19323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294511,
+      "num": 294511,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294500,
       "num": 324010,
       "word": "庄达菲红毯签名一笔一画",
@@ -19489,14 +19505,6 @@
       "onboard_time": 1733889679,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 290558,
-      "num": 290558,
-      "word": "尹恩惠40岁的状态",
-      "onboard_time": 1734707480,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 290542,
@@ -25227,6 +25235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 218127,
+      "num": 218127,
+      "word": "广外 nctwish",
+      "onboard_time": 1734708499,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218063,
       "num": 530862,
       "word": "秦海璐小说书单又上新了",
@@ -27929,6 +27945,14 @@
       "onboard_time": 1733367379,
       "rank": 29,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 201534,
+      "num": 201534,
+      "word": "王鹤棣Bking赛道天赋型选手",
+      "onboard_time": 1734708140,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 201494,
@@ -32331,7 +32355,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 183708,
+      "raw_hot": 183716,
       "num": 256520,
       "word": "IU蚊子过敏",
       "onboard_time": 1734705380,
@@ -34145,6 +34169,14 @@
       "onboard_time": 1733143705,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174469,
+      "num": 174469,
+      "word": "虞书欣看杨仕泽cha的反应",
+      "onboard_time": 1734708740,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 174441,
@@ -38489,6 +38521,14 @@
       "onboard_time": 1734688879,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156572,
+      "num": 156572,
+      "word": "国色芳华暂定1月9日播出",
+      "onboard_time": 1734708619,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 156548,
@@ -43059,14 +43099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138934,
-      "num": 231560,
-      "word": "留几手炸裂",
-      "onboard_time": 1734707958,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138854,
       "num": 138854,
       "word": "贺峻霖玉龙雪山吸氧",
@@ -43513,6 +43545,14 @@
       "onboard_time": 1733399720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137228,
+      "num": 137228,
+      "word": "女孩意外坠海靠羽绒服漂浮自救",
+      "onboard_time": 1734708320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137087,
@@ -47675,6 +47715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119721,
+      "num": 119721,
+      "word": "大奉打更人刘奕君领衔主演",
+      "onboard_time": 1734708140,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119710,
       "num": 119710,
       "word": "代购回应胖东来限购",
@@ -48705,14 +48753,6 @@
       "onboard_time": 1733530218,
       "rank": 46,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 115072,
-      "num": 115072,
-      "word": "王鹤棣Bking赛道天赋型选手",
-      "onboard_time": 1734708140,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 115056,
@@ -50179,6 +50219,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107788,
+      "num": 107788,
+      "word": "成都羊肉汤老师傅说多熬自然就白",
+      "onboard_time": 1734708379,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107783,
       "num": 259793,
       "word": "左航耳坠",
@@ -50329,14 +50377,6 @@
       "onboard_time": 1732966698,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 107238,
-      "num": 106828,
-      "word": "大奉打更人刘奕君领衔主演",
-      "onboard_time": 1734708140,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 107235,
@@ -56123,6 +56163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73180,
+      "num": 202298,
+      "word": "黑神话悟空入围三大奖项",
+      "onboard_time": 1734708798,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73169,
       "num": 236725,
       "word": "Zeus获LCK年度最佳选手提名",
@@ -58451,6 +58499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60718,
+      "num": 372683,
+      "word": "00后同学眼中35岁的唐尚珺",
+      "onboard_time": 1734707419,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60664,
       "num": 216667,
       "word": "苏翊鸣肩膀受伤正处于恢复阶段",
@@ -59793,14 +59849,6 @@
       "onboard_time": 1733885118,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54014,
-      "num": 372683,
-      "word": "00后同学眼中35岁的唐尚珺",
-      "onboard_time": 1734707419,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53902,
@@ -72689,6 +72737,14 @@
       "onboard_time": 1733087590,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6806,
+      "num": 295576,
+      "word": "杨子到底在委屈什么",
+      "onboard_time": 1734687559,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 6773,
