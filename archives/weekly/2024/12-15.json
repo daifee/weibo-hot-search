@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734683316531,
+  "endTime": 1734684138255,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -1019,6 +1019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 953963,
+      "num": 256786,
+      "word": "审判留几手",
+      "onboard_time": 1734678679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 952833,
       "num": 952833,
       "word": "余华英不服判决要申请援助律师",
@@ -1163,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 890071,
-      "num": 256786,
-      "word": "审判留几手",
-      "onboard_time": 1734678679,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 880597,
       "num": 922594,
       "word": "南大碎尸案警方誓言追查到底",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1734233537,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 843827,
+      "num": 843827,
+      "word": "医生解读脑瘫女孩备孕",
+      "onboard_time": 1734679938,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 841017,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1734509960,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 755321,
-      "num": 755321,
-      "word": "医生解读脑瘫女孩备孕",
-      "onboard_time": 1734679938,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 752174,
@@ -3371,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443950,
+      "num": 188545,
+      "word": "包文婧晒4月孕肚",
+      "onboard_time": 1734683298,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443026,
       "num": 443026,
       "word": "丁程鑫后援会官博发文",
@@ -3955,6 +3963,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 385304,
+      "num": 385304,
+      "word": "预制爆剧",
+      "onboard_time": 1734678739,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384971,
       "num": 280045,
       "word": "张馨予顶着1斤金冠拍戏",
@@ -4417,14 +4433,6 @@
       "onboard_time": 1734505159,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344955,
-      "num": 344955,
-      "word": "预制爆剧",
-      "onboard_time": 1734678739,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 344121,
@@ -5619,6 +5627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258248,
+      "num": 206555,
+      "word": "麦琳 情绪稳定",
+      "onboard_time": 1734681799,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258056,
       "num": 252100,
       "word": "时代峰峻起诉马嘉祺黑粉",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1734326959,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224082,
-      "num": 206555,
-      "word": "麦琳 情绪稳定",
-      "onboard_time": 1734681799,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 223883,
@@ -7843,6 +7851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194946,
+      "num": 185007,
+      "word": "女子2年被家暴16次求判丈夫死刑",
+      "onboard_time": 1734683057,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194919,
       "num": 308134,
       "word": "和平饭店298元自卑套餐已下架",
@@ -8371,6 +8387,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 188925,
+      "num": 184723,
+      "word": "医院回应医生疑暴露王楚钦病历",
+      "onboard_time": 1734683538,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188716,
       "num": 246100,
       "word": "孟子义哭戏",
@@ -8617,6 +8641,14 @@
       "onboard_time": 1734340638,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184677,
+      "num": 184677,
+      "word": "月亮姐姐才是没放过林栋哲的人",
+      "onboard_time": 1734683599,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 184079,
@@ -9003,6 +9035,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177770,
+      "num": 205797,
+      "word": "孟子义的眼睛会爱人",
+      "onboard_time": 1734682878,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177178,
       "num": 177178,
       "word": "星光大赏星光墙榜单前五",
@@ -9265,6 +9305,14 @@
       "onboard_time": 1734275959,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173385,
+      "num": 188793,
+      "word": "七子之歌",
+      "onboard_time": 1734677298,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172947,
@@ -9547,6 +9595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169074,
+      "num": 169074,
+      "word": "哈尔滨冰雪大世界今天官宣明天就开",
+      "onboard_time": 1734682939,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 169034,
       "num": 210185,
       "word": "考研难还是高考难",
@@ -9617,6 +9673,14 @@
       "onboard_time": 1734502638,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167857,
+      "num": 167857,
+      "word": "张天爱",
+      "onboard_time": 1734683959,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 167843,
@@ -9873,14 +9937,6 @@
       "onboard_time": 1734233839,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 164596,
-      "num": 164596,
-      "word": "哈尔滨冰雪大世界今天官宣明天就开",
-      "onboard_time": 1734682939,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 164529,
@@ -10249,14 +10305,6 @@
       "onboard_time": 1734237979,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 159852,
-      "num": 164853,
-      "word": "七子之歌",
-      "onboard_time": 1734677298,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159736,
@@ -10707,6 +10755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153417,
+      "num": 153417,
+      "word": "包文婧二胎自然怀孕",
+      "onboard_time": 1734683898,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
@@ -10761,6 +10817,14 @@
       "onboard_time": 1734213970,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152825,
+      "num": 152824,
+      "word": "扭曲的饭圈文化侵入竞技体育等领域",
+      "onboard_time": 1734681738,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152803,
@@ -11024,6 +11088,14 @@
       "word": "王楚钦遇到困难会给父母打电话",
       "onboard_time": 1734509781,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149290,
+      "num": 149290,
+      "word": "网传王楚钦被医生暴露心电图等隐私",
+      "onboard_time": 1734683898,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -12635,14 +12707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128651,
-      "num": 128651,
-      "word": "女子2年被家暴16次求判丈夫死刑",
-      "onboard_time": 1734683057,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128640,
       "num": 181149,
       "word": "张博恒聊和侍聪友情",
@@ -13017,14 +13081,6 @@
       "onboard_time": 1734334399,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 124279,
-      "num": 124279,
-      "word": "扭曲的饭圈文化侵入竞技体育等领域",
-      "onboard_time": 1734681738,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124266,
@@ -14083,14 +14139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111488,
-      "num": 111488,
-      "word": "包文婧晒4月孕肚",
-      "onboard_time": 1734683298,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111314,
       "num": 111314,
       "word": "黄景瑜孙千晒海报",
@@ -14441,14 +14489,6 @@
       "onboard_time": 1734344180,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106273,
-      "num": 205797,
-      "word": "孟子义的眼睛会爱人",
-      "onboard_time": 1734682878,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 106269,
@@ -15571,6 +15611,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 86685,
+      "num": 184945,
+      "word": "恋与深空亮相TF戏瘾之夜",
+      "onboard_time": 1734683959,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86301,
       "num": 134766,
       "word": "郑钦文获WTA最受欢迎奖",
@@ -16467,12 +16515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68701,
+      "num": 185370,
+      "word": "大学宠考研生没有天花板",
+      "onboard_time": 1734683959,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
       "onboard_time": 1734375971,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68556,
+      "num": 152825,
+      "word": "2024LCK年度提名",
+      "onboard_time": 1734683898,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 68419,
@@ -16715,6 +16779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64481,
+      "num": 205797,
+      "word": "能和檀健次对视被逮捕也值了",
+      "onboard_time": 1734682819,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64398,
       "num": 64398,
       "word": "一人一句祝福祖国祝福澳门",
@@ -16745,6 +16817,14 @@
       "onboard_time": 1734417558,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63429,
+      "num": 184786,
+      "word": "潘辰太适合浪姐了",
+      "onboard_time": 1734683599,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 63387,
@@ -16947,6 +17027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60409,
+      "num": 182757,
+      "word": "普京称俄已准备好和西方技术对决",
+      "onboard_time": 1734681138,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60386,
       "num": 60386,
       "word": "李昀锐 笑容逐渐消失",
@@ -17107,6 +17195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56183,
+      "num": 182770,
+      "word": "清密帽妖哄抬房价",
+      "onboard_time": 1734683479,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56145,
       "num": 331853,
       "word": "中国海警回应菲向仁爱礁坐滩军舰运补",
@@ -17161,14 +17257,6 @@
       "onboard_time": 1734524900,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55202,
-      "num": 205797,
-      "word": "能和檀健次对视被逮捕也值了",
-      "onboard_time": 1734682819,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 55182,
@@ -17563,6 +17651,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 49966,
+      "num": 185348,
+      "word": "美联储降息如何影响股市和金价",
+      "onboard_time": 1734683959,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 49848,
       "num": 297234,
       "word": "书店老板说开书店像一个笑话",
@@ -17780,7 +17876,7 @@
     },
     {
       "raw_hot": 47633,
-      "num": 140960,
+      "num": 152949,
       "word": "张馨予原声台词代入感",
       "onboard_time": 1734682638,
       "rank": 35,
@@ -17987,12 +18083,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45405,
+      "num": 185530,
+      "word": "2年被家暴16次刑事案确定开庭",
+      "onboard_time": 1734683358,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45341,
       "num": 364636,
       "word": "家属称他是谁只要在播就是种打击",
       "onboard_time": 1734496221,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45306,
+      "num": 147050,
+      "word": "EDGM挑战者杯淘汰",
+      "onboard_time": 1734682337,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 45159,
@@ -18080,6 +18192,14 @@
       "word": "渭南一男子被压路车碾压致死",
       "onboard_time": 1734502039,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44346,
+      "num": 205796,
+      "word": "德阳一落马局长入股砂石场获利460万",
+      "onboard_time": 1734682219,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -18193,14 +18313,6 @@
       "onboard_time": 1734509180,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42690,
-      "num": 166748,
-      "word": "普京称俄已准备好和西方技术对决",
-      "onboard_time": 1734681138,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42590,
@@ -18449,14 +18561,6 @@
       "onboard_time": 1734348018,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 40054,
-      "num": 205796,
-      "word": "德阳一落马局长入股砂石场获利460万",
-      "onboard_time": 1734682219,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40029,
@@ -19955,6 +20059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23959,
+      "num": 153537,
+      "word": "小伙做黑神话悟空手办惊呆网友",
+      "onboard_time": 1734683418,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23945,
       "num": 182524,
       "word": "曝北约已接管援乌协调工作",
@@ -20651,6 +20763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16054,
+      "num": 134876,
+      "word": "冬至的第一波好运从饺子开始",
+      "onboard_time": 1734681439,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 15981,
       "num": 44112,
       "word": "一定要记住开发横琴的初心",
@@ -20945,14 +21065,6 @@
       "onboard_time": 1734195495,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 13731,
-      "num": 124166,
-      "word": "冬至的第一波好运从饺子开始",
-      "onboard_time": 1734681439,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 13592,
