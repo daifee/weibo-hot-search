@@ -1,0 +1,410 @@
+{
+  "runTime": 1734669668880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9116648,
+        "num": 9116648,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 0,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 1256291,
+        "num": 1256291,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51235,
+        "num": 821458,
+        "word": "庆祝澳门回归25年",
+        "onboard_time": 1734664938,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781838,
+        "num": 781838,
+        "word": "瞒着家人复读一年成功上岸",
+        "onboard_time": 1734661997,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 570040,
+        "num": 570040,
+        "word": "小米YU7路试",
+        "onboard_time": 1734667699,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 540281,
+        "num": 540281,
+        "word": "南部档案开机",
+        "onboard_time": 1734666437,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523030,
+        "num": 523030,
+        "word": "以军被爆在加沙进行杀人比赛",
+        "onboard_time": 1734666918,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489089,
+        "num": 489089,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373683,
+        "num": 488762,
+        "word": "猎罪2借养父之名性侵继女",
+        "onboard_time": 1734668539,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153625,
+        "num": 488223,
+        "word": "普京喊话西方来基辅导弹对决",
+        "onboard_time": 1734664938,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35784,
+        "num": 486780,
+        "word": "张杰满40减20",
+        "onboard_time": 1734665958,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 743161,
+        "num": 485629,
+        "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
+        "onboard_time": 1734665297,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485624,
+        "num": 485624,
+        "word": "小米SU7坠崖一家四口安然无恙",
+        "onboard_time": 1734649815,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402337,
+        "num": 402337,
+        "word": "白鹿杜莎蜡像",
+        "onboard_time": 1734667939,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109794,
+        "num": 379193,
+        "word": "A股",
+        "onboard_time": 1734664758,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 349654,
+        "num": 371189,
+        "word": "倪萍说麦琳幸福得活该",
+        "onboard_time": 1734662119,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369571,
+        "num": 369571,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225671,
+        "num": 349478,
+        "word": "猎罪图鉴2直播",
+        "onboard_time": 1734665838,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347229,
+        "num": 347229,
+        "word": "畸形追星行为或触犯哪些法律",
+        "onboard_time": 1734655999,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69370,
+        "num": 344735,
+        "word": "贾玲VOGUE开年封面",
+        "onboard_time": 1734668959,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 562079,
+        "num": 337321,
+        "word": "年薪50万女士择偶标准百万到千万年薪",
+        "onboard_time": 1734661577,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413001,
+        "num": 334203,
+        "word": "黄圣依杨子彻底分开过",
+        "onboard_time": 1734651196,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54304,
+        "num": 327338,
+        "word": "库里施罗德铁花兄弟",
+        "onboard_time": 1734669502,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223692,
+        "num": 324594,
+        "word": "黄圣依再就业成功麦琳也不远了吧",
+        "onboard_time": 1734669141,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35012,
+        "num": 314862,
+        "word": "小鹿能动口绝不动手",
+        "onboard_time": 1734665958,
+        "rank": 24,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 52322,
+        "num": 310941,
+        "word": "微博音乐演出大赏TOP10",
+        "onboard_time": 1734669622,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58328,
+        "num": 306175,
+        "word": "大学生晚会都吃这么好吗",
+        "onboard_time": 1734669383,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20490,
+        "num": 301792,
+        "word": "一大波韩国游客来张家界跨年",
+        "onboard_time": 1734669201,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89240,
+        "num": 297056,
+        "word": "三观不正是我们对琼瑶剧最大的误解",
+        "onboard_time": 1734668841,
+        "rank": 28,
+        "category": "议题讨论,艺人"
+      },
+      {
+        "raw_hot": 22186,
+        "num": 290579,
+        "word": "那尔那茜打戏镜头感封神",
+        "onboard_time": 1734667458,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372272,
+        "num": 282233,
+        "word": "极越公关负责人被开除",
+        "onboard_time": 1734661879,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281964,
+        "num": 281964,
+        "word": "向佐陪郭碧婷和孩子去迪士尼",
+        "onboard_time": 1734664158,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79632,
+        "num": 273372,
+        "word": "韩东君来澳门算是来对了",
+        "onboard_time": 1734669562,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271594,
+        "num": 271594,
+        "word": "小猫侧睡危害真的很大",
+        "onboard_time": 1734663318,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223532,
+        "num": 223532,
+        "word": "袁记云饺",
+        "onboard_time": 1734668359,
+        "rank": 34,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 217761,
+        "word": "人民币重回全球第四大活跃货币",
+        "onboard_time": 1734665238,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 36318,
+        "num": 211811,
+        "word": "澳门街头都有什么车",
+        "onboard_time": 1734669141,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 84371,
+        "num": 208614,
+        "word": "NMIXX翻唱fx",
+        "onboard_time": 1734668959,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207211,
+        "num": 207211,
+        "word": "小米YU7",
+        "onboard_time": 1734668901,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204913,
+        "num": 204913,
+        "word": "丁禹兮张新成开机同框路透",
+        "onboard_time": 1734669081,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204044,
+        "num": 204044,
+        "word": "小林给我一个橘子",
+        "onboard_time": 1734659237,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 198179,
+        "word": "丁禹兮微博跨年预约破100万",
+        "onboard_time": 1734669020,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46069,
+        "num": 196517,
+        "word": "崔永熙手术成功",
+        "onboard_time": 1734667638,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195927,
+        "num": 195927,
+        "word": "杨妞花外婆一看到两姐妹就哭了",
+        "onboard_time": 1734665898,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191697,
+        "num": 191697,
+        "word": "双非考研985需要多努力",
+        "onboard_time": 1734663498,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24713,
+        "num": 176928,
+        "word": "高定设计师藏在细节里的中式浪漫",
+        "onboard_time": 1734668901,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 174951,
+        "num": 174951,
+        "word": "清明上河图密码",
+        "onboard_time": 1734668599,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "年度报告",
+        "onboard_time": 1734668359,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174015,
+        "num": 174015,
+        "word": "不要让礼貌变成伤害你的刀",
+        "onboard_time": 1734668419,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171994,
+        "num": 171994,
+        "word": "蜀锦人家",
+        "onboard_time": 1734668419,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归祖国25周年大会#"
+    }
+  }
+}

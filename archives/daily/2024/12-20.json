@@ -1,10 +1,10 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734668839457,
+  "endTime": 1734669668880,
   "band_list": [
     {
-      "raw_hot": 2461417,
-      "num": 2461417,
+      "raw_hot": 9116648,
+      "num": 9116648,
       "word": "袁记云饺已被立案调查",
       "onboard_time": 1734667997,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 991848,
-      "num": 322268,
+      "num": 334203,
       "word": "黄圣依杨子彻底分开过",
       "onboard_time": 1734651196,
       "rank": 32,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 839318,
-      "num": 330844,
+      "num": 485629,
       "word": "17岁女孩一天5瓶可乐泡腐15颗牙",
       "onboard_time": 1734665297,
       "rank": 32,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570040,
+      "num": 570040,
+      "word": "小米YU7路试",
+      "onboard_time": 1734667699,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 533333,
       "num": 880402,
       "word": "气象人士呼吁南方人最近别天天洗澡",
@@ -171,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523030,
+      "num": 523030,
+      "word": "以军被爆在加沙进行杀人比赛",
+      "onboard_time": 1734666918,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 501433,
       "num": 501433,
       "word": "此刻的王力宏也是父母的骄傲",
       "onboard_time": 1734655340,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 488006,
-      "num": 488006,
-      "word": "以军被爆在加沙进行杀人比赛",
-      "onboard_time": 1734666918,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 477781,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 432991,
-      "num": 296938,
+      "num": 402337,
       "word": "白鹿杜莎蜡像",
       "onboard_time": 1734667939,
       "rank": 15,
@@ -267,12 +275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377954,
-      "num": 295112,
-      "word": "小米YU7路试",
-      "onboard_time": 1734667699,
-      "rank": 16,
-      "category": "汽车"
+      "raw_hot": 373683,
+      "num": 488762,
+      "word": "猎罪2借养父之名性侵继女",
+      "onboard_time": 1734668539,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 369571,
+      "num": 369571,
+      "word": "19991220零时零分零秒",
+      "onboard_time": 1734627135,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 359934,
@@ -291,20 +307,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347229,
+      "num": 347229,
+      "word": "畸形追星行为或触犯哪些法律",
+      "onboard_time": 1734655999,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335000,
       "num": 335000,
       "word": "朋友婚后3年返还2000元结婚礼金",
       "onboard_time": 1734622820,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333772,
-      "num": 333772,
-      "word": "19991220零时零分零秒",
-      "onboard_time": 1734627135,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 320494,
@@ -352,14 +368,6 @@
       "word": "95后女子鼻塞2个月一查竟是癌",
       "onboard_time": 1734652218,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283777,
-      "num": 283777,
-      "word": "畸形追星行为或触犯哪些法律",
-      "onboard_time": 1734655999,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 223692,
+      "num": 324594,
+      "word": "黄圣依再就业成功麦琳也不远了吧",
+      "onboard_time": 1734669141,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222489,
       "num": 281147,
       "word": "一路繁花全员花塑官宣",
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217761,
+      "num": 664068,
+      "word": "人民币重回全球第四大活跃货币",
+      "onboard_time": 1734665238,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "LPR",
@@ -467,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207211,
+      "num": 207211,
+      "word": "小米YU7",
+      "onboard_time": 1734668901,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 206643,
       "num": 273832,
       "word": "澳门特别行政区第六届政府就职典礼",
@@ -481,6 +513,14 @@
       "onboard_time": 1734661457,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204913,
+      "num": 204913,
+      "word": "丁禹兮张新成开机同框路透",
+      "onboard_time": 1734669081,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 203089,
@@ -539,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195927,
+      "num": 603191,
+      "word": "杨妞花外婆一看到两姐妹就哭了",
+      "onboard_time": 1734665898,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193319,
       "num": 222061,
       "word": "今天再唱刻在DNA里的中国人",
       "onboard_time": 1734663077,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 193057,
-      "num": 279804,
-      "word": "猎罪2借养父之名性侵继女",
-      "onboard_time": 1734668539,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 190692,
@@ -564,7 +604,7 @@
     },
     {
       "raw_hot": 190249,
-      "num": 300722,
+      "num": 488223,
       "word": "普京喊话西方来基辅导弹对决",
       "onboard_time": 1734664938,
       "rank": 17,
@@ -595,14 +635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181557,
-      "num": 664068,
-      "word": "人民币重回全球第四大活跃货币",
-      "onboard_time": 1734665238,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 180747,
       "num": 282024,
       "word": "当事人回应开跑车进学校玩漂移",
@@ -617,6 +649,14 @@
       "onboard_time": 1734662596,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174951,
+      "num": 174951,
+      "word": "清明上河图密码",
+      "onboard_time": 1734668599,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 174530,
@@ -665,14 +705,6 @@
       "onboard_time": 1734663378,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168678,
-      "num": 603191,
-      "word": "杨妞花外婆一看到两姐妹就哭了",
-      "onboard_time": 1734665898,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166046,
@@ -777,14 +809,6 @@
       "onboard_time": 1734662718,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149398,
-      "num": 149398,
-      "word": "清明上河图密码",
-      "onboard_time": 1734668599,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 148786,
@@ -995,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116237,
+      "num": 198179,
+      "word": "丁禹兮微博跨年预约破100万",
+      "onboard_time": 1734669020,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115857,
       "num": 115857,
       "word": "现在考研人都在干什么",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1734664520,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109794,
+      "num": 576931,
+      "word": "A股",
+      "onboard_time": 1734664758,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 109621,
@@ -1107,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89240,
+      "num": 297056,
+      "word": "三观不正是我们对琼瑶剧最大的误解",
+      "onboard_time": 1734668841,
+      "rank": 28,
+      "category": "议题讨论,艺人"
+    },
+    {
       "raw_hot": 86772,
       "num": 86772,
       "word": "男子开跑车进高校玩漂移压坏草坪",
@@ -1131,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84371,
+      "num": 208614,
+      "word": "NMIXX翻唱fx",
+      "onboard_time": 1734668959,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 83680,
       "num": 93048,
       "word": "这届年轻人把家政业干出了花",
@@ -1139,20 +1195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79632,
+      "num": 273372,
+      "word": "韩东君来澳门算是来对了",
+      "onboard_time": 1734669562,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79528,
       "num": 79528,
       "word": "刘昊然王宝强都营业了",
       "onboard_time": 1734618560,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79004,
-      "num": 576931,
-      "word": "A股",
-      "onboard_time": 1734664758,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 78379,
@@ -1219,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69370,
+      "num": 344735,
+      "word": "贾玲VOGUE开年封面",
+      "onboard_time": 1734668959,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 68566,
       "num": 68566,
       "word": "跳社会摇10天瘦9斤",
@@ -1257,6 +1321,14 @@
       "onboard_time": 1734624977,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58328,
+      "num": 306175,
+      "word": "大学生晚会都吃这么好吗",
+      "onboard_time": 1734669383,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 57855,
@@ -1299,12 +1371,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54304,
+      "num": 327338,
+      "word": "库里施罗德铁花兄弟",
+      "onboard_time": 1734669502,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54194,
       "num": 279428,
       "word": "世界之外一番赏",
       "onboard_time": 1734665657,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52322,
+      "num": 310941,
+      "word": "微博音乐演出大赏TOP10",
+      "onboard_time": 1734669622,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 51988,
@@ -1339,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46069,
+      "num": 196517,
+      "word": "崔永熙手术成功",
+      "onboard_time": 1734667638,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45376,
       "num": 60935,
       "word": "丁禹兮说体验过灰姑娘",
@@ -1356,7 +1452,7 @@
     },
     {
       "raw_hot": 42389,
-      "num": 273272,
+      "num": 314862,
       "word": "小鹿能动口绝不动手",
       "onboard_time": 1734665958,
       "rank": 46,
@@ -1380,7 +1476,7 @@
     },
     {
       "raw_hot": 40082,
-      "num": 316644,
+      "num": 486780,
       "word": "张杰满40减20",
       "onboard_time": 1734665958,
       "rank": 47,
@@ -1425,6 +1521,14 @@
       "onboard_time": 1734650896,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36318,
+      "num": 211811,
+      "word": "澳门街头都有什么车",
+      "onboard_time": 1734669141,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 36074,
@@ -1475,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24713,
+      "num": 176928,
+      "word": "高定设计师藏在细节里的中式浪漫",
+      "onboard_time": 1734668901,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 24378,
       "num": 81369,
       "word": "报告称今年新股民中95后00后占比超6成",
@@ -1491,12 +1603,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20774,
-      "num": 271138,
+      "raw_hot": 22186,
+      "num": 290579,
       "word": "那尔那茜打戏镜头感封神",
       "onboard_time": 1734667458,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20490,
+      "num": 301792,
+      "word": "一大波韩国游客来张家界跨年",
+      "onboard_time": 1734669201,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19855,
@@ -1612,6 +1732,9 @@
     },
     {
       "word": "#习近平澳门行#"
+    },
+    {
+      "word": "#庆祝澳门回归祖国25周年大会#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1734668839457,
+  "endTime": 1734669668880,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1915,6 +1915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 9116648,
+      "num": 9116648,
+      "word": "袁记云饺已被立案调查",
+      "onboard_time": 1734667997,
+      "rank": 0,
+      "category": "舆论监督,美食"
+    },
+    {
       "raw_hot": 9102725,
       "num": 9102725,
       "word": "0713圆梦了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1709007695,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8087798,
-      "num": 8497206,
-      "word": "马龙王楚钦3比0印度组合",
-      "onboard_time": 1722933093,
-      "rank": 6,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
