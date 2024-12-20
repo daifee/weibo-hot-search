@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734733261073,
+  "endTime": 1734734305255,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151032,
+      "num": 452099,
+      "word": "女子称住酒店凌晨一陌生男子站床前",
+      "onboard_time": 1734709580,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150076,
       "num": 254173,
       "word": "潜逃前山西首富在英购买大量房产",
@@ -195,14 +203,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 143797,
-      "num": 143797,
-      "word": "女子称住酒店凌晨一陌生男子站床前",
-      "onboard_time": 1734709580,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143461,
       "num": 143461,
       "word": "冬至 破镜重圆",
@@ -217,6 +217,14 @@
       "onboard_time": 1734710540,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137507,
+      "num": 92870,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128652,
@@ -313,14 +321,6 @@
       "onboard_time": 1734705380,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103582,
-      "num": 92870,
-      "word": "男子离世房产留给妻儿未分9旬母亲",
-      "onboard_time": 1734711617,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98643,
@@ -427,20 +427,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56253,
+      "num": 64317,
+      "word": "银行姑娘和老人唠嗑后悄悄报警",
+      "onboard_time": 1734726251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53122,
       "num": 53122,
       "word": "北方人对饺子到底有多少执念",
       "onboard_time": 1734716593,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 48701,
-      "num": 64317,
-      "word": "银行姑娘和老人唠嗑后悄悄报警",
-      "onboard_time": 1734726251,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48596,
@@ -483,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36354,
+      "num": 63459,
+      "word": "马英九强调两岸要共同铭记抗战历史",
+      "onboard_time": 1734730631,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34506,
       "num": 34506,
       "word": "向佐晒一家四口照片称一生最爱",
       "onboard_time": 1734716833,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32096,
+      "num": 55921,
+      "word": "肥妈45岁才能说自己是中国人",
+      "onboard_time": 1734728951,
+      "rank": 44,
+      "category": "综艺,国内时政"
     },
     {
       "raw_hot": 28943,
@@ -523,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27183,
-      "num": 28498,
-      "word": "肥妈45岁才能说自己是中国人",
-      "onboard_time": 1734728951,
-      "rank": 44,
-      "category": "综艺,国内时政"
-    },
-    {
       "raw_hot": 27133,
       "num": 27133,
       "word": "老人被骗交1.68万卖古董能得168万",
@@ -539,7 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26119,
+      "raw_hot": 26327,
       "num": 42549,
       "word": "乌克兰基辅传出密集爆炸声",
       "onboard_time": 1734720731,
@@ -571,14 +579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 24097,
-      "num": 63459,
-      "word": "马英九强调两岸要共同铭记抗战历史",
-      "onboard_time": 1734730631,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22446,
       "num": 22446,
       "word": "于适杭盖乐队改编时来运转",
@@ -593,6 +593,14 @@
       "onboard_time": 1734719233,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22279,
+      "num": 30836,
+      "word": "外交部驳斥个别西方媒体造谣新疆辣椒",
+      "onboard_time": 1734730330,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21760,
@@ -611,11 +619,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20480,
-      "num": 30836,
-      "word": "外交部驳斥个别西方媒体造谣新疆辣椒",
-      "onboard_time": 1734730330,
-      "rank": 14,
+      "raw_hot": 19887,
+      "num": 58531,
+      "word": "普京直播连线收到250万个提问",
+      "onboard_time": 1734732132,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -627,7 +635,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15860,
+      "raw_hot": 16672,
       "num": 41993,
       "word": "新疆种辣椒机械化美国还造谣强迫劳动",
       "onboard_time": 1734725532,
@@ -643,20 +651,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14826,
-      "num": 17775,
-      "word": "普京直播连线收到250万个提问",
-      "onboard_time": 1734732132,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13682,
       "num": 108094,
       "word": "DRG晋级挑杯淘汰赛",
       "onboard_time": 1734714375,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 13070,
+      "num": 34577,
+      "word": "想去尔滨的心情达到顶峰",
+      "onboard_time": 1734734232,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 11078,
