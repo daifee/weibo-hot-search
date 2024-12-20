@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734677057544,
+  "endTime": 1734679284100,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 401124,
+      "num": 329511,
+      "word": "民警突袭菜市场5分钟偷走数个手机",
+      "onboard_time": 1734673940,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397519,
       "num": 397519,
       "word": "五星红旗与澳门区旗一同升起",
@@ -337,6 +345,14 @@
       "onboard_time": 1734673399,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372746,
+      "num": 252764,
+      "word": "路人偶遇张馨予老公",
+      "onboard_time": 1734676338,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 369571,
@@ -400,14 +416,6 @@
       "word": "朋友婚后3年返还2000元结婚礼金",
       "onboard_time": 1734622820,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 329511,
-      "num": 329511,
-      "word": "民警突袭菜市场5分钟偷走数个手机",
-      "onboard_time": 1734673940,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -491,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270460,
+      "num": 270460,
+      "word": "喻言跳虞书欣spicyhoney",
+      "onboard_time": 1734677059,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 269656,
+      "num": 211719,
+      "word": "李若彤 我还有1年12天免费坐公交",
+      "onboard_time": 1734678257,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268120,
       "num": 319085,
       "word": "贾玲 我没有变",
@@ -512,14 +536,6 @@
       "word": "韩恩静写给中恩静的一封信",
       "onboard_time": 1734672140,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252764,
-      "num": 252764,
-      "word": "路人偶遇张馨予老公",
-      "onboard_time": 1734676338,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -553,6 +569,14 @@
       "onboard_time": 1734620360,
       "rank": 27,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 231272,
+      "num": 231272,
+      "word": "祝绪丹杨仕泽cha虞书欣新歌了",
+      "onboard_time": 1734677419,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 227732,
@@ -603,6 +627,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 210175,
+      "num": 210175,
+      "word": "李惠利赵美延日本同游",
+      "onboard_time": 1734675679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "LPR",
@@ -641,6 +673,14 @@
       "onboard_time": 1734664458,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 206389,
+      "num": 233248,
+      "word": "喜茶袁记云饺被责令改正",
+      "onboard_time": 1734677059,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205756,
@@ -787,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187309,
+      "num": 168758,
+      "word": "网传一事业单位有249人报考去掏粪",
+      "onboard_time": 1734678618,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 185033,
       "num": 257661,
       "word": "于适谈从演员到运动员的跨界突破",
@@ -819,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181964,
+      "num": 181964,
+      "word": "预制爆剧",
+      "onboard_time": 1734678739,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180747,
       "num": 282024,
       "word": "当事人回应开跑车进学校玩漂移",
@@ -841,6 +897,14 @@
       "onboard_time": 1734668599,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174936,
+      "num": 221440,
+      "word": "七子之歌刻在了中国人DNA里",
+      "onboard_time": 1734677240,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174530,
@@ -907,12 +971,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169660,
+      "num": 169660,
+      "word": "孟子义每天给徐志胜安利九重紫",
+      "onboard_time": 1734677120,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166046,
       "num": 166046,
       "word": "上海体育局发声",
       "onboard_time": 1734621979,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166031,
+      "num": 166031,
+      "word": "大学生作业里充满了AI味",
+      "onboard_time": 1734674720,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 165970,
@@ -971,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "七子之歌",
+      "onboard_time": 1734677298,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157933,
       "num": 157933,
       "word": "灰熊把勇士打花了",
@@ -993,6 +1081,14 @@
       "onboard_time": 1734675919,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155994,
+      "num": 208576,
+      "word": "武汉地铁偶遇王珞丹",
+      "onboard_time": 1734678918,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 155427,
@@ -1075,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144868,
+      "num": 144868,
+      "word": "猎罪图鉴2豆瓣评分没1高",
+      "onboard_time": 1734679039,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144481,
       "num": 222953,
       "word": "李俊昊被国税厅税务调查",
@@ -1132,7 +1236,7 @@
     },
     {
       "raw_hot": 139596,
-      "num": 139596,
+      "num": 198229,
       "word": "WTT年度球员总结",
       "onboard_time": 1734671541,
       "rank": 42,
@@ -1153,6 +1257,22 @@
       "onboard_time": 1734618319,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135032,
+      "num": 135032,
+      "word": "檀健次下意识说爱沈翊爱杜城",
+      "onboard_time": 1734678979,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134661,
+      "num": 131743,
+      "word": "猎罪图鉴2一集6条命",
+      "onboard_time": 1734679159,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134017,
@@ -1187,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131935,
+      "num": 131935,
+      "word": "一个爱吃袁记云饺的人天塌了",
+      "onboard_time": 1734677120,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 131723,
       "num": 131723,
       "word": "猎罪图鉴2闵雪案疑点重重",
@@ -1201,14 +1329,6 @@
       "onboard_time": 1734658158,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "大学生作业里充满了AI味",
-      "onboard_time": 1734674720,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 131166,
@@ -1411,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110350,
+      "num": 203486,
+      "word": "审判留几手",
+      "onboard_time": 1734678679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109794,
       "num": 576931,
       "word": "A股",
@@ -1433,6 +1561,14 @@
       "onboard_time": 1734657019,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108726,
+      "num": 206956,
+      "word": "男生备战考研半年用了近50根笔芯",
+      "onboard_time": 1734678138,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 107935,
@@ -1520,6 +1656,14 @@
       "word": "公厕用凹凸分辨男女",
       "onboard_time": 1734604098,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93093,
+      "num": 169818,
+      "word": "天津一事业单位招本科生参与掏粪",
+      "onboard_time": 1734677600,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1787,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57937,
+      "num": 228375,
+      "word": "乌克兰首都基辅传出密集爆炸声",
+      "onboard_time": 1734678138,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57855,
       "num": 88443,
       "word": "这首我爱你中国是我们共同的表白",
@@ -1939,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42871,
+      "num": 127859,
+      "word": "檀健次进阶版自己吓自己",
+      "onboard_time": 1734677660,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42389,
       "num": 314862,
       "word": "小鹿能动口绝不动手",
@@ -2043,6 +2203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 32189,
+      "num": 170514,
+      "word": "人民网评雄狮少年2",
+      "onboard_time": 1734678079,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28993,
       "num": 86368,
       "word": "专家称物业费税费也应按套内面积算",
@@ -2057,6 +2225,14 @@
       "onboard_time": 1734629414,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28089,
+      "num": 215819,
+      "word": "又到了止不住咳嗽的季节",
+      "onboard_time": 1734678019,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27351,
@@ -2099,6 +2275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23278,
+      "num": 205897,
+      "word": "檀健次说要把自己雕琢成更好的人",
+      "onboard_time": 1734678079,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22252,
       "num": 190245,
       "word": "高校合唱团用歌声为考研学子加油",
@@ -2113,6 +2297,14 @@
       "onboard_time": 1734667458,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21765,
+      "num": 132790,
+      "word": "近一半高血压患者不知道自己患病",
+      "onboard_time": 1734676099,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 20490,
@@ -2153,6 +2345,14 @@
       "onboard_time": 1734649635,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16146,
+      "num": 127811,
+      "word": "龙眼奶咖",
+      "onboard_time": 1734677660,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 16102,
@@ -2233,14 +2433,6 @@
       "onboard_time": 1734639970,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9713,
-      "num": 132790,
-      "word": "近一半高血压患者不知道自己患病",
-      "onboard_time": 1734676099,
-      "rank": 43,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

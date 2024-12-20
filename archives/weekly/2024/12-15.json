@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734677057544,
+  "endTime": 1734679284100,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -3771,6 +3771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 401124,
+      "num": 329511,
+      "word": "民警突袭菜市场5分钟偷走数个手机",
+      "onboard_time": 1734673940,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400828,
       "num": 400828,
       "word": "百万新车被剐蹭车主仅让对方擦一下",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1734448400,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372746,
+      "num": 252764,
+      "word": "路人偶遇张馨予老公",
+      "onboard_time": 1734676338,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 370981,
@@ -4521,14 +4537,6 @@
       "onboard_time": 1734575838,
       "rank": 10,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 329511,
-      "num": 329511,
-      "word": "民警突袭菜市场5分钟偷走数个手机",
-      "onboard_time": 1734673940,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327944,
@@ -5379,12 +5387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270460,
+      "num": 270460,
+      "word": "喻言跳虞书欣spicyhoney",
+      "onboard_time": 1734677059,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 270254,
       "num": 270254,
       "word": "田曦薇方称逐玉绝对平番",
       "onboard_time": 1734396079,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269656,
+      "num": 211719,
+      "word": "李若彤 我还有1年12天免费坐公交",
+      "onboard_time": 1734678257,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 269317,
@@ -5640,14 +5664,6 @@
       "word": "被林更新烫到了",
       "onboard_time": 1734420500,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252764,
-      "num": 252764,
-      "word": "路人偶遇张馨予老公",
-      "onboard_time": 1734676338,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -6033,6 +6049,14 @@
       "onboard_time": 1734520398,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231272,
+      "num": 231272,
+      "word": "祝绪丹杨仕泽cha虞书欣新歌了",
+      "onboard_time": 1734677419,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 231012,
@@ -6723,6 +6747,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210175,
+      "num": 210175,
+      "word": "李惠利赵美延日本同游",
+      "onboard_time": 1734675679,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210021,
       "num": 210021,
       "word": "设置学霸就餐区中学已整改取消",
@@ -6881,6 +6913,14 @@
       "onboard_time": 1734359181,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206389,
+      "num": 233248,
+      "word": "喜茶袁记云饺被责令改正",
+      "onboard_time": 1734677059,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206199,
@@ -8331,6 +8371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187309,
+      "num": 168758,
+      "word": "网传一事业单位有249人报考去掏粪",
+      "onboard_time": 1734678618,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "虞书欣漫游阿布扎比",
@@ -8601,6 +8649,14 @@
       "onboard_time": 1734624800,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181964,
+      "num": 181964,
+      "word": "预制爆剧",
+      "onboard_time": 1734678739,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 181902,
@@ -9019,6 +9075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174936,
+      "num": 221440,
+      "word": "七子之歌刻在了中国人DNA里",
+      "onboard_time": 1734677240,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174790,
       "num": 174790,
       "word": "清华毕业博士县长用四国语言致辞",
@@ -9347,6 +9411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169660,
+      "num": 169660,
+      "word": "孟子义每天给徐志胜安利九重紫",
+      "onboard_time": 1734677120,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169653,
       "num": 169653,
       "word": "周杰伦演唱会三亚三场连开",
@@ -9577,6 +9649,14 @@
       "onboard_time": 1734519801,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166031,
+      "num": 166031,
+      "word": "大学生作业里充满了AI味",
+      "onboard_time": 1734674720,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 165978,
@@ -10075,6 +10155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "七子之歌",
+      "onboard_time": 1734677298,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159736,
       "num": 159736,
       "word": "7种食物要焯水后再吃",
@@ -10344,6 +10432,14 @@
       "word": "爱上始祖鸟完全是因为文淇",
       "onboard_time": 1734611777,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155994,
+      "num": 208576,
+      "word": "武汉地铁偶遇王珞丹",
+      "onboard_time": 1734678918,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -11091,6 +11187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 144868,
+      "num": 144868,
+      "word": "猎罪图鉴2豆瓣评分没1高",
+      "onboard_time": 1734679039,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144791,
       "num": 144791,
       "word": "NewJeans魔法少女",
@@ -11500,7 +11604,7 @@
     },
     {
       "raw_hot": 139596,
-      "num": 139596,
+      "num": 198229,
       "word": "WTT年度球员总结",
       "onboard_time": 1734671541,
       "rank": 42,
@@ -11787,6 +11891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135032,
+      "num": 135032,
+      "word": "檀健次下意识说爱沈翊爱杜城",
+      "onboard_time": 1734678979,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134953,
       "num": 134953,
       "word": "时代姐妹花 今夕何夕",
@@ -11817,6 +11929,14 @@
       "onboard_time": 1734581239,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134661,
+      "num": 131743,
+      "word": "猎罪图鉴2一集6条命",
+      "onboard_time": 1734679159,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134644,
@@ -12131,6 +12251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131935,
+      "num": 131935,
+      "word": "一个爱吃袁记云饺的人天塌了",
+      "onboard_time": 1734677120,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 131916,
       "num": 131916,
       "word": "无论幼女是否同意均构成强奸罪",
@@ -12177,14 +12305,6 @@
       "onboard_time": 1734514639,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "大学生作业里充满了AI味",
-      "onboard_time": 1734674720,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 131340,
@@ -13899,6 +14019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110350,
+      "num": 203486,
+      "word": "审判留几手",
+      "onboard_time": 1734678679,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110113,
       "num": 110113,
       "word": "孟子义李昀锐九重紫吻戏花絮",
@@ -13961,6 +14089,14 @@
       "onboard_time": 1734657019,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108726,
+      "num": 206956,
+      "word": "男生备战考研半年用了近50根笔芯",
+      "onboard_time": 1734678138,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 108500,
@@ -14873,6 +15009,14 @@
       "onboard_time": 1734516439,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93093,
+      "num": 169818,
+      "word": "天津一事业单位招本科生参与掏粪",
+      "onboard_time": 1734677600,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93054,
@@ -16707,6 +16851,14 @@
       "category": "体育,电竞"
     },
     {
+      "raw_hot": 57937,
+      "num": 228375,
+      "word": "乌克兰首都基辅传出密集爆炸声",
+      "onboard_time": 1734678138,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57855,
       "num": 88443,
       "word": "这首我爱你中国是我们共同的表白",
@@ -17827,6 +17979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42871,
+      "num": 127859,
+      "word": "檀健次进阶版自己吓自己",
+      "onboard_time": 1734677660,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42767,
       "num": 286206,
       "word": "杨妞花称希望是最后一次面对余华英",
@@ -18787,6 +18947,14 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 32189,
+      "num": 170514,
+      "word": "人民网评雄狮少年2",
+      "onboard_time": 1734678079,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32124,
       "num": 338447,
       "word": "人工耳蜗集采降至单套5万元左右",
@@ -19203,6 +19371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28089,
+      "num": 215819,
+      "word": "又到了止不住咳嗽的季节",
+      "onboard_time": 1734678019,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28016,
       "num": 294912,
       "word": "卖蟑螂药",
@@ -19611,6 +19787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23278,
+      "num": 205897,
+      "word": "檀健次说要把自己雕琢成更好的人",
+      "onboard_time": 1734678079,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23155,
       "num": 75993,
       "word": "慈善配捐外衣下的庞氏骗局",
@@ -19729,6 +19913,14 @@
       "onboard_time": 1734432139,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21765,
+      "num": 132790,
+      "word": "近一半高血压患者不知道自己患病",
+      "onboard_time": 1734676099,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21714,
@@ -20209,6 +20401,14 @@
       "onboard_time": 1734355041,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 16146,
+      "num": 127811,
+      "word": "龙眼奶咖",
+      "onboard_time": 1734677660,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 16102,
@@ -20841,14 +21041,6 @@
       "onboard_time": 1734370215,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9713,
-      "num": 132790,
-      "word": "近一半高血压患者不知道自己患病",
-      "onboard_time": 1734676099,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 9682,
