@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734698524165,
+  "endTime": 1734699469503,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -273,6 +273,14 @@
       "onboard_time": 1734611418,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1641372,
+      "num": 301593,
+      "word": "留几手疑似骗婚",
+      "onboard_time": 1734697758,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1610520,
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 1061436,
-      "num": 705836,
+      "num": 855328,
       "word": "田曦薇穿紫色裙子为王鹤棣庆生",
       "onboard_time": 1734697519,
       "rank": 3,
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 988126,
+      "num": 988126,
+      "word": "于适骑射比赛输给殷世航",
+      "onboard_time": 1734696918,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 987613,
       "num": 1158018,
       "word": "王楚钦疑似身体不适",
@@ -1057,14 +1073,6 @@
       "onboard_time": 1734329720,
       "rank": 4,
       "category": "网红"
-    },
-    {
-      "raw_hot": 956619,
-      "num": 279558,
-      "word": "留几手疑似骗婚",
-      "onboard_time": 1734697758,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 953963,
@@ -1537,14 +1545,6 @@
       "onboard_time": 1734265219,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 794798,
-      "num": 335815,
-      "word": "于适骑射比赛输给殷世航",
-      "onboard_time": 1734696918,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 794291,
@@ -4036,7 +4036,7 @@
     },
     {
       "raw_hot": 391449,
-      "num": 291749,
+      "num": 298453,
       "word": "孔雪儿九重紫新婚夜被家暴",
       "onboard_time": 1734693678,
       "rank": 17,
@@ -4475,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352564,
+      "num": 352564,
+      "word": "百兽 我不配做职业选手",
+      "onboard_time": 1734695537,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 352330,
       "num": 316716,
       "word": "俄罗斯小伙说我们根本不吃牛筋肠",
@@ -4683,14 +4691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 338271,
-      "num": 338271,
-      "word": "百兽 我不配做职业选手",
-      "onboard_time": 1734695537,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 337993,
       "num": 337993,
       "word": "大奉打更人千朵桃花一世开 对打",
@@ -4761,6 +4761,14 @@
       "onboard_time": 1734575838,
       "rank": 10,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 328272,
+      "num": 328272,
+      "word": "原神",
+      "onboard_time": 1734497962,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 327944,
@@ -5067,6 +5075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310964,
+      "num": 310964,
+      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+      "onboard_time": 1734690679,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310693,
       "num": 310693,
       "word": "猎罪图鉴2一集6条命",
@@ -5235,14 +5251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294624,
-      "num": 294624,
-      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
-      "onboard_time": 1734690679,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294392,
       "num": 294392,
       "word": "袁记云饺全国门店超4000家",
@@ -5343,6 +5351,14 @@
       "num": 288468,
       "word": "迪丽热巴周一放饭了",
       "onboard_time": 1734326719,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287564,
+      "num": 287564,
+      "word": "黄圣依最强大脑路透 高知感",
+      "onboard_time": 1734698658,
       "rank": 13,
       "category": "综艺"
     },
@@ -5915,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254907,
+      "num": 280248,
+      "word": "哈尔滨冰雪大世界滑梯一看一个不吱声",
+      "onboard_time": 1734694578,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254235,
       "num": 272396,
       "word": "芒果跨年真是群像的神",
@@ -6123,14 +6147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244695,
-      "num": 244695,
-      "word": "原神",
-      "onboard_time": 1734497962,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244147,
       "num": 244147,
       "word": "林墨 怎么能把现代装焊在脸上",
@@ -6184,6 +6200,14 @@
       "word": "杨洋活动直拍",
       "onboard_time": 1734433400,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 240935,
+      "num": 240935,
+      "word": "王鹤棣直播",
+      "onboard_time": 1734697158,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -6361,14 +6385,6 @@
       "onboard_time": 1734520398,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 231417,
-      "num": 231417,
-      "word": "王鹤棣直播",
-      "onboard_time": 1734697158,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 231272,
@@ -6673,6 +6689,14 @@
       "onboard_time": 1734317057,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 222087,
+      "num": 247731,
+      "word": "蔡明 黄圣依一点心眼都没有",
+      "onboard_time": 1734696078,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 221743,
@@ -7611,6 +7635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202939,
+      "num": 202939,
+      "word": "冬至 破镜重圆",
+      "onboard_time": 1734698239,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202502,
       "num": 330871,
       "word": "夏之光说九重紫演爽了",
@@ -8315,6 +8347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193281,
+      "num": 193281,
+      "word": "张元英MC登场",
+      "onboard_time": 1734697939,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193274,
       "num": 193274,
       "word": "打拐是全社会共同的责任",
@@ -8497,6 +8537,14 @@
       "onboard_time": 1734231678,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191087,
+      "num": 263233,
+      "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
+      "onboard_time": 1734693197,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190948,
@@ -9145,14 +9193,6 @@
       "onboard_time": 1734346701,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 181387,
-      "num": 280248,
-      "word": "哈尔滨冰雪大世界滑梯一看一个不吱声",
-      "onboard_time": 1734694578,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181375,
@@ -10043,6 +10083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168254,
+      "num": 168254,
+      "word": "张杰电影",
+      "onboard_time": 1734699199,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168146,
       "num": 168146,
       "word": "为护女性遭邻居捅伤19岁小伙现状",
@@ -10731,14 +10779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159220,
-      "num": 159220,
-      "word": "张元英MC登场",
-      "onboard_time": 1734697939,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 159164,
       "num": 159164,
       "word": "春节档",
@@ -10817,6 +10857,14 @@
       "onboard_time": 1734426200,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158439,
+      "num": 158439,
+      "word": "冬至男女主一见面就出事",
+      "onboard_time": 1734698778,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 158395,
@@ -11331,6 +11379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 151784,
+      "num": 202982,
+      "word": "TTG对战AG",
+      "onboard_time": 1734698838,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151663,
       "num": 217113,
       "word": "黑神话获Steam大奖3项提名",
@@ -11699,14 +11755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147306,
-      "num": 247731,
-      "word": "蔡明 黄圣依一点心眼都没有",
-      "onboard_time": 1734696078,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147281,
       "num": 147281,
       "word": "张真源EP",
@@ -11801,14 +11849,6 @@
       "onboard_time": 1734427219,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145372,
-      "num": 145372,
-      "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
-      "onboard_time": 1734693197,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145146,
@@ -12267,6 +12307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 139035,
+      "num": 139035,
+      "word": "原神 胡桃",
+      "onboard_time": 1734699080,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138972,
       "num": 247557,
       "word": "杜城摘下工牌救沈翊",
@@ -12539,6 +12587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134914,
+      "num": 134914,
+      "word": "KBS歌谣大祝祭舞台",
+      "onboard_time": 1734699378,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134900,
       "num": 340600,
       "word": "郭艾伦丁彦雨航单挑",
@@ -12737,14 +12793,6 @@
       "onboard_time": 1734588619,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133440,
-      "num": 133440,
-      "word": "冬至 破镜重圆",
-      "onboard_time": 1734698239,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 133364,
@@ -12969,6 +13017,14 @@
       "onboard_time": 1734343641,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131317,
+      "num": 131317,
+      "word": "何炅 希望观众可以多多包容新玩家",
+      "onboard_time": 1734699439,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 131235,
@@ -15545,6 +15601,14 @@
       "onboard_time": 1734309859,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98396,
+      "num": 233674,
+      "word": "刘星鼠标假扮情侣 李行亮麦琳",
+      "onboard_time": 1734698958,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 98388,
@@ -18715,6 +18779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46567,
+      "num": 156164,
+      "word": "圣诞穿搭",
+      "onboard_time": 1734699080,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 46208,
       "num": 236186,
       "word": "澳门一场话剧能说3种语言",
@@ -19675,6 +19747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 35547,
+      "num": 231425,
+      "word": "男子不赡养父母被法院判决返还遗产",
+      "onboard_time": 1734697638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35393,
       "num": 125529,
       "word": "香葱腊肉拿铁",
@@ -19889,6 +19969,14 @@
       "onboard_time": 1734534561,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33905,
+      "num": 203672,
+      "word": "特朗普上任后对人民币汇率影响几何",
+      "onboard_time": 1734697818,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 33904,
@@ -20315,14 +20403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29699,
-      "num": 231425,
-      "word": "男子不赡养父母被法院判决返还遗产",
-      "onboard_time": 1734697638,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29482,
       "num": 166423,
       "word": "离开一段不满意的关系有多难",
@@ -20587,6 +20667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27010,
+      "num": 214109,
+      "word": "杨紫维权案进展",
+      "onboard_time": 1734695058,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26937,
       "num": 246049,
       "word": "村庄回应围村收费流程无问题",
@@ -20723,6 +20811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25591,
+      "num": 149370,
+      "word": "孙千回复黄景瑜",
+      "onboard_time": 1734698958,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25574,
       "num": 25574,
       "word": "集卡去微博之夜现场",
@@ -20731,12 +20827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25508,
-      "num": 206037,
-      "word": "杨紫维权案进展",
-      "onboard_time": 1734695058,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 25505,
+      "num": 204195,
+      "word": "专家谈野猪是否真已到泛滥地步",
+      "onboard_time": 1734697638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25232,
@@ -20849,14 +20945,6 @@
       "onboard_time": 1734434059,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 24021,
-      "num": 203672,
-      "word": "特朗普上任后对人民币汇率影响几何",
-      "onboard_time": 1734697818,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 24009,
@@ -21505,14 +21593,6 @@
       "onboard_time": 1734354981,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 16925,
-      "num": 204195,
-      "word": "专家谈野猪是否真已到泛滥地步",
-      "onboard_time": 1734697638,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16839,
@@ -22345,6 +22425,14 @@
       "onboard_time": 1734604458,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7189,
+      "num": 145101,
+      "word": "2024新浪新闻年终策划",
+      "onboard_time": 1734699378,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 7162,
