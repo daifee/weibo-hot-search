@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734693524759,
+  "endTime": 1734694548632,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -43,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1274873,
+      "num": 1274873,
+      "word": "女子定宝马车称8年忘了提",
+      "onboard_time": 1734691579,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1208601,
       "num": 1208601,
       "word": "网传王楚钦被医生暴露心电图等隐私",
       "onboard_time": 1734683898,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1097235,
+      "num": 1097235,
+      "word": "爱情公寓5拍早了",
+      "onboard_time": 1734691938,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1079910,
@@ -65,14 +81,6 @@
       "onboard_time": 1734661997,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1028138,
-      "num": 1164502,
-      "word": "女子定宝马车称8年忘了提",
-      "onboard_time": 1734691579,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1018371,
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 627404,
-      "num": 627404,
-      "word": "爱情公寓5拍早了",
-      "onboard_time": 1734691938,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 605644,
       "num": 605644,
       "word": "向佐陪郭碧婷和孩子去迪士尼",
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 447244,
-      "num": 340484,
+      "num": 417182,
       "word": "猎罪图鉴萝莉姐竟是刘念",
       "onboard_time": 1734690679,
       "rank": 34,
@@ -531,12 +531,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 366384,
+      "num": 366384,
+      "word": "韦世豪 广州队怎么过的准入",
+      "onboard_time": 1734692658,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359934,
       "num": 359934,
       "word": "大奉打更人宣发",
       "onboard_time": 1734660556,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357917,
+      "num": 357917,
+      "word": "李秀满新女团叫A2OMAY",
+      "onboard_time": 1734692718,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 351626,
@@ -619,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308087,
-      "num": 162517,
-      "word": "韦世豪 广州队怎么过的准入",
-      "onboard_time": 1734692658,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297260,
       "num": 274843,
       "word": "官方通报市监局上班时间多人排队打饭",
@@ -649,6 +657,22 @@
       "onboard_time": 1734686898,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294392,
+      "num": 294392,
+      "word": "袁记云饺全国门店超4000家",
+      "onboard_time": 1734679818,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 293311,
+      "num": 293311,
+      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+      "onboard_time": 1734690679,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 289412,
@@ -723,12 +747,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 263640,
-      "num": 263640,
-      "word": "袁记云饺全国门店超4000家",
-      "onboard_time": 1734679818,
-      "rank": 21,
-      "category": "舆论监督"
+      "raw_hot": 265559,
+      "num": 291749,
+      "word": "孔雪儿九重紫新婚夜被家暴",
+      "onboard_time": 1734693678,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 263623,
@@ -835,14 +859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230254,
-      "num": 230254,
-      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
-      "onboard_time": 1734690679,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 227732,
       "num": 183710,
       "word": "一笑倾国已删除退网内容",
@@ -913,6 +929,14 @@
       "onboard_time": 1734665238,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 215467,
+      "num": 215467,
+      "word": "庆祝澳门回归祖国25周年大会",
+      "onboard_time": 1734693918,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214259,
@@ -1057,14 +1081,6 @@
       "onboard_time": 1734624497,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198087,
-      "num": 260629,
-      "word": "李秀满新女团叫A2OMAY",
-      "onboard_time": 1734692718,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 198064,
@@ -1507,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159822,
+      "num": 159822,
+      "word": "西昌学生坠亡事件2人被治安处罚",
+      "onboard_time": 1734691639,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157933,
       "num": 157933,
       "word": "灰熊把勇士打花了",
@@ -1683,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145372,
+      "num": 145372,
+      "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
+      "onboard_time": 1734693197,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144481,
       "num": 222953,
       "word": "李俊昊被国税厅税务调查",
@@ -1728,14 +1760,6 @@
       "word": "女子报假警破门抓出轨男友",
       "onboard_time": 1734605838,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140665,
-      "num": 140665,
-      "word": "西昌学生坠亡事件2人被治安处罚",
-      "onboard_time": 1734691639,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1947,6 +1971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125141,
+      "num": 125141,
+      "word": "权志龙 还是年纪大的会疼人",
+      "onboard_time": 1734693438,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124522,
       "num": 124522,
       "word": "张颂文张馨予对手戏",
@@ -2051,6 +2083,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118812,
+      "num": 118812,
+      "word": "重庆一研究生凌晨出校失联超8天",
+      "onboard_time": 1734694038,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118399,
       "num": 190966,
       "word": "10秒站起来定律",
@@ -2123,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111607,
+      "num": 219234,
+      "word": "高校电竞赛给我看懵了",
+      "onboard_time": 1734693798,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110927,
       "num": 171701,
       "word": "澳门回归25周年同唱中国人",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1734676818,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 110357,
-      "num": 110357,
-      "word": "权志龙 还是年纪大的会疼人",
-      "onboard_time": 1734693438,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 110166,
@@ -2219,12 +2259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105178,
-      "num": 105178,
-      "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
-      "onboard_time": 1734693197,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 104970,
+      "num": 104970,
+      "word": "檀健次 够了吗孩子",
+      "onboard_time": 1734694398,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104131,
@@ -2297,6 +2337,14 @@
       "onboard_time": 1734604098,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95869,
+      "num": 95869,
+      "word": "章七娘 咱们三个怎么睡啊",
+      "onboard_time": 1734694338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 93794,
@@ -2408,6 +2456,14 @@
       "word": "这届年轻人把家政业干出了花",
       "onboard_time": 1734646932,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81394,
+      "num": 288478,
+      "word": "每个月至少要在公园待够5小时",
+      "onboard_time": 1734692839,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2648,14 +2704,6 @@
       "word": "韩国游客中国行爆火带动韩语地陪",
       "onboard_time": 1734692599,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62310,
-      "num": 251902,
-      "word": "每个月至少要在公园待够5小时",
-      "onboard_time": 1734692839,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2937,6 +2985,14 @@
       "onboard_time": 1734682219,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43001,
+      "num": 291239,
+      "word": "檀健次ELLE2025开年刊封面预告",
+      "onboard_time": 1734693858,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 42871,

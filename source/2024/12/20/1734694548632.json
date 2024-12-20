@@ -1,0 +1,410 @@
+{
+  "runTime": 1734694548632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1274873,
+        "num": 1274873,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1097235,
+        "num": 1097235,
+        "word": "爱情公寓5拍早了",
+        "onboard_time": 1734691938,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23421,
+        "num": 759992,
+        "word": "庆祝大会全场齐唱国歌",
+        "onboard_time": 1734686299,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 594871,
+        "num": 594871,
+        "word": "黄景瑜喊话孙千八年了关注一下吧",
+        "onboard_time": 1734691639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568493,
+        "num": 568493,
+        "word": "上海的树已经开始绒里绒气了",
+        "onboard_time": 1734687979,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806461,
+        "num": 550908,
+        "word": "网传王楚钦被医生暴露心电图等隐私",
+        "onboard_time": 1734683898,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430959,
+        "num": 430959,
+        "word": "余华建议年轻人多读无用的书",
+        "onboard_time": 1734687319,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 417255,
+        "num": 417255,
+        "word": "于适一袭红衣尽风华",
+        "onboard_time": 1734690919,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 417182,
+        "num": 417182,
+        "word": "猎罪图鉴萝莉姐竟是刘念",
+        "onboard_time": 1734690679,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411489,
+        "num": 411489,
+        "word": "喜茶袁记云饺被责令改正",
+        "onboard_time": 1734677059,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693974,
+        "num": 392324,
+        "word": "李冰冰 妈咪",
+        "onboard_time": 1734689179,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366384,
+        "num": 366384,
+        "word": "韦世豪 广州队怎么过的准入",
+        "onboard_time": 1734692658,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366081,
+        "num": 366081,
+        "word": "大奉打更人定档",
+        "onboard_time": 1734684679,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357917,
+        "num": 357917,
+        "word": "李秀满新女团叫A2OMAY",
+        "onboard_time": 1734692718,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302134,
+        "num": 302134,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294392,
+        "num": 294392,
+        "word": "袁记云饺全国门店超4000家",
+        "onboard_time": 1734679818,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 293311,
+        "num": 293311,
+        "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+        "onboard_time": 1734690679,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265559,
+        "num": 291749,
+        "word": "孔雪儿九重紫新婚夜被家暴",
+        "onboard_time": 1734693678,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43001,
+        "num": 291239,
+        "word": "檀健次ELLE2025开年刊封面预告",
+        "onboard_time": 1734693858,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81394,
+        "num": 288478,
+        "word": "每个月至少要在公园待够5小时",
+        "onboard_time": 1734692839,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1770082,
+        "num": 285804,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 20,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 285550,
+        "num": 285550,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233897,
+        "num": 233897,
+        "word": "女子110万抢2300克黄金商家拒发货",
+        "onboard_time": 1734687679,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224782,
+        "num": 224782,
+        "word": "包文婧晒4月孕肚",
+        "onboard_time": 1734683298,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111607,
+        "num": 219234,
+        "word": "高校电竞赛给我看懵了",
+        "onboard_time": 1734693798,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215467,
+        "num": 215467,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175050,
+        "num": 175050,
+        "word": "马清运要求马伯骞做顶流",
+        "onboard_time": 1734692238,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144238,
+        "num": 165752,
+        "word": "冬至开播",
+        "onboard_time": 1734675619,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127806,
+        "num": 161395,
+        "word": "曝琼瑶男主将在湖南卫视跨年合体",
+        "onboard_time": 1734692658,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38797,
+        "num": 160598,
+        "word": "普京称俄已准备好和西方技术对决",
+        "onboard_time": 1734681138,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159822,
+        "num": 159822,
+        "word": "西昌学生坠亡事件2人被治安处罚",
+        "onboard_time": 1734691639,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145372,
+        "num": 145372,
+        "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
+        "onboard_time": 1734693197,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144378,
+        "num": 144378,
+        "word": "七子之歌",
+        "onboard_time": 1734677298,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131728,
+        "num": 131728,
+        "word": "孔子发博祝福考研考生",
+        "onboard_time": 1734690738,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125141,
+        "num": 125141,
+        "word": "权志龙 还是年纪大的会疼人",
+        "onboard_time": 1734693438,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123190,
+        "num": 123190,
+        "word": "说起骑射于适的眼睛亮了",
+        "onboard_time": 1734690498,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 60295,
+        "num": 123138,
+        "word": "韩国游客中国行爆火带动韩语地陪",
+        "onboard_time": 1734692599,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123119,
+        "num": 123119,
+        "word": "谁懂金晨两次演被骗的反差感",
+        "onboard_time": 1734691759,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120002,
+        "num": 120002,
+        "word": "审判留几手",
+        "onboard_time": 1734678679,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118812,
+        "num": 118812,
+        "word": "重庆一研究生凌晨出校失联超8天",
+        "onboard_time": 1734694038,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114632,
+        "num": 114632,
+        "word": "杨仕泽祝绪丹学虞书欣学反了",
+        "onboard_time": 1734688879,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111152,
+        "num": 111152,
+        "word": "清明上河图密码",
+        "onboard_time": 1734694159,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110064,
+        "num": 110064,
+        "word": "网传邓为刘浩存出演风月不相关",
+        "onboard_time": 1734690259,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108407,
+        "num": 108407,
+        "word": "包文婧二胎自然怀孕",
+        "onboard_time": 1734683898,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104970,
+        "num": 104970,
+        "word": "檀健次 够了吗孩子",
+        "onboard_time": 1734694398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108959,
+        "num": 104552,
+        "word": "虞书欣歌词内核",
+        "onboard_time": 1734691878,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104095,
+        "num": 104095,
+        "word": "陈建斌上次来天坛还是嬛嬛小产",
+        "onboard_time": 1734686898,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102562,
+        "num": 102562,
+        "word": "多地回应取消公摊并非不计公摊",
+        "onboard_time": 1734690199,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95869,
+        "num": 95869,
+        "word": "章七娘 咱们三个怎么睡啊",
+        "onboard_time": 1734694338,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91231,
+        "num": 91231,
+        "word": "哈尔滨冰雪大世界今天官宣明天就开",
+        "onboard_time": 1734682939,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归25周年大会#"
+    }
+  }
+}
