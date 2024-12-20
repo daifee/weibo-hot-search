@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734734305255,
+  "endTime": 1734736871133,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597161,
+      "num": 789990,
+      "word": "韦唯准备下山时遭遇车祸脊柱折断",
+      "onboard_time": 1734736274,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553257,
       "num": 319486,
       "word": "吴奇隆好友出面曝光婚变真相",
       "onboard_time": 1734702438,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548761,
+      "num": 548761,
+      "word": "冬至",
+      "onboard_time": 1734736274,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475605,
@@ -89,6 +105,14 @@
       "onboard_time": 1734696918,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 324019,
+      "num": 452099,
+      "word": "女子称住酒店凌晨一陌生男子站床前",
+      "onboard_time": 1734709580,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 319466,
@@ -147,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252744,
+      "num": 142407,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242626,
       "num": 186226,
       "word": "KBS导播",
@@ -179,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151032,
-      "num": 452099,
-      "word": "女子称住酒店凌晨一陌生男子站床前",
-      "onboard_time": 1734709580,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 164730,
+      "num": 139112,
+      "word": "papi酱 倪萍老师能不能开个班",
+      "onboard_time": 1734736274,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 150076,
@@ -192,6 +224,14 @@
       "word": "潜逃前山西首富在英购买大量房产",
       "onboard_time": 1734706759,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149639,
+      "num": 149639,
+      "word": "1岁宝宝认母期把狗狗当妈妈",
+      "onboard_time": 1734736213,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -211,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142395,
+      "num": 142395,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140960,
       "num": 177801,
       "word": "台湾青年打卡尔滨被圈粉了",
@@ -219,20 +267,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137507,
-      "num": 92870,
-      "word": "男子离世房产留给妻儿未分9旬母亲",
-      "onboard_time": 1734711617,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128652,
-      "num": 128652,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 135749,
+      "num": 135749,
+      "word": "马方同意恢复搜索马航MH370航班",
+      "onboard_time": 1734717793,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126661,
@@ -249,14 +289,6 @@
       "onboard_time": 1734690919,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 125689,
-      "num": 125689,
-      "word": "马方同意恢复搜索马航MH370航班",
-      "onboard_time": 1734717793,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123669,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 109061,
-      "num": 116052,
+      "num": 142696,
       "word": "岑浩辉宣誓就任澳门行政长官",
       "onboard_time": 1734665838,
       "rank": 37,
@@ -411,12 +443,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 61300,
+      "num": 64317,
+      "word": "银行姑娘和老人唠嗑后悄悄报警",
+      "onboard_time": 1734726251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59635,
       "num": 59635,
       "word": "杨子破防",
       "onboard_time": 1734715873,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58963,
+      "num": 58963,
+      "word": "向佐晒一家四口照片称一生最爱",
+      "onboard_time": 1734716833,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 57400,
@@ -427,12 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56253,
-      "num": 64317,
-      "word": "银行姑娘和老人唠嗑后悄悄报警",
-      "onboard_time": 1734726251,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 55818,
+      "num": 55921,
+      "word": "肥妈45岁才能说自己是中国人",
+      "onboard_time": 1734728951,
+      "rank": 44,
+      "category": "综艺,国内时政"
+    },
+    {
+      "raw_hot": 55201,
+      "num": 55201,
+      "word": "想去尔滨的心情达到顶峰",
+      "onboard_time": 1734734232,
+      "rank": 29,
+      "category": "旅游"
     },
     {
       "raw_hot": 53122,
@@ -491,20 +547,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34506,
-      "num": 34506,
-      "word": "向佐晒一家四口照片称一生最爱",
-      "onboard_time": 1734716833,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 35542,
+      "num": 91281,
+      "word": "失联研究生家人称其最后消失在长江边",
+      "onboard_time": 1734718993,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 32096,
-      "num": 55921,
-      "word": "肥妈45岁才能说自己是中国人",
-      "onboard_time": 1734728951,
+      "raw_hot": 34724,
+      "num": 42549,
+      "word": "乌克兰基辅传出密集爆炸声",
+      "onboard_time": 1734720731,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32497,
+      "num": 32497,
+      "word": "尔滨冰雪大世界融合了亚冬元素",
+      "onboard_time": 1734735432,
       "rank": 44,
-      "category": "综艺,国内时政"
+      "category": "旅游"
     },
     {
       "raw_hot": 28943,
@@ -544,22 +608,6 @@
       "word": "老人被骗交1.68万卖古董能得168万",
       "onboard_time": 1734727930,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26327,
-      "num": 42549,
-      "word": "乌克兰基辅传出密集爆炸声",
-      "onboard_time": 1734720731,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25359,
-      "num": 91281,
-      "word": "失联研究生家人称其最后消失在长江边",
-      "onboard_time": 1734718993,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -659,14 +707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13070,
-      "num": 34577,
-      "word": "想去尔滨的心情达到顶峰",
-      "onboard_time": 1734734232,
-      "rank": 29,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 11078,
       "num": 88167,
       "word": "朱婷12分助球队晋级四强",
@@ -681,6 +721,14 @@
       "onboard_time": 1734715574,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9350,
+      "num": 69560,
+      "word": "赵小童直播",
+      "onboard_time": 1734736693,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 7922,
