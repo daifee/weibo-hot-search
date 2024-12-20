@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734686602308,
+  "endTime": 1734687423302,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -43,6 +43,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208601,
+      "num": 1208601,
+      "word": "网传王楚钦被医生暴露心电图等隐私",
+      "onboard_time": 1734683898,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1079910,
+      "num": 1079910,
+      "word": "疑似张小斐代替贾玲拍摄",
+      "onboard_time": 1734685879,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1063195,
       "num": 1063195,
       "word": "瞒着家人复读一年成功上岸",
@@ -57,14 +73,6 @@
       "onboard_time": 1734660318,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1014413,
-      "num": 1014413,
-      "word": "网传王楚钦被医生暴露心电图等隐私",
-      "onboard_time": 1734683898,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 991848,
@@ -249,14 +257,6 @@
       "onboard_time": 1734666918,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 514874,
-      "num": 342688,
-      "word": "疑似张小斐代替贾玲拍摄",
-      "onboard_time": 1734685879,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 501433,
@@ -587,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278620,
+      "num": 273204,
+      "word": "张天爱",
+      "onboard_time": 1734683959,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275307,
       "num": 414032,
       "word": "猎罪图鉴2直播",
       "onboard_time": 1734665838,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275181,
+      "num": 275181,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 273329,
@@ -667,22 +683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 238705,
-      "num": 238705,
-      "word": "张天爱",
-      "onboard_time": 1734683959,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 235707,
-      "num": 235707,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 232858,
       "num": 333704,
       "word": "哈尔滨冰雪大世界今天官宣明天就开",
@@ -707,12 +707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 229574,
+      "num": 265245,
+      "word": "千万粉丝博主拍视频负债150万",
+      "onboard_time": 1734685939,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227732,
       "num": 183710,
       "word": "一笑倾国已删除退网内容",
       "onboard_time": 1734627135,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 223282,
+      "num": 257808,
+      "word": "包文婧二胎自然怀孕",
+      "onboard_time": 1734683898,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 223096,
@@ -987,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192289,
-      "num": 237549,
-      "word": "千万粉丝博主拍视频负债150万",
-      "onboard_time": 1734685939,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 191976,
       "num": 375800,
       "word": "单县羊汤产业联盟回应B太羊汤事件",
@@ -1035,11 +1043,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 186748,
-      "num": 186748,
-      "word": "包文婧二胎自然怀孕",
-      "onboard_time": 1734683898,
-      "rank": 40,
+      "raw_hot": 188775,
+      "num": 188775,
+      "word": "香飘飘首家线下店9元一杯奶茶",
+      "onboard_time": 1734686478,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 186488,
+      "num": 186488,
+      "word": "张天爱 粉丝送的喜糖",
+      "onboard_time": 1734684259,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1097,6 +1113,14 @@
       "onboard_time": 1734684619,
       "rank": 37,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 178568,
+      "num": 221049,
+      "word": "陈建斌上次来天坛还是嬛嬛小产",
+      "onboard_time": 1734686898,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 177770,
@@ -1179,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172662,
+      "num": 339816,
+      "word": "互联网平台企业涉税信息报送规定征求意见",
+      "onboard_time": 1734685998,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171332,
       "num": 171332,
       "word": "冬至开播",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1734685819,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167329,
-      "num": 167329,
-      "word": "张天爱 粉丝送的喜糖",
-      "onboard_time": 1734684259,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 166046,
@@ -1371,14 +1395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153560,
-      "num": 339816,
-      "word": "互联网平台企业涉税信息报送规定征求意见",
-      "onboard_time": 1734685998,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152825,
       "num": 152824,
       "word": "扭曲的饭圈文化侵入竞技体育等领域",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1734657439,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150741,
+      "num": 204366,
+      "word": "专家称基因检测不一定生出健康孩子",
+      "onboard_time": 1734682578,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150456,
@@ -1443,6 +1467,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146886,
+      "num": 207125,
+      "word": "林高远没有退出国乒",
+      "onboard_time": 1734686659,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146452,
+      "num": 145390,
+      "word": "余华建议年轻人多读无用的书",
+      "onboard_time": 1734687319,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 146336,
       "num": 146336,
       "word": "刘宇宁带小狗一起上班",
@@ -1483,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142351,
-      "num": 142351,
-      "word": "专家称基因检测不一定生出健康孩子",
-      "onboard_time": 1734682578,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "明天考研",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1734662898,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140043,
+      "num": 140043,
+      "word": "杨紫工作室通报告黑进展",
+      "onboard_time": 1734687138,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 139596,
@@ -1571,20 +1611,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132025,
+      "num": 132025,
+      "word": "大奉打更人定档盛典",
+      "onboard_time": 1734687138,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131935,
       "num": 131935,
       "word": "一个爱吃袁记云饺的人天塌了",
       "onboard_time": 1734677120,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 131817,
-      "num": 131817,
-      "word": "香飘飘首家线下店9元一杯奶茶",
-      "onboard_time": 1734686478,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 131723,
@@ -1771,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "母女落水一群钓鱼佬出手了",
+      "onboard_time": 1734686720,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119500,
       "num": 141193,
       "word": "贾玲 我看我自己哪都美",
@@ -1787,12 +1835,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117251,
+      "num": 117251,
+      "word": "张杰巡回演唱会花絮纪录片",
+      "onboard_time": 1734686960,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 117002,
       "num": 117002,
       "word": "5件事让人生闪闪发光",
       "onboard_time": 1734622758,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116496,
+      "num": 355864,
+      "word": "新规遏制少数大主播偷税行为",
+      "onboard_time": 1734685879,
+      "rank": 7,
+      "category": "国内时政,网红"
     },
     {
       "raw_hot": 116399,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1734672379,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114728,
+      "num": 114728,
+      "word": "马方称原则同意恢复MH370搜索",
+      "onboard_time": 1734687198,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113883,
@@ -1907,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106061,
+      "num": 337224,
+      "word": "领养猫咪花1.4万后拒付猫贷被告",
+      "onboard_time": 1734685339,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104131,
       "num": 104131,
       "word": "推进取消公摊不要只看到拉动楼市",
@@ -1945,14 +2025,6 @@
       "onboard_time": 1734658938,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99956,
-      "num": 337224,
-      "word": "领养猫咪花1.4万后拒付猫贷被告",
-      "onboard_time": 1734685339,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97978,
@@ -2203,14 +2275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68834,
-      "num": 355864,
-      "word": "新规遏制少数大主播偷税行为",
-      "onboard_time": 1734685879,
-      "rank": 7,
-      "category": "国内时政,网红"
-    },
-    {
       "raw_hot": 68701,
       "num": 185370,
       "word": "大学宠考研生没有天花板",
@@ -2267,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65698,
+      "num": 326330,
+      "word": "官方回应执法人员用个人收款码收罚款",
+      "onboard_time": 1734685758,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64934,
       "num": 138636,
       "word": "时光音乐会",
@@ -2289,6 +2361,22 @@
       "onboard_time": 1734624977,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63622,
+      "num": 352035,
+      "word": "楼市止跌回稳初见成效",
+      "onboard_time": 1734685819,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 63104,
+      "num": 331171,
+      "word": "白百何 毒嘴会怼",
+      "onboard_time": 1734685879,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 61830,
@@ -2321,14 +2409,6 @@
       "onboard_time": 1734669383,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 58267,
-      "num": 331171,
-      "word": "白百何 毒嘴会怼",
-      "onboard_time": 1734685879,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 58015,
@@ -2409,14 +2489,6 @@
       "onboard_time": 1734665657,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 53752,
-      "num": 326330,
-      "word": "官方回应执法人员用个人收款码收罚款",
-      "onboard_time": 1734685758,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53187,
@@ -2675,14 +2747,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 36070,
-      "num": 352035,
-      "word": "楼市止跌回稳初见成效",
-      "onboard_time": 1734685819,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 34745,
       "num": 51269,
       "word": "25年前解放军进驻澳门高清修复画面",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1734672259,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32782,
+      "num": 266713,
+      "word": "一文解读规范涉税信息报送",
+      "onboard_time": 1734687380,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32676,
@@ -2803,6 +2875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23623,
+      "num": 1088434,
+      "word": "庆祝大会全场齐唱国歌",
+      "onboard_time": 1734686299,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22252,
       "num": 190245,
       "word": "高校合唱团用歌声为考研学子加油",
@@ -2889,14 +2969,6 @@
       "onboard_time": 1734681439,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16011,
-      "num": 751691,
-      "word": "庆祝大会全场齐唱国歌",
-      "onboard_time": 1734686299,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 15981,
@@ -3002,6 +3074,9 @@
     },
     {
       "word": "#习近平会见澳门特区行政长官岑浩辉#"
+    },
+    {
+      "word": "#庆祝澳门回归25周年大会#"
     }
   ]
 }

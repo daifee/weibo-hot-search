@@ -1,0 +1,410 @@
+{
+  "runTime": 1734687423302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5621642,
+        "num": 5621642,
+        "word": "袁记云饺已被立案调查",
+        "onboard_time": 1734667997,
+        "rank": 0,
+        "category": "舆论监督,美食"
+      },
+      {
+        "raw_hot": 1208601,
+        "num": 1208601,
+        "word": "网传王楚钦被医生暴露心电图等隐私",
+        "onboard_time": 1734683898,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23623,
+        "num": 1088434,
+        "word": "庆祝大会全场齐唱国歌",
+        "onboard_time": 1734686299,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1079910,
+        "num": 1079910,
+        "word": "疑似张小斐代替贾玲拍摄",
+        "onboard_time": 1734685879,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 531540,
+        "num": 531540,
+        "word": "大奉打更人定档",
+        "onboard_time": 1734684679,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 728873,
+        "num": 493201,
+        "word": "医生解读脑瘫女孩备孕",
+        "onboard_time": 1734679938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373878,
+        "num": 373878,
+        "word": "喜茶袁记云饺被责令改正",
+        "onboard_time": 1734677059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116496,
+        "num": 321261,
+        "word": "新规遏制少数大主播偷税行为",
+        "onboard_time": 1734685879,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63622,
+        "num": 278390,
+        "word": "楼市止跌回稳初见成效",
+        "onboard_time": 1734685819,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 275181,
+        "num": 275181,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 535398,
+        "num": 275045,
+        "word": "包文婧晒4月孕肚",
+        "onboard_time": 1734683298,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278620,
+        "num": 273204,
+        "word": "张天爱",
+        "onboard_time": 1734683959,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231780,
+        "num": 271133,
+        "word": "麦琳 情绪稳定",
+        "onboard_time": 1734681799,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172662,
+        "num": 269549,
+        "word": "互联网平台企业涉税信息报送规定征求意见",
+        "onboard_time": 1734685998,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32782,
+        "num": 266713,
+        "word": "一文解读规范涉税信息报送",
+        "onboard_time": 1734687380,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229574,
+        "num": 265245,
+        "word": "千万粉丝博主拍视频负债150万",
+        "onboard_time": 1734685939,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208024,
+        "num": 263214,
+        "word": "哈尔滨冰雪大世界今天官宣明天就开",
+        "onboard_time": 1734682939,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 63104,
+        "num": 262402,
+        "word": "白百何 毒嘴会怼",
+        "onboard_time": 1734685879,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65698,
+        "num": 260605,
+        "word": "官方回应执法人员用个人收款码收罚款",
+        "onboard_time": 1734685758,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223282,
+        "num": 257808,
+        "word": "包文婧二胎自然怀孕",
+        "onboard_time": 1734683898,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257715,
+        "num": 257715,
+        "word": "审判留几手",
+        "onboard_time": 1734678679,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248055,
+        "num": 248055,
+        "word": "网传一事业单位有249人报考去掏粪",
+        "onboard_time": 1734678618,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 246792,
+        "num": 246792,
+        "word": "医院回应医生疑暴露王楚钦病历",
+        "onboard_time": 1734683538,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228664,
+        "num": 228664,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179037,
+        "num": 226919,
+        "word": "猎罪图鉴2一集6条命",
+        "onboard_time": 1734679159,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178568,
+        "num": 221049,
+        "word": "陈建斌上次来天坛还是嬛嬛小产",
+        "onboard_time": 1734686898,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172158,
+        "num": 217321,
+        "word": "潘辰太适合浪姐了",
+        "onboard_time": 1734683599,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49860,
+        "num": 213838,
+        "word": "普京称俄已准备好和西方技术对决",
+        "onboard_time": 1734681138,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146886,
+        "num": 207125,
+        "word": "林高远没有退出国乒",
+        "onboard_time": 1734686659,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150741,
+        "num": 204366,
+        "word": "专家称基因检测不一定生出健康孩子",
+        "onboard_time": 1734682578,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "袁记云饺曾称馅料为预制",
+        "onboard_time": 1734675679,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188775,
+        "num": 188775,
+        "word": "香飘飘首家线下店9元一杯奶茶",
+        "onboard_time": 1734686478,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160644,
+        "num": 186689,
+        "word": "逆水寒",
+        "onboard_time": 1734686119,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186488,
+        "num": 186488,
+        "word": "张天爱 粉丝送的喜糖",
+        "onboard_time": 1734684259,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176338,
+        "num": 176338,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171053,
+        "num": 171053,
+        "word": "女子2年被家暴16次求判丈夫死刑",
+        "onboard_time": 1734683057,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157279,
+        "num": 157279,
+        "word": "袁记云饺全国门店超4000家",
+        "onboard_time": 1734679818,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149812,
+        "num": 149812,
+        "word": "于适 从CCTV6到CCTV5",
+        "onboard_time": 1734684619,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 147730,
+        "num": 147730,
+        "word": "冬至豹豹猫猫刚认识",
+        "onboard_time": 1734685158,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106061,
+        "num": 146241,
+        "word": "领养猫咪花1.4万后拒付猫贷被告",
+        "onboard_time": 1734685339,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145886,
+        "num": 145886,
+        "word": "Hanni签证到期危机",
+        "onboard_time": 1734684318,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146452,
+        "num": 145390,
+        "word": "余华建议年轻人多读无用的书",
+        "onboard_time": 1734687319,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "七子之歌",
+        "onboard_time": 1734677298,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 141164,
+        "word": "贾玲被住家保姆激励学英语",
+        "onboard_time": 1734685638,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140043,
+        "num": 140043,
+        "word": "杨紫工作室通报告黑进展",
+        "onboard_time": 1734687138,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132025,
+        "num": 132025,
+        "word": "大奉打更人定档盛典",
+        "onboard_time": 1734687138,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127387,
+        "num": 127387,
+        "word": "澳门特别行政区第六届政府就职典礼",
+        "onboard_time": 1734664458,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119996,
+        "num": 119996,
+        "word": "母女落水一群钓鱼佬出手了",
+        "onboard_time": 1734686720,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117251,
+        "num": 117251,
+        "word": "张杰巡回演唱会花絮纪录片",
+        "onboard_time": 1734686960,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114728,
+        "num": 114728,
+        "word": "马方称原则同意恢复MH370搜索",
+        "onboard_time": 1734687198,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝澳门回归25周年大会#"
+    }
+  }
+}
