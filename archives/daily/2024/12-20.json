@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734705533045,
+  "endTime": 1734708196806,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -41,6 +41,14 @@
       "onboard_time": 1734651856,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1741795,
+      "num": 410228,
+      "word": "留几手回应",
+      "onboard_time": 1734706340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1669666,
@@ -371,6 +379,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 591147,
+      "num": 591147,
+      "word": "丁禹兮cha虞书欣spicyhoney",
+      "onboard_time": 1734707539,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 588674,
       "num": 588674,
       "word": "年度报告",
@@ -419,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524178,
+      "num": 524178,
+      "word": "晋江",
+      "onboard_time": 1734704779,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 523030,
       "num": 523030,
       "word": "以军被爆在加沙进行杀人比赛",
       "onboard_time": 1734666918,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 522343,
+      "num": 403180,
+      "word": "高瀚宇朱嘉琦十指相扣",
+      "onboard_time": 1734705080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 501433,
@@ -651,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368341,
+      "num": 368341,
+      "word": "央视新闻联播报道冯骥汇报",
+      "onboard_time": 1734706822,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 366384,
       "num": 366384,
       "word": "韦世豪 广州队怎么过的准入",
@@ -827,6 +867,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 290558,
+      "num": 290558,
+      "word": "尹恩惠40岁的状态",
+      "onboard_time": 1734707480,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 289412,
       "num": 273764,
       "word": "小猫侧睡危害真的很大",
@@ -899,12 +947,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271015,
+      "num": 402129,
+      "word": "潜逃前山西首富在英购买大量房产",
+      "onboard_time": 1734706759,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268120,
       "num": 319085,
       "word": "贾玲 我没有变",
       "onboard_time": 1734670522,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 264028,
+      "num": 411299,
+      "word": "被尔滨的冰封玫瑰惊艳到了",
+      "onboard_time": 1734701239,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 263623,
@@ -961,6 +1025,14 @@
       "onboard_time": 1734658398,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "窦昭怀的是小葡萄不是葡萄干",
+      "onboard_time": 1734706881,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 245228,
@@ -1131,14 +1203,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 217746,
-      "num": 217746,
-      "word": "被尔滨的冰封玫瑰惊艳到了",
-      "onboard_time": 1734701239,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 215467,
       "num": 215467,
       "word": "庆祝澳门回归祖国25周年大会",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1734659237,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209585,
+      "num": 209585,
+      "word": "孟子义说夏之光红气养人",
+      "onboard_time": 1734707239,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 208735,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1734661457,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205742,
+      "num": 205742,
+      "word": "张杰谈首部电影留下三个女儿声音",
+      "onboard_time": 1734707000,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 204913,
@@ -1435,20 +1515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190347,
-      "num": 190347,
-      "word": "晋江",
-      "onboard_time": 1734704779,
-      "rank": 32,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 190249,
       "num": 488223,
       "word": "普京喊话西方来基辅导弹对决",
       "onboard_time": 1734664938,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190196,
+      "num": 190196,
+      "word": "丁禹兮把张新成逗笑了",
+      "onboard_time": 1734707300,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190073,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1734683599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183708,
+      "num": 256520,
+      "word": "IU蚊子过敏",
+      "onboard_time": 1734705380,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 183632,
@@ -2051,14 +2139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147254,
-      "num": 235680,
-      "word": "高瀚宇朱嘉琦十指相扣",
-      "onboard_time": 1734705080,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146886,
       "num": 207125,
       "word": "林高远没有退出国乒",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1734702559,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "ive舞台",
+      "onboard_time": 1734705441,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 142419,
@@ -2171,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138934,
+      "num": 231560,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138626,
       "num": 241068,
       "word": "原神玛薇卡",
@@ -2227,12 +2323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133894,
-      "num": 133894,
-      "word": "IU蚊子过敏",
-      "onboard_time": 1734705380,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 133693,
+      "num": 133693,
+      "word": "花花学会了一边捂嘴一边掏兜",
+      "onboard_time": 1734705681,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132359,
@@ -2409,14 +2505,6 @@
       "onboard_time": 1734675318,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125447,
-      "num": 125447,
-      "word": "ive舞台",
-      "onboard_time": 1734705441,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 125234,
@@ -2635,6 +2723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115072,
+      "num": 115072,
+      "word": "王鹤棣Bking赛道天赋型选手",
+      "onboard_time": 1734708140,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113883,
       "num": 113883,
       "word": "鹿晗水晶球",
@@ -2731,6 +2827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107238,
+      "num": 106828,
+      "word": "大奉打更人刘奕君领衔主演",
+      "onboard_time": 1734708140,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106569,
       "num": 166020,
       "word": "孙千包场冬至",
@@ -2809,6 +2913,14 @@
       "onboard_time": 1734700459,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98636,
+      "num": 243777,
+      "word": "张镇麟受伤",
+      "onboard_time": 1734706580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 97978,
@@ -3267,6 +3379,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 61338,
+      "num": 133752,
+      "word": "福冈偶遇seventeen",
+      "onboard_time": 1734708020,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60409,
       "num": 237414,
       "word": "普京称俄已准备好和西方技术对决",
@@ -3304,6 +3424,14 @@
       "word": "余华英庭审现场态度恶劣没有道歉",
       "onboard_time": 1734638891,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57357,
+      "num": 231366,
+      "word": "女子要求8旬父亲腾房被法院驳回",
+      "onboard_time": 1734706401,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3369,6 +3497,14 @@
       "onboard_time": 1734665657,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54014,
+      "num": 372683,
+      "word": "00后同学眼中35岁的唐尚珺",
+      "onboard_time": 1734707419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53254,
@@ -3475,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47892,
+      "num": 378323,
+      "word": "杨妞花感激养父家大娘帮她找家",
+      "onboard_time": 1734706340,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47633,
       "num": 152949,
       "word": "张馨予原声台词代入感",
@@ -3555,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43820,
+      "num": 909045,
+      "word": "一组数据看澳门回归25周年",
+      "onboard_time": 1734703159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43164,
       "num": 269733,
       "word": "潜逃前山西首富拖欠留英学生押金",
@@ -3601,14 +3753,6 @@
       "onboard_time": 1734695058,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 41707,
-      "num": 909045,
-      "word": "一组数据看澳门回归25周年",
-      "onboard_time": 1734703159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41005,
@@ -3828,7 +3972,7 @@
     },
     {
       "raw_hot": 29270,
-      "num": 201918,
+      "num": 368343,
       "word": "猎罪图鉴2雨夜连环杀人事件",
       "onboard_time": 1734696018,
       "rank": 27,

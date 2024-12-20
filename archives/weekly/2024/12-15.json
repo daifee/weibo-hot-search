@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734705533045,
+  "endTime": 1734708196806,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -249,6 +249,14 @@
       "onboard_time": 1734594798,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1741795,
+      "num": 410228,
+      "word": "留几手回应",
+      "onboard_time": 1734706340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1733000,
@@ -2555,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591147,
+      "num": 591147,
+      "word": "丁禹兮cha虞书欣spicyhoney",
+      "onboard_time": 1734707539,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 588674,
       "num": 588674,
       "word": "年度报告",
@@ -2939,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 524178,
+      "num": 524178,
+      "word": "晋江",
+      "onboard_time": 1734704779,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 523823,
       "num": 523823,
       "word": "九重紫 删减",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1734423980,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 522343,
+      "num": 403180,
+      "word": "高瀚宇朱嘉琦十指相扣",
+      "onboard_time": 1734705080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 521862,
@@ -4379,6 +4411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368341,
+      "num": 368341,
+      "word": "央视新闻联播报道冯骥汇报",
+      "onboard_time": 1734706822,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 367819,
       "num": 367819,
       "word": "跑男把母带翻冒烟了",
@@ -5395,6 +5435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290558,
+      "num": 290558,
+      "word": "尹恩惠40岁的状态",
+      "onboard_time": 1734707480,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290125,
       "num": 221503,
       "word": "全红婵哥哥曾拒绝MCN上亿签约费",
@@ -5779,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271015,
+      "num": 402129,
+      "word": "潜逃前山西首富在英购买大量房产",
+      "onboard_time": 1734706759,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270254,
       "num": 270254,
       "word": "田曦薇方称逐玉绝对平番",
@@ -5881,6 +5937,14 @@
       "onboard_time": 1734231377,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264028,
+      "num": 411299,
+      "word": "被尔滨的冰封玫瑰惊艳到了",
+      "onboard_time": 1734701239,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 263623,
@@ -6193,6 +6257,14 @@
       "onboard_time": 1734506719,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "窦昭怀的是小葡萄不是葡萄干",
+      "onboard_time": 1734706881,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 245958,
@@ -6939,14 +7011,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 217746,
-      "num": 217746,
-      "word": "被尔滨的冰封玫瑰惊艳到了",
-      "onboard_time": 1734701239,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 217587,
       "num": 217587,
       "word": "惠英红红毯脱大衣",
@@ -7299,6 +7363,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 209585,
+      "num": 209585,
+      "word": "孟子义说夏之光红气养人",
+      "onboard_time": 1734707239,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209383,
       "num": 209383,
       "word": "贾玲 新华社采访",
@@ -7505,6 +7577,14 @@
       "onboard_time": 1734661457,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205742,
+      "num": 205742,
+      "word": "张杰谈首部电影留下三个女儿声音",
+      "onboard_time": 1734707000,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 205627,
@@ -8739,14 +8819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190347,
-      "num": 190347,
-      "word": "晋江",
-      "onboard_time": 1734704779,
-      "rank": 32,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 190275,
       "num": 245344,
       "word": "王心凌朋友圈背景是去世小狗合照",
@@ -8761,6 +8833,14 @@
       "onboard_time": 1734664938,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 190196,
+      "num": 190196,
+      "word": "丁禹兮把张新成逗笑了",
+      "onboard_time": 1734707300,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190142,
@@ -9185,6 +9265,14 @@
       "onboard_time": 1734518599,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183708,
+      "num": 256520,
+      "word": "IU蚊子过敏",
+      "onboard_time": 1734705380,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 183632,
@@ -11955,14 +12043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147254,
-      "num": 235680,
-      "word": "高瀚宇朱嘉琦十指相扣",
-      "onboard_time": 1734705080,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147239,
       "num": 147239,
       "word": "一个人睡觉需要两个枕头",
@@ -12193,6 +12273,14 @@
       "onboard_time": 1734359601,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "ive舞台",
+      "onboard_time": 1734705441,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 143030,
@@ -12529,6 +12617,14 @@
       "onboard_time": 1734259039,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138934,
+      "num": 231560,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138626,
@@ -12971,20 +13067,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133894,
-      "num": 133894,
-      "word": "IU蚊子过敏",
-      "onboard_time": 1734705380,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133703,
       "num": 155195,
       "word": "潘宏 小姑娘来上班",
       "onboard_time": 1734407059,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133693,
+      "num": 133693,
+      "word": "花花学会了一边捂嘴一边掏兜",
+      "onboard_time": 1734705681,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133690,
@@ -13753,14 +13849,6 @@
       "onboard_time": 1734252619,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125447,
-      "num": 125447,
-      "word": "ive舞台",
-      "onboard_time": 1734705441,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 125372,
@@ -14731,6 +14819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115072,
+      "num": 115072,
+      "word": "王鹤棣Bking赛道天赋型选手",
+      "onboard_time": 1734708140,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114874,
       "num": 114874,
       "word": "樊振东说莫舍己道勿扰他心",
@@ -15379,6 +15475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107238,
+      "num": 106828,
+      "word": "大奉打更人刘奕君领衔主演",
+      "onboard_time": 1734708140,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107182,
       "num": 107182,
       "word": "丰县县委原书记娄海获刑12年",
@@ -15897,6 +16001,14 @@
       "onboard_time": 1734320899,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98636,
+      "num": 243777,
+      "word": "张镇麟受伤",
+      "onboard_time": 1734706580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 98529,
@@ -18051,6 +18163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61338,
+      "num": 133752,
+      "word": "福冈偶遇seventeen",
+      "onboard_time": 1734708020,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61300,
       "num": 341546,
       "word": "女童被老师砸伤母亲抗诉被驳回",
@@ -18217,6 +18337,14 @@
       "onboard_time": 1734465072,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 57357,
+      "num": 231366,
+      "word": "女子要求8旬父亲腾房被法院驳回",
+      "onboard_time": 1734706401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56919,
@@ -18425,6 +18553,14 @@
       "onboard_time": 1734499520,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54014,
+      "num": 372683,
+      "word": "00后同学眼中35岁的唐尚珺",
+      "onboard_time": 1734707419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53902,
@@ -18971,6 +19107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47892,
+      "num": 378323,
+      "word": "杨妞花感激养父家大娘帮她找家",
+      "onboard_time": 1734706340,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47673,
       "num": 147457,
       "word": "TT晋级2024德杯八强",
@@ -19363,6 +19507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43820,
+      "num": 909045,
+      "word": "一组数据看澳门回归25周年",
+      "onboard_time": 1734703159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43685,
       "num": 280980,
       "word": "电影窗前明月咣听取瓜声一片",
@@ -19521,14 +19673,6 @@
       "onboard_time": 1734695058,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 41707,
-      "num": 909045,
-      "word": "一组数据看澳门回归25周年",
-      "onboard_time": 1734703159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41609,
@@ -20844,7 +20988,7 @@
     },
     {
       "raw_hot": 29270,
-      "num": 201918,
+      "num": 368343,
       "word": "猎罪图鉴2雨夜连环杀人事件",
       "onboard_time": 1734696018,
       "rank": 27,

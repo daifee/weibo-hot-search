@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734705533045,
+  "endTime": 1734708196806,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1733622139,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1741795,
+      "num": 410228,
+      "word": "留几手回应",
+      "onboard_time": 1734706340,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1733000,
@@ -9091,6 +9099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591147,
+      "num": 591147,
+      "word": "丁禹兮cha虞书欣spicyhoney",
+      "onboard_time": 1734707539,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 591025,
       "num": 300274,
       "word": "韩紧急戒严令被宣布无效",
@@ -10619,6 +10635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524178,
+      "num": 524178,
+      "word": "晋江",
+      "onboard_time": 1734704779,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 524058,
       "num": 645269,
       "word": "权志龙新歌被KBS判为不合格",
@@ -10689,6 +10713,14 @@
       "onboard_time": 1733468180,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 522343,
+      "num": 403180,
+      "word": "高瀚宇朱嘉琦十指相扣",
+      "onboard_time": 1734705080,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 521862,
@@ -15699,6 +15731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368341,
+      "num": 368341,
+      "word": "央视新闻联播报道冯骥汇报",
+      "onboard_time": 1734706822,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 368099,
       "num": 368099,
       "word": "中国人习惯性内卷在国外很吃亏",
@@ -19451,6 +19491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290558,
+      "num": 290558,
+      "word": "尹恩惠40岁的状态",
+      "onboard_time": 1734707480,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 290542,
       "num": 185203,
       "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
@@ -20651,6 +20699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271015,
+      "num": 402129,
+      "word": "潜逃前山西首富在英购买大量房产",
+      "onboard_time": 1734706759,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270936,
       "num": 270936,
       "word": "极越为何突然崩盘",
@@ -21065,6 +21121,14 @@
       "onboard_time": 1733124378,
       "rank": 21,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 264028,
+      "num": 411299,
+      "word": "被尔滨的冰封玫瑰惊艳到了",
+      "onboard_time": 1734701239,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 264001,
@@ -22272,6 +22336,14 @@
       "word": "原来九重紫删评是这个扇",
       "onboard_time": 1733908731,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 246276,
+      "num": 246276,
+      "word": "窦昭怀的是小葡萄不是葡萄干",
+      "onboard_time": 1734706881,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -25211,14 +25283,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 217746,
-      "num": 217746,
-      "word": "被尔滨的冰封玫瑰惊艳到了",
-      "onboard_time": 1734701239,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 217686,
       "num": 217686,
       "word": "韩国总统办公室警卫处与搜查人员对峙",
@@ -26251,6 +26315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209585,
+      "num": 209585,
+      "word": "孟子义说夏之光红气养人",
+      "onboard_time": 1734707239,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209559,
       "num": 209559,
       "word": "重庆棒棒父子14年后重返故地",
@@ -26945,6 +27017,14 @@
       "onboard_time": 1734661457,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205742,
+      "num": 205742,
+      "word": "张杰谈首部电影留下三个女儿声音",
+      "onboard_time": 1734707000,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 205709,
@@ -30675,14 +30755,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 190347,
-      "num": 190347,
-      "word": "晋江",
-      "onboard_time": 1734704779,
-      "rank": 32,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 190290,
       "num": 165196,
       "word": "九重紫放饭了",
@@ -30719,6 +30791,14 @@
       "num": 185867,
       "word": "楚乔传2 诸葛玥",
       "onboard_time": 1733465659,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190196,
+      "num": 190196,
+      "word": "丁禹兮把张新成逗笑了",
+      "onboard_time": 1734707300,
       "rank": 34,
       "category": "剧集"
     },
@@ -32249,6 +32329,14 @@
       "onboard_time": 1734001221,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 183708,
+      "num": 256520,
+      "word": "IU蚊子过敏",
+      "onboard_time": 1734705380,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 183632,
@@ -40907,14 +40995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147254,
-      "num": 235680,
-      "word": "高瀚宇朱嘉琦十指相扣",
-      "onboard_time": 1734705080,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147239,
       "num": 147239,
       "word": "一个人睡觉需要两个枕头",
@@ -41825,6 +41905,14 @@
       "onboard_time": 1734513501,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143160,
+      "num": 143160,
+      "word": "ive舞台",
+      "onboard_time": 1734705441,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 143129,
@@ -42969,6 +43057,14 @@
       "onboard_time": 1734259039,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138934,
+      "num": 231560,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138854,
@@ -44243,14 +44339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133894,
-      "num": 133894,
-      "word": "IU蚊子过敏",
-      "onboard_time": 1734705380,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133884,
       "num": 133884,
       "word": "制服Ditto",
@@ -44297,6 +44385,14 @@
       "onboard_time": 1733473101,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 133693,
+      "num": 133693,
+      "word": "花花学会了一边捂嘴一边掏兜",
+      "onboard_time": 1734705681,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133690,
@@ -46105,14 +46201,6 @@
       "onboard_time": 1733288421,
       "rank": 36,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 125447,
-      "num": 125447,
-      "word": "ive舞台",
-      "onboard_time": 1734705441,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 125372,
@@ -48619,6 +48707,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115072,
+      "num": 115072,
+      "word": "王鹤棣Bking赛道天赋型选手",
+      "onboard_time": 1734708140,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115056,
       "num": 115056,
       "word": "国乒今日再战罗马尼亚队",
@@ -50235,6 +50331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107238,
+      "num": 106828,
+      "word": "大奉打更人刘奕君领衔主演",
+      "onboard_time": 1734708140,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107235,
       "num": 69227,
       "word": "张艺兴此身分明了",
@@ -51801,6 +51905,14 @@
       "onboard_time": 1733744300,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98636,
+      "num": 243777,
+      "word": "张镇麟受伤",
+      "onboard_time": 1734706580,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 98550,
@@ -58195,6 +58307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61338,
+      "num": 133752,
+      "word": "福冈偶遇seventeen",
+      "onboard_time": 1734708020,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61300,
       "num": 341546,
       "word": "女童被老师砸伤母亲抗诉被驳回",
@@ -58947,6 +59067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 57357,
+      "num": 231366,
+      "word": "女子要求8旬父亲腾房被法院驳回",
+      "onboard_time": 1734706401,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57300,
       "num": 143913,
       "word": "山东舞蹈统考明确考生不得化妆",
@@ -59665,6 +59793,14 @@
       "onboard_time": 1733885118,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54014,
+      "num": 372683,
+      "word": "00后同学眼中35岁的唐尚珺",
+      "onboard_time": 1734707419,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53902,
@@ -61131,6 +61267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47892,
+      "num": 378323,
+      "word": "杨妞花感激养父家大娘帮她找家",
+      "onboard_time": 1734706340,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47840,
       "num": 412001,
       "word": "王一博真代言了剃须刀",
@@ -62203,6 +62347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 43820,
+      "num": 909045,
+      "word": "一组数据看澳门回归25周年",
+      "onboard_time": 1734703159,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43791,
       "num": 134612,
       "word": "诚C 努力我都有看到",
@@ -62729,14 +62881,6 @@
       "onboard_time": 1733397740,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 41707,
-      "num": 909045,
-      "word": "一组数据看澳门回归25周年",
-      "onboard_time": 1734703159,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41699,
@@ -66604,7 +66748,7 @@
     },
     {
       "raw_hot": 29270,
-      "num": 201918,
+      "num": 368343,
       "word": "猎罪图鉴2雨夜连环杀人事件",
       "onboard_time": 1734696018,
       "rank": 27,
