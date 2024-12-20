@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734658988632,
+  "endTime": 1734659985246,
   "band_list": [
     {
       "raw_hot": 1842510,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 991848,
-      "num": 170992,
+      "num": 228418,
       "word": "黄圣依杨子彻底分开过",
       "onboard_time": 1734651196,
       "rank": 32,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 805557,
-      "num": 258501,
+      "num": 261808,
       "word": "小米SU7坠崖一家四口安然无恙",
       "onboard_time": 1734649815,
       "rank": 16,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 654725,
-      "num": 255606,
+      "num": 261388,
       "word": "4岁孩子被妈妈打屁股致脊髓损伤",
       "onboard_time": 1734649815,
       "rank": 11,
@@ -147,6 +147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320494,
+      "num": 227635,
+      "word": "王源留子时期",
+      "onboard_time": 1734656839,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 315420,
+      "num": 260877,
+      "word": "小林给我一个橘子",
+      "onboard_time": 1734659237,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311534,
       "num": 311534,
       "word": "跨越25年的七子之歌",
@@ -164,51 +180,59 @@
     },
     {
       "raw_hot": 289327,
-      "num": 169802,
+      "num": 223088,
       "word": "95后女子鼻塞2个月一查竟是癌",
       "onboard_time": 1734652218,
       "rank": 23,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281543,
-      "num": 248540,
-      "word": "肖战举铁举的",
-      "onboard_time": 1734652218,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 259878,
-      "num": 259878,
-      "word": "1999年澳门回归新闻报道影像",
-      "onboard_time": 1734656657,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 259809,
-      "num": 169059,
-      "word": "王源留子时期",
-      "onboard_time": 1734656839,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 246832,
-      "num": 168769,
+      "raw_hot": 283515,
+      "num": 224792,
       "word": "为什么韩国人一年四季喝冰水",
       "onboard_time": 1734655279,
       "rank": 25,
       "category": "情感"
     },
     {
-      "raw_hot": 230713,
-      "num": 230713,
+      "raw_hot": 281543,
+      "num": 260200,
+      "word": "肖战举铁举的",
+      "onboard_time": 1734652218,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269928,
+      "num": 269928,
+      "word": "1999年澳门回归新闻报道影像",
+      "onboard_time": 1734656657,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 250572,
+      "num": 250572,
+      "word": "唐探1900",
+      "onboard_time": 1734658398,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 249397,
+      "num": 249397,
       "word": "19991220零时零分零秒",
       "onboard_time": 1734627135,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232815,
+      "num": 232815,
+      "word": "取消公摊后物业费税费咋算",
+      "onboard_time": 1734620360,
+      "rank": 27,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 227732,
@@ -219,6 +243,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 221658,
+      "num": 221658,
+      "word": "葛夕假性独立",
+      "onboard_time": 1734657498,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219787,
       "num": 148487,
       "word": "爸爸用离世妈妈的首饰给阿姨换金镯",
@@ -227,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 210429,
-      "num": 210429,
-      "word": "取消公摊后物业费税费咋算",
-      "onboard_time": 1734620360,
-      "rank": 27,
-      "category": "议题讨论"
+      "raw_hot": 209939,
+      "num": 209939,
+      "word": "LPR",
+      "onboard_time": 1734659237,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 201285,
@@ -241,14 +273,6 @@
       "onboard_time": 1734615080,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 199935,
-      "num": 167559,
-      "word": "葛夕假性独立",
-      "onboard_time": 1734657498,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 199547,
@@ -265,6 +289,14 @@
       "onboard_time": 1734621140,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196738,
+      "num": 232268,
+      "word": "现在拨打的电话",
+      "onboard_time": 1734654680,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 183366,
@@ -299,14 +331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172214,
-      "num": 172214,
-      "word": "现在拨打的电话",
-      "onboard_time": 1734654680,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170316,
       "num": 148436,
       "word": "越来越多年轻人开始反向消费",
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152713,
+      "num": 152713,
+      "word": "畸形追星行为或触犯哪些法律",
+      "onboard_time": 1734655999,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152414,
       "num": 152414,
       "word": "黑神话开挂玩家或超千万",
@@ -363,20 +395,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148314,
+      "num": 148314,
+      "word": "多件衣服莫名被割破竟是衣架肇事",
+      "onboard_time": 1734656238,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147942,
       "num": 147942,
       "word": "一人一句祝福祖国的掌上明珠",
       "onboard_time": 1734653118,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140840,
-      "num": 140840,
-      "word": "畸形追星行为或触犯哪些法律",
-      "onboard_time": 1734655999,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140751,
@@ -395,28 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135831,
-      "num": 135831,
-      "word": "多件衣服莫名被割破竟是衣架肇事",
-      "onboard_time": 1734656238,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133990,
       "num": 133990,
       "word": "周扬青粉色卡皮巴拉圣诞树",
       "onboard_time": 1734614660,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 132886,
-      "num": 171401,
-      "word": "唐探1900",
-      "onboard_time": 1734658398,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 132273,
@@ -473,6 +489,14 @@
       "onboard_time": 1734651557,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124318,
+      "num": 124318,
+      "word": "A股算力概念集体爆发",
+      "onboard_time": 1734659117,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 124194,
@@ -539,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104131,
+      "num": 104131,
+      "word": "推进取消公摊不要只看到拉动楼市",
+      "onboard_time": 1734621258,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103806,
       "num": 103806,
       "word": "黑神话修改器下载量破600万",
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96452,
+      "num": 96452,
+      "word": "九重紫 互为因果",
+      "onboard_time": 1734659956,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89757,
       "num": 89757,
       "word": "王一博无感歌词",
@@ -584,14 +624,6 @@
       "word": "男子开跑车进高校玩漂移压坏草坪",
       "onboard_time": 1734629114,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85071,
-      "num": 85071,
-      "word": "推进取消公摊不要只看到拉动楼市",
-      "onboard_time": 1734621258,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -729,6 +761,14 @@
       "onboard_time": 1734649815,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 48179,
+      "num": 229643,
+      "word": "官方通报市监局疑未到下班时间多人打饭",
+      "onboard_time": 1734659057,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 45376,
