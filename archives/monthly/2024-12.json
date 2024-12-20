@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734709039328,
+  "endTime": 1734712048055,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3092,7 +3092,7 @@
     },
     {
       "raw_hot": 1136839,
-      "num": 591147,
+      "num": 666423,
       "word": "丁禹兮cha虞书欣spicyhoney",
       "onboard_time": 1734707539,
       "rank": 3,
@@ -6683,6 +6683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727624,
+      "num": 727624,
+      "word": "晋江",
+      "onboard_time": 1734704779,
+      "rank": 32,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 727357,
       "num": 407606,
       "word": "堵车时闯绿灯属违法行为",
@@ -8585,6 +8593,14 @@
       "onboard_time": 1733561480,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 617572,
+      "num": 617572,
+      "word": "女孩意外坠海靠羽绒服漂浮自救",
+      "onboard_time": 1734708320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 617082,
@@ -10649,14 +10665,6 @@
       "onboard_time": 1733885180,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 524178,
-      "num": 524178,
-      "word": "晋江",
-      "onboard_time": 1734704779,
-      "rank": 32,
-      "category": "读书作家"
     },
     {
       "raw_hot": 524058,
@@ -13843,6 +13851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421081,
+      "num": 294511,
+      "word": "留几手炸裂",
+      "onboard_time": 1734707958,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420885,
       "num": 420885,
       "word": "运动瘦和饿瘦的区别",
@@ -15009,6 +15025,14 @@
       "onboard_time": 1734669141,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389615,
+      "num": 389615,
+      "word": "金店因金价爆涨拒发货赔15万差价",
+      "onboard_time": 1734709338,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 388899,
@@ -19075,6 +19099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297823,
+      "num": 229163,
+      "word": "虞书欣看杨仕泽cha的反应",
+      "onboard_time": 1734708740,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 297725,
       "num": 297725,
       "word": "小伙见女生被偷拍上前阻止遭殴打",
@@ -19321,14 +19353,6 @@
       "onboard_time": 1732970359,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294511,
-      "num": 294511,
-      "word": "留几手炸裂",
-      "onboard_time": 1734707958,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 294500,
@@ -19745,6 +19769,14 @@
       "onboard_time": 1733318422,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287097,
+      "num": 220458,
+      "word": "广外 nctwish",
+      "onboard_time": 1734708499,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 286716,
@@ -24851,6 +24883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 222299,
+      "num": 128745,
+      "word": "海底捞门店回应虾滑疑吃出蛆",
+      "onboard_time": 1734710297,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222087,
       "num": 247731,
       "word": "蔡明 黄圣依一点心眼都没有",
@@ -25233,14 +25273,6 @@
       "onboard_time": 1733275939,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 218127,
-      "num": 218127,
-      "word": "广外 nctwish",
-      "onboard_time": 1734708499,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 218063,
@@ -31867,6 +31899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186226,
+      "num": 186226,
+      "word": "KBS导播",
+      "onboard_time": 1734710357,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186223,
       "num": 242236,
       "word": "周冬雨看了三遍如父如子",
@@ -34169,14 +34209,6 @@
       "onboard_time": 1733143705,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174469,
-      "num": 174469,
-      "word": "虞书欣看杨仕泽cha的反应",
-      "onboard_time": 1734708740,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 174441,
@@ -41859,6 +41891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143797,
+      "num": 143797,
+      "word": "女子称住酒店凌晨一陌生男子站床前",
+      "onboard_time": 1734709580,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143689,
       "num": 631601,
       "word": "农村公路可以有多美",
@@ -43545,14 +43585,6 @@
       "onboard_time": 1733399720,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137228,
-      "num": 137228,
-      "word": "女孩意外坠海靠羽绒服漂浮自救",
-      "onboard_time": 1734708320,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137087,
@@ -54683,6 +54715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81975,
+      "num": 81975,
+      "word": "台湾青年打卡尔滨被圈粉了",
+      "onboard_time": 1734710540,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81924,
       "num": 109521,
       "word": "国乒赛后发布会也光速下班了",
@@ -54953,6 +54993,14 @@
       "onboard_time": 1733985380,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80684,
+      "num": 80684,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80661,
@@ -56297,6 +56345,14 @@
       "onboard_time": 1734199573,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72404,
+      "num": 150181,
+      "word": "福冈偶遇seventeen",
+      "onboard_time": 1734708020,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 72369,
@@ -58353,14 +58409,6 @@
       "onboard_time": 1733459781,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61338,
-      "num": 133752,
-      "word": "福冈偶遇seventeen",
-      "onboard_time": 1734708020,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 61300,
@@ -63907,6 +63955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38580,
+      "num": 128762,
+      "word": "熊孩子怒砸电视吓坏母亲",
+      "onboard_time": 1734711798,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38568,
       "num": 685202,
       "word": "迪丽热巴不再选择蜷缩",
@@ -64233,6 +64289,14 @@
       "onboard_time": 1734413660,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 37139,
+      "num": 157176,
+      "word": "北京男篮战胜辽宁男篮",
+      "onboard_time": 1734711917,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 37070,
