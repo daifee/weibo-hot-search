@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734659985246,
+  "endTime": 1734663231906,
   "band_list": [
     {
       "raw_hot": 4266097,
@@ -273,6 +273,14 @@
       "onboard_time": 1734359842,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1598757,
+      "num": 1598757,
+      "word": "年薪50万女士择偶标准百万到千万年薪",
+      "onboard_time": 1734661577,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1597841,
@@ -824,6 +832,14 @@
       "word": "女子去银行存370元竟全是假币",
       "onboard_time": 1734420500,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1018371,
+      "num": 205212,
+      "word": "长春一载孕妇小车坠入冰河超2天",
+      "onboard_time": 1734660318,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -2923,6 +2939,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 477781,
+      "num": 260877,
+      "word": "小林给我一个橘子",
+      "onboard_time": 1734659237,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476936,
       "num": 476936,
       "word": "疑似涉黄私人影院注册资本仅10万",
@@ -4019,6 +4043,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 353444,
+      "num": 353444,
+      "word": "大奉打更人宣发",
+      "onboard_time": 1734660556,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352988,
       "num": 352988,
       "word": "杨妞花说余华英听到死刑判决后流泪",
@@ -4315,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325295,
+      "num": 325295,
+      "word": "1999年澳门回归新闻报道影像",
+      "onboard_time": 1734656657,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324939,
       "num": 214286,
       "word": "吴昕爆料何炅切大小号催人出发",
@@ -4409,6 +4449,14 @@
       "onboard_time": 1734270319,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321239,
+      "num": 321239,
+      "word": "极越公关负责人被开除",
+      "onboard_time": 1734661879,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 321107,
@@ -4521,14 +4569,6 @@
       "onboard_time": 1734394339,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 315420,
-      "num": 260877,
-      "word": "小林给我一个橘子",
-      "onboard_time": 1734659237,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 314383,
@@ -4843,6 +4883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 283904,
+      "num": 197852,
+      "word": "官方通报市监局上班时间多人排队打饭",
+      "onboard_time": 1734660079,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 283831,
       "num": 345978,
       "word": "杭州一执勤女骑警神似贾静雯",
@@ -5091,20 +5139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271669,
+      "num": 196950,
+      "word": "倪萍说麦琳幸福得活该",
+      "onboard_time": 1734662119,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270254,
       "num": 270254,
       "word": "田曦薇方称逐玉绝对平番",
       "onboard_time": 1734396079,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269928,
-      "num": 269928,
-      "word": "1999年澳门回归新闻报道影像",
-      "onboard_time": 1734656657,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 269317,
@@ -5843,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227433,
+      "num": 227433,
+      "word": "网剧归棹定档",
+      "onboard_time": 1734662959,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227270,
       "num": 227270,
       "word": "奇妙国国",
@@ -6209,6 +6265,14 @@
       "onboard_time": 1734254659,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214685,
+      "num": 193836,
+      "word": "权志龙歌谣大战逆应援",
+      "onboard_time": 1734661277,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 214666,
@@ -8659,6 +8723,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 171622,
+      "num": 171622,
+      "word": "瞒着家人复读一年成功上岸",
+      "onboard_time": 1734661997,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171557,
       "num": 284332,
       "word": "李昀锐角色宿命感",
@@ -8987,6 +9059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166675,
+      "num": 180044,
+      "word": "救援人员回应载孕妇小车坠河2天",
+      "onboard_time": 1734661457,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166569,
       "num": 166569,
       "word": "李昀锐 封神训练营",
@@ -9011,6 +9091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166155,
+      "num": 166155,
+      "word": "畸形追星行为或触犯哪些法律",
+      "onboard_time": 1734655999,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166039,
       "num": 289332,
       "word": "小伙从湖北徒步到西藏后容貌大变",
@@ -9019,12 +9107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166035,
+      "num": 195722,
+      "word": "今天再唱刻在DNA里的中国人",
+      "onboard_time": 1734663077,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165978,
       "num": 185706,
       "word": "蔡徐坤Billboard首位中国区代表",
       "onboard_time": 1734405199,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165970,
+      "num": 185979,
+      "word": "九重紫 互为因果",
+      "onboard_time": 1734659956,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 165866,
@@ -9321,6 +9425,14 @@
       "onboard_time": 1734522980,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161708,
+      "num": 161708,
+      "word": "丁禹兮南部档案粉丝应援",
+      "onboard_time": 1734661637,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 161364,
@@ -9867,6 +9979,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 153628,
+      "num": 183945,
+      "word": "孟子义被李雪琴忽悠瘸了",
+      "onboard_time": 1734661457,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153448,
+      "num": 153448,
+      "word": "黄雨婷说有100度近视但不影响瞄准",
+      "onboard_time": 1734662596,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153402,
       "num": 153402,
       "word": "他好像摸了一下魔方就复原了",
@@ -9929,14 +10057,6 @@
       "onboard_time": 1734308779,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152713,
-      "num": 152713,
-      "word": "畸形追星行为或触犯哪些法律",
-      "onboard_time": 1734655999,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152553,
@@ -10771,6 +10891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 140276,
+      "num": 194226,
+      "word": "恋与制作人七周年",
+      "onboard_time": 1734662898,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140153,
       "num": 184967,
       "word": "北大天文学系吴月芳教授逝世",
@@ -10809,6 +10937,14 @@
       "onboard_time": 1734614960,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139378,
+      "num": 139378,
+      "word": "灰熊vs勇士",
+      "onboard_time": 1734661157,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 139333,
@@ -11403,6 +11539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131956,
+      "num": 131956,
+      "word": "一路繁花",
+      "onboard_time": 1734662718,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131916,
       "num": 131916,
       "word": "无论幼女是否同意均构成强奸罪",
@@ -11521,6 +11665,14 @@
       "onboard_time": 1734576438,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130480,
+      "num": 130480,
+      "word": "丫丫拿笋手滑了",
+      "onboard_time": 1734661757,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130228,
@@ -12619,6 +12771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "沈翊 黑足猫",
+      "onboard_time": 1734663197,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115505,
       "num": 115505,
       "word": "成都龙泉驿旧水塔拆除事故致1死",
@@ -13108,7 +13268,7 @@
     },
     {
       "raw_hot": 108765,
-      "num": 108765,
+      "num": 123568,
       "word": "澳门回归25年来的难忘点滴",
       "onboard_time": 1734657019,
       "rank": 43,
@@ -13865,14 +14025,6 @@
       "onboard_time": 1734509180,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96452,
-      "num": 96452,
-      "word": "九重紫 互为因果",
-      "onboard_time": 1734659956,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 96171,
@@ -16721,6 +16873,14 @@
       "onboard_time": 1734502399,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42812,
+      "num": 196055,
+      "word": "赵露思告黑获胜",
+      "onboard_time": 1734662959,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 42767,

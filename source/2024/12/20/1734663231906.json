@@ -1,0 +1,410 @@
+{
+  "runTime": 1734663231906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598757,
+        "num": 1598757,
+        "word": "年薪50万女士择偶标准百万到千万年薪",
+        "onboard_time": 1734661577,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1422434,
+        "num": 1422434,
+        "word": "小红书封号",
+        "onboard_time": 1734651856,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51401,
+        "num": 804818,
+        "word": "随手拍都好看的澳门骑楼有多出片",
+        "onboard_time": 1734614960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353444,
+        "num": 353444,
+        "word": "大奉打更人宣发",
+        "onboard_time": 1734660556,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326404,
+        "num": 326404,
+        "word": "气象人士呼吁南方人最近别天天洗澡",
+        "onboard_time": 1734624077,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325295,
+        "num": 325295,
+        "word": "1999年澳门回归新闻报道影像",
+        "onboard_time": 1734656657,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321239,
+        "num": 321239,
+        "word": "极越公关负责人被开除",
+        "onboard_time": 1734661879,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 227433,
+        "num": 227433,
+        "word": "网剧归棹定档",
+        "onboard_time": 1734662959,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212151,
+        "num": 212151,
+        "word": "跨越25年的七子之歌",
+        "onboard_time": 1734655279,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206756,
+        "num": 206756,
+        "word": "五星红旗与澳门区旗一同升起",
+        "onboard_time": 1734655279,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1018371,
+        "num": 205212,
+        "word": "长春一载孕妇小车坠入冰河超2天",
+        "onboard_time": 1734660318,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 591368,
+        "num": 204612,
+        "word": "小米SU7坠崖一家四口安然无恙",
+        "onboard_time": 1734649815,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477781,
+        "num": 201358,
+        "word": "小林给我一个橘子",
+        "onboard_time": 1734659237,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285637,
+        "num": 200329,
+        "word": "4岁孩子被妈妈打屁股致脊髓损伤",
+        "onboard_time": 1734649815,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283904,
+        "num": 197852,
+        "word": "官方通报市监局上班时间多人排队打饭",
+        "onboard_time": 1734660079,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 196983,
+        "num": 196983,
+        "word": "19991220零时零分零秒",
+        "onboard_time": 1734627135,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271669,
+        "num": 196950,
+        "word": "倪萍说麦琳幸福得活该",
+        "onboard_time": 1734662119,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221479,
+        "num": 196385,
+        "word": "肖战举铁举的",
+        "onboard_time": 1734652218,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42812,
+        "num": 196055,
+        "word": "赵露思告黑获胜",
+        "onboard_time": 1734662959,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166035,
+        "num": 195722,
+        "word": "今天再唱刻在DNA里的中国人",
+        "onboard_time": 1734663077,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 631901,
+        "num": 195421,
+        "word": "黄圣依杨子彻底分开过",
+        "onboard_time": 1734651196,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242611,
+        "num": 194842,
+        "word": "95后女子鼻塞2个月一查竟是癌",
+        "onboard_time": 1734652218,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216903,
+        "num": 194432,
+        "word": "王源留子时期",
+        "onboard_time": 1734656839,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140276,
+        "num": 194226,
+        "word": "恋与制作人七周年",
+        "onboard_time": 1734662898,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214685,
+        "num": 193836,
+        "word": "权志龙歌谣大战逆应援",
+        "onboard_time": 1734661277,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200381,
+        "num": 193291,
+        "word": "女子戴耳钉时突然失去意识倒地",
+        "onboard_time": 1734625517,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193249,
+        "num": 193249,
+        "word": "葛夕假性独立",
+        "onboard_time": 1734657498,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165970,
+        "num": 185979,
+        "word": "九重紫 互为因果",
+        "onboard_time": 1734659956,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153628,
+        "num": 183945,
+        "word": "孟子义被李雪琴忽悠瘸了",
+        "onboard_time": 1734661457,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139627,
+        "num": 183199,
+        "word": "唐探1900",
+        "onboard_time": 1734658398,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182554,
+        "num": 182554,
+        "word": "为什么韩国人一年四季喝冰水",
+        "onboard_time": 1734655279,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166675,
+        "num": 180044,
+        "word": "救援人员回应载孕妇小车坠河2天",
+        "onboard_time": 1734661457,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179336,
+        "num": 179336,
+        "word": "疑似李行亮已黑化",
+        "onboard_time": 1734617839,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171622,
+        "num": 171622,
+        "word": "瞒着家人复读一年成功上岸",
+        "onboard_time": 1734661997,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166155,
+        "num": 166155,
+        "word": "畸形追星行为或触犯哪些法律",
+        "onboard_time": 1734655999,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161708,
+        "num": 161708,
+        "word": "丁禹兮南部档案粉丝应援",
+        "onboard_time": 1734661637,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153448,
+        "num": 153448,
+        "word": "黄雨婷说有100度近视但不影响瞄准",
+        "onboard_time": 1734662596,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145358,
+        "num": 145358,
+        "word": "事业是一代接一代人干出来的",
+        "onboard_time": 1734652397,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144047,
+        "num": 144047,
+        "word": "女子暂不结婚朋友退还2000元份子钱",
+        "onboard_time": 1734619160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1255986,
+        "num": 142975,
+        "word": "被人说溜肩刘亦菲高情商回应",
+        "onboard_time": 1734656599,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "灰熊vs勇士",
+        "onboard_time": 1734661157,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131956,
+        "num": 131956,
+        "word": "一路繁花",
+        "onboard_time": 1734662718,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218519,
+        "num": 131522,
+        "word": "此刻的王力宏也是父母的骄傲",
+        "onboard_time": 1734655340,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130480,
+        "num": 130480,
+        "word": "丫丫拿笋手滑了",
+        "onboard_time": 1734661757,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130191,
+        "num": 130191,
+        "word": "普京称俄愿在乌克兰问题上妥协",
+        "onboard_time": 1734621678,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63620,
+        "num": 123568,
+        "word": "澳门回归25年来的难忘点滴",
+        "onboard_time": 1734657019,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121119,
+        "num": 121119,
+        "word": "LPR",
+        "onboard_time": 1734659237,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120713,
+        "num": 120713,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734654680,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118488,
+        "num": 118488,
+        "word": "黑神话开挂玩家或超千万",
+        "onboard_time": 1734657439,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115516,
+        "num": 115516,
+        "word": "沈翊 黑足猫",
+        "onboard_time": 1734663197,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席澳门之行#"
+    }
+  }
+}
