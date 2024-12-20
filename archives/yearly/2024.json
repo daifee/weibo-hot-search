@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1734669668880,
+  "endTime": 1734672097307,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -585,6 +585,14 @@
       "onboard_time": 1707812616,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14415589,
+      "num": 14415589,
+      "word": "袁记云饺已被立案调查",
+      "onboard_time": 1734667997,
+      "rank": 0,
+      "category": "舆论监督,美食"
     },
     {
       "raw_hot": 14208627,
@@ -1913,14 +1921,6 @@
       "onboard_time": 1710547951,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 9116648,
-      "num": 9116648,
-      "word": "袁记云饺已被立案调查",
-      "onboard_time": 1734667997,
-      "rank": 0,
-      "category": "舆论监督,美食"
     },
     {
       "raw_hot": 9102725,
