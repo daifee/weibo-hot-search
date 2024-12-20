@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 00:27:28
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 00:42:33
 </p>
 </blockquote>
 <p>
@@ -5751,6 +5751,12 @@ Angelababy逛香港熊猫馆（热度：704021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BA%97%E5%9B%A0%E9%87%91%E4%BB%B7%E7%88%86%E6%B6%A8%E6%8B%92%E5%8F%91%E8%B4%A7%E8%B5%9415%E4%B8%87%E5%B7%AE%E4%BB%B7%23" target="weibo">
+金店因金价爆涨拒发货赔15万差价（热度：667688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%90%83%E6%A7%9F%E6%A6%948%E5%B9%B4%E5%90%83%E6%88%90%E6%96%B9%E5%9D%97%E8%84%B8%23" target="weibo">
 小伙吃槟榔8年吃成方块脸（热度：667511）
 </a>
@@ -6005,12 +6011,6 @@ TF家族新年音乐会官宣（热度：655103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2390%E5%90%8E%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E8%AF%B4%E6%B0%B8%E8%BF%9C%E4%BC%9A%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 90后住家保姆说永远会把自己当外人（热度：648421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%BD%93%E9%87%8D%E5%8F%AA%E6%9C%8955kg%23" target="weibo">
-鹿晗体重只有55kg（热度：647969）
 </a>
 </li>
 
