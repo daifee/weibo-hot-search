@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734691242393,
+  "endTime": 1734693524759,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -67,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1028138,
+      "num": 1164502,
+      "word": "女子定宝马车称8年忘了提",
+      "onboard_time": 1734691579,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1018371,
       "num": 664044,
       "word": "长春一载孕妇小车坠入冰河超2天",
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 833377,
+      "num": 1129845,
+      "word": "上海的树已经开始绒里绒气了",
+      "onboard_time": 1734687979,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826450,
       "num": 451392,
       "word": "李冰冰 妈咪",
@@ -145,14 +161,6 @@
       "onboard_time": 1734684679,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 811531,
-      "num": 1129845,
-      "word": "上海的树已经开始绒里绒气了",
-      "onboard_time": 1734687979,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 805929,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676044,
+      "num": 676044,
+      "word": "黄景瑜喊话孙千八年了关注一下吧",
+      "onboard_time": 1734691639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674464,
       "num": 674464,
       "word": "倪萍说麦琳幸福得活该",
@@ -235,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627404,
+      "num": 627404,
+      "word": "爱情公寓5拍早了",
+      "onboard_time": 1734691938,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 605644,
       "num": 605644,
       "word": "向佐陪郭碧婷和孩子去迪士尼",
       "onboard_time": 1734664158,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601623,
+      "num": 601623,
+      "word": "余华建议年轻人多读无用的书",
+      "onboard_time": 1734687319,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 588674,
@@ -347,12 +379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447244,
+      "num": 340484,
+      "word": "猎罪图鉴萝莉姐竟是刘念",
+      "onboard_time": 1734690679,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432991,
       "num": 402337,
       "word": "白鹿杜莎蜡像",
       "onboard_time": 1734667939,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432955,
+      "num": 432955,
+      "word": "于适一袭红衣尽风华",
+      "onboard_time": 1734690919,
+      "rank": 40,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 429327,
@@ -531,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337446,
-      "num": 337446,
-      "word": "余华建议年轻人多读无用的书",
-      "onboard_time": 1734687319,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 335000,
       "num": 335000,
       "word": "朋友婚后3年返还2000元结婚礼金",
@@ -577,6 +617,14 @@
       "onboard_time": 1734679159,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308087,
+      "num": 162517,
+      "word": "韦世豪 广州队怎么过的准入",
+      "onboard_time": 1734692658,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 297260,
@@ -673,6 +721,14 @@
       "onboard_time": 1734670522,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 263640,
+      "num": 263640,
+      "word": "袁记云饺全国门店超4000家",
+      "onboard_time": 1734679818,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 263623,
@@ -779,6 +835,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 230254,
+      "num": 230254,
+      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+      "onboard_time": 1734690679,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227732,
       "num": 183710,
       "word": "一笑倾国已删除退网内容",
@@ -849,6 +913,14 @@
       "onboard_time": 1734665238,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 214259,
+      "num": 214259,
+      "word": "马清运要求马伯骞做顶流",
+      "onboard_time": 1734692238,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210175,
@@ -923,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205789,
-      "num": 205788,
-      "word": "袁记云饺全国门店超4000家",
-      "onboard_time": 1734679818,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 205756,
       "num": 205756,
       "word": "救援人员回应载孕妇小车坠河2天",
@@ -993,6 +1057,14 @@
       "onboard_time": 1734624497,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198087,
+      "num": 260629,
+      "word": "李秀满新女团叫A2OMAY",
+      "onboard_time": 1734692718,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 198064,
@@ -1107,12 +1179,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189313,
+      "num": 258125,
+      "word": "曝琼瑶男主将在湖南卫视跨年合体",
+      "onboard_time": 1734692658,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186488,
       "num": 202492,
       "word": "张天爱 粉丝送的喜糖",
       "onboard_time": 1734684259,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185783,
+      "num": 185783,
+      "word": "大奉打更人预告",
+      "onboard_time": 1734692298,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 185033,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1734663318,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179659,
+      "num": 188793,
+      "word": "七子之歌",
+      "onboard_time": 1734677298,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179410,
@@ -1233,14 +1329,6 @@
       "onboard_time": 1734686119,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173385,
-      "num": 188793,
-      "word": "七子之歌",
-      "onboard_time": 1734677298,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173212,
@@ -1323,6 +1411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167470,
+      "num": 167470,
+      "word": "谁懂金晨两次演被骗的反差感",
+      "onboard_time": 1734691759,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166046,
       "num": 166046,
       "word": "上海体育局发声",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1734665838,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162247,
+      "num": 162247,
+      "word": "虞书欣歌词内核",
+      "onboard_time": 1734691878,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 161758,
@@ -1563,14 +1667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147034,
-      "num": 147034,
-      "word": "猎罪图鉴萝莉姐竟是刘念",
-      "onboard_time": 1734690679,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146886,
       "num": 207125,
       "word": "林高远没有退出国乒",
@@ -1611,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142807,
-      "num": 173322,
-      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
-      "onboard_time": 1734690679,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "九重紫",
@@ -1640,6 +1728,14 @@
       "word": "女子报假警破门抓出轨男友",
       "onboard_time": 1734605838,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140665,
+      "num": 140665,
+      "word": "西昌学生坠亡事件2人被治安处罚",
+      "onboard_time": 1734691639,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -1707,12 +1803,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132359,
+      "num": 158972,
+      "word": "孔子发博祝福考研考生",
+      "onboard_time": 1734690738,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132273,
       "num": 132273,
       "word": "布林肯承认美在伊朗搞政权更迭实验",
       "onboard_time": 1734639071,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132118,
+      "num": 132118,
+      "word": "说起骑射于适的眼睛亮了",
+      "onboard_time": 1734690498,
+      "rank": 45,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 132025,
@@ -1793,14 +1905,6 @@
       "onboard_time": 1734669742,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128607,
-      "num": 128607,
-      "word": "于适一袭红衣尽风华",
-      "onboard_time": 1734690919,
-      "rank": 40,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 127095,
@@ -1923,12 +2027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120812,
-      "num": 115789,
-      "word": "说起骑射于适的眼睛亮了",
-      "onboard_time": 1734690498,
-      "rank": 45,
-      "category": "艺人,体育"
+      "raw_hot": 120574,
+      "num": 324832,
+      "word": "多地回应取消公摊并非不计公摊",
+      "onboard_time": 1734690199,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119996,
@@ -2035,6 +2139,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 110357,
+      "num": 110357,
+      "word": "权志龙 还是年纪大的会疼人",
+      "onboard_time": 1734693438,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110166,
       "num": 205799,
       "word": "贪官当甩手掌柜上午补觉下午健身",
@@ -2067,6 +2179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108138,
+      "num": 222056,
+      "word": "黑神话为Steam大奖拉票",
+      "onboard_time": 1734691579,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107935,
       "num": 212239,
       "word": "詹姆斯一天两个历史第一",
@@ -2096,6 +2216,14 @@
       "word": "领养猫咪花1.4万后拒付猫贷被告",
       "onboard_time": 1734685339,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105178,
+      "num": 105178,
+      "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
+      "onboard_time": 1734693197,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2275,14 +2403,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84297,
-      "num": 324832,
-      "word": "多地回应取消公摊并非不计公摊",
-      "onboard_time": 1734690199,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83680,
       "num": 93048,
       "word": "这届年轻人把家政业干出了花",
@@ -2451,14 +2571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67285,
-      "num": 158972,
-      "word": "孔子发博祝福考研考生",
-      "onboard_time": 1734690738,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 66747,
       "num": 66747,
       "word": "时装男士声明",
@@ -2529,6 +2641,22 @@
       "onboard_time": 1734685879,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62332,
+      "num": 266367,
+      "word": "韩国游客中国行爆火带动韩语地陪",
+      "onboard_time": 1734692599,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62310,
+      "num": 251902,
+      "word": "每个月至少要在公园待够5小时",
+      "onboard_time": 1734692839,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61830,
@@ -2867,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39745,
+      "num": 133909,
+      "word": "杨紫工作室维权进展",
+      "onboard_time": 1734692118,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39486,
       "num": 40367,
       "word": "探索新境展现人与心境的坦诚对话",
@@ -2980,7 +3116,7 @@
     },
     {
       "raw_hot": 28803,
-      "num": 159727,
+      "num": 249476,
       "word": "荣耀Magic7长焦下的港珠澳大桥",
       "onboard_time": 1734690440,
       "rank": 27,
