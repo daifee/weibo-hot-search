@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734701212271,
+  "endTime": 1734701887045,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1965907,
-      "num": 318872,
+      "num": 396872,
       "word": "留几手疑似骗婚",
       "onboard_time": 1734697758,
       "rank": 10,
@@ -67,6 +67,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1170136,
+      "num": 1187221,
+      "word": "工人不慎把剪刀从15楼碰掉了",
+      "onboard_time": 1734699918,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1144327,
+      "num": 1171407,
+      "word": "于适骑射比赛输给殷世航",
+      "onboard_time": 1734696918,
+      "rank": 6,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1097235,
       "num": 1097235,
       "word": "爱情公寓5拍早了",
@@ -81,14 +97,6 @@
       "onboard_time": 1734685879,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1071295,
-      "num": 1171407,
-      "word": "于适骑射比赛输给殷世航",
-      "onboard_time": 1734696918,
-      "rank": 6,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1063195,
@@ -299,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 627928,
-      "num": 627928,
-      "word": "工人不慎把剪刀从15楼碰掉了",
-      "onboard_time": 1734699918,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 605644,
       "num": 605644,
       "word": "向佐陪郭碧婷和孩子去迪士尼",
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 602594,
-      "num": 317930,
+      "num": 395979,
       "word": "aespa好辣",
       "onboard_time": 1734699799,
       "rank": 11,
@@ -491,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 410445,
+      "num": 410445,
+      "word": "澳门",
+      "onboard_time": 1734664398,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 401646,
       "num": 401646,
       "word": "普京称俄愿在乌克兰问题上妥协",
@@ -513,6 +521,14 @@
       "onboard_time": 1734655279,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 392172,
+      "num": 392172,
+      "word": "爱情公寓6",
+      "onboard_time": 1734701119,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 391449,
@@ -681,14 +697,6 @@
       "onboard_time": 1734695119,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328098,
-      "num": 328098,
-      "word": "澳门",
-      "onboard_time": 1734664398,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 321635,
@@ -915,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241709,
+      "num": 241709,
+      "word": "陈都灵 仙感",
+      "onboard_time": 1734700639,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239984,
       "num": 239984,
       "word": "周深世巡官宣",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1734693918,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214818,
+      "num": 214818,
+      "word": "孙千回复黄景瑜",
+      "onboard_time": 1734698958,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 214259,
@@ -1203,20 +1227,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 200933,
-      "num": 200933,
-      "word": "陈都灵 仙感",
-      "onboard_time": 1734700639,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199547,
       "num": 260046,
       "word": "猎罪图鉴是得罪图鉴吧",
       "onboard_time": 1734624497,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198927,
+      "num": 198927,
+      "word": "金世佳 俩娃压垮老艺术家",
+      "onboard_time": 1734701479,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198064,
@@ -1379,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186766,
-      "num": 186766,
-      "word": "孙千回复黄景瑜",
-      "onboard_time": 1734698958,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186709,
       "num": 186709,
       "word": "考研是在和18岁的自己和解",
@@ -1507,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175312,
+      "num": 175312,
+      "word": "黄圣依下意识的还爱着",
+      "onboard_time": 1734700759,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175228,
       "num": 175228,
       "word": "黄雨婷说有100度近视但不影响瞄准",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1734663378,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 169985,
-      "num": 169985,
-      "word": "黄圣依下意识的还爱着",
-      "onboard_time": 1734700759,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 169660,
@@ -1731,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160170,
+      "num": 320676,
+      "word": "学校悄悄给我转钱了",
+      "onboard_time": 1734699979,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160082,
       "num": 160082,
       "word": "向太 内涵",
@@ -1803,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155482,
+      "num": 155482,
+      "word": "这段唱了25年的旋律让人泪目",
+      "onboard_time": 1734701239,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 155427,
       "num": 211074,
       "word": "火星情报局7定档",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1734698838,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151300,
+      "num": 151300,
+      "word": "KBS节目单",
+      "onboard_time": 1734700879,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 150741,
@@ -1939,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145086,
-      "num": 320676,
-      "word": "学校悄悄给我转钱了",
-      "onboard_time": 1734699979,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144771,
       "num": 144771,
       "word": "原神前瞻",
@@ -1979,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143532,
-      "num": 143532,
-      "word": "爱情公寓6",
-      "onboard_time": 1734701119,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "九重紫",
@@ -2001,14 +2025,6 @@
       "onboard_time": 1734666379,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 141916,
-      "num": 136686,
-      "word": "KBS节目单",
-      "onboard_time": 1734700879,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 140751,
@@ -2049,6 +2065,30 @@
       "onboard_time": 1734661157,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139337,
+      "num": 139337,
+      "word": "被尔滨的冰封玫瑰惊艳到了",
+      "onboard_time": 1734701239,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 138727,
+      "num": 219690,
+      "word": "孟子义回应自己路人缘变好",
+      "onboard_time": 1734700519,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138626,
+      "num": 241068,
+      "word": "原神玛薇卡",
+      "onboard_time": 1734701778,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 137244,
@@ -2219,6 +2259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126992,
+      "num": 209742,
+      "word": "梁王组合总结2024",
+      "onboard_time": 1734701059,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126673,
       "num": 126673,
       "word": "缘之空登陆Steam",
@@ -2329,14 +2377,6 @@
       "onboard_time": 1734674300,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121983,
-      "num": 209742,
-      "word": "梁王组合总结2024",
-      "onboard_time": 1734701059,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 120828,
@@ -2595,6 +2635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99651,
+      "num": 271334,
+      "word": "易烊千玺刘春和在线等挺急的",
+      "onboard_time": 1734700459,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97978,
       "num": 97978,
       "word": "考研前一天要给朋友发祝福吗",
@@ -2795,6 +2843,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 78313,
+      "num": 313316,
+      "word": "男子醉驾老头乐肇事未被追究刑责",
+      "onboard_time": 1734700819,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77548,
       "num": 77548,
       "word": "王者荣耀重度依赖头像框",
@@ -2849,6 +2905,14 @@
       "onboard_time": 1734685518,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72815,
+      "num": 270214,
+      "word": "女子网购6克黄金变2000克",
+      "onboard_time": 1734701719,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71190,
@@ -2979,14 +3043,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 64123,
-      "num": 219690,
-      "word": "孟子义回应自己路人缘变好",
-      "onboard_time": 1734700519,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63622,
       "num": 352035,
       "word": "楼市止跌回稳初见成效",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1734638891,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57427,
+      "num": 398550,
+      "word": "吃一碗安全的饺子不能像开盲盒",
+      "onboard_time": 1734701299,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 56267,
@@ -3219,14 +3283,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 48877,
-      "num": 219807,
-      "word": "易烊千玺刘春和在线等挺急的",
-      "onboard_time": 1734700459,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 48179,
       "num": 229643,
       "word": "官方通报市监局疑未到下班时间多人打饭",
@@ -3268,7 +3324,7 @@
     },
     {
       "raw_hot": 46208,
-      "num": 789457,
+      "num": 927685,
       "word": "澳门一场话剧能说3种语言",
       "onboard_time": 1734684560,
       "rank": 30,
@@ -3323,11 +3379,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43126,
-      "num": 313316,
-      "word": "男子醉驾老头乐肇事未被追究刑责",
-      "onboard_time": 1734700819,
-      "rank": 14,
+      "raw_hot": 43164,
+      "num": 269733,
+      "word": "潜逃前山西首富拖欠留英学生押金",
+      "onboard_time": 1734700339,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3369,14 +3425,6 @@
       "onboard_time": 1734695058,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 41398,
-      "num": 224434,
-      "word": "潜逃前山西首富拖欠留英学生押金",
-      "onboard_time": 1734700339,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41005,
@@ -3483,6 +3531,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 36039,
+      "num": 268842,
+      "word": "徐明浩好像在给我做年末汇报",
+      "onboard_time": 1734701778,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35547,
       "num": 231425,
       "word": "男子不赡养父母被法院判决返还遗产",
@@ -3516,7 +3572,7 @@
     },
     {
       "raw_hot": 33561,
-      "num": 160191,
+      "num": 200387,
       "word": "第一次用破碎感形容超人",
       "onboard_time": 1734700159,
       "rank": 41,
@@ -3816,6 +3872,14 @@
       "word": "广州首条地铁环线来了",
       "onboard_time": 1734639910,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14348,
+      "num": 214948,
+      "word": "被质疑擦边恒源祥女主播已更换衣服",
+      "onboard_time": 1734701538,
+      "rank": 28,
       "category": "民生新闻"
     },
     {

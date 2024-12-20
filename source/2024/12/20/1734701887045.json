@@ -1,0 +1,410 @@
+{
+  "runTime": 1734701887045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1170136,
+        "num": 1187221,
+        "word": "工人不慎把剪刀从15楼碰掉了",
+        "onboard_time": 1734699918,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1144327,
+        "num": 1144327,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 1,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 28750,
+        "num": 927685,
+        "word": "澳门一场话剧能说3种语言",
+        "onboard_time": 1734684560,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 722509,
+        "num": 722509,
+        "word": "爱情公寓5拍早了",
+        "onboard_time": 1734691938,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702519,
+        "num": 702519,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437609,
+        "num": 437609,
+        "word": "袁记云饺道歉",
+        "onboard_time": 1734695479,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 703039,
+        "num": 434223,
+        "word": "黄圣依最强大脑路透 高知感",
+        "onboard_time": 1734698658,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606885,
+        "num": 433363,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410445,
+        "num": 410445,
+        "word": "澳门",
+        "onboard_time": 1734664398,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 57427,
+        "num": 398550,
+        "word": "吃一碗安全的饺子不能像开盲盒",
+        "onboard_time": 1734701299,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1799280,
+        "num": 396872,
+        "word": "留几手疑似骗婚",
+        "onboard_time": 1734697758,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600884,
+        "num": 395979,
+        "word": "aespa好辣",
+        "onboard_time": 1734699799,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 392172,
+        "num": 392172,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391528,
+        "num": 391528,
+        "word": "于适一袭红衣尽风华",
+        "onboard_time": 1734690919,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 78313,
+        "num": 304906,
+        "word": "男子醉驾老头乐肇事未被追究刑责",
+        "onboard_time": 1734700819,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271877,
+        "num": 271877,
+        "word": "王鹤棣直播",
+        "onboard_time": 1734697158,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99651,
+        "num": 271334,
+        "word": "易烊千玺刘春和在线等挺急的",
+        "onboard_time": 1734700459,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10062,
+        "num": 270575,
+        "word": "2024新浪新闻年终策划",
+        "onboard_time": 1734699378,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72815,
+        "num": 270214,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43164,
+        "num": 269733,
+        "word": "潜逃前山西首富拖欠留英学生押金",
+        "onboard_time": 1734700339,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36039,
+        "num": 268842,
+        "word": "徐明浩好像在给我做年末汇报",
+        "onboard_time": 1734701778,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268500,
+        "num": 268500,
+        "word": "原神",
+        "onboard_time": 1734695119,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241709,
+        "num": 241709,
+        "word": "陈都灵 仙感",
+        "onboard_time": 1734700639,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138626,
+        "num": 241068,
+        "word": "原神玛薇卡",
+        "onboard_time": 1734701778,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240993,
+        "num": 240993,
+        "word": "哈尔滨冰雪大世界滑梯一看一个不吱声",
+        "onboard_time": 1734694578,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234798,
+        "num": 234798,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221108,
+        "num": 221108,
+        "word": "孔雪儿九重紫新婚夜被家暴",
+        "onboard_time": 1734693678,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138727,
+        "num": 215557,
+        "word": "孟子义回应自己路人缘变好",
+        "onboard_time": 1734700519,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14348,
+        "num": 214948,
+        "word": "被质疑擦边恒源祥女主播已更换衣服",
+        "onboard_time": 1734701538,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214818,
+        "num": 214818,
+        "word": "孙千回复黄景瑜",
+        "onboard_time": 1734698958,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205430,
+        "num": 205430,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28354,
+        "num": 200387,
+        "word": "第一次用破碎感形容超人",
+        "onboard_time": 1734700159,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198927,
+        "num": 198927,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194666,
+        "num": 194666,
+        "word": "韦世豪 广州队怎么过的准入",
+        "onboard_time": 1734692658,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186094,
+        "num": 186094,
+        "word": "百兽 我不配做职业选手",
+        "onboard_time": 1734695537,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126992,
+        "num": 176983,
+        "word": "梁王组合总结2024",
+        "onboard_time": 1734701059,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176357,
+        "num": 176357,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 176173,
+        "word": "刘星鼠标假扮情侣 李行亮麦琳",
+        "onboard_time": 1734698958,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175312,
+        "num": 175312,
+        "word": "黄圣依下意识的还爱着",
+        "onboard_time": 1734700759,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166875,
+        "num": 166875,
+        "word": "张杰电影",
+        "onboard_time": 1734699199,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163318,
+        "num": 163318,
+        "word": "考研是在和18岁的自己和解",
+        "onboard_time": 1734695658,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160170,
+        "num": 160170,
+        "word": "学校悄悄给我转钱了",
+        "onboard_time": 1734699979,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155482,
+        "num": 155482,
+        "word": "这段唱了25年的旋律让人泪目",
+        "onboard_time": 1734701239,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 151945,
+        "num": 151945,
+        "word": "包文婧二胎自然怀孕",
+        "onboard_time": 1734683898,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151300,
+        "num": 151300,
+        "word": "KBS节目单",
+        "onboard_time": 1734700879,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "女子110万抢2300克黄金商家拒发货",
+        "onboard_time": 1734687679,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144446,
+        "num": 144446,
+        "word": "原神前瞻",
+        "onboard_time": 1734700279,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140097,
+        "num": 140097,
+        "word": "原神 胡桃",
+        "onboard_time": 1734699080,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139337,
+        "num": 139337,
+        "word": "被尔滨的冰封玫瑰惊艳到了",
+        "onboard_time": 1734701239,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138639,
+        "num": 138639,
+        "word": "重庆一研究生凌晨出校失联超8天",
+        "onboard_time": 1734694038,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门一定能打开发展新天地#"
+    }
+  }
+}
