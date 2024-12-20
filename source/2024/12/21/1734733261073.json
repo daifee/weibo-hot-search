@@ -1,0 +1,410 @@
+{
+  "runTime": 1734733261073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 99380,
+        "num": 356178,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97960,
+        "num": 97960,
+        "word": "女子称住酒店凌晨一陌生男子站床前",
+        "onboard_time": 1734709580,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13256,
+        "num": 94412,
+        "word": "一组数据看澳门回归25周年",
+        "onboard_time": 1734703159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93192,
+        "num": 93192,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88365,
+        "num": 88365,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 69559,
+        "num": 69559,
+        "word": "普京表示茅台也有伏特加也有",
+        "onboard_time": 1734702739,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65723,
+        "num": 65723,
+        "word": "马方同意恢复搜索马航MH370航班",
+        "onboard_time": 1734717793,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49842,
+        "num": 65307,
+        "word": "尹恩惠40岁的状态",
+        "onboard_time": 1734707480,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48701,
+        "num": 64317,
+        "word": "银行姑娘和老人唠嗑后悄悄报警",
+        "onboard_time": 1734726251,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24097,
+        "num": 63459,
+        "word": "马英九强调两岸要共同铭记抗战历史",
+        "onboard_time": 1734730631,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142417,
+        "num": 62510,
+        "word": "留几手回应",
+        "onboard_time": 1734706340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103582,
+        "num": 62041,
+        "word": "男子离世房产留给妻儿未分9旬母亲",
+        "onboard_time": 1734711617,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90974,
+        "num": 61283,
+        "word": "吴奇隆好友出面曝光婚变真相",
+        "onboard_time": 1734702438,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60639,
+        "num": 60639,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52711,
+        "num": 52711,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67030,
+        "num": 51639,
+        "word": "留几手炸裂",
+        "onboard_time": 1734707958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49825,
+        "num": 49825,
+        "word": "高瀚宇朱嘉琦十指相扣",
+        "onboard_time": 1734705080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36040,
+        "num": 46740,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30256,
+        "num": 45834,
+        "word": "丁禹兮cha虞书欣spicyhoney",
+        "onboard_time": 1734707539,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28193,
+        "num": 45357,
+        "word": "窦昭怀的是小葡萄不是葡萄干",
+        "onboard_time": 1734706881,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45015,
+        "num": 45015,
+        "word": "工人不慎把剪刀从15楼碰掉了",
+        "onboard_time": 1734699918,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44490,
+        "num": 44490,
+        "word": "海底捞门店回应虾滑疑吃出蛆",
+        "onboard_time": 1734710297,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41766,
+        "num": 41766,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41629,
+        "num": 41629,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35736,
+        "num": 35736,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30866,
+        "num": 30866,
+        "word": "潜逃前山西首富在英购买大量房产",
+        "onboard_time": 1734706759,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28992,
+        "num": 28992,
+        "word": "台湾青年打卡尔滨被圈粉了",
+        "onboard_time": 1734710540,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27183,
+        "num": 28498,
+        "word": "肥妈45岁才能说自己是中国人",
+        "onboard_time": 1734728951,
+        "rank": 27,
+        "category": "综艺,国内时政"
+      },
+      {
+        "raw_hot": 24739,
+        "num": 28469,
+        "word": "黄圣依最强大脑路透 高知感",
+        "onboard_time": 1734698658,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23674,
+        "num": 28466,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 28464,
+        "num": 28464,
+        "word": "央视新闻联播报道冯骥汇报",
+        "onboard_time": 1734706822,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28040,
+        "num": 28040,
+        "word": "北方人对饺子到底有多少执念",
+        "onboard_time": 1734716593,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27198,
+        "num": 27198,
+        "word": "女孩意外坠海靠羽绒服漂浮自救",
+        "onboard_time": 1734708320,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26555,
+        "num": 26555,
+        "word": "熊孩子怒砸电视吓坏母亲",
+        "onboard_time": 1734711798,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24125,
+        "num": 24125,
+        "word": "向佐晒一家四口照片称一生最爱",
+        "onboard_time": 1734716833,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21845,
+        "num": 21845,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20480,
+        "num": 20480,
+        "word": "外交部驳斥个别西方媒体造谣新疆辣椒",
+        "onboard_time": 1734730330,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20465,
+        "num": 20465,
+        "word": "乌克兰基辅传出密集爆炸声",
+        "onboard_time": 1734720731,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20406,
+        "num": 20406,
+        "word": "老人被骗交1.68万卖古董能得168万",
+        "onboard_time": 1734727930,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19433,
+        "num": 19433,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18340,
+        "num": 18340,
+        "word": "袁记云饺岂能扩大连锁却问题不断",
+        "onboard_time": 1734723850,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18209,
+        "num": 18209,
+        "word": "张杰电影",
+        "onboard_time": 1734699199,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18144,
+        "num": 18144,
+        "word": "失联研究生家人称其最后消失在长江边",
+        "onboard_time": 1734718993,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17958,
+        "num": 17958,
+        "word": "特朗普喊话欧盟",
+        "onboard_time": 1734720192,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17812,
+        "num": 17812,
+        "word": "又幸福了杭州",
+        "onboard_time": 1734715216,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 16957,
+        "num": 17808,
+        "word": "戈兰高地叙利亚居民遭到以军驱逐",
+        "onboard_time": 1734720613,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15860,
+        "num": 17800,
+        "word": "新疆种辣椒机械化美国还造谣强迫劳动",
+        "onboard_time": 1734725532,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15805,
+        "num": 17795,
+        "word": "原神",
+        "onboard_time": 1734695119,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14851,
+        "num": 17783,
+        "word": "外交部回应个别西方媒体专门造谣新疆",
+        "onboard_time": 1734729131,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14826,
+        "num": 17775,
+        "word": "普京直播连线收到250万个提问",
+        "onboard_time": 1734732132,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察驻澳门部队#"
+    }
+  }
+}
