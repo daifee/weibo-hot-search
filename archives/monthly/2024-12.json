@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734694548632,
+  "endTime": 1734698524165,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3491,6 +3491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1061436,
+      "num": 705836,
+      "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+      "onboard_time": 1734697519,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1060789,
       "num": 1169726,
       "word": "极越CEO发长文道歉",
@@ -4249,6 +4257,14 @@
       "onboard_time": 1733142205,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 956619,
+      "num": 279558,
+      "word": "留几手疑似骗婚",
+      "onboard_time": 1734697758,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 954483,
@@ -5825,6 +5841,14 @@
       "onboard_time": 1734139698,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 794798,
+      "num": 335815,
+      "word": "于适骑射比赛输给殷世航",
+      "onboard_time": 1734696918,
+      "rank": 6,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 794752,
@@ -7473,6 +7497,14 @@
       "onboard_time": 1733990361,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 671934,
+      "num": 671934,
+      "word": "袁记云饺道歉",
+      "onboard_time": 1734695479,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 671695,
@@ -14763,6 +14795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 391449,
+      "num": 291749,
+      "word": "孔雪儿九重紫新婚夜被家暴",
+      "onboard_time": 1734693678,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391370,
       "num": 479255,
       "word": "女子戴耳钉时突然失去意识倒地",
@@ -16913,6 +16953,14 @@
       "onboard_time": 1733220560,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338271,
+      "num": 338271,
+      "word": "百兽 我不配做职业选手",
+      "onboard_time": 1734695537,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 337993,
@@ -19107,6 +19155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294624,
+      "num": 294624,
+      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+      "onboard_time": 1734690679,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294569,
       "num": 294569,
       "word": "韩军士兵携带枪支空降国会",
@@ -19169,14 +19225,6 @@
       "onboard_time": 1734270140,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293311,
-      "num": 293311,
-      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
-      "onboard_time": 1734690679,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 293222,
@@ -20841,14 +20889,6 @@
       "onboard_time": 1733744061,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265559,
-      "num": 291749,
-      "word": "孔雪儿九重紫新婚夜被家暴",
-      "onboard_time": 1734693678,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 265501,
@@ -23531,6 +23571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231417,
+      "num": 231417,
+      "word": "王鹤棣直播",
+      "onboard_time": 1734697158,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231336,
       "num": 231336,
       "word": "韩国资产全线跳水",
@@ -24721,6 +24769,14 @@
       "onboard_time": 1733815759,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220980,
+      "num": 220980,
+      "word": "重庆一研究生凌晨出校失联超8天",
+      "onboard_time": 1734694038,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220963,
@@ -30419,6 +30475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190365,
+      "num": 190365,
+      "word": "徐明浩直播",
+      "onboard_time": 1734696018,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190353,
       "num": 110580,
       "word": "现在拨打的电话 以爱为营",
@@ -31161,6 +31225,14 @@
       "onboard_time": 1733785995,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187636,
+      "num": 187636,
+      "word": "檀健次 够了吗孩子",
+      "onboard_time": 1734694398,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 187599,
@@ -32355,6 +32427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 181387,
+      "num": 280248,
+      "word": "哈尔滨冰雪大世界滑梯一看一个不吱声",
+      "onboard_time": 1734694578,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181378,
       "num": 181378,
       "word": "斗罗2听劝重剪第一集",
@@ -32704,6 +32784,14 @@
       "word": "冬至先追夫后追妻",
       "onboard_time": 1734492800,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179861,
+      "num": 179861,
+      "word": "大奉打更人开年第一部爽剧",
+      "onboard_time": 1734694638,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -37387,6 +37475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159220,
+      "num": 159220,
+      "word": "张元英MC登场",
+      "onboard_time": 1734697939,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 159208,
       "num": 414537,
       "word": "这些数字是南京大屠杀的铁证",
@@ -40561,6 +40657,14 @@
       "onboard_time": 1733280079,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147306,
+      "num": 247731,
+      "word": "蔡明 黄圣依一点心眼都没有",
+      "onboard_time": 1734696078,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 147281,
@@ -43979,6 +44083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133440,
+      "num": 133440,
+      "word": "冬至 破镜重圆",
+      "onboard_time": 1734698239,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133425,
       "num": 133425,
       "word": "俄方回应泽连斯基开出的停火条件",
@@ -44289,6 +44401,14 @@
       "onboard_time": 1734687138,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132009,
+      "num": 132009,
+      "word": "张元英杂志",
+      "onboard_time": 1734696138,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131935,
@@ -47347,14 +47467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118812,
-      "num": 118812,
-      "word": "重庆一研究生凌晨出校失联超8天",
-      "onboard_time": 1734694038,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "长征十二号",
@@ -47785,6 +47897,14 @@
       "onboard_time": 1733906319,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116585,
+      "num": 116585,
+      "word": "今天澳门回归25周年",
+      "onboard_time": 1734694698,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 116578,
@@ -50232,14 +50352,6 @@
       "word": "柳智敏winter手机壳",
       "onboard_time": 1734306137,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 104970,
-      "num": 104970,
-      "word": "檀健次 够了吗孩子",
-      "onboard_time": 1734694398,
-      "rank": 44,
       "category": "艺人"
     },
     {
@@ -57011,6 +57123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65560,
+      "num": 231761,
+      "word": "重庆失联研究生家属发声",
+      "onboard_time": 1734696738,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65536,
       "num": 198064,
       "word": "傅首尔回应社交账号几乎停更",
@@ -57545,6 +57665,14 @@
       "onboard_time": 1733315603,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61983,
+      "num": 189184,
+      "word": "两个原因让公摊面积成了糊涂账",
+      "onboard_time": 1734696558,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61958,
@@ -60019,6 +60147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50540,
+      "num": 205248,
+      "word": "凯里教育局回应小学生脚踹女孩",
+      "onboard_time": 1734696798,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 50484,
       "num": 50484,
       "word": "邓紫棋湛江",
@@ -62171,6 +62307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41871,
+      "num": 206507,
+      "word": "2025考研明日开考",
+      "onboard_time": 1734695058,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41847,
       "num": 472467,
       "word": "他们不愿花1秒钟了解新疆的真相",
@@ -62425,6 +62569,14 @@
       "onboard_time": 1734390915,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40817,
+      "num": 120394,
+      "word": "考研饺饺者",
+      "onboard_time": 1734696798,
+      "rank": 46,
+      "category": "教育,美食"
     },
     {
       "raw_hot": 40797,
@@ -65859,6 +66011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29699,
+      "num": 231425,
+      "word": "男子不赡养父母被法院判决返还遗产",
+      "onboard_time": 1734697638,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29688,
       "num": 216584,
       "word": "vivoS20有自己的金色美学",
@@ -66955,6 +67115,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 25508,
+      "num": 206037,
+      "word": "杨紫维权案进展",
+      "onboard_time": 1734695058,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25485,
       "num": 131347,
       "word": "黑神话悟空更新挑战玩法",
@@ -67361,6 +67529,14 @@
       "onboard_time": 1734434059,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 24021,
+      "num": 203672,
+      "word": "特朗普上任后对人民币汇率影响几何",
+      "onboard_time": 1734697818,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 24009,
@@ -69265,6 +69441,14 @@
       "onboard_time": 1733343791,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16925,
+      "num": 204195,
+      "word": "专家谈野猪是否真已到泛滥地步",
+      "onboard_time": 1734697638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16895,
@@ -71505,6 +71689,14 @@
       "onboard_time": 1734197593,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8280,
+      "num": 158452,
+      "word": "懒人午餐肉薯条",
+      "onboard_time": 1734698357,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 8177,

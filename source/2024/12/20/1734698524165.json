@@ -1,0 +1,410 @@
+{
+  "runTime": 1734698524165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229178,
+        "num": 1229178,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1015739,
+        "num": 1015739,
+        "word": "爱情公寓5拍早了",
+        "onboard_time": 1734691938,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24949,
+        "num": 723111,
+        "word": "庆祝大会全场齐唱国歌",
+        "onboard_time": 1734686299,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1061436,
+        "num": 705836,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 671934,
+        "num": 671934,
+        "word": "袁记云饺道歉",
+        "onboard_time": 1734695479,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 338271,
+        "num": 338271,
+        "word": "百兽 我不配做职业选手",
+        "onboard_time": 1734695537,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 794798,
+        "num": 335815,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 294624,
+        "num": 294624,
+        "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+        "onboard_time": 1734690679,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280866,
+        "num": 280866,
+        "word": "喜茶袁记云饺被责令改正",
+        "onboard_time": 1734677059,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181387,
+        "num": 280248,
+        "word": "哈尔滨冰雪大世界滑梯一看一个不吱声",
+        "onboard_time": 1734694578,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 956619,
+        "num": 279558,
+        "word": "留几手疑似骗婚",
+        "onboard_time": 1734697758,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427151,
+        "num": 278950,
+        "word": "于适一袭红衣尽风华",
+        "onboard_time": 1734690919,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 391449,
+        "num": 278673,
+        "word": "孔雪儿九重紫新婚夜被家暴",
+        "onboard_time": 1734693678,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362767,
+        "num": 277585,
+        "word": "黄景瑜喊话孙千八年了关注一下吧",
+        "onboard_time": 1734691639,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283319,
+        "num": 277180,
+        "word": "李秀满新女团叫A2OMAY",
+        "onboard_time": 1734692718,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276882,
+        "num": 276882,
+        "word": "韦世豪 广州队怎么过的准入",
+        "onboard_time": 1734692658,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268432,
+        "num": 268432,
+        "word": "李冰冰 妈咪",
+        "onboard_time": 1734689179,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147306,
+        "num": 247731,
+        "word": "蔡明 黄圣依一点心眼都没有",
+        "onboard_time": 1734696078,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65560,
+        "num": 231761,
+        "word": "重庆失联研究生家属发声",
+        "onboard_time": 1734696738,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29699,
+        "num": 231425,
+        "word": "男子不赡养父母被法院判决返还遗产",
+        "onboard_time": 1734697638,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231417,
+        "num": 231417,
+        "word": "王鹤棣直播",
+        "onboard_time": 1734697158,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220980,
+        "num": 220980,
+        "word": "重庆一研究生凌晨出校失联超8天",
+        "onboard_time": 1734694038,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 216219,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207224,
+        "num": 207224,
+        "word": "上海的树已经开始绒里绒气了",
+        "onboard_time": 1734687979,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41871,
+        "num": 206507,
+        "word": "2025考研明日开考",
+        "onboard_time": 1734695058,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206081,
+        "num": 206081,
+        "word": "原神",
+        "onboard_time": 1734695119,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25508,
+        "num": 206037,
+        "word": "杨紫维权案进展",
+        "onboard_time": 1734695058,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50540,
+        "num": 205248,
+        "word": "凯里教育局回应小学生脚踹女孩",
+        "onboard_time": 1734696798,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16925,
+        "num": 204195,
+        "word": "专家谈野猪是否真已到泛滥地步",
+        "onboard_time": 1734697638,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24021,
+        "num": 203672,
+        "word": "特朗普上任后对人民币汇率影响几何",
+        "onboard_time": 1734697818,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203137,
+        "num": 203137,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190365,
+        "num": 190365,
+        "word": "徐明浩直播",
+        "onboard_time": 1734696018,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61983,
+        "num": 189184,
+        "word": "两个原因让公摊面积成了糊涂账",
+        "onboard_time": 1734696558,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188862,
+        "num": 188862,
+        "word": "袁记云饺全国门店超4000家",
+        "onboard_time": 1734679818,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 187636,
+        "num": 187636,
+        "word": "檀健次 够了吗孩子",
+        "onboard_time": 1734694398,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180457,
+        "num": 180457,
+        "word": "猎罪图鉴萝莉姐竟是刘念",
+        "onboard_time": 1734690679,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179861,
+        "num": 179861,
+        "word": "大奉打更人开年第一部爽剧",
+        "onboard_time": 1734694638,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165677,
+        "num": 165677,
+        "word": "包文婧二胎自然怀孕",
+        "onboard_time": 1734683898,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159220,
+        "num": 159220,
+        "word": "张元英MC登场",
+        "onboard_time": 1734697939,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 8280,
+        "num": 158452,
+        "word": "懒人午餐肉薯条",
+        "onboard_time": 1734698357,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158383,
+        "num": 158383,
+        "word": "女子110万抢2300克黄金商家拒发货",
+        "onboard_time": 1734687679,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144143,
+        "num": 144143,
+        "word": "中国商人在缅甸被绑妻子阻拦遭拖行",
+        "onboard_time": 1734693197,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139554,
+        "num": 139554,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133440,
+        "num": 133440,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132009,
+        "num": 132009,
+        "word": "张元英杂志",
+        "onboard_time": 1734696138,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "包文婧晒4月孕肚",
+        "onboard_time": 1734683298,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40817,
+        "num": 120394,
+        "word": "考研饺饺者",
+        "onboard_time": 1734696798,
+        "rank": 46,
+        "category": "教育,美食"
+      },
+      {
+        "raw_hot": 119566,
+        "num": 119566,
+        "word": "余华建议年轻人多读无用的书",
+        "onboard_time": 1734687319,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 116585,
+        "num": 116585,
+        "word": "今天澳门回归25周年",
+        "onboard_time": 1734694698,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109140,
+        "num": 109140,
+        "word": "大奉打更人定档",
+        "onboard_time": 1734684679,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见澳门特区行政长官岑浩辉#"
+    }
+  }
+}
