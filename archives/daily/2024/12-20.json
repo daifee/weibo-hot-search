@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734690210678,
+  "endTime": 1734691242393,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -131,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826450,
+      "num": 451392,
+      "word": "李冰冰 妈咪",
+      "onboard_time": 1734689179,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 826215,
       "num": 826215,
       "word": "大奉打更人定档",
       "onboard_time": 1734684679,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 811531,
+      "num": 1129845,
+      "word": "上海的树已经开始绒里绒气了",
+      "onboard_time": 1734687979,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 805929,
@@ -240,14 +256,6 @@
       "word": "小米su7掉落山崖",
       "onboard_time": 1734619820,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 583133,
-      "num": 583133,
-      "word": "上海的树已经开始绒里绒气了",
-      "onboard_time": 1734687979,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -475,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 362462,
-      "num": 451392,
-      "word": "李冰冰 妈咪",
-      "onboard_time": 1734689179,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 359934,
       "num": 359934,
       "word": "大奉打更人宣发",
@@ -529,6 +529,14 @@
       "onboard_time": 1734674239,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337446,
+      "num": 337446,
+      "word": "余华建议年轻人多读无用的书",
+      "onboard_time": 1734687319,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 335000,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256991,
+      "num": 423147,
+      "word": "马方称原则同意恢复MH370搜索",
+      "onboard_time": 1734687198,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255779,
       "num": 255779,
       "word": "潘辰太适合浪姐了",
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 255141,
-      "num": 265245,
+      "num": 282156,
       "word": "千万粉丝博主拍视频负债150万",
       "onboard_time": 1734685939,
       "rank": 27,
@@ -729,6 +745,14 @@
       "onboard_time": 1734670581,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234664,
+      "num": 284738,
+      "word": "网传邓为刘浩存出演风月不相关",
+      "onboard_time": 1734690259,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 232858,
@@ -937,14 +961,6 @@
       "onboard_time": 1734668419,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202328,
-      "num": 202328,
-      "word": "余华建议年轻人多读无用的书",
-      "onboard_time": 1734687319,
-      "rank": 41,
-      "category": "读书作家"
     },
     {
       "raw_hot": 201706,
@@ -1371,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160749,
+      "num": 204866,
+      "word": "马东锡宋小宝 非洲粉丝",
+      "onboard_time": 1734689299,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160082,
       "num": 160082,
       "word": "向太 内涵",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1734664938,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157652,
-      "num": 423147,
-      "word": "马方称原则同意恢复MH370搜索",
-      "onboard_time": 1734687198,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156928,
@@ -1443,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154150,
+      "num": 160739,
+      "word": "锤娜丽莎 开口跪",
+      "onboard_time": 1734689959,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153911,
       "num": 153911,
       "word": "考研热过去了吗",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1734661457,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153437,
+      "num": 279975,
+      "word": "窦昭宋墨磕cp偷感太重",
+      "onboard_time": 1734690559,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 152825,
@@ -1531,6 +1563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147034,
+      "num": 147034,
+      "word": "猎罪图鉴萝莉姐竟是刘念",
+      "onboard_time": 1734690679,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146886,
       "num": 207125,
       "word": "林高远没有退出国乒",
@@ -1569,6 +1609,14 @@
       "onboard_time": 1734672980,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142807,
+      "num": 173322,
+      "word": "曝光王楚钦隐私涉事医护被扣除奖金",
+      "onboard_time": 1734690679,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 142419,
@@ -1747,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128607,
+      "num": 128607,
+      "word": "于适一袭红衣尽风华",
+      "onboard_time": 1734690919,
+      "rank": 40,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 127095,
       "num": 127095,
       "word": "恋与我的白月光",
@@ -1867,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120812,
+      "num": 115789,
+      "word": "说起骑射于适的眼睛亮了",
+      "onboard_time": 1734690498,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 119996,
       "num": 119996,
       "word": "母女落水一群钓鱼佬出手了",
@@ -1881,14 +1945,6 @@
       "onboard_time": 1734679279,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 119000,
-      "num": 119000,
-      "word": "锤娜丽莎 开口跪",
-      "onboard_time": 1734689959,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 118399,
@@ -1977,14 +2033,6 @@
       "onboard_time": 1734676818,
       "rank": 12,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 110503,
-      "num": 204866,
-      "word": "马东锡宋小宝 非洲粉丝",
-      "onboard_time": 1734689299,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 110166,
@@ -2227,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84297,
+      "num": 324832,
+      "word": "多地回应取消公摊并非不计公摊",
+      "onboard_time": 1734690199,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83680,
       "num": 93048,
       "word": "这届年轻人把家政业干出了花",
@@ -2393,6 +2449,14 @@
       "onboard_time": 1734618859,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67285,
+      "num": 158972,
+      "word": "孔子发博祝福考研考生",
+      "onboard_time": 1734690738,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 66747,
@@ -2915,6 +2979,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 28803,
+      "num": 159727,
+      "word": "荣耀Magic7长焦下的港珠澳大桥",
+      "onboard_time": 1734690440,
+      "rank": 27,
+      "category": "数码,国内时政"
+    },
+    {
       "raw_hot": 28760,
       "num": 45561,
       "word": "灿烂的风和海",
@@ -3105,6 +3177,14 @@
       "onboard_time": 1734633132,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15705,
+      "num": 159056,
+      "word": "心电图正常也可能心梗",
+      "onboard_time": 1734690978,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15154,
