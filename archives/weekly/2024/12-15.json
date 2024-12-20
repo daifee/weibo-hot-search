@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734712953989,
+  "endTime": 1734715176449,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -7755,6 +7755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203836,
+      "num": 186226,
+      "word": "KBS导播",
+      "onboard_time": 1734710357,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 203804,
       "num": 203804,
       "word": "白敬亭回复宋亚轩",
@@ -9193,14 +9201,6 @@
       "onboard_time": 1734511280,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186226,
-      "num": 186226,
-      "word": "KBS导播",
-      "onboard_time": 1734710357,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 186124,
@@ -12571,6 +12571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140960,
+      "num": 177801,
+      "word": "台湾青年打卡尔滨被圈粉了",
+      "onboard_time": 1734710540,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140959,
       "num": 173943,
       "word": "iG官宣2024德杯大名单",
@@ -15484,7 +15492,7 @@
     },
     {
       "raw_hot": 107788,
-      "num": 107788,
+      "num": 174958,
       "word": "成都羊肉汤老师傅说多熬自然就白",
       "onboard_time": 1734708379,
       "rank": 48,
@@ -15889,6 +15897,14 @@
       "onboard_time": 1734569000,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102159,
+      "num": 92870,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102136,
@@ -16401,14 +16417,6 @@
       "onboard_time": 1734322220,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 92870,
-      "num": 92870,
-      "word": "男子离世房产留给妻儿未分9旬母亲",
-      "onboard_time": 1734711617,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92736,
@@ -16993,14 +17001,6 @@
       "onboard_time": 1734279737,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 81975,
-      "num": 81975,
-      "word": "台湾青年打卡尔滨被圈粉了",
-      "onboard_time": 1734710540,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81690,
@@ -18443,6 +18443,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57400,
+      "num": 128762,
+      "word": "熊孩子怒砸电视吓坏母亲",
+      "onboard_time": 1734711798,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57357,
       "num": 231366,
       "word": "女子要求8旬父亲腾房被法院驳回",
@@ -18881,14 +18889,6 @@
       "onboard_time": 1734476414,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51483,
-      "num": 128762,
-      "word": "熊孩子怒砸电视吓坏母亲",
-      "onboard_time": 1734711798,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51456,
@@ -19476,7 +19476,7 @@
     },
     {
       "raw_hot": 45184,
-      "num": 89574,
+      "num": 89705,
       "word": "高瀚宇 你们为什么等我男朋友",
       "onboard_time": 1734706519,
       "rank": 40,
@@ -22673,6 +22673,14 @@
       "onboard_time": 1734195495,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13682,
+      "num": 108094,
+      "word": "DRG晋级挑杯淘汰赛",
+      "onboard_time": 1734714375,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 13592,

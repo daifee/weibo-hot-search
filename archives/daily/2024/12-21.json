@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734712953989,
+  "endTime": 1734715176449,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -163,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203836,
+      "num": 186226,
+      "word": "KBS导播",
+      "onboard_time": 1734710357,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201099,
       "num": 201099,
       "word": "田曦薇穿紫色裙子为王鹤棣庆生",
       "onboard_time": 1734697519,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186226,
-      "num": 186226,
-      "word": "KBS导播",
-      "onboard_time": 1734710357,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 150076,
@@ -209,6 +209,14 @@
       "onboard_time": 1734698239,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140960,
+      "num": 177801,
+      "word": "台湾青年打卡尔滨被圈粉了",
+      "onboard_time": 1734710540,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128652,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112705,
+      "num": 112705,
+      "word": "庆祝澳门回归祖国25周年大会",
+      "onboard_time": 1734693918,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111526,
       "num": 111526,
       "word": "现在拨打的电话",
@@ -283,20 +299,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 108732,
-      "num": 108732,
-      "word": "庆祝澳门回归祖国25周年大会",
-      "onboard_time": 1734693918,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 107544,
       "num": 107544,
       "word": "IU蚊子过敏",
       "onboard_time": 1734705380,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102159,
+      "num": 92870,
+      "word": "男子离世房产留给妻儿未分9旬母亲",
+      "onboard_time": 1734711617,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98643,
@@ -331,28 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92870,
-      "num": 92870,
-      "word": "男子离世房产留给妻儿未分9旬母亲",
-      "onboard_time": 1734711617,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89290,
       "num": 82576,
       "word": "张杰电影",
       "onboard_time": 1734699199,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 81975,
-      "num": 81975,
-      "word": "台湾青年打卡尔滨被圈粉了",
-      "onboard_time": 1734710540,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 73038,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 66135,
-      "num": 66135,
+      "num": 174958,
       "word": "成都羊肉汤老师傅说多熬自然就白",
       "onboard_time": 1734708379,
       "rank": 49,
@@ -395,7 +395,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 51483,
+      "raw_hot": 57400,
       "num": 128762,
       "word": "熊孩子怒砸电视吓坏母亲",
       "onboard_time": 1734711798,
@@ -404,11 +404,19 @@
     },
     {
       "raw_hot": 45184,
-      "num": 89574,
+      "num": 89705,
       "word": "高瀚宇 你们为什么等我男朋友",
       "onboard_time": 1734706519,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43822,
+      "num": 51235,
+      "word": "黄圣依最强大脑路透 高知感",
+      "onboard_time": 1734698658,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 37139,
@@ -425,11 +433,22 @@
       "onboard_time": 1734703159,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13682,
+      "num": 108094,
+      "word": "DRG晋级挑杯淘汰赛",
+      "onboard_time": 1734714375,
+      "rank": 24,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
     {
       "word": "#澳门一定能打开发展新天地#"
+    },
+    {
+      "word": "#习近平视察驻澳门部队#"
     }
   ]
 }

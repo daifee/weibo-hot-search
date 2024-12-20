@@ -1,0 +1,410 @@
+{
+  "runTime": 1734715176449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667070,
+        "num": 667070,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470550,
+        "num": 470550,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20228,
+        "num": 439055,
+        "word": "一组数据看澳门回归25周年",
+        "onboard_time": 1734703159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422877,
+        "num": 422877,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 377658,
+        "num": 377658,
+        "word": "丁禹兮cha虞书欣spicyhoney",
+        "onboard_time": 1734707539,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196809,
+        "num": 196809,
+        "word": "女孩意外坠海靠羽绒服漂浮自救",
+        "onboard_time": 1734708320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254998,
+        "num": 193908,
+        "word": "尹恩惠40岁的状态",
+        "onboard_time": 1734707480,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182224,
+        "num": 182224,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140960,
+        "num": 177801,
+        "word": "台湾青年打卡尔滨被圈粉了",
+        "onboard_time": 1734710540,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54602,
+        "num": 174958,
+        "word": "成都羊肉汤老师傅说多熬自然就白",
+        "onboard_time": 1734708379,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 726763,
+        "num": 168000,
+        "word": "留几手回应",
+        "onboard_time": 1734706340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289252,
+        "num": 163641,
+        "word": "吴奇隆好友出面曝光婚变真相",
+        "onboard_time": 1734702438,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203836,
+        "num": 161235,
+        "word": "KBS导播",
+        "onboard_time": 1734710357,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156709,
+        "num": 156709,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144307,
+        "num": 144307,
+        "word": "央视新闻联播报道冯骥汇报",
+        "onboard_time": 1734706822,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271710,
+        "num": 141448,
+        "word": "留几手炸裂",
+        "onboard_time": 1734707958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174379,
+        "num": 138174,
+        "word": "高瀚宇朱嘉琦十指相扣",
+        "onboard_time": 1734705080,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170083,
+        "num": 131404,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161240,
+        "num": 126240,
+        "word": "虞书欣看杨仕泽cha的反应",
+        "onboard_time": 1734708740,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122687,
+        "num": 122687,
+        "word": "普京表示茅台也有伏特加也有",
+        "onboard_time": 1734702739,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230707,
+        "num": 119196,
+        "word": "海底捞门店回应虾滑疑吃出蛆",
+        "onboard_time": 1734710297,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115644,
+        "num": 115644,
+        "word": "女子称住酒店凌晨一陌生男子站床前",
+        "onboard_time": 1734709580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112705,
+        "num": 112705,
+        "word": "庆祝澳门回归祖国25周年大会",
+        "onboard_time": 1734693918,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110879,
+        "num": 110879,
+        "word": "广外 nctwish",
+        "onboard_time": 1734708499,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13682,
+        "num": 108094,
+        "word": "DRG晋级挑杯淘汰赛",
+        "onboard_time": 1734714375,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107841,
+        "num": 107841,
+        "word": "田曦薇穿紫色裙子为王鹤棣庆生",
+        "onboard_time": 1734697519,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101263,
+        "num": 101263,
+        "word": "窦昭怀的是小葡萄不是葡萄干",
+        "onboard_time": 1734706881,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99906,
+        "num": 99906,
+        "word": "女子定宝马车称8年忘了提",
+        "onboard_time": 1734691579,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98153,
+        "num": 98153,
+        "word": "于适一袭红衣尽风华",
+        "onboard_time": 1734690919,
+        "rank": 28,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 21306,
+        "num": 89705,
+        "word": "高瀚宇 你们为什么等我男朋友",
+        "onboard_time": 1734706519,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102159,
+        "num": 89479,
+        "word": "男子离世房产留给妻儿未分9旬母亲",
+        "onboard_time": 1734711617,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88476,
+        "num": 88476,
+        "word": "冬至 破镜重圆",
+        "onboard_time": 1734698239,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83864,
+        "num": 83864,
+        "word": "考研",
+        "onboard_time": 1734682578,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78502,
+        "num": 78502,
+        "word": "现在拨打的电话",
+        "onboard_time": 1734704660,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76561,
+        "num": 76561,
+        "word": "岑浩辉宣誓就任澳门行政长官",
+        "onboard_time": 1734665838,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71635,
+        "num": 71635,
+        "word": "被尔滨的冰封玫瑰惊艳到了",
+        "onboard_time": 1734701239,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 70313,
+        "num": 70313,
+        "word": "aespa好辣",
+        "onboard_time": 1734699799,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58028,
+        "num": 58028,
+        "word": "陈都灵 仙感",
+        "onboard_time": 1734700639,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57400,
+        "num": 57400,
+        "word": "熊孩子怒砸电视吓坏母亲",
+        "onboard_time": 1734711798,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55942,
+        "num": 55942,
+        "word": "澳门",
+        "onboard_time": 1734664398,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 55518,
+        "num": 55518,
+        "word": "张杰电影",
+        "onboard_time": 1734699199,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55159,
+        "num": 55159,
+        "word": "潜逃前山西首富在英购买大量房产",
+        "onboard_time": 1734706759,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54471,
+        "num": 54471,
+        "word": "国色芳华暂定1月9日播出",
+        "onboard_time": 1734708619,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51275,
+        "num": 51275,
+        "word": "孟子义说夏之光红气养人",
+        "onboard_time": 1734707239,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46078,
+        "num": 51272,
+        "word": "IU蚊子过敏",
+        "onboard_time": 1734705380,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45636,
+        "num": 51261,
+        "word": "张杰谈首部电影留下三个女儿声音",
+        "onboard_time": 1734707000,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43822,
+        "num": 51235,
+        "word": "黄圣依最强大脑路透 高知感",
+        "onboard_time": 1734698658,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43550,
+        "num": 51233,
+        "word": "一首壮志骄阳唱出少年力量",
+        "onboard_time": 1734703459,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 43074,
+        "num": 51221,
+        "word": "丁禹兮把张新成逗笑了",
+        "onboard_time": 1734707300,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42556,
+        "num": 51202,
+        "word": "工人不慎把剪刀从15楼碰掉了",
+        "onboard_time": 1734699918,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察驻澳门部队#"
+    }
+  }
+}
