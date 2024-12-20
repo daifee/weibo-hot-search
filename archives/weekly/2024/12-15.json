@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734726234779,
+  "endTime": 1734727018804,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -22811,6 +22811,22 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 14017,
+      "num": 22474,
+      "word": "银行姑娘和老人唠嗑后悄悄报警",
+      "onboard_time": 1734726251,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13930,
+      "num": 41993,
+      "word": "新疆种辣椒机械化美国还造谣强迫劳动",
+      "onboard_time": 1734725532,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13908,
       "num": 102243,
       "word": "Beidou GPS",
@@ -23008,14 +23024,6 @@
       "word": "心系澳门",
       "onboard_time": 1734639970,
       "rank": 46,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11948,
-      "num": 41993,
-      "word": "新疆种辣椒机械化美国还造谣强迫劳动",
-      "onboard_time": 1734725532,
-      "rank": 9,
       "category": "国内时政"
     },
     {
