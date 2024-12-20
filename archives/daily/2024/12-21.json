@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734723344267,
+  "endTime": 1734726234779,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -435,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48596,
+      "num": 48596,
+      "word": "袁记云饺岂能扩大连锁却问题不断",
+      "onboard_time": 1734723850,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46764,
       "num": 46764,
       "word": "殷世航骑射成绩",
@@ -587,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11948,
+      "num": 41993,
+      "word": "新疆种辣椒机械化美国还造谣强迫劳动",
+      "onboard_time": 1734725532,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11078,
       "num": 88167,
       "word": "朱婷12分助球队晋级四强",
@@ -633,6 +649,14 @@
       "onboard_time": 1734722831,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6177,
+      "num": 16864,
+      "word": "DRG战胜WST",
+      "onboard_time": 1734724872,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 5326,
