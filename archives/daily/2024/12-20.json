@@ -1,6 +1,6 @@
 {
   "startTime": 1734625617351,
-  "endTime": 1734684138255,
+  "endTime": 1734686602308,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1014413,
+      "num": 1014413,
+      "word": "网传王楚钦被医生暴露心电图等隐私",
+      "onboard_time": 1734683898,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 991848,
       "num": 334203,
       "word": "黄圣依杨子彻底分开过",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 953963,
-      "num": 256786,
+      "num": 342249,
       "word": "审判留几手",
       "onboard_time": 1734678679,
       "rank": 21,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633633,
+      "num": 345191,
+      "word": "包文婧晒4月孕肚",
+      "onboard_time": 1734683298,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 605644,
       "num": 605644,
       "word": "向佐陪郭碧婷和孩子去迪士尼",
@@ -193,6 +209,14 @@
       "onboard_time": 1734668359,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 588006,
+      "num": 588006,
+      "word": "大奉打更人定档",
+      "onboard_time": 1734684679,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 586095,
@@ -225,6 +249,14 @@
       "onboard_time": 1734666918,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 514874,
+      "num": 342688,
+      "word": "疑似张小斐代替贾玲拍摄",
+      "onboard_time": 1734685879,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 501433,
@@ -283,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 443950,
-      "num": 188545,
-      "word": "包文婧晒4月孕肚",
-      "onboard_time": 1734683298,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 432991,
       "num": 402337,
       "word": "白鹿杜莎蜡像",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 425672,
-      "num": 251924,
+      "num": 254464,
       "word": "网传一事业单位有249人报考去掏粪",
       "onboard_time": 1734678618,
       "rank": 31,
@@ -467,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322117,
+      "num": 322117,
+      "word": "医院回应医生疑暴露王楚钦病历",
+      "onboard_time": 1734683538,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321635,
       "num": 321635,
       "word": "何炅才是没放过黄磊的人",
@@ -596,10 +628,18 @@
     },
     {
       "raw_hot": 258248,
-      "num": 206555,
+      "num": 350711,
       "word": "麦琳 情绪稳定",
       "onboard_time": 1734681799,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255779,
+      "num": 255779,
+      "word": "潘辰太适合浪姐了",
+      "onboard_time": 1734683599,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -625,6 +665,30 @@
       "onboard_time": 1734670581,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238705,
+      "num": 238705,
+      "word": "张天爱",
+      "onboard_time": 1734683959,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235707,
+      "num": 235707,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 232858,
+      "num": 333704,
+      "word": "哈尔滨冰雪大世界今天官宣明天就开",
+      "onboard_time": 1734682939,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 232815,
@@ -739,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207977,
+      "num": 207977,
+      "word": "女子2年被家暴16次求判丈夫死刑",
+      "onboard_time": 1734683057,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207637,
       "num": 246496,
       "word": "大奉打更人易燃易笑角色海报",
@@ -809,14 +881,6 @@
       "onboard_time": 1734668419,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 203006,
-      "num": 203006,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 201706,
@@ -891,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194946,
-      "num": 185007,
-      "word": "女子2年被家暴16次求判丈夫死刑",
-      "onboard_time": 1734683057,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194567,
       "num": 194567,
       "word": "虞书欣首cha新歌",
@@ -921,6 +977,22 @@
       "onboard_time": 1734663077,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 192401,
+      "num": 322685,
+      "word": "贾玲被住家保姆激励学英语",
+      "onboard_time": 1734685638,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 192289,
+      "num": 237549,
+      "word": "千万粉丝博主拍视频负债150万",
+      "onboard_time": 1734685939,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 191976,
@@ -963,12 +1035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188925,
-      "num": 184723,
-      "word": "医院回应医生疑暴露王楚钦病历",
-      "onboard_time": 1734683538,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 186748,
+      "num": 186748,
+      "word": "包文婧二胎自然怀孕",
+      "onboard_time": 1734683898,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 185033,
@@ -1019,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179410,
+      "num": 179410,
+      "word": "于适 从CCTV6到CCTV5",
+      "onboard_time": 1734684619,
+      "rank": 37,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 177770,
       "num": 205797,
       "word": "孟子义的眼睛会爱人",
@@ -1067,12 +1147,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173605,
+      "num": 241974,
+      "word": "逆水寒",
+      "onboard_time": 1734686119,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173385,
       "num": 188793,
       "word": "七子之歌",
       "onboard_time": 1734677298,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173212,
+      "num": 173212,
+      "word": "冬至豹豹猫猫刚认识",
+      "onboard_time": 1734685158,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 172700,
@@ -1123,19 +1219,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169074,
-      "num": 169074,
-      "word": "哈尔滨冰雪大世界今天官宣明天就开",
-      "onboard_time": 1734682939,
-      "rank": 30,
-      "category": "旅游"
+      "raw_hot": 169122,
+      "num": 169122,
+      "word": "Hanni签证到期危机",
+      "onboard_time": 1734684318,
+      "rank": 39,
+      "category": "艺人"
     },
     {
-      "raw_hot": 167857,
-      "num": 167857,
-      "word": "张天爱",
-      "onboard_time": 1734683959,
-      "rank": 35,
+      "raw_hot": 168857,
+      "num": 168857,
+      "word": "spicyhoneychallenge挑战",
+      "onboard_time": 1734685819,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167329,
+      "num": 167329,
+      "word": "张天爱 粉丝送的喜糖",
+      "onboard_time": 1734684259,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1267,12 +1371,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153417,
-      "num": 153417,
-      "word": "包文婧二胎自然怀孕",
-      "onboard_time": 1734683898,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 153560,
+      "num": 339816,
+      "word": "互联网平台企业涉税信息报送规定征求意见",
+      "onboard_time": 1734685998,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152825,
@@ -1305,14 +1409,6 @@
       "onboard_time": 1734682219,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 149290,
-      "num": 149290,
-      "word": "网传王楚钦被医生暴露心电图等隐私",
-      "onboard_time": 1734683898,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 148786,
@@ -1387,20 +1483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142351,
+      "num": 142351,
+      "word": "专家称基因检测不一定生出健康孩子",
+      "onboard_time": 1734682578,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142096,
       "num": 142096,
       "word": "明天考研",
       "onboard_time": 1734666379,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140753,
-      "num": 140753,
-      "word": "专家称基因检测不一定生出健康孩子",
-      "onboard_time": 1734682578,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140751,
@@ -1481,6 +1577,14 @@
       "onboard_time": 1734677120,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 131817,
+      "num": 131817,
+      "word": "香飘飘首家线下店9元一杯奶茶",
+      "onboard_time": 1734686478,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 131723,
@@ -1843,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99956,
+      "num": 337224,
+      "word": "领养猫咪花1.4万后拒付猫贷被告",
+      "onboard_time": 1734685339,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97978,
       "num": 97978,
       "word": "考研前一天要给朋友发祝福吗",
@@ -2051,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73169,
+      "num": 236725,
+      "word": "Zeus获LCK年度最佳选手提名",
+      "onboard_time": 1734685518,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71190,
       "num": 71190,
       "word": "星光大赏星光墙榜单前五",
@@ -2081,6 +2201,14 @@
       "onboard_time": 1734614960,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68834,
+      "num": 355864,
+      "word": "新规遏制少数大主播偷税行为",
+      "onboard_time": 1734685879,
+      "rank": 7,
+      "category": "国内时政,网红"
     },
     {
       "raw_hot": 68701,
@@ -2163,14 +2291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63429,
-      "num": 184786,
-      "word": "潘辰太适合浪姐了",
-      "onboard_time": 1734683599,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 61830,
       "num": 205793,
       "word": "时代少年团跨年直播",
@@ -2188,7 +2308,7 @@
     },
     {
       "raw_hot": 60409,
-      "num": 182757,
+      "num": 237414,
       "word": "普京称俄已准备好和西方技术对决",
       "onboard_time": 1734681138,
       "rank": 28,
@@ -2201,6 +2321,14 @@
       "onboard_time": 1734669383,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58267,
+      "num": 331171,
+      "word": "白百何 毒嘴会怼",
+      "onboard_time": 1734685879,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 58015,
@@ -2283,6 +2411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53752,
+      "num": 326330,
+      "word": "官方回应执法人员用个人收款码收罚款",
+      "onboard_time": 1734685758,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53187,
       "num": 316230,
       "word": "产业联盟称B太对羊汤有宣传作用",
@@ -2305,6 +2441,14 @@
       "onboard_time": 1734669622,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52192,
+      "num": 167353,
+      "word": "这些假科普简直误导小学生",
+      "onboard_time": 1734685277,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 51988,
@@ -2369,6 +2513,14 @@
       "onboard_time": 1734676939,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46208,
+      "num": 236186,
+      "word": "澳门一场话剧能说3种语言",
+      "onboard_time": 1734684560,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 46069,
@@ -2523,6 +2675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 36070,
+      "num": 352035,
+      "word": "楼市止跌回稳初见成效",
+      "onboard_time": 1734685819,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34745,
       "num": 51269,
       "word": "25年前解放军进驻澳门高清修复画面",
@@ -2569,6 +2729,22 @@
       "onboard_time": 1734629414,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28651,
+      "num": 357810,
+      "word": "澳门2023地区生产总值是回归前7倍",
+      "onboard_time": 1734684859,
+      "rank": 6,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 27984,
+      "num": 212148,
+      "word": "电影窗前明月咣预售开启",
+      "onboard_time": 1734684799,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 27416,
@@ -2715,6 +2891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 16011,
+      "num": 751691,
+      "word": "庆祝大会全场齐唱国歌",
+      "onboard_time": 1734686299,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 15981,
       "num": 44112,
       "word": "一定要记住开发横琴的初心",
@@ -2793,6 +2977,14 @@
       "onboard_time": 1734639970,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11354,
+      "num": 328924,
+      "word": "那尔那茜回应邓婵玉凭封神彩蛋出圈",
+      "onboard_time": 1734685758,
+      "rank": 17,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
@@ -2807,6 +2999,9 @@
     },
     {
       "word": "#庆祝澳门回归祖国25周年大会#"
+    },
+    {
+      "word": "#习近平会见澳门特区行政长官岑浩辉#"
     }
   ]
 }
