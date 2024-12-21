@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734776473349,
+  "endTime": 1734777490706,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -219,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 692150,
+      "num": 692150,
+      "word": "比赛方回应于适骑射比赛输给殷世航",
+      "onboard_time": 1734774199,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 682752,
       "num": 467160,
       "word": "包文婧否认机场孕照是装的",
       "onboard_time": 1734746717,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682176,
+      "num": 682176,
+      "word": "鞠婧祎发烧",
+      "onboard_time": 1734774739,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 680561,
@@ -289,14 +305,6 @@
       "onboard_time": 1734708320,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 604810,
-      "num": 604810,
-      "word": "比赛方回应于适骑射比赛输给殷世航",
-      "onboard_time": 1734774199,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 604769,
@@ -409,14 +417,6 @@
       "onboard_time": 1734741018,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477098,
-      "num": 477098,
-      "word": "鞠婧祎发烧",
-      "onboard_time": 1734774739,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 475605,
@@ -547,6 +547,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 336080,
+      "num": 368319,
+      "word": "猎罪图鉴2忘年恋变生死恋",
+      "onboard_time": 1734773719,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333275,
       "num": 333275,
       "word": "利路修明年愚人节退圈",
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299555,
+      "num": 364400,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297823,
       "num": 254059,
       "word": "虞书欣看杨仕泽cha的反应",
@@ -619,20 +635,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 295233,
-      "num": 364400,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 290335,
-      "num": 368319,
-      "word": "猎罪图鉴2忘年恋变生死恋",
-      "onboard_time": 1734773719,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 290561,
+      "num": 473167,
+      "word": "于适临时换了参赛马匹",
+      "onboard_time": 1734775759,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 287097,
@@ -675,6 +683,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 266139,
+      "num": 266139,
+      "word": "尹净汉看SEVENTEEN演唱会",
+      "onboard_time": 1734776478,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265677,
       "num": 265677,
       "word": "考研政治张修齐",
@@ -697,6 +713,14 @@
       "onboard_time": 1734762917,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262056,
+      "num": 262056,
+      "word": "翻译 gap",
+      "onboard_time": 1734776719,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 261804,
@@ -825,6 +849,14 @@
       "onboard_time": 1734710357,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 242311,
+      "num": 242311,
+      "word": "考研英语新题型",
+      "onboard_time": 1734775819,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 234841,
@@ -1043,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197625,
+      "num": 197625,
+      "word": "猎罪图鉴",
+      "onboard_time": 1734776419,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197184,
       "num": 197184,
       "word": "射雕英雄传侠之大者春节档预测",
@@ -1083,14 +1123,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 190174,
-      "num": 190174,
-      "word": "考研英语新题型",
-      "onboard_time": 1734775819,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文的冬至午餐",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1734773359,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185600,
-      "num": 473167,
-      "word": "于适临时换了参赛马匹",
-      "onboard_time": 1734775759,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 184935,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1734772761,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176725,
+      "num": 176725,
+      "word": "台湾青年看完731罪证心情难以平复",
+      "onboard_time": 1734775880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174921,
@@ -1235,11 +1267,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 163824,
-      "num": 163824,
-      "word": "猎罪图鉴",
-      "onboard_time": 1734776419,
-      "rank": 42,
+      "raw_hot": 164461,
+      "num": 164461,
+      "word": "猎罪图鉴京剧案",
+      "onboard_time": 1734776659,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1499,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142868,
+      "num": 477351,
+      "word": "三百多名老人跟团到机场发现未买票",
+      "onboard_time": 1734775759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141985,
       "num": 141985,
       "word": "考研时间",
@@ -1643,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128576,
+      "num": 285373,
+      "word": "TheShy和Uzi同框",
+      "onboard_time": 1734776840,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "工人不慎把剪刀从15楼碰掉了",
       "onboard_time": 1734699918,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 133560,
+      "word": "玲娜贝儿上台前给自己打气",
+      "onboard_time": 1734777258,
+      "rank": 48,
+      "category": "动漫,旅游"
     },
     {
       "raw_hot": 126005,
@@ -1931,14 +1987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103837,
-      "num": 477351,
-      "word": "三百多名老人跟团到机场发现未买票",
-      "onboard_time": 1734775759,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101901,
       "num": 156501,
       "word": "当归和芹菜香菜撞脸了",
@@ -2051,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90370,
+      "num": 473493,
+      "word": "袁记云饺两年身陷三大争议",
+      "onboard_time": 1734775880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90233,
       "num": 319578,
       "word": "内存满了都舍不得删的雪景",
@@ -2115,6 +2171,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 77180,
+      "num": 458077,
+      "word": "微短剧不得使用恶俗恶趣味片名",
+      "onboard_time": 1734777079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77054,
+      "num": 258010,
+      "word": "回家吧孩子 回家吧",
+      "onboard_time": 1734777079,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 75715,
       "num": 243817,
       "word": "暗喻幻想获IGN年度游戏",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1734748459,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 70033,
+      "num": 212196,
+      "word": "留几手问杨子想要自己的热搜吗",
+      "onboard_time": 1734775339,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 69841,
@@ -2363,20 +2443,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46965,
+      "num": 472975,
+      "word": "骗骗喜欢你 女性复仇正解",
+      "onboard_time": 1734774739,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46764,
       "num": 46764,
       "word": "殷世航骑射成绩",
       "onboard_time": 1734715754,
       "rank": 42,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 45501,
-      "num": 473493,
-      "word": "袁记云饺两年身陷三大争议",
-      "onboard_time": 1734775880,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45184,
@@ -2451,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41286,
+      "num": 381121,
+      "word": "全世界都在偶遇檀健次嗦粉",
+      "onboard_time": 1734773540,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40021,
       "num": 91281,
       "word": "失联研究生家人称其最后消失在长江边",
@@ -2473,14 +2561,6 @@
       "onboard_time": 1734758539,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 39286,
-      "num": 472975,
-      "word": "骗骗喜欢你 女性复仇正解",
-      "onboard_time": 1734774739,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 39145,
@@ -2577,14 +2657,6 @@
       "onboard_time": 1734735432,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 30973,
-      "num": 381121,
-      "word": "全世界都在偶遇檀健次嗦粉",
-      "onboard_time": 1734773540,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 29434,
@@ -2769,14 +2841,6 @@
       "onboard_time": 1734720192,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20402,
-      "num": 212196,
-      "word": "留几手问杨子想要自己的热搜吗",
-      "onboard_time": 1734775339,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 19887,

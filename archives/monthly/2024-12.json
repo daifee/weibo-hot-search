@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734776473349,
+  "endTime": 1734777490706,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -7419,6 +7419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 692150,
+      "num": 692150,
+      "word": "比赛方回应于适骑射比赛输给殷世航",
+      "onboard_time": 1734774199,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691571,
       "num": 390054,
       "word": "世界上怀孕时间最长的动物排行",
@@ -7585,6 +7593,14 @@
       "onboard_time": 1734746717,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 682176,
+      "num": 682176,
+      "word": "鞠婧祎发烧",
+      "onboard_time": 1734774739,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 681874,
@@ -9121,14 +9137,6 @@
       "onboard_time": 1734090019,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 604810,
-      "num": 604810,
-      "word": "比赛方回应于适骑射比赛输给殷世航",
-      "onboard_time": 1734774199,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 604769,
@@ -12281,14 +12289,6 @@
       "onboard_time": 1733723778,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 477098,
-      "num": 477098,
-      "word": "鞠婧祎发烧",
-      "onboard_time": 1734774739,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 476975,
@@ -17675,6 +17675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336080,
+      "num": 368319,
+      "word": "猎罪图鉴2忘年恋变生死恋",
+      "onboard_time": 1734773719,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335520,
       "num": 335520,
       "word": "做完近视眼手术后的真实感受",
@@ -19507,6 +19515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 299555,
+      "num": 364400,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299473,
       "num": 299473,
       "word": "中国香港8比7日本",
@@ -19795,14 +19811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295233,
-      "num": 364400,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 295188,
       "num": 295188,
       "word": "新能源车倒闭车主怎么办",
@@ -20035,6 +20043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290561,
+      "num": 473167,
+      "word": "于适临时换了参赛马匹",
+      "onboard_time": 1734775759,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290542,
       "num": 185203,
       "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
@@ -20049,14 +20065,6 @@
       "onboard_time": 1734163818,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290335,
-      "num": 368319,
-      "word": "猎罪图鉴2忘年恋变生死恋",
-      "onboard_time": 1734773719,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 290251,
@@ -21627,6 +21635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266139,
+      "num": 266139,
+      "word": "尹净汉看SEVENTEEN演唱会",
+      "onboard_time": 1734776478,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265870,
       "num": 287920,
       "word": "范丞丞屏保是沈腾",
@@ -21881,6 +21897,14 @@
       "onboard_time": 1733464520,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262056,
+      "num": 262056,
+      "word": "翻译 gap",
+      "onboard_time": 1734776719,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 261804,
@@ -23409,6 +23433,14 @@
       "onboard_time": 1733309422,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242311,
+      "num": 242311,
+      "word": "考研英语新题型",
+      "onboard_time": 1734775819,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 242308,
@@ -31739,14 +31771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190174,
-      "num": 190174,
-      "word": "考研英语新题型",
-      "onboard_time": 1734775819,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190142,
       "num": 190142,
       "word": "檀健次被吓了一跳又一跳",
@@ -32993,14 +33017,6 @@
       "onboard_time": 1734528860,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185600,
-      "num": 473167,
-      "word": "于适临时换了参赛马匹",
-      "onboard_time": 1734775759,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 185571,
@@ -34577,6 +34593,14 @@
       "onboard_time": 1734400997,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176725,
+      "num": 176725,
+      "word": "台湾青年看完731罪证心情难以平复",
+      "onboard_time": 1734775880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176703,
@@ -37657,6 +37681,14 @@
       "onboard_time": 1734358580,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164461,
+      "num": 164461,
+      "word": "猎罪图鉴京剧案",
+      "onboard_time": 1734776659,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164460,
@@ -43275,6 +43307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142868,
+      "num": 477351,
+      "word": "三百多名老人跟团到机场发现未买票",
+      "onboard_time": 1734775759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142788,
       "num": 142788,
       "word": "孙颖莎观战现场好欢乐",
@@ -46979,6 +47019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128576,
+      "num": 285373,
+      "word": "TheShy和Uzi同框",
+      "onboard_time": 1734776840,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128565,
       "num": 128565,
       "word": "中美续签政府科学技术合作协定",
@@ -47385,6 +47433,14 @@
       "onboard_time": 1734420979,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 133560,
+      "word": "玲娜贝儿上台前给自己打气",
+      "onboard_time": 1734777258,
+      "rank": 48,
+      "category": "动漫,旅游"
     },
     {
       "raw_hot": 126529,
@@ -52603,14 +52659,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 103837,
-      "num": 477351,
-      "word": "三百多名老人跟团到机场发现未买票",
-      "onboard_time": 1734775759,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103806,
       "num": 103806,
       "word": "黑神话修改器下载量破600万",
@@ -55067,6 +55115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 90370,
+      "num": 473493,
+      "word": "袁记云饺两年身陷三大争议",
+      "onboard_time": 1734775880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90353,
       "num": 443554,
       "word": "高校学生进校门被开行李箱检查",
@@ -57339,6 +57395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77180,
+      "num": 458077,
+      "word": "微短剧不得使用恶俗恶趣味片名",
+      "onboard_time": 1734777079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77062,
       "num": 321534,
       "word": "市监局回应思念水饺疑吃出烟头",
@@ -57353,6 +57417,14 @@
       "onboard_time": 1734154518,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77054,
+      "num": 258010,
+      "word": "回家吧孩子 回家吧",
+      "onboard_time": 1734777079,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 76997,
@@ -58489,6 +58561,14 @@
       "onboard_time": 1734494961,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 70033,
+      "num": 212196,
+      "word": "留几手问杨子想要自己的热搜吗",
+      "onboard_time": 1734775339,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 69994,
@@ -63499,6 +63579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46965,
+      "num": 472975,
+      "word": "骗骗喜欢你 女性复仇正解",
+      "onboard_time": 1734774739,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46944,
       "num": 284715,
       "word": "曝大学食堂档口拒涨价被威胁后关门",
@@ -63879,14 +63967,6 @@
       "num": 345483,
       "word": "母爱是所爱隔山海山海皆可平",
       "onboard_time": 1734012260,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45501,
-      "num": 473493,
-      "word": "袁记云饺两年身陷三大争议",
-      "onboard_time": 1734775880,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -65075,6 +65155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 41286,
+      "num": 381121,
+      "word": "全世界都在偶遇檀健次嗦粉",
+      "onboard_time": 1734773540,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41211,
       "num": 209909,
       "word": "上交所要求券商对两融客户交易自查",
@@ -65721,14 +65809,6 @@
       "onboard_time": 1733473581,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39286,
-      "num": 472975,
-      "word": "骗骗喜欢你 女性复仇正解",
-      "onboard_time": 1734774739,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 39265,
@@ -68409,14 +68489,6 @@
       "onboard_time": 1733159235,
       "rank": 47,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 30973,
-      "num": 381121,
-      "word": "全世界都在偶遇檀健次嗦粉",
-      "onboard_time": 1734773540,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 30964,
@@ -71489,14 +71561,6 @@
       "onboard_time": 1734441260,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 20402,
-      "num": 212196,
-      "word": "留几手问杨子想要自己的热搜吗",
-      "onboard_time": 1734775339,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 20383,

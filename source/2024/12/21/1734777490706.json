@@ -1,0 +1,410 @@
+{
+  "runTime": 1734777490706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7172709,
+        "num": 7172709,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1216707,
+        "num": 1216707,
+        "word": "考研英语一最猛的1",
+        "onboard_time": 1734772881,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23893,
+        "num": 960581,
+        "word": "文化中国行发现冬至之美",
+        "onboard_time": 1734769398,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 792129,
+        "num": 792129,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 692150,
+        "num": 692150,
+        "word": "比赛方回应于适骑射比赛输给殷世航",
+        "onboard_time": 1734774199,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682176,
+        "num": 682176,
+        "word": "鞠婧祎发烧",
+        "onboard_time": 1734774739,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 652971,
+        "num": 652971,
+        "word": "考研英语答案",
+        "onboard_time": 1734774501,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 460072,
+        "num": 460072,
+        "word": "喀山机场关闭",
+        "onboard_time": 1734773901,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77180,
+        "num": 458077,
+        "word": "微短剧不得使用恶俗恶趣味片名",
+        "onboard_time": 1734777079,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142868,
+        "num": 452315,
+        "word": "三百多名老人跟团到机场发现未买票",
+        "onboard_time": 1734775759,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741847,
+        "num": 449073,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560206,
+        "num": 443144,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 481893,
+        "num": 442981,
+        "word": "女子目睹母亲车祸受惊吓5天后身亡",
+        "onboard_time": 1734767897,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438740,
+        "num": 438740,
+        "word": "鞠婧祎 青蛇",
+        "onboard_time": 1734767897,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90370,
+        "num": 385610,
+        "word": "袁记云饺两年身陷三大争议",
+        "onboard_time": 1734775880,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383596,
+        "num": 383596,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371036,
+        "num": 371036,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336080,
+        "num": 336080,
+        "word": "猎罪图鉴2忘年恋变生死恋",
+        "onboard_time": 1734773719,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46965,
+        "num": 330745,
+        "word": "骗骗喜欢你 女性复仇正解",
+        "onboard_time": 1734774739,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326675,
+        "num": 326675,
+        "word": "英语二好难",
+        "onboard_time": 1734773719,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309060,
+        "num": 309060,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290561,
+        "num": 290561,
+        "word": "于适临时换了参赛马匹",
+        "onboard_time": 1734775759,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30502,
+        "num": 286726,
+        "word": "苏醒巡演西安站",
+        "onboard_time": 1734773540,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299555,
+        "num": 286388,
+        "word": "涉嫌曝光王楚钦隐私的医院道歉",
+        "onboard_time": 1734774981,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128576,
+        "num": 285373,
+        "word": "TheShy和Uzi同框",
+        "onboard_time": 1734776840,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284832,
+        "num": 284832,
+        "word": "考研英语craftsman",
+        "onboard_time": 1734772940,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272737,
+        "num": 272737,
+        "word": "肖秀荣 今年是近十年最难的一次",
+        "onboard_time": 1734753198,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266139,
+        "num": 266139,
+        "word": "尹净汉看SEVENTEEN演唱会",
+        "onboard_time": 1734776478,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262056,
+        "num": 262056,
+        "word": "翻译 gap",
+        "onboard_time": 1734776719,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77054,
+        "num": 258010,
+        "word": "回家吧孩子 回家吧",
+        "onboard_time": 1734777079,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41286,
+        "num": 257780,
+        "word": "全世界都在偶遇檀健次嗦粉",
+        "onboard_time": 1734773540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257690,
+        "num": 257690,
+        "word": "考研政治答案",
+        "onboard_time": 1734775698,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242311,
+        "num": 242311,
+        "word": "考研英语新题型",
+        "onboard_time": 1734775819,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197625,
+        "num": 197625,
+        "word": "猎罪图鉴",
+        "onboard_time": 1734776419,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184649,
+        "num": 184649,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70033,
+        "num": 183539,
+        "word": "留几手问杨子想要自己的热搜吗",
+        "onboard_time": 1734775339,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182763,
+        "num": 182763,
+        "word": "迪丽热巴鬼王路透",
+        "onboard_time": 1734774020,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176725,
+        "num": 176725,
+        "word": "台湾青年看完731罪证心情难以平复",
+        "onboard_time": 1734775880,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84336,
+        "num": 175219,
+        "word": "何凯文说不用慌都难",
+        "onboard_time": 1734776238,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 174364,
+        "word": "32岁妈妈辞职考研5个月上岸清华",
+        "onboard_time": 1734768378,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168460,
+        "num": 168460,
+        "word": "考研英语 你也没放过我",
+        "onboard_time": 1734773000,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164461,
+        "num": 164461,
+        "word": "猎罪图鉴京剧案",
+        "onboard_time": 1734776659,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164437,
+        "num": 164437,
+        "word": "向佐退赛原因",
+        "onboard_time": 1734775459,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211699,
+        "num": 164227,
+        "word": "25岁女孩前夫门前轻生后被配阴婚",
+        "onboard_time": 1734771437,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163408,
+        "num": 163408,
+        "word": "考研政治 难",
+        "onboard_time": 1734753800,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144373,
+        "num": 144373,
+        "word": "肖四没押中",
+        "onboard_time": 1734753320,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "英语一 图表作文",
+        "onboard_time": 1734773359,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133892,
+        "num": 133892,
+        "word": "饺子",
+        "onboard_time": 1734765678,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126596,
+        "num": 133560,
+        "word": "玲娜贝儿上台前给自己打气",
+        "onboard_time": 1734777258,
+        "rank": 48,
+        "category": "动漫,旅游"
+      },
+      {
+        "raw_hot": 133442,
+        "num": 133442,
+        "word": "考研",
+        "onboard_time": 1734769517,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一段视频见证情暖濠江#"
+    }
+  }
+}
