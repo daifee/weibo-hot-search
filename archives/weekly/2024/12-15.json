@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734755163253,
+  "endTime": 1734755990529,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -139,8 +139,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2275766,
-      "num": 2275766,
+      "raw_hot": 2309995,
+      "num": 2309995,
       "word": "肖秀荣 今年是近十年最难的一次",
       "onboard_time": 1734753198,
       "rank": 3,
@@ -4731,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361618,
+      "num": 682473,
+      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+      "onboard_time": 1734753139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361358,
       "num": 299484,
       "word": "李昀锐孟子义 这集真的没看过",
@@ -5217,14 +5225,6 @@
       "onboard_time": 1734394399,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 326601,
-      "num": 682473,
-      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
-      "onboard_time": 1734753139,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 325675,
@@ -6275,6 +6275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265677,
+      "num": 265677,
+      "word": "考研政治张修齐",
+      "onboard_time": 1734755240,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 265145,
+      "num": 541701,
+      "word": "冬至被赵丽颖温暖治愈",
+      "onboard_time": 1734752478,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264452,
       "num": 339685,
       "word": "王楚钦vs徐海东",
@@ -6859,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235879,
+      "num": 235879,
+      "word": "鞠婧祎陈都灵牵手路透",
+      "onboard_time": 1734753500,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235779,
       "num": 235779,
       "word": "吴倩朵拉头",
@@ -7067,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228906,
+      "num": 228906,
+      "word": "李昀锐 内娱舒肤佳",
+      "onboard_time": 1734752599,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228651,
       "num": 228651,
       "word": "郭敬明晒月鳞绮纪原始帧",
@@ -7089,14 +7121,6 @@
       "onboard_time": 1734244519,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227806,
-      "num": 227806,
-      "word": "鞠婧祎陈都灵牵手路透",
-      "onboard_time": 1734753500,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 227732,
@@ -7779,14 +7803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209956,
-      "num": 209956,
-      "word": "冬至被赵丽颖温暖治愈",
-      "onboard_time": 1734752478,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "LPR",
@@ -7937,14 +7953,6 @@
       "onboard_time": 1734433940,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207103,
-      "num": 207103,
-      "word": "李昀锐 内娱舒肤佳",
-      "onboard_time": 1734752599,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 207026,
@@ -8235,6 +8243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203553,
+      "num": 203553,
+      "word": "考研政治选择题",
+      "onboard_time": 1734754999,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203415,
       "num": 203415,
       "word": "任豪参加逐玉开机宴",
@@ -8403,6 +8419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201278,
+      "num": 207921,
+      "word": "虞书欣Vampireprincess",
+      "onboard_time": 1734755357,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201276,
       "num": 201276,
       "word": "网红厦门小程三年申报收入仅数万",
@@ -8465,6 +8489,14 @@
       "onboard_time": 1734401238,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200572,
+      "num": 200572,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 200391,
@@ -9707,6 +9739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184935,
+      "num": 184935,
+      "word": "管综答案",
+      "onboard_time": 1734755120,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184838,
       "num": 425731,
       "word": "司机凌晨遇代驾小哥主动捎10公里",
@@ -10131,14 +10171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178702,
-      "num": 178702,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178448,
       "num": 178448,
       "word": "黄明昊领衔主演四喜",
@@ -10427,6 +10459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173920,
+      "num": 194493,
+      "word": "六个沈翊一台戏名场面",
+      "onboard_time": 1734754699,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173899,
       "num": 173899,
       "word": "5孩夫妻怕对方跑了彼此都很客气",
@@ -10481,6 +10521,14 @@
       "onboard_time": 1734685158,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "管综199",
+      "onboard_time": 1734754999,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 172947,
@@ -11107,6 +11155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165094,
+      "num": 165094,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165053,
       "num": 167945,
       "word": "佳木斯黑悟空雪雕自带苹果肌",
@@ -11561,14 +11617,6 @@
       "onboard_time": 1734191719,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159516,
-      "num": 159516,
-      "word": "考研政治选择题",
-      "onboard_time": 1734754999,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 159359,
@@ -12531,14 +12579,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 148795,
-      "num": 148795,
-      "word": "冬至别熬夜晚点起",
-      "onboard_time": 1734750798,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148677,
       "num": 241863,
       "word": "Uzi谈iG新阵容首秀",
@@ -12633,14 +12673,6 @@
       "onboard_time": 1734409641,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147753,
-      "num": 194493,
-      "word": "六个沈翊一台戏名场面",
-      "onboard_time": 1734754699,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 147643,
@@ -13145,6 +13177,14 @@
       "onboard_time": 1734453976,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141161,
+      "num": 232985,
+      "word": "Peanut力挺Faker",
+      "onboard_time": 1734753500,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 141086,
@@ -14499,14 +14539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126037,
-      "num": 232985,
-      "word": "Peanut力挺Faker",
-      "onboard_time": 1734753500,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125930,
       "num": 125930,
       "word": "沈翊 黑足猫",
@@ -14729,14 +14761,6 @@
       "onboard_time": 1734743177,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 123980,
-      "num": 123980,
-      "word": "管综答案",
-      "onboard_time": 1734755120,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 123953,
@@ -15057,14 +15081,6 @@
       "onboard_time": 1734213430,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 120210,
-      "num": 120210,
-      "word": "管综199",
-      "onboard_time": 1734754999,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 120036,
@@ -15825,6 +15841,14 @@
       "onboard_time": 1734260480,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111812,
+      "num": 119607,
+      "word": "黑神话悟空登上央视新闻联播",
+      "onboard_time": 1734755899,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 111806,
@@ -18411,6 +18435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70487,
+      "num": 305512,
+      "word": "猎罪2有缺点但我愿意看",
+      "onboard_time": 1734755420,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70442,
       "num": 528041,
       "word": "雄鹿vs雷霆",
@@ -19377,6 +19409,14 @@
       "onboard_time": 1734397519,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55866,
+      "num": 457088,
+      "word": "调查组调查执法人员用个人码收罚款",
+      "onboard_time": 1734754640,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55730,
@@ -21387,14 +21427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35229,
-      "num": 457088,
-      "word": "调查组调查执法人员用个人码收罚款",
-      "onboard_time": 1734754640,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35174,
       "num": 341256,
       "word": "田嘉瑞和草莓好配",
@@ -22363,8 +22395,16 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27293,
+      "num": 313188,
+      "word": "于适骑射比赛状态",
+      "onboard_time": 1734755420,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27237,
-      "num": 228263,
+      "num": 311236,
       "word": "谁是你的冬日搭子",
       "onboard_time": 1734754281,
       "rank": 24,
@@ -22739,6 +22779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23363,
+      "num": 326348,
+      "word": "NBA新赛季2024",
+      "onboard_time": 1734754640,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23331,
       "num": 171616,
       "word": "大笨狗 切换自如",
@@ -22969,14 +23017,6 @@
       "onboard_time": 1734441500,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21225,
-      "num": 326348,
-      "word": "NBA新赛季2024",
-      "onboard_time": 1734754640,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 21140,

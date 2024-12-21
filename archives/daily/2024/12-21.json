@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734755163253,
+  "endTime": 1734755990529,
   "band_list": [
     {
       "raw_hot": 9365392,
@@ -27,8 +27,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2275766,
-      "num": 2275766,
+      "raw_hot": 2309995,
+      "num": 2309995,
       "word": "肖秀荣 今年是近十年最难的一次",
       "onboard_time": 1734753198,
       "rank": 3,
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361618,
+      "num": 682473,
+      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+      "onboard_time": 1734753139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349332,
       "num": 385245,
       "word": "以军被曝比赛谁打死的人多",
@@ -353,14 +361,6 @@
       "onboard_time": 1734750678,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326601,
-      "num": 682473,
-      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
-      "onboard_time": 1734753139,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324019,
@@ -425,6 +425,22 @@
       "onboard_time": 1734708379,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 265677,
+      "num": 265677,
+      "word": "考研政治张修齐",
+      "onboard_time": 1734755240,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 265145,
+      "num": 541701,
+      "word": "冬至被赵丽颖温暖治愈",
+      "onboard_time": 1734752478,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 259548,
@@ -507,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235879,
+      "num": 235879,
+      "word": "鞠婧祎陈都灵牵手路透",
+      "onboard_time": 1734753500,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232105,
       "num": 201844,
       "word": "一生勤俭的外婆竟舍得打赏男主播",
@@ -523,11 +547,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227806,
-      "num": 227806,
-      "word": "鞠婧祎陈都灵牵手路透",
-      "onboard_time": 1734753500,
-      "rank": 25,
+      "raw_hot": 228906,
+      "num": 228906,
+      "word": "李昀锐 内娱舒肤佳",
+      "onboard_time": 1734752599,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -547,28 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209956,
-      "num": 209956,
-      "word": "冬至被赵丽颖温暖治愈",
-      "onboard_time": 1734752478,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208759,
       "num": 164266,
       "word": "papi酱 倪萍老师能不能开个班",
       "onboard_time": 1734736274,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 207103,
-      "num": 207103,
-      "word": "李昀锐 内娱舒肤佳",
-      "onboard_time": 1734752599,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 206233,
@@ -587,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203553,
+      "num": 203553,
+      "word": "考研政治选择题",
+      "onboard_time": 1734754999,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 201278,
+      "num": 207921,
+      "word": "虞书欣Vampireprincess",
+      "onboard_time": 1734755357,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201099,
       "num": 201099,
       "word": "田曦薇穿紫色裙子为王鹤棣庆生",
@@ -595,12 +619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200572,
+      "num": 200572,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186164,
       "num": 186164,
       "word": "留几手回应对葛夕没感觉",
       "onboard_time": 1734747797,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184935,
+      "num": 184935,
+      "word": "管综答案",
+      "onboard_time": 1734755120,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 182355,
@@ -619,20 +659,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 178702,
-      "num": 178702,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 174463,
       "num": 174463,
       "word": "冬至是陈奕迅最忙的一天",
       "onboard_time": 1734749838,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173920,
+      "num": 194493,
+      "word": "六个沈翊一台戏名场面",
+      "onboard_time": 1734754699,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "管综199",
+      "onboard_time": 1734754999,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 172237,
@@ -651,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165094,
+      "num": 165094,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162015,
       "num": 162015,
       "word": "马方同意恢复搜索马航MH370航班",
@@ -665,14 +721,6 @@
       "onboard_time": 1734747679,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159516,
-      "num": 159516,
-      "word": "考研政治选择题",
-      "onboard_time": 1734754999,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 157475,
@@ -729,22 +777,6 @@
       "onboard_time": 1734736213,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148795,
-      "num": 148795,
-      "word": "冬至别熬夜晚点起",
-      "onboard_time": 1734750798,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147753,
-      "num": 194493,
-      "word": "六个沈翊一台戏名场面",
-      "onboard_time": 1734754699,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 147435,
@@ -811,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141161,
+      "num": 232985,
+      "word": "Peanut力挺Faker",
+      "onboard_time": 1734753500,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140960,
       "num": 177801,
       "word": "台湾青年打卡尔滨被圈粉了",
@@ -843,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126037,
-      "num": 232985,
-      "word": "Peanut力挺Faker",
-      "onboard_time": 1734753500,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126005,
       "num": 126005,
       "word": "于适一袭红衣尽风华",
@@ -867,14 +899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123980,
-      "num": 123980,
-      "word": "管综答案",
-      "onboard_time": 1734755120,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123669,
       "num": 123669,
       "word": "孟子义说夏之光红气养人",
@@ -889,14 +913,6 @@
       "onboard_time": 1734752298,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120210,
-      "num": 120210,
-      "word": "管综199",
-      "onboard_time": 1734754999,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 118472,
@@ -937,6 +953,14 @@
       "onboard_time": 1734693918,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111812,
+      "num": 119607,
+      "word": "黑神话悟空登上央视新闻联播",
+      "onboard_time": 1734755899,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 111526,
@@ -1147,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70487,
+      "num": 305512,
+      "word": "猎罪2有缺点但我愿意看",
+      "onboard_time": 1734755420,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69841,
       "num": 2278799,
       "word": "澳门每个路牌指引的都是家的方向",
@@ -1248,6 +1280,14 @@
       "word": "熊孩子怒砸电视吓坏母亲",
       "onboard_time": 1734711798,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55866,
+      "num": 457088,
+      "word": "调查组调查执法人员用个人码收罚款",
+      "onboard_time": 1734754640,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1387,14 +1427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35229,
-      "num": 457088,
-      "word": "调查组调查执法人员用个人码收罚款",
-      "onboard_time": 1734754640,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35042,
       "num": 467361,
       "word": "从这天起你将被饺子支配",
@@ -1451,8 +1483,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27293,
+      "num": 313188,
+      "word": "于适骑射比赛状态",
+      "onboard_time": 1734755420,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27237,
-      "num": 228263,
+      "num": 311236,
       "word": "谁是你的冬日搭子",
       "onboard_time": 1734754281,
       "rank": 24,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1734720132,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23363,
+      "num": 326348,
+      "word": "NBA新赛季2024",
+      "onboard_time": 1734754640,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 22446,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1734720192,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21225,
-      "num": 326348,
-      "word": "NBA新赛季2024",
-      "onboard_time": 1734754640,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 19887,
@@ -1660,6 +1700,9 @@
     },
     {
       "word": "#习近平寄望澳门#"
+    },
+    {
+      "word": "#习近平澳门之行#"
     }
   ]
 }
