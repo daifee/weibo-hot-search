@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734788097325,
+  "endTime": 1734790716002,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2667375,
-      "num": 541225,
+      "num": 802350,
       "word": "结婚到阴婚一位农村女性的两场婚礼",
       "onboard_time": 1734784219,
       "rank": 28,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1074620,
-      "num": 547931,
+      "num": 809715,
       "word": "章昊韩维辰道歉",
       "onboard_time": 1734786140,
       "rank": 3,
@@ -177,6 +177,14 @@
       "onboard_time": 1734736874,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1028738,
+      "num": 1164598,
+      "word": "蔚来 萤火虫",
+      "onboard_time": 1734787519,
+      "rank": 22,
+      "category": "汽车"
     },
     {
       "raw_hot": 951256,
@@ -225,6 +233,22 @@
       "onboard_time": 1734736274,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 809834,
+      "num": 809834,
+      "word": "你买的冲锋衣可能是假的",
+      "onboard_time": 1734786140,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 787994,
+      "num": 787994,
+      "word": "大四男生遭电瓶烧伤室友被逮捕",
+      "onboard_time": 1734785839,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 779628,
@@ -427,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 570671,
+      "num": 570671,
+      "word": "郑爽未履行70万案款被限消",
+      "onboard_time": 1734789260,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568315,
       "num": 436022,
       "word": "处处碰壁男子决定清洗满脸文身",
@@ -441,6 +473,22 @@
       "onboard_time": 1734702438,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543928,
+      "num": 543928,
+      "word": "真想跪下来求自己别嗑了",
+      "onboard_time": 1734788238,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 523906,
+      "num": 523906,
+      "word": "日军为何竭尽全力想打捞甲午沉舰",
+      "onboard_time": 1734787339,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 518235,
@@ -531,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 421849,
+      "num": 421849,
+      "word": "九重紫 我爱吃这样的",
+      "onboard_time": 1734784819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
@@ -561,14 +617,6 @@
       "onboard_time": 1734783798,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407538,
-      "num": 407538,
-      "word": "九重紫 我爱吃这样的",
-      "onboard_time": 1734784819,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 402482,
@@ -683,6 +731,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 331544,
+      "num": 331544,
+      "word": "00后负债300万1比1复刻蜡笔小新之家",
+      "onboard_time": 1734789318,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329365,
       "num": 329365,
       "word": "时代少年团周边",
@@ -771,6 +827,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296335,
+      "num": 420487,
+      "word": "猎罪图鉴2女子在工厂活活饿死",
+      "onboard_time": 1734789381,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294351,
+      "num": 294351,
+      "word": "王鹤棣不小心摔倒剪进正片",
+      "onboard_time": 1734788960,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287097,
       "num": 222566,
       "word": "广外 nctwish",
@@ -787,28 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276990,
-      "num": 276990,
-      "word": "蔚来 萤火虫",
-      "onboard_time": 1734787519,
-      "rank": 22,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 276692,
       "num": 276692,
       "word": "管综作文",
       "onboard_time": 1734754041,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 272557,
-      "num": 517853,
-      "word": "你买的冲锋衣可能是假的",
-      "onboard_time": 1734786140,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271381,
@@ -1075,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215049,
+      "num": 215049,
+      "word": "郭敬明和代拍卷起来了",
+      "onboard_time": 1734788058,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214904,
       "num": 214904,
       "word": "成毅进组新剧",
@@ -1169,14 +1233,6 @@
       "onboard_time": 1734774020,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205947,
-      "num": 205947,
-      "word": "日军为何竭尽全力想打捞甲午沉舰",
-      "onboard_time": 1734787339,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204706,
@@ -1323,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192883,
+      "num": 192883,
+      "word": "王一博蓝色牛仔外套",
+      "onboard_time": 1734789799,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191040,
       "num": 191040,
       "word": "黄景瑜演技",
@@ -1459,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173639,
+      "num": 173639,
+      "word": "灵笼2 好细节的打磨",
+      "onboard_time": 1734789980,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173169,
       "num": 173169,
       "word": "管综199",
@@ -1555,12 +1627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162542,
+      "num": 270688,
+      "word": "中国奇谭2首支预告",
+      "onboard_time": 1734789920,
+      "rank": 29,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 162015,
       "num": 162015,
       "word": "马方同意恢复搜索马航MH370航班",
       "onboard_time": 1734717793,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161523,
+      "num": 161523,
+      "word": "你好星期六还有冬至九重紫加更",
+      "onboard_time": 1734789739,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160700,
@@ -1795,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148372,
+      "num": 148372,
+      "word": "浙江 远洋捕捞",
+      "onboard_time": 1734778758,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147572,
       "num": 161251,
       "word": "李秀满四代同框团建",
@@ -1827,6 +1923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146645,
+      "num": 146645,
+      "word": "朴灿烈唱中文歌",
+      "onboard_time": 1734790579,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 145175,
       "num": 532711,
       "word": "店长回应2女子吃自助连吃带拿被抓包",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1734751518,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143517,
-      "num": 322368,
-      "word": "大四男生遭电瓶烧伤室友被逮捕",
-      "onboard_time": 1734785839,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143485,
@@ -1955,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140823,
-      "num": 140823,
-      "word": "浙江 远洋捕捞",
-      "onboard_time": 1734778758,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140553,
       "num": 140553,
       "word": "eStar战胜世巨A",
@@ -1977,14 +2065,6 @@
       "onboard_time": 1734772579,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138569,
-      "num": 138569,
-      "word": "郭敬明和代拍卷起来了",
-      "onboard_time": 1734788058,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 138250,
@@ -2169,6 +2249,14 @@
       "onboard_time": 1734777258,
       "rank": 48,
       "category": "动漫,旅游"
+    },
+    {
+      "raw_hot": 126448,
+      "num": 795176,
+      "word": "起底酒店共享充电器的灰色产业链",
+      "onboard_time": 1734789680,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 126005,
@@ -2443,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108313,
+      "num": 809774,
+      "word": "古人的过冬氛围感太足了",
+      "onboard_time": 1734788720,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 107544,
       "num": 107544,
       "word": "IU蚊子过敏",
@@ -2521,6 +2617,14 @@
       "onboard_time": 1734770058,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97997,
+      "num": 306554,
+      "word": "鸣潮2.0版本前瞻",
+      "onboard_time": 1734789680,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 97923,
@@ -2643,12 +2747,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85790,
+      "num": 792037,
+      "word": "尔滨长长长521米冰滑梯体验来了",
+      "onboard_time": 1734789080,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82682,
       "num": 82682,
       "word": "广东最低温再次破0",
       "onboard_time": 1734739577,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81974,
+      "num": 231170,
+      "word": "Uzi和JackeyLove金克丝对线",
+      "onboard_time": 1734789499,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 81208,
@@ -3027,6 +3147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43765,
+      "num": 473050,
+      "word": "江苏一陌生人闯私宅摔伤后起诉业主",
+      "onboard_time": 1734790100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43353,
       "num": 519061,
       "word": "民营经济促进法草案提请审议",
@@ -3171,6 +3299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35547,
+      "num": 806933,
+      "word": "在义乌环游世界",
+      "onboard_time": 1734787940,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35042,
       "num": 467361,
       "word": "从这天起你将被饺子支配",
@@ -3185,6 +3321,14 @@
       "onboard_time": 1734784998,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33697,
+      "num": 399987,
+      "word": "丘成桐回应少年班是否影响教育公平",
+      "onboard_time": 1734789739,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 33392,
@@ -3209,6 +3353,14 @@
       "onboard_time": 1734770478,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32503,
+      "num": 280894,
+      "word": "时光代理人英都篇定档",
+      "onboard_time": 1734789920,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 32497,
@@ -3363,6 +3515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23395,
+      "num": 298334,
+      "word": "蔚来新品牌firefly萤火虫发布",
+      "onboard_time": 1734789019,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 23363,
       "num": 326348,
       "word": "NBA新赛季2024",
@@ -3441,6 +3601,14 @@
       "onboard_time": 1734736693,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17809,
+      "num": 197777,
+      "word": "祖冲之祝考研学子折桂凯旋",
+      "onboard_time": 1734789680,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 17697,
@@ -3531,14 +3699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 8227,
-      "num": 493122,
-      "word": "在义乌环游世界",
-      "onboard_time": 1734787940,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 7922,
       "num": 51459,
       "word": "梦之队Pro晋级挑杯淘汰赛",
@@ -3613,6 +3773,9 @@
     },
     {
       "word": "#把琴澳一体化提升到更高水平#"
+    },
+    {
+      "word": "#习近平澳门行#"
     }
   ]
 }
