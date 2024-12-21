@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734749991303,
+  "endTime": 1734751507681,
   "band_list": [
     {
       "raw_hot": 2416209,
@@ -51,8 +51,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 824435,
-      "num": 824435,
+      "raw_hot": 884997,
+      "num": 884997,
+      "word": "考研政治",
+      "onboard_time": 1734749897,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 843327,
+      "num": 843327,
       "word": "海南省旅文厅已报案",
       "onboard_time": 1734744917,
       "rank": 36,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 682752,
-      "num": 385190,
+      "num": 438833,
       "word": "包文婧否认机场孕照是装的",
       "onboard_time": 1734746717,
       "rank": 10,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 568315,
-      "num": 366004,
+      "num": 436022,
       "word": "处处碰壁男子决定清洗满脸文身",
       "onboard_time": 1734748337,
       "rank": 15,
@@ -187,20 +195,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 430081,
+      "num": 430081,
+      "word": "何秋亊回应",
+      "onboard_time": 1734748817,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
       "onboard_time": 1734707958,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413363,
-      "num": 413363,
-      "word": "何秋亊回应",
-      "onboard_time": 1734748817,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 402482,
@@ -227,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 384820,
-      "num": 384820,
+      "raw_hot": 386487,
+      "num": 386487,
       "word": "多名以军士兵承认无差别随意射杀",
       "onboard_time": 1734746657,
       "rank": 16,
@@ -241,6 +249,14 @@
       "onboard_time": 1734745937,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338294,
+      "num": 385245,
+      "word": "以军被曝比赛谁打死的人多",
+      "onboard_time": 1734747018,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 337695,
@@ -259,6 +275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 329365,
+      "num": 329365,
+      "word": "时代少年团周边",
+      "onboard_time": 1734750678,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324019,
       "num": 452099,
       "word": "女子称住酒店凌晨一陌生男子站床前",
@@ -275,20 +299,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317927,
+      "num": 317927,
+      "word": "王鹤棣原声",
+      "onboard_time": 1734745877,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "高瀚宇朱嘉琦十指相扣",
       "onboard_time": 1734705080,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304887,
-      "num": 304887,
-      "word": "王鹤棣原声",
-      "onboard_time": 1734745877,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 297823,
@@ -363,12 +387,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248790,
+      "num": 304970,
+      "word": "今年冬至是128年来最早冬至",
+      "onboard_time": 1734748758,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248031,
       "num": 402420,
       "word": "年味氛围组已就位",
       "onboard_time": 1734743778,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247934,
+      "num": 235655,
+      "word": "谢娜为张杰惊喜庆生",
+      "onboard_time": 1734749177,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 242626,
@@ -395,28 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220506,
-      "num": 191957,
-      "word": "谢娜为张杰惊喜庆生",
-      "onboard_time": 1734749177,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211042,
-      "num": 190601,
+      "num": 206697,
       "word": "两万七的钻戒回收给三千",
       "onboard_time": 1734747018,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209529,
-      "num": 304970,
-      "word": "今年冬至是128年来最早冬至",
-      "onboard_time": 1734748758,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208759,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180336,
+      "num": 439400,
+      "word": "向佐说这条路我没有对手",
+      "onboard_time": 1734750798,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "考研",
@@ -475,20 +507,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174121,
+      "num": 174121,
+      "word": "冬至是陈奕迅最忙的一天",
+      "onboard_time": 1734749838,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172237,
       "num": 172237,
       "word": "一个普通女孩150斤到102斤之路",
       "onboard_time": 1734737293,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167653,
-      "num": 167653,
-      "word": "冬至是陈奕迅最忙的一天",
-      "onboard_time": 1734749838,
-      "rank": 32,
-      "category": "音乐"
     },
     {
       "raw_hot": 162015,
@@ -555,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147435,
+      "num": 147435,
+      "word": "年轻人晒娃晒到树上了",
+      "onboard_time": 1734750558,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146720,
       "num": 319500,
       "word": "被尔滨的冰封玫瑰惊艳到了",
       "onboard_time": 1734701239,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145129,
+      "num": 145129,
+      "word": "电影小小的我片尾曲MV",
+      "onboard_time": 1734750618,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 144701,
@@ -576,6 +624,14 @@
       "word": "冬至 破镜重圆",
       "onboard_time": 1734698239,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141734,
+      "num": 141734,
+      "word": "陈昊宇 死嘴快炫啊",
+      "onboard_time": 1734749838,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -619,12 +675,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 125231,
-      "num": 125231,
-      "word": "陈昊宇 死嘴快炫啊",
-      "onboard_time": 1734749838,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 125017,
+      "num": 125017,
+      "word": "何超盈带女儿参加升旗礼",
+      "onboard_time": 1734751038,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 124003,
@@ -665,14 +721,6 @@
       "onboard_time": 1734708619,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114503,
-      "num": 114503,
-      "word": "考研政治",
-      "onboard_time": 1734749897,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 112705,
@@ -787,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95682,
-      "num": 385245,
-      "word": "以军被曝比赛谁打死的人多",
-      "onboard_time": 1734747018,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 95572,
       "num": 156863,
       "word": "步入中老年她们去考研",
@@ -811,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94341,
+      "num": 94341,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92349,
       "num": 130701,
       "word": "又幸福了杭州",
@@ -819,20 +867,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 91120,
+      "num": 129681,
+      "word": "遇见冬至春归有期",
+      "onboard_time": 1734739935,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89290,
       "num": 82576,
       "word": "张杰电影",
       "onboard_time": 1734699199,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 84409,
-      "num": 84409,
-      "word": "遇见冬至春归有期",
-      "onboard_time": 1734739935,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82682,
@@ -891,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69193,
+      "num": 88020,
+      "word": "冰雪大世界开园",
+      "onboard_time": 1734751397,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 69085,
       "num": 126665,
       "word": "我的宝藏家乡",
@@ -905,6 +961,14 @@
       "onboard_time": 1734716833,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66459,
+      "num": 125045,
+      "word": "为什么说冬至是养生黄金期",
+      "onboard_time": 1734750078,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63453,
@@ -1171,6 +1235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23275,
+      "num": 459797,
+      "word": "如何打好首发经济这张牌",
+      "onboard_time": 1734750798,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22446,
       "num": 22446,
       "word": "于适杭盖乐队改编时来运转",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1734720192,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21038,
+      "num": 848760,
+      "word": "澳门每个路牌指引的都是家的方向",
+      "onboard_time": 1734750917,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19887,
@@ -1337,6 +1417,9 @@
     },
     {
       "word": "#习近平视察驻澳门部队#"
+    },
+    {
+      "word": "#习近平寄望澳门#"
     }
   ]
 }
