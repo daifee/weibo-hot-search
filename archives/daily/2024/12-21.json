@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734794446595,
+  "endTime": 1734795336619,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -203,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 925579,
+      "num": 925579,
+      "word": "男子吃未煮熟猪肉致双耳全聋",
+      "onboard_time": 1734792439,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 921335,
       "num": 921335,
       "word": "大四男生遭电瓶烧伤室友被逮捕",
@@ -248,14 +256,6 @@
       "word": "海南省旅文厅已报案",
       "onboard_time": 1734744917,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 830121,
-      "num": 830121,
-      "word": "男子吃未煮熟猪肉致双耳全聋",
-      "onboard_time": 1734792439,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320244,
+      "num": 385110,
+      "word": "袁记云饺发布最新说明",
+      "onboard_time": 1734792980,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320191,
       "num": 294351,
       "word": "王鹤棣不小心摔倒剪进正片",
@@ -1051,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243776,
+      "num": 243776,
+      "word": "于洋喝错孟子义的咖啡",
+      "onboard_time": 1734794059,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243511,
       "num": 304676,
       "word": "冬至是陈奕迅最忙的一天",
@@ -1120,14 +1136,6 @@
       "word": "25岁女孩前夫门前轻生后被配阴婚",
       "onboard_time": 1734771437,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227777,
-      "num": 385110,
-      "word": "袁记云饺发布最新说明",
-      "onboard_time": 1734792980,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1635,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171956,
-      "num": 171956,
-      "word": "于洋喝错孟子义的咖啡",
-      "onboard_time": 1734794059,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171031,
       "num": 171031,
       "word": "向佐退赛原因",
@@ -1801,6 +1801,14 @@
       "onboard_time": 1734774260,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158431,
+      "num": 158431,
+      "word": "什么图给李荣浩吊成翘嘴了",
+      "onboard_time": 1734794239,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 157911,
@@ -2347,14 +2355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 131456,
-      "num": 131456,
-      "word": "什么图给李荣浩吊成翘嘴了",
-      "onboard_time": 1734794239,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131150,
       "num": 131150,
       "word": "朱志鑫苏新皓笨蛋版滑冰互推",
@@ -2441,6 +2441,14 @@
       "onboard_time": 1734757998,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 124635,
+      "num": 124635,
+      "word": "裴秀智圣诞老人造型",
+      "onboard_time": 1734794179,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 124584,
@@ -2531,6 +2539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119052,
+      "num": 119052,
+      "word": "星闪二公排名换血",
+      "onboard_time": 1734794837,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118945,
       "num": 118945,
       "word": "白鹿欧豪眼神戏",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1734708619,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115823,
-      "num": 115823,
-      "word": "裴秀智圣诞老人造型",
-      "onboard_time": 1734794179,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 115598,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1734665838,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108976,
+      "num": 108976,
+      "word": "贵阳一小学4名学生欺凌1同学",
+      "onboard_time": 1734794599,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108845,
@@ -2803,6 +2819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97972,
+      "num": 231170,
+      "word": "Uzi和JackeyLove金克丝对线",
+      "onboard_time": 1734789499,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97923,
       "num": 97923,
       "word": "澳门",
@@ -2817,6 +2841,14 @@
       "onboard_time": 1734707000,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97199,
+      "num": 97199,
+      "word": "官方通报贵阳市实验小学欺凌事件",
+      "onboard_time": 1734794599,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96284,
@@ -2841,6 +2873,14 @@
       "onboard_time": 1734747378,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94314,
+      "num": 94314,
+      "word": "金克丝大火箭 TheShy一生之敌",
+      "onboard_time": 1734795198,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 94165,
@@ -2931,14 +2971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81974,
-      "num": 231170,
-      "word": "Uzi和JackeyLove金克丝对线",
-      "onboard_time": 1734789499,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 81208,
       "num": 332074,
       "word": "父亲拒办出院男子滞留精神病院16年",
@@ -2952,6 +2984,14 @@
       "word": "随手拍可能成泄密源头",
       "onboard_time": 1734746657,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79676,
+      "num": 308131,
+      "word": "男子查贷款额度竟被强制下款",
+      "onboard_time": 1734793340,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3075,14 +3115,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 67672,
-      "num": 308131,
-      "word": "男子查贷款额度竟被强制下款",
-      "onboard_time": 1734793340,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67142,
       "num": 67142,
       "word": "向佐晒一家四口照片称一生最爱",
@@ -3092,7 +3124,7 @@
     },
     {
       "raw_hot": 66304,
-      "num": 153537,
+      "num": 170787,
       "word": "近十年最难没惹任何人",
       "onboard_time": 1734787700,
       "rank": 40,
@@ -3523,6 +3555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35642,
+      "num": 301910,
+      "word": "花7000多网购药收到4袋藕粉",
+      "onboard_time": 1734794959,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35042,
       "num": 467361,
       "word": "从这天起你将被饺子支配",
@@ -3633,6 +3673,14 @@
       "onboard_time": 1734719473,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28477,
+      "num": 189473,
+      "word": "小区业主质疑物业费捆绑增值服务费",
+      "onboard_time": 1734793879,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28402,
@@ -3747,14 +3795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22712,
-      "num": 189473,
-      "word": "小区业主质疑物业费捆绑增值服务费",
-      "onboard_time": 1734793879,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22610,
       "num": 249643,
       "word": "汽车底盘告别颠簸",
@@ -3827,6 +3867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18528,
+      "num": 227631,
+      "word": "周思成模版",
+      "onboard_time": 1734793940,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 18324,
       "num": 136221,
       "word": "赵小童直播",
@@ -3865,14 +3913,6 @@
       "onboard_time": 1734725532,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15536,
-      "num": 227631,
-      "word": "周思成模版",
-      "onboard_time": 1734793940,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 15108,

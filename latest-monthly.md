@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 23:20:46
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 23:35:36
 </p>
 </blockquote>
 <p>
@@ -3609,6 +3609,12 @@ Gemini当爸爸了（热度：974629）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E6%9C%AA%E7%85%AE%E7%86%9F%E7%8C%AA%E8%82%89%E8%87%B4%E5%8F%8C%E8%80%B3%E5%85%A8%E8%81%8B%23" target="weibo">
+男子吃未煮熟猪肉致双耳全聋（热度：925579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%9F%B3%E8%8A%B3%E8%B4%A6%E5%8F%B7%E5%B7%B2%E8%A7%A3%E7%A6%81%23" target="weibo">
 吴柳芳账号已解禁（热度：923201）
 </a>
@@ -4295,12 +4301,6 @@ icon怒喷麦琳（热度：853412）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%B0%81%E8%BF%98%E4%B8%8D%E4%BC%9A%E7%94%A8%E4%B8%AA%E9%B9%B0%E7%9C%BC%23" target="weibo">
 王楚钦 谁还不会用个鹰眼（热度：830442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E6%9C%AA%E7%85%AE%E7%86%9F%E7%8C%AA%E8%82%89%E8%87%B4%E5%8F%8C%E8%80%B3%E5%85%A8%E8%81%8B%23" target="weibo">
-男子吃未煮熟猪肉致双耳全聋（热度：830121）
 </a>
 </li>
 
