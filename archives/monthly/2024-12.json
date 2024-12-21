@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734795336619,
+  "endTime": 1734798317128,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -4796,7 +4796,7 @@
     },
     {
       "raw_hot": 925579,
-      "num": 925579,
+      "num": 936463,
       "word": "男子吃未煮熟猪肉致双耳全聋",
       "onboard_time": 1734792439,
       "rank": 1,
@@ -16163,6 +16163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 374231,
+      "num": 321778,
+      "word": "于洋喝错孟子义的咖啡",
+      "onboard_time": 1734794059,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 374049,
       "num": 331374,
       "word": "原来串串房内部是这样的",
@@ -17073,6 +17081,14 @@
       "onboard_time": 1733970138,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353082,
+      "num": 385110,
+      "word": "袁记云饺发布最新说明",
+      "onboard_time": 1734792980,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352988,
@@ -18761,14 +18777,6 @@
       "onboard_time": 1733958916,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320244,
-      "num": 385110,
-      "word": "袁记云饺发布最新说明",
-      "onboard_time": 1734792980,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 320191,
@@ -21081,6 +21089,14 @@
       "onboard_time": 1733047998,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277766,
+      "num": 277766,
+      "word": "贵阳一小学4名学生欺凌1同学",
+      "onboard_time": 1734794599,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277695,
@@ -23489,14 +23505,6 @@
       "onboard_time": 1734013760,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243776,
-      "num": 243776,
-      "word": "于洋喝错孟子义的咖啡",
-      "onboard_time": 1734794059,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 243622,
@@ -25913,6 +25921,14 @@
       "onboard_time": 1734657498,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221558,
+      "num": 221558,
+      "word": "殷世航称竞技比赛输赢很正常",
+      "onboard_time": 1734794119,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 221540,
@@ -37563,6 +37579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166243,
+      "num": 274314,
+      "word": "男生滑雪摔倒后站起来那一下帅爆了",
+      "onboard_time": 1734795499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166228,
       "num": 166228,
       "word": "国防部正告菲方",
@@ -47843,6 +47867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127673,
+      "num": 127673,
+      "word": "再见爱人 姐姐妹妹站起来",
+      "onboard_time": 1734795499,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127619,
       "num": 127619,
       "word": "加沙北部最后一名骨外科医生被打死",
@@ -50939,6 +50971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115387,
+      "num": 308131,
+      "word": "男子查贷款额度竟被强制下款",
+      "onboard_time": 1734793340,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115376,
       "num": 202799,
       "word": "尖叫之夜主打passion",
@@ -52249,14 +52289,6 @@
       "onboard_time": 1733654180,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108976,
-      "num": 108976,
-      "word": "贵阳一小学4名学生欺凌1同学",
-      "onboard_time": 1734794599,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108952,
@@ -54529,6 +54561,14 @@
       "onboard_time": 1733472621,
       "rank": 2,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97928,
+      "num": 97928,
+      "word": "夏之光送粉丝饺子汤圆",
+      "onboard_time": 1734796098,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 97870,
@@ -57691,14 +57731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79676,
-      "num": 308131,
-      "word": "男子查贷款额度竟被强制下款",
-      "onboard_time": 1734793340,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79638,
       "num": 79638,
       "word": "冬至文案",
@@ -57897,6 +57929,14 @@
       "onboard_time": 1734532519,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 78508,
+      "num": 88200,
+      "word": "13楼住户遭厨余炸弹袭击",
+      "onboard_time": 1734792079,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78505,
@@ -58651,6 +58691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73871,
+      "num": 88186,
+      "word": "王心凌谭维维再唱山海",
+      "onboard_time": 1734798018,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73816,
       "num": 292082,
       "word": "琼瑶花葬不立碑不烧香",
@@ -59331,6 +59379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70244,
+      "num": 301910,
+      "word": "花7000多网购药收到4袋藕粉",
+      "onboard_time": 1734794959,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 70242,
       "num": 75370,
       "word": "声生不息大湾区季",
@@ -59699,14 +59755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 68650,
-      "num": 167897,
-      "word": "殷世航称竞技比赛输赢很正常",
-      "onboard_time": 1734794119,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
@@ -59945,6 +59993,14 @@
       "onboard_time": 1733104576,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67435,
+      "num": 88147,
+      "word": "于适五连靶个人赛连中五箭",
+      "onboard_time": 1734791839,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 67337,
@@ -60409,6 +60465,14 @@
       "onboard_time": 1733237665,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 65293,
+      "num": 88127,
+      "word": "斗破苍穹",
+      "onboard_time": 1734797899,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 65282,
@@ -67777,14 +67841,6 @@
       "onboard_time": 1733748679,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35642,
-      "num": 301910,
-      "word": "花7000多网购药收到4袋藕粉",
-      "onboard_time": 1734794959,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 35630,
@@ -75953,6 +76009,14 @@
       "onboard_time": 1733929100,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7800,
+      "num": 149598,
+      "word": "凌云战胜辣翻",
+      "onboard_time": 1734797359,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 7790,
