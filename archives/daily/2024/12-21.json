@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734773713772,
+  "endTime": 1734776473349,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -75,6 +75,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1258836,
+      "num": 1258836,
+      "word": "考研英语一最猛的1",
+      "onboard_time": 1734772881,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1230074,
       "num": 319496,
       "word": "留几手回应",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1075138,
-      "num": 317943,
+      "num": 364116,
       "word": "夫妻玩闹时妻子黄体破裂",
       "onboard_time": 1734759977,
       "rank": 23,
@@ -145,6 +153,14 @@
       "onboard_time": 1734736874,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920875,
+      "num": 920875,
+      "word": "考研英语答案",
+      "onboard_time": 1734774501,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 843327,
@@ -275,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 604810,
+      "num": 604810,
+      "word": "比赛方回应于适骑射比赛输给殷世航",
+      "onboard_time": 1734774199,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604769,
       "num": 401408,
       "word": "德国车辆冲撞人群事件致2死68伤",
@@ -371,12 +395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487320,
+      "num": 487320,
+      "word": "喀山机场关闭",
+      "onboard_time": 1734773901,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 482532,
       "num": 482532,
       "word": "学生生病叫120保安不让急救车进校",
       "onboard_time": 1734741018,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477098,
+      "num": 477098,
+      "word": "鞠婧祎发烧",
+      "onboard_time": 1734774739,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 475605,
@@ -387,12 +427,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 474127,
+      "num": 474127,
+      "word": "英语二好难",
+      "onboard_time": 1734773719,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 461998,
       "num": 690563,
       "word": "何秋亊回应",
       "onboard_time": 1734748817,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 458734,
+      "num": 458734,
+      "word": "考研英语craftsman",
+      "onboard_time": 1734772940,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 421081,
@@ -561,6 +617,22 @@
       "onboard_time": 1734773000,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 295233,
+      "num": 364400,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290335,
+      "num": 368319,
+      "word": "猎罪图鉴2忘年恋变生死恋",
+      "onboard_time": 1734773719,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 287097,
@@ -779,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230148,
+      "num": 230148,
+      "word": "25岁女孩前夫门前轻生后被配阴婚",
+      "onboard_time": 1734771437,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227493,
       "num": 227493,
       "word": "女子定宝马车称8年忘了提",
@@ -891,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205989,
+      "num": 251045,
+      "word": "迪丽热巴鬼王路透",
+      "onboard_time": 1734774020,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204706,
       "num": 204706,
       "word": "窦昭怀的是小葡萄不是葡萄干",
@@ -995,11 +1083,43 @@
       "category": "美食"
     },
     {
+      "raw_hot": 190174,
+      "num": 190174,
+      "word": "考研英语新题型",
+      "onboard_time": 1734775819,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 188822,
+      "num": 188822,
+      "word": "刘耀文的冬至午餐",
+      "onboard_time": 1734775639,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186164,
       "num": 186164,
       "word": "留几手回应对葛夕没感觉",
       "onboard_time": 1734747797,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185988,
+      "num": 304675,
+      "word": "英语一 图表作文",
+      "onboard_time": 1734773359,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 185600,
+      "num": 473167,
+      "word": "于适临时换了参赛马匹",
+      "onboard_time": 1734775759,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1019,20 +1139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182898,
-      "num": 182898,
-      "word": "25岁女孩前夫门前轻生后被配阴婚",
-      "onboard_time": 1734771437,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182355,
       "num": 182355,
       "word": "孟子义有效播剧的含金量",
       "onboard_time": 1734749417,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180483,
+      "num": 180483,
+      "word": "宋亚轩冬至晒自驾vlog",
+      "onboard_time": 1734775997,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 177786,
@@ -1083,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171031,
+      "num": 171031,
+      "word": "向佐退赛原因",
+      "onboard_time": 1734775459,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170396,
       "num": 170396,
       "word": "冬至在天文学上是一个位置",
@@ -1105,6 +1233,14 @@
       "onboard_time": 1734750798,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163824,
+      "num": 163824,
+      "word": "猎罪图鉴",
+      "onboard_time": 1734776419,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 162015,
@@ -1155,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158785,
+      "num": 158785,
+      "word": "英语一没写完",
+      "onboard_time": 1734774260,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157475,
       "num": 407320,
       "word": "考研第1天",
@@ -1177,6 +1321,14 @@
       "onboard_time": 1734743598,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156196,
+      "num": 156196,
+      "word": "craftsman啥意思",
+      "onboard_time": 1734774020,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 155692,
@@ -1265,14 +1417,6 @@
       "onboard_time": 1734736213,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149401,
-      "num": 301668,
-      "word": "考研英语一最猛的1",
-      "onboard_time": 1734772881,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 147572,
@@ -1651,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115598,
+      "num": 239483,
+      "word": "这首小美满和暖心瞬间好搭",
+      "onboard_time": 1734775997,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113863,
       "num": 224976,
       "word": "丁禹兮张海侠和大家见面啦",
@@ -1779,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103837,
+      "num": 477351,
+      "word": "三百多名老人跟团到机场发现未买票",
+      "onboard_time": 1734775759,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101901,
       "num": 156501,
       "word": "当归和芹菜香菜撞脸了",
@@ -1875,6 +2035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 91876,
+      "num": 156202,
+      "word": "天津女排晋级世俱杯决赛",
+      "onboard_time": 1734775100,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91120,
       "num": 129681,
       "word": "遇见冬至春归有期",
@@ -1905,6 +2073,14 @@
       "onboard_time": 1734752118,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86548,
+      "num": 239143,
+      "word": "何凯文说不用慌都难",
+      "onboard_time": 1734776238,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 82682,
@@ -1945,14 +2121,6 @@
       "onboard_time": 1734748817,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 73269,
-      "num": 303953,
-      "word": "考研英语craftsman",
-      "onboard_time": 1734772940,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 73038,
@@ -2203,6 +2371,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 45501,
+      "num": 473493,
+      "word": "袁记云饺两年身陷三大争议",
+      "onboard_time": 1734775880,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45184,
       "num": 89705,
       "word": "高瀚宇 你们为什么等我男朋友",
@@ -2299,6 +2475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39286,
+      "num": 472975,
+      "word": "骗骗喜欢你 女性复仇正解",
+      "onboard_time": 1734774739,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39145,
       "num": 156655,
       "word": "韦世豪质疑足协",
@@ -2363,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33392,
+      "num": 366010,
+      "word": "苏醒巡演西安站",
+      "onboard_time": 1734773540,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33223,
       "num": 184459,
       "word": "BLG教练组年度最佳教练组",
@@ -2385,6 +2577,14 @@
       "onboard_time": 1734735432,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30973,
+      "num": 381121,
+      "word": "全世界都在偶遇檀健次嗦粉",
+      "onboard_time": 1734773540,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 29434,
@@ -2460,7 +2660,7 @@
     },
     {
       "raw_hot": 25494,
-      "num": 970910,
+      "num": 1055452,
       "word": "文化中国行发现冬至之美",
       "onboard_time": 1734769398,
       "rank": 2,
@@ -2571,20 +2771,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20402,
+      "num": 212196,
+      "word": "留几手问杨子想要自己的热搜吗",
+      "onboard_time": 1734775339,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19887,
       "num": 58531,
       "word": "普京直播连线收到250万个提问",
       "onboard_time": 1734732132,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19855,
-      "num": 304675,
-      "word": "英语一 图表作文",
-      "onboard_time": 1734773359,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 18324,
@@ -2736,22 +2936,6 @@
       "word": "吉克隽逸把粉丝一把抱进怀里",
       "onboard_time": 1734721811,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5006,
-      "num": 139065,
-      "word": "苏醒巡演西安站",
-      "onboard_time": 1734773540,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 4889,
-      "num": 139677,
-      "word": "全世界都在偶遇檀健次嗦粉",
-      "onboard_time": 1734773540,
-      "rank": 43,
       "category": "艺人"
     }
   ],
