@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734780931254,
+  "endTime": 1734784762796,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 823967,
+      "num": 457645,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 816326,
       "num": 933129,
       "word": "韦唯准备下山时遭遇车祸脊柱折断",
@@ -211,7 +219,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 732854,
+      "raw_hot": 765087,
       "num": 586052,
       "word": "抱摔艺考同学男生来自农村家境不好",
       "onboard_time": 1734764957,
@@ -475,12 +483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 457645,
-      "num": 457645,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 430642,
+      "num": 430642,
+      "word": "种地吧",
+      "onboard_time": 1734781580,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 421081,
@@ -497,6 +505,14 @@
       "onboard_time": 1734757220,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 406889,
+      "num": 333126,
+      "word": "海口一32岁男飞行员海文大桥失联",
+      "onboard_time": 1734780739,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402482,
@@ -619,12 +635,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328234,
+      "num": 459502,
+      "word": "殷世航骑射比赛获季军",
+      "onboard_time": 1734778038,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328090,
+      "num": 332893,
+      "word": "于适一袭红衣代表广东队参赛",
+      "onboard_time": 1734783798,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324019,
       "num": 452099,
       "word": "女子称住酒店凌晨一陌生男子站床前",
       "onboard_time": 1734709580,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320055,
+      "num": 320055,
+      "word": "孟子义直播",
+      "onboard_time": 1734781699,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 319466,
@@ -657,6 +697,14 @@
       "onboard_time": 1734705080,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300279,
+      "num": 300279,
+      "word": "有5种蔬菜嘌呤比肉还高",
+      "onboard_time": 1734784159,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297823,
@@ -819,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255150,
+      "num": 255150,
+      "word": "猎罪图鉴反转",
+      "onboard_time": 1734780620,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253355,
       "num": 253355,
       "word": "普京表示茅台也有伏特加也有",
@@ -883,6 +939,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 241710,
+      "num": 241710,
+      "word": "鸣潮",
+      "onboard_time": 1734783678,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 235670,
+      "num": 235670,
+      "word": "结婚到阴婚一位农村女性的两场婚礼",
+      "onboard_time": 1734784219,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234841,
       "num": 302945,
       "word": "李昀锐 内娱舒肤佳",
@@ -897,6 +969,14 @@
       "onboard_time": 1734752478,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231683,
+      "num": 321159,
+      "word": "奔跑吧",
+      "onboard_time": 1734782298,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 231667,
@@ -1123,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195889,
+      "num": 195889,
+      "word": "难哄动画化",
+      "onboard_time": 1734780678,
+      "rank": 28,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 195651,
       "num": 350197,
       "word": "LPL全明星红毯",
@@ -1171,11 +1259,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190303,
+      "num": 190303,
+      "word": "吨吨直播",
+      "onboard_time": 1734779837,
+      "rank": 31,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 188822,
       "num": 188822,
       "word": "刘耀文的冬至午餐",
       "onboard_time": 1734775639,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187153,
+      "num": 187153,
+      "word": "檀健次演技",
+      "onboard_time": 1734784099,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1225,14 +1329,6 @@
       "onboard_time": 1734749417,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181314,
-      "num": 459502,
-      "word": "殷世航骑射比赛获季军",
-      "onboard_time": 1734778038,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 180483,
@@ -1291,14 +1387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171869,
-      "num": 171869,
-      "word": "难哄动画化",
-      "onboard_time": 1734780678,
-      "rank": 28,
-      "category": "动漫,剧集"
-    },
-    {
       "raw_hot": 171031,
       "num": 171031,
       "word": "向佐退赛原因",
@@ -1315,12 +1403,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169776,
+      "num": 169776,
+      "word": "宋翰戏份",
+      "onboard_time": 1734780978,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169378,
       "num": 219053,
       "word": "黄体破裂严重会危及生命",
       "onboard_time": 1734769758,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168957,
+      "num": 168957,
+      "word": "夏之光四个角色四种人生",
+      "onboard_time": 1734782719,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166217,
+      "num": 306185,
+      "word": "双非大学生放弃双一流保研名额",
+      "onboard_time": 1734780139,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 165094,
@@ -1395,6 +1507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 157911,
+      "num": 157911,
+      "word": "不爱麻烦别人是缺爱的表现",
+      "onboard_time": 1734781638,
+      "rank": 37,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 157475,
       "num": 407320,
       "word": "考研第1天",
@@ -1409,14 +1529,6 @@
       "onboard_time": 1734761117,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 157077,
-      "num": 157077,
-      "word": "吨吨直播",
-      "onboard_time": 1734779837,
-      "rank": 31,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 156307,
@@ -1449,6 +1561,14 @@
       "onboard_time": 1734768197,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154597,
+      "num": 221854,
+      "word": "过筛中药材的XXXL号竹笼太霸气了",
+      "onboard_time": 1734783319,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154589,
@@ -1499,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152140,
+      "num": 157555,
+      "word": "很多在台湾的人不了解731恶行",
+      "onboard_time": 1734783498,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150076,
       "num": 254173,
       "word": "潜逃前山西首富在英购买大量房产",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1734736213,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149091,
+      "num": 149091,
+      "word": "去年张万森下雪 今年柯南下樱花",
+      "onboard_time": 1734784338,
+      "rank": 41,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 148669,
@@ -1595,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143485,
+      "num": 143485,
+      "word": "时光代理人",
+      "onboard_time": 1734783618,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 143461,
       "num": 143461,
       "word": "冬至 破镜重圆",
@@ -1617,6 +1761,22 @@
       "onboard_time": 1734775759,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142769,
+      "num": 142769,
+      "word": "2024SBS演技大赏",
+      "onboard_time": 1734783918,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142238,
+      "num": 187440,
+      "word": "LPL全明星红毯慢镜头",
+      "onboard_time": 1734783498,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 141985,
@@ -1699,6 +1859,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137796,
+      "num": 137796,
+      "word": "第一个全球同步播出的国产动画来了",
+      "onboard_time": 1734783198,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 136328,
+      "num": 136328,
+      "word": "虞书欣划火柴变装",
+      "onboard_time": 1734782777,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135831,
       "num": 135831,
       "word": "九重紫",
@@ -1747,14 +1923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133398,
-      "num": 133398,
-      "word": "双非大学生放弃双一流保研名额",
-      "onboard_time": 1734780139,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 132792,
       "num": 197461,
       "word": "也门胡塞武装导弹袭击以色列中部",
@@ -1769,6 +1937,14 @@
       "onboard_time": 1734758899,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131719,
+      "num": 131719,
+      "word": "大女主还得看长歌行",
+      "onboard_time": 1734782177,
+      "rank": 48,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 131693,
@@ -1891,28 +2067,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122572,
-      "num": 236500,
-      "word": "猎罪图鉴反转",
-      "onboard_time": 1734780620,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122352,
       "num": 122352,
       "word": "孙千晒冬至三件套",
       "onboard_time": 1734769098,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120951,
-      "num": 120951,
-      "word": "海口一32岁男飞行员海文大桥失联",
-      "onboard_time": 1734780739,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119149,
@@ -2587,6 +2747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47590,
+      "num": 332074,
+      "word": "父亲拒办出院男子滞留精神病院16年",
+      "onboard_time": 1734784640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46965,
       "num": 472975,
       "word": "骗骗喜欢你 女性复仇正解",
@@ -2811,6 +2979,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 31184,
+      "num": 320891,
+      "word": "赵丽颖推荐日历销量",
+      "onboard_time": 1734784399,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29729,
+      "num": 1055452,
+      "word": "文化中国行发现冬至之美",
+      "onboard_time": 1734769398,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29434,
       "num": 177624,
       "word": "插排台灯钥匙扣可能在偷听你说话",
@@ -2889,14 +3073,6 @@
       "onboard_time": 1734762678,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25494,
-      "num": 1055452,
-      "word": "文化中国行发现冬至之美",
-      "onboard_time": 1734769398,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 24952,

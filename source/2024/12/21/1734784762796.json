@@ -1,0 +1,410 @@
+{
+  "runTime": 1734784762796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1250681,
+        "num": 1250681,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 758029,
+        "num": 758029,
+        "word": "翻译 gap",
+        "onboard_time": 1734776719,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29729,
+        "num": 611575,
+        "word": "文化中国行发现冬至之美",
+        "onboard_time": 1734769398,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1013644,
+        "num": 606732,
+        "word": "甜馨和嗯哼一起去滑雪了",
+        "onboard_time": 1734778878,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577758,
+        "num": 577758,
+        "word": "黄景瑜发孙千 孙千发黄景瑜",
+        "onboard_time": 1734777798,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1094329,
+        "num": 534401,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430642,
+        "num": 430642,
+        "word": "种地吧",
+        "onboard_time": 1734781580,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421021,
+        "num": 421021,
+        "word": "喀山机场关闭",
+        "onboard_time": 1734773901,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372428,
+        "num": 372428,
+        "word": "比赛方回应于适骑射比赛输给殷世航",
+        "onboard_time": 1734774199,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334221,
+        "num": 334221,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765087,
+        "num": 334131,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 823967,
+        "num": 333399,
+        "word": "涉嫌曝光王楚钦隐私的医院道歉",
+        "onboard_time": 1734774981,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406889,
+        "num": 333126,
+        "word": "海口一32岁男飞行员海文大桥失联",
+        "onboard_time": 1734780739,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328090,
+        "num": 332893,
+        "word": "于适一袭红衣代表广东队参赛",
+        "onboard_time": 1734783798,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47590,
+        "num": 332074,
+        "word": "父亲拒办出院男子滞留精神病院16年",
+        "onboard_time": 1734784640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332067,
+        "num": 332067,
+        "word": "考研英语一最猛的1",
+        "onboard_time": 1734772881,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328234,
+        "num": 328234,
+        "word": "殷世航骑射比赛获季军",
+        "onboard_time": 1734778038,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321269,
+        "num": 321269,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231683,
+        "num": 321159,
+        "word": "奔跑吧",
+        "onboard_time": 1734782298,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31184,
+        "num": 320891,
+        "word": "赵丽颖推荐日历销量",
+        "onboard_time": 1734784399,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475174,
+        "num": 320651,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292782,
+        "num": 320403,
+        "word": "考研英语答案",
+        "onboard_time": 1734774501,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 470266,
+        "num": 320220,
+        "word": "鞠婧祎发烧",
+        "onboard_time": 1734774739,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320055,
+        "num": 320055,
+        "word": "孟子义直播",
+        "onboard_time": 1734781699,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166217,
+        "num": 306185,
+        "word": "双非大学生放弃双一流保研名额",
+        "onboard_time": 1734780139,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300279,
+        "num": 300279,
+        "word": "有5种蔬菜嘌呤比肉还高",
+        "onboard_time": 1734784159,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255150,
+        "num": 255150,
+        "word": "猎罪图鉴反转",
+        "onboard_time": 1734780620,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241710,
+        "num": 241710,
+        "word": "鸣潮",
+        "onboard_time": 1734783678,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235670,
+        "num": 235670,
+        "word": "结婚到阴婚一位农村女性的两场婚礼",
+        "onboard_time": 1734784219,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154597,
+        "num": 221854,
+        "word": "过筛中药材的XXXL号竹笼太霸气了",
+        "onboard_time": 1734783319,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220660,
+        "num": 220660,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195889,
+        "num": 195889,
+        "word": "难哄动画化",
+        "onboard_time": 1734780678,
+        "rank": 31,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 190303,
+        "num": 190303,
+        "word": "吨吨直播",
+        "onboard_time": 1734779837,
+        "rank": 32,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 142238,
+        "num": 187440,
+        "word": "LPL全明星红毯慢镜头",
+        "onboard_time": 1734783498,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187153,
+        "num": 187153,
+        "word": "檀健次演技",
+        "onboard_time": 1734784099,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169776,
+        "num": 169776,
+        "word": "宋翰戏份",
+        "onboard_time": 1734780978,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168957,
+        "num": 168957,
+        "word": "夏之光四个角色四种人生",
+        "onboard_time": 1734782719,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157911,
+        "num": 157911,
+        "word": "不爱麻烦别人是缺爱的表现",
+        "onboard_time": 1734781638,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 152140,
+        "num": 157555,
+        "word": "很多在台湾的人不了解731恶行",
+        "onboard_time": 1734783498,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157214,
+        "num": 157214,
+        "word": "女子目睹母亲车祸受惊吓5天后身亡",
+        "onboard_time": 1734767897,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157104,
+        "num": 157104,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149091,
+        "num": 149091,
+        "word": "去年张万森下雪 今年柯南下樱花",
+        "onboard_time": 1734784338,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 145693,
+        "num": 145693,
+        "word": "猎罪图鉴2忘年恋变生死恋",
+        "onboard_time": 1734773719,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143485,
+        "num": 143485,
+        "word": "时光代理人",
+        "onboard_time": 1734783618,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142769,
+        "num": 142769,
+        "word": "2024SBS演技大赏",
+        "onboard_time": 1734783918,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137796,
+        "num": 137796,
+        "word": "第一个全球同步播出的国产动画来了",
+        "onboard_time": 1734783198,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "虞书欣划火柴变装",
+        "onboard_time": 1734782777,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133639,
+        "num": 133639,
+        "word": "32岁妈妈辞职考研5个月上岸清华",
+        "onboard_time": 1734768378,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131719,
+        "num": 131719,
+        "word": "大女主还得看长歌行",
+        "onboard_time": 1734782177,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 128772,
+        "word": "台湾青年看完731罪证心情难以平复",
+        "onboard_time": 1734775880,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#一段视频见证情暖濠江#"
+    }
+  }
+}
