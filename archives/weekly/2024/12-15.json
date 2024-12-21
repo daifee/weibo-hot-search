@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734777490706,
+  "endTime": 1734779839830,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -1819,6 +1819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 779628,
+      "num": 682176,
+      "word": "鞠婧祎发烧",
+      "onboard_time": 1734774739,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 776972,
       "num": 776972,
       "word": "2女子吃自助打包近400元海鲜肉类",
@@ -1840,6 +1848,14 @@
       "word": "舒肤佳 李昀锐",
       "onboard_time": 1734582981,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 769476,
+      "num": 387308,
+      "word": "甜馨和嗯哼一起去滑雪了",
+      "onboard_time": 1734778878,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2209,14 +2225,6 @@
       "onboard_time": 1734746717,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 682176,
-      "num": 682176,
-      "word": "鞠婧祎发烧",
-      "onboard_time": 1734774739,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 681874,
@@ -2609,6 +2617,14 @@
       "onboard_time": 1734607819,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 631007,
+      "num": 631007,
+      "word": "翻译 gap",
+      "onboard_time": 1734776719,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 627038,
@@ -4579,6 +4595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 392785,
+      "num": 473167,
+      "word": "于适临时换了参赛马匹",
+      "onboard_time": 1734775759,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391734,
       "num": 391734,
       "word": "一千克羽毛球做5件羽绒服",
@@ -4737,6 +4761,14 @@
       "onboard_time": 1734522020,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379714,
+      "num": 379714,
+      "word": "黄景瑜发孙千 孙千发黄景瑜",
+      "onboard_time": 1734777798,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 379421,
@@ -5265,6 +5297,14 @@
       "onboard_time": 1734395659,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 341209,
+      "num": 364400,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 340811,
@@ -5819,14 +5859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299555,
-      "num": 364400,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 299026,
       "num": 299026,
       "word": "姆巴佩强奸案原告还原案发过程",
@@ -5985,14 +6017,6 @@
       "onboard_time": 1734328279,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290561,
-      "num": 473167,
-      "word": "于适临时换了参赛马匹",
-      "onboard_time": 1734775759,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 290125,
@@ -6595,14 +6619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262056,
-      "num": 262056,
-      "word": "翻译 gap",
-      "onboard_time": 1734776719,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 261804,
       "num": 261804,
       "word": "乒超总决赛樊振东或再对决王楚钦",
@@ -7025,6 +7041,14 @@
       "onboard_time": 1734753500,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244008,
+      "num": 244008,
+      "word": "台湾青年看完731罪证心情难以平复",
+      "onboard_time": 1734775880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243511,
@@ -9555,6 +9579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193238,
+      "num": 193238,
+      "word": "冬至快乐",
+      "onboard_time": 1734779178,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193180,
       "num": 199732,
       "word": "饺子",
@@ -10251,6 +10283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 184734,
+      "num": 184734,
+      "word": "张凌赫请李一桐剧组奶茶",
+      "onboard_time": 1734779119,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184732,
       "num": 184732,
       "word": "张杰电影",
@@ -10769,14 +10809,6 @@
       "onboard_time": 1734400997,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 176725,
-      "num": 176725,
-      "word": "台湾青年看完731罪证心情难以平复",
-      "onboard_time": 1734775880,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 176676,
@@ -12201,6 +12233,14 @@
       "onboard_time": 1734219014,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159261,
+      "num": 159261,
+      "word": "蔚来NIO Day",
+      "onboard_time": 1734779659,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 159164,
@@ -13931,6 +13971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "浙江 远洋捕捞",
+      "onboard_time": 1734778758,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140678,
       "num": 140678,
       "word": "成都的炸土豆已经进化成这样了吗",
@@ -14121,6 +14169,14 @@
       "onboard_time": 1734439998,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137958,
+      "num": 258010,
+      "word": "回家吧孩子 回家吧",
+      "onboard_time": 1734777079,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 137955,
@@ -14497,6 +14553,14 @@
       "onboard_time": 1734430701,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 134034,
+      "num": 134034,
+      "word": "赵一博冬至炫饺子",
+      "onboard_time": 1734778758,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 134017,
@@ -14993,6 +15057,14 @@
       "onboard_time": 1734654318,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 129433,
+      "num": 129433,
+      "word": "殷世航骑射比赛获季军",
+      "onboard_time": 1734778038,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 129393,
@@ -16233,6 +16305,14 @@
       "onboard_time": 1734535340,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117057,
+      "num": 458077,
+      "word": "微短剧不得使用恶俗恶趣味片名",
+      "onboard_time": 1734777079,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 117002,
@@ -17633,6 +17713,14 @@
       "onboard_time": 1734185602,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100802,
+      "num": 213940,
+      "word": "宋翰什么时候下线",
+      "onboard_time": 1734779598,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 100717,
@@ -19049,22 +19137,6 @@
       "onboard_time": 1734771739,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 77180,
-      "num": 458077,
-      "word": "微短剧不得使用恶俗恶趣味片名",
-      "onboard_time": 1734777079,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 77054,
-      "num": 258010,
-      "word": "回家吧孩子 回家吧",
-      "onboard_time": 1734777079,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 76997,
@@ -25591,6 +25663,14 @@
       "num": 214076,
       "word": "考研人即将看到黎明前的曙光",
       "onboard_time": 1734354139,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7996,
+      "num": 160337,
+      "word": "专业课对我好一点",
+      "onboard_time": 1734779718,
       "rank": 29,
       "category": "教育"
     },

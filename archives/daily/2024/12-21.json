@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734777490706,
+  "endTime": 1734779839830,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779628,
+      "num": 682176,
+      "word": "鞠婧祎发烧",
+      "onboard_time": 1734774739,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 776972,
       "num": 776972,
       "word": "2女子吃自助打包近400元海鲜肉类",
       "onboard_time": 1734765857,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 769476,
+      "num": 387308,
+      "word": "甜馨和嗯哼一起去滑雪了",
+      "onboard_time": 1734778878,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 732854,
@@ -233,14 +249,6 @@
       "onboard_time": 1734746717,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 682176,
-      "num": 682176,
-      "word": "鞠婧祎发烧",
-      "onboard_time": 1734774739,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 680561,
@@ -297,6 +305,14 @@
       "onboard_time": 1734754281,
       "rank": 12,
       "category": "网红"
+    },
+    {
+      "raw_hot": 631007,
+      "num": 631007,
+      "word": "翻译 gap",
+      "onboard_time": 1734776719,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 617572,
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392785,
+      "num": 473167,
+      "word": "于适临时换了参赛马匹",
+      "onboard_time": 1734775759,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386487,
       "num": 386487,
       "word": "多名以军士兵承认无差别随意射杀",
@@ -505,6 +529,14 @@
       "onboard_time": 1734753139,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379714,
+      "num": 379714,
+      "word": "黄景瑜发孙千 孙千发黄景瑜",
+      "onboard_time": 1734777798,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 371039,
@@ -537,6 +569,14 @@
       "onboard_time": 1734745937,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341209,
+      "num": 364400,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 337695,
@@ -611,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299555,
-      "num": 364400,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 297823,
       "num": 254059,
       "word": "虞书欣看杨仕泽cha的反应",
@@ -633,14 +665,6 @@
       "onboard_time": 1734773000,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 290561,
-      "num": 473167,
-      "word": "于适临时换了参赛马匹",
-      "onboard_time": 1734775759,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 287097,
@@ -713,14 +737,6 @@
       "onboard_time": 1734762917,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 262056,
-      "num": 262056,
-      "word": "翻译 gap",
-      "onboard_time": 1734776719,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 261804,
@@ -833,6 +849,14 @@
       "onboard_time": 1734753500,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244008,
+      "num": 244008,
+      "word": "台湾青年看完731罪证心情难以平复",
+      "onboard_time": 1734775880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243511,
@@ -1115,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193238,
+      "num": 193238,
+      "word": "冬至快乐",
+      "onboard_time": 1734779178,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193180,
       "num": 199732,
       "word": "饺子",
@@ -1155,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184734,
+      "num": 184734,
+      "word": "张凌赫请李一桐剧组奶茶",
+      "onboard_time": 1734779119,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183096,
       "num": 183096,
       "word": "白鹿逆应援请粉丝吃饺子",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1734772761,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176725,
-      "num": 176725,
-      "word": "台湾青年看完731罪证心情难以平复",
-      "onboard_time": 1734775880,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174921,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1734764597,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159261,
+      "num": 159261,
+      "word": "蔚来NIO Day",
+      "onboard_time": 1734779659,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 158785,
@@ -1579,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "浙江 远洋捕捞",
+      "onboard_time": 1734778758,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138846,
       "num": 138846,
       "word": "15岁少年拥有自己的私人博物馆",
@@ -1595,12 +1643,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137958,
+      "num": 258010,
+      "word": "回家吧孩子 回家吧",
+      "onboard_time": 1734777079,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 137955,
       "num": 137955,
       "word": "猫 你可以养我吗",
       "onboard_time": 1734743478,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135219,
+      "num": 135219,
+      "word": "九重紫",
+      "onboard_time": 1734777618,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 135140,
@@ -1635,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134034,
+      "num": 134034,
+      "word": "赵一博冬至炫饺子",
+      "onboard_time": 1734778758,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132792,
       "num": 197461,
       "word": "也门胡塞武装导弹袭击以色列中部",
@@ -1657,6 +1729,14 @@
       "onboard_time": 1734761539,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129433,
+      "num": 129433,
+      "word": "殷世航骑射比赛获季军",
+      "onboard_time": 1734778038,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 129097,
@@ -1835,6 +1915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117057,
+      "num": 458077,
+      "word": "微短剧不得使用恶俗恶趣味片名",
+      "onboard_time": 1734777079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116359,
       "num": 116359,
       "word": "你好星期六全员混搭粤语",
@@ -1905,6 +1993,14 @@
       "onboard_time": 1734704660,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110796,
+      "num": 110796,
+      "word": "阴阳师",
+      "onboard_time": 1734779779,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 109204,
@@ -1993,6 +2089,14 @@
       "onboard_time": 1734744257,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 100802,
+      "num": 213940,
+      "word": "宋翰什么时候下线",
+      "onboard_time": 1734779598,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 98884,
@@ -2169,22 +2273,6 @@
       "onboard_time": 1734771739,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 77180,
-      "num": 458077,
-      "word": "微短剧不得使用恶俗恶趣味片名",
-      "onboard_time": 1734777079,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 77054,
-      "num": 258010,
-      "word": "回家吧孩子 回家吧",
-      "onboard_time": 1734777079,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 75715,
@@ -2943,6 +3031,14 @@
       "num": 297716,
       "word": "政治一巴掌 英语更是两巴掌",
       "onboard_time": 1734773359,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7996,
+      "num": 160337,
+      "word": "专业课对我好一点",
+      "onboard_time": 1734779718,
       "rank": 29,
       "category": "教育"
     },
