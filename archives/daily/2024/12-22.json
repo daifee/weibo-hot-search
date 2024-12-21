@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734823216973,
+  "endTime": 1734824153296,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515146,
+      "num": 884940,
+      "word": "13楼住户遭厨余炸弹袭击",
+      "onboard_time": 1734792079,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470683,
       "num": 470683,
       "word": "猎罪图鉴2女子在工厂活活饿死",
@@ -65,14 +73,6 @@
       "onboard_time": 1734778878,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364851,
-      "num": 364851,
-      "word": "13楼住户遭厨余炸弹袭击",
-      "onboard_time": 1734792079,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360182,
@@ -155,11 +155,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 219202,
+      "num": 191577,
+      "word": "肖战冬至晒了三个饺子",
+      "onboard_time": 1734823815,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208006,
       "num": 167345,
       "word": "夫妻玩闹时妻子黄体破裂",
       "onboard_time": 1734759977,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193535,
+      "num": 193535,
+      "word": "考研",
+      "onboard_time": 1734823693,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 188183,
+      "num": 188183,
+      "word": "当地回应农村养老院冬天窗户无玻璃",
+      "onboard_time": 1734820210,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -177,6 +201,14 @@
       "onboard_time": 1734786140,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172508,
+      "num": 70869,
+      "word": "广州南站通报高铁夹到乘客拖行事件",
+      "onboard_time": 1734823753,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167607,
@@ -211,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145062,
-      "num": 145062,
-      "word": "当地回应农村养老院冬天窗户无玻璃",
-      "onboard_time": 1734820210,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 141036,
+      "num": 141036,
+      "word": "看到去世30年妈妈的照片消防员哭了",
+      "onboard_time": 1734803055,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 140389,
@@ -235,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132591,
+      "num": 132591,
+      "word": "2024年度微盘点",
+      "onboard_time": 1734805632,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132234,
       "num": 132234,
       "word": "丁禹兮谭松韵 兰香如故",
@@ -251,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119997,
-      "num": 119997,
-      "word": "2024年度微盘点",
-      "onboard_time": 1734805632,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 121420,
+      "num": 105229,
+      "word": "分手2年了前女友还在刷我的卡",
+      "onboard_time": 1734823693,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 118487,
@@ -291,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114485,
+      "num": 106969,
+      "word": "巴萨1比2马竞",
+      "onboard_time": 1734823634,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114350,
       "num": 114350,
       "word": "海口一32岁男飞行员海文大桥失联",
@@ -305,14 +353,6 @@
       "onboard_time": 1734764957,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111632,
-      "num": 111632,
-      "word": "看到去世30年妈妈的照片消防员哭了",
-      "onboard_time": 1734803055,
-      "rank": 16,
-      "category": "正能量"
     },
     {
       "raw_hot": 108642,
@@ -411,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71105,
+      "num": 71105,
+      "word": "孟子义觉得九重紫播太快了",
+      "onboard_time": 1734823753,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70244,
       "num": 88173,
       "word": "花7000多网购药收到4袋藕粉",
@@ -483,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63410,
+      "num": 559589,
+      "word": "古人的过冬氛围感太足了",
+      "onboard_time": 1734788720,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 59536,
       "num": 75676,
       "word": "Uzi和JackeyLove金克丝对线",
@@ -491,12 +547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56726,
-      "num": 559589,
-      "word": "古人的过冬氛围感太足了",
-      "onboard_time": 1734788720,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 57073,
+      "num": 70902,
+      "word": "你好星期六下期是北上",
+      "onboard_time": 1734823214,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 56513,
@@ -507,8 +563,16 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 52534,
-      "num": 46931,
+      "raw_hot": 55606,
+      "num": 106187,
+      "word": "刘亦菲ins发嘉人大合照",
+      "onboard_time": 1734823753,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 55350,
+      "num": 55350,
       "word": "故宫再现冬至限定奇观",
       "onboard_time": 1734817692,
       "rank": 49,
@@ -523,12 +587,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49963,
+      "num": 49963,
+      "word": "随手拍的一张照片能泄露多少信息",
+      "onboard_time": 1734809052,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49799,
       "num": 49799,
       "word": "也门胡塞武装成功击中以首都目标",
       "onboard_time": 1734815831,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48419,
+      "num": 141744,
+      "word": "男子网贷1000元3天内需还2000元",
+      "onboard_time": 1734823693,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47566,
@@ -547,12 +627,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 43785,
-      "num": 45941,
-      "word": "随手拍的一张照片能泄露多少信息",
-      "onboard_time": 1734809052,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 44898,
+      "num": 50166,
+      "word": "吴昕 鸥把你穿到了身上",
+      "onboard_time": 1734823935,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 43688,
@@ -561,6 +641,38 @@
       "onboard_time": 1734800895,
       "rank": 47,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 43029,
+      "num": 43029,
+      "word": "伏黑惠 我们的恩惠",
+      "onboard_time": 1734823815,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 42795,
+      "num": 48296,
+      "word": "为了让你上头微短剧有通用公式",
+      "onboard_time": 1734822853,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42745,
+      "num": 42745,
+      "word": "巴菲特在美股市场大扫货",
+      "onboard_time": 1734823815,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 41337,
+      "num": 128522,
+      "word": "2025考研第2天",
+      "onboard_time": 1734823753,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 37089,
@@ -681,14 +793,6 @@
       "onboard_time": 1734813140,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12098,
-      "num": 48296,
-      "word": "为了让你上头微短剧有通用公式",
-      "onboard_time": 1734822853,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10756,
