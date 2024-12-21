@@ -1,0 +1,410 @@
+{
+  "runTime": 1734816932065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 151561,
+        "num": 180933,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77577,
+        "num": 77577,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15872,
+        "num": 63292,
+        "word": "古人的过冬氛围感太足了",
+        "onboard_time": 1734788720,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 60234,
+        "num": 60234,
+        "word": "真想跪下来求自己别嗑了",
+        "onboard_time": 1734788238,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44512,
+        "num": 44512,
+        "word": "男子查贷款额度竟被强制下款",
+        "onboard_time": 1734793340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41434,
+        "num": 41434,
+        "word": "男子吃未煮熟猪肉致双耳全聋",
+        "onboard_time": 1734792439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40854,
+        "num": 40854,
+        "word": "看到去世30年妈妈的照片消防员哭了",
+        "onboard_time": 1734803055,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 39999,
+        "num": 39999,
+        "word": "日军为何竭尽全力想打捞甲午沉舰",
+        "onboard_time": 1734787339,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33861,
+        "num": 33861,
+        "word": "猎罪图鉴2女子在工厂活活饿死",
+        "onboard_time": 1734789381,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12380,
+        "num": 33490,
+        "word": "也门胡塞武装成功击中以首都目标",
+        "onboard_time": 1734815831,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48110,
+        "num": 33473,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33368,
+        "num": 33368,
+        "word": "大四男生遭电瓶烧伤室友被逮捕",
+        "onboard_time": 1734785839,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33238,
+        "num": 33238,
+        "word": "殷世航回应全国骑射比赛第三",
+        "onboard_time": 1734790820,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 33170,
+        "num": 33170,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29620,
+        "num": 29620,
+        "word": "海口一32岁男飞行员海文大桥失联",
+        "onboard_time": 1734780739,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28722,
+        "num": 28722,
+        "word": "被抱摔女生称对方没道歉还造黄谣",
+        "onboard_time": 1734804253,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28567,
+        "num": 28567,
+        "word": "郑爽未履行70万案款被限消",
+        "onboard_time": 1734789260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26887,
+        "num": 26887,
+        "word": "甜馨和嗯哼一起去滑雪了",
+        "onboard_time": 1734778878,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24482,
+        "num": 24482,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18376,
+        "num": 24123,
+        "word": "黄景瑜发孙千 孙千发黄景瑜",
+        "onboard_time": 1734777798,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28357,
+        "num": 24063,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25023,
+        "num": 23974,
+        "word": "男子被狗咬伤4个月后狂犬病发死亡",
+        "onboard_time": 1734785179,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23875,
+        "num": 23875,
+        "word": "有5种蔬菜嘌呤比肉还高",
+        "onboard_time": 1734784159,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22843,
+        "num": 22843,
+        "word": "13楼住户遭厨余炸弹袭击",
+        "onboard_time": 1734792079,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22834,
+        "num": 22834,
+        "word": "2024年度微盘点",
+        "onboard_time": 1734805632,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21075,
+        "num": 21075,
+        "word": "你买的冲锋衣可能是假的",
+        "onboard_time": 1734786140,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20952,
+        "num": 20952,
+        "word": "男生滑雪摔倒后站起来那一下帅爆了",
+        "onboard_time": 1734795499,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16787,
+        "num": 20759,
+        "word": "王鹤棣不小心摔倒剪进正片",
+        "onboard_time": 1734788960,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16621,
+        "num": 20710,
+        "word": "再见爱人 姐姐妹妹站起来",
+        "onboard_time": 1734795499,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14888,
+        "num": 20676,
+        "word": "殷世航称竞技比赛输赢很正常",
+        "onboard_time": 1734794119,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20672,
+        "num": 20672,
+        "word": "蔚来 萤火虫",
+        "onboard_time": 1734787519,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20376,
+        "num": 20376,
+        "word": "袁记云饺发布最新说明",
+        "onboard_time": 1734792980,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14703,
+        "num": 20249,
+        "word": "许嵩呼吸之野演唱会",
+        "onboard_time": 1734798856,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20223,
+        "num": 20223,
+        "word": "贵阳一小学4名学生欺凌1同学",
+        "onboard_time": 1734794599,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14833,
+        "num": 18392,
+        "word": "章昊韩维辰道歉",
+        "onboard_time": 1734786140,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13369,
+        "num": 17690,
+        "word": "海南省旅游委通报非法经营将顶格处罚",
+        "onboard_time": 1734815232,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17172,
+        "num": 17172,
+        "word": "官方通报贵阳市实验小学欺凌事件",
+        "onboard_time": 1734794599,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15803,
+        "num": 15803,
+        "word": "俄罗斯帅哥在陕西摊煎饼果子",
+        "onboard_time": 1734806651,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15546,
+        "num": 15546,
+        "word": "劳尔卡斯特罗参加抗议美国制裁游行",
+        "onboard_time": 1734812650,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15402,
+        "num": 15402,
+        "word": "国防部摆事实驳斥美抹黑中国军队",
+        "onboard_time": 1734810251,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14712,
+        "num": 14712,
+        "word": "饺子能流传上千年是有道理的",
+        "onboard_time": 1734811450,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14632,
+        "num": 14632,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14243,
+        "num": 14631,
+        "word": "被抱摔女生回应老师称能进全省前三",
+        "onboard_time": 1734805453,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14086,
+        "num": 14628,
+        "word": "袁记云饺有店铺销量下滑三分之一",
+        "onboard_time": 1734799996,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13772,
+        "num": 14627,
+        "word": "丁禹兮谭松韵 兰香如故",
+        "onboard_time": 1734785958,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13729,
+        "num": 14623,
+        "word": "随手拍的一张照片能泄露多少信息",
+        "onboard_time": 1734809052,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13564,
+        "num": 14621,
+        "word": "用AI打开冬至",
+        "onboard_time": 1734805392,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13296,
+        "num": 14618,
+        "word": "你的减肥运动可能并没有消耗脂肪",
+        "onboard_time": 1734793099,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12871,
+        "num": 14616,
+        "word": "嗜战成瘾的美国成全球安全最大威胁者",
+        "onboard_time": 1734815051,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11817,
+        "num": 14613,
+        "word": "美方东拼西凑年复一年发虚伪报告",
+        "onboard_time": 1734813140,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门行#"
+    }
+  }
+}

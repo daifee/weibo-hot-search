@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734815961522,
+  "endTime": 1734816932065,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -603,23 +603,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12228,
-      "num": 25910,
-      "word": "美方东拼西凑年复一年发虚伪报告",
-      "onboard_time": 1734813140,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 13369,
+      "num": 34546,
+      "word": "海南省旅游委通报非法经营将顶格处罚",
+      "onboard_time": 1734815232,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 11415,
-      "num": 16188,
-      "word": "也门胡塞武装成功击中以首都目标",
-      "onboard_time": 1734815831,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11413,
+      "raw_hot": 12871,
       "num": 16181,
       "word": "嗜战成瘾的美国成全球安全最大威胁者",
       "onboard_time": 1734815051,
@@ -627,12 +619,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10500,
-      "num": 34546,
-      "word": "海南省旅游委通报非法经营将顶格处罚",
-      "onboard_time": 1734815232,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 12380,
+      "num": 33490,
+      "word": "也门胡塞武装成功击中以首都目标",
+      "onboard_time": 1734815831,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 12228,
+      "num": 25910,
+      "word": "美方东拼西凑年复一年发虚伪报告",
+      "onboard_time": 1734813140,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7800,
