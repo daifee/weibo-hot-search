@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734805681724,
+  "endTime": 1734806461796,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -355,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83544,
+      "num": 83544,
+      "word": "看到去世30年妈妈的照片消防员哭了",
+      "onboard_time": 1734803055,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 79691,
       "num": 88208,
       "word": "裴秀智圣诞老人造型",
@@ -435,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62577,
-      "num": 62577,
-      "word": "看到去世30年妈妈的照片消防员哭了",
-      "onboard_time": 1734803055,
-      "rank": 16,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 59536,
       "num": 75676,
       "word": "Uzi和JackeyLove金克丝对线",
@@ -467,8 +467,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 49806,
-      "num": 49806,
+      "raw_hot": 50425,
+      "num": 50425,
       "word": "被抱摔女生称对方没道歉还造黄谣",
       "onboard_time": 1734804253,
       "rank": 19,
@@ -491,20 +491,20 @@
       "category": "美妆,休闲"
     },
     {
+      "raw_hot": 41627,
+      "num": 41627,
+      "word": "2024年度微盘点",
+      "onboard_time": 1734805632,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37089,
       "num": 58980,
       "word": "谁教檀健次这么展示底妆的",
       "onboard_time": 1734802454,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33377,
-      "num": 33377,
-      "word": "2024年度微盘点",
-      "onboard_time": 1734805632,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30422,
@@ -515,8 +515,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11739,
-      "num": 62991,
+      "raw_hot": 29318,
+      "num": 32013,
+      "word": "鞠婧祎田嘉瑞原始帧氛围感",
+      "onboard_time": 1734806112,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28733,
+      "num": 31995,
+      "word": "用AI打开冬至",
+      "onboard_time": 1734805392,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23524,
+      "num": 71421,
       "word": "被抱摔女生回应老师称能进全省前三",
       "onboard_time": 1734805453,
       "rank": 14,
