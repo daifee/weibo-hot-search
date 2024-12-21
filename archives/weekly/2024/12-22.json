@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734802560293,
+  "endTime": 1734805681724,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -16,6 +16,14 @@
       "word": "00后负债300万1比1复刻蜡笔小新之家",
       "onboard_time": 1734789318,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 595597,
+      "num": 595597,
+      "word": "马航MH370航班重启搜寻",
+      "onboard_time": 1734801854,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -227,14 +235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122885,
-      "num": 136843,
-      "word": "马航MH370航班重启搜寻",
-      "onboard_time": 1734801854,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118487,
       "num": 118487,
       "word": "九重紫 我爱吃这样的",
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62577,
+      "num": 62577,
+      "word": "看到去世30年妈妈的照片消防员哭了",
+      "onboard_time": 1734803055,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 59536,
       "num": 75676,
       "word": "Uzi和JackeyLove金克丝对线",
@@ -459,6 +467,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 49806,
+      "num": 49806,
+      "word": "被抱摔女生称对方没道歉还造黄谣",
+      "onboard_time": 1734804253,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47434,
       "num": 120586,
       "word": "殷世航说自己是运气好",
@@ -481,6 +497,30 @@
       "onboard_time": 1734802454,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33377,
+      "num": 33377,
+      "word": "2024年度微盘点",
+      "onboard_time": 1734805632,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30422,
+      "num": 33215,
+      "word": "留几手回复网友",
+      "onboard_time": 1734804673,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11739,
+      "num": 62991,
+      "word": "被抱摔女生回应老师称能进全省前三",
+      "onboard_time": 1734805453,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7800,
