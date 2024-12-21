@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734812542678,
+  "endTime": 1734813314014,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -556,11 +556,19 @@
     },
     {
       "raw_hot": 21089,
-      "num": 22969,
+      "num": 26070,
       "word": "电影最后的告别今日上映",
       "onboard_time": 1734810491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19868,
+      "num": 35687,
+      "word": "饺子能流传上千年是有道理的",
+      "onboard_time": 1734811450,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 19324,
@@ -579,20 +587,28 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 16664,
-      "num": 35687,
-      "word": "饺子能流传上千年是有道理的",
-      "onboard_time": 1734811450,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 16620,
       "num": 22966,
       "word": "嘘国王在冬眠冬至物料",
       "onboard_time": 1734810372,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11919,
+      "num": 25910,
+      "word": "美方东拼西凑年复一年发虚伪报告",
+      "onboard_time": 1734813140,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11681,
+      "num": 22665,
+      "word": "劳尔卡斯特罗参加抗议美国制裁游行",
+      "onboard_time": 1734812650,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7800,
