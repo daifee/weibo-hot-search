@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734799238378,
+  "endTime": 1734801544692,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508783,
-      "num": 508783,
+      "raw_hot": 516681,
+      "num": 538294,
       "word": "真想跪下来求自己别嗑了",
       "onboard_time": 1734788238,
       "rank": 3,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117881,
+      "num": 278191,
+      "word": "官方通报贵阳市实验小学欺凌事件",
+      "onboard_time": 1734794599,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116607,
       "num": 116607,
       "word": "你的减肥运动可能并没有消耗脂肪",
@@ -273,6 +281,14 @@
       "onboard_time": 1734788960,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104727,
+      "num": 104727,
+      "word": "袁记云饺有店铺销量下滑三分之一",
+      "onboard_time": 1734799996,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99217,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 65666,
-      "num": 65666,
+      "num": 75680,
       "word": "许嵩呼吸之野演唱会",
       "onboard_time": 1734798856,
       "rank": 45,
@@ -411,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59536,
+      "num": 75676,
+      "word": "Uzi和JackeyLove金克丝对线",
+      "onboard_time": 1734789499,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56726,
       "num": 559589,
       "word": "古人的过冬氛围感太足了",
@@ -427,12 +451,20 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 48908,
-      "num": 278191,
-      "word": "官方通报贵阳市实验小学欺凌事件",
-      "onboard_time": 1734794599,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 43688,
+      "num": 75634,
+      "word": "让心情变好的氛围图",
+      "onboard_time": 1734800895,
+      "rank": 47,
+      "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 8570,
+      "num": 120586,
+      "word": "殷世航说自己是运气好",
+      "onboard_time": 1734801194,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 7800,

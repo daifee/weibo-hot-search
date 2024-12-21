@@ -1,0 +1,410 @@
+{
+  "runTime": 1734801544692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516681,
+        "num": 538294,
+        "word": "真想跪下来求自己别嗑了",
+        "onboard_time": 1734788238,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359273,
+        "num": 359273,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40431,
+        "num": 321348,
+        "word": "古人的过冬氛围感太足了",
+        "onboard_time": 1734788720,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 288693,
+        "num": 288693,
+        "word": "男子吃未煮熟猪肉致双耳全聋",
+        "onboard_time": 1734792439,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244026,
+        "num": 244026,
+        "word": "男生滑雪摔倒后站起来那一下帅爆了",
+        "onboard_time": 1734795499,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240761,
+        "num": 240761,
+        "word": "猎罪图鉴2女子在工厂活活饿死",
+        "onboard_time": 1734789381,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194189,
+        "num": 194189,
+        "word": "于洋喝错孟子义的咖啡",
+        "onboard_time": 1734794059,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180814,
+        "num": 180814,
+        "word": "甜馨和嗯哼一起去滑雪了",
+        "onboard_time": 1734778878,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165119,
+        "num": 165119,
+        "word": "贵阳一小学4名学生欺凌1同学",
+        "onboard_time": 1734794599,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149698,
+        "num": 149698,
+        "word": "大四男生遭电瓶烧伤室友被逮捕",
+        "onboard_time": 1734785839,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180060,
+        "num": 143623,
+        "word": "比赛方回应于适骑射比赛输给殷世航",
+        "onboard_time": 1734774199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178791,
+        "num": 142059,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159673,
+        "num": 137446,
+        "word": "章昊韩维辰道歉",
+        "onboard_time": 1734786140,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "袁记云饺发布最新说明",
+        "onboard_time": 1734792980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8570,
+        "num": 120586,
+        "word": "殷世航说自己是运气好",
+        "onboard_time": 1734801194,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 147032,
+        "num": 120431,
+        "word": "于适一袭红衣代表广东队参赛",
+        "onboard_time": 1734783798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118843,
+        "num": 118843,
+        "word": "日军为何竭尽全力想打捞甲午沉舰",
+        "onboard_time": 1734787339,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117881,
+        "num": 117881,
+        "word": "官方通报贵阳市实验小学欺凌事件",
+        "onboard_time": 1734794599,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 104727,
+        "word": "袁记云饺有店铺销量下滑三分之一",
+        "onboard_time": 1734799996,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103874,
+        "num": 103874,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139483,
+        "num": 103786,
+        "word": "郑爽未履行70万案款被限消",
+        "onboard_time": 1734789260,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130999,
+        "num": 102795,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114229,
+        "num": 101735,
+        "word": "殷世航回应全国骑射比赛第三",
+        "onboard_time": 1734790820,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 105074,
+        "num": 100575,
+        "word": "男子被狗咬伤4个月后狂犬病发死亡",
+        "onboard_time": 1734785179,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104648,
+        "num": 99320,
+        "word": "黄景瑜发孙千 孙千发黄景瑜",
+        "onboard_time": 1734777798,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98818,
+        "num": 98818,
+        "word": "殷世航称竞技比赛输赢很正常",
+        "onboard_time": 1734794119,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93609,
+        "num": 93609,
+        "word": "有5种蔬菜嘌呤比肉还高",
+        "onboard_time": 1734784159,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87248,
+        "num": 87248,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83907,
+        "num": 83907,
+        "word": "蔚来 萤火虫",
+        "onboard_time": 1734787519,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83261,
+        "num": 83261,
+        "word": "丁禹兮谭松韵 兰香如故",
+        "onboard_time": 1734785958,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80919,
+        "num": 80919,
+        "word": "男子查贷款额度竟被强制下款",
+        "onboard_time": 1734793340,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77901,
+        "num": 77901,
+        "word": "你买的冲锋衣可能是假的",
+        "onboard_time": 1734786140,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76097,
+        "num": 76097,
+        "word": "白夜破晓",
+        "onboard_time": 1734795857,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75865,
+        "num": 75865,
+        "word": "再见爱人 姐姐妹妹站起来",
+        "onboard_time": 1734795499,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75704,
+        "num": 75704,
+        "word": "海口一32岁男飞行员海文大桥失联",
+        "onboard_time": 1734780739,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69488,
+        "num": 75701,
+        "word": "王鹤棣不小心摔倒剪进正片",
+        "onboard_time": 1734788960,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66084,
+        "num": 75694,
+        "word": "王心凌谭维维再唱山海",
+        "onboard_time": 1734798018,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62618,
+        "num": 75688,
+        "word": "九重紫 我爱吃这样的",
+        "onboard_time": 1734784819,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 75684,
+        "word": "邵子恒二顺断层第一",
+        "onboard_time": 1734791899,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 61262,
+        "num": 75680,
+        "word": "许嵩呼吸之野演唱会",
+        "onboard_time": 1734798856,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59536,
+        "num": 75676,
+        "word": "Uzi和JackeyLove金克丝对线",
+        "onboard_time": 1734789499,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56230,
+        "num": 75664,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55772,
+        "num": 75660,
+        "word": "13楼住户遭厨余炸弹袭击",
+        "onboard_time": 1734792079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53486,
+        "num": 75656,
+        "word": "翻译 gap",
+        "onboard_time": 1734776719,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46869,
+        "num": 75650,
+        "word": "花7000多网购药收到4袋藕粉",
+        "onboard_time": 1734794959,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 45905,
+        "num": 75644,
+        "word": "你的减肥运动可能并没有消耗脂肪",
+        "onboard_time": 1734793099,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45808,
+        "num": 75641,
+        "word": "孟子义给李昀锐拍日照金山合影",
+        "onboard_time": 1734792261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43688,
+        "num": 75634,
+        "word": "让心情变好的氛围图",
+        "onboard_time": 1734800895,
+        "rank": 47,
+        "category": "美妆,休闲"
+      },
+      {
+        "raw_hot": 41172,
+        "num": 75626,
+        "word": "裴秀智圣诞老人造型",
+        "onboard_time": 1734794179,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38609,
+        "num": 75624,
+        "word": "夏之光送粉丝饺子汤圆",
+        "onboard_time": 1734796098,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平五赴横琴感悟琴澳和鸣之道#"
+    }
+  }
+}
