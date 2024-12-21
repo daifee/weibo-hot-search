@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734806461796,
+  "endTime": 1734808602643,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65717,
+      "num": 65717,
+      "word": "被抱摔女生称对方没道歉还造黄谣",
+      "onboard_time": 1734804253,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65666,
       "num": 75680,
       "word": "许嵩呼吸之野演唱会",
@@ -467,12 +475,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 50425,
-      "num": 50425,
-      "word": "被抱摔女生称对方没道歉还造黄谣",
-      "onboard_time": 1734804253,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 50831,
+      "num": 50831,
+      "word": "俄罗斯帅哥在陕西摊煎饼果子",
+      "onboard_time": 1734806651,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47434,
@@ -531,12 +539,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23524,
+      "raw_hot": 26890,
       "num": 71421,
       "word": "被抱摔女生回应老师称能进全省前三",
       "onboard_time": 1734805453,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14043,
+      "num": 50840,
+      "word": "双飞游不能登机涉事公司被立案调查",
+      "onboard_time": 1734807851,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 7800,
