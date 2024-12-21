@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734787380076,
+  "endTime": 1734788097325,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2667375,
+      "num": 541225,
+      "word": "结婚到阴婚一位农村女性的两场婚礼",
+      "onboard_time": 1734784219,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2416209,
       "num": 2416209,
       "word": "杨子黄圣依 没领证",
       "onboard_time": 1734747797,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2353228,
-      "num": 541225,
-      "word": "结婚到阴婚一位农村女性的两场婚礼",
-      "onboard_time": 1734784219,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2321951,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1074620,
+      "num": 547931,
+      "word": "章昊韩维辰道歉",
+      "onboard_time": 1734786140,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1055241,
       "num": 566397,
       "word": "吴奇隆前妻点赞网友",
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 956208,
-      "num": 547705,
-      "word": "章昊韩维辰道歉",
-      "onboard_time": 1734786140,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 951256,
       "num": 1102543,
       "word": "翻译 gap",
@@ -193,6 +193,14 @@
       "onboard_time": 1734774501,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 850215,
+      "num": 1136034,
+      "word": "男子被狗咬伤4个月后狂犬病发死亡",
+      "onboard_time": 1734785179,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 843327,
@@ -427,14 +435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 555433,
-      "num": 555433,
-      "word": "男子被狗咬伤4个月后狂犬病发死亡",
-      "onboard_time": 1734785179,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 553257,
       "num": 319486,
       "word": "吴奇隆好友出面曝光婚变真相",
@@ -465,6 +465,14 @@
       "onboard_time": 1734738435,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 490899,
+      "num": 490899,
+      "word": "丁禹兮谭松韵 兰香如故",
+      "onboard_time": 1734785958,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 487320,
@@ -515,14 +523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 456673,
-      "num": 456673,
-      "word": "丁禹兮谭松韵 兰香如故",
-      "onboard_time": 1734785958,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 430642,
       "num": 430642,
       "word": "种地吧",
@@ -556,11 +556,19 @@
     },
     {
       "raw_hot": 408185,
-      "num": 356902,
+      "num": 484370,
       "word": "于适一袭红衣代表广东队参赛",
       "onboard_time": 1734783798,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407538,
+      "num": 407538,
+      "word": "九重紫 我爱吃这样的",
+      "onboard_time": 1734784819,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 402482,
@@ -649,14 +657,6 @@
       "onboard_time": 1734745937,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341148,
-      "num": 341148,
-      "word": "九重紫 我爱吃这样的",
-      "onboard_time": 1734784819,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 337695,
@@ -787,12 +787,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276990,
+      "num": 276990,
+      "word": "蔚来 萤火虫",
+      "onboard_time": 1734787519,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 276692,
       "num": 276692,
       "word": "管综作文",
       "onboard_time": 1734754041,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 272557,
+      "num": 517853,
+      "word": "你买的冲锋衣可能是假的",
+      "onboard_time": 1734786140,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271381,
@@ -1155,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205947,
+      "num": 205947,
+      "word": "日军为何竭尽全力想打捞甲午沉舰",
+      "onboard_time": 1734787339,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204706,
       "num": 204706,
       "word": "窦昭怀的是小葡萄不是葡萄干",
       "onboard_time": 1734706881,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204291,
+      "num": 204291,
+      "word": "蔚来 ET9",
+      "onboard_time": 1734785899,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 203553,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1734772520,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198392,
-      "num": 198392,
-      "word": "蔚来 ET9",
-      "onboard_time": 1734785899,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 197625,
@@ -1299,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191040,
+      "num": 191040,
+      "word": "黄景瑜演技",
+      "onboard_time": 1734787220,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190303,
       "num": 190303,
       "word": "吨吨直播",
@@ -1324,7 +1356,7 @@
     },
     {
       "raw_hot": 186322,
-      "num": 186322,
+      "num": 288608,
       "word": "老人感冒住院去世数小时才被发现",
       "onboard_time": 1734785839,
       "rank": 30,
@@ -1379,19 +1411,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180997,
-      "num": 517853,
-      "word": "你买的冲锋衣可能是假的",
-      "onboard_time": 1734786140,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180483,
       "num": 180483,
       "word": "宋亚轩冬至晒自驾vlog",
       "onboard_time": 1734775997,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179862,
+      "num": 179862,
+      "word": "丁程鑫羊肉汤配饺子",
+      "onboard_time": 1734787638,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1433,6 +1465,14 @@
       "onboard_time": 1734754999,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173099,
+      "num": 173099,
+      "word": "没有嫂子的家是不完整的",
+      "onboard_time": 1734787280,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 172237,
@@ -1819,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143517,
+      "num": 322368,
+      "word": "大四男生遭电瓶烧伤室友被逮捕",
+      "onboard_time": 1734785839,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143485,
       "num": 143485,
       "word": "时光代理人",
@@ -1931,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138569,
+      "num": 138569,
+      "word": "郭敬明和代拍卷起来了",
+      "onboard_time": 1734788058,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138250,
       "num": 174571,
       "word": "宋亚轩落叶归根是给青岛准备的",
@@ -1953,6 +2009,14 @@
       "onboard_time": 1734743478,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137951,
+      "num": 137951,
+      "word": "大河票务网退票难屡遭投诉",
+      "onboard_time": 1734785718,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137796,
@@ -2059,22 +2123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130929,
-      "num": 130929,
-      "word": "黄景瑜演技",
-      "onboard_time": 1734787220,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129562,
-      "num": 129562,
-      "word": "没有嫂子的家是不完整的",
-      "onboard_time": 1734787280,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129097,
       "num": 242243,
       "word": "女子网购减肥药吃出精神疾病",
@@ -2171,14 +2219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124105,
-      "num": 124105,
-      "word": "日军为何竭尽全力想打捞甲午沉舰",
-      "onboard_time": 1734787339,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 124003,
       "num": 142607,
       "word": "冬至听葡萄成熟时",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1734784819,
       "rank": 29,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 120570,
+      "num": 266604,
+      "word": "朱婷发挥",
+      "onboard_time": 1734787940,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 119149,
@@ -2361,14 +2409,6 @@
       "onboard_time": 1734704660,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109707,
-      "num": 322368,
-      "word": "大四男生遭电瓶烧伤室友被逮捕",
-      "onboard_time": 1734785839,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109204,
@@ -2739,6 +2779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66304,
+      "num": 153537,
+      "word": "近十年最难没惹任何人",
+      "onboard_time": 1734787700,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 63662,
+      "num": 204879,
+      "word": "长歌行动画定档",
+      "onboard_time": 1734787399,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 63453,
       "num": 187492,
       "word": "九尾 冬至快乐好运就要来临了",
@@ -2955,6 +3011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 44257,
+      "num": 472149,
+      "word": "65岁洞庭湖村民称不想再经历被淹",
+      "onboard_time": 1734786078,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43822,
       "num": 51235,
       "word": "黄圣依最强大脑路透 高知感",
@@ -2995,14 +3059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42619,
-      "num": 472149,
-      "word": "65岁洞庭湖村民称不想再经历被淹",
-      "onboard_time": 1734786078,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42332,
       "num": 42332,
       "word": "为388万考研学子加油",
@@ -3017,6 +3073,14 @@
       "onboard_time": 1734744018,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41582,
+      "num": 204445,
+      "word": "B看国创2025片单",
+      "onboard_time": 1734786379,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 41286,
@@ -3116,7 +3180,7 @@
     },
     {
       "raw_hot": 33745,
-      "num": 155872,
+      "num": 160577,
       "word": "何小鹏冬至探班李斌送汤圆",
       "onboard_time": 1734784998,
       "rank": 38,
@@ -3153,6 +3217,14 @@
       "onboard_time": 1734735432,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 30828,
+      "num": 323152,
+      "word": "广电总局要求加强微短剧片名审核",
+      "onboard_time": 1734786980,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 29729,
@@ -3241,6 +3313,14 @@
       "onboard_time": 1734762678,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25467,
+      "num": 558292,
+      "word": "适合冬天的非遗美食",
+      "onboard_time": 1734787580,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 24952,
@@ -3363,14 +3443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18165,
-      "num": 323152,
-      "word": "广电总局要求加强微短剧片名审核",
-      "onboard_time": 1734786980,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17697,
       "num": 17697,
       "word": "中医传承的意义在此刻具象化了",
@@ -3457,6 +3529,14 @@
       "onboard_time": 1734773359,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8227,
+      "num": 493122,
+      "word": "在义乌环游世界",
+      "onboard_time": 1734787940,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7922,
