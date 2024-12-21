@@ -1,21 +1,21 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734772850117,
+  "endTime": 1734773713772,
   "band_list": [
+    {
+      "raw_hot": 13099309,
+      "num": 13099309,
+      "word": "考研英语",
+      "onboard_time": 1734771558,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 9365392,
       "num": 9365392,
       "word": "考研政治",
       "onboard_time": 1734749897,
       "rank": 43,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 8760803,
-      "num": 8760803,
-      "word": "考研英语",
-      "onboard_time": 1734771558,
-      "rank": 0,
       "category": "教育"
     },
     {
@@ -195,8 +195,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 697784,
-      "num": 697784,
+      "raw_hot": 700995,
+      "num": 700995,
       "word": "鞠婧祎 青蛇",
       "onboard_time": 1734767897,
       "rank": 4,
@@ -555,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297495,
+      "num": 297495,
+      "word": "考研英语 你也没放过我",
+      "onboard_time": 1734773000,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287097,
       "num": 222566,
       "word": "广外 nctwish",
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217021,
+      "num": 575925,
+      "word": "盘点2024",
+      "onboard_time": 1734772218,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215387,
       "num": 215387,
       "word": "空调冰箱洗衣机",
@@ -849,14 +865,6 @@
       "onboard_time": 1734736274,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208560,
-      "num": 575925,
-      "word": "盘点2024",
-      "onboard_time": 1734772218,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207248,
@@ -939,6 +947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198814,
+      "num": 327946,
+      "word": "朴彩英上海快闪",
+      "onboard_time": 1734772520,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197184,
       "num": 197184,
       "word": "射雕英雄传侠之大者春节档预测",
@@ -1003,12 +1019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182898,
+      "num": 182898,
+      "word": "25岁女孩前夫门前轻生后被配阴婚",
+      "onboard_time": 1734771437,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182355,
       "num": 182355,
       "word": "孟子义有效播剧的含金量",
       "onboard_time": 1734749417,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177786,
+      "num": 327149,
+      "word": "张远红烧肉咬人事件",
+      "onboard_time": 1734772761,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 174921,
@@ -1057,6 +1089,14 @@
       "onboard_time": 1734752777,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169378,
+      "num": 219053,
+      "word": "黄体破裂严重会危及生命",
+      "onboard_time": 1734769758,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165094,
@@ -1139,6 +1179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155692,
+      "num": 321722,
+      "word": "陈建斌带法国影后回中戏母校",
+      "onboard_time": 1734771978,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155640,
       "num": 155640,
       "word": "章七娘背后中刀身亡",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1734736213,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149401,
+      "num": 301668,
+      "word": "考研英语一最猛的1",
+      "onboard_time": 1734772881,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 147572,
@@ -1299,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142868,
-      "num": 160045,
-      "word": "25岁女孩前夫门前轻生后被配阴婚",
-      "onboard_time": 1734771437,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141985,
       "num": 141985,
       "word": "考研时间",
@@ -1315,28 +1363,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141750,
-      "num": 160394,
-      "word": "陈建斌带法国影后回中戏母校",
-      "onboard_time": 1734771978,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141734,
       "num": 141734,
       "word": "陈昊宇 死嘴快炫啊",
       "onboard_time": 1734749838,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141705,
-      "num": 141705,
-      "word": "朴彩英上海快闪",
-      "onboard_time": 1734772520,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 141161,
@@ -1355,12 +1387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140059,
-      "num": 219053,
-      "word": "黄体破裂严重会危及生命",
-      "onboard_time": 1734769758,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 140888,
+      "num": 311314,
+      "word": "迪丽热巴战队微博之夜全明星第一",
+      "onboard_time": 1734773060,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 138846,
@@ -1385,6 +1417,14 @@
       "onboard_time": 1734743478,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135140,
+      "num": 134383,
+      "word": "考研政治大巫见小巫",
+      "onboard_time": 1734773481,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 134772,
@@ -1523,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123599,
-      "num": 123599,
-      "word": "张远红烧肉咬人事件",
-      "onboard_time": 1734772761,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123480,
       "num": 123480,
       "word": "2024道个别",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1734755899,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111775,
+      "num": 654659,
+      "word": "240小时的过境免签后劲真大",
+      "onboard_time": 1734770537,
+      "rank": 5,
+      "category": "正能量"
     },
     {
       "raw_hot": 111526,
@@ -1843,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90233,
+      "num": 319578,
+      "word": "内存满了都舍不得删的雪景",
+      "onboard_time": 1734773599,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89290,
       "num": 82576,
       "word": "张杰电影",
@@ -1883,12 +1931,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78877,
-      "num": 654659,
-      "word": "240小时的过境免签后劲真大",
-      "onboard_time": 1734770537,
-      "rank": 5,
-      "category": "正能量"
+      "raw_hot": 77300,
+      "num": 321084,
+      "word": "离开体制内我终于不再写宣传稿",
+      "onboard_time": 1734771739,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 75715,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1734748817,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73269,
+      "num": 303953,
+      "word": "考研英语craftsman",
+      "onboard_time": 1734772940,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 73038,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1734708020,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72221,
-      "num": 321084,
-      "word": "离开体制内我终于不再写宣传稿",
-      "onboard_time": 1734771739,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 72058,
@@ -2315,6 +2363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33223,
+      "num": 184459,
+      "word": "BLG教练组年度最佳教练组",
+      "onboard_time": 1734771558,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 33126,
+      "num": 310520,
+      "word": "陈雨菲巴黎奥运后首秀",
+      "onboard_time": 1734770478,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32497,
       "num": 42841,
       "word": "尔滨冰雪大世界融合了亚冬元素",
@@ -2395,8 +2459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25494,
+      "num": 970910,
+      "word": "文化中国行发现冬至之美",
+      "onboard_time": 1734769398,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24952,
-      "num": 124949,
+      "num": 174676,
       "word": "随机偶遇一个田嘉瑞",
       "onboard_time": 1734772700,
       "rank": 43,
@@ -2425,14 +2497,6 @@
       "onboard_time": 1734720132,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24344,
-      "num": 970910,
-      "word": "文化中国行发现冬至之美",
-      "onboard_time": 1734769398,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 23535,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1734732132,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19855,
+      "num": 304675,
+      "word": "英语一 图表作文",
+      "onboard_time": 1734773359,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 18324,
@@ -2603,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9276,
+      "num": 297716,
+      "word": "政治一巴掌 英语更是两巴掌",
+      "onboard_time": 1734773359,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7922,
       "num": 51459,
       "word": "梦之队Pro晋级挑杯淘汰赛",
@@ -2643,11 +2723,35 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 5966,
+      "num": 308897,
+      "word": "这是谁给我报的名",
+      "onboard_time": 1734773659,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 5326,
       "num": 35298,
       "word": "吉克隽逸把粉丝一把抱进怀里",
       "onboard_time": 1734721811,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5006,
+      "num": 139065,
+      "word": "苏醒巡演西安站",
+      "onboard_time": 1734773540,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 4889,
+      "num": 139677,
+      "word": "全世界都在偶遇檀健次嗦粉",
+      "onboard_time": 1734773540,
+      "rank": 43,
       "category": "艺人"
     }
   ],

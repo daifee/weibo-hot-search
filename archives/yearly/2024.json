@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1734772850117,
+  "endTime": 1734773713772,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -737,6 +737,14 @@
       "onboard_time": 1733298276,
       "rank": 1,
       "category": "读书作家,剧集"
+    },
+    {
+      "raw_hot": 13099309,
+      "num": 13099309,
+      "word": "考研英语",
+      "onboard_time": 1734771558,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 13096456,
@@ -2121,14 +2129,6 @@
       "onboard_time": 1716191360,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8760803,
-      "num": 8760803,
-      "word": "考研英语",
-      "onboard_time": 1734771558,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 8749772,
