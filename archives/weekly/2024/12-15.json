@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734791788164,
+  "endTime": 1734794446595,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -793,6 +793,14 @@
       "onboard_time": 1734424819,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1150450,
+      "num": 1184072,
+      "word": "00后负债300万1比1复刻蜡笔小新之家",
+      "onboard_time": 1734789318,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1144327,
@@ -1683,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 830121,
+      "num": 830121,
+      "word": "男子吃未煮熟猪肉致双耳全聋",
+      "onboard_time": 1734792439,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826450,
       "num": 451392,
       "word": "李冰冰 妈咪",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1734698658,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 711909,
+      "num": 711909,
+      "word": "真想跪下来求自己别嗑了",
+      "onboard_time": 1734788238,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 711823,
@@ -3043,14 +3067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 579927,
-      "num": 579927,
-      "word": "真想跪下来求自己别嗑了",
-      "onboard_time": 1734788238,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 577004,
       "num": 1459681,
       "word": "男子疑因护士妻子出轨自杀一事已立案",
@@ -3545,14 +3561,6 @@
       "onboard_time": 1734503540,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 515314,
-      "num": 515314,
-      "word": "00后负债300万1比1复刻蜡笔小新之家",
-      "onboard_time": 1734789318,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 514228,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1734494061,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452251,
+      "num": 452251,
+      "word": "殷世航回应全国骑射比赛第三",
+      "onboard_time": 1734790820,
+      "rank": 35,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 451698,
@@ -7331,6 +7347,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 240146,
+      "num": 240146,
+      "word": "你的减肥运动可能并没有消耗脂肪",
+      "onboard_time": 1734793099,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 239991,
       "num": 239991,
       "word": "杨幂湖南卫视跨年官宣加盟",
@@ -7649,6 +7673,14 @@
       "onboard_time": 1734244519,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227777,
+      "num": 385110,
+      "word": "袁记云饺发布最新说明",
+      "onboard_time": 1734792980,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227732,
@@ -9587,14 +9619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 194951,
-      "num": 194951,
-      "word": "殷世航回应全国骑射比赛第三",
-      "onboard_time": 1734790820,
-      "rank": 35,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 194919,
       "num": 308134,
       "word": "和平饭店298元自卑套餐已下架",
@@ -10273,6 +10297,14 @@
       "onboard_time": 1734582680,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188680,
+      "num": 188680,
+      "word": "穿袜子睡觉会更香吗",
+      "onboard_time": 1734792680,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188609,
@@ -10963,6 +10995,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179616,
+      "num": 179616,
+      "word": "邵子恒二顺断层第一",
+      "onboard_time": 1734791899,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179410,
       "num": 179410,
       "word": "于适 从CCTV6到CCTV5",
@@ -11483,6 +11523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171956,
+      "num": 171956,
+      "word": "于洋喝错孟子义的咖啡",
+      "onboard_time": 1734794059,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171826,
       "num": 171826,
       "word": "庆祝澳门回归祖国25周年文艺晚会",
@@ -11905,6 +11953,14 @@
       "onboard_time": 1734326058,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166927,
+      "num": 166927,
+      "word": "毛不易在演唱会被贴脸开大",
+      "onboard_time": 1734792379,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 166889,
@@ -12777,6 +12833,14 @@
       "onboard_time": 1734409822,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157869,
+      "num": 242458,
+      "word": "苏醒直播",
+      "onboard_time": 1734793039,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 157838,
@@ -13787,6 +13851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147856,
+      "num": 147856,
+      "word": "曾庆杰镜头下的孔雪儿",
+      "onboard_time": 1734793039,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147812,
       "num": 236180,
       "word": "张颂文哭戏",
@@ -13931,6 +14003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145644,
+      "num": 145644,
+      "word": "阿斯顿维拉2比1曼城",
+      "onboard_time": 1734793819,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145577,
       "num": 151929,
       "word": "Chovy说被Faker打回现实",
@@ -13969,6 +14049,14 @@
       "onboard_time": 1734750618,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144994,
+      "num": 144994,
+      "word": "孟子义给李昀锐拍日照金山合影",
+      "onboard_time": 1734792261,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 144791,
@@ -14481,6 +14569,14 @@
       "onboard_time": 1734391035,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140082,
+      "num": 140082,
+      "word": "水蓝",
+      "onboard_time": 1734793579,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 140043,
@@ -15403,6 +15499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131456,
+      "num": 131456,
+      "word": "什么图给李荣浩吊成翘嘴了",
+      "onboard_time": 1734794239,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131340,
       "num": 277514,
       "word": "樊振东许昕上演身在曹营心在汉",
@@ -15433,6 +15537,14 @@
       "onboard_time": 1734658038,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131150,
+      "num": 131150,
+      "word": "朱志鑫苏新皓笨蛋版滑冰互推",
+      "onboard_time": 1734793219,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 131044,
@@ -16169,6 +16281,14 @@
       "onboard_time": 1734496640,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124059,
+      "num": 794741,
+      "word": "尔滨长长长521米冰滑梯体验来了",
+      "onboard_time": 1734789080,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124003,
@@ -16987,6 +17107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115823,
+      "num": 115823,
+      "word": "裴秀智圣诞老人造型",
+      "onboard_time": 1734794179,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115770,
       "num": 197327,
       "word": "电视剧我是刑警",
@@ -17457,14 +17585,6 @@
       "onboard_time": 1734399256,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111165,
-      "num": 794741,
-      "word": "尔滨长长长521米冰滑梯体验来了",
-      "onboard_time": 1734789080,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111002,
@@ -20275,6 +20395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 68650,
+      "num": 167897,
+      "word": "殷世航称竞技比赛输赢很正常",
+      "onboard_time": 1734794119,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68643,
       "num": 68643,
       "word": "飞鹤",
@@ -20353,6 +20481,14 @@
       "onboard_time": 1734514280,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67672,
+      "num": 308131,
+      "word": "男子查贷款额度竟被强制下款",
+      "onboard_time": 1734793340,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67566,
@@ -24859,12 +24995,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22712,
+      "num": 189473,
+      "word": "小区业主质疑物业费捆绑增值服务费",
+      "onboard_time": 1734793879,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22630,
       "num": 194247,
       "word": "好匆匆的一年",
       "onboard_time": 1734506179,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22610,
+      "num": 249643,
+      "word": "汽车底盘告别颠簸",
+      "onboard_time": 1734792079,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 22595,
@@ -25049,6 +25201,14 @@
       "onboard_time": 1734441500,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21239,
+      "num": 112744,
+      "word": "这么搭穿出职业OL感",
+      "onboard_time": 1734793579,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 21140,
@@ -25673,6 +25833,14 @@
       "onboard_time": 1734550331,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15536,
+      "num": 227631,
+      "word": "周思成模版",
+      "onboard_time": 1734793940,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 15384,
