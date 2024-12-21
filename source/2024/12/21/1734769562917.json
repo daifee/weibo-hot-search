@@ -1,0 +1,410 @@
+{
+  "runTime": 1734769562917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526280,
+        "num": 1526280,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 944903,
+        "num": 944903,
+        "word": "女子目睹母亲车祸受惊吓5天后身亡",
+        "onboard_time": 1734767897,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7420,
+        "num": 824694,
+        "word": "文化中国行发现冬至之美",
+        "onboard_time": 1734769398,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 776972,
+        "num": 776972,
+        "word": "2女子吃自助打包近400元海鲜肉类",
+        "onboard_time": 1734765857,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472047,
+        "num": 472047,
+        "word": "鞠婧祎 青蛇",
+        "onboard_time": 1734767897,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1314208,
+        "num": 471694,
+        "word": "被同学抱摔艺考女生本有望进全省前三",
+        "onboard_time": 1734763037,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315549,
+        "num": 470749,
+        "word": "虞书欣林一新剧冬至营业",
+        "onboard_time": 1734765975,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732854,
+        "num": 469740,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96939,
+        "num": 468149,
+        "word": "店长回应2女子吃自助连吃带拿被抓包",
+        "onboard_time": 1734769217,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21208,
+        "num": 467925,
+        "word": "民营经济促进法草案提请审议",
+        "onboard_time": 1734768918,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 467118,
+        "num": 467118,
+        "word": "肖秀荣 今年是近十年最难的一次",
+        "onboard_time": 1734753198,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331460,
+        "num": 331460,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322615,
+        "num": 322615,
+        "word": "冉莹颖说婚后不一定要有夫妻生活",
+        "onboard_time": 1734754281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47839,
+        "num": 317539,
+        "word": "俄喀山多个住宅楼遭无人机袭击",
+        "onboard_time": 1734769156,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42663,
+        "num": 313177,
+        "word": "德国袭击事件嫌犯身份曝光",
+        "onboard_time": 1734767897,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313026,
+        "num": 313026,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286697,
+        "num": 286697,
+        "word": "小伙长期喝饮料双手长满痛风石肿如萝卜",
+        "onboard_time": 1734767358,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188223,
+        "num": 282939,
+        "word": "杨紫新图旧图",
+        "onboard_time": 1734762917,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164856,
+        "num": 275275,
+        "word": "丁程鑫毕业大戏汇报演出",
+        "onboard_time": 1734763157,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229736,
+        "num": 269095,
+        "word": "32岁妈妈辞职考研5个月上岸清华",
+        "onboard_time": 1734768378,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448180,
+        "num": 266214,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261804,
+        "num": 261804,
+        "word": "乒超总决赛樊振东或再对决王楚钦",
+        "onboard_time": 1734764537,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260802,
+        "num": 260802,
+        "word": "尔滨冰滑梯不够用了加到24条",
+        "onboard_time": 1734757580,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 253335,
+        "num": 253335,
+        "word": "韩东君终于光膀子背双肩包了",
+        "onboard_time": 1734768677,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63589,
+        "num": 253209,
+        "word": "久酷太抽象了",
+        "onboard_time": 1734769217,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253207,
+        "num": 253207,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194713,
+        "num": 194713,
+        "word": "奔跑吧连夜翻母带",
+        "onboard_time": 1734767777,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163087,
+        "num": 191527,
+        "word": "向佐希望多赚钱郭碧婷多休息",
+        "onboard_time": 1734768858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 7648,
+        "num": 191212,
+        "word": "这就是考研的你",
+        "onboard_time": 1734769457,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234998,
+        "num": 191204,
+        "word": "原来韩国公务员的工资也很少",
+        "onboard_time": 1734765138,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191196,
+        "num": 191196,
+        "word": "何秋亊 dsn",
+        "onboard_time": 1734754281,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181253,
+        "num": 181253,
+        "word": "白鹿逆应援请粉丝吃饺子",
+        "onboard_time": 1734768016,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160944,
+        "num": 160944,
+        "word": "考研",
+        "onboard_time": 1734769517,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155640,
+        "num": 155640,
+        "word": "章七娘背后中刀身亡",
+        "onboard_time": 1734768197,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149889,
+        "num": 149889,
+        "word": "印度校长被曝偷拿学生午饭的鸡蛋",
+        "onboard_time": 1734767238,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147391,
+        "num": 147391,
+        "word": "马航370航班客机为何重启搜寻",
+        "onboard_time": 1734765495,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12824,
+        "num": 145952,
+        "word": "遥瞰掌上明珠澳门",
+        "onboard_time": 1734768737,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 145588,
+        "num": 145588,
+        "word": "2025天蝎座超强财运",
+        "onboard_time": 1734764897,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143256,
+        "num": 143256,
+        "word": "天价防水补一个洞2万",
+        "onboard_time": 1734766457,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142816,
+        "num": 142816,
+        "word": "OPPO申请ophone商标",
+        "onboard_time": 1734767056,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "魏大勋的眼睛变大了",
+        "onboard_time": 1734763218,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138983,
+        "num": 138983,
+        "word": "王鹤棣田曦薇有什么我不能听的",
+        "onboard_time": 1734760158,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138389,
+        "num": 138389,
+        "word": "赵丽颖和央视新闻夜读日历温暖联动",
+        "onboard_time": 1734759917,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134234,
+        "num": 134234,
+        "word": "判断羽绒服真伪只能靠拆吗",
+        "onboard_time": 1734768318,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123391,
+        "num": 123391,
+        "word": "何秋亊回应",
+        "onboard_time": 1734748817,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117083,
+        "num": 117083,
+        "word": "地租和代役租",
+        "onboard_time": 1734766397,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113342,
+        "num": 113342,
+        "word": "饺子",
+        "onboard_time": 1734765678,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111025,
+        "num": 111025,
+        "word": "孙千晒冬至三件套",
+        "onboard_time": 1734769098,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110544,
+        "num": 110544,
+        "word": "现在就出发",
+        "onboard_time": 1734764177,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107074,
+        "num": 107074,
+        "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+        "onboard_time": 1734753139,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一段视频见证情暖濠江#"
+    }
+  }
+}
