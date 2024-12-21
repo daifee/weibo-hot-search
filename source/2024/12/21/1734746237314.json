@@ -1,0 +1,410 @@
+{
+  "runTime": 1734746237314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1108643,
+        "num": 1177382,
+        "word": "网曝海底捞虾滑吃出蛆",
+        "onboard_time": 1734740236,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085638,
+        "num": 1085638,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19697,
+        "num": 1011318,
+        "word": "一组数据看澳门回归25周年",
+        "onboard_time": 1734703159,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 980508,
+        "num": 980508,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649634,
+        "num": 649634,
+        "word": "孟子义妈妈也演了九重紫",
+        "onboard_time": 1734738256,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604013,
+        "num": 604013,
+        "word": "考研人数已连续两年下降",
+        "onboard_time": 1734741735,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482532,
+        "num": 482532,
+        "word": "学生生病叫120保安不让急救车进校",
+        "onboard_time": 1734741018,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430226,
+        "num": 430226,
+        "word": "于东来直播员工午休打麻将",
+        "onboard_time": 1734738435,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429369,
+        "num": 429369,
+        "word": "西藏航空一航班起飞后突然返航",
+        "onboard_time": 1734741376,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144432,
+        "num": 407320,
+        "word": "考研第1天",
+        "onboard_time": 1734740176,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248031,
+        "num": 402420,
+        "word": "年味氛围组已就位",
+        "onboard_time": 1734743778,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464419,
+        "num": 401408,
+        "word": "德国车辆冲撞人群事件致2死68伤",
+        "onboard_time": 1734737595,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 398874,
+        "num": 398874,
+        "word": "何老师也有接不住的梗",
+        "onboard_time": 1734744018,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310831,
+        "num": 310831,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302228,
+        "num": 302228,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271381,
+        "num": 271381,
+        "word": "成都羊肉汤老师傅说多熬自然就白",
+        "onboard_time": 1734708379,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242056,
+        "num": 242056,
+        "word": "服从性测试",
+        "onboard_time": 1734737293,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230635,
+        "num": 230635,
+        "word": "留几手深夜狂回复",
+        "onboard_time": 1734740357,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196729,
+        "num": 196729,
+        "word": "吴奇隆好友出面曝光婚变真相",
+        "onboard_time": 1734702438,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70028,
+        "num": 184079,
+        "word": "赵丽颖央视新闻夜读",
+        "onboard_time": 1734745937,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335912,
+        "num": 178804,
+        "word": "上班因为恶心穿搭被领导谈话",
+        "onboard_time": 1734739636,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172237,
+        "num": 172237,
+        "word": "一个普通女孩150斤到102斤之路",
+        "onboard_time": 1734737293,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155467,
+        "num": 155467,
+        "word": "窦昭怀的是小葡萄不是葡萄干",
+        "onboard_time": 1734706881,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143539,
+        "num": 143539,
+        "word": "尹恩惠40岁的状态",
+        "onboard_time": 1734707480,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "唐尚珺称确实考虑过再考一次",
+        "onboard_time": 1734744137,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140435,
+        "num": 140435,
+        "word": "德国汽车撞人致2死肇事者被捕",
+        "onboard_time": 1734744557,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138515,
+        "num": 138515,
+        "word": "今年考研或有60万人弃考",
+        "onboard_time": 1734743238,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124003,
+        "num": 138356,
+        "word": "冬至听葡萄成熟时",
+        "onboard_time": 1734743177,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123796,
+        "num": 137662,
+        "word": "王鹤棣原声",
+        "onboard_time": 1734745877,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87455,
+        "num": 137322,
+        "word": "当归和芹菜香菜撞脸了",
+        "onboard_time": 1734744257,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 294190,
+        "num": 136571,
+        "word": "海南省旅文厅已报案",
+        "onboard_time": 1734744917,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136522,
+        "num": 136522,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 125731,
+        "num": 125731,
+        "word": "女子每天被隔壁鸡鸭声惊醒崩溃",
+        "onboard_time": 1734742939,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120172,
+        "num": 124175,
+        "word": "papi酱 倪萍老师能不能开个班",
+        "onboard_time": 1734736274,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123403,
+        "num": 123403,
+        "word": "女孩意外坠海靠羽绒服漂浮自救",
+        "onboard_time": 1734708320,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118196,
+        "num": 118196,
+        "word": "丁禹兮cha虞书欣spicyhoney",
+        "onboard_time": 1734707539,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115627,
+        "num": 115627,
+        "word": "学校回应保安不让120进校",
+        "onboard_time": 1734743598,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109204,
+        "num": 109204,
+        "word": "冬至祝福",
+        "onboard_time": 1734745277,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104699,
+        "num": 104699,
+        "word": "猫 你可以养我吗",
+        "onboard_time": 1734743478,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104172,
+        "num": 104172,
+        "word": "贺峻霖一路繁花司机上线",
+        "onboard_time": 1734745697,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103998,
+        "num": 103998,
+        "word": "于适骑射比赛输给殷世航",
+        "onboard_time": 1734696918,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 102507,
+        "num": 102507,
+        "word": "普京表示茅台也有伏特加也有",
+        "onboard_time": 1734702739,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95572,
+        "num": 95572,
+        "word": "步入中老年她们去考研",
+        "onboard_time": 1734744557,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89030,
+        "num": 89030,
+        "word": "金世佳 俩娃压垮老艺术家",
+        "onboard_time": 1734701479,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87208,
+        "num": 87208,
+        "word": "男子离世房产留给妻儿未分9旬母亲",
+        "onboard_time": 1734711617,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84152,
+        "num": 84152,
+        "word": "女子网购6克黄金变2000克",
+        "onboard_time": 1734701719,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60467,
+        "num": 82093,
+        "word": "李嘉欣 爱仔仔",
+        "onboard_time": 1734745097,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 81952,
+        "num": 81952,
+        "word": "冬至吃饺子",
+        "onboard_time": 1734743716,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 79638,
+        "num": 79638,
+        "word": "冬至文案",
+        "onboard_time": 1734740717,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78464,
+        "num": 78464,
+        "word": "遇见冬至春归有期",
+        "onboard_time": 1734739935,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察驻澳门部队#"
+    }
+  }
+}

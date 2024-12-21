@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734745252609,
+  "endTime": 1734746237314,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1126821,
-      "num": 1126821,
+      "num": 1177382,
       "word": "网曝海底捞虾滑吃出蛆",
       "onboard_time": 1734740236,
       "rank": 1,
@@ -92,15 +92,15 @@
     },
     {
       "raw_hot": 604769,
-      "num": 365744,
+      "num": 401408,
       "word": "德国车辆冲撞人群事件致2死68伤",
       "onboard_time": 1734737595,
       "rank": 23,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 599079,
-      "num": 599079,
+      "raw_hot": 604013,
+      "num": 604013,
       "word": "考研人数已连续两年下降",
       "onboard_time": 1734741735,
       "rank": 5,
@@ -131,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482532,
+      "num": 482532,
+      "word": "学生生病叫120保安不让急救车进校",
+      "onboard_time": 1734741018,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 475605,
       "num": 413574,
       "word": "尹恩惠40岁的状态",
       "onboard_time": 1734707480,
       "rank": 6,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 468975,
-      "num": 468975,
-      "word": "学生生病叫120保安不让急救车进校",
-      "onboard_time": 1734741018,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 421081,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 402482,
-      "num": 157838,
+      "num": 178804,
       "word": "上班因为恶心穿搭被领导谈话",
       "onboard_time": 1734739636,
       "rank": 20,
@@ -169,6 +169,14 @@
       "onboard_time": 1734701719,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398874,
+      "num": 398874,
+      "word": "何老师也有接不住的梗",
+      "onboard_time": 1734744018,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 337695,
@@ -211,12 +219,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 294190,
+      "num": 136571,
+      "word": "海南省旅文厅已报案",
+      "onboard_time": 1734744917,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287097,
       "num": 222566,
       "word": "广外 nctwish",
       "onboard_time": 1734708499,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271381,
+      "num": 271381,
+      "word": "成都羊肉汤老师傅说多熬自然就白",
+      "onboard_time": 1734708379,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 259548,
@@ -267,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248031,
+      "num": 402420,
+      "word": "年味氛围组已就位",
+      "onboard_time": 1734743778,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242626,
       "num": 186226,
       "word": "KBS导播",
@@ -281,14 +313,6 @@
       "onboard_time": 1734691579,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217309,
-      "num": 217309,
-      "word": "何老师也有接不住的梗",
-      "onboard_time": 1734744018,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 208759,
@@ -315,20 +339,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185198,
-      "num": 185198,
-      "word": "年味氛围组已就位",
-      "onboard_time": 1734743778,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "考研",
       "onboard_time": 1734682578,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172237,
+      "num": 172237,
+      "word": "一个普通女孩150斤到102斤之路",
+      "onboard_time": 1734737293,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 162015,
@@ -339,24 +363,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 161716,
-      "num": 157391,
-      "word": "一个普通女孩150斤到102斤之路",
-      "onboard_time": 1734737293,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 158533,
-      "num": 174958,
-      "word": "成都羊肉汤老师傅说多熬自然就白",
-      "onboard_time": 1734708379,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 157475,
-      "num": 375511,
+      "num": 407320,
       "word": "考研第1天",
       "onboard_time": 1734740176,
       "rank": 9,
@@ -435,12 +443,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135077,
-      "num": 135077,
-      "word": "海南省旅文厅已报案",
-      "onboard_time": 1734744917,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 138515,
+      "num": 138515,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 129018,
@@ -467,20 +475,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 124003,
+      "num": 142607,
+      "word": "冬至听葡萄成熟时",
+      "onboard_time": 1734743177,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123796,
+      "num": 137662,
+      "word": "王鹤棣原声",
+      "onboard_time": 1734745877,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123669,
       "num": 123669,
       "word": "孟子义说夏之光红气养人",
       "onboard_time": 1734707239,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121465,
-      "num": 142607,
-      "word": "冬至听葡萄成熟时",
-      "onboard_time": 1734743177,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 118472,
@@ -523,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109204,
+      "num": 109204,
+      "word": "冬至祝福",
+      "onboard_time": 1734745277,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109061,
       "num": 142696,
       "word": "岑浩辉宣誓就任澳门行政长官",
@@ -537,6 +561,22 @@
       "onboard_time": 1734705380,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104699,
+      "num": 104699,
+      "word": "猫 你可以养我吗",
+      "onboard_time": 1734743478,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104172,
+      "num": 104172,
+      "word": "贺峻霖一路繁花司机上线",
+      "onboard_time": 1734745697,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 101901,
@@ -579,20 +619,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96459,
-      "num": 96459,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96284,
       "num": 96284,
       "word": "丁禹兮把张新成逗笑了",
       "onboard_time": 1734707300,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95572,
+      "num": 156863,
+      "word": "步入中老年她们去考研",
+      "onboard_time": 1734744557,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92349,
@@ -611,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 86562,
-      "num": 156863,
-      "word": "步入中老年她们去考研",
-      "onboard_time": 1734744557,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84409,
       "num": 84409,
       "word": "遇见冬至春归有期",
@@ -635,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80896,
-      "num": 80896,
-      "word": "猫 你可以养我吗",
-      "onboard_time": 1734743478,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 79638,
+      "num": 79638,
+      "word": "冬至文案",
+      "onboard_time": 1734740717,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 73038,
@@ -656,6 +688,14 @@
       "word": "福冈偶遇seventeen",
       "onboard_time": 1734708020,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70028,
+      "num": 184079,
+      "word": "赵丽颖央视新闻夜读",
+      "onboard_time": 1734745937,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -697,6 +737,14 @@
       "onboard_time": 1734726251,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60467,
+      "num": 158485,
+      "word": "李嘉欣 爱仔仔",
+      "onboard_time": 1734745097,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 59635,
@@ -841,14 +889,6 @@
       "onboard_time": 1734735432,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 32000,
-      "num": 158485,
-      "word": "李嘉欣 爱仔仔",
-      "onboard_time": 1734745097,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 29434,
