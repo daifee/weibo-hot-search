@@ -1,0 +1,410 @@
+{
+  "runTime": 1734755163253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9365392,
+        "num": 9365392,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2321951,
+        "num": 2321951,
+        "word": "肖四没押中",
+        "onboard_time": 1734753320,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69841,
+        "num": 2278799,
+        "word": "澳门每个路牌指引的都是家的方向",
+        "onboard_time": 1734750917,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2275766,
+        "num": 2275766,
+        "word": "肖秀荣 今年是近十年最难的一次",
+        "onboard_time": 1734753198,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1608432,
+        "num": 1608432,
+        "word": "杨子黄圣依 没领证",
+        "onboard_time": 1734747797,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1259572,
+        "num": 1259572,
+        "word": "考研管综",
+        "onboard_time": 1734752599,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1142671,
+        "num": 1142671,
+        "word": "考研政治 难",
+        "onboard_time": 1734753800,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 705362,
+        "num": 705362,
+        "word": "背的都在材料里",
+        "onboard_time": 1734753139,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 386605,
+        "num": 690563,
+        "word": "何秋亊回应",
+        "onboard_time": 1734748817,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326601,
+        "num": 682473,
+        "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+        "onboard_time": 1734753139,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680561,
+        "num": 680561,
+        "word": "考研政治答案",
+        "onboard_time": 1734753800,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 666738,
+        "num": 666738,
+        "word": "冉莹颖说婚后不一定要有夫妻生活",
+        "onboard_time": 1734754281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635901,
+        "num": 635901,
+        "word": "何秋亊 dsn",
+        "onboard_time": 1734754281,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 579749,
+        "num": 579749,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35229,
+        "num": 457088,
+        "word": "调查组调查执法人员用个人码收罚款",
+        "onboard_time": 1734754640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364957,
+        "num": 364957,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333890,
+        "num": 333890,
+        "word": "包文婧否认机场孕照是装的",
+        "onboard_time": 1734746717,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328492,
+        "num": 328492,
+        "word": "处处碰壁男子决定清洗满脸文身",
+        "onboard_time": 1734748337,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273362,
+        "num": 327053,
+        "word": "小小的我提档",
+        "onboard_time": 1734748698,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21225,
+        "num": 326348,
+        "word": "NBA新赛季2024",
+        "onboard_time": 1734754640,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326282,
+        "num": 326282,
+        "word": "海南省旅文厅已报案",
+        "onboard_time": 1734744917,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276692,
+        "num": 276692,
+        "word": "管综作文",
+        "onboard_time": 1734754041,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245441,
+        "num": 245441,
+        "word": "海底捞虾滑事件",
+        "onboard_time": 1734751818,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126037,
+        "num": 232985,
+        "word": "Peanut力挺Faker",
+        "onboard_time": 1734753500,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27237,
+        "num": 228263,
+        "word": "谁是你的冬日搭子",
+        "onboard_time": 1734754281,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227806,
+        "num": 227806,
+        "word": "鞠婧祎陈都灵牵手路透",
+        "onboard_time": 1734753500,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209956,
+        "num": 209956,
+        "word": "冬至被赵丽颖温暖治愈",
+        "onboard_time": 1734752478,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207103,
+        "num": 207103,
+        "word": "李昀锐 内娱舒肤佳",
+        "onboard_time": 1734752599,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232105,
+        "num": 201844,
+        "word": "一生勤俭的外婆竟舍得打赏男主播",
+        "onboard_time": 1734752478,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147753,
+        "num": 194493,
+        "word": "六个沈翊一台戏名场面",
+        "onboard_time": 1734754699,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231477,
+        "num": 194483,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193782,
+        "num": 193782,
+        "word": "利路修明年愚人节退圈",
+        "onboard_time": 1734748038,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 191140,
+        "num": 191140,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181949,
+        "num": 181949,
+        "word": "上班因为恶心穿搭被领导谈话",
+        "onboard_time": 1734739636,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178702,
+        "num": 178702,
+        "word": "今年考研或有60万人弃考",
+        "onboard_time": 1734743238,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175502,
+        "num": 175502,
+        "word": "以军被曝比赛谁打死的人多",
+        "onboard_time": 1734747018,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174785,
+        "num": 174785,
+        "word": "孟子义妈妈也演了九重紫",
+        "onboard_time": 1734738256,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173483,
+        "num": 173483,
+        "word": "谢娜为张杰惊喜庆生",
+        "onboard_time": 1734749177,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170396,
+        "num": 170396,
+        "word": "冬至在天文学上是一个位置",
+        "onboard_time": 1734752777,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160579,
+        "num": 160579,
+        "word": "多名以军士兵承认无差别随意射杀",
+        "onboard_time": 1734746657,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159516,
+        "num": 159516,
+        "word": "考研政治选择题",
+        "onboard_time": 1734754999,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "冬至别熬夜晚点起",
+        "onboard_time": 1734750798,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146346,
+        "num": 146346,
+        "word": "冬至是陈奕迅最忙的一天",
+        "onboard_time": 1734749838,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141985,
+        "num": 141985,
+        "word": "考研时间",
+        "onboard_time": 1734752777,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118096,
+        "num": 139863,
+        "word": "给小小的我一张去往2025的车票",
+        "onboard_time": 1734753740,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138133,
+        "num": 138133,
+        "word": "两万七的钻戒回收给三千",
+        "onboard_time": 1734747018,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123980,
+        "num": 123980,
+        "word": "管综答案",
+        "onboard_time": 1734755120,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120210,
+        "num": 120210,
+        "word": "管综199",
+        "onboard_time": 1734754999,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120015,
+        "num": 120015,
+        "word": "赵丽颖央视新闻夜读",
+        "onboard_time": 1734745937,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118444,
+        "num": 118444,
+        "word": "王鹤棣原声",
+        "onboard_time": 1734745877,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平视察驻澳门部队#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734752360034,
+  "endTime": 1734755163253,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -9,6 +9,14 @@
       "onboard_time": 1734667997,
       "rank": 0,
       "category": "舆论监督,美食"
+    },
+    {
+      "raw_hot": 9365392,
+      "num": 9365392,
+      "word": "考研政治",
+      "onboard_time": 1734749897,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 4266097,
@@ -121,6 +129,22 @@
       "onboard_time": 1734235338,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2321951,
+      "num": 2321951,
+      "word": "肖四没押中",
+      "onboard_time": 1734753320,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2275766,
+      "num": 2275766,
+      "word": "肖秀荣 今年是近十年最难的一次",
+      "onboard_time": 1734753198,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 2244019,
@@ -257,14 +281,6 @@
       "onboard_time": 1734594798,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1768248,
-      "num": 1768248,
-      "word": "考研政治",
-      "onboard_time": 1734749897,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 1746700,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1259572,
+      "num": 1259572,
+      "word": "考研管综",
+      "onboard_time": 1734752599,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1257549,
       "num": 1257549,
       "word": "江汉路",
@@ -721,6 +745,14 @@
       "onboard_time": 1734696918,
       "rank": 6,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1142671,
+      "num": 1142671,
+      "word": "考研政治 难",
+      "onboard_time": 1734753800,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 1140763,
@@ -1979,6 +2011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 705362,
+      "num": 705362,
+      "word": "背的都在材料里",
+      "onboard_time": 1734753139,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 703521,
       "num": 1102608,
       "word": "谢娜真不把观众当外人",
@@ -2091,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 680561,
+      "num": 680561,
+      "word": "考研政治答案",
+      "onboard_time": 1734753800,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 678622,
       "num": 360252,
       "word": "大学生恋爱四个月花费近60万",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1734228678,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 666738,
+      "num": 666738,
+      "word": "冉莹颖说婚后不一定要有夫妻生活",
+      "onboard_time": 1734754281,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 666156,
@@ -2393,6 +2449,14 @@
       "onboard_time": 1734361340,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 635901,
+      "num": 635901,
+      "word": "何秋亊 dsn",
+      "onboard_time": 1734754281,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 634579,
@@ -3644,7 +3708,7 @@
     },
     {
       "raw_hot": 461998,
-      "num": 461998,
+      "num": 690563,
       "word": "何秋亊回应",
       "onboard_time": 1734748817,
       "rank": 17,
@@ -5155,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326601,
+      "num": 682473,
+      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+      "onboard_time": 1734753139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 325675,
       "num": 330292,
       "word": "江歌妈妈回应注销名下商户",
@@ -5971,6 +6043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276692,
+      "num": 276692,
+      "word": "管综作文",
+      "onboard_time": 1734754041,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 276673,
       "num": 276673,
       "word": "香飘飘招聘线下奶茶店店员",
@@ -6587,6 +6667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245441,
+      "num": 245441,
+      "word": "海底捞虾滑事件",
+      "onboard_time": 1734751818,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245334,
       "num": 295698,
       "word": "林诗栋3比0胜林高远",
@@ -6843,6 +6931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232105,
+      "num": 201844,
+      "word": "一生勤俭的外婆竟舍得打赏男主播",
+      "onboard_time": 1734752478,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231991,
       "num": 209819,
       "word": "一克黄金到底有多大",
@@ -6993,6 +7089,14 @@
       "onboard_time": 1734244519,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227806,
+      "num": 227806,
+      "word": "鞠婧祎陈都灵牵手路透",
+      "onboard_time": 1734753500,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227732,
@@ -7675,6 +7779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209956,
+      "num": 209956,
+      "word": "冬至被赵丽颖温暖治愈",
+      "onboard_time": 1734752478,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "LPR",
@@ -7825,6 +7937,14 @@
       "onboard_time": 1734433940,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207103,
+      "num": 207103,
+      "word": "李昀锐 内娱舒肤佳",
+      "onboard_time": 1734752599,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207026,
@@ -10011,6 +10131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178702,
+      "num": 178702,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178448,
       "num": 178448,
       "word": "黄明昊领衔主演四喜",
@@ -10057,14 +10185,6 @@
       "onboard_time": 1734682878,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177715,
-      "num": 177715,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 177178,
@@ -10569,6 +10689,14 @@
       "onboard_time": 1734431839,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170396,
+      "num": 170396,
+      "word": "冬至在天文学上是一个位置",
+      "onboard_time": 1734752777,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170330,
@@ -11433,6 +11561,14 @@
       "onboard_time": 1734191719,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159516,
+      "num": 159516,
+      "word": "考研政治选择题",
+      "onboard_time": 1734754999,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 159359,
@@ -12395,6 +12531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148795,
+      "num": 148795,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148677,
       "num": 241863,
       "word": "Uzi谈iG新阵容首秀",
@@ -12489,6 +12633,14 @@
       "onboard_time": 1734409641,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147753,
+      "num": 194493,
+      "word": "六个沈翊一台戏名场面",
+      "onboard_time": 1734754699,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 147643,
@@ -12897,6 +13049,14 @@
       "onboard_time": 1734259938,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141985,
+      "num": 141985,
+      "word": "考研时间",
+      "onboard_time": 1734752777,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 141930,
@@ -14195,14 +14355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128115,
-      "num": 128115,
-      "word": "冬至别熬夜晚点起",
-      "onboard_time": 1734750798,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128111,
       "num": 128111,
       "word": "九重紫预告",
@@ -14344,6 +14496,14 @@
       "word": "德玛西亚杯",
       "onboard_time": 1734341361,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126037,
+      "num": 232985,
+      "word": "Peanut力挺Faker",
+      "onboard_time": 1734753500,
+      "rank": 23,
       "category": "电竞"
     },
     {
@@ -14569,6 +14729,14 @@
       "onboard_time": 1734743177,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123980,
+      "num": 123980,
+      "word": "管综答案",
+      "onboard_time": 1734755120,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 123953,
@@ -14891,6 +15059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120210,
+      "num": 120210,
+      "word": "管综199",
+      "onboard_time": 1734754999,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120036,
       "num": 254378,
       "word": "刘诗诗时尚芭莎2025开年刊",
@@ -15065,6 +15241,14 @@
       "onboard_time": 1734538758,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118096,
+      "num": 139863,
+      "word": "给小小的我一张去往2025的车票",
+      "onboard_time": 1734753740,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 117976,
@@ -16329,14 +16513,6 @@
       "onboard_time": 1734534501,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103360,
-      "num": 103360,
-      "word": "海底捞虾滑事件",
-      "onboard_time": 1734751818,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103273,
@@ -18267,6 +18443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69841,
+      "num": 2278799,
+      "word": "澳门每个路牌指引的都是家的方向",
+      "onboard_time": 1734750917,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69766,
       "num": 214149,
       "word": "赵露思告黑获胜",
@@ -20019,14 +20203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47080,
-      "num": 848760,
-      "word": "澳门每个路牌指引的都是家的方向",
-      "onboard_time": 1734750917,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47027,
       "num": 216176,
       "word": "王楚钦周启豪互动",
@@ -21211,6 +21387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35229,
+      "num": 457088,
+      "word": "调查组调查执法人员用个人码收罚款",
+      "onboard_time": 1734754640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35174,
       "num": 341256,
       "word": "田嘉瑞和草莓好配",
@@ -22179,6 +22363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 27237,
+      "num": 228263,
+      "word": "谁是你的冬日搭子",
+      "onboard_time": 1734754281,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27133,
       "num": 27133,
       "word": "老人被骗交1.68万卖古董能得168万",
@@ -22777,6 +22969,14 @@
       "onboard_time": 1734441500,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21225,
+      "num": 326348,
+      "word": "NBA新赛季2024",
+      "onboard_time": 1734754640,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 21140,

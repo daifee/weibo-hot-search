@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734752360034,
+  "endTime": 1734755163253,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -65,6 +65,14 @@
       "onboard_time": 1733904562,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9365392,
+      "num": 9365392,
+      "word": "考研政治",
+      "onboard_time": 1734749897,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 9093654,
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2321951,
+      "num": 2321951,
+      "word": "肖四没押中",
+      "onboard_time": 1734753320,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2311893,
       "num": 2311893,
       "word": "展信佳",
@@ -641,6 +657,14 @@
       "onboard_time": 1733237365,
       "rank": 3,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2275766,
+      "num": 2275766,
+      "word": "肖秀荣 今年是近十年最难的一次",
+      "onboard_time": 1734753198,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 2271387,
@@ -1113,14 +1137,6 @@
       "onboard_time": 1733757618,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1768248,
-      "num": 1768248,
-      "word": "考研政治",
-      "onboard_time": 1734749897,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 1767037,
@@ -2587,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1259572,
+      "num": 1259572,
+      "word": "考研管综",
+      "onboard_time": 1734752599,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1259389,
       "num": 340659,
       "word": "男孩遇开门杀后遭货车碾压",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1733968821,
       "rank": 1,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 1142671,
+      "num": 1142671,
+      "word": "考研政治 难",
+      "onboard_time": 1734753800,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 1140763,
@@ -7115,6 +7147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 705362,
+      "num": 705362,
+      "word": "背的都在材料里",
+      "onboard_time": 1734753139,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 704246,
       "num": 251245,
       "word": "微信运动太暴露隐私了",
@@ -7483,6 +7523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 680561,
+      "num": 680561,
+      "word": "考研政治答案",
+      "onboard_time": 1734753800,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 680471,
       "num": 680471,
       "word": "肖战专辑开售",
@@ -7744,6 +7792,14 @@
       "word": "小S曾问许玮甯与邱泽舌吻感受",
       "onboard_time": 1734154459,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 666738,
+      "num": 666738,
+      "word": "冉莹颖说婚后不一定要有夫妻生活",
+      "onboard_time": 1734754281,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -8329,6 +8385,14 @@
       "onboard_time": 1733403980,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635901,
+      "num": 635901,
+      "word": "何秋亊 dsn",
+      "onboard_time": 1734754281,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 635189,
@@ -12524,7 +12588,7 @@
     },
     {
       "raw_hot": 461998,
-      "num": 461998,
+      "num": 690563,
       "word": "何秋亊回应",
       "onboard_time": 1734748817,
       "rank": 17,
@@ -17883,6 +17947,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 326601,
+      "num": 682473,
+      "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+      "onboard_time": 1734753139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326415,
       "num": 316423,
       "word": "明白了为什么微信这么占内存了",
@@ -20651,6 +20723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276692,
+      "num": 276692,
+      "word": "管综作文",
+      "onboard_time": 1734754041,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 276673,
       "num": 276673,
       "word": "香飘飘招聘线下奶茶店店员",
@@ -22731,6 +22811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245441,
+      "num": 245441,
+      "word": "海底捞虾滑事件",
+      "onboard_time": 1734751818,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245433,
       "num": 245433,
       "word": "凯特哭着谈泰坦尼克号后直面身材羞辱",
@@ -24027,6 +24115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232105,
+      "num": 201844,
+      "word": "一生勤俭的外婆竟舍得打赏男主播",
+      "onboard_time": 1734752478,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231991,
       "num": 209819,
       "word": "一克黄金到底有多大",
@@ -24505,6 +24601,14 @@
       "onboard_time": 1733303545,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227806,
+      "num": 227806,
+      "word": "鞠婧祎陈都灵牵手路透",
+      "onboard_time": 1734753500,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227732,
@@ -26595,6 +26699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209956,
+      "num": 209956,
+      "word": "冬至被赵丽颖温暖治愈",
+      "onboard_time": 1734752478,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209939,
       "num": 209939,
       "word": "LPR",
@@ -27104,6 +27216,14 @@
       "word": "现在拨打的电话本周停播",
       "onboard_time": 1733476702,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207103,
+      "num": 207103,
+      "word": "李昀锐 内娱舒肤佳",
+      "onboard_time": 1734752599,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -33699,6 +33819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178702,
+      "num": 178702,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178656,
       "num": 329351,
       "word": "中国乡村藏着一本巨型食谱",
@@ -33857,14 +33985,6 @@
       "onboard_time": 1733290222,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177715,
-      "num": 177715,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 177691,
@@ -35449,6 +35569,14 @@
       "onboard_time": 1733799437,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170396,
+      "num": 170396,
+      "word": "冬至在天文学上是一个位置",
+      "onboard_time": 1734752777,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170330,
@@ -38073,6 +38201,14 @@
       "onboard_time": 1733022859,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159516,
+      "num": 159516,
+      "word": "考研政治选择题",
+      "onboard_time": 1734754999,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 159504,
@@ -41107,6 +41243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 148795,
+      "num": 148795,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148756,
       "num": 148756,
       "word": "黄朔杨博文抽象版紫啧",
@@ -41353,6 +41497,14 @@
       "onboard_time": 1734093139,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147753,
+      "num": 194493,
+      "word": "六个沈翊一台戏名场面",
+      "onboard_time": 1734754699,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 147732,
@@ -42753,6 +42905,14 @@
       "onboard_time": 1734259938,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141985,
+      "num": 141985,
+      "word": "考研时间",
+      "onboard_time": 1734752777,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 141981,
@@ -46171,14 +46331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128115,
-      "num": 128115,
-      "word": "冬至别熬夜晚点起",
-      "onboard_time": 1734750798,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 128111,
       "num": 128111,
       "word": "九重紫预告",
@@ -46569,6 +46721,14 @@
       "onboard_time": 1733136199,
       "rank": 43,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 126037,
+      "num": 232985,
+      "word": "Peanut力挺Faker",
+      "onboard_time": 1734753500,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 126006,
@@ -47193,6 +47353,14 @@
       "onboard_time": 1733901020,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123980,
+      "num": 123980,
+      "word": "管综答案",
+      "onboard_time": 1734755120,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 123953,
@@ -48107,6 +48275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120210,
+      "num": 120210,
+      "word": "管综199",
+      "onboard_time": 1734754999,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120134,
       "num": 120134,
       "word": "窦昭人生镜头",
@@ -48544,6 +48720,14 @@
       "word": "认不出这是甜茶",
       "onboard_time": 1733909540,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118096,
+      "num": 139863,
+      "word": "给小小的我一张去往2025的车票",
+      "onboard_time": 1734753740,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -51601,14 +51785,6 @@
       "onboard_time": 1733133739,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103360,
-      "num": 103360,
-      "word": "海底捞虾滑事件",
-      "onboard_time": 1734751818,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103348,
@@ -57411,6 +57587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69841,
+      "num": 2278799,
+      "word": "澳门每个路牌指引的都是家的方向",
+      "onboard_time": 1734750917,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69827,
       "num": 340987,
       "word": "员工打卡证明加班索赔71万未获支持",
@@ -62275,14 +62459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47080,
-      "num": 848760,
-      "word": "澳门每个路牌指引的都是家的方向",
-      "onboard_time": 1734750917,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47027,
       "num": 216176,
       "word": "王楚钦周启豪互动",
@@ -65659,6 +65835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35229,
+      "num": 457088,
+      "word": "调查组调查执法人员用个人码收罚款",
+      "onboard_time": 1734754640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35185,
       "num": 178492,
       "word": "信阳开套牌车打人副镇长被拘留罚款",
@@ -68203,6 +68387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 27237,
+      "num": 228263,
+      "word": "谁是你的冬日搭子",
+      "onboard_time": 1734754281,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27143,
       "num": 117463,
       "word": "微博网友喜爱剧集深潜",
@@ -69913,6 +70105,14 @@
       "onboard_time": 1733159474,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21225,
+      "num": 326348,
+      "word": "NBA新赛季2024",
+      "onboard_time": 1734754640,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 21205,
