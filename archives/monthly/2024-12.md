@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 11:25:07
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/21 11:39:20
 </p>
 </blockquote>
 <p>
@@ -845,6 +845,12 @@ K总要结婚了（热度：1804837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%88%98%E5%A4%A7%E7%BE%8E%E4%B8%BD%E5%8E%BB%E4%B8%96%23" target="weibo">
 网红刘大美丽去世（热度：1774676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%23" target="weibo">
+考研政治（热度：1768248）
 </a>
 </li>
 
@@ -3707,12 +3713,6 @@ Gemini当爸爸了（热度：974629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E6%9C%BA%E5%99%A8%E4%BA%BA%23" target="weibo">
 宇宙机器人（热度：885956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%23" target="weibo">
-考研政治（热度：884997）
 </a>
 </li>
 

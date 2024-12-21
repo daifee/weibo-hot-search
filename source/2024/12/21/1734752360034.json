@@ -1,0 +1,410 @@
+{
+  "runTime": 1734752360034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1768248,
+        "num": 1768248,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1760237,
+        "num": 1760237,
+        "word": "杨子黄圣依 没领证",
+        "onboard_time": 1734747797,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47080,
+        "num": 760751,
+        "word": "澳门每个路牌指引的都是家的方向",
+        "onboard_time": 1734750917,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 756511,
+        "num": 756511,
+        "word": "海南省旅文厅已报案",
+        "onboard_time": 1734744917,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640661,
+        "num": 640661,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595033,
+        "num": 595033,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 545127,
+        "num": 545127,
+        "word": "网曝海底捞虾滑吃出蛆",
+        "onboard_time": 1734740236,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486683,
+        "num": 486683,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39677,
+        "num": 472028,
+        "word": "如何打好首发经济这张牌",
+        "onboard_time": 1734750798,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35042,
+        "num": 467361,
+        "word": "从这天起你将被饺子支配",
+        "onboard_time": 1734751638,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524820,
+        "num": 467160,
+        "word": "包文婧否认机场孕照是装的",
+        "onboard_time": 1734746717,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466780,
+        "num": 466780,
+        "word": "小小的我提档",
+        "onboard_time": 1734748698,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461998,
+        "num": 461998,
+        "word": "何秋亊回应",
+        "onboard_time": 1734748817,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406398,
+        "num": 406398,
+        "word": "处处碰壁男子决定清洗满脸文身",
+        "onboard_time": 1734748337,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206233,
+        "num": 362277,
+        "word": "向佐说这条路我没有对手",
+        "onboard_time": 1734750798,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349332,
+        "num": 349332,
+        "word": "以军被曝比赛谁打死的人多",
+        "onboard_time": 1734747018,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347179,
+        "num": 347179,
+        "word": "多名以军士兵承认无差别随意射杀",
+        "onboard_time": 1734746657,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310145,
+        "num": 310145,
+        "word": "利路修明年愚人节退圈",
+        "onboard_time": 1734748038,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 290791,
+        "num": 290791,
+        "word": "时代少年团周边",
+        "onboard_time": 1734750678,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243515,
+        "num": 243515,
+        "word": "爱情公寓6",
+        "onboard_time": 1734701119,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235150,
+        "num": 235150,
+        "word": "赵丽颖央视新闻夜读",
+        "onboard_time": 1734745937,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231875,
+        "num": 231875,
+        "word": "王鹤棣原声",
+        "onboard_time": 1734745877,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230200,
+        "num": 230200,
+        "word": "谢娜为张杰惊喜庆生",
+        "onboard_time": 1734749177,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217295,
+        "num": 217295,
+        "word": "孟子义妈妈也演了九重紫",
+        "onboard_time": 1734738256,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211160,
+        "num": 211160,
+        "word": "上班因为恶心穿搭被领导谈话",
+        "onboard_time": 1734739636,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203920,
+        "num": 203920,
+        "word": "两万七的钻戒回收给三千",
+        "onboard_time": 1734747018,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187504,
+        "num": 187504,
+        "word": "考研人数已连续两年下降",
+        "onboard_time": 1734741735,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174463,
+        "num": 174463,
+        "word": "冬至是陈奕迅最忙的一天",
+        "onboard_time": 1734749838,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158653,
+        "num": 158653,
+        "word": "留几手回应对葛夕没感觉",
+        "onboard_time": 1734747797,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156079,
+        "num": 156079,
+        "word": "为什么年轻人愿意为可爱玩偶树挂买单",
+        "onboard_time": 1734746897,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153073,
+        "num": 153073,
+        "word": "何超盈带女儿参加升旗礼",
+        "onboard_time": 1734751038,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150714,
+        "num": 150714,
+        "word": "于东来直播员工午休打麻将",
+        "onboard_time": 1734738435,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144180,
+        "num": 144180,
+        "word": "冬至电视剧",
+        "onboard_time": 1734751518,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138007,
+        "num": 138007,
+        "word": "赵露思彭冠英湖边饭拍照",
+        "onboard_time": 1734747679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133289,
+        "num": 133289,
+        "word": "陈昊宇 死嘴快炫啊",
+        "onboard_time": 1734749838,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129988,
+        "num": 129988,
+        "word": "年轻人晒娃晒到树上了",
+        "onboard_time": 1734750558,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128115,
+        "num": 128115,
+        "word": "冬至别熬夜晚点起",
+        "onboard_time": 1734750798,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125791,
+        "num": 125791,
+        "word": "今年考研或有60万人弃考",
+        "onboard_time": 1734743238,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125176,
+        "num": 125176,
+        "word": "晋江",
+        "onboard_time": 1734704779,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 123480,
+        "num": 123480,
+        "word": "2024道个别",
+        "onboard_time": 1734752298,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115500,
+        "num": 115500,
+        "word": "金店因金价爆涨拒发货赔15万差价",
+        "onboard_time": 1734709338,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103360,
+        "num": 103360,
+        "word": "海底捞虾滑事件",
+        "onboard_time": 1734751818,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97393,
+        "num": 97393,
+        "word": "何老师也有接不住的梗",
+        "onboard_time": 1734744018,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95617,
+        "num": 95617,
+        "word": "西藏航空一航班起飞后突然返航",
+        "onboard_time": 1734741376,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93484,
+        "num": 93484,
+        "word": "服从性测试",
+        "onboard_time": 1734737293,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93008,
+        "num": 93008,
+        "word": "孟子义有效播剧的含金量",
+        "onboard_time": 1734749417,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89093,
+        "num": 89093,
+        "word": "一个普通女孩150斤到102斤之路",
+        "onboard_time": 1734737293,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88430,
+        "num": 88430,
+        "word": "花花巳升升排排坐等着你",
+        "onboard_time": 1734752118,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68232,
+        "num": 86014,
+        "word": "为什么说冬至是养生黄金期",
+        "onboard_time": 1734750078,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59573,
+        "num": 85800,
+        "word": "成都羊肉汤老师傅说多熬自然就白",
+        "onboard_time": 1734708379,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门一定能打开发展新天地#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734751507681,
+  "endTime": 1734752360034,
   "band_list": [
     {
       "raw_hot": 2416209,
@@ -9,6 +9,14 @@
       "onboard_time": 1734747797,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1768248,
+      "num": 1768248,
+      "word": "考研政治",
+      "onboard_time": 1734749897,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 1230074,
@@ -51,14 +59,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 884997,
-      "num": 884997,
-      "word": "考研政治",
-      "onboard_time": 1734749897,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 843327,
       "num": 843327,
       "word": "海南省旅文厅已报案",
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 682752,
-      "num": 438833,
+      "num": 467160,
       "word": "包文婧否认机场孕照是装的",
       "onboard_time": 1734746717,
       "rank": 10,
@@ -137,6 +137,14 @@
       "onboard_time": 1734741735,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 595033,
+      "num": 595033,
+      "word": "今年冬至是128年来最早冬至",
+      "onboard_time": 1734748758,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 590629,
@@ -195,8 +203,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 430081,
-      "num": 430081,
+      "raw_hot": 461998,
+      "num": 461998,
       "word": "何秋亊回应",
       "onboard_time": 1734748817,
       "rank": 17,
@@ -243,20 +251,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 349332,
+      "num": 385245,
+      "word": "以军被曝比赛谁打死的人多",
+      "onboard_time": 1734747018,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 341500,
       "num": 341500,
       "word": "赵丽颖央视新闻夜读",
       "onboard_time": 1734745937,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 338294,
-      "num": 385245,
-      "word": "以军被曝比赛谁打死的人多",
-      "onboard_time": 1734747018,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 337695,
@@ -387,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 248790,
-      "num": 304970,
-      "word": "今年冬至是128年来最早冬至",
-      "onboard_time": 1734748758,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248031,
       "num": 402420,
       "word": "年味氛围组已就位",
@@ -451,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206233,
+      "num": 439400,
+      "word": "向佐说这条路我没有对手",
+      "onboard_time": 1734750798,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204706,
       "num": 204706,
       "word": "窦昭怀的是小葡萄不是葡萄干",
@@ -483,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180336,
-      "num": 439400,
-      "word": "向佐说这条路我没有对手",
-      "onboard_time": 1734750798,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "考研",
@@ -507,8 +507,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 174121,
-      "num": 174121,
+      "raw_hot": 174463,
+      "num": 174463,
       "word": "冬至是陈奕迅最忙的一天",
       "onboard_time": 1734749838,
       "rank": 32,
@@ -571,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 153073,
+      "num": 153073,
+      "word": "何超盈带女儿参加升旗礼",
+      "onboard_time": 1734751038,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150076,
       "num": 254173,
       "word": "潜逃前山西首富在英购买大量房产",
@@ -619,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "冬至电视剧",
+      "onboard_time": 1734751518,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143461,
       "num": 143461,
       "word": "冬至 破镜重圆",
@@ -659,6 +675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128115,
+      "num": 128115,
+      "word": "冬至别熬夜晚点起",
+      "onboard_time": 1734750798,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "工人不慎把剪刀从15楼碰掉了",
@@ -675,14 +699,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 125017,
-      "num": 125017,
-      "word": "何超盈带女儿参加升旗礼",
-      "onboard_time": 1734751038,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124003,
       "num": 142607,
       "word": "冬至听葡萄成熟时",
@@ -697,6 +713,14 @@
       "onboard_time": 1734707239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123480,
+      "num": 123480,
+      "word": "2024道个别",
+      "onboard_time": 1734752298,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 118472,
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103360,
+      "num": 103360,
+      "word": "海底捞虾滑事件",
+      "onboard_time": 1734751818,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101901,
       "num": 156501,
       "word": "当归和芹菜香菜撞脸了",
@@ -851,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94341,
-      "num": 94341,
-      "word": "冬至别熬夜晚点起",
-      "onboard_time": 1734750798,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 92349,
       "num": 130701,
       "word": "又幸福了杭州",
@@ -881,6 +905,14 @@
       "onboard_time": 1734699199,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88430,
+      "num": 88430,
+      "word": "花花巳升升排排坐等着你",
+      "onboard_time": 1734752118,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82682,
@@ -955,20 +987,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 68232,
+      "num": 125045,
+      "word": "为什么说冬至是养生黄金期",
+      "onboard_time": 1734750078,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67142,
       "num": 67142,
       "word": "向佐晒一家四口照片称一生最爱",
       "onboard_time": 1734716833,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66459,
-      "num": 125045,
-      "word": "为什么说冬至是养生黄金期",
-      "onboard_time": 1734750078,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 63453,
@@ -1059,6 +1091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 47080,
+      "num": 848760,
+      "word": "澳门每个路牌指引的都是家的方向",
+      "onboard_time": 1734750917,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46764,
       "num": 46764,
       "word": "殷世航骑射成绩",
@@ -1115,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39677,
+      "num": 472028,
+      "word": "如何打好首发经济这张牌",
+      "onboard_time": 1734750798,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39145,
       "num": 156655,
       "word": "韦世豪质疑足协",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1734730631,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35042,
+      "num": 467361,
+      "word": "从这天起你将被饺子支配",
+      "onboard_time": 1734751638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32497,
@@ -1235,14 +1291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23275,
-      "num": 459797,
-      "word": "如何打好首发经济这张牌",
-      "onboard_time": 1734750798,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22446,
       "num": 22446,
       "word": "于适杭盖乐队改编时来运转",
@@ -1281,14 +1329,6 @@
       "onboard_time": 1734720192,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 21038,
-      "num": 848760,
-      "word": "澳门每个路牌指引的都是家的方向",
-      "onboard_time": 1734750917,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19887,
