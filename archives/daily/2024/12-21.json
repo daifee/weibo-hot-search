@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734770360136,
+  "endTime": 1734772850117,
   "band_list": [
     {
       "raw_hot": 9365392,
@@ -8,6 +8,14 @@
       "word": "考研政治",
       "onboard_time": 1734749897,
       "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 8760803,
+      "num": 8760803,
+      "word": "考研英语",
+      "onboard_time": 1734771558,
+      "rank": 0,
       "category": "教育"
     },
     {
@@ -43,8 +51,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1556073,
-      "num": 1556073,
+      "raw_hot": 1611251,
+      "num": 1611251,
       "word": "女子目睹母亲车祸受惊吓5天后身亡",
       "onboard_time": 1734767897,
       "rank": 1,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 1075138,
-      "num": 266214,
+      "num": 317943,
       "word": "夫妻玩闹时妻子黄体破裂",
       "onboard_time": 1734759977,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1055241,
+      "num": 566397,
+      "word": "吴奇隆前妻点赞网友",
+      "onboard_time": 1734770897,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1051331,
@@ -179,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 697784,
+      "num": 697784,
+      "word": "鞠婧祎 青蛇",
+      "onboard_time": 1734767897,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 682752,
       "num": 467160,
       "word": "包文婧否认机场孕照是装的",
@@ -227,12 +251,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 648803,
-      "num": 648803,
-      "word": "鞠婧祎 青蛇",
-      "onboard_time": 1734767897,
-      "rank": 4,
-      "category": "剧集"
+      "raw_hot": 645204,
+      "num": 645204,
+      "word": "小伙长期喝饮料双手长满痛风石肿如萝卜",
+      "onboard_time": 1734767358,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 635901,
@@ -275,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 596648,
+      "num": 596648,
+      "word": "32岁妈妈辞职考研5个月上岸清华",
+      "onboard_time": 1734768378,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 595033,
       "num": 595033,
       "word": "今年冬至是128年来最早冬至",
@@ -315,19 +347,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 518235,
+      "num": 518235,
+      "word": "考研",
+      "onboard_time": 1734682578,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 502542,
       "num": 502542,
       "word": "西藏航空一航班起飞后突然返航",
       "onboard_time": 1734741376,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 498707,
-      "num": 498707,
-      "word": "小伙长期喝饮料双手长满痛风石肿如萝卜",
-      "onboard_time": 1734767358,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368717,
+      "num": 612792,
+      "word": "向佐希望多赚钱郭碧婷多休息",
+      "onboard_time": 1734768858,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349332,
       "num": 385245,
       "word": "以军被曝比赛谁打死的人多",
@@ -457,14 +497,6 @@
       "onboard_time": 1734748038,
       "rank": 12,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 332293,
-      "num": 332293,
-      "word": "32岁妈妈辞职考研5个月上岸清华",
-      "onboard_time": 1734768378,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329365,
@@ -505,14 +537,6 @@
       "onboard_time": 1734765975,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311852,
-      "num": 612792,
-      "word": "向佐希望多赚钱郭碧婷多休息",
-      "onboard_time": 1734768858,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 304973,
@@ -755,11 +779,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218227,
-      "num": 218227,
-      "word": "考研",
-      "onboard_time": 1734682578,
-      "rank": 31,
+      "raw_hot": 220617,
+      "num": 220617,
+      "word": "千万粉丝网红自曝长期服用安眠药",
+      "onboard_time": 1734771978,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215387,
+      "num": 215387,
+      "word": "空调冰箱洗衣机",
+      "onboard_time": 1734772579,
+      "rank": 23,
       "category": "教育"
     },
     {
@@ -817,6 +849,14 @@
       "onboard_time": 1734736274,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208560,
+      "num": 575925,
+      "word": "盘点2024",
+      "onboard_time": 1734772218,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207248,
@@ -1139,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153035,
+      "num": 153035,
+      "word": "印度校长被曝偷拿学生午饭的鸡蛋",
+      "onboard_time": 1734767238,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152574,
       "num": 152574,
       "word": "马英九称大部分台湾人没看过731恶行历史",
@@ -1163,20 +1211,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 149889,
-      "num": 149889,
-      "word": "印度校长被曝偷拿学生午饭的鸡蛋",
-      "onboard_time": 1734767238,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 149639,
       "num": 149639,
       "word": "1岁宝宝认母期把狗狗当妈妈",
       "onboard_time": 1734736213,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147572,
+      "num": 161251,
+      "word": "李秀满四代同框团建",
+      "onboard_time": 1734771618,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 147435,
@@ -1203,6 +1251,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145175,
+      "num": 532711,
+      "word": "店长回应2女子吃自助连吃带拿被抓包",
+      "onboard_time": 1734769217,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145129,
       "num": 145129,
       "word": "电影小小的我片尾曲MV",
@@ -1227,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143872,
-      "num": 532711,
-      "word": "店长回应2女子吃自助连吃带拿被抓包",
-      "onboard_time": 1734769217,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143461,
       "num": 143461,
       "word": "冬至 破镜重圆",
@@ -1251,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142868,
+      "num": 160045,
+      "word": "25岁女孩前夫门前轻生后被配阴婚",
+      "onboard_time": 1734771437,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141985,
       "num": 141985,
       "word": "考研时间",
@@ -1259,12 +1315,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141750,
+      "num": 160394,
+      "word": "陈建斌带法国影后回中戏母校",
+      "onboard_time": 1734771978,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141734,
       "num": 141734,
       "word": "陈昊宇 死嘴快炫啊",
       "onboard_time": 1734749838,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141705,
+      "num": 141705,
+      "word": "朴彩英上海快闪",
+      "onboard_time": 1734772520,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 141161,
@@ -1281,6 +1353,22 @@
       "onboard_time": 1734710540,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140059,
+      "num": 219053,
+      "word": "黄体破裂严重会危及生命",
+      "onboard_time": 1734769758,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138846,
+      "num": 138846,
+      "word": "15岁少年拥有自己的私人博物馆",
+      "onboard_time": 1734772579,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 138250,
@@ -1435,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123599,
+      "num": 123599,
+      "word": "张远红烧肉咬人事件",
+      "onboard_time": 1734772761,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123480,
       "num": 123480,
       "word": "2024道个别",
@@ -1489,6 +1585,14 @@
       "onboard_time": 1734753740,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117450,
+      "num": 189037,
+      "word": "BLG提前暴漏年度最佳俱乐部",
+      "onboard_time": 1734771318,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 117083,
@@ -1779,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78877,
+      "num": 654659,
+      "word": "240小时的过境免签后劲真大",
+      "onboard_time": 1734770537,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 75715,
       "num": 243817,
       "word": "暗喻幻想获IGN年度游戏",
@@ -1801,6 +1913,14 @@
       "onboard_time": 1734708020,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72221,
+      "num": 321084,
+      "word": "离开体制内我终于不再写宣传稿",
+      "onboard_time": 1734771739,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 72058,
@@ -2059,12 +2179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43353,
+      "num": 519061,
+      "word": "民营经济促进法草案提请审议",
+      "onboard_time": 1734768918,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 43335,
       "num": 120351,
       "word": "美政府有望暂时避免停摆",
       "onboard_time": 1734763577,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43101,
+      "num": 489893,
+      "word": "向佐用手势回应节目争议",
+      "onboard_time": 1734771378,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 42663,
@@ -2259,12 +2395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24750,
-      "num": 219053,
-      "word": "黄体破裂严重会危及生命",
-      "onboard_time": 1734769758,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 24952,
+      "num": 124949,
+      "word": "随机偶遇一个田嘉瑞",
+      "onboard_time": 1734772700,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 24586,
@@ -2283,14 +2419,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 24449,
-      "num": 519061,
-      "word": "民营经济促进法草案提请审议",
-      "onboard_time": 1734768918,
-      "rank": 9,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 24385,
       "num": 24385,
       "word": "李羲承金永大合作舞台",
@@ -2300,7 +2428,7 @@
     },
     {
       "raw_hot": 24344,
-      "num": 835172,
+      "num": 970910,
       "word": "文化中国行发现冬至之美",
       "onboard_time": 1734769398,
       "rank": 2,
