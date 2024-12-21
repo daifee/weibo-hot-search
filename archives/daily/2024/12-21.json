@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734765586818,
+  "endTime": 1734766534600,
   "band_list": [
     {
       "raw_hot": 9365392,
@@ -35,12 +35,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1577937,
-      "num": 1577937,
+      "raw_hot": 1769755,
+      "num": 1769755,
       "word": "用8000块半年赚了130万",
       "onboard_time": 1734763755,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1452176,
+      "num": 1452176,
+      "word": "被同学抱摔艺考女生本有望进全省前三",
+      "onboard_time": 1734763037,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1259572,
@@ -49,14 +57,6 @@
       "onboard_time": 1734752599,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1238156,
-      "num": 1238156,
-      "word": "被同学抱摔艺考女生本有望进全省前三",
-      "onboard_time": 1734763037,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1230074,
@@ -323,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 449565,
+      "num": 449565,
+      "word": "抱摔艺考同学男生来自农村家境不好",
+      "onboard_time": 1734764957,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 285565,
-      "num": 380599,
+      "num": 441823,
       "word": "王鹤棣田曦薇有什么我不能听的",
       "onboard_time": 1734760158,
       "rank": 36,
@@ -523,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264909,
-      "num": 264909,
+      "raw_hot": 264911,
+      "num": 437894,
       "word": "杨紫新图旧图",
       "onboard_time": 1734762917,
       "rank": 17,
@@ -569,6 +577,14 @@
       "onboard_time": 1734711617,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256594,
+      "num": 193546,
+      "word": "原来韩国公务员的工资也很少",
+      "onboard_time": 1734765138,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 253355,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212263,
+      "num": 202265,
+      "word": "魏大勋的眼睛变大了",
+      "onboard_time": 1734763218,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211042,
       "num": 206697,
       "word": "两万七的钻戒回收给三千",
@@ -689,6 +713,14 @@
       "onboard_time": 1734756140,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209705,
+      "num": 209705,
+      "word": "丁程鑫毕业大戏汇报演出",
+      "onboard_time": 1734763157,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 208759,
@@ -731,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204319,
+      "num": 204319,
+      "word": "虞书欣林一新剧冬至营业",
+      "onboard_time": 1734765975,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203553,
       "num": 203553,
       "word": "考研政治选择题",
       "onboard_time": 1734754999,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 201596,
+      "num": 201596,
+      "word": "2025天蝎座超强财运",
+      "onboard_time": 1734764897,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 201375,
@@ -787,20 +835,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193775,
-      "num": 177449,
-      "word": "魏大勋的眼睛变大了",
-      "onboard_time": 1734763218,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193257,
       "num": 193257,
       "word": "朱婷曾每天吃五粒布洛芬止疼",
       "onboard_time": 1734759078,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193180,
+      "num": 199732,
+      "word": "饺子",
+      "onboard_time": 1734765678,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 186164,
@@ -835,6 +883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174921,
+      "num": 174921,
+      "word": "第五人格",
+      "onboard_time": 1734765617,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174364,
       "num": 199857,
       "word": "向佐回应接住泼天流量",
@@ -849,6 +905,14 @@
       "onboard_time": 1734754699,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173187,
+      "num": 175916,
+      "word": "乒超总决赛樊振东或再对决王楚钦",
+      "onboard_time": 1734764537,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 173169,
@@ -889,14 +953,6 @@
       "onboard_time": 1734717793,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160730,
-      "num": 184988,
-      "word": "丁程鑫毕业大戏汇报演出",
-      "onboard_time": 1734763157,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 160700,
@@ -1100,7 +1156,7 @@
     },
     {
       "raw_hot": 140960,
-      "num": 240865,
+      "num": 424046,
       "word": "尔滨冰滑梯不够用了加到24条",
       "onboard_time": 1734757580,
       "rank": 39,
@@ -1123,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137708,
+      "num": 137708,
+      "word": "2女子吃自助打包近400元海鲜肉类",
+      "onboard_time": 1734765857,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134772,
       "num": 134772,
       "word": "在成都坐地铁以为舱门没装",
@@ -1140,7 +1204,7 @@
     },
     {
       "raw_hot": 132792,
-      "num": 186264,
+      "num": 197461,
       "word": "也门胡塞武装导弹袭击以色列中部",
       "onboard_time": 1734760277,
       "rank": 40,
@@ -1179,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 128745,
+      "num": 203808,
+      "word": "网剧凶手的样子开播",
+      "onboard_time": 1734765557,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126661,
       "num": 126661,
       "word": "工人不慎把剪刀从15楼碰掉了",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1734757998,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 124902,
-      "num": 124902,
-      "word": "原来韩国公务员的工资也很少",
-      "onboard_time": 1734765138,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 124584,
@@ -1256,22 +1320,6 @@
       "word": "2024道个别",
       "onboard_time": 1734752298,
       "rank": 39,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 122036,
-      "num": 358577,
-      "word": "抱摔艺考同学男生来自农村家境不好",
-      "onboard_time": 1734764957,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121631,
-      "num": 121631,
-      "word": "2025天蝎座超强财运",
-      "onboard_time": 1734764897,
-      "rank": 43,
       "category": "情感"
     },
     {
@@ -1443,14 +1491,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 98934,
-      "num": 175916,
-      "word": "乒超总决赛樊振东或再对决王楚钦",
-      "onboard_time": 1734764537,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98884,
       "num": 98884,
       "word": "德国",
@@ -1516,7 +1556,7 @@
     },
     {
       "raw_hot": 93560,
-      "num": 166244,
+      "num": 185310,
       "word": "钎城画的小猪托脸头像",
       "onboard_time": 1734764897,
       "rank": 31,
@@ -1651,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65590,
+      "num": 200123,
+      "word": "地租和代役租",
+      "onboard_time": 1734766397,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 63453,
       "num": 187492,
       "word": "九尾 冬至快乐好运就要来临了",
@@ -1681,14 +1729,6 @@
       "onboard_time": 1734726251,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61252,
-      "num": 176116,
-      "word": "网剧凶手的样子开播",
-      "onboard_time": 1734765557,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 60467,
@@ -2027,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25702,
+      "num": 201355,
+      "word": "宋威龙给粉丝回信",
+      "onboard_time": 1734762678,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24586,
       "num": 215141,
       "word": "博主控诉交警高速设卡查超速违规",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1734754640,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22985,
+      "num": 196028,
+      "word": "田嘉瑞冬日限定男友",
+      "onboard_time": 1734764296,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 22446,
@@ -2155,12 +2211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14295,
-      "num": 173496,
-      "word": "田嘉瑞冬日限定男友",
-      "onboard_time": 1734764296,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 14225,
+      "num": 1124358,
+      "word": "万千气象看吉林",
+      "onboard_time": 1734766097,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13682,
@@ -2187,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9622,
-      "num": 193267,
-      "word": "宋威龙给粉丝回信",
-      "onboard_time": 1734762678,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 7922,
       "num": 51459,
       "word": "梦之队Pro晋级挑杯淘汰赛",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1734715574,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 7588,
+      "num": 423390,
+      "word": "天价防水补一个洞2万",
+      "onboard_time": 1734766457,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7246,
