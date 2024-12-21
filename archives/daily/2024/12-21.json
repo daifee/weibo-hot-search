@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734737737039,
+  "endTime": 1734745252609,
   "band_list": [
     {
       "raw_hot": 1230074,
@@ -19,20 +19,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1132584,
+      "num": 1181213,
+      "word": "冬至",
+      "onboard_time": 1734736274,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1126821,
+      "num": 1126821,
+      "word": "网曝海底捞虾滑吃出蛆",
+      "onboard_time": 1734740236,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1045562,
+      "num": 1045562,
+      "word": "留几手报警",
+      "onboard_time": 1734736874,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816326,
       "num": 933129,
       "word": "韦唯准备下山时遭遇车祸脊柱折断",
       "onboard_time": 1734736274,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 805350,
-      "num": 805350,
-      "word": "冬至",
-      "onboard_time": 1734736274,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 727624,
@@ -59,12 +75,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 666156,
+      "num": 666156,
+      "word": "孟子义妈妈也演了九重紫",
+      "onboard_time": 1734738256,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 617572,
       "num": 617572,
       "word": "女孩意外坠海靠羽绒服漂浮自救",
       "onboard_time": 1734708320,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604769,
+      "num": 365744,
+      "word": "德国车辆冲撞人群事件致2死68伤",
+      "onboard_time": 1734737595,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 599079,
+      "num": 599079,
+      "word": "考研人数已连续两年下降",
+      "onboard_time": 1734741735,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 553257,
@@ -75,12 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484211,
-      "num": 484211,
-      "word": "留几手报警",
-      "onboard_time": 1734736874,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 502542,
+      "num": 502542,
+      "word": "西藏航空一航班起飞后突然返航",
+      "onboard_time": 1734741376,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 492310,
+      "num": 492310,
+      "word": "于东来直播员工午休打麻将",
+      "onboard_time": 1734738435,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475605,
@@ -91,12 +139,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468975,
+      "num": 468975,
+      "word": "学生生病叫120保安不让急救车进校",
+      "onboard_time": 1734741018,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
       "onboard_time": 1734707958,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402482,
+      "num": 157838,
+      "word": "上班因为恶心穿搭被领导谈话",
+      "onboard_time": 1734739636,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 399675,
@@ -171,6 +235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257549,
+      "num": 257549,
+      "word": "服从性测试",
+      "onboard_time": 1734737293,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 257324,
+      "num": 257324,
+      "word": "留几手深夜狂回复",
+      "onboard_time": 1734740357,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256988,
       "num": 171670,
       "word": "男子离世房产留给妻儿未分9旬母亲",
@@ -203,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217309,
+      "num": 217309,
+      "word": "何老师也有接不住的梗",
+      "onboard_time": 1734744018,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208759,
       "num": 164266,
       "word": "papi酱 倪萍老师能不能开个班",
@@ -227,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185198,
+      "num": 185198,
+      "word": "年味氛围组已就位",
+      "onboard_time": 1734743778,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "考研",
@@ -241,6 +337,54 @@
       "onboard_time": 1734717793,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161716,
+      "num": 157391,
+      "word": "一个普通女孩150斤到102斤之路",
+      "onboard_time": 1734737293,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158533,
+      "num": 174958,
+      "word": "成都羊肉汤老师傅说多熬自然就白",
+      "onboard_time": 1734708379,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157475,
+      "num": 375511,
+      "word": "考研第1天",
+      "onboard_time": 1734740176,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 156307,
+      "num": 156307,
+      "word": "学校回应保安不让120进校",
+      "onboard_time": 1734743598,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154589,
+      "num": 154589,
+      "word": "唐尚珺称确实考虑过再考一次",
+      "onboard_time": 1734744137,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154030,
+      "num": 156329,
+      "word": "德国汽车撞人致2死肇事者被捕",
+      "onboard_time": 1734744557,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 150076,
@@ -267,6 +411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 144701,
+      "num": 144701,
+      "word": "女子每天被隔壁鸡鸭声惊醒崩溃",
+      "onboard_time": 1734742939,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143461,
       "num": 143461,
       "word": "冬至 破镜重圆",
@@ -281,6 +433,22 @@
       "onboard_time": 1734710540,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135077,
+      "num": 135077,
+      "word": "海南省旅文厅已报案",
+      "onboard_time": 1734744917,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129018,
+      "num": 129018,
+      "word": "冬至吃饺子",
+      "onboard_time": 1734743716,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 126661,
@@ -305,6 +473,14 @@
       "onboard_time": 1734707239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121465,
+      "num": 142607,
+      "word": "冬至听葡萄成熟时",
+      "onboard_time": 1734743177,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 118472,
@@ -363,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104429,
-      "num": 104429,
-      "word": "德国车辆冲撞人群事件致2死68伤",
-      "onboard_time": 1734737595,
-      "rank": 23,
-      "category": "海外新闻"
+      "raw_hot": 101901,
+      "num": 156501,
+      "word": "当归和芹菜香菜撞脸了",
+      "onboard_time": 1734744257,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 98884,
@@ -403,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96459,
+      "num": 96459,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 96284,
       "num": 96284,
       "word": "丁禹兮把张新成逗笑了",
@@ -427,12 +611,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85910,
-      "num": 85910,
-      "word": "一个普通女孩150斤到102斤之路",
-      "onboard_time": 1734737293,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 86562,
+      "num": 156863,
+      "word": "步入中老年她们去考研",
+      "onboard_time": 1734744557,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84409,
+      "num": 84409,
+      "word": "遇见冬至春归有期",
+      "onboard_time": 1734739935,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82682,
+      "num": 82682,
+      "word": "广东最低温再次破0",
+      "onboard_time": 1734739577,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80896,
+      "num": 80896,
+      "word": "猫 你可以养我吗",
+      "onboard_time": 1734743478,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 73038,
@@ -465,14 +673,6 @@
       "onboard_time": 1734716833,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66135,
-      "num": 174958,
-      "word": "成都羊肉汤老师傅说多熬自然就白",
-      "onboard_time": 1734708379,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 63387,
@@ -531,12 +731,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 49532,
-      "num": 49532,
-      "word": "服从性测试",
-      "onboard_time": 1734737293,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 50112,
+      "num": 82802,
+      "word": "如何识别腰肌劳损",
+      "onboard_time": 1734743837,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 48596,
@@ -563,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45140,
+      "num": 156408,
+      "word": "冬至是补阳好时机",
+      "onboard_time": 1734744377,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43822,
       "num": 51235,
       "word": "黄圣依最强大脑路透 高知感",
@@ -579,12 +787,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42258,
+      "num": 156434,
+      "word": "朱婷纪录片无争之征",
+      "onboard_time": 1734744018,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40021,
       "num": 91281,
       "word": "失联研究生家人称其最后消失在长江边",
       "onboard_time": 1734718993,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39145,
+      "num": 156655,
+      "word": "韦世豪质疑足协",
+      "onboard_time": 1734742939,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 37925,
@@ -619,6 +843,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 32000,
+      "num": 158485,
+      "word": "李嘉欣 爱仔仔",
+      "onboard_time": 1734745097,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 29434,
       "num": 177624,
       "word": "插排台灯钥匙扣可能在偷听你说话",
@@ -636,7 +868,7 @@
     },
     {
       "raw_hot": 28871,
-      "num": 696979,
+      "num": 1083208,
       "word": "一组数据看澳门回归25周年",
       "onboard_time": 1734703159,
       "rank": 2,
