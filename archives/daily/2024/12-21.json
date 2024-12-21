@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734749413914,
+  "endTime": 1734749991303,
   "band_list": [
     {
       "raw_hot": 2416209,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 682752,
-      "num": 335138,
+      "num": 385190,
       "word": "包文婧否认机场孕照是装的",
       "onboard_time": 1734746717,
       "rank": 10,
@@ -131,6 +131,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590629,
+      "num": 590629,
+      "word": "小小的我提档",
+      "onboard_time": 1734748698,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 568315,
+      "num": 366004,
+      "word": "处处碰壁男子决定清洗满脸文身",
+      "onboard_time": 1734748337,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553257,
       "num": 319486,
       "word": "吴奇隆好友出面曝光婚变真相",
@@ -171,20 +187,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 424920,
-      "num": 424920,
-      "word": "小小的我提档",
-      "onboard_time": 1734748698,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
       "onboard_time": 1734707958,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413363,
+      "num": 413363,
+      "word": "何秋亊回应",
+      "onboard_time": 1734748817,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 402482,
@@ -209,6 +225,14 @@
       "onboard_time": 1734744018,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384820,
+      "num": 384820,
+      "word": "多名以军士兵承认无差别随意射杀",
+      "onboard_time": 1734746657,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 341500,
@@ -251,22 +275,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 318245,
-      "num": 318245,
-      "word": "处处碰壁男子决定清洗满脸文身",
-      "onboard_time": 1734748337,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306869,
-      "num": 306869,
-      "word": "何秋亊回应",
-      "onboard_time": 1734748817,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "高瀚宇朱嘉琦十指相扣",
@@ -289,14 +297,6 @@
       "onboard_time": 1734708740,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291795,
-      "num": 309025,
-      "word": "多名以军士兵承认无差别随意射杀",
-      "onboard_time": 1734746657,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 287097,
@@ -395,6 +395,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220506,
+      "num": 191957,
+      "word": "谢娜为张杰惊喜庆生",
+      "onboard_time": 1734749177,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211042,
+      "num": 190601,
+      "word": "两万七的钻戒回收给三千",
+      "onboard_time": 1734747018,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 209529,
+      "num": 304970,
+      "word": "今年冬至是128年来最早冬至",
+      "onboard_time": 1734748758,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208759,
       "num": 164266,
       "word": "papi酱 倪萍老师能不能开个班",
@@ -427,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183019,
-      "num": 183019,
-      "word": "两万七的钻戒回收给三千",
-      "onboard_time": 1734747018,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 182355,
+      "num": 182355,
+      "word": "孟子义有效播剧的含金量",
+      "onboard_time": 1734749417,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 179076,
@@ -459,12 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166551,
-      "num": 166551,
-      "word": "谢娜为张杰惊喜庆生",
-      "onboard_time": 1734749177,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 167653,
+      "num": 167653,
+      "word": "冬至是陈奕迅最忙的一天",
+      "onboard_time": 1734749838,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 162015,
@@ -595,6 +619,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 125231,
+      "num": 125231,
+      "word": "陈昊宇 死嘴快炫啊",
+      "onboard_time": 1734749838,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124003,
       "num": 142607,
       "word": "冬至听葡萄成熟时",
@@ -609,14 +641,6 @@
       "onboard_time": 1734707239,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118570,
-      "num": 304970,
-      "word": "今年冬至是128年来最早冬至",
-      "onboard_time": 1734748758,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118472,
@@ -641,6 +665,14 @@
       "onboard_time": 1734708619,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114503,
+      "num": 114503,
+      "word": "考研政治",
+      "onboard_time": 1734749897,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 112705,
@@ -675,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 108845,
+      "num": 108845,
+      "word": "猎罪2废弃仓库藏6具木乃伊",
+      "onboard_time": 1734749716,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107544,
       "num": 107544,
       "word": "IU蚊子过敏",
@@ -683,20 +723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105534,
+      "num": 105534,
+      "word": "冬至踩小人",
+      "onboard_time": 1734746957,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104172,
       "num": 104172,
       "word": "贺峻霖一路繁花司机上线",
       "onboard_time": 1734745697,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103655,
-      "num": 103655,
-      "word": "冬至踩小人",
-      "onboard_time": 1734746957,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 101901,
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95682,
+      "num": 385245,
+      "word": "以军被曝比赛谁打死的人多",
+      "onboard_time": 1734747018,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95572,
       "num": 156863,
       "word": "步入中老年她们去考研",
@@ -792,6 +840,14 @@
       "word": "广东最低温再次破0",
       "onboard_time": 1734739577,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80393,
+      "num": 174210,
+      "word": "随手拍可能成泄密源头",
+      "onboard_time": 1734746657,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1017,6 +1073,14 @@
       "onboard_time": 1734748577,
       "rank": 14,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 37406,
+      "num": 171511,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1734749658,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37139,
