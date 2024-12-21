@@ -1,7 +1,15 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734746237314,
+  "endTime": 1734749413914,
   "band_list": [
+    {
+      "raw_hot": 2416209,
+      "num": 2416209,
+      "word": "杨子黄圣依 没领证",
+      "onboard_time": 1734747797,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1230074,
       "num": 319496,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824435,
+      "num": 824435,
+      "word": "海南省旅文厅已报案",
+      "onboard_time": 1734744917,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 816326,
       "num": 933129,
       "word": "韦唯准备下山时遭遇车祸脊柱折断",
@@ -57,6 +73,14 @@
       "onboard_time": 1734704779,
       "rank": 1,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 682752,
+      "num": 335138,
+      "word": "包文婧否认机场孕照是装的",
+      "onboard_time": 1734746717,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 667688,
@@ -147,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 424920,
+      "num": 424920,
+      "word": "小小的我提档",
+      "onboard_time": 1734748698,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 421081,
       "num": 254132,
       "word": "留几手炸裂",
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 402482,
-      "num": 178804,
+      "num": 261272,
       "word": "上班因为恶心穿搭被领导谈话",
       "onboard_time": 1734739636,
       "rank": 20,
@@ -179,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341500,
+      "num": 341500,
+      "word": "赵丽颖央视新闻夜读",
+      "onboard_time": 1734745937,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337695,
       "num": 337695,
       "word": "于适骑射比赛输给殷世航",
       "onboard_time": 1734696918,
       "rank": 8,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 333275,
+      "num": 333275,
+      "word": "利路修明年愚人节退圈",
+      "onboard_time": 1734748038,
+      "rank": 12,
+      "category": "时尚"
     },
     {
       "raw_hot": 324019,
@@ -203,12 +251,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318245,
+      "num": 318245,
+      "word": "处处碰壁男子决定清洗满脸文身",
+      "onboard_time": 1734748337,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 306869,
+      "num": 306869,
+      "word": "何秋亊回应",
+      "onboard_time": 1734748817,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 304973,
       "num": 304973,
       "word": "高瀚宇朱嘉琦十指相扣",
       "onboard_time": 1734705080,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304887,
+      "num": 304887,
+      "word": "王鹤棣原声",
+      "onboard_time": 1734745877,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 297823,
@@ -219,12 +291,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294190,
-      "num": 136571,
-      "word": "海南省旅文厅已报案",
-      "onboard_time": 1734744917,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 291795,
+      "num": 309025,
+      "word": "多名以军士兵承认无差别随意射杀",
+      "onboard_time": 1734746657,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 287097,
@@ -307,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231667,
+      "num": 231667,
+      "word": "为什么年轻人愿意为可爱玩偶树挂买单",
+      "onboard_time": 1734746897,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227493,
       "num": 227493,
       "word": "女子定宝马车称8年忘了提",
@@ -339,11 +419,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186164,
+      "num": 186164,
+      "word": "留几手回应对葛夕没感觉",
+      "onboard_time": 1734747797,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183019,
+      "num": 183019,
+      "word": "两万七的钻戒回收给三千",
+      "onboard_time": 1734747018,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179076,
       "num": 179076,
       "word": "考研",
       "onboard_time": 1734682578,
       "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 177715,
+      "num": 177715,
+      "word": "今年考研或有60万人弃考",
+      "onboard_time": 1734743238,
+      "rank": 44,
       "category": "教育"
     },
     {
@@ -355,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166551,
+      "num": 166551,
+      "word": "谢娜为张杰惊喜庆生",
+      "onboard_time": 1734749177,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162015,
       "num": 162015,
       "word": "马方同意恢复搜索马航MH370航班",
       "onboard_time": 1734717793,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 160700,
+      "num": 160700,
+      "word": "赵露思彭冠英湖边饭拍照",
+      "onboard_time": 1734747679,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 157475,
@@ -443,12 +563,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 138515,
-      "num": 138515,
-      "word": "今年考研或有60万人弃考",
-      "onboard_time": 1734743238,
-      "rank": 44,
-      "category": "教育"
+      "raw_hot": 137955,
+      "num": 137955,
+      "word": "猫 你可以养我吗",
+      "onboard_time": 1734743478,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129018,
@@ -483,20 +603,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 123796,
-      "num": 137662,
-      "word": "王鹤棣原声",
-      "onboard_time": 1734745877,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123669,
       "num": 123669,
       "word": "孟子义说夏之光红气养人",
       "onboard_time": 1734707239,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118570,
+      "num": 304970,
+      "word": "今年冬至是128年来最早冬至",
+      "onboard_time": 1734748758,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118472,
@@ -563,20 +683,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104699,
-      "num": 104699,
-      "word": "猫 你可以养我吗",
-      "onboard_time": 1734743478,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104172,
       "num": 104172,
       "word": "贺峻霖一路繁花司机上线",
       "onboard_time": 1734745697,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103655,
+      "num": 103655,
+      "word": "冬至踩小人",
+      "onboard_time": 1734746957,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 101901,
@@ -635,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94764,
+      "num": 94764,
+      "word": "家长带娃回村散养引发争议",
+      "onboard_time": 1734747378,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92349,
       "num": 130701,
       "word": "又幸福了杭州",
@@ -675,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75715,
+      "num": 243817,
+      "word": "暗喻幻想获IGN年度游戏",
+      "onboard_time": 1734748817,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73038,
       "num": 73038,
       "word": "李昀锐帮孟子义推行李箱",
@@ -691,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70028,
-      "num": 184079,
-      "word": "赵丽颖央视新闻夜读",
-      "onboard_time": 1734745937,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 72058,
+      "num": 305246,
+      "word": "孙阳 反渣攻略手册",
+      "onboard_time": 1734748459,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 69085,
@@ -713,6 +849,14 @@
       "onboard_time": 1734716833,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63453,
+      "num": 187492,
+      "word": "九尾 冬至快乐好运就要来临了",
+      "onboard_time": 1734748097,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 63387,
@@ -865,6 +1009,14 @@
       "onboard_time": 1734720731,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 37778,
+      "num": 319734,
+      "word": "今年考研日遇上冬至",
+      "onboard_time": 1734748577,
+      "rank": 14,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 37139,
@@ -1033,6 +1185,14 @@
       "onboard_time": 1734729131,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14599,
+      "num": 186749,
+      "word": "基辅市内导弹碎片坠落致车辆起火",
+      "onboard_time": 1734748217,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13682,
