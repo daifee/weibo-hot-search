@@ -1,0 +1,410 @@
+{
+  "runTime": 1734791788164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991355,
+        "num": 1158616,
+        "word": "蔚来 萤火虫",
+        "onboard_time": 1734787519,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 921335,
+        "num": 921335,
+        "word": "大四男生遭电瓶烧伤室友被逮捕",
+        "onboard_time": 1734785839,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97444,
+        "num": 884747,
+        "word": "古人的过冬氛围感太足了",
+        "onboard_time": 1734788720,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 880932,
+        "num": 880932,
+        "word": "郑爽未履行70万案款被限消",
+        "onboard_time": 1734789260,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845422,
+        "num": 845422,
+        "word": "你买的冲锋衣可能是假的",
+        "onboard_time": 1734786140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111165,
+        "num": 794741,
+        "word": "尔滨长长长521米冰滑梯体验来了",
+        "onboard_time": 1734789080,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 793193,
+        "num": 793193,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 774598,
+        "num": 774598,
+        "word": "猎罪图鉴2女子在工厂活活饿死",
+        "onboard_time": 1734789381,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 757033,
+        "num": 757033,
+        "word": "甜馨和嗯哼一起去滑雪了",
+        "onboard_time": 1734778878,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673930,
+        "num": 673930,
+        "word": "章昊韩维辰道歉",
+        "onboard_time": 1734786140,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579927,
+        "num": 579927,
+        "word": "真想跪下来求自己别嗑了",
+        "onboard_time": 1734788238,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515314,
+        "num": 515314,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500199,
+        "num": 500199,
+        "word": "日军为何竭尽全力想打捞甲午沉舰",
+        "onboard_time": 1734787339,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392747,
+        "num": 392747,
+        "word": "丁禹兮谭松韵 兰香如故",
+        "onboard_time": 1734785958,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65675,
+        "num": 382934,
+        "word": "江苏一陌生人闯私宅摔伤后起诉业主",
+        "onboard_time": 1734790100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382696,
+        "num": 382696,
+        "word": "翻译 gap",
+        "onboard_time": 1734776719,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 365040,
+        "num": 365040,
+        "word": "九重紫 我爱吃这样的",
+        "onboard_time": 1734784819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304249,
+        "num": 304249,
+        "word": "海口一32岁男飞行员海文大桥失联",
+        "onboard_time": 1734780739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166885,
+        "num": 295956,
+        "word": "你好星期六还有冬至九重紫加更",
+        "onboard_time": 1734789739,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295918,
+        "num": 295918,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 584403,
+        "num": 294842,
+        "word": "男子被狗咬伤4个月后狂犬病发死亡",
+        "onboard_time": 1734785179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433652,
+        "num": 292105,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320191,
+        "num": 291029,
+        "word": "王鹤棣不小心摔倒剪进正片",
+        "onboard_time": 1734788960,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60271,
+        "num": 286801,
+        "word": "科内利亚诺晋级世俱杯决赛",
+        "onboard_time": 1734789260,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79444,
+        "num": 286182,
+        "word": "海文大桥失联男飞行员女友发声",
+        "onboard_time": 1734788358,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29062,
+        "num": 282672,
+        "word": "蔚来新品牌firefly萤火虫发布",
+        "onboard_time": 1734789019,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 281419,
+        "num": 281419,
+        "word": "有5种蔬菜嘌呤比肉还高",
+        "onboard_time": 1734784159,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41451,
+        "num": 271121,
+        "word": "王铮亮冬至直播",
+        "onboard_time": 1734791719,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111317,
+        "num": 264688,
+        "word": "牧神记升级年番",
+        "onboard_time": 1734791660,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 5950,
+        "num": 254332,
+        "word": "读研专业和学校哪个更重要",
+        "onboard_time": 1734791719,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39563,
+        "num": 244996,
+        "word": "在义乌环游世界",
+        "onboard_time": 1734787940,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 233903,
+        "num": 233903,
+        "word": "黄景瑜发孙千 孙千发黄景瑜",
+        "onboard_time": 1734777798,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233867,
+        "num": 233867,
+        "word": "于适一袭红衣代表广东队参赛",
+        "onboard_time": 1734783798,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208749,
+        "num": 208749,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205969,
+        "num": 205969,
+        "word": "被苗安素死气",
+        "onboard_time": 1734791179,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194951,
+        "num": 194951,
+        "word": "殷世航回应全国骑射比赛第三",
+        "onboard_time": 1734790820,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 193172,
+        "num": 193172,
+        "word": "起底酒店共享充电器的灰色产业链",
+        "onboard_time": 1734789680,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194463,
+        "num": 193165,
+        "word": "柳智敏演艺大赏新人奖",
+        "onboard_time": 1734790880,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193137,
+        "num": 193137,
+        "word": "比赛方回应于适骑射比赛输给殷世航",
+        "onboard_time": 1734774199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186739,
+        "num": 186739,
+        "word": "朴灿烈唱中文歌",
+        "onboard_time": 1734790579,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193082,
+        "num": 186256,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40077,
+        "num": 175921,
+        "word": "丘成桐回应少年班是否影响教育公平",
+        "onboard_time": 1734789739,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 166529,
+        "num": 166529,
+        "word": "郭敬明和代拍卷起来了",
+        "onboard_time": 1734788058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155631,
+        "num": 155631,
+        "word": "杜城我同事呢",
+        "onboard_time": 1734791419,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154822,
+        "num": 154822,
+        "word": "中国奇谭2首支预告",
+        "onboard_time": 1734789920,
+        "rank": 44,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 151136,
+        "num": 151136,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "老人感冒住院去世数小时才被发现",
+        "onboard_time": 1734785839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149383,
+        "num": 149383,
+        "word": "浙江 远洋捕捞",
+        "onboard_time": 1734778758,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147666,
+        "num": 147666,
+        "word": "维拉vs曼城",
+        "onboard_time": 1734791540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141125,
+        "num": 141125,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平五赴横琴感悟琴澳和鸣之道#"
+    }
+  }
+}

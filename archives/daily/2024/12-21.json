@@ -1,6 +1,6 @@
 {
   "startTime": 1734712048055,
-  "endTime": 1734790716002,
+  "endTime": 1734791788164,
   "band_list": [
     {
       "raw_hot": 13099309,
@@ -195,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 921335,
+      "num": 921335,
+      "word": "大四男生遭电瓶烧伤室友被逮捕",
+      "onboard_time": 1734785839,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 920875,
       "num": 920875,
       "word": "考研英语答案",
@@ -203,11 +211,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 880932,
+      "num": 880932,
+      "word": "郑爽未履行70万案款被限消",
+      "onboard_time": 1734789260,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850215,
       "num": 1136034,
       "word": "男子被狗咬伤4个月后狂犬病发死亡",
       "onboard_time": 1734785179,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 845422,
+      "num": 845422,
+      "word": "你买的冲锋衣可能是假的",
+      "onboard_time": 1734786140,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -235,22 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 809834,
-      "num": 809834,
-      "word": "你买的冲锋衣可能是假的",
-      "onboard_time": 1734786140,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 787994,
-      "num": 787994,
-      "word": "大四男生遭电瓶烧伤室友被逮捕",
-      "onboard_time": 1734785839,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 779628,
       "num": 682176,
       "word": "鞠婧祎发烧",
@@ -265,6 +273,14 @@
       "onboard_time": 1734765857,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774598,
+      "num": 774598,
+      "word": "猎罪图鉴2女子在工厂活活饿死",
+      "onboard_time": 1734789381,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 765087,
@@ -451,12 +467,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 570671,
-      "num": 570671,
-      "word": "郑爽未履行70万案款被限消",
-      "onboard_time": 1734789260,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 579927,
+      "num": 579927,
+      "word": "真想跪下来求自己别嗑了",
+      "onboard_time": 1734788238,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 568315,
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543928,
-      "num": 543928,
-      "word": "真想跪下来求自己别嗑了",
-      "onboard_time": 1734788238,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 523906,
       "num": 523906,
       "word": "日军为何竭尽全力想打捞甲午沉舰",
@@ -497,6 +505,14 @@
       "onboard_time": 1734682578,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 515314,
+      "num": 515314,
+      "word": "00后负债300万1比1复刻蜡笔小新之家",
+      "onboard_time": 1734789318,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502542,
@@ -731,14 +747,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 331544,
-      "num": 331544,
-      "word": "00后负债300万1比1复刻蜡笔小新之家",
-      "onboard_time": 1734789318,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329365,
       "num": 329365,
       "word": "时代少年团周边",
@@ -761,6 +769,14 @@
       "onboard_time": 1734709580,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320191,
+      "num": 294351,
+      "word": "王鹤棣不小心摔倒剪进正片",
+      "onboard_time": 1734788960,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 320055,
@@ -825,22 +841,6 @@
       "onboard_time": 1734773000,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 296335,
-      "num": 420487,
-      "word": "猎罪图鉴2女子在工厂活活饿死",
-      "onboard_time": 1734789381,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 294351,
-      "num": 294351,
-      "word": "王鹤棣不小心摔倒剪进正片",
-      "onboard_time": 1734788960,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 287097,
@@ -1235,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205969,
+      "num": 205969,
+      "word": "被苗安素死气",
+      "onboard_time": 1734791179,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204706,
       "num": 204706,
       "word": "窦昭怀的是小葡萄不是葡萄干",
@@ -1339,12 +1347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194951,
+      "num": 194951,
+      "word": "殷世航回应全国骑射比赛第三",
+      "onboard_time": 1734790820,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 194713,
       "num": 225246,
       "word": "奔跑吧连夜翻母带",
       "onboard_time": 1734767777,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194463,
+      "num": 193165,
+      "word": "柳智敏演艺大赏新人奖",
+      "onboard_time": 1734790880,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 193257,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1734765678,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193172,
+      "num": 795176,
+      "word": "起底酒店共享充电器的灰色产业链",
+      "onboard_time": 1734789680,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 192969,
@@ -1417,6 +1449,14 @@
       "onboard_time": 1734784099,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186739,
+      "num": 186739,
+      "word": "朴灿烈唱中文歌",
+      "onboard_time": 1734790579,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 186322,
@@ -1595,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166885,
+      "num": 295956,
+      "word": "你好星期六还有冬至九重紫加更",
+      "onboard_time": 1734789739,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166217,
       "num": 306185,
       "word": "双非大学生放弃双一流保研名额",
@@ -1641,14 +1689,6 @@
       "onboard_time": 1734717793,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 161523,
-      "num": 161523,
-      "word": "你好星期六还有冬至九重紫加更",
-      "onboard_time": 1734789739,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 160700,
@@ -1771,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155631,
+      "num": 155631,
+      "word": "杜城我同事呢",
+      "onboard_time": 1734791419,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154597,
       "num": 221854,
       "word": "过筛中药材的XXXL号竹笼太霸气了",
@@ -1867,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149383,
+      "num": 149383,
+      "word": "浙江 远洋捕捞",
+      "onboard_time": 1734778758,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "去年张万森下雪 今年柯南下樱花",
@@ -1883,12 +1939,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148372,
-      "num": 148372,
-      "word": "浙江 远洋捕捞",
-      "onboard_time": 1734778758,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 147666,
+      "num": 147666,
+      "word": "维拉vs曼城",
+      "onboard_time": 1734791540,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 147572,
@@ -1921,14 +1977,6 @@
       "onboard_time": 1734701239,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 146645,
-      "num": 146645,
-      "word": "朴灿烈唱中文歌",
-      "onboard_time": 1734790579,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 145175,
@@ -2251,14 +2299,6 @@
       "category": "动漫,旅游"
     },
     {
-      "raw_hot": 126448,
-      "num": 795176,
-      "word": "起底酒店共享充电器的灰色产业链",
-      "onboard_time": 1734789680,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 126005,
       "num": 126005,
       "word": "于适一袭红衣尽风华",
@@ -2499,6 +2539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111317,
+      "num": 264688,
+      "word": "牧神记升级年番",
+      "onboard_time": 1734791660,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 111165,
+      "num": 794741,
+      "word": "尔滨长长长521米冰滑梯体验来了",
+      "onboard_time": 1734789080,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109204,
       "num": 109204,
       "word": "冬至祝福",
@@ -2532,7 +2588,7 @@
     },
     {
       "raw_hot": 108313,
-      "num": 809774,
+      "num": 884747,
       "word": "古人的过冬氛围感太足了",
       "onboard_time": 1734788720,
       "rank": 2,
@@ -2747,14 +2803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 85790,
-      "num": 792037,
-      "word": "尔滨长长长521米冰滑梯体验来了",
-      "onboard_time": 1734789080,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82682,
       "num": 82682,
       "word": "广东最低温再次破0",
@@ -2793,6 +2841,14 @@
       "onboard_time": 1734740717,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79444,
+      "num": 286182,
+      "word": "海文大桥失联男飞行员女友发声",
+      "onboard_time": 1734788358,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77300,
@@ -2907,6 +2963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 65675,
+      "num": 473050,
+      "word": "江苏一陌生人闯私宅摔伤后起诉业主",
+      "onboard_time": 1734790100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63662,
       "num": 204879,
       "word": "长歌行动画定档",
@@ -2953,6 +3017,14 @@
       "onboard_time": 1734745097,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 60271,
+      "num": 286801,
+      "word": "科内利亚诺晋级世俱杯决赛",
+      "onboard_time": 1734789260,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 59706,
@@ -3147,14 +3219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43765,
-      "num": 473050,
-      "word": "江苏一陌生人闯私宅摔伤后起诉业主",
-      "onboard_time": 1734790100,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43353,
       "num": 519061,
       "word": "民营经济促进法草案提请审议",
@@ -3211,12 +3275,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41451,
+      "num": 271121,
+      "word": "王铮亮冬至直播",
+      "onboard_time": 1734791719,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41286,
       "num": 381121,
       "word": "全世界都在偶遇檀健次嗦粉",
       "onboard_time": 1734773540,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40077,
+      "num": 399987,
+      "word": "丘成桐回应少年班是否影响教育公平",
+      "onboard_time": 1734789739,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 40021,
@@ -3233,6 +3313,14 @@
       "onboard_time": 1734750798,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39563,
+      "num": 806933,
+      "word": "在义乌环游世界",
+      "onboard_time": 1734787940,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39559,
@@ -3299,14 +3387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35547,
-      "num": 806933,
-      "word": "在义乌环游世界",
-      "onboard_time": 1734787940,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35042,
       "num": 467361,
       "word": "从这天起你将被饺子支配",
@@ -3321,14 +3401,6 @@
       "onboard_time": 1734784998,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 33697,
-      "num": 399987,
-      "word": "丘成桐回应少年班是否影响教育公平",
-      "onboard_time": 1734789739,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 33392,
@@ -3393,6 +3465,14 @@
       "onboard_time": 1734737353,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29062,
+      "num": 298334,
+      "word": "蔚来新品牌firefly萤火虫发布",
+      "onboard_time": 1734789019,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 28943,
@@ -3513,14 +3593,6 @@
       "onboard_time": 1734769758,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 23395,
-      "num": 298334,
-      "word": "蔚来新品牌firefly萤火虫发布",
-      "onboard_time": 1734789019,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 23363,
@@ -3747,6 +3819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 5950,
+      "num": 254332,
+      "word": "读研专业和学校哪个更重要",
+      "onboard_time": 1734791719,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 5326,
       "num": 35298,
       "word": "吉克隽逸把粉丝一把抱进怀里",
@@ -3776,6 +3856,9 @@
     },
     {
       "word": "#习近平澳门行#"
+    },
+    {
+      "word": "#从习近平五赴横琴感悟琴澳和鸣之道#"
     }
   ]
 }
