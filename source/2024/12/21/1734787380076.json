@@ -1,0 +1,410 @@
+{
+  "runTime": 1734787380076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 628960,
+        "num": 1100633,
+        "word": "海口一32岁男飞行员海文大桥失联",
+        "onboard_time": 1734780739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555433,
+        "num": 555433,
+        "word": "男子被狗咬伤4个月后狂犬病发死亡",
+        "onboard_time": 1734785179,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25610,
+        "num": 555090,
+        "word": "文化中国行发现冬至之美",
+        "onboard_time": 1734769398,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 956208,
+        "num": 547705,
+        "word": "章昊韩维辰道歉",
+        "onboard_time": 1734786140,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939248,
+        "num": 544236,
+        "word": "甜馨和嗯哼一起去滑雪了",
+        "onboard_time": 1734778878,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2353228,
+        "num": 541225,
+        "word": "结婚到阴婚一位农村女性的两场婚礼",
+        "onboard_time": 1734784219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539830,
+        "num": 539830,
+        "word": "黄景瑜发孙千 孙千发黄景瑜",
+        "onboard_time": 1734777798,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 910872,
+        "num": 532700,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309558,
+        "num": 530602,
+        "word": "喀山机场关闭",
+        "onboard_time": 1734773901,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180997,
+        "num": 517853,
+        "word": "你买的冲锋衣可能是假的",
+        "onboard_time": 1734786140,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669478,
+        "num": 504022,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 668441,
+        "num": 499154,
+        "word": "翻译 gap",
+        "onboard_time": 1734776719,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 494244,
+        "num": 494244,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42619,
+        "num": 472149,
+        "word": "65岁洞庭湖村民称不想再经历被淹",
+        "onboard_time": 1734786078,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456673,
+        "num": 456673,
+        "word": "丁禹兮谭松韵 兰香如故",
+        "onboard_time": 1734785958,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356902,
+        "num": 356902,
+        "word": "于适一袭红衣代表广东队参赛",
+        "onboard_time": 1734783798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341148,
+        "num": 341148,
+        "word": "九重紫 我爱吃这样的",
+        "onboard_time": 1734784819,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324065,
+        "num": 324065,
+        "word": "吴奇隆前妻点赞网友",
+        "onboard_time": 1734770897,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18165,
+        "num": 323152,
+        "word": "广电总局要求加强微短剧片名审核",
+        "onboard_time": 1734786980,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109707,
+        "num": 322368,
+        "word": "大四男生遭电瓶烧伤室友被逮捕",
+        "onboard_time": 1734785839,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404882,
+        "num": 321731,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391184,
+        "num": 320659,
+        "word": "有5种蔬菜嘌呤比肉还高",
+        "onboard_time": 1734784159,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277432,
+        "num": 319915,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319350,
+        "num": 319350,
+        "word": "比赛方回应于适骑射比赛输给殷世航",
+        "onboard_time": 1734774199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133745,
+        "num": 311960,
+        "word": "朱婷首局6分",
+        "onboard_time": 1734786499,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304890,
+        "num": 304890,
+        "word": "种地吧",
+        "onboard_time": 1734781580,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199711,
+        "num": 199711,
+        "word": "考研英语一最猛的1",
+        "onboard_time": 1734772881,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198392,
+        "num": 198392,
+        "word": "蔚来 ET9",
+        "onboard_time": 1734785899,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195156,
+        "num": 195156,
+        "word": "奔跑吧",
+        "onboard_time": 1734782298,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190168,
+        "num": 190168,
+        "word": "考研英语答案",
+        "onboard_time": 1734774501,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186322,
+        "num": 186322,
+        "word": "老人感冒住院去世数小时才被发现",
+        "onboard_time": 1734785839,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182413,
+        "num": 182413,
+        "word": "孟子义直播",
+        "onboard_time": 1734781699,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176359,
+        "num": 176359,
+        "word": "猎罪图鉴反转",
+        "onboard_time": 1734780620,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165185,
+        "num": 165185,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164525,
+        "num": 164525,
+        "word": "殷世航骑射比赛获季军",
+        "onboard_time": 1734778038,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164490,
+        "num": 164490,
+        "word": "很多在台湾的人不了解731恶行",
+        "onboard_time": 1734783498,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159148,
+        "num": 159148,
+        "word": "权志龙点赞田柾国翻唱",
+        "onboard_time": 1734786740,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157172,
+        "num": 157172,
+        "word": "边伯贤圣诞装",
+        "onboard_time": 1734786799,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19150,
+        "num": 155872,
+        "word": "何小鹏冬至探班李斌送汤圆",
+        "onboard_time": 1734784998,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155581,
+        "num": 155581,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148668,
+        "num": 148668,
+        "word": "LPL年度最佳阵容",
+        "onboard_time": 1734785238,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137267,
+        "num": 137267,
+        "word": "鞠婧祎 青蛇",
+        "onboard_time": 1734767897,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130929,
+        "num": 130929,
+        "word": "黄景瑜演技",
+        "onboard_time": 1734787220,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130567,
+        "num": 130567,
+        "word": "不爱麻烦别人是缺爱的表现",
+        "onboard_time": 1734781638,
+        "rank": 43,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 129562,
+        "num": 129562,
+        "word": "没有嫂子的家是不完整的",
+        "onboard_time": 1734787280,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129148,
+        "num": 129148,
+        "word": "虞书欣划火柴变装",
+        "onboard_time": 1734782777,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125756,
+        "num": 125756,
+        "word": "赵丽颖推荐日历销量",
+        "onboard_time": 1734784399,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124113,
+        "num": 124113,
+        "word": "宋翰戏份",
+        "onboard_time": 1734780978,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124105,
+        "num": 124105,
+        "word": "日军为何竭尽全力想打捞甲午沉舰",
+        "onboard_time": 1734787339,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122555,
+        "num": 122555,
+        "word": "难哄动画化",
+        "onboard_time": 1734780678,
+        "rank": 49,
+        "category": "动漫,剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#把琴澳一体化提升到更高水平#"
+    }
+  }
+}
