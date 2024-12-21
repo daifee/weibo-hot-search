@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734798317128,
+  "endTime": 1734799238378,
   "band_list": [
     {
       "raw_hot": 790395,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 439116,
-      "num": 269791,
+      "num": 277678,
       "word": "考研英语",
       "onboard_time": 1734771558,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 360182,
-      "num": 262453,
+      "num": 277099,
       "word": "比赛方回应于适骑射比赛输给殷世航",
       "onboard_time": 1734774199,
       "rank": 11,
@@ -72,6 +72,14 @@
       "word": "袁记云饺发布最新说明",
       "onboard_time": 1734792980,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307411,
+      "num": 307411,
+      "word": "男生滑雪摔倒后站起来那一下帅爆了",
+      "onboard_time": 1734795499,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -171,20 +179,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 166243,
-      "num": 274314,
-      "word": "男生滑雪摔倒后站起来那一下帅爆了",
-      "onboard_time": 1734795499,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161343,
       "num": 161343,
       "word": "用8000块半年赚了130万",
       "onboard_time": 1734763755,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153635,
+      "num": 153635,
+      "word": "男子查贷款额度竟被强制下款",
+      "onboard_time": 1734793340,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140389,
@@ -243,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115387,
-      "num": 115387,
-      "word": "男子查贷款额度竟被强制下款",
-      "onboard_time": 1734793340,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114350,
       "num": 114350,
       "word": "海口一32岁男飞行员海文大桥失联",
@@ -289,6 +289,14 @@
       "onboard_time": 1734796098,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97862,
+      "num": 97862,
+      "word": "王心凌谭维维再唱山海",
+      "onboard_time": 1734798018,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 93756,
@@ -339,20 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73871,
-      "num": 88186,
-      "word": "王心凌谭维维再唱山海",
-      "onboard_time": 1734798018,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 70244,
       "num": 88173,
       "word": "花7000多网购药收到4袋藕粉",
       "onboard_time": 1734794959,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 69337,
+      "num": 69337,
+      "word": "一睁眼15部良心动画开播",
+      "onboard_time": 1734795739,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 68383,
@@ -379,6 +387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65666,
+      "num": 65666,
+      "word": "许嵩呼吸之野演唱会",
+      "onboard_time": 1734798856,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 65293,
       "num": 88127,
       "word": "斗破苍穹",
@@ -387,12 +403,36 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 64607,
+      "num": 64607,
+      "word": "水蓝",
+      "onboard_time": 1734793579,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56726,
       "num": 559589,
       "word": "古人的过冬氛围感太足了",
       "onboard_time": 1734788720,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 56513,
+      "num": 64289,
+      "word": "晋江被黑揭秘系列",
+      "onboard_time": 1734799157,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 48908,
+      "num": 278191,
+      "word": "官方通报贵阳市实验小学欺凌事件",
+      "onboard_time": 1734794599,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7800,
@@ -406,6 +446,9 @@
   "hotgov_list": [
     {
       "word": "#从习近平五赴横琴感悟琴澳和鸣之道#"
+    },
+    {
+      "word": "#习近平澳门行#"
     }
   ]
 }
