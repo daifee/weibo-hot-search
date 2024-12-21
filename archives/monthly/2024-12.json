@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734779839830,
+  "endTime": 1734780931254,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2467,6 +2467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1293414,
+      "num": 822645,
+      "word": "甜馨和嗯哼一起去滑雪了",
+      "onboard_time": 1734778878,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1291932,
       "num": 684858,
       "word": "韩国总统幕僚辞职",
@@ -4515,6 +4523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 951256,
+      "num": 951256,
+      "word": "翻译 gap",
+      "onboard_time": 1734776719,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 950429,
       "num": 1152068,
       "word": "多地官宣将取消公摊",
@@ -6393,14 +6409,6 @@
       "onboard_time": 1733880500,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 769476,
-      "num": 387308,
-      "word": "甜馨和嗯哼一起去滑雪了",
-      "onboard_time": 1734778878,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 768744,
@@ -8627,14 +8635,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 631007,
-      "num": 631007,
-      "word": "翻译 gap",
-      "onboard_time": 1734776719,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 630820,
       "num": 760118,
       "word": "再见爱人",
@@ -9481,6 +9481,14 @@
       "onboard_time": 1734049938,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589498,
+      "num": 589498,
+      "word": "黄景瑜发孙千 孙千发黄景瑜",
+      "onboard_time": 1734777798,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 589434,
@@ -12995,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457645,
+      "num": 457645,
+      "word": "涉嫌曝光王楚钦隐私的医院道歉",
+      "onboard_time": 1734774981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457210,
       "num": 457210,
       "word": "27岁上海交大博导让大家别焦虑",
@@ -15787,14 +15803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 379714,
-      "num": 379714,
-      "word": "黄景瑜发孙千 孙千发黄景瑜",
-      "onboard_time": 1734777798,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 379421,
       "num": 379421,
       "word": "主持人百克力被鱼刺穿胃扎到肝",
@@ -16505,6 +16513,14 @@
       "onboard_time": 1733538978,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360759,
+      "num": 466736,
+      "word": "台湾青年看完731罪证心情难以平复",
+      "onboard_time": 1734775880,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 360657,
@@ -17488,14 +17504,6 @@
       "word": "孙颖莎观战",
       "onboard_time": 1733115739,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 341209,
-      "num": 364400,
-      "word": "涉嫌曝光王楚钦隐私的医院道歉",
-      "onboard_time": 1734774981,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -23275,14 +23283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244008,
-      "num": 244008,
-      "word": "台湾青年看完731罪证心情难以平复",
-      "onboard_time": 1734775880,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 243938,
       "num": 334573,
       "word": "量子芯片突破致比特币暴跌23万人爆仓",
@@ -27371,6 +27371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208869,
+      "num": 208869,
+      "word": "蔚来NIO Day",
+      "onboard_time": 1734779659,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208859,
       "num": 208859,
       "word": "孟子义 我欲乘风",
@@ -31075,6 +31083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192969,
+      "num": 213940,
+      "word": "宋翰什么时候下线",
+      "onboard_time": 1734779598,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192934,
       "num": 192934,
       "word": "中国天津渤海银行vs意大利米兰",
@@ -33779,6 +33795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181314,
+      "num": 459502,
+      "word": "殷世航骑射比赛获季军",
+      "onboard_time": 1734778038,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181310,
       "num": 181310,
       "word": "宋亚轩 最好不是同一根线",
@@ -35777,6 +35801,14 @@
       "onboard_time": 1734092118,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171869,
+      "num": 171869,
+      "word": "难哄动画化",
+      "onboard_time": 1734780678,
+      "rank": 28,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 171848,
@@ -38931,14 +38963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159261,
-      "num": 159261,
-      "word": "蔚来NIO Day",
-      "onboard_time": 1734779659,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 159248,
       "num": 195865,
       "word": "檀健次出了两百道题",
@@ -39569,6 +39593,14 @@
       "onboard_time": 1734063860,
       "rank": 14,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 157077,
+      "num": 157077,
+      "word": "吨吨直播",
+      "onboard_time": 1734779837,
+      "rank": 31,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 157070,
@@ -45955,6 +45987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133398,
+      "num": 133398,
+      "word": "双非大学生放弃双一流保研名额",
+      "onboard_time": 1734780139,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133364,
       "num": 133364,
       "word": "虞书欣丁禹兮合体湖南卫视跨年晚会",
@@ -46881,14 +46921,6 @@
       "onboard_time": 1734099020,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129433,
-      "num": 129433,
-      "word": "殷世航骑射比赛获季军",
-      "onboard_time": 1734778038,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 129393,
@@ -48587,6 +48619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122572,
+      "num": 236500,
+      "word": "猎罪图鉴反转",
+      "onboard_time": 1734780620,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122551,
       "num": 197978,
       "word": "第五人格赛事",
@@ -48961,6 +49001,14 @@
       "onboard_time": 1734701299,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120951,
+      "num": 120951,
+      "word": "海口一32岁男飞行员海文大桥失联",
+      "onboard_time": 1734780739,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120849,
@@ -53289,14 +53337,6 @@
       "onboard_time": 1733468541,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 100802,
-      "num": 213940,
-      "word": "宋翰什么时候下线",
-      "onboard_time": 1734779598,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 100747,
@@ -58393,6 +58433,14 @@
       "onboard_time": 1734601398,
       "rank": 17,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 71169,
+      "num": 221608,
+      "word": "女寝皆是修罗场表情包",
+      "onboard_time": 1734779958,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 71163,
@@ -64235,6 +64283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44862,
+      "num": 160337,
+      "word": "专业课对我好一点",
+      "onboard_time": 1734779718,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 44819,
       "num": 257316,
       "word": "利物浦曼城交手记录",
@@ -69465,6 +69521,14 @@
       "onboard_time": 1734027733,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27782,
+      "num": 277490,
+      "word": "取消公摊为何成关注焦点",
+      "onboard_time": 1734780379,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 27746,
@@ -75017,14 +75081,6 @@
       "onboard_time": 1733689332,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7996,
-      "num": 160337,
-      "word": "专业课对我好一点",
-      "onboard_time": 1734779718,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 7922,
