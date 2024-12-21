@@ -1,0 +1,410 @@
+{
+  "runTime": 1734763320338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 862101,
+        "num": 1137936,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 788768,
+        "num": 788768,
+        "word": "袁记云饺",
+        "onboard_time": 1734759379,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48099,
+        "num": 496610,
+        "word": "澳门每个路牌指引的都是家的方向",
+        "onboard_time": 1734750917,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479361,
+        "num": 479361,
+        "word": "猴体解剖",
+        "onboard_time": 1734756198,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366872,
+        "num": 366872,
+        "word": "赵丽颖和央视新闻夜读日历温暖联动",
+        "onboard_time": 1734759917,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357301,
+        "num": 357301,
+        "word": "肖秀荣 今年是近十年最难的一次",
+        "onboard_time": 1734753198,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334447,
+        "num": 334447,
+        "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+        "onboard_time": 1734753139,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334247,
+        "num": 334247,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310550,
+        "num": 310550,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264465,
+        "num": 294833,
+        "word": "李昀锐给孟子义递暖宝宝",
+        "onboard_time": 1734759738,
+        "rank": 9,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 534271,
+        "num": 293778,
+        "word": "冉莹颖说婚后不一定要有夫妻生活",
+        "onboard_time": 1734754281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391225,
+        "num": 289423,
+        "word": "何秋亊 dsn",
+        "onboard_time": 1734754281,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284231,
+        "num": 284231,
+        "word": "肖四没押中",
+        "onboard_time": 1734753320,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268267,
+        "num": 268267,
+        "word": "腿姐九页纸",
+        "onboard_time": 1734756619,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227256,
+        "num": 227256,
+        "word": "冬至是陈奕迅最忙的一天",
+        "onboard_time": 1734749838,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151191,
+        "num": 226985,
+        "word": "冬至后人体器官最易生病",
+        "onboard_time": 1734757518,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50850,
+        "num": 226630,
+        "word": "乾隆偏爱的宫廷玉液是咸口",
+        "onboard_time": 1734759558,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193448,
+        "num": 225620,
+        "word": "杨紫新图旧图",
+        "onboard_time": 1734762917,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115425,
+        "num": 225422,
+        "word": "女子网购减肥药吃出精神疾病",
+        "onboard_time": 1734759858,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106675,
+        "num": 224751,
+        "word": "Faker谈第六冠",
+        "onboard_time": 1734762376,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35420,
+        "num": 224053,
+        "word": "浙江跨年在搞一种很新的互连网",
+        "onboard_time": 1734761539,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125847,
+        "num": 223562,
+        "word": "赵丽颖央视严选",
+        "onboard_time": 1734762678,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946949,
+        "num": 222981,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222562,
+        "num": 222562,
+        "word": "肖秀荣称选择题难度很震惊",
+        "onboard_time": 1734757220,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217170,
+        "num": 217170,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153540,
+        "num": 217097,
+        "word": "丁禹兮学的是男伴舞",
+        "onboard_time": 1734760998,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41077,
+        "num": 217079,
+        "word": "黑神话悟空登上央视新闻联播",
+        "onboard_time": 1734755899,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217072,
+        "num": 217072,
+        "word": "包文婧否认机场孕照是装的",
+        "onboard_time": 1734746717,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102541,
+        "num": 199857,
+        "word": "向佐回应接住泼天流量",
+        "onboard_time": 1734762617,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9622,
+        "num": 193267,
+        "word": "宋威龙给粉丝回信",
+        "onboard_time": 1734762678,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187955,
+        "num": 187955,
+        "word": "何秋亊回应",
+        "onboard_time": 1734748817,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 60538,
+        "num": 187864,
+        "word": "Peanut力挺Faker",
+        "onboard_time": 1734753500,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132792,
+        "num": 186264,
+        "word": "也门胡塞武装导弹袭击以色列中部",
+        "onboard_time": 1734760277,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124700,
+        "num": 184988,
+        "word": "丁程鑫毕业大戏汇报演出",
+        "onboard_time": 1734763157,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199808,
+        "num": 184273,
+        "word": "处处碰壁男子决定清洗满脸文身",
+        "onboard_time": 1734748337,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "王鹤棣田曦薇有什么我不能听的",
+        "onboard_time": 1734760158,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154962,
+        "num": 154962,
+        "word": "朱婷曾每天吃五粒布洛芬止疼",
+        "onboard_time": 1734759078,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "魏大勋的眼睛变大了",
+        "onboard_time": 1734763218,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138135,
+        "num": 138135,
+        "word": "乒超总决赛赛程来了",
+        "onboard_time": 1734758059,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137892,
+        "num": 137892,
+        "word": "鞠婧祎陈都灵牵手路透",
+        "onboard_time": 1734753500,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136764,
+        "num": 136764,
+        "word": "被同学抱摔艺考女生本有望进全省前三",
+        "onboard_time": 1734763037,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134690,
+        "num": 134690,
+        "word": "迪丽热巴战队解锁三大成就",
+        "onboard_time": 1734763277,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128568,
+        "num": 128568,
+        "word": "考研第一天的图书馆空了",
+        "onboard_time": 1734761539,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108323,
+        "num": 126117,
+        "word": "内娱悬爱剧",
+        "onboard_time": 1734761417,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123715,
+        "num": 123715,
+        "word": "当考研要求带小刀的时候",
+        "onboard_time": 1734762017,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112653,
+        "num": 122939,
+        "word": "易烊千玺刘春和希望外婆到很大的舞台",
+        "onboard_time": 1734762617,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122520,
+        "num": 122520,
+        "word": "尔滨冰滑梯不够用了加到24条",
+        "onboard_time": 1734757580,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 119261,
+        "num": 119261,
+        "word": "考研政治 难",
+        "onboard_time": 1734753800,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114100,
+        "num": 114100,
+        "word": "成毅进组新剧",
+        "onboard_time": 1734759318,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "发现江浙沪人是先天留学圣体",
+        "onboard_time": 1734756439,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

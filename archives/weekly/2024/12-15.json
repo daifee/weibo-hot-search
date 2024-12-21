@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734762534430,
+  "endTime": 1734763320338,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -1715,6 +1715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 788768,
+      "num": 788768,
+      "word": "袁记云饺",
+      "onboard_time": 1734668359,
+      "rank": 33,
+      "category": "舆论监督,美食"
+    },
+    {
       "raw_hot": 788252,
       "num": 349514,
       "word": "王灿",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1734235518,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 579140,
-      "num": 579140,
-      "word": "袁记云饺",
-      "onboard_time": 1734668359,
-      "rank": 33,
-      "category": "舆论监督,美食"
     },
     {
       "raw_hot": 577004,
@@ -9147,6 +9147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193448,
+      "num": 225620,
+      "word": "杨紫新图旧图",
+      "onboard_time": 1734762917,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193385,
       "num": 189785,
       "word": "发现上早八的老师也很辛苦",
@@ -9913,6 +9921,14 @@
       "onboard_time": 1734705380,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183698,
+      "num": 183698,
+      "word": "王鹤棣田曦薇有什么我不能听的",
+      "onboard_time": 1734760158,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 183632,
@@ -12267,6 +12283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153540,
+      "num": 217097,
+      "word": "丁禹兮学的是男伴舞",
+      "onboard_time": 1734760998,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153437,
       "num": 279975,
       "word": "窦昭宋墨磕cp偷感太重",
@@ -12499,6 +12523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151191,
+      "num": 239184,
+      "word": "冬至后人体器官最易生病",
+      "onboard_time": 1734757518,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150781,
       "num": 265484,
       "word": "有一种爱叫我图你能赚钱",
@@ -12513,6 +12545,14 @@
       "onboard_time": 1734682578,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "魏大勋的眼睛变大了",
+      "onboard_time": 1734763218,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 150550,
@@ -13323,14 +13363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 141152,
-      "num": 141152,
-      "word": "丁禹兮学的是男伴舞",
-      "onboard_time": 1734760998,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141086,
       "num": 141086,
       "word": "香飘飘奶茶说还在继续绕地球",
@@ -13707,6 +13739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136764,
+      "num": 136764,
+      "word": "被同学抱摔艺考女生本有望进全省前三",
+      "onboard_time": 1734763037,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136686,
       "num": 256029,
       "word": "容嬷嬷李明启88岁了",
@@ -13729,14 +13769,6 @@
       "onboard_time": 1734255139,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136415,
-      "num": 136415,
-      "word": "王鹤棣田曦薇有什么我不能听的",
-      "onboard_time": 1734760158,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 135986,
@@ -13825,6 +13857,14 @@
       "onboard_time": 1734759018,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134690,
+      "num": 134690,
+      "word": "迪丽热巴战队解锁三大成就",
+      "onboard_time": 1734763277,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 134644,
@@ -13963,14 +14003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133855,
-      "num": 239184,
-      "word": "冬至后人体器官最易生病",
-      "onboard_time": 1734757518,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133703,
       "num": 155195,
       "word": "潘宏 小姑娘来上班",
@@ -14081,6 +14113,14 @@
       "onboard_time": 1734577458,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132792,
+      "num": 186264,
+      "word": "也门胡塞武装导弹袭击以色列中部",
+      "onboard_time": 1734760277,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132619,
@@ -14747,6 +14787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125847,
+      "num": 223562,
+      "word": "赵丽颖央视严选",
+      "onboard_time": 1734762678,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125815,
       "num": 260551,
       "word": "溜溜梅回应争议",
@@ -14875,6 +14923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 124700,
+      "num": 184988,
+      "word": "丁程鑫毕业大戏汇报演出",
+      "onboard_time": 1734763157,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124637,
       "num": 124637,
       "word": "电车里程焦虑有望在春运前缓解",
@@ -14993,6 +15049,14 @@
       "onboard_time": 1734514939,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123715,
+      "num": 123715,
+      "word": "当考研要求带小刀的时候",
+      "onboard_time": 1734762017,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 123682,
@@ -15193,14 +15257,6 @@
       "onboard_time": 1734618979,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 121028,
-      "num": 121028,
-      "word": "也门胡塞武装导弹袭击以色列中部",
-      "onboard_time": 1734760277,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120990,
@@ -15779,6 +15835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115425,
+      "num": 242243,
+      "word": "女子网购减肥药吃出精神疾病",
+      "onboard_time": 1734759858,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115396,
       "num": 115396,
       "word": "猎罪2破产叔仙人跳事件",
@@ -16019,6 +16083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112653,
+      "num": 122939,
+      "word": "易烊千玺刘春和希望外婆到很大的舞台",
+      "onboard_time": 1734762617,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112500,
       "num": 406235,
       "word": "南大碎尸案家属称剧方不愿公开道歉",
@@ -16092,7 +16164,7 @@
     },
     {
       "raw_hot": 111812,
-      "num": 119607,
+      "num": 217079,
       "word": "黑神话悟空登上央视新闻联播",
       "onboard_time": 1734755899,
       "rank": 48,
@@ -16347,6 +16419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108323,
+      "num": 239986,
+      "word": "内娱悬爱剧",
+      "onboard_time": 1734761417,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108261,
       "num": 219475,
       "word": "AG战胜TTG",
@@ -16513,6 +16593,14 @@
       "onboard_time": 1734226576,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106675,
+      "num": 241880,
+      "word": "Faker谈第六冠",
+      "onboard_time": 1734762376,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 106569,
@@ -16723,14 +16811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104565,
-      "num": 104565,
-      "word": "当考研要求带小刀的时候",
-      "onboard_time": 1734762017,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104474,
       "num": 104474,
       "word": "田柾国唱APT",
@@ -16841,6 +16921,14 @@
       "onboard_time": 1734582199,
       "rank": 17,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 102541,
+      "num": 199857,
+      "word": "向佐回应接住泼天流量",
+      "onboard_time": 1734762617,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 102498,
@@ -17248,14 +17336,6 @@
       "word": "步入中老年她们去考研",
       "onboard_time": 1734744557,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95309,
-      "num": 242243,
-      "word": "女子网购减肥药吃出精神疾病",
-      "onboard_time": 1734759858,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -17785,14 +17865,6 @@
       "onboard_time": 1734321619,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 87395,
-      "num": 239986,
-      "word": "内娱悬爱剧",
-      "onboard_time": 1734761417,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 86958,
@@ -18641,14 +18713,6 @@
       "onboard_time": 1734240138,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 71883,
-      "num": 241880,
-      "word": "Faker谈第六冠",
-      "onboard_time": 1734762376,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 71815,
@@ -20131,6 +20195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50850,
+      "num": 242921,
+      "word": "乾隆偏爱的宫廷玉液是咸口",
+      "onboard_time": 1734759558,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
       "raw_hot": 50613,
       "num": 331020,
       "word": "侵权方向赵露思公开道歉",
@@ -21049,14 +21121,6 @@
       "onboard_time": 1734695058,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 41830,
-      "num": 242921,
-      "word": "乾隆偏爱的宫廷玉液是咸口",
-      "onboard_time": 1734759558,
-      "rank": 16,
-      "category": "美食"
     },
     {
       "raw_hot": 41609,
@@ -24593,6 +24657,14 @@
       "onboard_time": 1734527900,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 9622,
+      "num": 193267,
+      "word": "宋威龙给粉丝回信",
+      "onboard_time": 1734762678,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 9533,
