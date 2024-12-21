@@ -1,6 +1,6 @@
 {
   "startTime": 1734193659999,
-  "endTime": 1734763320338,
+  "endTime": 1734765586818,
   "band_list": [
     {
       "raw_hot": 14415589,
@@ -363,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1577937,
+      "num": 1577937,
+      "word": "用8000块半年赚了130万",
+      "onboard_time": 1734763755,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1559757,
       "num": 1559757,
       "word": "贾玲回应瘦身后观众缘松动",
@@ -617,6 +625,14 @@
       "onboard_time": 1734335479,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1238156,
+      "num": 1238156,
+      "word": "被同学抱摔艺考女生本有望进全省前三",
+      "onboard_time": 1734763037,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1233534,
@@ -969,6 +985,14 @@
       "onboard_time": 1734356060,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1051331,
+      "num": 1051331,
+      "word": "袁记云饺",
+      "onboard_time": 1734668359,
+      "rank": 33,
+      "category": "舆论监督,美食"
     },
     {
       "raw_hot": 1050173,
@@ -1713,14 +1737,6 @@
       "onboard_time": 1734361639,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 788768,
-      "num": 788768,
-      "word": "袁记云饺",
-      "onboard_time": 1734668359,
-      "rank": 33,
-      "category": "舆论监督,美食"
     },
     {
       "raw_hot": 788252,
@@ -4700,7 +4716,7 @@
     },
     {
       "raw_hot": 371039,
-      "num": 371039,
+      "num": 389190,
       "word": "赵丽颖和央视新闻夜读日历温暖联动",
       "onboard_time": 1734759917,
       "rank": 5,
@@ -5883,6 +5899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285565,
+      "num": 380599,
+      "word": "王鹤棣田曦薇有什么我不能听的",
+      "onboard_time": 1734760158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285208,
       "num": 354695,
       "word": "被顾客多次掌掴胖东来补偿员工30000元",
@@ -6344,6 +6368,14 @@
       "word": "冬至被赵丽颖温暖治愈",
       "onboard_time": 1734752478,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264909,
+      "num": 264909,
+      "word": "杨紫新图旧图",
+      "onboard_time": 1734762917,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -7707,6 +7739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214333,
+      "num": 239184,
+      "word": "冬至后人体器官最易生病",
+      "onboard_time": 1734757518,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214273,
       "num": 246174,
       "word": "DNA音乐节 延期",
@@ -8923,6 +8963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195651,
+      "num": 350197,
+      "word": "LPL全明星红毯",
+      "onboard_time": 1734764418,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195506,
       "num": 192101,
       "word": "孙茜 一别14年碎玉轩又开工了",
@@ -9139,20 +9187,20 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 193775,
+      "num": 177449,
+      "word": "魏大勋的眼睛变大了",
+      "onboard_time": 1734763218,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193681,
       "num": 209808,
       "word": "宋佳 瞳孔地震",
       "onboard_time": 1734530721,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 193448,
-      "num": 225620,
-      "word": "杨紫新图旧图",
-      "onboard_time": 1734762917,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 193385,
@@ -9923,14 +9971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183698,
-      "num": 183698,
-      "word": "王鹤棣田曦薇有什么我不能听的",
-      "onboard_time": 1734760158,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183632,
       "num": 183632,
       "word": "傅菁 浓颜严选",
@@ -10561,6 +10601,14 @@
       "onboard_time": 1734668419,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174364,
+      "num": 199857,
+      "word": "向佐回应接住泼天流量",
+      "onboard_time": 1734762617,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 174288,
@@ -11635,6 +11683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160730,
+      "num": 184988,
+      "word": "丁程鑫毕业大戏汇报演出",
+      "onboard_time": 1734763157,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160700,
       "num": 160700,
       "word": "赵露思彭冠英湖边饭拍照",
@@ -11689,6 +11745,14 @@
       "onboard_time": 1734362601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160206,
+      "num": 160206,
+      "word": "现在就出发",
+      "onboard_time": 1734764177,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 160170,
@@ -11753,6 +11817,14 @@
       "onboard_time": 1734191719,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159570,
+      "num": 159570,
+      "word": "易烊千玺刘春和肢体细节",
+      "onboard_time": 1734764597,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 159359,
@@ -12523,14 +12595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151191,
-      "num": 239184,
-      "word": "冬至后人体器官最易生病",
-      "onboard_time": 1734757518,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150781,
       "num": 265484,
       "word": "有一种爱叫我图你能赚钱",
@@ -12545,14 +12609,6 @@
       "onboard_time": 1734682578,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150579,
-      "num": 150579,
-      "word": "魏大勋的眼睛变大了",
-      "onboard_time": 1734763218,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 150550,
@@ -13739,14 +13795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 136764,
-      "num": 136764,
-      "word": "被同学抱摔艺考女生本有望进全省前三",
-      "onboard_time": 1734763037,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136686,
       "num": 256029,
       "word": "容嬷嬷李明启88岁了",
@@ -14507,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129097,
+      "num": 242243,
+      "word": "女子网购减肥药吃出精神疾病",
+      "onboard_time": 1734759858,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129018,
       "num": 129018,
       "word": "冬至吃饺子",
@@ -14899,6 +14955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124902,
+      "num": 124902,
+      "word": "原来韩国公务员的工资也很少",
+      "onboard_time": 1734765138,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124846,
       "num": 124846,
       "word": "以为要过圣诞结果是过春节",
@@ -14921,14 +14985,6 @@
       "onboard_time": 1734494362,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 124700,
-      "num": 184988,
-      "word": "丁程鑫毕业大戏汇报演出",
-      "onboard_time": 1734763157,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 124637,
@@ -15203,6 +15259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122036,
+      "num": 358577,
+      "word": "抱摔艺考同学男生来自农村家境不好",
+      "onboard_time": 1734764957,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121974,
       "num": 121974,
       "word": "这个家里不能没有何老师",
@@ -15217,6 +15281,14 @@
       "onboard_time": 1734249738,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121631,
+      "num": 121631,
+      "word": "2025天蝎座超强财运",
+      "onboard_time": 1734764897,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 121561,
@@ -15833,14 +15905,6 @@
       "onboard_time": 1734250519,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115425,
-      "num": 242243,
-      "word": "女子网购减肥药吃出精神疾病",
-      "onboard_time": 1734759858,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115396,
@@ -16923,14 +16987,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 102541,
-      "num": 199857,
-      "word": "向佐回应接住泼天流量",
-      "onboard_time": 1734762617,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102498,
       "num": 144379,
       "word": "杨妞花说已不再期待余华英道歉",
@@ -17145,6 +17201,14 @@
       "onboard_time": 1734320899,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98934,
+      "num": 175916,
+      "word": "乒超总决赛樊振东或再对决王楚钦",
+      "onboard_time": 1734764537,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 98884,
@@ -17411,6 +17475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94165,
+      "num": 226115,
+      "word": "凡妮莎订婚",
+      "onboard_time": 1734761958,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94071,
       "num": 94071,
       "word": "六级听力",
@@ -17449,6 +17521,14 @@
       "onboard_time": 1734316938,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93560,
+      "num": 166244,
+      "word": "钎城画的小猪托脸头像",
+      "onboard_time": 1734764897,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 93533,
@@ -19483,6 +19563,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 61252,
+      "num": 176116,
+      "word": "网剧凶手的样子开播",
+      "onboard_time": 1734765557,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61041,
       "num": 301911,
       "word": "最美的夜老朋友阵容官宣",
@@ -19577,6 +19665,22 @@
       "onboard_time": 1734416120,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59326,
+      "num": 159712,
+      "word": "前极越公关负责人称感到释然",
+      "onboard_time": 1734764238,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 59233,
+      "num": 283616,
+      "word": "2024LPL全明星双城之夜",
+      "onboard_time": 1734765077,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 59129,
@@ -20985,6 +21089,14 @@
       "onboard_time": 1734599180,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43335,
+      "num": 120351,
+      "word": "美政府有望暂时避免停摆",
+      "onboard_time": 1734763577,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43164,
@@ -24201,6 +24313,14 @@
       "onboard_time": 1734701538,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14295,
+      "num": 173496,
+      "word": "田嘉瑞冬日限定男友",
+      "onboard_time": 1734764296,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 14243,

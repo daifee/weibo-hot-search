@@ -1,0 +1,410 @@
+{
+  "runTime": 1734765586818,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1577937,
+        "num": 1577937,
+        "word": "用8000块半年赚了130万",
+        "onboard_time": 1734763755,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1238156,
+        "num": 1238156,
+        "word": "被同学抱摔艺考女生本有望进全省前三",
+        "onboard_time": 1734763037,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52344,
+        "num": 1101079,
+        "word": "澳门每个路牌指引的都是家的方向",
+        "onboard_time": 1734750917,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1051331,
+        "num": 1051331,
+        "word": "袁记云饺",
+        "onboard_time": 1734759379,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556989,
+        "num": 556989,
+        "word": "考研政治",
+        "onboard_time": 1734749897,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397328,
+        "num": 397328,
+        "word": "肖秀荣 今年是近十年最难的一次",
+        "onboard_time": 1734753198,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300145,
+        "num": 389190,
+        "word": "赵丽颖和央视新闻夜读日历温暖联动",
+        "onboard_time": 1734759917,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285565,
+        "num": 380599,
+        "word": "王鹤棣田曦薇有什么我不能听的",
+        "onboard_time": 1734760158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122036,
+        "num": 358577,
+        "word": "抱摔艺考同学男生来自农村家境不好",
+        "onboard_time": 1734764957,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195651,
+        "num": 350197,
+        "word": "LPL全明星红毯",
+        "onboard_time": 1734764418,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 426887,
+        "num": 342183,
+        "word": "冉莹颖说婚后不一定要有夫妻生活",
+        "onboard_time": 1734754281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331996,
+        "num": 331996,
+        "word": "今年冬至是128年来最早冬至",
+        "onboard_time": 1734748758,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321676,
+        "num": 321676,
+        "word": "何秋亊 dsn",
+        "onboard_time": 1734754281,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 298855,
+        "num": 298855,
+        "word": "冬至",
+        "onboard_time": 1734736274,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59233,
+        "num": 283616,
+        "word": "2024LPL全明星双城之夜",
+        "onboard_time": 1734765077,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 268742,
+        "num": 268742,
+        "word": "猴体解剖",
+        "onboard_time": 1734756198,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264909,
+        "num": 264909,
+        "word": "杨紫新图旧图",
+        "onboard_time": 1734762917,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204342,
+        "num": 255517,
+        "word": "李昀锐给孟子义递暖宝宝",
+        "onboard_time": 1734759738,
+        "rank": 17,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 251342,
+        "num": 251342,
+        "word": "41岁孕晚期女子被疑代孕遭医院拒收",
+        "onboard_time": 1734753139,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94165,
+        "num": 226115,
+        "word": "凡妮莎订婚",
+        "onboard_time": 1734761958,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640817,
+        "num": 225925,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214333,
+        "num": 214333,
+        "word": "冬至后人体器官最易生病",
+        "onboard_time": 1734757518,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201063,
+        "num": 201063,
+        "word": "肖四没押中",
+        "onboard_time": 1734753320,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193932,
+        "num": 193932,
+        "word": "包文婧否认机场孕照是装的",
+        "onboard_time": 1734746717,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179759,
+        "num": 179759,
+        "word": "何秋亊回应",
+        "onboard_time": 1734748817,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 178979,
+        "word": "也门胡塞武装导弹袭击以色列中部",
+        "onboard_time": 1734760277,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193775,
+        "num": 177449,
+        "word": "魏大勋的眼睛变大了",
+        "onboard_time": 1734763218,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61252,
+        "num": 176116,
+        "word": "网剧凶手的样子开播",
+        "onboard_time": 1734765557,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98934,
+        "num": 175916,
+        "word": "乒超总决赛樊振东或再对决王楚钦",
+        "onboard_time": 1734764537,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14295,
+        "num": 173496,
+        "word": "田嘉瑞冬日限定男友",
+        "onboard_time": 1734764296,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173354,
+        "num": 173354,
+        "word": "冬至是陈奕迅最忙的一天",
+        "onboard_time": 1734749838,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93560,
+        "num": 166244,
+        "word": "钎城画的小猪托脸头像",
+        "onboard_time": 1734764897,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160206,
+        "num": 160206,
+        "word": "现在就出发",
+        "onboard_time": 1734764177,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174364,
+        "num": 160016,
+        "word": "向佐回应接住泼天流量",
+        "onboard_time": 1734762617,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59326,
+        "num": 159712,
+        "word": "前极越公关负责人称感到释然",
+        "onboard_time": 1734764238,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160730,
+        "num": 159711,
+        "word": "丁程鑫毕业大戏汇报演出",
+        "onboard_time": 1734763157,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159570,
+        "num": 159570,
+        "word": "易烊千玺刘春和肢体细节",
+        "onboard_time": 1734764597,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157308,
+        "num": 157308,
+        "word": "腿姐九页纸",
+        "onboard_time": 1734756619,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136301,
+        "num": 136301,
+        "word": "处处碰壁男子决定清洗满脸文身",
+        "onboard_time": 1734748337,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133534,
+        "num": 133534,
+        "word": "丁禹兮学的是男伴舞",
+        "onboard_time": 1734760998,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131851,
+        "num": 131851,
+        "word": "留几手报警",
+        "onboard_time": 1734736874,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129097,
+        "num": 129097,
+        "word": "女子网购减肥药吃出精神疾病",
+        "onboard_time": 1734759858,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124902,
+        "num": 124902,
+        "word": "原来韩国公务员的工资也很少",
+        "onboard_time": 1734765138,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121631,
+        "num": 121631,
+        "word": "2025天蝎座超强财运",
+        "onboard_time": 1734764897,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43335,
+        "num": 120351,
+        "word": "美政府有望暂时避免停摆",
+        "onboard_time": 1734763577,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119875,
+        "num": 119875,
+        "word": "考研政治 难",
+        "onboard_time": 1734753800,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116704,
+        "num": 116704,
+        "word": "赵丽颖央视严选",
+        "onboard_time": 1734762678,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108473,
+        "num": 108473,
+        "word": "尔滨冰滑梯不够用了加到24条",
+        "onboard_time": 1734757580,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 103603,
+        "num": 103603,
+        "word": "当考研要求带小刀的时候",
+        "onboard_time": 1734762017,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79344,
+        "num": 100370,
+        "word": "乒超总决赛赛程来了",
+        "onboard_time": 1734758059,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平寄望澳门#"
+    }
+  }
+}
