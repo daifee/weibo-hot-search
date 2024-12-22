@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734849745916,
+  "endTime": 1734851996246,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1036569,
+      "num": 1165851,
+      "word": "网友评杨幂朋友圈变迁",
+      "onboard_time": 1734849618,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 996664,
       "num": 996664,
       "word": "李宜雪",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 624828,
+      "num": 624828,
+      "word": "美巡洋舰误击美军战机",
+      "onboard_time": 1734849317,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 623601,
       "num": 623601,
       "word": "00后负债300万1比1复刻蜡笔小新之家",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 486555,
-      "num": 239171,
+      "num": 349872,
       "word": "苏醒大儿子正脸照",
       "onboard_time": 1734846139,
       "rank": 10,
@@ -256,6 +272,14 @@
       "word": "李秀满公司在成都招人",
       "onboard_time": 1734832938,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467209,
+      "num": 398925,
+      "word": "湖南卫视声明",
+      "onboard_time": 1734851179,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -315,6 +339,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 418766,
+      "num": 418766,
+      "word": "全红婵夺金当地长出一个奥运村",
+      "onboard_time": 1734848478,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403350,
       "num": 403350,
       "word": "上海地铁受损列车内部画面曝光",
@@ -353,6 +385,14 @@
       "onboard_time": 1734838879,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 378913,
+      "num": 378913,
+      "word": "干噎酸奶",
+      "onboard_time": 1734849979,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 377188,
@@ -467,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325295,
-      "num": 208096,
-      "word": "全红婵夺金当地长出一个奥运村",
-      "onboard_time": 1734848478,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322877,
       "num": 322877,
       "word": "晋江",
@@ -515,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296956,
+      "num": 296956,
+      "word": "优酷分享知否台词",
+      "onboard_time": 1734851657,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293283,
       "num": 638133,
       "word": "上海地铁11号线抢修",
@@ -537,6 +577,14 @@
       "onboard_time": 1734828618,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284111,
+      "num": 284111,
+      "word": "雄狮少年2黑屏6秒",
+      "onboard_time": 1734849377,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 277766,
@@ -665,6 +713,22 @@
       "onboard_time": 1734836477,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227112,
+      "num": 227112,
+      "word": "重庆理工通报硕士失联",
+      "onboard_time": 1734849138,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 226971,
+      "num": 226971,
+      "word": "昭昭墨墨渡药吻",
+      "onboard_time": 1734848539,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 224919,
@@ -819,14 +883,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 188879,
-      "num": 214370,
-      "word": "昭昭墨墨渡药吻",
-      "onboard_time": 1734848539,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188183,
       "num": 188183,
       "word": "当地回应农村养老院冬天窗户无玻璃",
@@ -915,6 +971,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171259,
+      "num": 165466,
+      "word": "光与夜之恋活动预告",
+      "onboard_time": 1734851058,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170574,
+      "num": 170574,
+      "word": "nctwish到底要干嘛",
+      "onboard_time": 1734851657,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170018,
       "num": 170018,
       "word": "陈都灵 仙女",
@@ -937,6 +1009,14 @@
       "onboard_time": 1734823935,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167737,
+      "num": 167737,
+      "word": "发现i人其实不是不喜欢说话",
+      "onboard_time": 1734848958,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 167607,
@@ -971,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161965,
-      "num": 161965,
-      "word": "雄狮少年2黑屏6秒",
-      "onboard_time": 1734849377,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 161343,
       "num": 161343,
       "word": "用8000块半年赚了130万",
@@ -1011,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158347,
-      "num": 212594,
-      "word": "美巡洋舰误击美军战机",
-      "onboard_time": 1734849317,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157269,
       "num": 157269,
       "word": "小狗耳朵都放下来了你倒是摸啊",
@@ -1033,6 +1097,14 @@
       "onboard_time": 1734844277,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155969,
+      "num": 182739,
+      "word": "李昀锐高中时期旧照",
+      "onboard_time": 1734850338,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 154164,
@@ -1075,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150278,
+      "num": 150278,
+      "word": "东北米线一吃一个不吱声",
+      "onboard_time": 1734848958,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149671,
       "num": 395468,
       "word": "50元可查询任意一个人的隐私",
@@ -1091,20 +1171,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 143784,
-      "num": 143784,
-      "word": "发现i人其实不是不喜欢说话",
-      "onboard_time": 1734848958,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 141841,
-      "num": 141841,
-      "word": "重庆理工通报硕士失联",
-      "onboard_time": 1734849138,
-      "rank": 41,
-      "category": "辟谣/通报"
+      "raw_hot": 144640,
+      "num": 144640,
+      "word": "五大预售票房顶流",
+      "onboard_time": 1734851597,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 140389,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1734784159,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140028,
+      "num": 173617,
+      "word": "张博恒实现外婆心愿",
+      "onboard_time": 1734851358,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 139299,
@@ -1195,12 +1275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128678,
-      "num": 128678,
-      "word": "东北米线一吃一个不吱声",
-      "onboard_time": 1734848958,
-      "rank": 43,
-      "category": "美食"
+      "raw_hot": 131230,
+      "num": 131230,
+      "word": "不如裸考",
+      "onboard_time": 1734850157,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 130577,
+      "num": 130577,
+      "word": "我是刑警现实原型崔道植有多厉害",
+      "onboard_time": 1734850758,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 128633,
@@ -1233,6 +1321,14 @@
       "onboard_time": 1734845117,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124659,
+      "num": 151337,
+      "word": "冰雪大世界游客排队像贪吃蛇",
+      "onboard_time": 1734849979,
+      "rank": 35,
+      "category": "旅游"
     },
     {
       "raw_hot": 124636,
@@ -1273,14 +1369,6 @@
       "onboard_time": 1734845418,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120960,
-      "num": 177136,
-      "word": "网友评杨幂朋友圈变迁",
-      "onboard_time": 1734849618,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 120153,
@@ -1385,6 +1473,22 @@
       "onboard_time": 1734844578,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113473,
+      "num": 113473,
+      "word": "上海地铁故障或影响周一出行",
+      "onboard_time": 1734851539,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113454,
+      "num": 166153,
+      "word": "央视曝老年养生馆骗局",
+      "onboard_time": 1734851330,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112937,
@@ -1675,6 +1779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 76583,
+      "num": 241775,
+      "word": "羽绒服背刺我冲锋衣坑骗我",
+      "onboard_time": 1734850997,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76036,
       "num": 76036,
       "word": "盘点2024",
@@ -1843,6 +1955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50449,
+      "num": 124811,
+      "word": "电影恶行之外定档",
+      "onboard_time": 1734850458,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49963,
       "num": 49963,
       "word": "随手拍的一张照片能泄露多少信息",
@@ -1907,6 +2027,14 @@
       "category": "美妆,休闲"
     },
     {
+      "raw_hot": 43598,
+      "num": 185477,
+      "word": "蜂窝版iPad会取代WiFi版吗",
+      "onboard_time": 1734849196,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43029,
       "num": 213784,
       "word": "伏黑惠 我们的恩惠",
@@ -1931,12 +2059,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 38976,
-      "num": 144323,
-      "word": "蜂窝版iPad会取代WiFi版吗",
-      "onboard_time": 1734849196,
-      "rank": 39,
-      "category": "数码"
+      "raw_hot": 40550,
+      "num": 167271,
+      "word": "当地司机称全红婵带动了全市经济",
+      "onboard_time": 1734851958,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37758,
@@ -2000,6 +2128,14 @@
       "word": "留几手回复网友",
       "onboard_time": 1734804673,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30192,
+      "num": 166935,
+      "word": "浙江卫视跨年晚会宣传片",
+      "onboard_time": 1734848478,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -2067,6 +2203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 18976,
+      "num": 166298,
+      "word": "北京卫视跨年第四波阵容",
+      "onboard_time": 1734850637,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18164,
       "num": 22665,
       "word": "劳尔卡斯特罗参加抗议美国制裁游行",
@@ -2089,6 +2233,14 @@
       "onboard_time": 1734810372,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16148,
+      "num": 113718,
+      "word": "eSIM真正释放了iPad的生产力",
+      "onboard_time": 1734851839,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 15982,
