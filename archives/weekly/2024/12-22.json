@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734906008570,
+  "endTime": 1734907051638,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -3459,6 +3459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64049,
+      "num": 64049,
+      "word": "尔滨宠客更不能让自家人寒心",
+      "onboard_time": 1734905592,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -3545,6 +3553,14 @@
       "onboard_time": 1734886277,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 52717,
+      "num": 52717,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52571,
@@ -3649,14 +3665,6 @@
       "onboard_time": 1734801194,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 47340,
-      "num": 47340,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45807,
@@ -3843,6 +3851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34256,
+      "num": 34256,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34223,
       "num": 279128,
       "word": "2024中国健儿这些话鼓舞人心",
@@ -3907,14 +3923,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 31988,
-      "num": 31988,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 31839,
       "num": 190042,
       "word": "数一答案",
@@ -3971,8 +3979,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28980,
-      "num": 28980,
+      "raw_hot": 29039,
+      "num": 29039,
       "word": "特朗普提名火箭队老板为美国驻意大使",
       "onboard_time": 1734898871,
       "rank": 49,
@@ -4027,6 +4035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27216,
+      "num": 27216,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 27174,
       "num": 276623,
       "word": "通报校园欺凌事件是责任不是家丑",
@@ -4051,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25817,
+      "num": 25817,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25258,
       "num": 311719,
       "word": "现在就出发泳池混战",
@@ -4065,6 +4089,14 @@
       "onboard_time": 1734888616,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23842,
+      "num": 23842,
+      "word": "胡塞武装说美英空袭也门首都萨那",
+      "onboard_time": 1734892152,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23593,
@@ -4083,20 +4115,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22777,
+      "num": 30963,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 22612,
       "num": 46544,
       "word": "演员于适为何爱上了骑射",
       "onboard_time": 1734888734,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22141,
-      "num": 22141,
-      "word": "柳岩谈做子宫肌瘤手术",
-      "onboard_time": 1734901931,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22103,
@@ -4113,22 +4145,6 @@
       "onboard_time": 1734850637,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21212,
-      "num": 21212,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 21160,
-      "num": 30963,
-      "word": "72岁爷爷给猴子当了29年贴身保镖",
-      "onboard_time": 1734896171,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 21089,
@@ -4155,12 +4171,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18427,
-      "num": 19281,
-      "word": "胡塞武装说美英空袭也门首都萨那",
-      "onboard_time": 1734892152,
-      "rank": 43,
+      "raw_hot": 19122,
+      "num": 23821,
+      "word": "真人秀制作人被提名为美国驻英特使",
+      "onboard_time": 1734902171,
+      "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19066,
+      "num": 25697,
+      "word": "车辆跟踪竟成黑产业链",
+      "onboard_time": 1734893651,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18164,
@@ -4203,20 +4227,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 16120,
-      "num": 25697,
-      "word": "车辆跟踪竟成黑产业链",
-      "onboard_time": 1734893651,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15982,
       "num": 21922,
       "word": "嗜战成瘾的美国成全球安全最大威胁者",
       "onboard_time": 1734815051,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15505,
+      "num": 34119,
+      "word": "长沙真的下雪了",
+      "onboard_time": 1734906793,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14413,
@@ -4227,28 +4251,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13963,
-      "num": 17685,
-      "word": "真人秀制作人被提名为美国驻英特使",
-      "onboard_time": 1734902171,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 13919,
-      "num": 45131,
-      "word": "尔滨宠客更不能让自家人寒心",
-      "onboard_time": 1734905592,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13369,
       "num": 34546,
       "word": "海南省旅游委通报非法经营将顶格处罚",
       "onboard_time": 1734815232,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12743,
+      "num": 34390,
+      "word": "一人一句2025心愿",
+      "onboard_time": 1734906972,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 12499,
@@ -4275,6 +4291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 11261,
+      "num": 28953,
+      "word": "李昀锐小狗比心",
+      "onboard_time": 1734905652,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10756,
       "num": 40049,
       "word": "南方人有自己的吞灯泡",
@@ -4289,14 +4313,6 @@
       "onboard_time": 1734884118,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8464,
-      "num": 28953,
-      "word": "李昀锐小狗比心",
-      "onboard_time": 1734905652,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 8022,
