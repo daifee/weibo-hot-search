@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734877172810,
+  "endTime": 1734878199955,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -171,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1034347,
+      "num": 1034347,
+      "word": "虎跳崖",
+      "onboard_time": 1734873979,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 996664,
       "num": 996664,
       "word": "李宜雪",
       "onboard_time": 1734846798,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 977476,
+      "num": 977476,
+      "word": "华妃娘娘凤仪万千",
+      "onboard_time": 1734874820,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 971859,
@@ -195,14 +211,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 948390,
-      "num": 752938,
-      "word": "华妃娘娘凤仪万千",
-      "onboard_time": 1734874820,
-      "rank": 6,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 929729,
       "num": 516977,
       "word": "黄誉博 叫徐艺洋嫂子很奇怪",
@@ -217,14 +225,6 @@
       "onboard_time": 1734841157,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 826568,
-      "num": 826568,
-      "word": "虎跳崖",
-      "onboard_time": 1734873979,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 809862,
@@ -369,6 +369,14 @@
       "onboard_time": 1734838338,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 639787,
+      "num": 639787,
+      "word": "上海地铁致歉",
+      "onboard_time": 1734875661,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 636043,
@@ -555,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 448940,
+      "num": 448940,
+      "word": "冰箱贴已经美到nextlevel",
+      "onboard_time": 1734874699,
+      "rank": 16,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 447099,
       "num": 447099,
       "word": "孟子义觉得九重紫播太快了",
@@ -691,6 +707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 397763,
+      "num": 397763,
+      "word": "韦雪说对秦奋是爱",
+      "onboard_time": 1734877160,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 386678,
       "num": 291997,
       "word": "李昀锐直播",
@@ -785,6 +809,14 @@
       "onboard_time": 1734774199,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358223,
+      "num": 358223,
+      "word": "李沐宸红毯小白花",
+      "onboard_time": 1734875600,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 354595,
@@ -955,36 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285716,
-      "num": 255206,
-      "word": "李沐宸红毯小白花",
-      "onboard_time": 1734875600,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
       "onboard_time": 1734849377,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282814,
-      "num": 282814,
-      "word": "冰箱贴已经美到nextlevel",
-      "onboard_time": 1734874699,
-      "rank": 16,
-      "category": "休闲"
-    },
-    {
-      "raw_hot": 280995,
-      "num": 280995,
-      "word": "上海地铁致歉",
-      "onboard_time": 1734875661,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278007,
@@ -1147,6 +1155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 243929,
+      "num": 456114,
+      "word": "贺岁档电影票房破20亿",
+      "onboard_time": 1734864919,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 242421,
       "num": 242421,
       "word": "腿姐长文告别25考研",
@@ -1161,6 +1177,14 @@
       "onboard_time": 1734828256,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241132,
+      "num": 218523,
+      "word": "宋莹买这么多金项链为什么一条没戴",
+      "onboard_time": 1734876560,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 237554,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1734790820,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 222195,
+      "num": 222195,
+      "word": "周芯竹说和周密曾有过快乐的时光",
+      "onboard_time": 1734877279,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 222031,
@@ -1315,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209586,
-      "num": 456114,
-      "word": "贺岁档电影票房破20亿",
-      "onboard_time": 1734864919,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 208944,
       "num": 208944,
       "word": "金晨王安宇跳TroubleMaker",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1734844819,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204121,
+      "num": 204121,
+      "word": "王心凌陈楚生合唱黄昏晓",
+      "onboard_time": 1734877100,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 201117,
@@ -1755,12 +1787,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 171074,
+      "num": 149671,
+      "word": "窦昭第二世迎来了自己的he",
+      "onboard_time": 1734877580,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170018,
       "num": 170018,
       "word": "陈都灵 仙女",
       "onboard_time": 1734830896,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169639,
+      "num": 235520,
+      "word": "看得出是林更新本人了",
+      "onboard_time": 1734876740,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 169086,
@@ -1777,6 +1825,14 @@
       "onboard_time": 1734827956,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 167903,
+      "num": 137174,
+      "word": "周洁琼 白月光和朱砂痣",
+      "onboard_time": 1734876920,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167788,
@@ -1833,14 +1889,6 @@
       "onboard_time": 1734849377,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162604,
-      "num": 162604,
-      "word": "宋莹买这么多金项链为什么一条没戴",
-      "onboard_time": 1734876560,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161343,
@@ -2027,6 +2075,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 149606,
+      "num": 454907,
+      "word": "央视曝光未成年人绕开防沉迷只需4元",
+      "onboard_time": 1734876979,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 148611,
       "num": 148611,
       "word": "李宜雪被诊断为强迫性障碍人格障碍",
@@ -2099,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139329,
-      "num": 136602,
-      "word": "看得出是林更新本人了",
-      "onboard_time": 1734876740,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139299,
       "num": 139299,
       "word": "白鹿敖瑞鹏白月梵星行程单",
@@ -2131,14 +2179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137302,
-      "num": 136602,
-      "word": "周洁琼 白月光和朱砂痣",
-      "onboard_time": 1734876920,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 136171,
       "num": 239151,
       "word": "重庆理工大学通报硕士失联事件",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1734854718,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134455,
-      "num": 134455,
-      "word": "王心凌陈楚生合唱黄昏晓",
-      "onboard_time": 1734877100,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 133738,
@@ -2243,12 +2275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131517,
+      "num": 131517,
+      "word": "特朗普威胁巴拿马不听话就归还运河",
+      "onboard_time": 1734877641,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 131230,
       "num": 131230,
       "word": "不如裸考",
       "onboard_time": 1734850157,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130480,
+      "num": 130480,
+      "word": "嬴政玄雷天君金牌皮肤",
+      "onboard_time": 1734878000,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 129585,
@@ -2515,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113924,
+      "num": 425645,
+      "word": "A股迎来今年最后一个完整交易周",
+      "onboard_time": 1734874340,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113907,
       "num": 158884,
       "word": "哈尔滨冰雪大世界开园万人蹦迪",
@@ -2689,6 +2745,14 @@
       "onboard_time": 1734836477,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105408,
+      "num": 237830,
+      "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
+      "onboard_time": 1734877221,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104727,
@@ -2883,14 +2947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92602,
-      "num": 368917,
-      "word": "央视曝光未成年人绕开防沉迷只需4元",
-      "onboard_time": 1734876979,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 92592,
       "num": 263515,
       "word": "向鱼画鱼",
@@ -2995,6 +3051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 81100,
+      "num": 228012,
+      "word": "KPL",
+      "onboard_time": 1734869360,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79691,
       "num": 88208,
       "word": "裴秀智圣诞老人造型",
@@ -3051,8 +3115,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74506,
+      "num": 307063,
+      "word": "运动减肥越来越肥怎么回事",
+      "onboard_time": 1734876320,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 73860,
-      "num": 826275,
+      "num": 996844,
       "word": "2024余额已不足10天",
       "onboard_time": 1734873620,
       "rank": 2,
@@ -3251,14 +3323,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 54035,
-      "num": 307063,
-      "word": "运动减肥越来越肥怎么回事",
-      "onboard_time": 1734876320,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 52571,
       "num": 226054,
       "word": "蜂窝版iPad会取代WiFi版吗",
@@ -3419,14 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42159,
-      "num": 425645,
-      "word": "A股迎来今年最后一个完整交易周",
-      "onboard_time": 1734874340,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 41790,
       "num": 132036,
       "word": "西综答案",
@@ -3513,6 +3569,14 @@
       "onboard_time": 1734867619,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33688,
+      "num": 349279,
+      "word": "云南瑞丽1人氧化碳中毒死亡",
+      "onboard_time": 1734877641,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32831,
@@ -3635,6 +3699,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27174,
+      "num": 276623,
+      "word": "通报校园欺凌事件是责任不是家丑",
+      "onboard_time": 1734876200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26890,
       "num": 71421,
       "word": "被抱摔女生回应老师称能进全省前三",
@@ -3697,14 +3769,6 @@
       "onboard_time": 1734822432,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 19308,
-      "num": 276623,
-      "word": "通报校园欺凌事件是责任不是家丑",
-      "onboard_time": 1734876200,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18164,
@@ -3808,6 +3872,9 @@
     },
     {
       "word": "#习近平澳门之行#"
+    },
+    {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
     }
   ]
 }
