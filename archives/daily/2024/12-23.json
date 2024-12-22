@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734903315994,
+  "endTime": 1734906008570,
   "band_list": [
     {
       "raw_hot": 1114347,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47340,
+      "num": 47340,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46716,
       "num": 91859,
       "word": "程潇回应近期妆造争议",
@@ -467,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31913,
-      "num": 31913,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 31988,
+      "num": 31988,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31725,
@@ -483,14 +491,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 31688,
-      "num": 31688,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29897,
       "num": 684810,
       "word": "2024余额已不足10天",
@@ -499,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27840,
-      "num": 27840,
+      "raw_hot": 28980,
+      "num": 28980,
       "word": "特朗普提名火箭队老板为美国驻意大使",
       "onboard_time": 1734898871,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28368,
+      "num": 28368,
+      "word": "哈尔滨冰雪大世界开园",
+      "onboard_time": 1734900911,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 27544,
@@ -539,12 +547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22141,
+      "num": 22141,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 22103,
       "num": 22103,
       "word": "盲人带导盲犬医院看病被拦",
       "onboard_time": 1734896951,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21212,
+      "num": 21212,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21160,
@@ -563,7 +587,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 16942,
+      "raw_hot": 18427,
       "num": 19281,
       "word": "胡塞武装说美英空袭也门首都萨那",
       "onboard_time": 1734892152,
@@ -571,12 +595,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16623,
-      "num": 16824,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 16416,
+      "num": 17692,
+      "word": "王一博探索新境海外预告",
+      "onboard_time": 1734905410,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16120,
@@ -595,20 +619,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13623,
-      "num": 13623,
+      "raw_hot": 13963,
+      "num": 17685,
       "word": "真人秀制作人被提名为美国驻英特使",
       "onboard_time": 1734902171,
       "rank": 42,
       "category": "国际时政"
     },
     {
-      "raw_hot": 13603,
-      "num": 17532,
-      "word": "哈尔滨冰雪大世界开园",
-      "onboard_time": 1734900911,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 13919,
+      "num": 45131,
+      "word": "尔滨宠客更不能让自家人寒心",
+      "onboard_time": 1734905592,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12499,
@@ -625,6 +649,14 @@
       "onboard_time": 1734884118,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8464,
+      "num": 28953,
+      "word": "李昀锐小狗比心",
+      "onboard_time": 1734905652,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 8022,
@@ -648,14 +680,6 @@
       "word": "向佐认领白磷型人格",
       "onboard_time": 1734897492,
       "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 6464,
-      "num": 21150,
-      "word": "柳岩谈做子宫肌瘤手术",
-      "onboard_time": 1734901931,
-      "rank": 24,
       "category": "作品衍生,时尚"
     },
     {
