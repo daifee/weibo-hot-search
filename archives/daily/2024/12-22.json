@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734874517809,
+  "endTime": 1734877172810,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -41,6 +41,14 @@
       "onboard_time": 1734839179,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1773942,
+      "num": 1773942,
+      "word": "徐艺洋老公 发疯文学",
+      "onboard_time": 1734871638,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1711618,
@@ -88,14 +96,6 @@
       "word": "张雨绮 为了讨大家喜欢才穿成这样",
       "onboard_time": 1734867499,
       "rank": 0,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1461193,
-      "num": 1461193,
-      "word": "徐艺洋老公 发疯文学",
-      "onboard_time": 1734871638,
-      "rank": 22,
       "category": "作品衍生,时尚"
     },
     {
@@ -195,6 +195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 948390,
+      "num": 752938,
+      "word": "华妃娘娘凤仪万千",
+      "onboard_time": 1734874820,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 929729,
       "num": 516977,
       "word": "黄誉博 叫徐艺洋嫂子很奇怪",
@@ -209,6 +217,14 @@
       "onboard_time": 1734841157,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 826568,
+      "num": 826568,
+      "word": "虎跳崖",
+      "onboard_time": 1734873979,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 809862,
@@ -240,6 +256,14 @@
       "word": "男子吃未煮熟猪肉致双耳全聋",
       "onboard_time": 1734792439,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 781025,
+      "num": 781025,
+      "word": "直播间榜一大哥1周骗走女主播7.4万",
+      "onboard_time": 1734869959,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -875,20 +899,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305518,
+      "num": 269114,
+      "word": "李昀锐说自己耳根子软",
+      "onboard_time": 1734874639,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302465,
       "num": 252504,
       "word": "郑爽未履行70万案款被限消",
       "onboard_time": 1734789260,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298163,
-      "num": 298163,
-      "word": "直播间榜一大哥1周骗走女主播7.4万",
-      "onboard_time": 1734869959,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293283,
@@ -923,12 +947,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288381,
+      "num": 291169,
+      "word": "国色芳华",
+      "onboard_time": 1734870858,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285716,
+      "num": 255206,
+      "word": "李沐宸红毯小白花",
+      "onboard_time": 1734875600,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
       "onboard_time": 1734849377,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282814,
+      "num": 282814,
+      "word": "冰箱贴已经美到nextlevel",
+      "onboard_time": 1734874699,
+      "rank": 16,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 280995,
+      "num": 280995,
+      "word": "上海地铁致歉",
+      "onboard_time": 1734875661,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278007,
@@ -993,14 +1049,6 @@
       "onboard_time": 1734870558,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268018,
-      "num": 291169,
-      "word": "国色芳华",
-      "onboard_time": 1734870858,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 266624,
@@ -1139,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230386,
+      "num": 435100,
+      "word": "朱婷世俱杯夺冠",
+      "onboard_time": 1734873740,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229948,
       "num": 229948,
       "word": "胖东来部分商品转线上销售",
@@ -1211,6 +1267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218605,
+      "num": 218605,
+      "word": "梁洁 小女子不才",
+      "onboard_time": 1734875720,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215246,
       "num": 291890,
       "word": "周芯竹回应陈近南发歌diss周密",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1734851539,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209586,
+      "num": 456114,
+      "word": "贺岁档电影票房破20亿",
+      "onboard_time": 1734864919,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 208944,
@@ -1377,6 +1449,14 @@
       "onboard_time": 1734841878,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "鞠婧祎陈都灵靠肩抱",
+      "onboard_time": 1734876680,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 197170,
@@ -1523,22 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184917,
-      "num": 180244,
-      "word": "虎跳崖",
-      "onboard_time": 1734873979,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 183939,
-      "num": 435100,
-      "word": "朱婷世俱杯夺冠",
-      "onboard_time": 1734873740,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "猎罪图鉴2",
@@ -1593,14 +1657,6 @@
       "onboard_time": 1734854119,
       "rank": 30,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 176652,
-      "num": 456114,
-      "word": "贺岁档电影票房破20亿",
-      "onboard_time": 1734864919,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 176051,
@@ -1692,7 +1748,7 @@
     },
     {
       "raw_hot": 171147,
-      "num": 171147,
+      "num": 266130,
       "word": "潘宏训狗",
       "onboard_time": 1734873259,
       "rank": 40,
@@ -1777,6 +1833,14 @@
       "onboard_time": 1734849377,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162604,
+      "num": 162604,
+      "word": "宋莹买这么多金项链为什么一条没戴",
+      "onboard_time": 1734876560,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 161343,
@@ -1987,6 +2051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146876,
+      "num": 136606,
+      "word": "卓沅赶集",
+      "onboard_time": 1734876019,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145176,
       "num": 145176,
       "word": "柯南M7和新海诚的纯爱联动",
@@ -2027,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139329,
+      "num": 136602,
+      "word": "看得出是林更新本人了",
+      "onboard_time": 1734876740,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139299,
       "num": 139299,
       "word": "白鹿敖瑞鹏白月梵星行程单",
@@ -2051,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137302,
+      "num": 136602,
+      "word": "周洁琼 白月光和朱砂痣",
+      "onboard_time": 1734876920,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 136171,
       "num": 239151,
       "word": "重庆理工大学通报硕士失联事件",
@@ -2073,6 +2161,14 @@
       "onboard_time": 1734854718,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134455,
+      "num": 134455,
+      "word": "王心凌陈楚生合唱黄昏晓",
+      "onboard_time": 1734877100,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 133738,
@@ -2523,6 +2619,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 110429,
+      "num": 110429,
+      "word": "广州夜市有自己的食神",
+      "onboard_time": 1734876920,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109026,
       "num": 109026,
       "word": "李宜雪将被社区依法依规送诊",
@@ -2609,6 +2713,14 @@
       "onboard_time": 1734831497,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 102206,
+      "num": 201059,
+      "word": "晋江两男子凌晨到寺庙偷金灰被刑拘",
+      "onboard_time": 1734872538,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100927,
@@ -2771,6 +2883,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92602,
+      "num": 368917,
+      "word": "央视曝光未成年人绕开防沉迷只需4元",
+      "onboard_time": 1734876979,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 92592,
+      "num": 263515,
+      "word": "向鱼画鱼",
+      "onboard_time": 1734876260,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92077,
       "num": 92077,
       "word": "单身小伙考研四战浙大",
@@ -2923,6 +3051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73860,
+      "num": 826275,
+      "word": "2024余额已不足10天",
+      "onboard_time": 1734873620,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72925,
       "num": 365448,
       "word": "清明上河图密码救女友连砍4人大案",
@@ -3009,14 +3145,6 @@
       "onboard_time": 1734856340,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66544,
-      "num": 201059,
-      "word": "晋江两男子凌晨到寺庙偷金灰被刑拘",
-      "onboard_time": 1734872538,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65666,
@@ -3119,6 +3247,14 @@
       "num": 332768,
       "word": "医生辟谣经常看吃播会得胆结石",
       "onboard_time": 1734836656,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 54035,
+      "num": 307063,
+      "word": "运动减肥越来越肥怎么回事",
+      "onboard_time": 1734876320,
       "rank": 14,
       "category": "民生新闻,健康医疗"
     },
@@ -3371,6 +3507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34223,
+      "num": 279128,
+      "word": "2024中国健儿这些话鼓舞人心",
+      "onboard_time": 1734867619,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32831,
       "num": 142990,
       "word": "筹2千万索要上官正义性命系编造",
@@ -3555,6 +3699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19308,
+      "num": 276623,
+      "word": "通报校园欺凌事件是责任不是家丑",
+      "onboard_time": 1734876200,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18164,
       "num": 22665,
       "word": "劳尔卡斯特罗参加抗议美国制裁游行",
@@ -3653,6 +3805,9 @@
     },
     {
       "word": "#新时代一国两制实践承担着新的重要使命#"
+    },
+    {
+      "word": "#习近平澳门之行#"
     }
   ]
 }
