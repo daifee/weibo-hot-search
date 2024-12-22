@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734872039584,
+  "endTime": 1734873842319,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -105,6 +105,14 @@
       "onboard_time": 1734855018,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1316937,
+      "num": 580160,
+      "word": "徐艺洋老公 发疯文学",
+      "onboard_time": 1734871638,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1287464,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500192,
+      "num": 294852,
+      "word": "蒋欣41岁的状态",
+      "onboard_time": 1734871819,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486555,
       "num": 349872,
       "word": "苏醒大儿子正脸照",
@@ -635,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 400462,
+      "num": 400462,
+      "word": "23岁的考场和18岁是不同的",
+      "onboard_time": 1734868939,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 397826,
       "num": 456556,
       "word": "韩国两派爆发大规模示威",
@@ -795,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330593,
+      "num": 291127,
+      "word": "蒋欣最喜欢甄嬛传的滴血认亲",
+      "onboard_time": 1734867439,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 322877,
       "num": 322877,
       "word": "晋江",
@@ -825,14 +857,6 @@
       "onboard_time": 1734834377,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308214,
-      "num": 291127,
-      "word": "蒋欣最喜欢甄嬛传的滴血认亲",
-      "onboard_time": 1734867439,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 307871,
@@ -881,6 +905,14 @@
       "onboard_time": 1734828618,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289011,
+      "num": 289011,
+      "word": "李盈莹朱婷隔网对轰",
+      "onboard_time": 1734870259,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 284111,
@@ -955,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268018,
+      "num": 291169,
+      "word": "国色芳华",
+      "onboard_time": 1734870858,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264631,
       "num": 243834,
       "word": "演员请就位第三季阵容",
@@ -1003,6 +1043,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 254023,
+      "num": 295577,
+      "word": "直播间榜一大哥1周骗走女主播7.4万",
+      "onboard_time": 1734869959,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253134,
       "num": 253134,
       "word": "梁洁跳了spicyhoney",
@@ -1033,22 +1081,6 @@
       "onboard_time": 1734785839,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246635,
-      "num": 190616,
-      "word": "徐艺洋老公 发疯文学",
-      "onboard_time": 1734871638,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 246363,
-      "num": 246363,
-      "word": "23岁的考场和18岁是不同的",
-      "onboard_time": 1734868939,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 244394,
@@ -1107,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229413,
+      "num": 288215,
+      "word": "美军窃取中国先进材料商业机密",
+      "onboard_time": 1734868458,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226971,
       "num": 226971,
       "word": "昭昭墨墨渡药吻",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1734851330,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220960,
+      "num": 199724,
+      "word": "范丞丞 我现在急需要鼓励啊",
+      "onboard_time": 1734871339,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 219858,
@@ -1203,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209495,
-      "num": 291169,
-      "word": "国色芳华",
-      "onboard_time": 1734870858,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208944,
       "num": 208944,
       "word": "金晨王安宇跳TroubleMaker",
@@ -1251,12 +1291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201558,
-      "num": 189756,
-      "word": "蒋欣41岁的状态",
-      "onboard_time": 1734871819,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 201117,
+      "num": 201117,
+      "word": "世俱杯",
+      "onboard_time": 1734872058,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 201030,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1734845178,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199545,
+      "num": 199545,
+      "word": "孟子义谢谢你们因为窦昭喜欢我",
+      "onboard_time": 1734873140,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 199435,
@@ -1380,7 +1428,7 @@
     },
     {
       "raw_hot": 191603,
-      "num": 189159,
+      "num": 199678,
       "word": "于适决赛全场最高分",
       "onboard_time": 1734871038,
       "rank": 41,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1734843318,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 190407,
+      "num": 190407,
+      "word": "四大平台大剧对打",
+      "onboard_time": 1734869179,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 189077,
@@ -1459,22 +1515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184771,
-      "num": 184771,
-      "word": "范丞丞 我现在急需要鼓励啊",
-      "onboard_time": 1734871339,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 181538,
-      "num": 288215,
-      "word": "美军窃取中国先进材料商业机密",
-      "onboard_time": 1734868458,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "猎罪图鉴2",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1734851657,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180615,
-      "num": 180615,
-      "word": "四大平台大剧对打",
-      "onboard_time": 1734869179,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 179717,
@@ -1539,6 +1571,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 176658,
+      "num": 176658,
+      "word": "在山东风筝像战机一样列队飞行",
+      "onboard_time": 1734871280,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176652,
       "num": 456114,
       "word": "贺岁档电影票房破20亿",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1734868278,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174581,
+      "num": 174581,
+      "word": "朱婷世俱杯夺冠",
+      "onboard_time": 1734873740,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 173544,
@@ -1763,20 +1811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157395,
+      "num": 130864,
+      "word": "潘宏训狗",
+      "onboard_time": 1734873259,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157269,
       "num": 157269,
       "word": "小狗耳朵都放下来了你倒是摸啊",
       "onboard_time": 1734848958,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156893,
-      "num": 191050,
-      "word": "李盈莹朱婷隔网对轰",
-      "onboard_time": 1734870259,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 156484,
@@ -1819,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153285,
+      "num": 128661,
+      "word": "程潇回应近期妆造争议",
+      "onboard_time": 1734873259,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 152767,
       "num": 152767,
       "word": "鱿鱼游戏2",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1734866058,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152272,
-      "num": 247446,
-      "word": "直播间榜一大哥1周骗走女主播7.4万",
-      "onboard_time": 1734869959,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152096,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1734863238,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141650,
+      "num": 291801,
+      "word": "边工作边考研的人是怎么撑下来的",
+      "onboard_time": 1734870499,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 140389,
@@ -2315,6 +2371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114690,
+      "num": 157608,
+      "word": "一天连吃三顿辣56岁男子急性肾损伤",
+      "onboard_time": 1734870019,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114485,
       "num": 106969,
       "word": "巴萨1比2马竞",
@@ -2587,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98277,
+      "num": 98277,
+      "word": "被4000年前的母爱感动了",
+      "onboard_time": 1734872480,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98114,
       "num": 98114,
       "word": "多方回应护士上门被打成脑震荡",
@@ -2633,14 +2705,6 @@
       "onboard_time": 1734871700,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94757,
-      "num": 157608,
-      "word": "一天连吃三顿辣56岁男子急性肾损伤",
-      "onboard_time": 1734870019,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94716,
@@ -2761,14 +2825,6 @@
       "onboard_time": 1734859037,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 85710,
-      "num": 148247,
-      "word": "在山东风筝像战机一样列队飞行",
-      "onboard_time": 1734871280,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83735,
@@ -2929,6 +2985,14 @@
       "onboard_time": 1734856340,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66544,
+      "num": 201059,
+      "word": "晋江两男子凌晨到寺庙偷金灰被刑拘",
+      "onboard_time": 1734872538,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65666,
@@ -3137,14 +3201,6 @@
       "onboard_time": 1734801194,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 47043,
-      "num": 291801,
-      "word": "边工作边考研的人是怎么撑下来的",
-      "onboard_time": 1734870499,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 45807,

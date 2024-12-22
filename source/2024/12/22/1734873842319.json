@@ -1,0 +1,410 @@
+{
+  "runTime": 1734873842319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361532,
+        "num": 1361532,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1054738,
+        "num": 1054738,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 1,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 86862,
+        "num": 663609,
+        "word": "2分钟浓缩版2024",
+        "onboard_time": 1734859699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1316937,
+        "num": 580160,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 400462,
+        "num": 400462,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1734868939,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 392467,
+        "num": 392467,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813359,
+        "num": 374665,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681312,
+        "num": 359663,
+        "word": "向佐 马面裙",
+        "onboard_time": 1734866898,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 297461,
+        "num": 297461,
+        "word": "长沙下雪",
+        "onboard_time": 1734864378,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254023,
+        "num": 295577,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500192,
+        "num": 294852,
+        "word": "蒋欣41岁的状态",
+        "onboard_time": 1734871819,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439632,
+        "num": 292199,
+        "word": "孟子义李昀锐 有本事三搭",
+        "onboard_time": 1734867259,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354372,
+        "num": 290335,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289011,
+        "num": 289011,
+        "word": "李盈莹朱婷隔网对轰",
+        "onboard_time": 1734870259,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275859,
+        "num": 275859,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330593,
+        "num": 274296,
+        "word": "蒋欣最喜欢甄嬛传的滴血认亲",
+        "onboard_time": 1734867439,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268018,
+        "num": 268018,
+        "word": "国色芳华",
+        "onboard_time": 1734870858,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229413,
+        "num": 229413,
+        "word": "美军窃取中国先进材料商业机密",
+        "onboard_time": 1734868458,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201117,
+        "num": 201117,
+        "word": "世俱杯",
+        "onboard_time": 1734872058,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66544,
+        "num": 201059,
+        "word": "晋江两男子凌晨到寺庙偷金灰被刑拘",
+        "onboard_time": 1734872538,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254230,
+        "num": 200859,
+        "word": "王一博冰攀",
+        "onboard_time": 1734870558,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473698,
+        "num": 200715,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 461306,
+        "num": 200554,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333514,
+        "num": 200466,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12020,
+        "num": 200247,
+        "word": "钟意大司命一打五",
+        "onboard_time": 1734870858,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 321304,
+        "num": 200047,
+        "word": "猎罪图鉴2好炸裂的家庭关系",
+        "onboard_time": 1734866359,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245183,
+        "num": 199959,
+        "word": "李昀锐直播",
+        "onboard_time": 1734868159,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220960,
+        "num": 199724,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173039,
+        "num": 199678,
+        "word": "于适决赛全场最高分",
+        "onboard_time": 1734871038,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199545,
+        "num": 199545,
+        "word": "孟子义谢谢你们因为窦昭喜欢我",
+        "onboard_time": 1734873140,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190407,
+        "num": 190407,
+        "word": "四大平台大剧对打",
+        "onboard_time": 1734869179,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176658,
+        "num": 176658,
+        "word": "在山东风筝像战机一样列队飞行",
+        "onboard_time": 1734871280,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "朱婷世俱杯夺冠",
+        "onboard_time": 1734873740,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173642,
+        "num": 173642,
+        "word": "宋祖儿 演员请就位3",
+        "onboard_time": 1734861858,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168817,
+        "num": 168817,
+        "word": "上海地铁11号线预计21时恢复运营",
+        "onboard_time": 1734865339,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 168188,
+        "num": 168188,
+        "word": "徐艺洋红裙",
+        "onboard_time": 1734865578,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 159546,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158632,
+        "num": 158632,
+        "word": "周芯竹回应陈近南发歌diss周密",
+        "onboard_time": 1734869179,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141650,
+        "num": 141650,
+        "word": "边工作边考研的人是怎么撑下来的",
+        "onboard_time": 1734870499,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131363,
+        "num": 131363,
+        "word": "腿姐长文告别25考研",
+        "onboard_time": 1734864079,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157395,
+        "num": 130864,
+        "word": "潘宏训狗",
+        "onboard_time": 1734873259,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155248,
+        "num": 130267,
+        "word": "林一spicyhoney手势舞版",
+        "onboard_time": 1734870499,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153285,
+        "num": 128661,
+        "word": "程潇回应近期妆造争议",
+        "onboard_time": 1734873259,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142077,
+        "num": 128347,
+        "word": "田作之赫",
+        "onboard_time": 1734868458,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138260,
+        "num": 127530,
+        "word": "任嘉伦状态",
+        "onboard_time": 1734867139,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126730,
+        "num": 126730,
+        "word": "银行通报女子实名举报前公公",
+        "onboard_time": 1734863838,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 114690,
+        "num": 114690,
+        "word": "一天连吃三顿辣56岁男子急性肾损伤",
+        "onboard_time": 1734870019,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105172,
+        "num": 105172,
+        "word": "应急管理部派工作组赴上海",
+        "onboard_time": 1734857358,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98277,
+        "num": 98277,
+        "word": "被4000年前的母爱感动了",
+        "onboard_time": 1734872480,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96056,
+        "num": 96056,
+        "word": "林高远欧冠联赛首战",
+        "onboard_time": 1734871578,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代一国两制实践承担着新的重要使命#"
+    }
+  }
+}
