@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734909721341,
+  "endTime": 1734910539871,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1355,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220908,
+      "num": 220908,
+      "word": "老人花2万买所谓保健床垫后再不愿去医院",
+      "onboard_time": 1734909315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219858,
       "num": 475220,
       "word": "上海地铁11号线预计21时恢复运营",
@@ -1459,6 +1467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204457,
+      "num": 204457,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204121,
       "num": 204121,
       "word": "王心凌陈楚生合唱黄昏晓",
@@ -1531,6 +1547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198979,
+      "num": 198979,
+      "word": "长沙真的下雪了",
+      "onboard_time": 1734906793,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198617,
       "num": 265131,
       "word": "时代少年团为马嘉祺音乐剧打call",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1734868939,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196853,
+      "num": 196853,
+      "word": "尔滨宠客更不能让自家人寒心",
+      "onboard_time": 1734905592,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196614,
@@ -1851,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171665,
-      "num": 171665,
-      "word": "尔滨宠客更不能让自家人寒心",
-      "onboard_time": 1734905592,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171259,
       "num": 170450,
       "word": "光与夜之恋活动预告",
@@ -1947,6 +1971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165698,
+      "num": 170749,
+      "word": "向佐 我一踢腿就会走光",
+      "onboard_time": 1734883697,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 165487,
       "num": 165487,
       "word": "荷兰皇家航空客机因猪太臭紧急降落",
@@ -2017,14 +2049,6 @@
       "onboard_time": 1734834497,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 158569,
-      "num": 158569,
-      "word": "向佐 我一踢腿就会走光",
-      "onboard_time": 1734883697,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158409,
@@ -2251,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142310,
-      "num": 142310,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141650,
       "num": 291801,
       "word": "边工作边考研的人是怎么撑下来的",
@@ -2289,14 +2305,6 @@
       "onboard_time": 1734845479,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138021,
-      "num": 138021,
-      "word": "长沙真的下雪了",
-      "onboard_time": 1734906793,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137791,
@@ -2419,6 +2427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130860,
+      "num": 130860,
+      "word": "李昀锐大拇指",
+      "onboard_time": 1734910154,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130677,
       "num": 105320,
       "word": "檀健次沈翊连瞳孔都在飙戏",
@@ -2488,6 +2504,14 @@
       "word": "再见爱人 姐姐妹妹站起来",
       "onboard_time": 1734795499,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127422,
+      "num": 81224,
+      "word": "李行亮写歌控诉麦琳",
+      "onboard_time": 1734910455,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -3283,6 +3307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78938,
+      "num": 78938,
+      "word": "年度报告",
+      "onboard_time": 1734910036,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77920,
       "num": 77920,
       "word": "孙千演技",
@@ -3483,6 +3515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61927,
+      "num": 61927,
+      "word": "李现在虎跳峡举国旗",
+      "onboard_time": 1734910455,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -3547,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55485,
+      "num": 55485,
+      "word": "特朗普提名火箭队老板为美国驻意大使",
+      "onboard_time": 1734898871,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55350,
       "num": 55350,
       "word": "故宫再现冬至限定奇观",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1734836656,
       "rank": 14,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 54713,
+      "num": 54713,
+      "word": "热刺3比6利物浦",
+      "onboard_time": 1734910036,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 53586,
@@ -3611,6 +3667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50203,
+      "num": 50203,
+      "word": "李斌回应萤火虫外观设计",
+      "onboard_time": 1734910335,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49963,
       "num": 49963,
       "word": "随手拍的一张照片能泄露多少信息",
@@ -3633,6 +3697,22 @@
       "onboard_time": 1734862038,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 48607,
+      "num": 48607,
+      "word": "张兰否认向太节目上内涵她",
+      "onboard_time": 1734890773,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47986,
+      "num": 47986,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 47963,
@@ -3675,12 +3755,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 46488,
-      "num": 46488,
-      "word": "特朗普提名火箭队老板为美国驻意大使",
-      "onboard_time": 1734898871,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 46941,
+      "num": 46941,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 45807,
@@ -3691,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45748,
+      "num": 45748,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45623,
       "num": 193308,
       "word": "脱口秀演员入驻猫眼失败被指不知名",
@@ -3699,12 +3787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44484,
-      "num": 44484,
-      "word": "张兰否认向太节目上内涵她",
-      "onboard_time": 1734890773,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 45481,
+      "num": 65345,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43688,
@@ -3713,6 +3801,14 @@
       "onboard_time": 1734800895,
       "rank": 47,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 43225,
+      "num": 43225,
+      "word": "车辆跟踪竟成黑产业链",
+      "onboard_time": 1734893651,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43029,
@@ -3747,36 +3843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42353,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42230,
       "num": 42230,
       "word": "古人用气死蚁晒腊肉",
       "onboard_time": 1734887414,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 42063,
-      "num": 42063,
-      "word": "72岁爷爷给猴子当了29年贴身保镖",
-      "onboard_time": 1734896171,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 41808,
-      "num": 41808,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 41790,
@@ -3795,12 +3867,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 41036,
-      "num": 41036,
-      "word": "柳岩谈做子宫肌瘤手术",
-      "onboard_time": 1734901931,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 41249,
+      "num": 41249,
+      "word": "QQ音乐年度听歌报告",
+      "onboard_time": 1734910217,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 40962,
@@ -3825,6 +3897,14 @@
       "onboard_time": 1734880400,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 39853,
+      "num": 39853,
+      "word": "一人一句2025心愿",
+      "onboard_time": 1734906972,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 38936,
@@ -3928,22 +4008,6 @@
       "word": "云南瑞丽1人氧化碳中毒死亡",
       "onboard_time": 1734877641,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33515,
-      "num": 39177,
-      "word": "一人一句2025心愿",
-      "onboard_time": 1734906972,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 33255,
-      "num": 39160,
-      "word": "车辆跟踪竟成黑产业链",
-      "onboard_time": 1734893651,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4051,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28858,
+      "num": 79068,
+      "word": "朱婷被全队抛起庆祝",
+      "onboard_time": 1734910396,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28733,
       "num": 31995,
       "word": "用AI打开冬至",
@@ -4089,14 +4161,6 @@
       "onboard_time": 1734892152,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27200,
-      "num": 139637,
-      "word": "老人花2万买所谓保健床垫后再不愿去医院",
-      "onboard_time": 1734909315,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27174,
@@ -4281,6 +4345,14 @@
       "onboard_time": 1734895091,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12484,
+      "num": 60766,
+      "word": "热情的长沙人把雪吓跑了",
+      "onboard_time": 1734910516,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12228,
