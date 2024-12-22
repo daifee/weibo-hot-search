@@ -1,0 +1,410 @@
+{
+  "runTime": 1734856759119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1377924,
+        "num": 1377924,
+        "word": "湖南卫视声明",
+        "onboard_time": 1734851179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 696366,
+        "num": 696366,
+        "word": "黑龙江一企业禁止员工去冰雪大世界",
+        "onboard_time": 1734854418,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18346,
+        "num": 629801,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1278731,
+        "num": 621433,
+        "word": "考研高考化",
+        "onboard_time": 1734852017,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 566480,
+        "num": 566480,
+        "word": "网友评杨幂朋友圈变迁",
+        "onboard_time": 1734849618,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1126220,
+        "num": 560341,
+        "word": "南昌通报李某雪已被送诊",
+        "onboard_time": 1734843198,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 537010,
+        "num": 537010,
+        "word": "老人取走自己卡内200多万一家三口被抓",
+        "onboard_time": 1734855018,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523627,
+        "num": 523627,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460442,
+        "num": 460442,
+        "word": "冬至男女主分手八年还用情头",
+        "onboard_time": 1734855258,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37219,
+        "num": 451357,
+        "word": "冰雪大世界万人蹦迪场面回归",
+        "onboard_time": 1734856340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685861,
+        "num": 448710,
+        "word": "优酷分享知否台词",
+        "onboard_time": 1734851657,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443070,
+        "num": 443070,
+        "word": "美巡洋舰误击美军战机",
+        "onboard_time": 1734849317,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416653,
+        "num": 416653,
+        "word": "上海地铁",
+        "onboard_time": 1734855438,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380470,
+        "num": 380470,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 345081,
+        "num": 345081,
+        "word": "干噎酸奶",
+        "onboard_time": 1734849979,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 332587,
+        "num": 332587,
+        "word": "五大预售票房顶流",
+        "onboard_time": 1734851597,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56325,
+        "num": 274349,
+        "word": "硬汉也得被孙千钓成翘嘴",
+        "onboard_time": 1734855258,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25727,
+        "num": 266740,
+        "word": "潮头上的中国汽车",
+        "onboard_time": 1734855319,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266725,
+        "num": 266725,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258289,
+        "num": 258289,
+        "word": "伊拉克老王曾被甩面声吓到桌底",
+        "onboard_time": 1734852017,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636015,
+        "num": 253158,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226477,
+        "num": 226477,
+        "word": "梁洁跳了spicyhoney",
+        "onboard_time": 1734853637,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223802,
+        "num": 223802,
+        "word": "李昀锐说孟子义又娇又可爱",
+        "onboard_time": 1734856157,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221554,
+        "num": 221554,
+        "word": "央视曝老年养生馆骗局",
+        "onboard_time": 1734851330,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 66758,
+        "num": 193046,
+        "word": "库里三分的神",
+        "onboard_time": 1734856340,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172364,
+        "num": 172364,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166820,
+        "num": 166820,
+        "word": "上海地铁故障或影响周一出行",
+        "onboard_time": 1734851539,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163069,
+        "num": 163069,
+        "word": "台湾小伙第一次来尔滨打了3天雪仗",
+        "onboard_time": 1734854119,
+        "rank": 27,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 111703,
+        "num": 161954,
+        "word": "马克龙被灾民骂到当场发飙",
+        "onboard_time": 1734855438,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32432,
+        "num": 161789,
+        "word": "拜登签署应急拨款法案防美政府停摆",
+        "onboard_time": 1734856398,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91377,
+        "num": 161752,
+        "word": "搜狐时尚盛典红毯",
+        "onboard_time": 1734855438,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161739,
+        "num": 161739,
+        "word": "考研结束",
+        "onboard_time": 1734856219,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161601,
+        "num": 161601,
+        "word": "苏醒大儿子正脸照",
+        "onboard_time": 1734846139,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158238,
+        "num": 158238,
+        "word": "全红婵夺金当地长出一个奥运村",
+        "onboard_time": 1734848478,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149978,
+        "num": 149978,
+        "word": "发现i人其实不是不喜欢说话",
+        "onboard_time": 1734848958,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145176,
+        "num": 145176,
+        "word": "柯南M7和新海诚的纯爱联动",
+        "onboard_time": 1734856219,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 143667,
+        "num": 143667,
+        "word": "我是刑警现实原型崔道植有多厉害",
+        "onboard_time": 1734850758,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129585,
+        "num": 142155,
+        "word": "这是冬至不是开春",
+        "onboard_time": 1734855319,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142039,
+        "num": 142039,
+        "word": "鱿鱼游戏2宣发",
+        "onboard_time": 1734854778,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138066,
+        "num": 138066,
+        "word": "王心凌妈妈连夜来看谭维维",
+        "onboard_time": 1734853939,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132741,
+        "num": 136500,
+        "word": "重庆理工通报硕士失联",
+        "onboard_time": 1734849138,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 136081,
+        "num": 136081,
+        "word": "00后满脸文身找工作处处碰壁",
+        "onboard_time": 1734853158,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133250,
+        "num": 133250,
+        "word": "许嵩 我希望你们快乐不想你们辛苦",
+        "onboard_time": 1734855977,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132851,
+        "num": 132851,
+        "word": "4000年前地震母亲用身体护住孩子",
+        "onboard_time": 1734856577,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129221,
+        "num": 129221,
+        "word": "邓亚萍寄语孙颖莎",
+        "onboard_time": 1734852518,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127704,
+        "num": 127704,
+        "word": "商战",
+        "onboard_time": 1734853878,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120279,
+        "num": 120279,
+        "word": "人可以淋雨 贾冰的菜值得打伞守护",
+        "onboard_time": 1734856577,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117732,
+        "num": 117732,
+        "word": "殷世航傲娇美要结婚了",
+        "onboard_time": 1734846018,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 111180,
+        "num": 111180,
+        "word": "东北米线一吃一个不吱声",
+        "onboard_time": 1734848958,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110762,
+        "num": 110762,
+        "word": "巴勒斯坦众人抢饭被挤哭",
+        "onboard_time": 1734849437,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
+    }
+  }
+}
