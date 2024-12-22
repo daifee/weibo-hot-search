@@ -1,0 +1,410 @@
+{
+  "runTime": 1734841552701,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3825889,
+        "num": 3825889,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 0,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1801042,
+        "num": 1801042,
+        "word": "数二 简单",
+        "onboard_time": 1734839179,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25328,
+        "num": 1569029,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1557774,
+        "num": 1557774,
+        "word": "32岁飞行员失联当天升机长失败",
+        "onboard_time": 1734837616,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1145585,
+        "num": 1145585,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704220,
+        "num": 704220,
+        "word": "孟子义参加演综老板觉得她疯了",
+        "onboard_time": 1734840079,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 679597,
+        "num": 679597,
+        "word": "数三 感觉简单但是不会",
+        "onboard_time": 1734840199,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 640667,
+        "num": 640667,
+        "word": "法硕",
+        "onboard_time": 1734838338,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251910,
+        "num": 638133,
+        "word": "上海地铁11号线抢修",
+        "onboard_time": 1734839899,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636043,
+        "num": 636043,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1184907,
+        "num": 628116,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 560359,
+        "num": 560359,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475133,
+        "num": 475133,
+        "word": "外部塔吊施工侵入上海地铁11号线",
+        "onboard_time": 1734834438,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461513,
+        "num": 461513,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438612,
+        "num": 438612,
+        "word": "西综",
+        "onboard_time": 1734838277,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 398447,
+        "num": 438100,
+        "word": "白月梵星",
+        "onboard_time": 1734835338,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275523,
+        "num": 434992,
+        "word": "李雪琴说650永远三个人",
+        "onboard_time": 1734836357,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235128,
+        "num": 432737,
+        "word": "李秀满公司在成都招人",
+        "onboard_time": 1734832938,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47460,
+        "num": 431325,
+        "word": "盘点2024中国体育热词",
+        "onboard_time": 1734840678,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30703,
+        "num": 427450,
+        "word": "汽车娱乐进入5D时代",
+        "onboard_time": 1734840258,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 427008,
+        "num": 427008,
+        "word": "396经济类联考",
+        "onboard_time": 1734839239,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 400037,
+        "num": 400037,
+        "word": "考研数学一才是最猛的1",
+        "onboard_time": 1734840319,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380501,
+        "num": 380501,
+        "word": "333教育学综合",
+        "onboard_time": 1734838879,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 366194,
+        "num": 366194,
+        "word": "考研数学答案",
+        "onboard_time": 1734839417,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336715,
+        "num": 336715,
+        "word": "上海地铁通报塔吊施工侵入11号线",
+        "onboard_time": 1734836897,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 297971,
+        "num": 297971,
+        "word": "韩国两派爆发大规模示威",
+        "onboard_time": 1734839359,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226351,
+        "num": 294023,
+        "word": "难哄",
+        "onboard_time": 1734834077,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209782,
+        "num": 293289,
+        "word": "陈丽君首届电影中国最佳男主角",
+        "onboard_time": 1734824835,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292600,
+        "num": 292600,
+        "word": "晋江",
+        "onboard_time": 1734836778,
+        "rank": 28,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 72925,
+        "num": 281549,
+        "word": "清明上河图密码救女友连砍4人大案",
+        "onboard_time": 1734841339,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 849776,
+        "num": 281526,
+        "word": "数一 大题难",
+        "onboard_time": 1734841157,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281198,
+        "num": 281198,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268565,
+        "num": 268565,
+        "word": "上海地铁受损列车内部画面曝光",
+        "onboard_time": 1734840199,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232578,
+        "num": 232578,
+        "word": "分手2年了前女友还在刷我的卡",
+        "onboard_time": 1734823693,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186300,
+        "num": 186300,
+        "word": "迪丽热巴陈飞宇擦肩而过路透",
+        "onboard_time": 1734840919,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184136,
+        "num": 184136,
+        "word": "孟子义觉得九重紫播太快了",
+        "onboard_time": 1734823753,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173524,
+        "num": 173524,
+        "word": "谷爱凌刷新历史纪录",
+        "onboard_time": 1734835578,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173147,
+        "num": 173147,
+        "word": "樊振东王楚钦再迎对决",
+        "onboard_time": 1734834377,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170359,
+        "num": 170359,
+        "word": "男子网贷1000元3天内需还2000元",
+        "onboard_time": 1734823693,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170350,
+        "num": 170350,
+        "word": "胖东来部分商品转线上销售",
+        "onboard_time": 1734836477,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167888,
+        "num": 167888,
+        "word": "外交部回应美国对台军援军售",
+        "onboard_time": 1734837257,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153044,
+        "num": 153044,
+        "word": "被2024的这些瞬间硬控了",
+        "onboard_time": 1734827956,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 147804,
+        "num": 147804,
+        "word": "广州南站通报高铁夹到乘客拖行事件",
+        "onboard_time": 1734823753,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "中方就美对台军援军售提出严正交涉",
+        "onboard_time": 1734838158,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146622,
+        "num": 146622,
+        "word": "还有不到10天就是2025年",
+        "onboard_time": 1734830537,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137448,
+        "num": 137448,
+        "word": "恋与深空直播预告",
+        "onboard_time": 1734841398,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133770,
+        "num": 133770,
+        "word": "肖战冬至晒了三个饺子",
+        "onboard_time": 1734823815,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124636,
+        "num": 124636,
+        "word": "白月梵星天道暂时不允",
+        "onboard_time": 1734839179,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124527,
+        "num": 124527,
+        "word": "猎罪2中式微恐吓镜头",
+        "onboard_time": 1734832876,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "护士接通知上门输液却被打成脑震荡",
+        "onboard_time": 1734827537,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
+    }
+  }
+}
