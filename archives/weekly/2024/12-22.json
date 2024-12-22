@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734895002713,
+  "endTime": 1734896128186,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -4083,6 +4083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19720,
+      "num": 26317,
+      "word": "蒋欣李光洁热聊",
+      "onboard_time": 1734892932,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 18164,
       "num": 22665,
       "word": "劳尔卡斯特罗参加抗议美国制裁游行",
@@ -4123,6 +4131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16120,
+      "num": 25697,
+      "word": "车辆跟踪竟成黑产业链",
+      "onboard_time": 1734893651,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15982,
       "num": 21922,
       "word": "嗜战成瘾的美国成全球安全最大威胁者",
@@ -4131,27 +4147,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14496,
+      "num": 16824,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13369,
       "num": 34546,
       "word": "海南省旅游委通报非法经营将顶格处罚",
       "onboard_time": 1734815232,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13290,
-      "num": 26317,
-      "word": "蒋欣李光洁热聊",
-      "onboard_time": 1734892932,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 12476,
-      "num": 25697,
-      "word": "车辆跟踪竟成黑产业链",
-      "onboard_time": 1734893651,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4177,6 +4185,14 @@
       "onboard_time": 1734822973,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9565,
+      "num": 25349,
+      "word": "赵露思请粉丝吃冰激凌",
+      "onboard_time": 1734895091,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 8658,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734896128186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124045,
+        "num": 124045,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 83759,
+        "num": 83759,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18622,
+        "num": 75909,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75114,
+        "num": 75114,
+        "word": "向佐 我一踢腿就会走光",
+        "onboard_time": 1734883697,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40181,
+        "num": 40181,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 4,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 34868,
+        "num": 34868,
+        "word": "普京回应喀山遭无人机袭击事件",
+        "onboard_time": 1734882378,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60247,
+        "num": 34433,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 43750,
+        "num": 34286,
+        "word": "九重紫第30集封神",
+        "onboard_time": 1734878479,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32007,
+        "num": 32007,
+        "word": "熊孩子买号玩游戏充值1万无法退费",
+        "onboard_time": 1734885856,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30359,
+        "num": 30359,
+        "word": "冰箱贴已经美到nextlevel",
+        "onboard_time": 1734874699,
+        "rank": 9,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 58959,
+        "num": 30355,
+        "word": "减重120斤男子脸如戴人皮面具",
+        "onboard_time": 1734885316,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45167,
+        "num": 30235,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41377,
+        "num": 30182,
+        "word": "孟子义李昀锐 有本事三搭",
+        "onboard_time": 1734867259,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38809,
+        "num": 30121,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40024,
+        "num": 30025,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30021,
+        "num": 30021,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28141,
+        "num": 28141,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25425,
+        "num": 25425,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19642,
+        "num": 25397,
+        "word": "停个车数据就泄露了",
+        "onboard_time": 1734879440,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 9565,
+        "num": 25349,
+        "word": "赵露思请粉丝吃冰激凌",
+        "onboard_time": 1734895091,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36423,
+        "num": 25276,
+        "word": "蒋欣今年第一次完整看甄嬛传",
+        "onboard_time": 1734887355,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16120,
+        "num": 25262,
+        "word": "车辆跟踪竟成黑产业链",
+        "onboard_time": 1734893651,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31982,
+        "num": 25223,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30887,
+        "num": 25148,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16837,
+        "num": 25087,
+        "word": "古人用气死蚁晒腊肉",
+        "onboard_time": 1734887414,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 30851,
+        "num": 25041,
+        "word": "周芯竹说和周密曾有过快乐的时光",
+        "onboard_time": 1734877279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28625,
+        "num": 24977,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27187,
+        "num": 24966,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26544,
+        "num": 24902,
+        "word": "九重紫",
+        "onboard_time": 1734862278,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24869,
+        "num": 24869,
+        "word": "韦雪说对秦奋是爱",
+        "onboard_time": 1734877160,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24833,
+        "num": 24833,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21445,
+        "num": 21445,
+        "word": "檀健次沈翊连瞳孔都在飙戏",
+        "onboard_time": 1734884416,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21050,
+        "num": 21050,
+        "word": "任嘉伦回应离开欢瑞",
+        "onboard_time": 1734881959,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20634,
+        "num": 20634,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19720,
+        "num": 19720,
+        "word": "蒋欣李光洁热聊",
+        "onboard_time": 1734892932,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19515,
+        "num": 19515,
+        "word": "考研查分空窗期",
+        "onboard_time": 1734886277,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19485,
+        "num": 19485,
+        "word": "回顾2024温暖瞬间",
+        "onboard_time": 1734881420,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19138,
+        "num": 19138,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18287,
+        "num": 18287,
+        "word": "张兰否认向太节目上内涵她",
+        "onboard_time": 1734890773,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17954,
+        "num": 17954,
+        "word": "宋莹买这么多金项链为什么一条没戴",
+        "onboard_time": 1734876560,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17088,
+        "num": 17088,
+        "word": "朱婷最终梦想是身披中国球衣站在场上",
+        "onboard_time": 1734885316,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16982,
+        "num": 16982,
+        "word": "新的一年愿你有爱愿你被爱",
+        "onboard_time": 1734888433,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16879,
+        "num": 16879,
+        "word": "梁洁 小女子不才",
+        "onboard_time": 1734875720,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15758,
+        "num": 16877,
+        "word": "胡塞武装说美英空袭也门首都萨那",
+        "onboard_time": 1734892152,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15387,
+        "num": 16861,
+        "word": "长沙下雪",
+        "onboard_time": 1734864378,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15293,
+        "num": 16851,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14989,
+        "num": 16837,
+        "word": "猎罪图鉴 好哭",
+        "onboard_time": 1734884778,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14496,
+        "num": 16824,
+        "word": "官方通报上海地铁11号线最新情况",
+        "onboard_time": 1734895572,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14308,
+        "num": 16808,
+        "word": "皇马vs塞维利亚",
+        "onboard_time": 1734885856,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11655,
+        "num": 16795,
+        "word": "想去尔滨的心情又达到顶峰",
+        "onboard_time": 1734888794,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}
