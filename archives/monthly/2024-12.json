@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734842394663,
+  "endTime": 1734844835092,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1395,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1621445,
+      "num": 1621445,
+      "word": "李蠕蠕上奇葩说后差点被电视台开除",
+      "onboard_time": 1734843498,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1620683,
       "num": 351832,
       "word": "女硕士被拐卖",
@@ -2721,6 +2729,14 @@
       "onboard_time": 1734335479,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1253685,
+      "num": 696364,
+      "word": "殷世航 退赛",
+      "onboard_time": 1734842897,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1252543,
@@ -9915,6 +9931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 576467,
+      "num": 576467,
+      "word": "张艺谋儿子动画处女作",
+      "onboard_time": 1734841638,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 575715,
       "num": 575715,
       "word": "网友在小学废弃信箱发现多封投诉信",
@@ -14963,14 +14987,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 411421,
-      "num": 411421,
-      "word": "张艺谋儿子动画处女作",
-      "onboard_time": 1734841638,
-      "rank": 23,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 411326,
       "num": 411326,
       "word": "日本人说731部队比纳粹更残忍",
@@ -15480,6 +15496,14 @@
       "word": "尹锡悦拒绝提前下台",
       "onboard_time": 1733966599,
       "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 397826,
+      "num": 456556,
+      "word": "韩国两派爆发大规模示威",
+      "onboard_time": 1734839359,
+      "rank": 25,
       "category": "国际时政"
     },
     {
@@ -16521,6 +16545,14 @@
       "onboard_time": 1733548457,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371510,
+      "num": 371510,
+      "word": "孟佳退出王牌新主播",
+      "onboard_time": 1734842418,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 371075,
@@ -18035,6 +18067,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339518,
+      "num": 339518,
+      "word": "夏以昼",
+      "onboard_time": 1734842118,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 339096,
+      "num": 339096,
+      "word": "离婚后给前妻转88万判返还男子33万",
+      "onboard_time": 1734843678,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339076,
       "num": 398611,
       "word": "金高银辛芷蕾同框",
@@ -18167,6 +18215,14 @@
       "num": 368319,
       "word": "猎罪图鉴2忘年恋变生死恋",
       "onboard_time": 1734773719,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 335629,
+      "num": 335629,
+      "word": "李昀锐林晏杀青",
+      "onboard_time": 1734842718,
       "rank": 21,
       "category": "剧集"
     },
@@ -18993,14 +19049,6 @@
       "onboard_time": 1734321859,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321461,
-      "num": 456556,
-      "word": "韩国两派爆发大规模示威",
-      "onboard_time": 1734839359,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 321298,
@@ -20747,6 +20795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 289167,
+      "num": 289167,
+      "word": "上海地铁11号线乘客发声",
+      "onboard_time": 1734842960,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289133,
       "num": 4023781,
       "word": "韩国总统深夜宣布紧急戒严时间线",
@@ -21793,6 +21849,14 @@
       "onboard_time": 1733575221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273103,
+      "num": 339299,
+      "word": "南昌通报李某雪已被送诊",
+      "onboard_time": 1734843198,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 273025,
@@ -27259,6 +27323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214064,
+      "num": 214064,
+      "word": "孙膑马超战令新皮肤",
+      "onboard_time": 1734842479,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214052,
       "num": 283247,
       "word": "国产老剧被AI爆改得像中毒了",
@@ -28113,6 +28185,14 @@
       "onboard_time": 1733044998,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208302,
+      "num": 208302,
+      "word": "湖南卫视 优酷三连扑",
+      "onboard_time": 1734844698,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208213,
@@ -30227,6 +30307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198437,
+      "num": 198437,
+      "word": "王俊凯2024年最开心的瞬间",
+      "onboard_time": 1734844578,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198419,
       "num": 342388,
       "word": "王曼昱混团赛后发文",
@@ -32219,14 +32307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191360,
-      "num": 191360,
-      "word": "夏以昼",
-      "onboard_time": 1734842118,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 191334,
       "num": 191334,
       "word": "九重紫好甜",
@@ -32441,6 +32521,14 @@
       "onboard_time": 1734838158,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190624,
+      "num": 190624,
+      "word": "南昌再通报网传李宜雪失联",
+      "onboard_time": 1734843318,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 190620,
@@ -36491,6 +36579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172682,
+      "num": 172682,
+      "word": "车润海 刑法的神",
+      "onboard_time": 1734843858,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172662,
       "num": 172662,
       "word": "数位LPL选手宣布休息",
@@ -38633,6 +38729,14 @@
       "onboard_time": 1733620038,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164602,
+      "num": 363780,
+      "word": "首尔爆发大规模示威",
+      "onboard_time": 1734841939,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164529,
@@ -43443,6 +43547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147323,
+      "num": 354046,
+      "word": "50元可查询任意一个人的隐私",
+      "onboard_time": 1734843916,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 147281,
       "num": 147281,
       "word": "张真源EP",
@@ -44377,14 +44489,6 @@
       "onboard_time": 1734179600,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143381,
-      "num": 363780,
-      "word": "首尔爆发大规模示威",
-      "onboard_time": 1734841939,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 143341,
@@ -47307,12 +47411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132718,
+      "num": 132718,
+      "word": "法基 简单",
+      "onboard_time": 1734844518,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132711,
       "num": 132711,
       "word": "Meiko复刻厂长名场面",
       "onboard_time": 1733222360,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132621,
+      "num": 132621,
+      "word": "教育学考了大学院与大学区制",
+      "onboard_time": 1734842479,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 132619,
@@ -49513,6 +49633,14 @@
       "onboard_time": 1733809279,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124216,
+      "num": 208334,
+      "word": "一线中产降级到县城月子中心坐月子",
+      "onboard_time": 1734844277,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124161,
@@ -52571,6 +52699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111546,
+      "num": 339099,
+      "word": "刘元",
+      "onboard_time": 1734842960,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111447,
       "num": 274652,
       "word": "国乒混团世界杯8连胜",
@@ -53337,6 +53473,14 @@
       "onboard_time": 1734346701,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107916,
+      "num": 210134,
+      "word": "黄景瑜这江成屹可太醒了",
+      "onboard_time": 1734844458,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 107825,
@@ -56607,6 +56751,14 @@
       "num": 223091,
       "word": "农村挖红薯大叔是6块金牌的武状元",
       "onboard_time": 1734231557,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 91188,
+      "num": 296440,
+      "word": "大头和大胖绝对是国乒搞笑担当",
+      "onboard_time": 1734844578,
       "rank": 24,
       "category": "体育"
     },
@@ -63611,6 +63763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54087,
+      "num": 158884,
+      "word": "哈尔滨冰雪大世界开园万人蹦迪",
+      "onboard_time": 1734844578,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 54076,
       "num": 1135584,
       "word": "国产大型储卸油平台成功出口",
@@ -65153,6 +65313,14 @@
       "onboard_time": 1733751140,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 47963,
+      "num": 339154,
+      "word": "一笑倾城否认打压清水小芙蓉",
+      "onboard_time": 1734843439,
+      "rank": 18,
+      "category": "网红"
     },
     {
       "raw_hot": 47952,
@@ -69619,6 +69787,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 33234,
+      "num": 371226,
+      "word": "超级冰滑梯排队场面",
+      "onboard_time": 1734844277,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33223,
       "num": 184459,
       "word": "BLG教练组年度最佳教练组",
@@ -69785,6 +69961,14 @@
       "onboard_time": 1733138784,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32748,
+      "num": 160549,
+      "word": "有仪式感的人多会买礼物",
+      "onboard_time": 1734844578,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 32689,
@@ -71563,6 +71747,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 27479,
+      "num": 1569029,
+      "word": "一带一路金枢纽",
+      "onboard_time": 1734837077,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27416,
       "num": 132790,
       "word": "近一半高血压患者不知道自己患病",
@@ -72225,14 +72417,6 @@
       "onboard_time": 1732979961,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 25328,
-      "num": 1569029,
-      "word": "一带一路金枢纽",
-      "onboard_time": 1734837077,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25327,
