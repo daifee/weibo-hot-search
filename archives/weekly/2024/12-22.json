@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734907051638,
+  "endTime": 1734909721341,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1851,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171665,
+      "num": 171665,
+      "word": "尔滨宠客更不能让自家人寒心",
+      "onboard_time": 1734905592,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171259,
       "num": 170450,
       "word": "光与夜之恋活动预告",
@@ -2243,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141650,
       "num": 291801,
       "word": "边工作边考研的人是怎么撑下来的",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1734845479,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138021,
+      "num": 138021,
+      "word": "长沙真的下雪了",
+      "onboard_time": 1734906793,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137791,
@@ -3459,14 +3483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64049,
-      "num": 64049,
-      "word": "尔滨宠客更不能让自家人寒心",
-      "onboard_time": 1734905592,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -3553,14 +3569,6 @@
       "onboard_time": 1734886277,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 52717,
-      "num": 52717,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52571,
@@ -3667,6 +3675,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 46488,
+      "num": 46488,
+      "word": "特朗普提名火箭队老板为美国驻意大使",
+      "onboard_time": 1734898871,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45807,
       "num": 291647,
       "word": "九重紫作者说拿到人生剧本也未必赢",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1734866538,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44484,
+      "num": 44484,
+      "word": "张兰否认向太节目上内涵她",
+      "onboard_time": 1734890773,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 43688,
@@ -3723,12 +3747,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42353,
+      "num": 65345,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42230,
       "num": 42230,
       "word": "古人用气死蚁晒腊肉",
       "onboard_time": 1734887414,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 42063,
+      "num": 42063,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 41808,
+      "num": 41808,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41790,
@@ -3745,6 +3793,22 @@
       "onboard_time": 1734823753,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 41036,
+      "num": 41036,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40962,
+      "num": 40962,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40550,
@@ -3811,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36071,
+      "num": 39186,
+      "word": "哈尔滨冰雪大世界开园",
+      "onboard_time": 1734900911,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35732,
       "num": 332338,
       "word": "走出考场那一刻感觉像做梦一样",
@@ -3823,14 +3895,6 @@
       "num": 610188,
       "word": "绩溪县长谈县政府门前开夜市",
       "onboard_time": 1734867139,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34555,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -3851,14 +3915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 34256,
-      "num": 34256,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34223,
       "num": 279128,
       "word": "2024中国健儿这些话鼓舞人心",
@@ -3872,6 +3928,22 @@
       "word": "云南瑞丽1人氧化碳中毒死亡",
       "onboard_time": 1734877641,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33515,
+      "num": 39177,
+      "word": "一人一句2025心愿",
+      "onboard_time": 1734906972,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 39160,
+      "word": "车辆跟踪竟成黑产业链",
+      "onboard_time": 1734893651,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3979,28 +4051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29039,
-      "num": 29039,
-      "word": "特朗普提名火箭队老板为美国驻意大使",
-      "onboard_time": 1734898871,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28733,
       "num": 31995,
       "word": "用AI打开冬至",
       "onboard_time": 1734805392,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28368,
-      "num": 28368,
-      "word": "哈尔滨冰雪大世界开园",
-      "onboard_time": 1734900911,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 28305,
@@ -4027,20 +4083,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27506,
-      "num": 27506,
-      "word": "张兰否认向太节目上内涵她",
-      "onboard_time": 1734890773,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 27501,
+      "num": 39114,
+      "word": "胡塞武装说美英空袭也门首都萨那",
+      "onboard_time": 1734892152,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 27216,
-      "num": 27216,
-      "word": "柳岩谈做子宫肌瘤手术",
-      "onboard_time": 1734901931,
-      "rank": 24,
-      "category": "作品衍生,时尚"
+      "raw_hot": 27200,
+      "num": 139637,
+      "word": "老人花2万买所谓保健床垫后再不愿去医院",
+      "onboard_time": 1734909315,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27174,
@@ -4067,12 +4123,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25817,
-      "num": 25817,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 25300,
+      "num": 39082,
+      "word": "王一博探索新境海外预告",
+      "onboard_time": 1734905410,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25258,
@@ -4091,14 +4147,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 23842,
-      "num": 23842,
-      "word": "胡塞武装说美英空袭也门首都萨那",
-      "onboard_time": 1734892152,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 23593,
       "num": 366503,
       "word": "一文梳理马航MH370事件",
@@ -4113,14 +4161,6 @@
       "onboard_time": 1734810251,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22777,
-      "num": 30963,
-      "word": "72岁爷爷给猴子当了29年贴身保镖",
-      "onboard_time": 1734896171,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 22612,
@@ -4179,14 +4219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19066,
-      "num": 25697,
-      "word": "车辆跟踪竟成黑产业链",
-      "onboard_time": 1734893651,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18164,
       "num": 22665,
       "word": "劳尔卡斯特罗参加抗议美国制裁游行",
@@ -4211,14 +4243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16416,
-      "num": 17692,
-      "word": "王一博探索新境海外预告",
-      "onboard_time": 1734905410,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 16161,
       "num": 113718,
       "word": "eSIM真正释放了iPad的生产力",
@@ -4235,14 +4259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15505,
-      "num": 34119,
-      "word": "长沙真的下雪了",
-      "onboard_time": 1734906793,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14413,
       "num": 14413,
       "word": "李沐宸谈掌管短剧赛道的神",
@@ -4257,14 +4273,6 @@
       "onboard_time": 1734815232,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12743,
-      "num": 34390,
-      "word": "一人一句2025心愿",
-      "onboard_time": 1734906972,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 12499,

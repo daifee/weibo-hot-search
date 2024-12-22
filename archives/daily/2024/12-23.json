@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734907051638,
+  "endTime": 1734909721341,
   "band_list": [
     {
       "raw_hot": 1114347,
@@ -155,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171910,
+      "num": 171910,
+      "word": "直播间榜一大哥1周骗走女主播7.4万",
+      "onboard_time": 1734869959,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171665,
+      "num": 171665,
+      "word": "尔滨宠客更不能让自家人寒心",
+      "onboard_time": 1734905592,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164419,
       "num": 164419,
       "word": "特朗普威胁巴拿马不听话就归还运河",
@@ -195,11 +211,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141313,
       "num": 108119,
       "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
       "onboard_time": 1734869298,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138021,
+      "num": 138021,
+      "word": "长沙真的下雪了",
+      "onboard_time": 1734906793,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -395,28 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66510,
-      "num": 66510,
-      "word": "直播间榜一大哥1周骗走女主播7.4万",
-      "onboard_time": 1734869959,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65811,
       "num": 65811,
       "word": "李沐宸红毯小白花",
       "onboard_time": 1734875600,
       "rank": 48,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 64049,
-      "num": 64049,
-      "word": "尔滨宠客更不能让自家人寒心",
-      "onboard_time": 1734905592,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63294,
@@ -435,14 +451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 52717,
-      "num": 52717,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49969,
       "num": 49969,
       "word": "孟子义谢谢你们因为窦昭喜欢我",
@@ -459,12 +467,68 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46488,
+      "num": 46488,
+      "word": "特朗普提名火箭队老板为美国驻意大使",
+      "onboard_time": 1734898871,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44484,
+      "num": 44484,
+      "word": "张兰否认向太节目上内涵她",
+      "onboard_time": 1734890773,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 42353,
+      "num": 65345,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42230,
       "num": 42230,
       "word": "古人用气死蚁晒腊肉",
       "onboard_time": 1734887414,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 42063,
+      "num": 42063,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 41808,
+      "num": 41808,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41036,
+      "num": 41036,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40962,
+      "num": 40962,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 38936,
@@ -475,20 +539,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34555,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 36071,
+      "num": 39186,
+      "word": "哈尔滨冰雪大世界开园",
+      "onboard_time": 1734900911,
+      "rank": 44,
+      "category": "旅游"
     },
     {
-      "raw_hot": 34256,
-      "num": 34256,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 33515,
+      "num": 39177,
+      "word": "一人一句2025心愿",
+      "onboard_time": 1734906972,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 39160,
+      "word": "车辆跟踪竟成黑产业链",
+      "onboard_time": 1734893651,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31725,
@@ -507,22 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29039,
-      "num": 29039,
-      "word": "特朗普提名火箭队老板为美国驻意大使",
-      "onboard_time": 1734898871,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 28368,
-      "num": 28368,
-      "word": "哈尔滨冰雪大世界开园",
-      "onboard_time": 1734900911,
-      "rank": 44,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 27544,
       "num": 34711,
       "word": "新的一年愿你有爱愿你被爱",
@@ -531,28 +587,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27506,
-      "num": 27506,
-      "word": "张兰否认向太节目上内涵她",
-      "onboard_time": 1734890773,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27216,
-      "num": 27216,
-      "word": "柳岩谈做子宫肌瘤手术",
-      "onboard_time": 1734901931,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 25817,
-      "num": 25817,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
+      "raw_hot": 27501,
+      "num": 39114,
+      "word": "胡塞武装说美英空袭也门首都萨那",
+      "onboard_time": 1734892152,
+      "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27200,
+      "num": 139637,
+      "word": "老人花2万买所谓保健床垫后再不愿去医院",
+      "onboard_time": 1734909315,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25300,
+      "num": 39082,
+      "word": "王一博探索新境海外预告",
+      "onboard_time": 1734905410,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24762,
@@ -561,22 +617,6 @@
       "onboard_time": 1734888616,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 23842,
-      "num": 23842,
-      "word": "胡塞武装说美英空袭也门首都萨那",
-      "onboard_time": 1734892152,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 22777,
-      "num": 30963,
-      "word": "72岁爷爷给猴子当了29年贴身保镖",
-      "onboard_time": 1734896171,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 22612,
@@ -611,44 +651,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 19066,
-      "num": 25697,
-      "word": "车辆跟踪竟成黑产业链",
-      "onboard_time": 1734893651,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16416,
-      "num": 17692,
-      "word": "王一博探索新境海外预告",
-      "onboard_time": 1734905410,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15505,
-      "num": 34119,
-      "word": "长沙真的下雪了",
-      "onboard_time": 1734906793,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14413,
       "num": 14413,
       "word": "李沐宸谈掌管短剧赛道的神",
       "onboard_time": 1734899899,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 12743,
-      "num": 34390,
-      "word": "一人一句2025心愿",
-      "onboard_time": 1734906972,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 12499,

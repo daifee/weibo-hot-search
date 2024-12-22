@@ -1,0 +1,410 @@
+{
+  "runTime": 1734909721341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 836223,
+        "num": 836223,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 311168,
+        "num": 311168,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26124,
+        "num": 223296,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195834,
+        "num": 195834,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 3,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 171910,
+        "num": 171910,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171665,
+        "num": 171665,
+        "word": "尔滨宠客更不能让自家人寒心",
+        "onboard_time": 1734905592,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159463,
+        "num": 159463,
+        "word": "任嘉伦回应离开欢瑞",
+        "onboard_time": 1734881959,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152865,
+        "num": 152865,
+        "word": "向佐 我一踢腿就会走光",
+        "onboard_time": 1734883697,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142310,
+        "num": 142310,
+        "word": "被抱养拒认亲女子否认得布病",
+        "onboard_time": 1734899230,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27200,
+        "num": 139637,
+        "word": "老人花2万买所谓保健床垫后再不愿去医院",
+        "onboard_time": 1734909315,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143831,
+        "num": 139465,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138021,
+        "num": 138021,
+        "word": "长沙真的下雪了",
+        "onboard_time": 1734906793,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126271,
+        "num": 126271,
+        "word": "停个车数据就泄露了",
+        "onboard_time": 1734879440,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121869,
+        "num": 121869,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108125,
+        "num": 108125,
+        "word": "周芯竹说和周密曾有过快乐的时光",
+        "onboard_time": 1734877279,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94140,
+        "num": 94140,
+        "word": "九重紫第30集封神",
+        "onboard_time": 1734878479,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85612,
+        "num": 85612,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 83429,
+        "num": 83429,
+        "word": "普京回应喀山遭无人机袭击事件",
+        "onboard_time": 1734882378,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76501,
+        "num": 76501,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63657,
+        "num": 63657,
+        "word": "熊孩子买号玩游戏充值1万无法退费",
+        "onboard_time": 1734885856,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128166,
+        "num": 63405,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112171,
+        "num": 63391,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73260,
+        "num": 63008,
+        "word": "檀健次沈翊连瞳孔都在飙戏",
+        "onboard_time": 1734884416,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62282,
+        "num": 62282,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59896,
+        "num": 59896,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54950,
+        "num": 54950,
+        "word": "韦雪说对秦奋是爱",
+        "onboard_time": 1734877160,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50087,
+        "num": 50087,
+        "word": "朱婷最终梦想是身披中国球衣站在场上",
+        "onboard_time": 1734885316,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49102,
+        "num": 49102,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47504,
+        "num": 47504,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46821,
+        "num": 46821,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46488,
+        "num": 46488,
+        "word": "特朗普提名火箭队老板为美国驻意大使",
+        "onboard_time": 1734898871,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44484,
+        "num": 44484,
+        "word": "张兰否认向太节目上内涵她",
+        "onboard_time": 1734890773,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43767,
+        "num": 43767,
+        "word": "梁洁 小女子不才",
+        "onboard_time": 1734875720,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42353,
+        "num": 42353,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42063,
+        "num": 42063,
+        "word": "72岁爷爷给猴子当了29年贴身保镖",
+        "onboard_time": 1734896171,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 41808,
+        "num": 41808,
+        "word": "中方对加拿大机构及人员采取反制措施",
+        "onboard_time": 1734897731,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 41036,
+        "word": "柳岩谈做子宫肌瘤手术",
+        "onboard_time": 1734901931,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40962,
+        "num": 40962,
+        "word": "官方通报上海地铁11号线最新情况",
+        "onboard_time": 1734895572,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39869,
+        "num": 39869,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39764,
+        "num": 39764,
+        "word": "宋莹买这么多金项链为什么一条没戴",
+        "onboard_time": 1734876560,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39197,
+        "num": 39197,
+        "word": "冰箱贴已经美到nextlevel",
+        "onboard_time": 1734874699,
+        "rank": 40,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 36071,
+        "num": 39186,
+        "word": "哈尔滨冰雪大世界开园",
+        "onboard_time": 1734900911,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 33515,
+        "num": 39177,
+        "word": "一人一句2025心愿",
+        "onboard_time": 1734906972,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 39160,
+        "word": "车辆跟踪竟成黑产业链",
+        "onboard_time": 1734893651,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31208,
+        "num": 39147,
+        "word": "古人用气死蚁晒腊肉",
+        "onboard_time": 1734887414,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 29955,
+        "num": 39139,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27501,
+        "num": 39114,
+        "word": "胡塞武装说美英空袭也门首都萨那",
+        "onboard_time": 1734892152,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27265,
+        "num": 39114,
+        "word": "考研查分空窗期",
+        "onboard_time": 1734886277,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25711,
+        "num": 39096,
+        "word": "蒋欣今年第一次完整看甄嬛传",
+        "onboard_time": 1734887355,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25300,
+        "num": 39082,
+        "word": "王一博探索新境海外预告",
+        "onboard_time": 1734905410,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}
