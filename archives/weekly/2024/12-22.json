@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734902377788,
+  "endTime": 1734903315994,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -3899,6 +3899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31913,
+      "num": 31913,
+      "word": "被抱养拒认亲女子否认得布病",
+      "onboard_time": 1734899230,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31839,
       "num": 190042,
       "word": "数一答案",
@@ -3921,6 +3929,14 @@
       "onboard_time": 1734857898,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31688,
+      "num": 31688,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31012,
@@ -3971,20 +3987,20 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 28097,
-      "num": 28097,
-      "word": "中方对加拿大机构及人员采取反制措施",
-      "onboard_time": 1734897731,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28064,
       "num": 39977,
       "word": "饺子能流传上千年是有道理的",
       "onboard_time": 1734811450,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 27840,
+      "num": 27840,
+      "word": "特朗普提名火箭队老板为美国驻意大使",
+      "onboard_time": 1734898871,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27544,
@@ -4067,14 +4083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22315,
-      "num": 26846,
-      "word": "特朗普提名火箭队老板为美国驻意大使",
-      "onboard_time": 1734898871,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22103,
       "num": 22103,
       "word": "盲人带导盲犬医院看病被拦",
@@ -4091,28 +4099,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21160,
+      "num": 30963,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 21089,
       "num": 26070,
       "word": "电影最后的告别今日上映",
       "onboard_time": 1734810491,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20396,
-      "num": 20396,
-      "word": "被抱养拒认亲女子否认得布病",
-      "onboard_time": 1734899230,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20017,
-      "num": 30963,
-      "word": "72岁爷爷给猴子当了29年贴身保镖",
-      "onboard_time": 1734896171,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 19918,
@@ -4155,6 +4155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16623,
+      "num": 16824,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16620,
       "num": 22966,
       "word": "嘘国王在冬眠冬至物料",
@@ -4169,14 +4177,6 @@
       "onboard_time": 1734851839,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16133,
-      "num": 16824,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16120,
@@ -4203,12 +4203,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 13599,
-      "num": 13599,
+      "raw_hot": 13623,
+      "num": 13623,
       "word": "真人秀制作人被提名为美国驻英特使",
       "onboard_time": 1734902171,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13603,
+      "num": 17532,
+      "word": "哈尔滨冰雪大世界开园",
+      "onboard_time": 1734900911,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 13369,
@@ -4217,14 +4225,6 @@
       "onboard_time": 1734815232,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13226,
-      "num": 13226,
-      "word": "哈尔滨冰雪大世界开园",
-      "onboard_time": 1734900911,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 12499,
@@ -4275,6 +4275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 7990,
+      "num": 20271,
+      "word": "徐艺洋喜欢录生活类综艺",
+      "onboard_time": 1734901810,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 7800,
       "num": 149598,
       "word": "凌云战胜辣翻",
@@ -4291,20 +4299,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 6464,
+      "num": 21150,
+      "word": "柳岩谈做子宫肌瘤手术",
+      "onboard_time": 1734901931,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 6293,
       "num": 18393,
       "word": "于适看队友比赛reaction",
       "onboard_time": 1734898212,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5508,
-      "num": 20271,
-      "word": "徐艺洋喜欢录生活类综艺",
-      "onboard_time": 1734901810,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
