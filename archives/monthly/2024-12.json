@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734862878242,
+  "endTime": 1734863884258,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1733110819,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1711618,
+      "num": 1711618,
+      "word": "九重紫大结局",
+      "onboard_time": 1734862820,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1699615,
@@ -3827,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1060799,
+      "num": 393228,
+      "word": "刘维节目录制中发火",
+      "onboard_time": 1734862038,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1060789,
       "num": 1169726,
       "word": "极越CEO发长文道歉",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1732983798,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 929729,
+      "num": 473453,
+      "word": "黄誉博 叫徐艺洋嫂子很奇怪",
+      "onboard_time": 1734860659,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 928876,
@@ -6299,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797069,
+      "num": 797069,
+      "word": "宋祖儿 演员请就位3",
+      "onboard_time": 1734861858,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 796879,
       "num": 777131,
       "word": "梁祯元直播",
@@ -7529,14 +7561,6 @@
       "onboard_time": 1733748620,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 709462,
-      "num": 473453,
-      "word": "黄誉博 叫徐艺洋嫂子很奇怪",
-      "onboard_time": 1734860659,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 708019,
@@ -11201,14 +11225,6 @@
       "onboard_time": 1733227160,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 532920,
-      "num": 532920,
-      "word": "宋祖儿 演员请就位3",
-      "onboard_time": 1734861858,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 532872,
@@ -15355,6 +15371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405852,
+      "num": 511806,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734409401,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 405502,
       "num": 405502,
       "word": "迪丽热巴陈飞宇公主抱路透",
@@ -15905,14 +15929,6 @@
       "onboard_time": 1734332179,
       "rank": 8,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 393228,
-      "num": 393228,
-      "word": "刘维节目录制中发火",
-      "onboard_time": 1734862038,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 392785,
@@ -17907,14 +17923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347450,
-      "num": 347450,
-      "word": "九重紫大结局",
-      "onboard_time": 1734862820,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 347284,
       "num": 206998,
       "word": "程潇闫桉跳双人舞",
@@ -19225,6 +19233,14 @@
       "onboard_time": 1734246979,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321888,
+      "num": 417091,
+      "word": "应急管理部派工作组赴上海",
+      "onboard_time": 1734857358,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321873,
@@ -20835,14 +20851,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 291734,
-      "num": 511806,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1734409401,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 291545,
       "num": 291545,
       "word": "宋慧乔状态太好了",
@@ -22131,6 +22139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 272206,
+      "num": 272206,
+      "word": "肖战宣传射雕英雄传侠之大者",
+      "onboard_time": 1734863059,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272031,
       "num": 402145,
       "word": "赵丽颖或将出演电影丹心恋人",
@@ -23016,14 +23032,6 @@
       "word": "还有不到10天就是2025年",
       "onboard_time": 1734830537,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258764,
-      "num": 417091,
-      "word": "应急管理部派工作组赴上海",
-      "onboard_time": 1734857358,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -24203,6 +24211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244394,
+      "num": 314680,
+      "word": "考研答案",
+      "onboard_time": 1734861978,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244237,
       "num": 244237,
       "word": "何超莲高马尾女大造型",
@@ -25107,6 +25123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 235339,
+      "num": 320476,
+      "word": "取消公摊如何弥补之前买房的公摊",
+      "onboard_time": 1734863299,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234942,
       "num": 234942,
       "word": "mlxg谈Doinb",
@@ -25473,14 +25497,6 @@
       "onboard_time": 1734752478,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232075,
-      "num": 276553,
-      "word": "考研答案",
-      "onboard_time": 1734861978,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 231991,
@@ -32412,7 +32428,7 @@
     },
     {
       "raw_hot": 192510,
-      "num": 276392,
+      "num": 310446,
       "word": "于适广东队季军",
       "onboard_time": 1734861679,
       "rank": 24,
@@ -44675,6 +44691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144986,
+      "num": 144986,
+      "word": "微博之夜推荐",
+      "onboard_time": 1734259938,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144944,
       "num": 144944,
       "word": "单霁翔70岁正是奋斗的年纪",
@@ -45465,14 +45489,6 @@
       "onboard_time": 1733217860,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141992,
-      "num": 141992,
-      "word": "微博之夜推荐",
-      "onboard_time": 1734259938,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141985,
@@ -46740,7 +46756,7 @@
     },
     {
       "raw_hot": 137559,
-      "num": 137559,
+      "num": 270236,
       "word": "邓亚萍希望孙颖莎还是做自己",
       "onboard_time": 1734861019,
       "rank": 41,
@@ -49155,12 +49171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128439,
+      "num": 128439,
+      "word": "哈尔滨黄玫瑰",
+      "onboard_time": 1734861498,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128425,
       "num": 167558,
       "word": "时装男士",
       "onboard_time": 1734600499,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 128398,
+      "num": 128398,
+      "word": "九重紫超点",
+      "onboard_time": 1734863719,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 128393,
@@ -50443,6 +50475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123775,
+      "num": 123775,
+      "word": "魏大勋工作室发布告黑声明",
+      "onboard_time": 1734862639,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123772,
       "num": 123772,
       "word": "陈奕迅 大家不要yellow cow",
@@ -51716,7 +51756,7 @@
     },
     {
       "raw_hot": 118821,
-      "num": 776534,
+      "num": 897749,
       "word": "2分钟浓缩版2024",
       "onboard_time": 1734859699,
       "rank": 2,
@@ -53683,6 +53723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110509,
+      "num": 215813,
+      "word": "情敌买票我上桌",
+      "onboard_time": 1734861618,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110491,
       "num": 258366,
       "word": "李昀锐早期女团舞视频",
@@ -53784,14 +53832,6 @@
       "word": "丁程鑫",
       "onboard_time": 1733958855,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 109730,
-      "num": 109730,
-      "word": "魏大勋工作室发布告黑声明",
-      "onboard_time": 1734862639,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -59649,14 +59689,6 @@
       "onboard_time": 1733836281,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79407,
-      "num": 215813,
-      "word": "情敌买票我上桌",
-      "onboard_time": 1734861618,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 79403,
@@ -73467,6 +73499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25258,
+      "num": 311719,
+      "word": "现在就出发泳池混战",
+      "onboard_time": 1734863599,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25244,
       "num": 467648,
       "word": "韩国财长称必要时将采取大胆措施",
@@ -78201,6 +78241,14 @@
       "onboard_time": 1734269660,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 9103,
+      "num": 309160,
+      "word": "银行通报女子实名举报前公公",
+      "onboard_time": 1734863838,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 9086,
