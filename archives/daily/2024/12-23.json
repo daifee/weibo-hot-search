@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734896128186,
+  "endTime": 1734898938456,
   "band_list": [
     {
       "raw_hot": 1114347,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20724,
+      "num": 20724,
+      "word": "盲人带导盲犬医院看病被拦",
+      "onboard_time": 1734896951,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19720,
       "num": 26317,
       "word": "蒋欣李光洁热聊",
@@ -531,6 +539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16133,
+      "num": 16824,
+      "word": "官方通报上海地铁11号线最新情况",
+      "onboard_time": 1734895572,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16120,
       "num": 25697,
       "word": "车辆跟踪竟成黑产业链",
@@ -539,20 +555,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14496,
-      "num": 16824,
-      "word": "官方通报上海地铁11号线最新情况",
-      "onboard_time": 1734895572,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 16105,
+      "num": 30963,
+      "word": "72岁爷爷给猴子当了29年贴身保镖",
+      "onboard_time": 1734896171,
+      "rank": 9,
+      "category": "正能量"
     },
     {
-      "raw_hot": 9565,
+      "raw_hot": 15847,
+      "num": 15847,
+      "word": "中方对加拿大机构及人员采取反制措施",
+      "onboard_time": 1734897731,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12499,
       "num": 25349,
       "word": "赵露思请粉丝吃冰激凌",
       "onboard_time": 1734895091,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12466,
+      "num": 14820,
+      "word": "特朗普提名火箭队老板为美国驻意大使",
+      "onboard_time": 1734898871,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8658,
@@ -567,6 +599,14 @@
       "num": 35741,
       "word": "程潇黄雅琼热聊",
       "onboard_time": 1734892632,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7545,
+      "num": 18892,
+      "word": "向佐认领白磷型人格",
+      "onboard_time": 1734897492,
       "rank": 19,
       "category": "作品衍生,时尚"
     }
