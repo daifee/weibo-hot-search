@@ -1,0 +1,410 @@
+{
+  "runTime": 1734872039584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1478105,
+        "num": 1478105,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1254232,
+        "num": 1254232,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 1,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 89444,
+        "num": 1045667,
+        "word": "2分钟浓缩版2024",
+        "onboard_time": 1734859699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 852728,
+        "num": 852728,
+        "word": "向佐 马面裙",
+        "onboard_time": 1734866898,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 388389,
+        "num": 388389,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364323,
+        "num": 364323,
+        "word": "长沙下雪",
+        "onboard_time": 1734864378,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754808,
+        "num": 338897,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586981,
+        "num": 329280,
+        "word": "孟子义李昀锐 有本事三搭",
+        "onboard_time": 1734867259,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292795,
+        "num": 292795,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181538,
+        "num": 288215,
+        "word": "美军窃取中国先进材料商业机密",
+        "onboard_time": 1734868458,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430358,
+        "num": 282945,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398964,
+        "num": 270147,
+        "word": "猎罪图鉴2好炸裂的家庭关系",
+        "onboard_time": 1734866359,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334375,
+        "num": 262053,
+        "word": "李昀锐直播",
+        "onboard_time": 1734868159,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313909,
+        "num": 258442,
+        "word": "徐艺洋红裙",
+        "onboard_time": 1734865578,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152272,
+        "num": 247446,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246363,
+        "num": 246363,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1734868939,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211533,
+        "num": 211533,
+        "word": "孟子义感谢九重紫",
+        "onboard_time": 1734869659,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191084,
+        "num": 191084,
+        "word": "腿姐长文告别25考研",
+        "onboard_time": 1734864079,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156893,
+        "num": 191050,
+        "word": "李盈莹朱婷隔网对轰",
+        "onboard_time": 1734870259,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148455,
+        "num": 190983,
+        "word": "上海地铁11号线预计21时恢复运营",
+        "onboard_time": 1734865339,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 750479,
+        "num": 190797,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268391,
+        "num": 190782,
+        "word": "王一博冰攀",
+        "onboard_time": 1734870558,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246635,
+        "num": 190616,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 448881,
+        "num": 190558,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 440608,
+        "num": 190398,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308214,
+        "num": 190379,
+        "word": "蒋欣最喜欢甄嬛传的滴血认亲",
+        "onboard_time": 1734867439,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296784,
+        "num": 190270,
+        "word": "宋祖儿 演员请就位3",
+        "onboard_time": 1734861858,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243140,
+        "num": 190159,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31839,
+        "num": 190042,
+        "word": "数一答案",
+        "onboard_time": 1734869179,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215246,
+        "num": 189887,
+        "word": "周芯竹回应陈近南发歌diss周密",
+        "onboard_time": 1734869179,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209495,
+        "num": 189825,
+        "word": "国色芳华",
+        "onboard_time": 1734870858,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201558,
+        "num": 189756,
+        "word": "蒋欣41岁的状态",
+        "onboard_time": 1734871819,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196743,
+        "num": 189661,
+        "word": "林一spicyhoney手势舞版",
+        "onboard_time": 1734870499,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115823,
+        "num": 189552,
+        "word": "银行通报女子实名举报前公公",
+        "onboard_time": 1734863838,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109558,
+        "num": 189402,
+        "word": "孙杨好高好帅",
+        "onboard_time": 1734866839,
+        "rank": 34,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 26836,
+        "num": 189359,
+        "word": "钟意大司命一打五",
+        "onboard_time": 1734870858,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193683,
+        "num": 189256,
+        "word": "程潇蝴蝶结镶钻礼裙",
+        "onboard_time": 1734868939,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191603,
+        "num": 189159,
+        "word": "于适决赛全场最高分",
+        "onboard_time": 1734871038,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189077,
+        "num": 189077,
+        "word": "任嘉伦状态",
+        "onboard_time": 1734867139,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184771,
+        "num": 184771,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180615,
+        "num": 180615,
+        "word": "四大平台大剧对打",
+        "onboard_time": 1734869179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 165781,
+        "word": "苗安素杀了宋翰",
+        "onboard_time": 1734864738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165576,
+        "num": 165576,
+        "word": "田作之赫",
+        "onboard_time": 1734868458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99689,
+        "num": 163288,
+        "word": "林高远欧冠联赛首战",
+        "onboard_time": 1734871578,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95290,
+        "num": 160993,
+        "word": "天津女排vs科内利亚诺",
+        "onboard_time": 1734871700,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94757,
+        "num": 157608,
+        "word": "一天连吃三顿辣56岁男子急性肾损伤",
+        "onboard_time": 1734870019,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91201,
+        "num": 155861,
+        "word": "冰雪大世界游客排队7小时坐大滑梯",
+        "onboard_time": 1734869539,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86998,
+        "num": 152722,
+        "word": "应急管理部派工作组赴上海",
+        "onboard_time": 1734857358,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85710,
+        "num": 148247,
+        "word": "在山东风筝像战机一样列队飞行",
+        "onboard_time": 1734871280,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85137,
+        "num": 146422,
+        "word": "尔滨手拿电锯举着铲铲的冰雕师火了",
+        "onboard_time": 1734868458,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代一国两制实践承担着新的重要使命#"
+    }
+  }
+}
