@@ -1,0 +1,410 @@
+{
+  "runTime": 1734860108354,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375378,
+        "num": 1375378,
+        "word": "老人取走自己卡内200多万一家三口被抓",
+        "onboard_time": 1734855018,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1287464,
+        "num": 1287464,
+        "word": "考研结束",
+        "onboard_time": 1734856219,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47673,
+        "num": 776534,
+        "word": "2分钟浓缩版2024",
+        "onboard_time": 1734859699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 723538,
+        "num": 723538,
+        "word": "冬至男女主分手八年还用情头",
+        "onboard_time": 1734855258,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 717818,
+        "num": 717818,
+        "word": "湖南卫视声明",
+        "onboard_time": 1734851179,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835279,
+        "num": 704721,
+        "word": "南昌通报李某雪已被送诊",
+        "onboard_time": 1734843198,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 691368,
+        "num": 691368,
+        "word": "黑龙江一企业禁止员工去冰雪大世界",
+        "onboard_time": 1734854418,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451047,
+        "num": 451047,
+        "word": "网友评杨幂朋友圈变迁",
+        "onboard_time": 1734849618,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450120,
+        "num": 450120,
+        "word": "殷世航 惹不起躲得起",
+        "onboard_time": 1734857718,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 185946,
+        "num": 444775,
+        "word": "冰雪大世界回应企业禁止员工前往",
+        "onboard_time": 1734858918,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444558,
+        "num": 444558,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427328,
+        "num": 427328,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192952,
+        "num": 412262,
+        "word": "法硕",
+        "onboard_time": 1734838338,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34315,
+        "num": 409235,
+        "word": "接上岸",
+        "onboard_time": 1734858618,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32555,
+        "num": 407950,
+        "word": "公摊面积应透明化",
+        "onboard_time": 1734858438,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406831,
+        "num": 406831,
+        "word": "考研英语刘晓艳",
+        "onboard_time": 1734857539,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 351974,
+        "num": 351974,
+        "word": "4000年前地震母亲用身体护住孩子",
+        "onboard_time": 1734856577,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348393,
+        "num": 348393,
+        "word": "李昀锐说孟子义又娇又可爱",
+        "onboard_time": 1734856157,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90530,
+        "num": 292746,
+        "word": "怪奇笔记开播",
+        "onboard_time": 1734856757,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282368,
+        "num": 282368,
+        "word": "美巡洋舰误击美军战机",
+        "onboard_time": 1734849317,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 570906,
+        "num": 280192,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295540,
+        "num": 274758,
+        "word": "优酷分享知否台词",
+        "onboard_time": 1734851657,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233918,
+        "num": 233918,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 22,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 21757,
+        "num": 214781,
+        "word": "潮头上的中国汽车",
+        "onboard_time": 1734855319,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39290,
+        "num": 206597,
+        "word": "专家说目标没有达成就修改目标",
+        "onboard_time": 1734858738,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199580,
+        "num": 199580,
+        "word": "五大预售票房顶流",
+        "onboard_time": 1734851597,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191719,
+        "num": 191719,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167613,
+        "num": 167613,
+        "word": "应急管理部派工作组赴上海",
+        "onboard_time": 1734857358,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166496,
+        "num": 166496,
+        "word": "干噎酸奶",
+        "onboard_time": 1734849979,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162911,
+        "num": 162911,
+        "word": "涉事企业回应禁止员工去冰雪大世界",
+        "onboard_time": 1734856878,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154839,
+        "num": 154839,
+        "word": "台湾小伙第一次来尔滨打了3天雪仗",
+        "onboard_time": 1734854119,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 148975,
+        "num": 148975,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144583,
+        "num": 144583,
+        "word": "上海地铁故障或影响周一出行",
+        "onboard_time": 1734851539,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143396,
+        "num": 143396,
+        "word": "发现i人其实不是不喜欢说话",
+        "onboard_time": 1734848958,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138653,
+        "num": 138653,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1734857118,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132878,
+        "num": 132878,
+        "word": "苏醒大儿子正脸照",
+        "onboard_time": 1734846139,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128215,
+        "num": 128215,
+        "word": "赵今麦骄阳似我背带裙路透",
+        "onboard_time": 1734857658,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127169,
+        "num": 127169,
+        "word": "央视曝老年养生馆骗局",
+        "onboard_time": 1734851330,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122828,
+        "num": 122828,
+        "word": "数二 简单",
+        "onboard_time": 1734839179,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11909,
+        "num": 121843,
+        "word": "节日氛围感发型",
+        "onboard_time": 1734859338,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121629,
+        "num": 121629,
+        "word": "梁洁跳了spicyhoney",
+        "onboard_time": 1734853637,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "00后满脸文身找工作处处碰壁",
+        "onboard_time": 1734853158,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106874,
+        "num": 106874,
+        "word": "我是刑警现实原型崔道植有多厉害",
+        "onboard_time": 1734850758,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87012,
+        "num": 100604,
+        "word": "外商希望多开通直飞义乌航班",
+        "onboard_time": 1734859037,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99860,
+        "num": 99860,
+        "word": "外国客商趁240小时免签来义乌面谈生意",
+        "onboard_time": 1734859757,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 97831,
+        "num": 97831,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96463,
+        "num": 96463,
+        "word": "考完研后的戒断反应",
+        "onboard_time": 1734858498,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95052,
+        "num": 95052,
+        "word": "邓亚萍寄语孙颖莎",
+        "onboard_time": 1734852518,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93299,
+        "num": 93299,
+        "word": "昭昭墨墨 聊斋",
+        "onboard_time": 1734856998,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88781,
+        "num": 88781,
+        "word": "商战",
+        "onboard_time": 1734853878,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续推进一国两制实践行稳致远#"
+    }
+  }
+}
