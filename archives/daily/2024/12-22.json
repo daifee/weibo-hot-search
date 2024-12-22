@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734878199955,
+  "endTime": 1734880842812,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -113,6 +113,14 @@
       "onboard_time": 1734855018,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1365056,
+      "num": 1365056,
+      "word": "央视曝光未成年人绕开防沉迷只需4元",
+      "onboard_time": 1734876979,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1287464,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731665,
+      "num": 731665,
+      "word": "上海地铁致歉",
+      "onboard_time": 1734875661,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 729339,
       "num": 448710,
       "word": "优酷分享知否台词",
@@ -371,14 +387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 639787,
-      "num": 639787,
-      "word": "上海地铁致歉",
-      "onboard_time": 1734875661,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -387,12 +395,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635851,
+      "num": 635851,
+      "word": "虎跳峡",
+      "onboard_time": 1734873979,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 629945,
       "num": 629945,
       "word": "徐涛 写在今年考后的感想",
       "onboard_time": 1734864919,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 626396,
+      "num": 427858,
+      "word": "韦雪说对秦奋是爱",
+      "onboard_time": 1734877160,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 623601,
@@ -409,6 +433,14 @@
       "onboard_time": 1734843678,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610377,
+      "num": 610377,
+      "word": "九重紫第30集封神",
+      "onboard_time": 1734878479,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 606950,
@@ -705,14 +737,6 @@
       "onboard_time": 1734839359,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 397763,
-      "num": 397763,
-      "word": "韦雪说对秦奋是爱",
-      "onboard_time": 1734877160,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 386678,
@@ -1075,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261101,
+      "num": 222195,
+      "word": "周芯竹说和周密曾有过快乐的时光",
+      "onboard_time": 1734877279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258839,
       "num": 258839,
       "word": "还有不到10天就是2025年",
@@ -1251,14 +1283,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 222195,
-      "num": 222195,
-      "word": "周芯竹说和周密曾有过快乐的时光",
-      "onboard_time": 1734877279,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222031,
       "num": 213181,
       "word": "秦岚金色吊带裙",
@@ -1395,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202406,
+      "num": 176424,
+      "word": "张萌 送上超点的小福利",
+      "onboard_time": 1734879800,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201117,
       "num": 201117,
       "word": "世俱杯",
@@ -1507,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196367,
+      "num": 429497,
+      "word": "停个车数据就泄露了",
+      "onboard_time": 1734879440,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 194982,
       "num": 165254,
       "word": "小姐姐买了一条阔腿裤",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1734841578,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194095,
+      "num": 183008,
+      "word": "冬至吻戏好瓷实",
+      "onboard_time": 1734880040,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 193535,
@@ -1923,6 +1971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 158956,
+      "num": 158956,
+      "word": "特朗普威胁巴拿马不听话就归还运河",
+      "onboard_time": 1734877641,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158409,
       "num": 158409,
       "word": "你好星期六下期是北上",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1734854778,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154354,
+      "num": 154354,
+      "word": "马嘉祺我是一个多余的人",
+      "onboard_time": 1734878361,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 154164,
@@ -2043,6 +2107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150708,
+      "num": 150708,
+      "word": "工作三年和读研三年相比哪个更值",
+      "onboard_time": 1734875300,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150643,
       "num": 150643,
       "word": "00后满脸文身找工作处处碰壁",
@@ -2072,14 +2144,6 @@
       "word": "50元可查询任意一个人的隐私",
       "onboard_time": 1734843916,
       "rank": 14,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 149606,
-      "num": 454907,
-      "word": "央视曝光未成年人绕开防沉迷只需4元",
-      "onboard_time": 1734876979,
-      "rank": 9,
       "category": "舆论监督"
     },
     {
@@ -2129,6 +2193,14 @@
       "onboard_time": 1734863238,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144067,
+      "num": 144067,
+      "word": "清明上河图密码",
+      "onboard_time": 1734879623,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 141650,
@@ -2275,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131517,
-      "num": 131517,
-      "word": "特朗普威胁巴拿马不听话就归还运河",
-      "onboard_time": 1734877641,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131230,
       "num": 131230,
       "word": "不如裸考",
@@ -2385,6 +2449,14 @@
       "onboard_time": 1734838819,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124051,
+      "num": 124051,
+      "word": "大爷下肢瘫痪在滑雪场上却健步如飞",
+      "onboard_time": 1734879201,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123970,
@@ -2699,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107485,
+      "num": 237830,
+      "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
+      "onboard_time": 1734877221,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107473,
       "num": 107473,
       "word": "周深配音的沙祖 碎嘴鸟设",
@@ -2745,14 +2825,6 @@
       "onboard_time": 1734836477,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105408,
-      "num": 237830,
-      "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
-      "onboard_time": 1734877221,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104727,
@@ -2889,6 +2961,14 @@
       "onboard_time": 1734855438,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 97381,
+      "num": 107399,
+      "word": "黑悟空雪雕修复后金箍棒成金色",
+      "onboard_time": 1734880520,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 95640,
@@ -3251,6 +3331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61248,
+      "num": 184956,
+      "word": "把游客宠上天倒也不必苛求当地人",
+      "onboard_time": 1734879860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -3507,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38749,
+      "num": 292913,
+      "word": "女中医拳王比赛夺冠后挂号秒光",
+      "onboard_time": 1734880100,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37653,
       "num": 243205,
       "word": "冰雪大世界门票最高被炒至万元",
@@ -3529,6 +3625,14 @@
       "onboard_time": 1734802454,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36084,
+      "num": 185236,
+      "word": "尚雯婕生日直播",
+      "onboard_time": 1734880279,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 35732,
@@ -3833,6 +3937,14 @@
       "onboard_time": 1734859338,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11402,
+      "num": 183676,
+      "word": "中综",
+      "onboard_time": 1734880400,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 10756,
