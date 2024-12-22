@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734836801803,
+  "endTime": 1734838211071,
   "band_list": [
     {
       "raw_hot": 2322455,
@@ -11,12 +11,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1547033,
+      "raw_hot": 1556739,
       "num": 1547033,
       "word": "残奥冠军枪杀女友后找酷似旧人新欢",
       "onboard_time": 1734832518,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1104682,
+      "num": 1104682,
+      "word": "考研数学",
+      "onboard_time": 1734836656,
+      "rank": 37,
+      "category": "教育,体育"
     },
     {
       "raw_hot": 1061566,
@@ -59,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663161,
+      "num": 663161,
+      "word": "白月梵星",
+      "onboard_time": 1734835338,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 623601,
       "num": 623601,
       "word": "00后负债300万1比1复刻蜡笔小新之家",
@@ -67,12 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 578151,
-      "num": 578151,
-      "word": "白月梵星",
-      "onboard_time": 1734835338,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 558089,
+      "num": 558089,
+      "word": "考研英语最尴尬的是不会写尴尬",
+      "onboard_time": 1734835457,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 527582,
@@ -91,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469528,
+      "num": 469528,
+      "word": "李秀满公司在成都招人",
+      "onboard_time": 1734832938,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466869,
       "num": 466869,
       "word": "这不是树这是章丘大葱",
@@ -105,14 +129,6 @@
       "onboard_time": 1734823753,
       "rank": 30,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 461487,
-      "num": 461487,
-      "word": "李秀满公司在成都招人",
-      "onboard_time": 1734832938,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 447099,
@@ -139,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 380241,
+      "num": 380241,
+      "word": "难哄",
+      "onboard_time": 1734834077,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374231,
       "num": 321778,
       "word": "于洋喝错孟子义的咖啡",
@@ -153,6 +177,14 @@
       "onboard_time": 1734778878,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360771,
+      "num": 360771,
+      "word": "谷爱凌刷新历史纪录",
+      "onboard_time": 1734835578,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 360182,
@@ -195,16 +227,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325173,
-      "num": 325173,
-      "word": "难哄",
-      "onboard_time": 1734834077,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 331191,
+      "num": 331191,
+      "word": "32岁飞行员失联当天升机长失败",
+      "onboard_time": 1734837616,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322665,
-      "num": 264179,
+      "num": 274097,
       "word": "分手2年了前女友还在刷我的卡",
       "onboard_time": 1734823693,
       "rank": 20,
@@ -235,28 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290898,
-      "num": 290898,
-      "word": "考研英语最尴尬的是不会写尴尬",
-      "onboard_time": 1734835457,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 289517,
       "num": 289517,
       "word": "史晓燕回应向太",
       "onboard_time": 1734828618,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 285109,
-      "num": 285109,
-      "word": "谷爱凌刷新历史纪录",
-      "onboard_time": 1734835578,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 277766,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229948,
+      "num": 229948,
+      "word": "胖东来部分商品转线上销售",
+      "onboard_time": 1734836477,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224919,
       "num": 224919,
       "word": "殷世航回应全国骑射比赛第三",
@@ -361,6 +385,14 @@
       "onboard_time": 1734787339,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215201,
+      "num": 338042,
+      "word": "外交部回应美国对台军援军售",
+      "onboard_time": 1734837257,
+      "rank": 13,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 208164,
@@ -387,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198617,
+      "num": 265131,
+      "word": "时代少年团为马嘉祺音乐剧打call",
+      "onboard_time": 1734837378,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194982,
       "num": 165254,
       "word": "小姐姐买了一条阔腿裤",
@@ -401,6 +441,14 @@
       "onboard_time": 1734823693,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 188613,
+      "num": 188613,
+      "word": "李雪琴说650永远三个人",
+      "onboard_time": 1734836357,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 188183,
@@ -435,12 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172866,
+      "num": 172866,
+      "word": "王一博探索新境有第二季",
+      "onboard_time": 1734837557,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172669,
       "num": 172669,
       "word": "你买的冲锋衣可能是假的",
       "onboard_time": 1734786140,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171626,
+      "num": 171626,
+      "word": "晋江",
+      "onboard_time": 1734836778,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 170131,
+      "num": 170131,
+      "word": "中方就美对台军援军售提出严正交涉",
+      "onboard_time": 1734838158,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170018,
@@ -457,6 +529,14 @@
       "onboard_time": 1734827956,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 167788,
+      "num": 167788,
+      "word": "吴昕 鸥把你穿到了身上",
+      "onboard_time": 1734823935,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167607,
@@ -523,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152158,
-      "num": 152158,
-      "word": "吴昕 鸥把你穿到了身上",
-      "onboard_time": 1734823935,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151683,
       "num": 151683,
       "word": "月鳞绮纪 质疑书生理解书生",
@@ -547,6 +619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 148027,
+      "num": 148027,
+      "word": "上海地铁通报塔吊施工侵入11号线",
+      "onboard_time": 1734836897,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 140389,
       "num": 140389,
       "word": "有5种蔬菜嘌呤比肉还高",
@@ -561,14 +641,6 @@
       "onboard_time": 1734834858,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136184,
-      "num": 136184,
-      "word": "考研数学",
-      "onboard_time": 1734836656,
-      "rank": 37,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 135546,
@@ -604,7 +676,7 @@
     },
     {
       "raw_hot": 131568,
-      "num": 131568,
+      "num": 264374,
       "word": "马龙年度总结",
       "onboard_time": 1734835276,
       "rank": 39,
@@ -625,6 +697,14 @@
       "onboard_time": 1734827716,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123893,
+      "num": 398000,
+      "word": "我的2024正能量关键词",
+      "onboard_time": 1734836177,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 120153,
@@ -659,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116917,
-      "num": 116917,
-      "word": "胖东来部分商品转线上销售",
-      "onboard_time": 1734836477,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116607,
       "num": 116607,
       "word": "你的减肥运动可能并没有消耗脂肪",
@@ -681,6 +753,14 @@
       "onboard_time": 1734831797,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 116154,
+      "num": 116154,
+      "word": "年轻人有属于自己的跨年仪式感",
+      "onboard_time": 1734837498,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 115717,
@@ -769,30 +849,6 @@
       "onboard_time": 1734836477,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105426,
-      "num": 105426,
-      "word": "晋江",
-      "onboard_time": 1734836778,
-      "rank": 46,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 105417,
-      "num": 105417,
-      "word": "李雪琴说650永远三个人",
-      "onboard_time": 1734836357,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 104937,
-      "num": 398000,
-      "word": "我的2024正能量关键词",
-      "onboard_time": 1734836177,
-      "rank": 23,
-      "category": "正能量"
     },
     {
       "raw_hot": 104727,
@@ -907,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 77223,
+      "num": 873482,
+      "word": "这就是中国气质",
+      "onboard_time": 1734837317,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76036,
       "num": 76036,
       "word": "盘点2024",
@@ -929,6 +993,14 @@
       "onboard_time": 1734795739,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 68548,
+      "num": 274326,
+      "word": "以多种拦截导弹均未能击落也门导弹",
+      "onboard_time": 1734837197,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68383,
@@ -1019,6 +1091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 54874,
+      "num": 332768,
+      "word": "医生辟谣经常看吃播会得胆结石",
+      "onboard_time": 1734836656,
+      "rank": 14,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 51041,
       "num": 284716,
       "word": "湘潭通报问题泥鳅案药残超10倍9人被抓",
@@ -1097,14 +1177,6 @@
       "onboard_time": 1734823753,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 40739,
-      "num": 314346,
-      "word": "医生辟谣经常看吃播会得胆结石",
-      "onboard_time": 1734836656,
-      "rank": 14,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 37653,
@@ -1265,6 +1337,9 @@
     },
     {
       "word": "#习近平澳门行#"
+    },
+    {
+      "word": "#习主席澳门行的暖心一幕#"
     }
   ]
 }
