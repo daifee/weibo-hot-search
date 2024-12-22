@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734880842812,
+  "endTime": 1734881727688,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1513569,
+      "num": 1513569,
+      "word": "央视曝光未成年人绕开防沉迷只需4元",
+      "onboard_time": 1734876979,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1495848,
       "num": 1495848,
       "word": "张雨绮 为了讨大家喜欢才穿成这样",
@@ -113,14 +121,6 @@
       "onboard_time": 1734855018,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1365056,
-      "num": 1365056,
-      "word": "央视曝光未成年人绕开防沉迷只需4元",
-      "onboard_time": 1734876979,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1287464,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 745448,
+      "num": 610377,
+      "word": "九重紫第30集封神",
+      "onboard_time": 1734878479,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 731665,
       "num": 731665,
       "word": "上海地铁致歉",
@@ -433,14 +441,6 @@
       "onboard_time": 1734843678,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 610377,
-      "num": 610377,
-      "word": "九重紫第30集封神",
-      "onboard_time": 1734878479,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 606950,
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410193,
+      "num": 274329,
+      "word": "李昀锐避免大拇指露出",
+      "onboard_time": 1734881060,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405852,
       "num": 205572,
       "word": "搜狐时尚盛典",
@@ -931,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313447,
+      "num": 225761,
+      "word": "周芯竹说和周密曾有过快乐的时光",
+      "onboard_time": 1734877279,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311774,
       "num": 311774,
       "word": "樊振东王楚钦再迎对决",
@@ -1083,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267080,
+      "num": 183008,
+      "word": "冬至吻戏好瓷实",
+      "onboard_time": 1734880040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266624,
       "num": 241921,
       "word": "范丞丞 我现在急需要鼓励啊",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1734844938,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261101,
-      "num": 222195,
-      "word": "周芯竹说和周密曾有过快乐的时光",
-      "onboard_time": 1734877279,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 258839,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1734790820,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 223109,
+      "num": 429497,
+      "word": "停个车数据就泄露了",
+      "onboard_time": 1734879440,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 222031,
@@ -1539,14 +1563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196367,
-      "num": 429497,
-      "word": "停个车数据就泄露了",
-      "onboard_time": 1734879440,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 194982,
       "num": 165254,
       "word": "小姐姐买了一条阔腿裤",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1734841578,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194095,
-      "num": 183008,
-      "word": "冬至吻戏好瓷实",
-      "onboard_time": 1734880040,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 193535,
@@ -2563,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117817,
+      "num": 117817,
+      "word": "曼联vs伯恩茅斯",
+      "onboard_time": 1734881239,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117154,
       "num": 157608,
       "word": "一天连吃三顿辣56岁男子急性肾损伤",
@@ -2827,12 +2843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105055,
+      "num": 105055,
+      "word": "李宇春周笔畅超女后首同台",
+      "onboard_time": 1734880761,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "袁记云饺有店铺销量下滑三分之一",
       "onboard_time": 1734799996,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104629,
+      "num": 107399,
+      "word": "黑悟空雪雕修复后金箍棒成金色",
+      "onboard_time": 1734880520,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 104486,
@@ -2961,14 +2993,6 @@
       "onboard_time": 1734855438,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 97381,
-      "num": 107399,
-      "word": "黑悟空雪雕修复后金箍棒成金色",
-      "onboard_time": 1734880520,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 95640,
@@ -3155,6 +3179,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 79262,
+      "num": 184956,
+      "word": "把游客宠上天倒也不必苛求当地人",
+      "onboard_time": 1734879860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77584,
       "num": 278120,
       "word": "伊拉克老王在中国治愈了童年",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1734850997,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 76399,
+      "num": 249867,
+      "word": "回顾2024温暖瞬间",
+      "onboard_time": 1734881420,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76036,
@@ -3331,14 +3371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 61248,
-      "num": 184956,
-      "word": "把游客宠上天倒也不必苛求当地人",
-      "onboard_time": 1734879860,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1734855258,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56597,
+      "num": 292913,
+      "word": "女中医拳王比赛夺冠后挂号秒光",
+      "onboard_time": 1734880100,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56513,
@@ -3595,12 +3635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38749,
-      "num": 292913,
-      "word": "女中医拳王比赛夺冠后挂号秒光",
-      "onboard_time": 1734880100,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 39876,
+      "num": 183676,
+      "word": "中综",
+      "onboard_time": 1734880400,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 37653,
@@ -3625,6 +3665,14 @@
       "onboard_time": 1734802454,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36600,
+      "num": 165437,
+      "word": "2024德杯宣传片",
+      "onboard_time": 1734881420,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 36084,
@@ -3937,14 +3985,6 @@
       "onboard_time": 1734859338,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 11402,
-      "num": 183676,
-      "word": "中综",
-      "onboard_time": 1734880400,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 10756,
