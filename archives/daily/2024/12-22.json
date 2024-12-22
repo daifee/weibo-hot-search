@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734866225811,
+  "endTime": 1734867330983,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1060799,
-      "num": 956140,
+      "num": 969439,
       "word": "刘维节目录制中发火",
       "onboard_time": 1734862038,
       "rank": 12,
@@ -155,8 +155,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 971859,
+      "num": 971859,
+      "word": "腿姐长文告别考研",
+      "onboard_time": 1734864079,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 929729,
-      "num": 473453,
+      "num": 516977,
       "word": "黄誉博 叫徐艺洋嫂子很奇怪",
       "onboard_time": 1734860659,
       "rank": 5,
@@ -299,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 634921,
-      "num": 417251,
-      "word": "腿姐长文告别考研",
-      "onboard_time": 1734864079,
-      "rank": 11,
+      "raw_hot": 629945,
+      "num": 629945,
+      "word": "徐涛 写在今年考后的感想",
+      "onboard_time": 1734864919,
+      "rank": 7,
       "category": "教育"
     },
     {
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 606950,
-      "num": 382710,
+      "num": 604630,
       "word": "利路修回应退圈",
       "onboard_time": 1734864199,
       "rank": 12,
@@ -395,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478337,
-      "num": 478337,
-      "word": "徐涛 写在今年考后的感想",
-      "onboard_time": 1734864919,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 470683,
       "num": 470683,
       "word": "猎罪图鉴2女子在工厂活活饿死",
@@ -443,6 +443,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 454173,
+      "num": 454173,
+      "word": "苗安素杀了宋翰",
+      "onboard_time": 1734864738,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449078,
       "num": 449078,
       "word": "干噎酸奶",
@@ -457,6 +465,14 @@
       "onboard_time": 1734823753,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440506,
+      "num": 440506,
+      "word": "车厘子自由是不是真的来了",
+      "onboard_time": 1734863957,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439116,
@@ -561,14 +577,6 @@
       "onboard_time": 1734839359,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 386902,
-      "num": 311957,
-      "word": "苗安素杀了宋翰",
-      "onboard_time": 1734864738,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 384764,
@@ -803,14 +811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 281966,
-      "num": 281966,
-      "word": "车厘子自由是不是真的来了",
-      "onboard_time": 1734863957,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278007,
       "num": 278007,
       "word": "王艺瑾造型",
@@ -843,6 +843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273615,
+      "num": 339612,
+      "word": "九重紫HE",
+      "onboard_time": 1734865699,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273025,
       "num": 273025,
       "word": "家长为监督孩子买窃听设备",
@@ -857,6 +865,14 @@
       "onboard_time": 1734863059,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272197,
+      "num": 232781,
+      "word": "徐艺洋红裙",
+      "onboard_time": 1734865578,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264631,
@@ -915,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251865,
+      "num": 218988,
+      "word": "猎罪图鉴2好炸裂的家庭关系",
+      "onboard_time": 1734866359,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248432,
       "num": 248432,
       "word": "章昊韩维辰道歉",
@@ -963,14 +987,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 232781,
-      "num": 232781,
-      "word": "徐艺洋红裙",
-      "onboard_time": 1734865578,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "肖战冬至晒了三个饺子",
@@ -1011,6 +1027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 222031,
+      "num": 213181,
+      "word": "秦岚金色吊带裙",
+      "onboard_time": 1734864978,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221558,
       "num": 221558,
       "word": "殷世航称竞技比赛输赢很正常",
@@ -1027,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219858,
+      "num": 475220,
+      "word": "上海地铁11号线预计21时恢复运营",
+      "onboard_time": 1734865339,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 219515,
       "num": 219515,
       "word": "日军为何竭尽全力想打捞甲午沉舰",
@@ -1041,14 +1073,6 @@
       "onboard_time": 1734842479,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213181,
-      "num": 213181,
-      "word": "秦岚金色吊带裙",
-      "onboard_time": 1734864978,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213116,
@@ -1099,11 +1123,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 202695,
-      "num": 339612,
-      "word": "九重紫HE",
-      "onboard_time": 1734865699,
-      "rank": 16,
+      "raw_hot": 201030,
+      "num": 201030,
+      "word": "孟子义窦昭三次开枪三种神情",
+      "onboard_time": 1734866659,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1209,6 +1233,14 @@
       "onboard_time": 1734861679,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192460,
+      "num": 192460,
+      "word": "向佐 马面裙",
+      "onboard_time": 1734866898,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190644,
@@ -1331,6 +1363,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 176652,
+      "num": 456114,
+      "word": "贺岁档电影票房破20亿",
+      "onboard_time": 1734864919,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176051,
       "num": 176051,
       "word": "papi酱毕业后曾待业4年",
@@ -1345,6 +1385,22 @@
       "onboard_time": 1734785179,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173317,
+      "num": 219552,
+      "word": "徐艺洋回应情绪稳定",
+      "onboard_time": 1734865459,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 172896,
+      "num": 309160,
+      "word": "银行通报女子实名举报前公公",
+      "onboard_time": 1734863838,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 172866,
@@ -1403,6 +1459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167937,
+      "num": 167937,
+      "word": "任嘉伦状态",
+      "onboard_time": 1734867139,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167788,
       "num": 167788,
       "word": "吴昕 鸥把你穿到了身上",
@@ -1433,14 +1497,6 @@
       "onboard_time": 1734864499,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 164794,
-      "num": 475220,
-      "word": "上海地铁11号线预计21时恢复运营",
-      "onboard_time": 1734865339,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 164602,
@@ -1579,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152581,
+      "num": 153563,
+      "word": "心肝宝贝开心果",
+      "onboard_time": 1734866058,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152096,
       "num": 152096,
       "word": "许嵩在想象之中录了想象之中",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1734852518,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151218,
-      "num": 456114,
-      "word": "贺岁档电影票房破20亿",
-      "onboard_time": 1734864919,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 150940,
@@ -1659,6 +1715,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "孙杨好高好帅",
+      "onboard_time": 1734866839,
+      "rank": 44,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 147763,
       "num": 147763,
       "word": "戚薇出发图是自拍",
@@ -1683,12 +1747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142527,
-      "num": 309160,
-      "word": "银行通报女子实名举报前公公",
-      "onboard_time": 1734863838,
-      "rank": 19,
-      "category": "辟谣/通报"
+      "raw_hot": 141709,
+      "num": 141709,
+      "word": "孟子义李昀锐 有本事三搭",
+      "onboard_time": 1734867259,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 140389,
@@ -1744,14 +1808,6 @@
       "word": "黄景瑜发孙千 孙千发黄景瑜",
       "onboard_time": 1734777798,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135156,
-      "num": 135156,
-      "word": "心肝宝贝开心果",
-      "onboard_time": 1734866058,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1996,7 +2052,7 @@
     },
     {
       "raw_hot": 118821,
-      "num": 959127,
+      "num": 969509,
       "word": "2分钟浓缩版2024",
       "onboard_time": 1734859699,
       "rank": 2,
@@ -2275,6 +2331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 103994,
+      "num": 234930,
+      "word": "9岁女孩胃里取出直径4厘米头发团",
+      "onboard_time": 1734865939,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100203,
       "num": 296440,
       "word": "大头和大胖绝对是国乒搞笑担当",
@@ -2361,6 +2425,14 @@
       "onboard_time": 1734864679,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 94716,
+      "num": 442991,
+      "word": "上海外滩圣诞树美得nextlevel了",
+      "onboard_time": 1734865219,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 94445,
@@ -2451,6 +2523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83735,
+      "num": 216405,
+      "word": "一条plog总结考研",
+      "onboard_time": 1734864079,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83660,
       "num": 233670,
       "word": "法硕答案",
@@ -2521,14 +2601,6 @@
       "onboard_time": 1734841339,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71929,
-      "num": 350098,
-      "word": "上海外滩圣诞树美得nextlevel了",
-      "onboard_time": 1734865219,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 71385,
@@ -2683,6 +2755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 55511,
+      "num": 446401,
+      "word": "陈丽君回应最佳男主奖",
+      "onboard_time": 1734865999,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55350,
       "num": 55350,
       "word": "故宫再现冬至限定奇观",
@@ -2803,6 +2883,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 45623,
+      "num": 193308,
+      "word": "脱口秀演员入驻猫眼失败被指不知名",
+      "onboard_time": 1734866538,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43688,
       "num": 75634,
       "word": "让心情变好的氛围图",
@@ -2899,6 +2987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34901,
+      "num": 610188,
+      "word": "绩溪县长谈县政府门前开夜市",
+      "onboard_time": 1734867139,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34351,
       "num": 466872,
       "word": "考研初试结束需关注这些节点",
@@ -2952,6 +3048,14 @@
       "word": "潮头上的中国汽车",
       "onboard_time": 1734855319,
       "rank": 38,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 32111,
+      "num": 194329,
+      "word": "智界R7增程版亮相上海外滩",
+      "onboard_time": 1734866058,
+      "rank": 49,
       "category": "汽车"
     },
     {
@@ -3035,14 +3139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23742,
-      "num": 380573,
-      "word": "陈丽君回应最佳男主奖",
-      "onboard_time": 1734865999,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 23593,
       "num": 366503,
       "word": "一文梳理马航MH370事件",
@@ -3065,14 +3161,6 @@
       "onboard_time": 1734850637,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21450,
-      "num": 234930,
-      "word": "9岁女孩胃里取出直径4厘米头发团",
-      "onboard_time": 1734865939,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21089,
@@ -3169,14 +3257,6 @@
       "onboard_time": 1734797359,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7716,
-      "num": 132497,
-      "word": "智界R7增程版亮相上海外滩",
-      "onboard_time": 1734866058,
-      "rank": 49,
-      "category": "汽车"
     }
   ],
   "hotgov_list": [
