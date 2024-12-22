@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734885601148,
+  "endTime": 1734887921083,
   "band_list": [
     {
       "raw_hot": 1114347,
@@ -27,6 +27,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 496126,
+      "num": 164759,
+      "word": "减重120斤男子脸如戴人皮面具",
+      "onboard_time": 1734885316,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468437,
       "num": 249059,
       "word": "华妃娘娘凤仪万千",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 441802,
-      "num": 160222,
+      "num": 160687,
       "word": "九重紫第30集封神",
       "onboard_time": 1734878479,
       "rank": 11,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 399264,
-      "num": 159774,
+      "num": 175403,
       "word": "张雨绮 为了讨大家喜欢才穿成这样",
       "onboard_time": 1734867499,
       "rank": 12,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 300469,
-      "num": 154104,
+      "num": 155283,
       "word": "韦雪说对秦奋是爱",
       "onboard_time": 1734877160,
       "rank": 14,
@@ -105,14 +113,6 @@
       "onboard_time": 1734879440,
       "rank": 8,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 241308,
-      "num": 102255,
-      "word": "减重120斤男子脸如戴人皮面具",
-      "onboard_time": 1734885316,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204368,
@@ -163,20 +163,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 158569,
+      "num": 158569,
+      "word": "向佐 我一踢腿就会走光",
+      "onboard_time": 1734883697,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 153358,
       "num": 153358,
       "word": "冰箱贴已经美到nextlevel",
       "onboard_time": 1734874699,
       "rank": 15,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 150406,
-      "num": 111177,
-      "word": "向佐 我一踢腿就会走光",
-      "onboard_time": 1734883697,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145386,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127695,
+      "num": 169664,
+      "word": "普京回应喀山遭无人机袭击事件",
+      "onboard_time": 1734882378,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125172,
       "num": 108012,
       "word": "猎罪图鉴2好炸裂的家庭关系",
@@ -241,14 +249,6 @@
       "onboard_time": 1734868939,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108230,
-      "num": 108230,
-      "word": "普京回应喀山遭无人机袭击事件",
-      "onboard_time": 1734882378,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107919,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93044,
+      "num": 83699,
+      "word": "利路修回应退圈",
+      "onboard_time": 1734864199,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 87288,
       "num": 87288,
       "word": "梁洁 小女子不才",
@@ -315,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83699,
-      "num": 83699,
-      "word": "利路修回应退圈",
-      "onboard_time": 1734864199,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 80319,
       "num": 80319,
       "word": "贺岁档电影票房破20亿",
@@ -347,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75690,
+      "num": 75690,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74958,
       "num": 74958,
       "word": "马嘉祺我是一个多余的人",
       "onboard_time": 1734878361,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 68217,
+      "num": 68217,
+      "word": "朱婷最终梦想是身披中国球衣站在场上",
+      "onboard_time": 1734885316,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67515,
@@ -395,12 +411,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 54409,
-      "num": 54409,
-      "word": "朱婷最终梦想是身披中国球衣站在场上",
-      "onboard_time": 1734885316,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 53586,
+      "num": 53586,
+      "word": "考研查分空窗期",
+      "onboard_time": 1734886277,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 49969,
+      "num": 49969,
+      "word": "孟子义谢谢你们因为窦昭喜欢我",
+      "onboard_time": 1734873140,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 46716,
@@ -408,6 +432,30 @@
       "word": "程潇回应近期妆造争议",
       "onboard_time": 1734873259,
       "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 42230,
+      "num": 42230,
+      "word": "古人用气死蚁晒腊肉",
+      "onboard_time": 1734887414,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 38936,
+      "num": 38936,
+      "word": "皇马vs塞维利亚",
+      "onboard_time": 1734885856,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34676,
+      "num": 77392,
+      "word": "蒋欣今年第一次完整看甄嬛传",
+      "onboard_time": 1734887355,
+      "rank": 19,
       "category": "作品衍生,时尚"
     },
     {
@@ -430,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#习近平澳门之行#"
+    },
+    {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
     }
   ]
 }
