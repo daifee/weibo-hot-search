@@ -1,0 +1,410 @@
+{
+  "runTime": 1734862878242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315282,
+        "num": 1315282,
+        "word": "老人取走自己卡内200多万一家三口被抓",
+        "onboard_time": 1734855018,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716431,
+        "num": 716431,
+        "word": "考研结束",
+        "onboard_time": 1734856219,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118821,
+        "num": 598794,
+        "word": "2分钟浓缩版2024",
+        "onboard_time": 1734859699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532920,
+        "num": 532920,
+        "word": "宋祖儿 演员请就位3",
+        "onboard_time": 1734861858,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474125,
+        "num": 474125,
+        "word": "黑龙江一企业禁止员工去冰雪大世界",
+        "onboard_time": 1734854418,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709462,
+        "num": 473453,
+        "word": "黄誉博 叫徐艺洋嫂子很奇怪",
+        "onboard_time": 1734860659,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 506563,
+        "num": 459031,
+        "word": "冬至男女主分手八年还用情头",
+        "onboard_time": 1734855258,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565636,
+        "num": 452673,
+        "word": "朱丹全英文为尚雯婕庆生",
+        "onboard_time": 1734860817,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437785,
+        "num": 437785,
+        "word": "考研英语刘晓艳",
+        "onboard_time": 1734857539,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258764,
+        "num": 417091,
+        "word": "应急管理部派工作组赴上海",
+        "onboard_time": 1734857358,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556220,
+        "num": 414249,
+        "word": "殷世航 惹不起躲得起",
+        "onboard_time": 1734857718,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 411137,
+        "num": 411137,
+        "word": "4000年前地震母亲用身体护住孩子",
+        "onboard_time": 1734856577,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393228,
+        "num": 393228,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121898,
+        "num": 383588,
+        "word": "马峰押题的神",
+        "onboard_time": 1734862038,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374674,
+        "num": 374674,
+        "word": "网友评杨幂朋友圈变迁",
+        "onboard_time": 1734849618,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369704,
+        "num": 369704,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349547,
+        "num": 349547,
+        "word": "湖南卫视声明",
+        "onboard_time": 1734851179,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348609,
+        "num": 348609,
+        "word": "考研 408",
+        "onboard_time": 1734860178,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49030,
+        "num": 347716,
+        "word": "让我吃考研复试的苦",
+        "onboard_time": 1734862038,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71385,
+        "num": 347552,
+        "word": "雅姆雪山又现滑坠事故一男子遇难",
+        "onboard_time": 1734861259,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506501,
+        "num": 347525,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 347450,
+        "num": 347450,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278007,
+        "num": 278007,
+        "word": "王艺瑾造型",
+        "onboard_time": 1734860780,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232075,
+        "num": 276553,
+        "word": "考研答案",
+        "onboard_time": 1734861978,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192510,
+        "num": 276392,
+        "word": "于适广东队季军",
+        "onboard_time": 1734861679,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276378,
+        "num": 276378,
+        "word": "九重紫",
+        "onboard_time": 1734862278,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256684,
+        "num": 256684,
+        "word": "李蠕蠕 我害怕一休息就万劫不复",
+        "onboard_time": 1734860659,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248405,
+        "num": 248405,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 239216,
+        "num": 239216,
+        "word": "李昀锐说孟子义又娇又可爱",
+        "onboard_time": 1734856157,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79407,
+        "num": 215813,
+        "word": "情敌买票我上桌",
+        "onboard_time": 1734861618,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213116,
+        "num": 213116,
+        "word": "涉事企业回应禁止员工去冰雪大世界",
+        "onboard_time": 1734856878,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212512,
+        "num": 212512,
+        "word": "美巡洋舰误击美军战机",
+        "onboard_time": 1734849317,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199285,
+        "num": 199285,
+        "word": "优酷分享知否台词",
+        "onboard_time": 1734851657,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181479,
+        "num": 181479,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176051,
+        "num": 176051,
+        "word": "papi酱毕业后曾待业4年",
+        "onboard_time": 1734860238,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166405,
+        "num": 166405,
+        "word": "发现i人其实不是不喜欢说话",
+        "onboard_time": 1734848958,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155015,
+        "num": 155015,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 36,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 153468,
+        "num": 153468,
+        "word": "干噎酸奶",
+        "onboard_time": 1734849979,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146100,
+        "num": 146100,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1734857118,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291734,
+        "num": 145092,
+        "word": "搜狐时尚盛典",
+        "onboard_time": 1734861618,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142097,
+        "num": 142097,
+        "word": "法硕",
+        "onboard_time": 1734838338,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137559,
+        "num": 137559,
+        "word": "邓亚萍希望孙颖莎还是做自己",
+        "onboard_time": 1734861019,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136148,
+        "num": 136148,
+        "word": "猎罪图鉴2",
+        "onboard_time": 1734862160,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126395,
+        "num": 126395,
+        "word": "冰雪大世界回应企业禁止员工前往",
+        "onboard_time": 1734858918,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123674,
+        "num": 123674,
+        "word": "考完研后的戒断反应",
+        "onboard_time": 1734858498,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121373,
+        "num": 121373,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "台湾小伙第一次来尔滨打了3天雪仗",
+        "onboard_time": 1734854119,
+        "rank": 46,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 109730,
+        "num": 109730,
+        "word": "魏大勋工作室发布告黑声明",
+        "onboard_time": 1734862639,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107171,
+        "num": 107171,
+        "word": "谁给檀健次递个疯批本子",
+        "onboard_time": 1734860358,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87104,
+        "num": 103546,
+        "word": "5000只个股最新排雷",
+        "onboard_time": 1734862458,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#继续推进一国两制实践行稳致远#"
+    }
+  }
+}

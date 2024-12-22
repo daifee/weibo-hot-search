@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734860108354,
+  "endTime": 1734862878242,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1076948,
-      "num": 280192,
+      "num": 347525,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
       "onboard_time": 1734846379,
       "rank": 20,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709462,
+      "num": 473453,
+      "word": "黄誉博 叫徐艺洋嫂子很奇怪",
+      "onboard_time": 1734860659,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 696162,
       "num": 884940,
       "word": "13楼住户遭厨余炸弹袭击",
@@ -283,12 +291,36 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 565636,
+      "num": 452673,
+      "word": "朱丹全英文为尚雯婕庆生",
+      "onboard_time": 1734860817,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560359,
       "num": 560359,
       "word": "于适希望更多中国传统体育运动被看见",
       "onboard_time": 1734838398,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556220,
+      "num": 450120,
+      "word": "殷世航 惹不起躲得起",
+      "onboard_time": 1734857718,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 532920,
+      "num": 532920,
+      "word": "宋祖儿 演员请就位3",
+      "onboard_time": 1734861858,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 531453,
@@ -355,14 +387,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 450120,
-      "num": 450120,
-      "word": "殷世航 惹不起躲得起",
-      "onboard_time": 1734857718,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 449078,
       "num": 449078,
       "word": "干噎酸奶",
@@ -395,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 437785,
+      "num": 437785,
+      "word": "考研英语刘晓艳",
+      "onboard_time": 1734857539,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 427008,
       "num": 427008,
       "word": "396经济类联考",
@@ -419,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 406831,
-      "num": 406831,
-      "word": "考研英语刘晓艳",
-      "onboard_time": 1734857539,
-      "rank": 15,
-      "category": "教育"
+      "raw_hot": 411137,
+      "num": 411137,
+      "word": "4000年前地震母亲用身体护住孩子",
+      "onboard_time": 1734856577,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403350,
@@ -457,6 +489,14 @@
       "onboard_time": 1734839359,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 393228,
+      "num": 393228,
+      "word": "刘维节目录制中发火",
+      "onboard_time": 1734862038,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 384764,
@@ -563,20 +603,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351974,
-      "num": 351974,
-      "word": "4000年前地震母亲用身体护住孩子",
-      "onboard_time": 1734856577,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 350592,
       "num": 350592,
       "word": "今冬数九时间表",
       "onboard_time": 1734826396,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348609,
+      "num": 348609,
+      "word": "考研 408",
+      "onboard_time": 1734860178,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 347450,
+      "num": 347450,
+      "word": "九重紫大结局",
+      "onboard_time": 1734862820,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 336715,
@@ -667,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291734,
+      "num": 205572,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734852258,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289517,
       "num": 289517,
       "word": "史晓燕回应向太",
@@ -683,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278007,
+      "num": 278007,
+      "word": "王艺瑾造型",
+      "onboard_time": 1734860780,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 277766,
       "num": 277766,
       "word": "贵阳一小学4名学生欺凌1同学",
@@ -696,6 +760,14 @@
       "word": "白敬亭难哄冬至剧照",
       "onboard_time": 1734831857,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 276378,
+      "num": 276378,
+      "word": "九重紫",
+      "onboard_time": 1734862278,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -731,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258764,
+      "num": 417091,
+      "word": "应急管理部派工作组赴上海",
+      "onboard_time": 1734857358,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258045,
       "num": 258045,
       "word": "重庆理工通报硕士失联",
@@ -745,6 +825,14 @@
       "onboard_time": 1734828856,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256684,
+      "num": 256684,
+      "word": "李蠕蠕 我害怕一休息就万劫不复",
+      "onboard_time": 1734860659,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 255471,
@@ -801,6 +889,14 @@
       "onboard_time": 1734846018,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 232075,
+      "num": 276553,
+      "word": "考研答案",
+      "onboard_time": 1734861978,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 230828,
@@ -873,6 +969,14 @@
       "onboard_time": 1734842479,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213116,
+      "num": 213116,
+      "word": "涉事企业回应禁止员工去冰雪大世界",
+      "onboard_time": 1734856878,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210733,
@@ -1003,6 +1107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192510,
+      "num": 276392,
+      "word": "于适广东队季军",
+      "onboard_time": 1734861679,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190644,
       "num": 190644,
       "word": "中方就美对台军援军售提出严正交涉",
@@ -1017,14 +1129,6 @@
       "onboard_time": 1734843318,
       "rank": 32,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 189601,
-      "num": 189601,
-      "word": "涉事企业回应禁止员工去冰雪大世界",
-      "onboard_time": 1734856878,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188183,
@@ -1065,14 +1169,6 @@
       "onboard_time": 1734858918,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185505,
-      "num": 205572,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1734852258,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 181370,
@@ -1123,19 +1219,19 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 176051,
+      "num": 176051,
+      "word": "papi酱毕业后曾待业4年",
+      "onboard_time": 1734860238,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 173544,
       "num": 167084,
       "word": "男子被狗咬伤4个月后狂犬病发死亡",
       "onboard_time": 1734785179,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173145,
-      "num": 173145,
-      "word": "应急管理部派工作组赴上海",
-      "onboard_time": 1734857358,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1443,12 +1539,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137559,
+      "num": 137559,
+      "word": "邓亚萍希望孙颖莎还是做自己",
+      "onboard_time": 1734861019,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136171,
       "num": 239151,
       "word": "重庆理工大学通报硕士失联事件",
       "onboard_time": 1734848597,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 136148,
+      "num": 136148,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1734862160,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 135546,
@@ -1627,12 +1739,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 123674,
+      "num": 397959,
+      "word": "考完研后的戒断反应",
+      "onboard_time": 1734858498,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122894,
       "num": 244970,
       "word": "陈雨菲 我回来了",
       "onboard_time": 1734845418,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121898,
+      "num": 383588,
+      "word": "马峰押题的神",
+      "onboard_time": 1734862038,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 120279,
@@ -1657,6 +1785,14 @@
       "onboard_time": 1734835876,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 118821,
+      "num": 776534,
+      "word": "2分钟浓缩版2024",
+      "onboard_time": 1734859699,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118487,
@@ -1835,6 +1971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 109730,
+      "num": 109730,
+      "word": "魏大勋工作室发布告黑声明",
+      "onboard_time": 1734862639,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109026,
       "num": 109026,
       "word": "李宜雪将被社区依法依规送诊",
@@ -1873,6 +2017,14 @@
       "onboard_time": 1734848177,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 107171,
+      "num": 107171,
+      "word": "谁给檀健次递个疯批本子",
+      "onboard_time": 1734860358,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 106913,
@@ -1995,14 +2147,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 96463,
-      "num": 397959,
-      "word": "考完研后的戒断反应",
-      "onboard_time": 1734858498,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -2075,6 +2219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87104,
+      "num": 103546,
+      "word": "5000只个股最新排雷",
+      "onboard_time": 1734862458,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87012,
       "num": 962872,
       "word": "外商希望多开通直飞义乌航班",
@@ -2089,6 +2241,14 @@
       "onboard_time": 1734794179,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79407,
+      "num": 215813,
+      "word": "情敌买票我上桌",
+      "onboard_time": 1734861618,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 79403,
@@ -2137,6 +2297,14 @@
       "onboard_time": 1734841339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71385,
+      "num": 347552,
+      "word": "雅姆雪山又现滑坠事故一男子遇难",
+      "onboard_time": 1734861259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70244,
@@ -2347,6 +2515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49030,
+      "num": 347716,
+      "word": "让我吃考研复试的苦",
+      "onboard_time": 1734862038,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47963,
       "num": 339154,
       "word": "一笑倾城否认打压清水小芙蓉",
@@ -2361,14 +2537,6 @@
       "onboard_time": 1734844578,
       "rank": 38,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 47673,
-      "num": 776534,
-      "word": "2分钟浓缩版2024",
-      "onboard_time": 1734859699,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47566,
