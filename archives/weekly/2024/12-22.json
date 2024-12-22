@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734863884258,
+  "endTime": 1734866225811,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1060799,
-      "num": 393228,
+      "num": 956140,
       "word": "刘维节目录制中发火",
       "onboard_time": 1734862038,
       "rank": 12,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 751213,
+      "num": 751213,
+      "word": "长沙下雪",
+      "onboard_time": 1734864378,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 749930,
       "num": 749930,
       "word": "冬至男女主分手八年还用情头",
@@ -241,6 +249,14 @@
       "onboard_time": 1734851657,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723125,
+      "num": 723125,
+      "word": "取消公摊如何弥补之前买房的公摊",
+      "onboard_time": 1734863299,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 696162,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 634921,
+      "num": 417251,
+      "word": "腿姐长文告别考研",
+      "onboard_time": 1734864079,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 623601,
       "num": 623601,
       "word": "00后负债300万1比1复刻蜡笔小新之家",
@@ -297,6 +321,14 @@
       "onboard_time": 1734843678,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 606950,
+      "num": 382710,
+      "word": "利路修回应退圈",
+      "onboard_time": 1734864199,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 606683,
@@ -361,6 +393,14 @@
       "onboard_time": 1734846139,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478337,
+      "num": 478337,
+      "word": "徐涛 写在今年考后的感想",
+      "onboard_time": 1734864919,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 470683,
@@ -521,6 +561,14 @@
       "onboard_time": 1734839359,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 386902,
+      "num": 311957,
+      "word": "苗安素杀了宋翰",
+      "onboard_time": 1734864738,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 384764,
@@ -755,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 281966,
+      "num": 281966,
+      "word": "车厘子自由是不是真的来了",
+      "onboard_time": 1734863957,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278007,
       "num": 278007,
       "word": "王艺瑾造型",
@@ -907,12 +963,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 235339,
-      "num": 320476,
-      "word": "取消公摊如何弥补之前买房的公摊",
-      "onboard_time": 1734863299,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 232781,
+      "num": 232781,
+      "word": "徐艺洋红裙",
+      "onboard_time": 1734865578,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230828,
@@ -987,6 +1043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213181,
+      "num": 213181,
+      "word": "秦岚金色吊带裙",
+      "onboard_time": 1734864978,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213116,
       "num": 213116,
       "word": "涉事企业回应禁止员工去冰雪大世界",
@@ -1035,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202695,
+      "num": 339612,
+      "word": "九重紫HE",
+      "onboard_time": 1734865699,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200577,
       "num": 218304,
       "word": "猎罪2中式微恐吓镜头",
@@ -1073,6 +1145,14 @@
       "onboard_time": 1734837378,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198537,
+      "num": 198537,
+      "word": "恋与深空",
+      "onboard_time": 1734864378,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 198437,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1734843318,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 188342,
+      "num": 188342,
+      "word": "马嘉祺首场音乐剧repo",
+      "onboard_time": 1734865699,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 188183,
@@ -1339,6 +1427,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165487,
+      "num": 165487,
+      "word": "荷兰皇家航空客机因猪太臭紧急降落",
+      "onboard_time": 1734864499,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 164794,
+      "num": 475220,
+      "word": "上海地铁11号线预计21时恢复运营",
+      "onboard_time": 1734865339,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 164602,
       "num": 363780,
       "word": "首尔爆发大规模示威",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1734763755,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160266,
+      "num": 160266,
+      "word": "工地负责人回应地铁遭吊车侵入",
+      "onboard_time": 1734864618,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160005,
@@ -1403,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158000,
+      "num": 158000,
+      "word": "医院回应产妇家中产女被拒开出生证",
+      "onboard_time": 1734864319,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157269,
       "num": 157269,
       "word": "小狗耳朵都放下来了你倒是摸啊",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1734844277,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156285,
+      "num": 156285,
+      "word": "清密无脸男尸身份均为考生",
+      "onboard_time": 1734864618,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155756,
@@ -1475,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151218,
+      "num": 456114,
+      "word": "贺岁档电影票房破20亿",
+      "onboard_time": 1734864919,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150940,
       "num": 150940,
       "word": "冰雪大世界排队让大哥崩溃了",
@@ -1523,6 +1659,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 147763,
+      "num": 147763,
+      "word": "戚薇出发图是自拍",
+      "onboard_time": 1734865399,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145176,
       "num": 145176,
       "word": "柯南M7和新海诚的纯爱联动",
@@ -1537,6 +1681,14 @@
       "onboard_time": 1734863238,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142527,
+      "num": 309160,
+      "word": "银行通报女子实名举报前公公",
+      "onboard_time": 1734863838,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 140389,
@@ -1592,6 +1744,14 @@
       "word": "黄景瑜发孙千 孙千发黄景瑜",
       "onboard_time": 1734777798,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135156,
+      "num": 135156,
+      "word": "心肝宝贝开心果",
+      "onboard_time": 1734866058,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1700,7 +1860,7 @@
     },
     {
       "raw_hot": 128398,
-      "num": 128398,
+      "num": 211560,
       "word": "九重紫超点",
       "onboard_time": 1734863719,
       "rank": 41,
@@ -1836,7 +1996,7 @@
     },
     {
       "raw_hot": 118821,
-      "num": 897749,
+      "num": 959127,
       "word": "2分钟浓缩版2024",
       "onboard_time": 1734859699,
       "rank": 2,
@@ -2195,6 +2355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 95640,
+      "num": 321473,
+      "word": "汪峰回应汪峰定律",
+      "onboard_time": 1734864679,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -2283,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83660,
+      "num": 233670,
+      "word": "法硕答案",
+      "onboard_time": 1734865578,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79691,
       "num": 88208,
       "word": "裴秀智圣诞老人造型",
@@ -2331,12 +2507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74781,
+      "num": 233132,
+      "word": "AG挑杯五连胜",
+      "onboard_time": 1734864618,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72925,
       "num": 365448,
       "word": "清明上河图密码救女友连砍4人大案",
       "onboard_time": 1734841339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71929,
+      "num": 350098,
+      "word": "上海外滩圣诞树美得nextlevel了",
+      "onboard_time": 1734865219,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 71385,
@@ -2441,6 +2633,14 @@
       "onboard_time": 1734793579,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60113,
+      "num": 322827,
+      "word": "冰雪大世界未出现买不到票情况",
+      "onboard_time": 1734864799,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59614,
@@ -2691,6 +2891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35732,
+      "num": 332338,
+      "word": "走出考场那一刻感觉像做梦一样",
+      "onboard_time": 1734865638,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34351,
       "num": 466872,
       "word": "考研初试结束需关注这些节点",
@@ -2827,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23742,
+      "num": 380573,
+      "word": "陈丽君回应最佳男主奖",
+      "onboard_time": 1734865999,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23593,
       "num": 366503,
       "word": "一文梳理马航MH370事件",
@@ -2849,6 +3065,14 @@
       "onboard_time": 1734850637,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 21450,
+      "num": 234930,
+      "word": "9岁女孩胃里取出直径4厘米头发团",
+      "onboard_time": 1734865939,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21089,
@@ -2939,20 +3163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9103,
-      "num": 309160,
-      "word": "银行通报女子实名举报前公公",
-      "onboard_time": 1734863838,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 7800,
       "num": 149598,
       "word": "凌云战胜辣翻",
       "onboard_time": 1734797359,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7716,
+      "num": 132497,
+      "word": "智界R7增程版亮相上海外滩",
+      "onboard_time": 1734866058,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
