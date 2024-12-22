@@ -1,0 +1,410 @@
+{
+  "runTime": 1734845838770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394635,
+        "num": 1394635,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636552,
+        "num": 636552,
+        "word": "南昌通报李某雪已被送诊",
+        "onboard_time": 1734843198,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32434,
+        "num": 612377,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1380205,
+        "num": 610781,
+        "word": "湖南卫视 优酷三连扑",
+        "onboard_time": 1734844698,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 604450,
+        "num": 604450,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 4,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 560947,
+        "num": 560947,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1378303,
+        "num": 540776,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 511619,
+        "num": 511619,
+        "word": "张艺谋儿子动画处女作",
+        "onboard_time": 1734841638,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 504988,
+        "num": 504988,
+        "word": "孟子义参加演综老板觉得她疯了",
+        "onboard_time": 1734840079,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59614,
+        "num": 503229,
+        "word": "超级冰滑梯排队场面",
+        "onboard_time": 1734844277,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1087547,
+        "num": 478933,
+        "word": "32岁飞行员失联当天升机长失败",
+        "onboard_time": 1734837616,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758445,
+        "num": 474176,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553161,
+        "num": 453905,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 444345,
+        "num": 444345,
+        "word": "数二 简单",
+        "onboard_time": 1734839179,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149671,
+        "num": 395468,
+        "word": "50元可查询任意一个人的隐私",
+        "onboard_time": 1734843916,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 391076,
+        "num": 391076,
+        "word": "韩国两派爆发大规模示威",
+        "onboard_time": 1734839359,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369887,
+        "num": 369887,
+        "word": "夏以昼",
+        "onboard_time": 1734842118,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272035,
+        "num": 272035,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270012,
+        "num": 270012,
+        "word": "孟佳退出王牌新主播",
+        "onboard_time": 1734842418,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47946,
+        "num": 267526,
+        "word": "有仪式感的人多会买礼物",
+        "onboard_time": 1734844578,
+        "rank": 19,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 266884,
+        "num": 266884,
+        "word": "考研数学一才是最猛的1",
+        "onboard_time": 1734840319,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260884,
+        "num": 260884,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249497,
+        "num": 249497,
+        "word": "李昀锐林晏杀青",
+        "onboard_time": 1734842718,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247212,
+        "num": 247212,
+        "word": "恋与深空3.0万象遇你",
+        "onboard_time": 1734841578,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122894,
+        "num": 244970,
+        "word": "陈雨菲 我回来了",
+        "onboard_time": 1734845418,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244213,
+        "num": 244213,
+        "word": "上海地铁11号线乘客发声",
+        "onboard_time": 1734842960,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205804,
+        "num": 205804,
+        "word": "王者荣耀",
+        "onboard_time": 1734844819,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199969,
+        "num": 199969,
+        "word": "雅在演唱会上亲了梁龙",
+        "onboard_time": 1734845178,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198328,
+        "num": 198328,
+        "word": "演员请就位第三季阵容",
+        "onboard_time": 1734844938,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156484,
+        "num": 195081,
+        "word": "一线中产降级到县城月子中心坐月子",
+        "onboard_time": 1734844277,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194507,
+        "num": 194507,
+        "word": "大爷把路边车牌号设成银行密码",
+        "onboard_time": 1734841878,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193031,
+        "num": 193031,
+        "word": "王俊凯2024年最开心的瞬间",
+        "onboard_time": 1734844578,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150380,
+        "num": 150380,
+        "word": "虞书欣今日份云打歌",
+        "onboard_time": 1734845418,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "南昌再通报网传李宜雪失联",
+        "onboard_time": 1734843318,
+        "rank": 33,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 141424,
+        "num": 141424,
+        "word": "首尔爆发大规模示威",
+        "onboard_time": 1734841939,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139299,
+        "num": 139299,
+        "word": "白鹿敖瑞鹏白月梵星行程单",
+        "onboard_time": 1734845479,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135933,
+        "num": 135933,
+        "word": "迪丽热巴陈飞宇擦肩而过路透",
+        "onboard_time": 1734840919,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133652,
+        "num": 133652,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129534,
+        "num": 129534,
+        "word": "数三 感觉简单但是不会",
+        "onboard_time": 1734840199,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124861,
+        "num": 124861,
+        "word": "风中弹琴的葛夕",
+        "onboard_time": 1734845117,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123970,
+        "num": 123970,
+        "word": "村民上百棵果树被同村人一夜砍光",
+        "onboard_time": 1734841758,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121710,
+        "num": 121710,
+        "word": "孙膑马超战令新皮肤",
+        "onboard_time": 1734842479,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116750,
+        "num": 116750,
+        "word": "李宜雪被诊断为强迫性障碍人格障碍",
+        "onboard_time": 1734844997,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "黄景瑜这江成屹可太醒了",
+        "onboard_time": 1734844458,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113907,
+        "num": 113907,
+        "word": "哈尔滨冰雪大世界开园万人蹦迪",
+        "onboard_time": 1734844578,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112795,
+        "num": 112795,
+        "word": "白月梵星",
+        "onboard_time": 1734835338,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112754,
+        "num": 112754,
+        "word": "姜勋用泰妍名字做二行诗",
+        "onboard_time": 1734842297,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112550,
+        "num": 112550,
+        "word": "在海底打鸡蛋会发生什么",
+        "onboard_time": 1734845418,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112331,
+        "num": 112331,
+        "word": "宴遇永安",
+        "onboard_time": 1734845717,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100203,
+        "num": 111567,
+        "word": "大头和大胖绝对是国乒搞笑担当",
+        "onboard_time": 1734844578,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
+    }
+  }
+}

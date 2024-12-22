@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734844835092,
+  "endTime": 1734845838770,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -51,7 +51,15 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1253685,
+      "raw_hot": 1380205,
+      "num": 610781,
+      "word": "湖南卫视 优酷三连扑",
+      "onboard_time": 1734844698,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1378303,
       "num": 696364,
       "word": "殷世航 退赛",
       "onboard_time": 1734842897,
@@ -139,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 636552,
+      "num": 636552,
+      "word": "南昌通报李某雪已被送诊",
+      "onboard_time": 1734843198,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -169,6 +185,14 @@
       "onboard_time": 1734841638,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 560947,
+      "num": 560947,
+      "word": "离婚后给前妻转88万判返还男子33万",
+      "onboard_time": 1734843678,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 560359,
@@ -331,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369887,
+      "num": 369887,
+      "word": "夏以昼",
+      "onboard_time": 1734842118,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 362870,
       "num": 362870,
       "word": "恋与深空3.0万象遇你",
@@ -376,22 +408,6 @@
       "word": "今冬数九时间表",
       "onboard_time": 1734826396,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339518,
-      "num": 339518,
-      "word": "夏以昼",
-      "onboard_time": 1734842118,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 339096,
-      "num": 339096,
-      "word": "离婚后给前妻转88万判返还男子33万",
-      "onboard_time": 1734843678,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -515,14 +531,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273103,
-      "num": 339299,
-      "word": "南昌通报李某雪已被送诊",
-      "onboard_time": 1734843198,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 273025,
       "num": 273025,
       "word": "家长为监督孩子买窃听设备",
@@ -635,14 +643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208302,
-      "num": 208302,
-      "word": "湖南卫视 优酷三连扑",
-      "onboard_time": 1734844698,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208164,
       "num": 196763,
       "word": "韩国人吃饭为什么喜欢用银筷子",
@@ -659,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205804,
+      "num": 205804,
+      "word": "王者荣耀",
+      "onboard_time": 1734844819,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200577,
       "num": 218304,
       "word": "猎罪2中式微恐吓镜头",
       "onboard_time": 1734832876,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199969,
+      "num": 199969,
+      "word": "雅在演唱会上亲了梁龙",
+      "onboard_time": 1734845178,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 198617,
@@ -681,6 +697,14 @@
       "onboard_time": 1734844578,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198328,
+      "num": 198328,
+      "word": "演员请就位第三季阵容",
+      "onboard_time": 1734844938,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 198244,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156484,
+      "num": 208334,
+      "word": "一线中产降级到县城月子中心坐月子",
+      "onboard_time": 1734844277,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154164,
       "num": 154164,
       "word": "建议高度近视的人要定期检查",
@@ -915,8 +947,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 147323,
-      "num": 354046,
+      "raw_hot": 150380,
+      "num": 150380,
+      "word": "虞书欣今日份云打歌",
+      "onboard_time": 1734845418,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 149671,
+      "num": 395468,
       "word": "50元可查询任意一个人的隐私",
       "onboard_time": 1734843916,
       "rank": 14,
@@ -929,6 +969,14 @@
       "onboard_time": 1734784159,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139299,
+      "num": 139299,
+      "word": "白鹿敖瑞鹏白月梵星行程单",
+      "onboard_time": 1734845479,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137791,
@@ -945,14 +993,6 @@
       "onboard_time": 1734777798,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134633,
-      "num": 134633,
-      "word": "王者荣耀",
-      "onboard_time": 1734844819,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 133738,
@@ -1019,20 +1059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124861,
+      "num": 124861,
+      "word": "风中弹琴的葛夕",
+      "onboard_time": 1734845117,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124636,
       "num": 124636,
       "word": "白月梵星天道暂时不允",
       "onboard_time": 1734839179,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124216,
-      "num": 208334,
-      "word": "一线中产降级到县城月子中心坐月子",
-      "onboard_time": 1734844277,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124161,
@@ -1043,12 +1083,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123970,
+      "num": 457301,
+      "word": "村民上百棵果树被同村人一夜砍光",
+      "onboard_time": 1734841758,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123893,
       "num": 398000,
       "word": "我的2024正能量关键词",
       "onboard_time": 1734836177,
       "rank": 23,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 122894,
+      "num": 244970,
+      "word": "陈雨菲 我回来了",
+      "onboard_time": 1734845418,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 120153,
@@ -1083,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116750,
+      "num": 116750,
+      "word": "李宜雪被诊断为强迫性障碍人格障碍",
+      "onboard_time": 1734844997,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 116607,
       "num": 116607,
       "word": "你的减肥运动可能并没有消耗脂肪",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1734837498,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116079,
+      "num": 210134,
+      "word": "黄景瑜这江成屹可太醒了",
+      "onboard_time": 1734844458,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 115717,
@@ -1131,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113907,
+      "num": 158884,
+      "word": "哈尔滨冰雪大世界开园万人蹦迪",
+      "onboard_time": 1734844578,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112611,
       "num": 112611,
       "word": "24小时不睡觉的特种兵奶奶",
@@ -1147,12 +1227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112550,
+      "num": 112550,
+      "word": "在海底打鸡蛋会发生什么",
+      "onboard_time": 1734845418,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112375,
       "num": 112375,
       "word": "抱摔艺考同学男生来自农村家境不好",
       "onboard_time": 1734764957,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112331,
+      "num": 112331,
+      "word": "宴遇永安",
+      "onboard_time": 1734845717,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111546,
@@ -1187,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107916,
-      "num": 210134,
-      "word": "黄景瑜这江成屹可太醒了",
-      "onboard_time": 1734844458,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106913,
       "num": 106913,
       "word": "湖北一养老院被指窗户无玻璃环境差",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1734831497,
       "rank": 18,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 100203,
+      "num": 296440,
+      "word": "大头和大胖绝对是国乒搞笑担当",
+      "onboard_time": 1734844578,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 99566,
@@ -1307,14 +1403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 91188,
-      "num": 296440,
-      "word": "大头和大胖绝对是国乒搞笑担当",
-      "onboard_time": 1734844578,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89441,
       "num": 89441,
       "word": "孟子义给李昀锐拍日照金山合影",
@@ -1337,14 +1425,6 @@
       "onboard_time": 1734776719,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 80037,
-      "num": 457301,
-      "word": "村民上百棵果树被同村人一夜砍光",
-      "onboard_time": 1734841758,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79691,
@@ -1467,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59614,
+      "num": 503229,
+      "word": "超级冰滑梯排队场面",
+      "onboard_time": 1734844277,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59536,
       "num": 75676,
       "word": "Uzi和JackeyLove金克丝对线",
@@ -1507,14 +1595,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 54087,
-      "num": 158884,
-      "word": "哈尔滨冰雪大世界开园万人蹦迪",
-      "onboard_time": 1734844578,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 51041,
       "num": 284716,
       "word": "湘潭通报问题泥鳅案药残超10倍9人被抓",
@@ -1553,6 +1633,14 @@
       "onboard_time": 1734843439,
       "rank": 18,
       "category": "网红"
+    },
+    {
+      "raw_hot": 47946,
+      "num": 267526,
+      "word": "有仪式感的人多会买礼物",
+      "onboard_time": 1734844578,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 47566,
@@ -1635,14 +1723,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 33234,
-      "num": 371226,
-      "word": "超级冰滑梯排队场面",
-      "onboard_time": 1734844277,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32831,
       "num": 142990,
       "word": "筹2千万索要上官正义性命系编造",
@@ -1651,12 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32748,
-      "num": 160549,
-      "word": "有仪式感的人多会买礼物",
-      "onboard_time": 1734844578,
-      "rank": 38,
-      "category": "休闲"
+      "raw_hot": 32434,
+      "num": 1569029,
+      "word": "一带一路金枢纽",
+      "onboard_time": 1734837077,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30703,
@@ -1705,14 +1785,6 @@
       "onboard_time": 1734811450,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 27479,
-      "num": 1569029,
-      "word": "一带一路金枢纽",
-      "onboard_time": 1734837077,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26890,
