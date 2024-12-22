@@ -1,0 +1,410 @@
+{
+  "runTime": 1734842394663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2428066,
+        "num": 2428066,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 0,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1456284,
+        "num": 1456284,
+        "word": "数二 简单",
+        "onboard_time": 1734839179,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20107,
+        "num": 1389299,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1373919,
+        "num": 1373919,
+        "word": "32岁飞行员失联当天升机长失败",
+        "onboard_time": 1734837616,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1079791,
+        "num": 1079791,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 791530,
+        "num": 791530,
+        "word": "孟子义参加演综老板觉得她疯了",
+        "onboard_time": 1734840079,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632430,
+        "num": 632430,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582073,
+        "num": 582073,
+        "word": "数三 感觉简单但是不会",
+        "onboard_time": 1734840199,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 467208,
+        "num": 467208,
+        "word": "考研数学一才是最猛的1",
+        "onboard_time": 1734840319,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34351,
+        "num": 466872,
+        "word": "考研初试结束需关注这些节点",
+        "onboard_time": 1734842297,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 1137119,
+        "num": 465729,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 636769,
+        "num": 464582,
+        "word": "数一 大题难",
+        "onboard_time": 1734841157,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422183,
+        "num": 463735,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349774,
+        "num": 463389,
+        "word": "白月梵星",
+        "onboard_time": 1734835338,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28305,
+        "num": 462192,
+        "word": "2024我花得最值的一笔钱",
+        "onboard_time": 1734842179,
+        "rank": 14,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 246480,
+        "num": 461429,
+        "word": "李雪琴说650永远三个人",
+        "onboard_time": 1734836357,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224639,
+        "num": 459951,
+        "word": "难哄",
+        "onboard_time": 1734834077,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77470,
+        "num": 459503,
+        "word": "车润海 刑法还可以吧",
+        "onboard_time": 1734842297,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21680,
+        "num": 458215,
+        "word": "汽车娱乐进入5D时代",
+        "onboard_time": 1734840258,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80037,
+        "num": 457301,
+        "word": "村民上百棵果树被同村人一夜砍光",
+        "onboard_time": 1734841758,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321461,
+        "num": 456556,
+        "word": "韩国两派爆发大规模示威",
+        "onboard_time": 1734839359,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 456065,
+        "num": 456065,
+        "word": "法硕",
+        "onboard_time": 1734838338,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 448722,
+        "num": 448722,
+        "word": "外部塔吊施工侵入上海地铁11号线",
+        "onboard_time": 1734834438,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411421,
+        "num": 411421,
+        "word": "张艺谋儿子动画处女作",
+        "onboard_time": 1734841638,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 194722,
+        "num": 404359,
+        "word": "恋与制作人跨年烟花",
+        "onboard_time": 1734841578,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 403350,
+        "num": 403350,
+        "word": "上海地铁受损列车内部画面曝光",
+        "onboard_time": 1734840199,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203898,
+        "num": 386640,
+        "word": "李秀满公司在成都招人",
+        "onboard_time": 1734832938,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377188,
+        "num": 377188,
+        "word": "考研数学答案",
+        "onboard_time": 1734839417,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53342,
+        "num": 365448,
+        "word": "清明上河图密码救女友连砍4人大案",
+        "onboard_time": 1734841339,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143381,
+        "num": 363780,
+        "word": "首尔爆发大规模示威",
+        "onboard_time": 1734841939,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362870,
+        "num": 362870,
+        "word": "恋与深空3.0万象遇你",
+        "onboard_time": 1734841578,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 359381,
+        "num": 359381,
+        "word": "西综",
+        "onboard_time": 1734838277,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179707,
+        "num": 357558,
+        "word": "陈丽君首届电影中国最佳男主角",
+        "onboard_time": 1734824835,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293283,
+        "num": 357541,
+        "word": "上海地铁11号线抢修",
+        "onboard_time": 1734839899,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182915,
+        "num": 357533,
+        "word": "迪丽热巴陈飞宇擦肩而过路透",
+        "onboard_time": 1734840919,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357531,
+        "num": 357531,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322877,
+        "num": 322877,
+        "word": "晋江",
+        "onboard_time": 1734836778,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 304062,
+        "num": 304062,
+        "word": "上海地铁通报塔吊施工侵入11号线",
+        "onboard_time": 1734836897,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 297191,
+        "num": 297191,
+        "word": "333教育学综合",
+        "onboard_time": 1734838879,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275973,
+        "num": 275973,
+        "word": "396经济类联考",
+        "onboard_time": 1734839239,
+        "rank": 39,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 273701,
+        "num": 273701,
+        "word": "恋与深空直播预告",
+        "onboard_time": 1734841398,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228059,
+        "num": 228059,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210707,
+        "num": 210707,
+        "word": "分手2年了前女友还在刷我的卡",
+        "onboard_time": 1734823693,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198244,
+        "num": 198244,
+        "word": "大爷把路边车牌号设成银行密码",
+        "onboard_time": 1734841878,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191360,
+        "num": 191360,
+        "word": "夏以昼",
+        "onboard_time": 1734842118,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 178389,
+        "word": "姜勋用泰妍名字做二行诗",
+        "onboard_time": 1734842297,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 162395,
+        "word": "男子网贷1000元3天内需还2000元",
+        "onboard_time": 1734823693,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161131,
+        "num": 161131,
+        "word": "孟子义觉得九重紫播太快了",
+        "onboard_time": 1734823753,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157309,
+        "num": 157309,
+        "word": "胖东来部分商品转线上销售",
+        "onboard_time": 1734836477,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156235,
+        "num": 156235,
+        "word": "樊振东王楚钦再迎对决",
+        "onboard_time": 1734834377,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席澳门行的暖心一幕#"
+    }
+  }
+}
