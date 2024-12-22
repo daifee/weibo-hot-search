@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734845838770,
+  "endTime": 1734848956022,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -17,6 +17,22 @@
       "onboard_time": 1734832696,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2186073,
+      "num": 2186073,
+      "word": "南昌通报李某雪已被送诊",
+      "onboard_time": 1734843198,
+      "rank": 17,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2162897,
+      "num": 2162897,
+      "word": "湖南卫视 优酷三连扑",
+      "onboard_time": 1734844698,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1801042,
@@ -51,20 +67,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1380205,
-      "num": 610781,
-      "word": "湖南卫视 优酷三连扑",
-      "onboard_time": 1734844698,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1378303,
-      "num": 696364,
+      "num": 1020237,
       "word": "殷世航 退赛",
       "onboard_time": 1734842897,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1076948,
+      "num": 212899,
+      "word": "美国女教师强奸12岁男童怀孕被判刑",
+      "onboard_time": 1734846379,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1061566,
@@ -147,14 +163,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 636552,
-      "num": 636552,
-      "word": "南昌通报李某雪已被送诊",
-      "onboard_time": 1734843198,
-      "rank": 17,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -168,6 +176,14 @@
       "word": "00后负债300万1比1复刻蜡笔小新之家",
       "onboard_time": 1734789318,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611359,
+      "num": 560947,
+      "word": "离婚后给前妻转88万判返还男子33万",
+      "onboard_time": 1734843678,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -187,14 +203,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 560947,
-      "num": 560947,
-      "word": "离婚后给前妻转88万判返还男子33万",
-      "onboard_time": 1734843678,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 560359,
       "num": 560359,
       "word": "于适希望更多中国传统体育运动被看见",
@@ -209,6 +217,22 @@
       "onboard_time": 1734788238,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493950,
+      "num": 493950,
+      "word": "上海地铁11号线乘客发声",
+      "onboard_time": 1734842960,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486555,
+      "num": 239171,
+      "word": "苏醒大儿子正脸照",
+      "onboard_time": 1734846139,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 470683,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337479,
+      "num": 337479,
+      "word": "李宜雪",
+      "onboard_time": 1734846798,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 336715,
       "num": 336715,
       "word": "上海地铁通报塔吊施工侵入11号线",
@@ -499,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 289167,
-      "num": 289167,
-      "word": "上海地铁11号线乘客发声",
-      "onboard_time": 1734842960,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277766,
       "num": 277766,
       "word": "贵阳一小学4名学生欺凌1同学",
@@ -537,6 +561,14 @@
       "onboard_time": 1734825375,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264631,
+      "num": 239159,
+      "word": "演员请就位第三季阵容",
+      "onboard_time": 1734844938,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 258839,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230563,
+      "num": 230563,
+      "word": "崔健乐队萨克斯手刘元去世",
+      "onboard_time": 1734846618,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229948,
       "num": 229948,
       "word": "胖东来部分商品转线上销售",
@@ -641,6 +681,22 @@
       "onboard_time": 1734842479,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213388,
+      "num": 213388,
+      "word": "殷世航傲娇美要结婚了",
+      "onboard_time": 1734846018,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 208944,
+      "num": 208944,
+      "word": "金晨王安宇跳TroubleMaker",
+      "onboard_time": 1734846798,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 208164,
@@ -683,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199435,
+      "num": 199435,
+      "word": "22高考 26考研",
+      "onboard_time": 1734846498,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198617,
       "num": 265131,
       "word": "时代少年团为马嘉祺音乐剧打call",
@@ -697,14 +761,6 @@
       "onboard_time": 1734844578,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198328,
-      "num": 198328,
-      "word": "演员请就位第三季阵容",
-      "onboard_time": 1734844938,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 198244,
@@ -760,6 +816,22 @@
       "word": "当地回应农村养老院冬天窗户无玻璃",
       "onboard_time": 1734820210,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188098,
+      "num": 188098,
+      "word": "肖战成毅苏新皓开屏",
+      "onboard_time": 1734848359,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187142,
+      "num": 187142,
+      "word": "乘客讲述上海地铁11号线撞击瞬间",
+      "onboard_time": 1734846439,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -825,6 +897,14 @@
       "onboard_time": 1734786140,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171453,
+      "num": 171453,
+      "word": "全红婵夺金当地长出一个奥运村",
+      "onboard_time": 1734848478,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 170018,
@@ -1075,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124512,
+      "num": 124512,
+      "word": "李宜雪被诊断为强迫性障碍人格障碍",
+      "onboard_time": 1734844997,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 124161,
       "num": 124161,
       "word": "在举目无亲的地方才是真正的活着",
@@ -1123,6 +1211,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 118618,
+      "num": 187610,
+      "word": "武忠祥称考研数学有插曲但不意外",
+      "onboard_time": 1734846618,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118487,
       "num": 118487,
       "word": "九重紫 我爱吃这样的",
@@ -1137,14 +1233,6 @@
       "onboard_time": 1734794599,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116750,
-      "num": 116750,
-      "word": "李宜雪被诊断为强迫性障碍人格障碍",
-      "onboard_time": 1734844997,
-      "rank": 42,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 116607,
@@ -1179,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116064,
+      "num": 116064,
+      "word": "檀健次 也许我不是一个合格的偶像",
+      "onboard_time": 1734847157,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 115717,
       "num": 115717,
       "word": "白夜破晓",
@@ -1211,6 +1307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 112937,
+      "num": 112937,
+      "word": "在海底打鸡蛋会发生什么",
+      "onboard_time": 1734845418,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112611,
       "num": 112611,
       "word": "24小时不睡觉的特种兵奶奶",
@@ -1225,14 +1329,6 @@
       "onboard_time": 1734827056,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112550,
-      "num": 112550,
-      "word": "在海底打鸡蛋会发生什么",
-      "onboard_time": 1734845418,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 112375,
@@ -1275,12 +1371,36 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 109026,
+      "num": 109026,
+      "word": "李宜雪将被社区依法依规送诊",
+      "onboard_time": 1734847757,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 108642,
       "num": 108642,
       "word": "王鹤棣不小心摔倒剪进正片",
       "onboard_time": 1734788960,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107472,
+      "num": 107472,
+      "word": "苦苦的黄连要种在甜甜的土里",
+      "onboard_time": 1734846198,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107192,
+      "num": 187323,
+      "word": "AnotherMan于适封面",
+      "onboard_time": 1734848177,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106913,
@@ -1345,6 +1465,14 @@
       "onboard_time": 1734834740,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98539,
+      "num": 176173,
+      "word": "spicyhoneyrap挑战",
+      "onboard_time": 1734848239,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98114,
@@ -1451,6 +1579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 76529,
+      "num": 214370,
+      "word": "昭昭墨墨渡药吻",
+      "onboard_time": 1734848539,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76036,
       "num": 76036,
       "word": "盘点2024",
@@ -1539,12 +1675,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 64917,
+      "num": 115733,
+      "word": "全红婵和迈合村的故事",
+      "onboard_time": 1734846857,
+      "rank": 41,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 64607,
       "num": 64607,
       "word": "水蓝",
       "onboard_time": 1734793579,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61909,
+      "num": 217766,
+      "word": "上海地铁11号线故障无人员受伤",
+      "onboard_time": 1734848177,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 59614,
@@ -1689,6 +1841,14 @@
       "onboard_time": 1734822853,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42329,
+      "num": 239151,
+      "word": "重庆理工大学通报硕士失联事件",
+      "onboard_time": 1734848597,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 41337,

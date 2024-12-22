@@ -1,0 +1,410 @@
+{
+  "runTime": 1734848956022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2186073,
+        "num": 2186073,
+        "word": "南昌通报李某雪已被送诊",
+        "onboard_time": 1734843198,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2162897,
+        "num": 2162897,
+        "word": "湖南卫视 优酷三连扑",
+        "onboard_time": 1734844698,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32299,
+        "num": 1160873,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1020237,
+        "num": 1020237,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 493950,
+        "num": 493950,
+        "word": "上海地铁11号线乘客发声",
+        "onboard_time": 1734842960,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337479,
+        "num": 337479,
+        "word": "李宜雪",
+        "onboard_time": 1734846798,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 911420,
+        "num": 321592,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273249,
+        "num": 273249,
+        "word": "孟子义参加演综老板觉得她疯了",
+        "onboard_time": 1734840079,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244699,
+        "num": 244699,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 8,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 239180,
+        "num": 239180,
+        "word": "夏以昼",
+        "onboard_time": 1734842118,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 486555,
+        "num": 239171,
+        "word": "苏醒大儿子正脸照",
+        "onboard_time": 1734846139,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375314,
+        "num": 239163,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 264631,
+        "num": 239159,
+        "word": "演员请就位第三季阵容",
+        "onboard_time": 1734844938,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42329,
+        "num": 239151,
+        "word": "重庆理工大学通报硕士失联事件",
+        "onboard_time": 1734848597,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 611359,
+        "num": 239137,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239136,
+        "num": 239136,
+        "word": "张艺谋儿子动画处女作",
+        "onboard_time": 1734841638,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 230563,
+        "num": 230563,
+        "word": "崔健乐队萨克斯手刘元去世",
+        "onboard_time": 1734846618,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61909,
+        "num": 217766,
+        "word": "上海地铁11号线故障无人员受伤",
+        "onboard_time": 1734848177,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 76529,
+        "num": 214370,
+        "word": "昭昭墨墨渡药吻",
+        "onboard_time": 1734848539,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213388,
+        "num": 213388,
+        "word": "殷世航傲娇美要结婚了",
+        "onboard_time": 1734846018,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1076948,
+        "num": 212899,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208944,
+        "num": 208944,
+        "word": "金晨王安宇跳TroubleMaker",
+        "onboard_time": 1734846798,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199435,
+        "num": 199435,
+        "word": "22高考 26考研",
+        "onboard_time": 1734846498,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188098,
+        "num": 188098,
+        "word": "肖战成毅苏新皓开屏",
+        "onboard_time": 1734848359,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118618,
+        "num": 187610,
+        "word": "武忠祥称考研数学有插曲但不意外",
+        "onboard_time": 1734846618,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107192,
+        "num": 187323,
+        "word": "AnotherMan于适封面",
+        "onboard_time": 1734848177,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187142,
+        "num": 187142,
+        "word": "乘客讲述上海地铁11号线撞击瞬间",
+        "onboard_time": 1734846439,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186169,
+        "num": 186169,
+        "word": "数二 简单",
+        "onboard_time": 1734839179,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180908,
+        "num": 180908,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98539,
+        "num": 176173,
+        "word": "spicyhoneyrap挑战",
+        "onboard_time": 1734848239,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171453,
+        "num": 171453,
+        "word": "全红婵夺金当地长出一个奥运村",
+        "onboard_time": 1734848478,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167632,
+        "num": 167632,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148532,
+        "num": 148532,
+        "word": "李昀锐林晏杀青",
+        "onboard_time": 1734842718,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141049,
+        "num": 141049,
+        "word": "韩国两派爆发大规模示威",
+        "onboard_time": 1734839359,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132140,
+        "num": 132140,
+        "word": "大爷把路边车牌号设成银行密码",
+        "onboard_time": 1734841878,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124512,
+        "num": 124512,
+        "word": "李宜雪被诊断为强迫性障碍人格障碍",
+        "onboard_time": 1734844997,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124315,
+        "num": 124315,
+        "word": "50元可查询任意一个人的隐私",
+        "onboard_time": 1734843916,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123109,
+        "num": 123109,
+        "word": "一线中产降级到县城月子中心坐月子",
+        "onboard_time": 1734844277,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122862,
+        "num": 122862,
+        "word": "孟佳退出王牌新主播",
+        "onboard_time": 1734842418,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121980,
+        "num": 121980,
+        "word": "雅在演唱会上亲了梁龙",
+        "onboard_time": 1734845178,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116064,
+        "num": 116064,
+        "word": "檀健次 也许我不是一个合格的偶像",
+        "onboard_time": 1734847157,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64917,
+        "num": 115733,
+        "word": "全红婵和迈合村的故事",
+        "onboard_time": 1734846857,
+        "rank": 41,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 115657,
+        "num": 115657,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112937,
+        "num": 112937,
+        "word": "在海底打鸡蛋会发生什么",
+        "onboard_time": 1734845418,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101085,
+        "num": 111927,
+        "word": "白鹿敖瑞鹏白月梵星行程单",
+        "onboard_time": 1734845479,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111532,
+        "num": 111532,
+        "word": "风中弹琴的葛夕",
+        "onboard_time": 1734845117,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110188,
+        "num": 110188,
+        "word": "首尔爆发大规模示威",
+        "onboard_time": 1734841939,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109448,
+        "num": 109448,
+        "word": "恋与深空3.0万象遇你",
+        "onboard_time": 1734841578,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109026,
+        "num": 109026,
+        "word": "李宜雪将被社区依法依规送诊",
+        "onboard_time": 1734847757,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107472,
+        "num": 107472,
+        "word": "苦苦的黄连要种在甜甜的土里",
+        "onboard_time": 1734846198,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
+    }
+  }
+}
