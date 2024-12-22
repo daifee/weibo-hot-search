@@ -1,0 +1,410 @@
+{
+  "runTime": 1734839000376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2139425,
+        "num": 2139425,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 0,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 1671728,
+        "num": 1671728,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22029,
+        "num": 1202304,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1107123,
+        "num": 1107123,
+        "word": "32岁飞行员失联当天升机长失败",
+        "onboard_time": 1734837616,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670975,
+        "num": 670975,
+        "word": "外部塔吊施工侵入上海地铁11号线",
+        "onboard_time": 1734834438,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1412188,
+        "num": 651537,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 611915,
+        "num": 611915,
+        "word": "白月梵星",
+        "onboard_time": 1734835338,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606683,
+        "num": 606683,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 431355,
+        "num": 431355,
+        "word": "李秀满公司在成都招人",
+        "onboard_time": 1734832938,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421683,
+        "num": 421683,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402881,
+        "num": 402881,
+        "word": "难哄",
+        "onboard_time": 1734834077,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340854,
+        "num": 340854,
+        "word": "谷爱凌刷新历史纪录",
+        "onboard_time": 1734835578,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292707,
+        "num": 292707,
+        "word": "李雪琴说650永远三个人",
+        "onboard_time": 1734836357,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291784,
+        "num": 291784,
+        "word": "孟子义觉得九重紫播太快了",
+        "onboard_time": 1734823753,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290175,
+        "num": 290175,
+        "word": "法硕",
+        "onboard_time": 1734838338,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278701,
+        "num": 278701,
+        "word": "这不是树这是章丘大葱",
+        "onboard_time": 1734834257,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77584,
+        "num": 278120,
+        "word": "伊拉克老王在中国治愈了童年",
+        "onboard_time": 1734838758,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257332,
+        "num": 277444,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147034,
+        "num": 276043,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259370,
+        "num": 274355,
+        "word": "西综",
+        "onboard_time": 1734838277,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274150,
+        "num": 274150,
+        "word": "樊振东王楚钦再迎对决",
+        "onboard_time": 1734834377,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273219,
+        "num": 273219,
+        "word": "分手2年了前女友还在刷我的卡",
+        "onboard_time": 1734823693,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268278,
+        "num": 268278,
+        "word": "陈丽君首届电影中国最佳男主角",
+        "onboard_time": 1734824835,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255471,
+        "num": 255471,
+        "word": "外交部回应美国对台军援军售",
+        "onboard_time": 1734837257,
+        "rank": 23,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 88549,
+        "num": 249476,
+        "word": "谷爱凌5小时双冠",
+        "onboard_time": 1734838457,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248604,
+        "num": 248604,
+        "word": "男子网贷1000元3天内需还2000元",
+        "onboard_time": 1734823693,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238744,
+        "num": 238744,
+        "word": "广州南站通报高铁夹到乘客拖行事件",
+        "onboard_time": 1734823753,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 238306,
+        "num": 238306,
+        "word": "护士接通知上门输液却被打成脑震荡",
+        "onboard_time": 1734827537,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159238,
+        "num": 222108,
+        "word": "白敬亭难哄冬至剧照",
+        "onboard_time": 1734831857,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20556,
+        "num": 213784,
+        "word": "伏黑惠 我们的恩惠",
+        "onboard_time": 1734823815,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 210303,
+        "num": 210303,
+        "word": "晋江",
+        "onboard_time": 1734836778,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 199662,
+        "num": 199662,
+        "word": "胖东来部分商品转线上销售",
+        "onboard_time": 1734836477,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198963,
+        "num": 198963,
+        "word": "今冬数九时间表",
+        "onboard_time": 1734826396,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190644,
+        "num": 190644,
+        "word": "中方就美对台军援军售提出严正交涉",
+        "onboard_time": 1734838158,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176120,
+        "num": 176120,
+        "word": "上海地铁通报塔吊施工侵入11号线",
+        "onboard_time": 1734836897,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 171278,
+        "num": 171278,
+        "word": "考研",
+        "onboard_time": 1734823693,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94445,
+        "num": 169186,
+        "word": "这就是中国气质",
+        "onboard_time": 1734837317,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168467,
+        "num": 168467,
+        "word": "韩国人吃饭为什么喜欢用银筷子",
+        "onboard_time": 1734824354,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164039,
+        "num": 164039,
+        "word": "还有不到10天就是2025年",
+        "onboard_time": 1734830537,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "肖战冬至晒了三个饺子",
+        "onboard_time": 1734823815,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155338,
+        "num": 155338,
+        "word": "333教育学综合",
+        "onboard_time": 1734838879,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154785,
+        "num": 154785,
+        "word": "猎罪2中式微恐吓镜头",
+        "onboard_time": 1734832876,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134181,
+        "num": 134181,
+        "word": "被2024的这些瞬间硬控了",
+        "onboard_time": 1734827956,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 132637,
+        "num": 132637,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130895,
+        "num": 130895,
+        "word": "95岁老兵公园偶遇74年未见的战友",
+        "onboard_time": 1734834497,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125744,
+        "num": 125744,
+        "word": "月鳞绮纪 质疑书生理解书生",
+        "onboard_time": 1734833657,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125196,
+        "num": 125196,
+        "word": "吴昕 鸥把你穿到了身上",
+        "onboard_time": 1734823935,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124161,
+        "num": 124161,
+        "word": "在举目无亲的地方才是真正的活着",
+        "onboard_time": 1734838819,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122271,
+        "num": 122271,
+        "word": "时代少年团为马嘉祺音乐剧打call",
+        "onboard_time": 1734837378,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "我的2024正能量关键词",
+        "onboard_time": 1734836177,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
+    }
+  }
+}

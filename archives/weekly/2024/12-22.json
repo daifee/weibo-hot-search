@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734838211071,
+  "endTime": 1734839000376,
   "band_list": [
     {
       "raw_hot": 2322455,
@@ -11,6 +11,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2139425,
+      "num": 2139425,
+      "word": "考研数学",
+      "onboard_time": 1734836656,
+      "rank": 37,
+      "category": "教育,体育"
+    },
+    {
       "raw_hot": 1556739,
       "num": 1547033,
       "word": "残奥冠军枪杀女友后找酷似旧人新欢",
@@ -19,12 +27,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1104682,
-      "num": 1104682,
-      "word": "考研数学",
-      "onboard_time": 1734836656,
-      "rank": 37,
-      "category": "教育,体育"
+      "raw_hot": 1107123,
+      "num": 1107123,
+      "word": "32岁飞行员失联当天升机长失败",
+      "onboard_time": 1734837616,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1061566,
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 558089,
-      "num": 558089,
+      "raw_hot": 606683,
+      "num": 606683,
       "word": "考研英语最尴尬的是不会写尴尬",
       "onboard_time": 1734835457,
       "rank": 22,
@@ -147,20 +155,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 402881,
+      "num": 402881,
+      "word": "难哄",
+      "onboard_time": 1734834077,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384764,
       "num": 152553,
       "word": "残奥冠军新欢酷似被其枪杀的前女友",
       "onboard_time": 1734831436,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 380241,
-      "num": 380241,
-      "word": "难哄",
-      "onboard_time": 1734834077,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 374231,
@@ -227,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331191,
-      "num": 331191,
-      "word": "32岁飞行员失联当天升机长失败",
-      "onboard_time": 1734837616,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 322665,
       "num": 274097,
       "word": "分手2年了前女友还在刷我的卡",
@@ -265,6 +265,22 @@
       "onboard_time": 1734789260,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292707,
+      "num": 292707,
+      "word": "李雪琴说650永远三个人",
+      "onboard_time": 1734836357,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290175,
+      "num": 290175,
+      "word": "法硕",
+      "onboard_time": 1734838338,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 289517,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259370,
+      "num": 274355,
+      "word": "西综",
+      "onboard_time": 1734838277,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 258839,
       "num": 258839,
       "word": "还有不到10天就是2025年",
@@ -313,6 +337,22 @@
       "onboard_time": 1734828856,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257332,
+      "num": 277444,
+      "word": "于适希望更多中国传统体育运动被看见",
+      "onboard_time": 1734838398,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 255471,
+      "num": 338042,
+      "word": "外交部回应美国对台军援军售",
+      "onboard_time": 1734837257,
+      "rank": 13,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 248432,
@@ -387,12 +427,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215201,
-      "num": 338042,
-      "word": "外交部回应美国对台军援军售",
-      "onboard_time": 1734837257,
-      "rank": 13,
-      "category": "国内时政,国际时政"
+      "raw_hot": 210303,
+      "num": 210303,
+      "word": "晋江",
+      "onboard_time": 1734836778,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 208164,
@@ -443,12 +483,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 188613,
-      "num": 188613,
-      "word": "李雪琴说650永远三个人",
-      "onboard_time": 1734836357,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 190644,
+      "num": 190644,
+      "word": "中方就美对台军援军售提出严正交涉",
+      "onboard_time": 1734838158,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188183,
@@ -475,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176120,
+      "num": 176120,
+      "word": "上海地铁通报塔吊施工侵入11号线",
+      "onboard_time": 1734836897,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 173544,
       "num": 167084,
       "word": "男子被狗咬伤4个月后狂犬病发死亡",
@@ -497,22 +545,6 @@
       "onboard_time": 1734786140,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171626,
-      "num": 171626,
-      "word": "晋江",
-      "onboard_time": 1734836778,
-      "rank": 46,
-      "category": "读书作家"
-    },
-    {
-      "raw_hot": 170131,
-      "num": 170131,
-      "word": "中方就美对台军援军售提出严正交涉",
-      "onboard_time": 1734838158,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 170018,
@@ -587,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155338,
+      "num": 155338,
+      "word": "333教育学综合",
+      "onboard_time": 1734838879,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154164,
       "num": 154164,
       "word": "建议高度近视的人要定期检查",
@@ -619,12 +659,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 148027,
-      "num": 148027,
-      "word": "上海地铁通报塔吊施工侵入11号线",
-      "onboard_time": 1734836897,
-      "rank": 38,
-      "category": "辟谣/通报"
+      "raw_hot": 147034,
+      "num": 276043,
+      "word": "曾黎被中医认证深通中医之道",
+      "onboard_time": 1734838338,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 140389,
@@ -697,6 +737,14 @@
       "onboard_time": 1734827716,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124161,
+      "num": 124161,
+      "word": "在举目无亲的地方才是真正的活着",
+      "onboard_time": 1734838819,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 123893,
@@ -915,6 +963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94445,
+      "num": 873482,
+      "word": "这就是中国气质",
+      "onboard_time": 1734837317,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93756,
       "num": 93756,
       "word": "吴奇隆前妻点赞网友",
@@ -947,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88549,
+      "num": 249476,
+      "word": "谷爱凌5小时双冠",
+      "onboard_time": 1734838457,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88217,
       "num": 88217,
       "word": "翻译 gap",
@@ -963,12 +1027,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 77223,
-      "num": 873482,
-      "word": "这就是中国气质",
-      "onboard_time": 1734837317,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 77584,
+      "num": 278120,
+      "word": "伊拉克老王在中国治愈了童年",
+      "onboard_time": 1734838758,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76036,
@@ -1156,7 +1220,7 @@
     },
     {
       "raw_hot": 43029,
-      "num": 43029,
+      "num": 213784,
       "word": "伏黑惠 我们的恩惠",
       "onboard_time": 1734823815,
       "rank": 42,
@@ -1251,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22029,
+      "num": 1202304,
+      "word": "一带一路金枢纽",
+      "onboard_time": 1734837077,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21089,
       "num": 26070,
       "word": "电影最后的告别今日上映",
@@ -1340,6 +1412,9 @@
     },
     {
       "word": "#习主席澳门行的暖心一幕#"
+    },
+    {
+      "word": "#伟大祖国是澳门发展的坚强后盾#"
     }
   ]
 }
