@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734887921083,
+  "endTime": 1734888926671,
   "band_list": [
     {
       "raw_hot": 1114347,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100933,
+      "num": 100933,
+      "word": "蒋欣今年第一次完整看甄嬛传",
+      "onboard_time": 1734887355,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 99204,
       "num": 99204,
       "word": "九重紫",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 75690,
-      "num": 75690,
+      "num": 106600,
       "word": "熊孩子买号玩游戏充值1万无法退费",
       "onboard_time": 1734885856,
       "rank": 22,
@@ -451,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34676,
-      "num": 77392,
-      "word": "蒋欣今年第一次完整看甄嬛传",
-      "onboard_time": 1734887355,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 31725,
+      "num": 31725,
+      "word": "想去尔滨的心情又达到顶峰",
+      "onboard_time": 1734888794,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 29897,
@@ -465,6 +473,22 @@
       "onboard_time": 1734873620,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24762,
+      "num": 58761,
+      "word": "任嘉伦获年度时尚影响力艺人",
+      "onboard_time": 1734888616,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22612,
+      "num": 39044,
+      "word": "演员于适为何爱上了骑射",
+      "onboard_time": 1734888734,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 8658,
