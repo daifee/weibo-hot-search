@@ -1,0 +1,410 @@
+{
+  "runTime": 1734833430310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1061566,
+        "num": 1169850,
+        "word": "护士接通知上门输液却被打成脑震荡",
+        "onboard_time": 1734827537,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768334,
+        "num": 768334,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106776,
+        "num": 708115,
+        "word": "古人的过冬氛围感太足了",
+        "onboard_time": 1734788720,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 691127,
+        "num": 691127,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468303,
+        "num": 468303,
+        "word": "13楼住户遭厨余炸弹袭击",
+        "onboard_time": 1734792079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434256,
+        "num": 434256,
+        "word": "孟子义觉得九重紫播太快了",
+        "onboard_time": 1734823753,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420617,
+        "num": 420617,
+        "word": "广州南站通报高铁夹到乘客拖行事件",
+        "onboard_time": 1734823753,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 344155,
+        "num": 344155,
+        "word": "男子网贷1000元3天内需还2000元",
+        "onboard_time": 1734823693,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299431,
+        "num": 342866,
+        "word": "陈丽君首届电影中国最佳男主角",
+        "onboard_time": 1734824835,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116394,
+        "num": 342718,
+        "word": "枪杀女友的残奥冠军假释出狱找新欢",
+        "onboard_time": 1734831797,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 342644,
+        "num": 342644,
+        "word": "今冬数九时间表",
+        "onboard_time": 1734826396,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261724,
+        "num": 261724,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260152,
+        "num": 260152,
+        "word": "史晓燕回应向太",
+        "onboard_time": 1734828618,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257703,
+        "num": 257703,
+        "word": "金泰梨口误",
+        "onboard_time": 1734828856,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37653,
+        "num": 243205,
+        "word": "冰雪大世界门票最高被炒至万元",
+        "onboard_time": 1734832758,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 239921,
+        "num": 239921,
+        "word": "猎罪图鉴2女子在工厂活活饿死",
+        "onboard_time": 1734789381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238177,
+        "num": 238177,
+        "word": "张娜拉获SBS演技大赏",
+        "onboard_time": 1734828256,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219365,
+        "num": 219365,
+        "word": "肖战冬至晒了三个饺子",
+        "onboard_time": 1734823815,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 218304,
+        "word": "猎罪2中式微恐吓镜头",
+        "onboard_time": 1734832876,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217316,
+        "num": 217316,
+        "word": "家长为监督孩子买窃听设备",
+        "onboard_time": 1734825375,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316875,
+        "num": 216658,
+        "word": "分手2年了前女友还在刷我的卡",
+        "onboard_time": 1734823693,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215558,
+        "num": 215558,
+        "word": "白敬亭难哄冬至剧照",
+        "onboard_time": 1734831857,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34237,
+        "num": 205337,
+        "word": "李秀满公司在成都招人",
+        "onboard_time": 1734832938,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198169,
+        "num": 198169,
+        "word": "看到去世30年妈妈的照片消防员哭了",
+        "onboard_time": 1734803055,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 195492,
+        "num": 195492,
+        "word": "韩国人吃饭为什么喜欢用银筷子",
+        "onboard_time": 1734824354,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167890,
+        "num": 167890,
+        "word": "日军为何竭尽全力想打捞甲午沉舰",
+        "onboard_time": 1734787339,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152631,
+        "num": 152631,
+        "word": "现在动车卧铺已经发展成这样了吗",
+        "onboard_time": 1734824294,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147037,
+        "num": 147037,
+        "word": "于文文居然喜欢收集彩色厕纸",
+        "onboard_time": 1734828676,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143955,
+        "num": 143955,
+        "word": "陈都灵 仙女",
+        "onboard_time": 1734830896,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143254,
+        "num": 143254,
+        "word": "还有不到10天就是2025年",
+        "onboard_time": 1734830537,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384764,
+        "num": 140524,
+        "word": "残奥冠军新欢酷似被其枪杀的前女友",
+        "onboard_time": 1734831436,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135496,
+        "num": 135496,
+        "word": "建议高度近视的人要定期检查",
+        "onboard_time": 1734824294,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135251,
+        "num": 135251,
+        "word": "吴昕 鸥把你穿到了身上",
+        "onboard_time": 1734823935,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133738,
+        "num": 133738,
+        "word": "湖人三连胜",
+        "onboard_time": 1734832576,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133031,
+        "num": 133031,
+        "word": "被2024的这些瞬间硬控了",
+        "onboard_time": 1734827956,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124606,
+        "num": 124606,
+        "word": "苗安素真把自己当公主了",
+        "onboard_time": 1734827716,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "小姐姐买了一条阔腿裤",
+        "onboard_time": 1734827597,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120895,
+        "num": 120895,
+        "word": "你好星期六下期是北上",
+        "onboard_time": 1734823214,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120656,
+        "num": 120656,
+        "word": "考研英语",
+        "onboard_time": 1734771558,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 119567,
+        "word": "殷世航回应全国骑射比赛第三",
+        "onboard_time": 1734790820,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 119537,
+        "num": 119537,
+        "word": "冰雪大世界排队让大哥崩溃了",
+        "onboard_time": 1734824594,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111728,
+        "num": 111728,
+        "word": "男子吃未煮熟猪肉致双耳全聋",
+        "onboard_time": 1734792439,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107174,
+        "num": 107174,
+        "word": "迪丽热巴戴帷帽路透",
+        "onboard_time": 1734827056,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104391,
+        "num": 104391,
+        "word": "买冲锋衣一定要看湿透率",
+        "onboard_time": 1734831497,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99968,
+        "num": 99968,
+        "word": "巴菲特在美股市场大扫货",
+        "onboard_time": 1734823815,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94021,
+        "num": 94021,
+        "word": "夫妻玩闹时妻子黄体破裂",
+        "onboard_time": 1734759977,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93826,
+        "num": 93826,
+        "word": "大四男生遭电瓶烧伤室友被逮捕",
+        "onboard_time": 1734785839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92920,
+        "num": 92920,
+        "word": "男子被狗咬伤4个月后狂犬病发死亡",
+        "onboard_time": 1734785179,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91905,
+        "num": 91905,
+        "word": "考研",
+        "onboard_time": 1734823693,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89232,
+        "num": 89232,
+        "word": "蔚来 萤火虫",
+        "onboard_time": 1734787519,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#从习近平五赴横琴感悟琴澳和鸣之道#"
+    }
+  }
+}

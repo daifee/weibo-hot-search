@@ -1,10 +1,10 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734832142682,
+  "endTime": 1734833430310,
   "band_list": [
     {
-      "raw_hot": 957257,
-      "num": 1153161,
+      "raw_hot": 1061566,
+      "num": 1169850,
       "word": "护士接通知上门输液却被打成脑震荡",
       "onboard_time": 1734827537,
       "rank": 0,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 748478,
-      "num": 751731,
+      "raw_hot": 768334,
+      "num": 768334,
       "word": "马航MH370航班重启搜寻",
       "onboard_time": 1734801854,
       "rank": 9,
@@ -32,6 +32,14 @@
       "word": "13楼住户遭厨余炸弹袭击",
       "onboard_time": 1734792079,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 691127,
+      "num": 691127,
+      "word": "上海地铁11号线",
+      "onboard_time": 1734832696,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 384764,
+      "num": 152553,
+      "word": "残奥冠军新欢酷似被其枪杀的前女友",
+      "onboard_time": 1734831436,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 374231,
       "num": 321778,
       "word": "于洋喝错孟子义的咖啡",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 335034,
-      "num": 335034,
+      "num": 342866,
       "word": "陈丽君首届电影中国最佳男主角",
       "onboard_time": 1734824835,
       "rank": 8,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 322665,
-      "num": 165658,
+      "num": 216658,
       "word": "分手2年了前女友还在刷我的卡",
       "onboard_time": 1734823693,
       "rank": 20,
@@ -187,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257703,
+      "num": 257703,
+      "word": "金泰梨口误",
+      "onboard_time": 1734828856,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248432,
       "num": 248432,
       "word": "章昊韩维辰道歉",
@@ -227,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230695,
-      "num": 230695,
-      "word": "金泰梨口误",
-      "onboard_time": 1734828856,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224919,
       "num": 224919,
       "word": "殷世航回应全国骑射比赛第三",
@@ -259,8 +275,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215558,
+      "num": 215558,
+      "word": "白敬亭难哄冬至剧照",
+      "onboard_time": 1734831857,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208164,
-      "num": 165646,
+      "num": 195492,
       "word": "韩国人吃饭为什么喜欢用银筷子",
       "onboard_time": 1734824354,
       "rank": 21,
@@ -289,14 +313,6 @@
       "onboard_time": 1734823693,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 189499,
-      "num": 152553,
-      "word": "残奥冠军新欢酷似被其枪杀的前女友",
-      "onboard_time": 1734831436,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 188183,
@@ -403,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143254,
+      "num": 155155,
+      "word": "还有不到10天就是2025年",
+      "onboard_time": 1734830537,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140389,
       "num": 140389,
       "word": "有5种蔬菜嘌呤比肉还高",
@@ -419,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135251,
+      "num": 135251,
+      "word": "吴昕 鸥把你穿到了身上",
+      "onboard_time": 1734823935,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133738,
+      "num": 133738,
+      "word": "湖人三连胜",
+      "onboard_time": 1734832576,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132591,
       "num": 132591,
       "word": "2024年度微盘点",
@@ -433,14 +473,6 @@
       "onboard_time": 1734785958,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128204,
-      "num": 128204,
-      "word": "吴昕 鸥把你穿到了身上",
-      "onboard_time": 1734823935,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 127673,
@@ -497,6 +529,14 @@
       "onboard_time": 1734793099,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 116394,
+      "num": 342718,
+      "word": "枪杀女友的残奥冠军假释出狱找新欢",
+      "onboard_time": 1734831797,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 115717,
@@ -563,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108193,
-      "num": 108193,
-      "word": "白敬亭难哄冬至剧照",
-      "onboard_time": 1734831857,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106913,
       "num": 106913,
       "word": "湖北一养老院被指窗户无玻璃环境差",
@@ -585,6 +617,14 @@
       "onboard_time": 1734799996,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104391,
+      "num": 175319,
+      "word": "买冲锋衣一定要看湿透率",
+      "onboard_time": 1734831497,
+      "rank": 18,
+      "category": "科学科普"
     },
     {
       "raw_hot": 99566,
@@ -659,28 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88705,
-      "num": 155155,
-      "word": "还有不到10天就是2025年",
-      "onboard_time": 1734830537,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88217,
       "num": 88217,
       "word": "翻译 gap",
       "onboard_time": 1734776719,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 82911,
-      "num": 175319,
-      "word": "买冲锋衣一定要看湿透率",
-      "onboard_time": 1734831497,
-      "rank": 18,
-      "category": "科学科普"
     },
     {
       "raw_hot": 79691,
@@ -875,6 +899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 37653,
+      "num": 243205,
+      "word": "冰雪大世界门票最高被炒至万元",
+      "onboard_time": 1734832758,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 37089,
       "num": 58980,
       "word": "谁教檀健次这么展示底妆的",
@@ -883,12 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32524,
-      "num": 152573,
-      "word": "枪杀女友的残奥冠军假释出狱找新欢",
-      "onboard_time": 1734831797,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 34237,
+      "num": 205337,
+      "word": "李秀满公司在成都招人",
+      "onboard_time": 1734832938,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 30422,
@@ -897,6 +929,14 @@
       "onboard_time": 1734804673,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29411,
+      "num": 218304,
+      "word": "猎罪2中式微恐吓镜头",
+      "onboard_time": 1734832876,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 29318,
