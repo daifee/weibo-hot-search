@@ -1,0 +1,410 @@
+{
+  "runTime": 1734884697155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114347,
+        "num": 1114347,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 988951,
+        "num": 988951,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29897,
+        "num": 684810,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562120,
+        "num": 562120,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332400,
+        "num": 332400,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 4,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 244976,
+        "num": 244976,
+        "word": "特朗普上任首日拟退出世卫组织",
+        "onboard_time": 1734882259,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 468437,
+        "num": 244973,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 268915,
+        "num": 244950,
+        "word": "周芯竹说和周密曾有过快乐的时光",
+        "onboard_time": 1734877279,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244475,
+        "num": 244475,
+        "word": "停个车数据就泄露了",
+        "onboard_time": 1734879440,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 164419,
+        "num": 164419,
+        "word": "特朗普威胁巴拿马不听话就归还运河",
+        "onboard_time": 1734877641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458708,
+        "num": 162719,
+        "word": "任嘉伦回应离开欢瑞",
+        "onboard_time": 1734881959,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 441802,
+        "num": 160222,
+        "word": "九重紫第30集封神",
+        "onboard_time": 1734878479,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399264,
+        "num": 159774,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318889,
+        "num": 156909,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300469,
+        "num": 154104,
+        "word": "韦雪说对秦奋是爱",
+        "onboard_time": 1734877160,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 153358,
+        "num": 153358,
+        "word": "冰箱贴已经美到nextlevel",
+        "onboard_time": 1734874699,
+        "rank": 15,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145386,
+        "num": 145386,
+        "word": "宋莹买这么多金项链为什么一条没戴",
+        "onboard_time": 1734876560,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144864,
+        "num": 144864,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123897,
+        "num": 123897,
+        "word": "虎跳峡",
+        "onboard_time": 1734873979,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109112,
+        "num": 109112,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1734868939,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204368,
+        "num": 108951,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197477,
+        "num": 108905,
+        "word": "冬至吻戏好瓷实",
+        "onboard_time": 1734880040,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 108596,
+        "word": "孟子义李昀锐 有本事三搭",
+        "onboard_time": 1734867259,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176491,
+        "num": 108416,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8658,
+        "num": 108300,
+        "word": "马龙谈如何保持高水平",
+        "onboard_time": 1734884118,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108230,
+        "num": 108230,
+        "word": "普京回应喀山遭无人机袭击事件",
+        "onboard_time": 1734882378,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190338,
+        "num": 108160,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141313,
+        "num": 108119,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125172,
+        "num": 108012,
+        "word": "猎罪图鉴2好炸裂的家庭关系",
+        "onboard_time": 1734866359,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123456,
+        "num": 107979,
+        "word": "向佐 马面裙",
+        "onboard_time": 1734866898,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107919,
+        "num": 107919,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106995,
+        "num": 106995,
+        "word": "张萌 送上超点的小福利",
+        "onboard_time": 1734879800,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102735,
+        "num": 102735,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99204,
+        "num": 99204,
+        "word": "九重紫",
+        "onboard_time": 1734862278,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46716,
+        "num": 91859,
+        "word": "程潇回应近期妆造争议",
+        "onboard_time": 1734873259,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121500,
+        "num": 89971,
+        "word": "向佐 我一踢腿就会走光",
+        "onboard_time": 1734883697,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87288,
+        "num": 87288,
+        "word": "梁洁 小女子不才",
+        "onboard_time": 1734875720,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87147,
+        "num": 87147,
+        "word": "工作三年和读研三年相比哪个更值",
+        "onboard_time": 1734875300,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87077,
+        "num": 87077,
+        "word": "回顾2024温暖瞬间",
+        "onboard_time": 1734881420,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85940,
+        "num": 85940,
+        "word": "大爷下肢瘫痪在滑雪场上却健步如飞",
+        "onboard_time": 1734879201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83699,
+        "num": 83699,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79560,
+        "num": 79560,
+        "word": "贺岁档电影票房破20亿",
+        "onboard_time": 1734864919,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 77920,
+        "num": 77920,
+        "word": "孙千演技",
+        "onboard_time": 1734882019,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77459,
+        "num": 77459,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77004,
+        "num": 77004,
+        "word": "檀健次沈翊连瞳孔都在飙戏",
+        "onboard_time": 1734884416,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74958,
+        "num": 74958,
+        "word": "马嘉祺我是一个多余的人",
+        "onboard_time": 1734878361,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67515,
+        "num": 67515,
+        "word": "长沙下雪",
+        "onboard_time": 1734864378,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66510,
+        "num": 66510,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65811,
+        "num": 65811,
+        "word": "李沐宸红毯小白花",
+        "onboard_time": 1734875600,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63294,
+        "num": 63294,
+        "word": "黑悟空雪雕修复后金箍棒成金色",
+        "onboard_time": 1734880520,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

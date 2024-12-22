@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734881727688,
+  "endTime": 1734884697155,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -193,6 +193,14 @@
       "onboard_time": 1734846798,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 988951,
+      "num": 988951,
+      "word": "李昀锐避免大拇指露出",
+      "onboard_time": 1734881060,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 977476,
@@ -563,6 +571,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 458708,
+      "num": 162719,
+      "word": "任嘉伦回应离开欢瑞",
+      "onboard_time": 1734881959,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 457977,
       "num": 457977,
       "word": "车厘子自由是不是真的来了",
@@ -689,14 +705,6 @@
       "onboard_time": 1734856577,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410193,
-      "num": 274329,
-      "word": "李昀锐避免大拇指露出",
-      "onboard_time": 1734881060,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 405852,
@@ -940,7 +948,7 @@
     },
     {
       "raw_hot": 313447,
-      "num": 225761,
+      "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
       "onboard_time": 1734877279,
       "rank": 29,
@@ -1195,6 +1203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "特朗普上任首日拟退出世卫组织",
+      "onboard_time": 1734882259,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 244475,
+      "num": 429497,
+      "word": "停个车数据就泄露了",
+      "onboard_time": 1734879440,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 244394,
       "num": 314680,
       "word": "考研答案",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1734790820,
       "rank": 15,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 223109,
-      "num": 429497,
-      "word": "停个车数据就泄露了",
-      "onboard_time": 1734879440,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 222031,
@@ -1939,6 +1955,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164419,
+      "num": 164419,
+      "word": "特朗普威胁巴拿马不听话就归还运河",
+      "onboard_time": 1734877641,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162618,
       "num": 159872,
       "word": "范丞丞回归现在就出发2",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1734834497,
       "rank": 29,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 158956,
-      "num": 158956,
-      "word": "特朗普威胁巴拿马不听话就归还运河",
-      "onboard_time": 1734877641,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 158409,
@@ -2523,6 +2539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121500,
+      "num": 89971,
+      "word": "向佐 我一踢腿就会走光",
+      "onboard_time": 1734883697,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120279,
       "num": 120279,
       "word": "人可以淋雨 贾冰的菜值得打伞守护",
@@ -2785,6 +2809,14 @@
       "onboard_time": 1734788960,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108230,
+      "num": 108230,
+      "word": "普京回应喀山遭无人机袭击事件",
+      "onboard_time": 1734882378,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107485,
@@ -3131,6 +3163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 87077,
+      "num": 249867,
+      "word": "回顾2024温暖瞬间",
+      "onboard_time": 1734881420,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87012,
       "num": 962872,
       "word": "外商希望多开通直飞义乌航班",
@@ -3187,6 +3227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77920,
+      "num": 77920,
+      "word": "孙千演技",
+      "onboard_time": 1734882019,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77584,
       "num": 278120,
       "word": "伊拉克老王在中国治愈了童年",
@@ -3203,20 +3251,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 77004,
+      "num": 77004,
+      "word": "檀健次沈翊连瞳孔都在飙戏",
+      "onboard_time": 1734884416,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76583,
       "num": 241775,
       "word": "羽绒服背刺我冲锋衣坑骗我",
       "onboard_time": 1734850997,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 76399,
-      "num": 249867,
-      "word": "回顾2024温暖瞬间",
-      "onboard_time": 1734881420,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76036,
@@ -3993,6 +4041,14 @@
       "onboard_time": 1734822973,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8658,
+      "num": 108300,
+      "word": "马龙谈如何保持高水平",
+      "onboard_time": 1734884118,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 7800,
