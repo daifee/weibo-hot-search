@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734851996246,
+  "endTime": 1734852914278,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1733551939,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1498723,
+      "num": 1498723,
+      "word": "湖南卫视声明",
+      "onboard_time": 1734851179,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1496819,
@@ -3684,7 +3692,7 @@
     },
     {
       "raw_hot": 1076948,
-      "num": 212899,
+      "num": 213504,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
       "onboard_time": 1734846379,
       "rank": 20,
@@ -6731,6 +6739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759018,
+      "num": 759018,
+      "word": "美巡洋舰误击美军战机",
+      "onboard_time": 1734849317,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 758595,
       "num": 372962,
       "word": "黄景瑜孙千牵手走红毯",
@@ -7473,6 +7489,14 @@
       "onboard_time": 1733477480,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 707502,
+      "num": 414735,
+      "word": "优酷分享知否台词",
+      "onboard_time": 1734851657,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 706277,
@@ -9025,14 +9049,6 @@
       "onboard_time": 1733575761,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 624828,
-      "num": 624828,
-      "word": "美巡洋舰误击美军战机",
-      "onboard_time": 1734849317,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 624533,
@@ -12963,14 +12979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467209,
-      "num": 398925,
-      "word": "湖南卫视声明",
-      "onboard_time": 1734851179,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467208,
       "num": 467208,
       "word": "考研数学一才是最猛的1",
@@ -14145,6 +14153,14 @@
       "onboard_time": 1733804418,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 435059,
+      "num": 435059,
+      "word": "干噎酸奶",
+      "onboard_time": 1734849979,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 434747,
@@ -16321,14 +16337,6 @@
       "onboard_time": 1733794577,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378913,
-      "num": 378913,
-      "word": "干噎酸奶",
-      "onboard_time": 1734849979,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 378609,
@@ -19723,6 +19731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309755,
+      "num": 309755,
+      "word": "考研高考化",
+      "onboard_time": 1734852017,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 309464,
       "num": 309464,
       "word": "代号鸢",
@@ -20385,14 +20401,6 @@
       "onboard_time": 1734054500,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296956,
-      "num": 296956,
-      "word": "优酷分享知否台词",
-      "onboard_time": 1734851657,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 296928,
@@ -22913,6 +22921,14 @@
       "onboard_time": 1734437839,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258045,
+      "num": 258045,
+      "word": "重庆理工通报硕士失联",
+      "onboard_time": 1734849138,
+      "rank": 41,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 257805,
@@ -25897,14 +25913,6 @@
       "onboard_time": 1734614238,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 227112,
-      "num": 227112,
-      "word": "重庆理工通报硕士失联",
-      "onboard_time": 1734849138,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 226971,
@@ -30267,6 +30275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199325,
+      "num": 199325,
+      "word": "李昀锐高中时期旧照",
+      "onboard_time": 1734850338,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199160,
       "num": 199160,
       "word": "小小的我直播",
@@ -30985,6 +31001,14 @@
       "onboard_time": 1733800758,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196614,
+      "num": 196614,
+      "word": "发现i人其实不是不喜欢说话",
+      "onboard_time": 1734848958,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 196600,
@@ -34139,6 +34163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185505,
+      "num": 511806,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734409401,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185468,
       "num": 185468,
       "word": "张凌赫谢征你好",
@@ -34849,6 +34881,14 @@
       "onboard_time": 1734314898,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181370,
+      "num": 181370,
+      "word": "nctwish到底要干嘛",
+      "onboard_time": 1734851657,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 181348,
@@ -36315,14 +36355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174684,
-      "num": 511806,
-      "word": "搜狐时尚盛典",
-      "onboard_time": 1734409401,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 174503,
       "num": 169524,
       "word": "拍身份证照片别穿这类衣服",
@@ -37068,7 +37100,7 @@
     },
     {
       "raw_hot": 171259,
-      "num": 165466,
+      "num": 170450,
       "word": "光与夜之恋活动预告",
       "onboard_time": 1734851058,
       "rank": 32,
@@ -37265,14 +37297,6 @@
       "onboard_time": 1733997799,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170574,
-      "num": 170574,
-      "word": "nctwish到底要干嘛",
-      "onboard_time": 1734851657,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 170571,
@@ -37497,6 +37521,14 @@
       "onboard_time": 1733633717,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169843,
+      "num": 169843,
+      "word": "五大预售票房顶流",
+      "onboard_time": 1734851597,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 169834,
@@ -38041,14 +38073,6 @@
       "onboard_time": 1734242299,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167737,
-      "num": 167737,
-      "word": "发现i人其实不是不喜欢说话",
-      "onboard_time": 1734848958,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 167693,
@@ -41251,14 +41275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 155969,
-      "num": 182739,
-      "word": "李昀锐高中时期旧照",
-      "onboard_time": 1734850338,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155959,
       "num": 155959,
       "word": "AG对战佳美娜",
@@ -42435,6 +42451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152096,
+      "num": 152096,
+      "word": "许嵩在想象之中录了想象之中",
+      "onboard_time": 1734852497,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152080,
       "num": 386890,
       "word": "泽连斯基演讲时背景墙惊现库洛米徽章",
@@ -42729,6 +42753,14 @@
       "onboard_time": 1733229800,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150914,
+      "num": 174585,
+      "word": "邓亚萍寄语孙颖莎",
+      "onboard_time": 1734852518,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 150845,
@@ -44457,14 +44489,6 @@
       "onboard_time": 1733543179,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144640,
-      "num": 144640,
-      "word": "五大预售票房顶流",
-      "onboard_time": 1734851597,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 144612,
@@ -46841,6 +46865,14 @@
       "onboard_time": 1733530158,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135836,
+      "num": 135836,
+      "word": "上海地铁故障或影响周一出行",
+      "onboard_time": 1734851539,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135748,
@@ -49579,6 +49611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125182,
+      "num": 166153,
+      "word": "央视曝老年养生馆骗局",
+      "onboard_time": 1734851330,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125167,
       "num": 268358,
       "word": "林靖恩回应偷吃外卖",
@@ -50377,6 +50417,14 @@
       "onboard_time": 1734235999,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122527,
+      "num": 162444,
+      "word": "巴勒斯坦众人抢饭被挤哭",
+      "onboard_time": 1734849437,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122508,
@@ -52611,22 +52659,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 113473,
-      "num": 113473,
-      "word": "上海地铁故障或影响周一出行",
-      "onboard_time": 1734851539,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113454,
-      "num": 166153,
-      "word": "央视曝老年养生馆骗局",
-      "onboard_time": 1734851330,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113330,
       "num": 449114,
       "word": "成毅演戏把自己彻底放进角色里",
@@ -52753,6 +52785,14 @@
       "onboard_time": 1734442700,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112809,
+      "num": 112809,
+      "word": "王鹤润佳偶天成红衣高马尾打戏",
+      "onboard_time": 1734852679,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112778,
@@ -60947,6 +60987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69556,
+      "num": 217892,
+      "word": "伊拉克老王曾被甩面声吓到桌底",
+      "onboard_time": 1734852017,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69538,
       "num": 213654,
       "word": "合肥工业大学祝你研途微光",
@@ -64611,6 +64659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52571,
+      "num": 226054,
+      "word": "蜂窝版iPad会取代WiFi版吗",
+      "onboard_time": 1734849196,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52480,
       "num": 504753,
       "word": "120秒带你沉浸式体验澳门轻轨横琴线",
@@ -66995,14 +67051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43598,
-      "num": 185477,
-      "word": "蜂窝版iPad会取代WiFi版吗",
-      "onboard_time": 1734849196,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43583,
       "num": 350245,
       "word": "鼓鼓疑似未通过解说考核",
@@ -67289,6 +67337,14 @@
       "onboard_time": 1734509180,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42749,
+      "num": 242092,
+      "word": "浙江卫视跨年晚会宣传片",
+      "onboard_time": 1734848478,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 42709,
@@ -68809,14 +68865,6 @@
       "onboard_time": 1734748577,
       "rank": 14,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 37758,
-      "num": 162444,
-      "word": "巴勒斯坦众人抢饭被挤哭",
-      "onboard_time": 1734849437,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37714,
@@ -71435,14 +71483,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 30192,
-      "num": 166935,
-      "word": "浙江卫视跨年晚会宣传片",
-      "onboard_time": 1734848478,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 30111,
       "num": 147845,
       "word": "姚安娜已代言多个国产品牌",
@@ -73379,6 +73419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23593,
+      "num": 366503,
+      "word": "一文梳理马航MH370事件",
+      "onboard_time": 1734852438,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23581,
       "num": 26897,
       "word": "赵露思发文宣传蜀锦人家",
@@ -74043,6 +74091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21469,
+      "num": 166298,
+      "word": "北京卫视跨年第四波阵容",
+      "onboard_time": 1734850637,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21450,
       "num": 196766,
       "word": "醪糟麻薯撞奶",
@@ -74681,14 +74737,6 @@
       "onboard_time": 1734679938,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18976,
-      "num": 166298,
-      "word": "北京卫视跨年第四波阵容",
-      "onboard_time": 1734850637,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 18962,
@@ -75635,7 +75683,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 16148,
+      "raw_hot": 16161,
       "num": 113718,
       "word": "eSIM真正释放了iPad的生产力",
       "onboard_time": 1734851839,

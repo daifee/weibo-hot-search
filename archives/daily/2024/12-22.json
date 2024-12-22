@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734851996246,
+  "endTime": 1734852914278,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1498723,
+      "num": 1498723,
+      "word": "湖南卫视声明",
+      "onboard_time": 1734851179,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1378303,
       "num": 1020237,
       "word": "殷世航 退赛",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1076948,
-      "num": 212899,
+      "num": 213504,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
       "onboard_time": 1734846379,
       "rank": 20,
@@ -147,6 +155,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759018,
+      "num": 759018,
+      "word": "美巡洋舰误击美军战机",
+      "onboard_time": 1734849317,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 707502,
+      "num": 414735,
+      "word": "优酷分享知否台词",
+      "onboard_time": 1734851657,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 696162,
       "num": 884940,
       "word": "13楼住户遭厨余炸弹袭击",
@@ -185,14 +209,6 @@
       "onboard_time": 1734838338,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 624828,
-      "num": 624828,
-      "word": "美巡洋舰误击美军战机",
-      "onboard_time": 1734849317,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 623601,
@@ -275,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467209,
-      "num": 398925,
-      "word": "湖南卫视声明",
-      "onboard_time": 1734851179,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 467208,
       "num": 467208,
       "word": "考研数学一才是最猛的1",
@@ -329,6 +337,14 @@
       "onboard_time": 1734838277,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 435059,
+      "num": 435059,
+      "word": "干噎酸奶",
+      "onboard_time": 1734849979,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 427008,
@@ -385,14 +401,6 @@
       "onboard_time": 1734838879,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 378913,
-      "num": 378913,
-      "word": "干噎酸奶",
-      "onboard_time": 1734849979,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 377188,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309755,
+      "num": 309755,
+      "word": "考研高考化",
+      "onboard_time": 1734852017,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 307411,
       "num": 307411,
       "word": "男生滑雪摔倒后站起来那一下帅爆了",
@@ -544,14 +560,6 @@
       "word": "郑爽未履行70万案款被限消",
       "onboard_time": 1734789260,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296956,
-      "num": 296956,
-      "word": "优酷分享知否台词",
-      "onboard_time": 1734851657,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258045,
+      "num": 258045,
+      "word": "重庆理工通报硕士失联",
+      "onboard_time": 1734849138,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 257703,
       "num": 257703,
       "word": "金泰梨口误",
@@ -713,14 +729,6 @@
       "onboard_time": 1734836477,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227112,
-      "num": 227112,
-      "word": "重庆理工通报硕士失联",
-      "onboard_time": 1734849138,
-      "rank": 41,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 226971,
@@ -819,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199325,
+      "num": 199325,
+      "word": "李昀锐高中时期旧照",
+      "onboard_time": 1734850338,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198617,
       "num": 265131,
       "word": "时代少年团为马嘉祺音乐剧打call",
@@ -841,6 +857,14 @@
       "onboard_time": 1734841878,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196614,
+      "num": 196614,
+      "word": "发现i人其实不是不喜欢说话",
+      "onboard_time": 1734848958,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 194982,
@@ -915,6 +939,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185505,
+      "num": 205572,
+      "word": "搜狐时尚盛典",
+      "onboard_time": 1734852258,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181370,
+      "num": 181370,
+      "word": "nctwish到底要干嘛",
+      "onboard_time": 1734851657,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179717,
       "num": 154805,
       "word": "于文文居然喜欢收集彩色厕纸",
@@ -972,19 +1012,11 @@
     },
     {
       "raw_hot": 171259,
-      "num": 165466,
+      "num": 170450,
       "word": "光与夜之恋活动预告",
       "onboard_time": 1734851058,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 170574,
-      "num": 170574,
-      "word": "nctwish到底要干嘛",
-      "onboard_time": 1734851657,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 170018,
@@ -993,6 +1025,14 @@
       "onboard_time": 1734830896,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169843,
+      "num": 169843,
+      "word": "五大预售票房顶流",
+      "onboard_time": 1734851597,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 168120,
@@ -1009,14 +1049,6 @@
       "onboard_time": 1734823935,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167737,
-      "num": 167737,
-      "word": "发现i人其实不是不喜欢说话",
-      "onboard_time": 1734848958,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 167607,
@@ -1099,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155969,
-      "num": 182739,
-      "word": "李昀锐高中时期旧照",
-      "onboard_time": 1734850338,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154164,
       "num": 154164,
       "word": "建议高度近视的人要定期检查",
@@ -1123,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152096,
+      "num": 152096,
+      "word": "许嵩在想象之中录了想象之中",
+      "onboard_time": 1734852497,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151683,
       "num": 151683,
       "word": "月鳞绮纪 质疑书生理解书生",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1734824594,
       "rank": 34,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 150914,
+      "num": 174585,
+      "word": "邓亚萍寄语孙颖莎",
+      "onboard_time": 1734852518,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 150380,
@@ -1169,14 +1209,6 @@
       "onboard_time": 1734844997,
       "rank": 42,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 144640,
-      "num": 144640,
-      "word": "五大预售票房顶流",
-      "onboard_time": 1734851597,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 140389,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1734848597,
       "rank": 13,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 135836,
+      "num": 135836,
+      "word": "上海地铁故障或影响周一出行",
+      "onboard_time": 1734851539,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135546,
@@ -1315,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125182,
+      "num": 166153,
+      "word": "央视曝老年养生馆骗局",
+      "onboard_time": 1734851330,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124861,
       "num": 124861,
       "word": "风中弹琴的葛夕",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1734845418,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122527,
+      "num": 162444,
+      "word": "巴勒斯坦众人抢饭被挤哭",
+      "onboard_time": 1734849437,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120153,
@@ -1475,28 +1531,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 113473,
-      "num": 113473,
-      "word": "上海地铁故障或影响周一出行",
-      "onboard_time": 1734851539,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113454,
-      "num": 166153,
-      "word": "央视曝老年养生馆骗局",
-      "onboard_time": 1734851330,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112937,
       "num": 112937,
       "word": "在海底打鸡蛋会发生什么",
       "onboard_time": 1734845418,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112809,
+      "num": 112809,
+      "word": "王鹤润佳偶天成红衣高马尾打戏",
+      "onboard_time": 1734852679,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 112611,
@@ -1811,6 +1859,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 69556,
+      "num": 217892,
+      "word": "伊拉克老王曾被甩面声吓到桌底",
+      "onboard_time": 1734852017,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69337,
       "num": 69337,
       "word": "一睁眼15部良心动画开播",
@@ -1939,6 +1995,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 52571,
+      "num": 226054,
+      "word": "蜂窝版iPad会取代WiFi版吗",
+      "onboard_time": 1734849196,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 51041,
       "num": 284716,
       "word": "湘潭通报问题泥鳅案药残超10倍9人被抓",
@@ -2027,14 +2091,6 @@
       "category": "美妆,休闲"
     },
     {
-      "raw_hot": 43598,
-      "num": 185477,
-      "word": "蜂窝版iPad会取代WiFi版吗",
-      "onboard_time": 1734849196,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
       "raw_hot": 43029,
       "num": 213784,
       "word": "伏黑惠 我们的恩惠",
@@ -2051,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42749,
+      "num": 242092,
+      "word": "浙江卫视跨年晚会宣传片",
+      "onboard_time": 1734848478,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41337,
       "num": 128522,
       "word": "2025考研第2天",
@@ -2065,14 +2129,6 @@
       "onboard_time": 1734851958,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37758,
-      "num": 162444,
-      "word": "巴勒斯坦众人抢饭被挤哭",
-      "onboard_time": 1734849437,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37653,
@@ -2131,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30192,
-      "num": 166935,
-      "word": "浙江卫视跨年晚会宣传片",
-      "onboard_time": 1734848478,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 29318,
       "num": 32013,
       "word": "鞠婧祎田嘉瑞原始帧氛围感",
@@ -2179,12 +2227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23593,
+      "num": 366503,
+      "word": "一文梳理马航MH370事件",
+      "onboard_time": 1734852438,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22970,
       "num": 22970,
       "word": "国防部摆事实驳斥美抹黑中国军队",
       "onboard_time": 1734810251,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21469,
+      "num": 166298,
+      "word": "北京卫视跨年第四波阵容",
+      "onboard_time": 1734850637,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 21089,
@@ -2201,14 +2265,6 @@
       "onboard_time": 1734822432,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 18976,
-      "num": 166298,
-      "word": "北京卫视跨年第四波阵容",
-      "onboard_time": 1734850637,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 18164,
@@ -2235,7 +2291,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16148,
+      "raw_hot": 16161,
       "num": 113718,
       "word": "eSIM真正释放了iPad的生产力",
       "onboard_time": 1734851839,

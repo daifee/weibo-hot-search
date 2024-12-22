@@ -1,0 +1,410 @@
+{
+  "runTime": 1734852914278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498723,
+        "num": 1498723,
+        "word": "湖南卫视声明",
+        "onboard_time": 1734851179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 759018,
+        "num": 759018,
+        "word": "美巡洋舰误击美军战机",
+        "onboard_time": 1734849317,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25912,
+        "num": 547240,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 992894,
+        "num": 526422,
+        "word": "网友评杨幂朋友圈变迁",
+        "onboard_time": 1734849618,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435059,
+        "num": 435059,
+        "word": "干噎酸奶",
+        "onboard_time": 1734849979,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2011329,
+        "num": 434818,
+        "word": "南昌通报李某雪已被送诊",
+        "onboard_time": 1734843198,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 707502,
+        "num": 414735,
+        "word": "优酷分享知否台词",
+        "onboard_time": 1734851657,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605264,
+        "num": 410810,
+        "word": "李蠕蠕上奇葩说后差点被电视台开除",
+        "onboard_time": 1734843498,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383454,
+        "num": 383454,
+        "word": "全红婵夺金当地长出一个奥运村",
+        "onboard_time": 1734848478,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23593,
+        "num": 366503,
+        "word": "一文梳理马航MH370事件",
+        "onboard_time": 1734852438,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552846,
+        "num": 360223,
+        "word": "殷世航 退赛",
+        "onboard_time": 1734842897,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 350990,
+        "num": 350990,
+        "word": "上海地铁11号线乘客发声",
+        "onboard_time": 1734842960,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337285,
+        "num": 337285,
+        "word": "苏醒大儿子正脸照",
+        "onboard_time": 1734846139,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309755,
+        "num": 309755,
+        "word": "考研高考化",
+        "onboard_time": 1734852017,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308372,
+        "num": 308372,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258045,
+        "num": 258045,
+        "word": "重庆理工通报硕士失联",
+        "onboard_time": 1734849138,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 243622,
+        "num": 243622,
+        "word": "雄狮少年2黑屏6秒",
+        "onboard_time": 1734849377,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42749,
+        "num": 242092,
+        "word": "浙江卫视跨年晚会宣传片",
+        "onboard_time": 1734848478,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52571,
+        "num": 226054,
+        "word": "蜂窝版iPad会取代WiFi版吗",
+        "onboard_time": 1734849196,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69556,
+        "num": 217892,
+        "word": "伊拉克老王曾被甩面声吓到桌底",
+        "onboard_time": 1734852017,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797707,
+        "num": 213504,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 185505,
+        "num": 205572,
+        "word": "搜狐时尚盛典",
+        "onboard_time": 1734852258,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199325,
+        "num": 199325,
+        "word": "李昀锐高中时期旧照",
+        "onboard_time": 1734850338,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "离婚后给前妻转88万判返还男子33万",
+        "onboard_time": 1734843678,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196614,
+        "num": 196614,
+        "word": "发现i人其实不是不喜欢说话",
+        "onboard_time": 1734848958,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73516,
+        "num": 195277,
+        "word": "羽绒服背刺我冲锋衣坑骗我",
+        "onboard_time": 1734850997,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 194196,
+        "num": 194196,
+        "word": "昭昭墨墨渡药吻",
+        "onboard_time": 1734848539,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184033,
+        "num": 184033,
+        "word": "殷世航傲娇美要结婚了",
+        "onboard_time": 1734846018,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 181370,
+        "num": 181370,
+        "word": "nctwish到底要干嘛",
+        "onboard_time": 1734851657,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150914,
+        "num": 174585,
+        "word": "邓亚萍寄语孙颖莎",
+        "onboard_time": 1734852518,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129629,
+        "num": 170450,
+        "word": "光与夜之恋活动预告",
+        "onboard_time": 1734851058,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169843,
+        "num": 169843,
+        "word": "五大预售票房顶流",
+        "onboard_time": 1734851597,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162018,
+        "num": 162018,
+        "word": "孟子义参加演综老板觉得她疯了",
+        "onboard_time": 1734840079,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160818,
+        "num": 160818,
+        "word": "考研数学",
+        "onboard_time": 1734836656,
+        "rank": 33,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 152096,
+        "num": 152096,
+        "word": "许嵩在想象之中录了想象之中",
+        "onboard_time": 1734852497,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149001,
+        "num": 149001,
+        "word": "东北米线一吃一个不吱声",
+        "onboard_time": 1734848958,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140431,
+        "num": 140431,
+        "word": "于适希望更多中国传统体育运动被看见",
+        "onboard_time": 1734838398,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 135836,
+        "word": "上海地铁故障或影响周一出行",
+        "onboard_time": 1734851539,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21469,
+        "num": 133453,
+        "word": "北京卫视跨年第四波阵容",
+        "onboard_time": 1734850637,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131105,
+        "num": 131105,
+        "word": "张艺谋儿子动画处女作",
+        "onboard_time": 1734841638,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 127769,
+        "word": "金晨王安宇跳TroubleMaker",
+        "onboard_time": 1734846798,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125182,
+        "num": 125182,
+        "word": "央视曝老年养生馆骗局",
+        "onboard_time": 1734851330,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 122527,
+        "word": "巴勒斯坦众人抢饭被挤哭",
+        "onboard_time": 1734849437,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 117592,
+        "word": "演员请就位第三季阵容",
+        "onboard_time": 1734844938,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115199,
+        "num": 115199,
+        "word": "我是刑警现实原型崔道植有多厉害",
+        "onboard_time": 1734850758,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115038,
+        "num": 115038,
+        "word": "冰雪大世界游客排队像贪吃蛇",
+        "onboard_time": 1734849979,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 16161,
+        "num": 113581,
+        "word": "eSIM真正释放了iPad的生产力",
+        "onboard_time": 1734851839,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112809,
+        "num": 112809,
+        "word": "王鹤润佳偶天成红衣高马尾打戏",
+        "onboard_time": 1734852679,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111404,
+        "num": 111404,
+        "word": "崔健乐队萨克斯手刘元去世",
+        "onboard_time": 1734846618,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108522,
+        "num": 108522,
+        "word": "曾黎被中医认证深通中医之道",
+        "onboard_time": 1734838338,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习主席澳门行的暖心一幕#"
+    }
+  }
+}
