@@ -1,0 +1,410 @@
+{
+  "runTime": 1734892838119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 199933,
+        "num": 199933,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149068,
+        "num": 149068,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19534,
+        "num": 119281,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114559,
+        "num": 114559,
+        "word": "向佐 我一踢腿就会走光",
+        "onboard_time": 1734883697,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82714,
+        "num": 82714,
+        "word": "特朗普上任首日拟退出世卫组织",
+        "onboard_time": 1734882259,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72027,
+        "num": 72027,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 5,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 98704,
+        "num": 69968,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79670,
+        "num": 68676,
+        "word": "九重紫第30集封神",
+        "onboard_time": 1734878479,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67113,
+        "num": 67113,
+        "word": "车厘子自由是不是真的来了",
+        "onboard_time": 1734863957,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20159,
+        "num": 65345,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170002,
+        "num": 65172,
+        "word": "减重120斤男子脸如戴人皮面具",
+        "onboard_time": 1734885316,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71685,
+        "num": 65136,
+        "word": "张雨绮 为了讨大家喜欢才穿成这样",
+        "onboard_time": 1734867499,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64971,
+        "num": 64971,
+        "word": "熊孩子买号玩游戏充值1万无法退费",
+        "onboard_time": 1734885856,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61594,
+        "num": 61594,
+        "word": "蒋欣今年第一次完整看甄嬛传",
+        "onboard_time": 1734887355,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 60790,
+        "num": 60790,
+        "word": "九重紫大结局",
+        "onboard_time": 1734862820,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55332,
+        "num": 55332,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45709,
+        "num": 45709,
+        "word": "冰箱贴已经美到nextlevel",
+        "onboard_time": 1734874699,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 43682,
+        "num": 43682,
+        "word": "普京回应喀山遭无人机袭击事件",
+        "onboard_time": 1734882378,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35765,
+        "num": 35765,
+        "word": "考研查分空窗期",
+        "onboard_time": 1734886277,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8022,
+        "num": 35741,
+        "word": "程潇黄雅琼热聊",
+        "onboard_time": 1734892632,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54921,
+        "num": 35684,
+        "word": "孟子义李昀锐 有本事三搭",
+        "onboard_time": 1734867259,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54440,
+        "num": 35617,
+        "word": "周芯竹说和周密曾有过快乐的时光",
+        "onboard_time": 1734877279,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53740,
+        "num": 35561,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48952,
+        "num": 35518,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40722,
+        "num": 35456,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37048,
+        "num": 35407,
+        "word": "九重紫",
+        "onboard_time": 1734862278,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35834,
+        "num": 35371,
+        "word": "范丞丞 我现在急需要鼓励啊",
+        "onboard_time": 1734871339,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35328,
+        "num": 35328,
+        "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
+        "onboard_time": 1734869298,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33579,
+        "num": 33579,
+        "word": "利路修回应退圈",
+        "onboard_time": 1734864199,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33423,
+        "num": 33423,
+        "word": "韦雪说对秦奋是爱",
+        "onboard_time": 1734877160,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31510,
+        "num": 31510,
+        "word": "任嘉伦回应离开欢瑞",
+        "onboard_time": 1734881959,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27654,
+        "num": 27654,
+        "word": "虎跳峡",
+        "onboard_time": 1734873979,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 27612,
+        "num": 27612,
+        "word": "停个车数据就泄露了",
+        "onboard_time": 1734879440,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27544,
+        "num": 27544,
+        "word": "新的一年愿你有爱愿你被爱",
+        "onboard_time": 1734888433,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25404,
+        "num": 25404,
+        "word": "回顾2024温暖瞬间",
+        "onboard_time": 1734881420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25346,
+        "num": 25346,
+        "word": "檀健次沈翊连瞳孔都在飙戏",
+        "onboard_time": 1734884416,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25331,
+        "num": 25331,
+        "word": "张兰否认向太节目上内涵她",
+        "onboard_time": 1734890773,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25324,
+        "num": 25324,
+        "word": "猎罪图鉴 好哭",
+        "onboard_time": 1734884778,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24439,
+        "num": 24439,
+        "word": "宋莹买这么多金项链为什么一条没戴",
+        "onboard_time": 1734876560,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24263,
+        "num": 24263,
+        "word": "皇马vs塞维利亚",
+        "onboard_time": 1734885856,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20528,
+        "num": 23735,
+        "word": "演员于适为何爱上了骑射",
+        "onboard_time": 1734888734,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23604,
+        "num": 23604,
+        "word": "取消公摊如何弥补之前买房的公摊",
+        "onboard_time": 1734863299,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23472,
+        "num": 23472,
+        "word": "梁洁 小女子不才",
+        "onboard_time": 1734875720,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23425,
+        "num": 23425,
+        "word": "直播间榜一大哥1周骗走女主播7.4万",
+        "onboard_time": 1734869959,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22816,
+        "num": 22816,
+        "word": "朱婷最终梦想是身披中国球衣站在场上",
+        "onboard_time": 1734885316,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21560,
+        "num": 22809,
+        "word": "刘维节目录制中发火",
+        "onboard_time": 1734862038,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21234,
+        "num": 22807,
+        "word": "长沙下雪",
+        "onboard_time": 1734864378,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 22792,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1734868939,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20347,
+        "num": 22784,
+        "word": "工作三年和读研三年相比哪个更值",
+        "onboard_time": 1734875300,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20137,
+        "num": 22779,
+        "word": "张萌 送上超点的小福利",
+        "onboard_time": 1734879800,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}
