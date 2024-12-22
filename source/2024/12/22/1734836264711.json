@@ -1,0 +1,410 @@
+{
+  "runTime": 1734836264711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2322455,
+        "num": 2322455,
+        "word": "上海地铁11号线",
+        "onboard_time": 1734832696,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1423343,
+        "num": 1423343,
+        "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+        "onboard_time": 1734832518,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91430,
+        "num": 931992,
+        "word": "古人的过冬氛围感太足了",
+        "onboard_time": 1734788720,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 731181,
+        "num": 731181,
+        "word": "外部塔吊施工侵入上海地铁11号线",
+        "onboard_time": 1734834438,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 564926,
+        "num": 564926,
+        "word": "护士接通知上门输液却被打成脑震荡",
+        "onboard_time": 1734827537,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521422,
+        "num": 521422,
+        "word": "马航MH370航班重启搜寻",
+        "onboard_time": 1734801854,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466869,
+        "num": 466869,
+        "word": "这不是树这是章丘大葱",
+        "onboard_time": 1734834257,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425292,
+        "num": 425292,
+        "word": "李秀满公司在成都招人",
+        "onboard_time": 1734832938,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389316,
+        "num": 389316,
+        "word": "孟子义觉得九重紫播太快了",
+        "onboard_time": 1734823753,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323792,
+        "num": 323792,
+        "word": "白月梵星",
+        "onboard_time": 1734835338,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323624,
+        "num": 323624,
+        "word": "广州南站通报高铁夹到乘客拖行事件",
+        "onboard_time": 1734823753,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 307035,
+        "num": 307035,
+        "word": "难哄",
+        "onboard_time": 1734834077,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298978,
+        "num": 298978,
+        "word": "男子网贷1000元3天内需还2000元",
+        "onboard_time": 1734823693,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47585,
+        "num": 284716,
+        "word": "湘潭通报问题泥鳅案药残超10倍9人被抓",
+        "onboard_time": 1734834918,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 276386,
+        "num": 276386,
+        "word": "白敬亭难哄冬至剧照",
+        "onboard_time": 1734831857,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275931,
+        "num": 275931,
+        "word": "陈丽君首届电影中国最佳男主角",
+        "onboard_time": 1734824835,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263722,
+        "num": 263722,
+        "word": "00后负债300万1比1复刻蜡笔小新之家",
+        "onboard_time": 1734789318,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260240,
+        "num": 260240,
+        "word": "樊振东王楚钦再迎对决",
+        "onboard_time": 1734834377,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237544,
+        "num": 237544,
+        "word": "还有不到10天就是2025年",
+        "onboard_time": 1734830537,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187627,
+        "num": 236179,
+        "word": "谷爱凌刷新历史纪录",
+        "onboard_time": 1734835578,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298994,
+        "num": 235764,
+        "word": "分手2年了前女友还在刷我的卡",
+        "onboard_time": 1734823693,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235155,
+        "num": 235155,
+        "word": "今冬数九时间表",
+        "onboard_time": 1734826396,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225281,
+        "num": 225281,
+        "word": "考研英语最尴尬的是不会写尴尬",
+        "onboard_time": 1734835457,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86497,
+        "num": 209292,
+        "word": "我的2024正能量关键词",
+        "onboard_time": 1734836177,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 158390,
+        "num": 204711,
+        "word": "詹姆斯又一个历史第一",
+        "onboard_time": 1734834377,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200577,
+        "num": 200577,
+        "word": "猎罪2中式微恐吓镜头",
+        "onboard_time": 1734832876,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196763,
+        "num": 196763,
+        "word": "韩国人吃饭为什么喜欢用银筷子",
+        "onboard_time": 1734824354,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170018,
+        "num": 170018,
+        "word": "陈都灵 仙女",
+        "onboard_time": 1734830896,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169037,
+        "num": 169037,
+        "word": "肖战冬至晒了三个饺子",
+        "onboard_time": 1734823815,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159182,
+        "num": 159182,
+        "word": "95岁老兵公园偶遇74年未见的战友",
+        "onboard_time": 1734834497,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 150940,
+        "num": 150940,
+        "word": "冰雪大世界排队让大哥崩溃了",
+        "onboard_time": 1734824594,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146846,
+        "num": 146846,
+        "word": "猎罪图鉴2女子在工厂活活饿死",
+        "onboard_time": 1734789381,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146170,
+        "num": 146170,
+        "word": "月鳞绮纪 质疑书生理解书生",
+        "onboard_time": 1734833657,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32831,
+        "num": 142990,
+        "word": "筹2千万索要上官正义性命系编造",
+        "onboard_time": 1734834316,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141615,
+        "num": 141615,
+        "word": "张娜拉获SBS演技大赏",
+        "onboard_time": 1734828256,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138128,
+        "num": 138128,
+        "word": "考研",
+        "onboard_time": 1734823693,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137732,
+        "num": 137732,
+        "word": "金泰梨口误",
+        "onboard_time": 1734828856,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132959,
+        "num": 132959,
+        "word": "建议高度近视的人要定期检查",
+        "onboard_time": 1734824294,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132953,
+        "num": 132953,
+        "word": "13楼住户遭厨余炸弹袭击",
+        "onboard_time": 1734792079,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131568,
+        "num": 131568,
+        "word": "马龙年度总结",
+        "onboard_time": 1734835276,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130351,
+        "num": 130351,
+        "word": "吴昕 鸥把你穿到了身上",
+        "onboard_time": 1734823935,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123790,
+        "num": 123790,
+        "word": "史晓燕回应向太",
+        "onboard_time": 1734828618,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119778,
+        "num": 119778,
+        "word": "两位女战友分别74年因一次搭话重逢",
+        "onboard_time": 1734835876,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 119716,
+        "num": 119716,
+        "word": "穿厚底雪地靴或导致足底筋膜炎",
+        "onboard_time": 1734834858,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118774,
+        "num": 118774,
+        "word": "现在动车卧铺已经发展成这样了吗",
+        "onboard_time": 1734824294,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116096,
+        "num": 116096,
+        "word": "男子吃未煮熟猪肉致双耳全聋",
+        "onboard_time": 1734792439,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112611,
+        "num": 112611,
+        "word": "24小时不睡觉的特种兵奶奶",
+        "onboard_time": 1734834016,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110417,
+        "num": 110417,
+        "word": "苗安素真把自己当公主了",
+        "onboard_time": 1734827716,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109372,
+        "num": 109372,
+        "word": "被2024的这些瞬间硬控了",
+        "onboard_time": 1734827956,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99094,
+        "num": 99094,
+        "word": "眼科专家称多眨眼可以保护眼睛",
+        "onboard_time": 1734834740,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门行#"
+    }
+  }
+}

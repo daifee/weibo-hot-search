@@ -1,7 +1,23 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734833430310,
+  "endTime": 1734836264711,
   "band_list": [
+    {
+      "raw_hot": 2322455,
+      "num": 2322455,
+      "word": "上海地铁11号线",
+      "onboard_time": 1734832696,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1423343,
+      "num": 1423343,
+      "word": "残奥冠军枪杀女友后找酷似旧人新欢",
+      "onboard_time": 1734832518,
+      "rank": 1,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1061566,
       "num": 1169850,
@@ -27,19 +43,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 731181,
+      "num": 731181,
+      "word": "外部塔吊施工侵入上海地铁11号线",
+      "onboard_time": 1734834438,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 696162,
       "num": 884940,
       "word": "13楼住户遭厨余炸弹袭击",
       "onboard_time": 1734792079,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 691127,
-      "num": 691127,
-      "word": "上海地铁11号线",
-      "onboard_time": 1734832696,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -67,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466869,
+      "num": 466869,
+      "word": "这不是树这是章丘大葱",
+      "onboard_time": 1734834257,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463490,
       "num": 463490,
       "word": "广州南站通报高铁夹到乘客拖行事件",
@@ -89,6 +113,14 @@
       "onboard_time": 1734771558,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 425292,
+      "num": 425292,
+      "word": "李秀满公司在成都招人",
+      "onboard_time": 1734832938,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 384764,
@@ -155,8 +187,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 323792,
+      "num": 323792,
+      "word": "白月梵星",
+      "onboard_time": 1734835338,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322665,
-      "num": 216658,
+      "num": 235764,
       "word": "分手2年了前女友还在刷我的卡",
       "onboard_time": 1734823693,
       "rank": 20,
@@ -169,6 +209,14 @@
       "onboard_time": 1734795499,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307035,
+      "num": 307035,
+      "word": "难哄",
+      "onboard_time": 1734834077,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 302465,
@@ -195,12 +243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276386,
+      "num": 276386,
+      "word": "白敬亭难哄冬至剧照",
+      "onboard_time": 1734831857,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273025,
       "num": 273025,
       "word": "家长为监督孩子买窃听设备",
       "onboard_time": 1734825375,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260240,
+      "num": 260240,
+      "word": "樊振东王楚钦再迎对决",
+      "onboard_time": 1734834377,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 257703,
@@ -243,12 +307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237544,
+      "num": 237544,
+      "word": "还有不到10天就是2025年",
+      "onboard_time": 1734830537,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "肖战冬至晒了三个饺子",
       "onboard_time": 1734823815,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225281,
+      "num": 225281,
+      "word": "考研英语最尴尬的是不会写尴尬",
+      "onboard_time": 1734835457,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 224919,
@@ -275,16 +355,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 215558,
-      "num": 215558,
-      "word": "白敬亭难哄冬至剧照",
-      "onboard_time": 1734831857,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208164,
-      "num": 195492,
+      "num": 196763,
       "word": "韩国人吃饭为什么喜欢用银筷子",
       "onboard_time": 1734824354,
       "rank": 21,
@@ -297,6 +369,14 @@
       "onboard_time": 1734759977,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200577,
+      "num": 218304,
+      "word": "猎罪2中式微恐吓镜头",
+      "onboard_time": 1734832876,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 194982,
@@ -321,6 +401,14 @@
       "onboard_time": 1734820210,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187627,
+      "num": 236179,
+      "word": "谷爱凌刷新历史纪录",
+      "onboard_time": 1734835578,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 179717,
@@ -355,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170018,
+      "num": 170018,
+      "word": "陈都灵 仙女",
+      "onboard_time": 1734830896,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168120,
       "num": 168120,
       "word": "被2024的这些瞬间硬控了",
@@ -387,12 +483,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "95岁老兵公园偶遇74年未见的战友",
+      "onboard_time": 1734834497,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 158409,
       "num": 158409,
       "word": "你好星期六下期是北上",
       "onboard_time": 1734823214,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158390,
+      "num": 204711,
+      "word": "詹姆斯又一个历史第一",
+      "onboard_time": 1734834377,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 154164,
@@ -411,20 +523,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152509,
-      "num": 152509,
-      "word": "陈都灵 仙女",
-      "onboard_time": 1734830896,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 150940,
+      "num": 150940,
+      "word": "冰雪大世界排队让大哥崩溃了",
+      "onboard_time": 1734824594,
+      "rank": 34,
+      "category": "旅游"
     },
     {
-      "raw_hot": 143254,
-      "num": 155155,
-      "word": "还有不到10天就是2025年",
-      "onboard_time": 1734830537,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 146170,
+      "num": 146170,
+      "word": "月鳞绮纪 质疑书生理解书生",
+      "onboard_time": 1734833657,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 140389,
@@ -475,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131568,
+      "num": 131568,
+      "word": "马龙年度总结",
+      "onboard_time": 1734835276,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127673,
       "num": 127673,
       "word": "再见爱人 姐姐妹妹站起来",
@@ -491,20 +611,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121934,
-      "num": 121934,
-      "word": "冰雪大世界排队让大哥崩溃了",
-      "onboard_time": 1734824594,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "巴菲特在美股市场大扫货",
       "onboard_time": 1734823815,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119778,
+      "num": 119778,
+      "word": "两位女战友分别74年因一次搭话重逢",
+      "onboard_time": 1734835876,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 119716,
+      "num": 119716,
+      "word": "穿厚底雪地靴或导致足底筋膜炎",
+      "onboard_time": 1734834858,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118487,
@@ -563,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112611,
+      "num": 112611,
+      "word": "24小时不睡觉的特种兵奶奶",
+      "onboard_time": 1734834016,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112557,
       "num": 112557,
       "word": "迪丽热巴戴帷帽路透",
@@ -588,7 +724,7 @@
     },
     {
       "raw_hot": 110451,
-      "num": 709126,
+      "num": 931992,
       "word": "古人的过冬氛围感太足了",
       "onboard_time": 1734788720,
       "rank": 2,
@@ -641,6 +777,14 @@
       "onboard_time": 1734791899,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99094,
+      "num": 99094,
+      "word": "眼科专家称多眨眼可以保护眼睛",
+      "onboard_time": 1734834740,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98114,
@@ -705,6 +849,14 @@
       "onboard_time": 1734776719,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 86497,
+      "num": 209292,
+      "word": "我的2024正能量关键词",
+      "onboard_time": 1734836177,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 79691,
@@ -851,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47585,
+      "num": 284716,
+      "word": "湘潭通报问题泥鳅案药残超10倍9人被抓",
+      "onboard_time": 1734834918,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 47566,
       "num": 50197,
       "word": "喀山本周末所有大型活动取消",
@@ -915,12 +1075,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34237,
-      "num": 205337,
-      "word": "李秀满公司在成都招人",
-      "onboard_time": 1734832938,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 32831,
+      "num": 142990,
+      "word": "筹2千万索要上官正义性命系编造",
+      "onboard_time": 1734834316,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30422,
@@ -929,14 +1089,6 @@
       "onboard_time": 1734804673,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29411,
-      "num": 218304,
-      "word": "猎罪2中式微恐吓镜头",
-      "onboard_time": 1734832876,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 29318,
