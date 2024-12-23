@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734967407101,
+  "endTime": 1734968247300,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1581686,
+      "num": 1349020,
+      "word": "女子睡觉被丈夫刺伤致大量失血",
+      "onboard_time": 1734964160,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1553582,
       "num": 1553582,
       "word": "蛇年纪念币预约",
@@ -41,14 +49,6 @@
       "onboard_time": 1734954017,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1349020,
-      "num": 1349020,
-      "word": "女子睡觉被丈夫刺伤致大量失血",
-      "onboard_time": 1734964160,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1348127,
@@ -667,6 +667,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 413555,
+      "num": 413555,
+      "word": "蛇年纪念币好难抢",
+      "onboard_time": 1734965000,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 413512,
       "num": 413512,
       "word": "官方回应32岁飞行员失联事件",
@@ -971,14 +979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286717,
-      "num": 286717,
-      "word": "蛇年纪念币好难抢",
-      "onboard_time": 1734965000,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 283896,
       "num": 306582,
       "word": "李秀满带内娱女团闯海外",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1734949577,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278418,
+      "num": 245906,
+      "word": "韩国21天魔鬼减肥掉秤法",
+      "onboard_time": 1734964820,
+      "rank": 25,
+      "category": "运动健身"
     },
     {
       "raw_hot": 278221,
@@ -1123,12 +1131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245906,
-      "num": 245906,
-      "word": "韩国21天魔鬼减肥掉秤法",
-      "onboard_time": 1734964820,
-      "rank": 25,
-      "category": "运动健身"
+      "raw_hot": 247626,
+      "num": 179483,
+      "word": "杨祐宁谈老婆生产 真的掉了一块肉",
+      "onboard_time": 1734966801,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 244802,
@@ -1377,6 +1385,14 @@
       "onboard_time": 1734952697,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206218,
+      "num": 206218,
+      "word": "李昀锐他们说我是小狗",
+      "onboard_time": 1734966141,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 206137,
@@ -1651,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179483,
-      "num": 179483,
-      "word": "杨祐宁谈老婆生产 真的掉了一块肉",
-      "onboard_time": 1734966801,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179248,
       "num": 179248,
       "word": "胡塞武装称袭击美军杜鲁门号航母",
@@ -1752,6 +1760,14 @@
       "word": "诈骗团伙在缅甸盖楼藏5000多个骗子",
       "onboard_time": 1734924856,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168630,
+      "num": 556844,
+      "word": "女子婚后长期被家暴法院发保护令",
+      "onboard_time": 1734966438,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2009,14 +2025,6 @@
       "onboard_time": 1734923237,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150897,
-      "num": 150897,
-      "word": "李昀锐他们说我是小狗",
-      "onboard_time": 1734966141,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 150849,
@@ -2539,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114529,
+      "num": 226151,
+      "word": "3个穴位安神助眠",
+      "onboard_time": 1734966801,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113752,
       "num": 219336,
       "word": "Faker李龙馥同框",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1734944118,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111662,
+      "num": 111662,
+      "word": "咒术回战最终卷加页",
+      "onboard_time": 1734965480,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 111049,
@@ -2691,14 +2715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100354,
-      "num": 226151,
-      "word": "3个穴位安神助眠",
-      "onboard_time": 1734966801,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "2024年你的目标都实现了吗",
@@ -2737,14 +2753,6 @@
       "onboard_time": 1734932957,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94910,
-      "num": 556844,
-      "word": "女子婚后长期被家暴法院发保护令",
-      "onboard_time": 1734966438,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93044,
@@ -2905,6 +2913,14 @@
       "onboard_time": 1734882019,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77552,
+      "num": 335474,
+      "word": "禁止员工去冰雪大世界企业道歉",
+      "onboard_time": 1734967698,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77459,
@@ -3515,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38514,
+      "num": 265930,
+      "word": "当地回应公司通知不加班罚款50元",
+      "onboard_time": 1734966141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38191,
       "num": 257162,
       "word": "宋茜T锦绣十二月刊封面",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1734900911,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 36058,
+      "num": 220971,
+      "word": "明星减肥法",
+      "onboard_time": 1734966859,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 36014,
@@ -3683,14 +3715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27877,
-      "num": 265930,
-      "word": "当地回应公司通知不加班罚款50元",
-      "onboard_time": 1734966141,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27544,
       "num": 34711,
       "word": "新的一年愿你有爱愿你被爱",
@@ -3755,6 +3779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22260,
+      "num": 175472,
+      "word": "A2OMAY全员5A级风景区",
+      "onboard_time": 1734965901,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 22103,
       "num": 22103,
       "word": "盲人带导盲犬医院看病被拦",
@@ -3803,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18014,
+      "num": 175851,
+      "word": "律师称飞机锁座涉嫌侵权",
+      "onboard_time": 1734967759,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17506,
       "num": 192172,
       "word": "现在流行智驾游",
@@ -3811,20 +3851,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17149,
+      "num": 178043,
+      "word": "AL晋级德杯四强",
+      "onboard_time": 1734963801,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 16737,
       "num": 329846,
       "word": "荣耀Magic7全系升级大王影像",
       "onboard_time": 1734939318,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16708,
-      "num": 220971,
-      "word": "明星减肥法",
-      "onboard_time": 1734966859,
-      "rank": 29,
-      "category": "运动健身"
     },
     {
       "raw_hot": 16226,
