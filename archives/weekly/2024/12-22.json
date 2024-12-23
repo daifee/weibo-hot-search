@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734964751178,
+  "endTime": 1734967407101,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -115,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1553582,
+      "num": 1553582,
+      "word": "蛇年纪念币预约",
+      "onboard_time": 1734962780,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1545988,
       "num": 1545988,
       "word": "越来越容易打到臭车了",
@@ -152,6 +160,14 @@
       "word": "老人取走自己卡内200多万一家三口被抓",
       "onboard_time": 1734855018,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1349020,
+      "num": 1349020,
+      "word": "女子睡觉被丈夫刺伤致大量失血",
+      "onboard_time": 1734964160,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1160295,
-      "num": 1185647,
-      "word": "蛇年纪念币预约",
-      "onboard_time": 1734962780,
+      "raw_hot": 1113719,
+      "num": 691573,
+      "word": "女子生产前4小时才知道自己怀孕",
+      "onboard_time": 1734965361,
       "rank": 4,
-      "category": "财经"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1093245,
@@ -875,6 +891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589502,
+      "num": 589502,
+      "word": "刘诗诗方给平台发公函回应离婚",
+      "onboard_time": 1734957199,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586981,
       "num": 415660,
       "word": "孟子义李昀锐 有本事三搭",
@@ -1411,19 +1435,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 389232,
+      "num": 389232,
+      "word": "蛇年纪念钞预约",
+      "onboard_time": 1734965180,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386678,
       "num": 291997,
       "word": "李昀锐直播",
       "onboard_time": 1734868159,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 385364,
-      "num": 385364,
-      "word": "刘诗诗方给平台发公函回应离婚",
-      "onboard_time": 1734957199,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1513,6 +1537,14 @@
       "onboard_time": 1734937758,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365608,
+      "num": 365608,
+      "word": "白鹿驯猴",
+      "onboard_time": 1734964700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 362870,
@@ -1731,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314000,
-      "num": 420262,
-      "word": "女子睡觉被丈夫刺伤致大量失血",
-      "onboard_time": 1734964160,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 313447,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
@@ -1852,7 +1876,7 @@
     },
     {
       "raw_hot": 292721,
-      "num": 540849,
+      "num": 559221,
       "word": "被铁路售票员的手速惊到了",
       "onboard_time": 1734959660,
       "rank": 28,
@@ -1899,12 +1923,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286717,
+      "num": 286717,
+      "word": "蛇年纪念币好难抢",
+      "onboard_time": 1734965000,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
       "onboard_time": 1734849377,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283896,
+      "num": 306582,
+      "word": "李秀满带内娱女团闯海外",
+      "onboard_time": 1734963559,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281144,
@@ -2187,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245906,
+      "num": 245906,
+      "word": "韩国21天魔鬼减肥掉秤法",
+      "onboard_time": 1734964820,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 244802,
       "num": 244802,
       "word": "徐克 镜头美学",
@@ -2361,14 +2409,6 @@
       "onboard_time": 1734958698,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225783,
-      "num": 306582,
-      "word": "李秀满带内娱女团闯海外",
-      "onboard_time": 1734963559,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 225568,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1734963260,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208481,
+      "num": 208481,
+      "word": "王楚钦与刘国正夫妇合照",
+      "onboard_time": 1734966020,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208343,
@@ -3171,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179483,
+      "num": 179483,
+      "word": "杨祐宁谈老婆生产 真的掉了一块肉",
+      "onboard_time": 1734966801,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179338,
       "num": 154545,
       "word": "现在动车卧铺已经发展成这样了吗",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1734854119,
       "rank": 30,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 176908,
+      "num": 176908,
+      "word": "贺峻霖 脱口秀",
+      "onboard_time": 1734965180,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 176051,
@@ -3883,6 +3947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150897,
+      "num": 150897,
+      "word": "李昀锐他们说我是小狗",
+      "onboard_time": 1734966141,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150849,
       "num": 152141,
       "word": "迪丽热巴2张嘻嘻迪",
@@ -4313,6 +4385,14 @@
       "onboard_time": 1734855977,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133198,
+      "num": 133198,
+      "word": "白鹿 全浩进宣传费准备好了吗",
+      "onboard_time": 1734966919,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 132976,
@@ -5251,6 +5331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100354,
+      "num": 226151,
+      "word": "3个穴位安神助眠",
+      "onboard_time": 1734966801,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100203,
       "num": 296440,
       "word": "大头和大胖绝对是国乒搞笑担当",
@@ -5401,6 +5489,14 @@
       "onboard_time": 1734871700,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94910,
+      "num": 556844,
+      "word": "女子婚后长期被家暴法院发保护令",
+      "onboard_time": 1734966438,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94716,
@@ -6075,6 +6171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 61089,
+      "num": 215247,
+      "word": "歌手沈梦瑶",
+      "onboard_time": 1734962060,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60797,
       "num": 208397,
       "word": "被抱摔艺考女生回应疑被恶意竞争",
@@ -6249,14 +6353,6 @@
       "onboard_time": 1734910036,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54581,
-      "num": 222380,
-      "word": "白鹿驯猴",
-      "onboard_time": 1734964700,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 53586,
@@ -6465,6 +6561,14 @@
       "onboard_time": 1734901931,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 46796,
+      "num": 594006,
+      "word": "对大运河沉淀2500年的历史有实感了",
+      "onboard_time": 1734965721,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46692,
@@ -7059,6 +7163,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27877,
+      "num": 265930,
+      "word": "当地回应公司通知不加班罚款50元",
+      "onboard_time": 1734966141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27544,
       "num": 34711,
       "word": "新的一年愿你有爱愿你被爱",
@@ -7273,6 +7385,14 @@
       "onboard_time": 1734939318,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16708,
+      "num": 220971,
+      "word": "明星减肥法",
+      "onboard_time": 1734966859,
+      "rank": 29,
+      "category": "运动健身"
     },
     {
       "raw_hot": 16620,
