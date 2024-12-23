@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734946656950,
+  "endTime": 1734949475952,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 907609,
+      "num": 377158,
+      "word": "金善旴疑似点到拼好饭",
+      "onboard_time": 1734947600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 899383,
       "num": 899383,
       "word": "特朗普大笑称马斯克当不了总统",
@@ -361,6 +369,14 @@
       "onboard_time": 1734938356,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 859526,
+      "num": 1137524,
+      "word": "男子举报中学副校长出轨自己",
+      "onboard_time": 1734946278,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 849776,
@@ -739,12 +755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582602,
+      "num": 582602,
+      "word": "唐尚珺78岁母亲希望他挣钱结婚",
+      "onboard_time": 1734945618,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576467,
       "num": 576467,
       "word": "张艺谋儿子动画处女作",
       "onboard_time": 1734841638,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 568394,
+      "num": 568394,
+      "word": "林更新 谢谢啊林一下次我自己来",
+      "onboard_time": 1734948019,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 565636,
@@ -824,6 +856,14 @@
       "word": "华筝 草原公主",
       "onboard_time": 1734932238,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 516407,
+      "num": 374848,
+      "word": "张馨予晒妈妈与张颂文合照",
+      "onboard_time": 1734945079,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -1035,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430683,
+      "num": 430683,
+      "word": "会计发现领导语气不对劲保住296万",
+      "onboard_time": 1734947839,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428810,
       "num": 428810,
       "word": "黑神话悟空被山寨了",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1734839239,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 423039,
+      "num": 423039,
+      "word": "李昀锐聊吻戏 情到浓时",
+      "onboard_time": 1734945679,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 421844,
@@ -1259,6 +1315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 369629,
+      "num": 369629,
+      "word": "湖南冲撞小学生案一审宣判",
+      "onboard_time": 1734948077,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368461,
       "num": 368461,
       "word": "遭恶犬袭击4岁男童或需全身换血",
@@ -1384,6 +1448,14 @@
       "word": "蒋欣最喜欢甄嬛传的滴血认亲",
       "onboard_time": 1734867439,
       "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 330228,
+      "num": 330228,
+      "word": "年度歌手",
+      "onboard_time": 1734946339,
+      "rank": 30,
       "category": "作品衍生,时尚"
     },
     {
@@ -1587,14 +1659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283826,
-      "num": 283826,
-      "word": "张馨予晒妈妈与张颂文合照",
-      "onboard_time": 1734945079,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281144,
       "num": 281144,
       "word": "D社再曝宋旻浩服兵役造假",
@@ -1641,14 +1705,6 @@
       "onboard_time": 1734831857,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274356,
-      "num": 307985,
-      "word": "李昀锐聊吻戏 情到浓时",
-      "onboard_time": 1734945679,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 274013,
@@ -2019,14 +2075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225159,
-      "num": 252561,
-      "word": "唐尚珺78岁母亲希望他挣钱结婚",
-      "onboard_time": 1734945618,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224929,
       "num": 224929,
       "word": "徐克选角",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1734909315,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220618,
+      "num": 202417,
+      "word": "舒淇为肖战新片打call",
+      "onboard_time": 1734947238,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 219858,
@@ -2289,6 +2345,14 @@
       "onboard_time": 1734879800,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202362,
+      "num": 202362,
+      "word": "春节孙颖莎也要打比赛",
+      "onboard_time": 1734948257,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 201117,
@@ -2571,14 +2635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189290,
-      "num": 189290,
-      "word": "年度歌手",
-      "onboard_time": 1734946339,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "任嘉伦状态",
@@ -2619,12 +2675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187686,
-      "num": 187686,
-      "word": "男子举报中学副校长出轨自己",
-      "onboard_time": 1734946278,
-      "rank": 31,
-      "category": "舆论监督"
+      "raw_hot": 187211,
+      "num": 207395,
+      "word": "希林娜依高拖行小狗",
+      "onboard_time": 1734949278,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 187142,
@@ -2929,6 +2985,14 @@
       "onboard_time": 1734876920,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167825,
+      "num": 167825,
+      "word": "王者姬小满小橘子新皮肤",
+      "onboard_time": 1734947359,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 167788,
@@ -3315,6 +3379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150359,
+      "num": 150359,
+      "word": "九重紫 庆功宴",
+      "onboard_time": 1734949458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150278,
       "num": 150278,
       "word": "东北米线一吃一个不吱声",
@@ -3361,6 +3433,14 @@
       "onboard_time": 1734866839,
       "rank": 44,
       "category": "体育,时尚"
+    },
+    {
+      "raw_hot": 148203,
+      "num": 148203,
+      "word": "02年女生县城开公交月薪2000元",
+      "onboard_time": 1734946880,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147763,
@@ -3419,6 +3499,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145044,
+      "num": 145044,
+      "word": "一诺请粉丝看电影",
+      "onboard_time": 1734948919,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144986,
       "num": 144986,
       "word": "微博之夜推荐",
@@ -3441,6 +3529,14 @@
       "onboard_time": 1734946038,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141888,
+      "num": 141888,
+      "word": "SBS合作舞台",
+      "onboard_time": 1734947777,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 141650,
@@ -3515,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137923,
+      "num": 137923,
+      "word": "金建希被曝戒严当天在整形医院停留",
+      "onboard_time": 1734947058,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137791,
       "num": 137791,
       "word": "穿厚底雪地靴或导致足底筋膜炎",
@@ -3529,6 +3633,14 @@
       "onboard_time": 1734861019,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136982,
+      "num": 136982,
+      "word": "陈佩斯等了60年的剧本",
+      "onboard_time": 1734947417,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 136641,
@@ -3659,12 +3771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131636,
+      "num": 131636,
+      "word": "两栖攻击舰076即将下水",
+      "onboard_time": 1734948199,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 131568,
       "num": 264374,
       "word": "马龙年度总结",
       "onboard_time": 1734835276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131262,
+      "num": 131262,
+      "word": "毛不易接受不了另一半喜欢别的歌手",
+      "onboard_time": 1734949098,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 131230,
@@ -3681,6 +3809,14 @@
       "onboard_time": 1734884416,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130654,
+      "num": 130654,
+      "word": "熊猫妈妈把妹猪搂在怀里亲了10086次",
+      "onboard_time": 1734946937,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130480,
@@ -4339,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106389,
+      "num": 370003,
+      "word": "外嫁女没分到土地补偿款起诉村民组",
+      "onboard_time": 1734947897,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105534,
       "num": 105218,
       "word": "李帝勋救场金泰梨",
@@ -4707,6 +4851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87701,
+      "num": 137140,
+      "word": "官方回应中学副校长被举报通奸出轨",
+      "onboard_time": 1734948618,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 87532,
       "num": 163452,
       "word": "今年考研题目到底难不难",
@@ -4867,12 +5019,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 76065,
+      "num": 137045,
+      "word": "宋雨琦费加罗高定封面",
+      "onboard_time": 1734948558,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 76036,
       "num": 76036,
       "word": "盘点2024",
       "onboard_time": 1734772218,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75899,
+      "num": 205234,
+      "word": "金善旴点到液体外卖勺",
+      "onboard_time": 1734949278,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 74781,
@@ -5107,12 +5275,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63139,
+      "num": 206607,
+      "word": "PEL名人堂黄金一代",
+      "onboard_time": 1734948739,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 60797,
       "num": 208397,
       "word": "被抱摔艺考女生回应疑被恶意竞争",
       "onboard_time": 1734940578,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60434,
+      "num": 200372,
+      "word": "动漫女角色人气顶流",
+      "onboard_time": 1734949278,
+      "rank": 29,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 60113,
@@ -5609,6 +5793,14 @@
       "onboard_time": 1734885856,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38647,
+      "num": 382399,
+      "word": "大量老师晒学生视频走红",
+      "onboard_time": 1734949098,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38191,
