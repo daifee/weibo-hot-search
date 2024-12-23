@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734992452068,
+  "endTime": 1734993500090,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -3291,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178083,
+      "num": 178083,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177391,
       "num": 177391,
       "word": "胡先煦范丞丞拥抱",
@@ -5139,14 +5147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111306,
-      "num": 111306,
-      "word": "在家产女开出生证需做亲子鉴定",
-      "onboard_time": 1734989652,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111049,
       "num": 189338,
       "word": "九重紫草地吻",
@@ -6219,7 +6219,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63149,
+      "raw_hot": 63205,
       "num": 63149,
       "word": "不要传刀哥被警察带走了",
       "onboard_time": 1734979031,
@@ -6321,6 +6321,14 @@
       "onboard_time": 1734957318,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 58748,
+      "num": 58748,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
     },
     {
       "raw_hot": 58644,
@@ -6467,6 +6475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52775,
+      "num": 52775,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -6585,14 +6601,6 @@
       "onboard_time": 1734952818,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 49047,
-      "num": 49047,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 49030,
@@ -7083,14 +7091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35436,
-      "num": 35436,
-      "word": "多家航司回应飞机锁座越来越多",
-      "onboard_time": 1734989351,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34901,
       "num": 610188,
       "word": "绩溪县长谈县政府门前开夜市",
@@ -7483,6 +7483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 24299,
+      "num": 24299,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
@@ -7515,6 +7523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22337,
+      "num": 22337,
+      "word": "香港10平米月租8000的家",
+      "onboard_time": 1734988030,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22260,
       "num": 175472,
       "word": "A2OMAY全员5A级风景区",
@@ -7531,20 +7547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22081,
-      "num": 22081,
-      "word": "香港10平米月租8000的家",
-      "onboard_time": 1734988030,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 22043,
       "num": 290347,
       "word": "脱口秀演员组团对鸿蒙开麦",
       "onboard_time": 1734933138,
       "rank": 22,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 21736,
+      "num": 31897,
+      "word": "官方辟谣苏州大量外企撤资",
+      "onboard_time": 1734982151,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 21469,
@@ -7561,6 +7577,14 @@
       "onboard_time": 1734810491,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19983,
+      "num": 21633,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 19918,
@@ -7611,22 +7635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18852,
-      "num": 18852,
-      "word": "陈乔恩实现了鸡佛自由",
-      "onboard_time": 1734980771,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18755,
-      "num": 31897,
-      "word": "官方辟谣苏州大量外企撤资",
-      "onboard_time": 1734982151,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 18611,
       "num": 230921,
       "word": "在澳洲感受到了佛山咏春拳的含金量",
@@ -7667,20 +7675,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17536,
+      "num": 152767,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17506,
       "num": 192172,
       "word": "现在流行智驾游",
       "onboard_time": 1734928281,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 17387,
-      "num": 18373,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 17149,
@@ -7747,12 +7755,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14538,
-      "num": 97148,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 15816,
+      "num": 49022,
+      "word": "消防员没有火灾也在救人",
+      "onboard_time": 1734988992,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 14413,
@@ -7835,14 +7843,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11301,
-      "num": 49022,
-      "word": "消防员没有火灾也在救人",
-      "onboard_time": 1734988992,
-      "rank": 9,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 11261,
       "num": 28953,
       "word": "李昀锐小狗比心",
@@ -7889,6 +7889,14 @@
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9638,
+      "num": 60011,
+      "word": "行业协会谈三亚酒店春节限价十年",
+      "onboard_time": 1734993131,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9501,

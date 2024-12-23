@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734992452068,
+  "endTime": 1734993500090,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -139,6 +139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 178083,
+      "num": 178083,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "白鹿驯猴",
@@ -241,14 +249,6 @@
       "onboard_time": 1734963559,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111306,
-      "num": 111306,
-      "word": "在家产女开出生证需做亲子鉴定",
-      "onboard_time": 1734989652,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110895,
@@ -379,7 +379,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63149,
+      "raw_hot": 63205,
       "num": 63149,
       "word": "不要传刀哥被警察带走了",
       "onboard_time": 1734979031,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58748,
+      "num": 58748,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 58297,
       "num": 58297,
       "word": "肖秀荣给2026考生的建议",
@@ -427,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 52775,
+      "num": 52775,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -441,14 +457,6 @@
       "onboard_time": 1734968418,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49047,
-      "num": 49047,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 42192,
@@ -489,14 +497,6 @@
       "onboard_time": 1734975612,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35436,
-      "num": 35436,
-      "word": "多家航司回应飞机锁座越来越多",
-      "onboard_time": 1734989351,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34484,
@@ -563,6 +563,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 24299,
+      "num": 24299,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
@@ -571,12 +579,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22081,
-      "num": 22081,
+      "raw_hot": 22337,
+      "num": 22337,
       "word": "香港10平米月租8000的家",
       "onboard_time": 1734988030,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 21736,
+      "num": 31897,
+      "word": "官方辟谣苏州大量外企撤资",
+      "onboard_time": 1734982151,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 19983,
+      "num": 21633,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 19525,
@@ -595,22 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18852,
-      "num": 18852,
-      "word": "陈乔恩实现了鸡佛自由",
-      "onboard_time": 1734980771,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18755,
-      "num": 31897,
-      "word": "官方辟谣苏州大量外企撤资",
-      "onboard_time": 1734982151,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 18400,
       "num": 24972,
       "word": "10件仪式感小事告别2024",
@@ -627,12 +635,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17387,
-      "num": 18373,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 17536,
+      "num": 152767,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16021,
@@ -643,12 +651,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14538,
-      "num": 97148,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 15816,
+      "num": 49022,
+      "word": "消防员没有火灾也在救人",
+      "onboard_time": 1734988992,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 11434,
@@ -664,14 +672,6 @@
       "word": "解码中华文化基因",
       "onboard_time": 1734983350,
       "rank": 24,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 11301,
-      "num": 49022,
-      "word": "消防员没有火灾也在救人",
-      "onboard_time": 1734988992,
-      "rank": 9,
       "category": "正能量"
     },
     {
@@ -697,6 +697,14 @@
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9638,
+      "num": 60011,
+      "word": "行业协会谈三亚酒店春节限价十年",
+      "onboard_time": 1734993131,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
