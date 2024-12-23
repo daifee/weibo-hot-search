@@ -1,0 +1,410 @@
+{
+  "runTime": 1734922501840,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854530,
+        "num": 1136724,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 842605,
+        "num": 842605,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30309,
+        "num": 811690,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 844698,
+        "num": 811365,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 804428,
+        "num": 804428,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674235,
+        "num": 674235,
+        "word": "上海地铁又现致歉信专用章",
+        "onboard_time": 1734910998,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606424,
+        "num": 606424,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 468378,
+        "num": 468378,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451980,
+        "num": 451980,
+        "word": "从武侠看中国人的处世哲学",
+        "onboard_time": 1734921256,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290312,
+        "num": 423875,
+        "word": "不少孩子当代练挣钱玩游戏",
+        "onboard_time": 1734920477,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 407318,
+        "num": 407318,
+        "word": "李昀锐大拇指",
+        "onboard_time": 1734910154,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32787,
+        "num": 387677,
+        "word": "王嘉尔官宣双品牌全球合作伙伴",
+        "onboard_time": 1734919757,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380705,
+        "num": 380705,
+        "word": "一段视频看侠之大者的含义",
+        "onboard_time": 1734921256,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374705,
+        "num": 374705,
+        "word": "王力宏官宣个人巡回演唱会",
+        "onboard_time": 1734913758,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 326332,
+        "num": 326332,
+        "word": "玄彬说孙艺珍和儿子是第一顺位",
+        "onboard_time": 1734919817,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323997,
+        "num": 323997,
+        "word": "官方回应32岁飞行员失联事件",
+        "onboard_time": 1734915738,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312644,
+        "num": 312644,
+        "word": "A股",
+        "onboard_time": 1734919637,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268293,
+        "num": 268293,
+        "word": "黑神话悟空被山寨了",
+        "onboard_time": 1734915798,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225701,
+        "num": 225701,
+        "word": "人生就要充满passion",
+        "onboard_time": 1734914239,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 55592,
+        "num": 225604,
+        "word": "近千亿市值龙头董事长被立案调查",
+        "onboard_time": 1734915857,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360194,
+        "num": 225453,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320764,
+        "num": 225365,
+        "word": "柳岩谈44岁女演员的尴尬",
+        "onboard_time": 1734921436,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311843,
+        "num": 225148,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112401,
+        "num": 224936,
+        "word": "檀健次ELLE2025开年刊封面",
+        "onboard_time": 1734922397,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45855,
+        "num": 224918,
+        "word": "剑网三",
+        "onboard_time": 1734921737,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 303256,
+        "num": 224687,
+        "word": "国色芳华预热",
+        "onboard_time": 1734919456,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278964,
+        "num": 224562,
+        "word": "大奉打更人OST阵容",
+        "onboard_time": 1734921978,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224466,
+        "num": 224466,
+        "word": "刘阳老师加入东奥",
+        "onboard_time": 1734921499,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223108,
+        "num": 223108,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204025,
+        "num": 204025,
+        "word": "李行亮写歌控诉麦琳",
+        "onboard_time": 1734910455,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202484,
+        "num": 202484,
+        "word": "男子跑步跑上高速",
+        "onboard_time": 1734916997,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201760,
+        "num": 201760,
+        "word": "射雕长预告",
+        "onboard_time": 1734921917,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 194567,
+        "word": "慕胥辞贺思慕段胥雪中舞",
+        "onboard_time": 1734922098,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 178320,
+        "word": "胡塞武装称袭击美军杜鲁门号航母",
+        "onboard_time": 1734921317,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165842,
+        "num": 165842,
+        "word": "被同学抱摔艺考女生面试皆被拒收",
+        "onboard_time": 1734920837,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162782,
+        "num": 162782,
+        "word": "虾 警惕突然对你好的人",
+        "onboard_time": 1734910635,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162463,
+        "num": 162463,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155660,
+        "num": 155660,
+        "word": "武汉下雪",
+        "onboard_time": 1734911837,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147660,
+        "num": 147660,
+        "word": "张真源客串九重紫",
+        "onboard_time": 1734910696,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130402,
+        "num": 130402,
+        "word": "国安部提示警惕评论区里的谍影重重",
+        "onboard_time": 1734922158,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "特朗普表示赞成TikTok继续在美运营",
+        "onboard_time": 1734912198,
+        "rank": 40,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 123352,
+        "num": 123352,
+        "word": "宋旻浩退伍",
+        "onboard_time": 1734918797,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120727,
+        "num": 120727,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 43,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 113452,
+        "num": 113452,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111757,
+        "num": 111757,
+        "word": "李现在虎跳峡举国旗",
+        "onboard_time": 1734910455,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111525,
+        "num": 111525,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106710,
+        "num": 106710,
+        "word": "2024仅剩个位天数",
+        "onboard_time": 1734914718,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103001,
+        "num": 103001,
+        "word": "普京回应第三次世界大战是否正在进行",
+        "onboard_time": 1734910755,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101921,
+        "num": 101921,
+        "word": "熊孩子买号玩游戏充值1万无法退费",
+        "onboard_time": 1734885856,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}
