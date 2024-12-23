@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734974404623,
+  "endTime": 1734975475139,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -243,8 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104380,
-      "num": 104380,
+      "raw_hot": 106043,
+      "num": 106043,
       "word": "她还没上桌蛋糕分完了",
       "onboard_time": 1734951078,
       "rank": 32,
@@ -328,6 +328,14 @@
       "word": "女子婚后长期被家暴法院发保护令",
       "onboard_time": 1734966438,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72542,
+      "num": 140373,
+      "word": "官方回应荒山上安装健身器材",
+      "onboard_time": 1734973694,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -443,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36225,
-      "num": 140373,
-      "word": "官方回应荒山上安装健身器材",
-      "onboard_time": 1734973694,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33591,
       "num": 36097,
       "word": "猎罪图鉴2画像师原型满意檀健次表演",
       "onboard_time": 1734974353,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32060,
+      "num": 84018,
+      "word": "纪凌尘看书 书中自有电子书",
+      "onboard_time": 1734973694,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 30924,
@@ -467,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29344,
+      "num": 29344,
+      "word": "鞠婧祎浙江卫视跨年预告",
+      "onboard_time": 1734975312,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28937,
       "num": 256832,
       "word": "双向奔赴才是让景于客的最优解",
       "onboard_time": 1734970097,
       "rank": 9,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 27190,
+      "num": 29232,
+      "word": "下一秒的事留给下一秒的自己吧",
+      "onboard_time": 1734975433,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 24167,
+      "num": 112133,
+      "word": "景区回应用绳子制造人工冰瀑",
+      "onboard_time": 1734974893,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19525,
@@ -483,15 +515,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10039,
-      "num": 122313,
-      "word": "RIIZE以粉丝名捐款",
-      "onboard_time": 1734970097,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 8620,
+      "raw_hot": 11434,
       "num": 81442,
       "word": "李盈莹和朱婷说顶峰相见很不容易",
       "onboard_time": 1734974114,
@@ -499,10 +523,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7033,
-      "num": 84018,
-      "word": "纪凌尘看书 书中自有电子书",
-      "onboard_time": 1734973694,
+      "raw_hot": 10039,
+      "num": 122313,
+      "word": "RIIZE以粉丝名捐款",
+      "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
     }

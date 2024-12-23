@@ -1,0 +1,410 @@
+{
+  "runTime": 1734975475139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 313238,
+        "num": 405135,
+        "word": "迪丽热巴 陈飞宇给我大大方方的",
+        "onboard_time": 1734970278,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243654,
+        "num": 243654,
+        "word": "禁止员工去冰雪大世界企业道歉",
+        "onboard_time": 1734967698,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25792,
+        "num": 203600,
+        "word": "2024我们走过的24个瞬间",
+        "onboard_time": 1734969378,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203000,
+        "num": 203000,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136504,
+        "num": 136504,
+        "word": "越来越容易打到臭车了",
+        "onboard_time": 1734954017,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130064,
+        "num": 130064,
+        "word": "疑似山姆代购蹲厕所分装蛋糕",
+        "onboard_time": 1734957318,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149015,
+        "num": 128706,
+        "word": "落跑甜心女主整复被弄骨折",
+        "onboard_time": 1734958940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131357,
+        "num": 128579,
+        "word": "宋仲基炫耀女儿",
+        "onboard_time": 1734955939,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123430,
+        "num": 123430,
+        "word": "巴拿马总统强硬回应特朗普",
+        "onboard_time": 1734971536,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24167,
+        "num": 112133,
+        "word": "景区回应用绳子制造人工冰瀑",
+        "onboard_time": 1734974893,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127916,
+        "num": 112103,
+        "word": "赵露思方公布维权进度",
+        "onboard_time": 1734970097,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111719,
+        "num": 111719,
+        "word": "为什么iPhone信号不如国产手机",
+        "onboard_time": 1734960439,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106043,
+        "num": 106043,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98343,
+        "num": 98343,
+        "word": "32岁飞行员失联车内情况被还原",
+        "onboard_time": 1734956538,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89615,
+        "num": 89615,
+        "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+        "onboard_time": 1734956898,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81973,
+        "num": 81973,
+        "word": "小米SU7获奖2024年度车",
+        "onboard_time": 1734969138,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74161,
+        "num": 74161,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72542,
+        "num": 72542,
+        "word": "官方回应荒山上安装健身器材",
+        "onboard_time": 1734973694,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71176,
+        "num": 71176,
+        "word": "蛇年纪念币预约",
+        "onboard_time": 1734962780,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66644,
+        "num": 66644,
+        "word": "杨祐宁谈老婆生产 真的掉了一块肉",
+        "onboard_time": 1734966801,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120308,
+        "num": 65993,
+        "word": "女子生产前4小时才知道自己怀孕",
+        "onboard_time": 1734965361,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119691,
+        "num": 65569,
+        "word": "突然对韩国祛魅了",
+        "onboard_time": 1734961640,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87576,
+        "num": 64146,
+        "word": "韩国21天魔鬼减肥掉秤法",
+        "onboard_time": 1734964820,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 81303,
+        "num": 63101,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66660,
+        "num": 62129,
+        "word": "发现了微信运动仅聊天的秘密",
+        "onboard_time": 1734957138,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61559,
+        "num": 61559,
+        "word": "李昀锐他们说我是小狗",
+        "onboard_time": 1734966141,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54887,
+        "num": 54887,
+        "word": "男子婚后发现妻子结7次婚育6娃",
+        "onboard_time": 1734960080,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52573,
+        "num": 52573,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50960,
+        "num": 50960,
+        "word": "肖秀荣给2026考生的建议",
+        "onboard_time": 1734972916,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47729,
+        "num": 47729,
+        "word": "圣诞节 鸡公煲",
+        "onboard_time": 1734955878,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 45258,
+        "num": 45258,
+        "word": "白鹿驯猴",
+        "onboard_time": 1734964700,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44595,
+        "num": 44595,
+        "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+        "onboard_time": 1734952398,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43403,
+        "num": 43403,
+        "word": "陈小纭演技",
+        "onboard_time": 1734956779,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41154,
+        "num": 41154,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40968,
+        "num": 40968,
+        "word": "咒术回战最终卷加页",
+        "onboard_time": 1734965480,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40368,
+        "num": 40368,
+        "word": "林俊杰新歌中英双版本零点上线",
+        "onboard_time": 1734961041,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39140,
+        "num": 39140,
+        "word": "猎罪2第九案有点太癫了",
+        "onboard_time": 1734961159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36499,
+        "num": 36499,
+        "word": "蛇年纪念币好难抢",
+        "onboard_time": 1734965000,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33147,
+        "num": 33147,
+        "word": "被铁路售票员的手速惊到了",
+        "onboard_time": 1734959660,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32996,
+        "num": 32996,
+        "word": "贺峻霖 脱口秀",
+        "onboard_time": 1734965180,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32376,
+        "num": 32376,
+        "word": "猎罪图鉴2画像师原型满意檀健次表演",
+        "onboard_time": 1734974353,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11434,
+        "num": 32208,
+        "word": "李盈莹和朱婷说顶峰相见很不容易",
+        "onboard_time": 1734974114,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32060,
+        "num": 32060,
+        "word": "纪凌尘看书 书中自有电子书",
+        "onboard_time": 1734973694,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30697,
+        "num": 30697,
+        "word": "蒋欣说小巷人家番外最想拍抱孙子",
+        "onboard_time": 1734960259,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30646,
+        "num": 30646,
+        "word": "桐心薇泯",
+        "onboard_time": 1734962359,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29614,
+        "num": 29614,
+        "word": "肖秀荣给2025考生的一封信",
+        "onboard_time": 1734963080,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29575,
+        "num": 29575,
+        "word": "白月梵星",
+        "onboard_time": 1734965660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29344,
+        "num": 29344,
+        "word": "鞠婧祎浙江卫视跨年预告",
+        "onboard_time": 1734975312,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29233,
+        "num": 29233,
+        "word": "金靖生日戴张婧仪同款围巾",
+        "onboard_time": 1734971296,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 29232,
+        "word": "下一秒的事留给下一秒的自己吧",
+        "onboard_time": 1734975433,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
