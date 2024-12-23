@@ -1,0 +1,410 @@
+{
+  "runTime": 1734953769891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1271774,
+        "num": 1271774,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965111,
+        "num": 965111,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39333,
+        "num": 618073,
+        "word": "2024惊艳世界的大国重器",
+        "onboard_time": 1734943637,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565516,
+        "num": 565516,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 457968,
+        "num": 457968,
+        "word": "陈辉晋升上将军衔",
+        "onboard_time": 1734951199,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401238,
+        "num": 401238,
+        "word": "痛经药",
+        "onboard_time": 1734949818,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401169,
+        "num": 401169,
+        "word": "李昀锐喝醉了就快躺下睡吧",
+        "onboard_time": 1734951498,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348636,
+        "num": 348636,
+        "word": "湖南冲撞小学生案一审宣判",
+        "onboard_time": 1734948077,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89159,
+        "num": 345917,
+        "word": "女子跨国守护熊猫一家10年",
+        "onboard_time": 1734950298,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 49644,
+        "num": 333899,
+        "word": "人民网评清明上河图密码",
+        "onboard_time": 1734952038,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667152,
+        "num": 328362,
+        "word": "男子举报中学副校长出轨自己",
+        "onboard_time": 1734946278,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 430370,
+        "num": 323709,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317489,
+        "num": 317489,
+        "word": "猎罪图鉴2排播",
+        "onboard_time": 1734951918,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278221,
+        "num": 278221,
+        "word": "金善旴点到液体外卖勺",
+        "onboard_time": 1734949278,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302028,
+        "num": 278170,
+        "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+        "onboard_time": 1734952398,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30481,
+        "num": 277664,
+        "word": "祝绪丹没觉得自己微醺",
+        "onboard_time": 1734951558,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99759,
+        "num": 277220,
+        "word": "特朗普称美国拥有格陵兰岛绝对必要",
+        "onboard_time": 1734953417,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49423,
+        "num": 276428,
+        "word": "巴勒斯坦民众抢饭画面令人心酸",
+        "onboard_time": 1734952818,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26750,
+        "num": 276079,
+        "word": "遭职场侵害当事人发声",
+        "onboard_time": 1734952278,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43618,
+        "num": 275294,
+        "word": "投影仪正在逐渐失宠",
+        "onboard_time": 1734953299,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65695,
+        "num": 274896,
+        "word": "猎罪图鉴2流水线的双刃剑",
+        "onboard_time": 1734951918,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 274447,
+        "word": "网剧冬至",
+        "onboard_time": 1734952398,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862622,
+        "num": 274224,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620226,
+        "num": 273638,
+        "word": "林更新 谢谢啊林一下次我自己来",
+        "onboard_time": 1734948019,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118173,
+        "num": 273182,
+        "word": "孙颖莎说顶尖水平要靠天赋加努力",
+        "onboard_time": 1734953118,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531493,
+        "num": 272682,
+        "word": "向佐在红毯上生气了",
+        "onboard_time": 1734942438,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272314,
+        "num": 272314,
+        "word": "无意识控糖的5个行为",
+        "onboard_time": 1734949577,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46029,
+        "num": 252885,
+        "word": "北京卫视跨年之夜全阵容",
+        "onboard_time": 1734952818,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195559,
+        "num": 242494,
+        "word": "冬至 分手循环",
+        "onboard_time": 1734952939,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241904,
+        "num": 241904,
+        "word": "唐尚珺78岁母亲希望他挣钱结婚",
+        "onboard_time": 1734945618,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231940,
+        "num": 231940,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193767,
+        "num": 193767,
+        "word": "微信可以线上送实体礼物了",
+        "onboard_time": 1734938356,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191539,
+        "num": 191539,
+        "word": "李昀锐聊吻戏 情到浓时",
+        "onboard_time": 1734945679,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188096,
+        "num": 188096,
+        "word": "2024年莎头组合7个赛事6个冠军",
+        "onboard_time": 1734952038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7222,
+        "num": 180647,
+        "word": "霉霉为贫困儿童捐款25万美元",
+        "onboard_time": 1734953658,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176552,
+        "num": 176552,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1734941357,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 174415,
+        "num": 174415,
+        "word": "舒淇为肖战新片打call",
+        "onboard_time": 1734947238,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162325,
+        "num": 162325,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159122,
+        "num": 159122,
+        "word": "射雕",
+        "onboard_time": 1734951078,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45271,
+        "num": 157384,
+        "word": "峰哥打卡小雾凇岛",
+        "onboard_time": 1734953598,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 64305,
+        "num": 157309,
+        "word": "成毅时装杂志加印",
+        "onboard_time": 1734951918,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157308,
+        "num": 157308,
+        "word": "刘阳老师直播",
+        "onboard_time": 1734952939,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154585,
+        "num": 154585,
+        "word": "9年前买199元恋爱险兑付1万元",
+        "onboard_time": 1734950418,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154373,
+        "num": 154373,
+        "word": "WBG战胜EDG",
+        "onboard_time": 1734952518,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151121,
+        "num": 151121,
+        "word": "张馨予晒妈妈与张颂文合照",
+        "onboard_time": 1734945079,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146337,
+        "num": 146337,
+        "word": "女子被外籍男子搂抱骚扰后报警",
+        "onboard_time": 1734941298,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144798,
+        "num": 144798,
+        "word": "蒋欣生图更是妈妈级别",
+        "onboard_time": 1734934398,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144107,
+        "num": 144107,
+        "word": "男孩2次尾随女孩进入电梯脱裤子",
+        "onboard_time": 1734952697,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138932,
+        "num": 138932,
+        "word": "迪丽热巴毛茸茸的过冬搭子",
+        "onboard_time": 1734950418,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "年度歌手",
+        "onboard_time": 1734946339,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

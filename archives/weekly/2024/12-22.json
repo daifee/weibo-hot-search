@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734952737986,
+  "endTime": 1734953769891,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -169,6 +169,14 @@
       "onboard_time": 1734852017,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1271774,
+      "num": 1271774,
+      "word": "她还没上桌蛋糕分完了",
+      "onboard_time": 1734951078,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1254232,
@@ -875,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527189,
-      "num": 527189,
-      "word": "她还没上桌蛋糕分完了",
-      "onboard_time": 1734951078,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 526141,
       "num": 325516,
       "word": "华筝 草原公主",
@@ -1009,6 +1009,14 @@
       "onboard_time": 1734863957,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457968,
+      "num": 457968,
+      "word": "陈辉晋升上将军衔",
+      "onboard_time": 1734951199,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 455452,
@@ -1224,6 +1232,22 @@
       "word": "李昀锐说孟子义又娇又可爱",
       "onboard_time": 1734856157,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 401238,
+      "num": 401238,
+      "word": "痛经药",
+      "onboard_time": 1734949818,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401169,
+      "num": 401169,
+      "word": "李昀锐喝醉了就快躺下睡吧",
+      "onboard_time": 1734951498,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1539,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317489,
+      "num": 317489,
+      "word": "猎罪图鉴2排播",
+      "onboard_time": 1734951918,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315967,
       "num": 315967,
       "word": "乒超",
@@ -1627,11 +1659,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301173,
-      "num": 301173,
-      "word": "李昀锐喝醉了就快躺下睡吧",
-      "onboard_time": 1734951498,
-      "rank": 13,
+      "raw_hot": 302028,
+      "num": 278170,
+      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+      "onboard_time": 1734952398,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1691,14 +1723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 282245,
-      "num": 282245,
-      "word": "陈辉晋升上将军衔",
-      "onboard_time": 1734951199,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 281144,
       "num": 281144,
       "word": "D社再曝宋旻浩服兵役造假",
@@ -1721,6 +1745,14 @@
       "onboard_time": 1734949577,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278221,
+      "num": 303554,
+      "word": "金善旴点到液体外卖勺",
+      "onboard_time": 1734949278,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 278007,
@@ -2043,20 +2075,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236095,
-      "num": 236095,
-      "word": "痛经药",
-      "onboard_time": 1734949818,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235198,
       "num": 235198,
       "word": "唐尚珺1500米跑了倒数第3",
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231940,
+      "num": 231940,
+      "word": "液体勺",
+      "onboard_time": 1734952578,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 230828,
@@ -2243,14 +2275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 218716,
-      "num": 303554,
-      "word": "金善旴点到液体外卖勺",
-      "onboard_time": 1734949278,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218605,
       "num": 218605,
       "word": "梁洁 小女子不才",
@@ -2385,14 +2409,6 @@
       "onboard_time": 1734899230,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204382,
-      "num": 204382,
-      "word": "猎罪图鉴2排播",
-      "onboard_time": 1734951918,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 204346,
@@ -2561,6 +2577,14 @@
       "onboard_time": 1734848958,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195559,
+      "num": 242494,
+      "word": "冬至 分手循环",
+      "onboard_time": 1734952939,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195180,
@@ -2745,6 +2769,14 @@
       "onboard_time": 1734848359,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188096,
+      "num": 237489,
+      "word": "2024年莎头组合7个赛事6个冠军",
+      "onboard_time": 1734952038,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 187142,
@@ -3107,14 +3139,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 167215,
-      "num": 167215,
-      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
-      "onboard_time": 1734952398,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166512,
       "num": 166512,
       "word": "陈冠希晒女儿滑冰照片",
@@ -3291,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157308,
+      "num": 157308,
+      "word": "刘阳老师直播",
+      "onboard_time": 1734952939,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157269,
       "num": 157269,
       "word": "小狗耳朵都放下来了你倒是摸啊",
@@ -3337,6 +3369,14 @@
       "onboard_time": 1734918797,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154373,
+      "num": 154373,
+      "word": "WBG战胜EDG",
+      "onboard_time": 1734952518,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 154354,
@@ -3643,6 +3683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144107,
+      "num": 144107,
+      "word": "男孩2次尾随女孩进入电梯脱裤子",
+      "onboard_time": 1734952697,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
@@ -3659,14 +3707,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142490,
-      "num": 142490,
-      "word": "液体勺",
-      "onboard_time": 1734952578,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141888,
       "num": 141888,
       "word": "SBS合作舞台",
@@ -3681,14 +3721,6 @@
       "onboard_time": 1734870499,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 141166,
-      "num": 141166,
-      "word": "WBG战胜EDG",
-      "onboard_time": 1734952518,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 140883,
@@ -3841,6 +3873,14 @@
       "onboard_time": 1734937999,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134829,
+      "num": 274447,
+      "word": "网剧冬至",
+      "onboard_time": 1734952398,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 134723,
@@ -4179,14 +4219,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 123793,
-      "num": 123793,
-      "word": "男孩2次尾随女孩进入电梯脱裤子",
-      "onboard_time": 1734952697,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123775,
       "num": 123775,
       "word": "魏大勋工作室发布告黑声明",
@@ -4291,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118173,
+      "num": 273182,
+      "word": "孙颖莎说顶尖水平要靠天赋加努力",
+      "onboard_time": 1734953118,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118031,
       "num": 118031,
       "word": "冬至又下线一个闺蜜",
@@ -4316,7 +4356,7 @@
     },
     {
       "raw_hot": 117587,
-      "num": 333077,
+      "num": 345917,
       "word": "女子跨国守护熊猫一家10年",
       "onboard_time": 1734950298,
       "rank": 49,
@@ -4683,14 +4723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105023,
-      "num": 237489,
-      "word": "2024年莎头组合7个赛事6个冠军",
-      "onboard_time": 1734952038,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "袁记云饺有店铺销量下滑三分之一",
@@ -4801,6 +4833,14 @@
       "onboard_time": 1734859757,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 99759,
+      "num": 277220,
+      "word": "特朗普称美国拥有格陵兰岛绝对必要",
+      "onboard_time": 1734953417,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99689,
@@ -5411,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65695,
+      "num": 287369,
+      "word": "猎罪图鉴2流水线的双刃剑",
+      "onboard_time": 1734951918,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65666,
       "num": 75680,
       "word": "许嵩呼吸之野演唱会",
@@ -5755,6 +5803,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49644,
+      "num": 333899,
+      "word": "人民网评清明上河图密码",
+      "onboard_time": 1734952038,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 49423,
+      "num": 276428,
+      "word": "巴勒斯坦民众抢饭画面令人心酸",
+      "onboard_time": 1734952818,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49030,
       "num": 347716,
       "word": "让我吃考研复试的苦",
@@ -5835,6 +5899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46029,
+      "num": 252885,
+      "word": "北京卫视跨年之夜全阵容",
+      "onboard_time": 1734952818,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45807,
       "num": 291647,
       "word": "九重紫作者说拿到人生剧本也未必赢",
@@ -5867,6 +5939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45271,
+      "num": 157384,
+      "word": "峰哥打卡小雾凇岛",
+      "onboard_time": 1734953598,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 45024,
       "num": 190181,
       "word": "檀健次新杂志3分钟10万本",
@@ -5881,6 +5961,14 @@
       "onboard_time": 1734800895,
       "rank": 47,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 43618,
+      "num": 275294,
+      "word": "投影仪正在逐渐失宠",
+      "onboard_time": 1734953299,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43225,
@@ -6299,6 +6387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 30481,
+      "num": 277664,
+      "word": "祝绪丹没觉得自己微醺",
+      "onboard_time": 1734951558,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30422,
       "num": 33215,
       "word": "留几手回复网友",
@@ -6323,14 +6419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 29642,
-      "num": 323942,
-      "word": "人民网评清明上河图密码",
-      "onboard_time": 1734952038,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29318,
       "num": 32013,
       "word": "鞠婧祎田嘉瑞原始帧氛围感",
@@ -6345,14 +6433,6 @@
       "onboard_time": 1734910396,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28736,
-      "num": 287369,
-      "word": "猎罪图鉴2流水线的双刃剑",
-      "onboard_time": 1734951918,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 28733,
@@ -6408,6 +6488,14 @@
       "word": "被抱摔女生回应老师称能进全省前三",
       "onboard_time": 1734805453,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26750,
+      "num": 276079,
+      "word": "遭职场侵害当事人发声",
+      "onboard_time": 1734952278,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6552,14 +6640,6 @@
       "word": "在澳洲感受到了佛山咏春拳的含金量",
       "onboard_time": 1734931219,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18358,
-      "num": 238477,
-      "word": "遭职场侵害当事人发声",
-      "onboard_time": 1734952278,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6721,6 +6801,14 @@
       "onboard_time": 1734897492,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7222,
+      "num": 180647,
+      "word": "霉霉为贫困儿童捐款25万美元",
+      "onboard_time": 1734953658,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 6293,
