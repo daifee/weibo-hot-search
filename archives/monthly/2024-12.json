@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734931324899,
+  "endTime": 1734932357419,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -929,6 +929,14 @@
       "onboard_time": 1734697758,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1949017,
+      "num": 599869,
+      "word": "孙颖莎提车",
+      "onboard_time": 1734931038,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1941125,
@@ -8675,6 +8683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 656838,
+      "num": 656838,
+      "word": "室友考完研回来还在学",
+      "onboard_time": 1734928339,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 656782,
       "num": 630696,
       "word": "陈德容称琼瑶离世因丈夫去世打击大",
@@ -9257,14 +9273,6 @@
       "onboard_time": 1733838020,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 630577,
-      "num": 630577,
-      "word": "室友考完研回来还在学",
-      "onboard_time": 1734928339,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 630410,
@@ -16379,6 +16387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394071,
+      "num": 356352,
+      "word": "偶遇纪凌尘高铁假装看书",
+      "onboard_time": 1734931399,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393941,
       "num": 390011,
       "word": "徐明浩在韩国和文俊辉相依为命",
@@ -18811,12 +18827,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339564,
+      "num": 339564,
+      "word": "胡军 丐永一",
+      "onboard_time": 1734928519,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339076,
       "num": 398611,
       "word": "金高银辛芷蕾同框",
       "onboard_time": 1733220560,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338603,
+      "num": 338603,
+      "word": "A股三大突发",
+      "onboard_time": 1734929601,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 337993,
@@ -22259,6 +22291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278563,
+      "num": 278563,
+      "word": "祝绪丹会跟迪丽热巴讲心里话",
+      "onboard_time": 1734931338,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278450,
       "num": 278450,
       "word": "张柏芝把博物馆展品戴在身上",
@@ -22929,14 +22969,6 @@
       "onboard_time": 1733820800,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269659,
-      "num": 269659,
-      "word": "A股三大突发",
-      "onboard_time": 1734929601,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 269545,
@@ -24369,6 +24401,14 @@
       "onboard_time": 1733800038,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249787,
+      "num": 230159,
+      "word": "女子在南京景区穿和服拍照遭怒怼",
+      "onboard_time": 1734929060,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249719,
@@ -26409,14 +26449,6 @@
       "onboard_time": 1734698239,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230159,
-      "num": 230159,
-      "word": "女子在南京景区穿和服拍照遭怒怼",
-      "onboard_time": 1734929060,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230148,
@@ -29153,14 +29185,6 @@
       "onboard_time": 1733114480,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209185,
-      "num": 209185,
-      "word": "孙颖莎提车",
-      "onboard_time": 1734931038,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 209180,
@@ -31905,14 +31929,6 @@
       "onboard_time": 1733993658,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197373,
-      "num": 197373,
-      "word": "胡军 丐永一",
-      "onboard_time": 1734928519,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 197357,
@@ -45180,7 +45196,7 @@
     },
     {
       "raw_hot": 148260,
-      "num": 148260,
+      "num": 164721,
       "word": "国产悬疑剧的风刮到西北了",
       "onboard_time": 1734930559,
       "rank": 49,
@@ -48355,6 +48371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "虞书欣SpicyHoney舞蹈版MV",
+      "onboard_time": 1734932177,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136611,
       "num": 136611,
       "word": "鹿晗直播",
@@ -49377,6 +49401,14 @@
       "onboard_time": 1734404778,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132833,
+      "num": 158619,
+      "word": "华筝 草原公主",
+      "onboard_time": 1734932238,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 132800,
@@ -53179,6 +53211,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 119020,
+      "num": 119020,
+      "word": "留几手曾透露再见爱人无剧本",
+      "onboard_time": 1734929179,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118959,
       "num": 118959,
       "word": "子弟兵硬核安利过冬好物军大衣",
@@ -56009,6 +56049,14 @@
       "onboard_time": 1733147362,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107346,
+      "num": 235919,
+      "word": "男子要求出轨对象偿还出轨期间支出",
+      "onboard_time": 1734930319,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107335,
@@ -62211,14 +62259,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 75044,
-      "num": 235919,
-      "word": "男子要求出轨对象偿还出轨期间支出",
-      "onboard_time": 1734930319,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74925,
       "num": 488563,
       "word": "毛戈平上市首日高开60%",
@@ -62737,6 +62777,14 @@
       "onboard_time": 1733894419,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71955,
+      "num": 255518,
+      "word": "男孩街头走失男子脱羽绒服为其取暖",
+      "onboard_time": 1734930498,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 71942,
@@ -64417,14 +64465,6 @@
       "onboard_time": 1733138479,
       "rank": 19,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 64038,
-      "num": 255518,
-      "word": "男孩街头走失男子脱羽绒服为其取暖",
-      "onboard_time": 1734930498,
-      "rank": 19,
-      "category": "正能量"
     },
     {
       "raw_hot": 64014,
@@ -66304,6 +66344,14 @@
       "word": "国足年终排名创近10年新低",
       "onboard_time": 1734649694,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54961,
+      "num": 162320,
+      "word": "李盈莹赞朱婷非常优秀",
+      "onboard_time": 1734931399,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -68627,6 +68675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 46692,
+      "num": 160683,
+      "word": "张萌 超点小福利",
+      "onboard_time": 1734932117,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46591,
       "num": 52588,
       "word": "娜然 海带精",
@@ -68905,6 +68961,14 @@
       "onboard_time": 1733829920,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45579,
+      "num": 246417,
+      "word": "曲艺 写在考研初试之后",
+      "onboard_time": 1734930498,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 45544,
@@ -71291,6 +71355,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38191,
+      "num": 257162,
+      "word": "宋茜T锦绣十二月刊封面",
+      "onboard_time": 1734929719,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 38185,
       "num": 66335,
       "word": "专家称白猫择偶确实没有竞争力",
@@ -71601,6 +71673,14 @@
       "onboard_time": 1733300729,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37066,
+      "num": 256165,
+      "word": "年轻人跨年拍照的仪式感",
+      "onboard_time": 1734928460,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 37023,
@@ -73571,14 +73651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31690,
-      "num": 257162,
-      "word": "宋茜T锦绣十二月刊封面",
-      "onboard_time": 1734929719,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 31683,
       "num": 413512,
       "word": "女导演和女演员如何一起创造好东西",
@@ -73881,14 +73953,6 @@
       "onboard_time": 1733908881,
       "rank": 28,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 30882,
-      "num": 256165,
-      "word": "年轻人跨年拍照的仪式感",
-      "onboard_time": 1734928460,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 30861,
@@ -75537,14 +75601,6 @@
       "onboard_time": 1734015920,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25810,
-      "num": 246417,
-      "word": "曲艺 写在考研初试之后",
-      "onboard_time": 1734930498,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 25792,
@@ -77683,6 +77739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18611,
+      "num": 230921,
+      "word": "在澳洲感受到了佛山咏春拳的含金量",
+      "onboard_time": 1734931219,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18606,
       "num": 208017,
       "word": "医药代表九条红线",
@@ -79361,14 +79425,6 @@
       "onboard_time": 1733472321,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 13912,
-      "num": 230921,
-      "word": "在澳洲感受到了佛山咏春拳的含金量",
-      "onboard_time": 1734931219,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13911,

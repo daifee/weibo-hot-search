@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734931324899,
+  "endTime": 1734932357419,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -41,6 +41,14 @@
       "onboard_time": 1734844698,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1949017,
+      "num": 599869,
+      "word": "孙颖莎提车",
+      "onboard_time": 1734931038,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 1868885,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 656838,
+      "num": 656838,
+      "word": "室友考完研回来还在学",
+      "onboard_time": 1734928339,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 640667,
       "num": 640667,
       "word": "法硕",
@@ -521,14 +537,6 @@
       "onboard_time": 1734873979,
       "rank": 5,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 630577,
-      "num": 630577,
-      "word": "室友考完研回来还在学",
-      "onboard_time": 1734928339,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 629945,
@@ -987,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 394071,
+      "num": 356352,
+      "word": "偶遇纪凌尘高铁假装看书",
+      "onboard_time": 1734931399,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386678,
       "num": 291997,
       "word": "李昀锐直播",
@@ -1137,6 +1153,22 @@
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 339564,
+      "num": 339564,
+      "word": "胡军 丐永一",
+      "onboard_time": 1734928519,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 338603,
+      "num": 338603,
+      "word": "A股三大突发",
+      "onboard_time": 1734929601,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 336715,
@@ -1355,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278563,
+      "num": 278563,
+      "word": "祝绪丹会跟迪丽热巴讲心里话",
+      "onboard_time": 1734931338,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278007,
       "num": 278007,
       "word": "王艺瑾造型",
@@ -1425,14 +1465,6 @@
       "onboard_time": 1734863059,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 269659,
-      "num": 269659,
-      "word": "A股三大突发",
-      "onboard_time": 1734929601,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 268391,
@@ -1547,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249787,
+      "num": 230159,
+      "word": "女子在南京景区穿和服拍照遭怒怼",
+      "onboard_time": 1734929060,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248432,
       "num": 248432,
       "word": "章昊韩维辰道歉",
@@ -1649,14 +1689,6 @@
       "onboard_time": 1734873740,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230159,
-      "num": 230159,
-      "word": "女子在南京景区穿和服拍照遭怒怼",
-      "onboard_time": 1734929060,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229948,
@@ -1825,14 +1857,6 @@
       "onboard_time": 1734851539,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 209185,
-      "num": 209185,
-      "word": "孙颖莎提车",
-      "onboard_time": 1734931038,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 209134,
@@ -2033,14 +2057,6 @@
       "onboard_time": 1734876680,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197373,
-      "num": 197373,
-      "word": "胡军 丐永一",
-      "onboard_time": 1734928519,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 197170,
@@ -2876,7 +2892,7 @@
     },
     {
       "raw_hot": 148260,
-      "num": 148260,
+      "num": 164721,
       "word": "国产悬疑剧的风刮到西北了",
       "onboard_time": 1734930559,
       "rank": 49,
@@ -3011,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "虞书欣SpicyHoney舞蹈版MV",
+      "onboard_time": 1734932177,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136171,
       "num": 239151,
       "word": "重庆理工大学通报硕士失联事件",
@@ -3049,6 +3073,14 @@
       "onboard_time": 1734855977,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132833,
+      "num": 158619,
+      "word": "华筝 草原公主",
+      "onboard_time": 1734932238,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 132718,
@@ -3355,6 +3387,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 119020,
+      "num": 119020,
+      "word": "留几手曾透露再见爱人无剧本",
+      "onboard_time": 1734929179,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118821,
       "num": 1045667,
       "word": "2分钟浓缩版2024",
@@ -3656,6 +3696,14 @@
       "word": "苦苦的黄连要种在甜甜的土里",
       "onboard_time": 1734846198,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107346,
+      "num": 235919,
+      "word": "男子要求出轨对象偿还出轨期间支出",
+      "onboard_time": 1734930319,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -4147,14 +4195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75044,
-      "num": 235919,
-      "word": "男子要求出轨对象偿还出轨期间支出",
-      "onboard_time": 1734930319,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74781,
       "num": 233132,
       "word": "AG挑杯五连胜",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1734841339,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71955,
+      "num": 255518,
+      "word": "男孩街头走失男子脱羽绒服为其取暖",
+      "onboard_time": 1734930498,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 71385,
@@ -4323,14 +4371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64038,
-      "num": 255518,
-      "word": "男孩街头走失男子脱羽绒服为其取暖",
-      "onboard_time": 1734930498,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 63595,
       "num": 224918,
       "word": "剑网三",
@@ -4417,6 +4457,14 @@
       "onboard_time": 1734817692,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 54961,
+      "num": 162320,
+      "word": "李盈莹赞朱婷非常优秀",
+      "onboard_time": 1734931399,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 54874,
@@ -4595,6 +4643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46692,
+      "num": 160683,
+      "word": "张萌 超点小福利",
+      "onboard_time": 1734932117,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45807,
       "num": 291647,
       "word": "九重紫作者说拿到人生剧本也未必赢",
@@ -4617,6 +4673,14 @@
       "onboard_time": 1734866538,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45579,
+      "num": 246417,
+      "word": "曲艺 写在考研初试之后",
+      "onboard_time": 1734930498,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 43688,
@@ -4747,6 +4811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38191,
+      "num": 257162,
+      "word": "宋茜T锦绣十二月刊封面",
+      "onboard_time": 1734929719,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 37653,
       "num": 243205,
       "word": "冰雪大世界门票最高被炒至万元",
@@ -4769,6 +4841,14 @@
       "onboard_time": 1734802454,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37066,
+      "num": 256165,
+      "word": "年轻人跨年拍照的仪式感",
+      "onboard_time": 1734928460,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 37001,
@@ -4923,28 +5003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31690,
-      "num": 257162,
-      "word": "宋茜T锦绣十二月刊封面",
-      "onboard_time": 1734929719,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 31012,
       "num": 291292,
       "word": "钟意大司命一打五",
       "onboard_time": 1734870858,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 30882,
-      "num": 256165,
-      "word": "年轻人跨年拍照的仪式感",
-      "onboard_time": 1734928460,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 30703,
@@ -5051,14 +5115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25810,
-      "num": 246417,
-      "word": "曲艺 写在考研初试之后",
-      "onboard_time": 1734930498,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 25300,
       "num": 39082,
       "word": "王一博探索新境海外预告",
@@ -5155,6 +5211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18611,
+      "num": 230921,
+      "word": "在澳洲感受到了佛山咏春拳的含金量",
+      "onboard_time": 1734931219,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18164,
       "num": 22665,
       "word": "劳尔卡斯特罗参加抗议美国制裁游行",
@@ -5209,14 +5273,6 @@
       "onboard_time": 1734899899,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 13912,
-      "num": 230921,
-      "word": "在澳洲感受到了佛山咏春拳的含金量",
-      "onboard_time": 1734931219,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13369,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1734932357419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 844464,
+        "num": 1135114,
+        "word": "高考601分女生为何选择殡葬专业",
+        "onboard_time": 1734925998,
+        "rank": 0,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 656838,
+        "num": 656838,
+        "word": "室友考完研回来还在学",
+        "onboard_time": 1734928339,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23724,
+        "num": 651673,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2071671,
+        "num": 625028,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1949017,
+        "num": 599869,
+        "word": "孙颖莎提车",
+        "onboard_time": 1734931038,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1575938,
+        "num": 575070,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558364,
+        "num": 558364,
+        "word": "庄达菲黄蓉妆造",
+        "onboard_time": 1734929479,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495611,
+        "num": 495611,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402058,
+        "num": 402058,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 362457,
+        "num": 362457,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394071,
+        "num": 356352,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339564,
+        "num": 339564,
+        "word": "胡军 丐永一",
+        "onboard_time": 1734928519,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338603,
+        "num": 338603,
+        "word": "A股三大突发",
+        "onboard_time": 1734929601,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278563,
+        "num": 278563,
+        "word": "祝绪丹会跟迪丽热巴讲心里话",
+        "onboard_time": 1734931338,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266779,
+        "num": 266779,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244724,
+        "num": 244724,
+        "word": "乒超",
+        "onboard_time": 1734929659,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212309,
+        "num": 212309,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164799,
+        "num": 164799,
+        "word": "县长回应政府门前夜市已存在多年",
+        "onboard_time": 1734924437,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145554,
+        "num": 164721,
+        "word": "国产悬疑剧的风刮到西北了",
+        "onboard_time": 1734930559,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130986,
+        "num": 164164,
+        "word": "国足在杭州对阵澳大利亚",
+        "onboard_time": 1734929359,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111298,
+        "num": 163824,
+        "word": "唐尚珺高考16年总分8916",
+        "onboard_time": 1734927319,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454290,
+        "num": 163465,
+        "word": "已生6女90后女子第七胎生女",
+        "onboard_time": 1734926119,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274383,
+        "num": 163058,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38191,
+        "num": 162531,
+        "word": "宋茜T锦绣十二月刊封面",
+        "onboard_time": 1734929719,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54961,
+        "num": 162320,
+        "word": "李盈莹赞朱婷非常优秀",
+        "onboard_time": 1734931399,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71955,
+        "num": 161684,
+        "word": "男孩街头走失男子脱羽绒服为其取暖",
+        "onboard_time": 1734930498,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 249787,
+        "num": 161273,
+        "word": "女子在南京景区穿和服拍照遭怒怼",
+        "onboard_time": 1734929060,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229510,
+        "num": 160823,
+        "word": "九重紫",
+        "onboard_time": 1734928639,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46692,
+        "num": 160683,
+        "word": "张萌 超点小福利",
+        "onboard_time": 1734932117,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18611,
+        "num": 160230,
+        "word": "在澳洲感受到了佛山咏春拳的含金量",
+        "onboard_time": 1734931219,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45579,
+        "num": 159726,
+        "word": "曲艺 写在考研初试之后",
+        "onboard_time": 1734930498,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221196,
+        "num": 159359,
+        "word": "胡军演洪七公",
+        "onboard_time": 1734924437,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37066,
+        "num": 158907,
+        "word": "年轻人跨年拍照的仪式感",
+        "onboard_time": 1734928460,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132833,
+        "num": 158619,
+        "word": "华筝 草原公主",
+        "onboard_time": 1734932238,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196724,
+        "num": 158198,
+        "word": "刘诗诗VOGUE香港版封面",
+        "onboard_time": 1734928939,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179444,
+        "num": 157816,
+        "word": "杨紫李现古装cp感",
+        "onboard_time": 1734924977,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177063,
+        "num": 157219,
+        "word": "肖战新电影台词",
+        "onboard_time": 1734931038,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118890,
+        "num": 156856,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156666,
+        "num": 156666,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154152,
+        "num": 154152,
+        "word": "不少孩子当代练挣钱玩游戏",
+        "onboard_time": 1734920477,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151479,
+        "num": 151479,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141400,
+        "num": 141400,
+        "word": "全国高校首个生死体验中心",
+        "onboard_time": 1734928159,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 136641,
+        "word": "虞书欣SpicyHoney舞蹈版MV",
+        "onboard_time": 1734932177,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135914,
+        "num": 135914,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130090,
+        "num": 130090,
+        "word": "白桃星座",
+        "onboard_time": 1734929001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126409,
+        "num": 126409,
+        "word": "沈梦辰出演国色芳华",
+        "onboard_time": 1734923178,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123635,
+        "num": 123635,
+        "word": "俄罗斯为何防不住乌军无人机",
+        "onboard_time": 1734925337,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119020,
+        "num": 119020,
+        "word": "留几手曾透露再见爱人无剧本",
+        "onboard_time": 1734929179,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115999,
+        "num": 115999,
+        "word": "柳岩谈44岁女演员的尴尬",
+        "onboard_time": 1734921436,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107346,
+        "num": 114021,
+        "word": "男子要求出轨对象偿还出轨期间支出",
+        "onboard_time": 1734930319,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}
