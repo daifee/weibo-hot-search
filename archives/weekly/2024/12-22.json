@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734978594162,
+  "endTime": 1734979378997,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -7435,6 +7435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23738,
+      "num": 54704,
+      "word": "日本樱岛火山再度喷发",
+      "onboard_time": 1734978251,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23593,
       "num": 366503,
       "word": "一文梳理马航MH370事件",
@@ -7539,20 +7547,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18906,
+      "num": 24999,
+      "word": "于适 给人看我做得多牛",
+      "onboard_time": 1734975134,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18611,
       "num": 230921,
       "word": "在澳洲感受到了佛山咏春拳的含金量",
       "onboard_time": 1734931219,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18430,
-      "num": 24999,
-      "word": "于适 给人看我做得多牛",
-      "onboard_time": 1734975134,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 18400,
@@ -7571,12 +7579,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18160,
+      "num": 68495,
+      "word": "守护国家安全每个人都是卫士",
+      "onboard_time": 1734977292,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18014,
       "num": 175851,
       "word": "律师称飞机锁座涉嫌侵权",
       "onboard_time": 1734967759,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17878,
+      "num": 24516,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 17506,
@@ -7619,14 +7643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16346,
-      "num": 68495,
-      "word": "守护国家安全每个人都是卫士",
-      "onboard_time": 1734977292,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 16226,
       "num": 236329,
       "word": "对付鼻塞什么方法管用",
@@ -7649,14 +7665,6 @@
       "onboard_time": 1734815051,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14862,
-      "num": 25044,
-      "word": "日本樱岛火山再度喷发",
-      "onboard_time": 1734978251,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14413,

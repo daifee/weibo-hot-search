@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734978594162,
+  "endTime": 1734979378997,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -219,19 +219,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117356,
+      "num": 106043,
+      "word": "她还没上桌蛋糕分完了",
+      "onboard_time": 1734951078,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115437,
       "num": 115437,
       "word": "男子婚后发现妻子结7次婚育6娃",
       "onboard_time": 1734960080,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113861,
-      "num": 106043,
-      "word": "她还没上桌蛋糕分完了",
-      "onboard_time": 1734951078,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23738,
+      "num": 54704,
+      "word": "日本樱岛火山再度喷发",
+      "onboard_time": 1734978251,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19525,
       "num": 94151,
       "word": "抱抱熊君",
@@ -523,7 +531,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18430,
+      "raw_hot": 18906,
       "num": 24999,
       "word": "于适 给人看我做得多牛",
       "onboard_time": 1734975134,
@@ -539,7 +547,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 16346,
+      "raw_hot": 18160,
       "num": 68495,
       "word": "守护国家安全每个人都是卫士",
       "onboard_time": 1734977292,
@@ -547,12 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14862,
-      "num": 25044,
-      "word": "日本樱岛火山再度喷发",
-      "onboard_time": 1734978251,
-      "rank": 45,
-      "category": "海外新闻"
+      "raw_hot": 17878,
+      "num": 24516,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 11434,

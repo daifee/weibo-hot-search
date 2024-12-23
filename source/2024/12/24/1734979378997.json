@@ -1,0 +1,410 @@
+{
+  "runTime": 1734979378997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 128979,
+        "num": 128979,
+        "word": "迪丽热巴 陈飞宇给我大大方方的",
+        "onboard_time": 1734970278,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113603,
+        "num": 113603,
+        "word": "禁止员工去冰雪大世界企业道歉",
+        "onboard_time": 1734967698,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17911,
+        "num": 96256,
+        "word": "2024我们走过的24个瞬间",
+        "onboard_time": 1734969378,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86268,
+        "num": 86268,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73293,
+        "num": 73293,
+        "word": "越来越容易打到臭车了",
+        "onboard_time": 1734954017,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71821,
+        "num": 71821,
+        "word": "官方回应荒山上安装健身器材",
+        "onboard_time": 1734973694,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83166,
+        "num": 70967,
+        "word": "落跑甜心女主整复被弄骨折",
+        "onboard_time": 1734958940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68363,
+        "num": 68363,
+        "word": "疑似山姆代购蹲厕所分装蛋糕",
+        "onboard_time": 1734957318,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62621,
+        "num": 62621,
+        "word": "宋仲基炫耀女儿",
+        "onboard_time": 1734955939,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23738,
+        "num": 54704,
+        "word": "日本樱岛火山再度喷发",
+        "onboard_time": 1734978251,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117356,
+        "num": 54660,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54231,
+        "num": 54231,
+        "word": "巴拿马总统强硬回应特朗普",
+        "onboard_time": 1734971536,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50728,
+        "num": 50728,
+        "word": "为什么iPhone信号不如国产手机",
+        "onboard_time": 1734960439,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50661,
+        "num": 50661,
+        "word": "32岁飞行员失联车内情况被还原",
+        "onboard_time": 1734956538,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48949,
+        "num": 48949,
+        "word": "赵露思方公布维权进度",
+        "onboard_time": 1734970097,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48667,
+        "num": 48667,
+        "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+        "onboard_time": 1734956898,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41877,
+        "num": 41877,
+        "word": "蛇年纪念币预约",
+        "onboard_time": 1734962780,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40750,
+        "num": 40750,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35651,
+        "num": 35651,
+        "word": "杨祐宁谈老婆生产 真的掉了一块肉",
+        "onboard_time": 1734966801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35565,
+        "num": 35565,
+        "word": "小米SU7获奖2024年度车",
+        "onboard_time": 1734969138,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61693,
+        "num": 35528,
+        "word": "突然对韩国祛魅了",
+        "onboard_time": 1734961640,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58268,
+        "num": 35323,
+        "word": "女子生产前4小时才知道自己怀孕",
+        "onboard_time": 1734965361,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51950,
+        "num": 35073,
+        "word": "韩国21天魔鬼减肥掉秤法",
+        "onboard_time": 1734964820,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 38366,
+        "num": 34861,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34808,
+        "num": 34808,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34161,
+        "num": 34161,
+        "word": "男子婚后发现妻子结7次婚育6娃",
+        "onboard_time": 1734960080,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32238,
+        "num": 32238,
+        "word": "有境外间谍利用评论区窃密",
+        "onboard_time": 1734975612,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28808,
+        "num": 28808,
+        "word": "圣诞节 鸡公煲",
+        "onboard_time": 1734955878,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28456,
+        "num": 28456,
+        "word": "发现了微信运动仅聊天的秘密",
+        "onboard_time": 1734957138,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 27702,
+        "num": 27702,
+        "word": "李昀锐他们说我是小狗",
+        "onboard_time": 1734966141,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27640,
+        "num": 27640,
+        "word": "陈小纭演技",
+        "onboard_time": 1734956779,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25627,
+        "num": 25627,
+        "word": "咒术回战最终卷加页",
+        "onboard_time": 1734965480,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25360,
+        "num": 25360,
+        "word": "肖秀荣给2026考生的建议",
+        "onboard_time": 1734972916,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24594,
+        "num": 24594,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22887,
+        "num": 24589,
+        "word": "桐心薇泯",
+        "onboard_time": 1734962359,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21546,
+        "num": 24588,
+        "word": "被铁路售票员的手速惊到了",
+        "onboard_time": 1734959660,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21116,
+        "num": 24584,
+        "word": "蛇年纪念币好难抢",
+        "onboard_time": 1734965000,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21105,
+        "num": 24578,
+        "word": "猎罪图鉴2画像师原型满意檀健次表演",
+        "onboard_time": 1734974353,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20988,
+        "num": 24568,
+        "word": "蒋欣说小巷人家番外最想拍抱孙子",
+        "onboard_time": 1734960259,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20602,
+        "num": 24564,
+        "word": "白月梵星",
+        "onboard_time": 1734965660,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20513,
+        "num": 24558,
+        "word": "景区回应用绳子制造人工冰瀑",
+        "onboard_time": 1734974893,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20115,
+        "num": 24556,
+        "word": "白鹿驯猴",
+        "onboard_time": 1734964700,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19621,
+        "num": 24552,
+        "word": "贺峻霖 脱口秀",
+        "onboard_time": 1734965180,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19457,
+        "num": 24546,
+        "word": "猎罪2第九案有点太癫了",
+        "onboard_time": 1734961159,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18917,
+        "num": 24539,
+        "word": "林俊杰新歌中英双版本零点上线",
+        "onboard_time": 1734961041,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18906,
+        "num": 24533,
+        "word": "于适 给人看我做得多牛",
+        "onboard_time": 1734975134,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18408,
+        "num": 24531,
+        "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+        "onboard_time": 1734952398,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18324,
+        "num": 24523,
+        "word": "蛇年纪念钞预约",
+        "onboard_time": 1734965180,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18160,
+        "num": 24522,
+        "word": "守护国家安全每个人都是卫士",
+        "onboard_time": 1734977292,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17878,
+        "num": 24516,
+        "word": "不要传刀哥被警察带走了",
+        "onboard_time": 1734979031,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}
