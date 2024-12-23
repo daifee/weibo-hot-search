@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734982525662,
+  "endTime": 1734985417250,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -7339,6 +7339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28310,
+      "num": 28310,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 28305,
       "num": 462192,
       "word": "2024我花得最值的一笔钱",
@@ -7603,20 +7611,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18147,
+      "num": 18147,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18014,
       "num": 175851,
       "word": "律师称飞机锁座涉嫌侵权",
       "onboard_time": 1734967759,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17770,
-      "num": 17770,
-      "word": "陈乔恩实现了鸡佛自由",
-      "onboard_time": 1734980771,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 17506,
@@ -7657,6 +7665,14 @@
       "onboard_time": 1734810372,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16581,
+      "num": 31897,
+      "word": "官方辟谣苏州大量外企撤资",
+      "onboard_time": 1734982151,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 16226,
@@ -7747,14 +7763,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 11891,
-      "num": 31897,
-      "word": "官方辟谣苏州大量外企撤资",
-      "onboard_time": 1734982151,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 11790,
       "num": 173300,
       "word": "冬天就要来吉林滑雪",
@@ -7771,12 +7779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11304,
+      "num": 20977,
+      "word": "解码中华文化基因",
+      "onboard_time": 1734983350,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11261,
       "num": 28953,
       "word": "李昀锐小狗比心",
       "onboard_time": 1734905652,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11183,
+      "num": 14242,
+      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
+      "onboard_time": 1734985270,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 10756,
@@ -7801,6 +7825,14 @@
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9888,
+      "num": 43615,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9501,
