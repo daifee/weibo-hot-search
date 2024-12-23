@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734950491599,
+  "endTime": 1734952737986,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -179,6 +179,14 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 1205990,
+      "num": 826144,
+      "word": "希林娜依高拖行小狗",
+      "onboard_time": 1734949278,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199523,
       "num": 1199523,
       "word": "肖战版郭靖造型",
@@ -200,6 +208,14 @@
       "word": "被同学抱摔艺考女生发声",
       "onboard_time": 1734912077,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1093245,
+      "num": 1174919,
+      "word": "会计发现领导语气不对劲保住296万",
+      "onboard_time": 1734947839,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 862241,
-      "num": 1137958,
-      "word": "会计发现领导语气不对劲保住296万",
-      "onboard_time": 1734947839,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 860972,
       "num": 860972,
       "word": "微信可以线上送实体礼物了",
@@ -401,14 +409,6 @@
       "onboard_time": 1734939137,
       "rank": 9,
       "category": "民生新闻,辟谣/通报"
-    },
-    {
-      "raw_hot": 826144,
-      "num": 826144,
-      "word": "希林娜依高拖行小狗",
-      "onboard_time": 1734949278,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 819250,
@@ -675,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638676,
+      "num": 638676,
+      "word": "九重紫 庆功宴",
+      "onboard_time": 1734949458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -867,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527189,
+      "num": 527189,
+      "word": "她还没上桌蛋糕分完了",
+      "onboard_time": 1734951078,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526141,
       "num": 325516,
       "word": "华筝 草原公主",
@@ -921,6 +937,14 @@
       "onboard_time": 1734921436,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 480071,
+      "num": 480071,
+      "word": "湖南冲撞小学生案一审宣判",
+      "onboard_time": 1734948077,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 470683,
@@ -1003,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 449886,
-      "num": 449886,
-      "word": "九重紫 庆功宴",
-      "onboard_time": 1734949458,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 449391,
       "num": 449391,
       "word": "23岁的考场和18岁是不同的",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1734838277,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 438002,
-      "num": 438001,
-      "word": "湖南冲撞小学生案一审宣判",
-      "onboard_time": 1734948077,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 437785,
@@ -1619,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301173,
+      "num": 301173,
+      "word": "李昀锐喝醉了就快躺下睡吧",
+      "onboard_time": 1734951498,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296907,
       "num": 307392,
       "word": "九重紫男演员每天就发这种东西",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1734849377,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282245,
+      "num": 282245,
+      "word": "陈辉晋升上将军衔",
+      "onboard_time": 1734951199,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 281144,
@@ -2019,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236095,
+      "num": 236095,
+      "word": "痛经药",
+      "onboard_time": 1734949818,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235198,
       "num": 235198,
       "word": "唐尚珺1500米跑了倒数第3",
@@ -2211,6 +2243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218716,
+      "num": 303554,
+      "word": "金善旴点到液体外卖勺",
+      "onboard_time": 1734949278,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218605,
       "num": 218605,
       "word": "梁洁 小女子不才",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1734899230,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204382,
+      "num": 204382,
+      "word": "猎罪图鉴2排播",
+      "onboard_time": 1734951918,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 204346,
@@ -2987,6 +3035,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168339,
+      "num": 168339,
+      "word": "射雕",
+      "onboard_time": 1734951078,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 168252,
+      "num": 297891,
+      "word": "9年前买199元恋爱险兑付1万元",
+      "onboard_time": 1734950418,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168120,
       "num": 168120,
       "word": "被2024的这些瞬间硬控了",
@@ -3041,6 +3105,14 @@
       "onboard_time": 1734787519,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 167215,
+      "num": 167215,
+      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+      "onboard_time": 1734952398,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166512,
@@ -3145,6 +3217,14 @@
       "onboard_time": 1734925758,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161235,
+      "num": 161235,
+      "word": "陈震称小鹏智驾有毒",
+      "onboard_time": 1734952697,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 160437,
@@ -3331,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152422,
+      "num": 152422,
+      "word": "迪丽热巴毛茸茸的过冬搭子",
+      "onboard_time": 1734950418,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152096,
       "num": 152096,
       "word": "许嵩在想象之中录了想象之中",
@@ -3396,7 +3484,7 @@
     },
     {
       "raw_hot": 150708,
-      "num": 150708,
+      "num": 180586,
       "word": "工作三年和读研三年相比哪个更值",
       "onboard_time": 1734875300,
       "rank": 36,
@@ -3571,6 +3659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142490,
+      "num": 142490,
+      "word": "液体勺",
+      "onboard_time": 1734952578,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141888,
       "num": 141888,
       "word": "SBS合作舞台",
@@ -3585,6 +3681,14 @@
       "onboard_time": 1734870499,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "WBG战胜EDG",
+      "onboard_time": 1734952518,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 140883,
@@ -3769,6 +3873,14 @@
       "onboard_time": 1734855977,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 132976,
+      "num": 132976,
+      "word": "新射雕华筝公主反差感",
+      "onboard_time": 1734950778,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 132718,
@@ -4067,19 +4179,19 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 123793,
+      "num": 123793,
+      "word": "男孩2次尾随女孩进入电梯脱裤子",
+      "onboard_time": 1734952697,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123775,
       "num": 123775,
       "word": "魏大勋工作室发布告黑声明",
       "onboard_time": 1734862639,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123769,
-      "num": 123769,
-      "word": "迪丽热巴毛茸茸的过冬搭子",
-      "onboard_time": 1734950418,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -4179,14 +4291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118305,
-      "num": 297891,
-      "word": "9年前买199元恋爱险兑付1万元",
-      "onboard_time": 1734950418,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118031,
       "num": 118031,
       "word": "冬至又下线一个闺蜜",
@@ -4212,7 +4316,7 @@
     },
     {
       "raw_hot": 117587,
-      "num": 117587,
+      "num": 333077,
       "word": "女子跨国守护熊猫一家10年",
       "onboard_time": 1734950298,
       "rank": 49,
@@ -4329,6 +4433,14 @@
       "onboard_time": 1734844578,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113752,
+      "num": 219336,
+      "word": "Faker李龙馥同框",
+      "onboard_time": 1734951798,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 113147,
@@ -4571,6 +4683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105023,
+      "num": 237489,
+      "word": "2024年莎头组合7个赛事6个冠军",
+      "onboard_time": 1734952038,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "袁记云饺有店铺销量下滑三分之一",
@@ -4729,14 +4849,6 @@
       "onboard_time": 1734848239,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 98403,
-      "num": 303554,
-      "word": "金善旴点到液体外卖勺",
-      "onboard_time": 1734949278,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 98277,
@@ -5147,6 +5259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72490,
+      "num": 239482,
+      "word": "成毅时装杂志加印",
+      "onboard_time": 1734951918,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 72233,
       "num": 445895,
       "word": "大量老师晒学生视频走红",
@@ -5371,6 +5491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61090,
+      "num": 201965,
+      "word": "寒武纪总市值突破2900亿元",
+      "onboard_time": 1734951498,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60797,
       "num": 208397,
       "word": "被抱摔艺考女生回应疑被恶意竞争",
@@ -5529,6 +5657,14 @@
       "onboard_time": 1734886277,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 53265,
+      "num": 201959,
+      "word": "遭老板性侵女子被劝以公司为重",
+      "onboard_time": 1734951498,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53055,
@@ -6187,6 +6323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 29642,
+      "num": 323942,
+      "word": "人民网评清明上河图密码",
+      "onboard_time": 1734952038,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29318,
       "num": 32013,
       "word": "鞠婧祎田嘉瑞原始帧氛围感",
@@ -6201,6 +6345,14 @@
       "onboard_time": 1734910396,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28736,
+      "num": 287369,
+      "word": "猎罪图鉴2流水线的双刃剑",
+      "onboard_time": 1734951918,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 28733,
@@ -6400,6 +6552,14 @@
       "word": "在澳洲感受到了佛山咏春拳的含金量",
       "onboard_time": 1734931219,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18358,
+      "num": 238477,
+      "word": "遭职场侵害当事人发声",
+      "onboard_time": 1734952278,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
