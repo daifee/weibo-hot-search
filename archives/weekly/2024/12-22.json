@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734942554073,
+  "endTime": 1734943362687,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 894302,
+      "num": 774168,
+      "word": "宋亚轩 LV",
+      "onboard_time": 1734941357,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 871310,
       "num": 527805,
       "word": "陆柯燃解约了",
@@ -337,6 +345,14 @@
       "onboard_time": 1734841157,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 838879,
+      "num": 838879,
+      "word": "杀害河南女法官男子死刑",
+      "onboard_time": 1734939137,
+      "rank": 9,
+      "category": "民生新闻,辟谣/通报"
     },
     {
       "raw_hot": 819250,
@@ -435,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 755173,
+      "num": 755173,
+      "word": "微信可以线上送实体礼物了",
+      "onboard_time": 1734938356,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 751213,
       "num": 751213,
       "word": "长沙下雪",
@@ -497,22 +521,6 @@
       "onboard_time": 1734934099,
       "rank": 15,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 705846,
-      "num": 705846,
-      "word": "杀害河南女法官男子死刑",
-      "onboard_time": 1734939137,
-      "rank": 9,
-      "category": "民生新闻,辟谣/通报"
-    },
-    {
-      "raw_hot": 705488,
-      "num": 705488,
-      "word": "微信可以线上送实体礼物了",
-      "onboard_time": 1734938356,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 696162,
@@ -801,14 +809,6 @@
       "onboard_time": 1734938119,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 499298,
-      "num": 499298,
-      "word": "宋亚轩 LV",
-      "onboard_time": 1734941357,
-      "rank": 7,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 496126,
@@ -1227,6 +1227,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368461,
+      "num": 368461,
+      "word": "遭恶犬袭击4岁男童或需全身换血",
+      "onboard_time": 1734937758,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363121,
+      "num": 321329,
+      "word": "美羊羊的房间居然放喜羊羊照片",
+      "onboard_time": 1734940217,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 362870,
       "num": 362870,
       "word": "恋与深空3.0万象遇你",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 342625,
-      "num": 342625,
-      "word": "遭恶犬袭击4岁男童或需全身换血",
-      "onboard_time": 1734937758,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339564,
@@ -1411,14 +1419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321329,
-      "num": 321329,
-      "word": "美羊羊的房间居然放喜羊羊照片",
-      "onboard_time": 1734940217,
-      "rank": 20,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 315967,
       "num": 315967,
       "word": "乒超",
@@ -1499,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296686,
+      "num": 296686,
+      "word": "孟子义保持身材秘诀 食物中毒",
+      "onboard_time": 1734941418,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293283,
       "num": 638133,
       "word": "上海地铁11号线抢修",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1734849377,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283064,
+      "num": 296573,
+      "word": "向佐在红毯上生气了",
+      "onboard_time": 1734942438,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 281144,
@@ -1833,6 +1849,14 @@
       "onboard_time": 1734864919,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243106,
+      "num": 332892,
+      "word": "孙颖莎场外指导超绝变脸",
+      "onboard_time": 1734941538,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 242421,
@@ -2155,14 +2179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206785,
-      "num": 206785,
-      "word": "孟子义保持身材秘诀 食物中毒",
-      "onboard_time": 1734941418,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206137,
       "num": 751203,
       "word": "韩国一军方驻地发生爆炸",
@@ -2339,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195180,
+      "num": 278692,
+      "word": "国色芳华两大赞助",
+      "onboard_time": 1734939437,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194982,
       "num": 165254,
       "word": "小姐姐买了一条阔腿裤",
@@ -2419,14 +2443,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191294,
-      "num": 332892,
-      "word": "孙颖莎场外指导超绝变脸",
-      "onboard_time": 1734941538,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191205,
       "num": 258783,
       "word": "在山东风筝像战机一样列队飞行",
@@ -2464,14 +2480,6 @@
       "word": "四大平台大剧对打",
       "onboard_time": 1734869179,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190100,
-      "num": 190100,
-      "word": "国色芳华两大赞助",
-      "onboard_time": 1734939437,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2939,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161050,
+      "num": 281631,
+      "word": "女子被外籍男子搂抱骚扰后报警",
+      "onboard_time": 1734941298,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160437,
       "num": 468823,
       "word": "央视揭AI假冒名人带货乱象",
@@ -3033,6 +3049,14 @@
       "onboard_time": 1734854778,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155372,
+      "num": 155372,
+      "word": "荣耀发布会",
+      "onboard_time": 1734942618,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 154624,
@@ -3137,6 +3161,14 @@
       "onboard_time": 1734852518,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151187,
+      "num": 151187,
+      "word": "台风帕布生成",
+      "onboard_time": 1734939857,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150940,
@@ -3259,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145568,
+      "num": 340664,
+      "word": "鞠婧祎陈都灵能不能亲一个",
+      "onboard_time": 1734941658,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145176,
       "num": 145176,
       "word": "柯南M7和新海诚的纯爱联动",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1734923117,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139659,
+      "num": 139659,
+      "word": "076",
+      "onboard_time": 1734939857,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 139630,
@@ -3387,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134972,
+      "num": 134972,
+      "word": "马航一航班挂7700代码后返航",
+      "onboard_time": 1734937999,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "胡先煦 天之浇子",
@@ -3401,6 +3457,14 @@
       "onboard_time": 1734832576,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133576,
+      "num": 133576,
+      "word": "专家称不能把选座作为盈利买卖",
+      "onboard_time": 1734942857,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133250,
@@ -3579,6 +3643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126097,
+      "num": 126097,
+      "word": "福宝现在体重104公斤",
+      "onboard_time": 1734943098,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125711,
       "num": 125711,
       "word": "国色芳华全员原声台词",
@@ -3649,14 +3721,6 @@
       "onboard_time": 1734839179,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124627,
-      "num": 281631,
-      "word": "女子被外籍男子搂抱骚扰后报警",
-      "onboard_time": 1734941298,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124161,
@@ -3792,14 +3856,6 @@
       "word": "九重紫 我爱吃这样的",
       "onboard_time": 1734784819,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 118167,
-      "num": 340664,
-      "word": "鞠婧祎陈都灵能不能亲一个",
-      "onboard_time": 1734941658,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -4219,6 +4275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101095,
+      "num": 398527,
+      "word": "官方回应老人在大理古城墙上撒现金",
+      "onboard_time": 1734942199,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100933,
       "num": 100933,
       "word": "蒋欣今年第一次完整看甄嬛传",
@@ -4411,14 +4475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92798,
-      "num": 294898,
-      "word": "向佐在红毯上生气了",
-      "onboard_time": 1734942438,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 92789,
       "num": 92789,
       "word": "毛不易在演唱会被贴脸开大",
@@ -4547,6 +4603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85295,
+      "num": 286057,
+      "word": "孙颖莎全年共获得14个冠军",
+      "onboard_time": 1734942618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85175,
       "num": 188970,
       "word": "檀健次曾一个人躲房间哭",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1734794179,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79404,
+      "num": 447921,
+      "word": "马航MH370航班重启搜寻细节披露",
+      "onboard_time": 1734942138,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79403,
@@ -5147,14 +5219,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 47629,
-      "num": 398527,
-      "word": "官方回应老人在大理古城墙上撒现金",
-      "onboard_time": 1734942199,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47566,
       "num": 50197,
       "word": "喀山本周末所有大型活动取消",
@@ -5193,14 +5257,6 @@
       "onboard_time": 1734932117,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46556,
-      "num": 447921,
-      "word": "马航MH370航班重启搜寻细节披露",
-      "onboard_time": 1734942138,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45807,
@@ -5435,6 +5491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36377,
+      "num": 369871,
+      "word": "河南考生被机构改志愿致落榜梦校",
+      "onboard_time": 1734943219,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36084,
       "num": 185236,
       "word": "尚雯婕生日直播",
@@ -5468,7 +5532,7 @@
     },
     {
       "raw_hot": 35588,
-      "num": 258373,
+      "num": 269841,
       "word": "朱志鑫微博跨年预约破500万",
       "onboard_time": 1734937999,
       "rank": 18,
@@ -5707,20 +5771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26713,
+      "num": 270386,
+      "word": "特朗普会比第一任期理性吗",
+      "onboard_time": 1734941599,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26354,
       "num": 153073,
       "word": "文班亚马火锅店",
       "onboard_time": 1734855738,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26140,
-      "num": 270386,
-      "word": "特朗普会比第一任期理性吗",
-      "onboard_time": 1734941599,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25300,
@@ -5819,20 +5883,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19861,
+      "num": 322081,
+      "word": "荣耀Magic7大王长焦有多强",
+      "onboard_time": 1734941058,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19720,
       "num": 26317,
       "word": "蒋欣李光洁热聊",
       "onboard_time": 1734892932,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 19213,
-      "num": 322081,
-      "word": "荣耀Magic7大王长焦有多强",
-      "onboard_time": 1734941058,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 19122,
