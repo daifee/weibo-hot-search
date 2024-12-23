@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734953769891,
+  "endTime": 1734957773937,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1295849,
+      "num": 1295849,
+      "word": "越来越容易打到臭车了",
+      "onboard_time": 1734954017,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1287464,
       "num": 1287464,
       "word": "考研结束",
@@ -217,6 +225,14 @@
       "onboard_time": 1734912077,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1173885,
+      "num": 689641,
+      "word": "曝刘诗诗方否认离婚",
+      "onboard_time": 1734954438,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1093245,
@@ -403,6 +419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 857155,
+      "num": 438897,
+      "word": "宋仲基炫耀女儿",
+      "onboard_time": 1734955939,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 849776,
       "num": 464582,
       "word": "数一 大题难",
@@ -579,6 +603,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 702641,
+      "num": 702641,
+      "word": "陈小纭演技",
+      "onboard_time": 1734956779,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 696162,
       "num": 884940,
       "word": "13楼住户遭厨余炸弹袭击",
@@ -593,6 +625,14 @@
       "onboard_time": 1734921978,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 688538,
+      "num": 688538,
+      "word": "液体勺",
+      "onboard_time": 1734952578,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 688171,
@@ -955,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470119,
+      "num": 470119,
+      "word": "女子过马路遭压路机辗压身亡",
+      "onboard_time": 1734955820,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469528,
       "num": 469528,
       "word": "李秀满公司在成都招人",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1734945679,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422101,
+      "num": 367362,
+      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+      "onboard_time": 1734952398,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 421844,
@@ -1451,6 +1507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345871,
+      "num": 345871,
+      "word": "孙阳陈昊宇 承认吧你俩都沦陷了",
+      "onboard_time": 1734956118,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339564,
       "num": 339564,
       "word": "胡军 丐永一",
@@ -1659,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302028,
-      "num": 278170,
-      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
-      "onboard_time": 1734952398,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296907,
       "num": 307392,
       "word": "九重紫男演员每天就发这种东西",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1734870259,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288699,
+      "num": 233816,
+      "word": "明日方舟直播",
+      "onboard_time": 1734956298,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 288381,
@@ -1835,12 +1899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269600,
+      "num": 269600,
+      "word": "32岁飞行员失联车内情况被还原",
+      "onboard_time": 1734956538,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268391,
       "num": 291240,
       "word": "王一博冰攀",
       "onboard_time": 1734870558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267755,
+      "num": 231167,
+      "word": "发现了微信运动仅聊天的秘密",
+      "onboard_time": 1734957138,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 267080,
@@ -1873,6 +1953,14 @@
       "onboard_time": 1734844938,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261956,
+      "num": 261956,
+      "word": "为什么妊娠纹产生时会有声音",
+      "onboard_time": 1734954558,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261203,
@@ -2083,14 +2171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231940,
-      "num": 231940,
-      "word": "液体勺",
-      "onboard_time": 1734952578,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230828,
       "num": 230828,
       "word": "肖战冬至晒了三个饺子",
@@ -2145,6 +2225,14 @@
       "onboard_time": 1734939857,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227714,
+      "num": 242494,
+      "word": "冬至 分手循环",
+      "onboard_time": 1734952939,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226971,
@@ -2209,6 +2297,14 @@
       "onboard_time": 1734864978,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221943,
+      "num": 277220,
+      "word": "特朗普称美国拥有格陵兰岛绝对必要",
+      "onboard_time": 1734953417,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221558,
@@ -2387,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206386,
+      "num": 206386,
+      "word": "男孩2次尾随女孩进入电梯脱裤子",
+      "onboard_time": 1734952697,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206137,
       "num": 751203,
       "word": "韩国一军方驻地发生爆炸",
@@ -2425,6 +2529,14 @@
       "onboard_time": 1734877100,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203013,
+      "num": 203013,
+      "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+      "onboard_time": 1734956898,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202406,
@@ -2577,14 +2689,6 @@
       "onboard_time": 1734848958,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195559,
-      "num": 242494,
-      "word": "冬至 分手循环",
-      "onboard_time": 1734952939,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 195180,
@@ -2819,6 +2923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182398,
+      "num": 182398,
+      "word": "疑似山姆代购蹲厕所分装蛋糕",
+      "onboard_time": 1734957318,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "猎罪图鉴2",
@@ -2993,6 +3105,14 @@
       "onboard_time": 1734786140,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172609,
+      "num": 172609,
+      "word": "国色芳华全集有广",
+      "onboard_time": 1734953837,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 172217,
@@ -3297,6 +3417,14 @@
       "onboard_time": 1734834377,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158361,
+      "num": 158361,
+      "word": "广东男子钓了一条自带赎金的鱼",
+      "onboard_time": 1734954978,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158287,
@@ -3611,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147813,
+      "num": 147813,
+      "word": "莎头组合全年比赛26场仅输1场",
+      "onboard_time": 1734954499,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147763,
       "num": 147763,
       "word": "戚薇出发图是自拍",
@@ -3683,20 +3819,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144107,
-      "num": 144107,
-      "word": "男孩2次尾随女孩进入电梯脱裤子",
-      "onboard_time": 1734952697,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
       "onboard_time": 1734879623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143893,
+      "num": 143893,
+      "word": "星河入梦",
+      "onboard_time": 1734957438,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 143772,
@@ -3891,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133826,
+      "num": 245773,
+      "word": "刘文新一审被判死缓",
+      "onboard_time": 1734957558,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133738,
       "num": 133738,
       "word": "湖人三连胜",
@@ -3905,6 +4049,14 @@
       "onboard_time": 1734942857,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133575,
+      "num": 133575,
+      "word": "马龙刘诗雯混双",
+      "onboard_time": 1734957618,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133250,
@@ -4835,14 +4987,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 99759,
-      "num": 277220,
-      "word": "特朗普称美国拥有格陵兰岛绝对必要",
-      "onboard_time": 1734953417,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 99689,
       "num": 163288,
       "word": "林高远欧冠联赛首战",
@@ -5019,6 +5163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 91567,
+      "num": 174874,
+      "word": "女子遭老板性侵被辞公司变更董事长",
+      "onboard_time": 1734955699,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91368,
       "num": 91368,
       "word": "今屿给轻语转账50",
@@ -5155,6 +5307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84084,
+      "num": 257335,
+      "word": "董倩说孙颖莎胸中有千军万马",
+      "onboard_time": 1734957199,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83735,
       "num": 216405,
       "word": "一条plog总结考研",
@@ -5169,6 +5329,14 @@
       "onboard_time": 1734865578,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83195,
+      "num": 263603,
+      "word": "刘诗诗方给平台发公函回应离婚",
+      "onboard_time": 1734957199,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 81549,
@@ -5264,6 +5432,14 @@
       "word": "盘点2024",
       "onboard_time": 1734772218,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75177,
+      "num": 250246,
+      "word": "三亚春节限价有高端套房降18万元",
+      "onboard_time": 1734955759,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -5593,6 +5769,14 @@
       "onboard_time": 1734855258,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59126,
+      "num": 266553,
+      "word": "肖央段奕宏请和好",
+      "onboard_time": 1734957318,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 58644,
@@ -6163,6 +6347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 36770,
+      "num": 381282,
+      "word": "纽约地铁蓄意纵火男子被捕",
+      "onboard_time": 1734956719,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 36600,
       "num": 165437,
       "word": "2024德杯宣传片",
@@ -6281,6 +6473,14 @@
       "onboard_time": 1734931518,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32890,
+      "num": 241029,
+      "word": "她力量年度作品盘点",
+      "onboard_time": 1734956358,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32831,
@@ -6683,6 +6883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16226,
+      "num": 236329,
+      "word": "对付鼻塞什么方法管用",
+      "onboard_time": 1734957138,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 16161,
       "num": 113718,
       "word": "eSIM真正释放了iPad的生产力",
@@ -6745,6 +6953,14 @@
       "onboard_time": 1734859338,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11790,
+      "num": 173300,
+      "word": "冬天就要来吉林滑雪",
+      "onboard_time": 1734954858,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 11261,
