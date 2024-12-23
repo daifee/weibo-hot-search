@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734938527010,
+  "endTime": 1734939311923,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -99,20 +99,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 923060,
+      "num": 923060,
+      "word": "飞机锁座越来越多",
+      "onboard_time": 1734934339,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 871310,
       "num": 527805,
       "word": "陆柯燃解约了",
       "onboard_time": 1734934398,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 827927,
-      "num": 827927,
-      "word": "飞机锁座越来越多",
-      "onboard_time": 1734934339,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 819250,
@@ -131,20 +131,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 777294,
+      "num": 777294,
+      "word": "蒋欣生图更是妈妈级别",
+      "onboard_time": 1734934398,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 768365,
       "num": 768365,
       "word": "县长回应政府门前夜市已存在多年",
       "onboard_time": 1734924437,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 724052,
-      "num": 690681,
-      "word": "蒋欣生图更是妈妈级别",
-      "onboard_time": 1734934398,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 706594,
@@ -169,6 +169,14 @@
       "onboard_time": 1734910036,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 674598,
+      "num": 321448,
+      "word": "蒋欣演我减肥",
+      "onboard_time": 1734938896,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 666209,
@@ -244,11 +252,19 @@
     },
     {
       "raw_hot": 545870,
-      "num": 258612,
+      "num": 309296,
       "word": "纪凌尘回应假装看书",
       "onboard_time": 1734936138,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530444,
+      "num": 530444,
+      "word": "南京一景区回应女子穿和服被指责",
+      "onboard_time": 1734935598,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 526141,
@@ -265,14 +281,6 @@
       "onboard_time": 1734885316,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491514,
-      "num": 491514,
-      "word": "南京一景区回应女子穿和服被指责",
-      "onboard_time": 1734935598,
-      "rank": 23,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 487574,
@@ -459,6 +467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 324430,
+      "num": 324430,
+      "word": "泼水成冰新手被开水烫伤",
+      "onboard_time": 1734935717,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318889,
       "num": 223610,
       "word": "上海地铁致歉",
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281144,
+      "num": 281144,
+      "word": "D社再曝宋旻浩服兵役造假",
+      "onboard_time": 1734936259,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279532,
       "num": 601788,
       "word": "为被投毒小狗追凶的831天",
@@ -552,14 +576,6 @@
       "word": "周芯竹说和周密曾有过快乐的时光",
       "onboard_time": 1734877279,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 267191,
-      "num": 256507,
-      "word": "D社再曝宋旻浩服兵役造假",
-      "onboard_time": 1734936259,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -627,11 +643,27 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 234282,
+      "raw_hot": 239585,
+      "num": 305148,
+      "word": "遭恶犬袭击4岁男童或需全身换血",
+      "onboard_time": 1734937758,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237229,
       "num": 298102,
       "word": "航空公司回应飞机锁座规则",
       "onboard_time": 1734933498,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232115,
+      "num": 232115,
+      "word": "福宝",
+      "onboard_time": 1734938119,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223060,
+      "num": 223060,
+      "word": "微信可以线上送实体礼物了",
+      "onboard_time": 1734938356,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "刘诗诗VOGUE香港版封面",
@@ -683,20 +723,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219599,
+      "num": 219599,
+      "word": "人大教授建议取消中考",
+      "onboard_time": 1734936077,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218394,
       "num": 218394,
       "word": "射雕长预告",
       "onboard_time": 1734921917,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 209856,
-      "num": 209856,
-      "word": "人大教授建议取消中考",
-      "onboard_time": 1734936077,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209134,
@@ -752,14 +792,6 @@
       "word": "长沙真的下雪了",
       "onboard_time": 1734906793,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197756,
-      "num": 268309,
-      "word": "泼水成冰新手被开水烫伤",
-      "onboard_time": 1734935717,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -899,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175255,
+      "num": 175255,
+      "word": "原神玛薇卡",
+      "onboard_time": 1734938479,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174508,
       "num": 174508,
       "word": "檀健次ELLE销量",
       "onboard_time": 1734925578,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173274,
+      "num": 173274,
+      "word": "粉丝大喊孙颖莎感谢现役的含金量",
+      "onboard_time": 1734936316,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 171910,
@@ -921,14 +969,6 @@
       "onboard_time": 1734924856,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168874,
-      "num": 168874,
-      "word": "粉丝大喊孙颖莎感谢现役的含金量",
-      "onboard_time": 1734936316,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 167542,
@@ -1147,12 +1187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "荣耀影像技术发布会",
+      "onboard_time": 1734938718,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130677,
       "num": 105320,
       "word": "檀健次沈翊连瞳孔都在飙戏",
       "onboard_time": 1734884416,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128224,
+      "num": 128224,
+      "word": "陈冠希晒女儿滑冰照片",
+      "onboard_time": 1734938959,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 128154,
@@ -1235,14 +1291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124640,
-      "num": 263110,
-      "word": "遭恶犬袭击4岁男童或需全身换血",
-      "onboard_time": 1734937758,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123897,
       "num": 123897,
       "word": "虎跳峡",
@@ -1265,14 +1313,6 @@
       "onboard_time": 1734923418,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119848,
-      "num": 119848,
-      "word": "福宝",
-      "onboard_time": 1734938119,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119020,
@@ -1299,12 +1339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115230,
+      "num": 115230,
+      "word": "迪丽热巴贺思慕玩雪路透",
+      "onboard_time": 1734938418,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115032,
       "num": 189108,
       "word": "白月梵星官博回应",
       "onboard_time": 1734915497,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112929,
+      "num": 112929,
+      "word": "幼儿园老师3周变出雪雕大滑梯",
+      "onboard_time": 1734933437,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112404,
@@ -1315,12 +1371,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112391,
-      "num": 115573,
-      "word": "微信可以线上送实体礼物了",
-      "onboard_time": 1734938356,
-      "rank": 48,
-      "category": "互联网"
+      "raw_hot": 111342,
+      "num": 111342,
+      "word": "情妇贪图亿万遗产将87岁富翁饿死",
+      "onboard_time": 1734939257,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 110044,
@@ -1417,14 +1473,6 @@
       "onboard_time": 1734917897,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97952,
-      "num": 115336,
-      "word": "原神玛薇卡",
-      "onboard_time": 1734938479,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 95338,
@@ -1539,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75470,
+      "num": 320225,
+      "word": "杀害河南女法官男子死刑",
+      "onboard_time": 1734939137,
+      "rank": 9,
+      "category": "民生新闻,辟谣/通报"
+    },
+    {
       "raw_hot": 74958,
       "num": 74958,
       "word": "马嘉祺我是一个多余的人",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1734885316,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68101,
+      "num": 248757,
+      "word": "大奉打更人世界观科普",
+      "onboard_time": 1734938599,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 67515,
@@ -1591,6 +1655,14 @@
       "num": 284549,
       "word": "3少年点燃商场画展险酿大祸",
       "onboard_time": 1734923958,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64823,
+      "num": 257544,
+      "word": "一年抄一次水表发现用水上万吨",
+      "onboard_time": 1734937758,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -1651,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54909,
+      "num": 301941,
+      "word": "陈数说我们不需要和时间赛跑",
+      "onboard_time": 1734937818,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54713,
       "num": 54713,
       "word": "热刺3比6利物浦",
@@ -1673,14 +1753,6 @@
       "onboard_time": 1734930378,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 50570,
-      "num": 257544,
-      "word": "一年抄一次水表发现用水上万吨",
-      "onboard_time": 1734937758,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50396,
@@ -1771,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43199,
-      "num": 262570,
-      "word": "陈数说我们不需要和时间赛跑",
-      "onboard_time": 1734937818,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42230,
       "num": 42230,
       "word": "古人用气死蚁晒腊肉",
@@ -1793,6 +1857,22 @@
       "onboard_time": 1734925939,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41681,
+      "num": 815661,
+      "word": "2024这些passion瞬间提到了你",
+      "onboard_time": 1734938356,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41250,
+      "num": 173535,
+      "word": "朴志晟CHIC开年刊",
+      "onboard_time": 1734939198,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41249,
@@ -1905,14 +1985,6 @@
       "onboard_time": 1734935778,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 31078,
-      "num": 764005,
-      "word": "2024这些passion瞬间提到了你",
-      "onboard_time": 1734938356,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30358,
