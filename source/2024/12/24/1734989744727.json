@@ -1,0 +1,410 @@
+{
+  "runTime": 1734989744727,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 68263,
+        "num": 167606,
+        "word": "禁止员工去冰雪大世界企业道歉",
+        "onboard_time": 1734967698,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63190,
+        "num": 63190,
+        "word": "迪丽热巴 陈飞宇给我大大方方的",
+        "onboard_time": 1734970278,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10507,
+        "num": 47957,
+        "word": "宇宙年味发动机已启动",
+        "onboard_time": 1734969318,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47547,
+        "num": 47547,
+        "word": "群众随意进出县政府上厕所接热水",
+        "onboard_time": 1734984072,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 44012,
+        "num": 44012,
+        "word": "32岁飞行员失联车内情况被还原",
+        "onboard_time": 1734956538,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38555,
+        "num": 38555,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37535,
+        "num": 37535,
+        "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+        "onboard_time": 1734956898,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36912,
+        "num": 36912,
+        "word": "不要传刀哥被警察带走了",
+        "onboard_time": 1734979031,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34995,
+        "num": 34995,
+        "word": "落跑甜心女主整复被弄骨折",
+        "onboard_time": 1734958940,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32308,
+        "num": 32308,
+        "word": "巴拿马总统强硬回应特朗普",
+        "onboard_time": 1734971536,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55488,
+        "num": 32104,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31382,
+        "num": 31382,
+        "word": "疑似山姆代购蹲厕所分装蛋糕",
+        "onboard_time": 1734957318,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30457,
+        "num": 30457,
+        "word": "官方回应荒山上安装健身器材",
+        "onboard_time": 1734973694,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27206,
+        "num": 27206,
+        "word": "蛇年纪念币预约",
+        "onboard_time": 1734962780,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25367,
+        "num": 25367,
+        "word": "越来越容易打到臭车了",
+        "onboard_time": 1734954017,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25265,
+        "num": 25265,
+        "word": "杨祐宁谈老婆生产 真的掉了一块肉",
+        "onboard_time": 1734966801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22812,
+        "num": 22812,
+        "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
+        "onboard_time": 1734985270,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22798,
+        "num": 22798,
+        "word": "宋仲基炫耀女儿",
+        "onboard_time": 1734955939,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 20642,
+        "word": "陈小纭演技",
+        "onboard_time": 1734956779,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10417,
+        "num": 20557,
+        "word": "多家航司回应飞机锁座越来越多",
+        "onboard_time": 1734989351,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40709,
+        "num": 19979,
+        "word": "女子生产前4小时才知道自己怀孕",
+        "onboard_time": 1734965361,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27129,
+        "num": 19855,
+        "word": "男子婚后发现妻子结7次婚育6娃",
+        "onboard_time": 1734960080,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26697,
+        "num": 19535,
+        "word": "突然对韩国祛魅了",
+        "onboard_time": 1734961640,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22636,
+        "num": 19042,
+        "word": "发现了微信运动仅聊天的秘密",
+        "onboard_time": 1734957138,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11313,
+        "num": 18912,
+        "word": "在家产女开出生证需做亲子鉴定",
+        "onboard_time": 1734989652,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18612,
+        "num": 18612,
+        "word": "韩国21天魔鬼减肥掉秤法",
+        "onboard_time": 1734964820,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18247,
+        "num": 18247,
+        "word": "为什么iPhone信号不如国产手机",
+        "onboard_time": 1734960439,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17890,
+        "num": 17890,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17782,
+        "num": 17782,
+        "word": "有境外间谍利用评论区窃密",
+        "onboard_time": 1734975612,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17737,
+        "num": 17737,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17387,
+        "num": 17387,
+        "word": "这房子完全长在了我的心巴上",
+        "onboard_time": 1734985872,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17171,
+        "num": 17171,
+        "word": "蛇年纪念钞预约",
+        "onboard_time": 1734965180,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16982,
+        "num": 16982,
+        "word": "景区回应用绳子制造人工冰瀑",
+        "onboard_time": 1734974893,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16619,
+        "num": 16619,
+        "word": "小米SU7获奖2024年度车",
+        "onboard_time": 1734969138,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16527,
+        "num": 16527,
+        "word": "官方辟谣苏州大量外企撤资",
+        "onboard_time": 1734982151,
+        "rank": 34,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 16265,
+        "num": 16265,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16188,
+        "num": 16188,
+        "word": "赵露思方公布维权进度",
+        "onboard_time": 1734970097,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15818,
+        "num": 15818,
+        "word": "我的2024年",
+        "onboard_time": 1734981371,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15787,
+        "num": 15787,
+        "word": "香港10平米月租8000的家",
+        "onboard_time": 1734988030,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15343,
+        "num": 15343,
+        "word": "日本樱岛火山再度喷发",
+        "onboard_time": 1734978251,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15292,
+        "num": 15292,
+        "word": "被铁路售票员的手速惊到了",
+        "onboard_time": 1734959660,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14218,
+        "num": 14218,
+        "word": "陈乔恩实现了鸡佛自由",
+        "onboard_time": 1734980771,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14005,
+        "num": 14005,
+        "word": "猎罪2第九案有点太癫了",
+        "onboard_time": 1734961159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13557,
+        "num": 13557,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13474,
+        "num": 13474,
+        "word": "圣诞节 鸡公煲",
+        "onboard_time": 1734955878,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10446,
+        "num": 13343,
+        "word": "95后救火又捐献造血干细胞救人",
+        "onboard_time": 1734987731,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13324,
+        "num": 13324,
+        "word": "守护国家安全每个人都是卫士",
+        "onboard_time": 1734977292,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13127,
+        "num": 13127,
+        "word": "桐心薇泯",
+        "onboard_time": 1734962359,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12611,
+        "num": 13127,
+        "word": "外交部回应反制加拿大有关机构及人员",
+        "onboard_time": 1734980892,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12371,
+        "num": 13126,
+        "word": "咒术回战最终卷加页",
+        "onboard_time": 1734965480,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委举行晋升上将军衔仪式#"
+    }
+  }
+}

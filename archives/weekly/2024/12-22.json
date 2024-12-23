@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734988814056,
+  "endTime": 1734989744727,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -7643,6 +7643,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17387,
+      "num": 17387,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17149,
       "num": 178043,
       "word": "AL晋级德杯四强",
@@ -7699,14 +7707,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 16115,
-      "num": 16115,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
@@ -7721,6 +7721,14 @@
       "onboard_time": 1734815051,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15787,
+      "num": 15787,
+      "word": "香港10平米月租8000的家",
+      "onboard_time": 1734988030,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 14413,
@@ -7771,14 +7779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12094,
-      "num": 13420,
-      "word": "香港10平米月租8000的家",
-      "onboard_time": 1734988030,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 11909,
       "num": 121843,
       "word": "节日氛围感发型",
@@ -7809,6 +7809,14 @@
       "onboard_time": 1734983350,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11313,
+      "num": 18912,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11261,
@@ -7843,7 +7851,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10342,
+      "raw_hot": 10507,
       "num": 54246,
       "word": "宇宙年味发动机已启动",
       "onboard_time": 1734969318,
@@ -7851,12 +7859,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10337,
+      "raw_hot": 10446,
       "num": 13423,
       "word": "95后救火又捐献造血干细胞救人",
       "onboard_time": 1734987731,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10417,
+      "num": 20557,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10039,

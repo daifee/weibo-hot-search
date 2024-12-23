@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734988814056,
+  "endTime": 1734989744727,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -595,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17387,
+      "num": 17387,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16581,
       "num": 31897,
       "word": "官方辟谣苏州大量外企撤资",
       "onboard_time": 1734982151,
       "rank": 14,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 16115,
-      "num": 16115,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 16021,
@@ -619,8 +619,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12094,
-      "num": 13420,
+      "raw_hot": 15787,
+      "num": 15787,
       "word": "香港10平米月租8000的家",
       "onboard_time": 1734988030,
       "rank": 47,
@@ -643,6 +643,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 11313,
+      "num": 18912,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10728,
       "num": 32092,
       "word": "文化中国行守护非遗之美",
@@ -651,7 +659,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10342,
+      "raw_hot": 10507,
       "num": 54246,
       "word": "宇宙年味发动机已启动",
       "onboard_time": 1734969318,
@@ -659,12 +667,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10337,
+      "raw_hot": 10446,
       "num": 13423,
       "word": "95后救火又捐献造血干细胞救人",
       "onboard_time": 1734987731,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10417,
+      "num": 20557,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10039,
