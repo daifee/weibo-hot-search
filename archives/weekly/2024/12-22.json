@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734996065734,
+  "endTime": 1734996932464,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -947,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 563445,
+      "num": 764902,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 560359,
       "num": 560359,
       "word": "于适希望更多中国传统体育运动被看见",
@@ -1216,14 +1224,6 @@
       "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
       "onboard_time": 1734869298,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 440363,
-      "num": 764902,
-      "word": "在家产女开出生证需做亲子鉴定",
-      "onboard_time": 1734989652,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4563,6 +4563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130584,
+      "num": 130584,
+      "word": "王楚钦新发色",
+      "onboard_time": 1734995775,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130480,
       "num": 130480,
       "word": "嬴政玄雷天君金牌皮肤",
@@ -4577,6 +4585,14 @@
       "onboard_time": 1734855319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128668,
+      "num": 131050,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 128633,
@@ -5003,6 +5019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114591,
+      "num": 140373,
+      "word": "官方回应荒山上安装健身器材",
+      "onboard_time": 1734973694,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114529,
       "num": 226151,
       "word": "3个穴位安神助眠",
@@ -5049,14 +5073,6 @@
       "onboard_time": 1734951798,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113565,
-      "num": 113565,
-      "word": "不要传刀哥被警察带走了",
-      "onboard_time": 1734979031,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 113147,
@@ -5243,6 +5259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107701,
+      "num": 107701,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107485,
       "num": 237830,
       "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
@@ -5296,14 +5320,6 @@
       "word": "外嫁女没分到土地补偿款起诉村民组",
       "onboard_time": 1734947897,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106100,
-      "num": 106100,
-      "word": "多家航司回应飞机锁座越来越多",
-      "onboard_time": 1734989351,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5587,14 +5603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94496,
-      "num": 140373,
-      "word": "官方回应荒山上安装健身器材",
-      "onboard_time": 1734973694,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -5689,14 +5697,6 @@
       "onboard_time": 1734792261,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89142,
-      "num": 89142,
-      "word": "王楚钦新发色",
-      "onboard_time": 1734995775,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 88549,
@@ -5827,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82121,
+      "num": 82121,
+      "word": "个人养老金没预约却被开户",
+      "onboard_time": 1734994333,
+      "rank": 24,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 81549,
       "num": 137765,
       "word": "特朗普称期待与普京会面",
@@ -5864,6 +5872,14 @@
       "word": "把游客宠上天倒也不必苛求当地人",
       "onboard_time": 1734879860,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78027,
+      "num": 115224,
+      "word": "遇小女孩求助公交司机秒变夹子音",
+      "onboard_time": 1734995595,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5907,6 +5923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 76530,
+      "num": 76530,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 76065,
       "num": 137045,
       "word": "宋雨琦费加罗高定封面",
@@ -5921,14 +5945,6 @@
       "onboard_time": 1734772218,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75505,
-      "num": 75505,
-      "word": "个人养老金没预约却被开户",
-      "onboard_time": 1734994333,
-      "rank": 24,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 75177,
@@ -6267,6 +6283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61624,
+      "num": 61624,
+      "word": "74年前他们以战斗队形冻成冰人",
+      "onboard_time": 1734996376,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61090,
       "num": 201965,
       "word": "寒武纪总市值突破2900亿元",
@@ -6347,14 +6371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 58748,
-      "num": 58748,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 58644,
       "num": 286013,
       "word": "一诺画太阳花",
@@ -6371,6 +6387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57454,
+      "num": 92564,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56597,
       "num": 292913,
       "word": "女中医拳王比赛夺冠后挂号秒光",
@@ -6385,6 +6409,14 @@
       "onboard_time": 1734799157,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 56254,
+      "num": 91304,
+      "word": "iG与TES重启LPL忍界大战",
+      "onboard_time": 1734995834,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 55738,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1734910036,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54026,
+      "num": 54026,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 53586,
@@ -6715,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46423,
+      "num": 46423,
+      "word": "外交部回应特朗普收回巴拿马运河言论",
+      "onboard_time": 1734996675,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46029,
       "num": 252885,
       "word": "北京卫视跨年之夜全阵容",
@@ -6729,6 +6777,14 @@
       "onboard_time": 1734869360,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45782,
+      "num": 45782,
+      "word": "有境外间谍利用评论区窃密",
+      "onboard_time": 1734975612,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45748,
@@ -6771,12 +6827,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 43759,
-      "num": 43759,
-      "word": "有境外间谍利用评论区窃密",
-      "onboard_time": 1734975612,
-      "rank": 25,
-      "category": "国内时政"
+      "raw_hot": 44618,
+      "num": 44618,
+      "word": "猎罪图鉴2画像师原型满意檀健次表演",
+      "onboard_time": 1734974353,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 43688,
@@ -6793,6 +6849,14 @@
       "onboard_time": 1734953299,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43514,
+      "num": 43514,
+      "word": "原来韩国老奶真的会爆金币",
+      "onboard_time": 1734995775,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 43225,
@@ -6835,14 +6899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42468,
-      "num": 42468,
-      "word": "猎罪图鉴2画像师原型满意檀健次表演",
-      "onboard_time": 1734974353,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42230,
       "num": 42230,
       "word": "古人用气死蚁晒腊肉",
@@ -6881,14 +6937,6 @@
       "onboard_time": 1734823753,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 41256,
-      "num": 41256,
-      "word": "陈乔恩实现了鸡佛自由",
-      "onboard_time": 1734980771,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 41250,
@@ -6955,14 +7003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39636,
-      "num": 39636,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 38936,
       "num": 38936,
       "word": "皇马vs塞维利亚",
@@ -7025,14 +7065,6 @@
       "onboard_time": 1734856340,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37158,
-      "num": 38685,
-      "word": "iG与TES重启LPL忍界大战",
-      "onboard_time": 1734995834,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 37089,
@@ -7380,7 +7412,7 @@
     },
     {
       "raw_hot": 29995,
-      "num": 312287,
+      "num": 329924,
       "word": "宇宙年味发动机已启动",
       "onboard_time": 1734969318,
       "rank": 2,
@@ -7811,12 +7843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13431,
-      "num": 115224,
-      "word": "遇小女孩求助公交司机秒变夹子音",
-      "onboard_time": 1734995595,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 13900,
+      "num": 130614,
+      "word": "风中的火焰",
+      "onboard_time": 1734995715,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 13369,
@@ -7881,6 +7913,14 @@
       "onboard_time": 1734983350,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 11306,
+      "num": 87307,
+      "word": "河南女法官被害案一审宣判",
+      "onboard_time": 1734996796,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11261,
@@ -7993,14 +8033,6 @@
       "onboard_time": 1734898212,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5629,
-      "num": 94540,
-      "word": "风中的火焰",
-      "onboard_time": 1734995715,
-      "rank": 18,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
