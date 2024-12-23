@@ -1,0 +1,410 @@
+{
+  "runTime": 1734935545951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1265760,
+        "num": 1265760,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503500,
+        "num": 503500,
+        "word": "高考601分女生为何选择殡葬专业",
+        "onboard_time": 1734925998,
+        "rank": 1,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 32967,
+        "num": 376781,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997870,
+        "num": 361809,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 666209,
+        "num": 360428,
+        "word": "男子要求出轨对象偿还出轨期间支出",
+        "onboard_time": 1734930319,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331309,
+        "num": 331309,
+        "word": "A股三大突发",
+        "onboard_time": 1734929601,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 819250,
+        "num": 331201,
+        "word": "诛仙2.0",
+        "onboard_time": 1734933258,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 711262,
+        "num": 331146,
+        "word": "陆柯燃解约了",
+        "onboard_time": 1734934398,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330948,
+        "num": 330948,
+        "word": "室友考完研回来还在学",
+        "onboard_time": 1734928339,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54440,
+        "num": 329897,
+        "word": "对话因女儿痛经研发新药的教授",
+        "onboard_time": 1734934099,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1355455,
+        "num": 328494,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582804,
+        "num": 327699,
+        "word": "蒋欣生图更是妈妈级别",
+        "onboard_time": 1734934398,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526141,
+        "num": 325516,
+        "word": "华筝 草原公主",
+        "onboard_time": 1734932238,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412276,
+        "num": 325050,
+        "word": "祝绪丹会跟迪丽热巴讲心里话",
+        "onboard_time": 1734931338,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33595,
+        "num": 322460,
+        "word": "公司霸凌员工要求其抄写心经",
+        "onboard_time": 1734934278,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322363,
+        "num": 322363,
+        "word": "殡葬专业本科比其他专业高二三十分",
+        "onboard_time": 1734934099,
+        "rank": 15,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 84146,
+        "num": 317842,
+        "word": "国足在杭州对阵澳大利亚",
+        "onboard_time": 1734929359,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109343,
+        "num": 316306,
+        "word": "麦琳听到李行亮写的歌绷不住了",
+        "onboard_time": 1734935358,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55738,
+        "num": 308578,
+        "word": "张杰费加罗男士十二月闭年刊封面",
+        "onboard_time": 1734934518,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 36014,
+        "num": 302083,
+        "word": "男子改造五千平展厅收养猫咪被质疑",
+        "onboard_time": 1734934158,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301819,
+        "num": 301819,
+        "word": "庄达菲黄蓉妆造",
+        "onboard_time": 1734929479,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296905,
+        "num": 296905,
+        "word": "已生6女90后女子第七胎生女",
+        "onboard_time": 1734926119,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21395,
+        "num": 290347,
+        "word": "脱口秀演员组团对鸿蒙开麦",
+        "onboard_time": 1734933138,
+        "rank": 22,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 289395,
+        "num": 289395,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283228,
+        "num": 283228,
+        "word": "飞机锁座越来越多",
+        "onboard_time": 1734934339,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268618,
+        "num": 268618,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244802,
+        "num": 244802,
+        "word": "徐克 镜头美学",
+        "onboard_time": 1734933558,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214938,
+        "num": 214938,
+        "word": "航空公司回应飞机锁座规则",
+        "onboard_time": 1734933498,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25039,
+        "num": 200937,
+        "word": "杨紫盼与何惟芳相见",
+        "onboard_time": 1734931518,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24882,
+        "num": 194047,
+        "word": "上海将举行2024乒超总决赛",
+        "onboard_time": 1734933798,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190482,
+        "num": 190482,
+        "word": "A股",
+        "onboard_time": 1734934217,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 186044,
+        "word": "女子在南京景区穿和服拍照遭怒怼",
+        "onboard_time": 1734929060,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179983,
+        "num": 179983,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 170393,
+        "num": 170393,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154784,
+        "num": 154784,
+        "word": "胡军 丐永一",
+        "onboard_time": 1734928519,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19857,
+        "num": 140500,
+        "word": "蒋敦豪谢谢东莞",
+        "onboard_time": 1734930378,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126912,
+        "num": 126912,
+        "word": "72岁老人演上百部短剧一天收入上千",
+        "onboard_time": 1734934937,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126408,
+        "num": 126408,
+        "word": "王者送典韦新皮肤",
+        "onboard_time": 1734932418,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125500,
+        "num": 125500,
+        "word": "九重紫转场而出的少年舅舅",
+        "onboard_time": 1734933857,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118313,
+        "num": 118313,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116995,
+        "num": 116995,
+        "word": "曾庆杰 上桌",
+        "onboard_time": 1734933737,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115418,
+        "num": 115418,
+        "word": "刘诗诗VOGUE香港版封面",
+        "onboard_time": 1734928939,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110044,
+        "num": 110044,
+        "word": "工行建行股价双双创历史新高",
+        "onboard_time": 1734934878,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108317,
+        "num": 108317,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106160,
+        "num": 106160,
+        "word": "留几手曾透露再见爱人无剧本",
+        "onboard_time": 1734929179,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105048,
+        "num": 105048,
+        "word": "乒超",
+        "onboard_time": 1734929659,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96668,
+        "num": 96668,
+        "word": "九重紫",
+        "onboard_time": 1734928639,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95591,
+        "num": 95591,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95338,
+        "num": 95338,
+        "word": "孙颖莎2024赛季年终总结",
+        "onboard_time": 1734932957,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90122,
+        "num": 90122,
+        "word": "曾庆杰 我不允许任何人忤逆你",
+        "onboard_time": 1734928939,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}
