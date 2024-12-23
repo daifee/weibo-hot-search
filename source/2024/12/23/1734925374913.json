@@ -1,0 +1,410 @@
+{
+  "runTime": 1734925374913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1025215,
+        "num": 1164034,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 946804,
+        "num": 946804,
+        "word": "不少孩子当代练挣钱玩游戏",
+        "onboard_time": 1734920477,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26819,
+        "num": 858972,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850055,
+        "num": 850055,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637796,
+        "num": 637796,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 629152,
+        "num": 629152,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 615603,
+        "num": 615603,
+        "word": "大奉打更人OST阵容",
+        "onboard_time": 1734921978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576234,
+        "num": 576234,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147394,
+        "num": 543839,
+        "word": "被同学抱摔艺考女生面试皆被拒收",
+        "onboard_time": 1734920837,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376655,
+        "num": 538576,
+        "word": "一段视频看侠之大者的含义",
+        "onboard_time": 1734921256,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537492,
+        "num": 537492,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481358,
+        "num": 481358,
+        "word": "柳岩谈44岁女演员的尴尬",
+        "onboard_time": 1734921436,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 375962,
+        "num": 375962,
+        "word": "QQ音乐报告 NCT专辑",
+        "onboard_time": 1734923898,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334217,
+        "num": 334217,
+        "word": "从武侠看中国人的处世哲学",
+        "onboard_time": 1734921256,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313129,
+        "num": 313129,
+        "word": "胡军演洪七公",
+        "onboard_time": 1734924437,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289282,
+        "num": 289282,
+        "word": "玄彬说孙艺珍和儿子是第一顺位",
+        "onboard_time": 1734919817,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257808,
+        "num": 257808,
+        "word": "A股",
+        "onboard_time": 1734919637,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 247610,
+        "num": 247610,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189862,
+        "num": 247477,
+        "word": "何惟芳待花开",
+        "onboard_time": 1734924077,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65663,
+        "num": 238569,
+        "word": "3少年点燃商场画展险酿大祸",
+        "onboard_time": 1734923958,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590242,
+        "num": 230740,
+        "word": "上海地铁又现致歉信专用章",
+        "onboard_time": 1734910998,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399645,
+        "num": 229085,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263601,
+        "num": 219361,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217531,
+        "num": 217531,
+        "word": "王力宏官宣个人巡回演唱会",
+        "onboard_time": 1734913758,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52217,
+        "num": 213917,
+        "word": "姆巴佩世界波",
+        "onboard_time": 1734911475,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213700,
+        "num": 213700,
+        "word": "县长回应政府门前夜市已存在多年",
+        "onboard_time": 1734924437,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206809,
+        "num": 206809,
+        "word": "杨紫李现古装cp感",
+        "onboard_time": 1734924977,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206137,
+        "num": 206137,
+        "word": "韩国一军方驻地发生爆炸",
+        "onboard_time": 1734922817,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45502,
+        "num": 200672,
+        "word": "王嘉尔官宣双品牌全球合作伙伴",
+        "onboard_time": 1734919757,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199531,
+        "num": 199531,
+        "word": "国色芳华预热",
+        "onboard_time": 1734919456,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194734,
+        "num": 194734,
+        "word": "国安部提示警惕评论区里的谍影重重",
+        "onboard_time": 1734922158,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187240,
+        "num": 187240,
+        "word": "沈梦辰出演国色芳华",
+        "onboard_time": 1734923178,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182679,
+        "num": 182679,
+        "word": "恋与深空",
+        "onboard_time": 1734924917,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120441,
+        "num": 172273,
+        "word": "韩国一部队爆炸事件3名平民受伤",
+        "onboard_time": 1734923418,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171129,
+        "num": 171129,
+        "word": "李昀锐大拇指",
+        "onboard_time": 1734910154,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164235,
+        "num": 164235,
+        "word": "林高远获胜振臂高呼",
+        "onboard_time": 1734924377,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160437,
+        "num": 160437,
+        "word": "央视揭AI假冒名人带货乱象",
+        "onboard_time": 1734923237,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155939,
+        "num": 155939,
+        "word": "人生就要充满passion",
+        "onboard_time": 1734914239,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149999,
+        "num": 149999,
+        "word": "刘阳老师加入东奥",
+        "onboard_time": 1734921499,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146753,
+        "num": 146753,
+        "word": "胡塞武装称袭击美军杜鲁门号航母",
+        "onboard_time": 1734921317,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143617,
+        "num": 143617,
+        "word": "女子在婚恋网被2男子骗400万",
+        "onboard_time": 1734923237,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142768,
+        "num": 142768,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139211,
+        "num": 139211,
+        "word": "慕胥辞贺思慕段胥雪中舞",
+        "onboard_time": 1734922098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136871,
+        "num": 136871,
+        "word": "张真源客串九重紫",
+        "onboard_time": 1734910696,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170052,
+        "num": 136838,
+        "word": "肖战射雕降龙十八掌镜头",
+        "onboard_time": 1734923958,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136470,
+        "num": 136470,
+        "word": "官方回应32岁飞行员失联事件",
+        "onboard_time": 1734915738,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135336,
+        "num": 135336,
+        "word": "黑神话悟空被山寨了",
+        "onboard_time": 1734915798,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133592,
+        "num": 133592,
+        "word": "虾 警惕突然对你好的人",
+        "onboard_time": 1734910635,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131982,
+        "num": 131982,
+        "word": "李行亮写歌控诉麦琳",
+        "onboard_time": 1734910455,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130466,
+        "num": 130466,
+        "word": "俄罗斯为何防不住乌军无人机",
+        "onboard_time": 1734925337,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

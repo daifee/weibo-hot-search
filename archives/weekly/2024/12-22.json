@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734924522546,
+  "endTime": 1734925374913,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 946804,
+      "num": 946804,
+      "word": "不少孩子当代练挣钱玩游戏",
+      "onboard_time": 1734920477,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 929729,
       "num": 516977,
       "word": "黄誉博 叫徐艺洋嫂子很奇怪",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 739199,
-      "num": 739199,
-      "word": "不少孩子当代练挣钱玩游戏",
-      "onboard_time": 1734920477,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 731665,
       "num": 731665,
       "word": "上海地铁致歉",
@@ -481,6 +481,14 @@
       "onboard_time": 1734864919,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 629152,
+      "num": 629152,
+      "word": "日本火山喷发灰柱高达3400米",
+      "onboard_time": 1734922337,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 626396,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481358,
+      "num": 481358,
+      "word": "柳岩谈44岁女演员的尴尬",
+      "onboard_time": 1734921436,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470683,
       "num": 470683,
       "word": "猎罪图鉴2女子在工厂活活饿死",
@@ -641,14 +657,6 @@
       "onboard_time": 1734918857,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468190,
-      "num": 468190,
-      "word": "柳岩谈44岁女演员的尴尬",
-      "onboard_time": 1734921436,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 467208,
@@ -785,14 +793,6 @@
       "onboard_time": 1734862278,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 430826,
-      "num": 430826,
-      "word": "日本火山喷发灰柱高达3400米",
-      "onboard_time": 1734922337,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 428810,
@@ -953,6 +953,14 @@
       "onboard_time": 1734839417,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 375962,
+      "num": 375962,
+      "word": "QQ音乐报告 NCT专辑",
+      "onboard_time": 1734923898,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 374231,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1734877279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313129,
+      "num": 313129,
+      "word": "胡军演洪七公",
+      "onboard_time": 1734924437,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 312644,
@@ -1539,14 +1555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228492,
-      "num": 228492,
-      "word": "QQ音乐报告 NCT专辑",
-      "onboard_time": 1734923898,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 226971,
       "num": 226971,
       "word": "昭昭墨墨渡药吻",
@@ -1667,6 +1675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213700,
+      "num": 213700,
+      "word": "县长回应政府门前夜市已存在多年",
+      "onboard_time": 1734924437,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213116,
       "num": 213116,
       "word": "涉事企业回应禁止员工去冰雪大世界",
@@ -1745,6 +1761,22 @@
       "onboard_time": 1734922158,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206809,
+      "num": 206809,
+      "word": "杨紫李现古装cp感",
+      "onboard_time": 1734924977,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206137,
+      "num": 751203,
+      "word": "韩国一军方驻地发生爆炸",
+      "onboard_time": 1734922817,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205804,
@@ -2000,6 +2032,14 @@
       "word": "四大平台大剧对打",
       "onboard_time": 1734869179,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189862,
+      "num": 276134,
+      "word": "何惟芳待花开",
+      "onboard_time": 1734924077,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2308,7 +2348,7 @@
     },
     {
       "raw_hot": 165842,
-      "num": 165842,
+      "num": 543839,
       "word": "被同学抱摔艺考女生面试皆被拒收",
       "onboard_time": 1734920837,
       "rank": 34,
@@ -2355,6 +2395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164235,
+      "num": 164235,
+      "word": "林高远获胜振臂高呼",
+      "onboard_time": 1734924377,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162618,
       "num": 159872,
       "word": "范丞丞回归现在就出发2",
@@ -2369,6 +2417,14 @@
       "onboard_time": 1734763755,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160437,
+      "num": 468823,
+      "word": "央视揭AI假冒名人带货乱象",
+      "onboard_time": 1734923237,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 160266,
@@ -2611,14 +2667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147555,
-      "num": 147555,
-      "word": "胡军演洪七公",
-      "onboard_time": 1734924437,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146876,
       "num": 136606,
       "word": "卓沅赶集",
@@ -2657,6 +2705,14 @@
       "onboard_time": 1734879623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142768,
+      "num": 142768,
+      "word": "为被投毒小狗追凶的831天",
+      "onboard_time": 1734924198,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141650,
@@ -2843,6 +2899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130466,
+      "num": 130466,
+      "word": "俄罗斯为何防不住乌军无人机",
+      "onboard_time": 1734925337,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129585,
       "num": 253131,
       "word": "这是冬至不是开春",
@@ -2891,14 +2955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127742,
-      "num": 127742,
-      "word": "林高远获胜振臂高呼",
-      "onboard_time": 1734924377,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127704,
       "num": 127704,
       "word": "商战",
@@ -2921,14 +2977,6 @@
       "onboard_time": 1734795499,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127452,
-      "num": 468823,
-      "word": "央视揭AI假冒名人带货乱象",
-      "onboard_time": 1734923237,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 125685,
@@ -3051,6 +3099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120441,
+      "num": 619436,
+      "word": "韩国一部队爆炸事件3名平民受伤",
+      "onboard_time": 1734923418,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120279,
       "num": 120279,
       "word": "人可以淋雨 贾冰的菜值得打伞守护",
@@ -3073,14 +3129,6 @@
       "onboard_time": 1734835876,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 119172,
-      "num": 751203,
-      "word": "韩国一军方驻地发生爆炸",
-      "onboard_time": 1734922817,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118821,
@@ -3347,14 +3395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108551,
-      "num": 619436,
-      "word": "韩国一部队爆炸事件3名平民受伤",
-      "onboard_time": 1734923418,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108388,
       "num": 108388,
       "word": "熊孩子买号玩游戏充值1万无法退费",
@@ -3457,14 +3497,6 @@
       "onboard_time": 1734831497,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 104287,
-      "num": 276134,
-      "word": "何惟芳待花开",
-      "onboard_time": 1734924077,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 103223,
@@ -4003,6 +4035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65663,
+      "num": 284549,
+      "word": "3少年点燃商场画展险酿大祸",
+      "onboard_time": 1734923958,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65293,
       "num": 88127,
       "word": "斗破苍穹",
@@ -4200,14 +4240,6 @@
       "word": "随手拍的一张照片能泄露多少信息",
       "onboard_time": 1734809052,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49885,
-      "num": 284549,
-      "word": "3少年点燃商场画展险酿大祸",
-      "onboard_time": 1734923958,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
