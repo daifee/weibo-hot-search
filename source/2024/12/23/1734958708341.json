@@ -1,0 +1,402 @@
+{
+  "runTime": 1734958708341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1545988,
+        "num": 1545988,
+        "word": "越来越容易打到臭车了",
+        "onboard_time": 1734954017,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 828574,
+        "num": 828574,
+        "word": "女子过马路遭压路机辗压身亡",
+        "onboard_time": 1734955820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 880010,
+        "num": 498678,
+        "word": "宋仲基炫耀女儿",
+        "onboard_time": 1734955939,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872748,
+        "num": 463326,
+        "word": "曝刘诗诗方否认离婚",
+        "onboard_time": 1734954438,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386694,
+        "num": 386694,
+        "word": "32岁飞行员失联车内情况被还原",
+        "onboard_time": 1734956538,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792296,
+        "num": 385971,
+        "word": "陈小纭演技",
+        "onboard_time": 1734956779,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583784,
+        "num": 381380,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250804,
+        "num": 377904,
+        "word": "陈辉晋升上将军衔",
+        "onboard_time": 1734951199,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275261,
+        "num": 376928,
+        "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+        "onboard_time": 1734956898,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792749,
+        "num": 371823,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430825,
+        "num": 371128,
+        "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+        "onboard_time": 1734952398,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407950,
+        "num": 366188,
+        "word": "孙阳陈昊宇 承认吧你俩都沦陷了",
+        "onboard_time": 1734956118,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365081,
+        "num": 365081,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349176,
+        "num": 349176,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327667,
+        "num": 327667,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279052,
+        "num": 326960,
+        "word": "疑似山姆代购蹲厕所分装蛋糕",
+        "onboard_time": 1734957318,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267624,
+        "num": 325580,
+        "word": "男子举报中学副校长出轨自己",
+        "onboard_time": 1734946278,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 121121,
+        "num": 323390,
+        "word": "黄景瑜高段位现偶男主",
+        "onboard_time": 1734958039,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14105,
+        "num": 321589,
+        "word": "纪凌尘说是给朋友分享书里的话",
+        "onboard_time": 1734956958,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428356,
+        "num": 319068,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318436,
+        "num": 318436,
+        "word": "发现了微信运动仅聊天的秘密",
+        "onboard_time": 1734957138,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 301470,
+        "num": 301470,
+        "word": "李昀锐喝醉了就快躺下睡吧",
+        "onboard_time": 1734951498,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298335,
+        "num": 298335,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240389,
+        "num": 268927,
+        "word": "明日方舟直播",
+        "onboard_time": 1734956298,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266949,
+        "num": 266949,
+        "word": "为什么妊娠纹产生时会有声音",
+        "onboard_time": 1734954558,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48108,
+        "num": 228881,
+        "word": "纽约地铁蓄意纵火男子被捕",
+        "onboard_time": 1734956719,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227965,
+        "num": 227965,
+        "word": "向佐在红毯上生气了",
+        "onboard_time": 1734942438,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 9501,
+        "num": 225793,
+        "word": "男子闪婚生女后发现妻子结婚7次育6娃",
+        "onboard_time": 1734958460,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108011,
+        "num": 225672,
+        "word": "刘文新一审被判死缓",
+        "onboard_time": 1734957558,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225569,
+        "num": 225569,
+        "word": "林更新 谢谢啊林一下次我自己来",
+        "onboard_time": 1734948019,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215695,
+        "num": 215695,
+        "word": "痛经药",
+        "onboard_time": 1734949818,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207200,
+        "num": 207200,
+        "word": "小小的我",
+        "onboard_time": 1734957858,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193856,
+        "num": 193856,
+        "word": "男孩2次尾随女孩进入电梯脱裤子",
+        "onboard_time": 1734952697,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192765,
+        "num": 192765,
+        "word": "圣诞节 鸡公煲",
+        "onboard_time": 1734955878,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166372,
+        "num": 166372,
+        "word": "冬至 分手循环",
+        "onboard_time": 1734952939,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165149,
+        "num": 165149,
+        "word": "星河入梦",
+        "onboard_time": 1734957438,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163134,
+        "num": 163134,
+        "word": "秦岚情绪稳定的原因找到了",
+        "onboard_time": 1734957919,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159118,
+        "num": 159118,
+        "word": "特朗普称美国拥有格陵兰岛绝对必要",
+        "onboard_time": 1734953417,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156529,
+        "num": 156529,
+        "word": "马龙刘诗雯混双",
+        "onboard_time": 1734957618,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155521,
+        "num": 155521,
+        "word": "金善旴点到液体外卖勺",
+        "onboard_time": 1734949278,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151565,
+        "num": 151565,
+        "word": "舒淇为肖战新片打call",
+        "onboard_time": 1734947238,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150859,
+        "num": 150859,
+        "word": "广东男子钓了一条自带赎金的鱼",
+        "onboard_time": 1734954978,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149655,
+        "num": 149655,
+        "word": "王鹤棣cue了星河入梦",
+        "onboard_time": 1734957078,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148507,
+        "num": 148507,
+        "word": "国色芳华全集有广",
+        "onboard_time": 1734953837,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142716,
+        "num": 142716,
+        "word": "莎头组合全年比赛26场仅输1场",
+        "onboard_time": 1734954499,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134725,
+        "num": 134725,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1734941357,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 131698,
+        "num": 131698,
+        "word": "无意识控糖的5个行为",
+        "onboard_time": 1734949577,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128691,
+        "num": 128691,
+        "word": "郑州一商场女厕所现偷拍事件",
+        "onboard_time": 1734956479,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126653,
+        "num": 126653,
+        "word": "虞书欣感谢何洁",
+        "onboard_time": 1734958580,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

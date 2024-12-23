@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734957773937,
+  "endTime": 1734958708341,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -115,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1545988,
+      "num": 1545988,
+      "word": "越来越容易打到臭车了",
+      "onboard_time": 1734954017,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1513569,
       "num": 1513569,
       "word": "央视曝光未成年人绕开防沉迷只需4元",
@@ -153,14 +161,6 @@
       "onboard_time": 1734931399,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1295849,
-      "num": 1295849,
-      "word": "越来越容易打到臭车了",
-      "onboard_time": 1734954017,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1287464,
@@ -403,6 +403,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 880010,
+      "num": 498678,
+      "word": "宋仲基炫耀女儿",
+      "onboard_time": 1734955939,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871310,
       "num": 527805,
       "word": "陆柯燃解约了",
@@ -419,14 +427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 857155,
-      "num": 438897,
-      "word": "宋仲基炫耀女儿",
-      "onboard_time": 1734955939,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 849776,
       "num": 464582,
       "word": "数一 大题难",
@@ -441,6 +441,14 @@
       "onboard_time": 1734939137,
       "rank": 9,
       "category": "民生新闻,辟谣/通报"
+    },
+    {
+      "raw_hot": 828574,
+      "num": 828574,
+      "word": "女子过马路遭压路机辗压身亡",
+      "onboard_time": 1734955820,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819250,
@@ -473,6 +481,14 @@
       "onboard_time": 1734861858,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 792296,
+      "num": 702641,
+      "word": "陈小纭演技",
+      "onboard_time": 1734956779,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 791530,
@@ -601,14 +617,6 @@
       "onboard_time": 1734934099,
       "rank": 15,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 702641,
-      "num": 702641,
-      "word": "陈小纭演技",
-      "onboard_time": 1734956779,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 696162,
@@ -995,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470119,
-      "num": 470119,
-      "word": "女子过马路遭压路机辗压身亡",
-      "onboard_time": 1734955820,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 469528,
       "num": 469528,
       "word": "李秀满公司在成都招人",
@@ -1171,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430825,
+      "num": 371128,
+      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+      "onboard_time": 1734952398,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428810,
       "num": 428810,
       "word": "黑神话悟空被山寨了",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1734945679,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422101,
-      "num": 367362,
-      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
-      "onboard_time": 1734952398,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 421844,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1734856577,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 407950,
+      "num": 366188,
+      "word": "孙阳陈昊宇 承认吧你俩都沦陷了",
+      "onboard_time": 1734956118,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 405852,
@@ -1337,6 +1345,14 @@
       "onboard_time": 1734923898,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 386694,
+      "num": 386694,
+      "word": "32岁飞行员失联车内情况被还原",
+      "onboard_time": 1734956538,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386678,
@@ -1507,14 +1523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 345871,
-      "num": 345871,
-      "word": "孙阳陈昊宇 承认吧你俩都沦陷了",
-      "onboard_time": 1734956118,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339564,
       "num": 339564,
       "word": "胡军 丐永一",
@@ -1627,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318436,
+      "num": 318436,
+      "word": "发现了微信运动仅聊天的秘密",
+      "onboard_time": 1734957138,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 317489,
       "num": 317489,
       "word": "猎罪图鉴2排播",
@@ -1723,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298335,
+      "num": 298335,
+      "word": "刘诗诗方给平台发公函回应离婚",
+      "onboard_time": 1734957199,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296907,
       "num": 307392,
       "word": "九重紫男演员每天就发这种东西",
@@ -1764,7 +1788,7 @@
     },
     {
       "raw_hot": 288699,
-      "num": 233816,
+      "num": 268927,
       "word": "明日方舟直播",
       "onboard_time": 1734956298,
       "rank": 30,
@@ -1811,6 +1835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279052,
+      "num": 326960,
+      "word": "疑似山姆代购蹲厕所分装蛋糕",
+      "onboard_time": 1734957318,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278221,
       "num": 303554,
       "word": "金善旴点到液体外卖勺",
@@ -1849,6 +1881,14 @@
       "onboard_time": 1734831857,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275261,
+      "num": 376928,
+      "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+      "onboard_time": 1734956898,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274013,
@@ -1899,14 +1939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 269600,
-      "num": 269600,
-      "word": "32岁飞行员失联车内情况被还原",
-      "onboard_time": 1734956538,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268391,
       "num": 291240,
       "word": "王一博冰攀",
@@ -1915,20 +1947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267755,
-      "num": 231167,
-      "word": "发现了微信运动仅聊天的秘密",
-      "onboard_time": 1734957138,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 267080,
       "num": 183008,
       "word": "冬至吻戏好瓷实",
       "onboard_time": 1734880040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266949,
+      "num": 266949,
+      "word": "为什么妊娠纹产生时会有声音",
+      "onboard_time": 1734954558,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266910,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1734844938,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261956,
-      "num": 261956,
-      "word": "为什么妊娠纹产生时会有声音",
-      "onboard_time": 1734954558,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261203,
@@ -2475,6 +2499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207200,
+      "num": 207200,
+      "word": "小小的我",
+      "onboard_time": 1734957858,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207050,
       "num": 207050,
       "word": "国安部提示警惕评论区里的谍影重重",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1734877100,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203013,
-      "num": 203013,
-      "word": "丈夫读博妻子带娃7年离婚获3万补偿",
-      "onboard_time": 1734956898,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202406,
@@ -2739,6 +2763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192765,
+      "num": 192765,
+      "word": "圣诞节 鸡公煲",
+      "onboard_time": 1734955878,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 192510,
       "num": 310446,
       "word": "于适广东队季军",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1734944238,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 182398,
-      "num": 182398,
-      "word": "疑似山姆代购蹲厕所分装蛋糕",
-      "onboard_time": 1734957318,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181389,
@@ -3283,6 +3307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 165149,
+      "num": 165149,
+      "word": "星河入梦",
+      "onboard_time": 1734957438,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165078,
       "num": 512709,
       "word": "全国高校首个生死体验中心",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1734924377,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163134,
+      "num": 163134,
+      "word": "秦岚情绪稳定的原因找到了",
+      "onboard_time": 1734957919,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 163128,
@@ -3457,6 +3497,14 @@
       "onboard_time": 1734848958,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156529,
+      "num": 156529,
+      "word": "马龙刘诗雯混双",
+      "onboard_time": 1734957618,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 156484,
@@ -3691,6 +3739,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 149655,
+      "num": 149655,
+      "word": "王鹤棣cue了星河入梦",
+      "onboard_time": 1734957078,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -3825,14 +3881,6 @@
       "onboard_time": 1734879623,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143893,
-      "num": 143893,
-      "word": "星河入梦",
-      "onboard_time": 1734957438,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 143772,
@@ -4051,14 +4099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133575,
-      "num": 133575,
-      "word": "马龙刘诗雯混双",
-      "onboard_time": 1734957618,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133250,
       "num": 133250,
       "word": "许嵩 我希望你们快乐不想你们辛苦",
@@ -4187,6 +4227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128691,
+      "num": 128691,
+      "word": "郑州一商场女厕所现偷拍事件",
+      "onboard_time": 1734956479,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128633,
       "num": 187610,
       "word": "武忠祥称考研数学有插曲但不意外",
@@ -4249,6 +4297,14 @@
       "onboard_time": 1734795499,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126653,
+      "num": 126653,
+      "word": "虞书欣感谢何洁",
+      "onboard_time": 1734958580,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 126408,
@@ -4417,6 +4473,14 @@
       "onboard_time": 1734941058,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121121,
+      "num": 323390,
+      "word": "黄景瑜高段位现偶男主",
+      "onboard_time": 1734958039,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 120441,
@@ -5331,14 +5395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 83195,
-      "num": 263603,
-      "word": "刘诗诗方给平台发公函回应离婚",
-      "onboard_time": 1734957199,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81549,
       "num": 137765,
       "word": "特朗普称期待与普京会面",
@@ -6019,6 +6075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48108,
+      "num": 381282,
+      "word": "纽约地铁蓄意纵火男子被捕",
+      "onboard_time": 1734956719,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 47986,
       "num": 47986,
       "word": "72岁爷爷给猴子当了29年贴身保镖",
@@ -6345,14 +6409,6 @@
       "onboard_time": 1734929359,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 36770,
-      "num": 381282,
-      "word": "纽约地铁蓄意纵火男子被捕",
-      "onboard_time": 1734956719,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 36600,
@@ -6915,6 +6971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 14105,
+      "num": 321589,
+      "word": "纪凌尘说是给朋友分享书里的话",
+      "onboard_time": 1734956958,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13369,
       "num": 34546,
       "word": "海南省旅游委通报非法经营将顶格处罚",
@@ -6976,6 +7040,14 @@
       "word": "南方人有自己的吞灯泡",
       "onboard_time": 1734822973,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9501,
+      "num": 225793,
+      "word": "男子闪婚生女后发现妻子结婚7次育6娃",
+      "onboard_time": 1734958460,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
