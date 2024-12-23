@@ -1,0 +1,402 @@
+{
+  "runTime": 1734963667251,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185678,
+        "num": 1189708,
+        "word": "疑似山姆代购蹲厕所分装蛋糕",
+        "onboard_time": 1734957318,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027192,
+        "num": 1027192,
+        "word": "越来越容易打到臭车了",
+        "onboard_time": 1734954017,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 883549,
+        "num": 883549,
+        "word": "落跑甜心女主整复被弄骨折",
+        "onboard_time": 1734958940,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757603,
+        "num": 757603,
+        "word": "蛇年纪念币预约",
+        "onboard_time": 1734962780,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 715647,
+        "num": 715647,
+        "word": "宋仲基炫耀女儿",
+        "onboard_time": 1734955939,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647030,
+        "num": 647030,
+        "word": "女子过马路遭压路机辗压身亡",
+        "onboard_time": 1734955820,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600288,
+        "num": 600288,
+        "word": "丈夫读博妻子带娃7年离婚获3万补偿",
+        "onboard_time": 1734956898,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144806,
+        "num": 540849,
+        "word": "被铁路售票员的手速惊到了",
+        "onboard_time": 1734959660,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481742,
+        "num": 481742,
+        "word": "32岁飞行员失联车内情况被还原",
+        "onboard_time": 1734956538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409025,
+        "num": 409025,
+        "word": "杨祐宁看过老婆的胎盘",
+        "onboard_time": 1734960140,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394785,
+        "num": 394785,
+        "word": "孙阳陈昊宇 承认吧你俩都沦陷了",
+        "onboard_time": 1734956118,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385364,
+        "num": 385364,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365190,
+        "num": 365190,
+        "word": "她还没上桌蛋糕分完了",
+        "onboard_time": 1734951078,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342125,
+        "num": 342125,
+        "word": "九重紫 庆功宴",
+        "onboard_time": 1734949458,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338951,
+        "num": 338951,
+        "word": "会计发现领导语气不对劲保住296万",
+        "onboard_time": 1734947839,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334286,
+        "num": 334286,
+        "word": "歌迷曾帮张杰退房打车",
+        "onboard_time": 1734961340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307890,
+        "num": 307890,
+        "word": "圣诞节 鸡公煲",
+        "onboard_time": 1734955878,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 293751,
+        "num": 307884,
+        "word": "猎罪2男子将母亲错看成父亲捅死",
+        "onboard_time": 1734959540,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42066,
+        "num": 307605,
+        "word": "河南嵩山一景区用绳子制造人工冰瀑",
+        "onboard_time": 1734963020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152675,
+        "num": 307203,
+        "word": "猎罪2第九案有点太癫了",
+        "onboard_time": 1734961159,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528588,
+        "num": 306928,
+        "word": "突然对韩国祛魅了",
+        "onboard_time": 1734961640,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308071,
+        "num": 306749,
+        "word": "男子婚后发现妻子结7次婚育6娃",
+        "onboard_time": 1734960080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70699,
+        "num": 306582,
+        "word": "李秀满带内娱女团闯海外",
+        "onboard_time": 1734963559,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51156,
+        "num": 306340,
+        "word": "大学生宿舍窗台爆改冰箱",
+        "onboard_time": 1734961640,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306163,
+        "num": 306163,
+        "word": "曝刘诗诗方否认离婚",
+        "onboard_time": 1734954438,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139645,
+        "num": 306066,
+        "word": "陈辉晋升上将军衔",
+        "onboard_time": 1734951199,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69089,
+        "num": 303626,
+        "word": "女生考研结束全寝拉横幅迎接",
+        "onboard_time": 1734962540,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74486,
+        "num": 301218,
+        "word": "考研结束后的第一天",
+        "onboard_time": 1734963621,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25040,
+        "num": 300109,
+        "word": "网购退款信用卡比储蓄卡慢",
+        "onboard_time": 1734963439,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62201,
+        "num": 298353,
+        "word": "戚薇是请吃饭的漂亮姐姐",
+        "onboard_time": 1734963380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297678,
+        "num": 297678,
+        "word": "希林娜依高拖行小狗",
+        "onboard_time": 1734949278,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280421,
+        "num": 280421,
+        "word": "陈小纭演技",
+        "onboard_time": 1734956779,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257965,
+        "num": 257965,
+        "word": "发现了微信运动仅聊天的秘密",
+        "onboard_time": 1734957138,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 252199,
+        "num": 252199,
+        "word": "液体勺",
+        "onboard_time": 1734952578,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231541,
+        "num": 231541,
+        "word": "蒋欣说小巷人家番外最想拍抱孙子",
+        "onboard_time": 1734960259,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217518,
+        "num": 217518,
+        "word": "32岁飞行员失联前模拟机考试失败",
+        "onboard_time": 1734960920,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217004,
+        "num": 217004,
+        "word": "沈梦瑶更改微博认证",
+        "onboard_time": 1734958698,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216238,
+        "num": 216238,
+        "word": "为什么iPhone信号不如国产手机",
+        "onboard_time": 1734960439,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208918,
+        "num": 208918,
+        "word": "李昀锐现场表演甜心猛男",
+        "onboard_time": 1734963260,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204913,
+        "num": 204913,
+        "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+        "onboard_time": 1734952398,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83344,
+        "num": 195306,
+        "word": "32岁飞行员失联桥上监控被损坏",
+        "onboard_time": 1734961279,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185981,
+        "num": 185981,
+        "word": "桐心薇泯",
+        "onboard_time": 1734962359,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172575,
+        "num": 172575,
+        "word": "肖秀荣给2025考生的一封信",
+        "onboard_time": 1734963080,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208220,
+        "num": 172057,
+        "word": "想堵住李昀锐这张嘴",
+        "onboard_time": 1734961340,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171017,
+        "num": 171017,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158144,
+        "num": 158144,
+        "word": "秦岚情绪稳定的原因找到了",
+        "onboard_time": 1734957919,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148246,
+        "num": 148246,
+        "word": "贺峻霖向太勾肩搭背",
+        "onboard_time": 1734963621,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138552,
+        "num": 138552,
+        "word": "白鹿送花",
+        "onboard_time": 1734960920,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "小巷人家群聊范丞丞说话最多",
+        "onboard_time": 1734959420,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

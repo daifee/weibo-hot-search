@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734961148390,
+  "endTime": 1734963667251,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -73,6 +73,14 @@
       "onboard_time": 1734942438,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1185678,
+      "num": 1189708,
+      "word": "疑似山姆代购蹲厕所分装蛋糕",
+      "onboard_time": 1734957318,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1183590,
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 904588,
-      "num": 904588,
-      "word": "疑似山姆代购蹲厕所分装蛋糕",
-      "onboard_time": 1734957318,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 899383,
       "num": 899383,
       "word": "特朗普大笑称马斯克当不了总统",
@@ -201,6 +201,14 @@
       "onboard_time": 1734941357,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 883549,
+      "num": 883549,
+      "word": "落跑甜心女主整复被弄骨折",
+      "onboard_time": 1734958940,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 882694,
@@ -281,6 +289,14 @@
       "onboard_time": 1734956898,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 757603,
+      "num": 757603,
+      "word": "蛇年纪念币预约",
+      "onboard_time": 1734962780,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 706594,
@@ -467,6 +483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 528588,
+      "num": 306928,
+      "word": "突然对韩国祛魅了",
+      "onboard_time": 1734961640,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 526141,
       "num": 325516,
       "word": "华筝 草原公主",
@@ -579,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434228,
-      "num": 434228,
-      "word": "落跑甜心女主整复被弄骨折",
-      "onboard_time": 1734958940,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430825,
       "num": 371128,
       "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
@@ -643,6 +659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409025,
+      "num": 409025,
+      "word": "杨祐宁看过老婆的胎盘",
+      "onboard_time": 1734960140,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401238,
       "num": 401238,
       "word": "痛经药",
@@ -683,6 +707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 385364,
+      "num": 385364,
+      "word": "刘诗诗方给平台发公函回应离婚",
+      "onboard_time": 1734957199,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380705,
       "num": 604750,
       "word": "一段视频看侠之大者的含义",
@@ -697,14 +729,6 @@
       "onboard_time": 1734940217,
       "rank": 20,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 371146,
-      "num": 371146,
-      "word": "刘诗诗方给平台发公函回应离婚",
-      "onboard_time": 1734957199,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 368461,
@@ -737,6 +761,14 @@
       "onboard_time": 1734929601,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 334286,
+      "num": 334286,
+      "word": "歌迷曾帮张杰退房打车",
+      "onboard_time": 1734961340,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 332400,
@@ -835,6 +867,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 308071,
+      "num": 306749,
+      "word": "男子婚后发现妻子结7次婚育6娃",
+      "onboard_time": 1734960080,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307890,
+      "num": 307890,
+      "word": "圣诞节 鸡公煲",
+      "onboard_time": 1734955878,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307342,
       "num": 307342,
       "word": "孟子义保持身材秘诀 食物中毒",
@@ -931,14 +979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275556,
-      "num": 275556,
-      "word": "圣诞节 鸡公煲",
-      "onboard_time": 1734955878,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "李现在虎跳峡举国旗",
@@ -992,14 +1032,6 @@
       "word": "马航",
       "onboard_time": 1734936700,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258487,
-      "num": 258487,
-      "word": "男子婚后发现妻子结7次婚育6娃",
-      "onboard_time": 1734960080,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1073,6 +1105,14 @@
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231541,
+      "num": 231541,
+      "word": "蒋欣说小巷人家番外最想拍抱孙子",
+      "onboard_time": 1734960259,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 228293,
@@ -1179,28 +1219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 220585,
-      "num": 220585,
-      "word": "蒋欣说小巷人家番外最想拍抱孙子",
-      "onboard_time": 1734960259,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219599,
       "num": 219599,
       "word": "人大教授建议取消中考",
       "onboard_time": 1734936077,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219302,
-      "num": 273902,
-      "word": "杨祐宁看过老婆的胎盘",
-      "onboard_time": 1734960140,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 218394,
@@ -1211,6 +1235,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217518,
+      "num": 265710,
+      "word": "32岁飞行员失联前模拟机考试失败",
+      "onboard_time": 1734960920,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216238,
+      "num": 216238,
+      "word": "为什么iPhone信号不如国产手机",
+      "onboard_time": 1734960439,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209134,
       "num": 209134,
       "word": "虾 警惕突然对你好的人",
@@ -1219,11 +1259,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208918,
+      "num": 208918,
+      "word": "李昀锐现场表演甜心猛男",
+      "onboard_time": 1734963260,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208343,
       "num": 208343,
       "word": "慕胥辞贺思慕段胥雪中舞",
       "onboard_time": 1734922098,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208220,
+      "num": 172057,
+      "word": "想堵住李昀锐这张嘴",
+      "onboard_time": 1734961340,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1451,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185981,
+      "num": 185981,
+      "word": "桐心薇泯",
+      "onboard_time": 1734962359,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185579,
       "num": 447921,
       "word": "马航MH370航班重启搜寻细节披露",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1734953837,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172575,
+      "num": 172575,
+      "word": "肖秀荣给2025考生的一封信",
+      "onboard_time": 1734963080,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 171910,
@@ -1683,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161363,
-      "num": 161363,
-      "word": "为什么iPhone信号不如国产手机",
-      "onboard_time": 1734960439,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161277,
       "num": 161277,
       "word": "国色芳华妆造",
@@ -1811,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152675,
+      "num": 307203,
+      "word": "猎罪2第九案有点太癫了",
+      "onboard_time": 1734961159,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152422,
       "num": 152422,
       "word": "迪丽热巴毛茸茸的过冬搭子",
@@ -1875,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148246,
+      "num": 148246,
+      "word": "贺峻霖向太勾肩搭背",
+      "onboard_time": 1734963621,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148203,
       "num": 148203,
       "word": "02年女生县城开公交月薪2000元",
@@ -1936,6 +2016,14 @@
       "word": "车厘子自由是不是真的来了",
       "onboard_time": 1734863957,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144806,
+      "num": 540849,
+      "word": "被铁路售票员的手速惊到了",
+      "onboard_time": 1734959660,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2073,14 +2161,6 @@
       "onboard_time": 1734952398,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133913,
-      "num": 253779,
-      "word": "被铁路售票员的手速惊到了",
-      "onboard_time": 1734959660,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133826,
@@ -2643,6 +2723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83344,
+      "num": 195306,
+      "word": "32岁飞行员失联桥上监控被损坏",
+      "onboard_time": 1734961279,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81549,
       "num": 137765,
       "word": "特朗普称期待与普京会面",
@@ -2707,6 +2795,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 74486,
+      "num": 301218,
+      "word": "考研结束后的第一天",
+      "onboard_time": 1734963621,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 72490,
       "num": 239482,
       "word": "成毅时装杂志加印",
@@ -2739,12 +2835,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 70699,
+      "num": 306582,
+      "word": "李秀满带内娱女团闯海外",
+      "onboard_time": 1734963559,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 70301,
       "num": 449419,
       "word": "多地储户不知情却被开养老金账户",
       "onboard_time": 1734949698,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69089,
+      "num": 303626,
+      "word": "女生考研结束全寝拉横幅迎接",
+      "onboard_time": 1734962540,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 68954,
@@ -2867,6 +2979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62201,
+      "num": 298353,
+      "word": "戚薇是请吃饭的漂亮姐姐",
+      "onboard_time": 1734963380,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61090,
       "num": 201965,
       "word": "寒武纪总市值突破2900亿元",
@@ -2905,14 +3025,6 @@
       "onboard_time": 1734957318,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 59045,
-      "num": 265710,
-      "word": "32岁飞行员失联前模拟机考试失败",
-      "onboard_time": 1734960920,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58644,
@@ -3001,6 +3113,14 @@
       "onboard_time": 1734930378,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 51156,
+      "num": 306340,
+      "word": "大学生宿舍窗台爆改冰箱",
+      "onboard_time": 1734961640,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 50396,
@@ -3153,6 +3273,14 @@
       "onboard_time": 1734887414,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 42066,
+      "num": 307605,
+      "word": "河南嵩山一景区用绳子制造人工冰瀑",
+      "onboard_time": 1734963020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41904,
@@ -3409,6 +3537,14 @@
       "onboard_time": 1734905410,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25040,
+      "num": 300109,
+      "word": "网购退款信用卡比储蓄卡慢",
+      "onboard_time": 1734963439,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24882,
