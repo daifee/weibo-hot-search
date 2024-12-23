@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734963667251,
+  "endTime": 1734964751178,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -241,6 +241,14 @@
       "onboard_time": 1734954438,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1160295,
+      "num": 1185647,
+      "word": "蛇年纪念币预约",
+      "onboard_time": 1734962780,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 1093245,
@@ -577,14 +585,6 @@
       "onboard_time": 1734849317,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 757603,
-      "num": 757603,
-      "word": "蛇年纪念币预约",
-      "onboard_time": 1734962780,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 751213,
@@ -1395,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 397551,
+      "num": 397551,
+      "word": "歌迷曾帮张杰退房打车",
+      "onboard_time": 1734961340,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395567,
       "num": 395567,
       "word": "QQ音乐报告 NCT专辑",
@@ -1619,14 +1627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 334286,
-      "num": 334286,
-      "word": "歌迷曾帮张杰退房打车",
-      "onboard_time": 1734961340,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 330593,
       "num": 296071,
       "word": "蒋欣最喜欢甄嬛传的滴血认亲",
@@ -1729,6 +1729,14 @@
       "onboard_time": 1734959540,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314000,
+      "num": 420262,
+      "word": "女子睡觉被丈夫刺伤致大量失血",
+      "onboard_time": 1734964160,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313447,
@@ -1840,6 +1848,14 @@
       "word": "上海地铁11号线抢修",
       "onboard_time": 1734839899,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292721,
+      "num": 540849,
+      "word": "被铁路售票员的手速惊到了",
+      "onboard_time": 1734959660,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2347,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225783,
+      "num": 306582,
+      "word": "李秀满带内娱女团闯海外",
+      "onboard_time": 1734963559,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225568,
       "num": 225568,
       "word": "易烊千玺工作室换背景头像",
@@ -2747,6 +2771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199353,
+      "num": 199353,
+      "word": "我将喜欢告诉了风 古早言情味",
+      "onboard_time": 1734963740,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199325,
       "num": 199325,
       "word": "李昀锐高中时期旧照",
@@ -2963,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190101,
+      "num": 190101,
+      "word": "贺峻霖向太勾肩搭背",
+      "onboard_time": 1734963621,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189862,
       "num": 276134,
       "word": "何惟芳待花开",
@@ -3081,6 +3121,14 @@
       "onboard_time": 1734944238,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 184401,
+      "num": 307203,
+      "word": "猎罪2第九案有点太癫了",
+      "onboard_time": 1734961159,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 182733,
@@ -3771,14 +3819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152675,
-      "num": 307203,
-      "word": "猎罪2第九案有点太癫了",
-      "onboard_time": 1734961159,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152581,
       "num": 153563,
       "word": "心肝宝贝开心果",
@@ -3931,14 +3971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148246,
-      "num": 148246,
-      "word": "贺峻霖向太勾肩搭背",
-      "onboard_time": 1734963621,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148209,
       "num": 189402,
       "word": "孙杨好高好帅",
@@ -4033,14 +4065,6 @@
       "onboard_time": 1734863238,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 144806,
-      "num": 540849,
-      "word": "被铁路售票员的手速惊到了",
-      "onboard_time": 1734959660,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144067,
@@ -4177,6 +4201,14 @@
       "onboard_time": 1734861019,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137388,
+      "num": 137388,
+      "word": "肖战说要努力对得起喜欢",
+      "onboard_time": 1734964520,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 136974,
@@ -5555,6 +5587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86141,
+      "num": 237832,
+      "word": "孙颖莎赛季单打胜率高达91.18%",
+      "onboard_time": 1734964639,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85295,
       "num": 286057,
       "word": "孙颖莎全年共获得14个冠军",
@@ -5731,11 +5771,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74182,
+      "num": 190103,
+      "word": "董倩对孙颖莎的第一印象是可爱",
+      "onboard_time": 1734963861,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73860,
       "num": 996844,
       "word": "2024余额已不足10天",
       "onboard_time": 1734873620,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73456,
+      "num": 307605,
+      "word": "河南嵩山一景区用绳子制造人工冰瀑",
+      "onboard_time": 1734963020,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5787,14 +5843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70699,
-      "num": 306582,
-      "word": "李秀满带内娱女团闯海外",
-      "onboard_time": 1734963559,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 70301,
       "num": 449419,
       "word": "多地储户不知情却被开养老金账户",
@@ -5809,6 +5857,14 @@
       "onboard_time": 1734794959,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 69410,
+      "num": 221951,
+      "word": "肖秀荣总结今年考研题目难",
+      "onboard_time": 1734964279,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 69337,
@@ -6155,6 +6211,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55217,
+      "num": 178479,
+      "word": "什么是水油水护肤法",
+      "onboard_time": 1734963801,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 54961,
       "num": 162320,
       "word": "李盈莹赞朱婷非常优秀",
@@ -6185,6 +6249,14 @@
       "onboard_time": 1734910036,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54581,
+      "num": 222380,
+      "word": "白鹿驯猴",
+      "onboard_time": 1734964700,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 53586,
@@ -6523,14 +6595,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42066,
-      "num": 307605,
-      "word": "河南嵩山一景区用绳子制造人工冰瀑",
-      "onboard_time": 1734963020,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41904,
       "num": 278024,
       "word": "李现盼君同赏",
@@ -6633,6 +6697,14 @@
       "onboard_time": 1734832758,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 37333,
+      "num": 300109,
+      "word": "网购退款信用卡比储蓄卡慢",
+      "onboard_time": 1734963439,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37219,
@@ -7057,14 +7129,6 @@
       "onboard_time": 1734863599,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25040,
-      "num": 300109,
-      "word": "网购退款信用卡比储蓄卡慢",
-      "onboard_time": 1734963439,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 24882,

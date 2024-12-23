@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/23 22:21:07
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/23 22:39:11
 </p>
 </blockquote>
 <p>
@@ -2507,6 +2507,12 @@ iG官宣新阵容（热度：1210883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%A9%E8%BE%9E%E5%8E%BB%E6%B5%99%E6%B1%9F%E7%9C%81%E7%9C%81%E9%95%BF%E8%81%8C%E5%8A%A1%23" target="weibo">
 王浩辞去浙江省省长职务（热度：1162348）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
+蛇年纪念币预约（热度：1160295）
 </a>
 </li>
 
@@ -5393,12 +5399,6 @@ iPhone或迎六年来首次设计大换代（热度：806579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F5%E5%A4%A9%E7%A1%AE%E8%AF%8A%E9%81%97%E4%BC%A0%E6%80%A7%E7%BD%95%E8%A7%81%E7%97%85%23" target="weibo">
 婴儿出生5天确诊遗传性罕见病（热度：757806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9B%87%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81%E9%A2%84%E7%BA%A6%23" target="weibo">
-蛇年纪念币预约（热度：757603）
 </a>
 </li>
 
