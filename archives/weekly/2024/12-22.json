@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734985417250,
+  "endTime": 1734986188333,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -6867,6 +6867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40201,
+      "num": 40201,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 39876,
       "num": 183676,
       "word": "中综",
@@ -7339,14 +7347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28310,
-      "num": 28310,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 28305,
       "num": 462192,
       "word": "2024我花得最值的一笔钱",
@@ -7723,6 +7723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13511,
+      "num": 29745,
+      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
+      "onboard_time": 1734985270,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 13369,
       "num": 34546,
       "word": "海南省旅游委通报非法经营将顶格处罚",
@@ -7779,7 +7787,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11304,
+      "raw_hot": 11342,
       "num": 20977,
       "word": "解码中华文化基因",
       "onboard_time": 1734983350,
@@ -7793,14 +7801,6 @@
       "onboard_time": 1734905652,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11183,
-      "num": 14242,
-      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
-      "onboard_time": 1734985270,
-      "rank": 48,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 10756,
@@ -7819,20 +7819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10071,
+      "num": 44836,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10039,
       "num": 122313,
       "word": "RIIZE以粉丝名捐款",
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9888,
-      "num": 43615,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9501,

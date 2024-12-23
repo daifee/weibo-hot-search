@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734985417250,
+  "endTime": 1734986188333,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40201,
+      "num": 40201,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 38682,
       "num": 54704,
       "word": "日本樱岛火山再度喷发",
@@ -523,14 +531,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 28310,
-      "num": 28310,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 27190,
       "num": 29232,
       "word": "下一秒的事留给下一秒的自己吧",
@@ -603,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13511,
+      "num": 29745,
+      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
+      "onboard_time": 1734985270,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 11434,
       "num": 81442,
       "word": "李盈莹和朱婷说顶峰相见很不容易",
@@ -611,7 +619,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11304,
+      "raw_hot": 11342,
       "num": 20977,
       "word": "解码中华文化基因",
       "onboard_time": 1734983350,
@@ -619,12 +627,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11183,
-      "num": 14242,
-      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
-      "onboard_time": 1734985270,
-      "rank": 48,
-      "category": "舆论监督"
+      "raw_hot": 10071,
+      "num": 44836,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10039,
@@ -633,14 +641,6 @@
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9888,
-      "num": 43615,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
