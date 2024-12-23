@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734971247513,
+  "endTime": 1734972153268,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -25,6 +25,14 @@
       "onboard_time": 1734957199,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434936,
+      "num": 434936,
+      "word": "迪丽热巴 陈飞宇给我大大方方的",
+      "onboard_time": 1734970278,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 349883,
@@ -73,14 +81,6 @@
       "onboard_time": 1734954017,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 254513,
-      "num": 254513,
-      "word": "迪丽热巴 陈飞宇给我大大方方的",
-      "onboard_time": 1734970278,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 234900,
@@ -187,20 +187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124131,
+      "num": 124131,
+      "word": "为什么iPhone信号不如国产手机",
+      "onboard_time": 1734960439,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122349,
       "num": 122349,
       "word": "被铁路售票员的手速惊到了",
       "onboard_time": 1734959660,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121799,
-      "num": 121799,
-      "word": "为什么iPhone信号不如国产手机",
-      "onboard_time": 1734960439,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 115437,
@@ -227,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107626,
+      "num": 186495,
+      "word": "赵露思方公布维权进度",
+      "onboard_time": 1734970097,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104380,
       "num": 104380,
       "word": "她还没上桌蛋糕分完了",
@@ -249,14 +257,6 @@
       "onboard_time": 1734965660,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90998,
-      "num": 90998,
-      "word": "赵露思方公布维权进度",
-      "onboard_time": 1734970097,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 88619,
@@ -307,6 +307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73164,
+      "num": 73164,
+      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
+      "onboard_time": 1734952398,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72568,
       "num": 72568,
       "word": "女子婚后长期被家暴法院发保护令",
@@ -347,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60408,
-      "num": 60408,
-      "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
-      "onboard_time": 1734952398,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 60117,
+      "num": 60117,
+      "word": "肖秀荣给2025考生的一封信",
+      "onboard_time": 1734963080,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 59843,
@@ -371,7 +379,39 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35790,
+      "raw_hot": 59033,
+      "num": 59033,
+      "word": "巴拿马总统强硬回应特朗普",
+      "onboard_time": 1734971536,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 56290,
+      "num": 56290,
+      "word": "圣诞节 鸡公煲",
+      "onboard_time": 1734955878,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 52673,
+      "num": 52673,
+      "word": "建行APP崩了",
+      "onboard_time": 1734968598,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 51133,
+      "num": 51133,
+      "word": "大奉打更人有自己的搞笑一家人",
+      "onboard_time": 1734968418,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37545,
       "num": 534425,
       "word": "2024我们走过的24个瞬间",
       "onboard_time": 1734969378,
@@ -393,6 +433,22 @@
       "onboard_time": 1734970097,
       "rank": 9,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 19525,
+      "num": 94151,
+      "word": "抱抱熊君",
+      "onboard_time": 1734971716,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 15470,
+      "num": 94321,
+      "word": "金靖生日戴张婧仪同款围巾",
+      "onboard_time": 1734971296,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 10039,
