@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734986188333,
+  "endTime": 1734988814056,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -435,20 +435,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49047,
+      "num": 49047,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42192,
       "num": 94321,
       "word": "金靖生日戴张婧仪同款围巾",
       "onboard_time": 1734971296,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40201,
-      "num": 40201,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 38682,
@@ -539,6 +539,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 24623,
+      "num": 29745,
+      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
+      "onboard_time": 1734985270,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
@@ -595,6 +603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 16115,
+      "num": 16115,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
@@ -603,12 +619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13511,
-      "num": 29745,
-      "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
-      "onboard_time": 1734985270,
-      "rank": 48,
-      "category": "舆论监督"
+      "raw_hot": 12094,
+      "num": 13420,
+      "word": "香港10平米月租8000的家",
+      "onboard_time": 1734988030,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 11434,
@@ -627,12 +643,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10071,
-      "num": 44836,
+      "raw_hot": 10728,
+      "num": 32092,
+      "word": "文化中国行守护非遗之美",
+      "onboard_time": 1734986831,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 10342,
+      "num": 54246,
       "word": "宇宙年味发动机已启动",
       "onboard_time": 1734969318,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10337,
+      "num": 13423,
+      "word": "95后救火又捐献造血干细胞救人",
+      "onboard_time": 1734987731,
+      "rank": 43,
+      "category": "正能量"
     },
     {
       "raw_hot": 10039,
