@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734928008419,
+  "endTime": 1734928939677,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -497,6 +497,14 @@
       "onboard_time": 1733467160,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2583213,
+      "num": 2583213,
+      "word": "女子遭老板性侵后被公司开除",
+      "onboard_time": 1734926957,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2577862,
@@ -2297,6 +2305,14 @@
       "onboard_time": 1733551280,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1372609,
+      "num": 885251,
+      "word": "蒋欣 冰美式",
+      "onboard_time": 1734927859,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1370070,
@@ -4123,14 +4139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1036583,
-      "num": 1036583,
-      "word": "女子遭老板性侵后被公司开除",
-      "onboard_time": 1734926957,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1036569,
       "num": 1165851,
       "word": "网友评杨幂朋友圈变迁",
@@ -5553,6 +5561,14 @@
       "onboard_time": 1733120959,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 867394,
+      "num": 867394,
+      "word": "高考601分女生为何选择殡葬专业",
+      "onboard_time": 1734925998,
+      "rank": 5,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 866934,
@@ -7801,14 +7817,6 @@
       "onboard_time": 1734504919,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 702702,
-      "num": 702702,
-      "word": "高考601分女生为何选择殡葬专业",
-      "onboard_time": 1734925998,
-      "rank": 5,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 702383,
@@ -22755,6 +22763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271398,
+      "num": 601788,
+      "word": "为被投毒小狗追凶的831天",
+      "onboard_time": 1734924198,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271381,
       "num": 271381,
       "word": "成都羊肉汤老师傅说多熬自然就白",
@@ -23803,6 +23819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256687,
+      "num": 256687,
+      "word": "唐尚珺高考16年总分8916",
+      "onboard_time": 1734927319,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256684,
       "num": 256684,
       "word": "李蠕蠕 我害怕一休息就万劫不复",
@@ -24521,14 +24545,6 @@
       "onboard_time": 1734266779,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247523,
-      "num": 601788,
-      "word": "为被投毒小狗追凶的831天",
-      "onboard_time": 1734924198,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247382,
@@ -35379,14 +35395,6 @@
       "category": "汽车,民生新闻"
     },
     {
-      "raw_hot": 185205,
-      "num": 185205,
-      "word": "蒋欣 冰美式",
-      "onboard_time": 1734927859,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185182,
       "num": 182570,
       "word": "窦昭有福之女不进无福之家",
@@ -35961,6 +35969,14 @@
       "onboard_time": 1734243499,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181836,
+      "num": 181836,
+      "word": "胡军 丐永一",
+      "onboard_time": 1734928519,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 181784,
@@ -39419,14 +39435,6 @@
       "category": "剧集,时尚"
     },
     {
-      "raw_hot": 167606,
-      "num": 167606,
-      "word": "唐尚珺高考16年总分8916",
-      "onboard_time": 1734927319,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167601,
       "num": 167601,
       "word": "余华英拐卖案重审二审明日开庭",
@@ -40569,6 +40577,14 @@
       "onboard_time": 1733365699,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "射雕细节",
+      "onboard_time": 1734928879,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 163104,
@@ -44259,6 +44275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150802,
+      "num": 150802,
+      "word": "胖东来回应影院观影不满意可半价",
+      "onboard_time": 1734927319,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150790,
       "num": 219718,
       "word": "CUBE官宣gidle续约",
@@ -47249,6 +47273,14 @@
       "onboard_time": 1734184522,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140293,
+      "num": 140293,
+      "word": "职场如何一眼识别鼓励式PUA",
+      "onboard_time": 1734928879,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 140282,
@@ -52139,6 +52171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122357,
+      "num": 512709,
+      "word": "全国高校首个生死体验中心",
+      "onboard_time": 1734928159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122352,
       "num": 122352,
       "word": "孙千晒冬至三件套",
@@ -52257,14 +52297,6 @@
       "onboard_time": 1733284339,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 122060,
-      "num": 122060,
-      "word": "胖东来回应影院观影不满意可半价",
-      "onboard_time": 1734927319,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122046,
@@ -54060,7 +54092,7 @@
     },
     {
       "raw_hot": 115032,
-      "num": 185991,
+      "num": 189108,
       "word": "白月梵星官博回应",
       "onboard_time": 1734915497,
       "rank": 35,
@@ -57297,6 +57329,14 @@
       "onboard_time": 1733110158,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100473,
+      "num": 224741,
+      "word": "纳瓦斯正式退役",
+      "onboard_time": 1734928218,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 100433,
@@ -62369,6 +62409,14 @@
       "onboard_time": 1734685518,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73112,
+      "num": 362407,
+      "word": "室友考完研回来还在学",
+      "onboard_time": 1734928339,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 73048,
@@ -74379,6 +74427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28847,
+      "num": 185720,
+      "word": "年轻人跨年拍照的仪式感",
+      "onboard_time": 1734928460,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 28826,
       "num": 55692,
       "word": "孟子义回应圈内好人缘",
@@ -77841,6 +77897,14 @@
       "onboard_time": 1733764454,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17506,
+      "num": 164484,
+      "word": "现在流行智驾游",
+      "onboard_time": 1734928281,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 17483,

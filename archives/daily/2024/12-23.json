@@ -1,7 +1,23 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734928008419,
+  "endTime": 1734928939677,
   "band_list": [
+    {
+      "raw_hot": 2583213,
+      "num": 2583213,
+      "word": "女子遭老板性侵后被公司开除",
+      "onboard_time": 1734926957,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1372609,
+      "num": 885251,
+      "word": "蒋欣 冰美式",
+      "onboard_time": 1734927859,
+      "rank": 31,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1199523,
       "num": 1199523,
@@ -25,14 +41,6 @@
       "onboard_time": 1734876979,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1036583,
-      "num": 1036583,
-      "word": "女子遭老板性侵后被公司开除",
-      "onboard_time": 1734926957,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 988951,
@@ -67,6 +75,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 867394,
+      "num": 867394,
+      "word": "高考601分女生为何选择殡葬专业",
+      "onboard_time": 1734925998,
+      "rank": 5,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 803227,
       "num": 690043,
       "word": "胡军演洪七公",
@@ -81,14 +97,6 @@
       "onboard_time": 1734924437,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 702702,
-      "num": 702702,
-      "word": "高考601分女生为何选择殡葬专业",
-      "onboard_time": 1734925998,
-      "rank": 5,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 695363,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271398,
+      "num": 601788,
+      "word": "为被投毒小狗追凶的831天",
+      "onboard_time": 1734924198,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268915,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
@@ -395,20 +411,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256687,
+      "num": 256687,
+      "word": "唐尚珺高考16年总分8916",
+      "onboard_time": 1734927319,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252942,
       "num": 252942,
       "word": "普京回应第三次世界大战是否正在进行",
       "onboard_time": 1734910755,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247523,
-      "num": 601788,
-      "word": "为被投毒小狗追凶的831天",
-      "onboard_time": 1734924198,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244475,
@@ -595,12 +611,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185205,
-      "num": 185205,
-      "word": "蒋欣 冰美式",
-      "onboard_time": 1734927859,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 185516,
+      "num": 185516,
+      "word": "九重紫",
+      "onboard_time": 1734862278,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 183654,
@@ -609,6 +625,14 @@
       "onboard_time": 1734876560,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181836,
+      "num": 181836,
+      "word": "胡军 丐永一",
+      "onboard_time": 1734928519,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 180662,
@@ -667,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167606,
-      "num": 167606,
-      "word": "唐尚珺高考16年总分8916",
-      "onboard_time": 1734927319,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167542,
       "num": 167542,
       "word": "2024仅剩个位天数",
@@ -705,6 +721,14 @@
       "onboard_time": 1734924377,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "射雕细节",
+      "onboard_time": 1734928879,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 161277,
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150802,
+      "num": 150802,
+      "word": "胖东来回应影院观影不满意可半价",
+      "onboard_time": 1734927319,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -777,6 +809,14 @@
       "onboard_time": 1734869298,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140293,
+      "num": 140293,
+      "word": "职场如何一眼识别鼓励式PUA",
+      "onboard_time": 1734928879,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 139786,
@@ -867,11 +907,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 122060,
-      "num": 122060,
-      "word": "胖东来回应影院观影不满意可半价",
-      "onboard_time": 1734927319,
-      "rank": 49,
+      "raw_hot": 122357,
+      "num": 512709,
+      "word": "全国高校首个生死体验中心",
+      "onboard_time": 1734928159,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -900,7 +940,7 @@
     },
     {
       "raw_hot": 115032,
-      "num": 185991,
+      "num": 189108,
       "word": "白月梵星官博回应",
       "onboard_time": 1734915497,
       "rank": 35,
@@ -979,12 +1019,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 99204,
-      "num": 99204,
-      "word": "九重紫",
-      "onboard_time": 1734862278,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 100473,
+      "num": 224741,
+      "word": "纳瓦斯正式退役",
+      "onboard_time": 1734928218,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 98851,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1734878361,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 73112,
+      "num": 362407,
+      "word": "室友考完研回来还在学",
+      "onboard_time": 1734928339,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 68217,
@@ -1300,7 +1348,7 @@
     },
     {
       "raw_hot": 34043,
-      "num": 864987,
+      "num": 886388,
       "word": "2024余额已不足10天",
       "onboard_time": 1734873620,
       "rank": 2,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1734910396,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28847,
+      "num": 185720,
+      "word": "年轻人跨年拍照的仪式感",
+      "onboard_time": 1734928460,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 27544,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1734902171,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17506,
+      "num": 164484,
+      "word": "现在流行智驾游",
+      "onboard_time": 1734928281,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 14413,

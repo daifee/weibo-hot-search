@@ -1,0 +1,410 @@
+{
+  "runTime": 1734928939677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2583213,
+        "num": 2583213,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 927516,
+        "num": 927516,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29639,
+        "num": 886388,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1372609,
+        "num": 885251,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867394,
+        "num": 867394,
+        "word": "高考601分女生为何选择殡葬专业",
+        "onboard_time": 1734925998,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 604163,
+        "num": 604163,
+        "word": "县长回应政府门前夜市已存在多年",
+        "onboard_time": 1734924437,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674638,
+        "num": 597367,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646649,
+        "num": 575336,
+        "word": "胡军演洪七公",
+        "onboard_time": 1734924437,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549534,
+        "num": 549534,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122357,
+        "num": 512709,
+        "word": "全国高校首个生死体验中心",
+        "onboard_time": 1734928159,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701961,
+        "num": 498711,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478300,
+        "num": 478300,
+        "word": "不少孩子当代练挣钱玩游戏",
+        "onboard_time": 1734920477,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 453009,
+        "num": 453009,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 400948,
+        "num": 400948,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73112,
+        "num": 362407,
+        "word": "室友考完研回来还在学",
+        "onboard_time": 1734928339,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344940,
+        "num": 344940,
+        "word": "杨紫李现古装cp感",
+        "onboard_time": 1734924977,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326010,
+        "num": 326010,
+        "word": "QQ音乐报告 NCT专辑",
+        "onboard_time": 1734923898,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 291342,
+        "num": 291342,
+        "word": "大奉打更人OST阵容",
+        "onboard_time": 1734921978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271398,
+        "num": 271398,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256687,
+        "num": 256687,
+        "word": "唐尚珺高考16年总分8916",
+        "onboard_time": 1734927319,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637768,
+        "num": 252842,
+        "word": "已生6女90后女子第七胎生女",
+        "onboard_time": 1734926119,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344591,
+        "num": 247936,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265095,
+        "num": 246322,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239035,
+        "num": 239035,
+        "word": "祝绪丹也做上拼豆了",
+        "onboard_time": 1734926720,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100473,
+        "num": 224741,
+        "word": "纳瓦斯正式退役",
+        "onboard_time": 1734928218,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222343,
+        "num": 222343,
+        "word": "柳岩谈44岁女演员的尴尬",
+        "onboard_time": 1734921436,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213564,
+        "num": 213564,
+        "word": "王力宏官宣个人巡回演唱会",
+        "onboard_time": 1734913758,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207549,
+        "num": 207549,
+        "word": "被同学抱摔艺考女生面试皆被拒收",
+        "onboard_time": 1734920837,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201919,
+        "num": 201919,
+        "word": "从武侠看中国人的处世哲学",
+        "onboard_time": 1734921256,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70451,
+        "num": 189108,
+        "word": "白月梵星官博回应",
+        "onboard_time": 1734915497,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187617,
+        "num": 187617,
+        "word": "肖战梁家辉新片对手戏",
+        "onboard_time": 1734925456,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28847,
+        "num": 185720,
+        "word": "年轻人跨年拍照的仪式感",
+        "onboard_time": 1734928460,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185516,
+        "num": 185516,
+        "word": "九重紫",
+        "onboard_time": 1734928639,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181836,
+        "num": 181836,
+        "word": "胡军 丐永一",
+        "onboard_time": 1734928519,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178078,
+        "num": 178078,
+        "word": "恋与深空",
+        "onboard_time": 1734924917,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178054,
+        "num": 178054,
+        "word": "沈梦辰出演国色芳华",
+        "onboard_time": 1734923178,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169432,
+        "num": 169432,
+        "word": "檀健次ELLE销量",
+        "onboard_time": 1734925578,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165670,
+        "num": 165670,
+        "word": "俄罗斯为何防不住乌军无人机",
+        "onboard_time": 1734925337,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17506,
+        "num": 164484,
+        "word": "现在流行智驾游",
+        "onboard_time": 1734928281,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163546,
+        "num": 163546,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163128,
+        "num": 163128,
+        "word": "射雕细节",
+        "onboard_time": 1734928879,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161529,
+        "num": 161529,
+        "word": "诈骗团伙在缅甸盖楼藏5000多个骗子",
+        "onboard_time": 1734924856,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150802,
+        "num": 150802,
+        "word": "胖东来回应影院观影不满意可半价",
+        "onboard_time": 1734927319,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148786,
+        "num": 148786,
+        "word": "一段视频看侠之大者的含义",
+        "onboard_time": 1734921256,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145115,
+        "num": 145115,
+        "word": "A股",
+        "onboard_time": 1734919637,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141448,
+        "num": 141448,
+        "word": "玄彬说孙艺珍和儿子是第一顺位",
+        "onboard_time": 1734919817,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140293,
+        "num": 140293,
+        "word": "职场如何一眼识别鼓励式PUA",
+        "onboard_time": 1734928879,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137630,
+        "num": 137630,
+        "word": "国色芳华妆造",
+        "onboard_time": 1734925758,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "女子在婚恋网被2男子骗400万",
+        "onboard_time": 1734923237,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}
