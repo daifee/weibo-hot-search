@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734910539871,
+  "endTime": 1734918263443,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -147,6 +147,14 @@
       "category": "正能量,教育"
     },
     {
+      "raw_hot": 1183590,
+      "num": 1189374,
+      "word": "被同学抱摔艺考女生发声",
+      "onboard_time": 1734912077,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1076948,
       "num": 347525,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
@@ -225,6 +233,14 @@
       "onboard_time": 1734866898,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 952813,
+      "num": 952813,
+      "word": "上海地铁又现致歉信专用章",
+      "onboard_time": 1734910998,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 929729,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 688171,
+      "num": 688171,
+      "word": "年度报告",
+      "onboard_time": 1734910036,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 679597,
       "num": 679597,
       "word": "数三 感觉简单但是不会",
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564750,
+      "num": 564750,
+      "word": "王力宏官宣个人巡回演唱会",
+      "onboard_time": 1734913758,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 560359,
       "num": 560359,
       "word": "于适希望更多中国传统体育运动被看见",
@@ -505,6 +537,14 @@
       "onboard_time": 1734857718,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 551649,
+      "num": 551649,
+      "word": "李昀锐大拇指",
+      "onboard_time": 1734910154,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 531453,
@@ -635,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445256,
+      "num": 445256,
+      "word": "特朗普表示赞成TikTok继续在美运营",
+      "onboard_time": 1734912198,
+      "rank": 7,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 440608,
       "num": 291852,
       "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
@@ -689,6 +737,22 @@
       "onboard_time": 1734839239,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 421844,
+      "num": 421844,
+      "word": "人生就要充满passion",
+      "onboard_time": 1734914239,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 421028,
+      "num": 421028,
+      "word": "黑神话悟空被山寨了",
+      "onboard_time": 1734915798,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 418766,
@@ -865,6 +929,14 @@
       "onboard_time": 1734875600,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 356218,
+      "num": 356218,
+      "word": "武汉下雪",
+      "onboard_time": 1734911837,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354595,
@@ -1083,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "李现在虎跳峡举国旗",
+      "onboard_time": 1734910455,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273701,
       "num": 273701,
       "word": "恋与深空直播预告",
@@ -1195,6 +1275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252942,
+      "num": 252942,
+      "word": "普京回应第三次世界大战是否正在进行",
+      "onboard_time": 1734910755,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248432,
       "num": 248432,
       "word": "章昊韩维辰道歉",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1734876560,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 239193,
+      "num": 181690,
+      "word": "李行亮写歌控诉麦琳",
+      "onboard_time": 1734910455,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 237554,
@@ -1427,12 +1523,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "虾 警惕突然对你好的人",
+      "onboard_time": 1734910635,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208944,
       "num": 208944,
       "word": "金晨王安宇跳TroubleMaker",
       "onboard_time": 1734846798,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208763,
+      "num": 181225,
+      "word": "官方回应32岁飞行员失联事件",
+      "onboard_time": 1734915738,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208164,
@@ -1763,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180662,
+      "num": 180662,
+      "word": "张真源客串九重紫",
+      "onboard_time": 1734910696,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179717,
       "num": 154805,
       "word": "于文文居然喜欢收集彩色厕纸",
@@ -1961,6 +2081,14 @@
       "onboard_time": 1734783798,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167542,
+      "num": 167542,
+      "word": "2024仅剩个位天数",
+      "onboard_time": 1734914718,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167432,
@@ -2275,6 +2403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143202,
+      "num": 231686,
+      "word": "男子跑步跑上高速",
+      "onboard_time": 1734916997,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "特朗普否认会被马斯克篡权",
+      "onboard_time": 1734917117,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 141650,
       "num": 291801,
       "word": "边工作边考研的人是怎么撑下来的",
@@ -2297,6 +2441,14 @@
       "onboard_time": 1734851358,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139630,
+      "num": 139630,
+      "word": "冬季最佳作息时间表",
+      "onboard_time": 1734910696,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139299,
@@ -2345,6 +2497,14 @@
       "onboard_time": 1734854718,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134104,
+      "num": 134104,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133738,
@@ -2427,14 +2587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130860,
-      "num": 130860,
-      "word": "李昀锐大拇指",
-      "onboard_time": 1734910154,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130677,
       "num": 105320,
       "word": "檀健次沈翊连瞳孔都在飙戏",
@@ -2483,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127743,
+      "num": 127743,
+      "word": "王心凌演唱会吉他手是陈楚生",
+      "onboard_time": 1734911115,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127704,
       "num": 127704,
       "word": "商战",
@@ -2504,14 +2664,6 @@
       "word": "再见爱人 姐姐妹妹站起来",
       "onboard_time": 1734795499,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127422,
-      "num": 81224,
-      "word": "李行亮写歌控诉麦琳",
-      "onboard_time": 1734910455,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2595,6 +2747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123276,
+      "num": 123276,
+      "word": "所谓保健床垫上躺满老年人",
+      "onboard_time": 1734911475,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122894,
       "num": 244970,
       "word": "陈雨菲 我回来了",
@@ -2656,6 +2816,14 @@
       "word": "九重紫 我爱吃这样的",
       "onboard_time": 1734784819,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118031,
+      "num": 118031,
+      "word": "冬至又下线一个闺蜜",
+      "onboard_time": 1734915078,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2819,6 +2987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "白月梵星官博回应",
+      "onboard_time": 1734915497,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111703,
       "num": 177455,
       "word": "马克龙被灾民骂到当场发飙",
@@ -2939,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105119,
+      "num": 106600,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105055,
       "num": 105055,
       "word": "李宇春周笔畅超女后首同台",
@@ -2979,12 +3163,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 103223,
+      "num": 103223,
+      "word": "姆巴佩世界波",
+      "onboard_time": 1734911475,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102206,
       "num": 201059,
       "word": "晋江两男子凌晨到寺庙偷金灰被刑拘",
       "onboard_time": 1734872538,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101210,
+      "num": 101210,
+      "word": "张元英cha了spicyhoney",
+      "onboard_time": 1734910576,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 100933,
@@ -3131,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94477,
+      "num": 94477,
+      "word": "从宋墨拔刀到定国公持戒尺的转场",
+      "onboard_time": 1734918016,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -3203,6 +3411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88996,
+      "num": 88996,
+      "word": "上海147元两荤三素的快餐",
+      "onboard_time": 1734918077,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88549,
       "num": 249476,
       "word": "谷爱凌5小时双冠",
@@ -3251,12 +3467,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83804,
-      "num": 106600,
-      "word": "熊孩子买号玩游戏充值1万无法退费",
-      "onboard_time": 1734885856,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "近千亿市值龙头董事长被立案调查",
+      "onboard_time": 1734915857,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86145,
+      "num": 86145,
+      "word": "我寻思一只小猫能有多丑",
+      "onboard_time": 1734910696,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 83735,
@@ -3305,14 +3529,6 @@
       "onboard_time": 1734879860,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78938,
-      "num": 78938,
-      "word": "年度报告",
-      "onboard_time": 1734910036,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 77920,
@@ -3513,14 +3729,6 @@
       "onboard_time": 1734793579,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61927,
-      "num": 61927,
-      "word": "李现在虎跳峡举国旗",
-      "onboard_time": 1734910455,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 60113,
@@ -3784,14 +3992,6 @@
       "word": "脱口秀演员入驻猫眼失败被指不知名",
       "onboard_time": 1734866538,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45481,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4105,6 +4305,14 @@
       "onboard_time": 1734804673,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30358,
+      "num": 136285,
+      "word": "严肃整改挪用农村学生营养餐补贴乱象",
+      "onboard_time": 1734918198,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29318,

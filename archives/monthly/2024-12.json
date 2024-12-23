@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734910539871,
+  "endTime": 1734918263443,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3171,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1183590,
+      "num": 1189374,
+      "word": "被同学抱摔艺考女生发声",
+      "onboard_time": 1734912077,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1183587,
       "num": 1189374,
       "word": "南京大屠杀铁证碇泊场照片首次曝光",
@@ -4760,6 +4768,14 @@
       "word": "余华英不服判决要申请援助律师",
       "onboard_time": 1734607219,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 952813,
+      "num": 952813,
+      "word": "上海地铁又现致歉信专用章",
+      "onboard_time": 1734910998,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -7971,6 +7987,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 688171,
+      "num": 688171,
+      "word": "年度报告",
+      "onboard_time": 1734668359,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 687534,
       "num": 687534,
       "word": "年轻人一年发送了5760000次的接",
@@ -10075,14 +10099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 588674,
-      "num": 588674,
-      "word": "年度报告",
-      "onboard_time": 1734668359,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 586981,
       "num": 415660,
       "word": "孟子义李昀锐 有本事三搭",
@@ -10539,6 +10555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 564750,
+      "num": 564750,
+      "word": "王力宏官宣个人巡回演唱会",
+      "onboard_time": 1734913758,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 563671,
       "num": 312149,
       "word": "徐海乔真演短剧男主了",
@@ -10841,6 +10865,14 @@
       "onboard_time": 1733464578,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 551649,
+      "num": 551649,
+      "word": "李昀锐大拇指",
+      "onboard_time": 1734910154,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 551633,
@@ -14107,6 +14139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445256,
+      "num": 445256,
+      "word": "特朗普表示赞成TikTok继续在美运营",
+      "onboard_time": 1734912198,
+      "rank": 7,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 444919,
       "num": 444919,
       "word": "遭性侵身亡女生的母亲希望判凶手死刑",
@@ -15019,6 +15059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421844,
+      "num": 421844,
+      "word": "人生就要充满passion",
+      "onboard_time": 1734914239,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 421704,
       "num": 421704,
       "word": "以军发言人否认以军接近大马士革",
@@ -15049,6 +15097,14 @@
       "onboard_time": 1734707958,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421028,
+      "num": 421028,
+      "word": "黑神话悟空被山寨了",
+      "onboard_time": 1734915798,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 420885,
@@ -17729,6 +17785,14 @@
       "onboard_time": 1733717899,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356218,
+      "num": 356218,
+      "word": "武汉下雪",
+      "onboard_time": 1734911837,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356170,
@@ -22347,6 +22411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "李现在虎跳峡举国旗",
+      "onboard_time": 1734910455,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273856,
       "num": 301765,
       "word": "佟大为花期真长",
@@ -23819,6 +23891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252942,
+      "num": 252942,
+      "word": "普京回应第三次世界大战是否正在进行",
+      "onboard_time": 1734910755,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252936,
       "num": 252936,
       "word": "王楚钦凌空杀球",
@@ -25137,6 +25217,14 @@
       "onboard_time": 1733045481,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 239193,
+      "num": 181690,
+      "word": "李行亮写歌控诉麦琳",
+      "onboard_time": 1734910455,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 239161,
@@ -28803,6 +28891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "虾 警惕突然对你好的人",
+      "onboard_time": 1734910635,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209107,
       "num": 209107,
       "word": "家业",
@@ -28905,6 +29001,14 @@
       "onboard_time": 1733987720,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208763,
+      "num": 181225,
+      "word": "官方回应32岁飞行员失联事件",
+      "onboard_time": 1734915738,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208759,
@@ -35827,6 +35931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180662,
+      "num": 180662,
+      "word": "张真源客串九重紫",
+      "onboard_time": 1734910696,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180648,
       "num": 446353,
       "word": "黄景瑜秒猜白敬亭",
@@ -38993,6 +39105,14 @@
       "onboard_time": 1734097701,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167542,
+      "num": 167542,
+      "word": "2024仅剩个位天数",
+      "onboard_time": 1734914718,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167493,
@@ -45835,6 +45955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143202,
+      "num": 231686,
+      "word": "男子跑步跑上高速",
+      "onboard_time": 1734916997,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143160,
       "num": 143160,
       "word": "ive舞台",
@@ -46073,6 +46201,14 @@
       "onboard_time": 1734337458,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "特朗普否认会被马斯克篡权",
+      "onboard_time": 1734917117,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142285,
@@ -46897,6 +47033,14 @@
       "onboard_time": 1733109678,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139630,
+      "num": 139630,
+      "word": "冬季最佳作息时间表",
+      "onboard_time": 1734910696,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139621,
@@ -48411,6 +48555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 134104,
+      "num": 134104,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134103,
       "num": 134103,
       "word": "从南到北冷得干巴巴的",
@@ -49299,14 +49451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130860,
-      "num": 130860,
-      "word": "李昀锐大拇指",
-      "onboard_time": 1734910154,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130820,
       "num": 91995,
       "word": "汪苏泷苏州演唱会",
@@ -50035,6 +50179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127743,
+      "num": 127743,
+      "word": "王心凌演唱会吉他手是陈楚生",
+      "onboard_time": 1734911115,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127715,
       "num": 127715,
       "word": "柯南平次告白只有0次和无数次",
@@ -50145,14 +50297,6 @@
       "onboard_time": 1734494481,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127422,
-      "num": 81224,
-      "word": "李行亮写歌控诉麦琳",
-      "onboard_time": 1734910455,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 127404,
@@ -51384,6 +51528,14 @@
       "word": "官方称将密切观察福宝状态",
       "onboard_time": 1733225721,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123276,
+      "num": 123276,
+      "word": "所谓保健床垫上躺满老年人",
+      "onboard_time": 1734911475,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -52665,6 +52817,14 @@
       "onboard_time": 1734753740,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118031,
+      "num": 118031,
+      "word": "冬至又下线一个闺蜜",
+      "onboard_time": 1734915078,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 118006,
@@ -54145,6 +54305,14 @@
       "onboard_time": 1733145505,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "白月梵星官博回应",
+      "onboard_time": 1734915497,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 112137,
@@ -55795,6 +55963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105119,
+      "num": 106600,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105074,
       "num": 105074,
       "word": "机动车行驶证电子化在全国全面推行",
@@ -56145,6 +56321,14 @@
       "onboard_time": 1733297014,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103223,
+      "num": 103223,
+      "word": "姆巴佩世界波",
+      "onboard_time": 1734911475,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 103202,
@@ -56528,6 +56712,14 @@
       "word": "易烊千玺摇滚范儿",
       "onboard_time": 1733636179,
       "rank": 29,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 101210,
+      "num": 101210,
+      "word": "张元英cha了spicyhoney",
+      "onboard_time": 1734910576,
+      "rank": 41,
       "category": "音乐"
     },
     {
@@ -57931,6 +58123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94477,
+      "num": 94477,
+      "word": "从宋墨拔刀到定国公持戒尺的转场",
+      "onboard_time": 1734918016,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94464,
       "num": 124273,
       "word": "迟亦骁疑怼周密",
@@ -59003,6 +59203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88996,
+      "num": 88996,
+      "word": "上海147元两荤三素的快餐",
+      "onboard_time": 1734918077,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88948,
       "num": 92791,
       "word": "直播间19元流量卡到手变39元",
@@ -59419,6 +59627,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "近千亿市值龙头董事长被立案调查",
+      "onboard_time": 1734915857,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86303,
       "num": 123263,
       "word": "网传星光大赏出席嘉宾名单",
@@ -59433,6 +59649,14 @@
       "onboard_time": 1734622399,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86145,
+      "num": 86145,
+      "word": "我寻思一只小猫能有多丑",
+      "onboard_time": 1734910696,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86122,
@@ -59769,14 +59993,6 @@
       "onboard_time": 1733232441,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 83804,
-      "num": 106600,
-      "word": "熊孩子买号玩游戏充值1万无法退费",
-      "onboard_time": 1734885856,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83752,
@@ -64003,14 +64219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61927,
-      "num": 61927,
-      "word": "李现在虎跳峡举国旗",
-      "onboard_time": 1734910455,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61888,
       "num": 92595,
       "word": "iG暴打RNG",
@@ -68128,14 +68336,6 @@
       "word": "当代年轻人边熬夜边买保险",
       "onboard_time": 1734588020,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45481,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -73313,6 +73513,14 @@
       "onboard_time": 1733231059,
       "rank": 38,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 30358,
+      "num": 136285,
+      "word": "严肃整改挪用农村学生营养餐补贴乱象",
+      "onboard_time": 1734918198,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30297,

@@ -1,7 +1,15 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734910539871,
+  "endTime": 1734918263443,
   "band_list": [
+    {
+      "raw_hot": 1183590,
+      "num": 1189374,
+      "word": "被同学抱摔艺考女生发声",
+      "onboard_time": 1734912077,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1114347,
       "num": 1114347,
@@ -19,12 +27,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 952813,
+      "num": 952813,
+      "word": "上海地铁又现致歉信专用章",
+      "onboard_time": 1734910998,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 688171,
+      "num": 688171,
+      "word": "年度报告",
+      "onboard_time": 1734910036,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 564750,
+      "num": 564750,
+      "word": "王力宏官宣个人巡回演唱会",
+      "onboard_time": 1734913758,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 562120,
       "num": 562120,
       "word": "徐艺洋老公 发疯文学",
       "onboard_time": 1734871638,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 551649,
+      "num": 551649,
+      "word": "李昀锐大拇指",
+      "onboard_time": 1734910154,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 496126,
@@ -51,6 +91,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 445256,
+      "num": 445256,
+      "word": "特朗普表示赞成TikTok继续在美运营",
+      "onboard_time": 1734912198,
+      "rank": 7,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 441802,
       "num": 160687,
       "word": "九重紫第30集封神",
@@ -59,12 +107,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421844,
+      "num": 421844,
+      "word": "人生就要充满passion",
+      "onboard_time": 1734914239,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 421028,
+      "num": 421028,
+      "word": "黑神话悟空被山寨了",
+      "onboard_time": 1734915798,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 399264,
       "num": 175403,
       "word": "张雨绮 为了讨大家喜欢才穿成这样",
       "onboard_time": 1734867499,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 356218,
+      "num": 356218,
+      "word": "武汉下雪",
+      "onboard_time": 1734911837,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 332400,
@@ -76,7 +148,7 @@
     },
     {
       "raw_hot": 318889,
-      "num": 170724,
+      "num": 223610,
       "word": "上海地铁致歉",
       "onboard_time": 1734875661,
       "rank": 13,
@@ -99,12 +171,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 274013,
+      "num": 274013,
+      "word": "李现在虎跳峡举国旗",
+      "onboard_time": 1734910455,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268915,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
       "onboard_time": 1734877279,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252942,
+      "num": 252942,
+      "word": "普京回应第三次世界大战是否正在进行",
+      "onboard_time": 1734910755,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244475,
@@ -115,11 +203,35 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 239193,
+      "num": 181690,
+      "word": "李行亮写歌控诉麦琳",
+      "onboard_time": 1734910455,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220908,
       "num": 220908,
       "word": "老人花2万买所谓保健床垫后再不愿去医院",
       "onboard_time": 1734909315,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209134,
+      "num": 209134,
+      "word": "虾 警惕突然对你好的人",
+      "onboard_time": 1734910635,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 208763,
+      "num": 181225,
+      "word": "官方回应32岁飞行员失联事件",
+      "onboard_time": 1734915738,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -132,7 +244,7 @@
     },
     {
       "raw_hot": 204368,
-      "num": 111193,
+      "num": 124287,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
       "onboard_time": 1734846379,
       "rank": 20,
@@ -179,6 +291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183654,
+      "num": 183654,
+      "word": "宋莹买这么多金项链为什么一条没戴",
+      "onboard_time": 1734876560,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180662,
+      "num": 180662,
+      "word": "张真源客串九重紫",
+      "onboard_time": 1734910696,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176491,
       "num": 108416,
       "word": "9岁女孩胃里取出直径4厘米头发团",
@@ -192,6 +320,14 @@
       "word": "直播间榜一大哥1周骗走女主播7.4万",
       "onboard_time": 1734869959,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167542,
+      "num": 167542,
+      "word": "2024仅剩个位天数",
+      "onboard_time": 1734914718,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -219,20 +355,28 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 145386,
-      "num": 145386,
-      "word": "宋莹买这么多金项链为什么一条没戴",
-      "onboard_time": 1734876560,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 144864,
       "num": 144864,
       "word": "车厘子自由是不是真的来了",
       "onboard_time": 1734863957,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143202,
+      "num": 231686,
+      "word": "男子跑步跑上高速",
+      "onboard_time": 1734916997,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142321,
+      "num": 142321,
+      "word": "特朗普否认会被马斯克篡权",
+      "onboard_time": 1734917117,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141313,
@@ -243,12 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130860,
-      "num": 130860,
-      "word": "李昀锐大拇指",
-      "onboard_time": 1734910154,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 139630,
+      "num": 139630,
+      "word": "冬季最佳作息时间表",
+      "onboard_time": 1734910696,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 134104,
+      "num": 134104,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130677,
@@ -259,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127743,
+      "num": 127743,
+      "word": "王心凌演唱会吉他手是陈楚生",
+      "onboard_time": 1734911115,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127695,
       "num": 169664,
       "word": "普京回应喀山遭无人机袭击事件",
       "onboard_time": 1734882378,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127422,
-      "num": 81224,
-      "word": "李行亮写歌控诉麦琳",
-      "onboard_time": 1734910455,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 125172,
@@ -299,12 +451,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123276,
+      "num": 123276,
+      "word": "所谓保健床垫上躺满老年人",
+      "onboard_time": 1734911475,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118031,
+      "num": 118031,
+      "word": "冬至又下线一个闺蜜",
+      "onboard_time": 1734915078,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112404,
       "num": 112404,
       "word": "23岁的考场和18岁是不同的",
       "onboard_time": 1734868939,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112180,
+      "num": 112180,
+      "word": "白月梵星官博回应",
+      "onboard_time": 1734915497,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 107919,
@@ -323,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105119,
+      "num": 106600,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103223,
+      "num": 103223,
+      "word": "姆巴佩世界波",
+      "onboard_time": 1734911475,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102735,
       "num": 102735,
       "word": "范丞丞 我现在急需要鼓励啊",
       "onboard_time": 1734871339,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101210,
+      "num": 101210,
+      "word": "张元英cha了spicyhoney",
+      "onboard_time": 1734910576,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 100933,
@@ -347,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94477,
+      "num": 94477,
+      "word": "从宋墨拔刀到定国公持戒尺的转场",
+      "onboard_time": 1734918016,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93044,
       "num": 83699,
       "word": "利路修回应退圈",
       "onboard_time": 1734864199,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88996,
+      "num": 88996,
+      "word": "上海147元两荤三素的快餐",
+      "onboard_time": 1734918077,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 87288,
@@ -379,19 +595,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86343,
+      "num": 86343,
+      "word": "近千亿市值龙头董事长被立案调查",
+      "onboard_time": 1734915857,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 86145,
+      "num": 86145,
+      "word": "我寻思一只小猫能有多丑",
+      "onboard_time": 1734910696,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85940,
       "num": 85940,
       "word": "大爷下肢瘫痪在滑雪场上却健步如飞",
       "onboard_time": 1734879201,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83804,
-      "num": 106600,
-      "word": "熊孩子买号玩游戏充值1万无法退费",
-      "onboard_time": 1734885856,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -401,14 +625,6 @@
       "onboard_time": 1734864919,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78938,
-      "num": 78938,
-      "word": "年度报告",
-      "onboard_time": 1734910036,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 77920,
@@ -473,14 +689,6 @@
       "onboard_time": 1734880520,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 61927,
-      "num": 61927,
-      "word": "李现在虎跳峡举国旗",
-      "onboard_time": 1734910455,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 55485,
@@ -563,14 +771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45481,
-      "num": 65345,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43225,
       "num": 43225,
       "word": "车辆跟踪竟成黑产业链",
@@ -627,6 +827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34043,
+      "num": 821573,
+      "word": "2024余额已不足10天",
+      "onboard_time": 1734873620,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31725,
       "num": 31725,
       "word": "想去尔滨的心情又达到顶峰",
@@ -635,11 +843,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 29897,
-      "num": 684810,
-      "word": "2024余额已不足10天",
-      "onboard_time": 1734873620,
-      "rank": 2,
+      "raw_hot": 30358,
+      "num": 136285,
+      "word": "严肃整改挪用农村学生营养餐补贴乱象",
+      "onboard_time": 1734918198,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
