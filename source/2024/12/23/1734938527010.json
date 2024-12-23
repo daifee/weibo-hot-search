@@ -1,0 +1,410 @@
+{
+  "runTime": 1734938527010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1082503,
+        "num": 1173200,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827927,
+        "num": 827927,
+        "word": "飞机锁座越来越多",
+        "onboard_time": 1734934339,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31078,
+        "num": 764005,
+        "word": "2024这些passion瞬间提到了你",
+        "onboard_time": 1734938356,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706594,
+        "num": 706594,
+        "word": "殡葬专业本科比其他专业高二三十分",
+        "onboard_time": 1734934099,
+        "rank": 3,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 690681,
+        "num": 690681,
+        "word": "蒋欣生图更是妈妈级别",
+        "onboard_time": 1734934398,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491514,
+        "num": 491514,
+        "word": "南京一景区回应女子穿和服被指责",
+        "onboard_time": 1734935598,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 588914,
+        "num": 430421,
+        "word": "诛仙2.0",
+        "onboard_time": 1734933258,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312913,
+        "num": 312913,
+        "word": "高考601分女生为何选择殡葬专业",
+        "onboard_time": 1734925998,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 269606,
+        "num": 269606,
+        "word": "A股三大突发",
+        "onboard_time": 1734929601,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197756,
+        "num": 268309,
+        "word": "泼水成冰新手被开水烫伤",
+        "onboard_time": 1734935717,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1080569,
+        "num": 267144,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555839,
+        "num": 265538,
+        "word": "麦琳听到李行亮写的歌绷不住了",
+        "onboard_time": 1734935358,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688675,
+        "num": 265097,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124640,
+        "num": 263110,
+        "word": "遭恶犬袭击4岁男童或需全身换血",
+        "onboard_time": 1734937758,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43199,
+        "num": 262570,
+        "word": "陈数说我们不需要和时间赛跑",
+        "onboard_time": 1734937818,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2423,
+        "num": 260858,
+        "word": "一带一路金枢纽",
+        "onboard_time": 1734837077,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 545870,
+        "num": 258612,
+        "word": "纪凌尘回应假装看书",
+        "onboard_time": 1734936138,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258562,
+        "num": 258562,
+        "word": "马航",
+        "onboard_time": 1734936700,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35588,
+        "num": 258373,
+        "word": "朱志鑫微博跨年预约破500万",
+        "onboard_time": 1734937999,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50570,
+        "num": 257544,
+        "word": "一年抄一次水表发现用水上万吨",
+        "onboard_time": 1734937758,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527207,
+        "num": 257038,
+        "word": "陆柯燃解约了",
+        "onboard_time": 1734934398,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267191,
+        "num": 256507,
+        "word": "D社再曝宋旻浩服兵役造假",
+        "onboard_time": 1734936259,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301262,
+        "num": 255906,
+        "word": "男子要求出轨对象偿还出轨期间支出",
+        "onboard_time": 1734930319,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287573,
+        "num": 255058,
+        "word": "华筝 草原公主",
+        "onboard_time": 1734932238,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272500,
+        "num": 254857,
+        "word": "72岁老人演上百部短剧一天收入上千",
+        "onboard_time": 1734934937,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254359,
+        "num": 254359,
+        "word": "已生6女90后女子第七胎生女",
+        "onboard_time": 1734926119,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234282,
+        "num": 234282,
+        "word": "航空公司回应飞机锁座规则",
+        "onboard_time": 1734933498,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224929,
+        "num": 224929,
+        "word": "徐克选角",
+        "onboard_time": 1734937637,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216892,
+        "num": 216892,
+        "word": "祝绪丹会跟迪丽热巴讲心里话",
+        "onboard_time": 1734931338,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100164,
+        "num": 213782,
+        "word": "TOV公司拒绝陆柯燃要求",
+        "onboard_time": 1734936077,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64731,
+        "num": 212468,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211967,
+        "num": 211967,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209856,
+        "num": 209856,
+        "word": "人大教授建议取消中考",
+        "onboard_time": 1734936077,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188507,
+        "num": 188507,
+        "word": "室友考完研回来还在学",
+        "onboard_time": 1734928339,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22043,
+        "num": 175036,
+        "word": "脱口秀演员组团对鸿蒙开麦",
+        "onboard_time": 1734933138,
+        "rank": 34,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 168874,
+        "num": 168874,
+        "word": "粉丝大喊孙颖莎感谢现役的含金量",
+        "onboard_time": 1734936316,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153131,
+        "num": 153131,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "向佐在尔滨一秒钟800个动作",
+        "onboard_time": 1734936618,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150849,
+        "num": 150849,
+        "word": "迪丽热巴2张嘻嘻迪",
+        "onboard_time": 1734936138,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144663,
+        "num": 144663,
+        "word": "徐克 镜头美学",
+        "onboard_time": 1734933558,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137208,
+        "num": 137208,
+        "word": "A股",
+        "onboard_time": 1734934217,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 128772,
+        "word": "曾庆杰 上桌",
+        "onboard_time": 1734933737,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125860,
+        "num": 125860,
+        "word": "庄达菲黄蓉妆造",
+        "onboard_time": 1734929479,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66443,
+        "num": 125757,
+        "word": "国足在杭州对阵澳大利亚",
+        "onboard_time": 1734929359,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125711,
+        "num": 125711,
+        "word": "国色芳华全员原声台词",
+        "onboard_time": 1734936858,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124955,
+        "num": 124955,
+        "word": "一图回顾2024国乒荣耀",
+        "onboard_time": 1734937637,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 119848,
+        "word": "福宝",
+        "onboard_time": 1734938119,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115939,
+        "num": 115939,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112391,
+        "num": 115573,
+        "word": "微信可以线上送实体礼物了",
+        "onboard_time": 1734938356,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97952,
+        "num": 115336,
+        "word": "原神玛薇卡",
+        "onboard_time": 1734938479,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}

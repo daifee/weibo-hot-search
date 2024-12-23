@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734936314597,
+  "endTime": 1734938527010,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -107,8 +107,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827927,
+      "num": 827927,
+      "word": "飞机锁座越来越多",
+      "onboard_time": 1734934339,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 819250,
-      "num": 331201,
+      "num": 430421,
       "word": "诛仙2.0",
       "onboard_time": 1734933258,
       "rank": 6,
@@ -132,11 +140,19 @@
     },
     {
       "raw_hot": 724052,
-      "num": 327699,
+      "num": 690681,
       "word": "蒋欣生图更是妈妈级别",
       "onboard_time": 1734934398,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 706594,
+      "num": 706594,
+      "word": "殡葬专业本科比其他专业高二三十分",
+      "onboard_time": 1734934099,
+      "rank": 15,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 695363,
@@ -187,14 +203,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 625286,
-      "num": 625286,
-      "word": "殡葬专业本科比其他专业高二三十分",
-      "onboard_time": 1734934099,
-      "rank": 15,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 596939,
       "num": 596939,
       "word": "李昀锐大拇指",
@@ -227,6 +235,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 555839,
+      "num": 316306,
+      "word": "麦琳听到李行亮写的歌绷不住了",
+      "onboard_time": 1734935358,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 545870,
+      "num": 258612,
+      "word": "纪凌尘回应假装看书",
+      "onboard_time": 1734936138,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 526141,
       "num": 325516,
       "word": "华筝 草原公主",
@@ -235,20 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 509421,
-      "num": 509421,
-      "word": "飞机锁座越来越多",
-      "onboard_time": 1734934339,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
       "onboard_time": 1734885316,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491514,
+      "num": 491514,
+      "word": "南京一景区回应女子穿和服被指责",
+      "onboard_time": 1734935598,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 487574,
@@ -321,14 +345,6 @@
       "onboard_time": 1734921436,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 424363,
-      "num": 316306,
-      "word": "麦琳听到李行亮写的歌绷不住了",
-      "onboard_time": 1734935358,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 421844,
@@ -523,11 +539,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272500,
+      "num": 254857,
+      "word": "72岁老人演上百部短剧一天收入上千",
+      "onboard_time": 1734934937,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268915,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
       "onboard_time": 1734877279,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267191,
+      "num": 256507,
+      "word": "D社再曝宋旻浩服兵役造假",
+      "onboard_time": 1734936259,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -545,6 +577,14 @@
       "onboard_time": 1734910455,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258562,
+      "num": 258562,
+      "word": "马航",
+      "onboard_time": 1734936700,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256687,
@@ -585,6 +625,22 @@
       "onboard_time": 1734879440,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 234282,
+      "num": 298102,
+      "word": "航空公司回应飞机锁座规则",
+      "onboard_time": 1734933498,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224929,
+      "num": 224929,
+      "word": "徐克选角",
+      "onboard_time": 1734937637,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 224466,
@@ -635,11 +691,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 214938,
-      "num": 298102,
-      "word": "航空公司回应飞机锁座规则",
-      "onboard_time": 1734933498,
-      "rank": 27,
+      "raw_hot": 209856,
+      "num": 209856,
+      "word": "人大教授建议取消中考",
+      "onboard_time": 1734936077,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -691,19 +747,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 200548,
-      "num": 200548,
-      "word": "72岁老人演上百部短剧一天收入上千",
-      "onboard_time": 1734934937,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198979,
       "num": 198979,
       "word": "长沙真的下雪了",
       "onboard_time": 1734906793,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197756,
+      "num": 268309,
+      "word": "泼水成冰新手被开水烫伤",
+      "onboard_time": 1734935717,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -867,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168874,
+      "num": 168874,
+      "word": "粉丝大喊孙颖莎感谢现役的含金量",
+      "onboard_time": 1734936316,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167542,
       "num": 167542,
       "word": "2024仅剩个位天数",
@@ -939,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156326,
-      "num": 202572,
-      "word": "南京一景区回应女子穿和服被指责",
-      "onboard_time": 1734935598,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 154624,
       "num": 233113,
       "word": "宋旻浩退伍",
@@ -971,6 +1027,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "向佐在尔滨一秒钟800个动作",
+      "onboard_time": 1734936618,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151909,
       "num": 413670,
       "word": "特朗普否认会被马斯克篡权",
@@ -985,6 +1049,14 @@
       "onboard_time": 1734923237,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150849,
+      "num": 152141,
+      "word": "迪丽热巴2张嘻嘻迪",
+      "onboard_time": 1734936138,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 150802,
@@ -1091,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128091,
-      "num": 128091,
-      "word": "泼水成冰新手被开水烫伤",
-      "onboard_time": 1734935717,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127743,
       "num": 127743,
       "word": "王心凌演唱会吉他手是陈楚生",
@@ -1123,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125711,
+      "num": 125711,
+      "word": "国色芳华全员原声台词",
+      "onboard_time": 1734936858,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125685,
       "num": 125685,
       "word": "所谓保健床垫上躺满老年人",
@@ -1139,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125414,
-      "num": 125414,
-      "word": "纪凌尘回应假装看书",
-      "onboard_time": 1734936138,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125181,
       "num": 125181,
       "word": "从宋墨拔刀到定国公持戒尺的转场",
@@ -1161,6 +1225,22 @@
       "onboard_time": 1734866359,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124955,
+      "num": 124955,
+      "word": "一图回顾2024国乒荣耀",
+      "onboard_time": 1734937637,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124640,
+      "num": 263110,
+      "word": "遭恶犬袭击4岁男童或需全身换血",
+      "onboard_time": 1734937758,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123897,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1734923418,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119848,
+      "num": 119848,
+      "word": "福宝",
+      "onboard_time": 1734938119,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119020,
@@ -1219,20 +1307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113731,
-      "num": 113731,
-      "word": "人大教授建议取消中考",
-      "onboard_time": 1734936077,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112404,
       "num": 112404,
       "word": "23岁的考场和18岁是不同的",
       "onboard_time": 1734868939,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112391,
+      "num": 115573,
+      "word": "微信可以线上送实体礼物了",
+      "onboard_time": 1734938356,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 110044,
@@ -1323,20 +1411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99377,
-      "num": 99377,
-      "word": "D社再曝宋旻浩服兵役造假",
-      "onboard_time": 1734936259,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98851,
       "num": 98851,
       "word": "2024年你的目标都实现了吗",
       "onboard_time": 1734917897,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97952,
+      "num": 115336,
+      "word": "原神玛薇卡",
+      "onboard_time": 1734938479,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 95338,
@@ -1507,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64731,
+      "num": 886388,
+      "word": "2024余额已不足10天",
+      "onboard_time": 1734873620,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63595,
       "num": 224918,
       "word": "剑网三",
@@ -1577,6 +1673,14 @@
       "onboard_time": 1734930378,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50570,
+      "num": 257544,
+      "word": "一年抄一次水表发现用水上万吨",
+      "onboard_time": 1734937758,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50396,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1734893651,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43199,
+      "num": 262570,
+      "word": "陈数说我们不需要和时间赛跑",
+      "onboard_time": 1734937818,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 42230,
@@ -1763,26 +1875,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34043,
-      "num": 886388,
-      "word": "2024余额已不足10天",
-      "onboard_time": 1734873620,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 35588,
+      "num": 258373,
+      "word": "朱志鑫微博跨年预约破500万",
+      "onboard_time": 1734937999,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 33349,
       "num": 200937,
       "word": "杨紫盼与何惟芳相见",
       "onboard_time": 1734931518,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32681,
-      "num": 152141,
-      "word": "迪丽热巴2张嘻嘻迪",
-      "onboard_time": 1734936138,
       "rank": 28,
       "category": "剧集"
     },
@@ -1801,6 +1905,14 @@
       "onboard_time": 1734935778,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31078,
+      "num": 764005,
+      "word": "2024这些passion瞬间提到了你",
+      "onboard_time": 1734938356,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30358,
@@ -1875,7 +1987,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21395,
+      "raw_hot": 22043,
       "num": 290347,
       "word": "脱口秀演员组团对鸿蒙开麦",
       "onboard_time": 1734933138,
@@ -1985,6 +2097,14 @@
       "onboard_time": 1734898212,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2423,
+      "num": 260858,
+      "word": "一带一路金枢纽",
+      "onboard_time": 1734837077,
+      "rank": 15,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
