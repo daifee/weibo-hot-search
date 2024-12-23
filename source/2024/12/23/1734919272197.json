@@ -1,0 +1,410 @@
+{
+  "runTime": 1734919272197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121411,
+        "num": 1179425,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819410,
+        "num": 819410,
+        "word": "上海地铁又现致歉信专用章",
+        "onboard_time": 1734910998,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30638,
+        "num": 791565,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 776237,
+        "num": 776237,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 666415,
+        "num": 666415,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 596939,
+        "num": 596939,
+        "word": "李昀锐大拇指",
+        "onboard_time": 1734910154,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518872,
+        "num": 518872,
+        "word": "王力宏官宣个人巡回演唱会",
+        "onboard_time": 1734913758,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 428810,
+        "num": 428810,
+        "word": "黑神话悟空被山寨了",
+        "onboard_time": 1734915798,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149016,
+        "num": 413887,
+        "word": "一支短片记住2024的滚烫瞬间",
+        "onboard_time": 1734918677,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151909,
+        "num": 413670,
+        "word": "特朗普否认会被马斯克篡权",
+        "onboard_time": 1734917117,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 413512,
+        "num": 413512,
+        "word": "官方回应32岁飞行员失联事件",
+        "onboard_time": 1734915738,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399578,
+        "num": 399578,
+        "word": "人生就要充满passion",
+        "onboard_time": 1734914239,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 330077,
+        "num": 330077,
+        "word": "男子跑步跑上高速",
+        "onboard_time": 1734916997,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297349,
+        "num": 297349,
+        "word": "武汉下雪",
+        "onboard_time": 1734911837,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290533,
+        "num": 290533,
+        "word": "李昀锐避免大拇指露出",
+        "onboard_time": 1734881060,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268381,
+        "num": 268381,
+        "word": "特朗普表示赞成TikTok继续在美运营",
+        "onboard_time": 1734912198,
+        "rank": 15,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 211966,
+        "num": 249366,
+        "word": "李现在虎跳峡举国旗",
+        "onboard_time": 1734910455,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194467,
+        "num": 246125,
+        "word": "华妃娘娘凤仪万千",
+        "onboard_time": 1734874820,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245838,
+        "num": 245838,
+        "word": "普京回应第三次世界大战是否正在进行",
+        "onboard_time": 1734910755,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154624,
+        "num": 233113,
+        "word": "宋旻浩退伍",
+        "onboard_time": 1734918797,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261203,
+        "num": 232394,
+        "word": "李行亮写歌控诉麦琳",
+        "onboard_time": 1734910455,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222359,
+        "num": 222359,
+        "word": "考研学生走进按摩店问老板能否午休",
+        "onboard_time": 1734868159,
+        "rank": 21,
+        "category": "正能量,教育"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189031,
+        "num": 189031,
+        "word": "虾 警惕突然对你好的人",
+        "onboard_time": 1734910635,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177733,
+        "num": 177733,
+        "word": "上海地铁致歉",
+        "onboard_time": 1734875661,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167922,
+        "num": 167922,
+        "word": "张真源客串九重紫",
+        "onboard_time": 1734910696,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160728,
+        "num": 160728,
+        "word": "周芯竹说和周密曾有过快乐的时光",
+        "onboard_time": 1734877279,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156238,
+        "num": 156238,
+        "word": "2024仅剩个位天数",
+        "onboard_time": 1734914718,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144341,
+        "num": 144341,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136173,
+        "num": 136173,
+        "word": "停个车数据就泄露了",
+        "onboard_time": 1734879440,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131461,
+        "num": 131461,
+        "word": "宋莹买这么多金项链为什么一条没戴",
+        "onboard_time": 1734876560,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128146,
+        "num": 128146,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125685,
+        "num": 125685,
+        "word": "所谓保健床垫上躺满老年人",
+        "onboard_time": 1734911475,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125181,
+        "num": 125181,
+        "word": "从宋墨拔刀到定国公持戒尺的转场",
+        "onboard_time": 1734918016,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117573,
+        "num": 117573,
+        "word": "冬至又下线一个闺蜜",
+        "onboard_time": 1734915078,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115032,
+        "num": 115032,
+        "word": "白月梵星官博回应",
+        "onboard_time": 1734915497,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113459,
+        "num": 113459,
+        "word": "老人花2万买所谓保健床垫后再不愿去医院",
+        "onboard_time": 1734909315,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112070,
+        "num": 112070,
+        "word": "美国女教师强奸12岁男童怀孕被判刑",
+        "onboard_time": 1734846379,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110155,
+        "num": 110155,
+        "word": "冬季最佳作息时间表",
+        "onboard_time": 1734910696,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109851,
+        "num": 109851,
+        "word": "王心凌演唱会吉他手是陈楚生",
+        "onboard_time": 1734911115,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107587,
+        "num": 107587,
+        "word": "熊孩子买号玩游戏充值1万无法退费",
+        "onboard_time": 1734885856,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98851,
+        "num": 98851,
+        "word": "2024年你的目标都实现了吗",
+        "onboard_time": 1734917897,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98260,
+        "num": 98260,
+        "word": "徐艺洋老公 发疯文学",
+        "onboard_time": 1734871638,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96028,
+        "num": 96028,
+        "word": "张元英cha了spicyhoney",
+        "onboard_time": 1734910576,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94715,
+        "num": 94715,
+        "word": "长沙真的下雪了",
+        "onboard_time": 1734906793,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90178,
+        "num": 90178,
+        "word": "九重紫第30集封神",
+        "onboard_time": 1734878479,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88678,
+        "num": 88678,
+        "word": "姆巴佩世界波",
+        "onboard_time": 1734911475,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88042,
+        "num": 88042,
+        "word": "9岁女孩胃里取出直径4厘米头发团",
+        "onboard_time": 1734865939,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87524,
+        "num": 87524,
+        "word": "近千亿市值龙头董事长被立案调查",
+        "onboard_time": 1734915857,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86237,
+        "num": 86237,
+        "word": "任嘉伦回应离开欢瑞",
+        "onboard_time": 1734881959,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

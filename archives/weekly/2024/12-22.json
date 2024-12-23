@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734918263443,
+  "endTime": 1734919272197,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -491,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 596939,
+      "num": 596939,
+      "word": "李昀锐大拇指",
+      "onboard_time": 1734910154,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586981,
       "num": 415660,
       "word": "孟子义李昀锐 有本事三搭",
@@ -537,14 +545,6 @@
       "onboard_time": 1734857718,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 551649,
-      "num": 551649,
-      "word": "李昀锐大拇指",
-      "onboard_time": 1734910154,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 531453,
@@ -731,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428810,
+      "num": 428810,
+      "word": "黑神话悟空被山寨了",
+      "onboard_time": 1734915798,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427008,
       "num": 427008,
       "word": "396经济类联考",
@@ -747,14 +755,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 421028,
-      "num": 421028,
-      "word": "黑神话悟空被山寨了",
-      "onboard_time": 1734915798,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 418766,
       "num": 418766,
       "word": "全红婵夺金当地长出一个奥运村",
@@ -768,6 +768,14 @@
       "word": "上海地铁",
       "onboard_time": 1734855438,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413512,
+      "num": 413512,
+      "word": "官方回应32岁飞行员失联事件",
+      "onboard_time": 1734915738,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 330077,
+      "num": 330077,
+      "word": "男子跑步跑上高速",
+      "onboard_time": 1734916997,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322877,
       "num": 322877,
       "word": "晋江",
@@ -1227,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261203,
+      "num": 232394,
+      "word": "李行亮写歌控诉麦琳",
+      "onboard_time": 1734910455,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258839,
       "num": 258839,
       "word": "还有不到10天就是2025年",
@@ -1353,14 +1377,6 @@
       "onboard_time": 1734876560,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 239193,
-      "num": 181690,
-      "word": "李行亮写歌控诉麦琳",
-      "onboard_time": 1734910455,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 237554,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1734846798,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208763,
-      "num": 181225,
-      "word": "官方回应32岁飞行员失联事件",
-      "onboard_time": 1734915738,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208164,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1734869179,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190035,
+      "num": 190035,
+      "word": "游戏代练公司盯上未成年人",
+      "onboard_time": 1734892272,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189077,
@@ -2235,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154624,
+      "num": 233113,
+      "word": "宋旻浩退伍",
+      "onboard_time": 1734918797,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154354,
       "num": 154354,
       "word": "马嘉祺我是一个多余的人",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1734852497,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151909,
+      "num": 413670,
+      "word": "特朗普否认会被马斯克篡权",
+      "onboard_time": 1734917117,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151683,
@@ -2347,6 +2379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 149016,
+      "num": 413887,
+      "word": "一支短片记住2024的滚烫瞬间",
+      "onboard_time": 1734918677,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148611,
       "num": 148611,
       "word": "李宜雪被诊断为强迫性障碍人格障碍",
@@ -2395,28 +2435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144341,
+      "num": 144341,
+      "word": "上海147元两荤三素的快餐",
+      "onboard_time": 1734918077,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
       "onboard_time": 1734879623,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143202,
-      "num": 231686,
-      "word": "男子跑步跑上高速",
-      "onboard_time": 1734916997,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142321,
-      "num": 142321,
-      "word": "特朗普否认会被马斯克篡权",
-      "onboard_time": 1734917117,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141650,
@@ -2497,14 +2529,6 @@
       "onboard_time": 1734854718,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134104,
-      "num": 134104,
-      "word": "游戏代练公司盯上未成年人",
-      "onboard_time": 1734892272,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133738,
@@ -2635,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128146,
+      "num": 128146,
+      "word": "唐尚珺35岁读大一",
+      "onboard_time": 1734918857,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127743,
       "num": 127743,
       "word": "王心凌演唱会吉他手是陈楚生",
@@ -2667,11 +2699,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125685,
+      "num": 125685,
+      "word": "所谓保健床垫上躺满老年人",
+      "onboard_time": 1734911475,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125683,
       "num": 125683,
       "word": "苗安素真把自己当公主了",
       "onboard_time": 1734827716,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125181,
+      "num": 125181,
+      "word": "从宋墨拔刀到定国公持戒尺的转场",
+      "onboard_time": 1734918016,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2745,14 +2793,6 @@
       "onboard_time": 1734858498,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123276,
-      "num": 123276,
-      "word": "所谓保健床垫上躺满老年人",
-      "onboard_time": 1734911475,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122894,
@@ -2899,6 +2939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115032,
+      "num": 115032,
+      "word": "白月梵星官博回应",
+      "onboard_time": 1734915497,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114485,
       "num": 106969,
       "word": "巴萨1比2马竞",
@@ -2987,14 +3035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112180,
-      "num": 112180,
-      "word": "白月梵星官博回应",
-      "onboard_time": 1734915497,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111703,
       "num": 177455,
       "word": "马克龙被灾民骂到当场发飙",
@@ -3059,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107587,
+      "num": 107587,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107485,
       "num": 237830,
       "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
@@ -3113,14 +3161,6 @@
       "onboard_time": 1734836477,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105119,
-      "num": 106600,
-      "word": "熊孩子买号玩游戏充值1万无法退费",
-      "onboard_time": 1734885856,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105055,
@@ -3251,6 +3291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98851,
+      "num": 98851,
+      "word": "2024年你的目标都实现了吗",
+      "onboard_time": 1734917897,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98539,
       "num": 176173,
       "word": "spicyhoneyrap挑战",
@@ -3331,14 +3379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94477,
-      "num": 94477,
-      "word": "从宋墨拔刀到定国公持戒尺的转场",
-      "onboard_time": 1734918016,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -3411,14 +3451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88996,
-      "num": 88996,
-      "word": "上海147元两荤三素的快餐",
-      "onboard_time": 1734918077,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 88549,
       "num": 249476,
       "word": "谷爱凌5小时双冠",
@@ -3443,6 +3475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 87524,
+      "num": 87524,
+      "word": "近千亿市值龙头董事长被立案调查",
+      "onboard_time": 1734915857,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87104,
       "num": 103546,
       "word": "5000只个股最新排雷",
@@ -3465,14 +3505,6 @@
       "onboard_time": 1734859037,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 86343,
-      "num": 86343,
-      "word": "近千亿市值龙头董事长被立案调查",
-      "onboard_time": 1734915857,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 86145,
