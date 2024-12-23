@@ -1,0 +1,410 @@
+{
+  "runTime": 1734936314597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1348127,
+        "num": 1348127,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625286,
+        "num": 625286,
+        "word": "殡葬专业本科比其他专业高二三十分",
+        "onboard_time": 1734934099,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 543572,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 871310,
+        "num": 527805,
+        "word": "陆柯燃解约了",
+        "onboard_time": 1734934398,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632633,
+        "num": 523146,
+        "word": "男子要求出轨对象偿还出轨期间支出",
+        "onboard_time": 1734930319,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509421,
+        "num": 509421,
+        "word": "飞机锁座越来越多",
+        "onboard_time": 1734934339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 857768,
+        "num": 506451,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 496049,
+        "num": 496049,
+        "word": "高考601分女生为何选择殡葬专业",
+        "onboard_time": 1734925998,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 299565,
+        "num": 299565,
+        "word": "室友考完研回来还在学",
+        "onboard_time": 1734928339,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172418,
+        "num": 298102,
+        "word": "航空公司回应飞机锁座规则",
+        "onboard_time": 1734933498,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1263157,
+        "num": 295988,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724052,
+        "num": 295555,
+        "word": "蒋欣生图更是妈妈级别",
+        "onboard_time": 1734934398,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711412,
+        "num": 292694,
+        "word": "诛仙2.0",
+        "onboard_time": 1734933258,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458825,
+        "num": 290156,
+        "word": "华筝 草原公主",
+        "onboard_time": 1734932238,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 424363,
+        "num": 288594,
+        "word": "麦琳听到李行亮写的歌绷不住了",
+        "onboard_time": 1734935358,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345576,
+        "num": 286319,
+        "word": "祝绪丹会跟迪丽热巴讲心里话",
+        "onboard_time": 1734931338,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285574,
+        "num": 285574,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 270130,
+        "num": 270130,
+        "word": "A股三大突发",
+        "onboard_time": 1734929601,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100421,
+        "num": 264715,
+        "word": "TOV公司拒绝陆柯燃要求",
+        "onboard_time": 1734936077,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70141,
+        "num": 263869,
+        "word": "国足在杭州对阵澳大利亚",
+        "onboard_time": 1734929359,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263610,
+        "num": 263610,
+        "word": "已生6女90后女子第七胎生女",
+        "onboard_time": 1734926119,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230141,
+        "num": 230141,
+        "word": "庄达菲黄蓉妆造",
+        "onboard_time": 1734929479,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225717,
+        "num": 225717,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156326,
+        "num": 202572,
+        "word": "南京一景区回应女子穿和服被指责",
+        "onboard_time": 1734935598,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20883,
+        "num": 201348,
+        "word": "脱口秀演员组团对鸿蒙开麦",
+        "onboard_time": 1734933138,
+        "rank": 24,
+        "category": "综艺,数码"
+      },
+      {
+        "raw_hot": 200548,
+        "num": 200548,
+        "word": "72岁老人演上百部短剧一天收入上千",
+        "onboard_time": 1734934937,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186869,
+        "num": 186869,
+        "word": "徐克 镜头美学",
+        "onboard_time": 1734933558,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162415,
+        "num": 162415,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32681,
+        "num": 152141,
+        "word": "迪丽热巴2张嘻嘻迪",
+        "onboard_time": 1734936138,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31183,
+        "num": 148376,
+        "word": "考研只是你人生里的一小段路",
+        "onboard_time": 1734935778,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146247,
+        "num": 146247,
+        "word": "为被投毒小狗追凶的831天",
+        "onboard_time": 1734924198,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143758,
+        "num": 143758,
+        "word": "女子在南京景区穿和服拍照遭怒怼",
+        "onboard_time": 1734929060,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136093,
+        "num": 136093,
+        "word": "曾庆杰 上桌",
+        "onboard_time": 1734933737,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33349,
+        "num": 133199,
+        "word": "杨紫盼与何惟芳相见",
+        "onboard_time": 1734931518,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132478,
+        "num": 132478,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130796,
+        "num": 130796,
+        "word": "A股",
+        "onboard_time": 1734934217,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40631,
+        "num": 128264,
+        "word": "公司霸凌员工要求其抄写心经",
+        "onboard_time": 1734934278,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "泼水成冰新手被开水烫伤",
+        "onboard_time": 1734935717,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125414,
+        "num": 125414,
+        "word": "纪凌尘回应假装看书",
+        "onboard_time": 1734936138,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122579,
+        "num": 122579,
+        "word": "胡军 丐永一",
+        "onboard_time": 1734928519,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118930,
+        "num": 118930,
+        "word": "九重紫转场而出的少年舅舅",
+        "onboard_time": 1734933857,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113731,
+        "num": 113731,
+        "word": "人大教授建议取消中考",
+        "onboard_time": 1734936077,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63311,
+        "num": 108128,
+        "word": "向佐到哈尔滨吃雪",
+        "onboard_time": 1734936018,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107408,
+        "num": 107408,
+        "word": "刘诗诗VOGUE香港版封面",
+        "onboard_time": 1734928939,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105348,
+        "num": 105348,
+        "word": "王者送典韦新皮肤",
+        "onboard_time": 1734932418,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104821,
+        "num": 104821,
+        "word": "工行建行股价双双创历史新高",
+        "onboard_time": 1734934878,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78018,
+        "num": 100543,
+        "word": "对话因女儿痛经研发新药的教授",
+        "onboard_time": 1734934099,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99377,
+        "num": 99377,
+        "word": "D社再曝宋旻浩服兵役造假",
+        "onboard_time": 1734936259,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95235,
+        "num": 95235,
+        "word": "九重紫",
+        "onboard_time": 1734928639,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85381,
+        "num": 85381,
+        "word": "孙颖莎2024赛季年终总结",
+        "onboard_time": 1734932957,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#澳门特色一国两制实践取得巨大成功#"
+    }
+  }
+}

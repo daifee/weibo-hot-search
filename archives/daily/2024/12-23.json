@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734935545951,
+  "endTime": 1734936314597,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1265760,
-      "num": 1265760,
+      "raw_hot": 1348127,
+      "num": 1348127,
       "word": "偶遇纪凌尘高铁假装看书",
       "onboard_time": 1734931399,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 871310,
+      "num": 527805,
+      "word": "陆柯燃解约了",
+      "onboard_time": 1734934398,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 819250,
       "num": 331201,
       "word": "诛仙2.0",
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711262,
-      "num": 331146,
-      "word": "陆柯燃解约了",
+      "raw_hot": 724052,
+      "num": 327699,
+      "word": "蒋欣生图更是妈妈级别",
       "onboard_time": 1734934398,
-      "rank": 7,
-      "category": "艺人"
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 695363,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 666209,
-      "num": 360428,
+      "num": 523146,
       "word": "男子要求出轨对象偿还出轨期间支出",
       "onboard_time": 1734930319,
       "rank": 28,
@@ -179,6 +187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 625286,
+      "num": 625286,
+      "word": "殡葬专业本科比其他专业高二三十分",
+      "onboard_time": 1734934099,
+      "rank": 15,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 596939,
       "num": 596939,
       "word": "李昀锐大拇指",
@@ -193,14 +209,6 @@
       "onboard_time": 1734929479,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 582804,
-      "num": 327699,
-      "word": "蒋欣生图更是妈妈级别",
-      "onboard_time": 1734934398,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 564750,
@@ -225,6 +233,14 @@
       "onboard_time": 1734932238,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509421,
+      "num": 509421,
+      "word": "飞机锁座越来越多",
+      "onboard_time": 1734934339,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496126,
@@ -305,6 +321,14 @@
       "onboard_time": 1734921436,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 424363,
+      "num": 316306,
+      "word": "麦琳听到李行亮写的歌绷不住了",
+      "onboard_time": 1734935358,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 421844,
@@ -419,14 +443,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 322363,
-      "num": 322363,
-      "word": "殡葬专业本科比其他专业高二三十分",
-      "onboard_time": 1734934099,
-      "rank": 15,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 318889,
       "num": 223610,
       "word": "上海地铁致歉",
@@ -473,14 +489,6 @@
       "onboard_time": 1734877160,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 283228,
-      "num": 283228,
-      "word": "飞机锁座越来越多",
-      "onboard_time": 1734934339,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281463,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 214938,
-      "num": 214938,
+      "num": 298102,
       "word": "航空公司回应飞机锁座规则",
       "onboard_time": 1734933498,
       "rank": 27,
@@ -681,6 +689,14 @@
       "onboard_time": 1734846379,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 200548,
+      "num": 200548,
+      "word": "72岁老人演上百部短剧一天收入上千",
+      "onboard_time": 1734934937,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198979,
@@ -923,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156326,
+      "num": 202572,
+      "word": "南京一景区回应女子穿和服被指责",
+      "onboard_time": 1734935598,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 154624,
       "num": 233113,
       "word": "宋旻浩退伍",
@@ -1043,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136093,
+      "num": 136093,
+      "word": "曾庆杰 上桌",
+      "onboard_time": 1734933737,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130677,
       "num": 105320,
       "word": "檀健次沈翊连瞳孔都在飙戏",
@@ -1059,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128091,
+      "num": 128091,
+      "word": "泼水成冰新手被开水烫伤",
+      "onboard_time": 1734935717,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127743,
       "num": 127743,
       "word": "王心凌演唱会吉他手是陈楚生",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1734882378,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126912,
-      "num": 126912,
-      "word": "72岁老人演上百部短剧一天收入上千",
-      "onboard_time": 1734934937,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126408,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1734933857,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125414,
+      "num": 125414,
+      "word": "纪凌尘回应假装看书",
+      "onboard_time": 1734936138,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 125181,
@@ -1163,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116995,
-      "num": 116995,
-      "word": "曾庆杰 上桌",
-      "onboard_time": 1734933737,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116648,
       "num": 420923,
       "word": "被抱摔女生称曾报警被不予立案",
@@ -1187,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113731,
+      "num": 113731,
+      "word": "人大教授建议取消中考",
+      "onboard_time": 1734936077,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112404,
       "num": 112404,
       "word": "23岁的考场和18岁是不同的",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1734934878,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109343,
-      "num": 316306,
-      "word": "麦琳听到李行亮写的歌绷不住了",
-      "onboard_time": 1734935358,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 108995,
@@ -1281,6 +1313,22 @@
       "onboard_time": 1734928218,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100421,
+      "num": 264715,
+      "word": "TOV公司拒绝陆柯燃要求",
+      "onboard_time": 1734936077,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99377,
+      "num": 99377,
+      "word": "D社再曝宋旻浩服兵役造假",
+      "onboard_time": 1734936259,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 98851,
@@ -1379,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78018,
+      "num": 329897,
+      "word": "对话因女儿痛经研发新药的教授",
+      "onboard_time": 1734934099,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77920,
       "num": 77920,
       "word": "孙千演技",
@@ -1459,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 63311,
+      "num": 108128,
+      "word": "向佐到哈尔滨吃雪",
+      "onboard_time": 1734936018,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63294,
       "num": 63294,
       "word": "黑悟空雪雕修复后金箍棒成金色",
@@ -1497,14 +1561,6 @@
       "onboard_time": 1734910036,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54440,
-      "num": 329897,
-      "word": "对话因女儿痛经研发新药的教授",
-      "onboard_time": 1734934099,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53586,
@@ -1643,6 +1699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40631,
+      "num": 322460,
+      "word": "公司霸凌员工要求其抄写心经",
+      "onboard_time": 1734934278,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39853,
       "num": 39853,
       "word": "一人一句2025心愿",
@@ -1707,12 +1771,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33595,
-      "num": 322460,
-      "word": "公司霸凌员工要求其抄写心经",
-      "onboard_time": 1734934278,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 33349,
+      "num": 200937,
+      "word": "杨紫盼与何惟芳相见",
+      "onboard_time": 1734931518,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32681,
+      "num": 152141,
+      "word": "迪丽热巴2张嘻嘻迪",
+      "onboard_time": 1734936138,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 31725,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1734888794,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31183,
+      "num": 148376,
+      "word": "考研只是你人生里的一小段路",
+      "onboard_time": 1734935778,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 30358,
@@ -1761,14 +1841,6 @@
       "onboard_time": 1734905410,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25039,
-      "num": 200937,
-      "word": "杨紫盼与何惟芳相见",
-      "onboard_time": 1734931518,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 24882,
