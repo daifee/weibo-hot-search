@@ -1,0 +1,410 @@
+{
+  "runTime": 1734924522546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1125627,
+        "num": 1180100,
+        "word": "肖战版郭靖造型",
+        "onboard_time": 1734921436,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 739199,
+        "num": 739199,
+        "word": "不少孩子当代练挣钱玩游戏",
+        "onboard_time": 1734920477,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29588,
+        "num": 689476,
+        "word": "2024余额已不足10天",
+        "onboard_time": 1734873620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954072,
+        "num": 686153,
+        "word": "古偶黑马",
+        "onboard_time": 1734920176,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119172,
+        "num": 683381,
+        "word": "韩国一军方驻地发生爆炸",
+        "onboard_time": 1734922817,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 681847,
+        "num": 681847,
+        "word": "央视曝光未成年人绕开防沉迷只需4元",
+        "onboard_time": 1734876979,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 695363,
+        "num": 679425,
+        "word": "大奉打更人OST阵容",
+        "onboard_time": 1734921978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640775,
+        "num": 640775,
+        "word": "被同学抱摔艺考女生发声",
+        "onboard_time": 1734912077,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108551,
+        "num": 619436,
+        "word": "韩国一部队爆炸事件3名平民受伤",
+        "onboard_time": 1734923418,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 358748,
+        "num": 604750,
+        "word": "一段视频看侠之大者的含义",
+        "onboard_time": 1734921256,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601250,
+        "num": 601250,
+        "word": "上海地铁又现致歉信专用章",
+        "onboard_time": 1734910998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581811,
+        "num": 581811,
+        "word": "年度报告",
+        "onboard_time": 1734910036,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 487574,
+        "num": 487574,
+        "word": "从武侠看中国人的处世哲学",
+        "onboard_time": 1734921256,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50396,
+        "num": 473236,
+        "word": "王嘉尔官宣双品牌全球合作伙伴",
+        "onboard_time": 1734919757,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127452,
+        "num": 468823,
+        "word": "央视揭AI假冒名人带货乱象",
+        "onboard_time": 1734923237,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 468190,
+        "num": 468190,
+        "word": "柳岩谈44岁女演员的尴尬",
+        "onboard_time": 1734921436,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 430826,
+        "num": 430826,
+        "word": "日本火山喷发灰柱高达3400米",
+        "onboard_time": 1734922337,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 299645,
+        "num": 299645,
+        "word": "唐尚珺35岁读大一",
+        "onboard_time": 1734918857,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108995,
+        "num": 298351,
+        "word": "张朝阳对任嘉伦赞不绝口",
+        "onboard_time": 1734923658,
+        "rank": 18,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 49885,
+        "num": 284549,
+        "word": "3少年点燃商场画展险酿大祸",
+        "onboard_time": 1734923958,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428071,
+        "num": 283829,
+        "word": "美国一男子在地铁把一女子点燃",
+        "onboard_time": 1734921436,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104287,
+        "num": 276134,
+        "word": "何惟芳待花开",
+        "onboard_time": 1734924077,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313723,
+        "num": 266617,
+        "word": "玄彬说孙艺珍和儿子是第一顺位",
+        "onboard_time": 1734919817,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261077,
+        "num": 261077,
+        "word": "国色芳华预热",
+        "onboard_time": 1734919456,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260111,
+        "num": 260111,
+        "word": "A股",
+        "onboard_time": 1734919637,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250673,
+        "num": 250673,
+        "word": "上海147元两荤三素的快餐",
+        "onboard_time": 1734918077,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239855,
+        "num": 239855,
+        "word": "王力宏官宣个人巡回演唱会",
+        "onboard_time": 1734913758,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230252,
+        "num": 230252,
+        "word": "李昀锐大拇指",
+        "onboard_time": 1734910154,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228492,
+        "num": 228492,
+        "word": "QQ音乐报告 NCT专辑",
+        "onboard_time": 1734923898,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50405,
+        "num": 224127,
+        "word": "姆巴佩世界波",
+        "onboard_time": 1734911475,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223230,
+        "num": 223230,
+        "word": "沈梦辰出演国色芳华",
+        "onboard_time": 1734923178,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207050,
+        "num": 207050,
+        "word": "国安部提示警惕评论区里的谍影重重",
+        "onboard_time": 1734922158,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193854,
+        "num": 193854,
+        "word": "肖战射雕降龙十八掌镜头",
+        "onboard_time": 1734923958,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182480,
+        "num": 182480,
+        "word": "官方回应32岁飞行员失联事件",
+        "onboard_time": 1734915738,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173083,
+        "num": 173083,
+        "word": "胡塞武装称袭击美军杜鲁门号航母",
+        "onboard_time": 1734921317,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154213,
+        "num": 154213,
+        "word": "刘阳老师加入东奥",
+        "onboard_time": 1734921499,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152084,
+        "num": 152084,
+        "word": "人生就要充满passion",
+        "onboard_time": 1734914239,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 148976,
+        "num": 148976,
+        "word": "黑神话悟空被山寨了",
+        "onboard_time": 1734915798,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 147555,
+        "word": "胡军演洪七公",
+        "onboard_time": 1734924437,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145767,
+        "num": 145767,
+        "word": "女子在婚恋网被2男子骗400万",
+        "onboard_time": 1734923237,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142576,
+        "num": 142576,
+        "word": "张真源客串九重紫",
+        "onboard_time": 1734910696,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139786,
+        "num": 139786,
+        "word": "射雕官博隐藏两条微博",
+        "onboard_time": 1734923117,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141765,
+        "num": 139532,
+        "word": "被同学抱摔艺考女生面试皆被拒收",
+        "onboard_time": 1734920837,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141896,
+        "num": 138732,
+        "word": "射雕长预告",
+        "onboard_time": 1734921917,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137105,
+        "num": 137105,
+        "word": "虾 警惕突然对你好的人",
+        "onboard_time": 1734910635,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142513,
+        "num": 136524,
+        "word": "梁家辉演欧阳锋",
+        "onboard_time": 1734922759,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135782,
+        "num": 135782,
+        "word": "游戏代练公司盯上未成年人",
+        "onboard_time": 1734892272,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127742,
+        "num": 127742,
+        "word": "林高远获胜振臂高呼",
+        "onboard_time": 1734924377,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121899,
+        "num": 121899,
+        "word": "慕胥辞贺思慕段胥雪中舞",
+        "onboard_time": 1734922098,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121798,
+        "num": 121798,
+        "word": "李行亮写歌控诉麦琳",
+        "onboard_time": 1734910455,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平澳门之行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734923045647,
+  "endTime": 1734924522546,
   "band_list": [
     {
       "raw_hot": 1199523,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 954072,
+      "num": 1136724,
+      "word": "古偶黑马",
+      "onboard_time": 1734920176,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 952813,
       "num": 952813,
       "word": "上海地铁又现致歉信专用章",
@@ -43,11 +51,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 913415,
-      "num": 1136724,
-      "word": "古偶黑马",
-      "onboard_time": 1734920176,
-      "rank": 0,
+      "raw_hot": 739199,
+      "num": 739199,
+      "word": "不少孩子当代练挣钱玩游戏",
+      "onboard_time": 1734920477,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 695363,
+      "num": 679425,
+      "word": "大奉打更人OST阵容",
+      "onboard_time": 1734921978,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -91,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487574,
+      "num": 487574,
+      "word": "从武侠看中国人的处世哲学",
+      "onboard_time": 1734921256,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468437,
       "num": 249059,
       "word": "华妃娘娘凤仪万千",
@@ -107,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468190,
+      "num": 468190,
+      "word": "柳岩谈44岁女演员的尴尬",
+      "onboard_time": 1734921436,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 458708,
       "num": 210865,
       "word": "任嘉伦回应离开欢瑞",
       "onboard_time": 1734881959,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 451980,
-      "num": 451980,
-      "word": "从武侠看中国人的处世哲学",
-      "onboard_time": 1734921256,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 445256,
@@ -139,12 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 429395,
-      "num": 429395,
-      "word": "大奉打更人OST阵容",
-      "onboard_time": 1734921978,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 430826,
+      "num": 430826,
+      "word": "日本火山喷发灰柱高达3400米",
+      "onboard_time": 1734922337,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 428810,
@@ -155,6 +179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 428071,
+      "num": 283829,
+      "word": "美国一男子在地铁把一女子点燃",
+      "onboard_time": 1734921436,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 421844,
       "num": 421844,
       "word": "人生就要充满passion",
@@ -163,28 +195,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 417672,
-      "num": 417672,
-      "word": "柳岩谈44岁女演员的尴尬",
-      "onboard_time": 1734921436,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 413512,
       "num": 413512,
       "word": "官方回应32岁飞行员失联事件",
       "onboard_time": 1734915738,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 401091,
-      "num": 438755,
-      "word": "不少孩子当代练挣钱玩游戏",
-      "onboard_time": 1734920477,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 399264,
@@ -196,19 +212,11 @@
     },
     {
       "raw_hot": 380705,
-      "num": 380705,
+      "num": 604750,
       "word": "一段视频看侠之大者的含义",
       "onboard_time": 1734921256,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 364955,
-      "num": 232085,
-      "word": "美国一男子在地铁把一女子点燃",
-      "onboard_time": 1734921436,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 356218,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 325708,
-      "num": 229972,
+      "num": 250673,
       "word": "上海147元两荤三素的快餐",
       "onboard_time": 1734918077,
       "rank": 46,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 303256,
-      "num": 224687,
+      "num": 261077,
       "word": "国色芳华预热",
       "onboard_time": 1734919456,
       "rank": 25,
@@ -331,12 +339,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 228492,
+      "num": 228492,
+      "word": "QQ音乐报告 NCT专辑",
+      "onboard_time": 1734923898,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 224466,
       "num": 224466,
       "word": "刘阳老师加入东奥",
       "onboard_time": 1734921499,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223230,
+      "num": 223230,
+      "word": "沈梦辰出演国色芳华",
+      "onboard_time": 1734923178,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 223108,
@@ -377,6 +401,14 @@
       "onboard_time": 1734922098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207050,
+      "num": 207050,
+      "word": "国安部提示警惕评论区里的谍影重重",
+      "onboard_time": 1734922158,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204457,
@@ -424,6 +456,14 @@
       "word": "梁家辉演欧阳锋",
       "onboard_time": 1734922759,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193854,
+      "num": 193854,
+      "word": "肖战射雕降龙十八掌镜头",
+      "onboard_time": 1734923958,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -523,14 +563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155329,
-      "num": 155329,
-      "word": "日本火山喷发灰柱高达3400米",
-      "onboard_time": 1734922337,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 154624,
       "num": 233113,
       "word": "宋旻浩退伍",
@@ -555,19 +587,27 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151223,
-      "num": 151223,
-      "word": "国安部提示警惕评论区里的谍影重重",
-      "onboard_time": 1734922158,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
       "onboard_time": 1734918677,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147555,
+      "num": 147555,
+      "word": "胡军演洪七公",
+      "onboard_time": 1734924437,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145767,
+      "num": 145767,
+      "word": "女子在婚恋网被2男子骗400万",
+      "onboard_time": 1734923237,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -585,6 +625,14 @@
       "onboard_time": 1734869298,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139786,
+      "num": 139786,
+      "word": "射雕官博隐藏两条微博",
+      "onboard_time": 1734923117,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 139630,
@@ -619,12 +667,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127742,
+      "num": 127742,
+      "word": "林高远获胜振臂高呼",
+      "onboard_time": 1734924377,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127695,
       "num": 169664,
       "word": "普京回应喀山遭无人机袭击事件",
       "onboard_time": 1734882378,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127452,
+      "num": 468823,
+      "word": "央视揭AI假冒名人带货乱象",
+      "onboard_time": 1734923237,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125685,
@@ -667,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 119172,
+      "num": 751203,
+      "word": "韩国一军方驻地发生爆炸",
+      "onboard_time": 1734922817,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118031,
       "num": 118031,
       "word": "冬至又下线一个闺蜜",
@@ -689,6 +761,22 @@
       "onboard_time": 1734868939,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108995,
+      "num": 298351,
+      "word": "张朝阳对任嘉伦赞不绝口",
+      "onboard_time": 1734923658,
+      "rank": 18,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 108551,
+      "num": 619436,
+      "word": "韩国一部队爆炸事件3名平民受伤",
+      "onboard_time": 1734923418,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108388,
@@ -715,8 +803,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104287,
+      "num": 276134,
+      "word": "何惟芳待花开",
+      "onboard_time": 1734924077,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103223,
-      "num": 103223,
+      "num": 224127,
       "word": "姆巴佩世界波",
       "onboard_time": 1734911475,
       "rank": 40,
@@ -923,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 50396,
+      "num": 473236,
+      "word": "王嘉尔官宣双品牌全球合作伙伴",
+      "onboard_time": 1734919757,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50203,
       "num": 50203,
       "word": "李斌回应萤火虫外观设计",
@@ -937,6 +1041,14 @@
       "onboard_time": 1734873140,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49885,
+      "num": 284549,
+      "word": "3少年点燃商场画展险酿大祸",
+      "onboard_time": 1734923958,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48607,
@@ -1011,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40347,
-      "num": 387677,
-      "word": "王嘉尔官宣双品牌全球合作伙伴",
-      "onboard_time": 1734919757,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 39853,
       "num": 39853,
       "word": "一人一句2025心愿",
@@ -1041,14 +1145,6 @@
       "onboard_time": 1734900911,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 34941,
-      "num": 751203,
-      "word": "韩国一军方驻地发生爆炸",
-      "onboard_time": 1734922817,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34043,
