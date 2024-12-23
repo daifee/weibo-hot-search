@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734943362687,
+  "endTime": 1734945858739,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -49,6 +49,14 @@
       "onboard_time": 1734912077,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1136341,
+      "num": 1181814,
+      "word": "向佐在红毯上生气了",
+      "onboard_time": 1734942438,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1114347,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 860972,
+      "num": 860972,
+      "word": "微信可以线上送实体礼物了",
+      "onboard_time": 1734938356,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 838879,
       "num": 838879,
       "word": "杀害河南女法官男子死刑",
@@ -163,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 755173,
-      "num": 755173,
-      "word": "微信可以线上送实体礼物了",
-      "onboard_time": 1734938356,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 706594,
       "num": 706594,
       "word": "殡葬专业本科比其他专业高二三十分",
@@ -193,6 +201,14 @@
       "onboard_time": 1734910036,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 679405,
+      "num": 679405,
+      "word": "女子被外籍男子搂抱骚扰后报警",
+      "onboard_time": 1734941298,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 674598,
@@ -257,6 +273,14 @@
       "onboard_time": 1734929479,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 594614,
+      "num": 594614,
+      "word": "特朗普大笑称马斯克当不了总统",
+      "onboard_time": 1734943878,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 564750,
@@ -459,20 +483,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 380155,
+      "num": 321329,
+      "word": "美羊羊的房间居然放喜羊羊照片",
+      "onboard_time": 1734940217,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 368461,
       "num": 368461,
       "word": "遭恶犬袭击4岁男童或需全身换血",
       "onboard_time": 1734937758,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363121,
-      "num": 321329,
-      "word": "美羊羊的房间居然放喜羊羊照片",
-      "onboard_time": 1734940217,
-      "rank": 20,
-      "category": "动漫"
     },
     {
       "raw_hot": 356218,
@@ -563,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 307342,
+      "num": 307342,
+      "word": "孟子义保持身材秘诀 食物中毒",
+      "onboard_time": 1734941418,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303256,
       "num": 261077,
       "word": "国色芳华预热",
@@ -587,20 +619,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 296686,
-      "num": 296686,
-      "word": "孟子义保持身材秘诀 食物中毒",
-      "onboard_time": 1734941418,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283064,
-      "num": 296573,
-      "word": "向佐在红毯上生气了",
-      "onboard_time": 1734942438,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 296907,
+      "num": 307392,
+      "word": "九重紫男演员每天就发这种东西",
+      "onboard_time": 1734943938,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 281463,
@@ -763,6 +787,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 228060,
+      "num": 228060,
+      "word": "台风帕布生成",
+      "onboard_time": 1734939857,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225568,
+      "num": 225568,
+      "word": "易烊千玺工作室换背景头像",
+      "onboard_time": 1734944898,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224929,
       "num": 224929,
       "word": "徐克选角",
@@ -907,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196645,
+      "num": 187487,
+      "word": "腾讯调整春节假期安排",
+      "onboard_time": 1734944658,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 195744,
       "num": 195744,
       "word": "恋与深空",
@@ -1009,6 +1057,30 @@
       "onboard_time": 1734941418,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188197,
+      "num": 188197,
+      "word": "张馨予晒妈妈与张颂文合照",
+      "onboard_time": 1734945079,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185579,
+      "num": 447921,
+      "word": "马航MH370航班重启搜寻细节披露",
+      "onboard_time": 1734942138,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185009,
+      "num": 185009,
+      "word": "读研之后才领悟的真相",
+      "onboard_time": 1734944238,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 183654,
@@ -1155,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161050,
-      "num": 281631,
-      "word": "女子被外籍男子搂抱骚扰后报警",
-      "onboard_time": 1734941298,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160437,
       "num": 468823,
       "word": "央视揭AI假冒名人带货乱象",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1734918797,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154503,
+      "num": 307925,
+      "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
+      "onboard_time": 1734944597,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 153618,
@@ -1232,14 +1304,6 @@
       "word": "女子在婚恋网被2男子骗400万",
       "onboard_time": 1734923237,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151187,
-      "num": 151187,
-      "word": "台风帕布生成",
-      "onboard_time": 1734939857,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1291,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145344,
+      "num": 145344,
+      "word": "逐玉吻戏",
+      "onboard_time": 1734944479,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144864,
       "num": 144864,
       "word": "车厘子自由是不是真的来了",
@@ -1339,6 +1411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137311,
+      "num": 137311,
+      "word": "刘宇宁聚餐打包剩饭",
+      "onboard_time": 1734945558,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136641,
       "num": 136641,
       "word": "虞书欣SpicyHoney舞蹈版MV",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1734884416,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130142,
+      "num": 307985,
+      "word": "李昀锐聊吻戏 情到浓时",
+      "onboard_time": 1734945679,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 128154,
@@ -1475,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124951,
+      "num": 124951,
+      "word": "唐尚珺78岁母亲希望他挣钱结婚",
+      "onboard_time": 1734945618,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123897,
       "num": 123897,
       "word": "虎跳峡",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1734868939,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111663,
+      "num": 310891,
+      "word": "女生学殡葬后亲戚递红包手都发抖",
+      "onboard_time": 1734944118,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111049,
@@ -1675,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96379,
+      "num": 294490,
+      "word": "2025WTT大满贯日程全部确定",
+      "onboard_time": 1734945197,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95338,
       "num": 95338,
       "word": "孙颖莎2024赛季年终总结",
@@ -1689,6 +1801,14 @@
       "onboard_time": 1734864199,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 90836,
+      "num": 307743,
+      "word": "党志军当庭上诉",
+      "onboard_time": 1734944958,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90122,
@@ -1777,14 +1897,6 @@
       "onboard_time": 1734864919,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79404,
-      "num": 447921,
-      "word": "马航MH370航班重启搜寻细节披露",
-      "onboard_time": 1734942138,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78018,
@@ -1923,6 +2035,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 60878,
+      "num": 726638,
+      "word": "2024惊艳世界的大国重器",
+      "onboard_time": 1734943637,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60797,
       "num": 208397,
       "word": "被抱摔艺考女生回应疑被恶意竞争",
@@ -1993,6 +2113,14 @@
       "onboard_time": 1734942378,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52409,
+      "num": 308177,
+      "word": "员工为个人养老金开户任务自掏腰包",
+      "onboard_time": 1734945139,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52252,
@@ -2073,6 +2201,14 @@
       "onboard_time": 1734897731,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45641,
+      "num": 307686,
+      "word": "2女子网游恋爱被已婚男骗近百万",
+      "onboard_time": 1734944838,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45579,
@@ -2243,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29779,
+      "num": 185062,
+      "word": "误杀3特辑将真实贯彻到底",
+      "onboard_time": 1734944358,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 28858,
       "num": 79068,
       "word": "朱婷被全队抛起庆祝",
@@ -2321,6 +2465,14 @@
       "onboard_time": 1734933138,
       "rank": 22,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 21722,
+      "num": 307580,
+      "word": "原神火神动画",
+      "onboard_time": 1734944358,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 19861,
@@ -2457,6 +2609,9 @@
     },
     {
       "word": "#澳门特色一国两制实践取得巨大成功#"
+    },
+    {
+      "word": "#解码中华文化基因#"
     }
   ]
 }
