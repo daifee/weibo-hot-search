@@ -1,0 +1,410 @@
+{
+  "runTime": 1734946656950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1194770,
+        "num": 1194770,
+        "word": "向佐在红毯上生气了",
+        "onboard_time": 1734942438,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 899383,
+        "num": 899383,
+        "word": "特朗普大笑称马斯克当不了总统",
+        "onboard_time": 1734943878,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63226,
+        "num": 792523,
+        "word": "2024惊艳世界的大国重器",
+        "onboard_time": 1734943637,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 756886,
+        "num": 756886,
+        "word": "微信可以线上送实体礼物了",
+        "onboard_time": 1734938356,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 626118,
+        "num": 626118,
+        "word": "女子被外籍男子搂抱骚扰后报警",
+        "onboard_time": 1734941298,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486067,
+        "num": 486067,
+        "word": "蒋欣生图更是妈妈级别",
+        "onboard_time": 1734934398,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 461200,
+        "num": 461200,
+        "word": "偶遇纪凌尘高铁假装看书",
+        "onboard_time": 1734931399,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454745,
+        "num": 454745,
+        "word": "杀害河南女法官男子死刑",
+        "onboard_time": 1734939137,
+        "rank": 7,
+        "category": "民生新闻,辟谣/通报"
+      },
+      {
+        "raw_hot": 343304,
+        "num": 343304,
+        "word": "飞机锁座越来越多",
+        "onboard_time": 1734934339,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291058,
+        "num": 291058,
+        "word": "法官王佳佳遭报复杀害案一审宣判",
+        "onboard_time": 1734941058,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506415,
+        "num": 290901,
+        "word": "女子遭老板性侵后被公司开除",
+        "onboard_time": 1734926957,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492713,
+        "num": 287766,
+        "word": "宋亚轩 LV",
+        "onboard_time": 1734941357,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 297812,
+        "num": 287325,
+        "word": "蒋欣 冰美式",
+        "onboard_time": 1734927859,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283826,
+        "num": 283826,
+        "word": "张馨予晒妈妈与张颂文合照",
+        "onboard_time": 1734945079,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71572,
+        "num": 276156,
+        "word": "员工为个人养老金开户任务自掏腰包",
+        "onboard_time": 1734945139,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 274356,
+        "num": 274356,
+        "word": "李昀锐聊吻戏 情到浓时",
+        "onboard_time": 1734945679,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270495,
+        "num": 270495,
+        "word": "九重紫男演员每天就发这种东西",
+        "onboard_time": 1734943938,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257673,
+        "num": 257673,
+        "word": "福宝",
+        "onboard_time": 1734938119,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79490,
+        "num": 256867,
+        "word": "党志军当庭上诉",
+        "onboard_time": 1734944958,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30890,
+        "num": 253597,
+        "word": "原神火神动画",
+        "onboard_time": 1734944358,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225159,
+        "num": 252561,
+        "word": "唐尚珺78岁母亲希望他挣钱结婚",
+        "onboard_time": 1734945618,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21035,
+        "num": 250270,
+        "word": "误杀3特辑将真实贯彻到底",
+        "onboard_time": 1734944358,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309452,
+        "num": 248019,
+        "word": "美羊羊的房间居然放喜羊羊照片",
+        "onboard_time": 1734940217,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 55602,
+        "num": 246369,
+        "word": "2女子网游恋爱被已婚男骗近百万",
+        "onboard_time": 1734944838,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265162,
+        "num": 242681,
+        "word": "孟子义保持身材秘诀 食物中毒",
+        "onboard_time": 1734941418,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242082,
+        "num": 242082,
+        "word": "遭恶犬袭击4岁男童或需全身换血",
+        "onboard_time": 1734937758,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229792,
+        "num": 229792,
+        "word": "南京一景区回应女子穿和服被指责",
+        "onboard_time": 1734935598,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 214570,
+        "num": 214570,
+        "word": "易烊千玺工作室换背景头像",
+        "onboard_time": 1734944898,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35901,
+        "num": 200623,
+        "word": "光遇",
+        "onboard_time": 1734944958,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45024,
+        "num": 190181,
+        "word": "檀健次新杂志3分钟10万本",
+        "onboard_time": 1734946218,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189290,
+        "num": 189290,
+        "word": "年度歌手",
+        "onboard_time": 1734946339,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187686,
+        "num": 187686,
+        "word": "男子举报中学副校长出轨自己",
+        "onboard_time": 1734946278,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171077,
+        "num": 171077,
+        "word": "台风帕布生成",
+        "onboard_time": 1734939857,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37024,
+        "num": 170791,
+        "word": "2024中国足球发展研讨会白皮书",
+        "onboard_time": 1734946518,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170719,
+        "num": 170719,
+        "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
+        "onboard_time": 1734944597,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168545,
+        "num": 168545,
+        "word": "腾讯调整春节假期安排",
+        "onboard_time": 1734944658,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162271,
+        "num": 162271,
+        "word": "马航MH370航班重启搜寻细节披露",
+        "onboard_time": 1734942138,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155247,
+        "num": 155247,
+        "word": "纪凌尘回应假装看书",
+        "onboard_time": 1734936138,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146472,
+        "num": 146472,
+        "word": "成毅谢淮安更衣路透",
+        "onboard_time": 1734946518,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "马航一航班起飞后紧急折返",
+        "onboard_time": 1734939378,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 143772,
+        "word": "苏州大量外企撤资消息为谣言",
+        "onboard_time": 1734946038,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142607,
+        "num": 142607,
+        "word": "殡葬专业本科比其他专业高二三十分",
+        "onboard_time": 1734934099,
+        "rank": 41,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 35930,
+        "num": 141119,
+        "word": "于适AnotherMan生日大片",
+        "onboard_time": 1734944717,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140883,
+        "num": 140883,
+        "word": "刘宇宁聚餐打包剩饭",
+        "onboard_time": 1734945558,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133633,
+        "num": 133633,
+        "word": "国色芳华两大赞助",
+        "onboard_time": 1734939437,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133394,
+        "num": 133394,
+        "word": "华筝 草原公主",
+        "onboard_time": 1734932238,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131479,
+        "num": 131479,
+        "word": "读研之后才领悟的真相",
+        "onboard_time": 1734944238,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129171,
+        "num": 129171,
+        "word": "72岁老人演上百部短剧一天收入上千",
+        "onboard_time": 1734934937,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124584,
+        "num": 124584,
+        "word": "天玑8400",
+        "onboard_time": 1734942199,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83170,
+        "num": 124526,
+        "word": "2025WTT大满贯日程全部确定",
+        "onboard_time": 1734945197,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

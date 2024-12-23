@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734945858739,
+  "endTime": 1734946656950,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -43,20 +43,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1194770,
+      "num": 1194770,
+      "word": "向佐在红毯上生气了",
+      "onboard_time": 1734942438,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1183590,
       "num": 1189374,
       "word": "被同学抱摔艺考女生发声",
       "onboard_time": 1734912077,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1136341,
-      "num": 1181814,
-      "word": "向佐在红毯上生气了",
-      "onboard_time": 1734942438,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1114347,
@@ -113,6 +113,14 @@
       "onboard_time": 1734934339,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 899383,
+      "num": 899383,
+      "word": "特朗普大笑称马斯克当不了总统",
+      "onboard_time": 1734943878,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 894302,
@@ -273,14 +281,6 @@
       "onboard_time": 1734929479,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 594614,
-      "num": 594614,
-      "word": "特朗普大笑称马斯克当不了总统",
-      "onboard_time": 1734943878,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 564750,
@@ -627,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283826,
+      "num": 283826,
+      "word": "张馨予晒妈妈与张颂文合照",
+      "onboard_time": 1734945079,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281463,
       "num": 281463,
       "word": "九重紫",
@@ -657,6 +665,14 @@
       "onboard_time": 1734920837,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274356,
+      "num": 307985,
+      "word": "李昀锐聊吻戏 情到浓时",
+      "onboard_time": 1734945679,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 274013,
@@ -801,6 +817,14 @@
       "onboard_time": 1734944898,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225159,
+      "num": 252561,
+      "word": "唐尚珺78岁母亲希望他挣钱结婚",
+      "onboard_time": 1734945618,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224929,
@@ -1051,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189290,
+      "num": 189290,
+      "word": "年度歌手",
+      "onboard_time": 1734946339,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188861,
       "num": 188861,
       "word": "射雕战争镜头",
@@ -1059,12 +1091,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188197,
-      "num": 188197,
-      "word": "张馨予晒妈妈与张颂文合照",
-      "onboard_time": 1734945079,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 187686,
+      "num": 187686,
+      "word": "男子举报中学副校长出轨自己",
+      "onboard_time": 1734946278,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 185579,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1734869959,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170719,
+      "num": 307925,
+      "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
+      "onboard_time": 1734944597,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 170239,
@@ -1259,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154503,
-      "num": 307925,
-      "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
-      "onboard_time": 1734944597,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153618,
       "num": 317842,
       "word": "国足在杭州对阵澳大利亚",
@@ -1339,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146472,
+      "num": 146472,
+      "word": "成毅谢淮安更衣路透",
+      "onboard_time": 1734946518,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145642,
       "num": 191988,
       "word": "国色芳华依花辨心版海报",
@@ -1371,12 +1411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143772,
+      "num": 143772,
+      "word": "苏州大量外企撤资消息为谣言",
+      "onboard_time": 1734946038,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 141313,
       "num": 108119,
       "word": "女子穿板鞋爬山回家脱鞋时被吓一跳",
       "onboard_time": 1734869298,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140883,
+      "num": 140883,
+      "word": "刘宇宁聚餐打包剩饭",
+      "onboard_time": 1734945558,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 140293,
@@ -1409,14 +1465,6 @@
       "onboard_time": 1734910696,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 137311,
-      "num": 137311,
-      "word": "刘宇宁聚餐打包剩饭",
-      "onboard_time": 1734945558,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 136641,
@@ -1465,14 +1513,6 @@
       "onboard_time": 1734884416,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130142,
-      "num": 307985,
-      "word": "李昀锐聊吻戏 情到浓时",
-      "onboard_time": 1734945679,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 128154,
@@ -1561,14 +1601,6 @@
       "onboard_time": 1734937637,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124951,
-      "num": 124951,
-      "word": "唐尚珺78岁母亲希望他挣钱结婚",
-      "onboard_time": 1734945618,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123897,
@@ -1939,6 +1971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 71572,
+      "num": 308177,
+      "word": "员工为个人养老金开户任务自掏腰包",
+      "onboard_time": 1734945139,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 68954,
       "num": 815661,
       "word": "2024这些passion瞬间提到了你",
@@ -2035,8 +2075,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 60878,
-      "num": 726638,
+      "raw_hot": 63226,
+      "num": 792523,
       "word": "2024惊艳世界的大国重器",
       "onboard_time": 1734943637,
       "rank": 2,
@@ -2065,6 +2105,14 @@
       "onboard_time": 1734934518,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 55602,
+      "num": 307686,
+      "word": "2女子网游恋爱被已婚男骗近百万",
+      "onboard_time": 1734944838,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55485,
@@ -2113,14 +2161,6 @@
       "onboard_time": 1734942378,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 52409,
-      "num": 308177,
-      "word": "员工为个人养老金开户任务自掏腰包",
-      "onboard_time": 1734945139,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 52252,
@@ -2203,20 +2243,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45641,
-      "num": 307686,
-      "word": "2女子网游恋爱被已婚男骗近百万",
-      "onboard_time": 1734944838,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45579,
       "num": 246417,
       "word": "曲艺 写在考研初试之后",
       "onboard_time": 1734930498,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 45024,
+      "num": 190181,
+      "word": "檀健次新杂志3分钟10万本",
+      "onboard_time": 1734946218,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43225,
@@ -2307,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37024,
+      "num": 170791,
+      "word": "2024中国足球发展研讨会白皮书",
+      "onboard_time": 1734946518,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37001,
       "num": 167328,
       "word": "2024循环播放的新歌TOP10",
@@ -2337,6 +2385,22 @@
       "onboard_time": 1734934158,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35930,
+      "num": 141119,
+      "word": "于适AnotherMan生日大片",
+      "onboard_time": 1734944717,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35901,
+      "num": 200623,
+      "word": "光遇",
+      "onboard_time": 1734944958,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 35588,
@@ -2371,6 +2435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30890,
+      "num": 307580,
+      "word": "原神火神动画",
+      "onboard_time": 1734944358,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 30358,
       "num": 136285,
       "word": "严肃整改挪用农村学生营养餐补贴乱象",
@@ -2380,7 +2452,7 @@
     },
     {
       "raw_hot": 29779,
-      "num": 185062,
+      "num": 250270,
       "word": "误杀3特辑将真实贯彻到底",
       "onboard_time": 1734944358,
       "rank": 34,
@@ -2465,14 +2537,6 @@
       "onboard_time": 1734933138,
       "rank": 22,
       "category": "综艺,数码"
-    },
-    {
-      "raw_hot": 21722,
-      "num": 307580,
-      "word": "原神火神动画",
-      "onboard_time": 1734944358,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 19861,
