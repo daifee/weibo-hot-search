@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734981454735,
+  "endTime": 1734982525662,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 63149,
+      "num": 63149,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 60117,
       "num": 60117,
       "word": "肖秀荣给2025考生的一封信",
@@ -411,14 +419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 53814,
-      "num": 48059,
-      "word": "不要传刀哥被警察带走了",
-      "onboard_time": 1734979031,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -441,6 +441,14 @@
       "onboard_time": 1734971296,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38682,
+      "num": 54704,
+      "word": "日本樱岛火山再度喷发",
+      "onboard_time": 1734978251,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37589,
@@ -473,14 +481,6 @@
       "onboard_time": 1734981371,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33650,
-      "num": 54704,
-      "word": "日本樱岛火山再度喷发",
-      "onboard_time": 1734978251,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 33591,
@@ -571,20 +571,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14241,
-      "num": 17760,
+      "raw_hot": 17770,
+      "num": 17770,
       "word": "陈乔恩实现了鸡佛自由",
       "onboard_time": 1734980771,
       "rank": 49,
       "category": "艺人"
     },
     {
-      "raw_hot": 12886,
+      "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
       "onboard_time": 1734980892,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11891,
+      "num": 31897,
+      "word": "官方辟谣苏州大量外企撤资",
+      "onboard_time": 1734982151,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 11434,
