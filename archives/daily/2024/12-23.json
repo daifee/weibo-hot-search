@@ -1,7 +1,15 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734922501840,
+  "endTime": 1734923045647,
   "band_list": [
+    {
+      "raw_hot": 1199523,
+      "num": 1199523,
+      "word": "肖战版郭靖造型",
+      "onboard_time": 1734921436,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 1183590,
       "num": 1189374,
@@ -35,20 +43,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 854530,
+      "raw_hot": 913415,
       "num": 1136724,
       "word": "古偶黑马",
       "onboard_time": 1734920176,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 844698,
-      "num": 811365,
-      "word": "肖战版郭靖造型",
-      "onboard_time": 1734921436,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 688171,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429395,
+      "num": 429395,
+      "word": "大奉打更人OST阵容",
+      "onboard_time": 1734921978,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 428810,
       "num": 428810,
       "word": "黑神话悟空被山寨了",
@@ -155,12 +163,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 417672,
+      "num": 417672,
+      "word": "柳岩谈44岁女演员的尴尬",
+      "onboard_time": 1734921436,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 413512,
       "num": 413512,
       "word": "官方回应32岁飞行员失联事件",
       "onboard_time": 1734915738,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401091,
+      "num": 438755,
+      "word": "不少孩子当代练挣钱玩游戏",
+      "onboard_time": 1734920477,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 399264,
@@ -179,8 +203,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 360194,
-      "num": 225453,
+      "raw_hot": 364955,
+      "num": 232085,
       "word": "美国一男子在地铁把一女子点燃",
       "onboard_time": 1734921436,
       "rank": 20,
@@ -219,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320764,
-      "num": 225365,
-      "word": "柳岩谈44岁女演员的尴尬",
-      "onboard_time": 1734921436,
-      "rank": 21,
-      "category": "作品衍生,时尚"
+      "raw_hot": 325708,
+      "num": 229972,
+      "word": "上海147元两荤三素的快餐",
+      "onboard_time": 1734918077,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 318889,
@@ -241,14 +265,6 @@
       "onboard_time": 1734919637,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 311843,
-      "num": 225148,
-      "word": "上海147元两荤三素的快餐",
-      "onboard_time": 1734918077,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 303256,
@@ -273,22 +289,6 @@
       "onboard_time": 1734877160,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 290312,
-      "num": 423875,
-      "word": "不少孩子当代练挣钱玩游戏",
-      "onboard_time": 1734920477,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 278964,
-      "num": 224562,
-      "word": "大奉打更人OST阵容",
-      "onboard_time": 1734921978,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 274013,
@@ -355,12 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218394,
+      "num": 218394,
+      "word": "射雕长预告",
+      "onboard_time": 1734921917,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209134,
       "num": 209134,
       "word": "虾 警惕突然对你好的人",
       "onboard_time": 1734910635,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208343,
+      "num": 208343,
+      "word": "慕胥辞贺思慕段胥雪中舞",
+      "onboard_time": 1734922098,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 204457,
@@ -377,14 +393,6 @@
       "onboard_time": 1734846379,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 201760,
-      "num": 201760,
-      "word": "射雕长预告",
-      "onboard_time": 1734921917,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 198979,
@@ -411,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194567,
-      "num": 194567,
-      "word": "慕胥辞贺思慕段胥雪中舞",
-      "onboard_time": 1734922098,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 194956,
+      "num": 194956,
+      "word": "梁家辉演欧阳锋",
+      "onboard_time": 1734922759,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 192347,
@@ -425,6 +433,14 @@
       "onboard_time": 1734867259,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191296,
+      "num": 234092,
+      "word": "檀健次ELLE2025开年刊封面",
+      "onboard_time": 1734922397,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 190338,
@@ -451,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178320,
-      "num": 178320,
+      "raw_hot": 179248,
+      "num": 179248,
       "word": "胡塞武装称袭击美军杜鲁门号航母",
       "onboard_time": 1734921317,
       "rank": 33,
@@ -507,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 155329,
+      "num": 155329,
+      "word": "日本火山喷发灰柱高达3400米",
+      "onboard_time": 1734922337,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154624,
       "num": 233113,
       "word": "宋旻浩退伍",
@@ -529,6 +553,14 @@
       "onboard_time": 1734917117,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151223,
+      "num": 151223,
+      "word": "国安部提示警惕评论区里的谍影重重",
+      "onboard_time": 1734922158,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149016,
@@ -571,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130402,
-      "num": 130402,
-      "word": "国安部提示警惕评论区里的谍影重重",
-      "onboard_time": 1734922158,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 128154,
+      "num": 128154,
+      "word": "张元英视频签售打光",
+      "onboard_time": 1734922577,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 127743,
@@ -659,20 +691,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112401,
-      "num": 224936,
-      "word": "檀健次ELLE2025开年刊封面",
-      "onboard_time": 1734922397,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111525,
-      "num": 111525,
-      "word": "日本火山喷发灰柱高达3400米",
-      "onboard_time": 1734922337,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 108388,
+      "num": 108388,
+      "word": "熊孩子买号玩游戏充值1万无法退费",
+      "onboard_time": 1734885856,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107919,
@@ -681,14 +705,6 @@
       "onboard_time": 1734862038,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107587,
-      "num": 107587,
-      "word": "熊孩子买号玩游戏充值1万无法退费",
-      "onboard_time": 1734885856,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106995,
@@ -867,6 +883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 63595,
+      "num": 224918,
+      "word": "剑网三",
+      "onboard_time": 1734921737,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 63294,
       "num": 63294,
       "word": "黑悟空雪雕修复后金箍棒成金色",
@@ -947,14 +971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 45855,
-      "num": 224918,
-      "word": "剑网三",
-      "onboard_time": 1734921737,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 45748,
       "num": 45748,
       "word": "中方对加拿大机构及人员采取反制措施",
@@ -995,6 +1011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40347,
+      "num": 387677,
+      "word": "王嘉尔官宣双品牌全球合作伙伴",
+      "onboard_time": 1734919757,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39853,
       "num": 39853,
       "word": "一人一句2025心愿",
@@ -1019,20 +1043,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 34941,
+      "num": 751203,
+      "word": "韩国一军方驻地发生爆炸",
+      "onboard_time": 1734922817,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34043,
       "num": 821573,
       "word": "2024余额已不足10天",
       "onboard_time": 1734873620,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32787,
-      "num": 387677,
-      "word": "王嘉尔官宣双品牌全球合作伙伴",
-      "onboard_time": 1734919757,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 31725,
