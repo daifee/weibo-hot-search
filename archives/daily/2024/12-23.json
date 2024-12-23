@@ -1,6 +1,6 @@
 {
   "startTime": 1734884697155,
-  "endTime": 1734960475625,
+  "endTime": 1734961148390,
   "band_list": [
     {
       "raw_hot": 2662899,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 959310,
-      "num": 959310,
+      "raw_hot": 979509,
+      "num": 979509,
       "word": "女子过马路遭压路机辗压身亡",
       "onboard_time": 1734955820,
       "rank": 5,
@@ -177,6 +177,14 @@
       "onboard_time": 1734947600,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 904588,
+      "num": 904588,
+      "word": "疑似山姆代购蹲厕所分装蛋糕",
+      "onboard_time": 1734957318,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 899383,
@@ -411,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 568331,
-      "num": 568331,
-      "word": "疑似山姆代购蹲厕所分装蛋糕",
-      "onboard_time": 1734957318,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 564750,
       "num": 564750,
       "word": "王力宏官宣个人巡回演唱会",
@@ -577,6 +577,14 @@
       "onboard_time": 1734878479,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434228,
+      "num": 434228,
+      "word": "落跑甜心女主整复被弄骨折",
+      "onboard_time": 1734958940,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 430825,
@@ -811,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315473,
+      "num": 328972,
+      "word": "猎罪2男子将母亲错看成父亲捅死",
+      "onboard_time": 1734959540,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312644,
       "num": 312644,
       "word": "A股",
@@ -841,14 +857,6 @@
       "onboard_time": 1734882259,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 300999,
-      "num": 300999,
-      "word": "落跑甜心女主整复被弄骨折",
-      "onboard_time": 1734958940,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 300469,
@@ -923,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275556,
+      "num": 275556,
+      "word": "圣诞节 鸡公煲",
+      "onboard_time": 1734955878,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274013,
       "num": 274013,
       "word": "李现在虎跳峡举国旗",
@@ -976,6 +992,14 @@
       "word": "马航",
       "onboard_time": 1734936700,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258487,
+      "num": 258487,
+      "word": "男子婚后发现妻子结7次婚育6娃",
+      "onboard_time": 1734960080,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1041,14 +1065,6 @@
       "onboard_time": 1734933498,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235417,
-      "num": 235417,
-      "word": "圣诞节 鸡公煲",
-      "onboard_time": 1734955878,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 235198,
@@ -1163,12 +1179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220585,
+      "num": 220585,
+      "word": "蒋欣说小巷人家番外最想拍抱孙子",
+      "onboard_time": 1734960259,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219599,
       "num": 219599,
       "word": "人大教授建议取消中考",
       "onboard_time": 1734936077,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219302,
+      "num": 273902,
+      "word": "杨祐宁看过老婆的胎盘",
+      "onboard_time": 1734960140,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 218394,
@@ -1203,14 +1235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207114,
-      "num": 328972,
-      "word": "猎罪2男子将母亲错看成父亲捅死",
-      "onboard_time": 1734959540,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207050,
       "num": 207050,
       "word": "国安部提示警惕评论区里的谍影重重",
@@ -1235,12 +1259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205602,
-      "num": 205602,
-      "word": "男子婚后发现妻子结7次婚育6娃",
-      "onboard_time": 1734960080,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 205338,
+      "num": 205338,
+      "word": "秦岚情绪稳定的原因找到了",
+      "onboard_time": 1734957919,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 204457,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1734906793,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198756,
-      "num": 198756,
-      "word": "秦岚情绪稳定的原因找到了",
-      "onboard_time": 1734957919,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 197477,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1734952038,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187209,
+      "num": 187209,
+      "word": "白鹿送花",
+      "onboard_time": 1734960920,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 185579,
@@ -1627,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164239,
+      "num": 164239,
+      "word": "马龙刘诗雯混双",
+      "onboard_time": 1734957618,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164235,
       "num": 164235,
       "word": "林高远获胜振臂高呼",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1734949098,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161363,
+      "num": 161363,
+      "word": "为什么iPhone信号不如国产手机",
+      "onboard_time": 1734960439,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 161277,
@@ -1697,14 +1737,6 @@
       "onboard_time": 1734952939,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156529,
-      "num": 156529,
-      "word": "马龙刘诗雯混双",
-      "onboard_time": 1734957618,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 155372,
@@ -1819,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150234,
-      "num": 150234,
-      "word": "杨祐宁看过老婆的胎盘",
-      "onboard_time": 1734960140,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -1872,14 +1896,6 @@
       "word": "成毅谢淮安更衣路透",
       "onboard_time": 1734946518,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146145,
-      "num": 146145,
-      "word": "蒋欣说小巷人家番外最想拍抱孙子",
-      "onboard_time": 1734960259,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2027,20 +2043,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136154,
+      "num": 374405,
+      "word": "郑州一商场女厕所现偷拍事件",
+      "onboard_time": 1734956479,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136093,
       "num": 136093,
       "word": "曾庆杰 上桌",
       "onboard_time": 1734933737,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135421,
-      "num": 135421,
-      "word": "为什么iPhone信号不如国产手机",
-      "onboard_time": 1734960439,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 134972,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1734952398,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133913,
+      "num": 253779,
+      "word": "被铁路售票员的手速惊到了",
+      "onboard_time": 1734959660,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133826,
@@ -2091,6 +2115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132075,
+      "num": 132075,
+      "word": "林俊杰新歌中英双版本零点上线",
+      "onboard_time": 1734961041,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 131636,
       "num": 131636,
       "word": "两栖攻击舰076即将下水",
@@ -2112,14 +2144,6 @@
       "word": "熊猫妈妈把妹猪搂在怀里亲了10086次",
       "onboard_time": 1734946937,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128691,
-      "num": 374405,
-      "word": "郑州一商场女厕所现偷拍事件",
-      "onboard_time": 1734956479,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2339,14 +2363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 112140,
-      "num": 228348,
-      "word": "被铁路售票员的手速惊到了",
-      "onboard_time": 1734959660,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111663,
       "num": 310891,
       "word": "女生学殡葬后亲戚递红包手都发抖",
@@ -2369,6 +2385,14 @@
       "onboard_time": 1734934878,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109235,
+      "num": 569171,
+      "word": "社区回应女子遭压路机辗压身亡",
+      "onboard_time": 1734959720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108995,
@@ -2483,11 +2507,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96960,
-      "num": 569171,
-      "word": "社区回应女子遭压路机辗压身亡",
-      "onboard_time": 1734959720,
-      "rank": 9,
+      "raw_hot": 97486,
+      "num": 298101,
+      "word": "住了1年多发现是凶宅获判全额退款",
+      "onboard_time": 1734959239,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2520,14 +2544,6 @@
       "word": "女子遭老板性侵被辞公司变更董事长",
       "onboard_time": 1734955699,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90884,
-      "num": 298101,
-      "word": "住了1年多发现是凶宅获判全额退款",
-      "onboard_time": 1734959239,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2875,12 +2891,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 59443,
+      "num": 264349,
+      "word": "Xiaohu单杀Angel",
+      "onboard_time": 1734960920,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 59126,
       "num": 266553,
       "word": "肖央段奕宏请和好",
       "onboard_time": 1734957318,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59045,
+      "num": 265710,
+      "word": "32岁飞行员失联前模拟机考试失败",
+      "onboard_time": 1734960920,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58644,
@@ -3521,6 +3553,14 @@
       "onboard_time": 1734905652,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10751,
+      "num": 250053,
+      "word": "山东一法院公诉人给被害人递纸条",
+      "onboard_time": 1734961101,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9501,
