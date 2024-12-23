@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734993500090,
+  "endTime": 1734996065734,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -25,6 +25,14 @@
       "onboard_time": 1734957199,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440363,
+      "num": 764902,
+      "word": "在家产女开出生证需做亲子鉴定",
+      "onboard_time": 1734989652,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434936,
@@ -83,6 +91,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240507,
+      "num": 114679,
+      "word": "她还没上桌蛋糕分完了",
+      "onboard_time": 1734951078,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239606,
+      "num": 239606,
+      "word": "32岁飞行员失联车内情况被还原",
+      "onboard_time": 1734956538,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234900,
       "num": 234900,
       "word": "杨祐宁谈老婆生产 真的掉了一块肉",
@@ -107,14 +131,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 213540,
-      "num": 213540,
-      "word": "32岁飞行员失联车内情况被还原",
-      "onboard_time": 1734956538,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205197,
       "num": 205197,
       "word": "丈夫读博妻子带娃7年离婚获3万补偿",
@@ -137,14 +153,6 @@
       "onboard_time": 1734964820,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 178083,
-      "num": 178083,
-      "word": "在家产女开出生证需做亲子鉴定",
-      "onboard_time": 1734989652,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174320,
@@ -227,20 +235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117356,
-      "num": 106043,
-      "word": "她还没上桌蛋糕分完了",
-      "onboard_time": 1734951078,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115437,
       "num": 115437,
       "word": "男子婚后发现妻子结7次婚育6娃",
       "onboard_time": 1734960080,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113565,
+      "num": 113565,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 113445,
@@ -259,11 +267,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106100,
+      "num": 106100,
+      "word": "多家航司回应飞机锁座越来越多",
+      "onboard_time": 1734989351,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98679,
       "num": 98679,
       "word": "猎罪2第九案有点太癫了",
       "onboard_time": 1734961159,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97148,
+      "num": 97148,
+      "word": "蒋欣说小巷人家番外最想拍抱孙子",
+      "onboard_time": 1734960259,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -273,6 +297,22 @@
       "onboard_time": 1734965660,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94496,
+      "num": 140373,
+      "word": "官方回应荒山上安装健身器材",
+      "onboard_time": 1734973694,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89142,
+      "num": 89142,
+      "word": "王楚钦新发色",
+      "onboard_time": 1734995775,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 88619,
@@ -315,20 +355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75505,
+      "num": 75505,
+      "word": "个人养老金没预约却被开户",
+      "onboard_time": 1734994333,
+      "rank": 24,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 74242,
       "num": 74242,
       "word": "蛇年纪念钞预约",
       "onboard_time": 1734965180,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 74228,
-      "num": 140373,
-      "word": "官方回应荒山上安装健身器材",
-      "onboard_time": 1734973694,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73164,
@@ -355,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69297,
-      "num": 69297,
-      "word": "蒋欣说小巷人家番外最想拍抱孙子",
-      "onboard_time": 1734960259,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 67624,
       "num": 67624,
       "word": "向佐在红毯上生气了",
@@ -377,14 +409,6 @@
       "onboard_time": 1734961340,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63205,
-      "num": 63149,
-      "word": "不要传刀哥被警察带走了",
-      "onboard_time": 1734979031,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 60117,
@@ -435,14 +459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 52775,
-      "num": 52775,
-      "word": "多家航司回应飞机锁座越来越多",
-      "onboard_time": 1734989351,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -459,12 +475,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43759,
+      "num": 43759,
+      "word": "有境外间谍利用评论区窃密",
+      "onboard_time": 1734975612,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 42468,
+      "num": 42468,
+      "word": "猎罪图鉴2画像师原型满意檀健次表演",
+      "onboard_time": 1734974353,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42192,
       "num": 94321,
       "word": "金靖生日戴张婧仪同款围巾",
       "onboard_time": 1734971296,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41256,
+      "num": 41256,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39751,
+      "num": 60011,
+      "word": "行业协会谈三亚酒店春节限价十年",
+      "onboard_time": 1734993131,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39636,
+      "num": 39636,
+      "word": "这房子完全长在了我的心巴上",
+      "onboard_time": 1734985872,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 38682,
@@ -491,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37046,
-      "num": 37046,
-      "word": "有境外间谍利用评论区窃密",
-      "onboard_time": 1734975612,
-      "rank": 25,
-      "category": "国内时政"
+      "raw_hot": 37158,
+      "num": 38685,
+      "word": "iG与TES重启LPL忍界大战",
+      "onboard_time": 1734995834,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35478,
+      "num": 38681,
+      "word": "官方辟谣苏州大量外企撤资",
+      "onboard_time": 1734982151,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 34484,
@@ -507,12 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33591,
-      "num": 36097,
-      "word": "猎罪图鉴2画像师原型满意檀健次表演",
-      "onboard_time": 1734974353,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 33267,
+      "num": 38677,
+      "word": "香港10平米月租8000的家",
+      "onboard_time": 1734988030,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 32060,
@@ -529,6 +593,14 @@
       "onboard_time": 1734970516,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29995,
+      "num": 312287,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29344,
@@ -563,44 +635,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 24299,
-      "num": 24299,
-      "word": "陈乔恩实现了鸡佛自由",
-      "onboard_time": 1734980771,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
       "onboard_time": 1734974893,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22337,
-      "num": 22337,
-      "word": "香港10平米月租8000的家",
-      "onboard_time": 1734988030,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21736,
-      "num": 31897,
-      "word": "官方辟谣苏州大量外企撤资",
-      "onboard_time": 1734982151,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 19983,
-      "num": 21633,
-      "word": "这房子完全长在了我的心巴上",
-      "onboard_time": 1734985872,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 19525,
@@ -635,14 +675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17536,
-      "num": 152767,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
@@ -657,6 +689,14 @@
       "onboard_time": 1734988992,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 13431,
+      "num": 115224,
+      "word": "遇小女孩求助公交司机秒变夹子音",
+      "onboard_time": 1734995595,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11434,
@@ -699,12 +739,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9638,
-      "num": 60011,
-      "word": "行业协会谈三亚酒店春节限价十年",
-      "onboard_time": 1734993131,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 5629,
+      "num": 94540,
+      "word": "风中的火焰",
+      "onboard_time": 1734995715,
+      "rank": 18,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
