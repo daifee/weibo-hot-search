@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1734979378997,
+  "endTime": 1734981454735,
   "band_list": [
     {
       "raw_hot": 648859,
@@ -411,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 53814,
+      "num": 48059,
+      "word": "不要传刀哥被警察带走了",
+      "onboard_time": 1734979031,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -457,6 +465,22 @@
       "onboard_time": 1734975612,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34484,
+      "num": 23279,
+      "word": "我的2024年",
+      "onboard_time": 1734981371,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33650,
+      "num": 54704,
+      "word": "日本樱岛火山再度喷发",
+      "onboard_time": 1734978251,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 33591,
@@ -515,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23738,
-      "num": 54704,
-      "word": "日本樱岛火山再度喷发",
-      "onboard_time": 1734978251,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 19525,
       "num": 94151,
       "word": "抱抱熊君",
@@ -555,12 +571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17878,
-      "num": 24516,
-      "word": "不要传刀哥被警察带走了",
-      "onboard_time": 1734979031,
+      "raw_hot": 14241,
+      "num": 17760,
+      "word": "陈乔恩实现了鸡佛自由",
+      "onboard_time": 1734980771,
       "rank": 49,
-      "category": "网红"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12886,
+      "num": 43478,
+      "word": "外交部回应反制加拿大有关机构及人员",
+      "onboard_time": 1734980892,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11434,
