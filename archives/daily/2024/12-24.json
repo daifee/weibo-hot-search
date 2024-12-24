@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735004543469,
+  "endTime": 1735005549434,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -11,8 +11,8 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 834771,
-      "num": 298329,
+      "raw_hot": 2254915,
+      "num": 2254915,
       "word": "吴柳芳粉丝仅剩4.4万",
       "onboard_time": 1735003519,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 718868,
-      "num": 291559,
+      "num": 292480,
       "word": "滴滴就臭车致歉",
       "onboard_time": 1735000760,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 674642,
-      "num": 278100,
+      "num": 292462,
       "word": "刘强东提前发年终奖",
       "onboard_time": 1735000218,
       "rank": 12,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 467166,
-      "num": 273863,
+      "num": 292442,
       "word": "孙恩盛 何秋亊",
       "onboard_time": 1734996931,
       "rank": 13,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 329832,
-      "num": 166193,
+      "num": 192313,
       "word": "女子生产前4小时才知道自己怀孕",
       "onboard_time": 1734965361,
       "rank": 20,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 312166,
-      "num": 168615,
+      "num": 191730,
       "word": "清华大学食堂里的菜单和价格",
       "onboard_time": 1735000999,
       "rank": 21,
@@ -177,6 +177,14 @@
       "onboard_time": 1734965000,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 292515,
+      "num": 310526,
+      "word": "韩在野党称即刻开始韩德洙弹劾程序",
+      "onboard_time": 1735003578,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 267740,
@@ -193,6 +201,22 @@
       "onboard_time": 1734954017,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258607,
+      "num": 191878,
+      "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
+      "onboard_time": 1735002618,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258310,
+      "num": 258310,
+      "word": "于适已将成为导演纳入规划",
+      "onboard_time": 1735003038,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 238792,
@@ -220,19 +244,19 @@
     },
     {
       "raw_hot": 230575,
-      "num": 161412,
+      "num": 191128,
       "word": "突然对韩国祛魅了",
       "onboard_time": 1734961640,
       "rank": 21,
       "category": "幽默"
     },
     {
-      "raw_hot": 221855,
-      "num": 161694,
-      "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
-      "onboard_time": 1735002618,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 226641,
+      "num": 226641,
+      "word": "肯德基涨价2%",
+      "onboard_time": 1735004837,
+      "rank": 17,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 221502,
@@ -249,14 +273,6 @@
       "onboard_time": 1734995775,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205538,
-      "num": 310526,
-      "word": "韩在野党称即刻开始韩德洙弹劾程序",
-      "onboard_time": 1735003578,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 193233,
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169880,
+      "num": 169880,
+      "word": "起底吴柳芳背后MCN大海星辰",
+      "onboard_time": 1735005258,
+      "rank": 31,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 169846,
       "num": 121965,
       "word": "希林娜依高拖行小狗",
@@ -307,16 +331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163415,
-      "num": 163415,
-      "word": "于适已将成为导演纳入规划",
-      "onboard_time": 1735003038,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160971,
-      "num": 160971,
+      "num": 180524,
       "word": "何秋亊 dsn",
       "onboard_time": 1735000698,
       "rank": 27,
@@ -347,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148028,
+      "num": 148028,
+      "word": "2025摩羯座富得流油",
+      "onboard_time": 1735003397,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146456,
       "num": 146456,
       "word": "巴拿马总统强硬回应特朗普",
@@ -355,12 +379,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144632,
-      "num": 144632,
-      "word": "2025摩羯座富得流油",
-      "onboard_time": 1735003397,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 143755,
+      "num": 292496,
+      "word": "以官方首次公开承认暗杀哈尼亚",
+      "onboard_time": 1735003638,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143419,
@@ -369,6 +393,14 @@
       "onboard_time": 1734996675,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143175,
+      "num": 143175,
+      "word": "中国风穿戴甲在欧美太火了",
+      "onboard_time": 1735000999,
+      "rank": 35,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 143067,
@@ -411,8 +443,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133121,
+      "num": 133121,
+      "word": "孙颖莎王楚钦分列世排第一",
+      "onboard_time": 1735004597,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132434,
-      "num": 132434,
+      "num": 191548,
       "word": "NBA圣诞大战",
       "onboard_time": 1735004239,
       "rank": 33,
@@ -425,6 +465,14 @@
       "onboard_time": 1734960259,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128983,
+      "num": 180753,
+      "word": "小佳被易烊千玺的表演震撼",
+      "onboard_time": 1735004717,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 128668,
@@ -459,14 +507,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 115942,
-      "num": 115942,
-      "word": "中国风穿戴甲在欧美太火了",
-      "onboard_time": 1735000999,
-      "rank": 35,
-      "category": "美妆,时尚"
-    },
-    {
       "raw_hot": 114591,
       "num": 140373,
       "word": "官方回应荒山上安装健身器材",
@@ -483,20 +523,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 111051,
+      "num": 111051,
+      "word": "蛇年纪念币预约情况火爆",
+      "onboard_time": 1735000698,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110895,
       "num": 110895,
       "word": "液体勺",
       "onboard_time": 1734952578,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110275,
-      "num": 110275,
-      "word": "蛇年纪念币预约情况火爆",
-      "onboard_time": 1735000698,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 107701,
@@ -507,20 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106095,
+      "num": 106095,
+      "word": "重庆孃孃打响保卫香肠第一战",
+      "onboard_time": 1735002679,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101933,
       "num": 101933,
       "word": "原来韩国老奶真的会爆金币",
       "onboard_time": 1734995775,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101834,
-      "num": 101834,
-      "word": "以官方首次公开承认暗杀哈尼亚",
-      "onboard_time": 1735003638,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98679,
@@ -547,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94212,
-      "num": 94212,
-      "word": "重庆孃孃打响保卫香肠第一战",
-      "onboard_time": 1735002679,
-      "rank": 46,
-      "category": "美食"
+      "raw_hot": 92658,
+      "num": 92658,
+      "word": "张颂文回复网友",
+      "onboard_time": 1735004958,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 91060,
@@ -569,6 +609,14 @@
       "onboard_time": 1734965180,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85530,
+      "num": 85530,
+      "word": "小砂糖橘水灵灵地玩上尔滨的雪了",
+      "onboard_time": 1735005497,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85183,
@@ -747,8 +795,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46288,
-      "num": 739631,
+      "raw_hot": 50372,
+      "num": 192610,
+      "word": "罗渽民以粉丝名义捐款1亿韩元",
+      "onboard_time": 1735004777,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49527,
+      "num": 881281,
       "word": "宇宙年味发动机已启动",
       "onboard_time": 1734969318,
       "rank": 2,
