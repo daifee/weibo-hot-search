@@ -1,0 +1,410 @@
+{
+  "runTime": 1735076125442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169538,
+        "num": 180528,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84011,
+        "num": 84011,
+        "word": "长春坠江私家车内有孕妇",
+        "onboard_time": 1735069930,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11362,
+        "num": 68163,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66969,
+        "num": 66969,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 54034,
+        "num": 54034,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46159,
+        "num": 46159,
+        "word": "被家暴女子遭男方恐吓全家绝种",
+        "onboard_time": 1735059735,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 45920,
+        "num": 45920,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43648,
+        "num": 43648,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35435,
+        "num": 35435,
+        "word": "格陵兰岛自治政府总理回应特朗普",
+        "onboard_time": 1735070651,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34315,
+        "num": 34315,
+        "word": "运动20分钟就能抵消熬夜伤害",
+        "onboard_time": 1735060873,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30333,
+        "num": 30333,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30261,
+        "num": 30261,
+        "word": "平安夜快乐",
+        "onboard_time": 1735073650,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28347,
+        "num": 28347,
+        "word": "医生称被咬伤男童可换血来控制感染",
+        "onboard_time": 1735054159,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27617,
+        "num": 27617,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 24596,
+        "num": 24596,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24350,
+        "num": 24350,
+        "word": "29个行业被美国卡脖子卡出单项冠军",
+        "onboard_time": 1735053138,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24274,
+        "num": 24274,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23287,
+        "num": 23287,
+        "word": "羊毛月已掉粉130万",
+        "onboard_time": 1735055418,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22853,
+        "num": 22853,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21993,
+        "num": 21993,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28630,
+        "num": 21930,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25830,
+        "num": 21703,
+        "word": "老师带4个月女儿上课成班里团宠",
+        "onboard_time": 1735067473,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21291,
+        "num": 21291,
+        "word": "当事人回应因孩子言论把家砸烂",
+        "onboard_time": 1735060513,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20906,
+        "num": 20906,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 18768,
+        "word": "999家企业展示中国面对制裁的底气",
+        "onboard_time": 1735054639,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12238,
+        "num": 18718,
+        "word": "以前特工揭秘如何出售爆炸传呼机",
+        "onboard_time": 1735073050,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18687,
+        "num": 18687,
+        "word": "被大众追尾小米su7车主回应",
+        "onboard_time": 1735059015,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18523,
+        "num": 18523,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16633,
+        "num": 18068,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15414,
+        "num": 17654,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32623,
+        "num": 17654,
+        "word": "陈建斌 都给朕回去回后宫去",
+        "onboard_time": 1735063872,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17636,
+        "num": 17636,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17337,
+        "num": 17337,
+        "word": "多省回复称不存在大规模推山造田",
+        "onboard_time": 1735069572,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17159,
+        "num": 17159,
+        "word": "新疆伊犁住一晚酒店只要4元",
+        "onboard_time": 1735052541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12937,
+        "num": 16985,
+        "word": "外交部回应美年复一年渲染中国威胁",
+        "onboard_time": 1735069031,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16880,
+        "num": 16880,
+        "word": "医生称臭车司机对异味或已耐受",
+        "onboard_time": 1735051579,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16873,
+        "num": 16873,
+        "word": "埃菲尔铁塔电梯井突发火灾",
+        "onboard_time": 1735055839,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16789,
+        "num": 16789,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16689,
+        "num": 16689,
+        "word": "吉林长春一家三口开车坠江一人为孕妇",
+        "onboard_time": 1735072512,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15925,
+        "num": 15925,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15240,
+        "num": 15240,
+        "word": "外交部回应美签署涉华国防授权法案",
+        "onboard_time": 1735066932,
+        "rank": 40,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 13879,
+        "num": 13879,
+        "word": "白夜追凶7年后潘粤明变了",
+        "onboard_time": 1735053737,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13617,
+        "num": 13617,
+        "word": "九重紫爆款的含金量更高",
+        "onboard_time": 1735051040,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13588,
+        "num": 13588,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13506,
+        "num": 13588,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13484,
+        "num": 13587,
+        "word": "meiko状态",
+        "onboard_time": 1735054518,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13018,
+        "num": 13586,
+        "word": "猎罪图鉴2点映",
+        "onboard_time": 1735056557,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12961,
+        "num": 13586,
+        "word": "宁艺卓没有特别舞台",
+        "onboard_time": 1735052060,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12180,
+        "num": 13585,
+        "word": "九重紫制片人谈选角孟子义",
+        "onboard_time": 1735047560,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12062,
+        "num": 13585,
+        "word": "日本外相岩屋毅将访问中国",
+        "onboard_time": 1735074910,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
