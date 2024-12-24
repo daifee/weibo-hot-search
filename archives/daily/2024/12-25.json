@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735057608495,
+  "endTime": 1735058516680,
   "band_list": [
     {
       "raw_hot": 1366142,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 728606,
-      "num": 448146,
+      "num": 562106,
       "word": "春晚分会场是会选址的",
       "onboard_time": 1735048579,
       "rank": 3,
@@ -35,19 +35,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 397659,
+      "num": 339804,
+      "word": "衡水一教师参加校内长跑时猝死",
+      "onboard_time": 1735054639,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347337,
       "num": 347337,
       "word": "撞死网红狼司机疑似未主动救治",
       "onboard_time": 1735049960,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339804,
-      "num": 339804,
-      "word": "衡水一教师参加校内长跑时猝死",
-      "onboard_time": 1735054639,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235158,
+      "num": 235158,
+      "word": "漂亮饭",
+      "onboard_time": 1735055418,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 223508,
       "num": 223508,
       "word": "景区回应李现在虎跳峡举国旗",
@@ -115,23 +123,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195637,
-      "num": 195637,
-      "word": "妻儿车祸去世他义务指挥交通35年",
-      "onboard_time": 1735042158,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 195129,
-      "num": 195129,
+      "raw_hot": 213854,
+      "num": 213854,
       "word": "埃菲尔铁塔电梯井突发火灾",
       "onboard_time": 1735055839,
       "rank": 16,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189974,
+      "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
       "onboard_time": 1735053138,
@@ -139,12 +139,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165443,
-      "num": 165443,
-      "word": "漂亮饭",
-      "onboard_time": 1735055418,
-      "rank": 17,
-      "category": "美食"
+      "raw_hot": 195637,
+      "num": 195637,
+      "word": "妻儿车祸去世他义务指挥交通35年",
+      "onboard_time": 1735042158,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 164302,
@@ -187,8 +187,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129084,
+      "num": 129084,
+      "word": "猎罪图鉴2点映",
+      "onboard_time": 1735056557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126397,
-      "num": 126397,
+      "num": 198491,
       "word": "白夜追凶7年后潘粤明变了",
       "onboard_time": 1735053737,
       "rank": 25,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 122496,
-      "num": 122496,
+      "num": 128258,
       "word": "医生称被咬伤男童可换血来控制感染",
       "onboard_time": 1735054159,
       "rank": 26,
@@ -219,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118417,
-      "num": 118417,
-      "word": "猎罪图鉴2点映",
-      "onboard_time": 1735056557,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113445,
       "num": 113445,
       "word": "虞书欣 吸血鬼之家打卡",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 107201,
-      "num": 451685,
+      "num": 562340,
       "word": "哈尔滨冰雪大世界有多火",
       "onboard_time": 1735046780,
       "rank": 2,
@@ -331,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73916,
+      "num": 73916,
+      "word": "阴阳师",
+      "onboard_time": 1735056917,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71129,
       "num": 71129,
       "word": "猎罪2一个案子集齐贪嗔痴",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 69074,
-      "num": 69074,
+      "num": 70809,
       "word": "张凌赫不愧是可以徒嘴剥虾的男人",
       "onboard_time": 1735047919,
       "rank": 44,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 68810,
-      "num": 68810,
+      "num": 70769,
       "word": "宋亚轩刘耀文张真源狗狗大片",
       "onboard_time": 1735043477,
       "rank": 45,
@@ -356,19 +364,27 @@
     },
     {
       "raw_hot": 67883,
-      "num": 67883,
+      "num": 70832,
       "word": "孩子随口一句话男子把家砸烂",
       "onboard_time": 1735035919,
       "rank": 46,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63487,
-      "num": 63487,
-      "word": "阴阳师",
-      "onboard_time": 1735056917,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 64143,
+      "num": 70817,
+      "word": "陶喆 记得这版本的XXX吗",
+      "onboard_time": 1735057576,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 61711,
+      "num": 70795,
+      "word": "窗前一部电影二百个梗",
+      "onboard_time": 1735058116,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 61506,
@@ -379,12 +395,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 60728,
-      "num": 60728,
-      "word": "陶喆 记得这版本的XXX吗",
-      "onboard_time": 1735057576,
+      "raw_hot": 56161,
+      "num": 70758,
+      "word": "李昀锐剧透跨年舞台",
+      "onboard_time": 1735058056,
       "rank": 49,
-      "category": "音乐"
+      "category": "综艺"
     },
     {
       "raw_hot": 23757,
@@ -401,6 +417,14 @@
       "onboard_time": 1735054578,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8122,
+      "num": 119039,
+      "word": "怪物猎人旅人过审",
+      "onboard_time": 1735058175,
+      "rank": 24,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [

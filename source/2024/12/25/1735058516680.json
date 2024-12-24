@@ -1,0 +1,410 @@
+{
+  "runTime": 1735058516680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1153745,
+        "num": 1153745,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 563870,
+        "num": 563870,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89118,
+        "num": 562340,
+        "word": "哈尔滨冰雪大世界有多火",
+        "onboard_time": 1735046780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562106,
+        "num": 562106,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315303,
+        "num": 315303,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 397659,
+        "num": 311693,
+        "word": "衡水一教师参加校内长跑时猝死",
+        "onboard_time": 1735054639,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278622,
+        "num": 278622,
+        "word": "羊毛月已掉粉130万",
+        "onboard_time": 1735055418,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 267392,
+        "num": 267392,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251158,
+        "num": 251158,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221384,
+        "num": 246595,
+        "word": "新疆伊犁住一晚酒店只要4元",
+        "onboard_time": 1735052541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243860,
+        "num": 243860,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235158,
+        "num": 235158,
+        "word": "漂亮饭",
+        "onboard_time": 1735055418,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217100,
+        "num": 217100,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 213854,
+        "num": 213854,
+        "word": "埃菲尔铁塔电梯井突发火灾",
+        "onboard_time": 1735055839,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90249,
+        "num": 198491,
+        "word": "白夜追凶7年后潘粤明变了",
+        "onboard_time": 1735053737,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195766,
+        "num": 195766,
+        "word": "29个行业被美国卡脖子卡出单项冠军",
+        "onboard_time": 1735053138,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193031,
+        "num": 193031,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177368,
+        "num": 177368,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132156,
+        "num": 132156,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129084,
+        "num": 129084,
+        "word": "猎罪图鉴2点映",
+        "onboard_time": 1735056557,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217364,
+        "num": 128878,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116335,
+        "num": 128258,
+        "word": "医生称被咬伤男童可换血来控制感染",
+        "onboard_time": 1735054159,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128145,
+        "num": 128145,
+        "word": "宁艺卓没有特别舞台",
+        "onboard_time": 1735052060,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124887,
+        "num": 124887,
+        "word": "meiko状态",
+        "onboard_time": 1735054518,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 8122,
+        "num": 119039,
+        "word": "怪物猎人旅人过审",
+        "onboard_time": 1735058175,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117943,
+        "num": 117943,
+        "word": "九重紫爆款的含金量更高",
+        "onboard_time": 1735051040,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115855,
+        "num": 115855,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108200,
+        "num": 108200,
+        "word": "去年春晚你印象最深的歌曲",
+        "onboard_time": 1735049900,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100786,
+        "num": 100786,
+        "word": "陈铭评价贺峻霖",
+        "onboard_time": 1735053261,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99970,
+        "num": 99970,
+        "word": "王鹤棣为GAI新歌打call",
+        "onboard_time": 1735057276,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97672,
+        "num": 97672,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96638,
+        "num": 96638,
+        "word": "虞书欣 吸血鬼之家打卡",
+        "onboard_time": 1735048940,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95440,
+        "num": 95440,
+        "word": "九重紫制片人谈选角孟子义",
+        "onboard_time": 1735047560,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94338,
+        "num": 94338,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87394,
+        "num": 87394,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87380,
+        "num": 87380,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86441,
+        "num": 86441,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79949,
+        "num": 79949,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78939,
+        "num": 78939,
+        "word": "王楚钦2024年获得16个冠军",
+        "onboard_time": 1735056317,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77200,
+        "num": 77200,
+        "word": "医生称臭车司机对异味或已耐受",
+        "onboard_time": 1735051579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73916,
+        "num": 73916,
+        "word": "阴阳师",
+        "onboard_time": 1735056917,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71500,
+        "num": 71500,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70841,
+        "num": 70841,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66575,
+        "num": 70832,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64143,
+        "num": 70817,
+        "word": "陶喆 记得这版本的XXX吗",
+        "onboard_time": 1735057576,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62679,
+        "num": 70809,
+        "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+        "onboard_time": 1735047919,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61711,
+        "num": 70795,
+        "word": "窗前一部电影二百个梗",
+        "onboard_time": 1735058116,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58649,
+        "num": 70781,
+        "word": "猎罪2一个案子集齐贪嗔痴",
+        "onboard_time": 1735038859,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57366,
+        "num": 70769,
+        "word": "宋亚轩刘耀文张真源狗狗大片",
+        "onboard_time": 1735043477,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56161,
+        "num": 70758,
+        "word": "李昀锐剧透跨年舞台",
+        "onboard_time": 1735058056,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735057608495,
+  "endTime": 1735058516680,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -2059,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 397659,
+      "num": 339804,
+      "word": "衡水一教师参加校内长跑时猝死",
+      "onboard_time": 1735054639,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397551,
       "num": 397551,
       "word": "歌迷曾帮张杰退房打车",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1735032620,
       "rank": 38,
       "category": "作品衍生,体育"
-    },
-    {
-      "raw_hot": 339804,
-      "num": 339804,
-      "word": "衡水一教师参加校内长跑时猝死",
-      "onboard_time": 1735054639,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339564,
@@ -3339,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235158,
+      "num": 235158,
+      "word": "漂亮饭",
+      "onboard_time": 1735055418,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 234367,
       "num": 297736,
       "word": "现在拨打的电话何以成为全球爆款",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1734842479,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213854,
+      "num": 213854,
+      "word": "埃菲尔铁塔电梯井突发火灾",
+      "onboard_time": 1735055839,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213357,
@@ -4187,6 +4203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195766,
+      "num": 297748,
+      "word": "29个行业被美国卡脖子卡出单项冠军",
+      "onboard_time": 1735053138,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195718,
       "num": 195718,
       "word": "丁禹兮工作室花絮放送",
@@ -4217,14 +4241,6 @@
       "onboard_time": 1734939437,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195129,
-      "num": 195129,
-      "word": "埃菲尔铁塔电梯井突发火灾",
-      "onboard_time": 1735055839,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195104,
@@ -4417,14 +4433,6 @@
       "onboard_time": 1734963621,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189974,
-      "num": 297748,
-      "word": "29个行业被美国卡脖子卡出单项冠军",
-      "onboard_time": 1735053138,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 189862,
@@ -5209,14 +5217,6 @@
       "onboard_time": 1734864499,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 165443,
-      "num": 165443,
-      "word": "漂亮饭",
-      "onboard_time": 1735055418,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 165149,
@@ -6076,7 +6076,7 @@
     },
     {
       "raw_hot": 142774,
-      "num": 142774,
+      "num": 198491,
       "word": "白夜追凶7年后潘粤明变了",
       "onboard_time": 1735053737,
       "rank": 33,
@@ -6651,6 +6651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129084,
+      "num": 129084,
+      "word": "猎罪图鉴2点映",
+      "onboard_time": 1735056557,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128668,
       "num": 131050,
       "word": "不要传刀哥被警察带走了",
@@ -6956,7 +6964,7 @@
     },
     {
       "raw_hot": 122496,
-      "num": 122496,
+      "num": 128258,
       "word": "医生称被咬伤男童可换血来控制感染",
       "onboard_time": 1735054159,
       "rank": 40,
@@ -7095,14 +7103,6 @@
       "num": 118487,
       "word": "九重紫 我爱吃这样的",
       "onboard_time": 1734784819,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 118417,
-      "num": 118417,
-      "word": "猎罪图鉴2点映",
-      "onboard_time": 1735056557,
       "rank": 29,
       "category": "剧集"
     },
@@ -8643,6 +8643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73916,
+      "num": 73916,
+      "word": "阴阳师",
+      "onboard_time": 1735056917,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73860,
       "num": 996844,
       "word": "2024余额已不足10天",
@@ -8971,6 +8979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64143,
+      "num": 70817,
+      "word": "陶喆 记得这版本的XXX吗",
+      "onboard_time": 1735057576,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 64049,
       "num": 322903,
       "word": "2024电影名场面",
@@ -8984,14 +9000,6 @@
       "word": "剑网三",
       "onboard_time": 1734921737,
       "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 63487,
-      "num": 63487,
-      "word": "阴阳师",
-      "onboard_time": 1735056917,
-      "rank": 47,
       "category": "游戏"
     },
     {
@@ -9059,6 +9067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 61711,
+      "num": 70795,
+      "word": "窗前一部电影二百个梗",
+      "onboard_time": 1735058116,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61609,
       "num": 300715,
       "word": "购物时摸一下会增加购买欲",
@@ -9113,14 +9129,6 @@
       "onboard_time": 1734940578,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60728,
-      "num": 60728,
-      "word": "陶喆 记得这版本的XXX吗",
-      "onboard_time": 1735057576,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 60434,
@@ -9265,6 +9273,14 @@
       "onboard_time": 1734995834,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56161,
+      "num": 70758,
+      "word": "李昀锐剧透跨年舞台",
+      "onboard_time": 1735058056,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 55738,
@@ -11401,6 +11417,14 @@
       "onboard_time": 1734884118,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8122,
+      "num": 119039,
+      "word": "怪物猎人旅人过审",
+      "onboard_time": 1735058175,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 8022,
