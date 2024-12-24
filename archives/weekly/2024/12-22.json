@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735033006685,
+  "endTime": 1735035778508,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -329,6 +329,14 @@
       "onboard_time": 1734912077,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1180764,
+      "num": 1180764,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 1173885,
@@ -827,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728324,
+      "num": 728324,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 723125,
       "num": 723125,
       "word": "取消公摊如何弥补之前买房的公摊",
@@ -1291,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540579,
+      "num": 214518,
+      "word": "女子做全裸SPA遭老板偷拍",
+      "onboard_time": 1735034719,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531453,
       "num": 531453,
       "word": "上海地铁11号线乘客发声",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1734935598,
       "rank": 23,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 529619,
+      "num": 529619,
+      "word": "女子发现房顶小孔竟是针孔摄像头",
+      "onboard_time": 1735031477,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 528588,
@@ -2115,6 +2147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 346809,
+      "num": 346809,
+      "word": "清华女硕士二次入伍被授衔中尉",
+      "onboard_time": 1735033639,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345579,
       "num": 345579,
       "word": "南京小朋友5米距离看江豚捕鱼",
@@ -2419,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296834,
+      "num": 431543,
+      "word": "郭敬明发夏之光原始帧",
+      "onboard_time": 1735032620,
+      "rank": 38,
+      "category": "作品衍生,体育"
+    },
+    {
       "raw_hot": 293283,
       "num": 638133,
       "word": "上海地铁11号线抢修",
@@ -2497,14 +2545,6 @@
       "onboard_time": 1734870858,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284685,
-      "num": 284685,
-      "word": "女子发现房顶小孔竟是针孔摄像头",
-      "onboard_time": 1735031477,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284111,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1734920837,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277476,
+      "num": 277476,
+      "word": "谢娜陈乔恩 真闺蜜才敢说真话",
+      "onboard_time": 1735031239,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 276519,
@@ -2747,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258223,
-      "num": 258223,
-      "word": "谢娜陈乔恩 真闺蜜才敢说真话",
-      "onboard_time": 1735031239,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258045,
       "num": 258045,
       "word": "重庆理工通报硕士失联",
@@ -2841,6 +2881,14 @@
       "onboard_time": 1734929060,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249222,
+      "num": 249222,
+      "word": "北京环球影城偶遇王楚钦",
+      "onboard_time": 1735034778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 248465,
@@ -3451,19 +3499,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206898,
-      "num": 206898,
-      "word": "微信蓝包",
-      "onboard_time": 1735032078,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 206386,
       "num": 206386,
       "word": "男孩2次尾随女孩进入电梯脱裤子",
       "onboard_time": 1734952697,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206260,
+      "num": 206260,
+      "word": "年轻人理财式买冬衣主打穿回本",
+      "onboard_time": 1735034719,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -3515,6 +3563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204345,
+      "num": 251925,
+      "word": "易烊千玺100%预售破亿",
+      "onboard_time": 1735034898,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204121,
       "num": 204121,
       "word": "王心凌陈楚生合唱黄昏晓",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201963,
+      "num": 201963,
+      "word": "国色芳华OST阵容官宣",
+      "onboard_time": 1735035379,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201117,
@@ -4115,6 +4179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183492,
+      "num": 183492,
+      "word": "DNA音乐节主办方道歉",
+      "onboard_time": 1735034719,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182733,
       "num": 182733,
       "word": "小巷人家群聊范丞丞说话最多",
@@ -4209,14 +4281,6 @@
       "onboard_time": 1734842297,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178164,
-      "num": 178164,
-      "word": "穷鬼套餐",
-      "onboard_time": 1735031837,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 177759,
@@ -5019,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152479,
+      "num": 181370,
+      "word": "王楚钦所在团体赛事夺冠率100%",
+      "onboard_time": 1735033819,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152422,
       "num": 152422,
       "word": "迪丽热巴毛茸茸的过冬搭子",
@@ -5555,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136793,
+      "num": 136793,
+      "word": "中方反对日本核污染水排海立场没有变化",
+      "onboard_time": 1735032858,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136641,
       "num": 136641,
       "word": "虞书欣SpicyHoney舞蹈版MV",
@@ -5681,6 +5761,14 @@
       "onboard_time": 1734942857,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133327,
+      "num": 133327,
+      "word": "丁禹兮话剧粉",
+      "onboard_time": 1735035679,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 133250,
@@ -5841,6 +5929,14 @@
       "onboard_time": 1734878000,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130310,
+      "num": 130310,
+      "word": "荣耀CEO回应换机周期会不会更长",
+      "onboard_time": 1735034778,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 129585,
@@ -6115,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123417,
+      "num": 156593,
+      "word": "普通人到底该不该买个人养老金",
+      "onboard_time": 1735033759,
+      "rank": 39,
+      "category": "财经,情感"
+    },
+    {
       "raw_hot": 122894,
       "num": 244970,
       "word": "陈雨菲 我回来了",
@@ -6195,6 +6299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 120077,
+      "num": 203966,
+      "word": "12月122款游戏获批",
+      "onboard_time": 1735035500,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 119778,
       "num": 119778,
       "word": "两位女战友分别74年因一次搭话重逢",
@@ -6248,6 +6360,14 @@
       "word": "九重紫 我爱吃这样的",
       "onboard_time": 1734784819,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118407,
+      "num": 118407,
+      "word": "孟子义窦昭角色热度榜亚军",
+      "onboard_time": 1735034599,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -6395,14 +6515,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116026,
-      "num": 126616,
-      "word": "郭敬明发夏之光原始帧",
-      "onboard_time": 1735032620,
-      "rank": 38,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 115717,
       "num": 115717,
       "word": "白夜破晓",
@@ -6492,7 +6604,7 @@
     },
     {
       "raw_hot": 113309,
-      "num": 626107,
+      "num": 835836,
       "word": "240小时过境免签超City",
       "onboard_time": 1735030579,
       "rank": 2,
@@ -6545,14 +6657,6 @@
       "onboard_time": 1734834016,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112602,
-      "num": 112602,
-      "word": "中方反对日本核污染水排海立场没有变化",
-      "onboard_time": 1735032858,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112557,
@@ -6705,6 +6809,14 @@
       "onboard_time": 1734885856,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107809,
+      "num": 107809,
+      "word": "全红婵哥哥回应蹭热度带货",
+      "onboard_time": 1735034479,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107701,
@@ -7963,6 +8075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63159,
+      "num": 183641,
+      "word": "檀健次开年刊24小时战报",
+      "onboard_time": 1735035559,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 63139,
       "num": 206607,
       "word": "PEL名人堂黄金一代",
@@ -8009,6 +8129,14 @@
       "onboard_time": 1734962060,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60959,
+      "num": 418007,
+      "word": "要求杂草限高10厘米一地官员被处理",
+      "onboard_time": 1735035018,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60933,
@@ -8467,6 +8595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49640,
+      "num": 255639,
+      "word": "那些放弃考研的大学生们",
+      "onboard_time": 1735035018,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 49527,
       "num": 881281,
       "word": "宇宙年味发动机已启动",
@@ -8563,6 +8699,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 47018,
+      "num": 216066,
+      "word": "官方回应洒水车野蛮洒水浇透老人",
+      "onboard_time": 1735034958,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46941,
       "num": 46941,
       "word": "柳岩谈做子宫肌瘤手术",
@@ -8595,8 +8739,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46181,
+      "num": 184823,
+      "word": "73岁老人相亲上头后女方消失了",
+      "onboard_time": 1735034360,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46166,
-      "num": 117907,
+      "num": 206966,
       "word": "小小的我 给观众的信",
       "onboard_time": 1735032379,
       "rank": 43,
@@ -8913,6 +9065,14 @@
       "onboard_time": 1735012877,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 39053,
+      "num": 249403,
+      "word": "王奕周诗雨真心话连麦",
+      "onboard_time": 1735035259,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 38936,
@@ -9441,6 +9601,14 @@
       "onboard_time": 1735025179,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 28972,
+      "num": 184510,
+      "word": "野孩子 好好长大记得开心",
+      "onboard_time": 1735033879,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 28937,
