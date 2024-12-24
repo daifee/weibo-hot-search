@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735046771910,
+  "endTime": 1735047443741,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -563,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 951753,
+      "num": 722360,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 946804,
       "num": 946804,
       "word": "不少孩子当代练挣钱玩游戏",
@@ -649,14 +657,6 @@
       "onboard_time": 1734938356,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 858139,
-      "num": 719647,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 849776,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 735427,
+      "num": 735427,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 732563,
       "num": 732563,
       "word": "猴哥说车妻子已见律师",
@@ -889,14 +897,6 @@
       "onboard_time": 1735000760,
       "rank": 11,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 708222,
-      "num": 708222,
-      "word": "辛巴咳嗽不止自曝患病",
-      "onboard_time": 1735044019,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 706594,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1734949458,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 636851,
+      "num": 636851,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 636043,
@@ -2195,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365587,
-      "num": 365587,
-      "word": "小米su7被大众追尾后者当场起火",
-      "onboard_time": 1735045819,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 362870,
       "num": 362870,
       "word": "恋与深空3.0万象遇你",
@@ -2315,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345219,
+      "num": 345219,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 341331,
       "num": 431543,
       "word": "郭敬明发夏之光原始帧",
@@ -2409,14 +2417,6 @@
       "onboard_time": 1735022179,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326937,
-      "num": 326937,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 326332,
@@ -3283,6 +3283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229241,
+      "num": 277442,
+      "word": "郭柯宇称明星戴墨镜口罩很讽刺",
+      "onboard_time": 1735046542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228293,
       "num": 228293,
       "word": "马航一航班起飞后紧急折返",
@@ -3779,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204677,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204457,
       "num": 204457,
       "word": "被抱养拒认亲女子否认得布病",
@@ -4259,6 +4275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 189239,
+      "num": 189239,
+      "word": "左奇函smoke",
+      "onboard_time": 1735046959,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "任嘉伦状态",
@@ -4345,6 +4369,14 @@
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187255,
+      "num": 187255,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 187209,
@@ -4504,14 +4536,6 @@
       "word": "张真源客串九重紫",
       "onboard_time": 1734910696,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 180105,
-      "num": 180105,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -4947,12 +4971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166175,
-      "num": 282118,
-      "word": "虎牙楚河",
-      "onboard_time": 1735045759,
-      "rank": 24,
-      "category": "电竞"
+      "raw_hot": 166444,
+      "num": 166444,
+      "word": "锦衣卫",
+      "onboard_time": 1735045159,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 166136,
@@ -5139,6 +5163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 160349,
+      "num": 160349,
+      "word": "美国女政客叫嚣处决杀害美国人的移民",
+      "onboard_time": 1735043839,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160266,
       "num": 160266,
       "word": "工地负责人回应地铁遭吊车侵入",
@@ -5251,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157955,
+      "num": 208357,
+      "word": "圣诞穿搭",
+      "onboard_time": 1735046239,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 157308,
       "num": 157308,
       "word": "刘阳老师直播",
@@ -5283,14 +5323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156016,
-      "num": 156016,
-      "word": "锦衣卫",
-      "onboard_time": 1735045159,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 155756,
       "num": 155756,
       "word": "鱿鱼游戏2宣发",
@@ -5321,14 +5353,6 @@
       "onboard_time": 1734918797,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154542,
-      "num": 154542,
-      "word": "美国女政客叫嚣处决杀害美国人的移民",
-      "onboard_time": 1735043839,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154373,
@@ -5675,14 +5699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 146260,
-      "num": 146260,
-      "word": "郭柯宇称明星戴墨镜口罩很讽刺",
-      "onboard_time": 1735046542,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145642,
       "num": 191988,
       "word": "国色芳华依花辨心版海报",
@@ -5953,6 +5969,14 @@
       "onboard_time": 1734910696,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139478,
+      "num": 215129,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 139299,
@@ -6355,14 +6379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129373,
-      "num": 129373,
-      "word": "LPL解说考核结果疑似公布",
-      "onboard_time": 1735046419,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 129113,
       "num": 200623,
       "word": "光遇",
@@ -6531,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124980,
+      "num": 124980,
+      "word": "宋亚轩刘耀文张真源狗狗大片",
+      "onboard_time": 1735043477,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124955,
       "num": 124955,
       "word": "一图回顾2024国乒荣耀",
@@ -6696,14 +6720,6 @@
       "word": "朴志训颜值近况",
       "onboard_time": 1734941058,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 121200,
-      "num": 121200,
-      "word": "宋亚轩刘耀文张真源狗狗大片",
-      "onboard_time": 1735043477,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -7339,14 +7355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107092,
-      "num": 192813,
-      "word": "圣诞穿搭",
-      "onboard_time": 1735046239,
-      "rank": 29,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 106913,
       "num": 106913,
       "word": "湖北一养老院被指窗户无玻璃环境差",
@@ -7361,6 +7369,14 @@
       "onboard_time": 1735039938,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106471,
+      "num": 106471,
+      "word": "圣诞文案",
+      "onboard_time": 1735041559,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 106389,
@@ -8595,6 +8611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64049,
+      "num": 322903,
+      "word": "2024电影名场面",
+      "onboard_time": 1735045940,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63595,
       "num": 224918,
       "word": "剑网三",
@@ -9283,6 +9307,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 47283,
+      "num": 741519,
+      "word": "哈尔滨冰雪大世界有多火",
+      "onboard_time": 1735046780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46941,
       "num": 46941,
       "word": "柳岩谈做子宫肌瘤手术",
@@ -9411,6 +9443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 44793,
+      "num": 206279,
+      "word": "辛巴自曝受健康问题困扰多年",
+      "onboard_time": 1735047379,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 44767,
       "num": 290853,
       "word": "戚薇烧烤店给粉丝买单",
@@ -9457,6 +9497,14 @@
       "onboard_time": 1734953299,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43262,
+      "num": 275724,
+      "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
+      "onboard_time": 1735046119,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 43225,
@@ -9587,14 +9635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40821,
-      "num": 210183,
-      "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
-      "onboard_time": 1735046119,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 40631,
       "num": 322460,
       "word": "公司霸凌员工要求其抄写心经",
@@ -9625,14 +9665,6 @@
       "onboard_time": 1735008497,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 40245,
-      "num": 322903,
-      "word": "2024电影名场面",
-      "onboard_time": 1735045940,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 39876,
@@ -9703,6 +9735,14 @@
       "num": 265930,
       "word": "当地回应公司通知不加班罚款50元",
       "onboard_time": 1734966141,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38460,
+      "num": 322219,
+      "word": "过半省份拥有痛经假但很难申请",
+      "onboard_time": 1735046059,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -10459,14 +10499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22864,
-      "num": 322219,
-      "word": "过半省份拥有痛经假但很难申请",
-      "onboard_time": 1735046059,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22612,
       "num": 46544,
       "word": "演员于适为何爱上了骑射",
@@ -10505,6 +10537,14 @@
       "onboard_time": 1734933138,
       "rank": 22,
       "category": "综艺,数码"
+    },
+    {
+      "raw_hot": 21913,
+      "num": 206935,
+      "word": "桃花坞反转短片放映会",
+      "onboard_time": 1735044259,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 21469,
@@ -10865,6 +10905,14 @@
       "onboard_time": 1734987731,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10229,
+      "num": 205343,
+      "word": "朱珠给女儿的话是要爱自己",
+      "onboard_time": 1735047139,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 10039,

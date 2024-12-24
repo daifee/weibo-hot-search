@@ -1,0 +1,410 @@
+{
+  "runTime": 1735047443741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1347371,
+        "num": 1347371,
+        "word": "2025年总台春晚分会场发布",
+        "onboard_time": 1735042340,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782613,
+        "num": 782613,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47283,
+        "num": 741519,
+        "word": "哈尔滨冰雪大世界有多火",
+        "onboard_time": 1735046780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735427,
+        "num": 735427,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 724054,
+        "num": 724054,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951753,
+        "num": 722360,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 681524,
+        "num": 681524,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 636851,
+        "num": 636851,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 604988,
+        "num": 604988,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 545625,
+        "num": 545625,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421440,
+        "num": 421440,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367097,
+        "num": 367097,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345219,
+        "num": 345219,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302313,
+        "num": 302313,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298290,
+        "num": 298290,
+        "word": "张桂梅的学生已成教师医生护士",
+        "onboard_time": 1735036459,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 245058,
+        "num": 280826,
+        "word": "田曦薇李一桐你们根本没喝中药",
+        "onboard_time": 1735039038,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229241,
+        "num": 277442,
+        "word": "郭柯宇称明星戴墨镜口罩很讽刺",
+        "onboard_time": 1735046542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276090,
+        "num": 276090,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43262,
+        "num": 275724,
+        "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
+        "onboard_time": 1735046119,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38460,
+        "num": 264683,
+        "word": "过半省份拥有痛经假但很难申请",
+        "onboard_time": 1735046059,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64049,
+        "num": 258764,
+        "word": "2024电影名场面",
+        "onboard_time": 1735045940,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 462413,
+        "num": 253255,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252716,
+        "num": 252716,
+        "word": "高校回应安置男博士配偶工作",
+        "onboard_time": 1735042638,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251717,
+        "num": 251717,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139478,
+        "num": 215129,
+        "word": "LPL解说考核结果疑似公布",
+        "onboard_time": 1735046419,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208427,
+        "num": 208427,
+        "word": "何炅 最怕突然的沉默",
+        "onboard_time": 1735041559,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 208357,
+        "word": "圣诞穿搭",
+        "onboard_time": 1735046239,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 21913,
+        "num": 206935,
+        "word": "桃花坞反转短片放映会",
+        "onboard_time": 1735044259,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44793,
+        "num": 206279,
+        "word": "辛巴自曝受健康问题困扰多年",
+        "onboard_time": 1735047379,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 10229,
+        "num": 205343,
+        "word": "朱珠给女儿的话是要爱自己",
+        "onboard_time": 1735047139,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204677,
+        "num": 204677,
+        "word": "虎牙楚河",
+        "onboard_time": 1735045759,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189239,
+        "num": 189239,
+        "word": "左奇函smoke",
+        "onboard_time": 1735046959,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187255,
+        "num": 187255,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176954,
+        "num": 176954,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172978,
+        "num": 172978,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "杜城沈翊 这算工伤了",
+        "onboard_time": 1735044439,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166444,
+        "num": 166444,
+        "word": "锦衣卫",
+        "onboard_time": 1735045159,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163514,
+        "num": 163514,
+        "word": "程潇上学时追星宋茜",
+        "onboard_time": 1735045819,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160349,
+        "num": 160349,
+        "word": "美国女政客叫嚣处决杀害美国人的移民",
+        "onboard_time": 1735043839,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157800,
+        "num": 157800,
+        "word": "老师背着4个月女儿上课",
+        "onboard_time": 1735041078,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "宋旻浩消极服役惹众怒",
+        "onboard_time": 1735045038,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149648,
+        "num": 149648,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 138897,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138302,
+        "num": 138302,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133981,
+        "num": 133981,
+        "word": "永夜星河热播期集均4131万",
+        "onboard_time": 1735045399,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124980,
+        "num": 124980,
+        "word": "宋亚轩刘耀文张真源狗狗大片",
+        "onboard_time": 1735043477,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124460,
+        "num": 124460,
+        "word": "近三年净水器抽检合格不到7成",
+        "onboard_time": 1735043718,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120907,
+        "num": 120907,
+        "word": "孟子义是李昀锐的特笑药",
+        "onboard_time": 1735037899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106471,
+        "num": 106471,
+        "word": "圣诞文案",
+        "onboard_time": 1735041559,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105416,
+        "num": 105416,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
