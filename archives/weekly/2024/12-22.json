@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735047443741,
+  "endTime": 1735050014738,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -249,6 +249,14 @@
       "onboard_time": 1734855018,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1363941,
+      "num": 1363941,
+      "word": "春晚分会场是会选址的",
+      "onboard_time": 1735048579,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1348127,
@@ -707,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 798198,
+      "num": 798198,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 797069,
       "num": 797069,
       "word": "宋祖儿 演员请就位3",
@@ -1083,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 636851,
-      "num": 636851,
-      "word": "小米su7被大众追尾后者当场起火",
-      "onboard_time": 1735045819,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -1459,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527070,
+      "num": 527070,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 526141,
       "num": 325516,
       "word": "华筝 草原公主",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1735018699,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 474762,
-      "num": 474762,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 470683,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1734921436,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 427724,
+      "num": 427724,
+      "word": "因穿高跟鞋走红男子带火一个村",
+      "onboard_time": 1735047619,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427008,
@@ -2139,6 +2155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 376145,
+      "num": 376145,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 374231,
       "num": 321778,
       "word": "于洋喝错孟子义的咖啡",
@@ -2259,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356936,
+      "num": 356936,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356218,
       "num": 356218,
       "word": "武汉下雪",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1734792980,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350686,
+      "num": 319754,
+      "word": "九重紫制片人谈选角孟子义",
+      "onboard_time": 1735047560,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 350592,
@@ -2315,14 +2355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345219,
-      "num": 345219,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 341331,
       "num": 431543,
       "word": "郭敬明发夏之光原始帧",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1734928519,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339198,
+      "num": 339198,
+      "word": "央视揭电子医保卡村推骗局",
+      "onboard_time": 1735047439,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 338603,
@@ -2995,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258415,
+      "num": 258415,
+      "word": "左奇函smoke",
+      "onboard_time": 1735046959,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258045,
       "num": 258045,
       "word": "重庆理工通报硕士失联",
@@ -3531,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216723,
+      "num": 216723,
+      "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+      "onboard_time": 1735047919,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216238,
       "num": 216238,
       "word": "为什么iPhone信号不如国产手机",
@@ -3545,6 +3601,14 @@
       "onboard_time": 1735017019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215585,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 215246,
@@ -3787,14 +3851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204677,
-      "num": 282118,
-      "word": "虎牙楚河",
-      "onboard_time": 1735045759,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204457,
       "num": 204457,
       "word": "被抱养拒认亲女子否认得布病",
@@ -4035,6 +4091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195718,
+      "num": 195718,
+      "word": "丁禹兮工作室花絮放送",
+      "onboard_time": 1735048999,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195536,
       "num": 195536,
       "word": "孩子随口一句话男子把家砸烂",
@@ -4075,6 +4139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194891,
+      "num": 194891,
+      "word": "虞书欣 吸血鬼之家打卡",
+      "onboard_time": 1735048940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194722,
       "num": 404359,
       "word": "恋与制作人跨年烟花",
@@ -4089,6 +4161,14 @@
       "onboard_time": 1735012999,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194239,
+      "num": 194239,
+      "word": "朱志鑫苏新皓他拍的",
+      "onboard_time": 1735049421,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194219,
@@ -4275,14 +4355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189239,
-      "num": 189239,
-      "word": "左奇函smoke",
-      "onboard_time": 1735046959,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 189077,
       "num": 189077,
       "word": "任嘉伦状态",
@@ -4369,14 +4441,6 @@
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187255,
-      "num": 187255,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 187209,
@@ -4827,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169972,
+      "num": 805518,
+      "word": "哈尔滨冰雪大世界有多火",
+      "onboard_time": 1735046780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169880,
       "num": 169880,
       "word": "起底吴柳芳背后MCN大海星辰",
@@ -5139,6 +5211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161079,
+      "num": 161079,
+      "word": "27岁的樊振东12年集齐超级全满贯",
+      "onboard_time": 1735047439,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
@@ -5305,6 +5385,14 @@
       "onboard_time": 1734848958,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157057,
+      "num": 215129,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 156484,
@@ -5593,6 +5681,14 @@
       "onboard_time": 1734843916,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 149550,
+      "num": 149550,
+      "word": "369战胜TheShy",
+      "onboard_time": 1735047861,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 149016,
@@ -5969,14 +6065,6 @@
       "onboard_time": 1734910696,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139478,
-      "num": 215129,
-      "word": "LPL解说考核结果疑似公布",
-      "onboard_time": 1735046419,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 139299,
@@ -7251,6 +7339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 109617,
+      "num": 215599,
+      "word": "撞死网红狼司机疑似未主动救治",
+      "onboard_time": 1735049960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109235,
       "num": 569171,
       "word": "社区回应女子遭压路机辗压身亡",
@@ -7395,6 +7491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105864,
+      "num": 262498,
+      "word": "369赢得solo选边",
+      "onboard_time": 1735049541,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105767,
       "num": 105767,
       "word": "房东偷装摄像头偷窥租客获刑半年",
@@ -7411,11 +7515,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105075,
+      "num": 361471,
+      "word": "球友打羽毛球猝死球馆判赔20余万",
+      "onboard_time": 1735049359,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105055,
       "num": 105055,
       "word": "李宇春周笔畅超女后首同台",
       "onboard_time": 1734880761,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104764,
+      "num": 195037,
+      "word": "去年春晚你印象最深的歌曲",
+      "onboard_time": 1735049900,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -8339,6 +8459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71972,
+      "num": 352076,
+      "word": "朱慧敏怀二胎",
+      "onboard_time": 1735045578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71955,
       "num": 255518,
       "word": "男孩街头走失男子脱羽绒服为其取暖",
@@ -8987,6 +9115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53798,
+      "num": 340026,
+      "word": "TES赢下LPL忍界大战",
+      "onboard_time": 1735049479,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53586,
       "num": 53586,
       "word": "考研查分空窗期",
@@ -9305,14 +9441,6 @@
       "onboard_time": 1734801194,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 47283,
-      "num": 741519,
-      "word": "哈尔滨冰雪大世界有多火",
-      "onboard_time": 1735046780,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46941,
@@ -10459,6 +10587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24880,
+      "num": 154905,
+      "word": "田嘉瑞时装男士封面大片",
+      "onboard_time": 1735047680,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 24762,
       "num": 58761,
       "word": "任嘉伦获年度时尚影响力艺人",
@@ -10611,6 +10747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19429,
+      "num": 215653,
+      "word": "双一流扩容湖北哪些高校能翻盘",
+      "onboard_time": 1735049479,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19122,
       "num": 23821,
       "word": "真人秀制作人被提名为美国驻英特使",
@@ -10713,6 +10857,14 @@
       "onboard_time": 1734810372,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16521,
+      "num": 342583,
+      "word": "刘雅瑟扫楼还健上身了",
+      "onboard_time": 1735048881,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 16226,

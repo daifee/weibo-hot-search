@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735047443741,
+  "endTime": 1735050014738,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2432,6 +2432,14 @@
       "word": "疑似李行亮已黑化",
       "onboard_time": 1734617839,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1363941,
+      "num": 1363941,
+      "word": "春晚分会场是会选址的",
+      "onboard_time": 1735048579,
+      "rank": 0,
       "category": "综艺"
     },
     {
@@ -6843,6 +6851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 798198,
+      "num": 798198,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 797337,
       "num": 797337,
       "word": "母女二人拒不让座被乘警带走",
@@ -9683,14 +9699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 636851,
-      "num": 636851,
-      "word": "小米su7被大众追尾后者当场起火",
-      "onboard_time": 1735045819,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 636303,
       "num": 636303,
       "word": "孙颖莎 彼此之间的信任一直都在",
@@ -12491,6 +12499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527070,
+      "num": 527070,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 526845,
       "num": 386038,
       "word": "你以为很干净但实际很脏的东西",
@@ -14033,14 +14049,6 @@
       "onboard_time": 1734607938,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 474762,
-      "num": 474762,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 474501,
@@ -15857,6 +15865,14 @@
       "onboard_time": 1734921436,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 427724,
+      "num": 427724,
+      "word": "因穿高跟鞋走红男子带火一个村",
+      "onboard_time": 1735047619,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 427698,
@@ -18163,6 +18179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376145,
+      "num": 376145,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 375639,
       "num": 375639,
       "word": "尹锡悦说将肃清国内反国家势力",
@@ -19043,6 +19067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 356936,
+      "num": 356936,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356918,
       "num": 356918,
       "word": "孟子义回应摇人宣新剧",
@@ -19395,6 +19427,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 350686,
+      "num": 319754,
+      "word": "九重紫制片人谈选角孟子义",
+      "onboard_time": 1735047560,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350592,
       "num": 350592,
       "word": "今冬数九时间表",
@@ -19673,14 +19713,6 @@
       "onboard_time": 1734505159,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345219,
-      "num": 345219,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 345178,
@@ -20009,6 +20041,14 @@
       "onboard_time": 1734928519,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339198,
+      "num": 339198,
+      "word": "央视揭电子医保卡村推骗局",
+      "onboard_time": 1735047439,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 339076,
@@ -25187,6 +25227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258415,
+      "num": 258415,
+      "word": "左奇函smoke",
+      "onboard_time": 1735046959,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258386,
       "num": 253335,
       "word": "韩东君终于光膀子背双肩包了",
@@ -29779,6 +29827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216723,
+      "num": 216723,
+      "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+      "onboard_time": 1735047919,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216719,
       "num": 216719,
       "word": "赵丽颖12月行程已送达",
@@ -29937,6 +29993,14 @@
       "onboard_time": 1733646860,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215585,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 215542,
@@ -31953,14 +32017,6 @@
       "onboard_time": 1734347960,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204677,
-      "num": 282118,
-      "word": "虎牙楚河",
-      "onboard_time": 1735045759,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 204641,
@@ -34283,6 +34339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195718,
+      "num": 195718,
+      "word": "丁禹兮工作室花絮放送",
+      "onboard_time": 1735048999,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195704,
       "num": 195704,
       "word": "王鹤棣电影亮相鹿特丹电影节展映单元",
@@ -34611,6 +34675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194891,
+      "num": 194891,
+      "word": "虞书欣 吸血鬼之家打卡",
+      "onboard_time": 1735048940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194813,
       "num": 151462,
       "word": "周深演唱会",
@@ -34817,6 +34889,14 @@
       "onboard_time": 1734353599,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194239,
+      "num": 194239,
+      "word": "朱志鑫苏新皓他拍的",
+      "onboard_time": 1735049421,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194219,
@@ -36435,14 +36515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189239,
-      "num": 189239,
-      "word": "左奇函smoke",
-      "onboard_time": 1735046959,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 189197,
       "num": 257297,
       "word": "孟子义李昀锐九重紫热度破28000",
@@ -37081,14 +37153,6 @@
       "onboard_time": 1733556499,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187255,
-      "num": 187255,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 187252,
@@ -41211,6 +41275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169972,
+      "num": 805518,
+      "word": "哈尔滨冰雪大世界有多火",
+      "onboard_time": 1735046780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169958,
       "num": 177462,
       "word": "乒超直播",
@@ -43707,6 +43779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161079,
+      "num": 161079,
+      "word": "27岁的樊振东12年集齐超级全满贯",
+      "onboard_time": 1735047439,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161062,
       "num": 161062,
       "word": "体重正常想用司美格鲁肽变瘦被拒",
@@ -45017,6 +45097,14 @@
       "onboard_time": 1733104278,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157057,
+      "num": 215129,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 156996,
@@ -47505,6 +47593,14 @@
       "onboard_time": 1733390719,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149550,
+      "num": 149550,
+      "word": "369战胜TheShy",
+      "onboard_time": 1735047861,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 149538,
@@ -50545,14 +50641,6 @@
       "onboard_time": 1733196140,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 139478,
-      "num": 215129,
-      "word": "LPL解说考核结果疑似公布",
-      "onboard_time": 1735046419,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 139466,
@@ -58955,6 +59043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109617,
+      "num": 215599,
+      "word": "撞死网红狼司机疑似未主动救治",
+      "onboard_time": 1735049960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109599,
       "num": 110016,
       "word": "为鼓励学生早起学校供应免费早餐",
@@ -59979,6 +60075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105864,
+      "num": 262498,
+      "word": "369赢得solo选边",
+      "onboard_time": 1735049541,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105816,
       "num": 268880,
       "word": "明道张栋梁汪东城回忆杀",
@@ -60155,6 +60259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105075,
+      "num": 361471,
+      "word": "球友打羽毛球猝死球馆判赔20余万",
+      "onboard_time": 1735049359,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105074,
       "num": 105074,
       "word": "机动车行驶证电子化在全国全面推行",
@@ -60201,6 +60313,14 @@
       "onboard_time": 1734766577,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104764,
+      "num": 195037,
+      "word": "去年春晚你印象最深的歌曲",
+      "onboard_time": 1735049900,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 104761,
@@ -66803,6 +66923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71972,
+      "num": 352076,
+      "word": "朱慧敏怀二胎",
+      "onboard_time": 1735045578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71959,
       "num": 283568,
       "word": "祝绪丹永夜星河团综vlog",
@@ -71131,6 +71259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53798,
+      "num": 340026,
+      "word": "TES赢下LPL忍界大战",
+      "onboard_time": 1735049479,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53752,
       "num": 68296,
       "word": "律师称不能在网络上无成本肆意妄为",
@@ -73064,14 +73200,6 @@
       "word": "薅失业保险羊毛把自己薅进去了",
       "onboard_time": 1734589159,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47283,
-      "num": 741519,
-      "word": "哈尔滨冰雪大世界有多火",
-      "onboard_time": 1735046780,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -81091,6 +81219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24880,
+      "num": 154905,
+      "word": "田嘉瑞时装男士封面大片",
+      "onboard_time": 1735047680,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 24765,
       "num": 193181,
       "word": "国产刑侦剧在年轻人里C位出道",
@@ -82787,6 +82923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19429,
+      "num": 215653,
+      "word": "双一流扩容湖北哪些高校能翻盘",
+      "onboard_time": 1735049479,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 19404,
       "num": 49512,
       "word": "射雕英雄传侠之大者将在海外上映",
@@ -83785,6 +83929,14 @@
       "onboard_time": 1733268859,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16521,
+      "num": 342583,
+      "word": "刘雅瑟扫楼还健上身了",
+      "onboard_time": 1735048881,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 16520,

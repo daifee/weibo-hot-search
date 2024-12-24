@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735047443741,
+  "endTime": 1735050014738,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -81,6 +81,14 @@
       "onboard_time": 1735007897,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1363941,
+      "num": 1363941,
+      "word": "春晚分会场是会选址的",
+      "onboard_time": 1735048579,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1204285,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 798198,
+      "num": 798198,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 794089,
       "num": 794089,
       "word": "蒋欣瘦了20斤",
@@ -297,14 +313,6 @@
       "onboard_time": 1734967698,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 636851,
-      "num": 636851,
-      "word": "小米su7被大众追尾后者当场起火",
-      "onboard_time": 1735045819,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 618799,
@@ -467,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527070,
+      "num": 527070,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 514654,
       "num": 396079,
       "word": "WPS父主题",
@@ -507,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474762,
-      "num": 474762,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 467166,
       "num": 292442,
       "word": "孙恩盛 何秋亊",
@@ -553,6 +561,14 @@
       "onboard_time": 1735032319,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 427724,
+      "num": 427724,
+      "word": "因穿高跟鞋走红男子带火一个村",
+      "onboard_time": 1735047619,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419026,
@@ -667,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 376145,
+      "num": 376145,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 372664,
       "num": 372664,
       "word": "A股现4亿天价离婚案",
@@ -707,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356936,
+      "num": 356936,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350686,
+      "num": 319754,
+      "word": "九重紫制片人谈选角孟子义",
+      "onboard_time": 1735047560,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349695,
       "num": 349695,
       "word": "考研英语老师刘晓艳纪录片",
@@ -723,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345219,
-      "num": 345219,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 342070,
       "num": 194927,
       "word": "她还没上桌蛋糕分完了",
@@ -745,6 +777,14 @@
       "onboard_time": 1735032620,
       "rank": 38,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 339198,
+      "num": 339198,
+      "word": "央视揭电子医保卡村推骗局",
+      "onboard_time": 1735047439,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 337872,
@@ -947,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258415,
+      "num": 258415,
+      "word": "左奇函smoke",
+      "onboard_time": 1735046959,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257869,
       "num": 257869,
       "word": "长津湖",
@@ -1075,12 +1123,28 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 216723,
+      "num": 216723,
+      "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+      "onboard_time": 1735047919,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216179,
       "num": 284749,
       "word": "庆王 该父皇向您跪着",
       "onboard_time": 1735017019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215585,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 213357,
@@ -1171,14 +1235,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 204677,
-      "num": 282118,
-      "word": "虎牙楚河",
-      "onboard_time": 1735045759,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 204432,
       "num": 204432,
       "word": "明年适当提高退休人员基本养老金",
@@ -1235,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195718,
+      "num": 195718,
+      "word": "丁禹兮工作室花絮放送",
+      "onboard_time": 1735048999,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195536,
       "num": 195536,
       "word": "孩子随口一句话男子把家砸烂",
@@ -1251,12 +1315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194891,
+      "num": 194891,
+      "word": "虞书欣 吸血鬼之家打卡",
+      "onboard_time": 1735048940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194406,
       "num": 245395,
       "word": "檀健次登顶ELLE历史销量第一",
       "onboard_time": 1735012999,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194239,
+      "num": 194239,
+      "word": "朱志鑫苏新皓他拍的",
+      "onboard_time": 1735049421,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194219,
@@ -1331,14 +1411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 189239,
-      "num": 189239,
-      "word": "左奇函smoke",
-      "onboard_time": 1735046959,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188813,
       "num": 188813,
       "word": "张馨予 价值观是个好东西",
@@ -1377,14 +1449,6 @@
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187255,
-      "num": 187255,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 187145,
@@ -1531,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169972,
+      "num": 805518,
+      "word": "哈尔滨冰雪大世界有多火",
+      "onboard_time": 1735046780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169880,
       "num": 169880,
       "word": "起底吴柳芳背后MCN大海星辰",
@@ -1627,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161079,
+      "num": 161079,
+      "word": "27岁的樊振东12年集齐超级全满贯",
+      "onboard_time": 1735047439,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
@@ -1715,6 +1795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 157057,
+      "num": 215129,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154338,
       "num": 154338,
       "word": "于正签约天选古人上演员3",
@@ -1761,6 +1849,14 @@
       "onboard_time": 1735006036,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149550,
+      "num": 149550,
+      "word": "369战胜TheShy",
+      "onboard_time": 1735047861,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 148988,
@@ -1929,14 +2025,6 @@
       "onboard_time": 1735026199,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 139478,
-      "num": 215129,
-      "word": "LPL解说考核结果疑似公布",
-      "onboard_time": 1735046419,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 139168,
@@ -2363,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109617,
+      "num": 215599,
+      "word": "撞死网红狼司机疑似未主动救治",
+      "onboard_time": 1735049960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108536,
       "num": 108536,
       "word": "李一桐西藏到底有谁在啊",
@@ -2411,12 +2507,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105864,
+      "num": 262498,
+      "word": "369赢得solo选边",
+      "onboard_time": 1735049541,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105767,
       "num": 105767,
       "word": "房东偷装摄像头偷窥租客获刑半年",
       "onboard_time": 1735009877,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105075,
+      "num": 361471,
+      "word": "球友打羽毛球猝死球馆判赔20余万",
+      "onboard_time": 1735049359,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104764,
+      "num": 195037,
+      "word": "去年春晚你印象最深的歌曲",
+      "onboard_time": 1735049900,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 103322,
@@ -2755,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71972,
+      "num": 352076,
+      "word": "朱慧敏怀二胎",
+      "onboard_time": 1735045578,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70638,
       "num": 70638,
       "word": "涉事企业作废冰雪大世界禁玩令",
@@ -3011,6 +3139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53798,
+      "num": 340026,
+      "word": "TES赢下LPL忍界大战",
+      "onboard_time": 1735049479,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53446,
       "num": 374533,
       "word": "冰雪大世界近一周门票已售罄",
@@ -3128,14 +3264,6 @@
       "word": "网约车司机称想要干净整洁但没时间",
       "onboard_time": 1735031837,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47283,
-      "num": 741519,
-      "word": "哈尔滨冰雪大世界有多火",
-      "onboard_time": 1735046780,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3595,6 +3723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 24880,
+      "num": 154905,
+      "word": "田嘉瑞时装男士封面大片",
+      "onboard_time": 1735047680,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
@@ -3651,6 +3787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19429,
+      "num": 215653,
+      "word": "双一流扩容湖北哪些高校能翻盘",
+      "onboard_time": 1735049479,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 18906,
       "num": 24999,
       "word": "于适 给人看我做得多牛",
@@ -3681,6 +3825,14 @@
       "onboard_time": 1735032560,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16521,
+      "num": 342583,
+      "word": "刘雅瑟扫楼还健上身了",
+      "onboard_time": 1735048881,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 16021,
