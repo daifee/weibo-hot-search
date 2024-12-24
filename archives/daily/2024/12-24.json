@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735018723422,
+  "endTime": 1735021872235,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -17,6 +17,14 @@
       "onboard_time": 1735003519,
       "rank": 10,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1711908,
+      "num": 1711908,
+      "word": "普京谈俄罗斯色情泛滥",
+      "onboard_time": 1735017980,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1597343,
@@ -51,12 +59,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1228514,
-      "num": 240790,
-      "word": "普京谈俄罗斯色情泛滥",
-      "onboard_time": 1735017980,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 1279350,
+      "num": 1279350,
+      "word": "张馨予为何捷发声",
+      "onboard_time": 1735020259,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1194862,
@@ -81,6 +89,14 @@
       "onboard_time": 1735008738,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1046255,
+      "num": 1046255,
+      "word": "疑似可可西里网红狼被大货车压死",
+      "onboard_time": 1735017260,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1020394,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546122,
+      "num": 546122,
+      "word": "我的微博播报",
+      "onboard_time": 1735018158,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 539380,
       "num": 539380,
       "word": "蛇年纪念币预约",
@@ -251,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 459723,
-      "num": 459723,
-      "word": "疑似可可西里网红狼被大货车压死",
-      "onboard_time": 1735017260,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 454236,
       "num": 254602,
       "word": "全红婵17岁正是爱美的年纪",
@@ -273,14 +289,6 @@
       "onboard_time": 1735015700,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 449246,
-      "num": 449246,
-      "word": "我的微博播报",
-      "onboard_time": 1735018158,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 419026,
@@ -313,6 +321,14 @@
       "onboard_time": 1735007357,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 408803,
+      "num": 408803,
+      "word": "3女生考研最后一科被反锁酒店",
+      "onboard_time": 1735018699,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 403520,
@@ -523,11 +539,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245772,
-      "num": 245772,
-      "word": "3女生考研最后一科被反锁酒店",
-      "onboard_time": 1735018699,
-      "rank": 25,
+      "raw_hot": 251471,
+      "num": 211135,
+      "word": "骄阳似我吻戏",
+      "onboard_time": 1735019598,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250927,
+      "num": 250927,
+      "word": "吉林一家三口开车坠江车辆已找到",
+      "onboard_time": 1735019359,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -561,6 +585,14 @@
       "onboard_time": 1734961640,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223066,
+      "num": 319146,
+      "word": "90后TVB女演员在餐厅洗碗洗厕所",
+      "onboard_time": 1735017260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 221502,
@@ -635,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203120,
+      "num": 242741,
+      "word": "白鹿 菩提树下站猴都美",
+      "onboard_time": 1735017679,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200394,
       "num": 200394,
       "word": "尹锡悦各种拒收",
@@ -667,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190851,
+      "num": 190851,
+      "word": "明年适当提高退休人员基本养老金",
+      "onboard_time": 1735020618,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189516,
       "num": 189516,
       "word": "76人马刺比赛失控",
@@ -681,6 +729,14 @@
       "onboard_time": 1735007658,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188813,
+      "num": 188813,
+      "word": "张馨予 价值观是个好东西",
+      "onboard_time": 1735018939,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 187836,
@@ -723,12 +779,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 184647,
+      "num": 184647,
+      "word": "瑞幸咖啡全面核查蟑螂事件",
+      "onboard_time": 1735020199,
+      "rank": 31,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 182504,
       "num": 182504,
       "word": "74年前他们以战斗队形冻成冰人",
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179774,
+      "num": 179774,
+      "word": "碎花裙女孩火了后拒绝直播带货",
+      "onboard_time": 1735021460,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 179190,
@@ -747,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173176,
+      "num": 173176,
+      "word": "南方人洗澡现状",
+      "onboard_time": 1735017140,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172692,
       "num": 172692,
       "word": "美媒爆特朗普女儿伊万卡不会重返政坛",
@@ -761,6 +841,22 @@
       "onboard_time": 1734949458,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170714,
+      "num": 170714,
+      "word": "演员请就位3首录路透",
+      "onboard_time": 1735021218,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170440,
+      "num": 170440,
+      "word": "专家谈年轻人买房该出手时就出手",
+      "onboard_time": 1735019598,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169880,
@@ -787,14 +883,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 168733,
-      "num": 242741,
-      "word": "白鹿 菩提树下站猴都美",
-      "onboard_time": 1735017679,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167762,
       "num": 167762,
       "word": "遭恶犬咬伤男童目前情况基本平稳",
@@ -811,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161670,
+      "num": 161670,
+      "word": "游戏玩家网上泄密惊动意国防部",
+      "onboard_time": 1735019479,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
       "onboard_time": 1735000698,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 160788,
+      "num": 160788,
+      "word": "陈乔恩Alan婚后综艺首秀",
+      "onboard_time": 1735020979,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 159650,
@@ -833,6 +937,22 @@
       "onboard_time": 1735014141,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159556,
+      "num": 159556,
+      "word": "官方称公路等待投喂的狼有四五只",
+      "onboard_time": 1735020199,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159253,
+      "num": 159253,
+      "word": "登陆少年最美中轴线录制",
+      "onboard_time": 1735021039,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 158961,
@@ -915,12 +1035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141656,
-      "num": 319146,
-      "word": "90后TVB女演员在餐厅洗碗洗厕所",
-      "onboard_time": 1735017260,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 142075,
+      "num": 142075,
+      "word": "志愿军战士含泪讲述长津湖战场",
+      "onboard_time": 1735021398,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 141312,
@@ -1081,6 +1201,14 @@
       "onboard_time": 1735009217,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 117547,
+      "num": 163050,
+      "word": "JackeyLove说加入TES是因为正规",
+      "onboard_time": 1735020498,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 117005,
@@ -1347,6 +1475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 73994,
+      "num": 189255,
+      "word": "2024多彩的中国",
+      "onboard_time": 1735018218,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73164,
       "num": 73164,
       "word": "猎罪图鉴 爸爸的爸爸叫爸爸",
@@ -1408,6 +1544,14 @@
       "word": "汪苏泷说过年给650发双份红包",
       "onboard_time": 1735018699,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60933,
+      "num": 189811,
+      "word": "森林进化论2",
+      "onboard_time": 1735020318,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1475,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57086,
+      "num": 286374,
+      "word": "考古的风吹到了李昀锐",
+      "onboard_time": 1735020681,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56290,
       "num": 56290,
       "word": "圣诞节 鸡公煲",
@@ -1489,6 +1641,14 @@
       "onboard_time": 1734995834,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54981,
+      "num": 165859,
+      "word": "抗癌食物清单出炉",
+      "onboard_time": 1735019479,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 54026,
@@ -1523,12 +1683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51793,
+      "num": 203944,
+      "word": "王者苍英雄品质升级爆料",
+      "onboard_time": 1735018878,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 51360,
       "num": 202671,
       "word": "TheShy参加solo选边",
       "onboard_time": 1735006156,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 51138,
+      "num": 219595,
+      "word": "骗骗喜欢你人均行骗高手",
+      "onboard_time": 1735021098,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 51133,
@@ -1579,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44767,
+      "num": 290853,
+      "word": "戚薇烧烤店给粉丝买单",
+      "onboard_time": 1735017378,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44618,
       "num": 44618,
       "word": "猎罪图鉴2画像师原型满意檀健次表演",
@@ -1601,14 +1785,6 @@
       "onboard_time": 1735009157,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40970,
-      "num": 290853,
-      "word": "戚薇烧烤店给粉丝买单",
-      "onboard_time": 1735017378,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 40360,
@@ -1723,6 +1899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 30966,
+      "num": 214185,
+      "word": "刘学义OK开年刊双封面",
+      "onboard_time": 1735020859,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 30924,
       "num": 122006,
       "word": "9张图纪念一同见证的奥运年",
@@ -1740,7 +1924,7 @@
     },
     {
       "raw_hot": 30174,
-      "num": 1047249,
+      "num": 1106669,
       "word": "文化中国行守护非遗之美",
       "onboard_time": 1734986831,
       "rank": 9,
