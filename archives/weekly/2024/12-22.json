@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735045040082,
+  "endTime": 1735046771910,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -203,20 +203,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1495291,
+      "num": 1495291,
+      "word": "2025年总台春晚分会场发布",
+      "onboard_time": 1735042340,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1466670,
       "num": 1466670,
       "word": "张继科199元录播课3小时卖了25万元",
       "onboard_time": 1735013119,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1460666,
-      "num": 1460666,
-      "word": "2025年总台春晚分会场发布",
-      "onboard_time": 1735042340,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1430655,
@@ -651,12 +651,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 858139,
+      "num": 719647,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 849776,
       "num": 464582,
       "word": "数一 大题难",
       "onboard_time": 1734841157,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 843937,
+      "num": 843937,
+      "word": "银川地震",
+      "onboard_time": 1735045640,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 838879,
@@ -875,6 +891,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 708222,
+      "num": 708222,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 706594,
       "num": 706594,
       "word": "殡葬专业本科比其他专业高二三十分",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1734928339,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 649470,
-      "num": 609544,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 648859,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1734841638,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 575967,
+      "num": 575967,
+      "word": "新闻联播播出他生前最后一段影像",
+      "onboard_time": 1735044499,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575830,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1735018699,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474762,
+      "num": 474762,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 470683,
@@ -2155,20 +2187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366786,
-      "num": 366786,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 365608,
       "num": 365608,
       "word": "白鹿驯猴",
       "onboard_time": 1734964700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365587,
+      "num": 365587,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 362870,
@@ -2379,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326937,
+      "num": 326937,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 326332,
       "num": 326332,
       "word": "玄彬说孙艺珍和儿子是第一顺位",
@@ -2427,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321785,
+      "num": 336629,
+      "word": "张桂梅的学生已成教师医生护士",
+      "onboard_time": 1735036459,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 318812,
       "num": 318812,
       "word": "于适已将成为导演纳入规划",
@@ -2452,7 +2500,7 @@
     },
     {
       "raw_hot": 317473,
-      "num": 317473,
+      "num": 327062,
       "word": "何炅 最怕突然的沉默",
       "onboard_time": 1735041559,
       "rank": 11,
@@ -2659,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288707,
+      "num": 335686,
+      "word": "高校回应安置男博士配偶工作",
+      "onboard_time": 1735042638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288699,
       "num": 268927,
       "word": "明日方舟直播",
@@ -2844,7 +2900,7 @@
     },
     {
       "raw_hot": 271222,
-      "num": 271222,
+      "num": 326975,
       "word": "田曦薇李一桐你们根本没喝中药",
       "onboard_time": 1735039038,
       "rank": 48,
@@ -3259,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226091,
+      "num": 209383,
+      "word": "杜城沈翊 这算工伤了",
+      "onboard_time": 1735044439,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225919,
       "num": 319146,
       "word": "90后TVB女演员在餐厅洗碗洗厕所",
@@ -3579,14 +3643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208875,
-      "num": 208875,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208509,
       "num": 257632,
       "word": "粉丝帮宁艺卓结账",
@@ -3673,6 +3729,14 @@
       "onboard_time": 1734922158,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "程潇上学时追星宋茜",
+      "onboard_time": 1735045819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206386,
@@ -3825,14 +3889,6 @@
       "onboard_time": 1734845178,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199642,
-      "num": 227261,
-      "word": "辛巴咳嗽不止自曝患病",
-      "onboard_time": 1735044019,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 199545,
@@ -4299,14 +4355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187159,
-      "num": 336629,
-      "word": "张桂梅的学生已成教师医生护士",
-      "onboard_time": 1735036459,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 187145,
       "num": 178678,
       "word": "外交部回应考虑明年进口日本水产品",
@@ -4403,20 +4451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183768,
+      "num": 302369,
+      "word": "宋旻浩消极服役惹众怒",
+      "onboard_time": 1735045038,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183492,
       "num": 183492,
       "word": "DNA音乐节主办方道歉",
       "onboard_time": 1735034719,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 183104,
-      "num": 183104,
-      "word": "高校回应安置男博士配偶工作",
-      "onboard_time": 1735042638,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182733,
@@ -4456,6 +4504,14 @@
       "word": "张真源客串九重紫",
       "onboard_time": 1734910696,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180105,
+      "num": 180105,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -4553,6 +4609,14 @@
       "onboard_time": 1734860238,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 175949,
+      "num": 181275,
+      "word": "永夜星河热播期集均4131万",
+      "onboard_time": 1735045399,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175347,
@@ -4883,6 +4947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166175,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166136,
       "num": 163596,
       "word": "赵丽颖刘亦菲唐嫣最受关注演员",
@@ -5163,6 +5235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158204,
+      "num": 247679,
+      "word": "近三年净水器抽检合格不到7成",
+      "onboard_time": 1735043718,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158000,
       "num": 158000,
       "word": "医院回应产妇家中产女被拒开出生证",
@@ -5203,20 +5283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156016,
+      "num": 156016,
+      "word": "锦衣卫",
+      "onboard_time": 1735045159,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155756,
       "num": 155756,
       "word": "鱿鱼游戏2宣发",
       "onboard_time": 1734854778,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155709,
-      "num": 155709,
-      "word": "新闻联播播出他生前最后一段影像",
-      "onboard_time": 1735044499,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155372,
@@ -5595,6 +5675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "郭柯宇称明星戴墨镜口罩很讽刺",
+      "onboard_time": 1735046542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145642,
       "num": 191988,
       "word": "国色芳华依花辨心版海报",
@@ -5721,14 +5809,6 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142700,
-      "num": 247679,
-      "word": "近三年净水器抽检合格不到7成",
-      "onboard_time": 1735043718,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 142432,
@@ -5921,6 +6001,14 @@
       "onboard_time": 1734834858,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137575,
+      "num": 137575,
+      "word": "谢娜湿润的眼眶是母爱的具象化",
+      "onboard_time": 1735044919,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 137559,
@@ -6265,6 +6353,14 @@
       "onboard_time": 1734855319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129373,
+      "num": 129373,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 129113,
@@ -7243,6 +7339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107092,
+      "num": 192813,
+      "word": "圣诞穿搭",
+      "onboard_time": 1735046239,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 106913,
       "num": 106913,
       "word": "湖北一养老院被指窗户无玻璃环境差",
@@ -7273,14 +7377,6 @@
       "onboard_time": 1735002679,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 106095,
-      "num": 106095,
-      "word": "谢娜湿润的眼眶是母爱的具象化",
-      "onboard_time": 1735044919,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 105767,
@@ -7873,14 +7969,6 @@
       "onboard_time": 1735035018,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85615,
-      "num": 209383,
-      "word": "杜城沈翊 这算工伤了",
-      "onboard_time": 1735044439,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 85295,
@@ -9499,6 +9587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40821,
+      "num": 210183,
+      "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
+      "onboard_time": 1735046119,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40631,
       "num": 322460,
       "word": "公司霸凌员工要求其抄写心经",
@@ -9529,6 +9625,14 @@
       "onboard_time": 1735008497,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 40245,
+      "num": 322903,
+      "word": "2024电影名场面",
+      "onboard_time": 1735045940,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 39876,
@@ -10355,6 +10459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22864,
+      "num": 322219,
+      "word": "过半省份拥有痛经假但很难申请",
+      "onboard_time": 1735046059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22612,
       "num": 46544,
       "word": "演员于适为何爱上了骑射",
@@ -10441,6 +10553,14 @@
       "onboard_time": 1735010658,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19653,
+      "num": 705102,
+      "word": "冰雪微笑曲线",
+      "onboard_time": 1735030399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19525,
@@ -10715,14 +10835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10943,
-      "num": 705102,
-      "word": "冰雪微笑曲线",
-      "onboard_time": 1735030399,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10799,
       "num": 209253,
       "word": "黄子华说破地狱是一场疯狂的舞会",
@@ -10793,6 +10905,14 @@
       "onboard_time": 1734901810,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7883,
+      "num": 835058,
+      "word": "川藏青藏公路通车70年",
+      "onboard_time": 1735046720,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7800,

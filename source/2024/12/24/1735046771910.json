@@ -1,0 +1,410 @@
+{
+  "runTime": 1735046771910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1495291,
+        "num": 1495291,
+        "word": "2025年总台春晚分会场发布",
+        "onboard_time": 1735042340,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843937,
+        "num": 843937,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7883,
+        "num": 835058,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832567,
+        "num": 832567,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728396,
+        "num": 728396,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 858139,
+        "num": 719647,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 708222,
+        "num": 708222,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19653,
+        "num": 663543,
+        "word": "冰雪微笑曲线",
+        "onboard_time": 1735030399,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660879,
+        "num": 660879,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 575967,
+        "num": 575967,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474762,
+        "num": 474762,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 437332,
+        "num": 437332,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380516,
+        "num": 380516,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365587,
+        "num": 365587,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288707,
+        "num": 335686,
+        "word": "高校回应安置男博士配偶工作",
+        "onboard_time": 1735042638,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233447,
+        "num": 327062,
+        "word": "何炅 最怕突然的沉默",
+        "onboard_time": 1735041559,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230799,
+        "num": 326975,
+        "word": "田曦薇李一桐你们根本没喝中药",
+        "onboard_time": 1735039038,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326937,
+        "num": 326937,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40245,
+        "num": 322903,
+        "word": "2024电影名场面",
+        "onboard_time": 1735045940,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22864,
+        "num": 322219,
+        "word": "过半省份拥有痛经假但很难申请",
+        "onboard_time": 1735046059,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321785,
+        "num": 321785,
+        "word": "张桂梅的学生已成教师医生护士",
+        "onboard_time": 1735036459,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 183768,
+        "num": 302369,
+        "word": "宋旻浩消极服役惹众怒",
+        "onboard_time": 1735045038,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472299,
+        "num": 298160,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289456,
+        "num": 289456,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 282118,
+        "word": "虎牙楚河",
+        "onboard_time": 1735045759,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281523,
+        "num": 281523,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40821,
+        "num": 210183,
+        "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
+        "onboard_time": 1735046119,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206781,
+        "num": 206781,
+        "word": "程潇上学时追星宋茜",
+        "onboard_time": 1735045819,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226091,
+        "num": 204014,
+        "word": "杜城沈翊 这算工伤了",
+        "onboard_time": 1735044439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107092,
+        "num": 192813,
+        "word": "圣诞穿搭",
+        "onboard_time": 1735046239,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 190436,
+        "num": 190436,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185514,
+        "num": 185514,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175949,
+        "num": 181275,
+        "word": "永夜星河热播期集均4131万",
+        "onboard_time": 1735045399,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180105,
+        "num": 180105,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178258,
+        "num": 178258,
+        "word": "老师背着4个月女儿上课",
+        "onboard_time": 1735041078,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158204,
+        "num": 158204,
+        "word": "近三年净水器抽检合格不到7成",
+        "onboard_time": 1735043718,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156016,
+        "num": 156016,
+        "word": "锦衣卫",
+        "onboard_time": 1735045159,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154789,
+        "num": 154789,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146260,
+        "num": 146260,
+        "word": "郭柯宇称明星戴墨镜口罩很讽刺",
+        "onboard_time": 1735046542,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144198,
+        "num": 144198,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141944,
+        "num": 141944,
+        "word": "美国女政客叫嚣处决杀害美国人的移民",
+        "onboard_time": 1735043839,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137575,
+        "num": 137575,
+        "word": "谢娜湿润的眼眶是母爱的具象化",
+        "onboard_time": 1735044919,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133520,
+        "num": 133520,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131809,
+        "num": 131809,
+        "word": "成毅谢淮安一秒变脸",
+        "onboard_time": 1735044378,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129373,
+        "num": 129373,
+        "word": "LPL解说考核结果疑似公布",
+        "onboard_time": 1735046419,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125038,
+        "num": 125038,
+        "word": "孟子义是李昀锐的特笑药",
+        "onboard_time": 1735037899,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121643,
+        "num": 121643,
+        "word": "蒋欣回应蒋欣在哪里",
+        "onboard_time": 1735035799,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121189,
+        "num": 121189,
+        "word": "长津湖",
+        "onboard_time": 1735037719,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114131,
+        "num": 114131,
+        "word": "官方通报网红狼被大货车不慎压死",
+        "onboard_time": 1735036518,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113165,
+        "num": 113165,
+        "word": "宋亚轩刘耀文张真源狗狗大片",
+        "onboard_time": 1735043477,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

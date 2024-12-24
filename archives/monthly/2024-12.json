@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735045040082,
+  "endTime": 1735046771910,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1947,6 +1947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1495291,
+      "num": 1495291,
+      "word": "2025年总台春晚分会场发布",
+      "onboard_time": 1735042340,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1492063,
       "num": 1492063,
       "word": "腾讯视频会员权益调整",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1733972419,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1460666,
-      "num": 1460666,
-      "word": "2025年总台春晚分会场发布",
-      "onboard_time": 1735042340,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1456348,
@@ -6083,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 858139,
+      "num": 719647,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 858025,
       "num": 858025,
       "word": "张柏芝杨紫徐艺洋活动生图",
@@ -6225,6 +6233,14 @@
       "onboard_time": 1733729718,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 843937,
+      "num": 843937,
+      "word": "银川地震",
+      "onboard_time": 1735045640,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 843827,
@@ -8195,6 +8211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 708222,
+      "num": 708222,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 708019,
       "num": 708019,
       "word": "光遇",
@@ -9353,14 +9377,6 @@
       "onboard_time": 1734519498,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 649470,
-      "num": 609544,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 648878,
@@ -11009,6 +11025,14 @@
       "onboard_time": 1734841638,
       "rank": 23,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 575967,
+      "num": 575967,
+      "word": "新闻联播播出他生前最后一段影像",
+      "onboard_time": 1735044499,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575830,
@@ -14001,6 +14025,14 @@
       "onboard_time": 1734607938,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474762,
+      "num": 474762,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 474501,
@@ -18515,14 +18547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366786,
-      "num": 366786,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 366472,
       "num": 366472,
       "word": "湖北一教师被捕兽电网电击身亡",
@@ -18585,6 +18609,14 @@
       "onboard_time": 1734964700,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 365587,
+      "num": 365587,
+      "word": "小米su7被大众追尾后者当场起火",
+      "onboard_time": 1735045819,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 365442,
@@ -20635,6 +20667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326937,
+      "num": 326937,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 326882,
       "num": 326882,
       "word": "刘浩存珠光白色长裙",
@@ -21003,6 +21043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321785,
+      "num": 336629,
+      "word": "张桂梅的学生已成教师医生护士",
+      "onboard_time": 1735036459,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 321769,
       "num": 289051,
       "word": "警方通报某幼教机构卫生间发现摄像头",
@@ -21252,7 +21300,7 @@
     },
     {
       "raw_hot": 317473,
-      "num": 317473,
+      "num": 327062,
       "word": "何炅 最怕突然的沉默",
       "onboard_time": 1735041559,
       "rank": 11,
@@ -22963,6 +23011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288707,
+      "num": 335686,
+      "word": "高校回应安置男博士配偶工作",
+      "onboard_time": 1735042638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288699,
       "num": 268927,
       "word": "明日方舟直播",
@@ -24212,7 +24268,7 @@
     },
     {
       "raw_hot": 271222,
-      "num": 271222,
+      "num": 326975,
       "word": "田曦薇李一桐你们根本没喝中药",
       "onboard_time": 1735039038,
       "rank": 48,
@@ -28515,6 +28571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226091,
+      "num": 209383,
+      "word": "杜城沈翊 这算工伤了",
+      "onboard_time": 1735044439,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226067,
       "num": 317599,
       "word": "琼瑶花葬将开放粉丝参加",
@@ -30979,14 +31043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 208875,
-      "num": 208875,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 208869,
       "num": 208869,
       "word": "蔚来NIO Day",
@@ -31417,6 +31473,14 @@
       "onboard_time": 1734427159,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "程潇上学时追星宋茜",
+      "onboard_time": 1735045819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 206737,
@@ -33129,14 +33193,6 @@
       "onboard_time": 1734186381,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199642,
-      "num": 227261,
-      "word": "辛巴咳嗽不止自曝患病",
-      "onboard_time": 1735044019,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 199641,
@@ -37043,14 +37099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187159,
-      "num": 336629,
-      "word": "张桂梅的学生已成教师医生护士",
-      "onboard_time": 1735036459,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "虞书欣漫游阿布扎比",
@@ -37843,6 +37891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183768,
+      "num": 302369,
+      "word": "宋旻浩消极服役惹众怒",
+      "onboard_time": 1735045038,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183755,
       "num": 183755,
       "word": "白鹿蝴蝶兰大片",
@@ -37969,14 +38025,6 @@
       "onboard_time": 1734665118,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183104,
-      "num": 183104,
-      "word": "高校回应安置男博士配偶工作",
-      "onboard_time": 1735042638,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183096,
@@ -38617,6 +38665,14 @@
       "onboard_time": 1734327319,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180105,
+      "num": 180105,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 180086,
@@ -39521,6 +39577,14 @@
       "onboard_time": 1733671941,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175949,
+      "num": 181275,
+      "word": "永夜星河热播期集均4131万",
+      "onboard_time": 1735045399,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175840,
@@ -42203,6 +42267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166175,
+      "num": 282118,
+      "word": "虎牙楚河",
+      "onboard_time": 1735045759,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166169,
       "num": 343267,
       "word": "男子借850万高利贷被执行2400万",
@@ -44523,6 +44595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158204,
+      "num": 247679,
+      "word": "近三年净水器抽检合格不到7成",
+      "onboard_time": 1735043718,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 158170,
       "num": 158170,
       "word": "张凌赫落泪镜头",
@@ -45235,6 +45315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156016,
+      "num": 156016,
+      "word": "锦衣卫",
+      "onboard_time": 1735045159,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156012,
       "num": 156012,
       "word": "韩国股市",
@@ -45296,14 +45384,6 @@
       "word": "90岁博士奶奶用猩猩语打招呼",
       "onboard_time": 1733620398,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155709,
-      "num": 155709,
-      "word": "新闻联播播出他生前最后一段影像",
-      "onboard_time": 1735044499,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -48315,6 +48395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "郭柯宇称明星戴墨镜口罩很讽刺",
+      "onboard_time": 1735046542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146241,
       "num": 146241,
       "word": "沉浸式360度全景看地球",
@@ -49313,14 +49401,6 @@
       "onboard_time": 1734189021,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142700,
-      "num": 247679,
-      "word": "近三年净水器抽检合格不到7成",
-      "onboard_time": 1735043718,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 142669,
@@ -50993,6 +51073,14 @@
       "onboard_time": 1734427759,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137575,
+      "num": 137575,
+      "word": "谢娜湿润的眼眶是母爱的具象化",
+      "onboard_time": 1735044919,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 137559,
@@ -53385,6 +53473,14 @@
       "onboard_time": 1734237139,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129373,
+      "num": 129373,
+      "word": "LPL解说考核结果疑似公布",
+      "onboard_time": 1735046419,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 129285,
@@ -59563,6 +59659,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 107092,
+      "num": 192813,
+      "word": "圣诞穿搭",
+      "onboard_time": 1734699080,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 107084,
       "num": 199516,
       "word": "小俞道歉",
@@ -59785,14 +59889,6 @@
       "onboard_time": 1735002679,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 106095,
-      "num": 106095,
-      "word": "谢娜湿润的眼眶是母爱的具象化",
-      "onboard_time": 1735044919,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 106082,
@@ -63985,14 +64081,6 @@
       "onboard_time": 1734059238,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85615,
-      "num": 209383,
-      "word": "杜城沈翊 这算工伤了",
-      "onboard_time": 1735044439,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 85596,
@@ -73179,14 +73267,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 46567,
-      "num": 156164,
-      "word": "圣诞穿搭",
-      "onboard_time": 1734699080,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 46541,
       "num": 289502,
       "word": "人民网评我是刑警",
@@ -75083,6 +75163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40821,
+      "num": 210183,
+      "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
+      "onboard_time": 1735046119,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40817,
       "num": 120394,
       "word": "考研饺饺者",
@@ -75313,6 +75401,14 @@
       "onboard_time": 1734506359,
       "rank": 38,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 40245,
+      "num": 322903,
+      "word": "2024电影名场面",
+      "onboard_time": 1735045940,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 40205,
@@ -81555,6 +81651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 22864,
+      "num": 322219,
+      "word": "过半省份拥有痛经假但很难申请",
+      "onboard_time": 1735046059,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22839,
       "num": 33702,
       "word": "英国1磅的早午饭",
@@ -82569,6 +82673,14 @@
       "onboard_time": 1735010658,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19653,
+      "num": 705102,
+      "word": "冰雪微笑曲线",
+      "onboard_time": 1735030399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19631,
@@ -85547,14 +85659,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10943,
-      "num": 705102,
-      "word": "冰雪微笑曲线",
-      "onboard_time": 1735030399,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10904,
       "num": 415345,
       "word": "UFC310",
@@ -86129,6 +86233,14 @@
       "onboard_time": 1734718753,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7883,
+      "num": 835058,
+      "word": "川藏青藏公路通车70年",
+      "onboard_time": 1735046720,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7870,
