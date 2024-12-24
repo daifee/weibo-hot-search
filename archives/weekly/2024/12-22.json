@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735058516680,
+  "endTime": 1735060730554,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -2603,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 314902,
+      "num": 314902,
+      "word": "漂亮饭",
+      "onboard_time": 1735055418,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 313447,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
@@ -3337,14 +3345,6 @@
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235158,
-      "num": 235158,
-      "word": "漂亮饭",
-      "onboard_time": 1735055418,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 234367,
@@ -4969,6 +4969,14 @@
       "onboard_time": 1734850758,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171794,
+      "num": 171794,
+      "word": "医生称被咬伤男童可换血来控制感染",
+      "onboard_time": 1735054159,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171259,
@@ -6961,14 +6969,6 @@
       "onboard_time": 1734845418,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122496,
-      "num": 128258,
-      "word": "医生称被咬伤男童可换血来控制感染",
-      "onboard_time": 1735054159,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122169,
@@ -9579,6 +9579,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50174,
+      "num": 50174,
+      "word": "被家暴女子遭男方恐吓全家绝种",
+      "onboard_time": 1735059735,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 50121,
+      "num": 50121,
+      "word": "圣诞帽头像",
+      "onboard_time": 1735059075,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 49963,
       "num": 49963,
       "word": "随手拍的一张照片能泄露多少信息",
@@ -9873,6 +9889,14 @@
       "onboard_time": 1735022479,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 44041,
+      "num": 44041,
+      "word": "被大众追尾小米su7车主回应",
+      "onboard_time": 1735059015,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 43688,
@@ -11267,6 +11291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12619,
+      "num": 117873,
+      "word": "当事人回应因孩子言论把家砸烂",
+      "onboard_time": 1735060513,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12499,
       "num": 25349,
       "word": "赵露思请粉丝吃冰激凌",
@@ -11371,6 +11403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10579,
+      "num": 119039,
+      "word": "怪物猎人旅人过审",
+      "onboard_time": 1735058175,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10446,
       "num": 13423,
       "word": "95后救火又捐献造血干细胞救人",
@@ -11419,14 +11459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8122,
-      "num": 119039,
-      "word": "怪物猎人旅人过审",
-      "onboard_time": 1735058175,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 8022,
       "num": 35741,
       "word": "程潇黄雅琼热聊",
@@ -11473,6 +11505,14 @@
       "onboard_time": 1734953658,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6625,
+      "num": 76055,
+      "word": "NBA将发布詹杜库合体专访",
+      "onboard_time": 1735060633,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6293,

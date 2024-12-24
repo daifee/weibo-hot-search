@@ -1,0 +1,410 @@
+{
+  "runTime": 1735060730554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676577,
+        "num": 676577,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 366651,
+        "num": 366651,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60757,
+        "num": 342795,
+        "word": "哈尔滨冰雪大世界有多火",
+        "onboard_time": 1735046780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325186,
+        "num": 325186,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314902,
+        "num": 314902,
+        "word": "漂亮饭",
+        "onboard_time": 1735055418,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199660,
+        "num": 199660,
+        "word": "埃菲尔铁塔电梯井突发火灾",
+        "onboard_time": 1735055839,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171794,
+        "num": 171794,
+        "word": "医生称被咬伤男童可换血来控制感染",
+        "onboard_time": 1735054159,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166041,
+        "num": 166041,
+        "word": "羊毛月已掉粉130万",
+        "onboard_time": 1735055418,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152052,
+        "num": 152052,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132603,
+        "num": 132603,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 199075,
+        "num": 132231,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131553,
+        "num": 131553,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130561,
+        "num": 130561,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12619,
+        "num": 117873,
+        "word": "当事人回应因孩子言论把家砸烂",
+        "onboard_time": 1735060513,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116829,
+        "num": 116829,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113752,
+        "num": 113752,
+        "word": "猎罪图鉴2点映",
+        "onboard_time": 1735056557,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103472,
+        "num": 103472,
+        "word": "29个行业被美国卡脖子卡出单项冠军",
+        "onboard_time": 1735053138,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101449,
+        "num": 101449,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99690,
+        "num": 99690,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92922,
+        "num": 92922,
+        "word": "新疆伊犁住一晚酒店只要4元",
+        "onboard_time": 1735052541,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141207,
+        "num": 92765,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92457,
+        "num": 92457,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 77234,
+        "num": 77234,
+        "word": "九重紫爆款的含金量更高",
+        "onboard_time": 1735051040,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76243,
+        "num": 76243,
+        "word": "宁艺卓没有特别舞台",
+        "onboard_time": 1735052060,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 6625,
+        "num": 76055,
+        "word": "NBA将发布詹杜库合体专访",
+        "onboard_time": 1735060633,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75914,
+        "num": 75914,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70795,
+        "num": 70795,
+        "word": "meiko状态",
+        "onboard_time": 1735054518,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68409,
+        "num": 68409,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48376,
+        "num": 67918,
+        "word": "白夜追凶7年后潘粤明变了",
+        "onboard_time": 1735053737,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67444,
+        "num": 67444,
+        "word": "虞书欣 吸血鬼之家打卡",
+        "onboard_time": 1735048940,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64022,
+        "num": 64022,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63265,
+        "num": 63265,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59868,
+        "num": 59868,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 10579,
+        "num": 56277,
+        "word": "怪物猎人旅人过审",
+        "onboard_time": 1735058175,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55975,
+        "num": 55975,
+        "word": "九重紫制片人谈选角孟子义",
+        "onboard_time": 1735047560,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53406,
+        "num": 53406,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53250,
+        "num": 53250,
+        "word": "医生称臭车司机对异味或已耐受",
+        "onboard_time": 1735051579,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52540,
+        "num": 52540,
+        "word": "李昀锐剧透跨年舞台",
+        "onboard_time": 1735058056,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52018,
+        "num": 52018,
+        "word": "去年春晚你印象最深的歌曲",
+        "onboard_time": 1735049900,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51944,
+        "num": 51944,
+        "word": "陈铭评价贺峻霖",
+        "onboard_time": 1735053261,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51679,
+        "num": 51679,
+        "word": "王楚钦2024年获得16个冠军",
+        "onboard_time": 1735056317,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50174,
+        "num": 50174,
+        "word": "被家暴女子遭男方恐吓全家绝种",
+        "onboard_time": 1735059735,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 50121,
+        "num": 50121,
+        "word": "圣诞帽头像",
+        "onboard_time": 1735059075,
+        "rank": 42,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 49960,
+        "num": 49960,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48874,
+        "num": 48874,
+        "word": "王鹤棣为GAI新歌打call",
+        "onboard_time": 1735057276,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46127,
+        "num": 46127,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45047,
+        "num": 45047,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44041,
+        "num": 44041,
+        "word": "被大众追尾小米su7车主回应",
+        "onboard_time": 1735059015,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37007,
+        "num": 44030,
+        "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+        "onboard_time": 1735047919,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36279,
+        "num": 44009,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

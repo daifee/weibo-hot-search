@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735058516680,
+  "endTime": 1735060730554,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -21555,6 +21555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314902,
+      "num": 314902,
+      "word": "漂亮饭",
+      "onboard_time": 1735055418,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 314624,
       "num": 314624,
       "word": "毛雪汪官宣徐明浩",
@@ -27513,14 +27521,6 @@
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235158,
-      "num": 235158,
-      "word": "漂亮饭",
-      "onboard_time": 1735055418,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 234942,
@@ -40857,6 +40857,14 @@
       "onboard_time": 1734586938,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171794,
+      "num": 171794,
+      "word": "医生称被咬伤男童可换血来控制感染",
+      "onboard_time": 1735054159,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171765,
@@ -55825,14 +55833,6 @@
       "onboard_time": 1733797457,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 122496,
-      "num": 128258,
-      "word": "医生称被咬伤男童可换血来控制感染",
-      "onboard_time": 1735054159,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122460,
@@ -72619,12 +72619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50174,
+      "num": 50174,
+      "word": "被家暴女子遭男方恐吓全家绝种",
+      "onboard_time": 1735059735,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50166,
       "num": 515365,
       "word": "明年经济工作政策组合拳有哪些",
       "onboard_time": 1734496581,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50121,
+      "num": 50121,
+      "word": "圣诞帽头像",
+      "onboard_time": 1735059075,
+      "rank": 42,
+      "category": "休闲"
     },
     {
       "raw_hot": 50112,
@@ -74529,6 +74545,14 @@
       "onboard_time": 1733826019,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 44041,
+      "num": 44041,
+      "word": "被大众追尾小米su7车主回应",
+      "onboard_time": 1735059015,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 44037,
@@ -85731,6 +85755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12619,
+      "num": 117873,
+      "word": "当事人回应因孩子言论把家砸烂",
+      "onboard_time": 1735060513,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12530,
       "num": 23871,
       "word": "53秒了解中俄东线天然气管道",
@@ -86243,6 +86275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10579,
+      "num": 119039,
+      "word": "怪物猎人旅人过审",
+      "onboard_time": 1735058175,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 10541,
       "num": 295875,
       "word": "Cici项偞婧风衣蕾丝裙清冷美",
@@ -86715,14 +86755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 8122,
-      "num": 119039,
-      "word": "怪物猎人旅人过审",
-      "onboard_time": 1735058175,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 8116,
       "num": 133326,
       "word": "邱天 骨相脸的杀伤力",
@@ -87175,6 +87207,14 @@
       "num": 29237,
       "word": "哈贾尔加盟红牛二队",
       "onboard_time": 1734722831,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6625,
+      "num": 76055,
+      "word": "NBA将发布詹杜库合体专访",
+      "onboard_time": 1735060633,
       "rank": 24,
       "category": "体育"
     },
