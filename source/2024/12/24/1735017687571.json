@@ -1,0 +1,410 @@
+{
+  "runTime": 1735017687571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1327700,
+        "num": 1327700,
+        "word": "哈尔滨冰雕有血印视频系1月发布",
+        "onboard_time": 1735015099,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1292701,
+        "num": 1292701,
+        "word": "张继科199元录播课3小时卖了25万元",
+        "onboard_time": 1735013119,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30174,
+        "num": 1047249,
+        "word": "文化中国行守护非遗之美",
+        "onboard_time": 1734986831,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 973378,
+        "num": 973378,
+        "word": "希林娜依高回应拖行小狗",
+        "onboard_time": 1735014801,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794089,
+        "num": 794089,
+        "word": "蒋欣瘦了20斤",
+        "onboard_time": 1735015340,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580772,
+        "num": 580772,
+        "word": "瑞幸回应喝出蟑螂事件",
+        "onboard_time": 1735009998,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561990,
+        "num": 561990,
+        "word": "媒体评吴柳芳不能再擦边了",
+        "onboard_time": 1735014620,
+        "rank": 6,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 561432,
+        "num": 561432,
+        "word": "王曼昱提车",
+        "onboard_time": 1735015219,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405948,
+        "num": 405948,
+        "word": "檀健次虞书欣 合作",
+        "onboard_time": 1735015700,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39276,
+        "num": 405719,
+        "word": "四大行均涨超1%续创历史新高",
+        "onboard_time": 1735017140,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1057636,
+        "num": 404923,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 709003,
+        "num": 404699,
+        "word": "刘诗诗 吴奇隆",
+        "onboard_time": 1735011858,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503596,
+        "num": 403884,
+        "word": "女子拒绝哺乳期通勤4小时上班被辞",
+        "onboard_time": 1735009517,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403520,
+        "num": 403520,
+        "word": "杨子 演员请就位",
+        "onboard_time": 1735015760,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369644,
+        "num": 369644,
+        "word": "jellycat平替成上海圣诞节顶流",
+        "onboard_time": 1735011738,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361246,
+        "num": 361246,
+        "word": "他的人生被困在了1996年",
+        "onboard_time": 1735016241,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351531,
+        "num": 351531,
+        "word": "白鹿 没吻这么激烈",
+        "onboard_time": 1735010058,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347832,
+        "num": 347832,
+        "word": "A股现4亿天价离婚案",
+        "onboard_time": 1735015279,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323161,
+        "num": 323161,
+        "word": "西安警方通报男童遭恶犬咬伤",
+        "onboard_time": 1735013480,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 64294,
+        "num": 319146,
+        "word": "90后TVB女演员在餐厅洗碗洗厕所",
+        "onboard_time": 1735017260,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399693,
+        "num": 317925,
+        "word": "木苏里父亲去世",
+        "onboard_time": 1735010478,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 77590,
+        "num": 311779,
+        "word": "周深杀回古风歌了",
+        "onboard_time": 1735016900,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51134,
+        "num": 306902,
+        "word": "祝绪丹 做演员有被爱的感觉",
+        "onboard_time": 1735015461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209371,
+        "num": 302589,
+        "word": "郭靖是个什么样的人",
+        "onboard_time": 1735007357,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85705,
+        "num": 298434,
+        "word": "樊振东2024年度总结",
+        "onboard_time": 1735014500,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322651,
+        "num": 291645,
+        "word": "对吴柳芳的善意不能掩盖擦边的本质",
+        "onboard_time": 1735010537,
+        "rank": 25,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 40970,
+        "num": 290853,
+        "word": "戚薇烧烤店给粉丝买单",
+        "onboard_time": 1735017378,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165367,
+        "num": 284749,
+        "word": "庆王 该父皇向您跪着",
+        "onboard_time": 1735017019,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35763,
+        "num": 281956,
+        "word": "兔兔大侠膜拜膜拜",
+        "onboard_time": 1735017618,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 25203,
+        "num": 275434,
+        "word": "误杀3新浪扫楼",
+        "onboard_time": 1735017618,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272804,
+        "num": 272804,
+        "word": "房东装摄像头偷窥情侣租客生活",
+        "onboard_time": 1735015461,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 227806,
+        "num": 227806,
+        "word": "全红婵17岁正是爱美的年纪",
+        "onboard_time": 1735006100,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222733,
+        "num": 222733,
+        "word": "迪丽热巴早期在上戏的毕业照",
+        "onboard_time": 1735010238,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209905,
+        "num": 209905,
+        "word": "网剧归棹开播",
+        "onboard_time": 1735016959,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195253,
+        "num": 195253,
+        "word": "白月梵星定档电话",
+        "onboard_time": 1735014438,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182366,
+        "num": 182366,
+        "word": "李昀锐跳晚安大小姐",
+        "onboard_time": 1735007956,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179190,
+        "num": 179190,
+        "word": "肖战射雕打戏花絮",
+        "onboard_time": 1735015219,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172692,
+        "num": 172692,
+        "word": "美媒爆特朗普女儿伊万卡不会重返政坛",
+        "onboard_time": 1735016420,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31833,
+        "num": 171753,
+        "word": "东方跨年第二波阵容官宣",
+        "onboard_time": 1735011498,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171127,
+        "num": 171127,
+        "word": "肯德基相关负责人回应调价",
+        "onboard_time": 1735007956,
+        "rank": 39,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 95404,
+        "num": 166887,
+        "word": "王楚钦2024年度总结",
+        "onboard_time": 1735012821,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165882,
+        "num": 165882,
+        "word": "吴柳芳背后MCN劣迹斑斑",
+        "onboard_time": 1735011738,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 161179,
+        "num": 161179,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152272,
+        "num": 152272,
+        "word": "西安男童遭恶犬咬伤2人被刑拘",
+        "onboard_time": 1735014620,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148081,
+        "num": 148081,
+        "word": "肯德基涨价2%",
+        "onboard_time": 1735004837,
+        "rank": 44,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 129802,
+        "num": 129802,
+        "word": "现在拨打的电话何以成为全球爆款",
+        "onboard_time": 1735009458,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129401,
+        "num": 129401,
+        "word": "粉丝帮宁艺卓结账",
+        "onboard_time": 1735013179,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126336,
+        "num": 126336,
+        "word": "鸡公煲鸡公煲 经过我的胃",
+        "onboard_time": 1735011798,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122133,
+        "num": 122133,
+        "word": "ISA跳了虞书欣新歌",
+        "onboard_time": 1735014740,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121074,
+        "num": 121074,
+        "word": "女子生产前4小时才知道自己怀孕",
+        "onboard_time": 1734965361,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735015228510,
+  "endTime": 1735017687571,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1430655,
-      "num": 395751,
+      "num": 404699,
       "word": "刘诗诗 吴奇隆",
       "onboard_time": 1735011858,
       "rank": 10,
@@ -43,8 +43,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1327700,
+      "num": 1327700,
+      "word": "哈尔滨冰雕有血印视频系1月发布",
+      "onboard_time": 1735015099,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1194862,
-      "num": 383438,
+      "num": 403884,
       "word": "女子拒绝哺乳期通勤4小时上班被辞",
       "onboard_time": 1735009517,
       "rank": 10,
@@ -81,6 +89,22 @@
       "onboard_time": 1735009998,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 973378,
+      "num": 973378,
+      "word": "希林娜依高回应拖行小狗",
+      "onboard_time": 1735014801,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 794089,
+      "num": 794089,
+      "word": "蒋欣瘦了20斤",
+      "onboard_time": 1735015340,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 752931,
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 565069,
-      "num": 358923,
+      "num": 369644,
       "word": "jellycat平替成上海圣诞节顶流",
       "onboard_time": 1735011738,
       "rank": 12,
@@ -161,6 +185,22 @@
       "onboard_time": 1734989652,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 561990,
+      "num": 561990,
+      "word": "媒体评吴柳芳不能再擦边了",
+      "onboard_time": 1735014620,
+      "rank": 14,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 561432,
+      "num": 561432,
+      "word": "王曼昱提车",
+      "onboard_time": 1735015219,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 546973,
@@ -243,6 +283,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 405948,
+      "num": 405948,
+      "word": "檀健次虞书欣 合作",
+      "onboard_time": 1735015700,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403520,
+      "num": 403520,
+      "word": "杨子 演员请就位",
+      "onboard_time": 1735015760,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401837,
       "num": 401837,
       "word": "小砂糖橘水灵灵地玩上尔滨的雪了",
@@ -281,6 +337,22 @@
       "onboard_time": 1735007778,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361246,
+      "num": 361246,
+      "word": "他的人生被困在了1996年",
+      "onboard_time": 1735016241,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 347832,
+      "num": 347832,
+      "word": "A股现4亿天价离婚案",
+      "onboard_time": 1735015279,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 342070,
@@ -347,22 +419,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 311388,
-      "num": 311388,
-      "word": "希林娜依高回应拖行小狗",
-      "onboard_time": 1735014801,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 296611,
-      "num": 296611,
-      "word": "媒体评吴柳芳不能再擦边了",
-      "onboard_time": 1735014620,
-      "rank": 14,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 293464,
       "num": 293464,
       "word": "蛇年纪念币好难抢",
@@ -401,6 +457,14 @@
       "onboard_time": 1734997277,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 272804,
+      "num": 272804,
+      "word": "房东装摄像头偷窥情侣租客生活",
+      "onboard_time": 1735015461,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 267740,
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209905,
+      "num": 209905,
+      "word": "网剧归棹开播",
+      "onboard_time": 1735016959,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208509,
       "num": 257632,
       "word": "粉丝帮宁艺卓结账",
@@ -603,12 +675,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 179190,
+      "num": 179190,
+      "word": "肖战射雕打戏花絮",
+      "onboard_time": 1735015219,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "白鹿驯猴",
       "onboard_time": 1734964700,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172692,
+      "num": 172692,
+      "word": "美媒爆特朗普女儿伊万卡不会重返政坛",
+      "onboard_time": 1735016420,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171513,
@@ -652,11 +740,27 @@
     },
     {
       "raw_hot": 165972,
-      "num": 165972,
+      "num": 298434,
       "word": "樊振东2024年度总结",
       "onboard_time": 1735014500,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165367,
+      "num": 284749,
+      "word": "庆王 该父皇向您跪着",
+      "onboard_time": 1735017019,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161179,
+      "num": 161179,
+      "word": "疑似可可西里网红狼被大货车压死",
+      "onboard_time": 1735017260,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160971,
@@ -705,14 +809,6 @@
       "onboard_time": 1734961041,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150769,
-      "num": 150769,
-      "word": "哈尔滨冰雕有血印视频系1月发布",
-      "onboard_time": 1735015099,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149737,
@@ -899,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122133,
+      "num": 220853,
+      "word": "ISA跳了虞书欣新歌",
+      "onboard_time": 1735014740,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 121014,
       "num": 121014,
       "word": "天秤座总是会周期性的逃避",
@@ -1035,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94866,
-      "num": 220853,
-      "word": "ISA跳了虞书欣新歌",
-      "onboard_time": 1735014740,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 93482,
       "num": 118785,
       "word": "张颂文回复网友",
@@ -1131,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77590,
+      "num": 311779,
+      "word": "周深杀回古风歌了",
+      "onboard_time": 1735016900,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76100,
       "num": 76100,
       "word": "白鹿 全浩进宣传费准备好了吗",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1734942438,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 64294,
+      "num": 319146,
+      "word": "90后TVB女演员在餐厅洗碗洗厕所",
+      "onboard_time": 1735017260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 63335,
@@ -1315,6 +1427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51134,
+      "num": 306902,
+      "word": "祝绪丹 做演员有被爱的感觉",
+      "onboard_time": 1735015461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51133,
       "num": 51133,
       "word": "大奉打更人有自己的搞笑一家人",
@@ -1387,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40970,
+      "num": 290853,
+      "word": "戚薇烧烤店给粉丝买单",
+      "onboard_time": 1735017378,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40360,
       "num": 516952,
       "word": "国家铁路完成货物发送量3.5亿吨",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1734993131,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39276,
+      "num": 405719,
+      "word": "四大行均涨超1%续创历史新高",
+      "onboard_time": 1735017140,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 39108,
@@ -1433,6 +1569,14 @@
       "onboard_time": 1734969378,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35763,
+      "num": 281956,
+      "word": "兔兔大侠膜拜膜拜",
+      "onboard_time": 1735017618,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 35478,
@@ -1499,6 +1643,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30174,
+      "num": 1047249,
+      "word": "文化中国行守护非遗之美",
+      "onboard_time": 1734986831,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 29344,
       "num": 29344,
       "word": "鞠婧祎浙江卫视跨年预告",
@@ -1539,12 +1691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25429,
-      "num": 969583,
-      "word": "文化中国行守护非遗之美",
-      "onboard_time": 1734986831,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 25203,
+      "num": 275434,
+      "word": "误杀3新浪扫楼",
+      "onboard_time": 1735017618,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 24950,
