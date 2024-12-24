@@ -1,0 +1,410 @@
+{
+  "runTime": 1735039125773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1206253,
+        "num": 1206253,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 951650,
+        "num": 951650,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84506,
+        "num": 916390,
+        "word": "240小时过境免签超City",
+        "onboard_time": 1735030579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 899708,
+        "num": 899708,
+        "word": "优酷过审鬼才",
+        "onboard_time": 1735037479,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535580,
+        "num": 535580,
+        "word": "宋佳已提前预订明年奖杯",
+        "onboard_time": 1735036819,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417054,
+        "num": 417054,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436656,
+        "num": 413966,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 6,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 409362,
+        "num": 409362,
+        "word": "年度报告",
+        "onboard_time": 1735032319,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 399037,
+        "num": 399037,
+        "word": "官方通报网红狼被大货车不慎压死",
+        "onboard_time": 1735036518,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 53446,
+        "num": 374533,
+        "word": "冰雪大世界近一周门票已售罄",
+        "onboard_time": 1735037719,
+        "rank": 9,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 507553,
+        "num": 373916,
+        "word": "蒋欣回应蒋欣在哪里",
+        "onboard_time": 1735035799,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365277,
+        "num": 365277,
+        "word": "清华女硕士二次入伍被授衔中尉",
+        "onboard_time": 1735033639,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331487,
+        "num": 331487,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 53240,
+        "num": 300715,
+        "word": "购物时摸一下会增加购买欲",
+        "onboard_time": 1735038259,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35345,
+        "num": 288337,
+        "word": "为什么冬天是减肥黄金期",
+        "onboard_time": 1735038019,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 276327,
+        "num": 276327,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293921,
+        "num": 276294,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83309,
+        "num": 252499,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81971,
+        "num": 246341,
+        "word": "猎罪2一个案子集齐贪嗔痴",
+        "onboard_time": 1735038859,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240744,
+        "num": 240744,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 659270,
+        "num": 237526,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228972,
+        "num": 228972,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225863,
+        "num": 225863,
+        "word": "郭敬明发夏之光原始帧",
+        "onboard_time": 1735032620,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220204,
+        "num": 220204,
+        "word": "沈月 老师别下了像拉了",
+        "onboard_time": 1735026199,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139817,
+        "num": 213076,
+        "word": "王楚钦说巴黎没有达到预期",
+        "onboard_time": 1735038438,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212105,
+        "num": 212105,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195536,
+        "num": 195536,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169482,
+        "num": 189206,
+        "word": "杜城 你跟他的交往要保持分寸",
+        "onboard_time": 1735037238,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188274,
+        "num": 188274,
+        "word": "婆婆每天到儿媳家帮忙如上班",
+        "onboard_time": 1735036938,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29885,
+        "num": 184225,
+        "word": "医生建议每天开窗通风2次",
+        "onboard_time": 1735038079,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183903,
+        "num": 183903,
+        "word": "谢娜陈乔恩 真闺蜜才敢说真话",
+        "onboard_time": 1735031239,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179958,
+        "num": 179958,
+        "word": "不是狼想当网红而是有人想赚流量",
+        "onboard_time": 1735038679,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166058,
+        "num": 166058,
+        "word": "长安二十四计",
+        "onboard_time": 1735038738,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165639,
+        "num": 165639,
+        "word": "长津湖",
+        "onboard_time": 1735037719,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162671,
+        "num": 162671,
+        "word": "国色芳华OST阵容官宣",
+        "onboard_time": 1735035379,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "孟子义想不到吧我还有图",
+        "onboard_time": 1735037419,
+        "rank": 35,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 143573,
+        "word": "投喂野生动物造成严重后果或担刑责",
+        "onboard_time": 1735037538,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142692,
+        "num": 142692,
+        "word": "丁禹兮话剧粉",
+        "onboard_time": 1735035679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134552,
+        "num": 134552,
+        "word": "央视曾呼吁不要投喂网红狼",
+        "onboard_time": 1735022238,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39612,
+        "num": 132786,
+        "word": "家庭版荷包蛋焖面真的可以试试",
+        "onboard_time": 1735038259,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132471,
+        "num": 132471,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132166,
+        "num": 132166,
+        "word": "吃砂糖橘真的会促进肿瘤生长吗",
+        "onboard_time": 1735028718,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 129443,
+        "num": 129443,
+        "word": "张馨予嫁给何捷是嫁给了爱情",
+        "onboard_time": 1735030399,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23170,
+        "num": 125686,
+        "word": "冬至 孙千一集哭四次",
+        "onboard_time": 1735036579,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124989,
+        "num": 124989,
+        "word": "孟子义祝绪丹上桌",
+        "onboard_time": 1735036279,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123126,
+        "num": 123126,
+        "word": "全红婵哥哥回应蹭热度带货",
+        "onboard_time": 1735034479,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119944,
+        "num": 119944,
+        "word": "孟子义是李昀锐的特笑药",
+        "onboard_time": 1735037899,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117510,
+        "num": 117510,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109404,
+        "num": 109404,
+        "word": "田曦薇李一桐你们根本没喝中药",
+        "onboard_time": 1735039038,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105734,
+        "num": 105734,
+        "word": "投喂网红狼是否需要担责",
+        "onboard_time": 1735026500,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
