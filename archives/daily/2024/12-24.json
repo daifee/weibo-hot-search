@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735011705327,
+  "endTime": 1735014407365,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -19,12 +19,36 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1430655,
+      "num": 395751,
+      "word": "刘诗诗 吴奇隆",
+      "onboard_time": 1735011858,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1194862,
-      "num": 367250,
+      "num": 383438,
       "word": "女子拒绝哺乳期通勤4小时上班被辞",
       "onboard_time": 1735009517,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1188241,
+      "num": 1165894,
+      "word": "平安夜",
+      "onboard_time": 1735007897,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1112549,
+      "num": 1178007,
+      "word": "对吴柳芳的善意不能掩盖擦边的本质",
+      "onboard_time": 1735010537,
+      "rank": 29,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1082257,
@@ -35,20 +59,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1036842,
-      "num": 1165894,
-      "word": "平安夜",
-      "onboard_time": 1735007897,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1020394,
       "num": 1163263,
       "word": "肯德基涨价2%",
       "onboard_time": 1735004837,
       "rank": 17,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 924733,
+      "num": 924733,
+      "word": "瑞幸回应喝出蟑螂事件",
+      "onboard_time": 1735009998,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 828657,
+      "num": 828657,
+      "word": "张继科199元录播课3小时卖了25万元",
+      "onboard_time": 1735013119,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 752931,
@@ -99,6 +131,22 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 573707,
+      "num": 573707,
+      "word": "白鹿 没吻这么激烈",
+      "onboard_time": 1735010058,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 565069,
+      "num": 358923,
+      "word": "jellycat平替成上海圣诞节顶流",
+      "onboard_time": 1735011738,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563445,
       "num": 764902,
       "word": "在家产女开出生证需做亲子鉴定",
@@ -123,20 +171,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 538355,
-      "num": 538355,
-      "word": "白鹿 没吻这么激烈",
-      "onboard_time": 1735010058,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 531633,
       "num": 531633,
       "word": "刘诗诗方给平台发公函回应离婚",
       "onboard_time": 1734957199,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513044,
+      "num": 513044,
+      "word": "木苏里父亲去世",
+      "onboard_time": 1735010478,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 488264,
@@ -156,7 +204,7 @@
     },
     {
       "raw_hot": 454236,
-      "num": 221976,
+      "num": 254602,
       "word": "全红婵17岁正是爱美的年纪",
       "onboard_time": 1735006100,
       "rank": 21,
@@ -169,6 +217,14 @@
       "onboard_time": 1734957318,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418157,
+      "num": 418157,
+      "word": "迪丽热巴早期在上戏的毕业照",
+      "onboard_time": 1735010238,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 417072,
@@ -227,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345344,
-      "num": 345344,
-      "word": "迪丽热巴早期在上戏的毕业照",
-      "onboard_time": 1735010238,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 342070,
       "num": 194927,
       "word": "她还没上桌蛋糕分完了",
@@ -257,14 +305,6 @@
       "onboard_time": 1734958940,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324462,
-      "num": 324462,
-      "word": "对吴柳芳的善意不能掩盖擦边的本质",
-      "onboard_time": 1735010537,
-      "rank": 29,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 318812,
@@ -355,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254646,
+      "num": 417007,
+      "word": "西安警方通报男童遭恶犬咬伤",
+      "onboard_time": 1735013480,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 253051,
       "num": 291023,
       "word": "小佳被易烊千玺的表演震撼",
       "onboard_time": 1735004717,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 239941,
-      "num": 239941,
-      "word": "木苏里父亲去世",
-      "onboard_time": 1735010478,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 235267,
@@ -395,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227275,
-      "num": 227275,
-      "word": "瑞幸回应喝出蟑螂事件",
-      "onboard_time": 1735009998,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221502,
       "num": 221502,
       "word": "小米SU7获奖2024年度车",
@@ -419,6 +451,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218672,
+      "num": 218672,
+      "word": "吴柳芳背后MCN劣迹斑斑",
+      "onboard_time": 1735011738,
+      "rank": 32,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 217828,
+      "num": 226108,
+      "word": "鸡公煲鸡公煲 经过我的胃",
+      "onboard_time": 1735011798,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 212111,
+      "num": 212111,
+      "word": "光遇复刻",
+      "onboard_time": 1735014141,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 201922,
+      "num": 297736,
+      "word": "现在拨打的电话何以成为全球爆款",
+      "onboard_time": 1735009458,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200394,
       "num": 200394,
       "word": "尹锡悦各种拒收",
@@ -427,12 +491,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197473,
+      "num": 257632,
+      "word": "粉丝帮宁艺卓结账",
+      "onboard_time": 1735013179,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193233,
       "num": 193233,
       "word": "李昀锐他们说我是小狗",
       "onboard_time": 1734966141,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189516,
+      "num": 189516,
+      "word": "76人马刺比赛失控",
+      "onboard_time": 1735011711,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189361,
@@ -457,6 +537,14 @@
       "onboard_time": 1735003397,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185133,
+      "num": 245395,
+      "word": "檀健次登顶ELLE历史销量第一",
+      "onboard_time": 1735012999,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184993,
@@ -561,6 +649,14 @@
       "onboard_time": 1735006036,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 149541,
+      "num": 149541,
+      "word": "光夜新浪扫楼",
+      "onboard_time": 1735014141,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 146456,
@@ -675,6 +771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 125199,
+      "num": 231045,
+      "word": "2025会被AI平替的行业",
+      "onboard_time": 1735013658,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124766,
       "num": 124766,
       "word": "平安夜吃苹果",
@@ -713,6 +817,22 @@
       "onboard_time": 1735007178,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120230,
+      "num": 120230,
+      "word": "女生手作雅典娜翅膀完成童年梦想",
+      "onboard_time": 1735014260,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 119485,
+      "num": 249932,
+      "word": "王楚钦2024年度总结",
+      "onboard_time": 1735012821,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 117855,
@@ -787,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102096,
+      "num": 136147,
+      "word": "时空中的绘旅人将补偿",
+      "onboard_time": 1735013838,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101933,
       "num": 101933,
       "word": "原来韩国老奶真的会爆金币",
       "onboard_time": 1734995775,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99897,
+      "num": 219478,
+      "word": "杨祐宁 男人带孩子又怎么样",
+      "onboard_time": 1735013179,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 98679,
@@ -859,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84756,
-      "num": 297736,
-      "word": "现在拨打的电话何以成为全球爆款",
-      "onboard_time": 1735009458,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83690,
       "num": 83690,
       "word": "咒术回战最终卷加页",
@@ -921,6 +1049,14 @@
       "onboard_time": 1735011678,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75960,
+      "num": 226889,
+      "word": "刘晓艳老师叫你起床",
+      "onboard_time": 1735014079,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 75713,
@@ -1051,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53260,
+      "num": 255635,
+      "word": "张凌赫东方卫视跨年官宣",
+      "onboard_time": 1735012877,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -1091,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48184,
+      "num": 237596,
+      "word": "究竟是考研难还是读研难",
+      "onboard_time": 1735014079,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 46816,
       "num": 219458,
       "word": "老人遭5只猎狗围咬伤口深达肌层",
@@ -1120,6 +1272,14 @@
       "word": "猎罪图鉴2画像师原型满意檀健次表演",
       "onboard_time": 1734974353,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43471,
+      "num": 240612,
+      "word": "陈丽君养成系歌手",
+      "onboard_time": 1735014379,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1153,6 +1313,14 @@
       "onboard_time": 1734993131,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39108,
+      "num": 147204,
+      "word": "敖瑞鹏猴emoji用对了",
+      "onboard_time": 1735012877,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 38682,
@@ -1195,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34057,
+      "num": 256624,
+      "word": "方励说不爱算账更爱随心所欲做事",
+      "onboard_time": 1735013239,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33267,
       "num": 38677,
       "word": "香港10平米月租8000的家",
@@ -1212,7 +1388,7 @@
     },
     {
       "raw_hot": 31562,
-      "num": 128061,
+      "num": 257850,
       "word": "轻松搞定十万个为什么简直小艺思",
       "onboard_time": 1735011377,
       "rank": 36,
@@ -1267,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25429,
+      "num": 873422,
+      "word": "文化中国行守护非遗之美",
+      "onboard_time": 1734986831,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 24950,
       "num": 29745,
       "word": "消费者投诉称瑞幸咖啡喝出蟑螂",
@@ -1281,6 +1465,22 @@
       "onboard_time": 1734974893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21274,
+      "num": 293624,
+      "word": "柱子票当事人称终审判决开了个好头",
+      "onboard_time": 1735013358,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19660,
+      "num": 136542,
+      "word": "让马岩松一眼心动的博物馆",
+      "onboard_time": 1735010658,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 19525,
@@ -1315,14 +1515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17998,
-      "num": 123459,
-      "word": "让马岩松一眼心动的博物馆",
-      "onboard_time": 1735010658,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
@@ -1345,14 +1537,6 @@
       "onboard_time": 1734995715,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13882,
-      "num": 529492,
-      "word": "文化中国行守护非遗之美",
-      "onboard_time": 1734986831,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 11434,
