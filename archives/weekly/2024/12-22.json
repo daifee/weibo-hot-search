@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735008773645,
+  "endTime": 1735009314325,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 718868,
-      "num": 292480,
+      "num": 376591,
       "word": "滴滴就臭车致歉",
       "onboard_time": 1735000760,
       "rank": 11,
@@ -1131,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 488264,
+      "num": 488264,
+      "word": "李昀锐跳晚安大小姐",
+      "onboard_time": 1735007956,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487574,
       "num": 487574,
       "word": "从武侠看中国人的处世哲学",
@@ -1251,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454236,
+      "num": 219068,
+      "word": "全红婵17岁正是爱美的年纪",
+      "onboard_time": 1735006100,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454173,
       "num": 454173,
       "word": "苗安素杀了宋翰",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1734874699,
       "rank": 16,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 447812,
-      "num": 205312,
-      "word": "全红婵17岁正是爱美的年纪",
-      "onboard_time": 1735006100,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 447099,
@@ -1475,6 +1483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 404587,
+      "num": 404587,
+      "word": "平安夜",
+      "onboard_time": 1735007897,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403350,
       "num": 403350,
       "word": "上海地铁受损列车内部画面曝光",
@@ -1587,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 386495,
-      "num": 386495,
-      "word": "李昀锐跳晚安大小姐",
-      "onboard_time": 1735007956,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384764,
       "num": 152553,
       "word": "残奥冠军新欢酷似被其枪杀的前女友",
@@ -1635,12 +1643,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 379620,
+      "num": 379620,
+      "word": "肯德基相关负责人回应调价",
+      "onboard_time": 1735007956,
+      "rank": 7,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 377188,
       "num": 377188,
       "word": "考研数学答案",
       "onboard_time": 1734839417,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 375541,
+      "num": 375541,
+      "word": "王鹤棣粉丝包场88888座",
+      "onboard_time": 1735008377,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 374231,
@@ -2227,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272550,
+      "num": 272550,
+      "word": "郭靖是个什么样的人",
+      "onboard_time": 1735007357,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272500,
       "num": 254857,
       "word": "72岁老人演上百部短剧一天收入上千",
@@ -2363,12 +2395,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 254797,
-      "num": 254797,
-      "word": "肯德基相关负责人回应调价",
-      "onboard_time": 1735007956,
-      "rank": 7,
-      "category": "美食,财经"
+      "raw_hot": 253680,
+      "num": 253680,
+      "word": "朱婷怒斥记者挑拨离间",
+      "onboard_time": 1735008738,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 253149,
@@ -2387,6 +2419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253051,
+      "num": 253051,
+      "word": "小佳被易烊千玺的表演震撼",
+      "onboard_time": 1735004717,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252942,
       "num": 252942,
       "word": "普京回应第三次世界大战是否正在进行",
@@ -2401,14 +2441,6 @@
       "onboard_time": 1734929060,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249605,
-      "num": 249605,
-      "word": "小佳被易烊千玺的表演震撼",
-      "onboard_time": 1735004717,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 248432,
@@ -2707,14 +2739,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 221480,
-      "num": 221480,
-      "word": "郭靖是个什么样的人",
-      "onboard_time": 1735007357,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 221350,
       "num": 221350,
       "word": "刘诗诗VOGUE香港版封面",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1734921917,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 218011,
-      "num": 218011,
-      "word": "王鹤棣粉丝包场88888座",
-      "onboard_time": 1735008377,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 217518,
@@ -2923,20 +2939,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207396,
+      "num": 207396,
+      "word": "王者荣耀",
+      "onboard_time": 1734844819,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207200,
       "num": 207200,
       "word": "小小的我",
       "onboard_time": 1734957858,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 207063,
-      "num": 207063,
-      "word": "平安夜",
-      "onboard_time": 1735007897,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 207050,
@@ -2969,14 +2985,6 @@
       "onboard_time": 1734922817,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205804,
-      "num": 205804,
-      "word": "王者荣耀",
-      "onboard_time": 1734844819,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 205338,
@@ -3049,6 +3057,14 @@
       "onboard_time": 1734832876,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200394,
+      "num": 200394,
+      "word": "尹锡悦各种拒收",
+      "onboard_time": 1735007537,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199969,
@@ -3169,14 +3185,6 @@
       "onboard_time": 1734848958,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196026,
-      "num": 196026,
-      "word": "尹锡悦各种拒收",
-      "onboard_time": 1735007537,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 195180,
@@ -3385,6 +3393,14 @@
       "onboard_time": 1734952038,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187405,
+      "num": 187405,
+      "word": "电影小小的我终极预告",
+      "onboard_time": 1735008738,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 187209,
@@ -3603,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173447,
+      "num": 376847,
+      "word": "房东用备用钥匙潜入租户家装摄像头",
+      "onboard_time": 1735007778,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173317,
       "num": 219552,
       "word": "徐艺洋回应情绪稳定",
@@ -3745,6 +3769,14 @@
       "onboard_time": 1734876740,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169191,
+      "num": 169191,
+      "word": "2024被这些奔跑瞬间治愈",
+      "onboard_time": 1735007778,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 169086,
@@ -4467,6 +4499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144545,
+      "num": 144545,
+      "word": "看辩论赛真的会让脑子变快吗",
+      "onboard_time": 1735008317,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142585,
-      "num": 142585,
-      "word": "2024被这些奔跑瞬间治愈",
-      "onboard_time": 1735007778,
-      "rank": 39,
-      "category": "正能量"
     },
     {
       "raw_hot": 141888,
@@ -5059,6 +5091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124766,
+      "num": 124766,
+      "word": "平安夜吃苹果",
+      "onboard_time": 1735008977,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124659,
       "num": 151337,
       "word": "冰雪大世界游客排队像贪吃蛇",
@@ -5131,22 +5171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123477,
-      "num": 123477,
-      "word": "朱婷怒斥记者挑拨离间",
-      "onboard_time": 1735008738,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 123477,
-      "num": 123477,
-      "word": "看辩论赛真的会让脑子变快吗",
-      "onboard_time": 1735008317,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122894,
       "num": 244970,
       "word": "陈雨菲 我回来了",
@@ -5161,14 +5185,6 @@
       "onboard_time": 1734874340,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122100,
-      "num": 122100,
-      "word": "电影小小的我终极预告",
-      "onboard_time": 1735008738,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 121898,
@@ -5209,14 +5225,6 @@
       "onboard_time": 1734856577,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120179,
-      "num": 247601,
-      "word": "房东用备用钥匙潜入租户家装摄像头",
-      "onboard_time": 1735007778,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120153,
@@ -5281,6 +5289,14 @@
       "onboard_time": 1734794599,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117855,
+      "num": 117855,
+      "word": "小女孩坐过站公交司机暖心送回",
+      "onboard_time": 1735009217,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 117817,
@@ -6043,6 +6059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92102,
+      "num": 261167,
+      "word": "律师评山姆代购疑似在厕所分装蛋糕",
+      "onboard_time": 1735007717,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92077,
       "num": 92077,
       "word": "单身小伙考研四战浙大",
@@ -6211,14 +6235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 84510,
-      "num": 222477,
-      "word": "律师评山姆代购疑似在厕所分装蛋糕",
-      "onboard_time": 1735007717,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83782,
       "num": 155365,
       "word": "番茄肥牛乌冬面太适合冬天了",
@@ -6361,6 +6377,14 @@
       "onboard_time": 1734772218,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75713,
+      "num": 210156,
+      "word": "董明珠称人生要在斗争中成长",
+      "onboard_time": 1735008377,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 75177,
@@ -6899,14 +6923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54898,
-      "num": 198369,
-      "word": "董明珠称人生要在斗争中成长",
-      "onboard_time": 1735008377,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 54874,
       "num": 332768,
       "word": "医生辟谣经常看吃播会得胆结石",
@@ -6985,6 +7001,14 @@
       "onboard_time": 1734858738,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 51360,
+      "num": 202671,
+      "word": "TheShy参加solo选边",
+      "onboard_time": 1735006156,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 51156,
@@ -7171,6 +7195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46816,
+      "num": 219458,
+      "word": "老人遭5只猎狗围咬伤口深达肌层",
+      "onboard_time": 1735009038,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46796,
       "num": 594006,
       "word": "对大运河沉淀2500年的历史有实感了",
@@ -7257,14 +7289,6 @@
       "onboard_time": 1734974353,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44053,
-      "num": 202671,
-      "word": "TheShy参加solo选边",
-      "onboard_time": 1735006156,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 43688,
@@ -7379,6 +7403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41082,
+      "num": 213952,
+      "word": "刘雨辰喊盛李豪练球",
+      "onboard_time": 1735009157,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40962,
       "num": 40962,
       "word": "官方通报上海地铁11号线最新情况",
@@ -7401,6 +7433,14 @@
       "onboard_time": 1734851958,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40360,
+      "num": 516952,
+      "word": "国家铁路完成货物发送量3.5亿吨",
+      "onboard_time": 1735008497,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 39876,
@@ -8203,14 +8243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16419,
-      "num": 516952,
-      "word": "国家铁路完成货物发送量3.5亿吨",
-      "onboard_time": 1735008497,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 16226,
       "num": 236329,
       "word": "对付鼻塞什么方法管用",
@@ -8273,6 +8305,22 @@
       "onboard_time": 1734995715,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13882,
+      "num": 529492,
+      "word": "文化中国行守护非遗之美",
+      "onboard_time": 1734986831,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 13743,
+      "num": 397362,
+      "word": "守护非遗之美",
+      "onboard_time": 1735009157,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 13369,
@@ -8355,6 +8403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10799,
+      "num": 209253,
+      "word": "黄子华说破地狱是一场疯狂的舞会",
+      "onboard_time": 1735009279,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 10756,
       "num": 40049,
       "word": "南方人有自己的吞灯泡",
@@ -8369,14 +8425,6 @@
       "onboard_time": 1734961101,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10728,
-      "num": 32092,
-      "word": "文化中国行守护非遗之美",
-      "onboard_time": 1734986831,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 10446,
