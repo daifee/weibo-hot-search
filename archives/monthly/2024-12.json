@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735044128020,
+  "endTime": 1735045040082,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2081,6 +2081,14 @@
       "onboard_time": 1733972419,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1460666,
+      "num": 1460666,
+      "word": "2025年总台春晚分会场发布",
+      "onboard_time": 1735042340,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1456348,
@@ -4577,14 +4585,6 @@
       "onboard_time": 1733240426,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1008774,
-      "num": 1161403,
-      "word": "2025年总台春晚分会场发布",
-      "onboard_time": 1735042340,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1008746,
@@ -8619,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682537,
+      "num": 682537,
+      "word": "妻儿车祸去世他义务指挥交通35年",
+      "onboard_time": 1735042158,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 681874,
       "num": 681874,
       "word": "过境免签外国人停留时间延长为240小时",
@@ -9345,6 +9353,14 @@
       "onboard_time": 1734519498,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649470,
+      "num": 609544,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 648878,
@@ -10812,7 +10828,7 @@
     },
     {
       "raw_hot": 588036,
-      "num": 445126,
+      "num": 525768,
       "word": "景区回应李现在虎跳峡举国旗",
       "onboard_time": 1735036819,
       "rank": 15,
@@ -13857,14 +13873,6 @@
       "onboard_time": 1733543960,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479348,
-      "num": 479348,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 478679,
@@ -17251,6 +17259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 396280,
+      "num": 287559,
+      "word": "徐冬冬大大方方的医美",
+      "onboard_time": 1735038558,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396074,
       "num": 396074,
       "word": "机票实付800多却只能报销520元",
@@ -17577,14 +17593,6 @@
       "onboard_time": 1733579542,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387178,
-      "num": 387178,
-      "word": "妻儿车祸去世他义务指挥交通35年",
-      "onboard_time": 1735042158,
-      "rank": 7,
-      "category": "正能量"
     },
     {
       "raw_hot": 386805,
@@ -18507,6 +18515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366786,
+      "num": 366786,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366472,
       "num": 366472,
       "word": "湖北一教师被捕兽电网电击身亡",
@@ -19369,14 +19385,6 @@
       "onboard_time": 1733239526,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 349900,
-      "num": 287559,
-      "word": "徐冬冬大大方方的医美",
-      "onboard_time": 1735038558,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 349727,
@@ -24203,6 +24211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271222,
+      "num": 271222,
+      "word": "田曦薇李一桐你们根本没喝中药",
+      "onboard_time": 1735039038,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271015,
       "num": 402129,
       "word": "潜逃前山西首富在英购买大量房产",
@@ -25851,14 +25867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249502,
-      "num": 249502,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 249486,
       "num": 249486,
       "word": "2024年中国芯片出口将破万亿",
@@ -25953,14 +25961,6 @@
       "onboard_time": 1733224880,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 248572,
-      "num": 248572,
-      "word": "田曦薇李一桐你们根本没喝中药",
-      "onboard_time": 1735039038,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 248465,
@@ -30979,6 +30979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208875,
+      "num": 208875,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208869,
       "num": 208869,
       "word": "蔚来NIO Day",
@@ -31177,6 +31185,14 @@
       "onboard_time": 1733057480,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207846,
+      "num": 207846,
+      "word": "成毅谢淮安一秒变脸",
+      "onboard_time": 1735044378,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 207799,
@@ -33113,6 +33129,14 @@
       "onboard_time": 1734186381,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199642,
+      "num": 227261,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 199641,
@@ -37019,6 +37043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187159,
+      "num": 336629,
+      "word": "张桂梅的学生已成教师医生护士",
+      "onboard_time": 1735036459,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 187147,
       "num": 187147,
       "word": "虞书欣漫游阿布扎比",
@@ -38555,14 +38587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 180326,
-      "num": 180326,
-      "word": "张桂梅的学生已成教师医生护士",
-      "onboard_time": 1735036459,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 180310,
       "num": 187322,
       "word": "易烊千玺清扫心上的垢尘",
@@ -39825,14 +39849,6 @@
       "onboard_time": 1734014662,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174858,
-      "num": 174858,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174790,
@@ -45283,6 +45299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "新闻联播播出他生前最后一段影像",
+      "onboard_time": 1735044499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155692,
       "num": 321722,
       "word": "陈建斌带法国影后回中戏母校",
@@ -45737,6 +45761,14 @@
       "onboard_time": 1733980041,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 154542,
+      "num": 154542,
+      "word": "美国女政客叫嚣处决杀害美国人的移民",
+      "onboard_time": 1735043839,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 154500,
@@ -46497,6 +46529,14 @@
       "onboard_time": 1734525260,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 152286,
+      "num": 247945,
+      "word": "网剧冬至好甜",
+      "onboard_time": 1735039998,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 152212,
@@ -49273,6 +49313,14 @@
       "onboard_time": 1734189021,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142700,
+      "num": 247679,
+      "word": "近三年净水器抽检合格不到7成",
+      "onboard_time": 1735043718,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 142669,
@@ -55267,6 +55315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123038,
+      "num": 123038,
+      "word": "平安夜文案",
+      "onboard_time": 1735041677,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122951,
       "num": 122951,
       "word": "崔永熙14分",
@@ -58547,14 +58603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110904,
-      "num": 110904,
-      "word": "美国女政客叫嚣处决杀害美国人的移民",
-      "onboard_time": 1735043839,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110854,
       "num": 110854,
       "word": "窦昭垂耳兔",
@@ -58673,14 +58721,6 @@
       "onboard_time": 1734876920,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 110391,
-      "num": 110391,
-      "word": "辛巴咳嗽不止自曝患病",
-      "onboard_time": 1735044019,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 110201,
@@ -59745,6 +59785,14 @@
       "onboard_time": 1735002679,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 106095,
+      "num": 106095,
+      "word": "谢娜湿润的眼眶是母爱的具象化",
+      "onboard_time": 1735044919,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 106082,
@@ -61209,14 +61257,6 @@
       "onboard_time": 1733307324,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 99379,
-      "num": 99379,
-      "word": "平安夜文案",
-      "onboard_time": 1735041677,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 99361,
@@ -62979,14 +63019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91110,
-      "num": 247945,
-      "word": "网剧冬至好甜",
-      "onboard_time": 1735039998,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91092,
       "num": 91092,
       "word": "李铁案一审今日宣判",
@@ -63953,6 +63985,14 @@
       "onboard_time": 1734059238,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85615,
+      "num": 209383,
+      "word": "杜城沈翊 这算工伤了",
+      "onboard_time": 1735044439,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 85596,
@@ -68107,6 +68147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 65881,
+      "num": 159436,
+      "word": "steam冬促",
+      "onboard_time": 1735042519,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65878,
       "num": 430421,
       "word": "家长称学校用数智家校查成绩要付费",
@@ -71243,6 +71291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53010,
+      "num": 207990,
+      "word": "王者新赛季四款福利皮肤",
+      "onboard_time": 1735042458,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53007,
       "num": 350341,
       "word": "取消公摊实际应为按套内面积计价",
@@ -73289,6 +73345,14 @@
       "onboard_time": 1734952818,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46026,
+      "num": 259376,
+      "word": "物业经理阻止幼儿园开学8年后被诉",
+      "onboard_time": 1735043958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46025,
@@ -77355,14 +77419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34235,
-      "num": 247679,
-      "word": "近三年净水器抽检合格不到7成",
-      "onboard_time": 1735043718,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 34223,
       "num": 279128,
       "word": "2024中国健儿这些话鼓舞人心",
@@ -79163,6 +79219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30073,
+      "num": 196712,
+      "word": "林一带着白白来和大家sayhihi",
+      "onboard_time": 1735044080,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30067,
       "num": 236585,
       "word": "张译亮相海南岛电影节",
@@ -80729,14 +80793,6 @@
       "onboard_time": 1733074514,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25326,
-      "num": 259376,
-      "word": "物业经理阻止幼儿园开学8年后被诉",
-      "onboard_time": 1735043958,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25300,
@@ -82529,14 +82585,6 @@
       "onboard_time": 1734096919,
       "rank": 28,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19586,
-      "num": 196712,
-      "word": "林一带着白白来和大家sayhihi",
-      "onboard_time": 1735044080,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 19581,
@@ -85497,6 +85545,14 @@
       "onboard_time": 1734295331,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10943,
+      "num": 705102,
+      "word": "冰雪微笑曲线",
+      "onboard_time": 1735030399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10904,

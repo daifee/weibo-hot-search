@@ -1,0 +1,410 @@
+{
+  "runTime": 1735045040082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1460666,
+        "num": 1460666,
+        "word": "2025年总台春晚分会场发布",
+        "onboard_time": 1735042340,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 855494,
+        "num": 855494,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10943,
+        "num": 705102,
+        "word": "冰雪微笑曲线",
+        "onboard_time": 1735030399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 682537,
+        "num": 682537,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 648198,
+        "num": 648198,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 649470,
+        "num": 609544,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78562,
+        "num": 525802,
+        "word": "240小时过境免签超City",
+        "onboard_time": 1735030579,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525768,
+        "num": 525768,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366786,
+        "num": 366786,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187159,
+        "num": 336629,
+        "word": "张桂梅的学生已成教师医生护士",
+        "onboard_time": 1735036459,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 384372,
+        "num": 334528,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327301,
+        "num": 327301,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282198,
+        "num": 282198,
+        "word": "何炅 最怕突然的沉默",
+        "onboard_time": 1735041559,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271222,
+        "num": 271222,
+        "word": "田曦薇李一桐你们根本没喝中药",
+        "onboard_time": 1735039038,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46026,
+        "num": 257217,
+        "word": "物业经理阻止幼儿园开学8年后被诉",
+        "onboard_time": 1735043958,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244994,
+        "num": 244994,
+        "word": "官方通报网红狼被大货车不慎压死",
+        "onboard_time": 1735036518,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 199642,
+        "num": 227261,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 214935,
+        "num": 214935,
+        "word": "蒋欣回应蒋欣在哪里",
+        "onboard_time": 1735035799,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85615,
+        "num": 209383,
+        "word": "杜城沈翊 这算工伤了",
+        "onboard_time": 1735044439,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142700,
+        "num": 208893,
+        "word": "近三年净水器抽检合格不到7成",
+        "onboard_time": 1735043718,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 206879,
+        "num": 208883,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208875,
+        "num": 208875,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 430237,
+        "num": 208860,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396280,
+        "num": 208454,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53010,
+        "num": 207990,
+        "word": "王者新赛季四款福利皮肤",
+        "onboard_time": 1735042458,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207846,
+        "num": 207846,
+        "word": "成毅谢淮安一秒变脸",
+        "onboard_time": 1735044378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196867,
+        "num": 196867,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186699,
+        "num": 186699,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184250,
+        "num": 184250,
+        "word": "猎罪2一个案子集齐贪嗔痴",
+        "onboard_time": 1735038859,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181476,
+        "num": 181476,
+        "word": "长津湖",
+        "onboard_time": 1735037719,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169536,
+        "num": 169536,
+        "word": "春晚",
+        "onboard_time": 1735041918,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168660,
+        "num": 168660,
+        "word": "王楚钦说巴黎没有达到预期",
+        "onboard_time": 1735038438,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30073,
+        "num": 165762,
+        "word": "林一带着白白来和大家sayhihi",
+        "onboard_time": 1735044080,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165562,
+        "num": 165562,
+        "word": "高校回应安置男博士配偶工作",
+        "onboard_time": 1735042638,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65881,
+        "num": 159436,
+        "word": "steam冬促",
+        "onboard_time": 1735042519,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "老师背着4个月女儿上课",
+        "onboard_time": 1735041078,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155709,
+        "num": 155709,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "美国女政客叫嚣处决杀害美国人的移民",
+        "onboard_time": 1735043839,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152286,
+        "num": 152286,
+        "word": "网剧冬至好甜",
+        "onboard_time": 1735039998,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135245,
+        "num": 135245,
+        "word": "年度报告",
+        "onboard_time": 1735032319,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133207,
+        "num": 133207,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132334,
+        "num": 132334,
+        "word": "孟子义是李昀锐的特笑药",
+        "onboard_time": 1735037899,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123038,
+        "num": 123038,
+        "word": "平安夜文案",
+        "onboard_time": 1735041677,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 786350,
+        "num": 123000,
+        "word": "优酷过审鬼才",
+        "onboard_time": 1735037479,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122817,
+        "num": 122817,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121912,
+        "num": 121912,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117514,
+        "num": 117514,
+        "word": "京城大师赛",
+        "onboard_time": 1735043059,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109155,
+        "num": 109155,
+        "word": "吃砂糖橘真的会促进肿瘤生长吗",
+        "onboard_time": 1735028718,
+        "rank": 47,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 106095,
+        "num": 106095,
+        "word": "谢娜湿润的眼眶是母爱的具象化",
+        "onboard_time": 1735044919,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103110,
+        "num": 103110,
+        "word": "宋亚轩刘耀文张真源狗狗大片",
+        "onboard_time": 1735043477,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

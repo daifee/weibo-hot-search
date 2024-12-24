@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735044128020,
+  "endTime": 1735045040082,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -57,6 +57,14 @@
       "onboard_time": 1735013119,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1460666,
+      "num": 1460666,
+      "word": "2025年总台春晚分会场发布",
+      "onboard_time": 1735042340,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1430655,
@@ -139,14 +147,6 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 1008774,
-      "num": 1161403,
-      "word": "2025年总台春晚分会场发布",
-      "onboard_time": 1735042340,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1002443,
       "num": 1002443,
       "word": "穷鬼套餐",
@@ -219,6 +219,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 682537,
+      "num": 682537,
+      "word": "妻儿车祸去世他义务指挥交通35年",
+      "onboard_time": 1735042158,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 674642,
       "num": 292462,
       "word": "刘强东提前发年终奖",
@@ -257,6 +265,14 @@
       "onboard_time": 1735034719,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649470,
+      "num": 609544,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 648859,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 588036,
-      "num": 445126,
+      "num": 525768,
       "word": "景区回应李现在虎跳峡举国旗",
       "onboard_time": 1735036819,
       "rank": 15,
@@ -451,14 +467,6 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 479348,
-      "num": 479348,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 475719,
       "num": 475719,
       "word": "3女生考研最后一科被反锁酒店",
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396280,
+      "num": 287559,
+      "word": "徐冬冬大大方方的医美",
+      "onboard_time": 1735038558,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396014,
       "num": 396014,
       "word": "易烊千玺小小的我暴瘦",
@@ -585,14 +601,6 @@
       "onboard_time": 1735002859,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 387178,
-      "num": 387178,
-      "word": "妻儿车祸去世他义务指挥交通35年",
-      "onboard_time": 1735042158,
-      "rank": 7,
-      "category": "正能量"
     },
     {
       "raw_hot": 384594,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366786,
+      "num": 366786,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361246,
       "num": 361246,
       "word": "他的人生被困在了1996年",
@@ -657,14 +673,6 @@
       "onboard_time": 1735024039,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 349900,
-      "num": 287559,
-      "word": "徐冬冬大大方方的医美",
-      "onboard_time": 1735038558,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 349695,
@@ -843,6 +851,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 271222,
+      "num": 271222,
+      "word": "田曦薇李一桐你们根本没喝中药",
+      "onboard_time": 1735039038,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267740,
       "num": 267740,
       "word": "32岁飞行员失联车内情况被还原",
@@ -897,22 +913,6 @@
       "onboard_time": 1735019598,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249502,
-      "num": 249502,
-      "word": "TES对战iG",
-      "onboard_time": 1735040597,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 248572,
-      "num": 248572,
-      "word": "田曦薇李一桐你们根本没喝中药",
-      "onboard_time": 1735039038,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 248465,
@@ -1051,12 +1051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208875,
+      "num": 208875,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 208509,
       "num": 257632,
       "word": "粉丝帮宁艺卓结账",
       "onboard_time": 1735013179,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207846,
+      "num": 207846,
+      "word": "成毅谢淮安一秒变脸",
+      "onboard_time": 1735044378,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 207474,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1735007537,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199642,
+      "num": 227261,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 197790,
@@ -1275,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187159,
+      "num": 336629,
+      "word": "张桂梅的学生已成教师医生护士",
+      "onboard_time": 1735036459,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 187145,
       "num": 178678,
       "word": "外交部回应考虑明年进口日本水产品",
@@ -1347,14 +1379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 180326,
-      "num": 180326,
-      "word": "张桂梅的学生已成教师医生护士",
-      "onboard_time": 1735036459,
-      "rank": 33,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "不是狼想当网红而是有人想赚流量",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1735029740,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174858,
-      "num": 174858,
-      "word": "美国航空公司全美停飞",
-      "onboard_time": 1735043538,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174320,
@@ -1579,6 +1595,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155709,
+      "num": 155709,
+      "word": "新闻联播播出他生前最后一段影像",
+      "onboard_time": 1735044499,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154542,
+      "num": 154542,
+      "word": "美国女政客叫嚣处决杀害美国人的移民",
+      "onboard_time": 1735043839,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154338,
       "num": 154338,
       "word": "于正签约天选古人上演员3",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1735033819,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152286,
+      "num": 247945,
+      "word": "网剧冬至好甜",
+      "onboard_time": 1735039998,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 151053,
@@ -1705,6 +1745,14 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142700,
+      "num": 247679,
+      "word": "近三年净水器抽检合格不到7成",
+      "onboard_time": 1735043718,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 142432,
@@ -2003,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123038,
+      "num": 123038,
+      "word": "平安夜文案",
+      "onboard_time": 1735041677,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122349,
       "num": 122349,
       "word": "被铁路售票员的手速惊到了",
@@ -2107,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117514,
+      "num": 231440,
+      "word": "京城大师赛",
+      "onboard_time": 1735043059,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117264,
       "num": 117264,
       "word": "齐秦长期吃槟榔",
@@ -2179,28 +2243,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 110904,
-      "num": 110904,
-      "word": "美国女政客叫嚣处决杀害美国人的移民",
-      "onboard_time": 1735043839,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110895,
       "num": 110895,
       "word": "液体勺",
       "onboard_time": 1734952578,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110391,
-      "num": 110391,
-      "word": "辛巴咳嗽不止自曝患病",
-      "onboard_time": 1735044019,
-      "rank": 45,
-      "category": "网红"
     },
     {
       "raw_hot": 108536,
@@ -2243,20 +2291,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106095,
+      "num": 106095,
+      "word": "谢娜湿润的眼眶是母爱的具象化",
+      "onboard_time": 1735044919,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105767,
       "num": 105767,
       "word": "房东偷装摄像头偷窥租客获刑半年",
       "onboard_time": 1735009877,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103840,
-      "num": 231440,
-      "word": "京城大师赛",
-      "onboard_time": 1735043059,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 103322,
@@ -2297,14 +2345,6 @@
       "onboard_time": 1735013179,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99379,
-      "num": 99379,
-      "word": "平安夜文案",
-      "onboard_time": 1735041677,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 99344,
@@ -2371,14 +2411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91110,
-      "num": 247945,
-      "word": "网剧冬至好甜",
-      "onboard_time": 1735039998,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91060,
       "num": 91060,
       "word": "女生考研后收到室友惊喜瞬间泪目",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1735035018,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85615,
+      "num": 209383,
+      "word": "杜城沈翊 这算工伤了",
+      "onboard_time": 1735044439,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 85183,
@@ -2667,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65881,
+      "num": 159436,
+      "word": "steam冬促",
+      "onboard_time": 1735042519,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65473,
       "num": 286374,
       "word": "考古的风吹到了李昀锐",
@@ -2867,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53010,
+      "num": 207990,
+      "word": "王者新赛季四款福利皮肤",
+      "onboard_time": 1735042458,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "建行APP崩了",
@@ -2985,6 +3041,14 @@
       "onboard_time": 1735032379,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 46026,
+      "num": 259376,
+      "word": "物业经理阻止幼儿园开学8年后被诉",
+      "onboard_time": 1735043958,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45782,
@@ -3195,14 +3259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34235,
-      "num": 247679,
-      "word": "近三年净水器抽检合格不到7成",
-      "onboard_time": 1735043718,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 34057,
       "num": 256624,
       "word": "方励说不爱算账更爱随心所欲做事",
@@ -3273,6 +3329,14 @@
       "onboard_time": 1734986831,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 30073,
+      "num": 196712,
+      "word": "林一带着白白来和大家sayhihi",
+      "onboard_time": 1735044080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 29885,
@@ -3371,14 +3435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25326,
-      "num": 259376,
-      "word": "物业经理阻止幼儿园开学8年后被诉",
-      "onboard_time": 1735043958,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25153,
       "num": 188929,
       "word": "A股再现天价离婚案分手费4亿",
@@ -3425,14 +3481,6 @@
       "onboard_time": 1735010658,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19586,
-      "num": 196712,
-      "word": "林一带着白白来和大家sayhihi",
-      "onboard_time": 1735044080,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 19525,
@@ -3536,6 +3584,14 @@
       "word": "河南女法官被害案一审宣判",
       "onboard_time": 1734996796,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10943,
+      "num": 705102,
+      "word": "冰雪微笑曲线",
+      "onboard_time": 1735030399,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
