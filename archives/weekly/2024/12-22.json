@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735029721794,
+  "endTime": 1735032175912,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -875,6 +875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 684271,
+      "num": 684271,
+      "word": "当网红狼死在车轮下你还觉得好笑吗",
+      "onboard_time": 1735029798,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 679597,
       "num": 679597,
       "word": "数三 感觉简单但是不会",
@@ -945,6 +953,14 @@
       "onboard_time": 1734835338,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 662779,
+      "num": 603080,
+      "word": "杨子 延迟退休",
+      "onboard_time": 1735025118,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 656838,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 603080,
-      "num": 603080,
-      "word": "杨子 延迟退休",
-      "onboard_time": 1735025118,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 601273,
@@ -1331,11 +1339,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514654,
+      "num": 396079,
+      "word": "WPS父主题",
+      "onboard_time": 1735029439,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 506977,
+      "num": 398185,
+      "word": "姜珮瑶首部古装剧演花魁",
+      "onboard_time": 1735029258,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
       "onboard_time": 1734885316,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491606,
+      "num": 491606,
+      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
+      "onboard_time": 1735028539,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1819,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396014,
+      "num": 396014,
+      "word": "易烊千玺小小的我暴瘦",
+      "onboard_time": 1735027939,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395567,
       "num": 395567,
       "word": "QQ音乐报告 NCT专辑",
@@ -1899,20 +1939,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 378841,
+      "num": 378841,
+      "word": "投喂网红狼是否需要担责",
+      "onboard_time": 1735026500,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377188,
       "num": 377188,
       "word": "考研数学答案",
       "onboard_time": 1734839417,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 376158,
-      "num": 284911,
-      "word": "易烊千玺小小的我暴瘦",
-      "onboard_time": 1735027939,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 374231,
@@ -2040,14 +2080,6 @@
       "word": "男子网贷1000元3天内需还2000元",
       "onboard_time": 1734823693,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 353146,
-      "num": 353146,
-      "word": "投喂网红狼是否需要担责",
-      "onboard_time": 1735026500,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -2699,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258223,
+      "num": 258223,
+      "word": "谢娜陈乔恩 真闺蜜才敢说真话",
+      "onboard_time": 1735031239,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258045,
       "num": 258045,
       "word": "重庆理工通报硕士失联",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1734786140,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248355,
+      "num": 219890,
+      "word": "吃砂糖橘真的会促进肿瘤生长吗",
+      "onboard_time": 1735028718,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 247626,
@@ -3347,14 +3395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208071,
-      "num": 208071,
-      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
-      "onboard_time": 1735028539,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208065,
       "num": 208065,
       "word": "林一spicyhoney手势舞版",
@@ -3611,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197733,
-      "num": 191238,
-      "word": "姜珮瑶首部古装剧演花魁",
-      "onboard_time": 1735029258,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197170,
       "num": 197170,
       "word": "程潇蝴蝶结镶钻礼裙",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1734848958,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195877,
+      "num": 195877,
+      "word": "火车售票员打字开了5倍速吗",
+      "onboard_time": 1735030519,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195180,
@@ -3769,6 +3809,14 @@
       "onboard_time": 1734871280,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191196,
+      "num": 161401,
+      "word": "张真源 LV",
+      "onboard_time": 1735030158,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 191163,
@@ -4131,6 +4179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177786,
+      "num": 177786,
+      "word": "女子发现房顶小孔竟是针孔摄像头",
+      "onboard_time": 1735031477,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177759,
       "num": 177759,
       "word": "肖战打戏",
@@ -4177,6 +4233,14 @@
       "onboard_time": 1734868278,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175334,
+      "num": 175334,
+      "word": "微博全勤奖",
+      "onboard_time": 1735029740,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 175255,
@@ -4723,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158500,
+      "num": 258843,
+      "word": "张馨予嫁给何捷是嫁给了爱情",
+      "onboard_time": 1735030399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158409,
       "num": 158409,
       "word": "你好星期六下期是北上",
@@ -5195,14 +5267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 144428,
-      "num": 144428,
-      "word": "WPS父主题",
-      "onboard_time": 1735029439,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
@@ -5211,12 +5275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143952,
-      "num": 190302,
-      "word": "吃砂糖橘真的会促进肿瘤生长吗",
-      "onboard_time": 1735028718,
-      "rank": 44,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "于正签约天选古人上演员3",
+      "onboard_time": 1735029618,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 143826,
@@ -5417,6 +5481,14 @@
       "onboard_time": 1735014260,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138145,
+      "num": 138145,
+      "word": "李昀锐 大馋小子",
+      "onboard_time": 1735031357,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 137923,
@@ -5779,6 +5851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128003,
+      "num": 128003,
+      "word": "徐志胜当喜剧节目导师",
+      "onboard_time": 1735030579,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127743,
       "num": 127743,
       "word": "王心凌演唱会吉他手是陈楚生",
@@ -6027,14 +6107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121366,
-      "num": 121366,
-      "word": "于正签约天选古人上演员3",
-      "onboard_time": 1735029618,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 121121,
       "num": 323390,
       "word": "黄景瑜高段位现偶男主",
@@ -6049,6 +6121,14 @@
       "onboard_time": 1735007178,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120499,
+      "num": 120499,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 120441,
@@ -6073,6 +6153,14 @@
       "onboard_time": 1734823815,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119934,
+      "num": 258484,
+      "word": "没停车44天后却要缴2334元",
+      "onboard_time": 1735031178,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119778,
@@ -6129,6 +6217,14 @@
       "onboard_time": 1734784819,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118262,
+      "num": 118262,
+      "word": "小小的我预售破亿",
+      "onboard_time": 1735029740,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 118173,
@@ -6257,6 +6353,14 @@
       "onboard_time": 1734847157,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115918,
+      "num": 115918,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 115717,
@@ -6457,6 +6561,14 @@
       "onboard_time": 1734939799,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111038,
+      "num": 111038,
+      "word": "王楚钦2024年拿了16座冠军",
+      "onboard_time": 1735029979,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110525,
@@ -6971,6 +7083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92655,
+      "num": 580620,
+      "word": "240小时过境免签超City",
+      "onboard_time": 1735030579,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92592,
       "num": 263515,
       "word": "向鱼画鱼",
@@ -7280,6 +7400,14 @@
       "word": "把游客宠上天倒也不必苛求当地人",
       "onboard_time": 1734879860,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78959,
+      "num": 396790,
+      "word": "淄博植物园内数只流浪猫死亡",
+      "onboard_time": 1735030998,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -8619,6 +8747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41178,
+      "num": 258915,
+      "word": "赵不尤 男人七分醉哭到你流泪",
+      "onboard_time": 1735031357,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41082,
       "num": 213952,
       "word": "刘雨辰喊盛李豪练球",
@@ -8739,6 +8875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 38119,
+      "num": 137860,
+      "word": "风中的火焰上桌",
+      "onboard_time": 1735032078,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 37965,
       "num": 275434,
       "word": "误杀3新浪扫楼",
@@ -8833,6 +8977,14 @@
       "onboard_time": 1734881420,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36420,
+      "num": 128745,
+      "word": "年轻人爱买黄金的血脉觉醒了",
+      "onboard_time": 1735027998,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36377,
@@ -9028,7 +9180,7 @@
     },
     {
       "raw_hot": 32419,
-      "num": 189689,
+      "num": 258262,
       "word": "黄健翔问足坛最强11人是谁",
       "onboard_time": 1735029199,
       "rank": 30,
@@ -9347,6 +9499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26051,
+      "num": 196175,
+      "word": "2024哪个体育名场面令你印象深刻",
+      "onboard_time": 1735023919,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25300,
       "num": 39082,
       "word": "王一博探索新境海外预告",
@@ -9400,6 +9560,14 @@
       "word": "景区回应用绳子制造人工冰瀑",
       "onboard_time": 1734974893,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23991,
+      "num": 265932,
+      "word": "网约车司机称想要干净整洁但没时间",
+      "onboard_time": 1735031837,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -9641,14 +9809,6 @@
       "onboard_time": 1734988992,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 14881,
-      "num": 128745,
-      "word": "年轻人爱买黄金的血脉觉醒了",
-      "onboard_time": 1735027998,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14713,
