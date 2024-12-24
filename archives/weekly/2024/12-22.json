@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735035778508,
+  "endTime": 1735036826057,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1204285,
+      "num": 1204285,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1199523,
       "num": 1199523,
       "word": "肖战版郭靖造型",
@@ -329,14 +337,6 @@
       "onboard_time": 1734912077,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1180764,
-      "num": 1180764,
-      "word": "微信蓝包",
-      "onboard_time": 1735032078,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 1173885,
@@ -449,6 +449,14 @@
       "onboard_time": 1735004837,
       "rank": 17,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 1002443,
+      "num": 1002443,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 996664,
@@ -835,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 728324,
-      "num": 728324,
-      "word": "穷鬼套餐",
-      "onboard_time": 1735031837,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 723125,
       "num": 723125,
       "word": "取消公摊如何弥补之前买房的公摊",
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 636524,
+      "num": 371535,
+      "word": "女子做全裸SPA遭老板偷拍",
+      "onboard_time": 1735034719,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 636043,
       "num": 636043,
       "word": "曾黎被中医认证深通中医之道",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 603935,
+      "num": 603935,
+      "word": "北京环球影城偶遇王楚钦",
+      "onboard_time": 1735034778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 602377,
@@ -1305,14 +1321,6 @@
       "onboard_time": 1734936138,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540579,
-      "num": 214518,
-      "word": "女子做全裸SPA遭老板偷拍",
-      "onboard_time": 1735034719,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 531453,
@@ -1859,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399246,
+      "num": 399246,
+      "word": "清华女硕士二次入伍被授衔中尉",
+      "onboard_time": 1735033639,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398913,
       "num": 398913,
       "word": "杨紫李现古装cp感",
@@ -2147,20 +2163,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 346809,
-      "num": 346809,
-      "word": "清华女硕士二次入伍被授衔中尉",
-      "onboard_time": 1735033639,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345579,
       "num": 345579,
       "word": "南京小朋友5米距离看江豚捕鱼",
       "onboard_time": 1735023859,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341331,
+      "num": 431543,
+      "word": "郭敬明发夏之光原始帧",
+      "onboard_time": 1735032620,
+      "rank": 38,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 339564,
@@ -2459,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296834,
-      "num": 431543,
-      "word": "郭敬明发夏之光原始帧",
-      "onboard_time": 1735032620,
-      "rank": 38,
-      "category": "作品衍生,体育"
-    },
-    {
       "raw_hot": 293283,
       "num": 638133,
       "word": "上海地铁11号线抢修",
@@ -2763,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262596,
+      "num": 595681,
+      "word": "国色芳华OST阵容官宣",
+      "onboard_time": 1735035379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261203,
       "num": 232394,
       "word": "李行亮写歌控诉麦琳",
@@ -2881,14 +2897,6 @@
       "onboard_time": 1734929060,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249222,
-      "num": 249222,
-      "word": "北京环球影城偶遇王楚钦",
-      "onboard_time": 1735034778,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 248465,
@@ -3331,6 +3339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215195,
+      "num": 561785,
+      "word": "蒋欣回应蒋欣在哪里",
+      "onboard_time": 1735035799,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 214064,
       "num": 214064,
       "word": "孙膑马超战令新皮肤",
@@ -3555,6 +3571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204401,
+      "num": 204401,
+      "word": "丁禹兮话剧粉",
+      "onboard_time": 1735035679,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204346,
       "num": 300074,
       "word": "肖战说希望交出更好的答卷",
@@ -3601,14 +3625,6 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201963,
-      "num": 201963,
-      "word": "国色芳华OST阵容官宣",
-      "onboard_time": 1735035379,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 201117,
@@ -3833,6 +3849,14 @@
       "onboard_time": 1734923958,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193837,
+      "num": 258843,
+      "word": "张馨予嫁给何捷是嫁给了爱情",
+      "onboard_time": 1735030399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 193535,
@@ -4216,14 +4240,6 @@
       "word": "nctwish到底要干嘛",
       "onboard_time": 1734851657,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181092,
-      "num": 258843,
-      "word": "张馨予嫁给何捷是嫁给了爱情",
-      "onboard_time": 1735030399,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -4915,6 +4931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158285,
+      "num": 158285,
+      "word": "孩子随口一句话男子把家砸烂",
+      "onboard_time": 1735035919,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158000,
       "num": 158000,
       "word": "医院回应产妇家中产女被拒开出生证",
@@ -5467,12 +5491,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141264,
+      "num": 141264,
+      "word": "孟子义祝绪丹上桌",
+      "onboard_time": 1735036279,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140883,
       "num": 140883,
       "word": "刘宇宁聚餐打包剩饭",
       "onboard_time": 1734945558,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140828,
+      "num": 140828,
+      "word": "苹果",
+      "onboard_time": 1735036698,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 140506,
@@ -5521,6 +5561,14 @@
       "onboard_time": 1734949818,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139849,
+      "num": 139849,
+      "word": "刘彰全A从纽约大学毕业",
+      "onboard_time": 1735036339,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 139807,
@@ -5723,20 +5771,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134476,
+      "num": 134476,
+      "word": "吻上王一博可爱表情包",
+      "onboard_time": 1735032798,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134370,
       "num": 148779,
       "word": "王楚钦第52周继续霸榜世一",
       "onboard_time": 1735003878,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134256,
-      "num": 134256,
-      "word": "吻上王一博可爱表情包",
-      "onboard_time": 1735032798,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 133826,
@@ -5761,14 +5809,6 @@
       "onboard_time": 1734942857,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133327,
-      "num": 133327,
-      "word": "丁禹兮话剧粉",
-      "onboard_time": 1735035679,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 133250,
@@ -5945,6 +5985,22 @@
       "onboard_time": 1734855319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129113,
+      "num": 200623,
+      "word": "光遇",
+      "onboard_time": 1734944958,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128805,
+      "num": 128805,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 128668,
@@ -6243,6 +6299,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122043,
+      "num": 207188,
+      "word": "全红婵哥哥回应蹭热度带货",
+      "onboard_time": 1735034479,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121898,
       "num": 383588,
       "word": "马峰押题的神",
@@ -6523,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115505,
+      "num": 1047119,
+      "word": "240小时过境免签超City",
+      "onboard_time": 1735030579,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115230,
       "num": 115230,
       "word": "迪丽热巴贺思慕玩雪路透",
@@ -6601,14 +6673,6 @@
       "onboard_time": 1734951798,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113309,
-      "num": 835836,
-      "word": "240小时过境免签超City",
-      "onboard_time": 1735030579,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113147,
@@ -6811,14 +6875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107809,
-      "num": 107809,
-      "word": "全红婵哥哥回应蹭热度带货",
-      "onboard_time": 1735034479,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107701,
       "num": 107701,
       "word": "多家航司回应飞机锁座越来越多",
@@ -6937,6 +6993,14 @@
       "onboard_time": 1734858798,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104421,
+      "num": 404744,
+      "word": "张颂文回应新剧演技争议",
+      "onboard_time": 1735036579,
+      "rank": 15,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 104391,
@@ -7459,6 +7523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86116,
+      "num": 509398,
+      "word": "官方通报网红狼被大货车不慎压死",
+      "onboard_time": 1735036518,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 85917,
+      "num": 474049,
+      "word": "要求杂草限高10厘米一地官员被处理",
+      "onboard_time": 1735035018,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85295,
       "num": 286057,
       "word": "孙颖莎全年共获得14个冠军",
@@ -7625,6 +7705,14 @@
       "onboard_time": 1735027278,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76742,
+      "num": 216066,
+      "word": "官方回应洒水车野蛮洒水浇透老人",
+      "onboard_time": 1735034958,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76583,
@@ -8091,6 +8179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62915,
+      "num": 161594,
+      "word": "早期孟子义",
+      "onboard_time": 1735034719,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62201,
       "num": 298353,
       "word": "戚薇是请吃饭的漂亮姐姐",
@@ -8129,14 +8225,6 @@
       "onboard_time": 1734962060,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60959,
-      "num": 418007,
-      "word": "要求杂草限高10厘米一地官员被处理",
-      "onboard_time": 1735035018,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60933,
@@ -8475,6 +8563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51685,
+      "num": 406662,
+      "word": "那些放弃考研的大学生们",
+      "onboard_time": 1735035018,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 51439,
       "num": 206597,
       "word": "专家说目标没有达成就修改目标",
@@ -8595,14 +8691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49640,
-      "num": 255639,
-      "word": "那些放弃考研的大学生们",
-      "onboard_time": 1735035018,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 49527,
       "num": 881281,
       "word": "宇宙年味发动机已启动",
@@ -8697,14 +8785,6 @@
       "onboard_time": 1734801194,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 47018,
-      "num": 216066,
-      "word": "官方回应洒水车野蛮洒水浇透老人",
-      "onboard_time": 1735034958,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46941,
@@ -9068,7 +9148,7 @@
     },
     {
       "raw_hot": 39053,
-      "num": 249403,
+      "num": 403285,
       "word": "王奕周诗雨真心话连麦",
       "onboard_time": 1735035259,
       "rank": 17,
@@ -9265,14 +9345,6 @@
       "onboard_time": 1734944717,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 35901,
-      "num": 200623,
-      "word": "光遇",
-      "onboard_time": 1734944958,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 35732,
@@ -9659,6 +9731,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 27647,
+      "num": 174910,
+      "word": "被家暴16次女子称这两年是至暗时刻",
+      "onboard_time": 1735036698,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27544,
       "num": 34711,
       "word": "新的一年愿你有爱愿你被爱",
@@ -9747,6 +9827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25669,
+      "num": 401884,
+      "word": "黑神话获Steam白金级认证",
+      "onboard_time": 1735036579,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25300,
       "num": 39082,
       "word": "王一博探索新境海外预告",
@@ -9833,6 +9921,14 @@
       "onboard_time": 1734965901,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22150,
+      "num": 408646,
+      "word": "张颂文称曾被人用长相打击",
+      "onboard_time": 1735036099,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 22103,
@@ -10193,6 +10289,14 @@
       "onboard_time": 1734987731,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10411,
+      "num": 399372,
+      "word": "冬至 孙千一集哭四次",
+      "onboard_time": 1735036579,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 10039,

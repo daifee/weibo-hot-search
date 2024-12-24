@@ -1,0 +1,410 @@
+{
+  "runTime": 1735036826057,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309839,
+        "num": 1309839,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1204285,
+        "num": 1204285,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115505,
+        "num": 1047119,
+        "word": "240小时过境免签超City",
+        "onboard_time": 1735030579,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1002443,
+        "num": 1002443,
+        "word": "穷鬼套餐",
+        "onboard_time": 1735031837,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 648225,
+        "num": 648225,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603935,
+        "num": 603935,
+        "word": "北京环球影城偶遇王楚钦",
+        "onboard_time": 1735034778,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262596,
+        "num": 595681,
+        "word": "国色芳华OST阵容官宣",
+        "onboard_time": 1735035379,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215195,
+        "num": 561785,
+        "word": "蒋欣回应蒋欣在哪里",
+        "onboard_time": 1735035799,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86116,
+        "num": 509398,
+        "word": "官方通报网红狼被大货车不慎压死",
+        "onboard_time": 1735036518,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 85917,
+        "num": 474049,
+        "word": "要求杂草限高10厘米一地官员被处理",
+        "onboard_time": 1735035018,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445393,
+        "num": 445393,
+        "word": "年度报告",
+        "onboard_time": 1735032319,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 440667,
+        "num": 440667,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408908,
+        "num": 408908,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22150,
+        "num": 408646,
+        "word": "张颂文称曾被人用长相打击",
+        "onboard_time": 1735036099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51685,
+        "num": 406662,
+        "word": "那些放弃考研的大学生们",
+        "onboard_time": 1735035018,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104421,
+        "num": 404744,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 15,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 31024,
+        "num": 403285,
+        "word": "王奕周诗雨真心话连麦",
+        "onboard_time": 1735035259,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25669,
+        "num": 401884,
+        "word": "黑神话获Steam白金级认证",
+        "onboard_time": 1735036579,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10411,
+        "num": 399372,
+        "word": "冬至 孙千一集哭四次",
+        "onboard_time": 1735036579,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399246,
+        "num": 399246,
+        "word": "清华女硕士二次入伍被授衔中尉",
+        "onboard_time": 1735033639,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636524,
+        "num": 371535,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341331,
+        "num": 341331,
+        "word": "郭敬明发夏之光原始帧",
+        "onboard_time": 1735032620,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237292,
+        "num": 237292,
+        "word": "沈月 老师别下了像拉了",
+        "onboard_time": 1735026199,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222818,
+        "num": 222818,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122043,
+        "num": 207188,
+        "word": "全红婵哥哥回应蹭热度带货",
+        "onboard_time": 1735034479,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76742,
+        "num": 205454,
+        "word": "官方回应洒水车野蛮洒水浇透老人",
+        "onboard_time": 1735034958,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204401,
+        "num": 204401,
+        "word": "丁禹兮话剧粉",
+        "onboard_time": 1735035679,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193837,
+        "num": 193837,
+        "word": "张馨予嫁给何捷是嫁给了爱情",
+        "onboard_time": 1735030399,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175713,
+        "num": 175713,
+        "word": "央视曾呼吁不要投喂网红狼",
+        "onboard_time": 1735022238,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27647,
+        "num": 174910,
+        "word": "被家暴16次女子称这两年是至暗时刻",
+        "onboard_time": 1735036698,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174165,
+        "num": 174165,
+        "word": "谢娜陈乔恩 真闺蜜才敢说真话",
+        "onboard_time": 1735031239,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168720,
+        "num": 168720,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166218,
+        "num": 166218,
+        "word": "易烊千玺100%预售破亿",
+        "onboard_time": 1735034898,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165560,
+        "num": 165560,
+        "word": "李昀锐 大馋小子",
+        "onboard_time": 1735031357,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62915,
+        "num": 161594,
+        "word": "早期孟子义",
+        "onboard_time": 1735034719,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158285,
+        "num": 158285,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153987,
+        "num": 153987,
+        "word": "吃砂糖橘真的会促进肿瘤生长吗",
+        "onboard_time": 1735028718,
+        "rank": 36,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 152391,
+        "num": 152391,
+        "word": "姜珮瑶首部古装剧演花魁",
+        "onboard_time": 1735029258,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149368,
+        "num": 149368,
+        "word": "投喂网红狼是否需要担责",
+        "onboard_time": 1735026500,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146809,
+        "num": 146809,
+        "word": "易烊千玺小小的我暴瘦",
+        "onboard_time": 1735027939,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141264,
+        "num": 141264,
+        "word": "孟子义祝绪丹上桌",
+        "onboard_time": 1735036279,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140828,
+        "num": 140828,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139849,
+        "num": 139849,
+        "word": "刘彰全A从纽约大学毕业",
+        "onboard_time": 1735036339,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134476,
+        "num": 134476,
+        "word": "吻上王一博可爱表情包",
+        "onboard_time": 1735032798,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129113,
+        "num": 129113,
+        "word": "光遇",
+        "onboard_time": 1735036698,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 58760,
+        "num": 128816,
+        "word": "檀健次开年刊24小时战报",
+        "onboard_time": 1735035559,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128805,
+        "num": 128805,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122377,
+        "num": 122377,
+        "word": "张真源 LV",
+        "onboard_time": 1735030158,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118976,
+        "num": 118976,
+        "word": "王楚钦所在团体赛事夺冠率100%",
+        "onboard_time": 1735033819,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114416,
+        "num": 114416,
+        "word": "年轻人理财式买冬衣主打穿回本",
+        "onboard_time": 1735034719,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

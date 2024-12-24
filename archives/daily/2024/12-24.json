@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735035778508,
+  "endTime": 1735036826057,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -75,20 +75,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1204285,
+      "num": 1204285,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1194862,
       "num": 449224,
       "word": "女子拒绝哺乳期通勤4小时上班被辞",
       "onboard_time": 1735009517,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1180764,
-      "num": 1180764,
-      "word": "微信蓝包",
-      "onboard_time": 1735032078,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 1112549,
@@ -129,6 +129,14 @@
       "onboard_time": 1735004837,
       "rank": 17,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 1002443,
+      "num": 1002443,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 976465,
@@ -187,14 +195,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 728324,
-      "num": 728324,
-      "word": "穷鬼套餐",
-      "onboard_time": 1735031837,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 718868,
       "num": 376591,
       "word": "滴滴就臭车致歉",
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636524,
+      "num": 371535,
+      "word": "女子做全裸SPA遭老板偷拍",
+      "onboard_time": 1735034719,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 618799,
       "num": 536853,
       "word": "创造营第二季导师官宣徐明浩",
@@ -249,6 +257,14 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 603935,
+      "num": 603935,
+      "word": "北京环球影城偶遇王楚钦",
+      "onboard_time": 1735034778,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 602377,
@@ -331,14 +347,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 540579,
-      "num": 214518,
-      "word": "女子做全裸SPA遭老板偷拍",
-      "onboard_time": 1735034719,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 539380,
       "num": 539380,
       "word": "蛇年纪念币预约",
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445393,
+      "num": 445393,
+      "word": "年度报告",
+      "onboard_time": 1735032319,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 419026,
       "num": 419026,
       "word": "疑似山姆代购蹲厕所分装蛋糕",
@@ -441,14 +457,6 @@
       "onboard_time": 1734998177,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413961,
-      "num": 413961,
-      "word": "年度报告",
-      "onboard_time": 1735032319,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 412931,
@@ -481,6 +489,14 @@
       "onboard_time": 1735008377,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399246,
+      "num": 399246,
+      "word": "清华女硕士二次入伍被授衔中尉",
+      "onboard_time": 1735033639,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396014,
@@ -555,14 +571,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 346809,
-      "num": 346809,
-      "word": "清华女硕士二次入伍被授衔中尉",
-      "onboard_time": 1735033639,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 345579,
       "num": 345579,
       "word": "南京小朋友5米距离看江豚捕鱼",
@@ -577,6 +585,14 @@
       "onboard_time": 1734951078,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341331,
+      "num": 431543,
+      "word": "郭敬明发夏之光原始帧",
+      "onboard_time": 1735032620,
+      "rank": 38,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 337872,
@@ -649,14 +665,6 @@
       "onboard_time": 1735000999,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 296834,
-      "num": 431543,
-      "word": "郭敬明发夏之光原始帧",
-      "onboard_time": 1735032620,
-      "rank": 38,
-      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 293464,
@@ -739,6 +747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262596,
+      "num": 595681,
+      "word": "国色芳华OST阵容官宣",
+      "onboard_time": 1735035379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258607,
       "num": 196555,
       "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
@@ -761,14 +777,6 @@
       "onboard_time": 1735019598,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249222,
-      "num": 249222,
-      "word": "北京环球影城偶遇王楚钦",
-      "onboard_time": 1735034778,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 248465,
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215195,
+      "num": 561785,
+      "word": "蒋欣回应蒋欣在哪里",
+      "onboard_time": 1735035799,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 212497,
       "num": 212497,
       "word": "李昀锐 大馋小子",
@@ -931,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 204401,
+      "num": 204401,
+      "word": "丁禹兮话剧粉",
+      "onboard_time": 1735035679,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204345,
       "num": 251925,
       "word": "易烊千玺100%预售破亿",
@@ -945,14 +969,6 @@
       "onboard_time": 1735017679,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201963,
-      "num": 201963,
-      "word": "国色芳华OST阵容官宣",
-      "onboard_time": 1735035379,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 200394,
@@ -993,6 +1009,14 @@
       "onboard_time": 1735024937,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193837,
+      "num": 258843,
+      "word": "张馨予嫁给何捷是嫁给了爱情",
+      "onboard_time": 1735030399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 193233,
@@ -1145,14 +1169,6 @@
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181092,
-      "num": 258843,
-      "word": "张馨予嫁给何捷是嫁给了爱情",
-      "onboard_time": 1735030399,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 179190,
@@ -1347,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158285,
+      "num": 158285,
+      "word": "孩子随口一句话男子把家砸烂",
+      "onboard_time": 1735035919,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154338,
       "num": 154338,
       "word": "于正签约天选古人上演员3",
@@ -1483,12 +1507,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141264,
+      "num": 141264,
+      "word": "孟子义祝绪丹上桌",
+      "onboard_time": 1735036279,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140999,
       "num": 140999,
       "word": "王楚钦与刘国正夫妇合照",
       "onboard_time": 1734966020,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140828,
+      "num": 140828,
+      "word": "苹果",
+      "onboard_time": 1735036698,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 140506,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1735023018,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 139849,
+      "num": 139849,
+      "word": "刘彰全A从纽约大学毕业",
+      "onboard_time": 1735036339,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 139807,
@@ -1571,28 +1619,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134370,
-      "num": 148779,
-      "word": "王楚钦第52周继续霸榜世一",
-      "onboard_time": 1735003878,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134256,
-      "num": 134256,
+      "raw_hot": 134476,
+      "num": 134476,
       "word": "吻上王一博可爱表情包",
       "onboard_time": 1735032798,
       "rank": 35,
       "category": "艺人"
     },
     {
-      "raw_hot": 133327,
-      "num": 133327,
-      "word": "丁禹兮话剧粉",
-      "onboard_time": 1735035679,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 134370,
+      "num": 148779,
+      "word": "王楚钦第52周继续霸榜世一",
+      "onboard_time": 1735003878,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 133121,
@@ -1641,6 +1681,22 @@
       "onboard_time": 1735034778,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129113,
+      "num": 129113,
+      "word": "光遇",
+      "onboard_time": 1735036698,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 128805,
+      "num": 128805,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 128668,
@@ -1729,6 +1785,14 @@
       "onboard_time": 1735014740,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 122043,
+      "num": 207188,
+      "word": "全红婵哥哥回应蹭热度带货",
+      "onboard_time": 1735034479,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121014,
@@ -1827,6 +1891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 115505,
+      "num": 1047119,
+      "word": "240小时过境免签超City",
+      "onboard_time": 1735030579,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114591,
       "num": 140373,
       "word": "官方回应荒山上安装健身器材",
@@ -1849,14 +1921,6 @@
       "onboard_time": 1734963559,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113309,
-      "num": 835836,
-      "word": "240小时过境免签超City",
-      "onboard_time": 1735030579,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113018,
@@ -1883,14 +1947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107809,
-      "num": 107809,
-      "word": "全红婵哥哥回应蹭热度带货",
-      "onboard_time": 1735034479,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107701,
       "num": 107701,
       "word": "多家航司回应飞机锁座越来越多",
@@ -1913,6 +1969,14 @@
       "onboard_time": 1735009877,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104421,
+      "num": 404744,
+      "word": "张颂文回应新剧演技争议",
+      "onboard_time": 1735036579,
+      "rank": 15,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 102096,
@@ -2043,6 +2107,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86116,
+      "num": 509398,
+      "word": "官方通报网红狼被大货车不慎压死",
+      "onboard_time": 1735036518,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 85917,
+      "num": 474049,
+      "word": "要求杂草限高10厘米一地官员被处理",
+      "onboard_time": 1735035018,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85183,
       "num": 85183,
       "word": "会计发现领导语气不对劲保住296万",
@@ -2113,6 +2193,14 @@
       "onboard_time": 1735027278,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76742,
+      "num": 216066,
+      "word": "官方回应洒水车野蛮洒水浇透老人",
+      "onboard_time": 1735034958,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76220,
@@ -2283,6 +2371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 62915,
+      "num": 161594,
+      "word": "早期孟子义",
+      "onboard_time": 1735034719,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62139,
       "num": 250502,
       "word": "大学考的证书含金量还在上升",
@@ -2297,14 +2393,6 @@
       "onboard_time": 1735018699,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60959,
-      "num": 418007,
-      "word": "要求杂草限高10厘米一地官员被处理",
-      "onboard_time": 1735035018,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60933,
@@ -2459,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 51685,
+      "num": 406662,
+      "word": "那些放弃考研的大学生们",
+      "onboard_time": 1735035018,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 51360,
       "num": 202671,
       "word": "TheShy参加solo选边",
@@ -2499,14 +2595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49640,
-      "num": 255639,
-      "word": "那些放弃考研的大学生们",
-      "onboard_time": 1735035018,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 49527,
       "num": 881281,
       "word": "宇宙年味发动机已启动",
@@ -2520,14 +2608,6 @@
       "word": "网约车司机称想要干净整洁但没时间",
       "onboard_time": 1735031837,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47018,
-      "num": 216066,
-      "word": "官方回应洒水车野蛮洒水浇透老人",
-      "onboard_time": 1735034958,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2668,7 +2748,7 @@
     },
     {
       "raw_hot": 39053,
-      "num": 249403,
+      "num": 403285,
       "word": "王奕周诗雨真心话连麦",
       "onboard_time": 1735035259,
       "rank": 17,
@@ -2867,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27647,
+      "num": 174910,
+      "word": "被家暴16次女子称这两年是至暗时刻",
+      "onboard_time": 1735036698,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27190,
       "num": 29232,
       "word": "下一秒的事留给下一秒的自己吧",
@@ -2899,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25669,
+      "num": 401884,
+      "word": "黑神话获Steam白金级认证",
+      "onboard_time": 1735036579,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25153,
       "num": 188929,
       "word": "A股再现天价离婚案分手费4亿",
@@ -2921,6 +3017,14 @@
       "onboard_time": 1734974893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22150,
+      "num": 408646,
+      "word": "张颂文称曾被人用长相打击",
+      "onboard_time": 1735036099,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 19660,
@@ -3041,6 +3145,14 @@
       "onboard_time": 1734987731,
       "rank": 43,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10411,
+      "num": 399372,
+      "word": "冬至 孙千一集哭四次",
+      "onboard_time": 1735036579,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 10039,
