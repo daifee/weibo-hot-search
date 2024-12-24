@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735051088244,
+  "endTime": 1735053750971,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 877454,
+      "num": 877454,
+      "word": "撞死网红狼司机疑似未主动救治",
+      "onboard_time": 1735049960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 871310,
       "num": 527805,
       "word": "陆柯燃解约了",
@@ -937,6 +945,14 @@
       "onboard_time": 1734921978,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 691968,
+      "num": 691968,
+      "word": "羊毛月的账号被禁止关注",
+      "onboard_time": 1735052541,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 688538,
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 532312,
+      "num": 532312,
+      "word": "因穿高跟鞋走红男子带火一个村",
+      "onboard_time": 1735047619,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531453,
       "num": 531453,
       "word": "上海地铁11号线乘客发声",
@@ -1479,6 +1503,14 @@
       "num": 325516,
       "word": "华筝 草原公主",
       "onboard_time": 1734932238,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 517217,
+      "num": 517217,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
       "rank": 33,
       "category": "剧集"
     },
@@ -1576,14 +1608,6 @@
       "word": "3女生考研最后一科被反锁酒店",
       "onboard_time": 1735018699,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 473393,
-      "num": 473393,
-      "word": "因穿高跟鞋走红男子带火一个村",
-      "onboard_time": 1735047619,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -2017,14 +2041,6 @@
       "onboard_time": 1735033639,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 399147,
-      "num": 399147,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 398913,
@@ -3003,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266031,
+      "num": 266031,
+      "word": "宁艺卓没有特别舞台",
+      "onboard_time": 1735052060,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264631,
       "num": 243834,
       "word": "演员请就位第三季阵容",
@@ -3372,7 +3396,7 @@
     },
     {
       "raw_hot": 228030,
-      "num": 805518,
+      "num": 893478,
       "word": "哈尔滨冰雪大世界有多火",
       "onboard_time": 1735046780,
       "rank": 2,
@@ -3707,11 +3731,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210183,
+      "num": 205782,
+      "word": "虞书欣 吸血鬼之家打卡",
+      "onboard_time": 1735048940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209905,
       "num": 209905,
       "word": "网剧归棹开播",
       "onboard_time": 1735016959,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209545,
+      "num": 371739,
+      "word": "九重紫爆款的含金量更高",
+      "onboard_time": 1735051040,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -3867,14 +3907,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205782,
-      "num": 205782,
-      "word": "虞书欣 吸血鬼之家打卡",
-      "onboard_time": 1735048940,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "秦岚情绪稳定的原因找到了",
@@ -3953,14 +3985,6 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202250,
-      "num": 215599,
-      "word": "撞死网红狼司机疑似未主动救治",
-      "onboard_time": 1735049960,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201117,
@@ -4097,6 +4121,14 @@
       "onboard_time": 1734868939,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196938,
+      "num": 322680,
+      "word": "新疆伊犁住一晚酒店只要4元",
+      "onboard_time": 1735052541,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196853,
@@ -4337,6 +4369,14 @@
       "onboard_time": 1734843318,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 190445,
+      "num": 190445,
+      "word": "陈铭评价贺峻霖",
+      "onboard_time": 1735053261,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 190407,
@@ -5955,6 +5995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143230,
+      "num": 143230,
+      "word": "男子打羽毛球猝死球馆判赔20万元",
+      "onboard_time": 1735051880,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143175,
       "num": 143175,
       "word": "中国风穿戴甲在欧美太火了",
@@ -6299,6 +6347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134400,
+      "num": 195037,
+      "word": "去年春晚你印象最深的歌曲",
+      "onboard_time": 1735049900,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134370,
       "num": 148779,
       "word": "王楚钦第52周继续霸榜世一",
@@ -6512,6 +6568,14 @@
       "word": "这是冬至不是开春",
       "onboard_time": 1734855319,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129320,
+      "num": 129320,
+      "word": "九重紫编剧导演演员都值得上桌",
+      "onboard_time": 1735053078,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -6905,6 +6969,14 @@
       "onboard_time": 1735035500,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119981,
+      "num": 119981,
+      "word": "29个行业被美国卡脖子卡出单项冠军",
+      "onboard_time": 1735053138,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119778,
@@ -7443,6 +7515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107676,
+      "num": 191365,
+      "word": "你对樊振东印象最深刻的一场比赛",
+      "onboard_time": 1735052899,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107485,
       "num": 237830,
       "word": "比熊犬瘫痪宠主怀疑前一天剪毛",
@@ -7531,6 +7611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106002,
+      "num": 106002,
+      "word": "金珉奎圣诞礼物",
+      "onboard_time": 1735051099,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105864,
       "num": 262498,
       "word": "369赢得solo选边",
@@ -7560,14 +7648,6 @@
       "word": "李宇春周笔畅超女后首同台",
       "onboard_time": 1734880761,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 104764,
-      "num": 195037,
-      "word": "去年春晚你印象最深的歌曲",
-      "onboard_time": 1735049900,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -7971,14 +8051,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 91911,
-      "num": 371739,
-      "word": "九重紫爆款的含金量更高",
-      "onboard_time": 1735051040,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91567,
       "num": 174874,
       "word": "女子遭老板性侵被辞公司变更董事长",
@@ -8089,6 +8161,14 @@
       "onboard_time": 1735021098,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 87252,
+      "num": 110460,
+      "word": "医生称臭车司机对异味或已耐受",
+      "onboard_time": 1735051579,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87104,
@@ -9233,6 +9313,14 @@
       "onboard_time": 1735018579,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52374,
+      "num": 197296,
+      "word": "吴柳芳背后MCN拍段子狂摇百年樱花树",
+      "onboard_time": 1735052179,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 52252,
@@ -10399,6 +10487,14 @@
       "num": 360741,
       "word": "林一带着白白来和大家sayhihi",
       "onboard_time": 1735044080,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29963,
+      "num": 154886,
+      "word": "金瀚回应变身船长航行南海",
+      "onboard_time": 1735053020,
       "rank": 29,
       "category": "艺人"
     },
