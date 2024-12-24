@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/24 23:22:30
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/24 23:36:32
 </p>
 </blockquote>
 <p>
@@ -2135,6 +2135,12 @@ QQ音乐 装扮（热度：1343003）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone17ProMax%E6%B8%B2%E6%9F%93%E5%9B%BE%23" target="weibo">
 曝iPhone17ProMax渲染图（热度：1278572）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E6%AF%9B%E6%9C%88%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+羊毛月的账号被禁止关注（热度：1275954）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone17ProMax渲染图再曝光（热度：752174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E9%AB%98%E8%BF%9C%E5%86%B3%E8%83%9C%E5%B1%80%23" target="weibo">
 王楚钦林高远决胜局（热度：722635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%A4%E5%8F%A3150%E4%B8%87%E4%B9%B02400%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E6%8B%92%23" target="weibo">
-老两口150万买2400克黄金被拒（热度：722045）
 </a>
 </li>
 

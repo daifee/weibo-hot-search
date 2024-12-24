@@ -1,0 +1,410 @@
+{
+  "runTime": 1735054592655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457275,
+        "num": 1457275,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 838005,
+        "num": 838005,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171557,
+        "num": 805548,
+        "word": "哈尔滨冰雪大世界有多火",
+        "onboard_time": 1735046780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1275954,
+        "num": 792973,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 775765,
+        "num": 775765,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662769,
+        "num": 662769,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630026,
+        "num": 630026,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 480317,
+        "num": 480317,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432575,
+        "num": 432575,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 399674,
+        "num": 399674,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 596256,
+        "num": 395400,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169218,
+        "num": 350242,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345648,
+        "num": 345648,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286362,
+        "num": 286362,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 268370,
+        "word": "新疆伊犁住一晚酒店只要4元",
+        "onboard_time": 1735052541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253768,
+        "num": 253768,
+        "word": "宁艺卓没有特别舞台",
+        "onboard_time": 1735052060,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227117,
+        "num": 227117,
+        "word": "球友打羽毛球猝死球馆判赔20余万",
+        "onboard_time": 1735049359,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155457,
+        "num": 155457,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11747,
+        "num": 155415,
+        "word": "猎罪2编剧称影片内核是洞察人性",
+        "onboard_time": 1735054339,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9785,
+        "num": 155267,
+        "word": "敖瑞鹏笑料战绩可查",
+        "onboard_time": 1735053979,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365206,
+        "num": 155215,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227004,
+        "num": 155141,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221154,
+        "num": 154987,
+        "word": "虞书欣 吸血鬼之家打卡",
+        "onboard_time": 1735048940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218486,
+        "num": 154913,
+        "word": "陈铭评价贺峻霖",
+        "onboard_time": 1735053261,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26698,
+        "num": 154799,
+        "word": "王者新赛季四款福利皮肤",
+        "onboard_time": 1735042458,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210438,
+        "num": 154754,
+        "word": "九重紫制片人谈选角孟子义",
+        "onboard_time": 1735047560,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207799,
+        "num": 154630,
+        "word": "九重紫爆款的含金量更高",
+        "onboard_time": 1735051040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154593,
+        "num": 154593,
+        "word": "29个行业被美国卡脖子卡出单项冠军",
+        "onboard_time": 1735053138,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "去年春晚你印象最深的歌曲",
+        "onboard_time": 1735049900,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33986,
+        "num": 147983,
+        "word": "金瀚回应变身船长航行南海",
+        "onboard_time": 1735053020,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147606,
+        "num": 147606,
+        "word": "TES赢下LPL忍界大战",
+        "onboard_time": 1735049479,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143348,
+        "num": 143348,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142778,
+        "num": 142778,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142774,
+        "num": 142774,
+        "word": "白夜追凶7年后潘粤明变了",
+        "onboard_time": 1735053737,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139387,
+        "num": 139387,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138635,
+        "num": 138635,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129500,
+        "num": 129500,
+        "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+        "onboard_time": 1735047919,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128805,
+        "num": 128805,
+        "word": "男子打羽毛球猝死球馆判赔20万元",
+        "onboard_time": 1735051880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119213,
+        "num": 119213,
+        "word": "猎罪2一个案子集齐贪嗔痴",
+        "onboard_time": 1735038859,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114572,
+        "num": 114572,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106368,
+        "num": 106368,
+        "word": "医生称被咬伤男童可换血来控制感染",
+        "onboard_time": 1735054159,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106000,
+        "num": 106000,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103652,
+        "num": 103652,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "孙千公主抱黄景瑜",
+        "onboard_time": 1735050079,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68562,
+        "num": 97969,
+        "word": "iG与TES开局2分钟10个人头",
+        "onboard_time": 1735050739,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95532,
+        "num": 95532,
+        "word": "谢淮安国士无双",
+        "onboard_time": 1735054398,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158846,
+        "num": 95394,
+        "word": "吴柳芳背后MCN拍段子狂摇百年樱花树",
+        "onboard_time": 1735052179,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95174,
+        "num": 95174,
+        "word": "左奇函smoke",
+        "onboard_time": 1735046959,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90784,
+        "num": 90784,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90482,
+        "num": 90482,
+        "word": "meiko状态",
+        "onboard_time": 1735054518,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
