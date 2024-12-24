@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735024871083,
+  "endTime": 1735025742089,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -483,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 968503,
+      "num": 1154960,
+      "word": "碎花裙女孩火了后拒绝直播带货",
+      "onboard_time": 1735021460,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 959920,
       "num": 852728,
       "word": "向佐 马面裙",
@@ -849,14 +857,6 @@
       "onboard_time": 1734910036,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 685893,
-      "num": 685893,
-      "word": "碎花裙女孩火了后拒绝直播带货",
-      "onboard_time": 1735021460,
-      "rank": 32,
-      "category": "正能量"
     },
     {
       "raw_hot": 679597,
@@ -1795,6 +1795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 389847,
+      "num": 389847,
+      "word": "央视曾呼吁不要投喂网红狼",
+      "onboard_time": 1735022238,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
@@ -1971,19 +1979,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 357375,
+      "num": 393086,
+      "word": "徐开骋风波后综艺首录",
+      "onboard_time": 1735024039,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356218,
       "num": 356218,
       "word": "武汉下雪",
       "onboard_time": 1734911837,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 354699,
-      "num": 354699,
-      "word": "央视曾呼吁不要投喂网红狼",
-      "onboard_time": 1735022238,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -2011,12 +2019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349695,
+      "num": 349695,
+      "word": "考研英语老师刘晓艳纪录片",
+      "onboard_time": 1735023619,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 348609,
       "num": 348609,
       "word": "考研 408",
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345579,
+      "num": 345579,
+      "word": "南京小朋友5米距离看江豚捕鱼",
+      "onboard_time": 1735023859,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339564,
@@ -2291,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303099,
+      "num": 303099,
+      "word": "刘亦菲早年与林志颖合影",
+      "onboard_time": 1735023738,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302465,
       "num": 252504,
       "word": "郑爽未履行70万案款被限消",
@@ -2305,14 +2337,6 @@
       "onboard_time": 1734943938,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 294699,
-      "num": 294699,
-      "word": "南京小朋友5米距离看江豚捕鱼",
-      "onboard_time": 1735023859,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293283,
@@ -2747,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246252,
+      "num": 246252,
+      "word": "杨子 延迟退休",
+      "onboard_time": 1735025118,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244802,
       "num": 244802,
       "word": "徐克 镜头美学",
@@ -3155,14 +3187,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213195,
-      "num": 213195,
-      "word": "刘亦菲早年与林志颖合影",
-      "onboard_time": 1735023738,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213116,
       "num": 213116,
       "word": "涉事企业回应禁止员工去冰雪大世界",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1734957919,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204496,
-      "num": 204496,
-      "word": "徐开骋风波后综艺首录",
-      "onboard_time": 1735024039,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 204457,
@@ -3539,14 +3555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197606,
-      "num": 197606,
-      "word": "考研英语老师刘晓艳纪录片",
-      "onboard_time": 1735023619,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 197170,
       "num": 197170,
       "word": "程潇蝴蝶结镶钻礼裙",
@@ -3699,8 +3707,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190663,
-      "num": 190663,
+      "raw_hot": 191011,
+      "num": 191011,
       "word": "王星越丁禹兮李昀锐今年上桌了",
       "onboard_time": 1735023679,
       "rank": 25,
@@ -3923,6 +3931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184807,
+      "num": 184807,
+      "word": "戚薇李承铉二胎后的家庭分工",
+      "onboard_time": 1735024937,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184655,
       "num": 184655,
       "word": "专家谈年轻人买房该出手时就出手",
@@ -4033,6 +4049,14 @@
       "onboard_time": 1734842297,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177759,
+      "num": 177759,
+      "word": "肖战打戏",
+      "onboard_time": 1735025479,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 177391,
@@ -4171,6 +4195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172578,
+      "num": 172578,
+      "word": "演员请就位3首录路透",
+      "onboard_time": 1735021218,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172575,
       "num": 172575,
       "word": "肖秀荣给2025考生的一封信",
@@ -4217,14 +4249,6 @@
       "onboard_time": 1734944597,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170714,
-      "num": 170714,
-      "word": "演员请就位3首录路透",
-      "onboard_time": 1735021218,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 170239,
@@ -5115,12 +5139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142432,
+      "num": 142432,
+      "word": "2025年要支持扩大国内需求",
+      "onboard_time": 1735021279,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142075,
       "num": 142075,
       "word": "志愿军战士含泪讲述长津湖战场",
       "onboard_time": 1735021398,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142057,
+      "num": 142057,
+      "word": "司机修车被撞身亡多人作伪证被拘",
+      "onboard_time": 1735024759,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141888,
@@ -5281,14 +5321,6 @@
       "onboard_time": 1734932177,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136544,
-      "num": 136544,
-      "word": "2025年要支持扩大国内需求",
-      "onboard_time": 1735021279,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 136171,
@@ -5883,12 +5915,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119822,
+      "num": 255107,
+      "word": "家属否认齐秦患癌",
+      "onboard_time": 1735025058,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119778,
       "num": 119778,
       "word": "两位女战友分别74年因一次搭话重逢",
       "onboard_time": 1734835876,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 119582,
+      "num": 119582,
+      "word": "齐秦未患癌",
+      "onboard_time": 1735025598,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 119485,
@@ -6123,12 +6171,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113314,
+      "num": 185093,
+      "word": "张继科卖课账号橱窗上架3件商品",
+      "onboard_time": 1735025479,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113147,
       "num": 113147,
       "word": "昭昭墨墨 聊斋",
       "onboard_time": 1734856998,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113018,
+      "num": 113018,
+      "word": "碎花裙女孩回忆苏州雨伞救人经过",
+      "onboard_time": 1735025718,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112937,
@@ -6697,14 +6761,6 @@
       "onboard_time": 1734871700,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95288,
-      "num": 95288,
-      "word": "司机修车被撞身亡多人作伪证被拘",
-      "onboard_time": 1735024759,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94716,
@@ -7547,6 +7603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62139,
+      "num": 250502,
+      "word": "大学考的证书含金量还在上升",
+      "onboard_time": 1735022540,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 61175,
       "num": 244882,
       "word": "汪苏泷说过年给650发双份红包",
@@ -8275,6 +8339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42514,
+      "num": 311449,
+      "word": "期末临近孩子因厌学就诊增加",
+      "onboard_time": 1735024218,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42503,
       "num": 187555,
       "word": "2024中国体育高燃逆转名场面",
@@ -8337,14 +8409,6 @@
       "onboard_time": 1734910217,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 41184,
-      "num": 211431,
-      "word": "大学考的证书含金量还在上升",
-      "onboard_time": 1735022540,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 41082,
@@ -8907,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29217,
+      "num": 172622,
+      "word": "咳嗽不止是身体在说话",
+      "onboard_time": 1735025179,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 28937,
       "num": 256832,
       "word": "双向奔赴才是让景于客的最优解",
@@ -9088,14 +9160,6 @@
       "word": "一文梳理马航MH370事件",
       "onboard_time": 1734852438,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23503,
-      "num": 252355,
-      "word": "期末临近孩子因厌学就诊增加",
-      "onboard_time": 1735024218,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -9329,6 +9393,14 @@
       "onboard_time": 1734988992,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 14713,
+      "num": 127723,
+      "word": "冰雪大世界主塔",
+      "onboard_time": 1735025299,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 14413,
