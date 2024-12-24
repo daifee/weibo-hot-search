@@ -1,0 +1,410 @@
+{
+  "runTime": 1735011705327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 963939,
+        "num": 1154230,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 682410,
+        "num": 682410,
+        "word": "肯德基涨价2%",
+        "onboard_time": 1735004837,
+        "rank": 1,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 30335,
+        "num": 575508,
+        "word": "守护非遗之美",
+        "onboard_time": 1735009157,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 538355,
+        "num": 538355,
+        "word": "白鹿 没吻这么激烈",
+        "onboard_time": 1735010058,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412931,
+        "num": 412931,
+        "word": "郭靖是个什么样的人",
+        "onboard_time": 1735007357,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563158,
+        "num": 412902,
+        "word": "吴柳芳背后MCN机构被处置",
+        "onboard_time": 1735006398,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 412381,
+        "num": 412381,
+        "word": "猴哥说车妻子已见律师",
+        "onboard_time": 1734999259,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397155,
+        "num": 397155,
+        "word": "李昀锐跳晚安大小姐",
+        "onboard_time": 1735007956,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372448,
+        "num": 386365,
+        "word": "房东用备用钥匙潜入租户家装摄像头",
+        "onboard_time": 1735007778,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384594,
+        "num": 384594,
+        "word": "肯德基相关负责人回应调价",
+        "onboard_time": 1735007956,
+        "rank": 9,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 1194862,
+        "num": 367250,
+        "word": "女子拒绝哺乳期通勤4小时上班被辞",
+        "onboard_time": 1735009517,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345344,
+        "num": 345344,
+        "word": "迪丽热巴早期在上戏的毕业照",
+        "onboard_time": 1735010238,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327819,
+        "num": 327819,
+        "word": "王鹤棣粉丝包场88888座",
+        "onboard_time": 1735008377,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75234,
+        "num": 325359,
+        "word": "没高铁的县级市实施免费教育十余年",
+        "onboard_time": 1735011198,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 324462,
+        "num": 324462,
+        "word": "对吴柳芳的善意不能掩盖擦边的本质",
+        "onboard_time": 1735010537,
+        "rank": 14,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 263211,
+        "num": 263211,
+        "word": "滴滴就臭车致歉",
+        "onboard_time": 1735000760,
+        "rank": 15,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 256866,
+        "num": 256866,
+        "word": "小砂糖橘水灵灵地玩上尔滨的雪了",
+        "onboard_time": 1735005497,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239941,
+        "num": 239941,
+        "word": "木苏里父亲去世",
+        "onboard_time": 1735010478,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 175505,
+        "num": 232523,
+        "word": "小佳被易烊千玺的表演震撼",
+        "onboard_time": 1735004717,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227275,
+        "num": 227275,
+        "word": "瑞幸回应喝出蟑螂事件",
+        "onboard_time": 1735009998,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45612,
+        "num": 225534,
+        "word": "内塔尼亚胡政府何以一意孤行",
+        "onboard_time": 1735009877,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403292,
+        "num": 221976,
+        "word": "全红婵17岁正是爱美的年纪",
+        "onboard_time": 1735006100,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307751,
+        "num": 220859,
+        "word": "迪丽热巴 陈飞宇给我大大方方的",
+        "onboard_time": 1734970278,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251904,
+        "num": 217145,
+        "word": "女子生产前4小时才知道自己怀孕",
+        "onboard_time": 1734965361,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118242,
+        "num": 212487,
+        "word": "黑神话悟空获Steam年榜多项铂金",
+        "onboard_time": 1735009458,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243389,
+        "num": 209172,
+        "word": "孙恩盛 何秋亊",
+        "onboard_time": 1734996931,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208397,
+        "num": 208397,
+        "word": "王者荣耀",
+        "onboard_time": 1735008497,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 183907,
+        "word": "虞书欣檀健次或将合作",
+        "onboard_time": 1735002859,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133657,
+        "num": 176266,
+        "word": "电影小小的我终极预告",
+        "onboard_time": 1735008738,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172772,
+        "num": 172772,
+        "word": "尹锡悦各种拒收",
+        "onboard_time": 1735007537,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160229,
+        "num": 160229,
+        "word": "中国人爱喝热水都传到国外去了",
+        "onboard_time": 1735007658,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148012,
+        "num": 148012,
+        "word": "清华大学食堂里的菜单和价格",
+        "onboard_time": 1735000999,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "2025摩羯座富得流油",
+        "onboard_time": 1735003397,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141383,
+        "num": 141383,
+        "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
+        "onboard_time": 1735002618,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130137,
+        "num": 130137,
+        "word": "74年前他们以战斗队形冻成冰人",
+        "onboard_time": 1734996376,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129142,
+        "num": 129142,
+        "word": "刘诗诗方给平台发公函回应离婚",
+        "onboard_time": 1734957199,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31562,
+        "num": 128061,
+        "word": "轻松搞定十万个为什么简直小艺思",
+        "onboard_time": 1735011377,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128008,
+        "num": 128008,
+        "word": "在家产女开出生证需做亲子鉴定",
+        "onboard_time": 1734989652,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17998,
+        "num": 123459,
+        "word": "让马岩松一眼心动的博物馆",
+        "onboard_time": 1735010658,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122775,
+        "num": 122775,
+        "word": "中国风穿戴甲在欧美太火了",
+        "onboard_time": 1735000999,
+        "rank": 39,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 107243,
+        "num": 107243,
+        "word": "2024被这些奔跑瞬间治愈",
+        "onboard_time": 1735007778,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106760,
+        "num": 106760,
+        "word": "网传再见爱人4收入是其他季的五倍",
+        "onboard_time": 1734998177,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106495,
+        "num": 106495,
+        "word": "于适已将成为导演纳入规划",
+        "onboard_time": 1735003038,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98167,
+        "num": 98167,
+        "word": "2024年度微盘点",
+        "onboard_time": 1735006757,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95846,
+        "num": 95846,
+        "word": "2024让苹果肌起飞的瞬间",
+        "onboard_time": 1734998718,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 94474,
+        "num": 94474,
+        "word": "天秤座总是会周期性的逃避",
+        "onboard_time": 1735007178,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85685,
+        "num": 85685,
+        "word": "平安夜吃苹果",
+        "onboard_time": 1735008977,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84756,
+        "num": 84756,
+        "word": "现在拨打的电话何以成为全球爆款",
+        "onboard_time": 1735009458,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82113,
+        "num": 82113,
+        "word": "东方跨年第二波阵容官宣",
+        "onboard_time": 1735011498,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76074,
+        "num": 76074,
+        "word": "路易吉表示不认罪",
+        "onboard_time": 1735011678,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

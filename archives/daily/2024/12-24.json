@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735010855443,
+  "endTime": 1735011705327,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -17,6 +17,14 @@
       "onboard_time": 1735003519,
       "rank": 10,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1194862,
+      "num": 367250,
+      "word": "女子拒绝哺乳期通勤4小时上班被辞",
+      "onboard_time": 1735009517,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1082257,
@@ -67,14 +75,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 675409,
-      "num": 357672,
-      "word": "女子拒绝哺乳期通勤4小时上班被辞",
-      "onboard_time": 1735009517,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 674642,
       "num": 292462,
       "word": "刘强东提前发年终奖",
@@ -123,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 538355,
+      "num": 538355,
+      "word": "白鹿 没吻这么激烈",
+      "onboard_time": 1735010058,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531633,
       "num": 531633,
       "word": "刘诗诗方给平台发公函回应离婚",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 454236,
-      "num": 219068,
+      "num": 221976,
       "word": "全红婵17岁正是爱美的年纪",
       "onboard_time": 1735006100,
       "rank": 21,
@@ -169,6 +177,14 @@
       "onboard_time": 1734998177,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412931,
+      "num": 412931,
+      "word": "郭靖是个什么样的人",
+      "onboard_time": 1735007357,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 401837,
@@ -195,28 +211,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 379620,
-      "num": 379620,
+      "raw_hot": 384594,
+      "num": 384594,
       "word": "肯德基相关负责人回应调价",
       "onboard_time": 1735007956,
       "rank": 7,
       "category": "美食,财经"
     },
     {
-      "raw_hot": 360571,
-      "num": 360571,
-      "word": "郭靖是个什么样的人",
-      "onboard_time": 1735007357,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 350454,
-      "num": 376847,
+      "raw_hot": 372448,
+      "num": 386365,
       "word": "房东用备用钥匙潜入租户家装摄像头",
       "onboard_time": 1735007778,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345344,
+      "num": 345344,
+      "word": "迪丽热巴早期在上戏的毕业照",
+      "onboard_time": 1735010238,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 342070,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 329832,
-      "num": 212413,
+      "num": 217145,
       "word": "女子生产前4小时才知道自己怀孕",
       "onboard_time": 1734965361,
       "rank": 20,
@@ -241,6 +257,14 @@
       "onboard_time": 1734958940,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324462,
+      "num": 324462,
+      "word": "对吴柳芳的善意不能掩盖擦边的本质",
+      "onboard_time": 1735010537,
+      "rank": 29,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 318812,
@@ -339,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239941,
+      "num": 239941,
+      "word": "木苏里父亲去世",
+      "onboard_time": 1735010478,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 235267,
       "num": 235267,
       "word": "丈夫读博妻子带娃7年离婚获3万补偿",
@@ -363,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 227275,
+      "num": 227275,
+      "word": "瑞幸回应喝出蟑螂事件",
+      "onboard_time": 1735009998,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221502,
       "num": 221502,
       "word": "小米SU7获奖2024年度车",
@@ -377,14 +417,6 @@
       "onboard_time": 1734995775,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206722,
-      "num": 206722,
-      "word": "迪丽热巴早期在上戏的毕业照",
-      "onboard_time": 1735010238,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 200394,
@@ -417,14 +449,6 @@
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187041,
-      "num": 171442,
-      "word": "木苏里父亲去世",
-      "onboard_time": 1735010478,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 185818,
@@ -508,7 +532,7 @@
     },
     {
       "raw_hot": 158961,
-      "num": 158961,
+      "num": 212487,
       "word": "黑神话悟空获Steam年榜多项铂金",
       "onboard_time": 1735009458,
       "rank": 34,
@@ -715,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113548,
-      "num": 221742,
-      "word": "瑞幸回应喝出蟑螂事件",
-      "onboard_time": 1735009998,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113445,
       "num": 113445,
       "word": "李秀满带内娱女团闯海外",
@@ -835,20 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88593,
-      "num": 210941,
-      "word": "白鹿 没吻这么激烈",
-      "onboard_time": 1735010058,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85183,
       "num": 85183,
       "word": "会计发现领导语气不对劲保住296万",
       "onboard_time": 1734947839,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84756,
+      "num": 297736,
+      "word": "现在拨打的电话何以成为全球爆款",
+      "onboard_time": 1735009458,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 83690,
@@ -865,6 +881,14 @@
       "onboard_time": 1734994333,
       "rank": 24,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 82113,
+      "num": 82113,
+      "word": "东方跨年第二波阵容官宣",
+      "onboard_time": 1735011498,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 80293,
@@ -891,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76074,
+      "num": 76074,
+      "word": "路易吉表示不认罪",
+      "onboard_time": 1735011678,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 75713,
       "num": 210156,
       "word": "董明珠称人生要在斗争中成长",
       "onboard_time": 1735008377,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75234,
+      "num": 325359,
+      "word": "没高铁的县级市实施免费教育十余年",
+      "onboard_time": 1735011198,
+      "rank": 13,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 74242,
@@ -971,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59559,
-      "num": 297736,
-      "word": "现在拨打的电话何以成为全球爆款",
-      "onboard_time": 1735009458,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 58297,
       "num": 58297,
       "word": "肖秀荣给2026考生的建议",
@@ -1051,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49530,
-      "num": 171446,
-      "word": "对吴柳芳的善意不能掩盖擦边的本质",
-      "onboard_time": 1735010537,
-      "rank": 29,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 49527,
       "num": 881281,
       "word": "宇宙年味发动机已启动",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1734975612,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45612,
+      "num": 294157,
+      "word": "内塔尼亚胡政府何以一意孤行",
+      "onboard_time": 1735009877,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44618,
@@ -1147,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36759,
-      "num": 294157,
-      "word": "内塔尼亚胡政府何以一意孤行",
-      "onboard_time": 1735009877,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 35478,
       "num": 38681,
       "word": "官方辟谣苏州大量外企撤资",
@@ -1187,12 +1211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31562,
+      "num": 128061,
+      "word": "轻松搞定十万个为什么简直小艺思",
+      "onboard_time": 1735011377,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 30924,
       "num": 122006,
       "word": "9张图纪念一同见证的奥运年",
       "onboard_time": 1734970516,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30335,
+      "num": 650933,
+      "word": "守护非遗之美",
+      "onboard_time": 1735009157,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 29344,
@@ -1217,14 +1257,6 @@
       "onboard_time": 1734975433,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 27098,
-      "num": 650933,
-      "word": "守护非遗之美",
-      "onboard_time": 1735009157,
-      "rank": 6,
-      "category": "正能量"
     },
     {
       "raw_hot": 26375,
@@ -1283,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17998,
+      "num": 123459,
+      "word": "让马岩松一眼心动的博物馆",
+      "onboard_time": 1735010658,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16021,
       "num": 43478,
       "word": "外交部回应反制加拿大有关机构及人员",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1734988992,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 15027,
-      "num": 104046,
-      "word": "让马岩松一眼心动的博物馆",
-      "onboard_time": 1735010658,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 13900,
