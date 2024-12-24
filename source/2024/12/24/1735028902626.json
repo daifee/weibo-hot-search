@@ -1,0 +1,410 @@
+{
+  "runTime": 1735028902626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1513764,
+        "num": 1513764,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673748,
+        "num": 673748,
+        "word": "央视曾呼吁不要投喂网红狼",
+        "onboard_time": 1735022238,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13758,
+        "num": 596933,
+        "word": "文化中国行守护非遗之美",
+        "onboard_time": 1734986831,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 730997,
+        "num": 573845,
+        "word": "沈月 老师别下了像拉了",
+        "onboard_time": 1735026199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550545,
+        "num": 550545,
+        "word": "碎花裙女孩火了后拒绝直播带货",
+        "onboard_time": 1735021460,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1139217,
+        "num": 541299,
+        "word": "张馨予为何捷发声",
+        "onboard_time": 1735020259,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618799,
+        "num": 536853,
+        "word": "创造营第二季导师官宣徐明浩",
+        "onboard_time": 1735025839,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585431,
+        "num": 532553,
+        "word": "杨子 延迟退休",
+        "onboard_time": 1735025118,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517628,
+        "num": 517628,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70424,
+        "num": 431535,
+        "word": "当地通报5名学生掌掴灼伤同学",
+        "onboard_time": 1735027760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353146,
+        "num": 353146,
+        "word": "投喂网红狼是否需要担责",
+        "onboard_time": 1735026500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332718,
+        "num": 332718,
+        "word": "刘亦菲早年与林志颖合影",
+        "onboard_time": 1735023738,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328374,
+        "num": 328374,
+        "word": "吉林一家三口开车坠江车辆已找到",
+        "onboard_time": 1735019359,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254261,
+        "num": 254261,
+        "word": "徐开骋风波后综艺首录",
+        "onboard_time": 1735024039,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53688,
+        "num": 249306,
+        "word": "西安被狗咬伤4岁男童母亲发声",
+        "onboard_time": 1735027939,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246508,
+        "num": 246508,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244813,
+        "num": 244813,
+        "word": "易烊千玺小小的我暴瘦",
+        "onboard_time": 1735027939,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181408,
+        "num": 181408,
+        "word": "黄景瑜公主抱粉丝",
+        "onboard_time": 1735027399,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179983,
+        "num": 179983,
+        "word": "3女生考研最后一科被反锁酒店",
+        "onboard_time": 1735018699,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173698,
+        "num": 173698,
+        "word": "南京小朋友5米距离看江豚捕鱼",
+        "onboard_time": 1735023859,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247761,
+        "num": 173563,
+        "word": "蒋欣瘦了20斤",
+        "onboard_time": 1735015340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194219,
+        "num": 171348,
+        "word": "戚薇李承铉二胎后的家庭分工",
+        "onboard_time": 1735024937,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70483,
+        "num": 169681,
+        "word": "谁的大数据被李昀锐硬控了",
+        "onboard_time": 1735027339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184554,
+        "num": 167771,
+        "word": "刘诗诗 吴奇隆",
+        "onboard_time": 1735011858,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72916,
+        "num": 164017,
+        "word": "黑神话上榜Steam年度最佳游戏",
+        "onboard_time": 1735027878,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163893,
+        "num": 163893,
+        "word": "国色芳华",
+        "onboard_time": 1735028358,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163792,
+        "num": 163792,
+        "word": "林更新 沈腾你不要过来啊",
+        "onboard_time": 1735028299,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153334,
+        "num": 153334,
+        "word": "马嘉祺高会",
+        "onboard_time": 1735022179,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37126,
+        "num": 145593,
+        "word": "为什么雕塑厂不招女生",
+        "onboard_time": 1735027878,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36909,
+        "num": 144198,
+        "word": "一个习惯养成易胖体质",
+        "onboard_time": 1735028238,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28294,
+        "num": 144008,
+        "word": "张远邪恶鸟选歌计划",
+        "onboard_time": 1735027459,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143826,
+        "num": 143826,
+        "word": "司机修车被撞身亡多人作伪证被拘",
+        "onboard_time": 1735024759,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143663,
+        "num": 143663,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142640,
+        "num": 142640,
+        "word": "家属否认齐秦患癌",
+        "onboard_time": 1735025058,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141683,
+        "num": 141683,
+        "word": "肖央回应误杀了3次",
+        "onboard_time": 1735026079,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140506,
+        "num": 140506,
+        "word": "以为在弹琴其实在打字",
+        "onboard_time": 1735027278,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139807,
+        "num": 139807,
+        "word": "黄色奶酪是世纪骗局",
+        "onboard_time": 1735026199,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77173,
+        "num": 137742,
+        "word": "GAI8g冲浪喊话王鹤棣",
+        "onboard_time": 1735027278,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137222,
+        "num": 137222,
+        "word": "女子拒绝哺乳期通勤4小时上班被辞",
+        "onboard_time": 1735009517,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131587,
+        "num": 131587,
+        "word": "张继科卖课账号橱窗上架3件商品",
+        "onboard_time": 1735025479,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130246,
+        "num": 130246,
+        "word": "王星越丁禹兮李昀锐今年上桌了",
+        "onboard_time": 1735023679,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128978,
+        "num": 128978,
+        "word": "哈尔滨冰雪大世界开园3日遭吐槽",
+        "onboard_time": 1735028539,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8778,
+        "num": 128209,
+        "word": "年轻人爱买黄金的血脉觉醒了",
+        "onboard_time": 1735027998,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127954,
+        "num": 127954,
+        "word": "李一桐外置八块腹肌",
+        "onboard_time": 1735028780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123399,
+        "num": 123399,
+        "word": "吃砂糖橘真的会促进肿瘤生长吗",
+        "onboard_time": 1735028718,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 122786,
+        "num": 122786,
+        "word": "外交部回应考虑明年进口日本水产品",
+        "onboard_time": 1735028718,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120185,
+        "num": 120185,
+        "word": "90后TVB女演员在餐厅洗碗洗厕所",
+        "onboard_time": 1735017260,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118199,
+        "num": 118199,
+        "word": "檀健次虞书欣 合作",
+        "onboard_time": 1735015700,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117752,
+        "num": 117752,
+        "word": "希林娜依高回应拖行小狗",
+        "onboard_time": 1735014801,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117629,
+        "num": 117629,
+        "word": "明年适当提高退休人员基本养老金",
+        "onboard_time": 1735020618,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
