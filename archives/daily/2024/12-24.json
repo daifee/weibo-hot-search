@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735040147772,
+  "endTime": 1735044128020,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -139,6 +139,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1008774,
+      "num": 1161403,
+      "word": "2025年总台春晚分会场发布",
+      "onboard_time": 1735042340,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1002443,
       "num": 1002443,
       "word": "穷鬼套餐",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662386,
+      "num": 662386,
+      "word": "春晚",
+      "onboard_time": 1735041918,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659270,
       "num": 371535,
       "word": "女子做全裸SPA遭老板偷拍",
@@ -289,6 +305,14 @@
       "onboard_time": 1735035799,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 588036,
+      "num": 445126,
+      "word": "景区回应李现在虎跳峡举国旗",
+      "onboard_time": 1735036819,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 575830,
@@ -427,6 +451,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 479348,
+      "num": 479348,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 475719,
       "num": 475719,
       "word": "3女生考研最后一科被反锁酒店",
@@ -457,14 +489,6 @@
       "onboard_time": 1735015700,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 450314,
-      "num": 414379,
-      "word": "景区回应李现在虎跳峡举国旗",
-      "onboard_time": 1735036819,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 448928,
@@ -563,12 +587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 387178,
+      "num": 387178,
+      "word": "妻儿车祸去世他义务指挥交通35年",
+      "onboard_time": 1735042158,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 384594,
       "num": 384594,
       "word": "肯德基相关负责人回应调价",
       "onboard_time": 1735007956,
       "rank": 7,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 379717,
+      "num": 379717,
+      "word": "苹果",
+      "onboard_time": 1735036698,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 378841,
@@ -617,6 +657,14 @@
       "onboard_time": 1735024039,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349900,
+      "num": 287559,
+      "word": "徐冬冬大大方方的医美",
+      "onboard_time": 1735038558,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 349695,
@@ -699,6 +747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317473,
+      "num": 317473,
+      "word": "何炅 最怕突然的沉默",
+      "onboard_time": 1735041559,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317165,
       "num": 317165,
       "word": "宋仲基炫耀女儿",
@@ -753,14 +809,6 @@
       "onboard_time": 1735008497,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287559,
-      "num": 287559,
-      "word": "徐冬冬大大方方的医美",
-      "onboard_time": 1735038558,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 280499,
@@ -827,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257869,
+      "num": 257869,
+      "word": "长津湖",
+      "onboard_time": 1735037719,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253051,
       "num": 291023,
       "word": "小佳被易烊千玺的表演震撼",
@@ -841,6 +897,22 @@
       "onboard_time": 1735019598,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249502,
+      "num": 249502,
+      "word": "TES对战iG",
+      "onboard_time": 1735040597,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 248572,
+      "num": 248572,
+      "word": "田曦薇李一桐你们根本没喝中药",
+      "onboard_time": 1735039038,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 248465,
@@ -859,36 +931,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241399,
-      "num": 241399,
-      "word": "苹果",
-      "onboard_time": 1735036698,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 240320,
-      "num": 240320,
-      "word": "长津湖",
-      "onboard_time": 1735037719,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235267,
       "num": 235267,
       "word": "丈夫读博妻子带娃7年离婚获3万补偿",
       "onboard_time": 1734956898,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235113,
-      "num": 235113,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 234900,
@@ -961,6 +1009,14 @@
       "onboard_time": 1735017019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213357,
+      "num": 213357,
+      "word": "王楚钦说巴黎没有达到预期",
+      "onboard_time": 1735038438,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 212497,
@@ -1067,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198090,
-      "num": 213076,
-      "word": "王楚钦说巴黎没有达到预期",
-      "onboard_time": 1735038438,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197790,
       "num": 197790,
       "word": "时代少年团宠物合照",
@@ -1096,6 +1144,14 @@
       "word": "孩子随口一句话男子把家砸烂",
       "onboard_time": 1735035919,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195104,
+      "num": 195104,
+      "word": "老师背着4个月女儿上课",
+      "onboard_time": 1735041078,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1275,12 +1331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 183104,
+      "num": 183104,
+      "word": "高校回应安置男博士配偶工作",
+      "onboard_time": 1735042638,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182504,
       "num": 182504,
       "word": "74年前他们以战斗队形冻成冰人",
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 180326,
+      "num": 180326,
+      "word": "张桂梅的学生已成教师医生护士",
+      "onboard_time": 1735036459,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 179958,
@@ -1313,6 +1385,14 @@
       "onboard_time": 1735029740,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174858,
+      "num": 174858,
+      "word": "美国航空公司全美停飞",
+      "onboard_time": 1735043538,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174320,
@@ -1435,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163635,
-      "num": 163635,
-      "word": "田曦薇李一桐你们根本没喝中药",
-      "onboard_time": 1735039038,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
@@ -1545,6 +1617,14 @@
       "onboard_time": 1735006036,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 148988,
+      "num": 148988,
+      "word": "孟子义是李昀锐的特笑药",
+      "onboard_time": 1735037899,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 146708,
@@ -1795,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131976,
+      "num": 131976,
+      "word": "圣诞美甲",
+      "onboard_time": 1735038379,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 131288,
       "num": 131288,
       "word": "蒋欣说小巷人家番外最想拍抱孙子",
@@ -1915,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123082,
-      "num": 123082,
-      "word": "圣诞美甲",
-      "onboard_time": 1735038379,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 122349,
       "num": 122349,
       "word": "被铁路售票员的手速惊到了",
@@ -1939,6 +2019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 121200,
+      "num": 121200,
+      "word": "宋亚轩刘耀文张真源狗狗大片",
+      "onboard_time": 1735043477,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121014,
       "num": 121014,
       "word": "天秤座总是会周期性的逃避",
@@ -1953,14 +2041,6 @@
       "onboard_time": 1735035500,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119944,
-      "num": 119944,
-      "word": "孟子义是李昀锐的特笑药",
-      "onboard_time": 1735037899,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 119582,
@@ -2051,6 +2131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114608,
+      "num": 114608,
+      "word": "致敬长津湖战役的英雄",
+      "onboard_time": 1735043178,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114591,
       "num": 140373,
       "word": "官方回应荒山上安装健身器材",
@@ -2091,12 +2179,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110904,
+      "num": 110904,
+      "word": "美国女政客叫嚣处决杀害美国人的移民",
+      "onboard_time": 1735043839,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110895,
       "num": 110895,
       "word": "液体勺",
       "onboard_time": 1734952578,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110391,
+      "num": 110391,
+      "word": "辛巴咳嗽不止自曝患病",
+      "onboard_time": 1735044019,
+      "rank": 45,
+      "category": "网红"
     },
     {
       "raw_hot": 108536,
@@ -2147,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103840,
+      "num": 231440,
+      "word": "京城大师赛",
+      "onboard_time": 1735043059,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103322,
       "num": 103322,
       "word": "人不一定要靠学历支撑以后的生活",
@@ -2184,6 +2296,22 @@
       "word": "杨祐宁 男人带孩子又怎么样",
       "onboard_time": 1735013179,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99379,
+      "num": 99379,
+      "word": "平安夜文案",
+      "onboard_time": 1735041677,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 99344,
+      "num": 99344,
+      "word": "梁永棋 平安夜当平民",
+      "onboard_time": 1735043358,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -2241,6 +2369,14 @@
       "onboard_time": 1735007717,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91110,
+      "num": 247945,
+      "word": "网剧冬至好甜",
+      "onboard_time": 1735039998,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 91060,
@@ -2548,7 +2684,7 @@
     },
     {
       "raw_hot": 63159,
-      "num": 183641,
+      "num": 245369,
       "word": "檀健次开年刊24小时战报",
       "onboard_time": 1735035559,
       "rank": 32,
@@ -2811,6 +2947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48690,
+      "num": 263111,
+      "word": "甄嬛传魔改变枪战片涉嫌侵权",
+      "onboard_time": 1735042277,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48403,
       "num": 285779,
       "word": "网约车司机称想要干净整洁但没时间",
@@ -2825,14 +2969,6 @@
       "onboard_time": 1735009038,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46801,
-      "num": 241907,
-      "word": "网剧冬至好甜",
-      "onboard_time": 1735039998,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 46181,
@@ -3059,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34235,
+      "num": 247679,
+      "word": "近三年净水器抽检合格不到7成",
+      "onboard_time": 1735043718,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34057,
       "num": 256624,
       "word": "方励说不爱算账更爱随心所欲做事",
@@ -3227,6 +3371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25326,
+      "num": 259376,
+      "word": "物业经理阻止幼儿园开学8年后被诉",
+      "onboard_time": 1735043958,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25153,
       "num": 188929,
       "word": "A股再现天价离婚案分手费4亿",
@@ -3273,6 +3425,14 @@
       "onboard_time": 1735010658,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19586,
+      "num": 196712,
+      "word": "林一带着白白来和大家sayhihi",
+      "onboard_time": 1735044080,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 19525,
