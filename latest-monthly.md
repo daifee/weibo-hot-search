@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/24 23:36:32
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/25 00:26:48
 </p>
 </blockquote>
 <p>
@@ -1845,6 +1845,12 @@ kimi崩了（热度：1465178）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E6%AF%9B%E6%9C%88%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
+羊毛月的账号被禁止关注（热度：1366142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AE%8B%E4%BD%B3%E5%B7%B2%E9%A2%86%E8%AF%81%E7%BB%93%E5%A9%9A%23" target="weibo">
 曝宋佳已领证结婚（热度：1363260）
 </a>
@@ -2135,12 +2141,6 @@ QQ音乐 装扮（热度：1343003）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone17ProMax%E6%B8%B2%E6%9F%93%E5%9B%BE%23" target="weibo">
 曝iPhone17ProMax渲染图（热度：1278572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8A%E6%AF%9B%E6%9C%88%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E7%A6%81%E6%AD%A2%E5%85%B3%E6%B3%A8%23" target="weibo">
-羊毛月的账号被禁止关注（热度：1275954）
 </a>
 </li>
 
