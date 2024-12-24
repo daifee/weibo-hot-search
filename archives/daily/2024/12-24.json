@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735014407365,
+  "endTime": 1735015228510,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -19,6 +19,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1466670,
+      "num": 1466670,
+      "word": "张继科199元录播课3小时卖了25万元",
+      "onboard_time": 1735013119,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1430655,
       "num": 395751,
       "word": "刘诗诗 吴奇隆",
@@ -27,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1385780,
+      "num": 1165894,
+      "word": "平安夜",
+      "onboard_time": 1735007897,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1194862,
       "num": 383438,
       "word": "女子拒绝哺乳期通勤4小时上班被辞",
       "onboard_time": 1735009517,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1188241,
-      "num": 1165894,
-      "word": "平安夜",
-      "onboard_time": 1735007897,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 1112549,
@@ -67,20 +75,12 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 924733,
-      "num": 924733,
+      "raw_hot": 976465,
+      "num": 976465,
       "word": "瑞幸回应喝出蟑螂事件",
       "onboard_time": 1735009998,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 828657,
-      "num": 828657,
-      "word": "张继科199元录播课3小时卖了25万元",
-      "onboard_time": 1735013119,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 752931,
@@ -121,6 +121,14 @@
       "onboard_time": 1734967698,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605647,
+      "num": 513044,
+      "word": "木苏里父亲去世",
+      "onboard_time": 1735010478,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 575830,
@@ -177,14 +185,6 @@
       "onboard_time": 1734957199,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 513044,
-      "num": 513044,
-      "word": "木苏里父亲去世",
-      "onboard_time": 1735010478,
-      "rank": 30,
-      "category": "读书作家"
     },
     {
       "raw_hot": 488264,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337872,
+      "num": 417007,
+      "word": "西安警方通报男童遭恶犬咬伤",
+      "onboard_time": 1735013480,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 329832,
       "num": 217145,
       "word": "女子生产前4小时才知道自己怀孕",
@@ -339,6 +347,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 311388,
+      "num": 311388,
+      "word": "希林娜依高回应拖行小狗",
+      "onboard_time": 1735014801,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296611,
+      "num": 296611,
+      "word": "媒体评吴柳芳不能再擦边了",
+      "onboard_time": 1735014620,
+      "rank": 14,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 293464,
       "num": 293464,
       "word": "蛇年纪念币好难抢",
@@ -353,6 +377,14 @@
       "onboard_time": 1735003578,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292218,
+      "num": 292218,
+      "word": "西安男童遭恶犬咬伤2人被刑拘",
+      "onboard_time": 1735014620,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290990,
@@ -395,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254646,
-      "num": 417007,
-      "word": "西安警方通报男童遭恶犬咬伤",
-      "onboard_time": 1735013480,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 253051,
       "num": 291023,
       "word": "小佳被易烊千玺的表演震撼",
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234367,
+      "num": 297736,
+      "word": "现在拨打的电话何以成为全球爆款",
+      "onboard_time": 1735009458,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230575,
       "num": 191128,
       "word": "突然对韩国祛魅了",
@@ -441,6 +473,14 @@
       "onboard_time": 1734969138,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 220806,
+      "num": 226108,
+      "word": "鸡公煲鸡公煲 经过我的胃",
+      "onboard_time": 1735011798,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 220677,
@@ -459,14 +499,6 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 217828,
-      "num": 226108,
-      "word": "鸡公煲鸡公煲 经过我的胃",
-      "onboard_time": 1735011798,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 212111,
       "num": 212111,
       "word": "光遇复刻",
@@ -475,12 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201922,
-      "num": 297736,
-      "word": "现在拨打的电话何以成为全球爆款",
-      "onboard_time": 1735009458,
-      "rank": 13,
+      "raw_hot": 211113,
+      "num": 211113,
+      "word": "白月梵星定档电话",
+      "onboard_time": 1735014438,
+      "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208509,
+      "num": 257632,
+      "word": "粉丝帮宁艺卓结账",
+      "onboard_time": 1735013179,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200394,
@@ -491,12 +531,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197473,
-      "num": 257632,
-      "word": "粉丝帮宁艺卓结账",
-      "onboard_time": 1735013179,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 194406,
+      "num": 245395,
+      "word": "檀健次登顶ELLE历史销量第一",
+      "onboard_time": 1735012999,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193233,
@@ -505,6 +545,14 @@
       "onboard_time": 1734966141,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191503,
+      "num": 191503,
+      "word": "WTT祝福樊振东",
+      "onboard_time": 1735014500,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 189516,
@@ -537,14 +585,6 @@
       "onboard_time": 1735003397,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 185133,
-      "num": 245395,
-      "word": "檀健次登顶ELLE历史销量第一",
-      "onboard_time": 1735012999,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184993,
@@ -603,6 +643,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 167762,
+      "num": 167762,
+      "word": "遭恶犬咬伤男童目前情况基本平稳",
+      "onboard_time": 1735014620,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "樊振东2024年度总结",
+      "onboard_time": 1735014500,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
@@ -617,6 +673,14 @@
       "onboard_time": 1734957138,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159639,
+      "num": 159639,
+      "word": "光夜新浪扫楼",
+      "onboard_time": 1735014141,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 158961,
@@ -643,20 +707,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150769,
+      "num": 150769,
+      "word": "哈尔滨冰雕有血印视频系1月发布",
+      "onboard_time": 1735015099,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149737,
       "num": 149737,
       "word": "何秋亊回应粉丝吵架",
       "onboard_time": 1735006036,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 149541,
-      "num": 149541,
-      "word": "光夜新浪扫楼",
-      "onboard_time": 1735014141,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 146456,
@@ -729,6 +793,30 @@
       "onboard_time": 1734960439,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138168,
+      "num": 138168,
+      "word": "女生手作雅典娜翅膀完成童年梦想",
+      "onboard_time": 1735014260,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 135654,
+      "num": 224043,
+      "word": "球迷要求惹怒朱婷的栏目道歉",
+      "onboard_time": 1735011711,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135303,
+      "num": 135303,
+      "word": "偷偷给女医生送了锦旗",
+      "onboard_time": 1735015161,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 134370,
@@ -817,14 +905,6 @@
       "onboard_time": 1735007178,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120230,
-      "num": 120230,
-      "word": "女生手作雅典娜翅膀完成童年梦想",
-      "onboard_time": 1735014260,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 119485,
@@ -955,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94866,
+      "num": 220853,
+      "word": "ISA跳了虞书欣新歌",
+      "onboard_time": 1735014740,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 93482,
       "num": 118785,
       "word": "张颂文回复网友",
@@ -987,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86461,
+      "num": 226889,
+      "word": "刘晓艳老师叫你起床",
+      "onboard_time": 1735014079,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85183,
       "num": 85183,
       "word": "会计发现领导语气不对劲保住296万",
@@ -1012,7 +1108,7 @@
     },
     {
       "raw_hot": 82113,
-      "num": 82113,
+      "num": 249115,
       "word": "东方跨年第二波阵容官宣",
       "onboard_time": 1735011498,
       "rank": 48,
@@ -1049,14 +1145,6 @@
       "onboard_time": 1735011678,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 75960,
-      "num": 226889,
-      "word": "刘晓艳老师叫你起床",
-      "onboard_time": 1735014079,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 75713,
@@ -1147,12 +1235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58688,
+      "num": 237596,
+      "word": "究竟是考研难还是读研难",
+      "onboard_time": 1735014079,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 58297,
       "num": 58297,
       "word": "肖秀荣给2026考生的建议",
       "onboard_time": 1734972916,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58089,
+      "num": 240612,
+      "word": "陈丽君养成系歌手",
+      "onboard_time": 1735014379,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 57454,
@@ -1235,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48184,
-      "num": 237596,
-      "word": "究竟是考研难还是读研难",
-      "onboard_time": 1735014079,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 46816,
       "num": 219458,
       "word": "老人遭5只猎狗围咬伤口深达肌层",
@@ -1272,14 +1368,6 @@
       "word": "猎罪图鉴2画像师原型满意檀健次表演",
       "onboard_time": 1734974353,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 43471,
-      "num": 240612,
-      "word": "陈丽君养成系歌手",
-      "onboard_time": 1735014379,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1435,6 +1523,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 26943,
+      "num": 293624,
+      "word": "柱子票当事人称终审判决开了个好头",
+      "onboard_time": 1735013358,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26375,
       "num": 183210,
       "word": "马龙刘诗雯穿正装打混双",
@@ -1444,7 +1540,7 @@
     },
     {
       "raw_hot": 25429,
-      "num": 873422,
+      "num": 969583,
       "word": "文化中国行守护非遗之美",
       "onboard_time": 1734986831,
       "rank": 9,
@@ -1464,14 +1560,6 @@
       "word": "景区回应用绳子制造人工冰瀑",
       "onboard_time": 1734974893,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21274,
-      "num": 293624,
-      "word": "柱子票当事人称终审判决开了个好头",
-      "onboard_time": 1735013358,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
