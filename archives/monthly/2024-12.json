@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1734996932464,
+  "endTime": 1735004543469,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -513,6 +513,14 @@
       "onboard_time": 1734163578,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2556810,
+      "num": 2556810,
+      "word": "吴柳芳账号已被禁言",
+      "onboard_time": 1735002618,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 2541717,
@@ -6163,6 +6171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 834771,
+      "num": 298329,
+      "word": "吴柳芳粉丝仅剩4.4万",
+      "onboard_time": 1735003519,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 834693,
       "num": 834693,
       "word": "曝湖南卫视跨年嘉宾名单",
@@ -7267,6 +7283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752931,
+      "num": 752931,
+      "word": "强占人妻区长人大代表资格终止",
+      "onboard_time": 1734998718,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752174,
       "num": 752174,
       "word": "iPhone17ProMax渲染图再曝光",
@@ -7505,6 +7529,14 @@
       "onboard_time": 1734499939,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 732563,
+      "num": 732563,
+      "word": "猴哥说车妻子已见律师",
+      "onboard_time": 1734999259,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 732408,
@@ -7777,6 +7809,14 @@
       "onboard_time": 1734529400,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718868,
+      "num": 291559,
+      "word": "滴滴就臭车致歉",
+      "onboard_time": 1735000760,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 718720,
@@ -8545,6 +8585,14 @@
       "onboard_time": 1733975720,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674642,
+      "num": 278100,
+      "word": "刘强东提前发年终奖",
+      "onboard_time": 1735000218,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 674598,
@@ -11475,6 +11523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 546973,
+      "num": 546973,
+      "word": "迪丽热巴 陈飞宇给我大大方方的",
+      "onboard_time": 1734970278,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 546619,
       "num": 513343,
       "word": "刘亦菲孔雀绿裙",
@@ -13803,6 +13859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 467166,
+      "num": 273863,
+      "word": "孙恩盛 何秋亊",
+      "onboard_time": 1734996931,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 467163,
       "num": 467163,
       "word": "郑成灿大吧",
@@ -15067,14 +15131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434936,
-      "num": 512782,
-      "word": "迪丽热巴 陈飞宇给我大大方方的",
-      "onboard_time": 1734970278,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434747,
       "num": 434747,
       "word": "刘丁硕vs樊振东",
@@ -15873,6 +15929,14 @@
       "onboard_time": 1733999421,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417072,
+      "num": 417072,
+      "word": "网传再见爱人4收入是其他季的五倍",
+      "onboard_time": 1734998177,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 416653,
@@ -16817,6 +16881,14 @@
       "onboard_time": 1733976320,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 394959,
+      "num": 394959,
+      "word": "虞书欣檀健次或将合作",
+      "onboard_time": 1735002859,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 394906,
@@ -20865,6 +20937,22 @@
       "onboard_time": 1733623639,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312338,
+      "num": 312338,
+      "word": "2024让苹果肌起飞的瞬间",
+      "onboard_time": 1734998718,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 312166,
+      "num": 168615,
+      "word": "清华大学食堂里的菜单和价格",
+      "onboard_time": 1735000999,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 311989,
@@ -26219,6 +26307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238792,
+      "num": 219093,
+      "word": "杨幂玫瑰粉长款睡袍",
+      "onboard_time": 1734997277,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238789,
       "num": 493928,
       "word": "丁禹兮曾说自己无胸肌无腹肌",
@@ -28227,6 +28323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221855,
+      "num": 161694,
+      "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
+      "onboard_time": 1735002618,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221811,
       "num": 221811,
       "word": "男子举报邻居一家有车有房吃低保",
@@ -28393,6 +28497,14 @@
       "onboard_time": 1734405318,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220677,
+      "num": 220677,
+      "word": "王楚钦新发色",
+      "onboard_time": 1734995775,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 220626,
@@ -30793,6 +30905,14 @@
       "onboard_time": 1734077357,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205538,
+      "num": 310526,
+      "word": "韩在野党称即刻开始韩德洙弹劾程序",
+      "onboard_time": 1735003578,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205486,
@@ -36907,6 +37027,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 182504,
+      "num": 182504,
+      "word": "74年前他们以战斗队形冻成冰人",
+      "onboard_time": 1734996376,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182500,
       "num": 182500,
       "word": "这期毛雪汪信息量好大",
@@ -41689,6 +41817,14 @@
       "onboard_time": 1733317822,
       "rank": 44,
       "category": "读书作家,艺人"
+    },
+    {
+      "raw_hot": 163415,
+      "num": 163415,
+      "word": "于适已将成为导演纳入规划",
+      "onboard_time": 1735003038,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 163406,
@@ -47395,6 +47531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144632,
+      "num": 144632,
+      "word": "2025摩羯座富得流油",
+      "onboard_time": 1735003397,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144612,
       "num": 289225,
       "word": "2024PEL全明星投票",
@@ -47667,6 +47811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143419,
+      "num": 143419,
+      "word": "外交部回应特朗普收回巴拿马运河言论",
+      "onboard_time": 1734996675,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143404,
       "num": 409632,
       "word": "刘宇宁直播",
@@ -47753,6 +47905,14 @@
       "onboard_time": 1733850256,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143067,
+      "num": 161774,
+      "word": "孙颖莎称对标的是德约科维奇",
+      "onboard_time": 1735000698,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 143059,
@@ -50347,6 +50507,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 134370,
+      "num": 134370,
+      "word": "王楚钦第52周继续霸榜世一",
+      "onboard_time": 1735003878,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134368,
       "num": 265763,
       "word": "换了套房发现房贷不能抵扣个税了",
@@ -50873,6 +51041,14 @@
       "onboard_time": 1733586802,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "NBA圣诞大战",
+      "onboard_time": 1735004239,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 132426,
@@ -51425,14 +51601,6 @@
       "onboard_time": 1734528140,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130584,
-      "num": 130584,
-      "word": "王楚钦新发色",
-      "onboard_time": 1734995775,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 130577,
@@ -53459,6 +53627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123569,
+      "num": 146512,
+      "word": "于适回应被质疑走捷径",
+      "onboard_time": 1734999078,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123511,
       "num": 123511,
       "word": "实探胖东来对代购出手首日",
@@ -55107,6 +55283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117005,
+      "num": 117005,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 117002,
       "num": 117002,
       "word": "5件事让人生闪闪发光",
@@ -55449,6 +55633,14 @@
       "onboard_time": 1734399256,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "中国风穿戴甲在欧美太火了",
+      "onboard_time": 1735000999,
+      "rank": 35,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 115770,
@@ -56841,6 +57033,14 @@
       "onboard_time": 1734876920,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 110275,
+      "num": 110275,
+      "word": "蛇年纪念币预约情况火爆",
+      "onboard_time": 1735000698,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 110201,
@@ -58707,6 +58907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101933,
+      "num": 101933,
+      "word": "原来韩国老奶真的会爆金币",
+      "onboard_time": 1734995775,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101901,
       "num": 156501,
       "word": "当归和芹菜香菜撞脸了",
@@ -58721,6 +58929,14 @@
       "onboard_time": 1733829740,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101834,
+      "num": 101834,
+      "word": "以官方首次公开承认暗杀哈尼亚",
+      "onboard_time": 1735003638,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101787,
@@ -59603,6 +59819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97979,
+      "num": 97979,
+      "word": "宋仲基为了儿女学外语",
+      "onboard_time": 1734997877,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97978,
       "num": 149499,
       "word": "考研前一天要给朋友发祝福吗",
@@ -60387,6 +60611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94212,
+      "num": 94212,
+      "word": "重庆孃孃打响保卫香肠第一战",
+      "onboard_time": 1735002679,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94175,
       "num": 325996,
       "word": "他人擅驾未锁车辆撞死人车主赔6万",
@@ -61033,6 +61265,14 @@
       "onboard_time": 1734600138,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 91060,
+      "num": 91060,
+      "word": "女生考研后收到室友惊喜瞬间泪目",
+      "onboard_time": 1735004239,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 91028,
@@ -63713,14 +63953,6 @@
       "onboard_time": 1734850997,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 76530,
-      "num": 76530,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 76509,
@@ -66777,14 +67009,6 @@
       "onboard_time": 1734670881,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 61624,
-      "num": 61624,
-      "word": "74年前他们以战斗队形冻成冰人",
-      "onboard_time": 1734996376,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61590,
@@ -70827,14 +71051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46423,
-      "num": 46423,
-      "word": "外交部回应特朗普收回巴拿马运河言论",
-      "onboard_time": 1734996675,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46399,
       "num": 175532,
       "word": "王一博直播两分钟228万观看",
@@ -70856,6 +71072,14 @@
       "word": "2024年宪法宣传周",
       "onboard_time": 1733317223,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46288,
+      "num": 739631,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -71713,14 +71937,6 @@
       "onboard_time": 1733687591,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43514,
-      "num": 43514,
-      "word": "原来韩国老奶真的会爆金币",
-      "onboard_time": 1734995775,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 43473,
@@ -76624,14 +76840,6 @@
       "word": "决不能让大胃王换个形式复活",
       "onboard_time": 1734257000,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29995,
-      "num": 329924,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

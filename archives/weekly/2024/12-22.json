@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1734996932464,
+  "endTime": 1735004543469,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -17,6 +17,14 @@
       "onboard_time": 1734926957,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2556810,
+      "num": 2556810,
+      "word": "吴柳芳账号已被禁言",
+      "onboard_time": 1735002618,
+      "rank": 0,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 2484442,
@@ -491,6 +499,14 @@
       "category": "民生新闻,辟谣/通报"
     },
     {
+      "raw_hot": 834771,
+      "num": 298329,
+      "word": "吴柳芳粉丝仅剩4.4万",
+      "onboard_time": 1735003519,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 819250,
       "num": 430421,
       "word": "诛仙2.0",
@@ -603,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 752931,
+      "num": 752931,
+      "word": "强占人妻区长人大代表资格终止",
+      "onboard_time": 1734998718,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 751213,
       "num": 751213,
       "word": "长沙下雪",
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732563,
+      "num": 732563,
+      "word": "猴哥说车妻子已见律师",
+      "onboard_time": 1734999259,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 731665,
       "num": 731665,
       "word": "上海地铁致歉",
@@ -657,6 +689,14 @@
       "onboard_time": 1734863299,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 718868,
+      "num": 291559,
+      "word": "滴滴就臭车致歉",
+      "onboard_time": 1735000760,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 706594,
@@ -713,6 +753,14 @@
       "onboard_time": 1734941298,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674642,
+      "num": 278100,
+      "word": "刘强东提前发年终奖",
+      "onboard_time": 1735000218,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 674598,
@@ -987,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546973,
+      "num": 546973,
+      "word": "迪丽热巴 陈飞宇给我大大方方的",
+      "onboard_time": 1734970278,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 545870,
       "num": 313851,
       "word": "纪凌尘回应假装看书",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1734840319,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 467166,
+      "num": 273863,
+      "word": "孙恩盛 何秋亊",
+      "onboard_time": 1734996931,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 466869,
@@ -1259,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434936,
-      "num": 512782,
-      "word": "迪丽热巴 陈飞宇给我大大方方的",
-      "onboard_time": 1734970278,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 430907,
       "num": 430907,
       "word": "九重紫",
@@ -1329,6 +1385,14 @@
       "onboard_time": 1734848478,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417072,
+      "num": 417072,
+      "word": "网传再见爱人4收入是其他季的五倍",
+      "onboard_time": 1734998177,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 416653,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1734923898,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394959,
+      "num": 394959,
+      "word": "虞书欣檀健次或将合作",
+      "onboard_time": 1735002859,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 389232,
@@ -1809,6 +1881,22 @@
       "onboard_time": 1734919637,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 312338,
+      "num": 312338,
+      "word": "2024让苹果肌起飞的瞬间",
+      "onboard_time": 1734998718,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 312166,
+      "num": 168615,
+      "word": "清华大学食堂里的菜单和价格",
+      "onboard_time": 1735000999,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 311774,
@@ -2331,6 +2419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 238792,
+      "num": 219093,
+      "word": "杨幂玫瑰粉长款睡袍",
+      "onboard_time": 1734997277,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 237554,
       "num": 213388,
       "word": "殷世航傲娇美要结婚了",
@@ -2507,6 +2603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221855,
+      "num": 161694,
+      "word": "男子卖房隐瞒前妻曾在屋内服毒自杀",
+      "onboard_time": 1735002618,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221558,
       "num": 221558,
       "word": "殷世航称竞技比赛输赢很正常",
@@ -2545,6 +2649,14 @@
       "onboard_time": 1734909315,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220677,
+      "num": 220677,
+      "word": "王楚钦新发色",
+      "onboard_time": 1734995775,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 220618,
@@ -2769,6 +2881,14 @@
       "onboard_time": 1734844819,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205538,
+      "num": 310526,
+      "word": "韩在野党称即刻开始韩德洙弹劾程序",
+      "onboard_time": 1735003578,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205338,
@@ -3235,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182504,
+      "num": 182504,
+      "word": "74年前他们以战斗队形冻成冰人",
+      "onboard_time": 1734996376,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "猎罪图鉴2",
@@ -3675,6 +3803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163415,
+      "num": 163415,
+      "word": "于适已将成为导演纳入规划",
+      "onboard_time": 1735003038,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163128,
       "num": 163128,
       "word": "射雕细节",
@@ -3721,6 +3857,14 @@
       "onboard_time": 1734952697,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160971,
+      "num": 160971,
+      "word": "何秋亊 dsn",
+      "onboard_time": 1735000698,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 160437,
@@ -4203,6 +4347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144632,
+      "num": 144632,
+      "word": "2025摩羯座富得流油",
+      "onboard_time": 1735003397,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144067,
       "num": 144067,
       "word": "清明上河图密码",
@@ -4217,6 +4369,22 @@
       "onboard_time": 1734946038,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143419,
+      "num": 143419,
+      "word": "外交部回应特朗普收回巴拿马运河言论",
+      "onboard_time": 1734996675,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 143067,
+      "num": 161774,
+      "word": "孙颖莎称对标的是德约科维奇",
+      "onboard_time": 1735000698,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 141888,
@@ -4419,6 +4587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134370,
+      "num": 134370,
+      "word": "王楚钦第52周继续霸榜世一",
+      "onboard_time": 1735003878,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133826,
       "num": 245773,
       "word": "刘文新一审被判死缓",
@@ -4491,6 +4667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "NBA圣诞大战",
+      "onboard_time": 1735004239,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132234,
       "num": 132234,
       "word": "丁禹兮谭松韵 兰香如故",
@@ -4561,14 +4745,6 @@
       "onboard_time": 1734946937,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130584,
-      "num": 130584,
-      "word": "王楚钦新发色",
-      "onboard_time": 1734995775,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 130480,
@@ -4803,6 +4979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 123569,
+      "num": 146512,
+      "word": "于适回应被质疑走捷径",
+      "onboard_time": 1734999078,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122894,
       "num": 244970,
       "word": "陈雨菲 我回来了",
@@ -4947,6 +5131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117005,
+      "num": 117005,
+      "word": "群众随意进出县政府上厕所接热水",
+      "onboard_time": 1734984072,
+      "rank": 12,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 116648,
       "num": 420923,
       "word": "被抱摔女生称曾报警被不予立案",
@@ -4993,6 +5185,14 @@
       "onboard_time": 1734847157,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "中国风穿戴甲在欧美太火了",
+      "onboard_time": 1735000999,
+      "rank": 35,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 115717,
@@ -5211,6 +5411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 110275,
+      "num": 110275,
+      "word": "蛇年纪念币预约情况火爆",
+      "onboard_time": 1735000698,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110044,
       "num": 110044,
       "word": "工行建行股价双双创历史新高",
@@ -5387,6 +5595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101933,
+      "num": 101933,
+      "word": "原来韩国老奶真的会爆金币",
+      "onboard_time": 1734995775,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101834,
+      "num": 101834,
+      "word": "以官方首次公开承认暗杀哈尼亚",
+      "onboard_time": 1735003638,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101210,
       "num": 101210,
       "word": "张元英cha了spicyhoney",
@@ -5515,6 +5739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97979,
+      "num": 97979,
+      "word": "宋仲基为了儿女学外语",
+      "onboard_time": 1734997877,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97928,
       "num": 97928,
       "word": "夏之光送粉丝饺子汤圆",
@@ -5611,6 +5843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94212,
+      "num": 94212,
+      "word": "重庆孃孃打响保卫香肠第一战",
+      "onboard_time": 1735002679,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93756,
       "num": 93756,
       "word": "吴奇隆前妻点赞网友",
@@ -5665,6 +5905,14 @@
       "onboard_time": 1734869539,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91060,
+      "num": 91060,
+      "word": "女生考研后收到室友惊喜瞬间泪目",
+      "onboard_time": 1735004239,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 90836,
@@ -5921,14 +6169,6 @@
       "onboard_time": 1734850997,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 76530,
-      "num": 76530,
-      "word": "群众随意进出县政府上厕所接热水",
-      "onboard_time": 1734984072,
-      "rank": 12,
-      "category": "正能量"
     },
     {
       "raw_hot": 76065,
@@ -6281,14 +6521,6 @@
       "onboard_time": 1734963380,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61624,
-      "num": 61624,
-      "word": "74年前他们以战斗队形冻成冰人",
-      "onboard_time": 1734996376,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61090,
@@ -6755,12 +6987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46423,
-      "num": 46423,
-      "word": "外交部回应特朗普收回巴拿马运河言论",
-      "onboard_time": 1734996675,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 46288,
+      "num": 739631,
+      "word": "宇宙年味发动机已启动",
+      "onboard_time": 1734969318,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46029,
@@ -6849,14 +7081,6 @@
       "onboard_time": 1734953299,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43514,
-      "num": 43514,
-      "word": "原来韩国老奶真的会爆金币",
-      "onboard_time": 1734995775,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 43225,
@@ -7408,14 +7632,6 @@
       "word": "严肃整改挪用农村学生营养餐补贴乱象",
       "onboard_time": 1734918198,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29995,
-      "num": 329924,
-      "word": "宇宙年味发动机已启动",
-      "onboard_time": 1734969318,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
