@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735032175912,
+  "endTime": 1735033006685,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -91,6 +91,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1096535,
+      "num": 1096535,
+      "word": "当网红狼死在车轮下你还觉得好笑吗",
+      "onboard_time": 1735029798,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1082257,
       "num": 253680,
       "word": "朱婷怒斥记者挑拨离间",
@@ -179,14 +187,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 684271,
-      "num": 684271,
-      "word": "当网红狼死在车轮下你还觉得好笑吗",
-      "onboard_time": 1735029798,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 674642,
       "num": 292462,
       "word": "刘强东提前发年终奖",
@@ -233,6 +233,14 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 602377,
+      "num": 602377,
+      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
+      "onboard_time": 1735028539,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575830,
@@ -337,14 +345,6 @@
       "onboard_time": 1735029258,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 491606,
-      "num": 491606,
-      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
-      "onboard_time": 1735028539,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 488264,
@@ -635,12 +635,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284685,
+      "num": 284685,
+      "word": "女子发现房顶小孔竟是针孔摄像头",
+      "onboard_time": 1735031477,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280499,
       "num": 219093,
       "word": "杨幂玫瑰粉长款睡袍",
       "onboard_time": 1734997277,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276519,
+      "num": 219890,
+      "word": "吃砂糖橘真的会促进肿瘤生长吗",
+      "onboard_time": 1735028718,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 272804,
@@ -705,14 +721,6 @@
       "onboard_time": 1735027399,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248355,
-      "num": 219890,
-      "word": "吃砂糖橘真的会促进肿瘤生长吗",
-      "onboard_time": 1735028718,
-      "rank": 44,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 235267,
@@ -795,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212497,
+      "num": 212497,
+      "word": "李昀锐 大馋小子",
+      "onboard_time": 1735031357,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212111,
       "num": 212111,
       "word": "光遇复刻",
@@ -835,12 +851,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 206898,
+      "num": 206898,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 204721,
+      "num": 204721,
+      "word": "干噎酸奶",
+      "onboard_time": 1735030039,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204432,
       "num": 204432,
       "word": "明年适当提高退休人员基本养老金",
       "onboard_time": 1735020618,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203392,
+      "num": 203392,
+      "word": "年度报告",
+      "onboard_time": 1735032319,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 203120,
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 191196,
-      "num": 161401,
+      "num": 179799,
       "word": "张真源 LV",
       "onboard_time": 1735030158,
       "rank": 30,
@@ -1035,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181092,
+      "num": 258843,
+      "word": "张馨予嫁给何捷是嫁给了爱情",
+      "onboard_time": 1735030399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179190,
       "num": 179190,
       "word": "肖战射雕打戏花絮",
@@ -1043,12 +1091,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 177786,
-      "num": 177786,
-      "word": "女子发现房顶小孔竟是针孔摄像头",
-      "onboard_time": 1735031477,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 178164,
+      "num": 178164,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 177759,
@@ -1235,12 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158500,
-      "num": 258843,
-      "word": "张馨予嫁给何捷是嫁给了爱情",
-      "onboard_time": 1735030399,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 154338,
+      "num": 154338,
+      "word": "于正签约天选古人上演员3",
+      "onboard_time": 1735029618,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154243,
@@ -1289,14 +1337,6 @@
       "onboard_time": 1735008317,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143828,
-      "num": 143828,
-      "word": "于正签约天选古人上演员3",
-      "onboard_time": 1735029618,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 143826,
@@ -1403,6 +1443,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139168,
+      "num": 258484,
+      "word": "没停车44天后却要缴2334元",
+      "onboard_time": 1735031178,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138450,
       "num": 138450,
       "word": "为什么iPhone信号不如国产手机",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1735014260,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138145,
-      "num": 138145,
-      "word": "李昀锐 大馋小子",
-      "onboard_time": 1735031357,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 135958,
@@ -1451,20 +1491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134692,
-      "num": 134692,
-      "word": "干噎酸奶",
-      "onboard_time": 1735030039,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 134370,
       "num": 148779,
       "word": "王楚钦第52周继续霸榜世一",
       "onboard_time": 1735003878,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134256,
+      "num": 134256,
+      "word": "吻上王一博可爱表情包",
+      "onboard_time": 1735032798,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 133121,
@@ -1491,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131237,
+      "num": 131237,
+      "word": "登陆少年录制路透",
+      "onboard_time": 1735032560,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131005,
       "num": 131005,
       "word": "业内夸刘宇宁观众缘好",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1735030579,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125981,
+      "num": 125981,
+      "word": "徐冬冬拍广告前三天瘦四斤",
+      "onboard_time": 1735032260,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 125199,
@@ -1579,22 +1635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120499,
-      "num": 120499,
-      "word": "穷鬼套餐",
-      "onboard_time": 1735031837,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 119934,
-      "num": 258484,
-      "word": "没停车44天后却要缴2334元",
-      "onboard_time": 1735031178,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119582,
       "num": 119582,
       "word": "齐秦未患癌",
@@ -1651,6 +1691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117264,
+      "num": 117264,
+      "word": "齐秦长期吃槟榔",
+      "onboard_time": 1735032979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117005,
       "num": 117005,
       "word": "群众随意进出县政府上厕所接热水",
@@ -1659,12 +1707,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 115918,
-      "num": 115918,
-      "word": "微信蓝包",
-      "onboard_time": 1735032078,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 116026,
+      "num": 126616,
+      "word": "郭敬明发夏之光原始帧",
+      "onboard_time": 1735032620,
+      "rank": 38,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 114591,
@@ -1675,12 +1723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113906,
+      "num": 113906,
+      "word": "王楚钦2024年拿了16座冠军",
+      "onboard_time": 1735029979,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113445,
       "num": 113445,
       "word": "李秀满带内娱女团闯海外",
       "onboard_time": 1734963559,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 626107,
+      "word": "240小时过境免签超City",
+      "onboard_time": 1735030579,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113018,
@@ -1691,20 +1755,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112602,
+      "num": 112602,
+      "word": "中方反对日本核污染水排海立场没有变化",
+      "onboard_time": 1735032858,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111051,
       "num": 111051,
       "word": "蛇年纪念币预约情况火爆",
       "onboard_time": 1735000698,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 111038,
-      "num": 111038,
-      "word": "王楚钦2024年拿了16座冠军",
-      "onboard_time": 1735029979,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110895,
@@ -1771,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98806,
+      "num": 396790,
+      "word": "淄博植物园内数只流浪猫死亡",
+      "onboard_time": 1735030998,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98679,
       "num": 130732,
       "word": "猎罪2第九案有点太癫了",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1735004958,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92655,
-      "num": 580620,
-      "word": "240小时过境免签超City",
-      "onboard_time": 1735030579,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92127,
@@ -1912,14 +1976,6 @@
       "word": "男孩被犬咬伤狗主人为逃避责任杀狗",
       "onboard_time": 1735017859,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78959,
-      "num": 396790,
-      "word": "淄博植物园内数只流浪猫死亡",
-      "onboard_time": 1735030998,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2171,6 +2227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58527,
+      "num": 198343,
+      "word": "对野生动物最好的保护是不打扰",
+      "onboard_time": 1735032858,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58297,
       "num": 58297,
       "word": "肖秀荣给2026考生的建议",
@@ -2291,6 +2355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50679,
+      "num": 205281,
+      "word": "风中的火焰上桌",
+      "onboard_time": 1735032078,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50372,
       "num": 192610,
       "word": "罗渽民以粉丝名义捐款1亿韩元",
@@ -2307,12 +2379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48403,
+      "num": 285779,
+      "word": "网约车司机称想要干净整洁但没时间",
+      "onboard_time": 1735031837,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46816,
       "num": 219458,
       "word": "老人遭5只猎狗围咬伤口深达肌层",
       "onboard_time": 1735009038,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46166,
+      "num": 117907,
+      "word": "小小的我 给观众的信",
+      "onboard_time": 1735032379,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 45782,
@@ -2441,14 +2529,6 @@
       "onboard_time": 1735017618,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 38119,
-      "num": 137860,
-      "word": "风中的火焰上桌",
-      "onboard_time": 1735032078,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 37965,
@@ -2675,14 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23991,
-      "num": 265932,
-      "word": "网约车司机称想要干净整洁但没时间",
-      "onboard_time": 1735031837,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19660,
       "num": 136542,
       "word": "让马岩松一眼心动的博物馆",
@@ -2721,6 +2793,14 @@
       "onboard_time": 1734977292,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17398,
+      "num": 201593,
+      "word": "TES七周年",
+      "onboard_time": 1735032560,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 16021,

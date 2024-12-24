@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735032175912,
+  "endTime": 1735033006685,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -353,6 +353,14 @@
       "onboard_time": 1735010537,
       "rank": 29,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1096535,
+      "num": 1096535,
+      "word": "当网红狼死在车轮下你还觉得好笑吗",
+      "onboard_time": 1735029798,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1093245,
@@ -875,14 +883,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 684271,
-      "num": 684271,
-      "word": "当网红狼死在车轮下你还觉得好笑吗",
-      "onboard_time": 1735029798,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 679597,
       "num": 679597,
       "word": "数三 感觉简单但是不会",
@@ -1097,6 +1097,14 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 602377,
+      "num": 602377,
+      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
+      "onboard_time": 1735028539,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 601273,
@@ -1360,14 +1368,6 @@
       "word": "减重120斤男子脸如戴人皮面具",
       "onboard_time": 1734885316,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491606,
-      "num": 491606,
-      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
-      "onboard_time": 1735028539,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2499,6 +2499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284685,
+      "num": 284685,
+      "word": "女子发现房顶小孔竟是针孔摄像头",
+      "onboard_time": 1735031477,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1734920837,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276519,
+      "num": 219890,
+      "word": "吃砂糖橘真的会促进肿瘤生长吗",
+      "onboard_time": 1735028718,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 276386,
@@ -2841,14 +2857,6 @@
       "onboard_time": 1734786140,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248355,
-      "num": 219890,
-      "word": "吃砂糖橘真的会促进肿瘤生长吗",
-      "onboard_time": 1735028718,
-      "rank": 44,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 247626,
@@ -3291,6 +3299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212497,
+      "num": 212497,
+      "word": "李昀锐 大馋小子",
+      "onboard_time": 1735031357,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212111,
       "num": 212111,
       "word": "光遇复刻",
@@ -3433,6 +3449,14 @@
       "onboard_time": 1734922158,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 206898,
+      "num": 206898,
+      "word": "微信蓝包",
+      "onboard_time": 1735032078,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 206386,
@@ -3812,7 +3836,7 @@
     },
     {
       "raw_hot": 191196,
-      "num": 161401,
+      "num": 179799,
       "word": "张真源 LV",
       "onboard_time": 1735030158,
       "rank": 30,
@@ -4123,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181092,
+      "num": 258843,
+      "word": "张馨予嫁给何捷是嫁给了爱情",
+      "onboard_time": 1735030399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180662,
       "num": 180662,
       "word": "张真源客串九重紫",
@@ -4179,12 +4211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177786,
-      "num": 177786,
-      "word": "女子发现房顶小孔竟是针孔摄像头",
-      "onboard_time": 1735031477,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 178164,
+      "num": 178164,
+      "word": "穷鬼套餐",
+      "onboard_time": 1735031837,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 177759,
@@ -4787,14 +4819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158500,
-      "num": 258843,
-      "word": "张馨予嫁给何捷是嫁给了爱情",
-      "onboard_time": 1735030399,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158409,
       "num": 158409,
       "word": "你好星期六下期是北上",
@@ -4913,6 +4937,14 @@
       "onboard_time": 1734878361,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154338,
+      "num": 154338,
+      "word": "于正签约天选古人上演员3",
+      "onboard_time": 1735029618,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154243,
@@ -5275,14 +5307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143828,
-      "num": 143828,
-      "word": "于正签约天选古人上演员3",
-      "onboard_time": 1735029618,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143826,
       "num": 143826,
       "word": "司机修车被撞身亡多人作伪证被拘",
@@ -5467,6 +5491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139168,
+      "num": 258484,
+      "word": "没停车44天后却要缴2334元",
+      "onboard_time": 1735031178,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138744,
       "num": 138744,
       "word": "法院已收到李铁上诉书",
@@ -5481,14 +5513,6 @@
       "onboard_time": 1735014260,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138145,
-      "num": 138145,
-      "word": "李昀锐 大馋小子",
-      "onboard_time": 1735031357,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 137923,
@@ -5627,6 +5651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134256,
+      "num": 134256,
+      "word": "吻上王一博可爱表情包",
+      "onboard_time": 1735032798,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133826,
       "num": 245773,
       "word": "刘文新一审被判死缓",
@@ -5761,6 +5793,14 @@
       "onboard_time": 1734835276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131237,
+      "num": 131237,
+      "word": "登陆少年录制路透",
+      "onboard_time": 1735032560,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 131230,
@@ -5913,6 +5953,14 @@
       "onboard_time": 1734943098,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125981,
+      "num": 125981,
+      "word": "徐冬冬拍广告前三天瘦四斤",
+      "onboard_time": 1735032260,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 125711,
@@ -6123,14 +6171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120499,
-      "num": 120499,
-      "word": "穷鬼套餐",
-      "onboard_time": 1735031837,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120441,
       "num": 619436,
       "word": "韩国一部队爆炸事件3名平民受伤",
@@ -6153,14 +6193,6 @@
       "onboard_time": 1734823815,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 119934,
-      "num": 258484,
-      "word": "没停车44天后却要缴2334元",
-      "onboard_time": 1735031178,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119778,
@@ -6291,6 +6323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117264,
+      "num": 117264,
+      "word": "齐秦长期吃槟榔",
+      "onboard_time": 1735032979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117154,
       "num": 157608,
       "word": "一天连吃三顿辣56岁男子急性肾损伤",
@@ -6355,12 +6395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 115918,
-      "num": 115918,
-      "word": "微信蓝包",
-      "onboard_time": 1735032078,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 116026,
+      "num": 126616,
+      "word": "郭敬明发夏之光原始帧",
+      "onboard_time": 1735032620,
+      "rank": 38,
+      "category": "作品衍生,体育"
     },
     {
       "raw_hot": 115717,
@@ -6435,12 +6475,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113906,
+      "num": 113906,
+      "word": "王楚钦2024年拿了16座冠军",
+      "onboard_time": 1735029979,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113752,
       "num": 219336,
       "word": "Faker李龙馥同框",
       "onboard_time": 1734951798,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113309,
+      "num": 626107,
+      "word": "240小时过境免签超City",
+      "onboard_time": 1735030579,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113147,
@@ -6489,6 +6545,14 @@
       "onboard_time": 1734834016,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112602,
+      "num": 112602,
+      "word": "中方反对日本核污染水排海立场没有变化",
+      "onboard_time": 1735032858,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112557,
@@ -6561,14 +6625,6 @@
       "onboard_time": 1734939799,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111038,
-      "num": 111038,
-      "word": "王楚钦2024年拿了16座冠军",
-      "onboard_time": 1735029979,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110525,
@@ -6931,6 +6987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98806,
+      "num": 396790,
+      "word": "淄博植物园内数只流浪猫死亡",
+      "onboard_time": 1735030998,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98539,
       "num": 176173,
       "word": "spicyhoneyrap挑战",
@@ -7081,14 +7145,6 @@
       "onboard_time": 1734792379,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92655,
-      "num": 580620,
-      "word": "240小时过境免签超City",
-      "onboard_time": 1735030579,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92592,
@@ -7400,14 +7456,6 @@
       "word": "把游客宠上天倒也不必苛求当地人",
       "onboard_time": 1734879860,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78959,
-      "num": 396790,
-      "word": "淄博植物园内数只流浪猫死亡",
-      "onboard_time": 1735030998,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -8059,6 +8107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58527,
+      "num": 198343,
+      "word": "对野生动物最好的保护是不打扰",
+      "onboard_time": 1735032858,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58297,
       "num": 58297,
       "word": "肖秀荣给2026考生的建议",
@@ -8347,6 +8403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50679,
+      "num": 205281,
+      "word": "风中的火焰上桌",
+      "onboard_time": 1735032078,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50449,
       "num": 124811,
       "word": "电影恶行之外定档",
@@ -8435,6 +8499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48403,
+      "num": 285779,
+      "word": "网约车司机称想要干净整洁但没时间",
+      "onboard_time": 1735031837,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48108,
       "num": 381282,
       "word": "纽约地铁蓄意纵火男子被捕",
@@ -8521,6 +8593,14 @@
       "onboard_time": 1734932117,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46166,
+      "num": 117907,
+      "word": "小小的我 给观众的信",
+      "onboard_time": 1735032379,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 46029,
@@ -8873,14 +8953,6 @@
       "onboard_time": 1734929719,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 38119,
-      "num": 137860,
-      "word": "风中的火焰上桌",
-      "onboard_time": 1735032078,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 37965,
@@ -9563,14 +9635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23991,
-      "num": 265932,
-      "word": "网约车司机称想要干净整洁但没时间",
-      "onboard_time": 1735031837,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23593,
       "num": 366503,
       "word": "一文梳理马航MH370事件",
@@ -9737,6 +9801,14 @@
       "onboard_time": 1734928281,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17398,
+      "num": 201593,
+      "word": "TES七周年",
+      "onboard_time": 1735032560,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 17149,
