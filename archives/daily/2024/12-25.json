@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735076125442,
+  "endTime": 1735078834975,
   "band_list": [
     {
       "raw_hot": 1366142,
@@ -171,6 +171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 158422,
+      "num": 158422,
+      "word": "长春坠江私家车内有孕妇",
+      "onboard_time": 1735069930,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "被家暴女子遭男方恐吓全家绝种",
@@ -339,14 +347,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 84011,
-      "num": 84011,
-      "word": "长春坠江私家车内有孕妇",
-      "onboard_time": 1735069930,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "当网红狼死在车轮下你还觉得好笑吗",
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59764,
+      "num": 28096,
+      "word": "陈建斌 都给朕回去回后宫去",
+      "onboard_time": 1735063872,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56161,
       "num": 70758,
       "word": "李昀锐剧透跨年舞台",
@@ -465,6 +473,14 @@
       "onboard_time": 1735059075,
       "rank": 42,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 48148,
+      "num": 48148,
+      "word": "平安夜快乐",
+      "onboard_time": 1735073650,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 44041,
@@ -491,24 +507,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 34712,
-      "num": 28096,
-      "word": "陈建斌 都给朕回去回后宫去",
-      "onboard_time": 1735063872,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 31343,
-      "num": 31343,
-      "word": "平安夜快乐",
-      "onboard_time": 1735073650,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 32399,
+      "num": 32399,
+      "word": "日本外相岩屋毅将访问中国",
+      "onboard_time": 1735074910,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26695,
-      "num": 21780,
+      "num": 26357,
       "word": "老师带4个月女儿上课成班里团宠",
       "onboard_time": 1735067473,
       "rank": 49,
@@ -547,6 +555,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 21887,
+      "num": 21887,
+      "word": "孟子义李昀锐换座位的原因找到了",
+      "onboard_time": 1735077431,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "许个星愿",
@@ -555,27 +571,35 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18887,
-      "num": 70362,
-      "word": "交警提醒驾车遇到动物抢尾不抢头",
-      "onboard_time": 1735064472,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18686,
-      "num": 18686,
+      "raw_hot": 21090,
+      "num": 21090,
       "word": "吉林长春一家三口开车坠江一人为孕妇",
       "onboard_time": 1735072512,
       "rank": 29,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17337,
+      "raw_hot": 19603,
+      "num": 19603,
+      "word": "以前特工揭秘如何出售爆炸传呼机",
+      "onboard_time": 1735073050,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18905,
       "num": 30640,
       "word": "多省回复称不存在大规模推山造田",
       "onboard_time": 1735069572,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18887,
+      "num": 70362,
+      "word": "交警提醒驾车遇到动物抢尾不抢头",
+      "onboard_time": 1735064472,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -627,20 +651,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12595,
-      "num": 18718,
-      "word": "以前特工揭秘如何出售爆炸传呼机",
-      "onboard_time": 1735073050,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12062,
-      "num": 13844,
-      "word": "日本外相岩屋毅将访问中国",
-      "onboard_time": 1735074910,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 11024,
+      "num": 54825,
+      "word": "上万名村民个人信息被盗",
+      "onboard_time": 1735078331,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10579,
