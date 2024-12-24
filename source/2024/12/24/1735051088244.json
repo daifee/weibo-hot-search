@@ -1,0 +1,410 @@
+{
+  "runTime": 1735051088244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1940170,
+        "num": 1940170,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 925225,
+        "num": 925225,
+        "word": "还有8天刑满释放男子被改判死缓",
+        "onboard_time": 1735027158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228030,
+        "num": 715726,
+        "word": "哈尔滨冰雪大世界有多火",
+        "onboard_time": 1735046780,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677928,
+        "num": 677928,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 652649,
+        "num": 652649,
+        "word": "2025年总台春晚分会场发布",
+        "onboard_time": 1735042340,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629626,
+        "num": 629626,
+        "word": "微信蓝包",
+        "onboard_time": 1735032078,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 553672,
+        "num": 553672,
+        "word": "辛巴咳嗽不止自曝患病",
+        "onboard_time": 1735044019,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 473393,
+        "num": 473393,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430228,
+        "num": 430228,
+        "word": "球友打羽毛球猝死球馆判赔20余万",
+        "onboard_time": 1735049359,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25517,
+        "num": 405681,
+        "word": "虚假摆拍视频为何屡禁不止",
+        "onboard_time": 1735050379,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1255758,
+        "num": 404789,
+        "word": "圣诞树",
+        "onboard_time": 1735036759,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399147,
+        "num": 399147,
+        "word": "吴磊第一部现偶多国TOP1",
+        "onboard_time": 1735045999,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392102,
+        "num": 392102,
+        "word": "新闻联播播出他生前最后一段影像",
+        "onboard_time": 1735044499,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170885,
+        "num": 372856,
+        "word": "为防堵车南京用无人机送血",
+        "onboard_time": 1735048940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91911,
+        "num": 371739,
+        "word": "九重紫爆款的含金量更高",
+        "onboard_time": 1735051040,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371627,
+        "num": 371627,
+        "word": "TES对战iG",
+        "onboard_time": 1735040597,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370284,
+        "num": 370284,
+        "word": "景区回应李现在虎跳峡举国旗",
+        "onboard_time": 1735036819,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365951,
+        "num": 365951,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19846,
+        "num": 360741,
+        "word": "林一带着白白来和大家sayhihi",
+        "onboard_time": 1735044080,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30161,
+        "num": 357191,
+        "word": "2年被家暴16次当事人的漫长之路",
+        "onboard_time": 1735050500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357097,
+        "num": 357097,
+        "word": "九重紫制片人谈选角孟子义",
+        "onboard_time": 1735047560,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316462,
+        "num": 316462,
+        "word": "美国航空公司全美停飞",
+        "onboard_time": 1735043538,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465904,
+        "num": 313461,
+        "word": "女子做全裸SPA遭老板偷拍",
+        "onboard_time": 1735034719,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282703,
+        "num": 282703,
+        "word": "TES赢下LPL忍界大战",
+        "onboard_time": 1735049479,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 46383,
+        "num": 273021,
+        "word": "iG与TES开局2分钟10个人头",
+        "onboard_time": 1735050739,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 264344,
+        "num": 264344,
+        "word": "苹果",
+        "onboard_time": 1735036698,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261079,
+        "num": 261079,
+        "word": "央视揭电子医保卡村推骗局",
+        "onboard_time": 1735047439,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224711,
+        "num": 224711,
+        "word": "左奇函smoke",
+        "onboard_time": 1735046959,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205782,
+        "num": 205782,
+        "word": "虞书欣 吸血鬼之家打卡",
+        "onboard_time": 1735048940,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28296,
+        "num": 203419,
+        "word": "王婆更名王干娘到多地说媒",
+        "onboard_time": 1735050440,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202250,
+        "num": 202250,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196157,
+        "num": 196157,
+        "word": "张凌赫不愧是可以徒嘴剥虾的男人",
+        "onboard_time": 1735047919,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195262,
+        "num": 195262,
+        "word": "27岁的樊振东12年集齐超级全满贯",
+        "onboard_time": 1735047439,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190757,
+        "num": 190757,
+        "word": "张桂梅的学生已成教师医生护士",
+        "onboard_time": 1735036459,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 184308,
+        "num": 184308,
+        "word": "孙千公主抱黄景瑜",
+        "onboard_time": 1735050079,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99200,
+        "num": 177071,
+        "word": "朱慧敏怀二胎",
+        "onboard_time": 1735045578,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171073,
+        "num": 171073,
+        "word": "张颂文回应新剧演技争议",
+        "onboard_time": 1735036579,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168631,
+        "num": 168631,
+        "word": "当网红狼死在车轮下你还觉得好笑吗",
+        "onboard_time": 1735029798,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163481,
+        "num": 163481,
+        "word": "徐冬冬大大方方的医美",
+        "onboard_time": 1735038558,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83564,
+        "num": 161803,
+        "word": "早餐快煮面",
+        "onboard_time": 1735050020,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160683,
+        "num": 160683,
+        "word": "女子发现房顶小孔竟是针孔摄像头",
+        "onboard_time": 1735031477,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156303,
+        "num": 156303,
+        "word": "虎牙楚河",
+        "onboard_time": 1735045759,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151207,
+        "num": 151207,
+        "word": "孩子随口一句话男子把家砸烂",
+        "onboard_time": 1735035919,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151073,
+        "num": 151073,
+        "word": "田曦薇李一桐你们根本没喝中药",
+        "onboard_time": 1735039038,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144963,
+        "num": 144963,
+        "word": "全国首个监测台风的无人机",
+        "onboard_time": 1735050980,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133863,
+        "num": 133863,
+        "word": "锦衣卫",
+        "onboard_time": 1735045159,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133195,
+        "num": 133195,
+        "word": "丁禹兮工作室花絮放送",
+        "onboard_time": 1735048999,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129132,
+        "num": 129132,
+        "word": "动物医院医生谈希林娜依高拖行小狗",
+        "onboard_time": 1735037838,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "银川地震",
+        "onboard_time": 1735045640,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126160,
+        "num": 126160,
+        "word": "朱志鑫苏新皓他拍的",
+        "onboard_time": 1735049421,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}

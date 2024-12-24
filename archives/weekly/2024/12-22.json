@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735050014738,
+  "endTime": 1735051088244,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -73,6 +73,14 @@
       "onboard_time": 1734931038,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1940170,
+      "num": 1940170,
+      "word": "春晚分会场是会选址的",
+      "onboard_time": 1735048579,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1868885,
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1363941,
-      "num": 1363941,
-      "word": "春晚分会场是会选址的",
-      "onboard_time": 1735048579,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1348127,
       "num": 1348127,
       "word": "偶遇纪凌尘高铁假装看书",
@@ -289,6 +289,14 @@
       "onboard_time": 1734951078,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255758,
+      "num": 722360,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1254232,
@@ -569,14 +577,6 @@
       "onboard_time": 1734910998,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 951753,
-      "num": 722360,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 946804,
@@ -1579,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473393,
+      "num": 473393,
+      "word": "因穿高跟鞋走红男子带火一个村",
+      "onboard_time": 1735047619,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 470683,
       "num": 470683,
       "word": "猎罪图鉴2女子在工厂活活饿死",
@@ -1795,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430228,
+      "num": 430228,
+      "word": "球友打羽毛球猝死球馆判赔20余万",
+      "onboard_time": 1735049359,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428810,
       "num": 428810,
       "word": "黑神话悟空被山寨了",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1734921436,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 427724,
-      "num": 427724,
-      "word": "因穿高跟鞋走红男子带火一个村",
-      "onboard_time": 1735047619,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 427008,
@@ -2009,6 +2017,14 @@
       "onboard_time": 1735033639,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399147,
+      "num": 399147,
+      "word": "吴磊第一部现偶多国TOP1",
+      "onboard_time": 1735045999,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 398913,
@@ -2283,11 +2299,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 356936,
-      "num": 356936,
-      "word": "吴磊第一部现偶多国TOP1",
-      "onboard_time": 1735045999,
-      "rank": 33,
+      "raw_hot": 357097,
+      "num": 357097,
+      "word": "九重紫制片人谈选角孟子义",
+      "onboard_time": 1735047560,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -2313,14 +2329,6 @@
       "onboard_time": 1734792980,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350686,
-      "num": 319754,
-      "word": "九重紫制片人谈选角孟子义",
-      "onboard_time": 1735047560,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 350592,
@@ -2785,6 +2793,14 @@
       "onboard_time": 1734963559,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282703,
+      "num": 340026,
+      "word": "TES赢下LPL忍界大战",
+      "onboard_time": 1735049479,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 281144,
@@ -3355,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228030,
+      "num": 805518,
+      "word": "哈尔滨冰雪大世界有多火",
+      "onboard_time": 1735046780,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227714,
       "num": 242494,
       "word": "冬至 分手循环",
@@ -3843,6 +3867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205782,
+      "num": 205782,
+      "word": "虞书欣 吸血鬼之家打卡",
+      "onboard_time": 1735048940,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "秦岚情绪稳定的原因找到了",
@@ -3921,6 +3953,14 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202250,
+      "num": 215599,
+      "word": "撞死网红狼司机疑似未主动救治",
+      "onboard_time": 1735049960,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201117,
@@ -4107,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195262,
+      "num": 195262,
+      "word": "27岁的樊振东12年集齐超级全满贯",
+      "onboard_time": 1735047439,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195180,
       "num": 278692,
       "word": "国色芳华两大赞助",
@@ -4137,14 +4185,6 @@
       "onboard_time": 1734922759,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194891,
-      "num": 194891,
-      "word": "虞书欣 吸血鬼之家打卡",
-      "onboard_time": 1735048940,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 194722,
@@ -4547,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184308,
+      "num": 184308,
+      "word": "孙千公主抱黄景瑜",
+      "onboard_time": 1735050079,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183768,
       "num": 302369,
       "word": "宋旻浩消极服役惹众怒",
@@ -4867,6 +4915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170885,
+      "num": 372856,
+      "word": "为防堵车南京用无人机送血",
+      "onboard_time": 1735048940,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170719,
       "num": 307925,
       "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
@@ -4889,14 +4945,6 @@
       "onboard_time": 1734830896,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169972,
-      "num": 805518,
-      "word": "哈尔滨冰雪大世界有多火",
-      "onboard_time": 1735046780,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169880,
@@ -5209,14 +5257,6 @@
       "onboard_time": 1734952697,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 161079,
-      "num": 161079,
-      "word": "27岁的樊振东12年集齐超级全满贯",
-      "onboard_time": 1735047439,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 160971,
@@ -5849,6 +5889,14 @@
       "onboard_time": 1734863238,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144963,
+      "num": 144963,
+      "word": "全国首个监测台风的无人机",
+      "onboard_time": 1735050980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144545,
@@ -7339,14 +7387,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109617,
-      "num": 215599,
-      "word": "撞死网红狼司机疑似未主动救治",
-      "onboard_time": 1735049960,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109235,
       "num": 569171,
       "word": "社区回应女子遭压路机辗压身亡",
@@ -7513,14 +7553,6 @@
       "onboard_time": 1734836477,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105075,
-      "num": 361471,
-      "word": "球友打羽毛球猝死球馆判赔20余万",
-      "onboard_time": 1735049359,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105055,
@@ -7721,6 +7753,14 @@
       "onboard_time": 1734791899,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99200,
+      "num": 352076,
+      "word": "朱慧敏怀二胎",
+      "onboard_time": 1735045578,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 99094,
@@ -7929,6 +7969,14 @@
       "onboard_time": 1734824354,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91911,
+      "num": 371739,
+      "word": "九重紫爆款的含金量更高",
+      "onboard_time": 1735051040,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 91567,
@@ -8153,6 +8201,14 @@
       "onboard_time": 1734865578,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83564,
+      "num": 161803,
+      "word": "早餐快煮面",
+      "onboard_time": 1735050020,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 83344,
@@ -8457,14 +8513,6 @@
       "onboard_time": 1734949098,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71972,
-      "num": 352076,
-      "word": "朱慧敏怀二胎",
-      "onboard_time": 1735045578,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 71955,
@@ -9115,14 +9163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53798,
-      "num": 340026,
-      "word": "TES赢下LPL忍界大战",
-      "onboard_time": 1735049479,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 53586,
       "num": 53586,
       "word": "考研查分空窗期",
@@ -9473,6 +9513,14 @@
       "onboard_time": 1734932117,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46383,
+      "num": 273021,
+      "word": "iG与TES开局2分钟10个人头",
+      "onboard_time": 1735050739,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 46181,
@@ -10339,8 +10387,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30161,
+      "num": 357191,
+      "word": "2年被家暴16次当事人的漫长之路",
+      "onboard_time": 1735050500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30073,
-      "num": 196712,
+      "num": 360741,
       "word": "林一带着白白来和大家sayhihi",
       "onboard_time": 1735044080,
       "rank": 29,
@@ -10425,6 +10481,14 @@
       "onboard_time": 1734842179,
       "rank": 14,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 28296,
+      "num": 203419,
+      "word": "王婆更名王干娘到多地说媒",
+      "onboard_time": 1735050440,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28294,
@@ -10545,6 +10609,14 @@
       "onboard_time": 1735036579,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25517,
+      "num": 405681,
+      "word": "虚假摆拍视频为何屡禁不止",
+      "onboard_time": 1735050379,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25300,
