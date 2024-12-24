@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735028902626,
+  "endTime": 1735029721794,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -17,6 +17,14 @@
       "onboard_time": 1735003519,
       "rank": 10,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 2237743,
+      "num": 2237743,
+      "word": "还有8天刑满释放男子被改判死缓",
+      "onboard_time": 1735027158,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1711908,
@@ -41,14 +49,6 @@
       "onboard_time": 1735020259,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1513764,
-      "num": 1513764,
-      "word": "还有8天刑满释放男子被改判死缓",
-      "onboard_time": 1735027158,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1466670,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 755212,
+      "num": 573845,
+      "word": "沈月 老师别下了像拉了",
+      "onboard_time": 1735026199,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752931,
       "num": 752931,
       "word": "强占人妻区长人大代表资格终止",
@@ -161,14 +169,6 @@
       "onboard_time": 1734999259,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 730997,
-      "num": 573845,
-      "word": "沈月 老师别下了像拉了",
-      "onboard_time": 1735026199,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 718868,
@@ -219,8 +219,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 585431,
-      "num": 532553,
+      "raw_hot": 603080,
+      "num": 603080,
       "word": "杨子 延迟退休",
       "onboard_time": 1735025118,
       "rank": 20,
@@ -425,6 +425,14 @@
       "onboard_time": 1735007956,
       "rank": 7,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 376158,
+      "num": 284911,
+      "word": "易烊千玺小小的我暴瘦",
+      "onboard_time": 1735027939,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 372664,
@@ -651,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244813,
-      "num": 244813,
-      "word": "易烊千玺小小的我暴瘦",
-      "onboard_time": 1735027939,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 248465,
+      "num": 192746,
+      "word": "黄景瑜公主抱粉丝",
+      "onboard_time": 1735027399,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 235267,
@@ -771,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208071,
+      "num": 208071,
+      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
+      "onboard_time": 1735028539,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207474,
       "num": 207474,
       "word": "南方人洗澡现状",
@@ -809,6 +825,14 @@
       "onboard_time": 1735022059,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197733,
+      "num": 191238,
+      "word": "姜珮瑶首部古装剧演花魁",
+      "onboard_time": 1735029258,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 194406,
@@ -859,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189497,
+      "num": 189497,
+      "word": "张继科卖课账号橱窗上架3件商品",
+      "onboard_time": 1735025479,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189361,
       "num": 189361,
       "word": "中国人爱喝热水都传到国外去了",
@@ -897,6 +929,14 @@
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187145,
+      "num": 178678,
+      "word": "外交部回应考虑明年进口日本水产品",
+      "onboard_time": 1735028718,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 186387,
@@ -945,14 +985,6 @@
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 181408,
-      "num": 181408,
-      "word": "黄景瑜公主抱粉丝",
-      "onboard_time": 1735027399,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 179190,
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169358,
+      "num": 169358,
+      "word": "国色芳华",
+      "onboard_time": 1735028358,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169191,
       "num": 169191,
       "word": "2024被这些奔跑瞬间治愈",
@@ -1057,14 +1097,6 @@
       "onboard_time": 1735014500,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163893,
-      "num": 163893,
-      "word": "国色芳华",
-      "onboard_time": 1735028358,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 163792,
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 159556,
-      "num": 159556,
+      "num": 191724,
       "word": "官方称公路等待投喂的狼有四五只",
       "onboard_time": 1735020199,
       "rank": 44,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1735009458,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158561,
+      "num": 284972,
+      "word": "家属否认齐秦患癌",
+      "onboard_time": 1735025058,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 154243,
@@ -1155,6 +1195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 146708,
+      "num": 146708,
+      "word": "李一桐外置八块腹肌",
+      "onboard_time": 1735028780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146456,
       "num": 146456,
       "word": "巴拿马总统强硬回应特朗普",
@@ -1169,6 +1217,22 @@
       "onboard_time": 1735008317,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144428,
+      "num": 144428,
+      "word": "WPS父主题",
+      "onboard_time": 1735029439,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 143952,
+      "num": 190302,
+      "word": "吃砂糖橘真的会促进肿瘤生长吗",
+      "onboard_time": 1735028718,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 143826,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142640,
-      "num": 255107,
-      "word": "家属否认齐秦患癌",
-      "onboard_time": 1735025058,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 142432,
@@ -1347,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131587,
-      "num": 185093,
-      "word": "张继科卖课账号橱窗上架3件商品",
-      "onboard_time": 1735025479,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131288,
       "num": 131288,
       "word": "蒋欣说小巷人家番外最想拍抱孙子",
@@ -1363,12 +1411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128978,
-      "num": 128978,
-      "word": "哈尔滨冰雪大世界开园3日遭吐槽",
-      "onboard_time": 1735028539,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 131005,
+      "num": 131005,
+      "word": "业内夸刘宇宁观众缘好",
+      "onboard_time": 1735029078,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 128668,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1734979031,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 127954,
-      "num": 127954,
-      "word": "李一桐外置八块腹肌",
-      "onboard_time": 1735028780,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 125199,
@@ -1404,7 +1444,7 @@
     },
     {
       "raw_hot": 124025,
-      "num": 124025,
+      "num": 191597,
       "word": "张雨霏躺平不了一点",
       "onboard_time": 1735024338,
       "rank": 42,
@@ -1427,22 +1467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123399,
-      "num": 123399,
-      "word": "吃砂糖橘真的会促进肿瘤生长吗",
-      "onboard_time": 1735028718,
-      "rank": 44,
-      "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 122786,
-      "num": 122786,
-      "word": "外交部回应考虑明年进口日本水产品",
-      "onboard_time": 1735028718,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122349,
       "num": 122349,
       "word": "被铁路售票员的手速惊到了",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1735014740,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 121366,
+      "num": 121366,
+      "word": "于正签约天选古人上演员3",
+      "onboard_time": 1735029618,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 121014,
@@ -1481,6 +1513,22 @@
       "onboard_time": 1735012821,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119460,
+      "num": 119460,
+      "word": "王者S38新赛季明日开启",
+      "onboard_time": 1735029078,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117876,
+      "num": 117876,
+      "word": "2024被这些超飒新装备硬控了",
+      "onboard_time": 1735029681,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117855,
@@ -1588,7 +1636,7 @@
     },
     {
       "raw_hot": 101111,
-      "num": 114639,
+      "num": 148117,
       "word": "张雨霏期待30岁参加洛杉矶奥运会",
       "onboard_time": 1735024639,
       "rank": 44,
@@ -1633,6 +1681,14 @@
       "onboard_time": 1735004958,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92127,
+      "num": 431535,
+      "word": "当地通报5名学生掌掴灼伤同学",
+      "onboard_time": 1735027760,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92102,
@@ -1852,19 +1908,11 @@
     },
     {
       "raw_hot": 70483,
-      "num": 169681,
+      "num": 193040,
       "word": "谁的大数据被李昀锐硬控了",
       "onboard_time": 1735027339,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70424,
-      "num": 431535,
-      "word": "当地通报5名学生掌掴灼伤同学",
-      "onboard_time": 1735027760,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67624,
@@ -1873,6 +1921,14 @@
       "onboard_time": 1734942438,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 67114,
+      "num": 284036,
+      "word": "西安被狗咬伤4岁男童母亲发声",
+      "onboard_time": 1735027939,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66926,
@@ -2003,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57272,
+      "num": 189966,
+      "word": "冬至直播",
+      "onboard_time": 1735029681,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56290,
       "num": 56290,
       "word": "圣诞节 鸡公煲",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1734985872,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53688,
-      "num": 249306,
-      "word": "西安被狗咬伤4岁男童母亲发声",
-      "onboard_time": 1735027939,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53260,
@@ -2195,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40511,
+      "num": 284062,
+      "word": "齐秦只是喉咙溃疡",
+      "onboard_time": 1735029319,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40360,
       "num": 516952,
       "word": "国家铁路完成货物发送量3.5亿吨",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1734988030,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32419,
+      "num": 189689,
+      "word": "黄健翔问足坛最强11人是谁",
+      "onboard_time": 1735029199,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 32060,
@@ -2491,6 +2563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 14881,
+      "num": 128745,
+      "word": "年轻人爱买黄金的血脉觉醒了",
+      "onboard_time": 1735027998,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14713,
       "num": 127723,
       "word": "冰雪大世界主塔",
@@ -2553,14 +2633,6 @@
       "onboard_time": 1734970097,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8778,
-      "num": 128209,
-      "word": "年轻人爱买黄金的血脉觉醒了",
-      "onboard_time": 1735027998,
-      "rank": 42,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
