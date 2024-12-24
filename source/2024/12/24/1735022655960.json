@@ -1,0 +1,410 @@
+{
+  "runTime": 1735022655960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1562554,
+        "num": 1562554,
+        "word": "普京谈俄罗斯色情泛滥",
+        "onboard_time": 1735017980,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1447996,
+        "num": 1447996,
+        "word": "张馨予为何捷发声",
+        "onboard_time": 1735020259,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20649,
+        "num": 1131331,
+        "word": "文化中国行守护非遗之美",
+        "onboard_time": 1734986831,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 964953,
+        "num": 964953,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730022,
+        "num": 730022,
+        "word": "哈尔滨冰雕有血印视频系1月发布",
+        "onboard_time": 1735015099,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525173,
+        "num": 525173,
+        "word": "张继科199元录播课3小时卖了25万元",
+        "onboard_time": 1735013119,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475719,
+        "num": 475719,
+        "word": "3女生考研最后一科被反锁酒店",
+        "onboard_time": 1735018699,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450447,
+        "num": 450447,
+        "word": "蒋欣瘦了20斤",
+        "onboard_time": 1735015340,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436172,
+        "num": 436172,
+        "word": "吉林一家三口开车坠江车辆已找到",
+        "onboard_time": 1735019359,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72333,
+        "num": 433934,
+        "word": "2024多彩的中国",
+        "onboard_time": 1735018218,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432962,
+        "num": 432962,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316381,
+        "num": 316381,
+        "word": "女子拒绝哺乳期通勤4小时上班被辞",
+        "onboard_time": 1735009517,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278783,
+        "num": 278783,
+        "word": "刘诗诗 吴奇隆",
+        "onboard_time": 1735011858,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269856,
+        "num": 269856,
+        "word": "希林娜依高回应拖行小狗",
+        "onboard_time": 1735014801,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254829,
+        "num": 254829,
+        "word": "碎花裙女孩火了后拒绝直播带货",
+        "onboard_time": 1735021460,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 238602,
+        "num": 238602,
+        "word": "檀健次虞书欣 合作",
+        "onboard_time": 1735015700,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231575,
+        "num": 231575,
+        "word": "瑞幸回应喝出蟑螂事件",
+        "onboard_time": 1735009998,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112666,
+        "num": 225119,
+        "word": "马嘉祺高会",
+        "onboard_time": 1735022179,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303689,
+        "num": 224122,
+        "word": "媒体评吴柳芳不能再擦边了",
+        "onboard_time": 1735014620,
+        "rank": 18,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 51022,
+        "num": 221375,
+        "word": "电影穿越时空的少女定档",
+        "onboard_time": 1735022418,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221313,
+        "num": 221313,
+        "word": "jellycat平替成上海圣诞节顶流",
+        "onboard_time": 1735011738,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209323,
+        "num": 209323,
+        "word": "骄阳似我吻戏",
+        "onboard_time": 1735019598,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207474,
+        "num": 207474,
+        "word": "南方人洗澡现状",
+        "onboard_time": 1735017140,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66926,
+        "num": 204883,
+        "word": "马龙刘诗雯与科比雕像合影",
+        "onboard_time": 1735021999,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204432,
+        "num": 204432,
+        "word": "明年适当提高退休人员基本养老金",
+        "onboard_time": 1735020618,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203459,
+        "num": 203459,
+        "word": "90后TVB女演员在餐厅洗碗洗厕所",
+        "onboard_time": 1735017260,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197790,
+        "num": 197790,
+        "word": "时代少年团宠物合照",
+        "onboard_time": 1735022059,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193006,
+        "num": 193006,
+        "word": "杨子 演员请就位",
+        "onboard_time": 1735015760,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44559,
+        "num": 189938,
+        "word": "盘点2024最飒新装备",
+        "onboard_time": 1735022479,
+        "rank": 28,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 25153,
+        "num": 188929,
+        "word": "A股再现天价离婚案分手费4亿",
+        "onboard_time": 1735022540,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188421,
+        "num": 188421,
+        "word": "活塞双杀湖人",
+        "onboard_time": 1735021879,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65473,
+        "num": 186227,
+        "word": "考古的风吹到了李昀锐",
+        "onboard_time": 1735020681,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184655,
+        "num": 184655,
+        "word": "专家谈年轻人买房该出手时就出手",
+        "onboard_time": 1735019598,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176475,
+        "num": 176475,
+        "word": "白鹿 菩提树下站猴都美",
+        "onboard_time": 1735017679,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 171715,
+        "word": "央视曾呼吁不要投喂网红狼",
+        "onboard_time": 1735022238,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74617,
+        "num": 169783,
+        "word": "黄亦玫豆瓣2024热议角色TOP1",
+        "onboard_time": 1735022540,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169593,
+        "num": 169593,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166402,
+        "num": 166402,
+        "word": "演员请就位3首录路透",
+        "onboard_time": 1735021218,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87422,
+        "num": 164757,
+        "word": "骗骗喜欢你人均行骗高手",
+        "onboard_time": 1735021098,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164356,
+        "num": 164356,
+        "word": "白鹿 没吻这么激烈",
+        "onboard_time": 1735010058,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166136,
+        "num": 163596,
+        "word": "赵丽颖刘亦菲唐嫣最受关注演员",
+        "onboard_time": 1735022238,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162532,
+        "num": 162532,
+        "word": "王曼昱提车",
+        "onboard_time": 1735015219,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157611,
+        "num": 157611,
+        "word": "他的人生被困在了1996年",
+        "onboard_time": 1735016241,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152533,
+        "num": 152533,
+        "word": "游戏玩家网上泄密惊动意国防部",
+        "onboard_time": 1735019479,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144472,
+        "num": 144472,
+        "word": "吴柳芳背后MCN劣迹斑斑",
+        "onboard_time": 1735011738,
+        "rank": 44,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 135958,
+        "num": 135958,
+        "word": "2024年度词汇是damn",
+        "onboard_time": 1735022357,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128785,
+        "num": 128785,
+        "word": "瑞幸咖啡全面核查蟑螂事件",
+        "onboard_time": 1735020199,
+        "rank": 46,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 127498,
+        "num": 127498,
+        "word": "2025年要支持扩大国内需求",
+        "onboard_time": 1735021279,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 8632,
+        "num": 127071,
+        "word": "大学考的证书含金量还在上升",
+        "onboard_time": 1735022540,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126871,
+        "num": 126871,
+        "word": "官方称公路等待投喂的狼有四五只",
+        "onboard_time": 1735020199,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
