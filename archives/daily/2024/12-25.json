@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735072556328,
+  "endTime": 1735075230622,
   "band_list": [
     {
       "raw_hot": 1366142,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78462,
+      "num": 78462,
+      "word": "长春坠江私家车内有孕妇",
+      "onboard_time": 1735069930,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73916,
       "num": 73916,
       "word": "阴阳师",
@@ -467,14 +475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 41669,
-      "num": 41669,
-      "word": "长春坠江私家车内有孕妇",
-      "onboard_time": 1735069930,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36279,
       "num": 44009,
       "word": "TES对战iG",
@@ -491,8 +491,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31343,
+      "num": 31343,
+      "word": "平安夜快乐",
+      "onboard_time": 1735073650,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27179,
+      "num": 27179,
+      "word": "格陵兰岛自治政府总理回应特朗普",
+      "onboard_time": 1735070651,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26695,
-      "num": 20315,
+      "num": 21780,
       "word": "老师带4个月女儿上课成班里团宠",
       "onboard_time": 1735067473,
       "rank": 49,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18686,
+      "num": 18686,
+      "word": "吉林长春一家三口开车坠江一人为孕妇",
+      "onboard_time": 1735072512,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17091,
       "num": 17091,
       "word": "弦歌不辍薪火相传在这一刻具象化了",
@@ -561,14 +585,6 @@
       "onboard_time": 1735054578,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16704,
-      "num": 24395,
-      "word": "格陵兰岛自治政府总理回应特朗普",
-      "onboard_time": 1735070651,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16506,
@@ -595,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15164,
+      "num": 30640,
+      "word": "多省回复称不存在大规模推山造田",
+      "onboard_time": 1735069572,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14725,
       "num": 297154,
       "word": "川藏青藏公路通车70年",
@@ -603,12 +627,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14695,
-      "num": 15241,
-      "word": "多省回复称不存在大规模推山造田",
-      "onboard_time": 1735069572,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 12595,
+      "num": 16192,
+      "word": "以前特工揭秘如何出售爆炸传呼机",
+      "onboard_time": 1735073050,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11667,
+      "num": 13844,
+      "word": "日本外相岩屋毅将访问中国",
+      "onboard_time": 1735074910,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10579,
@@ -617,14 +649,6 @@
       "onboard_time": 1735058175,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10415,
-      "num": 18094,
-      "word": "吉林长春一家三口开车坠江一人为孕妇",
-      "onboard_time": 1735072512,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9131,
