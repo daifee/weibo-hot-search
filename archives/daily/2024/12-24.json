@@ -1,6 +1,6 @@
 {
   "startTime": 1734971247513,
-  "endTime": 1735017687571,
+  "endTime": 1735018723422,
   "band_list": [
     {
       "raw_hot": 2556810,
@@ -19,6 +19,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1597343,
+      "num": 1597343,
+      "word": "哈尔滨冰雕有血印视频系1月发布",
+      "onboard_time": 1735015099,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1466670,
       "num": 1466670,
       "word": "张继科199元录播课3小时卖了25万元",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1430655,
-      "num": 404699,
+      "num": 453378,
       "word": "刘诗诗 吴奇隆",
       "onboard_time": 1735011858,
       "rank": 10,
@@ -43,16 +51,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1327700,
-      "num": 1327700,
-      "word": "哈尔滨冰雕有血印视频系1月发布",
-      "onboard_time": 1735015099,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 1228514,
+      "num": 240790,
+      "word": "普京谈俄罗斯色情泛滥",
+      "onboard_time": 1735017980,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1194862,
-      "num": 403884,
+      "num": 449224,
       "word": "女子拒绝哺乳期通勤4小时上班被辞",
       "onboard_time": 1735009517,
       "rank": 10,
@@ -243,12 +251,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 459723,
+      "num": 459723,
+      "word": "疑似可可西里网红狼被大货车压死",
+      "onboard_time": 1735017260,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454236,
       "num": 254602,
       "word": "全红婵17岁正是爱美的年纪",
       "onboard_time": 1735006100,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 451465,
+      "num": 451465,
+      "word": "檀健次虞书欣 合作",
+      "onboard_time": 1735015700,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 449246,
+      "num": 449246,
+      "word": "我的微博播报",
+      "onboard_time": 1735018158,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 419026,
@@ -281,14 +313,6 @@
       "onboard_time": 1735007357,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 405948,
-      "num": 405948,
-      "word": "檀健次虞书欣 合作",
-      "onboard_time": 1735015700,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 403520,
@@ -331,6 +355,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 372664,
+      "num": 372664,
+      "word": "A股现4亿天价离婚案",
+      "onboard_time": 1735015279,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 372448,
       "num": 386365,
       "word": "房东用备用钥匙潜入租户家装摄像头",
@@ -345,14 +377,6 @@
       "onboard_time": 1735016241,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 347832,
-      "num": 347832,
-      "word": "A股现4亿天价离婚案",
-      "onboard_time": 1735015279,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 342070,
@@ -499,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245772,
+      "num": 245772,
+      "word": "3女生考研最后一科被反锁酒店",
+      "onboard_time": 1735018699,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235267,
       "num": 235267,
       "word": "丈夫读博妻子带娃7年离婚获3万补偿",
@@ -561,6 +593,14 @@
       "onboard_time": 1735011738,
       "rank": 32,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 216179,
+      "num": 284749,
+      "word": "庆王 该父皇向您跪着",
+      "onboard_time": 1735017019,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 212111,
@@ -643,12 +683,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187836,
+      "num": 187836,
+      "word": "张元英小卡110万韩元",
+      "onboard_time": 1735018218,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187405,
       "num": 187405,
       "word": "电影小小的我终极预告",
       "onboard_time": 1735008738,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186387,
+      "num": 186387,
+      "word": "肯德基涨价疯狂星期四不变",
+      "onboard_time": 1735017980,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 185818,
@@ -731,6 +787,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 168733,
+      "num": 242741,
+      "word": "白鹿 菩提树下站猴都美",
+      "onboard_time": 1735017679,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167762,
       "num": 167762,
       "word": "遭恶犬咬伤男童目前情况基本平稳",
@@ -745,22 +809,6 @@
       "onboard_time": 1735014500,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165367,
-      "num": 284749,
-      "word": "庆王 该父皇向您跪着",
-      "onboard_time": 1735017019,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161179,
-      "num": 161179,
-      "word": "疑似可可西里网红狼被大货车压死",
-      "onboard_time": 1735017260,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160971,
@@ -865,6 +913,14 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141656,
+      "num": 319146,
+      "word": "90后TVB女演员在餐厅洗碗洗厕所",
+      "onboard_time": 1735017260,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 141312,
@@ -1171,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86746,
+      "num": 247117,
+      "word": "女寝皆是修罗场",
+      "onboard_time": 1735017679,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86461,
       "num": 226889,
       "word": "刘晓艳老师叫你起床",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1734956779,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79513,
+      "num": 449578,
+      "word": "男孩被犬咬伤狗主人为逃避责任杀狗",
+      "onboard_time": 1735017859,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78027,
@@ -1307,11 +1379,19 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 64294,
-      "num": 319146,
-      "word": "90后TVB女演员在餐厅洗碗洗厕所",
-      "onboard_time": 1735017260,
-      "rank": 19,
+      "raw_hot": 66249,
+      "num": 306902,
+      "word": "祝绪丹 做演员有被爱的感觉",
+      "onboard_time": 1735015461,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 66168,
+      "num": 243611,
+      "word": "周杰伦ins更新滑雪照",
+      "onboard_time": 1735018699,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1321,6 +1401,14 @@
       "onboard_time": 1734961340,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61175,
+      "num": 244882,
+      "word": "汪苏泷说过年给650发双份红包",
+      "onboard_time": 1735018699,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 60117,
@@ -1345,6 +1433,14 @@
       "onboard_time": 1734962060,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59381,
+      "num": 455476,
+      "word": "四大行均涨超1%续创历史新高",
+      "onboard_time": 1735017140,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 58688,
@@ -1419,20 +1515,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 52546,
+      "num": 242283,
+      "word": "陆柯燃解约律师声明",
+      "onboard_time": 1735018579,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51360,
       "num": 202671,
       "word": "TheShy参加solo选边",
       "onboard_time": 1735006156,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 51134,
-      "num": 306902,
-      "word": "祝绪丹 做演员有被爱的感觉",
-      "onboard_time": 1735015461,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 51133,
@@ -1531,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39276,
-      "num": 405719,
-      "word": "四大行均涨超1%续创历史新高",
-      "onboard_time": 1735017140,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 39108,
       "num": 147204,
       "word": "敖瑞鹏猴emoji用对了",
@@ -1555,6 +1643,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38267,
+      "num": 281956,
+      "word": "兔兔大侠膜拜膜拜",
+      "onboard_time": 1735017618,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 37965,
+      "num": 275434,
+      "word": "误杀3新浪扫楼",
+      "onboard_time": 1735017618,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37589,
       "num": 37589,
       "word": "桐心薇泯",
@@ -1569,14 +1673,6 @@
       "onboard_time": 1734969378,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35763,
-      "num": 281956,
-      "word": "兔兔大侠膜拜膜拜",
-      "onboard_time": 1735017618,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 35478,
@@ -1689,14 +1785,6 @@
       "onboard_time": 1735010777,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25203,
-      "num": 275434,
-      "word": "误杀3新浪扫楼",
-      "onboard_time": 1735017618,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 24950,
