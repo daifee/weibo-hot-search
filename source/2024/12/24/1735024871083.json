@@ -1,0 +1,410 @@
+{
+  "runTime": 1735024871083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580345,
+        "num": 1580345,
+        "word": "张馨予为何捷发声",
+        "onboard_time": 1735020259,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685893,
+        "num": 685893,
+        "word": "碎花裙女孩火了后拒绝直播带货",
+        "onboard_time": 1735021460,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21931,
+        "num": 662942,
+        "word": "文化中国行守护非遗之美",
+        "onboard_time": 1734986831,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 653222,
+        "num": 653222,
+        "word": "疑似可可西里网红狼被大货车压死",
+        "onboard_time": 1735017260,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566472,
+        "num": 566472,
+        "word": "吉林一家三口开车坠江车辆已找到",
+        "onboard_time": 1735019359,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1313154,
+        "num": 522377,
+        "word": "普京谈俄罗斯色情泛滥",
+        "onboard_time": 1735017980,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466003,
+        "num": 466003,
+        "word": "张继科199元录播课3小时卖了25万元",
+        "onboard_time": 1735013119,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444521,
+        "num": 444521,
+        "word": "我的微博播报",
+        "onboard_time": 1735018158,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 333564,
+        "num": 388984,
+        "word": "蒋欣瘦了20斤",
+        "onboard_time": 1735015340,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388359,
+        "num": 388359,
+        "word": "3女生考研最后一科被反锁酒店",
+        "onboard_time": 1735018699,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354699,
+        "num": 354699,
+        "word": "央视曾呼吁不要投喂网红狼",
+        "onboard_time": 1735022238,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328269,
+        "num": 328269,
+        "word": "马嘉祺高会",
+        "onboard_time": 1735022179,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225919,
+        "num": 309815,
+        "word": "90后TVB女演员在餐厅洗碗洗厕所",
+        "onboard_time": 1735017260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294699,
+        "num": 294699,
+        "word": "南京小朋友5米距离看江豚捕鱼",
+        "onboard_time": 1735023859,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23503,
+        "num": 252355,
+        "word": "期末临近孩子因厌学就诊增加",
+        "onboard_time": 1735024218,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213195,
+        "num": 213195,
+        "word": "刘亦菲早年与林志颖合影",
+        "onboard_time": 1735023738,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76220,
+        "num": 212539,
+        "word": "跨年阵容",
+        "onboard_time": 1735023379,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283791,
+        "num": 212354,
+        "word": "女子拒绝哺乳期通勤4小时上班被辞",
+        "onboard_time": 1735009517,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41184,
+        "num": 211431,
+        "word": "大学考的证书含金量还在上升",
+        "onboard_time": 1735022540,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44763,
+        "num": 210605,
+        "word": "为什么好学生总是更难爱自己",
+        "onboard_time": 1735023258,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210028,
+        "num": 210028,
+        "word": "刘诗诗 吴奇隆",
+        "onboard_time": 1735011858,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208167,
+        "num": 208167,
+        "word": "希林娜依高回应拖行小狗",
+        "onboard_time": 1735014801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204496,
+        "num": 204496,
+        "word": "徐开骋风波后综艺首录",
+        "onboard_time": 1735024039,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204405,
+        "num": 204405,
+        "word": "檀健次虞书欣 合作",
+        "onboard_time": 1735015700,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197606,
+        "num": 197606,
+        "word": "考研英语老师刘晓艳纪录片",
+        "onboard_time": 1735023619,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190663,
+        "num": 190663,
+        "word": "王星越丁禹兮李昀锐今年上桌了",
+        "onboard_time": 1735023679,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "明年适当提高退休人员基本养老金",
+        "onboard_time": 1735020618,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140275,
+        "num": 173318,
+        "word": "檀健次内娱男星杂志销量第二",
+        "onboard_time": 1735023018,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173063,
+        "num": 173063,
+        "word": "jellycat平替成上海圣诞节顶流",
+        "onboard_time": 1735011738,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166726,
+        "num": 166726,
+        "word": "游戏玩家网上泄密惊动意国防部",
+        "onboard_time": 1735019479,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163253,
+        "num": 163253,
+        "word": "演员请就位3首录路透",
+        "onboard_time": 1735021218,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144117,
+        "num": 144117,
+        "word": "他的人生被困在了1996年",
+        "onboard_time": 1735016241,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142627,
+        "num": 142627,
+        "word": "平安夜",
+        "onboard_time": 1735007897,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142166,
+        "num": 142166,
+        "word": "骄阳似我吻戏",
+        "onboard_time": 1735019598,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139998,
+        "num": 139998,
+        "word": "南方人洗澡现状",
+        "onboard_time": 1735017140,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139054,
+        "num": 139054,
+        "word": "专家谈年轻人买房该出手时就出手",
+        "onboard_time": 1735019598,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136544,
+        "num": 136544,
+        "word": "2025年要支持扩大国内需求",
+        "onboard_time": 1735021279,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133314,
+        "num": 133314,
+        "word": "瑞幸回应喝出蟑螂事件",
+        "onboard_time": 1735009998,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130250,
+        "num": 130250,
+        "word": "赵丽颖刘亦菲唐嫣最受关注演员",
+        "onboard_time": 1735022238,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125684,
+        "num": 125684,
+        "word": "杨子 演员请就位",
+        "onboard_time": 1735015760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124346,
+        "num": 124346,
+        "word": "白鹿 菩提树下站猴都美",
+        "onboard_time": 1735017679,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124333,
+        "num": 124333,
+        "word": "吴柳芳背后MCN劣迹斑斑",
+        "onboard_time": 1735011738,
+        "rank": 41,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 124025,
+        "num": 124025,
+        "word": "张雨霏躺平不了一点",
+        "onboard_time": 1735024338,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114872,
+        "num": 114872,
+        "word": "时代少年团宠物合照",
+        "onboard_time": 1735022059,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101111,
+        "num": 114639,
+        "word": "张雨霏期待30岁参加洛杉矶奥运会",
+        "onboard_time": 1735024639,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114632,
+        "num": 114632,
+        "word": "白鹿 没吻这么激烈",
+        "onboard_time": 1735010058,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110492,
+        "num": 110492,
+        "word": "志愿军战士含泪讲述长津湖战场",
+        "onboard_time": 1735021398,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96127,
+        "num": 96127,
+        "word": "王曼昱提车",
+        "onboard_time": 1735015219,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95288,
+        "num": 95288,
+        "word": "司机修车被撞身亡多人作伪证被拘",
+        "onboard_time": 1735024759,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91778,
+        "num": 91778,
+        "word": "西安警方通报男童遭恶犬咬伤",
+        "onboard_time": 1735013480,
+        "rank": 49,
+        "category": "辟谣/通报"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
