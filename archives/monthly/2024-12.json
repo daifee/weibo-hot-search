@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735039125773,
+  "endTime": 1735040147772,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3643,6 +3643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1120608,
+      "num": 1179297,
+      "word": "优酷过审鬼才",
+      "onboard_time": 1735037479,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1119100,
       "num": 1115605,
       "word": "欧阳妮妮挺9月孕肚出门",
@@ -5593,14 +5601,6 @@
       "onboard_time": 1733802798,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 899708,
-      "num": 899708,
-      "word": "优酷过审鬼才",
-      "onboard_time": 1735037479,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 899444,
@@ -10731,6 +10731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589667,
+      "num": 561785,
+      "word": "蒋欣回应蒋欣在哪里",
+      "onboard_time": 1735035799,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 589596,
       "num": 589596,
       "word": "卖菜老人烧炭取暖身亡知情人发声",
@@ -12971,14 +12979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 507553,
-      "num": 561785,
-      "word": "蒋欣回应蒋欣在哪里",
-      "onboard_time": 1735035799,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 507507,
       "num": 507507,
       "word": "迪丽热巴小小的脸上全是五官",
@@ -13705,6 +13705,14 @@
       "onboard_time": 1733947812,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482411,
+      "num": 482411,
+      "word": "张颂文回应新剧演技争议",
+      "onboard_time": 1735036579,
+      "rank": 15,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 482256,
@@ -14931,6 +14939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450314,
+      "num": 414379,
+      "word": "景区回应李现在虎跳峡举国旗",
+      "onboard_time": 1735036819,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449928,
       "num": 342039,
       "word": "封神第二部开启西岐保卫战",
@@ -14993,6 +15009,14 @@
       "onboard_time": 1734874699,
       "rank": 16,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 448928,
+      "num": 509398,
+      "word": "官方通报网红狼被大货车不慎压死",
+      "onboard_time": 1735036518,
+      "rank": 8,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 448177,
@@ -15433,14 +15457,6 @@
       "onboard_time": 1733280737,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 436656,
-      "num": 413966,
-      "word": "张颂文回应新剧演技争议",
-      "onboard_time": 1735036579,
-      "rank": 15,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 436290,
@@ -17065,14 +17081,6 @@
       "onboard_time": 1734422060,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 399037,
-      "num": 509398,
-      "word": "官方通报网红狼被大货车不慎压死",
-      "onboard_time": 1735036518,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 398913,
@@ -18752,6 +18760,14 @@
       "word": "大奉打更人宣发",
       "onboard_time": 1734660556,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 359779,
+      "num": 287899,
+      "word": "猎罪2一个案子集齐贪嗔痴",
+      "onboard_time": 1735038859,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -22955,6 +22971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287559,
+      "num": 287559,
+      "word": "徐冬冬大大方方的医美",
+      "onboard_time": 1735038558,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287390,
       "num": 287390,
       "word": "这些食物是结节的催化剂",
@@ -23777,14 +23801,6 @@
       "onboard_time": 1734831857,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276327,
-      "num": 276327,
-      "word": "景区回应李现在虎跳峡举国旗",
-      "onboard_time": 1735036819,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 276293,
@@ -25987,6 +26003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247380,
+      "num": 247380,
+      "word": "动物医院医生谈希林娜依高拖行小狗",
+      "onboard_time": 1735037838,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247292,
       "num": 214687,
       "word": "王鸥用大侦探金条给大家做手串",
@@ -26643,6 +26667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241399,
+      "num": 241399,
+      "word": "苹果",
+      "onboard_time": 1735036698,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241395,
       "num": 241395,
       "word": "卡琳娜 2024年最爱cos之一",
@@ -26755,14 +26787,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 240744,
-      "num": 240744,
-      "word": "苹果",
-      "onboard_time": 1735036698,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240640,
       "num": 240640,
       "word": "丁禹兮璀璨如星",
@@ -26792,6 +26816,14 @@
       "word": "洗浴中心多人出现不适晕倒送医",
       "onboard_time": 1733747721,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240320,
+      "num": 240320,
+      "word": "长津湖",
+      "onboard_time": 1735037719,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -27257,6 +27289,14 @@
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235113,
+      "num": 235113,
+      "word": "圣诞树",
+      "onboard_time": 1735036759,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 234942,
@@ -30297,14 +30337,6 @@
       "onboard_time": 1733189898,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 212105,
-      "num": 212105,
-      "word": "动物医院医生谈希林娜依高拖行小狗",
-      "onboard_time": 1735037838,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 212087,
@@ -33441,6 +33473,14 @@
       "onboard_time": 1734157577,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 198090,
+      "num": 213076,
+      "word": "王楚钦说巴黎没有达到预期",
+      "onboard_time": 1735038438,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 198086,
@@ -42251,14 +42291,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 165639,
-      "num": 165639,
-      "word": "长津湖",
-      "onboard_time": 1735037719,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165613,
       "num": 165613,
       "word": "如鸢 徐庶",
@@ -42841,6 +42873,14 @@
       "onboard_time": 1733280918,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163635,
+      "num": 163635,
+      "word": "田曦薇李一桐你们根本没喝中药",
+      "onboard_time": 1735039038,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 163570,
@@ -48932,7 +48972,7 @@
     },
     {
       "raw_hot": 143573,
-      "num": 143573,
+      "num": 288298,
       "word": "投喂野生动物造成严重后果或担刑责",
       "onboard_time": 1735037538,
       "rank": 36,
@@ -50161,14 +50201,6 @@
       "onboard_time": 1735036339,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139817,
-      "num": 213076,
-      "word": "王楚钦说巴黎没有达到预期",
-      "onboard_time": 1735038438,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 139807,
@@ -52321,14 +52353,6 @@
       "onboard_time": 1733897059,
       "rank": 41,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 132471,
-      "num": 132471,
-      "word": "圣诞树",
-      "onboard_time": 1735036759,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 132456,
@@ -55145,6 +55169,14 @@
       "onboard_time": 1734159618,
       "rank": 45,
       "category": "演出,教育"
+    },
+    {
+      "raw_hot": 123082,
+      "num": 123082,
+      "word": "圣诞美甲",
+      "onboard_time": 1735038379,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 123073,
@@ -58707,14 +58739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109404,
-      "num": 109404,
-      "word": "田曦薇李一桐你们根本没喝中药",
-      "onboard_time": 1735039038,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109328,
       "num": 229849,
       "word": "樊振东赛后抿嘴重现21年前的他",
@@ -58913,6 +58937,14 @@
       "onboard_time": 1733880439,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108536,
+      "num": 108536,
+      "word": "李一桐西藏到底有谁在啊",
+      "onboard_time": 1735040058,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 108500,
@@ -59371,6 +59403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107156,
+      "num": 107156,
+      "word": "肖战郭靖武训花絮",
+      "onboard_time": 1735039818,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107136,
       "num": 919329,
       "word": "2024这些精美文物成了网红爆款",
@@ -59521,6 +59561,14 @@
       "onboard_time": 1733924239,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 106523,
+      "num": 106523,
+      "word": "陈少熙下班",
+      "onboard_time": 1735039938,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 106389,
@@ -60177,6 +60225,14 @@
       "onboard_time": 1733761997,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103322,
+      "num": 103322,
+      "word": "人不一定要靠学历支撑以后的生活",
+      "onboard_time": 1735040118,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103273,
@@ -63883,6 +63939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 84875,
+      "num": 288337,
+      "word": "为什么冬天是减肥黄金期",
+      "onboard_time": 1735038019,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 84826,
       "num": 84826,
       "word": "小鸟穿花衣原来是真的",
@@ -64227,14 +64291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83309,
-      "num": 252499,
-      "word": "徐冬冬大大方方的医美",
-      "onboard_time": 1735038558,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83297,
       "num": 132850,
       "word": "神秘的东方力量都是老祖宗严选",
@@ -64457,14 +64513,6 @@
       "onboard_time": 1734279737,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 81971,
-      "num": 246341,
-      "word": "猎罪2一个案子集齐贪嗔痴",
-      "onboard_time": 1735038859,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 81924,
@@ -65513,6 +65561,14 @@
       "onboard_time": 1735027278,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77158,
+      "num": 213087,
+      "word": "一诺的23岁寻梦密钥",
+      "onboard_time": 1735039818,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 77062,
@@ -68539,6 +68595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62887,
+      "num": 181016,
+      "word": "鞠婧祎时装男士单人封面",
+      "onboard_time": 1735038798,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 62854,
       "num": 275364,
       "word": "特朗普称将与普京和泽连斯基对话",
@@ -68793,6 +68857,14 @@
       "onboard_time": 1734670881,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 61609,
+      "num": 300715,
+      "word": "购物时摸一下会增加购买欲",
+      "onboard_time": 1735038259,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61590,
@@ -70955,14 +71027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53240,
-      "num": 300715,
-      "word": "购物时摸一下会增加购买欲",
-      "onboard_time": 1735038259,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53201,
       "num": 1618780,
       "word": "万千气象看吉林",
@@ -72841,6 +72905,14 @@
       "onboard_time": 1734575539,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46801,
+      "num": 241907,
+      "word": "网剧冬至好甜",
+      "onboard_time": 1735039998,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 46800,
@@ -76809,14 +76881,6 @@
       "onboard_time": 1733204121,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35345,
-      "num": 288337,
-      "word": "为什么冬天是减肥黄金期",
-      "onboard_time": 1735038019,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 35269,
@@ -83825,6 +83889,14 @@
       "onboard_time": 1734550331,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15511,
+      "num": 241403,
+      "word": "蒋欣说小巷人家群里范丞丞话最多",
+      "onboard_time": 1735039998,
+      "rank": 19,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 15502,
