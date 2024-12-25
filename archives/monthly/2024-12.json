@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735154256239,
+  "endTime": 1735155314087,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -86947,6 +86947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19396,
+      "num": 19396,
+      "word": "年度照片",
+      "onboard_time": 1735153931,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19297,
       "num": 27817,
       "word": "紧急戒严令适用于哪些情况",
@@ -87473,14 +87481,6 @@
       "onboard_time": 1733250852,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17876,
-      "num": 17876,
-      "word": "年度照片",
-      "onboard_time": 1735153931,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 17867,
@@ -88867,6 +88867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14462,
+      "num": 84418,
+      "word": "隔屏感受到了在建世界最高桥的震撼",
+      "onboard_time": 1735138400,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14450,
       "num": 20182,
       "word": "广东宣布入秋",
@@ -89281,14 +89289,6 @@
       "onboard_time": 1733688971,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13381,
-      "num": 84418,
-      "word": "隔屏感受到了在建世界最高桥的震撼",
-      "onboard_time": 1735138400,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13371,
