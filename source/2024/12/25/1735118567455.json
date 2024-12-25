@@ -1,0 +1,410 @@
+{
+  "runTime": 1735118567455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2321277,
+        "num": 2321277,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1158621,
+        "num": 1158621,
+        "word": "山姆代购每月返现可高达万元",
+        "onboard_time": 1735115058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60356,
+        "num": 803416,
+        "word": "我国制造业规模连续14年世界第一",
+        "onboard_time": 1735101499,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 721030,
+        "num": 721030,
+        "word": "只有安宥真穿了黑裙",
+        "onboard_time": 1735112778,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 668137,
+        "num": 668137,
+        "word": "外媒公布哈萨克斯坦坠机事故中乘客国籍",
+        "onboard_time": 1735116679,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554223,
+        "num": 554223,
+        "word": "新华社评2024年中国十佳运动员",
+        "onboard_time": 1735113858,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 701272,
+        "num": 550039,
+        "word": "果郡王回复网友不用意难平了",
+        "onboard_time": 1735112058,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541282,
+        "num": 541282,
+        "word": "向佐马面裙被曝抄袭比原版贵300",
+        "onboard_time": 1735116318,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489633,
+        "num": 489633,
+        "word": "一架客机在哈萨克斯坦坠毁",
+        "onboard_time": 1735111519,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 63850,
+        "num": 474423,
+        "word": "28人在阿克套客机失事中生还",
+        "onboard_time": 1735117998,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 472136,
+        "num": 472136,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1735114758,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 439543,
+        "num": 439543,
+        "word": "男子在塔斯汀汉堡里吃出生肉",
+        "onboard_time": 1735114158,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363005,
+        "num": 363005,
+        "word": "火箭少女将合体",
+        "onboard_time": 1735114397,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351297,
+        "num": 351297,
+        "word": "失事客机上没有中国乘客",
+        "onboard_time": 1735116378,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65336,
+        "num": 343149,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 341133,
+        "num": 341133,
+        "word": "毛豆替刘亦菲感到遗憾",
+        "onboard_time": 1735112838,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340968,
+        "num": 340968,
+        "word": "宜家自助餐被吐槽太坑",
+        "onboard_time": 1735116978,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134085,
+        "num": 282742,
+        "word": "沈翊 疯得发正",
+        "onboard_time": 1735117218,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262873,
+        "num": 262873,
+        "word": "客机坠毁哈萨克斯坦现场腾起火球",
+        "onboard_time": 1735116197,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14010,
+        "num": 254637,
+        "word": "外国网友吃饭偶遇王嘉尔",
+        "onboard_time": 1735117938,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466617,
+        "num": 254557,
+        "word": "60岁高龄孕妇剖宫产下男婴",
+        "onboard_time": 1735117159,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381624,
+        "num": 254161,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253393,
+        "num": 253393,
+        "word": "李现悬崖举国旗照爆火景区紧急提醒",
+        "onboard_time": 1735116259,
+        "rank": 22,
+        "category": "旅游,艺人"
+      },
+      {
+        "raw_hot": 310726,
+        "num": 251522,
+        "word": "黄子韬账号带货月销售额近2500万元",
+        "onboard_time": 1735117099,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133326,
+        "num": 247786,
+        "word": "逆水寒",
+        "onboard_time": 1735117637,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245716,
+        "num": 245716,
+        "word": "蛇年假期重合度非常高",
+        "onboard_time": 1735107860,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276681,
+        "num": 244665,
+        "word": "刘浩存林一座位",
+        "onboard_time": 1735112718,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268472,
+        "num": 244465,
+        "word": "娇妻文案 珍珠奶茶老师",
+        "onboard_time": 1735116679,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 255603,
+        "num": 242788,
+        "word": "孟子义 姐姐这腰真受不了",
+        "onboard_time": 1735105698,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32757,
+        "num": 241600,
+        "word": "太好了是原生鸿蒙",
+        "onboard_time": 1735117759,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240799,
+        "num": 240799,
+        "word": "王鹤棣剧宣太大方了",
+        "onboard_time": 1735116498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226421,
+        "num": 226421,
+        "word": "日本将对中国游客首设十年多次签证",
+        "onboard_time": 1735118058,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 210834,
+        "num": 210834,
+        "word": "突然降温女生手指被冻成白色",
+        "onboard_time": 1735105158,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204379,
+        "num": 204379,
+        "word": "魏如萱 我没有",
+        "onboard_time": 1735114099,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189192,
+        "num": 189192,
+        "word": "乌合麒麟为清明上河图密码作画",
+        "onboard_time": 1735115959,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51556,
+        "num": 188500,
+        "word": "刘亦菲朱珠同框合影",
+        "onboard_time": 1735111519,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187809,
+        "num": 187809,
+        "word": "李昀锐接机现场人气",
+        "onboard_time": 1735116559,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186063,
+        "num": 186063,
+        "word": "波司登700元3克绒羽绒裤已下架",
+        "onboard_time": 1735117637,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93405,
+        "num": 175454,
+        "word": "为什么人在密闭空间里会变臭",
+        "onboard_time": 1735117280,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136045,
+        "num": 174510,
+        "word": "吉林火锅的肉山是真肉山",
+        "onboard_time": 1735118058,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 173792,
+        "num": 173792,
+        "word": "虞书欣绮梦马面裙",
+        "onboard_time": 1735117818,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173760,
+        "num": 173760,
+        "word": "每天少睡一两个小时也是熬夜",
+        "onboard_time": 1735114277,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173282,
+        "num": 173282,
+        "word": "第一批买护眼灯的用户已经近视了",
+        "onboard_time": 1735113138,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169477,
+        "num": 169477,
+        "word": "aespa四公主",
+        "onboard_time": 1735108218,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164444,
+        "num": 164444,
+        "word": "SBS红毯直播",
+        "onboard_time": 1735103119,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151520,
+        "num": 151520,
+        "word": "失事客机有67名乘客5名机组人员",
+        "onboard_time": 1735114099,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93918,
+        "num": 151466,
+        "word": "王楚钦在春节大年初二就开始打比赛",
+        "onboard_time": 1735117759,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "周深今年最大的收获是歌迷",
+        "onboard_time": 1735118238,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147088,
+        "num": 147088,
+        "word": "美国支出法案删除所有涉华条款",
+        "onboard_time": 1735117637,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146565,
+        "num": 146565,
+        "word": "成毅的演技实力",
+        "onboard_time": 1735117518,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}
