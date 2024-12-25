@@ -1,0 +1,410 @@
+{
+  "runTime": 1735104095091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266749,
+        "num": 1266749,
+        "word": "8岁男孩用眼过度总把数字镜像反写",
+        "onboard_time": 1735099878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071266,
+        "num": 1071266,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68262,
+        "num": 771776,
+        "word": "2024那些一眼惊艳的国风浪漫",
+        "onboard_time": 1735101681,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 560629,
+        "num": 560629,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509769,
+        "num": 509769,
+        "word": "前TVB艺人被香港警方通缉",
+        "onboard_time": 1735099999,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427740,
+        "num": 427740,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 5,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 487031,
+        "num": 423630,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472025,
+        "num": 420419,
+        "word": "猎罪2李媛 畸形的虐恋太危险",
+        "onboard_time": 1735098739,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393703,
+        "num": 393703,
+        "word": "小米官宣与蔚来合作",
+        "onboard_time": 1735096038,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20348,
+        "num": 390252,
+        "word": "随意投喂野生动物需要担责吗",
+        "onboard_time": 1735103418,
+        "rank": 9,
+        "category": "舆论监督,议题讨论"
+      },
+      {
+        "raw_hot": 792813,
+        "num": 372635,
+        "word": "小红薯娇妻文案",
+        "onboard_time": 1735098258,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434724,
+        "num": 343895,
+        "word": "女子反复流产原因出在男方",
+        "onboard_time": 1735097777,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 428000,
+        "num": 328359,
+        "word": "竹林四侠Cha",
+        "onboard_time": 1735100960,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326497,
+        "num": 326497,
+        "word": "攒了一年的惊艳瞬间",
+        "onboard_time": 1735100659,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 85698,
+        "num": 303214,
+        "word": "起底劣迹网红天佑",
+        "onboard_time": 1735103179,
+        "rank": 14,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 330044,
+        "num": 300879,
+        "word": "时代峰峻将30%苹果税纳入高会成本",
+        "onboard_time": 1735092797,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290164,
+        "num": 290164,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286541,
+        "num": 286541,
+        "word": "32岁中国籍男游客在日本滑雪场遇难",
+        "onboard_time": 1735095018,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41778,
+        "num": 235195,
+        "word": "2024大银幕最难忘女演员",
+        "onboard_time": 1735103778,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231309,
+        "num": 231309,
+        "word": "被家暴16次女子最怕孩子问身上伤口",
+        "onboard_time": 1735101140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314606,
+        "num": 227846,
+        "word": "虞书欣林一共创微博",
+        "onboard_time": 1735100840,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310252,
+        "num": 224599,
+        "word": "SBS红毯直播",
+        "onboard_time": 1735103119,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 258917,
+        "num": 220869,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214781,
+        "num": 214781,
+        "word": "王一博新歌",
+        "onboard_time": 1735103418,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129875,
+        "num": 204974,
+        "word": "孙颖莎受邀2025乒乓球亚洲杯",
+        "onboard_time": 1735103179,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159277,
+        "num": 203719,
+        "word": "边伯贤一款精神状态很好的爱豆",
+        "onboard_time": 1735103058,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203039,
+        "num": 203039,
+        "word": "朴彩英分英",
+        "onboard_time": 1735094357,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191331,
+        "num": 191331,
+        "word": "24岁小伙上班6天误触辐射源即将截肢",
+        "onboard_time": 1735093576,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173149,
+        "num": 190090,
+        "word": "张元英高定封面",
+        "onboard_time": 1735101199,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139157,
+        "num": 189868,
+        "word": "柯南全国首场0点樱花雨",
+        "onboard_time": 1735103599,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199490,
+        "num": 189857,
+        "word": "因为两个孩子给全村修了路灯",
+        "onboard_time": 1735103119,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189791,
+        "num": 189791,
+        "word": "北电同学谈丁程鑫",
+        "onboard_time": 1735098139,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180392,
+        "num": 188734,
+        "word": "宴遇永安杀青",
+        "onboard_time": 1735102758,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187720,
+        "num": 187720,
+        "word": "哈尔滨偶遇郭晶晶一家",
+        "onboard_time": 1735096698,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184757,
+        "num": 184757,
+        "word": "平安夜票房",
+        "onboard_time": 1735103239,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166540,
+        "num": 166540,
+        "word": "小鬼当家",
+        "onboard_time": 1735097118,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158364,
+        "num": 158364,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155082,
+        "num": 155082,
+        "word": "家暴男开打前先抢妻子手机",
+        "onboard_time": 1735099819,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151898,
+        "num": 151898,
+        "word": "宋雨琦今年和跑男家族一起跨年",
+        "onboard_time": 1735103480,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "光与夜之恋",
+        "onboard_time": 1735102819,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25782,
+        "num": 141331,
+        "word": "国产车为什么更抗造",
+        "onboard_time": 1735103838,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140393,
+        "num": 140393,
+        "word": "男子不运动爱喝可乐精子DNA碎片化98%",
+        "onboard_time": 1735099278,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135893,
+        "num": 135893,
+        "word": "日本外相称不能重蹈错误国策",
+        "onboard_time": 1735093998,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121909,
+        "num": 121909,
+        "word": "iPhone18零边框目标或落空",
+        "onboard_time": 1735095078,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117625,
+        "num": 117625,
+        "word": "第五人格",
+        "onboard_time": 1735100779,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117114,
+        "num": 117114,
+        "word": "2025处女座好运爆表",
+        "onboard_time": 1735102578,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116019,
+        "num": 116019,
+        "word": "工藤新一 又是第一",
+        "onboard_time": 1735100539,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108998,
+        "num": 108998,
+        "word": "被2024惊艳了一眼又一眼",
+        "onboard_time": 1735092677,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 102220,
+        "num": 102220,
+        "word": "在香港花400万买了15平米的家",
+        "onboard_time": 1735087818,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 95990,
+        "num": 102161,
+        "word": "魔卡少女樱 月城雪兔",
+        "onboard_time": 1735100539,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}

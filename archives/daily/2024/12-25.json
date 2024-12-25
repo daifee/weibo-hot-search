@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735101665482,
+  "endTime": 1735104095091,
   "band_list": [
     {
       "raw_hot": 1620539,
@@ -33,6 +33,22 @@
       "onboard_time": 1735090218,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1266749,
+      "num": 1266749,
+      "word": "8岁男孩用眼过度总把数字镜像反写",
+      "onboard_time": 1735099878,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1071266,
+      "num": 1071266,
+      "word": "张馨予 不要小看我的网速",
+      "onboard_time": 1735101740,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065561,
@@ -75,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 792813,
+      "num": 392471,
+      "word": "小红薯娇妻文案",
+      "onboard_time": 1735098258,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 749375,
       "num": 749375,
       "word": "张颂文自爆曾因长相被剧组打压",
       "onboard_time": 1735085357,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 747086,
-      "num": 1119533,
-      "word": "8岁男孩用眼过度总把数字镜像反写",
-      "onboard_time": 1735099878,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728606,
@@ -139,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 597734,
-      "num": 392471,
-      "word": "小红薯娇妻文案",
-      "onboard_time": 1735098258,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 572752,
       "num": 572752,
       "word": "时代峰峻将30%苹果税纳入高会成本",
@@ -185,6 +193,14 @@
       "onboard_time": 1735095018,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 428000,
+      "num": 328359,
+      "word": "竹林四侠Cha",
+      "onboard_time": 1735100960,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 422787,
@@ -291,6 +307,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 326497,
+      "num": 326497,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 326282,
       "num": 297621,
       "word": "圣诞树",
@@ -321,6 +345,14 @@
       "onboard_time": 1735055418,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 310252,
+      "num": 224599,
+      "word": "SBS红毯直播",
+      "onboard_time": 1735103119,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 309507,
@@ -459,12 +491,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 228449,
-      "num": 228449,
-      "word": "攒了一年的惊艳瞬间",
-      "onboard_time": 1735100659,
-      "rank": 39,
-      "category": "正能量"
+      "raw_hot": 231309,
+      "num": 332702,
+      "word": "被家暴16次女子最怕孩子问身上伤口",
+      "onboard_time": 1735101140,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223508,
@@ -483,20 +515,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 218707,
-      "num": 218707,
-      "word": "竹林四侠Cha",
-      "onboard_time": 1735100960,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216702,
       "num": 216702,
       "word": "男子不运动爱喝可乐精子DNA碎片化98%",
       "onboard_time": 1735099278,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214781,
+      "num": 214781,
+      "word": "王一博新歌",
+      "onboard_time": 1735103418,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 213854,
@@ -555,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199490,
+      "num": 189857,
+      "word": "因为两个孩子给全村修了路灯",
+      "onboard_time": 1735103119,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196910,
       "num": 196910,
       "word": "家暴男开打前先抢妻子手机",
@@ -595,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184757,
+      "num": 184757,
+      "word": "平安夜票房",
+      "onboard_time": 1735103239,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183967,
       "num": 183967,
       "word": "柯南迷宫的十字路口上海首映礼",
@@ -617,6 +665,14 @@
       "onboard_time": 1735090457,
       "rank": 32,
       "category": "科学科普,幽默"
+    },
+    {
+      "raw_hot": 180392,
+      "num": 188734,
+      "word": "宴遇永安杀青",
+      "onboard_time": 1735102758,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175586,
@@ -699,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159277,
+      "num": 203719,
+      "word": "边伯贤一款精神状态很好的爱豆",
+      "onboard_time": 1735103058,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159232,
       "num": 159232,
       "word": "腾讯娱乐年度盛典",
@@ -779,12 +843,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151898,
+      "num": 151898,
+      "word": "宋雨琦今年和跑男家族一起跨年",
+      "onboard_time": 1735103480,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151812,
       "num": 244316,
       "word": "新能源车老被拒保的真实原因",
       "onboard_time": 1735096638,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147222,
+      "num": 147222,
+      "word": "光与夜之恋",
+      "onboard_time": 1735102819,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 146759,
@@ -819,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139157,
+      "num": 189868,
+      "word": "柯南全国首场0点樱花雨",
+      "onboard_time": 1735103599,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "韩国最该申遗的是理发",
@@ -849,6 +937,14 @@
       "onboard_time": 1735049900,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129875,
+      "num": 204974,
+      "word": "孙颖莎受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735103179,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129084,
@@ -945,6 +1041,14 @@
       "onboard_time": 1735085718,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117114,
+      "num": 117114,
+      "word": "2025处女座好运爆表",
+      "onboard_time": 1735102578,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 114172,
@@ -1139,6 +1243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85698,
+      "num": 303214,
+      "word": "起底劣迹网红天佑",
+      "onboard_time": 1735103179,
+      "rank": 14,
+      "category": "网红,舆论监督"
+    },
+    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "当网红狼死在车轮下你还觉得好笑吗",
@@ -1251,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68262,
+      "num": 771776,
+      "word": "2024那些一眼惊艳的国风浪漫",
+      "onboard_time": 1735101681,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 67883,
       "num": 70832,
       "word": "孩子随口一句话男子把家砸烂",
@@ -1305,14 +1425,6 @@
       "onboard_time": 1735054639,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 57925,
-      "num": 332702,
-      "word": "被家暴16次女子最怕孩子问身上伤口",
-      "onboard_time": 1735101140,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57015,
@@ -1427,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41778,
+      "num": 235195,
+      "word": "2024大银幕最难忘女演员",
+      "onboard_time": 1735103778,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39193,
       "num": 39193,
       "word": "外交部发布海外旅行安全锦囊",
@@ -1465,6 +1585,14 @@
       "onboard_time": 1735094658,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 25782,
+      "num": 141331,
+      "word": "国产车为什么更抗造",
+      "onboard_time": 1735103838,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 25723,
@@ -1529,6 +1657,14 @@
       "onboard_time": 1735064951,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20348,
+      "num": 390252,
+      "word": "随意投喂野生动物需要担责吗",
+      "onboard_time": 1735103418,
+      "rank": 9,
+      "category": "舆论监督,议题讨论"
     },
     {
       "raw_hot": 20205,
