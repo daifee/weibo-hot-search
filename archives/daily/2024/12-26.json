@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735158969899,
+  "endTime": 1735161615230,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72039,
+      "num": 72039,
+      "word": "张馨予把老公名字写进公司",
+      "onboard_time": 1735157111,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "柳智敏好辣",
@@ -441,6 +449,14 @@
       "onboard_time": 1735148953,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42323,
+      "num": 42323,
+      "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
+      "onboard_time": 1735156030,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 41975,
@@ -507,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28454,
-      "num": 35965,
-      "word": "张馨予把老公名字写进公司",
-      "onboard_time": 1735157111,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 28167,
       "num": 28167,
       "word": "汪苏泷 错峰睡觉夜游神",
@@ -539,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20134,
-      "num": 21030,
-      "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
-      "onboard_time": 1735156030,
-      "rank": 25,
-      "category": "海外新闻"
+      "raw_hot": 22008,
+      "num": 36963,
+      "word": "上万农村老人被32个骗子利用洗钱",
+      "onboard_time": 1735158071,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19396,
@@ -555,7 +563,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 15304,
+      "raw_hot": 15780,
       "num": 15825,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1735157290,
@@ -563,15 +571,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15137,
-      "num": 15811,
-      "word": "上万农村老人被32个骗子利用洗钱",
-      "onboard_time": 1735158071,
+      "raw_hot": 15770,
+      "num": 15770,
+      "word": "阿姨用鸡毛复刻凤冠超惊艳",
+      "onboard_time": 1735157831,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "正能量"
     },
     {
-      "raw_hot": 14462,
+      "raw_hot": 14569,
       "num": 84418,
       "word": "隔屏感受到了在建世界最高桥的震撼",
       "onboard_time": 1735138400,
@@ -579,12 +587,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12621,
-      "num": 14521,
-      "word": "阿姨用鸡毛复刻凤冠超惊艳",
-      "onboard_time": 1735157831,
+      "raw_hot": 14232,
+      "num": 14232,
+      "word": "中日高级别人文交流磋商达成10项共识",
+      "onboard_time": 1735160351,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13638,
+      "num": 13638,
+      "word": "哈萨克斯坦坠毁客机挂出7700紧急代码",
+      "onboard_time": 1735160291,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12557,
+      "num": 12557,
+      "word": "大雪人算是让尔滨玩明白了",
+      "onboard_time": 1735159692,
       "rank": 49,
-      "category": "正能量"
+      "category": "旅游"
     },
     {
       "raw_hot": 12049,

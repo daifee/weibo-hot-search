@@ -1,0 +1,410 @@
+{
+  "runTime": 1735161615230,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108380,
+        "num": 125691,
+        "word": "女子喝陌生人的水昏迷被拐",
+        "onboard_time": 1735147513,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72039,
+        "num": 72039,
+        "word": "张馨予把老公名字写进公司",
+        "onboard_time": 1735157111,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14569,
+        "num": 71919,
+        "word": "隔屏感受到了在建世界最高桥的震撼",
+        "onboard_time": 1735138400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71893,
+        "num": 71893,
+        "word": "失事客机坠毁前面临强烈的GPS干扰",
+        "onboard_time": 1735144575,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46870,
+        "num": 46870,
+        "word": "黄子韬一天涨粉500万",
+        "onboard_time": 1735127838,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46638,
+        "num": 46638,
+        "word": "家暴16次案男子当庭否认施暴",
+        "onboard_time": 1735142957,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42323,
+        "num": 42323,
+        "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
+        "onboard_time": 1735156030,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42298,
+        "num": 42298,
+        "word": "向佐 为什么女生穿男装可以",
+        "onboard_time": 1735128499,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39811,
+        "num": 39811,
+        "word": "白头鹰被正式指定为美国国鸟",
+        "onboard_time": 1735155792,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22008,
+        "num": 36963,
+        "word": "上万农村老人被32个骗子利用洗钱",
+        "onboard_time": 1735158071,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93882,
+        "num": 36752,
+        "word": "坠机事故生还人数升至32人",
+        "onboard_time": 1735137320,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67986,
+        "num": 36736,
+        "word": "一农民卖羊肉赚180元收到10万罚单",
+        "onboard_time": 1735142718,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36260,
+        "num": 36260,
+        "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
+        "onboard_time": 1735138999,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34732,
+        "num": 34732,
+        "word": "女子婚礼前一天被拒婚假遭公司辞退",
+        "onboard_time": 1735135459,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32923,
+        "num": 32923,
+        "word": "你晚上一般几点睡觉",
+        "onboard_time": 1735141998,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30910,
+        "num": 30910,
+        "word": "手脚冰凉是身体的自我保护",
+        "onboard_time": 1735135280,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30439,
+        "num": 30439,
+        "word": "刘亦菲全榜第一",
+        "onboard_time": 1735136420,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24905,
+        "num": 24905,
+        "word": "实拍哈萨克斯坦坠毁客机幸存者画面",
+        "onboard_time": 1735143796,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23893,
+        "num": 24753,
+        "word": "猎罪图鉴3",
+        "onboard_time": 1735125677,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23769,
+        "num": 24477,
+        "word": "肖战版郭靖是如何练成的",
+        "onboard_time": 1735127898,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32667,
+        "num": 24365,
+        "word": "月子会所回应60岁孕妇产下男婴",
+        "onboard_time": 1735148953,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27664,
+        "num": 24151,
+        "word": "男子从情人车中摔出身亡妻子索赔60万",
+        "onboard_time": 1735129819,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23942,
+        "num": 23942,
+        "word": "哈总统下令成立委员会调查坠机事故",
+        "onboard_time": 1735120338,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21966,
+        "num": 21966,
+        "word": "张柏芝说APT谐音是啊柏芝",
+        "onboard_time": 1735139359,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21732,
+        "num": 21732,
+        "word": "手脚冰凉是身体哪里出了问题",
+        "onboard_time": 1735140138,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21167,
+        "num": 21167,
+        "word": "有38人在客机失事中丧生",
+        "onboard_time": 1735143855,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20142,
+        "num": 20142,
+        "word": "这支爱意满满的视频看得心软软",
+        "onboard_time": 1735143737,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19878,
+        "num": 19878,
+        "word": "王子奇新助理开车溜私生",
+        "onboard_time": 1735141277,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19016,
+        "num": 19016,
+        "word": "钱天一国家队十年发博",
+        "onboard_time": 1735142297,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18613,
+        "num": 18613,
+        "word": "权志龙红色高跟鞋",
+        "onboard_time": 1735135399,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18289,
+        "num": 18289,
+        "word": "我国青少年抑郁症患病率达15%是谣言",
+        "onboard_time": 1735139419,
+        "rank": 30,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 18196,
+        "num": 18196,
+        "word": "女子公共场合遭丈夫泼砂锅",
+        "onboard_time": 1735134439,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17994,
+        "num": 17994,
+        "word": "张馨予名下公司叫捷捷高",
+        "onboard_time": 1735129399,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17832,
+        "num": 17832,
+        "word": "韩安冉说网红圈太乱了",
+        "onboard_time": 1735139958,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17680,
+        "num": 17680,
+        "word": "女子探亲途中和3岁儿子双双被拐",
+        "onboard_time": 1735138459,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16981,
+        "num": 16981,
+        "word": "刘亦菲中学班级合照",
+        "onboard_time": 1735139060,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16214,
+        "num": 16214,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16044,
+        "num": 16044,
+        "word": "撒贝宁给何炅发信息",
+        "onboard_time": 1735133538,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15780,
+        "num": 15780,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1735157290,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15770,
+        "num": 15770,
+        "word": "阿姨用鸡毛复刻凤冠超惊艳",
+        "onboard_time": 1735157831,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14992,
+        "num": 14992,
+        "word": "猎罪图鉴2大结局",
+        "onboard_time": 1735121778,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14445,
+        "num": 14445,
+        "word": "员工多歇一天婚假被辞退获赔3.6万",
+        "onboard_time": 1735148713,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14232,
+        "num": 14232,
+        "word": "中日高级别人文交流磋商达成10项共识",
+        "onboard_time": 1735160351,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13804,
+        "num": 13804,
+        "word": "塔斯汀回应汉堡里吃出生肉",
+        "onboard_time": 1735134018,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13638,
+        "num": 13638,
+        "word": "哈萨克斯坦坠毁客机挂出7700紧急代码",
+        "onboard_time": 1735160291,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13099,
+        "num": 13099,
+        "word": "阿塞拜疆总统紧急返回巴库处理空难",
+        "onboard_time": 1735150093,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12672,
+        "num": 12672,
+        "word": "五年前的李昀锐敖瑞鹏",
+        "onboard_time": 1735136299,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12584,
+        "num": 12584,
+        "word": "被家暴16次案刑事一审开庭",
+        "onboard_time": 1735147993,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12574,
+        "num": 12574,
+        "word": "山河枕",
+        "onboard_time": 1735133480,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12557,
+        "num": 12557,
+        "word": "大雪人算是让尔滨玩明白了",
+        "onboard_time": 1735159692,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
