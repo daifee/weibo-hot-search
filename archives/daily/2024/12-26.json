@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735166284808,
+  "endTime": 1735168856589,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -27,6 +27,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 594178,
+      "num": 789512,
+      "word": "女子喝陌生人的水昏迷被拐",
+      "onboard_time": 1735147513,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534851,
+      "num": 180382,
+      "word": "张馨予把老公名字写进公司",
+      "onboard_time": 1735157111,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485331,
       "num": 485331,
       "word": "刘亦菲全榜第一",
@@ -35,12 +51,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 431213,
+      "num": 431213,
+      "word": "失事客机坠毁前面临强烈的GPS干扰",
+      "onboard_time": 1735144575,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 408919,
       "num": 408919,
       "word": "手脚冰凉是身体哪里出了问题",
       "onboard_time": 1735140138,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 369487,
+      "num": 328947,
+      "word": "一农民卖羊肉赚180元收到10万罚单",
+      "onboard_time": 1735142718,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366366,
@@ -56,14 +88,6 @@
       "word": "女子探亲途中和3岁儿子双双被拐",
       "onboard_time": 1735138459,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343619,
-      "num": 328947,
-      "word": "一农民卖羊肉赚180元收到10万罚单",
-      "onboard_time": 1735142718,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -97,14 +121,6 @@
       "onboard_time": 1735129399,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310156,
-      "num": 477559,
-      "word": "女子喝陌生人的水昏迷被拐",
-      "onboard_time": 1735147513,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275954,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207656,
+      "num": 207656,
+      "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
+      "onboard_time": 1735138999,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "赛里木湖",
@@ -195,28 +219,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 186350,
-      "num": 186350,
-      "word": "失事客机坠毁前面临强烈的GPS干扰",
-      "onboard_time": 1735144575,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "我国青少年抑郁症患病率达15%是谣言",
       "onboard_time": 1735139419,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 180382,
-      "num": 180382,
-      "word": "张馨予把老公名字写进公司",
-      "onboard_time": 1735157111,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 176480,
@@ -283,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147093,
+      "num": 97513,
+      "word": "月子会所回应60岁孕妇产下男婴",
+      "onboard_time": 1735148953,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137195,
       "num": 137195,
       "word": "猎罪图鉴2大结局",
@@ -299,11 +315,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121185,
-      "num": 121185,
-      "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
-      "onboard_time": 1735138999,
-      "rank": 36,
+      "raw_hot": 116164,
+      "num": 94765,
+      "word": "男子从情人车中摔出身亡妻子索赔60万",
+      "onboard_time": 1735129819,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -347,20 +363,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "阿姨用鸡毛复刻凤冠超惊艳",
+      "onboard_time": 1735157831,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 96185,
       "num": 96185,
       "word": "冰雪大世界",
       "onboard_time": 1735143496,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 94765,
-      "num": 94765,
-      "word": "男子从情人车中摔出身亡妻子索赔60万",
-      "onboard_time": 1735129819,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90039,
@@ -395,6 +411,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82819,
+      "num": 82819,
+      "word": "上万农村老人被32个骗子利用洗钱",
+      "onboard_time": 1735158071,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70513,
+      "num": 98271,
+      "word": "李昀锐让孟子义给自己粘名牌",
+      "onboard_time": 1735166233,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64209,
+      "num": 64209,
+      "word": "付辛博颖儿把每天都过成情人节",
+      "onboard_time": 1735164611,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "柳智敏好辣",
@@ -403,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 62256,
-      "num": 42396,
-      "word": "月子会所回应60岁孕妇产下男婴",
-      "onboard_time": 1735148953,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 62299,
+      "num": 331996,
+      "word": "隔屏感受到了在建世界最高桥的震撼",
+      "onboard_time": 1735138400,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61043,
@@ -419,12 +459,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 60333,
-      "num": 60333,
-      "word": "上万农村老人被32个骗子利用洗钱",
-      "onboard_time": 1735158071,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 54094,
+      "num": 54094,
+      "word": "白头鹰被正式指定为美国国鸟",
+      "onboard_time": 1735155792,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 49387,
+      "num": 56978,
+      "word": "肖战梁家辉新片对手戏",
+      "onboard_time": 1735163771,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 48072,
@@ -441,6 +489,14 @@
       "onboard_time": 1735138579,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46403,
+      "num": 73180,
+      "word": "王一博开启极限运动挑战",
+      "onboard_time": 1735164972,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 46400,
@@ -460,19 +516,11 @@
     },
     {
       "raw_hot": 42323,
-      "num": 42323,
+      "num": 43861,
       "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
       "onboard_time": 1735156030,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 41975,
-      "num": 41975,
-      "word": "白头鹰被正式指定为美国国鸟",
-      "onboard_time": 1735155792,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40595,
@@ -489,6 +537,14 @@
       "onboard_time": 1735147993,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38194,
+      "num": 55583,
+      "word": "中日高级别人文交流磋商达成10项共识",
+      "onboard_time": 1735160351,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37355,
@@ -515,20 +571,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35352,
-      "num": 35352,
-      "word": "付辛博颖儿把每天都过成情人节",
-      "onboard_time": 1735164611,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 35201,
+      "num": 123468,
+      "word": "坠机事故已发现32名生还者",
+      "onboard_time": 1735168335,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 33948,
-      "num": 55583,
-      "word": "中日高级别人文交流磋商达成10项共识",
-      "onboard_time": 1735160351,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 32138,
+      "num": 43703,
+      "word": "29人在阿克套客机失事中生还",
+      "onboard_time": 1735168754,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30977,
+      "num": 43666,
+      "word": "四大行股价盘中创历史新高",
+      "onboard_time": 1735163171,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 30287,
@@ -547,22 +611,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29075,
-      "num": 29075,
-      "word": "阿姨用鸡毛复刻凤冠超惊艳",
-      "onboard_time": 1735157831,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 28653,
-      "num": 28653,
-      "word": "肖战梁家辉新片对手戏",
-      "onboard_time": 1735163771,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 28526,
       "num": 28526,
       "word": "檀健次做沈翊的翻译",
@@ -579,28 +627,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25781,
-      "num": 73180,
-      "word": "王一博开启极限运动挑战",
-      "onboard_time": 1735164972,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25517,
       "num": 25517,
       "word": "TF四代危险舞蹈版上线",
       "onboard_time": 1735151352,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 25261,
-      "num": 182105,
-      "word": "隔屏感受到了在建世界最高桥的震撼",
-      "onboard_time": 1735138400,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25260,
@@ -625,14 +657,6 @@
       "onboard_time": 1735153931,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18439,
-      "num": 19283,
-      "word": "四大行股价盘中创历史新高",
-      "onboard_time": 1735163171,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 17759,
@@ -665,14 +689,6 @@
       "onboard_time": 1735147333,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 7069,
-      "num": 30163,
-      "word": "李昀锐让孟子义给自己粘名牌",
-      "onboard_time": 1735166233,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 6497,
