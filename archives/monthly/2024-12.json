@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735109050852,
+  "endTime": 1735111270275,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1275,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1760243,
+      "num": 1760243,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1759354,
       "num": 1759354,
       "word": "谢娜没去陈乔恩婚礼的原因",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1733584942,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1455661,
-      "num": 1455661,
-      "word": "我在",
-      "onboard_time": 1735104737,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 1454675,
@@ -4433,6 +4433,14 @@
       "onboard_time": 1734218954,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1040802,
+      "num": 808144,
+      "word": "张继科说我的成绩你们质疑不了",
+      "onboard_time": 1735106359,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1040296,
@@ -6803,14 +6811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 808144,
-      "num": 808144,
-      "word": "张继科说我的成绩你们质疑不了",
-      "onboard_time": 1735106359,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 807226,
       "num": 538715,
       "word": "伊朗女歌手未戴头巾唱歌被捕",
@@ -8788,7 +8788,7 @@
     },
     {
       "raw_hot": 684542,
-      "num": 472699,
+      "num": 597885,
       "word": "孟子义 姐姐这腰真受不了",
       "onboard_time": 1735105698,
       "rank": 6,
@@ -9145,6 +9145,14 @@
       "onboard_time": 1734085039,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 668736,
+      "num": 668736,
+      "word": "蛇年假期重合度非常高",
+      "onboard_time": 1735107860,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668138,
@@ -12283,6 +12291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539871,
+      "num": 539871,
+      "word": "aespa四公主",
+      "onboard_time": 1735108218,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 539838,
       "num": 389536,
       "word": "珠海地震",
@@ -14987,6 +15003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457586,
+      "num": 457586,
+      "word": "刘浩存 冰雪公主",
+      "onboard_time": 1735108218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457210,
       "num": 457210,
       "word": "27岁上海交大博导让大家别焦虑",
@@ -15897,14 +15921,6 @@
       "onboard_time": 1733285901,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 433634,
-      "num": 226639,
-      "word": "aespa四公主",
-      "onboard_time": 1735108218,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 433464,
@@ -23307,6 +23323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290598,
+      "num": 290598,
+      "word": "长白山云顶天宫主体基本完工",
+      "onboard_time": 1735105938,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 290542,
       "num": 185203,
       "word": "女子在离婚诉讼期间险被丈夫婚内强奸",
@@ -25219,6 +25243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265545,
+      "num": 265545,
+      "word": "黄铉辰 米卡",
+      "onboard_time": 1735108277,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 265501,
       "num": 1195500,
       "word": "未来5年都没有年三十",
@@ -26571,14 +26603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248871,
-      "num": 212194,
-      "word": "刘浩存 冰雪公主",
-      "onboard_time": 1735108218,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248820,
       "num": 269065,
       "word": "范丞丞回跑男要和李晨比肌肉",
@@ -27761,6 +27785,14 @@
       "onboard_time": 1734846018,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 237546,
+      "num": 316784,
+      "word": "全国统一心理援助热线12356",
+      "onboard_time": 1735109897,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237478,
@@ -29065,14 +29097,6 @@
       "onboard_time": 1734614238,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 227115,
-      "num": 204688,
-      "word": "黄铉辰 米卡",
-      "onboard_time": 1735108277,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 226971,
@@ -30705,6 +30729,14 @@
       "onboard_time": 1733970318,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215098,
+      "num": 215098,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 215049,
@@ -32571,6 +32603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "2024星光大赏第二波阵容",
+      "onboard_time": 1735109717,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "秦岚情绪稳定的原因找到了",
@@ -32777,14 +32817,6 @@
       "onboard_time": 1733548820,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204311,
-      "num": 204311,
-      "word": "蛇年假期重合度非常高",
-      "onboard_time": 1735107860,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204291,
@@ -34905,6 +34937,14 @@
       "onboard_time": 1733466618,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196326,
+      "num": 196326,
+      "word": "孟子义李昀锐吻戏出师了",
+      "onboard_time": 1735110377,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 196303,
@@ -38443,6 +38483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185219,
+      "num": 249493,
+      "word": "枪杀医保巨头CEO嫌犯高颜值出圈",
+      "onboard_time": 1735110258,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185209,
       "num": 185209,
       "word": "极越CEO称员工社保公积金已缴纳",
@@ -39931,14 +39979,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 178585,
-      "num": 178585,
-      "word": "猎罪图鉴今晚又要结束了",
-      "onboard_time": 1735104859,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178514,
       "num": 178514,
       "word": "白夜破晓 指纹",
@@ -40313,6 +40353,14 @@
       "onboard_time": 1733026338,
       "rank": 9,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 176418,
+      "num": 209658,
+      "word": "林高远告别欧冠",
+      "onboard_time": 1735108638,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 176389,
@@ -45315,14 +45363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159076,
-      "num": 159076,
-      "word": "林高远告别欧冠",
-      "onboard_time": 1735108638,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159069,
       "num": 159069,
       "word": "张文宏称已多次向平台投诉",
@@ -49259,14 +49299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147424,
-      "num": 185624,
-      "word": "长白山云顶天宫主体基本完工",
-      "onboard_time": 1735105938,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 147394,
       "num": 147394,
       "word": "马龙谈生涯最完美比赛",
@@ -50273,6 +50305,14 @@
       "onboard_time": 1733123238,
       "rank": 18,
       "category": "电影,作品衍生"
+    },
+    {
+      "raw_hot": 143918,
+      "num": 143918,
+      "word": "NMIXX歌谣大战红毯",
+      "onboard_time": 1735110438,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 143905,
@@ -59339,6 +59379,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 113749,
+      "num": 113749,
+      "word": "Newjeans红毯妆造",
+      "onboard_time": 1735111097,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113716,
       "num": 413087,
       "word": "替父母越界养老的年轻人该何去何从",
@@ -59409,6 +59457,14 @@
       "onboard_time": 1734218954,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 113414,
+      "num": 205453,
+      "word": "无畏帅得很突出",
+      "onboard_time": 1735109959,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 113330,
@@ -61145,6 +61201,14 @@
       "onboard_time": 1734762376,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106660,
+      "num": 106660,
+      "word": "这一年鼻子酸酸心里暖暖的瞬间",
+      "onboard_time": 1735109299,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 106617,
@@ -63713,6 +63777,14 @@
       "onboard_time": 1734871700,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95220,
+      "num": 239359,
+      "word": "大侦探 常低头找证据少抬头看风景",
+      "onboard_time": 1735109237,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 95163,
@@ -66385,6 +66457,14 @@
       "onboard_time": 1734341419,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81582,
+      "num": 234338,
+      "word": "刘亦菲李现梦回有风",
+      "onboard_time": 1735111217,
+      "rank": 19,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 81579,
@@ -69753,6 +69833,14 @@
       "onboard_time": 1733374940,
       "rank": 29,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 66413,
+      "num": 244424,
+      "word": "林一 我在北京很想你",
+      "onboard_time": 1735110319,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66346,
@@ -78483,6 +78571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36852,
+      "num": 185198,
+      "word": "冬季化痰平喘的代茶饮",
+      "onboard_time": 1735108277,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36831,
       "num": 274434,
       "word": "郑钦文今年大赛积分第五",
@@ -84451,14 +84547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 20540,
-      "num": 185198,
-      "word": "冬季化痰平喘的代茶饮",
-      "onboard_time": 1735108277,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20525,
       "num": 20672,
       "word": "李显龙称否定中国影响力是不明智的",
@@ -85569,6 +85657,14 @@
       "onboard_time": 1733068938,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 17258,
+      "num": 257807,
+      "word": "业内人称很多精彩的棋是剧本",
+      "onboard_time": 1735110857,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 17244,

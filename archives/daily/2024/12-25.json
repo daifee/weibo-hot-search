@@ -1,7 +1,15 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735109050852,
+  "endTime": 1735111270275,
   "band_list": [
+    {
+      "raw_hot": 1760243,
+      "num": 1760243,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
+    },
     {
       "raw_hot": 1620539,
       "num": 433629,
@@ -17,14 +25,6 @@
       "onboard_time": 1735060753,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1455661,
-      "num": 1455661,
-      "word": "我在",
-      "onboard_time": 1735104737,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 1366142,
@@ -75,6 +75,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 1040802,
+      "num": 808144,
+      "word": "张继科说我的成绩你们质疑不了",
+      "onboard_time": 1735106359,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 987355,
       "num": 184635,
       "word": "波司登700元羽绒裤仅3克绒",
@@ -104,14 +112,6 @@
       "word": "张继科说王楚钦孙颖莎不容易",
       "onboard_time": 1735089017,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 808144,
-      "num": 808144,
-      "word": "张继科说我的成绩你们质疑不了",
-      "onboard_time": 1735106359,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 684542,
-      "num": 472699,
+      "num": 597885,
       "word": "孟子义 姐姐这腰真受不了",
       "onboard_time": 1735105698,
       "rank": 6,
@@ -169,6 +169,14 @@
       "onboard_time": 1735098739,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 668736,
+      "num": 668736,
+      "word": "蛇年假期重合度非常高",
+      "onboard_time": 1735107860,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 658249,
@@ -211,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 539871,
+      "num": 539871,
+      "word": "aespa四公主",
+      "onboard_time": 1735108218,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 529367,
       "num": 529367,
       "word": "前TVB艺人被香港警方通缉",
@@ -243,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457586,
+      "num": 457586,
+      "word": "刘浩存 冰雪公主",
+      "onboard_time": 1735108218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455891,
       "num": 455891,
       "word": "32岁中国籍男游客在日本滑雪场遇难",
@@ -257,14 +281,6 @@
       "onboard_time": 1735104798,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 433634,
-      "num": 226639,
-      "word": "aespa四公主",
-      "onboard_time": 1735108218,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 428000,
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290598,
+      "num": 290598,
+      "word": "长白山云顶天宫主体基本完工",
+      "onboard_time": 1735105938,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 287641,
       "num": 214781,
       "word": "王一博新歌",
@@ -505,6 +529,14 @@
       "onboard_time": 1735094057,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265545,
+      "num": 265545,
+      "word": "黄铉辰 米卡",
+      "onboard_time": 1735108277,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 265435,
@@ -571,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248871,
-      "num": 212194,
-      "word": "刘浩存 冰雪公主",
-      "onboard_time": 1735108218,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248320,
       "num": 152855,
       "word": "女子做全裸SPA遭老板偷拍",
@@ -592,6 +616,14 @@
       "word": "原来对孩子来说一天就是很久",
       "onboard_time": 1735093099,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237546,
+      "num": 316784,
+      "word": "全国统一心理援助热线12356",
+      "onboard_time": 1735109897,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -609,14 +641,6 @@
       "onboard_time": 1735101140,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227115,
-      "num": 204688,
-      "word": "黄铉辰 米卡",
-      "onboard_time": 1735108277,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 223559,
@@ -649,6 +673,14 @@
       "onboard_time": 1735099278,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215098,
+      "num": 215098,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 213854,
@@ -699,12 +731,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 204311,
-      "num": 204311,
-      "word": "蛇年假期重合度非常高",
-      "onboard_time": 1735107860,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 205355,
+      "num": 205355,
+      "word": "2024星光大赏第二波阵容",
+      "onboard_time": 1735109717,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200372,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196326,
+      "num": 196326,
+      "word": "孟子义李昀锐吻戏出师了",
+      "onboard_time": 1735110377,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
@@ -787,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185219,
+      "num": 249493,
+      "word": "枪杀医保巨头CEO嫌犯高颜值出圈",
+      "onboard_time": 1735110258,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183967,
       "num": 183967,
       "word": "柯南迷宫的十字路口上海首映礼",
@@ -819,12 +867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178585,
-      "num": 178585,
-      "word": "猎罪图鉴今晚又要结束了",
-      "onboard_time": 1735104859,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 176418,
+      "num": 209658,
+      "word": "林高远告别欧冠",
+      "onboard_time": 1735108638,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 175586,
@@ -955,14 +1003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159076,
-      "num": 159076,
-      "word": "林高远告别欧冠",
-      "onboard_time": 1735108638,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "被家暴女子遭男方恐吓全家绝种",
@@ -1075,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147424,
-      "num": 185624,
-      "word": "长白山云顶天宫主体基本完工",
-      "onboard_time": 1735105938,
-      "rank": 43,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
@@ -1113,6 +1145,14 @@
       "onboard_time": 1735083554,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143918,
+      "num": 143918,
+      "word": "NMIXX歌谣大战红毯",
+      "onboard_time": 1735110438,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 142227,
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113749,
+      "num": 113749,
+      "word": "Newjeans红毯妆造",
+      "onboard_time": 1735111097,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113681,
       "num": 113681,
       "word": "尔滨大雪人穿上新年衣服了",
@@ -1347,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113414,
+      "num": 205453,
+      "word": "无畏帅得很突出",
+      "onboard_time": 1735109959,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110029,
       "num": 110029,
       "word": "中学篮球赛16秒连得9分压哨绝杀",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1735046780,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106660,
+      "num": 106660,
+      "word": "这一年鼻子酸酸心里暖暖的瞬间",
+      "onboard_time": 1735109299,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 105824,
@@ -1451,6 +1515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95220,
+      "num": 239359,
+      "word": "大侦探 常低头找证据少抬头看风景",
+      "onboard_time": 1735109237,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93889,
       "num": 93889,
       "word": "新闻联播播出他生前最后一段影像",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1735031477,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81582,
+      "num": 234338,
+      "word": "刘亦菲李现梦回有风",
+      "onboard_time": 1735111217,
+      "rank": 19,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 81509,
@@ -1681,6 +1761,14 @@
       "onboard_time": 1735101499,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66413,
+      "num": 244424,
+      "word": "林一 我在北京很想你",
+      "onboard_time": 1735110319,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 64939,
@@ -1915,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36852,
+      "num": 185198,
+      "word": "冬季化痰平喘的代茶饮",
+      "onboard_time": 1735108277,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36279,
       "num": 44009,
       "word": "TES对战iG",
@@ -2027,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20540,
-      "num": 185198,
-      "word": "冬季化痰平喘的代茶饮",
-      "onboard_time": 1735108277,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 20205,
       "num": 54825,
       "word": "上万名村民个人信息被盗",
@@ -2065,6 +2153,14 @@
       "onboard_time": 1735064472,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17258,
+      "num": 257807,
+      "word": "业内人称很多精彩的棋是剧本",
+      "onboard_time": 1735110857,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 17091,
