@@ -1,0 +1,410 @@
+{
+  "runTime": 1735140996837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177596,
+        "num": 1188415,
+        "word": "黄子韬一天涨粉500万",
+        "onboard_time": 1735127838,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 756848,
+        "num": 756848,
+        "word": "圣诞节",
+        "onboard_time": 1735135879,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51242,
+        "num": 729129,
+        "word": "国内航司入境旅客量增长近40%",
+        "onboard_time": 1735138579,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 710060,
+        "num": 710060,
+        "word": "刘亦菲全榜第一",
+        "onboard_time": 1735136420,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 581851,
+        "num": 581851,
+        "word": "女子婚礼前一天被拒婚假遭公司辞退",
+        "onboard_time": 1735135459,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435581,
+        "num": 564118,
+        "word": "女子探亲途中和3岁儿子双双被拐",
+        "onboard_time": 1735138459,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 589128,
+        "num": 561281,
+        "word": "权志龙红色高跟鞋",
+        "onboard_time": 1735135399,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 556270,
+        "num": 556270,
+        "word": "张馨予名下公司叫捷捷高",
+        "onboard_time": 1735129399,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93181,
+        "num": 501173,
+        "word": "00后男孩直博清华父母均为聋哑人",
+        "onboard_time": 1735139479,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33192,
+        "num": 493385,
+        "word": "坠机事故后阿塞拜疆总统发声",
+        "onboard_time": 1735140678,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 492703,
+        "num": 492703,
+        "word": "猎罪图鉴3",
+        "onboard_time": 1735125677,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461088,
+        "num": 461088,
+        "word": "手脚冰凉是身体的自我保护",
+        "onboard_time": 1735135280,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 452556,
+        "num": 452556,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 424580,
+        "num": 424580,
+        "word": "五年前的李昀锐敖瑞鹏",
+        "onboard_time": 1735136299,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206387,
+        "num": 406512,
+        "word": "我国青少年抑郁症患病率达15%是谣言",
+        "onboard_time": 1735139419,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394247,
+        "num": 394247,
+        "word": "塔斯汀回应汉堡里吃出生肉",
+        "onboard_time": 1735134018,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358935,
+        "num": 358935,
+        "word": "女子公共场合遭丈夫泼砂锅",
+        "onboard_time": 1735134439,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331221,
+        "num": 331221,
+        "word": "刘亦菲中学班级合照",
+        "onboard_time": 1735139060,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55006,
+        "num": 330418,
+        "word": "我永远都是你最好的底牌",
+        "onboard_time": 1735140376,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330205,
+        "num": 330205,
+        "word": "蛇年纪念钞溢价到1000元一套",
+        "onboard_time": 1735134500,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366321,
+        "num": 330087,
+        "word": "山河枕",
+        "onboard_time": 1735133480,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22379,
+        "num": 328718,
+        "word": "智界7妙派对夜大有可玩",
+        "onboard_time": 1735137620,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 21058,
+        "num": 327309,
+        "word": "旅行团的周末玩具智界R7",
+        "onboard_time": 1735137379,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 352160,
+        "num": 326545,
+        "word": "肖战版郭靖是如何练成的",
+        "onboard_time": 1735127898,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340469,
+        "num": 325298,
+        "word": "向佐 为什么女生穿男装可以",
+        "onboard_time": 1735128499,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324593,
+        "num": 324593,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1735136840,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293102,
+        "num": 293102,
+        "word": "撒贝宁给何炅发信息",
+        "onboard_time": 1735133538,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250202,
+        "num": 250202,
+        "word": "SBS你耍我",
+        "onboard_time": 1735130779,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202105,
+        "num": 202105,
+        "word": "赛里木湖",
+        "onboard_time": 1735138939,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98482,
+        "num": 195278,
+        "word": "被拐30年养父母要求偿还抚养费",
+        "onboard_time": 1735140318,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190648,
+        "num": 190648,
+        "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
+        "onboard_time": 1735138999,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189459,
+        "num": 189459,
+        "word": "猎罪图鉴2大结局",
+        "onboard_time": 1735121778,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185296,
+        "num": 185296,
+        "word": "坠机事故生还人数升至32人",
+        "onboard_time": 1735137320,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182417,
+        "num": 182417,
+        "word": "王楚钦挽妈妈手逛街",
+        "onboard_time": 1735134378,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172989,
+        "num": 172989,
+        "word": "虞书欣谢可寅跳spicyhoney",
+        "onboard_time": 1735139239,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "腾讯认证的待爆帝",
+        "onboard_time": 1735136180,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160212,
+        "num": 160212,
+        "word": "手脚冰凉是身体哪里出了问题",
+        "onboard_time": 1735140138,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154338,
+        "num": 154338,
+        "word": "权志龙躺着被路过",
+        "onboard_time": 1735132639,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 74544,
+        "num": 152907,
+        "word": "韩国年轻人为何热衷特种兵游上海",
+        "onboard_time": 1735139060,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152813,
+        "num": 152813,
+        "word": "张柏芝说APT谐音是啊柏芝",
+        "onboard_time": 1735139359,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80371,
+        "num": 138048,
+        "word": "韩安冉说网红圈太乱了",
+        "onboard_time": 1735139958,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135256,
+        "num": 135256,
+        "word": "猎罪图鉴2 富婆是寸头姐",
+        "onboard_time": 1735136898,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133136,
+        "num": 133136,
+        "word": "官方通报学生自杀与学校无关承诺书",
+        "onboard_time": 1735131259,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 130694,
+        "num": 130694,
+        "word": "男子从情人车中摔出身亡妻子索赔60万",
+        "onboard_time": 1735129819,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122246,
+        "num": 122246,
+        "word": "父母割皮10次给烧伤儿子植皮",
+        "onboard_time": 1735126938,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119077,
+        "num": 119077,
+        "word": "波司登700元3克绒羽绒裤已下架",
+        "onboard_time": 1735117637,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115570,
+        "num": 115570,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115113,
+        "num": 115113,
+        "word": "60岁高龄孕妇剖宫产下男婴",
+        "onboard_time": 1735117159,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 112804,
+        "word": "京东客服全员平均涨薪2个月",
+        "onboard_time": 1735136718,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107634,
+        "num": 107634,
+        "word": "鹭卓肥是真想减饭是真好吃",
+        "onboard_time": 1735139839,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
