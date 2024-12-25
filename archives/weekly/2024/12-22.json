@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735158190335,
+  "endTime": 1735158969899,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -13291,6 +13291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41975,
+      "num": 41975,
+      "word": "白头鹰被正式指定为美国国鸟",
+      "onboard_time": 1735155792,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41904,
       "num": 278024,
       "word": "李现盼君同赏",
@@ -13915,14 +13923,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 33165,
-      "num": 33165,
-      "word": "白头鹰被正式指定为美国国鸟",
-      "onboard_time": 1735155792,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32890,
       "num": 241029,
       "word": "她力量年度作品盘点",
@@ -14281,6 +14281,14 @@
       "onboard_time": 1735151171,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28454,
+      "num": 35965,
+      "word": "张馨予把老公名字写进公司",
+      "onboard_time": 1735157111,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 28305,
@@ -14683,14 +14691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22229,
-      "num": 22229,
-      "word": "张馨予把老公名字写进公司",
-      "onboard_time": 1735157111,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22150,
       "num": 408646,
       "word": "张颂文称曾被人用长相打击",
@@ -14777,6 +14777,14 @@
       "onboard_time": 1735078331,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20134,
+      "num": 21030,
+      "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
+      "onboard_time": 1735156030,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19918,
@@ -14873,14 +14881,6 @@
       "onboard_time": 1735124538,
       "rank": 19,
       "category": "民生新闻,民生新闻"
-    },
-    {
-      "raw_hot": 18988,
-      "num": 21030,
-      "word": "哈萨克斯坦坠落客机在降落前发生了爆炸",
-      "onboard_time": 1735156030,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18969,
@@ -15115,20 +15115,28 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 15304,
+      "num": 15825,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1735157290,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15137,
+      "num": 15811,
+      "word": "上万农村老人被32个骗子利用洗钱",
+      "onboard_time": 1735158071,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14713,
       "num": 127723,
       "word": "冰雪大世界主塔",
       "onboard_time": 1735025299,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 14668,
-      "num": 15825,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1735157290,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14462,
@@ -15179,12 +15187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12937,
-      "num": 15811,
-      "word": "上万农村老人被32个骗子利用洗钱",
-      "onboard_time": 1735158071,
+      "raw_hot": 12621,
+      "num": 14521,
+      "word": "阿姨用鸡毛复刻凤冠超惊艳",
+      "onboard_time": 1735157831,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "正能量"
     },
     {
       "raw_hot": 12499,
