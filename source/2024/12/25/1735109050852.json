@@ -1,0 +1,410 @@
+{
+  "runTime": 1735109050852,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231535,
+        "num": 1231535,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1117964,
+        "num": 1117964,
+        "word": "突然降温女生手指被冻成白色",
+        "onboard_time": 1735105158,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53827,
+        "num": 826973,
+        "word": "2024那些一眼惊艳的国风浪漫",
+        "onboard_time": 1735101681,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 811138,
+        "num": 811138,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808144,
+        "num": 808144,
+        "word": "张继科说我的成绩你们质疑不了",
+        "onboard_time": 1735106359,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390955,
+        "num": 390955,
+        "word": "8岁男孩用眼过度总把数字镜像反写",
+        "onboard_time": 1735099878,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 647218,
+        "num": 383852,
+        "word": "孟子义 姐姐这腰真受不了",
+        "onboard_time": 1735105698,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554681,
+        "num": 383590,
+        "word": "黄铉辰寸头",
+        "onboard_time": 1735107498,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 357958,
+        "num": 357958,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229166,
+        "num": 229166,
+        "word": "攒了一年的惊艳瞬间",
+        "onboard_time": 1735100659,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 433634,
+        "num": 226639,
+        "word": "aespa四公主",
+        "onboard_time": 1735108218,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 332609,
+        "num": 222551,
+        "word": "王影璐李昀锐领衔主演",
+        "onboard_time": 1735104198,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281938,
+        "num": 221704,
+        "word": "前TVB艺人被香港警方通缉",
+        "onboard_time": 1735099999,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258523,
+        "num": 216435,
+        "word": "女子反复流产原因出在男方",
+        "onboard_time": 1735097777,
+        "rank": 13,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 248871,
+        "num": 212194,
+        "word": "刘浩存 冰雪公主",
+        "onboard_time": 1735108218,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143074,
+        "num": 208766,
+        "word": "男子家暴入狱威胁妻子出具谅解书",
+        "onboard_time": 1735104438,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206864,
+        "num": 206864,
+        "word": "李尚洙退出韩国乒乓球队",
+        "onboard_time": 1735105218,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21064,
+        "num": 206715,
+        "word": "武大靖相信成王败寇也接受虽败犹荣",
+        "onboard_time": 1735108159,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41035,
+        "num": 206072,
+        "word": "蔷薇风暴定档",
+        "onboard_time": 1735106119,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38410,
+        "num": 205927,
+        "word": "SEVENTEEN圣诞自拍",
+        "onboard_time": 1735104798,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404823,
+        "num": 205375,
+        "word": "王鸥 回不去了",
+        "onboard_time": 1735104798,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242719,
+        "num": 204737,
+        "word": "SBS红毯直播",
+        "onboard_time": 1735103119,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 227115,
+        "num": 204688,
+        "word": "黄铉辰 米卡",
+        "onboard_time": 1735108277,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204311,
+        "num": 204311,
+        "word": "蛇年假期重合度非常高",
+        "onboard_time": 1735107860,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187275,
+        "num": 187275,
+        "word": "小米官宣与蔚来合作",
+        "onboard_time": 1735096038,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 198583,
+        "num": 187175,
+        "word": "付辛博送颖儿的六周年礼物是手机",
+        "onboard_time": 1735108159,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61315,
+        "num": 186681,
+        "word": "如何用年终总结惊艳领导",
+        "onboard_time": 1735108398,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38644,
+        "num": 185980,
+        "word": "刘浩存抹胸闪钻蓬蓬裙",
+        "onboard_time": 1735108878,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 185624,
+        "word": "长白山云顶天宫主体基本完工",
+        "onboard_time": 1735105938,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 20540,
+        "num": 185198,
+        "word": "冬季化痰平喘的代茶饮",
+        "onboard_time": 1735108277,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184930,
+        "num": 184930,
+        "word": "小红薯娇妻文案",
+        "onboard_time": 1735098258,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 932006,
+        "num": 184635,
+        "word": "波司登700元羽绒裤仅3克绒",
+        "onboard_time": 1735106238,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50043,
+        "num": 183338,
+        "word": "千朵桃花一世开欲哥配妹宝",
+        "onboard_time": 1735108697,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58871,
+        "num": 180853,
+        "word": "考研像做了场大梦",
+        "onboard_time": 1735107738,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316604,
+        "num": 179556,
+        "word": "波司登回应700元羽绒裤仅3克绒",
+        "onboard_time": 1735107498,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178738,
+        "num": 178738,
+        "word": "IU圣诞节捐款5亿韩元",
+        "onboard_time": 1735105158,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161334,
+        "num": 173441,
+        "word": "恶犬饲养者杀犬藏尸太荒谬",
+        "onboard_time": 1735107078,
+        "rank": 36,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 76062,
+        "num": 172996,
+        "word": "谁说老师不好啊这老师太棒啦",
+        "onboard_time": 1735107198,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172841,
+        "num": 172841,
+        "word": "因为两个孩子给全村修了路灯",
+        "onboard_time": 1735103119,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163762,
+        "num": 163762,
+        "word": "猎罪图鉴今晚又要结束了",
+        "onboard_time": 1735104859,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159076,
+        "num": 159076,
+        "word": "林高远告别欧冠",
+        "onboard_time": 1735108638,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145168,
+        "num": 153557,
+        "word": "大奉打更人新浪扫楼",
+        "onboard_time": 1735107198,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 151612,
+        "word": "何浩楠辟谣恋情",
+        "onboard_time": 1735107677,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37161,
+        "num": 150847,
+        "word": "吴磊生日概念海报信息量",
+        "onboard_time": 1735108758,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150742,
+        "num": 150742,
+        "word": "文韬 森林进化论2总冠军",
+        "onboard_time": 1735107677,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79396,
+        "num": 148627,
+        "word": "詹杜库商业互吹",
+        "onboard_time": 1735106479,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75954,
+        "num": 147619,
+        "word": "碎花裙女生与勺子哥阻止行凶三月后",
+        "onboard_time": 1735106839,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158050,
+        "num": 147574,
+        "word": "猎罪2李媛 畸形的虐恋太危险",
+        "onboard_time": 1735098739,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147524,
+        "num": 147524,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 48,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 139842,
+        "num": 139842,
+        "word": "王楚钦受邀2025乒乓球亚洲杯",
+        "onboard_time": 1735107619,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}
