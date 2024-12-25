@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735105147616,
+  "endTime": 1735108282159,
   "band_list": [
     {
       "raw_hot": 1620539,
@@ -17,6 +17,14 @@
       "onboard_time": 1735060753,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1455661,
+      "num": 1455661,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 1366142,
@@ -51,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1079381,
+      "num": 1079381,
+      "word": "突然降温女生手指被冻成白色",
+      "onboard_time": 1735105158,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1065561,
       "num": 1170489,
       "word": "增值税法通过",
       "onboard_time": 1735092617,
       "rank": 3,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 987355,
+      "num": 167161,
+      "word": "波司登700元羽绒裤仅3克绒",
+      "onboard_time": 1735106238,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949907,
@@ -123,6 +147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 684542,
+      "num": 472699,
+      "word": "孟子义 姐姐这腰真受不了",
+      "onboard_time": 1735105698,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677456,
       "num": 677456,
       "word": "猎罪2李媛 畸形的虐恋太危险",
@@ -155,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605055,
+      "num": 605055,
+      "word": "张继科说我的成绩你们质疑不了",
+      "onboard_time": 1735106359,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572752,
       "num": 572752,
       "word": "时代峰峻将30%苹果税纳入高会成本",
@@ -180,7 +220,7 @@
     },
     {
       "raw_hot": 504769,
-      "num": 366316,
+      "num": 466180,
       "word": "王影璐李昀锐领衔主演",
       "onboard_time": 1735104198,
       "rank": 11,
@@ -201,6 +241,14 @@
       "onboard_time": 1735095018,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 446035,
+      "num": 219631,
+      "word": "王鸥 回不去了",
+      "onboard_time": 1735104798,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 428000,
@@ -233,6 +281,14 @@
       "onboard_time": 1735093998,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 411048,
+      "num": 289817,
+      "word": "黄铉辰寸头",
+      "onboard_time": 1735107498,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 397659,
@@ -467,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252970,
+      "num": 252970,
+      "word": "李尚洙退出韩国乒乓球队",
+      "onboard_time": 1735105218,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252691,
       "num": 252691,
       "word": "医生称臭车司机对异味或已耐受",
@@ -521,6 +585,14 @@
       "onboard_time": 1735101140,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223559,
+      "num": 217589,
+      "word": "IU圣诞节捐款5亿韩元",
+      "onboard_time": 1735105158,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 223508,
@@ -627,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195977,
-      "num": 168877,
-      "word": "王鸥 回不去了",
-      "onboard_time": 1735104798,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
@@ -649,6 +713,14 @@
       "onboard_time": 1735042158,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 192921,
+      "num": 166664,
+      "word": "波司登回应700元羽绒裤仅3克绒",
+      "onboard_time": 1735107498,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191197,
@@ -707,12 +779,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178557,
-      "num": 157353,
-      "word": "我在",
-      "onboard_time": 1735104737,
-      "rank": 34,
+      "raw_hot": 179593,
+      "num": 166079,
+      "word": "aespa四公主",
+      "onboard_time": 1735108218,
+      "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178585,
+      "num": 178585,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 175586,
@@ -739,6 +819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "文韬 森林进化论2总冠军",
+      "onboard_time": 1735107677,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172147,
       "num": 172652,
       "word": "金智秀圣诞营业",
@@ -763,6 +851,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 170781,
+      "num": 165075,
+      "word": "付辛博送颖儿的六周年礼物是手机",
+      "onboard_time": 1735108159,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168275,
+      "num": 168275,
+      "word": "大奉打更人新浪扫楼",
+      "onboard_time": 1735107198,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167267,
       "num": 167267,
       "word": "张艺兴东西实体专辑",
@@ -771,20 +875,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165000,
+      "num": 165000,
+      "word": "费翔路演 纣王变海王",
+      "onboard_time": 1735105519,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164302,
       "num": 164302,
       "word": "宁艺卓没有特别舞台",
       "onboard_time": 1735052060,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 161246,
-      "num": 161246,
-      "word": "猎罪图鉴今晚又要结束了",
-      "onboard_time": 1735104859,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 161216,
@@ -891,6 +995,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "男子家暴入狱威胁妻子出具谅解书",
+      "onboard_time": 1735104438,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "真理之下",
@@ -915,6 +1027,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151180,
+      "num": 151180,
+      "word": "刘浩存 冰雪公主",
+      "onboard_time": 1735108218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151044,
+      "num": 151044,
+      "word": "BamBam创亚2下班饭撒",
+      "onboard_time": 1735107558,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150627,
+      "num": 150627,
+      "word": "蛇年假期重合度非常高",
+      "onboard_time": 1735107860,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
@@ -931,6 +1067,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146270,
+      "num": 146270,
+      "word": "长白山云顶天宫主体基本完工",
+      "onboard_time": 1735105938,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 145661,
+      "num": 140497,
+      "word": "苹果税中国抽成全球最高合理吗",
+      "onboard_time": 1735106779,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144251,
       "num": 164025,
       "word": "孟子义控泪",
@@ -945,6 +1097,14 @@
       "onboard_time": 1735054518,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141569,
+      "num": 141569,
+      "word": "羊毛月已被注册成商标",
+      "onboard_time": 1735105218,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 140520,
@@ -1000,6 +1160,22 @@
       "word": "去年春晚你印象最深的歌曲",
       "onboard_time": 1735049900,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130556,
+      "num": 130556,
+      "word": "王楚钦受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735107619,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "创亚2 王嘉尔你的8来了",
+      "onboard_time": 1735105398,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -1347,6 +1523,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 79082,
+      "num": 178624,
+      "word": "詹杜库商业互吹",
+      "onboard_time": 1735106479,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 77979,
+      "num": 256703,
+      "word": "恶犬饲养者杀犬藏尸太荒谬",
+      "onboard_time": 1735107078,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 77916,
       "num": 197815,
       "word": "奥斯卡深情告别海港",
@@ -1369,6 +1561,14 @@
       "onboard_time": 1735096638,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 73925,
+      "num": 291890,
+      "word": "碎花裙女生与勺子哥阻止行凶三月后",
+      "onboard_time": 1735106839,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73916,
@@ -1428,7 +1628,7 @@
     },
     {
       "raw_hot": 68262,
-      "num": 771776,
+      "num": 921844,
       "word": "2024那些一眼惊艳的国风浪漫",
       "onboard_time": 1735101681,
       "rank": 2,
@@ -1489,6 +1689,14 @@
       "onboard_time": 1735054639,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57612,
+      "num": 169125,
+      "word": "谁说老师不好啊这老师太棒啦",
+      "onboard_time": 1735107198,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 57015,
@@ -1595,6 +1803,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 43521,
+      "num": 221036,
+      "word": "何浩楠辟谣恋情",
+      "onboard_time": 1735107677,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42027,
       "num": 42027,
       "word": "多省回应要花万亿推平黄土高原",
@@ -1617,6 +1833,14 @@
       "onboard_time": 1735103778,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39199,
+      "num": 168068,
+      "word": "考研像做了场大梦",
+      "onboard_time": 1735107738,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 39193,
@@ -1793,6 +2017,14 @@
       "onboard_time": 1735066211,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16306,
+      "num": 223135,
+      "word": "武大靖相信成王败寇也接受虽败犹荣",
+      "onboard_time": 1735108159,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 15763,

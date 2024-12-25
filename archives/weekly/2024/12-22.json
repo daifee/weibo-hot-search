@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735105147616,
+  "endTime": 1735108282159,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1455661,
+      "num": 1455661,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1430655,
       "num": 453378,
       "word": "刘诗诗 吴奇隆",
@@ -475,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1079381,
+      "num": 1079381,
+      "word": "突然降温女生手指被冻成白色",
+      "onboard_time": 1735105158,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1076948,
       "num": 347525,
       "word": "美国女教师强奸12岁男童怀孕被判刑",
@@ -561,6 +577,14 @@
       "onboard_time": 1734881060,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 987355,
+      "num": 167161,
+      "word": "波司登700元羽绒裤仅3克绒",
+      "onboard_time": 1735106238,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 979509,
@@ -1075,6 +1099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 684542,
+      "num": 472699,
+      "word": "孟子义 姐姐这腰真受不了",
+      "onboard_time": 1735105698,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 682537,
       "num": 682537,
       "word": "妻儿车祸去世他义务指挥交通35年",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1735010478,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 605055,
+      "num": 605055,
+      "word": "张继科说我的成绩你们质疑不了",
+      "onboard_time": 1735106359,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 603935,
@@ -1700,7 +1740,7 @@
     },
     {
       "raw_hot": 504769,
-      "num": 366316,
+      "num": 466180,
       "word": "王影璐李昀锐领衔主演",
       "onboard_time": 1735104198,
       "rank": 11,
@@ -1939,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446035,
+      "num": 219631,
+      "word": "王鸥 回不去了",
+      "onboard_time": 1735104798,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 445256,
       "num": 445256,
       "word": "特朗普表示赞成TikTok继续在美运营",
@@ -2145,6 +2193,14 @@
       "onboard_time": 1734856577,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411048,
+      "num": 289817,
+      "word": "黄铉辰寸头",
+      "onboard_time": 1735107498,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 409025,
@@ -3555,6 +3611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252970,
+      "num": 252970,
+      "word": "李尚洙退出韩国乒乓球队",
+      "onboard_time": 1735105218,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252942,
       "num": 252942,
       "word": "普京回应第三次世界大战是否正在进行",
@@ -3913,6 +3977,14 @@
       "onboard_time": 1734921499,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223559,
+      "num": 217589,
+      "word": "IU圣诞节捐款5亿韩元",
+      "onboard_time": 1735105158,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 223230,
@@ -4683,14 +4755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195977,
-      "num": 168877,
-      "word": "王鸥 回不去了",
-      "onboard_time": 1735104798,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195877,
       "num": 195877,
       "word": "火车售票员打字开了5倍速吗",
@@ -4817,6 +4881,14 @@
       "onboard_time": 1734823693,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192921,
+      "num": 166664,
+      "word": "波司登回应700元羽绒裤仅3克绒",
+      "onboard_time": 1735107498,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192510,
@@ -5299,6 +5371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179593,
+      "num": 166079,
+      "word": "aespa四公主",
+      "onboard_time": 1735108218,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179338,
       "num": 154545,
       "word": "现在动车卧铺已经发展成这样了吗",
@@ -5331,12 +5411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 178557,
-      "num": 157353,
-      "word": "我在",
-      "onboard_time": 1735104737,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 178585,
+      "num": 178585,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 178389,
@@ -5515,6 +5595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172641,
+      "num": 172641,
+      "word": "文韬 森林进化论2总冠军",
+      "onboard_time": 1735107677,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172609,
       "num": 172609,
       "word": "国色芳华全集有广",
@@ -5603,6 +5691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170781,
+      "num": 165075,
+      "word": "付辛博送颖儿的六周年礼物是手机",
+      "onboard_time": 1735108159,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170719,
       "num": 307925,
       "word": "猎罪图鉴2 冲进火场是她最后的绝唱",
@@ -5681,6 +5777,14 @@
       "onboard_time": 1734951078,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168275,
+      "num": 168275,
+      "word": "大奉打更人新浪扫楼",
+      "onboard_time": 1735107198,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168252,
@@ -5843,6 +5947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165000,
+      "num": 165000,
+      "word": "费翔路演 纣王变海王",
+      "onboard_time": 1735105519,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164954,
       "num": 164954,
       "word": "王鹤棣cue了星河入梦",
@@ -5936,14 +6048,6 @@
       "word": "国色芳华妆造",
       "onboard_time": 1734925758,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 161246,
-      "num": 161246,
-      "word": "猎罪图鉴今晚又要结束了",
-      "onboard_time": 1735104859,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -6347,6 +6451,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 152894,
+      "num": 152894,
+      "word": "男子家暴入狱威胁妻子出具谅解书",
+      "onboard_time": 1735104438,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152861,
       "num": 152861,
       "word": "陈佩斯等了60年的剧本",
@@ -6467,12 +6579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151180,
+      "num": 151180,
+      "word": "刘浩存 冰雪公主",
+      "onboard_time": 1735108218,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151053,
       "num": 132075,
       "word": "林俊杰新歌中英双版本零点上线",
       "onboard_time": 1734961041,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151044,
+      "num": 151044,
+      "word": "BamBam创亚2下班饭撒",
+      "onboard_time": 1735107558,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 150940,
@@ -6513,6 +6641,14 @@
       "onboard_time": 1734853158,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150627,
+      "num": 150627,
+      "word": "蛇年假期重合度非常高",
+      "onboard_time": 1735107860,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150380,
@@ -6681,6 +6817,22 @@
       "onboard_time": 1734971536,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146270,
+      "num": 146270,
+      "word": "长白山云顶天宫主体基本完工",
+      "onboard_time": 1735105938,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 145661,
+      "num": 140497,
+      "word": "苹果税中国抽成全球最高合理吗",
+      "onboard_time": 1735106779,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 145642,
@@ -6889,6 +7041,14 @@
       "onboard_time": 1734870499,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141569,
+      "num": 141569,
+      "word": "羊毛月已被注册成商标",
+      "onboard_time": 1735105218,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 141264,
@@ -7411,6 +7571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130556,
+      "num": 130556,
+      "word": "王楚钦受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735107619,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130480,
       "num": 130480,
       "word": "嬴政玄雷天君金牌皮肤",
@@ -7425,6 +7593,14 @@
       "onboard_time": 1735034778,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 129960,
+      "num": 129960,
+      "word": "创亚2 王嘉尔你的8来了",
+      "onboard_time": 1735105398,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 129585,
@@ -9467,6 +9643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79082,
+      "num": 178624,
+      "word": "詹杜库商业互吹",
+      "onboard_time": 1735106479,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78027,
       "num": 115224,
       "word": "遇小女孩求助公交司机秒变夹子音",
@@ -9481,6 +9665,14 @@
       "onboard_time": 1734934099,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77979,
+      "num": 256703,
+      "word": "恶犬饲养者杀犬藏尸太荒谬",
+      "onboard_time": 1735107078,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 77920,
@@ -9672,6 +9864,14 @@
       "word": "2024多彩的中国",
       "onboard_time": 1735018218,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73925,
+      "num": 291890,
+      "word": "碎花裙女生与勺子哥阻止行凶三月后",
+      "onboard_time": 1735106839,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -9884,7 +10084,7 @@
     },
     {
       "raw_hot": 68262,
-      "num": 771776,
+      "num": 921844,
       "word": "2024那些一眼惊艳的国风浪漫",
       "onboard_time": 1735101681,
       "rank": 2,
@@ -10321,6 +10521,14 @@
       "onboard_time": 1735014379,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57612,
+      "num": 169125,
+      "word": "谁说老师不好啊这老师太棒啦",
+      "onboard_time": 1735107198,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 57454,
@@ -11075,6 +11283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43521,
+      "num": 221036,
+      "word": "何浩楠辟谣恋情",
+      "onboard_time": 1735107677,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43262,
       "num": 275724,
       "word": "陈都灵时装男士月鳞绮纪剧宣专刊封面",
@@ -11297,6 +11513,14 @@
       "onboard_time": 1735038259,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 39199,
+      "num": 168068,
+      "word": "考研像做了场大梦",
+      "onboard_time": 1735107738,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 39193,
@@ -12537,6 +12761,14 @@
       "onboard_time": 1735066211,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16306,
+      "num": 223135,
+      "word": "武大靖相信成王败寇也接受虽败犹荣",
+      "onboard_time": 1735108159,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 16226,
