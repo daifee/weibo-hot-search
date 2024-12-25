@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735090874316,
+  "endTime": 1735091860106,
   "band_list": [
     {
       "raw_hot": 1526933,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 832722,
-      "num": 832722,
+      "raw_hot": 850699,
+      "num": 850699,
       "word": "张继科说王楚钦孙颖莎不容易",
       "onboard_time": 1735089017,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 646718,
+      "num": 646718,
+      "word": "2年被家暴16次女生称只接受死刑",
+      "onboard_time": 1735090218,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 607031,
       "num": 488799,
       "word": "长春坠江私家车内有孕妇",
@@ -91,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371811,
+      "num": 371811,
+      "word": "男子偷手机假装帮寻找没想到有监控",
+      "onboard_time": 1735079531,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358682,
       "num": 212173,
       "word": "小S晒与大女儿圣诞合照",
@@ -107,6 +123,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 348850,
+      "num": 348850,
+      "word": "圣诞快乐",
+      "onboard_time": 1735081813,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347337,
       "num": 347337,
       "word": "撞死网红狼司机疑似未主动救治",
@@ -115,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346395,
-      "num": 346395,
-      "word": "男子偷手机假装帮寻找没想到有监控",
-      "onboard_time": 1735079531,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 329405,
+      "num": 202575,
+      "word": "在香港花400万买了15平米的家",
+      "onboard_time": 1735087818,
+      "rank": 20,
+      "category": "休闲"
     },
     {
       "raw_hot": 326282,
@@ -129,14 +153,6 @@
       "onboard_time": 1735036759,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317884,
-      "num": 176356,
-      "word": "在香港花400万买了15平米的家",
-      "onboard_time": 1735087818,
-      "rank": 20,
-      "category": "休闲"
     },
     {
       "raw_hot": 317160,
@@ -171,12 +187,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277691,
+      "num": 358958,
+      "word": "劣迹网红天佑疑复出直播再被封禁",
+      "onboard_time": 1735091657,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 265435,
+      "num": 265435,
+      "word": "林允儿cha了Whiplash",
+      "onboard_time": 1735090877,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264422,
       "num": 264422,
       "word": "小米su7被大众追尾后者当场起火",
       "onboard_time": 1735045819,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 253343,
+      "num": 253343,
+      "word": "李耕耘腹肌",
+      "onboard_time": 1735086920,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 252691,
@@ -219,22 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221550,
-      "num": 221550,
-      "word": "圣诞快乐",
-      "onboard_time": 1735081813,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 220974,
-      "num": 220974,
-      "word": "李耕耘腹肌",
-      "onboard_time": 1735086920,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213854,
       "num": 213854,
       "word": "埃菲尔铁塔电梯井突发火灾",
@@ -249,6 +273,14 @@
       "onboard_time": 1735060873,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 206468,
+      "num": 206468,
+      "word": "A股",
+      "onboard_time": 1735090157,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 201509,
@@ -283,12 +315,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 180136,
-      "num": 180136,
+      "raw_hot": 191197,
+      "num": 191197,
       "word": "罗伯特评论名侦探柯南圣诞图",
       "onboard_time": 1735086198,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180506,
+      "num": 180506,
+      "word": "继搪瓷盆之后爆眼龙又要断货了",
+      "onboard_time": 1735090457,
+      "rank": 32,
+      "category": "科学科普,幽默"
     },
     {
       "raw_hot": 174665,
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 172147,
-      "num": 172147,
+      "num": 172652,
       "word": "金智秀圣诞营业",
       "onboard_time": 1735087758,
       "rank": 23,
@@ -312,14 +352,6 @@
       "word": "医生称被咬伤男童可换血来控制感染",
       "onboard_time": 1735054159,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164717,
-      "num": 348810,
-      "word": "2年被家暴16次女生称只接受死刑",
-      "onboard_time": 1735090218,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -371,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142913,
-      "num": 142913,
-      "word": "继搪瓷盆之后爆眼龙又要断货了",
-      "onboard_time": 1735090457,
-      "rank": 32,
-      "category": "科学科普,幽默"
-    },
-    {
       "raw_hot": 142227,
       "num": 142227,
       "word": "meiko状态",
@@ -427,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132071,
-      "num": 179170,
-      "word": "A股",
-      "onboard_time": 1735090157,
-      "rank": 19,
-      "category": "财经"
+      "raw_hot": 129929,
+      "num": 171496,
+      "word": "陈建斌 都给朕回去回后宫去",
+      "onboard_time": 1735063872,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 129084,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 127475,
-      "num": 137949,
+      "num": 171081,
       "word": "张凌赫纯硬帅",
       "onboard_time": 1735085837,
       "rank": 34,
@@ -465,6 +489,14 @@
       "onboard_time": 1735053737,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123752,
+      "num": 203893,
+      "word": "查境外电诈关联账号竟然查到农村",
+      "onboard_time": 1735088837,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122272,
@@ -497,14 +529,6 @@
       "onboard_time": 1735083016,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114051,
-      "num": 114051,
-      "word": "陈建斌 都给朕回去回后宫去",
-      "onboard_time": 1735063872,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 113445,
@@ -579,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98720,
-      "num": 98720,
-      "word": "查境外电诈关联账号竟然查到农村",
-      "onboard_time": 1735088837,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 96537,
+      "num": 168668,
+      "word": "辛巴 少活几十年也要让人记得我",
+      "onboard_time": 1735089558,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 95652,
@@ -593,14 +617,6 @@
       "onboard_time": 1735082415,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94030,
-      "num": 168668,
-      "word": "辛巴 少活几十年也要让人记得我",
-      "onboard_time": 1735089558,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 93889,
@@ -617,6 +633,14 @@
       "onboard_time": 1735083435,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89707,
+      "num": 89707,
+      "word": "上海南站正式升级为高铁站",
+      "onboard_time": 1735091657,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89035,
@@ -739,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68470,
+      "num": 184238,
+      "word": "汪顺回应是否参加洛杉矶奥运会",
+      "onboard_time": 1735090157,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67883,
       "num": 70832,
       "word": "孩子随口一句话男子把家砸烂",
@@ -825,6 +857,14 @@
       "onboard_time": 1735074910,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45029,
+      "num": 202720,
+      "word": "银行股持续上涨",
+      "onboard_time": 1735091477,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 44041,

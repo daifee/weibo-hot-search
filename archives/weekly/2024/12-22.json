@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735090874316,
+  "endTime": 1735091860106,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -691,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 850699,
+      "num": 850699,
+      "word": "张继科说王楚钦孙颖莎不容易",
+      "onboard_time": 1735089017,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 849776,
       "num": 464582,
       "word": "数一 大题难",
@@ -713,14 +721,6 @@
       "onboard_time": 1734939137,
       "rank": 9,
       "category": "民生新闻,辟谣/通报"
-    },
-    {
-      "raw_hot": 832722,
-      "num": 832722,
-      "word": "张继科说王楚钦孙颖莎不容易",
-      "onboard_time": 1735089017,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 819250,
@@ -1119,6 +1119,14 @@
       "num": 898886,
       "word": "禁止员工去冰雪大世界企业道歉",
       "onboard_time": 1734967698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 646718,
+      "num": 646718,
+      "word": "2年被家暴16次女生称只接受死刑",
+      "onboard_time": 1735090218,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -2275,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371811,
+      "num": 371811,
+      "word": "男子偷手机假装帮寻找没想到有监控",
+      "onboard_time": 1735079531,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371510,
       "num": 371510,
       "word": "孟佳退出王牌新主播",
@@ -2435,20 +2451,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 348850,
+      "num": 348850,
+      "word": "圣诞快乐",
+      "onboard_time": 1735081813,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 348609,
       "num": 348609,
       "word": "考研 408",
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 346395,
-      "num": 346395,
-      "word": "男子偷手机假装帮寻找没想到有监控",
-      "onboard_time": 1735079531,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345579,
@@ -2555,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329405,
+      "num": 202575,
+      "word": "在香港花400万买了15平米的家",
+      "onboard_time": 1735087818,
+      "rank": 20,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 328269,
       "num": 328269,
       "word": "马嘉祺高会",
@@ -2633,14 +2657,6 @@
       "onboard_time": 1734957138,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 317884,
-      "num": 176356,
-      "word": "在香港花400万买了15平米的家",
-      "onboard_time": 1735087818,
-      "rank": 20,
-      "category": "休闲"
     },
     {
       "raw_hot": 317489,
@@ -2995,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277691,
+      "num": 358958,
+      "word": "劣迹网红天佑疑复出直播再被封禁",
+      "onboard_time": 1735091657,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 277556,
       "num": 543839,
       "word": "被同学抱摔艺考女生面试皆被拒收",
@@ -3139,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265435,
+      "num": 265435,
+      "word": "林允儿cha了Whiplash",
+      "onboard_time": 1735090877,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264631,
       "num": 243834,
       "word": "演员请就位第三季阵容",
@@ -3241,6 +3273,14 @@
       "onboard_time": 1734837257,
       "rank": 13,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 253343,
+      "num": 253343,
+      "word": "李耕耘腹肌",
+      "onboard_time": 1735086920,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 253149,
@@ -3651,14 +3691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221550,
-      "num": 221550,
-      "word": "圣诞快乐",
-      "onboard_time": 1735081813,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221502,
       "num": 221502,
       "word": "小米SU7获奖2024年度车",
@@ -3680,14 +3712,6 @@
       "word": "虞书欣 吸血鬼之家打卡",
       "onboard_time": 1735048940,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220974,
-      "num": 220974,
-      "word": "李耕耘腹肌",
-      "onboard_time": 1735086920,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4515,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191197,
+      "num": 191197,
+      "word": "罗伯特评论名侦探柯南圣诞图",
+      "onboard_time": 1735086198,
+      "rank": 18,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191196,
       "num": 179799,
       "word": "张真源 LV",
@@ -4867,12 +4899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180136,
-      "num": 180136,
-      "word": "罗伯特评论名侦探柯南圣诞图",
-      "onboard_time": 1735086198,
-      "rank": 18,
-      "category": "动漫"
+      "raw_hot": 180506,
+      "num": 180506,
+      "word": "继搪瓷盆之后爆眼龙又要断货了",
+      "onboard_time": 1735090457,
+      "rank": 32,
+      "category": "科学科普,幽默"
     },
     {
       "raw_hot": 179958,
@@ -5116,7 +5148,7 @@
     },
     {
       "raw_hot": 172147,
-      "num": 172147,
+      "num": 172652,
       "word": "金智秀圣诞营业",
       "onboard_time": 1735087758,
       "rank": 23,
@@ -5401,14 +5433,6 @@
       "onboard_time": 1734957078,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164717,
-      "num": 348810,
-      "word": "2年被家暴16次女生称只接受死刑",
-      "onboard_time": 1735090218,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164602,
@@ -6275,14 +6299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142913,
-      "num": 142913,
-      "word": "继搪瓷盆之后爆眼龙又要断货了",
-      "onboard_time": 1735090457,
-      "rank": 32,
-      "category": "科学科普,幽默"
-    },
-    {
       "raw_hot": 142774,
       "num": 198491,
       "word": "白夜追凶7年后潘粤明变了",
@@ -6859,6 +6875,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 129929,
+      "num": 171496,
+      "word": "陈建斌 都给朕回去回后宫去",
+      "onboard_time": 1735063872,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129585,
       "num": 253131,
       "word": "这是冬至不是开春",
@@ -6980,7 +7004,7 @@
     },
     {
       "raw_hot": 127475,
-      "num": 137949,
+      "num": 171081,
       "word": "张凌赫纯硬帅",
       "onboard_time": 1735085837,
       "rank": 34,
@@ -7161,6 +7185,14 @@
       "onboard_time": 1734862639,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123752,
+      "num": 203893,
+      "word": "查境外电诈关联账号竟然查到农村",
+      "onboard_time": 1735088837,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123674,
@@ -7593,14 +7625,6 @@
       "onboard_time": 1735083016,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114051,
-      "num": 114051,
-      "word": "陈建斌 都给朕回去回后宫去",
-      "onboard_time": 1735063872,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 113924,
@@ -8235,14 +8259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98720,
-      "num": 98720,
-      "word": "查境外电诈关联账号竟然查到农村",
-      "onboard_time": 1735088837,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98539,
       "num": 176173,
       "word": "spicyhoneyrap挑战",
@@ -8315,6 +8331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96537,
+      "num": 168668,
+      "word": "辛巴 少活几十年也要让人记得我",
+      "onboard_time": 1735089558,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 96379,
       "num": 294490,
       "word": "2025WTT大满贯日程全部确定",
@@ -8385,14 +8409,6 @@
       "onboard_time": 1734837317,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 94030,
-      "num": 168668,
-      "word": "辛巴 少活几十年也要让人记得我",
-      "onboard_time": 1735089558,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 93756,
@@ -8513,6 +8529,14 @@
       "onboard_time": 1734928939,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89707,
+      "num": 89707,
+      "word": "上海南站正式升级为高铁站",
+      "onboard_time": 1735091657,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89441,
@@ -9177,6 +9201,14 @@
       "onboard_time": 1734837197,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 68470,
+      "num": 184238,
+      "word": "汪顺回应是否参加洛杉矶奥运会",
+      "onboard_time": 1735090157,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 68383,
@@ -10241,6 +10273,14 @@
       "onboard_time": 1734953598,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45029,
+      "num": 202720,
+      "word": "银行股持续上涨",
+      "onboard_time": 1735091477,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 45024,

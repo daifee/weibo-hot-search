@@ -1,0 +1,410 @@
+{
+  "runTime": 1735091860106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390856,
+        "num": 1390856,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850699,
+        "num": 850699,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38694,
+        "num": 789401,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 771904,
+        "num": 771904,
+        "word": "高会涨价",
+        "onboard_time": 1735087097,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693139,
+        "num": 693139,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 646718,
+        "num": 646718,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681465,
+        "num": 629824,
+        "word": "张颂文自爆曾因长相被剧组打压",
+        "onboard_time": 1735085357,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400741,
+        "num": 400741,
+        "word": "小偷和警察一起看监控被当场拿下",
+        "onboard_time": 1735081514,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371811,
+        "num": 371811,
+        "word": "男子偷手机假装帮寻找没想到有监控",
+        "onboard_time": 1735079531,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277691,
+        "num": 358958,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 514329,
+        "num": 355614,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348850,
+        "num": 348850,
+        "word": "圣诞快乐",
+        "onboard_time": 1735081813,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331595,
+        "num": 331595,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265435,
+        "num": 265435,
+        "word": "林允儿cha了Whiplash",
+        "onboard_time": 1735090877,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264854,
+        "num": 264854,
+        "word": "他困在1996年却推着别人往前走",
+        "onboard_time": 1735050679,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 253343,
+        "num": 253343,
+        "word": "李耕耘腹肌",
+        "onboard_time": 1735086920,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218439,
+        "num": 218439,
+        "word": "医生称臭车司机对异味或已耐受",
+        "onboard_time": 1735051579,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206468,
+        "num": 206468,
+        "word": "A股",
+        "onboard_time": 1735090157,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123752,
+        "num": 203893,
+        "word": "查境外电诈关联账号竟然查到农村",
+        "onboard_time": 1735088837,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45029,
+        "num": 202720,
+        "word": "银行股持续上涨",
+        "onboard_time": 1735091477,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 329405,
+        "num": 202575,
+        "word": "在香港花400万买了15平米的家",
+        "onboard_time": 1735087818,
+        "rank": 20,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 202223,
+        "num": 202223,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191197,
+        "num": 191197,
+        "word": "罗伯特评论名侦探柯南圣诞图",
+        "onboard_time": 1735086198,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186179,
+        "num": 186179,
+        "word": "小S晒与大女儿圣诞合照",
+        "onboard_time": 1735081514,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68470,
+        "num": 184238,
+        "word": "汪顺回应是否参加洛杉矶奥运会",
+        "onboard_time": 1735090157,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183298,
+        "num": 183298,
+        "word": "2024带给我们的Passion",
+        "onboard_time": 1735084816,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 180506,
+        "num": 180506,
+        "word": "继搪瓷盆之后爆眼龙又要断货了",
+        "onboard_time": 1735090457,
+        "rank": 26,
+        "category": "科学科普,幽默"
+      },
+      {
+        "raw_hot": 165431,
+        "num": 172652,
+        "word": "金智秀圣诞营业",
+        "onboard_time": 1735087758,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129929,
+        "num": 171496,
+        "word": "陈建斌 都给朕回去回后宫去",
+        "onboard_time": 1735063872,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122329,
+        "num": 171081,
+        "word": "张凌赫纯硬帅",
+        "onboard_time": 1735085837,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170875,
+        "num": 170875,
+        "word": "2025年全国两会召开日期",
+        "onboard_time": 1735090457,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148123,
+        "num": 148123,
+        "word": "运动20分钟就能抵消熬夜伤害",
+        "onboard_time": 1735060873,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144829,
+        "num": 144829,
+        "word": "美股",
+        "onboard_time": 1735087458,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
+        "onboard_time": 1735087219,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119534,
+        "num": 119534,
+        "word": "敖瑞鹏回应白鹿训猴",
+        "onboard_time": 1735084457,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121079,
+        "num": 119389,
+        "word": "重庆武汉拉萨无锡春晚分会场",
+        "onboard_time": 1735083136,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119163,
+        "num": 119163,
+        "word": "孟子义控泪",
+        "onboard_time": 1735083554,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116980,
+        "num": 116980,
+        "word": "特朗普团队抨击拜登为死囚减刑",
+        "onboard_time": 1735088477,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116345,
+        "num": 116345,
+        "word": "2024哪首歌陪伴过你",
+        "onboard_time": 1735085718,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 113211,
+        "word": "老师带4个月女儿上课成班里团宠",
+        "onboard_time": 1735067473,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 100308,
+        "num": 100308,
+        "word": "丁禹兮虞书欣年度星光墙三四名",
+        "onboard_time": 1735083016,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99727,
+        "num": 99727,
+        "word": "妻儿车祸去世他义务指挥交通35年",
+        "onboard_time": 1735042158,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99643,
+        "num": 99643,
+        "word": "韩国最该申遗的是理发",
+        "onboard_time": 1735083195,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98191,
+        "num": 98191,
+        "word": "因穿高跟鞋走红男子带火一个村",
+        "onboard_time": 1735047619,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96537,
+        "num": 96537,
+        "word": "辛巴 少活几十年也要让人记得我",
+        "onboard_time": 1735089558,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 95671,
+        "num": 95671,
+        "word": "猎罪图鉴2点映",
+        "onboard_time": 1735056557,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89707,
+        "num": 89707,
+        "word": "上海南站正式升级为高铁站",
+        "onboard_time": 1735091657,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88073,
+        "num": 88073,
+        "word": "偶遇王一博冰攀",
+        "onboard_time": 1735084336,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86284,
+        "num": 86284,
+        "word": "5个爸爸为病儿直播跳舞1夜收40万打赏",
+        "onboard_time": 1735089497,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83264,
+        "num": 83264,
+        "word": "新疆伊犁住一晚酒店只要4元",
+        "onboard_time": 1735052541,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
