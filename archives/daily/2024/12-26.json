@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735165239318,
+  "endTime": 1735166284808,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310156,
+      "num": 477559,
+      "word": "女子喝陌生人的水昏迷被拐",
+      "onboard_time": 1735147513,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275954,
       "num": 275954,
       "word": "刘亦菲中学班级合照",
@@ -113,14 +121,6 @@
       "onboard_time": 1735139359,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260548,
-      "num": 375558,
-      "word": "女子喝陌生人的水昏迷被拐",
-      "onboard_time": 1735147513,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249847,
@@ -195,12 +195,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186350,
+      "num": 186350,
+      "word": "失事客机坠毁前面临强烈的GPS干扰",
+      "onboard_time": 1735144575,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "我国青少年抑郁症患病率达15%是谣言",
       "onboard_time": 1735139419,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 180382,
+      "num": 180382,
+      "word": "张馨予把老公名字写进公司",
+      "onboard_time": 1735157111,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 176480,
@@ -267,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137838,
-      "num": 137838,
-      "word": "失事客机坠毁前面临强烈的GPS干扰",
-      "onboard_time": 1735144575,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 137195,
       "num": 137195,
       "word": "猎罪图鉴2大结局",
@@ -289,14 +297,6 @@
       "onboard_time": 1735133480,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127866,
-      "num": 127866,
-      "word": "张馨予把老公名字写进公司",
-      "onboard_time": 1735157111,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 121185,
@@ -403,6 +403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62256,
+      "num": 42396,
+      "word": "月子会所回应60岁孕妇产下男婴",
+      "onboard_time": 1735148953,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61043,
       "num": 61043,
       "word": "一架客机在哈萨克斯坦坠毁",
@@ -411,19 +419,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 57731,
-      "num": 57731,
+      "raw_hot": 60333,
+      "num": 60333,
       "word": "上万农村老人被32个骗子利用洗钱",
       "onboard_time": 1735158071,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49537,
-      "num": 42396,
-      "word": "月子会所回应60岁孕妇产下男婴",
-      "onboard_time": 1735148953,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -515,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35352,
+      "num": 35352,
+      "word": "付辛博颖儿把每天都过成情人节",
+      "onboard_time": 1735164611,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33948,
+      "num": 55583,
+      "word": "中日高级别人文交流磋商达成10项共识",
+      "onboard_time": 1735160351,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30287,
       "num": 30287,
       "word": "员工多歇一天婚假被辞退获赔3.6万",
@@ -523,12 +539,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29190,
-      "num": 29190,
+      "raw_hot": 29782,
+      "num": 29782,
       "word": "哈萨克斯坦坠毁客机挂出7700紧急代码",
       "onboard_time": 1735160291,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29075,
+      "num": 29075,
+      "word": "阿姨用鸡毛复刻凤冠超惊艳",
+      "onboard_time": 1735157831,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 28653,
+      "num": 28653,
+      "word": "肖战梁家辉新片对手戏",
+      "onboard_time": 1735163771,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 28526,
@@ -547,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25781,
+      "num": 73180,
+      "word": "王一博开启极限运动挑战",
+      "onboard_time": 1735164972,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25517,
       "num": 25517,
       "word": "TF四代危险舞蹈版上线",
       "onboard_time": 1735151352,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25261,
+      "num": 182105,
+      "word": "隔屏感受到了在建世界最高桥的震撼",
+      "onboard_time": 1735138400,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25260,
@@ -563,43 +611,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24425,
-      "num": 55583,
-      "word": "中日高级别人文交流磋商达成10项共识",
-      "onboard_time": 1735160351,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22540,
-      "num": 22540,
-      "word": "阿姨用鸡毛复刻凤冠超惊艳",
-      "onboard_time": 1735157831,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 21504,
-      "num": 21504,
-      "word": "肖战梁家辉新片对手戏",
-      "onboard_time": 1735163771,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20620,
-      "num": 127834,
-      "word": "隔屏感受到了在建世界最高桥的震撼",
-      "onboard_time": 1735138400,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 20066,
-      "num": 20066,
-      "word": "付辛博颖儿把每天都过成情人节",
-      "onboard_time": 1735164611,
-      "rank": 41,
+      "raw_hot": 22871,
+      "num": 26064,
+      "word": "宋亚轩胡说八道课堂",
+      "onboard_time": 1735165572,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1735153931,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19284,
-      "num": 19284,
-      "word": "王一博开启极限运动挑战",
-      "onboard_time": 1735164972,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 18439,
@@ -657,6 +665,14 @@
       "onboard_time": 1735147333,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7069,
+      "num": 30163,
+      "word": "李昀锐让孟子义给自己粘名牌",
+      "onboard_time": 1735166233,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 6497,
