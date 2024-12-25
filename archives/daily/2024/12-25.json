@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735130475637,
+  "endTime": 1735131393233,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1261359,
+      "num": 1261359,
+      "word": "黄子韬一天涨粉500万",
+      "onboard_time": 1735127838,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1159929,
       "num": 1159929,
       "word": "日本将对中国游客首设十年多次签证",
@@ -95,14 +103,6 @@
       "num": 1147085,
       "word": "张馨予 不要小看我的网速",
       "onboard_time": 1735101740,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1132025,
-      "num": 1132025,
-      "word": "黄子韬一天涨粉500万",
-      "onboard_time": 1735127838,
       "rank": 1,
       "category": "艺人"
     },
@@ -131,8 +131,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 988916,
-      "num": 405107,
+      "raw_hot": 989427,
+      "num": 989427,
       "word": "猎罪图鉴3",
       "onboard_time": 1735125677,
       "rank": 6,
@@ -177,6 +177,14 @@
       "onboard_time": 1735093576,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 878708,
+      "num": 334856,
+      "word": "张馨予名下公司叫捷捷高",
+      "onboard_time": 1735129399,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 868523,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 664554,
-      "num": 327966,
+      "num": 328466,
       "word": "知否 温柔刀刀刀致命",
       "onboard_time": 1735126578,
       "rank": 7,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 552493,
-      "num": 293958,
+      "num": 326968,
       "word": "权志龙压轴",
       "onboard_time": 1735125978,
       "rank": 27,
@@ -425,14 +433,6 @@
       "onboard_time": 1735081813,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 516376,
-      "num": 289963,
-      "word": "张馨予名下公司叫捷捷高",
-      "onboard_time": 1735129399,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 504769,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390923,
+      "num": 324913,
+      "word": "肖战版郭靖是如何练成的",
+      "onboard_time": 1735127898,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 388611,
       "num": 388611,
       "word": "攒了一年的惊艳瞬间",
@@ -603,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388371,
+      "num": 254432,
+      "word": "向佐 为什么女生穿男装可以",
+      "onboard_time": 1735128499,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 387632,
       "num": 353805,
       "word": "男子1小时买空两家金店投资金条",
@@ -611,20 +627,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384391,
-      "num": 254432,
-      "word": "向佐 为什么女生穿男装可以",
-      "onboard_time": 1735128499,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 382824,
       "num": 382824,
       "word": "宜家自助餐被吐槽太坑",
       "onboard_time": 1735116978,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379328,
+      "num": 253914,
+      "word": "柳智敏好辣",
+      "onboard_time": 1735128558,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 376959,
@@ -699,12 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346336,
-      "num": 272498,
-      "word": "肖战版郭靖是如何练成的",
-      "onboard_time": 1735127898,
-      "rank": 14,
-      "category": "电影"
+      "raw_hot": 343514,
+      "num": 193833,
+      "word": "SBS你耍我",
+      "onboard_time": 1735130779,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 329405,
@@ -721,6 +737,14 @@
       "onboard_time": 1735036759,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324611,
+      "num": 324611,
+      "word": "男子从情人车中摔出身亡妻子索赔60万",
+      "onboard_time": 1735129819,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321629,
@@ -819,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292853,
-      "num": 253914,
-      "word": "柳智敏好辣",
-      "onboard_time": 1735128558,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 290598,
       "num": 290598,
       "word": "长白山云顶天宫主体基本完工",
@@ -881,6 +897,14 @@
       "onboard_time": 1735094057,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265585,
+      "num": 265585,
+      "word": "日本地铁偶遇蔡依林",
+      "onboard_time": 1735129938,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 265545,
@@ -1299,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198376,
+      "num": 198376,
+      "word": "中国人超爱的如意原型竟是它",
+      "onboard_time": 1735130238,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196967,
       "num": 196967,
       "word": "时代峰峻商业版图盘点",
@@ -1379,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188881,
+      "num": 188881,
+      "word": "国色芳华评级",
+      "onboard_time": 1735130538,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188838,
       "num": 188838,
       "word": "gidle小麋鹿造型",
@@ -1419,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186594,
+      "num": 186594,
+      "word": "你好星期六",
+      "onboard_time": 1735130658,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185632,
       "num": 185632,
       "word": "河南上万农村老人个人信息被窃取",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1735090457,
       "rank": 32,
       "category": "科学科普,幽默"
+    },
+    {
+      "raw_hot": 180444,
+      "num": 254323,
+      "word": "王楚钦拜访恩师刘国正夫妇",
+      "onboard_time": 1735129759,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 180392,
@@ -1659,14 +1715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164586,
-      "num": 164586,
-      "word": "中国人超爱的如意原型竟是它",
-      "onboard_time": 1735130238,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164302,
       "num": 164302,
       "word": "宁艺卓没有特别舞台",
@@ -1771,6 +1819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158238,
+      "num": 311243,
+      "word": "无案可办的律师涌进三甲医院骨科病房",
+      "onboard_time": 1735129037,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158213,
       "num": 158213,
       "word": "被家暴女子遭男方恐吓全家绝种",
@@ -1867,6 +1923,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151944,
+      "num": 151944,
+      "word": "汪苏泷真把游乐园搬进演唱会了",
+      "onboard_time": 1735130297,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151913,
       "num": 151913,
       "word": "真理之下",
@@ -1905,22 +1969,6 @@
       "onboard_time": 1735123158,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150693,
-      "num": 311243,
-      "word": "无案可办的律师涌进三甲医院骨科病房",
-      "onboard_time": 1735129037,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149044,
-      "num": 254942,
-      "word": "日本地铁偶遇蔡依林",
-      "onboard_time": 1735129938,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 147222,
@@ -2019,14 +2067,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 140621,
-      "num": 140621,
-      "word": "汪苏泷真把游乐园搬进演唱会了",
-      "onboard_time": 1735130297,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 140520,
       "num": 196470,
       "word": "丁程鑫毕业大戏杀青",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1735124659,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139872,
+      "num": 139872,
+      "word": "沈梦辰生图直出",
+      "onboard_time": 1735131078,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139842,
@@ -2073,14 +2121,6 @@
       "onboard_time": 1735111217,
       "rank": 19,
       "category": "艺人,艺人"
-    },
-    {
-      "raw_hot": 136970,
-      "num": 254323,
-      "word": "王楚钦拜访恩师刘国正夫妇",
-      "onboard_time": 1735129759,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 136899,
@@ -2281,14 +2321,6 @@
       "onboard_time": 1735094898,
       "rank": 35,
       "category": "军事"
-    },
-    {
-      "raw_hot": 122879,
-      "num": 277709,
-      "word": "男子从情人车中摔出身亡妻子索赔60万",
-      "onboard_time": 1735129819,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122272,
@@ -2523,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103242,
+      "num": 186810,
+      "word": "王栎鑫带家人游玩迪拜",
+      "onboard_time": 1735131019,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103184,
       "num": 262590,
       "word": "王暖暖声援小谢称家暴不是家事",
@@ -2585,6 +2625,14 @@
       "onboard_time": 1735113737,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94287,
+      "num": 255030,
+      "word": "猎罪图鉴最喜欢的案子",
+      "onboard_time": 1735129938,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 93918,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1735082116,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87576,
+      "num": 194730,
+      "word": "妖刀姬臻华皮肤",
+      "onboard_time": 1735130958,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 86518,
@@ -2889,6 +2945,14 @@
       "onboard_time": 1735099337,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64697,
+      "num": 330778,
+      "word": "塔斯汀吃出生肉当事人称已获赔偿",
+      "onboard_time": 1735130538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64143,
@@ -3211,14 +3275,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 36032,
-      "num": 255030,
-      "word": "猎罪图鉴最喜欢的案子",
-      "onboard_time": 1735129938,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 35537,
       "num": 259450,
       "word": "烧伤妈妈回忆事发情景",
@@ -3291,6 +3347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26780,
+      "num": 254095,
+      "word": "领克全新旗舰车型谍照曝光",
+      "onboard_time": 1735127238,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26197,
       "num": 300256,
       "word": "刘诗诗VOGUE香港版封面",
@@ -3361,14 +3425,6 @@
       "onboard_time": 1735115178,
       "rank": 28,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 23374,
-      "num": 254095,
-      "word": "领克全新旗舰车型谍照曝光",
-      "onboard_time": 1735127238,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 23283,
@@ -3499,6 +3555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 15825,
+      "num": 333041,
+      "word": "官方通报学生自杀与学校无关承诺书",
+      "onboard_time": 1735131259,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 15763,
       "num": 31339,
       "word": "向志愿军忠烈致敬",
@@ -3545,6 +3609,14 @@
       "onboard_time": 1735082355,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7771,
+      "num": 200768,
+      "word": "大奉打更人主演曲库",
+      "onboard_time": 1735131140,
+      "rank": 18,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

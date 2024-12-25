@@ -1,0 +1,410 @@
+{
+  "runTime": 1735131393233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1261359,
+        "num": 1261359,
+        "word": "黄子韬一天涨粉500万",
+        "onboard_time": 1735127838,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1178523,
+        "num": 1178523,
+        "word": "一中学学生签自杀与学校无关承诺书",
+        "onboard_time": 1735125137,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52744,
+        "num": 990822,
+        "word": "传承3000多年的非遗黎锦美学满满",
+        "onboard_time": 1735121057,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 989427,
+        "num": 989427,
+        "word": "猎罪图鉴3",
+        "onboard_time": 1735125677,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840045,
+        "num": 840045,
+        "word": "父母割皮10次给烧伤儿子植皮",
+        "onboard_time": 1735126938,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336165,
+        "num": 336165,
+        "word": "日本将对中国游客首设十年多次签证",
+        "onboard_time": 1735118058,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 878708,
+        "num": 334856,
+        "word": "张馨予名下公司叫捷捷高",
+        "onboard_time": 1735129399,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873145,
+        "num": 334203,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15825,
+        "num": 333041,
+        "word": "官方通报学生自杀与学校无关承诺书",
+        "onboard_time": 1735131259,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 64697,
+        "num": 330778,
+        "word": "塔斯汀吃出生肉当事人称已获赔偿",
+        "onboard_time": 1735130538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556364,
+        "num": 330104,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 491478,
+        "num": 328466,
+        "word": "知否 温柔刀刀刀致命",
+        "onboard_time": 1735126578,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481081,
+        "num": 326968,
+        "word": "权志龙压轴",
+        "onboard_time": 1735125978,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 390923,
+        "num": 324913,
+        "word": "肖战版郭靖是如何练成的",
+        "onboard_time": 1735127898,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324611,
+        "num": 324611,
+        "word": "男子从情人车中摔出身亡妻子索赔60万",
+        "onboard_time": 1735129819,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265585,
+        "num": 265585,
+        "word": "日本地铁偶遇蔡依林",
+        "onboard_time": 1735129938,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261007,
+        "num": 261007,
+        "word": "外媒公布哈萨克斯坦坠机事故中乘客国籍",
+        "onboard_time": 1735116679,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210207,
+        "num": 210207,
+        "word": "新华社评2024年中国十佳运动员",
+        "onboard_time": 1735113858,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7771,
+        "num": 200768,
+        "word": "大奉打更人主演曲库",
+        "onboard_time": 1735131140,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198376,
+        "num": 198376,
+        "word": "中国人超爱的如意原型竟是它",
+        "onboard_time": 1735130238,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399086,
+        "num": 197827,
+        "word": "王诗龄被刘亦菲抱着",
+        "onboard_time": 1735122919,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388371,
+        "num": 197180,
+        "word": "向佐 为什么女生穿男装可以",
+        "onboard_time": 1735128499,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379328,
+        "num": 196415,
+        "word": "柳智敏好辣",
+        "onboard_time": 1735128558,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359195,
+        "num": 195253,
+        "word": "杜城被捅",
+        "onboard_time": 1735128679,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87576,
+        "num": 194730,
+        "word": "妖刀姬臻华皮肤",
+        "onboard_time": 1735130958,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343514,
+        "num": 193833,
+        "word": "SBS你耍我",
+        "onboard_time": 1735130779,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 245098,
+        "num": 193134,
+        "word": "黄子韬账号带货月销售额近2500万元",
+        "onboard_time": 1735117099,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236955,
+        "num": 191626,
+        "word": "60岁高龄孕妇剖宫产下男婴",
+        "onboard_time": 1735117159,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57530,
+        "num": 191133,
+        "word": "王暖暖声援小谢称家暴不是家事",
+        "onboard_time": 1735129459,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228097,
+        "num": 190400,
+        "word": "猎罪图鉴2大结局",
+        "onboard_time": 1735121778,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226228,
+        "num": 189317,
+        "word": "ITZY 申留真",
+        "onboard_time": 1735128199,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188881,
+        "num": 188881,
+        "word": "国色芳华评级",
+        "onboard_time": 1735130538,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180444,
+        "num": 187139,
+        "word": "王楚钦拜访恩师刘国正夫妇",
+        "onboard_time": 1735129759,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103242,
+        "num": 186810,
+        "word": "王栎鑫带家人游玩迪拜",
+        "onboard_time": 1735131019,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186594,
+        "num": 186594,
+        "word": "你好星期六",
+        "onboard_time": 1735130658,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181198,
+        "num": 181198,
+        "word": "孟子义李昀锐怎么还有售后",
+        "onboard_time": 1735126338,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169121,
+        "num": 169121,
+        "word": "波司登700元3克绒羽绒裤已下架",
+        "onboard_time": 1735117637,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168145,
+        "num": 168145,
+        "word": "赵一博串门探班沈月",
+        "onboard_time": 1735122199,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162329,
+        "num": 162329,
+        "word": "只有安宥真穿了黑裙",
+        "onboard_time": 1735112778,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158238,
+        "num": 158238,
+        "word": "无案可办的律师涌进三甲医院骨科病房",
+        "onboard_time": 1735129037,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26780,
+        "num": 158125,
+        "word": "领克全新旗舰车型谍照曝光",
+        "onboard_time": 1735127238,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 94287,
+        "num": 158106,
+        "word": "猎罪图鉴最喜欢的案子",
+        "onboard_time": 1735129938,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158100,
+        "num": 158100,
+        "word": "山姆代购每月返现可高达万元",
+        "onboard_time": 1735115058,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157309,
+        "num": 157309,
+        "word": "城翊 这不是表白是什么",
+        "onboard_time": 1735126399,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151944,
+        "num": 151944,
+        "word": "汪苏泷真把游乐园搬进演唱会了",
+        "onboard_time": 1735130297,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151757,
+        "num": 151757,
+        "word": "一架客机在哈萨克斯坦坠毁",
+        "onboard_time": 1735111519,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 139872,
+        "num": 139872,
+        "word": "沈梦辰生图直出",
+        "onboard_time": 1735131078,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135562,
+        "num": 135562,
+        "word": "当地回应学生自杀与学校无关承诺书",
+        "onboard_time": 1735126578,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135503,
+        "num": 135503,
+        "word": "哈萨克斯坦坠机事件被刑事立案",
+        "onboard_time": 1735128199,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135162,
+        "num": 135162,
+        "word": "gidle小麋鹿造型",
+        "onboard_time": 1735129339,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}
