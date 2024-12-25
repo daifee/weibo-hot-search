@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735133149463,
+  "endTime": 1735133833033,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 757541,
-      "num": 479144,
+      "num": 505881,
       "word": "SBS你耍我",
       "onboard_time": 1735130779,
       "rank": 25,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 682701,
+      "num": 439207,
+      "word": "向佐 为什么女生穿男装可以",
+      "onboard_time": 1735128499,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 677456,
       "num": 677456,
       "word": "猎罪2李媛 畸形的虐恋太危险",
@@ -345,14 +353,6 @@
       "onboard_time": 1735027158,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 654343,
-      "num": 433912,
-      "word": "向佐 为什么女生穿男装可以",
-      "onboard_time": 1735128499,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 652518,
@@ -425,6 +425,14 @@
       "onboard_time": 1735125978,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 546146,
+      "num": 546146,
+      "word": "塔斯汀吃出生肉当事人称已获赔偿",
+      "onboard_time": 1735130538,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539871,
@@ -504,14 +512,6 @@
       "word": "小偷和警察一起看监控被当场拿下",
       "onboard_time": 1735081514,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 459921,
-      "num": 459921,
-      "word": "塔斯汀吃出生肉当事人称已获赔偿",
-      "onboard_time": 1735130538,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366241,
+      "num": 253663,
+      "word": "权志龙躺着被路过",
+      "onboard_time": 1735132639,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 363005,
       "num": 363005,
       "word": "火箭少女将合体",
@@ -761,6 +769,14 @@
       "onboard_time": 1735087818,
       "rank": 20,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 327218,
+      "num": 265585,
+      "word": "日本地铁偶遇蔡依林",
+      "onboard_time": 1735129938,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 326282,
@@ -867,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295346,
+      "num": 251255,
+      "word": "心理画像专家刘锋评猎罪图鉴2",
+      "onboard_time": 1735132340,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290598,
       "num": 290598,
       "word": "长白山云顶天宫主体基本完工",
@@ -881,14 +905,6 @@
       "onboard_time": 1735103418,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 287101,
-      "num": 265585,
-      "word": "日本地铁偶遇蔡依林",
-      "onboard_time": 1735129938,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 286560,
@@ -979,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256475,
+      "num": 256475,
+      "word": "王楚钦拜访恩师刘国正夫妇",
+      "onboard_time": 1735129759,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253343,
       "num": 253343,
       "word": "李耕耘腹肌",
@@ -1019,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251287,
-      "num": 254323,
-      "word": "王楚钦拜访恩师刘国正夫妇",
-      "onboard_time": 1735129759,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "第五人格",
@@ -1056,14 +1072,6 @@
       "word": "ITZY 申留真",
       "onboard_time": 1735128199,
       "rank": 29,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 246467,
-      "num": 246467,
-      "word": "权志龙躺着被路过",
-      "onboard_time": 1735132639,
-      "rank": 31,
       "category": "音乐"
     },
     {
@@ -1403,11 +1411,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196444,
-      "num": 251255,
-      "word": "心理画像专家刘锋评猎罪图鉴2",
-      "onboard_time": 1735132340,
-      "rank": 18,
+      "raw_hot": 196042,
+      "num": 196042,
+      "word": "山河枕",
+      "onboard_time": 1735133480,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1433,6 +1441,14 @@
       "onboard_time": 1735122199,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191998,
+      "num": 191998,
+      "word": "知否四大吵架王常看常爽",
+      "onboard_time": 1735132519,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 191197,
@@ -1547,12 +1563,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181389,
+      "num": 181389,
+      "word": "王暖暖和被家暴16次女子拥抱",
+      "onboard_time": 1735130118,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180506,
       "num": 180506,
       "word": "继搪瓷盆之后爆眼龙又要断货了",
       "onboard_time": 1735090457,
       "rank": 32,
       "category": "科学科普,幽默"
+    },
+    {
+      "raw_hot": 180469,
+      "num": 180469,
+      "word": "肖战说打动人的永远是真挚情感",
+      "onboard_time": 1735133360,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 180392,
@@ -1739,6 +1771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 165181,
+      "num": 165181,
+      "word": "个人养老金账户能注销吗",
+      "onboard_time": 1735132579,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165000,
       "num": 165000,
       "word": "费翔路演 纣王变海王",
@@ -1833,14 +1873,6 @@
       "onboard_time": 1735122978,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159676,
-      "num": 137728,
-      "word": "知否四大吵架王常看常爽",
-      "onboard_time": 1735132519,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 159581,
@@ -1985,6 +2017,14 @@
       "onboard_time": 1735067473,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152133,
+      "num": 152133,
+      "word": "喂119一只老鹰屁股被冻冰上了",
+      "onboard_time": 1735130358,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151944,
@@ -2195,14 +2235,6 @@
       "category": "艺人,艺人"
     },
     {
-      "raw_hot": 137776,
-      "num": 137776,
-      "word": "喂119一只老鹰屁股被冻冰上了",
-      "onboard_time": 1735130358,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136899,
       "num": 136899,
       "word": "芒果台皮肤20年换了20次",
@@ -2227,14 +2259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135325,
-      "num": 135325,
-      "word": "王暖暖和被家暴16次女子拥抱",
-      "onboard_time": 1735130118,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134574,
       "num": 204974,
       "word": "孙颖莎受邀2025乒乓球亚洲杯",
@@ -2249,14 +2273,6 @@
       "onboard_time": 1735117218,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133734,
-      "num": 133734,
-      "word": "个人养老金账户能注销吗",
-      "onboard_time": 1735132579,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133326,
@@ -2755,6 +2771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 92174,
+      "num": 255803,
+      "word": "撒贝宁给何炅发信息",
+      "onboard_time": 1735133538,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90252,
       "num": 90252,
       "word": "王嘉尔发GOT7合照",
@@ -3012,7 +3036,7 @@
     },
     {
       "raw_hot": 68026,
-      "num": 137772,
+      "num": 192746,
       "word": "冰雪旅游",
       "onboard_time": 1735132939,
       "rank": 39,
@@ -3041,6 +3065,14 @@
       "onboard_time": 1735121057,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 66573,
+      "num": 447634,
+      "word": "神秘买家扫货法拍房已豪掷6300万",
+      "onboard_time": 1735132219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65879,
@@ -3107,6 +3139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58628,
+      "num": 255233,
+      "word": "大学生花9000元买来一张实习证明",
+      "onboard_time": 1735133360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
@@ -3129,14 +3169,6 @@
       "onboard_time": 1735093817,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 56587,
-      "num": 438666,
-      "word": "神秘买家扫货法拍房已豪掷6300万",
-      "onboard_time": 1735132219,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56161,
@@ -3323,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40892,
+      "num": 252231,
+      "word": "四季照片告别2024",
+      "onboard_time": 1735133538,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 39193,
       "num": 39193,
       "word": "外交部发布海外旅行安全锦囊",
@@ -3371,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36809,
+      "num": 250867,
+      "word": "黄子弘凡给今年的自己打82分",
+      "onboard_time": 1735132158,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36279,
       "num": 44009,
       "word": "TES对战iG",
@@ -3387,12 +3435,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 35711,
+      "num": 377401,
+      "word": "百万粉丝博主5万元可定制测评视频",
+      "onboard_time": 1735133120,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35537,
       "num": 259450,
       "word": "烧伤妈妈回忆事发情景",
       "onboard_time": 1735111519,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34512,
+      "num": 251402,
+      "word": "开展专项债券项目自审自发试点",
+      "onboard_time": 1735133599,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 33826,
@@ -3459,12 +3523,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 28940,
-      "num": 377401,
-      "word": "百万粉丝博主5万元可定制测评视频",
-      "onboard_time": 1735133120,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 29357,
+      "num": 256328,
+      "word": "为什么今年博物馆文创这么火",
+      "onboard_time": 1735132699,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 28645,
+      "num": 154524,
+      "word": "李想要做人工智能企业CEO",
+      "onboard_time": 1735133480,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 26780,
@@ -3473,14 +3545,6 @@
       "onboard_time": 1735127238,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 26754,
-      "num": 250430,
-      "word": "黄子弘凡给今年的自己打82分",
-      "onboard_time": 1735132158,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26197,
@@ -3587,12 +3651,28 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 21870,
+      "num": 253216,
+      "word": "无畏 发财圣诞版",
+      "onboard_time": 1735132158,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 21638,
       "num": 21638,
       "word": "许个星愿",
       "onboard_time": 1735064951,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21067,
+      "num": 193665,
+      "word": "东京偶遇李荣浩杨丞琳",
+      "onboard_time": 1735128319,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 21064,
@@ -3699,14 +3779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13623,
-      "num": 251147,
-      "word": "为什么今年博物馆文创这么火",
-      "onboard_time": 1735132699,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 10579,
       "num": 119039,
       "word": "怪物猎人旅人过审",
@@ -3721,6 +3793,14 @@
       "onboard_time": 1735060633,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8620,
+      "num": 251695,
+      "word": "周震南东北零下二十度嘴真硬",
+      "onboard_time": 1735133778,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 8516,
