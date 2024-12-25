@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735144915638,
+  "endTime": 1735147244871,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328947,
+      "num": 328947,
+      "word": "一农民卖羊肉赚180元收到10万罚单",
+      "onboard_time": 1735142718,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327600,
       "num": 327600,
       "word": "猎罪图鉴3",
@@ -107,11 +115,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254766,
-      "num": 254766,
-      "word": "一农民卖羊肉赚180元收到10万罚单",
-      "onboard_time": 1735142718,
-      "rank": 18,
+      "raw_hot": 249847,
+      "num": 317240,
+      "word": "有38人在客机失事中丧生",
+      "onboard_time": 1735143855,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 239530,
+      "num": 239530,
+      "word": "家暴16次案男子当庭否认施暴",
+      "onboard_time": 1735142957,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -179,20 +195,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 176480,
+      "num": 176480,
+      "word": "钱天一国家队十年发博",
+      "onboard_time": 1735142297,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176226,
       "num": 176226,
       "word": "韩安冉说网红圈太乱了",
       "onboard_time": 1735139958,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 174659,
-      "num": 317240,
-      "word": "有38人在客机失事中丧生",
-      "onboard_time": 1735143855,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172314,
@@ -209,14 +225,6 @@
       "onboard_time": 1735133538,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172192,
-      "num": 172192,
-      "word": "钱天一国家队十年发博",
-      "onboard_time": 1735142297,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 166013,
@@ -243,11 +251,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158025,
-      "num": 158025,
-      "word": "家暴16次案男子当庭否认施暴",
-      "onboard_time": 1735142957,
-      "rank": 34,
+      "raw_hot": 147815,
+      "num": 180402,
+      "word": "你晚上一般几点睡觉",
+      "onboard_time": 1735141998,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -272,14 +280,6 @@
       "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
       "onboard_time": 1735138999,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119680,
-      "num": 119680,
-      "word": "你晚上一般几点睡觉",
-      "onboard_time": 1735141998,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -321,6 +321,14 @@
       "onboard_time": 1735136180,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99499,
+      "num": 99499,
+      "word": "失事客机坠毁前面临强烈的GPS干扰",
+      "onboard_time": 1735144575,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96185,
@@ -371,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 77101,
-      "num": 77101,
-      "word": "失事客机坠毁前面临强烈的GPS干扰",
-      "onboard_time": 1735144575,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 63181,
       "num": 63181,
       "word": "柳智敏好辣",
@@ -411,11 +411,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46400,
+      "num": 46400,
+      "word": "猎罪图鉴2伏笔",
+      "onboard_time": 1735141937,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46296,
       "num": 164204,
       "word": "樊振东正反手攻球教学",
       "onboard_time": 1735137861,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 40595,
+      "num": 43131,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1735123038,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35601,
+      "num": 82672,
+      "word": "2024哪位运动员鼓舞了你",
+      "onboard_time": 1735146135,
+      "rank": 24,
       "category": "体育"
     },
     {
