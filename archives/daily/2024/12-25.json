@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735136406229,
+  "endTime": 1735137476401,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 912767,
-      "num": 563582,
+      "num": 612794,
       "word": "张馨予名下公司叫捷捷高",
       "onboard_time": 1735129399,
       "rank": 12,
@@ -275,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 713002,
+      "num": 533851,
+      "word": "撒贝宁给何炅发信息",
+      "onboard_time": 1735133538,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710809,
       "num": 710809,
       "word": "SBS歌谣大战",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 682815,
-      "num": 439207,
+      "num": 520840,
       "word": "向佐 为什么女生穿男装可以",
       "onboard_time": 1735128499,
       "rank": 22,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 663993,
+      "num": 663993,
+      "word": "塔斯汀回应汉堡里吃出生肉",
+      "onboard_time": 1735134018,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662686,
       "num": 662686,
       "word": "官方通报学生自杀与学校无关承诺书",
@@ -363,6 +379,14 @@
       "category": "旅游,艺人"
     },
     {
+      "raw_hot": 640687,
+      "num": 320369,
+      "word": "山河枕",
+      "onboard_time": 1735133480,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636078,
       "num": 423032,
       "word": "女子反复流产原因出在男方",
@@ -371,12 +395,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 635198,
-      "num": 329782,
-      "word": "撒贝宁给何炅发信息",
-      "onboard_time": 1735133538,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 627948,
+      "num": 311643,
+      "word": "权志龙红色高跟鞋",
+      "onboard_time": 1735135399,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 627046,
@@ -387,14 +411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 613145,
-      "num": 613145,
-      "word": "塔斯汀回应汉堡里吃出生肉",
-      "onboard_time": 1735134018,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 607031,
       "num": 488799,
       "word": "长春坠江私家车内有孕妇",
@@ -403,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 602538,
-      "num": 319006,
-      "word": "山河枕",
-      "onboard_time": 1735133480,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 595422,
+      "num": 595422,
+      "word": "女子婚礼前一天被拒婚假遭公司辞退",
+      "onboard_time": 1735135459,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572752,
@@ -417,6 +433,14 @@
       "onboard_time": 1735092797,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563582,
+      "num": 563582,
+      "word": "蛇年纪念钞溢价到1000元一套",
+      "onboard_time": 1735134500,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557277,
@@ -499,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 503934,
+      "num": 503934,
+      "word": "手脚冰凉是身体的自我保护",
+      "onboard_time": 1735135280,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 484221,
       "num": 399931,
       "word": "60岁高龄孕妇剖宫产下男婴",
@@ -556,7 +588,7 @@
     },
     {
       "raw_hot": 452867,
-      "num": 253663,
+      "num": 271925,
       "word": "权志龙躺着被路过",
       "onboard_time": 1735132639,
       "rank": 31,
@@ -649,14 +681,6 @@
       "onboard_time": 1735131439,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 404080,
-      "num": 404080,
-      "word": "蛇年纪念钞溢价到1000元一套",
-      "onboard_time": 1735134500,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401579,
@@ -779,14 +803,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 352295,
-      "num": 229768,
-      "word": "权志龙红色高跟鞋",
-      "onboard_time": 1735135399,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 351297,
       "num": 351297,
       "word": "失事客机上没有中国乘客",
@@ -881,6 +897,14 @@
       "onboard_time": 1735111639,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311904,
+      "num": 269324,
+      "word": "刘亦菲全榜第一",
+      "onboard_time": 1735136420,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310252,
@@ -1003,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 264693,
+      "num": 264693,
+      "word": "五年前的李昀锐敖瑞鹏",
+      "onboard_time": 1735136299,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264422,
       "num": 264422,
       "word": "小米su7被大众追尾后者当场起火",
@@ -1040,6 +1072,14 @@
       "word": "王楚钦拜访恩师刘国正夫妇",
       "onboard_time": 1735129759,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 253620,
+      "num": 253620,
+      "word": "王楚钦挽妈妈手逛街",
+      "onboard_time": 1735134378,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1115,12 +1155,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 244030,
-      "num": 244030,
-      "word": "手脚冰凉是身体的自我保护",
-      "onboard_time": 1735135280,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 247122,
+      "num": 268326,
+      "word": "腾讯认证的待爆帝",
+      "onboard_time": 1735136180,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 240799,
@@ -1187,28 +1227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231309,
-      "num": 332702,
-      "word": "被家暴16次女子最怕孩子问身上伤口",
-      "onboard_time": 1735101140,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229799,
-      "num": 229799,
+      "raw_hot": 231348,
+      "num": 231348,
       "word": "圣诞节",
       "onboard_time": 1735135879,
       "rank": 19,
       "category": "情感"
     },
     {
-      "raw_hot": 229718,
-      "num": 229718,
-      "word": "王楚钦挽妈妈手逛街",
-      "onboard_time": 1735134378,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 231309,
+      "num": 332702,
+      "word": "被家暴16次女子最怕孩子问身上伤口",
+      "onboard_time": 1735101140,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227763,
@@ -1507,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195920,
+      "num": 275018,
+      "word": "女子两年被家暴16次案择期宣判",
+      "onboard_time": 1735135758,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
@@ -1523,27 +1563,11 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 195366,
-      "num": 343204,
-      "word": "女子婚礼前一天被拒婚假遭公司辞退",
-      "onboard_time": 1735135459,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194949,
       "num": 194949,
       "word": "个人养老金账户能注销吗",
       "onboard_time": 1735132579,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194456,
-      "num": 194456,
-      "word": "女子两年被家暴16次案择期宣判",
-      "onboard_time": 1735135758,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1553,6 +1577,14 @@
       "onboard_time": 1735122199,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192746,
+      "num": 192746,
+      "word": "网传孟子义将常驻hi6",
+      "onboard_time": 1735137379,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 191998,
@@ -1611,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188760,
+      "num": 188760,
+      "word": "坠机事故生还人数升至32人",
+      "onboard_time": 1735137320,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 188750,
       "num": 188750,
       "word": "敖子逸生日直播幸运转盘",
@@ -1625,6 +1665,14 @@
       "onboard_time": 1735116559,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187333,
+      "num": 187333,
+      "word": "鱿鱼游戏2",
+      "onboard_time": 1735136840,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 187248,
@@ -1683,6 +1731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181739,
+      "num": 181739,
+      "word": "猎罪图鉴2 富婆是寸头姐",
+      "onboard_time": 1735136898,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180506,
       "num": 180506,
       "word": "继搪瓷盆之后爆眼龙又要断货了",
@@ -1704,6 +1760,14 @@
       "word": "宴遇永安杀青",
       "onboard_time": 1735102758,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179254,
+      "num": 179254,
+      "word": "第一次见这么i的剧组",
+      "onboard_time": 1735137200,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2011,7 +2075,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158295,
+      "raw_hot": 158643,
       "num": 229741,
       "word": "蔡依林 你的距离和我只差零点几毫米",
       "onboard_time": 1735134199,
@@ -2251,14 +2315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144624,
-      "num": 144624,
-      "word": "五年前的李昀锐敖瑞鹏",
-      "onboard_time": 1735136299,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144251,
       "num": 164025,
       "word": "孟子义控泪",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1735095497,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 140478,
-      "num": 227744,
-      "word": "腾讯认证的待爆帝",
-      "onboard_time": 1735136180,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 140467,
@@ -2835,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100010,
+      "num": 286941,
+      "word": "1分钟视频回顾哈萨克斯坦坠机",
+      "onboard_time": 1735136001,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99590,
       "num": 99590,
       "word": "上海南站正式升级为高铁站",
@@ -3131,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70137,
+      "num": 625666,
+      "word": "外国客商趁240小时免签来义乌面谈生意",
+      "onboard_time": 1735120937,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 69074,
       "num": 70809,
       "word": "张凌赫不愧是可以徒嘴剥虾的男人",
@@ -3275,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57450,
+      "num": 243602,
+      "word": "律师称家暴判死刑已有过先例",
+      "onboard_time": 1735136240,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
@@ -3321,14 +3393,6 @@
       "onboard_time": 1735100840,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54025,
-      "num": 280163,
-      "word": "1分钟视频回顾哈萨克斯坦坠机",
-      "onboard_time": 1735136001,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 53375,
@@ -3483,14 +3547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41471,
-      "num": 567555,
-      "word": "外国客商趁240小时免签来义乌面谈生意",
-      "onboard_time": 1735120937,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 41035,
       "num": 206072,
       "word": "蔷薇风暴定档",
@@ -3603,6 +3659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 34385,
+      "num": 277272,
+      "word": "李想要做人工智能企业CEO",
+      "onboard_time": 1735133480,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33826,
       "num": 163831,
       "word": "国产车为什么更抗造",
@@ -3633,14 +3697,6 @@
       "onboard_time": 1735123938,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31888,
-      "num": 228282,
-      "word": "律师称家暴判死刑已有过先例",
-      "onboard_time": 1735136240,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31648,
@@ -3681,14 +3737,6 @@
       "onboard_time": 1735132699,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 28645,
-      "num": 245160,
-      "word": "李想要做人工智能企业CEO",
-      "onboard_time": 1735133480,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 26780,
@@ -3859,6 +3907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19473,
+      "num": 187591,
+      "word": "吉林雪景之旅尽享冰雪魅力",
+      "onboard_time": 1735136660,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 18994,
       "num": 255845,
       "word": "和2024年一起告别的还有它们",
@@ -3881,6 +3937,14 @@
       "onboard_time": 1735064472,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18305,
+      "num": 276517,
+      "word": "张小斐新片恶意明年上映",
+      "onboard_time": 1735137140,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 17091,
@@ -3985,6 +4049,14 @@
       "onboard_time": 1735131140,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 6654,
+      "num": 154751,
+      "word": "旅行团的周末玩具智界R7",
+      "onboard_time": 1735137379,
+      "rank": 49,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735137476401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1337490,
+        "num": 1337490,
+        "word": "黄子韬一天涨粉500万",
+        "onboard_time": 1735127838,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663993,
+        "num": 663993,
+        "word": "塔斯汀回应汉堡里吃出生肉",
+        "onboard_time": 1735134018,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70137,
+        "num": 625666,
+        "word": "外国客商趁240小时免签来义乌面谈生意",
+        "onboard_time": 1735120937,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 739356,
+        "num": 612794,
+        "word": "张馨予名下公司叫捷捷高",
+        "onboard_time": 1735129399,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595422,
+        "num": 595422,
+        "word": "女子婚礼前一天被拒婚假遭公司辞退",
+        "onboard_time": 1735135459,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563582,
+        "num": 563582,
+        "word": "蛇年纪念钞溢价到1000元一套",
+        "onboard_time": 1735134500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 713002,
+        "num": 533851,
+        "word": "撒贝宁给何炅发信息",
+        "onboard_time": 1735133538,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 680947,
+        "num": 520840,
+        "word": "向佐 为什么女生穿男装可以",
+        "onboard_time": 1735128499,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 503934,
+        "num": 503934,
+        "word": "手脚冰凉是身体的自我保护",
+        "onboard_time": 1735135280,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321110,
+        "num": 321110,
+        "word": "塔斯汀吃出生肉当事人称已获赔偿",
+        "onboard_time": 1735130538,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 640687,
+        "num": 320369,
+        "word": "山河枕",
+        "onboard_time": 1735133480,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627948,
+        "num": 311643,
+        "word": "权志龙红色高跟鞋",
+        "onboard_time": 1735135399,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 623777,
+        "num": 301395,
+        "word": "猎罪图鉴3",
+        "onboard_time": 1735125677,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508085,
+        "num": 297336,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100010,
+        "num": 286941,
+        "word": "1分钟视频回顾哈萨克斯坦坠机",
+        "onboard_time": 1735136001,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 385785,
+        "num": 281685,
+        "word": "SBS你耍我",
+        "onboard_time": 1735130779,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278266,
+        "num": 278266,
+        "word": "官方通报学生自杀与学校无关承诺书",
+        "onboard_time": 1735131259,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34385,
+        "num": 277272,
+        "word": "李想要做人工智能企业CEO",
+        "onboard_time": 1735133480,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18305,
+        "num": 276517,
+        "word": "张小斐新片恶意明年上映",
+        "onboard_time": 1735137140,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195920,
+        "num": 275018,
+        "word": "女子两年被家暴16次案择期宣判",
+        "onboard_time": 1735135758,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391630,
+        "num": 273709,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 354867,
+        "num": 271925,
+        "word": "权志龙躺着被路过",
+        "onboard_time": 1735132639,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 311904,
+        "num": 269324,
+        "word": "刘亦菲全榜第一",
+        "onboard_time": 1735136420,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247122,
+        "num": 268326,
+        "word": "腾讯认证的待爆帝",
+        "onboard_time": 1735136180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267799,
+        "num": 267799,
+        "word": "父母割皮10次给烧伤儿子植皮",
+        "onboard_time": 1735126938,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291042,
+        "num": 266759,
+        "word": "肖战版郭靖是如何练成的",
+        "onboard_time": 1735127898,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264693,
+        "num": 264693,
+        "word": "五年前的李昀锐敖瑞鹏",
+        "onboard_time": 1735136299,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253620,
+        "num": 253620,
+        "word": "王楚钦挽妈妈手逛街",
+        "onboard_time": 1735134378,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245974,
+        "num": 245974,
+        "word": "日本地铁偶遇蔡依林",
+        "onboard_time": 1735129938,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57450,
+        "num": 243602,
+        "word": "律师称家暴判死刑已有过先例",
+        "onboard_time": 1735136240,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241928,
+        "num": 241928,
+        "word": "猎罪图鉴2大结局",
+        "onboard_time": 1735121778,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231348,
+        "num": 231348,
+        "word": "圣诞节",
+        "onboard_time": 1735135879,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223818,
+        "num": 223818,
+        "word": "男子从情人车中摔出身亡妻子索赔60万",
+        "onboard_time": 1735129819,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222710,
+        "num": 222710,
+        "word": "王诗龄被刘亦菲抱着",
+        "onboard_time": 1735122919,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201617,
+        "num": 201617,
+        "word": "2年被家暴16次女子家人到场支持",
+        "onboard_time": 1735134799,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195936,
+        "num": 195936,
+        "word": "60岁高龄孕妇剖宫产下男婴",
+        "onboard_time": 1735117159,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194702,
+        "num": 194702,
+        "word": "女子公共场合遭丈夫泼砂锅",
+        "onboard_time": 1735134439,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192746,
+        "num": 192746,
+        "word": "网传孟子义将常驻hi6",
+        "onboard_time": 1735137379,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188760,
+        "num": 188760,
+        "word": "坠机事故生还人数升至32人",
+        "onboard_time": 1735137320,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19473,
+        "num": 187591,
+        "word": "吉林雪景之旅尽享冰雪魅力",
+        "onboard_time": 1735136660,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 187333,
+        "num": 187333,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1735136840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186992,
+        "num": 186992,
+        "word": "蒋奇明 不该说的话我不说",
+        "onboard_time": 1735134558,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182979,
+        "num": 182979,
+        "word": "权志龙嗓子怎么了",
+        "onboard_time": 1735131439,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181739,
+        "num": 181739,
+        "word": "猎罪图鉴2 富婆是寸头姐",
+        "onboard_time": 1735136898,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "第一次见这么i的剧组",
+        "onboard_time": 1735137200,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171122,
+        "num": 171122,
+        "word": "个人养老金账户能注销吗",
+        "onboard_time": 1735132579,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167641,
+        "num": 167641,
+        "word": "波司登700元3克绒羽绒裤已下架",
+        "onboard_time": 1735117637,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158643,
+        "num": 158643,
+        "word": "蔡依林 你的距离和我只差零点几毫米",
+        "onboard_time": 1735134199,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156962,
+        "num": 156962,
+        "word": "杜城 雷队",
+        "onboard_time": 1735134500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6654,
+        "num": 154751,
+        "word": "旅行团的周末玩具智界R7",
+        "onboard_time": 1735137379,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市民生#"
+    }
+  }
+}
