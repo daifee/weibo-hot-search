@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735112135370,
+  "endTime": 1735115316108,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -297,6 +297,14 @@
       "onboard_time": 1734931399,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1316255,
+      "num": 1316255,
+      "word": "一架客机在哈萨克斯坦坠毁",
+      "onboard_time": 1735111519,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1287464,
@@ -651,6 +659,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 958017,
+      "num": 958017,
+      "word": "果郡王回复网友不用意难平了",
+      "onboard_time": 1735112058,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 954072,
       "num": 1136724,
       "word": "古偶黑马",
@@ -865,6 +881,14 @@
       "onboard_time": 1735015340,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793568,
+      "num": 606632,
+      "word": "只有安宥真穿了黑裙",
+      "onboard_time": 1735112778,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 792813,
@@ -1315,6 +1339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 627046,
+      "num": 627046,
+      "word": "哈萨克斯坦坠机事故中12人生还",
+      "onboard_time": 1735112778,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 626396,
       "num": 427858,
       "word": "韦雪说对秦奋是爱",
@@ -1632,6 +1664,14 @@
       "word": "aespa四公主",
       "onboard_time": 1735108218,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 538937,
+      "num": 363012,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1735114758,
+      "rank": 10,
       "category": "音乐"
     },
     {
@@ -2033,6 +2073,14 @@
       "onboard_time": 1734869298,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439822,
+      "num": 353949,
+      "word": "毛豆替刘亦菲感到遗憾",
+      "onboard_time": 1735112838,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 439116,
@@ -2723,6 +2771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 347786,
+      "num": 347786,
+      "word": "新华社评2024年中国十佳运动员",
+      "onboard_time": 1735113858,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345579,
       "num": 345579,
       "word": "南京小朋友5米距离看江豚捕鱼",
@@ -2843,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327315,
+      "num": 222734,
+      "word": "刘浩存林一座位",
+      "onboard_time": 1735112718,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326332,
       "num": 326332,
       "word": "玄彬说孙艺珍和儿子是第一顺位",
@@ -2905,6 +2969,14 @@
       "onboard_time": 1735100840,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320618,
+      "num": 235413,
+      "word": "2024星光大赏第二波阵容",
+      "onboard_time": 1735109717,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318812,
@@ -2985,6 +3057,14 @@
       "onboard_time": 1734877279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312703,
+      "num": 220152,
+      "word": "SBS节目单",
+      "onboard_time": 1735111639,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 312644,
@@ -3361,6 +3441,14 @@
       "onboard_time": 1735031239,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276959,
+      "num": 218897,
+      "word": "火箭少女将合体",
+      "onboard_time": 1735114397,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276519,
@@ -3763,14 +3851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244951,
-      "num": 312995,
-      "word": "一架客机在哈萨克斯坦坠毁",
-      "onboard_time": 1735111519,
-      "rank": 9,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 244802,
       "num": 244802,
       "word": "徐克 镜头美学",
@@ -3875,12 +3955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 235413,
-      "num": 235413,
-      "word": "2024星光大赏第二波阵容",
-      "onboard_time": 1735109717,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 235674,
+      "num": 235674,
+      "word": "盘点2024年翻红的7大顶流",
+      "onboard_time": 1735112598,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 235198,
@@ -3995,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227278,
+      "num": 215744,
+      "word": "李昀锐回应上桌升咖",
+      "onboard_time": 1735114638,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226971,
       "num": 226971,
       "word": "昭昭墨墨渡药吻",
@@ -4057,6 +4145,14 @@
       "onboard_time": 1734921499,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 224308,
+      "num": 224308,
+      "word": "男子在塔斯汀汉堡里吃出生肉",
+      "onboard_time": 1735114158,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223559,
@@ -4145,6 +4241,14 @@
       "onboard_time": 1734909315,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220880,
+      "num": 220880,
+      "word": "从炎症到癌症只需三步",
+      "onboard_time": 1735112778,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 220806,
@@ -4281,6 +4385,14 @@
       "onboard_time": 1735045759,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215307,
+      "num": 215307,
+      "word": "权志龙SBS彩排",
+      "onboard_time": 1735113378,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 215246,
@@ -4587,14 +4699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204732,
-      "num": 204732,
-      "word": "SBS节目单",
-      "onboard_time": 1735111639,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204457,
       "num": 204457,
       "word": "被抱养拒认亲女子否认得布病",
@@ -4835,6 +4939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196967,
+      "num": 196967,
+      "word": "时代峰峻商业版图盘点",
+      "onboard_time": 1735112238,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196910,
       "num": 196910,
       "word": "家暴男开打前先抢妻子手机",
@@ -4849,6 +4961,14 @@
       "onboard_time": 1734905592,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "肖战为演郭靖多努力",
+      "onboard_time": 1735115119,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 196645,
@@ -5235,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187912,
+      "num": 224720,
+      "word": "第一批买护眼灯的用户已经近视了",
+      "onboard_time": 1735113138,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187836,
       "num": 187836,
       "word": "张元英小卡110万韩元",
@@ -5256,6 +5384,14 @@
       "word": "白鹿送花",
       "onboard_time": 1734960920,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187175,
+      "num": 224488,
+      "word": "沈翊 突然不想研究人类了",
+      "onboard_time": 1735113737,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -5417,6 +5553,14 @@
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182146,
+      "num": 182146,
+      "word": "山姆代购每月返现可高达万元",
+      "onboard_time": 1735115058,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181389,
@@ -7635,6 +7779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131246,
+      "num": 222415,
+      "word": "王一博北京云蒙峡挑战攀冰",
+      "onboard_time": 1735113858,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131237,
       "num": 131237,
       "word": "登陆少年录制路透",
@@ -7873,14 +8025,6 @@
       "onboard_time": 1735088837,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126113,
-      "num": 126113,
-      "word": "果郡王回复网友不用意难平了",
-      "onboard_time": 1735112058,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 126097,
@@ -8763,6 +8907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109874,
+      "num": 221602,
+      "word": "孙颖莎回应小魔王称号",
+      "onboard_time": 1735114339,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109235,
       "num": 569171,
       "word": "社区回应女子遭压路机辗压身亡",
@@ -8801,6 +8953,14 @@
       "onboard_time": 1735040058,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108517,
+      "num": 220366,
+      "word": "2024年中国十佳运动员",
+      "onboard_time": 1735113977,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 108388,
@@ -9227,6 +9387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98707,
+      "num": 228215,
+      "word": "国台办回应美售台38辆坦克运抵台湾",
+      "onboard_time": 1735115239,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98539,
       "num": 176173,
       "word": "spicyhoneyrap挑战",
@@ -9297,6 +9465,14 @@
       "onboard_time": 1734959239,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96713,
+      "num": 367463,
+      "word": "那些经典文艺作品的瞬间",
+      "onboard_time": 1735114638,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 96537,
@@ -9377,6 +9553,14 @@
       "onboard_time": 1734837317,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 94337,
+      "num": 243144,
+      "word": "律师称家暴男最高可判死刑",
+      "onboard_time": 1735113737,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93756,
@@ -9529,6 +9713,14 @@
       "onboard_time": 1734838457,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88248,
+      "num": 224073,
+      "word": "魏如萱 我没有",
+      "onboard_time": 1735114099,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 88217,
@@ -10112,6 +10304,14 @@
       "word": "男孩街头走失男子脱羽绒服为其取暖",
       "onboard_time": 1734930498,
       "rank": 19,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 71908,
+      "num": 959290,
+      "word": "我国制造业规模连续14年世界第一",
+      "onboard_time": 1735101499,
+      "rank": 2,
       "category": "正能量"
     },
     {
@@ -10899,6 +11099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 53512,
+      "num": 222026,
+      "word": "每天少睡一两个小时也是熬夜",
+      "onboard_time": 1735114277,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 53446,
       "num": 374533,
       "word": "冰雪大世界近一周门票已售罄",
@@ -11187,6 +11395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48217,
+      "num": 221140,
+      "word": "圣诞漂亮大作战",
+      "onboard_time": 1735114158,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 48108,
       "num": 381282,
       "word": "纽约地铁蓄意纵火男子被捕",
@@ -11217,6 +11433,14 @@
       "onboard_time": 1734844578,
       "rank": 38,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 47616,
+      "num": 223054,
+      "word": "陈震就不能有自己想买的车吗",
+      "onboard_time": 1735111519,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 47566,
@@ -11737,14 +11961,6 @@
       "onboard_time": 1735103418,
       "rank": 9,
       "category": "舆论监督,议题讨论"
-    },
-    {
-      "raw_hot": 38855,
-      "num": 131060,
-      "word": "陈震就不能有自己想买的车吗",
-      "onboard_time": 1735111519,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 38682,
@@ -12331,6 +12547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 29877,
+      "num": 170690,
+      "word": "古人爱吃什么馅的饺子",
+      "onboard_time": 1735111938,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29779,
       "num": 250270,
       "word": "误杀3特辑将真实贯彻到底",
@@ -12563,12 +12787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25218,
+      "num": 214939,
+      "word": "周深唱好运来祝大家新年好运来",
+      "onboard_time": 1735113079,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25153,
       "num": 188929,
       "word": "A股再现天价离婚案分手费4亿",
       "onboard_time": 1735022540,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25128,
+      "num": 217867,
+      "word": "成毅商业价值",
+      "onboard_time": 1735111397,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24950,
@@ -12739,12 +12979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21678,
-      "num": 129038,
-      "word": "成毅商业价值",
-      "onboard_time": 1735111397,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 21695,
+      "num": 221319,
+      "word": "和毛利兰一起过圣诞节",
+      "onboard_time": 1735115178,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 21638,
@@ -13267,14 +13507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9391,
-      "num": 686384,
-      "word": "我国制造业规模连续14年世界第一",
-      "onboard_time": 1735101499,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 9131,
       "num": 76055,
       "word": "NBA将发布詹杜库合体专访",
@@ -13289,14 +13521,6 @@
       "onboard_time": 1734884118,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8073,
-      "num": 118127,
-      "word": "古人爱吃什么馅的饺子",
-      "onboard_time": 1735111938,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 8022,
