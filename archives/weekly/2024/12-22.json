@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735097194322,
+  "endTime": 1735098040036,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -459,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1065561,
+      "num": 1170489,
+      "word": "增值税法通过",
+      "onboard_time": 1735092617,
+      "rank": 3,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 1061566,
       "num": 1169850,
       "word": "护士接通知上门输液却被打成脑震荡",
@@ -617,14 +625,6 @@
       "onboard_time": 1734920477,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 941982,
-      "num": 1148960,
-      "word": "增值税法通过",
-      "onboard_time": 1735092617,
-      "rank": 3,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 929729,
@@ -1587,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 525450,
+      "num": 525450,
+      "word": "小米官宣与蔚来合作",
+      "onboard_time": 1735096038,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 517217,
       "num": 517217,
       "word": "吴磊第一部现偶多国TOP1",
@@ -2219,6 +2227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 387632,
+      "num": 353805,
+      "word": "男子1小时买空两家金店投资金条",
+      "onboard_time": 1735094597,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 386678,
       "num": 291997,
       "word": "李昀锐直播",
@@ -2483,14 +2499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 353805,
-      "num": 353805,
-      "word": "男子1小时买空两家金店投资金条",
-      "onboard_time": 1735094597,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353082,
       "num": 353082,
       "word": "袁记云饺发布最新说明",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 345589,
+      "num": 345589,
+      "word": "小鬼当家",
+      "onboard_time": 1735097118,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 345579,
@@ -2713,14 +2729,6 @@
       "onboard_time": 1734957138,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 317659,
-      "num": 317659,
-      "word": "小米官宣与蔚来合作",
-      "onboard_time": 1735096038,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 317489,
@@ -2987,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287216,
+      "num": 183546,
+      "word": "女子反复流产原因出在男方",
+      "onboard_time": 1735097777,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1734880040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267012,
+      "num": 243869,
+      "word": "滑雪为何会窒息身亡",
+      "onboard_time": 1735094057,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266949,
@@ -3475,20 +3499,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 244322,
+      "num": 244322,
+      "word": "iPhone18零边框目标或落空",
+      "onboard_time": 1735095078,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 243929,
       "num": 456114,
       "word": "贺岁档电影票房破20亿",
       "onboard_time": 1734864919,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 243869,
-      "num": 243869,
-      "word": "滑雪为何会窒息身亡",
-      "onboard_time": 1735094057,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 243106,
@@ -3529,6 +3553,14 @@
       "onboard_time": 1735093099,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238313,
+      "num": 238313,
+      "word": "哈尔滨偶遇郭晶晶一家",
+      "onboard_time": 1735096698,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 237554,
@@ -3825,14 +3857,6 @@
       "onboard_time": 1734947238,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220076,
-      "num": 220076,
-      "word": "iPhone18零边框目标或落空",
-      "onboard_time": 1735095078,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 219858,
@@ -4203,6 +4227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205876,
+      "num": 421402,
+      "word": "降温后的小西天",
+      "onboard_time": 1735096577,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "秦岚情绪稳定的原因找到了",
@@ -4281,6 +4313,14 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202036,
+      "num": 202036,
+      "word": "32岁中国籍男游客在日本滑雪场遇难",
+      "onboard_time": 1735095018,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201117,
@@ -4715,6 +4755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189532,
+      "num": 183517,
+      "word": "alex2025星座分析",
+      "onboard_time": 1735097777,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189516,
       "num": 189516,
       "word": "76人马刺比赛失控",
@@ -4851,14 +4899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187010,
-      "num": 187010,
-      "word": "哈尔滨偶遇郭晶晶一家",
-      "onboard_time": 1735096698,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186387,
       "num": 186387,
       "word": "肯德基涨价疯狂星期四不变",
@@ -4947,6 +4987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183967,
+      "num": 183967,
+      "word": "柯南迷宫的十字路口上海首映礼",
+      "onboard_time": 1735097177,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183768,
       "num": 302369,
       "word": "宋旻浩消极服役惹众怒",
@@ -4961,6 +5009,14 @@
       "onboard_time": 1735034719,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182883,
+      "num": 182883,
+      "word": "乒乓球亚洲杯国乒受邀名单",
+      "onboard_time": 1735097357,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 182733,
@@ -5011,14 +5067,6 @@
       "category": "科学科普,幽默"
     },
     {
-      "raw_hot": 180260,
-      "num": 180260,
-      "word": "32岁中国籍男游客在日本滑雪场遇难",
-      "onboard_time": 1735095018,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179958,
       "num": 179958,
       "word": "不是狼想当网红而是有人想赚流量",
@@ -5049,14 +5097,6 @@
       "onboard_time": 1734921317,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 179226,
-      "num": 421402,
-      "word": "降温后的小西天",
-      "onboard_time": 1735096577,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 179190,
@@ -5659,6 +5699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 161216,
+      "num": 338309,
+      "word": "给网约车除臭不能只靠拉黑",
+      "onboard_time": 1735096217,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160971,
       "num": 180524,
       "word": "何秋亊 dsn",
@@ -5835,6 +5883,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 157785,
+      "num": 419333,
+      "word": "三大股指今日集体高开",
+      "onboard_time": 1735096458,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 157308,
       "num": 157308,
       "word": "刘阳老师直播",
@@ -5880,6 +5936,14 @@
       "word": "鱿鱼游戏2宣发",
       "onboard_time": 1734854778,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 187474,
+      "word": "张颂文回应被吐槽演技差台词也差",
+      "onboard_time": 1735094777,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5979,6 +6043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153091,
+      "num": 153091,
+      "word": "老师带4个月女儿上课成班里团宠",
+      "onboard_time": 1735067473,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 152861,
       "num": 152861,
       "word": "陈佩斯等了60年的剧本",
@@ -6049,6 +6121,14 @@
       "onboard_time": 1734917117,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151812,
+      "num": 244316,
+      "word": "新能源车老被拒保的真实原因",
+      "onboard_time": 1735096638,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151683,
@@ -6137,14 +6217,6 @@
       "onboard_time": 1734848958,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150004,
-      "num": 187474,
-      "word": "张颂文回应被吐槽演技差台词也差",
-      "onboard_time": 1735094777,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 149737,
@@ -6643,14 +6715,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 137943,
-      "num": 137943,
-      "word": "老师带4个月女儿上课成班里团宠",
-      "onboard_time": 1735067473,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 137923,
       "num": 137923,
       "word": "金建希被曝戒严当天在整形医院停留",
@@ -7145,6 +7209,14 @@
       "onboard_time": 1734795499,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "民警高速上救人跑出残影",
+      "onboard_time": 1735095977,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 127475,
@@ -7643,14 +7715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117157,
-      "num": 117157,
-      "word": "民警高速上救人跑出残影",
-      "onboard_time": 1735095977,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 117154,
       "num": 157608,
       "word": "一天连吃三顿辣56岁男子急性肾损伤",
@@ -7689,14 +7753,6 @@
       "onboard_time": 1734831797,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 116298,
-      "num": 419333,
-      "word": "三大股指今日集体高开",
-      "onboard_time": 1735096458,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 116154,
@@ -7841,14 +7897,6 @@
       "onboard_time": 1735094838,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 113331,
-      "num": 113331,
-      "word": "小鬼当家",
-      "onboard_time": 1735097118,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 113147,
@@ -8161,14 +8209,6 @@
       "onboard_time": 1734947897,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106147,
-      "num": 106147,
-      "word": "柯南迷宫的十字路口上海首映礼",
-      "onboard_time": 1735097177,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 106095,
@@ -9187,6 +9227,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 75179,
+      "num": 344025,
+      "word": "小西天周边6平商铺转让费涨至18万",
+      "onboard_time": 1735096638,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75177,
       "num": 250246,
       "word": "三亚春节限价有高端套房降18万元",
@@ -9459,14 +9507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68192,
-      "num": 338309,
-      "word": "给网约车除臭不能只靠拉黑",
-      "onboard_time": 1735096217,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68101,
       "num": 248757,
       "word": "大奉打更人世界观科普",
@@ -9497,14 +9537,6 @@
       "onboard_time": 1734795198,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67296,
-      "num": 244316,
-      "word": "新能源车老被拒保的真实原因",
-      "onboard_time": 1735096638,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67114,
@@ -10817,14 +10849,6 @@
       "onboard_time": 1734993131,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39647,
-      "num": 344025,
-      "word": "小西天周边6平商铺转让费涨至18万",
-      "onboard_time": 1735096638,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 39612,

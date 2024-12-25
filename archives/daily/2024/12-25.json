@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735097194322,
+  "endTime": 1735098040036,
   "band_list": [
     {
       "raw_hot": 1526933,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1065561,
+      "num": 1170489,
+      "word": "增值税法通过",
+      "onboard_time": 1735092617,
+      "rank": 3,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 949907,
       "num": 949907,
       "word": "劣迹网红天佑疑复出直播再被封禁",
       "onboard_time": 1735091657,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 941982,
-      "num": 1148960,
-      "word": "增值税法通过",
-      "onboard_time": 1735092617,
-      "rank": 3,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 916594,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525450,
+      "num": 525450,
+      "word": "小米官宣与蔚来合作",
+      "onboard_time": 1735096038,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 516714,
       "num": 516714,
       "word": "圣诞快乐",
@@ -147,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387632,
+      "num": 353805,
+      "word": "男子1小时买空两家金店投资金条",
+      "onboard_time": 1735094597,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371811,
       "num": 371811,
       "word": "男子偷手机假装帮寻找没想到有监控",
@@ -179,20 +195,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 353805,
-      "num": 353805,
-      "word": "男子1小时买空两家金店投资金条",
-      "onboard_time": 1735094597,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 347337,
       "num": 347337,
       "word": "撞死网红狼司机疑似未主动救治",
       "onboard_time": 1735049960,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345589,
+      "num": 345589,
+      "word": "小鬼当家",
+      "onboard_time": 1735097118,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 329405,
@@ -209,14 +225,6 @@
       "onboard_time": 1735036759,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317659,
-      "num": 317659,
-      "word": "小米官宣与蔚来合作",
-      "onboard_time": 1735096038,
-      "rank": 16,
-      "category": "汽车"
     },
     {
       "raw_hot": 317160,
@@ -249,6 +257,22 @@
       "onboard_time": 1735045999,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287216,
+      "num": 183546,
+      "word": "女子反复流产原因出在男方",
+      "onboard_time": 1735097777,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 267012,
+      "num": 243869,
+      "word": "滑雪为何会窒息身亡",
+      "onboard_time": 1735094057,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265435,
@@ -307,12 +331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243869,
-      "num": 243869,
-      "word": "滑雪为何会窒息身亡",
-      "onboard_time": 1735094057,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 244322,
+      "num": 244322,
+      "word": "iPhone18零边框目标或落空",
+      "onboard_time": 1735095078,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 239907,
@@ -321,6 +345,14 @@
       "onboard_time": 1735093099,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238313,
+      "num": 238313,
+      "word": "哈尔滨偶遇郭晶晶一家",
+      "onboard_time": 1735096698,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 237274,
@@ -337,14 +369,6 @@
       "onboard_time": 1735036819,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220076,
-      "num": 220076,
-      "word": "iPhone18零边框目标或落空",
-      "onboard_time": 1735095078,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 219420,
@@ -387,6 +411,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 205876,
+      "num": 421402,
+      "word": "降温后的小西天",
+      "onboard_time": 1735096577,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 202036,
+      "num": 202036,
+      "word": "32岁中国籍男游客在日本滑雪场遇难",
+      "onboard_time": 1735095018,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200372,
       "num": 200372,
       "word": "美股",
@@ -419,11 +459,27 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 187010,
-      "num": 187010,
-      "word": "哈尔滨偶遇郭晶晶一家",
-      "onboard_time": 1735096698,
-      "rank": 30,
+      "raw_hot": 189532,
+      "num": 183517,
+      "word": "alex2025星座分析",
+      "onboard_time": 1735097777,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183967,
+      "num": 183967,
+      "word": "柯南迷宫的十字路口上海首映礼",
+      "onboard_time": 1735097177,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 182883,
+      "num": 182883,
+      "word": "乒乓球亚洲杯国乒受邀名单",
+      "onboard_time": 1735097357,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -433,22 +489,6 @@
       "onboard_time": 1735090457,
       "rank": 32,
       "category": "科学科普,幽默"
-    },
-    {
-      "raw_hot": 180260,
-      "num": 180260,
-      "word": "32岁中国籍男游客在日本滑雪场遇难",
-      "onboard_time": 1735095018,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179226,
-      "num": 421402,
-      "word": "降温后的小西天",
-      "onboard_time": 1735096577,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 174665,
@@ -491,6 +531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161216,
+      "num": 338309,
+      "word": "给网约车除臭不能只靠拉黑",
+      "onboard_time": 1735096217,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159581,
       "num": 159581,
       "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
@@ -505,6 +553,22 @@
       "onboard_time": 1735059735,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 157785,
+      "num": 419333,
+      "word": "三大股指今日集体高开",
+      "onboard_time": 1735096458,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 155500,
+      "num": 187474,
+      "word": "张颂文回应被吐槽演技差台词也差",
+      "onboard_time": 1735094777,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 154186,
@@ -523,12 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150004,
-      "num": 187474,
-      "word": "张颂文回应被吐槽演技差台词也差",
-      "onboard_time": 1735094777,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 153091,
+      "num": 153091,
+      "word": "老师带4个月女儿上课成班里团宠",
+      "onboard_time": 1735067473,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 151812,
+      "num": 244316,
+      "word": "新能源车老被拒保的真实原因",
+      "onboard_time": 1735096638,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146759,
@@ -561,14 +633,6 @@
       "onboard_time": 1735095497,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137943,
-      "num": 137943,
-      "word": "老师带4个月女儿上课成班里团宠",
-      "onboard_time": 1735067473,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 136393,
@@ -617,6 +681,14 @@
       "onboard_time": 1735083136,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127618,
+      "num": 127618,
+      "word": "民警高速上救人跑出残影",
+      "onboard_time": 1735095977,
+      "rank": 41,
+      "category": "正能量"
     },
     {
       "raw_hot": 127475,
@@ -683,22 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 117157,
-      "num": 117157,
-      "word": "民警高速上救人跑出残影",
-      "onboard_time": 1735095977,
-      "rank": 41,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 116298,
-      "num": 419333,
-      "word": "三大股指今日集体高开",
-      "onboard_time": 1735096458,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 114172,
       "num": 114172,
       "word": "丁禹兮虞书欣年度星光墙三四名",
@@ -723,14 +779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 113331,
-      "num": 113331,
-      "word": "小鬼当家",
-      "onboard_time": 1735097118,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110029,
       "num": 110029,
       "word": "中学篮球赛16秒连得9分压哨绝杀",
@@ -745,14 +793,6 @@
       "onboard_time": 1735046780,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106147,
-      "num": 106147,
-      "word": "柯南迷宫的十字路口上海首映礼",
-      "onboard_time": 1735097177,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 105824,
@@ -939,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75179,
+      "num": 344025,
+      "word": "小西天周边6平商铺转让费涨至18万",
+      "onboard_time": 1735096638,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73916,
       "num": 73916,
       "word": "阴阳师",
@@ -995,27 +1043,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68192,
-      "num": 338309,
-      "word": "给网约车除臭不能只靠拉黑",
-      "onboard_time": 1735096217,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67883,
       "num": 70832,
       "word": "孩子随口一句话男子把家砸烂",
       "onboard_time": 1735035919,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67296,
-      "num": 244316,
-      "word": "新能源车老被拒保的真实原因",
-      "onboard_time": 1735096638,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1145,14 +1177,6 @@
       "onboard_time": 1735046720,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39647,
-      "num": 344025,
-      "word": "小西天周边6平商铺转让费涨至18万",
-      "onboard_time": 1735096638,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 39193,

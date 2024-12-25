@@ -1,0 +1,410 @@
+{
+  "runTime": 1735098040036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1065561,
+        "num": 1170489,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 0,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 785646,
+        "num": 785646,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29741,
+        "num": 670507,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660006,
+        "num": 660006,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525450,
+        "num": 525450,
+        "word": "小米官宣与蔚来合作",
+        "onboard_time": 1735096038,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 523229,
+        "num": 523229,
+        "word": "时代峰峻将30%苹果税纳入高会成本",
+        "onboard_time": 1735092797,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447750,
+        "num": 447750,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372803,
+        "num": 372803,
+        "word": "日本外相称不能重蹈错误国策",
+        "onboard_time": 1735093998,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345589,
+        "num": 345589,
+        "word": "小鬼当家",
+        "onboard_time": 1735097118,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157785,
+        "num": 344785,
+        "word": "三大股指今日集体高开",
+        "onboard_time": 1735096458,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 344034,
+        "num": 344034,
+        "word": "朴彩英分英",
+        "onboard_time": 1735094357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319596,
+        "num": 319596,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 244322,
+        "num": 244322,
+        "word": "iPhone18零边框目标或落空",
+        "onboard_time": 1735095078,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238313,
+        "num": 238313,
+        "word": "哈尔滨偶遇郭晶晶一家",
+        "onboard_time": 1735096698,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224638,
+        "num": 224638,
+        "word": "张颂文自爆曾因长相被剧组打压",
+        "onboard_time": 1735085357,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207643,
+        "num": 207643,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205876,
+        "num": 205876,
+        "word": "降温后的小西天",
+        "onboard_time": 1735096577,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202036,
+        "num": 202036,
+        "word": "32岁中国籍男游客在日本滑雪场遇难",
+        "onboard_time": 1735095018,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161216,
+        "num": 201620,
+        "word": "给网约车除臭不能只靠拉黑",
+        "onboard_time": 1735096217,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151812,
+        "num": 200599,
+        "word": "新能源车老被拒保的真实原因",
+        "onboard_time": 1735096638,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827896,
+        "num": 199381,
+        "word": "24岁小伙上班6天误触辐射源即将截肢",
+        "onboard_time": 1735093576,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544103,
+        "num": 197112,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387632,
+        "num": 195922,
+        "word": "男子1小时买空两家金店投资金条",
+        "onboard_time": 1735094597,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267012,
+        "num": 195323,
+        "word": "滑雪为何会窒息身亡",
+        "onboard_time": 1735094057,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207445,
+        "num": 193060,
+        "word": "原来对孩子来说一天就是很久",
+        "onboard_time": 1735093099,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192840,
+        "num": 192840,
+        "word": "在香港花400万买了15平米的家",
+        "onboard_time": 1735087818,
+        "rank": 25,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 192815,
+        "num": 192815,
+        "word": "圣诞树",
+        "onboard_time": 1735094958,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14213,
+        "num": 191745,
+        "word": "一朵来自长白山的雪花",
+        "onboard_time": 1735094658,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191475,
+        "num": 191475,
+        "word": "圣诞快乐",
+        "onboard_time": 1735081813,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183967,
+        "num": 183967,
+        "word": "柯南迷宫的十字路口上海首映礼",
+        "onboard_time": 1735097177,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287216,
+        "num": 183546,
+        "word": "女子反复流产原因出在男方",
+        "onboard_time": 1735097777,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 189532,
+        "num": 183517,
+        "word": "alex2025星座分析",
+        "onboard_time": 1735097777,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182883,
+        "num": 182883,
+        "word": "乒乓球亚洲杯国乒受邀名单",
+        "onboard_time": 1735097357,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173355,
+        "num": 173355,
+        "word": "李耕耘腹肌",
+        "onboard_time": 1735086920,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155500,
+        "num": 155500,
+        "word": "张颂文回应被吐槽演技差台词也差",
+        "onboard_time": 1735094777,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155338,
+        "num": 155338,
+        "word": "被2024惊艳了一眼又一眼",
+        "onboard_time": 1735092677,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 153091,
+        "num": 153091,
+        "word": "老师带4个月女儿上课成班里团宠",
+        "onboard_time": 1735067473,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 137849,
+        "num": 137849,
+        "word": "林允儿cha了Whiplash",
+        "onboard_time": 1735090877,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75179,
+        "num": 129550,
+        "word": "小西天周边6平商铺转让费涨至18万",
+        "onboard_time": 1735096638,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180902,
+        "num": 129459,
+        "word": "被家暴小谢哭诉伤疤占身体五分之一",
+        "onboard_time": 1735094296,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129337,
+        "num": 129337,
+        "word": "陈建斌 都给朕回去回后宫去",
+        "onboard_time": 1735063872,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127618,
+        "num": 127618,
+        "word": "民警高速上救人跑出残影",
+        "onboard_time": 1735095977,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "小偷和警察一起看监控被当场拿下",
+        "onboard_time": 1735081514,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120023,
+        "num": 120023,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114426,
+        "num": 114426,
+        "word": "罗伯特评论名侦探柯南圣诞图",
+        "onboard_time": 1735086198,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113863,
+        "num": 113863,
+        "word": "2025年全国两会召开日期",
+        "onboard_time": 1735090457,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108517,
+        "num": 108517,
+        "word": "丁程鑫毕业大戏杀青",
+        "onboard_time": 1735095497,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108151,
+        "num": 108151,
+        "word": "2024带给我们的Passion",
+        "onboard_time": 1735084816,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107769,
+        "num": 107769,
+        "word": "权顺荣李知勋小分队出道",
+        "onboard_time": 1735093217,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99848,
+        "num": 99848,
+        "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
+        "onboard_time": 1735087219,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
