@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735137476401,
+  "endTime": 1735140146377,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1203,6 +1203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 709932,
+      "num": 595462,
+      "word": "权志龙红色高跟鞋",
+      "onboard_time": 1735135399,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 707570,
       "num": 707570,
       "word": "小米官宣与蔚来合作",
@@ -1353,6 +1361,22 @@
       "onboard_time": 1735107860,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 670061,
+      "num": 670061,
+      "word": "女子婚礼前一天被拒婚假遭公司辞退",
+      "onboard_time": 1735135459,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 669920,
+      "num": 518416,
+      "word": "刘亦菲全榜第一",
+      "onboard_time": 1735136420,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 666209,
@@ -1515,14 +1539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 627948,
-      "num": 311643,
-      "word": "权志龙红色高跟鞋",
-      "onboard_time": 1735135399,
-      "rank": 22,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 627046,
       "num": 627046,
       "word": "哈萨克斯坦坠机事故中12人生还",
@@ -1643,12 +1659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 595422,
-      "num": 595422,
-      "word": "女子婚礼前一天被拒婚假遭公司辞退",
-      "onboard_time": 1735135459,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 592904,
+      "num": 503934,
+      "word": "手脚冰凉是身体的自我保护",
+      "onboard_time": 1735135280,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 589667,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1735019359,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566403,
+      "num": 566403,
+      "word": "圣诞节",
+      "onboard_time": 1735135879,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 565636,
@@ -2041,14 +2065,6 @@
       "onboard_time": 1735104198,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 503934,
-      "num": 503934,
-      "word": "手脚冰凉是身体的自我保护",
-      "onboard_time": 1735135280,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 496126,
@@ -2467,6 +2483,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 424913,
+      "num": 376416,
+      "word": "五年前的李昀锐敖瑞鹏",
+      "onboard_time": 1735136299,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 423598,
       "num": 254630,
       "word": "杜城被捅",
@@ -2763,7 +2787,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390923,
+      "raw_hot": 394393,
       "num": 340388,
       "word": "肖战版郭靖是如何练成的",
       "onboard_time": 1735127898,
@@ -2953,6 +2977,14 @@
       "onboard_time": 1734842418,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370775,
+      "num": 370775,
+      "word": "女子探亲途中和3岁儿子双双被拐",
+      "onboard_time": 1735138459,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370558,
@@ -3193,6 +3225,14 @@
       "onboard_time": 1735013480,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 337423,
+      "num": 221015,
+      "word": "鱿鱼游戏2",
+      "onboard_time": 1734857118,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 336715,
@@ -3467,14 +3507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 311904,
-      "num": 269324,
-      "word": "刘亦菲全榜第一",
-      "onboard_time": 1735136420,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 311774,
       "num": 311774,
       "word": "樊振东王楚钦再迎对决",
@@ -3601,6 +3633,14 @@
       "onboard_time": 1735132340,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294291,
+      "num": 294291,
+      "word": "女子公共场合遭丈夫泼砂锅",
+      "onboard_time": 1735134439,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293283,
@@ -3915,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270135,
+      "num": 270135,
+      "word": "刘亦菲中学班级合照",
+      "onboard_time": 1735139060,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268391,
       "num": 291240,
       "word": "王一博冰攀",
@@ -3993,14 +4041,6 @@
       "onboard_time": 1735090877,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 264693,
-      "num": 264693,
-      "word": "五年前的李昀锐敖瑞鹏",
-      "onboard_time": 1735136299,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 264631,
@@ -4475,14 +4515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231348,
-      "num": 231348,
-      "word": "圣诞节",
-      "onboard_time": 1735135879,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231309,
       "num": 332702,
       "word": "被家暴16次女子最怕孩子问身上伤口",
@@ -4929,14 +4961,6 @@
       "onboard_time": 1735104859,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214552,
-      "num": 214552,
-      "word": "女子公共场合遭丈夫泼砂锅",
-      "onboard_time": 1735134439,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214064,
@@ -6075,14 +6099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 187333,
-      "num": 187333,
-      "word": "鱿鱼游戏2",
-      "onboard_time": 1734857118,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187248,
       "num": 187248,
       "word": "杨紫1月7日你好星期六录制",
@@ -6161,6 +6177,14 @@
       "onboard_time": 1734858918,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185819,
+      "num": 185819,
+      "word": "虞书欣谢可寅跳spicyhoney",
+      "onboard_time": 1735139239,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185818,
@@ -6281,6 +6305,14 @@
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 182157,
+      "num": 182157,
+      "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
+      "onboard_time": 1735138999,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181739,
@@ -6809,6 +6841,14 @@
       "onboard_time": 1734966438,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168374,
+      "num": 168374,
+      "word": "张柏芝说APT谐音是啊柏芝",
+      "onboard_time": 1735139359,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 168339,
@@ -7875,6 +7915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149106,
+      "num": 149106,
+      "word": "赛里木湖",
+      "onboard_time": 1735138939,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -8417,6 +8465,14 @@
       "onboard_time": 1734910696,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139597,
+      "num": 139597,
+      "word": "京东客服全员平均涨薪2个月",
+      "onboard_time": 1735136718,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 139299,
@@ -9235,6 +9291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124263,
+      "num": 124263,
+      "word": "樊振东正反手攻球教学",
+      "onboard_time": 1735137861,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124161,
       "num": 124161,
       "word": "在举目无亲的地方才是真正的活着",
@@ -9425,6 +9489,14 @@
       "onboard_time": 1734823815,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120149,
+      "num": 120149,
+      "word": "鹭卓肥是真想减饭是真好吃",
+      "onboard_time": 1735139839,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120077,
@@ -11539,6 +11611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70627,
+      "num": 371293,
+      "word": "我国青少年抑郁症患病率达15%是谣言",
+      "onboard_time": 1735139419,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70483,
       "num": 193040,
       "word": "谁的大数据被李昀锐硬控了",
@@ -11945,6 +12025,14 @@
       "onboard_time": 1735022540,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 61887,
+      "num": 196828,
+      "word": "韩国年轻人为何热衷特种兵游上海",
+      "onboard_time": 1735139060,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 61711,
@@ -12779,6 +12867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46357,
+      "num": 393495,
+      "word": "00后男孩直博清华父母均为聋哑人",
+      "onboard_time": 1735139479,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46181,
       "num": 184823,
       "word": "73岁老人相亲上头后女方消失了",
@@ -12969,6 +13065,14 @@
       "onboard_time": 1735046119,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 43253,
+      "num": 163342,
+      "word": "韩安冉说网红圈太乱了",
+      "onboard_time": 1735139958,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 43225,
@@ -13305,6 +13409,14 @@
       "onboard_time": 1735017618,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37851,
+      "num": 603074,
+      "word": "国内航司入境旅客量增长近40%",
+      "onboard_time": 1735138579,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37653,
@@ -14147,6 +14259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25449,
+      "num": 227864,
+      "word": "旅行团的周末玩具智界R7",
+      "onboard_time": 1735137379,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25437,
       "num": 218572,
       "word": "周深唱好运来祝大家新年好运来",
@@ -14491,6 +14611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19492,
+      "num": 224090,
+      "word": "智界7妙派对夜大有可玩",
+      "onboard_time": 1735137620,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19473,
       "num": 187591,
       "word": "吉林雪景之旅尽享冰雪魅力",
@@ -14787,6 +14915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13488,
+      "num": 240962,
+      "word": "猎罪图鉴龙凤呈祥案",
+      "onboard_time": 1735132158,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13369,
       "num": 34546,
       "word": "海南省旅游委通报非法经营将顶格处罚",
@@ -15035,14 +15171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6654,
-      "num": 154751,
-      "word": "旅行团的周末玩具智界R7",
-      "onboard_time": 1735137379,
-      "rank": 49,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 6293,
       "num": 18393,
       "word": "于适看队友比赛reaction",
@@ -15090,6 +15218,9 @@
     },
     {
       "word": "#总书记论城市民生#"
+    },
+    {
+      "word": "#习近平签署国家主席令#"
     }
   ]
 }
