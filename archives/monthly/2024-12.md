@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/25 11:00:09
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/25 11:26:34
 </p>
 </blockquote>
 <p>
@@ -4131,6 +4131,12 @@ Gemini当爸爸了（热度：974629）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B8%8A%E7%8F%AD6%E5%A4%A9%E8%AF%AF%E8%A7%A6%E8%BE%90%E5%B0%84%E6%BA%90%E5%8D%B3%E5%B0%86%E6%88%AA%E8%82%A2%23" target="weibo">
+24岁小伙上班6天误触辐射源即将截肢（热度：916594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
 赵丽颖新加坡红毯（热度：915789）
 </a>
@@ -4571,12 +4577,6 @@ Gemini当爸爸了（热度：974629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A512%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%84%9F%E6%9F%93HPV%23" target="weibo">
 官方通报12岁女孩感染HPV（热度：863226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B8%8A%E7%8F%AD6%E5%A4%A9%E8%AF%AF%E8%A7%A6%E8%BE%90%E5%B0%84%E6%BA%90%E5%8D%B3%E5%B0%86%E6%88%AA%E8%82%A2%23" target="weibo">
-24岁小伙上班6天误触辐射源即将截肢（热度：863147）
 </a>
 </li>
 

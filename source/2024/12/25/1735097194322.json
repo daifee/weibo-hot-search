@@ -1,0 +1,410 @@
+{
+  "runTime": 1735097194322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 931005,
+        "num": 1148960,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 0,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 916594,
+        "num": 916594,
+        "word": "24岁小伙上班6天误触辐射源即将截肢",
+        "onboard_time": 1735093576,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31357,
+        "num": 844413,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 788627,
+        "num": 788627,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748959,
+        "num": 748959,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 617141,
+        "num": 617141,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528302,
+        "num": 528302,
+        "word": "时代峰峻将30%苹果税纳入高会成本",
+        "onboard_time": 1735092797,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432012,
+        "num": 432012,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179226,
+        "num": 421402,
+        "word": "降温后的小西天",
+        "onboard_time": 1735096577,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116298,
+        "num": 419333,
+        "word": "三大股指今日集体高开",
+        "onboard_time": 1735096458,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417869,
+        "num": 417869,
+        "word": "日本外相称不能重蹈错误国策",
+        "onboard_time": 1735093998,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359311,
+        "num": 359311,
+        "word": "朴彩英分英",
+        "onboard_time": 1735094357,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353805,
+        "num": 353805,
+        "word": "男子1小时买空两家金店投资金条",
+        "onboard_time": 1735094597,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39647,
+        "num": 344025,
+        "word": "小西天周边6平商铺转让费涨至18万",
+        "onboard_time": 1735096638,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68192,
+        "num": 338309,
+        "word": "给网约车除臭不能只靠拉黑",
+        "onboard_time": 1735096217,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337633,
+        "num": 337633,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317659,
+        "num": 317659,
+        "word": "小米官宣与蔚来合作",
+        "onboard_time": 1735096038,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 247333,
+        "num": 247333,
+        "word": "张颂文自爆曾因长相被剧组打压",
+        "onboard_time": 1735085357,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67296,
+        "num": 244316,
+        "word": "新能源车老被拒保的真实原因",
+        "onboard_time": 1735096638,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23283,
+        "num": 244060,
+        "word": "一朵来自长白山的雪花",
+        "onboard_time": 1735094658,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 279374,
+        "num": 244029,
+        "word": "圣诞快乐",
+        "onboard_time": 1735081813,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243869,
+        "num": 243869,
+        "word": "滑雪为何会窒息身亡",
+        "onboard_time": 1735094057,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239907,
+        "num": 239907,
+        "word": "原来对孩子来说一天就是很久",
+        "onboard_time": 1735093099,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226794,
+        "num": 226794,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220076,
+        "num": 220076,
+        "word": "iPhone18零边框目标或落空",
+        "onboard_time": 1735095078,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210516,
+        "num": 210516,
+        "word": "被家暴小谢哭诉伤疤占身体五分之一",
+        "onboard_time": 1735094296,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208696,
+        "num": 208696,
+        "word": "在香港花400万买了15平米的家",
+        "onboard_time": 1735087818,
+        "rank": 26,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 201531,
+        "num": 201531,
+        "word": "圣诞树",
+        "onboard_time": 1735094958,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150004,
+        "num": 187474,
+        "word": "张颂文回应被吐槽演技差台词也差",
+        "onboard_time": 1735094777,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148566,
+        "num": 187214,
+        "word": "林允儿cha了Whiplash",
+        "onboard_time": 1735090877,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187010,
+        "num": 187010,
+        "word": "哈尔滨偶遇郭晶晶一家",
+        "onboard_time": 1735096698,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180260,
+        "num": 180260,
+        "word": "32岁中国籍男游客在日本滑雪场遇难",
+        "onboard_time": 1735095018,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160023,
+        "num": 160023,
+        "word": "被2024惊艳了一眼又一眼",
+        "onboard_time": 1735092677,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 154417,
+        "num": 154417,
+        "word": "小偷和警察一起看监控被当场拿下",
+        "onboard_time": 1735081514,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151508,
+        "num": 151508,
+        "word": "李耕耘腹肌",
+        "onboard_time": 1735086920,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149971,
+        "num": 149971,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141906,
+        "num": 141906,
+        "word": "2025年全国两会召开日期",
+        "onboard_time": 1735090457,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140520,
+        "num": 140520,
+        "word": "丁程鑫毕业大戏杀青",
+        "onboard_time": 1735095497,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134820,
+        "num": 134820,
+        "word": "陈建斌 都给朕回去回后宫去",
+        "onboard_time": 1735063872,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122533,
+        "num": 122533,
+        "word": "罗伯特评论名侦探柯南圣诞图",
+        "onboard_time": 1735086198,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120888,
+        "num": 120888,
+        "word": "老师带4个月女儿上课成班里团宠",
+        "onboard_time": 1735067473,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117157,
+        "num": 117157,
+        "word": "民警高速上救人跑出残影",
+        "onboard_time": 1735095977,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
+        "onboard_time": 1735087219,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113681,
+        "num": 113681,
+        "word": "尔滨大雪人穿上新年衣服了",
+        "onboard_time": 1735094838,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113331,
+        "num": 113331,
+        "word": "小鬼当家",
+        "onboard_time": 1735097118,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112417,
+        "num": 112417,
+        "word": "继搪瓷盆之后爆眼龙又要断货了",
+        "onboard_time": 1735090457,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106147,
+        "num": 106147,
+        "word": "柯南迷宫的十字路口上海首映礼",
+        "onboard_time": 1735097177,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104741,
+        "num": 104741,
+        "word": "2024带给我们的Passion",
+        "onboard_time": 1735084816,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 104208,
+        "num": 104208,
+        "word": "一粒大米能覆盖药品说明书上四个汉字",
+        "onboard_time": 1735096157,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103812,
+        "num": 103812,
+        "word": "权顺荣李知勋小分队出道",
+        "onboard_time": 1735093217,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
