@@ -1,7 +1,15 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735100822895,
+  "endTime": 1735101665482,
   "band_list": [
+    {
+      "raw_hot": 1620539,
+      "num": 433629,
+      "word": "抖音副总裁回应吴柳芳再次被禁",
+      "onboard_time": 1735099337,
+      "rank": 10,
+      "category": "体育,网红"
+    },
     {
       "raw_hot": 1526933,
       "num": 1526933,
@@ -25,14 +33,6 @@
       "onboard_time": 1735090218,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1201672,
-      "num": 433629,
-      "word": "抖音副总裁回应吴柳芳再次被禁",
-      "onboard_time": 1735099337,
-      "rank": 10,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 1065561,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 747086,
+      "num": 1119533,
+      "word": "8岁男孩用眼过度总把数字镜像反写",
+      "onboard_time": 1735099878,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 728606,
       "num": 562106,
       "word": "春晚分会场是会选址的",
@@ -115,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 623159,
+      "raw_hot": 636078,
       "num": 423032,
       "word": "女子反复流产原因出在男方",
       "onboard_time": 1735097777,
@@ -131,11 +139,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597734,
+      "num": 392471,
+      "word": "小红薯娇妻文案",
+      "onboard_time": 1735098258,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572752,
       "num": 572752,
       "word": "时代峰峻将30%苹果税纳入高会成本",
       "onboard_time": 1735092797,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 529367,
+      "num": 529367,
+      "word": "前TVB艺人被香港警方通缉",
+      "onboard_time": 1735099999,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -193,14 +217,6 @@
       "onboard_time": 1735054639,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392471,
-      "num": 392471,
-      "word": "小红薯娇妻文案",
-      "onboard_time": 1735098258,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 388570,
@@ -283,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321629,
+      "num": 321629,
+      "word": "虞书欣林一共创微博",
+      "onboard_time": 1735100840,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 317160,
       "num": 317160,
       "word": "新疆伊犁住一晚酒店只要4元",
@@ -331,20 +355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286560,
+      "num": 286560,
+      "word": "北电同学谈丁程鑫",
+      "onboard_time": 1735098139,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286439,
       "num": 286439,
       "word": "悬疑剧终于不止在东北重庆了",
       "onboard_time": 1735099399,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286263,
-      "num": 286263,
-      "word": "北电同学谈丁程鑫",
-      "onboard_time": 1735098139,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 267012,
@@ -379,14 +403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253593,
-      "num": 348645,
-      "word": "8岁男孩用眼过度总把数字镜像反写",
-      "onboard_time": 1735099878,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253343,
       "num": 253343,
       "word": "李耕耘腹肌",
@@ -401,6 +417,14 @@
       "onboard_time": 1735051579,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250832,
+      "num": 250832,
+      "word": "第五人格",
+      "onboard_time": 1735100779,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 249265,
@@ -435,6 +459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 228449,
+      "num": 228449,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 223508,
       "num": 223508,
       "word": "景区回应李现在虎跳峡举国旗",
@@ -449,6 +481,14 @@
       "onboard_time": 1735092677,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 218707,
+      "num": 218707,
+      "word": "竹林四侠Cha",
+      "onboard_time": 1735100960,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 216702,
@@ -475,12 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207101,
-      "num": 449501,
-      "word": "前TVB艺人被香港警方通缉",
-      "onboard_time": 1735099999,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 208304,
+      "num": 208304,
+      "word": "Last Christmas",
+      "onboard_time": 1735100599,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 206695,
@@ -513,6 +553,14 @@
       "onboard_time": 1735087458,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196910,
+      "num": 196910,
+      "word": "家暴男开打前先抢妻子手机",
+      "onboard_time": 1735099819,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195766,
@@ -571,12 +619,28 @@
       "category": "科学科普,幽默"
     },
     {
+      "raw_hot": 175586,
+      "num": 175586,
+      "word": "被家暴16次女子说前夫就是安嘉和",
+      "onboard_time": 1735099337,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174665,
       "num": 174665,
       "word": "美国航空公司全美停飞",
       "onboard_time": 1735043538,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173172,
+      "num": 211977,
+      "word": "张元英高定封面",
+      "onboard_time": 1735101199,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 172147,
@@ -595,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168454,
-      "num": 168454,
-      "word": "被家暴16次女子说前夫就是安嘉和",
-      "onboard_time": 1735099337,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 171343,
+      "num": 171343,
+      "word": "魔卡少女樱 月城雪兔",
+      "onboard_time": 1735100539,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 167267,
@@ -627,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160726,
-      "num": 160726,
-      "word": "攒了一年的惊艳瞬间",
-      "onboard_time": 1735100659,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 159581,
       "num": 159581,
       "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
@@ -643,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158628,
-      "num": 158628,
-      "word": "第五人格",
-      "onboard_time": 1735100779,
-      "rank": 41,
-      "category": "游戏"
+      "raw_hot": 159232,
+      "num": 159232,
+      "word": "腾讯娱乐年度盛典",
+      "onboard_time": 1735101439,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 158213,
@@ -667,12 +723,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157580,
-      "num": 157580,
-      "word": "家暴男开打前先抢妻子手机",
-      "onboard_time": 1735099819,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 157424,
+      "num": 157424,
+      "word": "李沁 把时间花在自己身上最稳",
+      "onboard_time": 1735101439,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 156468,
@@ -699,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153916,
+      "num": 153916,
+      "word": "工藤新一 又是第一",
+      "onboard_time": 1735100539,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 153528,
       "num": 153528,
       "word": "因穿高跟鞋走红男子带火一个村",
@@ -721,22 +785,6 @@
       "onboard_time": 1735096638,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150035,
-      "num": 150035,
-      "word": "工藤新一 又是第一",
-      "onboard_time": 1735100539,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 146872,
-      "num": 146872,
-      "word": "魔卡少女樱 月城雪兔",
-      "onboard_time": 1735100539,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 146759,
@@ -833,6 +881,14 @@
       "onboard_time": 1735085837,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127345,
+      "num": 444970,
+      "word": "隰县人没想到黑神话带来泼天流量",
+      "onboard_time": 1735100359,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 126397,
@@ -1091,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82629,
-      "num": 444970,
-      "word": "隰县人没想到黑神话带来泼天流量",
-      "onboard_time": 1735100359,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 82553,
       "num": 82553,
       "word": "女子发现房顶小孔竟是针孔摄像头",
@@ -1211,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67399,
+      "num": 314616,
+      "word": "何浩楠直播",
+      "onboard_time": 1735101499,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64939,
       "num": 157711,
       "word": "铃木保奈美岁月不败美人具象化了",
@@ -1251,6 +1307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57925,
+      "num": 332702,
+      "word": "被家暴16次女子最怕孩子问身上伤口",
+      "onboard_time": 1735101140,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
@@ -1281,6 +1345,22 @@
       "onboard_time": 1735058056,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54127,
+      "num": 343598,
+      "word": "上官正义一年举报43家非法代孕机构",
+      "onboard_time": 1735100840,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52370,
+      "num": 944252,
+      "word": "川藏青藏公路通车70年",
+      "onboard_time": 1735046720,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52108,
@@ -1347,14 +1427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40226,
-      "num": 944252,
-      "word": "川藏青藏公路通车70年",
-      "onboard_time": 1735046720,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39193,
       "num": 39193,
       "word": "外交部发布海外旅行安全锦囊",
@@ -1369,6 +1441,14 @@
       "onboard_time": 1735040597,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33625,
+      "num": 334605,
+      "word": "雄狮少年花的意象",
+      "onboard_time": 1735101140,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 31648,
@@ -1531,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 9391,
+      "num": 686384,
+      "word": "我国制造业规模连续14年世界第一",
+      "onboard_time": 1735101499,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 9131,
       "num": 76055,
       "word": "NBA将发布詹杜库合体专访",
@@ -1550,6 +1638,9 @@
   "hotgov_list": [
     {
       "word": "#同球共济和合共生#"
+    },
+    {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
     }
   ]
 }
