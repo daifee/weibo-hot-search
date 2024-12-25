@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735122167908,
+  "endTime": 1735123196413,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -25,6 +25,14 @@
       "onboard_time": 1735060753,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1427497,
+      "num": 1427497,
+      "word": "坠机现场生还者下机坐地哭喊被拖走",
+      "onboard_time": 1735118539,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1366142,
@@ -57,14 +65,6 @@
       "onboard_time": 1735099878,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1192769,
-      "num": 1192769,
-      "word": "坠机现场生还者下机坐地哭喊被拖走",
-      "onboard_time": 1735118539,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1159929,
@@ -179,20 +179,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 764514,
+      "num": 508261,
+      "word": "黄子韬账号带货月销售额近2500万元",
+      "onboard_time": 1735117099,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749375,
       "num": 749375,
       "word": "张颂文自爆曾因长相被剧组打压",
       "onboard_time": 1735085357,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 749146,
-      "num": 483507,
-      "word": "黄子韬账号带货月销售额近2500万元",
-      "onboard_time": 1735117099,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 728606,
@@ -203,12 +203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 723380,
+      "num": 723380,
+      "word": "刘晓艳20年前考研成绩365分",
+      "onboard_time": 1735121477,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714931,
       "num": 714931,
       "word": "外媒公布哈萨克斯坦坠机事故中乘客国籍",
       "onboard_time": 1735116679,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 710809,
+      "num": 710809,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1735114758,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 707570,
@@ -291,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 588419,
-      "num": 588419,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1735114758,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 572752,
       "num": 572752,
       "word": "时代峰峻将30%苹果税纳入高会成本",
@@ -329,6 +337,14 @@
       "onboard_time": 1735113858,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 543344,
+      "num": 543344,
+      "word": "猎罪图鉴2大结局",
+      "onboard_time": 1735121778,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 539871,
@@ -699,14 +715,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 288587,
-      "num": 288587,
-      "word": "刘晓艳20年前考研成绩365分",
-      "onboard_time": 1735121477,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 287641,
       "num": 214781,
       "word": "王一博新歌",
@@ -867,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240256,
+      "num": 488694,
+      "word": "周深今年最大的收获是歌迷",
+      "onboard_time": 1735118238,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 239907,
       "num": 239907,
       "word": "原来对孩子来说一天就是很久",
@@ -1003,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208465,
+      "num": 407840,
+      "word": "胡兵一年飞行时间快赶上飞行员了",
+      "onboard_time": 1735121119,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208304,
       "num": 208304,
       "word": "Last Christmas",
@@ -1059,14 +1083,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 201013,
-      "num": 488694,
-      "word": "周深今年最大的收获是歌迷",
-      "onboard_time": 1735118238,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200372,
       "num": 200372,
       "word": "美股",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1735108159,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198377,
+      "num": 198377,
+      "word": "猎罪图鉴2",
+      "onboard_time": 1735123038,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 196967,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1735042158,
       "rank": 15,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 194100,
+      "num": 274719,
+      "word": "沈月串门探班赵一博",
+      "onboard_time": 1735122199,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 191197,
@@ -1211,14 +1243,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183796,
-      "num": 183796,
-      "word": "猎罪图鉴2大结局",
-      "onboard_time": 1735121778,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182883,
       "num": 182883,
       "word": "乒乓球亚洲杯国乒受邀名单",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1735043538,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 173987,
+      "num": 173987,
+      "word": "芒果女主持采访戚薇时的眼神",
+      "onboard_time": 1735121778,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 173792,
@@ -1403,12 +1435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160714,
-      "num": 407840,
-      "word": "胡兵一年飞行时间快赶上飞行员了",
-      "onboard_time": 1735121119,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 159905,
+      "num": 159905,
+      "word": "登陆少年五个人凑不出一个胆子",
+      "onboard_time": 1735122978,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159581,
@@ -1563,14 +1595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150826,
-      "num": 150826,
-      "word": "芒果女主持采访戚薇时的眼神",
-      "onboard_time": 1735121778,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
@@ -1585,6 +1609,14 @@
       "onboard_time": 1735120998,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 146826,
+      "num": 141217,
+      "word": "王诗龄被刘亦菲抱着",
+      "onboard_time": 1735122919,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 146759,
@@ -1603,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146397,
+      "num": 146397,
+      "word": "圣诞节文案",
+      "onboard_time": 1735122618,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145967,
       "num": 145967,
       "word": "崔然竣背头造型",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1735106779,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144824,
+      "num": 144824,
+      "word": "女子被抱养生父母送10万是姐弟主意",
+      "onboard_time": 1735122798,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144251,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1735111217,
       "rank": 19,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 137767,
+      "num": 531300,
+      "word": "哈萨克斯坦坠机幸存者走出机舱",
+      "onboard_time": 1735121598,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136899,
@@ -1785,6 +1841,14 @@
       "onboard_time": 1735105398,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129886,
+      "num": 129886,
+      "word": "韩维辰ending",
+      "onboard_time": 1735123158,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 129250,
@@ -2147,6 +2211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95002,
+      "num": 398844,
+      "word": "人社局回应小伙上班6天误触辐射源",
+      "onboard_time": 1735122318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94337,
       "num": 243144,
       "word": "律师称家暴男最高可判死刑",
@@ -2411,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67100,
+      "num": 1171113,
+      "word": "传承3000多年的非遗黎锦美学满满",
+      "onboard_time": 1735121057,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 65879,
       "num": 221280,
       "word": "KSG的圣诞打开方式",
@@ -2579,6 +2659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 47991,
+      "num": 283453,
+      "word": "PEL当打之年",
+      "onboard_time": 1735122378,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47616,
       "num": 223054,
       "word": "陈震就不能有自己想买的车吗",
@@ -2635,12 +2723,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 42910,
-      "num": 1171113,
-      "word": "传承3000多年的非遗黎锦美学满满",
-      "onboard_time": 1735121057,
-      "rank": 2,
-      "category": "正能量"
+      "raw_hot": 43125,
+      "num": 399873,
+      "word": "猎罪图鉴2让每个涉案人都成为主角",
+      "onboard_time": 1735122919,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 42027,
@@ -2729,6 +2817,14 @@
       "onboard_time": 1735040597,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36249,
+      "num": 167227,
+      "word": "华为Mate70勇闯航天实验室",
+      "onboard_time": 1735122558,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 35537,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1735120818,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24145,
+      "num": 404968,
+      "word": "市民反映供暖问题遭工作人员回怼",
+      "onboard_time": 1735123158,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23757,
@@ -2993,6 +3097,14 @@
       "onboard_time": 1735060633,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8516,
+      "num": 265156,
+      "word": "小西天商户集体谢黑神话悟空",
+      "onboard_time": 1735123038,
+      "rank": 29,
+      "category": "旅游,游戏"
     },
     {
       "raw_hot": 7946,

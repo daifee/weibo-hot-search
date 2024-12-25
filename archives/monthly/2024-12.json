@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735122167908,
+  "endTime": 1735123196413,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -2211,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1427497,
+      "num": 1427497,
+      "word": "坠机现场生还者下机坐地哭喊被拖走",
+      "onboard_time": 1735118539,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1427084,
       "num": 1427084,
       "word": "洪小铃结婚怀孕",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1733801179,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1192769,
-      "num": 1192769,
-      "word": "坠机现场生还者下机坐地哭喊被拖走",
-      "onboard_time": 1735118539,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1187551,
@@ -7523,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 764514,
+      "num": 508261,
+      "word": "黄子韬账号带货月销售额近2500万元",
+      "onboard_time": 1735117099,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 764134,
       "num": 764134,
       "word": "叙利亚国家军队说阿萨德政权已结束",
@@ -7745,14 +7753,6 @@
       "onboard_time": 1735085357,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 749146,
-      "num": 483507,
-      "word": "黄子韬账号带货月销售额近2500万元",
-      "onboard_time": 1735117099,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 749057,
@@ -8139,6 +8139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 723380,
+      "num": 723380,
+      "word": "刘晓艳20年前考研成绩365分",
+      "onboard_time": 1735121477,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 723339,
       "num": 723339,
       "word": "王楚钦 不要让我坐第一排啊",
@@ -8401,6 +8409,14 @@
       "onboard_time": 1734509960,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 710809,
+      "num": 710809,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1735114758,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 710725,
@@ -11139,14 +11155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 588419,
-      "num": 588419,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1735114758,
-      "rank": 10,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 588036,
       "num": 525768,
       "word": "景区回应李现在虎跳峡举国旗",
@@ -12329,6 +12337,14 @@
       "onboard_time": 1734220276,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 543344,
+      "num": 543344,
+      "word": "猎罪图鉴2大结局",
+      "onboard_time": 1735121778,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 542852,
@@ -23739,14 +23755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288587,
-      "num": 288587,
-      "word": "刘晓艳20年前考研成绩365分",
-      "onboard_time": 1735121477,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 288526,
       "num": 288526,
       "word": "原来化妆的尽头是极简",
@@ -27801,6 +27809,14 @@
       "onboard_time": 1733747721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240256,
+      "num": 488694,
+      "word": "周深今年最大的收获是歌迷",
+      "onboard_time": 1735118238,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240146,
@@ -32187,6 +32203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208465,
+      "num": 407840,
+      "word": "胡兵一年飞行时间快赶上飞行员了",
+      "onboard_time": 1735121119,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208442,
       "num": 401887,
       "word": "迪丽热巴日常侧拍",
@@ -34009,14 +34033,6 @@
       "onboard_time": 1733490441,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201013,
-      "num": 488694,
-      "word": "周深今年最大的收获是歌迷",
-      "onboard_time": 1735118238,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200979,
@@ -36065,6 +36081,14 @@
       "onboard_time": 1734260778,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 194100,
+      "num": 274719,
+      "word": "沈月串门探班赵一博",
+      "onboard_time": 1735122199,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 194097,
@@ -39163,14 +39187,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 183796,
-      "num": 183796,
-      "word": "猎罪图鉴2大结局",
-      "onboard_time": 1735121778,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183768,
       "num": 302369,
       "word": "宋旻浩消极服役惹众怒",
@@ -41385,6 +41401,14 @@
       "onboard_time": 1733719040,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173987,
+      "num": 173987,
+      "word": "芒果女主持采访戚薇时的眼神",
+      "onboard_time": 1735121778,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 173944,
@@ -45227,14 +45251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160714,
-      "num": 407840,
-      "word": "胡兵一年飞行时间快赶上飞行员了",
-      "onboard_time": 1735121119,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160704,
       "num": 271168,
       "word": "14战英语四级都没过博士发声",
@@ -45473,6 +45489,14 @@
       "onboard_time": 1733888060,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159905,
+      "num": 159905,
+      "word": "登陆少年五个人凑不出一个胆子",
+      "onboard_time": 1735122978,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 159902,
@@ -48619,14 +48643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150826,
-      "num": 150826,
-      "word": "芒果女主持采访戚薇时的眼神",
-      "onboard_time": 1735121778,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150822,
       "num": 150822,
       "word": "英伟达中国",
@@ -49875,6 +49891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146826,
+      "num": 141217,
+      "word": "王诗龄被刘亦菲抱着",
+      "onboard_time": 1735122919,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146821,
       "num": 334187,
       "word": "likelihood",
@@ -50009,6 +50033,14 @@
       "onboard_time": 1733739441,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 146397,
+      "num": 146397,
+      "word": "圣诞节文案",
+      "onboard_time": 1735122618,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 146374,
@@ -50513,6 +50545,14 @@
       "onboard_time": 1733895140,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144824,
+      "num": 144824,
+      "word": "女子被抱养生父母送10万是姐弟主意",
+      "onboard_time": 1735122798,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144809,
@@ -52817,6 +52857,14 @@
       "onboard_time": 1734834858,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137767,
+      "num": 531300,
+      "word": "哈萨克斯坦坠机幸存者走出机舱",
+      "onboard_time": 1735121598,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137733,
@@ -55217,6 +55265,14 @@
       "onboard_time": 1733055018,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129886,
+      "num": 129886,
+      "word": "韩维辰ending",
+      "onboard_time": 1735123158,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 129879,
@@ -64435,6 +64491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95002,
+      "num": 398844,
+      "word": "人社局回应小伙上班6天误触辐射源",
+      "onboard_time": 1735122318,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94918,
       "num": 94918,
       "word": "英国正式加入CPTPP",
@@ -70291,6 +70355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67100,
+      "num": 1171113,
+      "word": "传承3000多年的非遗黎锦美学满满",
+      "onboard_time": 1735121057,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 67071,
       "num": 513802,
       "word": "王楚钦梁靖崑领衔山东魏桥出战乒超",
@@ -75339,6 +75411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47991,
+      "num": 283453,
+      "word": "PEL当打之年",
+      "onboard_time": 1735122378,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 47986,
       "num": 47986,
       "word": "72岁爷爷给猴子当了29年贴身保镖",
@@ -77003,6 +77083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43125,
+      "num": 399873,
+      "word": "猎罪图鉴2让每个涉案人都成为主角",
+      "onboard_time": 1735122919,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43101,
       "num": 489893,
       "word": "向佐用手势回应节目争议",
@@ -77065,14 +77153,6 @@
       "onboard_time": 1734502399,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 42910,
-      "num": 1171113,
-      "word": "传承3000多年的非遗黎锦美学满满",
-      "onboard_time": 1735121057,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 42906,
@@ -79457,6 +79537,14 @@
       "onboard_time": 1733394501,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36249,
+      "num": 167227,
+      "word": "华为Mate70勇闯航天实验室",
+      "onboard_time": 1735122558,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 36226,
@@ -84152,6 +84240,14 @@
       "word": "景区回应用绳子制造人工冰瀑",
       "onboard_time": 1734974893,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24145,
+      "num": 404968,
+      "word": "市民反映供暖问题遭工作人员回怼",
+      "onboard_time": 1735123158,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -89169,6 +89265,14 @@
       "onboard_time": 1734421638,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 8516,
+      "num": 265156,
+      "word": "小西天商户集体谢黑神话悟空",
+      "onboard_time": 1735123038,
+      "rank": 29,
+      "category": "旅游,游戏"
     },
     {
       "raw_hot": 8500,
