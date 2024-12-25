@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735125504045,
+  "endTime": 1735126546526,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -137,6 +137,14 @@
       "onboard_time": 1735091657,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 927650,
+      "num": 310974,
+      "word": "一中学学生签自杀与学校无关承诺书",
+      "onboard_time": 1735125137,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 916594,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522321,
+      "num": 348764,
+      "word": "王诗龄被刘亦菲抱着",
+      "onboard_time": 1735122919,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516714,
       "num": 516714,
       "word": "圣诞快乐",
@@ -395,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 474000,
+      "num": 405107,
+      "word": "猎罪图鉴3",
+      "onboard_time": 1735125677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468620,
       "num": 468620,
       "word": "生父母谈女儿被送养37年拒认亲",
       "onboard_time": 1735119258,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 464073,
+      "num": 424873,
+      "word": "赵一博串门探班沈月",
+      "onboard_time": 1735122199,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 461041,
@@ -459,14 +491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 424873,
-      "num": 424873,
-      "word": "赵一博串门探班沈月",
-      "onboard_time": 1735122199,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422787,
       "num": 422787,
       "word": "小鬼当家",
@@ -497,6 +521,14 @@
       "onboard_time": 1735120338,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 401579,
+      "num": 303860,
+      "word": "两个沈翊",
+      "onboard_time": 1735124478,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 397659,
@@ -625,14 +657,6 @@
       "onboard_time": 1735036759,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 324650,
-      "num": 324650,
-      "word": "王诗龄被刘亦菲抱着",
-      "onboard_time": 1735122919,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 321629,
@@ -875,14 +899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251207,
-      "num": 251207,
-      "word": "两个沈翊",
-      "onboard_time": 1735124478,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "第五人格",
@@ -940,7 +956,7 @@
     },
     {
       "raw_hot": 237675,
-      "num": 237675,
+      "num": 302176,
       "word": "被家暴女子接受净身出户但坚持死刑",
       "onboard_time": 1735120638,
       "rank": 29,
@@ -1083,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207136,
+      "num": 207136,
+      "word": "权志龙压轴",
+      "onboard_time": 1735125978,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206774,
       "num": 206774,
       "word": "2NE1串烧",
@@ -1129,14 +1153,6 @@
       "onboard_time": 1735114099,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204188,
-      "num": 204188,
-      "word": "一中学学生签自杀与学校无关承诺书",
-      "onboard_time": 1735125137,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203495,
@@ -1219,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196554,
+      "num": 420735,
+      "word": "团伙走私加拿大羽绒服申报成零食",
+      "onboard_time": 1735115538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1735115959,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188882,
+      "num": 188882,
+      "word": "孟子义李昀锐怎么还有售后",
+      "onboard_time": 1735126338,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187809,
@@ -1337,6 +1369,14 @@
       "onboard_time": 1735117637,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176904,
+      "num": 343618,
+      "word": "新疆早产儿小扎提今日出院",
+      "onboard_time": 1735124896,
+      "rank": 14,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 176418,
@@ -1467,6 +1507,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 166796,
+      "num": 166796,
+      "word": "CV声讨AI语音侵权",
+      "onboard_time": 1735125978,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 166685,
       "num": 166685,
       "word": "SBS妆造",
@@ -1571,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159063,
+      "num": 164701,
+      "word": "郭柯宇笑谈儿子想凭一己之力捧红她",
+      "onboard_time": 1735123459,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158251,
       "num": 179266,
       "word": "吉林火锅的肉山是真肉山",
@@ -1619,6 +1675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155714,
+      "num": 155714,
+      "word": "老舅说虞书欣认真能干又专业",
+      "onboard_time": 1735125739,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155698,
       "num": 234777,
       "word": "男子家暴入狱威胁妻子出具谅解书",
@@ -1633,14 +1697,6 @@
       "onboard_time": 1735094777,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154808,
-      "num": 164701,
-      "word": "郭柯宇笑谈儿子想凭一己之力捧红她",
-      "onboard_time": 1735123459,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 154186,
@@ -2140,7 +2196,7 @@
     },
     {
       "raw_hot": 113530,
-      "num": 205892,
+      "num": 227062,
       "word": "王鹤棣死脑快想啊",
       "onboard_time": 1735124118,
       "rank": 27,
@@ -2216,14 +2272,6 @@
       "word": "哈尔滨冰雪大世界有多火",
       "onboard_time": 1735046780,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106866,
-      "num": 420735,
-      "word": "团伙走私加拿大羽绒服申报成零食",
-      "onboard_time": 1735115538,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2531,6 +2579,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 71200,
+      "num": 226182,
+      "word": "王者荣耀主题曲信念",
+      "onboard_time": 1735126399,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71129,
       "num": 71129,
       "word": "猎罪2一个案子集齐贪嗔痴",
@@ -2715,20 +2771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53375,
+      "num": 241286,
+      "word": "孙颖莎2024赛季回顾",
+      "onboard_time": 1735125137,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52370,
       "num": 944252,
       "word": "川藏青藏公路通车70年",
       "onboard_time": 1735046720,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 52172,
-      "num": 241286,
-      "word": "孙颖莎2024赛季回顾",
-      "onboard_time": 1735125137,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 52108,
@@ -2867,14 +2923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41109,
-      "num": 343618,
-      "word": "新疆早产儿小扎提今日出院",
-      "onboard_time": 1735124896,
-      "rank": 14,
-      "category": "民生新闻,民生新闻"
-    },
-    {
       "raw_hot": 41035,
       "num": 206072,
       "word": "蔷薇风暴定档",
@@ -3003,12 +3051,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29925,
+      "num": 132542,
+      "word": "预制圣诞照片",
+      "onboard_time": 1735123638,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 29877,
       "num": 170690,
       "word": "古人爱吃什么馅的饺子",
       "onboard_time": 1735111938,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 26197,
+      "num": 300256,
+      "word": "刘诗诗VOGUE香港版封面",
+      "onboard_time": 1735125377,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25723,
@@ -3123,14 +3187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20434,
-      "num": 205721,
-      "word": "刘诗诗VOGUE香港版封面",
-      "onboard_time": 1735125377,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 20205,
       "num": 54825,
       "word": "上万名村民个人信息被盗",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1735073050,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18994,
+      "num": 255845,
+      "word": "和2024年一起告别的还有它们",
+      "onboard_time": 1735124538,
+      "rank": 19,
+      "category": "民生新闻,民生新闻"
     },
     {
       "raw_hot": 18969,
@@ -3195,12 +3259,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15894,
-      "num": 255845,
-      "word": "和2024年一起告别的还有它们",
-      "onboard_time": 1735124538,
-      "rank": 19,
-      "category": "民生新闻,民生新闻"
+      "raw_hot": 15828,
+      "num": 186766,
+      "word": "李兰迪恰逢其时大片",
+      "onboard_time": 1735126458,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15763,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735126546526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1361603,
+        "num": 1361603,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435446,
+        "num": 435446,
+        "word": "日本将对中国游客首设十年多次签证",
+        "onboard_time": 1735118058,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 60382,
+        "num": 431653,
+        "word": "传承3000多年的非遗黎锦美学满满",
+        "onboard_time": 1735121057,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 632254,
+        "num": 431137,
+        "word": "猎罪图鉴2大结局",
+        "onboard_time": 1735121778,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428201,
+        "num": 428201,
+        "word": "人社局回应小伙上班6天误触辐射源",
+        "onboard_time": 1735122318,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1264116,
+        "num": 418486,
+        "word": "坠机现场生还者下机坐地哭喊被拖走",
+        "onboard_time": 1735118539,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474000,
+        "num": 405107,
+        "word": "猎罪图鉴3",
+        "onboard_time": 1735125677,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370110,
+        "num": 370110,
+        "word": "山姆代购每月返现可高达万元",
+        "onboard_time": 1735115058,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522321,
+        "num": 348764,
+        "word": "王诗龄被刘亦菲抱着",
+        "onboard_time": 1735122919,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312045,
+        "num": 312045,
+        "word": "外媒公布哈萨克斯坦坠机事故中乘客国籍",
+        "onboard_time": 1735116679,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 927650,
+        "num": 310974,
+        "word": "一中学学生签自杀与学校无关承诺书",
+        "onboard_time": 1735125137,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464073,
+        "num": 309969,
+        "word": "赵一博串门探班沈月",
+        "onboard_time": 1735122199,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433234,
+        "num": 309166,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1735114758,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 413821,
+        "num": 306465,
+        "word": "向佐马面裙被曝抄袭比原版贵300",
+        "onboard_time": 1735116318,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176904,
+        "num": 305983,
+        "word": "新疆早产儿小扎提今日出院",
+        "onboard_time": 1735124896,
+        "rank": 14,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 401579,
+        "num": 303860,
+        "word": "两个沈翊",
+        "onboard_time": 1735124478,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219232,
+        "num": 302176,
+        "word": "被家暴女子接受净身出户但坚持死刑",
+        "onboard_time": 1735120638,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336128,
+        "num": 301769,
+        "word": "只有安宥真穿了黑裙",
+        "onboard_time": 1735112778,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26197,
+        "num": 300256,
+        "word": "刘诗诗VOGUE香港版封面",
+        "onboard_time": 1735125377,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299311,
+        "num": 299311,
+        "word": "一架客机在哈萨克斯坦坠毁",
+        "onboard_time": 1735111519,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 538874,
+        "num": 289335,
+        "word": "黄子韬账号带货月销售额近2500万元",
+        "onboard_time": 1735117099,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343720,
+        "num": 280893,
+        "word": "60岁高龄孕妇剖宫产下男婴",
+        "onboard_time": 1735117159,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272230,
+        "num": 272230,
+        "word": "果郡王回复网友不用意难平了",
+        "onboard_time": 1735112058,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68805,
+        "num": 227062,
+        "word": "王鹤棣死脑快想啊",
+        "onboard_time": 1735124118,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71200,
+        "num": 226182,
+        "word": "王者荣耀主题曲信念",
+        "onboard_time": 1735126399,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18994,
+        "num": 226063,
+        "word": "和2024年一起告别的还有它们",
+        "onboard_time": 1735124538,
+        "rank": 25,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 226048,
+        "num": 226048,
+        "word": "新华社评2024年中国十佳运动员",
+        "onboard_time": 1735113858,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207136,
+        "num": 207136,
+        "word": "权志龙压轴",
+        "onboard_time": 1735125978,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196554,
+        "num": 196554,
+        "word": "团伙走私加拿大羽绒服申报成零食",
+        "onboard_time": 1735115538,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191499,
+        "num": 191499,
+        "word": "女子被抱养生父母送10万是姐弟主意",
+        "onboard_time": 1735122798,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189117,
+        "num": 189117,
+        "word": "波司登700元3克绒羽绒裤已下架",
+        "onboard_time": 1735117637,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188882,
+        "num": 188882,
+        "word": "孟子义李昀锐怎么还有售后",
+        "onboard_time": 1735126338,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15828,
+        "num": 186766,
+        "word": "李兰迪恰逢其时大片",
+        "onboard_time": 1735126458,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 185548,
+        "word": "哈总统下令成立委员会调查坠机事故",
+        "onboard_time": 1735120338,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172768,
+        "num": 172768,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166796,
+        "num": 166796,
+        "word": "CV声讨AI语音侵权",
+        "onboard_time": 1735125978,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 171569,
+        "num": 165857,
+        "word": "孟子义 姐姐这腰真受不了",
+        "onboard_time": 1735105698,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 786595,
+        "num": 165440,
+        "word": "刘晓艳20年前考研成绩365分",
+        "onboard_time": 1735121477,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164393,
+        "num": 164393,
+        "word": "汶川地震幸存者活成了什么样",
+        "onboard_time": 1735123218,
+        "rank": 38,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 155714,
+        "word": "老舅说虞书欣认真能干又专业",
+        "onboard_time": 1735125739,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150891,
+        "num": 150891,
+        "word": "2NE1串烧",
+        "onboard_time": 1735125137,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143209,
+        "num": 143209,
+        "word": "丁禹兮给工作人员送圣诞礼物",
+        "onboard_time": 1735121957,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138122,
+        "num": 138122,
+        "word": "哈萨克斯坦坠机幸存者走出机舱",
+        "onboard_time": 1735121598,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29925,
+        "num": 132542,
+        "word": "预制圣诞照片",
+        "onboard_time": 1735123638,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "芒果女主持采访戚薇时的眼神",
+        "onboard_time": 1735121778,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128499,
+        "num": 128499,
+        "word": "SBS妆造",
+        "onboard_time": 1735123578,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27689,
+        "num": 127399,
+        "word": "华为Mate70勇闯航天实验室",
+        "onboard_time": 1735122558,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159063,
+        "num": 127362,
+        "word": "郭柯宇笑谈儿子想凭一己之力捧红她",
+        "onboard_time": 1735123459,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53375,
+        "num": 127235,
+        "word": "孙颖莎2024赛季回顾",
+        "onboard_time": 1735125137,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127204,
+        "num": 127204,
+        "word": "周深今年最大的收获是歌迷",
+        "onboard_time": 1735118238,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}
