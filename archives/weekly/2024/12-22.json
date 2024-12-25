@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735098040036,
+  "endTime": 1735100822895,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -345,6 +345,14 @@
       "onboard_time": 1735032078,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1201672,
+      "num": 433629,
+      "word": "抖音副总裁回应吴柳芳再次被禁",
+      "onboard_time": 1735099337,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 1199523,
@@ -995,6 +1003,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 707570,
+      "num": 707570,
+      "word": "小米官宣与蔚来合作",
+      "onboard_time": 1735096038,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 706594,
       "num": 706594,
       "word": "殡葬专业本科比其他专业高二三十分",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1734941298,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677456,
+      "num": 677456,
+      "word": "猎罪2李媛 畸形的虐恋太危险",
+      "onboard_time": 1735098739,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 674642,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1734789318,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 623159,
+      "num": 423032,
+      "word": "女子反复流产原因出在男方",
+      "onboard_time": 1735097777,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 618799,
@@ -1587,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525450,
-      "num": 525450,
-      "word": "小米官宣与蔚来合作",
-      "onboard_time": 1735096038,
-      "rank": 16,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 517217,
       "num": 517217,
       "word": "吴磊第一部现偶多国TOP1",
@@ -1795,6 +1819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 455891,
+      "num": 455891,
+      "word": "32岁中国籍男游客在日本滑雪场遇难",
+      "onboard_time": 1735095018,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455452,
       "num": 455452,
       "word": "法官王佳佳遭报复杀害案一审宣判",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1734945679,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422787,
+      "num": 422787,
+      "word": "小鬼当家",
+      "onboard_time": 1735097118,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 421844,
@@ -2219,12 +2259,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392471,
+      "num": 392471,
+      "word": "小红薯娇妻文案",
+      "onboard_time": 1735098258,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
       "onboard_time": 1734965180,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 388570,
+      "num": 388570,
+      "word": "哈尔滨偶遇郭晶晶一家",
+      "onboard_time": 1735096698,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 387632,
@@ -2313,6 +2369,14 @@
       "onboard_time": 1734839417,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 376959,
+      "num": 348557,
+      "word": "不敢相信这是44岁的阿朵",
+      "onboard_time": 1735099337,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 376145,
@@ -2529,14 +2593,6 @@
       "onboard_time": 1734860178,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 345589,
-      "num": 345589,
-      "word": "小鬼当家",
-      "onboard_time": 1735097118,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 345579,
@@ -2819,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309507,
+      "num": 309507,
+      "word": "又让王安宇装到了",
+      "onboard_time": 1735098559,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308071,
       "num": 306749,
       "word": "男子婚后发现妻子结7次婚育6娃",
@@ -2889,6 +2953,14 @@
       "onboard_time": 1734789260,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298900,
+      "num": 298900,
+      "word": "iPhone18零边框目标或落空",
+      "onboard_time": 1735095078,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 298722,
@@ -2995,12 +3067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287216,
-      "num": 183546,
-      "word": "女子反复流产原因出在男方",
-      "onboard_time": 1735097777,
+      "raw_hot": 286439,
+      "num": 286439,
+      "word": "悬疑剧终于不止在东北重庆了",
+      "onboard_time": 1735099399,
       "rank": 30,
-      "category": "母婴育儿"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286263,
+      "num": 286263,
+      "word": "北电同学谈丁程鑫",
+      "onboard_time": 1735098139,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 284111,
@@ -3363,6 +3443,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 253593,
+      "num": 348645,
+      "word": "8岁男孩用眼过度总把数字镜像反写",
+      "onboard_time": 1735099878,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253343,
       "num": 253343,
       "word": "李耕耘腹肌",
@@ -3499,14 +3587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 244322,
-      "num": 244322,
-      "word": "iPhone18零边框目标或落空",
-      "onboard_time": 1735095078,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 243929,
       "num": 456114,
       "word": "贺岁档电影票房破20亿",
@@ -3553,14 +3633,6 @@
       "onboard_time": 1735093099,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238313,
-      "num": 238313,
-      "word": "哈尔滨偶遇郭晶晶一家",
-      "onboard_time": 1735096698,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 237554,
@@ -3939,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216702,
+      "num": 216702,
+      "word": "男子不运动爱喝可乐精子DNA碎片化98%",
+      "onboard_time": 1735099278,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216238,
       "num": 216238,
       "word": "为什么iPhone信号不如国产手机",
@@ -4171,6 +4251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207101,
+      "num": 449501,
+      "word": "前TVB艺人被香港警方通缉",
+      "onboard_time": 1735099999,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207050,
       "num": 207050,
       "word": "国安部提示警惕评论区里的谍影重重",
@@ -4313,14 +4401,6 @@
       "onboard_time": 1734948257,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202036,
-      "num": 202036,
-      "word": "32岁中国籍男游客在日本滑雪场遇难",
-      "onboard_time": 1735095018,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201117,
@@ -5427,6 +5507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168454,
+      "num": 168454,
+      "word": "被家暴16次女子说前夫就是安嘉和",
+      "onboard_time": 1735099337,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168339,
       "num": 168339,
       "word": "射雕",
@@ -5723,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160726,
+      "num": 160726,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 160437,
       "num": 468823,
       "word": "央视揭AI假冒名人带货乱象",
@@ -5811,6 +5907,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 158628,
+      "num": 158628,
+      "word": "第五人格",
+      "onboard_time": 1735100779,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158561,
       "num": 284972,
       "word": "家属否认齐秦患癌",
@@ -5891,6 +5995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157580,
+      "num": 157580,
+      "word": "家暴男开打前先抢妻子手机",
+      "onboard_time": 1735099819,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157308,
       "num": 157308,
       "word": "刘阳老师直播",
@@ -5923,6 +6035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156468,
+      "num": 156468,
+      "word": "A股今日共83只个股涨停",
+      "onboard_time": 1735098317,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156285,
       "num": 156285,
       "word": "清密无脸男尸身份均为考生",
@@ -5940,7 +6060,7 @@
     },
     {
       "raw_hot": 155500,
-      "num": 187474,
+      "num": 286503,
       "word": "张颂文回应被吐槽演技差台词也差",
       "onboard_time": 1735094777,
       "rank": 47,
@@ -6219,6 +6339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 150035,
+      "num": 150035,
+      "word": "工藤新一 又是第一",
+      "onboard_time": 1735100539,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 149737,
       "num": 149737,
       "word": "何秋亊回应粉丝吵架",
@@ -6329,6 +6457,14 @@
       "onboard_time": 1734876019,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146872,
+      "num": 146872,
+      "word": "魔卡少女樱 月城雪兔",
+      "onboard_time": 1735100539,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 146759,
@@ -8308,7 +8444,7 @@
     },
     {
       "raw_hot": 104208,
-      "num": 104208,
+      "num": 403409,
       "word": "一粒大米能覆盖药品说明书上四个汉字",
       "onboard_time": 1735096157,
       "rank": 48,
@@ -8795,6 +8931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89995,
+      "num": 352550,
+      "word": "小S晒平安夜全家福",
+      "onboard_time": 1735100539,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89441,
       "num": 89441,
       "word": "孟子义给李昀锐拍日照金山合影",
@@ -8825,6 +8969,14 @@
       "onboard_time": 1734776719,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87963,
+      "num": 392639,
+      "word": "2025中国汽车走向何方",
+      "onboard_time": 1735099757,
+      "rank": 14,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 87701,
@@ -9001,6 +9153,14 @@
       "onboard_time": 1734961279,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82629,
+      "num": 444970,
+      "word": "隰县人没想到黑神话带来泼天流量",
+      "onboard_time": 1735100359,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 82121,
@@ -9627,6 +9787,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 64939,
+      "num": 157711,
+      "word": "铃木保奈美岁月不败美人具象化了",
+      "onboard_time": 1735099337,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64917,
       "num": 115733,
       "word": "全红婵和迈合村的故事",
@@ -9937,6 +10105,14 @@
       "onboard_time": 1735073650,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 56674,
+      "num": 159097,
+      "word": "张杰演唱会电影每一场都是内场",
+      "onboard_time": 1735098798,
+      "rank": 40,
+      "category": "电影,演出"
     },
     {
       "raw_hot": 56662,
@@ -11768,6 +11944,14 @@
       "word": "演员于适为何爱上了骑射",
       "onboard_time": 1734888734,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22517,
+      "num": 286442,
+      "word": "红枫影像还原颖儿付辛博爱情本色",
+      "onboard_time": 1735099939,
+      "rank": 29,
       "category": "艺人"
     },
     {
