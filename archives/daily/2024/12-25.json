@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735126546526,
+  "endTime": 1735130475637,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -51,6 +51,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1288966,
+      "num": 1288966,
+      "word": "一中学学生签自杀与学校无关承诺书",
+      "onboard_time": 1735125137,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1276328,
       "num": 1276328,
       "word": "2年被家暴16次女生称只接受死刑",
@@ -91,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1132025,
+      "num": 1132025,
+      "word": "黄子韬一天涨粉500万",
+      "onboard_time": 1735127838,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1117964,
       "num": 1117964,
       "word": "突然降温女生手指被冻成白色",
@@ -115,11 +131,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 988916,
+      "num": 405107,
+      "word": "猎罪图鉴3",
+      "onboard_time": 1735125677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 987355,
       "num": 184635,
       "word": "波司登700元羽绒裤仅3克绒",
       "onboard_time": 1735106238,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 970492,
+      "num": 970492,
+      "word": "父母割皮10次给烧伤儿子植皮",
+      "onboard_time": 1735126938,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -137,14 +169,6 @@
       "onboard_time": 1735091657,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 927650,
-      "num": 310974,
-      "word": "一中学学生签自杀与学校无关承诺书",
-      "onboard_time": 1735125137,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 916594,
@@ -283,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664554,
+      "num": 327966,
+      "word": "知否 温柔刀刀刀致命",
+      "onboard_time": 1735126578,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 658249,
       "num": 658249,
       "word": "还有8天刑满释放男子被改判死缓",
@@ -355,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 552493,
+      "num": 293958,
+      "word": "权志龙压轴",
+      "onboard_time": 1735125978,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 539871,
       "num": 539871,
       "word": "aespa四公主",
@@ -387,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516376,
+      "num": 289963,
+      "word": "张馨予名下公司叫捷捷高",
+      "onboard_time": 1735129399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504769,
       "num": 466180,
       "word": "王影璐李昀锐领衔主演",
@@ -409,14 +457,6 @@
       "onboard_time": 1735122318,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 474000,
-      "num": 405107,
-      "word": "猎罪图鉴3",
-      "onboard_time": 1735125677,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 468620,
@@ -491,6 +531,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 423598,
+      "num": 254630,
+      "word": "杜城被捅",
+      "onboard_time": 1735128679,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 422787,
       "num": 422787,
       "word": "小鬼当家",
@@ -561,6 +609,14 @@
       "onboard_time": 1735094597,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384391,
+      "num": 254432,
+      "word": "向佐 为什么女生穿男装可以",
+      "onboard_time": 1735128499,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382824,
@@ -641,6 +697,14 @@
       "onboard_time": 1735049960,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346336,
+      "num": 272498,
+      "word": "肖战版郭靖是如何练成的",
+      "onboard_time": 1735127898,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 329405,
@@ -753,6 +817,14 @@
       "onboard_time": 1735045999,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292853,
+      "num": 253914,
+      "word": "柳智敏好辣",
+      "onboard_time": 1735128558,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 290598,
@@ -923,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247947,
+      "num": 247947,
+      "word": "ITZY 申留真",
+      "onboard_time": 1735128199,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 240799,
       "num": 240799,
       "word": "王鹤棣剧宣太大方了",
@@ -1035,6 +1115,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 217750,
+      "num": 217750,
+      "word": "孟子义李昀锐怎么还有售后",
+      "onboard_time": 1735126338,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216862,
+      "num": 216862,
+      "word": "郭柯宇 性格",
+      "onboard_time": 1735129099,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216702,
       "num": 216702,
       "word": "男子不运动爱喝可乐精子DNA碎片化98%",
@@ -1096,14 +1192,6 @@
       "word": "Last Christmas",
       "onboard_time": 1735100599,
       "rank": 38,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 207136,
-      "num": 207136,
-      "word": "权志龙压轴",
-      "onboard_time": 1735125978,
-      "rank": 27,
       "category": "音乐"
     },
     {
@@ -1291,12 +1379,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188882,
-      "num": 188882,
-      "word": "孟子义李昀锐怎么还有售后",
-      "onboard_time": 1735126338,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 188838,
+      "num": 188838,
+      "word": "gidle小麋鹿造型",
+      "onboard_time": 1735129339,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 188750,
+      "num": 188750,
+      "word": "敖子逸生日直播幸运转盘",
+      "onboard_time": 1735129339,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 187809,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1735116559,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187248,
+      "num": 187248,
+      "word": "杨紫1月7日你好星期六录制",
+      "onboard_time": 1735129519,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 187175,
@@ -1369,6 +1473,22 @@
       "onboard_time": 1735117637,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177903,
+      "num": 177903,
+      "word": "当地回应学生自杀与学校无关承诺书",
+      "onboard_time": 1735126578,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177736,
+      "num": 177736,
+      "word": "哈萨克斯坦坠机事件被刑事立案",
+      "onboard_time": 1735128199,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176904,
@@ -1539,6 +1659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164586,
+      "num": 164586,
+      "word": "中国人超爱的如意原型竟是它",
+      "onboard_time": 1735130238,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164302,
       "num": 164302,
       "word": "宁艺卓没有特别舞台",
@@ -1552,6 +1680,14 @@
       "word": "田嘉瑞 大哥我这里不是领鸡蛋的",
       "onboard_time": 1735124598,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162158,
+      "num": 162158,
+      "word": "城翊 这不是表白是什么",
+      "onboard_time": 1735126399,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -1771,6 +1907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150693,
+      "num": 311243,
+      "word": "无案可办的律师涌进三甲医院骨科病房",
+      "onboard_time": 1735129037,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149044,
+      "num": 254942,
+      "word": "日本地铁偶遇蔡依林",
+      "onboard_time": 1735129938,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
@@ -1827,6 +1979,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144879,
+      "num": 144879,
+      "word": "王鹤棣热度破30000脱衣服",
+      "onboard_time": 1735127479,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144251,
       "num": 164025,
       "word": "孟子义控泪",
@@ -1857,6 +2017,14 @@
       "onboard_time": 1735105218,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140621,
+      "num": 140621,
+      "word": "汪苏泷真把游乐园搬进演唱会了",
+      "onboard_time": 1735130297,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 140520,
@@ -1905,6 +2073,14 @@
       "onboard_time": 1735111217,
       "rank": 19,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 136970,
+      "num": 254323,
+      "word": "王楚钦拜访恩师刘国正夫妇",
+      "onboard_time": 1735129759,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 136899,
@@ -2107,6 +2283,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 122879,
+      "num": 277709,
+      "word": "男子从情人车中摔出身亡妻子索赔60万",
+      "onboard_time": 1735129819,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122272,
       "num": 122272,
       "word": "陈铭评价贺峻霖",
@@ -2121,6 +2305,14 @@
       "onboard_time": 1735111338,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121900,
+      "num": 121900,
+      "word": "喂119一只老鹰屁股被冻冰上了",
+      "onboard_time": 1735130358,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120784,
@@ -2331,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103184,
+      "num": 262590,
+      "word": "王暖暖声援小谢称家暴不是家事",
+      "onboard_time": 1735129459,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102213,
       "num": 102213,
       "word": "5个爸爸为病儿直播跳舞1夜收40万打赏",
@@ -2459,6 +2659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86518,
+      "num": 227649,
+      "word": "广州拟将土狗移出禁养危险犬名录",
+      "onboard_time": 1735128499,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86236,
       "num": 86236,
       "word": "专科考研一战上岸211",
@@ -2569,6 +2777,14 @@
       "onboard_time": 1735062552,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73341,
+      "num": 254777,
+      "word": "有13个特征的人更易成为施暴者",
+      "onboard_time": 1735128859,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 71908,
@@ -2995,6 +3211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36032,
+      "num": 255030,
+      "word": "猎罪图鉴最喜欢的案子",
+      "onboard_time": 1735129938,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35537,
       "num": 259450,
       "word": "烧伤妈妈回忆事发情景",
@@ -3137,6 +3361,14 @@
       "onboard_time": 1735115178,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 23374,
+      "num": 254095,
+      "word": "领克全新旗舰车型谍照曝光",
+      "onboard_time": 1735127238,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 23283,
