@@ -1,0 +1,410 @@
+{
+  "runTime": 1735095081534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276328,
+        "num": 1276328,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 949907,
+        "num": 949907,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31117,
+        "num": 944252,
+        "word": "川藏青藏公路通车70年",
+        "onboard_time": 1735046720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 941982,
+        "num": 941982,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 3,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 794356,
+        "num": 794356,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 646313,
+        "num": 646313,
+        "word": "24岁小伙上班6天误触辐射源即将截肢",
+        "onboard_time": 1735093576,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552600,
+        "num": 552600,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 549882,
+        "num": 549882,
+        "word": "时代峰峻将30%苹果税纳入高会成本",
+        "onboard_time": 1735092797,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516714,
+        "num": 516714,
+        "word": "圣诞快乐",
+        "onboard_time": 1735081813,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166364,
+        "num": 466648,
+        "word": "被2024惊艳了一眼又一眼",
+        "onboard_time": 1735092677,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 423480,
+        "num": 423480,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317016,
+        "num": 317016,
+        "word": "张颂文自爆曾因长相被剧组打压",
+        "onboard_time": 1735085357,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278445,
+        "num": 278445,
+        "word": "高会涨价",
+        "onboard_time": 1735087097,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258965,
+        "num": 258965,
+        "word": "2025年全国两会召开日期",
+        "onboard_time": 1735090457,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51498,
+        "num": 253629,
+        "word": "纳指重回2万点关口",
+        "onboard_time": 1735093817,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252635,
+        "num": 252635,
+        "word": "小偷和警察一起看监控被当场拿下",
+        "onboard_time": 1735081514,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242083,
+        "num": 242083,
+        "word": "春晚分会场是会选址的",
+        "onboard_time": 1735048579,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234328,
+        "num": 234328,
+        "word": "朴彩英分英",
+        "onboard_time": 1735094357,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228086,
+        "num": 228086,
+        "word": "撞死网红狼司机疑似未主动救治",
+        "onboard_time": 1735049960,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69741,
+        "num": 223956,
+        "word": "被家暴小谢哭诉伤疤占身体五分之一",
+        "onboard_time": 1735094296,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251202,
+        "num": 223240,
+        "word": "在香港花400万买了15平米的家",
+        "onboard_time": 1735087818,
+        "rank": 20,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 220052,
+        "num": 220052,
+        "word": "原来对孩子来说一天就是很久",
+        "onboard_time": 1735093099,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214970,
+        "num": 214970,
+        "word": "林允儿cha了Whiplash",
+        "onboard_time": 1735090877,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190692,
+        "num": 190692,
+        "word": "日本外相称不能重蹈错误国策",
+        "onboard_time": 1735093998,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77916,
+        "num": 186099,
+        "word": "奥斯卡深情告别海港",
+        "onboard_time": 1735094479,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185910,
+        "num": 185910,
+        "word": "李耕耘腹肌",
+        "onboard_time": 1735086920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181612,
+        "num": 181612,
+        "word": "他困在1996年却推着别人往前走",
+        "onboard_time": 1735050679,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 158035,
+        "num": 158035,
+        "word": "张艺兴东西实体专辑",
+        "onboard_time": 1735094296,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155999,
+        "num": 155999,
+        "word": "男子偷手机假装帮寻找没想到有监控",
+        "onboard_time": 1735079531,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150784,
+        "num": 150784,
+        "word": "罗伯特评论名侦探柯南圣诞图",
+        "onboard_time": 1735086198,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144659,
+        "num": 144659,
+        "word": "继搪瓷盆之后爆眼龙又要断货了",
+        "onboard_time": 1735090457,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141441,
+        "num": 141441,
+        "word": "A股",
+        "onboard_time": 1735090157,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 126362,
+        "word": "查境外电诈关联账号竟然查到农村",
+        "onboard_time": 1735088837,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124083,
+        "num": 124083,
+        "word": "滑雪为何会窒息身亡",
+        "onboard_time": 1735094057,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123264,
+        "num": 123264,
+        "word": "81岁养生奶奶煮面加牛奶鸡蛋苹果",
+        "onboard_time": 1735087219,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122939,
+        "num": 122939,
+        "word": "这就是人民军队的2024",
+        "onboard_time": 1735094898,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 118707,
+        "num": 118707,
+        "word": "权顺荣李知勋小分队出道",
+        "onboard_time": 1735093217,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115609,
+        "num": 115609,
+        "word": "男子1小时买空两家金店投资金条",
+        "onboard_time": 1735094597,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114849,
+        "num": 114849,
+        "word": "运动20分钟就能抵消熬夜伤害",
+        "onboard_time": 1735060873,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 114283,
+        "num": 114283,
+        "word": "2024带给我们的Passion",
+        "onboard_time": 1735084816,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 109477,
+        "num": 109477,
+        "word": "圣诞树",
+        "onboard_time": 1735094958,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "中学篮球赛16秒连得9分压哨绝杀",
+        "onboard_time": 1735093038,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106698,
+        "num": 106698,
+        "word": "陈建斌 都给朕回去回后宫去",
+        "onboard_time": 1735063872,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105289,
+        "num": 105289,
+        "word": "老师带4个月女儿上课成班里团宠",
+        "onboard_time": 1735067473,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 102523,
+        "num": 102523,
+        "word": "小S晒与大女儿圣诞合照",
+        "onboard_time": 1735081514,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30228,
+        "num": 102291,
+        "word": "一朵来自长白山的雪花",
+        "onboard_time": 1735094658,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 102240,
+        "num": 102240,
+        "word": "尔滨大雪人穿上新年衣服了",
+        "onboard_time": 1735094838,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100704,
+        "num": 100704,
+        "word": "小米su7被大众追尾后者当场起火",
+        "onboard_time": 1735045819,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99590,
+        "num": 99590,
+        "word": "上海南站正式升级为高铁站",
+        "onboard_time": 1735091657,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88561,
+        "num": 88561,
+        "word": "32岁中国籍男游客在日本滑雪场遇难",
+        "onboard_time": 1735095018,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同球共济和合共生#"
+    }
+  }
+}
