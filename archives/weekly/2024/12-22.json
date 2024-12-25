@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735131393233,
+  "endTime": 1735133149463,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1543191,
+      "num": 1543191,
+      "word": "黄子韬一天涨粉500万",
+      "onboard_time": 1735127838,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1526933,
       "num": 1526933,
       "word": "被娃弄丢20g金条确认10多遍后死心",
@@ -361,14 +369,6 @@
       "onboard_time": 1735099878,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1261359,
-      "num": 1261359,
-      "word": "黄子韬一天涨粉500万",
-      "onboard_time": 1735127838,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1255758,
@@ -787,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 912767,
+      "num": 551137,
+      "word": "张馨予名下公司叫捷捷高",
+      "onboard_time": 1735129399,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907609,
       "num": 441212,
       "word": "金善旴疑似点到拼好饭",
@@ -824,14 +832,6 @@
       "word": "宋仲基炫耀女儿",
       "onboard_time": 1734955939,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 878708,
-      "num": 334856,
-      "word": "张馨予名下公司叫捷捷高",
-      "onboard_time": 1735129399,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1057,6 +1057,14 @@
       "onboard_time": 1734849317,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 757541,
+      "num": 479144,
+      "word": "SBS你耍我",
+      "onboard_time": 1735130779,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 755212,
@@ -1363,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 662686,
+      "num": 662686,
+      "word": "官方通报学生自杀与学校无关承诺书",
+      "onboard_time": 1735131259,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 662386,
       "num": 662386,
       "word": "春晚",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1734928339,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 654343,
+      "num": 433912,
+      "word": "向佐 为什么女生穿男装可以",
+      "onboard_time": 1735128499,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 652518,
@@ -2123,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459921,
+      "num": 459921,
+      "word": "塔斯汀吃出生肉当事人称已获赔偿",
+      "onboard_time": 1735130538,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458708,
       "num": 210865,
       "word": "任嘉伦回应离开欢瑞",
@@ -2225,6 +2257,14 @@
       "onboard_time": 1735036518,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 448154,
+      "num": 324611,
+      "word": "男子从情人车中摔出身亡妻子索赔60万",
+      "onboard_time": 1735129819,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447099,
@@ -2443,6 +2483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 414617,
+      "num": 414617,
+      "word": "权志龙嗓子怎么了",
+      "onboard_time": 1735131439,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413555,
       "num": 413555,
       "word": "蛇年纪念币好难抢",
@@ -2652,7 +2700,7 @@
     },
     {
       "raw_hot": 390923,
-      "num": 324913,
+      "num": 340388,
       "word": "肖战版郭靖是如何练成的",
       "onboard_time": 1735127898,
       "rank": 14,
@@ -2681,14 +2729,6 @@
       "onboard_time": 1735096698,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388371,
-      "num": 254432,
-      "word": "向佐 为什么女生穿男装可以",
-      "onboard_time": 1735128499,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 387632,
@@ -3051,14 +3091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343514,
-      "num": 193833,
-      "word": "SBS你耍我",
-      "onboard_time": 1735130779,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 341331,
       "num": 431543,
       "word": "郭敬明发夏之光原始帧",
@@ -3185,14 +3217,6 @@
       "onboard_time": 1734918077,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 324611,
-      "num": 324611,
-      "word": "男子从情人车中摔出身亡妻子索赔60万",
-      "onboard_time": 1735129819,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 324430,
@@ -3595,6 +3619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287101,
+      "num": 265585,
+      "word": "日本地铁偶遇蔡依林",
+      "onboard_time": 1735129938,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286560,
       "num": 286560,
       "word": "北电同学谈丁程鑫",
@@ -3867,14 +3899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 265585,
-      "num": 265585,
-      "word": "日本地铁偶遇蔡依林",
-      "onboard_time": 1735129938,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265545,
       "num": 265545,
       "word": "黄铉辰 米卡",
@@ -4099,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251287,
+      "num": 254323,
+      "word": "王楚钦拜访恩师刘国正夫妇",
+      "onboard_time": 1735129759,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "第五人格",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1734785839,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246467,
+      "num": 246467,
+      "word": "权志龙躺着被路过",
+      "onboard_time": 1735132639,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 244802,
@@ -5419,6 +5459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196444,
+      "num": 251255,
+      "word": "心理画像专家刘锋评猎罪图鉴2",
+      "onboard_time": 1735132340,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195877,
       "num": 195877,
       "word": "火车售票员打字开了5倍速吗",
@@ -6073,14 +6121,6 @@
       "onboard_time": 1735090457,
       "rank": 32,
       "category": "科学科普,幽默"
-    },
-    {
-      "raw_hot": 180444,
-      "num": 254323,
-      "word": "王楚钦拜访恩师刘国正夫妇",
-      "onboard_time": 1735129759,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 180392,
@@ -6835,12 +6875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163881,
+      "num": 163881,
+      "word": "白敬亭在线回应牵牛花梗",
+      "onboard_time": 1735131739,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163792,
       "num": 163792,
       "word": "林更新 沈腾你不要过来啊",
       "onboard_time": 1735028299,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163494,
+      "num": 137747,
+      "word": "NCTU舞台",
+      "onboard_time": 1735132459,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 163128,
@@ -6985,6 +7041,14 @@
       "onboard_time": 1735122978,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159676,
+      "num": 137728,
+      "word": "知否四大吵架王常看常爽",
+      "onboard_time": 1735132519,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 159639,
@@ -8075,6 +8139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139932,
+      "num": 274447,
+      "word": "网剧冬至",
+      "onboard_time": 1734952398,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139872,
       "num": 139872,
       "word": "沈梦辰生图直出",
@@ -8211,6 +8283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137776,
+      "num": 137776,
+      "word": "喂119一只老鹰屁股被冻冰上了",
+      "onboard_time": 1735130358,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137575,
       "num": 137575,
       "word": "谢娜湿润的眼眶是母爱的具象化",
@@ -8331,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135325,
+      "num": 135325,
+      "word": "王暖暖和被家暴16次女子拥抱",
+      "onboard_time": 1735130118,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135303,
       "num": 135303,
       "word": "偷偷给女医生送了锦旗",
@@ -8345,14 +8433,6 @@
       "onboard_time": 1734937999,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 134829,
-      "num": 274447,
-      "word": "网剧冬至",
-      "onboard_time": 1734952398,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 134723,
@@ -8409,6 +8489,14 @@
       "onboard_time": 1734832576,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133734,
+      "num": 133734,
+      "word": "个人养老金账户能注销吗",
+      "onboard_time": 1735132579,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133576,
@@ -8635,6 +8723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129894,
+      "num": 262590,
+      "word": "王暖暖声援小谢称家暴不是家事",
+      "onboard_time": 1735129459,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129886,
       "num": 129886,
       "word": "韩维辰ending",
@@ -8833,6 +8929,14 @@
       "onboard_time": 1735088837,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126238,
+      "num": 126238,
+      "word": "赵明回应iPhone降价对行业的影响",
+      "onboard_time": 1735131439,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 126097,
@@ -9083,14 +9187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 121900,
-      "num": 121900,
-      "word": "喂119一只老鹰屁股被冻冰上了",
-      "onboard_time": 1735130358,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121898,
       "num": 383588,
       "word": "马峰押题的神",
@@ -9153,6 +9249,14 @@
       "onboard_time": 1735035500,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119837,
+      "num": 250578,
+      "word": "王栎鑫带家人游玩迪拜",
+      "onboard_time": 1735131019,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 119778,
@@ -10027,28 +10131,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103242,
-      "num": 186810,
-      "word": "王栎鑫带家人游玩迪拜",
-      "onboard_time": 1735131019,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103223,
       "num": 224127,
       "word": "姆巴佩世界波",
       "onboard_time": 1734911475,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103184,
-      "num": 262590,
-      "word": "王暖暖声援小谢称家暴不是家事",
-      "onboard_time": 1735129459,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102213,
@@ -10593,6 +10681,14 @@
       "onboard_time": 1734776719,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88169,
+      "num": 250763,
+      "word": "一诺的圣诞节是粉色的",
+      "onboard_time": 1735132280,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 87963,
@@ -11371,6 +11467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68026,
+      "num": 137772,
+      "word": "冰雪旅游",
+      "onboard_time": 1735132939,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 67470,
       "num": 67470,
       "word": "猎罪图鉴 好哭",
@@ -11528,14 +11632,6 @@
       "word": "一年抄一次水表发现用水上万吨",
       "onboard_time": 1734937758,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64697,
-      "num": 330778,
-      "word": "塔斯汀吃出生肉当事人称已获赔偿",
-      "onboard_time": 1735130538,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -11872,6 +11968,14 @@
       "word": "女中医拳王比赛夺冠后挂号秒光",
       "onboard_time": 1734880100,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56587,
+      "num": 438666,
+      "word": "神秘买家扫货法拍房已豪掷6300万",
+      "onboard_time": 1735132219,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -13595,6 +13699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28940,
+      "num": 377401,
+      "word": "百万粉丝博主5万元可定制测评视频",
+      "onboard_time": 1735133120,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28937,
       "num": 256832,
       "word": "双向奔赴才是让景于客的最优解",
@@ -13713,6 +13825,14 @@
       "onboard_time": 1735127238,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 26754,
+      "num": 250430,
+      "word": "黄子弘凡给今年的自己打82分",
+      "onboard_time": 1735132158,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26750,
@@ -14315,14 +14435,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 15825,
-      "num": 333041,
-      "word": "官方通报学生自杀与学校无关承诺书",
-      "onboard_time": 1735131259,
-      "rank": 8,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 15816,
       "num": 49022,
       "word": "消防员没有火灾也在救人",
@@ -14385,6 +14497,14 @@
       "onboard_time": 1734995715,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13623,
+      "num": 251147,
+      "word": "为什么今年博物馆文创这么火",
+      "onboard_time": 1735132699,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 13369,
