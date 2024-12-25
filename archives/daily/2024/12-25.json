@@ -1,10 +1,10 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735111270275,
+  "endTime": 1735112135370,
   "band_list": [
     {
-      "raw_hot": 1760243,
-      "num": 1760243,
+      "raw_hot": 2634053,
+      "num": 2634053,
       "word": "我在",
       "onboard_time": 1735104737,
       "rank": 34,
@@ -171,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 668736,
-      "num": 668736,
+      "raw_hot": 670081,
+      "num": 670081,
       "word": "蛇年假期重合度非常高",
       "onboard_time": 1735107860,
       "rank": 42,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251431,
+      "num": 251431,
+      "word": "孟子义李昀锐吻戏出师了",
+      "onboard_time": 1735110377,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250832,
       "num": 250832,
       "word": "第五人格",
@@ -611,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244951,
+      "num": 312995,
+      "word": "一架客机在哈萨克斯坦坠毁",
+      "onboard_time": 1735111519,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 239907,
       "num": 239907,
       "word": "原来对孩子来说一天就是很久",
@@ -619,7 +635,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237546,
+      "raw_hot": 238919,
       "num": 316784,
       "word": "全国统一心理援助热线12356",
       "onboard_time": 1735109897,
@@ -633,6 +649,14 @@
       "onboard_time": 1735084816,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 235413,
+      "num": 235413,
+      "word": "2024星光大赏第二波阵容",
+      "onboard_time": 1735109717,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231309,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 215098,
-      "num": 215098,
+      "num": 235032,
       "word": "猎罪图鉴今晚又要结束了",
       "onboard_time": 1735104859,
       "rank": 31,
@@ -689,6 +713,14 @@
       "onboard_time": 1735055839,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213764,
+      "num": 249493,
+      "word": "枪杀医保巨头CEO嫌犯高颜值出圈",
+      "onboard_time": 1735110258,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 210516,
@@ -731,12 +763,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 205355,
-      "num": 205355,
-      "word": "2024星光大赏第二波阵容",
-      "onboard_time": 1735109717,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "SBS节目单",
+      "onboard_time": 1735111639,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 200372,
@@ -779,14 +811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196326,
-      "num": 196326,
-      "word": "孟子义李昀锐吻戏出师了",
-      "onboard_time": 1735110377,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195766,
       "num": 297748,
       "word": "29个行业被美国卡脖子卡出单项冠军",
@@ -825,14 +849,6 @@
       "onboard_time": 1735103239,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 185219,
-      "num": 249493,
-      "word": "枪杀医保巨头CEO嫌犯高颜值出圈",
-      "onboard_time": 1735110258,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 183967,
@@ -1035,6 +1051,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156317,
+      "num": 156317,
+      "word": "Newjeans红毯妆造",
+      "onboard_time": 1735111097,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 155698,
+      "num": 234777,
+      "word": "男子家暴入狱威胁妻子出具谅解书",
+      "onboard_time": 1735104438,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155500,
       "num": 286503,
       "word": "张颂文回应被吐槽演技差台词也差",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1735067473,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 152894,
-      "num": 208766,
-      "word": "男子家暴入狱威胁妻子出具谅解书",
-      "onboard_time": 1735104438,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151913,
@@ -1195,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138324,
+      "num": 235355,
+      "word": "刘亦菲李现梦回有风",
+      "onboard_time": 1735111217,
+      "rank": 19,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "韩国最该申遗的是理发",
@@ -1307,6 +1339,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126113,
+      "num": 126113,
+      "word": "果郡王回复网友不用意难平了",
+      "onboard_time": 1735112058,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123747,
+      "num": 123747,
+      "word": "胡辣汤在日本走起高端路线",
+      "onboard_time": 1735111639,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122939,
       "num": 122939,
       "word": "这就是人民军队的2024",
@@ -1321,6 +1369,14 @@
       "onboard_time": 1735053261,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122199,
+      "num": 122199,
+      "word": "轻断食 脱发",
+      "onboard_time": 1735111338,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120784,
@@ -1363,20 +1419,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117074,
+      "num": 244424,
+      "word": "林一 我在北京很想你",
+      "onboard_time": 1735110319,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114705,
+      "num": 239359,
+      "word": "大侦探 常低头找证据少抬头看风景",
+      "onboard_time": 1735109237,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114172,
       "num": 114172,
       "word": "丁禹兮虞书欣年度星光墙三四名",
       "onboard_time": 1735083016,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113749,
-      "num": 113749,
-      "word": "Newjeans红毯妆造",
-      "onboard_time": 1735111097,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 113681,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1735109959,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113113,
+      "num": 113113,
+      "word": "riize圣诞王子",
+      "onboard_time": 1735111338,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 110029,
@@ -1515,14 +1587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95220,
-      "num": 239359,
-      "word": "大侦探 常低头找证据少抬头看风景",
-      "onboard_time": 1735109237,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93889,
       "num": 93889,
       "word": "新闻联播播出他生前最后一段影像",
@@ -1601,14 +1665,6 @@
       "onboard_time": 1735031477,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81582,
-      "num": 234338,
-      "word": "刘亦菲李现梦回有风",
-      "onboard_time": 1735111217,
-      "rank": 19,
-      "category": "艺人,艺人"
     },
     {
       "raw_hot": 81509,
@@ -1761,14 +1817,6 @@
       "onboard_time": 1735101499,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66413,
-      "num": 244424,
-      "word": "林一 我在北京很想你",
-      "onboard_time": 1735110319,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 64939,
@@ -1987,6 +2035,14 @@
       "category": "舆论监督,议题讨论"
     },
     {
+      "raw_hot": 38855,
+      "num": 131060,
+      "word": "陈震就不能有自己想买的车吗",
+      "onboard_time": 1735111519,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38644,
       "num": 185980,
       "word": "刘浩存抹胸闪钻蓬蓬裙",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1735040597,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 35537,
+      "num": 259450,
+      "word": "烧伤妈妈回忆事发情景",
+      "onboard_time": 1735111519,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33826,
@@ -2083,6 +2147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23283,
+      "num": 257807,
+      "word": "业内人称很多精彩的棋是剧本",
+      "onboard_time": 1735110857,
+      "rank": 14,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 22677,
       "num": 22677,
       "word": "吉林长春一家三口开车坠江一人为孕妇",
@@ -2105,6 +2177,14 @@
       "onboard_time": 1735066932,
       "rank": 25,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 21678,
+      "num": 129038,
+      "word": "成毅商业价值",
+      "onboard_time": 1735111397,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21638,
@@ -2139,6 +2219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19035,
+      "num": 156525,
+      "word": "刘亦菲朱珠同框合影",
+      "onboard_time": 1735111519,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18969,
       "num": 30640,
       "word": "多省回复称不存在大规模推山造田",
@@ -2153,14 +2241,6 @@
       "onboard_time": 1735064472,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17258,
-      "num": 257807,
-      "word": "业内人称很多精彩的棋是剧本",
-      "onboard_time": 1735110857,
-      "rank": 14,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 17091,
@@ -2225,6 +2305,14 @@
       "onboard_time": 1735060633,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8073,
+      "num": 118127,
+      "word": "古人爱吃什么馅的饺子",
+      "onboard_time": 1735111938,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 7946,
