@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735115316108,
+  "endTime": 1735116120546,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868523,
+      "num": 606632,
+      "word": "只有安宥真穿了黑裙",
+      "onboard_time": 1735112778,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 860972,
       "num": 860972,
       "word": "微信可以线上送实体礼物了",
@@ -881,14 +889,6 @@
       "onboard_time": 1735015340,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 793568,
-      "num": 606632,
-      "word": "只有安宥真穿了黑裙",
-      "onboard_time": 1735112778,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 792813,
@@ -1603,6 +1603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 558399,
+      "num": 496503,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1735114758,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 557277,
+      "num": 557277,
+      "word": "男子在塔斯汀汉堡里吃出生肉",
+      "onboard_time": 1735114158,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556220,
       "num": 450120,
       "word": "殷世航 惹不起躲得起",
@@ -1664,14 +1680,6 @@
       "word": "aespa四公主",
       "onboard_time": 1735108218,
       "rank": 33,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 538937,
-      "num": 363012,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1735114758,
-      "rank": 10,
       "category": "音乐"
     },
     {
@@ -1865,6 +1873,14 @@
       "onboard_time": 1734948077,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475822,
+      "num": 475822,
+      "word": "新华社评2024年中国十佳运动员",
+      "onboard_time": 1735113858,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 475719,
@@ -2076,7 +2092,7 @@
     },
     {
       "raw_hot": 439822,
-      "num": 353949,
+      "num": 427547,
       "word": "毛豆替刘亦菲感到遗憾",
       "onboard_time": 1735112838,
       "rank": 11,
@@ -2539,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378345,
+      "num": 378345,
+      "word": "山姆代购每月返现可高达万元",
+      "onboard_time": 1735115058,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 377188,
       "num": 377188,
       "word": "考研数学答案",
@@ -2683,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359000,
+      "num": 359000,
+      "word": "刘浩存林一座位",
+      "onboard_time": 1735112718,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358682,
       "num": 212173,
       "word": "小S晒与大女儿圣诞合照",
@@ -2771,14 +2803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 347786,
-      "num": 347786,
-      "word": "新华社评2024年中国十佳运动员",
-      "onboard_time": 1735113858,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345579,
       "num": 345579,
       "word": "南京小朋友5米距离看江豚捕鱼",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1735032620,
       "rank": 38,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 340477,
+      "num": 230774,
+      "word": "火箭少女将合体",
+      "onboard_time": 1735114397,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 339564,
@@ -2896,14 +2928,6 @@
       "word": "马嘉祺高会",
       "onboard_time": 1735022179,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327315,
-      "num": 222734,
-      "word": "刘浩存林一座位",
-      "onboard_time": 1735112718,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -3443,14 +3467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276959,
-      "num": 218897,
-      "word": "火箭少女将合体",
-      "onboard_time": 1735114397,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 276519,
       "num": 219890,
       "word": "吃砂糖橘真的会促进肿瘤生长吗",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1734870558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267735,
+      "num": 267735,
+      "word": "从炎症到癌症只需三步",
+      "onboard_time": 1735112778,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 267080,
@@ -3955,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237111,
+      "num": 237111,
+      "word": "第一批买护眼灯的用户已经近视了",
+      "onboard_time": 1735113138,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235674,
       "num": 235674,
       "word": "盘点2024年翻红的7大顶流",
@@ -4147,14 +4179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 224308,
-      "num": 224308,
-      "word": "男子在塔斯汀汉堡里吃出生肉",
-      "onboard_time": 1735114158,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223559,
       "num": 217589,
       "word": "IU圣诞节捐款5亿韩元",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1734909315,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220880,
-      "num": 220880,
-      "word": "从炎症到癌症只需三步",
-      "onboard_time": 1735112778,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 220806,
@@ -5355,14 +5371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187912,
-      "num": 224720,
-      "word": "第一批买护眼灯的用户已经近视了",
-      "onboard_time": 1735113138,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187836,
       "num": 187836,
       "word": "张元英小卡110万韩元",
@@ -5475,6 +5483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184847,
+      "num": 224073,
+      "word": "魏如萱 我没有",
+      "onboard_time": 1735114099,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184655,
       "num": 184655,
       "word": "专家谈年轻人买房该出手时就出手",
@@ -5553,14 +5569,6 @@
       "onboard_time": 1734996376,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 182146,
-      "num": 182146,
-      "word": "山姆代购每月返现可高达万元",
-      "onboard_time": 1735115058,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181389,
@@ -5969,6 +5977,14 @@
       "onboard_time": 1734876740,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169531,
+      "num": 169531,
+      "word": "女子被家暴住进ICU丈夫忙着转移财产",
+      "onboard_time": 1735114578,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169482,
@@ -6569,6 +6585,14 @@
       "onboard_time": 1734864618,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156155,
+      "num": 222026,
+      "word": "每天少睡一两个小时也是熬夜",
+      "onboard_time": 1735114277,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155756,
@@ -7731,6 +7755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132170,
+      "num": 132170,
+      "word": "失事客机有67名乘客5名机组人员",
+      "onboard_time": 1735114099,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "荣耀影像技术发布会",
@@ -7809,6 +7841,22 @@
       "onboard_time": 1735029078,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130984,
+      "num": 130984,
+      "word": "工行成A股市值一哥",
+      "onboard_time": 1735116078,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 130854,
+      "num": 234576,
+      "word": "乌合麒麟为清明上河图密码作画",
+      "onboard_time": 1735115959,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 130677,
@@ -8121,6 +8169,14 @@
       "onboard_time": 1735008977,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124692,
+      "num": 124692,
+      "word": "河南上万农村老人个人信息被窃取",
+      "onboard_time": 1735115658,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124659,
@@ -8971,6 +9027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107992,
+      "num": 367463,
+      "word": "那些经典文艺作品的瞬间",
+      "onboard_time": 1735114638,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107701,
       "num": 107701,
       "word": "多家航司回应飞机锁座越来越多",
@@ -9388,7 +9452,7 @@
     },
     {
       "raw_hot": 98707,
-      "num": 228215,
+      "num": 231642,
       "word": "国台办回应美售台38辆坦克运抵台湾",
       "onboard_time": 1735115239,
       "rank": 16,
@@ -9465,14 +9529,6 @@
       "onboard_time": 1734959239,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96713,
-      "num": 367463,
-      "word": "那些经典文艺作品的瞬间",
-      "onboard_time": 1735114638,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 96537,
@@ -9713,14 +9769,6 @@
       "onboard_time": 1734838457,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88248,
-      "num": 224073,
-      "word": "魏如萱 我没有",
-      "onboard_time": 1735114099,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 88217,
@@ -10308,7 +10356,7 @@
     },
     {
       "raw_hot": 71908,
-      "num": 959290,
+      "num": 977922,
       "word": "我国制造业规模连续14年世界第一",
       "onboard_time": 1735101499,
       "rank": 2,
@@ -10553,6 +10601,14 @@
       "onboard_time": 1735042519,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65879,
+      "num": 221280,
+      "word": "KSG的圣诞打开方式",
+      "onboard_time": 1735115959,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 65695,
@@ -11027,6 +11083,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 55339,
+      "num": 182409,
+      "word": "原神茜特菈莉",
+      "onboard_time": 1735111879,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55217,
       "num": 178479,
       "word": "什么是水油水护肤法",
@@ -11097,14 +11161,6 @@
       "onboard_time": 1734886277,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 53512,
-      "num": 222026,
-      "word": "每天少睡一两个小时也是熬夜",
-      "onboard_time": 1735114277,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 53446,
@@ -12771,6 +12827,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25437,
+      "num": 218572,
+      "word": "周深唱好运来祝大家新年好运来",
+      "onboard_time": 1735113079,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25300,
       "num": 39082,
       "word": "王一博探索新境海外预告",
@@ -12785,14 +12849,6 @@
       "onboard_time": 1734863599,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25218,
-      "num": 214939,
-      "word": "周深唱好运来祝大家新年好运来",
-      "onboard_time": 1735113079,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25153,
@@ -12881,6 +12937,14 @@
       "onboard_time": 1734852438,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23433,
+      "num": 221319,
+      "word": "和毛利兰一起过圣诞节",
+      "onboard_time": 1735115178,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 23283,
@@ -12977,14 +13041,6 @@
       "onboard_time": 1735044259,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21695,
-      "num": 221319,
-      "word": "和毛利兰一起过圣诞节",
-      "onboard_time": 1735115178,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 21638,

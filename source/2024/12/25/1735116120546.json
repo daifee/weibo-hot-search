@@ -1,0 +1,410 @@
+{
+  "runTime": 1735116120546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2393748,
+        "num": 2393748,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1187335,
+        "num": 1187335,
+        "word": "一架客机在哈萨克斯坦坠毁",
+        "onboard_time": 1735111519,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 65242,
+        "num": 977922,
+        "word": "我国制造业规模连续14年世界第一",
+        "onboard_time": 1735101499,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 957803,
+        "num": 957803,
+        "word": "果郡王回复网友不用意难平了",
+        "onboard_time": 1735112058,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 566993,
+        "num": 566993,
+        "word": "哈萨克斯坦坠机事故中12人生还",
+        "onboard_time": 1735112778,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 557277,
+        "num": 557277,
+        "word": "男子在塔斯汀汉堡里吃出生肉",
+        "onboard_time": 1735114158,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868523,
+        "num": 543107,
+        "word": "只有安宥真穿了黑裙",
+        "onboard_time": 1735112778,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 515172,
+        "num": 515172,
+        "word": "蛇年假期重合度非常高",
+        "onboard_time": 1735107860,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558399,
+        "num": 496503,
+        "word": "SBS歌谣大战",
+        "onboard_time": 1735114758,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 475822,
+        "num": 475822,
+        "word": "新华社评2024年中国十佳运动员",
+        "onboard_time": 1735113858,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473065,
+        "num": 473065,
+        "word": "张继科说我的成绩你们质疑不了",
+        "onboard_time": 1735106359,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427547,
+        "num": 427547,
+        "word": "毛豆替刘亦菲感到遗憾",
+        "onboard_time": 1735112838,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378345,
+        "num": 378345,
+        "word": "山姆代购每月返现可高达万元",
+        "onboard_time": 1735115058,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368404,
+        "num": 368404,
+        "word": "孟子义 姐姐这腰真受不了",
+        "onboard_time": 1735105698,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359000,
+        "num": 359000,
+        "word": "刘浩存林一座位",
+        "onboard_time": 1735112718,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313246,
+        "num": 313246,
+        "word": "突然降温女生手指被冻成白色",
+        "onboard_time": 1735105158,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267735,
+        "num": 267735,
+        "word": "从炎症到癌症只需三步",
+        "onboard_time": 1735112778,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237111,
+        "num": 237111,
+        "word": "第一批买护眼灯的用户已经近视了",
+        "onboard_time": 1735113138,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130854,
+        "num": 234576,
+        "word": "乌合麒麟为清明上河图密码作画",
+        "onboard_time": 1735115959,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96729,
+        "num": 231642,
+        "word": "国台办回应美售台38辆坦克运抵台湾",
+        "onboard_time": 1735115239,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340477,
+        "num": 230774,
+        "word": "火箭少女将合体",
+        "onboard_time": 1735114397,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 565176,
+        "num": 226452,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278122,
+        "num": 223586,
+        "word": "2024星光大赏第二波阵容",
+        "onboard_time": 1735109717,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65879,
+        "num": 221280,
+        "word": "KSG的圣诞打开方式",
+        "onboard_time": 1735115959,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25437,
+        "num": 218572,
+        "word": "周深唱好运来祝大家新年好运来",
+        "onboard_time": 1735113079,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239327,
+        "num": 215106,
+        "word": "SBS节目单",
+        "onboard_time": 1735111639,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214285,
+        "num": 214285,
+        "word": "SBS红毯直播",
+        "onboard_time": 1735103119,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184847,
+        "num": 209014,
+        "word": "魏如萱 我没有",
+        "onboard_time": 1735114099,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 207605,
+        "word": "王一博北京云蒙峡挑战攀冰",
+        "onboard_time": 1735113858,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23433,
+        "num": 207189,
+        "word": "和毛利兰一起过圣诞节",
+        "onboard_time": 1735115178,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 206976,
+        "num": 206976,
+        "word": "aespa四公主",
+        "onboard_time": 1735108218,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196681,
+        "num": 196681,
+        "word": "刘浩存 冰雪公主",
+        "onboard_time": 1735108218,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191284,
+        "num": 191284,
+        "word": "肖战为演郭靖多努力",
+        "onboard_time": 1735115119,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47201,
+        "num": 187834,
+        "word": "陈震就不能有自己想买的车吗",
+        "onboard_time": 1735111519,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186412,
+        "num": 186412,
+        "word": "盘点2024年翻红的7大顶流",
+        "onboard_time": 1735112598,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107992,
+        "num": 184253,
+        "word": "那些经典文艺作品的瞬间",
+        "onboard_time": 1735114638,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189334,
+        "num": 183655,
+        "word": "权志龙SBS彩排",
+        "onboard_time": 1735113378,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24598,
+        "num": 182626,
+        "word": "成毅商业价值",
+        "onboard_time": 1735111397,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182598,
+        "num": 182598,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55339,
+        "num": 182409,
+        "word": "原神茜特菈莉",
+        "onboard_time": 1735111879,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182362,
+        "num": 182362,
+        "word": "李昀锐回应上桌升咖",
+        "onboard_time": 1735114638,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169531,
+        "num": 169531,
+        "word": "女子被家暴住进ICU丈夫忙着转移财产",
+        "onboard_time": 1735114578,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 161621,
+        "word": "攒了一年的惊艳瞬间",
+        "onboard_time": 1735100659,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "女子反复流产原因出在男方",
+        "onboard_time": 1735097777,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 156155,
+        "num": 156155,
+        "word": "每天少睡一两个小时也是熬夜",
+        "onboard_time": 1735114277,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152036,
+        "num": 152036,
+        "word": "8岁男孩用眼过度总把数字镜像反写",
+        "onboard_time": 1735099878,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133963,
+        "num": 133963,
+        "word": "枪杀医保巨头CEO嫌犯高颜值出圈",
+        "onboard_time": 1735110258,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132170,
+        "num": 132170,
+        "word": "失事客机有67名乘客5名机组人员",
+        "onboard_time": 1735114099,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130984,
+        "num": 130984,
+        "word": "工行成A股市值一哥",
+        "onboard_time": 1735116078,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124692,
+        "num": 124692,
+        "word": "河南上万农村老人个人信息被窃取",
+        "onboard_time": 1735115658,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}
