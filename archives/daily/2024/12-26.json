@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735147244871,
+  "endTime": 1735148256813,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343619,
+      "num": 328947,
+      "word": "一农民卖羊肉赚180元收到10万罚单",
+      "onboard_time": 1735142718,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343203,
       "num": 316832,
       "word": "坠机现场生还者下机坐地哭喊被拖走",
       "onboard_time": 1735118539,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 328947,
-      "num": 328947,
-      "word": "一农民卖羊肉赚180元收到10万罚单",
-      "onboard_time": 1735142718,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 327600,
@@ -435,12 +435,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39887,
+      "num": 39887,
+      "word": "被家暴16次案刑事一审开庭",
+      "onboard_time": 1735147993,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35921,
+      "num": 37605,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 35601,
       "num": 82672,
       "word": "2024哪位运动员鼓舞了你",
       "onboard_time": 1735146135,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30495,
+      "num": 132748,
+      "word": "女子喝陌生人的水昏迷被拐",
+      "onboard_time": 1735147513,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12049,
+      "num": 72805,
+      "word": "周棋洛 在群星闪耀时起舞",
+      "onboard_time": 1735147333,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 6497,
