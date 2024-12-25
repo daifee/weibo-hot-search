@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735144013967,
+  "endTime": 1735144915638,
   "band_list": [
     {
       "raw_hot": 1005382,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526284,
-      "num": 526284,
+      "raw_hot": 633872,
+      "num": 788936,
       "word": "坠机事故生还人数升至32人",
       "onboard_time": 1735137320,
       "rank": 1,
@@ -75,19 +75,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315366,
+      "num": 293739,
+      "word": "王子奇新助理开车溜私生",
+      "onboard_time": 1735141277,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313763,
       "num": 313763,
       "word": "张馨予名下公司叫捷捷高",
       "onboard_time": 1735129399,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 293739,
-      "num": 293739,
-      "word": "王子奇新助理开车溜私生",
-      "onboard_time": 1735141277,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1735139359,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254766,
+      "num": 254766,
+      "word": "一农民卖羊肉赚180元收到10万罚单",
+      "onboard_time": 1735142718,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237979,
@@ -147,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205348,
-      "num": 205348,
+      "raw_hot": 206321,
+      "num": 206321,
       "word": "赛里木湖",
       "onboard_time": 1735138939,
       "rank": 22,
@@ -161,14 +169,6 @@
       "onboard_time": 1735130779,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 190275,
-      "num": 230171,
-      "word": "一农民卖羊肉赚180元收到10万罚单",
-      "onboard_time": 1735142718,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184284,
@@ -187,6 +187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 174659,
+      "num": 317240,
+      "word": "有38人在客机失事中丧生",
+      "onboard_time": 1735143855,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "塔斯汀回应汉堡里吃出生肉",
@@ -201,6 +209,14 @@
       "onboard_time": 1735133538,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172192,
+      "num": 172192,
+      "word": "钱天一国家队十年发博",
+      "onboard_time": 1735142297,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 166013,
@@ -227,12 +243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161405,
-      "num": 161405,
-      "word": "钱天一国家队十年发博",
-      "onboard_time": 1735142297,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "家暴16次案男子当庭否认施暴",
+      "onboard_time": 1735142957,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137195,
@@ -241,14 +257,6 @@
       "onboard_time": 1735121778,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135960,
-      "num": 135960,
-      "word": "家暴16次案男子当庭否认施暴",
-      "onboard_time": 1735142957,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132737,
@@ -264,6 +272,14 @@
       "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
       "onboard_time": 1735138999,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119680,
+      "num": 119680,
+      "word": "你晚上一般几点睡觉",
+      "onboard_time": 1735141998,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -289,14 +305,6 @@
       "onboard_time": 1735132639,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 106409,
-      "num": 106409,
-      "word": "你晚上一般几点睡觉",
-      "onboard_time": 1735141998,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105535,
@@ -363,6 +371,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77101,
+      "num": 77101,
+      "word": "失事客机坠毁前面临强烈的GPS干扰",
+      "onboard_time": 1735144575,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 63181,
+      "num": 63181,
+      "word": "柳智敏好辣",
+      "onboard_time": 1735128558,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 61043,
+      "num": 61043,
+      "word": "一架客机在哈萨克斯坦坠毁",
+      "onboard_time": 1735111519,
+      "rank": 49,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 48072,
       "num": 91777,
       "word": "实拍哈萨克斯坦坠毁客机幸存者画面",
@@ -385,14 +417,6 @@
       "onboard_time": 1735137861,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22675,
-      "num": 317240,
-      "word": "有38人在客机失事中丧生",
-      "onboard_time": 1735143855,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 6497,

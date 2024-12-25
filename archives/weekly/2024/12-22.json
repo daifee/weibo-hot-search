@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735144013967,
+  "endTime": 1735144915638,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1531,6 +1531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 633872,
+      "num": 788936,
+      "word": "坠机事故生还人数升至32人",
+      "onboard_time": 1735137320,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 629945,
       "num": 629945,
       "word": "徐涛 写在今年考后的感想",
@@ -1993,14 +2001,6 @@
       "onboard_time": 1735040597,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 526284,
-      "num": 526284,
-      "word": "坠机事故生还人数升至32人",
-      "onboard_time": 1735137320,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 526141,
@@ -3491,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 315366,
+      "num": 293739,
+      "word": "王子奇新助理开车溜私生",
+      "onboard_time": 1735141277,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314902,
       "num": 314902,
       "word": "漂亮饭",
@@ -3665,14 +3673,6 @@
       "onboard_time": 1735132340,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293739,
-      "num": 293739,
-      "word": "王子奇新助理开车溜私生",
-      "onboard_time": 1735141277,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 293283,
@@ -4209,6 +4209,14 @@
       "onboard_time": 1734837257,
       "rank": 13,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 254766,
+      "num": 254766,
+      "word": "一农民卖羊肉赚180元收到10万罚单",
+      "onboard_time": 1735142718,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253620,
@@ -5275,6 +5283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "赛里木湖",
+      "onboard_time": 1735138939,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 206260,
       "num": 206260,
       "word": "年轻人理财式买冬衣主打穿回本",
@@ -5305,14 +5321,6 @@
       "onboard_time": 1735096577,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 205348,
-      "num": 205348,
-      "word": "赛里木湖",
-      "onboard_time": 1735138939,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 205338,
@@ -5963,14 +5971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190275,
-      "num": 230171,
-      "word": "一农民卖羊肉赚180元收到10万罚单",
-      "onboard_time": 1735142718,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190101,
       "num": 190101,
       "word": "贺峻霖向太勾肩搭背",
@@ -6603,6 +6603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174659,
+      "num": 317240,
+      "word": "有38人在客机失事中丧生",
+      "onboard_time": 1735143855,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174508,
       "num": 174508,
       "word": "檀健次ELLE销量",
@@ -6753,6 +6761,14 @@
       "onboard_time": 1734850758,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172192,
+      "num": 172192,
+      "word": "钱天一国家队十年发博",
+      "onboard_time": 1735142297,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 172147,
@@ -7243,14 +7259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161405,
-      "num": 161405,
-      "word": "钱天一国家队十年发博",
-      "onboard_time": 1735142297,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161343,
       "num": 161343,
       "word": "用8000块半年赚了130万",
@@ -7505,6 +7513,14 @@
       "onboard_time": 1735043718,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "家暴16次案男子当庭否认施暴",
+      "onboard_time": 1735142957,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158000,
@@ -8683,14 +8699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135960,
-      "num": 135960,
-      "word": "家暴16次案男子当庭否认施暴",
-      "onboard_time": 1735142957,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135958,
       "num": 135958,
       "word": "2024年度词汇是damn",
@@ -9579,6 +9587,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 119680,
+      "num": 119680,
+      "word": "你晚上一般几点睡觉",
+      "onboard_time": 1735141998,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119582,
       "num": 119582,
       "word": "齐秦未患癌",
@@ -10337,14 +10353,6 @@
       "onboard_time": 1735041559,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106409,
-      "num": 106409,
-      "word": "你晚上一般几点睡觉",
-      "onboard_time": 1735141998,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106389,
@@ -11425,6 +11433,14 @@
       "onboard_time": 1735039818,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77101,
+      "num": 77101,
+      "word": "失事客机坠毁前面临强烈的GPS干扰",
+      "onboard_time": 1735144575,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76742,
@@ -14521,14 +14537,6 @@
       "onboard_time": 1735072512,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22675,
-      "num": 317240,
-      "word": "有38人在客机失事中丧生",
-      "onboard_time": 1735143855,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22612,
