@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/25 10:51:21
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/25 11:00:09
 </p>
 </blockquote>
 <p>
@@ -4575,6 +4575,12 @@ Gemini当爸爸了（热度：974629）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B8%8A%E7%8F%AD6%E5%A4%A9%E8%AF%AF%E8%A7%A6%E8%BE%90%E5%B0%84%E6%BA%90%E5%8D%B3%E5%B0%86%E6%88%AA%E8%82%A2%23" target="weibo">
+24岁小伙上班6天误触辐射源即将截肢（热度：863147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%B0%86%E5%A5%B3%E7%94%9F%E6%8C%89%E5%9C%B0%E4%B8%8A%E5%BC%BA%E5%90%BB%23" target="weibo">
 高校回应男生将女生按地上强吻（热度：862860）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17ProMax渲染图再曝光（热度：752174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%81%E7%88%B1%E9%9D%92%E5%AE%B6%E5%B1%9E%E4%BB%A3%E7%90%86%E5%BE%8B%E5%B8%88%E5%91%BC%E5%90%81%E5%B0%8A%E9%87%8D%E5%8E%86%E5%8F%B2%E4%BA%8B%E5%AE%9E%23" target="weibo">
 刁爱青家属代理律师呼吁尊重历史事实（热度：724434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A3%E5%8F%B7%E9%B8%A2%E7%8E%A9%E9%BA%A6%E7%90%B3%E6%A2%97%23" target="weibo">
-代号鸢玩麦琳梗（热度：724095）
 </a>
 </li>
 
