@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735151347789,
+  "endTime": 1735152127809,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -79244,7 +79244,7 @@
     },
     {
       "raw_hot": 39887,
-      "num": 39887,
+      "num": 60745,
       "word": "被家暴16次案刑事一审开庭",
       "onboard_time": 1735147993,
       "rank": 43,
@@ -80185,6 +80185,14 @@
       "onboard_time": 1733286502,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37355,
+      "num": 79376,
+      "word": "阿塞拜疆总统紧急返回巴库处理空难",
+      "onboard_time": 1735150093,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37333,
@@ -83763,14 +83771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28579,
-      "num": 79376,
-      "word": "阿塞拜疆总统紧急返回巴库处理空难",
-      "onboard_time": 1735150093,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 28567,
       "num": 259499,
       "word": "高频爱用洗护分享",
@@ -83785,6 +83785,14 @@
       "onboard_time": 1733740760,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28526,
+      "num": 28526,
+      "word": "檀健次做沈翊的翻译",
+      "onboard_time": 1735151171,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 28494,
@@ -83880,6 +83888,14 @@
       "word": "张艺谋蹲着给妻子拍照",
       "onboard_time": 1733167090,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28167,
+      "num": 28167,
+      "word": "汪苏泷 错峰睡觉夜游神",
+      "onboard_time": 1735151053,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -84033,14 +84049,6 @@
       "onboard_time": 1733389519,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 27561,
-      "num": 27561,
-      "word": "汪苏泷 错峰睡觉夜游神",
-      "onboard_time": 1735151053,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 27545,
@@ -84305,14 +84313,6 @@
       "onboard_time": 1734620538,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26926,
-      "num": 26926,
-      "word": "檀健次做沈翊的翻译",
-      "onboard_time": 1735151171,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 26913,
@@ -84825,6 +84825,14 @@
       "onboard_time": 1735050379,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 25517,
+      "num": 25517,
+      "word": "TF四代危险舞蹈版上线",
+      "onboard_time": 1735151352,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 25505,
