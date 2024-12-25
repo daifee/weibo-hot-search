@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735119396137,
+  "endTime": 1735122167908,
   "band_list": [
     {
       "raw_hot": 2634053,
@@ -57,6 +57,22 @@
       "onboard_time": 1735099878,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1192769,
+      "num": 1192769,
+      "word": "坠机现场生还者下机坐地哭喊被拖走",
+      "onboard_time": 1735118539,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1159929,
+      "num": 1159929,
+      "word": "日本将对中国游客首设十年多次签证",
+      "onboard_time": 1735118058,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 1158621,
@@ -171,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 749146,
+      "num": 483507,
+      "word": "黄子韬账号带货月销售额近2500万元",
+      "onboard_time": 1735117099,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 728606,
       "num": 562106,
       "word": "春晚分会场是会选址的",
@@ -235,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652518,
+      "num": 652518,
+      "word": "李现悬崖举国旗照爆火景区紧急提醒",
+      "onboard_time": 1735116259,
+      "rank": 22,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 636078,
       "num": 423032,
       "word": "女子反复流产原因出在男方",
@@ -259,20 +291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588419,
+      "num": 588419,
+      "word": "SBS歌谣大战",
+      "onboard_time": 1735114758,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 572752,
       "num": 572752,
       "word": "时代峰峻将30%苹果税纳入高会成本",
       "onboard_time": 1735092797,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558399,
-      "num": 496503,
-      "word": "SBS歌谣大战",
-      "onboard_time": 1735114758,
-      "rank": 10,
-      "category": "音乐"
     },
     {
       "raw_hot": 557277,
@@ -332,10 +364,18 @@
     },
     {
       "raw_hot": 484221,
-      "num": 287153,
+      "num": 399931,
       "word": "60岁高龄孕妇剖宫产下男婴",
       "onboard_time": 1735117159,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468620,
+      "num": 468620,
+      "word": "生父母谈女儿被送养37年拒认亲",
+      "onboard_time": 1735119258,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -379,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428811,
-      "num": 428811,
-      "word": "黄子韬账号带货月销售额近2500万元",
-      "onboard_time": 1735117099,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428000,
       "num": 357556,
       "word": "竹林四侠Cha",
       "onboard_time": 1735100960,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425166,
+      "num": 425166,
+      "word": "娇妻文案 珍珠奶茶老师",
+      "onboard_time": 1735116679,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 422787,
@@ -411,20 +451,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 421888,
-      "num": 421888,
-      "word": "日本将对中国游客首设十年多次签证",
-      "onboard_time": 1735118058,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 417869,
       "num": 417869,
       "word": "日本外相称不能重蹈错误国策",
       "onboard_time": 1735093998,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 415668,
+      "num": 415668,
+      "word": "哈总统下令成立委员会调查坠机事故",
+      "onboard_time": 1735120338,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 397659,
@@ -555,14 +595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 322348,
-      "num": 322348,
-      "word": "李现悬崖举国旗照爆火景区紧急提醒",
-      "onboard_time": 1735116259,
-      "rank": 22,
-      "category": "旅游,艺人"
-    },
-    {
       "raw_hot": 321629,
       "num": 321629,
       "word": "虞书欣林一共创微博",
@@ -667,6 +699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 288587,
+      "num": 288587,
+      "word": "刘晓艳20年前考研成绩365分",
+      "onboard_time": 1735121477,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 287641,
       "num": 214781,
       "word": "王一博新歌",
@@ -689,14 +729,6 @@
       "onboard_time": 1735099399,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283024,
-      "num": 283024,
-      "word": "娇妻文案 珍珠奶茶老师",
-      "onboard_time": 1735116679,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 282935,
@@ -761,6 +793,14 @@
       "onboard_time": 1735090457,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258118,
+      "num": 258118,
+      "word": "波司登700元3克绒羽绒裤已下架",
+      "onboard_time": 1735117637,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253343,
@@ -971,14 +1011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208250,
-      "num": 208250,
-      "word": "波司登700元3克绒羽绒裤已下架",
-      "onboard_time": 1735117637,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206695,
       "num": 201574,
       "word": "运动20分钟就能抵消熬夜伤害",
@@ -1027,16 +1059,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 201674,
-      "num": 380767,
-      "word": "坠机现场生还者下机坐地哭喊被拖走",
-      "onboard_time": 1735118539,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 201013,
-      "num": 201013,
+      "num": 488694,
       "word": "周深今年最大的收获是歌迷",
       "onboard_time": 1735118238,
       "rank": 47,
@@ -1123,6 +1147,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 189699,
+      "num": 189699,
+      "word": "被家暴女子接受净身出户但坚持死刑",
+      "onboard_time": 1735120638,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189532,
       "num": 183517,
       "word": "alex2025星座分析",
@@ -1155,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185632,
+      "num": 185632,
+      "word": "河南上万农村老人个人信息被窃取",
+      "onboard_time": 1735115658,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185575,
       "num": 184757,
       "word": "平安夜票房",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1735097177,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183796,
+      "num": 183796,
+      "word": "猎罪图鉴2大结局",
+      "onboard_time": 1735121778,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 182883,
@@ -1299,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167390,
+      "num": 167390,
+      "word": "是权志龙 年末有救了",
+      "onboard_time": 1735119918,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 167267,
       "num": 167267,
       "word": "张艺兴东西实体专辑",
@@ -1313,6 +1369,14 @@
       "onboard_time": 1735105519,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164855,
+      "num": 164855,
+      "word": "王者S38新赛季",
+      "onboard_time": 1735120338,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 164302,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1735096217,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160714,
+      "num": 407840,
+      "word": "胡兵一年飞行时间快赶上飞行员了",
+      "onboard_time": 1735121119,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 159581,
@@ -1491,12 +1563,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "芒果女主持采访戚薇时的眼神",
+      "onboard_time": 1735121778,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
       "onboard_time": 1735102819,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147121,
+      "num": 147121,
+      "word": "圣诞节一定要吃鸡公煲",
+      "onboard_time": 1735120998,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 146759,
@@ -1513,6 +1601,14 @@
       "onboard_time": 1735117518,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145967,
+      "num": 145967,
+      "word": "崔然竣背头造型",
+      "onboard_time": 1735121957,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 145661,
@@ -1579,12 +1675,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138343,
+      "num": 138343,
+      "word": "黄子弘凡今年工作了341天",
+      "onboard_time": 1735121778,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138324,
       "num": 235355,
       "word": "刘亦菲李现梦回有风",
       "onboard_time": 1735111217,
       "rank": 19,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 136899,
+      "num": 136899,
+      "word": "芒果台皮肤20年换了20次",
+      "onboard_time": 1735121237,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 136393,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1735049900,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131796,
+      "num": 131796,
+      "word": "大奉打更人",
+      "onboard_time": 1735122019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 131246,
@@ -1744,14 +1864,6 @@
       "word": "查境外电诈关联账号竟然查到农村",
       "onboard_time": 1735088837,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124692,
-      "num": 124692,
-      "word": "河南上万农村老人个人信息被窃取",
-      "onboard_time": 1735115658,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -2001,14 +2113,6 @@
       "onboard_time": 1735089857,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100819,
-      "num": 288489,
-      "word": "生父母谈女儿被送养37年拒认亲",
-      "onboard_time": 1735119258,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99590,
@@ -2411,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55157,
+      "num": 170355,
+      "word": "丁禹兮给工作人员送圣诞礼物",
+      "onboard_time": 1735121957,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54127,
       "num": 343598,
       "word": "上官正义一年举报43家非法代孕机构",
@@ -2507,12 +2619,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 44334,
+      "num": 270544,
+      "word": "和RW的奇妙圣诞",
+      "onboard_time": 1735121357,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44041,
       "num": 44041,
       "word": "被大众追尾小米su7车主回应",
       "onboard_time": 1735059015,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 42910,
+      "num": 1171113,
+      "word": "传承3000多年的非遗黎锦美学满满",
+      "onboard_time": 1735121057,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 42027,
@@ -2699,6 +2827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24612,
+      "num": 401604,
+      "word": "大奉打更人硬核欢乐本追剧团",
+      "onboard_time": 1735120818,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23757,
       "num": 113639,
       "word": "主持人回应向佐生气",
@@ -2819,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16336,
+      "num": 130278,
+      "word": "鲍鱼红烧肉",
+      "onboard_time": 1735120937,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 15763,
       "num": 31339,
       "word": "向志愿军忠烈致敬",
@@ -2865,6 +3009,9 @@
     },
     {
       "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    },
+    {
+      "word": "#总书记论城市民生#"
     }
   ]
 }
