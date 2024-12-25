@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735104095091,
+  "endTime": 1735105147616,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1147085,
+      "num": 1147085,
+      "word": "张馨予 不要小看我的网速",
+      "onboard_time": 1735101740,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1120608,
       "num": 1179297,
       "word": "优酷过审鬼才",
@@ -473,14 +481,6 @@
       "onboard_time": 1734846379,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1071266,
-      "num": 1071266,
-      "word": "张馨予 不要小看我的网速",
-      "onboard_time": 1735101740,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1065561,
@@ -1699,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504769,
+      "num": 366316,
+      "word": "王影璐李昀锐领衔主演",
+      "onboard_time": 1735104198,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
@@ -2020,7 +2028,7 @@
     },
     {
       "raw_hot": 428000,
-      "num": 328359,
+      "num": 357556,
       "word": "竹林四侠Cha",
       "onboard_time": 1735100960,
       "rank": 36,
@@ -2305,6 +2313,14 @@
       "onboard_time": 1734965180,
       "rank": 12,
       "category": "财经"
+    },
+    {
+      "raw_hot": 388611,
+      "num": 388611,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 388570,
@@ -2747,14 +2763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 326497,
-      "num": 326497,
-      "word": "攒了一年的惊艳瞬间",
-      "onboard_time": 1735100659,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 326332,
       "num": 326332,
       "word": "玄彬说孙艺珍和儿子是第一顺位",
@@ -2924,7 +2932,7 @@
     },
     {
       "raw_hot": 310252,
-      "num": 224599,
+      "num": 301183,
       "word": "SBS红毯直播",
       "onboard_time": 1735103119,
       "rank": 21,
@@ -3123,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287641,
+      "num": 214781,
+      "word": "王一博新歌",
+      "onboard_time": 1735103418,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286560,
       "num": 286560,
       "word": "北电同学谈丁程鑫",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1734963559,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282935,
+      "num": 303214,
+      "word": "起底劣迹网红天佑",
+      "onboard_time": 1735103179,
+      "rank": 14,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 282703,
@@ -4115,14 +4139,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 214781,
-      "num": 214781,
-      "word": "王一博新歌",
-      "onboard_time": 1735103418,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214064,
       "num": 214064,
       "word": "孙膑马超战令新皮肤",
@@ -4571,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198772,
+      "num": 169455,
+      "word": "肖俊人呢",
+      "onboard_time": 1735104078,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198617,
       "num": 265131,
       "word": "时代少年团为马嘉祺音乐剧打call",
@@ -4657,6 +4681,14 @@
       "onboard_time": 1734848958,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195977,
+      "num": 168877,
+      "word": "王鸥 回不去了",
+      "onboard_time": 1735104798,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195877,
@@ -5115,20 +5147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185575,
+      "num": 184757,
+      "word": "平安夜票房",
+      "onboard_time": 1735103239,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185009,
       "num": 185009,
       "word": "读研之后才领悟的真相",
       "onboard_time": 1734944238,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 184757,
-      "num": 184757,
-      "word": "平安夜票房",
-      "onboard_time": 1735103239,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 184655,
@@ -5297,6 +5329,14 @@
       "onboard_time": 1734925337,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178557,
+      "num": 157353,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 178389,
@@ -5899,6 +5939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161235,
       "num": 161235,
       "word": "陈震称小鹏智驾有毒",
@@ -6361,6 +6409,14 @@
       "onboard_time": 1734852497,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151913,
+      "num": 151913,
+      "word": "真理之下",
+      "onboard_time": 1735104498,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 151909,
@@ -7147,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134574,
+      "num": 204974,
+      "word": "孙颖莎受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735103179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134476,
       "num": 134476,
       "word": "吻上王一博可爱表情包",
@@ -7361,14 +7425,6 @@
       "onboard_time": 1735034778,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 129875,
-      "num": 204974,
-      "word": "孙颖莎受邀2025乒乓球亚洲杯",
-      "onboard_time": 1735103179,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 129585,
@@ -7889,6 +7945,14 @@
       "onboard_time": 1735093217,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118603,
+      "num": 118603,
+      "word": "华晨宇分享烟台日出演唱会照片",
+      "onboard_time": 1735104978,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 118487,
@@ -9251,14 +9315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85698,
-      "num": 303214,
-      "word": "起底劣迹网红天佑",
-      "onboard_time": 1735103179,
-      "rank": 14,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 85295,
       "num": 286057,
       "word": "孙颖莎全年共获得14个冠军",
@@ -9345,6 +9401,14 @@
       "onboard_time": 1734925817,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81509,
+      "num": 178638,
+      "word": "SEVENTEEN圣诞自拍",
+      "onboard_time": 1735104798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 81507,
@@ -10915,6 +10979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45414,
+      "num": 165245,
+      "word": "我们是不是泛化了内耗",
+      "onboard_time": 1735104859,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45271,
       "num": 157384,
       "word": "峰哥打卡小雾凇岛",
@@ -11259,6 +11331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38857,
+      "num": 390252,
+      "word": "随意投喂野生动物需要担责吗",
+      "onboard_time": 1735103418,
+      "rank": 9,
+      "category": "舆论监督,议题讨论"
+    },
+    {
       "raw_hot": 38682,
       "num": 54704,
       "word": "日本樱岛火山再度喷发",
@@ -11529,6 +11609,14 @@
       "onboard_time": 1735053020,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33826,
+      "num": 163831,
+      "word": "国产车为什么更抗造",
+      "onboard_time": 1735103838,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 33688,
@@ -11995,14 +12083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25782,
-      "num": 141331,
-      "word": "国产车为什么更抗造",
-      "onboard_time": 1735103838,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 25723,
       "num": 25723,
       "word": "生活有时需要用物理学来开解",
@@ -12233,14 +12313,6 @@
       "onboard_time": 1734810491,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20348,
-      "num": 390252,
-      "word": "随意投喂野生动物需要担责吗",
-      "onboard_time": 1735103418,
-      "rank": 9,
-      "category": "舆论监督,议题讨论"
     },
     {
       "raw_hot": 20205,

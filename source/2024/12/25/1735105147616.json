@@ -1,0 +1,410 @@
+{
+  "runTime": 1735105147616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238509,
+        "num": 1238509,
+        "word": "8岁男孩用眼过度总把数字镜像反写",
+        "onboard_time": 1735099878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147085,
+        "num": 1147085,
+        "word": "张馨予 不要小看我的网速",
+        "onboard_time": 1735101740,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66353,
+        "num": 551306,
+        "word": "2024那些一眼惊艳的国风浪漫",
+        "onboard_time": 1735101681,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 509595,
+        "num": 509595,
+        "word": "2年被家暴16次女生称只接受死刑",
+        "onboard_time": 1735090218,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 480509,
+        "num": 480509,
+        "word": "前TVB艺人被香港警方通缉",
+        "onboard_time": 1735099999,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388611,
+        "num": 388611,
+        "word": "攒了一年的惊艳瞬间",
+        "onboard_time": 1735100659,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 452326,
+        "num": 383239,
+        "word": "劣迹网红天佑疑复出直播再被封禁",
+        "onboard_time": 1735091657,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 400191,
+        "num": 377984,
+        "word": "猎罪2李媛 畸形的虐恋太危险",
+        "onboard_time": 1735098739,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371116,
+        "num": 371116,
+        "word": "增值税法通过",
+        "onboard_time": 1735092617,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 38857,
+        "num": 366667,
+        "word": "随意投喂野生动物需要担责吗",
+        "onboard_time": 1735103418,
+        "rank": 9,
+        "category": "舆论监督,议题讨论"
+      },
+      {
+        "raw_hot": 577872,
+        "num": 366430,
+        "word": "小红薯娇妻文案",
+        "onboard_time": 1735098258,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 504769,
+        "num": 366316,
+        "word": "王影璐李昀锐领衔主演",
+        "onboard_time": 1735104198,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366126,
+        "num": 366126,
+        "word": "女子反复流产原因出在男方",
+        "onboard_time": 1735097777,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 357556,
+        "num": 357556,
+        "word": "竹林四侠Cha",
+        "onboard_time": 1735100960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328005,
+        "num": 328005,
+        "word": "小米官宣与蔚来合作",
+        "onboard_time": 1735096038,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301183,
+        "num": 301183,
+        "word": "SBS红毯直播",
+        "onboard_time": 1735103119,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273250,
+        "num": 273250,
+        "word": "张继科说王楚钦孙颖莎不容易",
+        "onboard_time": 1735089017,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221820,
+        "num": 221820,
+        "word": "32岁中国籍男游客在日本滑雪场遇难",
+        "onboard_time": 1735095018,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179631,
+        "num": 179631,
+        "word": "被家暴16次女子最怕孩子问身上伤口",
+        "onboard_time": 1735101140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81509,
+        "num": 178638,
+        "word": "SEVENTEEN圣诞自拍",
+        "onboard_time": 1735104798,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287641,
+        "num": 176885,
+        "word": "王一博新歌",
+        "onboard_time": 1735103418,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282935,
+        "num": 175676,
+        "word": "起底劣迹网红天佑",
+        "onboard_time": 1735103179,
+        "rank": 21,
+        "category": "网红,舆论监督"
+      },
+      {
+        "raw_hot": 282167,
+        "num": 174811,
+        "word": "虞书欣林一共创微博",
+        "onboard_time": 1735100840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276703,
+        "num": 173200,
+        "word": "时代峰峻将30%苹果税纳入高会成本",
+        "onboard_time": 1735092797,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221017,
+        "num": 170696,
+        "word": "被娃弄丢20g金条确认10多遍后死心",
+        "onboard_time": 1735060753,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198772,
+        "num": 169455,
+        "word": "肖俊人呢",
+        "onboard_time": 1735104078,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195977,
+        "num": 168877,
+        "word": "王鸥 回不去了",
+        "onboard_time": 1735104798,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187347,
+        "num": 165868,
+        "word": "24岁小伙上班6天误触辐射源即将截肢",
+        "onboard_time": 1735093576,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45414,
+        "num": 165245,
+        "word": "我们是不是泛化了内耗",
+        "onboard_time": 1735104859,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33826,
+        "num": 163831,
+        "word": "国产车为什么更抗造",
+        "onboard_time": 1735103838,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134574,
+        "num": 162635,
+        "word": "孙颖莎受邀2025乒乓球亚洲杯",
+        "onboard_time": 1735103179,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161246,
+        "num": 161246,
+        "word": "猎罪图鉴今晚又要结束了",
+        "onboard_time": 1735104859,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40280,
+        "num": 157369,
+        "word": "2024大银幕最难忘女演员",
+        "onboard_time": 1735103778,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185575,
+        "num": 157364,
+        "word": "平安夜票房",
+        "onboard_time": 1735103239,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178557,
+        "num": 157353,
+        "word": "我在",
+        "onboard_time": 1735104737,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157320,
+        "num": 157320,
+        "word": "因为两个孩子给全村修了路灯",
+        "onboard_time": 1735103119,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153122,
+        "num": 153122,
+        "word": "朴彩英分英",
+        "onboard_time": 1735094357,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152796,
+        "num": 152796,
+        "word": "男子不运动爱喝可乐精子DNA碎片化98%",
+        "onboard_time": 1735099278,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151913,
+        "num": 151913,
+        "word": "真理之下",
+        "onboard_time": 1735104498,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140902,
+        "num": 140902,
+        "word": "哈尔滨偶遇郭晶晶一家",
+        "onboard_time": 1735096698,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 138289,
+        "word": "柯南全国首场0点樱花雨",
+        "onboard_time": 1735103599,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137324,
+        "num": 137324,
+        "word": "张元英高定封面",
+        "onboard_time": 1735101199,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130061,
+        "num": 130061,
+        "word": "北电同学谈丁程鑫",
+        "onboard_time": 1735098139,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126947,
+        "num": 126947,
+        "word": "被2024惊艳了一眼又一眼",
+        "onboard_time": 1735092677,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 122504,
+        "num": 122504,
+        "word": "家暴男开打前先抢妻子手机",
+        "onboard_time": 1735099819,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118603,
+        "num": 118603,
+        "word": "华晨宇分享烟台日出演唱会照片",
+        "onboard_time": 1735104978,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115085,
+        "num": 115085,
+        "word": "羊毛月的账号被禁止关注",
+        "onboard_time": 1735052541,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114926,
+        "num": 114926,
+        "word": "张颂文自爆曾因长相被剧组打压",
+        "onboard_time": 1735085357,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114304,
+        "num": 114304,
+        "word": "光与夜之恋",
+        "onboard_time": 1735102819,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111920,
+        "num": 111920,
+        "word": "iPhone18零边框目标或落空",
+        "onboard_time": 1735095078,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#循着总书记关切见证粤港澳大湾区新貌#"
+    }
+  }
+}

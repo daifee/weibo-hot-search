@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735104095091,
+  "endTime": 1735105147616,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3547,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1147085,
+      "num": 1147085,
+      "word": "张馨予 不要小看我的网速",
+      "onboard_time": 1735101740,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1146808,
       "num": 427682,
       "word": "黄子韬婚后状态",
@@ -4121,14 +4129,6 @@
       "onboard_time": 1733733379,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1071266,
-      "num": 1071266,
-      "word": "张馨予 不要小看我的网速",
-      "onboard_time": 1735101740,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1070639,
@@ -13323,6 +13323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 504769,
+      "num": 366316,
+      "word": "王影璐李昀锐领衔主演",
+      "onboard_time": 1735104198,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504383,
       "num": 504383,
       "word": "麦琳未在李行亮经纪公司持股",
@@ -16076,7 +16084,7 @@
     },
     {
       "raw_hot": 428000,
-      "num": 328359,
+      "num": 357556,
       "word": "竹林四侠Cha",
       "onboard_time": 1735100960,
       "rank": 36,
@@ -17873,6 +17881,14 @@
       "onboard_time": 1733887581,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 388611,
+      "num": 388611,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 388570,
@@ -21027,14 +21043,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 326497,
-      "num": 326497,
-      "word": "攒了一年的惊艳瞬间",
-      "onboard_time": 1735100659,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 326415,
       "num": 316423,
       "word": "明白了为什么微信这么占内存了",
@@ -22076,7 +22084,7 @@
     },
     {
       "raw_hot": 310252,
-      "num": 224599,
+      "num": 301183,
       "word": "SBS红毯直播",
       "onboard_time": 1735103119,
       "rank": 21,
@@ -23483,6 +23491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287641,
+      "num": 214781,
+      "word": "王一博新歌",
+      "onboard_time": 1735103418,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287390,
       "num": 287390,
       "word": "这些食物是结节的催化剂",
@@ -23769,6 +23785,14 @@
       "onboard_time": 1734408380,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 282935,
+      "num": 303214,
+      "word": "起底劣迹网红天佑",
+      "onboard_time": 1735103179,
+      "rank": 14,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 282829,
@@ -30627,14 +30651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214781,
-      "num": 214781,
-      "word": "王一博新歌",
-      "onboard_time": 1735103418,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214720,
       "num": 210825,
       "word": "沈翊黑化倒计时",
@@ -34051,6 +34067,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 198772,
+      "num": 169455,
+      "word": "肖俊人呢",
+      "onboard_time": 1735104078,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 198723,
       "num": 198723,
       "word": "谢娜加盟湖南卫视跨年晚会",
@@ -34817,6 +34841,14 @@
       "onboard_time": 1734150680,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195977,
+      "num": 168877,
+      "word": "王鸥 回不去了",
+      "onboard_time": 1735104798,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195940,
@@ -38251,6 +38283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185575,
+      "num": 184757,
+      "word": "平安夜票房",
+      "onboard_time": 1735103239,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185571,
       "num": 185571,
       "word": "虞书欣的预告好像连续剧",
@@ -38401,14 +38441,6 @@
       "onboard_time": 1734340638,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 184757,
-      "num": 184757,
-      "word": "平安夜票房",
-      "onboard_time": 1735103239,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 184734,
@@ -39785,6 +39817,14 @@
       "onboard_time": 1733101279,
       "rank": 10,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 178557,
+      "num": 157353,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 178514,
@@ -44411,6 +44451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161244,
       "num": 323144,
       "word": "何浩楠直播",
@@ -47609,6 +47657,14 @@
       "onboard_time": 1733657721,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151913,
+      "num": 151913,
+      "word": "真理之下",
+      "onboard_time": 1735104498,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 151909,
@@ -52955,6 +53011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134574,
+      "num": 204974,
+      "word": "孙颖莎受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735103179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134526,
       "num": 134526,
       "word": "KPL年度最受欢迎奖项投票开启",
@@ -54392,14 +54456,6 @@
       "word": "周琦与广东男篮队员拥抱",
       "onboard_time": 1734007220,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129875,
-      "num": 204974,
-      "word": "孙颖莎受邀2025乒乓球亚洲杯",
-      "onboard_time": 1735103179,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -57689,6 +57745,14 @@
       "onboard_time": 1733017999,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118603,
+      "num": 118603,
+      "word": "华晨宇分享烟台日出演唱会照片",
+      "onboard_time": 1735104978,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 118552,
@@ -65339,14 +65403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85698,
-      "num": 303214,
-      "word": "起底劣迹网红天佑",
-      "onboard_time": 1735103179,
-      "rank": 14,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 85596,
       "num": 439966,
       "word": "一起看双子座流星雨直播",
@@ -66153,6 +66209,14 @@
       "onboard_time": 1733960116,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81509,
+      "num": 178638,
+      "word": "SEVENTEEN圣诞自拍",
+      "onboard_time": 1735104798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 81507,
@@ -75115,6 +75179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 45414,
+      "num": 165245,
+      "word": "我们是不是泛化了内耗",
+      "onboard_time": 1735104859,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45405,
       "num": 185530,
       "word": "2年被家暴16次刑事案确定开庭",
@@ -77507,6 +77579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38857,
+      "num": 390252,
+      "word": "随意投喂野生动物需要担责吗",
+      "onboard_time": 1735103418,
+      "rank": 9,
+      "category": "舆论监督,议题讨论"
+    },
+    {
       "raw_hot": 38800,
       "num": 216019,
       "word": "嘉人黑白天台大片",
@@ -79217,6 +79297,14 @@
       "onboard_time": 1733836162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33826,
+      "num": 163831,
+      "word": "国产车为什么更抗造",
+      "onboard_time": 1735103838,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 33797,
@@ -82355,14 +82443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25782,
-      "num": 141331,
-      "word": "国产车为什么更抗造",
-      "onboard_time": 1735103838,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 25753,
       "num": 240396,
       "word": "欣生快乐每一刻",
@@ -84137,14 +84217,6 @@
       "onboard_time": 1733509573,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 20348,
-      "num": 390252,
-      "word": "随意投喂野生动物需要担责吗",
-      "onboard_time": 1735103418,
-      "rank": 9,
-      "category": "舆论监督,议题讨论"
     },
     {
       "raw_hot": 20343,

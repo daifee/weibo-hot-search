@@ -1,6 +1,6 @@
 {
   "startTime": 1735057608495,
-  "endTime": 1735104095091,
+  "endTime": 1735105147616,
   "band_list": [
     {
       "raw_hot": 1620539,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1071266,
-      "num": 1071266,
+      "raw_hot": 1147085,
+      "num": 1147085,
       "word": "张馨予 不要小看我的网速",
       "onboard_time": 1735101740,
       "rank": 1,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504769,
+      "num": 366316,
+      "word": "王影璐李昀锐领衔主演",
+      "onboard_time": 1735104198,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461041,
       "num": 461041,
       "word": "小偷和警察一起看监控被当场拿下",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 428000,
-      "num": 328359,
+      "num": 357556,
       "word": "竹林四侠Cha",
       "onboard_time": 1735100960,
       "rank": 36,
@@ -233,6 +241,14 @@
       "onboard_time": 1735054639,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 388611,
+      "num": 388611,
+      "word": "攒了一年的惊艳瞬间",
+      "onboard_time": 1735100659,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 388570,
@@ -307,14 +323,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 326497,
-      "num": 326497,
-      "word": "攒了一年的惊艳瞬间",
-      "onboard_time": 1735100659,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 326282,
       "num": 297621,
       "word": "圣诞树",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 310252,
-      "num": 224599,
+      "num": 301183,
       "word": "SBS红毯直播",
       "onboard_time": 1735103119,
       "rank": 21,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287641,
+      "num": 214781,
+      "word": "王一博新歌",
+      "onboard_time": 1735103418,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286560,
       "num": 286560,
       "word": "北电同学谈丁程鑫",
@@ -401,6 +417,14 @@
       "onboard_time": 1735099399,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282935,
+      "num": 303214,
+      "word": "起底劣迹网红天佑",
+      "onboard_time": 1735103179,
+      "rank": 14,
+      "category": "网红,舆论监督"
     },
     {
       "raw_hot": 267012,
@@ -523,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214781,
-      "num": 214781,
-      "word": "王一博新歌",
-      "onboard_time": 1735103418,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 213854,
       "num": 213854,
       "word": "埃菲尔铁塔电梯井突发火灾",
@@ -595,12 +611,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198772,
+      "num": 169455,
+      "word": "肖俊人呢",
+      "onboard_time": 1735104078,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196910,
       "num": 196910,
       "word": "家暴男开打前先抢妻子手机",
       "onboard_time": 1735099819,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195977,
+      "num": 168877,
+      "word": "王鸥 回不去了",
+      "onboard_time": 1735104798,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195766,
@@ -635,7 +667,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 184757,
+      "raw_hot": 185575,
       "num": 184757,
       "word": "平安夜票房",
       "onboard_time": 1735103239,
@@ -673,6 +705,14 @@
       "onboard_time": 1735102758,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178557,
+      "num": 157353,
+      "word": "我在",
+      "onboard_time": 1735104737,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 175586,
@@ -737,6 +777,14 @@
       "onboard_time": 1735052060,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 161246,
+      "num": 161246,
+      "word": "猎罪图鉴今晚又要结束了",
+      "onboard_time": 1735104859,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 161216,
@@ -843,6 +891,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 151913,
+      "num": 151913,
+      "word": "真理之下",
+      "onboard_time": 1735104498,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151898,
       "num": 151898,
       "word": "宋雨琦今年和跑男家族一起跨年",
@@ -923,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134574,
+      "num": 204974,
+      "word": "孙颖莎受邀2025乒乓球亚洲杯",
+      "onboard_time": 1735103179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "九重紫爆款的含金量更高",
@@ -937,14 +1001,6 @@
       "onboard_time": 1735049900,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129875,
-      "num": 204974,
-      "word": "孙颖莎受邀2025乒乓球亚洲杯",
-      "onboard_time": 1735103179,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 129084,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1735093217,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118603,
+      "num": 118603,
+      "word": "华晨宇分享烟台日出演唱会照片",
+      "onboard_time": 1735104978,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 117356,
@@ -1243,14 +1307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 85698,
-      "num": 303214,
-      "word": "起底劣迹网红天佑",
-      "onboard_time": 1735103179,
-      "rank": 14,
-      "category": "网红,舆论监督"
-    },
-    {
       "raw_hot": 83621,
       "num": 83621,
       "word": "当网红狼死在车轮下你还觉得好笑吗",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1735031477,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81509,
+      "num": 178638,
+      "word": "SEVENTEEN圣诞自拍",
+      "onboard_time": 1735104798,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 81507,
@@ -1507,6 +1571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45414,
+      "num": 165245,
+      "word": "我们是不是泛化了内耗",
+      "onboard_time": 1735104859,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45029,
       "num": 202720,
       "word": "银行股持续上涨",
@@ -1555,12 +1627,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38857,
+      "num": 390252,
+      "word": "随意投喂野生动物需要担责吗",
+      "onboard_time": 1735103418,
+      "rank": 9,
+      "category": "舆论监督,议题讨论"
+    },
+    {
       "raw_hot": 36279,
       "num": 44009,
       "word": "TES对战iG",
       "onboard_time": 1735040597,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33826,
+      "num": 163831,
+      "word": "国产车为什么更抗造",
+      "onboard_time": 1735103838,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 33625,
@@ -1585,14 +1673,6 @@
       "onboard_time": 1735094658,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25782,
-      "num": 141331,
-      "word": "国产车为什么更抗造",
-      "onboard_time": 1735103838,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 25723,
@@ -1657,14 +1737,6 @@
       "onboard_time": 1735064951,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20348,
-      "num": 390252,
-      "word": "随意投喂野生动物需要担责吗",
-      "onboard_time": 1735103418,
-      "rank": 9,
-      "category": "舆论监督,议题讨论"
     },
     {
       "raw_hot": 20205,
