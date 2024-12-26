@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735201692125,
+  "endTime": 1735202493233,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1120901,
+      "num": 1120901,
+      "word": "上海 韩国人",
+      "onboard_time": 1735199719,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1120608,
       "num": 1179297,
       "word": "优酷过审鬼才",
@@ -713,14 +721,6 @@
       "onboard_time": 1735004837,
       "rank": 17,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 1013702,
-      "num": 1013702,
-      "word": "上海 韩国人",
-      "onboard_time": 1735199719,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1005382,
@@ -3027,6 +3027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 405002,
+      "num": 234759,
+      "word": "鱿鱼游戏2全集上线",
+      "onboard_time": 1735201458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403520,
       "num": 403520,
       "word": "杨子 演员请就位",
@@ -3899,6 +3907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 319741,
+      "num": 298361,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318812,
       "num": 318812,
       "word": "于适已将成为导演纳入规划",
@@ -4203,12 +4219,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 298361,
-      "num": 298361,
-      "word": "鱿鱼游戏 孔刘",
-      "onboard_time": 1735200859,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 298194,
+      "num": 291535,
+      "word": "宋丹丹 豆角这块我熟",
+      "onboard_time": 1735200679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 296907,
@@ -4273,14 +4289,6 @@
       "onboard_time": 1735014620,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291535,
-      "num": 291535,
-      "word": "宋丹丹 豆角这块我熟",
-      "onboard_time": 1735200679,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 290990,
@@ -5323,14 +5331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 229395,
-      "num": 229395,
-      "word": "鱿鱼游戏2全集上线",
-      "onboard_time": 1735201458,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229241,
       "num": 277442,
       "word": "郭柯宇称明星戴墨镜口罩很讽刺",
@@ -5681,6 +5681,14 @@
       "onboard_time": 1734960920,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216882,
+      "num": 228125,
+      "word": "驼峰鼻",
+      "onboard_time": 1735200559,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 216862,
@@ -6115,6 +6123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205932,
+      "num": 205932,
+      "word": "沈腾两句话把王安宇哄成胚胎",
+      "onboard_time": 1735201639,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205876,
       "num": 421402,
       "word": "降温后的小西天",
@@ -6216,6 +6232,14 @@
       "word": "白鹿 菩提树下站猴都美",
       "onboard_time": 1735017679,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202828,
+      "num": 235293,
+      "word": "李嘉琦探班沈月",
+      "onboard_time": 1735200259,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -7889,14 +7913,6 @@
       "onboard_time": 1734950418,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168124,
-      "num": 235293,
-      "word": "李嘉琦探班沈月",
-      "onboard_time": 1735200259,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 168120,
@@ -10347,14 +10363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127901,
-      "num": 127901,
-      "word": "沈腾两句话把王安宇哄成胚胎",
-      "onboard_time": 1735201639,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127743,
       "num": 127743,
       "word": "王心凌演唱会吉他手是陈楚生",
@@ -11731,6 +11739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104797,
+      "num": 253499,
+      "word": "SPA店回应发女顾客裸露按摩视频",
+      "onboard_time": 1735200618,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "袁记云饺有店铺销量下滑三分之一",
@@ -12123,14 +12139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96702,
-      "num": 226150,
-      "word": "驼峰鼻",
-      "onboard_time": 1735200559,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 96537,
       "num": 168668,
       "word": "辛巴 少活几十年也要让人记得我",
@@ -12249,14 +12257,6 @@
       "onboard_time": 1735117759,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93837,
-      "num": 253499,
-      "word": "SPA店回应发女顾客裸露按摩视频",
-      "onboard_time": 1735200618,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93756,
@@ -13091,6 +13091,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 72980,
+      "num": 293946,
+      "word": "这届年轻人连婚礼都开始预制了",
+      "onboard_time": 1735201159,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72925,
       "num": 365448,
       "word": "清明上河图密码救女友连砍4人大案",
@@ -13135,6 +13143,14 @@
       "num": 445895,
       "word": "大量老师晒学生视频走红",
       "onboard_time": 1734949098,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72124,
+      "num": 449751,
+      "word": "顶尖初中偷偷组织小升初神秘考",
+      "onboard_time": 1735200618,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -13627,6 +13643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62351,
+      "num": 195537,
+      "word": "相约2025跨年夜",
+      "onboard_time": 1735195998,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62286,
       "num": 183606,
       "word": "库里绝平三分",
@@ -13875,28 +13899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57120,
-      "num": 293946,
-      "word": "这届年轻人连婚礼都开始预制了",
-      "onboard_time": 1735201159,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
       "onboard_time": 1735073650,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 56954,
-      "num": 449751,
-      "word": "顶尖初中偷偷组织小升初神秘考",
-      "onboard_time": 1735200618,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56674,
@@ -14137,6 +14145,14 @@
       "onboard_time": 1735042458,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52785,
+      "num": 232033,
+      "word": "遭老板性侵被开除女子申请工伤成功",
+      "onboard_time": 1735202359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52673,
@@ -14625,6 +14641,14 @@
       "onboard_time": 1735043958,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45885,
+      "num": 233504,
+      "word": "泽连斯基指责俄发动圣诞袭击",
+      "onboard_time": 1735201699,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45807,
@@ -15580,7 +15604,7 @@
     },
     {
       "raw_hot": 33584,
-      "num": 219473,
+      "num": 229014,
       "word": "一代人有一代人的年货",
       "onboard_time": 1735200859,
       "rank": 30,
@@ -15737,6 +15761,14 @@
       "onboard_time": 1734888794,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31714,
+      "num": 255228,
+      "word": "评论罗伯特锐评一加Ace5",
+      "onboard_time": 1735198698,
+      "rank": 18,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 31711,
@@ -16011,14 +16043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28816,
-      "num": 255228,
-      "word": "评论罗伯特锐评一加Ace5",
-      "onboard_time": 1735198698,
-      "rank": 18,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 28733,
       "num": 31995,
       "word": "用AI打开冬至",
@@ -16177,6 +16201,14 @@
       "onboard_time": 1734941599,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26388,
+      "num": 769787,
+      "word": "来过一个冬日梦幻之旅",
+      "onboard_time": 1735185380,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26375,
@@ -16595,12 +16627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20831,
-      "num": 769787,
-      "word": "来过一个冬日梦幻之旅",
-      "onboard_time": 1735185380,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 20441,
+      "num": 222395,
+      "word": "江奇霖新片神机妙探",
+      "onboard_time": 1735198698,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 20205,
@@ -16859,6 +16891,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16729,
+      "num": 228814,
+      "word": "2024画不完根本画不完",
+      "onboard_time": 1735201280,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 16620,
       "num": 22966,
       "word": "嘘国王在冬眠冬至物料",
@@ -16881,14 +16921,6 @@
       "onboard_time": 1735066211,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16413,
-      "num": 228814,
-      "word": "2024画不完根本画不完",
-      "onboard_time": 1735201280,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 16336,
@@ -17145,14 +17177,6 @@
       "onboard_time": 1734905652,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11044,
-      "num": 222395,
-      "word": "江奇霖新片神机妙探",
-      "onboard_time": 1735198698,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 10799,

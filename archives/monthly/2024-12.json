@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735201692125,
+  "endTime": 1735202493233,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3867,6 +3867,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1120901,
+      "num": 1120901,
+      "word": "上海 韩国人",
+      "onboard_time": 1735199719,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1120608,
       "num": 1179297,
       "word": "优酷过审鬼才",
@@ -4809,14 +4817,6 @@
       "onboard_time": 1734579857,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1013702,
-      "num": 1013702,
-      "word": "上海 韩国人",
-      "onboard_time": 1735199719,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1013061,
@@ -17947,6 +17947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 405002,
+      "num": 234759,
+      "word": "鱿鱼游戏2全集上线",
+      "onboard_time": 1735201458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404989,
       "num": 404989,
       "word": "王鹤棣新歌歌词",
@@ -22595,6 +22603,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 319741,
+      "num": 298361,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319641,
       "num": 319641,
       "word": "最强大脑被芒果脑综淘汰",
@@ -23883,12 +23899,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 298361,
-      "num": 298361,
-      "word": "鱿鱼游戏 孔刘",
-      "onboard_time": 1735200859,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 298194,
+      "num": 291535,
+      "word": "宋丹丹 豆角这块我熟",
+      "onboard_time": 1735200679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 298041,
@@ -24353,14 +24369,6 @@
       "onboard_time": 1734328279,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 291535,
-      "num": 291535,
-      "word": "宋丹丹 豆角这块我熟",
-      "onboard_time": 1735200679,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 291429,
@@ -30179,14 +30187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 229395,
-      "num": 229395,
-      "word": "鱿鱼游戏2全集上线",
-      "onboard_time": 1735201458,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229336,
       "num": 253658,
       "word": "秦川刚做完手术妈妈去世",
@@ -31889,6 +31889,14 @@
       "onboard_time": 1734076337,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216882,
+      "num": 228125,
+      "word": "驼峰鼻",
+      "onboard_time": 1735200559,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 216862,
@@ -34003,6 +34011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205932,
+      "num": 205932,
+      "word": "沈腾两句话把王安宇哄成胚胎",
+      "onboard_time": 1735201639,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205895,
       "num": 205895,
       "word": "虞书欣ins更新专辑花絮照",
@@ -34833,6 +34849,14 @@
       "onboard_time": 1733909900,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 202828,
+      "num": 235293,
+      "word": "李嘉琦探班沈月",
+      "onboard_time": 1735200259,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 202736,
@@ -44689,14 +44713,6 @@
       "onboard_time": 1734392117,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168124,
-      "num": 235293,
-      "word": "李嘉琦探班沈月",
-      "onboard_time": 1735200259,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 168120,
@@ -57723,14 +57739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127901,
-      "num": 127901,
-      "word": "沈腾两句话把王安宇哄成胚胎",
-      "onboard_time": 1735201639,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127795,
       "num": 316564,
       "word": "尹锡悦下台前不履行职务",
@@ -64443,6 +64451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104797,
+      "num": 253499,
+      "word": "SPA店回应发女顾客裸露按摩视频",
+      "onboard_time": 1735200618,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104761,
       "num": 104761,
       "word": "听不见的摄影师拍出五彩斑斓的世界",
@@ -66323,14 +66339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96702,
-      "num": 226150,
-      "word": "驼峰鼻",
-      "onboard_time": 1735200559,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 96684,
       "num": 96684,
       "word": "偶遇希林娜依高泉州簪花",
@@ -66993,14 +67001,6 @@
       "onboard_time": 1733278998,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 93837,
-      "num": 253499,
-      "word": "SPA店回应发女顾客裸露按摩视频",
-      "onboard_time": 1735200618,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93818,
@@ -71283,6 +71283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72980,
+      "num": 293946,
+      "word": "这届年轻人连婚礼都开始预制了",
+      "onboard_time": 1735201159,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72970,
       "num": 374359,
       "word": "人民币直线拉升",
@@ -71480,6 +71488,14 @@
       "word": "女子远嫁日本失联父母曾支援7万元",
       "onboard_time": 1733907740,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72124,
+      "num": 449751,
+      "word": "顶尖初中偷偷组织小升初神秘考",
+      "onboard_time": 1735200618,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -73827,6 +73843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62351,
+      "num": 195537,
+      "word": "相约2025跨年夜",
+      "onboard_time": 1735195998,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62332,
       "num": 266367,
       "word": "韩国游客中国行爆火带动韩语地陪",
@@ -75195,28 +75219,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57120,
-      "num": 293946,
-      "word": "这届年轻人连婚礼都开始预制了",
-      "onboard_time": 1735201159,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
       "onboard_time": 1735073650,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 56954,
-      "num": 449751,
-      "word": "顶尖初中偷偷组织小升初神秘考",
-      "onboard_time": 1735200618,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56919,
@@ -76473,6 +76481,14 @@
       "onboard_time": 1734678079,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52785,
+      "num": 232033,
+      "word": "遭老板性侵被开除女子申请工伤成功",
+      "onboard_time": 1735202359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52778,
@@ -78657,6 +78673,14 @@
       "onboard_time": 1733488879,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45885,
+      "num": 233504,
+      "word": "泽连斯基指责俄发动圣诞袭击",
+      "onboard_time": 1735201699,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45882,
@@ -83324,7 +83348,7 @@
     },
     {
       "raw_hot": 33584,
-      "num": 219473,
+      "num": 229014,
       "word": "一代人有一代人的年货",
       "onboard_time": 1735200859,
       "rank": 30,
@@ -84193,6 +84217,14 @@
       "onboard_time": 1734888794,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 31714,
+      "num": 255228,
+      "word": "评论罗伯特锐评一加Ace5",
+      "onboard_time": 1735198698,
+      "rank": 18,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 31711,
@@ -85395,14 +85427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28816,
-      "num": 255228,
-      "word": "评论罗伯特锐评一加Ace5",
-      "onboard_time": 1735198698,
-      "rank": 18,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 28815,
       "num": 432056,
       "word": "一场四个人无法同时站立的比赛",
@@ -86265,6 +86289,14 @@
       "onboard_time": 1733110519,
       "rank": 29,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 26388,
+      "num": 769787,
+      "word": "来过一个冬日梦幻之旅",
+      "onboard_time": 1735185380,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26375,
@@ -88331,14 +88363,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 20831,
-      "num": 769787,
-      "word": "来过一个冬日梦幻之旅",
-      "onboard_time": 1735185380,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20774,
       "num": 240247,
       "word": "打卡香奈儿宣传片里的杭州风景",
@@ -88409,6 +88433,14 @@
       "onboard_time": 1734669201,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20441,
+      "num": 222395,
+      "word": "江奇霖新片神机妙探",
+      "onboard_time": 1735198698,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 20440,
@@ -89763,6 +89795,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16729,
+      "num": 228814,
+      "word": "2024画不完根本画不完",
+      "onboard_time": 1735201280,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 16727,
       "num": 26934,
       "word": "地震局回应珠海发生地震",
@@ -89897,14 +89937,6 @@
       "onboard_time": 1733754740,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16413,
-      "num": 228814,
-      "word": "2024画不完根本画不完",
-      "onboard_time": 1735201280,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 16370,
@@ -91857,14 +91889,6 @@
       "onboard_time": 1734715634,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11044,
-      "num": 222395,
-      "word": "江奇霖新片神机妙探",
-      "onboard_time": 1735198698,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 11030,
