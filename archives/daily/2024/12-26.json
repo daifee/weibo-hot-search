@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735187234375,
+  "endTime": 1735188048624,
   "band_list": [
     {
       "raw_hot": 1684312,
@@ -41,6 +41,14 @@
       "onboard_time": 1735185018,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1265793,
+      "num": 668978,
+      "word": "99年女子生娃前忍着宫缩紧急化妆",
+      "onboard_time": 1735185259,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1105473,
@@ -89,14 +97,6 @@
       "onboard_time": 1735171396,
       "rank": 7,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 726549,
-      "num": 668978,
-      "word": "99年女子生娃前忍着宫缩紧急化妆",
-      "onboard_time": 1735185259,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 723759,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 591637,
+      "num": 692805,
+      "word": "腾讯视频星光大赏阵容",
+      "onboard_time": 1735184298,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564077,
       "num": 564077,
       "word": "年度报告",
@@ -177,6 +185,14 @@
       "onboard_time": 1735177876,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 521904,
+      "num": 500156,
+      "word": "将亡妻金镯熔给新伴侣换首饰后续",
+      "onboard_time": 1735187238,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 516933,
@@ -227,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 429408,
-      "num": 692805,
-      "word": "腾讯视频星光大赏阵容",
-      "onboard_time": 1735184298,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425744,
       "num": 505862,
       "word": "王安宇 会爱人的眼睛",
@@ -264,6 +272,14 @@
       "word": "一农民卖羊肉赚180元收到10万罚单",
       "onboard_time": 1735142718,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378963,
+      "num": 684338,
+      "word": "太原一商场圣诞装饰遭顾客哄抢",
+      "onboard_time": 1735183637,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -321,6 +337,14 @@
       "onboard_time": 1735183277,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349938,
+      "num": 349938,
+      "word": "李昀锐 妈妈我不要面子哒",
+      "onboard_time": 1735186759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 349304,
@@ -411,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292460,
+      "num": 292460,
+      "word": "迪丽热巴灵蛇献瑞",
+      "onboard_time": 1735186818,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289804,
       "num": 355087,
       "word": "小伙都被警察堵住了还一口一个没有",
@@ -467,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255626,
-      "num": 684338,
-      "word": "太原一商场圣诞装饰遭顾客哄抢",
-      "onboard_time": 1735183637,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252780,
       "num": 679913,
       "word": "湖人战胜勇士",
@@ -483,20 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252089,
-      "num": 252089,
-      "word": "李昀锐 妈妈我不要面子哒",
-      "onboard_time": 1735186759,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249847,
       "num": 317240,
       "word": "有38人在客机失事中丧生",
       "onboard_time": 1735143855,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249494,
+      "num": 249494,
+      "word": "原来被尊重的面试是这样的啊",
+      "onboard_time": 1735185498,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 242129,
@@ -531,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233738,
+      "num": 233738,
+      "word": "星穹铁道加多宝",
+      "onboard_time": 1735187598,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231953,
+      "num": 231953,
+      "word": "美国内部对华芯片制裁存在分歧",
+      "onboard_time": 1735187118,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 229107,
       "num": 229107,
       "word": "鱿鱼游戏2",
@@ -539,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224253,
-      "num": 224253,
-      "word": "原来被尊重的面试是这样的啊",
-      "onboard_time": 1735185498,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 213696,
+      "num": 482979,
+      "word": "先按年龄后按姓名首字母排序",
+      "onboard_time": 1735186878,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 213185,
@@ -579,20 +619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209192,
-      "num": 209192,
-      "word": "迪丽热巴灵蛇献瑞",
-      "onboard_time": 1735186818,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "赛里木湖",
       "onboard_time": 1735138939,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 205317,
+      "num": 599189,
+      "word": "柯文哲遭起诉求刑28年半",
+      "onboard_time": 1735186098,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202160,
@@ -659,12 +699,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 182640,
-      "num": 182640,
-      "word": "美国内部对华芯片制裁存在分歧",
-      "onboard_time": 1735187118,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 182488,
+      "num": 472952,
+      "word": "再见爱人",
+      "onboard_time": 1735187899,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 179418,
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 124664,
-      "num": 283907,
+      "num": 454783,
       "word": "魏晨滑雪日常回归",
       "onboard_time": 1735186098,
       "rank": 32,
@@ -915,14 +955,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 115665,
-      "num": 384024,
-      "word": "先按年龄后按姓名首字母排序",
-      "onboard_time": 1735186878,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114803,
       "num": 124045,
       "word": "2024男明星综合热度榜TOP10",
@@ -961,6 +993,14 @@
       "onboard_time": 1735139479,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109512,
+      "num": 488334,
+      "word": "权志龙被男粉吓到的反应",
+      "onboard_time": 1735187839,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 106484,
@@ -1059,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89000,
+      "num": 259441,
+      "word": "周深 作为歌手我的定力就是陪伴",
+      "onboard_time": 1735187839,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88448,
       "num": 88448,
       "word": "猎罪图鉴2 富婆是寸头姐",
@@ -1132,11 +1180,27 @@
     },
     {
       "raw_hot": 72617,
-      "num": 377712,
+      "num": 479272,
       "word": "发物到底是什么",
       "onboard_time": 1735187118,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72474,
+      "num": 604842,
+      "word": "半年内超1000家宠物殡葬企业成立",
+      "onboard_time": 1735186400,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69705,
+      "num": 503452,
+      "word": "韩国考虑对中国团体游客试行免签",
+      "onboard_time": 1735187659,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63360,
@@ -1179,16 +1243,16 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 59921,
-      "num": 599189,
-      "word": "柯文哲遭起诉求刑28年半",
-      "onboard_time": 1735186098,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 60965,
+      "num": 647111,
+      "word": "揭秘教辅背后深度捆绑利益链",
+      "onboard_time": 1735186158,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
-      "raw_hot": 51453,
-      "num": 350180,
+      "raw_hot": 52352,
+      "num": 486783,
       "word": "南浔迎来沪苏湖半小时通勤圈",
       "onboard_time": 1735186400,
       "rank": 28,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1735163771,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49492,
-      "num": 604842,
-      "word": "半年内超1000家宠物殡葬企业成立",
-      "onboard_time": 1735186400,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48072,
@@ -1259,12 +1315,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 44272,
-      "num": 647111,
-      "word": "揭秘教辅背后深度捆绑利益链",
-      "onboard_time": 1735186158,
-      "rank": 13,
-      "category": "舆论监督"
+      "raw_hot": 42677,
+      "num": 428495,
+      "word": "安陵容透露要唱看我72变",
+      "onboard_time": 1735187960,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 42323,
@@ -1315,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39464,
+      "num": 491336,
+      "word": "2024那些00后刮起的青春风暴",
+      "onboard_time": 1735187538,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 38194,
       "num": 55583,
       "word": "中日高级别人文交流磋商达成10项共识",
@@ -1345,6 +1409,22 @@
       "onboard_time": 1735146135,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34681,
+      "num": 465190,
+      "word": "为什么猴系男孩在相亲市场很抢手",
+      "onboard_time": 1735187659,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33894,
+      "num": 444366,
+      "word": "马冬梅有问界M9",
+      "onboard_time": 1735185858,
+      "rank": 26,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 30983,
@@ -1411,12 +1491,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26452,
-      "num": 366480,
-      "word": "马冬梅有问界M9",
-      "onboard_time": 1735185858,
-      "rank": 26,
-      "category": "艺人,汽车"
+      "raw_hot": 27808,
+      "num": 446311,
+      "word": "芝麻奶糖猪cos毛利兰",
+      "onboard_time": 1735187719,
+      "rank": 27,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 26095,
+      "num": 315699,
+      "word": "在上海沉浸式感受剪纸文化",
+      "onboard_time": 1735187538,
+      "rank": 35,
+      "category": "旅游,民生新闻"
     },
     {
       "raw_hot": 25517,
@@ -1467,20 +1555,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 18030,
+      "num": 436686,
+      "word": "赖美云车内转场太惊艳了",
+      "onboard_time": 1735185858,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17759,
       "num": 19281,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1735157290,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17530,
-      "num": 341751,
-      "word": "赖美云车内转场太惊艳了",
-      "onboard_time": 1735185858,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 12557,
@@ -1499,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12255,
+      "num": 289015,
+      "word": "超出片圣诞红色系氛围穿搭",
+      "onboard_time": 1735186878,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 12049,
       "num": 72805,
       "word": "周棋洛 在群星闪耀时起舞",
@@ -1507,11 +1603,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8658,
-      "num": 211586,
-      "word": "超出片圣诞红色系氛围穿搭",
-      "onboard_time": 1735186878,
-      "rank": 39,
+      "raw_hot": 11771,
+      "num": 462355,
+      "word": "圣诞节百搭白色系LOOK",
+      "onboard_time": 1735187420,
+      "rank": 25,
       "category": "时尚"
     },
     {
