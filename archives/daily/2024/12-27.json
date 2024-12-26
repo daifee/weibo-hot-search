@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735231332736,
+  "endTime": 1735233547703,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -33,6 +33,14 @@
       "onboard_time": 1735226298,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 476363,
+      "num": 264690,
+      "word": "曝宝石老舅醉酒打架被警方拘留",
+      "onboard_time": 1735198579,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 460914,
@@ -89,14 +97,6 @@
       "onboard_time": 1735222100,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343013,
-      "num": 264690,
-      "word": "曝宝石老舅醉酒打架被警方拘留",
-      "onboard_time": 1735198579,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 327976,
@@ -251,6 +251,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103259,
+      "num": 103259,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102458,
+      "num": 102458,
+      "word": "胡塞武装强势回应内塔尼亚胡威胁",
+      "onboard_time": 1735228159,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100087,
       "num": 100087,
       "word": "女子登记寻亲找到父母后失联",
@@ -283,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94844,
-      "num": 94844,
-      "word": "室内公共场所禁烟是全国性的",
-      "onboard_time": 1735208959,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93725,
       "num": 93725,
       "word": "鱿鱼游戏2全集上线",
@@ -299,12 +307,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92152,
-      "num": 92152,
-      "word": "胡塞武装强势回应内塔尼亚胡威胁",
-      "onboard_time": 1735228159,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 92275,
+      "num": 104386,
+      "word": "光遇",
+      "onboard_time": 1735223841,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 92011,
+      "num": 67553,
+      "word": "国防时报晒银杏叶",
+      "onboard_time": 1735232356,
+      "rank": 30,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 91811,
+      "num": 67525,
+      "word": "郑思维受伤",
+      "onboard_time": 1735232356,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 86415,
@@ -411,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51044,
+      "num": 105946,
+      "word": "费曼晒吴镇宇丑照",
+      "onboard_time": 1735231036,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49501,
       "num": 58300,
       "word": "狼队vs曼联",
       "onboard_time": 1735230916,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48392,
+      "num": 48392,
+      "word": "火星情报局",
+      "onboard_time": 1735231335,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 42252,
@@ -435,26 +475,26 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31841,
-      "num": 104386,
-      "word": "光遇",
-      "onboard_time": 1735223841,
+      "raw_hot": 13222,
+      "num": 199124,
+      "word": "管理方回应巨型圣诞树被烧只剩骨架",
+      "onboard_time": 1735233074,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9056,
+      "num": 90557,
+      "word": "比尔27分",
+      "onboard_time": 1735232895,
       "rank": 24,
-      "category": "游戏"
+      "category": "体育"
     },
     {
       "raw_hot": 6069,
       "num": 120644,
       "word": "吴磊给粉丝讲冷笑话",
       "onboard_time": 1735229837,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6018,
-      "num": 105946,
-      "word": "费曼晒吴镇宇丑照",
-      "onboard_time": 1735231036,
       "rank": 19,
       "category": "艺人"
     }
