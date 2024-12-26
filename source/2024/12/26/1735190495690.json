@@ -1,0 +1,410 @@
+{
+  "runTime": 1735190495690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489927,
+        "num": 1489927,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 943888,
+        "num": 943888,
+        "word": "霍建华官宣大男主剧",
+        "onboard_time": 1735185018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28445,
+        "num": 805400,
+        "word": "文化中国行非遗过大年",
+        "onboard_time": 1735185559,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 774503,
+        "num": 774503,
+        "word": "假离婚变真离婚女子获280万赔偿",
+        "onboard_time": 1735182797,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738367,
+        "num": 738367,
+        "word": "王楚钦回应奥运男单爆冷",
+        "onboard_time": 1735184358,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618690,
+        "num": 618690,
+        "word": "女网红拿无人区救命粮喂狗",
+        "onboard_time": 1735179256,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572677,
+        "num": 572677,
+        "word": "火箭少女101",
+        "onboard_time": 1735188860,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542915,
+        "num": 542915,
+        "word": "再见爱人",
+        "onboard_time": 1735187899,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478785,
+        "num": 478785,
+        "word": "失事航班机长最后举动挽救数十人生命",
+        "onboard_time": 1735182318,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140858,
+        "num": 464728,
+        "word": "父亲将亡母金镯熔给新伴侣儿子发声",
+        "onboard_time": 1735189700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1740308,
+        "num": 451270,
+        "word": "将亡妻金镯熔给新伴侣换首饰后续",
+        "onboard_time": 1735187238,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690699,
+        "num": 445862,
+        "word": "女子离婚不要房却要还房贷不能理解",
+        "onboard_time": 1735188258,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516365,
+        "num": 421991,
+        "word": "黄景瑜",
+        "onboard_time": 1735188258,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421733,
+        "num": 421733,
+        "word": "腾讯视频星光大赏阵容",
+        "onboard_time": 1735184298,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48704,
+        "num": 395241,
+        "word": "淘宝灵气之夜谁还没看",
+        "onboard_time": 1735189220,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382221,
+        "num": 382221,
+        "word": "李昀锐 妈妈我不要面子哒",
+        "onboard_time": 1735186759,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350518,
+        "num": 350518,
+        "word": "纪念毛泽东诞辰131年",
+        "onboard_time": 1735169955,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37811,
+        "num": 349964,
+        "word": "南都娱乐2024十大人物",
+        "onboard_time": 1735189099,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107152,
+        "num": 347475,
+        "word": "再见爱人 正话反说",
+        "onboard_time": 1735188860,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101721,
+        "num": 346040,
+        "word": "员工不满2月迟到15次被辞起诉",
+        "onboard_time": 1735189220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576752,
+        "num": 343138,
+        "word": "99年女子生娃前忍着宫缩紧急化妆",
+        "onboard_time": 1735185259,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342812,
+        "num": 342812,
+        "word": "从红海行动到蛟龙行动看强军新风貌",
+        "onboard_time": 1735179737,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332339,
+        "num": 332339,
+        "word": "太原一商场圣诞装饰遭顾客哄抢",
+        "onboard_time": 1735183637,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315322,
+        "num": 315322,
+        "word": "俄对乌发动大规模圣诞节袭击",
+        "onboard_time": 1735182078,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 315027,
+        "num": 315027,
+        "word": "韩国考虑对中国团体游客试行免签",
+        "onboard_time": 1735187659,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310727,
+        "num": 310727,
+        "word": "内马尔又要当爹了",
+        "onboard_time": 1735184838,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270834,
+        "num": 270834,
+        "word": "权志龙被男粉吓到的反应",
+        "onboard_time": 1735187839,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252665,
+        "num": 252665,
+        "word": "男子深夜扑倒女子抢袜子获刑6个月",
+        "onboard_time": 1735188200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95051,
+        "num": 241871,
+        "word": "宋亚轩诡异的抽象",
+        "onboard_time": 1735189039,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236319,
+        "num": 236319,
+        "word": "21岁失明女孩嫁58岁男子引热议",
+        "onboard_time": 1735170196,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32201,
+        "num": 233304,
+        "word": "谁用谁知道的原生鸿蒙真香现场",
+        "onboard_time": 1735189579,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231751,
+        "num": 231751,
+        "word": "残联回应58岁男子娶21岁失明女子",
+        "onboard_time": 1735188258,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230433,
+        "num": 230433,
+        "word": "迪丽热巴灵蛇献瑞",
+        "onboard_time": 1735186818,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227583,
+        "num": 227583,
+        "word": "原来被尊重的面试是这样的啊",
+        "onboard_time": 1735185498,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210830,
+        "num": 210830,
+        "word": "这是我见过混的最差的霸总",
+        "onboard_time": 1735188200,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5710,
+        "num": 210182,
+        "word": "在上海沉浸式感受剪纸文化",
+        "onboard_time": 1735187538,
+        "rank": 35,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 50504,
+        "num": 209941,
+        "word": "南浔迎来沪苏湖半小时通勤圈",
+        "onboard_time": 1735186400,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33885,
+        "num": 209903,
+        "word": "权志龙追加捐款一亿韩元",
+        "onboard_time": 1735190179,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209883,
+        "num": 209883,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46429,
+        "num": 195771,
+        "word": "吴磊生日创意视频",
+        "onboard_time": 1735188798,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188570,
+        "num": 188570,
+        "word": "问界M9上市一年大定破20万辆",
+        "onboard_time": 1735190059,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184810,
+        "num": 184810,
+        "word": "金佳蓝或将演员出道",
+        "onboard_time": 1735185678,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179638,
+        "num": 179638,
+        "word": "哈佛大学建议的最佳抗衰老运动",
+        "onboard_time": 1735185018,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166132,
+        "num": 166132,
+        "word": "美国内部对华芯片制裁存在分歧",
+        "onboard_time": 1735187118,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158581,
+        "num": 158581,
+        "word": "爸爸甚至没读乱回",
+        "onboard_time": 1735183277,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152792,
+        "num": 152792,
+        "word": "周扬青圣诞红裙",
+        "onboard_time": 1735177876,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147457,
+        "num": 147457,
+        "word": "2024KPL年度最佳候选名单",
+        "onboard_time": 1735190298,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 144498,
+        "word": "黄景瑜孙千逆光变装",
+        "onboard_time": 1735190118,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143428,
+        "num": 143428,
+        "word": "美航班飞机起落架轮舱内发现尸体",
+        "onboard_time": 1735181297,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142644,
+        "num": 142644,
+        "word": "一诺自由随风生日大片",
+        "onboard_time": 1735189818,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年总书记牵挂这些方面#"
+    }
+  }
+}
