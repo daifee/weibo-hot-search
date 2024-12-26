@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735183634286,
+  "endTime": 1735184489593,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -321,6 +321,14 @@
       "onboard_time": 1734931399,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1329698,
+      "num": 1329698,
+      "word": "失事航班机长最后举动挽救数十人生命",
+      "onboard_time": 1735182318,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1321754,
@@ -1331,14 +1339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 685178,
-      "num": 685178,
-      "word": "失事航班机长最后举动挽救数十人生命",
-      "onboard_time": 1735182318,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 684542,
       "num": 597885,
       "word": "孟子义 姐姐这腰真受不了",
@@ -1953,6 +1953,14 @@
       "onboard_time": 1735107498,
       "rank": 10,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 554262,
+      "num": 554262,
+      "word": "俄对乌发动大规模圣诞节袭击",
+      "onboard_time": 1735182078,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 554223,
@@ -2971,6 +2979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 393907,
+      "num": 383846,
+      "word": "假离婚变真离婚女子获280万赔偿",
+      "onboard_time": 1735182797,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
@@ -3169,14 +3185,6 @@
       "onboard_time": 1735170917,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 370820,
-      "num": 486473,
-      "word": "俄对乌发动大规模圣诞节袭击",
-      "onboard_time": 1735182078,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 370558,
@@ -3865,6 +3873,14 @@
       "onboard_time": 1734789260,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300091,
+      "num": 300091,
+      "word": "爸爸甚至没读乱回",
+      "onboard_time": 1735183277,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 299866,
@@ -4697,6 +4713,14 @@
       "onboard_time": 1734828256,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242129,
+      "num": 476080,
+      "word": "飞鸟撞机25年间造成了40次事故",
+      "onboard_time": 1735182677,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 241132,
@@ -5811,14 +5835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198883,
-      "num": 198883,
-      "word": "假离婚变真离婚女子获280万赔偿",
-      "onboard_time": 1735182797,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198772,
       "num": 169455,
       "word": "肖俊人呢",
@@ -6052,7 +6068,7 @@
     },
     {
       "raw_hot": 194889,
-      "num": 194889,
+      "num": 366076,
       "word": "千朵桃花一世开",
       "onboard_time": 1735182918,
       "rank": 32,
@@ -6321,6 +6337,14 @@
       "onboard_time": 1735025479,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189421,
+      "num": 189421,
+      "word": "成毅赴约星光大赏",
+      "onboard_time": 1735183637,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 189361,
@@ -6601,14 +6625,6 @@
       "onboard_time": 1735020199,
       "rank": 31,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 184568,
-      "num": 184568,
-      "word": "爸爸甚至没读乱回",
-      "onboard_time": 1735183277,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 184401,
@@ -7579,6 +7595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162113,
+      "num": 162113,
+      "word": "太原一商场圣诞装饰遭顾客哄抢",
+      "onboard_time": 1735183637,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161727,
       "num": 161727,
       "word": "2024闪闪发光的中国健儿",
@@ -8051,6 +8075,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 153883,
+      "num": 495107,
+      "word": "徐冬冬 内娱活人",
+      "onboard_time": 1735182496,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153635,
       "num": 153635,
       "word": "男子查贷款额度竟被强制下款",
@@ -8411,6 +8443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147317,
+      "num": 194444,
+      "word": "于适韩骁",
+      "onboard_time": 1735183937,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147222,
       "num": 147222,
       "word": "光与夜之恋",
@@ -8691,6 +8731,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142310,
+      "num": 142310,
+      "word": "腾讯视频星光大赏阵容",
+      "onboard_time": 1735184298,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142227,
       "num": 142227,
       "word": "meiko状态",
@@ -8963,12 +9011,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137637,
-      "num": 495107,
-      "word": "徐冬冬 内娱活人",
-      "onboard_time": 1735182496,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 137771,
+      "num": 137771,
+      "word": "王楚钦回应奥运男单爆冷",
+      "onboard_time": 1735184358,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 137575,
@@ -9275,14 +9323,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 132060,
-      "num": 476080,
-      "word": "飞鸟撞机25年间造成了40次事故",
-      "onboard_time": 1735182677,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 131976,
       "num": 131976,
       "word": "圣诞美甲",
@@ -9449,6 +9489,14 @@
       "onboard_time": 1735053078,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129303,
+      "num": 129303,
+      "word": "夫妻俩高速上为星星吵架出车祸爆胎",
+      "onboard_time": 1735182436,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129250,
@@ -9947,14 +9995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120175,
-      "num": 120175,
-      "word": "夫妻俩高速上为星星吵架出车祸爆胎",
-      "onboard_time": 1735182436,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120153,
       "num": 120153,
       "word": "巴菲特在美股市场大扫货",
@@ -10209,6 +10249,22 @@
       "onboard_time": 1734984072,
       "rank": 12,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 116987,
+      "num": 116987,
+      "word": "郑钦文父亲武汉创办网球学校",
+      "onboard_time": 1735184057,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116710,
+      "num": 290485,
+      "word": "周深感叹配音时随时会零帧起疯",
+      "onboard_time": 1735181056,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 116648,
@@ -10841,6 +10897,14 @@
       "onboard_time": 1735009877,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105679,
+      "num": 201009,
+      "word": "向佐说千万不要搞抽象",
+      "onboard_time": 1735182857,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 105534,
@@ -11489,6 +11553,14 @@
       "onboard_time": 1735100539,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89870,
+      "num": 491342,
+      "word": "詹姆斯圣诞大战得分历史第一",
+      "onboard_time": 1735183578,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 89441,
@@ -12755,14 +12827,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 60352,
-      "num": 491342,
-      "word": "詹姆斯圣诞大战得分历史第一",
-      "onboard_time": 1735183578,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60113,
       "num": 322827,
       "word": "冰雪大世界未出现买不到票情况",
@@ -13915,14 +13979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40994,
-      "num": 290485,
-      "word": "周深感叹配音时随时会零帧起疯",
-      "onboard_time": 1735181056,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40962,
       "num": 40962,
       "word": "官方通报上海地铁11号线最新情况",
@@ -14041,6 +14097,14 @@
       "onboard_time": 1735035259,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38979,
+      "num": 381848,
+      "word": "哈萨克斯坦客机坠毁前后舱内完整视频",
+      "onboard_time": 1735184177,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38936,
@@ -14249,14 +14313,6 @@
       "onboard_time": 1734881420,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 36556,
-      "num": 201009,
-      "word": "向佐说千万不要搞抽象",
-      "onboard_time": 1735182857,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 36420,
@@ -15363,6 +15419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21108,
+      "num": 485423,
+      "word": "流感季如何开启超凡模式",
+      "onboard_time": 1735182017,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21089,
       "num": 26070,
       "word": "电影最后的告别今日上映",
@@ -15761,14 +15825,6 @@
       "onboard_time": 1734995715,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13763,
-      "num": 485423,
-      "word": "流感季如何开启超凡模式",
-      "onboard_time": 1735182017,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13488,
