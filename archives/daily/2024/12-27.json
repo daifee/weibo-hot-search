@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735241746575,
+  "endTime": 1735244606989,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -515,12 +515,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30338,
+      "num": 30338,
+      "word": "莫桑比克骚乱致33人死亡千名囚犯越狱",
+      "onboard_time": 1735242071,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26213,
       "num": 26213,
       "word": "鱿鱼游戏3明年开播",
       "onboard_time": 1735237032,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25165,
+      "num": 27667,
+      "word": "莫桑比克1500多名囚犯袭警夺枪越狱",
+      "onboard_time": 1735243150,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25076,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22574,
+      "num": 22574,
+      "word": "莫桑比克",
+      "onboard_time": 1735241231,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22480,
       "num": 24069,
       "word": "straykids圣诞祝福",
@@ -595,12 +619,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 14508,
-      "num": 16915,
-      "word": "莫桑比克",
-      "onboard_time": 1735241231,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 12261,
+      "num": 21056,
+      "word": "网传近百只猫在水塘中被溺死",
+      "onboard_time": 1735244531,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10769,
