@@ -1,10 +1,10 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735181526874,
+  "endTime": 1735182100319,
   "band_list": [
     {
-      "raw_hot": 1568610,
-      "num": 1568610,
+      "raw_hot": 1674097,
+      "num": 1674097,
       "word": "女网红拿无人区救命粮喂狗",
       "onboard_time": 1735179256,
       "rank": 0,
@@ -107,8 +107,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564077,
+      "num": 564077,
+      "word": "年度报告",
+      "onboard_time": 1735179016,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 548173,
-      "num": 444366,
+      "num": 445162,
       "word": "周扬青圣诞红裙",
       "onboard_time": 1735177876,
       "rank": 35,
@@ -243,20 +251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 316933,
-      "num": 316933,
-      "word": "年度报告",
-      "onboard_time": 1735179016,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 315366,
       "num": 293739,
       "word": "王子奇新助理开车溜私生",
       "onboard_time": 1735141277,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314969,
+      "num": 314969,
+      "word": "王安宇 会爱人的眼睛",
+      "onboard_time": 1735177577,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 313763,
@@ -307,20 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275346,
-      "num": 275346,
-      "word": "王安宇 会爱人的眼睛",
-      "onboard_time": 1735177577,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267428,
       "num": 267428,
       "word": "张柏芝说APT谐音是啊柏芝",
       "onboard_time": 1735139359,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267212,
+      "num": 445570,
+      "word": "四川盆地有40万亿立方米天然气",
+      "onboard_time": 1735179737,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265385,
@@ -360,14 +368,6 @@
       "word": "女子公共场合遭丈夫泼砂锅",
       "onboard_time": 1735134439,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231801,
-      "num": 445147,
-      "word": "四川盆地有40万亿立方米天然气",
-      "onboard_time": 1735179737,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202352,
+      "num": 202352,
+      "word": "美航班飞机起落架轮舱内发现尸体",
+      "onboard_time": 1735181297,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202160,
       "num": 202160,
       "word": "向佐 为什么女生穿男装可以",
@@ -425,6 +433,14 @@
       "onboard_time": 1735130779,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196689,
+      "num": 196689,
+      "word": "网友称和李现同一个徒步群",
+      "onboard_time": 1735173858,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192489,
@@ -443,20 +459,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185199,
-      "num": 193871,
-      "word": "网友称和李现同一个徒步群",
-      "onboard_time": 1735173858,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "我国青少年抑郁症患病率达15%是谣言",
       "onboard_time": 1735139419,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 179418,
+      "num": 179418,
+      "word": "幸存者称飞机爆炸后都是碎片",
+      "onboard_time": 1735179677,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 176480,
@@ -507,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165093,
+      "num": 325391,
+      "word": "最美的夜跨年晚会全阵容官宣",
+      "onboard_time": 1735181297,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163473,
       "num": 163473,
       "word": "蛇年纪念钞溢价到1000元一套",
@@ -539,20 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145075,
-      "num": 145075,
-      "word": "幸存者称飞机爆炸后都是碎片",
-      "onboard_time": 1735179677,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 144102,
-      "num": 144102,
-      "word": "美航班飞机起落架轮舱内发现尸体",
-      "onboard_time": 1735181297,
+      "raw_hot": 140495,
+      "num": 140495,
+      "word": "2025射手座咸鱼翻身",
+      "onboard_time": 1735180337,
       "rank": 40,
-      "category": "海外新闻"
+      "category": "情感"
     },
     {
       "raw_hot": 137195,
@@ -579,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133336,
+      "num": 371950,
+      "word": "律师解读学生自杀与学校无关承诺书",
+      "onboard_time": 1735180576,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "山河枕",
       "onboard_time": 1735133480,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130758,
+      "num": 130758,
+      "word": "詹姆斯库里太懂球迷了",
+      "onboard_time": 1735180638,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 126787,
@@ -617,6 +649,14 @@
       "onboard_time": 1735174098,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116482,
+      "num": 256445,
+      "word": "38.5度以上才能吃退烧药吗",
+      "onboard_time": 1735180337,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114803,
@@ -659,12 +699,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106638,
-      "num": 292368,
-      "word": "最美的夜跨年晚会全阵容官宣",
-      "onboard_time": 1735181297,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 109459,
+      "num": 109459,
+      "word": "俄对乌发动大规模圣诞节袭击",
+      "onboard_time": 1735182078,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106484,
@@ -803,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69218,
+      "num": 197591,
+      "word": "韩国65岁及以上人口超20%",
+      "onboard_time": 1735182017,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 63360,
       "num": 63360,
       "word": "白头鹰被正式指定为美国国鸟",
@@ -833,22 +881,6 @@
       "onboard_time": 1735111519,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 60334,
-      "num": 323677,
-      "word": "律师解读学生自杀与学校无关承诺书",
-      "onboard_time": 1735180576,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54218,
-      "num": 256445,
-      "word": "38.5度以上才能吃退烧药吗",
-      "onboard_time": 1735180337,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 49656,
@@ -905,6 +937,14 @@
       "onboard_time": 1735156030,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40994,
+      "num": 290485,
+      "word": "周深感叹配音时随时会零帧起疯",
+      "onboard_time": 1735181056,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40595,
@@ -987,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29796,
+      "num": 448579,
+      "word": "库明加学詹姆斯抖肩",
+      "onboard_time": 1735181476,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29782,
       "num": 29782,
       "word": "哈萨克斯坦坠毁客机挂出7700紧急代码",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1735151053,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26750,
-      "num": 352736,
-      "word": "库明加学詹姆斯抖肩",
-      "onboard_time": 1735181476,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 25517,
@@ -1059,14 +1099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13316,
-      "num": 290485,
-      "word": "周深感叹配音时随时会零帧起疯",
-      "onboard_time": 1735181056,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12557,
       "num": 12557,
       "word": "大雪人算是让尔滨玩明白了",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1735138819,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6407,
+      "num": 370662,
+      "word": "流感季如何开启超凡模式",
+      "onboard_time": 1735182017,
+      "rank": 14,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
