@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735227431191,
+  "endTime": 1735230436153,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -65,6 +65,14 @@
       "onboard_time": 1734843198,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2474179,
+      "num": 450945,
+      "word": "王俊凯",
+      "onboard_time": 1735229118,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2322455,
@@ -1363,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 749252,
+      "num": 351600,
+      "word": "葛夕说离婚也给留几手养老",
+      "onboard_time": 1735226179,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 745448,
       "num": 610377,
       "word": "九重紫第30集封神",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1735137320,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 633114,
+      "num": 633114,
+      "word": "有部分俄罗斯商品馆开始撤店",
+      "onboard_time": 1735226298,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 629945,
@@ -3915,14 +3939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354674,
-      "num": 182469,
-      "word": "葛夕说离婚也给留几手养老",
-      "onboard_time": 1735226179,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354595,
       "num": 354595,
       "word": "男子网贷1000元3天内需还2000元",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1735022179,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327976,
+      "num": 198072,
+      "word": "鱿鱼游戏3",
+      "onboard_time": 1735227198,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 327218,
@@ -9779,6 +9803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149463,
+      "num": 296830,
+      "word": "中方坚决反对美在菲律宾部署中导",
+      "onboard_time": 1735226779,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -10409,14 +10441,6 @@
       "onboard_time": 1734851358,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139963,
-      "num": 139963,
-      "word": "鱿鱼游戏3",
-      "onboard_time": 1735227198,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 139872,
@@ -11339,14 +11363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126709,
-      "num": 126709,
-      "word": "中方坚决反对美在菲律宾部署中导",
-      "onboard_time": 1735226779,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126653,
       "num": 126653,
       "word": "虞书欣感谢何洁",
@@ -11809,14 +11825,6 @@
       "onboard_time": 1735029078,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119424,
-      "num": 119424,
-      "word": "有部分俄罗斯商品馆开始撤店",
-      "onboard_time": 1735226298,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119417,
@@ -12361,6 +12369,14 @@
       "onboard_time": 1735205479,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111917,
+      "num": 262529,
+      "word": "00后盗用公司150万元打赏男主播",
+      "onboard_time": 1735226957,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111883,
@@ -13035,6 +13051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100087,
+      "num": 275030,
+      "word": "女子登记寻亲找到父母后失联",
+      "onboard_time": 1735226897,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100010,
       "num": 286941,
       "word": "1分钟视频回顾哈萨克斯坦坠机",
@@ -13348,7 +13372,7 @@
     },
     {
       "raw_hot": 94536,
-      "num": 94536,
+      "num": 111347,
       "word": "孙颖莎提前祝大家元旦快乐",
       "onboard_time": 1735224619,
       "rank": 48,
@@ -13425,6 +13449,14 @@
       "onboard_time": 1734876260,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92152,
+      "num": 92152,
+      "word": "胡塞武装强势回应内塔尼亚胡威胁",
+      "onboard_time": 1735228159,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92127,
@@ -13755,6 +13787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85645,
+      "num": 76665,
+      "word": "连续五年综合热度Top10明星",
+      "onboard_time": 1735228638,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85295,
       "num": 286057,
       "word": "孙颖莎全年共获得14个冠军",
@@ -13785,6 +13825,14 @@
       "onboard_time": 1735222520,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84699,
+      "num": 76591,
+      "word": "鱿鱼游戏2结局",
+      "onboard_time": 1735229957,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 83782,
@@ -14387,6 +14435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 71478,
+      "num": 71478,
+      "word": "猎罪3热度",
+      "onboard_time": 1735229419,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71385,
       "num": 347552,
       "word": "雅姆雪山又现滑坠事故一男子遇难",
@@ -14457,14 +14513,6 @@
       "onboard_time": 1734794959,
       "rank": 45,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 69863,
-      "num": 275030,
-      "word": "女子登记寻亲找到父母后失联",
-      "onboard_time": 1735226897,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69410,
@@ -15139,6 +15187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57401,
+      "num": 69312,
+      "word": "这一年别忘了谢谢自己",
+      "onboard_time": 1735230258,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57272,
       "num": 189966,
       "word": "冬至直播",
@@ -15280,6 +15336,14 @@
       "word": "雅思组合出战羽超联赛",
       "onboard_time": 1735216399,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55218,
+      "num": 68820,
+      "word": "WTT新加坡大满贯首批参赛名单",
+      "onboard_time": 1735227499,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -15951,14 +16015,6 @@
       "num": 259376,
       "word": "物业经理阻止幼儿园开学8年后被诉",
       "onboard_time": 1735043958,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45923,
-      "num": 262529,
-      "word": "00后盗用公司150万元打赏男主播",
-      "onboard_time": 1735226957,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -18937,6 +18993,14 @@
       "onboard_time": 1735191499,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6069,
+      "num": 120644,
+      "word": "吴磊给粉丝讲冷笑话",
+      "onboard_time": 1735229837,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [

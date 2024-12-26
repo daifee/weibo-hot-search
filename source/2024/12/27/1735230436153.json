@@ -1,0 +1,410 @@
+{
+  "runTime": 1735230436153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 937928,
+        "num": 945137,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633114,
+        "num": 633114,
+        "word": "有部分俄罗斯商品馆开始撤店",
+        "onboard_time": 1735226298,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37579,
+        "num": 490676,
+        "word": "中国一年194个世界冠军",
+        "onboard_time": 1735225040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2474179,
+        "num": 450945,
+        "word": "王俊凯",
+        "onboard_time": 1735229118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375472,
+        "num": 375472,
+        "word": "女大学生借钱追星被大粉骗走2万多",
+        "onboard_time": 1735223480,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354712,
+        "num": 354712,
+        "word": "复旦教授呼吁年轻人不要抱怨",
+        "onboard_time": 1735222100,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749252,
+        "num": 351600,
+        "word": "葛夕说离婚也给留几手养老",
+        "onboard_time": 1735226179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460914,
+        "num": 329593,
+        "word": "李嘉琦 要不你单身呢",
+        "onboard_time": 1735223480,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300595,
+        "num": 300595,
+        "word": "男子贷款15万后去世银行要求罚息",
+        "onboard_time": 1735215800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149463,
+        "num": 296830,
+        "word": "中方坚决反对美在菲律宾部署中导",
+        "onboard_time": 1735226779,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444765,
+        "num": 260798,
+        "word": "徐娇仍在店里处理",
+        "onboard_time": 1735214179,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406694,
+        "num": 246856,
+        "word": "赵丽颖谈女性可以多么有光芒",
+        "onboard_time": 1735221019,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384811,
+        "num": 229455,
+        "word": "猎罪图鉴1编剧",
+        "onboard_time": 1735225879,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329717,
+        "num": 200405,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199411,
+        "num": 199411,
+        "word": "上海挤满了周五下班的韩国人",
+        "onboard_time": 1735212738,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 327976,
+        "num": 198072,
+        "word": "鱿鱼游戏3",
+        "onboard_time": 1735227198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146968,
+        "num": 146968,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 145022,
+        "num": 145022,
+        "word": "中国军队将与大家一起笃定前行",
+        "onboard_time": 1735223360,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 143214,
+        "num": 143214,
+        "word": "谷子门店爆发式增长",
+        "onboard_time": 1735223660,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6069,
+        "num": 120644,
+        "word": "吴磊给粉丝讲冷笑话",
+        "onboard_time": 1735229837,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326807,
+        "num": 120496,
+        "word": "伊能静一家英国过圣诞",
+        "onboard_time": 1735223660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234147,
+        "num": 120282,
+        "word": "狗仔回应白敬亭宋轶感情近况",
+        "onboard_time": 1735218920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120000,
+        "num": 120000,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111917,
+        "num": 111917,
+        "word": "00后盗用公司150万元打赏男主播",
+        "onboard_time": 1735226957,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42252,
+        "num": 111347,
+        "word": "孙颖莎提前祝大家元旦快乐",
+        "onboard_time": 1735224619,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220906,
+        "num": 107954,
+        "word": "57岁王祖贤自拍照",
+        "onboard_time": 1735218920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156947,
+        "num": 105741,
+        "word": "大年初一电影放大招",
+        "onboard_time": 1735222880,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133061,
+        "num": 103615,
+        "word": "丁禹兮银发挑染造型路透",
+        "onboard_time": 1735225579,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119719,
+        "num": 101261,
+        "word": "何猷君晒与儿子滑雪合照",
+        "onboard_time": 1735220119,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100087,
+        "num": 100087,
+        "word": "女子登记寻亲找到父母后失联",
+        "onboard_time": 1735226897,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116027,
+        "num": 99627,
+        "word": "吴磊银发",
+        "onboard_time": 1735214117,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105597,
+        "num": 99569,
+        "word": "鱿鱼游戏 吊在俊",
+        "onboard_time": 1735210819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98449,
+        "num": 98449,
+        "word": "孟子义白鹿说李昀锐开车稳",
+        "onboard_time": 1735225339,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98242,
+        "num": 98242,
+        "word": "宋雨琦cha了spicyhoney",
+        "onboard_time": 1735226060,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96836,
+        "num": 96836,
+        "word": "获利180元被罚10万卖羊肉老太发声",
+        "onboard_time": 1735210039,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93725,
+        "num": 93725,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92152,
+        "num": 92152,
+        "word": "胡塞武装强势回应内塔尼亚胡威胁",
+        "onboard_time": 1735228159,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86415,
+        "num": 86415,
+        "word": "10岁女孩写作业手疼确诊白血病",
+        "onboard_time": 1735216039,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79787,
+        "num": 79787,
+        "word": "在外滩听到韩语概率超上海话",
+        "onboard_time": 1735221140,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 77102,
+        "num": 77102,
+        "word": "室内公共场所禁烟是全国性的",
+        "onboard_time": 1735208959,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85645,
+        "num": 76665,
+        "word": "连续五年综合热度Top10明星",
+        "onboard_time": 1735228638,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84699,
+        "num": 76591,
+        "word": "鱿鱼游戏2结局",
+        "onboard_time": 1735229957,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84250,
+        "num": 76540,
+        "word": "TOP地狱笑话",
+        "onboard_time": 1735214117,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76041,
+        "num": 76041,
+        "word": "男子抢手机扔烟头或涉嫌寻衅滋事",
+        "onboard_time": 1735225519,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75177,
+        "num": 75177,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74258,
+        "num": 74258,
+        "word": "谢霆锋带家人日本度假",
+        "onboard_time": 1735220599,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71478,
+        "num": 71478,
+        "word": "猎罪3热度",
+        "onboard_time": 1735229419,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57401,
+        "num": 69312,
+        "word": "这一年别忘了谢谢自己",
+        "onboard_time": 1735230258,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56058,
+        "num": 68906,
+        "word": "韩国游客来上海特种兵旅行",
+        "onboard_time": 1735223841,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55218,
+        "num": 68820,
+        "word": "WTT新加坡大满贯首批参赛名单",
+        "onboard_time": 1735227499,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}
