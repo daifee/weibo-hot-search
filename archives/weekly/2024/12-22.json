@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735208584565,
+  "endTime": 1735209632158,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -9,6 +9,14 @@
       "onboard_time": 1734836656,
       "rank": 37,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 3698769,
+      "num": 3698769,
+      "word": "12345回应徐娇劝阻男子餐厅抽烟",
+      "onboard_time": 1735208179,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3213780,
@@ -97,14 +105,6 @@
       "onboard_time": 1734844698,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2046908,
-      "num": 2046908,
-      "word": "12345回应徐娇劝阻男子餐厅抽烟",
-      "onboard_time": 1735208179,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1949017,
@@ -699,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1059052,
+      "num": 1059052,
+      "word": "四川地震",
+      "onboard_time": 1735206197,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1046255,
       "num": 1046255,
       "word": "疑似可可西里网红狼被大货车压死",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1734934398,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 868792,
-      "num": 868792,
-      "word": "四川地震",
-      "onboard_time": 1735206197,
-      "rank": 1,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 868523,
@@ -2475,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483323,
+      "num": 476882,
+      "word": "王耀庆孙阳吻戏",
+      "onboard_time": 1735206680,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482747,
       "num": 482747,
       "word": "Angelababy与中华白海豚vlog",
@@ -2521,14 +2529,6 @@
       "onboard_time": 1735186759,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 476882,
-      "num": 476882,
-      "word": "王耀庆孙阳吻戏",
-      "onboard_time": 1735206680,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 475719,
@@ -3787,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342288,
+      "num": 342288,
+      "word": "TOP演技",
+      "onboard_time": 1735208599,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341489,
       "num": 341489,
       "word": "林一 左边到底有谁在啊",
@@ -4811,6 +4819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263031,
+      "num": 509513,
+      "word": "国家统计局修订2023年GDP初步核算数",
+      "onboard_time": 1735207819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262873,
       "num": 262873,
       "word": "客机坠毁哈萨克斯坦现场腾起火球",
@@ -5153,6 +5169,14 @@
       "onboard_time": 1735203618,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244932,
+      "num": 338629,
+      "word": "马伊琍获评国家一级演员",
+      "onboard_time": 1735206197,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244802,
@@ -5683,6 +5707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220637,
+      "num": 399886,
+      "word": "李川得知少爷和我火了遛了4小时狗",
+      "onboard_time": 1735205179,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220618,
       "num": 219876,
       "word": "舒淇为肖战新片打call",
@@ -5721,14 +5753,6 @@
       "onboard_time": 1735092677,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 218706,
-      "num": 218706,
-      "word": "马伊琍获评国家一级演员",
-      "onboard_time": 1735206197,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 218672,
@@ -6281,6 +6305,14 @@
       "onboard_time": 1735186098,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204992,
+      "num": 204992,
+      "word": "网传国色芳华明日定档",
+      "onboard_time": 1735208419,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 204674,
@@ -7971,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169919,
+      "num": 169919,
+      "word": "南方小土豆在尔滨没吃饱被抓回重吃",
+      "onboard_time": 1735208240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169880,
       "num": 169880,
       "word": "起底吴柳芳背后MCN大海星辰",
@@ -7992,6 +8032,14 @@
       "word": "看得出是林更新本人了",
       "onboard_time": 1734876740,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169532,
+      "num": 169532,
+      "word": "宝石老舅工作人员晒行程单辟谣",
+      "onboard_time": 1735209078,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -9491,6 +9539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144901,
+      "num": 144901,
+      "word": "白鹿白色缎面高定裙",
+      "onboard_time": 1735209140,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 144879,
       "num": 144879,
       "word": "王鹤棣热度破30000脱衣服",
@@ -9579,14 +9635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 143386,
-      "num": 399886,
-      "word": "李川得知少爷和我火了遛了4小时狗",
-      "onboard_time": 1735205179,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143230,
       "num": 143230,
       "word": "男子打羽毛球猝死球馆判赔20万元",
@@ -9617,6 +9665,14 @@
       "onboard_time": 1735000698,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143056,
+      "num": 221508,
+      "word": "KDF明年改名DNF",
+      "onboard_time": 1735209078,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 142774,
@@ -10019,14 +10075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136658,
-      "num": 509513,
-      "word": "国家统计局修订2023年GDP初步核算数",
-      "onboard_time": 1735207819,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136641,
       "num": 136641,
       "word": "虞书欣SpicyHoney舞蹈版MV",
@@ -10115,20 +10163,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135056,
-      "num": 135056,
-      "word": "网传国色芳华明日定档",
-      "onboard_time": 1735208419,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134972,
       "num": 134972,
       "word": "马航一航班挂7700代码后返航",
       "onboard_time": 1734937999,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 134942,
+      "num": 319429,
+      "word": "孙颖莎来深圳啦",
+      "onboard_time": 1735209259,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 134723,
@@ -10161,6 +10209,14 @@
       "onboard_time": 1735003878,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134322,
+      "num": 169533,
+      "word": "孔刘第一集下线",
+      "onboard_time": 1735209378,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 134085,
@@ -10651,6 +10707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127651,
+      "num": 127651,
+      "word": "长寿村的生活状态太超前了",
+      "onboard_time": 1735209498,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 127618,
       "num": 127618,
       "word": "民警高速上救人跑出残影",
@@ -10681,6 +10745,14 @@
       "onboard_time": 1735175418,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126730,
+      "num": 126730,
+      "word": "时代少年团有种行vlog",
+      "onboard_time": 1735209498,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 126653,
@@ -11385,14 +11457,6 @@
       "onboard_time": 1734847157,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115942,
-      "num": 115942,
-      "word": "南方小土豆在尔滨没吃饱被抓回重吃",
-      "onboard_time": 1735208240,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115717,
@@ -12473,6 +12537,14 @@
       "onboard_time": 1735143496,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 96012,
+      "num": 341456,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95652,
@@ -14155,6 +14227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59198,
+      "num": 226525,
+      "word": "2023年GDP修订后为129.4万亿元",
+      "onboard_time": 1735209199,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 59126,
       "num": 266553,
       "word": "肖央段奕宏请和好",
@@ -14659,6 +14739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50901,
+      "num": 339998,
+      "word": "刘芸近期状态",
+      "onboard_time": 1735209199,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50875,
       "num": 303094,
       "word": "高空坠落杂技演员张凯流泪怀念亡妻",
@@ -14857,6 +14945,14 @@
       "onboard_time": 1734844578,
       "rank": 38,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 47717,
+      "num": 472377,
+      "word": "山西紫藤巷杀人案真相追踪",
+      "onboard_time": 1735208119,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47616,
@@ -15515,6 +15611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39003,
+      "num": 471615,
+      "word": "WBG对战AL先下一城",
+      "onboard_time": 1735208539,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 38936,
       "num": 38936,
       "word": "皇马vs塞维利亚",
@@ -15617,6 +15721,14 @@
       "onboard_time": 1734969378,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37537,
+      "num": 222600,
+      "word": "新世纪福音战士汉堡",
+      "onboard_time": 1735208838,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 37355,
@@ -15772,7 +15884,7 @@
     },
     {
       "raw_hot": 36135,
-      "num": 167160,
+      "num": 336759,
       "word": "上班路上偶遇打工人最强嘴替",
       "onboard_time": 1735207579,
       "rank": 33,
@@ -15977,6 +16089,14 @@
       "onboard_time": 1735103838,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 33822,
+      "num": 197268,
+      "word": "超三千名文艺院团演员试水做主播",
+      "onboard_time": 1735209498,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 33688,
@@ -16601,14 +16721,6 @@
       "onboard_time": 1734941599,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26527,
-      "num": 472377,
-      "word": "山西紫藤巷杀人案真相追踪",
-      "onboard_time": 1735208119,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26375,
@@ -17475,14 +17587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13104,
-      "num": 471615,
-      "word": "WBG对战AL先下一城",
-      "onboard_time": 1735208539,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 12557,
       "num": 12557,
       "word": "大雪人算是让尔滨玩明白了",
@@ -17777,6 +17881,14 @@
       "onboard_time": 1734897492,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7545,
+      "num": 337153,
+      "word": "武大靖你划我猜崩溃了",
+      "onboard_time": 1735209199,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 7300,
