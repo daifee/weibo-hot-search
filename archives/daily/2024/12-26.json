@@ -1,17 +1,17 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735182100319,
+  "endTime": 1735183634286,
   "band_list": [
     {
-      "raw_hot": 1674097,
-      "num": 1674097,
+      "raw_hot": 1684312,
+      "num": 1684312,
       "word": "女网红拿无人区救命粮喂狗",
       "onboard_time": 1735179256,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1321159,
+      "raw_hot": 1321754,
       "num": 1321159,
       "word": "优时颜 王楚钦",
       "onboard_time": 1735179256,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 685178,
+      "num": 685178,
+      "word": "失事航班机长最后举动挽救数十人生命",
+      "onboard_time": 1735182318,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 644159,
       "num": 898134,
       "word": "女子喝陌生人的水昏迷被拐",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 548173,
-      "num": 445162,
+      "num": 463037,
       "word": "周扬青圣诞红裙",
       "onboard_time": 1735177876,
       "rank": 35,
@@ -131,8 +139,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 498415,
-      "num": 498415,
+      "raw_hot": 499373,
+      "num": 499373,
       "word": "纪念毛泽东诞辰131年",
       "onboard_time": 1735169955,
       "rank": 6,
@@ -148,18 +156,34 @@
     },
     {
       "raw_hot": 466338,
-      "num": 466338,
+      "num": 522384,
       "word": "从红海行动到蛟龙行动看强军新风貌",
       "onboard_time": 1735179737,
       "rank": 7,
       "category": "电影"
     },
     {
+      "raw_hot": 444237,
+      "num": 444237,
+      "word": "美航班飞机起落架轮舱内发现尸体",
+      "onboard_time": 1735181297,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 436960,
-      "num": 436960,
+      "num": 514842,
       "word": "鱿鱼游戏",
       "onboard_time": 1735173978,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 425744,
+      "num": 505862,
+      "word": "王安宇 会爱人的眼睛",
+      "onboard_time": 1735177577,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -195,6 +219,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 370820,
+      "num": 486473,
+      "word": "俄对乌发动大规模圣诞节袭击",
+      "onboard_time": 1735182078,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 367696,
+      "num": 126977,
+      "word": "家暴男与家人转移超400万婚后财产",
+      "onboard_time": 1735182197,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 366366,
       "num": 366366,
       "word": "权志龙红色高跟鞋",
@@ -209,6 +249,14 @@
       "onboard_time": 1735172298,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 363562,
+      "num": 445570,
+      "word": "四川盆地有40万亿立方米天然气",
+      "onboard_time": 1735179737,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359669,
@@ -257,14 +305,6 @@
       "onboard_time": 1735141277,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314969,
-      "num": 314969,
-      "word": "王安宇 会爱人的眼睛",
-      "onboard_time": 1735177577,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 313763,
@@ -323,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267212,
-      "num": 445570,
-      "word": "四川盆地有40万亿立方米天然气",
-      "onboard_time": 1735179737,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 266949,
+      "num": 496511,
+      "word": "网友称和李现同一个徒步群",
+      "onboard_time": 1735173858,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 265385,
@@ -371,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234437,
+      "num": 234437,
+      "word": "归棹",
+      "onboard_time": 1735179918,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229107,
       "num": 229107,
       "word": "鱿鱼游戏2",
@@ -403,22 +451,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 204423,
-      "num": 204423,
-      "word": "归棹",
-      "onboard_time": 1735179918,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202352,
-      "num": 202352,
-      "word": "美航班飞机起落架轮舱内发现尸体",
-      "onboard_time": 1735181297,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 202160,
       "num": 202160,
       "word": "向佐 为什么女生穿男装可以",
@@ -435,12 +467,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 196689,
-      "num": 196689,
-      "word": "网友称和李现同一个徒步群",
-      "onboard_time": 1735173858,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 198883,
+      "num": 198883,
+      "word": "假离婚变真离婚女子获280万赔偿",
+      "onboard_time": 1735182797,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194889,
+      "num": 194889,
+      "word": "千朵桃花一世开",
+      "onboard_time": 1735182918,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 192489,
@@ -457,6 +497,14 @@
       "onboard_time": 1735171277,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184568,
+      "num": 184568,
+      "word": "爸爸甚至没读乱回",
+      "onboard_time": 1735183277,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 184284,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 165093,
-      "num": 325391,
+      "num": 470093,
       "word": "最美的夜跨年晚会全阵容官宣",
       "onboard_time": 1735181297,
       "rank": 17,
@@ -537,6 +585,14 @@
       "onboard_time": 1735134500,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162851,
+      "num": 162851,
+      "word": "2025射手座咸鱼翻身",
+      "onboard_time": 1735180337,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 152271,
@@ -563,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140495,
-      "num": 140495,
-      "word": "2025射手座咸鱼翻身",
-      "onboard_time": 1735180337,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 137637,
+      "num": 495107,
+      "word": "徐冬冬 内娱活人",
+      "onboard_time": 1735182496,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 137195,
@@ -611,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132060,
+      "num": 476080,
+      "word": "飞鸟撞机25年间造成了40次事故",
+      "onboard_time": 1735182677,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130758,
       "num": 130758,
       "word": "詹姆斯库里太懂球迷了",
@@ -633,6 +697,14 @@
       "onboard_time": 1735120338,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 120175,
+      "num": 120175,
+      "word": "夫妻俩高速上为星星吵架出车祸爆胎",
+      "onboard_time": 1735182436,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119763,
@@ -697,14 +769,6 @@
       "onboard_time": 1735139479,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109459,
-      "num": 109459,
-      "word": "俄对乌发动大规模圣诞节袭击",
-      "onboard_time": 1735182078,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106484,
@@ -827,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80434,
+      "num": 199532,
+      "word": "韩国65岁及以上人口超20%",
+      "onboard_time": 1735182017,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79702,
       "num": 79702,
       "word": "双子座真的很执着",
@@ -841,14 +913,6 @@
       "onboard_time": 1735164611,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69218,
-      "num": 197591,
-      "word": "韩国65岁及以上人口超20%",
-      "onboard_time": 1735182017,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 63360,
@@ -875,12 +939,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 62610,
+      "num": 477236,
+      "word": "国防部回应句句掷地有声",
+      "onboard_time": 1735182616,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61043,
       "num": 61043,
       "word": "一架客机在哈萨克斯坦坠毁",
       "onboard_time": 1735111519,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 60352,
+      "num": 491342,
+      "word": "詹姆斯圣诞大战得分历史第一",
+      "onboard_time": 1735183578,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 49656,
@@ -987,6 +1067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 36556,
+      "num": 201009,
+      "word": "向佐说千万不要搞抽象",
+      "onboard_time": 1735182857,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35921,
       "num": 37605,
       "word": "我在",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1735146135,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31786,
+      "num": 480100,
+      "word": "李一桐向往的修仙生活",
+      "onboard_time": 1735182496,
+      "rank": 15,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 30983,
@@ -1059,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27876,
+      "num": 468431,
+      "word": "跨年大瓜的含金量持续上升",
+      "onboard_time": 1735182496,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 25517,
       "num": 25517,
       "word": "TF四代危险舞蹈版上线",
@@ -1099,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13763,
+      "num": 485423,
+      "word": "流感季如何开启超凡模式",
+      "onboard_time": 1735182017,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 12557,
       "num": 12557,
       "word": "大雪人算是让尔滨玩明白了",
@@ -1137,14 +1249,6 @@
       "onboard_time": 1735138819,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6407,
-      "num": 370662,
-      "word": "流感季如何开启超凡模式",
-      "onboard_time": 1735182017,
-      "rank": 14,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735183634286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684312,
+        "num": 1684312,
+        "word": "女网红拿无人区救命粮喂狗",
+        "onboard_time": 1735179256,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685178,
+        "num": 685178,
+        "word": "失事航班机长最后举动挽救数十人生命",
+        "onboard_time": 1735182318,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63134,
+        "num": 682819,
+        "word": "隔屏感受到了在建世界最高桥的震撼",
+        "onboard_time": 1735138400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681624,
+        "num": 681624,
+        "word": "21岁失明女孩嫁58岁男子引热议",
+        "onboard_time": 1735170196,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530731,
+        "num": 530731,
+        "word": "浙江卫视跨年全阵容官宣",
+        "onboard_time": 1735179377,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1321754,
+        "num": 530247,
+        "word": "优时颜 王楚钦",
+        "onboard_time": 1735179256,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361657,
+        "num": 522384,
+        "word": "从红海行动到蛟龙行动看强军新风貌",
+        "onboard_time": 1735179737,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319867,
+        "num": 514842,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425744,
+        "num": 505862,
+        "word": "王安宇 会爱人的眼睛",
+        "onboard_time": 1735177577,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499373,
+        "num": 499373,
+        "word": "纪念毛泽东诞辰131年",
+        "onboard_time": 1735169955,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 266949,
+        "num": 496511,
+        "word": "网友称和李现同一个徒步群",
+        "onboard_time": 1735173858,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137637,
+        "num": 495107,
+        "word": "徐冬冬 内娱活人",
+        "onboard_time": 1735182496,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60352,
+        "num": 491342,
+        "word": "詹姆斯圣诞大战得分历史第一",
+        "onboard_time": 1735183578,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370820,
+        "num": 486473,
+        "word": "俄对乌发动大规模圣诞节袭击",
+        "onboard_time": 1735182078,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13763,
+        "num": 485423,
+        "word": "流感季如何开启超凡模式",
+        "onboard_time": 1735182017,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31786,
+        "num": 480100,
+        "word": "李一桐向往的修仙生活",
+        "onboard_time": 1735182496,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 62610,
+        "num": 477236,
+        "word": "国防部回应句句掷地有声",
+        "onboard_time": 1735182616,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132060,
+        "num": 476080,
+        "word": "飞鸟撞机25年间造成了40次事故",
+        "onboard_time": 1735182677,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93144,
+        "num": 470093,
+        "word": "最美的夜跨年晚会全阵容官宣",
+        "onboard_time": 1735181297,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27876,
+        "num": 468431,
+        "word": "跨年大瓜的含金量持续上升",
+        "onboard_time": 1735182496,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522591,
+        "num": 463698,
+        "word": "年度报告",
+        "onboard_time": 1735179016,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 463037,
+        "num": 463037,
+        "word": "周扬青圣诞红裙",
+        "onboard_time": 1735177876,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 444237,
+        "num": 444237,
+        "word": "美航班飞机起落架轮舱内发现尸体",
+        "onboard_time": 1735181297,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 363562,
+        "num": 363562,
+        "word": "四川盆地有40万亿立方米天然气",
+        "onboard_time": 1735179737,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277144,
+        "num": 277144,
+        "word": "乒乓球为何过不了火车安检",
+        "onboard_time": 1735171879,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234437,
+        "num": 234437,
+        "word": "归棹",
+        "onboard_time": 1735179918,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225620,
+        "num": 225620,
+        "word": "猎罪图鉴2结局出现两个沈翊",
+        "onboard_time": 1735171637,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206508,
+        "num": 206508,
+        "word": "董明珠回应格力电器卖得贵",
+        "onboard_time": 1735179497,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36556,
+        "num": 201009,
+        "word": "向佐说千万不要搞抽象",
+        "onboard_time": 1735182857,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80434,
+        "num": 199532,
+        "word": "韩国65岁及以上人口超20%",
+        "onboard_time": 1735182017,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198883,
+        "num": 198883,
+        "word": "假离婚变真离婚女子获280万赔偿",
+        "onboard_time": 1735182797,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195468,
+        "num": 195468,
+        "word": "菲律宾15岁少女性侵后死亡13人涉案",
+        "onboard_time": 1735170917,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 194889,
+        "num": 194889,
+        "word": "千朵桃花一世开",
+        "onboard_time": 1735182918,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184568,
+        "num": 184568,
+        "word": "爸爸甚至没读乱回",
+        "onboard_time": 1735183277,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181240,
+        "num": 181240,
+        "word": "网络主播在境外遭胁迫回国当间谍",
+        "onboard_time": 1735171458,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167189,
+        "num": 167189,
+        "word": "手脚冰凉是身体哪里出了问题",
+        "onboard_time": 1735140138,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163671,
+        "num": 163671,
+        "word": "刘亦菲全榜第一",
+        "onboard_time": 1735136420,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163331,
+        "num": 163331,
+        "word": "蛟龙行动",
+        "onboard_time": 1735179437,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162851,
+        "num": 162851,
+        "word": "2025射手座咸鱼翻身",
+        "onboard_time": 1735180337,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155931,
+        "num": 155931,
+        "word": "哈萨克斯坦坠机事故幸存者发声",
+        "onboard_time": 1735178658,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150062,
+        "num": 150062,
+        "word": "张柏芝说APT谐音是啊柏芝",
+        "onboard_time": 1735139359,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144360,
+        "num": 144360,
+        "word": "2024年度演唱会热度TOP10",
+        "onboard_time": 1735172537,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137197,
+        "num": 137197,
+        "word": "彩色版开国大典影像",
+        "onboard_time": 1735169716,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135764,
+        "num": 135764,
+        "word": "幸存者称飞机爆炸后都是碎片",
+        "onboard_time": 1735179677,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 133512,
+        "word": "一农民卖羊肉赚180元收到10万罚单",
+        "onboard_time": 1735142718,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129545,
+        "num": 129545,
+        "word": "小伙都被警察堵住了还一口一个没有",
+        "onboard_time": 1735176497,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367696,
+        "num": 126977,
+        "word": "家暴男与家人转移超400万婚后财产",
+        "onboard_time": 1735182197,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123300,
+        "num": 123300,
+        "word": "律师解读学生自杀与学校无关承诺书",
+        "onboard_time": 1735180576,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121772,
+        "num": 121772,
+        "word": "手脚冰凉是身体的自我保护",
+        "onboard_time": 1735135280,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120175,
+        "num": 120175,
+        "word": "夫妻俩高速上为星星吵架出车祸爆胎",
+        "onboard_time": 1735182436,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
