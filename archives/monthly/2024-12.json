@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735219608370,
+  "endTime": 1735220288907,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -7955,6 +7955,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 752083,
+      "num": 377703,
+      "word": "狗仔回应白敬亭宋轶感情近况",
+      "onboard_time": 1735218920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752018,
+      "num": 752018,
+      "word": "男子贷款15万后去世银行要求罚息",
+      "onboard_time": 1735215800,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 751213,
       "num": 751213,
       "word": "长沙下雪",
@@ -8313,14 +8329,6 @@
       "onboard_time": 1734851657,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729279,
-      "num": 729279,
-      "word": "男子贷款15万后去世银行要求罚息",
-      "onboard_time": 1735215800,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 728957,
@@ -15331,6 +15339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466917,
+      "num": 466917,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 466869,
       "num": 466869,
       "word": "这不是树这是章丘大葱",
@@ -15753,6 +15769,14 @@
       "onboard_time": 1734881959,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 458482,
+      "num": 357819,
+      "word": "57岁王祖贤自拍照",
+      "onboard_time": 1735218920,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 458441,
@@ -18451,14 +18475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398890,
-      "num": 398890,
-      "word": "上海挤满了周五下班的韩国人",
-      "onboard_time": 1735212738,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 398874,
       "num": 398874,
       "word": "何老师也有接不住的梗",
@@ -19481,14 +19497,6 @@
       "onboard_time": 1733538319,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 377703,
-      "num": 377703,
-      "word": "狗仔回应白敬亭宋轶感情近况",
-      "onboard_time": 1735218920,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 377637,
@@ -23715,6 +23723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304994,
+      "num": 304994,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304839,
       "num": 304839,
       "word": "韩安冉为晒和韩亿合照道歉",
@@ -25131,6 +25147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284736,
+      "num": 362399,
+      "word": "十个勤天直播",
+      "onboard_time": 1733290101,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284207,
       "num": 284207,
       "word": "费沁源退团",
@@ -26297,14 +26321,6 @@
       "onboard_time": 1733644639,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 269679,
-      "num": 269679,
-      "word": "TOP地狱笑话",
-      "onboard_time": 1735214117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 269676,
@@ -28257,14 +28273,6 @@
       "onboard_time": 1735037838,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247352,
-      "num": 362399,
-      "word": "十个勤天直播",
-      "onboard_time": 1733290101,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 247292,
@@ -32227,14 +32235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216649,
-      "num": 238536,
-      "word": "57岁王祖贤自拍照",
-      "onboard_time": 1735218920,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216585,
       "num": 216585,
       "word": "JackeyLove因职业病做手术",
@@ -33913,6 +33913,14 @@
       "onboard_time": 1733904620,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207486,
+      "num": 400336,
+      "word": "成都巨型圣诞树疑似被烟头点燃",
+      "onboard_time": 1735219039,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207474,
@@ -40291,6 +40299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "Angelababy很开心的旅程",
+      "onboard_time": 1735219160,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186739,
       "num": 186739,
       "word": "朴灿烈唱中文歌",
@@ -44913,6 +44929,14 @@
       "onboard_time": 1734868458,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169053,
+      "num": 244295,
+      "word": "AL晋级德杯决赛",
+      "onboard_time": 1735219460,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 169043,
@@ -53956,7 +53980,7 @@
     },
     {
       "raw_hot": 141757,
-      "num": 141757,
+      "num": 241473,
       "word": "10岁女孩写作业手疼确诊白血病",
       "onboard_time": 1735216039,
       "rank": 46,
@@ -55795,6 +55819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "梁伟铿采访王昶",
+      "onboard_time": 1735219640,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136154,
       "num": 374405,
       "word": "郑州一商场女厕所现偷拍事件",
@@ -57043,14 +57075,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 132355,
-      "num": 122005,
-      "word": "Angelababy很开心的旅程",
-      "onboard_time": 1735219160,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132293,
       "num": 132293,
       "word": "贾静雯说女儿酒量比自己好",
@@ -58107,6 +58131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "梁伟铿王昶合体热身",
+      "onboard_time": 1735219580,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128836,
       "num": 123842,
       "word": "韩民众称尹锡悦已按下弹劾自己的按钮",
@@ -58649,6 +58681,14 @@
       "onboard_time": 1733710639,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "莎头领衔出战wtt新加坡大满贯",
+      "onboard_time": 1735219760,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126949,
@@ -59545,14 +59585,6 @@
       "onboard_time": 1734246377,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124433,
-      "num": 124433,
-      "word": "AL晋级德杯决赛",
-      "onboard_time": 1735219460,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 124412,
@@ -61571,6 +61603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117789,
+      "num": 117789,
+      "word": "羽超联赛",
+      "onboard_time": 1735219879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117761,
       "num": 117761,
       "word": "平阴县政府9.24亿卖天背后",
@@ -63251,6 +63291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111883,
+      "num": 242053,
+      "word": "宋旻浩或将重新服役",
+      "onboard_time": 1735218799,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111848,
       "num": 265735,
       "word": "甄子丹辟谣能叶问蹲1小时",
@@ -63987,6 +64035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108962,
+      "num": 108962,
+      "word": "好想报名孙颖莎的课",
+      "onboard_time": 1735220060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108952,
       "num": 108952,
       "word": "陈哲远 上面到底有谁在",
@@ -64529,14 +64585,6 @@
       "onboard_time": 1733147362,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107410,
-      "num": 107410,
-      "word": "梁伟铿王昶合体热身",
-      "onboard_time": 1735219580,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107335,
@@ -73419,14 +73467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67870,
-      "num": 400336,
-      "word": "成都巨型圣诞树疑似被烟头点燃",
-      "onboard_time": 1735219039,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67837,
       "num": 67837,
       "word": "涉国乒违规信息被集中清理",
@@ -76500,7 +76540,7 @@
     },
     {
       "raw_hot": 55320,
-      "num": 179065,
+      "num": 184892,
       "word": "雅思组合出战羽超联赛",
       "onboard_time": 1735216399,
       "rank": 37,
@@ -80153,6 +80193,14 @@
       "onboard_time": 1733652260,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44468,
+      "num": 160170,
+      "word": "在吴磊评论区被冻伤",
+      "onboard_time": 1735220180,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 44426,
@@ -87251,6 +87299,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 26656,
+      "num": 184935,
+      "word": "2024中国健儿获194个世界冠军",
+      "onboard_time": 1735214358,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26651,
       "num": 26651,
       "word": "本科专业大洗牌背后的调整逻辑",
@@ -89777,14 +89833,6 @@
       "onboard_time": 1734081020,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19625,
-      "num": 108638,
-      "word": "2024中国健儿获194个世界冠军",
-      "onboard_time": 1735214358,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 19603,

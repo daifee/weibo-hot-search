@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735219608370,
+  "endTime": 1735220288907,
   "band_list": [
     {
       "raw_hot": 3698769,
@@ -203,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 752083,
+      "num": 377703,
+      "word": "狗仔回应白敬亭宋轶感情近况",
+      "onboard_time": 1735218920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752018,
+      "num": 752018,
+      "word": "男子贷款15万后去世银行要求罚息",
+      "onboard_time": 1735215800,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 751738,
       "num": 915347,
       "word": "黄子韬一天涨粉500万",
@@ -225,14 +241,6 @@
       "onboard_time": 1735171396,
       "rank": 7,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 729279,
-      "num": 729279,
-      "word": "男子贷款15万后去世银行要求罚息",
-      "onboard_time": 1735215800,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 723759,
@@ -491,6 +499,14 @@
       "category": "议题讨论,艺人"
     },
     {
+      "raw_hot": 466917,
+      "num": 466917,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 466338,
       "num": 627951,
       "word": "从红海行动到蛟龙行动看强军新风貌",
@@ -520,6 +536,14 @@
       "word": "马伊琍获评国家一级演员",
       "onboard_time": 1735206197,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458482,
+      "num": 357819,
+      "word": "57岁王祖贤自拍照",
+      "onboard_time": 1735218920,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -603,14 +627,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 398890,
-      "num": 398890,
-      "word": "上海挤满了周五下班的韩国人",
-      "onboard_time": 1735212738,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 388628,
       "num": 388628,
       "word": "葛夕留几手合作圣诞结",
@@ -649,14 +665,6 @@
       "onboard_time": 1735208959,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377703,
-      "num": 377703,
-      "word": "狗仔回应白敬亭宋轶感情近况",
-      "onboard_time": 1735218920,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 372574,
@@ -859,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304994,
+      "num": 304994,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301288,
       "num": 301288,
       "word": "Uzi 一加",
@@ -923,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284736,
+      "num": 284736,
+      "word": "十个勤天直播",
+      "onboard_time": 1735218379,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279998,
       "num": 279998,
       "word": "蒋欣24岁状态vs41岁状态",
@@ -953,14 +977,6 @@
       "onboard_time": 1735187839,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269679,
-      "num": 269679,
-      "word": "TOP地狱笑话",
-      "onboard_time": 1735214117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 267428,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1735143855,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247352,
-      "num": 234442,
-      "word": "十个勤天直播",
-      "onboard_time": 1735218379,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 245539,
@@ -1203,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216649,
-      "num": 238536,
-      "word": "57岁王祖贤自拍照",
-      "onboard_time": 1735218920,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215523,
       "num": 215523,
       "word": "杨幂轻纱遮幕",
@@ -1305,6 +1305,14 @@
       "onboard_time": 1735194918,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 207486,
+      "num": 400336,
+      "word": "成都巨型圣诞树疑似被烟头点燃",
+      "onboard_time": 1735219039,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207345,
@@ -1531,6 +1539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "Angelababy很开心的旅程",
+      "onboard_time": 1735219160,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184284,
       "num": 184284,
       "word": "我国青少年抑郁症患病率达15%是谣言",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1735202599,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169053,
+      "num": 244295,
+      "word": "AL晋级德杯决赛",
+      "onboard_time": 1735219460,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 166437,
@@ -1996,7 +2020,7 @@
     },
     {
       "raw_hot": 141757,
-      "num": 141757,
+      "num": 241473,
       "word": "10岁女孩写作业手疼确诊白血病",
       "onboard_time": 1735216039,
       "rank": 46,
@@ -2035,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140663,
+      "num": 140663,
+      "word": "九重紫",
+      "onboard_time": 1735219279,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140566,
       "num": 140566,
       "word": "小米正搭建GPU万卡集群",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1735196539,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "梁伟铿采访王昶",
+      "onboard_time": 1735219640,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 134942,
@@ -2123,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132355,
-      "num": 122005,
-      "word": "Angelababy很开心的旅程",
-      "onboard_time": 1735219160,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131696,
       "num": 212907,
       "word": "报告称近三成有房者仍选择租房",
@@ -2163,14 +2195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129510,
-      "num": 121290,
-      "word": "九重紫",
-      "onboard_time": 1735219279,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129303,
       "num": 129303,
       "word": "夫妻俩高速上为星星吵架出车祸爆胎",
@@ -2195,6 +2219,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "梁伟铿王昶合体热身",
+      "onboard_time": 1735219580,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128160,
       "num": 128160,
       "word": "掉入冰水羽绒服能救命吗",
@@ -2209,6 +2241,14 @@
       "onboard_time": 1735209498,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "莎头领衔出战wtt新加坡大满贯",
+      "onboard_time": 1735219760,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126787,
@@ -2233,14 +2273,6 @@
       "onboard_time": 1735186098,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124433,
-      "num": 124433,
-      "word": "AL晋级德杯决赛",
-      "onboard_time": 1735219460,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 121390,
@@ -2291,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117789,
+      "num": 117789,
+      "word": "羽超联赛",
+      "onboard_time": 1735219879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116987,
       "num": 116987,
       "word": "郑钦文父亲武汉创办网球学校",
@@ -2336,6 +2376,14 @@
       "word": "2024年解散的KPOP团体",
       "onboard_time": 1735205479,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111883,
+      "num": 242053,
+      "word": "宋旻浩或将重新服役",
+      "onboard_time": 1735218799,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -2387,20 +2435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108962,
+      "num": 108962,
+      "word": "好想报名孙颖莎的课",
+      "onboard_time": 1735220060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108110,
       "num": 108110,
       "word": "柳智敏安宥真练习室",
       "onboard_time": 1735218321,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107410,
-      "num": 107410,
-      "word": "梁伟铿王昶合体热身",
-      "onboard_time": 1735219580,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107152,
@@ -2779,14 +2827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67870,
-      "num": 400336,
-      "word": "成都巨型圣诞树疑似被烟头点燃",
-      "onboard_time": 1735219039,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67642,
       "num": 206970,
       "word": "齐思钧唐九洲何运晨曹恩齐聚餐合照",
@@ -2900,7 +2940,7 @@
     },
     {
       "raw_hot": 55320,
-      "num": 179065,
+      "num": 184892,
       "word": "雅思组合出战羽超联赛",
       "onboard_time": 1735216399,
       "rank": 37,
@@ -3049,6 +3089,14 @@
       "onboard_time": 1735182496,
       "rank": 15,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 44468,
+      "num": 160170,
+      "word": "在吴磊评论区被冻伤",
+      "onboard_time": 1735220180,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 42975,
@@ -3427,6 +3475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26656,
+      "num": 184935,
+      "word": "2024中国健儿获194个世界冠军",
+      "onboard_time": 1735214358,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26095,
       "num": 315699,
       "word": "在上海沉浸式感受剪纸文化",
@@ -3553,14 +3609,6 @@
       "onboard_time": 1735210579,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19625,
-      "num": 108638,
-      "word": "2024中国健儿获194个世界冠军",
-      "onboard_time": 1735214358,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 19396,

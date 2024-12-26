@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735219608370,
+  "endTime": 1735220288907,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1283,6 +1283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752083,
+      "num": 377703,
+      "word": "狗仔回应白敬亭宋轶感情近况",
+      "onboard_time": 1735218920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 752018,
+      "num": 752018,
+      "word": "男子贷款15万后去世银行要求罚息",
+      "onboard_time": 1735215800,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 751213,
       "num": 751213,
       "word": "长沙下雪",
@@ -1377,14 +1393,6 @@
       "onboard_time": 1734851657,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729279,
-      "num": 729279,
-      "word": "男子贷款15万后去世银行要求罚息",
-      "onboard_time": 1735215800,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 723759,
@@ -2651,6 +2659,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 466917,
+      "num": 466917,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 466869,
       "num": 466869,
       "word": "这不是树这是章丘大葱",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1734881959,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 458482,
+      "num": 357819,
+      "word": "57岁王祖贤自拍照",
+      "onboard_time": 1735218920,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 457977,
@@ -3307,14 +3331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398890,
-      "num": 398890,
-      "word": "上海挤满了周五下班的韩国人",
-      "onboard_time": 1735212738,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 397826,
       "num": 456556,
       "word": "韩国两派爆发大规模示威",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1735208959,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377703,
-      "num": 377703,
-      "word": "狗仔回应白敬亭宋轶感情近况",
-      "onboard_time": 1735218920,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 377188,
@@ -4379,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304994,
+      "num": 304994,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303256,
       "num": 261077,
       "word": "国色芳华预热",
@@ -4611,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284736,
+      "num": 284736,
+      "word": "十个勤天直播",
+      "onboard_time": 1735218379,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284111,
       "num": 284111,
       "word": "雄狮少年2黑屏6秒",
@@ -4825,14 +4849,6 @@
       "onboard_time": 1735187839,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269679,
-      "num": 269679,
-      "word": "TOP地狱笑话",
-      "onboard_time": 1735214117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 268391,
@@ -5265,14 +5281,6 @@
       "onboard_time": 1735037838,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247352,
-      "num": 234442,
-      "word": "十个勤天直播",
-      "onboard_time": 1735218379,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 247122,
@@ -6003,14 +6011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216649,
-      "num": 238536,
-      "word": "57岁王祖贤自拍照",
-      "onboard_time": 1735218920,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216238,
       "num": 216238,
       "word": "为什么iPhone信号不如国产手机",
@@ -6361,6 +6361,14 @@
       "onboard_time": 1735044378,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207486,
+      "num": 400336,
+      "word": "成都巨型圣诞树疑似被烟头点燃",
+      "onboard_time": 1735219039,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207474,
@@ -7531,6 +7539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "Angelababy很开心的旅程",
+      "onboard_time": 1735219160,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186594,
       "num": 186594,
       "word": "你好星期六",
@@ -8361,6 +8377,14 @@
       "onboard_time": 1734868458,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169053,
+      "num": 244295,
+      "word": "AL晋级德杯决赛",
+      "onboard_time": 1735219460,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 169019,
@@ -10092,7 +10116,7 @@
     },
     {
       "raw_hot": 141757,
-      "num": 141757,
+      "num": 241473,
       "word": "10岁女孩写作业手疼确诊白血病",
       "onboard_time": 1735216039,
       "rank": 46,
@@ -10467,6 +10491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 136160,
+      "num": 136160,
+      "word": "梁伟铿采访王昶",
+      "onboard_time": 1735219640,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136154,
       "num": 374405,
       "word": "郑州一商场女厕所现偷拍事件",
@@ -10705,14 +10737,6 @@
       "onboard_time": 1735004239,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132355,
-      "num": 122005,
-      "word": "Angelababy很开心的旅程",
-      "onboard_time": 1735219160,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 132234,
@@ -10971,6 +10995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128850,
+      "num": 128850,
+      "word": "梁伟铿王昶合体热身",
+      "onboard_time": 1735219580,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128668,
       "num": 131050,
       "word": "不要传刀哥被警察带走了",
@@ -11105,6 +11137,14 @@
       "onboard_time": 1735100359,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126975,
+      "num": 126975,
+      "word": "莎头领衔出战wtt新加坡大满贯",
+      "onboard_time": 1735219760,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126787,
@@ -11281,14 +11321,6 @@
       "onboard_time": 1734839179,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124433,
-      "num": 124433,
-      "word": "AL晋级德杯决赛",
-      "onboard_time": 1735219460,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 124263,
@@ -11691,6 +11723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117789,
+      "num": 117789,
+      "word": "羽超联赛",
+      "onboard_time": 1735219879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117587,
       "num": 345917,
       "word": "女子跨国守护熊猫一家10年",
@@ -12083,6 +12123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111883,
+      "num": 242053,
+      "word": "宋旻浩或将重新服役",
+      "onboard_time": 1735218799,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111703,
       "num": 177455,
       "word": "马克龙被灾民骂到当场发飙",
@@ -12259,6 +12307,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 108962,
+      "num": 108962,
+      "word": "好想报名孙颖莎的课",
+      "onboard_time": 1735220060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108642,
       "num": 108642,
       "word": "王鹤棣不小心摔倒剪进正片",
@@ -12353,14 +12409,6 @@
       "onboard_time": 1734846198,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107410,
-      "num": 107410,
-      "word": "梁伟铿王昶合体热身",
-      "onboard_time": 1735219580,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 107192,
@@ -14219,14 +14267,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 67870,
-      "num": 400336,
-      "word": "成都巨型圣诞树疑似被烟头点燃",
-      "onboard_time": 1735219039,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67642,
       "num": 206970,
       "word": "齐思钧唐九洲何运晨曹恩齐聚餐合照",
@@ -14924,7 +14964,7 @@
     },
     {
       "raw_hot": 55320,
-      "num": 179065,
+      "num": 184892,
       "word": "雅思组合出战羽超联赛",
       "onboard_time": 1735216399,
       "rank": 37,
@@ -15721,6 +15761,14 @@
       "onboard_time": 1735182496,
       "rank": 15,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 44468,
+      "num": 160170,
+      "word": "在吴磊评论区被冻伤",
+      "onboard_time": 1735220180,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 44334,
@@ -17259,6 +17307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26656,
+      "num": 184935,
+      "word": "2024中国健儿获194个世界冠军",
+      "onboard_time": 1735214358,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26375,
       "num": 183210,
       "word": "马龙刘诗雯穿正装打混双",
@@ -17777,14 +17833,6 @@
       "onboard_time": 1735030399,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19625,
-      "num": 108638,
-      "word": "2024中国健儿获194个世界冠军",
-      "onboard_time": 1735214358,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 19603,
