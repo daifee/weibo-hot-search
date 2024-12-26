@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735205796058,
+  "endTime": 1735208584565,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -97,6 +97,14 @@
       "onboard_time": 1734844698,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2046908,
+      "num": 2046908,
+      "word": "12345回应徐娇劝阻男子餐厅抽烟",
+      "onboard_time": 1735208179,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1949017,
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868792,
+      "num": 868792,
+      "word": "四川地震",
+      "onboard_time": 1735206197,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 868523,
       "num": 729401,
       "word": "只有安宥真穿了黑裙",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1734933258,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 810668,
+      "num": 490838,
+      "word": "葛夕留几手没有离婚",
+      "onboard_time": 1735203738,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 809862,
@@ -1475,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 690355,
-      "num": 402321,
-      "word": "葛夕留几手没有离婚",
-      "onboard_time": 1735203738,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 688538,
       "num": 688538,
       "word": "液体勺",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1735172537,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 609575,
+      "num": 609575,
+      "word": "女子鼻子整了7次如今鼻梁成C形",
+      "onboard_time": 1735206197,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 607031,
@@ -2451,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482747,
+      "num": 482747,
+      "word": "Angelababy与中华白海豚vlog",
+      "onboard_time": 1735203679,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482411,
       "num": 482411,
       "word": "张颂文回应新剧演技争议",
@@ -2491,12 +2523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476882,
+      "num": 476882,
+      "word": "王耀庆孙阳吻戏",
+      "onboard_time": 1735206680,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475719,
       "num": 475719,
       "word": "3女生考研最后一科被反锁酒店",
       "onboard_time": 1735018699,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471157,
+      "num": 471157,
+      "word": "室内抽烟",
+      "onboard_time": 1735206498,
+      "rank": 15,
+      "category": "议题讨论,艺人"
     },
     {
       "raw_hot": 470683,
@@ -2641,6 +2689,14 @@
       "onboard_time": 1734941058,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455235,
+      "num": 455235,
+      "word": "GDP",
+      "onboard_time": 1735204998,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 454236,
@@ -2929,6 +2985,14 @@
       "onboard_time": 1734914239,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 420212,
+      "num": 552539,
+      "word": "滞留太空美宇航员圣诞节照片引质疑",
+      "onboard_time": 1735202478,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 418766,
@@ -3427,6 +3491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 372574,
+      "num": 372574,
+      "word": "一人用7天无理由退货诈骗200多万",
+      "onboard_time": 1735204879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372448,
       "num": 386365,
       "word": "房东用备用钥匙潜入租户家装摄像头",
@@ -3673,14 +3745,6 @@
       "onboard_time": 1734792980,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 351656,
-      "num": 212333,
-      "word": "Angelababy与中华白海豚vlog",
-      "onboard_time": 1735203679,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 351297,
@@ -5659,6 +5723,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 218706,
+      "num": 218706,
+      "word": "马伊琍获评国家一级演员",
+      "onboard_time": 1735206197,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218672,
       "num": 218672,
       "word": "吴柳芳背后MCN劣迹斑斑",
@@ -5745,14 +5817,6 @@
       "onboard_time": 1735099278,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216665,
-      "num": 216665,
-      "word": "GDP",
-      "onboard_time": 1735204998,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 216238,
@@ -6097,6 +6161,14 @@
       "onboard_time": 1734957858,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207167,
+      "num": 207167,
+      "word": "娃哈哈奶茶店有时1天1张单都没有",
+      "onboard_time": 1735206980,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207050,
@@ -6635,6 +6707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195305,
+      "num": 195305,
+      "word": "星光大赏来给内娱清相册内存了",
+      "onboard_time": 1735208058,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195262,
       "num": 195262,
       "word": "27岁的樊振东12年集齐超级全满贯",
@@ -7155,14 +7235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187188,
-      "num": 408707,
-      "word": "滞留太空美宇航员圣诞节照片引质疑",
-      "onboard_time": 1735202478,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 187175,
       "num": 224488,
       "word": "沈翊 突然不想研究人类了",
@@ -7224,14 +7296,6 @@
       "word": "冰雪大世界回应企业禁止员工前往",
       "onboard_time": 1734858918,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185829,
-      "num": 185829,
-      "word": "一人用7天无理由退货诈骗200多万",
-      "onboard_time": 1735204879,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -8123,6 +8187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166437,
+      "num": 166437,
+      "word": "黄圣依往那一坐就自带drama",
+      "onboard_time": 1735207338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166136,
       "num": 163596,
       "word": "赵丽颖刘亦菲唐嫣最受关注演员",
@@ -8747,6 +8819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155654,
+      "num": 226690,
+      "word": "国乒新加坡大满贯单打名单",
+      "onboard_time": 1735206019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155500,
       "num": 286503,
       "word": "张颂文回应被吐槽演技差台词也差",
@@ -9339,6 +9419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145619,
+      "num": 145619,
+      "word": "iG运营辞职",
+      "onboard_time": 1735206079,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145568,
       "num": 340664,
       "word": "鞠婧祎陈都灵能不能亲一个",
@@ -9492,7 +9580,7 @@
     },
     {
       "raw_hot": 143386,
-      "num": 143386,
+      "num": 399886,
       "word": "李川得知少爷和我火了遛了4小时狗",
       "onboard_time": 1735205179,
       "rank": 32,
@@ -9931,6 +10019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136658,
+      "num": 509513,
+      "word": "国家统计局修订2023年GDP初步核算数",
+      "onboard_time": 1735207819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136641,
       "num": 136641,
       "word": "虞书欣SpicyHoney舞蹈版MV",
@@ -10017,6 +10113,14 @@
       "onboard_time": 1735015161,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135056,
+      "num": 135056,
+      "word": "网传国色芳华明日定档",
+      "onboard_time": 1735208419,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134972,
@@ -10923,6 +11027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120917,
+      "num": 142503,
+      "word": "宝石老舅上周行程",
+      "onboard_time": 1735205658,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120441,
       "num": 619436,
       "word": "韩国一部队爆炸事件3名平民受伤",
@@ -11073,6 +11185,14 @@
       "onboard_time": 1735029740,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "Xiaohu赢得solo选边",
+      "onboard_time": 1735207159,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 118173,
@@ -11265,6 +11385,14 @@
       "onboard_time": 1734847157,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "南方小土豆在尔滨没吃饱被抓回重吃",
+      "onboard_time": 1735208240,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115717,
@@ -11505,6 +11633,14 @@
       "onboard_time": 1734845717,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112331,
+      "num": 112331,
+      "word": "2024年解散的KPOP团体",
+      "onboard_time": 1735205479,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 111703,
@@ -11792,6 +11928,14 @@
       "word": "再见爱人 正话反说",
       "onboard_time": 1735188860,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107119,
+      "num": 1270926,
+      "word": "春晚都去西藏了我也要去",
+      "onboard_time": 1735205300,
+      "rank": 2,
       "category": "综艺"
     },
     {
@@ -12811,14 +12955,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 84187,
-      "num": 142503,
-      "word": "宝石老舅上周行程",
-      "onboard_time": 1735205658,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83782,
       "num": 155365,
       "word": "番茄肥牛乌冬面太适合冬天了",
@@ -12889,6 +13025,14 @@
       "onboard_time": 1735011498,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81959,
+      "num": 168168,
+      "word": "电影骗骗喜欢你首映礼",
+      "onboard_time": 1735204640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 81549,
@@ -13401,6 +13545,14 @@
       "onboard_time": 1735027339,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70457,
+      "num": 229171,
+      "word": "王耀庆 孙阳没伸舌头",
+      "onboard_time": 1735208298,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 70301,
@@ -14100,7 +14252,7 @@
     },
     {
       "raw_hot": 57193,
-      "num": 209828,
+      "num": 383673,
       "word": "马丽要拍自传电影",
       "onboard_time": 1735203919,
       "rank": 25,
@@ -15619,6 +15771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36135,
+      "num": 167160,
+      "word": "上班路上偶遇打工人最强嘴替",
+      "onboard_time": 1735207579,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36084,
       "num": 185236,
       "word": "尚雯婕生日直播",
@@ -16443,6 +16603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26527,
+      "num": 472377,
+      "word": "山西紫藤巷杀人案真相追踪",
+      "onboard_time": 1735208119,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26375,
       "num": 183210,
       "word": "马龙刘诗雯穿正装打混双",
@@ -16868,7 +17036,7 @@
     },
     {
       "raw_hot": 20586,
-      "num": 209853,
+      "num": 225361,
       "word": "Uzi说一加Ace5YYDS",
       "onboard_time": 1735203523,
       "rank": 24,
@@ -17227,14 +17395,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 15802,
-      "num": 1270926,
-      "word": "春晚都去西藏了我也要去",
-      "onboard_time": 1735205300,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 15763,
       "num": 31339,
       "word": "向志愿军忠烈致敬",
@@ -17313,6 +17473,14 @@
       "onboard_time": 1734815232,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13104,
+      "num": 471615,
+      "word": "WBG对战AL先下一城",
+      "onboard_time": 1735208539,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 12557,
@@ -17403,6 +17571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11612,
+      "num": 149845,
+      "word": "考完研失去了放松的能力",
+      "onboard_time": 1735208359,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 11434,
       "num": 81442,
       "word": "李盈莹和朱婷说顶峰相见很不容易",
@@ -17432,6 +17608,14 @@
       "word": "李昀锐小狗比心",
       "onboard_time": 1734905652,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11260,
+      "num": 166821,
+      "word": "吴费曼晒吴镇宇丑照",
+      "onboard_time": 1735193897,
+      "rank": 34,
       "category": "艺人"
     },
     {

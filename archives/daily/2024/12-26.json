@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735205796058,
+  "endTime": 1735208584565,
   "band_list": [
     {
       "raw_hot": 3213780,
@@ -25,6 +25,14 @@
       "onboard_time": 1735188739,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2046908,
+      "num": 2046908,
+      "word": "12345回应徐娇劝阻男子餐厅抽烟",
+      "onboard_time": 1735208179,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1740308,
@@ -163,6 +171,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 868792,
+      "num": 868792,
+      "word": "四川地震",
+      "onboard_time": 1735206197,
+      "rank": 1,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 810668,
+      "num": 490838,
+      "word": "葛夕留几手没有离婚",
+      "onboard_time": 1735203738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803462,
       "num": 803462,
       "word": "火箭少女101",
@@ -227,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 690355,
-      "num": 402321,
-      "word": "葛夕留几手没有离婚",
-      "onboard_time": 1735203738,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 644159,
       "num": 898134,
       "word": "女子喝陌生人的水昏迷被拐",
@@ -273,6 +289,14 @@
       "onboard_time": 1735172537,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 609575,
+      "num": 609575,
+      "word": "女子鼻子整了7次如今鼻梁成C形",
+      "onboard_time": 1735206197,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596672,
@@ -379,12 +403,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 482747,
+      "num": 482747,
+      "word": "Angelababy与中华白海豚vlog",
+      "onboard_time": 1735203679,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476899,
       "num": 476899,
       "word": "李昀锐 妈妈我不要面子哒",
       "onboard_time": 1735186759,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476882,
+      "num": 476882,
+      "word": "王耀庆孙阳吻戏",
+      "onboard_time": 1735206680,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471157,
+      "num": 471157,
+      "word": "室内抽烟",
+      "onboard_time": 1735206498,
+      "rank": 15,
+      "category": "议题讨论,艺人"
     },
     {
       "raw_hot": 466338,
@@ -401,6 +449,14 @@
       "onboard_time": 1735191138,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 455235,
+      "num": 455235,
+      "word": "GDP",
+      "onboard_time": 1735204998,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 453265,
@@ -433,6 +489,14 @@
       "onboard_time": 1735177577,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420212,
+      "num": 552539,
+      "word": "滞留太空美宇航员圣诞节照片引质疑",
+      "onboard_time": 1735202478,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 412474,
@@ -499,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372574,
+      "num": 372574,
+      "word": "一人用7天无理由退货诈骗200多万",
+      "onboard_time": 1735204879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371299,
       "num": 268213,
       "word": "菲律宾15岁少女性侵后死亡13人涉案",
@@ -561,14 +633,6 @@
       "onboard_time": 1735183277,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351656,
-      "num": 212333,
-      "word": "Angelababy与中华白海豚vlog",
-      "onboard_time": 1735203679,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 349304,
@@ -931,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218706,
+      "num": 218706,
+      "word": "马伊琍获评国家一级演员",
+      "onboard_time": 1735206197,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218129,
       "num": 218129,
       "word": "白鹿与自己蜡像同框合照",
@@ -945,14 +1017,6 @@
       "onboard_time": 1735191378,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216665,
-      "num": 216665,
-      "word": "GDP",
-      "onboard_time": 1735204998,
-      "rank": 13,
-      "category": "财经"
     },
     {
       "raw_hot": 214318,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1735194918,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 207167,
+      "num": 207167,
+      "word": "娃哈哈奶茶店有时1天1张单都没有",
+      "onboard_time": 1735206980,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206321,
@@ -1107,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195305,
+      "num": 195305,
+      "word": "星光大赏来给内娱清相册内存了",
+      "onboard_time": 1735208058,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194889,
       "num": 366076,
       "word": "千朵桃花一世开",
@@ -1177,22 +1257,6 @@
       "onboard_time": 1735190059,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 187188,
-      "num": 408707,
-      "word": "滞留太空美宇航员圣诞节照片引质疑",
-      "onboard_time": 1735202478,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 185829,
-      "num": 185829,
-      "word": "一人用7天无理由退货诈骗200多万",
-      "onboard_time": 1735204879,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184284,
@@ -1307,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166437,
+      "num": 166437,
+      "word": "黄圣依往那一坐就自带drama",
+      "onboard_time": 1735207338,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166013,
       "num": 166013,
       "word": "肖战版郭靖是如何练成的",
@@ -1379,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155654,
+      "num": 226690,
+      "word": "国乒新加坡大满贯单打名单",
+      "onboard_time": 1735206019,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153883,
       "num": 495107,
       "word": "徐冬冬 内娱活人",
@@ -1443,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145619,
+      "num": 145619,
+      "word": "iG运营辞职",
+      "onboard_time": 1735206079,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "沈月大家来串门就应该开个综艺",
@@ -1460,7 +1548,7 @@
     },
     {
       "raw_hot": 143386,
-      "num": 143386,
+      "num": 399886,
       "word": "李川得知少爷和我火了遛了4小时狗",
       "onboard_time": 1735205179,
       "rank": 32,
@@ -1547,12 +1635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136658,
+      "num": 509513,
+      "word": "国家统计局修订2023年GDP初步核算数",
+      "onboard_time": 1735207819,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136355,
       "num": 310482,
       "word": "一加发布会",
       "onboard_time": 1735196539,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135056,
+      "num": 135056,
+      "word": "网传国色芳华明日定档",
+      "onboard_time": 1735208419,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134672,
@@ -1683,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120917,
+      "num": 142503,
+      "word": "宝石老舅上周行程",
+      "onboard_time": 1735205658,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120185,
       "num": 120185,
       "word": "哈总统下令成立委员会调查坠机事故",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1735174098,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "Xiaohu赢得solo选边",
+      "onboard_time": 1735207159,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 116987,
@@ -1731,6 +1851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115942,
+      "num": 115942,
+      "word": "南方小土豆在尔滨没吃饱被抓回重吃",
+      "onboard_time": 1735208240,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114803,
       "num": 124045,
       "word": "2024男明星综合热度榜TOP10",
@@ -1745,6 +1873,14 @@
       "onboard_time": 1735177337,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112331,
+      "num": 112331,
+      "word": "2024年解散的KPOP团体",
+      "onboard_time": 1735205479,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110307,
@@ -1792,6 +1928,14 @@
       "word": "再见爱人 正话反说",
       "onboard_time": 1735188860,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107119,
+      "num": 1270926,
+      "word": "春晚都去西藏了我也要去",
+      "onboard_time": 1735205300,
+      "rank": 2,
       "category": "综艺"
     },
     {
@@ -1979,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84187,
-      "num": 142503,
-      "word": "宝石老舅上周行程",
-      "onboard_time": 1735205658,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83116,
       "num": 283877,
       "word": "张涵予夸王俊凯表演很准确",
@@ -2001,6 +2137,14 @@
       "onboard_time": 1735158071,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81959,
+      "num": 168168,
+      "word": "电影骗骗喜欢你首映礼",
+      "onboard_time": 1735204640,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 80434,
@@ -2065,6 +2209,14 @@
       "onboard_time": 1735200618,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70457,
+      "num": 229171,
+      "word": "王耀庆 孙阳没伸舌头",
+      "onboard_time": 1735208298,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 67642,
@@ -2164,7 +2316,7 @@
     },
     {
       "raw_hot": 57193,
-      "num": 209828,
+      "num": 383673,
       "word": "马丽要拍自传电影",
       "onboard_time": 1735203919,
       "rank": 25,
@@ -2411,6 +2563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36135,
+      "num": 167160,
+      "word": "上班路上偶遇打工人最强嘴替",
+      "onboard_time": 1735207579,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35921,
       "num": 37605,
       "word": "我在",
@@ -2587,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26527,
+      "num": 472377,
+      "word": "山西紫藤巷杀人案真相追踪",
+      "onboard_time": 1735208119,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26095,
       "num": 315699,
       "word": "在上海沉浸式感受剪纸文化",
@@ -2668,7 +2836,7 @@
     },
     {
       "raw_hot": 20586,
-      "num": 209853,
+      "num": 225361,
       "word": "Uzi说一加Ace5YYDS",
       "onboard_time": 1735203523,
       "rank": 24,
@@ -2723,20 +2891,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 15802,
-      "num": 1270926,
-      "word": "春晚都去西藏了我也要去",
-      "onboard_time": 1735205300,
-      "rank": 2,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 13647,
       "num": 231327,
       "word": "陈瑜一日圣诞厨师上线",
       "onboard_time": 1735193719,
       "rank": 27,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 13104,
+      "num": 471615,
+      "word": "WBG对战AL先下一城",
+      "onboard_time": 1735208539,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 12557,
@@ -2777,6 +2945,22 @@
       "onboard_time": 1735187420,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 11612,
+      "num": 149845,
+      "word": "考完研失去了放松的能力",
+      "onboard_time": 1735208359,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 11260,
+      "num": 166821,
+      "word": "吴费曼晒吴镇宇丑照",
+      "onboard_time": 1735193897,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 10789,

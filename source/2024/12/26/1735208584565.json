@@ -1,0 +1,410 @@
+{
+  "runTime": 1735208584565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2046908,
+        "num": 2046908,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 868792,
+        "num": 868792,
+        "word": "四川地震",
+        "onboard_time": 1735206197,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 107119,
+        "num": 837206,
+        "word": "春晚都去西藏了我也要去",
+        "onboard_time": 1735205300,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 824372,
+        "num": 824372,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 683918,
+        "num": 683918,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609575,
+        "num": 609575,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1320016,
+        "num": 597860,
+        "word": "抽烟男子称徐娇删除视频就会道歉",
+        "onboard_time": 1735196839,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 894994,
+        "num": 584010,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420212,
+        "num": 552539,
+        "word": "滞留太空美宇航员圣诞节照片引质疑",
+        "onboard_time": 1735202478,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136658,
+        "num": 509513,
+        "word": "国家统计局修订2023年GDP初步核算数",
+        "onboard_time": 1735207819,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810668,
+        "num": 490838,
+        "word": "葛夕留几手没有离婚",
+        "onboard_time": 1735203738,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482747,
+        "num": 482747,
+        "word": "Angelababy与中华白海豚vlog",
+        "onboard_time": 1735203679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476882,
+        "num": 476882,
+        "word": "王耀庆孙阳吻戏",
+        "onboard_time": 1735206680,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26527,
+        "num": 472377,
+        "word": "山西紫藤巷杀人案真相追踪",
+        "onboard_time": 1735208119,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13104,
+        "num": 471615,
+        "word": "WBG对战AL先下一城",
+        "onboard_time": 1735208539,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 471157,
+        "num": 471157,
+        "word": "室内抽烟",
+        "onboard_time": 1735206498,
+        "rank": 15,
+        "category": "议题讨论,艺人"
+      },
+      {
+        "raw_hot": 455235,
+        "num": 455235,
+        "word": "GDP",
+        "onboard_time": 1735204998,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140946,
+        "num": 399886,
+        "word": "李川得知少爷和我火了遛了4小时狗",
+        "onboard_time": 1735205179,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23678,
+        "num": 383673,
+        "word": "马丽要拍自传电影",
+        "onboard_time": 1735203919,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372574,
+        "num": 372574,
+        "word": "一人用7天无理由退货诈骗200多万",
+        "onboard_time": 1735204879,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330966,
+        "num": 330966,
+        "word": "鱿鱼游戏 孔刘",
+        "onboard_time": 1735200859,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285712,
+        "num": 285712,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235430,
+        "num": 235430,
+        "word": "坏了让她读到真大学了",
+        "onboard_time": 1735192458,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70457,
+        "num": 229171,
+        "word": "王耀庆 孙阳没伸舌头",
+        "onboard_time": 1735208298,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 226690,
+        "word": "国乒新加坡大满贯单打名单",
+        "onboard_time": 1735206019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5842,
+        "num": 225361,
+        "word": "Uzi说一加Ace5YYDS",
+        "onboard_time": 1735203523,
+        "rank": 25,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 224617,
+        "num": 224617,
+        "word": "下水道里抽出很多鲶鱼",
+        "onboard_time": 1735203618,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218706,
+        "num": 218706,
+        "word": "马伊琍获评国家一级演员",
+        "onboard_time": 1735206197,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "娃哈哈奶茶店有时1天1张单都没有",
+        "onboard_time": 1735206980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195305,
+        "num": 195305,
+        "word": "星光大赏来给内娱清相册内存了",
+        "onboard_time": 1735208058,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177310,
+        "num": 177310,
+        "word": "驼峰鼻",
+        "onboard_time": 1735200559,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169769,
+        "num": 169769,
+        "word": "留几手收入",
+        "onboard_time": 1735199477,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81959,
+        "num": 168168,
+        "word": "电影骗骗喜欢你首映礼",
+        "onboard_time": 1735204640,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36135,
+        "num": 167160,
+        "word": "上班路上偶遇打工人最强嘴替",
+        "onboard_time": 1735207579,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11260,
+        "num": 166821,
+        "word": "吴费曼晒吴镇宇丑照",
+        "onboard_time": 1735193897,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166673,
+        "num": 166673,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166437,
+        "num": 166437,
+        "word": "黄圣依往那一坐就自带drama",
+        "onboard_time": 1735207338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 162503,
+        "word": "宋丹丹 豆角这块我熟",
+        "onboard_time": 1735200679,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162255,
+        "num": 162255,
+        "word": "刘强东官宣全员加薪",
+        "onboard_time": 1735197017,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11612,
+        "num": 149845,
+        "word": "考完研失去了放松的能力",
+        "onboard_time": 1735208359,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145619,
+        "num": 145619,
+        "word": "iG运营辞职",
+        "onboard_time": 1735206079,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135056,
+        "num": 135056,
+        "word": "网传国色芳华明日定档",
+        "onboard_time": 1735208419,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134052,
+        "num": 134052,
+        "word": "麦琳说看到了自己对李行亮的伤害",
+        "onboard_time": 1735204998,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120917,
+        "num": 120917,
+        "word": "宝石老舅上周行程",
+        "onboard_time": 1735205658,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119918,
+        "num": 119918,
+        "word": "猎罪3第一个镜头",
+        "onboard_time": 1735200498,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119167,
+        "num": 119167,
+        "word": "将亡妻金镯熔给新伴侣换首饰后续",
+        "onboard_time": 1735187238,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118714,
+        "num": 118714,
+        "word": "男子用35个网购账号买真退假",
+        "onboard_time": 1735204819,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118193,
+        "num": 118193,
+        "word": "Xiaohu赢得solo选边",
+        "onboard_time": 1735207159,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115942,
+        "num": 115942,
+        "word": "南方小土豆在尔滨没吃饱被抓回重吃",
+        "onboard_time": 1735208240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112331,
+        "num": 112331,
+        "word": "2024年解散的KPOP团体",
+        "onboard_time": 1735205479,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}
