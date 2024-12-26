@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735212950202,
+  "endTime": 1735216936988,
   "band_list": [
     {
       "raw_hot": 3698769,
@@ -81,6 +81,14 @@
       "onboard_time": 1735199719,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1381750,
+      "num": 522055,
+      "word": "徐娇仍在店里处理",
+      "onboard_time": 1735214179,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1329698,
@@ -419,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 488404,
+      "num": 488404,
+      "word": "吴磊银发",
+      "onboard_time": 1735214117,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 485331,
       "num": 485331,
       "word": "刘亦菲全榜第一",
@@ -473,6 +489,14 @@
       "onboard_time": 1735191138,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463092,
+      "num": 463092,
+      "word": "大奉打更人剧评",
+      "onboard_time": 1735213698,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 462335,
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 377847,
-      "num": 377847,
+      "num": 466793,
       "word": "室内公共场所禁烟是全国性的",
       "onboard_time": 1735208959,
       "rank": 13,
@@ -675,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355673,
+      "num": 355673,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 353733,
       "num": 300091,
       "word": "爸爸甚至没读乱回",
@@ -705,6 +737,14 @@
       "onboard_time": 1735185438,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335523,
+      "num": 335523,
+      "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
+      "onboard_time": 1735212858,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 334248,
@@ -851,6 +891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 279998,
+      "num": 279998,
+      "word": "蒋欣24岁状态vs41岁状态",
+      "onboard_time": 1735210220,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275954,
       "num": 275954,
       "word": "刘亦菲中学班级合照",
@@ -865,6 +913,14 @@
       "onboard_time": 1735185018,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 274805,
+      "num": 274805,
+      "word": "北大天才柳智宇还俗结婚后现状",
+      "onboard_time": 1735213698,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270851,
@@ -995,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237045,
+      "num": 237045,
+      "word": "广东两姐妹疑遭男子闯入家中杀害",
+      "onboard_time": 1735215079,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "归棹",
@@ -1033,6 +1097,14 @@
       "onboard_time": 1735188258,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230765,
+      "num": 230765,
+      "word": "冬至 邻居变同居",
+      "onboard_time": 1735216098,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 229107,
@@ -1139,6 +1211,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 209748,
+      "num": 209748,
+      "word": "杨子说的女明星是谁",
+      "onboard_time": 1735215979,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209699,
       "num": 209699,
       "word": "哈萨克斯坦坠机事故幸存者发声",
@@ -1155,6 +1235,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 207345,
+      "num": 207345,
+      "word": "阿塞拜疆失事客机有多个不明洞孔",
+      "onboard_time": 1735214117,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "赛里木湖",
@@ -1169,6 +1257,22 @@
       "onboard_time": 1735201639,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205888,
+      "num": 205888,
+      "word": "鱿鱼游戏 吊在俊",
+      "onboard_time": 1735210819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205683,
+      "num": 247284,
+      "word": "孟子义 九重紫碎片",
+      "onboard_time": 1735215018,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 205317,
@@ -1211,20 +1315,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201902,
-      "num": 241986,
-      "word": "蒋欣24岁状态vs41岁状态",
-      "onboard_time": 1735210220,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 201830,
       "num": 201830,
       "word": "SBS你耍我",
       "onboard_time": 1735130779,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201789,
+      "num": 201789,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 200549,
@@ -1251,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196802,
+      "num": 196802,
+      "word": "王安宇 我上去就是一把糯米",
+      "onboard_time": 1735215859,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195811,
       "num": 195811,
       "word": "winter唇环",
@@ -1264,14 +1376,6 @@
       "word": "星光大赏来给内娱清相册内存了",
       "onboard_time": 1735208058,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194995,
-      "num": 194995,
-      "word": "鱿鱼游戏 吊在俊",
-      "onboard_time": 1735210819,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1305,6 +1409,14 @@
       "onboard_time": 1735211357,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 202128,
+      "word": "种地吧",
+      "onboard_time": 1735216459,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 192988,
@@ -1355,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189251,
+      "num": 189251,
+      "word": "福师大一教室天花板坠落砸伤学生",
+      "onboard_time": 1735214959,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188570,
       "num": 188570,
       "word": "问界M9上市一年大定破20万辆",
@@ -1387,12 +1507,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179470,
+      "num": 179470,
+      "word": "终于有人能说到麦琳心趴上了",
+      "onboard_time": 1735215979,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179418,
       "num": 179418,
       "word": "幸存者称飞机爆炸后都是碎片",
       "onboard_time": 1735179677,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178938,
+      "num": 178938,
+      "word": "周深一个人获了九项荣誉",
+      "onboard_time": 1735216339,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177057,
+      "num": 144575,
+      "word": "檀健次让台词",
+      "onboard_time": 1735215079,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 176917,
@@ -1424,6 +1568,14 @@
       "word": "韩安冉说网红圈太乱了",
       "onboard_time": 1735139958,
       "rank": 25,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 176069,
+      "num": 143879,
+      "word": "王境泽自曝斗鱼签约费曾高达1500万",
+      "onboard_time": 1735213099,
+      "rank": 41,
       "category": "网红"
     },
     {
@@ -1473,6 +1625,14 @@
       "onboard_time": 1735198880,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170194,
+      "num": 143019,
+      "word": "郭德纲新综艺穿上多巴胺了",
+      "onboard_time": 1735215918,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 169919,
@@ -1595,20 +1755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156896,
-      "num": 156896,
-      "word": "上海挤满了周五下班的韩国人",
-      "onboard_time": 1735212738,
-      "rank": 36,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 156434,
-      "num": 156434,
-      "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
-      "onboard_time": 1735212858,
-      "rank": 37,
-      "category": "作品衍生,时尚"
+      "raw_hot": 157330,
+      "num": 250507,
+      "word": "超200名国家一级演员开始做直播了",
+      "onboard_time": 1735215618,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 155654,
@@ -1731,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144858,
+      "num": 144858,
+      "word": "蔡磊说话模糊已经需要人为翻译",
+      "onboard_time": 1735215079,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144498,
       "num": 144498,
       "word": "黄景瑜孙千逆光变装",
@@ -1769,6 +1929,14 @@
       "onboard_time": 1735195219,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 142031,
+      "num": 142031,
+      "word": "男子贷款15万后去世银行要求罚息",
+      "onboard_time": 1735215800,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141738,
@@ -1817,6 +1985,14 @@
       "onboard_time": 1735196598,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 137676,
+      "num": 137676,
+      "word": "10岁女孩写作业手疼确诊白血病",
+      "onboard_time": 1735216039,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137195,
@@ -1931,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129301,
+      "num": 129301,
+      "word": "黄子弘凡 欧皇欧到人尽皆知",
+      "onboard_time": 1735216217,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129106,
       "num": 129106,
       "word": "沪苏湖高铁真的来啦",
@@ -1945,6 +2129,14 @@
       "onboard_time": 1735197017,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128017,
+      "num": 128017,
+      "word": "优酷破万剧集一部接一部",
+      "onboard_time": 1735216880,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127651,
@@ -2387,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76902,
+      "num": 464764,
+      "word": "农民帮卖羊肉被罚10万对方家属发声",
+      "onboard_time": 1735214238,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75423,
       "num": 769787,
       "word": "来过一个冬日梦幻之旅",
@@ -2433,6 +2633,14 @@
       "onboard_time": 1735200618,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72008,
+      "num": 212536,
+      "word": "一诺的23岁寻梦密钥",
+      "onboard_time": 1735216819,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 70832,
@@ -2561,6 +2769,14 @@
       "onboard_time": 1735203919,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55320,
+      "num": 179065,
+      "word": "雅思组合出战羽超联赛",
+      "onboard_time": 1735216399,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 54780,
@@ -3217,6 +3433,14 @@
       "onboard_time": 1735201280,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 15141,
+      "num": 245877,
+      "word": "超载渣土车为躲处罚雇人盯梢交警",
+      "onboard_time": 1735215979,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13647,
