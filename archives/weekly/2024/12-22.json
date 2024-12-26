@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735223896548,
+  "endTime": 1735226568454,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -1115,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 819041,
+      "num": 819041,
+      "word": "复旦教授呼吁年轻人不要抱怨",
+      "onboard_time": 1735222100,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810668,
       "num": 490838,
       "word": "葛夕留几手没有离婚",
@@ -1443,6 +1451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 713751,
+      "num": 382431,
+      "word": "李嘉琦 要不你单身呢",
+      "onboard_time": 1735223480,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 713002,
       "num": 533851,
       "word": "撒贝宁给何炅发信息",
@@ -1569,6 +1585,14 @@
       "onboard_time": 1735105698,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 684539,
+      "num": 684539,
+      "word": "女大学生借钱追星被大粉骗走2万多",
+      "onboard_time": 1735223480,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682815,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1735092797,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 568545,
-      "num": 568545,
-      "word": "复旦教授呼吁年轻人不要抱怨",
-      "onboard_time": 1735222100,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 566472,
@@ -4651,6 +4667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287609,
+      "num": 211994,
+      "word": "大年初一电影放大招",
+      "onboard_time": 1735222880,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 287002,
       "num": 243095,
       "word": "孙阳 不知道啊说有吻戏我就来了",
@@ -4713,6 +4737,14 @@
       "onboard_time": 1735049479,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 282337,
+      "num": 450809,
+      "word": "谷子门店爆发式增长",
+      "onboard_time": 1735223660,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281914,
@@ -5411,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242425,
+      "num": 242425,
+      "word": "伊能静一家英国过圣诞",
+      "onboard_time": 1735223660,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242421,
       "num": 242421,
       "word": "腿姐长文告别25考研",
@@ -5745,6 +5785,14 @@
       "onboard_time": 1734958698,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225793,
+      "num": 210172,
+      "word": "猎罪图鉴1编剧",
+      "onboard_time": 1735225879,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 225568,
@@ -6211,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212162,
+      "num": 446914,
+      "word": "韩国游客来上海特种兵旅行",
+      "onboard_time": 1735223841,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 212111,
       "num": 212111,
       "word": "光遇复刻",
@@ -6569,6 +6625,14 @@
       "onboard_time": 1735208419,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204873,
+      "num": 204873,
+      "word": "丁禹兮银发挑染造型路透",
+      "onboard_time": 1735225579,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204674,
@@ -7771,6 +7835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 182469,
+      "num": 182469,
+      "word": "葛夕说离婚也给留几手养老",
+      "onboard_time": 1735226179,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181938,
       "num": 181938,
       "word": "孙珍妮小狐狸又回来了",
@@ -7793,14 +7865,6 @@
       "onboard_time": 1734851657,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180803,
-      "num": 180803,
-      "word": "大年初一电影放大招",
-      "onboard_time": 1735222880,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 180662,
@@ -8737,6 +8801,14 @@
       "onboard_time": 1734841939,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164518,
+      "num": 164518,
+      "word": "宋雨琦cha了spicyhoney",
+      "onboard_time": 1735226060,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 164480,
@@ -9699,14 +9771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 149410,
-      "num": 149410,
-      "word": "李嘉琦 要不你单身呢",
-      "onboard_time": 1735223480,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -9785,6 +9849,14 @@
       "onboard_time": 1734946880,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147917,
+      "num": 147917,
+      "word": "中国军队将与大家一起笃定前行",
+      "onboard_time": 1735223360,
+      "rank": 37,
+      "category": "军事"
     },
     {
       "raw_hot": 147813,
@@ -10651,6 +10723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134784,
+      "num": 134784,
+      "word": "猎罪2林小茵的人生癫开狂走",
+      "onboard_time": 1735225339,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134723,
       "num": 134723,
       "word": "胡先煦 天之浇子",
@@ -11339,6 +11419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125404,
+      "num": 125404,
+      "word": "孟子义白鹿说李昀锐开车稳",
+      "onboard_time": 1735225339,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125199,
       "num": 231045,
       "word": "2025会被AI平替的行业",
@@ -11531,14 +11619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122698,
-      "num": 122698,
-      "word": "伊能静一家英国过圣诞",
-      "onboard_time": 1735223660,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122199,
       "num": 122199,
       "word": "轻断食 脱发",
@@ -11715,6 +11795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119045,
+      "num": 119045,
+      "word": "十个勤天种地随笔",
+      "onboard_time": 1735225280,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119020,
       "num": 119020,
       "word": "留几手曾透露再见爱人无剧本",
@@ -11793,6 +11881,14 @@
       "onboard_time": 1734915078,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118030,
+      "num": 210685,
+      "word": "哈兰德罚丢点球",
+      "onboard_time": 1735224440,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 117881,
@@ -12001,6 +12097,14 @@
       "onboard_time": 1734938418,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115103,
+      "num": 343146,
+      "word": "河南桑坡村有代购3个月赚15万",
+      "onboard_time": 1735218199,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115032,
@@ -12265,6 +12369,14 @@
       "onboard_time": 1734842960,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111521,
+      "num": 111521,
+      "word": "年轻人为什么那么爱吃谷",
+      "onboard_time": 1735225399,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 111426,
@@ -13195,6 +13307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94536,
+      "num": 94536,
+      "word": "孙颖莎提前祝大家元旦快乐",
+      "onboard_time": 1735224619,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94445,
       "num": 873482,
       "word": "这就是中国气质",
@@ -13225,6 +13345,14 @@
       "onboard_time": 1735117759,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93888,
+      "num": 93888,
+      "word": "有部分俄罗斯商品馆开始撤店",
+      "onboard_time": 1735226298,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93756,
@@ -14771,14 +14899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61162,
-      "num": 343146,
-      "word": "河南桑坡村有代购3个月赚15万",
-      "onboard_time": 1735218199,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61090,
       "num": 201965,
       "word": "寒武纪总市值突破2900亿元",
@@ -15467,6 +15587,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 50063,
+      "num": 708204,
+      "word": "中国一年194个世界冠军",
+      "onboard_time": 1735225040,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50043,
       "num": 183338,
       "word": "千朵桃花一世开欲哥配妹宝",
@@ -15537,6 +15665,14 @@
       "onboard_time": 1734890773,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48603,
+      "num": 211424,
+      "word": "多方回应广东两姐妹遭杀害传言",
+      "onboard_time": 1735226359,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 48403,
@@ -15907,6 +16043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44389,
+      "num": 283366,
+      "word": "男子抢手机扔烟头或涉嫌寻衅滋事",
+      "onboard_time": 1735225519,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44334,
       "num": 270544,
       "word": "和RW的奇妙圣诞",
@@ -16043,6 +16187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42184,
+      "num": 342807,
+      "word": "谁能拒绝一个小G当新年礼物",
+      "onboard_time": 1735223060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42027,
       "num": 42027,
       "word": "多省回应要花万亿推平黄土高原",
@@ -16113,14 +16265,6 @@
       "onboard_time": 1735185919,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41184,
-      "num": 446914,
-      "word": "韩国游客来上海特种兵旅行",
-      "onboard_time": 1735223841,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 41178,
@@ -16795,14 +16939,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 33880,
-      "num": 450809,
-      "word": "谷子门店爆发式增长",
-      "onboard_time": 1735223660,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33826,
       "num": 163831,
       "word": "国产车为什么更抗造",
@@ -17017,14 +17153,6 @@
       "onboard_time": 1735082475,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31597,
-      "num": 342807,
-      "word": "谁能拒绝一个小G当新年礼物",
-      "onboard_time": 1735223060,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31580,
@@ -17843,6 +17971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22207,
+      "num": 213028,
+      "word": "鱿鱼游戏导演说创作初衷是社会平衡",
+      "onboard_time": 1735225579,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22150,
       "num": 408646,
       "word": "张颂文称曾被人用长相打击",
@@ -18209,14 +18345,6 @@
       "onboard_time": 1735054578,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16740,
-      "num": 393316,
-      "word": "女大学生借钱追星被大粉骗走2万多",
-      "onboard_time": 1735223480,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16737,
