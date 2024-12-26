@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735191552243,
+  "endTime": 1735194688414,
   "band_list": [
     {
       "raw_hot": 2280320,
@@ -9,6 +9,14 @@
       "onboard_time": 1735188739,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1775935,
+      "num": 1775935,
+      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
+      "onboard_time": 1735192877,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1740308,
@@ -99,8 +107,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 774029,
-      "num": 774029,
+      "raw_hot": 900178,
+      "num": 900178,
+      "word": "坏了让她读到真大学了",
+      "onboard_time": 1735192458,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 803462,
+      "num": 803462,
       "word": "火箭少女101",
       "onboard_time": 1735188860,
       "rank": 6,
@@ -227,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531486,
+      "num": 531486,
+      "word": "男子深夜扑倒女子抢袜子获刑6个月",
+      "onboard_time": 1735188200,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 516933,
       "num": 516933,
       "word": "内马尔又要当爹了",
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464332,
+      "num": 464332,
+      "word": "杨子调侃黄圣依的名字",
+      "onboard_time": 1735191138,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 444237,
       "num": 444237,
       "word": "美航班飞机起落架轮舱内发现尸体",
@@ -313,6 +345,14 @@
       "onboard_time": 1735157831,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 392113,
+      "num": 392113,
+      "word": "徐娇回应",
+      "onboard_time": 1735194257,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 387605,
@@ -387,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352058,
+      "num": 352058,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349304,
       "num": 349304,
       "word": "女子探亲途中和3岁儿子双双被拐",
@@ -425,6 +473,14 @@
       "onboard_time": 1735169716,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 316510,
+      "num": 243658,
+      "word": "曾之乔圣诞晒孕肚",
+      "onboard_time": 1735192398,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 315366,
@@ -467,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309400,
+      "num": 309400,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1735193597,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 299866,
       "num": 299866,
       "word": "董明珠回应格力电器卖得贵",
@@ -507,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 287002,
+      "num": 243095,
+      "word": "孙阳 不知道啊说有吻戏我就来了",
+      "onboard_time": 1735190958,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 285172,
       "num": 285172,
       "word": "手脚冰凉是身体的自我保护",
       "onboard_time": 1735135280,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 279259,
-      "num": 279259,
-      "word": "男子深夜扑倒女子抢袜子获刑6个月",
-      "onboard_time": 1735188200,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275954,
@@ -555,20 +619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266595,
+      "num": 240454,
+      "word": "张若昀 没事都是自己人",
+      "onboard_time": 1735191558,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265385,
       "num": 265385,
       "word": "女子婚礼前一天被拒婚假遭公司辞退",
       "onboard_time": 1735135459,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263485,
-      "num": 263485,
-      "word": "杨子调侃黄圣依的名字",
-      "onboard_time": 1735191138,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 260420,
@@ -635,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237833,
+      "num": 237833,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234437,
       "num": 234437,
       "word": "归棹",
@@ -672,6 +744,14 @@
       "word": "鱿鱼游戏2",
       "onboard_time": 1735136840,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218084,
+      "num": 218084,
+      "word": "内娱5搭cp营业了",
+      "onboard_time": 1735191378,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -755,6 +835,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200378,
+      "num": 219977,
+      "word": "整个馆只有俄罗斯人是原产",
+      "onboard_time": 1735192398,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198106,
+      "num": 247315,
+      "word": "葛夕留几手合作圣诞结",
+      "onboard_time": 1735193897,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194889,
       "num": 366076,
       "word": "千朵桃花一世开",
@@ -777,14 +873,6 @@
       "onboard_time": 1735191078,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192885,
-      "num": 192885,
-      "word": "孙阳 不知道啊说有吻戏我就来了",
-      "onboard_time": 1735190958,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 192489,
@@ -859,14 +947,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 173561,
-      "num": 173561,
-      "word": "俄罗斯美女吐槽俄罗斯商品馆",
-      "onboard_time": 1735190838,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "塔斯汀回应汉堡里吃出生肉",
@@ -923,12 +1003,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154509,
-      "num": 154509,
-      "word": "内娱5搭cp营业了",
-      "onboard_time": 1735191378,
+      "raw_hot": 157644,
+      "num": 157644,
+      "word": "平台回应网约司机投诉接不到女乘客",
+      "onboard_time": 1735192698,
       "rank": 40,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153883,
@@ -945,14 +1025,6 @@
       "onboard_time": 1735170736,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152153,
-      "num": 152153,
-      "word": "狗 晒个太阳怎么越晒越冷呢",
-      "onboard_time": 1735191378,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 148486,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1735189818,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141708,
+      "num": 141708,
+      "word": "麦琳把李行亮猜成杨子",
+      "onboard_time": 1735192518,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 140566,
@@ -1097,6 +1177,22 @@
       "onboard_time": 1735186098,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123145,
+      "num": 123145,
+      "word": "王祖蓝李亚男结婚十周年",
+      "onboard_time": 1735191919,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121390,
+      "num": 121390,
+      "word": "孟子义说宠物是自己选择的家人",
+      "onboard_time": 1735194018,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 120185,
@@ -1283,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90425,
+      "num": 238772,
+      "word": "怼怼年度报告",
+      "onboard_time": 1735194318,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90132,
       "num": 90132,
       "word": "王栎鑫带家人游玩迪拜",
@@ -1379,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79682,
+      "num": 458512,
+      "word": "没有真正的自发热内衣",
+      "onboard_time": 1735194199,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 74168,
       "num": 87300,
       "word": "付辛博颖儿把每天都过成情人节",
@@ -1401,6 +1513,14 @@
       "onboard_time": 1735186400,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67642,
+      "num": 206970,
+      "word": "齐思钧唐九洲何运晨曹恩齐聚餐合照",
+      "onboard_time": 1735191798,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 63360,
@@ -1435,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62286,
+      "num": 183606,
+      "word": "库里绝平三分",
+      "onboard_time": 1735194498,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61043,
       "num": 61043,
       "word": "一架客机在哈萨克斯坦坠毁",
@@ -1465,6 +1593,14 @@
       "onboard_time": 1735189220,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 50091,
+      "num": 246203,
+      "word": "鲁豫首次跨界翻译哈里王子自传",
+      "onboard_time": 1735194138,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49656,
@@ -1556,7 +1692,7 @@
     },
     {
       "raw_hot": 40615,
-      "num": 1119949,
+      "num": 1230536,
       "word": "文化中国行非遗过大年",
       "onboard_time": 1735185559,
       "rank": 2,
@@ -1627,12 +1763,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35745,
+      "num": 228933,
+      "word": "庄时利和 默沙东",
+      "onboard_time": 1735193597,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35601,
       "num": 82672,
       "word": "2024哪位运动员鼓舞了你",
       "onboard_time": 1735146135,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35420,
+      "num": 236885,
+      "word": "华晨宇说有10%可能就会去尝试",
+      "onboard_time": 1735194498,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 34681,
@@ -1771,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22436,
+      "num": 225706,
+      "word": "查流感病因可以用到家快检",
+      "onboard_time": 1735193658,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21108,
       "num": 485423,
       "word": "流感季如何开启超凡模式",
@@ -1841,6 +2001,14 @@
       "onboard_time": 1735147333,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 11816,
+      "num": 231327,
+      "word": "陈瑜一日圣诞厨师上线",
+      "onboard_time": 1735193719,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11771,

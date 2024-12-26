@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735191552243,
+  "endTime": 1735194688414,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -113,6 +113,14 @@
       "onboard_time": 1734839179,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1775935,
+      "num": 1775935,
+      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
+      "onboard_time": 1735192877,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1773942,
@@ -899,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 900178,
+      "num": 900178,
+      "word": "坏了让她读到真大学了",
+      "onboard_time": 1735192458,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 899383,
       "num": 899383,
       "word": "特朗普大笑称马斯克当不了总统",
@@ -1019,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 803462,
+      "num": 803462,
+      "word": "火箭少女101",
+      "onboard_time": 1735188860,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803227,
       "num": 690043,
       "word": "胡军演洪七公",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1734934398,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 774029,
-      "num": 774029,
-      "word": "火箭少女101",
-      "onboard_time": 1735188860,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 773751,
@@ -2139,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531486,
+      "num": 531486,
+      "word": "男子深夜扑倒女子抢袜子获刑6个月",
+      "onboard_time": 1735188200,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 531453,
       "num": 531453,
       "word": "上海地铁11号线乘客发声",
@@ -2441,6 +2465,14 @@
       "onboard_time": 1735179737,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464332,
+      "num": 464332,
+      "word": "杨子调侃黄圣依的名字",
+      "onboard_time": 1735191138,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 464073,
@@ -3083,6 +3115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 392113,
+      "num": 392113,
+      "word": "徐娇回应",
+      "onboard_time": 1735194257,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
@@ -3499,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352058,
+      "num": 352058,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351297,
       "num": 351297,
       "word": "失事客机上没有中国乘客",
@@ -3811,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 316510,
+      "num": 243658,
+      "word": "曾之乔圣诞晒孕肚",
+      "onboard_time": 1735192398,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316181,
       "num": 250906,
       "word": "王源新年礼物",
@@ -3937,6 +3993,14 @@
       "onboard_time": 1735098559,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309400,
+      "num": 309400,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1735193597,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 308071,
@@ -4187,6 +4251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 287002,
+      "num": 243095,
+      "word": "孙阳 不知道啊说有吻戏我就来了",
+      "onboard_time": 1735190958,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 286560,
       "num": 286560,
       "word": "北电同学谈丁程鑫",
@@ -4256,14 +4328,6 @@
       "word": "为被投毒小狗追凶的831天",
       "onboard_time": 1734924198,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279259,
-      "num": 279259,
-      "word": "男子深夜扑倒女子抢袜子获刑6个月",
-      "onboard_time": 1735188200,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -4483,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266595,
+      "num": 240454,
+      "word": "张若昀 没事都是自己人",
+      "onboard_time": 1735191558,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266031,
       "num": 266031,
       "word": "宁艺卓没有特别舞台",
@@ -4512,14 +4584,6 @@
       "word": "演员请就位第三季阵容",
       "onboard_time": 1734844938,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 263485,
-      "num": 263485,
-      "word": "杨子调侃黄圣依的名字",
-      "onboard_time": 1735191138,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -4969,6 +5033,14 @@
       "onboard_time": 1735189700,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237833,
+      "num": 237833,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 237675,
@@ -5433,6 +5505,14 @@
       "onboard_time": 1734921917,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218084,
+      "num": 218084,
+      "word": "内娱5搭cp营业了",
+      "onboard_time": 1735191378,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 217750,
@@ -6035,6 +6115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200378,
+      "num": 219977,
+      "word": "整个馆只有俄罗斯人是原产",
+      "onboard_time": 1735192398,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200372,
       "num": 200372,
       "word": "美股",
@@ -6161,6 +6249,14 @@
       "onboard_time": 1734841878,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 198106,
+      "num": 247315,
+      "word": "葛夕留几手合作圣诞结",
+      "onboard_time": 1735193897,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 198018,
@@ -6417,14 +6513,6 @@
       "onboard_time": 1735191078,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192885,
-      "num": 192885,
-      "word": "孙阳 不知道啊说有吻戏我就来了",
-      "onboard_time": 1735190958,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 192746,
@@ -7281,14 +7369,6 @@
       "onboard_time": 1735114277,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173561,
-      "num": 173561,
-      "word": "俄罗斯美女吐槽俄罗斯商品馆",
-      "onboard_time": 1735190838,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173544,
@@ -8203,6 +8283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157644,
+      "num": 157644,
+      "word": "平台回应网约司机投诉接不到女乘客",
+      "onboard_time": 1735192698,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157424,
       "num": 157424,
       "word": "李沁 把时间花在自己身上最稳",
@@ -8321,14 +8409,6 @@
       "onboard_time": 1734918797,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154509,
-      "num": 154509,
-      "word": "内娱5搭cp营业了",
-      "onboard_time": 1735191378,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 154373,
@@ -8481,14 +8561,6 @@
       "onboard_time": 1735170736,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152153,
-      "num": 152153,
-      "word": "狗 晒个太阳怎么越晒越冷呢",
-      "onboard_time": 1735191378,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 152133,
@@ -9096,6 +9168,14 @@
       "word": "SBS合作舞台",
       "onboard_time": 1734947777,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 141708,
+      "num": 141708,
+      "word": "麦琳把李行亮猜成杨子",
+      "onboard_time": 1735192518,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -10251,6 +10331,14 @@
       "category": "财经,情感"
     },
     {
+      "raw_hot": 123145,
+      "num": 123145,
+      "word": "王祖蓝李亚男结婚十周年",
+      "onboard_time": 1735191919,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123126,
       "num": 207188,
       "word": "全红婵哥哥回应蹭热度带货",
@@ -10321,6 +10409,14 @@
       "onboard_time": 1734941058,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121390,
+      "num": 121390,
+      "word": "孟子义说宠物是自己选择的家人",
+      "onboard_time": 1735194018,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 121121,
@@ -11923,6 +12019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90425,
+      "num": 238772,
+      "word": "怼怼年度报告",
+      "onboard_time": 1735194318,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90252,
       "num": 90252,
       "word": "王嘉尔发GOT7合照",
@@ -12313,6 +12417,14 @@
       "onboard_time": 1734794179,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79682,
+      "num": 458512,
+      "word": "没有真正的自发热内衣",
+      "onboard_time": 1735194199,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 79513,
@@ -12867,6 +12979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67642,
+      "num": 206970,
+      "word": "齐思钧唐九洲何运晨曹恩齐聚餐合照",
+      "onboard_time": 1735191798,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67470,
       "num": 67470,
       "word": "猎罪图鉴 好哭",
@@ -13145,6 +13265,14 @@
       "onboard_time": 1735182616,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 62286,
+      "num": 183606,
+      "word": "库里绝平三分",
+      "onboard_time": 1735194498,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 62201,
@@ -13827,6 +13955,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 50091,
+      "num": 246203,
+      "word": "鲁豫首次跨界翻译哈里王子自传",
+      "onboard_time": 1735194138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50043,
       "num": 183338,
       "word": "千朵桃花一世开欲哥配妹宝",
@@ -14476,7 +14612,7 @@
     },
     {
       "raw_hot": 40615,
-      "num": 1119949,
+      "num": 1230536,
       "word": "文化中国行非遗过大年",
       "onboard_time": 1735185559,
       "rank": 2,
@@ -14867,6 +15003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 35745,
+      "num": 228933,
+      "word": "庄时利和 默沙东",
+      "onboard_time": 1735193597,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35732,
       "num": 332338,
       "word": "走出考场那一刻感觉像做梦一样",
@@ -14913,6 +15057,14 @@
       "onboard_time": 1734982151,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 35420,
+      "num": 236885,
+      "word": "华晨宇说有10%可能就会去尝试",
+      "onboard_time": 1735194498,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 34901,
@@ -15859,6 +16011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22436,
+      "num": 225706,
+      "word": "查流感病因可以用到家快检",
+      "onboard_time": 1735193658,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22379,
       "num": 328718,
       "word": "智界7妙派对夜大有可玩",
@@ -16449,6 +16609,14 @@
       "onboard_time": 1734859338,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 11816,
+      "num": 231327,
+      "word": "陈瑜一日圣诞厨师上线",
+      "onboard_time": 1735193719,
+      "rank": 27,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11790,
