@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735204983123,
+  "endTime": 1735205796058,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 1619283,
-      "num": 1155461,
+      "num": 1218949,
       "word": "曝宝石老舅醉酒打架被警方拘留",
       "onboard_time": 1735198579,
       "rank": 3,
@@ -4979,6 +4979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 989493,
+      "num": 989493,
+      "word": "徐娇被告知长沙室内不禁烟",
+      "onboard_time": 1735200798,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989427,
       "num": 989427,
       "word": "猎罪图鉴3",
@@ -6713,14 +6721,6 @@
       "onboard_time": 1733138239,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 836689,
-      "num": 588346,
-      "word": "徐娇被告知长沙室内不禁烟",
-      "onboard_time": 1735200798,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 836377,
@@ -9049,6 +9049,14 @@
       "onboard_time": 1733389098,
       "rank": 7,
       "category": "网红,体育"
+    },
+    {
+      "raw_hot": 690355,
+      "num": 402321,
+      "word": "葛夕留几手没有离婚",
+      "onboard_time": 1735203738,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 689953,
@@ -12977,14 +12985,6 @@
       "onboard_time": 1733219300,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535852,
-      "num": 402321,
-      "word": "葛夕留几手没有离婚",
-      "onboard_time": 1735203738,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 535592,
@@ -18155,6 +18155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401765,
+      "num": 401765,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401661,
       "num": 401661,
       "word": "樊振东球迷会发声明",
@@ -18576,14 +18584,6 @@
       "word": "李昀锐是孟子义一级铁粉",
       "onboard_time": 1733820439,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 394558,
-      "num": 394558,
-      "word": "鱿鱼游戏 孔刘",
-      "onboard_time": 1735200859,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -20731,6 +20731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351656,
+      "num": 212333,
+      "word": "Angelababy与中华白海豚vlog",
+      "onboard_time": 1735203679,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351626,
       "num": 351626,
       "word": "1999年澳门回归新闻报道影像",
@@ -21313,14 +21321,6 @@
       "onboard_time": 1733134519,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 340699,
-      "num": 212333,
-      "word": "Angelababy与中华白海豚vlog",
-      "onboard_time": 1735203679,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 340203,
@@ -28243,6 +28243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245539,
+      "num": 996929,
+      "word": "下水道里抽出很多鲶鱼",
+      "onboard_time": 1735203618,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245441,
       "num": 245441,
       "word": "海底捞虾滑事件",
@@ -31475,14 +31483,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 220446,
-      "num": 220446,
-      "word": "下水道里抽出很多鲶鱼",
-      "onboard_time": 1735203618,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220428,
       "num": 691675,
       "word": "十个勤天全员加盟2024尖叫之夜",
@@ -31977,6 +31977,14 @@
       "onboard_time": 1735099278,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216665,
+      "num": 216665,
+      "word": "GDP",
+      "onboard_time": 1735204998,
+      "rank": 13,
+      "category": "财经"
     },
     {
       "raw_hot": 216585,
@@ -39851,6 +39859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187188,
+      "num": 408707,
+      "word": "滞留太空美宇航员圣诞节照片引质疑",
+      "onboard_time": 1735202478,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 187187,
       "num": 133732,
       "word": "追风者爱奇艺年度观众喜爱剧集",
@@ -40265,6 +40281,14 @@
       "onboard_time": 1733530158,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185829,
+      "num": 185829,
+      "word": "一人用7天无理由退货诈骗200多万",
+      "onboard_time": 1735204879,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185819,
@@ -43385,14 +43409,6 @@
       "onboard_time": 1734843858,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 172677,
-      "num": 172677,
-      "word": "滞留太空美宇航员圣诞节照片引质疑",
-      "onboard_time": 1735202478,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172662,
@@ -49947,6 +49963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152530,
+      "num": 152530,
+      "word": "麦琳说看到了自己对李行亮的伤害",
+      "onboard_time": 1735204998,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152509,
       "num": 152509,
       "word": "考个研到底还能闹出多少笑话",
@@ -52848,6 +52872,14 @@
       "word": "刘宇宁直播",
       "onboard_time": 1734179600,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143386,
+      "num": 143386,
+      "word": "李川得知少爷和我火了遛了4小时狗",
+      "onboard_time": 1735205179,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -56219,6 +56251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133260,
+      "num": 280350,
+      "word": "男童走失监控最后画面为去邻居家玩",
+      "onboard_time": 1735204640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133250,
       "num": 133250,
       "word": "许嵩 我希望你们快乐不想你们辛苦",
@@ -56321,14 +56361,6 @@
       "onboard_time": 1734950778,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132861,
-      "num": 132861,
-      "word": "一人用7天无理由退货诈骗200多万",
-      "onboard_time": 1735204879,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132840,
@@ -56675,6 +56707,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 131696,
+      "num": 212907,
+      "word": "报告称近三成有房者仍选择租房",
+      "onboard_time": 1735204339,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131693,
       "num": 238465,
       "word": "考研第一天的图书馆空了",
@@ -56705,6 +56745,14 @@
       "onboard_time": 1733065940,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131637,
+      "num": 200523,
+      "word": "当地回应近百只猫在水塘中被溺死",
+      "onboard_time": 1735204158,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131636,
@@ -56787,8 +56835,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 131396,
-      "num": 131396,
+      "raw_hot": 131452,
+      "num": 131452,
       "word": "男子用35个网购账号买真退假",
       "onboard_time": 1735204819,
       "rank": 47,
@@ -57737,14 +57785,6 @@
       "onboard_time": 1735117998,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 128362,
-      "num": 200523,
-      "word": "当地回应近百只猫在水塘中被溺死",
-      "onboard_time": 1735204158,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128310,
@@ -63083,6 +63123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110213,
+      "num": 439026,
+      "word": "多家俄罗斯商品馆开始整改",
+      "onboard_time": 1735203857,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110201,
       "num": 409907,
       "word": "作业熔断别变成自己糊弄自己",
@@ -64105,6 +64153,14 @@
       "onboard_time": 1735109299,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106656,
+      "num": 106656,
+      "word": "英超圣诞大战",
+      "onboard_time": 1735205719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106617,
@@ -69019,6 +69075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84187,
+      "num": 142503,
+      "word": "宝石老舅上周行程",
+      "onboard_time": 1735205658,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84164,
       "num": 225091,
       "word": "2025个税专项附加扣除信息确认开始",
@@ -70913,14 +70977,6 @@
       "onboard_time": 1734101421,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75553,
-      "num": 439026,
-      "word": "多家俄罗斯商品馆开始整改",
-      "onboard_time": 1735203857,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75507,
@@ -75323,6 +75379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57232,
+      "num": 213509,
+      "word": "电影小小的我表情包",
+      "onboard_time": 1735204819,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57214,
       "num": 709161,
       "word": "琼瑶曾说爱情是生命的主宰",
@@ -76057,14 +76121,6 @@
       "onboard_time": 1733113280,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54623,
-      "num": 280350,
-      "word": "男童走失监控最后画面为去邻居家玩",
-      "onboard_time": 1735204640,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54615,
@@ -76913,6 +76969,14 @@
       "onboard_time": 1733206760,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 52011,
+      "num": 161516,
+      "word": "韩女在上海怎么拍",
+      "onboard_time": 1735204578,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 52010,
@@ -80323,14 +80387,6 @@
       "category": "音乐,演出"
     },
     {
-      "raw_hot": 41692,
-      "num": 213509,
-      "word": "电影小小的我表情包",
-      "onboard_time": 1735204819,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 41653,
       "num": 382799,
       "word": "国企拍得砂场层层转包承包商超采被捕",
@@ -80369,14 +80425,6 @@
       "onboard_time": 1733868851,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41513,
-      "num": 212907,
-      "word": "报告称近三成有房者仍选择租房",
-      "onboard_time": 1735204339,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41499,
@@ -82051,14 +82099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37196,
-      "num": 161516,
-      "word": "韩女在上海怎么拍",
-      "onboard_time": 1735204578,
-      "rank": 39,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 37190,
       "num": 180884,
       "word": "加拿大从民间收缴枪支捐给乌克兰",
@@ -82211,6 +82251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36837,
+      "num": 201082,
+      "word": "在哪儿学习效率最高",
+      "onboard_time": 1735205119,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36831,
       "num": 274434,
       "word": "郑钦文今年大赛积分第五",
@@ -82345,6 +82393,14 @@
       "onboard_time": 1734085998,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 36539,
+      "num": 1489466,
+      "word": "中国载人深潜能力拓展到全球海域",
+      "onboard_time": 1735204758,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36496,
@@ -86171,6 +86227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 27193,
+      "num": 211098,
+      "word": "撒贝宁感慨要好好吃饭好好陪伴",
+      "onboard_time": 1735204038,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27190,
       "num": 29232,
       "word": "下一秒的事留给下一秒的自己吧",
@@ -86321,14 +86385,6 @@
       "onboard_time": 1733128459,
       "rank": 39,
       "category": "作品衍生,汽车"
-    },
-    {
-      "raw_hot": 26797,
-      "num": 211098,
-      "word": "撒贝宁感慨要好好吃饭好好陪伴",
-      "onboard_time": 1735204038,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 26796,
@@ -88587,6 +88643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 20586,
+      "num": 209853,
+      "word": "Uzi说一加Ace5YYDS",
+      "onboard_time": 1735203523,
+      "rank": 24,
+      "category": "电竞,数码"
+    },
+    {
       "raw_hot": 20582,
       "num": 187076,
       "word": "安东尼奥目前情况稳定",
@@ -89257,14 +89321,6 @@
       "onboard_time": 1733392340,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 209853,
-      "word": "Uzi说一加Ace5YYDS",
-      "onboard_time": 1735203523,
-      "rank": 24,
-      "category": "电竞,数码"
     },
     {
       "raw_hot": 18668,
@@ -90417,6 +90473,14 @@
       "onboard_time": 1734988992,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 15802,
+      "num": 1270926,
+      "word": "春晚都去西藏了我也要去",
+      "onboard_time": 1735205300,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 15799,
@@ -92091,14 +92155,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 10968,
-      "num": 1489466,
-      "word": "中国载人深潜能力拓展到全球海域",
-      "onboard_time": 1735204758,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10955,
       "num": 13817,
       "word": "国旗下的薪火代代传",
@@ -92897,6 +92953,14 @@
       "onboard_time": 1733418973,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7300,
+      "num": 131635,
+      "word": "2025元能买多少东西",
+      "onboard_time": 1735205179,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 7294,
