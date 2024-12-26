@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735252685671,
+  "endTime": 1735255268688,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 660961,
-      "num": 660961,
+      "raw_hot": 728257,
+      "num": 810965,
       "word": "有部分俄罗斯商品馆开始撤店",
       "onboard_time": 1735226298,
       "rank": 1,
@@ -49,6 +49,14 @@
       "onboard_time": 1735223480,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458174,
+      "num": 458174,
+      "word": "靠无理由退货0成本骗了200万的商品",
+      "onboard_time": 1735239552,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444765,
@@ -155,12 +163,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 179943,
-      "num": 179943,
-      "word": "靠无理由退货0成本骗了200万的商品",
-      "onboard_time": 1735239552,
-      "rank": 9,
+      "raw_hot": 164860,
+      "num": 164860,
+      "word": "网传近百只猫在水塘中被溺死",
+      "onboard_time": 1735244531,
+      "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160610,
+      "num": 160610,
+      "word": "国防时报晒银杏叶",
+      "onboard_time": 1735232356,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 156947,
@@ -211,6 +227,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129381,
+      "num": 129381,
+      "word": "杨子说的女明星是谁",
+      "onboard_time": 1735215979,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122581,
+      "num": 122581,
+      "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
+      "onboard_time": 1735247291,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120000,
       "num": 120000,
       "word": "女子鼻子整了7次如今鼻梁成C形",
@@ -249,6 +281,14 @@
       "onboard_time": 1735226957,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110011,
+      "num": 110011,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 107957,
@@ -331,28 +371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 92011,
-      "num": 70062,
-      "word": "国防时报晒银杏叶",
-      "onboard_time": 1735232356,
-      "rank": 30,
-      "category": "军事"
-    },
-    {
       "raw_hot": 91811,
       "num": 67525,
       "word": "郑思维受伤",
       "onboard_time": 1735232356,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88046,
-      "num": 88046,
-      "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
-      "onboard_time": 1735247291,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87986,
@@ -395,6 +419,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 77845,
+      "num": 77845,
+      "word": "王安宇 我上去就是一把糯米",
+      "onboard_time": 1735215859,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76041,
       "num": 76041,
       "word": "男子抢手机扔烟头或涉嫌寻衅滋事",
@@ -427,24 +459,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70643,
-      "num": 70643,
-      "word": "网传近百只猫在水塘中被溺死",
-      "onboard_time": 1735244531,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61105,
-      "num": 61105,
-      "word": "王安宇 我上去就是一把糯米",
-      "onboard_time": 1735215859,
-      "rank": 44,
+      "raw_hot": 65126,
+      "num": 63328,
+      "word": "曾志伟不催婚曾宝仪",
+      "onboard_time": 1735252573,
+      "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 59793,
-      "num": 59793,
+      "raw_hot": 60616,
+      "num": 60616,
       "word": "娃哈哈奶茶店有时1天1张单都没有",
       "onboard_time": 1735206980,
       "rank": 45,
@@ -483,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53241,
+      "num": 53241,
+      "word": "男子网购显卡用塑料玩具退货骗钱",
+      "onboard_time": 1735252933,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53043,
+      "num": 78386,
+      "word": "河南桑坡村代购和打假标语并存",
+      "onboard_time": 1735251672,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51044,
       "num": 105946,
       "word": "费曼晒吴镇宇丑照",
@@ -499,16 +539,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48999,
-      "num": 48999,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 46020,
+      "num": 46020,
+      "word": "多方回应广东两姐妹遭杀害传言",
+      "onboard_time": 1735226359,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
-      "raw_hot": 43077,
-      "num": 43077,
+      "raw_hot": 43760,
+      "num": 43760,
       "word": "我国自主研制新型发动机成功测试飞行",
       "onboard_time": 1735237813,
       "rank": 29,
@@ -523,6 +563,46 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42041,
+      "num": 50862,
+      "word": "遭性侵被开除女子将申请劳动仲裁",
+      "onboard_time": 1735240331,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 41867,
+      "num": 41867,
+      "word": "大奉打更人剧评",
+      "onboard_time": 1735213698,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41407,
+      "num": 160842,
+      "word": "宝石老舅微博今日仍有更新",
+      "onboard_time": 1735254374,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40408,
+      "num": 40408,
+      "word": "俞灏明王晓晨聚餐后一起回家",
+      "onboard_time": 1735222100,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39708,
+      "num": 39708,
+      "word": "期待2025",
+      "onboard_time": 1735255154,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 37579,
       "num": 490676,
       "word": "中国一年194个世界冠军",
@@ -531,12 +611,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30888,
-      "num": 30888,
+      "raw_hot": 36677,
+      "num": 36677,
       "word": "莫桑比克1500多名囚犯袭警夺枪越狱",
       "onboard_time": 1735243150,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36049,
+      "num": 36049,
+      "word": "TOP演技",
+      "onboard_time": 1735208599,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 35919,
+      "num": 79925,
+      "word": "2024年国际十佳运动员",
+      "onboard_time": 1735254374,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 30338,
@@ -545,14 +641,6 @@
       "onboard_time": 1735242071,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29946,
-      "num": 29946,
-      "word": "多方回应广东两姐妹遭杀害传言",
-      "onboard_time": 1735226359,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 26672,
@@ -577,22 +665,6 @@
       "onboard_time": 1735247051,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 25076,
-      "num": 50862,
-      "word": "遭性侵被开除女子将申请劳动仲裁",
-      "onboard_time": 1735240331,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 24404,
-      "num": 26211,
-      "word": "大奉打更人剧评",
-      "onboard_time": 1735213698,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 23436,
@@ -635,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18544,
-      "num": 25171,
-      "word": "曾志伟不催婚曾宝仪",
-      "onboard_time": 1735252573,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18209,
       "num": 19366,
       "word": "送2024的自己一朵小红花",
@@ -657,14 +721,6 @@
       "onboard_time": 1735237152,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 16633,
-      "num": 78386,
-      "word": "河南桑坡村代购和打假标语并存",
-      "onboard_time": 1735251672,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11129,
