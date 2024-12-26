@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735255268688,
+  "endTime": 1735256133081,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 869807,
+      "num": 934238,
+      "word": "有部分俄罗斯商品馆开始撤店",
+      "onboard_time": 1735226298,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 749252,
       "num": 351600,
       "word": "葛夕说离婚也给留几手养老",
@@ -27,12 +35,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 728257,
-      "num": 810965,
-      "word": "有部分俄罗斯商品馆开始撤店",
-      "onboard_time": 1735226298,
-      "rank": 1,
-      "category": "国际时政"
+      "raw_hot": 562082,
+      "num": 562082,
+      "word": "靠无理由退货0成本骗了200万的商品",
+      "onboard_time": 1735239552,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544789,
+      "num": 544789,
+      "word": "宝石老舅道歉",
+      "onboard_time": 1735255576,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 476363,
@@ -49,14 +65,6 @@
       "onboard_time": 1735223480,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 458174,
-      "num": 458174,
-      "word": "靠无理由退货0成本骗了200万的商品",
-      "onboard_time": 1735239552,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 444765,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289915,
+      "num": 184295,
+      "word": "宝石老舅称已接受行政处罚",
+      "onboard_time": 1735255275,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234147,
       "num": 120282,
       "word": "狗仔回应白敬亭宋轶感情近况",
@@ -163,16 +179,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 164860,
-      "num": 164860,
+      "raw_hot": 194765,
+      "num": 194765,
       "word": "网传近百只猫在水塘中被溺死",
       "onboard_time": 1735244531,
       "rank": 29,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160610,
-      "num": 160610,
+      "raw_hot": 170640,
+      "num": 170640,
       "word": "国防时报晒银杏叶",
       "onboard_time": 1735232356,
       "rank": 30,
@@ -185,6 +201,14 @@
       "onboard_time": 1735222880,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153559,
+      "num": 153559,
+      "word": "杨子说的女明星是谁",
+      "onboard_time": 1735215979,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 146968,
@@ -227,20 +251,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 129381,
-      "num": 129381,
-      "word": "杨子说的女明星是谁",
-      "onboard_time": 1735215979,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122581,
-      "num": 122581,
+      "raw_hot": 130827,
+      "num": 130827,
       "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
       "onboard_time": 1735247291,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127878,
+      "num": 127878,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120000,
@@ -281,14 +305,6 @@
       "onboard_time": 1735226957,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110011,
-      "num": 110011,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 107957,
@@ -411,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82576,
+      "num": 82576,
+      "word": "王安宇 我上去就是一把糯米",
+      "onboard_time": 1735215859,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79787,
       "num": 79787,
       "word": "在外滩听到韩语概率超上海话",
@@ -419,11 +443,19 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 77845,
-      "num": 77845,
-      "word": "王安宇 我上去就是一把糯米",
-      "onboard_time": 1735215859,
-      "rank": 44,
+      "raw_hot": 79411,
+      "num": 160842,
+      "word": "宝石老舅微博今日仍有更新",
+      "onboard_time": 1735254374,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 78966,
+      "num": 78966,
+      "word": "谢霆锋带家人日本度假",
+      "onboard_time": 1735220599,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -443,12 +475,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74258,
-      "num": 74258,
-      "word": "谢霆锋带家人日本度假",
-      "onboard_time": 1735220599,
-      "rank": 45,
+      "raw_hot": 72453,
+      "num": 63385,
+      "word": "曾志伟不催婚曾宝仪",
+      "onboard_time": 1735252573,
+      "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71679,
+      "num": 63121,
+      "word": "bss",
+      "onboard_time": 1735255275,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 71478,
@@ -459,20 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65126,
-      "num": 63328,
-      "word": "曾志伟不催婚曾宝仪",
-      "onboard_time": 1735252573,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 60616,
-      "num": 60616,
+      "raw_hot": 64060,
+      "num": 64060,
       "word": "娃哈哈奶茶店有时1天1张单都没有",
       "onboard_time": 1735206980,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60976,
+      "num": 60976,
+      "word": "遭性侵被开除女子将申请劳动仲裁",
+      "onboard_time": 1735240331,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 58187,
+      "num": 58187,
+      "word": "期待2025",
+      "onboard_time": 1735255154,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 57401,
@@ -507,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53398,
+      "num": 53398,
+      "word": "我国自主研制新型发动机成功测试飞行",
+      "onboard_time": 1735237813,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53241,
       "num": 53241,
       "word": "男子网购显卡用塑料玩具退货骗钱",
@@ -531,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50147,
+      "num": 50147,
+      "word": "王俊凯预告新歌",
+      "onboard_time": 1735255995,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 49501,
       "num": 87880,
       "word": "狼队vs曼联",
@@ -539,20 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46020,
-      "num": 46020,
+      "raw_hot": 47922,
+      "num": 47922,
       "word": "多方回应广东两姐妹遭杀害传言",
       "onboard_time": 1735226359,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 43760,
-      "num": 43760,
-      "word": "我国自主研制新型发动机成功测试飞行",
-      "onboard_time": 1735237813,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 42252,
@@ -563,28 +619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42041,
-      "num": 50862,
-      "word": "遭性侵被开除女子将申请劳动仲裁",
-      "onboard_time": 1735240331,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 41867,
       "num": 41867,
       "word": "大奉打更人剧评",
       "onboard_time": 1735213698,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41407,
-      "num": 160842,
-      "word": "宝石老舅微博今日仍有更新",
-      "onboard_time": 1735254374,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 40408,
@@ -595,16 +635,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39708,
-      "num": 39708,
-      "word": "期待2025",
-      "onboard_time": 1735255154,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 37579,
-      "num": 490676,
+      "num": 550980,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
@@ -723,6 +755,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 11186,
+      "num": 186283,
+      "word": "郝宏军一审被判无期",
+      "onboard_time": 1735254134,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11129,
       "num": 15353,
       "word": "志合越山海",
@@ -736,6 +776,14 @@
       "word": "女子花数万修复鼻孔结果鼻梁被弄歪",
       "onboard_time": 1735234273,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9871,
+      "num": 61388,
+      "word": "全国高铁运营里程约4.7万公里",
+      "onboard_time": 1735255995,
+      "rank": 33,
       "category": "民生新闻"
     },
     {

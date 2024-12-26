@@ -1,0 +1,410 @@
+{
+  "runTime": 1735256133081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869807,
+        "num": 934238,
+        "word": "有部分俄罗斯商品馆开始撤店",
+        "onboard_time": 1735226298,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 562082,
+        "num": 562082,
+        "word": "靠无理由退货0成本骗了200万的商品",
+        "onboard_time": 1735239552,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33769,
+        "num": 550980,
+        "word": "中国一年194个世界冠军",
+        "onboard_time": 1735225040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544789,
+        "num": 544789,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447184,
+        "num": 447184,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226506,
+        "num": 226506,
+        "word": "男子贷款15万后去世银行要求罚息",
+        "onboard_time": 1735215800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374632,
+        "num": 220055,
+        "word": "葛夕说离婚也给留几手养老",
+        "onboard_time": 1735226179,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357641,
+        "num": 211379,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194765,
+        "num": 194765,
+        "word": "网传近百只猫在水塘中被溺死",
+        "onboard_time": 1735244531,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11186,
+        "num": 186283,
+        "word": "郝宏军一审被判无期",
+        "onboard_time": 1735254134,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327997,
+        "num": 185160,
+        "word": "李嘉琦 要不你单身呢",
+        "onboard_time": 1735223480,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289915,
+        "num": 184295,
+        "word": "宝石老舅称已接受行政处罚",
+        "onboard_time": 1735255275,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183152,
+        "num": 183152,
+        "word": "徐娇劝阻抽烟餐厅人均103元",
+        "onboard_time": 1735231216,
+        "rank": 12,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 178414,
+        "num": 178414,
+        "word": "上海挤满了周五下班的韩国人",
+        "onboard_time": 1735212738,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 170640,
+        "num": 170640,
+        "word": "国防时报晒银杏叶",
+        "onboard_time": 1735232356,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 154867,
+        "num": 154867,
+        "word": "复旦教授呼吁年轻人不要抱怨",
+        "onboard_time": 1735222100,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153559,
+        "num": 153559,
+        "word": "杨子说的女明星是谁",
+        "onboard_time": 1735215979,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136952,
+        "num": 136952,
+        "word": "女大学生借钱追星被大粉骗走2万多",
+        "onboard_time": 1735223480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130827,
+        "num": 130827,
+        "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
+        "onboard_time": 1735247291,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129608,
+        "num": 129608,
+        "word": "中方坚决反对美在菲律宾部署中导",
+        "onboard_time": 1735226779,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644576,
+        "num": 129244,
+        "word": "王俊凯",
+        "onboard_time": 1735229118,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127878,
+        "num": 127878,
+        "word": "赵丽颖 我选择让生命有价值",
+        "onboard_time": 1735236313,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 101337,
+        "word": "57岁王祖贤自拍照",
+        "onboard_time": 1735218920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97468,
+        "num": 97468,
+        "word": "猎罪图鉴1编剧",
+        "onboard_time": 1735225879,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91011,
+        "num": 91011,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82576,
+        "num": 82576,
+        "word": "王安宇 我上去就是一把糯米",
+        "onboard_time": 1735215859,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79411,
+        "num": 79411,
+        "word": "宝石老舅微博今日仍有更新",
+        "onboard_time": 1735254374,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78966,
+        "num": 78966,
+        "word": "谢霆锋带家人日本度假",
+        "onboard_time": 1735220599,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73230,
+        "num": 73230,
+        "word": "丁禹兮银发挑染造型路透",
+        "onboard_time": 1735225579,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64060,
+        "num": 64060,
+        "word": "娃哈哈奶茶店有时1天1张单都没有",
+        "onboard_time": 1735206980,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72453,
+        "num": 63385,
+        "word": "曾志伟不催婚曾宝仪",
+        "onboard_time": 1735252573,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71679,
+        "num": 63121,
+        "word": "bss",
+        "onboard_time": 1735255275,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62005,
+        "num": 62005,
+        "word": "伊能静一家英国过圣诞",
+        "onboard_time": 1735223660,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9871,
+        "num": 61388,
+        "word": "全国高铁运营里程约4.7万公里",
+        "onboard_time": 1735255995,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 61375,
+        "word": "胡塞武装强势回应内塔尼亚胡威胁",
+        "onboard_time": 1735228159,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61657,
+        "num": 61236,
+        "word": "狗仔回应白敬亭宋轶感情近况",
+        "onboard_time": 1735218920,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61088,
+        "num": 61088,
+        "word": "郑思维受伤",
+        "onboard_time": 1735232356,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60976,
+        "num": 60976,
+        "word": "遭性侵被开除女子将申请劳动仲裁",
+        "onboard_time": 1735240331,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58187,
+        "num": 58187,
+        "word": "期待2025",
+        "onboard_time": 1735255154,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54953,
+        "num": 54953,
+        "word": "获利180元被罚10万卖羊肉老太发声",
+        "onboard_time": 1735210039,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54246,
+        "num": 54246,
+        "word": "鱿鱼游戏3",
+        "onboard_time": 1735227198,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53562,
+        "num": 53562,
+        "word": "赵丽颖谈女性可以多么有光芒",
+        "onboard_time": 1735221019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53398,
+        "num": 53398,
+        "word": "我国自主研制新型发动机成功测试飞行",
+        "onboard_time": 1735237813,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52305,
+        "num": 52305,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 51425,
+        "num": 51425,
+        "word": "中国军队将与大家一起笃定前行",
+        "onboard_time": 1735223360,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 50147,
+        "num": 50147,
+        "word": "王俊凯预告新歌",
+        "onboard_time": 1735255995,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47922,
+        "num": 47922,
+        "word": "多方回应广东两姐妹遭杀害传言",
+        "onboard_time": 1735226359,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 46011,
+        "num": 46011,
+        "word": "河南桑坡村代购和打假标语并存",
+        "onboard_time": 1735251672,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45219,
+        "num": 45219,
+        "word": "管理方回应巨型圣诞树被烧只剩骨架",
+        "onboard_time": 1735233074,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44059,
+        "num": 44059,
+        "word": "男子网购显卡用塑料玩具退货骗钱",
+        "onboard_time": 1735252933,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}
