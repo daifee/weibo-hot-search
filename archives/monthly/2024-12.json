@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735237781856,
+  "endTime": 1735238563288,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -83051,6 +83051,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38162,
+      "num": 34181,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 38158,
       "num": 51309,
       "word": "薛之谦读信",
@@ -85033,14 +85041,6 @@
       "onboard_time": 1733224040,
       "rank": 15,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 33207,
-      "num": 33207,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33192,
@@ -88955,6 +88955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23436,
+      "num": 24072,
+      "word": "歌谣大战",
+      "onboard_time": 1735237932,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23433,
       "num": 221319,
       "word": "和毛利兰一起过圣诞节",
@@ -89323,6 +89331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22480,
+      "num": 24069,
+      "word": "straykids圣诞祝福",
+      "onboard_time": 1735238290,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22471,
       "num": 432727,
       "word": "有店家卖过期食品做宠物饲料",
@@ -89417,6 +89433,14 @@
       "onboard_time": 1735066932,
       "rank": 25,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 22281,
+      "num": 30252,
+      "word": "我国自主研制新型发动机成功测试飞行",
+      "onboard_time": 1735237813,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22279,
@@ -89737,6 +89761,14 @@
       "onboard_time": 1734546012,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21557,
+      "num": 24068,
+      "word": "东方跨年第四波阵容官宣",
+      "onboard_time": 1735237813,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 21553,
@@ -91227,6 +91259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 17247,
+      "num": 85449,
+      "word": "公共场所禁烟不仅靠他律也靠自律",
+      "onboard_time": 1735237152,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17244,
       "num": 337668,
       "word": "国乒10连胜",
@@ -91737,14 +91777,6 @@
       "onboard_time": 1733216959,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 16073,
-      "num": 85449,
-      "word": "公共场所禁烟不仅靠他律也靠自律",
-      "onboard_time": 1735237152,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 16065,

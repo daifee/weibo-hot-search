@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735237781856,
+  "endTime": 1735238563288,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -483,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38162,
+      "num": 34181,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37579,
       "num": 490676,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33207,
-      "num": 33207,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 26213,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23436,
+      "num": 24072,
+      "word": "歌谣大战",
+      "onboard_time": 1735237932,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23314,
       "num": 26211,
       "word": "鱿鱼游戏2节奏",
@@ -531,7 +539,31 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16073,
+      "raw_hot": 22480,
+      "num": 24069,
+      "word": "straykids圣诞祝福",
+      "onboard_time": 1735238290,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22281,
+      "num": 30252,
+      "word": "我国自主研制新型发动机成功测试飞行",
+      "onboard_time": 1735237813,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 21557,
+      "num": 24068,
+      "word": "东方跨年第四波阵容官宣",
+      "onboard_time": 1735237813,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17247,
       "num": 85449,
       "word": "公共场所禁烟不仅靠他律也靠自律",
       "onboard_time": 1735237152,

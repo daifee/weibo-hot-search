@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735237781856,
+  "endTime": 1735238563288,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -16707,6 +16707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 38162,
+      "num": 34181,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37965,
       "num": 275434,
       "word": "误杀3新浪扫楼",
@@ -17177,14 +17185,6 @@
       "onboard_time": 1734988030,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33207,
-      "num": 33207,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33192,
@@ -18051,6 +18051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23436,
+      "num": 24072,
+      "word": "歌谣大战",
+      "onboard_time": 1735237932,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 23433,
       "num": 221319,
       "word": "和毛利兰一起过圣诞节",
@@ -18147,6 +18155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22480,
+      "num": 24069,
+      "word": "straykids圣诞祝福",
+      "onboard_time": 1735238290,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22379,
       "num": 328718,
       "word": "智界7妙派对夜大有可玩",
@@ -18169,6 +18185,14 @@
       "onboard_time": 1735066932,
       "rank": 25,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 22281,
+      "num": 30252,
+      "word": "我国自主研制新型发动机成功测试飞行",
+      "onboard_time": 1735237813,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22260,
@@ -18233,6 +18257,14 @@
       "onboard_time": 1735064951,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21557,
+      "num": 24068,
+      "word": "东方跨年第四波阵容官宣",
+      "onboard_time": 1735237813,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 21469,
@@ -18515,6 +18547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17247,
+      "num": 85449,
+      "word": "公共场所禁烟不仅靠他律也靠自律",
+      "onboard_time": 1735237152,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 17149,
       "num": 178043,
       "word": "AL晋级德杯四强",
@@ -18609,14 +18649,6 @@
       "onboard_time": 1734851839,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 16073,
-      "num": 85449,
-      "word": "公共场所禁烟不仅靠他律也靠自律",
-      "onboard_time": 1735237152,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 16021,
