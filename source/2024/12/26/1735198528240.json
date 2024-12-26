@@ -1,0 +1,410 @@
+{
+  "runTime": 1735198528240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2325117,
+        "num": 2325117,
+        "word": "抽烟男子称徐娇删除视频就会道歉",
+        "onboard_time": 1735196839,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 967960,
+        "num": 967960,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27198,
+        "num": 854076,
+        "word": "文化中国行非遗过大年",
+        "onboard_time": 1735185559,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 793530,
+        "num": 793530,
+        "word": "坏了让她读到真大学了",
+        "onboard_time": 1735192458,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 581215,
+        "num": 581215,
+        "word": "韩国月子中心的月子餐",
+        "onboard_time": 1735193597,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1292824,
+        "num": 579011,
+        "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
+        "onboard_time": 1735192877,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534540,
+        "num": 534540,
+        "word": "700万大平层漏风两年没解决",
+        "onboard_time": 1735196477,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475828,
+        "num": 475828,
+        "word": "刘强东官宣全员加薪",
+        "onboard_time": 1735197017,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 388628,
+        "num": 388628,
+        "word": "葛夕留几手合作圣诞结",
+        "onboard_time": 1735193897,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317558,
+        "num": 317558,
+        "word": "第5次全国经济普查结果公布",
+        "onboard_time": 1735197437,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565825,
+        "num": 317131,
+        "word": "将亡妻金镯熔给新伴侣换首饰后续",
+        "onboard_time": 1735187238,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47456,
+        "num": 313361,
+        "word": "商家称俄罗斯商品馆3个月回本",
+        "onboard_time": 1735197858,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218875,
+        "num": 311362,
+        "word": "200克金条被随手扔了2天后才想起",
+        "onboard_time": 1735197138,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136355,
+        "num": 310482,
+        "word": "一加发布会",
+        "onboard_time": 1735196539,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25363,
+        "num": 306848,
+        "word": "哪些化妆工具没有必要买",
+        "onboard_time": 1735196718,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368104,
+        "num": 305967,
+        "word": "苏敏十六万全款拿下离婚",
+        "onboard_time": 1735196718,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304377,
+        "num": 304377,
+        "word": "整个馆只有俄罗斯人是原产",
+        "onboard_time": 1735192398,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303797,
+        "num": 303797,
+        "word": "霍建华官宣大男主剧",
+        "onboard_time": 1735185018,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143153,
+        "num": 303534,
+        "word": "新疆偶遇张翰看烟花",
+        "onboard_time": 1735197078,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50875,
+        "num": 303094,
+        "word": "高空坠落杂技演员张凯流泪怀念亡妻",
+        "onboard_time": 1735197618,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137900,
+        "num": 302802,
+        "word": "市民反映供暖问题遭怼后又被关阀门",
+        "onboard_time": 1735196598,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32409,
+        "num": 302306,
+        "word": "于适蛟龙行动发布会生图",
+        "onboard_time": 1735193120,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302113,
+        "num": 302113,
+        "word": "俄罗斯美女吐槽俄罗斯商品馆",
+        "onboard_time": 1735190838,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301820,
+        "num": 301820,
+        "word": "火箭少女101",
+        "onboard_time": 1735188860,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22752,
+        "num": 257411,
+        "word": "库里38分",
+        "onboard_time": 1735196898,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257152,
+        "num": 257152,
+        "word": "女子离婚不要房却要还房贷不能理解",
+        "onboard_time": 1735188258,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246936,
+        "num": 246936,
+        "word": "女网红拿无人区救命粮喂狗",
+        "onboard_time": 1735179256,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221807,
+        "num": 221807,
+        "word": "李兰迪咬笔盖",
+        "onboard_time": 1735197858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219019,
+        "num": 219019,
+        "word": "李昀锐 妈妈我不要面子哒",
+        "onboard_time": 1735186759,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19796,
+        "num": 204675,
+        "word": "年轻人有自己的节日仪式感",
+        "onboard_time": 1735196959,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 229608,
+        "num": 204481,
+        "word": "99年女子生娃前忍着宫缩紧急化妆",
+        "onboard_time": 1735185259,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202427,
+        "num": 202427,
+        "word": "陕西一小区住宅爆炸10余人受伤",
+        "onboard_time": 1735194918,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 200279,
+        "num": 200279,
+        "word": "男子深夜扑倒女子抢袜子获刑6个月",
+        "onboard_time": 1735188200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198189,
+        "num": 198189,
+        "word": "徐志胜曝阎鹤祥背着德云社接私活",
+        "onboard_time": 1735197858,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33572,
+        "num": 195115,
+        "word": "2024KPL年度最佳候选名单",
+        "onboard_time": 1735190298,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194724,
+        "num": 194724,
+        "word": "43岁男子手指异样怀疑感染HPV",
+        "onboard_time": 1735196357,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176931,
+        "num": 191452,
+        "word": "没有真正的自发热内衣",
+        "onboard_time": 1735194199,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191087,
+        "num": 191087,
+        "word": "狗 晒个太阳怎么越晒越冷呢",
+        "onboard_time": 1735191378,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23277,
+        "num": 189544,
+        "word": "未来感在这一刻具象化了",
+        "onboard_time": 1735195158,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188417,
+        "num": 188417,
+        "word": "易烊千玺唯一的声源不再来自身体",
+        "onboard_time": 1735197198,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179554,
+        "num": 179554,
+        "word": "杨子哭了",
+        "onboard_time": 1735197618,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42975,
+        "num": 173473,
+        "word": "COSMO龚俊开年刊封面预告",
+        "onboard_time": 1735197318,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173428,
+        "num": 173428,
+        "word": "曾之乔圣诞晒孕肚",
+        "onboard_time": 1735192398,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163498,
+        "num": 163498,
+        "word": "餐厅回应徐娇劝阻抽烟被抢手机",
+        "onboard_time": 1735198218,
+        "rank": 43,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 163305,
+        "num": 163305,
+        "word": "月亮警察",
+        "onboard_time": 1735197798,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146737,
+        "num": 146737,
+        "word": "杨子调侃黄圣依的名字",
+        "onboard_time": 1735191138,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145445,
+        "num": 145445,
+        "word": "孙珍妮小狐狸又回来了",
+        "onboard_time": 1735198338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 143594,
+        "word": "黄子韬称会送不低于10台车",
+        "onboard_time": 1735198458,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141490,
+        "num": 141490,
+        "word": "WTT陈梦2024年度总结",
+        "onboard_time": 1735198338,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141254,
+        "num": 141254,
+        "word": "内娱5搭cp营业了",
+        "onboard_time": 1735191378,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年总书记牵挂这些方面#"
+    }
+  }
+}

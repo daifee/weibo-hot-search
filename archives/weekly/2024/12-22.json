@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735197669972,
+  "endTime": 1735198528240,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 2325117,
+      "num": 2325117,
+      "word": "抽烟男子称徐娇删除视频就会道歉",
+      "onboard_time": 1735196839,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2322455,
       "num": 2322455,
       "word": "上海地铁11号线",
@@ -89,14 +97,6 @@
       "onboard_time": 1734844698,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2008323,
-      "num": 2008323,
-      "word": "抽烟男子称徐娇删除视频就会道歉",
-      "onboard_time": 1735196839,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1949017,
@@ -2171,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534540,
+      "num": 534540,
+      "word": "700万大平层漏风两年没解决",
+      "onboard_time": 1735196477,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532312,
       "num": 532312,
       "word": "因穿高跟鞋走红男子带火一个村",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1735186759,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475828,
+      "num": 475828,
+      "word": "刘强东官宣全员加薪",
+      "onboard_time": 1735197017,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 475719,
@@ -3155,6 +3171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 388628,
+      "num": 388628,
+      "word": "葛夕留几手合作圣诞结",
+      "onboard_time": 1735193897,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388611,
       "num": 388611,
       "word": "攒了一年的惊艳瞬间",
@@ -3379,6 +3403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368104,
+      "num": 305967,
+      "word": "苏敏十六万全款拿下离婚",
+      "onboard_time": 1735196718,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367696,
       "num": 126977,
       "word": "家暴男与家人转移超400万婚后财产",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1735172298,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364357,
-      "num": 364357,
-      "word": "葛夕留几手合作圣诞结",
-      "onboard_time": 1735193897,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 363562,
@@ -3857,6 +3881,14 @@
       "onboard_time": 1734957138,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 317558,
+      "num": 317558,
+      "word": "第5次全国经济普查结果公布",
+      "onboard_time": 1735197437,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317489,
@@ -5131,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234399,
-      "num": 211922,
-      "word": "刘强东官宣全员加薪",
-      "onboard_time": 1735197017,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 234367,
       "num": 297736,
       "word": "现在拨打的电话何以成为全球爆款",
@@ -5193,14 +5217,6 @@
       "onboard_time": 1734823815,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230625,
-      "num": 280799,
-      "word": "700万大平层漏风两年没解决",
-      "onboard_time": 1735196477,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230563,
@@ -5411,6 +5427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 221807,
+      "num": 221807,
+      "word": "李兰迪咬笔盖",
+      "onboard_time": 1735197858,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221558,
       "num": 221558,
       "word": "殷世航称竞技比赛输赢很正常",
@@ -5513,6 +5537,14 @@
       "onboard_time": 1735092677,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 218875,
+      "num": 311362,
+      "word": "200克金条被随手扔了2天后才想起",
+      "onboard_time": 1735197138,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218672,
@@ -5672,14 +5704,6 @@
       "word": "先按年龄后按姓名首字母排序",
       "onboard_time": 1735186878,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 213477,
-      "num": 213477,
-      "word": "苏敏十六万全款拿下离婚",
-      "onboard_time": 1735196718,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -6307,6 +6331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198189,
+      "num": 198189,
+      "word": "徐志胜曝阎鹤祥背着德云社接私活",
+      "onboard_time": 1735197858,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198018,
       "num": 198018,
       "word": "鞠婧祎陈都灵靠肩抱",
@@ -6481,6 +6513,14 @@
       "onboard_time": 1735182918,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194724,
+      "num": 194724,
+      "word": "43岁男子手指异样怀疑感染HPV",
+      "onboard_time": 1735196357,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194722,
@@ -6931,14 +6971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187242,
-      "num": 187242,
-      "word": "第5次全国经济普查结果公布",
-      "onboard_time": 1735197437,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187209,
       "num": 187209,
       "word": "白鹿送花",
@@ -6993,14 +7025,6 @@
       "onboard_time": 1734840919,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186196,
-      "num": 186196,
-      "word": "43岁男子手指异样怀疑感染HPV",
-      "onboard_time": 1735196357,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185981,
@@ -7208,6 +7232,14 @@
       "word": "于文文居然喜欢收集彩色厕纸",
       "onboard_time": 1734828676,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179554,
+      "num": 179554,
+      "word": "杨子哭了",
+      "onboard_time": 1735197618,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -8019,12 +8051,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163498,
+      "num": 163498,
+      "word": "餐厅回应徐娇劝阻抽烟被抢手机",
+      "onboard_time": 1735198218,
+      "rank": 43,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 163494,
       "num": 137747,
       "word": "NCTU舞台",
       "onboard_time": 1735132459,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 163305,
+      "num": 163305,
+      "word": "月亮警察",
+      "onboard_time": 1735197798,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 163128,
@@ -9067,6 +9115,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 145445,
+      "num": 145445,
+      "word": "孙珍妮小狐狸又回来了",
+      "onboard_time": 1735198338,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145344,
       "num": 145344,
       "word": "逐玉吻戏",
@@ -9179,6 +9235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 143594,
+      "num": 143594,
+      "word": "黄子韬称会送不低于10台车",
+      "onboard_time": 1735198458,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143573,
       "num": 288298,
       "word": "投喂野生动物造成严重后果或担刑责",
@@ -9209,6 +9273,14 @@
       "onboard_time": 1735000999,
       "rank": 35,
       "category": "美妆,时尚"
+    },
+    {
+      "raw_hot": 143153,
+      "num": 303534,
+      "word": "新疆偶遇张翰看烟花",
+      "onboard_time": 1735197078,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 143067,
@@ -9305,6 +9377,14 @@
       "onboard_time": 1735105218,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 141490,
+      "num": 141490,
+      "word": "WTT陈梦2024年度总结",
+      "onboard_time": 1735198338,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 141275,
@@ -9539,6 +9619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 137900,
+      "num": 335681,
+      "word": "市民反映供暖问题遭怼后又被关阀门",
+      "onboard_time": 1735196598,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 137791,
       "num": 137791,
       "word": "穿厚底雪地靴或导致足底筋膜炎",
@@ -9609,6 +9697,14 @@
       "onboard_time": 1735083195,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136355,
+      "num": 310482,
+      "word": "一加发布会",
+      "onboard_time": 1735196539,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 136171,
@@ -10041,14 +10137,6 @@
       "onboard_time": 1735119198,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129125,
-      "num": 129125,
-      "word": "杨子哭了",
-      "onboard_time": 1735197618,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 129113,
@@ -11163,14 +11251,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 111586,
-      "num": 289909,
-      "word": "新疆偶遇张翰看烟花",
-      "onboard_time": 1735197078,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111546,
       "num": 339099,
       "word": "刘元",
@@ -11601,14 +11681,6 @@
       "onboard_time": 1734911475,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102860,
-      "num": 308472,
-      "word": "200克金条被随手扔了2天后才想起",
-      "onboard_time": 1735197138,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102720,
@@ -13315,14 +13387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 64233,
-      "num": 335681,
-      "word": "市民反映供暖问题遭怼后又被关阀门",
-      "onboard_time": 1735196598,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 64143,
       "num": 70817,
       "word": "陶喆 记得这版本的XXX吗",
@@ -14067,6 +14131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50875,
+      "num": 303094,
+      "word": "高空坠落杂技演员张凯流泪怀念亡妻",
+      "onboard_time": 1735197618,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50831,
       "num": 50831,
       "word": "俄罗斯帅哥在陕西摊煎饼果子",
@@ -14281,6 +14353,14 @@
       "onboard_time": 1734840678,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47456,
+      "num": 313361,
+      "word": "商家称俄罗斯商品馆3个月回本",
+      "onboard_time": 1735197858,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47434,
@@ -14571,14 +14651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43182,
-      "num": 276086,
-      "word": "高空坠落杂技演员张凯流泪怀念亡妻",
-      "onboard_time": 1735197618,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43125,
       "num": 399873,
       "word": "猎罪图鉴2让每个涉案人都成为主角",
@@ -14593,6 +14665,14 @@
       "onboard_time": 1734823815,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 42975,
+      "num": 199409,
+      "word": "COSMO龚俊开年刊封面预告",
+      "onboard_time": 1735197318,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 42795,
@@ -14865,14 +14945,6 @@
       "onboard_time": 1735187538,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 39319,
-      "num": 199409,
-      "word": "COSMO龚俊开年刊封面预告",
-      "onboard_time": 1735197318,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 39193,
@@ -15347,14 +15419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33666,
-      "num": 299176,
-      "word": "一加发布会",
-      "onboard_time": 1735196539,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 33625,
       "num": 334605,
       "word": "雄狮少年花的意象",
@@ -15449,6 +15513,14 @@
       "onboard_time": 1735029199,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32409,
+      "num": 302306,
+      "word": "于适蛟龙行动发布会生图",
+      "onboard_time": 1735193120,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 32223,
@@ -15828,7 +15900,7 @@
     },
     {
       "raw_hot": 28166,
-      "num": 186293,
+      "num": 189544,
       "word": "未来感在这一刻具象化了",
       "onboard_time": 1735195158,
       "rank": 47,
@@ -16019,6 +16091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 25363,
+      "num": 306848,
+      "word": "哪些化妆工具没有必要买",
+      "onboard_time": 1735196718,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 25300,
       "num": 39082,
       "word": "王一博探索新境海外预告",
@@ -16187,6 +16267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22752,
+      "num": 257411,
+      "word": "库里38分",
+      "onboard_time": 1735196898,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22677,
       "num": 22677,
       "word": "吉林长春一家三口开车坠江一人为孕妇",
@@ -16284,7 +16372,7 @@
     },
     {
       "raw_hot": 21720,
-      "num": 187708,
+      "num": 204675,
       "word": "年轻人有自己的节日仪式感",
       "onboard_time": 1735196959,
       "rank": 35,
@@ -16617,14 +16705,6 @@
       "onboard_time": 1735066211,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16445,
-      "num": 302643,
-      "word": "哪些化妆工具没有必要买",
-      "onboard_time": 1735196718,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 16336,
