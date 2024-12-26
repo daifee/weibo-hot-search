@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735251636975,
+  "endTime": 1735252685671,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -155,6 +155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 179943,
+      "num": 179943,
+      "word": "靠无理由退货0成本骗了200万的商品",
+      "onboard_time": 1735239552,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156947,
       "num": 105741,
       "word": "大年初一电影放大招",
@@ -201,14 +209,6 @@
       "onboard_time": 1735225579,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 127889,
-      "num": 127889,
-      "word": "靠无理由退货0成本骗了200万的商品",
-      "onboard_time": 1735239552,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120000,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 92011,
-      "num": 67553,
+      "num": 70062,
       "word": "国防时报晒银杏叶",
       "onboard_time": 1735232356,
       "rank": 30,
@@ -345,6 +345,14 @@
       "onboard_time": 1735232356,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88046,
+      "num": 88046,
+      "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
+      "onboard_time": 1735247291,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87986,
@@ -419,12 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68441,
-      "num": 68441,
-      "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
-      "onboard_time": 1735247291,
-      "rank": 47,
-      "category": "海外新闻"
+      "raw_hot": 70643,
+      "num": 70643,
+      "word": "网传近百只猫在水塘中被溺死",
+      "onboard_time": 1735244531,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61105,
@@ -433,14 +441,6 @@
       "onboard_time": 1735215859,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59953,
-      "num": 59953,
-      "word": "网传近百只猫在水塘中被溺死",
-      "onboard_time": 1735244531,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59793,
@@ -547,6 +547,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29946,
+      "num": 29946,
+      "word": "多方回应广东两姐妹遭杀害传言",
+      "onboard_time": 1735226359,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 26672,
+      "num": 61462,
+      "word": "上海到湖州车程缩减了一半",
+      "onboard_time": 1735250413,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26213,
       "num": 26213,
       "word": "鱿鱼游戏3明年开播",
@@ -555,12 +571,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25374,
-      "num": 26211,
-      "word": "多方回应广东两姐妹遭杀害传言",
-      "onboard_time": 1735226359,
-      "rank": 45,
-      "category": "辟谣/通报"
+      "raw_hot": 25779,
+      "num": 25779,
+      "word": "NASA回应滞留太空宇航员圣诞照质疑",
+      "onboard_time": 1735247051,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25076,
@@ -619,20 +635,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21037,
-      "num": 21037,
-      "word": "NASA回应滞留太空宇航员圣诞照质疑",
-      "onboard_time": 1735247051,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18448,
-      "num": 61462,
-      "word": "上海到湖州车程缩减了一半",
-      "onboard_time": 1735250413,
-      "rank": 9,
-      "category": "正能量"
+      "raw_hot": 18544,
+      "num": 25171,
+      "word": "曾志伟不催婚曾宝仪",
+      "onboard_time": 1735252573,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 18209,
@@ -649,6 +657,14 @@
       "onboard_time": 1735237152,
       "rank": 9,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 16633,
+      "num": 78386,
+      "word": "河南桑坡村代购和打假标语并存",
+      "onboard_time": 1735251672,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11129,
