@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735190495690,
+  "endTime": 1735191552243,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -48,6 +48,14 @@
       "word": "上海地铁11号线",
       "onboard_time": 1734832696,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2280320,
+      "num": 2280320,
+      "word": "长期接不到女乘客网约司机投诉平台",
+      "onboard_time": 1735188739,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -265,14 +273,6 @@
       "onboard_time": 1735042340,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1489927,
-      "num": 1489927,
-      "word": "长期接不到女乘客网约司机投诉平台",
-      "onboard_time": 1735188739,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1480575,
@@ -1107,6 +1107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 774029,
+      "num": 774029,
+      "word": "火箭少女101",
+      "onboard_time": 1735188860,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773751,
       "num": 773751,
       "word": "外部塔吊施工侵入上海地铁11号线",
@@ -1931,14 +1939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572677,
-      "num": 572677,
-      "word": "火箭少女101",
-      "onboard_time": 1735188860,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566472,
       "num": 566472,
       "word": "吉林一家三口开车坠江车辆已找到",
@@ -2361,6 +2361,14 @@
       "onboard_time": 1735122318,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476899,
+      "num": 476899,
+      "word": "李昀锐 妈妈我不要面子哒",
+      "onboard_time": 1735186759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 475719,
@@ -3153,14 +3161,6 @@
       "onboard_time": 1735116978,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382221,
-      "num": 382221,
-      "word": "李昀锐 妈妈我不要面子哒",
-      "onboard_time": 1735186759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 380705,
@@ -4163,6 +4163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288683,
+      "num": 346040,
+      "word": "员工不满2月迟到15次被辞起诉",
+      "onboard_time": 1735189220,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288381,
       "num": 291169,
       "word": "国色芳华",
@@ -4248,6 +4256,14 @@
       "word": "为被投毒小狗追凶的831天",
       "onboard_time": 1734924198,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279259,
+      "num": 279259,
+      "word": "男子深夜扑倒女子抢袜子获刑6个月",
+      "onboard_time": 1735188200,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -4395,7 +4411,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270834,
+      "raw_hot": 270851,
       "num": 488334,
       "word": "权志龙被男粉吓到的反应",
       "onboard_time": 1735187839,
@@ -4496,6 +4512,14 @@
       "word": "演员请就位第三季阵容",
       "onboard_time": 1734844938,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263485,
+      "num": 263485,
+      "word": "杨子调侃黄圣依的名字",
+      "onboard_time": 1735191138,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -4707,12 +4731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252665,
-      "num": 252665,
-      "word": "男子深夜扑倒女子抢袜子获刑6个月",
-      "onboard_time": 1735188200,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 252453,
+      "num": 252453,
+      "word": "原来被尊重的面试是这样的啊",
+      "onboard_time": 1735185498,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 251599,
@@ -4761,14 +4785,6 @@
       "onboard_time": 1734929060,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249494,
-      "num": 249494,
-      "word": "原来被尊重的面试是这样的啊",
-      "onboard_time": 1735185498,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 248465,
@@ -4943,6 +4959,14 @@
       "num": 316784,
       "word": "全国统一心理援助热线12356",
       "onboard_time": 1735109897,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238605,
+      "num": 464728,
+      "word": "父亲将亡母金镯熔给新伴侣儿子发声",
+      "onboard_time": 1735189700,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -6387,6 +6411,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192988,
+      "num": 192988,
+      "word": "王一博新歌试听视频",
+      "onboard_time": 1735191078,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 192885,
+      "num": 192885,
+      "word": "孙阳 不知道啊说有吻戏我就来了",
+      "onboard_time": 1735190958,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192746,
       "num": 192746,
       "word": "网传孟子义将常驻hi6",
@@ -7241,6 +7281,14 @@
       "onboard_time": 1735114277,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173561,
+      "num": 173561,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173544,
@@ -8275,6 +8323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154509,
+      "num": 154509,
+      "word": "内娱5搭cp营业了",
+      "onboard_time": 1735191378,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154373,
       "num": 154373,
       "word": "WBG战胜EDG",
@@ -8425,6 +8481,14 @@
       "onboard_time": 1735170736,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152153,
+      "num": 152153,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 152133,
@@ -9075,12 +9139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140858,
-      "num": 464728,
-      "word": "父亲将亡母金镯熔给新伴侣儿子发声",
-      "onboard_time": 1735189700,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 140566,
+      "num": 140566,
+      "word": "小米正搭建GPU万卡集群",
+      "onboard_time": 1735191017,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 140520,
@@ -9499,6 +9563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133443,
+      "num": 133443,
+      "word": "2025年是闰六月",
+      "onboard_time": 1735190658,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133336,
       "num": 371950,
       "word": "律师解读学生自杀与学校无关承诺书",
@@ -9785,6 +9857,14 @@
       "onboard_time": 1734944958,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129106,
+      "num": 129106,
+      "word": "沪苏湖高铁真的来啦",
+      "onboard_time": 1735191318,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 129084,
@@ -11259,6 +11339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 104373,
+      "num": 296468,
+      "word": "权志龙追加捐款一亿韩元",
+      "onboard_time": 1735190179,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104208,
       "num": 403409,
       "word": "一粒大米能覆盖药品说明书上四个汉字",
@@ -11337,14 +11425,6 @@
       "onboard_time": 1734995775,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101721,
-      "num": 346040,
-      "word": "员工不满2月迟到15次被辞起诉",
-      "onboard_time": 1735189220,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101210,
@@ -13619,6 +13699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51644,
+      "num": 395241,
+      "word": "淘宝灵气之夜谁还没看",
+      "onboard_time": 1735189220,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51556,
       "num": 188500,
       "word": "刘亦菲朱珠同框合影",
@@ -13793,14 +13881,6 @@
       "onboard_time": 1734862038,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 48704,
-      "num": 395241,
-      "word": "淘宝灵气之夜谁还没看",
-      "onboard_time": 1735189220,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 48690,
@@ -14923,14 +15003,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 33885,
-      "num": 209903,
-      "word": "权志龙追加捐款一亿韩元",
-      "onboard_time": 1735190179,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33826,
       "num": 163831,
       "word": "国产车为什么更抗造",
@@ -15052,7 +15124,7 @@
     },
     {
       "raw_hot": 32201,
-      "num": 233304,
+      "num": 327274,
       "word": "谁用谁知道的原生鸿蒙真香现场",
       "onboard_time": 1735189579,
       "rank": 30,
@@ -15649,6 +15721,14 @@
       "onboard_time": 1735083315,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24903,
+      "num": 208736,
+      "word": "张若昀年度电视剧演员榜一",
+      "onboard_time": 1735186218,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 24882,
@@ -16609,6 +16689,14 @@
       "onboard_time": 1734898212,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6275,
+      "num": 351943,
+      "word": "太阳三分雨",
+      "onboard_time": 1735191499,
+      "rank": 13,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

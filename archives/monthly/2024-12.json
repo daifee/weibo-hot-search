@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735190495690,
+  "endTime": 1735191552243,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -729,6 +729,14 @@
       "onboard_time": 1733237365,
       "rank": 3,
       "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 2280320,
+      "num": 2280320,
+      "word": "长期接不到女乘客网约司机投诉平台",
+      "onboard_time": 1735188739,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2271387,
@@ -2025,14 +2033,6 @@
       "onboard_time": 1734445101,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1489927,
-      "num": 1489927,
-      "word": "长期接不到女乘客网约司机投诉平台",
-      "onboard_time": 1735188739,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1485754,
@@ -7571,6 +7571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 774029,
+      "num": 774029,
+      "word": "火箭少女101",
+      "onboard_time": 1735188860,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773751,
       "num": 773751,
       "word": "外部塔吊施工侵入上海地铁11号线",
@@ -11763,14 +11771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 572677,
-      "num": 572677,
-      "word": "火箭少女101",
-      "onboard_time": 1735188860,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 572106,
       "num": 572106,
       "word": "肖战实体专销量5分钟破5000万",
@@ -14769,6 +14769,14 @@
       "onboard_time": 1734438439,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476899,
+      "num": 476899,
+      "word": "李昀锐 妈妈我不要面子哒",
+      "onboard_time": 1735186759,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 476835,
@@ -18913,14 +18921,6 @@
       "onboard_time": 1734615080,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 382221,
-      "num": 382221,
-      "word": "李昀锐 妈妈我不要面子哒",
-      "onboard_time": 1735186759,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 382122,
@@ -24459,6 +24459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288683,
+      "num": 346040,
+      "word": "员工不满2月迟到15次被辞起诉",
+      "onboard_time": 1735189220,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288668,
       "num": 288668,
       "word": "姆巴佩心态崩了",
@@ -25089,6 +25097,14 @@
       "onboard_time": 1732980980,
       "rank": 8,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 279259,
+      "num": 279259,
+      "word": "男子深夜扑倒女子抢袜子获刑6个月",
+      "onboard_time": 1735188200,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279172,
@@ -25787,7 +25803,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270834,
+      "raw_hot": 270851,
       "num": 488334,
       "word": "权志龙被男粉吓到的反应",
       "onboard_time": 1735187839,
@@ -26361,6 +26377,14 @@
       "onboard_time": 1733746579,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263485,
+      "num": 263485,
+      "word": "杨子调侃黄圣依的名字",
+      "onboard_time": 1735191138,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 263465,
@@ -27331,20 +27355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252665,
-      "num": 252665,
-      "word": "男子深夜扑倒女子抢袜子获刑6个月",
-      "onboard_time": 1735188200,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252551,
       "num": 302019,
       "word": "丁禹兮团综收官哭了",
       "onboard_time": 1734241819,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252453,
+      "num": 252453,
+      "word": "原来被尊重的面试是这样的啊",
+      "onboard_time": 1735185498,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 252442,
@@ -27577,14 +27601,6 @@
       "onboard_time": 1733315062,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249494,
-      "num": 249494,
-      "word": "原来被尊重的面试是这样的啊",
-      "onboard_time": 1735185498,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 249486,
@@ -28817,6 +28833,14 @@
       "onboard_time": 1733279299,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238605,
+      "num": 464728,
+      "word": "父亲将亡母金镯熔给新伴侣儿子发声",
+      "onboard_time": 1735189700,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238466,
@@ -37483,6 +37507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192988,
+      "num": 192988,
+      "word": "王一博新歌试听视频",
+      "onboard_time": 1735191078,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192969,
       "num": 213940,
       "word": "宋翰什么时候下线",
@@ -37497,6 +37529,14 @@
       "onboard_time": 1734527660,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192885,
+      "num": 192885,
+      "word": "孙阳 不知道啊说有吻戏我就来了",
+      "onboard_time": 1735190958,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 192883,
@@ -42769,6 +42809,14 @@
       "onboard_time": 1734686119,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 173561,
+      "num": 173561,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173551,
@@ -48771,6 +48819,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 154509,
+      "num": 154509,
+      "word": "内娱5搭cp营业了",
+      "onboard_time": 1735191378,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154500,
       "num": 398672,
       "word": "双非考研报985学校的感觉",
@@ -49593,6 +49649,14 @@
       "onboard_time": 1733697793,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152153,
+      "num": 152153,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 152138,
@@ -53299,14 +53363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 140858,
-      "num": 464728,
-      "word": "父亲将亡母金镯熔给新伴侣儿子发声",
-      "onboard_time": 1735189700,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140798,
       "num": 250971,
       "word": "上万人在地摊免费学急救",
@@ -53369,6 +53425,14 @@
       "onboard_time": 1733018716,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 140566,
+      "num": 140566,
+      "word": "小米正搭建GPU万卡集群",
+      "onboard_time": 1735191017,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 140553,
@@ -55635,6 +55699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133443,
+      "num": 133443,
+      "word": "2025年是闰六月",
+      "onboard_time": 1735190658,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133425,
       "num": 133425,
       "word": "俄方回应泽连斯基开出的停火条件",
@@ -56897,6 +56969,14 @@
       "onboard_time": 1734328339,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129106,
+      "num": 129106,
+      "word": "沪苏湖高铁真的来啦",
+      "onboard_time": 1735191318,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 129098,
@@ -64083,6 +64163,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 104373,
+      "num": 296468,
+      "word": "权志龙追加捐款一亿韩元",
+      "onboard_time": 1735190179,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104281,
       "num": 242540,
       "word": "四六级成绩不是卷面实际得分",
@@ -64593,14 +64681,6 @@
       "onboard_time": 1733743401,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101721,
-      "num": 346040,
-      "word": "员工不满2月迟到15次被辞起诉",
-      "onboard_time": 1735189220,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101699,
@@ -76283,6 +76363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51644,
+      "num": 395241,
+      "word": "淘宝灵气之夜谁还没看",
+      "onboard_time": 1735189220,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51639,
       "num": 51639,
       "word": "特朗普威胁北约成员国",
@@ -77065,14 +77153,6 @@
       "onboard_time": 1734231859,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48704,
-      "num": 395241,
-      "word": "淘宝灵气之夜谁还没看",
-      "onboard_time": 1735189220,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 48702,
@@ -82571,14 +82651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33885,
-      "num": 209903,
-      "word": "权志龙追加捐款一亿韩元",
-      "onboard_time": 1735190179,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33845,
       "num": 257813,
       "word": "男子劫杀司机25年后落网称解脱了",
@@ -83308,7 +83380,7 @@
     },
     {
       "raw_hot": 32201,
-      "num": 233304,
+      "num": 327274,
       "word": "谁用谁知道的原生鸿蒙真香现场",
       "onboard_time": 1735189579,
       "rank": 30,
@@ -86185,6 +86257,14 @@
       "onboard_time": 1734359540,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24903,
+      "num": 208736,
+      "word": "张若昀年度电视剧演员榜一",
+      "onboard_time": 1735186218,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 24899,
@@ -92313,6 +92393,14 @@
       "onboard_time": 1734898212,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6275,
+      "num": 351943,
+      "word": "太阳三分雨",
+      "onboard_time": 1735191499,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 6210,
