@@ -1,0 +1,410 @@
+{
+  "runTime": 1735187234375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1480575,
+        "num": 1480575,
+        "word": "假离婚变真离婚女子获280万赔偿",
+        "onboard_time": 1735182797,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1274901,
+        "num": 1274901,
+        "word": "霍建华官宣大男主剧",
+        "onboard_time": 1735185018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40615,
+        "num": 1119949,
+        "word": "文化中国行非遗过大年",
+        "onboard_time": 1735185559,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1087140,
+        "num": 1087140,
+        "word": "失事航班机长最后举动挽救数十人生命",
+        "onboard_time": 1735182318,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1006230,
+        "num": 1006230,
+        "word": "女网红拿无人区救命粮喂狗",
+        "onboard_time": 1735179256,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969549,
+        "num": 969549,
+        "word": "王楚钦回应奥运男单爆冷",
+        "onboard_time": 1735184358,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695818,
+        "num": 695818,
+        "word": "俄对乌发动大规模圣诞节袭击",
+        "onboard_time": 1735182078,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429408,
+        "num": 692805,
+        "word": "腾讯视频星光大赏阵容",
+        "onboard_time": 1735184298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255626,
+        "num": 684338,
+        "word": "太原一商场圣诞装饰遭顾客哄抢",
+        "onboard_time": 1735183637,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252780,
+        "num": 679913,
+        "word": "湖人战胜勇士",
+        "onboard_time": 1735185138,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726549,
+        "num": 668978,
+        "word": "99年女子生娃前忍着宫缩紧急化妆",
+        "onboard_time": 1735185259,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588550,
+        "num": 659894,
+        "word": "优时颜 王楚钦",
+        "onboard_time": 1735179256,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380481,
+        "num": 656708,
+        "word": "浙江卫视跨年全阵容官宣",
+        "onboard_time": 1735179377,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44272,
+        "num": 647111,
+        "word": "揭秘教辅背后深度捆绑利益链",
+        "onboard_time": 1735186158,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18200,
+        "num": 641197,
+        "word": "蚂蚁保盘点2024年保险热点趋势",
+        "onboard_time": 1735185619,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368931,
+        "num": 627951,
+        "word": "从红海行动到蛟龙行动看强军新风貌",
+        "onboard_time": 1735179737,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339047,
+        "num": 627126,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310036,
+        "num": 614765,
+        "word": "网友称和李现同一个徒步群",
+        "onboard_time": 1735173858,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49492,
+        "num": 604842,
+        "word": "半年内超1000家宠物殡葬企业成立",
+        "onboard_time": 1735186400,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59921,
+        "num": 599189,
+        "word": "柯文哲遭起诉求刑28年半",
+        "onboard_time": 1735186098,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 596672,
+        "num": 596672,
+        "word": "纪念毛泽东诞辰131年",
+        "onboard_time": 1735169955,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520879,
+        "num": 520879,
+        "word": "21岁失明女孩嫁58岁男子引热议",
+        "onboard_time": 1735170196,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516933,
+        "num": 516933,
+        "word": "内马尔又要当爹了",
+        "onboard_time": 1735184838,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390112,
+        "num": 390112,
+        "word": "美航班飞机起落架轮舱内发现尸体",
+        "onboard_time": 1735181297,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115665,
+        "num": 384024,
+        "word": "先按年龄后按姓名首字母排序",
+        "onboard_time": 1735186878,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72617,
+        "num": 377712,
+        "word": "发物到底是什么",
+        "onboard_time": 1735187118,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26452,
+        "num": 366480,
+        "word": "马冬梅有问界M9",
+        "onboard_time": 1735185858,
+        "rank": 26,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 102658,
+        "num": 362787,
+        "word": "女性不是性别是处境",
+        "onboard_time": 1735186699,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51453,
+        "num": 350180,
+        "word": "南浔迎来沪苏湖半小时通勤圈",
+        "onboard_time": 1735186400,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17530,
+        "num": 341751,
+        "word": "赖美云车内转场太惊艳了",
+        "onboard_time": 1735185858,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341489,
+        "num": 341489,
+        "word": "林一 左边到底有谁在啊",
+        "onboard_time": 1735185438,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299726,
+        "num": 299726,
+        "word": "金佳蓝或将演员出道",
+        "onboard_time": 1735185678,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124664,
+        "num": 283907,
+        "word": "魏晨滑雪日常回归",
+        "onboard_time": 1735186098,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353733,
+        "num": 282487,
+        "word": "爸爸甚至没读乱回",
+        "onboard_time": 1735183277,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275419,
+        "num": 275419,
+        "word": "哈佛大学建议的最佳抗衰老运动",
+        "onboard_time": 1735185018,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 265767,
+        "num": 265767,
+        "word": "周扬青圣诞红裙",
+        "onboard_time": 1735177876,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 252089,
+        "num": 252089,
+        "word": "李昀锐 妈妈我不要面子哒",
+        "onboard_time": 1735186759,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224253,
+        "num": 224253,
+        "word": "原来被尊重的面试是这样的啊",
+        "onboard_time": 1735185498,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212472,
+        "num": 212472,
+        "word": "里夫斯绝杀勇士",
+        "onboard_time": 1735184958,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8658,
+        "num": 211586,
+        "word": "超出片圣诞红色系氛围穿搭",
+        "onboard_time": 1735186878,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 211391,
+        "num": 211391,
+        "word": "哈萨克斯坦客机坠毁前后舱内完整视频",
+        "onboard_time": 1735184177,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 209192,
+        "num": 209192,
+        "word": "迪丽热巴灵蛇献瑞",
+        "onboard_time": 1735186818,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194138,
+        "num": 194138,
+        "word": "丁禹兮赴约腾讯星光大赏",
+        "onboard_time": 1735186098,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189376,
+        "num": 189376,
+        "word": "猎罪图鉴2结局出现两个沈翊",
+        "onboard_time": 1735171637,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188453,
+        "num": 188453,
+        "word": "王安宇 会爱人的眼睛",
+        "onboard_time": 1735177577,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41200,
+        "num": 185260,
+        "word": "掘金vs太阳",
+        "onboard_time": 1735185919,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184231,
+        "num": 184231,
+        "word": "千朵桃花一世开",
+        "onboard_time": 1735182918,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182640,
+        "num": 182640,
+        "word": "美国内部对华芯片制裁存在分歧",
+        "onboard_time": 1735187118,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44486,
+        "num": 177814,
+        "word": "李一桐向往的修仙生活",
+        "onboard_time": 1735182496,
+        "rank": 48,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 176311,
+        "num": 176311,
+        "word": "王鹤棣出发泰国",
+        "onboard_time": 1735185138,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024年总书记牵挂这些方面#"
+    }
+  }
+}
