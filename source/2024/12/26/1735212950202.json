@@ -1,0 +1,410 @@
+{
+  "runTime": 1735212950202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2727279,
+        "num": 2727279,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 986404,
+        "num": 986404,
+        "word": "四川地震",
+        "onboard_time": 1735206197,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 88476,
+        "num": 800201,
+        "word": "春晚都去西藏了我也要去",
+        "onboard_time": 1735205300,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707919,
+        "num": 707919,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 589562,
+        "num": 589562,
+        "word": "获利180元被罚10万卖羊肉老太发声",
+        "onboard_time": 1735210039,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514916,
+        "num": 514916,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 868590,
+        "num": 455320,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660092,
+        "num": 429257,
+        "word": "TOP演技",
+        "onboard_time": 1735208599,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377847,
+        "num": 377847,
+        "word": "室内公共场所禁烟是全国性的",
+        "onboard_time": 1735208959,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34826,
+        "num": 374965,
+        "word": "2024年已下发1416个游戏版号",
+        "onboard_time": 1735211298,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 621028,
+        "num": 364862,
+        "word": "徐娇被告知长沙室内不禁烟",
+        "onboard_time": 1735200798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523766,
+        "num": 363112,
+        "word": "孔刘第一集下线",
+        "onboard_time": 1735209378,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447033,
+        "num": 351656,
+        "word": "葛夕留几手没有离婚",
+        "onboard_time": 1735203738,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350995,
+        "num": 350995,
+        "word": "马伊琍获评国家一级演员",
+        "onboard_time": 1735206197,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341947,
+        "num": 341947,
+        "word": "一人用7天无理由退货诈骗200多万",
+        "onboard_time": 1735204879,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332622,
+        "num": 332622,
+        "word": "宝石老舅工作人员晒行程单辟谣",
+        "onboard_time": 1735209078,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29726,
+        "num": 329589,
+        "word": "AL德杯半决赛扳回一城",
+        "onboard_time": 1735212558,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47382,
+        "num": 314344,
+        "word": "创亚2选手颜值",
+        "onboard_time": 1735212498,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10289,
+        "num": 302563,
+        "word": "2024八问中国电影",
+        "onboard_time": 1735212558,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86969,
+        "num": 293957,
+        "word": "有人在与AI聊天后上瘾或抑郁",
+        "onboard_time": 1735211478,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289734,
+        "num": 289734,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284665,
+        "num": 284665,
+        "word": "王耀庆孙阳吻戏",
+        "onboard_time": 1735206680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271044,
+        "num": 271044,
+        "word": "坏了让她读到真大学了",
+        "onboard_time": 1735192458,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70832,
+        "num": 254756,
+        "word": "雷军闯入美食赛道",
+        "onboard_time": 1735212258,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22583,
+        "num": 245894,
+        "word": "nova13镜头下的关晓彤",
+        "onboard_time": 1735210518,
+        "rank": 24,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 201902,
+        "num": 241986,
+        "word": "蒋欣24岁状态vs41岁状态",
+        "onboard_time": 1735210220,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241690,
+        "num": 241690,
+        "word": "滞留太空美宇航员圣诞节照片引质疑",
+        "onboard_time": 1735202478,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225424,
+        "num": 225424,
+        "word": "娃哈哈奶茶店有时1天1张单都没有",
+        "onboard_time": 1735206980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199169,
+        "num": 199169,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196679,
+        "num": 196679,
+        "word": "微博之夜",
+        "onboard_time": 1735211420,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 193571,
+        "word": "孙颖莎调侃年纪在队伍中最大",
+        "onboard_time": 1735211357,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176725,
+        "num": 176725,
+        "word": "鱿鱼游戏 吊在俊",
+        "onboard_time": 1735210819,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165248,
+        "num": 165248,
+        "word": "白鹿白色缎面高定裙",
+        "onboard_time": 1735209140,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 164760,
+        "num": 164760,
+        "word": "李惠仁又长高了",
+        "onboard_time": 1735210699,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164076,
+        "num": 164076,
+        "word": "网剧冬至",
+        "onboard_time": 1735210699,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28617,
+        "num": 159304,
+        "word": "人民网评加强微短剧片名审核",
+        "onboard_time": 1735210938,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156896,
+        "num": 156896,
+        "word": "上海挤满了周五下班的韩国人",
+        "onboard_time": 1735212738,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156434,
+        "num": 156434,
+        "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
+        "onboard_time": 1735212858,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147632,
+        "num": 147632,
+        "word": "国家一级演员职称的评选标准是什么",
+        "onboard_time": 1735210579,
+        "rank": 38,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 147185,
+        "num": 147185,
+        "word": "郑钧 我的愿望就是刘芸幸福快乐",
+        "onboard_time": 1735212738,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146245,
+        "num": 146245,
+        "word": "星光大赏",
+        "onboard_time": 1735210337,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143294,
+        "num": 143294,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20216,
+        "num": 140217,
+        "word": "浙江卫视跨年直播",
+        "onboard_time": 1735210579,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137651,
+        "num": 137651,
+        "word": "南方小土豆在尔滨没吃饱被抓回重吃",
+        "onboard_time": 1735208240,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131569,
+        "num": 131569,
+        "word": "下水道里抽出很多鲶鱼",
+        "onboard_time": 1735203618,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130583,
+        "num": 130583,
+        "word": "不要靠近任何需要切的糕",
+        "onboard_time": 1735210159,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "Angelababy与中华白海豚vlog",
+        "onboard_time": 1735203679,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106188,
+        "num": 106188,
+        "word": "王昶出战羽超联赛",
+        "onboard_time": 1735212858,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102686,
+        "num": 102686,
+        "word": "刘强东官宣全员加薪",
+        "onboard_time": 1735197017,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13470,
+        "num": 99873,
+        "word": "真诚式旅游的风又刮到尔滨了",
+        "onboard_time": 1735210099,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}

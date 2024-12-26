@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735211917445,
+  "endTime": 1735212950202,
   "band_list": [
     {
       "raw_hot": 3698769,
@@ -251,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 652676,
-      "num": 342288,
+      "raw_hot": 660092,
+      "num": 429257,
       "word": "TOP演技",
       "onboard_time": 1735208599,
       "rank": 12,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589562,
+      "num": 589562,
+      "word": "获利180元被罚10万卖羊肉老太发声",
+      "onboard_time": 1735210039,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564077,
       "num": 564077,
       "word": "年度报告",
@@ -377,6 +385,14 @@
       "onboard_time": 1735200559,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 523766,
+      "num": 363112,
+      "word": "孔刘第一集下线",
+      "onboard_time": 1735209378,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 516933,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 462335,
-      "num": 338629,
+      "num": 350995,
       "word": "马伊琍获评国家一级演员",
       "onboard_time": 1735206197,
       "rank": 27,
@@ -531,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 406427,
-      "num": 212767,
-      "word": "孔刘第一集下线",
-      "onboard_time": 1735209378,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401765,
       "num": 401765,
       "word": "鱿鱼游戏 孔刘",
@@ -585,6 +593,14 @@
       "onboard_time": 1735200679,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377847,
+      "num": 377847,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 372574,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 365237,
-      "num": 280871,
+      "num": 332622,
       "word": "宝石老舅工作人员晒行程单辟谣",
       "onboard_time": 1735209078,
       "rank": 39,
@@ -696,14 +712,6 @@
       "word": "整个馆只有俄罗斯人是原产",
       "onboard_time": 1735192398,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330382,
-      "num": 341456,
-      "word": "室内公共场所禁烟是全国性的",
-      "onboard_time": 1735208959,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -849,14 +857,6 @@
       "onboard_time": 1735139060,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 275866,
-      "num": 275866,
-      "word": "获利180元被罚10万卖羊肉老太发声",
-      "onboard_time": 1735210039,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275419,
@@ -1043,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225424,
+      "num": 225424,
+      "word": "娃哈哈奶茶店有时1天1张单都没有",
+      "onboard_time": 1735206980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221807,
       "num": 221807,
       "word": "李兰迪咬笔盖",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1735184177,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 210901,
-      "num": 210901,
-      "word": "娃哈哈奶茶店有时1天1张单都没有",
-      "onboard_time": 1735206980,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210830,
@@ -1211,6 +1211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201902,
+      "num": 241986,
+      "word": "蒋欣24岁状态vs41岁状态",
+      "onboard_time": 1735210220,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201830,
       "num": 201830,
       "word": "SBS你耍我",
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "孙颖莎调侃年纪在队伍中最大",
+      "onboard_time": 1735211357,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192988,
       "num": 192988,
       "word": "王一博新歌试听视频",
@@ -1313,14 +1329,6 @@
       "onboard_time": 1735171277,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190785,
-      "num": 190785,
-      "word": "蒋欣24岁状态vs41岁状态",
-      "onboard_time": 1735210220,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190351,
@@ -1483,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169623,
-      "num": 169623,
-      "word": "孙颖莎调侃年纪在队伍中最大",
-      "onboard_time": 1735211357,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166437,
       "num": 166437,
       "word": "黄圣依往那一坐就自带drama",
@@ -1507,12 +1507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165248,
+      "num": 165248,
+      "word": "白鹿白色缎面高定裙",
+      "onboard_time": 1735209140,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 165093,
       "num": 470093,
       "word": "最美的夜跨年晚会全阵容官宣",
       "onboard_time": 1735181297,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164076,
+      "num": 214300,
+      "word": "网剧冬至",
+      "onboard_time": 1735210699,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 163498,
@@ -1579,6 +1595,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156896,
+      "num": 156896,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 156434,
+      "num": 156434,
+      "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
+      "onboard_time": 1735212858,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155654,
       "num": 226690,
       "word": "国乒新加坡大满贯单打名单",
@@ -1619,22 +1651,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 150997,
-      "num": 150997,
-      "word": "白鹿白色缎面高定裙",
-      "onboard_time": 1735209140,
-      "rank": 42,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 149614,
-      "num": 214300,
-      "word": "网剧冬至",
-      "onboard_time": 1735210699,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148765,
       "num": 148765,
       "word": "王俊凯曹弘浪大年初一见",
@@ -1651,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147632,
+      "num": 147632,
+      "word": "国家一级演员职称的评选标准是什么",
+      "onboard_time": 1735210579,
+      "rank": 49,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 147457,
       "num": 240824,
       "word": "2024KPL年度最佳候选名单",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1735183937,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147185,
+      "num": 147185,
+      "word": "郑钧 我的愿望就是刘芸幸福快乐",
+      "onboard_time": 1735212738,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 145857,
@@ -1947,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124422,
-      "num": 124422,
-      "word": "国家一级演员职称的评选标准是什么",
-      "onboard_time": 1735210579,
-      "rank": 49,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 121390,
       "num": 121390,
       "word": "孟子义说宠物是自己选择的家人",
@@ -2131,6 +2155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106188,
+      "num": 106188,
+      "word": "王昶出战羽超联赛",
+      "onboard_time": 1735212858,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105679,
       "num": 201009,
       "word": "向佐说千万不要搞抽象",
@@ -2275,6 +2307,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 86969,
+      "num": 293957,
+      "word": "有人在与AI聊天后上瘾或抑郁",
+      "onboard_time": 1735211478,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86083,
       "num": 86083,
       "word": "詹姆斯库里拥抱",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1735200618,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70832,
+      "num": 254756,
+      "word": "雷军闯入美食赛道",
+      "onboard_time": 1735212258,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 70457,
@@ -2601,6 +2649,14 @@
       "onboard_time": 1735197858,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47382,
+      "num": 314344,
+      "word": "创亚2选手颜值",
+      "onboard_time": 1735212498,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 46970,
@@ -2819,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34826,
+      "num": 374965,
+      "word": "2024年已下发1416个游戏版号",
+      "onboard_time": 1735211298,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34681,
       "num": 465190,
       "word": "为什么猴系男孩在相亲市场很抢手",
@@ -2931,12 +2995,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29043,
-      "num": 214052,
-      "word": "有人在与AI聊天后上瘾或抑郁",
-      "onboard_time": 1735211478,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 29726,
+      "num": 329589,
+      "word": "AL德杯半决赛扳回一城",
+      "onboard_time": 1735212558,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 28617,
+      "num": 281486,
+      "word": "人民网评加强微短剧片名审核",
+      "onboard_time": 1735210938,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 28526,
@@ -3003,14 +3075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 25389,
-      "num": 324538,
-      "word": "2024年已下发1416个游戏版号",
-      "onboard_time": 1735211298,
-      "rank": 9,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 25363,
       "num": 306848,
       "word": "哪些化妆工具没有必要买",
@@ -3067,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22583,
+      "num": 245894,
+      "word": "nova13镜头下的关晓彤",
+      "onboard_time": 1735210518,
+      "rank": 23,
+      "category": "作品衍生,数码"
+    },
+    {
       "raw_hot": 21720,
       "num": 204675,
       "word": "年轻人有自己的节日仪式感",
@@ -3099,12 +3171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20037,
-      "num": 211218,
-      "word": "nova13镜头下的关晓彤",
-      "onboard_time": 1735210518,
-      "rank": 23,
-      "category": "作品衍生,数码"
+      "raw_hot": 20216,
+      "num": 140217,
+      "word": "浙江卫视跨年直播",
+      "onboard_time": 1735210579,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 19396,
@@ -3147,20 +3219,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14829,
-      "num": 281486,
-      "word": "人民网评加强微短剧片名审核",
-      "onboard_time": 1735210938,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13647,
       "num": 231327,
       "word": "陈瑜一日圣诞厨师上线",
       "onboard_time": 1735193719,
       "rank": 27,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 13470,
+      "num": 133791,
+      "word": "真诚式旅游的风又刮到尔滨了",
+      "onboard_time": 1735210099,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 12557,
@@ -3219,12 +3291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10132,
-      "num": 133791,
-      "word": "真诚式旅游的风又刮到尔滨了",
-      "onboard_time": 1735210099,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 10289,
+      "num": 302563,
+      "word": "2024八问中国电影",
+      "onboard_time": 1735212558,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 7545,
