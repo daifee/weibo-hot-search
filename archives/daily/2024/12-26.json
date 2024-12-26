@@ -1,21 +1,21 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735198528240,
+  "endTime": 1735201692125,
   "band_list": [
+    {
+      "raw_hot": 3213780,
+      "num": 3213780,
+      "word": "抽烟男子称徐娇删除视频就会道歉",
+      "onboard_time": 1735196839,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2587053,
       "num": 2587053,
       "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
       "onboard_time": 1735192877,
       "rank": 1,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2325117,
-      "num": 2325117,
-      "word": "抽烟男子称徐娇删除视频就会道歉",
-      "onboard_time": 1735196839,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1735179256,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1619283,
+      "num": 764575,
+      "word": "曝宝石老舅醉酒打架被警方拘留",
+      "onboard_time": 1735198579,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1480575,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1013702,
+      "num": 1013702,
+      "word": "上海 韩国人",
+      "onboard_time": 1735199719,
+      "rank": 1,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 1005382,
       "num": 400642,
       "word": "圣诞节",
@@ -131,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 836689,
+      "num": 546458,
+      "word": "徐娇被告知长沙室内不禁烟",
+      "onboard_time": 1735200798,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803462,
       "num": 803462,
       "word": "火箭少女101",
@@ -145,6 +169,14 @@
       "onboard_time": 1735127838,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 740273,
+      "num": 740273,
+      "word": "刘强东官宣全员加薪",
+      "onboard_time": 1735197017,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 730208,
@@ -193,6 +225,14 @@
       "onboard_time": 1735137320,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 626962,
+      "num": 519177,
+      "word": "留几手收入",
+      "onboard_time": 1735199477,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 621520,
@@ -321,14 +361,6 @@
       "onboard_time": 1735186759,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 475828,
-      "num": 475828,
-      "word": "刘强东官宣全员加薪",
-      "onboard_time": 1735197017,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 466338,
@@ -587,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301288,
+      "num": 301288,
+      "word": "Uzi 一加",
+      "onboard_time": 1735199599,
+      "rank": 12,
+      "category": "电竞,数码"
+    },
+    {
       "raw_hot": 299866,
       "num": 299866,
       "word": "董明珠回应格力电器卖得贵",
@@ -603,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298361,
+      "num": 298361,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292460,
       "num": 292460,
       "word": "迪丽热巴灵蛇献瑞",
       "onboard_time": 1735186818,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291535,
+      "num": 291535,
+      "word": "宋丹丹 豆角这块我熟",
+      "onboard_time": 1735200679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 289804,
@@ -681,6 +737,14 @@
       "onboard_time": 1735191558,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266514,
+      "num": 311362,
+      "word": "200克金条被随手扔了2天后才想起",
+      "onboard_time": 1735197138,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265385,
@@ -787,12 +851,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 231927,
+      "num": 231927,
+      "word": "猎罪3第一个镜头",
+      "onboard_time": 1735200498,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231751,
       "num": 231751,
       "word": "残联回应58岁男子娶21岁失明女子",
       "onboard_time": 1735188258,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229395,
+      "num": 229395,
+      "word": "鱿鱼游戏2全集上线",
+      "onboard_time": 1735201458,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 229107,
@@ -811,12 +891,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218875,
-      "num": 311362,
-      "word": "200克金条被随手扔了2天后才想起",
-      "onboard_time": 1735197138,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 218129,
+      "num": 218129,
+      "word": "白鹿与自己蜡像同框合照",
+      "onboard_time": 1735201159,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 218084,
@@ -931,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "winter唇环",
+      "onboard_time": 1735200679,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194889,
       "num": 366076,
       "word": "千朵桃花一世开",
@@ -1011,6 +1099,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181938,
+      "num": 181938,
+      "word": "孙珍妮小狐狸又回来了",
+      "onboard_time": 1735198338,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179554,
       "num": 179554,
       "word": "杨子哭了",
@@ -1051,6 +1147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 175717,
+      "num": 175717,
+      "word": "黄子韬称会送不低于10台车",
+      "onboard_time": 1735198458,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "塔斯汀回应汉堡里吃出生肉",
@@ -1081,6 +1185,22 @@
       "onboard_time": 1735148953,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170934,
+      "num": 170934,
+      "word": "白鹿入驻上海杜莎",
+      "onboard_time": 1735198880,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168124,
+      "num": 235293,
+      "word": "李嘉琦探班沈月",
+      "onboard_time": 1735200259,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 166013,
@@ -1203,12 +1323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145445,
-      "num": 145445,
-      "word": "孙珍妮小狐狸又回来了",
-      "onboard_time": 1735198338,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 145324,
+      "num": 145324,
+      "word": "沈月大家来串门就应该开个综艺",
+      "onboard_time": 1735200739,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144498,
@@ -1217,14 +1337,6 @@
       "onboard_time": 1735190118,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143594,
-      "num": 143594,
-      "word": "黄子韬称会送不低于10台车",
-      "onboard_time": 1735198458,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 143153,
@@ -1377,6 +1489,14 @@
       "onboard_time": 1735197017,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127901,
+      "num": 127901,
+      "word": "沈腾两句话把王安宇哄成胚胎",
+      "onboard_time": 1735201639,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 126787,
@@ -1579,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96702,
+      "num": 226150,
+      "word": "驼峰鼻",
+      "onboard_time": 1735200559,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 96185,
       "num": 96185,
       "word": "冰雪大世界",
@@ -1593,6 +1721,14 @@
       "onboard_time": 1735189039,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93837,
+      "num": 253499,
+      "word": "SPA店回应发女顾客裸露按摩视频",
+      "onboard_time": 1735200618,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90425,
@@ -1801,6 +1937,22 @@
       "onboard_time": 1735186158,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 57120,
+      "num": 293946,
+      "word": "这届年轻人连婚礼都开始预制了",
+      "onboard_time": 1735201159,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56954,
+      "num": 449751,
+      "word": "顶尖初中偷偷组织小升初神秘考",
+      "onboard_time": 1735200618,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54780,
@@ -2051,6 +2203,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 33584,
+      "num": 219473,
+      "word": "一代人有一代人的年货",
+      "onboard_time": 1735200859,
+      "rank": 30,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 32409,
       "num": 302306,
       "word": "于适蛟龙行动发布会生图",
@@ -2113,6 +2273,14 @@
       "onboard_time": 1735160291,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28816,
+      "num": 255228,
+      "word": "评论罗伯特锐评一加Ace5",
+      "onboard_time": 1735198698,
+      "rank": 18,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 28526,
@@ -2227,6 +2395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 20831,
+      "num": 769787,
+      "word": "来过一个冬日梦幻之旅",
+      "onboard_time": 1735185380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19396,
       "num": 19396,
       "word": "年度照片",
@@ -2257,6 +2433,14 @@
       "onboard_time": 1735157290,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16413,
+      "num": 228814,
+      "word": "2024画不完根本画不完",
+      "onboard_time": 1735201280,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 13647,
@@ -2305,6 +2489,22 @@
       "onboard_time": 1735187420,
       "rank": 25,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 11044,
+      "num": 222395,
+      "word": "江奇霖新片神机妙探",
+      "onboard_time": 1735198698,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10789,
+      "num": 230585,
+      "word": "克莱生涯三分数历史第五",
+      "onboard_time": 1735200859,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 6889,
