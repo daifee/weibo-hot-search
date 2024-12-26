@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735202493233,
+  "endTime": 1735204983123,
   "band_list": [
     {
       "raw_hot": 3213780,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1712805,
+      "num": 1712805,
+      "word": "六代机",
+      "onboard_time": 1735203558,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1684312,
       "num": 1684312,
       "word": "女网红拿无人区救命粮喂狗",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1619283,
-      "num": 764575,
+      "num": 1155461,
       "word": "曝宝石老舅醉酒打架被警方拘留",
       "onboard_time": 1735198579,
       "rank": 3,
@@ -57,6 +65,14 @@
       "onboard_time": 1735182797,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1386681,
+      "num": 1386681,
+      "word": "上海 韩国人",
+      "onboard_time": 1735199719,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 1329698,
@@ -97,14 +113,6 @@
       "onboard_time": 1735194257,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1120901,
-      "num": 1120901,
-      "word": "上海 韩国人",
-      "onboard_time": 1735199719,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1105473,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 836689,
-      "num": 546458,
+      "num": 588346,
       "word": "徐娇被告知长沙室内不禁烟",
       "onboard_time": 1735200798,
       "rank": 6,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697505,
+      "num": 519177,
+      "word": "留几手收入",
+      "onboard_time": 1735199477,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 695818,
       "num": 695818,
       "word": "俄对乌发动大规模圣诞节袭击",
@@ -225,14 +241,6 @@
       "onboard_time": 1735137320,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 626962,
-      "num": 519177,
-      "word": "留几手收入",
-      "onboard_time": 1735199477,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 621520,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535852,
+      "num": 402321,
+      "word": "葛夕留几手没有离婚",
+      "onboard_time": 1735203738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534540,
       "num": 534540,
       "word": "700万大平层漏风两年没解决",
@@ -321,6 +337,14 @@
       "onboard_time": 1735188200,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526297,
+      "num": 400077,
+      "word": "驼峰鼻",
+      "onboard_time": 1735200559,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 516933,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 412474,
+      "num": 412474,
+      "word": "鱿鱼游戏2全集上线",
+      "onboard_time": 1735201458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408919,
       "num": 408919,
       "word": "手脚冰凉是身体哪里出了问题",
@@ -419,20 +451,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 405002,
-      "num": 234759,
-      "word": "鱿鱼游戏2全集上线",
-      "onboard_time": 1735201458,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 400144,
       "num": 400144,
       "word": "阿姨用鸡毛复刻凤冠超惊艳",
       "onboard_time": 1735157831,
       "rank": 49,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 394558,
+      "num": 394558,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 388628,
@@ -457,6 +489,14 @@
       "onboard_time": 1735183637,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378466,
+      "num": 291535,
+      "word": "宋丹丹 豆角这块我熟",
+      "onboard_time": 1735200679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 371299,
@@ -547,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340699,
+      "num": 212333,
+      "word": "Angelababy与中华白海豚vlog",
+      "onboard_time": 1735203679,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334248,
       "num": 334248,
       "word": "整个馆只有俄罗斯人是原产",
@@ -569,14 +617,6 @@
       "onboard_time": 1735169716,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 319741,
-      "num": 298361,
-      "word": "鱿鱼游戏 孔刘",
-      "onboard_time": 1735200859,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 317558,
@@ -657,14 +697,6 @@
       "onboard_time": 1735185678,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298194,
-      "num": 291535,
-      "word": "宋丹丹 豆角这块我熟",
-      "onboard_time": 1735200679,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 292460,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220446,
+      "num": 220446,
+      "word": "下水道里抽出很多鲶鱼",
+      "onboard_time": 1735203618,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218129,
       "num": 218129,
       "word": "白鹿与自己蜡像同框合照",
@@ -907,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216882,
-      "num": 228125,
-      "word": "驼峰鼻",
-      "onboard_time": 1735200559,
-      "rank": 28,
-      "category": "网红"
+      "raw_hot": 214318,
+      "num": 232033,
+      "word": "遭老板性侵被开除女子申请工伤成功",
+      "onboard_time": 1735202359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213696,
@@ -953,6 +993,14 @@
       "onboard_time": 1735188200,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209907,
+      "num": 209907,
+      "word": "丁禹兮付出型人格魅力还在上升",
+      "onboard_time": 1735203919,
+      "rank": 23,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209699,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1735130779,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200549,
+      "num": 200549,
+      "word": "苏新皓 鬓角",
+      "onboard_time": 1735204518,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198492,
@@ -1179,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172677,
+      "num": 172677,
+      "word": "滞留太空美宇航员圣诞节照片引质疑",
+      "onboard_time": 1735202478,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172314,
       "num": 172314,
       "word": "塔斯汀回应汉堡里吃出生肉",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1735198880,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169713,
+      "num": 169713,
+      "word": "58岁男子娶21岁失明女子称没有团队",
+      "onboard_time": 1735202599,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166013,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1735196357,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161090,
+      "num": 161090,
+      "word": "孙颖莎感谢深大俱乐部培养和支持",
+      "onboard_time": 1735203558,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 157644,
@@ -1379,6 +1459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141738,
+      "num": 141738,
+      "word": "上海美甲",
+      "onboard_time": 1735203078,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141708,
       "num": 141708,
       "word": "麦琳把李行亮猜成杨子",
@@ -1467,12 +1555,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132861,
+      "num": 132861,
+      "word": "一人用7天无理由退货诈骗200多万",
+      "onboard_time": 1735204879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "山河枕",
       "onboard_time": 1735133480,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131396,
+      "num": 131396,
+      "word": "男子用35个网购账号买真退假",
+      "onboard_time": 1735204819,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130758,
@@ -1497,6 +1601,14 @@
       "onboard_time": 1735191318,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128362,
+      "num": 200523,
+      "word": "当地回应近百只猫在水塘中被溺死",
+      "onboard_time": 1735204158,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128160,
@@ -1843,6 +1955,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75553,
+      "num": 439026,
+      "word": "多家俄罗斯商品馆开始整改",
+      "onboard_time": 1735203857,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75423,
+      "num": 769787,
+      "word": "来过一个冬日梦幻之旅",
+      "onboard_time": 1735185380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74168,
       "num": 87300,
       "word": "付辛博颖儿把每天都过成情人节",
@@ -1931,6 +2059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62384,
+      "num": 195324,
+      "word": "再见爱人 答案之书",
+      "onboard_time": 1735202718,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62351,
       "num": 195537,
       "word": "相约2025跨年夜",
@@ -1963,6 +2099,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57193,
+      "num": 209828,
+      "word": "马丽要拍自传电影",
+      "onboard_time": 1735203919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54780,
       "num": 246203,
       "word": "鲁豫首次跨界翻译哈里王子自传",
@@ -1971,10 +2115,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52785,
-      "num": 232033,
-      "word": "遭老板性侵被开除女子申请工伤成功",
-      "onboard_time": 1735202359,
+      "raw_hot": 54623,
+      "num": 280350,
+      "word": "男童走失监控最后画面为去邻居家玩",
+      "onboard_time": 1735204640,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -2107,6 +2251,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 41692,
+      "num": 213509,
+      "word": "电影小小的我表情包",
+      "onboard_time": 1735204819,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41513,
+      "num": 212907,
+      "word": "报告称近三成有房者仍选择租房",
+      "onboard_time": 1735204339,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41200,
       "num": 185260,
       "word": "掘金vs太阳",
@@ -2129,6 +2289,14 @@
       "onboard_time": 1735123038,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40468,
+      "num": 190180,
+      "word": "WBG对战AL",
+      "onboard_time": 1735203799,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 40232,
@@ -2177,6 +2345,14 @@
       "onboard_time": 1735150093,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37196,
+      "num": 161516,
+      "word": "韩女在上海怎么拍",
+      "onboard_time": 1735204578,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 35921,
@@ -2347,12 +2523,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26388,
-      "num": 769787,
-      "word": "来过一个冬日梦幻之旅",
-      "onboard_time": 1735185380,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 26797,
+      "num": 211098,
+      "word": "撒贝宁感慨要好好吃饭好好陪伴",
+      "onboard_time": 1735204038,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 26095,
@@ -2393,6 +2569,14 @@
       "onboard_time": 1735186218,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23947,
+      "num": 128583,
+      "word": "一条plog告别2024",
+      "onboard_time": 1735202957,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 22871,
@@ -2441,6 +2625,14 @@
       "onboard_time": 1735153931,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18685,
+      "num": 209853,
+      "word": "Uzi说一加Ace5YYDS",
+      "onboard_time": 1735203523,
+      "rank": 24,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 18200,
@@ -2523,6 +2715,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 10968,
+      "num": 1489466,
+      "word": "中国载人深潜能力拓展到全球海域",
+      "onboard_time": 1735204758,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10789,
       "num": 230585,
       "word": "克莱生涯三分数历史第五",
@@ -2561,6 +2761,9 @@
     },
     {
       "word": "#2024年总书记牵挂这些方面#"
+    },
+    {
+      "word": "#志合越山海#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735202493233,
+  "endTime": 1735204983123,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1712805,
+      "num": 1712805,
+      "word": "六代机",
+      "onboard_time": 1735203558,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1711908,
       "num": 1711908,
       "word": "普京谈俄罗斯色情泛滥",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 1619283,
-      "num": 764575,
+      "num": 1155461,
       "word": "曝宝石老舅醉酒打架被警方拘留",
       "onboard_time": 1735198579,
       "rank": 3,
@@ -329,6 +337,14 @@
       "onboard_time": 1735118539,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1386681,
+      "num": 1386681,
+      "word": "上海 韩国人",
+      "onboard_time": 1735199719,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 1385780,
@@ -569,14 +585,6 @@
       "onboard_time": 1735101740,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1120901,
-      "num": 1120901,
-      "word": "上海 韩国人",
-      "onboard_time": 1735199719,
-      "rank": 1,
-      "category": "旅游"
     },
     {
       "raw_hot": 1120608,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 836689,
-      "num": 546458,
+      "num": 588346,
       "word": "徐娇被告知长沙室内不禁烟",
       "onboard_time": 1735200798,
       "rank": 6,
@@ -1427,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 697505,
+      "num": 519177,
+      "word": "留几手收入",
+      "onboard_time": 1735199477,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696162,
       "num": 884940,
       "word": "13楼住户遭厨余炸弹袭击",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1735112778,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 626962,
-      "num": 519177,
-      "word": "留几手收入",
-      "onboard_time": 1735199477,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 626396,
@@ -2203,6 +2211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 535852,
+      "num": 402321,
+      "word": "葛夕留几手没有离婚",
+      "onboard_time": 1735203738,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 535580,
       "num": 535580,
       "word": "宋佳已提前预订明年奖杯",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1735040597,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 526297,
+      "num": 400077,
+      "word": "驼峰鼻",
+      "onboard_time": 1735200559,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 526141,
@@ -2987,6 +3011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 412474,
+      "num": 412474,
+      "word": "鱿鱼游戏2全集上线",
+      "onboard_time": 1735201458,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412276,
       "num": 325050,
       "word": "祝绪丹会跟迪丽热巴讲心里话",
@@ -3025,14 +3057,6 @@
       "onboard_time": 1734852258,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 405002,
-      "num": 234759,
-      "word": "鱿鱼游戏2全集上线",
-      "onboard_time": 1735201458,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 403520,
@@ -3195,6 +3219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394558,
+      "num": 394558,
+      "word": "鱿鱼游戏 孔刘",
+      "onboard_time": 1735200859,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394393,
       "num": 340388,
       "word": "肖战版郭靖是如何练成的",
@@ -3345,6 +3377,14 @@
       "onboard_time": 1735026500,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378466,
+      "num": 291535,
+      "word": "宋丹丹 豆角这块我熟",
+      "onboard_time": 1735200679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 377188,
@@ -3691,6 +3731,14 @@
       "category": "作品衍生,体育"
     },
     {
+      "raw_hot": 340699,
+      "num": 212333,
+      "word": "Angelababy与中华白海豚vlog",
+      "onboard_time": 1735203679,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339564,
       "num": 339564,
       "word": "胡军 丐永一",
@@ -3905,14 +3953,6 @@
       "onboard_time": 1735109717,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 319741,
-      "num": 298361,
-      "word": "鱿鱼游戏 孔刘",
-      "onboard_time": 1735200859,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 318812,
@@ -4217,14 +4257,6 @@
       "onboard_time": 1735055418,
       "rank": 8,
       "category": "网红"
-    },
-    {
-      "raw_hot": 298194,
-      "num": 291535,
-      "word": "宋丹丹 豆角这块我熟",
-      "onboard_time": 1735200679,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 296907,
@@ -5587,6 +5619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220446,
+      "num": 220446,
+      "word": "下水道里抽出很多鲶鱼",
+      "onboard_time": 1735203618,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219858,
       "num": 475220,
       "word": "上海地铁11号线预计21时恢复运营",
@@ -5683,14 +5723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216882,
-      "num": 228125,
-      "word": "驼峰鼻",
-      "onboard_time": 1735200559,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 216862,
       "num": 216862,
       "word": "郭柯宇 性格",
@@ -5761,6 +5793,14 @@
       "onboard_time": 1735104859,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214318,
+      "num": 232033,
+      "word": "遭老板性侵被开除女子申请工伤成功",
+      "onboard_time": 1735202359,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214064,
@@ -5889,6 +5929,14 @@
       "onboard_time": 1735094296,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209907,
+      "num": 209907,
+      "word": "丁禹兮付出型人格魅力还在上升",
+      "onboard_time": 1735203919,
+      "rank": 23,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 209905,
@@ -6289,6 +6337,14 @@
       "onboard_time": 1734832876,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200549,
+      "num": 200549,
+      "word": "苏新皓 鬓角",
+      "onboard_time": 1735204518,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200394,
@@ -7675,6 +7731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172677,
+      "num": 172677,
+      "word": "滞留太空美宇航员圣诞节照片引质疑",
+      "onboard_time": 1735202478,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172669,
       "num": 172669,
       "word": "你买的冲锋衣可能是假的",
@@ -7833,6 +7897,14 @@
       "onboard_time": 1735005258,
       "rank": 31,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 169713,
+      "num": 169713,
+      "word": "58岁男子娶21岁失明女子称没有团队",
+      "onboard_time": 1735202599,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169639,
@@ -8313,6 +8385,14 @@
       "onboard_time": 1735096217,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161090,
+      "num": 161090,
+      "word": "孙颖莎感谢深大俱乐部培养和支持",
+      "onboard_time": 1735203558,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 160971,
@@ -9475,6 +9555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141738,
+      "num": 141738,
+      "word": "上海美甲",
+      "onboard_time": 1735203078,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 141708,
       "num": 141708,
       "word": "麦琳把李行亮猜成杨子",
@@ -10035,6 +10123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132861,
+      "num": 132861,
+      "word": "一人用7天无理由退货诈骗200多万",
+      "onboard_time": 1735204879,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132718,
       "num": 132718,
       "word": "法基 简单",
@@ -10129,6 +10225,14 @@
       "onboard_time": 1734835276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131396,
+      "num": 131396,
+      "word": "男子用35个网购账号买真退假",
+      "onboard_time": 1735204819,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131246,
@@ -10329,6 +10433,14 @@
       "onboard_time": 1735117998,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128362,
+      "num": 200523,
+      "word": "当地回应近百只猫在水塘中被溺死",
+      "onboard_time": 1735204158,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128171,
@@ -12963,6 +13075,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 75553,
+      "num": 439026,
+      "word": "多家俄罗斯商品馆开始整改",
+      "onboard_time": 1735203857,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75423,
+      "num": 769787,
+      "word": "来过一个冬日梦幻之旅",
+      "onboard_time": 1735185380,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75234,
       "num": 325359,
       "word": "没高铁的县级市实施免费教育十余年",
@@ -13643,6 +13771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62384,
+      "num": 195324,
+      "word": "再见爱人 答案之书",
+      "onboard_time": 1735202718,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62351,
       "num": 195537,
       "word": "相约2025跨年夜",
@@ -13899,6 +14035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57193,
+      "num": 209828,
+      "word": "马丽要拍自传电影",
+      "onboard_time": 1735203919,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57015,
       "num": 62766,
       "word": "平安夜快乐",
@@ -14075,6 +14219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54623,
+      "num": 280350,
+      "word": "男童走失监控最后画面为去邻居家玩",
+      "onboard_time": 1735204640,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54127,
       "num": 343598,
       "word": "上官正义一年举报43家非法代孕机构",
@@ -14145,14 +14297,6 @@
       "onboard_time": 1735042458,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 52785,
-      "num": 232033,
-      "word": "遭老板性侵被开除女子申请工伤成功",
-      "onboard_time": 1735202359,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52673,
@@ -14955,6 +15099,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41692,
+      "num": 213509,
+      "word": "电影小小的我表情包",
+      "onboard_time": 1735204819,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 41513,
+      "num": 212907,
+      "word": "报告称近三成有房者仍选择租房",
+      "onboard_time": 1735204339,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41337,
       "num": 128522,
       "word": "2025考研第2天",
@@ -15057,6 +15217,14 @@
       "onboard_time": 1735029319,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40468,
+      "num": 190180,
+      "word": "WBG对战AL",
+      "onboard_time": 1735203799,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 40360,
@@ -15273,6 +15441,14 @@
       "onboard_time": 1734856340,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37196,
+      "num": 161516,
+      "word": "韩女在上海怎么拍",
+      "onboard_time": 1735204578,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 37161,
@@ -16179,6 +16355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26797,
+      "num": 211098,
+      "word": "撒贝宁感慨要好好吃饭好好陪伴",
+      "onboard_time": 1735204038,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26780,
       "num": 254095,
       "word": "领克全新旗舰车型谍照曝光",
@@ -16201,14 +16385,6 @@
       "onboard_time": 1734941599,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 26388,
-      "num": 769787,
-      "word": "来过一个冬日梦幻之旅",
-      "onboard_time": 1735185380,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26375,
@@ -16409,6 +16585,14 @@
       "onboard_time": 1734974893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23947,
+      "num": 128583,
+      "word": "一条plog告别2024",
+      "onboard_time": 1735202957,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 23757,
@@ -16761,6 +16945,14 @@
       "onboard_time": 1735064472,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18685,
+      "num": 209853,
+      "word": "Uzi说一加Ace5YYDS",
+      "onboard_time": 1735203523,
+      "rank": 24,
+      "category": "电竞,数码"
     },
     {
       "raw_hot": 18611,
@@ -17179,6 +17371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10968,
+      "num": 1489466,
+      "word": "中国载人深潜能力拓展到全球海域",
+      "onboard_time": 1735204758,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10799,
       "num": 209253,
       "word": "黄子华说破地狱是一场疯狂的舞会",
@@ -17424,6 +17624,9 @@
     },
     {
       "word": "#2024年总书记牵挂这些方面#"
+    },
+    {
+      "word": "#志合越山海#"
     }
   ]
 }

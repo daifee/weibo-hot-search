@@ -1,0 +1,410 @@
+{
+  "runTime": 1735204983123,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868384,
+        "num": 1868384,
+        "word": "抽烟男子称徐娇删除视频就会道歉",
+        "onboard_time": 1735196839,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1712805,
+        "num": 1712805,
+        "word": "六代机",
+        "onboard_time": 1735203558,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10968,
+        "num": 1489466,
+        "word": "中国载人深潜能力拓展到全球海域",
+        "onboard_time": 1735204758,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1386681,
+        "num": 1386681,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1155461,
+        "num": 1155461,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618776,
+        "num": 618776,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 816173,
+        "num": 588346,
+        "word": "徐娇被告知长沙室内不禁烟",
+        "onboard_time": 1735200798,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487020,
+        "num": 487020,
+        "word": "坏了让她读到真大学了",
+        "onboard_time": 1735192458,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75553,
+        "num": 439026,
+        "word": "多家俄罗斯商品馆开始整改",
+        "onboard_time": 1735203857,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412474,
+        "num": 412474,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697505,
+        "num": 404874,
+        "word": "留几手收入",
+        "onboard_time": 1735199477,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 535852,
+        "num": 402321,
+        "word": "葛夕留几手没有离婚",
+        "onboard_time": 1735203738,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526297,
+        "num": 400077,
+        "word": "驼峰鼻",
+        "onboard_time": 1735200559,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394558,
+        "num": 394558,
+        "word": "鱿鱼游戏 孔刘",
+        "onboard_time": 1735200859,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54623,
+        "num": 280350,
+        "word": "男童走失监控最后画面为去邻居家玩",
+        "onboard_time": 1735204640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220446,
+        "num": 220446,
+        "word": "下水道里抽出很多鲶鱼",
+        "onboard_time": 1735203618,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214318,
+        "num": 214318,
+        "word": "遭老板性侵被开除女子申请工伤成功",
+        "onboard_time": 1735202359,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214309,
+        "num": 214309,
+        "word": "将亡妻金镯熔给新伴侣换首饰后续",
+        "onboard_time": 1735187238,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41692,
+        "num": 213509,
+        "word": "电影小小的我表情包",
+        "onboard_time": 1735204819,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41513,
+        "num": 212907,
+        "word": "报告称近三成有房者仍选择租房",
+        "onboard_time": 1735204339,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340699,
+        "num": 212333,
+        "word": "Angelababy与中华白海豚vlog",
+        "onboard_time": 1735203679,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 211098,
+        "word": "撒贝宁感慨要好好吃饭好好陪伴",
+        "onboard_time": 1735204038,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378466,
+        "num": 210279,
+        "word": "宋丹丹 豆角这块我熟",
+        "onboard_time": 1735200679,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209907,
+        "num": 209907,
+        "word": "丁禹兮付出型人格魅力还在上升",
+        "onboard_time": 1735203919,
+        "rank": 23,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 18685,
+        "num": 209853,
+        "word": "Uzi说一加Ace5YYDS",
+        "onboard_time": 1735203523,
+        "rank": 24,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 57193,
+        "num": 209828,
+        "word": "马丽要拍自传电影",
+        "onboard_time": 1735203919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27955,
+        "num": 209820,
+        "word": "一代人有一代人的年货",
+        "onboard_time": 1735200859,
+        "rank": 26,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 209813,
+        "num": 209813,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200549,
+        "num": 200549,
+        "word": "苏新皓 鬓角",
+        "onboard_time": 1735204518,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128362,
+        "num": 200523,
+        "word": "当地回应近百只猫在水塘中被溺死",
+        "onboard_time": 1735204158,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75423,
+        "num": 196047,
+        "word": "来过一个冬日梦幻之旅",
+        "onboard_time": 1735185380,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62384,
+        "num": 195324,
+        "word": "再见爱人 答案之书",
+        "onboard_time": 1735202718,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342011,
+        "num": 193042,
+        "word": "刘强东官宣全员加薪",
+        "onboard_time": 1735197017,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40468,
+        "num": 190180,
+        "word": "WBG对战AL",
+        "onboard_time": 1735203799,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188992,
+        "num": 188992,
+        "word": "第5次全国经济普查结果公布",
+        "onboard_time": 1735197437,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179950,
+        "num": 179950,
+        "word": "猎罪3第一个镜头",
+        "onboard_time": 1735200498,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172677,
+        "num": 172677,
+        "word": "滞留太空美宇航员圣诞节照片引质疑",
+        "onboard_time": 1735202478,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "58岁男子娶21岁失明女子称没有团队",
+        "onboard_time": 1735202599,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162876,
+        "num": 162876,
+        "word": "99年女子生娃前忍着宫缩紧急化妆",
+        "onboard_time": 1735185259,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37196,
+        "num": 161516,
+        "word": "韩女在上海怎么拍",
+        "onboard_time": 1735204578,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 161090,
+        "word": "孙颖莎感谢深大俱乐部培养和支持",
+        "onboard_time": 1735203558,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160322,
+        "num": 160322,
+        "word": "200克金条被随手扔了2天后才想起",
+        "onboard_time": 1735197138,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157629,
+        "num": 157629,
+        "word": "Uzi 一加",
+        "onboard_time": 1735199599,
+        "rank": 42,
+        "category": "电竞,数码"
+      },
+      {
+        "raw_hot": 147601,
+        "num": 147601,
+        "word": "winter唇环",
+        "onboard_time": 1735200679,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142423,
+        "num": 142423,
+        "word": "沈腾两句话把王安宇哄成胚胎",
+        "onboard_time": 1735201639,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141738,
+        "num": 141738,
+        "word": "上海美甲",
+        "onboard_time": 1735203078,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132861,
+        "num": 132861,
+        "word": "一人用7天无理由退货诈骗200多万",
+        "onboard_time": 1735204879,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131396,
+        "num": 131396,
+        "word": "男子用35个网购账号买真退假",
+        "onboard_time": 1735204819,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129493,
+        "num": 129493,
+        "word": "李嘉琦探班沈月",
+        "onboard_time": 1735200259,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23947,
+        "num": 128583,
+        "word": "一条plog告别2024",
+        "onboard_time": 1735202957,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}
