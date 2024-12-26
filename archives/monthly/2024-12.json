@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735230436153,
+  "endTime": 1735231332736,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -9851,6 +9851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660961,
+      "num": 660961,
+      "word": "有部分俄罗斯商品馆开始撤店",
+      "onboard_time": 1735226298,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 660931,
       "num": 660931,
       "word": "稳住楼市股市",
@@ -10569,14 +10577,6 @@
       "onboard_time": 1734607819,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 633114,
-      "num": 633114,
-      "word": "有部分俄罗斯商品馆开始撤店",
-      "onboard_time": 1735226298,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 632801,
@@ -18931,6 +18931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 391638,
+      "num": 276121,
+      "word": "徐娇劝阻抽烟餐厅人均103元",
+      "onboard_time": 1735231216,
+      "rank": 5,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 391449,
       "num": 298453,
       "word": "孔雪儿九重紫新婚夜被家暴",
@@ -22340,7 +22348,7 @@
     },
     {
       "raw_hot": 327976,
-      "num": 198072,
+      "num": 249576,
       "word": "鱿鱼游戏3",
       "onboard_time": 1735227198,
       "rank": 37,
@@ -32289,6 +32297,14 @@
       "onboard_time": 1733837960,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217090,
+      "num": 296830,
+      "word": "中方坚决反对美在菲律宾部署中导",
+      "onboard_time": 1735226779,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 217088,
@@ -51667,14 +51683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149463,
-      "num": 296830,
-      "word": "中方坚决反对美在菲律宾部署中导",
-      "onboard_time": 1735226779,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 149462,
       "num": 149462,
       "word": "深圳大学3比0黄石基地",
@@ -56979,6 +56987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 133230,
+      "num": 102913,
+      "word": "徐娇 勇敢",
+      "onboard_time": 1735230677,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133218,
       "num": 133218,
       "word": "张杰说我们不会再错过了",
@@ -61657,6 +61673,14 @@
       "onboard_time": 1734667577,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118361,
+      "num": 102534,
+      "word": "鱿鱼游戏2结局",
+      "onboard_time": 1735229957,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118262,
@@ -69953,14 +69977,6 @@
       "onboard_time": 1734607038,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 84699,
-      "num": 76591,
-      "word": "鱿鱼游戏2结局",
-      "onboard_time": 1735229957,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 84602,
@@ -78801,6 +78817,14 @@
       "onboard_time": 1734969318,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49501,
+      "num": 58300,
+      "word": "狼队vs曼联",
+      "onboard_time": 1735230916,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 49443,
@@ -94704,6 +94728,14 @@
       "word": "离了向佐谁还玩抽象给我看",
       "onboard_time": 1733260931,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6018,
+      "num": 105946,
+      "word": "费曼晒吴镇宇丑照",
+      "onboard_time": 1735231036,
+      "rank": 19,
       "category": "艺人"
     },
     {

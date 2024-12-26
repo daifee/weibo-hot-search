@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735230436153,
+  "endTime": 1735231332736,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -27,8 +27,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633114,
-      "num": 633114,
+      "raw_hot": 660961,
+      "num": 660961,
       "word": "有部分俄罗斯商品馆开始撤店",
       "onboard_time": 1735226298,
       "rank": 1,
@@ -52,15 +52,23 @@
     },
     {
       "raw_hot": 406694,
-      "num": 246856,
+      "num": 257380,
       "word": "赵丽颖谈女性可以多么有光芒",
       "onboard_time": 1735221019,
       "rank": 11,
       "category": "剧集"
     },
     {
+      "raw_hot": 391638,
+      "num": 276121,
+      "word": "徐娇劝阻抽烟餐厅人均103元",
+      "onboard_time": 1735231216,
+      "rank": 5,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 384811,
-      "num": 229455,
+      "num": 255686,
       "word": "猎罪图鉴1编剧",
       "onboard_time": 1735225879,
       "rank": 12,
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329717,
-      "num": 200405,
+      "raw_hot": 343013,
+      "num": 264690,
       "word": "曝宝石老舅醉酒打架被警方拘留",
       "onboard_time": 1735198579,
       "rank": 13,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 327976,
-      "num": 198072,
+      "num": 249576,
       "word": "鱿鱼游戏3",
       "onboard_time": 1735227198,
       "rank": 15,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217090,
+      "num": 296830,
+      "word": "中方坚决反对美在菲律宾部署中导",
+      "onboard_time": 1735226779,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199411,
       "num": 199411,
       "word": "上海挤满了周五下班的韩国人",
@@ -145,14 +161,6 @@
       "onboard_time": 1735222880,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 149463,
-      "num": 296830,
-      "word": "中方坚决反对美在菲律宾部署中导",
-      "onboard_time": 1735226779,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146968,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133230,
+      "num": 102913,
+      "word": "徐娇 勇敢",
+      "onboard_time": 1735230677,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133061,
       "num": 103615,
       "word": "丁禹兮银发挑染造型路透",
@@ -201,6 +217,14 @@
       "onboard_time": 1735220119,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118361,
+      "num": 102534,
+      "word": "鱿鱼游戏2结局",
+      "onboard_time": 1735229957,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 116027,
@@ -259,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94844,
+      "num": 94844,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93725,
       "num": 93725,
       "word": "鱿鱼游戏2全集上线",
@@ -291,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84699,
-      "num": 76591,
-      "word": "鱿鱼游戏2结局",
-      "onboard_time": 1735229957,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84250,
       "num": 76540,
       "word": "TOP地狱笑话",
@@ -313,14 +337,6 @@
       "onboard_time": 1735221140,
       "rank": 38,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 77102,
-      "num": 77102,
-      "word": "室内公共场所禁烟是全国性的",
-      "onboard_time": 1735208959,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76041,
@@ -355,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61105,
+      "num": 61105,
+      "word": "王安宇 我上去就是一把糯米",
+      "onboard_time": 1735215859,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59793,
+      "num": 59793,
+      "word": "娃哈哈奶茶店有时1天1张单都没有",
+      "onboard_time": 1735206980,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57401,
       "num": 69312,
       "word": "这一年别忘了谢谢自己",
@@ -379,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49501,
+      "num": 58300,
+      "word": "狼队vs曼联",
+      "onboard_time": 1735230916,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42252,
       "num": 111347,
       "word": "孙颖莎提前祝大家元旦快乐",
@@ -395,10 +435,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31841,
+      "num": 104386,
+      "word": "光遇",
+      "onboard_time": 1735223841,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 6069,
       "num": 120644,
       "word": "吴磊给粉丝讲冷笑话",
       "onboard_time": 1735229837,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6018,
+      "num": 105946,
+      "word": "费曼晒吴镇宇丑照",
+      "onboard_time": 1735231036,
       "rank": 19,
       "category": "艺人"
     }
