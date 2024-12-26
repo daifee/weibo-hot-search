@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735209632158,
+  "endTime": 1735211917445,
   "band_list": [
     {
       "raw_hot": 3698769,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 652676,
+      "num": 342288,
+      "word": "TOP演技",
+      "onboard_time": 1735208599,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644159,
       "num": 898134,
       "word": "女子喝陌生人的水昏迷被拐",
@@ -451,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462335,
+      "num": 338629,
+      "word": "马伊琍获评国家一级演员",
+      "onboard_time": 1735206197,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455235,
       "num": 455235,
       "word": "GDP",
@@ -513,6 +529,14 @@
       "onboard_time": 1735140138,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 406427,
+      "num": 212767,
+      "word": "孔刘第一集下线",
+      "onboard_time": 1735209378,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 401765,
@@ -611,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365237,
+      "num": 280871,
+      "word": "宝石老舅工作人员晒行程单辟谣",
+      "onboard_time": 1735209078,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363562,
       "num": 445570,
       "word": "四川盆地有40万亿立方米天然气",
@@ -651,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 342288,
-      "num": 342288,
-      "word": "TOP演技",
-      "onboard_time": 1735208599,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341489,
       "num": 341489,
       "word": "林一 左边到底有谁在啊",
@@ -672,6 +696,14 @@
       "word": "整个馆只有俄罗斯人是原产",
       "onboard_time": 1735192398,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330382,
+      "num": 341456,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -819,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275866,
+      "num": 275866,
+      "word": "获利180元被罚10万卖羊肉老太发声",
+      "onboard_time": 1735210039,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275419,
       "num": 275419,
       "word": "哈佛大学建议的最佳抗衰老运动",
@@ -921,14 +961,6 @@
       "onboard_time": 1735203618,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244932,
-      "num": 338629,
-      "word": "马伊琍获评国家一级演员",
-      "onboard_time": 1735206197,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 242129,
@@ -1083,6 +1115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 210901,
+      "num": 210901,
+      "word": "娃哈哈奶茶店有时1天1张单都没有",
+      "onboard_time": 1735206980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210830,
       "num": 210830,
       "word": "这是我见过混的最差的霸总",
@@ -1115,14 +1155,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 207167,
-      "num": 207167,
-      "word": "娃哈哈奶茶店有时1天1张单都没有",
-      "onboard_time": 1735206980,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "赛里木湖",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1735208419,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204049,
+      "num": 204049,
+      "word": "微博之夜",
+      "onboard_time": 1735211420,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202828,
@@ -1219,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194995,
+      "num": 194995,
+      "word": "鱿鱼游戏 吊在俊",
+      "onboard_time": 1735210819,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194889,
       "num": 366076,
       "word": "千朵桃花一世开",
@@ -1265,6 +1313,22 @@
       "onboard_time": 1735171277,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190785,
+      "num": 190785,
+      "word": "蒋欣24岁状态vs41岁状态",
+      "onboard_time": 1735210220,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190351,
+      "num": 190351,
+      "word": "李惠仁又长高了",
+      "onboard_time": 1735210699,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 189947,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1735179677,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 176917,
+      "num": 176917,
+      "word": "星光大赏",
+      "onboard_time": 1735210337,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 176480,
@@ -1411,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169532,
-      "num": 169532,
-      "word": "宝石老舅工作人员晒行程单辟谣",
-      "onboard_time": 1735209078,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 169623,
+      "num": 169623,
+      "word": "孙颖莎调侃年纪在队伍中最大",
+      "onboard_time": 1735211357,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 166437,
@@ -1491,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159151,
+      "num": 159151,
+      "word": "不要靠近任何需要切的糕",
+      "onboard_time": 1735210159,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157644,
       "num": 157644,
       "word": "平台回应网约司机投诉接不到女乘客",
@@ -1505,6 +1585,14 @@
       "onboard_time": 1735206019,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154096,
+      "num": 154096,
+      "word": "张婧仪给陈都灵奶茶应援",
+      "onboard_time": 1735211839,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 153883,
@@ -1529,6 +1617,22 @@
       "onboard_time": 1735170736,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150997,
+      "num": 150997,
+      "word": "白鹿白色缎面高定裙",
+      "onboard_time": 1735209140,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 149614,
+      "num": 214300,
+      "word": "网剧冬至",
+      "onboard_time": 1735210699,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 148765,
@@ -1571,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145785,
+      "num": 145785,
+      "word": "王鹤棣曼谷接机现场人气",
+      "onboard_time": 1735210699,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145619,
       "num": 145619,
       "word": "iG运营辞职",
@@ -1585,14 +1697,6 @@
       "onboard_time": 1735200739,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144901,
-      "num": 144901,
-      "word": "白鹿白色缎面高定裙",
-      "onboard_time": 1735209140,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 144498,
@@ -1713,14 +1817,6 @@
       "onboard_time": 1735129819,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134322,
-      "num": 169533,
-      "word": "孔刘第一集下线",
-      "onboard_time": 1735209378,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 134079,
@@ -1851,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124422,
+      "num": 124422,
+      "word": "国家一级演员职称的评选标准是什么",
+      "onboard_time": 1735210579,
+      "rank": 49,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 121390,
       "num": 121390,
       "word": "孟子义说宠物是自己选择的家人",
@@ -1945,6 +2049,14 @@
       "onboard_time": 1735205479,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111426,
+      "num": 149845,
+      "word": "考完研失去了放松的能力",
+      "onboard_time": 1735208359,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 110307,
@@ -2099,14 +2211,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 96012,
-      "num": 341456,
-      "word": "室内公共场所禁烟是全国性的",
-      "onboard_time": 1735208959,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95051,
       "num": 241871,
       "word": "宋亚轩诡异的抽象",
@@ -2201,6 +2305,14 @@
       "onboard_time": 1735196778,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82929,
+      "num": 211911,
+      "word": "我的2024游戏总结",
+      "onboard_time": 1735210878,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 82819,
@@ -2819,6 +2931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29043,
+      "num": 214052,
+      "word": "有人在与AI聊天后上瘾或抑郁",
+      "onboard_time": 1735211478,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28526,
       "num": 28526,
       "word": "檀健次做沈翊的翻译",
@@ -2883,6 +3003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 25389,
+      "num": 324538,
+      "word": "2024年已下发1416个游戏版号",
+      "onboard_time": 1735211298,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 25363,
       "num": 306848,
       "word": "哪些化妆工具没有必要买",
@@ -2913,6 +3041,14 @@
       "onboard_time": 1735202957,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23768,
+      "num": 191859,
+      "word": "情侣吵架先后跳河热心人相救",
+      "onboard_time": 1735210278,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22871,
@@ -2963,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20037,
+      "num": 211218,
+      "word": "nova13镜头下的关晓彤",
+      "onboard_time": 1735210518,
+      "rank": 23,
+      "category": "作品衍生,数码"
+    },
+    {
       "raw_hot": 19396,
       "num": 19396,
       "word": "年度照片",
@@ -3001,6 +3145,14 @@
       "onboard_time": 1735201280,
       "rank": 27,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 14829,
+      "num": 281486,
+      "word": "人民网评加强微短剧片名审核",
+      "onboard_time": 1735210938,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 13647,
@@ -3051,14 +3203,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 11612,
-      "num": 149845,
-      "word": "考完研失去了放松的能力",
-      "onboard_time": 1735208359,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 11260,
       "num": 166821,
       "word": "吴费曼晒吴镇宇丑照",
@@ -3073,6 +3217,14 @@
       "onboard_time": 1735200859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10132,
+      "num": 133791,
+      "word": "真诚式旅游的风又刮到尔滨了",
+      "onboard_time": 1735210099,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 7545,
