@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735220288907,
+  "endTime": 1735222816247,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -963,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 916459,
+      "num": 386573,
+      "word": "狗仔回应白敬亭宋轶感情近况",
+      "onboard_time": 1735218920,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 912767,
       "num": 612794,
       "word": "张馨予名下公司叫捷捷高",
@@ -1115,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807713,
+      "num": 400336,
+      "word": "成都巨型圣诞树疑似被烟头点燃",
+      "onboard_time": 1735219039,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 803462,
       "num": 803462,
       "word": "火箭少女101",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1734792439,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784744,
+      "num": 392124,
+      "word": "57岁王祖贤自拍照",
+      "onboard_time": 1735218920,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 781025,
@@ -1281,14 +1305,6 @@
       "onboard_time": 1734998718,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752083,
-      "num": 377703,
-      "word": "狗仔回应白敬亭宋轶感情近况",
-      "onboard_time": 1735218920,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 752018,
@@ -1881,6 +1897,14 @@
       "onboard_time": 1735193597,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 621472,
+      "num": 391230,
+      "word": "赵丽颖谈女性可以多么有光芒",
+      "onboard_time": 1735221019,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 618799,
@@ -2739,14 +2763,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 458482,
-      "num": 357819,
-      "word": "57岁王祖贤自拍照",
-      "onboard_time": 1735218920,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 457977,
       "num": 457977,
       "word": "车厘子自由是不是真的来了",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1735181297,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 443329,
+      "num": 443329,
+      "word": "在外滩听到韩语概率超上海话",
+      "onboard_time": 1735221140,
+      "rank": 3,
+      "category": "正能量"
     },
     {
       "raw_hot": 440608,
@@ -3395,6 +3419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 390633,
+      "num": 390633,
+      "word": "10岁女孩写作业手疼确诊白血病",
+      "onboard_time": 1735216039,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1735196718,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367891,
+      "num": 367891,
+      "word": "何猷君晒与儿子滑雪合照",
+      "onboard_time": 1735220119,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 367696,
@@ -4091,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323714,
+      "num": 304994,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323612,
       "num": 323612,
       "word": "彩色版开国大典影像",
@@ -4385,14 +4433,6 @@
       "onboard_time": 1734874639,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304994,
-      "num": 304994,
-      "word": "TOP地狱笑话",
-      "onboard_time": 1735214117,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 303256,
@@ -6155,6 +6195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212458,
+      "num": 212458,
+      "word": "复旦教授呼吁年轻人不要抱怨",
+      "onboard_time": 1735222100,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212111,
       "num": 212111,
       "word": "光遇复刻",
@@ -6361,14 +6409,6 @@
       "onboard_time": 1735044378,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207486,
-      "num": 400336,
-      "word": "成都巨型圣诞树疑似被烟头点燃",
-      "onboard_time": 1735219039,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207474,
@@ -7715,6 +7755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182681,
+      "num": 211678,
+      "word": "谢霆锋带家人日本度假",
+      "onboard_time": 1735220599,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182504,
       "num": 182504,
       "word": "74年前他们以战斗队形冻成冰人",
@@ -8491,6 +8539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 167415,
+      "num": 167415,
+      "word": "俞灏明王晓晨聚餐后一起回家",
+      "onboard_time": 1735222100,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167390,
       "num": 167390,
       "word": "是权志龙 年末有救了",
@@ -8593,6 +8649,14 @@
       "onboard_time": 1734864499,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165277,
+      "num": 211292,
+      "word": "高圆圆赵又廷带女儿去迪士尼",
+      "onboard_time": 1735221440,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 165248,
@@ -10113,14 +10177,6 @@
       "onboard_time": 1734947777,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141757,
-      "num": 241473,
-      "word": "10岁女孩写作业手疼确诊白血病",
-      "onboard_time": 1735216039,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141738,
@@ -12275,6 +12331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109740,
+      "num": 109740,
+      "word": "好想报名孙颖莎的课",
+      "onboard_time": 1735220060,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109377,
       "num": 240236,
       "word": "2任县委书记放任劣质米掺进学生餐",
@@ -12305,14 +12369,6 @@
       "onboard_time": 1734923658,
       "rank": 18,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 108962,
-      "num": 108962,
-      "word": "好想报名孙颖莎的课",
-      "onboard_time": 1735220060,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108642,
@@ -12811,6 +12867,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 99788,
+      "num": 195042,
+      "word": "考研绝不是唯一的出路",
+      "onboard_time": 1735217539,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99689,
       "num": 163288,
       "word": "林高远欧冠联赛首战",
@@ -12889,14 +12953,6 @@
       "onboard_time": 1735030998,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98721,
-      "num": 195042,
-      "word": "考研绝不是唯一的出路",
-      "onboard_time": 1735217539,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 98707,
@@ -12993,6 +13049,14 @@
       "onboard_time": 1734959239,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96539,
+      "num": 96539,
+      "word": "AL战胜WBG",
+      "onboard_time": 1735222338,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96537,
@@ -13499,12 +13563,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85172,
+      "num": 369710,
+      "word": "俄罗斯商品馆今年为何遍地开花",
+      "onboard_time": 1735221740,
+      "rank": 13,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 84875,
       "num": 288337,
       "word": "为什么冬天是减肥黄金期",
       "onboard_time": 1735038019,
       "rank": 14,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 84850,
+      "num": 175492,
+      "word": "关节疼需警惕白血病",
+      "onboard_time": 1735222520,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83782,
@@ -13593,6 +13673,14 @@
       "onboard_time": 1735204640,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81910,
+      "num": 368172,
+      "word": "2025跨年BGM你选哪个",
+      "onboard_time": 1735221019,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 81606,
@@ -16531,6 +16619,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 35266,
+      "num": 221199,
+      "word": "张涵予激情开麦致敬潜艇兵",
+      "onboard_time": 1735222160,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34901,
       "num": 610188,
       "word": "绩溪县长谈县政府门前开夜市",
@@ -18153,6 +18249,14 @@
       "onboard_time": 1735039998,
       "rank": 19,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 14924,
+      "num": 211612,
+      "word": "黄雨婷现身临沂",
+      "onboard_time": 1735222160,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 14713,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735222816247,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537695,
+        "num": 1537695,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734068,
+        "num": 734068,
+        "word": "男子贷款15万后去世银行要求罚息",
+        "onboard_time": 1735215800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30462,
+        "num": 462976,
+        "word": "中国载人深潜能力拓展到全球海域",
+        "onboard_time": 1735204758,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443329,
+        "num": 443329,
+        "word": "在外滩听到韩语概率超上海话",
+        "onboard_time": 1735221140,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 394408,
+        "num": 394408,
+        "word": "上海挤满了周五下班的韩国人",
+        "onboard_time": 1735212738,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1098354,
+        "num": 393788,
+        "word": "徐娇仍在店里处理",
+        "onboard_time": 1735214179,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807713,
+        "num": 392598,
+        "word": "成都巨型圣诞树疑似被烟头点燃",
+        "onboard_time": 1735219039,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784744,
+        "num": 392124,
+        "word": "57岁王祖贤自拍照",
+        "onboard_time": 1735218920,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621472,
+        "num": 391230,
+        "word": "赵丽颖谈女性可以多么有光芒",
+        "onboard_time": 1735221019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390633,
+        "num": 390633,
+        "word": "10岁女孩写作业手疼确诊白血病",
+        "onboard_time": 1735216039,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 916459,
+        "num": 386573,
+        "word": "狗仔回应白敬亭宋轶感情近况",
+        "onboard_time": 1735218920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464886,
+        "num": 385400,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373703,
+        "num": 373703,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 85172,
+        "num": 369710,
+        "word": "俄罗斯商品馆今年为何遍地开花",
+        "onboard_time": 1735221740,
+        "rank": 13,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 81910,
+        "num": 368172,
+        "word": "2025跨年BGM你选哪个",
+        "onboard_time": 1735221019,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 367891,
+        "num": 367891,
+        "word": "何猷君晒与儿子滑雪合照",
+        "onboard_time": 1735220119,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270253,
+        "num": 270253,
+        "word": "获利180元被罚10万卖羊肉老太发声",
+        "onboard_time": 1735210039,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261044,
+        "num": 261044,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35266,
+        "num": 221199,
+        "word": "张涵予激情开麦致敬潜艇兵",
+        "onboard_time": 1735222160,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212458,
+        "num": 212458,
+        "word": "复旦教授呼吁年轻人不要抱怨",
+        "onboard_time": 1735222100,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323714,
+        "num": 212392,
+        "word": "TOP地狱笑话",
+        "onboard_time": 1735214117,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304240,
+        "num": 212090,
+        "word": "吴磊银发",
+        "onboard_time": 1735214117,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230082,
+        "num": 211921,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182681,
+        "num": 211678,
+        "word": "谢霆锋带家人日本度假",
+        "onboard_time": 1735220599,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14924,
+        "num": 211612,
+        "word": "黄雨婷现身临沂",
+        "onboard_time": 1735222160,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165277,
+        "num": 211292,
+        "word": "高圆圆赵又廷带女儿去迪士尼",
+        "onboard_time": 1735221440,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211262,
+        "num": 211262,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183190,
+        "num": 183190,
+        "word": "Angelababy很开心的旅程",
+        "onboard_time": 1735219160,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181034,
+        "num": 181034,
+        "word": "大奉打更人剧评",
+        "onboard_time": 1735213698,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84850,
+        "num": 175492,
+        "word": "关节疼需警惕白血病",
+        "onboard_time": 1735222520,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174782,
+        "num": 174782,
+        "word": "十个勤天直播",
+        "onboard_time": 1735218379,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167415,
+        "num": 167415,
+        "word": "俞灏明王晓晨聚餐后一起回家",
+        "onboard_time": 1735222100,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156560,
+        "num": 156560,
+        "word": "鱿鱼游戏 吊在俊",
+        "onboard_time": 1735210819,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151469,
+        "num": 151469,
+        "word": "室内公共场所禁烟是全国性的",
+        "onboard_time": 1735208959,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145422,
+        "num": 145422,
+        "word": "杨幂轻纱遮幕",
+        "onboard_time": 1735218438,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139702,
+        "num": 139702,
+        "word": "优酷破万剧集一部接一部",
+        "onboard_time": 1735216880,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132508,
+        "num": 132508,
+        "word": "杨子说的女明星是谁",
+        "onboard_time": 1735215979,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129289,
+        "num": 129289,
+        "word": "蒋欣24岁状态vs41岁状态",
+        "onboard_time": 1735210220,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127916,
+        "num": 127916,
+        "word": "北大天才柳智宇还俗结婚后现状",
+        "onboard_time": 1735213698,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120688,
+        "num": 120688,
+        "word": "蔡磊说话模糊已经需要人为翻译",
+        "onboard_time": 1735215079,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128438,
+        "num": 119796,
+        "word": "王安宇 我上去就是一把糯米",
+        "onboard_time": 1735215859,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121109,
+        "num": 119505,
+        "word": "檀健次让台词",
+        "onboard_time": 1735215079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118301,
+        "num": 118301,
+        "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
+        "onboard_time": 1735212858,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114908,
+        "num": 114908,
+        "word": "梁伟铿采访王昶",
+        "onboard_time": 1735219640,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109740,
+        "num": 109740,
+        "word": "好想报名孙颖莎的课",
+        "onboard_time": 1735220060,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107527,
+        "num": 107527,
+        "word": "AL晋级德杯决赛",
+        "onboard_time": 1735219460,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102003,
+        "num": 102003,
+        "word": "四川地震",
+        "onboard_time": 1735206197,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 99788,
+        "num": 99788,
+        "word": "考研绝不是唯一的出路",
+        "onboard_time": 1735217539,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97317,
+        "num": 97317,
+        "word": "莎头领衔出战wtt新加坡大满贯",
+        "onboard_time": 1735219760,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96539,
+        "num": 96539,
+        "word": "AL战胜WBG",
+        "onboard_time": 1735222338,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}
