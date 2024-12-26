@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735216936988,
+  "endTime": 1735217861973,
   "band_list": [
     {
       "raw_hot": 3698769,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 649244,
+      "num": 488404,
+      "word": "吴磊银发",
+      "onboard_time": 1735214117,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 644159,
       "num": 898134,
       "word": "女子喝陌生人的水昏迷被拐",
@@ -427,14 +435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 488404,
-      "num": 488404,
-      "word": "吴磊银发",
-      "onboard_time": 1735214117,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 485331,
       "num": 485331,
       "word": "刘亦菲全榜第一",
@@ -587,6 +587,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 398890,
+      "num": 398890,
+      "word": "上海挤满了周五下班的韩国人",
+      "onboard_time": 1735212738,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 388628,
       "num": 388628,
       "word": "葛夕留几手合作圣诞结",
@@ -691,20 +699,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 362284,
+      "num": 362284,
+      "word": "广东两姐妹疑遭男子闯入家中杀害",
+      "onboard_time": 1735215079,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359669,
       "num": 359669,
       "word": "英语书翻了第一页就出国了",
       "onboard_time": 1735169235,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 355673,
-      "num": 355673,
-      "word": "上海挤满了周五下班的韩国人",
-      "onboard_time": 1735212738,
-      "rank": 36,
-      "category": "旅游"
     },
     {
       "raw_hot": 353733,
@@ -715,11 +723,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351073,
+      "num": 351073,
+      "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
+      "onboard_time": 1735212858,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 349304,
       "num": 349304,
       "word": "女子探亲途中和3岁儿子双双被拐",
       "onboard_time": 1735138459,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 348339,
+      "num": 348339,
+      "word": "北大天才柳智宇还俗结婚后现状",
+      "onboard_time": 1735213698,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -737,14 +761,6 @@
       "onboard_time": 1735185438,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335523,
-      "num": 335523,
-      "word": "赵丽颖刘亦菲虞书欣南都娱乐十大人物",
-      "onboard_time": 1735212858,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 334248,
@@ -915,14 +931,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 274805,
-      "num": 274805,
-      "word": "北大天才柳智宇还俗结婚后现状",
-      "onboard_time": 1735213698,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270851,
       "num": 488334,
       "word": "权志龙被男粉吓到的反应",
@@ -1043,19 +1051,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238504,
+      "num": 238504,
+      "word": "男子贷款15万后去世银行要求罚息",
+      "onboard_time": 1735215800,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237979,
       "num": 237979,
       "word": "女子公共场合遭丈夫泼砂锅",
       "onboard_time": 1735134439,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237045,
-      "num": 237045,
-      "word": "广东两姐妹疑遭男子闯入家中杀害",
-      "onboard_time": 1735215079,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1073,6 +1081,14 @@
       "onboard_time": 1735187598,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233173,
+      "num": 201789,
+      "word": "TOP地狱笑话",
+      "onboard_time": 1735214117,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 231953,
@@ -1123,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222596,
+      "num": 202128,
+      "word": "种地吧",
+      "onboard_time": 1735216459,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221807,
       "num": 221807,
       "word": "李兰迪咬笔盖",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1735205179,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219833,
+      "num": 247284,
+      "word": "孟子义 九重紫碎片",
+      "onboard_time": 1735215018,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 218129,
@@ -1168,6 +1200,14 @@
       "word": "先按年龄后按姓名首字母排序",
       "onboard_time": 1735186878,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 213491,
+      "num": 209748,
+      "word": "杨子说的女明星是谁",
+      "onboard_time": 1735215979,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1209,14 +1249,6 @@
       "onboard_time": 1735203919,
       "rank": 23,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 209748,
-      "num": 209748,
-      "word": "杨子说的女明星是谁",
-      "onboard_time": 1735215979,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 209699,
@@ -1264,14 +1296,6 @@
       "word": "鱿鱼游戏 吊在俊",
       "onboard_time": 1735210819,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205683,
-      "num": 247284,
-      "word": "孟子义 九重紫碎片",
-      "onboard_time": 1735215018,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1323,20 +1347,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 201789,
-      "num": 201789,
-      "word": "TOP地狱笑话",
-      "onboard_time": 1735214117,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200549,
       "num": 200549,
       "word": "苏新皓 鬓角",
       "onboard_time": 1735204518,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199521,
+      "num": 199521,
+      "word": "福师大一教室天花板坠落砸伤学生",
+      "onboard_time": 1735214959,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198492,
@@ -1403,20 +1427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194019,
+      "num": 194019,
+      "word": "檀健次让台词",
+      "onboard_time": 1735215079,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193571,
       "num": 193571,
       "word": "孙颖莎调侃年纪在队伍中最大",
       "onboard_time": 1735211357,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193163,
-      "num": 202128,
-      "word": "种地吧",
-      "onboard_time": 1735216459,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 192988,
@@ -1467,14 +1491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189251,
-      "num": 189251,
-      "word": "福师大一教室天花板坠落砸伤学生",
-      "onboard_time": 1735214959,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188570,
       "num": 188570,
       "word": "问界M9上市一年大定破20万辆",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1735139419,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 184067,
+      "num": 184067,
+      "word": "优酷破万剧集一部接一部",
+      "onboard_time": 1735216880,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 181938,
@@ -1529,14 +1553,6 @@
       "onboard_time": 1735216339,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177057,
-      "num": 144575,
-      "word": "檀健次让台词",
-      "onboard_time": 1735215079,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 176917,
@@ -1739,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160526,
+      "num": 142285,
+      "word": "汪苏泷 好哄",
+      "onboard_time": 1735217718,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159151,
       "num": 159151,
       "word": "不要靠近任何需要切的糕",
@@ -1820,7 +1844,7 @@
     },
     {
       "raw_hot": 147632,
-      "num": 147632,
+      "num": 410751,
       "word": "国家一级演员职称的评选标准是什么",
       "onboard_time": 1735210579,
       "rank": 49,
@@ -1844,7 +1868,7 @@
     },
     {
       "raw_hot": 147185,
-      "num": 147185,
+      "num": 195542,
       "word": "郑钧 我的愿望就是刘芸幸福快乐",
       "onboard_time": 1735212738,
       "rank": 39,
@@ -1875,20 +1899,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145560,
+      "num": 145560,
+      "word": "蔡磊说话模糊已经需要人为翻译",
+      "onboard_time": 1735215079,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "沈月大家来串门就应该开个综艺",
       "onboard_time": 1735200739,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144858,
-      "num": 144858,
-      "word": "蔡磊说话模糊已经需要人为翻译",
-      "onboard_time": 1735215079,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144498,
@@ -1931,11 +1955,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142031,
-      "num": 142031,
-      "word": "男子贷款15万后去世银行要求罚息",
-      "onboard_time": 1735215800,
-      "rank": 44,
+      "raw_hot": 141757,
+      "num": 141757,
+      "word": "10岁女孩写作业手疼确诊白血病",
+      "onboard_time": 1735216039,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1985,14 +2009,6 @@
       "onboard_time": 1735196598,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 137676,
-      "num": 137676,
-      "word": "10岁女孩写作业手疼确诊白血病",
-      "onboard_time": 1735216039,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137195,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1735197017,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128017,
-      "num": 128017,
-      "word": "优酷破万剧集一部接一部",
-      "onboard_time": 1735216880,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 127651,
@@ -2331,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106914,
+      "num": 106914,
+      "word": "大学生有自己的帝皇铠甲",
+      "onboard_time": 1735216937,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106656,
       "num": 106656,
       "word": "英超圣诞大战",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1735186699,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102304,
+      "num": 102304,
+      "word": "孙颖莎将携00后队友全力以赴总决赛",
+      "onboard_time": 1735215198,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99101,
@@ -2561,6 +2585,14 @@
       "onboard_time": 1735204640,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81606,
+      "num": 198706,
+      "word": "边伯贤天生抽象圣体",
+      "onboard_time": 1735217539,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 80434,
@@ -3003,6 +3035,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 39086,
+      "num": 245877,
+      "word": "超载渣土车为躲处罚雇人盯梢交警",
+      "onboard_time": 1735215979,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39003,
       "num": 471615,
       "word": "WBG对战AL先下一城",
@@ -3219,6 +3259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 29706,
+      "num": 142633,
+      "word": "风中的火焰今日开播",
+      "onboard_time": 1735215140,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28617,
       "num": 281486,
       "word": "人民网评加强微短剧片名审核",
@@ -3347,6 +3395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22701,
+      "num": 211659,
+      "word": "金晨给女孩辨别渣男支招",
+      "onboard_time": 1735215438,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 22583,
       "num": 245894,
       "word": "nova13镜头下的关晓彤",
@@ -3435,14 +3491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 15141,
-      "num": 245877,
-      "word": "超载渣土车为躲处罚雇人盯梢交警",
-      "onboard_time": 1735215979,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13647,
       "num": 231327,
       "word": "陈瑜一日圣诞厨师上线",
@@ -3513,6 +3561,14 @@
       "onboard_time": 1735200859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10566,
+      "num": 195042,
+      "word": "考研绝不是唯一的出路",
+      "onboard_time": 1735217539,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 10289,
