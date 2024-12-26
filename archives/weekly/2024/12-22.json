@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735194688414,
+  "endTime": 1735195467279,
   "band_list": [
     {
       "raw_hot": 3825889,
@@ -25,6 +25,14 @@
       "onboard_time": 1735104737,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2587053,
+      "num": 2587053,
+      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
+      "onboard_time": 1735192877,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 2556810,
@@ -113,14 +121,6 @@
       "onboard_time": 1734839179,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1775935,
-      "num": 1775935,
-      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
-      "onboard_time": 1735192877,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1773942,
@@ -457,6 +457,14 @@
       "onboard_time": 1734868159,
       "rank": 1,
       "category": "正能量,教育"
+    },
+    {
+      "raw_hot": 1247044,
+      "num": 450836,
+      "word": "徐娇回应",
+      "onboard_time": 1735194257,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1205990,
@@ -899,20 +907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911984,
+      "num": 911984,
+      "word": "坏了让她读到真大学了",
+      "onboard_time": 1735192458,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 907609,
       "num": 441212,
       "word": "金善旴疑似点到拼好饭",
       "onboard_time": 1734947600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 900178,
-      "num": 900178,
-      "word": "坏了让她读到真大学了",
-      "onboard_time": 1735192458,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 899383,
@@ -1907,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582661,
+      "num": 410395,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1735193597,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 582602,
       "num": 582602,
       "word": "唐尚珺78岁母亲希望他挣钱结婚",
@@ -2563,6 +2579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453265,
+      "num": 453265,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 452867,
       "num": 271925,
       "word": "权志龙躺着被路过",
@@ -3115,14 +3139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392113,
-      "num": 392113,
-      "word": "徐娇回应",
-      "onboard_time": 1735194257,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 389232,
       "num": 389232,
       "word": "蛇年纪念钞预约",
@@ -3536,14 +3552,6 @@
       "word": "袁记云饺发布最新说明",
       "onboard_time": 1734792980,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352058,
-      "num": 352058,
-      "word": "俄罗斯美女吐槽俄罗斯商品馆",
-      "onboard_time": 1735190838,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3995,14 +4003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309400,
-      "num": 309400,
-      "word": "韩国月子中心的月子餐",
-      "onboard_time": 1735193597,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308071,
       "num": 306749,
       "word": "男子婚后发现妻子结7次婚育6娃",
@@ -4177,6 +4177,14 @@
       "onboard_time": 1734844819,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 290944,
+      "num": 290944,
+      "word": "葛夕留几手合作圣诞结",
+      "onboard_time": 1735193897,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 290598,
@@ -4601,6 +4609,14 @@
       "onboard_time": 1735035379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261914,
+      "num": 237833,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 261203,
@@ -5033,14 +5049,6 @@
       "onboard_time": 1735189700,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237833,
-      "num": 237833,
-      "word": "狗 晒个太阳怎么越晒越冷呢",
-      "onboard_time": 1735191378,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 237675,
@@ -6249,14 +6257,6 @@
       "onboard_time": 1734841878,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198106,
-      "num": 247315,
-      "word": "葛夕留几手合作圣诞结",
-      "onboard_time": 1735193897,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 198018,
@@ -8475,6 +8475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153726,
+      "num": 458512,
+      "word": "没有真正的自发热内衣",
+      "onboard_time": 1735194199,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 153635,
       "num": 153635,
       "word": "男子查贷款额度竟被强制下款",
@@ -8777,6 +8785,14 @@
       "onboard_time": 1735049900,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148765,
+      "num": 148765,
+      "word": "王俊凯曹弘浪大年初一见",
+      "onboard_time": 1735195038,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 148611,
@@ -9203,6 +9219,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 141275,
+      "num": 141275,
+      "word": "王祖蓝李亚男结婚十周年",
+      "onboard_time": 1735191919,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141264,
       "num": 141264,
       "word": "孟子义祝绪丹上桌",
@@ -9281,6 +9305,14 @@
       "onboard_time": 1734851358,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140017,
+      "num": 140017,
+      "word": "陕西一小区住宅爆炸10余人受伤",
+      "onboard_time": 1735194918,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 139932,
@@ -9875,6 +9907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130198,
+      "num": 130198,
+      "word": "外交部发布2024年终视频",
+      "onboard_time": 1735195219,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129960,
       "num": 129960,
       "word": "创亚2 王嘉尔你的8来了",
@@ -10073,6 +10113,14 @@
       "onboard_time": 1735100359,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "留几手怼李松蔚",
+      "onboard_time": 1735195278,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 126787,
@@ -10329,14 +10377,6 @@
       "onboard_time": 1735033759,
       "rank": 39,
       "category": "财经,情感"
-    },
-    {
-      "raw_hot": 123145,
-      "num": 123145,
-      "word": "王祖蓝李亚男结婚十周年",
-      "onboard_time": 1735191919,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 123126,
@@ -12419,14 +12459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 79682,
-      "num": 458512,
-      "word": "没有真正的自发热内衣",
-      "onboard_time": 1735194199,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 79513,
       "num": 449578,
       "word": "男孩被犬咬伤狗主人为逃避责任杀狗",
@@ -13041,6 +13073,14 @@
       "onboard_time": 1735021999,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66885,
+      "num": 236885,
+      "word": "华晨宇说有10%可能就会去尝试",
+      "onboard_time": 1735194498,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 66758,
@@ -13675,6 +13715,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 54780,
+      "num": 246203,
+      "word": "鲁豫首次跨界翻译哈里王子自传",
+      "onboard_time": 1735194138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54713,
       "num": 54713,
       "word": "热刺3比6利物浦",
@@ -13953,14 +14001,6 @@
       "onboard_time": 1735059075,
       "rank": 42,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 50091,
-      "num": 246203,
-      "word": "鲁豫首次跨界翻译哈里王子自传",
-      "onboard_time": 1735194138,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 50043,
@@ -14612,7 +14652,7 @@
     },
     {
       "raw_hot": 40615,
-      "num": 1230536,
+      "num": 1380836,
       "word": "文化中国行非遗过大年",
       "onboard_time": 1735185559,
       "rank": 2,
@@ -15059,14 +15099,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 35420,
-      "num": 236885,
-      "word": "华晨宇说有10%可能就会去尝试",
-      "onboard_time": 1735194498,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 34901,
       "num": 610188,
       "word": "绩溪县长谈县政府门前开夜市",
@@ -15121,6 +15153,14 @@
       "onboard_time": 1734858618,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34233,
+      "num": 206884,
+      "word": "徐娇称抽烟男子要求删视频才道歉",
+      "onboard_time": 1735194797,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 34223,
@@ -15337,6 +15377,14 @@
       "onboard_time": 1735082475,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31580,
+      "num": 225706,
+      "word": "查流感病因可以用到家快检",
+      "onboard_time": 1735193658,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31562,
@@ -15633,6 +15681,14 @@
       "onboard_time": 1735151053,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28166,
+      "num": 118681,
+      "word": "未来感在这一刻具象化了",
+      "onboard_time": 1735195158,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 28064,
@@ -16009,14 +16065,6 @@
       "onboard_time": 1735099939,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22436,
-      "num": 225706,
-      "word": "查流感病因可以用到家快检",
-      "onboard_time": 1735193658,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22379,
@@ -16531,6 +16579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13647,
+      "num": 231327,
+      "word": "陈瑜一日圣诞厨师上线",
+      "onboard_time": 1735193719,
+      "rank": 27,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 13488,
       "num": 240962,
       "word": "猎罪图鉴龙凤呈祥案",
@@ -16609,14 +16665,6 @@
       "onboard_time": 1734859338,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 11816,
-      "num": 231327,
-      "word": "陈瑜一日圣诞厨师上线",
-      "onboard_time": 1735193719,
-      "rank": 27,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11790,

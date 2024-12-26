@@ -1,7 +1,15 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735194688414,
+  "endTime": 1735195467279,
   "band_list": [
+    {
+      "raw_hot": 2587053,
+      "num": 2587053,
+      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
+      "onboard_time": 1735192877,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2280320,
       "num": 2280320,
@@ -9,14 +17,6 @@
       "onboard_time": 1735188739,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1775935,
-      "num": 1775935,
-      "word": "徐娇劝阻男子餐厅内抽烟被抢手机",
-      "onboard_time": 1735192877,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1740308,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1247044,
+      "num": 450836,
+      "word": "徐娇回应",
+      "onboard_time": 1735194257,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1105473,
       "num": 1176875,
       "word": "21岁失明女孩嫁58岁男子引热议",
@@ -107,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 900178,
-      "num": 900178,
+      "raw_hot": 911984,
+      "num": 911984,
       "word": "坏了让她读到真大学了",
       "onboard_time": 1735192458,
       "rank": 3,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582661,
+      "num": 410395,
+      "word": "韩国月子中心的月子餐",
+      "onboard_time": 1735193597,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 564077,
       "num": 564077,
       "word": "年度报告",
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453265,
+      "num": 453265,
+      "word": "俄罗斯美女吐槽俄罗斯商品馆",
+      "onboard_time": 1735190838,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444237,
       "num": 444237,
       "word": "美航班飞机起落架轮舱内发现尸体",
@@ -345,14 +369,6 @@
       "onboard_time": 1735157831,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 392113,
-      "num": 392113,
-      "word": "徐娇回应",
-      "onboard_time": 1735194257,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 387605,
@@ -425,14 +441,6 @@
       "onboard_time": 1735183277,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 352058,
-      "num": 352058,
-      "word": "俄罗斯美女吐槽俄罗斯商品馆",
-      "onboard_time": 1735190838,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349304,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309400,
-      "num": 309400,
-      "word": "韩国月子中心的月子餐",
-      "onboard_time": 1735193597,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 299866,
       "num": 299866,
       "word": "董明珠回应格力电器卖得贵",
@@ -553,6 +553,14 @@
       "onboard_time": 1735186818,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290944,
+      "num": 290944,
+      "word": "葛夕留几手合作圣诞结",
+      "onboard_time": 1735193897,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 289804,
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261914,
+      "num": 237833,
+      "word": "狗 晒个太阳怎么越晒越冷呢",
+      "onboard_time": 1735191378,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 260420,
       "num": 260420,
       "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
@@ -697,14 +713,6 @@
       "onboard_time": 1735134439,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237833,
-      "num": 237833,
-      "word": "狗 晒个太阳怎么越晒越冷呢",
-      "onboard_time": 1735191378,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 234437,
@@ -841,14 +849,6 @@
       "onboard_time": 1735192398,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198106,
-      "num": 247315,
-      "word": "葛夕留几手合作圣诞结",
-      "onboard_time": 1735193897,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 194889,
@@ -1019,12 +1019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153726,
+      "num": 458512,
+      "word": "没有真正的自发热内衣",
+      "onboard_time": 1735194199,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 152271,
       "num": 374458,
       "word": "阿塞拜疆航空坠毁客机机舱内画面",
       "onboard_time": 1735170736,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148765,
+      "num": 148765,
+      "word": "王俊凯曹弘浪大年初一见",
+      "onboard_time": 1735195038,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 148486,
@@ -1083,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141275,
+      "num": 141275,
+      "word": "王祖蓝李亚男结婚十周年",
+      "onboard_time": 1735191919,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140566,
       "num": 140566,
       "word": "小米正搭建GPU万卡集群",
       "onboard_time": 1735191017,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 140017,
+      "num": 140017,
+      "word": "陕西一小区住宅爆炸10余人受伤",
+      "onboard_time": 1735194918,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 137195,
@@ -1147,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130198,
+      "num": 130198,
+      "word": "外交部发布2024年终视频",
+      "onboard_time": 1735195219,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129303,
       "num": 129303,
       "word": "夫妻俩高速上为星星吵架出车祸爆胎",
@@ -1163,6 +1203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "留几手怼李松蔚",
+      "onboard_time": 1735195278,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126787,
       "num": 126787,
       "word": "我将喜欢告诉了风 救赎文学",
@@ -1176,14 +1224,6 @@
       "word": "魏晨滑雪日常回归",
       "onboard_time": 1735186098,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123145,
-      "num": 123145,
-      "word": "王祖蓝李亚男结婚十周年",
-      "onboard_time": 1735191919,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1483,14 +1523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 79682,
-      "num": 458512,
-      "word": "没有真正的自发热内衣",
-      "onboard_time": 1735194199,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 74168,
       "num": 87300,
       "word": "付辛博颖儿把每天都过成情人节",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1735191798,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66885,
+      "num": 236885,
+      "word": "华晨宇说有10%可能就会去尝试",
+      "onboard_time": 1735194498,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 63360,
@@ -1579,6 +1619,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 54780,
+      "num": 246203,
+      "word": "鲁豫首次跨界翻译哈里王子自传",
+      "onboard_time": 1735194138,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52352,
       "num": 486783,
       "word": "南浔迎来沪苏湖半小时通勤圈",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1735189220,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 50091,
-      "num": 246203,
-      "word": "鲁豫首次跨界翻译哈里王子自传",
-      "onboard_time": 1735194138,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 49656,
@@ -1692,7 +1732,7 @@
     },
     {
       "raw_hot": 40615,
-      "num": 1230536,
+      "num": 1380836,
       "word": "文化中国行非遗过大年",
       "onboard_time": 1735185559,
       "rank": 2,
@@ -1779,20 +1819,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35420,
-      "num": 236885,
-      "word": "华晨宇说有10%可能就会去尝试",
-      "onboard_time": 1735194498,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 34681,
       "num": 465190,
       "word": "为什么猴系男孩在相亲市场很抢手",
       "onboard_time": 1735187659,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34233,
+      "num": 206884,
+      "word": "徐娇称抽烟男子要求删视频才道歉",
+      "onboard_time": 1735194797,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 33894,
@@ -1809,6 +1849,14 @@
       "onboard_time": 1735189579,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31580,
+      "num": 225706,
+      "word": "查流感病因可以用到家快检",
+      "onboard_time": 1735193658,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30983,
@@ -1867,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28166,
+      "num": 118681,
+      "word": "未来感在这一刻具象化了",
+      "onboard_time": 1735195158,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 27876,
       "num": 468431,
       "word": "跨年大瓜的含金量持续上升",
@@ -1923,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22436,
-      "num": 225706,
-      "word": "查流感病因可以用到家快检",
-      "onboard_time": 1735193658,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21108,
       "num": 485423,
       "word": "流感季如何开启超凡模式",
@@ -1971,6 +2019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13647,
+      "num": 231327,
+      "word": "陈瑜一日圣诞厨师上线",
+      "onboard_time": 1735193719,
+      "rank": 27,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 12557,
       "num": 12557,
       "word": "大雪人算是让尔滨玩明白了",
@@ -2001,14 +2057,6 @@
       "onboard_time": 1735147333,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11816,
-      "num": 231327,
-      "word": "陈瑜一日圣诞厨师上线",
-      "onboard_time": 1735193719,
-      "rank": 27,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 11771,
