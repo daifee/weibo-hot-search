@@ -1,6 +1,6 @@
 {
   "startTime": 1735144013967,
-  "endTime": 1735177289719,
+  "endTime": 1735178284321,
   "band_list": [
     {
       "raw_hot": 1105473,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730208,
+      "num": 730208,
+      "word": "被家暴女子称男方庭审中不停说爱我",
+      "onboard_time": 1735171396,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 723759,
       "num": 723759,
       "word": "网络主播在境外遭胁迫回国当间谍",
@@ -59,8 +67,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 602176,
-      "num": 602176,
+      "raw_hot": 610327,
+      "num": 610327,
       "word": "2024年度演唱会热度TOP10",
       "onboard_time": 1735172537,
       "rank": 3,
@@ -99,14 +107,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 473955,
-      "num": 473955,
-      "word": "被家暴女子称男方庭审中不停说爱我",
-      "onboard_time": 1735171396,
-      "rank": 7,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 408919,
       "num": 408919,
       "word": "手脚冰凉是身体哪里出了问题",
@@ -115,20 +115,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 400144,
+      "num": 400144,
+      "word": "阿姨用鸡毛复刻凤冠超惊艳",
+      "onboard_time": 1735157831,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 387605,
       "num": 328947,
       "word": "一农民卖羊肉赚180元收到10万罚单",
       "onboard_time": 1735142718,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374706,
-      "num": 374706,
-      "word": "阿姨用鸡毛复刻凤冠超惊艳",
-      "onboard_time": 1735157831,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 371299,
@@ -179,6 +179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 328644,
+      "num": 328644,
+      "word": "鱿鱼游戏",
+      "onboard_time": 1735173978,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327600,
       "num": 327600,
       "word": "猎罪图鉴3",
@@ -209,6 +217,14 @@
       "onboard_time": 1735129399,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311010,
+      "num": 311010,
+      "word": "猎罪图鉴2结局出现两个沈翊",
+      "onboard_time": 1735171637,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 285172,
@@ -251,14 +267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255393,
-      "num": 269320,
-      "word": "猎罪图鉴2结局出现两个沈翊",
-      "onboard_time": 1735171637,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249847,
       "num": 317240,
       "word": "有38人在客机失事中丧生",
@@ -288,14 +296,6 @@
       "word": "鱿鱼游戏2",
       "onboard_time": 1735136840,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 221978,
-      "num": 221978,
-      "word": "鱿鱼游戏",
-      "onboard_time": 1735173978,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1735139419,
       "rank": 24,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 182951,
+      "num": 355087,
+      "word": "小伙都被警察堵住了还一口一个没有",
+      "onboard_time": 1735176497,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176480,
@@ -403,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152271,
+      "num": 374458,
+      "word": "阿塞拜疆航空坠毁客机机舱内画面",
+      "onboard_time": 1735170736,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150952,
+      "num": 193871,
+      "word": "网友称和李现同一个徒步群",
+      "onboard_time": 1735173858,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148486,
       "num": 180402,
       "word": "你晚上一般几点睡觉",
@@ -411,28 +435,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147901,
-      "num": 193871,
-      "word": "网友称和李现同一个徒步群",
-      "onboard_time": 1735173858,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144953,
-      "num": 374458,
-      "word": "阿塞拜疆航空坠毁客机机舱内画面",
-      "onboard_time": 1735170736,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140006,
-      "num": 140006,
+      "raw_hot": 145857,
+      "num": 145857,
       "word": "李一桐 财阀千金出场",
       "onboard_time": 1735171817,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142913,
+      "num": 142913,
+      "word": "周扬青圣诞红裙",
+      "onboard_time": 1735177876,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 137195,
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126787,
+      "num": 126787,
+      "word": "我将喜欢告诉了风 救赎文学",
+      "onboard_time": 1735175418,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120185,
       "num": 120185,
       "word": "哈总统下令成立委员会调查坠机事故",
@@ -467,12 +491,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 116486,
-      "num": 116486,
-      "word": "我将喜欢告诉了风 救赎文学",
-      "onboard_time": 1735175418,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 119763,
+      "num": 314984,
+      "word": "湖人vs勇士",
+      "onboard_time": 1735174280,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119417,
+      "num": 119417,
+      "word": "滑雪时身后突然冲出一群高手",
+      "onboard_time": 1735174098,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114803,
@@ -481,6 +513,14 @@
       "onboard_time": 1735169174,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114162,
+      "num": 114162,
+      "word": "于适春节档有两部电影上映",
+      "onboard_time": 1735177337,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 110307,
@@ -507,20 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108546,
-      "num": 108546,
-      "word": "滑雪时身后突然冲出一群高手",
-      "onboard_time": 1735174098,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106484,
       "num": 106484,
       "word": "权志龙躺着被路过",
       "onboard_time": 1735132639,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 103248,
+      "num": 160447,
+      "word": "浓眉受伤",
+      "onboard_time": 1735177637,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 103182,
@@ -531,16 +571,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102243,
-      "num": 102243,
-      "word": "小伙都被警察堵住了还一口一个没有",
-      "onboard_time": 1735176497,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 102720,
+      "num": 302733,
+      "word": "文班亚马42分18篮板",
+      "onboard_time": 1735173139,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 99101,
-      "num": 612522,
+      "num": 617234,
       "word": "隔屏感受到了在建世界最高桥的震撼",
       "onboard_time": 1735138400,
       "rank": 2,
@@ -569,22 +609,6 @@
       "onboard_time": 1735143496,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 90687,
-      "num": 90687,
-      "word": "文班亚马42分18篮板",
-      "onboard_time": 1735173139,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90567,
-      "num": 314984,
-      "word": "湖人vs勇士",
-      "onboard_time": 1735174280,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 90132,
@@ -649,6 +673,14 @@
       "onboard_time": 1735158071,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79702,
+      "num": 79702,
+      "word": "双子座真的很执着",
+      "onboard_time": 1735178236,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 74168,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735178284321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 961703,
+        "num": 1153872,
+        "word": "21岁失明女孩嫁58岁男子引热议",
+        "onboard_time": 1735170196,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 730208,
+        "num": 730208,
+        "word": "被家暴女子称男方庭审中不停说爱我",
+        "onboard_time": 1735171396,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 87915,
+        "num": 617234,
+        "word": "隔屏感受到了在建世界最高桥的震撼",
+        "onboard_time": 1735138400,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610327,
+        "num": 610327,
+        "word": "2024年度演唱会热度TOP10",
+        "onboard_time": 1735172537,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593719,
+        "num": 593719,
+        "word": "网络主播在境外遭胁迫回国当间谍",
+        "onboard_time": 1735171458,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 911913,
+        "num": 592389,
+        "word": "张馨予把老公名字写进公司",
+        "onboard_time": 1735157111,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555223,
+        "num": 555223,
+        "word": "乒乓球为何过不了火车安检",
+        "onboard_time": 1735171879,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489108,
+        "num": 489108,
+        "word": "纪念毛泽东诞辰131年",
+        "onboard_time": 1735169955,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400144,
+        "num": 400144,
+        "word": "阿姨用鸡毛复刻凤冠超惊艳",
+        "onboard_time": 1735157831,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 182951,
+        "num": 355087,
+        "word": "小伙都被警察堵住了还一口一个没有",
+        "onboard_time": 1735176497,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408689,
+        "num": 345337,
+        "word": "坠机事故生还人数升至32人",
+        "onboard_time": 1735137320,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328644,
+        "num": 328644,
+        "word": "鱿鱼游戏",
+        "onboard_time": 1735173978,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320930,
+        "num": 320930,
+        "word": "刘亦菲全榜第一",
+        "onboard_time": 1735136420,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311010,
+        "num": 311010,
+        "word": "猎罪图鉴2结局出现两个沈翊",
+        "onboard_time": 1735171637,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102720,
+        "num": 302733,
+        "word": "文班亚马42分18篮板",
+        "onboard_time": 1735173139,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300454,
+        "num": 300454,
+        "word": "英语书翻了第一页就出国了",
+        "onboard_time": 1735169235,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279453,
+        "num": 279453,
+        "word": "一农民卖羊肉赚180元收到10万罚单",
+        "onboard_time": 1735142718,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252277,
+        "num": 252277,
+        "word": "手脚冰凉是身体的自我保护",
+        "onboard_time": 1735135280,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251975,
+        "num": 251975,
+        "word": "彩色版开国大典影像",
+        "onboard_time": 1735169716,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242422,
+        "num": 242422,
+        "word": "手脚冰凉是身体哪里出了问题",
+        "onboard_time": 1735140138,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357481,
+        "num": 228182,
+        "word": "张馨予她超爱",
+        "onboard_time": 1735172298,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356468,
+        "num": 213025,
+        "word": "菲律宾15岁少女性侵后死亡13人涉案",
+        "onboard_time": 1735170917,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283009,
+        "num": 205087,
+        "word": "黄子韬一天涨粉500万",
+        "onboard_time": 1735127838,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191533,
+        "num": 191533,
+        "word": "向佐 为什么女生穿男装可以",
+        "onboard_time": 1735128499,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190817,
+        "num": 190817,
+        "word": "张柏芝说APT谐音是啊柏芝",
+        "onboard_time": 1735139359,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190588,
+        "num": 190588,
+        "word": "女子婚礼前一天被拒婚假遭公司辞退",
+        "onboard_time": 1735135459,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179626,
+        "num": 179626,
+        "word": "女子喝陌生人的水昏迷被拐",
+        "onboard_time": 1735147513,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163480,
+        "num": 163480,
+        "word": "她差点以为自己是学习的料",
+        "onboard_time": 1735171277,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162603,
+        "num": 162603,
+        "word": "权志龙红色高跟鞋",
+        "onboard_time": 1735135399,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150952,
+        "num": 161072,
+        "word": "网友称和李现同一个徒步群",
+        "onboard_time": 1735173858,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103248,
+        "num": 160447,
+        "word": "浓眉受伤",
+        "onboard_time": 1735177637,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159852,
+        "num": 159852,
+        "word": "失事客机坠毁前面临强烈的GPS干扰",
+        "onboard_time": 1735144575,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155869,
+        "num": 155869,
+        "word": "月子会所回应60岁孕妇产下男婴",
+        "onboard_time": 1735148953,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152271,
+        "num": 152271,
+        "word": "阿塞拜疆航空坠毁客机机舱内画面",
+        "onboard_time": 1735170736,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145857,
+        "num": 145857,
+        "word": "李一桐 财阀千金出场",
+        "onboard_time": 1735171817,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142913,
+        "num": 142913,
+        "word": "周扬青圣诞红裙",
+        "onboard_time": 1735177876,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142860,
+        "num": 142860,
+        "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
+        "onboard_time": 1735138999,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141111,
+        "num": 141111,
+        "word": "你晚上一般几点睡觉",
+        "onboard_time": 1735141998,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126787,
+        "num": 126787,
+        "word": "我将喜欢告诉了风 救赎文学",
+        "onboard_time": 1735175418,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120564,
+        "num": 120564,
+        "word": "女子探亲途中和3岁儿子双双被拐",
+        "onboard_time": 1735138459,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119763,
+        "num": 119763,
+        "word": "湖人vs勇士",
+        "onboard_time": 1735174280,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119417,
+        "num": 119417,
+        "word": "滑雪时身后突然冲出一群高手",
+        "onboard_time": 1735174098,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116216,
+        "num": 116216,
+        "word": "王子奇新助理开车溜私生",
+        "onboard_time": 1735141277,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114162,
+        "num": 114162,
+        "word": "于适春节档有两部电影上映",
+        "onboard_time": 1735177337,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113159,
+        "num": 113159,
+        "word": "我国青少年抑郁症患病率达15%是谣言",
+        "onboard_time": 1735139419,
+        "rank": 44,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 102766,
+        "num": 102766,
+        "word": "韩安冉说网红圈太乱了",
+        "onboard_time": 1735139958,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 94965,
+        "num": 94965,
+        "word": "孟子义李昀锐将合体带货",
+        "onboard_time": 1735169355,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85491,
+        "num": 85491,
+        "word": "2024男明星综合热度榜TOP10",
+        "onboard_time": 1735169174,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85279,
+        "num": 85279,
+        "word": "男子从情人车中摔出身亡妻子索赔60万",
+        "onboard_time": 1735129819,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79702,
+        "num": 79702,
+        "word": "双子座真的很执着",
+        "onboard_time": 1735178236,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署国家主席令#"
+    }
+  }
+}
