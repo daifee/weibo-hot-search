@@ -1,0 +1,410 @@
+{
+  "runTime": 1735234579117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523859,
+        "num": 523859,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352710,
+        "num": 352710,
+        "word": "有部分俄罗斯商品馆开始撤店",
+        "onboard_time": 1735226298,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23564,
+        "num": 248232,
+        "word": "中国一年194个世界冠军",
+        "onboard_time": 1735225040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1143048,
+        "num": 238555,
+        "word": "王俊凯",
+        "onboard_time": 1735229118,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186943,
+        "num": 186943,
+        "word": "复旦教授呼吁年轻人不要抱怨",
+        "onboard_time": 1735222100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232502,
+        "num": 185247,
+        "word": "徐娇劝阻抽烟餐厅人均103元",
+        "onboard_time": 1735231216,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 463509,
+        "num": 184459,
+        "word": "曝宝石老舅醉酒打架被警方拘留",
+        "onboard_time": 1735198579,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276515,
+        "num": 184271,
+        "word": "葛夕说离婚也给留几手养老",
+        "onboard_time": 1735226179,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176912,
+        "num": 176912,
+        "word": "女大学生借钱追星被大粉骗走2万多",
+        "onboard_time": 1735223480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10769,
+        "num": 162113,
+        "word": "女子花数万修复鼻孔结果鼻梁被弄歪",
+        "onboard_time": 1735234273,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160222,
+        "num": 160222,
+        "word": "赵丽颖谈女性可以多么有光芒",
+        "onboard_time": 1735221019,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152392,
+        "num": 152392,
+        "word": "李嘉琦 要不你单身呢",
+        "onboard_time": 1735223480,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132533,
+        "num": 132533,
+        "word": "男子贷款15万后去世银行要求罚息",
+        "onboard_time": 1735215800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129760,
+        "num": 129760,
+        "word": "鱿鱼游戏3",
+        "onboard_time": 1735227198,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122373,
+        "num": 122373,
+        "word": "猎罪图鉴1编剧",
+        "onboard_time": 1735225879,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107957,
+        "num": 107957,
+        "word": "室内公共场所禁烟是全国性的",
+        "onboard_time": 1735208959,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92370,
+        "num": 92370,
+        "word": "管理方回应巨型圣诞树被烧只剩骨架",
+        "onboard_time": 1735233074,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89753,
+        "num": 89753,
+        "word": "中方坚决反对美在菲律宾部署中导",
+        "onboard_time": 1735226779,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88566,
+        "num": 88566,
+        "word": "上海挤满了周五下班的韩国人",
+        "onboard_time": 1735212738,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 38742,
+        "num": 87880,
+        "word": "狼队vs曼联",
+        "onboard_time": 1735230916,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87848,
+        "num": 87848,
+        "word": "大年初一电影放大招",
+        "onboard_time": 1735222880,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86156,
+        "num": 86156,
+        "word": "胡塞武装强势回应内塔尼亚胡威胁",
+        "onboard_time": 1735228159,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79860,
+        "num": 79860,
+        "word": "狗仔回应白敬亭宋轶感情近况",
+        "onboard_time": 1735218920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77083,
+        "num": 77083,
+        "word": "鱿鱼游戏2结局",
+        "onboard_time": 1735229957,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7545,
+        "num": 75400,
+        "word": "黄雨婷分享首金精神",
+        "onboard_time": 1735234093,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75336,
+        "num": 75336,
+        "word": "57岁王祖贤自拍照",
+        "onboard_time": 1735218920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73511,
+        "num": 73511,
+        "word": "上海 韩国人",
+        "onboard_time": 1735199719,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 68358,
+        "num": 68358,
+        "word": "徐娇 勇敢",
+        "onboard_time": 1735230677,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64367,
+        "num": 64367,
+        "word": "光遇",
+        "onboard_time": 1735223841,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59082,
+        "num": 59082,
+        "word": "中国军队将与大家一起笃定前行",
+        "onboard_time": 1735223360,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 73229,
+        "num": 58808,
+        "word": "国防时报晒银杏叶",
+        "onboard_time": 1735232356,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 72476,
+        "num": 58660,
+        "word": "郑思维受伤",
+        "onboard_time": 1735232356,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58423,
+        "num": 58423,
+        "word": "女子鼻子整了7次如今鼻梁成C形",
+        "onboard_time": 1735206197,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56940,
+        "num": 56940,
+        "word": "火星情报局",
+        "onboard_time": 1735231335,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56512,
+        "num": 56512,
+        "word": "鱿鱼游戏 吊在俊",
+        "onboard_time": 1735210819,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51715,
+        "num": 51715,
+        "word": "连续五年综合热度Top10明星",
+        "onboard_time": 1735228638,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51442,
+        "num": 51442,
+        "word": "丁禹兮银发挑染造型路透",
+        "onboard_time": 1735225579,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47719,
+        "num": 47719,
+        "word": "吴磊银发",
+        "onboard_time": 1735214117,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46407,
+        "num": 46407,
+        "word": "TOP地狱笑话",
+        "onboard_time": 1735214117,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45633,
+        "num": 45633,
+        "word": "鱿鱼游戏2全集上线",
+        "onboard_time": 1735201458,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45303,
+        "num": 45303,
+        "word": "费曼晒吴镇宇丑照",
+        "onboard_time": 1735231036,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45077,
+        "num": 45077,
+        "word": "娃哈哈奶茶店有时1天1张单都没有",
+        "onboard_time": 1735206980,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40518,
+        "num": 40518,
+        "word": "获利180元被罚10万卖羊肉老太发声",
+        "onboard_time": 1735210039,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39822,
+        "num": 39822,
+        "word": "伊能静一家英国过圣诞",
+        "onboard_time": 1735223660,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39236,
+        "num": 39236,
+        "word": "00后盗用公司150万元打赏男主播",
+        "onboard_time": 1735226957,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36844,
+        "num": 36844,
+        "word": "猎罪3热度",
+        "onboard_time": 1735229419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36807,
+        "num": 36807,
+        "word": "何猷君晒与儿子滑雪合照",
+        "onboard_time": 1735220119,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36327,
+        "num": 36327,
+        "word": "长期接不到女乘客网约司机投诉平台",
+        "onboard_time": 1735188739,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34789,
+        "num": 36325,
+        "word": "10岁女孩写作业手疼确诊白血病",
+        "onboard_time": 1735216039,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33065,
+        "num": 36325,
+        "word": "王安宇 我上去就是一把糯米",
+        "onboard_time": 1735215859,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#志合越山海#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735233547703,
+  "endTime": 1735234579117,
   "band_list": [
     {
       "raw_hot": 2474179,
@@ -243,20 +243,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107957,
+      "num": 107957,
+      "word": "室内公共场所禁烟是全国性的",
+      "onboard_time": 1735208959,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105597,
       "num": 99569,
       "word": "鱿鱼游戏 吊在俊",
       "onboard_time": 1735210819,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103259,
-      "num": 103259,
-      "word": "室内公共场所禁烟是全国性的",
-      "onboard_time": 1735208959,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102458,
@@ -305,6 +305,14 @@
       "onboard_time": 1735201458,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92370,
+      "num": 199124,
+      "word": "管理方回应巨型圣诞树被烧只剩骨架",
+      "onboard_time": 1735233074,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92275,
@@ -419,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56940,
+      "num": 56940,
+      "word": "火星情报局",
+      "onboard_time": 1735231335,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56058,
       "num": 68906,
       "word": "韩国游客来上海特种兵旅行",
@@ -444,19 +460,11 @@
     },
     {
       "raw_hot": 49501,
-      "num": 58300,
+      "num": 87880,
       "word": "狼队vs曼联",
       "onboard_time": 1735230916,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48392,
-      "num": 48392,
-      "word": "火星情报局",
-      "onboard_time": 1735231335,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 42252,
@@ -475,10 +483,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13222,
-      "num": 199124,
-      "word": "管理方回应巨型圣诞树被烧只剩骨架",
-      "onboard_time": 1735233074,
+      "raw_hot": 10769,
+      "num": 162113,
+      "word": "女子花数万修复鼻孔结果鼻梁被弄歪",
+      "onboard_time": 1735234273,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -487,6 +495,14 @@
       "num": 90557,
       "word": "比尔27分",
       "onboard_time": 1735232895,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7545,
+      "num": 75400,
+      "word": "黄雨婷分享首金精神",
+      "onboard_time": 1735234093,
       "rank": 24,
       "category": "体育"
     },
