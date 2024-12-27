@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735273592884,
+  "endTime": 1735274456414,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -43,6 +43,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1407196,
+      "num": 1407196,
+      "word": "樊振东11点11分发博的深意",
+      "onboard_time": 1735271662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1399222,
       "num": 1399222,
       "word": "机长坠机遇难前最后操作挽救数十人",
@@ -57,14 +65,6 @@
       "onboard_time": 1735256477,
       "rank": 1,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 1223717,
-      "num": 1223717,
-      "word": "樊振东11点11分发博的深意",
-      "onboard_time": 1735271662,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1183591,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 898197,
+      "num": 377240,
+      "word": "肯德基 孙颖莎",
+      "onboard_time": 1735272562,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 885359,
       "num": 885359,
       "word": "律师谈董宝石为何被行拘",
@@ -121,6 +129,14 @@
       "onboard_time": 1735226298,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 793808,
+      "num": 793808,
+      "word": "主人没牵住狗绳致路人车祸身亡",
+      "onboard_time": 1735272201,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 786822,
@@ -187,12 +203,36 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 601527,
+      "num": 601527,
+      "word": "四川舰雄起",
+      "onboard_time": 1735271241,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 597389,
       "num": 597389,
       "word": "渐冻症抗争者蔡磊最新公开发声",
       "onboard_time": 1735269078,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 584788,
+      "num": 584788,
+      "word": "宝石老舅拘留期满后照常录制节目",
+      "onboard_time": 1735272381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 564228,
+      "num": 564228,
+      "word": "李昀锐 就这个顶腮",
+      "onboard_time": 1735271782,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 562403,
@@ -211,20 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 553782,
-      "num": 553782,
-      "word": "四川舰雄起",
-      "onboard_time": 1735271241,
-      "rank": 10,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 548538,
-      "num": 548538,
-      "word": "李昀锐 就这个顶腮",
-      "onboard_time": 1735271782,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 533513,
+      "num": 533513,
+      "word": "WTT颁布不参赛就罚款新规",
+      "onboard_time": 1735272261,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 529138,
@@ -235,28 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 513205,
-      "num": 513205,
-      "word": "主人没牵住狗绳致路人车祸身亡",
-      "onboard_time": 1735272201,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 500677,
-      "num": 500677,
-      "word": "WTT颁布不参赛就罚款新规",
-      "onboard_time": 1735272261,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 496369,
-      "num": 377240,
-      "word": "肯德基 孙颖莎",
-      "onboard_time": 1735272562,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 510338,
+      "num": 556298,
+      "word": "专家解读四川舰三大特点",
+      "onboard_time": 1735272621,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 476363,
@@ -296,14 +312,6 @@
       "word": "徐娇仍在店里处理",
       "onboard_time": 1735214179,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 427304,
-      "num": 510742,
-      "word": "宝石老舅拘留期满后照常录制节目",
-      "onboard_time": 1735272381,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -361,14 +369,6 @@
       "onboard_time": 1735271841,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 374643,
-      "num": 556298,
-      "word": "专家解读四川舰三大特点",
-      "onboard_time": 1735272621,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 372959,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 293367,
+      "num": 293367,
+      "word": "熊猫舰",
+      "onboard_time": 1735272261,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
       "raw_hot": 289915,
       "num": 184295,
       "word": "宝石老舅称已接受行政处罚",
@@ -459,8 +467,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278251,
-      "num": 278251,
+      "raw_hot": 286924,
+      "num": 286924,
       "word": "目前樊振东4050分世排第6",
       "onboard_time": 1735271000,
       "rank": 35,
@@ -475,20 +483,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 261599,
-      "num": 261599,
+      "raw_hot": 264375,
+      "num": 264375,
       "word": "韩国鼓励公务员穿韩服上班",
       "onboard_time": 1735271723,
       "rank": 38,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 253332,
-      "num": 253332,
-      "word": "熊猫舰",
-      "onboard_time": 1735272261,
-      "rank": 39,
-      "category": "军事"
+      "raw_hot": 263362,
+      "num": 263362,
+      "word": "新加坡大满贯单打无马龙樊振东陈梦",
+      "onboard_time": 1735271241,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259226,
+      "num": 259226,
+      "word": "请苍天鉴忠奸成为年度热词",
+      "onboard_time": 1735273642,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 250956,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235965,
+      "num": 235965,
+      "word": "步惊云 武则天来了都得自我怀疑",
+      "onboard_time": 1735271241,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234147,
       "num": 120282,
       "word": "狗仔回应白敬亭宋轶感情近况",
@@ -587,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 211133,
-      "num": 211133,
-      "word": "新加坡大满贯单打无马龙樊振东陈梦",
-      "onboard_time": 1735271241,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205569,
       "num": 205569,
       "word": "同一件衣服戴不戴首饰的区别",
@@ -627,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196160,
+      "num": 275374,
+      "word": "朱丹 又幸福了",
+      "onboard_time": 1735273941,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192977,
       "num": 192977,
       "word": "新中式黄金在婚嫁市场爆火",
@@ -635,12 +659,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191375,
+      "num": 191375,
+      "word": "丁禹兮化身燕云boss郑鄂",
+      "onboard_time": 1735274420,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 189647,
       "num": 207796,
       "word": "电影小小的我票房预测",
       "onboard_time": 1735267998,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187877,
+      "num": 187877,
+      "word": "多大的案子啊集齐这么多罪犯",
+      "onboard_time": 1735274361,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187469,
+      "num": 187774,
+      "word": "樊振东对未来职业生涯尚未具体规划",
+      "onboard_time": 1735273882,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 186908,
@@ -665,14 +713,6 @@
       "onboard_time": 1735255995,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 181115,
-      "num": 181115,
-      "word": "步惊云 武则天来了都得自我怀疑",
-      "onboard_time": 1735271241,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 179310,
@@ -881,6 +921,14 @@
       "onboard_time": 1735267098,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135036,
+      "num": 468299,
+      "word": "王家卫拍了繁花2000年的故事",
+      "onboard_time": 1735273521,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 134978,
@@ -1163,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84603,
+      "num": 516256,
+      "word": "上官正义用艰难总结2024",
+      "onboard_time": 1735272321,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84250,
       "num": 76540,
       "word": "TOP地狱笑话",
@@ -1193,14 +1249,6 @@
       "onboard_time": 1735262717,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81129,
-      "num": 516256,
-      "word": "上官正义用艰难总结2024",
-      "onboard_time": 1735272321,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79787,
@@ -1355,20 +1403,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51603,
+      "num": 386955,
+      "word": "于适光影之间年度演讲",
+      "onboard_time": 1735273521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51044,
       "num": 105946,
       "word": "费曼晒吴镇宇丑照",
       "onboard_time": 1735231036,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50836,
-      "num": 383479,
-      "word": "王家卫拍了繁花2000年的故事",
-      "onboard_time": 1735273521,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 49501,
@@ -1419,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37851,
+      "num": 489867,
+      "word": "关晓彤分享穿搭心得",
+      "onboard_time": 1735271361,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36677,
       "num": 36677,
       "word": "莫桑比克1500多名囚犯袭警夺枪越狱",
@@ -1443,22 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34264,
-      "num": 386955,
-      "word": "于适光影之间年度演讲",
-      "onboard_time": 1735273521,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30796,
-      "num": 489867,
-      "word": "关晓彤分享穿搭心得",
-      "onboard_time": 1735271361,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 30338,
       "num": 30338,
       "word": "莫桑比克骚乱致33人死亡千名囚犯越狱",
@@ -1475,6 +1515,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26367,
+      "num": 513978,
+      "word": "年终总结是给自己的仪式感",
+      "onboard_time": 1735271302,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26213,
       "num": 26213,
       "word": "鱿鱼游戏3明年开播",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1735247051,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 23962,
-      "num": 502344,
-      "word": "年终总结是给自己的仪式感",
-      "onboard_time": 1735271302,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 23436,
@@ -1563,20 +1603,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 12895,
+      "num": 505546,
+      "word": "一图盘点2024年A股热门概念",
+      "onboard_time": 1735272441,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 12611,
       "num": 146641,
       "word": "向佐希望大家是因为作品喜欢他",
       "onboard_time": 1735263558,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12235,
-      "num": 505546,
-      "word": "一图盘点2024年A股热门概念",
-      "onboard_time": 1735272441,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 11186,
