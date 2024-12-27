@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735281060828,
+  "endTime": 1735281833552,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -169,6 +169,14 @@
       "onboard_time": 1734155959,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6252857,
+      "num": 6252857,
+      "word": "陈梦宣布退出世界排名",
+      "onboard_time": 1735280541,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 6094170,
@@ -3209,14 +3217,6 @@
       "onboard_time": 1733636840,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1265077,
-      "num": 1265077,
-      "word": "陈梦宣布退出世界排名",
-      "onboard_time": 1735280541,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1264508,
@@ -7011,6 +7011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 826845,
+      "num": 826845,
+      "word": "陈梦关注樊振东",
+      "onboard_time": 1735278982,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 826450,
       "num": 451392,
       "word": "李冰冰 妈咪",
@@ -7161,14 +7169,6 @@
       "onboard_time": 1734224476,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 816671,
-      "num": 816671,
-      "word": "陈梦关注樊振东",
-      "onboard_time": 1735278982,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 816326,
@@ -14667,6 +14667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497432,
+      "num": 497432,
+      "word": "樊振东退出世排意味着什么",
+      "onboard_time": 1735280541,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 497203,
       "num": 673937,
       "word": "民办大学倒闭潮要来了吗",
@@ -15243,6 +15251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480077,
+      "num": 480077,
+      "word": "小小的我",
+      "onboard_time": 1733641820,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480071,
       "num": 480071,
       "word": "湖南冲撞小学生案一审宣判",
@@ -15281,14 +15297,6 @@
       "onboard_time": 1733543960,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 479428,
-      "num": 479428,
-      "word": "小小的我",
-      "onboard_time": 1733641820,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 478679,
@@ -15609,6 +15617,14 @@
       "onboard_time": 1733963119,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 470378,
+      "num": 470378,
+      "word": "刘亚仁别墅被7岁男童买下",
+      "onboard_time": 1735280301,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 470208,
@@ -16761,6 +16777,14 @@
       "onboard_time": 1734912198,
       "rank": 7,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 444943,
+      "num": 444943,
+      "word": "小小的我 周雨彤",
+      "onboard_time": 1735281142,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 444919,
@@ -19673,14 +19697,6 @@
       "onboard_time": 1734362120,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 382963,
-      "num": 382963,
-      "word": "刘亚仁别墅被7岁男童买下",
-      "onboard_time": 1735280301,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 382937,
@@ -26083,6 +26099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 280197,
+      "num": 280197,
+      "word": "郑思维让樊振东做心中的自己",
+      "onboard_time": 1735279641,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280111,
       "num": 191655,
       "word": "刘亦菲连续10年为唐嫣庆生",
@@ -29921,14 +29945,6 @@
       "onboard_time": 1735266799,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 239692,
-      "num": 329306,
-      "word": "樊振东退出世排意味着什么",
-      "onboard_time": 1735280541,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 239633,
@@ -34715,12 +34731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207551,
-      "num": 207551,
-      "word": "郑思维让樊振东做心中的自己",
-      "onboard_time": 1735279641,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 207569,
+      "num": 530278,
+      "word": "监管部门已对俄罗斯商品馆开展检查",
+      "onboard_time": 1735280001,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207474,
@@ -37499,6 +37515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197375,
+      "num": 197375,
+      "word": "张婉婷说再见爱人观察员挑拨离间",
+      "onboard_time": 1735281621,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "专家称白猫在猫眼里不是最丑的",
@@ -38537,6 +38561,14 @@
       "onboard_time": 1733976200,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194461,
+      "num": 308522,
+      "word": "理解易烊千玺演刘春和天天崩溃了",
+      "onboard_time": 1735281201,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 194418,
@@ -46683,6 +46715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166728,
+      "num": 166728,
+      "word": "易烊千玺演技",
+      "onboard_time": 1735281743,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166726,
       "num": 166726,
       "word": "游戏玩家网上泄密惊动意国防部",
@@ -48280,6 +48320,14 @@
       "word": "魏晨名侦探的假期vlog",
       "onboard_time": 1733721199,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161597,
+      "num": 161597,
+      "word": "丁禹兮工作室",
+      "onboard_time": 1733707097,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -51825,14 +51873,6 @@
       "onboard_time": 1735103480,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151893,
-      "num": 151893,
-      "word": "丁禹兮工作室",
-      "onboard_time": 1733707097,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 151862,
@@ -64579,14 +64619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112197,
-      "num": 530278,
-      "word": "监管部门已对俄罗斯商品馆开展检查",
-      "onboard_time": 1735280001,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112137,
       "num": 333920,
       "word": "江苏卫视跨年共创节目单",
@@ -71707,6 +71739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81986,
+      "num": 472464,
+      "word": "长沙曾规定公共场所吸烟个人罚200",
+      "onboard_time": 1735280120,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81959,
       "num": 168168,
       "word": "电影骗骗喜欢你首映礼",
@@ -72625,6 +72665,14 @@
       "onboard_time": 1734934099,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77957,
+      "num": 442723,
+      "word": "赛琳娜和未婚夫圣诞合照",
+      "onboard_time": 1735281442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 77920,
@@ -76571,14 +76619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61472,
-      "num": 472464,
-      "word": "长沙曾规定公共场所吸烟个人罚200",
-      "onboard_time": 1735280120,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61438,
       "num": 61438,
       "word": "鞠婧祎逆应援",
@@ -77028,7 +77068,7 @@
     },
     {
       "raw_hot": 59616,
-      "num": 397701,
+      "num": 443806,
       "word": "时光音乐会收官歌单",
       "onboard_time": 1735280240,
       "rank": 20,
@@ -81332,7 +81372,7 @@
     },
     {
       "raw_hot": 45884,
-      "num": 2751232,
+      "num": 4221371,
       "word": "2024中国人的仪式感",
       "onboard_time": 1735276041,
       "rank": 2,
@@ -83593,6 +83633,14 @@
       "onboard_time": 1734906972,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39831,
+      "num": 444488,
+      "word": "游客看日出放烟花致山火蔓延",
+      "onboard_time": 1735281082,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39825,
@@ -87299,6 +87347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31029,
+      "num": 441496,
+      "word": "属于每个人的2024",
+      "onboard_time": 1735279461,
+      "rank": 18,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 31012,
       "num": 291292,
       "word": "钟意大司命一打五",
@@ -87457,6 +87513,14 @@
       "onboard_time": 1734201193,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30742,
+      "num": 329161,
+      "word": "法院判决龙猪集车赔偿比亚迪202万元",
+      "onboard_time": 1735278382,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 30740,
@@ -88361,14 +88425,6 @@
       "onboard_time": 1735210938,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28611,
-      "num": 329161,
-      "word": "法院判决龙猪集车赔偿比亚迪202万元",
-      "onboard_time": 1735278382,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 28567,
@@ -89747,6 +89803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 24946,
+      "num": 352666,
+      "word": "豪情DNA被激活了",
+      "onboard_time": 1735281201,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 24921,
       "num": 79692,
       "word": "2年被家暴16次案开庭妇联旁听",
@@ -89995,14 +90059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24326,
-      "num": 430630,
-      "word": "属于每个人的2024",
-      "onboard_time": 1735279461,
-      "rank": 18,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 24307,
       "num": 293063,
       "word": "全国散打季军王亲亲发声",
@@ -90241,6 +90297,14 @@
       "onboard_time": 1733246835,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23614,
+      "num": 393049,
+      "word": "第一次看这么真实的插电演唱会",
+      "onboard_time": 1735277903,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 23593,
@@ -91321,14 +91385,6 @@
       "onboard_time": 1733160973,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20906,
-      "num": 393049,
-      "word": "第一次看这么真实的插电演唱会",
-      "onboard_time": 1735277903,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 20849,
