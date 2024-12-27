@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735277921542,
+  "endTime": 1735281060828,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -11,11 +11,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 5058636,
-      "num": 5058636,
+      "raw_hot": 9583455,
+      "num": 9583455,
       "word": "赵露思坐轮椅",
       "onboard_time": 1735275742,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4380840,
+      "num": 807484,
+      "word": "赵露思",
+      "onboard_time": 1735278862,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -569,6 +577,14 @@
       "onboard_time": 1735185259,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1265077,
+      "num": 1265077,
+      "word": "陈梦宣布退出世界排名",
+      "onboard_time": 1735280541,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1255758,
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 816671,
+      "num": 816671,
+      "word": "陈梦关注樊振东",
+      "onboard_time": 1735278982,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 810668,
       "num": 490838,
       "word": "葛夕留几手没有离婚",
@@ -1883,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668355,
+      "num": 668355,
+      "word": "汪苏泷欢迎刘大锤看演唱会",
+      "onboard_time": 1735278623,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 666209,
       "num": 523146,
       "word": "男子要求出轨对象偿还出轨期间支出",
@@ -1897,6 +1929,14 @@
       "onboard_time": 1735126578,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 664053,
+      "num": 664053,
+      "word": "宝石老舅拘留期满后照常录制节目",
+      "onboard_time": 1735272381,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 663993,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1734926119,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 638961,
-      "num": 584788,
-      "word": "宝石老舅拘留期满后照常录制节目",
-      "onboard_time": 1735272381,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 638676,
@@ -2907,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479428,
+      "num": 479428,
+      "word": "小小的我",
+      "onboard_time": 1734957858,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 477482,
       "num": 477482,
       "word": "人社局回应小伙上班6天误触辐射源",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1734789381,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470208,
+      "num": 470208,
+      "word": "终于看到易烊千玺刘春和正脸了",
+      "onboard_time": 1735279281,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 469726,
@@ -3139,6 +3187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 454874,
+      "num": 454874,
+      "word": "下岗离婚重度抑郁都没有击垮她",
+      "onboard_time": 1735277782,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 454236,
       "num": 254602,
       "word": "全红婵17岁正是爱美的年纪",
@@ -3313,6 +3369,14 @@
       "onboard_time": 1735173978,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435765,
+      "num": 435765,
+      "word": "吴敬平发博",
+      "onboard_time": 1735278140,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 435581,
@@ -3873,6 +3937,14 @@
       "onboard_time": 1734851597,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 382963,
+      "num": 382963,
+      "word": "刘亚仁别墅被7岁男童买下",
+      "onboard_time": 1735280301,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 382824,
@@ -5843,6 +5915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248750,
+      "num": 375722,
+      "word": "林昀儒点赞樊振东",
+      "onboard_time": 1735279461,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248465,
       "num": 192746,
       "word": "黄景瑜公主抱粉丝",
@@ -5897,6 +5977,14 @@
       "onboard_time": 1735136180,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246944,
+      "num": 246944,
+      "word": "天生花脸是缺陷也是勋章",
+      "onboard_time": 1735277363,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 246926,
@@ -6049,6 +6137,14 @@
       "onboard_time": 1735266799,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 239692,
+      "num": 329306,
+      "word": "樊振东退出世排意味着什么",
+      "onboard_time": 1735280541,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 239530,
@@ -6835,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212542,
+      "num": 212542,
+      "word": "汪苏泷工作室",
+      "onboard_time": 1735278501,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212497,
       "num": 212497,
       "word": "李昀锐 大馋小子",
@@ -7067,6 +7171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207551,
+      "num": 207551,
+      "word": "郑思维让樊振东做心中的自己",
+      "onboard_time": 1735279641,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207474,
       "num": 207474,
       "word": "南方人洗澡现状",
@@ -7081,14 +7193,6 @@
       "onboard_time": 1735214117,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 207200,
-      "num": 207200,
-      "word": "小小的我",
-      "onboard_time": 1734957858,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 207050,
@@ -7331,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202498,
+      "num": 202498,
+      "word": "龙猪",
+      "onboard_time": 1735280421,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 202406,
       "num": 176424,
       "word": "张萌 送上超点的小福利",
@@ -7555,12 +7667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198123,
+      "num": 331070,
+      "word": "恋人",
+      "onboard_time": 1735279881,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198018,
       "num": 198018,
       "word": "鞠婧祎陈都灵靠肩抱",
       "onboard_time": 1734876680,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197917,
+      "num": 352985,
+      "word": "宋旻浩因社交恐惧症而请病假",
+      "onboard_time": 1735279701,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 197887,
@@ -7921,6 +8049,14 @@
       "onboard_time": 1735179437,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192337,
+      "num": 359072,
+      "word": "TFBOYS转发支持王俊凯新歌",
+      "onboard_time": 1735279941,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 192269,
@@ -8947,6 +9083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174299,
+      "num": 174299,
+      "word": "这个元旦礼物太硬核了吧",
+      "onboard_time": 1735280481,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 173987,
       "num": 173987,
       "word": "芒果女主持采访戚薇时的眼神",
@@ -9427,14 +9571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167182,
-      "num": 167182,
-      "word": "下岗离婚重度抑郁都没有击垮她",
-      "onboard_time": 1735277782,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166796,
       "num": 166796,
       "word": "CV声讨AI语音侵权",
@@ -9657,6 +9793,14 @@
       "onboard_time": 1734924377,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164196,
+      "num": 164196,
+      "word": "杨迪被张杰演唱会电音电出河南话",
+      "onboard_time": 1735280120,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 164076,
@@ -13339,6 +13483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112197,
+      "num": 530278,
+      "word": "监管部门已对俄罗斯商品馆开展检查",
+      "onboard_time": 1735280001,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111917,
       "num": 262529,
       "word": "00后盗用公司150万元打赏男主播",
@@ -16099,6 +16251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61472,
+      "num": 472464,
+      "word": "长沙曾规定公共场所吸烟个人罚200",
+      "onboard_time": 1735280120,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61315,
       "num": 186681,
       "word": "如何用年终总结惊艳领导",
@@ -16177,6 +16337,14 @@
       "onboard_time": 1734864799,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59616,
+      "num": 397701,
+      "word": "时光音乐会收官歌单",
+      "onboard_time": 1735280240,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 59614,
@@ -17211,6 +17379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45884,
+      "num": 2751232,
+      "word": "2024中国人的仪式感",
+      "onboard_time": 1735276041,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45807,
       "num": 291647,
       "word": "九重紫作者说拿到人生剧本也未必赢",
@@ -17457,6 +17633,14 @@
       "onboard_time": 1734855857,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42479,
+      "num": 363199,
+      "word": "闫妮彭昱畅新片演母子",
+      "onboard_time": 1735279461,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 42323,
@@ -17707,14 +17891,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 39206,
-      "num": 2751232,
-      "word": "2024中国人的仪式感",
-      "onboard_time": 1735276041,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39193,
       "num": 39193,
       "word": "外交部发布海外旅行安全锦囊",
@@ -17745,6 +17921,14 @@
       "onboard_time": 1735035259,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39038,
+      "num": 343970,
+      "word": "前11月规上工业企业利润66674.8亿",
+      "onboard_time": 1735280721,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 39003,
@@ -18779,6 +18963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28611,
+      "num": 329161,
+      "word": "法院判决龙猪集车赔偿比亚迪202万元",
+      "onboard_time": 1735278382,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28526,
       "num": 28526,
       "word": "檀健次做沈翊的翻译",
@@ -18953,6 +19145,14 @@
       "onboard_time": 1735214358,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26579,
+      "num": 418184,
+      "word": "天刀赛季版今日重生归来",
+      "onboard_time": 1735277903,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 26375,
@@ -19169,6 +19369,14 @@
       "onboard_time": 1735120818,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24326,
+      "num": 430630,
+      "word": "属于每个人的2024",
+      "onboard_time": 1735279461,
+      "rank": 18,
+      "category": "正能量"
     },
     {
       "raw_hot": 24167,
@@ -19465,6 +19673,14 @@
       "onboard_time": 1735108159,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20906,
+      "num": 393049,
+      "word": "第一次看这么真实的插电演唱会",
+      "onboard_time": 1735277903,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 20586,
@@ -20235,14 +20451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8908,
-      "num": 152142,
-      "word": "天刀赛季版今日重生归来",
-      "onboard_time": 1735277903,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 8658,
       "num": 108300,
       "word": "马龙谈如何保持高水平",
@@ -20345,14 +20553,6 @@
       "onboard_time": 1735205179,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 7252,
-      "num": 151553,
-      "word": "第一次看这么真实的插电演唱会",
-      "onboard_time": 1735277903,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 7222,

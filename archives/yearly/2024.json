@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735277921542,
+  "endTime": 1735281060828,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9583455,
+      "num": 9583455,
+      "word": "赵露思坐轮椅",
+      "onboard_time": 1735275742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9582613,
       "num": 8621713,
       "word": "奥运五环旗挂反了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708414596,
       "rank": 0,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 8185110,
-      "num": 582774,
-      "word": "那英吗 田震吧",
-      "onboard_time": 1715954426,
-      "rank": 3,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
