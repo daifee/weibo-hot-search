@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735267975350,
+  "endTime": 1735268514173,
   "band_list": [
     {
       "raw_hot": 2773251,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1435799,
-      "num": 1435799,
+      "raw_hot": 1472366,
+      "num": 1472366,
       "word": "四川舰",
       "onboard_time": 1735266678,
       "rank": 1,
@@ -59,6 +59,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1080642,
+      "num": 1080642,
+      "word": "网易云 不准",
+      "onboard_time": 1735266558,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 937928,
       "num": 945137,
       "word": "12345回应徐娇劝阻男子餐厅抽烟",
@@ -73,14 +81,6 @@
       "onboard_time": 1735226298,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 801501,
-      "num": 801501,
-      "word": "网易云 不准",
-      "onboard_time": 1735266558,
-      "rank": 6,
-      "category": "音乐"
     },
     {
       "raw_hot": 773877,
@@ -107,20 +107,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 740528,
+      "num": 740528,
+      "word": "男子22万买车投保29万故意开进湖里",
+      "onboard_time": 1735265838,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 689524,
       "num": 689524,
       "word": "徐娇劝阻抽烟餐厅人均103元",
       "onboard_time": 1735231216,
       "rank": 5,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 671665,
-      "num": 671665,
-      "word": "男子22万买车投保29万故意开进湖里",
-      "onboard_time": 1735265838,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 633057,
@@ -131,20 +131,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562403,
+      "num": 562403,
+      "word": "王俊凯新歌",
+      "onboard_time": 1735266498,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 562082,
       "num": 562082,
       "word": "靠无理由退货0成本骗了200万的商品",
       "onboard_time": 1735239552,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 554755,
-      "num": 554755,
-      "word": "王俊凯新歌",
-      "onboard_time": 1735266498,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 529138,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375059,
+      "num": 375059,
+      "word": "律师谈董宝石为何被行拘",
+      "onboard_time": 1735266256,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368604,
       "num": 368604,
       "word": "韩国人来上海打卡的线路相当统一",
@@ -291,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273432,
-      "num": 273432,
-      "word": "律师谈董宝石为何被行拘",
-      "onboard_time": 1735266256,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 288904,
+      "num": 506902,
+      "word": "2024堪称网红塌房元年",
+      "onboard_time": 1735267399,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250956,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239709,
+      "num": 239709,
+      "word": "那个21岁送外卖的单亲妈妈开店了",
+      "onboard_time": 1735266799,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239047,
       "num": 239047,
       "word": "网传近百只猫在水塘中被溺死",
@@ -347,11 +363,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230442,
-      "num": 230442,
-      "word": "那个21岁送外卖的单亲妈妈开店了",
-      "onboard_time": 1735266799,
-      "rank": 31,
+      "raw_hot": 227408,
+      "num": 227408,
+      "word": "大二女生创作吧唧一年半赚5万",
+      "onboard_time": 1735267878,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -387,12 +403,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 196608,
+      "num": 232719,
+      "word": "五月天2025线上跨年演唱会",
+      "onboard_time": 1735267998,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195305,
+      "num": 559613,
+      "word": "四川舰下水震撼画面",
+      "onboard_time": 1735268119,
+      "rank": 12,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 189908,
       "num": 248575,
       "word": "燕云十六声",
       "onboard_time": 1735266378,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189647,
+      "num": 207796,
+      "word": "电影小小的我票房预测",
+      "onboard_time": 1735267998,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 181649,
@@ -435,16 +475,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162072,
-      "num": 162072,
+      "raw_hot": 163136,
+      "num": 163136,
       "word": "家长谈天冷喊跑腿送孩子上学",
       "onboard_time": 1735267158,
       "rank": 35,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161500,
-      "num": 161500,
+      "raw_hot": 162408,
+      "num": 162408,
       "word": "孙颖莎明年大年初二就开始比赛了",
       "onboard_time": 1735267038,
       "rank": 36,
@@ -473,6 +513,14 @@
       "onboard_time": 1735222880,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155685,
+      "num": 155685,
+      "word": "31岁大专毕业转行了7次",
+      "onboard_time": 1735264878,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 154823,
@@ -523,11 +571,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140864,
-      "num": 140864,
-      "word": "31岁大专毕业转行了7次",
-      "onboard_time": 1735264878,
-      "rank": 39,
+      "raw_hot": 142847,
+      "num": 142847,
+      "word": "稳是每个普通人都能收到的年终奖",
+      "onboard_time": 1735267819,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -537,6 +585,14 @@
       "onboard_time": 1735262897,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134268,
+      "num": 134268,
+      "word": "成都一年新增11万艾滋病人系谣言",
+      "onboard_time": 1735267698,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 133582,
@@ -571,20 +627,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131025,
+      "num": 131025,
+      "word": "赵丽颖觉得肩上的责任很重",
+      "onboard_time": 1735268417,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130827,
       "num": 130827,
       "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
       "onboard_time": 1735247291,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 126723,
-      "num": 126723,
-      "word": "大二女生创作吧唧一年半赚5万",
-      "onboard_time": 1735267878,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120000,
@@ -617,22 +673,6 @@
       "onboard_time": 1735214117,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 115705,
-      "num": 115705,
-      "word": "成都一年新增11万艾滋病人系谣言",
-      "onboard_time": 1735267698,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 112561,
-      "num": 112561,
-      "word": "稳是每个普通人都能收到的年终奖",
-      "onboard_time": 1735267819,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 111917,
@@ -684,7 +724,7 @@
     },
     {
       "raw_hot": 100770,
-      "num": 112561,
+      "num": 136159,
       "word": "抗初老的最佳年龄是几岁",
       "onboard_time": 1735264458,
       "rank": 39,
@@ -859,19 +899,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78043,
+      "num": 334243,
+      "word": "听到房子传言买家想退定金",
+      "onboard_time": 1735267098,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76041,
       "num": 76041,
       "word": "男子抢手机扔烟头或涉嫌寻衅滋事",
       "onboard_time": 1735225519,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75747,
-      "num": 405429,
-      "word": "2024堪称网红塌房元年",
-      "onboard_time": 1735267399,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -888,6 +928,14 @@
       "word": "长期接不到女乘客网约司机投诉平台",
       "onboard_time": 1735188739,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74219,
+      "num": 697139,
+      "word": "网红是怎么变味的",
+      "onboard_time": 1735267278,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -971,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55191,
-      "num": 298743,
-      "word": "听到房子传言买家想退定金",
-      "onboard_time": 1735267098,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53241,
       "num": 53241,
       "word": "男子网购显卡用塑料玩具退货骗钱",
@@ -1009,14 +1049,6 @@
       "onboard_time": 1735230916,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49043,
-      "num": 697139,
-      "word": "网红是怎么变味的",
-      "onboard_time": 1735267278,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47922,
@@ -1051,7 +1083,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37579,
+      "raw_hot": 39785,
+      "num": 229490,
+      "word": "我用自己身体撞击汽车",
+      "onboard_time": 1735268479,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39514,
       "num": 1402226,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
@@ -1227,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7515,
+      "num": 455674,
+      "word": "秀新车精神状态belike",
+      "onboard_time": 1735268417,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 6069,
       "num": 120644,
       "word": "吴磊给粉丝讲冷笑话",
@@ -1235,8 +1283,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1873,
-      "num": 259539,
+      "raw_hot": 2679,
+      "num": 262532,
       "word": "谁来救救瓜迪奥拉",
       "onboard_time": 1735267578,
       "rank": 24,
