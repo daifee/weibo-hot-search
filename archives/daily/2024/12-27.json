@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735298319373,
+  "endTime": 1735299343165,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -99,7 +99,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1508480,
+      "raw_hot": 1515455,
       "num": 1508480,
       "word": "樊振东陈梦退赛将被罚款5000美元",
       "onboard_time": 1735289841,
@@ -179,8 +179,8 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1057598,
-      "num": 515408,
+      "raw_hot": 1113186,
+      "num": 1178109,
       "word": "春晚彩排",
       "onboard_time": 1735294879,
       "rank": 41,
@@ -307,6 +307,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 727865,
+      "num": 405646,
+      "word": "小小的我口碑",
+      "onboard_time": 1735297220,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 725547,
+      "num": 458018,
+      "word": "爷爷花45元请我吃了最豪华的大餐",
+      "onboard_time": 1735293920,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 708047,
       "num": 689524,
       "word": "徐娇劝阻抽烟餐厅人均103元",
@@ -371,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 623235,
+      "num": 623235,
+      "word": "WTT世界排名退出后满足条件可恢复",
+      "onboard_time": 1735294941,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 606857,
+      "num": 406662,
+      "word": "权志龙朴彩英跳了APT",
+      "onboard_time": 1735296980,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 606846,
       "num": 606846,
       "word": "四川舰下水震撼画面",
@@ -403,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564504,
+      "num": 482646,
+      "word": "火树",
+      "onboard_time": 1735294219,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564228,
       "num": 564228,
       "word": "李昀锐 就这个顶腮",
@@ -425,6 +465,14 @@
       "onboard_time": 1735239552,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548032,
+      "num": 387638,
+      "word": "0713 春晚",
+      "onboard_time": 1735296321,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 546306,
@@ -467,28 +515,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 495385,
-      "num": 406662,
-      "word": "权志龙朴彩英跳了APT",
-      "onboard_time": 1735296980,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 491376,
       "num": 491376,
       "word": "汪苏泷 家人都在",
       "onboard_time": 1735286421,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482646,
-      "num": 482646,
-      "word": "火树",
-      "onboard_time": 1735294219,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 476363,
@@ -571,28 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431058,
-      "num": 431058,
-      "word": "爷爷花45元请我吃了最豪华的大餐",
-      "onboard_time": 1735293920,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 424164,
       "num": 424164,
       "word": "董某石寻衅滋事被行拘7日",
       "onboard_time": 1735269019,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424049,
-      "num": 387638,
-      "word": "0713 春晚",
-      "onboard_time": 1735296321,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 421698,
@@ -675,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373048,
-      "num": 373048,
-      "word": "WTT世界排名退出后满足条件可恢复",
-      "onboard_time": 1735294941,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 372959,
       "num": 372959,
       "word": "不认识汉字也不耽误老外打麻将",
@@ -721,6 +729,14 @@
       "onboard_time": 1735291880,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351704,
+      "num": 351704,
+      "word": "恋与深空3.0直播",
+      "onboard_time": 1735297880,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 344105,
@@ -779,12 +795,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 319107,
-      "num": 277241,
-      "word": "小小的我口碑",
-      "onboard_time": 1735297220,
-      "rank": 22,
-      "category": "电影"
+      "raw_hot": 319336,
+      "num": 319336,
+      "word": "孟子义新增了8个代言",
+      "onboard_time": 1735298900,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 307363,
@@ -875,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279231,
+      "num": 279231,
+      "word": "汪苏泷恋爱史",
+      "onboard_time": 1735298720,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278699,
       "num": 278699,
       "word": "樊振东恩师吴敬平发文支持樊振东",
@@ -960,6 +984,14 @@
       "word": "肖战央视新闻地广",
       "onboard_time": 1735292240,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 253453,
+      "num": 253453,
+      "word": "宝石老舅被拘前和粉丝合照",
+      "onboard_time": 1735298480,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1139,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225159,
+      "num": 387690,
+      "word": "基建狂魔把2小时路程变13分钟",
+      "onboard_time": 1735296620,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224647,
       "num": 275803,
       "word": "KPL",
       "onboard_time": 1735291521,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223329,
+      "num": 340187,
+      "word": "恋与深空",
+      "onboard_time": 1735285819,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 221233,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1735278501,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211103,
-      "num": 274142,
-      "word": "恋与深空3.0直播",
-      "onboard_time": 1735297880,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 208681,
@@ -1299,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198119,
+      "num": 198119,
+      "word": "龙俊亨秀恩爱",
+      "onboard_time": 1735297400,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197917,
       "num": 352985,
       "word": "宋旻浩因社交恐惧症而请病假",
@@ -1387,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190276,
+      "num": 190276,
+      "word": "肖战射雕贴片",
+      "onboard_time": 1735299199,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189996,
       "num": 189996,
       "word": "咸鱼飞升",
@@ -1425,14 +1481,6 @@
       "onboard_time": 1735292419,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187880,
-      "num": 187880,
-      "word": "龙俊亨秀恩爱",
-      "onboard_time": 1735297400,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 187877,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1735284262,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182273,
+      "num": 182273,
+      "word": "波尔说樊振东在过着自己的生活",
+      "onboard_time": 1735298480,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 182143,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1735293259,
       "rank": 13,
       "category": "军事"
-    },
-    {
-      "raw_hot": 169302,
-      "num": 387690,
-      "word": "基建狂魔把2小时路程变13分钟",
-      "onboard_time": 1735296620,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169050,
@@ -1867,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144783,
+      "num": 348588,
+      "word": "出走的决心主角原型4年后完成离婚",
+      "onboard_time": 1735297521,
+      "rank": 18,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 143841,
       "num": 143841,
       "word": "耳朵上的聪明洞原来是胚胎发育不全",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1735230677,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133071,
+      "num": 345551,
+      "word": "柯南M7纯爱战士遭不住了",
+      "onboard_time": 1735298239,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 133061,
@@ -2145,6 +2209,14 @@
       "onboard_time": 1735228159,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101821,
+      "num": 320675,
+      "word": "马龙说很高兴再次来杭州",
+      "onboard_time": 1735297400,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 100770,
@@ -2379,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79126,
-      "num": 195859,
-      "word": "柯南M7纯爱战士遭不住了",
-      "onboard_time": 1735298239,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 78966,
       "num": 78966,
       "word": "谢霆锋带家人日本度假",
@@ -2435,20 +2499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74376,
+      "num": 346356,
+      "word": "男子脸色发紫幸好旁边人会急救",
+      "onboard_time": 1735299080,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74219,
       "num": 697139,
       "word": "网红是怎么变味的",
       "onboard_time": 1735267278,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73432,
-      "num": 340187,
-      "word": "恋与深空",
-      "onboard_time": 1735285819,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 71734,
@@ -2667,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48199,
+      "num": 193008,
+      "word": "没想到馄饨加泡面也是一绝",
+      "onboard_time": 1735298300,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 47922,
       "num": 47922,
       "word": "多方回应广东两姐妹遭杀害传言",
@@ -2731,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39880,
+      "num": 223851,
+      "word": "陈楚生现身蛇年央视春晚节目审查",
+      "onboard_time": 1735298720,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39831,
       "num": 444488,
       "word": "游客看日出放烟花致山火蔓延",
@@ -2753,6 +2833,22 @@
       "onboard_time": 1735289960,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 38575,
+      "num": 344789,
+      "word": "姑娘想卖积分结果办了5年健身卡",
+      "onboard_time": 1735299199,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38155,
+      "num": 254562,
+      "word": "帕劳失联游客27小时漂了50公里",
+      "onboard_time": 1735298839,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36677,
@@ -2780,7 +2876,7 @@
     },
     {
       "raw_hot": 35711,
-      "num": 287950,
+      "num": 343291,
       "word": "ID3被邻车引燃烧光但电池完好",
       "onboard_time": 1735295660,
       "rank": 41,
@@ -2793,14 +2889,6 @@
       "onboard_time": 1735290141,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 33928,
-      "num": 290788,
-      "word": "出走的决心主角原型4年后完成离婚",
-      "onboard_time": 1735297521,
-      "rank": 18,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 33914,
@@ -2905,6 +2993,14 @@
       "onboard_time": 1735289721,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27240,
+      "num": 246169,
+      "word": "龚俊COSMO虚构剧场大片",
+      "onboard_time": 1735293201,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27149,
