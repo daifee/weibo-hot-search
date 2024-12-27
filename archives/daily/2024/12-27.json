@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735295997919,
+  "endTime": 1735298319373,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -177,6 +177,14 @@
       "onboard_time": 1735266318,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1057598,
+      "num": 515408,
+      "word": "春晚彩排",
+      "onboard_time": 1735294879,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 998279,
@@ -443,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 515408,
-      "num": 515408,
-      "word": "春晚彩排",
-      "onboard_time": 1735294879,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 513656,
       "num": 476135,
       "word": "女子2年被家暴16次案一审宣判",
@@ -465,6 +465,14 @@
       "onboard_time": 1735272621,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 495385,
+      "num": 406662,
+      "word": "权志龙朴彩英跳了APT",
+      "onboard_time": 1735296980,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491376,
@@ -563,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431058,
+      "num": 431058,
+      "word": "爷爷花45元请我吃了最豪华的大餐",
+      "onboard_time": 1735293920,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424164,
       "num": 424164,
       "word": "董某石寻衅滋事被行拘7日",
       "onboard_time": 1735269019,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424049,
+      "num": 387638,
+      "word": "0713 春晚",
+      "onboard_time": 1735296321,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 421698,
@@ -651,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373048,
+      "num": 373048,
+      "word": "WTT世界排名退出后满足条件可恢复",
+      "onboard_time": 1735294941,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 372959,
       "num": 372959,
       "word": "不认识汉字也不耽误老外打麻将",
@@ -697,14 +729,6 @@
       "onboard_time": 1735290320,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343698,
-      "num": 343698,
-      "word": "爷爷花45元请我吃了最豪华的大餐",
-      "onboard_time": 1735293920,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 340211,
@@ -755,6 +779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 319107,
+      "num": 277241,
+      "word": "小小的我口碑",
+      "onboard_time": 1735297220,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 307363,
       "num": 307363,
       "word": "男子贷款15万后去世银行要求罚息",
@@ -784,6 +816,14 @@
       "word": "三星堆出土的象牙是靠冰箱保存的",
       "onboard_time": 1735264398,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294292,
+      "num": 294292,
+      "word": "为什么中国人要穿过天山挖隧道",
+      "onboard_time": 1735296620,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -859,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272972,
+      "num": 272972,
+      "word": "宋雨琦cha了虞书欣的歌",
+      "onboard_time": 1735296020,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 267557,
       "num": 370982,
       "word": "徐娇事件餐厅曾因劝阻吸烟收差评",
       "onboard_time": 1735293321,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265382,
+      "num": 265382,
+      "word": "何运晨考了主持人证",
+      "onboard_time": 1735296739,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 264375,
@@ -1139,12 +1195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208733,
-      "num": 275684,
-      "word": "WTT世界排名退出后满足条件可恢复",
-      "onboard_time": 1735294941,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 211103,
+      "num": 274142,
+      "word": "恋与深空3.0直播",
+      "onboard_time": 1735297880,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 208681,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1735257317,
       "rank": 21,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 202512,
+      "num": 202512,
+      "word": "36岁找不到工作假装上班的一天",
+      "onboard_time": 1735296380,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 202498,
@@ -1363,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187880,
+      "num": 187880,
+      "word": "龙俊亨秀恩爱",
+      "onboard_time": 1735297400,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187877,
       "num": 187877,
       "word": "多大的案子啊集齐这么多罪犯",
@@ -1539,6 +1611,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 169302,
+      "num": 387690,
+      "word": "基建狂魔把2小时路程变13分钟",
+      "onboard_time": 1735296620,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169050,
       "num": 253556,
       "word": "孙珍妮 这么爽的剧情借我演演",
@@ -1627,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160630,
+      "num": 160630,
+      "word": "再就业男团参加蛇年春晚节目审查",
+      "onboard_time": 1735298001,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160565,
       "num": 160565,
       "word": "多家平台回应家长请跑腿送孩子上学",
@@ -1657,6 +1745,14 @@
       "onboard_time": 1735284141,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159549,
+      "num": 159549,
+      "word": "虞书欣相约中国澳门",
+      "onboard_time": 1735297880,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157285,
@@ -2003,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107362,
+      "num": 379035,
+      "word": "普通人才是今年内娱热梗的主角",
+      "onboard_time": 1735297521,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106790,
       "num": 173388,
       "word": "逆水寒",
@@ -2275,6 +2379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79126,
+      "num": 195859,
+      "word": "柯南M7纯爱战士遭不住了",
+      "onboard_time": 1735298239,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78966,
       "num": 78966,
       "word": "谢霆锋带家人日本度假",
@@ -2393,6 +2505,14 @@
       "onboard_time": 1735264518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67675,
+      "num": 292306,
+      "word": "尚雯婕的演讲治愈了我的焦虑",
+      "onboard_time": 1735297160,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 66195,
@@ -2628,7 +2748,7 @@
     },
     {
       "raw_hot": 38622,
-      "num": 288976,
+      "num": 374395,
       "word": "快来交出你的2024年度拼单好物",
       "onboard_time": 1735289960,
       "rank": 19,
@@ -2660,7 +2780,7 @@
     },
     {
       "raw_hot": 35711,
-      "num": 165513,
+      "num": 287950,
       "word": "ID3被邻车引燃烧光但电池完好",
       "onboard_time": 1735295660,
       "rank": 41,
@@ -2673,6 +2793,14 @@
       "onboard_time": 1735290141,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 33928,
+      "num": 290788,
+      "word": "出走的决心主角原型4年后完成离婚",
+      "onboard_time": 1735297521,
+      "rank": 18,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 33914,
@@ -2753,6 +2881,14 @@
       "onboard_time": 1735242071,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29850,
+      "num": 207128,
+      "word": "萝卜丸子汤",
+      "onboard_time": 1735294579,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 29683,
@@ -3033,14 +3169,6 @@
       "onboard_time": 1735234273,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10496,
-      "num": 207128,
-      "word": "萝卜丸子汤",
-      "onboard_time": 1735294579,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 9871,

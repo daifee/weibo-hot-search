@@ -1,0 +1,410 @@
+{
+  "runTime": 1735298319373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5171335,
+        "num": 5171335,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431058,
+        "num": 431058,
+        "word": "爷爷花45元请我吃了最豪华的大餐",
+        "onboard_time": 1735293920,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26556,
+        "num": 431053,
+        "word": "回眸2024感受人与自然的和谐之美",
+        "onboard_time": 1735290501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1057598,
+        "num": 425197,
+        "word": "春晚彩排",
+        "onboard_time": 1735294879,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1064715,
+        "num": 419964,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1499370,
+        "num": 414760,
+        "word": "樊振东陈梦退赛将被罚款5000美元",
+        "onboard_time": 1735289841,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524400,
+        "num": 409243,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495385,
+        "num": 406662,
+        "word": "权志龙朴彩英跳了APT",
+        "onboard_time": 1735296980,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403344,
+        "num": 403344,
+        "word": "莫雷加德评论樊振东",
+        "onboard_time": 1735291281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169302,
+        "num": 387690,
+        "word": "基建狂魔把2小时路程变13分钟",
+        "onboard_time": 1735296620,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461245,
+        "num": 387673,
+        "word": "火树",
+        "onboard_time": 1735294219,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424049,
+        "num": 387638,
+        "word": "0713 春晚",
+        "onboard_time": 1735296321,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387559,
+        "num": 387559,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107362,
+        "num": 379035,
+        "word": "普通人才是今年内娱热梗的主角",
+        "onboard_time": 1735297521,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20053,
+        "num": 374395,
+        "word": "快来交出你的2024年度拼单好物",
+        "onboard_time": 1735289960,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 373048,
+        "num": 373048,
+        "word": "WTT世界排名退出后满足条件可恢复",
+        "onboard_time": 1735294941,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294292,
+        "num": 294292,
+        "word": "为什么中国人要穿过天山挖隧道",
+        "onboard_time": 1735296620,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67675,
+        "num": 292306,
+        "word": "尚雯婕的演讲治愈了我的焦虑",
+        "onboard_time": 1735297160,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33928,
+        "num": 290788,
+        "word": "出走的决心主角原型4年后完成离婚",
+        "onboard_time": 1735297521,
+        "rank": 18,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 19028,
+        "num": 287950,
+        "word": "ID3被邻车引燃烧光但电池完好",
+        "onboard_time": 1735295660,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2102366,
+        "num": 282669,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325579,
+        "num": 279639,
+        "word": "刘国梁",
+        "onboard_time": 1735283241,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319107,
+        "num": 277241,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275649,
+        "num": 275649,
+        "word": "周雨彤易烊千玺感情戏",
+        "onboard_time": 1735289900,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211103,
+        "num": 274142,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 272972,
+        "num": 272972,
+        "word": "宋雨琦cha了虞书欣的歌",
+        "onboard_time": 1735296020,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265382,
+        "num": 265382,
+        "word": "何运晨考了主持人证",
+        "onboard_time": 1735296739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202512,
+        "num": 202512,
+        "word": "36岁找不到工作假装上班的一天",
+        "onboard_time": 1735296380,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199963,
+        "num": 199963,
+        "word": "27岁女子遭前男友泼汽油烧伤致残",
+        "onboard_time": 1735290501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79126,
+        "num": 195859,
+        "word": "柯南M7纯爱战士遭不住了",
+        "onboard_time": 1735298239,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195070,
+        "num": 195070,
+        "word": "徐娇事件餐厅曾因劝阻吸烟收差评",
+        "onboard_time": 1735293321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190812,
+        "num": 190812,
+        "word": "小小的我 周雨彤",
+        "onboard_time": 1735281142,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190738,
+        "num": 190738,
+        "word": "黄圣依带小儿子参加刘芸生日会",
+        "onboard_time": 1735291880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187880,
+        "num": 187880,
+        "word": "龙俊亨秀恩爱",
+        "onboard_time": 1735297400,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182486,
+        "num": 182486,
+        "word": "国家队是懂暗示四川舰的",
+        "onboard_time": 1735286722,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 178555,
+        "num": 178555,
+        "word": "肖战央视新闻地广",
+        "onboard_time": 1735292240,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172509,
+        "num": 172509,
+        "word": "易烊千玺开机那天摇摇晃晃地出现在片场",
+        "onboard_time": 1735291760,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170760,
+        "num": 170760,
+        "word": "樊振东陈梦为什么不要世界排名了",
+        "onboard_time": 1735290981,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29850,
+        "num": 168452,
+        "word": "萝卜丸子汤",
+        "onboard_time": 1735294579,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26130,
+        "num": 167656,
+        "word": "一锤砸出4000亿",
+        "onboard_time": 1735293980,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9819,
+        "num": 167418,
+        "word": "第一波升级纯血鸿蒙的人怎么样了",
+        "onboard_time": 1735294399,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167231,
+        "num": 167231,
+        "word": "哈尔滨早市活鱼得靠热水煮着卖",
+        "onboard_time": 1735295061,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 164217,
+        "num": 165973,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 165484,
+        "num": 165484,
+        "word": "乒坛群星祝福樊振东",
+        "onboard_time": 1735290921,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161193,
+        "num": 161193,
+        "word": "小小的我票房",
+        "onboard_time": 1735291400,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220709,
+        "num": 161073,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160630,
+        "num": 160630,
+        "word": "再就业男团参加蛇年春晚节目审查",
+        "onboard_time": 1735298001,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159549,
+        "num": 159549,
+        "word": "虞书欣相约中国澳门",
+        "onboard_time": 1735297880,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155439,
+        "num": 155439,
+        "word": "柳俊烈张元英成韩彬AAA红毯",
+        "onboard_time": 1735295241,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137729,
+        "num": 137729,
+        "word": "陈梦回应退出世界排名",
+        "onboard_time": 1735291042,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市治理#"
+    }
+  }
+}
