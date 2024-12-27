@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735276874564,
+  "endTime": 1735277921542,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -11,12 +11,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5058636,
+      "num": 5058636,
+      "word": "赵露思坐轮椅",
+      "onboard_time": 1735275742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3825889,
       "num": 3825889,
       "word": "考研数学",
       "onboard_time": 1734836656,
       "rank": 37,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 3742598,
+      "num": 1761074,
+      "word": "汪苏泷",
+      "onboard_time": 1735275801,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3698769,
@@ -107,14 +123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2279880,
-      "num": 2279880,
-      "word": "赵露思坐轮椅",
-      "onboard_time": 1735275742,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2254915,
       "num": 2254915,
       "word": "吴柳芳粉丝仅剩4.4万",
@@ -177,14 +185,6 @@
       "onboard_time": 1734871638,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1761074,
-      "num": 1761074,
-      "word": "汪苏泷",
-      "onboard_time": 1735275801,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1740308,
@@ -2932,7 +2932,7 @@
     },
     {
       "raw_hot": 473693,
-      "num": 299547,
+      "num": 402135,
       "word": "徐娇劝阻男子抽烟餐厅道歉",
       "onboard_time": 1735274783,
       "rank": 20,
@@ -4027,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372302,
+      "num": 372302,
+      "word": "疑似赵露思生病进医院",
+      "onboard_time": 1735276702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371811,
       "num": 371811,
       "word": "男子偷手机假装帮寻找没想到有监控",
@@ -4601,6 +4609,14 @@
       "onboard_time": 1735100840,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321107,
+      "num": 321107,
+      "word": "难怪王俊凯最近一直在说大概",
+      "onboard_time": 1735274601,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 320618,
@@ -5225,14 +5241,6 @@
       "onboard_time": 1734949577,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 278506,
-      "num": 278506,
-      "word": "难怪王俊凯最近一直在说大概",
-      "onboard_time": 1735274601,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 278418,
@@ -6137,6 +6145,14 @@
       "onboard_time": 1734940038,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234555,
+      "num": 234555,
+      "word": "郭麒麟被告状到郭德纲面前",
+      "onboard_time": 1735277122,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 234437,
@@ -7515,6 +7531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198371,
+      "num": 267146,
+      "word": "无限暖暖全球公测",
+      "onboard_time": 1735277541,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198244,
       "num": 198244,
       "word": "大爷把路边车牌号设成银行密码",
@@ -7577,6 +7601,14 @@
       "onboard_time": 1735099819,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196886,
+      "num": 196886,
+      "word": "水龙吟",
+      "onboard_time": 1735276520,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 196853,
@@ -7707,14 +7739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195163,
-      "num": 195163,
-      "word": "水龙吟",
-      "onboard_time": 1735276520,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195104,
       "num": 195104,
       "word": "老师背着4个月女儿上课",
@@ -7777,6 +7801,14 @@
       "onboard_time": 1735012999,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194315,
+      "num": 237133,
+      "word": "庞博 恋综判官",
+      "onboard_time": 1735277122,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194239,
@@ -8059,6 +8091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189735,
+      "num": 189735,
+      "word": "王俊凯新歌制作人曲都是自己",
+      "onboard_time": 1735277062,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189647,
       "num": 207796,
       "word": "电影小小的我票房预测",
@@ -8251,6 +8291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187662,
+      "num": 187662,
+      "word": "王一博有声歌词海报",
+      "onboard_time": 1735277482,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 187469,
       "num": 187774,
       "word": "樊振东对未来职业生涯尚未具体规划",
@@ -8401,6 +8449,14 @@
       "onboard_time": 1735103239,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185103,
+      "num": 185103,
+      "word": "虞书欣晒MV拍摄vlog",
+      "onboard_time": 1735277301,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 185009,
@@ -9235,6 +9291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169050,
+      "num": 253556,
+      "word": "孙珍妮 这么爽的剧情借我演演",
+      "onboard_time": 1735276341,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169019,
       "num": 170355,
       "word": "丁禹兮给工作人员送圣诞礼物",
@@ -9361,6 +9425,14 @@
       "onboard_time": 1735094296,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167182,
+      "num": 167182,
+      "word": "下岗离婚重度抑郁都没有击垮她",
+      "onboard_time": 1735277782,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166796,
@@ -10099,6 +10171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157003,
+      "num": 157003,
+      "word": "被梁洁钓成翘嘴了",
+      "onboard_time": 1735277842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156484,
       "num": 208334,
       "word": "一线中产降级到县城月子中心坐月子",
@@ -10643,14 +10723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148398,
-      "num": 253556,
-      "word": "孙珍妮 这么爽的剧情借我演演",
-      "onboard_time": 1735276341,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148260,
       "num": 164721,
       "word": "国产悬疑剧的风刮到西北了",
@@ -10785,6 +10857,14 @@
       "onboard_time": 1735122618,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146376,
+      "num": 191693,
+      "word": "跟张晚意一起重温2024",
+      "onboard_time": 1735276941,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 145967,
@@ -12001,6 +12081,14 @@
       "onboard_time": 1734855319,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129495,
+      "num": 402709,
+      "word": "律师称拍男子碗里丢烟头或都侵权",
+      "onboard_time": 1735276702,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129320,
@@ -13656,14 +13744,6 @@
       "word": "外嫁女没分到土地补偿款起诉村民组",
       "onboard_time": 1734947897,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106250,
-      "num": 381050,
-      "word": "律师称拍男子碗里丢烟头或都侵权",
-      "onboard_time": 1735276702,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -15851,6 +15931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64108,
+      "num": 260585,
+      "word": "粉丝偶遇罗渽民",
+      "onboard_time": 1735276282,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64049,
       "num": 322903,
       "word": "2024电影名场面",
@@ -16811,14 +16899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49840,
-      "num": 303242,
-      "word": "疑似赵露思生病进医院",
-      "onboard_time": 1735276702,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49799,
       "num": 49799,
       "word": "也门胡塞武装成功击中以首都目标",
@@ -17625,6 +17705,14 @@
       "onboard_time": 1735187538,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 39206,
+      "num": 2751232,
+      "word": "2024中国人的仪式感",
+      "onboard_time": 1735276041,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39193,
@@ -18467,14 +18555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30678,
-      "num": 241899,
-      "word": "粉丝偶遇罗渽民",
-      "onboard_time": 1735276282,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30481,
       "num": 277664,
       "word": "祝绪丹没觉得自己微醺",
@@ -19089,14 +19169,6 @@
       "onboard_time": 1735120818,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24309,
-      "num": 1916304,
-      "word": "2024中国人的仪式感",
-      "onboard_time": 1735276041,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24167,
@@ -20163,6 +20235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8908,
+      "num": 152142,
+      "word": "天刀赛季版今日重生归来",
+      "onboard_time": 1735277903,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 8658,
       "num": 108300,
       "word": "马龙谈如何保持高水平",
@@ -20265,6 +20345,14 @@
       "onboard_time": 1735205179,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 7252,
+      "num": 151553,
+      "word": "第一次看这么真实的插电演唱会",
+      "onboard_time": 1735277903,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 7222,

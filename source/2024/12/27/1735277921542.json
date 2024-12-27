@@ -1,0 +1,410 @@
+{
+  "runTime": 1735277921542,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7545609,
+        "num": 7545609,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5058636,
+        "num": 5058636,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39206,
+        "num": 2751232,
+        "word": "2024中国人的仪式感",
+        "onboard_time": 1735276041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1223124,
+        "num": 1223124,
+        "word": "樊振东11点11分发博的深意",
+        "onboard_time": 1735271662,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 916530,
+        "num": 916530,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826523,
+        "num": 826523,
+        "word": "主人没牵住狗绳致路人车祸身亡",
+        "onboard_time": 1735272201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636092,
+        "num": 636092,
+        "word": "泰勒斯威夫特真的有QQ号",
+        "onboard_time": 1735269320,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403625,
+        "num": 403625,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 7,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 402741,
+        "num": 402741,
+        "word": "机长坠机遇难前最后操作挽救数十人",
+        "onboard_time": 1735262418,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129495,
+        "num": 402709,
+        "word": "律师称拍男子碗里丢烟头或都侵权",
+        "onboard_time": 1735276702,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3742598,
+        "num": 402553,
+        "word": "汪苏泷",
+        "onboard_time": 1735275801,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634754,
+        "num": 402416,
+        "word": "宝石老舅拘留期满后照常录制节目",
+        "onboard_time": 1735272381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361872,
+        "num": 402326,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 480305,
+        "num": 402213,
+        "word": "网易云 不准",
+        "onboard_time": 1735266558,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 460072,
+        "num": 402135,
+        "word": "徐娇劝阻男子抽烟餐厅道歉",
+        "onboard_time": 1735274783,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402092,
+        "num": 402092,
+        "word": "李昀锐 就这个顶腮",
+        "onboard_time": 1735271782,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390963,
+        "num": 390963,
+        "word": "四川舰雄起",
+        "onboard_time": 1735271241,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 380140,
+        "num": 380140,
+        "word": "WTT颁布不参赛就罚款新规",
+        "onboard_time": 1735272261,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372302,
+        "num": 372302,
+        "word": "疑似赵露思生病进医院",
+        "onboard_time": 1735276702,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348993,
+        "num": 348993,
+        "word": "大二女生创作吧唧一年半赚5万",
+        "onboard_time": 1735267878,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321107,
+        "num": 321107,
+        "word": "难怪王俊凯最近一直在说大概",
+        "onboard_time": 1735274601,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283053,
+        "num": 283053,
+        "word": "樊振东称无力承受不参赛就罚款新规",
+        "onboard_time": 1735271962,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276894,
+        "num": 276894,
+        "word": "专家解读四川舰三大特点",
+        "onboard_time": 1735272621,
+        "rank": 22,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 198371,
+        "num": 267146,
+        "word": "无限暖暖全球公测",
+        "onboard_time": 1735277541,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64108,
+        "num": 260585,
+        "word": "粉丝偶遇罗渽民",
+        "onboard_time": 1735276282,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258439,
+        "num": 258439,
+        "word": "韩游客说烤鸭难吃被提醒吃的蒸笼纸",
+        "onboard_time": 1735256477,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 244456,
+        "num": 244456,
+        "word": "麦琳退出李行亮新歌出品方",
+        "onboard_time": 1735271901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240826,
+        "num": 240826,
+        "word": "马斯克76岁母亲在中国火了",
+        "onboard_time": 1735274722,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194315,
+        "num": 237133,
+        "word": "庞博 恋综判官",
+        "onboard_time": 1735277122,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236031,
+        "num": 236031,
+        "word": "王家卫拍了繁花2000年的故事",
+        "onboard_time": 1735273521,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501875,
+        "num": 235874,
+        "word": "肯德基 孙颖莎",
+        "onboard_time": 1735272562,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234555,
+        "num": 234555,
+        "word": "郭麒麟被告状到郭德纲面前",
+        "onboard_time": 1735277122,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224022,
+        "num": 224022,
+        "word": "汪小姐含金量还在上升",
+        "onboard_time": 1735271841,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219359,
+        "num": 219359,
+        "word": "韩国鼓励公务员穿韩服上班",
+        "onboard_time": 1735271723,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196886,
+        "num": 196886,
+        "word": "水龙吟",
+        "onboard_time": 1735276520,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146376,
+        "num": 191693,
+        "word": "跟张晚意一起重温2024",
+        "onboard_time": 1735276941,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189735,
+        "num": 189735,
+        "word": "王俊凯新歌制作人曲都是自己",
+        "onboard_time": 1735277062,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187662,
+        "num": 187662,
+        "word": "王一博有声歌词海报",
+        "onboard_time": 1735277482,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185103,
+        "num": 185103,
+        "word": "虞书欣晒MV拍摄vlog",
+        "onboard_time": 1735277301,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183947,
+        "num": 183947,
+        "word": "男子22万买车投保29万故意开进湖里",
+        "onboard_time": 1735265838,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "鹿晗新歌",
+        "onboard_time": 1735276041,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176492,
+        "num": 176492,
+        "word": "朱丹 又幸福了",
+        "onboard_time": 1735273941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171772,
+        "num": 171772,
+        "word": "请苍天鉴忠奸成为年度热词",
+        "onboard_time": 1735273642,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169050,
+        "num": 169050,
+        "word": "孙珍妮 这么爽的剧情借我演演",
+        "onboard_time": 1735276341,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167182,
+        "num": 167182,
+        "word": "下岗离婚重度抑郁都没有击垮她",
+        "onboard_time": 1735277782,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157003,
+        "num": 157003,
+        "word": "被梁洁钓成翘嘴了",
+        "onboard_time": 1735277842,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156556,
+        "num": 156556,
+        "word": "世界排名对运动员影响有多大",
+        "onboard_time": 1735276460,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154661,
+        "num": 154661,
+        "word": "熊猫舰",
+        "onboard_time": 1735272261,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 8908,
+        "num": 152142,
+        "word": "天刀赛季版今日重生归来",
+        "onboard_time": 1735277903,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 7252,
+        "num": 151553,
+        "word": "第一次看这么真实的插电演唱会",
+        "onboard_time": 1735277903,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市治理#"
+    }
+  }
+}

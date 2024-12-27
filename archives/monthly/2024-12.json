@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735276874564,
+  "endTime": 1735277921542,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 5058636,
+      "num": 5058636,
+      "word": "赵露思坐轮椅",
+      "onboard_time": 1735275742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4687951,
       "num": 4687951,
       "word": "国考",
@@ -265,6 +273,14 @@
       "onboard_time": 1734836656,
       "rank": 37,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 3742598,
+      "num": 1761074,
+      "word": "汪苏泷",
+      "onboard_time": 1735275801,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3698769,
@@ -785,14 +801,6 @@
       "onboard_time": 1735188739,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2279880,
-      "num": 2279880,
-      "word": "赵露思坐轮椅",
-      "onboard_time": 1735275742,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 2271387,
@@ -1345,14 +1353,6 @@
       "onboard_time": 1733568561,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1761074,
-      "num": 1761074,
-      "word": "汪苏泷",
-      "onboard_time": 1735275801,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1759354,
@@ -15428,7 +15428,7 @@
     },
     {
       "raw_hot": 473693,
-      "num": 299547,
+      "num": 402135,
       "word": "徐娇劝阻男子抽烟餐厅道歉",
       "onboard_time": 1735274783,
       "rank": 20,
@@ -20211,6 +20211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372302,
+      "num": 372302,
+      "word": "疑似赵露思生病进医院",
+      "onboard_time": 1735276702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372163,
       "num": 372163,
       "word": "李宏毅健身房抽烟",
@@ -23211,6 +23219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321107,
+      "num": 321107,
+      "word": "难怪王俊凯最近一直在说大概",
+      "onboard_time": 1735274601,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 320747,
       "num": 297165,
       "word": "九重紫明晚大婚",
@@ -26105,14 +26121,6 @@
       "onboard_time": 1734683959,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278506,
-      "num": 278506,
-      "word": "难怪王俊凯最近一直在说大概",
-      "onboard_time": 1735274601,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 278450,
@@ -29044,7 +29052,7 @@
     },
     {
       "raw_hot": 245829,
-      "num": 245829,
+      "num": 267146,
       "word": "无限暖暖全球公测",
       "onboard_time": 1733383819,
       "rank": 30,
@@ -30337,6 +30345,14 @@
       "onboard_time": 1734690259,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234555,
+      "num": 234555,
+      "word": "郭麒麟被告状到郭德纲面前",
+      "onboard_time": 1735277122,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 234505,
@@ -37491,6 +37507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196886,
+      "num": 196886,
+      "word": "水龙吟",
+      "onboard_time": 1735276520,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196885,
       "num": 224522,
       "word": "女子推理社",
@@ -38139,14 +38163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195163,
-      "num": 195163,
-      "word": "水龙吟",
-      "onboard_time": 1735276520,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195119,
       "num": 281340,
       "word": "丁禹兮登顶11月微博演员热度报告",
@@ -38433,6 +38449,14 @@
       "onboard_time": 1734160877,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194315,
+      "num": 237133,
+      "word": "庞博 恋综判官",
+      "onboard_time": 1735277122,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194276,
@@ -40027,6 +40051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189735,
+      "num": 189735,
+      "word": "王俊凯新歌制作人曲都是自己",
+      "onboard_time": 1735277062,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189734,
       "num": 691528,
       "word": "韩国国会通过尹锡悦内乱普通特检法",
@@ -40769,6 +40801,14 @@
       "onboard_time": 1733830338,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187662,
+      "num": 187662,
+      "word": "王一博有声歌词海报",
+      "onboard_time": 1735277482,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 187636,
@@ -41537,6 +41577,14 @@
       "onboard_time": 1734005061,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185103,
+      "num": 185103,
+      "word": "虞书欣晒MV拍摄vlog",
+      "onboard_time": 1735277301,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 185033,
@@ -45771,6 +45819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169050,
+      "num": 253556,
+      "word": "孙珍妮 这么爽的剧情借我演演",
+      "onboard_time": 1735276341,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169043,
       "num": 169043,
       "word": "朴综星",
@@ -46361,6 +46417,14 @@
       "onboard_time": 1734331518,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167182,
+      "num": 167182,
+      "word": "下岗离婚重度抑郁都没有击垮她",
+      "onboard_time": 1735277782,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167166,
@@ -49723,6 +49787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157003,
+      "num": 157003,
+      "word": "被梁洁钓成翘嘴了",
+      "onboard_time": 1735277842,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156996,
       "num": 156996,
       "word": "爆燃后儿子首次看到烧伤妈妈",
@@ -52779,14 +52851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148398,
-      "num": 253556,
-      "word": "孙珍妮 这么爽的剧情借我演演",
-      "onboard_time": 1735276341,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148387,
       "num": 148387,
       "word": "国乒8比2日本",
@@ -53369,6 +53433,14 @@
       "onboard_time": 1735122618,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146376,
+      "num": 191693,
+      "word": "跟张晚意一起重温2024",
+      "onboard_time": 1735276941,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 146374,
@@ -59001,6 +59073,14 @@
       "onboard_time": 1733768832,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129495,
+      "num": 402709,
+      "word": "律师称拍男子碗里丢烟头或都侵权",
+      "onboard_time": 1735276702,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129477,
@@ -66017,14 +66097,6 @@
       "onboard_time": 1734519980,
       "rank": 14,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 106250,
-      "num": 381050,
-      "word": "律师称拍男子碗里丢烟头或都侵权",
-      "onboard_time": 1735276702,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106230,
@@ -75707,6 +75779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 64108,
+      "num": 260585,
+      "word": "粉丝偶遇罗渽民",
+      "onboard_time": 1735276282,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64049,
       "num": 322903,
       "word": "2024电影名场面",
@@ -79755,14 +79835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49840,
-      "num": 303242,
-      "word": "疑似赵露思生病进医院",
-      "onboard_time": 1735276702,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 49833,
       "num": 49833,
       "word": "谷歌前CEO称中国AI以惊人速度追赶美国",
@@ -83603,6 +83675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39206,
+      "num": 2751232,
+      "word": "2024中国人的仪式感",
+      "onboard_time": 1735276041,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39193,
       "num": 39193,
       "word": "外交部发布海外旅行安全锦囊",
@@ -87211,14 +87291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 30678,
-      "num": 241899,
-      "word": "粉丝偶遇罗渽民",
-      "onboard_time": 1735276282,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30603,
       "num": 179598,
       "word": "跨年电影愿",
@@ -89721,14 +89793,6 @@
       "onboard_time": 1734592339,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24309,
-      "num": 1916304,
-      "word": "2024中国人的仪式感",
-      "onboard_time": 1735276041,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24307,
@@ -95163,6 +95227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8908,
+      "num": 152142,
+      "word": "天刀赛季版今日重生归来",
+      "onboard_time": 1735277903,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 8899,
       "num": 337134,
       "word": "中国风电创下全球多项纪录",
@@ -95569,6 +95641,14 @@
       "onboard_time": 1733764214,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 7252,
+      "num": 151553,
+      "word": "第一次看这么真实的插电演唱会",
+      "onboard_time": 1735277903,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 7246,
