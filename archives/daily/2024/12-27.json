@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735264730513,
+  "endTime": 1735267975350,
   "band_list": [
     {
       "raw_hot": 2773251,
@@ -19,12 +19,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1435799,
+      "num": 1435799,
+      "word": "四川舰",
+      "onboard_time": 1735266678,
+      "rank": 1,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 1399222,
+      "num": 1399222,
+      "word": "机长坠机遇难前最后操作挽救数十人",
+      "onboard_time": 1735262418,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1284262,
       "num": 1284262,
       "word": "韩游客说烤鸭难吃被提醒吃的蒸笼纸",
       "onboard_time": 1735256477,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 1183591,
+      "num": 1183591,
+      "word": "076",
+      "onboard_time": 1735266678,
+      "rank": 4,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 1141529,
+      "num": 1141529,
+      "word": "中国海军076两栖攻击舰首舰下水",
+      "onboard_time": 1735266318,
+      "rank": 5,
+      "category": "军事"
     },
     {
       "raw_hot": 937928,
@@ -43,12 +75,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 801501,
+      "num": 801501,
+      "word": "网易云 不准",
+      "onboard_time": 1735266558,
+      "rank": 6,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 773877,
       "num": 622527,
       "word": "宝石Gem粉丝后援会回应",
       "onboard_time": 1735258338,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 754743,
+      "num": 754743,
+      "word": "五哈",
+      "onboard_time": 1735264398,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 749252,
@@ -67,6 +115,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 671665,
+      "num": 671665,
+      "word": "男子22万买车投保29万故意开进湖里",
+      "onboard_time": 1735265838,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633057,
       "num": 395881,
       "word": "42岁网红生双胞胎大出血不幸离世",
@@ -75,19 +131,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 617394,
-      "num": 314745,
-      "word": "机长坠机遇难前最后操作挽救数十人",
-      "onboard_time": 1735262418,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 562082,
       "num": 562082,
       "word": "靠无理由退货0成本骗了200万的商品",
       "onboard_time": 1735239552,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 554755,
+      "num": 554755,
+      "word": "王俊凯新歌",
+      "onboard_time": 1735266498,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 529138,
+      "num": 529138,
+      "word": "女子打造大粉人设骗其他粉丝数百万",
+      "onboard_time": 1735263497,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -163,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 362705,
+      "num": 362705,
+      "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
+      "onboard_time": 1735260980,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332613,
       "num": 332613,
       "word": "湖南卫视公布跨年全阵容",
@@ -187,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317552,
-      "num": 317552,
-      "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
-      "onboard_time": 1735260980,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307363,
       "num": 307363,
       "word": "男子贷款15万后去世银行要求罚息",
@@ -211,6 +275,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 294446,
+      "num": 294446,
+      "word": "三星堆出土的象牙是靠冰箱保存的",
+      "onboard_time": 1735264398,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289915,
       "num": 184295,
       "word": "宝石老舅称已接受行政处罚",
@@ -219,24 +291,40 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272580,
-      "num": 272580,
-      "word": "五哈",
-      "onboard_time": 1735264398,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 273432,
+      "num": 273432,
+      "word": "律师谈董宝石为何被行拘",
+      "onboard_time": 1735266256,
+      "rank": 22,
+      "category": "艺人"
     },
     {
-      "raw_hot": 246873,
-      "num": 336207,
-      "word": "女子打造大粉人设骗其他粉丝数百万",
-      "onboard_time": 1735263497,
-      "rank": 13,
+      "raw_hot": 250956,
+      "num": 250956,
+      "word": "我国首艘弹射型两栖攻击舰",
+      "onboard_time": 1735266857,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 249069,
+      "num": 249069,
+      "word": "小情侣下班过生日车上男子神助攻",
+      "onboard_time": 1735262897,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248289,
+      "num": 248289,
+      "word": "中国手串在海外爆火",
+      "onboard_time": 1735264758,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
       "raw_hot": 242023,
-      "num": 242023,
+      "num": 248409,
       "word": "央视新闻专访赵丽颖",
       "onboard_time": 1735256356,
       "rank": 19,
@@ -257,6 +345,14 @@
       "onboard_time": 1735218920,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230442,
+      "num": 230442,
+      "word": "那个21岁送外卖的单亲妈妈开店了",
+      "onboard_time": 1735266799,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220906,
@@ -291,11 +387,27 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 189908,
+      "num": 248575,
+      "word": "燕云十六声",
+      "onboard_time": 1735266378,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181649,
       "num": 181649,
       "word": "王俊凯预告新歌",
       "onboard_time": 1735255995,
       "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 179310,
+      "num": 179310,
+      "word": "网易云年度歌手",
+      "onboard_time": 1735265658,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -320,6 +432,38 @@
       "word": "冷空气影响将在元旦前结束",
       "onboard_time": 1735256417,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162072,
+      "num": 162072,
+      "word": "家长谈天冷喊跑腿送孩子上学",
+      "onboard_time": 1735267158,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161500,
+      "num": 161500,
+      "word": "孙颖莎明年大年初二就开始比赛了",
+      "onboard_time": 1735267038,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160565,
+      "num": 160565,
+      "word": "多家平台回应家长请跑腿送孩子上学",
+      "onboard_time": 1735264758,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159727,
+      "num": 159727,
+      "word": "深圳地铁",
+      "onboard_time": 1735266919,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -379,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140864,
+      "num": 140864,
+      "word": "31岁大专毕业转行了7次",
+      "onboard_time": 1735264878,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134354,
       "num": 297083,
       "word": "金晨新片首映礼浪姐团建",
@@ -411,12 +563,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 132058,
+      "num": 132058,
+      "word": "被这些2024的可爱瞬间治愈了",
+      "onboard_time": 1735266558,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130827,
       "num": 130827,
       "word": "在哈萨克斯坦坠毁客机黑匣子已找到",
       "onboard_time": 1735247291,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 126723,
+      "num": 126723,
+      "word": "大二女生创作吧唧一年半赚5万",
+      "onboard_time": 1735267878,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120000,
@@ -451,19 +619,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 115705,
+      "num": 115705,
+      "word": "成都一年新增11万艾滋病人系谣言",
+      "onboard_time": 1735267698,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 112561,
+      "num": 112561,
+      "word": "稳是每个普通人都能收到的年终奖",
+      "onboard_time": 1735267819,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111917,
       "num": 111917,
       "word": "00后盗用公司150万元打赏男主播",
       "onboard_time": 1735226957,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108563,
-      "num": 108563,
-      "word": "三星堆出土的象牙是靠冰箱保存的",
-      "onboard_time": 1735264398,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -508,7 +684,7 @@
     },
     {
       "raw_hot": 100770,
-      "num": 100770,
+      "num": 112561,
       "word": "抗初老的最佳年龄是几岁",
       "onboard_time": 1735264458,
       "rank": 39,
@@ -569,14 +745,6 @@
       "onboard_time": 1735201458,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92375,
-      "num": 92375,
-      "word": "小情侣下班过生日车上男子神助攻",
-      "onboard_time": 1735262897,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92370,
@@ -699,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75747,
+      "num": 405429,
+      "word": "2024堪称网红塌房元年",
+      "onboard_time": 1735267399,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75423,
       "num": 147081,
       "word": "宝石老舅羞愧自责",
@@ -795,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55191,
+      "num": 298743,
+      "word": "听到房子传言买家想退定金",
+      "onboard_time": 1735267098,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53241,
       "num": 53241,
       "word": "男子网购显卡用塑料玩具退货骗钱",
@@ -825,6 +1009,14 @@
       "onboard_time": 1735230916,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49043,
+      "num": 697139,
+      "word": "网红是怎么变味的",
+      "onboard_time": 1735267278,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47922,
@@ -860,7 +1052,7 @@
     },
     {
       "raw_hot": 37579,
-      "num": 763205,
+      "num": 1402226,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
@@ -1041,6 +1233,14 @@
       "onboard_time": 1735229837,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1873,
+      "num": 259539,
+      "word": "谁来救救瓜迪奥拉",
+      "onboard_time": 1735267578,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
