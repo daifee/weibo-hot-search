@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735299343165,
+  "endTime": 1735303287349,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -263,6 +263,14 @@
       "num": 1684312,
       "word": "女网红拿无人区救命粮喂狗",
       "onboard_time": 1735179256,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1679533,
+      "num": 1679533,
+      "word": "珠海冲撞行人案一审宣判",
+      "onboard_time": 1735301419,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -675,6 +683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1204020,
+      "num": 975271,
+      "word": "蒋欣路边连吃12只生蚝",
+      "onboard_time": 1735299913,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1199523,
       "num": 1199523,
       "word": "肖战版郭靖造型",
@@ -971,6 +987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 995125,
+      "num": 995125,
+      "word": "恋与深空3.0直播",
+      "onboard_time": 1735297880,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 989493,
       "num": 989493,
       "word": "徐娇被告知长沙室内不禁烟",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1735009998,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 974730,
+      "num": 974730,
+      "word": "恋与深空",
+      "onboard_time": 1734864378,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 973378,
@@ -1563,6 +1595,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 757069,
+      "num": 757069,
+      "word": "小小的我口碑",
+      "onboard_time": 1735297220,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 755212,
       "num": 573845,
       "word": "沈月 老师别下了像拉了",
@@ -1721,14 +1761,6 @@
       "onboard_time": 1735293739,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 727865,
-      "num": 405646,
-      "word": "小小的我口碑",
-      "onboard_time": 1735297220,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 725547,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1735284020,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 644723,
+      "num": 644723,
+      "word": "徐娇劝阻抽烟重点是男子确实违法了",
+      "onboard_time": 1735301059,
+      "rank": 7,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 644159,
@@ -2764,7 +2804,7 @@
     },
     {
       "raw_hot": 548032,
-      "num": 387638,
+      "num": 410382,
       "word": "0713 春晚",
       "onboard_time": 1735296321,
       "rank": 11,
@@ -3033,6 +3073,14 @@
       "onboard_time": 1735272621,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 508954,
+      "num": 428721,
+      "word": "汪苏泷恋爱史",
+      "onboard_time": 1735298720,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 506977,
@@ -3449,6 +3497,14 @@
       "onboard_time": 1735015700,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450359,
+      "num": 450359,
+      "word": "樊维秋死刑",
+      "onboard_time": 1735301539,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449391,
@@ -4603,14 +4659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 351704,
-      "num": 351704,
-      "word": "恋与深空3.0直播",
-      "onboard_time": 1735297880,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351297,
       "num": 351297,
       "word": "失事客机上没有中国乘客",
@@ -4841,6 +4889,14 @@
       "onboard_time": 1735227198,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327386,
+      "num": 327386,
+      "word": "宝石老舅被拘前和粉丝合照",
+      "onboard_time": 1735298480,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 327218,
@@ -5075,12 +5131,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314721,
+      "num": 314721,
+      "word": "张元英给张多雅颁奖",
+      "onboard_time": 1735300639,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 313447,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
       "onboard_time": 1734877279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313447,
+      "num": 313447,
+      "word": "恋与深空 抠门",
+      "onboard_time": 1735301780,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 312703,
@@ -5177,6 +5249,14 @@
       "onboard_time": 1734852017,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307419,
+      "num": 428854,
+      "word": "2025我的小小世界一定会更好",
+      "onboard_time": 1735302079,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 307411,
@@ -5329,6 +5409,14 @@
       "onboard_time": 1734839899,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292726,
+      "num": 292726,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1735300938,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 292721,
@@ -5609,14 +5697,6 @@
       "onboard_time": 1734924198,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 279231,
-      "num": 279231,
-      "word": "汪苏泷恋爱史",
-      "onboard_time": 1735298720,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 279172,
@@ -6129,14 +6209,6 @@
       "onboard_time": 1735134378,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253453,
-      "num": 253453,
-      "word": "宝石老舅被拘前和粉丝合照",
-      "onboard_time": 1735298480,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 253343,
@@ -6947,14 +7019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223329,
-      "num": 340187,
-      "word": "恋与深空",
-      "onboard_time": 1734864378,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 223230,
       "num": 258528,
       "word": "沈梦辰出演国色芳华",
@@ -7104,6 +7168,14 @@
       "word": "燕云十六声",
       "onboard_time": 1735266378,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220042,
+      "num": 220042,
+      "word": "偏心的妈废物的弟破碎的她",
+      "onboard_time": 1735302560,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -8003,6 +8075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199864,
+      "num": 199864,
+      "word": "善宰小率售后",
+      "onboard_time": 1735301419,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199743,
       "num": 199743,
       "word": "高瀚宇一个人背两个队友",
@@ -8148,7 +8228,7 @@
     },
     {
       "raw_hot": 198119,
-      "num": 198119,
+      "num": 357514,
       "word": "龙俊亨秀恩爱",
       "onboard_time": 1735297400,
       "rank": 33,
@@ -8659,6 +8739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190917,
+      "num": 190917,
+      "word": "中共中央政治局召开民主生活会",
+      "onboard_time": 1735302500,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190677,
       "num": 190677,
       "word": "王暖暖和被家暴16次女子拥抱",
@@ -8931,6 +9019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187942,
+      "num": 187942,
+      "word": "黄小蕾 第一次尝试贵妇赛道",
+      "onboard_time": 1735302141,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187877,
       "num": 187877,
       "word": "多大的案子啊集齐这么多罪犯",
@@ -9041,6 +9137,14 @@
       "onboard_time": 1735130658,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186549,
+      "num": 186549,
+      "word": "这些瞬间记录了温暖的2024",
+      "onboard_time": 1735302859,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 186387,
@@ -9665,6 +9769,14 @@
       "onboard_time": 1735291760,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174511,
+      "num": 377729,
+      "word": "律师解读婴儿随母姓医院让签免责书",
+      "onboard_time": 1735301059,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174508,
@@ -10867,6 +10979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158357,
+      "num": 158357,
+      "word": "在四川熊猫也翻不过蜀道山",
+      "onboard_time": 1735303041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158287,
       "num": 158287,
       "word": "白桃星座",
@@ -11475,6 +11595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149038,
+      "num": 149038,
+      "word": "郭靖宇说肖战的眼神很坚定",
+      "onboard_time": 1735301119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149016,
       "num": 413887,
       "word": "一支短片记住2024的滚烫瞬间",
@@ -11993,6 +12121,14 @@
       "onboard_time": 1735021279,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142390,
+      "num": 142390,
+      "word": "TES晋级德杯决赛",
+      "onboard_time": 1735301660,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 142227,
@@ -12521,6 +12657,14 @@
       "onboard_time": 1734854718,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134649,
+      "num": 134649,
+      "word": "易烊千玺新片上映第一波repo",
+      "onboard_time": 1735303041,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 134574,
@@ -14721,6 +14865,14 @@
       "onboard_time": 1735057276,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105504,
+      "num": 192486,
+      "word": "崔秀彬wvs更新",
+      "onboard_time": 1735300339,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 105055,
@@ -18683,6 +18835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40940,
+      "num": 313703,
+      "word": "花楼BP",
+      "onboard_time": 1735297580,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40892,
       "num": 252231,
       "word": "四季照片告别2024",
@@ -18952,6 +19112,14 @@
       "word": "帕劳失联游客27小时漂了50公里",
       "onboard_time": 1735298839,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37994,
+      "num": 387674,
+      "word": "2024十大奇葩新闻",
+      "onboard_time": 1735302141,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -19379,6 +19547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34193,
+      "num": 350463,
+      "word": "小小的我大V推荐度100%",
+      "onboard_time": 1735301361,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34057,
       "num": 256624,
       "word": "方励说不爱算账更爱随心所欲做事",
@@ -19459,6 +19635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33282,
+      "num": 175338,
+      "word": "光夜借钱宠天刀",
+      "onboard_time": 1735302740,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33267,
       "num": 38677,
       "word": "香港10平米月租8000的家",
@@ -19473,6 +19657,14 @@
       "onboard_time": 1735140678,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33110,
+      "num": 344582,
+      "word": "主播内涵网友不知水洗标被开除",
+      "onboard_time": 1735302740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33025,
@@ -20305,6 +20497,14 @@
       "onboard_time": 1735282102,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25587,
+      "num": 367281,
+      "word": "家长称遭恶犬咬伤孩子右眼仍无反应",
+      "onboard_time": 1735302859,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25550,

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735299343165,
+  "endTime": 1735303287349,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1520,6 +1520,14 @@
       "word": "女子8小时不玩手机赢得万元奖金",
       "onboard_time": 1733124499,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1679533,
+      "num": 1679533,
+      "word": "珠海冲撞行人案一审宣判",
+      "onboard_time": 1735301419,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -3603,6 +3611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1204020,
+      "num": 975271,
+      "word": "蒋欣路边连吃12只生蚝",
+      "onboard_time": 1735299913,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1203384,
       "num": 341157,
       "word": "张若昀随地乱丢烟头",
@@ -5171,6 +5187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 995125,
+      "num": 995125,
+      "word": "恋与深空3.0直播",
+      "onboard_time": 1735297880,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 992157,
       "num": 992157,
       "word": "正豪大大鸡排关闭中国大陆所有门店",
@@ -5369,6 +5393,14 @@
       "onboard_time": 1733586742,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 974730,
+      "num": 974730,
+      "word": "恋与深空",
+      "onboard_time": 1733102478,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 974629,
@@ -8163,6 +8195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 757069,
+      "num": 757069,
+      "word": "小小的我口碑",
+      "onboard_time": 1735297220,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 756878,
       "num": 756878,
       "word": "豆瓣崩了",
@@ -8681,14 +8721,6 @@
       "onboard_time": 1734013461,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 727865,
-      "num": 405646,
-      "word": "小小的我口碑",
-      "onboard_time": 1735297220,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 727624,
@@ -10577,6 +10609,14 @@
       "onboard_time": 1733119099,
       "rank": 7,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 644723,
+      "num": 644723,
+      "word": "徐娇劝阻抽烟重点是男子确实违法了",
+      "onboard_time": 1735301059,
+      "rank": 7,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 644623,
@@ -13204,7 +13244,7 @@
     },
     {
       "raw_hot": 548032,
-      "num": 387638,
+      "num": 410382,
       "word": "0713 春晚",
       "onboard_time": 1735296321,
       "rank": 11,
@@ -14545,6 +14585,14 @@
       "onboard_time": 1733358622,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508954,
+      "num": 428721,
+      "word": "汪苏泷恋爱史",
+      "onboard_time": 1735298720,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 508733,
@@ -16776,6 +16824,14 @@
       "word": "女子陪妹妹复查乳腺自己也查出癌症",
       "onboard_time": 1734086478,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450359,
+      "num": 450359,
+      "word": "樊维秋死刑",
+      "onboard_time": 1735301539,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -21659,14 +21715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 351704,
-      "num": 351704,
-      "word": "恋与深空3.0直播",
-      "onboard_time": 1735297880,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 351626,
       "num": 351626,
       "word": "1999年澳门回归新闻报道影像",
@@ -21889,14 +21937,6 @@
       "onboard_time": 1733465058,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 347526,
-      "num": 347526,
-      "word": "恋与深空",
-      "onboard_time": 1733102478,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 347459,
@@ -23059,6 +23099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327386,
+      "num": 327386,
+      "word": "宝石老舅被拘前和粉丝合照",
+      "onboard_time": 1735298480,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327218,
       "num": 265585,
       "word": "日本地铁偶遇蔡依林",
@@ -24011,6 +24059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314721,
+      "num": 314721,
+      "word": "张元英给张多雅颁奖",
+      "onboard_time": 1735300639,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314624,
       "num": 314624,
       "word": "毛雪汪官宣徐明浩",
@@ -24097,6 +24153,14 @@
       "onboard_time": 1734877279,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313447,
+      "num": 313447,
+      "word": "恋与深空 抠门",
+      "onboard_time": 1735301780,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 313402,
@@ -24401,6 +24465,14 @@
       "onboard_time": 1733020817,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307419,
+      "num": 428854,
+      "word": "2025我的小小世界一定会更好",
+      "onboard_time": 1735302079,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 307411,
@@ -25377,6 +25449,14 @@
       "onboard_time": 1733201300,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292726,
+      "num": 292726,
+      "word": "恋与深空兑换码",
+      "onboard_time": 1735300938,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 292721,
@@ -26441,14 +26521,6 @@
       "onboard_time": 1732980980,
       "rank": 8,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 279231,
-      "num": 279231,
-      "word": "汪苏泷恋爱史",
-      "onboard_time": 1735298720,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 279172,
@@ -28681,14 +28753,6 @@
       "onboard_time": 1735134378,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 253453,
-      "num": 253453,
-      "word": "宝石老舅被拘前和粉丝合照",
-      "onboard_time": 1735298480,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 253343,
@@ -32987,6 +33051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220042,
+      "num": 220042,
+      "word": "偏心的妈废物的弟破碎的她",
+      "onboard_time": 1735302560,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220023,
       "num": 296213,
       "word": "章昊回福师大了",
@@ -37211,6 +37283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199864,
+      "num": 199864,
+      "word": "善宰小率售后",
+      "onboard_time": 1735301419,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199855,
       "num": 192662,
       "word": "丁禹兮祝绪丹一个耳背一个背梗",
@@ -37732,7 +37812,7 @@
     },
     {
       "raw_hot": 198119,
-      "num": 198119,
+      "num": 357514,
       "word": "龙俊亨秀恩爱",
       "onboard_time": 1735297400,
       "rank": 33,
@@ -40219,6 +40299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190917,
+      "num": 190917,
+      "word": "中共中央政治局召开民主生活会",
+      "onboard_time": 1735302500,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190866,
       "num": 190866,
       "word": "张艺兴还是太全面了",
@@ -41403,6 +41491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187942,
+      "num": 187942,
+      "word": "黄小蕾 第一次尝试贵妇赛道",
+      "onboard_time": 1735302141,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187877,
       "num": 187877,
       "word": "多大的案子啊集齐这么多罪犯",
@@ -41817,6 +41913,14 @@
       "onboard_time": 1733463141,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186549,
+      "num": 186549,
+      "word": "这些瞬间记录了温暖的2024",
+      "onboard_time": 1735302859,
+      "rank": 38,
+      "category": "正能量"
     },
     {
       "raw_hot": 186516,
@@ -44873,6 +44977,14 @@
       "onboard_time": 1735291760,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174511,
+      "num": 377729,
+      "word": "律师解读婴儿随母姓医院让签免责书",
+      "onboard_time": 1735301059,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174508,
@@ -50075,6 +50187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158357,
+      "num": 158357,
+      "word": "在四川熊猫也翻不过蜀道山",
+      "onboard_time": 1735303041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158348,
       "num": 158348,
       "word": "花少颁奖",
@@ -53419,6 +53539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149038,
+      "num": 149038,
+      "word": "郭靖宇说肖战的眼神很坚定",
+      "onboard_time": 1735301119,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149020,
       "num": 149020,
       "word": "窦昭离过婚的人就是不一样",
@@ -55577,6 +55705,14 @@
       "onboard_time": 1733034619,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142390,
+      "num": 142390,
+      "word": "TES晋级德杯决赛",
+      "onboard_time": 1735301660,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 142387,
@@ -58201,6 +58337,14 @@
       "onboard_time": 1732982239,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134649,
+      "num": 134649,
+      "word": "易烊千玺新片上映第一波repo",
+      "onboard_time": 1735303041,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 134644,
@@ -67225,6 +67369,14 @@
       "onboard_time": 1735057276,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 105504,
+      "num": 192486,
+      "word": "崔秀彬wvs更新",
+      "onboard_time": 1735300339,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 105501,
@@ -84051,6 +84203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40940,
+      "num": 313703,
+      "word": "花楼BP",
+      "onboard_time": 1735297580,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40922,
       "num": 582868,
       "word": "樊振东3比1胜孙闻",
@@ -85273,6 +85433,14 @@
       "onboard_time": 1733813239,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37994,
+      "num": 387674,
+      "word": "2024十大奇葩新闻",
+      "onboard_time": 1735302141,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37993,
@@ -86803,6 +86971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34193,
+      "num": 350463,
+      "word": "小小的我大V推荐度100%",
+      "onboard_time": 1735301361,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 34128,
       "num": 343202,
       "word": "海外拍卖古董局中局专骗老人",
@@ -87227,6 +87403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 33282,
+      "num": 175338,
+      "word": "光夜借钱宠天刀",
+      "onboard_time": 1735302740,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 33267,
       "num": 38677,
       "word": "香港10平米月租8000的家",
@@ -87313,6 +87497,14 @@
       "onboard_time": 1734770478,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33110,
+      "num": 344582,
+      "word": "主播内涵网友不知水洗标被开除",
+      "onboard_time": 1735302740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33099,
@@ -90553,6 +90745,14 @@
       "onboard_time": 1734426379,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25587,
+      "num": 367281,
+      "word": "家长称遭恶犬咬伤孩子右眼仍无反应",
+      "onboard_time": 1735302859,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25574,
