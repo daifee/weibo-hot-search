@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735330992819,
+  "endTime": 1735331779125,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -17387,6 +17387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69967,
+      "num": 50275,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69410,
       "num": 221951,
       "word": "肖秀荣总结今年考研题目难",
@@ -17777,14 +17785,6 @@
       "onboard_time": 1734921737,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 63515,
-      "num": 50275,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 63360,
@@ -20627,6 +20627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31515,
+      "num": 75019,
+      "word": "中方决定反制美国7家军工企业",
+      "onboard_time": 1735325832,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 31400,
       "num": 217170,
       "word": "假律师专骗中老年打工者",
@@ -20745,14 +20753,6 @@
       "onboard_time": 1734804673,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30377,
-      "num": 75019,
-      "word": "中方决定反制美国7家军工企业",
-      "onboard_time": 1735325832,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30358,
@@ -22371,6 +22371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15689,
+      "num": 17356,
+      "word": "TOP本色出演",
+      "onboard_time": 1735329971,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15572,
       "num": 16985,
       "word": "外交部回应美年复一年渲染中国威胁",
@@ -22385,14 +22393,6 @@
       "onboard_time": 1735039998,
       "rank": 19,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 15244,
-      "num": 17356,
-      "word": "TOP本色出演",
-      "onboard_time": 1735329971,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 15235,
@@ -22545,6 +22545,14 @@
       "onboard_time": 1734910516,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12382,
+      "num": 34610,
+      "word": "一人一句祝贺四川舰",
+      "onboard_time": 1735329431,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 12255,
@@ -22743,6 +22751,14 @@
       "num": 250053,
       "word": "山东一法院公诉人给被害人递纸条",
       "onboard_time": 1734961101,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10661,
+      "num": 21751,
+      "word": "律师解读男子买车投保后故意进鱼塘",
+      "onboard_time": 1735329551,
       "rank": 29,
       "category": "民生新闻"
     },

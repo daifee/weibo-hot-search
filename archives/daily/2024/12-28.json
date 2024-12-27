@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735330992819,
+  "endTime": 1735331779125,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -435,20 +435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69967,
+      "num": 50275,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67975,
       "num": 67975,
       "word": "鱿鱼游戏2 圣父男主",
       "onboard_time": 1735314381,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 63515,
-      "num": 50275,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 56263,
@@ -507,7 +507,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30377,
+      "raw_hot": 31515,
       "num": 75019,
       "word": "中方决定反制美国7家军工企业",
       "onboard_time": 1735325832,
@@ -619,7 +619,7 @@
       "category": "军事"
     },
     {
-      "raw_hot": 15244,
+      "raw_hot": 15689,
       "num": 17356,
       "word": "TOP本色出演",
       "onboard_time": 1735329971,
@@ -643,6 +643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12382,
+      "num": 34610,
+      "word": "一人一句祝贺四川舰",
+      "onboard_time": 1735329431,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 12094,
       "num": 47593,
       "word": "这些时刻温暖了我们的2024",
@@ -657,6 +665,14 @@
       "onboard_time": 1735327032,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10661,
+      "num": 21751,
+      "word": "律师解读男子买车投保后故意进鱼塘",
+      "onboard_time": 1735329551,
+      "rank": 29,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
