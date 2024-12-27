@@ -1,0 +1,410 @@
+{
+  "runTime": 1735288086689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3125069,
+        "num": 3125069,
+        "word": "陈梦宣布退出世界排名",
+        "onboard_time": 1735280541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1191250,
+        "num": 1191250,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43364,
+        "num": 1165368,
+        "word": "2024中国人的仪式感",
+        "onboard_time": 1735276041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1154171,
+        "num": 1154171,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 998279,
+        "num": 998279,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3693420,
+        "num": 841566,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648376,
+        "num": 648376,
+        "word": "田志希宣布退出韩国国家队",
+        "onboard_time": 1735284020,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632335,
+        "num": 632335,
+        "word": "易烊千玺演技",
+        "onboard_time": 1735281743,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 583206,
+        "num": 583206,
+        "word": "女子主动进炒股群把老师高兴坏了",
+        "onboard_time": 1735284202,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349622,
+        "num": 513453,
+        "word": "国家队是懂暗示四川舰的",
+        "onboard_time": 1735286722,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 2412785,
+        "num": 510070,
+        "word": "赵露思",
+        "onboard_time": 1735278862,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488344,
+        "num": 488344,
+        "word": "汪苏泷 家人都在",
+        "onboard_time": 1735286421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444623,
+        "num": 444623,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 12,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 398873,
+        "num": 398873,
+        "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+        "onboard_time": 1735282701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155019,
+        "num": 396953,
+        "word": "教育局回应学生上课睡觉罚款教师",
+        "onboard_time": 1735286121,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395253,
+        "num": 395253,
+        "word": "刘亚仁别墅被7岁男童买下",
+        "onboard_time": 1735280301,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465977,
+        "num": 392538,
+        "word": "汪苏泷",
+        "onboard_time": 1735275801,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26515,
+        "num": 387140,
+        "word": "电影误判今日上映",
+        "onboard_time": 1735282761,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 378721,
+        "word": "极氪让电车过冬更有底气",
+        "onboard_time": 1735285521,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 63340,
+        "num": 373454,
+        "word": "一公司团建要求员工全员吞火",
+        "onboard_time": 1735287139,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1254282,
+        "num": 368111,
+        "word": "刘国梁",
+        "onboard_time": 1735283241,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1157950,
+        "num": 358877,
+        "word": "小小的我 周雨彤",
+        "onboard_time": 1735281142,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 583538,
+        "num": 356032,
+        "word": "樊振东退出世排意味着什么",
+        "onboard_time": 1735280541,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58692,
+        "num": 346472,
+        "word": "华晨宇芭莎男士开年刊封面",
+        "onboard_time": 1735287318,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73432,
+        "num": 340187,
+        "word": "恋与深空",
+        "onboard_time": 1735285819,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 44067,
+        "num": 337512,
+        "word": "中国人一定要有自己的操作系统",
+        "onboard_time": 1735287381,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30629,
+        "num": 331381,
+        "word": "李斌喊话铁成兑现承诺",
+        "onboard_time": 1735287381,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 325698,
+        "num": 325698,
+        "word": "天才小熊猫停更真相",
+        "onboard_time": 1735286121,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321462,
+        "num": 321462,
+        "word": "陈梦关注樊振东",
+        "onboard_time": 1735278982,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305874,
+        "num": 305874,
+        "word": "张婉婷说再见爱人观察员挑拨离间",
+        "onboard_time": 1735281621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284639,
+        "num": 284639,
+        "word": "主人没牵住狗绳致路人车祸身亡",
+        "onboard_time": 1735272201,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244403,
+        "num": 244403,
+        "word": "宝石老舅拘留期满后照常录制节目",
+        "onboard_time": 1735272381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239364,
+        "num": 239364,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 208681,
+        "num": 208681,
+        "word": "AAA颁奖礼",
+        "onboard_time": 1735285701,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199743,
+        "num": 199743,
+        "word": "高瀚宇一个人背两个队友",
+        "onboard_time": 1735287620,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190279,
+        "num": 190279,
+        "word": "WTT颁布不参赛就罚款新规",
+        "onboard_time": 1735272261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182437,
+        "num": 182437,
+        "word": "四川舰雄起",
+        "onboard_time": 1735271241,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 177065,
+        "num": 177065,
+        "word": "黄油小熊走红毯",
+        "onboard_time": 1735287861,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 176793,
+        "num": 176793,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168092,
+        "num": 168092,
+        "word": "谁教王鹤棣晏紫东这么骑马的",
+        "onboard_time": 1735286241,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 164747,
+        "word": "2018年SBS歌谣大战阵容",
+        "onboard_time": 1735286840,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161383,
+        "num": 161383,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1735287980,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148711,
+        "num": 148711,
+        "word": "樊振东11点11分发博的深意",
+        "onboard_time": 1735271662,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146721,
+        "num": 146721,
+        "word": "吴敬平发博",
+        "onboard_time": 1735278140,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145421,
+        "num": 145421,
+        "word": "内涵大学生不识水洗标主播被开除",
+        "onboard_time": 1735286781,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142834,
+        "num": 142834,
+        "word": "李昀锐 就这个顶腮",
+        "onboard_time": 1735271782,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138013,
+        "num": 138013,
+        "word": "四川舰是个什么舰",
+        "onboard_time": 1735287920,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 137814,
+        "num": 137814,
+        "word": "奥斯卡孙乐言MV甜度",
+        "onboard_time": 1735285461,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135483,
+        "num": 135483,
+        "word": "樊振东奥运夺金后曾击掌11下",
+        "onboard_time": 1735286300,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "papi酱 说来说去全都是饼",
+        "onboard_time": 1735284621,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

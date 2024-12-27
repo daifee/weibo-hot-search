@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735284929671,
+  "endTime": 1735288086689,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -99,12 +99,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 1254282,
+      "num": 464570,
+      "word": "刘国梁",
+      "onboard_time": 1735283241,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1183591,
       "num": 1183591,
       "word": "076",
       "onboard_time": 1735266678,
       "rank": 4,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1157950,
+      "num": 462810,
+      "word": "小小的我 周雨彤",
+      "onboard_time": 1735281142,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1154171,
+      "num": 1154171,
+      "word": "小小的我",
+      "onboard_time": 1735278923,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1146380,
@@ -123,20 +147,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1017493,
-      "num": 462810,
-      "word": "小小的我 周雨彤",
-      "onboard_time": 1735281142,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 951286,
-      "num": 464570,
-      "word": "刘国梁",
-      "onboard_time": 1735283241,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 998279,
+      "num": 998279,
+      "word": "韩国国会通过代总统弹劾案",
+      "onboard_time": 1735285521,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 949791,
@@ -267,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648376,
+      "num": 648376,
+      "word": "田志希宣布退出韩国国家队",
+      "onboard_time": 1735284020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633057,
       "num": 395881,
       "word": "42岁网红生双胞胎大出血不幸离世",
       "onboard_time": 1735256477,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 632335,
+      "num": 632335,
+      "word": "易烊千玺演技",
+      "onboard_time": 1735281743,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 606846,
@@ -296,6 +328,14 @@
       "word": "渐冻症抗争者蔡磊最新公开发声",
       "onboard_time": 1735269078,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583206,
+      "num": 583206,
+      "word": "女子主动进炒股群把老师高兴坏了",
+      "onboard_time": 1735284202,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -347,20 +387,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 499415,
-      "num": 287002,
-      "word": "田志希宣布退出韩国国家队",
-      "onboard_time": 1735284020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 495172,
-      "num": 480077,
-      "word": "小小的我",
-      "onboard_time": 1735278923,
-      "rank": 12,
-      "category": "电影"
+      "raw_hot": 488344,
+      "num": 488344,
+      "word": "汪苏泷 家人都在",
+      "onboard_time": 1735286421,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 476363,
@@ -459,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 414911,
-      "num": 331906,
-      "word": "易烊千玺演技",
-      "onboard_time": 1735281743,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 414495,
       "num": 509497,
       "word": "王俊凯以后都要大概起来",
@@ -489,6 +513,14 @@
       "onboard_time": 1735221019,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398873,
+      "num": 398873,
+      "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+      "onboard_time": 1735282701,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384811,
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349622,
+      "num": 513453,
+      "word": "国家队是懂暗示四川舰的",
+      "onboard_time": 1735286722,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 340211,
       "num": 340211,
       "word": "麦琳退出李行亮新歌出品方",
@@ -577,6 +617,14 @@
       "onboard_time": 1735223660,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325698,
+      "num": 325698,
+      "word": "天才小熊猫停更真相",
+      "onboard_time": 1735286121,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 321107,
@@ -649,14 +697,6 @@
       "onboard_time": 1735274420,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 275274,
-      "num": 389859,
-      "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
-      "onboard_time": 1735282701,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273070,
@@ -851,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208681,
+      "num": 208681,
+      "word": "AAA颁奖礼",
+      "onboard_time": 1735285701,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 207569,
       "num": 530278,
       "word": "监管部门已对俄罗斯商品馆开展检查",
@@ -881,6 +929,14 @@
       "onboard_time": 1735280421,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 199743,
+      "num": 199743,
+      "word": "高瀚宇一个人背两个队友",
+      "onboard_time": 1735287620,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 199411,
@@ -987,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191239,
-      "num": 191239,
-      "word": "女子主动进炒股群把老师高兴坏了",
-      "onboard_time": 1735284202,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189735,
       "num": 189735,
       "word": "王俊凯新歌制作人曲都是自己",
@@ -1091,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 177065,
+      "num": 177065,
+      "word": "黄油小熊走红毯",
+      "onboard_time": 1735287861,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175092,
       "num": 175092,
       "word": "县中学生每天在校超17小时",
@@ -1139,12 +1195,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168092,
+      "num": 168092,
+      "word": "谁教王鹤棣晏紫东这么骑马的",
+      "onboard_time": 1735286241,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "第五人格",
       "onboard_time": 1735274483,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164747,
+      "num": 164747,
+      "word": "2018年SBS歌谣大战阵容",
+      "onboard_time": 1735286840,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 164711,
@@ -1184,6 +1256,14 @@
       "word": "丁禹兮工作室",
       "onboard_time": 1735281743,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161383,
+      "num": 161383,
+      "word": "鱿鱼游戏2",
+      "onboard_time": 1735287980,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1251,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155019,
+      "num": 396953,
+      "word": "教育局回应学生上课睡觉罚款教师",
+      "onboard_time": 1735286121,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154823,
       "num": 154823,
       "word": "2024余额一只手就数清了",
@@ -1307,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145421,
+      "num": 145421,
+      "word": "内涵大学生不识水洗标主播被开除",
+      "onboard_time": 1735286781,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145022,
       "num": 145022,
       "word": "中国军队将与大家一起笃定前行",
@@ -1347,6 +1443,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138013,
+      "num": 138013,
+      "word": "四川舰是个什么舰",
+      "onboard_time": 1735287920,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 137814,
+      "num": 137814,
+      "word": "奥斯卡孙乐言MV甜度",
+      "onboard_time": 1735285461,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137592,
       "num": 182273,
       "word": "谁懂胡歌为繁花唱好久不见的含金量",
@@ -1369,6 +1481,14 @@
       "onboard_time": 1735267098,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135483,
+      "num": 135483,
+      "word": "樊振东奥运夺金后曾击掌11下",
+      "onboard_time": 1735286300,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 134978,
@@ -1409,6 +1529,14 @@
       "onboard_time": 1735225579,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 132138,
+      "num": 132138,
+      "word": "papi酱 说来说去全都是饼",
+      "onboard_time": 1735284621,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132058,
@@ -1819,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73432,
+      "num": 340187,
+      "word": "恋与深空",
+      "onboard_time": 1735285819,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 71734,
       "num": 385703,
       "word": "满江红编剧陈宇谈女性主义",
@@ -1883,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63340,
+      "num": 373454,
+      "word": "一公司团建要求员工全员吞火",
+      "onboard_time": 1735287139,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60976,
       "num": 60976,
       "word": "遭性侵被开除女子将申请劳动仲裁",
@@ -1897,6 +2041,14 @@
       "onboard_time": 1735280240,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58692,
+      "num": 346472,
+      "word": "华晨宇芭莎男士开年刊封面",
+      "onboard_time": 1735287318,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58187,
@@ -2003,6 +2155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44067,
+      "num": 337512,
+      "word": "中国人一定要有自己的操作系统",
+      "onboard_time": 1735287381,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43149,
       "num": 1505188,
       "word": "中国一年194个世界冠军",
@@ -2084,7 +2244,7 @@
     },
     {
       "raw_hot": 32534,
-      "num": 183741,
+      "num": 387140,
       "word": "电影误判今日上映",
       "onboard_time": 1735282761,
       "rank": 43,
@@ -2112,6 +2272,14 @@
       "word": "法院判决龙猪集车赔偿比亚迪202万元",
       "onboard_time": 1735278382,
       "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 30629,
+      "num": 331381,
+      "word": "李斌喊话铁成兑现承诺",
+      "onboard_time": 1735287381,
+      "rank": 26,
       "category": "汽车"
     },
     {
@@ -2233,6 +2401,14 @@
       "onboard_time": 1735238290,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21738,
+      "num": 378721,
+      "word": "极氪让电车过冬更有底气",
+      "onboard_time": 1735285521,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 21557,
