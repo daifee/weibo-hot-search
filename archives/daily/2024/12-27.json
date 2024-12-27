@@ -1,7 +1,15 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735256133081,
+  "endTime": 1735263736412,
   "band_list": [
+    {
+      "raw_hot": 2773251,
+      "num": 2773251,
+      "word": "宝石老舅道歉",
+      "onboard_time": 1735255576,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2474179,
       "num": 450945,
@@ -9,6 +17,14 @@
       "onboard_time": 1735229118,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1284262,
+      "num": 1284262,
+      "word": "韩游客说烤鸭难吃被提醒吃的蒸笼纸",
+      "onboard_time": 1735256477,
+      "rank": 1,
+      "category": "旅游"
     },
     {
       "raw_hot": 937928,
@@ -27,12 +43,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 773877,
+      "num": 622527,
+      "word": "宝石Gem粉丝后援会回应",
+      "onboard_time": 1735258338,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 749252,
-      "num": 351600,
+      "num": 405056,
       "word": "葛夕说离婚也给留几手养老",
       "onboard_time": 1735226179,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 677490,
+      "num": 677490,
+      "word": "徐娇劝阻抽烟餐厅人均103元",
+      "onboard_time": 1735231216,
+      "rank": 5,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 633057,
+      "num": 395881,
+      "word": "42岁网红生双胞胎大出血不幸离世",
+      "onboard_time": 1735256477,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 562082,
@@ -41,14 +81,6 @@
       "onboard_time": 1735239552,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544789,
-      "num": 544789,
-      "word": "宝石老舅道歉",
-      "onboard_time": 1735255576,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 476363,
@@ -67,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453435,
+      "num": 402794,
+      "word": "网剧冬至三杀了",
+      "onboard_time": 1735258938,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444765,
       "num": 260798,
       "word": "徐娇仍在店里处理",
@@ -75,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407426,
+      "num": 407426,
+      "word": "复旦教授呼吁年轻人不要抱怨",
+      "onboard_time": 1735222100,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406694,
       "num": 257380,
       "word": "赵丽颖谈女性可以多么有光芒",
       "onboard_time": 1735221019,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391638,
-      "num": 276121,
-      "word": "徐娇劝阻抽烟餐厅人均103元",
-      "onboard_time": 1735231216,
-      "rank": 5,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 384811,
@@ -107,12 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354712,
-      "num": 354712,
-      "word": "复旦教授呼吁年轻人不要抱怨",
-      "onboard_time": 1735222100,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 368604,
+      "num": 368604,
+      "word": "韩国人来上海打卡的线路相当统一",
+      "onboard_time": 1735259358,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 332613,
+      "num": 332613,
+      "word": "湖南卫视公布跨年全阵容",
+      "onboard_time": 1735257257,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 327976,
@@ -124,19 +172,27 @@
     },
     {
       "raw_hot": 326807,
-      "num": 120496,
+      "num": 148298,
       "word": "伊能静一家英国过圣诞",
       "onboard_time": 1735223660,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 300595,
-      "num": 300595,
+      "raw_hot": 307363,
+      "num": 307363,
       "word": "男子贷款15万后去世银行要求罚息",
       "onboard_time": 1735215800,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294728,
+      "num": 294728,
+      "word": "国防时报晒银杏叶",
+      "onboard_time": 1735232356,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 289915,
@@ -145,6 +201,30 @@
       "onboard_time": 1735255275,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248622,
+      "num": 164995,
+      "word": "机长坠机遇难前最后操作挽救数十人",
+      "onboard_time": 1735262418,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 242023,
+      "num": 242023,
+      "word": "央视新闻专访赵丽颖",
+      "onboard_time": 1735256356,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239047,
+      "num": 239047,
+      "word": "网传近百只猫在水塘中被溺死",
+      "onboard_time": 1735244531,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234147,
@@ -171,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 205569,
+      "num": 205569,
+      "word": "同一件衣服戴不戴首饰的区别",
+      "onboard_time": 1735257317,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 199411,
       "num": 199411,
       "word": "上海挤满了周五下班的韩国人",
@@ -179,20 +267,44 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 194765,
-      "num": 194765,
-      "word": "网传近百只猫在水塘中被溺死",
-      "onboard_time": 1735244531,
-      "rank": 29,
+      "raw_hot": 196871,
+      "num": 196871,
+      "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
+      "onboard_time": 1735260980,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170640,
-      "num": 170640,
-      "word": "国防时报晒银杏叶",
-      "onboard_time": 1735232356,
-      "rank": 30,
-      "category": "军事"
+      "raw_hot": 178315,
+      "num": 172750,
+      "word": "赵丽颖 我选择让生命有价值",
+      "onboard_time": 1735236313,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174781,
+      "num": 174781,
+      "word": "网易云年度报告",
+      "onboard_time": 1735262598,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 173051,
+      "num": 173051,
+      "word": "冷空气影响将在元旦前结束",
+      "onboard_time": 1735256417,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171962,
+      "num": 171962,
+      "word": "王俊凯预告新歌",
+      "onboard_time": 1735255995,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 156947,
@@ -201,6 +313,14 @@
       "onboard_time": 1735222880,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154823,
+      "num": 154823,
+      "word": "2024余额一只手就数清了",
+      "onboard_time": 1735256777,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153559,
@@ -235,6 +355,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140789,
+      "num": 140789,
+      "word": "耳朵上的聪明洞原来是胚胎发育不全",
+      "onboard_time": 1735257317,
+      "rank": 34,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 133582,
+      "num": 133582,
+      "word": "鱿鱼游戏",
+      "onboard_time": 1735260318,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133230,
       "num": 102913,
       "word": "徐娇 勇敢",
@@ -257,14 +393,6 @@
       "onboard_time": 1735247291,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127878,
-      "num": 127878,
-      "word": "赵丽颖 我选择让生命有价值",
-      "onboard_time": 1735236313,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120000,
@@ -315,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106531,
+      "num": 169472,
+      "word": "150秒看爱与温暖的年度回放",
+      "onboard_time": 1735261998,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105597,
       "num": 99569,
       "word": "鱿鱼游戏 吊在俊",
@@ -323,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103422,
+      "num": 173388,
+      "word": "逆水寒",
+      "onboard_time": 1735262478,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102458,
       "num": 102458,
       "word": "胡塞武装强势回应内塔尼亚胡威胁",
       "onboard_time": 1735228159,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100567,
+      "num": 100567,
+      "word": "曾志伟不催婚曾宝仪",
+      "onboard_time": 1735252573,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 100087,
@@ -363,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94092,
+      "num": 94092,
+      "word": "我国自主研制新型发动机成功测试飞行",
+      "onboard_time": 1735237813,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93725,
       "num": 93725,
       "word": "鱿鱼游戏2全集上线",
       "onboard_time": 1735201458,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92375,
+      "num": 92375,
+      "word": "小情侣下班过生日车上男子神助攻",
+      "onboard_time": 1735262897,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92370,
@@ -403,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87175,
+      "num": 87175,
+      "word": "2024温暖的中国",
+      "onboard_time": 1735261099,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 86415,
       "num": 86415,
       "word": "10岁女孩写作业手疼确诊白血病",
@@ -427,12 +603,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83839,
+      "num": 83839,
+      "word": "2024年度记忆",
+      "onboard_time": 1735262418,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82576,
       "num": 82576,
       "word": "王安宇 我上去就是一把糯米",
       "onboard_time": 1735215859,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81177,
+      "num": 81177,
+      "word": "孙颖莎深大活动演讲稿",
+      "onboard_time": 1735262717,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79874,
+      "num": 336207,
+      "word": "女子打造大粉人设骗其他粉丝数百万",
+      "onboard_time": 1735263497,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79787,
@@ -473,14 +673,6 @@
       "onboard_time": 1735188739,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72453,
-      "num": 63385,
-      "word": "曾志伟不催婚曾宝仪",
-      "onboard_time": 1735252573,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 71679,
@@ -555,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53398,
-      "num": 53398,
-      "word": "我国自主研制新型发动机成功测试飞行",
-      "onboard_time": 1735237813,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53241,
       "num": 53241,
       "word": "男子网购显卡用塑料玩具退货骗钱",
@@ -585,14 +769,6 @@
       "onboard_time": 1735231036,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50147,
-      "num": 50147,
-      "word": "王俊凯预告新歌",
-      "onboard_time": 1735255995,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 49501,
@@ -636,7 +812,7 @@
     },
     {
       "raw_hot": 37579,
-      "num": 550980,
+      "num": 730665,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
@@ -665,6 +841,14 @@
       "onboard_time": 1735254374,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31800,
+      "num": 297083,
+      "word": "金晨新片首映礼浪姐团建",
+      "onboard_time": 1735262897,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 30338,
@@ -808,6 +992,14 @@
       "word": "吴磊给粉丝讲冷笑话",
       "onboard_time": 1735229837,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5229,
+      "num": 82239,
+      "word": "向佐希望大家是因为作品喜欢他",
+      "onboard_time": 1735263558,
+      "rank": 46,
       "category": "艺人"
     }
   ],
