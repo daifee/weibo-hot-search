@@ -1,0 +1,410 @@
+{
+  "runTime": 1735270946956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8096503,
+        "num": 8096503,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2036561,
+        "num": 2036561,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41780,
+        "num": 1505188,
+        "word": "中国一年194个世界冠军",
+        "onboard_time": 1735225040,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1269969,
+        "num": 1269969,
+        "word": "网易云 不准",
+        "onboard_time": 1735266558,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 971918,
+        "num": 971918,
+        "word": "四川舰",
+        "onboard_time": 1735266678,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 758691,
+        "num": 758691,
+        "word": "机长坠机遇难前最后操作挽救数十人",
+        "onboard_time": 1735262418,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1050919,
+        "num": 753700,
+        "word": "泰勒斯威夫特真的有QQ号",
+        "onboard_time": 1735269320,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 747551,
+        "num": 747551,
+        "word": "大二女生创作吧唧一年半赚5万",
+        "onboard_time": 1735267878,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728212,
+        "num": 728212,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 727344,
+        "num": 727344,
+        "word": "律师谈董宝石为何被行拘",
+        "onboard_time": 1735266256,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726649,
+        "num": 726649,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 10,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 597389,
+        "num": 597389,
+        "word": "渐冻症抗争者蔡磊最新公开发声",
+        "onboard_time": 1735269078,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91451,
+        "num": 571348,
+        "word": "俄罗斯商品馆卖伪俄货是消费欺诈",
+        "onboard_time": 1735269439,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134978,
+        "num": 566435,
+        "word": "学生退学撕掉几张纸要赔1000元",
+        "onboard_time": 1735269919,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17059,
+        "num": 563866,
+        "word": "秀新车精神状态belike",
+        "onboard_time": 1735268417,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 561713,
+        "num": 561713,
+        "word": "男子22万买车投保29万故意开进湖里",
+        "onboard_time": 1735265838,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472215,
+        "num": 472215,
+        "word": "四川舰下水震撼画面",
+        "onboard_time": 1735268119,
+        "rank": 16,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 424164,
+        "num": 424164,
+        "word": "董某石寻衅滋事被行拘7日",
+        "onboard_time": 1735269019,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380174,
+        "num": 380174,
+        "word": "韩游客说烤鸭难吃被提醒吃的蒸笼纸",
+        "onboard_time": 1735256477,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 240378,
+        "num": 378554,
+        "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
+        "onboard_time": 1735269679,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642586,
+        "num": 378513,
+        "word": "徐娇劝阻抽烟餐厅人均103元",
+        "onboard_time": 1735231216,
+        "rank": 20,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 377718,
+        "num": 377718,
+        "word": "五哈",
+        "onboard_time": 1735264398,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372959,
+        "num": 372959,
+        "word": "不认识汉字也不耽误老外打麻将",
+        "onboard_time": 1735268959,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359236,
+        "num": 359236,
+        "word": "2024堪称网红塌房元年",
+        "onboard_time": 1735267399,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327055,
+        "num": 327055,
+        "word": "王俊凯新歌",
+        "onboard_time": 1735266498,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 382361,
+        "num": 277994,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222833,
+        "num": 222833,
+        "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
+        "onboard_time": 1735260980,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220612,
+        "num": 220612,
+        "word": "燕云十六声",
+        "onboard_time": 1735266378,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220128,
+        "num": 220128,
+        "word": "中国手串在海外爆火",
+        "onboard_time": 1735264758,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301374,
+        "num": 210025,
+        "word": "王俊凯以后都要大概起来",
+        "onboard_time": 1735268779,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196793,
+        "num": 196793,
+        "word": "葛夕说离婚也给留几手养老",
+        "onboard_time": 1735226179,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187799,
+        "num": 187799,
+        "word": "新中式黄金在婚嫁市场爆火",
+        "onboard_time": 1735269320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186908,
+        "num": 186908,
+        "word": "成都一年新增11万艾滋病人系谣言",
+        "onboard_time": 1735267698,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 180696,
+        "num": 180696,
+        "word": "李嘉琦 要不你单身呢",
+        "onboard_time": 1735223480,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173042,
+        "num": 173042,
+        "word": "小鬼 摇滚",
+        "onboard_time": 1735270339,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171120,
+        "num": 171120,
+        "word": "那个21岁送外卖的单亲妈妈开店了",
+        "onboard_time": 1735266799,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160064,
+        "num": 160064,
+        "word": "宝石Gem粉丝后援会回应",
+        "onboard_time": 1735258338,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153488,
+        "num": 153488,
+        "word": "近期人偏肺病毒感染高发",
+        "onboard_time": 1735269259,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152928,
+        "num": 152928,
+        "word": "女子打造大粉人设骗其他粉丝数百万",
+        "onboard_time": 1735263497,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7640,
+        "num": 151362,
+        "word": "冬季活力感内搭",
+        "onboard_time": 1735270279,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150273,
+        "num": 150273,
+        "word": "韩国拟斥资20万亿建韩积电",
+        "onboard_time": 1735268838,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139314,
+        "num": 139314,
+        "word": "我国首艘弹射型两栖攻击舰",
+        "onboard_time": 1735266857,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 136399,
+        "num": 136399,
+        "word": "复旦教授呼吁年轻人不要抱怨",
+        "onboard_time": 1735222100,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132585,
+        "num": 132585,
+        "word": "电影小小的我票房预测",
+        "onboard_time": 1735267998,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131798,
+        "num": 131798,
+        "word": "小情侣下班过生日车上男子神助攻",
+        "onboard_time": 1735262897,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "孙颖莎明年大年初二就开始比赛了",
+        "onboard_time": 1735267038,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "央视新闻专访赵丽颖",
+        "onboard_time": 1735256356,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119041,
+        "num": 119041,
+        "word": "31岁大专毕业转行了7次",
+        "onboard_time": 1735264878,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114290,
+        "num": 114290,
+        "word": "我用自己身体撞击汽车",
+        "onboard_time": 1735268479,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112372,
+        "num": 112372,
+        "word": "张真源演我考试没带橡皮",
+        "onboard_time": 1735270881,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

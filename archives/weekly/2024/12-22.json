@@ -1,7 +1,15 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735270010084,
+  "endTime": 1735270946956,
   "band_list": [
+    {
+      "raw_hot": 8096503,
+      "num": 8096503,
+      "word": "樊振东宣布退出世界排名",
+      "onboard_time": 1735269679,
+      "rank": 4,
+      "category": "体育"
+    },
     {
       "raw_hot": 3825889,
       "num": 3825889,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 1535006,
-      "num": 1193245,
+      "num": 1269969,
       "word": "网易云 不准",
       "onboard_time": 1735266558,
       "rank": 6,
@@ -635,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1162001,
-      "num": 1162001,
-      "word": "樊振东宣布退出世界排名",
-      "onboard_time": 1735269679,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1159929,
       "num": 1159929,
       "word": "日本将对中国游客首设十年多次签证",
@@ -785,6 +785,14 @@
       "onboard_time": 1735206197,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1050919,
+      "num": 753700,
+      "word": "泰勒斯威夫特真的有QQ号",
+      "onboard_time": 1735269320,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1046255,
@@ -2179,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 597389,
+      "num": 597389,
+      "word": "渐冻症抗争者蔡磊最新公开发声",
+      "onboard_time": 1735269078,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596939,
       "num": 596939,
       "word": "李昀锐大拇指",
@@ -2585,14 +2601,6 @@
       "onboard_time": 1735263497,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529095,
-      "num": 529095,
-      "word": "泰勒斯威夫特真的有QQ号",
-      "onboard_time": 1735269320,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 528588,
@@ -3307,6 +3315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424164,
+      "num": 424164,
+      "word": "董某石寻衅滋事被行拘7日",
+      "onboard_time": 1735269019,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423598,
       "num": 254630,
       "word": "杜城被捅",
@@ -3865,6 +3881,14 @@
       "onboard_time": 1734794059,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372959,
+      "num": 372959,
+      "word": "不认识汉字也不耽误老外打麻将",
+      "onboard_time": 1735268959,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 372664,
@@ -4731,6 +4755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301374,
+      "num": 283349,
+      "word": "王俊凯以后都要大概起来",
+      "onboard_time": 1735268779,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301288,
       "num": 301288,
       "word": "Uzi 一加",
@@ -4857,14 +4889,6 @@
       "onboard_time": 1734844819,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 290669,
-      "num": 290669,
-      "word": "不认识汉字也不耽误老外打麻将",
-      "onboard_time": 1735268959,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 290598,
@@ -5001,14 +5025,6 @@
       "onboard_time": 1734963559,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 283349,
-      "num": 283349,
-      "word": "王俊凯以后都要大概起来",
-      "onboard_time": 1735268779,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 282935,
@@ -5163,14 +5179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 273910,
-      "num": 273910,
-      "word": "董某石寻衅滋事被行拘7日",
-      "onboard_time": 1735269019,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273701,
       "num": 273701,
       "word": "恋与深空直播预告",
@@ -5208,14 +5216,6 @@
       "word": "72岁老人演上百部短剧一天收入上千",
       "onboard_time": 1734934937,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272239,
-      "num": 467855,
-      "word": "渐冻症抗争者蔡磊最新公开发声",
-      "onboard_time": 1735269078,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -5819,6 +5819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240378,
+      "num": 378554,
+      "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
+      "onboard_time": 1735269679,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240256,
       "num": 488694,
       "word": "周深今年最大的收获是歌迷",
@@ -6321,6 +6329,14 @@
       "onboard_time": 1734947238,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220612,
+      "num": 248575,
+      "word": "燕云十六声",
+      "onboard_time": 1735266378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 219858,
@@ -7787,14 +7803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189908,
-      "num": 248575,
-      "word": "燕云十六声",
-      "onboard_time": 1735266378,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189862,
       "num": 276134,
       "word": "何惟芳待花开",
@@ -8033,6 +8041,14 @@
       "onboard_time": 1734846439,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186908,
+      "num": 186908,
+      "word": "成都一年新增11万艾滋病人系谣言",
+      "onboard_time": 1735267698,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 186762,
@@ -8539,14 +8555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175714,
-      "num": 238561,
-      "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
-      "onboard_time": 1735269679,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175666,
       "num": 175666,
       "word": "蔡磊说话模糊已经需要人为翻译",
@@ -8593,14 +8601,6 @@
       "onboard_time": 1735262598,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 174745,
-      "num": 174745,
-      "word": "成都一年新增11万艾滋病人系谣言",
-      "onboard_time": 1735267698,
-      "rank": 45,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 174508,
@@ -8681,6 +8681,14 @@
       "onboard_time": 1735256417,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "小鬼 摇滚",
+      "onboard_time": 1735270339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 172896,
@@ -9995,6 +10003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153488,
+      "num": 153488,
+      "word": "近期人偏肺病毒感染高发",
+      "onboard_time": 1735269259,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 153269,
       "num": 153269,
       "word": "常德冲撞小学生等人群案被告死缓",
@@ -10289,14 +10305,6 @@
       "onboard_time": 1734950298,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148884,
-      "num": 148884,
-      "word": "近期人偏肺病毒感染高发",
-      "onboard_time": 1735269259,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148785,
@@ -11233,6 +11241,14 @@
       "onboard_time": 1735015161,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134978,
+      "num": 566435,
+      "word": "学生退学撕掉几张纸要赔1000元",
+      "onboard_time": 1735269919,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134972,
@@ -12427,14 +12443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118404,
-      "num": 534511,
-      "word": "学生退学撕掉几张纸要赔1000元",
-      "onboard_time": 1735269919,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118361,
       "num": 102534,
       "word": "鱿鱼游戏2结局",
@@ -12905,6 +12913,14 @@
       "onboard_time": 1734764957,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112372,
+      "num": 112372,
+      "word": "张真源演我考试没带橡皮",
+      "onboard_time": 1735270881,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 112331,
@@ -14088,6 +14104,14 @@
       "word": "女子遭老板性侵被辞公司变更董事长",
       "onboard_time": 1734955699,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91451,
+      "num": 673495,
+      "word": "俄罗斯商品馆卖伪俄货是消费欺诈",
+      "onboard_time": 1735269439,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -15883,14 +15907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57266,
-      "num": 673495,
-      "word": "俄罗斯商品馆卖伪俄货是消费欺诈",
-      "onboard_time": 1735269439,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57232,
       "num": 213509,
       "word": "电影小小的我表情包",
@@ -16428,7 +16444,7 @@
     },
     {
       "raw_hot": 50063,
-      "num": 1402226,
+      "num": 1505188,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
@@ -19275,6 +19291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17059,
+      "num": 563866,
+      "word": "秀新车精神状态belike",
+      "onboard_time": 1735268417,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 16976,
       "num": 128142,
       "word": "全红婵妈妈希望儿子快娶媳妇",
@@ -19425,14 +19449,6 @@
       "onboard_time": 1734899899,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 14227,
-      "num": 530141,
-      "word": "秀新车精神状态belike",
-      "onboard_time": 1735268417,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 14105,
@@ -19817,6 +19833,14 @@
       "onboard_time": 1735131140,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7640,
+      "num": 151362,
+      "word": "冬季活力感内搭",
+      "onboard_time": 1735270279,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 7545,

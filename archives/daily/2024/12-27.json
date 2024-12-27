@@ -1,7 +1,15 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735270010084,
+  "endTime": 1735270946956,
   "band_list": [
+    {
+      "raw_hot": 8096503,
+      "num": 8096503,
+      "word": "樊振东宣布退出世界排名",
+      "onboard_time": 1735269679,
+      "rank": 4,
+      "category": "体育"
+    },
     {
       "raw_hot": 2773251,
       "num": 2773251,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1535006,
-      "num": 1193245,
+      "num": 1269969,
       "word": "网易云 不准",
       "onboard_time": 1735266558,
       "rank": 6,
@@ -59,20 +67,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 1162001,
-      "num": 1162001,
-      "word": "樊振东宣布退出世界排名",
-      "onboard_time": 1735269679,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1141529,
       "num": 1141529,
       "word": "中国海军076两栖攻击舰首舰下水",
       "onboard_time": 1735266318,
       "rank": 5,
       "category": "军事"
+    },
+    {
+      "raw_hot": 1050919,
+      "num": 753700,
+      "word": "泰勒斯威夫特真的有QQ号",
+      "onboard_time": 1735269320,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 937928,
@@ -163,6 +171,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 597389,
+      "num": 597389,
+      "word": "渐冻症抗争者蔡磊最新公开发声",
+      "onboard_time": 1735269078,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 562403,
       "num": 562403,
       "word": "王俊凯新歌",
@@ -185,14 +201,6 @@
       "onboard_time": 1735263497,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 529095,
-      "num": 529095,
-      "word": "泰勒斯威夫特真的有QQ号",
-      "onboard_time": 1735269320,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 476363,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424164,
+      "num": 424164,
+      "word": "董某石寻衅滋事被行拘7日",
+      "onboard_time": 1735269019,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407426,
       "num": 407426,
       "word": "复旦教授呼吁年轻人不要抱怨",
@@ -265,6 +281,14 @@
       "onboard_time": 1735223480,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372959,
+      "num": 372959,
+      "word": "不认识汉字也不耽误老外打麻将",
+      "onboard_time": 1735268959,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 368604,
@@ -315,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301374,
+      "num": 283349,
+      "word": "王俊凯以后都要大概起来",
+      "onboard_time": 1735268779,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 294728,
       "num": 294728,
       "word": "国防时报晒银杏叶",
@@ -331,44 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290669,
-      "num": 290669,
-      "word": "不认识汉字也不耽误老外打麻将",
-      "onboard_time": 1735268959,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 289915,
       "num": 184295,
       "word": "宝石老舅称已接受行政处罚",
       "onboard_time": 1735255275,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283349,
-      "num": 283349,
-      "word": "王俊凯以后都要大概起来",
-      "onboard_time": 1735268779,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 273910,
-      "num": 273910,
-      "word": "董某石寻衅滋事被行拘7日",
-      "onboard_time": 1735269019,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 272239,
-      "num": 467855,
-      "word": "渐冻症抗争者蔡磊最新公开发声",
-      "onboard_time": 1735269078,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250956,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240378,
+      "num": 378554,
+      "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
+      "onboard_time": 1735269679,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239709,
       "num": 239709,
       "word": "那个21岁送外卖的单亲妈妈开店了",
@@ -433,6 +441,14 @@
       "onboard_time": 1735218920,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220612,
+      "num": 248575,
+      "word": "燕云十六声",
+      "onboard_time": 1735266378,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 217090,
@@ -475,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189908,
-      "num": 248575,
-      "word": "燕云十六声",
-      "onboard_time": 1735266378,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189647,
       "num": 207796,
       "word": "电影小小的我票房预测",
       "onboard_time": 1735267998,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186908,
+      "num": 186908,
+      "word": "成都一年新增11万艾滋病人系谣言",
+      "onboard_time": 1735267698,
+      "rank": 45,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 181649,
@@ -515,14 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175714,
-      "num": 238561,
-      "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
-      "onboard_time": 1735269679,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174781,
       "num": 174781,
       "word": "网易云年度报告",
@@ -531,20 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 174745,
-      "num": 174745,
-      "word": "成都一年新增11万艾滋病人系谣言",
-      "onboard_time": 1735267698,
-      "rank": 45,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 173051,
       "num": 173051,
       "word": "冷空气影响将在元旦前结束",
       "onboard_time": 1735256417,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "小鬼 摇滚",
+      "onboard_time": 1735270339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164711,
@@ -611,20 +619,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153488,
+      "num": 153488,
+      "word": "近期人偏肺病毒感染高发",
+      "onboard_time": 1735269259,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151927,
       "num": 238717,
       "word": "韩国拟斥资20万亿建韩积电",
       "onboard_time": 1735268838,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148884,
-      "num": 148884,
-      "word": "近期人偏肺病毒感染高发",
-      "onboard_time": 1735269259,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 146968,
@@ -688,6 +696,14 @@
       "word": "听到房子传言买家想退定金",
       "onboard_time": 1735267098,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134978,
+      "num": 566435,
+      "word": "学生退学撕掉几张纸要赔1000元",
+      "onboard_time": 1735269919,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118404,
-      "num": 534511,
-      "word": "学生退学撕掉几张纸要赔1000元",
-      "onboard_time": 1735269919,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118361,
       "num": 102534,
       "word": "鱿鱼游戏2结局",
@@ -785,6 +793,14 @@
       "onboard_time": 1735214117,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112372,
+      "num": 112372,
+      "word": "张真源演我考试没带橡皮",
+      "onboard_time": 1735270881,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111917,
@@ -921,6 +937,14 @@
       "onboard_time": 1735232356,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91451,
+      "num": 673495,
+      "word": "俄罗斯商品馆卖伪俄货是消费欺诈",
+      "onboard_time": 1735269439,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87986,
@@ -1099,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57266,
-      "num": 673495,
-      "word": "俄罗斯商品馆卖伪俄货是消费欺诈",
-      "onboard_time": 1735269439,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56940,
       "num": 56940,
       "word": "火星情报局",
@@ -1187,20 +1203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41780,
+      "num": 1505188,
+      "word": "中国一年194个世界冠军",
+      "onboard_time": 1735225040,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40408,
       "num": 40408,
       "word": "俞灏明王晓晨聚餐后一起回家",
       "onboard_time": 1735222100,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40021,
-      "num": 1402226,
-      "word": "中国一年194个世界冠军",
-      "onboard_time": 1735225040,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 36677,
@@ -1315,8 +1331,8 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 14227,
-      "num": 530141,
+      "raw_hot": 17059,
+      "num": 563866,
       "word": "秀新车精神状态belike",
       "onboard_time": 1735268417,
       "rank": 14,
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7640,
+      "num": 151362,
+      "word": "冬季活力感内搭",
+      "onboard_time": 1735270279,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 7545,
       "num": 75400,
       "word": "黄雨婷分享首金精神",
@@ -1401,6 +1425,9 @@
     },
     {
       "word": "#总书记论城市治理#"
+    },
+    {
+      "word": "#解码中华文化基因#"
     }
   ]
 }
