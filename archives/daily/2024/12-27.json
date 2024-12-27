@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735288878880,
+  "endTime": 1735291367608,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -16,6 +16,14 @@
       "word": "赵露思坐轮椅",
       "onboard_time": 1735275742,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8134558,
+      "num": 8134558,
+      "word": "赵露思工作室回应",
+      "onboard_time": 1735289120,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -147,6 +155,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 1082965,
+      "num": 1082965,
+      "word": "樊振东陈梦退赛将被罚款5000美元",
+      "onboard_time": 1735289841,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 998279,
       "num": 998279,
       "word": "韩国国会通过代总统弹劾案",
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801001,
+      "num": 801001,
+      "word": "国家队是懂暗示四川舰的",
+      "onboard_time": 1735286722,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 786822,
       "num": 786822,
       "word": "大二女生创作吧唧一年半赚5万",
@@ -225,14 +249,6 @@
       "onboard_time": 1735258338,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 760654,
-      "num": 760654,
-      "word": "国家队是懂暗示四川舰的",
-      "onboard_time": 1735286722,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 754743,
@@ -579,12 +595,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 367751,
+      "num": 367751,
+      "word": "周雨彤易烊千玺感情戏",
+      "onboard_time": 1735289900,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362705,
       "num": 362705,
       "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
       "onboard_time": 1735260980,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341994,
+      "num": 341994,
+      "word": "李昀锐寸头",
+      "onboard_time": 1735290320,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 340211,
@@ -691,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278699,
+      "num": 278699,
+      "word": "樊振东恩师吴敬平发文支持樊振东",
+      "onboard_time": 1735288581,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277291,
       "num": 277291,
       "word": "丁禹兮化身燕云boss郑鄂",
@@ -779,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246124,
+      "num": 331070,
+      "word": "恋人",
+      "onboard_time": 1735279881,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244619,
       "num": 244619,
       "word": "周启豪评论樊振东",
@@ -817,6 +865,14 @@
       "onboard_time": 1735269679,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239985,
+      "num": 239985,
+      "word": "杨紫国色芳华追剧团行程",
+      "onboard_time": 1735290741,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 239709,
@@ -865,6 +921,14 @@
       "onboard_time": 1735273941,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 225445,
+      "num": 286938,
+      "word": "樊振东引用霉霉歌词",
+      "onboard_time": 1735289060,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 220906,
@@ -955,11 +1019,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201075,
-      "num": 201075,
-      "word": "樊振东恩师吴敬平发文支持樊振东",
-      "onboard_time": 1735288581,
-      "rank": 40,
+      "raw_hot": 201461,
+      "num": 201461,
+      "word": "陈梦回应退出世界排名",
+      "onboard_time": 1735291042,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199970,
+      "num": 286562,
+      "word": "樊振东陈梦为什么不要世界排名了",
+      "onboard_time": 1735290981,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -993,14 +1065,6 @@
       "onboard_time": 1735277541,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198123,
-      "num": 331070,
-      "word": "恋人",
-      "onboard_time": 1735279881,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 197917,
@@ -1099,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187702,
+      "num": 187702,
+      "word": "莫雷加德评论樊振东",
+      "onboard_time": 1735291281,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "王一博有声歌词海报",
@@ -1115,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187348,
+      "num": 187348,
+      "word": "小小的我 没有任何易烊千玺的影子",
+      "onboard_time": 1735290800,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186908,
       "num": 186908,
       "word": "成都一年新增11万艾滋病人系谣言",
       "onboard_time": 1735267698,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 186495,
+      "num": 289668,
+      "word": "江苏卫视公布跨年晚会全阵容",
+      "onboard_time": 1735290381,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 185103,
@@ -1235,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167387,
+      "num": 280349,
+      "word": "四川舰是个什么舰",
+      "onboard_time": 1735287920,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "第五人格",
@@ -1283,6 +1379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163082,
+      "num": 289787,
+      "word": "乒坛群星祝福樊振东",
+      "onboard_time": 1735290921,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161597,
       "num": 161597,
       "word": "丁禹兮工作室",
@@ -1329,6 +1433,14 @@
       "onboard_time": 1735284141,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157285,
+      "num": 157285,
+      "word": "孔刘踩面包",
+      "onboard_time": 1735291340,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 157003,
@@ -1457,14 +1569,6 @@
       "onboard_time": 1735267819,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 138013,
-      "num": 138013,
-      "word": "四川舰是个什么舰",
-      "onboard_time": 1735287920,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 137814,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1735261998,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105778,
+      "num": 472586,
+      "word": "中国人一定要有自己的操作系统",
+      "onboard_time": 1735287381,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 105597,
@@ -2115,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53708,
-      "num": 472586,
-      "word": "中国人一定要有自己的操作系统",
-      "onboard_time": 1735287381,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 53241,
       "num": 53241,
       "word": "男子网购显卡用塑料玩具退货骗钱",
@@ -2163,12 +2267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48622,
+      "num": 286720,
+      "word": "27岁女子遭前男友泼汽油烧伤致残",
+      "onboard_time": 1735290501,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47922,
       "num": 47922,
       "word": "多方回应广东两姐妹遭杀害传言",
       "onboard_time": 1735226359,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 47799,
+      "num": 289315,
+      "word": "TT对战TES",
+      "onboard_time": 1735291161,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 47291,
@@ -2267,6 +2387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35432,
+      "num": 288185,
+      "word": "金晨帕丁顿熊斗舞",
+      "onboard_time": 1735290141,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 33147,
+      "num": 288674,
+      "word": "快来交出你的2024年度拼单好物",
+      "onboard_time": 1735289960,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 32534,
       "num": 387140,
       "word": "电影误判今日上映",
@@ -2313,6 +2449,30 @@
       "onboard_time": 1735242071,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29443,
+      "num": 287468,
+      "word": "王耀庆扫楼给员工跪了",
+      "onboard_time": 1735289721,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 27149,
+      "num": 288932,
+      "word": "宝石大战汽车人",
+      "onboard_time": 1735288400,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26907,
+      "num": 286280,
+      "word": "非凡大师与高尔夫的适配度",
+      "onboard_time": 1735290201,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 26672,
@@ -2387,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24567,
+      "num": 1238775,
+      "word": "回眸2024感受人与自然的和谐之美",
+      "onboard_time": 1735290501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23702,
       "num": 408480,
       "word": "极氪让电车过冬更有底气",
@@ -2457,6 +2625,14 @@
       "onboard_time": 1735284800,
       "rank": 29,
       "category": "科学科普,军事"
+    },
+    {
+      "raw_hot": 17867,
+      "num": 289176,
+      "word": "潜水遇到强流该如何应对",
+      "onboard_time": 1735290561,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 17247,
