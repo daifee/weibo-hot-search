@@ -1,0 +1,410 @@
+{
+  "runTime": 1735313783482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9462661,
+        "num": 9462661,
+        "word": "赵露思就诊画面",
+        "onboard_time": 1735309881,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370246,
+        "num": 370246,
+        "word": "南宁强占人妻区长简历被撤下",
+        "onboard_time": 1735308140,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26301,
+        "num": 319739,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 3589309,
+        "num": 319702,
+        "word": "赵露思生病很严重",
+        "onboard_time": 1735313062,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319342,
+        "num": 319342,
+        "word": "恋与深空",
+        "onboard_time": 1735298420,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 769679,
+        "num": 317245,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1218694,
+        "num": 314979,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1032277,
+        "num": 314039,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302895,
+        "num": 302895,
+        "word": "自导自演谎称偷拍泛滥35人被抓",
+        "onboard_time": 1735309281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 597429,
+        "num": 299787,
+        "word": "2女子在急诊救治被2陪同男子家暴",
+        "onboard_time": 1735306700,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537869,
+        "num": 279883,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511392,
+        "num": 266746,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310764,
+        "num": 256471,
+        "word": "蒋欣路边连吃12只生蚝",
+        "onboard_time": 1735299913,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312386,
+        "num": 241660,
+        "word": "张元英提醒柳俊烈主持",
+        "onboard_time": 1735311262,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236751,
+        "num": 236751,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200622,
+        "num": 200622,
+        "word": "奥恰洛夫对樊振东的决定感到意外",
+        "onboard_time": 1735307899,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100610,
+        "num": 199621,
+        "word": "为销售伪劣仪器炒作偷拍泛滥",
+        "onboard_time": 1735310963,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30007,
+        "num": 198903,
+        "word": "他要让全世界看到加沙的孩子们",
+        "onboard_time": 1735313420,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48592,
+        "num": 198189,
+        "word": "GoldenChild解散",
+        "onboard_time": 1735313482,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11186,
+        "num": 197195,
+        "word": "回声让热搜引发更深层次的思考",
+        "onboard_time": 1735312822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196387,
+        "num": 196387,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 6225007,
+        "num": 195973,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373049,
+        "num": 195445,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290938,
+        "num": 195011,
+        "word": "Project7决赛",
+        "onboard_time": 1735304480,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8255,
+        "num": 194227,
+        "word": "无畏画的杨桃",
+        "onboard_time": 1735313361,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136253,
+        "num": 193779,
+        "word": "我国低空经济发展司成立",
+        "onboard_time": 1735311803,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264055,
+        "num": 193484,
+        "word": "宝石老舅被拘前和粉丝合照",
+        "onboard_time": 1735298480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208628,
+        "num": 192851,
+        "word": "权志龙朴彩英跳了APT",
+        "onboard_time": 1735296980,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205948,
+        "num": 191854,
+        "word": "徐娇劝阻抽烟重点是男子确实违法了",
+        "onboard_time": 1735301059,
+        "rank": 28,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 204971,
+        "num": 191655,
+        "word": "春晚彩排",
+        "onboard_time": 1735294879,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191161,
+        "num": 191161,
+        "word": "金智媛20岁证件照",
+        "onboard_time": 1735305980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180858,
+        "num": 180858,
+        "word": "赵今麦高马尾",
+        "onboard_time": 1735307661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179614,
+        "num": 179614,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50781,
+        "num": 177365,
+        "word": "徐州男子与网友见面被怀疑吸毒被捕",
+        "onboard_time": 1735311924,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31400,
+        "num": 176611,
+        "word": "假律师专骗中老年打工者",
+        "onboard_time": 1735311803,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176426,
+        "num": 176426,
+        "word": "影子不会说谎非法牟利数百万",
+        "onboard_time": 1735312701,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176018,
+        "num": 176018,
+        "word": "第一次见脸这么臭的狗",
+        "onboard_time": 1735310002,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175426,
+        "num": 175426,
+        "word": "小小的我开分9.8",
+        "onboard_time": 1735307721,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171143,
+        "num": 171143,
+        "word": "韩国人表示上海还是太全面",
+        "onboard_time": 1735313183,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168006,
+        "num": 168006,
+        "word": "16岁哥哥独自带6岁妹妹抗癌",
+        "onboard_time": 1735310662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165509,
+        "num": 165509,
+        "word": "火树",
+        "onboard_time": 1735294219,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151383,
+        "num": 151383,
+        "word": "祁煜扔手镯",
+        "onboard_time": 1735309521,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150634,
+        "num": 150634,
+        "word": "2025我的小小世界一定会更好",
+        "onboard_time": 1735302079,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145150,
+        "num": 145150,
+        "word": "清明上河图 李乃文不服",
+        "onboard_time": 1735312522,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144093,
+        "num": 144093,
+        "word": "终于把马天宇送进组了",
+        "onboard_time": 1735310423,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 142150,
+        "word": "樊振东引用霉霉歌词回应退役传闻",
+        "onboard_time": 1735308620,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140643,
+        "num": 140643,
+        "word": "0713 春晚",
+        "onboard_time": 1735296321,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "孟子义新增了8个代言",
+        "onboard_time": 1735298900,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137413,
+        "num": 137413,
+        "word": "生日晚安",
+        "onboard_time": 1735306401,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向中吉乌铁路项目启动仪式致贺信#"
+    }
+  }
+}

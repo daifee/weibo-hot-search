@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735312946360,
+  "endTime": 1735313783482,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -57,6 +57,14 @@
       "onboard_time": 1735275801,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 3589309,
+      "num": 319702,
+      "word": "赵露思生病很严重",
+      "onboard_time": 1735313062,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2773251,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1032277,
+      "num": 359015,
+      "word": "恋人剧组暂停拍摄",
+      "onboard_time": 1735312583,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 998279,
       "num": 998279,
       "word": "韩国国会通过代总统弹劾案",
@@ -481,14 +497,6 @@
       "onboard_time": 1735272381,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 661878,
-      "num": 359015,
-      "word": "恋人剧组暂停拍摄",
-      "onboard_time": 1735312583,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 650705,
@@ -995,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312386,
+      "num": 284488,
+      "word": "张元英提醒柳俊烈主持",
+      "onboard_time": 1735311262,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311846,
       "num": 311846,
       "word": "现在拨打的电话",
@@ -1067,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 290938,
+      "num": 195011,
+      "word": "Project7决赛",
+      "onboard_time": 1735304480,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290482,
       "num": 290482,
       "word": "樊振东陈梦为什么不要世界排名了",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1735304420,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284488,
-      "num": 284488,
-      "word": "张元英提醒柳俊烈主持",
-      "onboard_time": 1735311262,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 284327,
@@ -1955,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179614,
+      "num": 179614,
+      "word": "神经系统疾病",
+      "onboard_time": 1735313662,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179310,
       "num": 179310,
       "word": "网易云年度歌手",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1735305320,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179166,
-      "num": 179166,
-      "word": "Project7决赛",
-      "onboard_time": 1735304480,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 178315,
@@ -2001,6 +2017,22 @@
       "onboard_time": 1735293021,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176426,
+      "num": 176426,
+      "word": "影子不会说谎非法牟利数百万",
+      "onboard_time": 1735312701,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176018,
+      "num": 176018,
+      "word": "第一次见脸这么臭的狗",
+      "onboard_time": 1735310002,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 175256,
@@ -2059,14 +2091,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 174192,
-      "num": 174192,
-      "word": "影子不会说谎非法牟利数百万",
-      "onboard_time": 1735312701,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173051,
       "num": 173051,
       "word": "冷空气影响将在元旦前结束",
@@ -2099,12 +2123,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 170181,
-      "num": 164721,
-      "word": "第一次见脸这么臭的狗",
-      "onboard_time": 1735310002,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 171143,
+      "num": 171143,
+      "word": "韩国人表示上海还是太全面",
+      "onboard_time": 1735313183,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169570,
@@ -2419,6 +2443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145150,
+      "num": 145150,
+      "word": "清明上河图 李乃文不服",
+      "onboard_time": 1735312522,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145119,
       "num": 145119,
       "word": "WTT大满贯2025招商或超1亿",
@@ -2523,20 +2555,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 137470,
-      "num": 137470,
-      "word": "清明上河图 李乃文不服",
-      "onboard_time": 1735312522,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137161,
-      "num": 137161,
+      "num": 199621,
       "word": "为销售伪劣仪器炒作偷拍泛滥",
       "onboard_time": 1735310963,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136253,
+      "num": 359911,
+      "word": "我国低空经济发展司成立",
+      "onboard_time": 1735311803,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135756,
@@ -2873,14 +2905,6 @@
       "onboard_time": 1735226060,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 97793,
-      "num": 359911,
-      "word": "我国低空经济发展司成立",
-      "onboard_time": 1735311803,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96836,
@@ -3395,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50781,
+      "num": 192319,
+      "word": "徐州男子与网友见面被怀疑吸毒被捕",
+      "onboard_time": 1735311924,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 49501,
       "num": 87880,
       "word": "狼队vs曼联",
@@ -3411,12 +3443,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 48461,
-      "num": 192319,
-      "word": "徐州男子与网友见面被怀疑吸毒被捕",
-      "onboard_time": 1735311924,
-      "rank": 29,
-      "category": "舆论监督"
+      "raw_hot": 48592,
+      "num": 198189,
+      "word": "GoldenChild解散",
+      "onboard_time": 1735313482,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 48199,
@@ -3675,6 +3707,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 31400,
+      "num": 217170,
+      "word": "假律师专骗中老年打工者",
+      "onboard_time": 1735311803,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31029,
       "num": 441496,
       "word": "属于每个人的2024",
@@ -3721,6 +3761,14 @@
       "onboard_time": 1735296921,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30007,
+      "num": 198903,
+      "word": "他要让全世界看到加沙的孩子们",
+      "onboard_time": 1735313420,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29954,
@@ -3905,14 +3953,6 @@
       "onboard_time": 1735236132,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23222,
-      "num": 217170,
-      "word": "假律师专骗中老年打工者",
-      "onboard_time": 1735311803,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 22574,
@@ -4107,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11186,
+      "num": 216061,
+      "word": "回声让热搜引发更深层次的思考",
+      "onboard_time": 1735312822,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11129,
       "num": 15353,
       "word": "志合越山海",
@@ -4147,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8255,
+      "num": 194227,
+      "word": "无畏画的杨桃",
+      "onboard_time": 1735313361,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8002,
       "num": 306912,
       "word": "闪闪发光的圣诞look",
@@ -4177,14 +4233,6 @@
       "onboard_time": 1735229837,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6009,
-      "num": 216061,
-      "word": "回声让热搜引发更深层次的思考",
-      "onboard_time": 1735312822,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2679,
