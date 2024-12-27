@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/27 11:42:26
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/27 12:26:32
 </p>
 </blockquote>
 <p>
@@ -69,6 +69,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%23" target="weibo">
+樊振东宣布退出世界排名（热度：11478708）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%94%BF%E6%B2%BB%23" target="weibo">
 考研政治（热度：9365392）
 </a>
@@ -89,12 +95,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%90%BC%E7%91%B6%E5%9C%A8%E5%AE%B6%E8%87%AA%E6%9D%80%23" target="weibo">
 琼瑶在家自杀（热度：8620256）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%23" target="weibo">
-樊振东宣布退出世界排名（热度：8096503）
 </a>
 </li>
 
@@ -2553,6 +2553,12 @@ submission又见面了（热度：1271613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C11%E7%82%B911%E5%88%86%E5%8F%91%E5%8D%9A%E7%9A%84%E6%B7%B1%E6%84%8F%23" target="weibo">
+樊振东11点11分发博的深意（热度：1223717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E5%A4%AB%E5%A6%87%E7%A1%AE%E8%AF%8A%E6%84%9F%E6%9F%93%E5%90%8E%E7%9A%84%E7%AC%AC20%E5%B9%B4%23" target="weibo">
 艾滋夫妇确诊感染后的第20年（热度：1223519）
 </a>
@@ -2867,6 +2873,12 @@ iG官宣新阵容（热度：1210883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%A9%9A%E5%90%8E%E7%8A%B6%E6%80%81%23" target="weibo">
 黄子韬婚后状态（热度：1146808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E7%9C%9F%E7%9A%84%E6%9C%89QQ%E5%8F%B7%23" target="weibo">
+泰勒斯威夫特真的有QQ号（热度：1146380）
 </a>
 </li>
 
@@ -3467,12 +3479,6 @@ zeus（热度：1095936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E8%AE%B0%E4%BA%91%E9%A5%BA%23" target="weibo">
 袁记云饺（热度：1051331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%8B%92%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E7%9C%9F%E7%9A%84%E6%9C%89QQ%E5%8F%B7%23" target="weibo">
-泰勒斯威夫特真的有QQ号（热度：1050919）
 </a>
 </li>
 
@@ -4181,6 +4187,12 @@ Gemini当爸爸了（热度：974629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A3%E8%BF%B9%E7%BD%91%E7%BA%A2%E5%A4%A9%E4%BD%91%E7%96%91%E5%A4%8D%E5%87%BA%E7%9B%B4%E6%92%AD%E5%86%8D%E8%A2%AB%E5%B0%81%E7%A6%81%23" target="weibo">
 劣迹网红天佑疑复出直播再被封禁（热度：949907）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A7%B0%E6%97%A0%E5%8A%9B%E6%89%BF%E5%8F%97%E4%B8%8D%E5%8F%82%E8%B5%9B%E5%B0%B1%E7%BD%9A%E6%AC%BE%E6%96%B0%E8%A7%84%23" target="weibo">
+樊振东称无力承受不参赛就罚款新规（热度：949791）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone或迎六年来首次设计大换代（热度：806579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%B7%A1%E6%B4%8B%E8%88%B0%E8%AF%AF%E5%87%BB%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA%23" target="weibo">
 美巡洋舰误击美军战机（热度：759018）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%AD%99%E5%8D%83%E7%89%B5%E6%89%8B%E8%B5%B0%E7%BA%A2%E6%AF%AF%23" target="weibo">
-黄景瑜孙千牵手走红毯（热度：758595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%87%BA%E7%94%9F5%E5%A4%A9%E7%A1%AE%E8%AF%8A%E9%81%97%E4%BC%A0%E6%80%A7%E7%BD%95%E8%A7%81%E7%97%85%23" target="weibo">
-婴儿出生5天确诊遗传性罕见病（热度：757806）
 </a>
 </li>
 

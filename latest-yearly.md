@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/27 11:42:26
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/27 12:26:32
 </p>
 </blockquote>
 <p>
@@ -845,6 +845,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E9%87%91%E7%89%8C%23" target="weibo">
 全红婵陈芋汐金牌（热度：11563419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%23" target="weibo">
+樊振东宣布退出世界排名（热度：11478708）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%90%97%20%E7%94%B0%E9%9C%87%E5%90%A7%23" target="weibo">
 那英吗 田震吧（热度：8185110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%BE%AE%E7%AC%91%E7%9D%80%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8E%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E5%91%8A%E5%88%AB%23" target="weibo">
-马龙微笑着宣布将与奥运赛场告别（热度：8159707）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735270946956,
+  "endTime": 1735273592884,
   "band_list": [
     {
-      "raw_hot": 8096503,
-      "num": 8096503,
+      "raw_hot": 11478708,
+      "num": 11478708,
       "word": "樊振东宣布退出世界排名",
       "onboard_time": 1735269679,
       "rank": 4,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1223717,
+      "num": 1223717,
+      "word": "樊振东11点11分发博的深意",
+      "onboard_time": 1735271662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1205990,
       "num": 826144,
       "word": "希林娜依高拖行小狗",
@@ -664,6 +672,14 @@
       "word": "张馨予 不要小看我的网速",
       "onboard_time": 1735101740,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1146380,
+      "num": 1146380,
+      "word": "泰勒斯威夫特真的有QQ号",
+      "onboard_time": 1735269320,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -785,14 +801,6 @@
       "onboard_time": 1735206197,
       "rank": 1,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1050919,
-      "num": 753700,
-      "word": "泰勒斯威夫特真的有QQ号",
-      "onboard_time": 1735269320,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1046255,
@@ -993,6 +1001,14 @@
       "onboard_time": 1735091657,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 949791,
+      "num": 949791,
+      "word": "樊振东称无力承受不参赛就罚款新规",
+      "onboard_time": 1735271962,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 946804,
@@ -2459,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 553782,
+      "num": 553782,
+      "word": "四川舰雄起",
+      "onboard_time": 1735271241,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 552493,
       "num": 326968,
       "word": "权志龙压轴",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1734956118,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 548538,
+      "num": 548538,
+      "word": "李昀锐 就这个顶腮",
+      "onboard_time": 1735271782,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 548173,
@@ -2723,6 +2755,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 513205,
+      "num": 513205,
+      "word": "主人没牵住狗绳致路人车祸身亡",
+      "onboard_time": 1735272201,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506977,
       "num": 398185,
       "word": "姜珮瑶首部古装剧演花魁",
@@ -2737,6 +2777,22 @@
       "onboard_time": 1735104198,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 500677,
+      "num": 500677,
+      "word": "WTT颁布不参赛就罚款新规",
+      "onboard_time": 1735272261,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 496369,
+      "num": 377240,
+      "word": "肯德基 孙颖莎",
+      "onboard_time": 1735272562,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 496126,
@@ -3283,6 +3339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427304,
+      "num": 510742,
+      "word": "宝石老舅拘留期满后照常录制节目",
+      "onboard_time": 1735272381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427008,
       "num": 427008,
       "word": "396经济类联考",
@@ -3416,6 +3480,14 @@
       "word": "权志龙嗓子怎么了",
       "onboard_time": 1735131439,
       "rank": 13,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 414495,
+      "num": 509497,
+      "word": "王俊凯以后都要大概起来",
+      "onboard_time": 1735268779,
+      "rank": 24,
       "category": "音乐"
     },
     {
@@ -3875,6 +3947,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 374774,
+      "num": 374774,
+      "word": "汪小姐含金量还在上升",
+      "onboard_time": 1735271841,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374643,
+      "num": 556298,
+      "word": "专家解读四川舰三大特点",
+      "onboard_time": 1735272621,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 374231,
       "num": 321778,
       "word": "于洋喝错孟子义的咖啡",
@@ -4249,6 +4337,14 @@
       "onboard_time": 1735032620,
       "rank": 38,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 340211,
+      "num": 340211,
+      "word": "麦琳退出李行亮新歌出品方",
+      "onboard_time": 1735271901,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 339564,
@@ -4755,14 +4851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301374,
-      "num": 283349,
-      "word": "王俊凯以后都要大概起来",
-      "onboard_time": 1735268779,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 301288,
       "num": 301288,
       "word": "Uzi 一加",
@@ -5107,6 +5195,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 278251,
+      "num": 278251,
+      "word": "目前樊振东4050分世排第6",
+      "onboard_time": 1735271000,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278221,
       "num": 303554,
       "word": "金善旴点到液体外卖勺",
@@ -5193,6 +5289,14 @@
       "onboard_time": 1734865699,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273070,
+      "num": 273070,
+      "word": "WTT",
+      "onboard_time": 1735271421,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 273025,
@@ -5387,6 +5491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261599,
+      "num": 261599,
+      "word": "韩国鼓励公务员穿韩服上班",
+      "onboard_time": 1735271723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 261203,
       "num": 232394,
       "word": "李行亮写歌控诉麦琳",
@@ -5521,6 +5633,14 @@
       "onboard_time": 1735086920,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253332,
+      "num": 253332,
+      "word": "熊猫舰",
+      "onboard_time": 1735272261,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 253149,
@@ -6475,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216384,
+      "num": 216384,
+      "word": "光与夜之恋",
+      "onboard_time": 1735102819,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216238,
       "num": 216238,
       "word": "为什么iPhone信号不如国产手机",
@@ -6657,6 +6785,14 @@
       "onboard_time": 1735184177,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211133,
+      "num": 211133,
+      "word": "新加坡大满贯单打无马龙樊振东陈梦",
+      "onboard_time": 1735271241,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 211113,
@@ -7201,6 +7337,14 @@
       "onboard_time": 1734846498,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199391,
+      "num": 381013,
+      "word": "范丞丞送小小的我电影票",
+      "onboard_time": 1735272142,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 199353,
@@ -8235,6 +8379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 182143,
+      "num": 182143,
+      "word": "时光代理人",
+      "onboard_time": 1735273402,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181938,
       "num": 181938,
       "word": "孙珍妮小狐狸又回来了",
@@ -8265,6 +8417,14 @@
       "onboard_time": 1734851657,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181115,
+      "num": 181115,
+      "word": "步惊云 武则天来了都得自我怀疑",
+      "onboard_time": 1735271241,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 180662,
@@ -8593,6 +8753,14 @@
       "onboard_time": 1734938479,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175092,
+      "num": 175092,
+      "word": "县中学生每天在校超17小时",
+      "onboard_time": 1735272261,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 174781,
@@ -9281,6 +9449,14 @@
       "onboard_time": 1734877641,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "哈圈",
+      "onboard_time": 1735273222,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 164239,
@@ -10307,6 +10483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148891,
+      "num": 393156,
+      "word": "宝石老舅行政处罚详情",
+      "onboard_time": 1735272321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148785,
       "num": 195037,
       "word": "去年春晚你印象最深的歌曲",
@@ -10401,14 +10585,6 @@
       "onboard_time": 1735183937,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 147222,
-      "num": 147222,
-      "word": "光与夜之恋",
-      "onboard_time": 1735102819,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 147185,
@@ -14611,6 +14787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81129,
+      "num": 516256,
+      "word": "上官正义用艰难总结2024",
+      "onboard_time": 1735272321,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81100,
       "num": 228012,
       "word": "KPL",
@@ -16387,6 +16571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50836,
+      "num": 383479,
+      "word": "王家卫拍了繁花2000年的故事",
+      "onboard_time": 1735273521,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50831,
       "num": 50831,
       "word": "俄罗斯帅哥在陕西摊煎饼果子",
@@ -17771,6 +17963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34264,
+      "num": 386955,
+      "word": "于适光影之间年度演讲",
+      "onboard_time": 1735273521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34233,
       "num": 206884,
       "word": "徐娇称抽烟男子要求删视频才道歉",
@@ -18097,6 +18297,14 @@
       "onboard_time": 1734944358,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30796,
+      "num": 489867,
+      "word": "关晓彤分享穿搭心得",
+      "onboard_time": 1735271361,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30703,
@@ -18721,6 +18929,14 @@
       "onboard_time": 1734974893,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23962,
+      "num": 502344,
+      "word": "年终总结是给自己的仪式感",
+      "onboard_time": 1735271302,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 23947,
@@ -19545,6 +19761,14 @@
       "onboard_time": 1735186878,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 12235,
+      "num": 505546,
+      "word": "一图盘点2024年A股热门概念",
+      "onboard_time": 1735272441,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 12228,

@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735270946956,
+  "endTime": 1735273592884,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -75,6 +75,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 11478708,
+      "num": 11478708,
+      "word": "樊振东宣布退出世界排名",
+      "onboard_time": 1735269679,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9365392,
       "num": 9365392,
       "word": "考研政治",
@@ -105,14 +113,6 @@
       "onboard_time": 1733296346,
       "rank": 4,
       "category": "读书作家,艺人"
-    },
-    {
-      "raw_hot": 8096503,
-      "num": 8096503,
-      "word": "樊振东宣布退出世界排名",
-      "onboard_time": 1735269679,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 7935645,
@@ -3387,6 +3387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1223717,
+      "num": 1223717,
+      "word": "樊振东11点11分发博的深意",
+      "onboard_time": 1735271662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1223519,
       "num": 1223519,
       "word": "艾滋夫妇确诊感染后的第20年",
@@ -3808,6 +3816,14 @@
       "word": "黄子韬婚后状态",
       "onboard_time": 1733406741,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1146380,
+      "num": 1146380,
+      "word": "泰勒斯威夫特真的有QQ号",
+      "onboard_time": 1735269320,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4609,14 +4625,6 @@
       "onboard_time": 1734668359,
       "rank": 33,
       "category": "舆论监督,美食"
-    },
-    {
-      "raw_hot": 1050919,
-      "num": 753700,
-      "word": "泰勒斯威夫特真的有QQ号",
-      "onboard_time": 1735269320,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1050173,
@@ -5561,6 +5569,14 @@
       "onboard_time": 1735091657,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 949791,
+      "num": 949791,
+      "word": "樊振东称无力承受不参赛就罚款新规",
+      "onboard_time": 1735271962,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 949372,
@@ -12723,6 +12739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553782,
+      "num": 553782,
+      "word": "四川舰雄起",
+      "onboard_time": 1735271241,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 553322,
       "num": 477932,
       "word": "SM否认金玟庭梁祯元恋情",
@@ -12905,6 +12929,14 @@
       "onboard_time": 1733239886,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 548538,
+      "num": 548538,
+      "word": "李昀锐 就这个顶腮",
+      "onboard_time": 1735271782,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 548249,
@@ -14179,6 +14211,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 513205,
+      "num": 513205,
+      "word": "主人没牵住狗绳致路人车祸身亡",
+      "onboard_time": 1735272201,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512931,
       "num": 512931,
       "word": "小学校长13年受贿949万",
@@ -14451,6 +14491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 500677,
+      "num": 500677,
+      "word": "WTT颁布不参赛就罚款新规",
+      "onboard_time": 1735272261,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500541,
       "num": 500541,
       "word": "TGA官推被中国玩家攻占",
@@ -14609,6 +14657,14 @@
       "onboard_time": 1733403140,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496369,
+      "num": 377240,
+      "word": "肯德基 孙颖莎",
+      "onboard_time": 1735272562,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 496268,
@@ -17371,6 +17427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427304,
+      "num": 510742,
+      "word": "宝石老舅拘留期满后照常录制节目",
+      "onboard_time": 1735272381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427246,
       "num": 427246,
       "word": "王一博 这是啥问题",
@@ -18017,6 +18081,14 @@
       "onboard_time": 1734195677,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414495,
+      "num": 509497,
+      "word": "王俊凯以后都要大概起来",
+      "onboard_time": 1735268779,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 414424,
@@ -19931,6 +20003,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374774,
+      "num": 374774,
+      "word": "汪小姐含金量还在上升",
+      "onboard_time": 1735271841,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374643,
+      "num": 556298,
+      "word": "专家解读四川舰三大特点",
+      "onboard_time": 1735272621,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 374478,
       "num": 267097,
       "word": "快乐再出发",
@@ -21833,6 +21921,14 @@
       "onboard_time": 1733134519,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 340211,
+      "num": 340211,
+      "word": "麦琳退出李行亮新歌出品方",
+      "onboard_time": 1735271901,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 340203,
@@ -24275,14 +24371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301374,
-      "num": 283349,
-      "word": "王俊凯以后都要大概起来",
-      "onboard_time": 1735268779,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 301312,
       "num": 280736,
       "word": "李昀锐晚间报备",
@@ -26003,6 +26091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278251,
+      "num": 278251,
+      "word": "目前樊振东4050分世排第6",
+      "onboard_time": 1735271000,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278246,
       "num": 278246,
       "word": "很多癌症和感染有关",
@@ -26465,6 +26561,14 @@
       "onboard_time": 1733575221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273070,
+      "num": 273070,
+      "word": "WTT",
+      "onboard_time": 1733019138,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 273025,
@@ -27371,6 +27475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261599,
+      "num": 261599,
+      "word": "韩国鼓励公务员穿韩服上班",
+      "onboard_time": 1735271723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 261412,
       "num": 247265,
       "word": "医生眼里真正的生冷食物",
@@ -28073,6 +28185,14 @@
       "onboard_time": 1735086920,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253332,
+      "num": 253332,
+      "word": "熊猫舰",
+      "onboard_time": 1735272261,
+      "rank": 39,
+      "category": "军事"
     },
     {
       "raw_hot": 253274,
@@ -33619,6 +33739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211133,
+      "num": 211133,
+      "word": "新加坡大满贯单打无马龙樊振东陈梦",
+      "onboard_time": 1735271241,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211113,
       "num": 211113,
       "word": "白月梵星定档电话",
@@ -36553,6 +36681,14 @@
       "onboard_time": 1734846498,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199391,
+      "num": 381013,
+      "word": "范丞丞送小小的我电影票",
+      "onboard_time": 1735272142,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 199353,
@@ -41043,14 +41179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186044,
-      "num": 186044,
-      "word": "WTT",
-      "onboard_time": 1733019138,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185988,
       "num": 304675,
       "word": "英语一 图表作文",
@@ -41915,6 +42043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182143,
+      "num": 191011,
+      "word": "时光代理人",
+      "onboard_time": 1734162858,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182041,
       "num": 182041,
       "word": "北京天津的雪基本稳了",
@@ -42113,6 +42249,14 @@
       "onboard_time": 1734486258,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181115,
+      "num": 181115,
+      "word": "步惊云 武则天来了都得自我怀疑",
+      "onboard_time": 1735271241,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 181047,
@@ -43777,6 +43921,14 @@
       "onboard_time": 1733578281,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175092,
+      "num": 175092,
+      "word": "县中学生每天在校超17小时",
+      "onboard_time": 1735272261,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 174986,
@@ -47113,6 +47265,14 @@
       "onboard_time": 1734150500,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "哈圈",
+      "onboard_time": 1732979059,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 164239,
@@ -52323,6 +52483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148891,
+      "num": 393156,
+      "word": "宝石老舅行政处罚详情",
+      "onboard_time": 1735272321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148865,
       "num": 329901,
       "word": "Clearlove将正式成为LPL名人堂成员",
@@ -54017,14 +54185,6 @@
       "onboard_time": 1734672980,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143485,
-      "num": 191011,
-      "word": "时光代理人",
-      "onboard_time": 1734162858,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 143458,
@@ -65643,14 +65803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106607,
-      "num": 106607,
-      "word": "哈圈",
-      "onboard_time": 1732979059,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106597,
       "num": 969021,
       "word": "文化中国行看文博热升温",
@@ -71393,6 +71545,14 @@
       "onboard_time": 1733137399,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 81129,
+      "num": 516256,
+      "word": "上官正义用艰难总结2024",
+      "onboard_time": 1735272321,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81111,
@@ -79163,6 +79323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 50836,
+      "num": 383479,
+      "word": "王家卫拍了繁花2000年的故事",
+      "onboard_time": 1735273521,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50835,
       "num": 224384,
       "word": "皮草公司操作不当致宁夏一地水污染",
@@ -85219,6 +85387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34264,
+      "num": 386955,
+      "word": "于适光影之间年度演讲",
+      "onboard_time": 1735273521,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34233,
       "num": 206884,
       "word": "徐娇称抽烟男子要求删视频才道歉",
@@ -86833,6 +87009,14 @@
       "onboard_time": 1734550571,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 30796,
+      "num": 489867,
+      "word": "关晓彤分享穿搭心得",
+      "onboard_time": 1735271361,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30782,
@@ -89513,6 +89697,14 @@
       "onboard_time": 1733767812,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23962,
+      "num": 502344,
+      "word": "年终总结是给自己的仪式感",
+      "onboard_time": 1735271302,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 23959,
@@ -93977,6 +94169,14 @@
       "onboard_time": 1734292930,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12235,
+      "num": 505546,
+      "word": "一图盘点2024年A股热门概念",
+      "onboard_time": 1735272441,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 12233,
