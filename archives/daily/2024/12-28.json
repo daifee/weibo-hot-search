@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735338038797,
+  "endTime": 1735339088667,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2085107,
-      "num": 372703,
+      "num": 477032,
       "word": "神经系统疾病",
       "onboard_time": 1735313662,
       "rank": 3,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129413,
+      "num": 86040,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127353,
       "num": 162684,
       "word": "第一次见脸这么臭的狗",
@@ -321,14 +329,6 @@
       "onboard_time": 1735296321,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105407,
-      "num": 81295,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 105290,
@@ -451,28 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56263,
-      "num": 112170,
-      "word": "夏以昼呢",
-      "onboard_time": 1735306882,
-      "rank": 34,
-      "category": "游戏"
+      "raw_hot": 66396,
+      "num": 66396,
+      "word": "胡塞武装用高超音速导弹袭击以机场",
+      "onboard_time": 1735335911,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 51328,
-      "num": 51328,
+      "raw_hot": 62301,
+      "num": 62301,
       "word": "F勒布伦评论樊振东",
       "onboard_time": 1735322713,
       "rank": 28,
       "category": "体育"
     },
     {
-      "raw_hot": 51160,
-      "num": 51160,
-      "word": "胡塞武装用高超音速导弹袭击以机场",
-      "onboard_time": 1735335911,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 56263,
+      "num": 112170,
+      "word": "夏以昼呢",
+      "onboard_time": 1735306882,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 50355,
@@ -491,20 +491,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43563,
+      "num": 75019,
+      "word": "中方决定反制美国7家军工企业",
+      "onboard_time": 1735325832,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41027,
       "num": 51226,
       "word": "祁煜扔手镯",
       "onboard_time": 1735309521,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35286,
-      "num": 75019,
-      "word": "中方决定反制美国7家军工企业",
-      "onboard_time": 1735325832,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33950,
@@ -521,6 +521,14 @@
       "onboard_time": 1735324033,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30294,
+      "num": 30294,
+      "word": "武艺 比大学生还清澈",
+      "onboard_time": 1735336150,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 29648,
@@ -587,14 +595,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 23270,
-      "num": 23270,
-      "word": "武艺 比大学生还清澈",
-      "onboard_time": 1735336150,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22264,
       "num": 61237,
       "word": "古人的小夜灯超有氛围感",
@@ -619,20 +619,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21731,
+      "num": 27013,
+      "word": "射雕首支长预告微博战报",
+      "onboard_time": 1735335971,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19814,
       "num": 33701,
       "word": "林俊杰光阴副本MV彩蛋",
       "onboard_time": 1735326972,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17696,
-      "num": 19828,
-      "word": "射雕首支长预告微博战报",
-      "onboard_time": 1735335971,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 17055,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 16241,
-      "num": 19820,
+      "num": 26985,
       "word": "也门胡塞武装袭击以色列机场",
       "onboard_time": 1735336272,
       "rank": 42,
@@ -728,6 +728,14 @@
       "word": "律师解读男子买车投保后故意进鱼塘",
       "onboard_time": 1735329551,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10476,
+      "num": 73008,
+      "word": "杨妞花声音嘶哑念判决书",
+      "onboard_time": 1735338252,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
