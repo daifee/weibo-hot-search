@@ -1,0 +1,410 @@
+{
+  "runTime": 1735334398856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 204342,
+        "num": 204342,
+        "word": "赵露思状态",
+        "onboard_time": 1735309881,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59639,
+        "num": 59639,
+        "word": "影子不会说谎被采取刑事强制措施",
+        "onboard_time": 1735314921,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8578,
+        "num": 55787,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149101,
+        "num": 54709,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52760,
+        "num": 52760,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51907,
+        "num": 51907,
+        "word": "南宁强占人妻区长简历被撤下",
+        "onboard_time": 1735308140,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98800,
+        "num": 51475,
+        "word": "宝石老舅你糊涂啊",
+        "onboard_time": 1735322713,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72835,
+        "num": 50167,
+        "word": "媒体评宝石老舅道歉理由和时机",
+        "onboard_time": 1735327331,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48778,
+        "num": 48778,
+        "word": "韩国人表示上海还是太全面",
+        "onboard_time": 1735313183,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32919,
+        "num": 32919,
+        "word": "外卖小哥两年假摔18次骗保20万",
+        "onboard_time": 1735320135,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48658,
+        "num": 32889,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40380,
+        "num": 32858,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32047,
+        "num": 32047,
+        "word": "F勒布伦评论樊振东",
+        "onboard_time": 1735322713,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30775,
+        "num": 30775,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30352,
+        "num": 30352,
+        "word": "马靖翔C位出道",
+        "onboard_time": 1735315100,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28528,
+        "num": 28528,
+        "word": "恋与深空",
+        "onboard_time": 1735298420,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27985,
+        "num": 27985,
+        "word": "中方决定反制美国7家军工企业",
+        "onboard_time": 1735325832,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24111,
+        "num": 24111,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23780,
+        "num": 23780,
+        "word": "新增19个国家5A级旅游景区",
+        "onboard_time": 1735319535,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 10469,
+        "num": 23645,
+        "word": "2024的这些时刻让爱具象化了",
+        "onboard_time": 1735333031,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288553,
+        "num": 23190,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32262,
+        "num": 23074,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27303,
+        "num": 22736,
+        "word": "安静公主直播",
+        "onboard_time": 1735315701,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 22503,
+        "num": 22503,
+        "word": "自导自演谎称偷拍泛滥35人被抓",
+        "onboard_time": 1735309281,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21827,
+        "num": 21827,
+        "word": "爱奇艺开年大剧三部曲",
+        "onboard_time": 1735314621,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21655,
+        "num": 21655,
+        "word": "影子不会说谎",
+        "onboard_time": 1735312223,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20924,
+        "num": 20924,
+        "word": "知道下乡给老人拍照有多赚吗",
+        "onboard_time": 1735312762,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20290,
+        "num": 20290,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19753,
+        "num": 19753,
+        "word": "官方通报近百只猫在水塘被溺死",
+        "onboard_time": 1735311564,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19622,
+        "num": 19622,
+        "word": "蒋欣路边连吃12只生蚝",
+        "onboard_time": 1735299913,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19160,
+        "num": 19160,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17581,
+        "num": 17581,
+        "word": "张元英提醒柳俊烈主持",
+        "onboard_time": 1735311262,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17393,
+        "num": 17393,
+        "word": "原来白居易还是水利工程设计师",
+        "onboard_time": 1735316059,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17235,
+        "num": 17235,
+        "word": "影子不会说谎非法牟利数百万",
+        "onboard_time": 1735312701,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10628,
+        "num": 17211,
+        "word": "100秒回顾2024美丽中国画卷",
+        "onboard_time": 1735334051,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 17201,
+        "num": 17201,
+        "word": "为销售伪劣仪器炒作偷拍泛滥",
+        "onboard_time": 1735310963,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17142,
+        "num": 17142,
+        "word": "你还记得10年前的世界是什么样吗",
+        "onboard_time": 1735321034,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16381,
+        "num": 16381,
+        "word": "火树",
+        "onboard_time": 1735294219,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15960,
+        "num": 15960,
+        "word": "3名未成年商场点燃画展引发火灾",
+        "onboard_time": 1735323074,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15926,
+        "num": 15926,
+        "word": "樊振东引用霉霉歌词回应退役传闻",
+        "onboard_time": 1735308620,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12383,
+        "num": 15867,
+        "word": "30秒了解四川舰",
+        "onboard_time": 1735332251,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 15844,
+        "num": 15844,
+        "word": "徐娇劝阻抽烟重点是男子确实违法了",
+        "onboard_time": 1735301059,
+        "rank": 41,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 15345,
+        "num": 15345,
+        "word": "终于把马天宇送进组了",
+        "onboard_time": 1735310423,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14766,
+        "num": 14766,
+        "word": "TOP本色出演",
+        "onboard_time": 1735329971,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14724,
+        "num": 14724,
+        "word": "古人的小夜灯超有氛围感",
+        "onboard_time": 1735322233,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 13899,
+        "num": 14721,
+        "word": "宝石老舅被拘前和粉丝合照",
+        "onboard_time": 1735298480,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13351,
+        "num": 14719,
+        "word": "破获涉窃听窃照等违法犯罪系列案件",
+        "onboard_time": 1735310002,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13254,
+        "num": 14718,
+        "word": "外交部回应中方反制美7家军工企业",
+        "onboard_time": 1735327751,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13246,
+        "num": 14715,
+        "word": "战争与和平",
+        "onboard_time": 1735328712,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13238,
+        "num": 14712,
+        "word": "一人一句祝贺四川舰",
+        "onboard_time": 1735329431,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向中吉乌铁路项目启动仪式致贺信#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735331779125,
+  "endTime": 1735334398856,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -17211,6 +17211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72835,
+      "num": 50275,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72617,
       "num": 479272,
       "word": "发物到底是什么",
@@ -17385,14 +17393,6 @@
       "onboard_time": 1735288159,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69967,
-      "num": 50275,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 69410,
@@ -22491,6 +22491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13238,
+      "num": 34610,
+      "word": "一人一句祝贺四川舰",
+      "onboard_time": 1735329431,
+      "rank": 13,
+      "category": "军事"
+    },
+    {
       "raw_hot": 13053,
       "num": 241085,
       "word": "曝啪姐卡哥订婚",
@@ -22547,11 +22555,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12382,
-      "num": 34610,
-      "word": "一人一句祝贺四川舰",
-      "onboard_time": 1735329431,
-      "rank": 13,
+      "raw_hot": 12383,
+      "num": 15867,
+      "word": "30秒了解四川舰",
+      "onboard_time": 1735332251,
+      "rank": 40,
       "category": "军事"
     },
     {
@@ -22763,12 +22771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10628,
+      "num": 17211,
+      "word": "100秒回顾2024美丽中国画卷",
+      "onboard_time": 1735334051,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 10579,
       "num": 119039,
       "word": "怪物猎人旅人过审",
       "onboard_time": 1735058175,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 10469,
+      "num": 23645,
+      "word": "2024的这些时刻让爱具象化了",
+      "onboard_time": 1735333031,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10446,
