@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735292203413,
+  "endTime": 1735294965453,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -67,6 +67,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2203230,
+      "num": 382732,
+      "word": "2年家暴16次男子被判刑11年",
+      "onboard_time": 1735292780,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1969224,
+      "num": 1969224,
+      "word": "花海退役",
+      "onboard_time": 1735292300,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1660421,
       "num": 1660421,
       "word": "樊振东11点11分发博的深意",
@@ -81,6 +97,14 @@
       "onboard_time": 1735266558,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1508480,
+      "num": 1508480,
+      "word": "樊振东陈梦退赛将被罚款5000美元",
+      "onboard_time": 1735289841,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1472366,
@@ -121,14 +145,6 @@
       "onboard_time": 1735278923,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1193271,
-      "num": 1193271,
-      "word": "樊振东陈梦退赛将被罚款5000美元",
-      "onboard_time": 1735289841,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1183591,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632083,
+      "num": 632083,
+      "word": "莫雷加德评论樊振东",
+      "onboard_time": 1735291281,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606846,
       "num": 606846,
       "word": "四川舰下水震撼画面",
@@ -387,14 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 550830,
-      "num": 230798,
-      "word": "莫雷加德评论樊振东",
-      "onboard_time": 1735291281,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 546306,
       "num": 546306,
       "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
@@ -416,6 +432,14 @@
       "word": "女子打造大粉人设骗其他粉丝数百万",
       "onboard_time": 1735263497,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517998,
+      "num": 381064,
+      "word": "贺某阳当庭上诉",
+      "onboard_time": 1735293739,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -563,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412696,
+      "num": 367126,
+      "word": "女子2年被家暴16次案一审宣判",
+      "onboard_time": 1735293620,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407426,
       "num": 407426,
       "word": "复旦教授呼吁年轻人不要抱怨",
@@ -585,6 +617,14 @@
       "onboard_time": 1735225879,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384286,
+      "num": 384286,
+      "word": "火树",
+      "onboard_time": 1735294219,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 375472,
@@ -635,12 +675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352916,
+      "num": 352916,
+      "word": "黄圣依带小儿子参加刘芸生日会",
+      "onboard_time": 1735291880,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344105,
       "num": 344105,
       "word": "李昀锐寸头",
       "onboard_time": 1735290320,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343698,
+      "num": 343698,
+      "word": "爷爷花45元请我吃了最豪华的大餐",
+      "onboard_time": 1735293920,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 340211,
@@ -699,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299069,
+      "num": 299069,
+      "word": "小小的我票房",
+      "onboard_time": 1735291400,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294728,
       "num": 294728,
       "word": "国防时报晒银杏叶",
@@ -747,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285910,
-      "num": 285910,
-      "word": "小小的我票房",
-      "onboard_time": 1735291400,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 286913,
+      "num": 286913,
+      "word": "27岁女子遭前男友泼汽油烧伤致残",
+      "onboard_time": 1735290501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280197,
@@ -817,6 +881,14 @@
       "onboard_time": 1735273642,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256998,
+      "num": 256998,
+      "word": "肖战央视新闻地广",
+      "onboard_time": 1735292240,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 250956,
@@ -899,14 +971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 241596,
-      "num": 229716,
-      "word": "黄圣依带小儿子参加刘芸生日会",
-      "onboard_time": 1735291880,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240608,
       "num": 489523,
       "word": "教育局回应学生上课睡觉罚款教师",
@@ -953,6 +1017,14 @@
       "onboard_time": 1735271241,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235145,
+      "num": 418702,
+      "word": "江苏卫视公布跨年晚会全阵容",
+      "onboard_time": 1735290381,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 234555,
@@ -1048,6 +1120,14 @@
       "word": "AAA颁奖礼",
       "onboard_time": 1735285701,
       "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 208366,
+      "num": 208366,
+      "word": "张元英AAA红毯状态",
+      "onboard_time": 1735293800,
+      "rank": 38,
       "category": "音乐"
     },
     {
@@ -1163,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194538,
+      "num": 194538,
+      "word": "春晚彩排",
+      "onboard_time": 1735294879,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194461,
       "num": 308522,
       "word": "理解易烊千玺演刘春和天天崩溃了",
@@ -1235,6 +1323,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189409,
+      "num": 189409,
+      "word": "五年前的张凌赫古装定妆",
+      "onboard_time": 1735294159,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188306,
+      "num": 226075,
+      "word": "小军迷的歼90图纸具象化了",
+      "onboard_time": 1735292419,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187877,
       "num": 187877,
       "word": "多大的案子啊集齐这么多罪犯",
@@ -1267,20 +1371,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 186495,
-      "num": 418702,
-      "word": "江苏卫视公布跨年晚会全阵容",
-      "onboard_time": 1735290381,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185103,
       "num": 185103,
       "word": "虞书欣晒MV拍摄vlog",
       "onboard_time": 1735277301,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 184479,
+      "num": 184479,
+      "word": "WTT世界排名退出后满足条件可恢复",
+      "onboard_time": 1735294941,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 183319,
@@ -1307,12 +1411,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 181028,
-      "num": 286720,
-      "word": "27岁女子遭前男友泼汽油烧伤致残",
-      "onboard_time": 1735290501,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 179647,
+      "num": 179647,
+      "word": "陆虎现身蛇年央视春晚节目彩排",
+      "onboard_time": 1735294699,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 179310,
@@ -1339,12 +1443,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 176773,
+      "num": 176773,
+      "word": "徐志胜 吃了老板画的饼养了公司一年",
+      "onboard_time": 1735293021,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175092,
       "num": 175092,
       "word": "县中学生每天在校超17小时",
       "onboard_time": 1735272261,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174894,
+      "num": 198729,
+      "word": "李川 喜剧大会年度总冠军",
+      "onboard_time": 1735292060,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 174781,
@@ -1385,6 +1505,14 @@
       "onboard_time": 1735270339,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172799,
+      "num": 375896,
+      "word": "076首舰为何命名为四川舰",
+      "onboard_time": 1735293259,
+      "rank": 13,
+      "category": "军事"
     },
     {
       "raw_hot": 169050,
@@ -1643,6 +1771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138689,
+      "num": 370982,
+      "word": "徐娇事件餐厅曾因劝阻吸烟收差评",
+      "onboard_time": 1735293321,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137814,
       "num": 137814,
       "word": "奥斯卡孙乐言MV甜度",
@@ -1755,6 +1891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129521,
+      "num": 303165,
+      "word": "你如何看待WTT退赛罚款新规",
+      "onboard_time": 1735294040,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129495,
       "num": 402709,
       "word": "律师称拍男子碗里丢烟头或都侵权",
@@ -1777,6 +1921,14 @@
       "onboard_time": 1735220119,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119608,
+      "num": 181304,
+      "word": "韩国经济副总理代行总统职务",
+      "onboard_time": 1735292840,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118361,
@@ -2227,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66195,
+      "num": 357398,
+      "word": "周也烤肠糖葫芦小卖部",
+      "onboard_time": 1735294399,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64108,
       "num": 260585,
       "word": "粉丝偶遇罗渽民",
@@ -2283,6 +2443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57737,
+      "num": 354956,
+      "word": "金晨 每年都有新的反诈KPI",
+      "onboard_time": 1735294280,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57401,
       "num": 69312,
       "word": "这一年别忘了谢谢自己",
@@ -2329,14 +2497,6 @@
       "onboard_time": 1735251672,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53024,
-      "num": 198729,
-      "word": "李川 喜剧大会年度总冠军",
-      "onboard_time": 1735292060,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 51603,
@@ -2483,6 +2643,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33914,
+      "num": 218491,
+      "word": "一锤砸出4000亿",
+      "onboard_time": 1735293980,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 33025,
+      "num": 209109,
+      "word": "第一波升级纯血鸿蒙的人怎么样了",
+      "onboard_time": 1735294399,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 32534,
       "num": 387140,
       "word": "电影误判今日上映",
@@ -2540,7 +2716,7 @@
     },
     {
       "raw_hot": 29683,
-      "num": 1238775,
+      "num": 1575481,
       "word": "回眸2024感受人与自然的和谐之美",
       "onboard_time": 1735290501,
       "rank": 2,
@@ -2715,6 +2891,14 @@
       "category": "科学科普,军事"
     },
     {
+      "raw_hot": 17485,
+      "num": 253147,
+      "word": "李雯雯的年终plog",
+      "onboard_time": 1735293920,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17247,
       "num": 85449,
       "word": "公共场所禁烟不仅靠他律也靠自律",
@@ -2729,6 +2913,14 @@
       "onboard_time": 1735268417,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 16627,
+      "num": 253015,
+      "word": "马苏说中年女演员不下桌早晚能开席",
+      "onboard_time": 1735293739,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 13053,
@@ -2793,6 +2985,14 @@
       "onboard_time": 1735234273,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10496,
+      "num": 207128,
+      "word": "萝卜丸子汤",
+      "onboard_time": 1735294579,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 9871,
