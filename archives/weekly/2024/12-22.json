@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735309228909,
+  "endTime": 1735310311006,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -33,6 +33,14 @@
       "onboard_time": 1735280541,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5655306,
+      "num": 5655306,
+      "word": "赵露思就诊画面",
+      "onboard_time": 1735309881,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 4380840,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1569574,
-      "num": 1127232,
+      "num": 1185151,
       "word": "2女子在急诊救治被2陪同男子家暴",
       "onboard_time": 1735306700,
       "rank": 3,
@@ -401,6 +409,14 @@
       "onboard_time": 1735266558,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1532994,
+      "num": 1532994,
+      "word": "沈星回 难哄",
+      "onboard_time": 1735306281,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 1526933,
@@ -545,14 +561,6 @@
       "onboard_time": 1734931399,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1343333,
-      "num": 1343333,
-      "word": "沈星回 难哄",
-      "onboard_time": 1735306281,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 1329698,
@@ -1609,6 +1617,14 @@
       "onboard_time": 1734834438,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 771593,
+      "num": 771593,
+      "word": "南宁强占人妻区长简历被撤下",
+      "onboard_time": 1735308140,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 768365,
@@ -3643,6 +3659,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 445201,
+      "num": 445201,
+      "word": "奥恰洛夫对樊振东的决定感到意外",
+      "onboard_time": 1735307899,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444237,
       "num": 444237,
       "word": "美航班飞机起落架轮舱内发现尸体",
@@ -5259,6 +5283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 311846,
+      "num": 311846,
+      "word": "现在拨打的电话",
+      "onboard_time": 1735306640,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311774,
       "num": 311774,
       "word": "樊振东王楚钦再迎对决",
@@ -5427,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295852,
+      "num": 295852,
+      "word": "赵今麦高马尾",
+      "onboard_time": 1735307661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295346,
       "num": 251255,
       "word": "心理画像专家刘锋评猎罪图鉴2",
@@ -5449,14 +5489,6 @@
       "onboard_time": 1735264398,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294314,
-      "num": 294314,
-      "word": "奥恰洛夫对樊振东的决定感到意外",
-      "onboard_time": 1735307899,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 294292,
@@ -5673,14 +5705,6 @@
       "onboard_time": 1735099399,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286048,
-      "num": 286048,
-      "word": "赵今麦高马尾",
-      "onboard_time": 1735307661,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 285623,
@@ -6011,14 +6035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267199,
-      "num": 267199,
-      "word": "现在拨打的电话",
-      "onboard_time": 1735306640,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267080,
       "num": 183008,
       "word": "冬至吻戏好瓷实",
@@ -6313,6 +6329,14 @@
       "onboard_time": 1735134378,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253598,
+      "num": 253598,
+      "word": "祁煜扔手镯",
+      "onboard_time": 1735309521,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 253343,
@@ -6865,6 +6889,14 @@
       "onboard_time": 1735009458,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233957,
+      "num": 643462,
+      "word": "自导自演谎称偷拍泛滥35人被抓",
+      "onboard_time": 1735309281,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233738,
@@ -7489,6 +7521,14 @@
       "onboard_time": 1735017019,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215684,
+      "num": 396080,
+      "word": "医院回应2男子急诊室殴打2女患者",
+      "onboard_time": 1735307961,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215585,
@@ -9611,14 +9651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180507,
-      "num": 396080,
-      "word": "医院回应2男子急诊室殴打2女患者",
-      "onboard_time": 1735307961,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180506,
       "num": 180506,
       "word": "继搪瓷盆之后爆眼龙又要断货了",
@@ -9961,6 +9993,14 @@
       "onboard_time": 1735029740,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175256,
+      "num": 175256,
+      "word": "蒋欣 春晚",
+      "onboard_time": 1735309941,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 175255,
@@ -10307,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170181,
+      "num": 164721,
+      "word": "第一次见脸这么臭的狗",
+      "onboard_time": 1735310002,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170018,
       "num": 170018,
       "word": "陈都灵 仙女",
@@ -10579,6 +10627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166510,
+      "num": 166510,
+      "word": "破获涉窃听窃照等违法犯罪系列案件",
+      "onboard_time": 1735310002,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166444,
       "num": 166444,
       "word": "锦衣卫",
@@ -10745,14 +10801,6 @@
       "onboard_time": 1734853939,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164424,
-      "num": 292539,
-      "word": "南宁强占人妻区长简历被撤下",
-      "onboard_time": 1735308140,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 164419,
@@ -11953,6 +12001,14 @@
       "onboard_time": 1734946880,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148066,
+      "num": 287618,
+      "word": "樊振东引用霉霉歌词回应退役传闻",
+      "onboard_time": 1735308620,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 147813,
@@ -17595,6 +17651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 61747,
+      "num": 424376,
+      "word": "花57800元买荐股服务亏了几十万",
+      "onboard_time": 1735308620,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 61711,
       "num": 70795,
       "word": "窗前一部电影二百个梗",
@@ -17625,14 +17689,6 @@
       "onboard_time": 1735108398,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 61222,
-      "num": 287618,
-      "word": "樊振东引用霉霉歌词回应退役传闻",
-      "onboard_time": 1735308620,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 61175,
@@ -17977,14 +18033,6 @@
       "onboard_time": 1735058056,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56159,
-      "num": 392168,
-      "word": "花57800元买荐股服务亏了几十万",
-      "onboard_time": 1735308620,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 55738,
@@ -18529,6 +18577,14 @@
       "onboard_time": 1734862038,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 49002,
+      "num": 331244,
+      "word": "网约车被曝用甩位外挂虚报里程获利",
+      "onboard_time": 1735309161,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 48690,
@@ -19795,6 +19851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35688,
+      "num": 332114,
+      "word": "王鹤棣工作室将维权告黑",
+      "onboard_time": 1735310040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35601,
       "num": 82672,
       "word": "2024哪位运动员鼓舞了你",
@@ -19931,6 +19995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34218,
+      "num": 1214325,
+      "word": "2024中国载人航天名场面",
+      "onboard_time": 1735307420,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 34193,
       "num": 350463,
       "word": "小小的我大V推荐度100%",
@@ -20057,14 +20129,6 @@
       "onboard_time": 1734834316,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32818,
-      "num": 294234,
-      "word": "网约车被曝用甩位外挂虚报里程获利",
-      "onboard_time": 1735309161,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 32757,
@@ -20427,6 +20491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29954,
+      "num": 283659,
+      "word": "药企经销商虚开发票非法利益链曝光",
+      "onboard_time": 1735308680,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29925,
       "num": 132542,
       "word": "预制圣诞照片",
@@ -20571,14 +20643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28964,
-      "num": 283659,
-      "word": "药企经销商虚开发票非法利益链曝光",
-      "onboard_time": 1735308680,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 28937,
       "num": 256832,
       "word": "双向奔赴才是让景于客的最优解",
@@ -20713,14 +20777,6 @@
       "onboard_time": 1734892152,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27480,
-      "num": 1130806,
-      "word": "2024中国载人航天名场面",
-      "onboard_time": 1735307420,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 27240,
@@ -21793,6 +21849,14 @@
       "onboard_time": 1735066211,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16425,
+      "num": 315625,
+      "word": "陈梦现身北京大学",
+      "onboard_time": 1735309822,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 16336,

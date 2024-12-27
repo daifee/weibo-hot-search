@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735309228909,
+  "endTime": 1735310311006,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -33,6 +33,14 @@
       "onboard_time": 1735280541,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5655306,
+      "num": 5655306,
+      "word": "赵露思就诊画面",
+      "onboard_time": 1735309881,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 4380840,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1569574,
-      "num": 1127232,
+      "num": 1185151,
       "word": "2女子在急诊救治被2陪同男子家暴",
       "onboard_time": 1735306700,
       "rank": 3,
@@ -121,6 +129,14 @@
       "onboard_time": 1735266558,
       "rank": 6,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1532994,
+      "num": 1532994,
+      "word": "沈星回 难哄",
+      "onboard_time": 1735306281,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 1515455,
@@ -145,14 +161,6 @@
       "onboard_time": 1735262418,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1343333,
-      "num": 1343333,
-      "word": "沈星回 难哄",
-      "onboard_time": 1735306281,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 1284262,
@@ -369,6 +377,14 @@
       "onboard_time": 1735258338,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 771593,
+      "num": 771593,
+      "word": "南宁强占人妻区长简历被撤下",
+      "onboard_time": 1735308140,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 754743,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445201,
+      "num": 445201,
+      "word": "奥恰洛夫对樊振东的决定感到意外",
+      "onboard_time": 1735307899,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 444765,
       "num": 260798,
       "word": "徐娇仍在店里处理",
@@ -947,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311846,
+      "num": 311846,
+      "word": "现在拨打的电话",
+      "onboard_time": 1735306640,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307363,
       "num": 307363,
       "word": "男子贷款15万后去世银行要求罚息",
@@ -963,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295852,
+      "num": 295852,
+      "word": "赵今麦高马尾",
+      "onboard_time": 1735307661,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294728,
       "num": 294728,
       "word": "国防时报晒银杏叶",
@@ -977,14 +1017,6 @@
       "onboard_time": 1735264398,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 294314,
-      "num": 294314,
-      "word": "奥恰洛夫对樊振东的决定感到意外",
-      "onboard_time": 1735307899,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 294292,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1735290501,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286048,
-      "num": 286048,
-      "word": "赵今麦高马尾",
-      "onboard_time": 1735307661,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 285623,
@@ -1115,14 +1139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267199,
-      "num": 267199,
-      "word": "现在拨打的电话",
-      "onboard_time": 1735306640,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265382,
       "num": 265382,
       "word": "何运晨考了主持人证",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1735292240,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253598,
+      "num": 253598,
+      "word": "祁煜扔手镯",
+      "onboard_time": 1735309521,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 253110,
@@ -1347,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233957,
+      "num": 643462,
+      "word": "自导自演谎称偷拍泛滥35人被抓",
+      "onboard_time": 1735309281,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231279,
       "num": 275374,
       "word": "朱丹 又幸福了",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1735272921,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215684,
+      "num": 396080,
+      "word": "医院回应2男子急诊室殴打2女患者",
+      "onboard_time": 1735307961,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212542,
@@ -1883,14 +1923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 180507,
-      "num": 396080,
-      "word": "医院回应2男子急诊室殴打2女患者",
-      "onboard_time": 1735307961,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179647,
       "num": 179647,
       "word": "陆虎现身蛇年央视春晚节目彩排",
@@ -1936,6 +1968,14 @@
       "word": "徐志胜 吃了老板画的饼养了公司一年",
       "onboard_time": 1735293021,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175256,
+      "num": 175256,
+      "word": "蒋欣 春晚",
+      "onboard_time": 1735309941,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -2019,6 +2059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170181,
+      "num": 164721,
+      "word": "第一次见脸这么臭的狗",
+      "onboard_time": 1735310002,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169050,
       "num": 253556,
       "word": "孙珍妮 这么爽的剧情借我演演",
@@ -2051,6 +2099,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 166510,
+      "num": 166510,
+      "word": "破获涉窃听窃照等违法犯罪系列案件",
+      "onboard_time": 1735310002,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165027,
       "num": 165027,
       "word": "第五人格",
@@ -2073,14 +2129,6 @@
       "onboard_time": 1735267038,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164424,
-      "num": 292539,
-      "word": "南宁强占人妻区长简历被撤下",
-      "onboard_time": 1735308140,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 164254,
@@ -2265,6 +2313,14 @@
       "onboard_time": 1735272321,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148066,
+      "num": 287618,
+      "word": "樊振东引用霉霉歌词回应退役传闻",
+      "onboard_time": 1735308620,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 146968,
@@ -3099,12 +3155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61222,
-      "num": 287618,
-      "word": "樊振东引用霉霉歌词回应退役传闻",
+      "raw_hot": 61747,
+      "num": 424376,
+      "word": "花57800元买荐股服务亏了几十万",
       "onboard_time": 1735308620,
-      "rank": 24,
-      "category": "体育"
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60976,
@@ -3179,14 +3235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 56159,
-      "num": 392168,
-      "word": "花57800元买荐股服务亏了几十万",
-      "onboard_time": 1735308620,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 56058,
       "num": 68906,
       "word": "韩国游客来上海特种兵旅行",
@@ -3249,6 +3297,14 @@
       "onboard_time": 1735230916,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49002,
+      "num": 331244,
+      "word": "网约车被曝用甩位外挂虚报里程获利",
+      "onboard_time": 1735309161,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 48199,
@@ -3427,6 +3483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35688,
+      "num": 332114,
+      "word": "王鹤棣工作室将维权告黑",
+      "onboard_time": 1735310040,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35432,
       "num": 288185,
       "word": "金晨帕丁顿熊斗舞",
@@ -3441,6 +3505,14 @@
       "onboard_time": 1735305140,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 34218,
+      "num": 1214325,
+      "word": "2024中国载人航天名场面",
+      "onboard_time": 1735307420,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 34193,
@@ -3465,14 +3537,6 @@
       "onboard_time": 1735294399,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 32818,
-      "num": 294234,
-      "word": "网约车被曝用甩位外挂虚报里程获利",
-      "onboard_time": 1735309161,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 32534,
@@ -3547,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29954,
+      "num": 283659,
+      "word": "药企经销商虚开发票非法利益链曝光",
+      "onboard_time": 1735308680,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29850,
       "num": 207128,
       "word": "萝卜丸子汤",
@@ -3579,28 +3651,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 28964,
-      "num": 283659,
-      "word": "药企经销商虚开发票非法利益链曝光",
-      "onboard_time": 1735308680,
-      "rank": 28,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 27881,
       "num": 308323,
       "word": "盘点2024人间本色",
       "onboard_time": 1735304599,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27480,
-      "num": 1130806,
-      "word": "2024中国载人航天名场面",
-      "onboard_time": 1735307420,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 27240,
@@ -3841,6 +3897,14 @@
       "onboard_time": 1735293739,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16425,
+      "num": 315625,
+      "word": "陈梦现身北京大学",
+      "onboard_time": 1735309822,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 14126,

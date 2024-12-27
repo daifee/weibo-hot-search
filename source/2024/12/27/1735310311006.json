@@ -1,0 +1,410 @@
+{
+  "runTime": 1735310311006,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5655306,
+        "num": 5655306,
+        "word": "赵露思就诊画面",
+        "onboard_time": 1735309881,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1532994,
+        "num": 1532994,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34218,
+        "num": 1214325,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1556044,
+        "num": 1185151,
+        "word": "2女子在急诊救治被2陪同男子家暴",
+        "onboard_time": 1735306700,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1071957,
+        "num": 1071957,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1474154,
+        "num": 1017801,
+        "word": "樊维秋死刑",
+        "onboard_time": 1735301539,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924727,
+        "num": 924727,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 771593,
+        "num": 771593,
+        "word": "南宁强占人妻区长简历被撤下",
+        "onboard_time": 1735308140,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 650322,
+        "num": 650322,
+        "word": "宝石老舅被拘前和粉丝合照",
+        "onboard_time": 1735298480,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233957,
+        "num": 643462,
+        "word": "自导自演谎称偷拍泛滥35人被抓",
+        "onboard_time": 1735309281,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638486,
+        "num": 638486,
+        "word": "恋与深空",
+        "onboard_time": 1735298420,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 523499,
+        "num": 523499,
+        "word": "金智媛20岁证件照",
+        "onboard_time": 1735305980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462269,
+        "num": 462269,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 445201,
+        "num": 445201,
+        "word": "奥恰洛夫对樊振东的决定感到意外",
+        "onboard_time": 1735307899,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61747,
+        "num": 424376,
+        "word": "花57800元买荐股服务亏了几十万",
+        "onboard_time": 1735308620,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 411125,
+        "num": 411125,
+        "word": "蒋欣路边连吃12只生蚝",
+        "onboard_time": 1735299913,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373236,
+        "num": 373236,
+        "word": "春晚彩排",
+        "onboard_time": 1735294879,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334187,
+        "num": 334187,
+        "word": "生日晚安",
+        "onboard_time": 1735306401,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35688,
+        "num": 332114,
+        "word": "王鹤棣工作室将维权告黑",
+        "onboard_time": 1735310040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49002,
+        "num": 331244,
+        "word": "网约车被曝用甩位外挂虚报里程获利",
+        "onboard_time": 1735309161,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 6283093,
+        "num": 328474,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422353,
+        "num": 325536,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 362510,
+        "num": 323219,
+        "word": "徐娇劝阻抽烟重点是男子确实违法了",
+        "onboard_time": 1735301059,
+        "rank": 22,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 320812,
+        "num": 320812,
+        "word": "2025我的小小世界一定会更好",
+        "onboard_time": 1735302079,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16425,
+        "num": 315625,
+        "word": "陈梦现身北京大学",
+        "onboard_time": 1735309822,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2624507,
+        "num": 313741,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311846,
+        "num": 311846,
+        "word": "现在拨打的电话",
+        "onboard_time": 1735306640,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295852,
+        "num": 295852,
+        "word": "赵今麦高马尾",
+        "onboard_time": 1735307661,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29954,
+        "num": 274481,
+        "word": "药企经销商虚开发票非法利益链曝光",
+        "onboard_time": 1735308680,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 258062,
+        "word": "企业名下50亩土地遭一地多卖",
+        "onboard_time": 1735308561,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254955,
+        "num": 254955,
+        "word": "权志龙朴彩英跳了APT",
+        "onboard_time": 1735296980,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253598,
+        "num": 253598,
+        "word": "祁煜扔手镯",
+        "onboard_time": 1735309521,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246248,
+        "num": 246248,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 218234,
+        "num": 218234,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215684,
+        "num": 215684,
+        "word": "医院回应2男子急诊室殴打2女患者",
+        "onboard_time": 1735307961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215640,
+        "num": 215640,
+        "word": "小小的我开分9.8",
+        "onboard_time": 1735307721,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213281,
+        "num": 213281,
+        "word": "珠海冲撞行人案一审宣判",
+        "onboard_time": 1735301419,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190674,
+        "num": 190674,
+        "word": "孟子义新增了8个代言",
+        "onboard_time": 1735298900,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176062,
+        "num": 176062,
+        "word": "初中生被同学骗喝强碱水食道受损",
+        "onboard_time": 1735296860,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175926,
+        "num": 175926,
+        "word": "0713 春晚",
+        "onboard_time": 1735296321,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175256,
+        "num": 175256,
+        "word": "蒋欣 春晚",
+        "onboard_time": 1735309941,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170323,
+        "num": 170323,
+        "word": "张元英红裙",
+        "onboard_time": 1735307301,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166510,
+        "num": 166510,
+        "word": "破获涉窃听窃照等违法犯罪系列案件",
+        "onboard_time": 1735310002,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170181,
+        "num": 164721,
+        "word": "第一次见脸这么臭的狗",
+        "onboard_time": 1735310002,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161800,
+        "num": 161800,
+        "word": "主播内涵网友不知水洗标被开除",
+        "onboard_time": 1735302740,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 159725,
+        "word": "王楚钦备战乒超第二阶段",
+        "onboard_time": 1735305621,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157853,
+        "num": 157853,
+        "word": "今年多地明确春节可燃放烟花爆竹",
+        "onboard_time": 1735305860,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151477,
+        "num": 151477,
+        "word": "火树",
+        "onboard_time": 1735294219,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "樊振东引用霉霉歌词回应退役传闻",
+        "onboard_time": 1735308620,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146801,
+        "num": 146801,
+        "word": "中共中央政治局召开民主生活会",
+        "onboard_time": 1735302500,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开民主生活会#"
+    }
+  }
+}
