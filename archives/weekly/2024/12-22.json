@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735324953324,
+  "endTime": 1735327036626,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -6419,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255570,
+      "num": 119709,
+      "word": "宝石老舅你糊涂啊",
+      "onboard_time": 1735322713,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255471,
       "num": 338042,
       "word": "外交部回应美国对台军援军售",
@@ -7505,14 +7513,6 @@
       "onboard_time": 1735092677,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 218763,
-      "num": 119709,
-      "word": "宝石老舅你糊涂啊",
-      "onboard_time": 1735322713,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 218672,
@@ -20468,7 +20468,7 @@
     },
     {
       "raw_hot": 32456,
-      "num": 32456,
+      "num": 33702,
       "word": "刘春和无声吃糖",
       "onboard_time": 1735324033,
       "rank": 48,
@@ -21035,6 +21035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28508,
+      "num": 33707,
+      "word": "年度歌单",
+      "onboard_time": 1735325712,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 28305,
       "num": 462192,
       "word": "2024我花得最值的一笔钱",
@@ -21081,6 +21089,14 @@
       "onboard_time": 1735195158,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 28128,
+      "num": 75019,
+      "word": "中方决定反制美国7家军工企业",
+      "onboard_time": 1735325832,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28064,
@@ -21201,6 +21217,14 @@
       "onboard_time": 1734805453,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26873,
+      "num": 33706,
+      "word": "AAA颁奖典礼",
+      "onboard_time": 1735326311,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 26780,
@@ -21747,6 +21771,14 @@
       "category": "综艺,数码"
     },
     {
+      "raw_hot": 22038,
+      "num": 33703,
+      "word": "盒子里的猫",
+      "onboard_time": 1735325292,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21913,
       "num": 206935,
       "word": "桃花坞反转短片放映会",
@@ -21843,6 +21875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20252,
+      "num": 33701,
+      "word": "反复欣赏周深的记忆商店",
+      "onboard_time": 1735326852,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20216,
       "num": 140217,
       "word": "浙江卫视跨年直播",
@@ -21873,6 +21913,14 @@
       "onboard_time": 1734941058,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 19814,
+      "num": 33701,
+      "word": "林俊杰光阴副本MV彩蛋",
+      "onboard_time": 1735326972,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 19720,
