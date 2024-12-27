@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735339088667,
+  "endTime": 1735341656422,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2085107,
-      "num": 477032,
+      "num": 781949,
       "word": "神经系统疾病",
       "onboard_time": 1735313662,
       "rank": 3,
@@ -83,12 +83,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340732,
+      "num": 141298,
+      "word": "宝石老舅你糊涂啊",
+      "onboard_time": 1735322713,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321108,
       "num": 321108,
       "word": "韩国人表示上海还是太全面",
       "onboard_time": 1735313183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299867,
+      "num": 134082,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 293700,
@@ -137,14 +153,6 @@
       "onboard_time": 1735314921,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255570,
-      "num": 119709,
-      "word": "宝石老舅你糊涂啊",
-      "onboard_time": 1735322713,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 236736,
@@ -251,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129413,
-      "num": 86040,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127353,
       "num": 162684,
       "word": "第一次见脸这么臭的狗",
@@ -291,12 +291,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122422,
+      "num": 122422,
+      "word": "外卖小哥两年假摔18次骗保20万",
+      "onboard_time": 1735320135,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121543,
+      "num": 121543,
+      "word": "3名未成年商场点燃画展引发火灾",
+      "onboard_time": 1735323074,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120754,
+      "num": 120754,
+      "word": "胡塞武装用高超音速导弹袭击以机场",
+      "onboard_time": 1735335911,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120675,
       "num": 277925,
       "word": "为了卖设备假装住酒店被偷拍",
       "onboard_time": 1735312163,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114764,
+      "num": 114764,
+      "word": "F勒布伦评论樊振东",
+      "onboard_time": 1735322713,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 111881,
@@ -435,14 +467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83101,
-      "num": 83101,
-      "word": "外卖小哥两年假摔18次骗保20万",
-      "onboard_time": 1735320135,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67975,
       "num": 67975,
       "word": "鱿鱼游戏2 圣父男主",
@@ -451,20 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66396,
-      "num": 66396,
-      "word": "胡塞武装用高超音速导弹袭击以机场",
-      "onboard_time": 1735335911,
-      "rank": 12,
+      "raw_hot": 67685,
+      "num": 75019,
+      "word": "中方决定反制美国7家军工企业",
+      "onboard_time": 1735325832,
+      "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 62301,
-      "num": 62301,
-      "word": "F勒布伦评论樊振东",
-      "onboard_time": 1735322713,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 62997,
+      "num": 62997,
+      "word": "武艺 比大学生还清澈",
+      "onboard_time": 1735336150,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 56263,
@@ -491,28 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43563,
-      "num": 75019,
-      "word": "中方决定反制美国7家军工企业",
-      "onboard_time": 1735325832,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 41027,
       "num": 51226,
       "word": "祁煜扔手镯",
       "onboard_time": 1735309521,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33950,
-      "num": 33950,
-      "word": "3名未成年商场点燃画展引发火灾",
-      "onboard_time": 1735323074,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32456,
@@ -523,11 +531,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30294,
-      "num": 30294,
-      "word": "武艺 比大学生还清澈",
-      "onboard_time": 1735336150,
-      "rank": 29,
+      "raw_hot": 32170,
+      "num": 45527,
+      "word": "射雕首支长预告微博战报",
+      "onboard_time": 1735335971,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 30735,
+      "num": 45501,
+      "word": "起猛了看到林黛玉演喜剧了",
+      "onboard_time": 1735340473,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 28508,
-      "num": 33707,
+      "num": 45460,
       "word": "年度歌单",
       "onboard_time": 1735325712,
       "rank": 31,
@@ -595,6 +611,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 23858,
+      "num": 45479,
+      "word": "也门胡塞武装袭击以色列机场",
+      "onboard_time": 1735336272,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22264,
       "num": 61237,
       "word": "古人的小夜灯超有氛围感",
@@ -619,12 +643,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21731,
-      "num": 27013,
-      "word": "射雕首支长预告微博战报",
-      "onboard_time": 1735335971,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 21035,
+      "num": 45449,
+      "word": "TES挺进德杯决赛",
+      "onboard_time": 1735341255,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 20188,
+      "num": 45420,
+      "word": "电车被邻车引燃遭拒赔后续",
+      "onboard_time": 1735341133,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19814,
@@ -641,14 +673,6 @@
       "onboard_time": 1735324633,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 16241,
-      "num": 26985,
-      "word": "也门胡塞武装袭击以色列机场",
-      "onboard_time": 1735336272,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15689,
