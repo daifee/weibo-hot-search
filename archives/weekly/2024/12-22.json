@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735304231066,
+  "endTime": 1735305969135,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -81,6 +81,14 @@
       "onboard_time": 1735255576,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2693949,
+      "num": 2693949,
+      "word": "樊维秋死刑",
+      "onboard_time": 1735301539,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2662899,
@@ -521,14 +529,6 @@
       "onboard_time": 1735052541,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1348673,
-      "num": 1348673,
-      "word": "樊维秋死刑",
-      "onboard_time": 1735301539,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1348127,
@@ -1163,6 +1163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 933093,
+      "num": 933093,
+      "word": "明年9月EXO全员回归",
+      "onboard_time": 1735304480,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 930624,
       "num": 930624,
       "word": "主人没牵住狗绳致路人车祸身亡",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1734939137,
       "rank": 9,
       "category": "民生新闻,辟谣/通报"
+    },
+    {
+      "raw_hot": 831972,
+      "num": 831972,
+      "word": "徐娇劝阻抽烟重点是男子确实违法了",
+      "onboard_time": 1735301059,
+      "rank": 7,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 829642,
@@ -1771,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 725642,
+      "num": 725642,
+      "word": "2025我的小小世界一定会更好",
+      "onboard_time": 1735302079,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 725547,
       "num": 458018,
       "word": "爷爷花45元请我吃了最豪华的大餐",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1735215079,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 693215,
-      "num": 693215,
-      "word": "徐娇劝阻抽烟重点是男子确实违法了",
-      "onboard_time": 1735301059,
-      "rank": 7,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 690699,
@@ -3107,12 +3123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504449,
+      "num": 361601,
+      "word": "主播内涵网友不知水洗标被开除",
+      "onboard_time": 1735302740,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
       "onboard_time": 1734885316,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 493470,
+      "num": 493470,
+      "word": "宝石老舅被拘前和粉丝合照",
+      "onboard_time": 1735298480,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 491376,
@@ -3939,28 +3971,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 407646,
-      "num": 428854,
-      "word": "2025我的小小世界一定会更好",
-      "onboard_time": 1735302079,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 405852,
       "num": 205572,
       "word": "搜狐时尚盛典",
       "onboard_time": 1734852258,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 404558,
-      "num": 404558,
-      "word": "宝石老舅被拘前和粉丝合照",
-      "onboard_time": 1735298480,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 403520,
@@ -5603,6 +5619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285623,
+      "num": 255958,
+      "word": "黎深摘眼镜",
+      "onboard_time": 1735304420,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284736,
       "num": 284736,
       "word": "十个勤天直播",
@@ -5793,6 +5817,14 @@
       "onboard_time": 1735185018,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 274656,
+      "num": 253486,
+      "word": "恋与深空热吻卡",
+      "onboard_time": 1735304960,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 274013,
@@ -6233,6 +6265,14 @@
       "onboard_time": 1734853637,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253110,
+      "num": 253110,
+      "word": "樊振东回复郑思维",
+      "onboard_time": 1735303941,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 253051,
@@ -6865,6 +6905,14 @@
       "onboard_time": 1735046542,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229032,
+      "num": 229032,
+      "word": "恋与深空新PV",
+      "onboard_time": 1735304781,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 228293,
@@ -8179,6 +8227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198572,
+      "num": 198572,
+      "word": "王楚钦备战乒超第二阶段",
+      "onboard_time": 1735305621,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198492,
       "num": 458512,
       "word": "没有真正的自发热内衣",
@@ -8675,6 +8731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191878,
+      "num": 315042,
+      "word": "初中生被同学骗喝强碱水食道受损",
+      "onboard_time": 1735296860,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191824,
       "num": 191824,
       "word": "网络大电影",
@@ -8923,6 +8987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188872,
+      "num": 188872,
+      "word": "EXO",
+      "onboard_time": 1735305500,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188861,
       "num": 188861,
       "word": "射雕战争镜头",
@@ -8961,6 +9033,14 @@
       "onboard_time": 1735190059,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 188520,
+      "num": 188520,
+      "word": "在四川熊猫也翻不过蜀道山",
+      "onboard_time": 1735303041,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188421,
@@ -9491,6 +9571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179275,
+      "num": 179275,
+      "word": "联合杯中国1比0巴西",
+      "onboard_time": 1735305320,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179254,
       "num": 179254,
       "word": "第一次见这么i的剧组",
@@ -9513,14 +9601,6 @@
       "onboard_time": 1735015219,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179116,
-      "num": 361601,
-      "word": "主播内涵网友不知水洗标被开除",
-      "onboard_time": 1735302740,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178938,
@@ -9731,14 +9811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 175502,
-      "num": 175502,
-      "word": "在四川熊猫也翻不过蜀道山",
-      "onboard_time": 1735303041,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175347,
       "num": 175347,
       "word": "马丽问蒋欣减肥秘籍",
@@ -9796,7 +9868,7 @@
     },
     {
       "raw_hot": 174511,
-      "num": 404833,
+      "num": 533361,
       "word": "律师解读婴儿随母姓医院让签免责书",
       "onboard_time": 1735301059,
       "rank": 14,
@@ -9849,14 +9921,6 @@
       "onboard_time": 1734785179,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173449,
-      "num": 173449,
-      "word": "樊振东回复郑思维",
-      "onboard_time": 1735303941,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 173317,
@@ -13011,6 +13075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131377,
+      "num": 188666,
+      "word": "电梯战神的含金量还在下降",
+      "onboard_time": 1735304540,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131246,
       "num": 222415,
       "word": "王一博北京云蒙峡挑战攀冰",
@@ -13241,6 +13313,14 @@
       "onboard_time": 1734846618,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 128467,
+      "num": 261138,
+      "word": "阿塞拜疆航空声明",
+      "onboard_time": 1735303279,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128439,
@@ -15483,6 +15563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95121,
+      "num": 258300,
+      "word": "花17万买大牌小样收到一箱纸",
+      "onboard_time": 1735304781,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95051,
       "num": 241871,
       "word": "宋亚轩诡异的抽象",
@@ -16899,6 +16987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68485,
+      "num": 529114,
+      "word": "阿航坠机仍有两大谜团待解",
+      "onboard_time": 1735305020,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68470,
       "num": 184238,
       "word": "汪顺回应是否参加洛杉矶奥运会",
@@ -17193,6 +17289,14 @@
       "onboard_time": 1735045940,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63835,
+      "num": 260292,
+      "word": "越南新娘出走男子追讨20万媒人费",
+      "onboard_time": 1735304540,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63595,
@@ -18035,6 +18139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51555,
+      "num": 373834,
+      "word": "陕西一地发生原油泄漏事件",
+      "onboard_time": 1735305140,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51439,
       "num": 206597,
       "word": "专家说目标没有达成就修改目标",
@@ -18681,6 +18793,14 @@
       "onboard_time": 1734800895,
       "rank": 47,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 43648,
+      "num": 517223,
+      "word": "多方回应初中生被同学骗喝强碱水",
+      "onboard_time": 1735305140,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43618,
@@ -19452,7 +19572,7 @@
     },
     {
       "raw_hot": 35854,
-      "num": 405516,
+      "num": 543403,
       "word": "光夜借钱宠天刀",
       "onboard_time": 1735302740,
       "rank": 39,
@@ -19497,6 +19617,14 @@
       "onboard_time": 1735295660,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 35665,
+      "num": 521928,
+      "word": "今年多地明确春节可燃放烟花爆竹",
+      "onboard_time": 1735305860,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35601,
@@ -19649,6 +19777,14 @@
       "onboard_time": 1735053020,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33982,
+      "num": 255337,
+      "word": "24年小米高端手机全球销量超千万",
+      "onboard_time": 1735305140,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 33914,
@@ -20075,6 +20211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30249,
+      "num": 261494,
+      "word": "汪顺发九宫格告别2024",
+      "onboard_time": 1735296921,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30228,
       "num": 244060,
       "word": "一朵来自长白山的雪花",
@@ -20337,6 +20481,14 @@
       "onboard_time": 1734811450,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 27881,
+      "num": 257846,
+      "word": "盘点2024人间本色",
+      "onboard_time": 1735304599,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27876,
@@ -21297,6 +21449,22 @@
       "onboard_time": 1735157290,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17757,
+      "num": 259965,
+      "word": "超三成婴幼儿家庭有入托需求",
+      "onboard_time": 1735305921,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17607,
+      "num": 259133,
+      "word": "考研失败为什么对你影响那么大",
+      "onboard_time": 1735305320,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 17506,
