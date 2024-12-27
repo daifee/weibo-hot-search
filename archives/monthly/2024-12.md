@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/27 17:22:47
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/27 17:36:43
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ iG官宣新阵容（热度：1210883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%99%88%E6%A2%A6%E9%80%80%E8%B5%9B%E5%B0%86%E8%A2%AB%E7%BD%9A%E6%AC%BE5000%E7%BE%8E%E5%85%83%23" target="weibo">
+樊振东陈梦退赛将被罚款5000美元（热度：1193271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E6%99%9A%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%AD%99%E4%BF%AA%23" target="weibo">
 甄嬛传晚会官宣孙俪（热度：1193023）
 </a>
@@ -3293,12 +3299,6 @@ zeus（热度：1095936）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2384%E5%B2%81%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%BB%8E%E6%A5%BC%E6%A2%AF%E6%91%94%E4%B8%8B%E8%87%80%E9%83%A8%E5%8F%97%E4%BC%A4%23" target="weibo">
 84岁佩洛西从楼梯摔下臀部受伤（热度：1083086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%99%88%E6%A2%A6%E9%80%80%E8%B5%9B%E5%B0%86%E8%A2%AB%E7%BD%9A%E6%AC%BE5000%E7%BE%8E%E5%85%83%23" target="weibo">
-樊振东陈梦退赛将被罚款5000美元（热度：1082965）
 </a>
 </li>
 

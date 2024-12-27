@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735291367608,
+  "endTime": 1735292203413,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -675,6 +675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1193271,
+      "num": 1193271,
+      "word": "樊振东陈梦退赛将被罚款5000美元",
+      "onboard_time": 1735289841,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1185678,
       "num": 1189708,
       "word": "疑似山姆代购蹲厕所分装蛋糕",
@@ -817,14 +825,6 @@
       "onboard_time": 1734946278,
       "rank": 31,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1082965,
-      "num": 1082965,
-      "word": "樊振东陈梦退赛将被罚款5000美元",
-      "onboard_time": 1735289841,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1082257,
@@ -2659,6 +2659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 550830,
+      "num": 230798,
+      "word": "莫雷加德评论樊振东",
+      "onboard_time": 1735291281,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550110,
       "num": 550110,
       "word": "塔斯汀吃出生肉当事人称已获赔偿",
@@ -3635,11 +3643,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 419707,
+      "num": 419707,
+      "word": "周雨彤易烊千玺感情戏",
+      "onboard_time": 1735289900,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 418766,
       "num": 418766,
       "word": "全红婵夺金当地长出一个奥运村",
       "onboard_time": 1734848478,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 418350,
+      "num": 418350,
+      "word": "陈梦回应退出世界排名",
+      "onboard_time": 1735291042,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -3681,6 +3705,14 @@
       "onboard_time": 1735120338,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 415209,
+      "num": 415209,
+      "word": "乒坛群星祝福樊振东",
+      "onboard_time": 1735290921,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 414617,
@@ -4275,14 +4307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 367751,
-      "num": 367751,
-      "word": "周雨彤易烊千玺感情戏",
-      "onboard_time": 1735289900,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 367696,
       "num": 126977,
       "word": "家暴男与家人转移超400万婚后财产",
@@ -4539,8 +4563,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341994,
-      "num": 341994,
+      "raw_hot": 344105,
+      "num": 344105,
       "word": "李昀锐寸头",
       "onboard_time": 1735290320,
       "rank": 11,
@@ -5235,6 +5259,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 290482,
+      "num": 290482,
+      "word": "樊振东陈梦为什么不要世界排名了",
+      "onboard_time": 1735290981,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289915,
       "num": 184295,
       "word": "宝石老舅称已接受行政处罚",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1735099399,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285910,
+      "num": 285910,
+      "word": "小小的我票房",
+      "onboard_time": 1735291400,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 284736,
@@ -6091,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247962,
+      "num": 247962,
+      "word": "网传王鹤棣主演咸鱼飞升",
+      "onboard_time": 1735292181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247947,
       "num": 247947,
       "word": "ITZY 申留真",
@@ -6249,6 +6297,14 @@
       "onboard_time": 1735273521,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241596,
+      "num": 229716,
+      "word": "黄圣依带小儿子参加刘芸生日会",
+      "onboard_time": 1735291880,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 241132,
@@ -6515,6 +6571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230553,
+      "num": 230553,
+      "word": "小小的我 没有任何易烊千玺的影子",
+      "onboard_time": 1735290800,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230386,
       "num": 435100,
       "word": "朱婷世俱杯夺冠",
@@ -6673,6 +6737,14 @@
       "onboard_time": 1734790820,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 224647,
+      "num": 275803,
+      "word": "KPL",
+      "onboard_time": 1734869360,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 224466,
@@ -7659,14 +7731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201461,
-      "num": 201461,
-      "word": "陈梦回应退出世界排名",
-      "onboard_time": 1735291042,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201117,
       "num": 201117,
       "word": "世俱杯",
@@ -7713,14 +7777,6 @@
       "onboard_time": 1735087458,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199970,
-      "num": 286562,
-      "word": "樊振东陈梦为什么不要世界排名了",
-      "onboard_time": 1735290981,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 199969,
@@ -7921,6 +7977,14 @@
       "onboard_time": 1734868939,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197146,
+      "num": 197146,
+      "word": "任嘉伦到底有多爱珍珠",
+      "onboard_time": 1735291760,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 196967,
@@ -8427,6 +8491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "咸鱼飞升",
+      "onboard_time": 1735291760,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189947,
       "num": 189947,
       "word": "易烊千玺唯一的声源不再来自身体",
@@ -8643,14 +8715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187702,
-      "num": 187702,
-      "word": "莫雷加德评论樊振东",
-      "onboard_time": 1735291281,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "王一博有声歌词海报",
@@ -8672,14 +8736,6 @@
       "word": "电影小小的我终极预告",
       "onboard_time": 1735008738,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 187348,
-      "num": 187348,
-      "word": "小小的我 没有任何易烊千玺的影子",
-      "onboard_time": 1735290800,
-      "rank": 45,
       "category": "电影"
     },
     {
@@ -8748,7 +8804,7 @@
     },
     {
       "raw_hot": 186495,
-      "num": 289668,
+      "num": 418702,
       "word": "江苏卫视公布跨年晚会全阵容",
       "onboard_time": 1735290381,
       "rank": 15,
@@ -8977,6 +9033,14 @@
       "onboard_time": 1734851657,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181028,
+      "num": 286720,
+      "word": "27岁女子遭前男友泼汽油烧伤致残",
+      "onboard_time": 1735290501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180662,
@@ -9329,6 +9393,14 @@
       "onboard_time": 1735262598,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174659,
+      "num": 289771,
+      "word": "易烊千玺开机那天摇摇晃晃地出现在片场",
+      "onboard_time": 1735291760,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 174508,
@@ -10153,14 +10225,6 @@
       "onboard_time": 1734928879,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163082,
-      "num": 289787,
-      "word": "乒坛群星祝福樊振东",
-      "onboard_time": 1735290921,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 162963,
@@ -14019,6 +14083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109642,
+      "num": 197288,
+      "word": "话梅冰美式",
+      "onboard_time": 1735292120,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109377,
       "num": 240236,
       "word": "2任县委书记放任劣质米掺进学生餐",
@@ -15563,14 +15635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81100,
-      "num": 228012,
-      "word": "KPL",
-      "onboard_time": 1734869360,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80733,
       "num": 213028,
       "word": "鱿鱼游戏导演说创作初衷是社会平衡",
@@ -16851,6 +16915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 59023,
+      "num": 289315,
+      "word": "TT对战TES",
+      "onboard_time": 1735291161,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58871,
       "num": 180853,
       "word": "考研像做了场大梦",
@@ -17243,6 +17315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53024,
+      "num": 198729,
+      "word": "李川 喜剧大会年度总冠军",
+      "onboard_time": 1735292060,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53010,
       "num": 207990,
       "word": "王者新赛季四款福利皮肤",
@@ -17571,14 +17651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 48622,
-      "num": 286720,
-      "word": "27岁女子遭前男友泼汽油烧伤致残",
-      "onboard_time": 1735290501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48607,
       "num": 48607,
       "word": "张兰否认向太节目上内涵她",
@@ -17657,14 +17729,6 @@
       "onboard_time": 1734844578,
       "rank": 38,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 47799,
-      "num": 289315,
-      "word": "TT对战TES",
-      "onboard_time": 1735291161,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 47717,
@@ -18443,6 +18507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38622,
+      "num": 288976,
+      "word": "快来交出你的2024年度拼单好物",
+      "onboard_time": 1735289960,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 38514,
       "num": 265930,
       "word": "当地回应公司通知不加班罚款50元",
@@ -18987,14 +19059,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 33147,
-      "num": 288674,
-      "word": "快来交出你的2024年度拼单好物",
-      "onboard_time": 1735289960,
-      "rank": 19,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 32890,
       "num": 241029,
       "word": "她力量年度作品盘点",
@@ -19129,6 +19193,14 @@
       "onboard_time": 1734869179,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31777,
+      "num": 289835,
+      "word": "潜水遇到强流该如何应对",
+      "onboard_time": 1735290561,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 31725,
@@ -19409,6 +19481,14 @@
       "onboard_time": 1735215140,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29683,
+      "num": 1238775,
+      "word": "回眸2024感受人与自然的和谐之美",
+      "onboard_time": 1735290501,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29443,
@@ -19945,14 +20025,6 @@
       "onboard_time": 1735120818,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24567,
-      "num": 1238775,
-      "word": "回眸2024感受人与自然的和谐之美",
-      "onboard_time": 1735290501,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24167,
@@ -20497,14 +20569,6 @@
       "onboard_time": 1734967759,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17867,
-      "num": 289176,
-      "word": "潜水遇到强流该如何应对",
-      "onboard_time": 1735290561,
-      "rank": 17,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 17759,

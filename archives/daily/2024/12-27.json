@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735291367608,
+  "endTime": 1735292203413,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1193271,
+      "num": 1193271,
+      "word": "樊振东陈梦退赛将被罚款5000美元",
+      "onboard_time": 1735289841,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1183591,
       "num": 1183591,
       "word": "076",
@@ -153,14 +161,6 @@
       "onboard_time": 1735266318,
       "rank": 5,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1082965,
-      "num": 1082965,
-      "word": "樊振东陈梦退赛将被罚款5000美元",
-      "onboard_time": 1735289841,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 998279,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 550830,
+      "num": 230798,
+      "word": "莫雷加德评论樊振东",
+      "onboard_time": 1735291281,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546306,
       "num": 546306,
       "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
@@ -523,6 +531,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 419707,
+      "num": 419707,
+      "word": "周雨彤易烊千玺感情戏",
+      "onboard_time": 1735289900,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 418350,
+      "num": 418350,
+      "word": "陈梦回应退出世界排名",
+      "onboard_time": 1735291042,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 415209,
+      "num": 415209,
+      "word": "乒坛群星祝福樊振东",
+      "onboard_time": 1735290921,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414495,
       "num": 509497,
       "word": "王俊凯以后都要大概起来",
@@ -595,14 +627,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 367751,
-      "num": 367751,
-      "word": "周雨彤易烊千玺感情戏",
-      "onboard_time": 1735289900,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 362705,
       "num": 362705,
       "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
@@ -611,8 +635,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341994,
-      "num": 341994,
+      "raw_hot": 344105,
+      "num": 344105,
       "word": "李昀锐寸头",
       "onboard_time": 1735290320,
       "rank": 11,
@@ -699,6 +723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 290482,
+      "num": 290482,
+      "word": "樊振东陈梦为什么不要世界排名了",
+      "onboard_time": 1735290981,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289915,
       "num": 184295,
       "word": "宝石老舅称已接受行政处罚",
@@ -713,6 +745,14 @@
       "onboard_time": 1735271000,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285910,
+      "num": 285910,
+      "word": "小小的我票房",
+      "onboard_time": 1735291400,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 280197,
@@ -811,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247962,
+      "num": 247962,
+      "word": "网传王鹤棣主演咸鱼飞升",
+      "onboard_time": 1735292181,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246944,
       "num": 246944,
       "word": "天生花脸是缺陷也是勋章",
@@ -849,6 +897,14 @@
       "onboard_time": 1735273521,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241596,
+      "num": 229716,
+      "word": "黄圣依带小儿子参加刘芸生日会",
+      "onboard_time": 1735291880,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 240608,
@@ -923,12 +979,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230553,
+      "num": 230553,
+      "word": "小小的我 没有任何易烊千玺的影子",
+      "onboard_time": 1735290800,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225445,
       "num": 286938,
       "word": "樊振东引用霉霉歌词",
       "onboard_time": 1735289060,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224647,
+      "num": 275803,
+      "word": "KPL",
+      "onboard_time": 1735291521,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 220906,
@@ -1019,22 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201461,
-      "num": 201461,
-      "word": "陈梦回应退出世界排名",
-      "onboard_time": 1735291042,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199970,
-      "num": 286562,
-      "word": "樊振东陈梦为什么不要世界排名了",
-      "onboard_time": 1735290981,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199743,
       "num": 199743,
       "word": "高瀚宇一个人背两个队友",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1735276041,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197146,
+      "num": 197146,
+      "word": "任嘉伦到底有多爱珍珠",
+      "onboard_time": 1735291760,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 196886,
@@ -1139,6 +1203,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191947,
+      "num": 191947,
+      "word": "国色芳华",
+      "onboard_time": 1735291701,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189996,
+      "num": 189996,
+      "word": "咸鱼飞升",
+      "onboard_time": 1735291760,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189735,
       "num": 189735,
       "word": "王俊凯新歌制作人曲都是自己",
@@ -1163,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187702,
-      "num": 187702,
-      "word": "莫雷加德评论樊振东",
-      "onboard_time": 1735291281,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187662,
       "num": 187662,
       "word": "王一博有声歌词海报",
@@ -1187,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187348,
-      "num": 187348,
-      "word": "小小的我 没有任何易烊千玺的影子",
-      "onboard_time": 1735290800,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186908,
       "num": 186908,
       "word": "成都一年新增11万艾滋病人系谣言",
@@ -1204,7 +1268,7 @@
     },
     {
       "raw_hot": 186495,
-      "num": 289668,
+      "num": 418702,
       "word": "江苏卫视公布跨年晚会全阵容",
       "onboard_time": 1735290381,
       "rank": 15,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1735255995,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181028,
+      "num": 286720,
+      "word": "27岁女子遭前男友泼汽油烧伤致残",
+      "onboard_time": 1735290501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179310,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1735262598,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 174659,
+      "num": 289771,
+      "word": "易烊千玺开机那天摇摇晃晃地出现在片场",
+      "onboard_time": 1735291760,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 174299,
@@ -1377,14 +1457,6 @@
       "onboard_time": 1735267158,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163082,
-      "num": 289787,
-      "word": "乒坛群星祝福樊振东",
-      "onboard_time": 1735290921,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 161597,
@@ -1745,6 +1817,14 @@
       "onboard_time": 1735226957,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109642,
+      "num": 197288,
+      "word": "话梅冰美式",
+      "onboard_time": 1735292120,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 107957,
@@ -2187,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 59023,
+      "num": 289315,
+      "word": "TT对战TES",
+      "onboard_time": 1735291161,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58187,
       "num": 58187,
       "word": "期待2025",
@@ -2243,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53024,
+      "num": 198729,
+      "word": "李川 喜剧大会年度总冠军",
+      "onboard_time": 1735292060,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51603,
       "num": 386955,
       "word": "于适光影之间年度演讲",
@@ -2267,28 +2363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48622,
-      "num": 286720,
-      "word": "27岁女子遭前男友泼汽油烧伤致残",
-      "onboard_time": 1735290501,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47922,
       "num": 47922,
       "word": "多方回应广东两姐妹遭杀害传言",
       "onboard_time": 1735226359,
       "rank": 45,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 47799,
-      "num": 289315,
-      "word": "TT对战TES",
-      "onboard_time": 1735291161,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 47291,
@@ -2363,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38622,
+      "num": 288976,
+      "word": "快来交出你的2024年度拼单好物",
+      "onboard_time": 1735289960,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 36677,
       "num": 36677,
       "word": "莫桑比克1500多名囚犯袭警夺枪越狱",
@@ -2395,14 +2483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33147,
-      "num": 288674,
-      "word": "快来交出你的2024年度拼单好物",
-      "onboard_time": 1735289960,
-      "rank": 19,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 32534,
       "num": 387140,
       "word": "电影误判今日上映",
@@ -2417,6 +2497,14 @@
       "onboard_time": 1735281621,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31777,
+      "num": 289835,
+      "word": "潜水遇到强流该如何应对",
+      "onboard_time": 1735290561,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 31029,
@@ -2449,6 +2537,14 @@
       "onboard_time": 1735242071,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29683,
+      "num": 1238775,
+      "word": "回眸2024感受人与自然的和谐之美",
+      "onboard_time": 1735290501,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29443,
@@ -2547,14 +2643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24567,
-      "num": 1238775,
-      "word": "回眸2024感受人与自然的和谐之美",
-      "onboard_time": 1735290501,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23702,
       "num": 408480,
       "word": "极氪让电车过冬更有底气",
@@ -2625,14 +2713,6 @@
       "onboard_time": 1735284800,
       "rank": 29,
       "category": "科学科普,军事"
-    },
-    {
-      "raw_hot": 17867,
-      "num": 289176,
-      "word": "潜水遇到强流该如何应对",
-      "onboard_time": 1735290561,
-      "rank": 17,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 17247,

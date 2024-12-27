@@ -1,0 +1,410 @@
+{
+  "runTime": 1735292203413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7468645,
+        "num": 7468645,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1295368,
+        "num": 1295368,
+        "word": "陈梦宣布退出世界排名",
+        "onboard_time": 1735280541,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29683,
+        "num": 1213320,
+        "word": "回眸2024感受人与自然的和谐之美",
+        "onboard_time": 1735290501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1193271,
+        "num": 1193271,
+        "word": "樊振东陈梦退赛将被罚款5000美元",
+        "onboard_time": 1735289841,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700781,
+        "num": 700781,
+        "word": "国家队是懂暗示四川舰的",
+        "onboard_time": 1735286722,
+        "rank": 4,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 698607,
+        "num": 698607,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 609976,
+        "num": 609976,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460635,
+        "num": 460635,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 419707,
+        "num": 419707,
+        "word": "周雨彤易烊千玺感情戏",
+        "onboard_time": 1735289900,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165093,
+        "num": 418702,
+        "word": "江苏卫视公布跨年晚会全阵容",
+        "onboard_time": 1735290381,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418350,
+        "num": 418350,
+        "word": "陈梦回应退出世界排名",
+        "onboard_time": 1735291042,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415209,
+        "num": 415209,
+        "word": "乒坛群星祝福樊振东",
+        "onboard_time": 1735290921,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369237,
+        "num": 369237,
+        "word": "易烊千玺演技",
+        "onboard_time": 1735281743,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344105,
+        "num": 344105,
+        "word": "李昀锐寸头",
+        "onboard_time": 1735290320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340740,
+        "num": 340740,
+        "word": "樊振东退出世排意味着什么",
+        "onboard_time": 1735280541,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290482,
+        "num": 290482,
+        "word": "樊振东陈梦为什么不要世界排名了",
+        "onboard_time": 1735290981,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31777,
+        "num": 289835,
+        "word": "潜水遇到强流该如何应对",
+        "onboard_time": 1735290561,
+        "rank": 16,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 174659,
+        "num": 289771,
+        "word": "易烊千玺开机那天摇摇晃晃地出现在片场",
+        "onboard_time": 1735291760,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38622,
+        "num": 288976,
+        "word": "快来交出你的2024年度拼单好物",
+        "onboard_time": 1735289960,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 59023,
+        "num": 288071,
+        "word": "TT对战TES",
+        "onboard_time": 1735291161,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 3239125,
+        "num": 287409,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470416,
+        "num": 286794,
+        "word": "刘国梁",
+        "onboard_time": 1735283241,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310628,
+        "num": 286422,
+        "word": "小小的我 周雨彤",
+        "onboard_time": 1735281142,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285910,
+        "num": 285910,
+        "word": "小小的我票房",
+        "onboard_time": 1735291400,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224647,
+        "num": 275803,
+        "word": "KPL",
+        "onboard_time": 1735291521,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271271,
+        "num": 271271,
+        "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+        "onboard_time": 1735282701,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247962,
+        "num": 247962,
+        "word": "网传王鹤棣主演咸鱼飞升",
+        "onboard_time": 1735292181,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239488,
+        "num": 239488,
+        "word": "刘亚仁别墅被7岁男童买下",
+        "onboard_time": 1735280301,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181028,
+        "num": 232183,
+        "word": "27岁女子遭前男友泼汽油烧伤致残",
+        "onboard_time": 1735290501,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23686,
+        "num": 230827,
+        "word": "非凡大师与高尔夫的适配度",
+        "onboard_time": 1735290201,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 550830,
+        "num": 230798,
+        "word": "莫雷加德评论樊振东",
+        "onboard_time": 1735291281,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230553,
+        "num": 230553,
+        "word": "小小的我 没有任何易烊千玺的影子",
+        "onboard_time": 1735290800,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241596,
+        "num": 229716,
+        "word": "黄圣依带小儿子参加刘芸生日会",
+        "onboard_time": 1735291880,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231997,
+        "num": 228897,
+        "word": "汪苏泷 家人都在",
+        "onboard_time": 1735286421,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221356,
+        "num": 221356,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 34,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 217118,
+        "num": 217118,
+        "word": "恋人",
+        "onboard_time": 1735279881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206380,
+        "num": 206380,
+        "word": "杨紫国色芳华追剧团行程",
+        "onboard_time": 1735290741,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203109,
+        "num": 203109,
+        "word": "宝石老舅拘留期满后照常录制节目",
+        "onboard_time": 1735272381,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53024,
+        "num": 198729,
+        "word": "李川 喜剧大会年度总冠军",
+        "onboard_time": 1735292060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109642,
+        "num": 197288,
+        "word": "话梅冰美式",
+        "onboard_time": 1735292120,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197146,
+        "num": 197146,
+        "word": "任嘉伦到底有多爱珍珠",
+        "onboard_time": 1735291760,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191947,
+        "num": 191947,
+        "word": "国色芳华",
+        "onboard_time": 1735291701,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189996,
+        "num": 189996,
+        "word": "咸鱼飞升",
+        "onboard_time": 1735291760,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189867,
+        "num": 189867,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 188586,
+        "num": 188586,
+        "word": "樊振东恩师吴敬平发文支持樊振东",
+        "onboard_time": 1735288581,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186736,
+        "num": 186736,
+        "word": "女子主动进炒股群把老师高兴坏了",
+        "onboard_time": 1735284202,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29003,
+        "num": 183198,
+        "word": "李斌喊话铁成兑现承诺",
+        "onboard_time": 1735287381,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181020,
+        "num": 181020,
+        "word": "主人没牵住狗绳致路人车祸身亡",
+        "onboard_time": 1735272201,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166103,
+        "num": 166103,
+        "word": "田志希宣布退出韩国国家队",
+        "onboard_time": 1735284020,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160420,
+        "num": 160420,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}
