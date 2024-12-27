@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735274456414,
+  "endTime": 1735276874564,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -27,6 +27,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2279880,
+      "num": 2279880,
+      "word": "赵露思坐轮椅",
+      "onboard_time": 1735275742,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1761074,
+      "num": 1761074,
+      "word": "汪苏泷",
+      "onboard_time": 1735275801,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1660421,
+      "num": 1660421,
+      "word": "樊振东11点11分发博的深意",
+      "onboard_time": 1735271662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1535006,
       "num": 1269969,
       "word": "网易云 不准",
@@ -41,14 +65,6 @@
       "onboard_time": 1735266678,
       "rank": 1,
       "category": "军事"
-    },
-    {
-      "raw_hot": 1407196,
-      "num": 1407196,
-      "word": "樊振东11点11分发博的深意",
-      "onboard_time": 1735271662,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1399222,
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 930624,
+      "num": 930624,
+      "word": "主人没牵住狗绳致路人车祸身亡",
+      "onboard_time": 1735272201,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 898197,
       "num": 377240,
       "word": "肯德基 孙颖莎",
@@ -129,14 +153,6 @@
       "onboard_time": 1735226298,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 793808,
-      "num": 793808,
-      "word": "主人没牵住狗绳致路人车祸身亡",
-      "onboard_time": 1735272201,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 786822,
@@ -187,6 +203,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 638961,
+      "num": 584788,
+      "word": "宝石老舅拘留期满后照常录制节目",
+      "onboard_time": 1735272381,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633057,
       "num": 395881,
       "word": "42岁网红生双胞胎大出血不幸离世",
@@ -217,14 +241,6 @@
       "onboard_time": 1735269078,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 584788,
-      "num": 584788,
-      "word": "宝石老舅拘留期满后照常录制节目",
-      "onboard_time": 1735272381,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 564228,
@@ -280,6 +296,14 @@
       "word": "曝宝石老舅醉酒打架被警方拘留",
       "onboard_time": 1735198579,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 473693,
+      "num": 299547,
+      "word": "徐娇劝阻男子抽烟餐厅道歉",
+      "onboard_time": 1735274783,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -475,6 +499,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278506,
+      "num": 278506,
+      "word": "难怪王俊凯最近一直在说大概",
+      "onboard_time": 1735274601,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 277291,
+      "num": 277291,
+      "word": "丁禹兮化身燕云boss郑鄂",
+      "onboard_time": 1735274420,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273070,
       "num": 273070,
       "word": "WTT",
@@ -497,6 +537,14 @@
       "onboard_time": 1735271241,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262733,
+      "num": 262733,
+      "word": "马斯克76岁母亲在中国火了",
+      "onboard_time": 1735274722,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259226,
@@ -539,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241894,
+      "num": 468299,
+      "word": "王家卫拍了繁花2000年的故事",
+      "onboard_time": 1735273521,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240378,
       "num": 378554,
       "word": "赵丽颖哽咽读孩子们写给张桂梅的诗",
@@ -577,6 +633,14 @@
       "onboard_time": 1735218920,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231279,
+      "num": 275374,
+      "word": "朱丹 又幸福了",
+      "onboard_time": 1735273941,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 220906,
@@ -635,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197887,
+      "num": 197887,
+      "word": "鹿晗新歌",
+      "onboard_time": 1735276041,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 196608,
       "num": 232719,
       "word": "五月天2025线上跨年演唱会",
@@ -643,12 +715,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196160,
-      "num": 275374,
-      "word": "朱丹 又幸福了",
-      "onboard_time": 1735273941,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 195163,
+      "num": 195163,
+      "word": "水龙吟",
+      "onboard_time": 1735276520,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 192977,
@@ -659,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191375,
-      "num": 191375,
-      "word": "丁禹兮化身燕云boss郑鄂",
-      "onboard_time": 1735274420,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 192269,
+      "num": 277612,
+      "word": "如何看待WTT新规",
+      "onboard_time": 1735275680,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 189647,
@@ -763,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165027,
+      "num": 165027,
+      "word": "第五人格",
+      "onboard_time": 1735274483,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164711,
       "num": 164711,
       "word": "孙颖莎明年大年初二就开始比赛了",
@@ -785,6 +865,14 @@
       "onboard_time": 1735267158,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160904,
+      "num": 160904,
+      "word": "世界排名对运动员影响有多大",
+      "onboard_time": 1735276460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 160565,
@@ -859,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148398,
+      "num": 253556,
+      "word": "孙珍妮 这么爽的剧情借我演演",
+      "onboard_time": 1735276341,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146968,
       "num": 146968,
       "word": "上海 韩国人",
@@ -907,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137592,
+      "num": 182273,
+      "word": "谁懂胡歌为繁花唱好久不见的含金量",
+      "onboard_time": 1735275382,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137552,
       "num": 137552,
       "word": "多角度看四川舰",
@@ -921,14 +1025,6 @@
       "onboard_time": 1735267098,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135036,
-      "num": 468299,
-      "word": "王家卫拍了繁花2000年的故事",
-      "onboard_time": 1735273521,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 134978,
@@ -1067,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106250,
+      "num": 381050,
+      "word": "律师称拍男子碗里丢烟头或都侵权",
+      "onboard_time": 1735276702,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105597,
       "num": 99569,
       "word": "鱿鱼游戏 吊在俊",
@@ -1177,6 +1281,14 @@
       "onboard_time": 1735269439,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88474,
+      "num": 196399,
+      "word": "香煎萝卜糕",
+      "onboard_time": 1735276101,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 87986,
@@ -1419,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49840,
+      "num": 303242,
+      "word": "疑似赵露思生病进医院",
+      "onboard_time": 1735276702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49501,
       "num": 87880,
       "word": "狼队vs曼联",
@@ -1433,6 +1553,14 @@
       "onboard_time": 1735226359,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 47291,
+      "num": 489867,
+      "word": "关晓彤分享穿搭心得",
+      "onboard_time": 1735271361,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 43149,
@@ -1467,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37851,
-      "num": 489867,
-      "word": "关晓彤分享穿搭心得",
-      "onboard_time": 1735271361,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 36677,
       "num": 36677,
       "word": "莫桑比克1500多名囚犯袭警夺枪越狱",
@@ -1497,6 +1617,14 @@
       "onboard_time": 1735254374,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30678,
+      "num": 241899,
+      "word": "粉丝偶遇罗渽民",
+      "onboard_time": 1735276282,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 30338,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1735247051,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 24309,
+      "num": 1916304,
+      "word": "2024中国人的仪式感",
+      "onboard_time": 1735276041,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23436,

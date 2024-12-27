@@ -1,0 +1,410 @@
+{
+  "runTime": 1735276874564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8285242,
+        "num": 8285242,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2279880,
+        "num": 2279880,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24309,
+        "num": 1916304,
+        "word": "2024中国人的仪式感",
+        "onboard_time": 1735276041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1761074,
+        "num": 1761074,
+        "word": "汪苏泷",
+        "onboard_time": 1735275801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1660421,
+        "num": 1660421,
+        "word": "樊振东11点11分发博的深意",
+        "onboard_time": 1735271662,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 930624,
+        "num": 930624,
+        "word": "主人没牵住狗绳致路人车祸身亡",
+        "onboard_time": 1735272201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086500,
+        "num": 926657,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792509,
+        "num": 792509,
+        "word": "泰勒斯威夫特真的有QQ号",
+        "onboard_time": 1735269320,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532513,
+        "num": 532513,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 508929,
+        "num": 508929,
+        "word": "WTT颁布不参赛就罚款新规",
+        "onboard_time": 1735272261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576532,
+        "num": 508381,
+        "word": "网易云 不准",
+        "onboard_time": 1735266558,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 638961,
+        "num": 503659,
+        "word": "宝石老舅拘留期满后照常录制节目",
+        "onboard_time": 1735272381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516573,
+        "num": 501002,
+        "word": "李昀锐 就这个顶腮",
+        "onboard_time": 1735271782,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491755,
+        "num": 491755,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 479491,
+        "num": 479491,
+        "word": "四川舰雄起",
+        "onboard_time": 1735271241,
+        "rank": 14,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 478605,
+        "num": 478605,
+        "word": "机长坠机遇难前最后操作挽救数十人",
+        "onboard_time": 1735262418,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 449445,
+        "num": 449445,
+        "word": "樊振东称无力承受不参赛就罚款新规",
+        "onboard_time": 1735271962,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106250,
+        "num": 381050,
+        "word": "律师称拍男子碗里丢烟头或都侵权",
+        "onboard_time": 1735276702,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365079,
+        "num": 365079,
+        "word": "大二女生创作吧唧一年半赚5万",
+        "onboard_time": 1735267878,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49840,
+        "num": 303242,
+        "word": "疑似赵露思生病进医院",
+        "onboard_time": 1735276702,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473693,
+        "num": 299547,
+        "word": "徐娇劝阻男子抽烟餐厅道歉",
+        "onboard_time": 1735274783,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293882,
+        "num": 293882,
+        "word": "专家解读四川舰三大特点",
+        "onboard_time": 1735272621,
+        "rank": 21,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 279971,
+        "num": 279971,
+        "word": "韩游客说烤鸭难吃被提醒吃的蒸笼纸",
+        "onboard_time": 1735256477,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 278506,
+        "num": 278506,
+        "word": "难怪王俊凯最近一直在说大概",
+        "onboard_time": 1735274601,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192269,
+        "num": 277612,
+        "word": "如何看待WTT新规",
+        "onboard_time": 1735275680,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277291,
+        "num": 277291,
+        "word": "丁禹兮化身燕云boss郑鄂",
+        "onboard_time": 1735274420,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 269120,
+        "num": 269120,
+        "word": "麦琳退出李行亮新歌出品方",
+        "onboard_time": 1735271901,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266451,
+        "num": 266451,
+        "word": "汪小姐含金量还在上升",
+        "onboard_time": 1735271841,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262733,
+        "num": 262733,
+        "word": "马斯克76岁母亲在中国火了",
+        "onboard_time": 1735274722,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148398,
+        "num": 253556,
+        "word": "孙珍妮 这么爽的剧情借我演演",
+        "onboard_time": 1735276341,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617956,
+        "num": 250323,
+        "word": "肯德基 孙颖莎",
+        "onboard_time": 1735272562,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 245793,
+        "word": "韩国鼓励公务员穿韩服上班",
+        "onboard_time": 1735271723,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 241943,
+        "num": 241943,
+        "word": "12345回应徐娇劝阻男子餐厅抽烟",
+        "onboard_time": 1735208179,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30678,
+        "num": 241899,
+        "word": "粉丝偶遇罗渽民",
+        "onboard_time": 1735276282,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241894,
+        "num": 241894,
+        "word": "王家卫拍了繁花2000年的故事",
+        "onboard_time": 1735273521,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231279,
+        "num": 231279,
+        "word": "朱丹 又幸福了",
+        "onboard_time": 1735273941,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209338,
+        "num": 209338,
+        "word": "熊猫舰",
+        "onboard_time": 1735272261,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 208614,
+        "num": 208614,
+        "word": "男子22万买车投保29万故意开进湖里",
+        "onboard_time": 1735265838,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "鹿晗新歌",
+        "onboard_time": 1735276041,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88474,
+        "num": 196399,
+        "word": "香煎萝卜糕",
+        "onboard_time": 1735276101,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195163,
+        "num": 195163,
+        "word": "水龙吟",
+        "onboard_time": 1735276520,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "请苍天鉴忠奸成为年度热词",
+        "onboard_time": 1735273642,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47291,
+        "num": 183668,
+        "word": "关晓彤分享穿搭心得",
+        "onboard_time": 1735271361,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183396,
+        "num": 183396,
+        "word": "四川舰下水震撼画面",
+        "onboard_time": 1735268119,
+        "rank": 43,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 137592,
+        "num": 182273,
+        "word": "谁懂胡歌为繁花唱好久不见的含金量",
+        "onboard_time": 1735275382,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182083,
+        "num": 182083,
+        "word": "王俊凯以后都要大概起来",
+        "onboard_time": 1735268779,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178840,
+        "num": 178840,
+        "word": "步惊云 武则天来了都得自我怀疑",
+        "onboard_time": 1735271241,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169709,
+        "num": 169709,
+        "word": "WTT",
+        "onboard_time": 1735271421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165027,
+        "num": 165027,
+        "word": "第五人格",
+        "onboard_time": 1735274483,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160904,
+        "num": 160904,
+        "word": "世界排名对运动员影响有多大",
+        "onboard_time": 1735276460,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市治理#"
+    }
+  }
+}
