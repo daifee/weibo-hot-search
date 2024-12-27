@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735328122728,
+  "endTime": 1735330992819,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63515,
+      "num": 50275,
+      "word": "媒体评宝石老舅道歉理由和时机",
+      "onboard_time": 1735327331,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56263,
       "num": 112170,
       "word": "夏以昼呢",
@@ -571,14 +579,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 23581,
-      "num": 29836,
-      "word": "媒体评宝石老舅道歉理由和时机",
-      "onboard_time": 1735327331,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22264,
       "num": 61237,
       "word": "古人的小夜灯超有氛围感",
@@ -619,12 +619,36 @@
       "category": "军事"
     },
     {
-      "raw_hot": 11866,
+      "raw_hot": 15244,
+      "num": 17356,
+      "word": "TOP本色出演",
+      "onboard_time": 1735329971,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15235,
       "num": 68728,
       "word": "外交部回应中方反制美7家军工企业",
       "onboard_time": 1735327751,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15008,
+      "num": 17351,
+      "word": "战争与和平",
+      "onboard_time": 1735328712,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 12094,
+      "num": 47593,
+      "word": "这些时刻温暖了我们的2024",
+      "onboard_time": 1735330392,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 11527,
