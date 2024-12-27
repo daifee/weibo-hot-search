@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735324169503,
+  "endTime": 1735324953324,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -7507,6 +7507,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 218763,
+      "num": 119709,
+      "word": "宝石老舅你糊涂啊",
+      "onboard_time": 1735322713,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218672,
       "num": 218672,
       "word": "吴柳芳背后MCN劣迹斑斑",
@@ -12016,14 +12024,6 @@
       "word": "终于把马天宇送进组了",
       "onboard_time": 1735310423,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150382,
-      "num": 119709,
-      "word": "宝石老舅你糊涂啊",
-      "onboard_time": 1735322713,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -16635,6 +16635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83101,
+      "num": 83101,
+      "word": "外卖小哥两年假摔18次骗保20万",
+      "onboard_time": 1735320135,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82929,
       "num": 211911,
       "word": "我的2024游戏总结",
@@ -16833,14 +16841,6 @@
       "onboard_time": 1735227198,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 78185,
-      "num": 78185,
-      "word": "外卖小哥两年假摔18次骗保20万",
-      "onboard_time": 1735320135,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78027,
@@ -20467,6 +20467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32456,
+      "num": 32456,
+      "word": "刘春和无声吃糖",
+      "onboard_time": 1735324033,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32434,
       "num": 1569029,
       "word": "一带一路金枢纽",
@@ -20843,14 +20851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 29867,
-      "num": 31771,
-      "word": "刘春和无声吃糖",
-      "onboard_time": 1735324033,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 29850,
       "num": 207128,
       "word": "萝卜丸子汤",
@@ -21057,6 +21057,14 @@
       "onboard_time": 1735027459,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28272,
+      "num": 28272,
+      "word": "王俊凯万里归途气场",
+      "onboard_time": 1735323612,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 28167,
@@ -21297,6 +21305,14 @@
       "onboard_time": 1735247051,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25746,
+      "num": 27948,
+      "word": "周深八段锦BGM好洗脑",
+      "onboard_time": 1735324871,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 25723,
@@ -22161,6 +22177,14 @@
       "onboard_time": 1735268417,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 17055,
+      "num": 93418,
+      "word": "大国重器赛道创新首发永不止步",
+      "onboard_time": 1735324633,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 16976,

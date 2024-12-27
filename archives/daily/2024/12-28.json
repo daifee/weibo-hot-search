@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735324169503,
+  "endTime": 1735324953324,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218763,
+      "num": 119709,
+      "word": "宝石老舅你糊涂啊",
+      "onboard_time": 1735322713,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213823,
       "num": 143737,
       "word": "Project7决赛",
@@ -209,14 +217,6 @@
       "onboard_time": 1735297880,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 150382,
-      "num": 119709,
-      "word": "宝石老舅你糊涂啊",
-      "onboard_time": 1735322713,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 137391,
@@ -427,8 +427,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78185,
-      "num": 78185,
+      "raw_hot": 83101,
+      "num": 83101,
       "word": "外卖小哥两年假摔18次骗保20万",
       "onboard_time": 1735320135,
       "rank": 40,
@@ -491,8 +491,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29867,
-      "num": 31771,
+      "raw_hot": 32456,
+      "num": 32456,
       "word": "刘春和无声吃糖",
       "onboard_time": 1735324033,
       "rank": 48,
@@ -523,6 +523,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28272,
+      "num": 28272,
+      "word": "王俊凯万里归途气场",
+      "onboard_time": 1735323612,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25746,
+      "num": 27948,
+      "word": "周深八段锦BGM好洗脑",
+      "onboard_time": 1735324871,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24990,
       "num": 373338,
       "word": "2024中国载人航天名场面",
@@ -537,6 +553,14 @@
       "onboard_time": 1735322233,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 17055,
+      "num": 93418,
+      "word": "大国重器赛道创新首发永不止步",
+      "onboard_time": 1735324633,
+      "rank": 9,
+      "category": "军事"
     }
   ],
   "hotgov_list": [
