@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735263736412,
+  "endTime": 1735264730513,
   "band_list": [
     {
       "raw_hot": 2773251,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 677490,
-      "num": 677490,
+      "raw_hot": 689524,
+      "num": 689524,
       "word": "徐娇劝阻抽烟餐厅人均103元",
       "onboard_time": 1735231216,
       "rank": 5,
@@ -73,6 +73,14 @@
       "onboard_time": 1735256477,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617394,
+      "num": 314745,
+      "word": "机长坠机遇难前最后操作挽救数十人",
+      "onboard_time": 1735262418,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 562082,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 460914,
-      "num": 329593,
+      "num": 337233,
       "word": "李嘉琦 要不你单身呢",
       "onboard_time": 1735223480,
       "rank": 7,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317552,
+      "num": 317552,
+      "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
+      "onboard_time": 1735260980,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307363,
       "num": 307363,
       "word": "男子贷款15万后去世银行要求罚息",
@@ -203,12 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248622,
-      "num": 164995,
-      "word": "机长坠机遇难前最后操作挽救数十人",
-      "onboard_time": 1735262418,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 272580,
+      "num": 272580,
+      "word": "五哈",
+      "onboard_time": 1735264398,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246873,
+      "num": 336207,
+      "word": "女子打造大粉人设骗其他粉丝数百万",
+      "onboard_time": 1735263497,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242023,
@@ -267,12 +291,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 196871,
-      "num": 196871,
-      "word": "66岁阿姨离婚后耗时8年骑行穷游14国",
-      "onboard_time": 1735260980,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 181649,
+      "num": 181649,
+      "word": "王俊凯预告新歌",
+      "onboard_time": 1735255995,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 178315,
@@ -297,14 +321,6 @@
       "onboard_time": 1735256417,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171962,
-      "num": 171962,
-      "word": "王俊凯预告新歌",
-      "onboard_time": 1735255995,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 156947,
@@ -347,6 +363,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "耳朵上的聪明洞原来是胚胎发育不全",
+      "onboard_time": 1735257317,
+      "rank": 34,
+      "category": "健康医疗,母婴育儿"
+    },
+    {
       "raw_hot": 143214,
       "num": 143214,
       "word": "谷子门店爆发式增长",
@@ -355,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140789,
-      "num": 140789,
-      "word": "耳朵上的聪明洞原来是胚胎发育不全",
-      "onboard_time": 1735257317,
-      "rank": 34,
-      "category": "健康医疗,母婴育儿"
+      "raw_hot": 134354,
+      "num": 297083,
+      "word": "金晨新片首映礼浪姐团建",
+      "onboard_time": 1735262897,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 133582,
@@ -435,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108563,
+      "num": 108563,
+      "word": "三星堆出土的象牙是靠冰箱保存的",
+      "onboard_time": 1735264398,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107957,
       "num": 107957,
       "word": "室内公共场所禁烟是全国性的",
       "onboard_time": 1735208959,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106790,
+      "num": 173388,
+      "word": "逆水寒",
+      "onboard_time": 1735262478,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 106531,
@@ -459,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103422,
-      "num": 173388,
-      "word": "逆水寒",
-      "onboard_time": 1735262478,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 102458,
       "num": 102458,
       "word": "胡塞武装强势回应内塔尼亚胡威胁",
       "onboard_time": 1735228159,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100770,
+      "num": 100770,
+      "word": "抗初老的最佳年龄是几岁",
+      "onboard_time": 1735264458,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 100567,
@@ -627,14 +667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79874,
-      "num": 336207,
-      "word": "女子打造大粉人设骗其他粉丝数百万",
-      "onboard_time": 1735263497,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79787,
       "num": 79787,
       "word": "在外滩听到韩语概率超上海话",
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75423,
+      "num": 147081,
+      "word": "宝石老舅羞愧自责",
+      "onboard_time": 1735264337,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75177,
       "num": 75177,
       "word": "长期接不到女乘客网约司机投诉平台",
@@ -689,6 +729,14 @@
       "onboard_time": 1735229419,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68757,
+      "num": 160080,
+      "word": "澳网",
+      "onboard_time": 1735264518,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 64060,
@@ -812,7 +860,7 @@
     },
     {
       "raw_hot": 37579,
-      "num": 730665,
+      "num": 763205,
       "word": "中国一年194个世界冠军",
       "onboard_time": 1735225040,
       "rank": 2,
@@ -841,14 +889,6 @@
       "onboard_time": 1735254374,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31800,
-      "num": 297083,
-      "word": "金晨新片首映礼浪姐团建",
-      "onboard_time": 1735262897,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 30338,
@@ -939,6 +979,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 12611,
+      "num": 146641,
+      "word": "向佐希望大家是因为作品喜欢他",
+      "onboard_time": 1735263558,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11186,
       "num": 186283,
       "word": "郝宏军一审被判无期",
@@ -992,14 +1040,6 @@
       "word": "吴磊给粉丝讲冷笑话",
       "onboard_time": 1735229837,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 5229,
-      "num": 82239,
-      "word": "向佐希望大家是因为作品喜欢他",
-      "onboard_time": 1735263558,
-      "rank": 46,
       "category": "艺人"
     }
   ],
