@@ -1,0 +1,410 @@
+{
+  "runTime": 1735306658114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2646471,
+        "num": 2646471,
+        "word": "樊维秋死刑",
+        "onboard_time": 1735301539,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1032599,
+        "num": 1032599,
+        "word": "生日晚安",
+        "onboard_time": 1735306401,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22095,
+        "num": 986556,
+        "word": "回眸2024感受人与自然的和谐之美",
+        "onboard_time": 1735290501,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154758,
+        "num": 981028,
+        "word": "明年9月EXO全员回归",
+        "onboard_time": 1735304480,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 964380,
+        "num": 964380,
+        "word": "恋与深空",
+        "onboard_time": 1735298420,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 837646,
+        "num": 837646,
+        "word": "珠海冲撞行人案一审宣判",
+        "onboard_time": 1735301419,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 825831,
+        "num": 825831,
+        "word": "徐娇劝阻抽烟重点是男子确实违法了",
+        "onboard_time": 1735301059,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 825215,
+        "num": 825215,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 748802,
+        "num": 748802,
+        "word": "2025我的小小世界一定会更好",
+        "onboard_time": 1735302079,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 634625,
+        "num": 634625,
+        "word": "蒋欣路边连吃12只生蚝",
+        "onboard_time": 1735299913,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25103,
+        "num": 555801,
+        "word": "光夜借钱宠天刀",
+        "onboard_time": 1735302740,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 555089,
+        "num": 555089,
+        "word": "宝石老舅被拘前和粉丝合照",
+        "onboard_time": 1735298480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529590,
+        "num": 529590,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168294,
+        "num": 461043,
+        "word": "阿航坠机仍有两大谜团待解",
+        "onboard_time": 1735305020,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50143,
+        "num": 442162,
+        "word": "今年多地明确春节可燃放烟花爆竹",
+        "onboard_time": 1735305860,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440858,
+        "num": 440858,
+        "word": "春晚彩排",
+        "onboard_time": 1735294879,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422844,
+        "num": 422844,
+        "word": "主播内涵网友不知水洗标被开除",
+        "onboard_time": 1735302740,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63239,
+        "num": 419346,
+        "word": "抽烟者嚣张只因禁烟规定未严格落实",
+        "onboard_time": 1735306401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127754,
+        "num": 415720,
+        "word": "陕西一地发生原油泄漏事件",
+        "onboard_time": 1735305140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253392,
+        "num": 411767,
+        "word": "金智媛20岁证件照",
+        "onboard_time": 1735305980,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4822984,
+        "num": 404415,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402340,
+        "num": 402340,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 526073,
+        "num": 394500,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 384514,
+        "num": 384514,
+        "word": "初中生被同学骗喝强碱水食道受损",
+        "onboard_time": 1735296860,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18763,
+        "num": 383944,
+        "word": "陈梦说不能被年龄定义",
+        "onboard_time": 1735306163,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133512,
+        "num": 372787,
+        "word": "律师解读婴儿随母姓医院让签免责书",
+        "onboard_time": 1735301059,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266981,
+        "num": 354591,
+        "word": "0713 春晚",
+        "onboard_time": 1735296321,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264508,
+        "num": 351649,
+        "word": "权志龙朴彩英跳了APT",
+        "onboard_time": 1735296980,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30674,
+        "num": 337790,
+        "word": "24年小米高端手机全球销量超千万",
+        "onboard_time": 1735305140,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19590,
+        "num": 331920,
+        "word": "超三成婴幼儿家庭有入托需求",
+        "onboard_time": 1735305921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118289,
+        "num": 322835,
+        "word": "阿塞拜疆航空声明",
+        "onboard_time": 1735303279,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19234,
+        "num": 308323,
+        "word": "盘点2024人间本色",
+        "onboard_time": 1735304599,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107226,
+        "num": 296230,
+        "word": "花17万买大牌小样收到一箱纸",
+        "onboard_time": 1735304781,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2429843,
+        "num": 293418,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284327,
+        "num": 284327,
+        "word": "恋与深空热吻卡",
+        "onboard_time": 1735304960,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280330,
+        "num": 280330,
+        "word": "黎深摘眼镜",
+        "onboard_time": 1735304420,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258773,
+        "num": 258773,
+        "word": "汪苏泷恋爱史",
+        "onboard_time": 1735298720,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250940,
+        "num": 250940,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238406,
+        "num": 238406,
+        "word": "中共中央政治局召开民主生活会",
+        "onboard_time": 1735302500,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234661,
+        "num": 234661,
+        "word": "张元英给张多雅颁奖",
+        "onboard_time": 1735300639,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 231403,
+        "num": 231403,
+        "word": "樊振东回复郑思维",
+        "onboard_time": 1735303941,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231177,
+        "num": 231177,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215900,
+        "num": 215900,
+        "word": "孟子义新增了8个代言",
+        "onboard_time": 1735298900,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207344,
+        "num": 207344,
+        "word": "电梯战神的含金量还在下降",
+        "onboard_time": 1735304540,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207217,
+        "num": 207217,
+        "word": "CLOSE YOUR EYES",
+        "onboard_time": 1735306340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206482,
+        "num": 206482,
+        "word": "黄圣依带小儿子参加刘芸生日会",
+        "onboard_time": 1735291880,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205354,
+        "num": 205354,
+        "word": "EXO",
+        "onboard_time": 1735305500,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202351,
+        "num": 202351,
+        "word": "王楚钦备战乒超第二阶段",
+        "onboard_time": 1735305621,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11494,
+        "num": 190521,
+        "word": "挑杯首个五杀诞生",
+        "onboard_time": 1735306340,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185681,
+        "num": 185681,
+        "word": "秦彻单手抱",
+        "onboard_time": 1735306581,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}

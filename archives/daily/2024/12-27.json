@@ -1,6 +1,6 @@
 {
   "startTime": 1735230436153,
-  "endTime": 1735305969135,
+  "endTime": 1735306658114,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1154758,
+      "num": 981028,
+      "word": "明年9月EXO全员回归",
+      "onboard_time": 1735304480,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1146380,
       "num": 1146380,
       "word": "泰勒斯威夫特真的有QQ号",
@@ -227,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1032599,
+      "num": 1032599,
+      "word": "生日晚安",
+      "onboard_time": 1735306401,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 998279,
       "num": 998279,
       "word": "韩国国会通过代总统弹劾案",
@@ -249,14 +265,6 @@
       "onboard_time": 1735208179,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 933093,
-      "num": 933093,
-      "word": "明年9月EXO全员回归",
-      "onboard_time": 1735304480,
-      "rank": 4,
-      "category": "音乐"
     },
     {
       "raw_hot": 930624,
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 825215,
+      "num": 825215,
+      "word": "小小的我口碑",
+      "onboard_time": 1735297220,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 801001,
       "num": 801001,
       "word": "国家队是懂暗示四川舰的",
@@ -331,14 +347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 757069,
-      "num": 757069,
-      "word": "小小的我口碑",
-      "onboard_time": 1735297220,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 754743,
       "num": 754743,
       "word": "五哈",
@@ -355,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 748802,
+      "num": 748802,
+      "word": "2025我的小小世界一定会更好",
+      "onboard_time": 1735302079,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 740528,
       "num": 746477,
       "word": "男子22万买车投保29万故意开进湖里",
@@ -369,14 +385,6 @@
       "onboard_time": 1735293739,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 725642,
-      "num": 725642,
-      "word": "2025我的小小世界一定会更好",
-      "onboard_time": 1735302079,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 725547,
@@ -531,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555089,
+      "num": 555089,
+      "word": "宝石老舅被拘前和粉丝合照",
+      "onboard_time": 1735298480,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548032,
       "num": 410382,
       "word": "0713 春晚",
@@ -588,19 +604,11 @@
     },
     {
       "raw_hot": 504449,
-      "num": 361601,
+      "num": 422844,
       "word": "主播内涵网友不知水洗标被开除",
       "onboard_time": 1735302740,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493470,
-      "num": 493470,
-      "word": "宝石老舅被拘前和粉丝合照",
-      "onboard_time": 1735298480,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 491376,
@@ -761,6 +769,14 @@
       "onboard_time": 1735225879,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384514,
+      "num": 384514,
+      "word": "初中生被同学骗喝强碱水食道受损",
+      "onboard_time": 1735296860,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375472,
@@ -988,10 +1004,18 @@
     },
     {
       "raw_hot": 285623,
-      "num": 255958,
+      "num": 280330,
       "word": "黎深摘眼镜",
       "onboard_time": 1735304420,
       "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 284327,
+      "num": 284327,
+      "word": "恋与深空热吻卡",
+      "onboard_time": 1735304960,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1016,14 +1040,6 @@
       "word": "丁禹兮化身燕云boss郑鄂",
       "onboard_time": 1735274420,
       "rank": 43,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 274656,
-      "num": 253486,
-      "word": "恋与深空热吻卡",
-      "onboard_time": 1735304960,
-      "rank": 37,
       "category": "游戏"
     },
     {
@@ -1099,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253392,
+      "num": 411767,
+      "word": "金智媛20岁证件照",
+      "onboard_time": 1735305980,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253110,
       "num": 253110,
       "word": "樊振东回复郑思维",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1735266857,
       "rank": 26,
       "category": "军事"
+    },
+    {
+      "raw_hot": 250940,
+      "num": 250940,
+      "word": "沈星回 难哄",
+      "onboard_time": 1735306281,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 249069,
@@ -1227,8 +1259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238005,
-      "num": 238005,
+      "raw_hot": 238406,
+      "num": 238406,
       "word": "中共中央政治局召开民主生活会",
       "onboard_time": 1735302500,
       "rank": 36,
@@ -1403,6 +1435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207344,
+      "num": 207344,
+      "word": "电梯战神的含金量还在下降",
+      "onboard_time": 1735304540,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207217,
+      "num": 207217,
+      "word": "CLOSE YOUR EYES",
+      "onboard_time": 1735306340,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205751,
       "num": 205751,
       "word": "时代少年团支持易烊千玺新片",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1735257317,
       "rank": 21,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 205354,
+      "num": 205354,
+      "word": "EXO",
+      "onboard_time": 1735305500,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 202512,
@@ -1443,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202351,
+      "num": 202351,
+      "word": "王楚钦备战乒超第二阶段",
+      "onboard_time": 1735305621,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199743,
       "num": 199743,
       "word": "高瀚宇一个人背两个队友",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1735272142,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198572,
-      "num": 198572,
-      "word": "王楚钦备战乒超第二阶段",
-      "onboard_time": 1735305621,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 198371,
@@ -1579,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191878,
-      "num": 315042,
-      "word": "初中生被同学骗喝强碱水食道受损",
-      "onboard_time": 1735296860,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190276,
       "num": 190276,
       "word": "肖战射雕贴片",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1735294159,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188872,
-      "num": 188872,
-      "word": "EXO",
-      "onboard_time": 1735305500,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 188520,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1735302859,
       "rank": 38,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 185681,
+      "num": 185681,
+      "word": "秦彻单手抱",
+      "onboard_time": 1735306581,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 185103,
@@ -1889,6 +1937,14 @@
       "onboard_time": 1735276341,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168294,
+      "num": 529114,
+      "word": "阿航坠机仍有两大谜团待解",
+      "onboard_time": 1735305020,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 168092,
@@ -2315,14 +2371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131377,
-      "num": 188666,
-      "word": "电梯战神的含金量还在下降",
-      "onboard_time": 1735304540,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131025,
       "num": 131025,
       "word": "赵丽颖觉得肩上的责任很重",
@@ -2356,11 +2404,19 @@
     },
     {
       "raw_hot": 128467,
-      "num": 261138,
+      "num": 322835,
       "word": "阿塞拜疆航空声明",
       "onboard_time": 1735303279,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127754,
+      "num": 415720,
+      "word": "陕西一地发生原油泄漏事件",
+      "onboard_time": 1735305140,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126066,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1735297521,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107226,
+      "num": 296230,
+      "word": "花17万买大牌小样收到一箱纸",
+      "onboard_time": 1735304781,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106790,
@@ -2560,14 +2624,6 @@
       "word": "获利180元被罚10万卖羊肉老太发声",
       "onboard_time": 1735210039,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95121,
-      "num": 258300,
-      "word": "花17万买大牌小样收到一箱纸",
-      "onboard_time": 1735304781,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -2875,14 +2931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68485,
-      "num": 529114,
-      "word": "阿航坠机仍有两大谜团待解",
-      "onboard_time": 1735305020,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 67675,
       "num": 292306,
       "word": "尚雯婕的演讲治愈了我的焦虑",
@@ -2928,6 +2976,14 @@
       "word": "越南新娘出走男子追讨20万媒人费",
       "onboard_time": 1735304540,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63239,
+      "num": 419346,
+      "word": "抽烟者嚣张只因禁烟规定未严格落实",
+      "onboard_time": 1735306401,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -3051,20 +3107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51555,
-      "num": 373834,
-      "word": "陕西一地发生原油泄漏事件",
-      "onboard_time": 1735305140,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51044,
       "num": 105946,
       "word": "费曼晒吴镇宇丑照",
       "onboard_time": 1735231036,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50143,
+      "num": 521928,
+      "word": "今年多地明确春节可燃放烟花爆竹",
+      "onboard_time": 1735305860,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49501,
@@ -3236,7 +3292,7 @@
     },
     {
       "raw_hot": 35854,
-      "num": 543403,
+      "num": 555801,
       "word": "光夜借钱宠天刀",
       "onboard_time": 1735302740,
       "rank": 39,
@@ -3249,14 +3305,6 @@
       "onboard_time": 1735295660,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 35665,
-      "num": 521928,
-      "word": "今年多地明确春节可燃放烟花爆竹",
-      "onboard_time": 1735305860,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35432,
@@ -3276,7 +3324,7 @@
     },
     {
       "raw_hot": 33982,
-      "num": 255337,
+      "num": 337790,
       "word": "24年小米高端手机全球销量超千万",
       "onboard_time": 1735305140,
       "rank": 34,
@@ -3404,7 +3452,7 @@
     },
     {
       "raw_hot": 27881,
-      "num": 257846,
+      "num": 308323,
       "word": "盘点2024人间本色",
       "onboard_time": 1735304599,
       "rank": 30,
@@ -3563,12 +3611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19590,
+      "num": 331920,
+      "word": "超三成婴幼儿家庭有入托需求",
+      "onboard_time": 1735305921,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19063,
       "num": 221935,
       "word": "汪苏泷曾说理想型是姜妍",
       "onboard_time": 1735294999,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18763,
+      "num": 383944,
+      "word": "陈梦说不能被年龄定义",
+      "onboard_time": 1735306163,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 18209,
@@ -3585,14 +3649,6 @@
       "onboard_time": 1735284800,
       "rank": 29,
       "category": "科学科普,军事"
-    },
-    {
-      "raw_hot": 17757,
-      "num": 259965,
-      "word": "超三成婴幼儿家庭有入托需求",
-      "onboard_time": 1735305921,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17607,
@@ -3681,6 +3737,14 @@
       "onboard_time": 1735279281,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11494,
+      "num": 190521,
+      "word": "挑杯首个五杀诞生",
+      "onboard_time": 1735306340,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 11186,
