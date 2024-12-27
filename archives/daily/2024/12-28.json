@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735317696980,
+  "endTime": 1735319927451,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -139,6 +139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233119,
+      "num": 233119,
+      "word": "影子不会说谎被采取刑事强制措施",
+      "onboard_time": 1735314921,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227184,
       "num": 227184,
       "word": "安静公主直播",
@@ -171,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176785,
+      "num": 176785,
+      "word": "原来白居易还是水利工程设计师",
+      "onboard_time": 1735316059,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 174430,
       "num": 148197,
       "word": "蒋欣路边连吃12只生蚝",
@@ -193,14 +209,6 @@
       "onboard_time": 1735297880,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155436,
-      "num": 148391,
-      "word": "原来白居易还是水利工程设计师",
-      "onboard_time": 1735316059,
-      "rank": 41,
-      "category": "正能量"
     },
     {
       "raw_hot": 137391,
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129244,
+      "num": 129244,
+      "word": "官方通报近百只猫在水塘被溺死",
+      "onboard_time": 1735311564,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127353,
       "num": 162684,
       "word": "第一次见脸这么臭的狗",
@@ -241,14 +257,6 @@
       "onboard_time": 1735294219,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126093,
-      "num": 228442,
-      "word": "影子不会说谎被采取刑事强制措施",
-      "onboard_time": 1735314921,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125786,
@@ -272,14 +280,6 @@
       "word": "为了卖设备假装住酒店被偷拍",
       "onboard_time": 1735312163,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116769,
-      "num": 116769,
-      "word": "官方通报近百只猫在水塘被溺死",
-      "onboard_time": 1735311564,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84274,
+      "num": 84274,
+      "word": "为销售伪劣仪器炒作偷拍泛滥",
+      "onboard_time": 1735310963,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84045,
       "num": 84045,
       "word": "我国低空经济发展司成立",
@@ -403,12 +411,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67975,
+      "num": 67975,
+      "word": "鱿鱼游戏2 圣父男主",
+      "onboard_time": 1735314381,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56263,
       "num": 112170,
       "word": "夏以昼呢",
       "onboard_time": 1735306882,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55973,
+      "num": 114858,
+      "word": "新增19个国家5A级旅游景区",
+      "onboard_time": 1735319535,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 50326,
+      "num": 54412,
+      "word": "小小的我彩蛋",
+      "onboard_time": 1735319296,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 29569,
@@ -425,6 +457,14 @@
       "onboard_time": 1735307420,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 20956,
+      "num": 116266,
+      "word": "一诺说KPL不能没有花海",
+      "onboard_time": 1735310903,
+      "rank": 23,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
