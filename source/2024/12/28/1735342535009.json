@@ -1,0 +1,410 @@
+{
+  "runTime": 1735342535009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 298466,
+        "num": 850271,
+        "word": "南宁强占人妻区长简历被撤下",
+        "onboard_time": 1735308140,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 651845,
+        "num": 651845,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13250,
+        "num": 586011,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 536853,
+        "num": 536853,
+        "word": "赵露思状态",
+        "onboard_time": 1735309881,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246154,
+        "num": 246154,
+        "word": "韩国人表示上海还是太全面",
+        "onboard_time": 1735313183,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164269,
+        "num": 164269,
+        "word": "3名未成年商场点燃画展引发火灾",
+        "onboard_time": 1735323074,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337456,
+        "num": 161523,
+        "word": "媒体评宝石老舅道歉理由和时机",
+        "onboard_time": 1735327331,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334145,
+        "num": 158105,
+        "word": "宝石老舅你糊涂啊",
+        "onboard_time": 1735322713,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151766,
+        "num": 151766,
+        "word": "外卖小哥两年假摔18次骗保20万",
+        "onboard_time": 1735320135,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138141,
+        "num": 146371,
+        "word": "韩国国会通过代总统弹劾案",
+        "onboard_time": 1735285521,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196735,
+        "num": 145467,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193435,
+        "num": 144032,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 141515,
+        "word": "影子不会说谎被采取刑事强制措施",
+        "onboard_time": 1735314921,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121184,
+        "num": 121184,
+        "word": "胡塞武装用高超音速导弹袭击以机场",
+        "onboard_time": 1735335911,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110161,
+        "num": 110161,
+        "word": "F勒布伦评论樊振东",
+        "onboard_time": 1735322713,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94093,
+        "num": 94093,
+        "word": "樊振东引用霉霉歌词回应退役传闻",
+        "onboard_time": 1735308620,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83808,
+        "num": 83808,
+        "word": "爱奇艺开年大剧三部曲",
+        "onboard_time": 1735314621,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 82485,
+        "word": "中方决定反制美国7家军工企业",
+        "onboard_time": 1735325832,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82485,
+        "num": 82485,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 67876,
+        "num": 67876,
+        "word": "官方通报近百只猫在水塘被溺死",
+        "onboard_time": 1735311564,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806000,
+        "num": 67690,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80625,
+        "num": 67656,
+        "word": "蒋欣路边连吃12只生蚝",
+        "onboard_time": 1735299913,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69716,
+        "num": 67203,
+        "word": "花海退役",
+        "onboard_time": 1735292300,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66710,
+        "num": 66710,
+        "word": "新增19个国家5A级旅游景区",
+        "onboard_time": 1735319535,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61960,
+        "num": 61960,
+        "word": "武艺 比大学生还清澈",
+        "onboard_time": 1735336150,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60211,
+        "num": 60211,
+        "word": "马靖翔C位出道",
+        "onboard_time": 1735315100,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58201,
+        "num": 58201,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53380,
+        "num": 53380,
+        "word": "起猛了看到林黛玉演喜剧了",
+        "onboard_time": 1735340473,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52482,
+        "num": 52482,
+        "word": "知道下乡给老人拍照有多赚吗",
+        "onboard_time": 1735312762,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49994,
+        "num": 49994,
+        "word": "影子不会说谎",
+        "onboard_time": 1735312223,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49149,
+        "num": 49149,
+        "word": "小小的我口碑",
+        "onboard_time": 1735297220,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47771,
+        "num": 47771,
+        "word": "你还记得10年前的世界是什么样吗",
+        "onboard_time": 1735321034,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46775,
+        "num": 46775,
+        "word": "张元英提醒柳俊烈主持",
+        "onboard_time": 1735311262,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46676,
+        "num": 46676,
+        "word": "恋与深空",
+        "onboard_time": 1735298420,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43859,
+        "num": 46671,
+        "word": "徐娇劝阻抽烟重点是男子确实违法了",
+        "onboard_time": 1735301059,
+        "rank": 34,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 41977,
+        "num": 46662,
+        "word": "宝石老舅被拘前和粉丝合照",
+        "onboard_time": 1735298480,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37934,
+        "num": 46654,
+        "word": "恋与深空3.0直播",
+        "onboard_time": 1735297880,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37575,
+        "num": 46646,
+        "word": "影子不会说谎非法牟利数百万",
+        "onboard_time": 1735312701,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36200,
+        "num": 46643,
+        "word": "电车被邻车引燃遭拒赔后续",
+        "onboard_time": 1735341133,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32726,
+        "num": 46635,
+        "word": "权志龙朴彩英跳了APT",
+        "onboard_time": 1735296980,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32151,
+        "num": 46621,
+        "word": "终于把马天宇送进组了",
+        "onboard_time": 1735310423,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31684,
+        "num": 46614,
+        "word": "安静公主直播",
+        "onboard_time": 1735315701,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26921,
+        "num": 46613,
+        "word": "射雕首支长预告微博战报",
+        "onboard_time": 1735335971,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24961,
+        "num": 46597,
+        "word": "为销售伪劣仪器炒作偷拍泛滥",
+        "onboard_time": 1735310963,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24844,
+        "num": 46593,
+        "word": "也门胡塞武装袭击以色列机场",
+        "onboard_time": 1735336272,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24804,
+        "num": 46581,
+        "word": "自导自演谎称偷拍泛滥35人被抓",
+        "onboard_time": 1735309281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22452,
+        "num": 46579,
+        "word": "原来白居易还是水利工程设计师",
+        "onboard_time": 1735316059,
+        "rank": 46,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 21607,
+        "num": 46573,
+        "word": "年度歌单",
+        "onboard_time": 1735325712,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19966,
+        "num": 46559,
+        "word": "TES挺进德杯决赛",
+        "onboard_time": 1735341255,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19403,
+        "num": 46555,
+        "word": "外卖小哥假摔伪造病历骗保获刑1年半",
+        "onboard_time": 1735341014,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开民主生活会#"
+    }
+  }
+}
