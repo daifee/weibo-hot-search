@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735310311006,
+  "endTime": 1735312946360,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 10913096,
+      "num": 10913096,
+      "word": "赵露思就诊画面",
+      "onboard_time": 1735309881,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 10870995,
       "num": 10870995,
       "word": "特朗普遭遇枪击",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1710684101,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8192850,
-      "num": 8192850,
-      "word": "柳鑫宇发声",
-      "onboard_time": 1708414596,
-      "rank": 0,
-      "category": "体育,网红"
     }
   ],
   "hotgov_list": [

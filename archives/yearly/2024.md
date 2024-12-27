@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/27 22:38:31
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/27 23:22:26
 </p>
 </blockquote>
 <p>
@@ -975,6 +975,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%B0%B1%E8%AF%8A%E7%94%BB%E9%9D%A2%23" target="weibo">
+赵露思就诊画面（热度：10913096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23" target="weibo">
 特朗普遭遇枪击（热度：10870995）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
 邯郸初中生被杀害案嫌疑人全部抓获（热度：8220945）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87%E5%8F%91%E5%A3%B0%23" target="weibo">
-柳鑫宇发声（热度：8192850）
 </a>
 </li>
 
