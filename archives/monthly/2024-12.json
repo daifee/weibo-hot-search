@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735281833552,
+  "endTime": 1735284171955,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7093147,
+      "num": 7093147,
+      "word": "陈梦宣布退出世界排名",
+      "onboard_time": 1735280541,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7060366,
       "num": 329940,
       "word": "深圳湾爆炸",
@@ -169,14 +177,6 @@
       "onboard_time": 1734155959,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6252857,
-      "num": 6252857,
-      "word": "陈梦宣布退出世界排名",
-      "onboard_time": 1735280541,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 6094170,
@@ -6395,6 +6395,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 873640,
+      "num": 462810,
+      "word": "小小的我 周雨彤",
+      "onboard_time": 1735281142,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 872967,
       "num": 872967,
       "word": "叙利亚",
@@ -9443,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685242,
+      "num": 497432,
+      "word": "樊振东退出世排意味着什么",
+      "onboard_time": 1735280541,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 685010,
       "num": 685010,
       "word": "林诗栋vs许昕",
@@ -12339,6 +12355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 569462,
+      "num": 464570,
+      "word": "刘国梁",
+      "onboard_time": 1735283241,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 569246,
       "num": 457592,
       "word": "窦骁何超莲撒狗粮现场",
@@ -14667,14 +14691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 497432,
-      "num": 497432,
-      "word": "樊振东退出世排意味着什么",
-      "onboard_time": 1735280541,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 497203,
       "num": 673937,
       "word": "民办大学倒闭潮要来了吗",
@@ -16779,14 +16795,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 444943,
-      "num": 444943,
-      "word": "小小的我 周雨彤",
-      "onboard_time": 1735281142,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 444919,
       "num": 444919,
       "word": "遭性侵身亡女生的母亲希望判凶手死刑",
@@ -17849,6 +17857,14 @@
       "onboard_time": 1733824579,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 421698,
+      "num": 421698,
+      "word": "张婉婷说再见爱人观察员挑拨离间",
+      "onboard_time": 1735281621,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 421218,
@@ -22489,6 +22505,14 @@
       "onboard_time": 1733267358,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331906,
+      "num": 331906,
+      "word": "易烊千玺演技",
+      "onboard_time": 1735281743,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 331844,
@@ -35235,6 +35259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "时代少年团支持易烊千玺新片",
+      "onboard_time": 1735283782,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205742,
       "num": 205742,
       "word": "张杰谈首部电影留下三个女儿声音",
@@ -35297,6 +35329,14 @@
       "onboard_time": 1734077357,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205525,
+      "num": 205525,
+      "word": "田志希宣布退出韩国国家队",
+      "onboard_time": 1735284020,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 205486,
@@ -37515,14 +37555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197375,
-      "num": 197375,
-      "word": "张婉婷说再见爱人观察员挑拨离间",
-      "onboard_time": 1735281621,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197357,
       "num": 197357,
       "word": "专家称白猫在猫眼里不是最丑的",
@@ -38921,6 +38953,14 @@
       "onboard_time": 1733979259,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193495,
+      "num": 389859,
+      "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+      "onboard_time": 1735282701,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193461,
@@ -46715,14 +46755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166728,
-      "num": 166728,
-      "word": "易烊千玺演技",
-      "onboard_time": 1735281743,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166726,
       "num": 166726,
       "word": "游戏玩家网上泄密惊动意国防部",
@@ -48673,6 +48705,14 @@
       "onboard_time": 1735217718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160485,
+      "num": 160485,
+      "word": "陈梦依然期待在赛场和大家相见",
+      "onboard_time": 1735283540,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 160444,
@@ -51033,6 +51073,14 @@
       "onboard_time": 1735063872,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154169,
+      "num": 158724,
+      "word": "目前陈梦4700分世排第4",
+      "onboard_time": 1735284141,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154164,
@@ -70971,6 +71019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85804,
+      "num": 366427,
+      "word": "绝区零莱特",
+      "onboard_time": 1735283122,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85784,
       "num": 333838,
       "word": "2024德玛西亚杯官宣",
@@ -73227,6 +73283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75725,
+      "num": 183869,
+      "word": "国际乒联第52周排名公布",
+      "onboard_time": 1735283841,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75715,
       "num": 243817,
       "word": "暗喻幻想获IGN年度游戏",
@@ -73409,6 +73473,14 @@
       "onboard_time": 1733052258,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 74785,
+      "num": 399418,
+      "word": "巡视组称万年县选人用人风气不正",
+      "onboard_time": 1735284020,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74781,
@@ -74081,6 +74153,14 @@
       "onboard_time": 1733753720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71734,
+      "num": 385703,
+      "word": "满江红编剧陈宇谈女性主义",
+      "onboard_time": 1735283241,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 71683,
@@ -81907,6 +81987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44532,
+      "num": 356378,
+      "word": "华晨宇带perper上封面",
+      "onboard_time": 1735284082,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44525,
       "num": 933910,
       "word": "2025年财政和货币政策有哪些变化",
@@ -83435,6 +83523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40382,
+      "num": 462433,
+      "word": "刘德华恭喜发财正在解冻中",
+      "onboard_time": 1735283421,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40360,
       "num": 516952,
       "word": "国家铁路完成货物发送量3.5亿吨",
@@ -83793,6 +83889,14 @@
       "onboard_time": 1734318016,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 39443,
+      "num": 379178,
+      "word": "上海羊肉串店韩语服务员安排上了",
+      "onboard_time": 1735284020,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39423,
@@ -86595,6 +86699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32534,
+      "num": 183741,
+      "word": "电影误判今日上映",
+      "onboard_time": 1735282761,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32503,
       "num": 280894,
       "word": "时光代理人英都篇定档",
@@ -86961,6 +87073,14 @@
       "onboard_time": 1733466439,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31933,
+      "num": 212924,
+      "word": "魏大勋MarieClaireNOW冬季刊",
+      "onboard_time": 1735281621,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 31922,
@@ -89555,6 +89675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25550,
+      "num": 382889,
+      "word": "豪情DNA被激活了",
+      "onboard_time": 1735281201,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 25548,
       "num": 206236,
       "word": "晓华说向佐真的要来了",
@@ -89585,6 +89713,14 @@
       "onboard_time": 1734697638,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25500,
+      "num": 267983,
+      "word": "大学老师就是我们能接触到的顶流",
+      "onboard_time": 1735283480,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 25485,
@@ -89801,14 +89937,6 @@
       "onboard_time": 1734985270,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 24946,
-      "num": 352666,
-      "word": "豪情DNA被激活了",
-      "onboard_time": 1735281201,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 24921,
@@ -91857,6 +91985,14 @@
       "onboard_time": 1735153931,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19339,
+      "num": 360345,
+      "word": "陈小春李昊粤语rap到翘嘴",
+      "onboard_time": 1735282102,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 19297,
@@ -95193,6 +95329,14 @@
       "onboard_time": 1733384118,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10336,
+      "num": 205562,
+      "word": "曝啪姐卡哥订婚",
+      "onboard_time": 1735284020,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 10309,
