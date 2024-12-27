@@ -1,0 +1,410 @@
+{
+  "runTime": 1735284929671,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6217299,
+        "num": 6217299,
+        "word": "陈梦宣布退出世界排名",
+        "onboard_time": 1735280541,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5747038,
+        "num": 5747038,
+        "word": "赵露思坐轮椅",
+        "onboard_time": 1735275742,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39119,
+        "num": 1654878,
+        "word": "2024中国人的仪式感",
+        "onboard_time": 1735276041,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1478769,
+        "num": 1478769,
+        "word": "樊振东宣布退出世界排名",
+        "onboard_time": 1735269679,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581149,
+        "num": 581149,
+        "word": "陈梦关注樊振东",
+        "onboard_time": 1735278982,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439611,
+        "num": 439611,
+        "word": "主人没牵住狗绳致路人车祸身亡",
+        "onboard_time": 1735272201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2822939,
+        "num": 438784,
+        "word": "赵露思",
+        "onboard_time": 1735278862,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1017493,
+        "num": 383621,
+        "word": "小小的我 周雨彤",
+        "onboard_time": 1735281142,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 294698,
+        "num": 294698,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735266318,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 80564,
+        "num": 292507,
+        "word": "刘德华恭喜发财正在解冻中",
+        "onboard_time": 1735283421,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506653,
+        "num": 290171,
+        "word": "汪苏泷",
+        "onboard_time": 1735275801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499415,
+        "num": 287002,
+        "word": "田志希宣布退出韩国国家队",
+        "onboard_time": 1735284020,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495172,
+        "num": 284471,
+        "word": "小小的我",
+        "onboard_time": 1735278923,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 421636,
+        "num": 281618,
+        "word": "刘亚仁别墅被7岁男童买下",
+        "onboard_time": 1735280301,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87646,
+        "num": 276318,
+        "word": "巡视组称万年县选人用人风气不正",
+        "onboard_time": 1735284020,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275274,
+        "num": 275274,
+        "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+        "onboard_time": 1735282701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23797,
+        "num": 274875,
+        "word": "豪情DNA被激活了",
+        "onboard_time": 1735281201,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24725,
+        "num": 273729,
+        "word": "上官正义称不会因为威胁而退缩",
+        "onboard_time": 1735284741,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68930,
+        "num": 272738,
+        "word": "许七安 最近是有在减肥当中",
+        "onboard_time": 1735284262,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76770,
+        "num": 271452,
+        "word": "上海羊肉串店韩语服务员安排上了",
+        "onboard_time": 1735284020,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25669,
+        "num": 270591,
+        "word": "陈小春李昊粤语rap到翘嘴",
+        "onboard_time": 1735282102,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270386,
+        "num": 270386,
+        "word": "吴敬平发博",
+        "onboard_time": 1735278140,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70735,
+        "num": 266128,
+        "word": "华晨宇带perper上封面",
+        "onboard_time": 1735284082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 951286,
+        "num": 264111,
+        "word": "刘国梁",
+        "onboard_time": 1735283241,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80300,
+        "num": 257536,
+        "word": "国际乒联第52周排名公布",
+        "onboard_time": 1735283841,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666657,
+        "num": 253268,
+        "word": "樊振东退出世排意味着什么",
+        "onboard_time": 1735280541,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414911,
+        "num": 252060,
+        "word": "易烊千玺演技",
+        "onboard_time": 1735281743,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386127,
+        "num": 246683,
+        "word": "张婉婷说再见爱人观察员挑拨离间",
+        "onboard_time": 1735281621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13053,
+        "num": 241085,
+        "word": "曝啪姐卡哥订婚",
+        "onboard_time": 1735284020,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8237,
+        "num": 235425,
+        "word": "2024中国载人航天年终盘点",
+        "onboard_time": 1735284800,
+        "rank": 29,
+        "category": "科学科普,军事"
+      },
+      {
+        "raw_hot": 332261,
+        "num": 232136,
+        "word": "宝石老舅拘留期满后照常录制节目",
+        "onboard_time": 1735272381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272682,
+        "num": 227717,
+        "word": "076",
+        "onboard_time": 1735266678,
+        "rank": 31,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 278370,
+        "num": 222028,
+        "word": "汪苏泷欢迎刘大锤看演唱会",
+        "onboard_time": 1735278623,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62734,
+        "num": 220700,
+        "word": "满江红编剧陈宇谈女性主义",
+        "onboard_time": 1735283241,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216449,
+        "num": 216449,
+        "word": "樊振东11点11分发博的深意",
+        "onboard_time": 1735271662,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210168,
+        "num": 210168,
+        "word": "WTT颁布不参赛就罚款新规",
+        "onboard_time": 1735272261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209488,
+        "num": 209488,
+        "word": "终于看到易烊千玺刘春和正脸了",
+        "onboard_time": 1735279281,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205754,
+        "num": 205754,
+        "word": "郑思维让樊振东做心中的自己",
+        "onboard_time": 1735279641,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204741,
+        "num": 204741,
+        "word": "宝石老舅道歉",
+        "onboard_time": 1735255576,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202676,
+        "num": 202676,
+        "word": "下岗离婚重度抑郁都没有击垮她",
+        "onboard_time": 1735277782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68597,
+        "num": 193163,
+        "word": "绝区零莱特",
+        "onboard_time": 1735283122,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191239,
+        "num": 191239,
+        "word": "女子主动进炒股群把老师高兴坏了",
+        "onboard_time": 1735284202,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191237,
+        "num": 191237,
+        "word": "时代少年团支持易烊千玺新片",
+        "onboard_time": 1735283782,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190163,
+        "num": 190163,
+        "word": "恋人",
+        "onboard_time": 1735279881,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183319,
+        "num": 183319,
+        "word": "A股放量1279亿",
+        "onboard_time": 1735284262,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180515,
+        "num": 180515,
+        "word": "四川舰雄起",
+        "onboard_time": 1735271241,
+        "rank": 45,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 179903,
+        "num": 179903,
+        "word": "大二女生创作吧唧一年半赚5万",
+        "onboard_time": 1735267878,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175411,
+        "num": 175411,
+        "word": "肯德基 孙颖莎",
+        "onboard_time": 1735272562,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159713,
+        "num": 159713,
+        "word": "目前陈梦4700分世排第4",
+        "onboard_time": 1735284141,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156845,
+        "num": 156845,
+        "word": "泰勒斯威夫特真的有QQ号",
+        "onboard_time": 1735269320,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市治理#"
+    }
+  }
+}

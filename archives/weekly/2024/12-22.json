@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735284171955,
+  "endTime": 1735284929671,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -875,6 +875,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 1017493,
+      "num": 462810,
+      "word": "小小的我 周雨彤",
+      "onboard_time": 1735281142,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1005382,
       "num": 756848,
       "word": "圣诞节",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1734910998,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 951286,
+      "num": 464570,
+      "word": "刘国梁",
+      "onboard_time": 1735283241,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 949907,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1735049960,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 873640,
-      "num": 462810,
-      "word": "小小的我 周雨彤",
-      "onboard_time": 1735281142,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 871310,
@@ -2443,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 569462,
-      "num": 464570,
-      "word": "刘国梁",
-      "onboard_time": 1735283241,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 566472,
       "num": 566472,
       "word": "吉林一家三口开车坠江车辆已找到",
@@ -2883,12 +2883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499415,
+      "num": 287002,
+      "word": "田志希宣布退出韩国国家队",
+      "onboard_time": 1735284020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
       "onboard_time": 1734885316,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 495172,
+      "num": 480077,
+      "word": "小小的我",
+      "onboard_time": 1734957858,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 488264,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1734921436,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 480077,
-      "num": 480077,
-      "word": "小小的我",
-      "onboard_time": 1734957858,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 480071,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1735120338,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 414911,
+      "num": 331906,
+      "word": "易烊千玺演技",
+      "onboard_time": 1735281743,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 414617,
@@ -4571,14 +4587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331906,
-      "num": 331906,
-      "word": "易烊千玺演技",
-      "onboard_time": 1735281743,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 331221,
       "num": 331221,
       "word": "刘亦菲中学班级合照",
@@ -5441,6 +5449,14 @@
       "onboard_time": 1735185018,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 275274,
+      "num": 389859,
+      "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
+      "onboard_time": 1735282701,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274013,
@@ -7355,14 +7371,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 205525,
-      "num": 205525,
-      "word": "田志希宣布退出韩国国家队",
-      "onboard_time": 1735284020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "秦岚情绪稳定的原因找到了",
@@ -8075,14 +8083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193495,
-      "num": 389859,
-      "word": "徐娇给劝阻男子抽烟餐厅写感谢信",
-      "onboard_time": 1735282701,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192988,
       "num": 192988,
       "word": "王一博新歌试听视频",
@@ -8193,6 +8193,14 @@
       "onboard_time": 1734922397,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 191239,
+      "num": 191239,
+      "word": "女子主动进炒股群把老师高兴坏了",
+      "onboard_time": 1735284202,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191205,
@@ -8737,6 +8745,14 @@
       "onboard_time": 1735034719,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183319,
+      "num": 183319,
+      "word": "A股放量1279亿",
+      "onboard_time": 1735284262,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 182883,
@@ -10163,6 +10179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159713,
+      "num": 159713,
+      "word": "目前陈梦4700分世排第4",
+      "onboard_time": 1735284141,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159639,
       "num": 159639,
       "word": "光夜新浪扫楼",
@@ -10561,14 +10585,6 @@
       "onboard_time": 1735063872,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154169,
-      "num": 158724,
-      "word": "目前陈梦4700分世排第4",
-      "onboard_time": 1735284141,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 154164,
@@ -14923,6 +14939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87646,
+      "num": 399418,
+      "word": "巡视组称万年县选人用人风气不正",
+      "onboard_time": 1735284020,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87576,
       "num": 194730,
       "word": "妖刀姬臻华皮肤",
@@ -15299,6 +15323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80564,
+      "num": 462433,
+      "word": "刘德华恭喜发财正在解冻中",
+      "onboard_time": 1735283421,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80434,
       "num": 199532,
       "word": "韩国65岁及以上人口超20%",
@@ -15313,6 +15345,14 @@
       "onboard_time": 1735085118,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80300,
+      "num": 257536,
+      "word": "国际乒联第52周排名公布",
+      "onboard_time": 1735283841,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 79702,
@@ -15467,6 +15507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76770,
+      "num": 379178,
+      "word": "上海羊肉串店韩语服务员安排上了",
+      "onboard_time": 1735284020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76742,
       "num": 216066,
       "word": "官方回应洒水车野蛮洒水浇透老人",
@@ -15539,14 +15587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75725,
-      "num": 183869,
-      "word": "国际乒联第52周排名公布",
-      "onboard_time": 1735283841,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75713,
       "num": 210156,
       "word": "董明珠称人生要在斗争中成长",
@@ -15592,14 +15632,6 @@
       "word": "三亚春节限价有高端套房降18万元",
       "onboard_time": 1734955759,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74785,
-      "num": 399418,
-      "word": "巡视组称万年县选人用人风气不正",
-      "onboard_time": 1735284020,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -15851,6 +15883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 70735,
+      "num": 356378,
+      "word": "华晨宇带perper上封面",
+      "onboard_time": 1735284082,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70694,
       "num": 75735,
       "word": "张国荣梅艳芳合影",
@@ -15929,6 +15969,14 @@
       "onboard_time": 1734938356,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68930,
+      "num": 272738,
+      "word": "许七安 最近是有在减肥当中",
+      "onboard_time": 1735284262,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 68775,
@@ -17635,14 +17683,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 44532,
-      "num": 356378,
-      "word": "华晨宇带perper上封面",
-      "onboard_time": 1735284082,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44486,
       "num": 480100,
       "word": "李一桐向往的修仙生活",
@@ -17963,14 +18003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 40382,
-      "num": 462433,
-      "word": "刘德华恭喜发财正在解冻中",
-      "onboard_time": 1735283421,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 40360,
       "num": 516952,
       "word": "国家铁路完成货物发送量3.5亿吨",
@@ -18041,14 +18073,6 @@
       "onboard_time": 1735187538,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 39443,
-      "num": 379178,
-      "word": "上海羊肉串店韩语服务员安排上了",
-      "onboard_time": 1735284020,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39193,
@@ -19411,6 +19435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 25669,
+      "num": 360345,
+      "word": "陈小春李昊粤语rap到翘嘴",
+      "onboard_time": 1735282102,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25550,
       "num": 382889,
       "word": "豪情DNA被激活了",
@@ -19561,6 +19593,14 @@
       "onboard_time": 1734888616,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24725,
+      "num": 273729,
+      "word": "上官正义称不会因为威胁而退缩",
+      "onboard_time": 1735284741,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 24612,
@@ -19987,14 +20027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19339,
-      "num": 360345,
-      "word": "陈小春李昊粤语rap到翘嘴",
-      "onboard_time": 1735282102,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19122,
       "num": 23821,
       "word": "真人秀制作人被提名为美国驻英特使",
@@ -20371,6 +20403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13053,
+      "num": 241085,
+      "word": "曝啪姐卡哥订婚",
+      "onboard_time": 1735284020,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12895,
       "num": 505546,
       "word": "一图盘点2024年A股热门概念",
@@ -20587,14 +20627,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10336,
-      "num": 205562,
-      "word": "曝啪姐卡哥订婚",
-      "onboard_time": 1735284020,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 10289,
       "num": 302563,
       "word": "2024八问中国电影",
@@ -20681,6 +20713,14 @@
       "onboard_time": 1735123038,
       "rank": 29,
       "category": "旅游,游戏"
+    },
+    {
+      "raw_hot": 8237,
+      "num": 235425,
+      "word": "2024中国载人航天年终盘点",
+      "onboard_time": 1735284800,
+      "rank": 29,
+      "category": "科学科普,军事"
     },
     {
       "raw_hot": 8022,
