@@ -1,0 +1,410 @@
+{
+  "runTime": 1735364286178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 814085,
+        "num": 1130253,
+        "word": "上千只羊交易前被管插喉咙猛灌饲料",
+        "onboard_time": 1735358420,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 968048,
+        "num": 968048,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32658,
+        "num": 966984,
+        "word": "文化中国行看青铜之美",
+        "onboard_time": 1735354577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 966808,
+        "num": 966808,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593650,
+        "num": 943868,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 921441,
+        "num": 921441,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 800826,
+        "num": 800826,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640427,
+        "num": 640427,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735362619,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580806,
+        "num": 580806,
+        "word": "哈萨克斯坦坠毁客机黑匣子内容曝光",
+        "onboard_time": 1735361120,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72114,
+        "num": 540184,
+        "word": "反偷拍绝不可自导自演",
+        "onboard_time": 1735363639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526960,
+        "num": 526960,
+        "word": "警方通报2女子在急诊室被家暴",
+        "onboard_time": 1735353499,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 461839,
+        "num": 461839,
+        "word": "程靖淇说王楚钦该扛起这杆旗了",
+        "onboard_time": 1735358840,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403454,
+        "num": 403454,
+        "word": "九重紫直播",
+        "onboard_time": 1735362379,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320831,
+        "num": 320831,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1735357340,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101167,
+        "num": 317022,
+        "word": "帕劳失联潜水者讲述28小时自救经历",
+        "onboard_time": 1735362619,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314231,
+        "num": 314231,
+        "word": "丁禹兮 晋江式演技劳模",
+        "onboard_time": 1735357340,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303103,
+        "num": 303103,
+        "word": "杨紫李现二搭宿命感",
+        "onboard_time": 1735359381,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293104,
+        "num": 293104,
+        "word": "41岁教师去世200多名学生赶来送行",
+        "onboard_time": 1735356140,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88567,
+        "num": 291379,
+        "word": "现在就出发",
+        "onboard_time": 1735363339,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290493,
+        "num": 290493,
+        "word": "张雪峰公司年会撒现金",
+        "onboard_time": 1735357340,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1056222,
+        "num": 285942,
+        "word": "赵露思生病很严重",
+        "onboard_time": 1735313062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270653,
+        "num": 270653,
+        "word": "黄子韬抽车的答案写在反不正当竞争法",
+        "onboard_time": 1735360641,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217032,
+        "num": 217032,
+        "word": "杨紫红眼流泪镜头",
+        "onboard_time": 1735359018,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208168,
+        "num": 208168,
+        "word": "杨笠 我一边追他一边怕把他追上",
+        "onboard_time": 1735363460,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111264,
+        "num": 194380,
+        "word": "最受喜爱女角色暖暖Nikki",
+        "onboard_time": 1735362499,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191262,
+        "num": 191262,
+        "word": "九重紫",
+        "onboard_time": 1735352959,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177836,
+        "num": 177836,
+        "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
+        "onboard_time": 1735356919,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177033,
+        "num": 177033,
+        "word": "晓华说欢迎大家来蹭流量",
+        "onboard_time": 1735362619,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176955,
+        "num": 176955,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 176927,
+        "word": "孟子义 有请兜里少爷",
+        "onboard_time": 1735363639,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226544,
+        "num": 176925,
+        "word": "连杀数任丈夫的日本黑寡妇病亡",
+        "onboard_time": 1735363398,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176923,
+        "num": 176923,
+        "word": "字节跳动明确表示不会出售TikTok",
+        "onboard_time": 1735363160,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174728,
+        "num": 174728,
+        "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
+        "onboard_time": 1735359861,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170324,
+        "num": 170324,
+        "word": "军队文职",
+        "onboard_time": 1735357279,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162420,
+        "num": 162420,
+        "word": "6岁的妹妹把我的遗憾记了12年",
+        "onboard_time": 1735361240,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162263,
+        "num": 162263,
+        "word": "九尾直播",
+        "onboard_time": 1735361538,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159306,
+        "num": 159306,
+        "word": "白鹿敖瑞鹏白月梵星repo",
+        "onboard_time": 1735363999,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157993,
+        "num": 157993,
+        "word": "感觉白猫的主人快碎掉了",
+        "onboard_time": 1735361959,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149576,
+        "num": 149576,
+        "word": "肖战郭靖和他的小红马",
+        "onboard_time": 1735361838,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138011,
+        "num": 138011,
+        "word": "王一博新歌我在",
+        "onboard_time": 1735359861,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 30391,
+        "num": 133973,
+        "word": "易烊千玺平凡的一天",
+        "onboard_time": 1735358599,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132808,
+        "num": 132808,
+        "word": "医保统筹个人自付个人自费咋区分",
+        "onboard_time": 1735359559,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130135,
+        "num": 130135,
+        "word": "工藤新一 世男一的出场方式",
+        "onboard_time": 1735363879,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128122,
+        "num": 128122,
+        "word": "李武军评价樊振东陈梦",
+        "onboard_time": 1735355298,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "王楚然成何体统妆造",
+        "onboard_time": 1735361838,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "成都新添一AAAAA级景区",
+        "onboard_time": 1735363040,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125307,
+        "num": 125307,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125110,
+        "num": 125110,
+        "word": "于正说在娱乐圈不能太较真",
+        "onboard_time": 1735364177,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122257,
+        "num": 122257,
+        "word": "刘德华演唱会差点从3米高台摔下",
+        "onboard_time": 1735364240,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118297,
+        "num": 118297,
+        "word": "特朗普要求暂停执行TikTok强制出售令",
+        "onboard_time": 1735344377,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}
