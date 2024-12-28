@@ -1,0 +1,410 @@
+{
+  "runTime": 1735350991152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640024,
+        "num": 1640024,
+        "word": "曝赵露思爸爸报平安",
+        "onboard_time": 1735348519,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159123,
+        "num": 1159123,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22108,
+        "num": 833905,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 651129,
+        "num": 651129,
+        "word": "特朗普要求暂停执行TikTok强制出售令",
+        "onboard_time": 1735344377,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 547273,
+        "num": 547273,
+        "word": "深圳生4胞胎家庭仍因恶评不悦",
+        "onboard_time": 1735346539,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383530,
+        "num": 383530,
+        "word": "亮剑鬼子大佐演员患甲状腺癌",
+        "onboard_time": 1735344677,
+        "rank": 5,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 376931,
+        "num": 376931,
+        "word": "火锅店称晚上10点后一半是韩国人",
+        "onboard_time": 1735344677,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 355690,
+        "num": 355690,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350953,
+        "num": 350953,
+        "word": "赵今麦瘦了好多啊",
+        "onboard_time": 1735344437,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250303,
+        "num": 345266,
+        "word": "我们的养老金要全面上涨了吗",
+        "onboard_time": 1735347499,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 341379,
+        "num": 341379,
+        "word": "李川锤娜丽莎 纯爱",
+        "onboard_time": 1735344437,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328159,
+        "num": 328159,
+        "word": "韩国游客吃鸭肠脑花疯狂上头",
+        "onboard_time": 1735348159,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 265440,
+        "num": 265440,
+        "word": "金秀贤感谢金智媛",
+        "onboard_time": 1735344857,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257238,
+        "num": 257238,
+        "word": "阿鲁纳评价樊振东退出排名",
+        "onboard_time": 1735347499,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241216,
+        "num": 241216,
+        "word": "队友心疼樊振东埋头努力",
+        "onboard_time": 1735348220,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238732,
+        "num": 238732,
+        "word": "宝石老舅你糊涂啊",
+        "onboard_time": 1735322713,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228617,
+        "num": 228617,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221029,
+        "num": 221029,
+        "word": "韩国人表示上海还是太全面",
+        "onboard_time": 1735313183,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219487,
+        "num": 219487,
+        "word": "坐地铁从兜里缓缓掏出一枚玉佩",
+        "onboard_time": 1735350378,
+        "rank": 18,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 189697,
+        "num": 189697,
+        "word": "刘亦菲 哈尔滨",
+        "onboard_time": 1735345038,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1579215,
+        "num": 189696,
+        "word": "赵露思生病很严重",
+        "onboard_time": 1735313062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804714,
+        "num": 189068,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313619,
+        "num": 188715,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271591,
+        "num": 187982,
+        "word": "白敬亭手串",
+        "onboard_time": 1735345038,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94948,
+        "num": 187738,
+        "word": "C罗认为威尼修斯应该获得金球奖",
+        "onboard_time": 1735348399,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267158,
+        "num": 187144,
+        "word": "牛肉价格已跌到近5年最低",
+        "onboard_time": 1735346117,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204456,
+        "num": 186899,
+        "word": "程靖淇说王楚钦打球很干净",
+        "onboard_time": 1735346180,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186632,
+        "num": 186632,
+        "word": "南宁强占人妻区长简历被撤下",
+        "onboard_time": 1735308140,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159955,
+        "num": 159955,
+        "word": "佛山近百只猫在水塘中被溺死",
+        "onboard_time": 1735342635,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153496,
+        "num": 153496,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "苏州农村自建房已经进化成这样了吗",
+        "onboard_time": 1735344497,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134923,
+        "num": 134923,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124445,
+        "num": 124445,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117278,
+        "num": 117278,
+        "word": "深圳四胞胎家庭月开销一万多",
+        "onboard_time": 1735344437,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113316,
+        "num": 113316,
+        "word": "媒体评宝石老舅道歉理由和时机",
+        "onboard_time": 1735327331,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112626,
+        "num": 112626,
+        "word": "王鹤棣演唱会预热",
+        "onboard_time": 1735350439,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111650,
+        "num": 111650,
+        "word": "外卖小哥两年假摔18次骗保20万",
+        "onboard_time": 1735320135,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109957,
+        "num": 109957,
+        "word": "肖战沧海一声笑武侠风吹到了山东",
+        "onboard_time": 1735349719,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 109162,
+        "num": 109162,
+        "word": "近期人偏肺病毒流行",
+        "onboard_time": 1735348459,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104777,
+        "num": 104777,
+        "word": "邵子恒好帅",
+        "onboard_time": 1735347980,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101423,
+        "num": 101423,
+        "word": "影子不会说谎被采取刑事强制措施",
+        "onboard_time": 1735314921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100955,
+        "num": 100955,
+        "word": "丁禹兮版他不懂",
+        "onboard_time": 1735345819,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100438,
+        "num": 100438,
+        "word": "两男子急诊室怒斥殴打两女患者",
+        "onboard_time": 1735348579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98785,
+        "num": 98785,
+        "word": "念无双爱奇艺分销给优酷",
+        "onboard_time": 1735350558,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98008,
+        "num": 98008,
+        "word": "爱奇艺开年大剧三部曲",
+        "onboard_time": 1735314621,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94692,
+        "num": 94692,
+        "word": "韩国人真的会因为爱吃西瓜去火锅店吗",
+        "onboard_time": 1735344377,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48433,
+        "num": 92406,
+        "word": "国王解雇迈克布朗",
+        "onboard_time": 1735346239,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91088,
+        "num": 91088,
+        "word": "秦彻潜入夜",
+        "onboard_time": 1735350739,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90024,
+        "num": 90024,
+        "word": "终于把马天宇送进组了",
+        "onboard_time": 1735310423,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89119,
+        "num": 89119,
+        "word": "下周就要进入2025了",
+        "onboard_time": 1735344377,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开民主生活会#"
+    }
+  }
+}
