@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735420781016,
+  "endTime": 1735421733520,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20599,
+      "num": 44294,
+      "word": "埃文凯尔收到40年历史收藏品感动落泪",
+      "onboard_time": 1735419911,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19261,
       "num": 36237,
       "word": "升维突破才是中国车企的理想状态",
@@ -651,19 +659,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10200,
-      "num": 44294,
-      "word": "埃文凯尔收到40年历史收藏品感动落泪",
-      "onboard_time": 1735419911,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10028,
       "num": 41116,
       "word": "为卖设备假装住酒店被偷拍35人被抓",
       "onboard_time": 1735414031,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8960,
+      "num": 25745,
+      "word": "它是无言的队友也是亲人朋友",
+      "onboard_time": 1735412113,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -673,6 +681,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7267,
+      "num": 26233,
+      "word": "朱丽叶饰演者奥丽维娅赫西去世",
+      "onboard_time": 1735421591,
+      "rank": 19,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
