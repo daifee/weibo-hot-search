@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735364286178,
+  "endTime": 1735367363349,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -16,6 +16,14 @@
       "word": "赵露思工作室回应",
       "onboard_time": 1735289120,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2231392,
+      "num": 2231392,
+      "word": "黄子韬称太贵的车是无法赠与的",
+      "onboard_time": 1735363099,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1735351158,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 800826,
-      "num": 800826,
-      "word": "黄子韬称太贵的车是无法赠与的",
-      "onboard_time": 1735363099,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 737566,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373791,
+      "num": 373791,
+      "word": "我家那小子",
+      "onboard_time": 1735365439,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365259,
       "num": 345501,
       "word": "88岁老兵去世天空仙鹤盘旋",
@@ -313,6 +321,14 @@
       "onboard_time": 1735348159,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 356123,
+      "num": 356123,
+      "word": "新中式的风吹到了韩国",
+      "onboard_time": 1735365559,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 355279,
@@ -377,6 +393,14 @@
       "onboard_time": 1735354098,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329816,
+      "num": 329816,
+      "word": "刘德华演唱会差点从3米高台摔下",
+      "onboard_time": 1735364240,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 329545,
@@ -539,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233441,
+      "num": 233441,
+      "word": "字节跳动明确表示不会出售TikTok",
+      "onboard_time": 1735363160,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 230754,
       "num": 196133,
       "word": "两男子急诊室怒斥殴打两女患者",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 226544,
-      "num": 176925,
+      "num": 203170,
       "word": "连杀数任丈夫的日本黑寡妇病亡",
       "onboard_time": 1735363398,
       "rank": 30,
@@ -595,6 +627,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 217136,
+      "num": 217136,
+      "word": "于正说在娱乐圈不能太较真",
+      "onboard_time": 1735364177,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215910,
+      "num": 215910,
+      "word": "工藤新一 世男一的出场方式",
+      "onboard_time": 1735363879,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 213823,
       "num": 143737,
       "word": "Project7决赛",
@@ -616,6 +664,22 @@
       "word": "杨笠 我一边追他一边怕把他追上",
       "onboard_time": 1735363460,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206228,
+      "num": 206228,
+      "word": "张萌硬cue",
+      "onboard_time": 1735365199,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205902,
+      "num": 205902,
+      "word": "张远一年水费只用了10块钱",
+      "onboard_time": 1735366639,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -723,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178567,
+      "num": 264314,
+      "word": "为什么越来越多女生爱上穿男装",
+      "onboard_time": 1735365439,
+      "rank": 14,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 178145,
       "num": 178145,
       "word": "恋与深空环球告白",
@@ -737,14 +809,6 @@
       "onboard_time": 1735362619,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176923,
-      "num": 176923,
-      "word": "字节跳动明确表示不会出售TikTok",
-      "onboard_time": 1735363160,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 176785,
@@ -891,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156565,
+      "num": 206173,
+      "word": "就这个杨紫原声台词爽",
+      "onboard_time": 1735365980,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156304,
       "num": 194380,
       "word": "最受喜爱女角色暖暖Nikki",
@@ -916,7 +988,7 @@
     },
     {
       "raw_hot": 154439,
-      "num": 154439,
+      "num": 206077,
       "word": "王者荣耀新赛季",
       "onboard_time": 1735361180,
       "rank": 41,
@@ -963,6 +1035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149032,
+      "num": 149032,
+      "word": "刘德华手写信报平安",
+      "onboard_time": 1735364720,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146679,
       "num": 146679,
       "word": "警花回应与景甜相似被称尔滨分甜",
@@ -977,6 +1057,14 @@
       "onboard_time": 1735360578,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144613,
+      "num": 144613,
+      "word": "最令人诧异的求婚地点出现了",
+      "onboard_time": 1735365618,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 144151,
@@ -1059,20 +1147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131569,
+      "num": 131569,
+      "word": "2女子在急诊室被家暴未报警",
+      "onboard_time": 1735364658,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131394,
       "num": 131394,
       "word": "荣耀终端公司名称变更",
       "onboard_time": 1735363099,
       "rank": 46,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 130135,
-      "num": 130135,
-      "word": "工藤新一 世男一的出场方式",
-      "onboard_time": 1735363879,
-      "rank": 42,
-      "category": "动漫"
     },
     {
       "raw_hot": 129758,
@@ -1124,7 +1212,7 @@
     },
     {
       "raw_hot": 126828,
-      "num": 126828,
+      "num": 205903,
       "word": "独行侠太阳冲突",
       "onboard_time": 1735363040,
       "rank": 49,
@@ -1171,28 +1259,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 125110,
-      "num": 125110,
-      "word": "于正说在娱乐圈不能太较真",
-      "onboard_time": 1735364177,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122832,
       "num": 122832,
       "word": "韩国人真的会因为爱吃西瓜去火锅店吗",
       "onboard_time": 1735344377,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 122257,
-      "num": 122257,
-      "word": "刘德华演唱会差点从3米高台摔下",
-      "onboard_time": 1735364240,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 121184,
@@ -1227,12 +1299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118696,
+      "num": 118696,
+      "word": "美媒爆特朗普已与周受资通电话",
+      "onboard_time": 1735367181,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118652,
       "num": 118652,
       "word": "餐厅无禁烟标就是抽烟的借口吗",
       "onboard_time": 1735351519,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117053,
+      "num": 234309,
+      "word": "王一博跨年摩托",
+      "onboard_time": 1735365378,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 114764,
@@ -1297,6 +1385,14 @@
       "onboard_time": 1735343837,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107118,
+      "num": 400276,
+      "word": "反偷拍骗局恶劣不亚于偷拍",
+      "onboard_time": 1735365559,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 106313,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1735344377,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99089,
+      "num": 115155,
+      "word": "张碧晨灵魂质问你原谅吗",
+      "onboard_time": 1735367119,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 98785,
@@ -1715,6 +1819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26324,
+      "num": 224274,
+      "word": "你会担心自己跟不上时代吗",
+      "onboard_time": 1735366459,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 25937,
       "num": 216057,
       "word": "年轻人周末班味去除计划",
@@ -1745,6 +1857,22 @@
       "onboard_time": 1735336272,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24332,
+      "num": 206051,
+      "word": "高尔夫球场都是什么车",
+      "onboard_time": 1735366218,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23118,
+      "num": 262372,
+      "word": "王鹤棣的dreamcar",
+      "onboard_time": 1735364298,
+      "rank": 15,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 22264,
