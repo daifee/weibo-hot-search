@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735389580912,
+  "endTime": 1735390487757,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1091018,
+      "num": 599108,
+      "word": "庆余年",
+      "onboard_time": 1735388000,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1061256,
       "num": 966808,
       "word": "赵露思爸爸",
@@ -155,20 +163,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1009771,
+      "num": 962352,
+      "word": "2024全球最帅一百张面孔",
+      "onboard_time": 1735385300,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 999576,
       "num": 441624,
       "word": "王鹤棣发红包",
       "onboard_time": 1735383079,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 962352,
-      "num": 962352,
-      "word": "2024全球最帅一百张面孔",
-      "onboard_time": 1735385300,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 924910,
@@ -243,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670222,
+      "num": 614595,
+      "word": "大奉打更人第一集就要会员",
+      "onboard_time": 1735388361,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 664686,
+      "num": 362684,
+      "word": "冉莹颖儿子打生长激素27天见成效",
+      "onboard_time": 1735389501,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655345,
       "num": 368386,
       "word": "刘亦菲去看冰封黄玫瑰了",
@@ -275,14 +299,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 614595,
-      "num": 614595,
-      "word": "大奉打更人第一集就要会员",
-      "onboard_time": 1735388361,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 606545,
       "num": 606545,
       "word": "警方通报2女子在急诊室被家暴",
@@ -297,14 +313,6 @@
       "onboard_time": 1735361120,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 599108,
-      "num": 599108,
-      "word": "庆余年",
-      "onboard_time": 1735388000,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 591887,
@@ -403,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 512192,
+      "num": 326744,
+      "word": "李昀锐用孟子义的粉饼补妆",
+      "onboard_time": 1735387821,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504577,
       "num": 504577,
       "word": "程靖淇说王楚钦该扛起这杆旗了",
       "onboard_time": 1735358840,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494888,
+      "num": 494888,
+      "word": "男子口含玻璃渣吃饭敲诈餐厅",
+      "onboard_time": 1735388481,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 490683,
@@ -427,20 +451,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484430,
+      "num": 471488,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735384938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "花海",
       "onboard_time": 1735314681,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 471488,
-      "num": 471488,
-      "word": "大奉打更人热度",
-      "onboard_time": 1735384938,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 461902,
@@ -513,14 +537,6 @@
       "onboard_time": 1735357279,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 411163,
-      "num": 199049,
-      "word": "李昀锐用孟子义的粉饼补妆",
-      "onboard_time": 1735387821,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 403454,
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252992,
+      "num": 252992,
+      "word": "你好星期六",
+      "onboard_time": 1735389200,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248866,
       "num": 248866,
       "word": "你好星期六全员晒收快递记录",
@@ -969,6 +993,14 @@
       "onboard_time": 1735348579,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228476,
+      "num": 228476,
+      "word": "从韩国回来最大的感受是什么",
+      "onboard_time": 1735385479,
+      "rank": 49,
+      "category": "旅游,情感"
     },
     {
       "raw_hot": 227855,
@@ -1051,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209798,
+      "num": 209798,
+      "word": "孟子义李昀锐不会营业全是真情",
+      "onboard_time": 1735389080,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209434,
       "num": 209434,
       "word": "江疏影 完全是妈咪级别的",
@@ -1067,20 +1107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207214,
-      "num": 207214,
-      "word": "从韩国回来最大的感受是什么",
-      "onboard_time": 1735385479,
-      "rank": 49,
-      "category": "旅游,情感"
-    },
-    {
       "raw_hot": 207068,
       "num": 207068,
       "word": "一诺跳了张艺兴的舞蹈",
       "onboard_time": 1735375160,
       "rank": 49,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 206947,
+      "num": 206947,
+      "word": "华晨宇时代少年合作",
+      "onboard_time": 1735390160,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 206228,
@@ -1275,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194025,
+      "num": 221440,
+      "word": "吃火锅必不可少的三样菜",
+      "onboard_time": 1735382718,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193353,
       "num": 193353,
       "word": "她填补了海里没有牛马的空缺",
@@ -1289,14 +1337,6 @@
       "onboard_time": 1735381398,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191749,
-      "num": 191749,
-      "word": "吃火锅必不可少的三样菜",
-      "onboard_time": 1735382718,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 190815,
@@ -1393,6 +1433,14 @@
       "onboard_time": 1735316059,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 175318,
+      "num": 175318,
+      "word": "黄雅琼回应不和王昶打混双",
+      "onboard_time": 1735389320,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 174792,
@@ -1513,14 +1561,6 @@
       "onboard_time": 1735323074,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163910,
-      "num": 163910,
-      "word": "孟子义李昀锐不会营业全是真情",
-      "onboard_time": 1735389080,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 163735,
@@ -1739,14 +1779,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 149340,
-      "num": 149340,
-      "word": "冉莹颖儿子打生长激素27天见成效",
-      "onboard_time": 1735389501,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149144,
       "num": 149144,
       "word": "橘猫 那咋了",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1735364720,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148949,
+      "num": 148949,
+      "word": "张萌九重紫直播成许愿对象",
+      "onboard_time": 1735389620,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 147734,
@@ -1875,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140703,
+      "num": 140703,
+      "word": "TTG对战情久",
+      "onboard_time": 1735389861,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140198,
       "num": 140198,
       "word": "冬至把黄景瑜甜成萨摩耶了",
@@ -1897,6 +1945,14 @@
       "onboard_time": 1735380799,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139090,
+      "num": 228385,
+      "word": "西村力kpop首帅",
+      "onboard_time": 1735389980,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 138612,
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 134469,
-      "num": 134469,
+      "num": 207171,
       "word": "外界关注中国六代机成功首飞传闻",
       "onboard_time": 1735371141,
       "rank": 36,
@@ -2009,14 +2065,6 @@
       "onboard_time": 1735311564,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133468,
-      "num": 205866,
-      "word": "你好星期六",
-      "onboard_time": 1735389200,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 133207,
@@ -2219,14 +2267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121660,
-      "num": 205516,
-      "word": "男子口含玻璃渣吃饭敲诈餐厅",
-      "onboard_time": 1735388481,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121292,
       "num": 121292,
       "word": "轮到檀健次的舞台粉上桌了",
@@ -2291,8 +2331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117224,
-      "num": 117224,
+      "raw_hot": 118337,
+      "num": 118337,
       "word": "涨涨涨金价一年创40次新高",
       "onboard_time": 1735386139,
       "rank": 48,
@@ -2337,6 +2377,14 @@
       "onboard_time": 1735322713,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113721,
+      "num": 202788,
+      "word": "车厘子价格仍有下降空间",
+      "onboard_time": 1735387700,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112626,
@@ -2483,20 +2531,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103436,
+      "num": 410239,
+      "word": "合租房客厅装摄影头违法吗",
+      "onboard_time": 1735388960,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103379,
       "num": 103379,
       "word": "樊振东引用霉霉歌词回应退役传闻",
       "onboard_time": 1735308620,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102707,
-      "num": 202788,
-      "word": "车厘子价格仍有下降空间",
-      "onboard_time": 1735387700,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102702,
@@ -2971,14 +3019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31330,
-      "num": 410239,
-      "word": "合租房客厅装摄影头违法吗",
-      "onboard_time": 1735388960,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30684,
       "num": 247137,
       "word": "辛巴直播送600万箱年货福利",
@@ -3075,6 +3115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25859,
+      "num": 187719,
+      "word": "上课时你试过困到什么地步",
+      "onboard_time": 1735389381,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25746,
       "num": 27948,
       "word": "周深八段锦BGM好洗脑",
@@ -3152,6 +3200,14 @@
       "word": "TES挺进德杯决赛",
       "onboard_time": 1735341255,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 20122,
+      "num": 220077,
+      "word": "33黑西装统治区",
+      "onboard_time": 1735390099,
+      "rank": 24,
       "category": "电竞"
     },
     {
@@ -3289,14 +3345,6 @@
       "onboard_time": 1735335852,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 9151,
-      "num": 187719,
-      "word": "上课时你试过困到什么地步",
-      "onboard_time": 1735389381,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 7260,
