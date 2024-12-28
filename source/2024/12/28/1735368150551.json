@@ -1,0 +1,410 @@
+{
+  "runTime": 1735368150551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4100412,
+        "num": 4100412,
+        "word": "赵薇离婚",
+        "onboard_time": 1735367720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502778,
+        "num": 502778,
+        "word": "上千只羊交易前被管插喉咙猛灌饲料",
+        "onboard_time": 1735358420,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27575,
+        "num": 441899,
+        "word": "文化中国行看青铜之美",
+        "onboard_time": 1735354577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2055992,
+        "num": 427794,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413684,
+        "num": 413684,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 4,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 701101,
+        "num": 403101,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 810752,
+        "num": 399141,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536671,
+        "num": 397350,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386185,
+        "num": 386185,
+        "word": "新中式的风吹到了韩国",
+        "onboard_time": 1735365559,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359148,
+        "num": 359148,
+        "word": "哈萨克斯坦坠毁客机黑匣子内容曝光",
+        "onboard_time": 1735361120,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 463988,
+        "num": 355305,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735362619,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375648,
+        "num": 353110,
+        "word": "刘德华演唱会差点从3米高台摔下",
+        "onboard_time": 1735364240,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350096,
+        "num": 350096,
+        "word": "我家那小子",
+        "onboard_time": 1735365439,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299395,
+        "num": 299395,
+        "word": "黄多多ins晒照",
+        "onboard_time": 1735367480,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241627,
+        "num": 241627,
+        "word": "工藤新一 世男一的出场方式",
+        "onboard_time": 1735363879,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27031,
+        "num": 230654,
+        "word": "王鹤棣的dreamcar",
+        "onboard_time": 1735364298,
+        "rank": 15,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 226415,
+        "num": 226415,
+        "word": "程靖淇说王楚钦该扛起这杆旗了",
+        "onboard_time": 1735358840,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224453,
+        "num": 224453,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1735357340,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210777,
+        "num": 210777,
+        "word": "字节跳动明确表示不会出售TikTok",
+        "onboard_time": 1735363160,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 34129,
+        "num": 210755,
+        "word": "你会担心自己跟不上时代吗",
+        "onboard_time": 1735366459,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 834097,
+        "num": 209587,
+        "word": "赵露思状态",
+        "onboard_time": 1735309881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386792,
+        "num": 208496,
+        "word": "张远一年水费只用了10块钱",
+        "onboard_time": 1735366639,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261082,
+        "num": 207662,
+        "word": "赵薇 黄有龙",
+        "onboard_time": 1735368082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28081,
+        "num": 206709,
+        "word": "郭富城演唱会上跌落舞台发出巨响",
+        "onboard_time": 1735367961,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60120,
+        "num": 206028,
+        "word": "王者荣耀新赛季",
+        "onboard_time": 1735361180,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251494,
+        "num": 205402,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244137,
+        "num": 204141,
+        "word": "丁禹兮 晋江式演技劳模",
+        "onboard_time": 1735357340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127969,
+        "num": 203382,
+        "word": "就这个杨紫原声台词爽",
+        "onboard_time": 1735365980,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24299,
+        "num": 202625,
+        "word": "一文回顾云南亿万富翁被害案",
+        "onboard_time": 1735367480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24407,
+        "num": 202279,
+        "word": "高尔夫球场都是什么车",
+        "onboard_time": 1735366218,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63753,
+        "num": 201467,
+        "word": "反偷拍绝不可自导自演",
+        "onboard_time": 1735363639,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232868,
+        "num": 200006,
+        "word": "九重紫直播",
+        "onboard_time": 1735362379,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199882,
+        "num": 199882,
+        "word": "于正说在娱乐圈不能太较真",
+        "onboard_time": 1735364177,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188759,
+        "num": 188759,
+        "word": "连杀数任丈夫的日本黑寡妇病亡",
+        "onboard_time": 1735363398,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188479,
+        "num": 188479,
+        "word": "九重紫",
+        "onboard_time": 1735352959,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179776,
+        "num": 179776,
+        "word": "为什么越来越多女生爱上穿男装",
+        "onboard_time": 1735365439,
+        "rank": 35,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 174111,
+        "num": 174111,
+        "word": "41岁教师去世200多名学生赶来送行",
+        "onboard_time": 1735356140,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 172800,
+        "word": "王一博跨年摩托",
+        "onboard_time": 1735365378,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172619,
+        "num": 172619,
+        "word": "张萌硬cue",
+        "onboard_time": 1735365199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141425,
+        "num": 167401,
+        "word": "张碧晨灵魂质问你原谅吗",
+        "onboard_time": 1735367119,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164870,
+        "num": 164870,
+        "word": "美媒爆特朗普已与周受资通电话",
+        "onboard_time": 1735367181,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156299,
+        "num": 156299,
+        "word": "最令人诧异的求婚地点出现了",
+        "onboard_time": 1735365618,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151201,
+        "num": 151201,
+        "word": "杨紫李现二搭宿命感",
+        "onboard_time": 1735359381,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143862,
+        "num": 143862,
+        "word": "2女子在急诊室被家暴未报警",
+        "onboard_time": 1735364658,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129001,
+        "num": 129001,
+        "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
+        "onboard_time": 1735359861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
+        "onboard_time": 1735356919,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122696,
+        "num": 122696,
+        "word": "虞书欣趣味颁奖",
+        "onboard_time": 1735367842,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121197,
+        "num": 121197,
+        "word": "田曦薇说来央八看大奉打更人",
+        "onboard_time": 1735367600,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117088,
+        "num": 117088,
+        "word": "小小的我 牛轧糖的意义",
+        "onboard_time": 1735367421,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108310,
+        "num": 108310,
+        "word": "张雪峰公司年会撒现金",
+        "onboard_time": 1735357340,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}

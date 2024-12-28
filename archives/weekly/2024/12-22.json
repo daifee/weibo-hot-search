@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735367363349,
+  "endTime": 1735368150551,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -56,6 +56,14 @@
       "word": "赵露思",
       "onboard_time": 1735278862,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4100412,
+      "num": 4100412,
+      "word": "赵薇离婚",
+      "onboard_time": 1735367720,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -4555,12 +4563,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386792,
+      "num": 208496,
+      "word": "张远一年水费只用了10块钱",
+      "onboard_time": 1735366639,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386678,
       "num": 291997,
       "word": "李昀锐直播",
       "onboard_time": 1734868159,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386185,
+      "num": 386185,
+      "word": "新中式的风吹到了韩国",
+      "onboard_time": 1735365559,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 385266,
@@ -4713,6 +4737,14 @@
       "onboard_time": 1735043538,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 375648,
+      "num": 353110,
+      "word": "刘德华演唱会差点从3米高台摔下",
+      "onboard_time": 1735364240,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 374774,
@@ -5043,14 +5075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356123,
-      "num": 356123,
-      "word": "新中式的风吹到了韩国",
-      "onboard_time": 1735365559,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 354595,
       "num": 354595,
       "word": "男子网贷1000元3天内需还2000元",
@@ -5337,14 +5361,6 @@
       "onboard_time": 1734916997,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 329816,
-      "num": 329816,
-      "word": "刘德华演唱会差点从3米高台摔下",
-      "onboard_time": 1735364240,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 329545,
@@ -5848,6 +5864,14 @@
       "word": "金佳蓝或将演员出道",
       "onboard_time": 1735185678,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 299395,
+      "num": 299395,
+      "word": "黄多多ins晒照",
+      "onboard_time": 1735367480,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -6675,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261082,
+      "num": 207662,
+      "word": "赵薇 黄有龙",
+      "onboard_time": 1735368082,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260420,
       "num": 260420,
       "word": "2岁男孩贪吃贪喝确诊儿童1型糖尿病",
@@ -7201,6 +7233,14 @@
       "onboard_time": 1735273521,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 241627,
+      "num": 241627,
+      "word": "工藤新一 世男一的出场方式",
+      "onboard_time": 1735363879,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 241132,
@@ -8099,14 +8139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215910,
-      "num": 215910,
-      "word": "工藤新一 世男一的出场方式",
-      "onboard_time": 1735363879,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 215684,
       "num": 396080,
       "word": "医院回应2男子急诊室殴打2女患者",
@@ -8632,14 +8664,6 @@
       "word": "沈腾两句话把王安宇哄成胚胎",
       "onboard_time": 1735201639,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 205902,
-      "num": 205902,
-      "word": "张远一年水费只用了10块钱",
-      "onboard_time": 1735366639,
-      "rank": 31,
       "category": "综艺"
     },
     {
@@ -10379,6 +10403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179776,
+      "num": 264314,
+      "word": "为什么越来越多女生爱上穿男装",
+      "onboard_time": 1735365439,
+      "rank": 14,
+      "category": "时尚,幽默"
+    },
+    {
       "raw_hot": 179717,
       "num": 154805,
       "word": "于文文居然喜欢收集彩色厕纸",
@@ -10481,14 +10513,6 @@
       "onboard_time": 1734925337,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178567,
-      "num": 264314,
-      "word": "为什么越来越多女生爱上穿男装",
-      "onboard_time": 1735365439,
-      "rank": 14,
-      "category": "时尚,幽默"
     },
     {
       "raw_hot": 178389,
@@ -11523,6 +11547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164870,
+      "num": 164870,
+      "word": "美媒爆特朗普已与周受资通电话",
+      "onboard_time": 1735367181,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164855,
       "num": 164855,
       "word": "王者S38新赛季",
@@ -12307,6 +12339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156299,
+      "num": 156299,
+      "word": "最令人诧异的求婚地点出现了",
+      "onboard_time": 1735365618,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156285,
       "num": 156285,
       "word": "清密无脸男尸身份均为考生",
@@ -12987,6 +13027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147734,
+      "num": 234309,
+      "word": "王一博跨年摩托",
+      "onboard_time": 1735365378,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147632,
       "num": 410751,
       "word": "国家一级演员职称的评选标准是什么",
@@ -13267,14 +13315,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 144613,
-      "num": 144613,
-      "word": "最令人诧异的求婚地点出现了",
-      "onboard_time": 1735365618,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144545,
       "num": 144545,
       "word": "看辩论赛真的会让脑子变快吗",
@@ -13329,6 +13369,14 @@
       "onboard_time": 1735110438,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143862,
+      "num": 143862,
+      "word": "2女子在急诊室被家暴未报警",
+      "onboard_time": 1735364658,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143841,
@@ -13553,6 +13601,14 @@
       "onboard_time": 1735198338,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141425,
+      "num": 167401,
+      "word": "张碧晨灵魂质问你原谅吗",
+      "onboard_time": 1735367119,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 141275,
@@ -14339,14 +14395,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 131569,
-      "num": 131569,
-      "word": "2女子在急诊室被家暴未报警",
-      "onboard_time": 1735364658,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131568,
       "num": 264374,
       "word": "马龙年度总结",
@@ -15131,6 +15179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122696,
+      "num": 122696,
+      "word": "虞书欣趣味颁奖",
+      "onboard_time": 1735367842,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122199,
       "num": 122199,
       "word": "轻断食 脱发",
@@ -15177,6 +15233,14 @@
       "onboard_time": 1735194018,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121197,
+      "num": 121197,
+      "word": "田曦薇说来央八看大奉打更人",
+      "onboard_time": 1735367600,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121184,
@@ -15387,14 +15451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118696,
-      "num": 118696,
-      "word": "美媒爆特朗普已与周受资通电话",
-      "onboard_time": 1735367181,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 118652,
       "num": 118652,
       "word": "餐厅无禁烟标就是抽烟的借口吗",
@@ -15571,20 +15627,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117088,
+      "num": 117088,
+      "word": "小小的我 牛轧糖的意义",
+      "onboard_time": 1735367421,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117074,
       "num": 244424,
       "word": "林一 我在北京很想你",
       "onboard_time": 1735110319,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117053,
-      "num": 234309,
-      "word": "王一博跨年摩托",
-      "onboard_time": 1735365378,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 117005,
@@ -16897,14 +16953,6 @@
       "onboard_time": 1734834740,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99089,
-      "num": 115155,
-      "word": "张碧晨灵魂质问你原谅吗",
-      "onboard_time": 1735367119,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 98851,
@@ -21539,6 +21587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34129,
+      "num": 224274,
+      "word": "你会担心自己跟不上时代吗",
+      "onboard_time": 1735366459,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 34057,
       "num": 256624,
       "word": "方励说不爱算账更爱随心所欲做事",
@@ -22339,6 +22395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 28081,
+      "num": 206709,
+      "word": "郭富城演唱会上跌落舞台发出巨响",
+      "onboard_time": 1735367961,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28064,
       "num": 39977,
       "word": "饺子能流传上千年是有道理的",
@@ -22433,6 +22497,14 @@
       "onboard_time": 1735288400,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27031,
+      "num": 262372,
+      "word": "王鹤棣的dreamcar",
+      "onboard_time": 1735364298,
+      "rank": 15,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 26943,
@@ -22537,14 +22609,6 @@
       "onboard_time": 1734855738,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26324,
-      "num": 224274,
-      "word": "你会担心自己跟不上时代吗",
-      "onboard_time": 1735366459,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 26213,
@@ -22795,12 +22859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24332,
+      "raw_hot": 24407,
       "num": 206051,
       "word": "高尔夫球场都是什么车",
       "onboard_time": 1735366218,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24299,
+      "num": 202625,
+      "word": "一文回顾云南亿万富翁被害案",
+      "onboard_time": 1735367480,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24167,
@@ -22897,14 +22969,6 @@
       "onboard_time": 1735036579,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23118,
-      "num": 262372,
-      "word": "王鹤棣的dreamcar",
-      "onboard_time": 1735364298,
-      "rank": 15,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 22970,
