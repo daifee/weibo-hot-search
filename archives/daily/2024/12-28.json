@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735399261054,
+  "endTime": 1735400119173,
   "band_list": [
     {
       "raw_hot": 9888127,
@@ -875,6 +875,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331100,
+      "num": 230798,
+      "word": "大奉打更人口碑",
+      "onboard_time": 1735397182,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 327067,
+      "num": 232068,
+      "word": "卿卿日常五美2年后重聚大奉",
+      "onboard_time": 1735397725,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323715,
       "num": 323715,
       "word": "哈尔滨文旅发文欢迎刘亦菲",
@@ -899,20 +915,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 320637,
-      "num": 232068,
-      "word": "卿卿日常五美2年后重聚大奉",
-      "onboard_time": 1735397725,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 317294,
-      "num": 230798,
-      "word": "大奉打更人口碑",
-      "onboard_time": 1735397182,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 317875,
+      "num": 217364,
+      "word": "失语症",
+      "onboard_time": 1735399521,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 315538,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1735314921,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257746,
+      "num": 217030,
+      "word": "邵子恒C位出道",
+      "onboard_time": 1735399521,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 257238,
@@ -1307,12 +1323,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217976,
+      "num": 217976,
+      "word": "俄击落乌战机富豪奖励百万",
+      "onboard_time": 1735399461,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217136,
       "num": 217136,
       "word": "于正说在娱乐圈不能太较真",
       "onboard_time": 1735364177,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216157,
+      "num": 216157,
+      "word": "星光闪耀的少年",
+      "onboard_time": 1735399341,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 213823,
@@ -1443,12 +1475,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203883,
+      "num": 203883,
+      "word": "许世焕第三出道",
+      "onboard_time": 1735399341,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203744,
       "num": 203744,
       "word": "陈思诚全员上桌的含金量",
       "onboard_time": 1735392321,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203705,
+      "num": 191621,
+      "word": "张凌赫晒粉丝无人机应援",
+      "onboard_time": 1735399341,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 203110,
@@ -1699,6 +1747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185104,
+      "num": 185104,
+      "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
+      "onboard_time": 1735399461,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 184437,
       "num": 184437,
       "word": "肖战郭靖和他的小红马",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1735355539,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177941,
+      "num": 227215,
+      "word": "小林加油 永远支持你",
+      "onboard_time": 1735398862,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 177700,
@@ -1889,14 +1953,6 @@
       "onboard_time": 1735297880,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165567,
-      "num": 227215,
-      "word": "小林加油 永远支持你",
-      "onboard_time": 1735398862,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 165494,
@@ -2395,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136293,
+      "num": 224601,
+      "word": "亡母金镯被熔儿子回应要求父亲道歉",
+      "onboard_time": 1735398862,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135537,
       "num": 345178,
       "word": "两起女患者遭家暴案件无关联",
@@ -2619,6 +2683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126188,
+      "num": 428939,
+      "word": "农村自住房子都有预制的了",
+      "onboard_time": 1735398023,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125786,
       "num": 125786,
       "word": "影子不会说谎",
@@ -2755,6 +2827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118309,
+      "num": 312437,
+      "word": "选手全年不参加WTT要罚款164万",
+      "onboard_time": 1735399102,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117088,
       "num": 117088,
       "word": "小小的我 牛轧糖的意义",
@@ -2785,6 +2865,14 @@
       "onboard_time": 1735376958,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114937,
+      "num": 128498,
+      "word": "浙江人民开始煮糖水",
+      "onboard_time": 1735399461,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 114764,
@@ -3059,14 +3147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96867,
-      "num": 231728,
-      "word": "农村自住房子都有预制的了",
-      "onboard_time": 1735398023,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96586,
       "num": 187738,
       "word": "C罗认为威尼修斯应该获得金球奖",
@@ -3163,20 +3243,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83855,
-      "num": 224601,
-      "word": "亡母金镯被熔儿子回应要求父亲道歉",
-      "onboard_time": 1735398862,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82485,
       "num": 82485,
       "word": "中方决定反制美国7家军工企业",
       "onboard_time": 1735325832,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80971,
+      "num": 331243,
+      "word": "同一天两个天王演唱会发生意外",
+      "onboard_time": 1735398984,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 80515,
@@ -3235,12 +3315,28 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 72276,
+      "num": 217936,
+      "word": "姜涛全球最帅面孔第二",
+      "onboard_time": 1735399583,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72114,
       "num": 540184,
       "word": "反偷拍绝不可自导自演",
       "onboard_time": 1735363639,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72015,
+      "num": 216641,
+      "word": "WTT称2025总奖金池将增加20%",
+      "onboard_time": 1735399940,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 67975,
@@ -3483,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36767,
+      "num": 217822,
+      "word": "孩子被欺负家长要不要让他打回去",
+      "onboard_time": 1735399761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36688,
       "num": 222588,
       "word": "跨年仪式感配图",
@@ -3513,6 +3617,14 @@
       "onboard_time": 1735394420,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34903,
+      "num": 305155,
+      "word": "5点应对躯体化症状",
+      "onboard_time": 1735399822,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34686,
@@ -3667,14 +3779,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 25867,
-      "num": 331243,
-      "word": "同一天两个天王演唱会发生意外",
-      "onboard_time": 1735398984,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 25859,
       "num": 187719,
       "word": "上课时你试过困到什么地步",
@@ -3811,14 +3915,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 16223,
-      "num": 312437,
-      "word": "选手全年不参加WTT要罚款164万",
-      "onboard_time": 1735399102,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15689,
       "num": 18080,
       "word": "TOP本色出演",
@@ -3923,6 +4019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 8864,
+      "num": 1029873,
+      "word": "一眼惊艳的中国非遗",
+      "onboard_time": 1735399881,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8707,
       "num": 233485,
       "word": "傅菁翻牌太活人太有梗了",
@@ -3959,6 +4063,9 @@
     },
     {
       "word": "#总书记最深的牵挂#"
+    },
+    {
+      "word": "#习近平强调反腐决不能手软#"
     }
   ]
 }
