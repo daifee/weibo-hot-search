@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735381293154,
+  "endTime": 1735382311349,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1591706,
-      "num": 309121,
+      "raw_hot": 1611851,
+      "num": 325435,
       "word": "赵露思曾说非常不想做这一行",
       "onboard_time": 1735379479,
       "rank": 10,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 972011,
-      "num": 1155521,
+      "raw_hot": 1031366,
+      "num": 1165018,
       "word": "裸辞一年后找了个上1休1的工作",
       "onboard_time": 1735374680,
       "rank": 16,
@@ -137,6 +137,14 @@
       "onboard_time": 1735355480,
       "rank": 18,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 904783,
+      "num": 904783,
+      "word": "大奉打更人开播",
+      "onboard_time": 1735380740,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 842944,
@@ -177,6 +185,14 @@
       "onboard_time": 1735344377,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 724960,
+      "num": 724960,
+      "word": "张萌 再不嗑就来不及了",
+      "onboard_time": 1735377859,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 722890,
@@ -235,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 586634,
+      "num": 554234,
+      "word": "16岁男孩每天只睡5小时头先秃了",
+      "onboard_time": 1735380861,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586051,
       "num": 423672,
       "word": "白敬亭 给我个解释",
@@ -249,22 +273,6 @@
       "onboard_time": 1735306281,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 569708,
-      "num": 569708,
-      "word": "张萌 再不嗑就来不及了",
-      "onboard_time": 1735377859,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 554234,
-      "num": 554234,
-      "word": "16岁男孩每天只睡5小时头先秃了",
-      "onboard_time": 1735380861,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 547273,
@@ -347,8 +355,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 468510,
-      "num": 468510,
+      "raw_hot": 468829,
+      "num": 468829,
       "word": "急诊室家暴事件2男子被拘",
       "onboard_time": 1735373301,
       "rank": 13,
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376461,
-      "num": 376461,
-      "word": "大奉打更人开播",
-      "onboard_time": 1735380740,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375648,
       "num": 353110,
       "word": "刘德华演唱会差点从3米高台摔下",
@@ -529,6 +529,14 @@
       "onboard_time": 1735357340,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353087,
+      "num": 353087,
+      "word": "年轻人越来越渴望稳定的生活",
+      "onboard_time": 1735377499,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352602,
@@ -619,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311419,
-      "num": 311419,
-      "word": "年轻人越来越渴望稳定的生活",
-      "onboard_time": 1735377499,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302127,
       "num": 302127,
       "word": "多家医院发布最新分娩数据",
@@ -689,6 +689,14 @@
       "onboard_time": 1735344857,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275979,
+      "num": 233717,
+      "word": "新疆西瓜烤鸽子可太会吃了",
+      "onboard_time": 1735381879,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 275726,
@@ -843,12 +851,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 224575,
+      "num": 224575,
+      "word": "孟子义向李昀锐撒娇",
+      "onboard_time": 1735380919,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224450,
       "num": 201772,
       "word": "爱奇艺开年大剧三部曲",
       "onboard_time": 1735314621,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220625,
+      "num": 220625,
+      "word": "刘亦菲环保皮草",
+      "onboard_time": 1735380440,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 220136,
@@ -960,6 +984,14 @@
       "word": "宋墨遭遇婆媳双打",
       "onboard_time": 1735376479,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201417,
+      "num": 182548,
+      "word": "孟子义还原垂耳兔造型",
+      "onboard_time": 1735381040,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1083,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192325,
+      "num": 192325,
+      "word": "十个勤天沙棘之夜全网招募",
+      "onboard_time": 1735381398,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189954,
       "num": 189954,
       "word": "曝Zeus服役期间被T1粉丝找茬",
@@ -1113,6 +1153,14 @@
       "onboard_time": 1735361838,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184384,
+      "num": 184384,
+      "word": "晓华说自己剪头发都剪出富贵包了",
+      "onboard_time": 1735379601,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183295,
@@ -1307,14 +1355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160966,
-      "num": 173965,
-      "word": "晓华说自己剪头发都剪出富贵包了",
-      "onboard_time": 1735379601,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160950,
       "num": 158658,
       "word": "白敬亭王安宇有种脑干缺失的美",
@@ -1371,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158534,
+      "num": 251309,
+      "word": "误杀3反转",
+      "onboard_time": 1735381279,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157069,
       "num": 157069,
       "word": "张远澄清自己不是母胎solo",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1735361180,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154053,
-      "num": 154053,
-      "word": "孟子义向李昀锐撒娇",
-      "onboard_time": 1735380919,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 153335,
@@ -1515,20 +1555,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145880,
+      "num": 145880,
+      "word": "留几手把杨子气笑了",
+      "onboard_time": 1735381759,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145308,
       "num": 145308,
       "word": "张元英好萌",
       "onboard_time": 1735373421,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145231,
-      "num": 145231,
-      "word": "刘亦菲环保皮草",
-      "onboard_time": 1735380440,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144151,
@@ -1587,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139508,
+      "num": 139508,
+      "word": "爷爷爸爸都没秃16岁男孩先秃了",
+      "onboard_time": 1735380799,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138612,
       "num": 196553,
       "word": "以闪亮之名开年非遗联动",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1735370244,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138165,
+      "num": 138165,
+      "word": "小小的我 后劲十足",
+      "onboard_time": 1735381759,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 137391,
@@ -1619,14 +1675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135157,
-      "num": 135157,
-      "word": "孟子义还原垂耳兔造型",
-      "onboard_time": 1735381040,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134886,
       "num": 174001,
       "word": "媒体评WTT新规惹争议",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1735377859,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134614,
+      "num": 134614,
+      "word": "查干湖冬捕头鱼1199999元成交",
+      "onboard_time": 1735379719,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134469,
@@ -1665,6 +1721,14 @@
       "onboard_time": 1735354278,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133777,
+      "num": 137676,
+      "word": "沈腾cos安陵容侍寝",
+      "onboard_time": 1735381520,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 133744,
@@ -1939,14 +2003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115801,
-      "num": 115801,
-      "word": "查干湖冬捕头鱼1199999元成交",
-      "onboard_time": 1735379719,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115175,
       "num": 115175,
       "word": "当把新中式穿在动漫人物身上",
@@ -1987,12 +2043,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 111293,
-      "num": 111293,
-      "word": "爷爷爸爸都没秃16岁男孩先秃了",
-      "onboard_time": 1735380799,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 110663,
+      "num": 174646,
+      "word": "2024年被这些军事装备飒到了",
+      "onboard_time": 1735381159,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 110177,
@@ -2187,14 +2243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93702,
-      "num": 174646,
-      "word": "2024年被这些军事装备飒到了",
-      "onboard_time": 1735381159,
-      "rank": 24,
-      "category": "军事"
-    },
-    {
       "raw_hot": 93087,
       "num": 93087,
       "word": "2025我的小小世界一定会更好",
@@ -2283,6 +2331,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 72185,
+      "num": 345178,
+      "word": "两起女患者遭家暴案件无关联",
+      "onboard_time": 1735381699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72114,
       "num": 540184,
       "word": "反偷拍绝不可自导自演",
@@ -2315,8 +2371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58395,
-      "num": 630610,
+      "raw_hot": 62833,
+      "num": 788220,
       "word": "2024大国重器硬核上分",
       "onboard_time": 1735378999,
       "rank": 2,
@@ -2507,6 +2563,22 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 33217,
+      "num": 301419,
+      "word": "影子不会说谎带货检测仪仍热卖",
+      "onboard_time": 1735380740,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32489,
+      "num": 283669,
+      "word": "龚俊人民交通春运公益宣传大使",
+      "onboard_time": 1735380740,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32456,
       "num": 33702,
       "word": "刘春和无声吃糖",
@@ -2521,14 +2593,6 @@
       "onboard_time": 1735335971,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30695,
-      "num": 283669,
-      "word": "龚俊人民交通春运公益宣传大使",
-      "onboard_time": 1735380740,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 30684,
@@ -2720,14 +2784,6 @@
       "word": "晓华流量高不飘流量下滑踏实干",
       "onboard_time": 1735360220,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19547,
-      "num": 301419,
-      "word": "影子不会说谎带货检测仪仍热卖",
-      "onboard_time": 1735380740,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
