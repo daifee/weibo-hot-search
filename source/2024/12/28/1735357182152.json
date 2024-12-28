@@ -1,0 +1,410 @@
+{
+  "runTime": 1735357182152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715134,
+        "num": 1715134,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1157708,
+        "num": 1157708,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38802,
+        "num": 643765,
+        "word": "文化中国行看青铜之美",
+        "onboard_time": 1735354577,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 604583,
+        "num": 604583,
+        "word": "父亲熔金镯儿子称亡母的付出被遗忘",
+        "onboard_time": 1735351158,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513944,
+        "num": 513944,
+        "word": "李武军评价樊振东陈梦",
+        "onboard_time": 1735355298,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1283309,
+        "num": 512969,
+        "word": "曝赵露思爸爸报平安",
+        "onboard_time": 1735348519,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501351,
+        "num": 501351,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 6,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 395358,
+        "num": 395358,
+        "word": "深圳生4胞胎家庭仍因恶评不悦",
+        "onboard_time": 1735346539,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357563,
+        "num": 357563,
+        "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
+        "onboard_time": 1735356919,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77032,
+        "num": 346576,
+        "word": "死羊无证屠宰流向餐桌",
+        "onboard_time": 1735356200,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 345501,
+        "num": 345501,
+        "word": "88岁老兵去世天空仙鹤盘旋",
+        "onboard_time": 1735352900,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324706,
+        "num": 324706,
+        "word": "特朗普要求暂停执行TikTok强制出售令",
+        "onboard_time": 1735344377,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21482,
+        "num": 323903,
+        "word": "易烊千玺的新年祝福",
+        "onboard_time": 1735353619,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323886,
+        "num": 323886,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121171,
+        "num": 312092,
+        "word": "帕劳失联中国人曾被7条鲨鱼环绕",
+        "onboard_time": 1735355480,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305405,
+        "num": 305405,
+        "word": "丁禹兮合肥",
+        "onboard_time": 1735354098,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304038,
+        "num": 304038,
+        "word": "警方通报2女子在急诊室被家暴",
+        "onboard_time": 1735353499,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 302127,
+        "num": 302127,
+        "word": "多家医院发布最新分娩数据",
+        "onboard_time": 1735353198,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250503,
+        "num": 250503,
+        "word": "41岁教师去世200多名学生赶来送行",
+        "onboard_time": 1735356140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 247935,
+        "word": "揭秘小小的我成都取景地",
+        "onboard_time": 1735355658,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1488259,
+        "num": 244525,
+        "word": "赵露思工作室回应",
+        "onboard_time": 1735289120,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400502,
+        "num": 242547,
+        "word": "赵今麦瘦了好多啊",
+        "onboard_time": 1735344437,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229646,
+        "num": 238515,
+        "word": "大奉打更人",
+        "onboard_time": 1735352900,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287541,
+        "num": 234755,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234161,
+        "num": 234161,
+        "word": "韩国游客吃鸭肠脑花疯狂上头",
+        "onboard_time": 1735348159,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225277,
+        "num": 225277,
+        "word": "你好星期六全员晒收快递记录",
+        "onboard_time": 1735356500,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215821,
+        "num": 215821,
+        "word": "牛肉价格已跌到近5年最低",
+        "onboard_time": 1735346117,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 181915,
+        "num": 181915,
+        "word": "成何体统",
+        "onboard_time": 1735354998,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179027,
+        "num": 179027,
+        "word": "金秀贤感谢金智媛",
+        "onboard_time": 1735344857,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 34962,
+        "num": 178484,
+        "word": "秦彻潜入夜",
+        "onboard_time": 1735350739,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67236,
+        "num": 178230,
+        "word": "魔兽玩家24天卖出3吨橙子",
+        "onboard_time": 1735350978,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178145,
+        "num": 178145,
+        "word": "恋与深空环球告白",
+        "onboard_time": 1735355539,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168287,
+        "num": 168287,
+        "word": "李川锤娜丽莎 纯爱",
+        "onboard_time": 1735344437,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165578,
+        "num": 165578,
+        "word": "樊振东发文最后一句歌词的故事",
+        "onboard_time": 1735353078,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164267,
+        "num": 164267,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21452,
+        "num": 159245,
+        "word": "年轻人周末班味去除计划",
+        "onboard_time": 1735353619,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156489,
+        "num": 156489,
+        "word": "九重紫",
+        "onboard_time": 1735352959,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156371,
+        "num": 156371,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156275,
+        "num": 156275,
+        "word": "两男子急诊室怒斥殴打两女患者",
+        "onboard_time": 1735348579,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146740,
+        "num": 146740,
+        "word": "橘猫 那咋了",
+        "onboard_time": 1735351219,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140025,
+        "num": 140025,
+        "word": "火锅店称晚上10点后一半是韩国人",
+        "onboard_time": 1735344677,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135962,
+        "num": 135962,
+        "word": "我们的养老金要全面上涨了吗",
+        "onboard_time": 1735347499,
+        "rank": 41,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 133340,
+        "num": 133340,
+        "word": "WTT首席执行官曾称接受批评建议",
+        "onboard_time": 1735354278,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130787,
+        "num": 130787,
+        "word": "亮剑鬼子大佐演员患甲状腺癌",
+        "onboard_time": 1735344677,
+        "rank": 43,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 125332,
+        "num": 125332,
+        "word": "美股市场突遭猛烈抛售",
+        "onboard_time": 1735356618,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123851,
+        "num": 123851,
+        "word": "阿鲁纳评价樊振东退出排名",
+        "onboard_time": 1735347499,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122649,
+        "num": 122649,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121910,
+        "num": 121910,
+        "word": "宝石老舅你糊涂啊",
+        "onboard_time": 1735322713,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120915,
+        "num": 120915,
+        "word": "陈梦樊振东退出新加坡赛不会被罚",
+        "onboard_time": 1735352900,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113876,
+        "num": 113876,
+        "word": "程靖淇说王楚钦打球很干净",
+        "onboard_time": 1735346180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}
