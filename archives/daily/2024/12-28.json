@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735370389719,
+  "endTime": 1735371338432,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402178,
+      "num": 278125,
+      "word": "九重紫终映礼直播",
+      "onboard_time": 1735368742,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401971,
       "num": 401971,
       "word": "杨紫李现二搭宿命感",
@@ -571,6 +579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 266673,
+      "num": 196612,
+      "word": "刘美含16年后大奉再演魔仙",
+      "onboard_time": 1735371141,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257835,
       "num": 257835,
       "word": "影子不会说谎被采取刑事强制措施",
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 226544,
-      "num": 203170,
+      "num": 204452,
       "word": "连杀数任丈夫的日本黑寡妇病亡",
       "onboard_time": 1735363398,
       "rank": 30,
@@ -731,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203104,
-      "num": 195027,
-      "word": "九重紫终映礼直播",
-      "onboard_time": 1735368742,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 203922,
+      "num": 188431,
+      "word": "樊振东点赞澳网是职业体育典范",
+      "onboard_time": 1735369462,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 202924,
@@ -787,6 +803,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196103,
+      "num": 339240,
+      "word": "请跑腿送孩子上学家长态度两极化",
+      "onboard_time": 1735369883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195363,
+      "num": 195363,
+      "word": "川崎重工被曝40年前就开始造假",
+      "onboard_time": 1735369644,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 195208,
       "num": 217835,
       "word": "九重紫",
@@ -833,14 +865,6 @@
       "onboard_time": 1735368982,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188431,
-      "num": 188431,
-      "word": "樊振东点赞澳网是职业体育典范",
-      "onboard_time": 1735369462,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 188388,
@@ -1211,14 +1235,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139045,
-      "num": 139045,
-      "word": "川崎重工被曝40年前就开始造假",
-      "onboard_time": 1735369644,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 138612,
       "num": 196553,
       "word": "以闪亮之名开年非遗联动",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1735298480,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134469,
+      "num": 134469,
+      "word": "外界关注中国六代机成功首飞传闻",
+      "onboard_time": 1735371141,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 134414,
@@ -1315,20 +1339,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128048,
+      "num": 128048,
+      "word": "田曦薇逐玉造型",
+      "onboard_time": 1735370364,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127669,
       "num": 127669,
       "word": "丁禹兮版他不懂",
       "onboard_time": 1735345819,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 127412,
-      "num": 339240,
-      "word": "请跑腿送孩子上学家长态度两极化",
-      "onboard_time": 1735369883,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127377,
@@ -1475,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117958,
+      "num": 117958,
+      "word": "刘亦菲和妈妈合影",
+      "onboard_time": 1735371082,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117088,
       "num": 117088,
       "word": "小小的我 牛轧糖的意义",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1735322713,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114238,
-      "num": 114238,
-      "word": "田曦薇逐玉造型",
-      "onboard_time": 1735370364,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 112626,
@@ -1827,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53982,
+      "num": 199613,
+      "word": "老人烧纸引燃绿化带遭索赔5万",
+      "onboard_time": 1735370002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53380,
       "num": 53380,
       "word": "起猛了看到林黛玉演喜剧了",
@@ -1891,20 +1923,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42896,
+      "num": 266917,
+      "word": "赴上海韩国游客同比激增超180%",
+      "onboard_time": 1735369823,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41027,
       "num": 51226,
       "word": "祁煜扔手镯",
       "onboard_time": 1735309521,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40213,
-      "num": 199613,
-      "word": "老人烧纸引燃绿化带遭索赔5万",
-      "onboard_time": 1735370002,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 38802,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1735335971,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30452,
-      "num": 266917,
-      "word": "赴上海韩国游客同比激增超180%",
-      "onboard_time": 1735369823,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30391,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1735367480,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24218,
+      "num": 205907,
+      "word": "辛巴直播送600万箱年货福利",
+      "onboard_time": 1735370423,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 22264,
@@ -2249,6 +2281,22 @@
       "onboard_time": 1735335852,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 7260,
+      "num": 197871,
+      "word": "2024人们忽视了哪些科技发现",
+      "onboard_time": 1735371201,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 6614,
+      "num": 118629,
+      "word": "跨年可以做的十件仪式感小事",
+      "onboard_time": 1735371141,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
