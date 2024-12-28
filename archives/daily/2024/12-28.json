@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735384635141,
+  "endTime": 1735385728993,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1611851,
-      "num": 325435,
+      "num": 349997,
       "word": "赵露思曾说非常不想做这一行",
       "onboard_time": 1735379479,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1735383079,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 924910,
+      "num": 494559,
+      "word": "颜如晶减肥心态崩了",
+      "onboard_time": 1735383440,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 915153,
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584888,
+      "num": 584888,
+      "word": "樊振东陈梦的退出给国乒带来哪些影响",
+      "onboard_time": 1735381641,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 573949,
       "num": 160514,
       "word": "沈星回 难哄",
@@ -387,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448455,
+      "num": 354587,
+      "word": "时代少年团直播",
+      "onboard_time": 1735383619,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443914,
       "num": 383672,
       "word": "张远一年水费只用了10块钱",
@@ -483,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384207,
-      "num": 292288,
-      "word": "颜如晶减肥心态崩了",
-      "onboard_time": 1735383440,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381405,
       "num": 381405,
       "word": "李川锤娜丽莎 纯爱",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 355815,
-      "num": 329545,
+      "num": 337245,
       "word": "大奉打更人",
       "onboard_time": 1735352900,
       "rank": 15,
@@ -603,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 337998,
-      "num": 337998,
-      "word": "樊振东陈梦的退出给国乒带来哪些影响",
-      "onboard_time": 1735381641,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 337456,
       "num": 161523,
       "word": "媒体评宝石老舅道歉理由和时机",
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 337088,
-      "num": 289745,
+      "num": 294928,
       "word": "刘亦菲环保皮草",
       "onboard_time": 1735380440,
       "rank": 34,
@@ -657,14 +665,6 @@
       "onboard_time": 1735313183,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319094,
-      "num": 285674,
-      "word": "时代少年团直播",
-      "onboard_time": 1735383619,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 302127,
@@ -1020,11 +1020,19 @@
     },
     {
       "raw_hot": 203922,
-      "num": 196697,
+      "num": 203627,
       "word": "樊振东点赞澳网是职业体育典范",
       "onboard_time": 1735369462,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 203208,
+      "word": "大奉打更人热度",
+      "onboard_time": 1735384938,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203110,
@@ -1179,12 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193353,
+      "num": 193353,
+      "word": "她填补了海里没有牛马的空缺",
+      "onboard_time": 1735383440,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192325,
       "num": 192325,
       "word": "十个勤天沙棘之夜全网招募",
       "onboard_time": 1735381398,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190815,
+      "num": 190815,
+      "word": "林俊杰新加坡演唱会",
+      "onboard_time": 1735384642,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 189954,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1735379601,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 184066,
-      "num": 184066,
-      "word": "她填补了海里没有牛马的空缺",
-      "onboard_time": 1735383440,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 183295,
@@ -1283,6 +1299,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 175016,
+      "num": 175016,
+      "word": "吃火锅必不可少的三样菜",
+      "onboard_time": 1735382718,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174792,
       "num": 174792,
       "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1735299913,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174203,
-      "num": 174203,
-      "word": "吃火锅必不可少的三样菜",
-      "onboard_time": 1735382718,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 173137,
@@ -1595,6 +1611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 150267,
+      "num": 150267,
+      "word": "王鹤棣台词",
+      "onboard_time": 1735385538,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149566,
       "num": 149566,
       "word": "李健黑胶",
@@ -1699,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141843,
+      "num": 141843,
+      "word": "沈腾林更新好糟糕的姿势",
+      "onboard_time": 1735385240,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141425,
       "num": 167401,
       "word": "张碧晨灵魂质问你原谅吗",
@@ -1713,6 +1745,22 @@
       "onboard_time": 1735371321,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141252,
+      "num": 141252,
+      "word": "小小的我 没有刻意煽情",
+      "onboard_time": 1735378639,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140326,
+      "num": 250280,
+      "word": "躯体化症状是什么病",
+      "onboard_time": 1735384820,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140198,
@@ -1795,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134477,
+      "num": 134477,
+      "word": "李昀锐给孟子义发自己的搞笑视频",
+      "onboard_time": 1735385538,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134469,
       "num": 134469,
       "word": "外界关注中国六代机成功首飞传闻",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1735307721,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133916,
+      "num": 245178,
+      "word": "2024全球最帅一百张面孔",
+      "onboard_time": 1735385300,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 133912,
@@ -1961,14 +2025,6 @@
       "onboard_time": 1735294219,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 125798,
-      "num": 125798,
-      "word": "小小的我 没有刻意煽情",
-      "onboard_time": 1735378639,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 125786,
@@ -2195,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108562,
+      "num": 108562,
+      "word": "从韩国回来最大的感受是什么",
+      "onboard_time": 1735385479,
+      "rank": 49,
+      "category": "旅游,情感"
+    },
+    {
       "raw_hot": 108079,
       "num": 108079,
       "word": "邵子恒好帅",
@@ -2371,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95204,
+      "num": 314660,
+      "word": "游客花三千订房入住时被要求加钱",
+      "onboard_time": 1735384099,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93087,
       "num": 93087,
       "word": "2025我的小小世界一定会更好",
@@ -2433,6 +2505,14 @@
       "onboard_time": 1735325832,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 80515,
+      "num": 352896,
+      "word": "在册慰安妇制度受害幸存者还剩8人",
+      "onboard_time": 1735384878,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79736,
@@ -2569,14 +2649,6 @@
       "onboard_time": 1735371682,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 51482,
-      "num": 293960,
-      "word": "游客花三千订房入住时被要求加钱",
-      "onboard_time": 1735384099,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50355,
@@ -2977,6 +3049,14 @@
       "onboard_time": 1735329431,
       "rank": 13,
       "category": "军事"
+    },
+    {
+      "raw_hot": 12567,
+      "num": 250877,
+      "word": "大奉打更人全员迎奉接buff",
+      "onboard_time": 1735384938,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 12383,

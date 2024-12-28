@@ -1,0 +1,410 @@
+{
+  "runTime": 1735385728993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 989557,
+        "num": 1158329,
+        "word": "大奉打更人开播",
+        "onboard_time": 1735380740,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584888,
+        "num": 584888,
+        "word": "樊振东陈梦的退出给国乒带来哪些影响",
+        "onboard_time": 1735381641,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48435,
+        "num": 533381,
+        "word": "2024大国重器硬核上分",
+        "onboard_time": 1735378999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529168,
+        "num": 529168,
+        "word": "裸辞一年后找了个上1休1的工作",
+        "onboard_time": 1735374680,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 924910,
+        "num": 494559,
+        "word": "颜如晶减肥心态崩了",
+        "onboard_time": 1735383440,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360842,
+        "num": 360842,
+        "word": "美媒称中国完成令人震惊的试飞",
+        "onboard_time": 1735374982,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471789,
+        "num": 358533,
+        "word": "张萌 再不嗑就来不及了",
+        "onboard_time": 1735377859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 688302,
+        "num": 356229,
+        "word": "王鹤棣发红包",
+        "onboard_time": 1735383079,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448455,
+        "num": 354587,
+        "word": "时代少年团直播",
+        "onboard_time": 1735383619,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80515,
+        "num": 352896,
+        "word": "在册慰安妇制度受害幸存者还剩8人",
+        "onboard_time": 1735384878,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1016995,
+        "num": 349997,
+        "word": "赵露思曾说非常不想做这一行",
+        "onboard_time": 1735379479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348078,
+        "num": 348078,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337245,
+        "num": 337245,
+        "word": "大奉打更人",
+        "onboard_time": 1735383079,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332509,
+        "num": 332509,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95204,
+        "num": 314660,
+        "word": "游客花三千订房入住时被要求加钱",
+        "onboard_time": 1735384099,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303823,
+        "num": 303823,
+        "word": "白敬亭 给我个解释",
+        "onboard_time": 1735374768,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294928,
+        "num": 294928,
+        "word": "刘亦菲环保皮草",
+        "onboard_time": 1735380440,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252377,
+        "num": 252377,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12567,
+        "num": 250877,
+        "word": "大奉打更人全员迎奉接buff",
+        "onboard_time": 1735384938,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140326,
+        "num": 250280,
+        "word": "躯体化症状是什么病",
+        "onboard_time": 1735384820,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1111364,
+        "num": 248360,
+        "word": "曝徐娇被起诉",
+        "onboard_time": 1735374500,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924522,
+        "num": 247692,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133916,
+        "num": 245178,
+        "word": "2024全球最帅一百张面孔",
+        "onboard_time": 1735385300,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244734,
+        "num": 244734,
+        "word": "王楚钦被围拍直言太夸张",
+        "onboard_time": 1735378578,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224279,
+        "num": 224279,
+        "word": "年轻人越来越渴望稳定的生活",
+        "onboard_time": 1735377499,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216797,
+        "num": 216797,
+        "word": "查干湖冬捕头鱼1199999元成交",
+        "onboard_time": 1735379719,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209228,
+        "num": 209228,
+        "word": "黄多多ins晒照",
+        "onboard_time": 1735367480,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207932,
+        "num": 207932,
+        "word": "王俊凯的马甲穿反了",
+        "onboard_time": 1735383140,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204590,
+        "num": 204590,
+        "word": "孟子义向李昀锐撒娇",
+        "onboard_time": 1735380919,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48438,
+        "num": 203627,
+        "word": "樊振东点赞澳网是职业体育典范",
+        "onboard_time": 1735369462,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47916,
+        "num": 203209,
+        "word": "伞兵深V黑西装",
+        "onboard_time": 1735384457,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203209,
+        "num": 203208,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735384938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193353,
+        "num": 193353,
+        "word": "她填补了海里没有牛马的空缺",
+        "onboard_time": 1735383440,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190815,
+        "num": 190815,
+        "word": "林俊杰新加坡演唱会",
+        "onboard_time": 1735384642,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182467,
+        "num": 182467,
+        "word": "田曦薇明媚感",
+        "onboard_time": 1735379841,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175016,
+        "num": 175016,
+        "word": "吃火锅必不可少的三样菜",
+        "onboard_time": 1735382718,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154389,
+        "num": 154389,
+        "word": "江疏影 完全是妈咪级别的",
+        "onboard_time": 1735383258,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151845,
+        "num": 151845,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151598,
+        "num": 151598,
+        "word": "留几手把杨子气笑了",
+        "onboard_time": 1735381759,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150267,
+        "num": 150267,
+        "word": "王鹤棣台词",
+        "onboard_time": 1735385538,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148439,
+        "num": 148439,
+        "word": "丁禹兮活动 商场换奥体",
+        "onboard_time": 1735372400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141843,
+        "num": 141843,
+        "word": "沈腾林更新好糟糕的姿势",
+        "onboard_time": 1735385240,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141252,
+        "num": 141252,
+        "word": "小小的我 没有刻意煽情",
+        "onboard_time": 1735378639,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134477,
+        "num": 134477,
+        "word": "李昀锐给孟子义发自己的搞笑视频",
+        "onboard_time": 1735385538,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124302,
+        "num": 124302,
+        "word": "樊振东 下一个赛场在前方等你",
+        "onboard_time": 1735382718,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123590,
+        "num": 123590,
+        "word": "十个勤天沙棘之夜全网招募",
+        "onboard_time": 1735381398,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472335,
+        "num": 122936,
+        "word": "急诊室家暴事件2男子被拘",
+        "onboard_time": 1735373301,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121454,
+        "num": 121454,
+        "word": "两起女患者遭家暴案件无关联",
+        "onboard_time": 1735381699,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111056,
+        "num": 111056,
+        "word": "爷爷爸爸都没秃16岁男孩先秃了",
+        "onboard_time": 1735380799,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108562,
+        "num": 108562,
+        "word": "从韩国回来最大的感受是什么",
+        "onboard_time": 1735385479,
+        "rank": 49,
+        "category": "旅游,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深的牵挂#"
+    }
+  }
+}
