@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735414506357,
+  "endTime": 1735417352441,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -515,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43797,
+      "num": 43797,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39114,
       "num": 44817,
       "word": "大奉打更人",
@@ -545,6 +553,14 @@
       "onboard_time": 1735406117,
       "rank": 23,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 25708,
+      "num": 25708,
+      "word": "电影误杀3",
+      "onboard_time": 1735416551,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 24764,
@@ -595,19 +611,35 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 17609,
+      "num": 25006,
+      "word": "今日无事放个奉",
+      "onboard_time": 1735416131,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16492,
+      "num": 36916,
+      "word": "考古首次发现记载秦人的甲骨",
+      "onboard_time": 1735414332,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11940,
+      "num": 46945,
+      "word": "她们一直在等待道歉",
+      "onboard_time": 1735416251,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10717,
       "num": 103492,
       "word": "被晚安短信安慰了",
       "onboard_time": 1735410912,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10119,
-      "num": 36916,
-      "word": "考古首次发现记载秦人的甲骨",
-      "onboard_time": 1735414332,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
