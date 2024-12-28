@@ -1,7 +1,15 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735396618917,
+  "endTime": 1735399261054,
   "band_list": [
+    {
+      "raw_hot": 9888127,
+      "num": 9888127,
+      "word": "赵露思委托魏笑报平安",
+      "onboard_time": 1735397003,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 9354539,
       "num": 9354539,
@@ -147,20 +155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1235885,
+      "num": 1235885,
+      "word": "专家回应新毒株来了",
+      "onboard_time": 1735394542,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1223203,
       "num": 1223203,
       "word": "误杀3 萝莉岛",
       "onboard_time": 1735354998,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1167099,
-      "num": 1167099,
-      "word": "专家回应新毒株来了",
-      "onboard_time": 1735394542,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1096136,
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501055,
+      "num": 501055,
+      "word": "九重紫庆功宴",
+      "onboard_time": 1735396642,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494888,
       "num": 494888,
       "word": "男子口含玻璃渣吃饭敲诈餐厅",
@@ -715,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375105,
+      "num": 375105,
+      "word": "星光闪耀的少年排名",
+      "onboard_time": 1735397422,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 373791,
       "num": 373791,
       "word": "我家那小子",
@@ -873,6 +897,30 @@
       "onboard_time": 1735313183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 320637,
+      "num": 232068,
+      "word": "卿卿日常五美2年后重聚大奉",
+      "onboard_time": 1735397725,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 317294,
+      "num": 230798,
+      "word": "大奉打更人口碑",
+      "onboard_time": 1735397182,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 315538,
+      "num": 231062,
+      "word": "新澈第四出道",
+      "onboard_time": 1735397604,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 308849,
@@ -1539,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194740,
+      "num": 228259,
+      "word": "StarlightBoys",
+      "onboard_time": 1735398143,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194459,
       "num": 194459,
       "word": "大逃脱",
@@ -1572,7 +1628,7 @@
     },
     {
       "raw_hot": 194025,
-      "num": 221440,
+      "num": 225417,
       "word": "吃火锅必不可少的三样菜",
       "onboard_time": 1735382718,
       "rank": 31,
@@ -1667,8 +1723,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180042,
-      "num": 148557,
+      "raw_hot": 183203,
+      "num": 227934,
       "word": "现在拨打的电话吻戏",
       "onboard_time": 1735396282,
       "rank": 42,
@@ -1835,6 +1891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165567,
+      "num": 227215,
+      "word": "小林加油 永远支持你",
+      "onboard_time": 1735398862,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165494,
       "num": 165494,
       "word": "王一博我在歌词",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1735368801,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159352,
+      "num": 226385,
+      "word": "时代少年团太会整活了",
+      "onboard_time": 1735398621,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 159306,
@@ -2083,6 +2155,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 150846,
+      "num": 228551,
+      "word": "梳理王楚钦被怼脸拍照事件",
+      "onboard_time": 1735396521,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150182,
+      "num": 227471,
+      "word": "2025全球总决赛",
+      "onboard_time": 1735397243,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149566,
       "num": 149566,
       "word": "李健黑胶",
@@ -2113,6 +2201,14 @@
       "onboard_time": 1735389620,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148253,
+      "num": 226235,
+      "word": "樊振东陈梦退出能使WTT洗心革面吗",
+      "onboard_time": 1735398262,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 147734,
@@ -2651,14 +2747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118729,
-      "num": 118729,
-      "word": "梳理王楚钦被怼脸拍照事件",
-      "onboard_time": 1735396521,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118652,
       "num": 118652,
       "word": "餐厅无禁烟标就是抽烟的借口吗",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1735322713,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114284,
+      "num": 225968,
+      "word": "熊猫渝爱初步诊断感染性脱毛",
+      "onboard_time": 1735397784,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112626,
@@ -2963,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96867,
+      "num": 231728,
+      "word": "农村自住房子都有预制的了",
+      "onboard_time": 1735398023,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96586,
       "num": 187738,
       "word": "C罗认为威尼修斯应该获得金球奖",
@@ -3059,6 +3163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83855,
+      "num": 224601,
+      "word": "亡母金镯被熔儿子回应要求父亲道歉",
+      "onboard_time": 1735398862,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82485,
       "num": 82485,
       "word": "中方决定反制美国7家军工企业",
@@ -3097,6 +3209,22 @@
       "onboard_time": 1735356200,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 76695,
+      "num": 224474,
+      "word": "WTT称规则并非最新出台",
+      "onboard_time": 1735397122,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76136,
+      "num": 224186,
+      "word": "WTT回应为何存在处罚",
+      "onboard_time": 1735397243,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 73857,
@@ -3140,7 +3268,7 @@
     },
     {
       "raw_hot": 62833,
-      "num": 1184751,
+      "num": 1253807,
       "word": "2024大国重器硬核上分",
       "onboard_time": 1735378999,
       "rank": 2,
@@ -3265,6 +3393,14 @@
       "onboard_time": 1735354519,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46897,
+      "num": 232717,
+      "word": "春节前还有10多船车厘子直达广州",
+      "onboard_time": 1735393581,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45965,
@@ -3531,6 +3667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 25867,
+      "num": 331243,
+      "word": "同一天两个天王演唱会发生意外",
+      "onboard_time": 1735398984,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25859,
       "num": 187719,
       "word": "上课时你试过困到什么地步",
@@ -3667,6 +3811,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 16223,
+      "num": 312437,
+      "word": "选手全年不参加WTT要罚款164万",
+      "onboard_time": 1735399102,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15689,
       "num": 18080,
       "word": "TOP本色出演",
@@ -3769,6 +3921,14 @@
       "onboard_time": 1735335852,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8707,
+      "num": 233485,
+      "word": "傅菁翻牌太活人太有梗了",
+      "onboard_time": 1735390819,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 7260,
