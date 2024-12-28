@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735377672752,
+  "endTime": 1735378518035,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -243,19 +243,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2112783,
+      "num": 2112783,
+      "word": "曝徐娇被起诉",
+      "onboard_time": 1735374500,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2085107,
       "num": 781949,
       "word": "神经系统疾病",
       "onboard_time": 1735313662,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2067011,
-      "num": 2067011,
-      "word": "曝徐娇被起诉",
-      "onboard_time": 1735374500,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1339,6 +1339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 938066,
+      "num": 938066,
+      "word": "裸辞一年后找了个上1休1的工作",
+      "onboard_time": 1735374680,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 930624,
       "num": 930624,
       "word": "主人没牵住狗绳致路人车祸身亡",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1735218920,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 784678,
-      "num": 784678,
-      "word": "裸辞一年后找了个上1休1的工作",
-      "onboard_time": 1735374680,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 781025,
@@ -2867,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586051,
+      "num": 423672,
+      "word": "白敬亭 给我个解释",
+      "onboard_time": 1735374768,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 583206,
       "num": 583206,
       "word": "女子主动进炒股群把老师高兴坏了",
@@ -3025,14 +3033,6 @@
       "onboard_time": 1734838398,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560309,
-      "num": 344849,
-      "word": "白敬亭 给我个解释",
-      "onboard_time": 1735374768,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 557277,
@@ -3659,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468510,
+      "num": 468510,
+      "word": "急诊室家暴事件2男子被拘",
+      "onboard_time": 1735373301,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 468378,
       "num": 468378,
       "word": "唐尚珺35岁读大一",
@@ -3801,14 +3809,6 @@
       "onboard_time": 1735108218,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 456982,
-      "num": 456982,
-      "word": "急诊室家暴事件2男子被拘",
-      "onboard_time": 1735373301,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 455891,
@@ -5779,6 +5779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 314127,
+      "num": 314127,
+      "word": "美媒称中国完成令人震惊的试飞",
+      "onboard_time": 1735374982,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 313447,
       "num": 244950,
       "word": "周芯竹说和周密曾有过快乐的时光",
@@ -6625,14 +6633,6 @@
       "onboard_time": 1735187839,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268890,
-      "num": 268890,
-      "word": "美媒称中国完成令人震惊的试飞",
-      "onboard_time": 1735374982,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 268391,
@@ -7491,6 +7491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 238134,
+      "num": 235473,
+      "word": "周雨彤演技",
+      "onboard_time": 1735374440,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237675,
       "num": 302176,
       "word": "被家暴女子接受净身出户但坚持死刑",
@@ -7545,14 +7553,6 @@
       "onboard_time": 1735112598,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235473,
-      "num": 235473,
-      "word": "周雨彤演技",
-      "onboard_time": 1735374440,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 235198,
@@ -8323,6 +8323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215239,
+      "num": 165390,
+      "word": "张萌 再不嗑就来不及了",
+      "onboard_time": 1735377859,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215098,
       "num": 235032,
       "word": "猎罪图鉴今晚又要结束了",
@@ -8715,6 +8723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207068,
+      "num": 207068,
+      "word": "一诺跳了张艺兴的舞蹈",
+      "onboard_time": 1735375160,
+      "rank": 49,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 207050,
       "num": 207050,
       "word": "国安部提示警惕评论区里的谍影重重",
@@ -8791,6 +8807,14 @@
       "num": 206218,
       "word": "李昀锐他们说我是小狗",
       "onboard_time": 1734966141,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206158,
+      "num": 164444,
+      "word": "杨紫何惟芳 我哭了我装的",
+      "onboard_time": 1735377619,
       "rank": 41,
       "category": "剧集"
     },
@@ -8971,14 +8995,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204033,
-      "num": 204033,
-      "word": "一诺跳了张艺兴的舞蹈",
-      "onboard_time": 1735375160,
-      "rank": 49,
-      "category": "电竞,艺人"
-    },
-    {
       "raw_hot": 203922,
       "num": 196697,
       "word": "樊振东点赞澳网是职业体育典范",
@@ -9001,6 +9017,14 @@
       "onboard_time": 1735017679,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203110,
+      "num": 173754,
+      "word": "九重紫直播主持人",
+      "onboard_time": 1735377021,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202924,
@@ -9067,6 +9091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201476,
+      "num": 173893,
+      "word": "宋墨遭遇婆媳双打",
+      "onboard_time": 1735376479,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201117,
       "num": 201117,
       "word": "世俱杯",
@@ -9097,6 +9129,14 @@
       "onboard_time": 1734832876,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200567,
+      "num": 173938,
+      "word": "程潇好爱紫色",
+      "onboard_time": 1735377499,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 200549,
@@ -9139,19 +9179,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199633,
+      "num": 173831,
+      "word": "王俊凯出发澳门",
+      "onboard_time": 1735377440,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199545,
       "num": 199545,
       "word": "孟子义谢谢你们因为窦昭喜欢我",
       "onboard_time": 1734873140,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199523,
-      "num": 173938,
-      "word": "程潇好爱紫色",
-      "onboard_time": 1735377499,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -9177,14 +9217,6 @@
       "onboard_time": 1734846498,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 199435,
-      "num": 173893,
-      "word": "宋墨遭遇婆媳双打",
-      "onboard_time": 1735376479,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 199391,
@@ -9731,14 +9763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193253,
-      "num": 173831,
-      "word": "王俊凯出发澳门",
-      "onboard_time": 1735377440,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192988,
       "num": 192988,
       "word": "王一博新歌试听视频",
@@ -10089,6 +10113,14 @@
       "onboard_time": 1735129339,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188832,
+      "num": 172997,
+      "word": "叶祖新穿太子戏服亮相活动",
+      "onboard_time": 1735377199,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 188813,
@@ -10819,11 +10851,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 177702,
-      "num": 173754,
-      "word": "九重紫直播主持人",
-      "onboard_time": 1735377021,
-      "rank": 28,
+      "raw_hot": 177700,
+      "num": 161674,
+      "word": "恋人剧本",
+      "onboard_time": 1735377379,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -11147,6 +11179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173137,
+      "num": 173137,
+      "word": "全球已超5000人登上太空",
+      "onboard_time": 1735377559,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 173051,
       "num": 173051,
       "word": "冷空气影响将在元旦前结束",
@@ -11161,14 +11201,6 @@
       "onboard_time": 1735270339,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 172997,
-      "num": 172997,
-      "word": "叶祖新穿太子戏服亮相活动",
-      "onboard_time": 1735377199,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 172896,
@@ -12155,6 +12187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 160950,
+      "num": 158658,
+      "word": "白敬亭王安宇有种脑干缺失的美",
+      "onboard_time": 1735378101,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160904,
       "num": 160904,
       "word": "世界排名对运动员影响有多大",
@@ -12251,14 +12291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160181,
-      "num": 160181,
-      "word": "全球已超5000人登上太空",
-      "onboard_time": 1735377559,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 160005,
       "num": 160005,
       "word": "赵今麦骄阳似我背带裙路透",
@@ -12329,6 +12361,14 @@
       "onboard_time": 1735297880,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159537,
+      "num": 159537,
+      "word": "年轻人越来越渴望稳定的生活",
+      "onboard_time": 1735377499,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159306,
@@ -12569,6 +12609,14 @@
       "onboard_time": 1734848958,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157069,
+      "num": 157069,
+      "word": "张远澄清自己不是母胎solo",
+      "onboard_time": 1735377920,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 157057,
@@ -14139,14 +14187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138207,
-      "num": 122673,
-      "word": "杨紫何惟芳 我哭了我装的",
-      "onboard_time": 1735377619,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138168,
       "num": 138168,
       "word": "女生手作雅典娜翅膀完成童年梦想",
@@ -14417,6 +14457,14 @@
       "onboard_time": 1735225339,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134741,
+      "num": 164778,
+      "word": "WTT不参赛就罚款新规会改变吗",
+      "onboard_time": 1735377859,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 134723,
@@ -16483,6 +16531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111348,
+      "num": 111348,
+      "word": "你们到底怎么把他调成这样的",
+      "onboard_time": 1735377980,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111051,
       "num": 111051,
       "word": "蛇年纪念币预约情况火爆",
@@ -16529,14 +16585,6 @@
       "onboard_time": 1734788720,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 110438,
-      "num": 110438,
-      "word": "年轻人越来越渴望稳定的生活",
-      "onboard_time": 1735377499,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110429,
@@ -19331,6 +19379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65416,
+      "num": 177440,
+      "word": "微博跨年预约TOP10",
+      "onboard_time": 1735376958,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65293,
       "num": 88127,
       "word": "斗破苍穹",
@@ -19553,14 +19609,6 @@
       "onboard_time": 1735022540,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 61763,
-      "num": 177440,
-      "word": "微博跨年预约TOP10",
-      "onboard_time": 1735376958,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 61747,
@@ -22003,6 +22051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 34686,
+      "num": 216237,
+      "word": "劳动仲裁后被撤回的offer",
+      "onboard_time": 1735377499,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34681,
       "num": 465190,
       "word": "为什么猴系男孩在相亲市场很抢手",
@@ -23635,14 +23691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22000,
-      "num": 205603,
-      "word": "劳动仲裁后被撤回的offer",
-      "onboard_time": 1735377499,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21983,
       "num": 33701,
       "word": "反复欣赏周深的记忆商店",
@@ -25023,6 +25071,9 @@
     },
     {
       "word": "#温暖的回信#"
+    },
+    {
+      "word": "#总书记最深的牵挂#"
     }
   ]
 }

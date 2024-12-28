@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735377672752,
+  "endTime": 1735378518035,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -43,19 +43,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2112783,
+      "num": 2112783,
+      "word": "曝徐娇被起诉",
+      "onboard_time": 1735374500,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2085107,
       "num": 781949,
       "word": "神经系统疾病",
       "onboard_time": 1735313662,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2067011,
-      "num": 2067011,
-      "word": "曝徐娇被起诉",
-      "onboard_time": 1735374500,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 938066,
+      "num": 938066,
+      "word": "裸辞一年后找了个上1休1的工作",
+      "onboard_time": 1735374680,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 915153,
       "num": 943868,
       "word": "文科消亡成为一股全球性浪潮",
@@ -153,14 +161,6 @@
       "onboard_time": 1735351158,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 784678,
-      "num": 784678,
-      "word": "裸辞一年后找了个上1休1的工作",
-      "onboard_time": 1735374680,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 737566,
@@ -227,20 +227,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 586051,
+      "num": 423672,
+      "word": "白敬亭 给我个解释",
+      "onboard_time": 1735374768,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 573949,
       "num": 160514,
       "word": "沈星回 难哄",
       "onboard_time": 1735306281,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 560309,
-      "num": 344849,
-      "word": "白敬亭 给我个解释",
-      "onboard_time": 1735374768,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 547273,
@@ -307,20 +307,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 468510,
+      "num": 468510,
+      "word": "急诊室家暴事件2男子被拘",
+      "onboard_time": 1735373301,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 461902,
       "num": 435328,
       "word": "队友心疼樊振东埋头努力",
       "onboard_time": 1735348220,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456982,
-      "num": 456982,
-      "word": "急诊室家暴事件2男子被拘",
-      "onboard_time": 1735373301,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 451965,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 314127,
+      "num": 314127,
+      "word": "美媒称中国完成令人震惊的试飞",
+      "onboard_time": 1735374982,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 302127,
       "num": 302127,
       "word": "多家医院发布最新分娩数据",
@@ -667,14 +675,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268890,
-      "num": 268890,
-      "word": "美媒称中国完成令人震惊的试飞",
-      "onboard_time": 1735374982,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 267158,
       "num": 364676,
       "word": "牛肉价格已跌到近5年最低",
@@ -739,20 +739,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 238134,
+      "num": 235473,
+      "word": "周雨彤演技",
+      "onboard_time": 1735374440,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 236736,
       "num": 160411,
       "word": "花海退役",
       "onboard_time": 1735292300,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235473,
-      "num": 235473,
-      "word": "周雨彤演技",
-      "onboard_time": 1735374440,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 233441,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215239,
+      "num": 165390,
+      "word": "张萌 再不嗑就来不及了",
+      "onboard_time": 1735377859,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213823,
       "num": 143737,
       "word": "Project7决赛",
@@ -843,12 +851,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207068,
+      "num": 207068,
+      "word": "一诺跳了张艺兴的舞蹈",
+      "onboard_time": 1735375160,
+      "rank": 49,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 206228,
       "num": 206228,
       "word": "张萌硬cue",
       "onboard_time": 1735365199,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206158,
+      "num": 164444,
+      "word": "杨紫何惟芳 我哭了我装的",
+      "onboard_time": 1735377619,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 204456,
@@ -859,20 +883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204033,
-      "num": 204033,
-      "word": "一诺跳了张艺兴的舞蹈",
-      "onboard_time": 1735375160,
-      "rank": 49,
-      "category": "电竞,艺人"
-    },
-    {
       "raw_hot": 203922,
       "num": 196697,
       "word": "樊振东点赞澳网是职业体育典范",
       "onboard_time": 1735369462,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203110,
+      "num": 173754,
+      "word": "九重紫直播主持人",
+      "onboard_time": 1735377021,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202924,
@@ -883,12 +907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201476,
+      "num": 173893,
+      "word": "宋墨遭遇婆媳双打",
+      "onboard_time": 1735376479,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200878,
       "num": 188429,
       "word": "美媒爆特朗普已与周受资通电话",
       "onboard_time": 1735367181,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200567,
+      "num": 173938,
+      "word": "程潇好爱紫色",
+      "onboard_time": 1735377499,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 200226,
@@ -899,12 +939,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199523,
-      "num": 173938,
-      "word": "程潇好爱紫色",
-      "onboard_time": 1735377499,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 199633,
+      "num": 173831,
+      "word": "王俊凯出发澳门",
+      "onboard_time": 1735377440,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 199451,
@@ -913,14 +953,6 @@
       "onboard_time": 1735353559,
       "rank": 32,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 199435,
-      "num": 173893,
-      "word": "宋墨遭遇婆媳双打",
-      "onboard_time": 1735376479,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 197774,
@@ -1003,20 +1035,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193253,
-      "num": 173831,
-      "word": "王俊凯出发澳门",
-      "onboard_time": 1735377440,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189954,
       "num": 189954,
       "word": "曝Zeus服役期间被T1粉丝找茬",
       "onboard_time": 1735368982,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188832,
+      "num": 172997,
+      "word": "叶祖新穿太子戏服亮相活动",
+      "onboard_time": 1735377199,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 188388,
@@ -1067,11 +1099,11 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177702,
-      "num": 173754,
-      "word": "九重紫直播主持人",
-      "onboard_time": 1735377021,
-      "rank": 28,
+      "raw_hot": 177700,
+      "num": 161674,
+      "word": "恋人剧本",
+      "onboard_time": 1735377379,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1107,12 +1139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172997,
-      "num": 172997,
-      "word": "叶祖新穿太子戏服亮相活动",
-      "onboard_time": 1735377199,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 173137,
+      "num": 173137,
+      "word": "全球已超5000人登上太空",
+      "onboard_time": 1735377559,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 172261,
@@ -1219,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160950,
+      "num": 158658,
+      "word": "白敬亭王安宇有种脑干缺失的美",
+      "onboard_time": 1735378101,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160492,
       "num": 160492,
       "word": "环卫工因被欠薪几个月停工致垃圾遍地",
@@ -1235,20 +1275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160181,
-      "num": 160181,
-      "word": "全球已超5000人登上太空",
-      "onboard_time": 1735377559,
-      "rank": 34,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "乒乓球选手收入远不及网球选手",
       "onboard_time": 1735368801,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159537,
+      "num": 159537,
+      "word": "年轻人越来越渴望稳定的生活",
+      "onboard_time": 1735377499,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159306,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1735375939,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157069,
+      "num": 157069,
+      "word": "张远澄清自己不是母胎solo",
+      "onboard_time": 1735377920,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 156565,
@@ -1467,14 +1515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138207,
-      "num": 122673,
-      "word": "杨紫何惟芳 我哭了我装的",
-      "onboard_time": 1735377619,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137391,
       "num": 137391,
       "word": "春晚彩排",
@@ -1495,6 +1535,14 @@
       "num": 174001,
       "word": "媒体评WTT新规惹争议",
       "onboard_time": 1735376000,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134741,
+      "num": 164778,
+      "word": "WTT不参赛就罚款新规会改变吗",
+      "onboard_time": 1735377859,
       "rank": 24,
       "category": "体育"
     },
@@ -1811,12 +1859,12 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 110438,
-      "num": 110438,
-      "word": "年轻人越来越渴望稳定的生活",
-      "onboard_time": 1735377499,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 111348,
+      "num": 111348,
+      "word": "你们到底怎么把他调成这样的",
+      "onboard_time": 1735377980,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 110177,
@@ -2107,19 +2155,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65416,
+      "num": 177440,
+      "word": "微博跨年预约TOP10",
+      "onboard_time": 1735376958,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62997,
       "num": 62997,
       "word": "武艺 比大学生还清澈",
       "onboard_time": 1735336150,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 61763,
-      "num": 177440,
-      "word": "微博跨年预约TOP10",
-      "onboard_time": 1735376958,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -2289,6 +2337,14 @@
       "onboard_time": 1735374260,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34686,
+      "num": 216237,
+      "word": "劳动仲裁后被撤回的offer",
+      "onboard_time": 1735377499,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34129,
@@ -2467,14 +2523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22000,
-      "num": 205603,
-      "word": "劳动仲裁后被撤回的offer",
-      "onboard_time": 1735377499,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21983,
       "num": 33701,
       "word": "反复欣赏周深的记忆商店",
@@ -2644,6 +2692,9 @@
     },
     {
       "word": "#温暖的回信#"
+    },
+    {
+      "word": "#总书记最深的牵挂#"
     }
   ]
 }
