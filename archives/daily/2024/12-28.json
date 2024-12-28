@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735357182152,
+  "endTime": 1735359978019,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -51,12 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1157708,
-      "num": 1157708,
+      "raw_hot": 1223203,
+      "num": 1223203,
       "word": "误杀3 萝莉岛",
       "onboard_time": 1735354998,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 995179,
+      "num": 676649,
+      "word": "赵露思爸爸",
+      "onboard_time": 1735359439,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 915153,
+      "num": 915153,
+      "word": "文科消亡成为一股全球性浪潮",
+      "onboard_time": 1735355480,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 842944,
@@ -115,12 +131,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 550282,
+      "num": 506619,
+      "word": "警方通报2女子在急诊室被家暴",
+      "onboard_time": 1735353499,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 547273,
       "num": 547273,
       "word": "深圳生4胞胎家庭仍因恶评不悦",
       "onboard_time": 1735346539,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534636,
+      "num": 534636,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1735357340,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 514097,
@@ -139,20 +171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 501351,
-      "num": 501351,
-      "word": "文科消亡成为一股全球性浪潮",
-      "onboard_time": 1735355480,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "花海",
       "onboard_time": 1735314681,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 475598,
+      "num": 475598,
+      "word": "41岁教师去世200多名学生赶来送行",
+      "onboard_time": 1735356140,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461902,
@@ -171,12 +203,28 @@
       "category": "民生新闻,作品衍生"
     },
     {
+      "raw_hot": 411429,
+      "num": 411429,
+      "word": "军队文职",
+      "onboard_time": 1735357279,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 391689,
       "num": 391689,
       "word": "火锅店称晚上10点后一半是韩国人",
       "onboard_time": 1735344677,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 387139,
+      "num": 387139,
+      "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
+      "onboard_time": 1735356919,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381405,
@@ -203,20 +251,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 357563,
-      "num": 357563,
-      "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
-      "onboard_time": 1735356919,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 355279,
       "num": 276732,
       "word": "小小的我口碑",
       "onboard_time": 1735297220,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 351735,
+      "num": 351735,
+      "word": "张雪峰公司年会撒现金",
+      "onboard_time": 1735357340,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 346451,
@@ -251,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330259,
+      "num": 243206,
+      "word": "程靖淇说王楚钦该扛起这杆旗了",
+      "onboard_time": 1735358840,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329545,
       "num": 329545,
       "word": "大奉打更人",
@@ -283,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304038,
-      "num": 361763,
-      "word": "警方通报2女子在急诊室被家暴",
-      "onboard_time": 1735353499,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 302127,
       "num": 302127,
       "word": "多家医院发布最新分娩数据",
@@ -307,6 +355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 295996,
+      "num": 295996,
+      "word": "樊振东退出世界排名不只是为了自己",
+      "onboard_time": 1735357220,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291173,
       "num": 291173,
       "word": "自导自演谎称偷拍泛滥35人被抓",
@@ -321,6 +377,14 @@
       "onboard_time": 1735347499,
       "rank": 21,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 290382,
+      "num": 333256,
+      "word": "上千只羊交易前被管插喉咙猛灌饲料",
+      "onboard_time": 1735358420,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 283200,
@@ -387,12 +451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250503,
-      "num": 250503,
-      "word": "41岁教师去世200多名学生赶来送行",
-      "onboard_time": 1735356140,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 248866,
+      "num": 248866,
+      "word": "你好星期六全员晒收快递记录",
+      "onboard_time": 1735356500,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245193,
+      "num": 245193,
+      "word": "杨紫李现二搭宿命感",
+      "onboard_time": 1735359381,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 236736,
@@ -427,14 +499,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 225277,
-      "num": 225277,
-      "word": "你好星期六全员晒收快递记录",
-      "onboard_time": 1735356500,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224450,
       "num": 201772,
       "word": "爱奇艺开年大剧三部曲",
@@ -459,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208315,
+      "num": 239879,
+      "word": "杨紫红眼流泪镜头",
+      "onboard_time": 1735359018,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204456,
       "num": 199783,
       "word": "程靖淇说王楚钦打球很干净",
       "onboard_time": 1735346180,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202924,
+      "num": 238703,
+      "word": "贺峻霖 放下系爱豆",
+      "onboard_time": 1735358899,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200226,
@@ -483,11 +563,27 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 199229,
+      "num": 239450,
+      "word": "丁禹兮 晋江式演技劳模",
+      "onboard_time": 1735357340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197774,
       "num": 205687,
       "word": "成何体统",
       "onboard_time": 1735354998,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197308,
+      "num": 197308,
+      "word": "王鹤棣田曦薇烟花吻戏",
+      "onboard_time": 1735359381,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -513,6 +609,14 @@
       "onboard_time": 1735342635,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185864,
+      "num": 211676,
+      "word": "白鹿唐宫高马尾好飒",
+      "onboard_time": 1735358719,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180428,
@@ -587,6 +691,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161362,
+      "num": 161362,
+      "word": "边伯贤确定出演大逃脱",
+      "onboard_time": 1735358958,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154901,
+      "num": 154901,
+      "word": "何洁18宫格ccd杀青照告别时光",
+      "onboard_time": 1735359318,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154574,
       "num": 154574,
       "word": "古人有自己的美妆潮流",
@@ -611,6 +731,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 149566,
+      "num": 149566,
+      "word": "李健黑胶",
+      "onboard_time": 1735359318,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149144,
       "num": 149144,
       "word": "橘猫 那咋了",
@@ -619,12 +747,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148620,
+      "num": 148620,
+      "word": "环卫工因被欠薪几个月停工致垃圾遍地",
+      "onboard_time": 1735357340,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146679,
       "num": 146679,
       "word": "警花回应与景甜相似被称尔滨分甜",
       "onboard_time": 1735351099,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144438,
+      "num": 144438,
+      "word": "王一博新歌我在",
+      "onboard_time": 1735359861,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "无限暖暖",
+      "onboard_time": 1735359198,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 137391,
@@ -641,6 +793,14 @@
       "onboard_time": 1735298480,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135323,
+      "num": 135323,
+      "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
+      "onboard_time": 1735359861,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134414,
@@ -664,6 +824,14 @@
       "word": "官方通报近百只猫在水塘被溺死",
       "onboard_time": 1735311564,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131558,
+      "num": 131558,
+      "word": "医保统筹个人自付个人自费咋区分",
+      "onboard_time": 1735359559,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -697,6 +865,14 @@
       "onboard_time": 1735310002,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127246,
+      "num": 241903,
+      "word": "一段视频记住2024的故事",
+      "onboard_time": 1735358000,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126548,
@@ -761,6 +937,14 @@
       "onboard_time": 1735312163,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119066,
+      "num": 244781,
+      "word": "大奉打更人今日开播",
+      "onboard_time": 1735358840,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 118652,
@@ -1035,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 54325,
+      "num": 241399,
+      "word": "2024的你当红不让",
+      "onboard_time": 1735359679,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53380,
       "num": 53380,
       "word": "起猛了看到林黛玉演喜剧了",
@@ -1227,6 +1419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24289,
+      "num": 170753,
+      "word": "易烊千玺平凡的一天",
+      "onboard_time": 1735358599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22264,
       "num": 61237,
       "word": "古人的小夜灯超有氛围感",
@@ -1257,6 +1457,14 @@
       "onboard_time": 1735341255,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20310,
+      "num": 333071,
+      "word": "2024年五十大网络流行语",
+      "onboard_time": 1735359738,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 19814,

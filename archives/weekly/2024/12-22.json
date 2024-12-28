@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735357182152,
+  "endTime": 1735359978019,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -755,6 +755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1223203,
+      "num": 1223203,
+      "word": "误杀3 萝莉岛",
+      "onboard_time": 1735354998,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1218544,
       "num": 1218544,
       "word": "小小的我",
@@ -864,14 +872,6 @@
       "word": "小小的我 周雨彤",
       "onboard_time": 1735281142,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1157708,
-      "num": 1157708,
-      "word": "误杀3 萝莉岛",
-      "onboard_time": 1735354998,
-      "rank": 1,
       "category": "电影"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 995179,
+      "num": 676649,
+      "word": "赵露思爸爸",
+      "onboard_time": 1735359439,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989493,
       "num": 989493,
       "word": "徐娇被告知长沙室内不禁烟",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1735218920,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 915153,
+      "num": 915153,
+      "word": "文科消亡成为一股全球性浪潮",
+      "onboard_time": 1735355480,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 912767,
@@ -2963,6 +2979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 550282,
+      "num": 506619,
+      "word": "警方通报2女子在急诊室被家暴",
+      "onboard_time": 1735353499,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 550110,
       "num": 550110,
       "word": "塔斯汀吃出生肉当事人称已获赔偿",
@@ -3057,6 +3081,14 @@
       "onboard_time": 1735036819,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534636,
+      "num": 534636,
+      "word": "养了六年的兔子给我做了个窝",
+      "onboard_time": 1735357340,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 534540,
@@ -3315,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 501351,
-      "num": 501351,
-      "word": "文科消亡成为一股全球性浪潮",
-      "onboard_time": 1735355480,
-      "rank": 18,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 496126,
       "num": 164759,
       "word": "减重120斤男子脸如戴人皮面具",
@@ -3440,6 +3464,14 @@
       "word": "3女生考研最后一科被反锁酒店",
       "onboard_time": 1735018699,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475598,
+      "num": 475598,
+      "word": "41岁教师去世200多名学生赶来送行",
+      "onboard_time": 1735356140,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -4163,6 +4195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411429,
+      "num": 411429,
+      "word": "军队文职",
+      "onboard_time": 1735357279,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 411137,
       "num": 411137,
       "word": "4000年前地震母亲用身体护住孩子",
@@ -4440,6 +4480,14 @@
       "word": "一农民卖羊肉赚180元收到10万罚单",
       "onboard_time": 1735142718,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 387139,
+      "num": 387139,
+      "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
+      "onboard_time": 1735356919,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4899,14 +4947,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 357563,
-      "num": 357563,
-      "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
-      "onboard_time": 1735356919,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357375,
       "num": 393086,
       "word": "徐开骋风波后综艺首录",
@@ -4961,6 +5001,14 @@
       "onboard_time": 1735291880,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351735,
+      "num": 351735,
+      "word": "张雪峰公司年会撒现金",
+      "onboard_time": 1735357340,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 351297,
@@ -5177,6 +5225,14 @@
       "onboard_time": 1734867439,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 330259,
+      "num": 243206,
+      "word": "程靖淇说王楚钦该扛起这杆旗了",
+      "onboard_time": 1735358840,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 330228,
@@ -5643,14 +5699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304038,
-      "num": 361763,
-      "word": "警方通报2女子在急诊室被家暴",
-      "onboard_time": 1735353499,
-      "rank": 9,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 303256,
       "num": 261077,
       "word": "国色芳华预热",
@@ -5737,6 +5785,14 @@
       "onboard_time": 1734943938,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295996,
+      "num": 295996,
+      "word": "樊振东退出世界排名不只是为了自己",
+      "onboard_time": 1735357220,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 295852,
@@ -5881,6 +5937,14 @@
       "onboard_time": 1735290981,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290382,
+      "num": 333256,
+      "word": "上千只羊交易前被管插喉咙猛灌饲料",
+      "onboard_time": 1735358420,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 289915,
@@ -6803,14 +6867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250503,
-      "num": 250503,
-      "word": "41岁教师去世200多名学生赶来送行",
-      "onboard_time": 1735356140,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249847,
       "num": 317240,
       "word": "有38人在客机失事中丧生",
@@ -6833,6 +6889,14 @@
       "onboard_time": 1735262897,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248866,
+      "num": 248866,
+      "word": "你好星期六全员晒收快递记录",
+      "onboard_time": 1735356500,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 248750,
@@ -6945,6 +7009,14 @@
       "onboard_time": 1735203618,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245193,
+      "num": 245193,
+      "word": "杨紫李现二搭宿命感",
+      "onboard_time": 1735359381,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 244802,
@@ -7505,14 +7577,6 @@
       "onboard_time": 1735134799,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225277,
-      "num": 225277,
-      "word": "你好星期六全员晒收快递记录",
-      "onboard_time": 1735356500,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 225159,
@@ -8243,6 +8307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208315,
+      "num": 239879,
+      "word": "杨紫红眼流泪镜头",
+      "onboard_time": 1735359018,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208304,
       "num": 208304,
       "word": "Last Christmas",
@@ -8595,6 +8667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202924,
+      "num": 238703,
+      "word": "贺峻霖 放下系爱豆",
+      "onboard_time": 1735358899,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202828,
       "num": 235293,
       "word": "李嘉琦探班沈月",
@@ -8771,6 +8851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199229,
+      "num": 239450,
+      "word": "丁禹兮 晋江式演技劳模",
+      "onboard_time": 1735357340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198979,
       "num": 198979,
       "word": "长沙真的下雪了",
@@ -8904,6 +8992,14 @@
       "word": "成何体统",
       "onboard_time": 1735354998,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197308,
+      "num": 197308,
+      "word": "王鹤棣田曦薇烟花吻戏",
+      "onboard_time": 1735359381,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -9841,6 +9937,14 @@
       "onboard_time": 1734858918,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185864,
+      "num": 211676,
+      "word": "白鹿唐宫高马尾好飒",
+      "onboard_time": 1735358719,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185819,
@@ -11467,6 +11571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161362,
+      "num": 161362,
+      "word": "边伯贤确定出演大逃脱",
+      "onboard_time": 1735358958,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161343,
       "num": 161343,
       "word": "用8000块半年赚了130万",
@@ -12011,6 +12123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154901,
+      "num": 154901,
+      "word": "何洁18宫格ccd杀青照告别时光",
+      "onboard_time": 1735359318,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154823,
       "num": 154823,
       "word": "2024余额一只手就数清了",
@@ -12427,6 +12547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 149566,
+      "num": 149566,
+      "word": "李健黑胶",
+      "onboard_time": 1735359318,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149550,
       "num": 149550,
       "word": "369战胜TheShy",
@@ -12505,6 +12633,14 @@
       "onboard_time": 1735195038,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148620,
+      "num": 148620,
+      "word": "环卫工因被欠薪几个月停工致垃圾遍地",
+      "onboard_time": 1735357340,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148611,
@@ -12851,6 +12987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144438,
+      "num": 144438,
+      "word": "王一博新歌我在",
+      "onboard_time": 1735359861,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144251,
       "num": 164025,
       "word": "孟子义控泪",
@@ -12865,6 +13009,14 @@
       "onboard_time": 1734879623,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "无限暖暖",
+      "onboard_time": 1735359198,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 143918,
@@ -13523,6 +13675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135323,
+      "num": 135323,
+      "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
+      "onboard_time": 1735359861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135303,
       "num": 135303,
       "word": "偷偷给女医生送了锦旗",
@@ -13865,6 +14025,14 @@
       "onboard_time": 1734835276,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131558,
+      "num": 131558,
+      "word": "医保统筹个人自付个人自费咋区分",
+      "onboard_time": 1735359559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131452,
@@ -14265,6 +14433,14 @@
       "onboard_time": 1735100359,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127246,
+      "num": 241903,
+      "word": "一段视频记住2024的故事",
+      "onboard_time": 1735358000,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126975,
@@ -14817,6 +14993,14 @@
       "onboard_time": 1735174098,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119066,
+      "num": 244781,
+      "word": "大奉打更人今日开播",
+      "onboard_time": 1735358840,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 119045,
@@ -18995,6 +19179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54325,
+      "num": 241399,
+      "word": "2024的你当红不让",
+      "onboard_time": 1735359679,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54127,
       "num": 343598,
       "word": "上官正义一年举报43家非法代孕机构",
@@ -22163,6 +22355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24289,
+      "num": 170753,
+      "word": "易烊千玺平凡的一天",
+      "onboard_time": 1735358599,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24167,
       "num": 112133,
       "word": "景区回应用绳子制造人工冰瀑",
@@ -22521,6 +22721,14 @@
       "onboard_time": 1735198698,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20310,
+      "num": 333071,
+      "word": "2024年五十大网络流行语",
+      "onboard_time": 1735359738,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 20216,
