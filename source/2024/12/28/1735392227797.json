@@ -1,0 +1,410 @@
+{
+  "runTime": 1735392227797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449208,
+        "num": 1449208,
+        "word": "王鹤棣台词",
+        "onboard_time": 1735385538,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661082,
+        "num": 661082,
+        "word": "躯体化症状是什么病",
+        "onboard_time": 1735384820,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54626,
+        "num": 452390,
+        "word": "2024大国重器硬核上分",
+        "onboard_time": 1735378999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1441519,
+        "num": 408006,
+        "word": "冉莹颖儿子打生长激素27天见成效",
+        "onboard_time": 1735389501,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336056,
+        "num": 336056,
+        "word": "裸辞一年后找了个上1休1的工作",
+        "onboard_time": 1735374680,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321663,
+        "num": 321663,
+        "word": "16万买22张刘德华的票只拿到3张",
+        "onboard_time": 1735386199,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1007786,
+        "num": 299667,
+        "word": "庆余年",
+        "onboard_time": 1735388000,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171486,
+        "num": 253686,
+        "word": "2025国内卫视跨年阵容",
+        "onboard_time": 1735391361,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28802,
+        "num": 239265,
+        "word": "对偷拍零容忍也不会放过虚假谎言",
+        "onboard_time": 1735391001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236987,
+        "num": 236987,
+        "word": "美媒称中国完成令人震惊的试飞",
+        "onboard_time": 1735374982,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 959439,
+        "num": 236868,
+        "word": "王鹤棣演唱会上座率",
+        "onboard_time": 1735390819,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 841649,
+        "num": 235032,
+        "word": "2024全球最帅一百张面孔",
+        "onboard_time": 1735385300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777923,
+        "num": 234691,
+        "word": "赵露思曾说非常不想做这一行",
+        "onboard_time": 1735379479,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20043,
+        "num": 232919,
+        "word": "1个热门马拉松名额炒到上千元",
+        "onboard_time": 1735391600,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153878,
+        "num": 232430,
+        "word": "晓华常只睡两个小时喝浓茶提神",
+        "onboard_time": 1735390819,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553905,
+        "num": 231266,
+        "word": "李昀锐用孟子义的粉饼补妆",
+        "onboard_time": 1735387821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394640,
+        "num": 229832,
+        "word": "男子口含玻璃渣吃饭敲诈餐厅",
+        "onboard_time": 1735388481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293212,
+        "num": 228430,
+        "word": "田曦薇什么时候出场",
+        "onboard_time": 1735390819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263359,
+        "num": 227355,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89355,
+        "num": 226393,
+        "word": "杭州有人卖金条一次性变现958万",
+        "onboard_time": 1735388420,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 507757,
+        "num": 225326,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735384938,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492348,
+        "num": 224903,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486901,
+        "num": 223938,
+        "word": "西村力kpop首帅",
+        "onboard_time": 1735389980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447276,
+        "num": 222948,
+        "word": "曝徐娇被起诉",
+        "onboard_time": 1735374500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221996,
+        "num": 221996,
+        "word": "黄雅琼回应不和王昶打混双",
+        "onboard_time": 1735389320,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331688,
+        "num": 221416,
+        "word": "逐玉剧组",
+        "onboard_time": 1735391240,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330077,
+        "num": 221005,
+        "word": "颜如晶减肥心态崩了",
+        "onboard_time": 1735383440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241754,
+        "num": 218711,
+        "word": "孟子义说没想到下雪爆剧爆到九重紫",
+        "onboard_time": 1735392081,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214896,
+        "num": 214896,
+        "word": "大奉打更人",
+        "onboard_time": 1735383079,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178110,
+        "num": 178110,
+        "word": "车厘子价格跌至每斤15元",
+        "onboard_time": 1735391781,
+        "rank": 29,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 201137,
+        "num": 177522,
+        "word": "倪虹洁 大奉打更人",
+        "onboard_time": 1735391661,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176810,
+        "num": 176810,
+        "word": "从韩国回来最大的感受是什么",
+        "onboard_time": 1735385479,
+        "rank": 31,
+        "category": "旅游,情感"
+      },
+      {
+        "raw_hot": 175643,
+        "num": 175643,
+        "word": "华晨宇时代少年团合作",
+        "onboard_time": 1735390160,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162207,
+        "num": 162207,
+        "word": "白敬亭 给我个解释",
+        "onboard_time": 1735374768,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158171,
+        "num": 158171,
+        "word": "吃火锅必不可少的三样菜",
+        "onboard_time": 1735382718,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156132,
+        "num": 156132,
+        "word": "你好星期六",
+        "onboard_time": 1735389200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145464,
+        "num": 145464,
+        "word": "外界关注中国六代机成功首飞传闻",
+        "onboard_time": 1735371141,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 139266,
+        "num": 139266,
+        "word": "腾讯云包场崩了",
+        "onboard_time": 1735391961,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136405,
+        "num": 136405,
+        "word": "姜涛回应世二帅",
+        "onboard_time": 1735391719,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130363,
+        "num": 130363,
+        "word": "车厘子价格仍有下降空间",
+        "onboard_time": 1735387700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136014,
+        "num": 129071,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127348,
+        "num": 127348,
+        "word": "小小的我 没有刻意煽情",
+        "onboard_time": 1735378639,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127311,
+        "num": 127311,
+        "word": "涨涨涨金价一年创40次新高",
+        "onboard_time": 1735386139,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121896,
+        "num": 121896,
+        "word": "昭昭墨墨最后撒糖时刻",
+        "onboard_time": 1735391842,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111228,
+        "num": 111228,
+        "word": "王俊凯的马甲穿反了",
+        "onboard_time": 1735383140,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111053,
+        "num": 111053,
+        "word": "TTG对战情久",
+        "onboard_time": 1735389861,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104780,
+        "num": 104780,
+        "word": "俩男子敲诈某品牌火锅店6次被公诉",
+        "onboard_time": 1735391901,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102433,
+        "num": 102433,
+        "word": "刘国梁曾透露国乒新周期规划",
+        "onboard_time": 1735392141,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100557,
+        "num": 100557,
+        "word": "橘子茉莉奶盖很适合跨年喝",
+        "onboard_time": 1735390760,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97669,
+        "num": 97669,
+        "word": "时代少年团直播",
+        "onboard_time": 1735383619,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深的牵挂#"
+    }
+  }
+}
