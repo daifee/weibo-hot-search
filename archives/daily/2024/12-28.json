@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735375182411,
+  "endTime": 1735377672752,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2067011,
+      "num": 2067011,
+      "word": "曝徐娇被起诉",
+      "onboard_time": 1735374500,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1979776,
       "num": 1979776,
       "word": "太冷了醒来发现女儿像木头一样僵硬",
       "onboard_time": 1735348220,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1950032,
-      "num": 1950032,
-      "word": "曝徐娇被起诉",
-      "onboard_time": 1735374500,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1754985,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784678,
+      "num": 784678,
+      "word": "裸辞一年后找了个上1休1的工作",
+      "onboard_time": 1735374680,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 737566,
       "num": 737566,
       "word": "特朗普要求暂停执行TikTok强制出售令",
@@ -227,6 +235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 560309,
+      "num": 344849,
+      "word": "白敬亭 给我个解释",
+      "onboard_time": 1735374768,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 547273,
       "num": 547273,
       "word": "深圳生4胞胎家庭仍因恶评不悦",
@@ -297,6 +313,14 @@
       "onboard_time": 1735348220,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456982,
+      "num": 456982,
+      "word": "急诊室家暴事件2男子被拘",
+      "onboard_time": 1735373301,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 451965,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298572,
-      "num": 383310,
-      "word": "急诊室家暴事件2男子被拘",
-      "onboard_time": 1735373301,
-      "rank": 13,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 298466,
       "num": 850271,
       "word": "南宁强占人妻区长简历被撤下",
@@ -651,6 +667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268890,
+      "num": 268890,
+      "word": "美媒称中国完成令人震惊的试飞",
+      "onboard_time": 1735374982,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 267158,
       "num": 364676,
       "word": "牛肉价格已跌到近5年最低",
@@ -681,14 +705,6 @@
       "onboard_time": 1735347499,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255136,
-      "num": 255136,
-      "word": "裸辞一年后找了个上1休1的工作",
-      "onboard_time": 1735374680,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 254248,
@@ -731,6 +747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235473,
+      "num": 235473,
+      "word": "周雨彤演技",
+      "onboard_time": 1735374440,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 233441,
       "num": 233441,
       "word": "字节跳动明确表示不会出售TikTok",
@@ -769,14 +793,6 @@
       "onboard_time": 1735314621,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220951,
-      "num": 220951,
-      "word": "周雨彤演技",
-      "onboard_time": 1735374440,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 220136,
@@ -843,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204033,
+      "num": 204033,
+      "word": "一诺跳了张艺兴的舞蹈",
+      "onboard_time": 1735375160,
+      "rank": 49,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 203922,
       "num": 196697,
       "word": "樊振东点赞澳网是职业体育典范",
@@ -875,12 +899,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199523,
+      "num": 173938,
+      "word": "程潇好爱紫色",
+      "onboard_time": 1735377499,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199451,
       "num": 199451,
       "word": "警方通报2男子疑急诊室家暴2女子",
       "onboard_time": 1735353559,
       "rank": 32,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 199435,
+      "num": 173893,
+      "word": "宋墨遭遇婆媳双打",
+      "onboard_time": 1735376479,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 197774,
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193253,
+      "num": 173831,
+      "word": "王俊凯出发澳门",
+      "onboard_time": 1735377440,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189954,
       "num": 189954,
       "word": "曝Zeus服役期间被T1粉丝找茬",
@@ -995,6 +1043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183295,
+      "num": 267034,
+      "word": "57岁阿姨演短剧享受与年轻人竞争",
+      "onboard_time": 1735374021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179776,
       "num": 264314,
       "word": "为什么越来越多女生爱上穿男装",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1735355539,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177702,
+      "num": 173754,
+      "word": "九重紫直播主持人",
+      "onboard_time": 1735377021,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 177033,
@@ -1041,6 +1105,14 @@
       "onboard_time": 1735299913,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172997,
+      "num": 172997,
+      "word": "叶祖新穿太子戏服亮相活动",
+      "onboard_time": 1735377199,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172261,
@@ -1163,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160181,
+      "num": 160181,
+      "word": "全球已超5000人登上太空",
+      "onboard_time": 1735377559,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 159987,
       "num": 159987,
       "word": "乒乓球选手收入远不及网球选手",
@@ -1184,6 +1264,14 @@
       "word": "孟子义 有请兜里少爷",
       "onboard_time": 1735363639,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158762,
+      "num": 158762,
+      "word": "九重紫收官",
+      "onboard_time": 1735375939,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1379,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138207,
+      "num": 122673,
+      "word": "杨紫何惟芳 我哭了我装的",
+      "onboard_time": 1735377619,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137391,
       "num": 137391,
       "word": "春晚彩排",
@@ -1393,6 +1489,14 @@
       "onboard_time": 1735298480,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134886,
+      "num": 174001,
+      "word": "媒体评WTT新规惹争议",
+      "onboard_time": 1735376000,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 134469,
@@ -1595,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121757,
+      "num": 121757,
+      "word": "2024PEL全明星红毯",
+      "onboard_time": 1735377319,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121197,
       "num": 121197,
       "word": "田曦薇说来央八看大奉打更人",
@@ -1667,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115175,
+      "num": 115175,
+      "word": "当把新中式穿在动漫人物身上",
+      "onboard_time": 1735376958,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114764,
       "num": 114764,
       "word": "F勒布伦评论樊振东",
@@ -1689,6 +1809,22 @@
       "onboard_time": 1735301059,
       "rank": 35,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 110438,
+      "num": 110438,
+      "word": "年轻人越来越渴望稳定的生活",
+      "onboard_time": 1735377499,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110177,
+      "num": 110177,
+      "word": "AG战胜LTG",
+      "onboard_time": 1735376661,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 109957,
@@ -1745,14 +1881,6 @@
       "onboard_time": 1735365559,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 106318,
-      "num": 267034,
-      "word": "57岁阿姨演短剧享受与年轻人竞争",
-      "onboard_time": 1735374021,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106313,
@@ -1883,22 +2011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94399,
-      "num": 94399,
-      "word": "美媒称中国完成令人震惊的试飞",
-      "onboard_time": 1735374982,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 93470,
-      "num": 93470,
-      "word": "一诺跳了张艺兴的舞蹈",
-      "onboard_time": 1735375160,
-      "rank": 49,
-      "category": "电竞,艺人"
-    },
-    {
       "raw_hot": 93087,
       "num": 93087,
       "word": "2025我的小小世界一定会更好",
@@ -1963,14 +2075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79866,
-      "num": 240710,
-      "word": "白敬亭 给我个解释",
-      "onboard_time": 1735374768,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 78833,
       "num": 216382,
       "word": "魔兽玩家24天卖出3吨橙子",
@@ -2008,6 +2112,14 @@
       "word": "武艺 比大学生还清澈",
       "onboard_time": 1735336150,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 61763,
+      "num": 177440,
+      "word": "微博跨年预约TOP10",
+      "onboard_time": 1735376958,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -2353,6 +2465,14 @@
       "onboard_time": 1735325292,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22000,
+      "num": 205603,
+      "word": "劳动仲裁后被撤回的offer",
+      "onboard_time": 1735377499,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21983,
