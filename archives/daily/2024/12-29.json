@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735404034948,
+  "endTime": 1735406278030,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -35,7 +35,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517390,
+      "raw_hot": 574908,
       "num": 282229,
       "word": "姜涛全球最帅面孔第二",
       "onboard_time": 1735399583,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330190,
+      "num": 225123,
+      "word": "段星星没出道",
+      "onboard_time": 1735401680,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326755,
       "num": 178042,
       "word": "冉莹颖儿子打生长激素27天见成效",
@@ -107,12 +115,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 308334,
-      "num": 183772,
-      "word": "段星星没出道",
-      "onboard_time": 1735401680,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 293575,
+      "num": 293575,
+      "word": "半夜和男朋友吵架刷机票抢到3元票",
+      "onboard_time": 1735404916,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292016,
@@ -299,12 +307,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114101,
+      "num": 146270,
+      "word": "耳帝评2024华语100首最佳",
+      "onboard_time": 1735404197,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 104386,
       "num": 177700,
       "word": "西村力kpop首帅",
       "onboard_time": 1735389980,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103282,
+      "num": 177913,
+      "word": "熊猫渝爱初步诊断感染性脱毛",
+      "onboard_time": 1735397784,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102077,
@@ -320,6 +344,22 @@
       "word": "现在拨打的电话吻戏",
       "onboard_time": 1735396282,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100776,
+      "num": 146203,
+      "word": "你们谈一下吧",
+      "onboard_time": 1735404916,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100477,
+      "num": 146156,
+      "word": "李昀锐人生照片",
+      "onboard_time": 1735394542,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -355,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89833,
-      "num": 177913,
-      "word": "熊猫渝爱初步诊断感染性脱毛",
-      "onboard_time": 1735397784,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 92014,
+      "num": 177635,
+      "word": "丁禹兮1228有你们呀",
+      "onboard_time": 1735403958,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 89594,
@@ -371,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87066,
-      "num": 177635,
-      "word": "丁禹兮1228有你们呀",
-      "onboard_time": 1735403958,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 86361,
+      "num": 177578,
+      "word": "在新疆根本不存在审美疲劳",
+      "onboard_time": 1735401561,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 85976,
@@ -385,14 +425,6 @@
       "onboard_time": 1735399940,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77567,
-      "num": 177578,
-      "word": "在新疆根本不存在审美疲劳",
-      "onboard_time": 1735401561,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 75799,
@@ -435,12 +467,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53209,
+      "num": 145874,
+      "word": "乒超联赛总决赛内场布置完毕",
+      "onboard_time": 1735402221,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51481,
       "num": 178156,
       "word": "2024那些让人心软软的瞬间",
       "onboard_time": 1735400421,
       "rank": 15,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 26774,
+      "num": 155760,
+      "word": "2024年的温暖瞬间",
+      "onboard_time": 1735406117,
+      "rank": 23,
+      "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 17142,
+      "num": 155482,
+      "word": "WTT称规则并非最新出台",
+      "onboard_time": 1735397122,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
