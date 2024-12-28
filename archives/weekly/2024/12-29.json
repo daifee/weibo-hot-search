@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735406278030,
+  "endTime": 1735407309942,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3377669,
-      "num": 308430,
+      "num": 2172349,
       "word": "赵露思失语症状",
       "onboard_time": 1735400960,
       "rank": 5,
@@ -41,6 +41,14 @@
       "onboard_time": 1735399583,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558222,
+      "num": 558222,
+      "word": "半夜和男朋友吵架刷机票抢到3元票",
+      "onboard_time": 1735404916,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437511,
@@ -113,14 +121,6 @@
       "onboard_time": 1735395502,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 293575,
-      "num": 293575,
-      "word": "半夜和男朋友吵架刷机票抢到3元票",
-      "onboard_time": 1735404916,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 292016,
@@ -307,7 +307,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114101,
+      "raw_hot": 114694,
       "num": 146270,
       "word": "耳帝评2024华语100首最佳",
       "onboard_time": 1735404197,
@@ -459,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59817,
+      "num": 91208,
+      "word": "孟子义李昀锐肩贴肩",
+      "onboard_time": 1735407015,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54080,
       "num": 161941,
       "word": "WTT董事曾说赛事门票收入占大头",
@@ -484,19 +492,27 @@
     },
     {
       "raw_hot": 26774,
-      "num": 155760,
+      "num": 186515,
       "word": "2024年的温暖瞬间",
       "onboard_time": 1735406117,
       "rank": 23,
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 17142,
+      "raw_hot": 22044,
       "num": 155482,
       "word": "WTT称规则并非最新出台",
       "onboard_time": 1735397122,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7916,
+      "num": 91349,
+      "word": "玫瑰桂圆热奶茶",
+      "onboard_time": 1735406896,
+      "rank": 39,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
