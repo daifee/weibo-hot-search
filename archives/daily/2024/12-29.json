@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735428086797,
+  "endTime": 1735428941218,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 319558,
+      "num": 241604,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292016,
       "num": 292016,
       "word": "车厘子价格跌至每斤15元",
@@ -139,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267581,
-      "num": 195972,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266544,
       "num": 177973,
       "word": "大奉打更人口碑",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 248550,
-      "num": 178011,
+      "num": 179424,
       "word": "王太利看完误杀3不想跟肖央说话",
       "onboard_time": 1735401080,
       "rank": 26,
@@ -307,6 +307,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120911,
+      "num": 168368,
+      "word": "最强县级市市委书记调整",
+      "onboard_time": 1735427833,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117340,
+      "num": 177617,
+      "word": "高铁动车8号9号车厢为什么不通",
+      "onboard_time": 1735392441,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115755,
       "num": 177826,
       "word": "2025全球总决赛",
@@ -315,20 +331,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115217,
+      "num": 115217,
+      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
+      "onboard_time": 1735412652,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114694,
       "num": 146270,
       "word": "耳帝评2024华语100首最佳",
       "onboard_time": 1735404197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 111806,
-      "num": 111806,
-      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
-      "onboard_time": 1735412652,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 104386,
@@ -344,14 +360,6 @@
       "word": "熊猫渝爱初步诊断感染性脱毛",
       "onboard_time": 1735397784,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102077,
-      "num": 177617,
-      "word": "高铁动车8号9号车厢为什么不通",
-      "onboard_time": 1735392441,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -443,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81664,
+      "num": 65251,
+      "word": "内娱连综艺都能预制了",
+      "onboard_time": 1735425551,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75799,
       "num": 141348,
       "word": "梳理王楚钦被怼脸拍照事件",
@@ -473,14 +489,6 @@
       "onboard_time": 1735403659,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61747,
-      "num": 56009,
-      "word": "内娱连综艺都能预制了",
-      "onboard_time": 1735425551,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 59817,
@@ -523,6 +531,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50074,
+      "num": 48495,
+      "word": "白鹿的人脉在全世界偶遇周深",
+      "onboard_time": 1735426512,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 49192,
+      "num": 59075,
+      "word": "众星为樊振东送上祝福",
+      "onboard_time": 1735427833,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48052,
+      "num": 48052,
+      "word": "辛巴喊话不要为蹭流量搞垮国民企业",
+      "onboard_time": 1735427833,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45839,
       "num": 45839,
       "word": "邓紫棋倒流时间首唱",
@@ -531,32 +563,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44434,
-      "num": 44434,
+      "raw_hot": 44809,
+      "num": 44809,
       "word": "任时完好帅",
       "onboard_time": 1735424351,
       "rank": 49,
       "category": "剧集"
     },
     {
-      "raw_hot": 43851,
-      "num": 43851,
-      "word": "白鹿的人脉在全世界偶遇周深",
-      "onboard_time": 1735426512,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 40964,
-      "num": 58008,
-      "word": "最强县级市市委书记调整",
-      "onboard_time": 1735427833,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39344,
-      "num": 39344,
+      "num": 44013,
       "word": "檀健次不导戏真的可惜了",
       "onboard_time": 1735427833,
       "rank": 36,
@@ -571,20 +587,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32211,
-      "num": 53121,
-      "word": "众星为樊振东送上祝福",
-      "onboard_time": 1735427833,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 35678,
+      "num": 44042,
+      "word": "花花早起和小树打了个八段锦",
+      "onboard_time": 1735428554,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 31909,
+      "raw_hot": 33943,
+      "num": 55585,
+      "word": "官方通报花3千订房入住被要求加钱",
+      "onboard_time": 1735408634,
+      "rank": 34,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 32273,
       "num": 49272,
       "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
       "onboard_time": 1735399461,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31183,
+      "num": 44007,
+      "word": "平台回应成都飞北京仅3元",
+      "onboard_time": 1735428554,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30719,
@@ -595,20 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30091,
-      "num": 55585,
-      "word": "官方通报花3千订房入住被要求加钱",
-      "onboard_time": 1735408634,
-      "rank": 34,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 28142,
-      "num": 39268,
-      "word": "辛巴喊话不要为蹭流量搞垮国民企业",
-      "onboard_time": 1735427833,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 30306,
+      "num": 43996,
+      "word": "熊祁cos工藤新一",
+      "onboard_time": 1735428734,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 26774,
