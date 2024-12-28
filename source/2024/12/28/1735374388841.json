@@ -1,0 +1,410 @@
+{
+  "runTime": 1735374388841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1291037,
+        "num": 1291037,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621415,
+        "num": 621415,
+        "word": "川崎重工被曝40年前就开始造假",
+        "onboard_time": 1735369644,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32295,
+        "num": 423108,
+        "word": "中国隧道相接可绕地球超一圈",
+        "onboard_time": 1735353739,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 797998,
+        "num": 411290,
+        "word": "黄多多ins晒照",
+        "onboard_time": 1735367480,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386100,
+        "num": 386100,
+        "word": "请跑腿送孩子上学家长态度两极化",
+        "onboard_time": 1735369883,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621251,
+        "num": 385971,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 562598,
+        "num": 385568,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273970,
+        "num": 385395,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 7,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 476092,
+        "num": 385054,
+        "word": "赵薇前夫黄有龙被追巨债",
+        "onboard_time": 1735373182,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53363,
+        "num": 384485,
+        "word": "广西回应存在非法灌食增重窝点",
+        "onboard_time": 1735371682,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 426390,
+        "num": 384095,
+        "word": "吴昕 公主有自己的低消",
+        "onboard_time": 1735372942,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419447,
+        "num": 383877,
+        "word": "王楚钦出发上海",
+        "onboard_time": 1735372521,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398767,
+        "num": 383672,
+        "word": "张远一年水费只用了10块钱",
+        "onboard_time": 1735366639,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163610,
+        "num": 383310,
+        "word": "急诊室家暴事件2男子被拘",
+        "onboard_time": 1735373301,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32397,
+        "num": 382825,
+        "word": "2024年的搞笑新闻终于上分了",
+        "onboard_time": 1735373361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382634,
+        "num": 382634,
+        "word": "丁禹兮活动 商场换奥体",
+        "onboard_time": 1735372400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348805,
+        "num": 348805,
+        "word": "现在就出发后期疯了",
+        "onboard_time": 1735369102,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282110,
+        "num": 282110,
+        "word": "刘亦菲和妈妈合影",
+        "onboard_time": 1735371082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271672,
+        "num": 271672,
+        "word": "上千只羊交易前被管插喉咙猛灌饲料",
+        "onboard_time": 1735358420,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 61668,
+        "num": 267034,
+        "word": "57岁阿姨演短剧享受与年轻人竞争",
+        "onboard_time": 1735374021,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626202,
+        "num": 258619,
+        "word": "赵露思状态",
+        "onboard_time": 1735309881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303245,
+        "num": 252088,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30684,
+        "num": 247137,
+        "word": "辛巴直播送600万箱年货福利",
+        "onboard_time": 1735370423,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245275,
+        "num": 245275,
+        "word": "连杀数任丈夫的日本黑寡妇病亡",
+        "onboard_time": 1735363398,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35706,
+        "num": 243037,
+        "word": "请抽取你的大奉打更人身份卡",
+        "onboard_time": 1735374260,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292336,
+        "num": 237213,
+        "word": "九重紫终映礼直播",
+        "onboard_time": 1735368742,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278008,
+        "num": 232857,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273285,
+        "num": 226236,
+        "word": "刘美含16年后大奉再演魔仙",
+        "onboard_time": 1735371141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266386,
+        "num": 222762,
+        "word": "李昀锐还原白发宋墨",
+        "onboard_time": 1735372762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219346,
+        "num": 219346,
+        "word": "新中式的风吹到了韩国",
+        "onboard_time": 1735365559,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196697,
+        "num": 196697,
+        "word": "樊振东点赞澳网是职业体育典范",
+        "onboard_time": 1735369462,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194961,
+        "num": 194961,
+        "word": "白鹿hi6开场秀第三视角",
+        "onboard_time": 1735373602,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194234,
+        "num": 194234,
+        "word": "王一博新歌在听人数",
+        "onboard_time": 1735373661,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178344,
+        "num": 178344,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735362619,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172261,
+        "num": 172261,
+        "word": "白宇穿戏服抽烟",
+        "onboard_time": 1735373602,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159058,
+        "num": 159058,
+        "word": "丁禹兮 晋江式演技劳模",
+        "onboard_time": 1735357340,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145308,
+        "num": 145308,
+        "word": "张元英好萌",
+        "onboard_time": 1735373421,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137098,
+        "num": 137098,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1735357340,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131492,
+        "num": 131492,
+        "word": "曝Zeus服役期间被T1粉丝找茬",
+        "onboard_time": 1735368982,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54241,
+        "num": 130739,
+        "word": "卡美罗焦糖在家也可以做",
+        "onboard_time": 1735373182,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142625,
+        "num": 130622,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141354,
+        "num": 130539,
+        "word": "王鹤棣一人占了四分之一",
+        "onboard_time": 1735371321,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130432,
+        "num": 130432,
+        "word": "佟丽娅首谈接演误杀3原因",
+        "onboard_time": 1735371981,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124295,
+        "num": 124295,
+        "word": "乒乓球选手收入远不及网球选手",
+        "onboard_time": 1735368801,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115789,
+        "num": 115789,
+        "word": "外界关注中国六代机成功首飞传闻",
+        "onboard_time": 1735371141,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "工藤新一 世男一的出场方式",
+        "onboard_time": 1735363879,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108843,
+        "num": 108843,
+        "word": "WTT和ATP的参赛区别在哪",
+        "onboard_time": 1735372341,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107691,
+        "num": 107691,
+        "word": "哈萨克斯坦坠毁客机黑匣子内容曝光",
+        "onboard_time": 1735361120,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105064,
+        "num": 105064,
+        "word": "文化中国行唐诗里的秀美山川",
+        "onboard_time": 1735372582,
+        "rank": 48,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 99024,
+        "num": 104411,
+        "word": "美媒爆特朗普已与周受资通电话",
+        "onboard_time": 1735367181,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}

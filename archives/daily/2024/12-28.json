@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735371338432,
+  "endTime": 1735374388841,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1048056,
-      "num": 347982,
+      "num": 411290,
       "word": "黄多多ins晒照",
       "onboard_time": 1735367480,
       "rank": 13,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 804714,
-      "num": 244579,
+      "num": 252088,
       "word": "成都200w一个的蛋糕",
       "onboard_time": 1735346479,
       "rank": 20,
@@ -177,6 +177,14 @@
       "onboard_time": 1735312583,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 621415,
+      "num": 621415,
+      "word": "川崎重工被曝40年前就开始造假",
+      "onboard_time": 1735369644,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 606545,
@@ -259,6 +267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 476092,
+      "num": 385054,
+      "word": "赵薇前夫黄有龙被追巨债",
+      "onboard_time": 1735373182,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461902,
       "num": 435328,
       "word": "队友心疼樊振东埋头努力",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 443914,
-      "num": 335640,
+      "num": 383672,
       "word": "张远一年水费只用了10块钱",
       "onboard_time": 1735366639,
       "rank": 31,
@@ -289,6 +305,22 @@
       "onboard_time": 1735344677,
       "rank": 4,
       "category": "民生新闻,作品衍生"
+    },
+    {
+      "raw_hot": 426390,
+      "num": 384095,
+      "word": "吴昕 公主有自己的低消",
+      "onboard_time": 1735372942,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 419447,
+      "num": 383877,
+      "word": "王楚钦出发上海",
+      "onboard_time": 1735372521,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 411429,
@@ -345,6 +377,22 @@
       "onboard_time": 1735365559,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 386100,
+      "num": 386100,
+      "word": "请跑腿送孩子上学家长态度两极化",
+      "onboard_time": 1735369883,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382634,
+      "num": 382634,
+      "word": "丁禹兮活动 商场换奥体",
+      "onboard_time": 1735372400,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 381405,
@@ -411,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 348805,
+      "num": 348805,
+      "word": "现在就出发后期疯了",
+      "onboard_time": 1735369102,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346451,
       "num": 270820,
       "word": "EXO明年全员回归",
@@ -449,14 +505,6 @@
       "onboard_time": 1735354098,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331799,
-      "num": 331799,
-      "word": "现在就出发后期疯了",
-      "onboard_time": 1735369102,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 329545,
@@ -539,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282110,
+      "num": 282110,
+      "word": "刘亦菲和妈妈合影",
+      "onboard_time": 1735371082,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276662,
       "num": 265440,
       "word": "金秀贤感谢金智媛",
@@ -553,6 +609,14 @@
       "onboard_time": 1735345038,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273285,
+      "num": 226236,
+      "word": "刘美含16年后大奉再演魔仙",
+      "onboard_time": 1735371141,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 271371,
@@ -579,11 +643,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 266673,
-      "num": 196612,
-      "word": "刘美含16年后大奉再演魔仙",
-      "onboard_time": 1735371141,
-      "rank": 23,
+      "raw_hot": 266386,
+      "num": 222762,
+      "word": "李昀锐还原白发宋墨",
+      "onboard_time": 1735372762,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -627,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 245275,
+      "num": 245275,
+      "word": "连杀数任丈夫的日本黑寡妇病亡",
+      "onboard_time": 1735363398,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 236736,
       "num": 160411,
       "word": "花海退役",
@@ -665,14 +737,6 @@
       "onboard_time": 1735315701,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 226544,
-      "num": 204452,
-      "word": "连杀数任丈夫的日本黑寡妇病亡",
-      "onboard_time": 1735363398,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 224450,
@@ -748,7 +812,7 @@
     },
     {
       "raw_hot": 203922,
-      "num": 188431,
+      "num": 196697,
       "word": "樊振东点赞澳网是职业体育典范",
       "onboard_time": 1735369462,
       "rank": 29,
@@ -803,28 +867,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196103,
-      "num": 339240,
-      "word": "请跑腿送孩子上学家长态度两极化",
-      "onboard_time": 1735369883,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195363,
-      "num": 195363,
-      "word": "川崎重工被曝40年前就开始造假",
-      "onboard_time": 1735369644,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 195208,
       "num": 217835,
       "word": "九重紫",
       "onboard_time": 1735352959,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194961,
+      "num": 194961,
+      "word": "白鹿hi6开场秀第三视角",
+      "onboard_time": 1735373602,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 194951,
@@ -849,6 +905,14 @@
       "onboard_time": 1735369401,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194234,
+      "num": 194234,
+      "word": "王一博新歌在听人数",
+      "onboard_time": 1735373661,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 194223,
@@ -939,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172261,
+      "num": 172261,
+      "word": "白宇穿戏服抽烟",
+      "onboard_time": 1735373602,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171651,
       "num": 171651,
       "word": "檀健次 官方认证的多边形",
@@ -1001,6 +1073,14 @@
       "onboard_time": 1735323074,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163610,
+      "num": 383310,
+      "word": "急诊室家暴事件2男子被拘",
+      "onboard_time": 1735373301,
+      "rank": 13,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 162420,
@@ -1195,6 +1275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145308,
+      "num": 145308,
+      "word": "张元英好萌",
+      "onboard_time": 1735373421,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144151,
       "num": 144151,
       "word": "aespa音乐站好辣啊",
@@ -1233,6 +1321,14 @@
       "onboard_time": 1735367119,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 141354,
+      "num": 130539,
+      "word": "王鹤棣一人占了四分之一",
+      "onboard_time": 1735371321,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 138612,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1735363099,
       "rank": 46,
       "category": "数码,财经"
+    },
+    {
+      "raw_hot": 130432,
+      "num": 130432,
+      "word": "佟丽娅首谈接演误杀3原因",
+      "onboard_time": 1735371981,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 129758,
@@ -1499,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117958,
-      "num": 117958,
-      "word": "刘亦菲和妈妈合影",
-      "onboard_time": 1735371082,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117088,
       "num": 117088,
       "word": "小小的我 牛轧糖的意义",
@@ -1561,6 +1657,14 @@
       "onboard_time": 1735349719,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108843,
+      "num": 108843,
+      "word": "WTT和ATP的参赛区别在哪",
+      "onboard_time": 1735372341,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 108079,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1735307661,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105064,
+      "num": 105064,
+      "word": "文化中国行唐诗里的秀美山川",
+      "onboard_time": 1735372582,
+      "rank": 48,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 105032,
@@ -1827,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61668,
+      "num": 267034,
+      "word": "57岁阿姨演短剧享受与年轻人竞争",
+      "onboard_time": 1735374021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58055,
       "num": 391204,
       "word": "2024年五十大网络流行语",
@@ -1851,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54241,
+      "num": 130739,
+      "word": "卡美罗焦糖在家也可以做",
+      "onboard_time": 1735373182,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 53982,
       "num": 199613,
       "word": "老人烧纸引燃绿化带遭索赔5万",
@@ -1865,6 +1993,14 @@
       "onboard_time": 1735340473,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53363,
+      "num": 384485,
+      "word": "广西回应存在非法灌食增重窝点",
+      "onboard_time": 1735371682,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 50355,
@@ -1963,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35706,
+      "num": 243037,
+      "word": "请抽取你的大奉打更人身份卡",
+      "onboard_time": 1735374260,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34129,
       "num": 224274,
       "word": "你会担心自己跟不上时代吗",
@@ -1979,12 +2123,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32397,
+      "num": 382825,
+      "word": "2024年的搞笑新闻终于上分了",
+      "onboard_time": 1735373361,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32170,
       "num": 46613,
       "word": "射雕首支长预告微博战报",
       "onboard_time": 1735335971,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30684,
+      "num": 247137,
+      "word": "辛巴直播送600万箱年货福利",
+      "onboard_time": 1735370423,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 30391,
@@ -2113,14 +2273,6 @@
       "onboard_time": 1735367480,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24218,
-      "num": 205907,
-      "word": "辛巴直播送600万箱年货福利",
-      "onboard_time": 1735370423,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 22264,
