@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735360810591,
+  "endTime": 1735363242582,
   "band_list": [
     {
       "raw_hot": 6013012,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 759608,
+      "num": 759608,
+      "word": "上千只羊交易前被管插喉咙猛灌饲料",
+      "onboard_time": 1735358420,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 737566,
       "num": 737566,
       "word": "特朗普要求暂停执行TikTok强制出售令",
@@ -123,12 +131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 600432,
-      "num": 531302,
+      "raw_hot": 606545,
+      "num": 606545,
       "word": "警方通报2女子在急诊室被家暴",
       "onboard_time": 1735353499,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 601421,
+      "num": 601421,
+      "word": "哈萨克斯坦坠毁客机黑匣子内容曝光",
+      "onboard_time": 1735361120,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 573949,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 504577,
+      "num": 504577,
+      "word": "程靖淇说王楚钦该扛起这杆旗了",
+      "onboard_time": 1735358840,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "花海",
@@ -195,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458468,
-      "num": 458468,
-      "word": "上千只羊交易前被管插喉咙猛灌饲料",
-      "onboard_time": 1735358420,
-      "rank": 12,
-      "category": "舆论监督"
+      "raw_hot": 429243,
+      "num": 429243,
+      "word": "张雪峰公司年会撒现金",
+      "onboard_time": 1735357340,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 428193,
@@ -225,14 +249,6 @@
       "onboard_time": 1735359381,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401393,
-      "num": 401393,
-      "word": "张雪峰公司年会撒现金",
-      "onboard_time": 1735357340,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 394165,
@@ -283,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 353519,
+      "num": 353519,
+      "word": "丁禹兮 晋江式演技劳模",
+      "onboard_time": 1735357340,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352602,
       "num": 352602,
       "word": "王一博新歌我在",
@@ -307,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338089,
+      "num": 246944,
+      "word": "黄子韬抽车的答案写在反不正当竞争法",
+      "onboard_time": 1735360641,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337456,
       "num": 161523,
       "word": "媒体评宝石老舅道歉理由和时机",
@@ -321,14 +353,6 @@
       "onboard_time": 1735354098,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330259,
-      "num": 243206,
-      "word": "程靖淇说王楚钦该扛起这杆旗了",
-      "onboard_time": 1735358840,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 329545,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281293,
+      "num": 281293,
+      "word": "昀牵孟绕",
+      "onboard_time": 1735362619,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276662,
       "num": 265440,
       "word": "金秀贤感谢金智媛",
@@ -425,14 +457,6 @@
       "onboard_time": 1735345038,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 273892,
-      "num": 216043,
-      "word": "黄子韬抽车的答案写在反不正当竞争法",
-      "onboard_time": 1735360641,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 271371,
@@ -451,20 +475,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269780,
+      "num": 269780,
+      "word": "九重紫直播",
+      "onboard_time": 1735362379,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267158,
       "num": 364676,
       "word": "牛肉价格已跌到近5年最低",
       "onboard_time": 1735346117,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 261717,
-      "num": 261717,
-      "word": "丁禹兮 晋江式演技劳模",
-      "onboard_time": 1735357340,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 257835,
@@ -481,6 +505,14 @@
       "onboard_time": 1735347499,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254248,
+      "num": 254248,
+      "word": "杨紫红眼流泪镜头",
+      "onboard_time": 1735359018,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 248866,
@@ -547,20 +579,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 215322,
-      "num": 239879,
-      "word": "杨紫红眼流泪镜头",
-      "onboard_time": 1735359018,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213823,
       "num": 143737,
       "word": "Project7决赛",
       "onboard_time": 1735304480,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211422,
+      "num": 211422,
+      "word": "九尾直播",
+      "onboard_time": 1735361538,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 204456,
@@ -611,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195208,
+      "num": 217835,
+      "word": "九重紫",
+      "onboard_time": 1735352959,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194951,
       "num": 194951,
       "word": "韩国国会通过代总统弹劾案",
@@ -651,12 +691,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 180428,
-      "num": 217835,
-      "word": "九重紫",
-      "onboard_time": 1735352959,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "肖战郭靖和他的小红马",
+      "onboard_time": 1735361838,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 178145,
@@ -675,11 +715,27 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 174792,
+      "num": 174792,
+      "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
+      "onboard_time": 1735359861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174430,
       "num": 148197,
       "word": "蒋欣路边连吃12只生蚝",
       "onboard_time": 1735299913,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174391,
+      "num": 174391,
+      "word": "黄子韬称太贵的车是无法赠与的",
+      "onboard_time": 1735363099,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -699,14 +755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 167714,
-      "num": 167714,
-      "word": "7岁男孩丢炮仗进火堆母亲不慎被炸",
-      "onboard_time": 1735359861,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167399,
       "num": 167399,
       "word": "YSKM爆料S15新赛制",
@@ -721,6 +769,22 @@
       "onboard_time": 1735297880,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165494,
+      "num": 165494,
+      "word": "王一博我在歌词",
+      "onboard_time": 1735362738,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 164537,
+      "num": 404729,
+      "word": "医保统筹个人自付个人自费咋区分",
+      "onboard_time": 1735359559,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164269,
@@ -739,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161383,
+      "num": 161383,
+      "word": "感觉白猫的主人快碎掉了",
+      "onboard_time": 1735361959,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161362,
       "num": 161362,
       "word": "边伯贤确定出演大逃脱",
@@ -755,6 +827,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160221,
+      "num": 160221,
+      "word": "王楚然成何体统妆造",
+      "onboard_time": 1735361838,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158614,
+      "num": 158614,
+      "word": "6岁的妹妹把我的遗憾记了12年",
+      "onboard_time": 1735361240,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156304,
+      "num": 156304,
+      "word": "最受喜爱女角色暖暖Nikki",
+      "onboard_time": 1735362499,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154901,
       "num": 154901,
       "word": "何洁18宫格ccd杀青照告别时光",
@@ -769,6 +865,22 @@
       "onboard_time": 1735351040,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 154439,
+      "num": 154439,
+      "word": "王者荣耀新赛季",
+      "onboard_time": 1735361180,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 153335,
+      "num": 184789,
+      "word": "李昀锐打戏好丝滑",
+      "onboard_time": 1735362139,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 151766,
@@ -803,14 +915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148245,
-      "num": 404729,
-      "word": "医保统筹个人自付个人自费咋区分",
-      "onboard_time": 1735359559,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146679,
       "num": 146679,
       "word": "警花回应与景甜相似被称尔滨分甜",
@@ -840,6 +944,22 @@
       "word": "无限暖暖",
       "onboard_time": 1735359198,
       "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 142095,
+      "num": 142095,
+      "word": "广州地铁换乘之王来了",
+      "onboard_time": 1735362080,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138612,
+      "num": 138612,
+      "word": "以闪亮之名开年非遗联动",
+      "onboard_time": 1735363160,
+      "rank": 44,
       "category": "游戏"
     },
     {
@@ -891,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131394,
+      "num": 131394,
+      "word": "荣耀终端公司名称变更",
+      "onboard_time": 1735363099,
+      "rank": 46,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 129758,
       "num": 129758,
       "word": "近期人偏肺病毒流行",
@@ -937,6 +1065,22 @@
       "onboard_time": 1735358000,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127051,
+      "num": 127051,
+      "word": "字节跳动明确表示不会出售TikTok",
+      "onboard_time": 1735363160,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 126828,
+      "num": 126828,
+      "word": "独行侠太阳冲突",
+      "onboard_time": 1735363040,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126548,
@@ -1299,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55336,
+      "num": 247015,
+      "word": "晓华说欢迎大家来蹭流量",
+      "onboard_time": 1735362619,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54325,
       "num": 241399,
       "word": "2024的你当红不让",
@@ -1560,6 +1712,14 @@
       "word": "外卖小哥假摔伪造病历骗保获刑1年半",
       "onboard_time": 1735341014,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18651,
+      "num": 292784,
+      "word": "帕劳失联潜水者讲述28小时自救经历",
+      "onboard_time": 1735362619,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
