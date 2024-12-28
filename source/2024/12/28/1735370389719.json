@@ -1,0 +1,410 @@
+{
+  "runTime": 1735370389719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9354539,
+        "num": 9354539,
+        "word": "赵薇官宣离婚",
+        "onboard_time": 1735367720,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568219,
+        "num": 568219,
+        "word": "上千只羊交易前被管插喉咙猛灌饲料",
+        "onboard_time": 1735358420,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31730,
+        "num": 454972,
+        "word": "中国隧道相接可绕地球超一圈",
+        "onboard_time": 1735353739,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1368011,
+        "num": 415217,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358563,
+        "num": 358563,
+        "word": "新中式的风吹到了韩国",
+        "onboard_time": 1735365559,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 722147,
+        "num": 354196,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1048056,
+        "num": 347982,
+        "word": "黄多多ins晒照",
+        "onboard_time": 1735367480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620658,
+        "num": 347183,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339810,
+        "num": 339810,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 127412,
+        "num": 339240,
+        "word": "请跑腿送孩子上学家长态度两极化",
+        "onboard_time": 1735369883,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1671205,
+        "num": 336823,
+        "word": "赵薇 黄有龙",
+        "onboard_time": 1735368082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443914,
+        "num": 335640,
+        "word": "张远一年水费只用了10块钱",
+        "onboard_time": 1735366639,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420710,
+        "num": 333572,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331799,
+        "num": 331799,
+        "word": "现在就出发后期疯了",
+        "onboard_time": 1735369102,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30452,
+        "num": 266917,
+        "word": "赴上海韩国游客同比激增超180%",
+        "onboard_time": 1735369823,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246502,
+        "num": 246502,
+        "word": "工藤新一 世男一的出场方式",
+        "onboard_time": 1735363879,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201968,
+        "num": 201968,
+        "word": "哈萨克斯坦坠毁客机黑匣子内容曝光",
+        "onboard_time": 1735361120,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 200986,
+        "num": 200986,
+        "word": "连杀数任丈夫的日本黑寡妇病亡",
+        "onboard_time": 1735363398,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45965,
+        "num": 200694,
+        "word": "电影小小的我大笑吧春和海报",
+        "onboard_time": 1735369644,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40213,
+        "num": 199613,
+        "word": "老人烧纸引燃绿化带遭索赔5万",
+        "onboard_time": 1735370002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728543,
+        "num": 198964,
+        "word": "赵露思状态",
+        "onboard_time": 1735309881,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330210,
+        "num": 198210,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321099,
+        "num": 198063,
+        "word": "昀牵孟绕",
+        "onboard_time": 1735362619,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273604,
+        "num": 196911,
+        "word": "刘德华演唱会差点从3米高台摔下",
+        "onboard_time": 1735364240,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21309,
+        "num": 196553,
+        "word": "以闪亮之名开年非遗联动",
+        "onboard_time": 1735363160,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251873,
+        "num": 195216,
+        "word": "丁禹兮 晋江式演技劳模",
+        "onboard_time": 1735357340,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203104,
+        "num": 195027,
+        "word": "九重紫终映礼直播",
+        "onboard_time": 1735368742,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194453,
+        "num": 194453,
+        "word": "杨紫李现新剧台词",
+        "onboard_time": 1735369401,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189954,
+        "num": 189954,
+        "word": "曝Zeus服役期间被T1粉丝找茬",
+        "onboard_time": 1735368982,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188431,
+        "num": 188431,
+        "word": "樊振东点赞澳网是职业体育典范",
+        "onboard_time": 1735369462,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200878,
+        "num": 188429,
+        "word": "美媒爆特朗普已与周受资通电话",
+        "onboard_time": 1735367181,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188397,
+        "num": 188397,
+        "word": "张萌硬cue",
+        "onboard_time": 1735365199,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179917,
+        "num": 179917,
+        "word": "程靖淇说王楚钦该扛起这杆旗了",
+        "onboard_time": 1735358840,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175198,
+        "num": 175198,
+        "word": "养了六年的兔子给我做了个窝",
+        "onboard_time": 1735357340,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171651,
+        "num": 171651,
+        "word": "檀健次 官方认证的多边形",
+        "onboard_time": 1735369342,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169811,
+        "num": 169811,
+        "word": "九重紫",
+        "onboard_time": 1735352959,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160153,
+        "num": 160153,
+        "word": "我家那小子",
+        "onboard_time": 1735365439,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159987,
+        "num": 159987,
+        "word": "乒乓球选手收入远不及网球选手",
+        "onboard_time": 1735368801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145817,
+        "num": 145817,
+        "word": "为什么越来越多女生爱上穿男装",
+        "onboard_time": 1735365439,
+        "rank": 38,
+        "category": "时尚,幽默"
+      },
+      {
+        "raw_hot": 139045,
+        "num": 139045,
+        "word": "川崎重工被曝40年前就开始造假",
+        "onboard_time": 1735369644,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138322,
+        "num": 138322,
+        "word": "PEL首届名人堂亮相",
+        "onboard_time": 1735370244,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 134806,
+        "word": "于正说在娱乐圈不能太较真",
+        "onboard_time": 1735364177,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128925,
+        "num": 128925,
+        "word": "白鹿说张真源是真想往电视剧发展",
+        "onboard_time": 1735368801,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127204,
+        "num": 127204,
+        "word": "养这玩意能替你养老吗",
+        "onboard_time": 1735368801,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124571,
+        "num": 124571,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117239,
+        "num": 117239,
+        "word": "王一博跨年摩托",
+        "onboard_time": 1735365378,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117175,
+        "num": 117175,
+        "word": "九重紫直播",
+        "onboard_time": 1735362379,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116776,
+        "num": 116776,
+        "word": "山羊遭打料致死后仍被交易流入餐桌",
+        "onboard_time": 1735368742,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116235,
+        "num": 116235,
+        "word": "星穹铁道缇宝",
+        "onboard_time": 1735368801,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 114238,
+        "word": "田曦薇逐玉造型",
+        "onboard_time": 1735370364,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}

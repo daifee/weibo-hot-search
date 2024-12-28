@@ -1,7 +1,15 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735368150551,
+  "endTime": 1735370389719,
   "band_list": [
+    {
+      "raw_hot": 9354539,
+      "num": 9354539,
+      "word": "赵薇官宣离婚",
+      "onboard_time": 1735367720,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6013012,
       "num": 6013012,
@@ -59,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1671205,
+      "num": 336823,
+      "word": "赵薇 黄有龙",
+      "onboard_time": 1735368082,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1579215,
       "num": 420574,
       "word": "赵露思生病很严重",
@@ -80,6 +96,14 @@
       "word": "赵露思爸爸",
       "onboard_time": 1735359439,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1048056,
+      "num": 347982,
+      "word": "黄多多ins晒照",
+      "onboard_time": 1735367480,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 443914,
+      "num": 335640,
+      "word": "张远一年水费只用了10块钱",
+      "onboard_time": 1735366639,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429243,
       "num": 429243,
       "word": "张雪峰公司年会撒现金",
@@ -297,14 +329,6 @@
       "onboard_time": 1735344677,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 386792,
-      "num": 208496,
-      "word": "张远一年水费只用了10块钱",
-      "onboard_time": 1735366639,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 386185,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331799,
+      "num": 331799,
+      "word": "现在就出发后期疯了",
+      "onboard_time": 1735369102,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329545,
       "num": 329545,
       "word": "大奉打更人",
@@ -457,14 +489,6 @@
       "onboard_time": 1735353198,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299395,
-      "num": 299395,
-      "word": "黄多多ins晒照",
-      "onboard_time": 1735367480,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 298466,
@@ -547,14 +571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 261082,
-      "num": 207662,
-      "word": "赵薇 黄有龙",
-      "onboard_time": 1735368082,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257835,
       "num": 257835,
       "word": "影子不会说谎被采取刑事强制措施",
@@ -587,8 +603,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241627,
-      "num": 241627,
+      "raw_hot": 246502,
+      "num": 246502,
       "word": "工藤新一 世男一的出场方式",
       "onboard_time": 1735363879,
       "rank": 42,
@@ -715,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203104,
+      "num": 195027,
+      "word": "九重紫终映礼直播",
+      "onboard_time": 1735368742,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202924,
       "num": 238703,
       "word": "贺峻霖 放下系爱豆",
       "onboard_time": 1735358899,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200878,
+      "num": 188429,
+      "word": "美媒爆特朗普已与周受资通电话",
+      "onboard_time": 1735367181,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200226,
@@ -779,12 +811,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194453,
+      "num": 194453,
+      "word": "杨紫李现新剧台词",
+      "onboard_time": 1735369401,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194223,
       "num": 194223,
       "word": "刘亦菲 哈尔滨",
       "onboard_time": 1735345038,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189954,
+      "num": 189954,
+      "word": "曝Zeus服役期间被T1粉丝找茬",
+      "onboard_time": 1735368982,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 188431,
+      "num": 188431,
+      "word": "樊振东点赞澳网是职业体育典范",
+      "onboard_time": 1735369462,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188388,
@@ -859,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171651,
+      "num": 171651,
+      "word": "檀健次 官方认证的多边形",
+      "onboard_time": 1735369342,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169973,
       "num": 169973,
       "word": "苏州农村自建房已经进化成这样了吗",
@@ -897,14 +961,6 @@
       "onboard_time": 1735362738,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 164870,
-      "num": 164870,
-      "word": "美媒爆特朗普已与周受资通电话",
-      "onboard_time": 1735367181,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164537,
@@ -969,6 +1025,14 @@
       "onboard_time": 1735361838,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159987,
+      "num": 159987,
+      "word": "乒乓球选手收入远不及网球选手",
+      "onboard_time": 1735368801,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 159306,
@@ -1147,12 +1211,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 139045,
+      "num": 139045,
+      "word": "川崎重工被曝40年前就开始造假",
+      "onboard_time": 1735369644,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138612,
-      "num": 138612,
+      "num": 196553,
       "word": "以闪亮之名开年非遗联动",
       "onboard_time": 1735363160,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138322,
+      "num": 138322,
+      "word": "PEL首届名人堂亮相",
+      "onboard_time": 1735370244,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 137391,
@@ -1227,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128925,
+      "num": 128925,
+      "word": "白鹿说张真源是真想往电视剧发展",
+      "onboard_time": 1735368801,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127669,
       "num": 127669,
       "word": "丁禹兮版他不懂",
       "onboard_time": 1735345819,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127412,
+      "num": 339240,
+      "word": "请跑腿送孩子上学家长态度两极化",
+      "onboard_time": 1735369883,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127377,
@@ -1257,6 +1353,14 @@
       "onboard_time": 1735358000,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127204,
+      "num": 127204,
+      "word": "养这玩意能替你养老吗",
+      "onboard_time": 1735368801,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 126828,
@@ -1379,12 +1483,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116776,
+      "num": 116776,
+      "word": "山羊遭打料致死后仍被交易流入餐桌",
+      "onboard_time": 1735368742,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116235,
+      "num": 116235,
+      "word": "星穹铁道缇宝",
+      "onboard_time": 1735368801,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114764,
       "num": 114764,
       "word": "F勒布伦评论樊振东",
       "onboard_time": 1735322713,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114238,
+      "num": 114238,
+      "word": "田曦薇逐玉造型",
+      "onboard_time": 1735370364,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112626,
@@ -1739,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45965,
+      "num": 200694,
+      "word": "电影小小的我大笑吧春和海报",
+      "onboard_time": 1735369644,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 45113,
       "num": 824954,
       "word": "中国隧道相接可绕地球超一圈",
@@ -1761,6 +1897,14 @@
       "onboard_time": 1735309521,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40213,
+      "num": 199613,
+      "word": "老人烧纸引燃绿化带遭索赔5万",
+      "onboard_time": 1735370002,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38802,
@@ -1809,6 +1953,14 @@
       "onboard_time": 1735335971,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30452,
+      "num": 266917,
+      "word": "赴上海韩国游客同比激增超180%",
+      "onboard_time": 1735369823,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30391,
