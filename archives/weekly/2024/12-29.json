@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735417352441,
+  "endTime": 1735418142604,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -459,6 +459,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67630,
+      "num": 67630,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62759,
       "num": 177993,
       "word": "TTG教练泪洒采访",
@@ -513,14 +521,6 @@
       "onboard_time": 1735409952,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43797,
-      "num": 43797,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 39114,
@@ -639,6 +639,14 @@
       "num": 103492,
       "word": "被晚安短信安慰了",
       "onboard_time": 1735410912,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10337,
+      "num": 49733,
+      "word": "又一名日军慰安妇制度受害者去世",
+      "onboard_time": 1735417512,
       "rank": 9,
       "category": "民生新闻"
     },

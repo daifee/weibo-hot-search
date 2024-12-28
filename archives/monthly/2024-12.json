@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735417352441,
+  "endTime": 1735418142604,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -79643,6 +79643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67630,
+      "num": 67630,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67572,
       "num": 529971,
       "word": "韩国法院对前国防部长官签发逮捕令",
@@ -86977,14 +86985,6 @@
       "onboard_time": 1734703159,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43797,
-      "num": 43797,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 43791,
@@ -101009,6 +101009,14 @@
       "onboard_time": 1733384118,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10337,
+      "num": 49733,
+      "word": "又一名日军慰安妇制度受害者去世",
+      "onboard_time": 1735417512,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10309,

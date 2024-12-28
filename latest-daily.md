@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/29 00:25:38 ~ 2024/12/29 04:22:32
+本榜单时间：2024/12/29 00:25:38 ~ 2024/12/29 04:35:42
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ WTT称2025总奖金池将增加20%（热度：85976）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%83%BD%E5%8A%9B%23" target="weibo">
+黄子韬说低估了大家的能力（热度：67630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E6%95%99%E7%BB%83%E6%B3%AA%E6%B4%92%E9%87%87%E8%AE%BF%23" target="weibo">
 TTG教练泪洒采访（热度：62759）
 </a>
@@ -395,12 +401,6 @@ WTT董事曾说赛事门票收入占大头（热度：54080）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%80%92%E6%B5%81%E6%97%B6%E9%97%B4%E9%A6%96%E5%94%B1%23" target="weibo">
 邓紫棋倒流时间首唱（热度：45839）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AF%B4%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%A4%A7%E5%AE%B6%E7%9A%84%E8%83%BD%E5%8A%9B%23" target="weibo">
-黄子韬说低估了大家的能力（热度：43797）
 </a>
 </li>
 
@@ -491,6 +491,12 @@ WTT称规则并非最新出台（热度：22044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%99%9A%E5%AE%89%E7%9F%AD%E4%BF%A1%E5%AE%89%E6%85%B0%E4%BA%86%23" target="weibo">
 被晚安短信安慰了（热度：10717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E4%B8%80%E5%90%8D%E6%97%A5%E5%86%9B%E6%85%B0%E5%AE%89%E5%A6%87%E5%88%B6%E5%BA%A6%E5%8F%97%E5%AE%B3%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+又一名日军慰安妇制度受害者去世（热度：10337）
 </a>
 </li>
 
