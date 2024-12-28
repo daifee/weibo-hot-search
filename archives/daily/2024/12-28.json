@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735392227797,
+  "endTime": 1735392907358,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1151720,
+      "num": 297734,
+      "word": "王鹤棣演唱会上座率",
+      "onboard_time": 1735390819,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1096136,
       "num": 1175381,
       "word": "大奉打更人开播",
@@ -185,14 +193,6 @@
       "onboard_time": 1735383079,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 959439,
-      "num": 236868,
-      "word": "王鹤棣演唱会上座率",
-      "onboard_time": 1735390819,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 924910,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 486901,
-      "num": 228385,
+      "num": 236847,
       "word": "西村力kpop首帅",
       "onboard_time": 1735389980,
       "rank": 19,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402091,
+      "num": 233797,
+      "word": "逐玉剧组",
+      "onboard_time": 1735391240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401971,
       "num": 401971,
       "word": "杨紫李现二搭宿命感",
@@ -633,6 +641,14 @@
       "onboard_time": 1735365439,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365568,
+      "num": 365568,
+      "word": "晓华常只睡两个小时喝浓茶提神",
+      "onboard_time": 1735390819,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365259,
@@ -747,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331688,
-      "num": 221416,
-      "word": "逐玉剧组",
-      "onboard_time": 1735391240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323715,
       "num": 323715,
       "word": "哈尔滨文旅发文欢迎刘亦菲",
@@ -777,6 +785,14 @@
       "onboard_time": 1735313183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308849,
+      "num": 241018,
+      "word": "田曦薇什么时候出场",
+      "onboard_time": 1735390819,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 302127,
@@ -803,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 293212,
-      "num": 228430,
-      "word": "田曦薇什么时候出场",
-      "onboard_time": 1735390819,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291173,
       "num": 291173,
       "word": "自导自演谎称偷拍泛滥35人被抓",
@@ -825,6 +833,14 @@
       "onboard_time": 1735347499,
       "rank": 21,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 284263,
+      "num": 231699,
+      "word": "孟子义说没想到下雪爆剧爆到九重紫",
+      "onboard_time": 1735392081,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 283200,
@@ -891,6 +907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 267777,
+      "num": 267777,
+      "word": "车厘子价格跌至每斤15元",
+      "onboard_time": 1735391781,
+      "rank": 29,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 267158,
       "num": 364676,
       "word": "牛肉价格已跌到近5年最低",
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248902,
+      "num": 253686,
+      "word": "2025国内卫视跨年阵容",
+      "onboard_time": 1735391361,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248866,
       "num": 248866,
       "word": "你好星期六全员晒收快递记录",
@@ -977,14 +1009,6 @@
       "onboard_time": 1735363398,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 241754,
-      "num": 218711,
-      "word": "孟子义说没想到下雪爆剧爆到九重紫",
-      "onboard_time": 1735392081,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 238134,
@@ -1032,6 +1056,14 @@
       "word": "两男子急诊室怒斥殴打两女患者",
       "onboard_time": 1735348579,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "晚安计划",
+      "onboard_time": 1735392681,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1083,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219978,
+      "num": 218788,
+      "word": "腾讯云包场崩了",
+      "onboard_time": 1735391961,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219487,
       "num": 219487,
       "word": "坐地铁从兜里缓缓掏出一枚玉佩",
@@ -1115,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212967,
+      "num": 212967,
+      "word": "倪虹洁 大奉打更人",
+      "onboard_time": 1735391661,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211422,
       "num": 211422,
       "word": "九尾直播",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1735383258,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208786,
+      "num": 208786,
+      "word": "TTG对战情久",
+      "onboard_time": 1735389861,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 208168,
@@ -1203,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203744,
+      "num": 203744,
+      "word": "陈思诚全员上桌的含金量",
+      "onboard_time": 1735392321,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203110,
       "num": 173754,
       "word": "九重紫直播主持人",
@@ -1232,14 +1296,6 @@
       "word": "孟子义还原垂耳兔造型",
       "onboard_time": 1735381040,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 201137,
-      "num": 177522,
-      "word": "倪虹洁 大奉打更人",
-      "onboard_time": 1735391661,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1467,14 +1523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178110,
-      "num": 178110,
-      "word": "车厘子价格跌至每斤15元",
-      "onboard_time": 1735391781,
-      "rank": 29,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 177700,
       "num": 161674,
       "word": "恋人剧本",
@@ -1547,20 +1595,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171486,
-      "num": 253686,
-      "word": "2025国内卫视跨年阵容",
-      "onboard_time": 1735391361,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169973,
       "num": 169973,
       "word": "苏州农村自建房已经进化成这样了吗",
       "onboard_time": 1735344497,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "昭昭墨墨最后撒糖时刻",
+      "onboard_time": 1735391842,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 169625,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1735312762,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167901,
+      "num": 167901,
+      "word": "姜涛回应世二帅",
+      "onboard_time": 1735391719,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 167399,
@@ -1811,14 +1867,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153878,
-      "num": 232430,
-      "word": "晓华常只睡两个小时喝浓茶提神",
-      "onboard_time": 1735390819,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153765,
       "num": 153765,
       "word": "星穹铁道翁法罗斯",
@@ -1923,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146191,
+      "num": 146191,
+      "word": "妻子剖腹产丈夫请搬家公司搬回家",
+      "onboard_time": 1735392503,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145464,
       "num": 207171,
       "word": "外界关注中国六代机成功首飞传闻",
@@ -2003,14 +2059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140703,
-      "num": 140703,
-      "word": "TTG对战情久",
-      "onboard_time": 1735389861,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140198,
       "num": 140198,
       "word": "冬至把黄景瑜甜成萨摩耶了",
@@ -2033,14 +2081,6 @@
       "onboard_time": 1735380799,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139266,
-      "num": 139266,
-      "word": "腾讯云包场崩了",
-      "onboard_time": 1735391961,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 138612,
@@ -2080,14 +2120,6 @@
       "word": "宝石老舅被拘前和粉丝合照",
       "onboard_time": 1735298480,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 136405,
-      "num": 136405,
-      "word": "姜涛回应世二帅",
-      "onboard_time": 1735391719,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -2363,12 +2395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121896,
-      "num": 121896,
-      "word": "昭昭墨墨最后撒糖时刻",
-      "onboard_time": 1735391842,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 122057,
+      "num": 122057,
+      "word": "刘国梁曾透露国乒新周期规划",
+      "onboard_time": 1735392141,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 121757,
@@ -2515,6 +2547,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 110656,
+      "num": 110656,
+      "word": "高铁动车8号9号车厢为什么不通",
+      "onboard_time": 1735392441,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110177,
       "num": 110177,
       "word": "AG战胜LTG",
@@ -2544,6 +2584,14 @@
       "word": "九重紫我不要离开你",
       "onboard_time": 1735382359,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108389,
+      "num": 108389,
+      "word": "男频剧",
+      "onboard_time": 1735392861,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2667,14 +2715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102433,
-      "num": 102433,
-      "word": "刘国梁曾透露国乒新周期规划",
-      "onboard_time": 1735392141,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101569,
       "num": 101569,
       "word": "孟子义新增了8个代言",
@@ -2779,20 +2819,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90536,
+      "num": 238932,
+      "word": "杭州有人卖金条一次性变现958万",
+      "onboard_time": 1735388420,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 89572,
       "num": 220273,
       "word": "韩国游客说到鸭肠两眼放光",
       "onboard_time": 1735348399,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89355,
-      "num": 226393,
-      "word": "杭州有人卖金条一次性变现958万",
-      "onboard_time": 1735388420,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 88567,
@@ -3051,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41957,
+      "num": 239996,
+      "word": "对偷拍零容忍也不会放过虚假谎言",
+      "onboard_time": 1735391001,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41027,
       "num": 51226,
       "word": "祁煜扔手镯",
@@ -3179,14 +3227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28802,
-      "num": 239265,
-      "word": "对偷拍零容忍也不会放过虚假谎言",
-      "onboard_time": 1735391001,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28597,
       "num": 116266,
       "word": "一诺说KPL不能没有花海",
@@ -3225,6 +3265,14 @@
       "onboard_time": 1735367961,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 156296,
+      "word": "走路摇 阿离新年好运卡",
+      "onboard_time": 1735392441,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 27031,
@@ -3307,6 +3355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23862,
+      "num": 243236,
+      "word": "1个热门马拉松名额炒到上千元",
+      "onboard_time": 1735391600,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 22264,
       "num": 61237,
       "word": "古人的小夜灯超有氛围感",
@@ -3345,14 +3401,6 @@
       "onboard_time": 1735390099,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20043,
-      "num": 232919,
-      "word": "1个热门马拉松名额炒到上千元",
-      "onboard_time": 1735391600,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 19814,

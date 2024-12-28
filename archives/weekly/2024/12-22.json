@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735392227797,
+  "endTime": 1735392907358,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -947,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1151720,
+      "num": 297734,
+      "word": "王鹤棣演唱会上座率",
+      "onboard_time": 1735390819,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1147085,
       "num": 1147085,
       "word": "张馨予 不要小看我的网速",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1734866898,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 959439,
-      "num": 236868,
-      "word": "王鹤棣演唱会上座率",
-      "onboard_time": 1735390819,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 958017,
@@ -3668,7 +3668,7 @@
     },
     {
       "raw_hot": 486901,
-      "num": 228385,
+      "num": 236847,
       "word": "西村力kpop首帅",
       "onboard_time": 1735389980,
       "rank": 19,
@@ -4619,6 +4619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402091,
+      "num": 233797,
+      "word": "逐玉剧组",
+      "onboard_time": 1735391240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402010,
       "num": 402010,
       "word": "李昀锐说孟子义又娇又可爱",
@@ -5187,6 +5195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365568,
+      "num": 365568,
+      "word": "晓华常只睡两个小时喝浓茶提神",
+      "onboard_time": 1735390819,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365259,
       "num": 345501,
       "word": "88岁老兵去世天空仙鹤盘旋",
@@ -5659,14 +5675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331688,
-      "num": 221416,
-      "word": "逐玉剧组",
-      "onboard_time": 1735391240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 331221,
       "num": 331221,
       "word": "刘亦菲中学班级合照",
@@ -6091,6 +6099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308849,
+      "num": 241018,
+      "word": "田曦薇什么时候出场",
+      "onboard_time": 1735390819,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308071,
       "num": 306749,
       "word": "男子婚后发现妻子结7次婚育6娃",
@@ -6289,14 +6305,6 @@
       "onboard_time": 1734839899,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293212,
-      "num": 228430,
-      "word": "田曦薇什么时候出场",
-      "onboard_time": 1735390819,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 292726,
@@ -6529,6 +6537,14 @@
       "onboard_time": 1735304960,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284263,
+      "num": 231699,
+      "word": "孟子义说没想到下雪爆剧爆到九重紫",
+      "onboard_time": 1735392081,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 284111,
@@ -6857,6 +6873,14 @@
       "onboard_time": 1734870558,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267777,
+      "num": 267777,
+      "word": "车厘子价格跌至每斤15元",
+      "onboard_time": 1735391781,
+      "rank": 29,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 267735,
@@ -7387,6 +7411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248902,
+      "num": 253686,
+      "word": "2025国内卫视跨年阵容",
+      "onboard_time": 1735391361,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248866,
       "num": 248866,
       "word": "你好星期六全员晒收快递记录",
@@ -7625,14 +7657,6 @@
       "onboard_time": 1735273521,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 241754,
-      "num": 218711,
-      "word": "孟子义说没想到下雪爆剧爆到九重紫",
-      "onboard_time": 1735392081,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 241132,
@@ -8001,6 +8025,14 @@
       "onboard_time": 1735304781,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228519,
+      "num": 228519,
+      "word": "晚安计划",
+      "onboard_time": 1735223781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 228476,
@@ -8379,6 +8411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219978,
+      "num": 218788,
+      "word": "腾讯云包场崩了",
+      "onboard_time": 1735391961,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219858,
       "num": 475220,
       "word": "上海地铁11号线预计21时恢复运营",
@@ -8691,6 +8731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212967,
+      "num": 212967,
+      "word": "倪虹洁 大奉打更人",
+      "onboard_time": 1735391661,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212542,
       "num": 212542,
       "word": "汪苏泷工作室",
@@ -8881,6 +8929,14 @@
       "onboard_time": 1734963260,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208786,
+      "num": 208786,
+      "word": "TTG对战情久",
+      "onboard_time": 1735389861,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 208681,
@@ -9315,6 +9371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203744,
+      "num": 203744,
+      "word": "陈思诚全员上桌的含金量",
+      "onboard_time": 1735392321,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203495,
       "num": 203495,
       "word": "失事客机有67名乘客5名机组人员",
@@ -9416,14 +9480,6 @@
       "word": "孟子义还原垂耳兔造型",
       "onboard_time": 1735381040,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 201137,
-      "num": 177522,
-      "word": "倪虹洁 大奉打更人",
-      "onboard_time": 1735391661,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -11171,14 +11227,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178110,
-      "num": 178110,
-      "word": "车厘子价格跌至每斤15元",
-      "onboard_time": 1735391781,
-      "rank": 29,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 178096,
       "num": 178096,
       "word": "美国支出法案删除所有涉华条款",
@@ -11715,14 +11763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171486,
-      "num": 253686,
-      "word": "2025国内卫视跨年阵容",
-      "onboard_time": 1735391361,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171343,
       "num": 171343,
       "word": "魔卡少女樱 月城雪兔",
@@ -11841,6 +11881,14 @@
       "onboard_time": 1735202599,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169655,
+      "num": 169655,
+      "word": "昭昭墨墨最后撒糖时刻",
+      "onboard_time": 1735391842,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 169639,
@@ -12009,6 +12057,14 @@
       "onboard_time": 1734876920,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167901,
+      "num": 167901,
+      "word": "姜涛回应世二帅",
+      "onboard_time": 1735391719,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 167825,
@@ -13315,14 +13371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153878,
-      "num": 232430,
-      "word": "晓华常只睡两个小时喝浓茶提神",
-      "onboard_time": 1735390819,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153765,
       "num": 153765,
       "word": "星穹铁道翁法罗斯",
@@ -13963,6 +14011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146191,
+      "num": 146191,
+      "word": "妻子剖腹产丈夫请搬家公司搬回家",
+      "onboard_time": 1735392503,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145967,
       "num": 145967,
       "word": "崔然竣背头造型",
@@ -14483,14 +14539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140703,
-      "num": 140703,
-      "word": "TTG对战情久",
-      "onboard_time": 1735389861,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140566,
       "num": 140566,
       "word": "小米正搭建GPU万卡集群",
@@ -14656,14 +14704,6 @@
       "word": "白鹿敖瑞鹏白月梵星行程单",
       "onboard_time": 1734845479,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139266,
-      "num": 139266,
-      "word": "腾讯云包场崩了",
-      "onboard_time": 1735391961,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -14849,14 +14889,6 @@
       "onboard_time": 1734932177,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 136405,
-      "num": 136405,
-      "word": "姜涛回应世二帅",
-      "onboard_time": 1735391719,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 136393,
@@ -16235,20 +16267,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 122057,
+      "num": 122057,
+      "word": "刘国梁曾透露国乒新周期规划",
+      "onboard_time": 1735392141,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121898,
       "num": 383588,
       "word": "马峰押题的神",
       "onboard_time": 1734862038,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 121896,
-      "num": 121896,
-      "word": "昭昭墨墨最后撒糖时刻",
-      "onboard_time": 1735391842,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 121757,
@@ -16337,14 +16369,6 @@
       "onboard_time": 1735312163,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120480,
-      "num": 120480,
-      "word": "晚安计划",
-      "onboard_time": 1735223781,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 120441,
@@ -17187,6 +17211,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 110656,
+      "num": 110656,
+      "word": "高铁动车8号9号车厢为什么不通",
+      "onboard_time": 1735392441,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110525,
       "num": 110525,
       "word": "谷爱凌世界杯第17冠",
@@ -17377,6 +17409,14 @@
       "onboard_time": 1735113977,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108389,
+      "num": 108389,
+      "word": "男频剧",
+      "onboard_time": 1735392861,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108388,
@@ -17841,14 +17881,6 @@
       "onboard_time": 1735228159,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102433,
-      "num": 102433,
-      "word": "刘国梁曾透露国乒新周期规划",
-      "onboard_time": 1735392141,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 102304,
@@ -18555,6 +18587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90536,
+      "num": 238932,
+      "word": "杭州有人卖金条一次性变现958万",
+      "onboard_time": 1735388420,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 90530,
       "num": 292746,
       "word": "怪奇笔记开播",
@@ -18617,14 +18657,6 @@
       "onboard_time": 1734792261,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89355,
-      "num": 226393,
-      "word": "杭州有人卖金条一次性变现958万",
-      "onboard_time": 1735388420,
-      "rank": 19,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 89035,
@@ -22003,6 +22035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41957,
+      "num": 239996,
+      "word": "对偷拍零容忍也不会放过虚假谎言",
+      "onboard_time": 1735391001,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41904,
       "num": 278024,
       "word": "李现盼君同赏",
@@ -23635,14 +23675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28802,
-      "num": 239265,
-      "word": "对偷拍零容忍也不会放过虚假谎言",
-      "onboard_time": 1735391001,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28733,
       "num": 31995,
       "word": "用AI打开冬至",
@@ -23761,6 +23793,14 @@
       "onboard_time": 1735182496,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27845,
+      "num": 156296,
+      "word": "走路摇 阿离新年好运卡",
+      "onboard_time": 1735392441,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 27808,
@@ -24243,6 +24283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23862,
+      "num": 243236,
+      "word": "1个热门马拉松名额炒到上千元",
+      "onboard_time": 1735391600,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 23768,
       "num": 191859,
       "word": "情侣吵架先后跳河热心人相救",
@@ -24609,14 +24657,6 @@
       "onboard_time": 1735390099,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20043,
-      "num": 232919,
-      "word": "1个热门马拉松名额炒到上千元",
-      "onboard_time": 1735391600,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 19918,
