@@ -1,0 +1,410 @@
+{
+  "runTime": 1735381293154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 972011,
+        "num": 1155521,
+        "word": "裸辞一年后找了个上1休1的工作",
+        "onboard_time": 1735374680,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 727028,
+        "num": 727028,
+        "word": "赵露思爸爸",
+        "onboard_time": 1735359439,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58395,
+        "num": 630610,
+        "word": "2024大国重器硬核上分",
+        "onboard_time": 1735378999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569708,
+        "num": 569708,
+        "word": "张萌 再不嗑就来不及了",
+        "onboard_time": 1735377859,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554234,
+        "num": 554234,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490683,
+        "num": 490683,
+        "word": "美媒称中国完成令人震惊的试飞",
+        "onboard_time": 1735374982,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398056,
+        "num": 398056,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 391572,
+        "num": 391572,
+        "word": "急诊室家暴事件2男子被拘",
+        "onboard_time": 1735373301,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 376461,
+        "num": 376461,
+        "word": "大奉打更人开播",
+        "onboard_time": 1735380740,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311419,
+        "num": 311419,
+        "word": "年轻人越来越渴望稳定的生活",
+        "onboard_time": 1735377499,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1591706,
+        "num": 309121,
+        "word": "赵露思曾说非常不想做这一行",
+        "onboard_time": 1735379479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1557190,
+        "num": 308205,
+        "word": "曝徐娇被起诉",
+        "onboard_time": 1735374500,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591060,
+        "num": 306337,
+        "word": "黄子韬称太贵的车是无法赠与的",
+        "onboard_time": 1735363099,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540228,
+        "num": 302825,
+        "word": "王楚钦被围拍直言太夸张",
+        "onboard_time": 1735378578,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19547,
+        "num": 301419,
+        "word": "影子不会说谎带货检测仪仍热卖",
+        "onboard_time": 1735380740,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299725,
+        "num": 299725,
+        "word": "黄多多ins晒照",
+        "onboard_time": 1735367480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530441,
+        "num": 292919,
+        "word": "白敬亭 给我个解释",
+        "onboard_time": 1735374768,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30695,
+        "num": 283669,
+        "word": "龚俊人民交通春运公益宣传大使",
+        "onboard_time": 1735380740,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24416,
+        "num": 281729,
+        "word": "误杀3 国产犯罪悬疑的SSR",
+        "onboard_time": 1735380380,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281721,
+        "num": 281721,
+        "word": "丁禹兮活动 商场换奥体",
+        "onboard_time": 1735372400,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235431,
+        "num": 235431,
+        "word": "叶祖新穿太子戏服亮相活动",
+        "onboard_time": 1735377199,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212145,
+        "num": 212145,
+        "word": "文科消亡成为一股全球性浪潮",
+        "onboard_time": 1735355480,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 182970,
+        "num": 182970,
+        "word": "田曦薇明媚感",
+        "onboard_time": 1735379841,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176230,
+        "num": 176230,
+        "word": "一诺跳了张艺兴的舞蹈",
+        "onboard_time": 1735375160,
+        "rank": 23,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 93702,
+        "num": 174646,
+        "word": "2024年被这些军事装备飒到了",
+        "onboard_time": 1735381159,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 160966,
+        "num": 173965,
+        "word": "晓华说自己剪头发都剪出富贵包了",
+        "onboard_time": 1735379601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "误杀3 萝莉岛",
+        "onboard_time": 1735354998,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170081,
+        "num": 170081,
+        "word": "宋墨遭遇婆媳双打",
+        "onboard_time": 1735376479,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168578,
+        "num": 168578,
+        "word": "郭富城发文报平安",
+        "onboard_time": 1735380440,
+        "rank": 28,
+        "category": "艺人,演出"
+      },
+      {
+        "raw_hot": 160687,
+        "num": 160687,
+        "word": "周雨彤演技",
+        "onboard_time": 1735374440,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154053,
+        "num": 154053,
+        "word": "孟子义向李昀锐撒娇",
+        "onboard_time": 1735380919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150518,
+        "num": 150518,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147210,
+        "num": 147210,
+        "word": "易烊千玺看小宝宝妈妈哭的反应",
+        "onboard_time": 1735378698,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146635,
+        "num": 146635,
+        "word": "新中式的风吹到了韩国",
+        "onboard_time": 1735365559,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145231,
+        "num": 145231,
+        "word": "刘亦菲环保皮草",
+        "onboard_time": 1735380440,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140198,
+        "num": 140198,
+        "word": "冬至把黄景瑜甜成萨摩耶了",
+        "onboard_time": 1735380140,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135157,
+        "num": 135157,
+        "word": "孟子义还原垂耳兔造型",
+        "onboard_time": 1735381040,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134041,
+        "num": 134041,
+        "word": "九重紫直播主持人",
+        "onboard_time": 1735377021,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130739,
+        "num": 130739,
+        "word": "无畏cha汪苏泷十万伏特",
+        "onboard_time": 1735380861,
+        "rank": 38,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 73857,
+        "num": 128595,
+        "word": "这是国之重器更是国之底气",
+        "onboard_time": 1735380799,
+        "rank": 39,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 126508,
+        "num": 126508,
+        "word": "樊振东点赞澳网是职业体育典范",
+        "onboard_time": 1735369462,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126190,
+        "num": 126190,
+        "word": "杨紫何惟芳 我哭了我装的",
+        "onboard_time": 1735377619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125798,
+        "num": 125798,
+        "word": "小小的我 没有刻意煽情",
+        "onboard_time": 1735378639,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124931,
+        "num": 124931,
+        "word": "恋人剧本",
+        "onboard_time": 1735377379,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115801,
+        "num": 115801,
+        "word": "查干湖冬捕头鱼1199999元成交",
+        "onboard_time": 1735379719,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114265,
+        "num": 114265,
+        "word": "宝宝没见过世面的样子太可爱了",
+        "onboard_time": 1735374680,
+        "rank": 45,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 113447,
+        "num": 113447,
+        "word": "川崎重工被曝40年前就开始造假",
+        "onboard_time": 1735369644,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112545,
+        "num": 112545,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111293,
+        "num": 111293,
+        "word": "爷爷爸爸都没秃16岁男孩先秃了",
+        "onboard_time": 1735380799,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71148,
+        "num": 111250,
+        "word": "你们到底怎么把他调成这样的",
+        "onboard_time": 1735377980,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深的牵挂#"
+    }
+  }
+}
