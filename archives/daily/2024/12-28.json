@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735382311349,
+  "endTime": 1735384635141,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1096136,
+      "num": 1175381,
+      "word": "大奉打更人开播",
+      "onboard_time": 1735380740,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1061256,
       "num": 966808,
       "word": "赵露思爸爸",
@@ -131,20 +139,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 999576,
+      "num": 441624,
+      "word": "王鹤棣发红包",
+      "onboard_time": 1735383079,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 915153,
       "num": 943868,
       "word": "文科消亡成为一股全球性浪潮",
       "onboard_time": 1735355480,
       "rank": 18,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 904783,
-      "num": 904783,
-      "word": "大奉打更人开播",
-      "onboard_time": 1735380740,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 842944,
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520458,
+      "num": 468829,
+      "word": "急诊室家暴事件2男子被拘",
+      "onboard_time": 1735373301,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 514097,
       "num": 377513,
       "word": "赵今麦瘦了好多啊",
@@ -353,14 +369,6 @@
       "onboard_time": 1735314681,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 468829,
-      "num": 468829,
-      "word": "急诊室家暴事件2男子被拘",
-      "onboard_time": 1735373301,
-      "rank": 13,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 461902,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384207,
+      "num": 292288,
+      "word": "颜如晶减肥心态崩了",
+      "onboard_time": 1735383440,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381405,
       "num": 381405,
       "word": "李川锤娜丽莎 纯爱",
@@ -513,6 +529,14 @@
       "onboard_time": 1735348159,
       "rank": 16,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 355815,
+      "num": 329545,
+      "word": "大奉打更人",
+      "onboard_time": 1735352900,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 355279,
@@ -579,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337998,
+      "num": 337998,
+      "word": "樊振东陈梦的退出给国乒带来哪些影响",
+      "onboard_time": 1735381641,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 337456,
       "num": 161523,
       "word": "媒体评宝石老舅道歉理由和时机",
@@ -587,20 +619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337088,
+      "num": 289745,
+      "word": "刘亦菲环保皮草",
+      "onboard_time": 1735380440,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332790,
       "num": 332790,
       "word": "丁禹兮合肥",
       "onboard_time": 1735354098,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329545,
-      "num": 329545,
-      "word": "大奉打更人",
-      "onboard_time": 1735352900,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 323715,
@@ -625,6 +657,14 @@
       "onboard_time": 1735313183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319094,
+      "num": 285674,
+      "word": "时代少年团直播",
+      "onboard_time": 1735383619,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 302127,
@@ -747,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258149,
+      "num": 258149,
+      "word": "查干湖冬捕头鱼1199999元成交",
+      "onboard_time": 1735379719,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257835,
       "num": 257835,
       "word": "影子不会说谎被采取刑事强制措施",
@@ -819,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234416,
+      "num": 234416,
+      "word": "孟子义向李昀锐撒娇",
+      "onboard_time": 1735380919,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233441,
       "num": 233441,
       "word": "字节跳动明确表示不会出售TikTok",
@@ -851,28 +907,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 224575,
-      "num": 224575,
-      "word": "孟子义向李昀锐撒娇",
-      "onboard_time": 1735380919,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224450,
       "num": 201772,
       "word": "爱奇艺开年大剧三部曲",
       "onboard_time": 1735314621,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220625,
-      "num": 220625,
-      "word": "刘亦菲环保皮草",
-      "onboard_time": 1735380440,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220136,
@@ -889,6 +929,14 @@
       "onboard_time": 1735350378,
       "rank": 18,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 219288,
+      "num": 219288,
+      "word": "田曦薇明媚感",
+      "onboard_time": 1735379841,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217136,
@@ -913,6 +961,22 @@
       "onboard_time": 1735361538,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 210825,
+      "num": 210825,
+      "word": "王俊凯的马甲穿反了",
+      "onboard_time": 1735383140,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209434,
+      "num": 209434,
+      "word": "江疏影 完全是妈咪级别的",
+      "onboard_time": 1735383258,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 208168,
@@ -1163,20 +1227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184066,
+      "num": 184066,
+      "word": "她填补了海里没有牛马的空缺",
+      "onboard_time": 1735383440,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183295,
       "num": 267034,
       "word": "57岁阿姨演短剧享受与年轻人竞争",
       "onboard_time": 1735374021,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182970,
-      "num": 182970,
-      "word": "田曦薇明媚感",
-      "onboard_time": 1735379841,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179776,
@@ -1233,6 +1297,14 @@
       "onboard_time": 1735299913,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174203,
+      "num": 174203,
+      "word": "吃火锅必不可少的三样菜",
+      "onboard_time": 1735382718,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 173137,
@@ -1323,12 +1395,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163735,
+      "num": 163735,
+      "word": "樊振东 下一个赛场在前方等你",
+      "onboard_time": 1735382718,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162824,
+      "num": 162824,
+      "word": "肖战我们微博收官战报",
+      "onboard_time": 1735383258,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162420,
       "num": 162420,
       "word": "6岁的妹妹把我的遗憾记了12年",
       "onboard_time": 1735361240,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162383,
+      "num": 162383,
+      "word": "留几手把杨子气笑了",
+      "onboard_time": 1735381759,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 162345,
@@ -1531,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147561,
+      "num": 147561,
+      "word": "陈立农上海演唱会",
+      "onboard_time": 1735383858,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147210,
       "num": 147210,
       "word": "易烊千玺看小宝宝妈妈哭的反应",
@@ -1553,14 +1657,6 @@
       "onboard_time": 1735360578,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 145880,
-      "num": 145880,
-      "word": "留几手把杨子气笑了",
-      "onboard_time": 1735381759,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 145308,
@@ -1675,6 +1771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135537,
+      "num": 345178,
+      "word": "两起女患者遭家暴案件无关联",
+      "onboard_time": 1735381699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134886,
       "num": 174001,
       "word": "媒体评WTT新规惹争议",
@@ -1689,14 +1793,6 @@
       "onboard_time": 1735377859,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134614,
-      "num": 134614,
-      "word": "查干湖冬捕头鱼1199999元成交",
-      "onboard_time": 1735379719,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134469,
@@ -1907,6 +2003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 125243,
+      "num": 125243,
+      "word": "归棹",
+      "onboard_time": 1735383440,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122832,
       "num": 122832,
       "word": "韩国人真的会因为爱吃西瓜去火锅店吗",
@@ -1969,6 +2073,14 @@
       "onboard_time": 1735358840,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118890,
+      "num": 118890,
+      "word": "丁禹兮合肥人气有多旺",
+      "onboard_time": 1735382899,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 118652,
@@ -2044,7 +2156,7 @@
     },
     {
       "raw_hot": 110663,
-      "num": 174646,
+      "num": 220985,
       "word": "2024年被这些军事装备飒到了",
       "onboard_time": 1735381159,
       "rank": 24,
@@ -2073,6 +2185,14 @@
       "onboard_time": 1735372341,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108738,
+      "num": 108738,
+      "word": "九重紫我不要离开你",
+      "onboard_time": 1735382359,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108079,
@@ -2184,6 +2304,14 @@
       "word": "孟子义新增了8个代言",
       "onboard_time": 1735298900,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101287,
+      "num": 101287,
+      "word": "丁禹兮八音盒小手办",
+      "onboard_time": 1735382718,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2307,6 +2435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79736,
+      "num": 239374,
+      "word": "伞兵深V黑西装",
+      "onboard_time": 1735384457,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78833,
       "num": 216382,
       "word": "魔兽玩家24天卖出3吨橙子",
@@ -2329,14 +2465,6 @@
       "onboard_time": 1735380799,
       "rank": 39,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 72185,
-      "num": 345178,
-      "word": "两起女患者遭家暴案件无关联",
-      "onboard_time": 1735381699,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72114,
@@ -2411,6 +2539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54082,
+      "num": 109014,
+      "word": "樊振东陈梦退出世界排名的背后",
+      "onboard_time": 1735382298,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53982,
       "num": 199613,
       "word": "老人烧纸引燃绿化带遭索赔5万",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1735371682,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 51482,
+      "num": 293960,
+      "word": "游客花三千订房入住时被要求加钱",
+      "onboard_time": 1735384099,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50355,
