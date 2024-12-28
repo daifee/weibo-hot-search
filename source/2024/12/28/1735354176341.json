@@ -1,0 +1,410 @@
+{
+  "runTime": 1735354176341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851571,
+        "num": 1851571,
+        "word": "太冷了醒来发现女儿像木头一样僵硬",
+        "onboard_time": 1735348220,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1295889,
+        "num": 1295889,
+        "word": "曝赵露思爸爸报平安",
+        "onboard_time": 1735348519,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18366,
+        "num": 824954,
+        "word": "中国隧道相接可绕地球超一圈",
+        "onboard_time": 1735353739,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655057,
+        "num": 655057,
+        "word": "父亲熔金镯儿子称亡母的付出被遗忘",
+        "onboard_time": 1735351158,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454149,
+        "num": 454149,
+        "word": "深圳生4胞胎家庭仍因恶评不悦",
+        "onboard_time": 1735346539,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461902,
+        "num": 435328,
+        "word": "队友心疼樊振东埋头努力",
+        "onboard_time": 1735348220,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386414,
+        "num": 386414,
+        "word": "特朗普要求暂停执行TikTok强制出售令",
+        "onboard_time": 1735344377,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340953,
+        "num": 368386,
+        "word": "刘亦菲去看冰封黄玫瑰了",
+        "onboard_time": 1735310483,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226274,
+        "num": 364676,
+        "word": "牛肉价格已跌到近5年最低",
+        "onboard_time": 1735346117,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40503,
+        "num": 361763,
+        "word": "警方通报2女子在急诊室被家暴",
+        "onboard_time": 1735353499,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 361167,
+        "num": 361167,
+        "word": "韩国游客吃鸭肠脑花疯狂上头",
+        "onboard_time": 1735348159,
+        "rank": 10,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 290974,
+        "num": 290974,
+        "word": "我们的养老金要全面上涨了吗",
+        "onboard_time": 1735347499,
+        "rank": 11,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 287932,
+        "num": 287932,
+        "word": "88岁老兵去世天空仙鹤盘旋",
+        "onboard_time": 1735352900,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269926,
+        "num": 269926,
+        "word": "陈梦樊振东退出新加坡赛不会被罚",
+        "onboard_time": 1735352900,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267602,
+        "num": 267602,
+        "word": "李川锤娜丽莎 纯爱",
+        "onboard_time": 1735344437,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266414,
+        "num": 266414,
+        "word": "大奉打更人",
+        "onboard_time": 1735352900,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249610,
+        "num": 249610,
+        "word": "亮剑鬼子大佐演员患甲状腺癌",
+        "onboard_time": 1735344677,
+        "rank": 16,
+        "category": "民生新闻,作品衍生"
+      },
+      {
+        "raw_hot": 223475,
+        "num": 223475,
+        "word": "火锅店称晚上10点后一半是韩国人",
+        "onboard_time": 1735344677,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 222839,
+        "num": 222839,
+        "word": "哈尔滨文旅发文欢迎刘亦菲",
+        "onboard_time": 1735353139,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212514,
+        "num": 212514,
+        "word": "恋人剧组暂停拍摄",
+        "onboard_time": 1735312583,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1361779,
+        "num": 208375,
+        "word": "赵露思生病很严重",
+        "onboard_time": 1735313062,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469422,
+        "num": 200287,
+        "word": "成都200w一个的蛋糕",
+        "onboard_time": 1735346479,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464844,
+        "num": 194145,
+        "word": "赵今麦瘦了好多啊",
+        "onboard_time": 1735344437,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308289,
+        "num": 191541,
+        "word": "神经系统疾病",
+        "onboard_time": 1735313662,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185944,
+        "num": 185944,
+        "word": "樊振东发文最后一句歌词的故事",
+        "onboard_time": 1735353078,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230754,
+        "num": 184708,
+        "word": "两男子急诊室怒斥殴打两女患者",
+        "onboard_time": 1735348579,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193405,
+        "num": 183804,
+        "word": "金秀贤感谢金智媛",
+        "onboard_time": 1735344857,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 182523,
+        "word": "宝石老舅你糊涂啊",
+        "onboard_time": 1735322713,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170162,
+        "num": 170162,
+        "word": "九重紫",
+        "onboard_time": 1735352959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15475,
+        "num": 166338,
+        "word": "年轻人周末班味去除计划",
+        "onboard_time": 1735353619,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164587,
+        "num": 164587,
+        "word": "阿鲁纳评价樊振东退出排名",
+        "onboard_time": 1735347499,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160018,
+        "num": 160018,
+        "word": "多家医院发布最新分娩数据",
+        "onboard_time": 1735353198,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "警方通报2男子疑急诊室家暴2女子",
+        "onboard_time": 1735353559,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154428,
+        "num": 154428,
+        "word": "坐地铁从兜里缓缓掏出一枚玉佩",
+        "onboard_time": 1735350378,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 153889,
+        "num": 153889,
+        "word": "古人有自己的美妆潮流",
+        "onboard_time": 1735351040,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "程靖淇说王楚钦打球很干净",
+        "onboard_time": 1735346180,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143239,
+        "num": 143239,
+        "word": "橘猫 那咋了",
+        "onboard_time": 1735351219,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143036,
+        "num": 143036,
+        "word": "小小的我",
+        "onboard_time": 1735348940,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140399,
+        "num": 140399,
+        "word": "警花回应与景甜相似被称尔滨分甜",
+        "onboard_time": 1735351099,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133851,
+        "num": 133851,
+        "word": "韩国人表示上海还是太全面",
+        "onboard_time": 1735313183,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129997,
+        "num": 129997,
+        "word": "白敬亭手串",
+        "onboard_time": 1735345038,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27845,
+        "num": 129875,
+        "word": "易烊千玺的新年祝福",
+        "onboard_time": 1735353619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24094,
+        "num": 129803,
+        "word": "2024中国载人航天名场面",
+        "onboard_time": 1735307420,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129758,
+        "num": 129758,
+        "word": "近期人偏肺病毒流行",
+        "onboard_time": 1735348459,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127669,
+        "num": 127669,
+        "word": "丁禹兮版他不懂",
+        "onboard_time": 1735345819,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126665,
+        "num": 126665,
+        "word": "EXO明年全员回归",
+        "onboard_time": 1735304480,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "邵子恒好帅",
+        "onboard_time": 1735347980,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106535,
+        "num": 106535,
+        "word": "餐厅无禁烟标就是抽烟的借口吗",
+        "onboard_time": 1735351519,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 105100,
+        "word": "沈星回 难哄",
+        "onboard_time": 1735306281,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98019,
+        "num": 98019,
+        "word": "丁禹兮合肥",
+        "onboard_time": 1735354098,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#温暖的回信#"
+    }
+  }
+}
