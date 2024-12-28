@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735425455953,
+  "endTime": 1735428086797,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267581,
+      "num": 195972,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266544,
       "num": 177973,
       "word": "大奉打更人口碑",
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124304,
-      "num": 115676,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123157,
       "num": 177565,
       "word": "亡母金镯被熔儿子回应要求父亲道歉",
@@ -323,20 +323,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111806,
+      "num": 111806,
+      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
+      "onboard_time": 1735412652,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104386,
       "num": 177700,
       "word": "西村力kpop首帅",
       "onboard_time": 1735389980,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104161,
-      "num": 104161,
-      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
-      "onboard_time": 1735412652,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103282,
@@ -475,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61747,
+      "num": 56009,
+      "word": "内娱连综艺都能预制了",
+      "onboard_time": 1735425551,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59817,
       "num": 91208,
       "word": "孟子义李昀锐肩贴肩",
@@ -523,12 +531,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44434,
+      "num": 44434,
+      "word": "任时完好帅",
+      "onboard_time": 1735424351,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43851,
+      "num": 43851,
+      "word": "白鹿的人脉在全世界偶遇周深",
+      "onboard_time": 1735426512,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40964,
+      "num": 58008,
+      "word": "最强县级市市委书记调整",
+      "onboard_time": 1735427833,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39344,
+      "num": 39344,
+      "word": "檀健次不导戏真的可惜了",
+      "onboard_time": 1735427833,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39114,
       "num": 44817,
       "word": "大奉打更人",
       "onboard_time": 1735383079,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32211,
+      "num": 53121,
+      "word": "众星为樊振东送上祝福",
+      "onboard_time": 1735427833,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 31909,
@@ -539,12 +587,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29352,
+      "raw_hot": 30719,
+      "num": 39301,
+      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
+      "onboard_time": 1735422072,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30091,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
       "onboard_time": 1735408634,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 28142,
+      "num": 39268,
+      "word": "辛巴喊话不要为蹭流量搞垮国民企业",
+      "onboard_time": 1735427833,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26774,
@@ -555,12 +619,12 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 26029,
-      "num": 26029,
-      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
-      "onboard_time": 1735422072,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 26542,
+      "num": 39257,
+      "word": "朱丽叶饰演者奥丽维娅赫西去世",
+      "onboard_time": 1735421591,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25708,
@@ -587,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23511,
-      "num": 26233,
-      "word": "朱丽叶饰演者奥丽维娅赫西去世",
-      "onboard_time": 1735421591,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22476,
       "num": 111903,
       "word": "男老师神反应一个动作救下3个人",
@@ -609,14 +665,6 @@
       "onboard_time": 1735397122,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20872,
-      "num": 24649,
-      "word": "任时完好帅",
-      "onboard_time": 1735424351,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 20599,
