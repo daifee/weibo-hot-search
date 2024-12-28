@@ -1,6 +1,6 @@
 {
   "startTime": 1734798317128,
-  "endTime": 1735342535009,
+  "endTime": 1735350009566,
   "band_list": [
     {
       "raw_hot": 11478708,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 3589309,
-      "num": 319702,
+      "num": 420574,
       "word": "赵露思生病很严重",
       "onboard_time": 1735313062,
       "rank": 3,
@@ -273,6 +273,14 @@
       "onboard_time": 1734871638,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1754985,
+      "num": 1754985,
+      "word": "曝赵露思爸爸报平安",
+      "onboard_time": 1735348519,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1740308,
@@ -520,6 +528,14 @@
       "word": "坠机现场生还者下机坐地哭喊被拖走",
       "onboard_time": 1735118539,
       "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1412226,
+      "num": 253831,
+      "word": "太冷了醒来发现女儿像木头一样僵硬",
+      "onboard_time": 1735348220,
+      "rank": 10,
       "category": "海外新闻"
     },
     {
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768276,
+      "num": 219597,
+      "word": "成都200w一个的蛋糕",
+      "onboard_time": 1735346479,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 764514,
       "num": 508261,
       "word": "黄子韬账号带货月销售额近2500万元",
@@ -1833,6 +1857,14 @@
       "onboard_time": 1735197017,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 737566,
+      "num": 737566,
+      "word": "特朗普要求暂停执行TikTok强制出售令",
+      "onboard_time": 1735344377,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 737465,
@@ -3651,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451264,
+      "num": 451264,
+      "word": "深圳生4胞胎家庭仍因恶评不悦",
+      "onboard_time": 1735346539,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449391,
       "num": 449391,
       "word": "23岁的考场和18岁是不同的",
@@ -3833,6 +3873,14 @@
       "onboard_time": 1734915798,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 428193,
+      "num": 428193,
+      "word": "亮剑鬼子大佐演员患甲状腺癌",
+      "onboard_time": 1735344677,
+      "rank": 4,
+      "category": "民生新闻,作品衍生"
     },
     {
       "raw_hot": 428071,
@@ -4283,6 +4331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391689,
+      "num": 391689,
+      "word": "火锅店称晚上10点后一半是韩国人",
+      "onboard_time": 1735344677,
+      "rank": 6,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 390633,
       "num": 390633,
       "word": "10岁女孩写作业手疼确诊白血病",
@@ -4395,6 +4451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381405,
+      "num": 381405,
+      "word": "李川锤娜丽莎 纯爱",
+      "onboard_time": 1735344437,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380705,
       "num": 604750,
       "word": "一段视频看侠之大者的含义",
@@ -4465,6 +4529,14 @@
       "onboard_time": 1735208959,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 377513,
+      "num": 377513,
+      "word": "赵今麦瘦了好多啊",
+      "onboard_time": 1735344437,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 377188,
@@ -4908,7 +4980,7 @@
     },
     {
       "raw_hot": 340732,
-      "num": 158105,
+      "num": 230980,
       "word": "宝石老舅你糊涂啊",
       "onboard_time": 1735322713,
       "rank": 7,
@@ -6003,6 +6075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276662,
+      "num": 239155,
+      "word": "金秀贤感谢金智媛",
+      "onboard_time": 1735344857,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276519,
       "num": 219890,
       "word": "吃砂糖橘真的会促进肿瘤生长吗",
@@ -6017,6 +6097,14 @@
       "onboard_time": 1734831857,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275726,
+      "num": 217683,
+      "word": "白敬亭手串",
+      "onboard_time": 1735345038,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 275419,
@@ -7211,6 +7299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226078,
+      "num": 226078,
+      "word": "阿鲁纳评价樊振东退出排名",
+      "onboard_time": 1735347499,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225919,
       "num": 319146,
       "word": "90后TVB女演员在餐厅洗碗洗厕所",
@@ -7233,6 +7329,14 @@
       "onboard_time": 1734944898,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225454,
+      "num": 225454,
+      "word": "韩国游客吃鸭肠脑花疯狂上头",
+      "onboard_time": 1735348159,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 225445,
@@ -7313,6 +7417,14 @@
       "onboard_time": 1735105158,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223331,
+      "num": 214157,
+      "word": "牛肉价格已跌到近5年最低",
+      "onboard_time": 1735346117,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 223230,
@@ -7585,6 +7697,14 @@
       "onboard_time": 1735306581,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217554,
+      "num": 217554,
+      "word": "队友心疼樊振东埋头努力",
+      "onboard_time": 1735348220,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 217518,
@@ -8435,6 +8555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199783,
+      "num": 199783,
+      "word": "程靖淇说王楚钦打球很干净",
+      "onboard_time": 1735346180,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199743,
       "num": 199743,
       "word": "高瀚宇一个人背两个队友",
@@ -8880,6 +9008,14 @@
       "word": "朱志鑫苏新皓他拍的",
       "onboard_time": 1735049421,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194223,
+      "num": 194223,
+      "word": "刘亦菲 哈尔滨",
+      "onboard_time": 1735345038,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -9329,6 +9465,14 @@
       "onboard_time": 1735021879,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188388,
+      "num": 188388,
+      "word": "佛山近百只猫在水塘中被溺死",
+      "onboard_time": 1735342635,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188342,
@@ -10371,6 +10515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172438,
+      "num": 218749,
+      "word": "我们的养老金要全面上涨了吗",
+      "onboard_time": 1735347499,
+      "rank": 21,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 172217,
       "num": 172217,
       "word": "我是刑警现实原型崔道植有多厉害",
@@ -10497,6 +10649,14 @@
       "onboard_time": 1734830896,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169973,
+      "num": 169973,
+      "word": "苏州农村自建房已经进化成这样了吗",
+      "onboard_time": 1735344497,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 169919,
@@ -11097,6 +11257,14 @@
       "onboard_time": 1734849377,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162345,
+      "num": 162345,
+      "word": "深圳四胞胎家庭月开销一万多",
+      "onboard_time": 1735344437,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162158,
@@ -14203,6 +14371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122832,
+      "num": 122832,
+      "word": "韩国人真的会因为爱吃西瓜去火锅店吗",
+      "onboard_time": 1735344377,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122199,
       "num": 122199,
       "word": "轻断食 脱发",
@@ -15355,6 +15531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107134,
+      "num": 107134,
+      "word": "宝石老舅还是多爱惜光环和羽毛吧",
+      "onboard_time": 1735343837,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107119,
       "num": 1270926,
       "word": "春晚都去西藏了我也要去",
@@ -15579,6 +15763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103574,
+      "num": 103574,
+      "word": "近期人偏肺病毒流行",
+      "onboard_time": 1735348459,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103322,
       "num": 103322,
       "word": "人不一定要靠学历支撑以后的生活",
@@ -15609,6 +15801,14 @@
       "onboard_time": 1735186699,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102581,
+      "num": 102581,
+      "word": "老祖宗的审美有多超前",
+      "onboard_time": 1735347440,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 102458,
@@ -15803,6 +16003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99599,
+      "num": 99599,
+      "word": "下周就要进入2025了",
+      "onboard_time": 1735344377,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99590,
       "num": 99590,
       "word": "上海南站正式升级为高铁站",
@@ -15979,6 +16187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96586,
+      "num": 96586,
+      "word": "C罗认为威尼修斯应该获得金球奖",
+      "onboard_time": 1735348399,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96539,
       "num": 96539,
       "word": "AL战胜WBG",
@@ -15993,6 +16209,14 @@
       "onboard_time": 1735089558,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 96419,
+      "num": 96419,
+      "word": "邵子恒好帅",
+      "onboard_time": 1735347980,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 96379,
@@ -16059,6 +16283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95157,
+      "num": 95157,
+      "word": "丁禹兮版他不懂",
+      "onboard_time": 1735345819,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 95051,
       "num": 241871,
       "word": "宋亚轩诡异的抽象",
@@ -16073,6 +16305,14 @@
       "onboard_time": 1734865219,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 94684,
+      "num": 94684,
+      "word": "肖战沧海一声笑武侠风吹到了山东",
+      "onboard_time": 1735349719,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 94665,
@@ -16137,6 +16377,14 @@
       "onboard_time": 1734770897,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93534,
+      "num": 93534,
+      "word": "两男子急诊室怒斥殴打两女患者",
+      "onboard_time": 1735348579,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93482,
@@ -16305,6 +16553,14 @@
       "onboard_time": 1735183578,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89572,
+      "num": 220273,
+      "word": "韩国游客说到鸭肠两眼放光",
+      "onboard_time": 1735348399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89441,
@@ -20041,6 +20297,14 @@
       "onboard_time": 1735132158,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36688,
+      "num": 222588,
+      "word": "跨年仪式感配图",
+      "onboard_time": 1735346117,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36677,
