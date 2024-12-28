@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735413414329,
+  "endTime": 1735414506357,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104161,
+      "num": 104161,
+      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
+      "onboard_time": 1735412652,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103282,
       "num": 177913,
       "word": "熊猫渝爱初步诊断感染性脱毛",
@@ -539,6 +547,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 24764,
+      "num": 36549,
+      "word": "黄子弘凡除了快乐禁止入内",
+      "onboard_time": 1735413732,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24554,
       "num": 44805,
       "word": "WTT发布声明",
@@ -563,12 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17765,
-      "num": 71945,
-      "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
-      "onboard_time": 1735412652,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 19261,
+      "num": 36237,
+      "word": "升维突破才是中国车企的理想状态",
+      "onboard_time": 1735411513,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 18592,
+      "num": 36225,
+      "word": "中国车企的nextlevel会是啥样",
+      "onboard_time": 1735411332,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 10717,
@@ -576,6 +600,22 @@
       "word": "被晚安短信安慰了",
       "onboard_time": 1735410912,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10119,
+      "num": 36916,
+      "word": "考古首次发现记载秦人的甲骨",
+      "onboard_time": 1735414332,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10028,
+      "num": 41116,
+      "word": "为卖设备假装住酒店被偷拍35人被抓",
+      "onboard_time": 1735414031,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

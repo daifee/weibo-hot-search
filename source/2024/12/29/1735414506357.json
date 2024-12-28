@@ -1,0 +1,410 @@
+{
+  "runTime": 1735414506357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 607608,
+        "num": 607608,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197932,
+        "num": 197932,
+        "word": "半夜和男朋友吵架刷机票抢到3元票",
+        "onboard_time": 1735404916,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23701,
+        "num": 130256,
+        "word": "长白山森林漂流越夜越美丽",
+        "onboard_time": 1735400542,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 107138,
+        "num": 107138,
+        "word": "WTT回应樊振东陈梦退出世排",
+        "onboard_time": 1735395203,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104161,
+        "num": 104161,
+        "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
+        "onboard_time": 1735412652,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 368259,
+        "num": 104074,
+        "word": "赵露思委托魏笑报平安",
+        "onboard_time": 1735397003,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120507,
+        "num": 103490,
+        "word": "姜涛全球最帅面孔第二",
+        "onboard_time": 1735399583,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102885,
+        "num": 102885,
+        "word": "王鹤棣演唱会上座率",
+        "onboard_time": 1735390819,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71012,
+        "num": 71012,
+        "word": "专家回应新毒株来了",
+        "onboard_time": 1735394542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67194,
+        "num": 67194,
+        "word": "普京对阿航坠机事件致歉",
+        "onboard_time": 1735395502,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84160,
+        "num": 67134,
+        "word": "秋瓷炫儿子说我中国人",
+        "onboard_time": 1735400781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62549,
+        "num": 62549,
+        "word": "庆余年",
+        "onboard_time": 1735388000,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70875,
+        "num": 61627,
+        "word": "王鹤棣疑似失去所有cp",
+        "onboard_time": 1735393883,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54380,
+        "num": 54380,
+        "word": "冉莹颖儿子打生长激素27天见成效",
+        "onboard_time": 1735389501,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44578,
+        "num": 44578,
+        "word": "车厘子价格跌至每斤15元",
+        "onboard_time": 1735391781,
+        "rank": 14,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 41162,
+        "num": 41162,
+        "word": "选手全年不参加WTT要罚款164万",
+        "onboard_time": 1735399102,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34830,
+        "num": 41147,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32885,
+        "num": 41138,
+        "word": "床前放个橘子睡得香",
+        "onboard_time": 1735394661,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10028,
+        "num": 41116,
+        "word": "为卖设备假装住酒店被偷拍35人被抓",
+        "onboard_time": 1735414031,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31680,
+        "num": 41099,
+        "word": "戏里一双靴子要用到近1000张纸",
+        "onboard_time": 1735401501,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50526,
+        "num": 41085,
+        "word": "大奉打更人口碑",
+        "onboard_time": 1735397182,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44321,
+        "num": 41072,
+        "word": "卿卿日常五美2年后重聚大奉",
+        "onboard_time": 1735397725,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41237,
+        "num": 41065,
+        "word": "失语症",
+        "onboard_time": 1735399521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41049,
+        "num": 41049,
+        "word": "王太利看完误杀3不想跟肖央说话",
+        "onboard_time": 1735401080,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27331,
+        "num": 39908,
+        "word": "熊猫渝爱初步诊断感染性脱毛",
+        "onboard_time": 1735397784,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39077,
+        "num": 39077,
+        "word": "九重紫庆功宴",
+        "onboard_time": 1735396642,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37949,
+        "num": 37949,
+        "word": "段星星没出道",
+        "onboard_time": 1735401680,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37507,
+        "num": 37507,
+        "word": "现在拨打的电话",
+        "onboard_time": 1735400662,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26400,
+        "num": 37118,
+        "word": "妻子剖腹产丈夫请搬家公司搬回家",
+        "onboard_time": 1735392503,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24249,
+        "num": 37097,
+        "word": "俄击落乌战机富豪奖励百万",
+        "onboard_time": 1735399461,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 37096,
+        "word": "曝徐娇被起诉",
+        "onboard_time": 1735374500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29597,
+        "num": 37085,
+        "word": "邵子恒C位出道",
+        "onboard_time": 1735399521,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29316,
+        "num": 37040,
+        "word": "李昀锐人生照片",
+        "onboard_time": 1735394542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22797,
+        "num": 36983,
+        "word": "WTT董事曾说赛事门票收入占大头",
+        "onboard_time": 1735401020,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10119,
+        "num": 36916,
+        "word": "考古首次发现记载秦人的甲骨",
+        "onboard_time": 1735414332,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29039,
+        "num": 36901,
+        "word": "张若昀范闲",
+        "onboard_time": 1735394482,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28805,
+        "num": 36820,
+        "word": "丁禹兮1228有你们呀",
+        "onboard_time": 1735403958,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28082,
+        "num": 36794,
+        "word": "西村力kpop首帅",
+        "onboard_time": 1735389980,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22264,
+        "num": 36755,
+        "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
+        "onboard_time": 1735399461,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20623,
+        "num": 36696,
+        "word": "高铁动车8号9号车厢为什么不通",
+        "onboard_time": 1735392441,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27759,
+        "num": 36652,
+        "word": "大奉打更人",
+        "onboard_time": 1735383079,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25665,
+        "num": 36610,
+        "word": "耳帝评2024华语100首最佳",
+        "onboard_time": 1735404197,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 24764,
+        "num": 36549,
+        "word": "黄子弘凡除了快乐禁止入内",
+        "onboard_time": 1735413732,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24570,
+        "num": 36498,
+        "word": "同一天两个天王演唱会发生意外",
+        "onboard_time": 1735398984,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23856,
+        "num": 36434,
+        "word": "檀健次亮片深V",
+        "onboard_time": 1735402700,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20291,
+        "num": 36382,
+        "word": "在新疆根本不存在审美疲劳",
+        "onboard_time": 1735401561,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 20229,
+        "num": 36324,
+        "word": "2025全球总决赛",
+        "onboard_time": 1735397243,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20055,
+        "num": 36317,
+        "word": "官方通报花3千订房入住被要求加钱",
+        "onboard_time": 1735408634,
+        "rank": 47,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 19261,
+        "num": 36237,
+        "word": "升维突破才是中国车企的理想状态",
+        "onboard_time": 1735411513,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18592,
+        "num": 36225,
+        "word": "中国车企的nextlevel会是啥样",
+        "onboard_time": 1735411332,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记论城市基建#"
+    }
+  }
+}
