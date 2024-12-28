@@ -1,6 +1,6 @@
 {
   "startTime": 1735316795038,
-  "endTime": 1735395532874,
+  "endTime": 1735396618917,
   "band_list": [
     {
       "raw_hot": 9354539,
@@ -33,6 +33,14 @@
       "onboard_time": 1735367720,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2478769,
+      "num": 2478769,
+      "word": "WTT回应樊振东陈梦退出世排",
+      "onboard_time": 1735395203,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 2231392,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1740841,
+      "num": 1176498,
+      "word": "玺尚酒店",
+      "onboard_time": 1735393281,
+      "rank": 3,
+      "category": "民生新闻,剧集"
+    },
+    {
       "raw_hot": 1671205,
       "num": 336823,
       "word": "赵薇 黄有龙",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1611851,
-      "num": 600311,
+      "num": 861325,
       "word": "赵露思曾说非常不想做这一行",
       "onboard_time": 1735379479,
       "rank": 10,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1441519,
-      "num": 515114,
+      "num": 1011807,
       "word": "冉莹颖儿子打生长激素27天见成效",
       "onboard_time": 1735389501,
       "rank": 38,
@@ -124,19 +140,11 @@
     },
     {
       "raw_hot": 1299001,
-      "num": 527799,
+      "num": 992481,
       "word": "王鹤棣演唱会上座率",
       "onboard_time": 1735390819,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1274813,
-      "num": 606974,
-      "word": "玺尚酒店",
-      "onboard_time": 1735393281,
-      "rank": 3,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 1223203,
@@ -145,6 +153,14 @@
       "onboard_time": 1735354998,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1167099,
+      "num": 1167099,
+      "word": "专家回应新毒株来了",
+      "onboard_time": 1735394542,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1096136,
@@ -161,6 +177,14 @@
       "onboard_time": 1735388000,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1076766,
+      "num": 1076766,
+      "word": "车厘子价格跌至每斤15元",
+      "onboard_time": 1735391781,
+      "rank": 29,
+      "category": "财经,美食"
     },
     {
       "raw_hot": 1061256,
@@ -243,14 +267,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 808475,
-      "num": 808475,
-      "word": "车厘子价格跌至每斤15元",
-      "onboard_time": 1735391781,
-      "rank": 29,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 804714,
       "num": 252088,
       "word": "成都200w一个的蛋糕",
@@ -265,6 +281,14 @@
       "onboard_time": 1735351158,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 744674,
+      "num": 744674,
+      "word": "普京对阿航坠机事件致歉",
+      "onboard_time": 1735395502,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 737566,
@@ -347,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 592925,
+      "num": 592925,
+      "word": "逐玉剧组",
+      "onboard_time": 1735391240,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591887,
       "num": 591887,
       "word": "王鹤棣泰国演唱会",
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 577158,
-      "num": 278786,
+      "num": 447650,
       "word": "赵露思曾说目标体重是70多斤",
       "onboard_time": 1735393522,
       "rank": 15,
@@ -395,28 +427,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 565083,
-      "num": 309701,
-      "word": "逐玉剧组",
-      "onboard_time": 1735391240,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 553905,
       "num": 326744,
       "word": "李昀锐用孟子义的粉饼补妆",
       "onboard_time": 1735387821,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 551442,
-      "num": 551442,
-      "word": "专家回应新毒株来了",
-      "onboard_time": 1735394542,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 547273,
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476763,
+      "num": 476763,
+      "word": "张若昀范闲",
+      "onboard_time": 1735394482,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476184,
       "num": 476184,
       "word": "花海",
@@ -545,6 +569,14 @@
       "onboard_time": 1735372942,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 449064,
+      "num": 449064,
+      "word": "床前放个橘子睡得香",
+      "onboard_time": 1735394661,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 448455,
@@ -627,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399871,
+      "num": 399871,
+      "word": "挂件女主",
+      "onboard_time": 1735394602,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394165,
       "num": 394165,
       "word": "哈尔滨文旅邀请刘亦菲去冰雪大世界",
@@ -683,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366829,
-      "num": 277710,
-      "word": "挂件女主",
-      "onboard_time": 1735394602,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365568,
       "num": 365568,
       "word": "晓华常只睡两个小时喝浓茶提神",
@@ -731,14 +763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354142,
-      "num": 354142,
-      "word": "WTT回应樊振东陈梦退出世排",
-      "onboard_time": 1735395203,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353519,
       "num": 353519,
       "word": "丁禹兮 晋江式演技劳模",
@@ -748,7 +772,7 @@
     },
     {
       "raw_hot": 353440,
-      "num": 277480,
+      "num": 328011,
       "word": "妻子剖腹产丈夫请搬家公司搬回家",
       "onboard_time": 1735392503,
       "rank": 42,
@@ -851,14 +875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319236,
-      "num": 269116,
-      "word": "张若昀范闲",
-      "onboard_time": 1735394482,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308849,
       "num": 241018,
       "word": "田曦薇什么时候出场",
@@ -907,14 +923,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 286406,
-      "num": 286406,
-      "word": "床前放个橘子睡得香",
-      "onboard_time": 1735394661,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 284263,
       "num": 231699,
       "word": "孟子义说没想到下雪爆剧爆到九重紫",
@@ -961,6 +969,14 @@
       "onboard_time": 1735345038,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273969,
+      "num": 908522,
+      "word": "高铁动车8号9号车厢为什么不通",
+      "onboard_time": 1735392441,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273285,
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255856,
+      "num": 255856,
+      "word": "一枕春华剧组",
+      "onboard_time": 1735395203,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254248,
       "num": 254248,
       "word": "杨紫红眼流泪镜头",
@@ -1075,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247036,
+      "num": 247036,
+      "word": "北京卫视公布跨年晚会全阵容",
+      "onboard_time": 1735393702,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246502,
       "num": 246502,
       "word": "工藤新一 世男一的出场方式",
@@ -1089,14 +1121,6 @@
       "onboard_time": 1735363398,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 243493,
-      "num": 243493,
-      "word": "北京卫视公布跨年晚会全阵容",
-      "onboard_time": 1735393702,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 241933,
@@ -1235,14 +1259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 217733,
-      "num": 278548,
-      "word": "高铁动车8号9号车厢为什么不通",
-      "onboard_time": 1735392441,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217136,
       "num": 217136,
       "word": "于正说在娱乐圈不能太较真",
@@ -1264,6 +1280,14 @@
       "word": "倪虹洁 大奉打更人",
       "onboard_time": 1735391661,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212601,
+      "num": 278661,
+      "word": "大奉打更人 搞笑",
+      "onboard_time": 1735395142,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1451,12 +1475,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 198592,
-      "num": 198592,
-      "word": "一枕春华剧组",
-      "onboard_time": 1735395203,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 197779,
+      "num": 540371,
+      "word": "WTT发布声明",
+      "onboard_time": 1735396042,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 197774,
@@ -1595,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188295,
+      "num": 188295,
+      "word": "你好星期六下周是猎罪图鉴",
+      "onboard_time": 1735396042,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187290,
       "num": 187290,
       "word": "邵子恒决赛舞台",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1735374021,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180042,
+      "num": 148557,
+      "word": "现在拨打的电话吻戏",
+      "onboard_time": 1735396282,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 179776,
@@ -1993,14 +2033,6 @@
       "onboard_time": 1735359318,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 154859,
-      "num": 154859,
-      "word": "普京对阿航坠机事件致歉",
-      "onboard_time": 1735395502,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154574,
@@ -2411,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128863,
+      "num": 128863,
+      "word": "威尔斯50分",
+      "onboard_time": 1735395862,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128048,
       "num": 128048,
       "word": "田曦薇逐玉造型",
@@ -2609,6 +2649,14 @@
       "onboard_time": 1735382899,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118729,
+      "num": 118729,
+      "word": "梳理王楚钦被怼脸拍照事件",
+      "onboard_time": 1735396521,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 118652,
@@ -2995,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84115,
+      "num": 315587,
+      "word": "樊振东陈梦会促使WTT改变规定吗",
+      "onboard_time": 1735393401,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84045,
       "num": 84045,
       "word": "我国低空经济发展司成立",
@@ -3075,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63272,
-      "num": 278661,
-      "word": "大奉打更人 搞笑",
-      "onboard_time": 1735395142,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62997,
       "num": 62997,
       "word": "武艺 比大学生还清澈",
@@ -3092,11 +3140,19 @@
     },
     {
       "raw_hot": 62833,
-      "num": 979421,
+      "num": 1184751,
       "word": "2024大国重器硬核上分",
       "onboard_time": 1735378999,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61444,
+      "num": 876469,
+      "word": "在急诊科动手打人已超出家暴范畴",
+      "onboard_time": 1735396101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58055,
@@ -3184,6 +3240,14 @@
       "word": "小小的我彩蛋",
       "onboard_time": 1735319296,
       "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48965,
+      "num": 451956,
+      "word": "从小羊肖央到恶狼肖央",
+      "onboard_time": 1735395560,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -3308,7 +3372,7 @@
     },
     {
       "raw_hot": 35178,
-      "num": 278232,
+      "num": 450305,
       "word": "电车冬季不焦虑",
       "onboard_time": 1735394420,
       "rank": 19,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735396618917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2478769,
+        "num": 2478769,
+        "word": "WTT回应樊振东陈梦退出世排",
+        "onboard_time": 1735395203,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1267227,
+        "num": 1267227,
+        "word": "王鹤棣疑似失去所有cp",
+        "onboard_time": 1735393883,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56932,
+        "num": 1184751,
+        "word": "2024大国重器硬核上分",
+        "onboard_time": 1735378999,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1740841,
+        "num": 1176498,
+        "word": "玺尚酒店",
+        "onboard_time": 1735393281,
+        "rank": 3,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 1167099,
+        "num": 1167099,
+        "word": "专家回应新毒株来了",
+        "onboard_time": 1735394542,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1076766,
+        "num": 1076766,
+        "word": "车厘子价格跌至每斤15元",
+        "onboard_time": 1735391781,
+        "rank": 5,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 1011807,
+        "num": 1011807,
+        "word": "冉莹颖儿子打生长激素27天见成效",
+        "onboard_time": 1735389501,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 992481,
+        "num": 992481,
+        "word": "王鹤棣演唱会上座率",
+        "onboard_time": 1735390819,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273969,
+        "num": 908522,
+        "word": "高铁动车8号9号车厢为什么不通",
+        "onboard_time": 1735392441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61444,
+        "num": 876469,
+        "word": "在急诊科动手打人已超出家暴范畴",
+        "onboard_time": 1735396101,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861325,
+        "num": 861325,
+        "word": "赵露思曾说非常不想做这一行",
+        "onboard_time": 1735379479,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744674,
+        "num": 744674,
+        "word": "普京对阿航坠机事件致歉",
+        "onboard_time": 1735395502,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 592925,
+        "num": 592925,
+        "word": "逐玉剧组",
+        "onboard_time": 1735391240,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197779,
+        "num": 540371,
+        "word": "WTT发布声明",
+        "onboard_time": 1735396042,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524529,
+        "num": 524529,
+        "word": "庆余年",
+        "onboard_time": 1735388000,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512792,
+        "num": 512792,
+        "word": "2024全球最帅一百张面孔",
+        "onboard_time": 1735385300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476763,
+        "num": 476763,
+        "word": "张若昀范闲",
+        "onboard_time": 1735394482,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48965,
+        "num": 451956,
+        "word": "从小羊肖央到恶狼肖央",
+        "onboard_time": 1735395560,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24233,
+        "num": 450305,
+        "word": "电车冬季不焦虑",
+        "onboard_time": 1735394420,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 449064,
+        "num": 449064,
+        "word": "床前放个橘子睡得香",
+        "onboard_time": 1735394661,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471286,
+        "num": 448928,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735384938,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447650,
+        "num": 447650,
+        "word": "赵露思曾说目标体重是70多斤",
+        "onboard_time": 1735393522,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399871,
+        "num": 399871,
+        "word": "挂件女主",
+        "onboard_time": 1735394602,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328011,
+        "num": 328011,
+        "word": "妻子剖腹产丈夫请搬家公司搬回家",
+        "onboard_time": 1735392503,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84115,
+        "num": 315587,
+        "word": "樊振东陈梦会促使WTT改变规定吗",
+        "onboard_time": 1735393401,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315381,
+        "num": 315381,
+        "word": "曝徐娇被起诉",
+        "onboard_time": 1735374500,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313480,
+        "num": 313480,
+        "word": "躯体化症状是什么病",
+        "onboard_time": 1735384820,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284705,
+        "num": 284705,
+        "word": "李昀锐用孟子义的粉饼补妆",
+        "onboard_time": 1735387821,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255856,
+        "num": 255856,
+        "word": "一枕春华剧组",
+        "onboard_time": 1735395203,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247036,
+        "num": 247036,
+        "word": "北京卫视公布跨年晚会全阵容",
+        "onboard_time": 1735393702,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224748,
+        "num": 224748,
+        "word": "西村力kpop首帅",
+        "onboard_time": 1735389980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223607,
+        "num": 223607,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243526,
+        "num": 220749,
+        "word": "李昀锐人生照片",
+        "onboard_time": 1735394542,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215541,
+        "num": 215541,
+        "word": "大奉打更人",
+        "onboard_time": 1735383079,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203343,
+        "num": 203343,
+        "word": "裸辞一年后找了个上1休1的工作",
+        "onboard_time": 1735374680,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212601,
+        "num": 202836,
+        "word": "大奉打更人 搞笑",
+        "onboard_time": 1735395142,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201759,
+        "num": 201759,
+        "word": "范丞丞没来跑男但主打陪伴式录制",
+        "onboard_time": 1735395082,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191685,
+        "num": 191685,
+        "word": "陈思诚全员上桌的含金量",
+        "onboard_time": 1735392321,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188295,
+        "num": 188295,
+        "word": "你好星期六下周是猎罪图鉴",
+        "onboard_time": 1735396042,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 159892,
+        "word": "晓华常只睡两个小时喝浓茶提神",
+        "onboard_time": 1735390819,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186176,
+        "num": 159628,
+        "word": "邵子恒决赛舞台",
+        "onboard_time": 1735392921,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185750,
+        "num": 153698,
+        "word": "2025国内卫视跨年阵容",
+        "onboard_time": 1735391361,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180042,
+        "num": 148557,
+        "word": "现在拨打的电话吻戏",
+        "onboard_time": 1735396282,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163571,
+        "num": 143303,
+        "word": "孟子义说没想到下雪爆剧爆到九重紫",
+        "onboard_time": 1735392081,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160903,
+        "num": 136695,
+        "word": "腾讯云包场崩了",
+        "onboard_time": 1735391961,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136571,
+        "num": 136571,
+        "word": "吃火锅必不可少的三样菜",
+        "onboard_time": 1735382718,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133984,
+        "num": 133984,
+        "word": "情久零封TTG",
+        "onboard_time": 1735394602,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128863,
+        "num": 128863,
+        "word": "威尔斯50分",
+        "onboard_time": 1735395862,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127642,
+        "num": 127642,
+        "word": "男子口含玻璃渣吃饭敲诈餐厅",
+        "onboard_time": 1735388481,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118729,
+        "num": 118729,
+        "word": "梳理王楚钦被怼脸拍照事件",
+        "onboard_time": 1735396521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记最深的牵挂#"
+    }
+  }
+}
