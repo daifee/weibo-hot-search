@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735424409390,
+  "endTime": 1735425455953,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124304,
+      "num": 115676,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123157,
       "num": 177565,
       "word": "亡母金镯被熔儿子回应要求父亲道歉",
@@ -313,14 +321,6 @@
       "onboard_time": 1735404197,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 113486,
-      "num": 67630,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 104386,
@@ -555,6 +555,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 26029,
+      "num": 26029,
+      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
+      "onboard_time": 1735422072,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25708,
       "num": 25708,
       "word": "电影误杀3",
@@ -579,7 +587,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23119,
+      "raw_hot": 23511,
       "num": 26233,
       "word": "朱丽叶饰演者奥丽维娅赫西去世",
       "onboard_time": 1735421591,
@@ -603,20 +611,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20872,
+      "num": 24649,
+      "word": "任时完好帅",
+      "onboard_time": 1735424351,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20599,
       "num": 44294,
       "word": "埃文凯尔收到40年历史收藏品感动落泪",
       "onboard_time": 1735419911,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19760,
-      "num": 21079,
-      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
-      "onboard_time": 1735422072,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19261,
@@ -651,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16231,
-      "num": 16231,
-      "word": "任时完好帅",
-      "onboard_time": 1735424351,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 13160,
       "num": 49733,
       "word": "又一名日军慰安妇制度受害者去世",
@@ -691,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9236,
+      "num": 48587,
+      "word": "你最期待谁的跨年晚会节目",
+      "onboard_time": 1735423991,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8960,
       "num": 25745,
       "word": "它是无言的队友也是亲人朋友",
@@ -705,14 +713,6 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 7023,
-      "num": 48587,
-      "word": "你最期待谁的跨年晚会节目",
-      "onboard_time": 1735423991,
-      "rank": 9,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

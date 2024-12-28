@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735424409390,
+  "endTime": 1735425455953,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -64755,6 +64755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124304,
+      "num": 115676,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124289,
       "num": 124289,
       "word": "2025年贺岁纪念币有条银蛇",
@@ -68233,14 +68241,6 @@
       "onboard_time": 1734218954,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113486,
-      "num": 67630,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 113414,
@@ -94747,6 +94747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26029,
+      "num": 26029,
+      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
+      "onboard_time": 1735422072,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26015,
       "num": 27341,
       "word": "电影好东西",
@@ -95803,6 +95811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 23511,
+      "num": 26233,
+      "word": "朱丽叶饰演者奥丽维娅赫西去世",
+      "onboard_time": 1735421591,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23436,
       "num": 24072,
       "word": "歌谣大战",
@@ -95936,14 +95952,6 @@
       "word": "李现你的cmos出问题了",
       "onboard_time": 1733565260,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 23119,
-      "num": 26233,
-      "word": "朱丽叶饰演者奥丽维娅赫西去世",
-      "onboard_time": 1735421591,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -96899,6 +96907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20872,
+      "num": 24649,
+      "word": "任时完好帅",
+      "onboard_time": 1735424351,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20849,
       "num": 30389,
       "word": "早上肉夹馍晚上吃晚茶",
@@ -97241,14 +97257,6 @@
       "onboard_time": 1735360220,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19760,
-      "num": 21079,
-      "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
-      "onboard_time": 1735422072,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19720,
@@ -98761,14 +98769,6 @@
       "onboard_time": 1733898799,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16231,
-      "num": 16231,
-      "word": "任时完好帅",
-      "onboard_time": 1735424351,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 16226,
@@ -101291,6 +101291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9236,
+      "num": 48587,
+      "word": "你最期待谁的跨年晚会节目",
+      "onboard_time": 1735423991,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 9185,
       "num": 361196,
       "word": "韩国禁止紧急戒严核心人员离韩",
@@ -101913,14 +101921,6 @@
       "onboard_time": 1733085798,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7023,
-      "num": 48587,
-      "word": "你最期待谁的跨年晚会节目",
-      "onboard_time": 1735423991,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 7013,
