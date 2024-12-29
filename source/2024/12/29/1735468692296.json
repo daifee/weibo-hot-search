@@ -1,0 +1,410 @@
+{
+  "runTime": 1735468692296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5800124,
+        "num": 5800124,
+        "word": "韩国客机着火179人遇难",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2348822,
+        "num": 2348822,
+        "word": "幸存韩国乘务员回忆空难",
+        "onboard_time": 1735461438,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169357,
+        "num": 1629267,
+        "word": "中国的全球最快高铁列车亮相",
+        "onboard_time": 1735461020,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1142187,
+        "num": 1142187,
+        "word": "樊振东收到罚款文件后当天就签名",
+        "onboard_time": 1735463719,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 640742,
+        "num": 640742,
+        "word": "韩失事客机下一航班为济州飞北京",
+        "onboard_time": 1735456819,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 593242,
+        "num": 593242,
+        "word": "蒋勤勤 孩子不幸是对妈妈加倍的惩罚",
+        "onboard_time": 1735464740,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 587382,
+        "num": 587382,
+        "word": "济州航空客机全部为波音制造",
+        "onboard_time": 1735465160,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 404911,
+        "num": 404911,
+        "word": "难哄 任性",
+        "onboard_time": 1735457719,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397925,
+        "num": 397925,
+        "word": "女子撞玛莎拉蒂赔3.2万后悔了",
+        "onboard_time": 1735459580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80059,
+        "num": 390830,
+        "word": "南部战区位黄岩岛周边战备警巡",
+        "onboard_time": 1735466119,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 1166201,
+        "num": 385731,
+        "word": "杨幂发烧咳嗽",
+        "onboard_time": 1735467680,
+        "rank": 10,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 618328,
+        "num": 381118,
+        "word": "空空日记把道歉视频删了",
+        "onboard_time": 1735456281,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 457124,
+        "num": 375967,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398918,
+        "num": 362957,
+        "word": "韩国乘客坠机前与家人最后对话曝光",
+        "onboard_time": 1735454059,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 361775,
+        "num": 361775,
+        "word": "李昀锐 孟子义带给我的太多了",
+        "onboard_time": 1735465219,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256388,
+        "num": 333814,
+        "word": "小电话女主",
+        "onboard_time": 1735463301,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221785,
+        "num": 332289,
+        "word": "AAA",
+        "onboard_time": 1735448301,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331468,
+        "num": 331468,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225704,
+        "num": 329844,
+        "word": "鸟击通常不会造成起落架不能放出",
+        "onboard_time": 1735466300,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24072,
+        "num": 329328,
+        "word": "付航演绎酸甜苦辣每一面",
+        "onboard_time": 1735466839,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443141,
+        "num": 327051,
+        "word": "原打算乘韩国失事客机的中国游客发声",
+        "onboard_time": 1735464259,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 370161,
+        "num": 325121,
+        "word": "女子忘拔充电器把家给烧光",
+        "onboard_time": 1735467680,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323125,
+        "num": 323125,
+        "word": "韩国一网吧发生瓦斯爆炸",
+        "onboard_time": 1735466359,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305487,
+        "num": 305487,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263349,
+        "num": 263349,
+        "word": "小莫发声支持樊振东",
+        "onboard_time": 1735467739,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291564,
+        "num": 258719,
+        "word": "韩国济州航空高管集体鞠躬道歉",
+        "onboard_time": 1735463420,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245754,
+        "num": 245754,
+        "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
+        "onboard_time": 1735459940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215667,
+        "num": 215667,
+        "word": "杜江霍思燕带娃和狗看帕丁顿熊",
+        "onboard_time": 1735467739,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292173,
+        "num": 215231,
+        "word": "赵露思方对接发文",
+        "onboard_time": 1735444161,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9735,
+        "num": 212120,
+        "word": "小小的我刘春和是一名真的猛士",
+        "onboard_time": 1735467680,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 936689,
+        "num": 212103,
+        "word": "韩国空难发布会现场家属大哭大吼",
+        "onboard_time": 1735467680,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211254,
+        "num": 211254,
+        "word": "荷兰一波音客机降落时冲出跑道",
+        "onboard_time": 1735454419,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206359,
+        "num": 206359,
+        "word": "张杰 三亚",
+        "onboard_time": 1735468159,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195066,
+        "num": 195066,
+        "word": "SEVENTEEN上海签售",
+        "onboard_time": 1735468220,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193723,
+        "num": 193723,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 193365,
+        "num": 193365,
+        "word": "许多伤亡因乘客被抛出飞机机身造成",
+        "onboard_time": 1735463778,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 178762,
+        "word": "妈妈以为我买了老破小会后悔",
+        "onboard_time": 1735465880,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190711,
+        "num": 175082,
+        "word": "专家称韩国空难或因机组操作不当",
+        "onboard_time": 1735467739,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167974,
+        "num": 167974,
+        "word": "在厕所里发现了人生意义",
+        "onboard_time": 1735460719,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 180082,
+        "num": 164700,
+        "word": "韩国起火飞机黑匣子已找到",
+        "onboard_time": 1735456160,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158492,
+        "num": 158492,
+        "word": "易烊千玺电影小小的我路演视频",
+        "onboard_time": 1735467019,
+        "rank": 40,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 177262,
+        "num": 158256,
+        "word": "韩国起火客机有10亿美元保险",
+        "onboard_time": 1735466659,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157752,
+        "num": 157752,
+        "word": "佑灰",
+        "onboard_time": 1735462159,
+        "rank": 42,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "小小的我 脑瘫患者",
+        "onboard_time": 1735463180,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143228,
+        "num": 143228,
+        "word": "佟丽娅我有解药先救导演",
+        "onboard_time": 1735467979,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134358,
+        "num": 134358,
+        "word": "加拿大一飞机着陆滑行时起火",
+        "onboard_time": 1735456401,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127994,
+        "num": 127994,
+        "word": "韩国客机坠落事故最新消息",
+        "onboard_time": 1735447101,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127869,
+        "num": 127869,
+        "word": "王楚钦打乒乓球的初心",
+        "onboard_time": 1735465100,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125321,
+        "num": 125321,
+        "word": "韩国济州航空致歉",
+        "onboard_time": 1735456879,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117691,
+        "num": 117691,
+        "word": "孟子义合照时偷看李昀锐",
+        "onboard_time": 1735468639,
+        "rank": 49,
+        "category": "剧集,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735467683182,
+  "endTime": 1735468692296,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -139,8 +139,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1130695,
-      "num": 300826,
+      "raw_hot": 1166201,
+      "num": 385731,
+      "word": "杨幂发烧咳嗽",
+      "onboard_time": 1735467680,
+      "rank": 10,
+      "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 1142187,
+      "num": 1142187,
       "word": "樊振东收到罚款文件后当天就签名",
       "onboard_time": 1735463719,
       "rank": 34,
@@ -168,6 +176,14 @@
       "word": "荷兰一波音客机降落时冲出跑道",
       "onboard_time": 1735454419,
       "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 936689,
+      "num": 212103,
+      "word": "韩国空难发布会现场家属大哭大吼",
+      "onboard_time": 1735467680,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587382,
+      "num": 587382,
+      "word": "济州航空客机全部为波音制造",
+      "onboard_time": 1735465160,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 574908,
       "num": 487782,
       "word": "姜涛全球最帅面孔第二",
@@ -444,7 +468,7 @@
     },
     {
       "raw_hot": 467507,
-      "num": 244160,
+      "num": 327051,
       "word": "原打算乘韩国失事客机的中国游客发声",
       "onboard_time": 1735464259,
       "rank": 23,
@@ -489,14 +513,6 @@
       "onboard_time": 1735438518,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 428466,
-      "num": 428466,
-      "word": "济州航空客机全部为波音制造",
-      "onboard_time": 1735465160,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 427555,
@@ -579,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370161,
+      "num": 325121,
+      "word": "女子忘拔充电器把家给烧光",
+      "onboard_time": 1735467680,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370046,
       "num": 370046,
       "word": "中国新高铁列车外形科幻风",
@@ -601,6 +625,14 @@
       "onboard_time": 1735429153,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 361775,
+      "num": 361775,
+      "word": "李昀锐 孟子义带给我的太多了",
+      "onboard_time": 1735465219,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 353573,
@@ -633,14 +665,6 @@
       "onboard_time": 1735396642,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338985,
-      "num": 338985,
-      "word": "李昀锐 孟子义带给我的太多了",
-      "onboard_time": 1735465219,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 330292,
@@ -697,6 +721,14 @@
       "onboard_time": 1735453280,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 323125,
+      "num": 323125,
+      "word": "韩国一网吧发生瓦斯爆炸",
+      "onboard_time": 1735466359,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 320816,
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 277666,
-      "num": 277666,
+      "num": 333814,
       "word": "小电话女主",
       "onboard_time": 1735463301,
       "rank": 28,
@@ -865,6 +897,14 @@
       "onboard_time": 1735445601,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263349,
+      "num": 263349,
+      "word": "小莫发声支持樊振东",
+      "onboard_time": 1735467739,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 260005,
@@ -939,14 +979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237409,
-      "num": 189011,
-      "word": "韩国一网吧发生瓦斯爆炸",
-      "onboard_time": 1735466359,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 234676,
       "num": 272457,
       "word": "范世錡 有点羞耻但还是想说",
@@ -961,6 +993,14 @@
       "onboard_time": 1735440139,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225704,
+      "num": 329844,
+      "word": "鸟击通常不会造成起落架不能放出",
+      "onboard_time": 1735466300,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 221395,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1735449801,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215667,
+      "num": 215667,
+      "word": "杜江霍思燕带娃和狗看帕丁顿熊",
+      "onboard_time": 1735467739,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 214229,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1735448301,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206359,
+      "num": 206359,
+      "word": "张杰 三亚",
+      "onboard_time": 1735468159,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 206084,
@@ -1235,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195066,
+      "num": 195066,
+      "word": "SEVENTEEN上海签售",
+      "onboard_time": 1735468220,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194236,
       "num": 177948,
       "word": "王鹤棣演唱会上座率",
@@ -1273,6 +1337,14 @@
       "onboard_time": 1735453400,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190711,
+      "num": 175082,
+      "word": "专家称韩国空难或因机组操作不当",
+      "onboard_time": 1735467739,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190570,
@@ -1435,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175604,
-      "num": 216182,
-      "word": "鸟击通常不会造成起落架不能放出",
-      "onboard_time": 1735466300,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 173183,
       "num": 173183,
       "word": "肖战郭靖坐姿",
@@ -1473,6 +1537,14 @@
       "onboard_time": 1735461200,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169357,
+      "num": 1629267,
+      "word": "中国的全球最快高铁列车亮相",
+      "onboard_time": 1735461020,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 168895,
@@ -1651,14 +1723,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148425,
-      "num": 1513182,
-      "word": "中国的全球最快高铁列车亮相",
-      "onboard_time": 1735461020,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 147841,
       "num": 425435,
       "word": "阿鲁纳转发数十条WTT声明下评论",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1735445901,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143228,
+      "num": 143228,
+      "word": "佟丽娅我有解药先救导演",
+      "onboard_time": 1735467979,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 142985,
@@ -1993,6 +2065,14 @@
       "onboard_time": 1735461080,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117691,
+      "num": 117691,
+      "word": "孟子义合照时偷看李昀锐",
+      "onboard_time": 1735468639,
+      "rank": 49,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 117340,
@@ -2281,6 +2361,14 @@
       "onboard_time": 1735445300,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 80059,
+      "num": 390830,
+      "word": "南部战区位黄岩岛周边战备警巡",
+      "onboard_time": 1735466119,
+      "rank": 9,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 79303,
@@ -2635,8 +2723,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23881,
-      "num": 141404,
+      "raw_hot": 24072,
+      "num": 329328,
       "word": "付航演绎酸甜苦辣每一面",
       "onboard_time": 1735466839,
       "rank": 36,
@@ -2761,6 +2849,14 @@
       "onboard_time": 1735414031,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9735,
+      "num": 212120,
+      "word": "小小的我刘春和是一名真的猛士",
+      "onboard_time": 1735467680,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 9236,
