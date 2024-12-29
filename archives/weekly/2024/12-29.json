@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735428941218,
+  "endTime": 1735437009862,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -19,12 +19,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3025440,
+      "num": 3050880,
+      "word": "韩国载181人飞机降落时起火",
+      "onboard_time": 1735433958,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1558343,
+      "num": 1558343,
+      "word": "抓紧去个税APP确认信息",
+      "onboard_time": 1735432277,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 779590,
       "num": 779590,
       "word": "WTT回应樊振东陈梦退出世排",
       "onboard_time": 1735395203,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 759503,
+      "num": 759503,
+      "word": "勒布伦兄弟回应WTT声明",
+      "onboard_time": 1735432938,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 683671,
+      "num": 683671,
+      "word": "黄子韬说低估了大家的能力",
+      "onboard_time": 1735415412,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 662114,
+      "num": 662114,
+      "word": "当妈妈花4300元网购了一个亭子",
+      "onboard_time": 1735433357,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588280,
@@ -35,8 +75,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586240,
+      "num": 586240,
+      "word": "韩国客机起火28人死亡",
+      "onboard_time": 1735434137,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 574908,
-      "num": 282229,
+      "num": 487782,
       "word": "姜涛全球最帅面孔第二",
       "onboard_time": 1735399583,
       "rank": 10,
@@ -59,6 +107,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427555,
+      "num": 427555,
+      "word": "韩国起火客机起落架没有放下",
+      "onboard_time": 1735434977,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 423618,
+      "num": 423618,
+      "word": "韩国起火客机疑似撞鸟",
+      "onboard_time": 1735434858,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 413555,
       "num": 413555,
       "word": "专家回应新毒株来了",
@@ -76,11 +140,19 @@
     },
     {
       "raw_hot": 367056,
-      "num": 203500,
+      "num": 258047,
       "word": "卿卿日常五美2年后重聚大奉",
       "onboard_time": 1735397725,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362370,
+      "num": 362370,
+      "word": "WTT称樊振东陈梦可以重新回归",
+      "onboard_time": 1735429153,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 343821,
@@ -108,7 +180,7 @@
     },
     {
       "raw_hot": 326755,
-      "num": 178042,
+      "num": 188989,
       "word": "冉莹颖儿子打生长激素27天见成效",
       "onboard_time": 1735389501,
       "rank": 21,
@@ -123,20 +195,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 319558,
-      "num": 241604,
-      "word": "黄子韬说低估了大家的能力",
-      "onboard_time": 1735415412,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292016,
       "num": 292016,
       "word": "车厘子价格跌至每斤15元",
       "onboard_time": 1735391781,
       "rank": 8,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 285758,
+      "num": 285758,
+      "word": "家长质疑布置作业晚被班主任踢出群",
+      "onboard_time": 1735436358,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269164,
@@ -148,15 +220,31 @@
     },
     {
       "raw_hot": 266544,
-      "num": 177973,
+      "num": 258686,
       "word": "大奉打更人口碑",
       "onboard_time": 1735397182,
       "rank": 23,
       "category": "剧集"
     },
     {
+      "raw_hot": 260005,
+      "num": 260005,
+      "word": "韩国客机冲撞起火视频",
+      "onboard_time": 1735435577,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257252,
+      "num": 257252,
+      "word": "韩国客机起火现场画面",
+      "onboard_time": 1735436358,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248550,
-      "num": 179424,
+      "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
       "onboard_time": 1735401080,
       "rank": 26,
@@ -169,6 +257,14 @@
       "onboard_time": 1735388000,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197577,
+      "num": 197577,
+      "word": "千万不要买电极式热水袋",
+      "onboard_time": 1735432997,
+      "rank": 23,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 194236,
@@ -187,12 +283,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190570,
+      "num": 190570,
+      "word": "多位外协选手发文质疑WTT回应",
+      "onboard_time": 1735435997,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184846,
       "num": 184846,
       "word": "俄击落乌战机富豪奖励百万",
       "onboard_time": 1735399461,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182966,
+      "num": 182966,
+      "word": "2025年总台春晚主创团队官宣",
+      "onboard_time": 1735436179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179898,
+      "num": 179898,
+      "word": "台军人持手枪卧射姿势被疑P图",
+      "onboard_time": 1735432336,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166793,
@@ -215,6 +335,30 @@
       "num": 177875,
       "word": "曝徐娇被起诉",
       "onboard_time": 1735374500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161094,
+      "num": 168368,
+      "word": "最强县级市市委书记调整",
+      "onboard_time": 1735427833,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155944,
+      "num": 164936,
+      "word": "摄像师你转头看看孟子义李昀锐呢",
+      "onboard_time": 1735431257,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145619,
+      "num": 145619,
+      "word": "黄子韬劝诫粉丝重在参与",
+      "onboard_time": 1735431076,
       "rank": 31,
       "category": "艺人"
     },
@@ -249,6 +393,14 @@
       "onboard_time": 1735398023,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135367,
+      "num": 135367,
+      "word": "四国总统就阿航坠机事件发声",
+      "onboard_time": 1735433537,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133027,
@@ -307,12 +459,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120911,
-      "num": 168368,
-      "word": "最强县级市市委书记调整",
-      "onboard_time": 1735427833,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 121764,
+      "num": 121764,
+      "word": "易烊千玺演技",
+      "onboard_time": 1735429755,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120532,
+      "num": 120532,
+      "word": "白鹿 不能cue的梗提前说",
+      "onboard_time": 1735434679,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 117340,
@@ -321,6 +481,14 @@
       "onboard_time": 1735392441,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116017,
+      "num": 116017,
+      "word": "有人自林中坠落",
+      "onboard_time": 1735430474,
+      "rank": 38,
+      "category": "读书作家"
     },
     {
       "raw_hot": 115755,
@@ -345,6 +513,22 @@
       "onboard_time": 1735404197,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 106877,
+      "num": 106877,
+      "word": "平台回应成都飞北京仅3元",
+      "onboard_time": 1735428554,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105162,
+      "num": 425435,
+      "word": "阿鲁纳转发数十条WTT声明下评论",
+      "onboard_time": 1735436179,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 104386,
@@ -419,6 +603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96360,
+      "num": 96360,
+      "word": "手把手教你确认个税专项附加扣除",
+      "onboard_time": 1735435337,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92714,
+      "num": 92714,
+      "word": "众星为樊振东送上祝福",
+      "onboard_time": 1735427833,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92014,
       "num": 177635,
       "word": "丁禹兮1228有你们呀",
@@ -459,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78504,
+      "num": 89269,
+      "word": "王鹤棣大奉打更人许七安还原度",
+      "onboard_time": 1735430655,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75799,
       "num": 141348,
       "word": "梳理王楚钦被怼脸拍照事件",
@@ -467,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75569,
+      "num": 1154572,
+      "word": "长白山森林漂流越夜越美丽",
+      "onboard_time": 1735400542,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 74170,
       "num": 141320,
       "word": "5点应对躯体化症状",
       "onboard_time": 1735399822,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72104,
-      "num": 558825,
-      "word": "长白山森林漂流越夜越美丽",
-      "onboard_time": 1735400542,
-      "rank": 2,
-      "category": "旅游"
     },
     {
       "raw_hot": 62759,
@@ -537,14 +745,6 @@
       "onboard_time": 1735426512,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49192,
-      "num": 59075,
-      "word": "众星为樊振东送上祝福",
-      "onboard_time": 1735427833,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 48052,
@@ -609,14 +809,6 @@
       "onboard_time": 1735399461,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 31183,
-      "num": 44007,
-      "word": "平台回应成都飞北京仅3元",
-      "onboard_time": 1735428554,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30719,

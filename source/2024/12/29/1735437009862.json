@@ -1,0 +1,410 @@
+{
+  "runTime": 1735437009862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3025440,
+        "num": 3050880,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1558343,
+        "num": 1558343,
+        "word": "抓紧去个税APP确认信息",
+        "onboard_time": 1735432277,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75569,
+        "num": 1154572,
+        "word": "长白山森林漂流越夜越美丽",
+        "onboard_time": 1735400542,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 759503,
+        "num": 759503,
+        "word": "勒布伦兄弟回应WTT声明",
+        "onboard_time": 1735432938,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683671,
+        "num": 683671,
+        "word": "黄子韬说低估了大家的能力",
+        "onboard_time": 1735415412,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662114,
+        "num": 662114,
+        "word": "当妈妈花4300元网购了一个亭子",
+        "onboard_time": 1735433357,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586240,
+        "num": 586240,
+        "word": "韩国客机起火28人死亡",
+        "onboard_time": 1735434137,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 487782,
+        "num": 487782,
+        "word": "姜涛全球最帅面孔第二",
+        "onboard_time": 1735399583,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427555,
+        "num": 427555,
+        "word": "韩国起火客机起落架没有放下",
+        "onboard_time": 1735434977,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105162,
+        "num": 425435,
+        "word": "阿鲁纳转发数十条WTT声明下评论",
+        "onboard_time": 1735436179,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423618,
+        "num": 423618,
+        "word": "韩国起火客机疑似撞鸟",
+        "onboard_time": 1735434858,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2254264,
+        "num": 423199,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421256,
+        "num": 421256,
+        "word": "半夜和男朋友吵架刷机票抢到3元票",
+        "onboard_time": 1735404916,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362370,
+        "num": 362370,
+        "word": "WTT称樊振东陈梦可以重新回归",
+        "onboard_time": 1735429153,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285758,
+        "num": 285758,
+        "word": "家长质疑布置作业晚被班主任踢出群",
+        "onboard_time": 1735436358,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260005,
+        "num": 260005,
+        "word": "韩国客机冲撞起火视频",
+        "onboard_time": 1735435577,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1367512,
+        "num": 259751,
+        "word": "赵露思委托魏笑报平安",
+        "onboard_time": 1735397003,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247854,
+        "num": 259337,
+        "word": "王太利看完误杀3不想跟肖央说话",
+        "onboard_time": 1735401080,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235053,
+        "num": 258686,
+        "word": "大奉打更人口碑",
+        "onboard_time": 1735397182,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205877,
+        "num": 258047,
+        "word": "卿卿日常五美2年后重聚大奉",
+        "onboard_time": 1735397725,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251648,
+        "num": 257781,
+        "word": "专家回应新毒株来了",
+        "onboard_time": 1735394542,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257252,
+        "num": 257252,
+        "word": "韩国客机起火现场画面",
+        "onboard_time": 1735436358,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215513,
+        "num": 215513,
+        "word": "普京对阿航坠机事件致歉",
+        "onboard_time": 1735395502,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197577,
+        "num": 197577,
+        "word": "千万不要买电极式热水袋",
+        "onboard_time": 1735432997,
+        "rank": 23,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 190570,
+        "num": 190570,
+        "word": "多位外协选手发文质疑WTT回应",
+        "onboard_time": 1735435997,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194746,
+        "num": 189943,
+        "word": "秋瓷炫儿子说我中国人",
+        "onboard_time": 1735400781,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188989,
+        "num": 188989,
+        "word": "冉莹颖儿子打生长激素27天见成效",
+        "onboard_time": 1735389501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182966,
+        "num": 182966,
+        "word": "2025年总台春晚主创团队官宣",
+        "onboard_time": 1735436179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179898,
+        "num": 179898,
+        "word": "台军人持手枪卧射姿势被疑P图",
+        "onboard_time": 1735432336,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155944,
+        "num": 164936,
+        "word": "摄像师你转头看看孟子义李昀锐呢",
+        "onboard_time": 1735431257,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161094,
+        "num": 161094,
+        "word": "最强县级市市委书记调整",
+        "onboard_time": 1735427833,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145619,
+        "num": 145619,
+        "word": "黄子韬劝诫粉丝重在参与",
+        "onboard_time": 1735431076,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "四国总统就阿航坠机事件发声",
+        "onboard_time": 1735433537,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129806,
+        "num": 129806,
+        "word": "车厘子价格跌至每斤15元",
+        "onboard_time": 1735391781,
+        "rank": 33,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 121764,
+        "num": 121764,
+        "word": "易烊千玺演技",
+        "onboard_time": 1735429755,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120532,
+        "num": 120532,
+        "word": "白鹿 不能cue的梗提前说",
+        "onboard_time": 1735434679,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120360,
+        "num": 120360,
+        "word": "同一天两个天王演唱会发生意外",
+        "onboard_time": 1735398984,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116144,
+        "num": 116144,
+        "word": "失语症",
+        "onboard_time": 1735399521,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116017,
+        "num": 116017,
+        "word": "有人自林中坠落",
+        "onboard_time": 1735430474,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 114023,
+        "num": 114023,
+        "word": "妻子剖腹产丈夫请搬家公司搬回家",
+        "onboard_time": 1735392503,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106877,
+        "num": 106877,
+        "word": "平台回应成都飞北京仅3元",
+        "onboard_time": 1735428554,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100738,
+        "num": 100738,
+        "word": "16岁男孩每天只睡5小时头先秃了",
+        "onboard_time": 1735380861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99744,
+        "num": 99744,
+        "word": "九重紫庆功宴",
+        "onboard_time": 1735396642,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99108,
+        "num": 99108,
+        "word": "庆余年",
+        "onboard_time": 1735388000,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98956,
+        "num": 98956,
+        "word": "王鹤棣演唱会上座率",
+        "onboard_time": 1735390819,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96360,
+        "num": 96360,
+        "word": "手把手教你确认个税专项附加扣除",
+        "onboard_time": 1735435337,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93272,
+        "num": 93272,
+        "word": "阿塞拜疆飞机坠毁前最后时刻曝光",
+        "onboard_time": 1735412652,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92714,
+        "num": 92714,
+        "word": "众星为樊振东送上祝福",
+        "onboard_time": 1735427833,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89277,
+        "num": 89277,
+        "word": "WTT回应樊振东陈梦退出世排",
+        "onboard_time": 1735395203,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78504,
+        "num": 89269,
+        "word": "王鹤棣大奉打更人许七安还原度",
+        "onboard_time": 1735430655,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调反腐决不能手软#"
+    }
+  }
+}
