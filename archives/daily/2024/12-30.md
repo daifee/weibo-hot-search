@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/30 00:25:11 ~ 2024/12/30 02:40:41
+本榜单时间：2024/12/30 00:25:11 ~ 2024/12/30 03:16:40
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ iG分组（热度：41468）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B8%A2%E7%BE%A4%E5%AE%B6%E9%95%BF%E5%86%8D%E5%85%A5%E7%BE%A4%E8%80%81%E5%B8%88%E5%8F%91%E8%A1%A8%E6%83%85%E5%8C%85%E6%AC%A2%E8%BF%8E%23" target="weibo">
+被踢群家长再入群老师发表情包欢迎（热度：37519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%AE%8C%E5%88%98%E6%98%A5%E5%92%8C%E5%8D%8A%E5%B9%B4%E8%BF%98%E6%9C%89%E8%82%8C%E8%82%89%E8%AE%B0%E5%BF%86%23" target="weibo">
 易烊千玺演完刘春和半年还有肌肉记忆（热度：37138）
 </a>
@@ -399,8 +405,32 @@ iG分组（热度：41468）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%9F%B3%E4%B9%90%E5%89%A7%E8%88%9E%E5%8F%B0%23" target="weibo">
+马嘉祺音乐剧舞台（热度：23063）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E9%A1%BE%E5%92%8C%E5%91%A8%E6%B7%B1%E7%9A%84%E5%B0%8F%E7%BE%8E%E6%BB%A1%E6%97%B6%E5%88%BB%23" target="weibo">
+回顾和周深的小美满时刻（热度：22423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%B9%B4%E6%B4%BE%E5%AF%B9%23" target="weibo">
+非正式跨年派对（热度：21690）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DRG%E6%88%98%E8%83%9C%E6%A2%A6%E4%B9%8B%E9%98%9FPro%23" target="weibo">
 DRG战胜梦之队Pro（热度：17214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%8930%E5%A4%A9%E5%B0%B1%E8%A6%81%E8%BF%87%E5%A4%A7%E5%B9%B4%23" target="weibo">
+还有30天就要过大年（热度：14588）
 </a>
 </li>
 
