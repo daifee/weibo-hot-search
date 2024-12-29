@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735460800239,
+  "endTime": 1735461578869,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1553728,
-      "num": 779828,
+      "num": 812712,
       "word": "韩失事客机下一航班为济州飞北京",
       "onboard_time": 1735456819,
       "rank": 17,
@@ -161,6 +161,22 @@
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 833649,
+      "num": 833649,
+      "word": "女子撞玛莎拉蒂赔3.2万后悔了",
+      "onboard_time": 1735459580,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805241,
+      "num": 805241,
+      "word": "难哄 任性",
+      "onboard_time": 1735457719,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 785783,
@@ -251,14 +267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 620839,
-      "num": 620839,
-      "word": "女子撞玛莎拉蒂赔3.2万后悔了",
-      "onboard_time": 1735459580,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 589462,
       "num": 589462,
       "word": "巴黎街头偶遇迪丽热巴",
@@ -323,12 +331,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 550398,
-      "num": 550398,
-      "word": "难哄 任性",
-      "onboard_time": 1735457719,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 552293,
+      "num": 552293,
+      "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
+      "onboard_time": 1735459940,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 519549,
@@ -355,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 509331,
+      "num": 492480,
+      "word": "韩国济州航空致歉",
+      "onboard_time": 1735456879,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 509118,
       "num": 551588,
       "word": "韩国起火客机175名乘客名单公布",
@@ -369,14 +385,6 @@
       "onboard_time": 1735438939,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 492480,
-      "num": 492480,
-      "word": "韩国济州航空致歉",
-      "onboard_time": 1735456879,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 492114,
@@ -571,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333877,
+      "num": 292305,
+      "word": "在厕所里发现了人生意义",
+      "onboard_time": 1735460719,
+      "rank": 30,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 330292,
       "num": 178022,
       "word": "邵子恒C位出道",
@@ -659,20 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311039,
-      "num": 231740,
-      "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
-      "onboard_time": 1735459940,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 307459,
       "num": 307459,
       "word": "10元手冲咖啡阿姨回应不火",
       "onboard_time": 1735445419,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292271,
+      "num": 292271,
+      "word": "王鹤棣演唱会送粉丝项链",
+      "onboard_time": 1735458439,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 292016,
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263394,
-      "num": 263394,
-      "word": "王鹤棣演唱会送粉丝项链",
-      "onboard_time": 1735458439,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 260005,
       "num": 260005,
       "word": "韩国客机冲撞起火视频",
@@ -817,14 +825,6 @@
       "onboard_time": 1735450520,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240834,
-      "num": 158473,
-      "word": "在厕所里发现了人生意义",
-      "onboard_time": 1735460719,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 240265,
@@ -1059,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199513,
+      "num": 167265,
+      "word": "济州航空7C2216",
+      "onboard_time": 1735456437,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 198251,
       "num": 336570,
       "word": "樊振东感谢大家关心",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1735390819,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193712,
+      "num": 193712,
+      "word": "幸存韩国乘务员回忆空难",
+      "onboard_time": 1735461438,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193419,
@@ -1243,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180153,
-      "num": 163920,
-      "word": "济州航空7C2216",
-      "onboard_time": 1735456437,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "台军人持手枪卧射姿势被疑P图",
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170106,
+      "num": 170106,
+      "word": "胡先煦担心融入不了大家",
+      "onboard_time": 1735461200,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168895,
       "num": 424873,
       "word": "韩方称机场塔台曾发出鸟群冲撞警报",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1735454360,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 163297,
+      "num": 163297,
+      "word": "女婿早起帮环卫工岳母扫了两年马路",
+      "onboard_time": 1735460839,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162463,
@@ -1627,12 +1651,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131143,
+      "num": 512133,
+      "word": "南方气温显著偏高",
+      "onboard_time": 1735460420,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130344,
       "num": 177798,
       "word": "张若昀范闲",
       "onboard_time": 1735394482,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129861,
+      "num": 129861,
+      "word": "檀健次海口路透",
+      "onboard_time": 1735461380,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129406,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1735397422,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124037,
+      "num": 127372,
+      "word": "退出世界排名究竟意味着什么",
+      "onboard_time": 1735459219,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123157,
@@ -1699,12 +1747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117403,
-      "num": 127372,
-      "word": "退出世界排名究竟意味着什么",
-      "onboard_time": 1735459219,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 117820,
+      "num": 299912,
+      "word": "许七安 下雪了",
+      "onboard_time": 1735461080,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 117340,
@@ -1819,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102482,
+      "num": 233603,
+      "word": "年轻人开始反向攀比了",
+      "onboard_time": 1735457599,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100830,
       "num": 177687,
       "word": "现在拨打的电话吻戏",
@@ -1915,28 +1971,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91635,
-      "num": 233603,
-      "word": "年轻人开始反向攀比了",
-      "onboard_time": 1735457599,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89594,
       "num": 177670,
       "word": "周深从少管我到有没有人管管我",
       "onboard_time": 1735400123,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89427,
-      "num": 501808,
-      "word": "南方气温显著偏高",
-      "onboard_time": 1735460420,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86361,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1735399940,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84697,
+      "num": 204896,
+      "word": "幸存韩国乘务员事发时坐在机尾",
+      "onboard_time": 1735461020,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83402,
@@ -2001,6 +2049,14 @@
       "onboard_time": 1735445361,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76195,
+      "num": 549677,
+      "word": "中国的全球最快高铁列车亮相",
+      "onboard_time": 1735461020,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 75799,
@@ -2052,7 +2108,7 @@
     },
     {
       "raw_hot": 67880,
-      "num": 127922,
+      "num": 232128,
       "word": "中国国家队的2024",
       "onboard_time": 1735459819,
       "rank": 47,
@@ -2433,6 +2489,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 4680,
+      "num": 814315,
+      "word": "探寻中国电影的第一",
+      "onboard_time": 1735461559,
+      "rank": 2,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
@@ -2447,6 +2511,9 @@
     },
     {
       "word": "#跟着总书记打卡宝藏博物馆#"
+    },
+    {
+      "word": "#新年贺词里向上的中国#"
     }
   ]
 }
