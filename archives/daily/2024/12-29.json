@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735479287489,
+  "endTime": 1735481934836,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2680389,
+      "num": 2680389,
+      "word": "韩国客机事故是小错叠加成大错",
+      "onboard_time": 1735478060,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2279154,
       "num": 2279154,
       "word": "樊振东回应WTT声明",
@@ -113,6 +121,14 @@
       "onboard_time": 1735446982,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1685256,
+      "num": 1685256,
+      "word": "医生称咖啡患癌无法避免是基因问题",
+      "onboard_time": 1735478122,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1665816,
@@ -251,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 968194,
+      "num": 968194,
+      "word": "李晨个人巡回演唱会",
+      "onboard_time": 1735480520,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 943117,
       "num": 943117,
       "word": "韩国客机着火2名生还者均为乘务员",
@@ -289,14 +313,6 @@
       "onboard_time": 1735459580,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 832580,
-      "num": 832580,
-      "word": "韩国客机事故是小错叠加成大错",
-      "onboard_time": 1735478060,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 805241,
@@ -433,6 +449,14 @@
       "onboard_time": 1735465160,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 631605,
+      "num": 326808,
+      "word": "赵露思的头像是化茧成蝶",
+      "onboard_time": 1735480820,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 624863,
@@ -619,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472573,
+      "num": 472573,
+      "word": "古巨基 你还是叫我书桓吧",
+      "onboard_time": 1735479081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469495,
       "num": 375780,
       "word": "女子忘拔充电器把家给烧光",
@@ -657,6 +689,14 @@
       "onboard_time": 1735456401,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 438875,
+      "num": 325612,
+      "word": "姜贞羽来了古装就别走了",
+      "onboard_time": 1735480460,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 437511,
@@ -753,14 +793,6 @@
       "onboard_time": 1735471760,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392882,
-      "num": 392882,
-      "word": "医生称咖啡患癌无法避免是基因问题",
-      "onboard_time": 1735478122,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 391470,
@@ -907,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 327907,
+      "num": 327907,
+      "word": "广州一地铁口出现密集隔离柱",
+      "onboard_time": 1735480702,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326755,
       "num": 188989,
       "word": "冉莹颖儿子打生长激素27天见成效",
@@ -936,6 +976,14 @@
       "word": "韩国一网吧发生瓦斯爆炸",
       "onboard_time": 1735466359,
       "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 323044,
+      "num": 323044,
+      "word": "韩失事航班近30天执飞11次仅2次准时",
+      "onboard_time": 1735477642,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -995,6 +1043,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 307767,
+      "num": 307767,
+      "word": "韩国知情人士称有毒气体进入机体",
+      "onboard_time": 1735480881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 307690,
       "num": 204371,
       "word": "许多伤亡因乘客被抛出飞机机身造成",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1735445419,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300381,
+      "num": 325294,
+      "word": "祁煜 海神的婚礼",
+      "onboard_time": 1735481482,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 294803,
@@ -1091,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277658,
+      "num": 277658,
+      "word": "70多位租客被房东要求10天内搬离",
+      "onboard_time": 1735480162,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277372,
       "num": 315065,
       "word": "WTT发王楚钦年度总结",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1735467739,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263039,
-      "num": 263039,
-      "word": "韩失事航班近30天执飞11次仅2次准时",
-      "onboard_time": 1735477642,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 260005,
@@ -1369,6 +1433,14 @@
       "onboard_time": 1735451658,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213477,
+      "num": 213477,
+      "word": "被班主任踢出群家长重新入群",
+      "onboard_time": 1735480101,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212697,
@@ -1659,6 +1731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194873,
+      "num": 194873,
+      "word": "樊振东称不会退役",
+      "onboard_time": 1735479261,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194812,
+      "num": 194812,
+      "word": "天王杯",
+      "onboard_time": 1735481422,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194236,
       "num": 177948,
       "word": "王鹤棣演唱会上座率",
@@ -1673,6 +1761,14 @@
       "onboard_time": 1735402700,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192474,
+      "num": 192474,
+      "word": "昭昭墨墨庆功宴直拍",
+      "onboard_time": 1735481842,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 191956,
@@ -1747,14 +1843,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 188328,
-      "num": 188328,
-      "word": "古巨基 你还是叫我书桓吧",
-      "onboard_time": 1735479081,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188013,
       "num": 188013,
       "word": "第五人格",
@@ -1763,12 +1851,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187409,
+      "num": 187409,
+      "word": "樊振东王楚钦2024最后一天巅峰对决",
+      "onboard_time": 1735481842,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187164,
       "num": 187164,
       "word": "名侦探学院",
       "onboard_time": 1735453639,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186496,
+      "num": 263072,
+      "word": "紧急迫降的含金量在持续上升",
+      "onboard_time": 1735471760,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186046,
@@ -1793,6 +1897,14 @@
       "onboard_time": 1735460839,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183687,
+      "num": 183687,
+      "word": "iG分组",
+      "onboard_time": 1735481002,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 182669,
@@ -1913,14 +2025,6 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171754,
-      "num": 171754,
-      "word": "樊振东称不会退役",
-      "onboard_time": 1735479261,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 171670,
@@ -2115,20 +2219,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157895,
-      "num": 263072,
-      "word": "紧急迫降的含金量在持续上升",
-      "onboard_time": 1735471760,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157678,
       "num": 157678,
       "word": "段奕宏 你们浓眉大眼的最会骗人",
       "onboard_time": 1735452140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156969,
+      "num": 353327,
+      "word": "中国榫卯建筑硬抗8级地震",
+      "onboard_time": 1735477101,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156391,
@@ -2193,14 +2297,6 @@
       "onboard_time": 1735459639,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150550,
-      "num": 353327,
-      "word": "中国榫卯建筑硬抗8级地震",
-      "onboard_time": 1735477101,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150308,
@@ -2659,6 +2755,14 @@
       "category": "美食,网红"
     },
     {
+      "raw_hot": 111256,
+      "num": 327809,
+      "word": "女子处理发霉年糕患上肺炎",
+      "onboard_time": 1735481482,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111091,
       "num": 227112,
       "word": "三岁太秀了",
@@ -2811,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92855,
+      "num": 1094051,
+      "word": "2024年国内十大新闻",
+      "onboard_time": 1735479743,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "众星为樊振东送上祝福",
@@ -2889,6 +3001,14 @@
       "onboard_time": 1735445300,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 80216,
+      "num": 497589,
+      "word": "阿航空难原因首次明确",
+      "onboard_time": 1735481659,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80059,
@@ -3235,6 +3355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 29134,
+      "num": 196809,
+      "word": "林一的崽崽好可爱",
+      "onboard_time": 1735479261,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28499,
       "num": 312701,
       "word": "郭刚堂失而复得的人生下半场",
@@ -3387,6 +3515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16203,
+      "num": 215236,
+      "word": "新中式怎么搭既应景又吸睛",
+      "onboard_time": 1735481659,
+      "rank": 39,
+      "category": "时尚,其它"
+    },
+    {
       "raw_hot": 15495,
       "num": 321258,
       "word": "平妖往事广播剧主役直播",
@@ -3473,14 +3609,6 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 6184,
-      "num": 166648,
-      "word": "林一的崽崽好可爱",
-      "onboard_time": 1735479261,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
