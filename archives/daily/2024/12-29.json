@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735456803082,
+  "endTime": 1735457724003,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1665816,
+      "num": 809315,
+      "word": "韩国乘客坠机前与家人最后对话曝光",
+      "onboard_time": 1735454059,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1623904,
       "num": 1623904,
       "word": "网红咖啡去世",
@@ -105,14 +113,6 @@
       "onboard_time": 1735432277,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1542897,
-      "num": 809315,
-      "word": "韩国乘客坠机前与家人最后对话曝光",
-      "onboard_time": 1735454059,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 995957,
@@ -131,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 937436,
+      "num": 937436,
+      "word": "荷兰一波音客机降落时冲出跑道",
+      "onboard_time": 1735454419,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 917863,
       "num": 917863,
       "word": "AAA",
@@ -139,11 +147,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 810777,
-      "num": 810777,
-      "word": "荷兰一波音客机降落时冲出跑道",
-      "onboard_time": 1735454419,
-      "rank": 37,
+      "raw_hot": 785783,
+      "num": 808649,
+      "word": "韩国起火飞机黑匣子已找到",
+      "onboard_time": 1735456160,
+      "rank": 4,
       "category": "海外新闻"
     },
     {
@@ -179,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712379,
+      "num": 712379,
+      "word": "空空日记把道歉视频删了",
+      "onboard_time": 1735456281,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 683671,
       "num": 683671,
       "word": "黄子韬说低估了大家的能力",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 660717,
-      "num": 176065,
+      "num": 352545,
       "word": "赵露思方对接发文",
       "onboard_time": 1735444161,
       "rank": 30,
@@ -331,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 492114,
+      "num": 492114,
+      "word": "韩国人说在中国才能吃到真正的火锅",
+      "onboard_time": 1735454719,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 479695,
       "num": 479695,
       "word": "咖啡去世",
@@ -355,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454373,
-      "num": 454373,
-      "word": "韩国人说在中国才能吃到真正的火锅",
-      "onboard_time": 1735454719,
-      "rank": 9,
-      "category": "美食"
+      "raw_hot": 446007,
+      "num": 446007,
+      "word": "加拿大一飞机着陆滑行时起火",
+      "onboard_time": 1735456401,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 437511,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 435163,
-      "num": 296222,
+      "num": 351306,
       "word": "鸟击",
       "onboard_time": 1735452200,
       "rank": 41,
@@ -408,6 +432,14 @@
       "word": "韩国起火客机疑似撞鸟",
       "onboard_time": 1735434858,
       "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 423129,
+      "num": 423129,
+      "word": "韩失事客机下一航班为济州飞北京",
+      "onboard_time": 1735456819,
+      "rank": 17,
       "category": "海外新闻"
     },
     {
@@ -531,14 +563,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 329501,
-      "num": 329501,
-      "word": "空空日记把道歉视频删了",
-      "onboard_time": 1735456281,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 329438,
       "num": 329438,
       "word": "计划3天的全家游只玩了3个小时",
@@ -564,7 +588,7 @@
     },
     {
       "raw_hot": 323299,
-      "num": 323299,
+      "num": 396918,
       "word": "MBC演艺大赏取消",
       "onboard_time": 1735453280,
       "rank": 23,
@@ -601,14 +625,6 @@
       "onboard_time": 1735439058,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311542,
-      "num": 808649,
-      "word": "韩国起火飞机黑匣子已找到",
-      "onboard_time": 1735456160,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 307459,
@@ -681,6 +697,14 @@
       "onboard_time": 1735440139,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277361,
+      "num": 277361,
+      "word": "韩国济州航空致歉",
+      "onboard_time": 1735456879,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 269164,
@@ -819,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218675,
+      "num": 441517,
+      "word": "韩坠机事故客机在尝试二次着陆时坠毁",
+      "onboard_time": 1735456100,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216529,
       "num": 295539,
       "word": "秦牛正威孔语浩去年订婚",
@@ -827,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214092,
-      "num": 174141,
-      "word": "加拿大一飞机着陆滑行时起火",
-      "onboard_time": 1735456401,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 214229,
+      "num": 375198,
+      "word": "封神质子团为费翔新片打call",
+      "onboard_time": 1735457179,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 214057,
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206084,
+      "num": 323611,
+      "word": "迪丽热巴可爱会遗传",
+      "onboard_time": 1735454479,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204832,
       "num": 217933,
       "word": "国王vs湖人",
@@ -937,14 +977,6 @@
       "onboard_time": 1735452800,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201122,
-      "num": 201122,
-      "word": "迪丽热巴可爱会遗传",
-      "onboard_time": 1735454479,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 200817,
@@ -1009,6 +1041,14 @@
       "onboard_time": 1735453220,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195356,
+      "num": 265968,
+      "word": "秋瓷炫儿子中文韩语自由切换",
+      "onboard_time": 1735454899,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 194236,
@@ -1139,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180153,
+      "num": 163920,
+      "word": "济州航空7C2216",
+      "onboard_time": 1735456437,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "台军人持手枪卧射姿势被疑P图",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1735454300,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178615,
-      "num": 163920,
-      "word": "济州航空7C2216",
-      "onboard_time": 1735456437,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173183,
@@ -1185,6 +1225,14 @@
       "onboard_time": 1735448421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168895,
+      "num": 424873,
+      "word": "韩方称机场塔台曾发出鸟群冲撞警报",
+      "onboard_time": 1735456940,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166793,
@@ -1235,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159982,
+      "num": 212981,
+      "word": "秦牛正威孔语浩分手原因",
+      "onboard_time": 1735455500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159420,
       "num": 214471,
       "word": "全球每年发生飞鸟撞机事件两万多起",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1735452140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156751,
+      "num": 436629,
+      "word": "调查称机尾乘客生还率比前排高40%",
+      "onboard_time": 1735455200,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156391,
@@ -1299,28 +1363,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 149728,
-      "num": 149728,
-      "word": "秋瓷炫儿子中文韩语自由切换",
-      "onboard_time": 1735454899,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149038,
       "num": 163679,
       "word": "失事客机173人韩籍2人泰籍",
       "onboard_time": 1735453939,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148310,
-      "num": 148310,
-      "word": "秦牛正威孔语浩分手原因",
-      "onboard_time": 1735455500,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 147841,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1735447101,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143817,
+      "num": 143817,
+      "word": "孟子义海口路透",
+      "onboard_time": 1735456760,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 143521,
@@ -1403,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140656,
-      "num": 308296,
-      "word": "韩坠机事故客机在尝试二次着陆时坠毁",
-      "onboard_time": 1735456100,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 140170,
       "num": 177931,
       "word": "妻子剖腹产丈夫请搬家公司搬回家",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1735445540,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138839,
-      "num": 138839,
-      "word": "孟子义海口路透",
-      "onboard_time": 1735456760,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 138667,
@@ -1475,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134433,
+      "num": 270498,
+      "word": "98年女孩帮老人洗澡很自豪做助浴师",
+      "onboard_time": 1735449081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133027,
       "num": 178083,
       "word": "16岁男孩每天只睡5小时头先秃了",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1735397422,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123587,
-      "num": 298014,
-      "word": "调查称机尾乘客生还率比前排高40%",
-      "onboard_time": 1735455200,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123157,
@@ -1603,6 +1643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113491,
+      "num": 841646,
+      "word": "东北夜间漂流已经nextlevel",
+      "onboard_time": 1735442780,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111696,
       "num": 111696,
       "word": "李子柒祝你一步步抵达自己的桃源",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1735428554,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105567,
-      "num": 841646,
-      "word": "东北夜间漂流已经nextlevel",
-      "onboard_time": 1735442780,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 104386,
@@ -1761,14 +1801,6 @@
       "onboard_time": 1735446201,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 91449,
-      "num": 270498,
-      "word": "98年女孩帮老人洗澡很自豪做助浴师",
-      "onboard_time": 1735449081,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89594,
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 56920,
-      "num": 266064,
+      "num": 353272,
       "word": "浓眉36分15篮板",
       "onboard_time": 1735456579,
       "rank": 24,
@@ -2035,6 +2067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 32727,
+      "num": 179053,
+      "word": "有好事发生前的明显信号",
+      "onboard_time": 1735453160,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32273,
       "num": 49272,
       "word": "泽连斯基就坠机事件向阿塞拜疆表示慰问",
@@ -2065,14 +2105,6 @@
       "onboard_time": 1735450043,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29859,
-      "num": 179053,
-      "word": "有好事发生前的明显信号",
-      "onboard_time": 1735453160,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26774,
@@ -2240,6 +2272,14 @@
       "word": "它是无言的队友也是亲人朋友",
       "onboard_time": 1735412113,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7935,
+      "num": 134482,
+      "word": "年轻人开始反向攀比了",
+      "onboard_time": 1735457599,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
