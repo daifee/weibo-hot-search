@@ -1,0 +1,410 @@
+{
+  "runTime": 1735441678809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5465495,
+        "num": 6715495,
+        "word": "韩国飞机起火死亡升至58人",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2279154,
+        "num": 2279154,
+        "word": "樊振东回应WTT声明",
+        "onboard_time": 1735440080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83402,
+        "num": 1692102,
+        "word": "长白山森林漂流越夜越美丽",
+        "onboard_time": 1735400542,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1592411,
+        "num": 1592411,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 651599,
+        "num": 651599,
+        "word": "抓紧去个税APP确认信息",
+        "onboard_time": 1735432277,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760695,
+        "num": 643633,
+        "word": "张继科说打了十三针封闭",
+        "onboard_time": 1735438099,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635507,
+        "num": 635507,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 430311,
+        "num": 633781,
+        "word": "影视剧难哄",
+        "onboard_time": 1735438518,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39983,
+        "num": 604509,
+        "word": "樊振东称上周接到最新处罚规定通知",
+        "onboard_time": 1735441642,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228454,
+        "num": 578878,
+        "word": "时速400公里高铁列车来了",
+        "onboard_time": 1735439120,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2135317,
+        "num": 536778,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524852,
+        "num": 524852,
+        "word": "家长质疑布置作业晚被班主任踢出群",
+        "onboard_time": 1735436358,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513755,
+        "num": 513755,
+        "word": "韩国起火客机无中国籍乘客",
+        "onboard_time": 1735438998,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 458820,
+        "num": 458820,
+        "word": "中国CR450动车组样车发布",
+        "onboard_time": 1735439120,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418150,
+        "num": 418150,
+        "word": "没结婚北大毕业的86岁奶奶接受采访",
+        "onboard_time": 1735438939,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408839,
+        "num": 408839,
+        "word": "韩国客机起火现场画面",
+        "onboard_time": 1735436358,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 400405,
+        "num": 400405,
+        "word": "2025年总台春晚主创团队官宣",
+        "onboard_time": 1735436179,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348822,
+        "num": 348822,
+        "word": "韩国起火客机已有3人获救",
+        "onboard_time": 1735438398,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 285784,
+        "num": 343080,
+        "word": "王嘉尔回复粉丝",
+        "onboard_time": 1735439959,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271683,
+        "num": 339055,
+        "word": "杨紫也太适合大唐了吧",
+        "onboard_time": 1735439058,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1660343,
+        "num": 338858,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338619,
+        "num": 338619,
+        "word": "勒布伦兄弟回应WTT声明",
+        "onboard_time": 1735432938,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316422,
+        "num": 316422,
+        "word": "计划3天的全家游只玩了3个小时",
+        "onboard_time": 1735438879,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272400,
+        "num": 315397,
+        "word": "巴黎街头偶遇迪丽热巴",
+        "onboard_time": 1735441040,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277372,
+        "num": 315065,
+        "word": "WTT发王楚钦年度总结",
+        "onboard_time": 1735440139,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289909,
+        "num": 313184,
+        "word": "黑神话主题曲在央视晚会开唱了",
+        "onboard_time": 1735440320,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268301,
+        "num": 312039,
+        "word": "全球最帅面孔",
+        "onboard_time": 1735439359,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 258454,
+        "num": 310670,
+        "word": "秋瓷炫于晓光韩国新家",
+        "onboard_time": 1735439178,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255739,
+        "num": 309830,
+        "word": "难哄主题曲是五月天唱的",
+        "onboard_time": 1735440139,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214373,
+        "num": 307951,
+        "word": "姜涛全球最帅面孔第二",
+        "onboard_time": 1735399583,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1183376,
+        "num": 307237,
+        "word": "赵露思委托魏笑报平安",
+        "onboard_time": 1735397003,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306572,
+        "num": 306572,
+        "word": "韩国起火客机疑似撞鸟",
+        "onboard_time": 1735434858,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257248,
+        "num": 257248,
+        "word": "韩国起火客机起落架没有放下",
+        "onboard_time": 1735434977,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238002,
+        "num": 238002,
+        "word": "法国多名乒乓球运动员就WTT声明发声",
+        "onboard_time": 1735440139,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228182,
+        "num": 228182,
+        "word": "愿2025年的你总有美好在路上",
+        "onboard_time": 1735440139,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 227752,
+        "num": 227752,
+        "word": "WTT称樊振东陈梦可以重新回归",
+        "onboard_time": 1735429153,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208640,
+        "num": 208640,
+        "word": "丁禹兮委屈大家了",
+        "onboard_time": 1735440739,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203078,
+        "num": 203078,
+        "word": "当妈妈花4300元网购了一个亭子",
+        "onboard_time": 1735433357,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201540,
+        "num": 201540,
+        "word": "韩国客机救火现场全是警笛声",
+        "onboard_time": 1735437918,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198251,
+        "num": 198251,
+        "word": "樊振东感谢大家关心",
+        "onboard_time": 1735441281,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199543,
+        "num": 197970,
+        "word": "黄子韬说低估了大家的能力",
+        "onboard_time": 1735415412,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197600,
+        "num": 197600,
+        "word": "国色芳华",
+        "onboard_time": 1735440139,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195791,
+        "num": 195791,
+        "word": "剧集成何体统",
+        "onboard_time": 1735440679,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178680,
+        "num": 178680,
+        "word": "四川南充一女童从13楼坠下",
+        "onboard_time": 1735437799,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167205,
+        "num": 167205,
+        "word": "白鹿又白录了",
+        "onboard_time": 1735440799,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161543,
+        "num": 161543,
+        "word": "半夜和男朋友吵架刷机票抢到3元票",
+        "onboard_time": 1735404916,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "鱿鱼游戏2",
+        "onboard_time": 1735438219,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152643,
+        "num": 152643,
+        "word": "大奉打更人口碑",
+        "onboard_time": 1735397182,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140185,
+        "num": 140185,
+        "word": "普京对阿航坠机事件致歉",
+        "onboard_time": 1735395502,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138667,
+        "num": 138667,
+        "word": "劳模孙颖莎今年最后一赛",
+        "onboard_time": 1735440139,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调反腐决不能手软#"
+    }
+  }
+}
