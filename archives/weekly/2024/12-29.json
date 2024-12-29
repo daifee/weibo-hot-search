@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735489511133,
+  "endTime": 1735490411060,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -139,6 +139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1643077,
+      "num": 1643077,
+      "word": "空空日记发文回应",
+      "onboard_time": 1735487658,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1635785,
       "num": 487890,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -243,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1110285,
-      "num": 1110285,
-      "word": "空空日记发文回应",
-      "onboard_time": 1735487658,
-      "rank": 1,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1095861,
       "num": 541368,
       "word": "韩国7天国家哀悼",
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 998655,
+      "num": 998655,
+      "word": "遇龙",
+      "onboard_time": 1735487540,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 995957,
       "num": 995957,
       "word": "韩国载181人客机遭鸟击瞬间",
@@ -313,14 +321,6 @@
       "onboard_time": 1735454419,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 920154,
-      "num": 920154,
-      "word": "遇龙",
-      "onboard_time": 1735487540,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 917863,
@@ -409,6 +409,14 @@
       "onboard_time": 1735473560,
       "rank": 6,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 734327,
+      "num": 467965,
+      "word": "大奉打更人 短剧",
+      "onboard_time": 1735487240,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 727023,
@@ -593,14 +601,6 @@
       "onboard_time": 1735469539,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 531540,
-      "num": 327359,
-      "word": "大奉打更人 短剧",
-      "onboard_time": 1735487240,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 529637,
@@ -788,11 +788,19 @@
     },
     {
       "raw_hot": 434006,
-      "num": 325785,
+      "num": 362735,
       "word": "枭起青壤",
       "onboard_time": 1735486340,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431933,
+      "num": 431933,
+      "word": "阿塞拜疆总统说失事客机并非被故意击落",
+      "onboard_time": 1735488019,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 430311,
@@ -848,6 +856,14 @@
       "word": "秋瓷炫儿子说我中国人",
       "onboard_time": 1735400781,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 405180,
+      "num": 405180,
+      "word": "沈月亚洲最具影响力排名第一",
+      "onboard_time": 1735488981,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1305,14 +1321,6 @@
       "onboard_time": 1735477160,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264342,
-      "num": 264342,
-      "word": "阿塞拜疆总统说失事客机并非被故意击落",
-      "onboard_time": 1735488019,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 264210,
@@ -2315,14 +2323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 166963,
-      "num": 278124,
-      "word": "沈月亚洲最具影响力排名第一",
-      "onboard_time": 1735488981,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166793,
       "num": 178116,
       "word": "床前放个橘子睡得香",
@@ -2995,6 +2995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109057,
+      "num": 109057,
+      "word": "九重紫",
+      "onboard_time": 1735486760,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108892,
       "num": 385653,
       "word": "哈尔滨冰雪大世界张泽禹冰雕",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1735389980,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104331,
-      "num": 104331,
-      "word": "九重紫",
-      "onboard_time": 1735486760,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 103282,
@@ -3363,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63624,
+      "num": 422779,
+      "word": "CR450动车内部长啥样",
+      "onboard_time": 1735489699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62759,
       "num": 177993,
       "word": "TTG教练泪洒采访",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1735383079,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38850,
+      "num": 194684,
+      "word": "2025LPL抽签",
+      "onboard_time": 1735480402,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 38520,

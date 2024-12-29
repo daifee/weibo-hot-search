@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735489511133,
+  "endTime": 1735490411060,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -11,8 +11,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1110285,
-      "num": 1110285,
+      "raw_hot": 1643077,
+      "num": 1643077,
       "word": "空空日记发文回应",
       "onboard_time": 1735487658,
       "rank": 1,
@@ -20,18 +20,26 @@
     },
     {
       "raw_hot": 999229,
-      "num": 358895,
+      "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
       "onboard_time": 1735482322,
       "rank": 10,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 920154,
-      "num": 920154,
+      "raw_hot": 998655,
+      "num": 998655,
       "word": "遇龙",
       "onboard_time": 1735487540,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 734327,
+      "num": 467965,
+      "word": "大奉打更人 短剧",
+      "onboard_time": 1735487240,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 590728,
-      "num": 352178,
+      "num": 413382,
       "word": "韩国知情人士称有毒气体进入机体",
       "onboard_time": 1735480881,
       "rank": 11,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 564830,
-      "num": 336263,
+      "num": 419998,
       "word": "幸存韩国乘务员回忆空难",
       "onboard_time": 1735461438,
       "rank": 12,
@@ -75,14 +83,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 531540,
-      "num": 327359,
-      "word": "大奉打更人 短剧",
-      "onboard_time": 1735487240,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 516410,
       "num": 516410,
       "word": "韩国大妈目击客机起火爆炸",
@@ -92,11 +92,27 @@
     },
     {
       "raw_hot": 434006,
-      "num": 325785,
+      "num": 362735,
       "word": "枭起青壤",
       "onboard_time": 1735486340,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431933,
+      "num": 431933,
+      "word": "阿塞拜疆总统说失事客机并非被故意击落",
+      "onboard_time": 1735488019,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 405180,
+      "num": 405180,
+      "word": "沈月亚洲最具影响力排名第一",
+      "onboard_time": 1735488981,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 375766,
@@ -161,14 +177,6 @@
       "onboard_time": 1735485201,
       "rank": 22,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 264342,
-      "num": 264342,
-      "word": "阿塞拜疆总统说失事客机并非被故意击落",
-      "onboard_time": 1735488019,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 242923,
@@ -249,14 +257,6 @@
       "onboard_time": 1735465160,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 166963,
-      "num": 278124,
-      "word": "沈月亚洲最具影响力排名第一",
-      "onboard_time": 1735488981,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 151586,
@@ -371,16 +371,24 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104331,
-      "num": 104331,
+      "raw_hot": 109057,
+      "num": 109057,
       "word": "九重紫",
       "onboard_time": 1735486760,
       "rank": 48,
       "category": "剧集"
     },
     {
+      "raw_hot": 63624,
+      "num": 422779,
+      "word": "CR450动车内部长啥样",
+      "onboard_time": 1735489699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59874,
-      "num": 978342,
+      "num": 1187268,
       "word": "2024年国内十大新闻",
       "onboard_time": 1735479743,
       "rank": 2,
@@ -391,6 +399,14 @@
       "num": 252537,
       "word": "iG分组",
       "onboard_time": 1735481002,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 38850,
+      "num": 194684,
+      "word": "2025LPL抽签",
+      "onboard_time": 1735480402,
       "rank": 24,
       "category": "电竞"
     },
