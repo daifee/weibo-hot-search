@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735450659556,
+  "endTime": 1735453771253,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -115,20 +115,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 943117,
+      "num": 943117,
+      "word": "韩国客机着火2名生还者均为乘务员",
+      "onboard_time": 1735448123,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 917863,
       "num": 917863,
       "word": "AAA",
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 873151,
-      "num": 873151,
-      "word": "韩国客机着火2名生还者均为乘务员",
-      "onboard_time": 1735448123,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 779590,
@@ -283,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 513415,
+      "num": 513415,
+      "word": "韩国失事客机175名乘客名单",
+      "onboard_time": 1735451600,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 509066,
       "num": 509066,
       "word": "没结婚北大毕业的86岁奶奶接受采访",
@@ -305,6 +313,14 @@
       "onboard_time": 1735447461,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 467194,
+      "num": 551588,
+      "word": "韩国起火客机175名乘客名单公布",
+      "onboard_time": 1735452259,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 458820,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 389902,
-      "num": 389902,
+      "num": 542771,
       "word": "刘昊然去了欧阳娜娜音乐会",
       "onboard_time": 1735449260,
       "rank": 32,
@@ -499,12 +515,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 317643,
+      "raw_hot": 318767,
       "num": 329584,
       "word": "秦牛正威 情绪不稳定的人一生远离",
       "onboard_time": 1735447822,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318074,
+      "num": 318074,
+      "word": "医生称咖啡所患罕见病和生活状态无关",
+      "onboard_time": 1735452619,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 315258,
@@ -547,6 +571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287719,
+      "num": 287719,
+      "word": "韩国客机着火事故的乘客短信",
+      "onboard_time": 1735449501,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 285784,
       "num": 395047,
       "word": "王嘉尔回复粉丝",
@@ -560,6 +592,14 @@
       "word": "韩客机起火前乘客曾发消息称鸟卡机翼",
       "onboard_time": 1735447582,
       "rank": 27,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 283002,
+      "num": 283002,
+      "word": "韩事故波音机型是廉航公司喜欢机型",
+      "onboard_time": 1735449921,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -611,14 +651,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 258132,
-      "num": 258132,
-      "word": "韩国客机着火事故的乘客短信",
-      "onboard_time": 1735449501,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -648,6 +680,14 @@
       "word": "九重紫这下是真真真真真结局了",
       "onboard_time": 1735446680,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241643,
+      "num": 241643,
+      "word": "大奉打更人作者否认阴阳王鹤棣",
+      "onboard_time": 1735450520,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228771,
+      "num": 228771,
+      "word": "MBC演艺大赏取消",
+      "onboard_time": 1735453280,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 221395,
       "num": 470238,
       "word": "全红婵点赞陈梦退出世排博文",
@@ -697,6 +745,14 @@
       "onboard_time": 1735442720,
       "rank": 12,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 219125,
+      "num": 295276,
+      "word": "樊振东退出世排还能参加国际比赛吗",
+      "onboard_time": 1735450520,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 216529,
@@ -715,6 +771,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213560,
+      "num": 213560,
+      "word": "文咏珊 女高学姐",
+      "onboard_time": 1735451658,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208875,
+      "num": 208875,
+      "word": "孟子义怎么会觉得李昀锐胆小",
+      "onboard_time": 1735453280,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208640,
       "num": 208640,
       "word": "丁禹兮委屈大家了",
@@ -729,14 +801,6 @@
       "onboard_time": 1735432997,
       "rank": 23,
       "category": "幽默,科学科普"
-    },
-    {
-      "raw_hot": 208515,
-      "num": 295276,
-      "word": "樊振东退出世排还能参加国际比赛吗",
-      "onboard_time": 1735450520,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 208317,
@@ -763,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204832,
+      "num": 217933,
+      "word": "国王vs湖人",
+      "onboard_time": 1735452800,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203274,
       "num": 203274,
       "word": "恋与深空",
@@ -777,6 +849,14 @@
       "onboard_time": 1735446921,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201866,
+      "num": 201866,
+      "word": "胡先煦宋亚轩看了同一场陶喆演唱会",
+      "onboard_time": 1735452800,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 200817,
@@ -811,6 +891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 197724,
+      "num": 214266,
+      "word": "张远央视晚会观众大合唱嘉宾",
+      "onboard_time": 1735452200,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195791,
       "num": 195791,
       "word": "剧集成何体统",
@@ -843,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191370,
+      "num": 191370,
+      "word": "黄景瑜孙千互拍都没对上焦",
+      "onboard_time": 1735453400,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190570,
       "num": 190570,
       "word": "多位外协选手发文质疑WTT回应",
@@ -865,6 +961,14 @@
       "onboard_time": 1735450221,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188505,
+      "num": 188505,
+      "word": "柯南樱花场超火爆加场",
+      "onboard_time": 1735453101,
+      "rank": 36,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 188013,
@@ -931,12 +1035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178722,
-      "num": 178722,
-      "word": "大奉打更人作者否认阴阳王鹤棣",
-      "onboard_time": 1735450520,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 177996,
+      "num": 177996,
+      "word": "东北雪饼猴吃干噎酸奶怀疑是混凝土",
+      "onboard_time": 1735453220,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173183,
@@ -947,12 +1051,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172217,
+      "num": 172217,
+      "word": "鸟击",
+      "onboard_time": 1735452200,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171670,
+      "num": 171670,
+      "word": "原神提纳里",
+      "onboard_time": 1735453220,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 171389,
       "num": 319778,
       "word": "这鬼大奉还会飞啊",
       "onboard_time": 1735448421,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168320,
+      "num": 168320,
+      "word": "王俊凯 大概是这样",
+      "onboard_time": 1735453580,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 166793,
@@ -979,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161336,
+      "num": 161336,
+      "word": "名侦探学院",
+      "onboard_time": 1735453639,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161094,
       "num": 168368,
       "word": "最强县级市市委书记调整",
@@ -995,12 +1131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159154,
+      "num": 159154,
+      "word": "白敬亭跟摄影师交换装备",
+      "onboard_time": 1735453700,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
       "onboard_time": 1735444520,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157678,
+      "num": 157678,
+      "word": "段奕宏 你们浓眉大眼的最会骗人",
+      "onboard_time": 1735452140,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 156391,
@@ -1353,6 +1505,14 @@
       "onboard_time": 1735394542,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99815,
+      "num": 220932,
+      "word": "第五人格赛事",
+      "onboard_time": 1735452560,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 99329,
@@ -1808,6 +1968,14 @@
       "word": "她们一直在等待道歉",
       "onboard_time": 1735416251,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10738,
+      "num": 179053,
+      "word": "有好事发生前的明显信号",
+      "onboard_time": 1735453160,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

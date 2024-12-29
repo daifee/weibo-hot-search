@@ -1,0 +1,410 @@
+{
+  "runTime": 1735453771253,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9779394,
+        "num": 9779394,
+        "word": "韩国客机着火179人遇难",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1048539,
+        "num": 1048539,
+        "word": "樊振东回应WTT声明",
+        "onboard_time": 1735440080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11523,
+        "num": 944729,
+        "word": "文化中国行唐诗里的秀美山川",
+        "onboard_time": 1735372582,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 943117,
+        "num": 943117,
+        "word": "韩国客机着火2名生还者均为乘务员",
+        "onboard_time": 1735448123,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 794632,
+        "num": 794632,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 749380,
+        "num": 749380,
+        "word": "AAA",
+        "onboard_time": 1735448301,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 553470,
+        "num": 553470,
+        "word": "韩国客机救火现场全是警笛声",
+        "onboard_time": 1735437918,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467194,
+        "num": 551588,
+        "word": "韩国起火客机175名乘客名单公布",
+        "onboard_time": 1735452259,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 449733,
+        "num": 548704,
+        "word": "李现演大唐第一美男",
+        "onboard_time": 1735447461,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364313,
+        "num": 542771,
+        "word": "刘昊然去了欧阳娜娜音乐会",
+        "onboard_time": 1735449260,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1457103,
+        "num": 540780,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538712,
+        "num": 538712,
+        "word": "韩国载181人客机遭鸟击瞬间",
+        "onboard_time": 1735442839,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 513415,
+        "num": 513415,
+        "word": "韩国失事客机175名乘客名单",
+        "onboard_time": 1735451600,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 552635,
+        "num": 511533,
+        "word": "韩国客机着火找到80具遗体99人失踪",
+        "onboard_time": 1735447341,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 503705,
+        "num": 503705,
+        "word": "韩国客机坠落事故最新消息",
+        "onboard_time": 1735447101,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 475185,
+        "num": 475185,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318767,
+        "num": 318767,
+        "word": "秦牛正威 情绪不稳定的人一生远离",
+        "onboard_time": 1735447822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318074,
+        "num": 318074,
+        "word": "医生称咖啡所患罕见病和生活状态无关",
+        "onboard_time": 1735452619,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287719,
+        "num": 287719,
+        "word": "韩国客机着火事故的乘客短信",
+        "onboard_time": 1735449501,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283002,
+        "num": 283002,
+        "word": "韩事故波音机型是廉航公司喜欢机型",
+        "onboard_time": 1735449921,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 982435,
+        "num": 277206,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253532,
+        "num": 253532,
+        "word": "刘亦菲十年前给女生的祝福太超前",
+        "onboard_time": 1735444879,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241643,
+        "num": 241643,
+        "word": "大奉打更人作者否认阴阳王鹤棣",
+        "onboard_time": 1735450520,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228771,
+        "num": 228771,
+        "word": "MBC演艺大赏取消",
+        "onboard_time": 1735453280,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99815,
+        "num": 220932,
+        "word": "第五人格赛事",
+        "onboard_time": 1735452560,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 689280,
+        "num": 220359,
+        "word": "赵露思委托魏笑报平安",
+        "onboard_time": 1735397003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219125,
+        "num": 219125,
+        "word": "樊振东退出世排还能参加国际比赛吗",
+        "onboard_time": 1735450520,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204832,
+        "num": 217933,
+        "word": "国王vs湖人",
+        "onboard_time": 1735452800,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217520,
+        "num": 217520,
+        "word": "时速400公里高铁列车来了",
+        "onboard_time": 1735439120,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 197724,
+        "num": 214266,
+        "word": "张远央视晚会观众大合唱嘉宾",
+        "onboard_time": 1735452200,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213560,
+        "num": 213560,
+        "word": "文咏珊 女高学姐",
+        "onboard_time": 1735451658,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213559,
+        "num": 213559,
+        "word": "大奉打更人作者肯定王鹤棣演技",
+        "onboard_time": 1735447461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208875,
+        "num": 208875,
+        "word": "孟子义怎么会觉得李昀锐胆小",
+        "onboard_time": 1735453280,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201866,
+        "num": 201866,
+        "word": "胡先煦宋亚轩看了同一场陶喆演唱会",
+        "onboard_time": 1735452800,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 196377,
+        "word": "韩国起火客机无中国籍乘客",
+        "onboard_time": 1735438998,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191370,
+        "num": 191370,
+        "word": "黄景瑜孙千互拍都没对上焦",
+        "onboard_time": 1735453400,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188505,
+        "num": 188505,
+        "word": "柯南樱花场超火爆加场",
+        "onboard_time": 1735453101,
+        "rank": 36,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 24266,
+        "num": 187386,
+        "word": "比亚迪登上院士齐聚的央视科晚",
+        "onboard_time": 1735449980,
+        "rank": 37,
+        "category": "综艺,汽车"
+      },
+      {
+        "raw_hot": 187342,
+        "num": 187342,
+        "word": "巴黎街头偶遇迪丽热巴",
+        "onboard_time": 1735441040,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10738,
+        "num": 179053,
+        "word": "有好事发生前的明显信号",
+        "onboard_time": 1735453160,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177996,
+        "num": 177996,
+        "word": "东北雪饼猴吃干噎酸奶怀疑是混凝土",
+        "onboard_time": 1735453220,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172217,
+        "num": 172217,
+        "word": "鸟击",
+        "onboard_time": 1735452200,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171716,
+        "num": 171716,
+        "word": "计划3天的全家游只玩了3个小时",
+        "onboard_time": 1735438879,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171670,
+        "num": 171670,
+        "word": "原神提纳里",
+        "onboard_time": 1735453220,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171238,
+        "num": 171238,
+        "word": "MBC歌谣大祭典",
+        "onboard_time": 1735449740,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168320,
+        "num": 168320,
+        "word": "王俊凯 大概是这样",
+        "onboard_time": 1735453580,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161336,
+        "num": 161336,
+        "word": "名侦探学院",
+        "onboard_time": 1735453639,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "白敬亭跟摄影师交换装备",
+        "onboard_time": 1735453700,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157678,
+        "num": 157678,
+        "word": "段奕宏 你们浓眉大眼的最会骗人",
+        "onboard_time": 1735452140,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157607,
+        "num": 157607,
+        "word": "秦牛正威孔语浩去年订婚",
+        "onboard_time": 1735449801,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024习近平主席出访的难忘瞬间#"
+    }
+  }
+}
