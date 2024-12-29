@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735461578869,
+  "endTime": 1735464043480,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -43,6 +43,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 3491285,
+      "num": 3491285,
+      "word": "幸存韩国乘务员回忆空难",
+      "onboard_time": 1735461438,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 3377669,
       "num": 2172349,
       "word": "赵露思失语症状",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2947920,
-      "num": 583716,
+      "num": 655410,
       "word": "秦牛正威分手",
       "onboard_time": 1735440679,
       "rank": 10,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1553728,
-      "num": 812712,
+      "num": 1187427,
       "word": "韩失事客机下一航班为济州飞北京",
       "onboard_time": 1735456819,
       "rank": 17,
@@ -185,6 +193,14 @@
       "onboard_time": 1735456160,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 779800,
+      "num": 779800,
+      "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
+      "onboard_time": 1735459940,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 779590,
@@ -331,14 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 552293,
-      "num": 552293,
-      "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
-      "onboard_time": 1735459940,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 519549,
       "num": 578878,
       "word": "时速400公里高铁列车来了",
@@ -385,6 +393,14 @@
       "onboard_time": 1735438939,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 505571,
+      "num": 292305,
+      "word": "在厕所里发现了人生意义",
+      "onboard_time": 1735460719,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 492114,
@@ -579,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333877,
-      "num": 292305,
-      "word": "在厕所里发现了人生意义",
-      "onboard_time": 1735460719,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 330292,
       "num": 178022,
       "word": "邵子恒C位出道",
@@ -673,6 +681,14 @@
       "onboard_time": 1735439058,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308692,
+      "num": 308692,
+      "word": "空空日记",
+      "onboard_time": 1735458799,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 307459,
@@ -787,6 +803,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255113,
+      "num": 255113,
+      "word": "佑灰",
+      "onboard_time": 1735462159,
+      "rank": 27,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236200,
+      "num": 236200,
+      "word": "小电话女主",
+      "onboard_time": 1735463301,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234676,
       "num": 272457,
       "word": "范世錡 有点羞耻但还是想说",
@@ -865,14 +897,6 @@
       "onboard_time": 1735440139,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222394,
-      "num": 222394,
-      "word": "空空日记",
-      "onboard_time": 1735458799,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 221395,
@@ -913,6 +937,14 @@
       "onboard_time": 1735449801,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215006,
+      "num": 215006,
+      "word": "韩国济州航空高管集体鞠躬道歉",
+      "onboard_time": 1735463420,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 214229,
@@ -1027,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202238,
+      "num": 202238,
+      "word": "小小的我",
+      "onboard_time": 1735463660,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201866,
       "num": 201866,
       "word": "胡先煦宋亚轩看了同一场陶喆演唱会",
@@ -1131,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193712,
-      "num": 193712,
-      "word": "幸存韩国乘务员回忆空难",
-      "onboard_time": 1735461438,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 193419,
       "num": 177892,
       "word": "檀健次亮片深V",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1735435997,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190516,
+      "num": 190516,
+      "word": "许多伤亡因乘客被抛出飞机机身造成",
+      "onboard_time": 1735463778,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190060,
@@ -1227,12 +1267,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183999,
+      "num": 219974,
+      "word": "女婿早起帮环卫工岳母扫了两年马路",
+      "onboard_time": 1735460839,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182669,
       "num": 229546,
       "word": "杨紫工作室 何惟芳纯享版",
       "onboard_time": 1735445901,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182523,
+      "num": 256647,
+      "word": "樊振东王楚钦孙颖莎王曼昱齐聚上海",
+      "onboard_time": 1735462639,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 182507,
@@ -1267,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179657,
+      "num": 179657,
+      "word": "樊振东收到罚款文件后当天就签名",
+      "onboard_time": 1735463719,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179155,
       "num": 179155,
       "word": "沈腾在厕所发现范丞丞",
@@ -1275,12 +1339,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176923,
+      "num": 176923,
+      "word": "孙颖莎汰渍见面会现场",
+      "onboard_time": 1735462880,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175966,
+      "num": 175966,
+      "word": "宋亚轩kiss彩蛋",
+      "onboard_time": 1735462759,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173265,
+      "num": 173265,
+      "word": "小小的我 脑瘫患者",
+      "onboard_time": 1735463180,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173183,
       "num": 173183,
       "word": "肖战郭靖坐姿",
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171817,
+      "num": 171817,
+      "word": "谁家综艺倒霉到收官场地被海冲没了",
+      "onboard_time": 1735463840,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 171670,
@@ -1331,12 +1427,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 163297,
-      "num": 163297,
-      "word": "女婿早起帮环卫工岳母扫了两年马路",
-      "onboard_time": 1735460839,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 163940,
+      "num": 163940,
+      "word": "赵又廷对林更新腹肌爱不释手",
+      "onboard_time": 1735461919,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 162463,
@@ -1372,11 +1468,19 @@
     },
     {
       "raw_hot": 159982,
-      "num": 212981,
+      "num": 289621,
       "word": "秦牛正威孔语浩分手原因",
       "onboard_time": 1735455500,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159780,
+      "num": 204896,
+      "word": "幸存韩国乘务员事发时坐在机尾",
+      "onboard_time": 1735461020,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159420,
@@ -1595,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139237,
+      "num": 139237,
+      "word": "多地20摄氏度气温进入2025",
+      "onboard_time": 1735462220,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138667,
       "num": 138667,
       "word": "劳模孙颖莎今年最后一赛",
@@ -1633,6 +1745,14 @@
       "onboard_time": 1735449081,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134055,
+      "num": 134055,
+      "word": "云合",
+      "onboard_time": 1735461680,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 133027,
@@ -1995,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84697,
-      "num": 204896,
-      "word": "幸存韩国乘务员事发时坐在机尾",
-      "onboard_time": 1735461020,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 83402,
       "num": 1692102,
       "word": "长白山森林漂流越夜越美丽",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1735445300,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 79303,
+      "num": 669858,
+      "word": "3只野生猕猴冰天雪地里泡温泉",
+      "onboard_time": 1735462459,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78504,
@@ -2267,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34746,
+      "num": 1671858,
+      "word": "探寻中国电影的第一",
+      "onboard_time": 1735461559,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33943,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
@@ -2379,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20884,
+      "num": 657061,
+      "word": "2024德玛西亚杯决赛",
+      "onboard_time": 1735437019,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 20599,
       "num": 44294,
       "word": "埃文凯尔收到40年历史收藏品感动落泪",
@@ -2443,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12811,
+      "num": 294019,
+      "word": "误杀3 23个孩子失踪N重反转",
+      "onboard_time": 1735463539,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 11940,
       "num": 46945,
       "word": "她们一直在等待道歉",
@@ -2489,14 +2633,6 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 4680,
-      "num": 814315,
-      "word": "探寻中国电影的第一",
-      "onboard_time": 1735461559,
-      "rank": 2,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
