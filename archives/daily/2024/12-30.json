@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735511846936,
+  "endTime": 1735514424484,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1451816,
+      "num": 1451816,
+      "word": "医保个人账户余额自动转结到明年用",
+      "onboard_time": 1735491735,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -35,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 909099,
+      "num": 909099,
+      "word": "被踢群家长再入群老师发表情包欢迎",
+      "onboard_time": 1735497792,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 734327,
       "num": 685925,
       "word": "大奉打更人 短剧",
       "onboard_time": 1735487240,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 722654,
-      "num": 722654,
-      "word": "医保个人账户余额自动转结到明年用",
-      "onboard_time": 1735491735,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 684816,
@@ -107,6 +115,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 501151,
+      "num": 501151,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 434006,
       "num": 362735,
       "word": "枭起青壤",
@@ -121,22 +137,6 @@
       "onboard_time": 1735488019,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 428554,
-      "num": 428554,
-      "word": "韩国客机遭鸟撞击画面曝光",
-      "onboard_time": 1735491675,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 405370,
-      "num": 405370,
-      "word": "被踢群家长再入群老师发表情包欢迎",
-      "onboard_time": 1735497792,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375766,
@@ -187,6 +187,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 279056,
+      "num": 254398,
+      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
+      "onboard_time": 1735499951,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 274075,
       "num": 274075,
       "word": "这个睡觉姿势是错误的",
@@ -201,6 +209,14 @@
       "onboard_time": 1735485201,
       "rank": 22,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 258413,
+      "num": 258413,
+      "word": "湖人篮网交易",
+      "onboard_time": 1735513936,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 242923,
@@ -283,6 +299,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 163060,
+      "num": 163060,
+      "word": "美国前总统吉米卡特去世",
+      "onboard_time": 1735513936,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157861,
+      "num": 157861,
+      "word": "李宇春 老了之后自然会调整",
+      "onboard_time": 1735505350,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "田曦薇的手机壳是临安公主",
@@ -300,7 +332,7 @@
     },
     {
       "raw_hot": 139624,
-      "num": 139624,
+      "num": 157751,
       "word": "王鹤棣泰国演唱会回应新歌争议",
       "onboard_time": 1735495272,
       "rank": 13,
@@ -352,14 +384,6 @@
       "word": "俄罗斯已就阿航空难向阿塞拜疆认错",
       "onboard_time": 1735482382,
       "rank": 42,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123681,
-      "num": 109101,
-      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
-      "onboard_time": 1735499951,
-      "rank": 40,
       "category": "海外新闻"
     },
     {
@@ -427,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68476,
-      "num": 68476,
-      "word": "李宇春 老了之后自然会调整",
-      "onboard_time": 1735505350,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 63197,
+      "num": 63197,
+      "word": "陈小纭大奉出场仅一个眼神",
+      "onboard_time": 1735514177,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62758,
+      "num": 62758,
+      "word": "世界排名规则由乒乓球专家设计",
+      "onboard_time": 1735513936,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60474,
+      "num": 60474,
+      "word": "段奕宏老兵到老公只需一个陈思诚",
+      "onboard_time": 1735512973,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 59874,
@@ -443,12 +483,52 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 59679,
+      "num": 59679,
+      "word": "肖战李宁直播",
+      "onboard_time": 1735471760,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58738,
       "num": 58738,
       "word": "马子佳当爸",
       "onboard_time": 1735492575,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54028,
+      "num": 54028,
+      "word": "樊振东王楚钦2024最后一天巅峰对决",
+      "onboard_time": 1735481842,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45705,
+      "num": 45705,
+      "word": "现在就出发",
+      "onboard_time": 1735514296,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 43527,
+      "num": 43527,
+      "word": "过去10年韩国发生67起飞机事故",
+      "onboard_time": 1735501271,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42652,
+      "num": 42652,
+      "word": "肖战说打动人的永远是真挚情感",
+      "onboard_time": 1735510332,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 41468,
@@ -539,14 +619,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 24660,
-      "num": 24660,
-      "word": "肖战说打动人的永远是真挚情感",
-      "onboard_time": 1735510332,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 24037,
       "num": 24037,
       "word": "杨紫何惟芳原声台词",
@@ -561,14 +633,6 @@
       "onboard_time": 1735498812,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22665,
-      "num": 23065,
-      "word": "过去10年韩国发生67起飞机事故",
-      "onboard_time": 1735501271,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 22423,
@@ -619,6 +683,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 18454,
+      "num": 837803,
+      "word": "2024他们让五星红旗飘扬国际赛场",
+      "onboard_time": 1735479561,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17214,
       "num": 110958,
       "word": "DRG战胜梦之队Pro",
@@ -657,14 +729,6 @@
       "onboard_time": 1735496532,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12591,
-      "num": 421113,
-      "word": "2024他们让五星红旗飘扬国际赛场",
-      "onboard_time": 1735479561,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 11440,
