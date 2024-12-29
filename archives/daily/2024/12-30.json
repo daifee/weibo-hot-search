@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735490411060,
+  "endTime": 1735492740914,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 734327,
-      "num": 467965,
+      "num": 685925,
       "word": "大奉打更人 短剧",
       "onboard_time": 1735487240,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 722654,
+      "num": 722654,
+      "word": "医保个人账户余额自动转结到明年用",
+      "onboard_time": 1735491735,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684816,
@@ -49,6 +57,14 @@
       "onboard_time": 1735478122,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 648026,
+      "num": 405180,
+      "word": "沈月亚洲最具影响力排名第一",
+      "onboard_time": 1735488981,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 590728,
@@ -105,14 +121,6 @@
       "onboard_time": 1735488019,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 405180,
-      "num": 405180,
-      "word": "沈月亚洲最具影响力排名第一",
-      "onboard_time": 1735488981,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 375766,
@@ -193,6 +201,14 @@
       "onboard_time": 1735485800,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221397,
+      "num": 221397,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 211121,
@@ -379,7 +395,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63624,
+      "raw_hot": 71671,
       "num": 422779,
       "word": "CR450动车内部长啥样",
       "onboard_time": 1735489699,
@@ -393,6 +409,14 @@
       "onboard_time": 1735479743,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 58738,
+      "num": 58738,
+      "word": "马子佳当爸",
+      "onboard_time": 1735492575,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 41468,
@@ -417,11 +441,22 @@
       "onboard_time": 1735489219,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17214,
+      "num": 110958,
+      "word": "DRG战胜梦之队Pro",
+      "onboard_time": 1735492154,
+      "rank": 24,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
     {
       "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    },
+    {
+      "word": "#新年贺词里向上的中国#"
     }
   ]
 }

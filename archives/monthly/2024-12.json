@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735490411060,
+  "endTime": 1735492740914,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -9372,7 +9372,7 @@
     },
     {
       "raw_hot": 734327,
-      "num": 467965,
+      "num": 685925,
       "word": "大奉打更人 短剧",
       "onboard_time": 1735487240,
       "rank": 14,
@@ -9673,6 +9673,14 @@
       "onboard_time": 1735373182,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722654,
+      "num": 722654,
+      "word": "医保个人账户余额自动转结到明年用",
+      "onboard_time": 1735491735,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 722635,
@@ -11433,6 +11441,14 @@
       "onboard_time": 1735284020,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 648026,
+      "num": 405180,
+      "word": "沈月亚洲最具影响力排名第一",
+      "onboard_time": 1735488981,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 647969,
@@ -20384,14 +20400,6 @@
       "word": "于正回应给琼瑶道歉",
       "onboard_time": 1733887700,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 405180,
-      "num": 405180,
-      "word": "沈月亚洲最具影响力排名第一",
-      "onboard_time": 1735488981,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -35553,6 +35561,14 @@
       "onboard_time": 1734969138,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 221397,
+      "num": 221397,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 221395,
@@ -81307,6 +81323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 71671,
+      "num": 422779,
+      "word": "CR450动车内部长啥样",
+      "onboard_time": 1735489699,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71632,
       "num": 227502,
       "word": "上官正义称遭千万悬赏买命",
@@ -83379,14 +83403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 63624,
-      "num": 422779,
-      "word": "CR450动车内部长啥样",
-      "onboard_time": 1735489699,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63622,
       "num": 352035,
       "word": "楼市止跌回稳初见成效",
@@ -84769,6 +84785,14 @@
       "onboard_time": 1733816420,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58738,
+      "num": 58738,
+      "word": "马子佳当爸",
+      "onboard_time": 1735492575,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 58688,
@@ -101345,6 +101369,14 @@
       "onboard_time": 1733628077,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17214,
+      "num": 110958,
+      "word": "DRG战胜梦之队Pro",
+      "onboard_time": 1735492154,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 17213,
