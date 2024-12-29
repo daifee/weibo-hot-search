@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735464043480,
+  "endTime": 1735464932478,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -43,8 +43,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 3491285,
-      "num": 3491285,
+      "raw_hot": 3563685,
+      "num": 3563685,
       "word": "幸存韩国乘务员回忆空难",
       "onboard_time": 1735461438,
       "rank": 30,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 509331,
-      "num": 492480,
+      "num": 628594,
       "word": "韩国济州航空致歉",
       "onboard_time": 1735456879,
       "rank": 30,
@@ -595,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336688,
+      "num": 245333,
+      "word": "樊振东收到罚款文件后当天就签名",
+      "onboard_time": 1735463719,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335425,
+      "num": 335425,
+      "word": "韩国济州航空高管集体鞠躬道歉",
+      "onboard_time": 1735463420,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 330292,
       "num": 178022,
       "word": "邵子恒C位出道",
@@ -691,12 +707,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 307690,
+      "num": 194628,
+      "word": "许多伤亡因乘客被抛出飞机机身造成",
+      "onboard_time": 1735463778,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 307459,
       "num": 307459,
       "word": "10元手冲咖啡阿姨回应不火",
       "onboard_time": 1735445419,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292915,
+      "num": 401829,
+      "word": "佑灰",
+      "onboard_time": 1735462159,
+      "rank": 27,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 292271,
@@ -721,6 +753,14 @@
       "onboard_time": 1735440320,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288397,
+      "num": 244160,
+      "word": "原打算乘韩国失事客机的中国游客发声",
+      "onboard_time": 1735464259,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 287719,
@@ -787,6 +827,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 264069,
+      "num": 264069,
+      "word": "小电话女主",
+      "onboard_time": 1735463301,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263657,
       "num": 274316,
       "word": "王嘉尔 不爱看别看",
@@ -801,14 +849,6 @@
       "onboard_time": 1735435577,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 255113,
-      "num": 255113,
-      "word": "佑灰",
-      "onboard_time": 1735462159,
-      "rank": 27,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 248550,
@@ -875,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236200,
-      "num": 236200,
-      "word": "小电话女主",
-      "onboard_time": 1735463301,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234676,
       "num": 272457,
       "word": "范世錡 有点羞耻但还是想说",
@@ -939,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215006,
-      "num": 215006,
-      "word": "韩国济州航空高管集体鞠躬道歉",
-      "onboard_time": 1735463420,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 214229,
       "num": 375198,
       "word": "封神质子团为费翔新片打call",
@@ -993,6 +1017,14 @@
       "onboard_time": 1735432997,
       "rank": 23,
       "category": "幽默,科学科普"
+    },
+    {
+      "raw_hot": 208440,
+      "num": 208440,
+      "word": "小小的我 脑瘫患者",
+      "onboard_time": 1735463180,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 208317,
@@ -1203,14 +1235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190516,
-      "num": 190516,
-      "word": "许多伤亡因乘客被抛出飞机机身造成",
-      "onboard_time": 1735463778,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 190060,
       "num": 190060,
       "word": "王楚然丞磊领衔主演网剧成何体统",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1735450221,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189001,
+      "num": 189001,
+      "word": "谁家综艺倒霉到收官场地被海冲没了",
+      "onboard_time": 1735463840,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 188505,
@@ -1323,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179657,
-      "num": 179657,
-      "word": "樊振东收到罚款文件后当天就签名",
-      "onboard_time": 1735463719,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179155,
       "num": 179155,
       "word": "沈腾在厕所发现范丞丞",
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 176923,
-      "num": 176923,
+      "num": 243038,
       "word": "孙颖莎汰渍见面会现场",
       "onboard_time": 1735462880,
       "rank": 36,
@@ -1355,28 +1379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173265,
-      "num": 173265,
-      "word": "小小的我 脑瘫患者",
-      "onboard_time": 1735463180,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 173183,
       "num": 173183,
       "word": "肖战郭靖坐姿",
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 171817,
-      "num": 171817,
-      "word": "谁家综艺倒霉到收官场地被海冲没了",
-      "onboard_time": 1735463840,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 171670,
@@ -1585,6 +1593,22 @@
       "onboard_time": 1735436179,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146837,
+      "num": 146837,
+      "word": "蒋勤勤 孩子不幸是对妈妈加倍的惩罚",
+      "onboard_time": 1735464740,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "感觉这鸟小时候抱过我",
+      "onboard_time": 1735464079,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 145619,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1735397422,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124639,
+      "num": 124639,
+      "word": "柳演锡演技",
+      "onboard_time": 1735464678,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 124037,
@@ -2235,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65262,
+      "num": 294019,
+      "word": "误杀3 23个孩子失踪N重反转",
+      "onboard_time": 1735463539,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62759,
       "num": 177993,
       "word": "TTG教练泪洒采访",
@@ -2395,6 +2435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34523,
+      "num": 2107546,
+      "word": "雄安新区机构改革",
+      "onboard_time": 1735464319,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 33943,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
@@ -2507,7 +2555,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20884,
+      "raw_hot": 21008,
       "num": 657061,
       "word": "2024德玛西亚杯决赛",
       "onboard_time": 1735437019,
@@ -2521,6 +2569,14 @@
       "onboard_time": 1735419911,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19910,
+      "num": 338511,
+      "word": "369战胜Flandre",
+      "onboard_time": 1735464619,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 19261,
@@ -2577,14 +2633,6 @@
       "onboard_time": 1735456338,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12811,
-      "num": 294019,
-      "word": "误杀3 23个孩子失踪N重反转",
-      "onboard_time": 1735463539,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 11940,
@@ -2650,6 +2698,9 @@
     },
     {
       "word": "#新年贺词里向上的中国#"
+    },
+    {
+      "word": "#感悟习近平主席新年贺词里的人民情怀#"
     }
   ]
 }
