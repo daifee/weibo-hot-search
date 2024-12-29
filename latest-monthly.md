@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/01 00:27:16 ~ 2024/12/29 17:35:32
+本榜单时间：2024/12/01 00:27:16 ~ 2024/12/29 18:21:23
 </p>
 </blockquote>
 <p>
@@ -3321,6 +3321,12 @@ iG官宣新阵容（热度：1210883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%94%B6%E5%88%B0%E7%BD%9A%E6%AC%BE%E6%96%87%E4%BB%B6%E5%90%8E%E5%BD%93%E5%A4%A9%E5%B0%B1%E7%AD%BE%E5%90%8D%23" target="weibo">
+樊振东收到罚款文件后当天就签名（热度：1130695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%BF%9C%E5%AB%81%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E5%B7%B2%E7%98%A6%E5%88%B0%E7%9A%AE%E5%8C%85%E9%AA%A8%23" target="weibo">
 家属称远嫁日本女子已瘦到皮包骨（热度：1127567）
 </a>
@@ -6005,12 +6011,6 @@ iPhone或迎六年来首次设计大换代（热度：806579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%93%84%20%E4%BB%BB%E6%80%A7%23" target="weibo">
 难哄 任性（热度：805241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD200w%E4%B8%80%E4%B8%AA%E7%9A%84%E8%9B%8B%E7%B3%95%23" target="weibo">
-成都200w一个的蛋糕（热度：804714）
 </a>
 </li>
 
