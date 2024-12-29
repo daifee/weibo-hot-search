@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735507171978,
+  "endTime": 1735508137865,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -283,20 +283,20 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 143818,
+      "num": 143818,
+      "word": "被踢群家长再入群老师发表情包欢迎",
+      "onboard_time": 1735497792,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141936,
       "num": 141936,
       "word": "第一次知道整完容后的后遗症",
       "onboard_time": 1735472720,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 140515,
-      "num": 140515,
-      "word": "被踢群家长再入群老师发表情包欢迎",
-      "onboard_time": 1735497792,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139624,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 61898,
-      "num": 53014,
+      "num": 54432,
       "word": "韩客机碰撞起火前6分钟塔台曾发警告",
       "onboard_time": 1735499951,
       "rank": 40,
@@ -507,20 +507,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32864,
+      "num": 32864,
+      "word": "李宇春 老了之后自然会调整",
+      "onboard_time": 1735505350,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28491,
       "num": 35794,
       "word": "8个词送给追光的你",
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 27345,
-      "num": 27345,
-      "word": "李宇春 老了之后自然会调整",
-      "onboard_time": 1735505350,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 26591,
@@ -603,16 +603,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 16058,
-      "num": 16058,
+      "raw_hot": 16091,
+      "num": 16091,
       "word": "韩国起火客机已确认151人死亡",
       "onboard_time": 1735504030,
       "rank": 42,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 14467,
-      "num": 14702,
+      "raw_hot": 14977,
+      "num": 14977,
       "word": "不是所有牛奶都叫特仑苏",
       "onboard_time": 1735504090,
       "rank": 48,
@@ -659,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 10749,
+      "num": 54688,
+      "word": "全国大部将以偏暖状态迎来2025",
+      "onboard_time": 1735507212,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10027,
       "num": 48483,
       "word": "探索三号在海南三亚入列",
@@ -673,6 +681,14 @@
       "onboard_time": 1735506013,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 8763,
+      "num": 15886,
+      "word": "一支视频读懂新质生产力",
+      "onboard_time": 1735507931,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7322,
