@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735468692296,
+  "endTime": 1735471036550,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -3171,6 +3171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1328270,
+      "num": 455124,
+      "word": "韩国空难发布会现场家属大哭大吼",
+      "onboard_time": 1735467680,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1326334,
       "num": 384067,
       "word": "司机拒绝接受检查突然逃逸跳桥身亡",
@@ -3513,6 +3521,14 @@
       "onboard_time": 1734148401,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1270823,
+      "num": 452792,
+      "word": "原打算乘韩国失事客机的中国游客发声",
+      "onboard_time": 1735464259,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1269417,
@@ -3867,6 +3883,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1218902,
+      "num": 453497,
+      "word": "杨幂发烧咳嗽",
+      "onboard_time": 1735467680,
+      "rank": 10,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 1218544,
       "num": 1218544,
       "word": "小小的我",
@@ -4153,14 +4177,6 @@
       "onboard_time": 1733802077,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1166201,
-      "num": 385731,
-      "word": "杨幂发烧咳嗽",
-      "onboard_time": 1735467680,
-      "rank": 10,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 1163566,
@@ -4505,6 +4521,14 @@
       "onboard_time": 1734158478,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1114751,
+      "num": 1114751,
+      "word": "王楚钦疑连夜染回黑发",
+      "onboard_time": 1735469539,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1113719,
@@ -6328,14 +6352,6 @@
       "word": "荷兰一波音客机降落时冲出跑道",
       "onboard_time": 1735454419,
       "rank": 37,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 936689,
-      "num": 212103,
-      "word": "韩国空难发布会现场家属大哭大吼",
-      "onboard_time": 1735467680,
-      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -10179,6 +10195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688237,
+      "num": 378227,
+      "word": "妻子去世他把婚戒融在一起戴了20年",
+      "onboard_time": 1735469060,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 688171,
       "num": 688171,
       "word": "年度报告",
@@ -11377,6 +11401,14 @@
       "onboard_time": 1734348379,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 643114,
+      "num": 643114,
+      "word": "济州航空客机全部为波音制造",
+      "onboard_time": 1735465160,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 642860,
@@ -12731,6 +12763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 594116,
+      "num": 594116,
+      "word": "一份248元外卖顾客却转来了13万",
+      "onboard_time": 1735468820,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593991,
       "num": 546849,
       "word": "孙俪女儿甄嬛写真",
@@ -12945,14 +12985,6 @@
       "onboard_time": 1735036819,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587382,
-      "num": 587382,
-      "word": "济州航空客机全部为波音制造",
-      "onboard_time": 1735465160,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 586981,
@@ -15931,6 +15963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497659,
+      "num": 456464,
+      "word": "大奉打更人 浮夸",
+      "onboard_time": 1735470441,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497203,
       "num": 673937,
       "word": "民办大学倒闭潮要来了吗",
@@ -16987,6 +17027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469495,
+      "num": 375780,
+      "word": "女子忘拔充电器把家给烧光",
+      "onboard_time": 1735467680,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468979,
       "num": 468979,
       "word": "Rose前男友是谁",
@@ -17033,14 +17081,6 @@
       "onboard_time": 1733565379,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467507,
-      "num": 327051,
-      "word": "原打算乘韩国失事客机的中国游客发声",
-      "onboard_time": 1735464259,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 467416,
@@ -17611,6 +17651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 457034,
+      "num": 457034,
+      "word": "奎八",
+      "onboard_time": 1733315062,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456830,
       "num": 456830,
       "word": "李冰冰郑秀晶邓超同框",
@@ -17857,6 +17905,14 @@
       "onboard_time": 1733317644,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 452532,
+      "num": 452532,
+      "word": "李昀锐 孟子义带给我的太多了",
+      "onboard_time": 1735465219,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 452324,
@@ -22051,14 +22107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370161,
-      "num": 325121,
-      "word": "女子忘拔充电器把家给烧光",
-      "onboard_time": 1735467680,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 370046,
       "num": 370046,
       "word": "中国新高铁列车外形科幻风",
@@ -22371,6 +22419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364126,
+      "num": 364126,
+      "word": "杜江霍思燕带娃和狗看帕丁顿熊",
+      "onboard_time": 1735467739,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 364117,
       "num": 364117,
       "word": "加绒洞洞鞋",
@@ -22489,14 +22545,6 @@
       "onboard_time": 1735429153,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361775,
-      "num": 361775,
-      "word": "李昀锐 孟子义带给我的太多了",
-      "onboard_time": 1735465219,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 361591,
@@ -23185,6 +23233,14 @@
       "onboard_time": 1734695537,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 352521,
+      "num": 352521,
+      "word": "韩国起火客机有10亿美元保险",
+      "onboard_time": 1735466659,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 352330,
@@ -24929,6 +24985,14 @@
       "onboard_time": 1734590659,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324464,
+      "num": 324464,
+      "word": "小小的我票房",
+      "onboard_time": 1735291400,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 324430,
@@ -26689,14 +26753,6 @@
       "onboard_time": 1733311881,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 299069,
-      "num": 299069,
-      "word": "小小的我票房",
-      "onboard_time": 1735291400,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 299026,
@@ -31155,14 +31211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249606,
-      "num": 249606,
-      "word": "奎八",
-      "onboard_time": 1733315062,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249486,
       "num": 249486,
       "word": "2024年中国芯片出口将破万亿",
@@ -31753,6 +31801,14 @@
       "onboard_time": 1734173239,
       "rank": 28,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 245192,
+      "num": 245192,
+      "word": "专家称韩国空难或因机组操作不当",
+      "onboard_time": 1735467739,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 244816,
@@ -33459,6 +33515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231896,
+      "num": 231693,
+      "word": "韩国客机接到鸟情预警6分钟后撞墙",
+      "onboard_time": 1735469539,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231764,
       "num": 231764,
       "word": "淮南一供暖管道发生爆裂4人轻伤",
@@ -33481,6 +33545,14 @@
       "onboard_time": 1734520398,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231723,
+      "num": 231723,
+      "word": "SEVENTEEN上海签售",
+      "onboard_time": 1735468220,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 231721,
@@ -33777,6 +33849,14 @@
       "onboard_time": 1733991500,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230036,
+      "num": 230036,
+      "word": "韩国坠机遇难者最后发出的消息",
+      "onboard_time": 1735469901,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 230009,
@@ -36027,14 +36107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215667,
-      "num": 215667,
-      "word": "杜江霍思燕带娃和狗看帕丁顿熊",
-      "onboard_time": 1735467739,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 215652,
       "num": 358504,
       "word": "樊振东周启豪拥抱",
@@ -36265,6 +36337,14 @@
       "onboard_time": 1733795598,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214489,
+      "num": 214489,
+      "word": "张杰 三亚",
+      "onboard_time": 1735468159,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 214462,
@@ -38107,14 +38187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206359,
-      "num": 206359,
-      "word": "张杰 三亚",
-      "onboard_time": 1735468159,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "赛里木湖",
@@ -38641,6 +38713,14 @@
       "onboard_time": 1733203580,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204588,
+      "num": 204588,
+      "word": "孟子义九重紫收官视频",
+      "onboard_time": 1735470801,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 204501,
@@ -41739,14 +41819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195066,
-      "num": 195066,
-      "word": "SEVENTEEN上海签售",
-      "onboard_time": 1735468220,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195028,
       "num": 111120,
       "word": "尖叫之夜现场灯牌",
@@ -43323,6 +43395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190804,
+      "num": 190804,
+      "word": "BOYNEXTDOOR合作舞台",
+      "onboard_time": 1735470621,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 190794,
       "num": 212286,
       "word": "檀健次说不要为爱举起屠刀",
@@ -43345,14 +43425,6 @@
       "onboard_time": 1733882841,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 190711,
-      "num": 175082,
-      "word": "专家称韩国空难或因机组操作不当",
-      "onboard_time": 1735467739,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 190707,
@@ -44097,14 +44169,6 @@
       "onboard_time": 1734611538,
       "rank": 19,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 188919,
-      "num": 188919,
-      "word": "韩国起火客机有10亿美元保险",
-      "onboard_time": 1735466659,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 188881,
@@ -49251,6 +49315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171420,
+      "num": 171420,
+      "word": "当一个二次元开始年终总结",
+      "onboard_time": 1735470380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171389,
       "num": 319778,
       "word": "这鬼大奉还会飞啊",
@@ -49321,6 +49393,14 @@
       "onboard_time": 1734851058,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171212,
+      "num": 171212,
+      "word": "樊振东乒超适应场地训练",
+      "onboard_time": 1735468820,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 171179,
@@ -52531,6 +52611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161731,
+      "num": 289621,
+      "word": "秦牛正威孔语浩分手原因",
+      "onboard_time": 1735455500,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161727,
       "num": 161727,
       "word": "2024闪闪发光的中国健儿",
@@ -53177,14 +53265,6 @@
       "onboard_time": 1735368801,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159982,
-      "num": 289621,
-      "word": "秦牛正威孔语浩分手原因",
-      "onboard_time": 1735455500,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 159947,
@@ -69131,6 +69211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116249,
+      "num": 455370,
+      "word": "TES醒一醒",
+      "onboard_time": 1735466720,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116237,
       "num": 198179,
       "word": "丁禹兮微博跨年预约破100万",
@@ -71220,7 +71308,7 @@
     },
     {
       "raw_hot": 108892,
-      "num": 108892,
+      "num": 385653,
       "word": "哈尔滨冰雪大世界张泽禹冰雕",
       "onboard_time": 1735465280,
       "rank": 47,
@@ -71329,6 +71417,14 @@
       "onboard_time": 1733880439,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 108604,
+      "num": 364613,
+      "word": "西蒙高茨支持樊振东",
+      "onboard_time": 1735470679,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 108536,
@@ -81681,6 +81777,14 @@
       "onboard_time": 1735121057,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 67072,
+      "num": 290590,
+      "word": "中医建议服中药后少说话",
+      "onboard_time": 1735470081,
+      "rank": 29,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 67071,
@@ -98115,6 +98219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22809,
+      "num": 420410,
+      "word": "不买房不炒股的人2024年钱都花哪了",
+      "onboard_time": 1735470919,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 22803,
       "num": 293578,
       "word": "情感导师陆琪谈麦李婚姻问题",
@@ -99513,6 +99625,14 @@
       "onboard_time": 1733343132,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19278,
+      "num": 381068,
+      "word": "2024看见可敬的你",
+      "onboard_time": 1735470140,
+      "rank": 19,
+      "category": "正能量"
     },
     {
       "raw_hot": 19276,
