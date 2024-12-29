@@ -1,0 +1,410 @@
+{
+  "runTime": 1735460800239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7729595,
+        "num": 7729595,
+        "word": "韩国客机着火179人遇难",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1460528,
+        "num": 1460528,
+        "word": "空空日记把道歉视频删了",
+        "onboard_time": 1735456281,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104352,
+        "num": 912944,
+        "word": "东北夜间漂流已经nextlevel",
+        "onboard_time": 1735442780,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1553728,
+        "num": 779828,
+        "word": "韩失事客机下一航班为济州飞北京",
+        "onboard_time": 1735456819,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 620839,
+        "num": 620839,
+        "word": "女子撞玛莎拉蒂赔3.2万后悔了",
+        "onboard_time": 1735459580,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755017,
+        "num": 598943,
+        "word": "韩国乘客坠机前与家人最后对话曝光",
+        "onboard_time": 1735454059,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 550398,
+        "num": 550398,
+        "word": "难哄 任性",
+        "onboard_time": 1735457719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590836,
+        "num": 544763,
+        "word": "韩国起火飞机黑匣子已找到",
+        "onboard_time": 1735456160,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 519256,
+        "num": 519256,
+        "word": "荷兰一波音客机降落时冲出跑道",
+        "onboard_time": 1735454419,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89427,
+        "num": 501808,
+        "word": "南方气温显著偏高",
+        "onboard_time": 1735460420,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804412,
+        "num": 501731,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500475,
+        "num": 500475,
+        "word": "樊振东回应WTT声明",
+        "onboard_time": 1735440080,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 492480,
+        "num": 492480,
+        "word": "韩国济州航空致歉",
+        "onboard_time": 1735456879,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 403947,
+        "num": 403947,
+        "word": "加拿大一飞机着陆滑行时起火",
+        "onboard_time": 1735456401,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 378016,
+        "num": 378016,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 364082,
+        "num": 364082,
+        "word": "韩国人说在中国才能吃到真正的火锅",
+        "onboard_time": 1735454719,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353573,
+        "num": 353573,
+        "word": "韩国客机事故并非跑道不够长所致",
+        "onboard_time": 1735454600,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274805,
+        "num": 274805,
+        "word": "AAA",
+        "onboard_time": 1735448301,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263394,
+        "num": 263394,
+        "word": "王鹤棣演唱会送粉丝项链",
+        "onboard_time": 1735458439,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238447,
+        "num": 238447,
+        "word": "网传迪丽热巴钟汉良主演法医荣誉",
+        "onboard_time": 1735460120,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693119,
+        "num": 236644,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91635,
+        "num": 233603,
+        "word": "年轻人开始反向攀比了",
+        "onboard_time": 1735457599,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311039,
+        "num": 231740,
+        "word": "女子睡觉被丈夫刺伤大出血法院发保护令",
+        "onboard_time": 1735459940,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310621,
+        "num": 229019,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111091,
+        "num": 227112,
+        "word": "三岁太秀了",
+        "onboard_time": 1735459760,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 439480,
+        "num": 223411,
+        "word": "赵露思委托魏笑报平安",
+        "onboard_time": 1735397003,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222394,
+        "num": 222394,
+        "word": "空空日记",
+        "onboard_time": 1735458799,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166114,
+        "num": 166114,
+        "word": "李现演大唐第一美男",
+        "onboard_time": 1735447461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161838,
+        "num": 161838,
+        "word": "刘亦菲十年前给女生的祝福太超前",
+        "onboard_time": 1735444879,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302668,
+        "num": 160100,
+        "word": "韩国客机着火2名生还者均为乘务员",
+        "onboard_time": 1735448123,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 240834,
+        "num": 158473,
+        "word": "在厕所里发现了人生意义",
+        "onboard_time": 1735460719,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 250229,
+        "num": 157717,
+        "word": "韩国客机救火现场全是警笛声",
+        "onboard_time": 1735437918,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154623,
+        "num": 154623,
+        "word": "Faker力挺Peanut",
+        "onboard_time": 1735459699,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 154276,
+        "word": "调查称机尾乘客生还率比前排高40%",
+        "onboard_time": 1735455200,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150777,
+        "num": 150777,
+        "word": "刘雅瑟演误杀3两个愿望实现0个",
+        "onboard_time": 1735459639,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219092,
+        "num": 150642,
+        "word": "韩国客机着火找到80具遗体99人失踪",
+        "onboard_time": 1735447341,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150438,
+        "num": 150438,
+        "word": "迪丽热巴可爱会遗传",
+        "onboard_time": 1735454479,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75131,
+        "num": 150341,
+        "word": "湖人横扫国王",
+        "onboard_time": 1735457840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163144,
+        "num": 150328,
+        "word": "韩国起火客机175名乘客名单公布",
+        "onboard_time": 1735452259,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150308,
+        "num": 150308,
+        "word": "登陆少年新歌耶试听",
+        "onboard_time": 1735459580,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158466,
+        "num": 148911,
+        "word": "济州航空7C2216",
+        "onboard_time": 1735456437,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141181,
+        "num": 141181,
+        "word": "看到这种红头文件千万别上头",
+        "onboard_time": 1735460719,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 139021,
+        "word": "韩国载181人客机遭鸟击瞬间",
+        "onboard_time": 1735442839,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132743,
+        "num": 132743,
+        "word": "韩方称机场塔台曾发出鸟群冲撞警报",
+        "onboard_time": 1735456940,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139292,
+        "num": 131378,
+        "word": "韩国客机坠落事故最新消息",
+        "onboard_time": 1735447101,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128622,
+        "num": 128622,
+        "word": "孟子义海口路透",
+        "onboard_time": 1735456760,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69380,
+        "num": 128309,
+        "word": "如果AI也有自己的世界会发生什么",
+        "onboard_time": 1735459719,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67880,
+        "num": 127922,
+        "word": "中国国家队的2024",
+        "onboard_time": 1735459819,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129406,
+        "num": 127574,
+        "word": "韩国着火客机后续航班乘客发声",
+        "onboard_time": 1735459399,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117403,
+        "num": 127372,
+        "word": "退出世界排名究竟意味着什么",
+        "onboard_time": 1735459219,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡宝藏博物馆#"
+    }
+  }
+}
