@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735472117171,
+  "endTime": 1735475950966,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -179,12 +179,36 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1144810,
+      "num": 1144810,
+      "word": "韩国坠机遇难者最后发出的消息",
+      "onboard_time": 1735469901,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1142187,
       "num": 1142187,
       "word": "樊振东收到罚款文件后当天就签名",
       "onboard_time": 1735463719,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1095861,
+      "num": 453096,
+      "word": "韩国7天国家哀悼",
+      "onboard_time": 1735473141,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1023099,
+      "num": 390997,
+      "word": "黄奕一件礼服塞了一整个车",
+      "onboard_time": 1735472239,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 995957,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 772569,
+      "num": 772569,
+      "word": "第一次知道整完容后的后遗症",
+      "onboard_time": 1735472720,
+      "rank": 4,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 772463,
       "num": 772463,
       "word": "韩国客机着火找到80具遗体99人失踪",
@@ -281,6 +313,14 @@
       "onboard_time": 1735432938,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 746627,
+      "num": 746627,
+      "word": "田曦薇的手机壳是临安公主",
+      "onboard_time": 1735473560,
+      "rank": 6,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 688237,
@@ -371,6 +411,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 614720,
+      "num": 614720,
+      "word": "空空日记直播",
+      "onboard_time": 1735473200,
+      "rank": 7,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 590462,
+      "num": 590462,
+      "word": "九重紫苏琰是宋墨妹妹",
+      "onboard_time": 1735473081,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 589462,
       "num": 589462,
       "word": "巴黎街头偶遇迪丽热巴",
@@ -432,6 +488,14 @@
       "word": "韩国客机着火2人生还",
       "onboard_time": 1735438398,
       "rank": 6,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 542246,
+      "num": 460075,
+      "word": "韩国客机接到鸟情预警6分钟后撞墙",
+      "onboard_time": 1735469539,
+      "rank": 35,
       "category": "海外新闻"
     },
     {
@@ -555,6 +619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440795,
+      "num": 467389,
+      "word": "韩国起火客机179名死者全部找到",
+      "onboard_time": 1735475239,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 437511,
       "num": 297525,
       "word": "王鹤棣疑似失去所有cp",
@@ -627,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407462,
+      "num": 407462,
+      "word": "阿塞拜疆空难原因公布",
+      "onboard_time": 1735472481,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 394513,
       "num": 394513,
       "word": "韩国起火客机已有3人获救",
@@ -635,12 +715,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 393137,
+      "num": 393137,
+      "word": "肖战李宁直播",
+      "onboard_time": 1735471760,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391470,
       "num": 421343,
       "word": "全球最帅面孔",
       "onboard_time": 1735439359,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 390739,
+      "num": 508913,
+      "word": "专家称韩国空难或因机组操作不当",
+      "onboard_time": 1735467739,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 389902,
@@ -691,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354445,
-      "num": 230036,
-      "word": "韩国坠机遇难者最后发出的消息",
-      "onboard_time": 1735469901,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 353573,
       "num": 353573,
       "word": "韩国客机事故并非跑道不够长所致",
@@ -712,6 +800,14 @@
       "word": "韩国起火客机有10亿美元保险",
       "onboard_time": 1735466659,
       "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 350950,
+      "num": 350950,
+      "word": "韩国大妈目击客机起火爆炸",
+      "onboard_time": 1735474220,
+      "rank": 25,
       "category": "海外新闻"
     },
     {
@@ -739,12 +835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333905,
-      "num": 508913,
-      "word": "专家称韩国空难或因机组操作不当",
-      "onboard_time": 1735467739,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 334622,
+      "num": 334622,
+      "word": "哥哥第一次带女朋友回家",
+      "onboard_time": 1735472179,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 330292,
@@ -795,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325025,
-      "num": 460075,
-      "word": "韩国客机接到鸟情预警6分钟后撞墙",
-      "onboard_time": 1735469539,
-      "rank": 35,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 323299,
       "num": 396918,
       "word": "MBC演艺大赏取消",
@@ -825,6 +913,14 @@
       "onboard_time": 1735395502,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 319348,
+      "num": 319348,
+      "word": "机场驱鸟队24小时在岗守护跑道",
+      "onboard_time": 1735473379,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318767,
@@ -1003,12 +1099,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262855,
+      "num": 326069,
+      "word": "脑瘫不是傻子",
+      "onboard_time": 1735472179,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260005,
       "num": 260005,
       "word": "韩国客机冲撞起火视频",
       "onboard_time": 1735435577,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 251542,
+      "num": 319475,
+      "word": "丁禹兮 烟花易冷",
+      "onboard_time": 1735472420,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250034,
+      "num": 250034,
+      "word": "田曦薇出场",
+      "onboard_time": 1735474220,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 248550,
@@ -1123,12 +1243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220521,
+      "num": 220521,
+      "word": "爸爸把女儿发箍做成标记防走丢",
+      "onboard_time": 1735472179,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218675,
       "num": 441517,
       "word": "韩坠机事故客机在尝试二次着陆时坠毁",
       "onboard_time": 1735456100,
       "rank": 13,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217264,
+      "num": 217264,
+      "word": "Faker向空难遇难者表示哀悼",
+      "onboard_time": 1735473620,
+      "rank": 39,
+      "category": "电竞,海外新闻"
     },
     {
       "raw_hot": 216529,
@@ -1291,6 +1427,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202548,
+      "num": 202548,
+      "word": "檀健次塞暖宝宝给丁程鑫",
+      "onboard_time": 1735475301,
+      "rank": 41,
+      "category": "综艺,剧集"
+    },
+    {
+      "raw_hot": 202540,
+      "num": 202540,
+      "word": "讲课这段没人知道他是易烊千玺",
+      "onboard_time": 1735474880,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202238,
       "num": 202238,
       "word": "小小的我",
@@ -1339,12 +1491,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 199021,
-      "num": 199021,
-      "word": "肖战李宁直播",
-      "onboard_time": 1735471760,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 198893,
+      "num": 198893,
+      "word": "张萌有好东西是真能藏啊",
+      "onboard_time": 1735474281,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 198251,
@@ -1377,6 +1529,14 @@
       "onboard_time": 1735452200,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197630,
+      "num": 197630,
+      "word": "JackeyLove绝境五杀",
+      "onboard_time": 1735472961,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 195791,
@@ -1683,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 167475,
+      "num": 167475,
+      "word": "韩国客机生还者因机尾脱落幸存",
+      "onboard_time": 1735474220,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 166793,
       "num": 178116,
       "word": "床前放个橘子睡得香",
@@ -1715,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163297,
+      "num": 447215,
+      "word": "不买房不炒股的人2024年钱都花哪了",
+      "onboard_time": 1735470919,
+      "rank": 14,
+      "category": "民生新闻,议题讨论"
+    },
+    {
       "raw_hot": 162463,
       "num": 178091,
       "word": "选手全年不参加WTT要罚款164万",
@@ -1744,6 +1920,14 @@
       "word": "陈赫录盒猫2是为了豆角红烧肉",
       "onboard_time": 1735449081,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159782,
+      "num": 159782,
+      "word": "王鹤棣hi6团建路透",
+      "onboard_time": 1735474940,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -2179,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123878,
+      "num": 351782,
+      "word": "多名运动员力挺樊振东",
+      "onboard_time": 1735475840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123679,
       "num": 123679,
       "word": "王一珩家庭 重组家庭的典范",
@@ -2499,14 +2691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89185,
-      "num": 447215,
-      "word": "不买房不炒股的人2024年钱都花哪了",
-      "onboard_time": 1735470919,
-      "rank": 14,
-      "category": "民生新闻,议题讨论"
-    },
-    {
       "raw_hot": 86361,
       "num": 177578,
       "word": "在新疆根本不存在审美疲劳",
@@ -2657,6 +2841,14 @@
       "onboard_time": 1735463539,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64755,
+      "num": 319396,
+      "word": "大姨剐蹭后一万个假动作骑上就跑",
+      "onboard_time": 1735474461,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62759,
@@ -2875,6 +3067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 28454,
+      "num": 200333,
+      "word": "多彩世界热爱正当时",
+      "onboard_time": 1735475600,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
@@ -3089,6 +3289,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 5879,
+      "num": 391037,
+      "word": "AL德杯夺冠",
+      "onboard_time": 1735475902,
+      "rank": 19,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
