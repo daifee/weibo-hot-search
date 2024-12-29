@@ -1,0 +1,410 @@
+{
+  "runTime": 1735447210906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14258889,
+        "num": 14258889,
+        "word": "韩国客机着火179人遇难",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1559431,
+        "num": 1559431,
+        "word": "樊振东回应WTT声明",
+        "onboard_time": 1735440080,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9818,
+        "num": 1367682,
+        "word": "文化中国行唐诗里的秀美山川",
+        "onboard_time": 1735372582,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1301381,
+        "num": 1301381,
+        "word": "原来赵露思和爸妈在一起时都吃外卖",
+        "onboard_time": 1735446982,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995957,
+        "num": 995957,
+        "word": "韩国载181人客机遭鸟击瞬间",
+        "onboard_time": 1735442839,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 870622,
+        "num": 870622,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 557475,
+        "num": 557475,
+        "word": "韩国客机着火2人生还",
+        "onboard_time": 1735438398,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 553411,
+        "num": 553411,
+        "word": "韩国事发机型为波音737",
+        "onboard_time": 1735442181,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484520,
+        "num": 484520,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 197849,
+        "num": 478528,
+        "word": "韩国客机事故究竟发生了什么",
+        "onboard_time": 1735445601,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2305552,
+        "num": 478290,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473439,
+        "num": 473439,
+        "word": "抓紧去个税APP确认信息",
+        "onboard_time": 1735432277,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467500,
+        "num": 467500,
+        "word": "韩国起火客机无中国籍乘客",
+        "onboard_time": 1735438998,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 454081,
+        "num": 454081,
+        "word": "巴黎街头偶遇迪丽热巴",
+        "onboard_time": 1735441040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419889,
+        "num": 419889,
+        "word": "刘亦菲十年前给女生的祝福太超前",
+        "onboard_time": 1735444879,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350107,
+        "num": 350107,
+        "word": "韩国起火客机疑似撞鸟",
+        "onboard_time": 1735434858,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 325168,
+        "num": 325168,
+        "word": "时速400公里高铁列车来了",
+        "onboard_time": 1735439120,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 316828,
+        "num": 316828,
+        "word": "秦牛正威说没有男友都会改名字",
+        "onboard_time": 1735445121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307459,
+        "num": 307459,
+        "word": "10元手冲咖啡阿姨回应不火",
+        "onboard_time": 1735445419,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266399,
+        "num": 266399,
+        "word": "全球最帅面孔",
+        "onboard_time": 1735439359,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1249488,
+        "num": 265176,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263657,
+        "num": 263657,
+        "word": "王嘉尔 不爱看别看",
+        "onboard_time": 1735445601,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230189,
+        "num": 230189,
+        "word": "中国CR450动车组样车发布",
+        "onboard_time": 1735439120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181613,
+        "num": 229943,
+        "word": "李现国色芳华新皮肤",
+        "onboard_time": 1735446680,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112937,
+        "num": 229770,
+        "word": "王楚钦2024年夺得15冠",
+        "onboard_time": 1735443561,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181366,
+        "num": 229546,
+        "word": "杨紫工作室 何惟芳纯享版",
+        "onboard_time": 1735445901,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80741,
+        "num": 229068,
+        "word": "勒紧让跑腿接送孩子的风险绳",
+        "onboard_time": 1735445300,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 67400,
+        "num": 228970,
+        "word": "用你的活法定义世界的算法",
+        "onboard_time": 1735445361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148918,
+        "num": 228604,
+        "word": "九重紫这下是真真真真真结局了",
+        "onboard_time": 1735446680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38078,
+        "num": 228350,
+        "word": "韩国客机着陆前引擎喷火冒烟",
+        "onboard_time": 1735447161,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 228177,
+        "num": 228177,
+        "word": "计划3天的全家游只玩了3个小时",
+        "onboard_time": 1735438879,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221395,
+        "num": 221395,
+        "word": "全红婵点赞陈梦退出世排博文",
+        "onboard_time": 1735442900,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215231,
+        "num": 215231,
+        "word": "韩国客机起火现场画面",
+        "onboard_time": 1735436358,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207108,
+        "num": 207108,
+        "word": "家长质疑布置作业晚被班主任踢出群",
+        "onboard_time": 1735436358,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205443,
+        "num": 205443,
+        "word": "没结婚北大毕业的86岁奶奶接受采访",
+        "onboard_time": 1735438939,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203134,
+        "num": 203134,
+        "word": "光与夜之恋",
+        "onboard_time": 1735446921,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193274,
+        "num": 193274,
+        "word": "潘展乐点赞樊振东",
+        "onboard_time": 1735443921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181107,
+        "num": 187919,
+        "word": "影视剧难哄",
+        "onboard_time": 1735438518,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187135,
+        "num": 187135,
+        "word": "海军四川舰正式出坞",
+        "onboard_time": 1735442720,
+        "rank": 38,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 183705,
+        "num": 183705,
+        "word": "中国新高铁列车外形科幻风",
+        "onboard_time": 1735442000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181153,
+        "num": 181153,
+        "word": "法国多名乒乓球运动员就WTT声明发声",
+        "onboard_time": 1735440139,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178514,
+        "num": 178514,
+        "word": "韩国客机坠落事故最新消息",
+        "onboard_time": 1735447101,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174365,
+        "num": 174365,
+        "word": "王楚钦樊振东或再上演神仙对决",
+        "onboard_time": 1735442300,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167754,
+        "num": 167754,
+        "word": "秋瓷炫于晓光韩国新家",
+        "onboard_time": 1735439178,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161578,
+        "num": 161578,
+        "word": "韩国起火客机曾尝试机腹着陆",
+        "onboard_time": 1735447101,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160355,
+        "num": 160355,
+        "word": "白鹿又白录了",
+        "onboard_time": 1735440799,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151182,
+        "num": 151182,
+        "word": "四川南充一女童从13楼坠下",
+        "onboard_time": 1735437799,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149721,
+        "num": 149721,
+        "word": "李雪琴王皓 邪门但好嗑",
+        "onboard_time": 1735444520,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144663,
+        "num": 144663,
+        "word": "王楚钦2024年终世排第一",
+        "onboard_time": 1735447101,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143333,
+        "num": 143333,
+        "word": "教育局回应家长质疑布置作业晚被踢出群",
+        "onboard_time": 1735445901,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡宝藏博物馆#"
+    }
+  }
+}
