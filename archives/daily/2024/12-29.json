@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735475950966,
+  "endTime": 1735476856803,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -155,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1369380,
+      "num": 1369380,
+      "word": "韩国大妈目击客机起火爆炸",
+      "onboard_time": 1735474220,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1328270,
       "num": 1204570,
       "word": "韩国空难发布会现场家属大哭大吼",
@@ -171,6 +179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1262083,
+      "num": 1216422,
+      "word": "韩国坠机遇难者最后发出的消息",
+      "onboard_time": 1735469901,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1218902,
       "num": 508773,
       "word": "杨幂发烧咳嗽",
@@ -179,12 +195,12 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 1144810,
-      "num": 1144810,
-      "word": "韩国坠机遇难者最后发出的消息",
-      "onboard_time": 1735469901,
-      "rank": 37,
-      "category": "海外新闻"
+      "raw_hot": 1193071,
+      "num": 1193071,
+      "word": "第一次知道整完容后的后遗症",
+      "onboard_time": 1735472720,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 1142187,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 1095861,
-      "num": 453096,
+      "num": 541368,
       "word": "韩国7天国家哀悼",
       "onboard_time": 1735473141,
       "rank": 11,
@@ -243,6 +259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 876551,
+      "num": 671056,
+      "word": "韩国起火客机179名死者全部找到",
+      "onboard_time": 1735475239,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 833649,
       "num": 833649,
       "word": "女子撞玛莎拉蒂赔3.2万后悔了",
@@ -281,14 +305,6 @@
       "onboard_time": 1735395203,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 772569,
-      "num": 772569,
-      "word": "第一次知道整完容后的后遗症",
-      "onboard_time": 1735472720,
-      "rank": 4,
-      "category": "美妆"
     },
     {
       "raw_hot": 772463,
@@ -345,6 +361,14 @@
       "onboard_time": 1735415412,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 673515,
+      "num": 673515,
+      "word": "空空日记直播",
+      "onboard_time": 1735473200,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 663089,
@@ -409,14 +433,6 @@
       "onboard_time": 1735464740,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 614720,
-      "num": 614720,
-      "word": "空空日记直播",
-      "onboard_time": 1735473200,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 590462,
@@ -563,6 +579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 489407,
+      "num": 489407,
+      "word": "阿塞拜疆空难原因公布",
+      "onboard_time": 1735472481,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 479695,
       "num": 479695,
       "word": "咖啡去世",
@@ -616,14 +640,6 @@
       "word": "加拿大一飞机着陆滑行时起火",
       "onboard_time": 1735456401,
       "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 440795,
-      "num": 467389,
-      "word": "韩国起火客机179名死者全部找到",
-      "onboard_time": 1735475239,
-      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -697,14 +713,6 @@
       "onboard_time": 1735400781,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407462,
-      "num": 407462,
-      "word": "阿塞拜疆空难原因公布",
-      "onboard_time": 1735472481,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 394513,
@@ -800,14 +808,6 @@
       "word": "韩国起火客机有10亿美元保险",
       "onboard_time": 1735466659,
       "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 350950,
-      "num": 350950,
-      "word": "韩国大妈目击客机起火爆炸",
-      "onboard_time": 1735474220,
-      "rank": 25,
       "category": "海外新闻"
     },
     {
@@ -907,20 +907,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 322134,
+      "num": 322134,
+      "word": "机场驱鸟队24小时在岗守护跑道",
+      "onboard_time": 1735473379,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320816,
       "num": 320816,
       "word": "普京对阿航坠机事件致歉",
       "onboard_time": 1735395502,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 319348,
-      "num": 319348,
-      "word": "机场驱鸟队24小时在岗守护跑道",
-      "onboard_time": 1735473379,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318767,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1735440320,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 288605,
+      "num": 326069,
+      "word": "脑瘫不是傻子",
+      "onboard_time": 1735472179,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 287719,
@@ -1099,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262855,
-      "num": 326069,
-      "word": "脑瘫不是傻子",
-      "onboard_time": 1735472179,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 260005,
       "num": 260005,
       "word": "韩国客机冲撞起火视频",
@@ -1115,8 +1115,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 257811,
+      "num": 227725,
+      "word": "Faker向空难遇难者表示哀悼",
+      "onboard_time": 1735473620,
+      "rank": 39,
+      "category": "电竞,海外新闻"
+    },
+    {
       "raw_hot": 251542,
-      "num": 319475,
+      "num": 322548,
       "word": "丁禹兮 烟花易冷",
       "onboard_time": 1735472420,
       "rank": 28,
@@ -1259,14 +1267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 217264,
-      "num": 217264,
-      "word": "Faker向空难遇难者表示哀悼",
-      "onboard_time": 1735473620,
-      "rank": 39,
-      "category": "电竞,海外新闻"
-    },
-    {
       "raw_hot": 216529,
       "num": 295539,
       "word": "秦牛正威孔语浩去年订婚",
@@ -1313,6 +1313,14 @@
       "onboard_time": 1735465880,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210779,
+      "num": 412500,
+      "word": "AL德杯夺冠",
+      "onboard_time": 1735475902,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 208875,
@@ -1747,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179816,
+      "num": 354613,
+      "word": "多名运动员力挺樊振东",
+      "onboard_time": 1735475840,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179155,
       "num": 179155,
       "word": "沈腾在厕所发现范丞丞",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172488,
+      "num": 172488,
+      "word": "宋旻浩和女友约会",
+      "onboard_time": 1735476680,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 171670,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1735456940,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "檀健次风大但发型不能乱",
+      "onboard_time": 1735476141,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 167475,
@@ -2363,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123878,
-      "num": 351782,
-      "word": "多名运动员力挺樊振东",
-      "onboard_time": 1735475840,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123679,
       "num": 123679,
       "word": "王一珩家庭 重组家庭的典范",
@@ -2787,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74626,
+      "num": 439768,
+      "word": "三部门约谈辽宁本溪政府负责人",
+      "onboard_time": 1735476259,
+      "rank": 13,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 74170,
       "num": 141320,
       "word": "5点应对躯体化症状",
@@ -2947,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 45144,
+      "num": 226535,
+      "word": "贵州六盘水的神级烤排骨",
+      "onboard_time": 1735476321,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 44809,
       "num": 44809,
       "word": "任时完好帅",
@@ -3068,7 +3108,7 @@
     },
     {
       "raw_hot": 28454,
-      "num": 200333,
+      "num": 357543,
       "word": "多彩世界热爱正当时",
       "onboard_time": 1735475600,
       "rank": 43,
@@ -3105,6 +3145,14 @@
       "onboard_time": 1735416551,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25474,
+      "num": 358508,
+      "word": "12岁女孩偷拿家里近2万块买卡牌",
+      "onboard_time": 1735476321,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24764,
@@ -3289,14 +3337,6 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 5879,
-      "num": 391037,
-      "word": "AL德杯夺冠",
-      "onboard_time": 1735475902,
-      "rank": 19,
-      "category": "电竞"
     }
   ],
   "hotgov_list": [
