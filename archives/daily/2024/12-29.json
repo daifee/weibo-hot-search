@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735482981508,
+  "endTime": 1735485639123,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1581930,
+      "num": 487890,
+      "word": "她最后一刻发的是妈妈我爱你",
+      "onboard_time": 1735482322,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1558343,
       "num": 1558343,
       "word": "抓紧去个税APP确认信息",
@@ -275,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 965514,
+      "num": 511624,
+      "word": "韩国知情人士称有毒气体进入机体",
+      "onboard_time": 1735480881,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 943117,
       "num": 943117,
       "word": "韩国客机着火2名生还者均为乘务员",
@@ -379,12 +395,12 @@
       "category": "剧集,艺人"
     },
     {
-      "raw_hot": 699149,
-      "num": 511624,
-      "word": "韩国知情人士称有毒气体进入机体",
-      "onboard_time": 1735480881,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 727023,
+      "num": 727023,
+      "word": "70多位租客被房东要求10天内搬离",
+      "onboard_time": 1735480162,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 688237,
@@ -675,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463943,
+      "num": 463943,
+      "word": "徐明浩 不要买小卡",
+      "onboard_time": 1735482503,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458820,
       "num": 458820,
       "word": "中国CR450动车组样车发布",
@@ -779,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 410598,
+      "num": 438406,
+      "word": "央视曝光部分直播间公然售假羊绒衫",
+      "onboard_time": 1735482862,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 410065,
       "num": 242962,
       "word": "秋瓷炫儿子说我中国人",
@@ -841,14 +873,6 @@
       "onboard_time": 1735445121,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 374588,
-      "num": 374588,
-      "word": "70多位租客被房东要求10天内搬离",
-      "onboard_time": 1735480162,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 370046,
@@ -921,14 +945,6 @@
       "onboard_time": 1735396642,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338639,
-      "num": 338639,
-      "word": "徐明浩 不要买小卡",
-      "onboard_time": 1735482503,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 334622,
@@ -1091,6 +1107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295054,
+      "num": 363402,
+      "word": "易烊千玺采访",
+      "onboard_time": 1735483940,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294803,
       "num": 332325,
       "word": "脑瘫不是傻子",
@@ -1131,6 +1155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288063,
+      "num": 288063,
+      "word": "虞书欣飞机上看粉丝的信",
+      "onboard_time": 1735483583,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287719,
       "num": 287719,
       "word": "韩国客机着火事故的乘客短信",
@@ -1155,19 +1187,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283214,
+      "num": 283214,
+      "word": "被班主任踢出群家长重新入群",
+      "onboard_time": 1735480101,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283002,
       "num": 283002,
       "word": "韩事故波音机型是廉航公司喜欢机型",
       "onboard_time": 1735449921,
       "rank": 19,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 277973,
-      "num": 277973,
-      "word": "她最后一刻发的是妈妈我爱你",
-      "onboard_time": 1735482322,
-      "rank": 33,
       "category": "海外新闻"
     },
     {
@@ -1185,6 +1217,14 @@
       "onboard_time": 1735440139,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270018,
+      "num": 270018,
+      "word": "这个睡觉姿势是错误的",
+      "onboard_time": 1735484961,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269164,
@@ -1259,20 +1299,20 @@
       "category": "电竞,海外新闻"
     },
     {
+      "raw_hot": 253669,
+      "num": 253669,
+      "word": "鹿晗黑甲烟熏妆病娇感",
+      "onboard_time": 1735482922,
+      "rank": 42,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 251542,
       "num": 322548,
       "word": "丁禹兮 烟花易冷",
       "onboard_time": 1735472420,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251173,
-      "num": 251173,
-      "word": "被班主任踢出群家长重新入群",
-      "onboard_time": 1735480101,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250034,
@@ -1371,11 +1411,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227238,
+      "num": 227238,
+      "word": "白桃星座",
+      "onboard_time": 1735485201,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 225704,
       "num": 329844,
       "word": "鸟击通常不会造成起落架不能放出",
       "onboard_time": 1735466300,
       "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 224741,
+      "num": 224741,
+      "word": "俄罗斯已就阿航空难向阿塞拜疆认错",
+      "onboard_time": 1735482382,
+      "rank": 41,
       "category": "海外新闻"
     },
     {
@@ -1393,6 +1449,14 @@
       "onboard_time": 1735442720,
       "rank": 12,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 220786,
+      "num": 220786,
+      "word": "妈妈带自闭症儿子摆摊接连被治愈",
+      "onboard_time": 1735480460,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 220740,
@@ -1459,14 +1523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213700,
-      "num": 213700,
-      "word": "俄罗斯已就阿航空难向阿塞拜疆认错",
-      "onboard_time": 1735482382,
-      "rank": 41,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 213560,
       "num": 213560,
       "word": "文咏珊 女高学姐",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1735475902,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209614,
+      "num": 209614,
+      "word": "吃中式糕点好像嘴里下雪了",
+      "onboard_time": 1735484122,
+      "rank": 39,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 208875,
@@ -1545,14 +1609,6 @@
       "onboard_time": 1735449740,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 207913,
-      "num": 207913,
-      "word": "鹿晗黑甲烟熏妆病娇感",
-      "onboard_time": 1735482922,
-      "rank": 42,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 207815,
@@ -1683,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200268,
+      "num": 200268,
+      "word": "洪知秀LED巨屏祝福",
+      "onboard_time": 1735485201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199918,
       "num": 199918,
       "word": "李昀锐好大一声有",
@@ -1787,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194852,
+      "num": 194852,
+      "word": "李昀锐宋墨告别视频",
+      "onboard_time": 1735485381,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194812,
       "num": 194812,
       "word": "天王杯",
@@ -1880,6 +1952,14 @@
       "word": "冬至 这床可太好了",
       "onboard_time": 1735450221,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189553,
+      "num": 189553,
+      "word": "大奉打更人热度破27000",
+      "onboard_time": 1735484780,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2059,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174860,
+      "num": 283930,
+      "word": "如何推动乒乓球运动越来越好",
+      "onboard_time": 1735484540,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174427,
       "num": 343163,
       "word": "AL德杯决赛战胜TES",
@@ -2105,6 +2193,14 @@
       "onboard_time": 1735468820,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170323,
+      "num": 170323,
+      "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
+      "onboard_time": 1735485560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170320,
@@ -2795,12 +2891,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 111930,
+      "num": 1355142,
+      "word": "2024年国内十大新闻",
+      "onboard_time": 1735479743,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 111696,
       "num": 111696,
       "word": "李子柒祝你一步步抵达自己的桃源",
       "onboard_time": 1735438277,
       "rank": 39,
       "category": "美食,网红"
+    },
+    {
+      "raw_hot": 111350,
+      "num": 495990,
+      "word": "2024年只剩2天",
+      "onboard_time": 1735485201,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111091,
@@ -2961,14 +3073,6 @@
       "onboard_time": 1735435337,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93401,
-      "num": 1355142,
-      "word": "2024年国内十大新闻",
-      "onboard_time": 1735479743,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 92714,
@@ -3193,6 +3297,14 @@
       "onboard_time": 1735407015,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58138,
+      "num": 253815,
+      "word": "误触辐射源小伙没签合同没从业资质",
+      "onboard_time": 1735484723,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56920,
@@ -3625,14 +3737,6 @@
       "onboard_time": 1735416251,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10878,
-      "num": 438406,
-      "word": "央视曝光部分直播间公然售假羊绒衫",
-      "onboard_time": 1735482862,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 10717,
