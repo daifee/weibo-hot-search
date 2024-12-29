@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735449658313,
+  "endTime": 1735450659556,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2947920,
-      "num": 544467,
+      "num": 583716,
       "word": "秦牛正威分手",
       "onboard_time": 1735440679,
       "rank": 10,
@@ -115,12 +115,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 801422,
-      "num": 801422,
+      "raw_hot": 917863,
+      "num": 917863,
       "word": "AAA",
       "onboard_time": 1735448301,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 873151,
+      "num": 873151,
+      "word": "韩国客机着火2名生还者均为乘务员",
+      "onboard_time": 1735448123,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 779590,
@@ -129,6 +137,14 @@
       "onboard_time": 1735395203,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 772463,
+      "num": 772463,
+      "word": "韩国客机着火找到80具遗体99人失踪",
+      "onboard_time": 1735447341,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 760695,
@@ -147,28 +163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 755009,
-      "num": 755009,
-      "word": "韩国客机着火2名生还者均为乘务员",
-      "onboard_time": 1735448123,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 720022,
-      "num": 720022,
-      "word": "韩国客机着火找到80具遗体99人失踪",
-      "onboard_time": 1735447341,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 683671,
       "num": 683671,
       "word": "黄子韬说低估了大家的能力",
       "onboard_time": 1735415412,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663089,
+      "num": 663089,
+      "word": "韩国客机坠落事故最新消息",
+      "onboard_time": 1735447101,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 662114,
@@ -185,6 +193,14 @@
       "onboard_time": 1735436358,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 658939,
+      "num": 658939,
+      "word": "韩国客机救火现场全是警笛声",
+      "onboard_time": 1735437918,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 589462,
@@ -248,14 +264,6 @@
       "word": "韩国客机着火2人生还",
       "onboard_time": 1735438398,
       "rank": 6,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 550390,
-      "num": 550390,
-      "word": "韩国客机坠落事故最新消息",
-      "onboard_time": 1735447101,
-      "rank": 41,
       "category": "海外新闻"
     },
     {
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427994,
-      "num": 427994,
-      "word": "韩国客机救火现场全是警笛声",
-      "onboard_time": 1735437918,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 427555,
       "num": 427555,
       "word": "韩国起火客机起落架没有放下",
@@ -393,6 +393,14 @@
       "onboard_time": 1735439359,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 389902,
+      "num": 389902,
+      "word": "刘昊然去了欧阳娜娜音乐会",
+      "onboard_time": 1735449260,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 379453,
@@ -603,12 +611,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 251780,
-      "num": 251780,
-      "word": "刘昊然去了欧阳娜娜音乐会",
-      "onboard_time": 1735449260,
-      "rank": 32,
-      "category": "演出"
+      "raw_hot": 258132,
+      "num": 258132,
+      "word": "韩国客机着火事故的乘客短信",
+      "onboard_time": 1735449501,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 248550,
@@ -691,6 +699,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 216529,
+      "num": 295539,
+      "word": "秦牛正威孔语浩去年订婚",
+      "onboard_time": 1735449801,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214057,
       "num": 214057,
       "word": "潘展乐点赞樊振东",
@@ -715,12 +731,28 @@
       "category": "幽默,科学科普"
     },
     {
+      "raw_hot": 208515,
+      "num": 295276,
+      "word": "樊振东退出世排还能参加国际比赛吗",
+      "onboard_time": 1735450520,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208317,
       "num": 208317,
       "word": "四川南充一女童从13楼坠下",
       "onboard_time": 1735437799,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207932,
+      "num": 266090,
+      "word": "MBC歌谣大祭典",
+      "onboard_time": 1735449740,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 207105,
@@ -819,6 +851,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190060,
+      "num": 190060,
+      "word": "王楚然丞磊领衔主演网剧成何体统",
+      "onboard_time": 1735449381,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189962,
+      "num": 228025,
+      "word": "冬至 这床可太好了",
+      "onboard_time": 1735450221,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188013,
+      "num": 188013,
+      "word": "第五人格",
+      "onboard_time": 1735449801,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186046,
       "num": 186046,
       "word": "韩国起火客机曾尝试机腹着陆",
@@ -875,20 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176676,
-      "num": 176676,
-      "word": "王楚然丞磊领衔主演网剧成何体统",
-      "onboard_time": 1735449381,
-      "rank": 43,
+      "raw_hot": 178722,
+      "num": 178722,
+      "word": "大奉打更人作者否认阴阳王鹤棣",
+      "onboard_time": 1735450520,
+      "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173289,
-      "num": 173289,
-      "word": "韩国客机着火事故的乘客短信",
-      "onboard_time": 1735449501,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173183,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1735431076,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145178,
+      "num": 258990,
+      "word": "网红咖啡患直肠癌后曾放弃化疗",
+      "onboard_time": 1735444640,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 144663,
@@ -1363,6 +1419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91449,
+      "num": 270498,
+      "word": "98年女孩帮老人洗澡很自豪做助浴师",
+      "onboard_time": 1735449081,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89594,
       "num": 177670,
       "word": "周深从少管我到有没有人管管我",
@@ -1387,20 +1451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85244,
-      "num": 270498,
-      "word": "98年女孩帮老人洗澡很自豪做助浴师",
-      "onboard_time": 1735449081,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83402,
       "num": 1692102,
       "word": "长白山森林漂流越夜越美丽",
       "onboard_time": 1735400542,
       "rank": 2,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 83336,
+      "num": 297790,
+      "word": "冬至好看",
+      "onboard_time": 1735449980,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 81664,
@@ -1449,6 +1513,14 @@
       "onboard_time": 1735399822,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70622,
+      "num": 221127,
+      "word": "秋冬叠穿好物",
+      "onboard_time": 1735449921,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 62759,
@@ -1603,6 +1675,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 29986,
+      "num": 297466,
+      "word": "刀郎演唱会门票怎么这么贵",
+      "onboard_time": 1735450043,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1735421591,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26365,
+      "num": 221286,
+      "word": "比亚迪登上院士齐聚的央视科晚",
+      "onboard_time": 1735449980,
+      "rank": 36,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 25708,
@@ -1707,7 +1795,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12670,
+      "raw_hot": 13096,
       "num": 1571142,
       "word": "文化中国行唐诗里的秀美山川",
       "onboard_time": 1735372582,
