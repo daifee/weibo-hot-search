@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735499800475,
+  "endTime": 1735500898757,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42070,
+      "num": 42070,
+      "word": "被踢群家长再入群老师发表情包欢迎",
+      "onboard_time": 1735497792,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41468,
       "num": 252537,
       "word": "iG分组",
@@ -465,14 +473,6 @@
       "onboard_time": 1735495993,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37519,
-      "num": 37519,
-      "word": "被踢群家长再入群老师发表情包欢迎",
-      "onboard_time": 1735497792,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37138,
@@ -539,6 +539,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 22370,
+      "num": 22093,
+      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
+      "onboard_time": 1735499951,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21690,
       "num": 21690,
       "word": "非正式跨年派对",
@@ -547,20 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19332,
+      "num": 73685,
+      "word": "南京地铁12月31日晚不组织延时服务",
+      "onboard_time": 1735500072,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19280,
+      "num": 85254,
+      "word": "还有30天就要过大年",
+      "onboard_time": 1735491616,
+      "rank": 9,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 17214,
       "num": 110958,
       "word": "DRG战胜梦之队Pro",
       "onboard_time": 1735492154,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14588,
-      "num": 85254,
-      "word": "还有30天就要过大年",
-      "onboard_time": 1735491616,
-      "rank": 9,
-      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 13606,
