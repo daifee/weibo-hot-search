@@ -1,0 +1,410 @@
+{
+  "runTime": 1735449658313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12747089,
+        "num": 12747089,
+        "word": "韩国客机着火179人遇难",
+        "onboard_time": 1735434137,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1761388,
+        "num": 1761388,
+        "word": "原来赵露思和爸妈在一起时都吃外卖",
+        "onboard_time": 1735446982,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12318,
+        "num": 1120605,
+        "word": "文化中国行唐诗里的秀美山川",
+        "onboard_time": 1735372582,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1105501,
+        "num": 1105501,
+        "word": "樊振东回应WTT声明",
+        "onboard_time": 1735440080,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801422,
+        "num": 801422,
+        "word": "AAA",
+        "onboard_time": 1735448301,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 755009,
+        "num": 755009,
+        "word": "韩国客机着火2名生还者均为乘务员",
+        "onboard_time": 1735448123,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 720022,
+        "num": 720022,
+        "word": "韩国客机着火找到80具遗体99人失踪",
+        "onboard_time": 1735447341,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 704604,
+        "num": 704604,
+        "word": "网红咖啡去世",
+        "onboard_time": 1735437918,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 559682,
+        "num": 559682,
+        "word": "李现演大唐第一美男",
+        "onboard_time": 1735447461,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550390,
+        "num": 550390,
+        "word": "韩国客机坠落事故最新消息",
+        "onboard_time": 1735447101,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1617734,
+        "num": 544467,
+        "word": "秦牛正威分手",
+        "onboard_time": 1735440679,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 963162,
+        "num": 527055,
+        "word": "韩国载181人客机遭鸟击瞬间",
+        "onboard_time": 1735442839,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 731882,
+        "num": 507439,
+        "word": "韩国载181人飞机降落时起火",
+        "onboard_time": 1735433958,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 472860,
+        "num": 472860,
+        "word": "大奉打更人作者肯定王鹤棣演技",
+        "onboard_time": 1735447461,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103210,
+        "num": 436233,
+        "word": "王昶的年终plog",
+        "onboard_time": 1735449260,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427994,
+        "num": 427994,
+        "word": "韩国客机救火现场全是警笛声",
+        "onboard_time": 1735437918,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 409902,
+        "num": 409902,
+        "word": "刘亦菲十年前给女生的祝福太超前",
+        "onboard_time": 1735444879,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353886,
+        "num": 353886,
+        "word": "韩国起火客机无中国籍乘客",
+        "onboard_time": 1735438998,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 334256,
+        "num": 334256,
+        "word": "韩国事发机型为波音737",
+        "onboard_time": 1735442181,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317643,
+        "num": 329584,
+        "word": "秦牛正威 情绪不稳定的人一生远离",
+        "onboard_time": 1735447822,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 987530,
+        "num": 328741,
+        "word": "赵露思失语症状",
+        "onboard_time": 1735400960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325759,
+        "num": 325759,
+        "word": "巴黎街头偶遇迪丽热巴",
+        "onboard_time": 1735441040,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320576,
+        "num": 320576,
+        "word": "韩国客机着火2人生还",
+        "onboard_time": 1735438398,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171389,
+        "num": 319778,
+        "word": "这鬼大奉还会飞啊",
+        "onboard_time": 1735448421,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108827,
+        "num": 319688,
+        "word": "孙颖莎2024单打冠军总结",
+        "onboard_time": 1735448721,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319614,
+        "num": 319614,
+        "word": "抓紧去个税APP确认信息",
+        "onboard_time": 1735432277,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297314,
+        "num": 297314,
+        "word": "时速400公里高铁列车来了",
+        "onboard_time": 1735439120,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 284170,
+        "num": 284170,
+        "word": "韩客机起火前乘客曾发消息称鸟卡机翼",
+        "onboard_time": 1735447582,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234676,
+        "num": 272457,
+        "word": "范世錡 有点羞耻但还是想说",
+        "onboard_time": 1735448361,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85244,
+        "num": 270498,
+        "word": "98年女孩帮老人洗澡很自豪做助浴师",
+        "onboard_time": 1735449081,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270323,
+        "num": 270323,
+        "word": "韩国起火客机疑似撞鸟",
+        "onboard_time": 1735434858,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261185,
+        "num": 261185,
+        "word": "10元手冲咖啡阿姨回应不火",
+        "onboard_time": 1735445419,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251780,
+        "num": 251780,
+        "word": "刘昊然去了欧阳娜娜音乐会",
+        "onboard_time": 1735449260,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243272,
+        "num": 243272,
+        "word": "九重紫这下是真真真真真结局了",
+        "onboard_time": 1735446680,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216951,
+        "num": 216951,
+        "word": "计划3天的全家游只玩了3个小时",
+        "onboard_time": 1735438879,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210867,
+        "num": 210867,
+        "word": "王嘉尔 不爱看别看",
+        "onboard_time": 1735445601,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207105,
+        "num": 207105,
+        "word": "白鹿敖瑞鹏合拍法海你不懂爱",
+        "onboard_time": 1735448301,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199918,
+        "num": 199918,
+        "word": "李昀锐好大一声有",
+        "onboard_time": 1735448662,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191936,
+        "num": 191936,
+        "word": "秦牛正威说没有男友都会改名字",
+        "onboard_time": 1735445121,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186046,
+        "num": 186046,
+        "word": "韩国起火客机曾尝试机腹着陆",
+        "onboard_time": 1735447101,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182507,
+        "num": 182507,
+        "word": "李欣泽 我再也不敢演渣男了",
+        "onboard_time": 1735447641,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179842,
+        "num": 179842,
+        "word": "中国CR450动车组样车发布",
+        "onboard_time": 1735439120,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178532,
+        "num": 178532,
+        "word": "光与夜之恋",
+        "onboard_time": 1735446921,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176676,
+        "num": 176676,
+        "word": "王楚然丞磊领衔主演网剧成何体统",
+        "onboard_time": 1735449381,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173289,
+        "num": 173289,
+        "word": "韩国客机着火事故的乘客短信",
+        "onboard_time": 1735449501,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172292,
+        "num": 172292,
+        "word": "法国多名乒乓球运动员就WTT声明发声",
+        "onboard_time": 1735440139,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165906,
+        "num": 165906,
+        "word": "家长质疑布置作业晚被班主任踢出群",
+        "onboard_time": 1735436358,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163464,
+        "num": 163464,
+        "word": "全红婵点赞陈梦退出世排博文",
+        "onboard_time": 1735442900,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161090,
+        "num": 161090,
+        "word": "陈赫录盒猫2是为了豆角红烧肉",
+        "onboard_time": 1735449081,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156140,
+        "num": 156140,
+        "word": "问界被无人车撞车主形容像碰瓷",
+        "onboard_time": 1735449621,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#2024习近平主席出访的难忘瞬间#"
+    }
+  }
+}
