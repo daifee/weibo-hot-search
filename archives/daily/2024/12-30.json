@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735504517176,
+  "endTime": 1735507171978,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61898,
+      "num": 53014,
+      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
+      "onboard_time": 1735499951,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59874,
       "num": 1187268,
       "word": "2024年国内十大新闻",
@@ -433,14 +441,6 @@
       "onboard_time": 1735492575,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55200,
-      "num": 46990,
-      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
-      "onboard_time": 1735499951,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41468,
@@ -515,6 +515,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 27345,
+      "num": 27345,
+      "word": "李宇春 老了之后自然会调整",
+      "onboard_time": 1735505350,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26591,
       "num": 28207,
       "word": "周深2024最后一支巡演vlog",
@@ -571,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21630,
+      "num": 21630,
+      "word": "贺峻霖说自己拍照就三个动作",
+      "onboard_time": 1735506311,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19280,
       "num": 85254,
       "word": "还有30天就要过大年",
@@ -585,6 +601,14 @@
       "onboard_time": 1735492154,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16058,
+      "num": 16058,
+      "word": "韩国起火客机已确认151人死亡",
+      "onboard_time": 1735504030,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14467,
@@ -641,6 +665,14 @@
       "onboard_time": 1735503612,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9765,
+      "num": 53018,
+      "word": "科技不断上新的中国势不可挡",
+      "onboard_time": 1735506013,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 7322,
