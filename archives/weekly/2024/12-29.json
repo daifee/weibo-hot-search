@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735492740914,
+  "endTime": 1735493766963,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -827,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428554,
+      "num": 428554,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 427555,
       "num": 427555,
       "word": "韩国起火客机起落架没有放下",
@@ -1512,14 +1520,6 @@
       "word": "俄罗斯已就阿航空难向阿塞拜疆认错",
       "onboard_time": 1735482382,
       "rank": 41,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 221397,
-      "num": 221397,
-      "word": "韩国客机遭鸟撞击画面曝光",
-      "onboard_time": 1735491675,
-      "rank": 9,
       "category": "海外新闻"
     },
     {
@@ -3611,6 +3611,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 32988,
+      "num": 319728,
+      "word": "阿塞拜疆总统说失事客机在俄境内受到地面射击",
+      "onboard_time": 1735491795,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32727,
       "num": 179053,
       "word": "有好事发生前的明显信号",
@@ -3891,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11440,
+      "num": 51691,
+      "word": "Tarzan荣获德杯FMVP",
+      "onboard_time": 1735485921,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 10717,
       "num": 103492,
       "word": "被晚安短信安慰了",
@@ -3937,6 +3953,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 7322,
+      "num": 94977,
+      "word": "孙颖莎出席活动和粉丝合影",
+      "onboard_time": 1735493534,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
