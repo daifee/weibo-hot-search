@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735514424484,
+  "endTime": 1735515338562,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -19,8 +19,8 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1451816,
-      "num": 1451816,
+      "raw_hot": 1586008,
+      "num": 1586008,
       "word": "医保个人账户余额自动转结到明年用",
       "onboard_time": 1735491735,
       "rank": 3,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 558336,
+      "num": 558336,
+      "word": "韩国客机遭鸟撞击画面曝光",
+      "onboard_time": 1735491675,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 551470,
       "num": 465896,
       "word": "大奉打更人 浮夸",
@@ -115,12 +123,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 501151,
-      "num": 501151,
-      "word": "韩国客机遭鸟撞击画面曝光",
-      "onboard_time": 1735491675,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 449455,
+      "num": 449455,
+      "word": "美国前总统吉米卡特去世",
+      "onboard_time": 1735513936,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 434006,
@@ -145,6 +153,14 @@
       "onboard_time": 1735486760,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345260,
+      "num": 277446,
+      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
+      "onboard_time": 1735499951,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 331808,
@@ -187,12 +203,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 279056,
-      "num": 254398,
-      "word": "韩客机碰撞起火前6分钟塔台曾发警告",
-      "onboard_time": 1735499951,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 280824,
+      "num": 280824,
+      "word": "湖人篮网交易",
+      "onboard_time": 1735513936,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 274075,
@@ -209,14 +225,6 @@
       "onboard_time": 1735485201,
       "rank": 22,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 258413,
-      "num": 258413,
-      "word": "湖人篮网交易",
-      "onboard_time": 1735513936,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 242923,
@@ -249,6 +257,14 @@
       "onboard_time": 1735482503,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199686,
+      "num": 199686,
+      "word": "李宇春 老了之后自然会调整",
+      "onboard_time": 1735505350,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 186683,
@@ -299,22 +315,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 163060,
-      "num": 163060,
-      "word": "美国前总统吉米卡特去世",
-      "onboard_time": 1735513936,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 157861,
-      "num": 157861,
-      "word": "李宇春 老了之后自然会调整",
-      "onboard_time": 1735505350,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151586,
       "num": 151586,
       "word": "田曦薇的手机壳是临安公主",
@@ -323,20 +323,28 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 149144,
+      "num": 149144,
+      "word": "陈小纭大奉出场仅一个眼神",
+      "onboard_time": 1735514177,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142591,
+      "num": 199359,
+      "word": "王鹤棣泰国演唱会回应新歌争议",
+      "onboard_time": 1735495272,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141936,
       "num": 141936,
       "word": "第一次知道整完容后的后遗症",
       "onboard_time": 1735472720,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 139624,
-      "num": 157751,
-      "word": "王鹤棣泰国演唱会回应新歌争议",
-      "onboard_time": 1735495272,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 139113,
@@ -385,6 +393,14 @@
       "onboard_time": 1735482382,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125658,
+      "num": 125658,
+      "word": "世界排名规则由乒乓球专家设计",
+      "onboard_time": 1735513936,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 122532,
@@ -443,6 +459,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91648,
+      "num": 91648,
+      "word": "现在就出发",
+      "onboard_time": 1735514296,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86050,
+      "num": 86050,
+      "word": "段奕宏老兵到老公只需一个陈思诚",
+      "onboard_time": 1735512973,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 80961,
+      "num": 80961,
+      "word": "提档",
+      "onboard_time": 1735515016,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71671,
       "num": 422779,
       "word": "CR450动车内部长啥样",
@@ -451,28 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63197,
-      "num": 63197,
-      "word": "陈小纭大奉出场仅一个眼神",
-      "onboard_time": 1735514177,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 62758,
-      "num": 62758,
-      "word": "世界排名规则由乒乓球专家设计",
-      "onboard_time": 1735513936,
-      "rank": 33,
+      "raw_hot": 69722,
+      "num": 69722,
+      "word": "樊振东王楚钦2024最后一天巅峰对决",
+      "onboard_time": 1735481842,
+      "rank": 38,
       "category": "体育"
     },
     {
-      "raw_hot": 60474,
-      "num": 60474,
-      "word": "段奕宏老兵到老公只需一个陈思诚",
-      "onboard_time": 1735512973,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 62792,
+      "num": 62792,
+      "word": "肖战李宁直播",
+      "onboard_time": 1735471760,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 59874,
@@ -483,14 +515,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 59679,
-      "num": 59679,
-      "word": "肖战李宁直播",
-      "onboard_time": 1735471760,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58738,
       "num": 58738,
       "word": "马子佳当爸",
@@ -499,28 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54028,
-      "num": 54028,
-      "word": "樊振东王楚钦2024最后一天巅峰对决",
-      "onboard_time": 1735481842,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 51534,
+      "num": 73685,
+      "word": "南京地铁12月31日晚不组织延时服务",
+      "onboard_time": 1735500072,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 45705,
-      "num": 45705,
-      "word": "现在就出发",
-      "onboard_time": 1735514296,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 43527,
-      "num": 43527,
+      "raw_hot": 48883,
+      "num": 48883,
       "word": "过去10年韩国发生67起飞机事故",
       "onboard_time": 1735501271,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 43484,
+      "num": 43484,
+      "word": "拉塞尔重回篮网",
+      "onboard_time": 1735515196,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 42652,
@@ -635,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22437,
+      "num": 837803,
+      "word": "2024他们让五星红旗飘扬国际赛场",
+      "onboard_time": 1735479561,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22423,
       "num": 22423,
       "word": "回顾和周深的小美满时刻",
@@ -649,14 +681,6 @@
       "onboard_time": 1735498691,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21647,
-      "num": 73685,
-      "word": "南京地铁12月31日晚不组织延时服务",
-      "onboard_time": 1735500072,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21630,
@@ -681,14 +705,6 @@
       "onboard_time": 1735491616,
       "rank": 9,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 18454,
-      "num": 837803,
-      "word": "2024他们让五星红旗飘扬国际赛场",
-      "onboard_time": 1735479561,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 17214,
