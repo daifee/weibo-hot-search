@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735493766963,
+  "endTime": 1735496869930,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -379,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 111437,
+      "num": 84380,
+      "word": "王鹤棣泰国演唱会回应新歌争议",
+      "onboard_time": 1735495272,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109244,
       "num": 103388,
       "word": "韩国客机着火179人遇难",
@@ -427,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39571,
+      "num": 39571,
+      "word": "有直播间公然售假羊绒衫不怕举报封号",
+      "onboard_time": 1735494134,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38850,
       "num": 194684,
       "word": "2025LPL抽签",
@@ -443,6 +459,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37876,
+      "num": 37876,
+      "word": "宋亚轩现在就出发年度总结",
+      "onboard_time": 1735495993,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37138,
+      "num": 37138,
+      "word": "易烊千玺演完刘春和半年还有肌肉记忆",
+      "onboard_time": 1735494134,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35583,
+      "num": 35583,
+      "word": "新年快乐",
+      "onboard_time": 1735493774,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32988,
       "num": 319728,
       "word": "阿塞拜疆总统说失事客机在俄境内受到地面射击",
@@ -451,12 +491,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27994,
+      "num": 35794,
+      "word": "8个词送给追光的你",
+      "onboard_time": 1735495333,
+      "rank": 38,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 17214,
       "num": 110958,
       "word": "DRG战胜梦之队Pro",
       "onboard_time": 1735492154,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12724,
+      "num": 84114,
+      "word": "40岁货车司机转行无人机飞手",
+      "onboard_time": 1735496532,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12591,
+      "num": 421113,
+      "word": "2024他们让五星红旗飘扬国际赛场",
+      "onboard_time": 1735479561,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 11440,

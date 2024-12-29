@@ -1,0 +1,410 @@
+{
+  "runTime": 1735496869930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 583100,
+        "num": 583100,
+        "word": "空空日记发文回应",
+        "onboard_time": 1735487658,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 484999,
+        "num": 484999,
+        "word": "韩国客机事故是小错叠加成大错",
+        "onboard_time": 1735478060,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12591,
+        "num": 421113,
+        "word": "2024他们让五星红旗飘扬国际赛场",
+        "onboard_time": 1735479561,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405823,
+        "num": 405823,
+        "word": "医保个人账户余额自动转结到明年用",
+        "onboard_time": 1735491735,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357085,
+        "num": 357085,
+        "word": "韩国客机遭鸟撞击画面曝光",
+        "onboard_time": 1735491675,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 331482,
+        "num": 331482,
+        "word": "大奉打更人 短剧",
+        "onboard_time": 1735487240,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234189,
+        "num": 234189,
+        "word": "沈月亚洲最具影响力排名第一",
+        "onboard_time": 1735488981,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193791,
+        "num": 193791,
+        "word": "遇龙",
+        "onboard_time": 1735487540,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170794,
+        "num": 170794,
+        "word": "韩国大妈目击客机起火爆炸",
+        "onboard_time": 1735474220,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85150,
+        "num": 85150,
+        "word": "阿塞拜疆总统说失事客机并非被故意击落",
+        "onboard_time": 1735488019,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170068,
+        "num": 85137,
+        "word": "她最后一刻发的是妈妈我爱你",
+        "onboard_time": 1735482322,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136043,
+        "num": 84803,
+        "word": "幸存韩国乘务员回忆空难",
+        "onboard_time": 1735461438,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 84530,
+        "word": "韩国知情人士称有毒气体进入机体",
+        "onboard_time": 1735480881,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111437,
+        "num": 84380,
+        "word": "王鹤棣泰国演唱会回应新歌争议",
+        "onboard_time": 1735495272,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12724,
+        "num": 84114,
+        "word": "40岁货车司机转行无人机飞手",
+        "onboard_time": 1735496532,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85598,
+        "num": 83962,
+        "word": "李晨个人巡回演唱会",
+        "onboard_time": 1735480520,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83898,
+        "num": 83898,
+        "word": "大奉打更人 浮夸",
+        "onboard_time": 1735470441,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78037,
+        "num": 78037,
+        "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
+        "onboard_time": 1735485560,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73782,
+        "num": 73782,
+        "word": "医生称咖啡患癌无法避免是基因问题",
+        "onboard_time": 1735478122,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71591,
+        "num": 71591,
+        "word": "枭起青壤",
+        "onboard_time": 1735486340,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75069,
+        "num": 70710,
+        "word": "赵露思的头像是化茧成蝶",
+        "onboard_time": 1735480820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69366,
+        "num": 69366,
+        "word": "济州航空客机全部为波音制造",
+        "onboard_time": 1735465160,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 56842,
+        "num": 56842,
+        "word": "70多位租客被房东要求10天内搬离",
+        "onboard_time": 1735480162,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56031,
+        "num": 56031,
+        "word": "韩国起火客机179名死者全部找到",
+        "onboard_time": 1735475239,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53487,
+        "num": 53487,
+        "word": "这个睡觉姿势是错误的",
+        "onboard_time": 1735484961,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52335,
+        "num": 52335,
+        "word": "黄奕一件礼服塞了一整个车",
+        "onboard_time": 1735472239,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50894,
+        "num": 50894,
+        "word": "徐明浩 不要买小卡",
+        "onboard_time": 1735482503,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47107,
+        "num": 47107,
+        "word": "第一次知道整完容后的后遗症",
+        "onboard_time": 1735472720,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44446,
+        "num": 44446,
+        "word": "九重紫苏琰是宋墨妹妹",
+        "onboard_time": 1735473081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42758,
+        "num": 42758,
+        "word": "小小的我票房",
+        "onboard_time": 1735470260,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41299,
+        "num": 41299,
+        "word": "鹿晗黑甲烟熏妆病娇感",
+        "onboard_time": 1735482922,
+        "rank": 30,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 40329,
+        "word": "机场驱鸟队24小时在岗守护跑道",
+        "onboard_time": 1735473379,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39571,
+        "num": 39571,
+        "word": "有直播间公然售假羊绒衫不怕举报封号",
+        "onboard_time": 1735494134,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38000,
+        "num": 38000,
+        "word": "原打算乘韩国失事客机的中国游客发声",
+        "onboard_time": 1735464259,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37876,
+        "num": 37876,
+        "word": "宋亚轩现在就出发年度总结",
+        "onboard_time": 1735495993,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37138,
+        "num": 37138,
+        "word": "易烊千玺演完刘春和半年还有肌肉记忆",
+        "onboard_time": 1735494134,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36630,
+        "num": 36630,
+        "word": "杨幂发烧咳嗽",
+        "onboard_time": 1735467680,
+        "rank": 36,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 35875,
+        "num": 35875,
+        "word": "广州一地铁口出现密集隔离柱",
+        "onboard_time": 1735480702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27994,
+        "num": 35794,
+        "word": "8个词送给追光的你",
+        "onboard_time": 1735495333,
+        "rank": 38,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 35794,
+        "num": 35793,
+        "word": "姜贞羽来了古装就别走了",
+        "onboard_time": 1735480460,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35583,
+        "num": 35583,
+        "word": "新年快乐",
+        "onboard_time": 1735493774,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35490,
+        "num": 35490,
+        "word": "妻子去世他把婚戒融在一起戴了20年",
+        "onboard_time": 1735469060,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35447,
+        "num": 35447,
+        "word": "因质疑作业把家长踢出群老师已道歉",
+        "onboard_time": 1735485800,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35362,
+        "num": 35362,
+        "word": "古巨基 你还是叫我书桓吧",
+        "onboard_time": 1735479081,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34766,
+        "num": 34766,
+        "word": "女子忘拔充电器把家给烧光",
+        "onboard_time": 1735467680,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34738,
+        "num": 34738,
+        "word": "韩国空难发布会现场家属大哭大吼",
+        "onboard_time": 1735467680,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32462,
+        "num": 32462,
+        "word": "央视曝光部分直播间公然售假羊绒衫",
+        "onboard_time": 1735482862,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32289,
+        "num": 32289,
+        "word": "马子佳当爸",
+        "onboard_time": 1735492575,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31149,
+        "num": 31149,
+        "word": "虞书欣飞机上看粉丝的信",
+        "onboard_time": 1735483583,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30835,
+        "num": 30835,
+        "word": "白桃星座",
+        "onboard_time": 1735485201,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    }
+  }
+}
