@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735486530419,
+  "endTime": 1735489511133,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1110285,
+      "num": 1110285,
+      "word": "空空日记发文回应",
+      "onboard_time": 1735487658,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1095861,
       "num": 541368,
       "word": "韩国7天国家哀悼",
@@ -305,6 +313,14 @@
       "onboard_time": 1735454419,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 920154,
+      "num": 920154,
+      "word": "遇龙",
+      "onboard_time": 1735487540,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 917863,
@@ -579,6 +595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 531540,
+      "num": 327359,
+      "word": "大奉打更人 短剧",
+      "onboard_time": 1735487240,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 529637,
       "num": 529637,
       "word": "广州一地铁口出现密集隔离柱",
@@ -763,6 +787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 434006,
+      "num": 325785,
+      "word": "枭起青壤",
+      "onboard_time": 1735486340,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430311,
       "num": 633781,
       "word": "影视剧难哄",
@@ -881,6 +913,14 @@
       "onboard_time": 1735445121,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375766,
+      "num": 375766,
+      "word": "动画还原韩国客机碰撞起火事故",
+      "onboard_time": 1735486760,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370046,
@@ -1049,6 +1089,14 @@
       "onboard_time": 1735395502,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 320357,
+      "num": 320357,
+      "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
+      "onboard_time": 1735485560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318767,
@@ -1259,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264342,
+      "num": 264342,
+      "word": "阿塞拜疆总统说失事客机并非被故意击落",
+      "onboard_time": 1735488019,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 264210,
       "num": 264210,
       "word": "SEVENTEEN上海签售",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1735435577,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 259932,
-      "num": 259932,
-      "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
-      "onboard_time": 1735485560,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257811,
@@ -1425,6 +1473,14 @@
       "onboard_time": 1735440139,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229085,
+      "num": 332739,
+      "word": "因质疑作业把家长踢出群老师已道歉",
+      "onboard_time": 1735485800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225704,
@@ -1995,14 +2051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187455,
-      "num": 187455,
-      "word": "枭起青壤",
-      "onboard_time": 1735486340,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187164,
       "num": 187164,
       "word": "名侦探学院",
@@ -2044,7 +2092,7 @@
     },
     {
       "raw_hot": 183687,
-      "num": 183687,
+      "num": 252537,
       "word": "iG分组",
       "onboard_time": 1735481002,
       "rank": 49,
@@ -2265,6 +2313,14 @@
       "onboard_time": 1735474220,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166963,
+      "num": 278124,
+      "word": "沈月亚洲最具影响力排名第一",
+      "onboard_time": 1735488981,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 166793,
@@ -2987,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104331,
+      "num": 104331,
+      "word": "九重紫",
+      "onboard_time": 1735486760,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103282,
       "num": 177913,
       "word": "熊猫渝爱初步诊断感染性脱毛",
@@ -3259,14 +3323,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 70315,
-      "num": 332739,
-      "word": "因质疑作业把家长踢出群老师已道歉",
-      "onboard_time": 1735485800,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69380,
       "num": 128309,
       "word": "如果AI也有自己的世界会发生什么",
@@ -3449,6 +3505,14 @@
       "onboard_time": 1735383079,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38520,
+      "num": 364832,
+      "word": "超近距离看CR450更多细节",
+      "onboard_time": 1735489219,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38267,
