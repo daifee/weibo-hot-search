@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735437009862,
+  "endTime": 1735438313799,
   "band_list": [
     {
       "raw_hot": 6455582,
@@ -24,6 +24,14 @@
       "word": "韩国载181人飞机降落时起火",
       "onboard_time": 1735433958,
       "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 2235550,
+      "num": 2235550,
+      "word": "韩国客机起火28人死亡",
+      "onboard_time": 1735434137,
+      "rank": 6,
       "category": "海外新闻"
     },
     {
@@ -67,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662067,
+      "num": 662067,
+      "word": "家长质疑布置作业晚被班主任踢出群",
+      "onboard_time": 1735436358,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 588280,
       "num": 301627,
       "word": "失语症",
       "onboard_time": 1735399521,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 586240,
-      "num": 586240,
-      "word": "韩国客机起火28人死亡",
-      "onboard_time": 1735434137,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 574908,
@@ -91,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562029,
+      "num": 562029,
+      "word": "2025年总台春晚主创团队官宣",
+      "onboard_time": 1735436179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 558222,
       "num": 558222,
       "word": "半夜和男朋友吵架刷机票抢到3元票",
       "onboard_time": 1735404916,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479695,
+      "num": 479695,
+      "word": "咖啡去世",
+      "onboard_time": 1735437918,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 437511,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 423618,
-      "num": 423618,
+      "num": 447336,
       "word": "韩国起火客机疑似撞鸟",
       "onboard_time": 1735434858,
       "rank": 10,
@@ -153,6 +177,14 @@
       "onboard_time": 1735429153,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355359,
+      "num": 355359,
+      "word": "韩国客机起火现场画面",
+      "onboard_time": 1735436358,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 343821,
@@ -203,14 +235,6 @@
       "category": "财经,美食"
     },
     {
-      "raw_hot": 285758,
-      "num": 285758,
-      "word": "家长质疑布置作业晚被班主任踢出群",
-      "onboard_time": 1735436358,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "戏里一双靴子要用到近1000张纸",
@@ -235,14 +259,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 257252,
-      "num": 257252,
-      "word": "韩国客机起火现场画面",
-      "onboard_time": 1735436358,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -259,7 +275,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197577,
+      "raw_hot": 235539,
+      "num": 131348,
+      "word": "张继科说打了十三针封闭",
+      "onboard_time": 1735438099,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208585,
       "num": 197577,
       "word": "千万不要买电极式热水袋",
       "onboard_time": 1735432997,
@@ -297,14 +321,6 @@
       "onboard_time": 1735399461,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 182966,
-      "num": 182966,
-      "word": "2025年总台春晚主创团队官宣",
-      "onboard_time": 1735436179,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 179898,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147841,
+      "num": 425435,
+      "word": "阿鲁纳转发数十条WTT声明下评论",
+      "onboard_time": 1735436179,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145619,
       "num": 145619,
       "word": "黄子韬劝诫粉丝重在参与",
@@ -387,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139190,
+      "num": 139190,
+      "word": "韩国客机救火现场全是警笛声",
+      "onboard_time": 1735437918,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135612,
       "num": 178132,
       "word": "农村自住房子都有预制的了",
@@ -408,6 +440,14 @@
       "word": "16岁男孩每天只睡5小时头先秃了",
       "onboard_time": 1735380861,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131893,
+      "num": 131893,
+      "word": "四川南充一女童从13楼坠下",
+      "onboard_time": 1735437799,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -467,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 121475,
+      "num": 121475,
+      "word": "用短剧方式重温2024",
+      "onboard_time": 1735437918,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 120532,
       "num": 120532,
       "word": "白鹿 不能cue的梗提前说",
@@ -515,20 +563,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 111696,
+      "num": 111696,
+      "word": "李子柒祝你一步步抵达自己的桃源",
+      "onboard_time": 1735438277,
+      "rank": 39,
+      "category": "美食,网红"
+    },
+    {
       "raw_hot": 106877,
       "num": 106877,
       "word": "平台回应成都飞北京仅3元",
       "onboard_time": 1735428554,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105162,
-      "num": 425435,
-      "word": "阿鲁纳转发数十条WTT声明下评论",
-      "onboard_time": 1735436179,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 104386,
@@ -545,6 +593,14 @@
       "onboard_time": 1735397784,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102891,
+      "num": 482714,
+      "word": "WTT称存在处罚是维护公平性",
+      "onboard_time": 1735437317,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 100830,
@@ -611,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93827,
+      "num": 93827,
+      "word": "鱿鱼游戏2",
+      "onboard_time": 1735438219,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92714,
       "num": 92714,
       "word": "众星为樊振东送上祝福",
@@ -667,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77666,
+      "num": 1474913,
+      "word": "长白山森林漂流越夜越美丽",
+      "onboard_time": 1735400542,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 75799,
       "num": 141348,
       "word": "梳理王楚钦被怼脸拍照事件",
       "onboard_time": 1735396521,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75569,
-      "num": 1154572,
-      "word": "长白山森林漂流越夜越美丽",
-      "onboard_time": 1735400542,
-      "rank": 2,
-      "category": "旅游"
     },
     {
       "raw_hot": 74170,
