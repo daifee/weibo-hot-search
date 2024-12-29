@@ -1,7 +1,15 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735441678809,
+  "endTime": 1735443153585,
   "band_list": [
+    {
+      "raw_hot": 9476345,
+      "num": 10309140,
+      "word": "韩国飞机起火死亡升至62人",
+      "onboard_time": 1735434137,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 6768936,
       "num": 8018936,
@@ -43,6 +51,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 2947920,
+      "num": 536778,
+      "word": "秦牛正威分手",
+      "onboard_time": 1735440679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2279154,
       "num": 2279154,
       "word": "樊振东回应WTT声明",
@@ -57,14 +73,6 @@
       "onboard_time": 1735434137,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2135317,
-      "num": 536778,
-      "word": "秦牛正威分手",
-      "onboard_time": 1735440679,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1623904,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 589462,
+      "num": 589462,
+      "word": "巴黎街头偶遇迪丽热巴",
+      "onboard_time": 1735441040,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588280,
       "num": 301627,
       "word": "失语症",
@@ -169,6 +185,14 @@
       "onboard_time": 1735438998,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 509066,
+      "num": 509066,
+      "word": "没结婚北大毕业的86岁奶奶接受采访",
+      "onboard_time": 1735438939,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 479695,
@@ -227,14 +251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 418150,
-      "num": 418150,
-      "word": "没结婚北大毕业的86岁奶奶接受采访",
-      "onboard_time": 1735438939,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 413555,
       "num": 413555,
       "word": "专家回应新毒株来了",
@@ -275,12 +291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346789,
+      "num": 604509,
+      "word": "樊振东称上周接到最新处罚规定通知",
+      "onboard_time": 1735441642,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 343821,
       "num": 197606,
       "word": "九重紫庆功宴",
       "onboard_time": 1735396642,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335104,
+      "num": 388252,
+      "word": "全球最帅面孔",
+      "onboard_time": 1735439359,
+      "rank": 22,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 330292,
@@ -331,6 +363,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 320567,
+      "num": 578878,
+      "word": "时速400公里高铁列车来了",
+      "onboard_time": 1735439120,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 315888,
+      "num": 315888,
+      "word": "中国新高铁列车外形科幻风",
+      "onboard_time": 1735442000,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315258,
+      "num": 383319,
+      "word": "秋瓷炫于晓光韩国新家",
+      "onboard_time": 1735439178,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303684,
       "num": 395492,
       "word": "杨紫也太适合大唐了吧",
@@ -371,28 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272400,
-      "num": 315397,
-      "word": "巴黎街头偶遇迪丽热巴",
-      "onboard_time": 1735441040,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "戏里一双靴子要用到近1000张纸",
       "onboard_time": 1735401501,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268301,
-      "num": 373967,
-      "word": "全球最帅面孔",
-      "onboard_time": 1735439359,
-      "rank": 22,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 266544,
@@ -419,14 +459,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 258454,
-      "num": 310670,
-      "word": "秋瓷炫于晓光韩国新家",
-      "onboard_time": 1735439178,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -435,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244711,
-      "num": 578878,
-      "word": "时速400公里高铁列车来了",
-      "onboard_time": 1735439120,
-      "rank": 8,
-      "category": "正能量"
+      "raw_hot": 245611,
+      "num": 439843,
+      "word": "韩国务安机场所有航班取消起降",
+      "onboard_time": 1735442119,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 243937,
@@ -475,6 +507,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 224602,
+      "num": 401724,
+      "word": "韩国事发机型为波音737",
+      "onboard_time": 1735442181,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223419,
+      "num": 223419,
+      "word": "王楚钦樊振东或再上演神仙对决",
+      "onboard_time": 1735442300,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208640,
       "num": 208640,
       "word": "丁禹兮委屈大家了",
@@ -500,7 +548,7 @@
     },
     {
       "raw_hot": 198251,
-      "num": 198251,
+      "num": 336570,
       "word": "樊振东感谢大家关心",
       "onboard_time": 1735441281,
       "rank": 39,
@@ -531,12 +579,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193366,
+      "num": 193366,
+      "word": "韩国载181人客机遭鸟击瞬间",
+      "onboard_time": 1735442839,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 190570,
       "num": 190570,
       "word": "多位外协选手发文质疑WTT回应",
       "onboard_time": 1735435997,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187756,
+      "num": 187756,
+      "word": "白鹿又白录了",
+      "onboard_time": 1735440799,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 184846,
@@ -547,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183146,
+      "num": 183146,
+      "word": "五月天献唱难哄主题曲",
+      "onboard_time": 1735442780,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179898,
       "num": 179898,
       "word": "台军人持手枪卧射姿势被疑P图",
@@ -555,12 +627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167205,
-      "num": 167205,
-      "word": "白鹿又白录了",
-      "onboard_time": 1735440799,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 172305,
+      "num": 172305,
+      "word": "恋与深空",
+      "onboard_time": 1735442481,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 166793,
@@ -931,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88937,
+      "num": 410645,
+      "word": "海军四川舰正式出坞",
+      "onboard_time": 1735442720,
+      "rank": 12,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 86361,
       "num": 177578,
       "word": "在新疆根本不存在审美疲劳",
@@ -1019,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52829,
+      "num": 320855,
+      "word": "王嘉尔回应GOT7完整体回归",
+      "onboard_time": 1735443079,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51481,
       "num": 178156,
       "word": "2024那些让人心软软的瞬间",
@@ -1067,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39983,
-      "num": 604509,
-      "word": "樊振东称上周接到最新处罚规定通知",
-      "onboard_time": 1735441642,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39344,
       "num": 44013,
       "word": "檀健次不导戏真的可惜了",
@@ -1089,6 +1169,14 @@
       "onboard_time": 1735383079,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36269,
+      "num": 405815,
+      "word": "全红婵点赞陈梦退出世排博文",
+      "onboard_time": 1735442900,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 35678,
@@ -1281,6 +1369,14 @@
       "onboard_time": 1735406896,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2761,
+      "num": 1411443,
+      "word": "文化中国行唐诗里的秀美山川",
+      "onboard_time": 1735372582,
+      "rank": 2,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [

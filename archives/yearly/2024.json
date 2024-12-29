@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735441678809,
+  "endTime": 1735443153585,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9476345,
+      "num": 10309140,
+      "word": "韩国飞机起火死亡升至62人",
+      "onboard_time": 1735434137,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 9465008,
       "num": 9465008,
       "word": "那英 跑调",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1715956409,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8274483,
-      "num": 8274483,
-      "word": "马龙vs林诗栋",
-      "onboard_time": 1728212541,
-      "rank": 4,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
