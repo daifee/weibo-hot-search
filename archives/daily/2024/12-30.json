@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735496869930,
+  "endTime": 1735497641585,
   "band_list": [
     {
       "raw_hot": 1761186,
@@ -291,6 +291,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139624,
+      "num": 139624,
+      "word": "王鹤棣泰国演唱会回应新歌争议",
+      "onboard_time": 1735495272,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139113,
       "num": 139113,
       "word": "原打算乘韩国失事客机的中国游客发声",
@@ -377,14 +385,6 @@
       "onboard_time": 1735467680,
       "rank": 47,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 111437,
-      "num": 84380,
-      "word": "王鹤棣泰国演唱会回应新歌争议",
-      "onboard_time": 1735495272,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 109244,
@@ -475,8 +475,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35583,
-      "num": 35583,
+      "raw_hot": 36091,
+      "num": 36091,
       "word": "新年快乐",
       "onboard_time": 1735493774,
       "rank": 40,
@@ -491,12 +491,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27994,
+      "raw_hot": 28491,
       "num": 35794,
       "word": "8个词送给追光的你",
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 26591,
+      "num": 28207,
+      "word": "周深2024最后一支巡演vlog",
+      "onboard_time": 1735497553,
+      "rank": 48,
+      "category": "音乐,演出"
+    },
+    {
+      "raw_hot": 25807,
+      "num": 28203,
+      "word": "成毅出发湖南跨年",
+      "onboard_time": 1735496353,
+      "rank": 49,
+      "category": "综艺,演出"
     },
     {
       "raw_hot": 17214,
@@ -507,8 +523,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12724,
-      "num": 84114,
+      "raw_hot": 13606,
+      "num": 140009,
       "word": "40岁货车司机转行无人机飞手",
       "onboard_time": 1735496532,
       "rank": 14,

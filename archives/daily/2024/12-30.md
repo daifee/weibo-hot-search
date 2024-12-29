@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/12/30 00:25:11 ~ 2024/12/30 02:27:49
+本榜单时间：2024/12/30 00:25:11 ~ 2024/12/30 02:40:41
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%96%B0%E6%AD%8C%E4%BA%89%E8%AE%AE%23" target="weibo">
+王鹤棣泰国演唱会回应新歌争议（热度：139624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%89%93%E7%AE%97%E4%B9%98%E9%9F%A9%E5%9B%BD%E5%A4%B1%E4%BA%8B%E5%AE%A2%E6%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0%23" target="weibo">
 原打算乘韩国失事客机的中国游客发声（热度：139113）
 </a>
@@ -293,12 +299,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E9%9A%BE%E5%8F%91%E5%B8%83%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%AE%B6%E5%B1%9E%E5%A4%A7%E5%93%AD%E5%A4%A7%E5%90%BC%23" target="weibo">
 韩国空难发布会现场家属大哭大吼（热度：113559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%BA%94%E6%96%B0%E6%AD%8C%E4%BA%89%E8%AE%AE%23" target="weibo">
-王鹤棣泰国演唱会回应新歌争议（热度：111437）
 </a>
 </li>
 
@@ -370,7 +370,7 @@ iG分组（热度：41468）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23" target="weibo">
-新年快乐（热度：35583）
+新年快乐（热度：36091）
 </a>
 </li>
 
@@ -382,7 +382,19 @@ iG分组（热度：41468）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E4%B8%AA%E8%AF%8D%E9%80%81%E7%BB%99%E8%BF%BD%E5%85%89%E7%9A%84%E4%BD%A0%23" target="weibo">
-8个词送给追光的你（热度：27994）
+8个词送给追光的你（热度：28491）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B12024%E6%9C%80%E5%90%8E%E4%B8%80%E6%94%AF%E5%B7%A1%E6%BC%94vlog%23" target="weibo">
+周深2024最后一支巡演vlog（热度：26591）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%87%BA%E5%8F%91%E6%B9%96%E5%8D%97%E8%B7%A8%E5%B9%B4%23" target="weibo">
+成毅出发湖南跨年（热度：25807）
 </a>
 </li>
 
@@ -394,7 +406,7 @@ DRG战胜梦之队Pro（热度：17214）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2340%E5%B2%81%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E8%BD%AC%E8%A1%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E6%89%8B%23" target="weibo">
-40岁货车司机转行无人机飞手（热度：12724）
+40岁货车司机转行无人机飞手（热度：13606）
 </a>
 </li>
 
