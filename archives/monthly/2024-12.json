@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735438313799,
+  "endTime": 1735441140480,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -209,6 +209,14 @@
       "onboard_time": 1734155959,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6768936,
+      "num": 8018936,
+      "word": "韩国飞机起火死亡人数升至47人",
+      "onboard_time": 1735434137,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 6094170,
@@ -1683,6 +1691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1676733,
+      "num": 1676733,
+      "word": "樊振东回应WTT声明",
+      "onboard_time": 1735440080,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1673990,
       "num": 1673990,
       "word": "7岁异瞳女孩在学校受到同学喜爱",
@@ -1801,6 +1817,14 @@
       "onboard_time": 1733221039,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1623904,
+      "num": 1623904,
+      "word": "网红咖啡去世",
+      "onboard_time": 1735437918,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 1621445,
@@ -10443,6 +10467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 670064,
+      "num": 522834,
+      "word": "秦牛正威分手",
+      "onboard_time": 1735440679,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670061,
       "num": 670061,
       "word": "女子婚礼前一天被拒婚假遭公司辞退",
@@ -10697,6 +10729,14 @@
       "onboard_time": 1734186499,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 661425,
+      "num": 661425,
+      "word": "张继科说打了十三针封闭",
+      "onboard_time": 1735438099,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 660931,
@@ -18739,6 +18779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424536,
+      "num": 424536,
+      "word": "韩国客机起火现场画面",
+      "onboard_time": 1735436358,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 424164,
       "num": 424164,
       "word": "董某石寻衅滋事被行拘7日",
@@ -19009,6 +19057,14 @@
       "onboard_time": 1735372521,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419352,
+      "num": 419352,
+      "word": "韩国起火客机无中国籍乘客",
+      "onboard_time": 1735438998,
+      "rank": 12,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 419256,
@@ -20131,6 +20187,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 398238,
+      "num": 398238,
+      "word": "没结婚北大毕业的86岁奶奶接受采访",
+      "onboard_time": 1735438939,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 398200,
       "num": 705837,
       "word": "尹锡悦拒绝提前下台",
@@ -20233,6 +20297,14 @@
       "onboard_time": 1733560340,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 396351,
+      "num": 396351,
+      "word": "中国CR450动车组样车发布",
+      "onboard_time": 1735439120,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396280,
@@ -20369,6 +20441,14 @@
       "onboard_time": 1733820439,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394513,
+      "num": 394513,
+      "word": "韩国起火客机已有3人获救",
+      "onboard_time": 1735438398,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 394492,
@@ -21875,6 +21955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365024,
+      "num": 396200,
+      "word": "影视剧难哄",
+      "onboard_time": 1735438518,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364659,
       "num": 364659,
       "word": "12月狗屎运最旺的星座",
@@ -22537,14 +22625,6 @@
       "onboard_time": 1733837602,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355359,
-      "num": 355359,
-      "word": "韩国客机起火现场画面",
-      "onboard_time": 1735436358,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 354898,
@@ -24051,6 +24131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 329438,
+      "num": 329438,
+      "word": "计划3天的全家游只玩了3个小时",
+      "onboard_time": 1735438879,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329405,
       "num": 223240,
       "word": "在香港花400万买了15平米的家",
@@ -24305,6 +24393,14 @@
       "onboard_time": 1734919817,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326154,
+      "num": 395694,
+      "word": "难哄主题曲是五月天唱的",
+      "onboard_time": 1735440139,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 325896,
@@ -25865,6 +25961,14 @@
       "onboard_time": 1733484320,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303684,
+      "num": 395492,
+      "word": "杨紫也太适合大唐了吧",
+      "onboard_time": 1735439058,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 303374,
@@ -28803,6 +28907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267243,
+      "num": 373967,
+      "word": "全球最帅面孔",
+      "onboard_time": 1735439359,
+      "rank": 22,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 267219,
       "num": 365664,
       "word": "江苏有个广场舞场地自带BGM结界",
@@ -29097,6 +29209,14 @@
       "onboard_time": 1734078679,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264187,
+      "num": 264187,
+      "word": "愿2025年的你总有美好在路上",
+      "onboard_time": 1735440139,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 264171,
@@ -30675,6 +30795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 248185,
+      "num": 305843,
+      "word": "秋瓷炫于晓光韩国新家",
+      "onboard_time": 1735439178,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248031,
       "num": 402420,
       "word": "年味氛围组已就位",
@@ -31121,6 +31249,14 @@
       "onboard_time": 1734933558,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244711,
+      "num": 544396,
+      "word": "时速400公里高铁列车来了",
+      "onboard_time": 1735439120,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 244708,
@@ -32275,14 +32411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 235539,
-      "num": 131348,
-      "word": "张继科说打了十三针封闭",
-      "onboard_time": 1735438099,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 235477,
       "num": 235477,
       "word": "赵今麦刘浩存最新MiuMiu大片",
@@ -32513,6 +32641,14 @@
       "onboard_time": 1733710520,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233746,
+      "num": 395047,
+      "word": "王嘉尔回复粉丝",
+      "onboard_time": 1735439959,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 233738,
@@ -32755,6 +32891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231891,
+      "num": 231891,
+      "word": "韩国客机救火现场全是警笛声",
+      "onboard_time": 1735437918,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 231764,
       "num": 231764,
       "word": "淮南一供暖管道发生爆裂4人轻伤",
@@ -32873,6 +33017,14 @@
       "onboard_time": 1734594139,
       "rank": 26,
       "category": "剧集,休闲"
+    },
+    {
+      "raw_hot": 230978,
+      "num": 351435,
+      "word": "法国多名乒乓球运动员就WTT声明发声",
+      "onboard_time": 1735440139,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 230903,
@@ -33465,6 +33617,14 @@
       "onboard_time": 1733108838,
       "rank": 47,
       "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 227498,
+      "num": 394612,
+      "word": "黑神话主题曲在央视晚会开唱了",
+      "onboard_time": 1735440320,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 227474,
@@ -34721,6 +34881,14 @@
       "onboard_time": 1735092677,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 219400,
+      "num": 219400,
+      "word": "WTT发王楚钦年度总结",
+      "onboard_time": 1735440139,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 219352,
@@ -36785,6 +36953,14 @@
       "onboard_time": 1734922098,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208317,
+      "num": 208317,
+      "word": "四川南充一女童从13楼坠下",
+      "onboard_time": 1735437799,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208304,
@@ -48091,6 +48267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171497,
+      "num": 171497,
+      "word": "剧集成何体统",
+      "onboard_time": 1735440679,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171462,
       "num": 171462,
       "word": "隋文静复出",
@@ -49121,6 +49305,14 @@
       "onboard_time": 1734179600,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168510,
+      "num": 168510,
+      "word": "丁禹兮委屈大家了",
+      "onboard_time": 1735440739,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 168508,
@@ -54547,6 +54739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153632,
+      "num": 153632,
+      "word": "巴黎街头偶遇迪丽热巴",
+      "onboard_time": 1735441040,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153628,
       "num": 153628,
       "word": "华为将发布智界R7增程版",
@@ -56105,6 +56305,14 @@
       "onboard_time": 1734778758,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149381,
+      "num": 149381,
+      "word": "白鹿又白录了",
+      "onboard_time": 1735440799,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 149375,
@@ -58531,6 +58739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142299,
+      "num": 142299,
+      "word": "太阳vs勇士",
+      "onboard_time": 1735439899,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142285,
       "num": 142285,
       "word": "鹿晗对陈赫撒娇够我学十年",
@@ -59771,14 +59987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139190,
-      "num": 139190,
-      "word": "韩国客机救火现场全是警笛声",
-      "onboard_time": 1735437918,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139168,
       "num": 258484,
       "word": "没停车44天后却要缴2334元",
@@ -60209,6 +60417,14 @@
       "onboard_time": 1733272642,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137842,
+      "num": 137842,
+      "word": "劳模孙颖莎今年最后一赛",
+      "onboard_time": 1735440139,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 137839,
@@ -62288,14 +62504,6 @@
       "word": "驻日美军士兵酒后私闯民宅还大睡",
       "onboard_time": 1732995131,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131893,
-      "num": 131893,
-      "word": "四川南充一女童从13楼坠下",
-      "onboard_time": 1735437799,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -76203,6 +76411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82738,
+      "num": 1642780,
+      "word": "长白山森林漂流越夜越美丽",
+      "onboard_time": 1735400542,
+      "rank": 2,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 82682,
       "num": 82682,
       "word": "广东最低温再次破0",
@@ -77409,14 +77625,6 @@
       "onboard_time": 1733297195,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77666,
-      "num": 1474913,
-      "word": "长白山森林漂流越夜越美丽",
-      "onboard_time": 1735400542,
-      "rank": 2,
-      "category": "旅游"
     },
     {
       "raw_hot": 77590,
