@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735524156972,
+  "endTime": 1735527336367,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -259,12 +259,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 1212931,
+      "num": 1212931,
+      "word": "雷军千万年薪挖角95后AI天才少女",
+      "onboard_time": 1735522759,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1193071,
       "num": 1193071,
       "word": "第一次知道整完容后的后遗症",
       "onboard_time": 1735472720,
       "rank": 4,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1173881,
+      "num": 1173881,
+      "word": "韩国客机撞墙前6分钟鸟情预警",
+      "onboard_time": 1735522279,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1142187,
@@ -289,6 +305,14 @@
       "onboard_time": 1735517540,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1130410,
+      "num": 338741,
+      "word": "大奉打更人被演技劝退",
+      "onboard_time": 1735523299,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1095861,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 812996,
+      "num": 812996,
+      "word": "难哄",
+      "onboard_time": 1735525759,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 805241,
       "num": 805241,
       "word": "难哄 任性",
@@ -465,14 +497,6 @@
       "onboard_time": 1735432938,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 749628,
-      "num": 574160,
-      "word": "雷军千万年薪挖角95后AI天才少女",
-      "onboard_time": 1735522759,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 746627,
@@ -659,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568469,
+      "num": 568469,
+      "word": "海口官方通报小学生校内死亡",
+      "onboard_time": 1735525698,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 562393,
       "num": 562393,
       "word": "韩国事发机型为波音737",
@@ -801,6 +833,14 @@
       "onboard_time": 1735479081,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483558,
+      "num": 318175,
+      "word": "奉劝大家12月份的工资别乱花",
+      "onboard_time": 1735525337,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 479695,
@@ -995,6 +1035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 390754,
+      "num": 390754,
+      "word": "王鹤棣演技",
+      "onboard_time": 1735524619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390739,
       "num": 508913,
       "word": "专家称韩国空难或因机组操作不当",
@@ -1067,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358777,
+      "num": 358777,
+      "word": "缅北明家犯罪集团案39人被提起公诉",
+      "onboard_time": 1735521259,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 353747,
       "num": 318059,
       "word": "这个睡觉姿势是错误的",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1735466659,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 352173,
-      "num": 352173,
-      "word": "缅北明家犯罪集团案39人被提起公诉",
-      "onboard_time": 1735521259,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 346789,
@@ -1331,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 293417,
+      "num": 293417,
+      "word": "12月31日晚7时发表新年贺词",
+      "onboard_time": 1735526358,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 292915,
       "num": 401829,
       "word": "佑灰",
@@ -1435,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273685,
-      "num": 273685,
-      "word": "大奉打更人被演技劝退",
-      "onboard_time": 1735523299,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "戏里一双靴子要用到近1000张纸",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1735523418,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266775,
+      "num": 266775,
+      "word": "男童游乐场被陌生小孩从1米高台推下",
+      "onboard_time": 1735524139,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266544,
@@ -1531,12 +1587,28 @@
       "category": "电竞,海外新闻"
     },
     {
+      "raw_hot": 256125,
+      "num": 256125,
+      "word": "人生第一次坐机龄0年的宝宝机",
+      "onboard_time": 1735522999,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251542,
       "num": 322548,
       "word": "丁禹兮 烟花易冷",
       "onboard_time": 1735472420,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251344,
+      "num": 251344,
+      "word": "每一个奋斗的你都是中国的底气",
+      "onboard_time": 1735525759,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 250034,
@@ -1569,6 +1641,14 @@
       "onboard_time": 1735478660,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246898,
+      "num": 246898,
+      "word": "樊振东退出世排后首赛",
+      "onboard_time": 1735523178,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 245611,
@@ -1675,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221340,
-      "num": 195691,
-      "word": "人生第一次坐机龄0年的宝宝机",
-      "onboard_time": 1735522999,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221295,
       "num": 476340,
       "word": "海军四川舰正式出坞",
@@ -1769,6 +1841,14 @@
       "onboard_time": 1735451658,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213212,
+      "num": 213212,
+      "word": "阿信好会写",
+      "onboard_time": 1735526358,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 212697,
@@ -1899,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204868,
+      "num": 204868,
+      "word": "周深说成为歌手是他生命的一次意外",
+      "onboard_time": 1735525999,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204832,
       "num": 217933,
       "word": "国王vs湖人",
@@ -1988,7 +2076,7 @@
     },
     {
       "raw_hot": 200825,
-      "num": 200825,
+      "num": 312168,
       "word": "Uzi说al没有ale是史诗级加强",
       "onboard_time": 1735521739,
       "rank": 29,
@@ -2081,6 +2169,14 @@
       "onboard_time": 1735472961,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196436,
+      "num": 196436,
+      "word": "阿塞拜疆",
+      "onboard_time": 1735524077,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 195791,
@@ -2251,6 +2347,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 188093,
+      "num": 188093,
+      "word": "孙颖莎2024年收获满满",
+      "onboard_time": 1735526117,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188013,
       "num": 188013,
       "word": "第五人格",
@@ -2347,19 +2451,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182348,
-      "num": 182348,
-      "word": "韩国客机撞墙前6分钟鸟情预警",
-      "onboard_time": 1735522279,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 181613,
       "num": 229943,
       "word": "李现国色芳华新皮肤",
       "onboard_time": 1735446680,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180935,
+      "num": 180935,
+      "word": "归棹",
+      "onboard_time": 1735524619,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2457,6 +2561,14 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172862,
+      "num": 172862,
+      "word": "缅北4名中国警察卧底被害等传言不实",
+      "onboard_time": 1735527199,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171670,
@@ -2561,6 +2673,14 @@
       "onboard_time": 1735481482,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165323,
+      "num": 180921,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164844,
@@ -2683,14 +2803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157222,
-      "num": 180921,
-      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
-      "onboard_time": 1735515677,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156391,
       "num": 156391,
       "word": "西蒙高茨称不接受WTT声明",
@@ -2761,6 +2873,14 @@
       "onboard_time": 1735459580,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150059,
+      "num": 150059,
+      "word": "微博年度关键词松弛感",
+      "onboard_time": 1735527079,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 149144,
@@ -3331,14 +3451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105966,
-      "num": 105966,
-      "word": "阿塞拜疆",
-      "onboard_time": 1735524077,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104386,
       "num": 177700,
       "word": "西村力kpop首帅",
@@ -3457,14 +3569,6 @@
       "onboard_time": 1735399341,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96518,
-      "num": 96518,
-      "word": "男童游乐场被陌生小孩从1米高台推下",
-      "onboard_time": 1735524139,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96360,
@@ -3665,6 +3769,14 @@
       "onboard_time": 1735489699,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71582,
+      "num": 597110,
+      "word": "刘传健就韩国客机失事发声",
+      "onboard_time": 1735527018,
+      "rank": 9,
+      "category": "艺人,国际时政"
     },
     {
       "raw_hot": 70622,
@@ -3899,6 +4011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42200,
+      "num": 339241,
+      "word": "2024年十大国际事件",
+      "onboard_time": 1735527018,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
@@ -3988,7 +4108,7 @@
     },
     {
       "raw_hot": 35770,
-      "num": 1153458,
+      "num": 1185488,
       "word": "2024他们让五星红旗飘扬国际赛场",
       "onboard_time": 1735479561,
       "rank": 2,
@@ -4019,12 +4139,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 34478,
+      "num": 413764,
+      "word": "樊振东好看又能打",
+      "onboard_time": 1735524319,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33943,
       "num": 55585,
       "word": "官方通报花3千订房入住被要求加钱",
       "onboard_time": 1735408634,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 33921,
+      "num": 231771,
+      "word": "乒超联赛总决赛今日开赛",
+      "onboard_time": 1735517839,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 32988,
@@ -4107,12 +4243,28 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 27180,
+      "num": 266490,
+      "word": "研究生是非要期末考吗",
+      "onboard_time": 1735527018,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
       "onboard_time": 1735406117,
       "rank": 23,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 26771,
+      "num": 349983,
+      "word": "蒯曼覃予萱vs陈熠刘炜珊",
+      "onboard_time": 1735527139,
+      "rank": 18,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 26591,
