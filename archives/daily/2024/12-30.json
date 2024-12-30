@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735543406356,
+  "endTime": 1735544195443,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -27,20 +27,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1766704,
+      "num": 1766704,
+      "word": "20岁儿子死在缅北妈妈被骗90万元",
+      "onboard_time": 1735541600,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1764650,
+      "num": 1764650,
+      "word": "中国人在缅北被明码标价交易",
+      "onboard_time": 1735540219,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1761186,
       "num": 1761186,
       "word": "韩国客机事故是小错叠加成大错",
       "onboard_time": 1735478060,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1698563,
-      "num": 1698563,
-      "word": "中国人在缅北被明码标价交易",
-      "onboard_time": 1735540219,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1697786,
@@ -139,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1039407,
-      "num": 1039407,
-      "word": "20岁儿子死在缅北妈妈被骗90万元",
-      "onboard_time": 1735541600,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -209,6 +209,14 @@
       "onboard_time": 1735525698,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 748777,
+      "num": 748777,
+      "word": "贾玲C位",
+      "onboard_time": 1735542739,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 734327,
@@ -323,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 535190,
+      "num": 535190,
+      "word": "大奉打更人收视率破1",
+      "onboard_time": 1735540159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525339,
       "num": 525339,
       "word": "感觉我生了小孩就是这样的父母",
@@ -345,14 +361,6 @@
       "onboard_time": 1735535302,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 509385,
-      "num": 509385,
-      "word": "大奉打更人收视率破1",
-      "onboard_time": 1735540159,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 495031,
@@ -395,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 443297,
+      "num": 443297,
+      "word": "苏新皓的网盘",
+      "onboard_time": 1735541539,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434006,
       "num": 362735,
       "word": "枭起青壤",
@@ -417,6 +433,22 @@
       "onboard_time": 1735528339,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 420989,
+      "num": 420989,
+      "word": "孙颖莎王楚钦上海同行被偶遇",
+      "onboard_time": 1735542859,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 415306,
+      "num": 415306,
+      "word": "缅北明家都干了哪些恶事",
+      "onboard_time": 1735540159,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 414299,
@@ -448,14 +480,6 @@
       "word": "住北京0.5环是什么体验",
       "onboard_time": 1735527739,
       "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386665,
-      "num": 386665,
-      "word": "缅北明家都干了哪些恶事",
-      "onboard_time": 1735540159,
-      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -539,6 +563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344817,
+      "num": 344817,
+      "word": "鸟类为何不避开飞机",
+      "onboard_time": 1735542200,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 341328,
       "num": 341328,
       "word": "杨紫一滴泪演到你心碎",
@@ -555,11 +587,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336985,
+      "num": 336985,
+      "word": "离婚也要争婆婆的抚养权",
+      "onboard_time": 1735540999,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 331808,
       "num": 331808,
       "word": "韩国起火客机179名死者全部找到",
       "onboard_time": 1735475239,
       "rank": 13,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 328968,
+      "num": 328968,
+      "word": "韩国济州航空同机型飞机故障返航",
+      "onboard_time": 1735541780,
+      "rank": 16,
       "category": "海外新闻"
     },
     {
@@ -587,36 +635,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319744,
-      "num": 319744,
-      "word": "韩国济州航空同机型飞机故障返航",
-      "onboard_time": 1735541780,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 315041,
       "num": 315041,
       "word": "虞书欣 往那一站和小手办一样",
       "onboard_time": 1735518620,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314751,
-      "num": 314751,
-      "word": "苏新皓的网盘",
-      "onboard_time": 1735541539,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310441,
-      "num": 310441,
-      "word": "离婚也要争婆婆的抚养权",
-      "onboard_time": 1735540999,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 301083,
@@ -699,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275651,
-      "num": 275651,
-      "word": "鸟类为何不避开飞机",
-      "onboard_time": 1735542200,
-      "rank": 34,
-      "category": "科学科普"
+      "raw_hot": 275008,
+      "num": 275008,
+      "word": "四川一高中老师被指与学生有不雅行为",
+      "onboard_time": 1735544001,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274260,
@@ -771,6 +795,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 257117,
+      "num": 257117,
+      "word": "陈梦提新车",
+      "onboard_time": 1735543819,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256125,
       "num": 256125,
       "word": "人生第一次坐机龄0年的宝宝机",
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245146,
+      "num": 245146,
+      "word": "薛之谦王俊凯 天外来物",
+      "onboard_time": 1735541600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244022,
       "num": 244022,
       "word": "果农回应车厘子喂鸡系用的次果",
@@ -825,6 +865,14 @@
       "onboard_time": 1735472239,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241247,
+      "num": 244790,
+      "word": "哪部剧是2024年黑马剧",
+      "onboard_time": 1735539680,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 239274,
@@ -859,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236091,
-      "num": 236091,
-      "word": "薛之谦王俊凯 天外来物",
-      "onboard_time": 1735541600,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 233691,
       "num": 233691,
       "word": "为什么年轻人开始积极存钱",
@@ -899,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224714,
-      "num": 318416,
-      "word": "孙颖莎王楚钦上海同行被偶遇",
-      "onboard_time": 1735542859,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218754,
       "num": 254758,
       "word": "周深说成为歌手是他生命的一次意外",
@@ -921,6 +953,14 @@
       "onboard_time": 1735535242,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212483,
+      "num": 212483,
+      "word": "WTT长期赞助商只有4个",
+      "onboard_time": 1735543220,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 211635,
@@ -955,12 +995,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 205837,
+      "num": 205837,
+      "word": "韩国旅游业受到重创",
+      "onboard_time": 1735542798,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205788,
       "num": 205788,
       "word": "阿塞拜疆",
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203871,
+      "num": 203871,
+      "word": "aespa 紫菜包饭",
+      "onboard_time": 1735541780,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 201757,
@@ -1123,14 +1179,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184512,
-      "num": 244790,
-      "word": "哪部剧是2024年黑马剧",
-      "onboard_time": 1735539680,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183082,
       "num": 360386,
       "word": "WTT世界排名",
@@ -1147,14 +1195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182056,
-      "num": 182056,
-      "word": "aespa 紫菜包饭",
-      "onboard_time": 1735541780,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 181301,
       "num": 181301,
       "word": "九重紫苏琰是宋墨妹妹",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1735470260,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 181206,
-      "num": 318620,
-      "word": "贾玲C位",
-      "onboard_time": 1735542739,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177812,
@@ -1211,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171995,
+      "num": 171995,
+      "word": "张凌赫梦女吃得太好了",
+      "onboard_time": 1735543880,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171692,
       "num": 171692,
       "word": "虞书欣飞机上看粉丝的信",
@@ -1235,6 +1275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 166292,
+      "num": 166292,
+      "word": "十个勤天 民俗表演直播",
+      "onboard_time": 1735543938,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165918,
       "num": 278126,
       "word": "登陆少年像极了被老师提问的我",
@@ -1252,7 +1300,7 @@
     },
     {
       "raw_hot": 164722,
-      "num": 1300334,
+      "num": 1765441,
       "word": "10个关键词收藏2024记忆",
       "onboard_time": 1735521259,
       "rank": 9,
@@ -1291,28 +1339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156258,
-      "num": 156258,
-      "word": "韩国旅游业受到重创",
-      "onboard_time": 1735542798,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155665,
       "num": 251244,
       "word": "江苏卫视跨年无尽空间镜面舞台",
       "onboard_time": 1735539859,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151612,
-      "num": 151612,
-      "word": "WTT长期赞助商只有4个",
-      "onboard_time": 1735543220,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 151586,
@@ -1360,6 +1392,14 @@
       "word": "孙颖莎2024总结",
       "onboard_time": 1735533082,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145712,
+      "num": 669119,
+      "word": "孙颖莎总结乒超半决赛",
+      "onboard_time": 1735542258,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -1481,6 +1521,14 @@
       "onboard_time": 1735522159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125359,
+      "num": 338250,
+      "word": "杨幂八年八连登封费加罗",
+      "onboard_time": 1735543340,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 124111,
@@ -1635,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93623,
-      "num": 669119,
-      "word": "孙颖莎总结乒超半决赛",
-      "onboard_time": 1735542258,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91648,
       "num": 91648,
       "word": "现在就出发",
@@ -1691,6 +1731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83932,
+      "num": 421804,
+      "word": "韩国将全面检查现有波音737-800型客机",
+      "onboard_time": 1735542559,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78470,
       "num": 710787,
       "word": "韩客机事故目击者听到多声爆炸",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1735534042,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77623,
-      "num": 316387,
-      "word": "杨幂八年八连登封费加罗",
-      "onboard_time": 1735543340,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73575,
@@ -1843,6 +1883,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 49241,
+      "num": 315563,
+      "word": "韩国失事客机后续航班乘客称退票遭拒",
+      "onboard_time": 1735543039,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48883,
       "num": 48883,
       "word": "过去10年韩国发生67起飞机事故",
@@ -1892,7 +1940,7 @@
     },
     {
       "raw_hot": 42245,
-      "num": 319354,
+      "num": 340679,
       "word": "孩子表演时彩虹合唱团突然乱入",
       "onboard_time": 1735542258,
       "rank": 19,
@@ -1953,14 +2001,6 @@
       "onboard_time": 1735495993,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37363,
-      "num": 379669,
-      "word": "韩国将全面检查现有波音737-800型客机",
-      "onboard_time": 1735542559,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37138,
@@ -2059,14 +2099,6 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 28324,
-      "num": 315563,
-      "word": "韩国失事客机后续航班乘客称退票遭拒",
-      "onboard_time": 1735543039,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26591,
       "num": 28207,
       "word": "周深2024最后一支巡演vlog",
@@ -2075,12 +2107,28 @@
       "category": "音乐,演出"
     },
     {
+      "raw_hot": 26533,
+      "num": 421091,
+      "word": "韩调查机关申请尹锡悦逮捕令",
+      "onboard_time": 1735543519,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25807,
       "num": 28203,
       "word": "成毅出发湖南跨年",
       "onboard_time": 1735496353,
       "rank": 49,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 25067,
+      "num": 342073,
+      "word": "演员如何挣脱一个既定形",
+      "onboard_time": 1735543280,
+      "rank": 17,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 24676,
@@ -2145,14 +2193,6 @@
       "onboard_time": 1735536740,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20219,
-      "num": 319631,
-      "word": "演员如何挣脱一个既定形",
-      "onboard_time": 1735543280,
-      "rank": 17,
-      "category": "艺人,剧集"
     },
     {
       "raw_hot": 19280,
