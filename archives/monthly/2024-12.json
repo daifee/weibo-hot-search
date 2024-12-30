@@ -1,6 +1,6 @@
 {
   "startTime": 1732984036048,
-  "endTime": 1735533658477,
+  "endTime": 1735536132122,
   "band_list": [
     {
       "raw_hot": 28317407,
@@ -1779,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1697786,
+      "num": 1697786,
+      "word": "央视跨年晚会第一批阵容官宣",
+      "onboard_time": 1735532001,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1684312,
       "num": 1684312,
       "word": "女网红拿无人区救命粮喂狗",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1733119398,
       "rank": 1,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 1603840,
-      "num": 1603840,
-      "word": "央视跨年晚会第一批阵容官宣",
-      "onboard_time": 1735532001,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1602702,
@@ -13355,6 +13355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 586576,
+      "num": 586576,
+      "word": "晓华爆改90后女工程师",
+      "onboard_time": 1735534823,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 586051,
       "num": 423672,
       "word": "白敬亭 给我个解释",
@@ -16425,6 +16433,14 @@
       "onboard_time": 1734266059,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495031,
+      "num": 368880,
+      "word": "建议不要在12月提离职",
+      "onboard_time": 1735534281,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 494888,
@@ -20227,6 +20243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 414299,
+      "num": 414299,
+      "word": "庆余年2今年全网唯一集均破亿剧",
+      "onboard_time": 1735533863,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 414194,
       "num": 350833,
       "word": "程潇妆造",
@@ -22331,6 +22355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374750,
+      "num": 566841,
+      "word": "清华法学院教授谈邯郸初中生被杀案",
+      "onboard_time": 1735532961,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 374478,
       "num": 267097,
       "word": "快乐再出发",
@@ -22665,6 +22697,14 @@
       "onboard_time": 1733111179,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369324,
+      "num": 369324,
+      "word": "邯郸初中生遇害案2人被判负刑责",
+      "onboard_time": 1735530561,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368957,
@@ -23425,6 +23465,14 @@
       "onboard_time": 1734491960,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 356751,
+      "num": 356751,
+      "word": "付费上班终于还是出现了",
+      "onboard_time": 1735535302,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 356723,
@@ -24363,6 +24411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341560,
+      "num": 369318,
+      "word": "肖战蝉联第6年世首帅",
+      "onboard_time": 1735535302,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341500,
       "num": 341500,
       "word": "赵丽颖央视新闻夜读",
@@ -24409,6 +24465,14 @@
       "onboard_time": 1735032620,
       "rank": 38,
       "category": "作品衍生,体育"
+    },
+    {
+      "raw_hot": 341328,
+      "num": 341328,
+      "word": "杨紫一滴泪演到你心碎",
+      "onboard_time": 1735533863,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 340956,
@@ -24531,6 +24595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339558,
+      "num": 339558,
+      "word": "郑合惠子 小姨是种感觉",
+      "onboard_time": 1735534823,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339198,
       "num": 339198,
       "word": "央视揭电子医保卡村推骗局",
@@ -24545,6 +24617,14 @@
       "onboard_time": 1733220560,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338882,
+      "num": 566525,
+      "word": "阿塞拜疆总统要求俄方认错并赔偿",
+      "onboard_time": 1735532181,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 338603,
@@ -24609,14 +24689,6 @@
       "onboard_time": 1734857118,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337423,
-      "num": 566525,
-      "word": "阿塞拜疆总统要求俄方认错并赔偿",
-      "onboard_time": 1735532181,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 337088,
@@ -28763,6 +28835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283122,
+      "num": 565642,
+      "word": "恩利说自己曾反抗过父母",
+      "onboard_time": 1735532961,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283083,
       "num": 615455,
       "word": "专家分析叙利亚局势骤然升级原因",
@@ -30072,6 +30152,14 @@
       "word": "孟子义李昀锐贴贴拍照",
       "onboard_time": 1734190761,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 269073,
+      "num": 269073,
+      "word": "男频剧",
+      "onboard_time": 1735392861,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -33811,14 +33899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 235795,
-      "num": 566841,
-      "word": "清华法学院教授谈邯郸初中生被杀案",
-      "onboard_time": 1735532961,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235783,
       "num": 216009,
       "word": "TREASURE回归",
@@ -34121,6 +34201,14 @@
       "onboard_time": 1735187598,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233691,
+      "num": 233691,
+      "word": "为什么年轻人开始积极存钱",
+      "onboard_time": 1735534281,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 233681,
@@ -34609,6 +34697,14 @@
       "onboard_time": 1732976841,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 230293,
+      "num": 230293,
+      "word": "韩国惨烈空难背后有何疑点待解",
+      "onboard_time": 1735533443,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 230204,
@@ -38611,14 +38707,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 208289,
-      "num": 208289,
-      "word": "韩国惨烈空难背后有何疑点待解",
-      "onboard_time": 1735533443,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208220,
       "num": 172057,
       "word": "想堵住李昀锐这张嘴",
@@ -39673,6 +39761,14 @@
       "onboard_time": 1733203580,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204596,
+      "num": 369236,
+      "word": "湖南卫视跨年彩排",
+      "onboard_time": 1735535242,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 204588,
@@ -44291,6 +44387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191416,
+      "num": 366301,
+      "word": "误杀3 肖央是蓝环章鱼",
+      "onboard_time": 1735535360,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191371,
       "num": 191371,
       "word": "巫师4预告片",
@@ -47196,7 +47300,7 @@
     },
     {
       "raw_hot": 183082,
-      "num": 183082,
+      "num": 360386,
       "word": "WTT世界排名",
       "onboard_time": 1735522878,
       "rank": 41,
@@ -68963,14 +69067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121114,
-      "num": 565642,
-      "word": "恩利说自己曾反抗过父母",
-      "onboard_time": 1735532961,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121112,
       "num": 231714,
       "word": "律师谈女生拍私密写真被碰隐私处",
@@ -69801,6 +69897,14 @@
       "onboard_time": 1733009835,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118709,
+      "num": 263386,
+      "word": "2025春运购票日历",
+      "onboard_time": 1735533982,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118707,
@@ -72953,14 +73057,6 @@
       "onboard_time": 1734484279,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108389,
-      "num": 108389,
-      "word": "男频剧",
-      "onboard_time": 1735392861,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108388,
@@ -83667,6 +83763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66025,
+      "num": 358148,
+      "word": "乒超总决赛今日赛程",
+      "onboard_time": 1735534880,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66022,
       "num": 326873,
       "word": "港警回应66个爱马仕包被抢案",
@@ -84369,6 +84473,14 @@
       "onboard_time": 1734416960,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63116,
+      "num": 369516,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1735535601,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 63104,
@@ -87169,6 +87281,14 @@
       "onboard_time": 1734886277,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 53584,
+      "num": 369196,
+      "word": "蒯曼3比2陈熠",
+      "onboard_time": 1735535661,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 53511,
@@ -90665,6 +90785,14 @@
       "onboard_time": 1734110895,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43970,
+      "num": 366674,
+      "word": "为何韩国失事客机着陆后无法减速",
+      "onboard_time": 1735535781,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43948,
@@ -96179,6 +96307,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31531,
+      "num": 363232,
+      "word": "宝马和齐天大圣新年整活儿",
+      "onboard_time": 1735535302,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31499,
       "num": 172454,
       "word": "郑钦文当选年度ACE女王",
@@ -97475,6 +97611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 28957,
+      "num": 369329,
+      "word": "起底职称代办骗局",
+      "onboard_time": 1735535062,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28938,
       "num": 549925,
       "word": "陈道明沙漠弹琴",
@@ -98144,6 +98288,14 @@
       "word": "苏有朋悼念琼瑶",
       "onboard_time": 1733301928,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27259,
+      "num": 249794,
+      "word": "刘亦菲骑白马",
+      "onboard_time": 1735535302,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -103953,6 +104105,14 @@
       "onboard_time": 1735498032,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13810,
+      "num": 369137,
+      "word": "2024我们在观点碰撞中寻找共识",
+      "onboard_time": 1735535421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13789,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1735536132122,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9055667,
+        "num": 9055667,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2242409,
+        "num": 2242409,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79484,
+        "num": 1789496,
+        "word": "中国刷新世界最长高速公路隧道纪录",
+        "onboard_time": 1735528279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1697786,
+        "num": 1697786,
+        "word": "央视跨年晚会第一批阵容官宣",
+        "onboard_time": 1735532001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788406,
+        "num": 788406,
+        "word": "韩国又一客机起落架故障",
+        "onboard_time": 1735516998,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 586576,
+        "num": 586576,
+        "word": "晓华爆改90后女工程师",
+        "onboard_time": 1735534823,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 570245,
+        "num": 570245,
+        "word": "雷军千万年薪挖角95后AI天才少女",
+        "onboard_time": 1735522759,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 496661,
+        "num": 496661,
+        "word": "华为突然降价",
+        "onboard_time": 1735517540,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 423429,
+        "num": 423429,
+        "word": "孟子义说现在本子多到手软",
+        "onboard_time": 1735517659,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414299,
+        "num": 414299,
+        "word": "庆余年2今年全网唯一集均破亿剧",
+        "onboard_time": 1735533863,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420341,
+        "num": 402443,
+        "word": "有人一家9口都在韩失事客机上",
+        "onboard_time": 1735520361,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 374750,
+        "num": 374750,
+        "word": "清华法学院教授谈邯郸初中生被杀案",
+        "onboard_time": 1735532961,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63116,
+        "num": 369516,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1735535601,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187191,
+        "num": 369397,
+        "word": "陈丽君也抢不到我的大观园",
+        "onboard_time": 1735530801,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28957,
+        "num": 369329,
+        "word": "起底职称代办骗局",
+        "onboard_time": 1735535062,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 369324,
+        "num": 369324,
+        "word": "邯郸初中生遇害案2人被判负刑责",
+        "onboard_time": 1735530561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341560,
+        "num": 369318,
+        "word": "肖战蝉联第6年世首帅",
+        "onboard_time": 1735535302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204596,
+        "num": 369236,
+        "word": "湖南卫视跨年彩排",
+        "onboard_time": 1735535242,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53584,
+        "num": 369196,
+        "word": "蒯曼3比2陈熠",
+        "onboard_time": 1735535661,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13810,
+        "num": 369137,
+        "word": "2024我们在观点碰撞中寻找共识",
+        "onboard_time": 1735535421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684817,
+        "num": 369091,
+        "word": "大奉打更人被演技劝退",
+        "onboard_time": 1735523299,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509679,
+        "num": 368998,
+        "word": "女子用车厘子喂鸡引网友羡慕",
+        "onboard_time": 1735531164,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283122,
+        "num": 368927,
+        "word": "恩利说自己曾反抗过父母",
+        "onboard_time": 1735532961,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495031,
+        "num": 368880,
+        "word": "建议不要在12月提离职",
+        "onboard_time": 1735534281,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 407320,
+        "num": 368834,
+        "word": "感觉我生了小孩就是这样的父母",
+        "onboard_time": 1735530080,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368810,
+        "num": 368810,
+        "word": "难哄",
+        "onboard_time": 1735525759,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43970,
+        "num": 366674,
+        "word": "为何韩国失事客机着陆后无法减速",
+        "onboard_time": 1735535781,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191416,
+        "num": 366301,
+        "word": "误杀3 肖央是蓝环章鱼",
+        "onboard_time": 1735535360,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31531,
+        "num": 363232,
+        "word": "宝马和齐天大圣新年整活儿",
+        "onboard_time": 1735535302,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47031,
+        "num": 360386,
+        "word": "WTT世界排名",
+        "onboard_time": 1735522878,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66025,
+        "num": 358148,
+        "word": "乒超总决赛今日赛程",
+        "onboard_time": 1735534880,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356751,
+        "num": 356751,
+        "word": "付费上班终于还是出现了",
+        "onboard_time": 1735535302,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341328,
+        "num": 341328,
+        "word": "杨紫一滴泪演到你心碎",
+        "onboard_time": 1735533863,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339558,
+        "num": 339558,
+        "word": "郑合惠子 小姨是种感觉",
+        "onboard_time": 1735534823,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338882,
+        "num": 338882,
+        "word": "阿塞拜疆总统要求俄方认错并赔偿",
+        "onboard_time": 1735532181,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269073,
+        "num": 269073,
+        "word": "男频剧",
+        "onboard_time": 1735534761,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118709,
+        "num": 263386,
+        "word": "2025春运购票日历",
+        "onboard_time": 1735533982,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259837,
+        "num": 259837,
+        "word": "大奉打更人 耀祖",
+        "onboard_time": 1735519940,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257569,
+        "num": 257569,
+        "word": "刘国梁出席乒超总决赛开幕式",
+        "onboard_time": 1735532903,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27259,
+        "num": 249794,
+        "word": "刘亦菲骑白马",
+        "onboard_time": 1735535302,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247457,
+        "num": 247457,
+        "word": "医保个人账户余额自动转结到明年用",
+        "onboard_time": 1735491735,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233691,
+        "num": 233691,
+        "word": "为什么年轻人开始积极存钱",
+        "onboard_time": 1735534281,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231225,
+        "num": 231225,
+        "word": "对未成年人犯罪坚持宽容不纵容",
+        "onboard_time": 1735532721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230342,
+        "num": 230342,
+        "word": "韩国客机撞墙前6分钟鸟情预警",
+        "onboard_time": 1735522279,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230293,
+        "num": 230293,
+        "word": "韩国惨烈空难背后有何疑点待解",
+        "onboard_time": 1735533443,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202677,
+        "num": 202677,
+        "word": "住北京0.5环是什么体验",
+        "onboard_time": 1735527739,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195028,
+        "num": 195028,
+        "word": "玉溪 cos圣体",
+        "onboard_time": 1735529000,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189912,
+        "num": 189912,
+        "word": "应届生真的很想扛着年终奖回家",
+        "onboard_time": 1735532903,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185463,
+        "num": 185463,
+        "word": "虞书欣湖南卫视跨年晚会彩排",
+        "onboard_time": 1735530080,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184518,
+        "num": 184518,
+        "word": "12306推出系统自动提交订单功能",
+        "onboard_time": 1735531641,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将发表2025新年贺词#"
+    }
+  }
+}
