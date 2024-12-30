@@ -1,0 +1,410 @@
+{
+  "runTime": 1735572181857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1911388,
+        "num": 1911388,
+        "word": "同情赵露思患病并不可耻",
+        "onboard_time": 1735566500,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1180198,
+        "num": 1180198,
+        "word": "韩国空难幸存空少恐全身瘫痪",
+        "onboard_time": 1735544600,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110735,
+        "num": 877769,
+        "word": "中国基建人又创造了奇迹",
+        "onboard_time": 1735564221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 821741,
+        "num": 821741,
+        "word": "央视跨年晚会阵容你最期待谁",
+        "onboard_time": 1735568541,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 693424,
+        "num": 693424,
+        "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
+        "onboard_time": 1735566441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603519,
+        "num": 603519,
+        "word": "韩失事客机飞行员3次发出求救信号",
+        "onboard_time": 1735556838,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 787703,
+        "num": 602667,
+        "word": "柳演锡蔡秀彬最佳cp奖",
+        "onboard_time": 1735568001,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638270,
+        "num": 601179,
+        "word": "终于懂得昼川老师的被光所诱惑",
+        "onboard_time": 1735566141,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 593203,
+        "num": 593203,
+        "word": "从宾馆服务员干到副厅级的柴高潮被查",
+        "onboard_time": 1735569561,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 582198,
+        "word": "2024年度国产影视混剪",
+        "onboard_time": 1735571121,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580443,
+        "num": 580443,
+        "word": "20岁儿子死在缅北妈妈被骗90万元",
+        "onboard_time": 1735541600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548307,
+        "num": 548307,
+        "word": "雷军千万年薪聘用的95后女生履历",
+        "onboard_time": 1735562780,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 532093,
+        "num": 532093,
+        "word": "吴奇隆马雅舒离婚后不同境遇",
+        "onboard_time": 1735549340,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24631,
+        "num": 528715,
+        "word": "记者暗访闪婚陷阱2分钟相亲成功",
+        "onboard_time": 1735572020,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111161,
+        "num": 528636,
+        "word": "80后妈妈决定不给女儿报任何补习班",
+        "onboard_time": 1735571361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528600,
+        "num": 528600,
+        "word": "教育局回应中学教师与学生亲吻搂抱",
+        "onboard_time": 1735548740,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78074,
+        "num": 518960,
+        "word": "胡歌说繁花的售后是最长的",
+        "onboard_time": 1735571899,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20036,
+        "num": 508577,
+        "word": "王源湖南卫视跨年彩排图",
+        "onboard_time": 1735562840,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63203,
+        "num": 502346,
+        "word": "祝绪丹杨仕泽 正主被舞到脸上",
+        "onboard_time": 1735571121,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63021,
+        "num": 488826,
+        "word": "王曼昱被陈幸同逗笑",
+        "onboard_time": 1735571061,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483094,
+        "num": 483094,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735564940,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450000,
+        "num": 450000,
+        "word": "麦当劳奶昔回归",
+        "onboard_time": 1735569021,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417018,
+        "num": 417018,
+        "word": "向佐致歉",
+        "onboard_time": 1735563200,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395959,
+        "num": 395959,
+        "word": "冬至今年现偶黑马",
+        "onboard_time": 1735570701,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154069,
+        "num": 342430,
+        "word": "程之女巫",
+        "onboard_time": 1735571660,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 326805,
+        "num": 326805,
+        "word": "中国人在缅北被明码标价交易",
+        "onboard_time": 1735540219,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290226,
+        "num": 290226,
+        "word": "白敬亭直播",
+        "onboard_time": 1735568541,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266267,
+        "num": 266267,
+        "word": "夏之光 我要工作",
+        "onboard_time": 1735560020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262154,
+        "num": 262154,
+        "word": "江苏卫视跨年李宇春再度压轴演出",
+        "onboard_time": 1735569741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11697,
+        "num": 239354,
+        "word": "谷子经济成2024年最火爆生意",
+        "onboard_time": 1735571600,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 237584,
+        "num": 237584,
+        "word": "2025跨年晚会最全阵容",
+        "onboard_time": 1735567942,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233971,
+        "num": 233971,
+        "word": "薯饼 全日制",
+        "onboard_time": 1735562361,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213198,
+        "num": 213198,
+        "word": "伊能静 恩利不需要一个完美妈妈",
+        "onboard_time": 1735561699,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209423,
+        "num": 209423,
+        "word": "汪苏泷演唱会特邀主持人何炅",
+        "onboard_time": 1735569981,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192070,
+        "num": 192070,
+        "word": "男子公司年会上饮酒身亡无同事发现",
+        "onboard_time": 1735558579,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188691,
+        "num": 188691,
+        "word": "by2被粉丝包围",
+        "onboard_time": 1735569200,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186693,
+        "num": 186693,
+        "word": "白鹿王楚然周也同框",
+        "onboard_time": 1735562900,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183137,
+        "num": 183137,
+        "word": "大连一医院急诊室墙上有殡葬广告",
+        "onboard_time": 1735564761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176040,
+        "num": 176040,
+        "word": "姜尘",
+        "onboard_time": 1735569621,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154699,
+        "num": 154699,
+        "word": "男子花近40万相亲1天结婚领证",
+        "onboard_time": 1735555940,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165624,
+        "num": 152085,
+        "word": "李沐宸片酬",
+        "onboard_time": 1735557019,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147713,
+        "num": 147713,
+        "word": "京沪高铁的班味从年初冲到年尾",
+        "onboard_time": 1735568241,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137081,
+        "num": 137081,
+        "word": "Doinb NIP",
+        "onboard_time": 1735562119,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130555,
+        "num": 130555,
+        "word": "男子住女友家5年分手后被判付23万",
+        "onboard_time": 1735558999,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130405,
+        "num": 130405,
+        "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
+        "onboard_time": 1735563080,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124328,
+        "num": 124328,
+        "word": "樊振东2024年终盘点",
+        "onboard_time": 1735570100,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "孙颖莎高情商回答上海比赛成主场",
+        "onboard_time": 1735566441,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108427,
+        "num": 108427,
+        "word": "16岁女孩溺亡父亲称事发地无护栏监控",
+        "onboard_time": 1735567762,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103301,
+        "num": 108411,
+        "word": "我国将制定低收入人口认定办法",
+        "onboard_time": 1735570881,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90234,
+        "num": 108170,
+        "word": "以色列",
+        "onboard_time": 1735552760,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的惦念与牵挂#"
+    }
+  }
+}
