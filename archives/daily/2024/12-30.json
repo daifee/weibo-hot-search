@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735555277249,
+  "endTime": 1735557515359,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -203,8 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1023275,
-      "num": 1023275,
+      "raw_hot": 1070134,
+      "num": 1070134,
       "word": "以色列",
       "onboard_time": 1735552760,
       "rank": 3,
@@ -224,6 +224,14 @@
       "word": "遇龙",
       "onboard_time": 1735487540,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 950706,
+      "num": 950706,
+      "word": "短剧演员片酬",
+      "onboard_time": 1735552879,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -273,14 +281,6 @@
       "onboard_time": 1735525698,
       "rank": 10,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 754511,
-      "num": 754511,
-      "word": "短剧演员片酬",
-      "onboard_time": 1735552879,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 743381,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607756,
+      "num": 326653,
+      "word": "赵露思1月到12月的变化",
+      "onboard_time": 1735555639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604885,
       "num": 604885,
       "word": "郑合惠子 小姨是种感觉",
@@ -451,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 541122,
+      "num": 541122,
+      "word": "拜登称后悔退出总统选举",
+      "onboard_time": 1735552581,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 535190,
       "num": 535190,
       "word": "大奉打更人收视率破1",
@@ -497,14 +513,6 @@
       "onboard_time": 1735537940,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 488432,
-      "num": 488432,
-      "word": "拜登称后悔退出总统选举",
-      "onboard_time": 1735552581,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 483558,
@@ -691,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355588,
+      "num": 355588,
+      "word": "男子花近40万相亲1天结婚领证",
+      "onboard_time": 1735555940,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350133,
       "num": 350133,
       "word": "韩国代总统被警方立案调查",
       "onboard_time": 1735548740,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349668,
+      "num": 349668,
+      "word": "李沐宸片酬",
+      "onboard_time": 1735557019,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 345260,
@@ -729,6 +753,14 @@
       "onboard_time": 1735532181,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337322,
+      "num": 487702,
+      "word": "民警为摧毁明家1年多奔赴百余地市",
+      "onboard_time": 1735555159,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336985,
@@ -828,7 +860,7 @@
     },
     {
       "raw_hot": 288917,
-      "num": 380687,
+      "num": 460718,
       "word": "孟子义 菩提树下的一朵花",
       "onboard_time": 1735550540,
       "rank": 37,
@@ -1011,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248845,
+      "num": 437262,
+      "word": "樊振东陈梦退出世界排名还能参加奥运会吗",
+      "onboard_time": 1735554319,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246709,
       "num": 246709,
       "word": "韩国失事客机事发前48小时执飞13次",
@@ -1179,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218113,
+      "num": 301120,
+      "word": "韩失事客机飞行员3次发出求救信号",
+      "onboard_time": 1735556838,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 215445,
       "num": 369236,
       "word": "湖南卫视跨年彩排",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 203501,
+      "num": 309926,
+      "word": "丁禹兮回头看了两次灯牌",
+      "onboard_time": 1735556300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203257,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1735528759,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192516,
+      "num": 303871,
+      "word": "关晓彤总台跨年",
+      "onboard_time": 1735557200,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 191468,
@@ -1475,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181725,
+      "num": 181725,
+      "word": "杨采钰内娱一款很新的恶女",
+      "onboard_time": 1735556659,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181301,
       "num": 181301,
       "word": "九重紫苏琰是宋墨妹妹",
@@ -1497,14 +1569,6 @@
       "onboard_time": 1735545619,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177832,
-      "num": 437262,
-      "word": "樊振东陈梦退出世界排名还能参加奥运会吗",
-      "onboard_time": 1735554319,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 177812,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1735473200,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "骨头挺硬的 嘴唇挺软的",
+      "onboard_time": 1735557019,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 167938,
@@ -1715,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157153,
+      "num": 484692,
+      "word": "千万彩票被冒领当事人仍未拿到奖金",
+      "onboard_time": 1735553779,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 156530,
       "num": 420555,
       "word": "黄渤现在发歌是要上春晚吗",
@@ -1729,6 +1809,14 @@
       "onboard_time": 1735539859,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155249,
+      "num": 327823,
+      "word": "韩失事飞机两段航程间维护时间仅28分钟",
+      "onboard_time": 1735555639,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152716,
@@ -1753,6 +1841,22 @@
       "onboard_time": 1735548200,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150930,
+      "num": 150930,
+      "word": "电视剧大赏年度人气剧集",
+      "onboard_time": 1735556479,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150464,
+      "num": 316584,
+      "word": "恋与深空3.0万象遇你",
+      "onboard_time": 1735556479,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 149299,
@@ -1907,12 +2011,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133246,
-      "num": 484692,
-      "word": "千万彩票被冒领当事人仍未拿到奖金",
-      "onboard_time": 1735553779,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 133413,
+      "num": 275042,
+      "word": "大部分运动员自费贴钱打WTT",
+      "onboard_time": 1735556360,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 133100,
@@ -2001,6 +2105,14 @@
       "onboard_time": 1735543340,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 125170,
+      "num": 125170,
+      "word": "MRC对战Wolves",
+      "onboard_time": 1735555820,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124111,
@@ -2163,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101963,
+      "num": 466968,
+      "word": "小伙用16年成就27位世界冠军",
+      "onboard_time": 1735556060,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101741,
       "num": 101741,
       "word": "年末总结",
@@ -2307,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68184,
+      "num": 484951,
+      "word": "乒超女团山东vs黄石",
+      "onboard_time": 1735554860,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66422,
       "num": 339241,
       "word": "2024年十大国际事件",
@@ -2385,6 +2513,14 @@
       "onboard_time": 1735492575,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54474,
+      "num": 492085,
+      "word": "钱天一陈幸同vs郑先知木原美悠",
+      "onboard_time": 1735554860,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 54049,
@@ -2523,12 +2659,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 40069,
-      "num": 484951,
-      "word": "乒超女团山东vs黄石",
-      "onboard_time": 1735554860,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 40659,
+      "num": 299385,
+      "word": "馋嘴男子催老板到点出摊被回白眼",
+      "onboard_time": 1735556838,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39571,
@@ -2619,14 +2755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35019,
-      "num": 486071,
-      "word": "钱天一陈幸同vs郑先知木原美悠",
-      "onboard_time": 1735554860,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34270,
       "num": 369329,
       "word": "起底职称代办骗局",
@@ -2699,14 +2827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30941,
-      "num": 487702,
-      "word": "民警为摧毁明家1年多奔赴百余地市",
-      "onboard_time": 1735555159,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29502,
       "num": 253640,
       "word": "主角都是自己给自己的",
@@ -2747,6 +2867,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26894,
+      "num": 335682,
+      "word": "王曼昱上海体育馆赛前训练",
+      "onboard_time": 1735556360,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26591,
       "num": 28207,
       "word": "周深2024最后一支巡演vlog",
@@ -2761,6 +2889,14 @@
       "onboard_time": 1735543519,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26427,
+      "num": 331620,
+      "word": "老K来给王俊凯撑场面",
+      "onboard_time": 1735556600,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 25807,
@@ -2801,6 +2937,14 @@
       "onboard_time": 1735509552,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23602,
+      "num": 157457,
+      "word": "海底捞金真的有技巧",
+      "onboard_time": 1735555879,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 23063,

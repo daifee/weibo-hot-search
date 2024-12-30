@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735555277249,
+  "endTime": 1735557515359,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -451,6 +451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1070134,
+      "num": 1070134,
+      "word": "以色列",
+      "onboard_time": 1735552760,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1066114,
       "num": 1066114,
       "word": "韩国起火客机179名死者全部找到",
@@ -465,14 +473,6 @@
       "onboard_time": 1735480520,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1023275,
-      "num": 1023275,
-      "word": "以色列",
-      "onboard_time": 1735552760,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1023099,
@@ -497,6 +497,14 @@
       "onboard_time": 1735442839,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 950706,
+      "num": 950706,
+      "word": "短剧演员片酬",
+      "onboard_time": 1735552879,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 943117,
@@ -641,14 +649,6 @@
       "onboard_time": 1735432938,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 754511,
-      "num": 754511,
-      "word": "短剧演员片酬",
-      "onboard_time": 1735552879,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 746627,
@@ -843,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 607756,
+      "num": 326653,
+      "word": "赵露思1月到12月的变化",
+      "onboard_time": 1735555639,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604885,
       "num": 604885,
       "word": "郑合惠子 小姨是种感觉",
@@ -971,6 +979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 541122,
+      "num": 541122,
+      "word": "拜登称后悔退出总统选举",
+      "onboard_time": 1735552581,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 535190,
       "num": 535190,
       "word": "大奉打更人收视率破1",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1735472481,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 488432,
-      "num": 488432,
-      "word": "拜登称后悔退出总统选举",
-      "onboard_time": 1735552581,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 484118,
@@ -1531,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 355588,
+      "num": 355588,
+      "word": "男子花近40万相亲1天结婚领证",
+      "onboard_time": 1735555940,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353747,
       "num": 318059,
       "word": "这个睡觉姿势是错误的",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1735548740,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 349668,
+      "num": 349668,
+      "word": "李沐宸片酬",
+      "onboard_time": 1735557019,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 346789,
@@ -1617,6 +1641,14 @@
       "onboard_time": 1735532181,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337322,
+      "num": 487702,
+      "word": "民警为摧毁明家1年多奔赴百余地市",
+      "onboard_time": 1735555159,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 336985,
@@ -1908,7 +1940,7 @@
     },
     {
       "raw_hot": 288917,
-      "num": 380687,
+      "num": 460718,
       "word": "孟子义 菩提树下的一朵花",
       "onboard_time": 1735550540,
       "rank": 37,
@@ -2227,6 +2259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248845,
+      "num": 437262,
+      "word": "樊振东陈梦退出世界排名还能参加奥运会吗",
+      "onboard_time": 1735554319,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248550,
       "num": 259337,
       "word": "王太利看完误杀3不想跟肖央说话",
@@ -2539,6 +2579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 218113,
+      "num": 301120,
+      "word": "韩失事客机飞行员3次发出求救信号",
+      "onboard_time": 1735556838,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216529,
       "num": 295539,
       "word": "秦牛正威孔语浩去年订婚",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1735485381,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203501,
+      "num": 309926,
+      "word": "丁禹兮回头看了两次灯牌",
+      "onboard_time": 1735556300,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 203452,
@@ -3099,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192516,
+      "num": 303871,
+      "word": "关晓彤总台跨年",
+      "onboard_time": 1735557200,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192474,
       "num": 192474,
       "word": "昭昭墨墨庆功宴直拍",
@@ -3395,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181725,
+      "num": 181725,
+      "word": "杨采钰内娱一款很新的恶女",
+      "onboard_time": 1735556659,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181613,
       "num": 229943,
       "word": "李现国色芳华新皮肤",
@@ -3457,14 +3529,6 @@
       "onboard_time": 1735454300,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177832,
-      "num": 437262,
-      "word": "樊振东陈梦退出世界排名还能参加奥运会吗",
-      "onboard_time": 1735554319,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 177812,
@@ -3601,6 +3665,14 @@
       "onboard_time": 1735468820,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170506,
+      "num": 170506,
+      "word": "骨头挺硬的 嘴唇挺软的",
+      "onboard_time": 1735557019,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 170320,
@@ -3907,6 +3979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157153,
+      "num": 484692,
+      "word": "千万彩票被冒领当事人仍未拿到奖金",
+      "onboard_time": 1735553779,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 156530,
       "num": 420555,
       "word": "黄渤现在发歌是要上春晚吗",
@@ -3955,6 +4035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155249,
+      "num": 327823,
+      "word": "韩失事飞机两段航程间维护时间仅28分钟",
+      "onboard_time": 1735555639,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155041,
       "num": 155041,
       "word": "2024牛马年终报告",
@@ -3995,12 +4083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150930,
+      "num": 150930,
+      "word": "电视剧大赏年度人气剧集",
+      "onboard_time": 1735556479,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150777,
       "num": 150777,
       "word": "刘雅瑟演误杀3两个愿望实现0个",
       "onboard_time": 1735459639,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150464,
+      "num": 316584,
+      "word": "恋与深空3.0万象遇你",
+      "onboard_time": 1735556479,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 150308,
@@ -4371,12 +4475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133246,
-      "num": 484692,
-      "word": "千万彩票被冒领当事人仍未拿到奖金",
-      "onboard_time": 1735553779,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 133413,
+      "num": 275042,
+      "word": "大部分运动员自费贴钱打WTT",
+      "onboard_time": 1735556360,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 133027,
@@ -4489,6 +4593,14 @@
       "onboard_time": 1735543340,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 125170,
+      "num": 125170,
+      "word": "MRC对战Wolves",
+      "onboard_time": 1735555820,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 124639,
@@ -4865,6 +4977,14 @@
       "onboard_time": 1735539261,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101963,
+      "num": 466968,
+      "word": "小伙用16年成就27位世界冠军",
+      "onboard_time": 1735556060,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101741,
@@ -5251,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68184,
+      "num": 484951,
+      "word": "乒超女团山东vs黄石",
+      "onboard_time": 1735554860,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67880,
       "num": 232128,
       "word": "中国国家队的2024",
@@ -5384,6 +5512,14 @@
       "word": "浓眉36分15篮板",
       "onboard_time": 1735456579,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54474,
+      "num": 492085,
+      "word": "钱天一陈幸同vs郑先知木原美悠",
+      "onboard_time": 1735554860,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -5603,12 +5739,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 40069,
-      "num": 484951,
-      "word": "乒超女团山东vs黄石",
-      "onboard_time": 1735554860,
-      "rank": 13,
-      "category": "体育"
+      "raw_hot": 40659,
+      "num": 299385,
+      "word": "馋嘴男子催老板到点出摊被回白眼",
+      "onboard_time": 1735556838,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39571,
@@ -5739,14 +5875,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 35019,
-      "num": 486071,
-      "word": "钱天一陈幸同vs郑先知木原美悠",
-      "onboard_time": 1735554860,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34746,
       "num": 1671858,
       "word": "探寻中国电影的第一",
@@ -5867,14 +5995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30941,
-      "num": 487702,
-      "word": "民警为摧毁明家1年多奔赴百余地市",
-      "onboard_time": 1735555159,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30719,
       "num": 39301,
       "word": "阿富汗巴基斯坦边境口岸爆发激烈冲突",
@@ -5955,6 +6075,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 26894,
+      "num": 335682,
+      "word": "王曼昱上海体育馆赛前训练",
+      "onboard_time": 1735556360,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
@@ -5985,6 +6113,14 @@
       "onboard_time": 1735543519,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26427,
+      "num": 331620,
+      "word": "老K来给王俊凯撑场面",
+      "onboard_time": 1735556600,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 26365,
@@ -6073,6 +6209,14 @@
       "onboard_time": 1735509552,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23602,
+      "num": 157457,
+      "word": "海底捞金真的有技巧",
+      "onboard_time": 1735555879,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 23063,
