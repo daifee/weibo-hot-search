@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735550638853,
+  "endTime": 1735551470496,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -467,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 992233,
+      "num": 992233,
+      "word": "吴奇隆马雅舒离婚后不同境遇",
+      "onboard_time": 1735549340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943117,
       "num": 943117,
       "word": "韩国客机着火2名生还者均为乘务员",
@@ -619,6 +627,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 743381,
+      "num": 346941,
+      "word": "安小鸟保胎",
+      "onboard_time": 1735547419,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 734327,
       "num": 685925,
       "word": "大奉打更人 短剧",
@@ -641,6 +657,14 @@
       "onboard_time": 1735534823,
       "rank": 5,
       "category": "网红"
+    },
+    {
+      "raw_hot": 701137,
+      "num": 701137,
+      "word": "四川一学校全体教师举报副校长",
+      "onboard_time": 1735547539,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 688237,
@@ -763,14 +787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 628063,
-      "num": 337599,
-      "word": "安小鸟保胎",
-      "onboard_time": 1735547419,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 624863,
       "num": 624863,
       "word": "一份248元外卖顾客却转来了13万",
@@ -801,14 +817,6 @@
       "onboard_time": 1735534823,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 597134,
-      "num": 597134,
-      "word": "四川一学校全体教师举报副校长",
-      "onboard_time": 1735547539,
-      "rank": 28,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 595978,
@@ -971,20 +979,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 513563,
-      "num": 513563,
-      "word": "吴奇隆马雅舒离婚后不同境遇",
-      "onboard_time": 1735549340,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 513415,
       "num": 513415,
       "word": "韩国失事客机175名乘客名单",
       "onboard_time": 1735451600,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 511628,
+      "num": 533842,
+      "word": "教育局回应中学教师与学生亲吻搂抱",
+      "onboard_time": 1735548740,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 509331,
@@ -1323,14 +1331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397729,
-      "num": 533842,
-      "word": "教育局回应中学教师与学生亲吻搂抱",
-      "onboard_time": 1735548740,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 394513,
       "num": 394513,
       "word": "韩国起火客机已有3人获救",
@@ -1403,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376822,
+      "num": 376822,
+      "word": "杨幂湖南卫视跨年素颜彩排照",
+      "onboard_time": 1735549579,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375766,
       "num": 375766,
       "word": "动画还原韩国客机碰撞起火事故",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1735397725,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364882,
+      "num": 364882,
+      "word": "迪丽热巴小时候的童年照片",
+      "onboard_time": 1735549760,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 364126,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1735466659,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 350133,
+      "num": 350133,
+      "word": "韩国代总统被警方立案调查",
+      "onboard_time": 1735548740,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 346789,
@@ -1755,12 +1779,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301776,
-      "num": 301776,
-      "word": "韩国代总统被警方立案调查",
-      "onboard_time": 1735548740,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 303915,
+      "num": 303915,
+      "word": "FPXZQ对战成都GG",
+      "onboard_time": 1735551141,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 301083,
@@ -2187,14 +2211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244781,
-      "num": 244781,
-      "word": "杨幂湖南卫视跨年素颜彩排照",
-      "onboard_time": 1735549579,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244022,
       "num": 244022,
       "word": "果农回应车厘子喂鸡系用的次果",
@@ -2323,14 +2339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233080,
-      "num": 301893,
-      "word": "迪丽热巴小时候的童年照片",
-      "onboard_time": 1735549760,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230760,
       "num": 230759,
       "word": "个税专项附加扣除明天截止",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1735449801,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216370,
+      "num": 216370,
+      "word": "孟子义 菩提树下的一朵花",
+      "onboard_time": 1735550540,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 216109,
@@ -2609,6 +2625,14 @@
       "onboard_time": 1735437799,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208118,
+      "num": 208118,
+      "word": "李在明跪地安慰失事客机遇难者家属",
+      "onboard_time": 1735550660,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207932,
@@ -3291,14 +3315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 180612,
-      "num": 180612,
-      "word": "孟子义 菩提树下的一朵花",
-      "onboard_time": 1735550540,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180155,
       "num": 180155,
       "word": "赵丽颖金鸡奖影人特辑",
@@ -3329,6 +3345,14 @@
       "onboard_time": 1735485501,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179473,
+      "num": 179473,
+      "word": "年度账单",
+      "onboard_time": 1735545619,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 179155,
@@ -3379,14 +3403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175567,
-      "num": 175567,
-      "word": "年度账单",
-      "onboard_time": 1735545619,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175000,
       "num": 175000,
       "word": "男子因邻里矛盾将马桶装在房顶上",
@@ -3411,20 +3427,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173889,
+      "num": 173889,
+      "word": "肖战希望大家可以喜欢专辑我们",
+      "onboard_time": 1735550123,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 173183,
       "num": 173183,
       "word": "肖战郭靖坐姿",
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172464,
-      "num": 172464,
-      "word": "肖战希望大家可以喜欢专辑我们",
-      "onboard_time": 1735550123,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 172084,
@@ -3523,12 +3539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167765,
+      "num": 167765,
+      "word": "时代少年团跨年现场直击",
+      "onboard_time": 1735551260,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167475,
       "num": 167475,
       "word": "韩国客机生还者因机尾脱落幸存",
       "onboard_time": 1735474220,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 167331,
+      "num": 239849,
+      "word": "李昀锐说自己上了电视桌",
+      "onboard_time": 1735550000,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166793,
@@ -3611,6 +3643,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 163027,
+      "num": 197826,
+      "word": "lululemon已经过气了吗",
+      "onboard_time": 1735546579,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162884,
       "num": 282900,
       "word": "刘涛送小提琴给蓝盈莹",
@@ -3625,6 +3665,14 @@
       "onboard_time": 1735399102,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162319,
+      "num": 162319,
+      "word": "鱿鱼游戏2水光肌木头人",
+      "onboard_time": 1735550480,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 161771,
@@ -3699,14 +3747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159145,
-      "num": 230794,
-      "word": "李昀锐说自己上了电视桌",
-      "onboard_time": 1735550000,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 157900,
       "num": 157900,
       "word": "李雪琴王皓 邪门但好嗑",
@@ -3721,6 +3761,14 @@
       "onboard_time": 1735452140,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157597,
+      "num": 157597,
+      "word": "周震南 来这就是为了第一名",
+      "onboard_time": 1735551379,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 156530,
@@ -3795,12 +3843,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151143,
-      "num": 197826,
-      "word": "lululemon已经过气了吗",
-      "onboard_time": 1735546579,
+      "raw_hot": 151155,
+      "num": 230760,
+      "word": "电诈金主一晚花上百万",
+      "onboard_time": 1735548200,
       "rank": 29,
-      "category": "时尚"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150777,
@@ -4051,14 +4099,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 140769,
-      "num": 230760,
-      "word": "电诈金主一晚花上百万",
-      "onboard_time": 1735548200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 140170,
       "num": 177931,
       "word": "妻子剖腹产丈夫请搬家公司搬回家",
@@ -4097,14 +4137,6 @@
       "onboard_time": 1735440139,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138134,
-      "num": 138134,
-      "word": "鱿鱼游戏2水光肌木头人",
-      "onboard_time": 1735550480,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 137292,
@@ -4627,6 +4659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103753,
+      "num": 303922,
+      "word": "愿孙颖莎2025继续稳步向前走",
+      "onboard_time": 1735550900,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103282,
       "num": 177913,
       "word": "熊猫渝爱初步诊断感染性脱毛",
@@ -5139,6 +5179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60186,
+      "num": 886987,
+      "word": "警方讲述缅北1020案侦办始末",
+      "onboard_time": 1735548620,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59817,
       "num": 91208,
       "word": "孟子义李昀锐肩贴肩",
@@ -5299,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47221,
+      "num": 741719,
+      "word": "2024那些治愈瞬间",
+      "onboard_time": 1735548799,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 45839,
       "num": 45839,
       "word": "邓紫棋倒流时间首唱",
@@ -5313,14 +5369,6 @@
       "onboard_time": 1735476321,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 44851,
-      "num": 741719,
-      "word": "2024那些治愈瞬间",
-      "onboard_time": 1735548799,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 44809,
@@ -5491,6 +5539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35551,
+      "num": 514209,
+      "word": "小伙落健身房充值陷阱半年充了84万",
+      "onboard_time": 1735550900,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34746,
       "num": 1671858,
       "word": "探寻中国电影的第一",
@@ -5579,6 +5635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32217,
+      "num": 346982,
+      "word": "开年会宠粉是认真的",
+      "onboard_time": 1735549459,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 31580,
       "num": 196809,
       "word": "林一的崽崽好可爱",
@@ -5596,7 +5660,7 @@
     },
     {
       "raw_hot": 31175,
-      "num": 180078,
+      "num": 191694,
       "word": "张晓龙用华为手表电子号脉",
       "onboard_time": 1735547960,
       "rank": 47,
@@ -5609,14 +5673,6 @@
       "onboard_time": 1735422072,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30342,
-      "num": 302162,
-      "word": "开年会宠粉是认真的",
-      "onboard_time": 1735549459,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 30306,
@@ -5675,6 +5731,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 27405,
+      "num": 303935,
+      "word": "一种很新的接好运方式",
+      "onboard_time": 1735548799,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
@@ -5729,6 +5793,14 @@
       "onboard_time": 1735416551,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 25308,
+      "num": 304927,
+      "word": "00后为什么爱上了年代故事",
+      "onboard_time": 1735549520,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 25067,
@@ -5803,14 +5875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22517,
-      "num": 304927,
-      "word": "00后为什么爱上了年代故事",
-      "onboard_time": 1735549520,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22476,
       "num": 111903,
       "word": "男老师神反应一个动作救下3个人",
@@ -5849,14 +5913,6 @@
       "onboard_time": 1735506311,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21340,
-      "num": 276252,
-      "word": "一种很新的接好运方式",
-      "onboard_time": 1735548799,
-      "rank": 22,
-      "category": "正能量"
     },
     {
       "raw_hot": 21319,
@@ -6065,6 +6121,14 @@
       "onboard_time": 1735485921,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11011,
+      "num": 228617,
+      "word": "联合杯中国vs德国",
+      "onboard_time": 1735550841,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 10749,
