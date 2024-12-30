@@ -1,0 +1,410 @@
+{
+  "runTime": 1735537151984,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8082740,
+        "num": 8082740,
+        "word": "河北邯郸初中生被杀案一审宣判",
+        "onboard_time": 1735528399,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1892025,
+        "num": 1892025,
+        "word": "女子患癌1年多难得旅行遇空难身亡",
+        "onboard_time": 1735529962,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74219,
+        "num": 1422842,
+        "word": "中国刷新世界最长高速公路隧道纪录",
+        "onboard_time": 1735528279,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1395641,
+        "num": 1395641,
+        "word": "央视跨年晚会第一批阵容官宣",
+        "onboard_time": 1735532001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709656,
+        "num": 709656,
+        "word": "晓华爆改90后女工程师",
+        "onboard_time": 1735534823,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 667908,
+        "num": 667908,
+        "word": "韩国又一客机起落架故障",
+        "onboard_time": 1735516998,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 604885,
+        "num": 604885,
+        "word": "郑合惠子 小姨是种感觉",
+        "onboard_time": 1735534823,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515028,
+        "num": 515028,
+        "word": "肖战蝉联第6年世首帅",
+        "onboard_time": 1735535302,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492706,
+        "num": 492706,
+        "word": "雷军千万年薪挖角95后AI天才少女",
+        "onboard_time": 1735522759,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 439900,
+        "num": 439900,
+        "word": "华为突然降价",
+        "onboard_time": 1735517540,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 394262,
+        "num": 394262,
+        "word": "庆余年2今年全网唯一集均破亿剧",
+        "onboard_time": 1735533863,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343544,
+        "num": 343544,
+        "word": "河北邯郸初中生被杀案主犯被判无期",
+        "onboard_time": 1735529481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342678,
+        "num": 342678,
+        "word": "孟子义说现在本子多到手软",
+        "onboard_time": 1735517659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20680,
+        "num": 339831,
+        "word": "韩国一母亲没接到女儿最后一通电话",
+        "onboard_time": 1735536740,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93763,
+        "num": 336215,
+        "word": "周深空降连发27条",
+        "onboard_time": 1735534522,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17108,
+        "num": 335732,
+        "word": "2024我们在观点碰撞中寻找共识",
+        "onboard_time": 1735535421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90707,
+        "num": 329375,
+        "word": "难哄速抬",
+        "onboard_time": 1735536800,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170529,
+        "num": 327059,
+        "word": "韩国惨烈空难背后有何疑点待解",
+        "onboard_time": 1735533443,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21132,
+        "num": 323384,
+        "word": "宝马和齐天大圣新年整活儿",
+        "onboard_time": 1735535302,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24953,
+        "num": 320582,
+        "word": "刘亦菲骑白马",
+        "onboard_time": 1735535302,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319397,
+        "num": 319397,
+        "word": "有人一家9口都在韩失事客机上",
+        "onboard_time": 1735520361,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290032,
+        "num": 290032,
+        "word": "阿塞拜疆总统要求俄方认错并赔偿",
+        "onboard_time": 1735532181,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553052,
+        "num": 289236,
+        "word": "大奉打更人被演技劝退",
+        "onboard_time": 1735523299,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477556,
+        "num": 286872,
+        "word": "建议不要在12月提离职",
+        "onboard_time": 1735534281,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418898,
+        "num": 285539,
+        "word": "女子用车厘子喂鸡引网友羡慕",
+        "onboard_time": 1735531164,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358179,
+        "num": 281889,
+        "word": "清华法学院教授谈邯郸初中生被杀案",
+        "onboard_time": 1735532961,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337720,
+        "num": 280635,
+        "word": "付费上班终于还是出现了",
+        "onboard_time": 1735535302,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42352,
+        "num": 278506,
+        "word": "四旬老汉詹姆斯",
+        "onboard_time": 1735532001,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59424,
+        "num": 277437,
+        "word": "为何韩国失事客机着陆后无法减速",
+        "onboard_time": 1735535781,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193574,
+        "num": 275005,
+        "word": "迪丽热巴今天cos碱水结",
+        "onboard_time": 1735536800,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67565,
+        "num": 272478,
+        "word": "WTT世界排名",
+        "onboard_time": 1735522878,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311927,
+        "num": 271148,
+        "word": "感觉我生了小孩就是这样的父母",
+        "onboard_time": 1735530080,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269073,
+        "num": 269073,
+        "word": "杨紫一滴泪演到你心碎",
+        "onboard_time": 1735533863,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268527,
+        "num": 268527,
+        "word": "aespa没有逆应援",
+        "onboard_time": 1735536979,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185363,
+        "num": 255425,
+        "word": "误杀3 肖央是蓝环章鱼",
+        "onboard_time": 1735535360,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252723,
+        "num": 252723,
+        "word": "难哄",
+        "onboard_time": 1735525759,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251018,
+        "num": 251018,
+        "word": "刘国梁出席乒超总决赛开幕式",
+        "onboard_time": 1735532903,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241682,
+        "num": 241682,
+        "word": "恩利说自己曾反抗过父母",
+        "onboard_time": 1735532961,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232494,
+        "num": 232494,
+        "word": "大奉打更人 耀祖",
+        "onboard_time": 1735519940,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153483,
+        "num": 229786,
+        "word": "12306推出系统自动提交订单功能",
+        "onboard_time": 1735531641,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77760,
+        "num": 229210,
+        "word": "成毅笨小孩彩排路透",
+        "onboard_time": 1735534042,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178026,
+        "num": 229154,
+        "word": "陈丽君也抢不到我的大观园",
+        "onboard_time": 1735530801,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229129,
+        "num": 229129,
+        "word": "医保个人账户余额自动转结到明年用",
+        "onboard_time": 1735491735,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215445,
+        "num": 215445,
+        "word": "湖南卫视跨年彩排",
+        "onboard_time": 1735535242,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211997,
+        "num": 211997,
+        "word": "孙颖莎vs刘炜珊",
+        "onboard_time": 1735535601,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211336,
+        "num": 211336,
+        "word": "男频剧",
+        "onboard_time": 1735534761,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34270,
+        "num": 181421,
+        "word": "起底职称代办骗局",
+        "onboard_time": 1735535062,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176491,
+        "num": 176491,
+        "word": "涵艺怒喷Homme和Daeny",
+        "onboard_time": 1735536681,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175000,
+        "num": 175000,
+        "word": "男子因邻里矛盾将马桶装在房顶上",
+        "onboard_time": 1735536379,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170645,
+        "num": 170645,
+        "word": "住北京0.5环是什么体验",
+        "onboard_time": 1735527739,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    }
+  }
+}

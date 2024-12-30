@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735536132122,
+  "endTime": 1735537151984,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 709656,
+      "num": 709656,
+      "word": "晓华爆改90后女工程师",
+      "onboard_time": 1735534823,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 684816,
       "num": 684816,
       "word": "医生称咖啡患癌无法避免是基因问题",
@@ -219,6 +227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 604885,
+      "num": 604885,
+      "word": "郑合惠子 小姨是种感觉",
+      "onboard_time": 1735534823,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 595978,
       "num": 595978,
       "word": "美国前总统吉米卡特去世",
@@ -233,14 +249,6 @@
       "onboard_time": 1735480881,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 586576,
-      "num": 586576,
-      "word": "晓华爆改90后女工程师",
-      "onboard_time": 1735534823,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 567675,
@@ -289,6 +297,14 @@
       "onboard_time": 1735474220,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 515028,
+      "num": 515028,
+      "word": "肖战蝉联第6年世首帅",
+      "onboard_time": 1735535302,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 495031,
@@ -435,28 +451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 341560,
-      "num": 369318,
-      "word": "肖战蝉联第6年世首帅",
-      "onboard_time": 1735535302,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341328,
       "num": 341328,
       "word": "杨紫一滴泪演到你心碎",
       "onboard_time": 1735533863,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 339558,
-      "num": 339558,
-      "word": "郑合惠子 小姨是种感觉",
-      "onboard_time": 1735534823,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 338882,
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268527,
+      "num": 268527,
+      "word": "aespa没有逆应援",
+      "onboard_time": 1735536979,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 266930,
       "num": 266930,
       "word": "樊振东 红米",
@@ -716,7 +724,7 @@
     },
     {
       "raw_hot": 230293,
-      "num": 230293,
+      "num": 327059,
       "word": "韩国惨烈空难背后有何疑点待解",
       "onboard_time": 1735533443,
       "rank": 43,
@@ -745,6 +753,22 @@
       "onboard_time": 1735525999,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215445,
+      "num": 369236,
+      "word": "湖南卫视跨年彩排",
+      "onboard_time": 1735535242,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 211997,
+      "num": 369516,
+      "word": "孙颖莎vs刘炜珊",
+      "onboard_time": 1735535601,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 211635,
@@ -785,14 +809,6 @@
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204596,
-      "num": 369236,
-      "word": "湖南卫视跨年彩排",
-      "onboard_time": 1735535242,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 201757,
@@ -865,6 +881,14 @@
       "onboard_time": 1735532903,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193574,
+      "num": 275005,
+      "word": "迪丽热巴今天cos碱水结",
+      "onboard_time": 1735536800,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 193069,
@@ -969,6 +993,22 @@
       "onboard_time": 1735527079,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176491,
+      "num": 176491,
+      "word": "涵艺怒喷Homme和Daeny",
+      "onboard_time": 1735536681,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 175000,
+      "num": 175000,
+      "word": "男子因邻里矛盾将马桶装在房顶上",
+      "onboard_time": 1735536379,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171692,
@@ -1291,12 +1331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 93763,
+      "num": 336215,
+      "word": "周深空降连发27条",
+      "onboard_time": 1735534522,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91648,
       "num": 91648,
       "word": "现在就出发",
       "onboard_time": 1735514296,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90707,
+      "num": 329375,
+      "word": "难哄速抬",
+      "onboard_time": 1735536800,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 86503,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1735524497,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77760,
+      "num": 229210,
+      "word": "成毅笨小孩彩排路透",
+      "onboard_time": 1735534042,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 73575,
@@ -1379,14 +1443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 63116,
-      "num": 369516,
-      "word": "孙颖莎vs刘炜珊",
-      "onboard_time": 1735535601,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62792,
       "num": 62792,
       "word": "肖战李宁直播",
@@ -1401,6 +1457,14 @@
       "onboard_time": 1735479743,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 59424,
+      "num": 366674,
+      "word": "为何韩国失事客机着陆后无法减速",
+      "onboard_time": 1735535781,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58738,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1735529781,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 43970,
-      "num": 366674,
-      "word": "为何韩国失事客机着陆后无法减速",
-      "onboard_time": 1735535781,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 43484,
@@ -1563,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34270,
+      "num": 369329,
+      "word": "起底职称代办骗局",
+      "onboard_time": 1735535062,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33921,
       "num": 231771,
       "word": "乒超联赛总决赛今日开赛",
@@ -1595,14 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28957,
-      "num": 369329,
-      "word": "起底职称代办骗局",
-      "onboard_time": 1735535062,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 28938,
       "num": 549925,
       "word": "陈道明沙漠弹琴",
@@ -1620,7 +1676,7 @@
     },
     {
       "raw_hot": 27259,
-      "num": 249794,
+      "num": 320582,
       "word": "刘亦菲骑白马",
       "onboard_time": 1735535302,
       "rank": 39,
@@ -1691,6 +1747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 20680,
+      "num": 339831,
+      "word": "韩国一母亲没接到女儿最后一通电话",
+      "onboard_time": 1735536740,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19280,
       "num": 85254,
       "word": "还有30天就要过大年",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1735492154,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17108,
+      "num": 369137,
+      "word": "2024我们在观点碰撞中寻找共识",
+      "onboard_time": 1735535421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15717,
@@ -1729,14 +1801,6 @@
       "onboard_time": 1735498032,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13810,
-      "num": 369137,
-      "word": "2024我们在观点碰撞中寻找共识",
-      "onboard_time": 1735535421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13728,
