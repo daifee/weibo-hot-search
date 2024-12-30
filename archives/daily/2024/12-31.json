@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735594529849,
+  "endTime": 1735597257181,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 354574,
-      "num": 357890,
+      "num": 374901,
       "word": "缅北明家靠诈骗过奢靡生活",
       "onboard_time": 1735574239,
       "rank": 9,
@@ -307,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111678,
+      "num": 111678,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109924,
       "num": 115034,
       "word": "白鹿王楚然周也同框",
@@ -475,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50548,
+      "num": 50548,
+      "word": "新疆炒米粉一辣一个不吱声",
+      "onboard_time": 1735592112,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49834,
       "num": 49834,
       "word": "归棹 年上还是年下",
       "onboard_time": 1735579454,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46597,
-      "num": 46597,
-      "word": "官方通报全体教师举报副校长",
-      "onboard_time": 1735590551,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45473,
@@ -505,14 +513,6 @@
       "onboard_time": 1735584912,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36227,
-      "num": 36227,
-      "word": "新疆炒米粉一辣一个不吱声",
-      "onboard_time": 1735592112,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 27646,
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25669,
+      "num": 25669,
+      "word": "哈尔滨部分连锁酒店房价过千",
+      "onboard_time": 1735594751,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25568,
       "num": 26384,
       "word": "檀健次自己的梗自己舞",
@@ -569,6 +577,14 @@
       "onboard_time": 1735583772,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24987,
+      "num": 50901,
+      "word": "崔相穆被立案调查",
+      "onboard_time": 1735592051,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23557,
@@ -604,19 +620,27 @@
     },
     {
       "raw_hot": 21406,
-      "num": 18356,
+      "num": 20822,
       "word": "央视跨年晚会宣传片热血震撼",
       "onboard_time": 1735589412,
       "rank": 30,
       "category": "综艺"
     },
     {
-      "raw_hot": 18873,
-      "num": 18873,
+      "raw_hot": 21328,
+      "num": 21328,
       "word": "曼联vs纽卡斯尔",
       "onboard_time": 1735587371,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18839,
+      "num": 48196,
+      "word": "纪委调查一中学全体教师举报副校长",
+      "onboard_time": 1735589531,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18220,
@@ -627,12 +651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16649,
-      "num": 48196,
-      "word": "纪委调查一中学全体教师举报副校长",
-      "onboard_time": 1735589531,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 17516,
+      "num": 59994,
+      "word": "天山深处基建狂魔放大招",
+      "onboard_time": 1735595952,
+      "rank": 14,
+      "category": "正能量"
     },
     {
       "raw_hot": 16261,
@@ -643,20 +667,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 15413,
+      "num": 20821,
+      "word": "伊普斯vs切尔西",
+      "onboard_time": 1735593312,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15045,
       "num": 20648,
       "word": "小佳说刘春和们都能到达憧憬的地方",
       "onboard_time": 1735587311,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15013,
-      "num": 50901,
-      "word": "崔相穆被立案调查",
-      "onboard_time": 1735592051,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14090,
@@ -691,20 +715,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13318,
+      "num": 22933,
+      "word": "闪耀中国红",
+      "onboard_time": 1735596672,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 12453,
       "num": 17069,
       "word": "每天认识一件文物",
       "onboard_time": 1735589652,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12339,
-      "num": 16208,
-      "word": "伊普斯vs切尔西",
-      "onboard_time": 1735593312,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 10200,
