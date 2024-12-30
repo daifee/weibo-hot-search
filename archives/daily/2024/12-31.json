@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735583413528,
+  "endTime": 1735584207650,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122656,
+      "num": 122656,
+      "word": "本周上四休三不调休",
+      "onboard_time": 1735577775,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122262,
       "num": 140203,
       "word": "薯饼 全日制",
@@ -305,14 +313,6 @@
       "onboard_time": 1735562900,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109589,
-      "num": 109589,
-      "word": "本周上四休三不调休",
-      "onboard_time": 1735577775,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99973,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64878,
+      "num": 99549,
+      "word": "千万彩票被冒领当事人说宁可没中彩票",
+      "onboard_time": 1735580833,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64603,
       "num": 114839,
       "word": "樊振东2024年终盘点",
@@ -483,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39954,
-      "num": 99549,
-      "word": "千万彩票被冒领当事人说宁可没中彩票",
-      "onboard_time": 1735580833,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27646,
       "num": 27646,
       "word": "张杰三亚演唱会",
@@ -539,6 +539,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25112,
+      "num": 25112,
+      "word": "成毅湖南卫视跨晚彩排图",
+      "onboard_time": 1735583772,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23557,
+      "num": 23557,
+      "word": "华晨宇湖南卫视跨年晚会彩排就绪",
+      "onboard_time": 1735584072,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23358,
+      "num": 23358,
+      "word": "东方卫视跨年",
+      "onboard_time": 1735583892,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22204,
       "num": 131119,
       "word": "致爱临空",
@@ -576,6 +600,14 @@
       "word": "2024体坛榜样年度评选揭晓",
       "onboard_time": 1735581013,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7369,
+      "num": 43609,
+      "word": "孙颖莎说用更好表现来回馈大家",
+      "onboard_time": 1735583413,
+      "rank": 23,
       "category": "体育"
     }
   ],
