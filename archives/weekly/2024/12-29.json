@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735590998061,
+  "endTime": 1735593645410,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -6803,6 +6803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38955,
+      "num": 38955,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38850,
       "num": 194684,
       "word": "2025LPL抽签",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1735582512,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27534,
+      "num": 27534,
+      "word": "新疆炒米粉一辣一个不吱声",
+      "onboard_time": 1735592112,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 27344,
@@ -7547,6 +7563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 18873,
+      "num": 18873,
+      "word": "曼联vs纽卡斯尔",
+      "onboard_time": 1735587371,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18592,
       "num": 36225,
       "word": "中国车企的nextlevel会是啥样",
@@ -7627,14 +7651,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 16221,
-      "num": 16431,
-      "word": "曼联vs纽卡斯尔",
-      "onboard_time": 1735587371,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16203,
       "num": 215236,
       "word": "新中式怎么搭既应景又吸睛",
@@ -7675,12 +7691,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 14454,
-      "num": 15304,
-      "word": "官方通报全体教师举报副校长",
-      "onboard_time": 1735590551,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 14090,
+      "num": 51147,
+      "word": "3分钟回顾美国前总统卡特一生",
+      "onboard_time": 1735589831,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14025,
@@ -7691,20 +7707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13901,
+      "num": 19662,
+      "word": "崔相穆被立案调查",
+      "onboard_time": 1735592051,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13830,
       "num": 14701,
       "word": "张杰三亚",
       "onboard_time": 1735498032,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13793,
-      "num": 51147,
-      "word": "3分钟回顾美国前总统卡特一生",
-      "onboard_time": 1735589831,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13741,
@@ -7760,6 +7776,14 @@
       "word": "詹姆斯生病",
       "onboard_time": 1735456338,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12339,
+      "num": 16208,
+      "word": "伊普斯vs切尔西",
+      "onboard_time": 1735593312,
+      "rank": 49,
       "category": "体育"
     },
     {

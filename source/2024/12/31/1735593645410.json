@@ -1,0 +1,410 @@
+{
+  "runTime": 1735593645410,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 106955,
+        "num": 128223,
+        "word": "缅北明家靠诈骗过奢靡生活",
+        "onboard_time": 1735574239,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145136,
+        "num": 99977,
+        "word": "韩坠机一遇难者出发前曾预留丧葬费",
+        "onboard_time": 1735572980,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9010,
+        "num": 64613,
+        "word": "一组数据看中国空间站成绩单",
+        "onboard_time": 1735563560,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63172,
+        "num": 63172,
+        "word": "赵露思1月到12月的变化",
+        "onboard_time": 1735555639,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56932,
+        "num": 56932,
+        "word": "韩国空难幸存空少恐全身瘫痪",
+        "onboard_time": 1735544600,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52599,
+        "num": 52599,
+        "word": "雷军千万年薪聘用的95后女生履历",
+        "onboard_time": 1735562780,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50159,
+        "num": 50159,
+        "word": "2024就剩1天了",
+        "onboard_time": 1735573879,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49285,
+        "num": 49285,
+        "word": "官方回应出生2天婴儿被护士烫伤",
+        "onboard_time": 1735572619,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46781,
+        "num": 46781,
+        "word": "韩失事客机飞行员3次发出求救信号",
+        "onboard_time": 1735556838,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40333,
+        "num": 45339,
+        "word": "王一博和大学生唱天高海阔",
+        "onboard_time": 1735573760,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44404,
+        "num": 44404,
+        "word": "千万彩票被冒领当事人说宁可没中彩票",
+        "onboard_time": 1735580833,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41281,
+        "num": 41281,
+        "word": "从宾馆服务员干到副厅级的柴高潮被查",
+        "onboard_time": 1735569561,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38955,
+        "num": 38955,
+        "word": "官方通报全体教师举报副校长",
+        "onboard_time": 1735590551,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38601,
+        "num": 38601,
+        "word": "吴奇隆马雅舒离婚后不同境遇",
+        "onboard_time": 1735549340,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33034,
+        "num": 33034,
+        "word": "男子公司年会上饮酒身亡无同事发现",
+        "onboard_time": 1735558579,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27534,
+        "num": 27534,
+        "word": "新疆炒米粉一辣一个不吱声",
+        "onboard_time": 1735592112,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27359,
+        "num": 27359,
+        "word": "江苏卫视跨年演唱会全开麦真唱",
+        "onboard_time": 1735576097,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25820,
+        "num": 25820,
+        "word": "姜尘",
+        "onboard_time": 1735569621,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24950,
+        "num": 24950,
+        "word": "蒋勤勤感谢易烊千玺",
+        "onboard_time": 1735574719,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23152,
+        "num": 23152,
+        "word": "网友抱怨哈尔滨200多元酒店涨至2000多",
+        "onboard_time": 1735566441,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120898,
+        "num": 23123,
+        "word": "姜尘疑似内涵张颂文",
+        "onboard_time": 1735572319,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49801,
+        "num": 22905,
+        "word": "同情赵露思患病并不可耻",
+        "onboard_time": 1735566500,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34577,
+        "num": 22825,
+        "word": "WTT85%股份由ITTF持有",
+        "onboard_time": 1735583171,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22434,
+        "num": 22434,
+        "word": "王鹤棣无水雾版腹肌",
+        "onboard_time": 1735584912,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22355,
+        "num": 22355,
+        "word": "男子住女友家5年分手后被判付23万",
+        "onboard_time": 1735558999,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20571,
+        "num": 20571,
+        "word": "金莲花",
+        "onboard_time": 1735572439,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20320,
+        "num": 20320,
+        "word": "大奉打更人热度",
+        "onboard_time": 1735564940,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19947,
+        "num": 19947,
+        "word": "明家犯罪集团及其关联案件侦办始末",
+        "onboard_time": 1735578135,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13901,
+        "num": 19662,
+        "word": "崔相穆被立案调查",
+        "onboard_time": 1735592051,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19657,
+        "num": 19657,
+        "word": "央视跨年晚会阵容你最期待谁",
+        "onboard_time": 1735568541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19433,
+        "num": 19433,
+        "word": "虞书欣明晚见",
+        "onboard_time": 1735575497,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19414,
+        "num": 19414,
+        "word": "何炅跨年彩排穿着好六惩罚衣",
+        "onboard_time": 1735572381,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19190,
+        "num": 19190,
+        "word": "冬至今年现偶黑马",
+        "onboard_time": 1735570701,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18873,
+        "num": 18873,
+        "word": "曼联vs纽卡斯尔",
+        "onboard_time": 1735587371,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18148,
+        "num": 18148,
+        "word": "男子花近40万相亲1天结婚领证",
+        "onboard_time": 1735555940,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14090,
+        "num": 17551,
+        "word": "3分钟回顾美国前总统卡特一生",
+        "onboard_time": 1735589831,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17334,
+        "num": 17334,
+        "word": "终于懂得昼川老师的被光所诱惑",
+        "onboard_time": 1735566141,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16608,
+        "num": 16608,
+        "word": "纪委调查一中学全体教师举报副校长",
+        "onboard_time": 1735589531,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16559,
+        "num": 16559,
+        "word": "央视跨年晚会宣传片热血震撼",
+        "onboard_time": 1735589412,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16435,
+        "num": 16435,
+        "word": "男子钓到56斤鳡鱼绕城5小时炫耀",
+        "onboard_time": 1735563080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15706,
+        "num": 16419,
+        "word": "祝绪丹杨仕泽 正主被舞到脸上",
+        "onboard_time": 1735571121,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14610,
+        "num": 16390,
+        "word": "Doinb NIP",
+        "onboard_time": 1735562119,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14339,
+        "num": 16383,
+        "word": "中国海军076两栖攻击舰首舰下水",
+        "onboard_time": 1735585032,
+        "rank": 42,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 13325,
+        "num": 16352,
+        "word": "本周上四休三不调休",
+        "onboard_time": 1735577775,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13266,
+        "num": 16334,
+        "word": "年度照片",
+        "onboard_time": 1735576817,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13127,
+        "num": 16293,
+        "word": "麦当劳奶昔回归",
+        "onboard_time": 1735569021,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12958,
+        "num": 16274,
+        "word": "成毅湖南卫视跨晚彩排图",
+        "onboard_time": 1735583772,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12511,
+        "num": 16254,
+        "word": "向佐致歉",
+        "onboard_time": 1735563200,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12461,
+        "num": 16235,
+        "word": "中方对美前总统卡特逝世表示深切哀悼",
+        "onboard_time": 1735588751,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12339,
+        "num": 16208,
+        "word": "伊普斯vs切尔西",
+        "onboard_time": 1735593312,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温习近平主席新年贺词#"
+    }
+  }
+}
