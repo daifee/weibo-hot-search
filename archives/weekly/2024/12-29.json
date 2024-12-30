@@ -1,6 +1,6 @@
 {
   "startTime": 1735403138755,
-  "endTime": 1735527336367,
+  "endTime": 1735527877134,
   "band_list": [
     {
       "raw_hot": 14258889,
@@ -251,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1225080,
+      "num": 1173881,
+      "word": "韩国客机撞墙前6分钟鸟情预警",
+      "onboard_time": 1735522279,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1218902,
       "num": 508773,
       "word": "杨幂发烧咳嗽",
@@ -273,14 +281,6 @@
       "onboard_time": 1735472720,
       "rank": 4,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1173881,
-      "num": 1173881,
-      "word": "韩国客机撞墙前6分钟鸟情预警",
-      "onboard_time": 1735522279,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1142187,
@@ -307,7 +307,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1130410,
+      "raw_hot": 1139704,
       "num": 338741,
       "word": "大奉打更人被演技劝退",
       "onboard_time": 1735523299,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 891394,
+      "num": 891394,
+      "word": "难哄",
+      "onboard_time": 1735525759,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 891111,
       "num": 891111,
       "word": "空空日记直播",
@@ -433,14 +441,6 @@
       "onboard_time": 1735459580,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 812996,
-      "num": 812996,
-      "word": "难哄",
-      "onboard_time": 1735525759,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 805241,
@@ -481,6 +481,14 @@
       "onboard_time": 1735447341,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 765100,
+      "num": 765100,
+      "word": "海口官方通报小学生校内死亡",
+      "onboard_time": 1735525698,
+      "rank": 10,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 760695,
@@ -681,14 +689,6 @@
       "onboard_time": 1735399583,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 568469,
-      "num": 568469,
-      "word": "海口官方通报小学生校内死亡",
-      "onboard_time": 1735525698,
-      "rank": 10,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 562393,
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409190,
+      "num": 409190,
+      "word": "王鹤棣演技",
+      "onboard_time": 1735524619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404975,
       "num": 404975,
       "word": "陌生人发来的晚安",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1735439359,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 390754,
-      "num": 390754,
-      "word": "王鹤棣演技",
-      "onboard_time": 1735524619,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 390739,
@@ -1411,6 +1411,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 291844,
+      "num": 291844,
+      "word": "樊振东退出世排后首赛",
+      "onboard_time": 1735523178,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289909,
       "num": 394612,
       "word": "黑神话主题曲在央视晚会开唱了",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1735449501,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 287659,
+      "num": 287659,
+      "word": "阿信好会写",
+      "onboard_time": 1735526358,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 285784,
@@ -1643,14 +1659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246898,
-      "num": 246898,
-      "word": "樊振东退出世排后首赛",
-      "onboard_time": 1735523178,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 245611,
       "num": 507973,
       "word": "韩国务安机场所有航班取消起降",
@@ -1728,6 +1736,14 @@
       "word": "因质疑作业把家长踢出群老师已道歉",
       "onboard_time": 1735485800,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227524,
+      "num": 227524,
+      "word": "缅北4名中国警察卧底被害等传言不实",
+      "onboard_time": 1735527199,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1841,14 +1857,6 @@
       "onboard_time": 1735451658,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 213212,
-      "num": 213212,
-      "word": "阿信好会写",
-      "onboard_time": 1735526358,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 212697,
@@ -1977,6 +1985,14 @@
       "onboard_time": 1735477702,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205788,
+      "num": 205788,
+      "word": "阿塞拜疆",
+      "onboard_time": 1735524077,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 204868,
@@ -2139,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197967,
+      "num": 197967,
+      "word": "归棹",
+      "onboard_time": 1735524619,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197941,
       "num": 197941,
       "word": "白敬亭跟摄影师交换装备",
@@ -2169,14 +2193,6 @@
       "onboard_time": 1735472961,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196436,
-      "num": 196436,
-      "word": "阿塞拜疆",
-      "onboard_time": 1735524077,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195791,
@@ -2459,14 +2475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180935,
-      "num": 180935,
-      "word": "归棹",
-      "onboard_time": 1735524619,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 180696,
       "num": 267195,
       "word": "2024LCK",
@@ -2515,6 +2523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177812,
+      "num": 177812,
+      "word": "微博年度关键词松弛感",
+      "onboard_time": 1735527079,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 176923,
       "num": 243038,
       "word": "孙颖莎汰渍见面会现场",
@@ -2561,14 +2577,6 @@
       "onboard_time": 1735442600,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172862,
-      "num": 172862,
-      "word": "缅北4名中国警察卧底被害等传言不实",
-      "onboard_time": 1735527199,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171670,
@@ -2635,6 +2643,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168687,
+      "num": 180921,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168591,
       "num": 168591,
       "word": "檀健次风大但发型不能乱",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1735481482,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165323,
-      "num": 180921,
-      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
-      "onboard_time": 1735515677,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 164844,
@@ -2859,6 +2867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 153529,
+      "num": 153529,
+      "word": "刘传健说飞行员严格训练必不可少",
+      "onboard_time": 1735527498,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150777,
       "num": 150777,
       "word": "刘雅瑟演误杀3两个愿望实现0个",
@@ -2873,14 +2889,6 @@
       "onboard_time": 1735459580,
       "rank": 39,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 150059,
-      "num": 150059,
-      "word": "微博年度关键词松弛感",
-      "onboard_time": 1735527079,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 149144,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1735431076,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145405,
+      "num": 145405,
+      "word": "住北京0.5环是什么体验",
+      "onboard_time": 1735527739,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145178,
@@ -3089,6 +3105,14 @@
       "onboard_time": 1735440139,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136914,
+      "num": 637723,
+      "word": "刘传健就韩国客机失事发声",
+      "onboard_time": 1735527018,
+      "rank": 9,
+      "category": "艺人,国际时政"
     },
     {
       "raw_hot": 135615,
@@ -3675,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82188,
+      "num": 266760,
+      "word": "研究生是非要期末考吗",
+      "onboard_time": 1735527018,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 81664,
       "num": 65251,
       "word": "内娱连综艺都能预制了",
@@ -3771,14 +3803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71582,
-      "num": 597110,
-      "word": "刘传健就韩国客机失事发声",
-      "onboard_time": 1735527018,
-      "rank": 9,
-      "category": "艺人,国际时政"
-    },
-    {
       "raw_hot": 70622,
       "num": 221127,
       "word": "秋冬叠穿好物",
@@ -3809,6 +3833,14 @@
       "onboard_time": 1735470081,
       "rank": 29,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 66422,
+      "num": 339241,
+      "word": "2024年十大国际事件",
+      "onboard_time": 1735527018,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65933,
@@ -3947,6 +3979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49631,
+      "num": 349983,
+      "word": "蒯曼覃予萱vs陈熠刘炜珊",
+      "onboard_time": 1735527139,
+      "rank": 18,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 48883,
       "num": 48883,
       "word": "过去10年韩国发生67起飞机事故",
@@ -4011,14 +4051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 42200,
-      "num": 339241,
-      "word": "2024年十大国际事件",
-      "onboard_time": 1735527018,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39571,
       "num": 39571,
       "word": "有直播间公然售假羊绒衫不怕举报封号",
@@ -4049,6 +4081,14 @@
       "onboard_time": 1735480402,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38576,
+      "num": 413764,
+      "word": "樊振东好看又能打",
+      "onboard_time": 1735524319,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 38520,
@@ -4137,14 +4177,6 @@
       "onboard_time": 1735464319,
       "rank": 2,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 34478,
-      "num": 413764,
-      "word": "樊振东好看又能打",
-      "onboard_time": 1735524319,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 33943,
@@ -4243,28 +4275,12 @@
       "category": "民生新闻,幽默"
     },
     {
-      "raw_hot": 27180,
-      "num": 266490,
-      "word": "研究生是非要期末考吗",
-      "onboard_time": 1735527018,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 26774,
       "num": 186515,
       "word": "2024年的温暖瞬间",
       "onboard_time": 1735406117,
       "rank": 23,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 26771,
-      "num": 349983,
-      "word": "蒯曼覃予萱vs陈熠刘炜珊",
-      "onboard_time": 1735527139,
-      "rank": 18,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 26591,
@@ -4693,6 +4709,9 @@
     },
     {
       "word": "#感悟习近平主席新年贺词里的人民情怀#"
+    },
+    {
+      "word": "#习近平将发表2025新年贺词#"
     }
   ]
 }
