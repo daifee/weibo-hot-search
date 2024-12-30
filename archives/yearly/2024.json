@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1735527877134,
+  "endTime": 1735529337956,
   "band_list": [
     {
       "raw_hot": 48534407,
@@ -1995,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 9136656,
+      "num": 10386656,
+      "word": "河北邯郸初中生被杀案一审宣判",
+      "onboard_time": 1735528399,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 9102725,
       "num": 9102725,
       "word": "0713圆梦了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706183971,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 8305198,
-      "num": 8305198,
-      "word": "国乒男团vs瑞典",
-      "onboard_time": 1723206564,
-      "rank": 7,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

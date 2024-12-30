@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/12/30 11:04:37
+本榜单时间：2024/01/01 00:21:05 ~ 2024/12/30 11:28:57
 </p>
 </blockquote>
 <p>
@@ -1509,6 +1509,12 @@ T1夺冠（热度：10436342）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
+河北邯郸初中生被杀案一审宣判（热度：9136656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%E5%9C%86%E6%A2%A6%E4%BA%86%23" target="weibo">
 0713圆梦了（热度：9102725）
 </a>
@@ -1805,12 +1811,6 @@ T1夺冠（热度：10436342）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E6%80%BC%E4%BA%8E%E6%AD%A3%23" target="weibo">
 徐娇怼于正（热度：8309889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2vs%E7%91%9E%E5%85%B8%23" target="weibo">
-国乒男团vs瑞典（热度：8305198）
 </a>
 </li>
 

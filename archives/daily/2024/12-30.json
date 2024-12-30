@@ -1,7 +1,15 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735527877134,
+  "endTime": 1735529337956,
   "band_list": [
+    {
+      "raw_hot": 9136656,
+      "num": 10386656,
+      "word": "河北邯郸初中生被杀案一审宣判",
+      "onboard_time": 1735528399,
+      "rank": 0,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2747457,
       "num": 2747457,
@@ -131,8 +139,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 765100,
-      "num": 765100,
+      "raw_hot": 852248,
+      "num": 852248,
       "word": "海口官方通报小学生校内死亡",
       "onboard_time": 1735525698,
       "rank": 10,
@@ -299,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 327092,
+      "num": 600267,
+      "word": "缅北4名中国警察卧底被害等传言不实",
+      "onboard_time": 1735527199,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320357,
       "num": 320357,
       "word": "苦寻多年才知父亲是抗日英雄杨靖宇",
@@ -363,6 +379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 281647,
+      "num": 281647,
+      "word": "住北京0.5环是什么体验",
+      "onboard_time": 1735527739,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280824,
       "num": 280824,
       "word": "湖人篮网交易",
@@ -377,6 +401,14 @@
       "onboard_time": 1735484961,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 268449,
+      "num": 279559,
+      "word": "孟子义帮李昀锐整理头发",
+      "onboard_time": 1735528279,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 266930,
@@ -411,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 254487,
+      "num": 254487,
+      "word": "多国政要悼念卡特",
+      "onboard_time": 1735528580,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251344,
       "num": 251344,
       "word": "每一个奋斗的你都是中国的底气",
@@ -443,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227524,
-      "num": 227524,
-      "word": "缅北4名中国警察卧底被害等传言不实",
-      "onboard_time": 1735527199,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 218754,
+      "num": 254758,
+      "word": "周深说成为歌手是他生命的一次意外",
+      "onboard_time": 1735525999,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 211635,
@@ -459,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211335,
+      "num": 637723,
+      "word": "刘传健就韩国客机失事发声",
+      "onboard_time": 1735527018,
+      "rank": 9,
+      "category": "艺人,国际时政"
+    },
+    {
       "raw_hot": 211121,
       "num": 211121,
       "word": "广州一地铁口出现密集隔离柱",
@@ -467,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209332,
+      "num": 209332,
+      "word": "遇难韩国妈妈患癌1年刚旅行归来",
+      "onboard_time": 1735528339,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 205788,
       "num": 205788,
       "word": "阿塞拜疆",
       "onboard_time": 1735524077,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204868,
-      "num": 204868,
-      "word": "周深说成为歌手是他生命的一次意外",
-      "onboard_time": 1735525999,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 201757,
@@ -507,12 +555,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198576,
+      "num": 198576,
+      "word": "张艺兴红色寸头",
+      "onboard_time": 1735528460,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197967,
       "num": 197967,
       "word": "归棹",
       "onboard_time": 1735524619,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197612,
+      "num": 197612,
+      "word": "乒超女团深圳vs上海",
+      "onboard_time": 1735528818,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192919,
+      "num": 192919,
+      "word": "火箭热火冲突",
+      "onboard_time": 1735528759,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 190800,
@@ -539,11 +611,35 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 183751,
+      "num": 183751,
+      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
+      "onboard_time": 1735515677,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183092,
+      "num": 183092,
+      "word": "刘传健说飞行员严格训练必不可少",
+      "onboard_time": 1735527498,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183082,
       "num": 183082,
       "word": "WTT世界排名",
       "onboard_time": 1735522878,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182492,
+      "num": 193389,
+      "word": "乒超",
+      "onboard_time": 1735528640,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -571,6 +667,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 177408,
+      "num": 266760,
+      "word": "研究生是非要期末考吗",
+      "onboard_time": 1735527018,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171692,
       "num": 171692,
       "word": "虞书欣飞机上看粉丝的信",
@@ -587,11 +691,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 168687,
-      "num": 180921,
-      "word": "赵露思曾因拍戏一只耳朵短暂性失聪",
-      "onboard_time": 1735515677,
-      "rank": 34,
+      "raw_hot": 168125,
+      "num": 168125,
+      "word": "玉溪 cos圣体",
+      "onboard_time": 1735529000,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -611,20 +715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164036,
+      "num": 164036,
+      "word": "金晨哭戏",
+      "onboard_time": 1735529242,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 163999,
+      "num": 163999,
+      "word": "无限暖暖流星季",
+      "onboard_time": 1735529301,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162884,
       "num": 282900,
       "word": "刘涛送小提琴给蓝盈莹",
       "onboard_time": 1735522038,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153529,
-      "num": 153529,
-      "word": "刘传健说飞行员严格训练必不可少",
-      "onboard_time": 1735527498,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 151586,
@@ -649,14 +761,6 @@
       "onboard_time": 1735480460,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145405,
-      "num": 145405,
-      "word": "住北京0.5环是什么体验",
-      "onboard_time": 1735527739,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144712,
@@ -697,14 +801,6 @@
       "onboard_time": 1735469060,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136914,
-      "num": 637723,
-      "word": "刘传健就韩国客机失事发声",
-      "onboard_time": 1735527018,
-      "rank": 9,
-      "category": "艺人,国际时政"
     },
     {
       "raw_hot": 133100,
@@ -803,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108423,
+      "num": 1097446,
+      "word": "中国刷新世界最长高速公路隧道纪录",
+      "onboard_time": 1735528279,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107990,
       "num": 107990,
       "word": "韩客机遇难者家属哭诉只希望他们活着",
@@ -849,14 +953,6 @@
       "onboard_time": 1735512973,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 82188,
-      "num": 266760,
-      "word": "研究生是非要期末考吗",
-      "onboard_time": 1735527018,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 71671,
@@ -923,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53538,
+      "num": 375524,
+      "word": "河北邯郸初中生被害案时间线",
+      "onboard_time": 1735529179,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51534,
       "num": 73685,
       "word": "南京地铁12月31日晚不组织延时服务",
@@ -945,6 +1049,14 @@
       "onboard_time": 1735501271,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48654,
+      "num": 496917,
+      "word": "樊振东好看又能打",
+      "onboard_time": 1735524319,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 43484,
@@ -985,14 +1097,6 @@
       "onboard_time": 1735480402,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38576,
-      "num": 413764,
-      "word": "樊振东好看又能打",
-      "onboard_time": 1735524319,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 38520,
