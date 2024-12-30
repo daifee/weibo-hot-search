@@ -1,6 +1,6 @@
 {
   "startTime": 1735489511133,
-  "endTime": 1735554244449,
+  "endTime": 1735555277249,
   "band_list": [
     {
       "raw_hot": 15478881,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1393904,
-      "num": 457658,
+      "num": 487188,
       "word": "李在明跪地安慰失事客机遇难者家属",
       "onboard_time": 1735550660,
       "rank": 36,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1023275,
+      "num": 1023275,
+      "word": "以色列",
+      "onboard_time": 1735552760,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 999229,
       "num": 420075,
       "word": "她最后一刻发的是妈妈我爱你",
@@ -267,8 +275,16 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 754511,
+      "num": 754511,
+      "word": "短剧演员片酬",
+      "onboard_time": 1735552879,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 743381,
-      "num": 387471,
+      "num": 393320,
       "word": "安小鸟保胎",
       "onboard_time": 1735547419,
       "rank": 22,
@@ -379,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 588900,
-      "num": 588900,
-      "word": "以色列",
-      "onboard_time": 1735552760,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 567675,
       "num": 531086,
       "word": "女子用车厘子喂鸡引网友羡慕",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 549701,
-      "num": 419867,
+      "num": 434499,
       "word": "迪丽热巴小时候的童年照片",
       "onboard_time": 1735549760,
       "rank": 20,
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 488432,
+      "num": 488432,
+      "word": "拜登称后悔退出总统选举",
+      "onboard_time": 1735552581,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 483558,
       "num": 403554,
       "word": "奉劝大家12月份的工资别乱花",
@@ -505,14 +521,6 @@
       "onboard_time": 1735530742,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 467435,
-      "num": 467435,
-      "word": "短剧演员片酬",
-      "onboard_time": 1735552879,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 461978,
@@ -620,19 +628,11 @@
     },
     {
       "raw_hot": 376822,
-      "num": 430730,
+      "num": 486457,
       "word": "杨幂湖南卫视跨年素颜彩排照",
       "onboard_time": 1735549579,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 376334,
-      "num": 376334,
-      "word": "拜登称后悔退出总统选举",
-      "onboard_time": 1735552581,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 375766,
@@ -955,6 +955,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 260093,
+      "num": 463639,
+      "word": "接任3天韩国代总统被立案调查",
+      "onboard_time": 1735553059,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257117,
       "num": 257117,
       "word": "陈梦提新车",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1735522279,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246709,
+      "num": 246709,
+      "word": "韩国失事客机事发前48小时执飞13次",
+      "onboard_time": 1735553059,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 245695,
@@ -1099,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233084,
+      "num": 412659,
+      "word": "李昀锐浙江跨年彩排",
+      "onboard_time": 1735552940,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230760,
       "num": 230759,
       "word": "个税专项附加扣除明天截止",
@@ -1139,28 +1163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223751,
-      "num": 223751,
-      "word": "韩国失事客机事发前48小时执飞13次",
-      "onboard_time": 1735553059,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 219284,
-      "num": 219284,
+      "num": 238078,
       "word": "恋与深空奔涌至昨夜尽头",
       "onboard_time": 1735553600,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 219201,
-      "num": 412659,
-      "word": "李昀锐浙江跨年彩排",
-      "onboard_time": 1735552940,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 218754,
@@ -1435,12 +1443,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183980,
+      "num": 183980,
+      "word": "姥姥高定",
+      "onboard_time": 1735552820,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 183082,
       "num": 360386,
       "word": "WTT世界排名",
       "onboard_time": 1735522878,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182520,
+      "num": 182520,
+      "word": "大奉打更人",
+      "onboard_time": 1735554561,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 182492,
@@ -1467,14 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180373,
-      "num": 463639,
-      "word": "接任3天韩国代总统被立案调查",
-      "onboard_time": 1735553059,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179473,
       "num": 179473,
       "word": "年度账单",
@@ -1483,12 +1499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177832,
+      "num": 437262,
+      "word": "樊振东陈梦退出世界排名还能参加奥运会吗",
+      "onboard_time": 1735554319,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177812,
       "num": 177812,
       "word": "微博年度关键词松弛感",
       "onboard_time": 1735527079,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176797,
+      "num": 176797,
+      "word": "樊振东和陈梦退出世界排名意味着什么",
+      "onboard_time": 1735551738,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 176491,
@@ -1537,14 +1569,6 @@
       "onboard_time": 1735483583,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171090,
-      "num": 171090,
-      "word": "樊振东和陈梦退出世界排名意味着什么",
-      "onboard_time": 1735551738,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 171009,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1735551379,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163556,
-      "num": 163556,
-      "word": "姥姥高定",
-      "onboard_time": 1735552820,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 163027,
@@ -1891,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133246,
+      "num": 484692,
+      "word": "千万彩票被冒领当事人仍未拿到奖金",
+      "onboard_time": 1735553779,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 133100,
       "num": 133100,
       "word": "易烊千玺采访",
@@ -2108,7 +2132,7 @@
     },
     {
       "raw_hot": 104175,
-      "num": 886987,
+      "num": 1069261,
       "word": "警方讲述缅北1020案侦办始末",
       "onboard_time": 1735548620,
       "rank": 2,
@@ -2145,6 +2169,14 @@
       "onboard_time": 1735523838,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100909,
+      "num": 260122,
+      "word": "四川一中学教师被指与学生亲吻搂抱",
+      "onboard_time": 1735553600,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96801,
@@ -2259,14 +2291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70951,
-      "num": 434786,
-      "word": "千万彩票被冒领当事人仍未拿到奖金",
-      "onboard_time": 1735553779,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 69722,
       "num": 69722,
       "word": "樊振东王楚钦2024最后一天巅峰对决",
@@ -2337,6 +2361,14 @@
       "onboard_time": 1735479743,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 59483,
+      "num": 242827,
+      "word": "大学生期末周现状",
+      "onboard_time": 1735553540,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 59424,
@@ -2435,6 +2467,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 45637,
+      "num": 482943,
+      "word": "蒲熠星刘旸随采变i人地狱",
+      "onboard_time": 1735554380,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43484,
       "num": 43484,
       "word": "拉塞尔重回篮网",
@@ -2473,6 +2513,22 @@
       "onboard_time": 1735481002,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40867,
+      "num": 245572,
+      "word": "李宇春 跨年彩排各就各位",
+      "onboard_time": 1735555159,
+      "rank": 33,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 40069,
+      "num": 484951,
+      "word": "乒超女团山东vs黄石",
+      "onboard_time": 1735554860,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 39571,
@@ -2555,6 +2611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35395,
+      "num": 261052,
+      "word": "韩交通部称将调查机场跑道末端设施",
+      "onboard_time": 1735554020,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 35019,
+      "num": 486071,
+      "word": "钱天一陈幸同vs郑先知木原美悠",
+      "onboard_time": 1735554860,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34270,
       "num": 369329,
       "word": "起底职称代办骗局",
@@ -2627,11 +2699,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30941,
+      "num": 487702,
+      "word": "民警为摧毁明家1年多奔赴百余地市",
+      "onboard_time": 1735555159,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29502,
       "num": 253640,
       "word": "主角都是自己给自己的",
       "onboard_time": 1735529781,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29500,
+      "num": 480780,
+      "word": "奥特曼音乐之父去世",
+      "onboard_time": 1735554080,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -2649,14 +2737,6 @@
       "onboard_time": 1735495333,
       "rank": 38,
       "category": "民生新闻,幽默"
-    },
-    {
-      "raw_hot": 28339,
-      "num": 242827,
-      "word": "大学生期末周现状",
-      "onboard_time": 1735553540,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 28229,
@@ -2691,14 +2771,6 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 25702,
-      "num": 403796,
-      "word": "奥特曼音乐之父去世",
-      "onboard_time": 1735554080,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25308,
       "num": 304927,
       "word": "00后为什么爱上了年代故事",
@@ -2729,14 +2801,6 @@
       "onboard_time": 1735509552,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23905,
-      "num": 246588,
-      "word": "韩交通部称将调查机场跑道末端设施",
-      "onboard_time": 1735554020,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 23063,
@@ -2777,6 +2841,14 @@
       "onboard_time": 1735504030,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 20692,
+      "num": 182121,
+      "word": "水果冷泡红酒",
+      "onboard_time": 1735554140,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 20680,
@@ -2899,12 +2971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 7911,
-      "num": 182121,
-      "word": "水果冷泡红酒",
-      "onboard_time": 1735554140,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 8200,
+      "num": 481392,
+      "word": "微博松弛感累计被互动10.4亿次",
+      "onboard_time": 1735555101,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 7322,
