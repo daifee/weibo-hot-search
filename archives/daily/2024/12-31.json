@@ -1,6 +1,6 @@
 {
   "startTime": 1735576065390,
-  "endTime": 1735593645410,
+  "endTime": 1735594529849,
   "band_list": [
     {
       "raw_hot": 1781083,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46597,
+      "num": 46597,
+      "word": "官方通报全体教师举报副校长",
+      "onboard_time": 1735590551,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45473,
       "num": 114757,
       "word": "2024我们一起走过",
@@ -499,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38955,
-      "num": 38955,
-      "word": "官方通报全体教师举报副校长",
-      "onboard_time": 1735590551,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 36227,
+      "num": 36227,
+      "word": "新疆炒米粉一辣一个不吱声",
+      "onboard_time": 1735592112,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 27646,
@@ -513,14 +521,6 @@
       "onboard_time": 1735582512,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 27534,
-      "num": 27534,
-      "word": "新疆炒米粉一辣一个不吱声",
-      "onboard_time": 1735592112,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 27344,
@@ -651,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15013,
+      "num": 50901,
+      "word": "崔相穆被立案调查",
+      "onboard_time": 1735592051,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14090,
       "num": 51147,
       "word": "3分钟回顾美国前总统卡特一生",
@@ -667,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13901,
-      "num": 19662,
-      "word": "崔相穆被立案调查",
-      "onboard_time": 1735592051,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13741,
       "num": 24452,
       "word": "向佐退出跨年盛典录制",
@@ -684,11 +684,19 @@
     },
     {
       "raw_hot": 13643,
-      "num": 16423,
+      "num": 17080,
       "word": "中方对美前总统卡特逝世表示深切哀悼",
       "onboard_time": 1735588751,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12453,
+      "num": 17069,
+      "word": "每天认识一件文物",
+      "onboard_time": 1735589652,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 12339,
